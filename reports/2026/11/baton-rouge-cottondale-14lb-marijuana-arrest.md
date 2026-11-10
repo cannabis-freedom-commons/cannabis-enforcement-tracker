@@ -57,7 +57,6 @@ open_questions:
   - The numbers of guns, scales and body-armor items were not specified beyond multiple guns, so no weapons count is recorded.
   - No court outcome beyond booking was reported, and the charges and custody status after booking are not known.
   - Only one accessible account of this event was found after searching for the names, place and charges, so corroboration is limited.
-  - No event photo was available because the submitted page lists only a weather-radar image, so no media entry is included.
   - The original Louisiana First article (louisianafirstnews.com) returned a 403 error, so its MSN syndication copy was the opened version of this account; its text and figures match the WBRZ report.
 ---
 

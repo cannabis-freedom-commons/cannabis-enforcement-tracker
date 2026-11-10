@@ -47,7 +47,6 @@ open_questions:
   - The Russian account says F.G. bought the batch with S.B. and the English account says he told officers he had bought it from C.B.; the sources do not establish whether S.B. and C.B. are the same person, and only F.G. is clearly reported as detained.
   - No court outcome was reported; the articles say only that a criminal case was opened and an investigation was continuing.
   - The article also reports a separate 33 kg hashish seizure near Tursunzoda on 8–9 March and a Dushanbe heroin seizure on 10 March, both different events left out here, and gives no date for the later prosecution of this case.
-  - No photograph of this seizure with a recoverable direct image address was found on either opened account, so no media entry is included.
 ---
 
 Police in northern Tajikistan stopped a Mercedes in the Isfisor jamoat of

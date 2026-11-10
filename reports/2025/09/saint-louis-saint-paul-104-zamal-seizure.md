@@ -53,7 +53,6 @@ open_questions:
   - The articles give no separate date for the seizures, so 27 September 2025, the publication date, is used as the incident date.
   - No arrests, charges, custody decisions or court outcomes were reported in these accounts.
   - The headline rounds the dried weight to 1.4 kg while the bodies give 1.49 kg; the report uses the precise 1.49 kg figure.
-  - The submitted roundup's only image is a 5-infos graphic that does not show the seizure, and the Gendarmerie photos credited by Réunion La 1ère could not be recovered as direct image URLs, so no media entry is included.
   - The Réunion La 1ère drug-driving tally of 5 suspended licences and 34 drug-driving cases concerns a separate enforcement topic and is left out here.
   - Only the two communes are named; exact plot locations, destruction method and any values were not reported.
 ---

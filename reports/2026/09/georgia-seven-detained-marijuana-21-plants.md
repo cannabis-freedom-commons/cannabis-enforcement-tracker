@@ -55,7 +55,6 @@ open_questions:
   - No names, custody decisions or court outcome were reported; the investigation was still under way.
   - Mephedrone, methadone and pregabalin are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - Both accounts repeat the Interior Ministry version; the agency statement itself was not opened directly.
-  - The photos on both pages are not established to show this seizure, so no media entry is included.
 ---
 
 Officers of the Interior Ministry's Central Criminal Police Department detained

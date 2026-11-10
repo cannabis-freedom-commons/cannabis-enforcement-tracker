@@ -46,10 +46,8 @@ sources:
     publisher: Daily Herald
     date: 2026-11-02
 open_questions:
-  - The submitted page does not name the suspects; the names Julio C. Chairez and Keena L. Walker come from the Daily Herald account.
   - Only suspected weights were published, with a field test reported for the heroin and fentanyl powder; no laboratory confirmation or independent weighing was reported.
   - Additional charges were described as pending and no court outcome beyond the scheduled 6 November appearance was reported.
-  - No usable photo of the event was available; the submitted page images are advertisements and a podcast graphic, so no media entry is added.
 ---
 
 Aurora police arrested 33-year-old Julio C. Chairez, described as an active gang

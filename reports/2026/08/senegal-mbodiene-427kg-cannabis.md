@@ -48,7 +48,6 @@ status: verified
 open_questions:
   - The sources do not identify who owned the shipment or where it was bound.
   - The gendarmerie page is dated September 3, while Le Soleil dates the communiqué to September 2.
-  - The APA page carries a photo captioned with the seizure title, but the caption and article text do not describe what it shows, so no media entry is included.
 sources:
   - title: "Lutte contre le trafic de stupéfiants: quatre cent vingt-sept (427) kilogrammes de chanvre indien saisis à Mbodiène par la compagnie de Gendarmerie de Mbour."
     url: https://www.gendarmerie.sn/post.php?page=7&slug=lutte-contre-le-trafic-de-stup-fiants-quatre-cent-vingt-sept-427-kilogrammes-de-chanvre-indien-saisis-mbodi-ne-par-la-compagnie-de-gendarmerie-de-mbour

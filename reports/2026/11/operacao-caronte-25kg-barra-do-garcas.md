@@ -58,11 +58,8 @@ open_questions:
   - The 25 kg cannabis figure is described as approximate and refers to the July 2023 seizure in Barra do Garças, with no new seizure weight reported for the current warrants.
   - No amount for the suspected financial movements and no identities of those moving funds were published.
   - The Muvuca header counts eight arrest warrants and a Federal Police summary line mentions eight preventive arrest warrants, while both bodies detail three preventive arrest warrants plus five search warrants, so this report uses the detailed three-plus-five breakdown totalling eight warrants.
-  - 'The submitted page carries a photo captioned only as Foto: PF from an April 2026 upload, which does not establish that it shows Operation Caronte, and the Federal Police page image has no caption establishing what it shows, so no media entry is included.'
   - No charges, custody decisions or court outcomes beyond the court-ordered warrants were reported, and the investigation was described as continuing.
   - 'Left out, as its quotation was not found in Polícia Federal: The Federal Police presents the case from Barra do Garças in Mato Grosso, where the underlying investigation began.'
-  - The RepórterMT account places Barra do Garças 520 km from Cuiabá, while the existing report describes it as 516 km from Cuiabá.
-  - The RDNews page carries one image captioned only as Polícia Federal, PF, which does not establish that it shows Operation Caronte, so no media entry is included.
 ---
 
 Brazil's Federal Police, the Polícia Federal, launched Operation Caronte on 4

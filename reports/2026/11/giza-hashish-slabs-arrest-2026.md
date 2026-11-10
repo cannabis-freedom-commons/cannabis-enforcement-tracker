@@ -41,7 +41,6 @@ open_questions:
   - The suspect's name and age were not published; he is described only as unemployed with a previous criminal record.
   - No court outcome beyond detention pending investigation was reported.
   - Only one accessible source for this event was found after searching in Arabic; no agency statement or second outlet account was available.
-  - The page image uses a 2024-dated file and is captioned only with the headline, so it is not established to show this seizure and no media entry is included.
 ---
 
 Detectives of the Giza Criminal Investigation Department arrested an unemployed

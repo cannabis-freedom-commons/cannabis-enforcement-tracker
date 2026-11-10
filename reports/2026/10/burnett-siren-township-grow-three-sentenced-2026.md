@@ -59,7 +59,6 @@ open_questions:
   - Sources give only minima for the seizure, over 50 marijuana plants and more than 2.5 pounds of THC plus unquantified additional processed marijuana, so the figures record 50 plants and about 1.13 kg as stated minima rather than exact totals.
   - Sources disagree on Nicholas Contreras's age and residence, given as 31 of Webster in the concluding article and 32 of Siren in earlier accounts, so the report omits those details.
   - No exact day is given for the June 2026 controlled buys or search; 30 October 2026 is the concluding sentencing date and September dates rely on the articles' dating.
-  - The only page images identified are composite or single mugshots whose captions do not establish that they depict the search or seizure, so no media entry is added.
   - 'Left out, as its quotation was not found in DrydenWire: Nicholas Contreras pleaded guilty to a felony THC-delivery charge and was sentenced in early September 2026, while still facing separate drug-related charges in Polk County.'
   - 'Left out, as its quotation was not found in DrydenWire: Officers then executed a search warrant at a Siren Township property and reported seizing over 50 marijuana plants, more than 2.5 pounds of THC and additional processed marijuana.'
 ---

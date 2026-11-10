@@ -97,9 +97,7 @@ open_questions:
   - A Gazeta do Acre's text was republished almost word for word by Juruá em Tempo, so the two are not independent accounts.
   - No estimated street value for the 2 kg of cannabis was published.
   - O Alto Acre gives no date for the arrest, so it does not independently confirm the 29 October date the report uses.
-  - Whether the pictures on O Alto Acre add a new frame or repeat the police handout already linked from the earlier accounts could not be confirmed; no separate media entry was added.
   - The O Alto Acre page gives only its publication date of 31 October 2026 and no separate date for the arrest.
-  - The page images listed in source_images carry no captions or credits confirming they show this arrest, so no media entry is added.
 ---
 
 Police in Rio Branco, the capital of Acre, arrested Daniel Ferreira de Oliveira

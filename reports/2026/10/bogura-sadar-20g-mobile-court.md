@@ -54,7 +54,6 @@ sources:
 open_questions:
   - Only one source could be found for this case.
   - The account gives no separate date for the mobile court sitting; 24 October 2026 is the date of the drive.
-  - The page photograph could not be verified as showing this drive, so no media entry was added.
 ---
 
 ## The drive

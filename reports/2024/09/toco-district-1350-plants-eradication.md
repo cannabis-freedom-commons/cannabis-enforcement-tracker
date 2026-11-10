@@ -42,7 +42,6 @@ tags: [ttps, siu, toco]
 open_questions:
   - Only the TTPS account of this eradication, as republished, could be opened, so the facts rest on that single account.
   - No arrests were reported in the available account.
-  - The republished account carries a photo that could not be verified as showing this eradication, so no media is listed.
 sources:
   - title: $1.5 Million In Cannabis Eradicated In Toco
     url: https://youthere1.weebly.com/home/15-million-in-cannabis-eradicated-in-toco

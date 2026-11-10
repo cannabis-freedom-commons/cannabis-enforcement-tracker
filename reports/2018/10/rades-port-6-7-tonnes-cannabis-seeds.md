@@ -38,7 +38,6 @@ open_questions:
   - The separable cannabis weight was not given; 6.7 tonnes describes sunflower seeds mixed with cannabis, while the headline presents it as more than 6 tonnes of cannabis, so no kilograms are recorded.
   - The number of people involved was not specified, and no arrests, charges or court outcomes were reported beyond referral to the customs investigations directorate.
   - Only one accessible source was opened; the account relies on TAP citing a Customs statement and no second independent source was found.
-  - The page image is captioned only with the seizure headline without a credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Customs officers at the port of Radès in Tunisia carried out what was described

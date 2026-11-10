@@ -43,7 +43,6 @@ open_questions:
   - The two arrested people are not identified, and the release does not say whether they were among the three men charged.
   - Only the Newsday account of the TTPS release was found; no separate police statement or second outlet could be opened.
   - The Maloney CID and Northern Division Task Force searches that recovered two pistols are a separate, non-cannabis event and are left out of the report except where the source links them to the same day's release.
-  - The page's only image is a file photo of a police car, so no media entry is included.
   - The article names three districts without saying which arrest occurred where, so district-level coordinates near Maracas stand in.
 ---
 

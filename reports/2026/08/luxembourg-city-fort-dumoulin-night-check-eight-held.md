@@ -64,7 +64,6 @@ open_questions:
   - The night of Friday 7 to Saturday 8 August 2026 is described; 8 August, the date in the police statement, is used as the incident date.
   - The police portal publishes the statement in German and English only; no French-language version of the statement could be opened.
   - Le Quotidien, RTL Infos and Chronicle.lu reproduce the same police statement and are not independent reporting.
-  - 'No photo of the check or the seized items could be confirmed: the submitted page uses a 2018 Editpress archive picture, and the RTL images are credited only to Police without a caption stating what they show, so no media entry is added.'
 ---
 
 Police were called shortly after midnight on Saturday 8 August 2026 to a group

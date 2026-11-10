@@ -46,7 +46,6 @@ sources:
 open_questions:
   - No second outlet reporting this seizure could be found.
   - No arrest or detention of the passenger was reported, only that investigation is under way.
-  - The only image on the source page is the Customs department logo, not this seizure, so no media entry was added.
 ---
 
 Customs officers seized 2 kg of hydroponic ganja, valued at about Rs70

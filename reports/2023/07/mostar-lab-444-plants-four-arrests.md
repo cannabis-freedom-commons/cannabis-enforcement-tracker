@@ -61,7 +61,6 @@ open_questions:
   - The suspects were identified only by initials and birth years, and no plea or later ruling was reported.
   - The 2-3 July 2023 operation dates are used with 3 July as the incident date; 4 July is the date of the press conference and publication.
   - Two automatic rifles, ammunition and mobile phones were also reported seized, but as non-cannabis items they are not counted in the figures.
-  - The submitted page's image is a stock illustration credited to Shutterstock and is not shown in this report; only the Bljesak.info seizure photo is listed.
 ---
 
 Police in Mostar arrested four people after officers raided a laboratory for

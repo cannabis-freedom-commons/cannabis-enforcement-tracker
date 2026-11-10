@@ -46,7 +46,6 @@ open_questions:
   - The suspects are not named or aged, and no charges were announced.
   - No court outcome was reported; the public prosecutor at the Biougra court was supervising the investigation.
   - Only one source for this event could be found, and it cites an unnamed Chtouka Press source rather than a gendarmerie statement.
-  - The page photograph is a generic Royal Gendarmerie image filed in October 2025 and is not established to show this arrest, so no media entry is included.
 ---
 
 Royal Gendarmerie officers of the Ait Amira territorial centre arrested two

@@ -93,7 +93,6 @@ open_questions:
   - The published photo is captioned only as a Guardia Civil search, without identifying which property, so it is linked but not used as a cover image.
   - La Razón gives no weight for the hashish or marijuana and no separate value for any substance.
   - The detainees' court appearance is reported only as being placed at the court's disposal; no custody ruling or charge sheet was published.
-  - OKDiario reports 100,000 euros in cash while El Pais and the existing report give more than 10,000 euros in cash; the existing figure is kept and the difference is noted.
   - Neither the new OKDiario account nor the existing sources give a weight for the hashish or marijuana, so no cannabis quantity can be recorded.
   - The page carries a video poster and an image caption attributing a photo to National Police agents with detainees, while the text attributes the operation to the Guardia Civil; the images are therefore not used as evidence of this event.
 ---

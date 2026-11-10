@@ -75,14 +75,9 @@ open_questions:
   - No arrests were reported; the driver abandoned the vehicle and fled, and no charges or court outcome were given.
   - The figures record the 504,296,000-peso impact estimate; the separate near-1,698-million-peso potential sale estimate at 3,000 pesos per dose is reported in the text but not added to figures to avoid double-counting the same load.
   - The page's cover image credited only as a central-editorial-group file photo does not establish that it shows this seizure, so only the Hobo-operation photo is listed as media.
-  - El Tiempo rounds the economic impact to 504 million pesos, while the existing report records the precise 504,296,000-peso figure from the earlier sources.
   - El Tiempo gives no separate date for the seizure; 3 November 2026 is its publication date, already used as the incident date.
-  - The Diario del Huila page embeds two photographs without captions or alt text identifying their content, so no media entry is added from this source.
   - This Diario del Cauca page appears to be a near-identical republication within the same editorial group as the already-cited Diario del Sur version, so its independence as corroboration is limited.
   - The page's cover image credited only as a central-editorial-group file photo does not establish that it shows this seizure, so no new cover media is added.
-  - The page embeds an operational photo with the same file name as the Hobo-operation photo already listed from Diario del Sur and an unc captioned video, so no additional media entry is added to avoid duplicating the same agency handout.
-  - The Jeanoticias account rounds the Army estimates to 504 million and 1,698 million pesos and does not give the precise 504,296,000-peso figure or the 3,000-peso per-dose basis recorded in the existing report.
-  - The Jeanoticias page shows an image file named image-1536x924 without a caption, credit or alt text identifying its content, so no media entry is added from this source.
 ---
 
 Troops of Mountain Battalion No. 9 of the Army's Ninth Brigade, with judicial

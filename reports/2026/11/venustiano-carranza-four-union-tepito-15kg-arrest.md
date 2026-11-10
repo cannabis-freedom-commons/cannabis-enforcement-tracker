@@ -108,11 +108,7 @@ open_questions:
   - No weight is given for the roughly 3,000 suspected cocaine wrappers, so only the marijuana weight is counted and no combined drug total is used.
   - The sources give full surnames only as Guzmán or “N”; the minor is not named.
   - No charges or court outcome are reported beyond presentation to the Public Prosecutor's agent.
-  - The captured readable text gives only the headline and summary; details such as the 15 kg marijuana weight, the 3,000 suspected cocaine wrappers and the eight phones come from the existing report's earlier sources.
-  - The captured Milenio text names the group only as a criminal cell and does not name La Unión Tepito in the captured lines; the group name rests on the existing report's other outlets.
-  - The Libertad Oaxaca account of this detention, published on 8 November 2026, describes the detainees' group only as a criminal cell and does not name La Unión Tepito, so the group affiliation rests on the existing report's earlier sources.
   - The Libertad Oaxaca page reproduces the same Secretariat of Citizen Security statement as the outlets already cited, so it is not independent reporting of the arrest and gives no fresh figure for the plants, kilograms or area involved.
-  - The page carries no photograph of the detention or the seizure, and its only images are a video embed thumbnail and a site banner, so no media entry is added for this source.
 ---
 
 Mexico City citizen-security officers detained four alleged members of La Unión

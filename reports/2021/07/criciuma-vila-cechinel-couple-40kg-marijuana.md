@@ -56,7 +56,6 @@ open_questions:
   - The marijuana in the car was reported only as more than six kilos in one account and six kilos in the other, with no exact weighed figure, so the 39.7085 kg total sums the stated 33.7 kilos, about six kilos and 8.5 grams and remains approximate.
   - No names, ages or custody outcome were published for the couple beyond arrest in flagrante for drug trafficking.
   - Officers went to the house partly because a fugitive might have been there, but neither account says the fugitive was found.
-  - The submitted page shows a police handout photograph credited Divulgação/PM, but its caption does not describe what it depicts, so the media entry assumes it shows this seizure.
 ---
 
 Military Police officers arrested a couple in flagrante in Criciuma on Saturday

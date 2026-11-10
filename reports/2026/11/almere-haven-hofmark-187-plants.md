@@ -61,9 +61,6 @@ open_questions:
   - No arrests, named suspects or charges were reported; the specialist hemp team's investigation was still under way.
   - No weight, growing area or street value was published, only the count of 187 young plants, so no kilograms or hectares can be recorded.
   - Only one accessible source for this event was found.
-  - The new account says police found the nursery on a Tuesday, while the existing report dates the find to Monday 2 November 2026; the incident weekday therefore remains unresolved.
-  - The new account says more than 187 plants (ruim 187 hennepplanten), while the existing report records 187 young plants, so the exact count and growth stage remain imprecise.
-  - The submitted page carries a photo file with no caption, credit or alt text confirming it shows this nursery, so no media entry can be supported from the opened evidence.
   - Drimble states that a specialised hemp team is investigating ('Een gespecialiseerd hennepteam onderzoekt...'), but the sentence is cut off.
 ---
 

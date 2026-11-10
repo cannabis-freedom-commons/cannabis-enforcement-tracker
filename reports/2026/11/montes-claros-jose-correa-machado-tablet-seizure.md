@@ -40,7 +40,6 @@ open_questions:
   - The source reports an abordagem and forwarding of the occurrence but does not explicitly report an arrest, charge or court outcome, so no arrested or charged figure is recorded.
   - The incident date of 4 November 2026 is the Wednesday named in the article published on 5 November 2026.
   - Only one accessible outlet account could be opened after searching in Portuguese; no agency statement or second outlet account could be opened.
-  - 'The page image is credited only as Foto: Polícia Militar / Divulgação without a descriptive caption establishing that it shows this seizure, so no media entry is included.'
 ---
 
 Military police stopped a 26-year-old man in Bairro José Corrêa Machado in

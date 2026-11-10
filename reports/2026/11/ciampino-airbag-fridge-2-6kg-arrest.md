@@ -62,8 +62,6 @@ open_questions:
   - The headlines round the seizure to 2.5 kilos while the detailed breakdown totals about 2.6 kilos; the report uses the 2.6-kilo breakdown.
   - The suspect was identified only as an Albanian citizen, with no name or age published.
   - No court outcome beyond the arrest and transfer to Velletri prison was reported.
-  - The RomaToday page photo is captioned as a file photo and the La Capitale photo has no caption tying it to this seizure, so no media entry is included.
-  - The Cronache Cittadine page image carries no caption tying it to this seizure, so no media entry is included.
 ---
 
 Guardia di Finanza officers arrested an Albanian citizen at Ciampino. [@1,3,4] The

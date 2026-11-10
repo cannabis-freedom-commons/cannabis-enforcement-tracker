@@ -41,7 +41,6 @@ open_questions:
   - The 72 arrests cover drug trafficking in the province over the previous year, not the specific seizures destroyed, so no arrest figure is recorded.
   - No names, charges or court outcomes for the specific seizures or plants destroyed were reported.
   - Only one source for this event could be opened; no second account confirming the figures was found.
-  - The page image captioned 'Planta da liamba' and credited to Reuters is a generic plant illustration and does not show this incineration, so no media entry is included.
 ---
 
 The Provincial Criminal Investigation Service (SPIC) of Cuando Cubango

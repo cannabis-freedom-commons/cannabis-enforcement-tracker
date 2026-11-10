@@ -54,7 +54,6 @@ open_questions:
   - The source names no arrests or suspects; it says only that inquiries continued to identify those responsible.
   - The incident date of 2 November 2026 comes from the source's reference to the morning of Monday (2); 3 November 2026 is its publication date.
   - 'The page also embeds a video file labelled Vídeo: PMMG whose visible content could not be confirmed from the capture, so no video entry is included.'
-  - The new outlet gives only its publication date of 4 November 2026 and no separate incident date; the incident date of 2 November 2026 is retained from the existing report's earlier source.
 ---
 
 Military Police officers seized about 9 kilograms of a marijuana-like substance

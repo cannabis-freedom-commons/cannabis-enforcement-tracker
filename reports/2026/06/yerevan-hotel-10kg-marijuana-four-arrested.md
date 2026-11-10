@@ -66,7 +66,6 @@ open_questions:
   - No court outcome beyond pre-trial detention was reported; the investigation was described as ongoing.
   - Only one accessible source for this event was found; web searches for a second account returned no results.
   - The text gives a weight ("10 kg") but the figures have no kg_seized; check whether it belongs there.
-  - The submitted page gives no date for the detentions or arrests; 19 June 2026 is its publication date, while the Armenpress account was published on 18 June 2026.
 ---
 
 Four suspects have been arrested in an ongoing investigation into drug smuggling

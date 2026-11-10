@@ -65,7 +65,6 @@ open_questions:
   - No weight in grams was published for the 70 doses, so no kilogram figure is recorded.
   - Diario del Sur gives the man's name as a purported identification while Radio Diez gives only his age; no charges filed or court ruling were reported.
   - Diario del Sur is part of the same Grupo Editorial Central network as other recent Colombian titles, and Radio Diez repeats the same police statement, so the two accounts are not independent.
-  - The page's only picture is a cover image credited to Grupo Editorial Central with a caption repeating the headline, so no media entry is included.
   - Diario del Cauca belongs to the same Grupo Editorial Central network as Diario del Sur, so the two accounts are not independent.
   - The article gives no separate date for the arrest; 9 November 2026, its publication date, is used as the incident date.
   - Diario del Cauca belongs to the same Grupo Editorial Central network as the Diario del Sur report already cited, so its account of the police statement is not independent.

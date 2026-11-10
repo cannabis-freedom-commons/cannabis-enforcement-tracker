@@ -44,7 +44,6 @@ open_questions:
   - No figure was published for the number of marijuana plants, the weight seized, the area cultivated, or any value estimate.
   - No court outcome, plea, sentence, or identity beyond asylum-seeker status was reported for the four facing drug charges.
   - The submitted Courier-Mail page is paywalled, so only its headline and standfirst could be read directly; cannabis details come from the accessible re-report of the same Courier-Mail story.
-  - All photographs on the accessible re-report are labelled file image or stock and are not confirmed to show this event, so no media entry is added.
 ---
 
 Asylum seekers living at the Australian-run immigration camp on Nauru were

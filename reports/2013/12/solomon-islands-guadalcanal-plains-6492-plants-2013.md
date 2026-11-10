@@ -63,7 +63,6 @@ open_questions:
   - Solomon Times put the street value at 14 million Solomon Islands dollars and SIBC, days later, at 13 million; the report uses the later 13 million figure.
   - SIBC describes the 6,492 plants both as seized from several locations and as burned, so the split between plants stored as evidence and plants destroyed is not clear.
   - No arrests were announced in these accounts; police said only that persons of interest had been identified.
-  - The submitted page photo is captioned only as showing marijuana, the most common illicit drug in Solomon Islands, and its source is given as 'Photo supplied', so it is not confirmed to depict this raid.
   - SIBC's plant photo could not be confirmed as a separate picture of this event, so only one photo is listed.
   - No charges or court outcome were reported, and the investigation was still ongoing when SIBC published.
   - 'Left out, as its quotation was not found in SIBC Online: The police and the Participating Police Force carried out a series of operations on suspected cannabis plantations in the Guadalcanal Plains that month.'

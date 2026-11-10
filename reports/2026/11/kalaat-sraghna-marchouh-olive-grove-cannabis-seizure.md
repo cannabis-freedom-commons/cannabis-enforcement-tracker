@@ -56,7 +56,6 @@ open_questions:
   - The home-made spirit (mahia) is not a cannabis product and none of its quantity is counted here.
   - No charges, measure of restraint or court date were reported; the prosecutor's inquiry was continuing and the suspects were not named.
   - Only one account of the event could be found, and searches for a gendarmerie statement or a second outlet returned no results.
-  - The page's only image carries no caption or credit tying it to this raid, so no media entry is added.
 ---
 
 Royal Gendarmerie officers of the Kalaat Sraghna territorial centre, under the

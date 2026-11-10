@@ -49,7 +49,6 @@ open_questions:
   - The 13.82 grams of smack-like substance is mentioned only to explain the mixed seizure and is excluded from cannabis figures.
   - No court outcome beyond the NDPS FIR and pending legal action was reported.
   - Only one full account of this event could be opened after searching in English and Hindi.
-  - The page image is a generic Chapra banner whose caption does not establish that it shows this seizure, so no media entry is listed.
 ---
 
 Saran police arrested three accused in the Mufassil police station area of

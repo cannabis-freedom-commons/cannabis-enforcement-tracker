@@ -89,7 +89,6 @@ open_questions:
   - deJurnal does not give a total case count or the 61-case breakdown, so its account does not independently confirm the number of cases.
   - Pijar Nusa Media gives 122.6637 grams of ganja for the destruction, while the office figures cited in the report give 117.5703 grams and Pojoksatu and deJurnal give 117 grams.
   - Pijar Nusa Media gives no total case count, case breakdown or sentences for the destroyed evidence.
-  - The page's only image is captioned with a file name and its credit or subject cannot be established, so no media entry is added.
 ---
 
 The Purwakarta District Attorney's Office, Kejari Purwakarta, destroyed evidence

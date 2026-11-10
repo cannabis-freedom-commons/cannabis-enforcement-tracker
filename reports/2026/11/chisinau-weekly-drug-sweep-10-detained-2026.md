@@ -45,7 +45,6 @@ open_questions:
   - Ten people are described as detained and counted as arrested; 13 additional people caught by BPRO are described only as detected with contravention reports and are not counted as arrested.
   - The detention, case and report totals cover all drugs including PVP and mephedrone, not cannabis alone.
   - Only one accessible source for this weekly sweep was found; the police weekly statement itself was not opened separately.
-  - The page image is described only as a video capture repeating the headline and is not confirmed to show this seizure, so no media entry is included.
 ---
 
 Capital Police in Chișinău detained 10 people in the past week during actions

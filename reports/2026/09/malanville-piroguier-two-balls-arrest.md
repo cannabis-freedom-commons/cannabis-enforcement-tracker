@@ -47,7 +47,6 @@ open_questions:
   - The suspect's name and age were not published.
   - No charge or court outcome was reported; the flagrante delicto investigation was still under way.
   - Only the French original and the same outlet's English version could be opened; no independent second outlet was found.
-  - The page image is captioned as an illustration and is not established to show this seizure, so no media entry is included.
 ---
 
 On 22 September 2026 at about 2 p.m., officers of the Malanville border police

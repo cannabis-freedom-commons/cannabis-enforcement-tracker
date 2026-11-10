@@ -57,7 +57,6 @@ open_questions:
   - No name, age, or other identity for the driver beyond U.S. citizen was published.
   - No charges or court outcome were reported after the driver was turned over to the Detroit Police Department.
   - Only one accessible source for this event was found after searching; no agency statement or second account could be opened.
-  - The CDLLife page carries an image captioned only as CBP, which does not establish that it shows this seizure, so no media entry is included.
   - TheTravel's image description does not say whether the vape cartridge and cannabis container were both seized from this driver, so the exact cannabis product remains unclear.
   - The article gives no weight or plant count for the marijuana.
 ---

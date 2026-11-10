@@ -60,10 +60,7 @@ open_questions:
   - What happened to the second man present at the suspicious exchange is not described in the accessible text.
   - The trial date is given as Wednesday 28 October without a year; 2026 is used from the August 2026 incident and 29 October 2026 publication.
   - Only one accessible full source was found after searching; an aggregator repeats the same account without adding facts.
-  - The page image is an archive view of the Caen court, not shown to depict this arrest or seizure, so no media entry is included.
-  - The 4 November account gives the man's age as 23 while the existing report and the 11 September account give 24.
   - The new accounts describe the cannabis as a piece of cannabis, drugs or cannabis resin without repeating the 1.4 g laboratory weight, so the weight still rests on the earlier Ouest-France account.
-  - The only image on the submitted page is a Fotolia stock illustration captioned with the penalties, not a photo of this arrest or seizure, so no media entry is included.
 ---
 
 Police in Caen arrested a 24-year-old man after he fled a check in late August

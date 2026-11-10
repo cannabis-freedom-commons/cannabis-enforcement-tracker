@@ -59,7 +59,6 @@ open_questions:
   - The marijuana and cocaine are described as found by police and positive on orientation tests only, with no laboratory confirmation or breakdown between items seized at the scene and in the search of the lodging.
   - Both outlets carry the same Formosa provincial police statement, so they are not independent accounts; the force's own Facebook post could not be opened.
   - Neither report says which court is handling the case or what charges beyond Law 23.737 the couple faces.
-  - The page shows several photos, but none has a caption or credit confirming what they depict, so no media is listed.
 ---
 
 Officers of the Comisaría Agente Daniel Juárez in Riacho He Hé, Formosa

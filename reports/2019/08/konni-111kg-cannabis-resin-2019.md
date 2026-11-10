@@ -55,7 +55,6 @@ open_questions:
   - No court outcome was reported, and other suspects were still wanted at the time of reporting.
   - The China.org.cn and Aviseur International texts are the same Xinhua dispatch credited to Niger's public radio, so they corroborate the account but are not independent reporting.
   - The Aviseur International excerpt carries only the concealment and wanted-suspects passage, so the weight and arrests rely on the two full texts.
-  - The page photo shows the separate three-tonne cannabis resin seized in Niamey in 2018, so it does not show this Konni seizure and no media entry is included.
 ---
 
 Officers of Niger's Central Office for the Repression of Illicit Drug

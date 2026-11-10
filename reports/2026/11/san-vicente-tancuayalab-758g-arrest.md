@@ -91,11 +91,8 @@ open_questions:
   - The 675-unit total is a combined count of doses, bags and cigarettes and includes non-cannabis drugs; it is not a cannabis figure.
   - No charge, trial date or court outcome was reported.
   - All opened accounts repeat the same state security bulletin; no independent witness or defence account was found.
-  - The submitted page was published on 2 November 2026 while the existing report is dated to 1 November 2026 accounts; neither gives a separate date for the operation itself.
-  - The page carries an image file but provides no caption or credit establishing that it shows this seizure, so no media entry is added.
   - The article gives no separate date for the initial hearing; 8 November 2026 is its publication date and is used for the prosecution step.
   - The prosecution account rounds the marijuana weight to 758 grams, compared with 758.3 grams in the arrest accounts; the earlier precise figure is preserved.
-  - The page image caption only repeats the headline and does not confirm what it depicts, so no media entry is added.
 ---
 
 Officers of San Luis Potosí's State Civil Guard (GCE), working with the army,

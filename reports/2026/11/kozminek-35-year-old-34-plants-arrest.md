@@ -98,17 +98,7 @@ open_questions:
   - No court outcome beyond the charges has been reported.
   - Only one source for this event was found.
   - 'Left out, as its quotation was not found in Kalisz Nasze Miasto: Officers entered the property while acting in connection with one of their ongoing cases.'
-  - The submitted page was published on 3 November 2026 while the existing report uses 2 November 2026 from earlier coverage; no separate date for the search and arrest is given.
-  - The submitted page credits its lead photo to pixabay, indicating stock imagery, so no media entry is added.
-  - The submitted page says the man was detained and faces 3 years, without explicitly stating a charge already filed as in the existing report.
-  - The submitted page gives no separate date for the search and arrest; 3 November 2026 is its publication date, while the existing report uses 2 November 2026 from earlier coverage.
-  - The roundup gives only its publication date of 3 November 2026 and no separate date for the search and arrest, while the existing report uses 2 November 2026 from earlier coverage.
-  - This page states the man was detained and faces up to three years without explicitly stating that a charge has already been filed as the existing report records.
-  - This roundup gives only its publication date of 4 November 2026 and no separate date for the search and arrest, while the existing report uses 2 November 2026 from earlier coverage.
-  - This roundup says the man was detained and faces up to three years in prison without explicitly stating that a charge has already been filed, as the existing report records.
-  - The page lead image is credited to Oscar Wong/Getty Images and described as illustrating reader habits in Ostrów Wielkopolski, indicating stock imagery rather than this seizure, so no media entry is added.
   - The Fakty Kaliskie page gives only its publication date of 4 November 2026 and no separate date for the search and arrest.
-  - The Fakty Kaliskie page shows a picture captioned with the article title without a police credit, so it is not established to show this seizure and no media entry is added.
 ---
 
 Officers from the Koźminek police station detained a 35-year-old man at the

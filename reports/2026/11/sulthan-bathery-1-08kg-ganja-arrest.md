@@ -96,15 +96,8 @@ open_questions:
     district police chief S. Deva Manohar and was led by Manoharan Thachampath, the deputy superintendent of
     police for the Narcotics Cell and Gender Justice.
   - >-
-    The Marunadan Malayalee account gives no separate date for the vehicle check and arrest; 2 November 2026
-    is its publication date, while the existing report dates the event to 1 November from the earliest
-    account.
-  - >-
     Whether the lead photo on the Marunadan Malayalee page shows this seizure was not verified from the
     caption and article text alone.
-  - >-
-    Whether the lead photo on the Marunadan Malayalee page shows this seizure could not be verified from its
-    caption and article text alone, so no media entry is included.
   - >-
     Left out, as its quotation was not found in Marunadan Malayalee: The district anti-drug squad and Bathery
     police stopped him during a vehicle inspection near Makkutti bridge.
@@ -112,17 +105,8 @@ open_questions:
     The submitted headline says one kilo while its text gives one kilogram and 80 grams, matching the existing
     1.08 kg figure.
   - >-
-    The accused's name transliteration differs: Ebi Elias in this Malayalam text versus Abi Elias in the
-    existing report.
-  - >-
-    The submitted page gives only its 2 November 2026 publication date with no separate day for the check,
-    while the existing report dates the event to 1 November from its earliest account.
-  - >-
     Left out, as its quotation was not found in Marunadan Malayali: Police said the ganja had been brought
     from Mysore for sale.
-  - >-
-    Whether the lead photo on the submitted Dailyhunt page shows this seizure could not be verified from its
-    caption alone, so no media entry is added.
   - >-
     The article gives only its publication date of 2 November 2026 and no separate day for the vehicle check
     and arrest.

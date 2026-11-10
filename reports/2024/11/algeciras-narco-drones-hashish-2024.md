@@ -40,7 +40,6 @@ open_questions:
   - One account says nine people were arrested in the six house searches while the operation total is given as ten.
   - The quantities of hashish and cash recovered in the raids were not itemised.
   - The trial outcome for the seven suspects remanded in custody was not reported.
-  - Police published photos and video of the seized drones, but no direct image address could be recovered, so no media entry was added.
 sources:
   - title: The National Police dismantles a network of "narcodrones"
     url: https://thediplomatinspain.com/en/2024/11/29/national-police-dismantle-narco-drone-network-operating-between-spain-and-morocco/

@@ -47,7 +47,6 @@ open_questions:
   - The Arabic report says other members of the network were placed on a wanted list, but names none and does not give their number.
   - No value for the 500 kg haul was published, so no value is recorded.
   - No charges, prosecutor's decision or court outcome was reported; the operation was described as still under way.
-  - The submitted article's only image is a generic police file photo from 2024, not established to show this seizure, so no media entry is included.
 ---
 
 The judicial police brigade of Le Lac, a district of Tunis on the city's

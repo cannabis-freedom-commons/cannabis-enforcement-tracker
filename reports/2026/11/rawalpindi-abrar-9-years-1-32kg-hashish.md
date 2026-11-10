@@ -54,7 +54,6 @@ open_questions:
   - The court is not named beyond a court, and no judge is identified.
   - The narcotics law and sections applied, whether the fine was paid, and whether an appeal was filed are not reported.
   - Only the UrduPoint page carrying the Associated Press of Pakistan report could be opened; no second outlet or agency statement was found to corroborate it.
-  - The page image carries only the headline as its alt text with no caption establishing that it shows this case, so no media entry is included.
 ---
 
 A court in Rawalpindi sentenced drug supplier Abrar to nine years in prison and

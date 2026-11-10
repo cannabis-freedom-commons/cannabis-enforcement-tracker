@@ -93,7 +93,6 @@ open_questions:
   - The suspects’ nationalities and names were not published; both were described as foreign nationals in an irregular immigration situation.
   - Narcotics investigators said the men acted as an association; the prosecutor said analysis of seized data and further checks were continuing to identify possible accomplices.
   - The Virgule article says the men were presented to the Diekirch examining magistrate the next day without naming 23 March explicitly, so that calendar date continues to rest on the prosecutor statement already cited.
-  - The Virgule page shows a cultivation photo credited to the prosecutor office that appears to republish the same agency handout already listed from RTL Today, so no additional media entry is added.
 ---
 
 On 22 March 2026 the Diekirch public prosecutor’s office said the Grand Ducal

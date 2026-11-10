@@ -46,7 +46,6 @@ open_questions:
   - Only one account of this event could be opened, so no second outlet or customs statement corroborates it.
   - No illicit-market value for the 845 grams was published.
   - No charge provision, bail conditions, or bail date beyond the grant of bail were reported.
-  - The page lead image is explicitly labelled a representational image on an older file path and the embedded video is not shown to depict this seizure, so no media entry is listed.
   - Whether the suspected wider trafficking network or accomplices were later traced was not reported.
 ---
 

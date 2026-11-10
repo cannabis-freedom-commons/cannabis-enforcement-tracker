@@ -45,7 +45,6 @@ open_questions:
   - The article gives no separate date for the seizure; 13 June 2019 is its publication date and is used as the incident date.
   - The suspects are not named and no ages, charges or court outcome were reported.
   - No count was given for the bladed weapons and no origin or destination for the truck was reported.
-  - The page photograph is captioned as a 2018 seizure of 52 tonnes of cannabis resin, not this event, so no media entry is included.
   - Only one accessible source for this event was found after searching in French and English.
 ---
 

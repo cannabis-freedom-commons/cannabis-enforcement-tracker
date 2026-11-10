@@ -37,7 +37,6 @@ open_questions:
   - 'No sentence is reported: sentencing was adjourned to 4 October 2024 and any later outcome, including an appeal, is not in these sources.'
   - The 2024 report describes his 31 July guilty plea as a Friday, though 31 July 2023 was a Monday; the date as stated by the judge is kept.
   - Only Cook Islands News published these accounts; no police statement or second outlet was found for the seizure or the sentencing adjournment.
-  - The page image is captioned only with the story headline and does not confirm what it depicts, so no media entry is added.
   - The text gives a number of plants ("30 plants") but the figures have no plants_destroyed; check whether it belongs there.
 ---
 

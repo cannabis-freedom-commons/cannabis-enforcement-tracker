@@ -43,7 +43,6 @@ open_questions:
   - No charges, custody ruling or court outcome were reported for the detained man; the police said only that he was caught with the bags.
   - Only one accessible source for the Coatepeque arrest was found; no agency statement or second outlet could be opened.
   - The Zacapa searches described in the same roundup are a separate event and are not covered by this report.
-  - The Prensa Libre page photo is captioned as extortion arrests and is not established to show the Coatepeque seizure, so no media entry is included.
   - Other arrests in the same roundup, including the Villa Nueva and Chiquimula detentions, are unrelated events left out of this report.
   - 'Left out, as its quotation was not found in Prensa Libre: The Coatepeque arrest came in the same police roundup as arrests on kidnapping, murder, extortion and fraud charges elsewhere.'
 ---

@@ -43,7 +43,6 @@ open_questions:
   - Only one accessible source for this event was found after searches in Malayalam and English.
   - No charges, court production, NDPS case number or court outcome were reported.
   - No monetary value or independent weighing details for the seized cannabis were published.
-  - The page image has no caption or alt text establishing that it shows this seizure, so no media entry is included.
 ---
 
 In Kerala's Kollam district, an Excise enforcement team conducting checks across

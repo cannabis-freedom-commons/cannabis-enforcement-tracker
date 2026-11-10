@@ -62,7 +62,6 @@ open_questions:
   - A published weight of 1.7 kilogrammes covers only the £51,000 parcel, so no total weight for the more than £60,000 of cannabis is recorded.
   - The BBC dates the Waterloo Road parcel attempt to 2 December without a year while Manx Radio dates producing the £51,000 cannabis to 30 November, and the relation between those dates is unclear.
   - The almost 1,500 ecstasy tablets valued between £14,600 and £21,600 are described only to explain the joint case and are excluded from cannabis figures.
-  - The BBC page image is described in the page markup as Douglas courthouse and does not show the parcels, cannabis, search or court action, so no media entry is included.
 ---
 
 Matthew Williams, 18, was involved in the importation of more than £60,000 of

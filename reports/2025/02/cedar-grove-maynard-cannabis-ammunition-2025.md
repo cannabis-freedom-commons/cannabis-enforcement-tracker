@@ -63,7 +63,6 @@ open_questions:
   - The sources do not state the cannabis's form, whether it was for personal use or supply, or its value.
   - The hearing is described only as the day before the 4 March 2025 reports; no exact hearing date is given.
   - The Antiguan Trumpet credits the Antigua Observer, whose own page could not be opened, so its account was checked only as republished.
-  - No photo of this search, seizure or defendant was published; the submitted page's lead image is an uncaptioned generic 'charged' picture uploaded in May 2024, so no media entry is listed.
 ---
 
 Police arrested and charged 36-year-old Javin Maynard of Cedar Grove with

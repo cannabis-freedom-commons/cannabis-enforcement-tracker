@@ -43,7 +43,6 @@ open_questions:
   - No charges, custody decision or court outcome for the Caia detention were reported.
   - Only one accessible opened source was found for the Caia seizure; Facebook snippets repeating the same 25 kg Caia claim could not be opened as evidence.
   - The same page also reports separate heroin seizures, 102 Kg in Mocuba and a truck at the Mozambique-South Africa border, left out here as different events.
-  - The page image has no caption or credit establishing that it shows the Caia cannabis seizure, so no media entry is included.
 ---
 
 Two men were detained in Caia district, Sofala Province, after being found in

@@ -48,7 +48,6 @@ open_questions:
   - No charges, custody decision or court outcome were reported beyond the completed case file and its legal follow-up.
   - No additional arrests were reported; police said other group members and suppliers were still being sought.
   - Only one accessible source for this event was found after searching in Portuguese and English.
-  - The page image carries no caption or credit establishing that it shows this plantation, so no media entry is included.
   - The report mentions an earlier vehicle interception with more than a tonne of cannabis sativa, a separate event left out here.
 ---
 

@@ -39,7 +39,6 @@ open_questions:
   - The report is dated at the Oct. 7, 2026 charging and processing step, while the alleged distribution occurred on Sept. 26, 2026.
   - The charges were reported as absent from online DeKalb County court records on Oct. 12, 2026, and any later court outcome after the scheduled Nov. 3 preliminary hearing is not known.
   - Only one source could be opened for this event; searches did not find a second accessible report or agency statement.
-  - The page's only image is an inset portrait credited to the Hinckley Police Department described in the caption, which does not show the field, seizure, raid or court, so no media entry is listed.
 ---
 
 A Yorkville woman is accused of giving cannabis-infused gummies to children

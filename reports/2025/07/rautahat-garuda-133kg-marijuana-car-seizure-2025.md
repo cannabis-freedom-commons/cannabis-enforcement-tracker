@@ -69,14 +69,12 @@ sources:
     date: 2025-07-22
 open_questions:
   - No arrest was reported; the driver escaped through sugarcane fields and police said they were searching for him.
-  - 'The car''s registration number is given inconsistently in the accounts opened: Ga 3 Cha 6796 in the submitted page and Republica, Ba 3 Cha 6796 in Republica''s lead, and Ba. 3 Cha 6896 in The Himalayan Times.'
   - 'Accounts disagree on detail: The Himalayan Times places the checkpoint in front of the Survey Office in Garuda Municipality-4, while The Kathmandu Post and Kantipur place the abandoned car near Jhajhkhola in ward 5.'
   - The depth below the road is given as about 10 feet by The Himalayan Times and about 20 feet by The Kathmandu Post and Republica.
   - Kantipur's headline and URL say 113 kilograms while its text and the other accounts say 133 kilograms; the report uses 133 kilograms.
   - The material is described as resembling marijuana, with no laboratory confirmation reported.
   - 'Destination and origin are not established: the car was heading to Gaur from Chandranigahapur, and Kantipur reported only that police suspected the load came from Makwanpur.'
   - The car's owner had not been identified in the accounts opened.
-  - Kantipur's photograph caption says the Makwanpur hills are known as fertile cannabis ground but does not describe the picture itself, so it is not listed as media; the submitted page's lead image has no caption or credit and is not confirmed to show this event.
   - No value estimate for the 133 kilograms was published.
 ---
 

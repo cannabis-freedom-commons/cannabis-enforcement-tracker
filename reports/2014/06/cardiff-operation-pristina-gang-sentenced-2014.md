@@ -48,7 +48,6 @@ sources:
     date: 2014-06-07
 open_questions:
   - The sentencing reprint is dated 7 June, a Saturday; 6 June is used as the sitting date and the exact court day is not separated in the opened sources.
-  - Both opened pages carry placeholder images rather than photographs of the raids or the seized plants, so no media entry was added.
 ---
 
 On 26 February 2013, 130 police officers carried out synchronised dawn raids across south Wales and the west of England in Operation Pristina. [@1] Officers hit sites in Cardiff, Newport, Bath and Bristol, made eight arrests and found 400,000 pounds in cash. [@1] A large cannabis factory in Cardiff was found and destroyed, and the operation's leader said the force had disrupted many suspected dealers. [@1]

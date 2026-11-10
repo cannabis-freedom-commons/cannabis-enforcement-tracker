@@ -63,7 +63,6 @@ open_questions:
   - The article does not name the villages or forest sites within Awe and Kokona where the farms were found.
   - Punch calls the meeting Monday, while NAN-based accounts call it Tuesday; the accounts disagree on the exact day.
   - The report uses Lafia, the Government House meeting place, as the location, though the destroyed farms lie in Awe and Kokona council areas.
-  - The submitted page's only image is captioned as a portrait of Abdullahi Sule during the visit, not a picture of the farms, so no media entry is added.
   - NAN-based accounts describe a second familiarisation visit after an earlier one around 12 October 2026, at which the same two farms had already been mentioned.
 ---
 

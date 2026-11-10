@@ -69,7 +69,6 @@ sources:
 open_questions:
   - The weight is described as approximate (about 4.8 kilograms), and no laboratory confirmation of the drug was reported.
   - Neither account names the suspects or gives their ages, and neither reports a custody decision or a court outcome.
-  - The second account describes the material as a substance analogous to marijuana; the submitted page calls it marijuana.
   - Only local outlets in Dois Vizinhos and Francisco Beltrão were found; no Paraná Military Police statement or state-level report was located.
   - 'Left out, as its quotation was not found in Rádio Educadora Dois Vizinhos: Both occupants of the vehicle were arrested at the scene and taken with the seized drug to the Civil Police, where the arrest in flagrante was formalised.'
   - The RBJ page does not name a neighbourhood, so its account does not corroborate the Nossa Senhora de Lourdes location recorded in the report.

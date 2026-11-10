@@ -50,7 +50,6 @@ open_questions:
   - Isle of Man Today reports the cocaine range as between 60g and 80g while the BBC reports it as between 66g and 80g; the BBC range is used in the report.
   - The BBC dates the second search to January 2025 while Isle of Man Today dates the second arrest to 1 January last year.
   - Only the separately stated cannabis weights seized, 3.2g and 15.9g, are recorded as kg_seized; the 271.5g supplied and all cocaine and ketamine amounts are excluded from cannabis figures.
-  - The BBC page image shows the Courts of Justice building exterior, not the field, plants, seizure, raid or court action, so no media entry is included.
   - 'Left out, as its quotation was not found in Isle of Man Today: The home searched was on Roxwell Terrace in Peel.'
 ---
 

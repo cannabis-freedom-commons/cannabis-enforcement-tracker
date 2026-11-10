@@ -79,16 +79,10 @@ open_questions:
   - The 35-year-old Leogang driver admitted taking crystal meth while his test reacted to opiates and amphetamines; no methamphetamine quantity is reported or recorded.
   - The report does not say whether the drivers were reported to a prosecutor or charged, or what follows the provisional licence seizures beyond the medical findings.
   - The account reproduces a Salzburg police statement; no police press release and no second outlet for this series of stops could be opened.
-  - The page's only photo is credited to APA/Barbara Gindl and labelled SYMBOLBILD (symbol image), not confirmed to show these stops, so no media entry is added.
   - The figure of six refers to drivers stopped, not people detained; no arrest or custody was reported.
   - The Salzburger Nachrichten places the Thalgau driver's positive result in a sentence reading "Sein Alkotest schlug positiv auf Kokain an", apparently a misprint for the drug test.
   - The Salzburger Nachrichten reports the same total of six stops but does not say whether the e-scooter rider's licence was among the five taken.
   - The submitted 5 Minuten text place the stops only in the city area of Salzburg and in the municipal area of Thalgau, and do not name the Leogang driver or the Aigner Straße and Erzherzog-Eugen-Straße locations given by the police statement.
-  - The article's headline picture is a 2023 montage of a police car and drugs labelled as stock material, so no media entry is added.
-  - The Krone article gives only the weekend and Saturday/late Saturday/early Sunday timing; 7 November 2026 is retained from the existing report for the series running 7-8 November.
-  - The Krone article says the car drivers had to hand over their driving licences, while the existing report records five of the six licences seized on the spot; the discrepancy is left open.
-  - The Krone page photo is labelled Symbolbild (symbol image) and is not confirmed to show these stops, so no media entry is added.
-  - The page's only event-related image is credited to iStock/snowflock and is not confirmed to show these stops, so no media entry is added.
 ---
 
 Between Saturday 7 and Sunday 8 November 2026, Salzburg police stopped six

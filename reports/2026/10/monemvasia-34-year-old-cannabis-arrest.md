@@ -47,7 +47,6 @@ open_questions:
   - The exact local community within Monemvasia municipality was not named.
   - No charge, custody outcome or court result was reported.
   - The second source also reports separate drug arrests in Corinthia and Trifylia on the same day; those are different events left out here.
-  - Whether the lead photos on the source pages show this seizure could not be established, so no media entry is added.
 ---
 
 Officers of the Laconia O.P.K.E. crime-prevention unit arrested a 34-year-old

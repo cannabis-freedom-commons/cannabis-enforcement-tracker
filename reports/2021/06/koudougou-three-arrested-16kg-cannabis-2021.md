@@ -61,7 +61,6 @@ open_questions:
   - The first student's name appears as Baba Emmanuel Sia, Sia Emmanuel and Sia Emmanuel Baba in the accounts; Wakat Séra's ordering is used here.
   - The three suspects were referred to the prosecutor, but the sources do not establish whether formal charges were filed or what the court outcome was.
   - The accounts cite the gendarmerie's press dossier, so they do not provide independent official confirmation.
-  - The submitted page's image has no caption establishing that it depicts this seizure, and no other source caption confirms event imagery, so no media entry is included.
   - 'Left out, as its quotation was not found in KOACI: Koaci reported that the search of Sia''s room found a 0.175 kg package of cannabis.'
   - 'Left out, as its quotation was not found in KOACI: Koaci reported that Kientéga possessed slabs weighing 3.5 kg.'
 ---

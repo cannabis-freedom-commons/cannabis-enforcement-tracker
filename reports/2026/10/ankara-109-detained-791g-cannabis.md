@@ -73,11 +73,8 @@ open_questions:
   - The 159,475 lira, scales, pistol and cartridges are non-drug seizures and are not counted in cannabis figures.
   - No suspect names and no court outcome beyond the 40 remands was published.
   - The IHA page image caption repeats the headline and its content could not be verified to show this operation, so no photo is listed.
-  - The submitted page says 49 Hint keneviri were seized (ele geçirildi) while the existing report describes 49 cannabis plants as destroyed; the count matches but the disposition wording differs.
   - The page lead image caption repeats the headline and its content could not be verified to show this operation, so no photo is listed.
   - The two page images captioned Ankara'da 109 gözaltı, 40 tutuklama repeat the headline and their content could not be verified to show this operation, so no photo is listed.
-  - The submitted page says 49 Hint keneviri were seized while the existing report describes 49 cannabis plants as destroyed; the count matches but the disposition wording differs.
-  - The page lead image caption repeats the headline and its content could not be verified to show this operation, so no media entry is added.
 ---
 
 Ankara Provincial Police Directorate's narcotics branch, the Narkotik Suçlarla

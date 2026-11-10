@@ -48,10 +48,8 @@ open_questions:
   - The article gives no separate date for the inspection; 12 February 2025 is its publication date.
   - No arrests, named suspects, charges or court outcome were reported; the investigation was described as ongoing.
   - Only one opened source about this event could be found, so no second account confirms the figures.
-  - The page carries a photograph without a caption or credit establishing that it shows this seizure, so no media entry is included.
   - The Reporteri.net page gives no separate date for the Bogorodica inspection; 12 February 2025 is its publication date.
   - Reporteri.net names no arrested suspects and reports no charges; it says the investigation continues to identify those involved and how the transport was organized.
-  - The Reporteri.net page displays an image without a caption or credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 A joint police and customs operation prevented an attempt to traffic marijuana

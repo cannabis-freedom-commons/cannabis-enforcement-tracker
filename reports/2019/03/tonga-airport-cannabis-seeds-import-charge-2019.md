@@ -54,7 +54,6 @@ sources:
     publisher: Matangi Tonga
     date: 2019-04-19
 open_questions:
-  - The submitted page is paywalled after its opening sentence; the search, charge and court details come from Matangi Tonga's print view of the same article.
   - Only Matangi Tonga reported the case in the sources opened here; no police statement or second outlet account was found.
   - No figure for the weight of the seeds was given beyond 'over 242 grams', and the quoted weights are approximate.
   - The article gives no street value for the seeds or the cannabis liquid.

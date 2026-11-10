@@ -58,9 +58,6 @@ open_questions:
   - Eviction has not been ordered; the prefect has only said he wants the social landlord to ask a judge to end the lease.
   - La Clé Publique reports 370 euros in cash found at the flat; actu.fr does not mention the cash.
   - No photograph of the seizure was published; the image on the Actu page is a portrait of the prefect.
-  - Ouest-France reports 600 g of cannabis while the existing report records 630 grammes of resin, so the precise seized weight differs between accounts.
-  - Ouest-France does not mention the scooters, cash or other items described in the existing report, so those details remain supported only by the earlier sources.
-  - The only image on the Ouest-France page is captioned as an archive illustration photo, so no media of this seizure can be listed.
 ---
 
 Sidy C., 25, was stopped at Asnières station on Sunday 18 October 2026, the day

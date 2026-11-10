@@ -48,7 +48,6 @@ open_questions:
   - The source gives “vendredi 6 novembre” without a year; 2026 is inferred because 6 November 2026 was a Friday and the article was published on 7 November 2026.
   - No name, charge or court outcome was reported; the suspect was in detention and the investigation was continuing.
   - Only one accessible source for this event was found after searching in English and French.
-  - The page image is a December 2024 Rose-Hill police-station photo and is not shown to depict this arrest or seizure, so no media entry is listed.
 ---
 
 On Friday 6 November, officers of the ADSU arrested a 25-year-old electrician

@@ -54,7 +54,6 @@ open_questions:
   - No court outcome was reported; the field owner was absconding and the investigation was continuing.
   - Only one accessible account of the Salipura seizure was found after searching in Hindi and English; a Public app video page with a matching Salipura headline could not be opened for confirmation.
   - The coordinates use Maheshwar town centre as a proxy for Salipura village.
-  - The page's only image is a generic MP-CG top-news banner captioned about meat-shop closures, not this seizure, so no media entry is included.
   - The combined official figure of about Rs 25,97,800 covers the Salipura and Piprikhedi (Bedia) seizures together and is not split between the two fields.
 ---
 

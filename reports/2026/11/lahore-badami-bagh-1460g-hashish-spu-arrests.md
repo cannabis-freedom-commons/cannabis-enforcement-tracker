@@ -47,7 +47,6 @@ open_questions:
   - Only the APP wire report republished by UrduPoint could be opened; no second outlet or police statement for this arrest was found.
   - The article does not say whether the hashish was meant for sale, or where the two men were detained beyond the Badami Bagh police station's area.
   - No court stage beyond registration of the cases was reported, and no response from either suspect was published.
-  - The page's lead picture is a generic UrduPoint image that is not identified as showing this seizure, so no media entry is included.
 ---
 
 Lahore police arrested two men described as drug peddlers, one of them an

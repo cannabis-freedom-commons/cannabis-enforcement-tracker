@@ -70,12 +70,6 @@ open_questions:
   - No second report of this 850-gram arrest was found; it rests on a single source.
   - The page carries a photo captioned only Hapur News and labelled as a social-media photo, so whether it shows this seizure could not be established and it is not listed as media.
   - No value, charges beyond the NDPS case registration, or court outcome were reported.
-  - The page carries an image captioned only with the headline, so whether it shows this seizure could not be established and no media entry is added.
-  - The submitted Live Hindustan URL ends in 201793647372220 while the existing report cites 201793647375424 with the same headline; the article text describes the same 850-gram Badnauli arrest.
-  - The page image caption repeats only the headline and the image file appears to be a site logo frame, so whether it shows this seizure could not be established and no media entry is added.
-  - The article gives no separate date for the arrest; 2 November 2026 is its publication date, while the existing report dates the Sunday-night arrest to 1 November 2026.
-  - The new account spells the locality as Badauli (बदौली) and the neighbourhood as Navikareem (नवीकरीम), against Badnauli and Nabi Karim in the existing report; they are treated as the same place and person.
-  - The page carries a photo captioned only with the headline and without a credit stating what it shows, so whether it depicts this seizure could not be established and no media entry is included.
   - No cannabis value, laboratory weight beyond the stated 850 grams, or court outcome beyond registration of a case and further legal action was reported.
 ---
 

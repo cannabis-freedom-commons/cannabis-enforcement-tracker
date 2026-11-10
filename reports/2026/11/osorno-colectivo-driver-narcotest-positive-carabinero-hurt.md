@@ -46,7 +46,6 @@ open_questions:
   - Only the captain's reference to a narcotest and a respiratory test, and to alcohol plus marijuana and cocaine, is reported; no laboratory result was published.
   - No charge has been reported against the driver beyond traffic and drug-use findings; no court hearing or outcome has been published.
   - The driver is not named or described in any of the accounts.
-  - The submitted page image is a site design banner with no caption tying it to the collision, so no media entry is added.
   - The 3 November Osorno case, in which a fleeing car struck a Carabinero's motorcycle in Rahue Alto, is a separate event and is not covered here.
 ---
 

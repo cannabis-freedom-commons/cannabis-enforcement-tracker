@@ -43,7 +43,6 @@ sources:
 open_questions:
   - The article gives Oct 30 as the tip-off date and describes the 12.30pm interception without stating a separate raid date; 2026-10-30 is used as the incident date while 1 November 2026 is the publication date.
   - Only one opened source was found; no agency statement or second outlet corroboration was available.
-  - The page thumbnail filename suggests a 2023 image, so whether it shows this seizure is not established and no media entry is included.
   - The Rs 27.72 lakh total includes the truck, groundnut sacks, phones and cash; only the Rs 10.94 lakh ganja value is counted as drug value.
   - No remand, charge-sheet or court outcome was reported, and the two additional men named as organisers were not reported arrested in this account.
 ---

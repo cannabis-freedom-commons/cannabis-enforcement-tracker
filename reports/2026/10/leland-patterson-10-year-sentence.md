@@ -43,7 +43,6 @@ open_questions:
   - No details of the firearm, the prior felony, the arrest date or the underlying conduct were published.
   - The report does not state how the 10-year term was apportioned between the two counts.
   - Only one account could be opened; searches found no second report or the cited federal press release for corroboration.
-  - The page's sole image is a stock scales-and-gavel photo credited to Sora Shimazaki via Pexels, which does not show this event, so no media entry is included.
   - The sentencing year of 2026 is inferred from the 2 November 2026 publication date alongside the stated 29 October sentencing date.
 ---
 

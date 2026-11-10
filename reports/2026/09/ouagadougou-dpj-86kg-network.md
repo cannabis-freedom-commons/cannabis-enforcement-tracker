@@ -42,7 +42,6 @@ open_questions:
   - The police did not name, and Anadolu did not report, the neighbouring country the drugs were supplied from.
   - The number of people arrested, their charges and any court step are not reported.
   - Anadolu's 86 kg figure repeats the police statement as stated ('près de 86 kilogrammes'), so it is not an independent measurement.
-  - Anadolu does not itself name the Directorate of Judicial Police; it credits only the National Police anti-drug unit, which the existing report's other sources identify as the DPJ unit.
 sources:
   - title: "86 kg of cannabis seized: Police crack down on a trafficking network in Ouagadougou"
     url: https://nouvellesafrique.com/en/86-kg-of-cannabis-seized%3B-police-crack-down-on-a-trafficking-network-in-Ouagadougou/

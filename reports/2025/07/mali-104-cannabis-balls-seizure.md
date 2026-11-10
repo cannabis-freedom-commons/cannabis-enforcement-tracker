@@ -62,7 +62,6 @@ open_questions:
   - No arrests, driver identities, charges or court outcome were reported.
   - The exact interception site is not named beyond a cross-border axis and a neighbouring country that is not named, so Mali with country precision is used as the place.
   - Other seizures mentioned as background, including earlier cannabis and cocaine cases in Mali and regional totals, are separate events left out here.
-  - The Bamada.net page image carries no caption or credit tying it to this interception, so no media entry is included for it.
   - The text gives a weight ("700 kg") but the figures have no kg_seized; check whether it belongs there.
 ---
 

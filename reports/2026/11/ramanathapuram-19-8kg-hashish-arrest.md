@@ -140,21 +140,8 @@ open_questions:
   - Only one accessible source for this event was found after searching.
   - The earlier 15kg ganja case mentioned in the article is a separate event and is not recorded here.
   - >-
-    The page photo caption does not describe what is depicted beyond the event headline, so the media entry
-    relies on that caption and surrounding seizure reporting.
-  - >-
-    The new account opens by valuing the haul at nearly Rs 50 lakh while quoting police as Rs 2 lakh per kg
-    with about Rs 10 lakh value in Sri Lanka, differing from the existing report's nearly Rs 40 lakh figure,
-    so no new value is recorded.
-  - >-
-    The submitted page's thumbnail carries only the headline as caption with no credit or depiction details,
-    so no additional media entry is added for this image.
-  - >-
     The Hiru News lede values the haul at nearly Rs 50 lakh while quoting police at Rs 2 lakh per kg, which
     implies about Rs 40 lakh for 19.8 kg, so no new total value is recorded.
-  - >-
-    The page thumbnail carries only the headline as caption with no credit or depiction details, so no media
-    entry is added for this image.
   - >-
     The Hiru News page credits Times of India at the end, so it republishes rather than independently confirms
     the account.
@@ -167,37 +154,12 @@ open_questions:
     clear whether it is attributed to the same suspect, so it is left out of the figures.
   - No court outcome beyond custody at S.P. Pattinam police station was reported.
   - >-
-    The opened page carries only a generic site image and logo, with no event photo, so no media entry is
-    included.
-  - >-
     Coordinates are for Ramanathapuram town as the district centre; the precise coastal interception point
     near Pasipattinam was not separately verified.
   - >-
-    The new account spells the native place as Thalir Marungur while the existing report uses Thalir
-    Marungoor; the relationship between the newly clarified 15 kg ganja S.P. Pattinam case and the Thondi case
-    noted in the existing report is not clarified.
-  - >-
-    The headline says 198 kg but the body twice states 2 kg plus 17.8 kg totalling 19.8 kg; the existing
-    report's 19.8 kg figure is retained.
-  - >-
-    Vikatan was published on 4 November 2026 about a Tuesday interception; the existing report's 3 November
-    2026 incident date is retained.
-  - >-
     The third page photo captioned as an SP investigation interview does not clearly show the seizure or
     arrest and is not added as media.
-  - >-
-    The article was published on 4 November 2026 about a Tuesday 3 November interception; the existing
-    report's 3 November 2026 incident date is retained.
-  - >-
-    The new account spells the inspector as David Ravirajan while the existing report uses David Raviraj, and
-    transliterates the native place as Thalir Marungur versus Thalir Marungoor for the same Tamil name.
   - This account publishes no drug valuation, so no value figure is added or changed.
-  - >-
-    The page carries two images captioned only as seized ganja and arrested Mano with no credit or depiction
-    details, so no media entry is added.
-  - >-
-    The Rediff page dated 4 November 2026 says the arrest was on Wednesday, while the existing report uses 3
-    November 2026 (Tuesday); the existing date is retained.
   - >-
     The URL slug says 198 kg but the body states 19.8 kg as 2 kg plus nearly 18 kg; the existing 19.8 kg
     figure is retained.
@@ -205,41 +167,14 @@ open_questions:
     The residence recovery is given as nearly 18 kg versus the existing 17.8 kg, a rounding difference; the
     existing figure is retained.
   - >-
-    The earlier 15 kg ganja case is attributed by Rediff to Thondi police station, while the existing report
-    notes both a Thondi case and an S.P. Pattinam 15 kg case; the relationship is unclear.
-  - >-
-    The team leader is spelled David Ravirajan in Rediff versus David Raviraj in the existing report; treated
-    as the same officer.
-  - >-
     The Rediff valuation of Rs 2.5 lakh per kg in India differs from a prior Rs 2 lakh account; no new total
     value is recorded beyond the per-kg rates as new detail.
   - >-
     Six other recent cases with five arrests and eight to nine kg of contraband in the intensive drive are
     separate events left out here.
   - >-
-    The only page image is explicitly labelled as AI-generated for representational purposes and does not show
-    this event, so no media entry is included.
-  - >-
-    Rediff credits PTI as source; only this new account was opened in this run besides the existing report's
-    sources.
-  - >-
-    This account rounds the seizure to 20 kg with 18 kg at the house, versus 19.8 kg with 17.8 kg at the house
-    in the existing report; the existing 19.8 kg figure is retained.
-  - >-
-    This account values the haul at about Rs 10 crore, differing from prior Rs 40 lakh and per-kg valuations
-    in the existing report; no new total value is recorded beyond the reported estimate.
-  - >-
-    The native place is transliterated as Thalirmarungur versus Thalir Marungoor in the existing report,
-    treated as the same Tamil name.
-  - >-
-    The superintendent is transliterated as Sandeesh versus G. Chandeesh in the existing report, treated as
-    the same officer.
-  - >-
     The article was published on 4 November 2026 about the same Tuesday interception; the existing 3 November
     2026 incident date is retained.
-  - >-
-    The page carries three images captioned only as Ramanathapuram Cannabis Resin with no credit or depiction
-    details, so no media entry is added.
   - >-
     The DailyThanthi article gives no separate calendar date for the interception and was published on 4
     November 2026 about the same Tuesday operation, so the existing 3 November 2026 incident date is retained.
@@ -247,43 +182,20 @@ open_questions:
     The article rounds the house recovery to about 18 kg while retaining the 19.8 kg total, differing from the
     existing 17.8 kg breakdown, so the existing figure is retained.
   - >-
-    The page's sole image carries only the headline as caption with no credit or depiction details, so no
-    media entry is added.
-  - >-
     The six additional cases with five arrests and eight to nine kg mentioned in the same intensive-drive
     paragraph are separate events left out here.
   - >-
     The Ada Derana account gives the house recovery as nearly 18 kg rather than the existing 17.8 kg while
     retaining the 19.8 kg total, so the existing breakdown is retained.
   - >-
-    The Ada Derana page labels its image as a file photo and carries only the headline as caption with no
-    credit, so no media entry is added for this image.
-  - >-
-    The new account attributes the per-kg valuation to the Narcotics Control Bureau, while the existing report
-    attributes the same rates to police, so the attribution differs.
-  - >-
-    The new account rounds the house recovery to about 18 kg while the existing report uses 17.8 kg; the
-    existing 19.8 kg total and breakdown are retained.
-  - >-
     The new account was published on 4 November 2026 about a Wednesday briefing on the same interception; the
     existing 3 November 2026 incident date is retained.
   - >-
     The six other cases with five arrests and eight to nine kg of contraband in the same intensive-drive
     paragraph are separate events left out here.
-  - >-
-    The submitted page's only listed image is captioned as an ISRO scientist and does not show this event, so
-    no media entry is added.
-  - The Island item reproduces the same account carried elsewhere and states no source of its own, so it corroborates the existing report's wording rather than adding an independent version.
-  - The Island page carries one image captioned only with the headline and with no credit or depiction details, so no media entry is added for it.
-  - The article was published on 4 November 2026 about an interception "last night Tuesday"; the existing report's 3 November 2026 incident date is retained.
   - Tamilwin describes the haul only as worth several crore rupees without stating a total, and its page metadata mentions a per-kg figure that the body does not restate; no value is added.
-  - The native place is transliterated as Thalir Marungur versus Thalir Marungoor in the existing report, treated as the same name.
   - This account attributes the earlier 15 kg ganja case to S.P. Pattinam police station and says Mano was absconding in that case; it does not mention the separate Thondi case described elsewhere.
-  - The page's first two images carry only the headline as caption with no credit or depiction details, so no media entry is added.
-  - The PTI account says the arrest and briefing happened on Wednesday and was published on 4 November 2026, while the existing report uses 3 November 2026 as the incident date; the existing date is retained.
-  - The PTI text gives the residence recovery as nearly 18 kg rather than the 17.8 kg in the existing report, while both give the total as 19.8 kg; the existing breakdown is retained.
   - The six other cases, five arrests and eight to nine kg of contraband mentioned in the same intensive-drive paragraph are separate events left out here.
-  - The page's only image is a generic PTI wire preview thumbnail with no caption describing the event, so no media entry is added for it.
 ---
 
 Police arrested Mano in Ramanathapuram district after recovering 19.8 kilograms of hashish. [@1,2,3,4,5,6,7,8,9,10,11,12,13,15]

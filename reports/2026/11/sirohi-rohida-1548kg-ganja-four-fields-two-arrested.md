@@ -84,7 +84,6 @@ open_questions:
   - Pali Sirohi Online names the cover crops as maize, castor and varayali, while ETV Bharat reported maize and other crops; the difference is noted rather than reconciled.
   - Neither account gives a separate date for the raid; 6 November 2026 is the publication date of both pages.
   - 'Left out, as its quotation was not found in ETV Bharat: Officers searched four separate fields in the Rohida police station area and seized 1,548.484 kg of green ganja plants in total.'
-  - Amar Ujala names the two arrested men in full (Mukesh Kumar, 25, and Saniya alias Sunil, 19); the existing report keeps only their ages.
   - Amar Ujala describes the seized material as more than 1.5 tonnes of ganja plants and says police uprooted and seized the plants, without giving a plant count, a field area or a split between seized and destroyed plants.
   - 'The names of the two suspects differ slightly between outlets: Amar Ujala gives Saniya alias Sunil while ETV Bharat gave Sunil alias Suniyaram; no reconciliation was published.'
   - Amar Ujala's page image is a stock photo credited to ANI, not a picture of this raid, so it is not listed as media.

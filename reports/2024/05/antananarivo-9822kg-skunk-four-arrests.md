@@ -72,7 +72,6 @@ open_questions:
   - The value of Rs 12 million is stated in Mauritian rupees, but neither account says who converted it from ariary or how it was estimated.
   - The date of the L'Express de Madagascar page is shown only in its URL (June 2024), so 1 June 2024 is used as its source date; its navigation and links date from later years.
   - The L'Express de Madagascar photo is captioned only with the three suspects' names and does not establish the scene or date, so no event-specific photo of the seizure could be identified.
-  - 'No media address could be recovered from the Mauritian page: its only image is the article''s share image, captioned with the headline, so no media entry is added.'
   - The account also describes the earlier 2023 heroin case and the abandoned boat Bras-d'Eau, which belong to another case and are left out here.
   - The 2424.mg account gives the consignment as 10 kg and does not mention the 9,822 kg weight used in the Mauritian account of the same investigation.
   - It does not describe the intended maritime route or destination, or whether the skunk was imported rather than produced in Madagascar.

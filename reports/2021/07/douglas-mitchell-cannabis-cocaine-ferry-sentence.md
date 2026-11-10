@@ -69,7 +69,6 @@ open_questions:
   - No exchange rate converts the small cannabis value to a weight, so none is recorded.
   - The £160 of cocaine is excluded from cannabis figures as a separate substance.
   - The BBC spells the deemster's surname Cook and its appeal report spells it Cooke; the sentencing page's Cook is used.
-  - No photograph of the drugs, the car, the Sea Terminal arrest or the courtroom was available from the opened pages; the submitted page's image shows the Ben-my-Chree ferry, so no media entry is listed.
   - The sender or supplier of the drugs Mitchell brought to the island was not identified in the opened reports.
 ---
 

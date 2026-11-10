@@ -58,7 +58,6 @@ open_questions:
   - No independent weighing beyond the police count is reported.
   - No photo is listed because the CityNow image is captioned only Polizia Rc Volante with a 2024 file path and the Corriere image caption does not establish that it shows this seizure.
   - 'Left out, as its quotation was not found in Corriere della Calabria: The checks covered the city centre, the main squares, shopping centres, gambling halls and stations.'
-  - The ReggioToday page shows a photo captioned only as a police checkpoint, which does not establish that it depicts this operation's searches or seizure, so no media entry is listed.
 ---
 
 Reggio Calabria's Squadra Mobile, the city's mobile detective branch, arrested

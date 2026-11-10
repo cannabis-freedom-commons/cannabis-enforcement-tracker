@@ -45,7 +45,6 @@ open_questions:
   - The attempted throw's date is not reported separately; 30 May 2016 is the court date used for this sentence report.
   - No subsequent appeal or change to the sentence was found.
   - No second independent account of this 2016 case was found in targeted searches.
-  - The supplied page image is generic and is not established to depict the event, so no media is listed.
 ---
 
 The tribunal correctionnel, Pointe-à-Pitre's criminal court, sentenced

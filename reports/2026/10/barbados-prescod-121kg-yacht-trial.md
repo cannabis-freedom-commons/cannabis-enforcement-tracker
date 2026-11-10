@@ -49,7 +49,6 @@ open_questions:
   - No street value, laboratory report detail, plant count or additional seizure figure was given in the opened sources, so only 121.4 kg is recorded.
   - No arrest date or separate arrest count was stated in the opened sources, beyond Prescod being taken to Oistins Police Station.
   - The status of the two other men named aboard, Mr Rogers and Mr Herbert, was not clarified in the opened trial accounts.
-  - The only page image found is captioned Jury, Court and is a generic illustration that does not show this seizure or trial, so no media entry is included.
   - Only two opened accounts of this trial stage were available, one being a republication of Barbados Today reporting, and no separate agency statement was found.
   - The account of the offer to take the blame is Prescod's own unsworn statement from the dock and has not been tested by cross-examination or corroborated by Rogers or Herbert.
   - No verdict from the jury is given; closing arguments were still set for the Thursday after the article's publication.

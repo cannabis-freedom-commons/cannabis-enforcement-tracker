@@ -81,10 +81,8 @@ open_questions:
   - Only one source reporting this event could be opened after search, so no second account confirms the details.
   - The page advertises a gallery of 12 photos but only one direct image address was captured, so the remaining photos are not listed as media.
   - The text gives a weight ("30 kg") but the figures have no kg_seized; check whether it belongs there.
-  - The new sources date the presentation of charges to 1 November 2026 while the existing report uses the 30 October arrest date as the incident date, and no separate date for the court's remand order was published.
   - The combined figure of more than 30 kilograms covers amphetamine, cocaine, klefedron, ecstasy, methamphetamine and cannabis together, so only the separately reported cannabis weights of 8.53 grams and 2496.30 grams belong to cannabis figures.
   - Additional seized materials were sent for laboratory testing and the results were still pending, so further findings may affect the proceedings.
-  - The submitted page carries a photo credited to the Gdansk city police, but its caption does not establish what the photo depicts, so no media entry is listed.
 ---
 
 Gdańsk detectives detained two local men aged 43 and 44 suspected of trading

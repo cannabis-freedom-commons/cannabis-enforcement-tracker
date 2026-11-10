@@ -51,8 +51,6 @@ open_questions:
   - No separate seizure date was published; 29 October 2026 is the OLAF press release and enquiry-completion date used as the incident date.
   - The exact place of seizure is not stated beyond French Customs reporting US-to-Netherlands consignments.
   - No arrests, named suspects, charges or court outcomes were reported; follow-up was left to national authorities.
-  - The LIFE page photo caption repeats the headline and does not establish that it shows this seizure, so no media entry is added.
-  - The watson.ch lead image is a screenshot of the OLAF press release rather than a photograph of the seizure, so no media entry is added.
 ---
 
 The European Anti-Fraud Office completed an enquiry into gummies containing THC,

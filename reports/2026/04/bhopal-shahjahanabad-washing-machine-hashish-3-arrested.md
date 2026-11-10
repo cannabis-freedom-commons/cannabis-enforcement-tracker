@@ -65,7 +65,6 @@ open_questions:
   - The first accused's name appears as Mansoor Khan in English and as Manjur Mohammad Khan alias Junaid in Amar Ujala.
   - No court outcome, custody decision or charge sheet beyond registration of the NDPS case was reported.
   - The Amar Ujala article also reports a separate Kamla Nagar arrest of a woman with 467 grams of ganja, a different event left out here.
-  - The Bhaskar English page image has no caption or credit linking it to this seizure, so no media entry is included.
 ---
 
 Bhopal's Crime Branch carried out a night operation that exposed a hashish

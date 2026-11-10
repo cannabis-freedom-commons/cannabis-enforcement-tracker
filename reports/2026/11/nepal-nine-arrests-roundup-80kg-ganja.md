@@ -50,7 +50,6 @@ open_questions:
   - The brief does not distinguish its Birtamod addresses from the Belbari locations that the police statement lists for Morang.
   - The ganja is described only as material suspected to be ganja, with no laboratory confirmation reported.
   - No name, age or court outcome is given for most of those arrested, and no charges have been filed.
-  - The submitted page's only image is a generic 'arrested' stock picture with no caption or credit tying it to this event, so no media entry is included.
   - Left out agencies, as its quotation was not found in Nepal Police.
 ---
 

@@ -141,15 +141,12 @@ open_questions:
   - The Onda Vasca page gives no separate date for the searches and carries only a relative ''Ayer'' label instead of a full publication date; 6 November 2026 is taken from the page's own timestamp, and the incident date remains the Guardia Civil announcement day of 7 November 2026.
   - Onda Vasca reproduces the Guardia Civil statement already cited in the report and is not independent reporting.
   - The page headline says several weapons were seized but names only the two 12-gauge shotguns, as other outlets did.
-  - The page's only image is a file photo captioned ''La Guardia Civil interviene cerca de 2.000 plantas de marihuana en Granada'' (Guardia Civil seizes nearly 2,000 marijuana plants in Granada), an earlier, unrelated seizure in Granada, so no media entry is added.
   - Cadena SER carries the EFE agency copy of the Guardia Civil statement already cited in the report, so it is not independent reporting.
   - Cadena SER rounds the drug weights to 7.8 kg of hashish and 1.7 kg of marijuana; the report keeps the precise 7.843 kg and 1.771 kg figures from the earlier sources.
   - Cadena SER says the force announced the operation 'this Saturday' but gives no separate date for the searches; the report retains 7 November 2026 as the incident date.
   - The page's only photo is captioned as a Guardia Civil image from an unrelated La Rioja case of a baby intoxicated by cannabis, so it is not listed as media.
   - The notice gives no separate date for the searches; 9 November 2026 is its publication date and the report keeps 7 November 2026 as the incident date.
-  - The page photo is captioned only 'Imagen de recurso de la Guardia Civil' (a stock Guardia Civil image), so no media entry is added.
   - Espacio Diario reproduces the town council's release, so it carries no additional official figures or court outcome.
-  - The page's only article image carries the operation's own headline as its caption and no caption stating what it depicts, so no media entry is added.
 ---
 
 The Guardia Civil, Spain's military-status national police force, said it had

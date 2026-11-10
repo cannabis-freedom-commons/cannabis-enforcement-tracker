@@ -47,7 +47,6 @@ open_questions:
   - The sources give only the operation days of 20 and 29 October 2026; 29 October is used as the incident date and no separate date is given for the individual arrests.
   - A 29-year-old Reservoir woman was also arrested and charged for allegedly possessing an unspecified drug of dependence, so she is not counted in the cannabis figures.
   - The operation-wide totals of 20 arrests and 15 drug-possession arrests include non-cannabis and unspecified drug cases and are given as context, not as cannabis figures.
-  - The page carries only a generic 2019 police stock image that does not show this operation, so no media entry is added.
 ---
 
 Preston police officers, with assistance from the Dog Squad and Transit

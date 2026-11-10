@@ -49,7 +49,6 @@ open_questions:
   - Only one accessible source for this event was found; the Gazeta Express account could not be opened and searches in English and Albanian found no second full report.
   - The 440 euros in cash is described as suspected proceeds of narcotics sales generally and cannot be separated into cannabis and cocaine proceeds, so no cash or value figure is recorded.
   - The 52.93 grams of suspected cocaine is mentioned as context but excluded from cannabis figures.
-  - The page carries one image with no caption or credit, so it cannot be established to show this seizure and no media entry is listed.
   - No charges, custody period for the four detained men, or court outcome beyond the prosecutor's custody decision was reported.
 ---
 

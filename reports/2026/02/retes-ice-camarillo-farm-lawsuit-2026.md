@@ -67,8 +67,6 @@ open_questions:
   - The number of people detained differs between accounts, with Courthouse News reporting about 319 and Southern California News Group reporting about 200 immigrant arrests during the raid; the report uses Courthouse News' figure.
   - The individual federal officers sued are unnamed, and no court had ruled on the claims when the lawsuit was reported.
   - No date is given for the video the lawyers cite as refuting Homeland Security's version.
-  - This CBS News account gives Retes' age as 25, while the existing report notes a Southern California News Group caption calling him 20; neither is resolved.
-  - CBS reports more than 300 immigrants arrested across the Camarillo farm and another facility in Carpinteria, while the existing report uses the 319 figure; the page gives no breakdown between the two sites.
 ---
 
 George Retes Jr., a U.S. citizen and Iraq combat veteran who worked as a

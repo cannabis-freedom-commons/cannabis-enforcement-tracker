@@ -59,9 +59,7 @@ open_questions:
   - No names, charges or court outcomes were reported for the six suspected drug personalities.
   - Twenty-eight of the 34 arrests were general manhunt arrests for offences including statutory rape and attempted murder, with only six clearly identified as drug arrests.
   - The article gives the operation as Oct. 25 through Nov. 1 without a year and 2026 is taken from its 3 November 2026 publication.
-  - The Inquirer dates the campaign Oct. 26 to Nov. 1, while the existing report dates it Oct. 25 to Nov. 1 from North Luzon Monitor.
   - The Inquirer does not mention the 28 manhunt arrests; the total of 34 relies on North Luzon Monitor.
-  - The Inquirer page image is a file map of the Cordillera captioned INQUIRER FILES, not a photo of this operation, so no media entry is added.
 ---
 
 The Police Regional Office-Cordillera Administrative Region (PRO-CAR), the

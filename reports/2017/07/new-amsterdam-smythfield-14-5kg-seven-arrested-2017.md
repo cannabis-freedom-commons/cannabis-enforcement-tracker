@@ -58,7 +58,6 @@ open_questions:
   - News Room Guyana gives no outcome for the man who pleaded guilty in the New Amsterdam case.
   - The amounts are stated as 7.5 kilogrammes and seven kilograms; whether they were laboratory-tested was not reported.
   - No value estimate for the cannabis was published.
-  - The submitted page's only image is a 2016 file picture captioned for an unrelated minibus-driver case, so no photo of this event is listed.
   - The Demerara Waves article cites the police statement; no separate police press release was opened.
 ---
 

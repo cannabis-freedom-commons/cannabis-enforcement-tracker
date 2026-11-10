@@ -49,7 +49,6 @@ sources:
 open_questions:
   - The article gives no separate date for the raid; 2026-01-04 is its publication date and stands in for the event date.
   - No figure for the number of plants was published, so no plants_destroyed count is recorded.
-  - The submitted page carries four images without captions or credits tying them to this seizure, so no media entry is included.
   - The headline says the accused has over 25,000 Instagram followers while the body says only thousands of followers on social media; the follower claim is left out of the report.
 ---
 

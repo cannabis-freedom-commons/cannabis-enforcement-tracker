@@ -58,7 +58,6 @@ open_questions:
   - The young man's name and age were not published.
   - No charges, custody ruling or court outcome beyond being placed at the disposal of the judicial authority were reported.
   - Only the police account as relayed by local outlets was available; no separate agency statement could be opened directly.
-  - The pages carry images captioned with the article title or police operations, which does not establish that they show this home search, so no media entry is included.
 ---
 
 State police in Lentini arrested a young man accused of possessing drugs with

@@ -44,14 +44,10 @@ created_by_model: Meta Muse Spark (via Muse Code)
 tags: [louth, drogheda, prosecution]
 open_questions:
   - Trial outcomes for the three accused were not reported.
-  - The new account gives 506 packages weighing 505kgs valued at €10,110,00, differing from the existing report's 506 kilograms worth €10,120,000, with the new value appearing to have a missing digit.
-  - The new account gives Brian Coleman's age as 39 while the existing report gives 38.
   - The plea-hearing date is known only from the article publication date of 30 October 2026; no separate hearing date is given.
   - The adjourned mention date of January 11 is given without a year.
   - No outcomes for the two co-accused are reported in this account and no sentence has yet been imposed.
-  - The page image is captioned only as stock photos credited to Getty Images and does not show this event, so no media entry is included.
   - Only one accessible account of the plea hearing was opened; a second search result appears to repeat the same author and text.
-  - The page's only image is captioned as the sentence hearing at Dundalk Circuit Court and shows the courthouse rather than the seizure, warehouse, lettuce boxes or accused, so no media entry is included.
 sources:
   - title: Three men charged over €10.1m cannabis seizure in Co Louth
     url: https://www.irishtimes.com/crime-law/courts/2026/02/01/three-men-charged-over-101m-cannabis-seizure-in-co-louth/

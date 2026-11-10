@@ -45,7 +45,6 @@ open_questions:
   - The amount is stated as about four kilograms, not an exact measured weight, and no laboratory confirmation was reported.
   - No charges, custody decision or court outcome were reported.
   - Only one accessible source was found; a search for a second account of this 2015 arrest found nothing accessible.
-  - The page image is a generic marijuana photo credited to Abcnews.go.com, not this seizure, so no media entry is added.
   - 'Left out, as its quotation was not found in Vijesti: A 25-year-old citizen of Montenegro identified only as DV was arrested at the Klobuk border crossing on suspicion of trying to smuggle about four kilograms of marijuana into Bosnia and Herzegovina.'
   - Left out arrested, as its quotation was not found in Vijesti.
 ---

@@ -60,7 +60,6 @@ open_questions:
   - Weight is given as more than 3,500 pounds in two accounts and precisely as 3,591 pounds (1,630 kilograms) in a third; the report uses the precise count and converts it to kilograms.
   - The fifth detainee is spelled Owen K. Brakes by Telemundo and Owen K. Drakes in the Fox/AP account, and the vessel is spelled An-Nur versus An Nurl.
   - No trial outcome, sentence or later custody status was reported in the opened sources.
-  - The submitted page's only image asset is generic station artwork for its embedded video placeholder and does not show the seizure, so no media entry is included.
 ---
 
 The United States Coast Guard intercepted a vessel about 200 nautical miles

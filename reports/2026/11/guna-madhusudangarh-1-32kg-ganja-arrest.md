@@ -60,7 +60,6 @@ open_questions:
   - Only one report of this arrest was found after searching in Hindi and English; no police statement or second outlet account was available.
   - The page photo is captioned only as Madhusudangarh police action and is not established to show this seizure, so it is linked rather than treated as a cover.
   - The English headline refers to a Rajasthan supplier hunt, while the Hindi text describes the supplier as Ukavad resident Lekhraj Lodhi without naming Rajasthan; only the named Ukavad supplier is recorded.
-  - The article gives the weight as 1 kg 323 g; the existing report's 1.32 kg is the same amount rounded.
   - The article names no legal section for the case and reports no court step.
   - It does not say whether the alleged seller was arrested; it says only that he was made an accused.
   - No second outlet or police statement on this arrest was found, so the account rests on Dainik Bhaskar's two articles.

@@ -24,7 +24,6 @@ open_questions:
   - No number of people who might be pardoned, expunged or have sentences commuted is reported.
   - 'No decision, order or bill followed: Torres said the question was one to look into and discuss, so nothing is recorded as granted.'
   - Only one opened source for the announcement was found; no CNMI government statement or local-language account could be opened.
-  - The page photograph is a file photo of Torres at his inauguration, not an image of the announcement, so no media entry is listed.
 ---
 
 Commonwealth of the Northern Mariana Islands Gov. Ralph Torres said on Thursday

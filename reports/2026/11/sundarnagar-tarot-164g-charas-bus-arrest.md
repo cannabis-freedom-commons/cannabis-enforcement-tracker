@@ -44,7 +44,6 @@ open_questions:
   - The article says only Monday with an early-morning check and was published 3 November 2026, so 2 November 2026 is used as the incident date by inference.
   - The article reports no drug value, NDPS sections, or court outcome, and no further step is known.
   - A second report of the same bus seizure could not be found, so this report rests on one opened source.
-  - The submitted page carries an image file, but its caption and credit are empty and do not establish that it shows this seizure, so no media entry is added.
 ---
 
 A Dhanotu police team was conducting traffic checks at a blockade near the Tarot

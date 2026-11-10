@@ -48,7 +48,6 @@ sources:
     language: fr
 open_questions:
   - No cannabis weight was published for this network, so no kilograms can be recorded; all stated weights of 112 kg, 900 kg, 300 kg, 69 kg and others refer to cocaine and are excluded from cannabis figures.
-  - The only published image captions a different 14-15 July 2024 seizure at Capesterre-Belle-Eau of 780 kg of cocaine and 26 kg of cannabis herb, not this case, so no media entry is included.
   - The referral order date was not published; 23 October 2026 is the announcement and publication date used as the incident date, with a fixing hearing on 3 November to set the trial calendar and no trial date yet known.
   - Suspects are identified only by first name and initial, and full identities were not published.
   - The origin of the cannabis remains unclear, with only trips by suspects to the Netherlands noted.

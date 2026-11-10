@@ -58,7 +58,6 @@ open_questions:
   - No court appearance, remand order, charge sheet or sentence was reported.
   - Only one source could be opened; no police statement or second outlet account of this arrest was found.
   - Coordinates are for Sehore district; the precise location of the field was not given.
-  - The page carried no photo of this operation, only its default share image, so no media is linked.
 ---
 
 Gopalpur police arrested a 70-year-old man accused of growing cannabis illegally

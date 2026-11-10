@@ -81,7 +81,6 @@ open_questions:
   - The 30 euros in cash was described as suspected proceeds, not a cannabis valuation, so no value is recorded.
   - No court outcome was reported beyond house arrest pending the validation hearing.
   - The page photo is captioned only as sent by the police headquarters and has empty alt text, so its exact visible content is not established beyond its link to this arrest.
-  - The Dayitalianews page's primary image is a September 2025 file photo from a different arrest and does not show this seizure, so no media entry is added from this source.
 ---
 
 State police arrested a 23-year-old man from Catania for possession of narcotics

@@ -54,8 +54,6 @@ open_questions:
   - The reported 44 grams of cocaine and 22 grams of heroin are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - No court outcome beyond transfer to Viterbo prison was reported.
   - Only one accessible source for this event was found after searching in Italian.
-  - The page carries a photo without a caption establishing what it depicts, so no media entry is included.
-  - The page's images carry only generic captions such as carabinieri 2 and a photo filename, without establishing that they show this seizure, so no media entry is included.
 ---
 
 Carabinieri of the Tuscania Company concluded an anti-drug operation in the

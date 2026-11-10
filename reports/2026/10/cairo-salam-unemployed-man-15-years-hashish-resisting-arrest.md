@@ -68,7 +68,6 @@ open_questions:
   - The defendant is described only as an unemployed man with a criminal record and is not named.
   - The court's reasons give no date for the arrest or the ambush, and the sources do not say how long he was held before trial.
   - No value estimate for the hashish was published.
-  - The submitted page's only image is a thumbnail hosted by Al-Bawabh News with no caption saying what it shows, so no media entry is listed.
 ---
 
 Cairo Criminal Court sentenced an unemployed man to 15 years of rigorous

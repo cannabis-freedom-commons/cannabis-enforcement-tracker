@@ -49,7 +49,6 @@ open_questions:
   - No separate date for the appeal ruling was published; 4 November 2026 is the appeal article's publication date and is used as the incident date.
   - The reported dose price of 1,500 to 2,500 hryvnias covers all substances together, so no cannabis-only value is recorded.
   - No amount for the seized cash was published.
-  - The submitted page's only event-related photo is marked as illustrative, so no media entry is included.
 ---
 
 The Kharkiv Court of Appeal left in force the verdict against a former policeman

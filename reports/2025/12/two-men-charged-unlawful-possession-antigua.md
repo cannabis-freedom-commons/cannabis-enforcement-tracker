@@ -46,7 +46,6 @@ sources:
     date: 2026-01-02
 open_questions:
   - No second source for the two cases was found.
-  - The submitted page included an image without a caption or credit, so it was not included because it could not be confirmed to show this event.
   - The report uses 31 December 2025, the later of the two seizure dates, as the incident date.
 ---
 

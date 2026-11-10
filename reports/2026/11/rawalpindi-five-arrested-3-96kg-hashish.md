@@ -45,7 +45,6 @@ open_questions:
   - The headline total of more than 6.5kg is a combined drugs total that cannot be attributed to cannabis, so only the separately specified 3.96kg of hashish is counted.
   - No names, ages or further case outcomes for the five accused were published.
   - Only one outlet account of this event could be opened; no agency statement or second outlet was found for corroboration.
-  - The page carries a lead image captioned only with the headline, which does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Rawalpindi police arrested five drug suppliers in separate operations across the

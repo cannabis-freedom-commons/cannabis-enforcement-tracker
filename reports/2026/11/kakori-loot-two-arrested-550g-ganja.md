@@ -50,7 +50,6 @@ open_questions:
   - Only the accessible opening lines of a paywalled page could be read; the rest of the page prompts app download, so further details may exist behind access.
   - Only one accessible source for this event was found after searching in Hindi and English.
   - The recovered Rs 16,500 is reported as looted cash, not as cannabis proceeds, so it is kept in the text and not recorded as confiscated drug money.
-  - The page lists one image URL but carries no caption or credit establishing that it shows this seizure, so no media entry is included.
   - The page names the NDPS Act but no specific section, so the exact cannabis charge is not stated.
 ---
 

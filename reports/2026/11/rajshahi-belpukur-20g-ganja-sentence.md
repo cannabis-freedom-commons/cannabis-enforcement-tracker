@@ -54,7 +54,6 @@ open_questions:
   - The nine drug-case accused among the 18 other arrested people have unspecified substances and are not counted as cannabis arrests.
   - Prison terms and fines for the yaba and drug-use cases are left out of the figures because they do not involve cannabis.
   - Only one accessible outlet account of this event was found, with no second independent report confirming the details.
-  - The source page carries a photo captioned with the headline, but the caption and article text do not establish that it shows this seizure or arrest, so no media entry is added.
 ---
 
 Belpukur police arrested Abdul Matin, 40, in Bara Dhadas village in Rajshahi

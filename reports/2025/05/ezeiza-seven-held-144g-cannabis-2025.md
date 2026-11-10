@@ -53,7 +53,6 @@ open_questions:
   - The 0.1448 kg figure is the sum of the separately reported 106.6 g and 38.2 g seizures.
   - The report does not name the detainees or give exact ages beyond four adults and three minors, and does not state which stop each adult was in beyond the second holding the three minors.
   - No charge or hearing outcome was reported for the five people held in the second stop; the simple-possession charge is reported only for those held in the first stop.
-  - The page carries a body image with no caption or alt text, so it cannot be verified to show this seizure and no media entry is listed.
 ---
 
 Argentina's Airport Security Police (PSA) apprehended four adults and three

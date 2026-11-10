@@ -100,9 +100,6 @@ open_questions:
   - Sabah spells the neighbourhood 'Kızlar pınarı' and Akdeniz Gerçek 'Kızlarpınarı'; the report uses the latter.
   - The two accounts carry near-identical wording, suggesting both draw on the same İHA agency report rather than independent reporting.
   - 'Left out, as its quotation was not found in Sabah: The operations were coordinated by the Alanya public prosecutor''s office and carried out by the narcotics unit of the Alanya district police directorate.'
-  - The İHA page carries only the agency's default placeholder image rather than a photo of the operation, so no media entry was added from it.
-  - Gazete Alanya's summary describes the two raids as simultaneous, while its text recounts a first and then a second address; the existing report's 'two searches' wording is kept.
-  - The page's lead image is a file from the outlet's July 2024 uploads showing a cannabis leaf held in a hand; it is not a photograph of the raids, so no media entry was added from it.
   - The submitted account is dated 31 October 2026, a day after the İHA account; neither date establishes when the raids or court appearance occurred.
   - Kemer Gözcü credits its text to İHA and the Hürriyet page publishes an Anadolu Agency report, so both are agency accounts rather than original reporting by those outlets.
   - The MYGAZETE lead image carries only the headline as its caption and no credit, so it was not added as a photograph of the raids.

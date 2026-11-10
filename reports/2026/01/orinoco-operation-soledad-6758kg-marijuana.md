@@ -59,12 +59,10 @@ sources:
     date: 2026-01-13
     language: es
 open_questions:
-  - The main operation date of 5 January 2026 comes from the second sources; the submitted page is dated 13 January 2026 and gives no separate operation date.
   - The precise river interception point was not published, so Ciudad Bolivar centre coordinates are used for the Orinoco near Ciudad Bolivar.
   - The reported 6,850.41 kg and 7,148 kg totals cover marijuana plus cocaine and are excluded from cannabis figures; only 6,758.66 kg of marijuana is recorded.
   - No arrests, value, or court outcome for the main Orinoco load were reported in the opened sources.
   - Two additional Zulia operations announced in the same briefing, with six detentions and 39.45 kg plus 50 kg of marijuana, are left out here as separate events.
-  - The submitted page's photo shows the minister and does not depict the seizure, so no media entry is included, and no direct address was recovered for its embedded social video.
   - The post is a short broadcast clip and gives no operation-level figures beyond the combined 7,148 kg total for all drugs, so its marijuana component cannot be separated.
 ---
 

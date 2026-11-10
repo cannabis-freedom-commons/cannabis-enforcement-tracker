@@ -39,7 +39,6 @@ open_questions:
   - No arrests, charges, or court outcomes linked to the 53 underlying cases were named in this disposal account.
   - Only one accessible outlet account of this destruction could be opened after searching in Tamil and English, so no second account confirms the figures.
   - The precise figure of 298.563 kg seen in social-media snippets was not used because snippets are not evidence; the report uses the 298 kg stated in the opened article.
-  - The page carries no photograph shown to depict this destruction, so no media entry is included.
   - The related read about a separate Chengalpattu drug destruction was left out because it is a different event.
 ---
 

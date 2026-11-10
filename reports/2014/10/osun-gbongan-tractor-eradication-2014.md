@@ -45,7 +45,6 @@ created_by_model: meta/muse-spark
 tags: [ndlea, operation-weed-eaters, tractor]
 open_questions:
   - No court outcome for the arrested financier is given in the opened sources.
-  - The article page references a photo of the NDLEA tractor at the farm, but the image file itself no longer loads, so no media entry could be kept.
 sources:
   - title: NDLEA Tractor Destroy N6.8b Cannabis Farm in Osun State
     publisher: Urhobo Today

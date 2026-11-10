@@ -51,9 +51,6 @@ tags: [tanzania-route, dagga, border, hilux]
 open_questions:
   - The intended destination of the consignment beyond Beitbridge is unknown.
   - The outcome of the 21 September Musina court appearance is unreported.
-  - >-
-    BNK's cached photo shows a SARS Customs border-post display labelled Beitbridge rather than the
-    Baobab toll plaza, so no media_url was added until a matching image is confirmed.
 sources:
   - title: BMA records victories at key routes
     url: https://www.sanews.gov.za/south-africa/bma-records-victories-key-routes

@@ -46,7 +46,6 @@ open_questions:
   - No weight was published for the large amount of marijuana reported seized.
   - No count of cannabis plants was published, only hundreds of planters and growing equipment.
   - No court outcome was reported; the opened sources say the investigation remains ongoing.
-  - 'No photograph showing this barn, seizure or arrest could be established: the CBS page uses a stock image and no event photo was available, so no media entry is added.'
 ---
 
 Mount Pleasant Township police and parole agents arrested Dante Sunseri on Aug.

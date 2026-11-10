@@ -147,32 +147,15 @@ open_questions:
     of the Ijare raid was found.
   - Ijare forest is not mapped separately; the coordinates mark Ijare town in Ifedore, Ondo State.
   - >-
-    No photograph of the Ijare raid was identified; the submitted page's single image is uncaptioned and not
-    described in its text.
-  - >-
     The same roundup reports separate cannabis operations in Kano, Edo and Sokoto states, which belong to
     other reports.
   - >-
     The Vanguard page is a seven-state NDLEA roundup; its Lagos, Kano, Kaduna, Sokoto, Oyo and Edo components
     belong to other reports and are left out here.
-  - >-
-    The page's single image carries only the article title as caption and cannot be verified to show the Ijare
-    raid, so no media entry is added.
-  - >-
-    The submitted page carries four images with empty captions and credits that cannot be verified to show the
-    Ijare forest raid, so no media entry is added.
-  - >-
-    The submitted page is a multi-state NDLEA roundup also reporting Lagos, Oyo, Kano, Edo and Sokoto cannabis
-    operations and non-cannabis cocaine, ammunition and pharmaceutical seizures; this decision covers only its
-    Ondo Ijare forest component.
-  - >-
-    The submitted page is a multi-event roundup; this update uses only its Ondo Ijare forest cannabis
-    component.
   - The fourth arrested suspect was not named.
   - No plant count or hectare figure for the Ijare farms was published.
   - No charges or court outcome for the four suspects were reported.
   - The forest location was not mapped; no coordinates are given.
-  - The sources' photographs could not be verified as showing this raid, so no media entry was added.
 ---
 
 NDLEA operatives raided cannabis farms in Ijare forest, Ondo State, on Sunday 25

@@ -50,7 +50,6 @@ open_questions:
   - The names of the three detained men and the charges brought against them were not published.
   - The article reports the deferral before the Anosy court but no ruling, sentence or remand decision.
   - A Midi Madagasikara account of the same seizure appears on AllAfrica but could not be opened, so this report relies on a single source.
-  - The page carries no photo of the seizure; its images are unrelated site thumbnails, so no media entry is included.
   - 'Left out, as its quotation was not found in LINFO.re: The sacks held about 200 kg of cannabis in total.'
 ---
 

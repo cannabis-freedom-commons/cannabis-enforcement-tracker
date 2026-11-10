@@ -60,7 +60,6 @@ open_questions:
   - Avas reports five months in custody while Adhadhu and Cannabis Law Report report five months and nine days; the report uses the more precise figure.
   - Adhadhu rounds the seizure to 26 grams while Cannabis Law Report gives 26.76 grams plus 0.12 grams; the report records the detailed total of 26.88 grams.
   - The original Sun report at en.sun.mv/91662 could not be opened directly, so its details are used through the Cannabis Law Report summary that cites it.
-  - The Avas page shows a photo captioned B. Maalhos and the Adhadhu page shows a Criminal Court building photo; neither is shown to depict the search, seizure or sentencing, so no media entry is included.
   - No court outcome beyond the life sentence and fine, such as an appeal, was reported.
   - 'Left out, as its quotation was not found in Adhadhu: Police found 26 grams of cannabis in his possession when he was arrested in July 2019.'
 ---

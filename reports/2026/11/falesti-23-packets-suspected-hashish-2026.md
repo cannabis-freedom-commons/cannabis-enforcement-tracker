@@ -45,8 +45,6 @@ open_questions:
   - Laboratory confirmation was still pending; police described the substance only as resembling hashish.
   - The account names no arrest, detention, charge or court outcome; the investigation was described as continuing.
   - Only one accessible source for this event was found after searching in Russian and Romanian.
-  - The page illustration is a May 2026 police image reused with a generic caption and the embedded video is not established to show this seizure, so no media entry is included.
-  - The Știri.md page image is presented as a Știri.md collage and is not established to show this seizure, so no media entry is included.
 ---
 
 On 3 November 2026, police officers in Fălești carried out a search at the home

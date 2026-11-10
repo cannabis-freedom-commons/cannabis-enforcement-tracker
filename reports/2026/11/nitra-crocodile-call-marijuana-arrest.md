@@ -85,9 +85,7 @@ open_questions:
   - The user reported the source text as unavailable, but the full article was opened and used; no evidence came from a failed fetch.
   - 'Left out, as its quotation was not found in TERAZ.sk (TASR): Inside the apartment, besides various animals, officers saw a plastic tray with a grinder holding an unidentified dried plant material.'
   - The gallery's nine photographs are credited only to the police Facebook page and carry no individual captions, so what each frame shows cannot be established beyond the article's account of the apartment intervention; only the first photo has been linked.
-  - The article gives no separate date for the intervention; 5 November 2026 is its publication date, the same day the existing report uses.
   - 'Left out, as its quotation was not found in Nitrak.sk: The Nitra regional police directorate said the check concerning animal keeping was passed to the competent authority for further action.'
-  - The article's nine photographs carry only the generic caption about police checking the reported crocodile removal and are credited to the Nitra regional police Facebook page, appearing to republish the same police handout already linked on the existing report, so no new media entry is added.
   - Noviny.sk credits the same Nitra regional police Facebook post as the earlier reports, so it is a re-report of the police account rather than independent reporting.
   - The page's images and an embedded animal-related video were left out because they duplicate the police handout already linked or do not show the marijuana seizure.
 ---

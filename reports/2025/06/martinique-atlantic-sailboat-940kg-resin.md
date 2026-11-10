@@ -74,9 +74,7 @@ open_questions:
   - The sources give no coordinates beyond international Atlantic waters off Guyana, so the map point marks Fort-de-France, where the vessel and its crew were taken, not the interception site.
   - MAOC-N records two crew members handed over, while Martinique La 1ère and RCI report four people taken into custody; the report records four.
   - No nationality, age, identity, charges or court outcome for the detained people was published.
-  - Newspaper photos on France-Antilles are captioned as the recovery of a tonne of drugs by the patrol vessel Confiance on 11 June 2025 and do not establish that they show this interception, so no media entry is included for them.
   - 'Left out, as its quotation was not found in Martinique La 1ère: The operation belonged to Carib Royale, a French anti-trafficking campaign at sea.'
-  - The page's four photos are all captioned as a recovery of a tonne of drugs by the patrol vessel Confiance on 11 June 2025, so they do not establish that they show the 6 June interception and no media entry is included.
 ---
 
 A French Navy vessel intercepted a sailing ship and found 24 bales of cannabis

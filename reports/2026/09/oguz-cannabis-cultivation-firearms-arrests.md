@@ -57,7 +57,6 @@ open_questions:
   - The Interior Ministry statements do not specify how much of the seized material was cannabis by weight; the cultivated plants are described only as narcotic-containing plants (çətənə, cannabis).
   - No later court decision, charge list or outcome was reported in any of the opened articles.
   - The suspects are named only by initials, and the third man's surname is transliterated both as Haşımov and Gaşimov.
-  - The state video of the operation was published on video.azertag.az, but only its page address is verifiable, not a separate image or video file address, so no media entry is included.
   - 'Left out, as its quotation was not found in AZƏRTAC: Officers detained three men, identified by their initials as S.İbrahimov, E.İsmayılov and T.Haşımov.'
 ---
 

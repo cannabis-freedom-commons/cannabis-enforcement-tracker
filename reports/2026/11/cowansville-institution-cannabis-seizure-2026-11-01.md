@@ -41,7 +41,6 @@ open_questions:
   - No separate weight or value for the cannabis concentrate and marijuana was published; the $121,655 figure covers all contraband including cocaine, tobacco and phones, so no cannabis quantity or value is recorded.
   - No arrests, charges or method of introduction were announced; whether anyone was detained or charged is not known.
   - The October 4, October 16 and August 18 seizures at Cowansville described in the same Pulse article are different events and are left out of this report.
-  - The only page image is a file photo of the outdoor exercise area credited to the Office of the Correctional Investigator, not shown to depict the November 1 seizure, so no media entry is listed.
   - Coordinates are for Cowansville town centre, not a precise spot inside the institution.
 ---
 

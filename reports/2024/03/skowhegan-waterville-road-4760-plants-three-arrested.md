@@ -78,7 +78,6 @@ open_questions:
   - No weight of dried cannabis product was reported, and no value estimate for the plants was published.
   - The sheriff's release does not say what each defendant's role was or where the cannabis was to be sold.
   - No outcome is reported for Ying Xia Liao's case, which the 2026 Morning Sentinel report describes as still pending.
-  - The other images on the submitted page are plain portraits of the three defendants, which the tracker leaves out, so only the plants photograph is listed.
 ---
 
 Somerset County Sheriff's deputies executed a drug search warrant at a residence

@@ -41,7 +41,6 @@ sources:
     date: 2026-11-03
 open_questions:
   - Only one accessible source reporting this ruling could be opened, so no second account confirms the details.
-  - The page's lead photograph carries no caption or alternative text establishing that it depicts this case, so no media entry is included.
   - The article dates the violation hearing only to March 2026 with no day given, so the report is dated at the 2 November 2026 appeal ruling.
   - The outcome of the ordered resentencing hearing is not yet known.
 ---

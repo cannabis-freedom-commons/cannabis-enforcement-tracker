@@ -50,7 +50,6 @@ open_questions:
   - The 18 grams is described only as cannabis, with no laboratory confirmation, packaging split or street-value estimate published.
   - The source calls the release "libéré sur parole"; it does not say whether that means bail, release on parole from custody or release with a summons.
   - Only one accessible source for this event was found after searching in French and English.
-  - The page's only image is a Rose-Hill police-station photo uploaded in December 2024 and is not shown to depict this search or seizure, so no media entry is listed.
 ---
 
 Officers of the ADSU, Mauritius's Anti-Drug and Smuggling Unit, searched the

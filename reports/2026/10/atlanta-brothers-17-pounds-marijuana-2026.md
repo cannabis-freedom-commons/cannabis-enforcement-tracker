@@ -50,11 +50,7 @@ sources:
 open_questions:
   - The source says the warrant was executed on a Thursday without giving a calendar date; 22 October 2026 is the Thursday before the 28 October 2026 publication and is used as the incident date.
   - Officials had not confirmed whether additional suspects were tied to the operation or whether the apartment was being used as a primary distribution hub.
-  - The FOX 5 page displays a photo credited to the Atlanta Police Department showing seized marijuana, but no direct image address could be recovered, so no media entry is listed.
   - Only one full source could be opened; the submitted WSB page returned Error 451 in this location and could not supply quotations.
-  - The Yahoo/WSB account says the search warrant was executed Oct. 1 while the existing report uses 22 October 2026 from the FOX 5 account's Thursday reference, so the exact raid date remains unresolved.
-  - No media entry is listed because the capture provides no recoverable direct event photo address; its Open Graph image is a Yahoo default logo and its video was unavailable in this region.
-  - The existing report dates the raid 22 October 2026 from a Thursday reference, while the submitted text states Oct. 1 explicitly; the exact calendar date remains to be reconciled against the official police statement.
   - The marijuana is described only as suspected, with no laboratory confirmation reported.
   - No court stage beyond the charges was reported.
 ---

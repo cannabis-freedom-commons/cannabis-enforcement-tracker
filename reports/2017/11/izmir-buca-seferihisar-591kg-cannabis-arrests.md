@@ -47,7 +47,6 @@ open_questions:
   - No court outcome beyond remand, including any trial, sentence or appeal, was reported.
   - The same articles describe separate 2-17 November city-wide operations with additional cannabis and non-cannabis seizures; that roundup is left out here as a different event.
   - Both accessible accounts republish the same AA agency report; no separate police statement could be opened directly.
-  - The pages carry images with only generic captions that do not establish that they show these seizures, so no media entry is included.
 ---
 
 Izmir police anti-narcotics teams raided the Buca home of 26-year-old Y.B. after

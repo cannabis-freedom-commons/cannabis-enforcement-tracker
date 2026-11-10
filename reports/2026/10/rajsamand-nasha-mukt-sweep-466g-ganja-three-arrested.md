@@ -51,7 +51,6 @@ open_questions:
   - No cannabis quantity was published for two of the three NDPS cases, so the 0.466 kg figure covers only the 466 grams seized from one accused.
   - The 21 arrests under Section 170 of the Bharatiya Nagarik Suraksha Sanhita were preventive action, so figures.arrested covers only the three NDPS arrests.
   - No second independent report of this sweep could be opened.
-  - The page image carries no caption tying it to this drive, so no media entry is listed.
 ---
 
 Rajsamand police ran a one-day special drive across the district against

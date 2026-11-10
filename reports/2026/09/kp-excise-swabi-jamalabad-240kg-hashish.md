@@ -37,7 +37,6 @@ open_questions:
   - Only one source could be found for this seizure.
   - The article gives no separate date for the late-night interception; 29 September 2026 is its publication date.
   - No one was arrested, as the people in the vehicle abandoned it and fled under cover of darkness.
-  - The photograph on the source page is filed under an earlier Dera operation recovering 473 kg, so it shows a different event and no media entry is recorded.
 ---
 
 The Khyber Pakhtunkhwa Excise, Taxation and Narcotics Control Department seized 240 kg of high-quality hashish in a counter-narcotics operation in Swabi. [@1] The operation followed a tip-off received by Excise and Taxation Officer for Counter Narcotics Operations Majid Khan, with special teams deployed under SHO Excise Police Station Swabi Faisal Khan. [@1]

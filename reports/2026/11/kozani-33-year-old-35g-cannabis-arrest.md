@@ -56,9 +56,6 @@ sources:
 open_questions:
   - The 1.4 grams of cocaine seized in the same check are excluded from the cannabis figure above.
   - No court outcome beyond referral of the case file to the Kozani misdemeanour prosecutor was reported.
-  - The Tharos page carries a lead image captioned with the headline, but its content could not be verified as showing this seizure, so no media entry is added.
-  - The submitted page's listed source_images are advertisements, and whether its generic police-car image shows this seizure could not be established, so no media entry is added.
-  - The page shows an image served from a 2024 file path with generic alt text, which does not establish that it shows this seizure, so no media entry is added.
 ---
 
 Officers of the Kozani Crime Detection and Clearance Division arrested a

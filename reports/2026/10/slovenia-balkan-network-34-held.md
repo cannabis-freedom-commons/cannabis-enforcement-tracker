@@ -42,11 +42,7 @@ open_questions:
   - The three-tonne cannabis figure covers the whole network, not Slovenia alone; Slovenia-specific seizures were 51 kg on the action day plus 404 kg intercepted earlier.
   - The Ljubljana remand outcomes and extraditions were still pending.
   - The 2.5 metric tons of cannabis is described as an unseized additional amount prosecutors expect to charge based on decrypted communications, not a physically seized weight.
-  - The OCCRP account reports 36 suspects arrested on the action day plus 11 detained earlier, totalling 47 detained, while the existing report records 34 arrested, reflecting Slovenia-only versus all-country counting.
   - No charges, remand outcomes or sentences beyond the expected prosecutions were reported in this account.
-  - Europol describes 36 arrests on the action day plus 11 earlier, totalling 47 as almost 50, while the existing report records 34 arrested reflecting the Slovenia-only count.
-  - The existing report describes two dismantled networks per Slovenian police coverage, while the Europol statement describes one Western Balkan network.
-  - No media entry is included because the captured source_images captions only say cover and do not establish that the images show this seizure or arrests.
 sources:
   - title: Slovenian Police Helps Dismantle Two International Drug-Smuggling Networks
     url: https://cordmagazine.com/news/slovenian-police-helps-dismantle-two-international-drug-smuggling-networks/

@@ -67,7 +67,6 @@ open_questions:
   - The 259 kg of synthetic drugs and almost 6 tonnes of precursors are excluded from the cannabis figures because they are not cannabis.
   - The article gives no single date for the operations; the period January to April 2025 is used, and 12 May 2025 is the date the ministry released the figures.
   - The April synthetic-drug cases in Kosshy and Astana are mentioned in the same release and are not part of the cannabis figures; they could support their own reports if fuller accounts are found.
-  - The submitted El.kz photo carries a caption crediting El.kz, its author and ChatGPT, and the same page embeds a YouTube video; neither is confirmed to show the cannabis seizures, so no media entry is given.
   - Left out agencies, as its quotation was not found in Министерство внутренних дел Республики Казахстан.
 ---
 

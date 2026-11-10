@@ -50,7 +50,6 @@ open_questions:
   - No charge under the NDPS Act, remand or court outcome was reported, and no street value was published for the 3.6 kg.
   - The article's headline says the two were selling ganja, but the text only describes them standing with the two-wheeler and carrying the cannabis; police gave no account of a sale.
   - Only one accessible source for this event was found after searching in Tamil and English for a second account.
-  - 'The page carries no photo of this arrest: its images are thumbnails of unrelated video stories, so no media entry is included.'
 ---
 
 Police in Bhavanisagar detained two men standing with a two-wheeler in the

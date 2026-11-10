@@ -45,7 +45,6 @@ open_questions:
   - The articles give no separate date for the search and seizure; 29 September 2024 is the publication date and is used as the incident date.
   - No names, arrests, charges or court outcome were reported; the two suspects fled toward Albania and were still being sought.
   - The weight is reported as about 66 kilograms, not an exact laboratory weight.
-  - The submitted page carries a photo whose caption does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Montenegro's Border Police seized 66 kilograms of skunk marijuana in the area of

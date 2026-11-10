@@ -55,7 +55,6 @@ open_questions:
   - The 292 kg is a cumulative district total rather than one operation's haul, and it cannot be attributed to particular cases, including the individual Cuddalore cases already in the tracker.
   - Only the ganja figure is recorded as cannabis; the gutkha and tablet seizures are separate substances and their weights are not counted as cannabis.
   - No court outcome or charge detail for the 286 cases was published beyond the count of arrests and cases registered.
-  - No photo on the Dinamalar page shows this event; its images are sidebar thumbnails of unrelated stories, so no media entry is included.
 ---
 
 Cuddalore district police arrested 502 people in 286 cases registered for the

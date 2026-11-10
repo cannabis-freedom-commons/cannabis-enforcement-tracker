@@ -86,9 +86,6 @@ open_questions:
     The pictures on the cited pages are older stock images, not photographs of this seizure, so none is
     listed.
   - >-
-    The page's arrest photo is served from a 2024 file path with no caption tying it to this Carthage
-    operation, so no media entry is included.
-  - >-
     The reports give no separate date for the raids; 30 October 2026 is the day Kapitalis, Mosaïque FM and
     Directinfo published their accounts.
   - No weight was published for the cannabis, which is given only as one and a half slabs and 25 pieces.

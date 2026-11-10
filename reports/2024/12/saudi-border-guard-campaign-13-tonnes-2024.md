@@ -39,7 +39,6 @@ open_questions:
   - The release groups "three Somalis and Eritreans" without a per-nationality breakdown; the arrested total counts that group as three people.
   - The 1,388,622 narcotic pills and 136 tonnes of khat seized in the same operations are not cannabis figures and are recorded only in the text.
   - Whether the arrested were charged, prosecuted or sentenced was not reported in the available accounts.
-  - The Saudia Daily page carries a photograph with the story that could not be verified as showing this seizure, so no media entry was added.
 sources:
   - title: Saudi Border Guards Foil Attempts to Smuggle 1.3 Tons of Hashish, 1,388,622 Narcotic Pills, 136 Tons of Khat
     url: https://cannabislaw.report/saudi-border-guards-foil-attempts-to-smuggle-1-3-tons-of-hashish-1388622-narcotic-pills-136-tons-of-khat/

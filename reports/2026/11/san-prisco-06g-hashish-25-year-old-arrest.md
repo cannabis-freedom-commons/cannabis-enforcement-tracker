@@ -55,7 +55,6 @@ open_questions:
   - The incident date of 6 November 2026 is inferred from both sources' 'yesterday afternoon' relative to their 7 November 2026 publication dates.
   - Only the 0.6 grams of hashish is counted in kg_seized; the 22.3 grams of cocaine and the 54 doses, described as cocaine, are excluded as non-cannabis.
   - No street or official value, charge filing, hearing or further court outcome was reported; the case is recorded at the investigation stage.
-  - 'No captioned event photo is listed: the submitted page carries an uncaptioned police image and the police page shows a generic Squadra Mobile image, so no media entry could confirm an event photo.'
 ---
 
 On the afternoon of 6 November 2026, officers of the Squadra Mobile arrested a

@@ -95,13 +95,6 @@ open_questions:
   - The court is identified only as the special court of the principal district and sessions judge; no case number or section of the NDPS Act was published.
   - Whether the hired car was seized, and who supplied or financed the load in Nepal, was not reported.
   - The Hindustan page image uses a 2025 image address captioned only with the headline, so whether it shows this seizure is not established; the entry links it as the page picture.
-  - This account attributes the raid to the STF and district intelligence unit in the Mufassil police-station area, while the existing report attributes the same arrests to the DRI Muzaffarpur unit with the SSB 71st Battalion at Kunwari/Chatauni Chowk; the agency and precise spot differ.
-  - This account reports an even 10 kg of ganja, while the existing report records about 10.5 kg and 10.550 kg; the report keeps the existing figures.
-  - This account reports two motorcycles and five smartphones seized but no cash, while the existing report records Rs 45,000 cash and two motorcycles with no phones; whether cash and phones were seized together is unresolved.
-  - This account names Tikulia village in Adapur and Saraia Khas in Govindganj, while the existing report gives ward numbers in Adapur and Sareya Khwas under Govindganj; spellings also vary (Bhulan/Bhuln, Sah/Shah, Sahni/Sahani).
-  - This account does not mention the hired car, the Satganj-Nepal origin, the FIR by the DRI intelligence officer, or the production before the special court and remand to jail recorded in the existing report.
-  - The submitted article gives no separate date for the raid; 6 November 2026 is its publication date, while the existing report dates the operation to the night of 4 November 2026.
-  - The submitted article does not mention the SSB joint team, the hired car, the reported Satganj-Nepal origin, the FIR or the special-court production recorded in the existing report.
   - The Prabhat Khabar report attributes the operation to the DRI team acting on a tip-off near Kunwari Devi Chowk but names neither the SSB joint team nor a date; 6 November 2026 is its own publication date, while the report dates the raid to the night of 4 November 2026.
 ---
 

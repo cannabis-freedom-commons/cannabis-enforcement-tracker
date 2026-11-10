@@ -31,7 +31,6 @@ open_questions:
   - No street value of the cannabis was established; the judge noted no attempt had been made to work it out and said the defendants' submissions gave some indication of the operation's size.
   - The reports give the ages of some defendants but not all; Matangi Tonga counts four teenagers among the seven.
   - The submitted Matangi Tonga page shows only its lead sentence behind a subscription notice; the remaining detail comes from Kaniva Tonga.
-  - Matangi Tonga's page image is a 2014 police cannabis-plant file photo, not a picture of this plantation, so no media entry is added.
   - The tracker's 2018 report places the plantation at Mataika, Vava'u, while these accounts place the tax allotment at Holonga; the relationship between the two locations was not established.
   - 'Left out, as its quotation was not found in Kaniva Tonga: A search of the house found plastic bags of cannabis leaves and seeds weighing 22.57 grams, and 26 rounds of .22 ammunition.'
   - Left out arrested, as no supporting quotation was given.

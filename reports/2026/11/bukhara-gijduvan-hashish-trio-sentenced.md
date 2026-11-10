@@ -47,7 +47,6 @@ open_questions:
   - No weight or quantity of hashish was published.
   - The names, ages and individual sentences of the three convicted people were not published.
   - No second account of this Bukhara sentence was located, so this report relies on one source.
-  - The page carries a lead image captioned only with the headline, which does not establish that it shows this event, so no media entry is added.
 ---
 
 Internal-affairs officers in Gijduvan district detained three people who

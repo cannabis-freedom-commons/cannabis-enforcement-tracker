@@ -64,8 +64,6 @@ open_questions:
   - The 2.85 grams of esrar is a small part of a haul dominated by methamphetamine, bonzai and synthetic pills; no cannabis plants, cultivated area or value were reported.
   - The raid is dated to 3 November 2026, but the remand and release decisions were reported on 7 November and the date of the court hearings is not given.
   - Kastamonu is the coordination centre, but addresses in Çankırı and Samsun provinces were also raided, so no single tighter place can be given.
-  - The submitted page and the IHA report reproduce the same provincial police statement, so they are not independent accounts.
-  - The submitted page shows an image captioned only with the headline and no credit, and the IHA page's image likewise could not be confirmed to show the raids or the seized drugs, so no photo is listed.
 ---
 
 Police in Kastamonu detained 35 people in the Şahan operation, a sweep against

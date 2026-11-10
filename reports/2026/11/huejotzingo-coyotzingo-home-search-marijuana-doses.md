@@ -66,7 +66,6 @@ open_questions:
   - The page's lead photo carries no credit and no caption confirming that it shows the searched property or the seized drugs, so it is offered only as a link.
   - The outlet's headline counts 82 doses by adding the 63 crystal bags to the 19 marijuana doses; only the 19 marijuana doses are cannabis.
   - The single photo published with the article is credited only to Especial, with no caption saying what it shows, so it was not added as media.
-  - The El Congresista page states it was written with AI assistance from cited sources and credits nmas.com.mx, so it is not independent of the prosecutor's statement reproduced by the existing report's sources.
 ---
 
 Prosecutors and federal and state officers searched a property in San Luis

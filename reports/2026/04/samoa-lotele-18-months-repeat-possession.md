@@ -47,7 +47,6 @@ open_questions:
   - The article gives no separate date for the sentencing; 19 April 2026 is its publication date and is used as the incident date.
   - The page does not say where the Supreme Court, the Alcohol and Drugs Court or the police vehicle search took place beyond Tauese and Saina, so no precise place or point is recorded.
   - The earlier offences behind the repeat charge and the bail refusal are not described.
-  - The page's only picture is a captioned photo by Junior S. Ami that does not state what it shows, so no media entry is listed.
   - No second account of this sentencing was found.
 ---
 

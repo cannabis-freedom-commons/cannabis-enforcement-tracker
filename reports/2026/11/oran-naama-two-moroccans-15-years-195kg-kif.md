@@ -52,7 +52,6 @@ open_questions:
   - The French account places the first border interception in Mekmen Ben Amar commune while the Arabic account names Jenin Bourzeg commune in Naâma, so the report uses Mekmen Ben Amar from the submitted source.
   - The reports describe two men caught with 13 kg, two more members arrested later and two Moroccans caught with 182 kg, plus a third accomplice who fled, leaving unclear how the six accused map to those seven people named.
   - The 195 kg total is the sum of the reported 13 kg and 1 quintal and 82 kg, with one quintal taken as 100 kg.
-  - The submitted page carries a photo captioned only Arrestation, which does not establish that it shows this seizure, so no media entry is listed.
 ---
 
 The criminal court of appeal in Oran recently sentenced two Moroccan nationals

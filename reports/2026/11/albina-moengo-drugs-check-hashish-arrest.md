@@ -60,7 +60,6 @@ open_questions:
   - The two men approached in Albina were not identified and neither was charged in these accounts; the man taken to the station is described as brought there to calm down, with no drugs found on him.
   - Police did not say whether the man who fled in Albina was later traced.
   - All available accounts reproduce the same Korps Politie Suriname statement; a keynews.sr version could not be opened (HTTP 403).
-  - The submitted page's photo is captioned only 'man met hasj aangehouden in Moengo' with no credit, so it is not confirmed to show P.R. himself.
   - 'Only one distinct account of this event was found: Dagblad Suriname repeats the same Korps Politie Suriname statement as Waterkant.'
 ---
 

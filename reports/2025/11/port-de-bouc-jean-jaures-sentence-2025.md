@@ -54,7 +54,6 @@ open_questions:
   - The source spells the defendant's first name both Wissam and Wassim; the report uses Wissam from the lead paragraph.
   - The number of co-defendants arrested and their penalties was not detailed beyond several people receiving various penalties.
   - The remainder of the article is paywalled, so any further sentencing details were not available.
-  - The only published picture is labelled as an illustration photo, not as the seized drugs, so no media entry is linked.
 ---
 
 The criminal court in Aix tried Wissam B. separately after his co-defendants and

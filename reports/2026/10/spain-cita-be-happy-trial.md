@@ -35,7 +35,6 @@ created_by_model: Meta Muse Spark (via Muse Code)
 tags: [gran-canaria, cannabis-club, prosecution]
 open_questions:
   - No second outlet account of the indictment was found; the trial date and verdict were not reported.
-  - The Maspalomas 24h lead shows National Police in a graffiti hallway rather than a clear shopping-centre interior, so no media entry is listed.
 sources:
   - title: 'Cita Shopping Centre: Four arrested for selling drugs in Playa del Inglés'
     url: https://maspalomas24h.uk/Article/11392/Shopping-center-in-Playa-del-Ingl%C3%A9s%3A-Four-arrested-for-drug-dealing

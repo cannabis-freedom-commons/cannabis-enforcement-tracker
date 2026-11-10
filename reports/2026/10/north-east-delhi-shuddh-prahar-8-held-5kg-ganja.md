@@ -50,7 +50,6 @@ open_questions:
   - The operation ran 20 to 29 October 2026; 29 October is used as the incident date while 31 October is the publication date.
   - Figures show only the cannabis-specific 8 arrests and 5.098 kg of ganja; the 569 total and other recoveries are wider-drive context kept out of cannabis figures.
   - The reports give no names, seizure locations, charges or court outcome for the eight NDPS detainees.
-  - 'No usable event photo was found: the Dinamani page marks its image as an illustration and the second source uses an AI-generated representational image, so no media entry is included.'
   - 'Left out, as its quotation was not found in Dinamani: Delhi Police arrested eight people under the Narcotic Drugs and Psychotropic Substances Act during a 10-day festive-season crackdown in North East Delhi.'
   - 'Left out, as its quotation was not found in Dinamani: Alongside the ganja, police reported recovering 161 remote radio units valued at around Rs 4 crore, 828.1 kilograms of firecrackers and 221.5 kilograms of adulterated ghee.'
 ---

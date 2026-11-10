@@ -40,7 +40,6 @@ sources:
 open_questions:
   - The article gives no separate date for the examination before the investigating judge and release; 3 November 2026 is its publication date and is used as the incident date.
   - The seized 160 euros are reported as cash found on the man, not as an official drug valuation, so no fine or value figure is recorded.
-  - The Rodiaki lead image is dated 2025 and the other page images have empty captions or alt text, so no photo could be verified as showing this event and no media entry is added.
   - No court outcome beyond the restrictive conditions was reported.
   - 'Left out, as its quotation was not found in Top FM 102.4: During the street check, officers found 9.9 grams of unprocessed cannabis on him along with 160 euros in cash.'
   - 'Left out, as its quotation was not found in Top FM 102.4: A later search of his home by narcotics officers found another 6.6 grams of cannabis and two precision electronic scales.'

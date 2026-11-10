@@ -93,7 +93,6 @@ open_questions:
   - No source identifies who built the secret cabin or who was to buy the cannabis in Shahjahanpur.
   - The page picture is captioned as the Ciaz with the hidden cabin but gives no credit and is not shown to be an agency handout, so it is linked rather than treated as a cover.
   - The article gives no separate incident date; 4 November 2026 is used because it describes the arrest as happening on Wednesday night at about 8:45 and was published on 5 November 2026.
-  - The page carries one image labelled only news-img with no caption confirming it shows this seizure, so no media entry is listed.
   - The article does not state where the consignment came from or where it was to be sold, unlike other reports on the same seizure that name Sambalpur and Shahjahanpur.
 ---
 

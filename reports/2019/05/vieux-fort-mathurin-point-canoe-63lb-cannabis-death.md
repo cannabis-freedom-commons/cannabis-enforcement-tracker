@@ -70,7 +70,6 @@ open_questions:
   - No court outcome beyond the charge and grant of bail was reported.
   - The accounts do not say when the charge and bail hearing took place relative to the 24 May interception.
   - No later update on formal identification of the body was found.
-  - The submitted page's photo caption says the picture shows the cannabis recovered; the image itself could not be inspected.
 ---
 
 On the evening of Friday 24 May 2019, during a routine patrol, the police marine

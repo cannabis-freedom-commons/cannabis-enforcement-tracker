@@ -61,7 +61,6 @@ open_questions:
   - >-
     Channels Television's report repeats NDLEA's account rather than providing an independent source for the
     operation.
-  - The submitted page spells the camp location Ilushi while the existing report uses Illushi.
   - >-
     The 4,115.53 kg figure is the agency's estimated yield of the destroyed plantation, not a weighed seizure,
     and is not recorded in figures.
@@ -70,24 +69,8 @@ open_questions:
     day was published.
   - Whether the lead photo on the source page shows this raid is not established.
   - >-
-    The page's two images appear with the cocaine-case text and carry no caption establishing that they show
-    the Eko Camp cannabis operation, so no media entry was added.
-  - >-
-    The submitted page is a multi-event roundup headlined on the Abuja cocaine arrests; this decision covers
-    only its Edo Eko Camp cannabis component.
-  - >-
     The page header claims 2,496.5 kg of cannabis in four states while the text details cannabis operations in
     Lagos, Oyo, Edo, Ondo, Sokoto and Tashan Banke, so no combined total is used.
-  - >-
-    The page's single NDLEA image carries no caption or credit establishing that it shows the Eko Camp
-    operation, so no media entry is added.
-  - The submitted page is a multi-event roundup; this update uses only its Edo Eko Camp cannabis component.
-  - >-
-    The submitted amp page carries four images with empty captions and no credits, so none can be verified to
-    show the Eko Camp operation and no media entry is included.
-  - >-
-    The submitted amp URL is a variant of the two Nation articles already cited in the existing report dated 1
-    November 2026 and 2 November 2026; all report the same Edo raid with matching figures.
 sources:
   - title: 2 Europe-bound 'businessmen' excrete 200 wraps of cocaine at Abuja airport
     url: https://www.ndlea.gov.ng/blog/2-europe-bound-businessmen-excrete-200-wraps-of-cocaine-at-abuja-airport

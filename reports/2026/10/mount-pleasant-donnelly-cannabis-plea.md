@@ -53,7 +53,6 @@ open_questions:
   - The article does not give the weights of the methamphetamine, MDMA or ketamine seized.
   - The article names three trafficking counts among the five charges but does not list the other two.
   - The Bendigo Advertiser version is a syndicated copy of the same Courier article, so the account rests on one report.
-  - The only photograph on the article is a file picture of the Ballarat Law Courts, not the raid, so no media is listed.
 ---
 
 Jason Donnelly, 33, pleaded guilty to five charges in Ballarat Magistrates'

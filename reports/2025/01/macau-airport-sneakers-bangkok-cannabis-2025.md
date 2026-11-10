@@ -93,7 +93,6 @@ open_questions:
   - The street value of MOP803,000 is the police estimate, and the Chinese-language reports round it to "more than MOP800,000".
   - Police said the suspect is a Macau resident aged 49 but did not reveal his nationality; he is identified only by the surname Pinho.
   - No court outcome was reported; he was transferred to the Public Prosecutions Office for investigation.
-  - The submitted page's photos of two men in a room and the "Tite" and "keep" images are page furniture or other stories, so only the evidence-display and escort photos are listed.
   - 'Left out, as its quotation was not found in 正報 (Cheng Pou): He was transferred to the Public Prosecutions Office on charges of drug trafficking, drug use and improper possession of utensils or equipment.'
   - Left out agency types, as its quotation was not found in 正報 (Cheng Pou).
   - Left out case stage, as its quotation was not found in 正報 (Cheng Pou).

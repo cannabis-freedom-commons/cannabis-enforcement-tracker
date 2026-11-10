@@ -62,7 +62,6 @@ open_questions:
   - The sources do not say whether Houma's Community Patrol Volunteers spotted the woman or the vehicle, only that their work with police led to the arrest.
   - No plea, bail decision, trial date or sentence was reported, and the woman was not named.
   - The sources say the 31 seeds were seized, not destroyed; they are counted under the tracker's plants and seeds fields, and no opened source says what happened to them afterwards.
-  - No photograph of this seizure or arrest was published on the opened page; the page's social-media image is a 2017 generic cannabis-leaf picture, so no media entry is added.
 ---
 
 Police in Tonga arrested a 32-year-old woman from the Liahona area on 10 April

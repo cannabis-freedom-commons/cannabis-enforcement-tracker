@@ -55,7 +55,6 @@ open_questions:
   - The accounts give 4 to 5 August as the operation dates, but the plantation may have been found on Friday, 5 August alone; no time of discovery is given.
   - No figure for the number of cultivators involved or any follow-up investigation was published.
   - Only one accessible source was opened; a Manila Bulletin article on the same operation was behind a paywall and could not be read.
-  - The Inquirer page carries only a generic file image of marijuana, not a photo of this operation, so no media entry is given.
 ---
 
 Police and anti-drug agents uprooted and burned about 12,000 fully grown

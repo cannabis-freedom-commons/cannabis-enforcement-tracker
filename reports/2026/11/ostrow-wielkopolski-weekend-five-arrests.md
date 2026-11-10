@@ -44,7 +44,6 @@ open_questions:
   - No charges, custody decisions or court outcomes were reported; the article says the cases will be subject to further proceedings.
   - The article gives no separate cannabis amount for the 30 October residence seizure, only naming amphetamine, marijuana and methamphetamine.
   - Only one accessible source for this event was found after searching; no police statement could be opened to confirm details.
-  - The page image was uploaded in March 2026 and captioned only with the headline, so it is not established to show this seizure and no media entry is listed.
 ---
 
 Ostrów Wielkopolski police made several detentions over three days, holding men

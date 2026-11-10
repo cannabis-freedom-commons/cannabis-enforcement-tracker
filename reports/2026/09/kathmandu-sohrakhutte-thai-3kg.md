@@ -57,12 +57,9 @@ open_questions:
   - Both accounts are the English and Nepali editions of the same outlet, not two independent outlets.
   - 13 September is the Gregorian equivalent of Bhadra 28, the arrest date given in the Nepali calendar.
   - The source says the marijuana would be worth 12 million rupees if it reached India but does not specify the currency, so no structured value is recorded.
-  - The photo on the source pages could no longer be retrieved from the publisher's image server, so no media entry was added.
   - No court outcome for the three accused was reported.
-  - The new account says Phyo landed on 14 September, while the existing report dates the arrest to Bhadra 28 (13 September); the one-day difference is unresolved.
   - The same article also describes other seizures — 8 kg on 22 August, a 3 kg 200 gram DHL parcel on 10 August, a 910 gram postal parcel on 25 September, and totals of eight Myanmar carriers since August 2026 and more than 483 kg since August 2024 — which are separate events left out of this report.
   - Both the existing English and Nepali sources and this new English account come from Ratopati, so they are not independent outlets.
-  - The page's featured image is captioned only with the article title and carries no credit or description establishing that it shows the Sohrakhutte seizure, so no media entry is added.
 ---
 
 The Narcotics Control Bureau arrested three people at Sohrakhutte in

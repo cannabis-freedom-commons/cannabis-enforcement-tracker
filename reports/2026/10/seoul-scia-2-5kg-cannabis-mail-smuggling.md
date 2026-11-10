@@ -54,11 +54,8 @@ open_questions:
   - The exact place and date of the emergency arrest were not disclosed beyond the Seoul office investigation and the 17-18 October warrant sequence; 23 October is the transfer date used as the incident date.
   - No street value, plant count, or court outcome beyond the custody transfer was reported.
   - The submitted overview also notes two additional smuggling detentions on 30 October involving cannabis and methamphetamine, a separate mixed event left out here.
-  - The Suwon home-grow detention of two people mentioned in the same overview matches existing report seoul-suwon-scia-home-grow-arrest but adds no new detail here.
-  - No event photo was available; the submitted and corroborating pages show only agency buildings and an unrelated thumbnail, so no media entry is listed.
   - 'Left out, as its quotation was not found in 연합뉴스: A was accused of hiding 2.5 kg of cannabis in international mail to bring it into South Korea.'
   - The submitted article focuses on the E-drug system transfer and gives no further detail on this cannabis transfer beyond the amount, method, nationality and dates already recorded.
-  - The only topical image on the submitted page shows the agency building in Jung-gu, Seoul, not the seizure or transfer, so no media entry is listed.
 ---
 
 The Seoul Serious Crime Investigation Agency's narcotics bureau transferred a

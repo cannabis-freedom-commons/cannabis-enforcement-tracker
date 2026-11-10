@@ -54,7 +54,6 @@ open_questions:
   - No independent weighing of the 72 grams of hashish is reported.
   - The allegation of selling drugs to young people and prior police stops is attributed only to information received by the newsroom, with no named source.
   - The second opened page is a reprint of the same Waterkant account, so it does not provide independent confirmation.
-  - The lead image on the source pages shows generic cell bars from a 2024 file photo and does not depict this arrest, so no media entry is added.
   - No charge beyond suspicion under the Narcotics Act and no court outcome are reported yet.
   - The Drimble page shows only a truncated teaser ending with outstanding text about the Zuster Jensenweg stop and refers readers to the original source for the rest.
 ---

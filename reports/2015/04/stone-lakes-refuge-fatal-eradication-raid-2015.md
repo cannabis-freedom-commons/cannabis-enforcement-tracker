@@ -50,7 +50,6 @@ open_questions:
   - Only a vague figure of hundreds of plants was published, so no plant count is recorded.
   - No arrests beyond the man killed were reported.
   - The exact locations of the West Grow and East Grow sites in and near the refuge were not published.
-  - No photo of the operation with a recoverable address was found, so no media entry was added.
 ---
 
 On 13 April 2015, United States Bureau of Land Management agents flying over Sacramento County spotted two large illegal marijuana grow sites in and near the Stone Lakes National Wildlife Refuge, and a multi-agency Marijuana Enforcement Team planned a raid for 29 April to arrest any suspects and eradicate the crop. [@1] At the briefing, officers were told such sites were typically run for trafficking organisations in Mexico, that handguns, rifles, booby traps and toxic chemicals were often present, and that this site had twice before been guarded by armed men. [@1]

@@ -43,7 +43,6 @@ sources:
     language: fr
 open_questions:
   - Only one source for this event could be found, and no second account confirming it was located.
-  - The submitted page carries an image captioned cannabis 2112026, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
   - The source states the Rs 375,000 value without naming who made the estimate, so the report attributes it to the police account.
   - The duration of the police surveillance before the plants were uprooted was not stated.
   - No grower was identified and no court outcome was reported, with the inquiry continuing.

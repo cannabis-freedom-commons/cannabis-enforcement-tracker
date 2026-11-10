@@ -69,7 +69,6 @@ open_questions:
   - The estimated value of Rs 20,640,000 is an official valuation and its basis is not stated.
   - The origin, destination and route come from ION News's own sources, not from a customs statement; l'express describes the parcel only as in transit through Madagascar.
   - The report does not know whether the investigation led to any arrest or court proceedings.
-  - News Moris states that its account is based on l'express's report; one photo from the submitted page is listed.
 ---
 
 Customs officers of the Mauritius Revenue Authority's Anti-Narcotics Section

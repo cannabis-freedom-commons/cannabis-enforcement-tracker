@@ -47,7 +47,6 @@ open_questions:
   - The suspect was not named, only described as a 26-year-old unemployed local resident.
   - No later custody ruling, charge or court outcome was reported.
   - The Interior Ministry dates the incident to 4 December 2017, while the outlet published it on 6 December 2017; 4 December is used as the incident date.
-  - The source page image has no caption or credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 In Dnestrovsk, officers of the city internal-affairs department and the

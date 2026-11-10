@@ -64,11 +64,6 @@ sources:
 open_questions:
   - Only one source for this event could be opened; no agency statement or second outlet report was found.
   - The article does not say whether a case was registered or under which law, and no court outcome is reported.
-  - The page's only image carries a 2021 file path and cannot be confirmed to show this seizure, so no media entry is included.
-  - The new source spells the road as चरथावल-न्याजूपुरा while the existing report uses Charthawal–Niajupura; the match is treated as the same place despite transliteration variation.
-  - The JBT page carries a lead photo captioned with this event whose pictured content could not be verified from the caption and article text, so no media entry is included.
-  - The Bhaskar page carries two photos without descriptive captions or credits confirming they show this seizure, so no media entry is included.
-  - The page carries a lead photo captioned with this seizure, but its pictured content could not be verified from the caption and article text, so no media entry is included.
 ---
 
 City Kotwali police in Muzaffarnagar arrested two alleged ganja smugglers. [@1,2,3,4]

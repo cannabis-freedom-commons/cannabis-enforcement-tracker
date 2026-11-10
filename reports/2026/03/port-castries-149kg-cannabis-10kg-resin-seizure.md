@@ -63,7 +63,6 @@ open_questions:
   - The detained individual was not named, and no charge or court outcome was reported.
   - No separate laboratory confirmation of the suspected cannabis and resin was reported.
   - The shipment's origin, intended destination and consignee were not disclosed.
-  - The submitted page image and one corroborating page image were not confirmed to show this seizure, so no media entry is included.
 ---
 
 On 26 March 2026, officers from the Customs and Excise Department and the Gangs,

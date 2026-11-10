@@ -52,7 +52,6 @@ open_questions:
   - The reported 523-gram weight expressly includes wrapping material, so the net drug weight is unknown.
   - No sender, recipient, arrest, charge or court outcome was reported.
   - Only one accessible source for this event was found after searching in Thai and English.
-  - A second page image captioned only S 3907658 was not established to show this seizure, so no media entry is included for it.
 ---
 
 Thailand's Customs Department, acting through its Investigation and Suppression

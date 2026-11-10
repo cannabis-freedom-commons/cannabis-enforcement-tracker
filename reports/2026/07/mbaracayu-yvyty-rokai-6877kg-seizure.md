@@ -49,7 +49,6 @@ open_questions:
   - No suspects were named, detained or charged; the reports say the investigation continues to identify those responsible.
   - No value, plantation count or laboratory figure was published beyond the statement that no labs or plantations were found.
   - The precise plot within the Yvyty Rokai protection fringe is described both as Colonia Yvytu Rokái and the Colonia Guaraní perimeter, so only district-level coordinates are given.
-  - The Hoy page displays a Navy photo of the packages, but no recoverable direct image address was available, so no media entry is included.
   - The text gives an area ("4,800 hectares") but the figures have no hectares; check whether it belongs there.
 ---
 

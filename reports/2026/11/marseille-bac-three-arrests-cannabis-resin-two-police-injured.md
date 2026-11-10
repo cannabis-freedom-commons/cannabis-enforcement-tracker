@@ -47,7 +47,6 @@ open_questions:
   - 'No cannabis weight is given: the article counts 5 cannabis resin sachets, while the only measured seizure is 110 grams of cocaine.'
   - No charges, court dates or investigation outcome are reported; the three were in police custody when the article was published.
   - The article says the cocaine and resin were for sale but names no prosecutor or offence classification.
-  - The article's photo is a La Provence archive illustration of central Marseille streets, not a picture of this operation, so no media entry is added.
 ---
 
 Anti-crime squad officers arrested two men selling drugs in the Escourtines

@@ -52,7 +52,6 @@ open_questions:
   - No separate weight was published for the cannabis, which was reported only together with cocaine, so no kilograms can be recorded.
   - The seized cash of 136,806 Cape Verdean escudos, 50 dollars and 110 euros is not a drug valuation and is not recorded as a value figure.
   - No names, charges or court outcome were reported; the detainees were still awaiting a first interrogation and coercive measures.
-  - The RTP page image is a default placeholder, not an event photo, so no media entry is included.
 ---
 
 Cabo Verde's Judicial Police announced the in-flagrante detention of five people

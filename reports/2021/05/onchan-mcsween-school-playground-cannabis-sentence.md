@@ -63,7 +63,6 @@ open_questions:
   - 'Sources differ slightly on the cash found: the BBC reports about £300 on McSween when he was arrested, while Manx Radio and 3FM report £390, the figure also tied to the proceeds-of-crime seizure application.'
   - No cannabis weight was published, so no kilograms are recorded, and the cash is not a cannabis quantity.
   - The eight-month term was imposed alongside an order for £635 of unpaid fines; the accounts do not say how much of the term related to the cannabis charge.
-  - The only BBC picture is a captioned image of Onchan School, not the arrest, the bag or the courtroom, so no media entry is included.
 ---
 
 Daniel McSween, 18, of Whitebridge Road in Onchan, had fled and thrown the bag

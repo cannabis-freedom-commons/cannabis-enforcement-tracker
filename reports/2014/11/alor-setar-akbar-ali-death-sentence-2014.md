@@ -46,7 +46,6 @@ sources:
     date: 2014-12-02
 open_questions:
   - No appeal or execution outcome was reported in the opened sources.
-  - The Star's photograph of Akbar Ali being escorted from the court has no recoverable direct image address, so no media entry was added.
 ---
 
 The High Court in Alor Setar sentenced 37-year-old building supervisor Akbar Ali Abdul Rahman to death on 27 November 2014 for trafficking 9,401.8 grams of cannabis. [@1,2] Judicial Commissioner Datuk Mohd Zaki Abdul Wahab found him guilty of committing the offence on 12 October 2013 at about 9 p.m. in front of the Tok Arau Complex in Arau, Perlis. [@1] Akbar Ali, who is from Penang, remained calm as the sentence was passed. [@1]

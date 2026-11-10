@@ -87,9 +87,7 @@ open_questions:
   - 1Almere gives the count as about 1,000 plants; this report uses the 1,000 stated by Omroep Flevoland and Almere DEZE WEEK.
   - No arrests, suspects or charges were reported; the police investigation was still at its start.
   - The reports say the plants will be destroyed; they do not say that this has been done.
-  - The submitted page shows an uncaptioned image that is not established to depict this nursery, so no media entry is taken from it.
   - The HV-Almere page does not say what its three uncaptioned gallery images show, so they are listed as photos published with the report without an identified subject or credit.
-  - HV-Almere reports the find as about 1,000 plants (ongeveer duizend), while the existing report records 1,000.
 ---
 
 Police found a cannabis nursery in a business unit on the Bakkenzuigerstraat on

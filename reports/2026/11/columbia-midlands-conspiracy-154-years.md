@@ -62,11 +62,9 @@ open_questions:
   - The sources give no street value for the marijuana and do not say whether it was sold separately from the other drugs.
   - The 154-year total is an approximate sum of individual federal terms, not a single court-imposed aggregate sentence, so no prison figure is recorded.
   - WIS spells the second defendant William Jarvis while WACH spells him William Javis Jr., and WIS says Billy Joe Davis while WACH says Billy Davis; the report uses both spellings without choosing between them.
-  - The headline image is a generic Unsplash stock photograph and is not a picture of this event, so no media entry is included.
   - This source spells the second defendant William Larry Javis, Jr., supporting WACH's spelling against WIS's William Jarvis.
   - This source lists Billy Joe Davis of Gaston among the 12 sentenced defendants and does not mention Christopher George, but does not by itself resolve the open question about George in the WIS image caption.
   - This source attributes more than 60 kilograms of methamphetamine to the conspiracy, supporting WACH's kilograms figure against WIS's grams figure; no methamphetamine figure is added here.
-  - The page's only listed image is a site graphic with no caption, not a photograph of this event, so no media entry is included.
 ---
 
 Twelve people involved in a Midlands drug-trafficking conspiracy were sentenced

@@ -43,7 +43,6 @@ open_questions:
   - No number of apprehended network members was published, so no arrest figure can be recorded.
   - The articles give only that the operation took place that weekend; 21 September 2020 is the publication date and is used as the incident date.
   - Both accounts attribute the details to Equinoxe radio and Lieutenant Jean Bello, so no fully independent second account was found.
-  - The Actu Cameroun page image is a generic cannabis illustration not established to show this seizure, so no media entry is included.
 ---
 
 National gendarmes seized an important quantity of cannabis on the

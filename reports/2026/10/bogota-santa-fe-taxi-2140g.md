@@ -67,9 +67,7 @@ open_questions:
   - The woman's statement that her parents were held over homicide and theft investigations was not confirmed in the reports.
   - 'Left out, as its quotation was not found in Portal Bogotá: Bogotá police arrested a 20-year-old man and an 18-year-old woman on suspicion of trafficking, manufacturing or carrying drugs.'
   - Pulzo’s article text calls the vehicle a car and does not name Santa Fe; the image alt text says the couple was stopped in Santa Fe with marijuana hidden in a taxi boot.
-  - Pulzo states the pair were suspected of trafficking, manufacturing or carrying drugs, a line the existing report already found missing from the Portal Bogotá page. Pulzo says the piece was curated with artificial intelligence.
   - The Pulzo photo is credited to Policía de Bogotá and was not added again, because the report already links a police image of the arrest.
-  - The Diario del Sur cover image is captioned only as cover art and cannot be confirmed to show this seizure, so no media entry was added.
 ---
 
 The arrest took place in Santa Fe, one of Bogotá's administrative localities.

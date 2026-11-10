@@ -59,7 +59,6 @@ open_questions:
   - The arrest is dated only to Sunday morning with publication on 26 April 2026, so 26 April 2026 is used as the incident date.
   - No court outcome was reported; the accused was handed to the Narcotics Control Bureau and questioning was continuing.
   - The second gang member who escaped was not identified and no further arrest was reported.
-  - The submitted page carries a generic ANI/border photograph filed under a 2025 image name with only an ANI credit, so it is not established to show this seizure and no media entry is included.
   - The Deccan Herald page gives no more precise interception point than near the Indo-Nepal border in Maharajganj district and no weight to two decimals.
 ---
 

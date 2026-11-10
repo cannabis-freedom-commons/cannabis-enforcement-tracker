@@ -51,7 +51,6 @@ sources:
     publisher: Matangi Tonga
     date: 2006-03-15
 open_questions:
-  - The submitted page shows only its lead sentence behind a subscription notice; the remaining detail comes from Matangi Tonga's print view of the same article.
   - The 15 March 2006 hearing date is clear, but the source gives no separate date for Puloka's first appearance "last week", and the 4 February 2006 flight date is the police prosecutor's claim.
   - No Supreme Court outcome, sentence or plea change after the 24 April 2006 trial date was found.
   - No figure for the street value of the marijuana was given.

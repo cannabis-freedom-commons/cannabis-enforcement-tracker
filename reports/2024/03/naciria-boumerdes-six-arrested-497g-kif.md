@@ -46,7 +46,6 @@ open_questions:
   - No court outcome after that referral was reported.
   - The 124,000 dinars, seven phones and bladed weapons are described in the text; the cash is suspected proceeds and is not recorded as a drug value.
   - The Laghouat cocaine seizure and the October-November 2024 border seizures mentioned in the same overview are separate events left out of this report.
-  - The pages reuse a 2021 army-seizure image captioned only as a drug seizure by the Algerian army, not shown to depict the Naciria operation, so no media entry is included.
   - 'Left out, as its quotation was not found in Le Matin d’Algérie: The National Gendarmerie''s Naciria territorial brigade dismantled a six-person drug-trafficking gang in Naciria commune in Boumerdes wilaya.'
   - 'Left out, as its quotation was not found in Le Matin d’Algérie: Officers seized 497 grams of kif traité, the processed cannabis product recorded here as 0.497 kg.'
   - 'Left out, as its quotation was not found in Le Matin d’Algérie: The same search also took 124,000 Algerian dinars in suspected proceeds, seven mobile phones and bladed weapons.'

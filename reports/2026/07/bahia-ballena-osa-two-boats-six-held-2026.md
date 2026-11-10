@@ -42,7 +42,6 @@ open_questions:
   - The names, ages, nationalities and legal status of the three men detained aboard the second boat were not published.
   - No charges, custody decision or court outcome for any of the six detainees were reported.
   - Only one accessible account of this operation could be opened, so no second source confirms the second boat's mixed load.
-  - The page's two photographs show the cocaine boat and part of the seized drug load and do not separately identify a cannabis seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in Primicias: The first boat was a 38-foot nauta-type launch fitted with three 250-horsepower outboard motors whose crew tried to escape before the coast guard caught them.'
 ---
 

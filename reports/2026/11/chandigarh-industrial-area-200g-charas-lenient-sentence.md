@@ -59,7 +59,6 @@ open_questions:
   - The one-month period is time already spent in jail that was counted as the sentence, not a term announced in addition to it, so no separate prison term is recorded.
   - The article gives no NDPS Act section, police station or case number for the FIR.
   - Only one accessible source for this sentencing was found; no court statement or second outlet report on it could be opened.
-  - The page picture is captioned only as an illustrative photo of the Chandigarh special NDPS court decision and is not established to show this case, so no media entry is listed.
 ---
 
 A special NDPS court in Chandigarh gave a lenient sentence to a 34-year-old man

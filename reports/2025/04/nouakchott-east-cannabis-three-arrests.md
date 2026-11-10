@@ -42,7 +42,6 @@ open_questions:
   - The article is dated 24 April 2025 and says the operation happened on Wednesday, so 23 April 2025 is used as the incident date.
   - The names, ages, charges and later court outcomes for the three arrested people were not reported.
   - Only one accessible account of this event was found; the linked Taqadoumy original returned a 404 when reopened.
-  - The page carries a small seizure photo with no caption or credit and no recoverable absolute image address, so no media entry is included.
 ---
 
 Mauritania's National Gendarmerie rapid-intervention unit foiled an attempted

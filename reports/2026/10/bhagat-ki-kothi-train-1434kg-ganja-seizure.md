@@ -50,7 +50,6 @@ sources:
 open_questions:
   - No arrest or named suspect was reported; the bag was unclaimed and police were still trying to trace its owners.
   - The incident date 30 October 2026 comes from the Doordrishti News account of the night action; both sources were published on 2 November 2026.
-  - The Doordrishti News page carries a photo, but without a caption confirming it shows this seizure, so no media entry is listed.
 ---
 
 At Bhagat Ki Kothi station, the Railway Protection Force recovered 14.340 kg of

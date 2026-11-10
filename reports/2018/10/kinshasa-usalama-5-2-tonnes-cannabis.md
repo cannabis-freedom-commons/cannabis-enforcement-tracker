@@ -41,7 +41,6 @@ open_questions:
   - Only one opened account of the press conference was found; no separate police statement or second outlet report of the same result could be opened.
   - The article does not say whether the cannabis was dried plant material, resin or another product.
   - The same press conference reported an unrelated vehicle theft case and Sim Box equipment, which are left out of this report.
-  - No photograph of the seizure or the displayed cannabis was published; the page's only photo is a 2018 portrait of police spokesman Pierrot Mwana Mputu at a journalists' workshop, unrelated to this event, so no media entry is included.
 ---
 
 Congo's national police announced the seizure of more than 2 tonnes of cannabis

@@ -50,7 +50,6 @@ sources:
 open_questions:
   - The statement gives no separate date for the raid; 10 February 2020 is the date of the NDLEA statement announcing it.
   - The reports do not say whether Uche, the alleged owner named as at large, was later arrested.
-  - A photograph published with these reports is no longer served at its original address, so no media entry was added.
 ---
 The NDLEA's Borno State Command uncovered 10,522 kg of compressed cannabis, locally called "wee wee", concealed in a warehouse in Maiduguri, in what the agency described as the single largest seizure within Nigeria's North Eastern states. [@1,2] The warehouse at Ungwan Doki, Maigadari Ward, beside the Borno State Environmental Protection Agency office, held the drugs in 183 giant bags inside a compound of a three-bedroom house and a three-room boys' quarters. [@1,2]
 

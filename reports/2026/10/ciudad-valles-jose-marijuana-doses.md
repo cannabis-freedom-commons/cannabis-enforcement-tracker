@@ -58,9 +58,6 @@ open_questions:
   - The same bulletin also reports two people held on the Libramiento Poniente over about 60 litres of hydrocarbon, and three people held in the Benito Juárez neighbourhood of Matehuala over a crystal-like substance; those incidents are not this cannabis detention and are left out.
   - CV Noticias largely repeats the same wording and may come from the same state text; no separate official communiqué was opened, and that page gives no calendar date.
   - A photo on the Plano Informativo page is stored under a 28 September path and has no caption tying it to this detention, so it was not included.
-  - This account gives specific counts of around 30 bags of marijuana and 22 doses of crystal for the Ciudad Valles detention, while the existing report records only unspecified doses.
-  - This account was published on 31 October 2026, one day after the existing report's 30 October 2026 source publication date; no separate event date is given.
-  - This capture gives around 30 bags of marijuana and 22 doses of crystal for the Ciudad Valles detention, while the existing report text records only unspecified doses.
   - The page lists one photo with no caption tying it to this detention, so no event media is listed.
 ---
 

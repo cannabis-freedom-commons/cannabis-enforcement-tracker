@@ -53,10 +53,8 @@ open_questions:
   - No single prison term or fine is recorded in figures because Shimul and Mohidul Islam received different jail terms and different fines.
   - The yaba counts of 69 tablets in total, and 4 and 65 tablets individually, are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - Only one accessible source for this 4 November event was found after searching in Bengali and English.
-  - The page photograph carries only a generic correspondent credit and does not establish that it shows this seizure, so no media entry is listed.
   - Coordinates are for Narail town as the centre of Narail Sadar Upazila, not the exact rented house.
   - The separate 2 November Narail Sadar operation that also seized 20 grams of ganja involved different men and places and is treated as a different event left out here.
-  - The Somoyer Konthosor page image has no caption or credit tying it to this seizure, so no media entry is listed.
 ---
 
 Department of Narcotics Control officers detained three young men in Narail

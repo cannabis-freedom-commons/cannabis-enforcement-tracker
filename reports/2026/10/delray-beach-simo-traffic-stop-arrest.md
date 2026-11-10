@@ -45,7 +45,6 @@ open_questions:
   - Only one opened source could be found for this event; no agency statement or second outlet account was opened.
   - The 2.23 grams of marijuana and 0.72 grams of marijuana wax are affidavit field-test figures reported by BocaNewsNow.com; no independent weighing is reported.
   - No court date or outcome after booking and release on bond was reported; charges are allegations and the defendant is presumed innocent.
-  - The page's only image is a Palm Beach County Jail booking portrait of Simo, which does not show the stop, search or drugs, so no media entry is listed.
   - 'Left out, as its quotation was not found in BocaNewsNow.com: The charges cover fentanyl, MDMA, marijuana wax, marijuana under 20 grams, amphetamine without prescription and drug paraphernalia.'
 ---
 

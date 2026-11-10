@@ -38,11 +38,7 @@ open_questions:
   - The discovery is dated to Monday 9 June in press accounts while the UNODC statement is dated 12 June.
   - No arrests were reported in the opened sources.
   - No photograph of the seizure with a recoverable direct image address was found in the opened sources.
-  - The page displays 27 October 2009 but its URL contains 2008-06-11 and it says McKiernan spoke on a Wednesday, pointing to the June 2008 event kept in the existing report.
-  - The VOA account rounds the haul to almost 237 tons while the existing report uses the UNODC figure of 236.8 tons.
-  - The VOA account says counter-narcotics police set fire to the trenches, while the existing report cites another source saying NATO aircraft bombed the cache.
   - The same VOA page also reports a separate Interior Ministry account of more than 5,000 kilograms of opium seized in Helmand province, which is not part of this cannabis report.
-  - No photo of this seizure with a recoverable direct image address was found on the opened page, so no media entry is included.
 sources:
   - title: UN drugs chief praises world's largest cannabis bust in Afghanistan
     url: https://news.un.org/en/story/2008/06/262622

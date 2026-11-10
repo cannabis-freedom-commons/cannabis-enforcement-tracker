@@ -51,7 +51,6 @@ sources:
     date: 2021-12-17
     language: es
 open_questions:
-  - Only the headline, standfirst, date and photo credit of the submitted page could be quoted; the article body was not part of the captured text checked, so the exact weight, the court term and the charge wording are not stated here.
   - The article gives no separate date for the search or the conviction; 17 December 2021 is its publication date and is used as the incident date.
   - The weight is given only as more than 15 kilos, with no exact figure, and no value estimate was published.
   - No details of the conviction, such as the charge or sentence length, could be verified in the captured text.

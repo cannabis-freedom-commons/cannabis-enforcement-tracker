@@ -53,7 +53,6 @@ open_questions:
   - No prison terms were given for the 35 people jailed by mobile courts.
   - No arrested person was named and no charges or later court steps were reported for them.
   - Both reports appear to follow the same range-office briefing and largely repeat its wording, so they are not fully independent.
-  - The Rupali page labels its lead photograph 'collected' and the Purbokone page gives no credit for its lead image; neither is a verified picture of the operation, so no media are listed.
   - 'Left out, as its quotation was not found in Rupali Bangladesh: Officers seized 51 kg 640 g of ganja, along with 5,257 yaba (methamphetamine) tablets, 116 litres of cholai (country liquor), 70 bottles of foreign liquor and 109 tapentadol tablets.'
   - 'Left out, as its quotation was not found in Rupali Bangladesh: The operation covered 11 districts, among them Chattogram, Cumilla, Cox''s Bazar and the hill districts of Rangamati, Khagrachhari and Bandarban.'
 ---

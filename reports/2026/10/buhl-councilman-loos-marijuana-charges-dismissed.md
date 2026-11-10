@@ -29,7 +29,6 @@ open_questions:
   - The April 18 incident date comes from the dismissal article, and the arrest article describes it as early Saturday morning without naming the date.
   - The dismissal article does not state the terms of the plea agreement beyond the education course and community service, or whether the charges can be refiled.
   - No outcome for the arraignment of councilman Cortlin Runyan is reported; his arrest is a separate case.
-  - No media entry is added because the lead image is a booking portrait of Loos from the Twin Falls County Sheriff's Office.
 ---
 
 Buhl city councilman Ryan Loos, 49, is no longer facing drug-related charges

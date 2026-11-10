@@ -53,8 +53,6 @@ open_questions:
   - No cannabis quantity, value, or seizure figure was published for this case.
   - The report does not specify the other charges beyond murder or give details of the alleged extortion scheme.
   - Only one account of the sentencing was opened; no second report of the same event was found.
-  - 'The page''s images do not show this event: one shows an unrelated court case, one is a generic gavel, and one describes an unrelated FBI warrant operation, so no media entry is added.'
-  - The page's only listed image is a generic handcuffs stock photo, not this event, so no media entry is added.
 ---
 
 Three men convicted in the shooting death of a security guard at an unlicensed

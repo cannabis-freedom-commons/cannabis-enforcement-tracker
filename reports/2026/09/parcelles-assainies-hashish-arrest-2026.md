@@ -48,7 +48,6 @@ open_questions:
   - The article gives only 23 September without a year; 2026 is inferred from its 28 September 2026 publication date.
   - The seized 375,000 CFA francs and 50-euro note are described only as alleged proceeds, not as a police valuation of the drugs, so no value is recorded.
   - No independent second outlet was found; the second opened source is the publisher's own English version of the same report.
-  - The page image caption repeats the headline and does not establish that it shows this seizure, so no media entry is included.
   - No court outcome beyond custody was reported; the investigation was still continuing.
   - The suspect's full given name was not published beyond the initials A. U. JALO.
 ---

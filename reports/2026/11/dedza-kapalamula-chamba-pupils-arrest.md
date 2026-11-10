@@ -39,7 +39,6 @@ open_questions:
   - No quantity or weight of cannabis was published, so no kilograms can be recorded.
   - No court outcome was reported; the suspect was in custody and expected to appear in court soon.
   - Only one accessible source for this event was found after searching in English.
-  - The page carries a portrait captioned Mayamiko Empraim Jpg, which does not show a field, seizure, raid or court, so no media entry is included.
 ---
 
 Police in Dedza arrested a 46-year-old man on suspicion of supplying chamba to

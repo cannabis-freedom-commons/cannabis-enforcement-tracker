@@ -44,7 +44,6 @@ open_questions:
   - The post gives no separate date for the capture; 17 September 2026 is the publication date used as the incident date.
   - The place is named only as Comayagua, with no neighbourhood or address published.
   - Only the police Facebook post could be opened; no second outlet account was found.
-  - Both attached images carry no captions and the alt text does not confirm what they show, so no media entries are included.
 ---
 
 Officers captured a detainee identified only by the alias “Nike” in Comayagua,

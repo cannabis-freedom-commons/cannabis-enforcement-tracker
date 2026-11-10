@@ -43,7 +43,6 @@ sources:
 open_questions:
   - Only one accessible source for this event was found after searching in Bengali and English.
   - Coordinates are for Sylhet district centre, not the two separate raid sites in Golapganj and Beanibazar.
-  - The page image has no caption or alt text establishing that it shows this seizure, so no media entry is included.
   - No court outcome beyond filing of cases under the Narcotics Control Act was reported.
 ---
 

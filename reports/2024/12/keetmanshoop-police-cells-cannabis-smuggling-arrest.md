@@ -44,7 +44,6 @@ open_questions:
   - No weight was published for the ten bankies, so no cannabis quantity is recorded.
   - No charge or court outcome beyond continued custody and investigation was reported.
   - Only the opened Namibian account was used; no second outlet or police statement on this arrest was found.
-  - The page's lead image caption only repeats the headline and does not confirm what the photo shows, so no media entry is listed.
 ---
 
 A 25-year-old man was arrested for attempting to smuggle cannabis into the

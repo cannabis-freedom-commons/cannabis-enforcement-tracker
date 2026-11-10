@@ -42,7 +42,6 @@ open_questions:
   - The report gives only a vague market value of more than one lakh rupees, so no value is recorded in figures.
   - No court outcome beyond production before the Siliguri subdivisional court was reported.
   - Only one accessible source for this event was found after searching in English and Bengali.
-  - The page advertises an og:image of ganja but its caption and credit do not establish that it shows this seizure, so no media entry is included.
 ---
 
 Pradhannagar police recovered a large quantity of ganja from a four-wheeled

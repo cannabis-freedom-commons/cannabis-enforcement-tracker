@@ -91,7 +91,6 @@ open_questions:
   - Disha Daily gives no weight, value or area for the four plants and no charge section named against the farmer.
   - Disha Daily gives no day beyond Saturday; 7 November 2026 is its publication date and the preceding Saturday.
   - The picture on the Disha Daily page carries only the headline as its caption and no credit, so it cannot be confirmed to show the field or the plants; the report's existing media entries are unchanged.
-  - The Eenadu page gives no separate raid date; 8 November 2026 is its publication date, while the existing report dates the Saturday raid to 7 November 2026.
 ---
 
 Gattu police searched a field at the edge of Boyalagudem village in Jogulamba

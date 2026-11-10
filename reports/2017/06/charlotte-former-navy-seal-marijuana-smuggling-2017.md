@@ -41,7 +41,6 @@ open_questions:
   - The 700 kg figure is the amount the complaint says the men conspired to distribute, not a weight seized in this operation; only about 28 pounds was found in one storage unit, and that amount is left out of the figures because sources give it only for that unit.
   - Sources give differing ages (Carl Rye 40 in the CBS affidavit account and 41 in a search summary) and spell the brother's name both Bryon and Byron; the report follows CBS's spelling.
   - The WIS and Navy Times reports say the three were initially held without bond; custody later changed but no opened account describes that, so the report states only the June 2017 arraignment.
-  - No usable photo of the arrests, plane or seizure was tied to these pages, so no media is listed.
   - 'Left out, as its quotation was not found in Navy Times: Some of the marijuana was legally grown medical cannabis from California marked "unlawful to redistribute", Navy Times reported, citing The State.'
 ---
 

@@ -55,7 +55,6 @@ open_questions:
   - The about 350 grams of cocaine reported in the same seizure is excluded from kg_seized; no combined drug total is counted as cannabis.
   - No packaging-material quantity or value was published.
   - The sources do not explain the relationship between one brother remaining in prison and the new residence order.
-  - 'No event-specific photo could be listed: the submitted page''s usable image filename points to a different San Giorgio a Cremano case and its second image concerns Pompei schools, while the other pages use generic Guardia di Finanza images.'
 ---
 
 Avellino's investigating judge ordered three men under investigation for alleged

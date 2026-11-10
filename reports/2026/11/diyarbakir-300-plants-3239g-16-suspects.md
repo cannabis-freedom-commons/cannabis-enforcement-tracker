@@ -99,20 +99,15 @@ open_questions:
   - The reports do not say whether any of the 16 suspects was charged, remanded or released.
   - No figure for the number of operation sites or the area cleared was published, and no value estimate was given.
   - The 18 incidents are given as a count only; no location or substance breakdown is published.
-  - The lead image on the İlke page is captioned only with the headline and is not confirmed to show this seizure, so no media entry is added.
   - The Hürriyet and Habertürk texts are agency copies of the same statements, so they are not independent reporting.
   - The quantity is described as esrar, the Turkish word for cannabis, without saying whether it is resin or dried flower; it is recorded as hashish.
   - The Son Dakika text is attributed to the Anadolu Agency and reproduces the governor's office statement, so it is not independent reporting.
-  - The Son Dakika page shows one photo captioned only with the headline, with no caption confirming it depicts this seizure, so no media entry is added.
   - The Son Dakika report says legal action was taken against the 16 and does not say how many were detained, while İHA's headline says 16 were detained.
   - The Son TV page gives only the publication date of 9 November 2026 and no separate date for the operations themselves.
-  - The Son TV text says legal action was taken against 16 suspects without saying how many were detained, while the existing report records 16 arrested from other accounts.
   - The Son TV totals combine the narcotics sweep with a wanted-persons operation (105 arrested on warrants) and a smuggling operation (31 suspects and 17 incidents); those are about other crimes and are excluded from this report's cannabis figures.
-  - The page's lead image has no caption or credit identifying what it depicts, so no media entry is added.
   - Aksiyon gives no separate date for the operations; 9 November 2026 is its publication date and the day of the announcement.
   - Aksiyon and Amed TV reproduce the same gendarmerie announcement as the accounts already cited, so they are not independent reporting of the operations.
   - Aksiyon says procedures for the detained suspects continue and the evidence was prepared for referral to the judicial authorities, without saying whether any of the 16 was charged or remanded.
-  - Aksiyon's lead image is captioned only with the headline and is a 1200 px upload slugged with the story title, so it is not confirmed to show this seizure and no media entry is added.
 ---
 
 Diyarbakır gendarmerie teams ran operations against people accused of selling,

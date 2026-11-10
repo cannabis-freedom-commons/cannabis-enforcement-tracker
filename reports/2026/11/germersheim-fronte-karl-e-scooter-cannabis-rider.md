@@ -51,8 +51,6 @@ open_questions:
   - The police statement gives no time of day for the check, no age or name for the rider, and no indication of where he was riding to or from.
   - The result of the blood test, any driving ban or fine, and the outcome of the criminal case were not reported.
   - Only one account, the Landau police statement for its Germersheim inspectorate, was available; the news.de page reproduces it.
-  - The submitted page shows a stock illustration of drug impairment credited to an Adobe Stock photographer, not a photo of this stop, so no media entry is listed.
-  - The submitted page links a separate Bellheim drink- and drug-driving case from the previous day, which is a different event left out here.
   - 'Left out, as its quotation was not found in Presseportal / Polizeidirektion Landau: The account is the Germersheim police inspectorate''s statement, published under the Landau police headquarters at 10:40 on 9 November 2026.'
 ---
 

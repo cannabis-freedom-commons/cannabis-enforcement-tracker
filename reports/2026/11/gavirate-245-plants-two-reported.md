@@ -108,16 +108,8 @@ open_questions:
   - The Il Giorno cannabis image is labelled as an archive photo, so it is omitted as a stock illustration.
   - The article gives no separate raid date; 2 November 2026 is its publication date.
   - The page gives no separate date for the raid; 2 November 2026 is its publication date.
-  - The page's preview image is a 2025 file photo from an unrelated article and the embedded video is the general 2 November newscast, so neither is established to show this seizure and no media entry is added.
-  - The page gives no separate raid date beyond “in the past few hours”; 2 November 2026 is its publication date, matching the existing report’s incident date.
-  - SetteNews says “just under 250” plants while the existing report uses the precise 245-plant count from other outlets.
   - SetteNews attributes the 500,000-euro estimate to sources close to the discovery rather than to investigators.
-  - The page’s only event-related image is credited to Rex Medlen via Pixabay, so it is a stock illustration and no media entry is added.
-  - The submitted page gives no separate raid date; 2 November 2026 is its publication date, matching the existing report's incident date.
-  - The page's plantation photo is captioned as an archive photo, so it is not established to show this seizure and no media entry is added.
   - The QuiComo article gives only its publication date of 2 November 2026 and no separate date for the Guardia di Finanza control.
-  - Whether the lead image on the QuiComo page shows this seizure could not be established from its empty caption and credit, so no media entry is added.
-  - The page's only usable image is captioned Generico 26 Oct 2026, indicating a generic illustration rather than this seizure, so no media entry is added.
 ---
 
 Guardia di Finanza officers from the Varese group discovered a 245-plant

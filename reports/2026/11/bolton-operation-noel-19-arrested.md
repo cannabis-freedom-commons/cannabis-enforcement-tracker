@@ -80,10 +80,7 @@ open_questions:
   - The second source used a stock image and one Bolton News image appears to be a location graphic, so those images are not listed as event media.
   - The text gives a weight ("4.2kg") but the figures have no kg_seized; check whether it belongs there.
   - 'Left out, as its quotation was not found in Leigh Journal: Investigators believe at least 4.2kg of Class A drugs had been moved through the drug line.'
-  - The new account describes the non-Bolton warrants only as Wigan, Lancashire, Salford and Manchester, without the Chorley, Lower Darwen, Worsley and Leigh-borough breakdown in the existing report.
-  - The page photo is captioned only as Arrest without establishing it shows this specific raid, so no new media entry is added.
   - The new account lists 16 warrants in Bolton, two in Wigan, two in Lancashire, one in Salford and one in Manchester, which totals 22 rather than the stated 21 and differs from the existing breakdown naming Chorley, Lower Darwen, Worsley and Leigh borough.
-  - The page image is captioned only as IMG_8441 with no description linking it to the raids, so no media entry can be verified from this source.
 ---
 
 Nineteen people were arrested in raids targeting a suspected organised crime

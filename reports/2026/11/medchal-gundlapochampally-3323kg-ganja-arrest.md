@@ -89,19 +89,10 @@ open_questions:
   - No charges, custody status or court outcome beyond handover to Medchal Excise Station were reported; investigation was continuing.
   - No value estimate for the seized ganja was published.
   - Only one accessible source for this event was found after searching.
-  - The new account spells the second accused as Mohammed Ghousuddin while the existing report uses Mohammed Ghouseuddin, and shortens the third accused to Shubham rather than Buyya Shubham.
-  - The new account names the venue as Malibu – Cocktail Bar & Kitchen while the existing report names Malib Cockfire Pub at the same Gundlapochampally location.
-  - The new account spells the second accused as Mohammed Gausuddin and shortens the third accused to Shubham, while the existing report uses Mohammed Ghouseuddin and Buyya Shubham.
-  - The new account names the venue as Malibu - Cocktail Bar & Kitchen while the existing report names Malib Cockfire Pub at the same Gundlapochampally location.
   - The article gives no separate date for the Medchal raid; 4 November 2026 is its publication and update date.
   - The same article also describes the earlier Warangal EAGLE Force forfeiture, a separate event recorded in warangal-eagle-147kg-forfeiture.
   - No photo entry is included because the page image caption does not establish that it shows this seizure.
-  - The new account spells the second accused as Mohammed Ghousuddin and shortens the third accused to Shubham, while the existing report uses Mohammed Ghouseuddin and Buyya Shubham.
-  - This account spells the venue as Malibu - Cocktail Bar & Kitchen and the accused as Mohammed Ghousuddin and Shubham, variants of names already recorded in the existing report.
   - The GSTV account gives no separate date for the raid; 4 November 2026 is its publication date.
-  - The GSTV page shows only a generic video thumbnail captioned as source gstv, which does not establish that it shows this seizure, so no media entry is included.
-  - This account spells the venue as Malibu - Cocktail Bar & Kitchen and the accused as Mohammed Ghousuddin and Shubham, variants of the Malib Cockfire Pub and Mohammed Ghouseuddin and Buyya Shubham names already recorded in the existing report.
-  - This account names the venue as Malibu - Cocktail Bar & Kitchen while the existing report names Malib Cockfire Pub at the same Gundlapochampally location.
   - The News18 original page returned an access error, so the MSN syndication of the News18/ANI text is the opened account.
 ---
 

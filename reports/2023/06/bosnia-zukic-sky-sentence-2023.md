@@ -47,7 +47,6 @@ open_questions:
   - The article gives no separate sentencing date; 23 June 2023 is its publication date and the Friday of the court's statement, and is used as the incident date.
   - The conviction is worded as participation in a drug-trafficking enterprise, and the cannabis link rests on the reported allegation that Zukic's group smuggled marijuana, with no cannabis-specific charge detail published.
   - The reported more than 1,000 kilograms is a suspected smuggling total, not a seizure weight, so no kilograms are recorded.
-  - The page photo shows 303 kilogrammes of cannabis from the separate Transporter raid, not Zukic's case, so no media entry is included.
   - The reported 38 arrests over three years through Europol cooperation cover other organisations and periods and are left out as separate enforcement context.
   - The additional 2,000-euro deprivation of unlawfully acquired benefit is noted in the text, while figures record only the 4,000-mark fine.
   - Only one accessible account of this verdict was found after searching, with no second outlet or court statement opened.

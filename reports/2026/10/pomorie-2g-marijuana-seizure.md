@@ -60,9 +60,7 @@ open_questions:
   - Methamphetamine amounts of 8 grams, an unstated amount and 4 grams were reported in the same checks and are excluded from the cannabis figure; no combined drug total is attributed to cannabis.
   - The only page image is a map credited to BurgasMedia and OpenStreetMap contributors, so no event photo is listed as media.
   - Detentions over cash thefts from coffee machines in Kableshkovo and the Slaveykov district reported in the same article are separate events left out here.
-  - The submitted page gives no separate date for the Pomorie house searches, saying only that the accidents happened in recent days; the 30 October date relies on the existing report.
   - The page bundles drink-driving crashes, drug-driving detentions and other Pomorie methamphetamine finds that are separate events left out here.
-  - The page image caption is only © BurgasMedia.com and does not establish that it shows this seizure, so no media entry is listed.
 ---
 
 Police in Pomorie seized methamphetamine and marijuana from four men during

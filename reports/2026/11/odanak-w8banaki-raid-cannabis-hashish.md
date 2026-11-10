@@ -61,8 +61,6 @@ open_questions:
   - Left out released, as its quotation was not found in Le Nouvelliste.
   - Left out sites, as its quotation was not found in Mon Drummond.
   - Left out vehicles, as its quotation was not found in Mon Drummond.
-  - Vingt55 gives the cocaine as more than 50 grams and the methamphetamine as more than 65 tablets, while the existing report says nearly 50 grams; the report's own text was kept.
-  - Vingt55 states that both men were released and are to appear in court later; the existing report records no court date or charges, and Vingt55 gives no date either.
   - The Vingt55 illustration is an archive photo from August 2018 of Sûreté du Québec officers, not a picture of this operation.
 ---
 

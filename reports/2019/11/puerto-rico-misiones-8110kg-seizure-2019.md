@@ -48,7 +48,6 @@ open_questions:
   - Neither account identifies a suspect or reports an arrest.
   - The stated value is the Prefectura’s lower-bound commercial estimate, not a final accounting.
   - The agency separately reported a weekly total of 31,117,635 doses across two cargoes but did not clarify how that aggregate relates to this cache; it is excluded.
-  - The pages’ images lack captions or descriptive alt text confirming that they depict this seizure, so no media is linked.
   - El Litoral also describes separate seizures near Puerto Libertad and Gobernador Roca; those incidents are not included here.
 ---
 

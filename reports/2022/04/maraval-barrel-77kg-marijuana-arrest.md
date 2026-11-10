@@ -48,7 +48,6 @@ open_questions:
   - Only one source could be opened; reprints of the same TTPS release on other outlets could not be accessed, and social-media snippets are not evidence.
   - No charges, plea or court outcome were reported; the release says investigations are continuing.
   - The TT$103,950 figure is the police estimate of street value, not a confirmed sale price.
-  - The page carries one image with no caption or credit, so it could not be confirmed to show this seizure and no media entry is listed.
   - The same release also reports a separate Eastern Division vehicle seizure of over one kilogramme of marijuana and Southern Division firearms and robbery arrests; those are different events left out of this report.
 ---
 

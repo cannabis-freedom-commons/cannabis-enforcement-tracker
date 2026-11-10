@@ -48,7 +48,6 @@ sources:
 open_questions:
   - No second outlet account of the same case could be found and opened.
   - The article does not name the defendant or say whether his father was prosecuted.
-  - The lead illustration is an archive photograph, not of this seizure, so no media is listed.
   - The published piece cuts off before the full account of what the detainee told the court.
 ---
 

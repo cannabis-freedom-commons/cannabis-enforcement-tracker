@@ -73,7 +73,6 @@ open_questions:
   - That ganja traffickers from outside the state are involved is police suspicion, not an established fact.
   - The village Gagrimetla has no coordinates; the map point is Kalimela town, hence district precision.
   - The page image has no caption or credit and is not confirmed to show this seizure, so it is linked rather than treated as a cover.
-  - The submission's incident date of 7 November 2026 is taken from the existing report and the PrameyaNews7 publication date; neither opened article gives the raid's own date.
 ---
 
 Kalimela police seized 1,325 kg of illicit ganja worth an estimated 66.25 lakh

@@ -40,7 +40,6 @@ open_questions:
   - No weight, plant count, value or other seizure figure is published in the readable text.
   - The publication date is 28 April 2026 and the arrests are described only as Monday, so 27 April 2026 is used as the incident date.
   - No second report of this arrest could be found and opened.
-  - The page carries an image whose metadata names Nabeel Abdalhadi Matar, but no readable caption or credit confirms what it shows, so no media entry is added.
 ---
 
 Two men who allegedly were selling marijuana and THC vape products out of a

@@ -71,7 +71,6 @@ open_questions:
   - Dainik Bhaskar names the area as Phulparas sub-division while the earlier account names Laukahi company of the SSB's 18th Battalion; both lie in Madhubani district and appear to describe the same border sector, but the precise police jurisdiction receiving the case is not clear.
   - No source states whether any of the four who fled has been identified or arrested since.
   - The 42 lakh rupee value is an official estimate with no independent confirmation reported.
-  - The submitted page's readable text ends at a paywall prompt after its opening summary, so any further detail in the full article could not be checked.
 ---
 
 A joint party of the Sashastra Seema Bal, India's border-guard force, and Bihar

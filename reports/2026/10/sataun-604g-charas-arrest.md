@@ -68,10 +68,8 @@ open_questions:
   - No report says whether Singh was produced before a magistrate, when the case will be heard or what the court outcome was.
   - The two articles carry near-identical wording from what appears to be the same police release, so they are not independent confirmation.
   - The reports do not give the exact location of Sataun bus stand; the coordinates are for Sataun town.
-  - Newsghat's report carried an uncaptioned lead photograph that could not be confirmed to show this arrest, so no media entry was added for it.
   - Himachal Now News gives no separate date for the arrest; its report was published on 1 November 2026, while Dainik Janvarta dates the arrest to 30 October 2026.
   - The same police statement covered a separate 4.74 gram heroin seizure at Haripurdhar, a different event left out of this report.
-  - The submitted page's only photograph is captioned for the Haripurdhar heroin arrest, and Dainik Janvarta's lead photograph is published without a caption, so neither was added as media for this charas case.
 ---
 
 Officers from the Special Investigation Unit (SIU) in Nahan arrested Narayan

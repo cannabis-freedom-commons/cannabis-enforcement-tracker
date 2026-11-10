@@ -57,7 +57,6 @@ open_questions:
   - No report says whether the four were later placed under formal investigation or charged, or how the case ended.
   - The suspects are not named and their nationalities are not reported; Actu17 mentions the alleged organiser's Algerian origin, which is omitted here as an identifier.
   - The one million euro resale value is Actu17's figure for the dealers' resale value and is not recorded as a structured figure.
-  - The only picture on the submitted page is a stock illustration of cannabis herb, not a photo of this interception, so it is not entered as media.
 ---
 
 Four men were arrested on the evening of Friday 5 April 2024 in Deuil-la-Barre,

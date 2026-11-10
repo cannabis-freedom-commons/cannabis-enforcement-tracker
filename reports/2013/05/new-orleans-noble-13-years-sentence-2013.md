@@ -59,7 +59,6 @@ open_questions:
   - The district attorney's account that Noble turned down a five-year plea deal comes via the Marshall Project; Noble's version is not in the opened sources.
   - The sentencing-disparity statistics are advocacy reporting on Louisiana penalties, not court findings in this case.
   - The exact parole conditions of the 2018 release were not detailed in the opened sources.
-  - No open-licence or verifiable action photo was available, so no cover or media entry was added.
 ---
 
 Bernard Noble, a New Orleans family man and father of seven, was arrested in 2010 while riding a bicycle in the city during a family visit, with police finding about three grams of marijuana, roughly two joints, in his possession. [@2] Charged that November with fourth-offence possession, he was convicted by a jury in May 2011; earlier small-quantity cocaine and marijuana convictions made him eligible for Louisiana's habitual-offender law. [@1,2]

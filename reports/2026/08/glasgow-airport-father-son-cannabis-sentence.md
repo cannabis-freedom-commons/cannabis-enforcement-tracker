@@ -51,7 +51,6 @@ open_questions:
   - No weight for the cannabis was published, only the prosecutor's valuation of more than £903,000 with the headline rounded to £900,000, so no kilograms are recorded.
   - No separate sentencing date was published, so 21 August 2026, the article's publication date, is used as the incident date.
   - Only one source for this event could be opened after searching for a second report of the same case.
-  - The only page image is a generic Getty Images view of Glasgow airport that does not show the seizure itself, so no media entry is included.
   - The article gives no exact package count beyond dozens and no flight route beyond travel from Thailand.
 ---
 

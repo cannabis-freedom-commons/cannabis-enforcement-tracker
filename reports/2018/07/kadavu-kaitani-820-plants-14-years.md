@@ -59,11 +59,9 @@ sources:
 open_questions:
   - The Fiji Times gives 820 plants uprooted in the 15 September 2016 raid; fijivillage gives 824. The report uses the Fiji Times figure and notes the difference.
   - The Fiji Times does not name Kaitani's village in Kadavu, so no more precise raid location is recorded.
-  - The submitted page does not state the sentencing date; 16 July 2018 is the publication date of both accounts and is used for the incident date.
   - The Fiji Times describes Kaitani as found "with another" person uprooting plants but names no second suspect and reports no charge against anyone else.
   - No weight of the plants, street value, appeal or forfeiture was reported.
   - Both accounts are short court reports; the full judgment was not opened.
-  - The only image on the submitted page is a generic gavel illustration, so no photograph of this event is listed.
 ---
 
 Arisi Kaitani, a 27-year-old farmer from Kadavu, was sentenced to 14 years and

@@ -39,7 +39,6 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [trafficking, concealment, export]
 open_questions:
   - Only the Gleaner report could be reopened for this seizure.
-  - The Gleaner staff photograph of officers opening the Jacuzzis could not be recovered with a verifiable direct image address, so no media entry is listed.
   - The J$51 million value is the newspaper's calculation from the Eastern Caribbean price, not a police estimate.
   - No one had been arrested at the time of reporting, though the police said arrests were expected.
   - The August Kingston and October Montego Bay Jacuzzi finds described in the article are separate events left out here.

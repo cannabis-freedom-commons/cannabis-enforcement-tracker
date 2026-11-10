@@ -46,7 +46,6 @@ open_questions:
   - The article gives no separate date for either operation; 8 November 2026 is its publication date and stands in for the incident date.
   - No charge sheet, court appearance or outcome is reported for the excise case.
   - Two men held in the separate Aluva case with 185 grams of MDMA are not counted as cannabis arrests because no cannabis was reported with them.
-  - The only photograph on the submitted page is an excise image from an upload folder dated August 2026, months before the event and with no caption tying it to this seizure, so no media entry is added.
   - 'Left out, as its quotation was not found in Asianet News: Investigators said he collected money from small-time drug sellers in Kochi, travelled to Bengaluru to buy the drugs and sold them in Kochi at three times the price he paid.'
   - 'Left out, as its quotation was not found in Asianet News: The 185 grams were valued at about Rs 7.5 lakh, and a further 7 grams were later found hidden in a birdcage at a house in Thoppumpady.'
   - Left out activity, as its quotation was not found in Asianet News.

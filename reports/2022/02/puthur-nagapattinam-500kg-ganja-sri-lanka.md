@@ -57,7 +57,6 @@ open_questions:
   - NDTV says police impounded three cars, while The New Indian Express says police seized two cars and the pickup truck; three seized vehicles are recorded and the vehicle mix follows the more detailed account.
   - The New Indian Express describes the Indian-market value only as lakhs and the Sri Lankan-market value as crores; the recorded Rs 1 crore value follows the NDTV account of SP Jawahar.
   - NDTV mentions a separate 170 kg seizure by the same team on 18 January; that is a different recorded event and is left out here.
-  - No direct image address for the Express photo of the seized ganja and vehicles could be recovered, and the NDTV page uses a generic stock image, so no media entry is listed.
 ---
 
 Nagapattinam police arrested six people near Puthur on 1 February 2022 and

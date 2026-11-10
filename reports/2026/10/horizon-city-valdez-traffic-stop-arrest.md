@@ -65,17 +65,8 @@ open_questions:
     Wednesday, Oct. 21 reference.
   - No court outcome beyond the reported possession charges was published.
   - >-
-    The KTSM page displays a booking-style photo of Valdez, but its caption does not establish that it shows
-    the stop or seizure, so no media entry is added.
-  - >-
     No weight was published for the suspected marijuana or the suspected crystal-like substance, so no
     cannabis quantity can be recorded.
-  - >-
-    The AOL page is a republication of the KTSM article already cited in the existing report, not an
-    independent second account.
-  - >-
-    The page portrait captioned Miguel Angel Valdez, 39 (Horizon City Police Department) does not show the
-    stop, search or seizure, so no media entry is added.
   - >-
     No weight was published for the suspected marijuana or the suspected crystal-like substance, so no
     cannabis quantity is recorded.
@@ -83,9 +74,6 @@ open_questions:
     The article gives Wednesday, Oct. 21 without a year; 21 October 2026 is used because it was the Wednesday
     before the 2 November 2026 publication.
   - Only one source for this event was found after searching for a second account.
-  - >-
-    The page image is a booking-style portrait and site graphic that does not show the stop, search or
-    seizure, so no media entry is added.
   - The methamphetamine component is part of the same event but is not counted as cannabis.
 ---
 

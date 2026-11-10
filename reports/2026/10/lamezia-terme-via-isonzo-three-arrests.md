@@ -60,10 +60,8 @@ open_questions:
   - The 1.3 kg total mixes hashish, cocaine and marijuana with no per-substance breakdown, so no cannabis weight is recorded and the combined total is not counted as cannabis.
   - The reports do not name the three arrested people or state their ages, charges or custody status.
   - No court outcome or next procedural step is reported.
-  - The submitted page carries an image whose caption is only a file name, so whether it shows this seizure could not be established and no media entry is added.
   - No separate police statement with an itemised seizure list was found among the opened sources.
   - The text gives a weight ("1.3 kg") but the figures have no kg_seized; check whether it belongs there.
-  - The page carries a lead image with empty alt text and no caption establishing that it shows this seizure, so no media entry is added.
 ---
 
 Officers of the Flying Squad of the Lamezia Terme police station arrested three

@@ -57,7 +57,6 @@ open_questions:
   - Amphetamine and methamphetamine found in the same case are not cannabis and are excluded from the cannabis figures.
   - The defendant is identified only as Ahmed.Kh, aged 26, with no fuller name published.
   - The second account repeats the same court-brief wording and adds no independent detail.
-  - The submitted page carries only an archive photo captioned as a hashish cigarette rather than this event, so no media entry is listed.
 ---
 
 The Cairo Criminal Court of Appeal upheld the first-instance verdict against a

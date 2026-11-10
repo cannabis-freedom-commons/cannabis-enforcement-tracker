@@ -84,7 +84,6 @@ open_questions:
   - The Macau Post Daily dates the arrest to Monday while the same article also says Tuesday and the agency dates it to 24 May 2022, which the report uses.
   - Several outlets say the suspect tested negative for drugs while he admitted using cannabis for a year and a half; the reports do not explain the discrepancy.
   - No court outcome beyond the transfer to the Public Prosecutions Office was reported.
-  - The submitted page's only article image is a generic 2020 cannabis stock file rather than a picture of this seizure, so no media is listed.
 ---
 
 Macau's Judiciary Police detained a 40-year-old local travel agent over a

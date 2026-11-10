@@ -65,7 +65,6 @@ open_questions:
   - Sources give the suspect's age and, in the Carabinieri statement, his Syrian origin, but no name, plea or court date.
   - Only 156 grams of hashish are counted as cannabis; the 13 grams of cocaine and the 1,200 euros come from the same seizure but are not cannabis.
   - The statement groups this case with a separate 22-gram hashish complaint in Fermignano on 4 November, which is not covered here.
-  - No photograph confirmed to show this seizure or the hiding places was published with the articles reviewed, so no media entry is included.
 ---
 
 Carabinieri from the Urbania station arrested a 50-year-old Syrian resident of

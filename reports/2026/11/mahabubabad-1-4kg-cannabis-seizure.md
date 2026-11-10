@@ -51,7 +51,6 @@ open_questions:
   - It is unclear whether the two women reported as caught with natusara are included in the three persons reported as arrested, so only the explicit arrested total of three is recorded.
   - Liquor, black jaggery and alum quantities are mentioned only to explain the mixed operation and are excluded from cannabis figures.
   - Only one accessible source for this 1.4 kg seizure was opened and no corroborating second report was found.
-  - The Disha page carries a photo whose caption only repeats the headline and does not establish what it depicts, so no media entry is included.
 ---
 
 District excise officials carried out special checks against cannabis transport

@@ -75,22 +75,12 @@ sources:
 open_questions:
   - The approximately 204 pounds of cocaine reported alongside the marijuana is excluded from the cannabis figures under the mixed-event substance scope.
   - The combined more-than-2,100-pound total includes cocaine and is not used as a cannabis figure; only the separately stated 1,959 pounds of marijuana is counted.
-  - The lead image on the submitted page is a generic Unsplash photo with an empty caption and does not show this seizure, so no media entry is added.
   - Authorities did not release details about the origin or intended destination of the drugs.
   - Full names, ages and Georgia cities for both men come only from the second account; no court outcome beyond detention and presumption of innocence was reported.
-  - The page caption reverses the second man's name order as Belayneh Befikadu while its text calls him Befikadu Belayneh, matching the existing report.
-  - The page's two MDPS portraits show the arrested men rather than the seizure itself, so no media entry is added.
-  - The Tippah News account lists three agencies in the joint operation and does not mention the Madison Police Department named in the existing report.
-  - The page carries three images credited to the Mississippi Department of Public Safety whose captions repeat the headline and do not establish what they depict, so no media entry is added.
   - Only the article lede could be opened; the remainder is behind a paywall, so no arrests, charges or vehicle details can be confirmed from this page.
-  - The accessible agency list ends at “Madison…” and does not spell out the full Madison agency, so the Madison Police Department detail rests on the existing report's sources.
-  - No image on the opened page could be verified as showing this seizure from the text, so no media entry is added.
-  - The CDLLife account spells the MSDPS commissioner's surname as Bo Lucky while the existing report uses Bo Luckey.
-  - The page's two images are captioned only MSDPS and do not establish what they depict, so no media entry is added.
   - The WJTV page was opened through its MSN republication and shows the story as 5 days old; it gives no separate time for the stop beyond the date 29 October 2026.
   - The article calls the second man Befikadu Belayneh, matching the report's body text, while other coverage gives his name in a different order.
   - 'Left out, as its quotation was not found in WJTV: The operation was conducted by the Mississippi Bureau of Narcotics, the Mississippi Department of Public Safety Interdiction Team, the Rankin County Sheriff''s Department and the Madison Police Department.'
-  - This account gives the marijuana as nearly 1,960 pounds, a rounding that differs slightly from the 1,959 pounds and about 888.6 kg used in the existing report.
   - The story appears on MSN with the WAPT Jackson byline and no visible publication date; the source date here comes from the page metadata and is treated as approximate.
 ---
 

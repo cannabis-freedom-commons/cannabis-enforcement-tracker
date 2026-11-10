@@ -65,7 +65,6 @@ open_questions:
   - Cocaine is the larger substance in the case; its quantities and the convoy routes through Antwerp, Rotterdam, Hamburg and Le Havre cover the entire traffic and are not attributed to cannabis.
   - Belgian outlets give the size of the file as 128 defendants, or 124 individuals and four companies; the report names both counts and uses neither as a cannabis figure.
   - At least one appeal was reported by September 2025, so the first-instance sentences may change.
-  - The Europe 1 lead image is credited to Kenzo Tribouillard of AFP without a caption tying it to this hearing, so no media entry is included.
   - 'Left out, as its quotation was not found in RTBF: The Brussels criminal court delivered the Encro verdict at the Justitia building, the former NATO site in Haren converted into a courthouse for trials needing reinforced security.'
   - 'Left out, as its quotation was not found in Courrier international (AFP): Abdelwahab Guerni, an Algerian prosecuted as a presumed leader, received the heaviest sentence of 17 years after the prosecutor sought 20.'
   - 'Left out, as its quotation was not found in L''Avenir (Belga): The prosecution asked for the immediate arrest of 58 convicted defendants, and 49 returned to a cell that evening.'

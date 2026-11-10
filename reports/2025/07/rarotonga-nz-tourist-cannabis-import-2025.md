@@ -45,7 +45,6 @@ open_questions:
   - The two bags of white powder were still subject to analysis; their contents are not stated and no quantity is attributed to cannabis.
   - The article says only that the flight from New Zealand arrived on Tuesday; 22 July 2025 is read from the publication date of 24 July.
   - Only one account of this event was found; no other outlet or police statement could be opened.
-  - The page's only image is captioned as a police file photo and is not confirmed to show this seizure, so no media entry is added.
 ---
 
 A 50-year-old New Zealand tourist was detained at Rarotonga Airport for

@@ -57,7 +57,6 @@ open_questions:
   - The article gives no street value for the 2,310 grams of cannabis and does not say whether the single grown plant was seized or destroyed.
   - No outcome of the trial listed for 15 October 2012 was reported in the sources found.
   - The only second account is a truncated reprint by Online News From Dominica, which republishes Dominica News Online text and adds no independent reporting.
-  - The picture published with the article is captioned only 'court news' and was uploaded in July 2011, so it is a generic stand-in and no media is listed.
 ---
 
 A 43-year-old man from Morne Prosper pleaded not guilty to three cannabis

@@ -60,13 +60,9 @@ sources:
     date: 2023-11-16
     language: fr
 open_questions:
-  - The submitted page gives no date for the searches, saying only that IGP seized the cannabis in August and that an officer came under suspicion last month; 10 August 2023, the date Virgule gives for the searches, is used as the incident date.
-  - Virgule says about 14 and 26 grams were seized while the submitted page states 14 and 26 grams; the report uses the submitted page's figures.
   - The officer accused of trafficking was suspected of having imported the drug from abroad, but no source names the country of origin.
   - No source gives the exact legal basis for the criminal investigation, the officers' ranks, ages or nationalities.
-  - The 16 November 2023 account gives a spokesperson's explanation for closing the case but no written decision, and the submitted page, published in September 2023, still described the investigations as ongoing.
   - The events are tied to the separate investigation into alleged police violence at the Gare station, in which four other officers were held; that is a distinct case and is not recorded here.
-  - The submitted page is a Luxembourg Times translation of a Luxemburger Wort story and names no direct IGP statement, so the official account could not be opened.
   - The page photo is a 2023 dpa distribution picture of cannabis, not the seized material, so it is not listed as media.
 ---
 

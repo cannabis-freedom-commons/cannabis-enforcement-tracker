@@ -40,7 +40,6 @@ open_questions:
   - No suspect was named or arrested; the investigation to identify those responsible was still under way.
   - No street value was given for the 170 kg.
   - Only Senegalese outlets reproducing the gendarmerie communiqué could be opened; no copy of the national gendarmerie's own statement was read directly.
-  - The page image is captioned only 'LUTTE CONTRE LE TRAFIC DE DROGUE AU SENEGAL' and does not establish that it shows this seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in Dakaractu: The gendarmerie said the operation was triggered by reliable information signalling a possible landing of drugs in the area.'
   - 'Left out, as its quotation was not found in La Vie Sénégalaise: That information pointed to the villages of Loul Sessène and Fayil in Fatick department.'
   - 'Left out, as its quotation was not found in La Vie Sénégalaise: The territorial brigade of Fimela seized the six packages, which weighed 170 kg in total.'

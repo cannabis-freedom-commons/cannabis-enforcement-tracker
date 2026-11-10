@@ -51,7 +51,6 @@ open_questions:
   - The sources give only the relative timing of the night from Saturday to Sunday plus 2 November publication dates; 1 November 2026 is inferred as the Sunday date.
   - No identities, charges or court outcomes were reported for the four arrested people.
   - The submitted Amigoe Aruba page is paywalled beyond its summary and key-facts section; operational details rely on the accessible Aruba.nu account of the same event.
-  - No media entry is listed because the available image captions do not establish that the pictures show this seizure.
   - 'Left out, as its quotation was not found in Aruba.nu: The operation ran from Saturday afternoon into early Sunday morning in designated areas pariba di brug, the part of the island beyond the bridge toward San Nicolaas.'
 ---
 

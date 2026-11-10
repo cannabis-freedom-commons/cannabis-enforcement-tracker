@@ -43,7 +43,6 @@ open_questions:
   - The article names no arrests, charges or court outcomes for this raid.
   - No cannabis weight beyond the listed 94 grams of flower, 320 grams of edibles and 96 grams of THC vapes was published; kratom, fireworks and flavored vape products are not counted as cannabis.
   - Only one accessible account of this raid could be opened; no agency statement or second outlet account was found.
-  - The page carries a photo credited to One Dream, but its caption does not establish that it shows the seizure or raid, so no media entry is included.
 ---
 
 Oneida County Sheriff's Office investigators seized marijuana products from the

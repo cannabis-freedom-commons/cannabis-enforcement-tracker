@@ -62,9 +62,6 @@ open_questions:
   - Only one source could be opened and no second report of this event was found in Bengali or English searches.
   - The incident date is taken as 1 November 2026 from the reported 6:30pm raid and same-day publication, with the mobile-court sentence at the scene on the same occasion.
   - Whether the lead photo on the source page shows this event could not be verified from the text capture, so its caption describes it only as the accompanying report photo.
-  - The submitted page shows only a relative timestamp of 1 day ago with a 2026/11/01 image path; 2026-11-01 is used as its publication date.
-  - The submitted summary omits the legal section, raid time, seized paraphernalia and officers named in the existing report, so it corroborates identity, place and sentence but not those details.
-  - The page carries a lead photo captioned only with the headline, which does not establish that it shows this event, so no media entry is added.
 ---
 
 District narcotics control officers caught 40-year-old Shariful Islam red-handed

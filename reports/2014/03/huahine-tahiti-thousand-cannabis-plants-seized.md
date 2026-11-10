@@ -46,7 +46,6 @@ open_questions:
   - The article says the seizures took place during that week but gives no separate day; 14 March 2014 is its publication date and stands in for the incident date.
   - The seizures at Toahotu and Paea are reported only as more than a hundred plants with no exact split or total, so figures record only the exact 865 plants from Huahine.
   - The number of growers summoned to the Papeete court is not given, and no arrests are reported.
-  - The page lists one image file without a caption or credit confirming it shows this seizure, so no media entry is added.
 ---
 
 The growers from the different plantations were all summoned before the Papeete

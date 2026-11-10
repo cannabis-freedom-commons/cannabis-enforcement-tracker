@@ -44,7 +44,6 @@ open_questions:
   - The moped stop is dated only to August, with no exact day; 3 November 2026 is the publication date used as the incident date for the court referral.
   - No separate court outcome or trial date beyond referral to court was reported.
   - Only one source for this event could be opened; no agency statement or second outlet confirming it was found.
-  - The page carries photos, but their captions repeat the headline or are empty and do not establish that they show this seizure, so no media entry is added.
   - The article also recalls a separate detention of a 40-year-old Komsomolsky District resident with about 230 g of marijuana, a different event left out of this report.
 ---
 

@@ -70,7 +70,6 @@ open_questions:
   - No court outcome, bond or custody status after booking was reported.
   - The marijuana is not broken down beyond 1.04 pounds of plant material, so no value estimate is available.
   - The reports do not say whether the marijuana charge relates to all the seized material or to a distribution quantity.
-  - The two booking portraits listed on the submitted page are not included as media because they show only the suspects rather than the event.
   - No independent account of the seizure list itself was found; both WAFB and WBRZ draw on the sheriff's office account.
 ---
 

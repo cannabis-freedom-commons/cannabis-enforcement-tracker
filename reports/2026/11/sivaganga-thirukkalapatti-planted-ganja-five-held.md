@@ -40,7 +40,6 @@ open_questions:
   - The article published on 8 November 2026 says the arrests happened yesterday evening, so 7 November 2026 is used as the incident date, and the planting two days earlier is not dated precisely.
   - No charges, custody details or court outcome were reported, so the case is treated as under investigation.
   - Only one report of this event could be opened, so the revenge motive and the names rest on a single account.
-  - The page images carry no caption or credit confirming they show this shop, search or arrests, so no media entry is added.
   - The source counts a 17-year-old boy among the five held but does not specify juvenile procedures.
   - The report describes two people planting the packet and two others in a police-sticker vehicle, but does not specify how these four map onto the five people arrested.
 ---

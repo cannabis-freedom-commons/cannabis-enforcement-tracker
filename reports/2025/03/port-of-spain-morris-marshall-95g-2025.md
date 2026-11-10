@@ -35,7 +35,6 @@ open_questions:
   - No arrests, charges or court outcome were reported; only that PC Thompson is continuing inquiries.
   - No value, origin or owner of the cannabis was reported.
   - Only one source could be opened; a second matching report could not be opened and its snippet was not used.
-  - The Guardian page carries an image with no caption or alt text establishing that it shows this seizure, so no media entry is included.
 ---
 
 Officers conducted a drive-through exercise in the Port-of-Spain and North

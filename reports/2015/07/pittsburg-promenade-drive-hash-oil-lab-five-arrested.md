@@ -77,7 +77,6 @@ open_questions:
   - No plant count was published for the marijuana plants NBC Bay Area says were seized, so no plant figure is recorded.
   - No charges, filings or court outcome were reported beyond the case being referred to the Contra Costa district attorney for review.
   - NBC Bay Area says two residents, including Jeffrey Bellesiles, were released by police to move things out of the home, while other accounts list five people arrested; the custody status of all five is unclear.
-  - The submitted page's own image is a generic stock or channel image dated 2015 and is not established to show this event, so only the linked Bay City News video is used; the East Bay Times booking photos are police handout portraits and are not listed.
 ---
 
 Pittsburg police detectives served a search warrant on Wednesday 15 July 2015 at

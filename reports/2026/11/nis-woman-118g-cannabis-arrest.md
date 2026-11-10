@@ -73,7 +73,6 @@ open_questions:
   - The suspect is identified only by her initials, M. J., and year of birth 2005; her age is given as 21 by three outlets and her year of birth by two others.
   - No charge, plea or court outcome was reported.
   - All four outlets repeat the Interior Ministry statement rather than adding independent reporting.
-  - The page photo is a screenshot captioned only as Niš police, and it is not established to show this seizure, so no media entry is included.
   - Glas Juga published this account on 6 November 2026, a day after the outlets already cited for the arrest, and gives no separate date for the street check or flat search.
 ---
 

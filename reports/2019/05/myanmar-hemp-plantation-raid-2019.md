@@ -111,19 +111,11 @@ open_questions:
   - The charges described here do not match the wording later reported at sentencing, where Shein Latt was convicted under two sections for growing prohibited cannabis plants.
   - The text gives a number of plants ("349,300 plants") but the figures have no plants_destroyed; check whether it belongs there.
   - The submitted Seattle Times capture returned only the headline, date, photo captions and wire-service boilerplate; the article body was recovered from the identical AP text republished by KSL and summarized by Myanmar Mix.
-  - Sources spell the township Ngazun and Ngunzun; the existing report uses Ngunzun.
-  - Vice says the arrests happened on a Wednesday before its 26 April 2019 publication, implying 24 April, while the existing report refers to 23 April arrests.
-  - Vice spells the American's middle name as Fredric while the existing report uses Frederic.
   - The AP report converts Todoroki's 325 million kyat bail as $243,000; Radio Free Asia gives U.S. $221,600 for the same amount.
   - The AP story dates the sentencing only to 'Tuesday'; 10 March 2020 is taken from Radio Free Asia's publication date for the same hearing.
   - Radio Free Asia says authorities determined that five US citizens still at large were involved in the farm's operations; it names none of them and reports no charge against them.
   - The AP dispatch dates the sentencing only to 'Tuesday'; 10 March 2020 is taken from the reporting of the same hearing.
-  - This source converts the same 325 million kyat bail as about US$232,380, a third conversion alongside the $243,000 and $221,600 figures already noted in the existing report.
-  - This AP account spells the American's name John Fredric Todorok in the photo caption and John Frederic Todoroki in the body, and spells the township Ngazun while the existing report uses Ngunzun.
-  - The article says the three were arrested late last month without giving an exact arrest date; the existing report records 23 April arrests.
-  - The 1,804 grams of marijuana oil, 5,200 seedlings and laboratory equipment reported here are distinct from the 270 kilograms of marijuana reported by another outlet already cited in the existing report.
   - The opened article spells the township Ngazun and the American's middle name Fredric, forms already noted in the report's open questions alongside Ngunzun and Frederic.
-  - The article says the three were detained on a Monday after an announcement on Wednesday, implying 22 April 2019, while the existing report records arrests on 23 April.
   - The article gives no count of hectares, stating only a 20-acre plantation, which converts to about eight hectares.
 ---
 

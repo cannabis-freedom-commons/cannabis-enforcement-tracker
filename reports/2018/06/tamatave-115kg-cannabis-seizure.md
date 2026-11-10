@@ -50,7 +50,6 @@ open_questions:
   - The 115.7 kg cannabis figure is the sum of the separately stated 80.2 kg of cannabis and 35.5 kg of hashish; Linfo.re gives a different five-drug itemisation that is not used for figures.
   - The reported Rs 519 million total covers cannabis, hashish and 25.5 kg of heroin together, so no cannabis-only value is recorded.
   - No charges, court hearing or other outcome beyond the arrests was reported.
-  - The submitted page labels its lead picture as an illustration photo and its other pictures carry no caption establishing they show this seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in Linfo.re: The six other people arrested were Malagasy nationals, three men and three women.'
   - 'Left out, as its quotation was not found in Linfo.re: The second account places the night-time interception on the RN2 at Manjakandriana, in a Mercedes Sprinter coming from Tamatave and bound for Nosy Be.'
   - 'Left out, as its quotation was not found in Linfo.re: That account says the load was to be exported by sea to both Mauritius and Réunion.'

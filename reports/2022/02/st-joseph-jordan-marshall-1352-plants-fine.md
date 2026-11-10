@@ -72,7 +72,6 @@ open_questions:
   - Neither source gives the sentencing hearing date separately; 14 February 2022, the earlier publication date, is used as the incident date, while the raid and arrests took place on 10 February 2022.
   - Dominica News Online spells the brother's name Shanly Marshall while Nature Isle News spells it Stanly Marshall; the warrant premises are named for Lipson Marshall while the brother is named Linson Marshall.
   - Police put the seizure at 72.75 pounds, but the defence said the plants were never weighed and the magistrate ruled no accurate weight was presented, so no cannabis weight is recorded in the figures.
-  - The submitted page carries one image with no caption or credit tying it to this event, so no photo from that page is listed.
   - It is not reported whether the fine was paid in full or whether any default prison term was served.
 ---
 

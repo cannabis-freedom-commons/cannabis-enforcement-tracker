@@ -54,7 +54,6 @@ open_questions:
   - The 20 g cocaine figure is mentioned only to explain the mixed seizure and is excluded from cannabis figures, with only the 25 g hashish recorded as 0.025 kg.
   - No laboratory weight or cannabis-only valuation was published.
   - The man was identified only by age, residence and prior police knowledge, with no name published.
-  - The available page image is a 2024 archive handcuffs photo and is not established to show this seizure, so no media entry is included.
   - No conviction or sentence was reported beyond validation of the arrest and the reporting requirement, with proceedings continuing.
 ---
 

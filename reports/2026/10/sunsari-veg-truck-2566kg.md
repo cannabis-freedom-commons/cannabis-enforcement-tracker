@@ -43,7 +43,6 @@ media:
 open_questions:
   - The Himalayan Times says the sacks were hidden among cauliflower; 2daysBulletin says cabbage.
   - The suspected trafficking route and any wider network involvement are still under investigation.
-  - This account says the marijuana was concealed in cabbage cargo; the existing report's open question already records that The Himalayan Times says cauliflower and 2daysBulletin says cabbage.
 sources:
   - title: 2,566kg marijuana seized from vegetable-laden truck in Sunsari
     url: https://thehimalayantimes.com/nepal/2566kg-marijuana-seized-from-vegetable-laden-truck-in-sunsari

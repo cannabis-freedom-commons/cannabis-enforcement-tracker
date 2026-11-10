@@ -48,7 +48,6 @@ open_questions:
   - The man was arrested on an open warrant and no new cannabis charge against him was reported.
   - Neither account names the suspect, reporting only his age and that he was considered dangerous.
   - No court outcome or custody hearing was reported after he was taken to the regional prison.
-  - The page photo is captioned only as the 24-year-old accused being arrested on Thursday and carries no credit, so no media entry is included.
 ---
 
 Guarda Municipal officers in Santa Cruz do Sul arrested a 24-year-old man on the

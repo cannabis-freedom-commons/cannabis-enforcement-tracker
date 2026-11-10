@@ -108,7 +108,6 @@ open_questions:
   - The Times of India page's only image is an uncaptioned illustrative picture titled 'students drug use', so it was not added to the report's media.
   - The page presents the 24 University of Hyderabad students as identified in the recent searches, while the report's other sources count them across this inquiry and an earlier case in August.
   - The page's only picture is captioned with the headline alone and could not be confirmed to show this case, so it was not added as media.
-  - The Hans India account does not date the arrest; the existing report dates it to 29 October 2026 from The Hindu.
   - The same page again describes separate NALSAR and GITAM enquiries, and a student killed in a road accident near the NALSAR tea stall with a marijuana packet said to have been found on him, none of which are part of this arrest.
   - TV9 Telugu says the 24 students were identified in an earlier case, while the report counts them across this inquiry and an earlier August case.
   - 'Left out, as its quotation was not found in TV9 Telugu: A security guard accused of supplying marijuana to University of Hyderabad students was arrested by the Telangana EAGLE Force.'
@@ -119,8 +118,6 @@ open_questions:
   - The 707-student figure covers the NALSAR and GITAM enquiries as well as the University of Hyderabad, and is not reconciled with the report's 24 University of Hyderabad students.
   - The article attributes the 707 figure to Deccan Chronicle and gives no separate date for the wider count; 1 November 2026 is its publication date.
   - The article also says a helpline message reported 683 students across the three universities, without explaining how that count relates to the 707.
-  - The submitted page's only image is an illustrative graphic titled 'Telangana Campus Drug Network', not a photograph of the event, so no media was added.
-  - The NewsMeter page carries three images with only the headline or no caption, so none could be confirmed to show this seizure and no media entry was added.
   - The article identifies the bulk supplier only as Raiz and does not say whether he was traced or apprehended.
 ---
 

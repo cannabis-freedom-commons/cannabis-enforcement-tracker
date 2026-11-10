@@ -48,7 +48,6 @@ open_questions:
   - The DEC described the five Mulobezi farmers' crop as over six tonnes but named only four totalling 5,595 kg; 6,385 kg is the sum of all five individually stated weights including the 790 kg Sibanze plot, leaving one Mulobezi farmer unnamed or a weight unstated.
   - No court outcome beyond the expected court appearance on the statement day was reported.
   - The same article reports a separate Lusaka money-laundering arrest of an export controller, a non-cannabis event left out of this report.
-  - No photo confirmed to show this event was identified; the submitted page's images carry no captions tying them to the seizure, so no media is listed.
 ---
 
 The Drug Enforcement Commission arrested six farmers for cultivation of cannabis

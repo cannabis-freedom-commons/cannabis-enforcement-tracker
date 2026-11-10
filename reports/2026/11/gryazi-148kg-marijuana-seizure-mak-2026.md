@@ -50,7 +50,6 @@ open_questions:
   - The reports give no separate date for the search; 5 November 2026 is the publication date of both accounts and is used as the incident date.
   - The reports do not say whether the man was detained; no arrested figure is recorded.
   - Both accounts reproduce the police account and name no independent witnesses.
-  - The submitted page's image addresses are recommendation thumbnails for other stories, not captioned photos of this seizure, so no media entry is listed.
 ---
 
 Police officers acting during the preventive operation Mak-2026 seized marijuana

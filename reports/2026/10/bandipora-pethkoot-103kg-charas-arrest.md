@@ -78,8 +78,6 @@ open_questions:
   - Coordinates are for Bandipora town, not the checkpoint at Lal Qila Morh.
   - The lead photo has no named photographer credit.
   - The same roundup also mentions 9.052 kg at Pashwari, Sumbal and approximately 5.010 kg at Hajin, plus unspecified recoveries from Mantrigam Pethkoot, Gunchipora Sumbal and Ajas, which are separate events left out of this match.
-  - The submitted page's photos carry no caption tying them to the Lal Qila Morh seizure, so no media entry for this event is established from them.
-  - The page carries a photo captioned WhatsApp Image 2026-10-31 at 9.47.35 PM (1) with no caption tying it to the Lal Qila Morh seizure, so no media entry is established from it.
   - The same roundup also reports 9.052 kg at Pashwari, Sumbal and approximately 5.010 kg at Hajin plus unspecified recoveries from Mantrigam Pethkoot, Gunchipora Sumbal and Ajas, which are separate events left out of this match.
 ---
 

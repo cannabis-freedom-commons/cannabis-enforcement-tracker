@@ -66,7 +66,6 @@ open_questions:
   - The fixed-penalty court order (ordonnance pénale) providing for 70 hours of unpaid work is a planned outcome announced in the reports, not a sentence a court had given by publication.
   - The reports name no separate drug charge, and no court outcome was reported.
   - The Maine Libre account gives the date as 8 November 2025 in its opening paragraph, while its own text and other outlets give 8 November 2026; the report uses 2026.
-  - The page picture is labelled an illustration by Le Maine Libre and is not known to show this event, so no media is listed.
   - The Ouest-France page opened here is paywalled, so the full detail of its account, such as the exact duration of the chase or the man's custody, could not be read.
 ---
 

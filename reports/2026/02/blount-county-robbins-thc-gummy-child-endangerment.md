@@ -49,7 +49,6 @@ open_questions:
   - The two distribution counts and the chemical endangerment charge arise from two separate dates, and the article does not say how they are joined in one case.
   - The article does not name the agency that arrested him; the only named institution is the Blount County Jail that supplied the booking photo.
   - All accessible accounts, including the syndicated versions, reproduce the same WBRC report; no independent outlet, court record or agency statement was found.
-  - The only picture on the page is a jail booking portrait of the accused, which does not show the event, so no media entry is included.
   - 'Left out, as its quotation was not found in FOX10 News: Gray News syndicated the Blount County report to other television stations the following day, crediting WBRC.'
 ---
 

@@ -58,7 +58,6 @@ open_questions:
   - Two couriers carried the load and the third was arrested at the airport to collect it, so the sources do not say how the one without the drugs was placed at the scene.
   - No charges, custody ruling, remand or court outcome were reported; the Bureau described only an investigation into drug allegations.
   - The accounts are Nepali outlets reporting the Bureau's account, and Ratopati's English and Nepali editions are the same outlet, so no independent outlet was found.
-  - The submitted page's image has only the headline as its alt text and no caption or credit, so it is not established to show this seizure.
   - The article does not give the flight number or where in Kathmandu the marijuana was to be taken.
   - The man from Punjab is spelled Sonu by OnlineKhabar and Soni in the Nepali account; the report uses Sonu.
 ---

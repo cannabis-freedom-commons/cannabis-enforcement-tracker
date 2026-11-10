@@ -55,7 +55,6 @@ open_questions:
   - The article does not specify which of the two men was on bail in the military-absence case and which faces the earlier drug proceedings.
   - The bail amounts for the new custody orders were not published.
   - Only one accessible source was found after searching in Ukrainian and English for a second account or police statement.
-  - The page carries photos and a video, but their captions are empty or repeat the headline and do not confirm what each shows, so no media entry is listed.
 ---
 
 Police exposed two men who had allegedly organised the sale of methamphetamine

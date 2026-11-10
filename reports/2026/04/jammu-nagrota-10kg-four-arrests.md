@@ -54,7 +54,6 @@ open_questions:
   - The cannabis weight is given as approximately 10 kg and the value as more than Rs 30 lakh, both rounded.
   - The page does not name the police station in Jammu where the case was registered or the NDPS sections applied.
   - No court appearance, remand order or charge sheet was reported.
-  - The page's only image is a 2021 Rediff stock picture, so no media entry is included.
 ---
 
 Jammu's Anti Narcotics Task Force arrested four suspected inter-state drug

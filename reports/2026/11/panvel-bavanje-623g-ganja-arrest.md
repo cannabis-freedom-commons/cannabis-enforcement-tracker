@@ -59,16 +59,6 @@ open_questions:
   - The Rs 32,150 figure is the police total for the ganja, chillims and matchbox together, not a price for the ganja alone.
   - The Odisha source claim rests only on the accused's reported statement, with no independent corroboration given.
   - No charge, court production, custody or further investigation outcome was reported.
-  - The submitted article spells the village Wavanje while the existing report uses Bavanje for the same Panvel taluka arrest.
-  - The submitted article values the cannabis at approximately Rs 31,000 while the existing report uses Rs 32,150 for the seized property.
-  - The submitted article dates the trap to around 7.30 pm on October 30 while the existing report dates the incident to its earlier source's 1 November 2026 publication date.
-  - The submitted article limits the externment to Thane City and Navi Mumbai commissionerates while the existing report lists a wider one-year externment area.
-  - The page's main image caption is only top-news with no credit or event description, so whether it shows this seizure is not established and no media entry is listed.
-  - The new account spells the village Vavanje while the existing report uses Bavanje and Wavanje for the same Panvel taluka arrest.
-  - The new account values the ganja at Rs 31,000 while the existing report records Rs 32,150 for the seized property, so the report retains its existing figure.
-  - The new account limits the externment to Thane City and Navi Mumbai commissionerates while the existing report lists a wider one-year externment area, so the report retains its existing description.
-  - The new account dates the trap to around 7.30 pm on October 30, with the year 2026 inferred from its 2 November 2026 publication date, while the existing report is dated to its earlier source's 1 November 2026 publication date.
-  - The page image is captioned as a representative image and its file name gives no event description, so it is not established to show this seizure and no media entry is included.
 ---
 
 Panvel taluka police arrested Subhash Dattu Mali with ganja while he was staying

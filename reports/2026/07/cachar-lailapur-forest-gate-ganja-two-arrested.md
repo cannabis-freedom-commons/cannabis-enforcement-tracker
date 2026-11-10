@@ -63,7 +63,6 @@ open_questions:
   - The two suspects were not named in either account, and no charges were specified beyond 'relevant provisions of the law'.
   - No court outcome, remand decision or lawyer's statement was reported; the case was at the investigation stage.
   - The ganja weight of 341.6 grams is small and the accounts do not say where it came from or whether it was packaged for sale.
-  - NEWire.in credits its photo to the India Today Group, so its picture is the same handout-style image and only one media entry is listed.
   - The raid's exact site at Bhetor Lailapur Forest Gate has no separate mapped point, so district-level coordinates for Cachar are used.
 ---
 

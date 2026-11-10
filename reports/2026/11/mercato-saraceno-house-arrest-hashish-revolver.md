@@ -69,9 +69,7 @@ open_questions:
   - The man's name was not published.
   - Results of the RIS laboratory examination of the revolver were not yet reported.
   - The submitted source says the arrest occurred in recent days without giving a separate incident date, so 2 November 2026 remains the publication date used as the incident date.
-  - The submitted page carries a lead photo captioned with the headline, but the caption and text do not establish that it shows this seizure, so no media entry is added.
   - The new account was published on 4 November 2026 but says the check occurred in recent days without giving a separate incident date, consistent with the existing 2 November 2026 publication-date incident date.
-  - The submitted page carries a lead photo captioned only with the headline, which does not establish that it shows this seizure, so no media entry is added.
 ---
 
 Carabinieri from the Mercato Saraceno and Sarsina stations arrested a

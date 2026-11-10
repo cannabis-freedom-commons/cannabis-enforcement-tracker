@@ -63,11 +63,9 @@ sources:
 open_questions:
   - Sources give the quantity as four grams, or as three to four grams in three small balls of suruma; the report uses four grams.
   - The submitted VOA report gives no date for the detention; Lusa places it on Saturday 30 July 2011, which is used here.
-  - The submitted page's paragraph begins 'O crítico cantor', which reads as a typographical error for a phrase describing him as a controversial singer; it is taken to refer to Azagaia.
   - No charge sheet, court date or outcome is reported in these sources; whether the case was ever tried is unknown.
   - Lusa says city police intercepted him before he was transferred to the cells of the Polícia de Investigação Criminal, while VOA attributes the find itself to a PIC team; both accounts are reported as given.
   - Global Voices' English post is a translation of a Jornal @Verdade text, so that account is not independent reporting.
-  - Only a portrait of the rapper could be confirmed from the submitted page; no picture of the seized cannabis or the police stations was published.
   - No value estimate, plant count or supply context was reported, so only the weight and one arrest are recorded.
 ---
 

@@ -64,12 +64,8 @@ open_questions:
   - The articles give only their publication date of 3 November 2026 and no separate sentencing date, so the report uses the publication date as the incident date.
   - The co-accused was reported as already dealt with and jailed for two years and nine months in separate proceedings, which is a different event left out here.
   - Both accessible accounts carry the same reporter byline, so only one reporting chain could be opened.
-  - The Crime World portrait captioned as Matthew Jenkinson and the Dublin People generic courts image do not show the seizure itself, so no media entry is listed.
   - 'Left out, as its quotation was not found in Dublin People: Officers found 14.5kg of cannabis valued at €290,000 in a large black suitcase.'
-  - The Irish Mirror article gives only its publication date of 4 November 2026 and no separate sentencing date, so the existing report's use of 3 November 2026 as the incident date remains.
-  - The two supplied images show the Criminal Courts of Justice building and portraits of two crime writers, not the seizure itself, so no media entry is listed.
   - The article says Jenkinson accepted ownership of the van while also describing a white Ford Focus in the CCTV account, leaving the vehicle description unclear.
-  - The briefing gives no separate sentencing date, consistent with the existing report's use of the coverage date.
   - Only the lead item concerns this case; the other items in the briefing are unrelated local news and were not used.
 ---
 

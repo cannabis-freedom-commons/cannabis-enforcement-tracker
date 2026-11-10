@@ -163,20 +163,8 @@ open_questions:
   - The IND Today page gives no photo credit for its lead picture of officers and seized bundles, so its provenance is not documented.
   - The Dailyhunt page is a syndicated copy of the Andhra Jyothy report already cited, so its 150 kg figure does not independently resolve the report's 120 kg versus 150 kg discrepancy or confirm the five-person account.
   - The lead image on the Dailyhunt page has no photo credit, so its provenance is not documented.
-  - The HMTV article is dated 1 November 2026 and gives no separate date for the checks and seizure; the existing report keeps 31 October 2026.
   - HMTV names neither of the two people detained and reports no charges, value or court outcome.
-  - The HMTV lead image is captioned only “Kodad” with no credit, so whether it shows this seizure is not established and no media entry is made.
-  - The article is dated 1 November 2026 and gives no separate date for the interception; the existing report keeps 31 October 2026.
-  - This account says over 120 kg from Rajahmundry to Bengaluru, while other reports already cited in the existing report say about 150 kg from Chitrakonda to Karnataka; the discrepancy is preserved in the existing report.
-  - This source transcribes the car's registration as KA03 MJ 4712; the existing report omits the registration because reports transcribe it differently.
   - The value of the seized ganja and the identities of the two people held were still to be disclosed in this account.
-  - Whether the lead image on the Lokal page shows this seizure is not established from its caption, so no media entry is made.
-  - This account puts the haul at 150 kg, while the existing report keeps 120 kg from the earlier Telugu accounts.
-  - This account says the cannabis was being taken from Rajahmundry to Bengaluru, while other reports already cited in the existing report say it was bought in Chitrakonda, Odisha for delivery to Karnataka.
-  - The lead image on the News18 page is captioned only “News18” with no descriptive caption, so whether it shows this seizure is not established and no media entry is made.
-  - This account puts the haul at about 150 kg in 62 packets, while the existing report keeps 120 kg from the earlier Telugu accounts; the 120 kg versus 150 kg discrepancy already noted in the report is not resolved.
-  - The page's lead image is captioned only with the headline and carries no credit or description establishing that it shows this seizure, so no media entry is included.
-  - The new accounts put the Kodad haul at 150 kg valued at about Rs 75 lakh and do not mention a packet count, while the existing report keeps 120 kg from earlier Telugu accounts; the 120 kg versus 150 kg discrepancy already noted is not resolved.
 ---
 
 Officers seized 120 kg of ganja from the pair, according to the reports. [@1,12,13]

@@ -54,7 +54,6 @@ sources:
 open_questions:
   - The September raid account estimated just over 1,500 plants worth about £890,000 plus £346,000 of cropped product; the sentencing account gives 1,046 growing plants worth £889,623 with evidence of 407 harvested plants, which this report uses.
   - Early reports put the Bayton Road plant count near 1,800; the sentencing account is used instead.
-  - The police gallery of raid-day photographs could not be visually verified, so no media entry is included.
 ---
 
 Officers from the Nuneaton and Bedworth policing team visited a unit on the Bayton Road Industrial Estate in Exhall at about 2:20 p.m. on 31 August 2023, less than two hours after National Grid tipped them off about unusually high electricity use that was blowing fuses at the local substation. [@1,2] Finding the unit hot and unresponsive, an officer climbed in through a small side window and discovered a large cannabis operation with ducting, filters, irrigation and high-wattage grow lights behind stud walls. [@1]

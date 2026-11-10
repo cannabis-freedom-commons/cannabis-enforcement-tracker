@@ -49,7 +49,6 @@ open_questions:
   - The article opens by describing a South African truck driver being intercepted but then says three Zimbabwean nationals were arrested in connection with the incident; the relationship between the driver and the three suspects is unclear.
   - The same article also reports a separate seizure of 100.4 kg of cannabis near the Ariamsvlei border post involving a 55-year-old South African man; that is a different event left out of this report.
   - No second outlet account of the Windhoek seizure was found; every fact comes from The Namibian's account of the joint police and Namra statement.
-  - The page's listed images show a generic cannabis illustration and unrelated stories, so no media entry tied to this seizure is included.
 ---
 
 The Namibian Police and the Namibia Revenue Agency intercepted a truck driver

@@ -53,7 +53,6 @@ sources:
 open_questions:
   - Both opened outlets reprint the same Bernama wire account, so no fully independent second outlet confirms the details.
   - Any appeal or execution outcome was not reported in the opened sources.
-  - No photo of the case with a recoverable address was found; English-language web searches for the accused and the Napoh stop surfaced only text reprints, so no media entry was added.
 ---
 
 The High Court in Alor Setar sentenced 34-year-old Nigerian Oluigbo Eric Chimeze to death on Monday 27 February 2012 after finding him guilty of drug trafficking two years earlier. [@1,2] Judicial Commissioner Mohd Zaki Abdul Wahab ruled the prosecution had proved its case beyond reasonable doubt. [@1,2]

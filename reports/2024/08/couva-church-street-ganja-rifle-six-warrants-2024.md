@@ -30,7 +30,6 @@ open_questions:
   - No one was reported arrested over the marijuana or the rifle; the six arrests were on outstanding warrants in a separate South Western Division exercise.
   - The article does not say what the affiliate and TAC warrants were for, whether any related to cannabis, or what happened to the six people afterwards.
   - The rifle is a firearms find reported alongside the marijuana search; it is not a cannabis quantity and is not counted in the figures.
-  - The article carries a file photo, which is not confirmed to show this event, so no media entry is added.
   - Only the Newsday account of the police statement could be opened; the police service's own statement or another outlet's account was not found to confirm the details.
 ---
 

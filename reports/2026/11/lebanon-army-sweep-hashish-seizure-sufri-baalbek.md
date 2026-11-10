@@ -74,16 +74,12 @@ open_questions:
   - No separate date was given for the raids and checkpoints; 8 November 2026 is the publication date of the reports and of the army statement and is used as the incident date.
   - The French account identifies the hashish detainee as (M.K.) while the Arabic account renders the initials as (م.ق.); only initials were published.
   - No charge, plea or court outcome was reported beyond questioning under the supervision of the competent judicial authority.
-  - 'No usable event photo could be listed: the submitted page image only repeats the headline, and the Annahar images are explicitly labelled archive photos.'
-  - This Arabic account renders the hashish detainee's initials as (م.ق.), while the existing report's French source gives M.K.; the existing report already records this initials discrepancy as an open question.
   - No weight or measured quantity was given for the hashish seized at the al-Safri checkpoint.
-  - This Arabic account renders the hashish detainee's initials as (م.ق.), while the existing report's French source gives M.K.; only initials were published.
   - No weight or measured quantity was given for the hashish seized at the al-Sufri checkpoint in this account.
   - No separate date was given for the raids and checkpoints; 8 November 2026 is the publication date and is used as the incident date.
   - No weight or measured quantity for the seized hashish was published in this account.
   - No separate date is given for the checkpoints; 8 November 2026 is the date of the army statement and of publication.
   - Only the detainee's initials (م.ق.) were published, and this account gives no charge, plea or court outcome beyond questioning under the competent judicial authority.
-  - The submitted page carries a headline image characteristic of Elnashra's standard article headers and a photo attached to an unrelated opinion piece, neither confirmed to show this event, so no media entry is added.
 ---
 
 Lebanese army units detained 28 people in raids and temporary checkpoints

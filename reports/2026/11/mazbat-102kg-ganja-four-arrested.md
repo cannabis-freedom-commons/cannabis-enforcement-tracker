@@ -52,7 +52,6 @@ open_questions:
   - No charge, case number or court step was reported, and the four detainees were not named.
   - No estimated value for the 102.28 kg was published, and the cannabis is described only as ganja.
   - Only one news report and the Chief Minister's Office post could be opened; the post repeats the police figures rather than adding an independent account.
-  - The page image is a generic file labelled 'Drug-operation' with no credit or caption tying it to this seizure, so no media is recorded.
 ---
 
 Assam Police seized 102.28 kg of ganja and detained four people in a night

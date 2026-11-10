@@ -40,7 +40,6 @@ open_questions:
   - No arrests, charges or landowner names were reported.
   - The weight is given only as more than 7,000 kg of plant material; the report uses 7,000 kg as the stated floor.
   - The pin is the municipal seat of Huetamo; San Jerónimo and Buenavista are not given separate coordinates in the sources opened.
-  - La Jornada gives no separate date for the discovery; 18 October 2026 is both its publication date and the date the existing report uses.
 sources:
   - title: Destruyen cerca de 96 mil plantas de mariguana en Huetamo
     url: https://www.lavozdemichoacan.com.mx/seguridad/ssp-defensa-destruyen-96-mil-plantas-mariguana-huetamo-michoacan/

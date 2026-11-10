@@ -51,7 +51,6 @@ open_questions:
   - No figure for the total cannabis seized across the nine Aitutaki properties raided on 13 January 2022 was published in the opened accounts.
   - The article does not name the exact offence provision, only the charge and the two-year maximum.
   - No appeal, or failure to appeal, is reported.
-  - The submitted page lists one image whose caption only repeats the headline, with no credit or confirmation it shows this sentencing, so no media entry is added.
 ---
 
 Gray Ronald Pitomaki Turia was the last person charged in Operation Tuvake, a

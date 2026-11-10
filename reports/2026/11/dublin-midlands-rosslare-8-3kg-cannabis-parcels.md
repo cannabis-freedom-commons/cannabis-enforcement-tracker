@@ -50,7 +50,6 @@ open_questions:
   - The exact dates of the individual detections were not given; 4 November 2026 is the announcement and publication date, and the operations ran in the week commencing 26 October 2026.
   - The weights and values of the cannabis oil, cannabis resin, edibles and cannabinoid vape liquids cannot be separated from the combined over €22,500 various-drugs figure, so they are described in the text and excluded from cannabis figures.
   - No arrests, charges or court outcomes were reported for this operation.
-  - No usable photo of the cannabis seizure was isolated; the submitted page's captioned image shows seized alcohol, so no media entry is listed.
 ---
 
 Revenue officers seized contraband with an estimated total value of over

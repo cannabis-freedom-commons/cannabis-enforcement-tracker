@@ -46,7 +46,6 @@ open_questions:
   - No date is given beyond 'Tuesday 26 April'; 2016 is established by both articles' publication dates, and no separate date for the search is reported.
   - No charges, trial date or court outcome were reported; the reports say only that he would be judged in the coming days.
   - Both accounts appear to draw on the same EnQuête reporting, and no separate official gendarmerie statement could be opened.
-  - The Dakaractu photo is captioned only with the article headline and does not establish that it shows this seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in Dakaractu: The farmer was held in custody and was to be taken before the Kolda prosecutor on the Wednesday, then held at the Kolda remand prison (Maison d''Arrêt et de Correction) to await trial in the following days.'
   - 'Left out, as its quotation was not found in Senego: Senego reported that the Pakour gendarmerie brigade arrested a man who grew hemp in his house, behind the dwellings, in the same Vélingara department case.'
   - 'Left out, as its quotation was not found in Senego: Senego reported that the arrested man was transferred to the Diaobé gendarmerie brigade pending his transfer to Kolda, and that a hand-made pistol and a hunting rifle were found with him.'

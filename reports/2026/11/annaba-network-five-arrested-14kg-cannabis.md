@@ -56,8 +56,6 @@ open_questions:
   - No amount was published for the recovered sum of money.
   - No names, charges or court outcome were reported.
   - The 14.175 kg figure is the police count; no independent weighing is reported.
-  - The Annasr, El Raëd and Cherchell News pages carry photos, but captions and credits do not establish that they show this seizure, so no media entry is added.
-  - The Sabq Press page carries a photo captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
 ---
 
 Officers of the Regional Service for Combating Illicit Drug Trafficking in

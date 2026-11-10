@@ -61,9 +61,7 @@ open_questions:
   - No cash total was quantified, so no value or cash figure is recorded.
   - The structured prison figure records the 15-year drug-trafficking term; the additional three-year firearms terms for two defendants are given in the text.
   - Only one accessible source for this event was found after searching in Arabic.
-  - The page image is captioned as an archival handcuffs photo and is not shown to depict this case, so no media entry is listed.
   - The outcome of the adjourned 12 November appeal hearing was not reported.
-  - The page image is labelled as an archival photo of hashish seizures and is not shown to depict this case, so no media entry is listed.
 ---
 
 Cairo's appellate criminal court was due to resume on Sunday hearing the appeals

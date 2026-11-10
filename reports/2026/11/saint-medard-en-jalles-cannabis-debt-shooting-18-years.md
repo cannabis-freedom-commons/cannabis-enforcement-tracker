@@ -60,7 +60,6 @@ open_questions:
   - The 1,000 euros is the estimated value of the stolen resin, not a seizure valuation; no cannabis was seized in this case.
   - Ouest-France describes the accused as a young man aged 18 at the time of the 2022 shooting, while Sud Ouest gives him as 23 at his trial.
   - Only Ouest-France and the Sud Ouest article it cites were opened; no court or prosecution statement was found.
-  - The only image on the submitted page is an illustration photo credited to Ouest-France archives, not a photo of this event, so no media is listed.
 ---
 
 The cour d’assises de la Gironde, the Gironde criminal assize court, sentenced a

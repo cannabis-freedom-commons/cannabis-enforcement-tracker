@@ -59,7 +59,6 @@ open_questions:
   - The 0.5 gram of cocaine is mentioned only to explain the mixed seizure and is excluded from the cannabis figures.
   - The exact street in central Tarbes is not named, so Tarbes town centre is used with locality precision.
   - No outcome of the 18 January ordonnance penale hearing was reported.
-  - The page photograph is captioned as an archive illustration, not a photo of this stop, so no media entry is listed.
   - The NRPyrenees page carries the same article identifier and byline as the La Depeche version, indicating a same-group reprint rather than a fully independent second account.
 ---
 

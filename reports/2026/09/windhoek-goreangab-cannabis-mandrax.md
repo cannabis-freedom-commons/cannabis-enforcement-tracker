@@ -35,7 +35,6 @@ tags: [windhoek, mandrax]
 open_questions:
   - The operation was reported on 13 September and the exact day was not stated; the report date is used. The Mandrax is noted for context and only cannabis is counted in the figures.
   - No second outlet account was found; every fact above comes from the Mohale FM report of the Namibian police statement.
-  - The Namibian says the seizure happened on a Saturday and was published on Sunday 13 September 2026, which points to 12 September, while the existing report is dated 13 September.
 sources:
   - title: Namibia police seize drugs worth N$2.2m in Windhoek
     url: https://mohalefm.co.ls/namibia-police-seize-drugs-worth-n2-2m-in-windhoek/

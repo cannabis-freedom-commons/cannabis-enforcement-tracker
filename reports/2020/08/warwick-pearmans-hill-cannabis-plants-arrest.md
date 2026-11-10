@@ -49,7 +49,6 @@ open_questions:
   - No charge, court date or later outcome was reported; the man was described only as arrested and detained.
   - The same Royal Gazette article reports a separate airport arrest of a US national for importation the same day; that is a different event and is left out of this report.
   - Both accounts reproduce the Bermuda Police Service statement; no independent detail beyond that statement was found.
-  - The submitted page carries images but no caption or credit ties them to this event, and the second listed image is a subscription banner, so no media is listed.
 ---
 
 At about 9.20am on Wednesday 19 August 2020, police officers on mobile patrol in

@@ -55,7 +55,6 @@ sources:
 open_questions:
   - The articles give no separate date for the roadside check; 13 October 2015 is the publication date and is used as the incident date.
   - Only the suspect's initials O.S. were published; no age, plea or later court outcome was reported.
-  - The submitted page image is a no_image.jpg placeholder and the Ensonhaber photos are captioned only with the headline, so no media entry is listed.
 ---
 
 Provincial gendarmerie teams carried out an anti-drug check at the Gülüşkür

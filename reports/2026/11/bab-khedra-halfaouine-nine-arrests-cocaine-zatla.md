@@ -45,7 +45,6 @@ open_questions:
   - Only one accessible account of this operation was found; searches in Arabic surfaced the same Mosaique FM report and a different 27 September Bab Souika operation, so the account is single-sourced.
   - The nine detainees were not named and no ages were given; no charges beyond holding pending investigation and no court outcome were reported.
   - The article says the raids happened on Saturday evening, the night before its Sunday 8 November 2026 publication, so 7 November 2026 is used as the incident date.
-  - The page carries one image captioned only with the headline and no credit, with nothing confirming it depicts this operation or seizure, so no media entry is included.
 ---
 
 The Bab Souika judicial police brigade broke up a drug-dealing network operating

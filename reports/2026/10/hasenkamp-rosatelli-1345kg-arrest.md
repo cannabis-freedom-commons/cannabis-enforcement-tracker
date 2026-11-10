@@ -56,9 +56,7 @@ open_questions:
   - Rosatelli's appeal against processing, preventive detention and embargo was still pending before the federal chamber.
   - The full identities and procedural status of the five people arrested in August and the five people identified at Doña Inés were not established in the opened sources.
   - Cash was reported only as about two million Argentine pesos plus dollars, Guaraníes and a smaller sum in reais, without exact verified totals, so no value is recorded.
-  - The pages carry event-related photos with generic or empty captions and a composite portrait, which do not establish that they show this arrest or seizure, so no media entry is included.
   - The EntreRíosYA page credits Elonce as its source, so it is not fully independent of the existing Elonce report.
-  - The EntreRíosYA featured image is presented without a caption establishing that it shows the Hasenkamp arrest or seized items, so no media entry is added for this source.
 ---
 
 Police captured the fugitive on Saturday 31 October at a rural establishment in

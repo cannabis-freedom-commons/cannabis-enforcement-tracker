@@ -61,7 +61,6 @@ open_questions:
   - Midi Libre gives the suspect's age as 24 and describes him as a homeless Algerian national; it is not stated whether he is the same person the earlier account described as 24 years old.
   - The Midi Libre article is partly behind a subscriber wall; the visible text stops after reporting the bitten officer, so the amount of cannabis found, the cocaine and the cash are not confirmed here.
   - Midi Libre does not give the outcome of the Tuesday hearing.
-  - The Midi Libre page image is captioned "PHOTO D'ILLUSTRATION ML", an illustrative picture, so no media entry is added.
 ---
 
 A 24-year-old man was arrested on Sunday 8 November 2026 after offering to sell

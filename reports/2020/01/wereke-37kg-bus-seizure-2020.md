@@ -48,7 +48,6 @@ open_questions:
   - Neither account gives a number of people detained or arrested, so no arrested figure is recorded.
   - Bénin Web TV's introduction mentions 17 kg, but its detailed account and La Nouvelle Tribune both give 37 kg, which this report uses.
   - The bus is described only as a bus from Togo by La Nouvelle Tribune and as a Nigerien bus from Togo by Bénin Web TV; the report attributes that detail.
-  - La Nouvelle Tribune's only picture is captioned as an illustration of Beninese customs officers, not this seizure, and the Bénin Web TV image caption does not establish that it shows this seizure, so no media entry is included.
   - No charges, custody decision or court outcome were reported.
   - 'Left out, as its quotation was not found in Bénin Web TV: Bénin Web TV describes the vehicle as a Nigerien bus coming from Togo.'
 ---

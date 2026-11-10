@@ -72,7 +72,6 @@ open_questions:
   - 'The sources do not say whether marijuana contributed to the infant''s death: the sheriff described fatal injuries, while NBC4 calls the case a marijuana death and quotes the drug counts.'
   - The indictment does not state how much marijuana was involved or whether the juvenile named in the drug counts is the infant.
   - No trial date or outcome is reported; the parents have pleaded not guilty and McCallister had not been arrested when the reports were published.
-  - The news pages carry booking photographs and a generic image rather than a photograph of the arrests or court proceedings, so no media is listed.
   - All three accounts draw on statements from the Athens County Sheriff's Office and prosecutor's office; no court filing was opened.
   - 'Left out, as its quotation was not found in WTAP: The sheriff''s office arrested the girl''s parents while the third defendant remains at large.'
   - 'Left out, as its quotation was not found in WTAP: Justin Dye, 25, and Hannah Edinger, 29, were arrested on 28 October and each faces a felony child-endangering charge.'

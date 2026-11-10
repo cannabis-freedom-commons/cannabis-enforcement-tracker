@@ -55,7 +55,6 @@ sources:
     date: 2026-08-12
     language: pt
 open_questions:
-  - The only published photo described in the capture shows the DOF building facade, not the car, drugs or arrests, so no media entry is added.
   - Both opened accounts are from Campo Grande News, the second a follow-up on the custody hearing; no independent agency statement was opened.
   - Coordinates use the centre of Maracaju because the exact stop on MS-164 near Vista Alegre district is not mapped.
   - 'The driver''s knowledge of the drug is disputed: the passenger said he did not know, while officers cited his shifting account about inspecting luggage.'

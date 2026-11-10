@@ -62,7 +62,6 @@ sources:
     date: 2026-11-05
     language: hi
 open_questions:
-  - The Bhaskar page photo has no caption or alt text establishing what it shows, and the other pages' images likewise do not identify this seizure, so no media entry is included.
   - No court outcome beyond the arrest and FIR registration was reported.
 ---
 

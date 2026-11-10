@@ -45,7 +45,6 @@ sources:
 open_questions:
   - No charges, court proceedings or outcomes for Ilori and Abosede were reported.
   - The same NDLEA statement reports other seizures and arrests in Lagos, Borno, Kwara, Jigawa and at Apapa port; those are separate events left out of this report.
-  - No photo caption ties the published images to the Ibadan arrest, so no media entry is added.
 ---
 
 Operatives of the National Drug Law Enforcement Agency arrested wanted

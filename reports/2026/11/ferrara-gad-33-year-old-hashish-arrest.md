@@ -53,7 +53,6 @@ open_questions:
   - The suspect was identified only as a 33-year-old man, with no name published.
   - No action against the buyer beyond being stopped was reported; he said the hashish was for personal use.
   - No court outcome beyond the pending validation hearing was reported.
-  - The available page images are archive or generic police photos not established to show this seizure, so no media entry is included.
 ---
 
 State Police arrested a 33-year-old man on suspicion of drug dealing after

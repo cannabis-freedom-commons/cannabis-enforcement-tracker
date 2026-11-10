@@ -62,7 +62,6 @@ open_questions:
   - The 58 grams of marijuana were seized in the earlier 2026 arrest, not at the warrant service on 6 November 2026, and the report records them as the case's cannabis quantity.
   - No charge sheet or trial outcome was reported; the man was arrested on a preventive detention warrant and remained at the court's disposal.
   - The 19-year-old was not named, and the neighbourhood where the warrant was served on 6 November is not stated, only the municipality.
-  - The Cadaminuto page image is a stock photo of a Civil Police vehicle and does not show this arrest, so no media is linked from that page.
   - The 7Segundos photograph's caption says it shows the arrest but names no location and is not clear about which of the case's two detentions it shows.
 ---
 

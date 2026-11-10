@@ -41,7 +41,6 @@ open_questions:
   - No weight was published for the single handmade cigarette, so no cannabis quantity in kilograms can be recorded.
   - No separate cannabis charge was reported; the continued detention was stated as execution of the child-support warrant, and any later court outcome is unknown.
   - Only one accessible source for this event was found after searching in Portuguese.
-  - The page carries a photo without a caption establishing that it shows this seizure, so no media entry is included.
   - The article was published on 4 November 2026 and dates the incident to the afternoon of Tuesday the 3rd, which is used as the incident date.
 ---
 

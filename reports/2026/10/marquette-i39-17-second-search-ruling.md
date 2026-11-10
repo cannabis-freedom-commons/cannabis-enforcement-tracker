@@ -39,7 +39,6 @@ open_questions:
   - The ruling is given as October 29 without a year in the text; 2026 is inferred from the 2 November 2026 publication date.
   - The article does not state the exact state charges, the dismissal date, or whether the roadside detention was recorded as a formal arrest.
   - The damages trial had not occurred at publication, so any award to Burnside is not yet known.
-  - The page's gavel image is generic and does not show this stop, search or seizure, so no media entry is added.
 ---
 
 A federal judge in Wisconsin ruled that a sheriff's deputy violated a driver's

@@ -42,7 +42,6 @@ sources:
 open_questions:
   - Only one source could be found for these operations.
   - No grower was found and no arrest, charge or court outcome is reported.
-  - The article's photograph is labelled as an illustration, so no media is listed.
   - The five sites span the island and could not each be geolocated, so the map marks the country.
 ---
 

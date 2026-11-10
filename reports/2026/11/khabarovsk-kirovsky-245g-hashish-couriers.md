@@ -60,10 +60,8 @@ sources:
     language: ru
 open_questions:
   - The article gives no separate date for the detention; 9 November 2026 is its publication date and is used as the incident date.
-  - The only image on the page carries a caption repeating the headline and cannot be confirmed to show this event, so no media entry is included.
   - The accounts give no separate date for the detention; 9 November 2026, the publication date of all three texts, is used as the incident date.
   - The charge classification and the 20-year maximum come from the statement as reproduced by Moi Altai; the earlier accounts named article 228.1 without parts, so the exact classification may still change as the investigation proceeds.
-  - The submitted page's only image is a 2015 police-chevron stock photo credited to Медиасток.рф, so no media entry is added.
   - This page gives no separate date for the detention; 9 November 2026 is its publication date and is used as the incident date.
   - The report count and article number of the charge are not given on this page; it states only that a criminal case was opened.
   - The page's photo is credited to the regional police department but captioned only with the headline, so what it actually depicts is not described.

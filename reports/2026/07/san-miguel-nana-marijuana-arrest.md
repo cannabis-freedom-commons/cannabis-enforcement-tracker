@@ -55,9 +55,7 @@ open_questions:
   - The 2,500 grams valued at $8,000 belongs to Iliana Iveth Chávez Hernández's separate May detention and is excluded from this report's figures.
   - No separate raid date was published; 24 July 2026, the publication date of the first corroborating account for a Friday procedure, is used as the incident date.
   - No court outcome beyond provisional detention has been reported; the minister's warning of a decade behind bars is not an imposed sentence.
-  - The submitted page's photograph is a January 2024 file image captioned about a 2003 record, not shown to depict this seizure, so no media entry is included.
   - All accounts repeat the official police and minister version; no statement from the detainee was published.
-  - The submitted page's lead account of Salvadoran Marvin Alexander Rodríguez captured in Guatemala for coordinating unspecified drug transport is a separate event left out here because no cannabis component was established.
 ---
 
 National Civil Police officers captured Milton Orlando Hernández Alfaro, alias

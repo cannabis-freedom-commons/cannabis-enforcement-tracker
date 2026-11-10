@@ -56,7 +56,6 @@ open_questions:
   - The reports give no street value for the 6.329 kg of ganja and do not say where it came from or where Rajbhar was taking it.
   - No remand, court appearance or sentence was reported; the accounts say only that police registered a case and began legal proceedings.
   - Hindustan says only that a case was already registered against Rajbhar at the police station, while Dainik Bhaskar identifies it as a Gambling Act case.
-  - No captioned photograph of the arrest or the seized ganja was published, so no media link is included.
 ---
 
 Muhammadabad police arrested 25-year-old Jaiprakash Rajbhar on Friday 30 October

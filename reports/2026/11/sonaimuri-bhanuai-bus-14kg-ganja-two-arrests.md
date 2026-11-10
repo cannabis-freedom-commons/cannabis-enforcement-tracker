@@ -73,7 +73,6 @@ open_questions:
   - Bangladesh Pratidin says the men brought the ganja from Brahmanbaria while describing the bus as running from Sylhet to Noakhali, and Noakhali Media also has the bus coming from Sylhet.
   - The narcotics department gave no value estimate for the 14 kilograms.
   - Noakhali Media gives the bus registration number and a raid window of about 7:30 pm to 8:30 pm beside a madrasa; the submitted report gives neither.
-  - 'No captioned photograph of the seizure could be confirmed: the submitted page carries only a headline-captioned graphic and the Noakhali Media image has no caption, so no media entry is listed.'
   - Channel 24 published a headline about two arrests in a bus operation in Noakhali, but its page returned only the headline and was not used.
   - Talash BD, like the two accounts already cited, traces its story to the Department of Narcotics Control's Noakhali district office, so it is not independent reporting of the operation.
   - Talash BD gives no value estimate for the 14 kilograms and reports no court hearing, custody decision or plea.

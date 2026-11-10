@@ -69,9 +69,6 @@ open_questions:
   - Only one accessible source for this event could be opened, so no independent second account confirms the figures.
   - The report does not specify whether the 14.8 kg is the fresh green weight of the 16 plants or dried cannabis.
   - No court outcome beyond registration of the NDPS Act case is reported.
-  - The page displays a lead photograph with no caption, alt text or credit identifying what it shows, so no media entry is added.
-  - The submitted page spells the surname as सातपुते while the existing report uses Satpute by transliteration.
-  - The page carries a lead photo captioned only with the headline, which does not establish that it shows this seizure, so no media entry is added.
 ---
 
 Sainkheda police arrested farmer Yuvraj Satpute, aged 40, who owned an ancestral

@@ -54,7 +54,6 @@ sources:
     date: 2022-02-11
 open_questions:
   - Only one accessible source for this sentencing was found after searching the defendants' names, Point-a-Pierre, the weight and related terms; no agency statement or second outlet account could be opened.
-  - The page image is labelled as a file photo and is not shown to depict this seizure, so no media entry is included.
   - No street value, laboratory breakdown, or fate of the pirogue and kegs beyond examination was published.
   - No appeal, place of detention, or later court outcome was reported.
 ---

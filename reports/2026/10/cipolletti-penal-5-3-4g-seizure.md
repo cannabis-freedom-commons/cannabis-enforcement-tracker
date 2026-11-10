@@ -42,7 +42,6 @@ open_questions:
   - The sources give no separate calendar date for the night patrol beyond a round starting at 21:00 described as 'anoche' in the 30 October official account; 30 October 2026 is used as the incident date.
   - No suspect was named and no arrest or detention was reported.
   - No charge or court outcome was reported.
-  - The submitted page's captioned photo is labeled as file/archive material and the second page image has no caption confirming this seizure, so no media entry is listed.
 ---
 
 Provincial prison officers intercepted a package of cannabis that had been

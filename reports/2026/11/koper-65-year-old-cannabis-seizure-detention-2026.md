@@ -53,7 +53,6 @@ open_questions:
   - No value estimate, charge wording or court outcome was reported; police said only that a payment order and a fast-track procedure would follow.
   - The man is identified only by age, with no name, nationality or residence published.
   - The two cited pages carry the same Koper Police Administration daily report, so they are not independent accounts.
-  - 'The submitted page''s photo is captioned as symbolic (Fotografija je simbolična, Foto: arhiv PN) and does not show this event, so no media entry is given.'
   - The same round-up reports a separate Koper traffic stop where a 52-year-old driver tested positive for cannabis and cocaine; that is a different event and is not covered here.
   - The round-up's lead story, a collision that injured a Hungarian runner in Malija on 7 November, is a separate event left out of this report.
 ---

@@ -44,7 +44,6 @@ sources:
     date: 2026-09-27
 open_questions:
   - The submitted Guyana Chronicle page could not be read because it returned a Sucuri geo-block, so this report relies on the two accessible accounts of the same incident.
-  - Both accessible pages display a photo of the seized suspected cannabis, but no direct image address was recovered, so no media entry is included.
   - No charge or court outcome was reported.
 ---
 

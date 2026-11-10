@@ -58,7 +58,6 @@ open_questions:
   - The cannabis weight is reported as approximate (about 300 grams), so 0.3 kg is an approximate recorded figure.
   - The man's name and the exact settlement or address were not published, only his age and district.
   - No police statement itself could be opened; both outlets attribute their accounts to the regional police.
-  - The photos on both pages are captioned only with the story headline or as seized cannabis and are not established to show this seizure, so no media entry is included.
 ---
 
 Police investigators in Volgograd Oblast sent the criminal case against a

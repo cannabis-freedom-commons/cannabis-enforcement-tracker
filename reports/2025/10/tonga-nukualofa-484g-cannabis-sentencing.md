@@ -44,7 +44,6 @@ open_questions:
   - The article is paywalled beyond its summary, so the full sentencing remarks, any additional counts against Finau, and the circumstances of the seizure were not available.
   - The amount of cannabis attributed to co-offender Lesieli Makasini was described only as a lesser amount and no weight was published.
   - The article gives no separate date for the sentence; 2 October 2025 is its publication date and is used as the incident date.
-  - The page's image is a prison-van photograph first uploaded in 2019 and is not confirmed to show this event, so no media entry is included.
 ---
 
 Kilisitina Finau, aged 34, is serving two years in prison on charges including

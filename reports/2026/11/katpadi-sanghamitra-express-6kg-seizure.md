@@ -41,7 +41,6 @@ open_questions:
   - The article published on 3 November 2026 says the search covered the train that arrived the day before yesterday, so 1 November 2026 is used as the incident date by inference.
   - No arrest, owner, value, or origin and destination beyond the Danapur-Bengaluru train route was reported.
   - Only one source for this event could be opened and no second corroborating report was found.
-  - The page carries images captioned only as featuredImage or with no caption and no credit establishing that they show this seizure, so no media entry is added.
 ---
 
 Officers of the Vellore district anti-drug unit searched the front and rear

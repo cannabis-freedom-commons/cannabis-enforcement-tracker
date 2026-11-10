@@ -52,7 +52,6 @@ open_questions:
   - The text does not say where in Kuwait the arrests or house searches took place.
   - The 415 grams of shabu and the 175 'chemical'-soaked sheets are non-cannabis substances excluded from the cannabis weight, and the substance on the sheets is not identified further.
   - The article names no charges by statute and gives no court outcome; the suspects had been referred to the prosecution.
-  - The page's single photograph carries a caption naming the female suspect and her partner but no credit, so no media entry is included.
 ---
 
 Kuwait's General Department for Drug Control referred six suspects, one of them

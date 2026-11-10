@@ -69,7 +69,6 @@ open_questions:
   - kg_seized records only the 300 grams found in the 57 bags; the further 22 grams the man threw away during his flight is a separate approximate amount and is not added to it.
   - The 16 cocaine pellets are outside the tracker's scope and no weight for them is reported, so no cocaine figure is recorded.
   - No age, nationality, charge under a named provision or later court outcome for the man was published in the two accounts.
-  - The submitted page is an English translation of the RTL Infos French report, and both reproduce the same police account, so the two are not independent reporting; the police bulletin itself could not be opened.
   - The photos on both RTL pages are credited only to the Luxembourg police, with no caption stating what they show.
 ---
 

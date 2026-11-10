@@ -55,7 +55,6 @@ open_questions:
   - No trial date, charge sheet or court outcome beyond remand in preventive detention was published.
   - The stated Libreville recipient is the suspects' account to police and remains unverified.
   - Only French-language accounts of this event could be opened.
-  - The submitted page carries a photo with no caption or credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Anti-drug police arrested Congolese national Jonathan Alandji at Franceville,

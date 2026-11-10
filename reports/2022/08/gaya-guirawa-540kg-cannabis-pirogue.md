@@ -40,7 +40,6 @@ sources:
 open_questions:
   - No number or identity of the people involved was published, so no arrests, charges or court outcome can be recorded.
   - Only one accessible source for this event was found after searching in French, so independent corroboration was not possible.
-  - The page carries a photo captioned only Chanvre indien with no credit establishing that it shows this seizure, so no media entry is included.
   - The article also describes a separate 11 August 2022 seizure of 81 bricks of cannabis plus tablets, a different event left out of this report.
   - No valuation of the seized cannabis was published.
 ---

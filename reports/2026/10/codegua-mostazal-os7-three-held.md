@@ -63,7 +63,6 @@ open_questions:
   - No estimate of the drugs' value was published; the 918,200 pesos was cash seized in the raids.
   - The reports give no charges, court decision or precautionary measures from the detention hearing.
   - Both accounts repeat the same Carabineros statement; no police or prosecutor release, and no independent reporting, was found.
-  - Only the two pictures on the submitted page are listed; another outlet's uncaptioned photo of the operation could not be checked against them.
 ---
 
 Carabineros' OS-7 anti-drug unit for Cachapoal detained three people in searches

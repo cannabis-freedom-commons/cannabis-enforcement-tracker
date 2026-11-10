@@ -49,7 +49,6 @@ open_questions:
   - The 7.2 kg total and TT$135,000 combined value are sums of the two separately reported seizures of 5.4 kg and 1.8 kg.
   - No charges, court appearance or further outcome for the arrested man were reported.
   - Only one account of this event could be opened, so the report rests on the Guardian account of the police operations.
-  - The page image carries no caption establishing that it shows this seizure, so no media entry is included.
 ---
 
 Police arrested a 34-year-old man from Enterprise during intelligence-led

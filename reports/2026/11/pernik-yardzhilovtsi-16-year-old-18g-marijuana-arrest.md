@@ -52,7 +52,6 @@ open_questions:
   - No street value was published for either seizure.
   - The field tests identified marijuana on site; no laboratory confirmation is reported.
   - No charges beyond the fast-track proceedings, no custody ruling and no court outcome were reported.
-  - The submitted page's photo is captioned for a separate 2024 case about men detained in Sandanski, Bansko and Blagoevgrad, so it is not used and no media entry is included.
 ---
 
 Police in Pernik Province detained a 16-year-old boy in the village of

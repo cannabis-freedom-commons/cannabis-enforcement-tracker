@@ -46,7 +46,6 @@ open_questions:
   - The court gives no date for the arrest or seizure and does not say where the drugs were found or which agency seized them.
   - The convicts are not named, and the report says nothing about an appeal or ratification of the death sentence; no execution is reported.
   - The Captagon and hashish figures appear only as a combined haul, but the two weights are stated separately, so only the 96 kilograms of hashish is recorded as cannabis.
-  - No photo showing the ruling, the convicts, the court or the seized hashish was available; the page uses an AFP file photo of Captagon pills, so no media entry is added.
 ---
 
 The Karkh Criminal Court in Baghdad sentenced two convicted drug traffickers to

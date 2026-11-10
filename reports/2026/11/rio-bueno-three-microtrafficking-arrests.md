@@ -51,7 +51,6 @@ open_questions:
   - No weight or count was published for the marijuana in papelillos, so no cannabis quantity is recorded.
   - The incident date uses the 1 November 2026 publication date; the article says only 'in the last hours', while a local account published 31 October 2026 describes the same operation.
   - No names were published and no outcome of the two detention-control hearings was reported.
-  - No media is listed because the BioBioChile image is labelled 'CONTEXTO | Agencia UNO' and the local page image lacks caption or credit confirming it shows this seizure.
   - The local account describes three people inside a vehicle plus a woman outside, while the other two accounts say the detainees were two men and a woman; the report uses the shared figure of three detainees.
 ---
 

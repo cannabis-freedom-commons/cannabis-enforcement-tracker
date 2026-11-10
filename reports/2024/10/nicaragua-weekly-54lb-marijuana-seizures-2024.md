@@ -56,7 +56,6 @@ open_questions:
   - The Jinotega account reports 6 pounds of marijuana for two detainees without saying whether it is a combined total or per person; the report treats it as a combined 6 pounds.
   - No charges, court steps or outcomes beyond detention were reported.
   - The incident date used is 6 October 2024, the end of the 30 September to 6 October operation week.
-  - The submitted and corroborating pages carry police-presentation photos with generic captions that do not identify the seizures shown, so no media entry is listed.
 ---
 
 Nicaragua's National Police detained 29 people for dangerous crimes across the

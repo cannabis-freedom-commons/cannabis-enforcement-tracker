@@ -78,9 +78,6 @@ open_questions:
   - Customs is quoted throughout, but the Delhi Customs statement itself or its X post for these two cases could not be opened, so the account rests on the two Hindi news reports.
   - Times Now Navbharat rounds the combined value to Rs 3.3 crore, while Janbhawna Times gives Rs 3.33 crore for the same 9,528.7 g; the report uses the Rs 3.33 crore figure consistently with the two case values (Rs 2.29 crore and Rs 1.04 crore).
   - The lead image on the Times Now Navbharat page is captioned as an AI-generated picture and the Janbhawna Times image carries no caption tying it to the seizure, so neither is listed as media.
-  - The NewsX page reports only the TG331 woman with about 6.5 kg; it does not mention the second 30 October case on flight TG315 with 2,988.7 g recorded in the existing report.
-  - The report's figures cover only the 2,988.7 g case; the combined 9,528.7 g total in the existing report sums this and the separate 6,540 g TG331 case.
-  - The Tribune names no flight; the TG315 flight number comes from the existing report's Hindi sources.
   - The woman's name, age, nationality and any remand or charge-sheet step remain unpublished.
   - The Tribune gives the quantity as 2,988.7 g while the headline rounds it to 3 kg; the measured net weight is used.
   - Dinamalar gives the second case's value as Rs 1.4 crore, against about Rs 1.04 crore in The Tribune and a combined Rs 3.33 crore in the Hindi reports; the tracker uses the customs-valued figures.

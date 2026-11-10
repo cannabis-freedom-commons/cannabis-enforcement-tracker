@@ -57,8 +57,6 @@ open_questions:
   - The exact time of day of the 1 November arrest was not published.
   - The source and intended recipients of the ganja in Faridabad are still under investigation and were not published.
   - No court outcome beyond the six-day police remand was reported.
-  - The submitted page carries a photo whose file path dates to 2021 and whose caption does not establish that it shows this seizure, so no media entry is added.
-  - The page carries a photo but its caption and alt text are empty, so whether it shows this seizure could not be established and no media entry is added.
 ---
 
 Faridabad's Crime Branch arrested two young men from Bihar with 21.320 kg of

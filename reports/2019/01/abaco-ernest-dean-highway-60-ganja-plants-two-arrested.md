@@ -68,7 +68,6 @@ open_questions:
   - The reports give no weight for the plants and no figure for the stolen items or their value.
   - The exact spot off Ernest Dean Highway is not named, so the district centre of Abaco is used for the coordinates.
   - The value of $30,000 is a police estimate and the currency is not stated; Bahamian dollars are assumed.
-  - No photo of the plants or the scene could be confirmed on the opened pages, so no media entry is added.
 ---
 
 Police and immigration officers acting on information went to an area off Ernest

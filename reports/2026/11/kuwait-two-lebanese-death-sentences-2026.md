@@ -74,13 +74,10 @@ sources:
 open_questions:
   - The articles give only publication dates of 1 and 2 November 2026; 1 November 2026 is used as the ruling date, with Al-Anba describing the ruling as issued “yesterday”.
   - No arrest location or separate dates for the arrests and seizure were published.
-  - The submitted page’s main image has no caption identifying its content, so no photo can be verified as showing this event and no media entry is listed.
   - The same articles also report a separate death sentence for an Indian defendant over psychoactive-soaked A4 sheets, a non-cannabis event excluded from the cannabis figures.
   - The Al-Anba article also reports a separate life sentence and fine for a woman over psychotropic substances, a different event left out here.
   - Whether the death sentences are final or subject to appeal was not reported.
-  - The page carries a lead image with no caption identifying its content, so whether it shows this event could not be established and no media entry is added.
   - The Telugu page does not identify the narcotic solution on the 100 paper sheets in the Indian shoe-carton case as cannabis, so that case is left out of cannabis figures.
-  - The page's lead image caption only repeats the headline and does not establish that it shows this seizure, so no media entry is listed.
 ---
 
 Kuwait’s Criminal Court sentenced two Lebanese nationals to death for

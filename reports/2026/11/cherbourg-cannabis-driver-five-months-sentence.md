@@ -43,7 +43,6 @@ open_questions:
   - The driver said he had consumed CBD the day before while the saliva control was positive for cannabis; no laboratory distinction was published.
   - The reason the defendant was in detention at the time of the hearing was not published.
   - 3 November 2026 is the hearing and sentencing date; 4 November 2026 is the article publication date.
-  - The page image is captioned as an illustration and is not established to show this stop or hearing, so no media entry is included.
 ---
 
 On 3 November the judicial court in Cherbourg-en-Cotentin tried a 35-year-old

@@ -115,18 +115,11 @@ open_questions:
     cannabis-only value is recorded.
   - Methamphetamine, ecstasy and etomidate quantities are left out of figures under the cannabis-only scope.
   - >-
-    The submitted page carries an image without a caption or credit establishing that it shows this seizure,
-    so no media entry is included.
-  - >-
     No case-by-case seizure places are published beyond the joint Polda Lampung and South Lampung operation
     and the Medan-Bandung route via Bakauheni.
-  - The submitted article dates the police statement to Thursday, 5 November 2026, while the existing report uses a 4 November 2026 press conference as the incident date; whether these are successive announcements of the same October operation is not resolved.
-  - The submitted page's images are captioned only with the police chief's name and a generic October-case headline credited as Istimewa, so no photo can be confirmed to show this seizure and no media entry is listed.
   - The fifth case in the five-case announcement lies outside South Lampung police's four reports, and these accounts publish no suspects, weights or places for it.
   - Police give two separate valuations, Rp43,480,300,000 for the South Lampung four cases and Rp125,123,200,000 for all five; both cover methamphetamine, ecstasy and etomidate as well as ganja, so no cannabis-only value is recorded.
-  - The submitted page attributes the 177,202-people estimate to the four South Lampung cases, while earlier accounts of the same announcement put the five-case figure at 429,683.
   - No suspect names, ages or court outcomes are published for the ganja cases.
-  - The submitted page's single image has no caption or credit identifying it as this event's evidence, so no media entry is added.
 ---
 
 Lampung police reported ten suspects detained in five October cases and 33.1 kilograms of cannabis seized. [@1,2,3,4]

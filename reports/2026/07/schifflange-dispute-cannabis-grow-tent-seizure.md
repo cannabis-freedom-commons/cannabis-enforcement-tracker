@@ -48,7 +48,6 @@ open_questions:
   - The reports say only several containers and telephones, without exact numbers.
   - No arrests, charges or names were reported; only a second suspect and an ongoing investigation were described.
   - The incident spanned the night of 20 to 21 July 2026; 21 July is used as the incident date.
-  - The Virgule page image is captioned as an illustration from Shutterstock and does not show this event, so no media entry is included.
 ---
 
 On the night of 20 to 21 July 2026, officers of Luxembourg's Grand-Ducal Police

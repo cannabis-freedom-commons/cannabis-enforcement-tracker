@@ -43,8 +43,6 @@ open_questions:
   - Both accounts repost the 26 October 2023 Europol release; no independent press
     coverage of the action day beyond the OCCRP summary was recovered.
   - The release gives no breakdown of where in Italy or Spain the searches took place.
-  - A photo on one repost could not be verified as showing this operation, so no
-    media is listed.
   - Europol's release is the origin of the two reposts already cited by the report, so it is not independent corroboration of the operation's details.
   - The four pictures published with the release are not captioned beyond their file names, so it is not clear what each shows; only one is listed in media.
 sources:

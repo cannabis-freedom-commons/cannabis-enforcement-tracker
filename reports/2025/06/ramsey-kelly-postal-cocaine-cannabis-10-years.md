@@ -57,14 +57,10 @@ open_questions:
   - Isle of Man Today values the parcel cannabis at £39,732 and the cocaine at £51,294; figures record only the separately stated parcel cannabis value.
   - The BBC values the 58 wraps at about £1,000 while Manx Radio gives 58.4 grams worth £1,168; the report uses the precise weight and the combined cannabis weight of 2.0444 kilograms.
   - No separate sentencing hearing date was published; 16 June 2025 is the BBC publication date used as the incident date, while the Braddan interception on 14 October and the partner-home search on 12 October were in 2024.
-  - The BBC page images show the Douglas Courthouse exterior and a police mugshot portrait, not the parcel, cannabis, search or interception, so no media entry is included.
   - Only the explicit arrest of the other occupant is counted; Kelly handed himself in and was remanded, and cocaine quantities are excluded from cannabis figures.
   - 'Left out, as its quotation was not found in Isle of Man Today: The parcel contained 1,986 grams of cannabis valued at £39,732 and 512.94 grams of cocaine valued at £51,294.'
   - 'Left out, as its quotation was not found in Manx Radio: The 58 wraps weighed 58.4 grams and were worth £1,168.'
-  - The BBC values the contents at more than £50,000 and then again at nearly £40,000, both times calling it cannabis; the existing report established that the higher figure is the cocaine value, and the BBC's second figure matches the £39,732 parcel cannabis value.
-  - The BBC gives the defence advocate's drug-debt figure as £15,000 to £20,000, while the existing report records Kelly telling police of a debt between £10,000 and £20,000.
   - The BBC gives no separate date for the sentencing hearing; 16 June 2025 is its publication date.
-  - The BBC photo captions identify Lewis Kelly, but the existing report lists no media for this case; the two submitted images are portrait and sentencing-photo assets rather than depictions of the parcels or the wraps.
 ---
 
 A man who had cocaine and cannabis sent through the post while sofa-surfing was

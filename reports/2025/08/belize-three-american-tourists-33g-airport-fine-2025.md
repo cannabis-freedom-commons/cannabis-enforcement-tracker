@@ -66,7 +66,6 @@ open_questions:
   - Love FM gives one combined $300 fine for each woman without naming the currency; it is recorded as Belize dollars, the currency in which Belize courts report fines.
   - Neither account names the total weight, which is the sum of the three seized amounts stated by police (0.03276 kg).
   - No street value was published for the cannabis.
-  - The image on the submitted page was uploaded to the outlet's site in September 2019, years before this event, so it is not listed as media for this report.
   - WIC News spells the three women's middle names and home cities, which are not repeated here.
   - The total fine of $915 is the sum of the three $300 fines and the three $5 court costs stated by Love FM.
 ---

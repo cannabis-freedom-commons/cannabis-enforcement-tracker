@@ -72,27 +72,17 @@ sources:
 open_questions:
   - The 5.35 grams of cocaine are mentioned only to explain the mixed case and are excluded from cannabis figures.
   - The seized cash of 1,760 euros plus 8,285 euros is suspected proceeds, not a drug valuation, and is therefore not recorded in figures.
-  - The page's only relevant image is captioned as a stock photo, so no media entry is included.
   - The suspect is identified only by the initials J.D.B., and the girl present is not identified.
   - Only one accessible source for this event was found after searching in Italian.
   - No court outcome beyond the expected validation hearing was reported.
-  - The two new accounts call the suspect 24 while the existing report records 25-year-old J.D.B., so the age and identification remain as previously recorded.
-  - The new accounts give about 180 grams of hashish in two blocks while the existing report details 76 grams plus 100 grams totalling 176 grams, so the detailed breakdown is retained and the rounded total is not added to figures.
-  - The new accounts report two precision scales while the existing report records one electronic scale, so the scale count is left as previously recorded.
   - The new accounts do not mention the 167 district, the girl present, the refrigerator, sweatshirt, table, pouch, knives, wardrobe metal box, car check, lawyers or validation hearing, which remain supported only by the earlier source.
   - The cash of more than 10,000 euros is described as suspected dealing proceeds, not a drug valuation, and is therefore not recorded in figures.
-  - The submitted page's only relevant image is captioned Foto stupefacenti logo and does not establish that it shows this seizure, so no media entry is included.
   - The new page calls the suspect 24 while the report records 25-year-old J.D.B., so the existing identification is retained.
   - The new page gives about 180 grams of hashish in two blocks while the report details 76 grams plus 100 grams totalling 176 grams, so the detailed breakdown is retained.
   - The new page reports two precision scales while the report records one electronic scale, so the scale count is left unresolved.
   - The new page omits the 167 district, refrigerator, sweatshirt, table, pouch, knives, wardrobe metal box, car check, prosecutor order, lawyers and validation hearing, which remain supported only by earlier sources.
-  - The new page calls the suspect 24-year-old Juri Dell’Anna while the existing report records 25-year-old J.D.B., so the identification discrepancy remains unresolved.
-  - The new page gives about 180 grams of hashish in two blocks while the existing report details 76 grams plus 100 grams totalling 176 grams, so the detailed breakdown is retained.
-  - The new page reports two precision scales while the existing report records one electronic scale, so the scale count remains unresolved.
   - The new page does not mention the 167 district, the girl present, the refrigerator, sweatshirt, table, pouch, wardrobe metal box, car check, prosecutor order, lawyers or validation hearing, which remain supported only by earlier sources.
-  - The page's only image file is named foto-stupefacenti-logo.jpg with the caption Il materiale sequestrato., which does not establish that it shows this seizure, so no media entry is included.
   - This Il Gallo account calls the suspect 24 and reports about 180 grams of hashish in two blocks with two precision scales, differing from the report's 25-year-old J.D.B., 76 plus 100 grams totalling 176 grams, and one electronic scale.
-  - The page's image has empty alternative text and no caption establishing that it shows this seizure, so no media entry is included.
 ---
 
 Anti-drug police raided a building in Lecce's 167 district on the afternoon of

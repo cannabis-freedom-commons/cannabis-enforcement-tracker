@@ -42,8 +42,6 @@ open_questions:
     after the ambassador's Monday 7 October 2024 meeting; 8 October 2024 is used here
     as the incident date.
   - No charges, court outcome or action against the factory's licence were reported.
-  - No photo of the raid that could be verified as showing this event was recovered,
-    so no media is listed.
 sources:
   - title: "Thailand: Buriram cannabis factory raided for illegal Vietnamese staff as drugs czar declares a new regime"
     url: https://cannabislaw.report/thailand-buriram-cannabis-factory-raided-for-illegal-vietnamese-staff-as-drugs-czar-declares-a-new-regime/

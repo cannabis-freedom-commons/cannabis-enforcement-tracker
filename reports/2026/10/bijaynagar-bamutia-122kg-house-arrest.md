@@ -62,7 +62,6 @@ open_questions:
   - No street value, weighing details, or specific charge sections beyond a Narcotics Control Act case were published.
   - No court outcome was reported; further legal action was described as pending.
   - The main report gives no age for Ripon Mia and writes '(নাম)' after his name; the age of 28 comes only from the aggregator account.
-  - The Channel S page photo caption only repeats the headline and does not describe the seized bundles, so no media entry is added for this source.
 ---
 
 Police arrested one person in Bijaynagar after recovering 122 kg of ganja from a

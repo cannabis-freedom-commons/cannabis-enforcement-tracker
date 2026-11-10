@@ -63,7 +63,6 @@ open_questions:
   - The men were sent to jail after a first court appearance; no plea, charge hearing or sentence was reported.
   - Jagran describes the case as a large charas-smuggling racket but gives no details of the network beyond the five arrests.
   - Only Hindi-language local outlets reported the arrest; no police press release or court record was found.
-  - The lead photograph on the submitted page has no caption or credit, so its exact setting could not be confirmed.
 ---
 
 Champawat police arrested five men under Operation Prahar, an anti-drug

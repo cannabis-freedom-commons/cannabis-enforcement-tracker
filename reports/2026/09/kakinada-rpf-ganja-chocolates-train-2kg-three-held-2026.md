@@ -48,7 +48,6 @@ open_questions:
   - The page does not say whether the three were charged, which unit stopped them, or how the ganja chocolates were being carried.
   - The two kilograms may be the weight of the chocolates rather than of the ganja in them; the page says only two kilograms of ganja.
   - The figure table on the page is an image whose text could not be quoted, so the district statistics it shows are not used.
-  - The page links an undated photo captioned with police beside seized ganja sacks; it cannot be tied to the train arrest, so no media is listed.
   - Only one account of the train arrest was found; the RPF statement and other outlets did not report it in the searches made.
 ---
 

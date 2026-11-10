@@ -45,7 +45,6 @@ open_questions:
   - No weight or quantity was published for the suspected marijuana, so no kilogram figure is recorded.
   - The material is described only as suspected marijuana, with no laboratory confirmation reported.
   - No plea, custody ruling or court outcome beyond the charges and handover to police was reported.
-  - The page images carry no caption tying them to this seizure, so no media entry is added.
 ---
 
 Customs officers at Apia Wharf intercepted two Samoan men aged 25 and 42,

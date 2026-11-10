@@ -35,7 +35,6 @@ tags: [dispensary, dea]
 open_questions:
   - The opened sources give no figures for cannabis or cash seized and no later charging decision.
   - The San Bernardino Sun original is no longer reachable, so its account was read through the two opened reports that reproduce it.
-  - The CrimeVoice article displayed storefront photos, but their direct image addresses could not be recovered, so no media entry was added.
 sources:
   - title: Multiple Agencies Raid Pot Dispensaries, Await State Court Ruling
     publisher: CrimeVoice

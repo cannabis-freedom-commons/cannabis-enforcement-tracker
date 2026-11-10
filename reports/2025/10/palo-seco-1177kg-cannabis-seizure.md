@@ -49,7 +49,6 @@ open_questions:
   - No arrests, charges or court outcome for the 1 October Palo Seco stash seizure itself were reported; the Tuesday associate arrest belongs to a separate seizure not counted here.
   - The combined TT$292.5 million daily total and TT$314.7 million two-day total mix cannabis and cocaine, so only the separately stated cannabis value is recorded.
   - The outlets describe leadership differently, one naming the Transnational Organised Crime Unit and the other the Vetted Unit as leading, so the report describes a joint operation.
-  - The Trinidad Express page image carries only the alt text coke with no caption or credit establishing that it shows this Palo Seco seizure, so no media entry is included.
 ---
 
 A joint intelligence-led operation involving the Transnational Organised Crime

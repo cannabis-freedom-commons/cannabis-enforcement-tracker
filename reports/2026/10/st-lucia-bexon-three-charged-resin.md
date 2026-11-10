@@ -46,7 +46,6 @@ open_questions:
   - Austinay's bail status and any outcome after the remand and charges were not reported.
   - The search took place on 29 September 2026 and the final charge on 2 October 2026, which is used as the incident date as the latest step.
   - Only one accessible source was opened for this event after searching for a second account.
-  - The page's handcuffs image is a generic stock photo from 2025 and does not show this seizure, so no media entry is included.
 ---
 
 Three people were charged with firearm, ammunition and controlled-drug offences

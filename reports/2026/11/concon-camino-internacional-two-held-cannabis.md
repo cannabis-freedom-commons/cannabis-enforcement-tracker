@@ -50,7 +50,6 @@ open_questions:
   - No charges, custody ruling or court outcome beyond placement at the tribunal's disposition were reported.
   - The same articles report a second, non-cannabis procedure in a house with notebooks, telephones and bicycles and two other detentions; that event is left out here and only the two cannabis-related detentions are counted.
   - The three accounts repeat the Carabineros version; no separate agency statement could be opened.
-  - No media entry is included because the available images carry only the generic article title as caption and do not establish that they show this seizure.
 ---
 
 Officers from Concón's 4th station, the 4ª Comisaría de Concón, carried out a

@@ -48,7 +48,6 @@ open_questions:
   - No separate date for the arrest was given; 6 November 2026 is the article's publication date and is used as the incident date.
   - No charge, remand order, court date or outcome was reported; the case was handed to Balanagar Excise Station.
   - Only one source for this event could be opened; searches for a second Telugu or English account found none.
-  - The page's only photo is captioned just Kukatpally and does not establish that it shows this seizure, so no media entry is included.
   - The article gives no value estimate for the seized ganja.
 ---
 

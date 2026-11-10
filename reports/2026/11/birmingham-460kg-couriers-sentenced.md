@@ -113,13 +113,10 @@ open_questions:
   - The court's reasoning for suspending Nelson's 30-month term is not reported in either account.
   - No figure for the amount of cannabis attributable to the final two couriers alone is given; the 460 kg is the gang's total seizure.
   - Birmingham Live gives Clarke's address as The Mile End in Walthamstow and Nelson's as Cheviot Road in Newquay; the report keeps only the towns.
-  - The Worcester News says two other couriers were convicted with Paige Crisp at the August trial, while the NCA update cited in the existing report says Jamal Clarke pleaded guilty at an earlier hearing.
   - The court's reasons for suspending Tasia Nelson's 30-month term are not given.
-  - Hits Radio says Nelson was sentenced alongside four other gang members, while the existing report records only Jamal Clarke as the other defendant sentenced that day; the discrepancy is unexplained.
   - The article was published on 9 November 2026 and says only that the hearing was "on Monday"; the date is taken as 9 November 2026.
   - This copy of the Falmouth Packet article was read on MSN; the original report cites the article at falmouthpacket.co.uk.
   - London Now reports the hearing only as "today (November 9)" and calls the arrival "August 2024" without a day.
-  - The Guardian Series gives Clarke's address as The Mile End, Walthamstow, while the existing report keeps only the town.
 ---
 
 On 22 October 2026, Birmingham Crown Court sentenced five members of a drug-smuggling gang that

@@ -52,10 +52,7 @@ open_questions:
   - The suspect's full name was not published, only his age and occupation as a delivery worker.
   - No charge, hearing or court outcome beyond flagrante detention was reported; the Civil Police telematic-data request was still pending.
   - The R$1,000 purchase price and intended R$75 price for 25-gram portions were reported, but no total seizure valuation was given, so no value is recorded.
-  - The page displays two images without captions or credits establishing that they show this seizure, including a 2024 military-police vehicle photo reused as the lead image, so no media entry is included.
   - Coordinates are for Presidente Prudente centre and do not pinpoint the apartment on Avenida Tancredo Neves.
-  - The new account says the cousin took officers to the kitchen and pointed out the drug on top of the refrigerator, while the existing report says the man himself indicated it, so the existing wording on who pointed it out is retained.
-  - The page shows a photo captioned as the drug on top of the refrigerator credited to Polícia Civil, but the direct image address could not be verified as distinct from the earlier outlet account, so no media entry is proposed.
 media:
   - kind: photo
     url: https://ifronteira.com/presidente-prudente/2717/ao-admitir-comprar-tablete-de-maconha-por-r-1-mil-homem-e-preso-em-flagrante-no-jardim-itatiaia

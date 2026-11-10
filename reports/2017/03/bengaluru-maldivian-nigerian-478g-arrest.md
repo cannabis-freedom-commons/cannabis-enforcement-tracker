@@ -43,7 +43,6 @@ open_questions:
   - The full name and nationality details of the Nigerian co-suspect were not published.
   - No charges, trial or sentencing outcome beyond judicial custody were reported.
   - The details of the alleged November 2016 Kempegowda airport hashish-oil smuggling, apart from Ahmed absconding since then, were not published.
-  - The page carries an image with no caption or alt text establishing that it shows this seizure, so no media entry is included.
   - The locality is spelled Chellikete in the article; it is treated as Chellikere, Bengaluru.
 ---
 

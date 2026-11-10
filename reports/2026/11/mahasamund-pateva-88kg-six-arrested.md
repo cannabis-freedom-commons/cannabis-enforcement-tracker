@@ -89,19 +89,8 @@ open_questions:
   - The sources spell the first accused's name Dande and Dandey; the report uses Dandey from the IANS account.
   - Whether the lead photo on the source page shows this seizure is not established.
   - The 88 kg figure is the police count from three plastic sacks; no independent weighing is reported.
-  - The submitted source spells the location as 'Patewa' while the existing report uses 'Pateva' for the same National Highway 53 blockade in front of Pateva police station.
   - The article gives only its publication date of 1 November 2026 and no separate day for the blockade and arrests.
-  - The article spells the location as Patewa while the existing report uses Pateva for the same National Highway 53 blockade in front of Pateva police station.
-  - The article calls the escort vehicle a car while the existing report identifies it as a Maruti Swift Dzire from another account.
   - The page photo caption says four smugglers were arrested while the article text reports six, so whether the photo shows this seizure is not established and it is not listed as media.
-  - The submitted page spells the location as 'Patewa' while the existing report uses 'Pateva' for the same National Highway 53 blockade in front of Pateva police station.
-  - The submitted page spells the location as Patewa while the existing report uses Pateva for the same National Highway 53 blockade in front of Pateva police station.
-  - The submitted page gives only its publication date of 1 November 2026 and no separate day for the blockade and arrests.
-  - The page carries a lead photo captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
-  - This page spells the location as Patewa while the existing report uses Pateva for the same National Highway 53 blockade in front of the police station.
-  - This page spells the first accused's name as Siddharth Dandey while the existing report uses Siddharth Dande in one sentence.
-  - The page carries a lead photo captioned Mahasamund Police in Chhattisgarh have arrested six persons, which does not establish that it shows this seizure, so no media entry is added.
-  - The Daijiworld page carries a lead image with no caption or credit identifying its contents, so it cannot be established to show this seizure and no media entry is added.
   - 'Left out, as its quotation was not found in Daijiworld: Police arrested six men, all residents of Maharashtra: three allegedly carrying the ganja and three travelling in the escort vehicle.'
 ---
 

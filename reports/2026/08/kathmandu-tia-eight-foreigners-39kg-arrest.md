@@ -47,7 +47,6 @@ sources:
 open_questions:
   - The report uses 17 August 2026, the arrival and interception date given by Nepal News; Nepal Live describes the arrests as on the night of Saun 32 and was published on Bhadau 2, corresponding to 18 August 2026, while Nepal News was published on 19 August 2026.
   - No charges, custody ruling or court outcome were reported; the investigation into drug-transport offences was still under way.
-  - The submitted page's lead image has an empty alt attribute, no caption and a March upload file that does not establish it shows this August seizure, so no media entry is included.
 ---
 
 Police arrested eight foreign nationals at Tribhuvan International Airport in

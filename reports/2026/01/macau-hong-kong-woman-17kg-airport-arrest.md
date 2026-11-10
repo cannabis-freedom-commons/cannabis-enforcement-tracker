@@ -56,7 +56,6 @@ open_questions:
   - The final destination of the drugs and any promised payment remained under investigation at the time of the briefing.
   - No court outcome, charge or detention decision was reported.
   - Only one accessible source for this event was found after searching in English.
-  - The page carries a photo without a caption or credit establishing that it shows this seizure, so no media entry is included.
   - The Chinese-language reports give the exact weight as about 17,311 grams, whereas the Macau Daily Times account already used by the report says 17.371 kilograms; the report keeps the figure it had.
   - The Public Prosecutions Office does not say when the judicial interrogation and detention order took place, only that they had happened by its 19 January 2026 statement.
   - Only the arrest and pretrial detention are known; no trial date or final sentence was reported.

@@ -43,7 +43,6 @@ open_questions:
   - The articles give no separate date for the interception; 13 August 2026 is the first article's publication date and is used as the incident date.
   - No charges, custody ruling or court outcome were reported.
   - The first account shortens the names to Gloria “N” and Luis “N” while the second gives full names.
-  - The submitted page's only image is generic Ahora branding captioned Noticias Ahora and does not show this seizure, so no media entry is included.
 ---
 
 Investigators of the División Especializada en Investigación Criminal (DEIC),

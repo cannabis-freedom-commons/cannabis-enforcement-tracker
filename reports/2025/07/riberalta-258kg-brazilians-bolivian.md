@@ -64,7 +64,6 @@ open_questions:
   - No street value for the marijuana was published, so no value is recorded.
   - The weight is the authorities' scale reading, not an independent laboratory result.
   - The prosecutor's office statement on fiscalia.gob.bo could not be opened directly; the three opened outlets all restate it.
-  - The three outlets carry what appears to be the same prosecutor's office handout photo of the detainees, listed once here from La Patria as the submitted page and once from Unitel and La Palabra del Beni to show where the pages hold it.
 ---
 
 Two Brazilians, Ananias A.A. and Tiarles A.R., and a Bolivian, Gabriel N.I.,

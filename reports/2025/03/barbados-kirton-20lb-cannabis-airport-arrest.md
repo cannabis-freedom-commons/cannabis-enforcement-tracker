@@ -61,7 +61,6 @@ open_questions:
   - The submitted source gives no bail amount, while CMC accounts report bail of BDS$100,000; the amount is not recorded as a figure.
   - The Caribbean Times account of 13 April says Kirton appeared in court last Thursday, while the submitted source says he appeared on Friday morning; the report follows the submitted source.
   - No court outcome after the 2 June hearing was reported in the opened sources.
-  - The submitted page image and the other pages images show Kirton playing cricket, not this seizure or arrest, so no media entry is included.
 ---
 
 Nicholas Kirton is the captain of Canada's national cricket team. [@1] Police

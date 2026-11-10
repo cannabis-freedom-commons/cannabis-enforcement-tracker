@@ -50,7 +50,6 @@ open_questions:
   - The weight is given only as about forty grammes of resin and herb together, so the 0.04 kg figure is approximate.
   - No police statement or independent second outlet account of the case could be found and opened; the only other copy traced was an aggregator entry linking back to Le Progrès.
   - The article does not name the man or the court that approved the sentence.
-  - The only picture on the page is a generic illustration of cannabis resin and herb, not of this case, so no media is listed.
 ---
 
 The case began with a report from residents of avenue de la Libération in Le

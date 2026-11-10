@@ -67,10 +67,7 @@ open_questions:
   - No court outcome was reported; police said the six face international drug-trafficking proceedings and investigations continue.
   - No separate cannabis-only valuation was published.
   - The new account published 10 July 2026 gives no separate dates for the two interceptions; the existing 8 July date remains inferred from the 9 July reports.
-  - The new account reports the second seizure as 2.526 kilos of cocaine, while the existing report counts 2,526 packages of cocaine from its earlier source.
   - The new account does not name the first boat as Angel del Pacifico and does not describe the second boat's type or motors, so those existing details still rest on the earlier sources.
-  - The new account does not identify a captain for the second boat, while the existing report names Chila as captain from Diario Libre.
-  - The page main image is captioned only with the overall 5.4-tonne seizure summary and is not established to show this interception, so no media entry is added.
   - Background figures on 2025 ICD cocaine totals and Escudo de las Américas cooperation in the same article are left out as national context, not part of this event.
 ---
 

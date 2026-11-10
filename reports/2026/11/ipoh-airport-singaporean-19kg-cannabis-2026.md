@@ -104,15 +104,10 @@ open_questions:
   - The Star says the man stayed at a hotel in Kajang, while the NST says he collected the drugs there from a supplier; both agree the drugs were picked up in Kajang.
   - Both outlets describe the material as dried leaves or flowers suspected to be cannabis; no laboratory confirmation was reported.
   - No charge, plea or court outcome beyond the seven-day remand was reported.
-  - No photograph showing the seizure or the packages was confirmed on the cited pages; the submitted aggregator page carried only a generic handcuffs image, so no media entry is added.
   - The NST says this was the second drug-smuggling case at the airport this year, after a 1 September 2026 arrest there of a foreign man with 26.2 kg of cannabis buds under Op Tebuan; that is a separate event not covered here.
   - No Malay-language report of this arrest was found; both opened accounts draw on the same Perak police press conference.
   - 'Left out, as its quotation was not found in New Straits Times: The New Straits Times reported that he had claimed he was told the luggage contained counterfeit luxury goods and had not opened it.'
-  - The Star gives the value as about RM1.5 million; the existing report uses the New Straits Times figure of RM1.52 million.
   - Malay Mail gives the value as RM1,523,200 and describes the material as dried leaves suspected to be cannabis flower; no laboratory confirmation was reported.
-  - The Harian Metro page carries only a photograph of Perak police chief Datuk Mohd Alwi Zainal Abidin at the press conference, not the seizure itself, so no media entry is added.
-  - Berita Harian says the man collected the drug-filled bag in Kajang after spending the night there; the existing report notes The Star says he stayed at a hotel in Kajang while the New Straits Times says he collected the drugs there from a supplier.
-  - Berita Harian gives the weight as 19.04kg and the value as RM1.52 million, matching the figures the existing report uses.
   - The Berita Harian page could not be reopened directly during this review; the article text came from the captured page opened for this submission.
   - The photograph on the Berita Harian page shows Perak police chief Datuk Mohd Alwi Zainal Abidin displaying the seized drugs at the 10 November press conference; it is credited NSTP/L Manimaran and is not a separate picture of the airport seizure itself.
   - Kosmo says the seven-day remand began on Sunday, 8 November, the day of the arrest; the report's own text and Berita Harian give 9 November.
@@ -122,7 +117,6 @@ open_questions:
   - The Straits Times headline converts the value to S$473,000 from about RM1.5 million; the report uses the New Straits Times figure of RM1.52 million.
   - The page describes the material as dried marijuana flowers; no laboratory confirmation was reported.
   - This account converts the promised S$4,000 wage to about RM12,600, against about RM12,690 and RM12,686.68 in other accounts; no wage amount is recorded in the figures.
-  - News.az gives the value as about RM1.5 million (S$473,000); the existing report uses RM1.52 million from the New Straits Times, a difference already noted as an open question.
 media:
   - kind: photo
     url: https://www.malaymail.com/news/malaysia/2026/11/10/singaporean-lured-by-rm12685-job-offer-arrested-remanded-seven-days-over-rm15m-cannabis-haul-at-ipoh-airport/242670

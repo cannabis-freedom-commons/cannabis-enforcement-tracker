@@ -50,7 +50,6 @@ open_questions:
   - Only the Athens News Agency wire account, read via its EMG reprint, was found, so no fully independent second outlet confirms the details.
   - 'The exact split of the seizure is approximative: two trucks held one tonne and 200 kilos and the warehouse held 620 kilos, totalling about 1,820 kilos against the reported nearly two tonnes.'
   - Charges, trial outcomes and the money-laundering inquiry announced by police were not reported in the opened source.
-  - No photo of the raids with a recoverable address was found, so no media entry was added.
 ---
 
 Greek police broke up an international ring of Greek and Albanian dealers in Attica and Larissa on Saturday 19 March 2011, seizing nearly two tonnes of cannabis meant for western Europe. [@1] The Attica Security drugs squad ran the raid with the Attica financial-crimes unit and the US embassy's Drug Enforcement Administration office, and arrested six suspects. [@1]

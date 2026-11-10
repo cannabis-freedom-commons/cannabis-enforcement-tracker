@@ -47,7 +47,6 @@ open_questions:
   - HCH ties a 27 November 2020 date to a pending trafficking warrant for Agurcia Mencía, which is unclear against the December operation, so no separate November incident is recorded.
   - The Public Ministry places both detentions minutes apart on El Soldado boulevard, while HCH describes two simultaneous operations in La Paz, so the report uses the shared city and boulevard description.
   - No court outcome beyond preparation of the trafficking-possession charge and referral to the courts was reported.
-  - The Ministry page carries images filed only under hash filenames with no caption establishing that they show this seizure, plus a site logo, so no media entry is included.
 ---
 
 The Local Prosecutor's Office in La Paz coordinated the capture of a man and a

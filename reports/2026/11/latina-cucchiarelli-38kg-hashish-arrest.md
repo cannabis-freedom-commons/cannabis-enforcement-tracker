@@ -137,15 +137,8 @@ open_questions:
   - The page picture on h24 notizie is an uncaptioned generic image titled 'mobile 2' and is not confirmed to show the seizure, so it is not added as media.
   - H24 notizie's account reproduces the police statement and adds no separate reporting; no plea or court outcome is given.
   - Latina Oggi, like the accounts already cited, reproduces the Latina police statement and adds no separate reporting; no plea or court outcome is given.
-  - The submitted page's only picture is the same 'mobile 2' handout image used by other outlets with no caption confirming it shows this seizure, so it is not added as media.
-  - The page carries one image file but gives no caption or credit confirming it shows this seizure, so no media entry is added.
   - The 14 grams of cocaine are mentioned only to explain the mixed seizure and are not counted as cannabis.
-  - This account reports 525 euros found on the man and a separate 14,765 euros found in the home, while the existing report describes 14,765 euros in cash found partly during the check and partly in the home.
-  - The page's only image is filed as 'mobile 2' with no caption or credit confirming it shows this seizure, so no media entry is added.
-  - The submitted page gives only the publication date of 7 November 2026; the evening of 6 November operation date is established by the already-cited Latina outlets.
-  - The page's only image reuses the Latina Oggi 'mobile_2' file with no caption or credit confirming it shows this seizure, so no media entry is added.
   - The Zazoom page states only the 525 euros found on the man and gives no total for the cash found in the home.
-  - The submitted page states that the 14,765 euros were found partly during the check and partly in the home, and does not separate the 525 euros found on the man from that total.
 ---
 
 Police from the Squadra Mobile, the flying squad of the Latina police

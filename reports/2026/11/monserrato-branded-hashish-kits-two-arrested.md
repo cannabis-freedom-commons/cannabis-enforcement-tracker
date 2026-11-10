@@ -56,8 +56,6 @@ open_questions:
   - No drug value, exact search address, or further court outcome beyond house arrest and the signing obligation is reported.
   - The branded-kit distribution network is explicitly an unverified investigative hypothesis, not an established fact.
   - Only one accessible source for this event was found; a second corroborating report was not available.
-  - The submitted page dates the house search to the dawn of 16 October, while the existing report uses the publication date of 2 November 2026 as the incident date.
-  - The page’s lead image shows generic police cars and is captioned about a different Sant’Avendrace seizure with a 2022 image file, so it does not show this event and no media entry is added.
 ---
 
 The “Falchi” unit of Cagliari’s Squadra Mobile arrested two young people from

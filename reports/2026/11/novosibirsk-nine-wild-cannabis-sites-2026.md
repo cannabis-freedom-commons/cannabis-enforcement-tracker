@@ -77,7 +77,6 @@ open_questions:
   - Left out setting, as its quotation was not found in Om1.ru.
   - Left out hectares, as its quotation was not found in Om1.ru.
   - Left out sites, as its quotation was not found in Om1.ru.
-  - The MK article gives almost 2,700 square metres while the existing report records 2,699 square metres from the Rosselkhoznadzor statement; the report's precise figure is retained.
   - Precedent TV dates the report 9 November 2026 while the underlying Rosselkhoznadzor statement, already used for the incident date, was published on 5 November 2026.
   - Neither the Precedent TV nor the Sib.fm account confirms whether the 2,699 square metres of wild cannabis have since been destroyed.
   - The Precedent TV lead photo is credited only to the Siberian Directorate of Rosselkhoznadzor, with no caption stating where or when it was taken.

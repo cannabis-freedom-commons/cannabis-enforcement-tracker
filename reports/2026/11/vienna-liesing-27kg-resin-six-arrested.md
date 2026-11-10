@@ -60,11 +60,7 @@ open_questions:
   - The report date 2 November 2026 is the press-release and publication date; the enforcement ran from November 2025 to March 2026 and the March 2026 supplier arrest has no exact day.
   - The police mention packaging material for about 37 kilograms of cannabis resin already opened and presumed circulated; this estimate is not counted as seized cannabis.
   - The reported 17 years and two months of unconditional prison sentences for the group and the three to 3.5 million euro cocaine street value are not counted as cannabis figures.
-  - No direct photo or video address could be recovered from the opened pages, so no media entry is listed.
-  - The 5min totals are rounded as 30.1 kg of cocaine, 27.4 kg of resin and about 435 g of marijuana while the existing report keeps the exact police laboratory totals, so the exact figures are unchanged.
   - The 5min list counts one converted smuggling vehicle while the existing ORF account summarises three vehicles, so the vehicle count is left as previously reported.
-  - The only image with a recoverable direct address on the 5min page shows the seized pistol credited to LPD Wien rather than cannabis, so no media entry is added.
-  - The Regionews page carries three LPD Wien photos without descriptive captions, so no photo can be verified to show the cannabis seizure and no media entry is added.
 ---
 
 Vienna drug investigators ended an inquiry that ran from autumn 2025 into 2026

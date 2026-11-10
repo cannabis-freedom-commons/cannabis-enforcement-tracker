@@ -54,7 +54,6 @@ open_questions:
   - The article gives no separate date for the sentencing hearing; 28 November 2024 is the BBC publication date and is used as the incident date.
   - The £25 of ketamine found in Sayle's car is a separate substance and is excluded from cannabis figures.
   - Only one source for this event could be opened; no second outlet or police statement was found to corroborate or add facts.
-  - The BBC page image shows the exterior of the Isle of Man courts of justice building, not the hotel room, drugs or court action, so no media entry is included.
 ---
 
 Ethan Sayle, 22, was sentenced at Douglas Courthouse for cannabis he had kept in

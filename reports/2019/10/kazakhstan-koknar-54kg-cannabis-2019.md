@@ -54,7 +54,6 @@ open_questions:
   - The articles give no separate dates for the seizures; 24 October 2019 is the publication date and is used as the incident date for the week described as last week.
   - The names of the detained sellers were not published and no charges or court outcomes were reported.
   - The heroin and synthetic-drug weights in the same weekly total are excluded from the cannabis figure under the substance scope.
-  - The submitted page carries one photo titled with the headline, but its caption and surrounding text do not establish that it shows this seizure, so no photo is linked.
 ---
 
 Police in East Kazakhstan and Zhambyl regions blocked a marijuana and hashish

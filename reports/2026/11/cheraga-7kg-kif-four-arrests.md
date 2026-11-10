@@ -66,7 +66,6 @@ open_questions:
   - Only one source, reproducing the Algiers security communication unit's account, could be opened.
   - The page image carries no caption or credit beyond alt text identifying it as treated kif, so its precise depiction of this seizure is not confirmed.
   - La patrie news says the DGSN statement, with a video, was issued 'ce samedi' while the page is dated Sunday 8 November 2026 and gives no separate day for the raid or the past week's arrests.
-  - The article says the DGSN statement came with a video, but no accessible video address was found in the page markup, so no media entry is added.
   - La patrie news and Horizons both reproduce the same Algiers security communication unit statement, so they are not independent accounts of the seizure.
   - The page photo is captioned only with the article headline and carries no credit identifying what it depicts.
 ---

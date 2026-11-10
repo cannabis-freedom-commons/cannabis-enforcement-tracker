@@ -56,7 +56,6 @@ sources:
     date: 2026-10-29
     language: fr
 open_questions:
-  - 'No photograph of the search was published: the three reports carry archive images credited Archives/CKAJ and Archives La Voix de l''Est and an Adobe Stock picture of a Sûreté du Québec vehicle, so no media is linked.'
   - Police gave only minimum quantities, 'more than 100 grams' each of illicit and edible cannabis, and no total weight or market value; the 0.2 kg figure is therefore a minimum.
   - 'No drug-trafficking charge had been laid when the reports were published: the woman was released and police said charges could follow.'
   - Le Quotidien's photo caption says the woman 'will be charged with drug trafficking', while its text and the Sûreté du Québec account say only that charges could be filed.

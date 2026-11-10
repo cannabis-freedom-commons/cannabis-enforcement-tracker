@@ -47,13 +47,10 @@ sources:
     language: pt
 open_questions:
   - Only the approximate weight of about nine kilograms is given; no exact weighing, value, plant count or area was published.
-  - The reports do not say when exactly on 6 November the inspection happened, and the submitted page, published on 7 November, gives no separate date for the seizure.
   - The drug is described as skunk and no laboratory confirmation of the cannabis material was reported, nor whether it was flower alone.
   - No person was named, charged or detained, and the reports give no identification of the senders or recipients.
   - Narke and Protetor das Fronteiras are described only as enforcement operations; the reports do not set out their period, scope or a single published operation result.
   - Rondônia Dinâmica credits its text to rondoniatual.com and the Diário da Amazônia page credits Portal SGC; all four accounts repeat the same agency description, so they are not independent reporting.
-  - The submitted page's headline refers to a video, but no video address could be recovered from the page, so only the still photograph is listed.
-  - The submitted page's photograph carries no caption or credit beyond the alt text Carga, so it is not confirmed to show the boxes or the drug itself.
 ---
 
 Denarc, Rondônia's Department of Narcotics, and the Receita Federal, Brazil's

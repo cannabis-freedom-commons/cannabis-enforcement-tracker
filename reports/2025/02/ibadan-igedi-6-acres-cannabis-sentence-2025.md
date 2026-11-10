@@ -44,7 +44,6 @@ tags: [ibadan, ndlea, cultivation]
 open_questions:
   - Only the NAN wire account of this sentence could be opened, carried by reprint outlets; no second independent outlet was found.
   - Whether the court's order to destroy the seized exhibit has been carried out was not reported.
-  - No photograph of the plantation or the arrest was found, so no media entry was added.
 sources:
   - title: 70 year-old man to spend 30 months in jail for cultivating 6 acres of cannabis
     url: https://www.bammagazine.com.ng/70-year-old-man-to-spend-30-months-in-jail-for-cultivating-6-acres-of-cannabis/

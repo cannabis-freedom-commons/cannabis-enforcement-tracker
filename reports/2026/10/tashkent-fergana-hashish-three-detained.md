@@ -40,7 +40,6 @@ sources:
 open_questions:
   - The article gives no separate dates for the three operations, so 28 October 2026 is the publication date used as the incident date.
   - Only one accessible source for this event was found after searching in Russian and English.
-  - The page image is captioned as AI-generated and does not show the event, so no media entry is included.
   - No full names were published, only birth years and districts of residence.
   - No court outcome was reported beyond opened criminal cases and continuing investigations.
   - The reported $10,700 was an alleged asking price for one 982 g batch, not an official valuation, so no value figure is recorded.

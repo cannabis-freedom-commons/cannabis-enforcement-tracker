@@ -45,7 +45,6 @@ open_questions:
   - The $1 500 bail figure carries no currency code in the article and bail is not a fine, so no fine is recorded.
   - No outcome of the cash-seizure process, the Financial Intelligence Authority investigation, or any later court proceedings after bail was reported.
   - Only one accessible source for this event was found after searching for a second account.
-  - The page image is a generic template graphic and the other page images are logos and unrelated trending thumbnails, so no media entry is included.
 ---
 
 Police arrested 35-year-old Lance Alfred, also known as Bolo, and 36-year-old

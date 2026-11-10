@@ -49,7 +49,6 @@ sources:
 open_questions:
   - The same roundup reports a separate seizure of 29 bags weighing 290 kg from a suspect named Happy Endurance at Shasha, Akure, which is left out here as a different event.
   - The roundup also lists synthetic consignments, including Colorado described as a synthetic cannabinoid and tapentadol and tramadol tablets, which are left out here and their quantities are not counted as cannabis.
-  - The TVC and NDLEA pages carry photographs from the wider roundup that cannot be attributed to the Oba-Ile raid, so no media entry is recorded.
 ---
 
 Officers of Nigeria's National Drug Law Enforcement Agency (NDLEA) raided an apartment at Oba-Ile, Akure, in Ondo State and arrested Tunde Adebayo, 42, with 35 bags of cannabis weighing 351 kg. [@1,2] The raid took place on Monday 5 October 2026, the same day officers recovered a separate 290 kg stash at Shasha, another part of Akure. [@1,2]

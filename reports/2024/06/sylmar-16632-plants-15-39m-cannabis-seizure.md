@@ -47,7 +47,6 @@ open_questions:
   - The article gives no number of arrests, charges or named suspects from the 25 June 2024 search, and no court outcome.
   - The article does not say whether the grow had a state licence or give the address of the building near the school.
   - The $15.39 million figure is the department's own estimate of the value of the seized cannabis.
-  - The only picture on the page is a Shutterstock stock photo illustrated as the seizure's context, not of the operation, so no media entry is included.
 ---
 
 California's Department of Cannabis Control seized more than 1,000 pounds of

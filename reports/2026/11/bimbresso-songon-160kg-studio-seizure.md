@@ -75,13 +75,10 @@ open_questions:
   - No charges, identities or court outcome were reported; the suspects and products were handed to the DPSD with the procedure continuing.
   - Only one source for this event could be opened; no second account confirming or adding facts was found.
   - No monetary value for the cannabis was published.
-  - The Benin Web TV account says its information was gathered by KOACI, the outlet behind the existing report's source, so it is not an independent confirmation.
-  - The page photo is captioned as an illustration of a cannabis plantation at Montserrat credited to the Royal Navy via Wikimedia Commons, so it does not show this event and no media entry is included.
   - The new account does not repeat the 80-blocks-per-bag breakdown or the tapentadol strength and weight, so those details remain supported only by the earlier source.
   - The French account says its information was gathered by KOACI, so it is not an independent confirmation of the KOACI source already cited.
   - The French version gives only the 160-block total and 160.5 kg weight; the 80-blocks-per-bag breakdown remains supported only by the earlier source.
   - The French version mentions 300 tapentadol tablets and several plaquettes but not the black sachet, 250 mg strength or 65-gram weight, which remain supported only by the earlier source.
-  - The Linfodrome page shows four images with file names referring to the Bimbresso drug seizure but without captions or credits identifying what each depicts, so no media entry is added.
 ---
 
 On 3 November 2026, officers of the Groupe de Répression Anti-Drogues du Tri

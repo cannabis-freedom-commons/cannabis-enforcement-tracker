@@ -57,7 +57,6 @@ open_questions:
   - No separate weight was published for the marijuana contained in cookies, cakes, bags and other edibles, so only the separately stated 30 kilos of marijuana is recorded and other drugs are excluded from cannabis figures.
   - The exact addresses of the 15 searches in Guatemala and Sacatepéquez were not published beyond the Santa María de Jesús farm, Mixco and zones 1 and 11, so the place is set to the farm municipality.
   - No charges, custody rulings or trial outcome for the 12 captured people were reported, and no prison term length was given for the earlier Salvadoran sentences.
-  - The submitted page carries photos of the August 2023 San Salvador arrests and generic network images that do not establish the March 2026 seizure, so no media entry is included.
   - The text gives a number of plants ("1,882 marijuana plants") but the figures have no plants_destroyed; check whether it belongs there.
 ---
 

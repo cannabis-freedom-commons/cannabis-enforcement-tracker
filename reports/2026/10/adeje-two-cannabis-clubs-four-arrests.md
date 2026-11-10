@@ -47,7 +47,6 @@ open_questions:
   - 'The sources give approximate weights: almost 14 kg of marijuana and more than 7 kg of hashish, and only a total of more than 20 kg.'
   - The locations of the two clubs and the names of the four detainees were not published.
   - No charges, trial or court outcome beyond the six-month sealing of the two clubs has been reported.
-  - The only photograph on the submitted page shows a National Police officer rather than the clubs or the seizure, so no image is listed.
   - 'Left out, as its quotation was not found in Diario de Avisos: Officers seized almost 14 kg of marijuana and more than 7 kg of hashish.'
   - 'Left out, as its quotation was not found in Diario de Avisos: The marijuana and hashish alone came to more than 20 kg.'
   - 'Left out, as its quotation was not found in Diario de Avisos: The haul also included rosin concentrate, pre-rolled joints and edible products containing THC.'

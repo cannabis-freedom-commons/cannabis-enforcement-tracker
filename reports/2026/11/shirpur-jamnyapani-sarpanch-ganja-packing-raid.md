@@ -61,7 +61,6 @@ open_questions:
   - The report says a case was registered but does not name the offences or the sections charged.
   - No arrest, court appearance or custody decision was reported for the three suspects, who fled.
   - Whether the raid is connected to the October 2026 eradication and seizure operations in the same Jamniapani forest area was not stated.
-  - The submitted page's banner is captioned only as a Shirpur ganja seizure story, so it is linked rather than treated as a confirmed scene photograph.
 ---
 
 Sangvi police raided forest land in Jamnyapani, on the Madhya Pradesh border in

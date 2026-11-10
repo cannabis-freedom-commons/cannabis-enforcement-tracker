@@ -44,7 +44,6 @@ sources:
     publisher: National Security Service of the Republic of Armenia
     date: 2026-10-12
 open_questions:
-  - The NSS and press accounts say the Iranian citizen who indicated the cache has not been identified, while the existing report wording says officers stopped two Armenians and an Iranian citizen together; it is unclear whether the Iranian was present at the interception.
   - The sources give September 29 as the pickup near Nrnadzor but no separate date for the Meghri interception; September 29 is retained as the incident date.
 ---
 

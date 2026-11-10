@@ -53,7 +53,6 @@ open_questions:
   - The Thaiger English and Thai pieces are the same outlet and the Thai one largely translates the English; no independent reporting of the sentence or the deportation stalemate was found.
   - The prison holding her in Taiwan, the Taiwanese agencies handling the deportation and any medical records of her heart condition are not reported.
   - Whether her deportation has since been completed is not reported.
-  - No photo of her or of the case was published with the appeal; the page's images are screen grabs of the Facebook post, so no media entry is included.
   - The text gives a weight ("15.039 kg") but the figures have no kg_seized; check whether it belongs there.
   - 'Left out, as its quotation was not found in Thaiger: The same account in Thai says she joined the smuggling operation after a wrong turn and decided to cooperate fully with Taiwanese police, which led to the arrest of the gang and her sentence reduction.'
 ---

@@ -58,8 +58,6 @@ open_questions:
   - Nature Isle's first report gave an EC$30,000 value for the barrel cannabis only; a later report put the combined seizure near EC$50,000 once the home quantity was included.
   - The court adjourned for case management on 5 October 2026; no trial outcome has been reported.
   - DOM767 republished the arrest without naming the suspect on 19 August; these reports rely on Nature Isle and Dominica News Online.
-  - The new source gives bail as $40,000 and the combined value as nearly $50,000 without specifying currency; the existing report records them as EC$40,000 and near EC$50,000 from earlier reports.
-  - The new source does not state the barrel's origin in Canada, the 11,311 g and 88 g quantities, the not-guilty plea, surety or reporting conditions recorded in the existing report.
 ---
 
 Police acting on a tip waited at Woodbridge Bay Port when port officer Alistair Bert Riviere-Alfred of Madrelle, Loubiere, came to clear a barrel that had arrived from Canada. [@1,4] They arrested him on 18 August 2026 and seized 11,311 g of cured marijuana inside the barrel, valued at about EC$30,000. [@1]

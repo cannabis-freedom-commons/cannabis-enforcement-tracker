@@ -43,7 +43,6 @@ open_questions:
   - No cannabis quantity, fine or other payment was published, so no kilograms, plants or fine figure can be recorded.
   - The prosecutor sought six months of firm prison while the court imposed five months; the request is not a sentence.
   - 3 November 2026 is the hearing and sentencing date; 5 November 2026 is the article publication date.
-  - The page image is captioned with the prosecutor's remark and credited to Jean-Claude Fichet; it is not established to show this hearing, so no media entry is included.
   - The article labels the offence as reoffending (récidive) but reports only the number of prior record entries, not the specific prior convictions that establish that status.
 ---
 

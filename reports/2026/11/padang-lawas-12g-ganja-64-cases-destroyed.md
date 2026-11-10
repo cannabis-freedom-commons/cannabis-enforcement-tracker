@@ -67,7 +67,6 @@ open_questions:
   - No breakdown is given of how many of the 64 cases involved cannabis, or what sentences the underlying cases received.
   - No defendants are named and no original seizure dates or places for the cannabis evidence are given.
   - The 277.10 grams of sabu and 18 ecstasy pills are non-cannabis evidence excluded from the cannabis figure.
-  - The submitted page carries a photo whose caption only repeats the headline, so it is not listed as media; the listed photo is the second outlet's blender-destruction image.
   - 'The ganja weight is reported inconsistently: ANTARA writes 12.16 kilograms, while the Analisa, harianSIB and Mistar accounts write 12.16 grams; the report now uses the kilogram figure and records the conflict.'
   - No breakdown is given of how many of the 44 narcotics cases involving ganja there were, or what sentences the underlying cases received.
   - The ANTARA photo caption shows the sabu destruction, so it documents the ceremony rather than the cannabis evidence itself.

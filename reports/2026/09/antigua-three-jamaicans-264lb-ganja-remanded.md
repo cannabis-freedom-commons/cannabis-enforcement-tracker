@@ -48,7 +48,6 @@ sources:
     publisher: Antigua News
     date: 2026-09-22
 open_questions:
-  - The Gleaner photograph on the submitted page carries no caption identifying its subject, so no media entry is included.
   - The precise place of the sting operation in Antigua was not stated; the report uses Antigua with region precision.
   - The court appearance fell on the Thursday before the 18 September publication, but the sources do not give its calendar date, so 14 September is used as the incident date for the sting.
   - A same-day Creekside report records three men arrested with about 30 pounds of cannabis plus cash at a vehicle stop, with no names or charges announced; whether it is the same operation as this 26.4-pound sting case cannot be confirmed from the opened sources.

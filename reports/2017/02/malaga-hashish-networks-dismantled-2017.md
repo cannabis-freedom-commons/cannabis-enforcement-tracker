@@ -52,7 +52,6 @@ open_questions:
   - Morocco World News, citing the Civil Guard, reports 33 arrests and a 3-tonne plus 700-kilo split, while High Times, citing the same operation, reports 50 arrests; the report uses the detailed Civil Guard breakdown.
   - Moroccan authorities cooperated in the investigation, but what they did was not detailed in the opened sources.
   - Charges or trial outcomes for the 33 people arrested were not reported in the opened sources.
-  - No photo verified to show this operation with a recoverable address was found; English and Spanish searches of Guardia Civil releases and press coverage surfaced only unrelated operations, so no media entry was added.
 ---
 
 Spanish authorities announced that in less than two days they had dismantled two international networks smuggling hashish from northern Morocco into the port of Malaga. [@1] Officers confiscated a helicopter, cars, boats and communications gear along with the drugs, and arrested 33 members of the two networks. [@1] A second account of the same operation put the haul at 3.7 metric tonnes of hashish plus the helicopter, cars, boats, cash and weapons, with Moroccan authorities cooperating in the investigation. [@2]

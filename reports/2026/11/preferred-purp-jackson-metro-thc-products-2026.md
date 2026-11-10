@@ -47,9 +47,6 @@ open_questions:
   - The agencies did not publish the addresses searched, so the specific stores raided are not identified in the opened account.
   - The article names the Madison police chief only by initials, M.E. Waldrop, and gives no full name.
   - The article says the raids happened Monday, 2 November 2026, but was published on 4 November and gives no time for the warrants.
-  - The page's images have no captions or credits identifying them as showing the raids, so no media entry is drawn from them.
-  - This account names the Madison police chief as Gene Waldrop, while the existing report names M.E. Waldrop, leaving the full name unresolved.
-  - The page's only listed image is captioned as AI-generated police lights and does not show the raids, so no media entry is added from this source.
 ---
 
 Police served search warrants at 14 locations across the Jackson metro area on

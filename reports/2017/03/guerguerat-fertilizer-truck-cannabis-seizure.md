@@ -41,7 +41,6 @@ open_questions:
   - Only one source for this seizure could be found.
   - No arrests were reported, and the truck's destination country was not named.
   - The report does not say whether the cannabis was resin or herbal.
-  - No photo of the seizure could be verified, so no media entry was added.
 ---
 
 Moroccan authorities seized 7.42 tonnes of cannabis late on Saturday 11 March 2017 at the Guerguerat crossing point near the border with Mauritania. [@1] The drug was packed in bags of agricultural fertilizer inside a Morocco-registered truck heading to an African country, according to a police statement. [@1] Police named the destination only as an African country, and the newspaper published the police account on 13 March, two days after the Saturday-night seizure. [@1]

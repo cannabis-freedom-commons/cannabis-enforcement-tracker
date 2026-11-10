@@ -121,14 +121,9 @@ open_questions:
   - The 2,000 LSD stamps are not cannabis and are not included in the figures.
   - Blizko.by's lead photograph is credited to Yandex and could not be confirmed as a picture of this event, and SB.by labelled its picture an archive illustration, so neither is listed as media.
   - Задержан закладчик широкого профиля (МВД Беларуси) could not be opened again to check its quotations (the browser-rendered page has almost no readable article text (it may require a login, show an access challenge, or contain only media); archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.
-  - The page gives only a relative publication time of '1 день назад'; 2026-11-01 is inferred from the 2026-11-02 run date and matches the existing report date.
   - The page's listed preview images are unrelated recommended videos, so no event photo or video is added as media.
   - The source gives only a combined figure of more than 600 g for hashish and marijuana, already recorded as such; the 2,000 LSD stamps are not cannabis and remain out of cannabis figures.
-  - The submitted page is dated 2 November 2026 while the existing report uses 1 November 2026, the date of the Interior Ministry statement and first reports; no separate detention date is given.
-  - The submitted photo caption repeats the headline and does not establish that the image shows this seizure, so no media entry is added.
   - The source gives only a combined figure of more than 600 g for hashish and marijuana, without separate weights; the 2,000 LSD stamps are not cannabis and remain outside cannabis figures.
-  - The page's photo is credited as a screenshot of the Interior Ministry video already listed in the existing report, so the same agency handout is not listed again as media.
-  - The page's lead image has no caption establishing that it shows this seizure, so no media entry is added.
 ---
 
 Officers from the drug-control department of the Bobruisk city executive

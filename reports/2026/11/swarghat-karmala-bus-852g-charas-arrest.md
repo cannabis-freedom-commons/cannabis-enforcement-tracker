@@ -60,7 +60,6 @@ open_questions:
   - The Amar Ujala article gives no separate date for the roadblock and was published on 5 November 2026; 3 November 2026 from the second account is used as the incident date.
   - No court outcome, custody status or further charges beyond the NDPS case were reported.
   - No valuation of the seized charas was published.
-  - The Amar Ujala page image is a Bilaspur file photo dated 7 January 2022 and is not established to show this seizure, so no media entry is included.
   - Punjabi Jagran files the arrest under Ropar district and names the road as National Highway 205 near Karmala, while the Bilaspur accounts place the same checkpoint and Swarghat police station case in Bilaspur district, Himachal Pradesh.
   - No court outcome, custody status or valuation of the seized charas was reported.
   - The Punjabi Jagran photo shows two uniformed men standing over a seated suspect and is captioned as the arrest, but it names no agency or credit and does not show the charas.

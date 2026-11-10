@@ -49,7 +49,6 @@ open_questions:
   - No street value or further packaging, vehicle-ownership or route details beyond the Toyota Corolla were published.
   - The precise spot of the detention on the Yerevan–Ashtarak highway was not named, so Ashtarak is used as the place with district precision.
   - Only one accessible source for this event was found after searching in Russian, English and Armenian.
-  - The page carries one still image captioned only with the headline and an embedded video player, with no caption, credit or text establishing that they show this seizure, so no media entry is included.
 ---
 
 Police detained two 44-year-old men on the Yerevan–Ashtarak highway at about

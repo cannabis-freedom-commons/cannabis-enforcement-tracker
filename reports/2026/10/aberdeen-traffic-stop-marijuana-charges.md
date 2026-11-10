@@ -41,7 +41,6 @@ sources:
 open_questions:
   - No weight or quantity of marijuana was published; the article says only that it was found in two locations in the vehicle.
   - No court outcome or later step is reported, and the charges are allegations; Estrada is presumed innocent.
-  - The only photograph on the article is a contributed mugshot of Estrada, which shows him rather than the traffic stop or the marijuana, so no media is listed.
   - The Sandhills Sentinel published the same report on 23 October 2026; no independent second outlet account was found, so the report rests on one source.
   - The article does not name the street or block in Aberdeen where the stop took place.
 ---

@@ -39,7 +39,6 @@ open_questions:
   - No arrests, charges or court outcome were reported.
   - The announced prosecution update for Monday is not contained in this source.
   - Only one accessible source was found; the originating Deister- und Weserzeitung report could not be opened and the follow-up could not be verified.
-  - The page image shows a generic police cordon dated 1 April 2026, not this raid, so no media entry is included.
 ---
 
 Police searched a residential house in Thüste on Friday for a suspected cannabis

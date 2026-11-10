@@ -53,9 +53,7 @@ open_questions:
   - The article does not say how the Hail tablets relate to the Al-Baha case, or whether any hashish was found with the Hail or Al-Baha suspects.
   - No town or district within Jazan, Hail or Al-Baha was named; coordinates are for Jazan city, the regional capital.
   - None of the suspects was named, no ages were given, and no charges before a court or court outcome was reported; all were referred to the Public Prosecution.
-  - The only image is captioned with the headline, including the unsupported 25 kg figure, and cannot be confirmed to show this seizure, so no media entry is included.
   - Only one accessible source for this event was found; searches in Arabic located an Instagram reel about the operation that could not be opened as an article.
-  - The Al Riyadh page covers only the Jazan component and does not mention the Hail or Al-Baha amphetamine operations recorded in the existing report.
   - The page gives no separate date for the arrest; 7 November 2026 is its publication date.
 ---
 

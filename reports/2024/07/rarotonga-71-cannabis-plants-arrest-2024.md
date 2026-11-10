@@ -48,7 +48,6 @@ open_questions:
   - No source states whether the 71 plants were seized, uprooted or destroyed; the figure counts the plants found.
   - The charge wording, the man's plea and any later court outcome are not reported.
   - Only one account of this arrest was found; no police statement or second outlet could be opened.
-  - The page's only photo is captioned as a blue truck colliding with a silver rental car in Titikaveka, a traffic crash rather than this seizure, so no media entry is listed.
   - The three rental crashes and the separate domestic-assault arrest in the same roundup are distinct events; their people are excluded from the figures.
   - The Cook Islands has no separate tracker country entry, so the draft uses the New Zealand country entry as the existing Rarotonga reports do.
 ---

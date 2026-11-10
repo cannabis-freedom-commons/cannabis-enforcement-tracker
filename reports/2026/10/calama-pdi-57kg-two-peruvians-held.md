@@ -57,7 +57,6 @@ sources:
 open_questions:
   - The reports do not publish the names of the two detained men.
   - No street value for the seized cannabis was published.
-  - The El América page carries a lead photograph whose caption and alternative text are empty, so whether it depicts this seizure could not be established and no media entry is added.
   - The two procedures from the prior week mentioned by the prosecutor are separate events left out of this report.
 media:
   - kind: photo

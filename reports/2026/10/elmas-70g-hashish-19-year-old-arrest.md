@@ -51,13 +51,9 @@ sources:
     date: 2026-11-02
     language: it
 open_questions:
-  - The submitted page gives only its publication date of 2 November 2026; the incident date of 9 October comes from the second account.
   - The suspect is identified only as a 19-year-old, with no name published.
   - No drug value, packaging detail or separate weighing result was published.
-  - The submitted page's displayed image carries a caption about a different Iglesias arrest and an older police photo, so it is not established to show this Elmas seizure and no media entry is added.
   - The second source is a wider roundup that also describes other operations in Cagliari, Monserrato, Quartu Sant'Elena, Quartucciu and Villaputzu; those separate events are left out of this report.
-  - The page gives only its publication/dateline of 2 November 2026 and no separate date for the stop; the existing report dates the intervention to 9 October from its second account.
-  - The page's lead image is a generic 2025 Squadra Mobile photo with no caption tying it to this Elmas seizure, so no media entry is added.
 ---
 
 Cagliari's Squadra Mobile, the city's mobile investigative police unit, was

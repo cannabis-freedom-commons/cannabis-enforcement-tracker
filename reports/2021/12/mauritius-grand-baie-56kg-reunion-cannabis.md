@@ -49,7 +49,6 @@ open_questions:
   - Non-cannabis items found in the boat, including rolling papers, psychotropes and sexual stimulant boxes, are mentioned only to explain the event and are excluded from cannabis figures.
   - The 33 kg seizure of 17 November 2021 is a separate earlier enforcement event and its weight is excluded from this report’s figures.
   - No charges, court outcome or identified suspects were reported beyond the search for the fugitives.
-  - The only image on the submitted page is captioned as a Police nationale de La Réunion archive illustration, not this seizure, so no media entry is included.
 ---
 
 Mauritian officers intercepted a speedboat at Grand-Baie. [@1] Inspectors had

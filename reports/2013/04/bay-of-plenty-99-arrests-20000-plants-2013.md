@@ -49,7 +49,6 @@ open_questions:
   - 10 April 2013 is the police announcement date after a four-week operation, so the start date and the dates of individual raids were not published.
   - The release says more than 20,000 plants were recovered or destroyed but gives no separate count for each, so the figure is recorded as destroyed.
   - The second source is a brief wire-style reprint that confirms the arrests, timeframe and areas but adds no plant counts or new details.
-  - The police release page shows two photographs likely from the operation, but they could not be visually verified, so no media entry was added.
 ---
 
 Police in New Zealand's Bay of Plenty destroyed more than 20,000 cannabis plants and made 99 arrests during a major four-week operation across the district. [@1,2] Officers targeted mainly rural outdoor growing sites, finding plots ranging from a handful of plants to more than 700. [@1]

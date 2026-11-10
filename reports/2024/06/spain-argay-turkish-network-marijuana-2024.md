@@ -50,11 +50,7 @@ sources:
 open_questions:
   - "AFP reported 36 arrests while the Turkish interior minister reported 42; the report states both counts and sets no single arrested figure."
   - No figure for the heroin the network was suspected of moving was published.
-  - A photo published with one report could not be verified as showing this operation, so no media is listed.
-  - Europol reports a dozen luxury vehicles seized while the existing report states ten; the existing wording is retained and the difference is noted.
-  - Europol corroborates the 42-arrest total against the 36 reported by AFP; the existing report states both counts.
   - Europol gives no separate weight for the hashish or any suspected heroin, so no additional cannabis weight beyond the reported two tonnes can be recorded.
-  - The page's image caption only repeats the headline and does not identify what is shown, so no media is listed.
 ---
 
 ## The raids

@@ -60,7 +60,6 @@ open_questions:
   - The fine was 1,000 Cayman Islands dollars, which the BBC equates with $1,200 and £920; the structured figure records the local currency amount.
   - The case was not reported until 19 July 2023, eight days after the arrival and the court appearance.
   - Only one opened source, the BBC page, covers this event; local Cayman accounts were not accessible.
-  - USA Today attributes the account of the July 12 court appearance and fine to a Customs & Border Control statement and court documents, while also citing a Judicial Administration confirmation that the fines were paid; the existing report cites a detention-centre and bail detail from Cayman Marl Road that this source does not mention.
 ---
 
 American model Gigi Hadid, 28, and her friend Leah McCarthy were detained in the

@@ -44,7 +44,6 @@ open_questions:
   - The article gives no separate calendar date for the arrest; Tuesday coincides with its publication date of 3 November 2026, which is used as the incident date.
   - No street value for the 600 grams of ganja was published.
   - Only one accessible source for this event was found, so no second account could corroborate the police version.
-  - The page photo is a 2021 file image of Sant Kabir Nagar captioned only with the headline and is not established to show this seizure, so no media entry is included.
 ---
 
 In Sant Kabir Nagar, Mahuli police arrested one accused with 600 grams of

@@ -51,7 +51,6 @@ open_questions:
   - No names, charges or court outcomes for the six arrested people were reported; the OFAST investigation was still under way.
   - The 10.9 kilograms of cocaine seized with the cannabis is excluded from cannabis figures.
   - The night of 5 to 6 January seizure of 366 kilograms of cocaine at Petit Havre is a separate event left out of this report's figures.
-  - No photograph showing this seizure could be identified; the submitted page's images are a generic RCI graphic and unrelated thumbnails, so no media entry is included.
   - France-Antilles headlines the cocaine as 10 kilos but gives 10.9 kilos in its text; this report uses the 10.9-kilo figure.
 ---
 

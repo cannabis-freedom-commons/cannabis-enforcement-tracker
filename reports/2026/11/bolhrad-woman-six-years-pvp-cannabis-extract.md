@@ -60,7 +60,6 @@ open_questions:
   - The charges are not stated by article number, and the article does not say whether the verdict is being appealed.
   - No figure is given for the value of property confiscated, and the woman is not named.
   - Only one opened source was found; the court decision and other local outlets covering the verdict were not accessible from this page.
-  - The page photo is a National Police illustrative picture of drugs, not of this case, so no media is listed.
 ---
 
 The Bolhrad district court found a woman from the village of Zalyznyzhne guilty

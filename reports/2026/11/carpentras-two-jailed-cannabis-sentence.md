@@ -54,7 +54,6 @@ open_questions:
   - Nearly two kilos is approximate, and whether it includes the two 100-gram bars is unclear.
   - Linking the 24-month term to the 25-year-old and the eight-month term to 20-year-old Lounes Sefrani relies on the trafficker and client labels in the opened portion.
   - The street arrest occurred at the end of last summer without a precise day; 2 November 2026 is used as the hearing and sentence date.
-  - The page carries a credited photo, but its caption and the visible courthouse building do not establish that it shows the seizure, raid or cannabis, so no media entry is added.
 ---
 
 Two men aged 20 and 25 appeared before the tribunal in Carpentras on Monday 2

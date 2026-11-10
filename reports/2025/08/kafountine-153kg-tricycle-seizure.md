@@ -51,7 +51,6 @@ open_questions:
   - La Nouvelle Tribune and APS date the operation to Wednesday evening; the Wednesday in question is 27 August 2025, as Senego and Nettali state explicitly.
   - APS and La Nouvelle Tribune describe a patrol that gave chase, while Nettali describes a routine checkpoint the rider tried to evade; the reports agree that he fled and abandoned the load.
   - A separate seizure of 10 kg at the Kafountine fishing quay on 31 August 2025 is a different event and is left out.
-  - The submitted page's photo is a 2023 stock illustration of drugs, not of this seizure, so no media entry is included.
   - Pressafrik reprints the APS dispatch word for word and adds no separate reporting, so it is not cited.
   - 'Left out, as its quotation was not found in Agence de presse sénégalaise: Gendarmes of the Kafountine brigade in Senegal''s Ziguinchor region chased a motorbike-tricycle carrying cannabis near the town''s lycée in the night of Wednesday 27 August 2025.'
   - 'Left out, as its quotation was not found in Senego: The driver jumped from the tricycle as the patrol closed in and ran off into the dark, leaving the vehicle and its load behind.'

@@ -37,7 +37,6 @@ open_questions:
   - No arrests, identities, charges or court outcome were reported.
   - The incident day is inferred as Saturday 31 October 2026 from serata di sabato before the 2 November 2026 publication; no separate incident date is stated.
   - Only one source for this event was found and opened.
-  - The page's only image is a generic Local Police image from January 2023 with no caption establishing that it shows this seizure, so no media entry is added.
 ---
 
 Molfetta's Local Police, the municipal force, intensified territorial controls

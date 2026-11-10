@@ -59,7 +59,6 @@ open_questions:
   - No monetary value for the two kilograms of ganja was reported.
   - No appeal or later court development is reported.
   - Only one accessible account of the sentencing was found after searching for corroboration.
-  - The page image carries no caption or credit establishing that it shows this case, so no media entry is included.
 ---
 
 Police arrested Muthunuri Prabhakar, known as Nagesh, near the Ellamma temple in

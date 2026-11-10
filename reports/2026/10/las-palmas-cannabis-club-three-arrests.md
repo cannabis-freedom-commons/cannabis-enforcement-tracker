@@ -98,7 +98,6 @@ open_questions:
   - 'Left out, as its quotation was not found in Canarias7: In total, officers seized 1,563 grams, more than a kilo and a half.'
   - The submitted address is the AMP edition of the La Provincia article already cited; it should not be stored as a separate source unless the AMP URL itself needs to be recorded.
   - The page photo has no caption or credit, so it was not listed as media.
-  - The headline rounds the seizure to 1.5 kilos; the body, like the existing report, gives 437 grams of marijuana and 1,126 grams of hashish.
   - Libertad Digital’s lead says the sales point was dismantled “this Friday”, the day of publication, while the same article dates the two searches and the three arrests to 21 October.
   - The page photo is a Policía Nacional Las Palmas handout of the seized hashish and marijuana; similar police images are already on the report, so it was not added again.
 ---

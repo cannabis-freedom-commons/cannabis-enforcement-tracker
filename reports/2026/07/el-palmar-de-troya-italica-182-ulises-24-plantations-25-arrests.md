@@ -88,7 +88,6 @@ open_questions:
   - No charge, court appearance outcome or detention decision was reported for the 25 arrested people.
   - The approximate 70 kilograms of buds is an official estimate, and the plants and buds are not apportioned between the 16 searched homes.
   - The Tax Agency said its photographs of the operation were available through an external file-sharing link, which no longer provides direct image addresses, so no photos are listed; the Diario de Sevilla video is linked instead.
-  - The submitted page's main photograph is captioned as an archive image of a 2019 anti-drug operation in El Palmar de Troya, so it is not used as media for this event.
   - The tax agency statement says the operation had a recent precedent in Marinaleda, a separate event not covered here.
   - The 2019 figure of 84 kilograms of buds belonged to a separate earlier operation in the same town and is not a figure for this event.
   - The text gives a number of plants ("2,200 plants") but the figures have no plants_destroyed; check whether it belongs there.

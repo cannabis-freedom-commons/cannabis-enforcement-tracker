@@ -47,7 +47,6 @@ open_questions:
   - The stop happened on 2 March 2026 and the sentence on 20 October; the report is dated at the sentencing step.
   - The Echo page gave no separate publication date in its opened text, so none is recorded for it.
   - Both accounts derive from the Cambridgeshire police account of the stop and search.
-  - The Echo gallery carries Cambridgeshire Constabulary photographs of the van discovery whose direct addresses could not be recovered, so no media entry is listed.
 ---
 
 ## Jailed at Huntingdon

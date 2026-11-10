@@ -41,7 +41,6 @@ open_questions:
   - The opening describes over 150 pounds while the body reports 190 pounds; the specific 190-pound figure is used for the cannabis quantity.
   - Only one accessible source for this event was found after searching; no separate Arkansas State Police statement could be opened.
   - No charges, juvenile proceedings or court outcome for the 17-year-old were reported.
-  - The page image is labeled as generic police car lights and does not show this seizure, so no media entry is included.
 ---
 
 Arkansas State Police arrested a 17-year-old after officers found marijuana in a

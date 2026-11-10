@@ -64,9 +64,6 @@ open_questions:
   - The Amar Ujala page labels its photo as symbolic (प्रतीकात्मक), so no event photo is listed as media.
   - The content of the Dainik Bhaskar page photo could not be verified as showing this seizure, so it is not listed as media.
   - No court outcome beyond production of the accused in court was reported.
-  - Whether the lead photo on the submitted page shows this seizure is not established, since it has no caption or credit linking it to the Silasu bridge checking.
-  - The submitted page headline says 708 grams of chitta while its body twice says 708 grams of charas; the report follows the body and two corroborating outlets that identify the substance as charas.
-  - Whether the lead photo on the submitted page shows this Silasu bridge checking is not established, so no media entry is added.
 ---
 
 Camptee police stopped two young men at Silasu bridge in the Nainbag check-post

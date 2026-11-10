@@ -53,7 +53,6 @@ sources:
 open_questions:
   - FM Gente reported more than 100 raids and about 60 kilos of cocaine and pasta base, while the Interior Ministry's detailed statement reports 90 raids and more than 77 kilos of cocaine; this report uses the ministry's figures and a rounded 30 kilos of marijuana stated by both.
   - The statements cover operations since the start of the current administration and the tribute on 13 October 2026, but do not give start and end dates for each raid, so 13 October 2026 is used as the report date for the published campaign total.
-  - No photo showing the seized marijuana or the raids could be recovered from the opened pages; the submitted page's image is a thumbnail of the minister and is omitted.
 ---
 
 Maldonado's Anti-Drug Brigade carried out 90 raids that led to 104 people being

@@ -69,8 +69,6 @@ open_questions:
   - All three accounts rest on police statements; no independent account of the arrest was found.
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Officers stopped and searched his car near the Ramghat Bandha turn.'
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Police said Tiwari was involved in drug trafficking.'
-  - The page lists one image whose caption repeats the headline and whose file appears to be a generic frame/logo, so it is not established to show this seizure and no media entry is included.
-  - The new account calls the seized vehicle an SUV while the existing report identifies it as an Alto K-10 car with registration UP 50 AP 3330.
 ---
 
 Police at Muhammadabad station in Mau district, Uttar Pradesh, arrested

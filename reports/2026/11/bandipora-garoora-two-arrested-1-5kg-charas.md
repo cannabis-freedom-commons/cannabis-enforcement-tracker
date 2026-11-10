@@ -79,8 +79,6 @@ open_questions:
   - 'Left out, as its quotation was not found in Kashmir Indepth: Police said they would keep up the drive against drug abuse and trafficking and asked the public to report drug-related activity.'
   - Amar Ujala also calls the substance a charas-like substance and does not say whether a laboratory confirmed it as cannabis.
   - The Hindi account gives the local place names Halwadi and Chapran for the two men's villages but no age or further identification.
-  - The page photo is a generic Jammu and Kashmir Police image credited to a photographer and dated 2024 in its address, so it is not established to show this seizure and no media entry is included.
-  - The page image is labelled as a representational photo, so no media entry is included.
 ---
 
 Police in Bandipora district arrested Rafaqat Ali Gojar, of Halwadi in Aragam,

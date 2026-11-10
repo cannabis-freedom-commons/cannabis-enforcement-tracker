@@ -37,7 +37,6 @@ open_questions:
   - The opened sources do not name the court city where Silver was sentenced.
   - The original Haaretz report behind the paywall could not be opened; the sentence is as the two opened outlets report it.
   - Whether other Telegrass employees charged in the five-year case received sentences was not stated in the opened sources.
-  - The GreenProphet page carries photographs, but they could not be verified as depicting this event, so no media entry was added.
 sources:
   - title: Telegrass founder sentenced to 8 years in jail for selling cannabis online
     url: https://www.greenprophet.com/2024/05/telegrass-founder-sentenced-to-8-years-in-jail-for-selling-cannabis-online/

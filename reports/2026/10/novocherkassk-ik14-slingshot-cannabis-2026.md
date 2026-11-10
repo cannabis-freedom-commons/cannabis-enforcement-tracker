@@ -49,11 +49,6 @@ open_questions:
   - The suspect's name, age and other identifying details were not published.
   - No custody ruling or court outcome beyond the opened criminal case was reported.
   - Only one accessible source for this event was found after searching in Russian and English.
-  - The page carries a photo without a caption or credit establishing that it shows this seizure, so no media entry is included.
-  - The new account gives no separate incident date; 3 November 2026 is its publication date, while the existing report dates the attempt to 20 October.
-  - The new account does not state the seven-parcel count recorded in the existing report.
-  - The new account cites Part 3 of Article 30 and Article 228.1 without repeating the point «б» qualifier recorded in the existing report.
-  - The page's only image is a handcuffs photo with an empty alt attribute and no caption or credit linking it to this seizure, so no media entry is included.
 ---
 
 On 20 October, officers of the Federal Penitentiary Service directorate for

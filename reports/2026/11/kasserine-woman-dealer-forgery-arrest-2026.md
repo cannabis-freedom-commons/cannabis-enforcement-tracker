@@ -45,7 +45,6 @@ open_questions:
   - The number and types of the seized vehicles, the amount of money and the quantity of jewellery were not stated.
   - No charges were formally listed and no court outcome was reported; the woman was in custody pending investigation.
   - Only one accessible source was found, and it relies on an unnamed security source.
-  - The page image is a generic stock photo of handcuffed hands with no credit, not a picture of this arrest, so no media entry is included.
 ---
 
 Units of the National Guard's intelligence and investigation directorate

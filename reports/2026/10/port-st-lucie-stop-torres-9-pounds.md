@@ -86,8 +86,6 @@ open_questions:
   - The gallery's first image shows a marked Port St. Lucie police SUV, while the report's existing media caption describes the lead CBS12 image as a composite of the driver's booking photo and the packaged marijuana; the other two gallery images share the same generic caption and could not be verified.
   - The WTVX page republishes the CBS12 article by the same author and repeats its text, so it is not an independent account of the arrest.
   - This gallery frame shares the same generic caption as the other CBS12 images and does not say what the photograph itself shows, so it was not added as a distinct picture.
-  - The page's only image is a stock crime-scene-tape photo credited to Aleksei Urussov/Gorodenkoff via stock.adobe.com, not a photo of this seizure, so no media entry is added.
-  - The WQCS wording of the first charge is possession of a controlled substance with intent to sell, manufacture or deliver marijuana, while the existing report phrases it as possession of marijuana with intent to sell, manufacture or deliver; the substance and conduct described are the same.
   - The submitted MSN mirror shows only the opening paragraphs of the WPBF article; the rest sits behind a 'Continue reading' control, so no further detail could be drawn from it.
 ---
 

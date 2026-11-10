@@ -49,7 +49,6 @@ open_questions:
   - The white powdery substance found in the car and at the stash site was not identified in the article.
   - No name, age, charge or court outcome for the detained organizer was reported.
   - Only one source for this event could be opened; no second account confirming or adding facts was found.
-  - The page embeds a YouTube video and carries an og:image, but neither has a caption or credit establishing that it shows this seizure, so no media entry is added.
 ---
 
 Officers of the Interior Ministry's service for combating illicit drug

@@ -48,7 +48,6 @@ open_questions:
   - No flight details, concealment method or separate interception date were published for the second passenger.
   - No court outcome beyond arrest under the NDPS Act 1985 was reported.
   - Only one accessible source for this event was found after searching for a second account.
-  - The page image is captioned only with the headline and carries no credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Bengaluru Customs officers at Kempegowda International Airport on Sunday

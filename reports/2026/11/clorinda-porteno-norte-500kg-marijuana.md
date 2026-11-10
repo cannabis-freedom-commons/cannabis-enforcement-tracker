@@ -80,8 +80,6 @@ open_questions:
   - All three accessible accounts reproduce the same provincial police release, so they are not independent reporting.
   - The Diario Exprés photo is captioned only with the story headline and gives no credit, so it is not confirmed to show this seizure.
   - The provincial page carries four further uncaptioned photos that were not listed individually; what they depict is not stated.
-  - The Instagram photos' captions do not confirm they show this seizure, so no media entry is listed.
-  - The post gives no separate event date beyond its 7 November 2026 publication; the incident date follows the existing report.
 ---
 
 Officers of Unidad Regional Tres, the Formosa provincial police command based in

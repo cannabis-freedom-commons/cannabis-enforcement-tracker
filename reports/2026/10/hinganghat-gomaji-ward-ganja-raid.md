@@ -63,7 +63,6 @@ open_questions:
   - No figure was published for the ganja alone; the Rs 87,150 valuation covers the ganja, the 200 liquor bottles and the two phones together.
   - No court date, bail decision or outcome is reported for the three men.
   - The Nagpur arrest report links the arrest to an NDPS case at Hinganghat police station but gives no case number; the match to this raid rests on the accused's name, ward and the timing.
-  - No photograph of the raid or the seizure was published; the submitted page's only picture is a generic cannabis close-up.
   - 'Left out, as its quotation was not found in Rashtrahit News: Inside they found Vinod Pandurang Gimekar, 52, and his cousin Suraj Bhimsingh Chauke, 29.'
   - 'Left out, as its quotation was not found in Rashtrahit News: Chauke was staying in Gomaji Ward but comes from Priyanka Colony at Shegaon Naka, Amravati.'
   - 'Left out, as its quotation was not found in Policekaka Crime Beat News 24X7: He was handed over to the local crime branch at Hinganghat for further action.'

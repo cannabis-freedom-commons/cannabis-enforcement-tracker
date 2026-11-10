@@ -61,7 +61,6 @@ open_questions:
   - The 1,400 kg is given as a single figure by the state news agency AGP with no weighing detail or description of how the hemp was packed.
   - No street value estimate was published.
   - The two accessible accounts reproduce the same AGP dispatch, so this is a single official source rather than independent reporting; no original AGP page could be opened.
-  - The photograph on the submitted page carries no caption, credit or alt text, so it cannot be confirmed to show this seizure; it is listed as a link only.
   - The article does not say what legal action followed the questioning, or whether the three were brought before a prosecutor.
   - The direction of travel is stated as Kindia to Gaoual with the cargo bound for Koumbia; the article does not say where the hemp was loaded.
 ---

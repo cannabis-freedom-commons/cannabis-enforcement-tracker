@@ -57,7 +57,6 @@ open_questions:
   - No charges or court outcome for the two people were reported.
   - 4 November 2026 is inferred from Wednesday night before the Thursday press conference and publications on 5 November 2026.
   - The wider campaign totals of 14 arrests, 12 cases and frozen bank accounts involve non-cannabis drugs and are not counted as cannabis figures.
-  - The submitted page's feature image has no caption or credit establishing that it shows this seizure, so no media is included.
   - Bengal Mirror dates the raid to Tuesday night, while its Bengali edition and the other outlets reporting the same case date it to Wednesday; this report keeps 4 November 2026 (Wednesday night) as the incident date.
   - Bengal Mirror says the briefing was held on Wednesday but its own publication date is Thursday 5 November 2026, so the day of the press conference is not clear from the text.
 ---

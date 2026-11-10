@@ -60,7 +60,6 @@ open_questions:
   - Sources give the value as $9.3 million and the Jamaica Constabulary Force states JM$9.3 million, which is recorded here as Jamaican dollars.
   - Police year-to-date seizure totals in the reports are left out because they cover other seizures beyond this event.
   - The outcome of the cases after the five men were charged was not reported in the opened sources.
-  - No media entry is listed because the submitted page's only image caption repeats the headline and does not establish that it shows this seizure.
 ---
 
 On 18 July 2025 at about 9:00 pm, members of the Firearms and Narcotics

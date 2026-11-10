@@ -54,10 +54,8 @@ sources:
 open_questions:
   - Only the 6.41 grams of cannabis from Mormenchi is separately weighed; the cannabis sold by Zlatan has no separate weight and MDMA, amphetamine and cathinone quantities are excluded from cannabis figures.
   - Three different custodial terms of 4 years, 6 years and 3 years and 6 months cannot be represented in the single prison figure, so no prison figure is given.
-  - Both pages carry lead photos captioned only with the headline and no credit establishing that they show this case, so no media entry is listed.
   - The second outlet says Stefan Brudiu was the minor given community work, while the detailed account distinguishes suspended-sentence defendant Brudiu from minor Crina Badarau; the report follows the detailed account.
   - One line refers to an appeal against a Tribunalul Iasi conviction while the judgment history otherwise names Tribunalul Vaslui on 29 April 2026; the report uses Vaslui as the first-instance court.
-  - The page's lead image is captioned only with the headline and carries no credit establishing that it shows this case, so no media entry is listed.
 ---
 
 On 29 October 2026 the Iasi Court of Appeal finally closed the Vaslui

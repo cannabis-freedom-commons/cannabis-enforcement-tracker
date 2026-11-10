@@ -57,7 +57,6 @@ open_questions:
   - The drugs found hidden under the suspect's sandal are not identified by substance or weight.
   - No second outlet account or agency statement for this arrest could be opened.
   - No court hearing, custody review or sentence was reported; he remained in the prison system at the disposal of the courts.
-  - The page's lead image is captioned only as Reprodução and does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Military Police in Mossoró arrested a 26-year-old man in flagrante on suspicion

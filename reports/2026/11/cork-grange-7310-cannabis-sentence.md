@@ -55,7 +55,6 @@ open_questions:
   - The offence occurred on 11 June 2025 and sentence was reported on 4 November 2026; the report is dated at the latest step, the sentence.
   - The charging-stage estimate of about €10,000 differs from the €7,310 court evidence at sentence; this report uses the later court figure.
   - The June 2025 charging article also reports separate May 2021 cannabis and money-laundering allegations, a different event left out here.
-  - The submitted page image is a Getty stock photo of a cannabis joint, not this seizure, so no media entry is included.
 ---
 
 Cork Circuit Criminal Court jailed 49-year-old motorist Piotr Szczepanik for two

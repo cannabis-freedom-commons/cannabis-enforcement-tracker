@@ -48,7 +48,6 @@ open_questions:
   - The article names no court and gives no sentence date; 18 September is its publication date.
   - The reported weight of 13.050 grams for 26 plants is preserved as published though it seems implausibly low.
   - The Fiji Times says Delasau was sentenced 'last week' relative to its 19 September 2026 publication, so the exact sentencing date remains open.
-  - The only image on the submitted page is a generic stock gavel photo, so no event photo is listed.
 ---
 
 Sivaniolo Delasau of Tavua was sentenced to five years and eleven months in prison for cultivating cannabis and possessing illicit drugs, with a non-parole period of four years. [@1,2] He was convicted of cultivating 26 cannabis plants, reported as weighing 13.050 grams, and of possessing more than 114 grams of dried cannabis leaves and plant material. [@1,2] He must serve at least four years before parole eligibility. [@1]

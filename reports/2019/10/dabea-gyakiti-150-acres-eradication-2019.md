@@ -38,7 +38,6 @@ tags: [wee, spraying, nacob]
 open_questions:
   - Only one source for this operation could be found.
   - The exact dates of the two-day operation were not stated; the article was published on 11 October 2019 after an interview the previous day, so 10 October is used as the end date.
-  - The article page shows a photo captioned as the cannabis farms discovered by the police, but the image file could not be recovered, so no media entry was added.
 sources:
   - title: Police set ablaze 150 acre "wee" farm ... arrests 4 suspects
     publisher: Ghanaian Times

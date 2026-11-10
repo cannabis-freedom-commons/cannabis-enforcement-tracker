@@ -73,7 +73,6 @@ open_questions:
   - No value estimate for the seized drugs was published.
   - The case is at first instance; the accounts do not say whether an appeal was filed.
   - The 25-year-old organiser is identified by age only, and no names were given for the other defendants.
-  - No photographs of the arrests, seizures or hearing were published on the pages opened; the submitted page's featured image is captioned as a general prison illustration, so no media entry is added.
   - 'Left out, as its quotation was not found in actu.fr: From prison he oversaw suppliers based in Toulouse and in Málaga, Spain, kept the network''s accounts and coordinated cannabis, cocaine, ketamine and ecstasy deliveries as far as Rodez and Mende.'
   - 'Left out, as its quotation was not found in actu.fr: Two suspects were remanded in custody after being brought before the prosecutor on 22 July, and two more were jailed after an immediate-appearance hearing on 23 July.'
   - 'Left out, as its quotation was not found in actu.fr: The Béziers prosecutor, Arnaud Faugère, announced the convictions in a statement on 11 September 2026.'

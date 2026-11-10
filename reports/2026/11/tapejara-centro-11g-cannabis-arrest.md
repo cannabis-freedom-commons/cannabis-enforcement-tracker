@@ -65,8 +65,6 @@ open_questions:
   - No formal charge, trial date or court outcome beyond the flagrante booking, circumstantial reports and preventive-detention request was reported.
   - Both accounts repeat the police version of the operation; no separate agency statement or independent account was opened.
   - The second outlet carries a disclosure photo captioned only as Divulgação, which does not establish that it shows this seizure, so only the first outlet's police-credited seizure photo is listed.
-  - This account gives no weight for the seized marijuana and hashish, so the 11.17 grams of marijuana and 0.31 gram of hashish in the existing report remain supported only by the earlier sources.
-  - This account gives the man stopped outside as 45; the age discrepancy noted in the existing report remains unresolved.
 ---
 
 A joint Civil and Military Police anti-trafficking operation seized crack,

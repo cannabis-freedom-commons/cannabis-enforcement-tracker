@@ -53,7 +53,6 @@ sources:
     date: 2022-04-15
 open_questions:
   - "Arrest count: The Nomad Today reported five arrests while Reuters reported three; this report uses three."
-  - The direct URL of the Foral Police Twitter photo of the seized plants could not be recovered, so no media entry is recorded.
 ---
 
 Spanish police discovered a cannabis plantation of about 415,000 plants in the

@@ -53,7 +53,6 @@ open_questions:
   - The source does not say whether the relative who brought the drugs and the woman convicted are the same person, though the article strongly implies it.
   - The article does not report whether the officer's police custody ended before the weekend or whether he faces any disciplinary action from the prison administration.
   - Only RCI, the same outlet in two articles, covered this case in the opened sources; no independent outlet or prosecutor's statement was found.
-  - The submitted page's lead image is a 2023 RCI prison illustration reused for the article, so no photo or video is recorded as showing this 2025 event.
 ---
 
 A detainee and one of his relatives were brought before the Fort-de-France

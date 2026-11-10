@@ -109,10 +109,6 @@ open_questions:
     Only one accessible account of this event was opened after searching; no second source could confirm or
     add details.
   - >-
-    This account reports eight people denounced around the electricity-theft checks, five in San Giovanni a
-    Teduccio and three in Barra, while the existing report records five people reported for electricity theft,
-    an unresolved discrepancy.
-  - >-
     The page labels its only photo as an archive photo, so no new event-specific media can be added from this
     source.
   - >-
@@ -121,10 +117,6 @@ open_questions:
   - >-
     The Zazoom and Puntomagazine.it image uses the same Poggioreale-droga-04.11.2026 file already recorded
     from Il Meridiano News, so no new distinct event photo is added.
-  - >-
-    The new account reports eight people denounced for electricity theft, five in corso San Giovanni and three
-    in via Suor Maria della Passione Beata, while the existing report records five people reported for
-    electricity theft, an unresolved discrepancy.
   - >-
     The page's only photo uses the same Poggioreale-droga-04.11.2026 file already recorded as media from Il
     Meridiano News, so no new distinct event photo is added.

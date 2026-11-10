@@ -53,7 +53,6 @@ open_questions:
   - The two accounts describe the cocaine differently, as a medium portion plus smaller portions and as a single portion, so no cocaine figure is recorded.
   - No charge sheet or court decision on custody was reported; the suspect remained at the courts' disposal.
   - The homicide that prompted the search is a separate event not covered here, and no suspect in it was reported arrested.
-  - The page photo is captioned only as cannabis and carries no credit, and no direct image address could be recovered from the g1 page, so no media entry is included.
 ---
 
 Police in Santana, in Brazil's Amapá state, arrested a 32-year-old man on

@@ -78,9 +78,7 @@ open_questions:
   - Methamphetamine and other-drug totals differ between accounts and combined drug totals are omitted; only the separately stated marijuana weight is recorded as cannabis.
   - Firearms totals differ between more than 30 guns and 34 firearms; the higher itemized local count is used in the text.
   - No plea, trial outcome or sentence was reported in the opened sources; the case stood at the charged stage with further arrests said to be possible.
-  - The submitted page's share image is a generic restricted CBS graphic and is omitted; only the Union-Tribune photo of the club building is listed.
   - 'Left out, as its quotation was not found in Los Angeles Times: SWAT teams searched the club late on the Wednesday night before the announcement and found evidence of illegal gambling, while people inside were detained and then released.'
-  - The page states more than 60 arrests while its own text uses 60 throughout, and the existing report records 60.
   - The methamphetamine figure of 18 pounds and the other-drug totals are mixed with cannabis quantities and are not recorded.
   - Gun counts differ between more than 30 guns here and 34 firearms in the earlier account.
   - No plea, trial outcome or sentencing was reported for the nine federally charged defendants.

@@ -78,7 +78,6 @@ open_questions:
   - The cocaine found in the same packages is outside the cannabis figures under the substance scope.
   - The outcome after referral to the prosecutor, including any detention or charges, was not reported.
   - Thita News and other pages combine this case with unrelated arrests elsewhere in Thessaloniki on the same day; those are separate events and are left out here.
-  - 'No photo of this event is included: the submitted page''s lead image is an uncaptioned generic patrol-car file, and no opened page captions a picture of these arrests.'
 ---
 
 Police in Thessaloniki arrested three people in the Dendropotamos neighbourhood

@@ -130,7 +130,6 @@ open_questions:
   - The two suspects are named only by their first names, Jean and Claudiane.
   - No estimated value was published for the 50.85 kg; the R$30,000 and R$10,000 are sums the pair said they had been promised for transporting it.
   - Primavera do Leste Net's article is an adaptation of a report first published by PJC MT.
-  - The submitted page carries a cover image captioned only Imagem de Capa with no credit establishing that it shows this seizure, so no media entry is added for it.
 ---
 
 A couple were arrested with 50.85 kg of skunk in Primavera do Leste, Mato

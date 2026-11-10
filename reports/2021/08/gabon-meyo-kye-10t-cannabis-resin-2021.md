@@ -50,7 +50,6 @@ open_questions:
   - No number of suspects arrested was published; both accounts say only that the presumed traffickers were arrested.
   - Xinhua's French dispatch states the value as "plus de 90. 000 millions de FCFA" while Gabonreview puts it at more than 90 million CFA francs; the report uses the lower figure.
   - The stated value of more than 90 million CFA francs for more than ten tonnes works out at under 10,000 CFA francs a kilogramme, and readers commenting on the Gabonreview page questioned how ten tonnes could fit in one car; no official explanation was published.
-  - The only image on the opened Gabonreview page is captioned as an illustration and does not show this seizure, so no media is listed.
   - The 950-tonne national seizure figure for 2019-2020 is quoted as anti-drug police statistics for context and is not recorded as a figure for this event.
 ---
 

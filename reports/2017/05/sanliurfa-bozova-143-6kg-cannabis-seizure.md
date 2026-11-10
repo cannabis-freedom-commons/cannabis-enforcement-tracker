@@ -48,7 +48,6 @@ sources:
 open_questions:
   - The accounts identify different police branches for their respective parts of the operation and do not clarify whether both branches participated.
   - The accounts give no later court outcome after the three people were remanded.
-  - Hürriyet labels its page as having a photo, but no caption or credit in the readable page text confirms that the image shows this seizure, so no media entry is included.
 ---
 
 Police stopped a car on the Diyarbakır–Şanlıurfa highway on 8 May 2017. [@2] The

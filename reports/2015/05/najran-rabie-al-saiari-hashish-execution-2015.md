@@ -36,7 +36,6 @@ open_questions:
   - The quantity of hashish al-Saiari was accused of smuggling was not published.
   - Both opened sources reprint the same Agence France-Presse dispatch, so no independent account of the case was available.
   - The Times of Andhra Pradesh page header shows 14 May while its article timestamp and the AFP dateline say 12 May, which this report uses.
-  - No photo of the case with a recoverable address was found, so no media entry was added.
 sources:
   - title: Saudi beheads 80th person this year
     url: https://capitalfm.africa/saudi-beheads-80th-person-this-year/

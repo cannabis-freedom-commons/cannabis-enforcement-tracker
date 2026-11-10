@@ -67,7 +67,6 @@ open_questions:
   - CTech's police figure of 4.12 tonnes of marijuana sold through the platform and the indictment's reference to tens of tonnes are different measures and cannot be reconciled here.
   - The defendants are not individually named in these accounts apart from the co-founders' circle, and the outcome for the rest is unknown.
   - CTech's description of the arrests as the result of a two-year operation conflicts with the March 2019 accounts of a months-long investigation.
-  - The submitted page's images are portraits of the network's co-founders and an operator, not the raid, the court or the indictment, so no media entry is added.
   - 'Left out, as its quotation was not found in Channel 13 News: The charges, each according to the defendant''s part, included offences under the law against criminal organisations, brokering drug sales, selling dangerous drugs, inducing a minor to use drugs, possession of drugs not for personal use, obstruction of justice, money laundering and tax evasion.'
 ---
 

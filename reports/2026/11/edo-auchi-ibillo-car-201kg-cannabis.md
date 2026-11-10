@@ -54,8 +54,6 @@ open_questions:
   - The roundup does not say what happened to the suspects arrested in the Benin City drug-joint raid or whether cannabis was seized there.
   - The 201 kg is described only as cannabis in 19 bags, with no product detail or laboratory confirmation.
   - The roundup also reports the Ondo 1,818 kg and Board Forest farm raids, the Lagos 22.2 kg courier seizure, the airport 16.15 kg Loud seizure and the Taraba 226.255 kg checkpoint arrest, which are recorded in their own reports and kept out of this report's figures.
-  - The page's only image is a logo-style reference to the airport, not a cannabis scene, so no media entry is added.
-  - The submitted page summarises the NDLEA statement as republished by Channels Television, so it is not independent reporting.
 ---
 
 Nigeria's National Drug Law Enforcement Agency announced a set of cannabis

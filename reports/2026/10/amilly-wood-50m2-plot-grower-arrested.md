@@ -69,7 +69,6 @@ open_questions:
   - Apart from the finding of criminal irresponsibility, no identity, charge, or further court outcome for the grower was reported.
   - The body text says plants could reach 2.50 metres while the photo caption says more than 2.50 metres; the report keeps both wordings as published.
   - The Ouest-France page gives no separate date for the police operation itself, only the 2 November 2026 social-media account and its own 4 November 2026 publication date.
-  - The page's only picture is captioned as an archive illustration photo, so it does not show this plantation and no media entry is included.
   - 20 Minutes says the case is closed, but gives no court decision beyond the finding of criminal irresponsibility, so the closure is not explained.
 ---
 

@@ -33,7 +33,6 @@ open_questions:
   - The drugs are described as suspected marijuana; no laboratory confirmation was reported.
   - No arrests, charges, suspects or sender or recipient of the shipments were identified.
   - The article says only that the boxes of furniture were incoming packages at a courier intake area; it does not say where they came from.
-  - The page carries a generic police news still image dated May 2023, not a picture of this seizure, so no media are listed.
 ---
 
 On Thursday 26 October 2023, officers from the Anti-Gang and Firearms

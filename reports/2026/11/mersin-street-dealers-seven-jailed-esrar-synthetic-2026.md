@@ -66,7 +66,6 @@ open_questions:
   - The page's single photo carries only the headline as its caption with no credit, so it could not be confirmed as a photo of this seizure.
   - The text gives a weight ("1 kg") but the figures have no kg_seized; check whether it belongs there.
   - Akdeniz Gerçek and Aksiyon give an approximate cash figure of about 20,000 Turkish lira, while the fuller breakdown in other accounts gives 20,370 Turkish lira.
-  - The opened Sabah and Aksiyon accounts repeat the same agency wording as the submitted page and are not independent reporting.
 ---
 
 Mersin police teams acting in coordination with the Mersin Chief Public

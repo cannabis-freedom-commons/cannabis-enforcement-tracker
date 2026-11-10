@@ -48,7 +48,6 @@ open_questions:
   - Only the Safe Communities Portugal account was opened; a wider AP report of 15 arrests and 2,140 kilos in the same Spain-Portugal operation was found but could not be opened.
   - Whether the detained men were remanded in custody after their court appearance was not reported.
   - A separate 20-tonne fishing-vessel seizure in operation Adiada later in November 2014 is a different event left out here.
-  - No photo of the seizure with a recoverable address was found, so no media entry was added.
 ---
 
 Portugal's Judicial Police, working with Spain's UDYCO drugs unit and National Police after a two-month joint investigation, detained five men and seized about 2,000 kilos of hashish and two vehicles on 8 November 2014. [@1]

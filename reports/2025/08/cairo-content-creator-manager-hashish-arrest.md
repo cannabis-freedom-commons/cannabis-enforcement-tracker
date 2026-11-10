@@ -48,7 +48,6 @@ open_questions:
   - The reported quantity combines hashish and ice and cannot be separated into a cannabis-only weight; ice is excluded from the cannabis account.
   - The report uses the 3 August 2025 publication date because the sources give no separate arrest date.
   - The full names, charges and any court outcome were not reported; one source calls the creator شاكر المحظور without full identification.
-  - No verified photo of this seizure was available because the submitted page image caption only repeats the headline, so no media entry is listed.
 ---
 
 Cairo security forces arrested a content creator resident in Cairo Governorate

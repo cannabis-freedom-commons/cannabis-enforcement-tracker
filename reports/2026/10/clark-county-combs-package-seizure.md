@@ -70,7 +70,6 @@ open_questions:
   - No court date, plea, lawyer or outcome is reported.
   - The exact address and town within Clark County are not named.
   - No estimated street value was published for the drugs.
-  - The only photo on the submitted page is captioned as the seized marijuana and hallucinogens but shows police vehicles, so no photo of the seizure is listed.
   - Both reports reproduce the sheriff's office account rather than independent reporting.
   - WKYT says the search found more than a pound of hallucinogenic mushrooms and $50,000, while the Winchester Sun account already used in the report says 1.4 pounds and more than $50,000.
   - WKYT calls the unit the Gateway Drug Task Force, not the Gateway Area Drug Task Force.
@@ -78,7 +77,6 @@ open_questions:
   - The WKYT page has an embedded video player, but no recoverable video address and no captioned photo of the seizure.
   - The LEX 18 capture has no readable transcript or event-specific video; its headline is the only event-specific text.
   - The submitted Yahoo/WLEX page is a 31-second video with no readable article text or transcript, so it corroborates the arrest and the 37-pound package only through its headline.
-  - No direct address for the WLEX video stream could be recovered from the submitted page, so no video link is listed.
 ---
 
 Clark County deputies arrested Kristina Combs on Thursday 29 October 2026 after

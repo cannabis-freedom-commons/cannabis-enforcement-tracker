@@ -51,7 +51,6 @@ open_questions:
   - Both opened reports are from MyNewsLA; no second outlet's account was found.
   - No suspects had been identified or arrested in these reports.
   - The reports do not say whether anything was taken from the dispensary or what motivated the attack.
-  - The submitted page carries only a stock Shutterstock illustration, not a photo of the event, so no event media can be added.
 ---
 
 Two armed suspects entered a marijuana dispensary in the 2000 block of Nadeau

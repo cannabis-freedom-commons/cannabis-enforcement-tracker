@@ -42,7 +42,6 @@ tags: [hashish, foreigners, airport, postal-trafficking]
 open_questions:
   - No court outcome for either suspect was reported.
   - The reports do not say whether the two men were linked to wider networks.
-  - Press-conference photos of the suspects and seized drugs were published by Antara and TVOne, but their direct image URLs could not be recovered, so no media entries are listed.
 sources:
   - title: "Latvian, Swedish suspects in Bali hashish distribution: BNNP"
     url: https://cannabislaw.report/latvian-swedish-suspects-in-bali-hashish-distribution-bnnp/

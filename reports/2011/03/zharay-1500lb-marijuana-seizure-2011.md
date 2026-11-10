@@ -38,7 +38,6 @@ open_questions:
   - The reported 350 pounds of marijuana seeds are not counted in kg_seized; only the 1,500 pounds of marijuana, about 680 kg, is counted as cannabis weight.
   - No suspect names, charges, monetary value, disposal method or later case outcome were published.
   - Only one accessible account of this exact seizure was found after searching in English; no second source could be opened.
-  - The page photo shows soldiers air-assaulting into Jowlzak valley in Parwan province, not the Zharay seizure, so no media entry is included.
   - Other killings, detentions, weapons finds and opium and heroin seizures listed in the same roundup are separate events left out of this cannabis report.
 ---
 

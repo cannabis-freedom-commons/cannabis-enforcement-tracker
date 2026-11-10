@@ -50,7 +50,6 @@ open_questions:
   - The articles give no separate date for the arrest; 23 August 2026 is the publication date and is used as the incident date.
   - 'The second suspect''s age differs between accounts: myRepublica gives 21-year-old Nay Thu Ren while Kharibot and NepalWatch give 29; the report uses myRepublica''s figure.'
   - No charges, custody ruling or court outcome were reported; the investigation was still under way.
-  - The submitted page's images carry filename-only captions that do not establish they show this seizure, so no media entry is included.
   - Only the investigation-stage account is available; later steps in the case were not reported.
 ---
 

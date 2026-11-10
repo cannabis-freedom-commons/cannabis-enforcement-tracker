@@ -55,7 +55,6 @@ sources:
 open_questions:
   - The Hindustan account published on 2 November 2026 gives no separate day for the seizure; 31 October 2026 comes from the Dainik Bhaskar and Amar Ujala accounts, the latter describing a Saturday-evening recovery.
   - The spot is called the Garra river bridge in one account and the Dhakiya Ragha bridge on the Birsinghpur–Khudaganj road in another; the report treats them as the same crossing.
-  - The request's supplied image is a generic Shahjahanpur graphic used as the outlet's logo image, not a photo of this seizure, so no media entry is listed.
   - No independent weighing, drug value, or further court outcome beyond jail after production was reported.
 ---
 

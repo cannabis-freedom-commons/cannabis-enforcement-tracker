@@ -54,7 +54,6 @@ open_questions:
   - The report gives only the day of the week for the arrest, Sunday, and 8 November 2026 is its publication date, used as the incident date.
   - The report does not state how Garwa relates to Masod police station or to Multai tehsil, so the place is given at district precision.
   - No independent second account of the arrest could be opened; the local Tapti Arjun social media pages carrying the story could not be retrieved in full.
-  - The article's only image is a thumbnail with no caption, alt text or credit identifying what it shows, so no media entry is added.
 ---
 
 Masod police arrested a man on Sunday who had been absconding in a ganja

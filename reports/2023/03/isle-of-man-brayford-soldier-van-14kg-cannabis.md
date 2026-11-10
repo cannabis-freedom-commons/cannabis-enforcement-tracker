@@ -70,7 +70,6 @@ open_questions:
   - The BBC gives the value as £284,000 and no weight; the 14.2 kg and £284,232 figures are from Manx Radio and Isle of Man Today.
   - 'The arrest date is reported differently: the BBC and Manx Radio say he was arrested the day after abandoning the van, while Isle of Man Today says he was arrested at the Ramsey Park Hotel on 30 January and the van was found the next day.'
   - No separate figure for a fine or forfeiture was reported beyond the prison term and the five-year exclusion order.
-  - The BBC hero image is a Getty photograph of a Royal Logistics Corps beret, not the van, drugs or court action, so no media entry is included.
   - The earlier plea report is dated 2 February 2023 and says he admitted the importation that day; it does not itself name 17 March as the remand date in the sentence used here.
 ---
 

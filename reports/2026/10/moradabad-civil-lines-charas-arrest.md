@@ -55,7 +55,6 @@ open_questions:
   - They also describe his other admitted burglaries differently, including the Kanth locality and an earlier Bibipur incident.
   - No value was given for the 1.112 kg of charas.
   - The reports do not say whether the recovered jewellery was returned to the woman.
-  - The photographs accompanying the reports could not be confirmed to show the seized charas, so no media entry was added.
   - Hindustan dates the arrest to Friday night, 30 October, and the police press conference to Saturday 31 October, while the report keeps the 31 October arrest date used by the earlier accounts.
   - Hindustan does not mention the ₹1,600 in cash or the earrings and other jewellery that the earlier reports said were recovered from him.
 media:

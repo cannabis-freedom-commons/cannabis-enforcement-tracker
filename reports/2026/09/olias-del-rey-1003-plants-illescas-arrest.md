@@ -140,7 +140,6 @@ open_questions:
   - ABC gives the buds as nearly 100 kilograms, against the 100 grams previously read from ENCLM; the sources do not reconcile the two and the report keeps the earlier figure pending a police statement.
   - CLM24 says about 100 kilograms of buds were removed, matching ABC but not ENCLM, whose 100 grams the report still uses; the two figures remain unreconciled.
   - 'Only the months are given for the police steps: the investigation began in August 2026, the warehouse search was in September and the arrest in October, so no exact day is published.'
-  - The page gives only the months of the police steps (investigation in August, search in September, arrest in October), so it supplies no exact days to replace the existing report's estimated date for the search.
   - La Razón gives only the months of the police steps (investigation in August, search in September, arrest in October) and no exact days.
   - PeriódicoCLM says the arrest was made in another municipality of La Sagra and does not report finding buds, so it gives no figure for the cannabis weight alongside the existing 100-gram and 100-kilogram accounts.
   - La Tribuna de Talavera reproduces the National Police press release already cited through other outlets, so it is not independent reporting of the operation.

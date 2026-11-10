@@ -51,7 +51,6 @@ open_questions:
   - No weight, street value or laboratory quantity of the marijuana was published, so no cannabis weight or value is recorded.
   - The sources do not say whether the marijuana was held for personal use, for sale or for distribution.
   - The suspect's name was not published and no court outcome was reported; the case was at the fast-track investigation stage.
-  - The submitted page's picture is a collage captioned only as made by the outlet, so no media entry is included.
 ---
 
 Officers of Varna's First District Police Station checked a 31-year-old man from

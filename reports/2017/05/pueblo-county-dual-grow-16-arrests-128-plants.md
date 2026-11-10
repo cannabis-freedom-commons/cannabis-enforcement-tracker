@@ -75,8 +75,6 @@ open_questions:
   - The same article describes a separate seizure of almost 120 kg the previous week at Manitou Springs; that is a different event and its weight is left out here.
   - The half-million-dollar figure is the authorities' estimated potential street-sale value, not a laboratory valuation.
   - The 128-plant total against about 70 plants at the Avondale garage implies about 58 plants at the other site, but no separate Pueblo West plant figure is stated, so no site split is recorded.
-  - The Chieftain says the grow was discovered on a Monday at both sites, while the existing report gives a two-day period of 8 and 9 May 2017.
-  - The Chieftain gives 250 pounds of dried marijuana (about 113.4 kg), matching the existing report's recorded 113 kilograms.
   - The tenant of the Pueblo West home is identified in the article but names are not recorded in this structured update.
   - Left out arrested, as no supporting quotation was given.
   - Left out kg seized, as no supporting quotation was given.

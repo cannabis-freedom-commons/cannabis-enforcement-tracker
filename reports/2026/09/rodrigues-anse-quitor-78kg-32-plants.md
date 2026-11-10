@@ -49,7 +49,6 @@ sources:
     language: fr
 open_questions:
   - Le Mauricien's body reports 5.7 kg and 2.2 kg in two parts of the house, while its headline and ION News report describe the total as 7.8 kg; the report uses the stated total.
-  - The source images are illustrations or generic Rodrigues images rather than identifiable photographs of this operation, so no media entry is included.
 ---
 
 On Wednesday, 9 September 2026, ADSU officers searched the home of a 40-year-old fisherman at Anse Quitor, Rodrigues. [@1,2]

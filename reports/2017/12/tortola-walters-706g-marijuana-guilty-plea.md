@@ -43,7 +43,6 @@ open_questions:
   - Virgin Islands News Online spells the name Daron Walters while BVI News uses Deron Walters.
   - Virgin Islands News Online does not make clear whether the 22-month sentence covered only the marijuana offences or also any other matter.
   - Only two opened sources cover this case, and neither is an official court or police statement.
-  - The page photo is captioned as Walters at court on a previous occasion and does not show the scooter, the seizure or the plea, so no media entry is included.
 ---
 
 Deron Walters pleaded guilty in the Magistrate's Court on 16 May 2017 to

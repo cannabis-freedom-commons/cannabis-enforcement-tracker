@@ -68,7 +68,6 @@ open_questions:
   - The 854.1 kg total and 500.5 kg of cocaine hydrochloride are mentioned only to explain the mixed event and are excluded from cannabis figures.
   - No charges, custody ruling or court outcome beyond referral to the competent authorities was reported.
   - Only one opened source could be found for this 854.1 kg Pacific event; no second account confirming it was located.
-  - The page carries eight images whose captions are file-name strings that do not establish what they show, so no media entry is included.
   - 'Left out, as its quotation was not found in Infobae: Five Colombian men were captured during two maritime operations carried out by the Navy in Pacific waters, with the loads hidden aboard two boats.'
   - Agenciapi.co reports that President Abelardo De la Espriella confirmed the results on the Wednesday, rather than the Navy announcing them alone, and says it drew on a presidential statement as well as Navy information.
   - The Armed Forces General Command statement publishes the combined 854 kg figure and the split only as 500.5 kg cocaine and 353.6 kg marijuana; it gives no separate operation date beyond its 4 November 2026 publication.

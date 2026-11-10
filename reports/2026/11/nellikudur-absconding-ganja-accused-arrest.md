@@ -53,9 +53,7 @@ open_questions:
   - The 2.400 kg figure is described as dry ganja the accused and associates purchased to sell in Hyderabad, not explicitly as cannabis newly seized during this arrest; it is recorded as the case quantity.
   - No court outcome was reported; police said further investigation is continuing.
   - Only one accessible source for this event was found after searching in Telugu and English.
-  - The new account writes the accused's alias as F Age and gives no age or case number, differing from the existing report's 29-year-old Kapugeri Raju alias Vayasu in Cr.No.116/2026.
   - The new account names Kesamudram CI Satyanarayana without the initial Y. and does not specify the SI's Nellikudur posting.
-  - The submitted page carries a photo without a caption or credit establishing that it shows this arrest, so no media entry is included.
 ---
 
 Nellikudur police arrested the accused who had fled during police checks in a

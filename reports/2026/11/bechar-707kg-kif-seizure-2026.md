@@ -81,10 +81,6 @@ open_questions:
   - 'Left out, as its quotation was not found in الحياة: The Defence Ministry account likewise reported 707.45 kg of treated kif seized in an inspection in the Béchar sector of the 3rd Military Region.'
   - The article gives only its publication date of 3 November 2026 and no separate date for the search and seizure.
   - No arrests, suspects or court outcome are reported in the opened article text.
-  - The page image is captioned only with the article title and cannot be established to show this seizure, so no media entry is listed.
-  - The APS page image is captioned only with the article title and is not established to show this seizure, so no media entry is added for it.
-  - The page image is captioned only with the article title and cannot be established to show this seizure, so no media entry is included.
-  - The page image is filed as mdn-siege-22.03.25 and shows the ministry building, not this seizure, so no media entry is included.
 ---
 
 A joint security formation of the army and customs carried it out, according to

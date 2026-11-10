@@ -51,7 +51,6 @@ open_questions:
   - The suspect is described only as unemployed, with no name, age or prior record published.
   - No court outcome beyond the prosecution starting its investigation was reported.
   - Only one accessible source for this event was found after searching in Arabic; no agency statement or second outlet account was available.
-  - The page image is dated 2022 and captioned only as an archive security-campaign photo, so no media entry is included.
   - The Awan Masr article is dated 10 November 2026 and gives no separate date for the arrest; it appears to be a follow-up account of the 9 November detention but the interval is not stated.
   - The article's tag line names a different drug alongside hashish, but its text describes only hashish; no other substance or quantity is reported.
 ---

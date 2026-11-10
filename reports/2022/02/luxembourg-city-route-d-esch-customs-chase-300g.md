@@ -56,7 +56,6 @@ open_questions:
   - The nature and the amounts of the "further drugs" found in the two house searches were not given, so only the 300 grams of marijuana is recorded as a cannabis figure.
   - The two suspects were not named, and no age or nationality was published.
   - No charge or court outcome after the appearance before the investigating judge was reported.
-  - The RTL page photo is credited only as RTL-Archiv (archive photo) and is not confirmed to show this pursuit, so no media entry is included.
   - 'Left out, as its quotation was not found in Portail de la Police Grand-Ducale: The customs agents chased the car and stopped it on the route d''Esch.'
   - 'Left out, as its quotation was not found in L''essentiel: According to the police report sent to L''essentiel, the two occupants were in possession of about 300 grams of marijuana.'
   - Left out setting, as its quotation was not found in Portail de la Police Grand-Ducale.

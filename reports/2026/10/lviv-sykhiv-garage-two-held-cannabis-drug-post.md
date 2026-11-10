@@ -137,12 +137,10 @@ open_questions:
   - Cannabis quantities in the PVP and amphetamine parcel and car finds are not stated separately.
   - The two men are identified only by age and place of residence; the 32-year-old's village, Davydov, comes from Leopolis.news alone.
   - No court outcome is reported; both suspects are held in custody while the pretrial investigation continues.
-  - The submitted page's photo has no caption or credit establishing that it shows this event; the Leopolis.news photos published with the prosecutor's statement are uncaptioned beyond labels such as the detention and the seized substances.
   - Високий Замок describes the 1,200 g of cannabis as the total seized, without the separate car find of more than 500 g and the 30 g in intercepted parcels that the prosecutor's breakdown gives; the report keeps its own 1.73 kg sum.
   - The account says the men were paid into a crypto wallet according to preliminary findings, but gives no amount or wallet details.
   - The account describes the payment channel but not the shop or network the men worked for.
   - 'Left out, as its quotation was not found in Кримінал (kriminal.net.ua): According to preliminary findings, the men took payment into a crypto wallet.'
-  - The Varta1 article gives no separate date for the detentions; 6 November 2026 is its publication date, while the existing report dates the detentions to 7 October from other accounts.
 ---
 
 Police in Lviv detained two men suspected of selling drugs and psychotropic

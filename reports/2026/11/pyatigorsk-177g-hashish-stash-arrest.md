@@ -52,8 +52,6 @@ open_questions:
   - The suspect was not named; only his age (22) and Pyatigorsk residence were published.
   - No outcome beyond remand in custody was reported; the investigation was still under way.
   - Both accounts relay the same Stavropol Krai Interior Ministry release; no independent account was found.
-  - The page photographs carry no descriptive caption establishing they show this seizure, so no media entry is included.
-  - The submitted page also mentions a separate earlier detention involving over 87 grams of marijuana, which is recorded in pyatigorsk-87g-marijuana-arrest and is left out here.
 ---
 
 Police detained a 22-year-old Pyatigorsk resident on suspicion of attempted drug

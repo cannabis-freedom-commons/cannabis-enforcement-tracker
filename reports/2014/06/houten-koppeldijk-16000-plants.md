@@ -37,7 +37,6 @@ data_sources:
 status: verified
 tags: [houten, greenhouse, nursery]
 open_questions:
-  - The RTV Utrecht page carried four photos of the raided greenhouse, but their direct image addresses no longer resolve, so no media entry was added.
   - No charges, trial or other outcome for the three arrested men were reported in these sources.
 sources:
   - title: Gigantische hennepkwekerij in Houten opgerold

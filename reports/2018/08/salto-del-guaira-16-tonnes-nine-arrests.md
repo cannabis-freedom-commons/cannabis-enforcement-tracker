@@ -52,7 +52,6 @@ open_questions:
   - No charges, custody rulings or court outcomes beyond the reported arrests were given, including for the accused twin brothers who remained fugitives.
   - The number of dismissed police officers accused of taking bribes was not given.
   - The source names alleged transporter Jorge Daniel Zorrilla Vera and ex-soldier Jorge Daniel Zorrilla separately; the report keeps both descriptions as published without deciding whether they are the same person.
-  - The page's featured image has no caption or alt text establishing that it shows this seizure, so no media entry is included.
 ---
 
 Nine alleged members of a marijuana trafficking network were arrested on 1

@@ -41,7 +41,6 @@ open_questions:
   - The country in which the watchlisted person had broken the law was not named, and it is not stated whether that person or the other arrested people were later charged.
   - No court outcome for any of the three detentions was reported.
   - Only one accessible report of these checks was found.
-  - The article's only photograph is credited RTL Archiv and does not show this operation, so no media entry is included.
 ---
 
 Luxembourg police staged a series of drug checks in Differdange and on the A4

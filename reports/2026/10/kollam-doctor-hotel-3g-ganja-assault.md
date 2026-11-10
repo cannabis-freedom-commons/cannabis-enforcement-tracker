@@ -67,8 +67,6 @@ open_questions:
   - 'The reports disagree on the day: PTI says Wednesday and Times of India says Tuesday, while police described the time as about 12.20 am; 20 October 2026 is used as the incident date from those weekday references.'
   - The charges are described only in general terms; no sections of the Narcotic Drugs and Psychotropic Substances Act were published.
   - No court outcome on the ganja case has been reported beyond bail.
-  - All the English-language accounts reproduce the same police account given to PTI, and the published photographs are of the accused, not of the seizure, so no media entry is included.
-  - The submitted page is an edited agency feed with an AI-generated representational image, which is not a photo of this incident.
 ---
 
 Police in Kollam, Kerala, arrested a 29-year-old doctor and a woman doctor after

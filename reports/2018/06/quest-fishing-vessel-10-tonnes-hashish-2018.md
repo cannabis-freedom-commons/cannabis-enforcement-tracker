@@ -58,7 +58,6 @@ sources:
 open_questions:
   - "AFP says the Quest left Malta for the Strait of Gibraltar while OCCRP's police sources say it was heading for Tobruk, Libya; this report does not choose between the two accounts."
   - The finance police valued the haul between 15 and 20 million euros, so this report records 20 million euros.
-  - No verifiable photo of this interception was recovered, so no media entry is recorded.
   - A third crew member was described by police as a Sicilian previously accused of armed robbery; VOA gives neither his name nor the outcome of any case against him.
   - Two of the nine crew were described as members of a Maltese criminal organisation; VOA does not name them or say whether they were charged.
   - VOA and AFP say the vessel sailed for Gibraltar, while the report's OCCRP sources say it was bound for Tobruk, Libya; this account does not settle the dispute.

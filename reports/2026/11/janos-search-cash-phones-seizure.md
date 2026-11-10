@@ -79,14 +79,9 @@ open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the search, so that date is used as the incident date.
   - It was not reported whether anyone was detained, was inside the property or was subject to arrest warrants.
   - Only one source for this event was opened; searches for a second account of the same Janos search found no additional reporting.
-  - The page carries images without captions or credits establishing that they show this seizure, so no media entry is listed.
   - Cash amounts and telephone counts are stated in the text but are not cannabis people, weight, plant or area figures and are therefore not included in figures.
-  - The Radiza page shows two photographs without captions, alt text or credits establishing that they show this search and seizure, so no media entry is listed.
   - The Radiza account describes bags with alleged cocaine and marijuana together without weights or expert confirmation, so no separable cannabis weight can be recorded from it.
-  - The submitted page carries images without captions or credits establishing that they show this search and seizure, so no media entry is listed.
-  - The second account dates the Pancho Villa search to Saturday 31 October while the existing report uses the 2 November 2026 publication date.
   - The second account mentions cigarette-making material and cash kept in containers and a cash register without detailing their nature or quantity.
-  - The Netnoticias page carries a photo captioned only with the article title and no credit establishing that it shows this seizure, so no media entry is listed.
 ---
 
 Ministerial investigators searched a property in the municipality of Janos,

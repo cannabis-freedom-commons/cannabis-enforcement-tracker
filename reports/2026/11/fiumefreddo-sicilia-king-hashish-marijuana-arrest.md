@@ -93,7 +93,6 @@ open_questions:
   - The page's single photo carries no caption identifying the search, only the headline text, so it was not added as media.
   - GrandangoloAgrigento and Nuovo Sud reproduce the same Carabinieri statement as the outlets already cited, so they are not independent reporting of the arrest.
   - GrandangoloAgrigento carries no separate date or time for the search; 9 November 2026, its publication date, stands in for the incident date.
-  - The page's single photo is the same handout file used by NewSicilia, carries no caption or credit identifying the photographer, and is not listed again as a separate media entry.
   - Dayitalianews reproduces the same Carabinieri account as the outlets already cited, so it is not independent reporting of the arrest.
   - The page's only image is a Carabinieri picture stored in an April 2025 upload folder, evidently a site stock photo, so it is not confirmed to show this search and is not listed as media.
   - Zazoom republishes the Dayitalianews account rather than reporting independently, and gives no quantities by weight, so it adds no figures.

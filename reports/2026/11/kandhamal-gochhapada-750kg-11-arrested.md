@@ -51,7 +51,6 @@ open_questions:
   - The article gives no exact date for the raid; it says the intelligence was gathered on 3 November and was published on 5 November, so the raid date is inferred and recorded as 4 November.
   - The 11 arrested people were not named, and the article does not say how many were charged or whether they were produced in court.
   - No count of plants destroyed and no separate value for the destroyed crops were published, only the area of nearly 25 acres.
-  - The rural site of the raid and the burned plots are not pinpointed; the coordinates are those of Gochhapada, which existing reports use for the police station area.
   - The page photo is captioned only for the Gochhapada seizure and carries no credit, so what it shows and who took it are not established.
 ---
 

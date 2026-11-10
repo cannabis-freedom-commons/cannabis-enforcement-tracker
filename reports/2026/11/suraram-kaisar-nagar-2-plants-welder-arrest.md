@@ -60,9 +60,6 @@ open_questions:
   - No weight, value or seedling count beyond the two plants was published.
   - No court outcome beyond remand was reported.
   - Only one source could be found; searches in English and Telugu found no second report of this arrest.
-  - The new source transliterates the accused's name as MD Ayaz while the existing report records MD Riyaz; whether this is a transliteration difference remains open.
-  - The new source places the plot at Gajularamaram Kaisar Nagar under Qutbullapur while the existing report places it at Kaisar Nagar, Suraram; the locality relationship remains open.
-  - The new source reports an arrest and case registration but does not mention remand, which the existing report records.
 ---
 
 Suraram police arrested a 54-year-old welder for growing prohibited ganja on an

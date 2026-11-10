@@ -67,7 +67,6 @@ open_questions:
   - The report does not say whether the 10 September location in Iwaki is connected to the car park where the October arrest was made.
   - No charges, custody decision or court outcome were reported; police were still investigating how the youth obtained the cannabis.
   - The article does not give the youth's name or the exact time of the 5 November re-arrest; 5 November is both the re-arrest date and the publication date.
-  - The page image is captioned only with the headline and is not established to show the arrest, so no media entry is included.
   - 'Left out, as its quotation was not found in ぐるっと会津（福島中央テレビ（FCT））: Police said the earlier arrest, reported on 16 October, came after a stop-and-question in a car park, where officers found a bag of cannabis in his car.'
   - The submitted Excite page shows only the headline, publication date and a truncated snippet, with the full text on an external page; the full account was corroborated through the linked mirror of the same broadcaster report.
   - The page's truncated teaser also displays a separate headline about a suspected stimulant-drug arrest of a 78-year-old man, a different event left out here.

@@ -46,7 +46,6 @@ open_questions:
   - No number beyond several rolls, weight, street value or laboratory result for the suspected cannabis was published, so no cannabis quantity can be recorded.
   - The suspect was not named and no age or other identifying details were published.
   - No charges, plea or court outcome were reported; the suspect was held pending arraignment.
-  - The photo on the Capital FM page carries a file name referring to a November 2025 Mombasa-Nairobi Highway seizure worth Sh72 million and is not established to show this Pap Rombe seizure, so no media entry is included.
   - The same article also mentions a 29 June Suna West interception of two suspects with over 100 rolls and multi-agency sweeps in Pandi, Migori Township, which are separate events left out here.
   - The article's broader account of presidential and ministerial directives, Anti-Narcotics Unit expansion and special courts is national policy context and is left out of this single-event report.
 ---

@@ -46,7 +46,6 @@ open_questions:
   - The article dates the patrol to Tuesday afternoon and was published on 4 November 2026, so 3 November 2026 is used as the incident date.
   - No charges, court production or court outcome were reported, and the investigation into the source and onward supply was still under way.
   - Only one accessible source for this event was found after searching in English and Hindi.
-  - The page carries a photo captioned as seized ganja with a social-media credit that does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Government Railway Police arrested three young men at Nagpur railway station

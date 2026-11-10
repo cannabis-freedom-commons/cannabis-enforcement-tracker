@@ -78,10 +78,7 @@ open_questions:
   - The cover image on the Kazinform page is credited to the police department of a different region and dated 2025, so it is not listed as showing this event.
   - Only the suspect's age was published; his name was not given.
   - No court outcome beyond placement in temporary detention has been reported.
-  - The submitted Caravan page is dated 3 November 2026 while the existing report uses 2 November 2026 from earlier accounts; no separate date for the search and detention is given.
-  - The lead image on the submitted page is labelled as AI-generated, so no media entry is added.
   - 'Left out, as its quotation was not found in Караван: Officers of the anti-drug crime office of the Almaty police detained a 43-year-old man in the city''s Nauryzbai district.'
-  - The Elordainfo page gives only its publication date of 3 November 2026 and no separate date for the search and detention, while the existing report uses 2 November 2026 from earlier accounts.
 ---
 
 Officers of the anti-drug crime office of the Almaty police detained a

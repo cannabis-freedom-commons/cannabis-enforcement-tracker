@@ -55,7 +55,6 @@ open_questions:
   - The plant count is approximate as sources say just under 2,000 plants, so the report uses 2,000.
   - Early police and BBC accounts report one 70-year-old man arrested and released pending enquiries, while the later committee report says three men were reported to the procurator fiscal, leaving unclear whether additional suspects were identified.
   - The incident date of 8 May 2025 comes from Police Scotland and the BBC; the submitted Central Fife Times article was published on 2 November 2026.
-  - Whether the lead photograph on the submitted page depicts the Gateside seizure could not be established from its caption, so no media entry is included.
   - 'Left out, as its quotation was not found in Police Scotland: Officers carrying out routine enquiries entered the warehouse at about 10.30am on 8 May 2025 and seized just under 2,000 cannabis plants.'
   - 'Left out, as its quotation was not found in Central Fife Times: Police warned that cannabis cultivation sites often involve bypassed electricity meters and unsafe installations, creating heightened risk of fire and danger to neighbouring properties.'
 ---

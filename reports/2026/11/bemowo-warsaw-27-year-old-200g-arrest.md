@@ -54,7 +54,6 @@ open_questions:
   - No separate weight is reported for the marijuana alone, so the combined figure of more than 200 grams of amphetamine, marijuana and NEP is kept in the text and excluded from cannabis figures.
   - No separate incident date is given, so 2026-11-03, the publication date of both sources, is used as the incident date.
   - The three-month custodial measure is pre-trial detention, not a sentence, and is excluded from the prison figure.
-  - The submitted page carries a photo captioned only Fot. Licencjodawca and the second page carries a photo without a descriptive caption establishing that it shows this seizure, so no media entry is added.
   - The agency's own police statement was not directly opened; the second source cites wola.policja.gov.pl as its source.
 ---
 

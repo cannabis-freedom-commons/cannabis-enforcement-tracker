@@ -157,15 +157,8 @@ open_questions:
   - No names, ages or further identifying details of the two suspects were published beyond one Italian and one Albanian nationality.
   - No court outcome beyond house arrest was reported.
   - The page photographs carry no captions or credits, so identification of what each shows relies on page context.
-  - The submitted source rounds the seizure to more than 4 kilograms while the existing report uses 4,140 grams from the other accounts.
-  - The page includes an image and an embedded video, but with empty captions, alt text and image metadata that do not establish they show this seizure, so no media entry is added.
   - The article gives only its publication date of 3 November 2026 and no separate date for the seizure and arrests.
-  - The page image is captioned only Guardia di finanza and is not established to show this seizure, so no media entry is added.
-  - The submitted page rounds the seizure to more than four kilograms while the existing report records 4,140 grams from the other accounts.
-  - The page's content image uses a 2016 file path and is not established to show this seizure, so no media entry is added.
   - The page gives only its publication date of 3 November 2026 and no separate date for the seizure and arrests.
-  - The page offers an embedded video and thumbnail image, but without captions or metadata establishing they show this seizure, so no media entry is added.
-  - The Italia 7 page displays three images with generic or empty captions and no credits establishing they depict this seizure, so no media entry is added.
 ---
 
 Officers of the provincial Guardia di Finanza command in Arezzo seized more than

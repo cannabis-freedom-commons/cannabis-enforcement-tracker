@@ -58,7 +58,6 @@ open_questions:
   - The article does not say how many men were on the motorcycle or whether the second rider was detained.
   - No case number, charge sections, custody decision or court outcome was published.
   - The operation also detained a man wanted in an earlier Wanwadi NDPS case and an illegal liquor seller in Kondhwa; the earlier drugs case is not detailed and the liquor arrest is a separate, non-cannabis matter.
-  - The page images appear to be generic crime-desk illustrations with no captions or credits showing this seizure, and one dated August 2026, so no media entry is included.
   - This second Pune Prime News page, published the same day as the report's cited article, gives the same operation but does not add a police statement or a second outlet; the search found none.
 ---
 

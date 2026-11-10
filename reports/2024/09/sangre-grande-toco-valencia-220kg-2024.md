@@ -36,7 +36,6 @@ tags: [ttps, sangre-grande, traffic-stop]
 open_questions:
   - Only the TTPS account of this seizure, as republished, could be opened, so the facts rest on that single account.
   - The driver was taken to the Sangre Grande station, but no charge or court outcome was reported.
-  - The republished account carries a photo that could not be verified as showing this interception, so no media is listed.
   - The same account describes a separate 40.43-gram seizure in Tobago, a different event left out here.
 sources:
   - title: Police Seize 220 Kilos of Cannabis In Sangre Grande, 31-Year-Old Man Arrested

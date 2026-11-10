@@ -65,7 +65,6 @@ open_questions:
   - No charging decision, court date or outcome after the custody hearing was reported.
   - Police did not name the couple or the street in the Progresso neighbourhood.
   - Nossas Notícias and Perfil Multi ran a lead photo without a caption or credit, and it could not be confirmed as a different image from the Gazeta handout, so only the Gazeta photo is listed.
-  - This account says officers seized one notebook, while the existing report, citing another outlet, says notebooks were seized.
   - This account does not mention a body-of-offence examination before the couple was to be taken to prison.
   - The page's lead image is captioned only with the headline and has no credit, so it was not added as a confirmed photo of the raid; the other image shows the municipal chamber, not the operation.
 ---

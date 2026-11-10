@@ -45,7 +45,6 @@ open_questions:
   - No weight in kilograms was published for the five bottles of suspected oil, and litres cannot be converted to kilograms, so no kg_seized figure is recorded.
   - The articles give no separate incident date; 18 April 2026, the publication date of both accounts, is used as the incident date.
   - No charges, custody ruling or court outcome were reported; the suspect was described only as handed to the Narcotics Control Bureau for investigation and legal action.
-  - The submitted page's lead image has no caption or credit and its Ratopati counterpart is a generic airport view, so neither is established to show this seizure and no media entry is included.
 ---
 
 Police at Tribhuvan International Airport in Kathmandu arrested 46-year-old

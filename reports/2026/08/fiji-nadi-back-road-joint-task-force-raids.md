@@ -50,7 +50,6 @@ open_questions:
   - The white substances seized at the Nadi car wash and Natabua home were still awaiting analysis and were not confirmed as cannabis, so no cannabis weight can be separated for those seizures.
   - A separate Joint Task Force raid in Lautoka on Tuesday involving only methamphetamine, mentioned in the same article, is left out of this report as a different event.
   - Only one source reporting these raids could be opened.
-  - The submitted page shows one image captioned only with the headline and not confirmed to show this seizure, so no media entry is added.
 ---
 
 The Joint Task Force raid on Nadi Back Road was carried out on Wednesday by the

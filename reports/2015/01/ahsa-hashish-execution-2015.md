@@ -42,7 +42,6 @@ sources:
 open_questions:
   - The quantity of hashish in either conviction was not stated.
   - The report is dated at the 1 January execution; both opened sources published on 2 January.
-  - The Customs Today page photo is a sword stock image that does not depict this execution, so no media entry was added.
 ---
 
 Saudi Arabia beheaded Malik bin Said al-Sayaari in the Al-Hasa district of the Eastern Province after a repeat conviction for hashish smuggling. [@1,2] The interior ministry said he was put to the sword on Thursday for promoting a large quantity of hashish for the second time. [@1,2]

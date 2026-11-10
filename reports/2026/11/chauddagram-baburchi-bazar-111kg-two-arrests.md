@@ -98,9 +98,7 @@ open_questions:
     and the joint SRB-7/SRB-11 team.
   - This page dates the raids to Monday 2 November, while the report retains 1 November as a Sunday; the conflict over the date is unchanged and the month correction remains unconfirmed.
   - The page names the driver as Md Azam Ali (40) and the second man as Md Dablu (40) without the Chapainawabganj addresses given by other accounts.
-  - The page's account of the separate Bijoykara Bazar auto-rickshaw stop that yielded 54 bottles of foreign liquor is already described in the existing report and is not added again.
   - The sentence about the cargo-truck search and the officer's statement about legal steps could not be matched verbatim against the opened capture during checking, so those details rest on the report's existing sources.
-  - Only the headline and an embedded video were published on the submitted page; it gives no place within Cumilla district, no date for the raids, no suspect details and no charges, and it adds no facts beyond the figures already in this report.
   - The page does not state which of the two interceptions the video footage depicts.
   - The headline's "jora abhiyan" (twin raids) matches the report's two interceptions, but the video's own content could not be viewed, so it is not cited for any detail of the footage.
   - The 54 bottles of foreign liquor stay outside the cannabis figures; the page gives no weight or value for them.

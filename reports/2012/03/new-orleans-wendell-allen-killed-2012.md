@@ -58,7 +58,6 @@ open_questions:
   - Early accounts say about five ounces of marijuana while later ones say 4.5 ounces; the report stores the later 4.5-ounce figure.
   - All three opened accounts draw on Times-Picayune and nola.com reporting, so no fully independent second outlet was opened.
   - The fates of the two men arrested and the outcome of Colclough's manslaughter case beyond indictment were not in the opened sources.
-  - No photo confirmed to show the raid or the house was available, so no media entry was added.
 ---
 
 New Orleans police officer Joshua Colclough shot dead unarmed 20-year-old Wendell Allen with a single bullet to the chest during a marijuana raid in the Gentilly neighbourhood on the evening of 7 March 2012. [@1,3] Officers of the 3rd District narcotics unit had forced their way into Allen's home with a search warrant issued after a days-long marijuana-dealing investigation. [@1,3] Five children aged between 1 and 14 were inside, and family members said officers held guns to the children's faces as they entered. [@1]

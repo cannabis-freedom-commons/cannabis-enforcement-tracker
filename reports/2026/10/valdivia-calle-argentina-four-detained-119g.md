@@ -51,7 +51,6 @@ sources:
 open_questions:
   - No source gives a separate event date; 5 October 2026 is the publication date of two accounts, with the third published on 6 October, so the check may have occurred on or just before that day.
   - The cannabis figure is 119.1 grams of processed marijuana; the ketamine, coca-paste and 20 inconclusive packets were described in the text but kept out of the cannabis figures.
-  - The pages carry an image file named IMG-20261005-WA0103 without a caption or alt text identifying its content, so no media entry is listed.
   - No court outcome beyond referral to a detention-control hearing is reported.
 ---
 

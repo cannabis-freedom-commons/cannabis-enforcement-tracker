@@ -46,7 +46,6 @@ open_questions:
   - Only one source for this event could be found; no second outlet or agency statement was located.
   - No weight, value or court outcome was published; the report states only arrest, detention and a continuing investigation.
   - Whether the 7 seized plants were destroyed or kept as evidence was not stated.
-  - The page carries a 2021 photograph of the Petite-Rivière police station, which does not show this seizure, so no media entry is added.
 ---
 
 On Sunday 1 November, ADSU officers searched the home of a 34-year-old mason at

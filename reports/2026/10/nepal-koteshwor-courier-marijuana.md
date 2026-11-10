@@ -38,14 +38,7 @@ open_questions:
   - The reports give 27 October for the seizure; neither states a separate date for the arrests, and both articles were published on 28 October.
   - The articles do not say whether the two men have been charged or appeared in court.
   - The bureau did not say who sent the parcel or where in the United States it came from.
-  - The new article spells the names Bhanwar Singh and Vandit Patel, while the existing report uses Bhawar Singh and Bandit Patel.
-  - The new article places the arrests at Tribhuvan International Airport in Kathmandu, while the existing report places the Narcotics Control Bureau action in Koteshwor, Kathmandu.
-  - The new article says only that both men are from Gujarat, while the existing report names Ahmedabad in Gujarat.
-  - The new article was published on 29 October 2026 and gives no separate arrest date, while the existing report uses 27 October for the seizure.
   - The same article also reports a separate Sri Lanka cocaine and ecstasy seizure, a non-cannabis event left out of the cannabis report.
-  - No event photo is established on the submitted page, so no media entry is included.
-  - The new article says police seized 338 grams of marijuana while the existing report records 1 kilogram and 338 grams; the report figure is retained.
-  - The new article spells the first name Bhavar Singh while the existing report uses Bhawar Singh.
 sources:
   - title: Two Indian nationals arrested with marijuana
     url: https://english.khabarhub.com/2026/28/573539/

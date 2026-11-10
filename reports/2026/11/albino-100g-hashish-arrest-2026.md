@@ -53,7 +53,6 @@ open_questions:
   - The 220 euros were found with both drugs together and cannot be separated into a cannabis-only value, so no value is recorded.
   - The suspect was identified only as a 27-year-old citizen of Moroccan origin; no full name was published.
   - No court outcome beyond the arrest was reported.
-  - The BergamoNews page photo is captioned only with the article title and its alt text repeats that title, which does not establish that it shows this seizure, so no media entry is included.
   - The Più Valli TV article also reports an unrelated alleged fraud arrest of a 43-year-old in Albino, a different event left out here.
 ---
 

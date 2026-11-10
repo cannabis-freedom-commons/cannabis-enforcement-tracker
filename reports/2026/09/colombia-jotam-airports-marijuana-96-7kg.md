@@ -44,7 +44,6 @@ open_questions:
   - The 4,921.5 kg of cocaine and the 103 trafficking cases belong to the same operation but are not cannabis figures and are left out of the tracker figures.
   - No charges, court stage or outcome were reported for the 32 people captured.
   - No street value was published for the marijuana.
-  - The Infobae page's photos are police handouts of cocaine seizures and of unrelated news, with no caption confirming a marijuana seizure, so no media entry is added.
   - Infobae, the police statement and Crónica del Quindío all reproduce the same police release, so they are not independent accounts.
   - 'Left out, as its quotation was not found in Policía Nacional de Colombia: The National Police''s own statement said 4,921.5 kilos of cocaine and 96.7 kilos of marijuana were seized and 32 people captured, in an operation that also detected 103 drug-trafficking cases.'
   - 'Left out, as its quotation was not found in Crónica del Quindío: Crónica del Quindío, citing the same police statement, reported the 96.7 kilos of marijuana, the 32 arrests and the 103 cases.'

@@ -88,7 +88,6 @@ open_questions:
   - The 3 grams of cocaine, 232 Gerica pills, 63 synthetic pills, two handguns and the cash are from the same searches but are not cannabis and are excluded from the cannabis figures.
   - No street value was published, and the amount of cash described as crime proceeds was not stated.
   - Only one opened account of the operation was found, credited to İHA, so no independent confirmation was available.
-  - The page image is the outlet's watermark placeholder and is not established to show this seizure, so no media entry is added.
   - The submitted Son Dakika page reproduces the same İHA text as the Mersin Haber account already cited, so the two are not independent reporting of the operation.
   - The article gives no calendar date for the searches; 9 November 2026 is its publication date.
   - The tobacco operation is a separate non-cannabis component of the wider drive and is not counted in the cannabis figures.

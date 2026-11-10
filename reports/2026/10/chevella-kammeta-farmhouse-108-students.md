@@ -90,16 +90,12 @@ open_questions:
   - No separate figure was given for how much liquor was seized, only that students were consuming it without permission.
   - V6 Velugu says drug tests were positive for organiser Mannan and two other students, three people, while The Siasat Daily and The Hindu, already cited, reported four positive ganja tests.
   - V6 Velugu’s body describes 108 students as attendees and does not mention liquor, vehicles, phones or a 15-gram ganja seizure; its English URL slug says the students were detained.
-  - V6 Velugu names the officer as Chevella circle inspector Katta Narender Reddy; the existing report calls him Chevella Police Station Inspector Narendra Reddy.
   - The same V6 Velugu article also reports a separate 29 October Eagle Force arrest of Nepali national Bikash Singh alias Jung, 30, with 150 grams of ganja near the University of Hyderabad south gate; that is a different event and is not added here.
   - The page photo is a headline graphic of a crowd, a man with a phone and a joint, not a documentary picture of this raid, so it was not added.
   - Andhrajyothy says Mannan circulated the party invitation in a WhatsApp group, while the report's account based on V6 Velugu says Instagram; both say he charged Rs 1,000–2,000.
   - Only Andhrajyothy reports that Mannan was taken into custody, so the report's open question about who was formally arrested is only partly answered; the other accounts opened for this raid do not mention his detention.
-  - The Andhrajyothy page's photographs are generic ganja and liquor images and a headline graphic, not pictures of the raid, so no media was added from it.
-  - The NewsMeter page's only article illustration is a posed picture of hands holding glasses of beer, not a photograph of the raid, so no media was added from it.
   - 'Left out, as its quotation was not found in NewsMeter Telugu: On Friday, 30 October 2026, police and the Special Operations Team raided LG Farmhouse at Kammeta village, under Chevella police station limits on the outskirts of Hyderabad, after what police called credible information.'
   - The Tamil Oneindia account says three students, including the organiser, tested positive for ganja, while the report's text records four positives from the Siasat and Hindu accounts.
-  - The Tamil Oneindia page gives no photographer or agency credit for its two photographs, which appear to match the Siasat picture set already used for this raid, so no separate media entry was added.
   - 'Left out, as its quotation was not found in Oneindia Tamil: Chevella Police Station Inspector Narendra Reddy said a case had been registered in connection with the incident and that a detailed investigation was under way.'
   - The Times of India reports that police seized 50 grams of ganja from the organiser, while the report's existing accounts give 15 grams; the two figures have not been reconciled.
   - The Times of India says three students tested positive and were booked, while the report's text records four positive tests; it is unclear whether the fourth student was not booked or the counts differ.
@@ -107,8 +103,6 @@ open_questions:
   - The Times of India says the organiser shared the venue details on Friday morning, while the report's earlier account says he sent the location at the last minute.
   - The Times of India's only image on the page is captioned with the headline and carries no credit, so no photo of the raid was added from it.
   - The News Minute reports three students, including the organiser, tested positive for ganja, while the report's text records four positives from The Hindu and The Siasat Daily.
-  - The News Minute's only article image is a stock rave-party photo from Pixabay, not a picture of the raid, so no media was added from it.
-  - The submitted page is the AMP edition of The News Minute article already cited in the report, so it is the same account rather than independent corroboration.
 ---
 
 On Friday, 30 October 2026, police and the Special Operations Team raided LG

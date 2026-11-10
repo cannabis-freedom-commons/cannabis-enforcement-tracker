@@ -53,7 +53,6 @@ open_questions:
   - The Telegraph reports nine conspiracy charges while the later Court of Appeal judgment records ten counts, so this report does not state a count.
   - The Telegraph puts the criminal benefit near 769,500 pounds while the judgment gives 783,759.55 pounds, though both agree the court ordered 6,100 pounds.
   - Whether Van Le was deported after his sentence, and the outcomes for other members of the conspiracy, were not reported.
-  - No photo of the sentencing or another verifiable event image with a recoverable address was found, so no media entry was added.
 ---
 
 Toi Van Le, 54, a Vietnamese man living in Telford, played a leading role in a nationwide cannabis conspiracy that ran from January 2006 to May 2016 and could have produced cannabis worth several million pounds. [@1] He controlled a workforce of illegal immigrants as gardeners who tended the crops, and the courts later heard he had personally profited by about 750,000 pounds. [@1,3]

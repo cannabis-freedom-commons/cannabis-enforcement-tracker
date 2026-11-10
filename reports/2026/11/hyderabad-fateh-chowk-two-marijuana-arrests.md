@@ -42,7 +42,6 @@ open_questions:
   - The source states 4027 kg and 1075 kg of marijuana from two individuals, together over five tonnes, which is implausible for personal possession and likely means grams, so no cannabis weight is included in figures rather than guessing.
   - Only one account of this event, an APP dispatch republished by UrduPoint, could be opened, so no corroborating second source is cited.
   - No court outcome beyond registration of cases was reported.
-  - No usable event photo was established because the page lead image is a 2024 file image, so no media entry is listed.
 ---
 
 Police in Hyderabad, Sindh, arrested two alleged drug suppliers in separate

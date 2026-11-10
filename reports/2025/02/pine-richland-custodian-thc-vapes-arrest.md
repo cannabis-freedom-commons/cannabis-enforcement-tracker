@@ -50,7 +50,6 @@ open_questions:
   - No separate arrest date was published beyond Thursday and a Feb. 6 letter saying the custodian had been arrested; Feb. 6, 2025, a Thursday, is used as the incident date, while an earlier November purchase and an undated basketball game are not separately dated.
   - No court outcome beyond the scheduled Feb. 26 preliminary hearing was reported.
   - The submitted WPXI page returned Error 451 with no article text, so a Yahoo reprint of the same WPXI account was used with TribLive and CBS Pittsburgh.
-  - The TribLive page image shows the school football stadium and does not establish that it shows this event, so no media entry is included.
 ---
 
 A Pine-Richland High School custodian was arrested Thursday for allegedly

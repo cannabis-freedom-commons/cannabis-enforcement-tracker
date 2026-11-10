@@ -81,7 +81,6 @@ open_questions:
   - Al-Estad al-Akhbari gives the material only as "المخدرات" (drugs) in its body text; the hashish identification comes from its headline, which names 26 kilograms of cannabis hashish.
   - The page gives no date for the arrests; 9 November 2026 is its publication date.
   - This outlet does not separate residents from violators of the border security law, unlike the account already cited in the report.
-  - Sra7h gives no separate date for the arrests; 9 November 2026 is its publication date, matching the date used in the existing report.
   - The article carries the same directorate statement wording as the accounts already cited, so it is not an independent report.
   - This outlet gives no separate date for the arrests; 9 November 2026 is its publication date.
 ---

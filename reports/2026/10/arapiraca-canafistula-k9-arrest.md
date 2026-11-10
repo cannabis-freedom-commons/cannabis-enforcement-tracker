@@ -80,7 +80,6 @@ open_questions:
   - No charging decision, court date or outcome was reported; the accounts end with the man at the Arapiraca police station.
   - Em Tempo Notícias says the woman tried to flee when she saw the patrol car; GazetaWeb, 7Segundos and TNH1 say she turned back into the house, which this report follows.
   - The lead picture was published without a credit, so its origin could not be confirmed.
-  - The 7Segundos lead says police seized 44 drug portions, crack and marijuana together, while its own body, and the existing report, count 44 crack rocks plus 28 marijuana portions.
   - 'The page''s only image is captioned Foto: ilustração, so no event photo from this outlet is listed as media.'
 ---
 

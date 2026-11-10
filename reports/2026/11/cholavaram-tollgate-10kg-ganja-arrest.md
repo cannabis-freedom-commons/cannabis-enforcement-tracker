@@ -49,7 +49,6 @@ open_questions:
   - No charges, custody remand or court outcome beyond the arrest were reported.
   - The transliterated origin Rayavada is as published and its precise town or district was not clarified.
   - Only one accessible source for this event was found after searching in English and Tamil.
-  - No photo of this seizure was published because the page images are unrelated sidebar thumbnails, so no media entry is included.
   - The 8 kg Chengalpattu seizure linked as related reading is a separate event left out here.
   - 'Left out, as its quotation was not found in Dinamalar: Officers on surveillance duty at the Cholavaram tollgate area stopped the pair after finding them moving about suspiciously and questioned them.'
   - Dinamani dates the interception only by its publication date, 9 November 2026, so the 4 November date comes from the earlier Dinamalar account.

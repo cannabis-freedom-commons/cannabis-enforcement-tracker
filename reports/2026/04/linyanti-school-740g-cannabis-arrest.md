@@ -53,7 +53,6 @@ open_questions:
   - One passage says two people were apprehended while the police report counts three held (two 19-year-old pupils plus a 22-year-old Zambian national); the report uses three charged and six questioned.
   - No exact cash figure was published beyond exceeding N$5,000 plus five Zambian kwacha, so no cash amount is recorded in figures.
   - No court outcome beyond the expected first appearance in the Katima Mulilo Magistrate's Court was reported.
-  - 'No verified event photo is listed: the submitted page''s image caption only repeats the headline and does not establish what it shows, and the other images are unrelated stories.'
 ---
 
 Six pupils from a school at Linyanti in the Zambezi region, allegedly linked to

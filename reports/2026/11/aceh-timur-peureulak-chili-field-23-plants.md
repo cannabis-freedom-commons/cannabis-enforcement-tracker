@@ -63,8 +63,6 @@ open_questions:
   - No cannabis weight, field area, value, charge or court outcome was published.
   - Only one opened source was available for this event; no second account was opened.
   - The same cannabis image appears on the page in two sizes with different caption credits, so one photo entry is listed.
-  - The submitted page is dated 3 November 2026 while citing ANTARA on Tuesday 3/11, but the opened ANTARA page is dated Monday 2 November 2026; the exact arrest day between the 29/10 tip and 2-3 November remains unpublished.
-  - The submitted page's images are a 2022 stock cannabis illustration and an unrelated police photo, so it provides no event photo of this seizure.
 ---
 
 East Aceh drug investigators arrested a 45-year-old farmer identified as AA for

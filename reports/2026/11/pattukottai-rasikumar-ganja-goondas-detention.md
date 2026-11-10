@@ -44,7 +44,6 @@ sources:
 open_questions:
   - The detention date is given only as Monday, so 2 November 2026, the Monday before the 3 November publication, is used as the incident date.
   - Only one accessible source for this event was found after searching in Tamil and English.
-  - The page's only photo is captioned as a file photo of police and is not shown to depict this seizure or detention, so no media entry is included.
   - No court charge, trial or sentence beyond the Collector-ordered preventive detention was reported.
 ---
 

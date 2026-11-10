@@ -60,7 +60,6 @@ open_questions:
   - No combined drug total is attributed to cannabis.
   - No charges, detention length beyond the reported detentions, or court outcome were reported.
   - Only one source for this event could be opened after searching in Bulgarian and English.
-  - The page image is captioned only © BurgasMedia.com and is not shown to depict this seizure, so no media entry is listed.
 ---
 
 Police in Burgas Province detained two men with drugs in checks that took place

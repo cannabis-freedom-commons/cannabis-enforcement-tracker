@@ -52,7 +52,6 @@ open_questions:
   - Detainees were identified only by initials, so full names were not published.
   - No charges, custody rulings or court outcomes after the detentions were reported.
   - The accessible accounts all repeat the same Anadolu Agency copy, and no separate official statement could be opened.
-  - The Haber7 page carries a photo captioned only with the operation title, which does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Police detained the truck driver, identified only as Ş.A. [@1] In the second

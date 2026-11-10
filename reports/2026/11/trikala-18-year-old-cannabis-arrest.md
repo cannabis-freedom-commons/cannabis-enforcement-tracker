@@ -72,11 +72,7 @@ sources:
 open_questions:
   - No weight was published for the seized cannabis beyond describing it as a small amount.
   - No charges, custody status or court outcome were reported for the cannabis arrest.
-  - The page's lead police photo carries no caption linking it to this arrest, so no media entry is added.
   - The same page also reports a separate non-cannabis forgery and alcohol case involving a minor; figures here count only the cannabis arrest.
-  - The page's lead image caption does not establish that it shows this arrest, so no media entry is added.
-  - The page's lead image has no caption or alt text linking it to this arrest, so no media entry is added.
-  - The page's lead police image has no caption or alt text linking it to this arrest, so no media entry is added.
 ---
 
 On the evening of 1 November 2026, officers of the Trikala DIAS

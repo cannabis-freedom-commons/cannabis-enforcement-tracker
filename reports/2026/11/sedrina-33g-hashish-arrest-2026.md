@@ -75,7 +75,6 @@ open_questions:
   - No court outcome beyond validation of the arrest and the residence ban was reported.
   - Only one accessible source for this event was found after searching; no agency statement or second outlet account could be opened.
   - The page carries another image captioned only with the article title, which does not establish that it shows this seizure, so only the captioned seizure photo is listed as media.
-  - The Valbrembanaweb page shows two seizure photos with empty alt text and no captions or credits establishing what they show, so no media entry is added.
   - The Bergamo Tomorrow page's only listed image is a 2023 Adobe Stock illustration, so no new event photo can be added.
 ---
 

@@ -60,7 +60,6 @@ open_questions:
   - The incident date is 6 November 2026 as given in the text; 7 November 2026 is the publication date of the Acorda Cidade report.
   - It is not stated whether the man was formally arrested or charged, what the teenager's legal status was beyond being taken to the station for underage offenders, or what either faces.
   - Notícias Bahia 360 reproduces the Acorda Cidade text in full and credits the same reporter, so it is not independent reporting.
-  - The submitted page's second photo of the Parque Ipê seizure is a lazy-loaded image whose direct address could not be confirmed, so only the Conceição photo is listed as media.
   - 'Left out, as its quotation was not found in Notícias Bahia 360: The account appeared in Acorda Cidade and was republished by Notícias Bahia 360.'
   - Left out arrested, as its quotation was not found in Notícias Bahia 360.
 ---

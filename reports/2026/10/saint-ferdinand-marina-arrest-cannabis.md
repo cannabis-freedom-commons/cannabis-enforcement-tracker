@@ -44,7 +44,6 @@ open_questions:
   - The man was not named, and no charge, court date or custody decision was reported.
   - The source names only the weekday of the arrest; 29 October 2026 is taken from its publication on Friday 30 October 2026.
   - Only one source, the local weekly La Nouvelle Union, could be found; no Sûreté du Québec statement or second outlet reported the arrest.
-  - The page's only picture is a generic night photograph of a Sûreté du Québec cruiser, not the marina scene, so no media is linked.
 ---
 
 A man in his thirties was arrested in the marina sector of Saint-Ferdinand,

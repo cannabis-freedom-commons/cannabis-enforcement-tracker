@@ -85,23 +85,7 @@ open_questions:
   - No arrest of a surviving suspect and no court date were reported; the NDPS case was registered against the two men who died.
   - The exact spot on National Highway 56, the direction the car was travelling and the origin of the ganja were not given.
   - Both accounts are Marathi-language news reports; no police statement or independent confirmation was found.
-  - This account gives 26 kg 670 g in 21 packets while the existing report uses 27 kg, apparently the same quantity rounded.
-  - This account dates the crash to about 10 p.m. on 31 October while the existing report dates it to the morning of 1 November 2026.
-  - This account reports seized property worth over about Rs 18 lakh including the Rs 5 lakh car, while the existing report values the ganja at about Rs 14 lakh.
-  - This account spells the second dead man's name as Sayyad Firoz Sayyad Mahbub (सय्यद फिरोज सय्यद महबूब) while the existing report uses Sayyed Firoz Sayyed Mehmud.
-  - The page's only listed image has the generic caption क्राईम with no descriptive caption establishing that it shows this crash or seizure, so no media entry is made.
-  - This account weighs the substance as 26 kg 670 g in 21 packets while the existing report uses 27 kg, apparently the same quantity rounded.
-  - This account says the crash happened late at night on the day before its 2 November 2026 publication while the existing report dates it to the morning of 1 November 2026.
-  - This account reports seized property worth over about Rs 18 lakh including the Rs 5 lakh car while the existing report values the ganja at about Rs 14 lakh.
-  - This account spells the second dead man's name as Sayyad Firoz Sayyad Mahbub while the existing report uses Sayyed Firoz Sayyed Mehmud.
-  - The page's only image is captioned as a representative file photo (प्रातिनिधिक छायाचित्र), so no media entry is made because it is not established to show this crash or seizure.
-  - This account gives 26.67 kg in 25 packets while the existing report uses 27 kg, apparently the same quantity rounded.
-  - This account places the crash on National Highway 53 at the Tembhurna Phata flyover while the existing report says National Highway 56 near Khamgaon.
-  - This account dates the crash to about 10.30 pm on Saturday night before its 2 November 2026 publication while the existing report dates it to the morning of 1 November 2026.
-  - This account values the ganja at Rs 13,33,500 and the total seizure with the Rs 5 lakh car at Rs 18,33,500 while the existing report values the ganja at about Rs 14 lakh.
   - This account garbles the first dead man's name string and spells the second as Sayyad Firoz Sayyad Mahbub with ages 53 and 46 and Parbhani and Hingoli residences.
-  - This account says the two men were taken to Khamgaon hospital where they died while the existing report says both died at the scene.
-  - The page's listed image carries only the generic caption Buldhana Khamgaon Car-Truck Accident, so whether it shows this crash or seizure is not established and no media entry is made.
 ---
 
 The car and a truck collided head-on on the Mumbai–Nagpur stretch of National

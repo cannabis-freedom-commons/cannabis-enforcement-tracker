@@ -61,9 +61,6 @@ open_questions:
   - No weight was given for the seized dried plant material, and no laboratory result confirming it was cannabis had been reported.
   - The man was detained, but no charge had been brought when the accounts were published; possession is described only as a possible charge.
   - None of the accounts reports what happened to him after the detention, such as release, a fine or a prosecutor's decision.
-  - The submitted page and the local outlets reproduce the same Płońsk county police statement, so they are not independent reporting; only the police statement is an original source.
-  - The link to the original TuStolica.pl article given as the submitted page's canonical address returned a 404 when opened.
-  - The submitted page shows a handout photo credited only as policja.gov.pl, with no caption describing what it depicts, so its content is not described here.
 ---
 
 Police in Płońsk detained a 34-year-old resident of the town after he was

@@ -40,7 +40,6 @@ open_questions:
   - The exact weight of the cannabis is reported as "nearly 70 kg"; the precise figure is undisclosed.
   - The suspected Congolese origin of the drugs is an investigators' assessment, not yet proven.
   - No trial outcome has been reported; the suspects were to be transferred to Libreville.
-  - The new source reports 66 kg of cannabis while the existing report records nearly 70 kg; the report's figure is retained and the precise weight remains uncertain.
   - The new source does not name the five suspects or say they were based in Mouila, so those existing details are corroborated only by the earlier sources.
 sources:
   - title: 'Nyanga : cinq Gabonais arrêtés avec du cannabis et du tramadol'

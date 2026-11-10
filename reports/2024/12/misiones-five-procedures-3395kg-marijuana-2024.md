@@ -48,7 +48,6 @@ sources:
     language: es
 open_questions:
   - The operations are dated to 13 December 2024 because the agency statement published on 14 December 2024 says they took place 'Ayer' (yesterday); only the Garuhapé operation is explicitly tied to that day, so the others may have occurred slightly earlier.
-  - The agency page carries five photographs with empty captions and alt text, so none can be tied to a specific seizure and no media entry is listed.
   - The agency total line reads '3.395 kilos 210 kilos', an apparent typo; the component weights add to 3,395.21 kg and MisionesOnline renders the total as 3.395 kilos 210 gramos.
   - No street value for the marijuana was published.
   - No court outcome beyond the seizures and the single detention was reported; the reports do not say where the three parcels were intercepted.

@@ -45,7 +45,6 @@ open_questions:
   - The raid is described as Monday night in one report and Tuesday early morning in the other for the same overnight operation; 2 November 2026 is used as the incident date while both reports were published on 3 November 2026.
   - No court outcome was reported; police said the detainee would be taken into custody for detailed investigation.
   - Only two Bengali reports of this event were opened; no separate police or agency statement was found.
-  - Page images could not be verified from captions and alt text to show this seizure, so no media entry is included.
 ---
 
 New Township police in Durgapur arrested pharmacy owner Sudip Mukhopadhyay after

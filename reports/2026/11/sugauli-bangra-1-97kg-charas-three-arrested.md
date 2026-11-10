@@ -112,23 +112,12 @@ open_questions:
   - The Rs 40 lakh valuation appears only in the Prabhat Khabar account as an international-market estimate.
   - Residence details differ slightly between accounts, with the first naming Nayka Tola in Rajepur and the second naming Nayak Tola in Raxaul for Guddu Sah.
   - No court outcome beyond sending the three to jail was reported.
-  - The Deshvani headline values the haul at Rs 20 lakh while its body says about Rs 30 lakh, differing from the Rs 40 lakh international-market valuation in the existing report.
-  - The Deshvani page photo is captioned only as 21119 with no description establishing that it shows this seizure or these arrests, so no media entry is included.
   - The Deshvani article gives only its 3 November 2026 publication date and no separate calendar date for the checks and arrests.
   - Name and residence spellings differ slightly, with Deshvani naming Guddu Sah of Harpur, Ghoda Rai of Ghorasahan and Rambalak Baitha of Sikta and describing a recipient trader in Uttar Pradesh.
-  - The page's image address resolves to a site template/logo image rather than an established photo of this seizure, so no media entry is included.
   - This account places the first suspect at Nayak Tola under Harpur station, differing in station attribution from earlier accounts, so the report's residence wording is left unchanged pending further clarification.
   - This account gives only its 3 November 2026 publication date and says the tip came on Monday night, giving no separate calendar date for the checks and arrests.
-  - Name and residence spellings differ from the existing report, listing Guddu Sah of Harpur in East Champaran, Rambalak Baitha of Sikta in West Champaran and Dora Rai of Ghodasahan in East Champaran.
-  - This account words the valuation as more than about Rs 40 lakh in the international market, while the existing report records about Rs 40 lakh.
-  - The page carries a photo captioned with the headline, but the caption does not establish that it shows this seizure or these arrests, so no media entry is included.
-  - This account words the valuation as more than Rs 40 lakh, while the existing report records about Rs 40 lakh.
   - This account was published on 4 November 2026 and refers to a Monday-night tip, giving no separate calendar date for the checks and arrests.
-  - This account dates the checks and arrests to the night of 2 November with a tip at about 8:40 pm, while the existing report uses the 3 November publication date as the incident date.
   - Residence details differ slightly from earlier accounts, with this account naming Guddu Sah of Nayak Tola in Harpur, Rambalak Baitha of Lakshmipur in Raxaul and Dora Rai of Sikta with a current address at Gandak Chowk in Birgunj, Nepal.
-  - The page carries a second image with no caption establishing that it shows this seizure or these arrests, so no media entry is included for it.
-  - The Deshaj Times page carries an image captioned with the headline, but the caption and credit do not establish that it shows this seizure or these arrests, so no media entry is included.
-  - The Khabargaon page carries an arrest photo credited to Bihar Police social media, but its caption does not by itself establish that it shows this Sugauli seizure, so no new media entry is added.
 ---
 
 A joint team of the STF narcotics cell and Sugauli police arrested three alleged

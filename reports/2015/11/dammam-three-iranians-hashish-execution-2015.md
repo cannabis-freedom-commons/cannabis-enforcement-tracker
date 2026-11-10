@@ -44,7 +44,6 @@ sources:
 open_questions:
   - The Saudi announcement dates the executions to Sunday 8 November while Iran Human Rights dates them to Monday 9 November; this report uses 8 November.
   - The quantity of hashish smuggled was described only as a large amount.
-  - No photo on the opened pages could be verified as depicting these executions, so no media entry was added.
 ---
 
 Saudi Arabia executed three Iranian nationals in Dammam, the capital of the Eastern Province, after convicting them of smuggling large amounts of hashish into the kingdom. [@1,2] The official Saudi Press Agency said the death sentences were carried out earlier in the day and had been endorsed by the Supreme Court and by King Salman bin Abdulaziz Al Saud. [@1] Iran Human Rights identified the three men as Bani Bakhsh, Mohammad Akram Baluch and Omid Boolideh, beheaded on alleged drug charges. [@2]

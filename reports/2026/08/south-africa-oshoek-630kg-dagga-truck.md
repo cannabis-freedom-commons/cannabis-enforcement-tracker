@@ -67,7 +67,6 @@ open_questions:
   - 'Left out, as its quotation was not found in The South African: Police estimate the consignment''s street value at more than R4 million.'
   - 'Left out, as its quotation was not found in The South African: Investigators are tracing the consignment''s origin and destination and checking whether others were involved in the drug operation.'
   - 'Left out, as its quotation was not found in The South African: Mpumalanga Provincial Commissioner Lieutenant General Apaphia Modise welcomed the arrest and seizure, saying the operation highlighted the importance of stronger law-enforcement efforts at the country''s borders.'
-  - eNCA's account garbles the description of the truck, referring to a registration number and an Eswatini logistics company owner in a sentence with missing words; the existing report's clearer description of the Volvo horse and trailer is retained.
   - The published street value of more than R4 million is a police estimate; eNCA gives no separate breakdown of it.
   - No court date or outcome was reported in this account.
 ---

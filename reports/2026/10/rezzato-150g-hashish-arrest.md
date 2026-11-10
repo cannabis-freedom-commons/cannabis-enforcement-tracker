@@ -65,18 +65,14 @@ sources:
 open_questions:
   - Only one source for this event was opened; no second report or agency statement was found.
   - The man's identity, residence and any formal charge beyond the arrest were not published.
-  - Whether the page photo captioned 'Controlli a Rezzato' shows this seizure is not established, so no media entry is added.
   - No information was published on proceedings beyond the obbligo di dimora order.
   - The 150-gram figure is the police search count; no independent weighing is reported.
   - The new account dates the arrest only as in recent days during Halloween checks; the 31 October incident date is retained from the earlier Bresciaoggi account.
-  - 'The page photo captioned ''In centro a Rezzato con 150 grammi di hashish: arrestato uno spacciatore'' is not established to show this seizure, so no media entry is added.'
   - The ÈliveBrescia account gives no separate arrest date beyond the Halloween checks; the 31 October 2026 incident date is retained from the earlier Bresciaoggi account.
   - The ÈliveBrescia account does not mention the suspect's age, the knife or the post-arrest measure reported in the earlier accounts.
   - The Io24 account describes the measure as obbligo di firma, while the report records obbligo di dimora from Bresciaoggi.
-  - The ÈliveBrescia page photo captioned 'foto sito - 2026-11-04T110707.009' is not established to show this seizure, so no media entry is added.
   - The QuiBrescia 4 November account dates the operation only as in recent days during Halloween checks and gives no separate arrest date; the 31 October 2026 incident date is retained from the earlier Bresciaoggi account.
   - The QuiBrescia 4 November account does not mention the suspect's age, the knife or the post-arrest measure reported in the earlier accounts.
-  - The page photo captioned 'sequestro droga' is not established to show this seizure, so no media entry is included.
 ---
 
 During a control operation on Saturday 31 October, the Local Police of Rezzato

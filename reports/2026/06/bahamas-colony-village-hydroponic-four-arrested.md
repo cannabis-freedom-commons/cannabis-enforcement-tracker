@@ -57,7 +57,6 @@ open_questions:
   - The weight is a police approximation of about one pound (0.45 kg), not a measured figure.
   - The $2,000 street value is a police estimate; the article gives the currency as a dollar sign only, taken here as Bahamian dollars.
   - The only account found for this raid is the Eye Witness News report of the police preliminary statement; BahamasLocal carries only a teaser paragraph linking to that page.
-  - The page shows only a social-media headline graphic, not a photo of the raid or the seizure, so no media is listed.
 ---
 
 Bahamas police arrested four people after Drug Enforcement Unit officers

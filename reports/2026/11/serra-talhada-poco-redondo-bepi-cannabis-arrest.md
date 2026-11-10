@@ -74,7 +74,6 @@ open_questions:
   - The suspects were not named and no ages or criminal records were reported.
   - No charge sheet, prosecutor's step or court outcome was reported; the Civil Police investigation was described as ongoing.
   - The hashish is listed as a separate product; nothing in the sources says where or how it was made.
-  - The submitted page's photo is captioned only PMPE and no caption identifies which seized material it shows.
 ---
 
 Military police in Pernambuco arrested two men suspected of drug trafficking on

@@ -78,7 +78,6 @@ open_questions:
   - Media links point to the Interior Ministry's own gallery, whose images are captioned only "Procedimiento" and "Auto interceptado".
   - The text gives a weight ("500 kilograms") but the figures have no kg_seized; check whether it belongs there.
   - El Observador gives no weight for the 209 packages and no further court outcome, so its account does not resolve the existing open questions about the load's weight or the detainees' charges.
-  - The El Observador gallery uses the same Interior Ministry handout photos already linked to the report, captioned only "Incautación de marihuana en el departamento de Salto", so no new media entry is added.
 ---
 
 Salto police arrested three men carrying 209 sacks of plant material, presumed

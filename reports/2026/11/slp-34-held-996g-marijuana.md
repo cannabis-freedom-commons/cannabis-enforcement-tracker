@@ -49,7 +49,6 @@ open_questions:
   - No municipality was named for the detentions or seizure; the account refers only to the four regions of San Luis Potosí.
   - No charges, court appearances or custody outcomes were reported.
   - The 436 methamphetamine doses, 110 cocaine doses and 41 crack doses are not cannabis and are excluded from the cannabis figures; no combined drug total is counted as cannabis.
-  - The page carries a photo with no caption tying it to these operations, so no media entry is listed.
   - No second source for this 34-person roundup was found; it is distinct from the similar 23-person San Luis Potosí sweep published on 31 October 2026.
 ---
 

@@ -51,8 +51,6 @@ open_questions:
   - No charges, custody order or court outcome were reported; police said further strict legal action was under way and questioning continued.
   - No value, buyer, source place or additional accused was published; police said the consignment's origin and network were still being investigated.
   - Only one accessible source for this event was found after web search, so no corroborating outlet could be cited.
-  - The page carries two embedded photos without captions, alt text or credits, so it cannot be established that they show this seizure; no media entry is included.
-  - The page's cover photo is captioned only as a ganja-smuggling bust with a generic reporter credit, so it cannot be established to show this 1.1 kg Lohiyanagar seizure; no media entry is included.
   - The new account does not mention Ward No. 28, the reported criminal history, the alleged flight attempt or repacking into small packets; those details rest on the earlier sources alone.
   - The new account links the accused to ganja and other narcotics or banned substances, but only 1 kg 100 g of ganja was reported seized, so no additional cannabis quantity is recorded.
   - The article gives no separate calendar date for the raid; Tuesday night before its 4 November 2026 publication aligns with the existing 3 November 2026 date.

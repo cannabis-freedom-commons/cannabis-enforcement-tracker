@@ -134,11 +134,6 @@ open_questions:
   - BNN gives 14, 21 and 23 October without a year; 2026 is inferred from the 5 November 2026 publication date.
   - Kodols gives no separate day for the arrest operation, placing it only at the end of October; police dated it 21 October 2026.
   - Kodols reports the marijuana weight only as almost 16 kilograms, while the State Police figure for marijuana alone is 15.7485 kilograms and does not separately weight the hashish and THC devices.
-  - The submitted page gives no date for the operation itself; 21 October 2026 comes from the earlier State Police account.
-  - The submitted page describes the two people in prison as two of the six organisers, while the existing report, following the police account, counts eight people in total with the two prisoners additional to the six detained.
-  - The submitted page rounds the seizure to 17 kilograms of amphetamine, 15 kilograms of marijuana and 2.5 kilograms of cocaine; the exact police weights are recorded in the existing report's earlier sources.
-  - The submitted page says the Lithuanians had been wanted without saying how many, and does not mention the prison search among the ten searches, listing only homes, cars and forest areas.
-  - The submitted page's lead image is captioned only 'Policija.' with no credit, so it cannot be established to show this seizure and no media entry is added.
 ---
 
 Latvia's State Police detained in Riga, Jurmala and the capital's surroundings a

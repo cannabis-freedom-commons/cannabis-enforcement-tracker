@@ -59,7 +59,6 @@ open_questions:
   - The 20 grams of crack cocaine are left out of the figures because they are not cannabis; no combined cannabis figure was reported.
   - No charges, bail decision or court outcome were reported, and the reports say only that the man was placed at the disposal of the judicial authority.
   - Both opened accounts reproduce the same Guardia Civil press release and are not independent reporting.
-  - The image on the submitted page is captioned as an archive picture of the Guardia Civil in Posadas and does not show this plantation, so no media entry is given.
 ---
 
 The Guardia Civil, Spain's military-status police force, arrested a 35-year-old

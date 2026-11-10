@@ -50,7 +50,6 @@ open_questions:
   - The exact flight route beyond Thailand as the country of departure was not published.
   - No charges, custody ruling or court outcome were reported; the case file was referred to the Tirana prosecution.
   - No direct Albanian State Police page for operation Package 6 could be opened; the detailed account quotes the police announcement.
-  - The page images are captioned as a debate on asset-confiscation law in Bosnia and Herzegovina and do not establish that they show this seizure, so no media entry is included.
   - The same UNODC roundup reports a separate March 2025 confiscation of 27 kg of marijuana at Belgrade airport, a different event left for its own report.
 ---
 

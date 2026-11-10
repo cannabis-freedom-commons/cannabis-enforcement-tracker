@@ -182,17 +182,13 @@ open_questions:
   - 'Left out, as its quotation was not found in SOL.DE: The investigation had been running since spring 2026.'
   - 'Left out, as its quotation was not found in SOL.DE: The case began with a May customs check near Pirmasens, when officers found about 20 kilograms of marijuana in a car boot.'
   - 'Left out, as its quotation was not found in Zoll (Generalzolldirektion): The Federal Criminal Police Office crime-scene unit, the Saarbrücken main customs office and state police helped secure the plantations.'
-  - The submitted page gives hashish as "knapp ein Kilogramm" (just under one kilogram) while the agencies' release and the report state one kilogram; the report's cannabis total keeps the stated one kilogram.
   - No charges or trial outcome have been reported; the authorities said the investigations continue.
   - 'Left out, as its quotation was not found in Polizei.news: Investigators also seized a tablet press, blank-firing and air weapons plus another possibly live firearm.'
   - The SR.de page describes the seized hashish as just under one kilogram ("knapp ein Kilogramm") while the joint statement of the Saarbrücken prosecutor's office and the Frankfurt customs investigation office gives 1 kg; the report's 12.5 kg cannabis total keeps the stated one kilogram.
   - The SR.de rail video on the raid has no recoverable direct stream address, so it is not listed in media.
-  - The Saarbrücker Zeitung piece does not say which of the five plantations is meant by the Saarpfalz-Kreis site; the existing report records that prosecutors described the largest plantation as being in Homburg, which lies in that district.
-  - The article's lead photo is a dpa stock illustration (Symbolbild), not a picture of this raid, so no media entry is added for it.
   - The roundup attributes the operation to Hessische Ermittler, while the joint statement identifies the Frankfurt customs investigation office acting for the Saarbrücken prosecutor.
   - This roundup names only Saarland for the eleven addresses, while other reporting and the joint statement place them in Saarland and the Nordpfälzer Bergland.
   - The roundup gives no separate cannabis weight and its lead picture is a generic AFP cannabis-plant illustration, not a picture of this raid, so no figures or media change.
-  - This reprint describes the hashish as just under one kilogram ("knapp 1 Kilogramm Haschisch") while the existing report records one kilogram from the authorities' release; the existing cannabis total is unchanged.
   - The article names the shared announcement by the Saarbrücken prosecutor's office and the Frankfurt customs investigation office dated Thursday 5 November 2026 and the searches on the preceding Tuesday, which supports the report's 3 November incident date; 6 November 2026 is this page's publication date.
   - The article gives the hashish as just under one kilogram while the report's cannabis total uses the stated one kilogram.
   - The Rhein-Zeitung gives 200 to 300 plants for the Jeckenbach house, a range, while the Saarbrücken prosecutors' office and the investigators' release state about 300; no single plant count or weight for this site was published.
@@ -206,7 +202,6 @@ open_questions:
   - The French cash seizure of more than 17,000 euros is approximate and separate from the about 22,000 euros seized in Germany.
   - No names, ages or later court outcomes for the French suspects are given beyond the 11 mises en examen and six pretrial detentions.
   - The article gives no breakdown of the 31.4 kilos of cannabis seized in France by herb, resin or pollen, and still no plant count for the French searches.
-  - The article gives the operation's date as Tuesday 3 November, consistent with the existing report; it gives no names, ages or later court outcomes for the French suspects.
 ---
 
 Customs officers arrested eight people aged 22 to 54 on suspicion of cultivating

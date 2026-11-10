@@ -44,7 +44,6 @@ open_questions:
   - The cocaine weighed 168 kg across 180 packages, with 100 kg confirmed by testing at the time; this report counts only the 500 kg cannabis figure.
   - The two charged people are described only as a 33-year-old woman from Islington and a 41-year-old man from Stoke Newington, with no court outcome reported.
   - The combined street value of about 10 million pounds is a police estimate for both drugs together.
-  - The Ealing page shows two photographs of seized drugs whose depiction of this seizure could not be verified, so no media entry was made.
 sources:
   - title: Ealing Police make biggest drugs bust in a decade
     publisher: NeighbourNet (Ealing Police)

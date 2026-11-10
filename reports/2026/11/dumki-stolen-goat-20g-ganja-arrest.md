@@ -40,7 +40,6 @@ sources:
 open_questions:
   - Whether police filed a separate case under drug law or only for goat theft is not stated, and no charge or court outcome was reported.
   - Only one accessible source for this 4 November 2026 incident was found after searching in Bengali and English.
-  - The page carries a photo titled with the incident headline, but its content is not described as showing the ganja seizure, so no media entry is included.
 ---
 
 Local people detained two youths in Dumki carrying a stolen goat and handed them

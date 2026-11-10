@@ -47,7 +47,6 @@ open_questions:
   - No court outcome beyond the planned referral to the prosecutor on Monday was reported.
   - Whether the discovered plants were uprooted, seized or destroyed was not stated beyond the brigade taking control of the plantation.
   - Only one accessible source for this event was found after searching in French; no second corroborating report could be opened.
-  - The page carries a photo filed only as FB_IMG_1609589159101.jpg with no descriptive caption or credit establishing that it shows this plantation, so no media entry is included.
 ---
 
 In Ouzioini, gendarmes arrested a man suspected of producing cannabis and placed

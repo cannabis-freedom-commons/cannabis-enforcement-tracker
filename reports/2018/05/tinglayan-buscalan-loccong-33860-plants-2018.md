@@ -41,7 +41,6 @@ sources:
 open_questions:
   - Only one outlet's account of this operation could be opened.
   - The same police roundup reports two arrests in separate Benguet drug operations, different events left out here.
-  - No photo confirmed to show this operation was available on the opened page, so no media entry was added.
 ---
 
 Police and anti-drug agents uprooted and burned 33,860 fully grown marijuana plants in a follow-up operation in Tinglayan, Kalinga, on 27 May 2018. [@1] The destroyed plants, found in Barangays Buscalan and Loccong, were valued at about PHP 5.97 million. [@1]

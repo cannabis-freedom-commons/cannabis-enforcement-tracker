@@ -53,9 +53,7 @@ open_questions:
   - The government account reports more than 1,500 kg and more than 4,000 million pesos, while Info Central reports 1,500 kg and 4,000 million pesos; the figures record the supported lower bounds.
   - The valuation is an official estimate, not an independently assessed market value.
   - No suspects, arrests, charges or later court outcome are reported.
-  - The government page's embedded image has no caption or alt text confirming that it shows this seizure, so no media entry is included.
   - The archive-style agency page carries no separate operation date; the report's date of 21 March 2025 rests on Info Central's account that the seizure happened the previous night.
-  - The page's two inline photographs have no caption, credit or alt text, so no media entry was added for them.
 ---
 
 Prefectura Naval Argentina (PNA) officers seized more than 1,500 kilograms of

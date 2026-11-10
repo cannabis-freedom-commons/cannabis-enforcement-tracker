@@ -41,7 +41,6 @@ open_questions:
   - No weight was published for the 40 packets, so no kilogram figure is recorded.
   - The incident occurred during the night of 16 to 17 October 2026; 17 October 2026 is used as the incident date.
   - No second source for this event was found in an accessible opened article.
-  - The page's lead image is a generic Malijet Faits divers graphic whose caption does not establish that it shows this seizure, so no media entry is added.
   - The suspect is identified only by the initials B.T., and no arrest of the named supplier or intended recipient was reported.
   - No charges, trial details, or court outcome beyond judicial custody were reported.
 ---

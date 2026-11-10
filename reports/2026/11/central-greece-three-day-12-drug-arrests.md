@@ -73,11 +73,9 @@ open_questions:
   - No names, ages or charges beyond drug-law offences and no court steps were reported; the people arrested are counted only as arrested, not charged.
   - The twelve arrests came in eleven separate cases and no breakdown shows which case involved cannabis, so the cannabis seizures cannot be attributed to particular arrests among the twelve.
   - The press accounts reproduce statements from the Hellenic Police and the General Regional Police Directorate of Central Greece and are not independent reporting.
-  - The submitted page's lead image and the images in the other accounts are generic police pictures with no caption tying them to this roundup, so no media entry is included.
   - A separate April 2026 Central Greece police roundup also reported twelve drug arrests and the same county-level structure, so a later police statement may correct or repeat part of this account.
   - 12 συλλήψεις για ναρκωτικά και 28 παραβάσεις για μη χρήση κράνους στη Στερεά Ελλάδα (Asopichos.gr) could not be opened again to check its quotations (the browser could not load the submitted public page; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.
   - The iparnassos.gr and LamiaNow.gr texts both reproduce the same Central Greece police statement as the outlets already cited, so they are not independent reporting of the arrests.
-  - The submitted page's two images are generic police photos with no caption tying them to this roundup, so no media entry is added.
 ---
 
 Greek police arrested twelve people over the last three days in the Central

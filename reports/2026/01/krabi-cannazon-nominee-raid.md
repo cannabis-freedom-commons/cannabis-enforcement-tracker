@@ -38,7 +38,6 @@ tags: [krabi, foreign-business-act, cannazon]
 open_questions:
   - No cannabis weight was published for this January search; a later March 2026 raid at the same company seized extracts separately.
   - No photographs of the January raid were recovered from the opened articles.
-  - The existing report records one detention and four Thais sought; The Nation and Thai PBS later reported that four people were arrested on warrants on the raid day, which is why arrested is now given as five.
   - The Israeli owner's name is given as Mose Yamin in the Thai-based English accounts and only as M. in Ynetnews.
   - Ynetnews and Khaosod English name different people as Krabi governor for the raid, and Ynetnews calls the provincial police chief Sukhsom Nakhonwilai while Khaosod and Thai PBS name Sukasem Nakornwilai.
   - The DBD accounts give the post-restructuring foreign share as 59% in The Nation and Thai PBS and 59:41 in the Phuket Express reprint, while Khaosod and Ynetnews describe a 49:51 structure; the discrepancy is not explained by the sources.
@@ -47,8 +46,6 @@ open_questions:
   - No figure for the number of plants, the weight of cannabis or extracts, or a value estimate was published for this raid.
   - No plea, charge sheet or court dates were published for the four arrested Thais or for the Israeli owner.
   - The Ynetnews gallery pictures are credited only to Krabi Police and their captions only repeat the headline, so the pictures are listed as raid photos without confirming which room each shows.
-  - The opened capture exposes only the headline, subheading and a generic Israel farm photo caption; detailed raid paragraphs visible in page markup could not be quoted from the readable-text capture, so dates, company and owner names rely on the existing report.
-  - The page photo shows workers at a farm in central Israel, not the Krabi raid, so no media entry is added.
 sources:
   - title: Krabi raids Israeli-run cannabis farm using Thai nominees
     url: https://www.khaosodenglish.com/news/2026/01/21/krabi-raids-israeli-run-cannabis-farm-using-thai-nominees/

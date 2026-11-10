@@ -89,9 +89,7 @@ sources:
 open_questions:
   - The articles give only the publication date of 3 November 2026 and no separate date for the evening stop and arrest, so 3 November 2026 is used as the incident date.
   - The reports do not say whether the woman driving the car was identified or investigated.
-  - This account gives no time of day for the stop, so the evening timing in the existing report remains supported only by the earlier sources.
   - This account describes the evasion attempt as timid rather than brief, so the report's wording on that detail remains based on the earlier accounts.
-  - The page's featured drug photo carries no caption or credit establishing that it shows this seizure, and a police-handout photo is already recorded, so no additional media entry is included.
 ---
 
 State Police arrested a 16-year-old boy found with marijuana in Via Passo

@@ -46,7 +46,6 @@ open_questions:
   - Only Ouest-France's publication date of 5 November 2026 and the hearing date of 2 November 2026 are given; the chase is dated only to early March 2026, so 1 March stands in for the event date and may be wrong.
   - Neither account gives the amount of cannabis he carried or says whether a cannabis offence formed part of the conviction rather than a possession noted in the case.
   - Only the refusal-to-stop sentence is stated; separate rulings on the other offences and any fine or licence ban were not reported.
-  - The Ouest-France image is labelled an illustration, not a picture of this chase or the arrest, so no media entry is made.
   - Ouest-France cites L'Alsace for the sentence details, and that article's full text was behind a paywall, so further details of the hearing could not be checked.
 ---
 

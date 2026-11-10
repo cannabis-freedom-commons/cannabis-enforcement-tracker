@@ -64,7 +64,6 @@ open_questions:
   - The Ottopagine headline calls the cannabis marijuana while its body and the Virgilio report call it hashish; the report uses hashish from the article bodies.
   - 'No event-specific photo could be listed: the Virgilio image is a labelled repertory/file photo and the Ottopagine thumbnail caption does not establish that it shows this seizure.'
   - The page gives only its publication date of 2 November 2026 and no separate day for the checks and arrest.
-  - The page carries a photo captioned Operazione della polizia, which does not establish that it shows this seizure, so no media entry is added.
 ---
 
 Avellino's Squadra Mobile officers arrested a 23-year-old man from Avellino in

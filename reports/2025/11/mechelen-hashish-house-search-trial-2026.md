@@ -40,7 +40,6 @@ open_questions:
   - The cocaine quantity is given only as two user amounts, so no weight is derived from it.
   - The article names the court only as the correctionele rechtbank and gives no case number.
   - No judgment is reported; the court postponed its ruling to 7 December.
-  - The page's photos show the street where the man was stopped and a collage of the man and his lawyer, not the seized drugs, so no media entry is added.
 ---
 
 A 36-year-old man from Mechelen appeared in the correctional court charged with

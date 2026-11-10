@@ -51,8 +51,6 @@ open_questions:
   - No arrest, seizure weight, or street value was reported; the man is so far only under investigation.
   - No court outcome has been reported and the investigation was still under way.
   - Both accessible sources reproduce the same police and prosecutor press release, so no independent account was found.
-  - The submitted page shows only a stock placeholder image, so no event photo can be listed as media.
-  - The op-online page image is a dpa archive photo of cannabis plants, not this Groß-Gerau seizure, so no media entry is included.
 ---
 
 Investigators had received tips some time earlier that a 56-year-old man in

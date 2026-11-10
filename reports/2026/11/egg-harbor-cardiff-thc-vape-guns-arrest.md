@@ -61,7 +61,6 @@ open_questions:
   - Amphetamine and MDMA pill counts and firearms are named only to explain the mixed seizure and are excluded from cannabis figures.
   - BreakingAC reports pending Atlantic City drug charges from a November 2025 summons, with 30 grams of THC oil, 12 disposable vaporizers, 17 grams of hashish and psilocybin bars; that is a separate event and its amounts are excluded here.
   - No detention outcome, charge sheet detail or court result beyond the pending hearing was reported.
-  - No usable event photo with a recoverable direct image address was available, so no media entry is included.
 ---
 
 Egg Harbor Township police arrested 19-year-old Hebereli Mejia of the Cardiff

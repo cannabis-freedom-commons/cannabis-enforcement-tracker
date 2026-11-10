@@ -92,14 +92,10 @@ open_questions:
   - The 29-year-old courier's 974 grams were heroin and cocaine, not cannabis, so no cannabis weight is recorded for him and his 83 pellets are not counted as hashish.
   - Prima Bergamo reports a combined 3.2 kilograms of drugs for the two arrivals; only the 2.3 kilograms of hashish is recorded as cannabis, and the rest is cocaine and heroin.
   - Il Giorno gives the retail value as almost 25,000 euros and Corriere Bergamo says more than 50,000 euros, while the accounts used here give more than 51,000 euros; the report uses the 51,000-euro figure for illegal-market profits.
-  - Only the submitted page and two other outlets reproducing the same Guardia di Finanza statement were found; no court or agency release was opened.
-  - The submitted page carries a video player whose direct video address could not be confirmed, so only still photos are listed.
   - The page carries no date for the checks themselves; 6 November 2026, the publication date, stands in for the incident date.
   - The page's single image is an airport-themed illustration with no credit and shows no seizure, so it is linked without being treated as evidence of the drugs found.
   - Il Giorno gives the hashish's retail value as almost 25,000 euros, while the report records the Guardia di Finanza figure of more than 51,000 euros. The existing open question on differing values therefore remains, and the Il Giorno figure is another estimate for the same shipment.
   - Il Giorno opens with the dateline 'Lecco, 6 giugno 2026' but carries 6 November 2026 as its publication and update date, and the corresponding tracker report dates the event 6 November 2026; the day the checks took place is still not stated.
-  - Il Giorno's text once calls the man 38 years old where its headline and body give 48; the existing report's 48 years is used.
-  - The page's photos are captioned only as the drugs found at Orio, with no credit, so no new media entry is added; the report already links Guardia di Finanza handout photos from other outlets.
 ---
 
 A 48-year-old man living in Lecco province returned from a week in Málaga with

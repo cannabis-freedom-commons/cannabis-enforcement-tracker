@@ -53,7 +53,6 @@ open_questions:
   - No charge, plea, validation hearing outcome or sentence is reported; the case was at the investigation stage under house arrest.
   - Only the initials G. S. and the age of 30 were published for the suspect.
   - Only one source, PalermoToday, was found for this arrest; no police statement or second outlet account could be opened.
-  - The page image is labelled Foto d'archivio (archive photo) and is a generic night police patrol picture, so no media entry is listed.
   - The cash of about 70 euros is stated as approximately and is recorded as the amount police reported finding.
 ---
 

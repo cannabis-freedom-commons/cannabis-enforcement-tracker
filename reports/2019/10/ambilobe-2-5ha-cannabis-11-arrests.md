@@ -50,7 +50,6 @@ open_questions:
   - The names, ages and later court outcomes for the eleven people placed in provisional detention were not reported.
   - No separate hamlet or field location beyond the Ambilobe gendarmerie area was named, so Ambilobe town is used for coordinates.
   - Only one accessible account of this event was found after searching in French and English; figures attributed to L'Express de Madagascar are carried through that account.
-  - The page's main cannabis-plantation image is captioned only with the article title and carries no credit establishing that it shows the Ambilobe plantation, so no media entry is included.
 ---
 
 During the operation at Ambilobe, gendarmes came across eleven suspects,

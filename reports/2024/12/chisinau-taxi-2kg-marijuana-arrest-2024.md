@@ -56,7 +56,6 @@ open_questions:
   - The reports give no separate date for the road stop or the home searches; 9 December 2024 is the publication date and is used as the incident date.
   - The reports do not say how the 25-day and 30-day detention terms were divided between the two suspects.
   - No court outcome beyond preventive detention was reported; the investigation was still under way.
-  - No photo on the cited pages is established by caption or credit to show this seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in Radio Moldova: The pair were caught red-handed with the drug bag.'
 ---
 

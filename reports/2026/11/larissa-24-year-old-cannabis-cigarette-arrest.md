@@ -44,7 +44,6 @@ open_questions:
   - The exact spot in the Larissa area where the check took place was not named; only the Larissa area is given.
   - No charge sheet, prosecutor referral, pre-trial custody decision or court outcome was reported; the case was at the investigation stage.
   - Only one source for this event was found, after searching in Greek.
-  - The page's lead image is a file photo from October 2026 captioned for an unrelated 4.5 kg Larissa cannabis case, so no media entry is added.
 ---
 
 Officers of the Larissa Crime Prevention and Suppression Unit, known by the

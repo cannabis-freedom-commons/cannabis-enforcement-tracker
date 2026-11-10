@@ -49,7 +49,6 @@ open_questions:
   - The accounts spell the first arrested fisherman's name as Ramish (The New Indian Express, BusinessLine) and Ramesh (DT Next), and the mastermind's associate as Phillomen Prakash and P Prakash, without reconciling the spellings.
   - Sources give the methamphetamine weight as 37.645 kg (The New Indian Express, ANI) or 37.64 kg (BusinessLine), and DT Next reports the seizure in two parts, 30 kg at the station and 7 kg from the Kodungaiyur dump yard, which the others do not.
   - The articles give no hearing date, court proceeding or outcome in the 2024 DRI cases, and do not say whether Britto has been arrested.
-  - The submitted page and the ANI, DT Next and BusinessLine pages carry only logo, file or illustrative images of the Enforcement Directorate, so no media entry is listed.
   - The Enforcement Directorate's own statement on the searches could not be opened to confirm the figures.
   - The text gives a weight ("99 kg") but the figures have no kg_seized; check whether it belongs there.
   - 'Left out, as its quotation was not found in The Hindu BusinessLine: The BusinessLine account, by PTI, reported the searches at multiple locations and gave the methamphetamine weight as 37.64 kg.'

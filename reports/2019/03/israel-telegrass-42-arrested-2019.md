@@ -59,13 +59,11 @@ open_questions:
   - The CTech article describes the investigation as months long while a July 2019 CTech account describes it as a two-year operation; the report uses the March 2019 wording.
   - No charge, indictment or court outcome from these arrests is recorded; the 2019 accounts report only detention hearings and police allegations.
   - The Ynetnews English page is credited to Reuters and both accounts draw on the same police statement, so they are not fully independent reporting.
-  - The CTech page's only image is a generic Telegram illustration credited to Russia Beyond, not a picture of the arrests or seizures, so no media entry is added.
   - The submitted article counts the network's users as tens of thousands, while Reuters reported over 100,000 members in Israel; the report attributes the larger figure to Reuters.
   - The article notes that Prime Minister Benjamin Netanyahu said the day before that he was considering legalising recreational cannabis; that is separate political context, not part of this enforcement event.
   - i24NEWS gives the network 200,000 to 250,000 users, while the earlier report cites Reuters' figure of more than 100,000 members in Israel.
   - The article says Silver founded Telegrass in March 2017 and gives no date beyond "early Tuesday" for his arrest in Ukraine.
   - The report's existing figure of 42 arrested and the four-country sweep match this account, so no figure change is proposed.
-  - The only image on the i24NEWS page is a 2012 file photo of a security guard at a medical cannabis farm, not this operation, so no media entry is added.
 ---
 
 Israel Police said it arrested 42 people suspected of holding top management

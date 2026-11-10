@@ -44,7 +44,6 @@ open_questions:
   - The articles give only the publication date of 2 November 2026 and no separate day for the Viterbo checks, so the publication date is used as the incident date.
   - The eight were reported at liberty for weapons, resistance, aggravated damage and threats; the hashish was treated as an administrative offence for personal use, with no criminal drug charge or court outcome reported.
   - National totals of 174.8 kg of cannabinoids, 69.4 kg of cocaine and 328.44 g of heroin are context for the same national operation and are left out of the local figures, as in the Trento and Lecco reports.
-  - The submitted page image is a generic baby-gang image with an empty caption and credit and does not show this seizure, so no media entry is added.
   - The text gives a weight ("174.8 kg") but the figures have no kg_seized; check whether it belongs there.
   - 'Left out, as its quotation was not found in Civonline: During the searches officers seized a knife and some doses of hashish, which police treated as an administrative offence for personal use rather than a criminal drug charge.'
   - 'Left out, as its quotation was not found in ViterboToday: Police said the prevalent conduct, also shown by the perpetrators themselves on social media, included attempted murder, injuries, affray, damage, extortion, theft, robbery, drug dealing and unlawful possession of weapons.'

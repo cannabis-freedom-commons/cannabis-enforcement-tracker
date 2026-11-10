@@ -52,7 +52,6 @@ open_questions:
   - No count was published for the rudimentary weapons or knives.
   - No quantity was published for the fruit intended for maceration.
   - Only one accessible source for this event was found after searching in Italian, so no second account could be added.
-  - 'No photo could be established to show this seizure: the supplied thumbnail belongs to an unrelated demolition video and the header image has no caption or credit tying it to the seized material, so no media entry is included.'
 ---
 
 Penitentiary police found 16 grams of hashish hidden in a freezer during an

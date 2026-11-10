@@ -58,11 +58,8 @@ sources:
 open_questions:
   - Only one accessible source for this event was found after searching; no second report could be opened.
   - No court outcome was reported; questioning about the ganja source, intended supply and possible accomplices was still under way.
-  - The page photo shows the Biaora (Dehat) police-station signboard, not the seizure, so no media entry is included.
-  - The Hindusthan Samachar page image is captioned only with the seizure headline and carries no credit establishing that it shows this 10-kg seizure, so no media entry is included.
   - The headline says the woman was caught 'again' and the visible text breaks off at 'खास बात ये है कि पुलिस', but the paywalled remainder explaining any prior offence could not be opened.
   - The seized value is given only as approximate, about one-and-a-half lakh rupees.
-  - No direct image address for this seizure was recoverable; the capture lists only the article URL as source_images[].src, so no media entry is included.
   - 'Left out, as its quotation was not found in Dainik Bhaskar: The woman is Mamta, wife of Mohan Kushwah, a resident of Indra Colony.'
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Police said an informer had tipped them that a woman in Indiranagar Colony was holding ganja.'
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Officers went to the spot and caught her outside her house.'

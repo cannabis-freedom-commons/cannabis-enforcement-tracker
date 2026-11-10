@@ -49,7 +49,6 @@ sources:
 open_questions:
   - The two accounts disagree on the number arrested and on Appleton's age; this report uses the CID briefing's eleven arrests and age 58.
   - Sources place the farm near Nkwanta, near Kedjebi and in Alavanyo-Nkonya district, so no precise coordinates are given here.
-  - The only photo on the source page is a generic captioned farm picture that cannot be confirmed to show this raid, so no media is listed.
   - The sources link the raid to the 1.5-tonne Heathrow seizure from Ghana five days earlier, a separate event recorded in its own report.
 ---
 

@@ -33,7 +33,6 @@ open_questions:
   - The same agency roundup reports a separate 472 kg seizure at Idi-Iroko on 25 November and a separate 185.6 kg seizure in Benin City on 28 November, different events left out here.
   - No charges or court dates for Onibogi Muftau were reported.
   - The second account reprints the NDLEA statement text.
-  - The NDLEA page carries five photographs with this statement, but the text does not say which show the Ilesan cannabis, so no media entry was added.
 sources:
   - title: After 35 years in Brazil, businessman returns home with ingested cocaine in his stomach
     url: https://ndlea.gov.ng/blog/after-35-years-in-brazil-businessman-returns-home-with-ingested-cocaine-in-his-stomach

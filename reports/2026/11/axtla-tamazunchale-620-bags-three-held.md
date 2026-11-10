@@ -65,7 +65,6 @@ open_questions:
   - Two accounts open on the same day carry the same state security statement, and no separate official communiqué was opened.
   - A same-day roundup in Pulso SLP and San Luis Hoy reports four different detentions with 65 crystal doses in Axtla de Terrazas and marijuana doses in Villa de Reyes and Villa de Guadalupe; it appears to be a separate operation and is not counted here.
   - The Plano Informativo photograph carries no caption or credit tying it to this seizure, and the El Exprés image file carries none either.
-  - The Pulso page is dated 7 November 2026 while the existing report uses 6 November 2026 from the earlier accounts; the page gives no separate date for the operation itself.
 ---
 
 Officers of San Luis Potosí's Guardia Civil Estatal, the state civil guard,

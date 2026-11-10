@@ -52,7 +52,6 @@ open_questions:
   - Bénin Web TV gives no separate event date; 15 February 2026 is the interception date reported by Benin News, while 19 February 2026 is the Bénin Web TV publication date.
   - The 2,500 calibre-12 cartridges are a separate ammunition seizure mentioned to explain the mixed event and are excluded from cannabis figures.
   - No court outcome was reported; the investigation into the apprentices' roles, the fleeing driver and possible accomplices was still under way.
-  - The submitted page's only listed photo is captioned as 70,000 cartridges found in a truck and uses a 2024 image, so it is not established to show this seizure and no media entry is included.
 ---
 
 A joint customs and police check intercepted a minibus coming from Togo at

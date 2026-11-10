@@ -78,9 +78,6 @@ open_questions:
   - Customs did not name the man, and no charge or court appearance was reported in the opened accounts.
   - The HK$1.1 million value is Customs' own estimate.
   - The Standard's account repeats the Customs statement; no independent reporting of the event was found.
-  - The page carries one image with only the generic caption loadPhoto (1).jpg, so whether it shows this seizure could not be established and no media entry is added.
-  - The submitted page names The Standard as its source and adds no independent reporting beyond the accounts already cited.
-  - The page image is captioned as a file/reference photo, so no media entry is added.
 ---
 
 Hong Kong Customs arrested a man at Hong Kong International Airport on 31

@@ -69,7 +69,6 @@ open_questions:
   - The defendants were identified only by initials, so full names are not recorded.
   - The 100,000-pound fine was imposed on each man; figures records the per-person amount rather than a combined total.
   - Only one accessible source for this event was found after searching in Arabic.
-  - The page photo is captioned only with the headline and is not established to show this arrest, seizure or hearing, so no media entry is included.
   - No appeal or further court outcome was reported.
   - This report was published on 9 November 2026, five days after the earlier coverage; the sentence hearing date itself is still not stated.
 ---

@@ -164,15 +164,7 @@ open_questions:
   - The 2 kg 744 g of cannabis seeds is reported in the text but not counted in kg_seized, which records the 3 kg 59 g of esrar.
   - The reports do not say whether the 10 plants were destroyed or kept as evidence.
   - The accounts rest on the same police statement and name no suspect; no independent reporting was found.
-  - The submitted page carries a single image captioned only with its headline and no credit, and no photograph of the search itself appears with the opened accounts.
-  - This syndicated copy names the Ödemiş and Bayındır district police directorates as the raiding units; the existing report follows fuller agency copies that name the Ödemiş anti-narcotics branch.
-  - The submitted page gives no separate date for the search; 1 November 2026 is its publication date.
-  - The page's single image is captioned only with the headline and carries no credit, so it cannot be confirmed to show this seizure and no media entry is added.
-  - The page's images are captioned only with the headline or a file name with no credit, so they cannot be confirmed to show this seizure and no media entry is added.
-  - This copy names the raiding units as the Ödemiş and Bayındır district police directorates, while the existing report follows fuller copies naming the Ödemiş narcotics branch.
   - The page gives no separate date for the search; 1 November 2026 is its publication date.
-  - The page's single image is captioned only with the headline with an Anadolu Ajansı credit, so it cannot be confirmed to show this seizure and no media entry is added.
-  - The page gives no separate date for the search; 1 November 2026 is its publication date, consistent with the existing report's date.
   - The article gives no separate date for the search; 1 November 2026 is its publication date.
 media:
   - kind: photo

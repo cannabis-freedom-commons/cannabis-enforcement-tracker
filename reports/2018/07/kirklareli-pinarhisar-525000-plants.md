@@ -52,7 +52,6 @@ sources:
 open_questions:
   - The single opened account gives no separate date for the operation; 6 July 2018 is the page's publication date and is used as the incident date.
   - The Anadolu Agency dispatch the page credits could not be opened, and no second independent account of this seizure was found.
-  - The page carries only a placeholder image, not a picture of the field, so no media entry is included.
   - No charges, court outcome or later step in the case was reported for the detainee.
 ---
 

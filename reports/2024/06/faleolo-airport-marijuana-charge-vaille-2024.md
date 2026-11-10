@@ -55,7 +55,6 @@ open_questions:
   - No weight or quantity of marijuana was published, so no kilogram figure is recorded.
   - Whether the court appearance set for 24 June 2024 took place, and what the court decided, was not reported.
   - Only one source for this event could be found and opened.
-  - The page images carry no caption tying them to this interception, so no media entry is added.
 ---
 
 Customs officials at Faleolo International Airport detained a 44-year-old man

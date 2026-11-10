@@ -69,7 +69,6 @@ open_questions:
   - The Royal Gazette appears to misname the remanded man, saying Senior Magistrate Juan Wolffe remanded Mr Wolffe; the report treats the person remanded as Snow.
   - Smith's fines are stated in dollars without naming the currency; Bermuda dollars are assumed.
   - The November 2016 trial's outcome for Snow was not found; no later coverage of the case was located.
-  - The submitted page carries no photograph of the hearing or the drugs; its lead image is an unlabelled staff image, so no media are listed.
 ---
 
 Marcus Snow, a 40-year-old from Toronto, was charged in Bermuda's Magistrates'

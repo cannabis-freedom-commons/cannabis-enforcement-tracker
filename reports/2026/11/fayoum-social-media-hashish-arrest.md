@@ -139,12 +139,10 @@ open_questions:
   - The page photo captioned المتهمان (the two accused) carries no credit and cannot be confirmed to show this arrest, so it is not added as media.
   - Akhbar Al-Yom gives no weight, value or packet count for the hashish found on either man, so it adds no cannabis quantity to the recorded report.
   - Akhbar Al-Yom gives no date for the arrests; 7 November 2026 is its publication date and stands in for the incident date.
-  - The page photo is captioned only المتهمان (the two accused) and carries no credit; it cannot be confirmed to show this arrest rather than a recycled police handout, so no media entry is added.
   - Youlyou reproduces the same Interior Ministry statement as the accounts already cited and is not independent reporting on this arrest.
   - Like the other accounts, Youlyou gives no weight, value or packet count for the hashish found on either man.
   - Dar Al-Hilal reproduces the same Interior Ministry statement as the accounts already cited and is not independent reporting of the arrest.
   - Like the other accounts, the page gives no weight, value or packet count for the hashish found on either man.
-  - The page photo is captioned only المتهم (the accused) with no credit, so it cannot be confirmed to show this arrest and no media entry is added.
   - Neither the page nor the report gives an exact date for the arrests; 7 November 2026 is the publication date.
 ---
 

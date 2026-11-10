@@ -42,7 +42,6 @@ open_questions:
   - Only one accessible source for this event was found after searching in Turkish and English, and it republishes an AA agency account.
   - Full names, ages, charges and any later court outcome beyond the remand of Y.S. were not reported.
   - No separate cannabis valuation, additional drug quantities or plant counts were published.
-  - The page carries a photo captioned only as Izmir'de uyusturucu operasyonu, which does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Izmir police narcotics teams mounted an operation in Bornova district as part of

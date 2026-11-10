@@ -65,8 +65,6 @@ open_questions:
     839 kg and €2.52 million; the opened articles do not explain the two-kilogram difference.
   - Whether a scout car preceded the convoy and whether the resin was for Lyon or in transit was
     still under Ofast phone analysis when the 21 October report was published.
-  - Le Dauphiné and Le Progrès use archive customs photos, not pictures from this stop, so no media
-    is listed.
 ---
 
 Shortly after midnight on the night of 19 to 20 October 2026, customs officers

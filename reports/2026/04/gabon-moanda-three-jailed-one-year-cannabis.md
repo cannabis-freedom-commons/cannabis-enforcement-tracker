@@ -49,7 +49,6 @@ open_questions:
   - The report does not say which defendant possessed which substance.
   - Whether any fine was imposed or any appeal was filed was not reported.
   - Only one opened source was available; it cites L'Union of 3 April 2026, which was not opened separately.
-  - The page's prison photo is a 2023 file image of Franceville prison credited D.R. and does not show this arrest, seizure or hearing, so no media is listed.
 ---
 
 Officers of the Haut-Ogooué provincial branch of the Central Anti-Drug Office

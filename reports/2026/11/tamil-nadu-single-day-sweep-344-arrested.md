@@ -54,11 +54,9 @@ open_questions:
   - The kg figure combines newly seized 242.2 kg ganja and 19.8 kg hashish with separately quantified 6,958 kg destroyed ganja; 0.250 kg methamphetamine, 12.298 kg other drugs, 2,143 tablets, gutka and IMFL were excluded as non-cannabis.
   - Train-search 104.36 kg versus 104.361 kg and checkpoint 23,000-plus versus 23,744 vehicles differ by rounding between sources and are parts of the operation total, not added separately.
   - No charges, custody or court outcomes were reported beyond arrests and warrant executions.
-  - The submitted page image caption describes 451 kg from 232 cases in nine districts, not this 38-district operation, so no media entry is included.
   - The new detail says the checkpoint checks recovered 4.4 kg of ganja; it is not clear whether this weight is already included in the operation's 242.2 kg ganja total, so it is not counted separately as a cannabis figure.
   - Tamil Murasu gives 104.36 kg of ganja from train searches and Daily Thanthi gives 104.361 kg, a rounding difference within the same operation.
   - Neither account gives charges, custody status or court outcomes for the 344 people arrested, beyond the arrest figures and executed warrants.
-  - Viduthalai says the drive took place on 4 November 2026, while the existing report, based on 4 November publications describing the operation as held 'yesterday', dates it 3 November 2026.
   - The page carries only a generic newspaper placeholder image, so no photo of the operation could be linked.
 ---
 

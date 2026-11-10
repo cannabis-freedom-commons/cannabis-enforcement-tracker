@@ -73,7 +73,6 @@ open_questions:
   - Isle of Man Today says Badley booked a hotel room in his own name, while the BBC says he told officers he was visiting his girlfriend; both are reported.
   - The court reports do not say where the cannabis originated beyond the Liverpool sailing or who supplied Badley with the car.
   - Energy FM's account is a short retelling that credits the BBC, so it is a reprint rather than an independent report.
-  - The only photograph of the page shows the Courts of Justice building, not the car, the drugs or the hearing, so no media entry is listed.
 ---
 
 Kyle Badley, 38, of Birkenhead, was jailed for three years and two months for

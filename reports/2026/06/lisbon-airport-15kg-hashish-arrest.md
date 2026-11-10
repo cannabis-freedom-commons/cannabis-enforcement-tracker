@@ -53,7 +53,6 @@ open_questions:
   - The woman's name was not published.
   - No further court outcome beyond preventive detention was reported, and investigations were still under way.
   - Only one accessible reporting of this event was found, and web search returned no second account to corroborate it.
-  - The page carries a 2025 Lisbon Airport photograph credited to Tiago Petinga/LUSA, which is not shown to depict this seizure, so no media entry is included.
   - The figure of about 31,000 individual doses is the authorities' estimate and is not recorded as a weight.
 ---
 

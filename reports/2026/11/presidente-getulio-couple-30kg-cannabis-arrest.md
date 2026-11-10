@@ -81,7 +81,6 @@ open_questions:
   - No custody decision, charge filed by a prosecutor or court outcome was reported beyond the pair being presented to the police authority.
   - The submitted account gives no separate event date; 8 November 2026 comes from the Portal GCD and Jornal de Pomerode accounts, which place the stop on that Sunday.
   - The 2.1 kilograms of cocaine and 457 ecstasy pills are excluded from the cannabis figures, as is the 32.6-kilogram combined drug total.
-  - The submitted page's handout photo is captioned only PMSC, so no caption confirms exactly what it depicts.
   - The three accounts reproduce the same Military Police report rather than independent reporting, and the Portal Educadora account could not be opened.
   - Left out vehicles, as its quotation was not found in Portal GCD.
   - No names, ages, custody decision or court outcome for the two arrested people were reported beyond their presentation to the police authority in Rio do Sul.
@@ -89,7 +88,6 @@ open_questions:
   - TopElegance gives no separate date for the stop; its publication date, 9 November 2026, is the only date on the page.
   - TopElegance reproduces the same Military Police account as the outlets already cited and is not independent reporting.
   - The page says the couple had gone to the Santa Catarina coast to fetch drugs, without naming Itajaí, the coastal city given in earlier accounts.
-  - The page photo is captioned only as drugs seized by the Military Police in Presidente Getúlio, so it is not listed as a separate media entry alongside the handout already recorded.
   - No custody decision, charge filed by a prosecutor or court outcome is reported beyond the pair being taken to the police station in Rio do Sul.
 ---
 

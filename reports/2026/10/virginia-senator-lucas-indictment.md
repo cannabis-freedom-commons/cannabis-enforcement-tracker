@@ -62,17 +62,7 @@ sources:
     date: 2026-10-22
 open_questions:
   - The PBS page gives only its publication date of 22 October 2026, describing the charges, announcement and surrender as "today," "this morning" and "this afternoon."
-  - The PBS account does not state the eight-count total, the five counts against Lucas, her age, the business names, or the co-defendants' names given in the existing report.
-  - The PBS account says the FBI search of her district office and co-owned cannabis shop was "a month" earlier, while the existing report says six months earlier.
-  - The only listed image is a generic full-episode thumbnail, not a photo of this enforcement event, so no media entry is made.
   - The accessible capture contains only the opening paragraphs behind a paywall, so it does not give indictment counts, co-defendant names, ages, or quantities.
-  - The only image on the page is a portrait of State Sen. L. Louise Lucas credited to Ryan M. Kelly/AP, not a photo of this enforcement event, so no media entry is made.
-  - The CNBC article spells the grandson's surname as Ryan Eichelbeger while the existing report uses Ryan Eichelberger.
-  - The CNBC article calls the scheme a five-year scheme while the existing report describes an operation from around 2019 through 2026.
-  - The CNBC article says the charges came five months after the May search of Lucas's Portsmouth office while the existing report says six months earlier.
-  - The only image listed for the submitted page shows Lucas at a June 2026 legislative budget session, not this enforcement event, so no media entry is made.
-  - This account places Lucas's Norfolk court appearance on Thursday afternoon, while the existing report says Thursday morning.
-  - This account dates the FBI search to May, about five months before the 22 October charges, while the existing report says six months earlier.
   - This account schedules an arraignment for next month but gives no exact date.
   - This account gives no cannabis weight, plant count, field area or value, so no new figures can be recorded.
   - The page's main image is a general-election voting photo and its other images show unrelated stories, so no photo of this enforcement event can be linked.

@@ -49,7 +49,6 @@ open_questions:
   - The 130 grams of cocaine and 72 grams of crack listed with the marijuana are excluded from cannabis figures under the substance scope, as is the seized cash, for which no amount was published.
   - No charges, custody ruling or court outcome for the six were reported.
   - The same articles also report separate cocaine seizures in Matagalpa and Nueva Guinea on 8–9 January, left out here as different events.
-  - The page photos are captioned as cocaine seizures in the departments and do not show the Managua marijuana evidence, so no media entry is included.
   - Both accounts repeat the National Police version; no independent non-police account was opened.
 ---
 

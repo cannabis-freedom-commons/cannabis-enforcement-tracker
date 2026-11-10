@@ -68,7 +68,6 @@ open_questions:
   - No weight or dose count was published for the suspected marijuana, so no cannabis quantity or value is recorded.
   - The granular substance described as crystal is a methamphetamine and is excluded from cannabis figures.
   - The four accounts reproduce the same police statement; no direct agency statement from Policía Cancún or the Fiscalía General del Estado was opened.
-  - The submitted page also reports a separate Supermanzana 91 detention of two youths for a phone robbery, left out here as a non-cannabis event.
   - No charges beyond the investigation stage, custody ruling or court outcome were reported.
 ---
 

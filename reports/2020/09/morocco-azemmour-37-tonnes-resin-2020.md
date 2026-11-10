@@ -46,7 +46,6 @@ sources:
 open_questions:
   - Only one source for this event could be opened.
   - No court outcome for the arrested man was reported in the opened source.
-  - The source page shows a seizure photo that could not be verified as depicting this event, so no media entry was added.
 ---
 
 Morocco's judicial police seized three tonnes and 700 kilograms of cannabis resin in the province of Azemmour, about 72 kilometres from Casablanca, on Sunday 6 September 2020. [@1]

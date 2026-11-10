@@ -45,7 +45,6 @@ open_questions:
   - The description of the haul as the largest of the year, and possibly the largest ever at Fort-de-France, is RCI's own reporting rather than a quoted official statement.
   - No street value for the 610 kg was published.
   - The article records only the weight of the resin; it does not state how many bags made up the 610 kg.
-  - The page carries no photograph of the seizure itself, only the site's generic placeholder image and unrelated sidebar thumbnails, so no media entry is given.
   - 'Left out, as its quotation was not found in RCI: In Martinique, one kilo of cannabis resin is traded for one kilo of cocaine.'
 ---
 

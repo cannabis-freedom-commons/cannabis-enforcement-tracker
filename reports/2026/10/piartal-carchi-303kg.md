@@ -89,8 +89,6 @@ open_questions:
   - No court outcome is reported.
   - The US and European valuations are police estimates and do not, on their own, show that the load was bound for those markets.
   - EFE dates the story 11 October 2026 and says police announced the stop 'este sábado', while the operation itself took place on Friday 9 October; the incident date stays 9 October.
-  - La Hora writes '303, 07 gramos de marihuana incautados', repeating the unit typo in the El Universo body text; its headline context, the 300 wraps, the 606,014-dose count and the valuations show about 303 kilograms, as the existing report records.
-  - La Hora's two police-handout photos (the three detainees with the vehicle and packages, and the seized evidence) appear to show the same seizure already pictured in the report, so no separate media entry is added.
   - La Hora gives no court outcome; the case remains at the seizure and apprehension stage.
 ---
 

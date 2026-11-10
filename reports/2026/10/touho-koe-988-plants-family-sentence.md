@@ -59,7 +59,6 @@ open_questions:
   - Sums are recorded in CFP francs (XPF) used in New Caledonia, while the source states them only as francs.
   - The 12,395 francs in seized cash is kept separate from the resale estimate and the fines and is not recorded as a drug value.
   - The seized motorboat and other equipment confiscated as criminal assets were not described in further detail.
-  - The only published image is an older Touho town-sign photo, not the plants, seizure or raid, so no media entry is included.
 ---
 
 Touho gendarmes identified a father, his son and his son's wife, all residents

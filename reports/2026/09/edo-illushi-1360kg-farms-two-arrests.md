@@ -41,7 +41,6 @@ created_by_model: Meta Muse Spark (via Muse Code)
 tags: [edo, esan-south-east, ndlea, army, farms]
 open_questions:
   - Whether the two men were charged or remanded was not reported.
-  - The Guardian page's only image is the NDLEA logo, which does not show this operation, so no media entry was added.
 sources:
   - title: NDLEA, military destroy 1,360kg cannabis farms, arrest two in Edo
     url: https://dailypost.ng/2026/09/28/ndlea-military-destroy-1360kg-cannabis-farms-arrest-two-in-edo/

@@ -66,7 +66,6 @@ open_questions:
   - The 2024 arrest account gave 14.8 kg valued at P20.7 million, while the 2026 decision convicts on 13.16 kg worth P18.43 million; the report uses the court's figures.
   - The report follows Philstar's spelling Sirirut Taweesup; the 2024 account also renders the name in the opposite order.
   - The P5 million payment ordered under the customs conviction is recorded in the text; the figures field carries only the P2 million fine.
-  - The Philstar photo is marked STAR/File rather than as a photograph of this seizure, so no media entry was added.
 ---
 
 ## The sentence

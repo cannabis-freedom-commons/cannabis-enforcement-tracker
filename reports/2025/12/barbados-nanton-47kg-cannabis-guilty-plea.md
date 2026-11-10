@@ -51,7 +51,6 @@ open_questions:
   - Dollar amounts are recorded as Barbadian dollars, as is standard in Barbados reporting, though the article writes only $37,600 and $10,000.
   - The article does not describe where or how the 4.7 kg of suspected cannabis was found or seized.
   - Whether the $10,000 bail was posted and what sentence follows the guilty plea is not yet reported; Nanton is due back in court on December 11, 2025.
-  - The page carries one image whose caption is only the number 79536, with no information tying it to this event, so no media entry is listed.
   - Only one outlet account of this case has been opened so far.
 ---
 

@@ -50,7 +50,6 @@ open_questions:
   - The same TNS article also reports a separate Rawat rape case, which is a different event left out of this report.
   - The SP Saddar remark about challaning the accused with solid evidence follows the rape complaint in the TNS article, so it is left out as relating to that separate case.
   - Spellings differ between outlets as West Ridge and Westridge and as Pir Wadhai and Pirwadhai for the same stations.
-  - The TNS lead image is filed only as featured_5faa21af85682_h336 with no caption establishing that it shows this seizure, and the UrduPoint image has no caption establishing that it shows this seizure, so no media entry is included.
   - Both accounts repeat the police and APP version; no independent account beyond that official version was opened.
 ---
 

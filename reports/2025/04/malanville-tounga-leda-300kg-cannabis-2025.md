@@ -43,7 +43,6 @@ open_questions:
   - Only one opened source could be found; searches for an official police statement or a second outlet's account returned nothing.
   - No figure was published for the value of the consignment or for the number of sacks.
   - The article mentions a separate earlier seizure of about fifteen bags of soybeans bound for Niger in the same area, which is a different matter left out of this report.
-  - The page's only image is captioned as an illustration and is not established to show this seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in La Nouvelle Tribune: Police at Benin''s Malanville border police station stopped a cannabis shipment at the Tounga-Léda ferry landing in northern Benin on Saturday 12 April 2025.'
   - 'Left out, as its quotation was not found in La Nouvelle Tribune: Officers found more than 300 slabs of the drug hidden in sacks that were being taken to Niger from Ghana by way of Togo.'
   - 'Left out, as its quotation was not found in La Nouvelle Tribune: Two men were caught at the riverbank as they tried to cross in a motorised canoe.'

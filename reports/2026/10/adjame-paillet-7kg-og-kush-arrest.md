@@ -55,7 +55,6 @@ open_questions:
   - The reports give no date for any charge, court appearance or outcome; at the time of publication the man was held under investigation and presumed innocent.
   - No street value in francs CFA was published for the 7 kilograms.
   - The reports say the cannabis was OG Kush, a variety name, but give no detail on how it was identified.
-  - The YOP L-FRII page credits its picture only to Police Secours and does not establish that it shows this seizure, so no media entry is included for it.
   - The three accounts repeat the police's version; no separate press statement from the DPSD or GRAD was opened.
   - The suspect is named only by the initials S. S.
   - Adjamé's coordinates are the commune centre, not the exact house near the Amber crossroads.

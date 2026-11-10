@@ -85,16 +85,12 @@ open_questions:
   - The arrested person was not named, and no custody status, formal charges or court outcome were reported.
   - No cannabis weight, cultivation area or monetary value was published.
   - Only one opened source supports this event; no second account or agency statement could be opened.
-  - The new account says the search occurred on Tuesday before its Wednesday 4 November 2026 publication, while the existing report uses 4 November, the publication date, as the incident date.
   - A separate local summary that gives the grow's address as 697 W. Pasture Road could not be opened, so no additional address detail was added.
   - The KOKH article does not say on which calendar day of the week the warrant was served beyond Tuesday, so the incident date remains the publication date, 4 November 2026.
   - The KOKH gallery shows three OBN photographs of the seizure, which appear to be the same handout images carried by other outlets; the direct addresses are recorded here but the pictures were not inspected.
   - The McAlester News-Capital item OBN works illegal marijuana operation in McAlester could not be opened, so no facts from it are used.
   - Oklahoma | mcalesternews.com (McAlester News-Capital) could not be opened again to check its quotations (The browser page answered HTTP 451.; archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.
-  - The submitted page is an MSN syndication of the KOKH article, so its text is not independent of the KOKH copy the existing report already cites.
   - The MSN copy gives no calendar date for the search, only a relative age of the story, so it does not settle which day the warrant was served.
-  - The submitted page is an MSN syndication of the KOKH article, so it is not an independent account and adds no new facts beyond the original it reprints.
-  - The MSN copy carries no calendar date for the search, so it does not independently settle the incident date used by the existing report.
 ---
 
 Oklahoma Bureau of Narcotics agents arrested one person during a search at a

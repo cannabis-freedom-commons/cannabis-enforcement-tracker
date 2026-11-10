@@ -31,7 +31,6 @@ open_questions:
   - No cannabis product or quantity was seized or reported; the account records only a positive rapid screening test for cannabis, with no confirmation test or blood result given.
   - No information was released about the driver's identity, age or nationality, and no arrest or detention was reported.
   - No charge by name or court outcome was reported; the account describes records being drawn up for driving under suspected drug influence and a weapons-law offence.
-  - The submitted page's photograph is a police illustration picture (Symbolbild), not a picture of this event, so no media entry is added.
   - The Lokalo.de page and the police statement are the same account, so there is no independent second report of the incident.
 ---
 

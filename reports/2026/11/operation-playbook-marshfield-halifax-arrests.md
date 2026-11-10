@@ -65,7 +65,6 @@ open_questions:
   - The page's third image is an advertisement and is not included as event media.
   - Bail terms, future court dates and any court outcome were not reported.
   - The Newport Dispatch gives December, June and Oct. 5 without years, while the earlier account gives December 2025 and June 2026, so the year 2026 for the Oct. 5 searches is inferred from publication on 3 November 2026.
-  - The submitted page image at Row9-2026-11-03-2121-1536x864.jpg has no caption, alt text or credit establishing that it shows this seizure, so no media entry is included for it.
 ---
 
 Malcolm Waaser Maccoy Jr. of Marshfield and Josef Troy Hebb of Halifax were

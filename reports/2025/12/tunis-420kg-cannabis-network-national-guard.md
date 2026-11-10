@@ -56,7 +56,6 @@ open_questions:
   - No street value, charge sheet or court outcome was published; the case was at the investigation stage.
   - The accounts name no suspects and give no names for the seven wanted people or the group abroad.
   - All three French-language accounts appear to reproduce the same National Guard statement; no independent reporting was found.
-  - The submitted page's only image is a 2022 file photo titled zatla, not established to show this seizure, so no media entry is included.
 ---
 
 Units of Tunisia's National Guard broke up a network that marketed drugs and

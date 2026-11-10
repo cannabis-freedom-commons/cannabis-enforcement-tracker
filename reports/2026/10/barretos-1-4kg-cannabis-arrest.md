@@ -46,7 +46,6 @@ open_questions:
   - The 104 grams of cocaine are mentioned only to explain the mixed seizure and are excluded from cannabis figures; no combined drug total is recorded as cannabis.
   - Details of the suspected motor-vehicle identifier tampering, including the vehicle involved, were not reported.
   - Only one accessible source was found after searching in Portuguese, so the account could not be cross-checked.
-  - The page includes two photographs without captions or alt text establishing what they show, so no media entry is listed.
 ---
 
 A Força Tática operation of the 33rd Interior Military Police Battalion in

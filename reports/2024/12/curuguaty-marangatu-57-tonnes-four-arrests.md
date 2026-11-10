@@ -78,8 +78,6 @@ open_questions:
   - The wounded detainee's hospital is named as San Pedro de Ycuamandiyu in one account and Saltos del Guaira in the other; the report uses the first and notes the discrepancy.
   - No charges, pleas or court outcome were reported.
   - The Perfil page shows operation photos, but no photographer credit is published, so credits name only the outlet.
-  - EFE places the operation in the district of Marangatu while the existing report places it in Curuguaty district; both describe Operativo Marangatu in Canindeyu.
-  - EFE's lead says four people were detained but a later passage says a wounded man was detained along with four other people, implying five; the existing report records four detained.
 ---
 
 Paraguay's SENAD anti-drug agency and the CODI internal-defence command carried

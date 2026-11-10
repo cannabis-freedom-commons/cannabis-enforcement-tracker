@@ -72,8 +72,6 @@ open_questions:
   - No weight was published for the marijuana cigarette or the home marijuana portion, so no cannabis quantity is recorded and the 45 cocaine wraps are excluded from cannabis figures.
   - The drugs are described as substances similar to cocaine and marijuana, with no laboratory confirmation reported.
   - No charge, custody decision or court outcome beyond transfer to the Civil Police station was reported.
-  - PatosJá says officers found the marijuana cigarette with the suspect, while the existing report locates it in his waist bag on the basis of the other outlet account.
-  - The PatosJá page image carries no caption or credit establishing what it shows, so no media entry is listed.
 ---
 
 Military Police arrested a 20-year-old for drug trafficking on the night of

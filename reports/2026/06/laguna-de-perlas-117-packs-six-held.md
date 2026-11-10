@@ -104,7 +104,6 @@ open_questions:
   - TN8 displays photos of the seizure, but no direct image addresses could be recovered from that page, so only El 19 Digital photos are listed as media.
   - This account lists two barrels while the report's other accounts describe four barrels.
   - The explicit coordinates in this account differ from the report's mapped coordinates, leaving the precise site uncertain.
-  - The three INCAUTACION images in this account carry only generic labels without descriptive captions identifying what each frame shows, so no media entry is added.
 ---
 
 Nicaragua's Distrito Naval Caribe intercepted six men on 21 June 2026 at about 6

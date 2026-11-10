@@ -44,7 +44,6 @@ open_questions:
   - The article gives 29 October for the arrest but no separate date for the Grasse trial; 4 November 2026 is the publication date and is used as the incident date for the sentence.
   - Only one accessible source for this event was found after searching in French.
   - The 22 grams of cocaine are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
-  - The page photo caption repeats the rent explanation and does not establish that the image shows this seizure, so no media entry is included.
   - The prosecutor noted that the woman lives in Ardèche while arrested in Cagnes-sur-Mer, and the article also mentions two homes; her exact residence is unclear.
 ---
 

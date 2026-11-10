@@ -50,7 +50,6 @@ open_questions:
   - The operation spanned the night of 31 October to 1 November 2026; 1 November is used as the incident date.
   - The eight drug cases were administrative reports to the Prefecture as users, with no criminal arrests, charges or court outcome reported.
   - Only one accessible source for this event was found despite searches in Italian and English.
-  - The page's lead photo caption only repeats the headline and its file path dates to February 2026, so it is not established as showing this seizure and no media entry is added.
 ---
 
 Between 31 October and 1 November, Carabinieri of the Siena Provincial Command

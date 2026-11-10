@@ -48,7 +48,6 @@ sources:
 open_questions:
   - The headline and opening line say one person was arrested, but the body names two arrested people, Vijay and Navneet Pathak alias Raja; the report uses two arrested following the body's named count.
   - The article gives no separate date for the checkpoint stop; 9 November 2026 is its publication date and is used as the incident date.
-  - The submitted page lists one image file but carries no caption or credit confirming it shows this seizure or arrest, so no media entry is added.
 ---
 
 Behram police arrested people with 13 kg 170 g of ganja. [@1] A police team

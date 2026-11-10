@@ -51,7 +51,6 @@ open_questions:
   - No arrests in the farm-destruction operations themselves were reported.
   - The locations of the destroyed farms across Ondo State were not named.
   - The same Premium Times article reports separate October operations in Ilawe-Ekiti and Aponmu Forest Reserve; whether they fall inside these campaign totals is not stated.
-  - The accompanying article image could not be verified as showing this campaign, so no media entry was added.
 ---
 
 The Ondo State command of Nigeria's National Drug Law Enforcement Agency (NDLEA)

@@ -49,7 +49,6 @@ open_questions:
   - The missing quantity is described as 2 tonnes, just over two tonnes and about three tonnes in different passages, so no missing-quantity figure is recorded.
   - No number of convicted officers beyond the roles named or lengths of their heavy prison sentences were published.
   - Only one opened source could be found for the 2007 destruction; no second account or agency statement was located.
-  - The page carries a hashish image captioned on the disappearance, but only a relative staticarchive address was recoverable and the generic image does not establish that it shows this seizure, so no media entry is included.
   - The 40 tonnes found in Maputo in 1995 and the mandrax factory near Maputo are mentioned as background and left out as separate events.
 ---
 

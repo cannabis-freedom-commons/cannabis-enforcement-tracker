@@ -56,11 +56,8 @@ sources:
     language: hi
 open_questions:
   - The interception occurred on 2 November and the third arrest on 3 November; 3 November 2026 is used as the incident date for the latest step.
-  - The page carries a lead photo with an empty caption, so whether it shows this seizure could not be established and no media entry is added.
   - The Rs 80,000 figure is the police estimate reported by the source; no independent valuation is reported.
   - Only one opened source could be found for this 3 November 2026 event; no second account was available to corroborate details.
-  - The Betul Update page carries a photo whose caption repeats the headline and does not establish what it depicts, so no media entry is added.
-  - The page image carries no caption or alt text establishing that it shows this seizure, so no media entry is added.
 ---
 
 In Sarni in Betul district, police arrested three accused, including a husband

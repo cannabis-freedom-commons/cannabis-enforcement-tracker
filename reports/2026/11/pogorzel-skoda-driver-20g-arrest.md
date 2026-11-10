@@ -84,15 +84,8 @@ sources:
 open_questions:
   - The police page gives only its publication date of 2 November 2026 and no separate day for the roadside stop or home search, so that date is used as the incident date.
   - The small amount found on the driver was not weighed and the home amount is given only as over 20 grams, so figures record 0.02 kg as the stated minimum and exclude the unweighed roadside amount.
-  - The police gallery photo caption repeats the headline and does not describe the image content, so whether it shows this seizure could not be established and no media entry is added.
   - The Info Józefów account cites the Otwock police as its source and adds no independent weighing or case outcome.
-  - 'The page''s police-credited photo caption reads only ''źródło: policja.gov.pl'' with headline alt text and does not establish that it shows this seizure, so no media entry is added and it may duplicate the police handout already represented.'
   - The second source image on the page is an advertisement ('moje bielany 10-2026 2'), not an event photo, and is omitted.
-  - The submitted page was published on 3 November 2026 while the existing report uses the police publication date of 2 November 2026 as the incident date; this reflects republication timing, not a separate event.
-  - 'The page carries a police-credited image whose caption reads only ''źródło: policja.gov.pl'' and does not establish that it shows this seizure, so no media entry is added.'
-  - The page photo is captioned only as police source with headline alt text and does not establish that it shows this seizure, so no media entry is added.
-  - The page gives no separate date for the roadside stop or home search; 4 November 2026 is its publication date, while the existing report uses the police publication date of 2 November 2026 as the incident date.
-  - The page shows a photo described as dried plant material on a wooden tray beside two glass jars and credited to Licencjodawca, which does not establish that it shows this seizure, so no media entry is added.
 media:
   - kind: photo
     url: https://iotwock.info/artykul/kierowca-pod-wplywem-n1874981

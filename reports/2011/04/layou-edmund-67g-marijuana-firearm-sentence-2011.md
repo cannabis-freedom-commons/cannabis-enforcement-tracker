@@ -66,8 +66,6 @@ open_questions:
   - The 2011 article says Edmund would serve 'two years and five weeks' in jail, while its 2013 retrospective says he received a five-week sentence for the marijuana charges and a separate two-year four-month sentence in 2001 for a firearm offence; the report uses the 2011 total as stated and treats the difference as unresolved.
   - The article does not give the sentence imposed on each of the four charges, nor name the judge or the court that imposed the two-year element.
   - The court's exact location within St. Joseph is not specified beyond 'the St. Joseph court'.
-  - No photograph of this sentencing was published; the submitted page carried only an advertisement, and the pictures on later Dominica News Online accounts are a portrait of the accused and generic court images, so no media is listed.
-  - The submitted page gives the name as 'Edmund', while the 2013 accounts use both 'Edmund' and 'Edmond'; the spelling difference is not explained.
   - 'UPDATE: Webster Edmond gets eight years in jail (Dominica News Online) could not be opened again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.'
   - 'Left out, as its quotation was not found in Dominica News Online: Defence attorney Peter Alleyne asked the court for leniency, saying Edmund had cooperated with police and had not wasted the court''s time.'
 ---

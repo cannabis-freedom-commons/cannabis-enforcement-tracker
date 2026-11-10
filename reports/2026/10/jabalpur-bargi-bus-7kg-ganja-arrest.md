@@ -65,11 +65,7 @@ open_questions:
   - The reports date the crime branch tip-off to 31 October but do not separately date the bus search and arrest.
   - No court date, plea or sentence was reported.
   - The Rs 3.58 lakh value is the police's estimate; the reports do not explain how it was calculated.
-  - The submitted page's only photograph has no descriptive caption or credit, so it could not be identified as a picture of the seizure and is not listed as media.
   - Both accounts rest on the police version; no court record or independent witness account was found.
-  - The submitted page rounds the seizure to 7.15 kg while the existing report records 7 kg 158 g from Hindi accounts.
-  - The submitted page gives the bus registration as MP-50ZK-1297 while the existing report records MP 50 ZD 1297.
-  - The submitted page is dated 02-Nov-2026 with no separate day for the checkpoint; the existing report dates the tip-off to 31 October.
   - The page photo caption only says 23-yr-old arrested with no descriptive caption or credit, so it could not be identified as showing this seizure and is not listed as media.
 ---
 

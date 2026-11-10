@@ -58,7 +58,6 @@ open_questions:
   - WHAM says Allen-Ascioti was released after arraignment, while FingerLakes1 and Newport Dispatch say she was remanded to the Wayne County Jail pending a 12 February centralized arraignment; the report uses the arraignment outcome reported by WHAM.
   - The sources do not say whether the 11-year-old child given marijuana is the same child who was hospitalised after reportedly ingesting LSD; the LSD ingestion is not a cannabis offence.
   - No court outcome, plea or trial date was reported.
-  - The submitted page's only pictures are a 2024 file photo of a school district sign and an unrelated football image, so no media entry was added.
 ---
 
 Palmyra police arrested two people on Wednesday, 11 February 2026, over an

@@ -91,7 +91,6 @@ open_questions:
   - Antofagasta Al Día reports the detention extension to 6 November, while Emol and Veredictum give no detention ruling.
   - Neither the Veredictum page nor the other accounts say whether the driver was formalised or charged after 6 November.
   - El America.cl reproduces the same prosecutor's office and Carabineros account as the outlets already cited in this report, so it is not independent reporting of the seizure.
-  - The El America.cl page carries only an uncaptioned image titled droga.jpg with no credit, so it is not confirmed to show this seizure and no media entry is added.
   - The same roundup mentions a separate Antofagasta cocaine seizure of 344 kilograms and a Tocopilla marijuana seizure of 13 kilograms; those are different events and are left out here.
   - El America.cl says the regional prosecutor described a judge who ruled the same day; the report does not state what that ruling was.
 ---

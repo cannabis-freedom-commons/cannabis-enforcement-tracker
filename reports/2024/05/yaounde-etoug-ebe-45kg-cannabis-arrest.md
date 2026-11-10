@@ -50,7 +50,6 @@ sources:
 open_questions:
   - No charges, custody status or court outcome for Nté Eric were reported, and the outcome of the announced accomplice investigation is unknown.
   - No total street value was published, only a 3,000-franc per-packet selling price, so no value is recorded.
-  - The Lebledparle page image is a 2021 file captioned only droguero and Cannabis and is not established to show this seizure, so no media entry is included.
 ---
 
 On 26 May 2024, gendarmes from the Mewoulou post in Yaoundé's 6th subdivision

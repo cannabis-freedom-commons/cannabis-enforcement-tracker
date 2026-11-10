@@ -70,7 +70,6 @@ open_questions:
   - The home was searched in the Tarvisio area, but the article names no town or address for it, so Tarvisio is used as the approximate place.
   - No court date, charging decision or outcome was reported; the man was reported to the judicial authorities in the ordinary procedure.
   - Only one accessible source was found for this stop; searches in Italian produced no second account.
-  - The page image carries no caption or credit confirming what it depicts, so no media entry is added.
   - The Tarvisio-area home was not named by any of the three cited outlets, so the place remains approximate.
   - No weight was published for the marijuana in the cigarette found in the car, so the 67 grams covers only the material found at the home.
   - No laboratory confirmation of the substance was reported by any of the outlets.

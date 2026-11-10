@@ -51,11 +51,7 @@ open_questions:
   - No quantity or weight of the cannabis product purchased was published.
   - No court location, hearing date, or ticket number beyond the court records and guilty plea was reported.
   - A second independent account of the fine could not be opened, so this report rests on the single CBC account.
-  - The page's images show MacDougall in an interview setting rather than the purchase or enforcement itself, so no media entry is included.
-  - The Guardian gives no date for the ticket or the fine and does not mention July 2025, the date used in the existing report; its 9 November 2026 publication date is not the incident date.
   - The Guardian does not say whether MacDougall faced any workplace discipline; the city declined to comment on personnel matters.
-  - No quantity or weight of the cannabis products purchased is given, and the article describes purchases without naming a specific product (the existing report records flower).
-  - The Guardian places the store in Scotchfort, while the existing report places it on Abegweit First Nation; Scotchfort is a community of Abegweit First Nation, and both descriptions are retained.
 ---
 
 Charlottetown interim police chief Darren MacDougall was fined under Prince

@@ -80,7 +80,6 @@ open_questions:
   - The accounts do not say where the load came from or where it was going beyond that the driver was heading towards Maringá.
   - The driver is not named and no charge filing, court hearing or outcome is reported.
   - The three accounts are near-identical in wording, suggesting a single PRF release; no PRF notice for this seizure could be opened.
-  - The SOT photo is credited only as Divulgação and no caption states what it shows; the submitted page's own image could not be checked visually.
   - Portal Nova Santa Rosa is the fourth near-identical account of the same PRF statement; it adds no facts beyond the existing citations.
   - The page's lead photo is labelled Apreensão and credited only as Divulgação, with no caption stating exactly what it shows.
 ---

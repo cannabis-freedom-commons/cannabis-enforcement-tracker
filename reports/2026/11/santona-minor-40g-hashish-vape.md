@@ -43,7 +43,6 @@ sources:
 open_questions:
   - The article gives no separate incident date; 2 November 2026 is the publication date used as the incident date.
   - The substance is described only as apparently hashish, with no laboratory confirmation or independent weighing reported.
-  - The page photo is captioned as an archive image of a vaping device, so it is not shown as this seizure and no media entry is added.
   - Both published accounts reproduce the same Local Police statement with no additional independent detail.
   - No court outcome, charge details or personal details for the minor were reported.
 ---

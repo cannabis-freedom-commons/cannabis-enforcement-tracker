@@ -62,7 +62,6 @@ open_questions:
   - The district is spelled Akhangaran in one account and Okhangaron in another; both refer to the same Tashkent-region post.
   - No charges beyond opened criminal cases and no court outcome were reported; the investigation was still under way.
   - The same articles mention an earlier separate seizure of almost two kilograms of hashish in Andijan, which is left out of this report.
-  - The submitted page's photo caption does not establish that it shows this seizure and the image could not be viewed in this harness, so no media entry is included.
   - Only Russian-language sources were opened; no agency statement separate from press-service summaries could be opened directly.
 ---
 

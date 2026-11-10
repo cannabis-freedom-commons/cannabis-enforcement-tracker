@@ -74,10 +74,6 @@ open_questions:
   - The exact date of the validation and transfer to prison is not given; 21 October 2026 is the day of the sale and 2 November 2026 is the publication date.
   - No outcome is reported for the two minors or for any later trial step beyond pretrial custody in prison.
   - References to an August hashish network around Cureggio and Borgomanero and summer checks in Novara are separate events left out of this report.
-  - Both pages carry images without captions or credits establishing that they show this seizure, so no media entry is listed.
-  - The page's only event-related image uses a 2021 archive file and caption 'carabinieri borgomanero', which does not establish that it shows this seizure, so no media entry is added.
-  - The page's only image is explicitly labelled as an archive photo (foto d'archivio) and does not show this seizure, so no media entry is added.
-  - The page's only image is explicitly labelled as a file photo (Foto di repertorio) and does not show this seizure, so no media entry is included.
 ---
 
 Borgomanero Carabinieri arrested a 47-year-old Italian man who was already under

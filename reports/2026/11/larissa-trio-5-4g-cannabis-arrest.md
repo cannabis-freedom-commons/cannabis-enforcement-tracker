@@ -66,11 +66,6 @@ open_questions:
   - Only one source for this event could be opened; searches in Greek and English found no second account of the same check and arrests.
   - No charge, prosecutor referral, or court outcome was reported for the three arrested people.
   - No separate weight was reported for the cannabis residue on the metal grinder; the 5.4 g figure covers only the nylon package.
-  - The page carries a lead image captioned only “Λάρισα, Συλλήψεις, Ναρκωτικά” with no credit establishing that it shows this 5.4 g seizure, so no media entry is added.
-  - The page's lead image file dates to December 2022 and is not shown to depict this 5.4 g seizure, so no media entry is added.
-  - The page's only image is a generic police-emblem file (elas-sima) with no caption or credit establishing that it shows this 5.4 g seizure, so no media entry is included.
-  - The page's only image is captioned only “xeiropedes” with no credit establishing that it shows this 5.4 g seizure, so no media entry is added.
-  - The submitted page's only image is a 2022 O.P.K.E. file photo captioned only with the unit name, not shown to depict this 5.4 g seizure, so no media entry is added.
 ---
 
 Three people were arrested in Larissa at midday on Monday, 2 November 2026, for

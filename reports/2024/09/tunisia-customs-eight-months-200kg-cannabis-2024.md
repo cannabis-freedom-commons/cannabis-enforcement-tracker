@@ -52,7 +52,6 @@ open_questions:
   - No value for the cannabis and no number of customs cases or people arrested over it were published.
   - The 6.5 kg airport cocaine case and the arrest of the passenger and her clinic contact involve no cannabis and are not counted in the figures.
   - Kapitalis and Mosaïque FM report the same phone interview, and no separate customs statement or court record was opened.
-  - The page photograph on both accounts is a file picture of cocaine and cannabis at La Goulette, not of these seizures, so no media entry is included.
 ---
 
 Tunisia's customs service seized 200 kg of cannabis, known locally as zatla, at

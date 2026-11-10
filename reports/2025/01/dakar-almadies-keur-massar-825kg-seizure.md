@@ -61,9 +61,7 @@ open_questions:
   - No estimate of the value of the 82.5 kg was published.
   - The separate landing of drugs on Mbao beach in the night of 29 to 30 December 2024 is a different event and is left out of this report.
   - The places are written Almadies 2 in APA and Almadie 2 in PressAfrik; the report uses Almadies 2.
-  - The submitted page's photo is captioned only with the article headline and carries no credit, so it is linked as possible illustration rather than established as a picture of this seizure.
   - This account gives no details of a Suzuki Vitara vehicle or seven mobile phones, and no link to the December 2024 Mbao beach landing reported by other outlets.
-  - The page photo is credited only as an APA News illustration image and is not established as a picture of this seizure, so no media entry is included.
 ---
 
 The operational division of Senegal's Central Office for the Repression of

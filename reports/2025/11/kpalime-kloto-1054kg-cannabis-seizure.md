@@ -44,7 +44,6 @@ open_questions:
   - The operation is reported as spanning 17 to 18 November 2025, so 18 November is used as the incident date.
   - No charges, custody decision or court outcome were reported; the case was still with the competent brigade for investigation.
   - Only one opened source could be used, and it attributes the patrol details to the weekly Le Messager, which could not be opened separately.
-  - The page carries a photo with no caption or credit establishing that it shows this seizure, so no media entry is included.
   - No monetary value for the cannabis was published.
 ---
 

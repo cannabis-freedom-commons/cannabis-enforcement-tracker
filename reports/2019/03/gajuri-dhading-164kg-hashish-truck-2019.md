@@ -47,7 +47,6 @@ sources:
 open_questions:
   - Only one source could be opened for this event.
   - Two earlier Dhading busts named in the report, 360 kg on 10 February and 105 kg on 9 March, are separate events left out here.
-  - A photo published with the report could not be recovered because its archived copy was empty, so no media entry was added.
   - No court outcome for the driver was reported.
 ---
 

@@ -47,7 +47,6 @@ open_questions:
   - The articles give no separate date for the raid; 6 March 2026 is their publication date and is used as the incident date.
   - The submitted Facebook video caption corroborates eight captures with marijuana, weapons and stolen motorcycles, but its readable capture preserves almost no article text beyond the caption metadata, so the report relies on the two opened local reports.
   - No charges, detention status beyond hand-over to DEPINCRI Chepén, or court outcome were reported; the case remained under investigation.
-  - No photo confirmed to show this operation was available, so no media entry is included.
 ---
 
 Police officers captured eight presumed members of the criminal gang known as

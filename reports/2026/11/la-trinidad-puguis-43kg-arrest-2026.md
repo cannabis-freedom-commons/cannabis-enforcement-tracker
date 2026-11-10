@@ -62,8 +62,6 @@ open_questions:
   - The suspect was not named; only his age, occupation and hometown were published.
   - No court outcome was reported; the suspect was in custody and expected to face charges under Republic Act 9165.
   - Only one accessible source for this event was found after searching; a police Facebook post and an MSN mirror carrying the same 43-kilogram account could not be opened and are not cited.
-  - The page image carries only a courtesy credit to Tjhay Eldo and is not established to show this seizure, so no media entry is included.
-  - The Inquirer account does not mention that the arrest occurred on the suspect's birthday; that detail comes from the Daily Tribune account already cited in the existing report.
 ---
 
 In Puguis, La Trinidad, Benguet, police arrested a 21-year-old construction

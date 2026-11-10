@@ -58,7 +58,6 @@ open_questions:
   - The 3,000 sq m area is reported as approximate, so the 0.3-hectare figure is a direct conversion of that estimate.
   - No cannabis weight was published, so no kilograms are recorded; the 800,000-euro figure is the gendarmes' resale estimate.
   - The 15,000 plants in 15 days and 30,000 plants per year figures describe the wider crackdown and annual total, not this seizure, and are excluded from figures.
-  - The only picture on the submitted page is captioned as an illustration from AFP and does not show this plantation, so no media entry is included.
 ---
 
 On 27 October 2017, gendarmes of the Papara brigade in the Windward Islands

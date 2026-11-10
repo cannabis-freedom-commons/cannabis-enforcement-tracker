@@ -46,7 +46,6 @@ open_questions:
   - The source gives only lower bounds of more than 1 gram, more than 180 grams and more than 188 grams, so 0.188 kg is used as the supported minimum weight.
   - No name was published for the detained man and no court outcome was reported.
   - Only one source could be opened in full; other reports of the same detention could not be opened because access was blocked.
-  - The page carries an image credited to the Interior Ministry press service, but its visible content could not be established from the captured text and alt text, so no media entry is added.
 ---
 
 Police in Ufa detained a 39-year-old man on suspicion of drug dealing with

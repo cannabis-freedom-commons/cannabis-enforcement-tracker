@@ -99,8 +99,6 @@ open_questions:
     operation.
   - Siiru is not mapped precisely in the available gazetteer; the map pin marks the Nadowli-Kaleo district.
   - The news accounts repeat the same NACOC statement rather than independent reporting.
-  - The Ghanaian Times article is dated 5 November 2026 and gives no separate operation date; the existing report dates the operation to the 31 October 2026 NACOC statement.
-  - The page carries an image file (image-13) but no caption or credit confirms it shows this Siiru operation, so no media entry is added.
 ---
 
 The Upper West Regional Command of the Narcotics Control Commission (NACOC) and

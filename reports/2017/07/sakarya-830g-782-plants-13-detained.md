@@ -48,7 +48,6 @@ open_questions:
   - The 3,526-lira penalty was a traffic ban and fine on the vehicle, not a court drug fine, and is not counted in figures.
   - No charges, court outcomes, or names beyond initials and ages were reported.
   - Only one source could be opened for this event.
-  - The page's sole image is a placeholder (no_image.jpg) that does not show the event, so no media entry is added.
 ---
 
 Sakarya provincial gendarmerie teams detained four suspects aged 22 to 28,

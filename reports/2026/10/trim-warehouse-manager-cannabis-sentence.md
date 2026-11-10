@@ -55,7 +55,6 @@ open_questions:
   - The article does not say who valued the cannabis at €300,000.
   - The offence is dated 1 February 2022 and the sentence 30 October 2026; the coordinates mark Kilshane Avenue, the storage site in Dublin 15, while the sentence was passed at Dublin Circuit Criminal Court in the city.
   - The only other account found, in Dublin People, is the same court report by the same reporter, so the details rest on one reporter's account.
-  - No photograph of Perry, the cannabis or the warehouse was published; the page's lead image is the Criminal Courts of Justice building, so no media is listed.
   - The other person seen on CCTV handling the packages is said to be still before the courts; their name and charges are not given.
 ---
 

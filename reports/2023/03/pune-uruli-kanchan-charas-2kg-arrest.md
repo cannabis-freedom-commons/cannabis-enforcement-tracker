@@ -53,7 +53,6 @@ open_questions:
   - The article gives no separate date for the interception; the archive story was published on 5 March 2023, which is used as the incident date.
   - The article does not state the offences registered, any charge sheet or any court outcome.
   - The value of more than Rs 24 lakh is the police's estimate of the illegal-market price, not a sale price.
-  - The article's only image is a file photograph of charas captioned as such, not of this seizure, so no media is listed.
   - No plant or area figures apply to this case.
   - The article separately reports a January 2023 case in which two suspects were arrested with over 1.8 kg of charas; it is a different event and is left out.
 ---

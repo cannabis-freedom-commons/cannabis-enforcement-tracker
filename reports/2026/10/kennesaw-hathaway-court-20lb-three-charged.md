@@ -52,11 +52,8 @@ open_questions:
   - Itemized weights of 3.4, 3.9, 14.9 and about 2 pounds sum to more than the stated total of over 20 pounds; the report uses the stated total of 20 pounds, converted to 9.07 kg.
   - Multiple packs of THC gummies reported at 1.04 pounds were found alongside the marijuana and are not added to the cannabis total above.
   - Agents also reported about 2.5 grams of psilocybin mushrooms in the bedroom, a non-cannabis substance excluded from the cannabis figures.
-  - No photo could be verified as showing this search or seizure, so no media entry is listed.
   - 'Left out, as its quotation was not found in Marietta Daily Journal: Inside, agents found suitcases of marijuana in the dining and living rooms and another 14.9 pounds in a bedroom identified as Hughes''s, with court records describing over 20 pounds of marijuana found in the home.'
   - The submitted WSB-TV capture contains only an Error 451 geo-block and no article text, so the match relies on its URL and title and the accessible Yahoo reprint of the same WSB-TV report.
-  - The supplied Wayback capture exposes only the lead paragraph, photo captions and tags; the remainder of the article is behind a subscription block, so the address, search date, weights, charges and case details in the existing report are not checked against this capture.
-  - The capture gives no separate raid date, so the incident date of Oct. 14 is retained from the existing report's other sourcing.
 ---
 
 Cobb narcotics agents searched a home at 4286 Hathaway Court near Kennesaw on

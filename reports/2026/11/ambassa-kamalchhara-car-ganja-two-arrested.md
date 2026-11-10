@@ -49,7 +49,6 @@ open_questions:
   - The page gives no separate time for the stop, only the publication date and the dateline Ambassa, 9 November.
   - Only one account of the seizure could be opened; no police statement or second outlet was found to confirm the details.
   - The article names the two detained men and their home area; the tracker report does not repeat the names.
-  - The page's only image, undertrial.png, is a generic, uncaptioned picture not confirmed to show this seizure, so no media entry is added.
   - Nothing in the page says which district Kamalchhara or Ambassa is in; Dhalai district is used in the place line from the common administrative location of Ambassa.
   - The incident date is 9 November 2026, the date in the article's dateline and of publication; the page gives no separate date for the operation.
   - The page does not say whether any force was used or whether the car and the ganja were seized as evidence.

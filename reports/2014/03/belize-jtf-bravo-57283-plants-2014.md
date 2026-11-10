@@ -42,7 +42,6 @@ media:
 open_questions:
   - The reports do not name the districts where the 34 fields lay.
   - No arrests were reported from the operation.
-  - The page lists four images with file-name captions that do not describe the event, so no media entry is included.
 sources:
   - title: $29 million of marijuana destroyed in Joint Task Force-Bravo supported marijuana eradication operation in Belize
     publisher: Joint Task Force-Bravo (DVIDS)

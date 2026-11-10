@@ -77,7 +77,6 @@ open_questions:
   - Neither account says whether she appealed or reports a later custody outcome.
   - Neither account states whether this case was connected to the Eurojust-coordinated airport baggage-hall investigation reported in October 2026.
   - No valuation of the cannabis or fine was published.
-  - The secondary page's image is a Pixabay airport illustration, and La Libre's image is a generic Belga graphic; neither shows this arrest or seizure, so no media entry is included.
   - La Dernière Heure carries the same Belga dispatch and is not cited separately.
 ---
 

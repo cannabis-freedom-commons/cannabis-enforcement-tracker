@@ -47,7 +47,6 @@ open_questions:
   - The marijuana figure is stated as more than 185 pounds, so 83.91 kg is a minimum converted value.
   - Psilocybin products, contraband tobacco, firearms, cash and gold were also seized but are excluded from cannabis figures because they are not cannabis.
   - Potential custodial terms listed for each defendant are maximum exposure if convicted, not imposed sentences, so no prison figure is recorded.
-  - No media entry is added because the accessible images are defendant booking photos or an uncaptioned image that do not show the seizures, raids or court proceeding.
 ---
 
 A months-long, multiagency investigation into alleged illegal sales of

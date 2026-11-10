@@ -46,7 +46,6 @@ sources:
 open_questions:
   - No weight or quantity was published for the marijuana or the methamphetamine, so no cannabis quantity is recorded.
   - No bond amount, court date or later outcome was reported.
-  - The Iredell Free News page carries a small portrait photo of Smith and a sheriff's-office logo; no photo showing the stop, vehicle or seizure could be confirmed, so no media entry is listed.
 ---
 
 Iredell County Sheriff Darren Campbell announced the arrest of 35-year-old

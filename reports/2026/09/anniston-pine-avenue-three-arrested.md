@@ -41,7 +41,6 @@ sources:
 open_questions:
   - Authorities did not release the names of those arrested, specific charges, or any court outcome.
   - No second independent account of this 8 September 2026 operation could be opened.
-  - The page's lead image caption and credit do not establish that it shows this seizure, so no media entry is added.
 ---
 
 Three people were arrested when police executed a search warrant at a residence

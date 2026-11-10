@@ -71,7 +71,6 @@ open_questions:
   - The booking offenses are stated but formal charging and any court outcome were not reported; additional charges for the second grow were still to be requested.
   - No cannabis value, grow size, or disposal details were published.
   - Coordinates use Redding, the Shasta County seat, as the district centre for the two named rural roads.
-  - The submitted page is an MSN syndication of the Record Searchlight article by Jessica Skropanic, so it is not independent reporting of the Shasta County Sheriff's Office statement.
 ---
 
 On October 31, 2026, Shasta County sheriff's deputies on patrol in Happy Valley

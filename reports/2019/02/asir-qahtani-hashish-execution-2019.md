@@ -44,7 +44,6 @@ sources:
 open_questions:
   - The quantity of hashish al-Qahtani was accused of trafficking was not published.
   - The exact city in Asir where the beheading took place was not published.
-  - No photo of the case could be verified, so no media entry was added.
 ---
 
 Saudi Arabia beheaded Yahya bin Medawi bin Yahya al-Qahtani, a Saudi national, for hashish trafficking, the Interior Ministry announced on 11 February 2019. [@1] The beheading took place in the Asir region in the southwest of the kingdom. [@1,2]

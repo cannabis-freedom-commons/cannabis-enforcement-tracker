@@ -50,7 +50,6 @@ open_questions:
   - No names, ages or genders for the 10 detained suspects or the sought suspect were published.
   - No charges, trial outcome or sentence beyond remand and judicial-control release were reported.
   - No weight for the 17 plants, and no value estimate for the cannabis, was published.
-  - The Haber7 lead image is a placeholder with no event content, and the second page image carries only the generic operation title, so no media entry is included.
   - Both opened accounts repeat the same Hatay Governorate statement; no separate agency statement was opened directly.
 ---
 

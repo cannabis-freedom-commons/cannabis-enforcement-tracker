@@ -44,7 +44,6 @@ open_questions:
   - The suspects are identified only by initials, ages and residence in Bajze; full names were not published.
   - No court outcome was reported; the prosecution review was still under way.
   - Only one accessible source for this event was found after searching in English and Albanian.
-  - The page image has no caption establishing that it shows this seizure, so no media entry is included.
 ---
 
 Shkodra police arrested three people as they attempted to traffic cannabis to

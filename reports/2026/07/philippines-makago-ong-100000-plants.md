@@ -41,7 +41,6 @@ created_by_model: openai/gpt-6
 tags: [philippines, mountain-province, sadanga, eradication]
 open_questions:
   - Authorities had not identified suspected cultivators; the landowners and those responsible remained under investigation.
-  - The Daily Tribune event photo credits PDEA Cordillera, but its direct image address could not be recovered, so no media link is listed.
   - The map pin marks Barangay Saclit and not the exact mountain plot on the Sadanga–Tinglayan boundary.
 sources:
   - title: P20M worth of marijuana destroyed in Mountain Province raid

@@ -50,12 +50,10 @@ open_questions:
   - The amount of the fine imposed was not published.
   - Whether the man was detained during the investigation was not reported.
   - The exact growing location within Feodosia was not reported.
-  - 'The submitted page''s only image is a stock Unsplash photo captioned ''Фото: Unsplash'' and does not show this event, so no media entry is listed.'
   - 'Left out, as its quotation was not found in Объектив: The Crimean prosecutor''s office reported the conviction, identifying the offender as a resident of Feodosia found guilty of cultivating cannabis.'
   - 'Left out, as its quotation was not found in Объектив: As punishment for the cultivation offence, the court imposed a fine on the convicted grower.'
   - 'Left out, as its quotation was not found in Объектив: By July 2026 his cultivation had produced 90 narcotic-containing cannabis plants.'
   - 'Left out, as its quotation was not found in Объектив: The judgment closes a case that began with the May planting and ended with the July police seizure and the court''s fine.'
-  - The submitted page's images are labelled as AI-generated and do not show this event, so no media entry is added.
 ---
 
 The Feodosia city court in Crimea convicted a 32-year-old local resident of

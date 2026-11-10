@@ -68,7 +68,6 @@ open_questions:
   - No seizure of marijuana or other drugs during the 6 November 2026 operation was reported, and no weight or value is recorded for it.
   - The Federal Police statement gives only 'September 2025' for the Corumbá seizure that started the case, without a day; no separate tracker report of that seizure was found.
   - The report's place is given as two cities; the coordinates are those of Camboriú, one of the two cities where warrants were served.
-  - The photographs on the cited pages are archive pictures of Federal Police vehicles or of the force generally, not images of this operation, so no media entry is included.
   - No charges, custody decisions or court outcome were reported; the investigation was continuing.
   - Folha MS reports from the same Federal Police account as the other outlets and does not say whether anyone was arrested under the warrants.
 ---

@@ -50,7 +50,6 @@ open_questions:
   - Audio claims quoted by the prosecution about 600 kilos in Buenos Aires and 600 in Córdoba are alleged statements, not seized amounts, and are not counted.
   - The 31-plant count reflects trimmings from 31 seedlings seized in Chilecito; whether live plants were also seized is not separately stated.
   - No separate date is given for the judge's pretrial-detention order; 21 October is the raid date and 1 November 2026 is the source publication date.
-  - The page's lead image has no caption or credit establishing that it shows this seizure, so no media entry is listed.
 ---
 
 Gendarmes detained two men, aged 45 and 27, at a house in the Los Altos

@@ -45,7 +45,6 @@ open_questions:
   - Cocaine quantities of more than 210 kg nationally, about 200 kg in Luanda and more than three kilos in Cunene are mentioned only to explain the mixed event and are excluded from cannabis figures.
   - The detailed provincial liamba amounts given, more than 33,000 kg in Bengo, 135 kg in Namibe, 63 kg in Cunene and more than 115 kg in Huíla, do not sum to the reported 50,000 kg national total; the remainder was not broken down by province.
   - No arrests, charges or court outcomes for the nationwide burn were given in the opened sources.
-  - 'The Novo Jornal page carries an image captioned only Foto: Cedida with no evidence it shows this incineration, so no media entry is included.'
   - ANGOP provincial reports for the same November 2022 anniversary incinerations could not be opened after a 503 error, so only Novo Jornal and RNA are cited.
 ---
 

@@ -119,7 +119,6 @@ open_questions:
   - No charge, court date or update on the two women has been reported; Customs said only that investigations were ongoing.
   - This Chinese-language government press release is the Chinese counterpart of the English release already cited by the report; the English wording was not separately quoted here.
   - Bastillepost republishes the Government Information Services handout and adds no information beyond the recorded accounts; the drug remains described as suspected cannabis buds without laboratory confirmation.
-  - The submitted page is a republication of the Customs statement by 風火時報, not independent reporting; it carries no details beyond the agency's wording.
   - The weights remain approximate (about 7 kg in total, about 3.5 kg each) and the material is described as suspected cannabis buds without laboratory confirmation.
   - The Bastillepost account raises no new fact and reports no charge, court date or outcome for the two women.
   - The PassionTimes headline describes the travellers as arriving from Thailand, while the article text specifies Bangkok; it is the same flight route already recorded.

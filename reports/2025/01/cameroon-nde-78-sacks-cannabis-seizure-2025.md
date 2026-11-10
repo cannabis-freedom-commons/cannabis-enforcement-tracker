@@ -57,7 +57,6 @@ sources:
     date: 2025-04-10
     language: fr
 open_questions:
-  - The exact interception date is not stated; Alwihda says the cargo was presented on the preceding Thursday, while Xinhua says the seizure was announced Saturday, 25 January, so 29 January, the submitted page's publication date, is used as the incident date.
   - Actu Cameroun gives 7,870 kg despite also saying each sack held 100 kg; Xinhua and StopBlablaCam report 7.8 tonnes for 78 100-kg sacks, so 7,800 kg is recorded.
   - The driver and convoy assistant fled; no later arrests, charges or court outcome were reported.
 ---

@@ -49,7 +49,6 @@ open_questions:
   - No charges, court appearance or custody decision were reported; the FGE was to determine the men's legal situation.
   - The article does not say which of the two men was driving or who allegedly carried the replica revolver.
   - Only one source for this event was found; search results for other Tijuana hyperlocal outlets returned older, unrelated detentions.
-  - Photos on the page carry empty captions and the related content shows no description tying them to this stop, so no media is listed.
   - NDT does not give the weight of the 68 bags, and it describes the contents only as a green, dry herb similar to marijuana with no laboratory confirmation.
   - Síntesis Tv datelines the detention to Monday 9 November 2026, while the report dates the stop to 7 November 2026; the article does not state the day of the interception separately from its dateline.
 media:

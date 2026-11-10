@@ -96,7 +96,6 @@ open_questions:
   - The MSN page carries a preview image with no accessible caption tying it to this raid, so no event photo is listed.
   - The Südwest Presse article gives no day for the searches and no charge or court detail beyond the arrest warrants; the incident date 4 November 2026 comes from the earlier reporting of the same police statement.
   - The Südwest Presse summary names Landkreis Günzburg as the place where the grow, cocaine and weapons were found, but it does not say which flat held what.
-  - The SWP picture on the page is captioned as a symbol photo credited to Daniel Karmann/dpa, so no media entry is added.
   - The Südwest Presse account gives no day for the searches and no further court detail beyond the arrest warrants and pretrial detention, so it does not change the report's incident date or case stage.
   - Die Rheinpfalz repeats the same dpa account of the police statement that the report already cites, so it is not an additional independent account.
   - The Rheinpfalz article still gives no number of cannabis plants or cannabis weight.

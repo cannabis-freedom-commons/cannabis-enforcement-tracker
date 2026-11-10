@@ -46,7 +46,6 @@ sources:
 open_questions:
   - The article gives only its publication date of 31 October 2026 and no separate date for the verdict, so the publication date is used as the incident date.
   - Only one source for this sentencing could be found and opened, with no agency statement or second outlet available for corroboration.
-  - The page image caption does not establish that the photo shows this case, so no media entry is included.
   - The account does not state when the underlying arrest or recovery occurred or what happened before the verdict.
   - Whether the fine was paid, the bond and surety were furnished, or any appeal followed is not reported.
 ---

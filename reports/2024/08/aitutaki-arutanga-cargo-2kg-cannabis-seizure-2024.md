@@ -48,7 +48,6 @@ open_questions:
   - The Cook Islands News article is behind a subscription notice, so only its opening paragraph could be read; further detail comes from the ministry statement.
   - No arrests, charges or named suspects are reported in the opened accounts; police said investigations were ongoing.
   - The ministry statement is dated 19 August 2024 but gives the seizure as Wednesday 7 August; the police searches are undated beyond being carried out the following Thursday.
-  - No photos of the seizure were available beyond a page image captioned only with the headline, so no media entry is added.
   - The Cook Islands has no id in the tracker's country registry, so the New Zealand id is used as in other Cook Islands reports.
   - No street value or weight beyond just over 2 kg is published.
 ---

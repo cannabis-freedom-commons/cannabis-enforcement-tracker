@@ -41,7 +41,6 @@ sources:
 open_questions:
   - No weight, packaging detail or value was published for the suspected cannabis.
   - No charge, court case or outcome has been reported beyond handover for investigation and necessary action.
-  - The submitted page carries a photo with an empty caption, so whether it shows this seizure was not established and no media entry is added.
   - The Daily Post account attributes its reporting to Zagazola Makama's post quoting security sources, so both accounts share a single origin.
 ---
 

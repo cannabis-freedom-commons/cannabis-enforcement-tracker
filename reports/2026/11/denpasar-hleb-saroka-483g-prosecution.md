@@ -94,8 +94,6 @@ open_questions:
   - 'Left out, as its quotation was not found in NusaBali: Belarusian national Hleb Saroka, 30, faced a demand hearing at the Denpasar District Court on 3 November 2026.'
   - 'Left out, as its quotation was not found in NusaBali: On 6 April 2026 Saroka came to a hotel reception in Jimbaran, Kuta Selatan, Badung at about 19.00 WITA to collect a package left there through witness Ali.'
   - 'Left out, as its quotation was not found in NusaBali: His counsel said the foreign national has no family or friends assisting him in Indonesia and was confused about what steps to take.'
-  - Balipost reports the fine's subsidiary as 60 days if unpaid, matching NusaBali and differing from Radar Badung's reported one year already noted in the existing report.
-  - Detik reports the Rp100 million fine's subsidiary as 60 days' imprisonment if unpaid within one month, matching NusaBali and BALIPOST.com and differing from Radar Badung's reported one year already noted in the existing report.
 ---
 
 Prosecutor Finna Wulandari demanded nine years' imprisonment for him. [@1,3,4,5,6] The

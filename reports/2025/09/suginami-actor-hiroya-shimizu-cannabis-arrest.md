@@ -49,7 +49,6 @@ sources:
 open_questions:
   - No charge, trial or court outcome beyond arrest on suspicion was reported in the opened sources.
   - The co-arrested woman in her 20s was not named in the opened sources.
-  - The submitted page carries only a portrait illustration of the actor, so no photo of the event itself is listed.
 ---
 
 Tokyo Metropolitan Police arrested 26-year-old actor Hiroya Shimizu on September

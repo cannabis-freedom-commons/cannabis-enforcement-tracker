@@ -44,7 +44,6 @@ open_questions:
   - No charge, remand order or court outcome was reported.
   - The police station that registered the case was not named.
   - Only one source for this arrest could be opened; searches in Tamil and English found no second account.
-  - The page photo shows generic handcuffs and a puzzle-piece graphic, not this arrest, so no media entry is included.
   - 'Left out, as its quotation was not found in தினமணி (Dinamani): Manikandan has 22 pending cases, including two murder cases and two attempted murder cases.'
 ---
 

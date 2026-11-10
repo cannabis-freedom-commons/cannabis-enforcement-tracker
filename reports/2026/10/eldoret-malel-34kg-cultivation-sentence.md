@@ -74,13 +74,9 @@ open_questions:
   - >-
     The plea was taken by Principal Magistrate Kimani Mukabi while the sentence was imposed by Senior Resident
     Magistrate Beatrice Toroitich; the reports do not explain the change.
-  - The page photograph could not be verified as showing this case, so no media entry was added.
   - >-
     The charge sheet also accused Lingori of trafficking 50 grams of cannabis valued at Sh1,500, and the
     reports do not give a separate outcome for that count.
-  - >-
-    The Court Helicopter photo published with the sentencing report could not be confirmed to show this
-    seizure, so no media entry was added.
   - The reports do not say whether Lingori has appealed the sentence.
 ---
 

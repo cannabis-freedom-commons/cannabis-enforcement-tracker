@@ -72,7 +72,6 @@ open_questions:
   - No court outcome beyond the judicial custody remand has been reported, and Narad Mandal had not been arrested in these accounts.
   - Hindustan's page sits in its Bhagalpur section and its headline names Khagaria; the other two reports place the raid in Khagaria district's Madaiya police station area.
   - Only Prabhat Khabar published a picture captioned as the recovered ganja; no photograph of the raid itself was found.
-  - Dainik Bhaskar's Hindi headline and its English alternative headline say three accused were arrested, but the article's opening paragraph says two; the existing report keeps two, matching its other sources.
   - Only the headline and opening paragraph of the Dainik Bhaskar report were readable before its paywall prompt, so it adds no details beyond the place, the 78.160 kg and the two arrests.
   - Dainik Bhaskar's lead image has no caption or credit and could not be confirmed as a photograph of this seizure.
 ---

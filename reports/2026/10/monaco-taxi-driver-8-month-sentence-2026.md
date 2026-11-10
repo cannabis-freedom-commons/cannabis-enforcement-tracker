@@ -47,7 +47,6 @@ open_questions:
   - No number, weight or volume was published for the THC vape pens, so no cannabis quantity can be recorded.
   - The 4.75 grams of cocaine, medications and Category C weapons are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - The eight-month prison term covers poly-drug driving and related possession, not a cannabis-only penalty, so no cannabis-only sentence can be isolated.
-  - The submitted page image caption about €1,000-a-month spending does not establish that the photo shows this seizure, raid or court, so no media entry is included.
   - NEWS.MC states the case was originally reported by Monaco-Matin, so the second account is not fully independent.
 ---
 

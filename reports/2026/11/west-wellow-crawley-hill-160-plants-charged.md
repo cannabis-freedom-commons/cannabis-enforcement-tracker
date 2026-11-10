@@ -48,7 +48,6 @@ open_questions:
   - The article gives 2 November for the warrant but no separate date for the charge, so 2 November is used as the incident date
   - No outcome of the 3 November court hearing was reported
   - Only one source could be opened; the Hampshire Constabulary statement found in search could not be opened and is not cited
-  - The page image is a Google Maps view of Crawley Hill, not the plants or raid, so no media entry is listed
 ---
 
 A man found at a house in Crawley Hill, West Wellow was arrested at the scene

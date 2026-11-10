@@ -62,13 +62,9 @@ open_questions:
   - No weight was published for the handmade tobacco-cannabis cigarette, so the kilogram figure covers only the two packages.
   - No charges, custody decision or court outcome were reported.
   - Only one accessible source for this event was found after searching in Greek, so no second account could be opened.
-  - The page image filename indicates a police patrol car and is not established to show this seizure, so no media entry is included.
   - The pelop.gr account gives no separate incident date for the Gastouni check; only its 4 November 2026 publication timestamp is known, so the 3 November 2026 incident date still rests on the existing dete.gr account.
   - The same pelop.gr article also reports a separate traffic arrest on the Patras–Pyrgos national road for driving after licence withdrawal, with no cannabis component, left out here as unrelated to this report.
-  - The pelop.gr lead image uses a June 2025 file with a headline caption and is not established to show this seizure, so no media entry is included from this source.
-  - The PatrisNews page image is captioned only with the article headline and carries no credit establishing that it shows this seizure, so no media entry is included.
   - The iliakanea.gr account does not state the detained person's nationality, so the existing description of him as a Greek man still rests on the earlier dete.gr account.
-  - The iliakanea.gr page image is a generic police patrol car (astynomia peripoliko) and is not established to show this seizure, so no media entry is included.
 ---
 
 Officers of the OPDI unit of the Pineios Police Department arrested a Greek man

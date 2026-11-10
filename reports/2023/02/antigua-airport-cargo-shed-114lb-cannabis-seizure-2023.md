@@ -63,7 +63,6 @@ open_questions:
   - Antigua News Room and Antigua News repeat the Observer's wording, so the account rests on a single original source.
   - No arrests were reported and nothing on the consignee, origin or intended destination of the shipment was published.
   - The same article's weekly total of 131 pounds and value of $786,000 combine three separate seizures and are reported as context, not as this event's figures.
-  - The page's only image is an uncaptioned stock-style illustration that cannot be tied to this seizure, so no media entry was added.
 ---
 
 Police and customs officers searching the Cargo Transit Shed at V. C. Bird

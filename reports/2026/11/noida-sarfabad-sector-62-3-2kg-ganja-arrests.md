@@ -53,11 +53,9 @@ open_questions:
   - The article gives the arrests as Friday evening and is published Saturday 7 November 2026, so 6 November 2026 is used as the incident date.
   - Only one accessible source for this event was found after searching in Hindi and English.
   - No NDPS sections, case numbers, remand or court outcome beyond registration of FIRs were reported.
-  - The page's lead image is stored under a 2021 file path and captioned only with the headline, so it is not confirmed to show this seizure and no media entry is added.
   - The article's reference to a 2026 NDPS case under sections 8/20 at Sector-58 station does not say whether it is this same arrest's case or a separate earlier one.
   - The article reports no value for the ganja and no remand, charge or court date.
   - The article makes no mention of a second accused or of Delhi as the source of the ganja, which the other account reports.
-  - The page's single image carries only the headline and no credit establishing that it shows this seizure, so no media entry is added.
   - Royal Bulletin's same-day Noida roundup, which carries the same two ganja seizures and the 3.2 kg total, places the woman's arrest beside the service road of the Sector-71 underpass rather than at the Sarfabad cremation ground, and groups the ganja with an unlicensed pistol and 110 bottles of country liquor found on two other men who had no cannabis.
 ---
 

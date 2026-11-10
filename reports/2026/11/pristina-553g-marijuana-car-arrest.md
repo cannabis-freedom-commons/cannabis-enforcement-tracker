@@ -62,7 +62,6 @@ open_questions:
   - The article does not say what the search of the home and surrounding facilities found.
   - Only one source could be opened; it reproduces the police 24-hour report, and no independent second account was found.
   - No charge, age or other identifier for the suspect, and no court outcome, was reported.
-  - The page's only photo is an uncaptioned, uncredited image file named for the Kosovo Police, which cannot be established to show this seizure, so no media entry is listed.
   - The German edition likewise describes the material only as a substance suspected to be marijuana, with no laboratory confirmation published.
   - The German article again gives no charge, age or court outcome, and does not say what the search of the home and surrounding buildings found.
   - The French edition likewise describes the material only as a substance suspected to be marijuana, with no laboratory confirmation published.

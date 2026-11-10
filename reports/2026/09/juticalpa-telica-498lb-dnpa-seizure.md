@@ -95,9 +95,6 @@ open_questions:
   - No charge sheet, formal charge, measure of restraint or court outcome for the two detainees was reported.
   - The minor's legal status under Honduras's juvenile justice procedure was not reported.
   - The National Police's four Facebook photos carry no captions and their automatic alt text does not establish what each shows, so they are linked as the police's own images of the operation rather than described.
-  - This post rounds the load to 500 packages and gives no weight; the existing report keeps the detailed 498-pound and 249 double-package figures from other outlets.
-  - This post spells the origin as 'San Estaban'; the existing report uses San Esteban.
-  - The page carries four images without captions, so no media entry is added.
 ---
 
 Agents of Honduras's National Anti-Drug Police Directorate (DNPA) seized 498

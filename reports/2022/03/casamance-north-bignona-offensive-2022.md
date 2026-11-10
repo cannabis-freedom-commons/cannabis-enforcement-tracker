@@ -52,7 +52,6 @@ open_questions:
   - The army said several rebels were killed but gave no number.
   - The reports give no number for the traffickers arrested or the weapons seized.
   - The 24 January clash in which four soldiers were killed and seven captured is a separate event left out here.
-  - No photo of the March 2022 operation could be verified, so no media entry was added.
 ---
 
 On 13 March 2022 Senegal's army launched an operation in Casamance to dismantle the bases of separatist rebels, and on 23 March it announced that several rebel bases had been totally destroyed or occupied. [@1] One soldier was killed and eight were wounded in the operation, and several rebels were also killed, the army said without giving a number. [@1]

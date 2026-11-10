@@ -54,7 +54,6 @@ open_questions:
   - No verdict or sentence was reported; further hearings were still expected when the articles appeared.
   - The arrest occurred on 1 September 2017 and the trial opened on 7 June 2019; the incident date uses the latest step, the trial opening.
   - All three accounts attribute the details to the weekly Kalara edition of 11 June 2019, so they represent a single reporting chain.
-  - The submitted page image is captioned only as seized Indian hemp and dates from 2018, so it is not established to show this seizure and no media entry is included.
   - 'Left out, as its quotation was not found in 237online.com: Some of those stopped fled, while the three accused resisted arrest and the encounter degenerated into an altercation.'
 ---
 

@@ -46,7 +46,6 @@ sources:
 open_questions:
   - No separate weight or breakdown is published for hashish versus other drugs, only significant quantities of various drugs, so no kilogram figure is counted.
   - No separate raid date is given; 2 November 2026 is the submitted article's publication date and is used as the incident date, corroborated by the 3 November 2026 second report.
-  - Both pages carry generic arrest and operation images whose captions do not establish that they show this Taslba hideout, so no media entry is added.
   - Whether other network members were arrested, and any charges or court outcome for the detained leader, were not reported.
   - The rubber-boat workshop for irregular migration was found at the same site and is context; its materials are not cannabis figures.
 ---

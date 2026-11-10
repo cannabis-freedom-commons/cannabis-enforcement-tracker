@@ -70,7 +70,6 @@ open_questions:
   - No separate date for the interception was published beyond the 30 November 2025 announcement; that date is used as the incident date.
   - No names, charges or court outcome for the two suspects were reported.
   - The three-year breakdown announced by the ministry on 25 November 2025 belongs to a separate announcement and is not part of this raid.
-  - The article gives no separate date for the raid itself; the existing report uses 30 November 2025, the date of the Syrian announcement.
 ---
 
 The Syrian Narcotics Directorate, working with Iraq's drugs directorate, foiled

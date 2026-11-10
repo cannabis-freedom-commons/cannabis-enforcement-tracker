@@ -63,7 +63,6 @@ open_questions:
   - No count of the cannabis plants or of the area of the destroyed fields was published.
   - No weight was published for the cannabis seeds in the four 20-litre containers.
   - No growers were named and no charges or court outcomes were reported.
-  - The Senego page carries a photo captioned with the article title, which does not by itself establish that it shows this operation, so no media entry is added.
 ---
 
 On 30 October 2026, sailors and commandos from the Elinkine naval base raided

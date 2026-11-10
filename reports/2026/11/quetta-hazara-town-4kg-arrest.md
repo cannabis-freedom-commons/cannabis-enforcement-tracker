@@ -47,7 +47,6 @@ open_questions:
   - The Daily Independent spells the suspect Janzaib while the APP/UrduPoint account spells him Janzeb; the report uses the Daily Independent spelling.
   - The Daily Independent calls the drug cannabis while the APP/UrduPoint account calls it hashish; both agree on four kilograms.
   - No court charge, sentence or further outcome beyond handover for investigation was reported.
-  - 'No usable event photo could be established: the Daily Independent image has no caption or credit tying it to the seizure, and the UrduPoint image appears to be a 2025 file image, so no media entry is included.'
 ---
 
 Hazara Town Police in Quetta arrested a suspected drug dealer during a routine

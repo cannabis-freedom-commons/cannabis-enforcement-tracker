@@ -56,7 +56,6 @@ open_questions:
   - The police announcement states no charge beyond the drug-law arrest; no prosecutor's decision or court outcome was reported.
   - The man is identified only by his age and Greek nationality; no name was published.
   - Only the police announcement and local reprints of it were found; no independent second account of the arrest was located.
-  - The stadium photographs on the submitted page come from the outlet's archive with no caption tying them to the arrest, so no media entry is included.
 ---
 
 Police officers of the Tripoli Crime Investigation and Prosecution Department

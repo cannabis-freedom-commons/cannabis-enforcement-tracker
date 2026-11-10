@@ -49,7 +49,6 @@ open_questions:
   - The 1.577 kg cannabis figure is the sum of 1.570 kg of charas powder and seven grams of charas; no combined total was published.
   - The 30.4 grams of brown sugar and 13 grams of heroin are not cannabis and are excluded from kg_seized.
   - KIMS and Kashmir Images headlined six arrests because they added a separate Awantipora operation at Pinglish, Tral; that case is not part of this Anantnag event.
-  - No captioned photograph of the arrests or the seized contraband was published; the Jagran page uses a file photo and the four images on the police post are uncaptioned, so no media entry is included.
   - No ages, court appearances, bail decisions or convictions were reported.
   - The Hindi report spells the first suspect Shabbir Ahmad Didar; the English reports give Shabir Ahmad Deedad.
   - 'Left out, as its quotation was not found in Anantnag Police: Anantnag Police said five alleged drug peddlers had been arrested in four operations at Srigufwara, Mattan, Malakhnag and Sangam, with charas, heroin and brown sugar recovered.'

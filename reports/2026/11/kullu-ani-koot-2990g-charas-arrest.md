@@ -86,9 +86,6 @@ open_questions:
   - The report gives no separate date for the raid; 2026-11-01 is the article's publication date.
   - Only one source for this event could be opened, so the police account has no independent corroboration.
   - >-
-    The submitted Amar Ujala article adds Rs 99,200 in seized cash and raid details led by ASI Vijay Singh
-    that the existing report does not yet record.
-  - >-
     The article gives only its publication date of 1 November 2026 and describes the patrol as Saturday
     evening without giving a separate raid date.
   - The page's only image metadata is a default placeholder image, so no event photo is listed as media.
@@ -98,9 +95,6 @@ open_questions:
   - The headline calls the haul worth lakhs of rupees but no exact value was published.
   - Whether the accused has been charged beyond the registered FIR or produced in court is not reported.
   - No second independent report of the same raid could be opened.
-  - >-
-    The source page carries a photo whose content could not be verified to show this seizure, so no media
-    entry is listed.
   - The Hindi name जोवनदासी is transliterated here as Jovandasi.
   - >-
     The coverage index also lists kullu-ani-koot-2990g-charas-arrest for the same 2.990 kg Koot arrest with a

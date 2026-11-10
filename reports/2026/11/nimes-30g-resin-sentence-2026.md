@@ -48,7 +48,6 @@ open_questions:
   - The 4 November 2026 publication date is used as the sentence date because the article reports a hearing held that Wednesday without giving a separate judgment date.
   - The cocaine amount is reported only as a little more than 15 grams and the cash amount is not quantified, so neither is recorded in figures.
   - The defendant is identified only as Fabrice, aged fifty, with no surname published.
-  - The page image captioned drogues, cocaïne is marked as an illustration and is not established to show this seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in Le réveil de midi: The court found him guilty and sentenced him to two years in prison with a committal order and a five-year ban from the Gard department.'
 ---
 

@@ -52,7 +52,6 @@ open_questions:
   - No court outcome beyond the opened criminal case was reported.
   - The exact border crossing was not named; the M1 highway border area is the most precise location given, so a regional Vitebsk pin is used.
   - Both accounts relay the State Customs Committee version; no independent account of the search was opened.
-  - The Belta page photo is captioned only as GTC material with no description establishing that it shows this seizure, so no media entry is included.
 ---
 
 Vitebsk customs detained the driver of a stopped Volkswagen car. [@1] The driver

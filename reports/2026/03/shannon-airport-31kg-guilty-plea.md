@@ -52,7 +52,6 @@ open_questions:
   - No sentence had been imposed; Grehan was remanded to Ennis Circuit Court on 14 April and the later outcome is not reported here.
   - The €620,000 figure is the estimated street value stated by gardaí, not an independently verified value.
   - Only one source for this event was opened; no second report confirming or adding facts was found.
-  - The page lead image caption does not establish that it shows this seizure, so no media entry is added.
 ---
 
 Seán Grehan of Stradbrook Park, Blackrock, Dublin signed a guilty plea at Ennis

@@ -61,7 +61,6 @@ open_questions:
   - Six suspects are counted as charged because a court remanded them in pre-trial detention; no charges are named.
   - No suspect is named, no district is given and no court outcome beyond the remands is reported.
   - The 11.22 grams of bonzai are a synthetic cannabinoid and are excluded from the cannabis figures.
-  - The submitted page's lead image is a general drugs illustration filed in September 2026, so no media entry is added.
 ---
 
 Police and gendarmerie teams took judicial action against 59 suspects in

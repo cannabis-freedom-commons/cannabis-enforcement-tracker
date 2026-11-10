@@ -52,7 +52,6 @@ open_questions:
   - No quantities were published for the additional dried cannabis or cocaine beyond the initial about 2.9 grams, so only that weight is counted.
   - The five referral counts are not itemised by substance, date or possession versus use.
   - The reports say the referrals were made by 2 November; the exact referral day is not separated from the publication date.
-  - The pages carry a photo captioned only with the headline, which does not establish that it shows this seizure, so no media entry is added.
   - No court outcome or custody status after referral was reported.
 ---
 

@@ -45,9 +45,7 @@ sources:
 open_questions:
   - No arrests, charges or court outcome were reported beyond the opened investigation; the six escorts were still at large.
   - Only one accessible source for this event was found after searching in French; no second account or gendarmerie statement for the 375 kg seizure could be opened.
-  - The page carries a featured photo titled with the seizure headline but with no caption, description or credit establishing that it shows this seizure, so no media entry is included.
   - This is distinct from the already recorded 29 August 2026 Mbodiène seizure of 427 kg, which involved a different weight, parcel count and arrest outcome.
-  - The APA page image is titled only with the seizure headline and carries no caption or credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Gendarmes seized a large quantity of cannabis near the Mbodiène lagoon in Mbour

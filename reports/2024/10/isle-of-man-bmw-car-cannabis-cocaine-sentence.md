@@ -70,17 +70,13 @@ open_questions:
   - No cannabis weight was published, only values of almost £100,000 of cocaine and about £78,000 of cannabis; figures record only the cannabis-only value.
   - No separate sentencing hearing date was published; 24 July 2024 is derived from the report that the three were sentenced on Wednesday before the 25 July 2024 publication.
   - Only one opened source was available for this hearing; no second account confirming or adding facts was found.
-  - The published page image is described as the Courts of Justice building exterior, not the car, drugs, raid or sentencing action, so no media entry is listed.
   - James Spotswood's 15-year term concerns a separate earlier organised-crime case and is excluded from this event's figures.
   - Woods's sentence also covers a separate August 2021 cocaine-import charge and a March 2023 assault; the report cannot separate component terms.
   - No arrest, seizure-weight or cannabis-quantity figures were published for this event.
-  - The BBC account describes £78,000 of “cannabis and cocaine” and gives a £99,000–£142,000 street value without separating the drugs’ respective values, so it does not resolve the existing report’s cannabis-only valuation.
   - No second independently opened account of Thomas’s sentencing was found.
   - Isle of Man Today gives McHarrie’s total sentence as 21 years and nine months in one passage and 22 years and nine months in another; this update follows the BBC’s 21 years and nine months.
-  - Isle of Man Today dates the 999.56 g cocaine and 3.9 kg cannabis production to 22 June 2022, while the existing report dates the BMW Sea Terminal seizure to 6 June 2022; the matching weights and values indicate the same consignment with an unresolved date difference.
   - The BBC gives the separate importation as about £78,000 of cannabis and cocaine worth £99,000 to £142,000, while Isle of Man Today splits it as £78,419 of cannabis and £99,956 to £142,794 of cocaine within £178,345 to £221,213 overall; only the cannabis-only weight and value are usable for cannabis figures.
   - The 248.7 g microwave consignment was cocaine only and is mentioned only to explain the same sentencing event.
-  - The submitted BBC page carries a police mugshot of Spotswood and a Douglas Courthouse exterior, neither showing the seizure, raid or drugs, so no media entry is included.
 media:
   - kind: photo
     url: https://www.iomtoday.co.im/news/drugs-gangs-downfall-came-when-bmw-was-stopped-off-the-ferry-during-isle-of-man-tt-733806

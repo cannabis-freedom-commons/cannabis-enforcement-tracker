@@ -40,7 +40,6 @@ sources:
     language: hi
 open_questions:
   - Only one outlet account of this acquittal was accessible; no court judgment, police statement or second report was found to corroborate it.
-  - The page's only image is an undated generic court photograph with no caption linking it to this case, so no media entry is listed.
   - The source states that a case was registered but gives no arrest or custody details, so the report counts only the three men charged and the seized weight.
   - The same page also reports an unrelated assault and caste-slur conviction at Sarkaghat, which is a separate event left out of this report.
 ---

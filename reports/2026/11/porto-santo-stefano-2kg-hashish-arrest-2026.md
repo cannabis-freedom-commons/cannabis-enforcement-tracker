@@ -46,7 +46,6 @@ open_questions:
   - The car hashish weight was given only as more than two kilograms, so the 2.01 kg total (over 2 kg plus 10 grams found at home) is approximate.
   - The cocaine (about 2 grams on the man and in the car, plus 90 grams in the garage) is mentioned for context and kept out of the cannabis figures.
   - The alleged 18,000-euro investment covered hashish and cocaine together and cannot be assigned to cannabis alone, so it is kept out of figures.
-  - The page's only editorial image is explicitly an archive photo of an Orbetello patrol, not this seizure, so no media entry is added.
 ---
 
 The incident dates to Thursday 5 November 2026. [@1] A 59-year-old Italian man

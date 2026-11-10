@@ -56,7 +56,6 @@ sources:
 open_questions:
   - No weight or separate amounts were published for the marijuana and the amphetamine, so no cannabis quantity is recorded and the combined seizure cannot be counted as cannabis.
   - The outcome of the blood test and any driving-under-the-influence charge is not yet known.
-  - The Portal Płock page carries a lead photo captioned only with the headline, which does not establish that it shows this seizure, so no media entry is added.
 ---
 
 On Tuesday 27 October, patrol officers of the Sierpc police noticed a Volkswagen

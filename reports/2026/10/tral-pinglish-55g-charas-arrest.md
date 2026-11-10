@@ -45,7 +45,6 @@ open_questions:
   - The FIR number and the quantity's valuation were not published.
   - No remand, charge-sheet detail or court outcome was reported; investigation was said to be under way.
   - Only one accessible source for this event was found after searching in Hindi and English.
-  - The page image uses a 2021 file-photo address and its caption does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Awantipora police, acting under their continuing campaign against drug

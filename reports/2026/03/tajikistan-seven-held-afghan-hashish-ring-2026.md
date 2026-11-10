@@ -49,7 +49,6 @@ open_questions:
   - No charges, custody rulings or trial outcomes were reported beyond the opened Article 200 Part 4 case, and 12 to 20 years is the potential penalty, not a sentence.
   - Confessions were reported from official videos and statements with circumstances unstated, and the other suspects' positions remain unknown.
   - Only the Asia-Plus Russian report and its English version of the same account were opened, so no independent second outlet corroboration was available.
-  - The pages carry photos whose captions do not establish that they show this seizure, so no media entry is included.
   - The text gives a weight ("100 kilograms") but the figures have no kg_seized; check whether it belongs there.
 ---
 

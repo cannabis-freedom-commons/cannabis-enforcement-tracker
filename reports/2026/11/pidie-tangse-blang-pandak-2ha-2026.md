@@ -105,18 +105,12 @@ open_questions:
   - The article names no suspects, arrests, charges or court outcome.
   - Only one source for this event could be opened, so no second report confirms or adds facts.
   - The 150-kilogram figure is described as an estimate, not a weighed seizure total.
-  - The new source attributes the statements directly to Pidie police chief AKBP Jaka Mulyana, while the existing report attributes them to deputy chief Kompol Firdaus Jufrida speaking for him.
   - 'Left out, as its quotation was not found in ANTARA News Aceh: All of the cannabis plants were uprooted and destroyed at the location.'
-  - The ANTARA account attributes the statements directly to Pidie police chief AKBP Jaka Mulyana, while the existing report attributes the plant-height detail to deputy chief Kompol Firdaus Jufrida speaking for him.
   - The page's lead photograph has no caption or accessible description, so whether it shows this eradication operation could not be confirmed and it is not listed as media.
   - The new account names no suspects, arrests, charges or court outcome.
   - 'The page''s photo caption is only ''Foto: HO for Komparatif.ID'' with no description of its content, so whether it shows this eradication could not be confirmed and it is not listed as media.'
-  - Whether the 150 kg is the estimated weight of the 350 plants or a separate seized amount is not resolved between the Portalnusa wording and the existing report's reading.
   - The Portalnusa article names no suspects, arrests, charges or court outcome.
   - The page URL slug mentions 360 plants while the article text consistently states 350 plants.
-  - This account attributes the statements directly to Pidie police chief AKBP Jaka Mulyana, while the existing report attributes the plant-height detail to deputy chief Kompol Firdaus Jufrida speaking for him.
-  - The lead photo credited to Polres Pidie appears to show the same burning operation already listed from the police handout, so no new media entry is added.
-  - The Head Topics page carries one image captioned only with topic tags, without a description confirming it shows this eradication, so no media entry is added.
   - The page gives the operation day only as Sunday and the police statement day only as Monday, so calendar dates rely on the 2 November 2026 publication date and the existing 1 November 2026 incident date.
 ---
 

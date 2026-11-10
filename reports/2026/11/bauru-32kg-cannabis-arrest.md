@@ -51,7 +51,6 @@ open_questions:
   - The cocaine was reported only as four portions with no weight, so no cocaine figure is recorded and the cannabis weight stands alone.
   - No identity, age, charge or court outcome was reported beyond the arrest and referral to the police station.
   - Only one source was found; a second account would strengthen the report.
-  - The page shows one image captioned only 'Força Tática - Divulgação', which does not confirm it depicts this seizure, so no media entry is added.
 ---
 
 A man was arrested for drug trafficking on the night of Friday 6 November on Rua

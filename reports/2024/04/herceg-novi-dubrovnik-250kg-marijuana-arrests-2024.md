@@ -56,13 +56,10 @@ sources:
     publisher: Vijesti
     date: 2024-04-16
 open_questions:
-  - The submitted page gives no separate arrest date; 15 April 2024 is used because the 16 April same-event account says the arrests occurred yesterday and the 17 April accounts say the operation ended that week.
   - A related headline mentions at least 305 kg while the SDT and USKOK accounts state at least 250 kg transported and 250 kg seized on two occasions; the report uses 250 kg.
   - The unknown quantity smuggled on three other occasions was not quantified, so no additional kilograms are recorded.
   - The full names behind the initials RV, FR and JB were not given in the opened arrest accounts.
   - No court outcome at the time of the arrest reports was included; later indictment and detention steps are separate developments not covered by these sources.
-  - The only image on the submitted page is captioned as a Shutterstock illustration, and the Croatian page image is not established to show this seizure, so no event photo is listed.
-  - Only the submitted page plus two same-event accounts were opened; no separate agency statement beyond the SDT statement they quote was found.
 ---
 
 Montenegrin citizen Miljan Mandrapa was arrested on suspicion of belonging to a

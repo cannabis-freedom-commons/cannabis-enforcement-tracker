@@ -96,10 +96,7 @@ open_questions:
   - An automatic Chinese translation of the same L'Unione Sarda article calls the parcel cannabis; the Italian text and Sardinia Post call it hashish, with 5.5 grams of marijuana found separately at the home.
   - The published photographs have no captions, so what each picture shows is not stated.
   - The 25,000-euro figure is the Guardia di Finanza estimate for the seized drugs as a whole, including the cocaine, not for the hashish alone.
-  - The new account gives the about 25,000-euro estimate but does not mention the more than 2,000 doses figure in the existing report.
   - The page's only image for this event is the Guardia di Finanza logo, with the other thumbnails showing unrelated cases, so no new event photo can be added.
-  - ANSA reports that the officers opened the parcel after hearing the young man give evasive answers, a detail not stated in the existing report or in the German translation.
-  - The German page carries the same L'Unione Sarda photo gallery, whose images are set as a shared multi-case slideshow credited only to the publisher and are not established to show this arrest, so no media entry is added.
   - 'Left out, as its quotation was not found in ANSA: The Olbia group had been watching postal shipments and waited for the delivery.'
 ---
 

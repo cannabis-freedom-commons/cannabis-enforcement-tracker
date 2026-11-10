@@ -105,9 +105,6 @@ open_questions:
   - Masrawy's page now carries the admission that the two men held the drugs for trafficking, so the report's open question saying that quotation was not found there is out of date.
   - Only Al-Ahram Gate, among the accounts read for this update, reports that the Public Prosecution took over the investigation.
   - 'Left out, as its quotation was not found in بوابة الأهرام: When questioned, the two admitted committing the offence and said they held the seized drugs for trafficking, the ministry said.'
-  - The submitted page gives no weight or value for the strox or hashish, so no cannabis quantity can be added.
-  - Its listed photo uses the same direct image address already cited in the existing report, so no additional media entry is listed.
-  - The submitted page gives no separate date for the arrests; 31 October 2026 is its publication date.
   - Its listed photo is not added because outlets republished the same police handout and a distinct photo could not be confirmed.
   - The page gives no separate date for the arrests; 6 November 2026 is its publication date, and 31 October 2026 remains the incident date from earlier coverage.
   - No weight or value is given for the hashish or strox seized, so no cannabis quantity can be recorded.

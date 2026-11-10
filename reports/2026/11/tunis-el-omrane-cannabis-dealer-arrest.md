@@ -51,7 +51,6 @@ open_questions:
   - Hakaekonline places the case in El Omrane; the Babnet and Daily8 account places the dealer's activity in El Jbal al-Ahmar, a different district of Tunis.
   - Hakaekonline says all those involved were held after the raid, while the Babnet account refers only to the suspect, and neither says how many people were arrested; only the single dealer is recorded.
   - The dealer is not named and no age, charge sheet or court outcome was published; the investigation was continuing into the rest of the network.
-  - Hakaekonline's only picture is a generic graphic filed as "PRISON" and reused on unrelated stories, so no media entry is included.
   - The original Babnet page served corrupted Arabic text and could not be quoted, so Daily8's copy of the Babnet report is used instead.
 ---
 

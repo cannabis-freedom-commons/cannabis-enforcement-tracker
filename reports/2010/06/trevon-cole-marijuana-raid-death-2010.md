@@ -49,7 +49,6 @@ sources:
 open_questions:
   - The amount of marijuana recovered was described only as an unspecified amount plus a set of digital scales, so no seizure figure is recorded.
   - No arrests were reported in the opened sources.
-  - No photo of the raid or the apartment with a recoverable address was found; image searches of the Mirabella Apartments scene and Las Vegas Sun, Review-Journal and KTNV archives surfaced only a portrait of Cole with his fiancee, which does not show the event, so no media entry was added.
 ---
 
 Las Vegas police narcotics officers burst into the Mirabella Apartments home of 21-year-old Trevon Cole at about 9 p.m. on Friday 11 June 2010 to serve a search warrant for marijuana. [@1] Cole, soon to become a father, was shot once in the bathroom of the apartment he shared with his fiancee Sequoia Pearce, who was nine months pregnant and present during the raid. [@1] Police said Cole made what they called a "furtive movement"; Pearce said officers forced her to kneel at gunpoint, that she could see Cole in the bathroom from a mirror's reflection, and that he raised his hands and said "Alright, alright" before a shot rang out. [@1]

@@ -45,7 +45,6 @@ sources:
 open_questions:
   - The article dates the raid only to mid-May 2016 relative to its 17 June publication, so 15 May 2016 is an approximation.
   - Only one source for this event could be opened, and the credited Loop Samoa original could not be opened.
-  - The article's police photo appears generic and could not be verified as depicting this raid, so no media entry was added.
 ---
 
 Police in Samoa raided a property at Faleatiu in mid-May 2016 and uncovered a total of 500 marijuana plants. [@1] Officers of the Tactical Operation Sector took part in the raid, and five people were arrested. [@1]

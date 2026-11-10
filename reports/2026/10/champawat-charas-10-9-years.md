@@ -58,7 +58,6 @@ open_questions:
   - No report gives the date of the judgment; 29 October 2026 is the publication date of the earliest account, so the sentencing may have taken place that day or earlier.
   - The two men received separate fines of ₹1 lakh and ₹90,000; no combined figure is stated, so the figures record no single fine.
   - The reports do not say whether either man appealed or how long he had spent in custody before sentencing.
-  - No photograph of the sentencing or of the 2022 seizure was published; the lead image on the submitted page is the outlet's logo card.
   - The reports give only September 2022 for the police check and do not name the police station that registered the case.
 ---
 

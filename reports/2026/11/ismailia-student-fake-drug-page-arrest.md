@@ -48,9 +48,7 @@ open_questions:
   - No source names the substance or substances advertised on the page, so no cannabis product is recorded; the case is a suspected online fraud offering drugs that were never delivered.
   - 'The records end at the arrest and referral to the prosecution: no charge, detention order or court outcome is reported.'
   - The sources give no separate date for the arrest; the Interior Ministry statement and the first news reports appeared on 4 November 2026, which stands in as the incident date.
-  - The suspect is not named in the news reports; the submitted page names him, and no age or further identifying detail is published.
   - No source states how many people paid money, how much was transferred or whether any of it was recovered.
-  - The submitted page was published on 9 November 2026, five days after the first reports, and reproduces the same security statement; its image address carries no caption tying it to this event, so no media is added.
 ---
 
 Security services arrested a student living in the Second Ismailia police

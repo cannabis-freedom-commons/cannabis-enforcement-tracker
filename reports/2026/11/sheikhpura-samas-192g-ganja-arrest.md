@@ -57,7 +57,6 @@ open_questions:
   - The articles give no separate date for the raid; 5 November 2026 is the publication date and is used as the incident date.
   - No street value for the seized ganja was published.
   - The 192 grams is reported as ganja with no laboratory confirmation reported.
-  - No photo confirmed to show this raid could be identified; the submitted page image had no caption or credit tying it to the event, so no media is listed.
   - The submitted Dainik Bhaskar page shows only limited text behind a paywall; fuller details are taken from two other opened outlets reporting the same raid.
   - No court outcome beyond remand to judicial custody was reported.
 ---

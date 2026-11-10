@@ -83,11 +83,8 @@ open_questions:
   - The 67 quintals (6,700 kg) reported in the Manawar area appears to be the Umarban seizure already covered by a separate report.
   - The same article reports a separate 871 kg container seizure in Jabalpur, which has its own report and is left out here.
   - The two accounts repeat the same police briefing; no independent reporting of the figures was found.
-  - Raj Express captioned its lead picture as an AI-generated photo, so no media entry was taken from that page.
   - Dainik Bhaskar puts the haul at more than 17,000 kg of cannabis plants, while the police briefing gives 172 quintals (17,200 kg) of ganja.
   - The accounts do not say whether the 172 quintals were weighed as green plants or as dried cannabis.
-  - The new account says more than 170 quintals seized, while the existing report records 172 quintals from the police briefing.
-  - The new account values the haul at more than 50 crore rupees, while the existing report records the police range of 45 to 50 crore rupees.
 ---
 
 Police in Dhar district, Madhya Pradesh, said they had seized 172 quintals

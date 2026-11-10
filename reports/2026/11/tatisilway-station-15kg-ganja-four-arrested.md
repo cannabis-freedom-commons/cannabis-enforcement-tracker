@@ -77,9 +77,7 @@ open_questions:
   - Three accused are named only as Jitendra, Sunny and Verma, with no ages or full names given.
   - No court outcome beyond registration of the NDPS case and continuing investigation was reported.
   - Only one account of the Tatisilway arrest could be opened, and no agency statement was found.
-  - The page's listed image is captioned as ganja worth one crore seized, which matches the Garhwa seizure in the same article rather than this 7.5-lakh Tatisilway seizure, so no media entry for this event is made.
   - The same page also reports the 426 kg Garhwa container-truck seizure, a separate event already recorded and handled here as an update to that report rather than part of this report.
-  - The PTI roundup places the Tatisilway seizure on the night of 7 November, while the existing report dates the incident 8 November from the publication date.
   - Vocal TV gives no separate date or time for the check; it carries the 9 November dateline of the Hindustan Samachar wire item and its publication date, so the 8 November incident date already used in the report is kept.
   - Vocal TV names the three Kushinagar residents (Jitendra, Sunny, Verma) and the fourth accused, Vishal Yadav, of West Champaran, but gives no ages.
   - This Hindi account gives no separate date for the check; 9 November 2026 is its publication date.
@@ -87,7 +85,6 @@ open_questions:
   - This article reports only the Tatisilway arrest, not the separate Garhwa truck seizure counted in the same Jharkhand roundup.
   - Prabhat Khabar names the four accused but gives no ages, and its three Kushinagar residents are listed only as Jitendra, Sunny and Verma.
   - The page gives no date apart from Saturday night, so it confirms rather than supersedes the incident date already used in the report.
-  - Only the headline of the Dainik Bhaskar article was available in the opened page text; the body sits behind the outlet's app-download wall, and the 15 kg, value and train details read there are already in the existing report.
 ---
 
 RPF personnel arrested four alleged smugglers with 15 kg of ganja at Tatisilway

@@ -46,7 +46,6 @@ open_questions:
   - One article states the exact number of people detained was not specified, so the single described suspect is recorded as one arrest while others cannot be excluded.
   - No charges, court referral or sentence had been reported; further proceedings depended on the continuing investigation.
   - The link between the seized motorcycles and the initial burglary was not established.
-  - The submitted page's photo is a 2018 file image of Republican Police officers, not shown to depict this seizure, so no media entry is included.
 ---
 
 Officers from the Ketou district police station investigating a reported

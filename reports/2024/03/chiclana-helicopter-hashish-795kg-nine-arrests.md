@@ -48,7 +48,6 @@ open_questions:
   - The article gives no separate date for the raids; 22 March 2024 is its publication date and is used as the incident date.
   - No charges or court outcome were reported.
   - Only one accessible source for this event was found after searching in English, French and Spanish.
-  - The page photo is captioned as an illustration image and is not established to show this seizure, so no media entry is included.
   - The report counts nine arrested plus one trafficker killed, following the article's opening total; the body does not state explicitly whether the dead man is separate from the five arrested at Chiclana.
 ---
 

@@ -69,8 +69,6 @@ sources:
     date: 2022-12-08
 open_questions:
   - No exact weight for the cannabis oil was published in the opened sources; Wikipedia says only 'less than a gram', so no kg figure is recorded.
-  - The submitted page names only 'a Russian airport'; the airport was Sheremetyevo according to Wikipedia, and the case was heard at the Khimki Court, which is the recorded place.
-  - The submitted page gives no separate start date for the trial beyond July 2022.
   - The sources do not establish whether the prosecution was politically motivated, although US officials called Griner wrongfully detained.
   - The charged offence was smuggling; the sources do not say what the original customs or police arrest charge was before the trial.
 ---

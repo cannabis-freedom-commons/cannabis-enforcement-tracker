@@ -44,7 +44,6 @@ open_questions:
   - The report does not name the border crossing where the men were stopped or the place of the house search.
   - No charges, court dates or outcome were reported; prosecutors had issued arrest warrants and the customs investigation was continuing.
   - Only one accessible account of this event was found; no German customs or prosecutor statement could be opened.
-  - The page's lead photo carries no caption or credit, so it could not be confirmed as showing this seizure and no media entry is included.
   - The article prints the prosecutor's office as "Saarbücken"; this report uses the city's standard spelling, Saarbrücken.
 ---
 

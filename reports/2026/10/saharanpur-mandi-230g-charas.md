@@ -51,7 +51,6 @@ open_questions:
   - The 17 grams of smack is heroin, not cannabis, and is not included in the 0.23 kg cannabis figure.
   - The reports give no ages or occupations for the four men and no court appearance, bail decision or charge sheet.
   - No source gave a street value for the charas or said where it came from.
-  - No captioned photograph of the arrests or seizure was published; Hindustan's image is a stock Saharanpur city graphic dated August 2025, so no media is linked.
 ---
 
 Officers at Mandi police station in Saharanpur, Uttar Pradesh, arrested four men

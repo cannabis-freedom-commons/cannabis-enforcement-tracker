@@ -81,15 +81,12 @@ open_questions:
   - The parents were described as investigated, not as arrested or detained, and no court outcome was reported.
   - The specific locality in La Rioja was withheld for child protection, so the report is placed at the regional level.
   - Only one accessible account of the event was found after searching in Spanish and English.
-  - The page image is credited to the Guardia Civil and captioned with the headline but does not demonstrably show this hospitalisation or investigation, so no media entry is included.
   - The Europa Press and Cadena SER accounts closely reproduce the same Guardia Civil version, so independent confirmation beyond that account was not found.
   - COPE gives no separate date for the hospital admission or the start of the investigation, so 5 November 2026 remains the publication date used as the incident date.
   - COPE, like the other outlets, reproduces the Guardia Civil account and adds no independent confirmation or new figures.
-  - The submitted OKDiario account describes a 24-year-old man and a 22-year-old woman, reversing the ages given as a 22-year-old man and a 24-year-old woman in the existing report and the Heraldo account; the report's ages are retained.
   - The Heraldo article recalls a separate case of a ten-month-old baby who tested positive in Calatayud, a different event left out here.
   - Antena 3 is the only retained new source; the El Mundo account opened for comparison reproduces the same Guardia Civil statement and could not be captured, so it is not cited.
   - Antena 3 gives no separate date for the hospital admission or the start of the investigation; 5 November 2026 is its publication date and the date of the Guardia Civil statement.
-  - Antena 3's only picture is a file photo of a Guardia Civil car from 4 October 2026 credited to Europa Press, not the case, so no media entry is added.
 ---
 
 Guardia Civil officers in La Rioja investigated a 22-year-old man and a

@@ -48,7 +48,6 @@ open_questions:
   - No source gives a separate weight for the marijuana or a split of the 18 bales between cocaine and marijuana, so the 526 kg combined total is stated only in the text and excluded from cannabis figures.
   - No crew number, arrests, charges, identities or court outcome were reported.
   - No exact interception coordinates were published and no direction from Martinique was given, so the map point marks Martinique rather than the high-seas site.
-  - The St. Lucia Times image is labelled a stock image and no direct FAA photo address with caption could be recovered, so no media entry is included.
   - The year-to-date total of more than 28 tonnes covers cocaine intercepted by French Antilles forces, not cannabis alone, and is excluded from cannabis figures.
   - The text gives a weight ("526 kg") but the figures have no kg_seized; check whether it belongs there.
 ---

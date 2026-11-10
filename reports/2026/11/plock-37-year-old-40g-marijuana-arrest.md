@@ -82,9 +82,6 @@ open_questions:
   - The same article also describes a separate June 2026 theft of 90 shoes worth nearly 12,500 zloty, a different event left out here
   - Only the detention date of 2 November 2026 is given; 3 November 2026 is the publication date recorded on both sources
   - No court outcome for the new possession charge was reported beyond the possible penalty of up to three years
-  - The PetroNews page carries a photo credited to KMP in Płock whose distinctness from the police handout already cited cannot be established from the caption alone, so no additional media entry is listed.
-  - The submitted page's only listed image is captioned as a generic police car and is not shown to depict this seizure, so no media entry is added.
-  - The page image is captioned only with the article title and carries no credit, so it cannot be established to show this seizure and no media entry is listed.
 ---
 
 Płock police detained a 37-year-old city resident. [@1,3,4,5,6] The detention took place

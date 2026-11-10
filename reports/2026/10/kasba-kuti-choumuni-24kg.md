@@ -77,11 +77,6 @@ open_questions:
   - No estimate of the cannabis's value was published.
   - No court date, plea or sentence was reported; the case had only been filed when the reports appeared.
   - Both reports carry the same Kasba police press release; no independent account or comment from the two men was found.
-  - The new source gives Friday and its 31 October 2026 publication date rather than writing 30 October 2026 explicitly; 30 October is treated as the event date from the existing reports.
-  - The new source does not give the two men's ages, the Sub-Inspector's name, or the Madina Engineering Workshop and fire-station roadside detail named in the existing report.
-  - The submitted page carries a photo whose content cannot be verified from its caption alone, so no media entry is listed.
-  - The submitted page carries one photo captioned only with the headline, so its content cannot be verified as this seizure and no media entry is listed.
-  - The submitted page carries one photo with no caption or credit, so its content cannot be verified as this seizure and no media entry is added.
 ---
 
 Police in Kasba, Brahmanbaria, arrested two men with 24 kg of cannabis and

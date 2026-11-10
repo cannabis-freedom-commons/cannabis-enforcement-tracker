@@ -47,7 +47,6 @@ open_questions:
   - No value for the seized cannabis was published.
   - No court appearance, custody decision or further outcome beyond arrest and case registration was reported.
   - Only one accessible outlet account of this event was found after searching in English; social posts found were reposts of the same outlet.
-  - The page lead photo caption repeats the headline and does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Kondhwa Police arrested three men in the Kondhwa area of Pune for allegedly

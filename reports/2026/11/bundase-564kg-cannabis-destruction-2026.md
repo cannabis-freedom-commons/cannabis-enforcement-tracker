@@ -126,7 +126,6 @@ open_questions:
   - 'Left out, as its quotation was not found in GhanaTalksRadio: The same destruction included 4,730,100 capsules and tablets of synthetic opioids, estimated at US$5,912,625, and 338,000 bottles of codeine-infused cough mixture, valued at US$4,225,000.'
   - No source gives a date for the destruction apart from the 5 November 2026 publication dates, including Yen.com.gh's.
   - MyJoyOnline gives no date for the destruction; 5 November 2026, its publication date, stands in for the event date.
-  - MyJoyOnline values the synthetic opioids at about US$5.9 million, a rounded figure consistent with the existing report's US$5,912,625 but not stated to the dollar.
   - MyJoyOnline does not say where the destroyed cannabis had been seized or how much the cannabis alone weighed beyond the 564.39 kg figure.
   - Citinewsroom gives no separate date for the destruction; its 5 November 2026 publication date is the only date the source provides.
   - The article states the codeine cough mixture and opioid values only as running text, so they are left out of this corroboration.
@@ -136,9 +135,7 @@ open_questions:
   - Modern Ghana's 564.39 kg figure is described as “cannabis and related products” without a separate cannabis street value or a location where the substances were seized.
   - The Modern Ghana page photo carries only the headline as its caption and no credit, so it is not established to show this destruction.
   - The page is dated 5 November 2026 and gives no other date for the destruction.
-  - The submitted page carries no article body beyond the headline and date; its supporting passage is the headline itself, so it corroborates only the overall value of the destruction.
   - The TV3 video item gives no location, no cannabis weight and no break-down of the substances destroyed.
-  - The article gives no separate date for the destruction, saying only that the exercise took place on “Thursday”; 5 November 2026 is used as the incident date, as in the existing report.
   - No arrests, charges or court outcomes connected with the destruction are reported.
   - The page photo is captioned only “The illicit drugs being distroyed” and carries no photographer or agency credit.
 ---

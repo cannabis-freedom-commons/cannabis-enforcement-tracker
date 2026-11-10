@@ -76,8 +76,6 @@ open_questions:
   - Khaleej News does not place the hashish seizure in the Al-Aridah sector or identify the five as Ethiopian; those details remain as already reported by Sraha.
   - The same Khaleej News article also reports a separate Al-Daer seizure of 80 kg of khat from two Ethiopians; khat is not cannabis and that case stays out of this report.
   - Sabq attributes Ethiopian nationality only to the two qat suspects in Al-Dair and does not name the nationality of the five hashish suspects or place that seizure in Al-Aridah; those details remain as reported from the other outlets.
-  - The Sabq page's only image is the outlet logo captioned with the headline, not a photograph of this seizure, so no media entry is included.
-  - The page's featured image carries no caption linking it to this seizure, so no media entry is included.
 media:
   - kind: photo
     url: https://www.sra7h.com/%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D9%8A%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-5-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D9%8A%D9%86-%D9%81%D9%8A-%D8%AC%D8%A7%D8%B2%D8%A7%D9%86-%D9%84/

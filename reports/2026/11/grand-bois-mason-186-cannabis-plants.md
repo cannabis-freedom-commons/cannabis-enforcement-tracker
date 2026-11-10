@@ -51,7 +51,6 @@ open_questions:
   - The 36 grams is the combined weight of the 186 uprooted plants, not dried cannabis, so it is not recorded as a separate dried-weight figure; the 0.9 grams of cannabis found in the paper is recorded with it as 0.0369 kg.
   - Only one accessible source for this event was found after searching in French and English.
   - No product form beyond cannabis was specified for the 0.9 grams found in the paper, so it is recorded as flower.
-  - The page image is a Grand-Bois police-station photo from a 2026 upload folder with no caption tying it to this search, so no media entry is listed.
 ---
 
 Officers of the Anti-Drug and Smuggling Unit (ADSU), the Mauritian police's drug

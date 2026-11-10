@@ -71,7 +71,6 @@ open_questions:
   - The specific section of the Narcotics Control Act was not stated.
   - No court outcome beyond the police case filing was reported.
   - The other images on the source page are thumbnails for unrelated reports and were not counted as media.
-  - The page image has an empty caption and alt text, so whether it shows this seizure could not be established and no media entry is added.
 ---
 
 Patnitala police arrested 48-year-old Rimu after finding 250 grams of dried

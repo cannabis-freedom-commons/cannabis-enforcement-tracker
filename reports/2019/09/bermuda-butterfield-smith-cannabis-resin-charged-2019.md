@@ -58,7 +58,6 @@ open_questions:
   - The $550,000 is the sum of the two street values stated in court and is the court's estimate, not a market price.
   - The 1 kg figure can be read as Smith's alleged cannabis or as a total for the two men; it is recorded as an approximate total here.
   - The reports give no plea, trial date or outcome after the ruling on the dismissal application.
-  - The page's lead image has no caption tying it to this hearing, and the Supreme Court judgment carries no photograph, so no media is listed.
 ---
 
 Two men were charged in Bermuda's Magistrates' Court on 2 September 2019 with

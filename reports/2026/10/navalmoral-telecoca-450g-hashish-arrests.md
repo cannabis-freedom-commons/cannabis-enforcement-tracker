@@ -100,7 +100,6 @@ open_questions:
   - About 13,000 euros in cash and jewellery were seized with the drugs, but no cannabis-only valuation was published, so no value is recorded.
   - The names and ages of the four detainees were not published.
   - No court outcome after the referral to the Navalmoral court was reported.
-  - The page's single image caption only repeats the headline and does not identify what is depicted, so no media entry is added.
 ---
 
 Guardia Civil officers arrested four people, two men and two women, in

@@ -85,7 +85,6 @@ open_questions:
   - Diario1 gives no exact date and calls the arrest a Friday capture, while the other accounts date it to 9 July 2026, a Thursday.
   - The 2.5 tonnes of marijuana and 1,200 arrests cited for January to July 2026 are national statistics, not this case, and are excluded.
   - All four accounts repeat the Security Ministry and minister's social-media version; no statement from the detainees was published and no ministry news page for the case was opened.
-  - La Prensa Gráfica spells the second detainee's name Katherine Johana Ramos, while the existing report follows the Katherine Yohana Ramos spelling of its other sources.
 ---
 
 El Salvador's National Civil Police arrested José Fernando Barillas Chinchilla

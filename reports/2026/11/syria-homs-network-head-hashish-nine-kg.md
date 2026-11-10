@@ -107,26 +107,17 @@ open_questions:
   - The article's headline gives 120 pills of Captagon while its text gives 120,000, the figure used here; the pills are left out of the cannabis figures in any case.
   - The 200,000 Captagon pills in the May operation are a separate substance and are not counted as a cannabis quantity.
   - Both accounts trace to the anti-narcotics directorate's own statement on Telegram; no independent reporting was found.
-  - The Turkish report describes the earlier 200,000-pill operation as having taken place today, while the existing report dates it to 5 May 2026; this account follows the record already in the tracker.
-  - The Turkish agency describes the seizing body as the narcotics branch of the Syrian Interior Ministry, while the existing report names the anti-narcotics directorate; both appear to describe the same agency.
   - The article gives no separate date for the arrest itself; 7 November 2026 is its publication/update date, as already recorded.
   - The article also reports national and Homs-branch October tallies that belong to the separate monthly-tally report, not this arrest.
-  - The page image has no caption or credit establishing that it shows this seizure, so no media entry is added.
   - This Arabic page presents the 200,000-pill Lebanon operation as taking place today alongside the arrest, while the tracker report dates that earlier operation to 5 May 2026; this account follows the existing record.
   - Malatya Haber carries the İLKHA wire text without editorial change, and the story traces to the same anti-narcotics directorate statement as the SANA and Arabic accounts, so it is not independent reporting.
-  - The page photo is captioned only with the story headline and is not confirmed to show this seizure, so no media entry is added.
   - İşçi Haber reproduces the Interior Ministry anti-narcotics statement in Turkish and credits no agency; it carries no independent reporting.
-  - The page states that the 200,000 Captagon pills came from Lebanon and were found in the same operation, while the tracker records that Lebanon shipment as a separate May 2026 step; the submitted page states no date for either.
   - Although served under an /english/ address, the opened page text is in Turkish.
-  - The page presents the earlier 200,000-pills-from-Lebanon operation as taking place today alongside this arrest, while the existing report dates that earlier step to 5 May 2026; this account follows the existing record.
-  - The opened page's lead image is captioned only with the story headline and is not confirmed to show this seizure, so no media entry is added.
   - The page gives no separate date for the Homs arrest itself; 7 November 2026 is its publication date, as already recorded.
   - Captagon, crystal and pharmaceutical pill amounts in the same article are separate non-cannabis drugs and are not counted as cannabis.
-  - The page's lead photo is credited to the anti-narcotics administration with a caption about the ambush arrest, but its content is not confirmed to show the seized drugs, so no media entry is added.
   - The roundup gives no separate date for the Homs arrest; 7 November 2026 is the publication date, as already recorded.
   - The item describes the earlier 200,000-pill smuggling attempt as a previous security operation without dating it, and the pills are Captagon, a separate substance not counted as cannabis.
   - The roundup attributes the operation to the Interior Ministry rather than naming the anti-narcotics directorate the earlier account cites; both appear to describe the same agency.
-  - The page's image is captioned only with the roundup title and is not confirmed to show this seizure, so no media entry is added.
 ---
 
 Syria's anti-narcotics directorate announced the arrest of a man identified by

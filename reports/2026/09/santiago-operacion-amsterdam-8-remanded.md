@@ -57,11 +57,9 @@ sources:
     language: es
 open_questions:
   - No cannabis weight was published in the opened sources, so no kilograms are recorded.
-  - The submitted page's image is an AI-generated referential illustration, not a photo of the event, so no media entry is included.
   - 'The total number formalized across successive hearings is unclear: 23 were named in the 20 August detention request, 38 detentions were first reported, and 8 plus 14 were decided on 2 September within 72 total accused, so only 72 detained is recorded.'
   - The 8 billion peso and 8,089 million peso figures describe alleged proceeds and income under review, not a seized-drug valuation, so no value is recorded.
   - No court outcome beyond pretrial measures and a 120-day investigation period was reported, and the prosecution said further formalizations were still possible.
-  - El País reports the 21 dispensaries as the network's span, while the existing report cites a case report describing 56 dispensaries operating nationally.
   - The El País dollar figures for monthly billing (813,343 dollars for 750 million pesos) imply an exchange rate different from that used for the 12 million peso figure.
   - The surnames of accused public figures are spelled differently in different reports (for example Besuain/Besoain/Atens), so El País's spellings are kept as published.
 media:

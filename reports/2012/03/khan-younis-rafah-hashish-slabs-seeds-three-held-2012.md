@@ -42,7 +42,6 @@ open_questions:
   - The quantity of cannabis seeds (بذور البانجو) is not stated.
   - No charges or court outcome were reported for any of the three detainees.
   - The Al-Ray page names one man in the house case but does not say whether he was detained; Safa describes him as referred for legal procedures, and the count of three follows the two explicit Rafah arrests plus the house suspect.
-  - The submitted page's only photo has an empty caption and credit, but the screenshot shows slabs of pressed hashish laid out, so it is linked to this seizure.
   - Safa's report covers the same two operations inside a wider crime roundup that also describes unrelated robbery cases, which are left out here.
 ---
 

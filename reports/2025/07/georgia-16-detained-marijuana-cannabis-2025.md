@@ -53,7 +53,6 @@ open_questions:
   - Full names were not published in the opened captures, only the second source's account of initials with birth years including previously convicted persons and foreign citizens.
   - No custody decisions or court outcome were reported; the investigation was still under way.
   - Methamphetamine, cocaine, buprenorphine, clephedrone, methadone and alpha-PVP are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
-  - The SOVA page photo caption refers only to detention and drugs in general and is not shown to depict this seizure, so no media entry is included.
 ---
 
 Officers of the police departments of Tbilisi, Adjara, Kvemo Kartli and Imereti

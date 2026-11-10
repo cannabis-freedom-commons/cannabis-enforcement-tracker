@@ -53,8 +53,6 @@ open_questions:
   - No charges, court appearances or custody decisions were reported.
   - The roundup's 15 ponchallantas and recovered stolen vehicle match the Matehuala detention recorded in the report 'Two men held as priority targets with marijuana in San Luis Potosí', so the 23-person total appears to include those two detentions and the figures overlap; they should not be added together.
   - Both articles carry the same Guardia Civil Estatal statement, and El Exprés adds the secretariat's closing paragraph; no separate official communiqué was opened.
-  - Plano Informativo's lead image shows a police dog demonstration unrelated to the operations, and El Exprés's lead image carries no caption tying it to the arrests, so no media is listed.
-  - El Heraldo de San Luis Potosí reports 45 doses of crystal, while Plano Informativo and El Exprés report 46; the existing report keeps 46.
   - El Heraldo de San Luis Potosí says two vehicles and a motorcycle were secured and that it was not specified whether they had been reported stolen, while Plano Informativo and El Exprés report one recovered stolen vehicle.
 ---
 

@@ -53,7 +53,6 @@ open_questions:
   - The sender in Russia, the couriers who left the Yukorichirchik stash and any accomplices were not identified.
   - No charge, detention order or court outcome was reported for either suspect.
   - The airport suspect is identified only by birth year, 1997, and place of residence.
-  - No photo or video of these two seizures could be attributed confidently from the opened pages, so no media entry is included.
   - The article also refers to an earlier, separate Tashkent case in which more than 20 kg of opium and hashish was seized from three suspects; that case is not part of this report.
 ---
 

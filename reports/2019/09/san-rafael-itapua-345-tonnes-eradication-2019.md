@@ -45,7 +45,6 @@ open_questions:
   - One Paraguayan account mentions 120 hectares of cleared woodland seen on the overflight while the destroyed crop area is given as 100 hectares; this report uses the 100-hectare crop figure.
   - No arrests, charges or court outcomes were reported in the opened sources.
   - The 300 million dollar valuation and the dose count are official estimates, not independently verified amounts.
-  - The government page carries an image file without a caption or credit confirming what it depicts, so no media entry is made.
   - 'Left out, as its quotation was not found in Última Hora: The operation destroyed about 100 hectares of marijuana crops, equivalent to about 345 tonnes, inside the San Rafael natural reserve in Itapua.'
   - Left out activity, as its quotation was not found in Última Hora.
   - Left out products, as its quotation was not found in Última Hora.

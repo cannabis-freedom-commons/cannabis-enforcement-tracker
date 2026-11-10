@@ -41,7 +41,6 @@ sources:
 open_questions:
   - The article gives no separate date for the detention, so 30 October 2026 is the article's publication date used as the incident date.
   - Only one source could be opened; the SSC statement for the same detention (Comunicado 2884, 28 October 2026) was found in search but could not be opened after two fetch attempts, so no corroborating citation is added.
-  - The page carries two images with empty captions and alt text, so it could not be verified that any shows this seizure and no media entry is listed.
   - The article also describes a separate 16 October detention in Santa Cruz Meyehualco involving five kilos of apparent marijuana and a woman identified as Eloísa Gálvez; that is a different event left out of this report, and the article itself says the two cases cannot be established as the same detainee.
 ---
 

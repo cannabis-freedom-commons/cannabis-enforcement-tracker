@@ -44,7 +44,6 @@ open_questions:
   - The 1.04 kilogrammes and 2,239 tablets of MDMA are a non-cannabis substance in a mixed event and are excluded from cannabis figures.
   - No sentence has been reported; the case continues on December 15, with the year unstated.
   - Only one source account of this case could be opened; no second outlet or agency statement was found.
-  - The page image captioned Gavel, gun reuses a July 2026 firearm-offence illustration and does not show this event, so no media entry is included.
   - 'Left out, as its quotation was not found in Barbados Today: Police had executed a warrant to search for controlled drugs at Victor''s home on December 19, 2024, after the landlord, who was shown the warrant, gave permission for forced entry when no one responded from inside the apartment.'
 ---
 

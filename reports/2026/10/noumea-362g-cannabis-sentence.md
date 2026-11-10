@@ -49,7 +49,6 @@ open_questions:
   - The incident date used is the 6 October 2026 sentencing date; the roadside arrest occurred on 4 October 2026.
   - The 0.362 kg figure is the sum of the separately stated 15 grams found in the car and 347 grams found at home.
   - The reported 160,000 CFP benefit over two months is admitted proceeds, not a police valuation of seized drugs, so no value is recorded.
-  - The page photo shows the Nouméa national police station building, not the seizure or arrest, so no media entry is included.
   - The report names no full name for the convicted man and does not state what happened to the passenger in the checked car.
 ---
 

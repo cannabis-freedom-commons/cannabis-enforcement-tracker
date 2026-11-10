@@ -50,7 +50,6 @@ open_questions:
   - The published weight of 500 g covers the loose cannabis; no weight was given for the 13 sachets, so they are not counted in kilograms.
   - No charges beyond custody for detention and trafficking, and no court outcome were reported.
   - Only one outlet account could be opened; no second source or agency statement was found.
-  - The page carries a photo captioned with the article headline and no credit, which does not establish that it shows this seizure, so no media entry is included.
   - Thiesinfo does not give the arrested man's nationality, which the Seneweb and Le Dakarois accounts report as Guinean.
   - The 13 sachets still carry no weight of their own; 500 g covers only the loose cannabis.
 ---

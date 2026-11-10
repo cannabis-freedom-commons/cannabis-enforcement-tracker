@@ -53,7 +53,6 @@ open_questions:
   - The reports do not say whether any cannabis was seized or taken into custody, only that importation and possession with intent to supply were charged.
   - Hewlett's age and any address beyond College Housing are not given, and no bail decision, plea or court date is reported.
   - SKNVibes, VON Radio, Buckie Got It, NevisPages and the police release all reproduce the same police and customs communiqué, so they are not independent accounts.
-  - The submitted page's only image has no caption or credit and carries the file name Hewlett1.jpg, so it is not established as showing the seizure, the airport or the accused in connection with this event.
   - 'Left out, as its quotation was not found in Buckie Got It: Buckie Got It reproduced the force''s release, which gives the airport as the scene of the offences and 4 December 2023 as the date the charges were laid.'
   - Left out activity, as no supporting quotation was given.
   - Left out agency types, as no supporting quotation was given.

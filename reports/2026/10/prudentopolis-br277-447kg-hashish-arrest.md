@@ -53,7 +53,6 @@ open_questions:
   - The year 2026 for Wednesday (28) is inferred from the 29 and 31 October 2026 publication dates; the articles give only Wednesday (28).
   - No charge, custody outcome or court result beyond arrest in flagrante was reported.
   - The name of the arrested woman was not published.
-  - Only the lead page image is listed as media; the other thumbnails on the submitted page could not be verified as showing this seizure.
 ---
 
 Federal revenue officers arrested a 19-year-old woman after finding 4.47 kg of

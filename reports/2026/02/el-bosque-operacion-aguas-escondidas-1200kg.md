@@ -67,7 +67,6 @@ open_questions:
   - The weight is given as "about 1,200 kilos" (a tonne and 200 kilos); no laboratory weight was published.
   - The 6,000 million peso valuation is the PDI's estimate for the haul and was described as worth about USD 7 million by Infobae; no separate cannabis grade or purity information was given.
   - The outcome of the detention hearing was reported only as an expectation ("everything points to" preventive detention), and no charges, formalisation result or court ruling has been published.
-  - Photos on the Infobae page are illustrative images from the outlet and are not credited as showing this seizure, so no media entry is added.
   - The national figure of 134 tonnes seized in 2025 covers all illicit substances, not cannabis, and is cited only as context from the acting security minister.
   - The reports do not name the detained man or give his age.
   - No figure was published for the number of vehicles, phones or firearms seized.

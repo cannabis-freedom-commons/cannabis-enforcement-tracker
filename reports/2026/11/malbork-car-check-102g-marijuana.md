@@ -50,7 +50,6 @@ open_questions:
   - The combined figure of more than 200 grams covers amphetamine and marijuana together; only the separately stated 102 grams of marijuana is recorded as cannabis.
   - No court outcome was reported; a court is yet to decide the man's fate.
   - It is not stated whether the 43-year-old driver was detained or formally charged, only that she faces up to two years and will answer before a court.
-  - The police page carries a photo without a caption or alt text establishing what it shows, and the second page credits its image only as KPP Malbork material, so no media entry is included.
 ---
 
 Detectives of the Malbork district police criminal department stopped a Skoda

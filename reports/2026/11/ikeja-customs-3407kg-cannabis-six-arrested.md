@@ -74,13 +74,8 @@ open_questions:
   - No names of the six suspects and no court outcome were reported; handover to the NDLEA was still pending at publication.
   - The Galaxy TV account names no suspects and gives no arrest total, so the reported six arrests still rest on the earlier Sun Nigeria and Leadership accounts.
   - The Galaxy TV account places the briefing at the unit's command in Lagos without naming Ikeja and without calling it a maiden briefing, so those details still rest on the earlier account.
-  - The submitted page carries a photo captioned with the seizure headline, but it is not added as distinct media because it likely shows the same Customs briefing display already pictured in the existing report.
-  - The Daily Trend page was published on 4 November 2026 for the same Tuesday briefing the existing report dates to 3 November 2026.
   - The Daily Trend account mentions suspects handed to the NDLEA but gives no number, so the six arrests still rest on the earlier Sun Nigeria and Leadership accounts.
-  - The page carries seizure photos without captions or alt text establishing what they show, so no media entry is added.
-  - The Daily Trend wording says narcotics and suspects have been handed over, while the existing report says they would be handed over, a tense difference without a new court outcome.
   - The Punch account names no suspects and gives no arrest total, so the six arrests still rest on the earlier Sun Nigeria and Leadership accounts.
-  - The Punch page carries a photo captioned as the seized contraband, but it is not added as distinct media because it likely shows the same Customs briefing display already pictured in the existing report.
 ---
 
 Nigeria Customs Service Federal Operations Unit Zone 'A' arrested six suspects

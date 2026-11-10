@@ -75,7 +75,6 @@ open_questions:
   - The article gives no total weight for the marijuana seized and no figure for the currency; the 14 pounds (6.35 kg) figure in the report comes from the KWQC account of Hinton's residence.
   - The Quad-City Times update of 16 July 2026 does not give a separate arrest date beyond 'Thursday'; the publication date is used.
   - The page body is encrypted behind a subscriber paywall in the archived capture, so the two newly arrested people's charges, bonds and any new seizure figures could not be read.
-  - The update's two arrests are already reflected in the existing report's total of six arrested and charged; no separate count of the arrests on 16 July is published in readable text.
   - The article says only that the warrant was issued 'last month', so July 2026 is given as its approximate date.
   - The article body is encrypted behind a subscriber paywall in the captured page, so the wanted woman's charge, bond and any court dates for the eight arrested people could not be read.
   - No date is given for the arrests beyond the report's publication date of 10 August 2026, which stands in for the incident date.

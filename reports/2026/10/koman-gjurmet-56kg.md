@@ -61,8 +61,6 @@ open_questions:
   - The weight is given only as more than 56.7 kilograms, not as an exact figure.
   - A fifth man, A. F., 38, was investigated at liberty and was not arrested.
   - Police identified the arrested men by initials only in the accounts opened here.
-  - Balkanweb says A. F. was released on bail and processed at large, while the existing report, citing Albeu and RTSH, says he was investigated at liberty.
-  - Balkanweb does not name which two of the arrested had their vehicles searched, while the existing report names K. K. and M. P.
   - The Balkanweb page has an Open Graph image with no caption in the article text, so it was not added as a photo of this seizure.
 ---
 

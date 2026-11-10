@@ -68,7 +68,6 @@ open_questions:
   - Telecinco credits its story as based on La Voz de Galicia's reporting, so it is a second-hand account rather than independent reporting.
   - The estimate of half a kilo in the headline is rounded; the weighed total of 441.5 grams is used.
   - No information was published on whether the suspension has been formalised in a written judgment or on any appeal.
-  - The published photograph on the submitted page is a file image, not a picture of the seized hashish or the parcel, so no media entry is included.
 ---
 
 A judge at a criminal court (juzgado de lo Penal) in Santiago de Compostela

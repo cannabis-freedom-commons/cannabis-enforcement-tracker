@@ -60,7 +60,6 @@ open_questions:
   - The outlets spell the adult detainee's name differently (Nely Roxana P., Nelly Roxana Paucar Quispe and Nely Rosa Paucar Quispe); the report uses the fullest spelling.
   - Headlines round the seizure to 35 kilos; the report uses La Última's precise figure of 35.190 kilograms.
   - No charges, trial outcome or sentences are reported; any transfer of the adult to prison or the minor to the Marcavalle youth centre remains a stated next step, not a recorded outcome.
-  - The submitted page's lead photograph and the other pages' images carry no caption tying them to this seizure, so no media entry is included.
 ---
 
 Cusco anti-drug police intervened and detained two alleged members of the

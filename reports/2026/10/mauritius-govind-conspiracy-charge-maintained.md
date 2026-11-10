@@ -61,7 +61,6 @@ open_questions:
   - The outcome of the 21 October hearing was not reported in the sources opened.
   - The Converting Rs 234 million value is the prosecution's estimate for the shipment, not a court finding.
   - The quoted reports differ on spelling of the magistrate's first name, given as Irfaan and Irfan Mittoo.
-  - The page images are portraits of the accused and do not show this ruling or the seizure, so no media entry is included.
 ---
 
 A Mauritian district magistrate refused on 6 October 2026 to strike out the

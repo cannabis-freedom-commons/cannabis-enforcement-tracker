@@ -46,7 +46,6 @@ open_questions:
   - The article does not say whether the man was detained or released before the hearing, nor how the licence extension lapsed.
   - No figure is given for the amount of cannabis involved, so no kg_seized is recorded.
   - Only one source, the local Paris Normandie account, was found for this event; no court or gendarmerie statement was accessed.
-  - The single image on the page is a generic illustration credited as a Paris Normandie photo d'illustration, not a picture of this event, so no media entry is added.
 ---
 
 Gendarmes stopped a businessman driving his Porsche at a roadside check in

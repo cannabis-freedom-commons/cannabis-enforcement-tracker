@@ -49,7 +49,6 @@ open_questions:
   - Only one accessible source for this event was found after searching in Spanish and English, and the Fiscalía statement itself could not be opened directly.
   - The wider roundup mentioned in the same article, including ten binding-over orders in Benito Juárez and six other accused in possession and supply cases involving marijuana, cocaine and methamphetamine, concerns separate hearings left out here.
   - Other Cuban cases mentioned in the same article, including a May Las Palapas case, April cases in Mexico City and Cancún, a January arrest and a pattern described since 2023, are different events left out here.
-  - A second embedded image carries only the caption Fiscalía General del Estado en Quintana Roo and does not establish that it shows this case, so no media entry is included for it, and unrelated related-story thumbnails are omitted.
 ---
 
 Four Cuban citizens are being prosecuted by the Mexican courts after the

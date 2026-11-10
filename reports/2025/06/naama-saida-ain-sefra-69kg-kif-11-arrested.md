@@ -57,7 +57,6 @@ open_questions:
   - Ennahar reports nearly 70 kg while the DGSN communiqué gives 69.450 kg; the precise official figure is used.
   - The seized cash was reported only as 404 million centimes, so no separate cash figure in dinars is recorded.
   - No names, charges or court outcome beyond referral to the Sidi M'hamed specialized penal-pole prosecutor were reported.
-  - The page image is captioned only with the article title and is not established to show this seizure, so no media entry is included.
 ---
 
 Algeria's Central Service for Combating Organized Crime dismantled a

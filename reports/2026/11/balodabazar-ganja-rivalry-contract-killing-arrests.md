@@ -83,7 +83,6 @@ open_questions:
   - The submitted Dainik Bhaskar page is paywalled after its opening paragraphs; the fuller account comes from Haribhoomi's two reports.
   - 'Left out, as its quotation was not found in Haribhoomi: Police said the killing was planned over dominance in the illegal ganja trade and an old feud, and that a man paid for the killing to avenge his son''s murder.'
   - Left out deaths, as its quotation was not found in Haribhoomi.
-  - The submitted page lists the five arrested men by name and gives the dead man's age as 20, while it does not describe the case against the two detained minors or their age.
   - No quantity of ganja is given, and the page does not say whether the dead man's trade was sourcing, transporting or selling.
   - The page repeats police statements and does not give the status of the earlier killing of the accused's son Shiva.
 ---

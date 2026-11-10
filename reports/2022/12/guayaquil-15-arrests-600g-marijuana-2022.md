@@ -49,7 +49,6 @@ open_questions:
   - Cocaine, heroin and ammunition quantities are reported only to explain the same operation and are excluded from the cannabis figures; no combined haul weight is attributed to marijuana.
   - No cannabis valuation, charges, custody ruling or court outcome were published.
   - Only one account of this operation could be opened; searches in Spanish did not find a separate statement or another outlet reporting it.
-  - The article's photos show the cocaine container and its packages, not the marijuana operation, so no media entry is included.
 ---
 
 Ecuador's National Police reported the results of its anti-drug operations in

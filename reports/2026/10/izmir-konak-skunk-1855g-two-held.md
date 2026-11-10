@@ -111,13 +111,8 @@ open_questions:
   - The photograph published with the report shows the seized drugs beneath the İzmir narcotics branch sign, but not the address or the suspects.
   - The only photo on the Son Kale İzmir page carries no caption or credit beyond the headline, so it could not be confirmed as a distinct photo of the raid.
   - Habererk credits the story to DHA and repeats the agency's wording, so it is not an independent account of the raid.
-  - The Habererk page's only photograph is the DHA image of the seized drugs already linked from Hürriyet, captioned only with the headline, so it was not added as a separate media entry.
-  - The page's only photograph carries just the headline as its caption and no credit; it shows the same DHA scene already linked from Hürriyet, so it was not added as a separate media entry.
   - The Habertürk page says agency İzmir items appear without editorial intervention, so it is not an independent account of the raid.
-  - Whether the Habertürk lead image is a distinct photo of this seizure cannot be confirmed from its headline-only caption, so no media entry was added.
   - The Haberler page credits Demirören Haber Ajansı and repeats the agency wording, so it is not an independent account.
-  - The page's single photo carries only the headline as caption and appears to show the same agency handout already linked in the existing report, so no separate media entry was added.
-  - The page's only event image carries the headline as its caption with no separate credit beyond the DHA sourcing note, and appears to show the same DHA handout already linked in the existing report, so no separate media entry was added.
 ---
 
 Police in İzmir searched an address in Konak, one of the city's central

@@ -90,17 +90,9 @@ sources:
     date: 2026-11-04
     language: fr
 open_questions:
-  - The lead image on the submitted page credited to Actu Tarn archives is an archive photo and is not listed as media because it is not shown to depict this seizure.
   - No outcome is reported for the 21-year-old arrestee, and the 19-year-old's immediate-appearance hearing was scheduled for 2 November 2026 after publication, so no verdict is reported.
   - The cannabis value of nearly 11,000 euros is the authorities' estimate as reported, not an independently verified valuation.
-  - This account reports more than 3 kg of cannabis resin while the existing report records 3.1 kg from earlier coverage.
   - The text gives a weight ("3 kg") but the figures have no kg_seized; check whether it belongs there.
-  - The submitted page describes the 19-year-old as held in provisional detention awaiting immediate appearance and does not report the 2 November 2026 two-year sentence recorded in the existing report.
-  - The excerpt says 'plusieurs kilos' in the text with '3,1 kg' only in the headline, while the existing report records 3.1 kg of cannabis resin from fuller sourcing.
-  - The excerpt says one of the two arrestees was placed in provisional detention, while the existing report records both placed in custody from fuller sourcing.
-  - The excerpt does not report the flat and cellar on rue Jean-Saulière, the cash and weapons details, or the 2 November 2026 sentence recorded in the existing report.
-  - This account rounds the seizure to three kilos while the existing report records 3.1 kg; the existing figure is retained.
-  - This account reports 3,500 euros while the existing report records 3,530 euros in cash; the existing figure is retained.
   - The remainder of the trial account is behind a paywall, so additional hearing detail beyond the accessible opening paragraphs could not be checked.
   - 'No usable event photo could be listed: the page''s video placeholder image is not shown to depict the seizure and the other listed image shows an unrelated monkey story.'
 ---

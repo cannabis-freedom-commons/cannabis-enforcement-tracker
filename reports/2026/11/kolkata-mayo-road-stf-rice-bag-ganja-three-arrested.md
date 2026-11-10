@@ -52,7 +52,6 @@ open_questions:
   - The report does not say which police station registered a case, what charges were laid, or whether the three were produced in court.
   - 'The two accounts describe the arrests at different points: Taaza TV places them as the men got off the bus, while Ei Samay reports the bus reaching Kolkata with the three aboard.'
   - The YouTube and News18 Bengali accounts of the same operation could not be opened, so their details are not used.
-  - The Ei Samay photo is an iStock picture of rice sacks, not a photo of this seizure, so no media entry is included.
 ---
 
 Kolkata Police's Special Task Force (STF) arrested three young men who were

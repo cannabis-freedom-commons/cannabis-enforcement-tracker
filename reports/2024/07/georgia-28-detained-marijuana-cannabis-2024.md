@@ -52,7 +52,6 @@ open_questions:
   - Cocaine, heroin, Alpha-PVP, methadone, MDMA, mephedrone, lysergide, ketamine, buprenorphine, Subutex, ecstasy and methamphetamine are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - The English edition says the 16 included eight foreigners while the Russian edition says the 12 included four foreigners, a discrepancy in the foreign-national breakdown that the report does not resolve.
   - Only Civil Georgia's Russian and English editions of the same account were opened; the linked Interior Ministry statement could not be reopened and no second independent outlet was found.
-  - The page image is credited to the Interior Ministry and captioned only around detention for drug crimes, and is not established to show this seizure, so no media entry is included.
 ---
 
 Georgia's Interior Ministry said 28 people were detained on drug charges after

@@ -41,7 +41,6 @@ sources:
     language: fr
 open_questions:
   - Only one source could be found for this operation.
-  - The article's photograph is a generic close-up of flowering plants that does not show the uprooting, so no media is listed.
   - No grower was found and no arrest, charge or court outcome is reported.
   - The three forest sites could not be geolocated, so the map marks the country.
 ---

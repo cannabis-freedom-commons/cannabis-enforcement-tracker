@@ -55,7 +55,6 @@ open_questions:
   - No figure for the value of the 36 kg was published.
   - The sources do not say whether the recipient, Chamsoudine Allaoui, was arrested, charged or tried.
   - Whether the suspected consignee was the person later arrested is not established; the reports mention no arrest.
-  - Only the submitted page and a reprint of the same text could be opened.
   - The photo published with the reprint carries no caption identifying it as this seizure, so it is recorded as a media link only.
 ---
 

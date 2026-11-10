@@ -45,7 +45,6 @@ open_questions:
   - The report is dated to the article's publication date of June 2, 2026, as no separate date for the sentencing hearing was given; the hearing continues on June 10.
   - No sentence had been imposed at the time of reporting; the prosecution's submissions and the court's decision are not yet reported.
   - The article writes the proposed fine as $30 000 without stating the currency, so no fine figure is recorded.
-  - The page image captioned Court is a generic court illustration that does not show this event, so no media entry is included.
 ---
 
 A defence attorney urged the High Court to impose a $30 000 fine rather than a

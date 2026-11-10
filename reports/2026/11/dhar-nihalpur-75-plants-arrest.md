@@ -47,7 +47,6 @@ open_questions:
   - The accused alias is spelled Raju in the tip passage and Radhu in the arrest passage; both printed forms are noted.
   - No field area, plant weight or court outcome beyond NDPS case registration was published.
   - Only one accessible source was found despite searches in Hindi and English.
-  - The page embeds a video and an og:image thumbnail with no caption or credit establishing that either shows this seizure, so no media entry is made.
 ---
 
 Dasai police, acting under the anti-narcotics drive Operation Prahar, raided a

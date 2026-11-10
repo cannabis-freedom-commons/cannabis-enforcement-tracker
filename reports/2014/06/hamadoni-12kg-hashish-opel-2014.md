@@ -42,7 +42,6 @@ open_questions:
   - The article gives no separate date for the vehicle search, which is described as following the arrest on 4 June 2014.
   - The source does not say whether Ismoilkhon Ibronov, the Opel Astra's owner, was detained or charged, and no charges, custody ruling or court outcome were reported.
   - The hashish is given only as more than 12 kg; no precise weight or drug value was published.
-  - The page's only image is the outlet's logo, not a picture of this seizure, so no media entry is included.
   - The 4 kg of raw opium found on the detainee is excluded from the cannabis figure, and the article's combined headline "over 14 kg" is not attributed to hashish alone.
   - The article places the district in southern Tajikistan and does not name the Khatlon region or a specific town within Hamadoni district.
 ---

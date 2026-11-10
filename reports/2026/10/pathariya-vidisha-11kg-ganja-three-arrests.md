@@ -59,7 +59,6 @@ sources:
     date: 2026-10-10
     language: hi
 open_questions:
-  - The submitted page stops at a premium login prompt after the headline; the full account was read in the same outlet's AMP version of the article.
   - Only Dainik Bhaskar reported the case; no police statement or second outlet account was found.
   - The article gives the crime number 152/2026 but not the NDPS Act sections the case was registered under.
   - No source says where the ganja was sourced or where it was being taken.

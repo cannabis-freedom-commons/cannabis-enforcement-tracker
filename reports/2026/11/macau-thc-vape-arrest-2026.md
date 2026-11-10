@@ -131,13 +131,9 @@ open_questions:
   - The earlier reports gave no arrest date; this account dates the interception to 30 October 2026, two days before he was taken to the Public Prosecutions Office.
   - The Hong Kong Commercial Daily describes the three suspected offences as drug use, smuggling and trafficking of drug-laced e-cigarettes, while the report's other sources describe them as illegal consumption, possession and trafficking.
   - The 881903 report carries essentially the same text as the Hong Kong Commercial Daily account and credits the Macau Government Information Bureau's Facebook page, so the two new accounts are not independent.
-  - The submitted account values the six THC e-cigarettes at about MOP8,400, while the existing report keeps about MOP8,000 from the Hong Kong accounts.
-  - The Yahoo (am730) page carries one image captioned as the arrest of the 35-year-old Hong Kong man, without a credit, which does not by itself establish that it shows this arrest distinctly from the escort photos already in the report, so no media entry is added.
   - The article gives no separate date for the first interrogation and detention order; 4 November 2026 is its publication date and is used as the incident date.
-  - The submitted page image is captioned only as photo without a credit and is not established to show this seizure, so no media entry is included.
   - The article also summarises Macau's amended tobacco-control e-cigarette possession and import rules taking effect in 2027 and 2028, a law change left out of this enforcement record.
   - The article gives no separate date for the interception or detention order; 4 November 2026 is its publication date.
-  - The page's only recoverable image is the newspaper's front-page thumbnail, not a photo of this seizure, so no media entry is added.
 ---
 
 Macau's Judiciary Police arrested a 35-year-old Hong Kong man who works as an

@@ -47,7 +47,6 @@ open_questions:
   - The 100-pound and 200-pound fines were for driving without a licence and driving under the influence, not for cannabis, so no fine is recorded in figures.
   - The cannabis component accounts for three months of the seven-month term, while the total term is recorded as the sentence.
   - Only one accessible source for this event was found; searches in Arabic and English returned no second account that could be opened.
-  - The page image repeats the headline and does not establish that it shows this arrest, seizure or court, so no media entry is included.
   - The defendant's age and the exact date of the Fifth Settlement stop were not published, and the court is identified only as the juvenile court at Amiriya.
 ---
 

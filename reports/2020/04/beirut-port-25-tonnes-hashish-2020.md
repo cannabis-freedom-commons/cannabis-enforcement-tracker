@@ -45,7 +45,6 @@ open_questions:
   - The report is dated at the ISF announcement on 10 April 2020; the trucks were stopped on 16 March and the containers inspected on 24 March.
   - The African destination country was not named, and no arrests were reported, with the investigation continuing under judicial supervision.
   - Both outlets trace their accounts to the ISF statement rather than independent verification of the seizure.
-  - The page photo shows Bekaa hashish farmers and does not depict this seizure, so no media entry was added.
 ---
 
 Lebanon's Internal Security Forces stopped eight trucks heading to the Beirut port that were carrying thousands of plastic bags of soil. [@1,2] After a three-month follow-up by the Central Anti-Narcotics Office of the Judicial Police Unit, inspectors opened the containers at the port on 24 March and found huge quantities of hashish, about 25 tonnes, professionally hidden inside the soil bags. [@1,2] The force called it the largest quantity ever seized in Lebanon's history, ready for trade, sale and smuggling abroad to an African country it did not name. [@1,2]

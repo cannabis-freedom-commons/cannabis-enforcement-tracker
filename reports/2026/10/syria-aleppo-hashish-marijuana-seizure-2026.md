@@ -75,8 +75,6 @@ open_questions:
   - The department reports arrests but does not give their number or identify the detainees.
   - Ajel describes the operations as carried out with Road Security, while the department's post specifies that one operation involved that branch; it is unclear whether Road Security participated in others.
   - The sources do not specify operation sites within Aleppo Governorate or what happened after referral for investigation.
-  - The SANA French page was published on 1 November 2026, a day after the 31 October 2026 sources cited in the existing report; it gives no separate date for the operations.
-  - The Almjhar page displays an image captioned only with the article title, whose content cannot be confirmed to show this seizure from the caption alone, so no media entry is included.
 ---
 
 The Anti-Narcotics Department said its branch in Aleppo Governorate carried out

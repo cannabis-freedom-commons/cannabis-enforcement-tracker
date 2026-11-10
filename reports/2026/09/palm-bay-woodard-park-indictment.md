@@ -57,7 +57,6 @@ open_questions:
   - The victim was named Isaac Cohen, 22, by ClickOrlando and Marino Cohen by Florida Today; the State Attorney's Office did not name him, so the report gives only his age.
   - The reports do not say what was taken in the robbery or how much marijuana was involved.
   - No plea or court outcome has been reported; the indictment is the latest step in the case.
-  - The submitted page's only image is uncaptioned and was not identified as showing the park, the shooting or the court, so no media is listed.
   - The West Orlando News account was published on 31 October 2026, more than five weeks after the indictment, and closely follows the State Attorney's release.
 ---
 

@@ -81,17 +81,11 @@ open_questions:
   - The statement says the case is at the preliminary investigation stage; no charge wording beyond possession for sale, no trial date and no court outcome were reported.
   - No figure was published for the second flat, whose keys the man also carried; only one flat's contents were reported.
   - Torino Oggi and Il Giornale Popolare reproduce the same police statement, combining the key figures differently, so they are not independent reporting of the seizure.
-  - The submitted page's illustration is a gallery screenshot whose content cannot be confirmed, so no media entry is taken from it; the police statement's "sequestro" image and Il Giornale Popolare's handout photo carry no captions describing their content.
   - Neither the statement nor the accounts name the man; only his age and nationality were given.
   - 'Left out, as its quotation was not found in Questura di Torino, Polizia di Stato: Officers of the Barriera Milano police station, on territorial patrol, saw him arrive on an electric scooter heading for Via Fossata and stopped him as he was handing drugs to other people.'
-  - The Italpress photo is labelled as a repertory police photo, so no event-specific media entry is taken from it.
   - The InfoOggi capsule gives no value estimate for the hashish, and the 56 g of cocaine is not counted in cannabis figures.
   - The outlet repeats the police account without a separate date or time for the stop; 8 November 2026 is its publication date.
   - The rough figure of almost 7 kg combines hashish and cocaine; only the separately stated hashish weights are used as the cannabis figure.
-  - The page publishes an image at droga-torino-polizia.png with no caption or credit confirming it shows this seizure, so no media entry is added.
-  - The article gives no separate date for the stop; 8 November 2026 is its publication date and is used as the incident date, matching the existing report.
-  - The article says the arrest took place in recent days without giving a separate date for the stop; 8 November 2026 is its publication date and is used as the incident date, matching the existing report.
-  - No media entry is added because it cannot be confirmed whether the page illustration is distinct from the police handout already cited in the existing report.
 ---
 
 State police in Turin arrested a 25-year-old Moroccan man on suspicion of

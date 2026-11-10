@@ -46,7 +46,6 @@ sources:
     date: 2020-09-10
 open_questions:
   - The opened sources give no weight for the marijuana recovered, described only as a Mason jar and two sandwich-style bags.
-  - Body-camera footage described in the opened reporting could not be recovered at a verifiable address, so no media entry was added.
 ---
 
 Bartlesville police killed 72-year-old Geraldine Townsend during a marijuana raid on her son's home at about 9:30 p.m. on 17 January 2018. [@1,2] Officers announced a search warrant and entered seconds later; her son Michael Livingston, the target of the raid as a suspected marijuana distributor, surrendered immediately. [@1,2] Townsend, who had been asleep, woke up and fired a pellet gun, hitting two officers, and an officer shot back, wounding her in the chest; she died at the hospital. [@1,2]

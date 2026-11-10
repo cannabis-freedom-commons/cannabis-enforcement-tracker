@@ -49,7 +49,6 @@ open_questions:
   - No arrests, injuries, suspects or vehicle seizures beyond the two stopped vehicles were reported.
   - The operation's exact calendar date was not stated; 8 January 2019 is used as the Tuesday evening before the 9 January report.
   - No court outcome or later disposition of the drugs was reported.
-  - The only photo on the submitted page is a September 2017 Ketama file photo, not this seizure, so no media entry is included.
   - Only the military account via MAP was available; no independent or agency-primary statement beyond that account could be opened.
 ---
 

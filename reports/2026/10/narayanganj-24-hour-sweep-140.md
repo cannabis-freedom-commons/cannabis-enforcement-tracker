@@ -71,7 +71,6 @@ open_questions:
   - 'Left out, as its quotation was not found in Narayanganj Post: The arrests were made on Thursday 29 October 2026 by the district''s seven police stations and its detective branch (DB).'
   - 'Left out, as its quotation was not found in Narayanganj Post: Narayanganj district police superintendent Habibur Rahman said such special drives would continue to keep law and order normal and control drugs.'
   - 'Left out, as its quotation was not found in Kalbela: In all, police reported seizing 295 yaba tablets, 61 bottles of Skaf, 45 bottles of Fyradil, 63 cans of beer and 100 grams (0.1 kg) of cannabis.'
-  - The Narayanganj Times page image is captioned only with the same headline as a photo card with no credit establishing it shows this sweep, so no media entry is included.
 media:
   - kind: photo
     url: https://www.kalbela.com/country-news/344364

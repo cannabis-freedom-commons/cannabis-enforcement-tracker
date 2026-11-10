@@ -56,8 +56,6 @@ sources:
     date: 2022-04-22
 open_questions:
   - Isle of Man Today said Bate was due to be sentenced on 27 May 2022, while the BBC's 22 July account says she was sentenced on Friday; the sources do not explain the delay.
-  - The BBC does not identify the neighbouring property where cannabis was found, so it cannot be confirmed whether it was Cairo Benjamin's home, which the existing report says police searched on 26 May 2021.
-  - The BBC image is captioned only as showing Bate's sentencing at Douglas Courthouse; it is not established as showing the hearing or the cannabis seizure, so no media entry is listed.
   - The BBC gives no weight for the cannabis found during the search, so the report's 1.3 grams figure rests on the Isle of Man Today account alone.
   - The BBC names the addressee on the parcel as Frankie Harris but does not say who that was or their relationship to Bate.
   - The report does not record the street value of the cocaine; the £27,585 figure is the only valuation given by the BBC.

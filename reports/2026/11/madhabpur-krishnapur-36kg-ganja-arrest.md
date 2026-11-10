@@ -66,13 +66,9 @@ open_questions:
   - No charge sheet, plea or court outcome was reported beyond the filing of a case under the Narcotics Control Act.
   - The escaped accomplice was not named and no arrest of him was reported.
   - The two accounts transliterate the father's name differently (Mahdar Ali and Mahor Ali), and differ on whether the case had already been filed when the man was handed over.
-  - The submitted page's images carry no caption or credit, so none is listed as media.
   - Coordinates are for Madhabpur Upazila rather than the exact pond bank in Krishnapur village.
   - A third outlet headline matching this event could not be opened because the page refused access, so it is not cited.
-  - The Sylhet Voice account dates the raid to around 2 a.m. on Saturday night, which falls in the early hours of Sunday 8 November; the existing report gives 2:05 a.m. on 8 November, and the exact minutes differ between accounts.
   - The Sylhet Voice account says a case under the Narcotics Control Act had been filed and the man and ganja already handed to Madhabpur police station, while at least one account already cited says the filing was still under way; the case-document stage differs between accounts.
-  - The submitted page's image is captioned only with the headline and carries no credit confirming it shows the seized ganja, so no media entry is added.
-  - This source calls the unit RAB-9 while the existing report calls it SRB-9.
 ---
 
 The operation took place at 2:05 a.m. on Sunday 8 November at a pond bank in

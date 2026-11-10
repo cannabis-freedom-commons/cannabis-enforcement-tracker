@@ -45,7 +45,6 @@ open_questions:
   - New Zealand Geographic reports 92 kg of dried cannabis against the police figure of almost 80 kg; the report uses the police figure.
   - No regional breakdown of the plants destroyed or the arrests was published in the opened sources.
   - What happened to the 572 people arrested, including any charges or convictions, was not reported in the opened sources.
-  - The police release carries an aerial photograph of a sprayed Northland plot, but its direct address could not be recovered, so no media entry was added.
 sources:
   - title: National Cannabis and Crime Operation nets major cannabis haul
     url: https://www.police.govt.nz/news/release/national-cannabis-and-crime-operation-nets-major-cannabis-haul?ref=/news&search=&cmin=&cmax=

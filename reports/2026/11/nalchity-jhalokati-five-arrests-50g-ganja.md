@@ -44,7 +44,6 @@ open_questions:
   - The article does not say how the 50 grams of ganja was packed or tested, and gives no value estimate.
   - No charge sheet, court appearance or trial date for the five arrested people was reported.
   - No village is named for the tea-shop arrest beyond Tak Bazar, so coordinates are for Nalchity rather than a specific spot.
-  - The page pictures carry no credit line or caption describing the scene, so no media entry is added.
   - The service's quotation check did not match my Bangla quotations to the captured article text, so several facts and the agency, charge and case-stage details could not be confirmed and were left out of the draft.
   - 'Left out, as its quotation was not found in Dhaka Mail: On Godanda bridge police held one man in one of the drives.'
   - 'Left out, as its quotation was not found in Dhaka Mail: Officers recovered yaba tablets in that drive.'

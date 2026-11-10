@@ -46,7 +46,6 @@ open_questions:
   - No source says whether the passenger was detained or charged; customs reports only that it took the necessary legal measures and filed seizure report No. 9 of 2026.
   - No laboratory confirmation that the material was marijuana was reported, and the passenger's identity and nationality are not given.
   - No value or street price was published for the 55.5 grams.
-  - The submitted page's picture is an uncaptioned, uncredited close-up of dried plant material and the Business 24 picture is captioned only 'Hurghada International Airport customs'; neither could be confirmed to show this seizure, so no media entry was made.
   - Both accounts restate the same customs statement, so the details have not been independently confirmed.
 ---
 

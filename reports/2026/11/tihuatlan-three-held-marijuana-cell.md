@@ -43,7 +43,6 @@ open_questions:
   - The 28 arrests and about 250 doses are statewide totals that mix health crimes, firearms possession and vehicle theft, so no cannabis-only arrest figure is recorded.
   - The Cristal cannabis doses and the other marijuana seizures appear in the same bulletin under other charges and are left out of this report's figures.
   - Only one account of these operations could be found, and no separate SSP statement was opened.
-  - The page images carry no captions or credits linking them to this event, so no media is listed.
   - Comunicado 1785 carries a Friday 6 November 2026 Xalapa dateline and describes operations on the Wednesday and Thursday before it, giving no separate date for the Tihuatlán intervention.
   - No weight was given for the two bags of marijuana-like herb, so no cannabis quantity is recorded.
 ---

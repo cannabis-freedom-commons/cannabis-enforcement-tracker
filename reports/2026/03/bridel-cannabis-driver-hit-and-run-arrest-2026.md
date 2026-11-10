@@ -64,8 +64,6 @@ open_questions:
   - The reports give no charges by name beyond the description of the conduct, and no date for a trial or court outcome.
   - The suspect has been charged and placed under judicial supervision; the outcome of the proceedings is not known.
   - Le Quotidien gives the night of 10 to 11 March rather than the night of 11 March for the crash; the prosecutor's communiqué and the other outlets are followed.
-  - The Virgule page photo is captioned only that the man was deprived of liberty and presented to an investigating judge and is credited to Anouk Antony; it is not confirmed to show the crash site, the driver or the arrest, so no media entry is added.
-  - The RTL Infos and Tageblatt images are labelled illustration pictures ("Photo d'illustration"; Editpress/Julien Garroy), and the justice ministry page carries a generic courthouse photo, so no media entry is added.
   - Bridel is in the commune of Kopstal in the canton of Capellen; the coordinates given are for Bridel itself.
   - 'Left out, as its quotation was not found in La Justice – Luxembourg: The investigating judge placed him under strict judicial supervision with several binding obligations and prohibitions while the proceedings continue.'
   - Left out case stage, as its quotation was not found in La Justice – Luxembourg.

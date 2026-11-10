@@ -49,7 +49,6 @@ open_questions:
   - No charge, case number, court appearance or value was reported for the shop raid.
   - The 256 litres of liquor found at Satbigahi Gachhi forest is a separate case and is not counted in this report's figures.
   - Only this Live Hindustan page could be opened; no agency statement or second outlet account was found.
-  - The hero image is dated 2025 and captioned only with the story headline, so it is linked as a media entry rather than shown as a cover of this raid.
   - The report is an automatically published print story, which gives it the same short, non-byline bureau format as other district crime briefs.
   - The page gives no date for the raid beyond saying it happened on Friday night; 7 November 2026 is its publication date.
 ---

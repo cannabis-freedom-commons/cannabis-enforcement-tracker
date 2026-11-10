@@ -85,9 +85,6 @@ open_questions:
   - No charges, custody ruling or court outcome beyond presentation to the duty investigating court were reported.
   - Only one accessible source for this event was found after searching in Spanish.
   - No cannabis-only valuation or laboratory analysis was published.
-  - The new account gives the detainees' ages as 46, 50 and 44, while the existing report describes them as aged 43 to 50.
-  - The ABC page carries an image captioned only '(ABC)' which does not establish that it shows this operation, so no media entry is included.
-  - The submitted page carries two images without captions or credits establishing that they show this operation, so no media entry is added.
 ---
 
 National Police detained three people in Orihuela, a woman and two men aged 43

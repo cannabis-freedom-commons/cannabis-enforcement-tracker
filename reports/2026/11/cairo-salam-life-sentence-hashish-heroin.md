@@ -57,7 +57,6 @@ open_questions:
   - No separate weight was published for the hashish; it is described only as a large quantity, so no cannabis weight is recorded and the half-kilo figure for heroin is not counted as cannabis.
   - The sources give the sentence date of Sunday 1 November 2026 but no separate date for the earlier arrest and seizure.
   - The defendant is described only as an unemployed man with a criminal record and is not named.
-  - The only page image is labeled as an archival illustration, not a photo of this event, so no media entry is listed.
 ---
 
 Cairo Criminal Court on Sunday sentenced a defendant to life imprisonment for

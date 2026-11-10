@@ -49,7 +49,6 @@ open_questions:
   - Yonhap says an X-ray check at arrival immigration flagged her, while an earlier Economic Daily account says a customs inspection.
   - The accounts differ on the exact date the detention warrant was requested and refused; The Fact gives 30 September 2019, while the indictment reports give no request date.
   - The woman is identified only by her surname, age and parentage; no private individual's full name or address is recorded in this report.
-  - The JTBC page picture is captioned only as a video player and is not established to show this case, so no media is linked.
 ---
 
 Incheon District Prosecutors' Office indicted an 18-year-old woman without

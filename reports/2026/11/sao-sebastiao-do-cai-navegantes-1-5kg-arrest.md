@@ -53,7 +53,6 @@ open_questions:
   - No court decision, charge sheet or custody hearing was reported beyond the flagrante arrest record.
   - Only one source, a local outlet in Vale do Caí, reported the arrest; no Brigada Militar statement was found.
   - The article gives no street, address or further description of the spot in the Navegantes neighbourhood.
-  - The page's only photo carries no caption or credit and is not confirmed to show this seizure, so no media entry is added.
   - The cocaine is a separate substance; its 6 grams are not included in the cannabis figure.
 ---
 

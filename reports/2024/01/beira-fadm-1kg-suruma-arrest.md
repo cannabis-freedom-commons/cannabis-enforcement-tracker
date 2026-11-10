@@ -71,8 +71,6 @@ open_questions:
   - Only initials and ages were published, so full names were not reported.
   - No charges, custody ruling or court outcome were reported beyond awaiting legal steps toward trial.
   - The 5,000 meticais is reported as the amount spent to acquire the drug, not an official street valuation, so no value is recorded.
-  - The Rádio Moçambique page includes an image file named Membros-da-FADM.jpg with empty alt text and no caption, plus advertising banners, which does not establish what it shows, so no media entry is included.
-  - O País reports five kilograms of cannabis sativa allegedly bought for 5,000 meticais, while the existing report records one kilogram from Rádio Moçambique and other outlets, so no weight change is proposed.
 ---
 
 SERNIC officers in Sofala detained two members of Mozambique's Armed Defence

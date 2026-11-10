@@ -55,7 +55,6 @@ open_questions:
   - No separate cannabis-only weight for the hashish bars and marijuana stocks was published.
   - The suspect's full name was not published, only his age of 34 and German origin.
   - No charges or court outcome beyond validation of the arrest at Piazzale Clodio were reported.
-  - The La Milano page photo is captioned only with the article title and is not established to show this seizure, and the RomaToday image is labelled as a repertory image, so no media entry is included.
 ---
 
 A neighbour dispute over renovation noise in Tor Tre Teste turned into a State

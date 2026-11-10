@@ -49,7 +49,6 @@ sources:
 open_questions:
   - Haber7 reports 84 cannabis roots while Yeni Asya reports 75 roots for the same greenhouse seizure, so no plant figure is included.
   - The articles give only the publication date of 4 September 2015 and no separate date for the raid, so the publication date is used as the incident date.
-  - The submitted page carries only a placeholder image (no_image.jpg) that does not show the event, so no media entry is added.
   - Full names, charge details and any later court outcome beyond remand were not reported.
 ---
 

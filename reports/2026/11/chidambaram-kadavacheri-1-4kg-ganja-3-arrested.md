@@ -51,10 +51,8 @@ open_questions:
   - Only one source for this arrest was found after searching in Tamil.
   - No charges, court production or remand details were published.
   - The value of one lakh rupees is the police's own estimate for the 1.4 kg seized.
-  - The page's lead image is captioned only as Latest Tamil News and the other images are unrelated sidebar thumbnails, so no media entry is included.
   - Dinamani gives the ganja as about 1 kg 300 g while the report records Dinamalar's figure of 1.4 kg; the report keeps the 1.4 kg figure, and neither outlet explains the difference.
   - Dinamani says the three were sent to judicial remand after the case was registered at Annamalai Nagar police station; Dinamalar reported no remand, and no charge sheet or later court step was published.
-  - Dinamani's only photo is an arrest illustration from its image library captioned கைது, not established to show this seizure, so no media entry is added.
   - No street value was published by Dinamani; the one lakh rupees figure remains Dinamalar's police estimate.
 ---
 

@@ -57,7 +57,6 @@ open_questions:
   - The article does not say where the two suspects held over 9,950 amphetamine tablets were arrested.
   - No names, ages, charges or court outcomes were published; the agencies said only that initial procedures were completed and the detainees referred to the competent authorities.
   - Khat, amphetamine, methamphetamine and regulated tablets seized in the same operations are not cannabis and are excluded from the figures.
-  - The page carries several drug photographs with no captions, credits or alt text, so no media entry establishes that they show this seizure.
   - Only one outlet covering the full roundup was found; the second source covers only the Jeddah case.
 ---
 

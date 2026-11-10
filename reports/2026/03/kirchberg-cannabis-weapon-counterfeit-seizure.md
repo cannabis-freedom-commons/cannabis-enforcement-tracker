@@ -41,7 +41,6 @@ open_questions:
   - The location of the home search was not specified beyond the Kirchberg operation; Kirchberg is used as the incident place.
   - The incident spanned the night of 1 to 2 March 2026; 2 March is used as the incident date.
   - Only one accessible source for this event was found after searching in French and English.
-  - The page photo is captioned as an archive illustration and is not shown to depict this seizure, so no media entry is included.
 ---
 
 On the night of 1 to 2 March 2026, Luxembourg's Grand-Ducal Police were alerted

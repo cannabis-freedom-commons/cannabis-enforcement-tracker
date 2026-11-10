@@ -71,7 +71,6 @@ open_questions:
   - The court's reasons for refusing the police request to remand the men were not published.
   - No individual charges or trial outcome have been announced.
   - The €1 million estimate covers the whole haul, most of it cocaine; no separate value was given for the marijuana.
-  - The submitted page's lead image is an illustrative stock photograph of cocaine lines, not the seizure, and the police photographs published with the reports carry no descriptive captions.
   - 'Left out, as its quotation was not found in LSM.lv: Latvian State Police detained two men born in 2000 and 2002 in Rīga on 8 March 2026.'
   - 'Left out, as its quotation was not found in Valsts policija: On 10 March they asked a court to remand both men in custody, but the court declined and applied non-custodial measures instead.'
   - 'Left out, as its quotation was not found in LSM.lv: Police said the seizure was the largest amount of cocaine taken by the State Police since 2019.'

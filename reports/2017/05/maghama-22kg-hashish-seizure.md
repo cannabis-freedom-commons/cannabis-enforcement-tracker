@@ -50,7 +50,6 @@ open_questions:
   - No court outcome was reported; the investigation was still under way pending referral to the Kaédi prosecutor.
   - No value, packaging details or additional seizure figures were published.
   - Only one distinct account was found, with the Cridem page reprinting the Mauriweb report, and no second independent outlet could be opened.
-  - The pages carry photos without captions establishing that they show this seizure, so no media entry is included.
 ---
 
 Officers of the Maghama commissariat, the local police station serving the town

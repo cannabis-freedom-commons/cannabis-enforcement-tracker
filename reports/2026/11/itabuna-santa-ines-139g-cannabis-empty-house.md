@@ -56,7 +56,6 @@ sources:
 open_questions:
   - No suspects were identified and no charges or court outcome are reported.
   - The cocaine wraps and crack rocks were counted but not weighed, so no combined drug weight is given and only the separately stated cannabis weight is recorded.
-  - The submitted page carries both a 7 November republication stamp and a 10 November byline; 6 November 2026 is used as the incident date because both sources date the operation to the night of Friday the 6th.
 ---
 
 Military police of the 15th Battalion inspected an uninhabited building on

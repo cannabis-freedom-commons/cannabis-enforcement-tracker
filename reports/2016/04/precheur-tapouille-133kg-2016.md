@@ -53,7 +53,6 @@ open_questions:
   - RCI's body text dates the seizure to Wednesday 6 April 2015, but its own lede, the La 1ère, ZayActu and France-Antilles accounts give 6 April 2016, which is used here.
   - No street value was published in the opened French-language accounts; Le Marin's weekly report put a figure on the haul but its page could not be opened.
   - No charges, trial date or court outcome for the five detainees was reported in these accounts.
-  - The RCI page embeds a video of the interception filmed by the customs coastguard directorate, but no direct video address could be recovered, so no media entry is included.
   - RCI's page images are a generic RCI illustration and unrelated recent-photo thumbnails, so none is linked as media.
   - 'Left out, as its quotation was not found in ZayActu: The operation was coordinated by the OCRTIS Caribbean branch and relied on the area''s anti-narcotics enforcement and intelligence services and the customs air-and-sea deployment.'
 ---

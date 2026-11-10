@@ -77,10 +77,8 @@ open_questions:
   - The exact site of the fields in Harankundiya and Haranmal was not published; the coordinates are for Khargone district.
   - Both accounts rest on the police briefing by Sub-Divisional Police Officer Ketan Adlak; no independent witness account was found.
   - The three photographs on the Mediawala page carry no caption or credit, so which field each shows is not stated.
-  - The Times of India spells the names Mohan Waskale, Sujan Chauhan, Harnamal, Balakawada and Mohan Sisodia, while the existing reports use Vaskale, Haranmal, Balkwara and Sisodiya; the people, places and figures identify the same events.
   - The article gives combined totals of 1,018 plants, 561.85 kg and Rs 78.93 lakh for both operations together; each operation remains counted only in its own report.
   - The Times of India dates the Pokhar raid to Oct 30 and published on Nov 01, while the Pokhar report notes the tip was dated 30 October and one outlet dated the raid to 31 October.
-  - The three page photos repeat the headline as caption with no credit or description of what each shows, so no new media entry is added.
 ---
 
 Police arrested Mohan Vaskale and Sadu Solanki, both residents of Harankundiya,

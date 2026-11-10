@@ -40,7 +40,6 @@ sources:
 open_questions:
   - No figure for the area of the cannabis fields or the quantity destroyed was published.
   - The reports name no arrests, injuries or deaths in the offensive.
-  - No photo of the February offensive could be verified, so no media entry was added.
 ---
 
 On 9 February 2021 Senegal's army said it had taken three rebel bases in the southern region of Casamance during an offensive launched in late January after months of lull in the long-standing conflict. [@1] The separatists were driven out of their base at Badjom, described as the centre of gravity and strength of the Movement of Democratic Forces of Casamance (MFDC), about twenty kilometres from Ziguinchor, with support from Guinea-Bissau's defence and security forces. [@1]

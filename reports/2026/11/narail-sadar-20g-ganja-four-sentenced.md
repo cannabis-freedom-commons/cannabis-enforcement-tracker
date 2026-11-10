@@ -53,7 +53,6 @@ sources:
 open_questions:
   - The yaba counts of 30 tablets, one tablet and nine tablets are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - No single prison term or fine is recorded in figures because the four men received different jail terms and different fines.
-  - The page photograph carries only the caption Oplus_131072 and does not establish what it depicts, so no media entry is listed.
   - The Kurigram named in the operation is a locality in Narail Sadar Upazila listed alongside Dumurtala and Chandiborpur, not the northern Kurigram district.
   - Coordinates are for Narail town as the centre of Narail Sadar Upazila, not the individual villages.
   - The mobile-court sitting date is not stated separately from the 2 November operation and night press release, so the report uses 2 November 2026 as the incident date.

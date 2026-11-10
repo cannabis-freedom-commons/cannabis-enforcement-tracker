@@ -49,7 +49,6 @@ open_questions:
   - The reports give no weight or further description of the psychotropic substances seized.
   - No charges, court date or outcome for the three suspects are reported.
   - Neither report explains why a case opened in Bir Mourad Raïs was referred to the Boufarik public prosecutor.
-  - The images published with the two articles carry no caption or credit identifying them as photographs of this seizure, so no media link is recorded.
 ---
 
 Police in the 8th urban security unit of Bir Mourad Raïs, an administrative

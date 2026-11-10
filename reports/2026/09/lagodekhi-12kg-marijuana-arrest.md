@@ -54,7 +54,6 @@ open_questions:
   - The detained foreign citizen was not identified by name, age, sex or nationality.
   - The truck's origin, destination, cargo and direction of travel through Lagodekhi were not reported.
   - No custody ruling, trial or court outcome was reported, as the investigation was still under way.
-  - No photo caption or credit establishes that the published images show this seizure, so no media entry is included.
 ---
 
 Officers of the Central Department of Criminal Police of the Ministry of

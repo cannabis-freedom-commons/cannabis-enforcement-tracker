@@ -65,7 +65,6 @@ open_questions:
   - Coordinates use Mirzapur centre with district precision because the village-level location of Devahi could not be verified.
   - The account gives no separate date for the detention; 2 November 2026 is its publication date.
   - The account says the video and bribery claim lack official confirmation and independent verification, so the later police account of the counting and suspensions remains the fuller record.
-  - No new media entry is added because the page hero image appears to reuse the same viral cash-counting still already recorded from Amar Ujala.
 ---
 
 Padari police went to Devahi village to examine Mithu Prasad after receiving a

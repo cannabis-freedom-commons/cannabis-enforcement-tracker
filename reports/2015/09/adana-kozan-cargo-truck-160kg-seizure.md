@@ -47,7 +47,6 @@ open_questions:
   - The names, ages and roles of the two detained people were not published.
   - No charges or court outcome were reported.
   - Both opened pages carry the same Anadolu Agency account, so only one distinct wire version could be confirmed.
-  - The submitted page image is a placeholder with no depiction of the seizure, so no media entry is listed.
   - 'Left out, as its quotation was not found in Habertürk: The full 160.5-kilogram amount was seized from the single cargo truck during the highway operation.'
 ---
 

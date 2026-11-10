@@ -57,8 +57,6 @@ open_questions:
   - No names, ages, charges or court outcome for the 11 crew beyond handover and apprehension were reported.
   - Venprensa headlines the haul as 1492 kilos while its text and French accounts say about 1,500 kg or 1.5 tonnes; the report uses 1500 kg.
   - The 5-tonne 2022 total covers all narcotics intercepted by French Antilles forces, not cannabis alone.
-  - No media entry is included because the St. Lucia Times image has no caption or credit establishing it shows this seizure and no direct FAA photo address with caption could be recovered.
-  - The submitted article dates the interception to Sunday 11 December 2022, while the existing report dates the French seizure to 7 December 2022 with transfer on 10 December and destruction on 11 December; 7 December is retained as the incident date.
   - The drug is described only as presumed or suspected marijuana; no laboratory confirmation was reported.
   - No charges, custody ruling or court outcome for the 11 crew were reported in this article.
   - The article's 2022 cumulative totals of 43,352.963 kg in 7,293 procedures and 78 operations belong to national statistics, not to this seizure, and are left out.

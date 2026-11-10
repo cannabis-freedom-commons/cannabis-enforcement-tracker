@@ -48,7 +48,6 @@ sources:
 open_questions:
   - No weight for the eight packages of cannabis was published.
   - No arrest or charge has been reported, and the woman's name and age were not given.
-  - The reports carry illustrative hospital images credited to Honpar; no photo of the packages or the police seizure was published, so no media is listed.
   - The accounts rely on Military Police information given to local outlets; no police statement was opened.
 ---
 

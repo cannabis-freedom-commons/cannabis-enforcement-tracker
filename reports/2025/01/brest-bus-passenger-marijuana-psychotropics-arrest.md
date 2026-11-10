@@ -51,7 +51,6 @@ open_questions:
   - The reports give 21 January 2025 as the publication date and no separate date for the detention, so that date stands in for the incident date.
   - The 3-gram weight is a combined total for marijuana, amphetamine and 4-SMS, so no cannabis-only weight is recorded and the marijuana share is unknown.
   - No name, age or later court outcome was reported beyond the opened criminal case.
-  - The customs page carries an eight-image gallery without captions confirming what each image depicts, so no media entry is listed.
   - The BelTA account reproduces the State Customs Committee statement, so it corroborates rather than independently reports the detention.
 ---
 

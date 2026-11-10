@@ -57,7 +57,6 @@ open_questions:
   - No one was reported arrested.
   - The map marks Lice. Kulp is the other district named and is not given a separate point.
   - The ministry page opened here carried no photograph of the plots.
-  - The Business Standard's page carries one photograph of uniformed officers in a cannabis field, credited only "Collected"; the page does not establish that it shows the Lice and Kulp plots, so no media link was added.
 ---
 
 Turkey's Interior Ministry said on 21 September 2026 that gendarmerie teams had destroyed 217,608 cannabis and skunk plants in Diyarbakır. [@1,2,3] The work covered 99 illegal plots in the districts of Lice and Kulp, found with remote sensing under a plan against illegal cannabis cultivation. [@1,2,3]

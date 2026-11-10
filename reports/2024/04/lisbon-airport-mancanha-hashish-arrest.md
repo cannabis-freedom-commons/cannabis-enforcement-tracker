@@ -69,7 +69,6 @@ sources:
 open_questions:
   - RFI, citing unofficial information available to the Guinean prosecution, reported two kilograms of unspecified drugs, while Jornal de Noticias reported about 200 grams of hashish; the report records only the cannabis-specific 200 grams and does not count the two-kilogram figure as cannabis.
   - The incident date of 21 April 2024 is inferred from the detention being described as last Sunday day 21 in an article published on 26 April 2024.
-  - The Jornal de Noticias page carries a single archive image credited to Arquivo Global Imagens, which is not established to show this seizure, so no media entry is included.
   - No charges, custody ruling or court outcome were reported in the two April 2024 sources used; the case stood at detention, suspension and disciplinary inquiry.
   - The 194.178-gram weight comes from a single publisher, the Observador; earlier reports described about 200 grams of hashish.
   - The report gives 25 April 2024 for the council's preventive suspension but no date for the disciplinary decision that expelled him, beyond October 2024.

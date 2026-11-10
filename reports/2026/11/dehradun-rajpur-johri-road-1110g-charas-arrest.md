@@ -49,7 +49,6 @@ open_questions:
   - The supplier near Rispana bridge is described only as a drug trafficker; no name, arrest or case against him was reported.
   - The earlier drug and criminal cases in which police say the suspect was jailed were not identified.
   - Only one accessible source for this event was found.
-  - The page photo is a generic Dehradun image from 2021 and is not established to show this arrest or seizure, so no media entry is included.
 ---
 
 A joint team of Rajpur police and the Anti Narcotics Task Force (ANTF),

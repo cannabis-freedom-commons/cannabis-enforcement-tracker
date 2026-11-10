@@ -48,7 +48,6 @@ open_questions:
   - No street value for the dagga was published, so none is recorded.
   - The Friday appearance and Tuesday return are reported without calendar dates; 1 October 2026 was a Thursday.
   - The submitted PressReader page could not be read because its capture shows only a region block, so this report rests on the single opened Swazi24 account.
-  - The Swazi24 page image is captioned only as an Eswatini police vehicle and is not established to show this seizure, so no media entry is included.
   - Only the police account was available in the opened source; no statement from the suspects was reported.
 ---
 

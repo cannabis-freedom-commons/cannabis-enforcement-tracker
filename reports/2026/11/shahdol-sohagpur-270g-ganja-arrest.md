@@ -50,7 +50,6 @@ open_questions:
   - The reported value of more than 200,000 rupees covers the tablets and ganja together and is therefore excluded from cannabis figures.
   - No charges or court outcome were reported; police said the source of the tablets and possible accomplices are under investigation.
   - Only one accessible source for this event was found after searching in Hindi and English.
-  - The page photo is captioned as the Sohagpur police station and does not show the seizure itself, so no media entry is included.
   - Dainik Bhaskar, like Amar Ujala, gives no separate date for the raid; 4 November 2026 is used from the source's publication date.
   - The 1,548 tablets are described only as intoxicating tablets of unstated composition, so only the 270 grams of ganja is counted as cannabis.
 ---

@@ -50,7 +50,6 @@ open_questions:
   - The street value was given as a range of £18,970 to £72,670 depending on method of sale, so no single value is recorded in figures.
   - David Jarvis's sentence or other outcome after his guilty plea to production and abstracting electricity was not reported.
   - Only one accessible source for this event was found after searching in English.
-  - The only page image shows Bolton Crown Court and is credited to Phil Taylor; it does not show this seizure or raid, so no media entry is included.
 ---
 
 Bolton Crown Court sentenced Jonathon Hall, 35, to 12 months in prison,

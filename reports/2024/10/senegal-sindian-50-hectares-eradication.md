@@ -34,7 +34,6 @@ open_questions:
   - Only one source could be opened for this operation.
   - No arrests, weights seized, cultivators or charges were named in this report.
   - The map point marks the Tandine locality in North Sindian; the destroyed plots were named only as village sectors.
-  - The source page's photo of bagged cannabis with soldiers, and video pages titled for this operation, could not be verified as showing this operation, so no media entry was added.
 sources:
   - title: Senegalese Army Launches New Operation to Combat Hemp Cultivation and Trafficking in Casamance Border
     url: https://www.africa-press.net/gambia/all-news/senegalese-army-launches-new-operation-to-combat-hemp-cultivation-and-trafficking-in-casamance-border

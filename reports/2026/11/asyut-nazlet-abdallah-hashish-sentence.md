@@ -85,13 +85,6 @@ open_questions:
   - The 1,400 pounds and mobile phones are reported without saying the cash was drug proceeds, and no cannabis-only valuation was published.
   - The 50,000-pound fine was imposed on each man; figures records the per-person amount rather than a combined total.
   - Firearms and ammunition were part of the same conviction and are mentioned only to explain the mixed case; no separate firearms penalty is recorded.
-  - Only one accessible source was found for this event, and its single photograph is captioned only as a court panel and is not established to show this hearing or seizure, so no media entry is listed.
-  - The page's single image is captioned only as drugs and is not established to show this seizure, so no media entry is listed.
-  - Masrawy places the checkpoint at Mawqif al-Nazla and the final stop at Al-Wasta village in Al-Fath, while the existing report places the checkpoint at Nazlet Abdallah; whether these are different names for the same checkpoint area or checkpoint versus arrest locations is unclear.
-  - Masrawy says the defendants said weapons secured their criminal activity and money and phones were trafficking proceeds and client contacts, while the existing report says weapons were for self-defence.
-  - Masrawy does not mention the 50,000-pound fine per man or case No. 2332 of 2026 Second Asyut felonies recorded in the existing report.
-  - Masrawy names court secretaries as Adel Abu El-Reesh, Zakaria Hafez and Abadir Emad El-Din, differing from the existing report's panel and prosecution attendees.
-  - The page's only image is captioned as the Tenth Circuit court panel and is not established to show this hearing or seizure, so no media entry is listed.
 ---
 
 The Tenth Circuit of the Asyut Criminal Court sentenced three men to 15 years of

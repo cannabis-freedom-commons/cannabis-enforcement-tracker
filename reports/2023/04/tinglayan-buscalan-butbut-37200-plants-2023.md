@@ -54,7 +54,6 @@ open_questions:
   - The 37,200-plant total is the sum of the article's 22,500 Buscalan plants and 14,700 Butbut plants; the P7.4 million valuation applies to the four sites together.
   - Politiko North Luzon reported a 27 April operation in Buscalan with 22,500 plants worth P4.5 million; its P4.5 million valuation does not match the P7.4 million total, so it is not used here and may be a separate, earlier step.
   - No suspects were named or charged; the police said they were still investigating who cultivated the plants.
-  - The submitted page's only picture is an Inquirer file photo captioned as a Kalinga map, dated September 2022, so it is not treated as a photo of this eradication.
 ---
 
 Police and anti-drug agents uprooted and burned about 37,200 fully grown

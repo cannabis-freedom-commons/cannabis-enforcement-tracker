@@ -109,28 +109,16 @@ open_questions:
   - The cannabis total differs between the police announcement's 3 kilos and 117 grams and Aigiovoice's approximate three kilos plus 311 grams; the report records the police figure.
   - The suspect was identified only as a Greek man born in 1983, with no full name published.
   - No court outcome was reported; the suspect was to be taken to the Achaia prosecutor and the investigation was continuing.
-  - The submitted page's listed image is a generic police-car photo from March 2026 and is not shown as this seizure, so no media entry from that page is included.
   - The opened Patras Events account names only an area of Western Achaia, while the Alissos locality in the report comes from its earlier sources.
-  - The page's listed image carries no caption or credit establishing it shows this seizure, so no media entry is added.
   - The Cretalive account names only Western Achaia and does not name Alissos; the Alissos locality in the report comes from its earlier sources.
-  - The page's listed image is credited only to the Hellenic Police with the alt text 'xasis' and no caption establishing it shows this seizure, so no media entry is added.
   - The Npress account names only Western Achaia and does not name Alissos; the Alissos locality in the report comes from its earlier sources.
-  - The page's listed images carry no caption or credit establishing they show this seizure, so no media entry is included.
   - The ProtoThema account names only Western Achaia and does not name Alissos; the Alissos locality in the report comes from its earlier sources.
-  - The page's listed image caption repeats the headline and carries no credit establishing it shows this seizure, so no media entry is added.
-  - The submitted page names only an area of Western Achaia and does not name Alissos; the Alissos locality is retained from the report's earlier sources.
-  - The page's seizure photo appears to be the same police handout already cited via Tempo24, so no new media entry is added.
   - The CNN account names only an area of Western Achaia and does not name Alissos; the Alissos locality is retained from the report's earlier sources.
-  - The CNN page's listed seizure image carries no caption or credit establishing it shows this seizure, so no media entry is added.
   - This account names only an area of Western Achaia and does not name Alissos; the Alissos locality is retained from the report's earlier sources.
-  - The page's listed image is captioned only as Screenshot_23 with no credit establishing it shows this seizure, so no media entry is included.
   - The ioannina24 account names only an area of Western Achaia and does not name Alissos; the Alissos locality is retained from the report's earlier sources.
   - The ioannina24 account gives no exact cannabis weight, only kilos in its headline; the 3.117 kg figure is retained from the police announcement in earlier sources.
-  - The ioannina24 page's listed image carries no caption or credit establishing it shows this seizure, so no media entry is added.
   - This account names only Western Achaia and does not name Alissos, so the Alissos locality is retained from the report's earlier sources.
-  - No new media entry is added because the page's listed image caption repeats the headline with no credit establishing it shows this seizure, and it appears to be the same police handout already cited via Tempo24.
   - This account names only an area of Western Achaia and does not name Alissos, so the Alissos locality is retained from the report's earlier sources.
-  - The page's listed seizure image has empty alt text with no caption or credit establishing it shows this seizure, so no new media entry is added.
 ---
 
 On the morning of 3 November 2026, officers of the Western Achaia Department for

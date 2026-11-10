@@ -52,7 +52,6 @@ open_questions:
   - 27 October 2026 is the patrol and detention date given in the police account; 28 October 2026 is the publication date of all three sources.
   - No charges beyond NDPS registration, custody decision or court outcome were reported; police said further investigation was continuing.
   - The Bhaskar roundup also reports three separate heroin cases with five other arrests and a Swift Dzire seizure; those are separate events left out here and their heroin weights are excluded from cannabis figures.
-  - The Bhaskar pages carry photos captioned as accused in custody and smugglers with a car, which do not establish that they show this ganja seizure, so no media entry is included.
   - All accounts repeat the police version; no statement from the accused or family was reported.
   - 'Left out, as its quotation was not found in Dainik Bhaskar: The search found 345 grams of ganja including polythene in a packet kept in his backpack.'
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Police said the accused was seeking to sell the ganja and had no valid licence or permit for it.'

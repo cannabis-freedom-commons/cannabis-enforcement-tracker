@@ -51,7 +51,6 @@ sources:
 open_questions:
   - The second account reprints the Punch report, so both draw on the same NDLEA briefing; the Tribune's separate account of this seizure could not be opened for this report.
   - What happened to the third occupant of the lorry and to the two arrested men in court was not reported in these sources.
-  - The Punch photo of the paraded suspects is no longer served at its published address, so no media entry was added.
 ---
 
 NDLEA officers, acting on intelligence, intercepted a lorry with registration number BDG 998 XU at the Okolowo area of Ilorin at about 11.30pm on Thursday, finding compressed cannabis sativa concealed in bags of secondhand clothes. [@1,2] Two of the three occupants, Ayomide Azeez and Ismail Kabir, were arrested and paraded with the impounded lorry and its contents. [@1]

@@ -48,7 +48,6 @@ open_questions:
   - No charges, court appearance or sentence was reported for the man.
   - The 2-gram cannabis figure covers only the suspected cannabis found at İ.K.'s home; the methamphetamine is not included in it, and no laboratory result was reported.
   - The same statement describes a separate synthetic-cannabinoid cigarette case that is outside scope and omitted here; the sources do not link the two cases.
-  - The article's only image is an illustrative police graphic, not a photograph of the searches, so no media is listed.
 ---
 
 Officers from the Narcotics and Anti-Smuggling Directorate searched the home of

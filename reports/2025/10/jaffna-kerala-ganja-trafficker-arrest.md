@@ -44,7 +44,6 @@ open_questions:
   - The article gives no separate date for the arrest; 24 October 2025 is its publication date and is used as the incident date.
   - The suspect's name, charges and later court outcome were not published.
   - Only one accessible source for this event was found after searching in English.
-  - The page image has no caption or credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 The Colombo Crime Division arrested a major trafficker accused of smuggling

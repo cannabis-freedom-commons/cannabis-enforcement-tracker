@@ -68,7 +68,6 @@ open_questions:
   - The article gives no separate date for the tests; 9 November 2026 is its publication date and is used as the incident date.
   - No driver names, governorate breakdown, charges or prosecution decisions were reported.
   - The article combines several unrelated roundups in one statement, including currency-trading cases worth about 4 million Egyptian pounds and 16 tonnes of flour seized in bakery checks; those are separate matters and are left out.
-  - The submitted page's only picture is a stock traffic-campaign image from July 2026 captioned only 'الحملات المرورية', so no media entry is added.
   - No second outlet reporting this particular day's round could be opened; the Egyptian Interior Ministry's own statement was not found.
   - The Al-Masry Al-Youm account likewise names no substance in the 45 or five positive tests, so it does not show that any of them involved cannabis.
   - The report body dates the intake of 10 wanted people and two vehicles to the Regional Ring Road campaign, while this article lists those figures in a separate sentence after the 152-driver check; the existing wording is left unchanged.
@@ -82,8 +81,6 @@ open_questions:
   - Its only picture is a stock traffic-campaign image whose file address dates from July 2025, captioned only with the section and time, so it is not listed as media of this event.
   - The Ahram Gate account names no substance in the 45 positive tests, so it does not establish that any of them involved cannabis.
   - The page gives no separate date for the checks; 9 November 2026 is its publication date and is used as the incident date.
-  - It reports no governorate breakdown, driver names, charges or prosecution decisions, and no figure for the Regional Ring Road checks recorded in the existing report.
-  - Its only picture is a stock traffic-campaign image stored in a 2018 upload folder and captioned only with the headline, so no media entry is added.
 ---
 
 Egypt's Interior Ministry said its General Traffic Directorate tested 1,094

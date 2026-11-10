@@ -46,7 +46,6 @@ open_questions:
   - The teenager's name was not published because he is a minor, and no charge or final measure against him was reported.
   - No court outcome was reported; the pre-trial investigation was still under way when the article was published.
   - Only one opened source covers this event; searches and local outlet pages turned up no second account.
-  - The page's lead image repeats the headline as its caption and is credited to Фокус without showing the seizure, so no media entry is included.
   - The Kvorum Silistra account gives no street location within the city for the police check, only that it was on the territory of the provincial capital.
   - This article repeats the police directorate's statement and adds no charge, value or court outcome beyond what was already recorded.
 ---

@@ -58,7 +58,6 @@ open_questions:
   - The source gives no street value for the plants or the processed cannabis material.
   - Only one account of this operation could be opened; the Martí Noticias page does not name the detainees, the charges or any court step.
   - The exact addresses of the seven searches in San José are not given, so the place is recorded at province level.
-  - The submitted page carries only a site logo image rather than a photograph of the operation, so no media is linked.
 ---
 
 Costa Rica's police broke up two linked Cuban-led trafficking networks on

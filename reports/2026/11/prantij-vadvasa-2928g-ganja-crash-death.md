@@ -49,7 +49,6 @@ sources:
 open_questions:
   - No separate crash date or time was published; 2 November 2026 is the earliest publication date and is used as the incident date, while Divya Bhaskar published the same account on 4 November 2026.
   - The source and intended recipient of the ganja were not reported; police said investigation into that question was continuing.
-  - The ZSTV page displays a photograph but its caption does not establish that it shows this seizure, and the Divya Bhaskar page uses a default site image, so no media entry is included.
   - The Rs 400 in cash, driving licence, RC book and other belongings were seized with the drugs; only the Rs 146,400 drug valuation is recorded as value.
 ---
 

@@ -42,7 +42,6 @@ open_questions:
   - Only the separately stated 279.292 kg of cannabis is counted in figures; mandrax tablets, crack cocaine units, methcathinone and sildenafil tablets are noted for context and excluded from cannabis figures.
   - No breakdown of the seizures or arrests by region, no charges and no court outcome were reported.
   - Only one opened account of this month-long operation was found; no independent second outlet account was opened.
-  - The page lists an image captioned only with the story headline and no credit confirming it shows this operation, so no media entry is added.
 ---
 
 Namibian police carried out anti-drug operations across the country during June

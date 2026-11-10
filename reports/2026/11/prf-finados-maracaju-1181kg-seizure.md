@@ -71,11 +71,8 @@ open_questions:
   - The overview total is given as 1,172 kilos of marijuana while the detailed Maracaju seizure is given as 1,171 kilos; the detailed 1,171 kilos plus 10.9 kilos of hashish is used for cannabis figures.
   - Cocaine weights and the 10 pistols are mentioned only to explain the mixed operation and are excluded from cannabis figures.
   - No charges or court outcomes beyond arrest and referral to the Federal and Civil Police were reported.
-  - This source dates the operation 30 October to 2 November 2026 but dates the Campo Grande seizure to Sunday the 1st; 1 November 2026 was a Sunday and 2 November a Monday, as already noted in the existing report.
   - The same article reports a separate Receita Federal seizure of 76 kilos of cocaine on 3 November in a Campo Grande carrier, a cocaine-only event excluded from cannabis figures.
-  - The page photo credited Divulgação/PRF appears to republish the same PRF handout already recorded via Midiamax, so no new media entry is added.
   - No charges or court outcomes beyond arrest and referral to the Federal Police are reported in this source.
-  - The Buriti News page carries a PRF-handout photo captioned as the Finados seizures, which appears to republish the same agency handout already recorded via Midiamax, so no new media entry is added.
 ---
 
 The Federal Highway Police's Operação Finados in Mato Grosso do Sul ended with

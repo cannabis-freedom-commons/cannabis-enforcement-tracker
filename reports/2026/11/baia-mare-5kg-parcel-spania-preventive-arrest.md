@@ -63,8 +63,6 @@ open_questions:
   - No street value of the cannabis and no indictment or trial outcome are reported; the case is at the preventive-arrest stage.
   - The men are not named and the sources do not say where in Baia Mare the handover happened or which courier firm was used.
   - The exact date of the flagrant detection is not stated; 5 November 2026 is the date the detention and preventive arrest were ordered and when the case was announced.
-  - The page's lead image is a generic police/DIICOT file photo from June 2026, not established to show this parcel, so no media entry is listed.
-  - The page's single image is captioned only 'droguri' with no credit establishing that it shows this parcel, so no media entry is listed.
   - The same page also reports a separate cigarette and tobacco seizure in Oncești, Șieu, Bogdan Vodă and Dragomirești, a different event left out here.
 ---
 

@@ -48,7 +48,6 @@ open_questions:
   - The Times of India gives only its 1 November 2026 publication date; the 31 October 2026 raid date and 5.10 am time come from Nagpur News.
   - The Times of India shortens the arrested man's name to Mohd Shafiq while Nagpur News gives Mohammed Shafik Mohammed Rafiq Ansari; the report uses the fuller name.
   - The report uses the ganja-only value of Rs 1,01,680; Nagpur News puts total seized property at Rs 1,11,680 including the mobile phone, which is not counted as cannabis value.
-  - Whether the lead photo on the Times of India page shows this seizure is not established from its caption and credit, so no media entry is made.
   - No custody status, charge sheet or court outcome beyond the arrest, case registration and ongoing search is reported.
 ---
 

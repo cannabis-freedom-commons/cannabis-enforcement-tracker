@@ -51,7 +51,6 @@ open_questions:
   - Only Sermitsiaq reported the case; no separate police statement or court record was found.
   - The report does not say where the flight had come from, how the hash was packed, or what it was worth.
   - The man was not named, and the judgment itself was not published.
-  - The photograph with the article shows a customs officer's uniform patch, not the seizure, so no media is linked.
 ---
 
 Customs officers at Nuuk Airport stopped a passenger on Friday 20 February 2026 and found about

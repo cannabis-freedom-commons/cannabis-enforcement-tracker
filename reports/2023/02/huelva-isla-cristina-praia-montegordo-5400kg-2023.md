@@ -39,7 +39,6 @@ status: verified
 tags: [customs, huelva, isla-cristina, hashish]
 open_questions:
   - The announcement is dated 4 February 2023 but gives no separate date for the boarding itself, which followed surveillance that began on 1 February.
-  - The only photo found with these reports could not be verified as showing this interception, so no media is listed.
 sources:
   - title: The Tax Agency has seized a fishing vessel carrying 5,400 kilos of hashish in waters off Huelva
     url: https://sede.agenciatributaria.gob.es/Sede/en_gb/notas-prensa/notas-prensa/2023/febrero/4/agencia-tributaria-interviene-aguas-cercanas-hachis.html

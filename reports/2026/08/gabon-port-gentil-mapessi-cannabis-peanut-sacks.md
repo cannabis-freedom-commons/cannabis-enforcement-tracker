@@ -66,7 +66,6 @@ open_questions:
   - Press accounts describe the cannabis as divided into "cuisses", a local measure whose weight in grams was not given.
   - Sources name the agency OCAD while other Gabon coverage uses OCLAD, and describe the arrest at Matanda or the search at the Siby home; the report follows the AGP and Gabonreview versions.
   - The role of Jessy Mambougou Babissa and the identity of the supplier nicknamed Damso were not established and remained under investigation.
-  - The submitted page's feature image, titled "Untitled 2" and tagged only "cannabis", is not established to show this seizure, so it is not listed as media.
 ---
 
 Agents of the Ogooué-Maritime provincial branch of Gabon's Office central

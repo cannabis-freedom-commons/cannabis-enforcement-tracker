@@ -43,7 +43,6 @@ tags: [senad, amambay, nueva-alianza]
 open_questions:
   - Only the Diálogo account of this phase could be opened; it attributes its figures to Senad, Agencia IP, Amambay News and Hoy.
   - No arrests were reported for this phase of the operation.
-  - Diálogo published Senad and Joint Task Force handout photos of the operation, but no direct image address could be recovered (the publisher's site blocks direct access), so no media entry was added.
 sources:
   - title: Paraguay, Brazil Destroy More Than 800 Tons of Drugs
     url: https://dialogo-americas.com/articles/paraguay-brazil-destroy-more-than-800-tons-of-drugs/

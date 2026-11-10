@@ -63,12 +63,7 @@ sources:
 open_questions:
   - Neither account gives a weight for the cannabis found in chocolate form on the suspect, so no cannabis quantity beyond the 11.22 grams seized at home can be recorded.
   - No cash amount was published, so the money seized is not recorded as a figure.
-  - 'The accounts differ on the time of the arrest: the submitted page says early Friday morning, while Rthess says Thursday night.'
-  - 'The accounts differ on the cocaine packaging: the submitted page and Today Press count 15 nylon packages, while Rthess says two.'
   - No street value, charge sheet or court outcome was reported; the case file was still going to the prosecutor.
-  - 'No photo of this seizure is included: the submitted page''s lead image is captioned only with the headline and shows handcuffs, and no opened page captions a picture of this seizure.'
-  - The new source labels 06-11-2026 as Thursday morning, while the existing report dates the early-hours arrest to Friday 6 November 2026.
-  - The page's image carries only a generic filename caption and is not shown to depict this seizure, so no media is added.
 ---
 
 Police arrested a 33-year-old man in central Thessaloniki in the early hours of

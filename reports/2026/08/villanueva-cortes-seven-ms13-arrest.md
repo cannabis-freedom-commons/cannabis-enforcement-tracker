@@ -64,7 +64,6 @@ open_questions:
   - The police Facebook summary mentions two kilos of cocaine and marijuana, which cannot be reconciled with the detailed wrap counts reported by two outlets and is not recorded as a cannabis weight.
   - The articles give no separate time for the raid; 27 August 2026 is their publication date and is used as the incident date.
   - No court outcome was reported; judicial authorities must still determine each suspect's role and the origin and destination of the drugs.
-  - The police Facebook post carries four images without descriptive captions establishing that they show this seizure, so no media entry from that post is included.
 ---
 
 Officers of the Anti-Extortion and Terrorist Associations Division (DAET),

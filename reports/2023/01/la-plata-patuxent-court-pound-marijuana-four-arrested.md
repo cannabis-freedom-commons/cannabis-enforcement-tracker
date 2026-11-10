@@ -62,7 +62,6 @@ open_questions:
   - The sheriff's office describes the initial encounter as an investigation of a suspicious vehicle; The BayNet headline calls it a traffic stop, and the accounts do not say why the car drew attention.
   - No later court outcome, trial date or case number was reported for the four men.
   - Only the sheriff's office release and a reprint of it were found; a third local outlet's version could not be opened.
-  - The submitted page carries a generic 'Press Release' image, so the only media entry is the four booking photos published with the BayNet reprint.
 ---
 
 The Charles County Sheriff's Office's Neighborhood Enforcement Team was

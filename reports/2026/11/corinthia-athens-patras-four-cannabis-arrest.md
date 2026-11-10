@@ -42,7 +42,6 @@ sources:
 open_questions:
   - The reports give only ages and Greek or foreign nationality, not the names of the four arrested people.
   - No charges, court referral or later outcome were reported; the preliminary investigation was still under way.
-  - The KorinthosTV page carries an image without a caption or credit establishing what it shows, so no media entry is listed.
   - The Anagnostis page shows a generic police-car image and also reports separate theft and fraud cases in Messenia, which are a different event left out here.
   - Only the two cited reports for this event could be opened after searching in Greek.
   - 'Left out, as its quotation was not found in Anagnostis: On the evening of Monday 2 November 2026, officers arrested four occupants of a vehicle stopped on the New Athens–Patras National Road in Corinthia.'

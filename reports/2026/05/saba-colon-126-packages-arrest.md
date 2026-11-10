@@ -45,7 +45,6 @@ open_questions:
   - No exact total weight for the 126 packages was published, only a specialist estimate of more than one pound each, plus an additional bag of about six pounds, so no kilograms are recorded.
   - No name was published for the 24-year-old detainee beyond his age and reported origin in Concepción del Norte, Santa Bárbara.
   - No charges, custody decision or court outcome beyond referral to the competent authorities were reported.
-  - The Prensa Latina page image has an empty caption and a July 2025 upload date and cannot be confirmed to show this seizure, and no direct image address for the Tiempo seizure photographs could be recovered, so no media entry is included.
 ---
 
 Honduras's National Police captured one person in possession of 126 packages of

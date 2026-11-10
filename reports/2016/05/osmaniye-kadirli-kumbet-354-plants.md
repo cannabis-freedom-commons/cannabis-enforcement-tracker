@@ -45,7 +45,6 @@ open_questions:
   - No names, charges, custody rulings or court outcomes for the four detained people were reported.
   - No weight for the 354 plants and no area for the two fields were published, so no kilograms or hectares can be recorded.
   - Only one accessible account of this event was found; it credits the Anadolu Agency and no gendarmerie statement was opened directly.
-  - The page image is a generic no_image.jpg placeholder captioned with the headline and does not show this seizure, so no media entry is included.
 ---
 
 Gendarmerie teams detained four people in Kümbet village in Kadirli district in

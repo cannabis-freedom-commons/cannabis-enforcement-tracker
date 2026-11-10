@@ -50,7 +50,6 @@ open_questions:
   - Emmanuel Ihebekwe, named as the friend who sent the bags, is not reported as arrested, charged or questioned.
   - The Healthwise and Guardian wording that the weeds tested positive for cannabis sits oddly between 'dried weeds' and 'Cannabis sativa'; the reports state 13.55 kg of cannabis and the report follows that figure.
   - All three opened accounts reproduce the NDLEA statement; no independent account or court record was opened.
-  - The only image on the submitted page is captioned as a generic seized-cannabis file photo and is not shown to depict this seizure, so no media entry is included.
 ---
 
 National Drug Law Enforcement Agency officers intercepted 23-year-old student

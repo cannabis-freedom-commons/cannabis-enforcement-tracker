@@ -68,15 +68,8 @@ open_questions:
   - No court outcome or charge details beyond suspected trafficking were reported.
   - Only one accessible source for this event was found after searching in Portuguese.
   - The page photo is described only as the photographic record of the seizure, with no published caption or credit identifying the photographer.
-  - The new account says the trigger was information about a large delivery the previous night, while the existing report describes an anonymous tip about longer-term trafficking.
-  - The new account says a resident authorised the house search, while the existing report identifies her as the suspect's mother.
-  - 'Ammunition accounting differs in presentation: the new account reports two magazines and 20 intact rounds in the vehicle, while the existing report describes a magazine with two rounds at home plus 18 rounds in the weapon.'
   - No weight was published for the 22 bars, bag, rolls and portions, and the substances were described as similar to maconha and haxixe pending pericial confirmation, so no kilograms can be recorded.
   - No weight was published for the 22 bars, bag, rolls and portions, and the substances were described as similar to maconha and haxixe, so no kilograms can be recorded.
-  - The new account does not name the Salatiel neighbourhood and says a resident authorised the house search, while the existing report identifies her as the suspect's mother.
-  - The new account describes the trigger as a large delivery received the previous night for distribution at dawn, while the existing report describes an anonymous tip about longer-term trafficking.
-  - The new account reports two magazines and 20 intact .380 rounds in total, while the existing report presents them as a magazine with two rounds at home plus 18 rounds in the weapon.
-  - The page carries a photo without caption, alt text or credit identifying what it shows, so no media entry can be confirmed as this seizure.
 ---
 
 Military police in Caratinga arrested a 33-year-old man on suspicion of drug

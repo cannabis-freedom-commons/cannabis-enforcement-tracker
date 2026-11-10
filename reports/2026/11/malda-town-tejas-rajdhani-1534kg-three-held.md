@@ -82,17 +82,9 @@ open_questions:
   - Whether other people or a wider network were involved was not reported, and the seized phones and tickets were still to be examined.
   - No court outcome beyond the Malda Town GRP arrest was reported.
   - Only one accessible source for this event was found after searching in English and Hindi.
-  - The new account dates the train's arrival to 3 November and the NDPS arrests to 4 November, while the existing report uses the 5 November publication date as the incident date.
-  - The new account describes a joint RPF-GRP surveillance team, while the existing report describes an RPF stop followed by handover to the Malda Town GRP.
-  - Ganadesh dates the station search to 3 November and the formal arrest to the morning of 4 November, while the existing report uses the 5 November publication date as the incident date.
-  - The existing report carries 5 November, the Prabhat Khabar publication date, as the incident date; Eisamay and Hindusthan Samachar date the train's arrival at Malda Town to 3 November and the NDPS Act arrests to 4 November.
-  - The existing report says a drug-detection kit confirmed the ganja; Eisamay describes only a preliminary test showing the presence of the drug, and Hindusthan Samachar likewise calls it a preliminary test.
-  - The Eisamay account restates facts the existing report already carries, so its facts are submitted as detail rather than verbatim corroboration; the merge could not be matched sentence by sentence automatically.
-  - Eisamay reports that two mobile phones and two rail tickets were seized from the three, a detail the existing report already carries but whose wording could not be matched automatically here.
   - GS NEWS dates the train's arrival to 3 November and the formal NDPS arrest to the morning of 4 November, while the report uses 5 November, the publication date, as the incident date.
   - GS NEWS calls the seized substance madak padarth (narcotic substance) in its headline and lead, relying on a drug-detection kit test, and names no state of origin or destination for the ganja.
   - GS NEWS carries photographs of the recovered ganja and of the accused, but no caption or credit ties any of them specifically to this seizure.
-  - The News18 account dates the train's arrival to 3 November 2026 and the formal NDPS arrests to the morning of 4 November, the same dates other accounts give, while the existing report still uses 5 November, its first publication date, as the incident date.
 ---
 
 Railway Protection Force personnel stopped two men and a woman carrying heavy

@@ -77,12 +77,8 @@ open_questions:
   - No names, ages, charges or pleas for the five arrested people were published, and no court outcome beyond the expected Meyerton appearance was reported.
   - Only one source could be opened; no police statement or second outlet account was found.
   - The two firearms were reported alongside the dagga but are not a cannabis figure and do not affect the cannabis valuation.
-  - The SABC report says the dagga was worth more than R1 million, while the existing report records approximately R1-million; the existing figure is unchanged.
-  - IOL values the laboratory at more than R1 million, while the existing report records approximately R1-million.
   - The same article also describes a separate Limpopo seizure of 130 bags of dagga worth about R11 million, a different event left out here.
-  - Briefly names the unit Gauteng Counterfeit Intelligence Narcotics, while the existing report cites Counter-Intelligence Narcotics; the discrepancy is unresolved.
   - Briefly gives no date for the raid itself and no court appearance date; the article is dated 28 August 2026.
-  - The article gives no separate date for the raid beyond saying it occurred on Thursday; the existing report uses the 28 August 2026 publication date.
 ---
 
 Gauteng police raided a property in De Deur in the Sedibeng District that had

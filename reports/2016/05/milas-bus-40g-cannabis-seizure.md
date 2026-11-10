@@ -41,7 +41,6 @@ open_questions:
   - The detained passenger was identified only as S.M.; no full name, age, or charge was published and no court outcome was reported.
   - No bus route, origin, destination, or operator was published.
   - Only one accessible account of this event was found; the page attributes its information to AA and no second report confirming it could be opened.
-  - The page image is captioned only with the headline and is not established to show this seizure, so no media entry is included.
 ---
 
 Teams from the Milas Gendarmerie Command stopped a passenger bus on the

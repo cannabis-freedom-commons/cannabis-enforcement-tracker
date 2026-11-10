@@ -47,7 +47,6 @@ open_questions:
   - The 10 December date follows the 11 December publication, which says the operations happened on Tuesday.
   - The map pin marks the Benguet sites; the Ngibat site in Tinglayan, Kalinga is a separate area covered by the same report.
   - The 800 seedlings are counted separately from the 13,890 fully grown plants in the figures.
-  - The article's photograph is credited to an Unsplash contributor and cannot show this operation, so no media entry is made.
 sources:
   - title: Over P5-M cannabis torched in Benguet, Kalinga
     url: https://bworldonline.com/the-nation/2024/12/11/641040/over-p5-m-cannabis-torched-in-benguet-kalinga/

@@ -48,7 +48,6 @@ open_questions:
   - The driver's name was not published.
   - No charge or court outcome was reported; the case was at the pre-trial stage.
   - Only one source for this event was found; searches did not surface the Varna police bulletin itself or another outlet's account.
-  - The page picture is a generic file photo captioned for an unrelated alcohol check, so no media entry is included.
   - The article does not say where in Varna the van was stopped; the coordinates are for the city.
   - The article still does not say where in Varna the van was stopped; it names only the city and the First District Police Station.
   - No cannabis weight, laboratory test result, charge or court outcome is given, so none can be recorded.

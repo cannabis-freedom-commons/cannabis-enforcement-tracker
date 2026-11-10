@@ -44,7 +44,6 @@ open_questions:
   - Charges, remand lengths and nationalities beyond broad counts differ slightly between outlets.
   - Police also seized 0.5 g of methamphetamine; no further drug types were reported.
   - Police said they would verify the suspects' citizenship with the respective embassies based on the passports they were carrying, so the Portuguese nationalities were still unconfirmed.
-  - The submitted page's lead image shows NCID director Hussein Omar Khan rather than the seizure itself, so no event photo is listed.
 sources:
   - title: Bukit Aman busts international drug syndicate using Malaysia as transit route
     url: https://www.thestar.com.my/news/nation/2026/08/11/bukit-aman-busts-international-drug-syndicate-using-malaysia-as-transit-route

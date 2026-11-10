@@ -50,8 +50,6 @@ sources:
 open_questions:
   - The articles give no separate date for the early-morning arrest; 3 November 2026 is the publication date and is used as the incident date.
   - No court outcome beyond referral to the competent judicial authority was reported.
-  - The only page image is explicitly captioned as a file photo of a police vehicle, so no media entry is included.
-  - The submitted page also links a separate three-person heroin, hashish and cultivation case in the Norte area, which is a different event left out of this report.
   - 'Left out, as its quotation was not found in Europa Press: He was immediately detained as the alleged perpetrator of an offence against public health and placed at the disposal of the competent judicial authority.'
 ---
 

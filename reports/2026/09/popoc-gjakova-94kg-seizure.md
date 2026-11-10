@@ -40,7 +40,6 @@ tags: [gjakova, popoc, border-police]
 open_questions:
   - The police release does not say how many suspects fled or whether anyone besides the Turkish citizen was charged.
   - Laboratory confirmation of the substance was not reported in the sources opened.
-  - The page displays a photo without caption, alt text or credit, so it cannot be established to show this seizure and no media entry is included.
 sources:
   - title: 9.4 kg of marijuana narcotic substance seized
     url: https://www.kosovopolice.com/en/9-4-kg-of-marijuana-narcotic-substance-seized/

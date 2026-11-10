@@ -49,7 +49,6 @@ open_questions:
   - The FIR sections, case number and NDPS charges were not published.
   - No value, origin or destination for the ganja was published.
   - No court outcome beyond Vicky Kumar being sent to judicial custody was reported, and whether Angad Mahto has been caught is not known.
-  - The page lists one image captioned with the headline and no credit, which could not be confirmed to show this seizure, so no media entry is included.
 ---
 
 Mufassil police in Bettiah raided the house of Karnameya resident Angad Mahto on

@@ -44,7 +44,6 @@ open_questions:
   - No places within Tajikistan, arrests, charges or court outcomes are reported for the 15 cases.
   - The cumulative 526 kg figure for the year to date, including 339 kg of heroin, is a national running total and is not counted as a figure for this event.
   - Only one accessible source for this weekly tally was found; searches for a second account returned nothing.
-  - No photo or video of the seizures was published with the article; the page images are advertisements and the outlet logo, so no media entry is included.
 ---
 
 Officers recorded 15 drug-trafficking cases in Tajikistan during the week

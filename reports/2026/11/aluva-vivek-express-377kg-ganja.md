@@ -121,9 +121,7 @@ open_questions:
   - News18 Malayalam repeats the RPF's estimate of about 19 lakh rupees without naming who made the estimate.
   - NDTV's headline rounds the weight to 38 kg while its text gives 37.7 kg; the report keeps 37.7 kg.
   - NDTV credits the seized-goods photo to itself rather than naming the Railway Protection Force as its origin, so it may duplicate an agency handout published elsewhere.
-  - The Madhyamam page gives its publication date of 6 November 2026 and no separate inspection date; the incident date of 5 November 2026 comes from the existing report's earlier sources.
   - The same page also reports a separate 35 g MDMA seizure and arrest in Vyttila, a non-cannabis event left out of cannabis figures.
-  - Deepika gives no separate date for the inspection; the 5 November 2026 date comes from the existing report and Deshabhimani's Thursday reference.
   - No source states who placed the sacks on the train or where along the route they were loaded.
   - 'Left out, as its quotation was not found in Deepika: Deepika reported that the RPF Crime Intelligence Branch team of Thiruvananthapuram Inspector A.J. Jipin found the ganja when it checked the unclaimed sacks in the general coach.'
   - 'Left out, as its quotation was not found in Deshabhimani: Deshabhimani confirmed that the inspection of the Dibrugarh–Kanyakumari Express was carried out on Thursday after the train reached Aluva.'

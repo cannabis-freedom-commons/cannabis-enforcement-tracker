@@ -52,7 +52,6 @@ open_questions:
   - No arrests, charges or suspects were reported for the Torreón seizure.
   - Only the overall total of four recent courier seizures was given, without a breakdown of the other three cases.
   - Only one source for this event could be opened.
-  - The Zócalo account was published 30 October 2026, one day before the existing report's 31 October 2026 source, so the exact date of the latest Torreón seizure remains unsettled.
   - The Zócalo account gives no total number of recent seizures and does not mention the approximately 33 grams of crystal or seven THC gummies named in the later account.
 ---
 

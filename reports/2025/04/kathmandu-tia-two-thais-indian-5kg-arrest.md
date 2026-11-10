@@ -55,7 +55,6 @@ open_questions:
   - A Republica story on 8 April said six kilograms of marijuana were found in the Thai woman's luggage and that she was handed to the Narcotics Control Bureau in Koteshwor; the later account gives 5.2 kg and no weight would account for the difference.
   - The sources do not say whether any of the three was charged, produced in court or released.
   - Headline Nepal's copy refers to the woman with the pronoun him in places, apparently a translation error; the report follows Republica's identification of her as a woman.
-  - The submitted page's lead image is a generic file picture of a handcuffed suspect with no caption tying it to this seizure, so no media entry is included.
   - Left out route, as its quotation was not found in Headline Nepal.
 ---
 

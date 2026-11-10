@@ -49,7 +49,6 @@ open_questions:
   - The laboratory blood-test result, the amount of any fine and the length of any driving ban were not yet known.
   - The suspect, a 23-year-old from the Geisenfeld area, was not named.
   - The exact point of the stop in Pobenhausen was not given, so the coordinates mark the municipal area at district precision.
-  - The submitted page carries no photograph of the stop, and the Pfaffenhofen Today illustration is labelled a Symbolbild (stock image), so no media entry is listed.
 ---
 
 Police in Schrobenhausen, the local police station for the area, stopped a

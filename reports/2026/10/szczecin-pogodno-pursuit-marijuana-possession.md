@@ -43,7 +43,6 @@ open_questions:
   - The opened sources give only publication dates of 30 October 2026 and 2 November 2026 with no separate incident day, so 30 October 2026 is used as the incident date.
   - Whether the passenger was detained, charged or released was not reported.
   - No court outcome beyond police supervision was reported.
-  - Whether the article image shows this seizure could not be established from its caption and credit, so no media entry is added.
 ---
 
 Patrol officers from the Szczecin Pogodno station tried to stop a passenger car

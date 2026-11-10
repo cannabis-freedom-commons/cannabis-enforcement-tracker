@@ -37,7 +37,6 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [assam-rifles, tripura, joint-operation]
 open_questions:
   - No arrests or seizures of processed cannabis were reported.
-  - The Assam Times Post page carries a photograph that could not be verified as showing this operation, so no media entry was added.
 sources:
   - title: Assam Rifles Triumphantly Eradicates Illegal Rs 3.5 Crore Cannabis Plantation in Tripura
     url: https://assamtimespost.in/?p=133852

@@ -52,7 +52,6 @@ open_questions:
   - The Criminal Code articles for the two people held on drug charges were not published.
   - The cause of death remains contested, as Buava's lawyers commissioned an alternative expert examination.
   - 30 August 2026 is the Interior Ministry announcement date for the two drug arrests, while the abandonment arrest was reported on 29 August.
-  - The submitted page's only photo is a portrait of Buava credited to IPN, not a picture of the searches, so no media entry is included.
 ---
 
 Georgia's Interior Ministry detained three people in the investigation into the

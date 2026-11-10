@@ -52,7 +52,6 @@ open_questions:
   - The first weight is described as about three kilograms, not an exact laboratory figure.
   - No value was given for either recovery.
   - Neither report names a lawyer, court date or custody outcome for the two men.
-  - The submitted page's image is a 2021 Srinagar file graphic captioned only with the generic headline, so no media entry is included.
 ---
 
 Anantnag police arrested two alleged drug peddlers on 4 November 2026 in

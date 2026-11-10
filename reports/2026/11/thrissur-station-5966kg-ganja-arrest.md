@@ -65,8 +65,6 @@ open_questions:
   - No court outcome beyond production of the accused before a court was reported, and the charges' exact sections were not published.
   - The value of ₹3 lakh is the authorities' estimate, not a court-assessed figure.
   - No information was published about the person the consignment was meant for.
-  - The Hindu's lead image is an iStock anti-drug stock photo, and Deshabhimani did not yield a usable event photo, so no media entry is listed.
-  - Sathyam credits the arrest to railway station police under Thrissur West Circle Inspector S. Anshad and names the station house officer's team as those who caught the man, while the existing report attributes the operation to the RPF Crime Intelligence Branch; the relationship between the two teams is unclear.
   - Sathyam repeats that the ganja was to be delivered in Thrissur, while The Hindu account in the report says the bag was to be handed to someone at Aluva.
   - Sathyam gives no value for the seized ganja, unlike The Hindu's ₹3 lakh estimate.
 ---

@@ -50,10 +50,7 @@ open_questions:
   - The Iscap/Eskuf syrup bottles and the motorcycle are non-cannabis items and are excluded from cannabis figures.
   - No arrest, charge or court outcome is named in the opened capture.
   - Only one source could be opened; the BSS district-news page for the same 98-bottle seizure returned 403 and was not used, and search-result wording suggesting 5.6 kg of ganja cannot be cited.
-  - The supplied page image is filed as Fulbari MAP with no caption or credit confirming it shows this seizure, so no media entry is listed.
   - 'Left out, as its quotation was not found in Somoyer Konthosor: BGB said the surveillance was based on intelligence information as part of its ongoing special campaign called ‘Operation Narcotics Strike’ against drugs and smuggling in the border area.'
-  - The new source writes the Anantpur checkpoint area as Balatari, while the existing report names Hajitari for the 98-bottle seizure, leaving the exact locality spelling unresolved.
-  - The Daily Karatoa page image caption only repeats the headline with no credit or description confirming it shows this seizure, so no media entry is listed for this source.
 ---
 
 Border Guard Bangladesh's Lalmonirhat Battalion (15 BGB) carried out special

@@ -62,7 +62,6 @@ open_questions:
   - 'The two outlets disagree on when the suspect saw the judge: one says Thursday, the other says Wednesday afternoon; the report records only the agreed detention order.'
   - Cocaine, heroin and methamphetamine amounts are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - No cash amount was published, so no value is recorded.
-  - The submitted page's photo has no caption or credit and appears to be an older generic police image, and the second outlet uses a placeholder image, so no media entry is included.
   - No charges or trial outcome beyond the detention order were reported yet.
   - The WELT page, credited to dpa-infocom, reproduces the police account also carried by the outlets already cited and adds no independent reporting.
   - The page's only picture is credited to Marijan Murat/dpa and labelled a symbolic image, so it is not confirmed to show this operation and is not listed as media.

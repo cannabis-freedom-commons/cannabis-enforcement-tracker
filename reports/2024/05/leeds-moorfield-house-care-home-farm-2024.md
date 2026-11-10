@@ -41,7 +41,6 @@ tags: [leeds, care-home, albanian-nationals, indoor-grow]
 open_questions:
   - When the farm was set up and how long it had been growing was not reported.
   - Whether the six men faced immigration action or deportation after sentencing was not reported.
-  - A West Yorkshire Police photograph of the 811 plants was republished by other outlets but its direct address could not be recovered, so no media entry was added.
 sources:
   - title: 'UK: Leeds: Six jailed over cannabis farm at former Moortown care home'
     url: https://cannabislaw.report/uk-leeds-six-jailed-over-cannabis-farm-at-former-moortown-care-home/

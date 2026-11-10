@@ -50,7 +50,6 @@ open_questions:
   - The accounts give no cannabis quantity, plant count or product, and the cannabis-in-vehicle count also covers alcohol, so the substance actually consumed is unclear.
   - No outcome of the 22 October 2026 Moravia Town Court appearance was reported.
   - The incident date 14 October 2026 is the time of arrest; the traffic stop began about 40 minutes earlier, on 13 October.
-  - No photo of the stop was published; the submitted page's image is a generic sirens stock photo, so no media is listed.
   - All accounts reproduce the Cayuga County Sheriff's Office news release of 5 November 2026.
 ---
 

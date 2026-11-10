@@ -77,16 +77,12 @@ open_questions:
   - Money laundering, an unlicensed firearm and forgery are warrant offences, not cannabis enforcement; the firearm and the money are excluded from cannabis figures and no motorcycle or other asset count is given.
   - Ammunition, the pistol's ownership and the size of the money sum were not published, so no value is recorded.
   - Only one accessible source for this event was found; the TAP agency report it cites could not be opened, so no second account was checked.
-  - The page image is a generic arrest picture from the outlet from February 2024, not shown to depict this arrest, so no media entry is included.
   - Both newly cited accounts, from Mosaique FM and Radio Nationale, reproduce the same TAP agency statement and add no independent reporting, so the sequence of the arrest and the details of the earlier 500 kg case remain as previously reported.
   - Mosaique FM describes the 500 kg only as cannabis and gives no slabs-to-resin conversion, so the report keeps the resin characterisation and the 500 kg weight as stated.
   - Mosaique FM tags the text with the TAP agency's initials and adds no new facts, so it is another reproduction of the agency statement rather than independent reporting.
-  - Babnet publishes the TAP text with an auto-generated photo address that carries no caption or credit identifying the arrest, so no media entry is added for it.
   - The Mosaique FM page is dated 7 November 2026 and marks the text with the TAP agency's initials, but it does not say when the arrest happened beyond "today", so the exact time of the detention is not published.
   - Mosaique FM describes the 500 kg only as cannabis (القنب الهندي), without the resin wording used in the earlier account, so the product description remains as previously reported.
-  - This account describes the 500 kg only as cannabis (مخدر القنب الهندي), without the resin wording used in the existing report, so the product description remains as previously reported.
   - No separate date for the arrest is given; 7 November 2026 is the article's publication date.
-  - The page lists one image filename with no caption or credit confirming it shows this arrest, so no media entry is added.
 ---
 
 The Nabeul regional anti-drug brigade arrested a suspect wanted on four search

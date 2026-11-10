@@ -44,7 +44,6 @@ sources:
 open_questions:
   - The number and identities of those arrested were not published.
   - 28 May 2018 is given as 'hier' relative to the 29 May 2018 publication date.
-  - The page illustration credited to AFP/Jeremy Lempin is dated 15 May 2015 and does not show this event, so no media entry is added.
   - The article's account of 6 kg of Indian hemp and 29 tonnes of counterfeit medicines seized the previous week is a separate event left out here.
   - The destination is spelled 'Tibarkatan Arlit' in the source; its exact locality is uncertain.
   - Only one opened source about this event could be found.

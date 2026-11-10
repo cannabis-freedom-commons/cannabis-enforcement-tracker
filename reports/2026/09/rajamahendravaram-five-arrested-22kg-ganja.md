@@ -49,7 +49,6 @@ open_questions:
   - The report does not say where the ganja was going, how it was being carried, or what each man is accused of doing.
   - No court step is reported; police only said a case had been registered under the NDPS Act.
   - No other outlet or police statement reporting this arrest could be opened, so the account rests on a single newspaper report.
-  - The page carries no photo of the seizure or the suspects, so no media is listed.
 ---
 
 Police in Rajamahendravaram city, East Godavari district, arrested five men from

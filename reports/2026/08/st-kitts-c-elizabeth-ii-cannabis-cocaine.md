@@ -71,9 +71,6 @@ open_questions:
   - The reports do not say where the vessel had sailed from before St Kitts.
   - The vessel's ownership and registry were not reported.
   - The reports also describe a 2022 drug seizure on a similarly named vessel at the same port, a separate event left out here.
-  - The existing report does not say where aboard the vessel the drugs were found or that the vessel had come from St Vincent; Village Voice News, reprinting St Vincent Times, says they were concealed in bags of dry coconut from St Vincent, which the police statement cited by the report does not confirm.
-  - The new source reports one package of cocaine without a weight, while the existing report records one kilogram of cocaine from police sources.
-  - The concealment in bags of dry coconut from St Vincent is reported only by St Vincent Times; the police statement cited by the existing report does not confirm it.
   - The article also recounts an October 4, 2022 seizure of 800 kg of cocaine and cannabis aboard a similarly named vessel at the same port, a separate earlier event left out of this report.
 ---
 

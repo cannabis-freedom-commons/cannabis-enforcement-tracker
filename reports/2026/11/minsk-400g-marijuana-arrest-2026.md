@@ -69,11 +69,8 @@ open_questions:
   - No charge provision or court outcome was reported; a criminal case had been opened and up to five years' imprisonment was described as the possible penalty.
   - The detainee was not named and the report does not say whether he remained in custody.
   - Only one accessible source for this event was found after searching in Russian.
-  - The page image is described as an illustrative archive photo rather than this seizure, so no media entry is included.
-  - The Smartpress page labels its dacha photo as illustrative and embeds a YouTube video without a caption linking it to this seizure, so no media entry from this source is included.
   - The headline calls the stock a psychotropic while the body identifies it as wild cannabis and marijuana; the report retains the cannabis reading from the body.
   - The CTV page gives no weight for the seized marijuana, so the existing figure of more than 400 grams is unchanged.
-  - The page carries two stills captioned only with the headline, which does not establish that they show this seizure distinctly from the police video, so no media entry is added.
 media:
   - kind: photo
     url: https://radiomir.by/news/obshchestvo/zhitelyu-minska-grozit-do-pyati-let-lisheniya-svobody-za-sobrannuyu-na-dache-dikorastushuyu-konoplyu

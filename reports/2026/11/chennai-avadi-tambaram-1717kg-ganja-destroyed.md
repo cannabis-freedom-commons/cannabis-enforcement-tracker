@@ -55,7 +55,6 @@ open_questions:
   - No street value for the destroyed ganja was published.
   - Only one accessible account of this disposal was found; searches in English and Tamil returned no second report.
   - The article says the ganja chocolates were destroyed but gives no weight for them, so they are not counted in the cannabis weight.
-  - The Tamil article renders the facility's name as 'G.J. Multi Cleave' and the locality as Thenmelpakkam next to Senkundram; the existing report records only an authorised facility at Thenmelpakkam, so the plant's owner is not confirmed by a second account.
   - The Hindu page carries only the site's default Open Graph image, and Nakkheeran's metadata image is a writer avatar, so no photo of the incineration is listed.
 ---
 

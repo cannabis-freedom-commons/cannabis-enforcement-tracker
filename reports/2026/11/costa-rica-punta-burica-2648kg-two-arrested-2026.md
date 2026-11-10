@@ -91,7 +91,6 @@ open_questions:
   - No photo of the two detainees or of the seized packages on land could be matched to this event from the opened pages.
   - 'Left out, as its quotation was not found in Diario Extra: They also found 11 fuel drums and other items recorded in the investigation.'
   - The Caro Quintero name and Colombian-flag marking are packaging marks reported by Diario Extra; no authority has said the shipment belongs to any group linked to him.
-  - La Nación says the operation began on Tuesday and ended on Wednesday without giving dates; the existing report dates it 3–4 November 2026.
   - The eleven fuel drums are given as a count only, without a published volume of fuel.
 ---
 

@@ -46,7 +46,6 @@ open_questions:
   - Only one outlet, the national news agency, could be opened for this event.
   - The police chief's figure of 40,000 plants is a hypothetical estimate at 8,000 seeds per hectare, not a counted total, so no plant figure is recorded.
   - The 18 kilograms of dried marijuana seized from the courier on 8 September is covered here as the lead into this case rather than as its own report.
-  - The agency's plantation photograph could not be visually verified, so no media entry is included.
 ---
 
 North Aceh police found a five-hectare cannabis plantation in Sawang Sub-district on Friday 6 October 2023, following the arrests of two local residents. [@1] Officers raided the home of a 38-year-old garden keeper identified as D in Sawang Village that day, then went with him to the plantation area and destroyed the crop. [@1] Both suspects were held in custody for further investigation. [@1]

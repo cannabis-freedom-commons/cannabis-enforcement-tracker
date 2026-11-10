@@ -45,7 +45,6 @@ open_questions:
   - No charges or court outcome were reported; the suspects had been handed to OCERTID and investigations were continuing.
   - No value for the seized cannabis was published.
   - Only one accessible account of this 22 kg seizure was found; searches for a second openable report did not return a usable source.
-  - The page's only image is a 2018 archival photo of Republican Police agents with a generic caption, which does not show this seizure, so no media entry is included.
 ---
 
 Officers of the 1st district police station in Bohicon arrested two men carrying

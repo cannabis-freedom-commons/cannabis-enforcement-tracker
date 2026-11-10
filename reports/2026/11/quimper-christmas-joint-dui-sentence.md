@@ -45,7 +45,6 @@ open_questions:
   - The defendant's name was not published, only that he is a 28-year-old from Quimper.
   - No cannabis quantity was published; the evidence was a positive roadside test and the admitted joint.
   - The court followed the prosecutor's request for licence cancellation with a 12-month wait before retaking it, but the article does not quote a separate final licence order.
-  - The page's sole image is explicitly captioned as an illustration photo, so it does not show this event and no media entry is included.
 ---
 
 On 4 November 2026 the judicial court in Quimper sentenced a 28-year-old man

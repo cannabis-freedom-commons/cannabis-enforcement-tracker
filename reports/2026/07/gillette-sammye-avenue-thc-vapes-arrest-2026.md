@@ -52,7 +52,6 @@ open_questions:
   - The total cannabis weight of the vapes is not reported; the 47.23 grams covers a single cartridge with its packaging, and the package states about 2 grams of THC concentrate for that cartridge.
   - County 17 does not state the suspect's age; the Gillette News Record gives it as 19 in August. Neither outlet reports what happened after the August 14 bind-over.
   - No field, plants or growing operation was involved; the seizure was of processed THC products in a home.
-  - The only image with the County 17 article is a Shutterstock police-car stock photo from 2024, not a photo of this raid, so no media entry is included.
   - The Gillette News Record's August 25 courts roundup covers several separate cases and is cited here only for the Sammye Avenue facts.
   - 'Left out, as its quotation was not found in Gillette News Record: The July 16 warrant was executed in an investigation into Jesus Molina-Estell, who was charged in District Court with felony theft, delivery of mushrooms and two counts of possession of THC with intent to deliver.'
   - 'Left out, as its quotation was not found in Gillette News Record: On August 14, 2026, Circuit Judge Paul Phillips found probable cause to suspect Twigg of possession of a controlled substance and bound him over to District Court.'

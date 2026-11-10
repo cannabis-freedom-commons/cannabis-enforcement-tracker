@@ -50,7 +50,6 @@ sources:
     language: hi
 open_questions:
   - The submitted Dainik Bhaskar page is paywalled beyond its opening lines, so the seizure weight, the suspect's identity and the 27 October date come from the fuller FN News account of the same police action, which attributes itself to the Bhaskar report.
-  - No photograph with a caption or credit establishing that it shows this seizure could be verified, so no media entry is included.
   - The same article also reports a separate Nanta police roundup of a dacoity gang with 10 arrests and two detained juveniles, a non-cannabis event left out of this report.
   - No charge details beyond registration of an NDPS Act case and no court outcome were reported; questioning was described as continuing.
 ---

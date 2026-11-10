@@ -46,7 +46,6 @@ open_questions:
   - No cannabis weights, plant counts or field areas were published, so no kilograms, plants or hectares are recorded.
   - No charges, prosecutions or court outcomes for these specific arrests were reported; the 90-day supervision and class diversion program was described only in general terms.
   - The police union president questioned whether the spike reflects a reporting issue, while the mayor's office and HPD did not answer questions about the data.
-  - The page image is a generic marijuana file photo credited to Julia Reihs / KUT, not shown to depict these arrests, so no media entry is included.
   - The second source is a rewrite of the Houston Public Media reporting; no separate agency statement could be opened for corroboration.
 ---
 

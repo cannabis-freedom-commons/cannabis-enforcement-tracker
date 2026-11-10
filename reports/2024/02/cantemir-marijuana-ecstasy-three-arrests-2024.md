@@ -51,7 +51,6 @@ open_questions:
   - The stated three to seven years is the penalty the offence carries, not a sentence imposed, so no prison term is recorded.
   - The suspects' names and exact ages were not published.
   - Only two accessible accounts of this event were found, both repeating the same police material, and the cited police Telegram post itself could not be opened.
-  - The available page images are captioned as Ecstasy sellers and show tablets, with no image confirmed to show the marijuana component, so no media entry is included.
 ---
 
 Moldovan police reported detaining three natives of Cantemir district, two of

@@ -43,7 +43,6 @@ open_questions:
   - No quantity was published for the cannabis oil or edibles production evidence beyond the 7kg of cannabis recovered.
   - The specific offences the 34-year-old man was charged with, and any court date or outcome, were not reported.
   - Only one source could be opened; a second report of the same raid was found in search but could not be opened because access was refused, so it was not used.
-  - The page lead image is credited to iStock and does not show this event, so no media entry is added.
 ---
 
 Police Scotland community officers executed a drugs search warrant at an address

@@ -57,7 +57,6 @@ open_questions:
   - The sources give no separate date for the searches; 26 November 2025, the date of the prosecutor's statement and the RTBF report, is used as the incident date.
   - No names, later custody decisions or court outcomes for the seven charged were reported beyond five placements under arrest warrant.
   - The reported presence of a main suspect in the United Arab Emirates and any later arrest or extradition were not confirmed.
-  - No usable photo of this Brussels operation was available; the submitted feature's freight photo shows customs seizures, not these searches, and the 26 November page image is a generic illustration, so no media entry is included.
   - The submitted feature also reports a separate 2025 customs total of more than 27 tonnes at Antwerp, Zaventem and Liège, left out here as a different event covered by the Antwerp annual report.
 ---
 

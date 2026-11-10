@@ -55,9 +55,7 @@ open_questions:
   - The man's full name was not published, only his age and Kardzhali residence.
   - No charges, custody decision or court outcome beyond the opened pre-trial proceedings were reported.
   - The same page reports a separate domestic-violence detention in Momchilgrad, a different event left out here.
-  - The page image carries no caption establishing that it shows this seizure, so no media entry is included.
   - Both accounts repeat the police version; no independent account of the check could be opened.
-  - The 24rodopi page image is captioned only with the article headline and does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Police officers in Kardzhali stopped and checked a 46-year-old man from

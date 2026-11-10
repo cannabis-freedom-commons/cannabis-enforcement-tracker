@@ -62,8 +62,6 @@ open_questions:
   - No court outcome, formal charges or value estimate were reported.
   - Only one opened source was found; the sheriff's own statement was not opened separately.
   - The page carries a second screenshot image with no caption tying it to the seizures, so it is omitted.
-  - This account dates both stops only to Thanksgiving week and does not give the Nov. 23 date used in the existing report.
-  - This account says the Grenada driver's marijuana came from the Mount Shasta area, while the existing report says Shasta Vista area.
   - The same article also mentions separate summer seizures of more than 2,500 pounds in May, 1,030 pounds in June and 3,969 pounds at Dunsmuir in July, which are different events left out here.
 ---
 

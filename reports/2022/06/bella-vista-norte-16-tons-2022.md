@@ -48,7 +48,6 @@ open_questions:
   - Neither account reports arrests made during the operation.
   - The same article describes a separate seizure of 38 tons of marijuana in Amambay on 5 May 2022, a different event left out here.
   - No separate eradicated-crop area in hectares was published for this operation.
-  - Diálogo published Senad handout photos of the destruction, but the direct image addresses could not be recovered (the publisher's site blocks direct access), so no media entry was added.
 ---
 
 Paraguay's National Anti-Drug Secretariat (Senad) destroyed more than 16 tons of marijuana in an operation in Bella Vista Norte, Amambay department. [@1] Agents found the drugs at a rural property of about five hectares that housed several narco-camps with marijuana crops, including 1.5 tons of the drug in the drying process. [@1]

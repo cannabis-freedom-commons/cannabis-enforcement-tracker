@@ -46,7 +46,6 @@ open_questions:
   - The article gives no separate date for the raid; 6 March 2025 is its publication date and is used as the incident date.
   - No charges, custody status or court outcome for the two suspects was reported.
   - Only one accessible independent source was found; other search results were reprints of the same Abidjan.net text.
-  - The page photo is captioned as an Ivorian customs seizure of more than half a tonne of cannabis, not this 33 kg police seizure, so no media entry is included.
 ---
 
 Ivory Coast's national police arrested two people at Abobodoumé in the commune

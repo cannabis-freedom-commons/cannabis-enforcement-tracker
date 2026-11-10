@@ -77,7 +77,6 @@ sources:
     date: 2021-12-13
 open_questions:
   - The incident is dated 10 December 2021, the evening of the find; the operation began on 9 December.
-  - The submitted page carries both 12 and 13 December 2021 dates, and Stabroek News published on 13 December; the CANU release date itself is not given.
   - The weight is reported as 80 kilograms and 176 pounds, which do not exactly match (176 lb is about 79.8 kg); the reported 80 kg figure is used.
   - No one was arrested and no suspects were named; the people seen in the field escaped and no later charges or court outcome were reported.
   - The GY$25 million value is CANU's street-value estimate, not an independently verified market figure.

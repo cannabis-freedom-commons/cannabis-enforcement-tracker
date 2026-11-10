@@ -73,16 +73,11 @@ open_questions:
   - No date is given for the seizure; 9 November 2026 is when the president announced it and when the outlets published, and stands in for the incident date.
   - No weight breakdown, package count or street value for the Chinchiná marijuana was published.
   - The arrested person is not identified and no charges or court outcome are reported.
-  - The submitted page and Diario La Libertad both restate the president's announcement, so they are not independent accounts of the seizure.
   - The 878-kilogram figure covers both operations and is not used as the report's cannabis figure; the cocaine seized at Cartagena is a separate event left out of this report.
-  - The single photo on the submitted page is captioned only 'Redes Sociales' (social media), with no credit or caption stating what it shows, so no media entry is added.
-  - The Nessma page adds no independent detail on the Chinchiná seizure; like the existing report it restates the president's announcement.
   - The French text gives no operation name for the Cartagena cocaine find, which the Spanish report calls Estrategia Esmeralda.
-  - The page's single photo is the headline illustration for the story and is not captioned as showing this seizure, so no media entry is added.
   - Neither account gives a separate date for the seizure; 9 November 2026 is when the president announced it and when the outlets published.
   - Seguimiento reports the president's announcement too, so like the outlets already cited it is not independent reporting of the Chinchiná seizure.
   - The page gives no separate date for the seizure; 9 November 2026 is its publication date and the date of the announcement, which stand in for the incident date.
-  - The photo on the page is credited only as 'INCAUTACIÓN DE DROGAS' with no caption stating which operation or seizure it shows, so no media entry is added.
 ---
 
 Colombian police intercepted a vehicle in the urban area of Chinchiná, Caldas,

@@ -46,7 +46,6 @@ open_questions:
   - Only the Passau police notice, republished by WAIDLER.COM, was found for this patrol; no second, independent account was located.
   - No amount of cannabis, no fine and no outcome of the administrative offence proceedings were reported.
   - The notice does not say whether the three people were together or how they were dealt with beyond the order to leave.
-  - The page image is a generic stock photo labelled Symbolbild and is not known to show this patrol, so no media entry is added.
 ---
 
 A police foot patrol in the Klostergarten in Passau found three people aged 29,

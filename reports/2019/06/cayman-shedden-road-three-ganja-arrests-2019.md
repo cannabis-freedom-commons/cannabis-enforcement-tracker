@@ -50,7 +50,6 @@ open_questions:
   - No weight or packet count was published for the ganja found on the men or in the car, so no kilograms or plants figure can be recorded.
   - The men were not named, and the statements did not say whether any of them were later charged or how their cases were resolved.
   - 'The two accounts differ on the younger men: Cayman News Service says they were arrested for possession, while RCIPS says possession and consumption of ganja; the report follows the police statement.'
-  - Neither account publishes a photograph of the arrests or the seized ganja, so no media entry is included.
 ---
 
 Police on patrol in George Town shortly after 1:30am on Monday 3 June 2019

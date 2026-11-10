@@ -47,7 +47,6 @@ open_questions:
   - The 12 undocumented Venezuelans were detained in a separate immigration and firearms case and are not counted as cannabis arrests.
   - The article does not say whether the cannabis plantation was linked to the group detained from the vessel.
   - Only one accessible source for this event was found; no independent account or Coast Guard statement could be opened.
-  - The page's general marijuana image and logo do not show this event, so no media entry is included.
 ---
 
 In the early morning of Saturday 23 February 2019, the Rescue and Coordination

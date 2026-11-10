@@ -50,8 +50,6 @@ open_questions:
   - The article gives no separate date for the detention or prosecution ruling, so 3 November 2026, the publication date, is used as the incident date.
   - Only the initials José “N” were published, with no age or further identity given.
   - Only one accessible source for this El Rosario prosecution was opened; a second corroborating account or the FGR statement would strengthen the record.
-  - The page image has no caption linking it to this seizure and appears unrelated, so no media entry is included.
-  - The same article reports a separate Villa Unión bus sentence that belongs to an existing report and is left out of this new report.
 ---
 
 A control judge ordered José “N” to face prosecution and imposed automatic

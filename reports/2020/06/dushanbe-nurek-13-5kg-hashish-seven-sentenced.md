@@ -72,7 +72,6 @@ open_questions:
   - Quantities of opium, MDMA or ecstasy tablets and the October 2019 shipment of 55 kilograms of heroin are mentioned only to explain the case and are excluded from cannabis figures.
   - Sputnik reports 220 grams of opium and more than 500 tablets while Vecherka reports 221 grams with no tablet count; only the agreed hashish weight is recorded.
   - No individual terms for each of the four defendants sentenced to 15 to 17 years were published, so only the range is recorded.
-  - The submitted page carries a second 2025 image unrelated to this 2020 case, so it is omitted as media.
 ---
 
 Dushanbe city police detained seven suspected members of a transnational group

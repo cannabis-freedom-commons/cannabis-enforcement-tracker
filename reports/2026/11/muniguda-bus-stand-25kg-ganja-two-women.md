@@ -64,7 +64,6 @@ open_questions:
   - The article's lead photo is captioned only with the headline and has no credit, so it is not listed as media.
   - The weight is stated as about 25 kg, not an exact measured figure, and no specific market-value sum is given beyond several lakh rupees.
   - The article gives no separate date for the interception; 9 November 2026 is its publication date and is used as the incident date.
-  - The submitted page carries a photo captioned 'Ganja seizure in Rayagada', but its image file name refers to an unrelated Bhubaneswar theft case, so it is not established to show this seizure and no media entry is added.
   - The Hindi account gives no specific market-value sum for the seized ganja, saying only that it is worth several lakh rupees.
 media:
   - kind: photo

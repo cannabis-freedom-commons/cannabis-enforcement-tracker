@@ -52,11 +52,9 @@ open_questions:
   - The defendant was identified only as Bidun, with no name, age or arrest location published.
   - Whether the life sentence is final or subject to appeal was not reported.
   - Only one accessible source for this event was opened; other search hits were copies or aggregations of the same Al-Rai report.
-  - The page lead image has no caption identifying its content, so no photo can be verified as showing this event and no media entry is listed.
   - The Alseyassah account calls the defendant only a drug dealer and does not mention Bidun status, which remains supported by Al-Rai alone.
   - The Alseyassah account does not mention the tetrahydrocannabinol-consumption charge or the court's validation of the arrest and search, which remain supported by Al-Rai alone.
   - The same page reports a separate death sentence for a Bangladeshi man convicted of murdering a friend, a different event left out here.
-  - The page image is captioned only with the combined headline for both cases and is not established to show this drug seizure, so no media entry is included.
 ---
 
 Kuwait's Criminal Court sentenced a Bidun defendant to life imprisonment for

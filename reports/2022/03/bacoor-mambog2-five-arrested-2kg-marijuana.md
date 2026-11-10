@@ -42,7 +42,6 @@ open_questions:
   - No arrest or police report gives the street-level origins of the marijuana or says whether the two kilograms were dried leaves or another form.
   - The total of P260,000 covers both drugs; the cannabis portion is given at P90,000 and the shabu at P170,000.
   - No court outcome, bail ruling or case status was reported for the five suspects.
-  - The page's photo is an INQUIRER.net stock image of shabu captioned to Masbate, not this seizure, so no media entry is included.
 ---
 
 Anti-narcotics agents arrested five drug suspects in Bacoor City, Cavite, early

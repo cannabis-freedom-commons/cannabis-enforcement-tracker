@@ -50,7 +50,6 @@ sources:
     date: 2021-06-13
 open_questions:
   - No cultivators were caught during the two-day operation; the plantation operators remained at large.
-  - A photo published with one report could not be verified as showing this operation, so no media entry was added.
 ---
 
 A joint team from the police Drug Enforcement Group, the Philippine Drug Enforcement Agency and other police units destroyed 137,000 fully grown marijuana plants at five sites in the mountains of Sitio Ballay in Tulgao, Tinglayan, Kalinga on 11 and 12 June 2021. [@1,2] Officers burned the plants, valued at about 25.8 million pesos, on site. [@1,2]

@@ -48,7 +48,6 @@ open_questions:
   - The 5.53 grams of mephedrone are mentioned only to explain the mixed case and are excluded from cannabis figures.
   - No arrest count was stated, so only one charged person is recorded.
   - No trial outcome or sentence has been reported yet.
-  - 'The page photo is credited only as FOTO: SERGEY KIREEV and is not established to show this seizure, so no media entry is included.'
 ---
 
 Prosecutors in Tula's Privokzalny district sent a criminal case against a

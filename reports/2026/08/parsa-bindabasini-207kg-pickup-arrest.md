@@ -61,7 +61,6 @@ open_questions:
   - The weight is reported as 207 kilograms by the wire accounts, with Galaxy Khabar giving about 207 kilograms and describing the material as looking like ganja; no laboratory confirmation was reported.
   - No value estimate for the marijuana was published.
   - The exact stretch of road at Bindabasini Rural Municipality-5 was not named, so the coordinates mark the locality within Parsa district.
-  - The submitted page's only image is captioned only as a representational image, and the other opened pages carry generic arrest or file pictures, so no media entry is included.
   - 'Left out, as its quotation was not found in Onlinekhabar: According to the District Police Office Parsa, a joint team from the Pokhariya Area Police Office and the Prasaunibhatta police post stopped the driver during a routine vehicle check, acting on a special tip-off.'
   - 'Left out, as its quotation was not found in Onlinekhabar: The ganja was in the Tata Yodho pickup with number plate Province 3-01-24 Cha 5385, hidden in cement sacks in the vehicle.'
   - Left out agencies, as its only supporting source is not cited by the report's text.

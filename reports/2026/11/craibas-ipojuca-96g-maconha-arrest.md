@@ -74,7 +74,6 @@ open_questions:
   - The article reports that the house owner and his partner had previously been arrested on suspicion of drug-trafficking involvement; those earlier arrests are a separate matter and are not counted here.
   - Craíbas town centre coordinates are used for the rural Povoado Ipojuca settlement.
   - Em Tempo reports that officers reached the address at about 18h30, a timing detail the other accounts omit; it does not contradict them.
-  - The NN1 page photo is credited only to Ascom 3°BPM and the text does not establish which seized items it shows, so no additional media entry is proposed.
   - No court decision, charge sheet or custody ruling beyond the arrest in flagrante is reported in these accounts.
 ---
 

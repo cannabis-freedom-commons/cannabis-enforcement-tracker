@@ -29,7 +29,6 @@ open_questions:
   - The length of the prison sentence, the court that first convicted him and the grounds of appeal are not given in the opened text; the published judgment Siaosi Helu v Rex (AC 12 of 2018) would supply them.
   - The date of the original offending, the arrest and the first-instance sentence are not given in the opened text.
   - No second outlet's account of the appeal was found.
-  - No photograph of the appeal or of Helu was shown on the opened page, so no media entry is included.
 ---
 
 Siaosi Helu was sent to Hu'atolitoli Prison after Tonga's Appeal Court dismissed

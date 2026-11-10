@@ -69,9 +69,7 @@ open_questions:
   - The incident date of 8 November 2026 is inferred from 'hier soir' in the report published on 9 November 2026; no separate calendar date is given.
   - No arrest was reported; the man was taken to hospital and reported to the judicial authority, so no arrested figure is recorded.
   - The reports give no name or age for the man and no later court outcome.
-  - The page carries a photo whose caption only repeats the headline, and its file name dates to 2024, so it could not be confirmed to show this event and no media is listed.
   - Caserta Web does not state a separate calendar date for the intervention, giving only 'nella serata di ieri' (the evening before) in a report published on 9 November 2026.
-  - The submitted page is Il Mattino's machine-translated German version of the same article already cited in French and Italian; the page notes it is translated automatically, so its wording rather than the original Italian is cited here.
   - The German version describes the officers as the Maddaloni commissariat's Einsatzgruppe where the Italian and French versions were rendered as a flying squad; they appear to be the same unit.
 ---
 

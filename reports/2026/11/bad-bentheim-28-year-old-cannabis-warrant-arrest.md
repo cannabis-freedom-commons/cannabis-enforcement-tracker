@@ -57,8 +57,6 @@ open_questions:
   - The man's nationality was described only as unclear and no name was published.
   - No outcome beyond committal to prison after presentation to the custodial judge was reported.
   - The page's arrest photograph is labelled as a symbolic photo, so it is not listed as event media.
-  - The submitted page's only image is labelled as a stock example illustration, so no event media is listed.
-  - The submitted page's only image is labelled as a symbolic photo, so no event media entry is added.
 ---
 
 Federal police arrested a 28-year-old man on Sunday evening at the German-Dutch

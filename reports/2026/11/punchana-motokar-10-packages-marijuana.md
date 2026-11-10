@@ -50,7 +50,6 @@ open_questions:
   - No charges, custody ruling or court outcome were reported beyond the detention and the drug-trafficking investigation.
   - Only one accessible source, a local Loreto daily, was found; social-media reposts of the same police account could not be opened.
   - The seized contents are counted only as ten packages in the text; no plant, hectare or value figure was given.
-  - The page photo is an uncredited illustration of a traveller packing beside parked cars, so no media entry is included.
 ---
 
 Agents of DIRANDRO PNP Iquitos, Peru's anti-drug police unit, stopped two people

@@ -47,7 +47,6 @@ sources:
 open_questions:
   - No arrests or seizures of processed cannabis in this campaign were reported.
   - The locations of the nine farms within Edo State were not named.
-  - The accompanying article images could not be verified as showing this campaign, so no media entry was added.
 ---
 
 The Edo State command of Nigeria's National Drug Law Enforcement Agency (NDLEA)

@@ -47,7 +47,6 @@ open_questions:
   - No value was published for the 2.06 kg of ganja.
   - The five other criminal cases cited against Karamvir were not described and their status is unknown.
   - Only one accessible source for this bail order was found; no second outlet or court order could be opened.
-  - The page image is a dated 2021 Mahendragarh-Narnaul file picture captioned only with the headline and is not established to show this seizure, so no media entry is included.
 ---
 
 The court of Additional Sessions Judge Pradeep Kumar in Narnaul granted regular

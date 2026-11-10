@@ -79,8 +79,6 @@ open_questions:
   - No court outcome, measure of restraint, or information on whether the two criminal cases were merged was reported.
   - Both outlets reproduce the same regional police statement, and the two photos published with the VSE42.RU report are police handout images.
   - The men are identified only by age; no names were published.
-  - The submitted page and the Police of Kuzbass channel give no date for the searches; they were posted on 7 November 2026 and describe the operations as carried out "накануне" (the day before), so 6 November remains inferred for the searches.
-  - Neither the submitted page nor the Police of Kuzbass channel names the settlement in Mariinsky District where the two men lived.
   - В Мариинске сотрудники полиции изъяли у местных жителей 1,5 кг марихуаны (Полиция Кузбасса) could not be opened again to check its quotations (the browser-rendered page has almost no readable article text (it may require a login, show an access challenge, or contain only media); archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.
 ---
 

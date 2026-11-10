@@ -81,7 +81,6 @@ open_questions:
   - The about ten cocaine wraps are not cannabis and are excluded from the cannabis figures; no weight was given for them.
   - The arrested man was not named and no court outcome beyond release pending summons was reported.
   - The page also links to a separate Figuerola del Camp camp case involving more than a tonne of marijuana, left out here as a different event.
-  - The La Ciutat page image has an empty caption and alt text, so no media entry is listed for this source.
 ---
 
 Mossos d'Esquadra, Catalonia's police force, dismantled an indoor marijuana

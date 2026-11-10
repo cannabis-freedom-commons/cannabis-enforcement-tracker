@@ -49,7 +49,6 @@ open_questions:
   - The page's only image is an archival photograph of a tortoise seized at Roissy in 2014, not this event, so it is excluded from media.
   - The account does not establish whether the three people were later charged or tried.
   - No separate monetary value for the cannabis was reported.
-  - The page's lead photograph captioned with the article title cannot be established from its caption or credit to show this seizure, so no media entry is included.
 ---
 
 Gendarmes were conducting a routine patrol in the city of Tuléar. [@1,2] Tuléar is

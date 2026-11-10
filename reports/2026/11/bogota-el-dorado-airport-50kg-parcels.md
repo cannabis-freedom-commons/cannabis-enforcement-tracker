@@ -79,7 +79,6 @@ open_questions:
   - The marijuana's weight is the police's figure and no street value estimate was published.
   - Both accounts appear to draw on the same Bogotá Metropolitan Police statement, so they are not fully independent reporting.
   - Police said more than seven tonnes of marijuana had been seized in Bogotá in 2026; that citywide total is not part of this event and is not recorded as a figure.
-  - This official account was published on 7 November 2026 while the existing report uses 6 November 2026 from its earlier sources; no separate date for the two inspections is given.
 ---
 
 Police at El Dorado airport in Bogotá seized more than 50 kilograms of marijuana

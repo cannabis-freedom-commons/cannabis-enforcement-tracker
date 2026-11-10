@@ -45,7 +45,6 @@ open_questions:
   - The names of the three detained men were not published, apart from the age of 23 given for the man caught in Nampula city.
   - No charges, custody decision or court outcome were reported; the investigation was described as continuing.
   - The 28 kg mentioned for one detainee refers to an earlier separate possession case and is excluded from cannabis figures.
-  - The page photo is captioned as a file photo (Foto de Arquivo) and is not established to show this seizure, so no media entry is included.
 ---
 
 Mozambican police detained three men in Angoche district and Nampula city for

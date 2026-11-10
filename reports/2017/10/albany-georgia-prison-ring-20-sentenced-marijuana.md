@@ -50,9 +50,7 @@ open_questions:
   - No separable cannabis weight was published; agents reported hundreds of grams of heroin and marijuana together, so no cannabis kilograms are recorded.
   - The $30,000 and the methamphetamine, heroin, cocaine and pill amounts belong to the whole mixed ring and are excluded from cannabis figures.
   - The twenty prison and probation terms vary widely, so no single prison figure is recorded.
-  - The submitted page lists twenty sentenced people while the WALB account of the same federal announcement says nineteen; this report follows the twenty-name list.
   - The incident date is the latest sentencing on October 10, 2017; the roundup article was published on October 18, 2017.
-  - The submitted page lists one image with a generic caption that does not confirm it shows this event, so no media entry is included.
 ---
 
 Twenty people were sentenced in Albany Federal Court for a wide-ranging drug

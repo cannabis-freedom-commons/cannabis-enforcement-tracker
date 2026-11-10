@@ -58,7 +58,6 @@ open_questions:
   - The amount of cash seized in the Drama house and store-room search was not published.
   - No figure for the combined weight of the small amounts of raw cannabis seized in the Evros, Komotini and Xanthi checks was published.
   - No names, ages or charges beyond drug-law violations were published, and no prosecutor or court outcome was reported.
-  - The submitted page's social image is a generic drugs photograph titled for this article and is not captioned as a photograph of this operation, so no media entry is included.
 ---
 
 Police arrested eleven people in Eastern Macedonia and Thrace between 31 October

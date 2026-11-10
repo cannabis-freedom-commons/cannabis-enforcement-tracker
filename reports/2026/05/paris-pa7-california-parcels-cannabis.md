@@ -67,7 +67,6 @@ open_questions:
   - No cannabis-only valuation was reported.
   - The Paris-region businesses that unknowingly received parcels are not named or counted.
   - No trial or final court outcome was reported.
-  - The submitted page's photo is identified as a Shutterstock illustration, not a view of the operation; no event-specific photo or video is listed.
   - 'Left out, as its quotation was not found in BFMTV: Five French nationals were arrested on 18 and 19 May 2026 in an investigation into cannabis imports from the United States.'
 ---
 

@@ -56,9 +56,7 @@ open_questions:
   - Crack, cocaine, cash and the combined drug totals are mentioned only to explain the same mixed event and are excluded from cannabis figures.
   - The incident date of 4 November 2026 is the Wednesday named in the article published on 5 November 2026.
   - Only one accessible outlet account was found after searching in Portuguese; no agency statement or second outlet account could be opened.
-  - 'The page image is credited only as Foto: Polícia Militar without a descriptive caption establishing that it shows this seizure, so no media entry is included.'
   - No court outcome beyond transfer to the Civil Police station was reported.
-  - 'The page image is credited only as Foto: Polícia Militar / Divulgação without a descriptive caption establishing that it shows this seizure, so no media entry is included.'
 ---
 
 Two brothers aged 18 and 20 were arrested on suspicion of involvement with drug

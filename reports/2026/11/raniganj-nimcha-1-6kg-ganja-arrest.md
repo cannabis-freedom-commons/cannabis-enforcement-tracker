@@ -60,10 +60,6 @@ open_questions:
   - Police had not yet traced where the ganja came from or where it was to be sent; further questioning was under way.
   - The exact address of the abandoned house was not given beyond being near the accused's home in Nimcha.
   - No separate official police statement was found; both accounts are the Bengali original and Hindi version from Bengal Mirror.
-  - Photos on the pages carry no captions establishing that they show this seizure, so no media entry is included.
-  - The new account transliterates the accused's name as Yoginder Bhagat while the existing report uses Joginder Bhagat; they are treated as the same 48-year-old detainee on the basis of matching age, place, quantity and history.
-  - This account spells the accused's name Yoginder Bhagat while the existing report uses Joginder Bhagat; matching age, place, quantity and prior Jamuria history indicate the same detainee.
-  - The Tez Tarrar page image has no caption or credit establishing that it shows this seizure, so no media entry is added.
 ---
 
 Police raided Nimcha in Raniganj on Tuesday night on a tip-off and recovered

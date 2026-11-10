@@ -71,7 +71,6 @@ open_questions:
   - The Hindustan page's summary also carries a cyber-fraud item about bank accounts, a separate matter left out of this report.
   - Amar Ujala gives no total number of cases against Mahto; it says three at Link Road police station date from 2003 and 2011, so whether they are among the seven cases the earlier reports counted is unclear.
   - The Amar Ujala page is filed in the newspaper's Ghazipur section and headlined 'Ghazipur News', although its dateline and text place the arrest in Ahraura, Mirzapur district.
-  - The Dynamite News page gives no separate date for the arrest; 31 October 2026 is its publication date, while the existing report dates the arrest to 30 October 2026.
 ---
 
 Ahraura police in Uttar Pradesh's Mirzapur district arrested Viresh Kumar Mahto

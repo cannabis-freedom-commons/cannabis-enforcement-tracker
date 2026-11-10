@@ -86,8 +86,6 @@ open_questions:
   - The page photo is captioned only Polícia Rodoviária and is not established to show this seizure or its 5.6 kg, so its caption is left cautious.
   - The police did not announce the seizure on an accessible agency page; PMESP social posts found at the same kilometre described a separate Bolivian cocaine arrest.
   - 'Left out, as its quotation was not found in Band: The police estimated the seizure caused 56,000 reais in losses to the drug trade.'
-  - The new outlet does not mention Operação Impacto, the police weighing procedure or the 56,000-reais trade-loss estimate recorded in the existing report.
-  - The page image is filed under Policial-Ilustrativa and captioned only with the article title, so it is not established to show this seizure and no media entry is added.
 ---
 
 Highway military police arrested a Colombian man on suspicion of drug

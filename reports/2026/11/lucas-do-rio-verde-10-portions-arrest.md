@@ -46,7 +46,6 @@ open_questions:
   - The suspect was not named and no age, charge document or court outcome beyond referral to the Civil Police station was reported.
   - The Comando Vermelho link is the suspect's own statement as reported by police, not an independently established fact.
   - Only one outlet account was found, so the account rests on a single report citing the police occurrence bulletin.
-  - The page image is captioned only “Reprodução” with no caption confirming it shows this seizure, so no media entry is added.
 ---
 
 Military Police arrested a man for drug trafficking on the afternoon of Friday 6

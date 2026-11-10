@@ -71,7 +71,6 @@ open_questions:
   - Haluan Riau gives MK's residence as Dusun III Tanjung while Halo Terkini gives Desa Tanjung generally; the arrest roadside in Dusun I Tanjung is consistent.
   - No trial outcome was reported; both suspects were held at Polres Kampar for investigation.
   - Suppliers AD and WY from Rokan Hulu were named but no arrest was reported.
-  - The submitted page image has no caption or credit to confirm it shows this seizure, so no media entry is made from it.
 ---
 
 Kampar narcotics officers broke up an alleged trafficking case involving

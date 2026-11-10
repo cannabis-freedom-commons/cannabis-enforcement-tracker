@@ -51,7 +51,6 @@ open_questions:
   - No valuation for the seized cannabis was published.
   - Details and the outcome of the reported similar arrest in September were not given.
   - The three other drone interceptions in the previous month are separate events left out of this report.
-  - The main page photo shows the Valence prison building and other page images lack captions establishing them as this interception, so no media entry is included.
 ---
 
 Valence municipal police intercepted a drone in the Fontbarlettes district

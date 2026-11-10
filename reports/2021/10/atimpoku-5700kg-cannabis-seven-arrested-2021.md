@@ -48,7 +48,6 @@ sources:
     date: 2021-10-22
 open_questions:
   - The names of the seven suspects were withheld for security reasons.
-  - The Graphic Online page carries a photograph of the seized drugs, but the image could not be visually verified here, so no media entry was added.
 ---
 
 The Narcotics Control Commission seized about 5,700 kilograms of dried leaves suspected to be cannabis near Atimpoku in the Eastern Region on Wednesday 20 October 2021, with a street value of about 6.84 million cedis. [@1,2] The seizure followed several months of intelligence work into a syndicate operating between Juapong in the Volta Region, Kpong in the Eastern Region and Dodowa in Greater Accra. [@1,2]

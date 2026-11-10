@@ -50,7 +50,6 @@ sources:
     language: bn
 open_questions:
   - Only one accessible source for this event was found after searching in Bengali and English.
-  - The page image has no caption or credit establishing what it shows, so no media entry is listed.
 ---
 
 Officers on an anti-drug drive in Uzirpur detained 34-year-old Mamun Hawlader

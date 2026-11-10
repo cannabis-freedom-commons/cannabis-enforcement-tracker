@@ -111,27 +111,13 @@ open_questions:
   - The lead photograph is published with the Horizons article but carries no caption or credit, so it is not established which seizure it shows.
   - The Echorouk Online image is a stock illustration marked as such, and Ennahar's lead image did not load, so no other photo of this event was added.
   - 'Left out, as its quotation was not found in الشروق أونلاين: Echorouk Online reported the same police statement in Arabic, with 205 kg of treated kif from Morocco, 28 people held, ten networks dismantled and 13 tourist vehicles and two motorcycles seized in Tlemcen, Naâma, Oran and Béchar.'
-  - This APS account says the recovered sum exceeded one billion centimes, while the existing report records more than 1 billion and 300 million centimes from the other accounts of the same DGSN statement.
-  - Only the lead paragraph of the APS English page could be read; the rest is behind a subscriber wall, so the wilaya breakdown, vehicles, cash and court presentation in the existing report are not confirmed in the accessible portion.
-  - This page gives the amount rounded as over 200 kg, while the existing report records 205 kg from the fuller French accounts of the same DGSN statement.
   - No operation dates are given; 7 November 2026 is the publication and statement date used as the incident date.
-  - The page carries a lead image captioned with the story headline but with no credit or caption confirming what it shows, so no media entry is added.
-  - The submitted page gives no separate dates for the successive operations; 7 November 2026 is its publication date, already used as the incident date.
-  - The submitted page carries a photo captioned kif traité, but the existing report already links the Horizons lead photo of the same statement, so no additional media entry is added to avoid duplicating the same agency handout.
-  - The Morocco World News page gives no date for the successive operations; 7 November 2026 is the existing report's incident date, taken from the DGSN statement.
   - The page reproduces the same DGSN statement as the sources already cited in the report, so it is not independent reporting of the seizure.
   - The Béchar incidents the page recalls for context are separate events, recorded elsewhere, and are not part of this report.
-  - The page photo is captioned only with the story headline and does not confirm what it depicts, so no media entry is added.
-  - The submitted page gives no separate date for the operations; 8 November 2026 is its publication date and is not used as the incident date.
   - The page uses the Dutch term hasj for the seized resin and gives only the rounded 205 kilo figure, with no wilaya breakdown, vehicles or cash totals.
-  - The page image is a stand-in whose only alternative text repeats the headline, so no media entry is added.
-  - The page gives no separate date for the successive operations; 8 November 2026 is its publication date, while the existing report uses 7 November 2026 from the DGSN statement.
   - The page gives only the rounded 205 kg figure and the totals of 28 arrests and ten networks, with no wilaya breakdown, vehicles, cash or court details.
-  - The page image caption only repeats the headline and carries no credit confirming what it shows, so no media entry is added.
   - The Radio Algérienne page reproduces the same DGSN statement as the sources already cited and is not independent reporting of the seizure.
-  - The page says the recovered sum exceeded one billion centimes without its own fuller figure; the existing report records more than 1.3 billion centimes from other accounts of the same statement.
   - The page gives no weight figure other than 205 kg and no breakdown by wilaya or operation, and gives no charges or court dates.
-  - The page image is captioned only "الامن" (security) and does not confirm what it depicts, so no media entry is added.
 ---
 
 Algeria's national police dismantled ten criminal networks specialising in drug

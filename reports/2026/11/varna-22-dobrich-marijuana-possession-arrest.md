@@ -60,7 +60,6 @@ open_questions:
   - The sources say the check took place in Varna but do not name the district or the exact spot where the man was stopped.
   - The reports do not say whether the marijuana was held for personal use or for sale, and no charge beyond the fast-track proceeding is named.
   - The suspect's name was not published and no court outcome was reported.
-  - The submitted page, Новини Варна and Добрич Онлайн all reproduce the same Varna police statement, so the accounts are not independent.
   - The page picture has no caption or credit confirming what it shows, so it may be a generic image rather than a photo of the arrest.
   - Новини Варна reproduces the same Varna police press release as the report's other sources, so it is not an independent account.
   - The article gives no weight or value for the marijuana and names no charge beyond the fast-track proceeding.

@@ -48,7 +48,6 @@ open_questions:
   - ANI quotes police valuing the destroyed stock at Rs 850 crore, while the Telugu360 account puts the same stock at Rs 500 crore; the report uses the police figure stated at the event.
   - ANI reports 7,552 acres of cannabis plants destroyed between November 2021 and February 2022, while Telugu360 reports 8,500 acres destroyed over fifteen months.
   - No breakdown of the burned stock by seizing district was published.
-  - Both outlets carry photographs of the burning heaps and the ceremony, but the images could not be visually verified here, so no media entry was added.
 ---
 
 Andhra Pradesh police set ablaze more than 200,000 kilograms of seized ganja in an open area at Koduru village in Anakapalli mandal on Saturday 12 February 2022, in what the force described as the largest quantity of drugs destroyed anywhere in the country in one go. [@1,2] Director General of Police Gautam Sawang lit one of the heaps to start the event, organised with the Special Enforcement Bureau and the drug disposal committee, with fire-service and disaster-response personnel on standby and the press invited to watch. [@2]

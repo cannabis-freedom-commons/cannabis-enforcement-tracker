@@ -40,7 +40,6 @@ open_questions:
   - The 21 cases and 25 suspects cover all drugs and cannot be attributed to cannabis, so no cannabis-specific arrest or charge figure is recorded.
   - No names, seizure location, or court outcome for the cannabis case were published.
   - Only one accessible source for this event was found after searching in Vietnamese, and the Hanoi police portal page could not be opened.
-  - The page photos show the conference hall and delegates, not the seizure, so no media entry is listed.
 ---
 
 On 3 November 2026, Phuc Loi ward police held a conference to review grassroots

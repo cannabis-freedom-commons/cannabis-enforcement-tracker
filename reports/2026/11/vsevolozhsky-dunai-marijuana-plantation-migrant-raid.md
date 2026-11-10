@@ -31,7 +31,6 @@ open_questions:
   - The sources give no separate date for the raid; 8 November 2026 is the date of the police statement and of publication and is used as the incident date.
   - No name, age or nationality was given for the man recorded in the protocol, and the outcome of the inquiry was not reported.
   - Both accounts reproduce the same regional police statement, so they are not independent reporting; the Interior Ministry page itself was not opened.
-  - The page image is a still from police video credited only to the regional police directorate, with no caption identifying the house it shows, and only resized variants of the image address could be confirmed, so no media entry is added.
   - The raid also checked drivers and migration offenders who were not accused over cannabis; those results are not counted in this report's cannabis figures.
 ---
 

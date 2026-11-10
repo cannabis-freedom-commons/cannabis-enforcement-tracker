@@ -83,9 +83,7 @@ open_questions:
   - The suspect's surname is spelt Patail in RIG24 and RNS India and Patel in Dainik Bhaskar.
   - No court date or outcome beyond the judicial remand was reported.
   - Coordinates are for Kharsia town; the reports do not give the exact location of Kunkuni village.
-  - The page's lead photograph carried only the headline as its caption and no credit, so it could not be confirmed to show this arrest and no media entry was added for it.
   - The opened capture is a video player page; the article body was not in the readable text, only the headline.
-  - A 16-second video address appears in the page metadata, but the clip could not be confirmed from the text capture, so no media entry was added.
 ---
 
 Kharsia station house officer Sitaram Dhruv received a tip on 29 October 2026

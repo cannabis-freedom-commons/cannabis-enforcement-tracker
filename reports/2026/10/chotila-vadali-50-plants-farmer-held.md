@@ -52,7 +52,6 @@ sources:
 open_questions:
   - The articles give only publication dates of 23 and 24 October 2026 and no separate date for the raid, so 23 October 2026 is used as the incident date.
   - The sources spell the police station as Anandpar and Anandpur; the report uses Anandpar from the submitted article while noting the variant.
-  - The pages carry photos of the seizure, but their captions and alt text are empty so whether they show this event could not be established and no media entry is added.
   - No custody or court outcome beyond registration of the case and start of investigation was reported.
   - 'Left out, as its quotation was not found in Divya Bhaskar: Police registered a case against him at the Anandpar police station in Chotila under the NDPS Act, India''s narcotics law, and started further investigation.'
   - 'Left out, as its quotation was not found in Divya Bhaskar: Police said the plants weighed 16 kg 90 grams (16.09 kg).'

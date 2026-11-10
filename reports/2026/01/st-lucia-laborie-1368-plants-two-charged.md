@@ -65,7 +65,6 @@ sources:
 open_questions:
   - No area in hectares for the six plantations was published.
   - The Black News page is a reprint of a St. Lucia Times article; the original page was not opened.
-  - The page's only article image is identified as a police stock image, with no photo showing this search or destruction, so no media entry is included.
 ---
 
 Officers of the Royal Saint Lucia Police Force searched a home in Black Bay, Laborie, on 10 January 2026 and seized 23.2 pounds (about 10.5 kg) of suspected cannabis. [@1,3] They also recovered EC$765 in cash, which police described as suspected proceeds of drug activity, and put the street value of the drugs at EC$10,440. [@1,3]

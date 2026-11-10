@@ -106,7 +106,6 @@ open_questions:
   - The 1,139 cocaine doses are part of the same haul but are excluded from cannabis figures, and no combined drug total is used.
   - The four detainees were not named; one is a Peruvian national and all were adults. No charge wording, custody ruling or court outcome was published beyond the referral to the first-turn anti-narcotics prosecutor.
   - The seven photographs on the prosecutors' page are uncaptioned and the statement does not say what they show, so they are listed as media of this event but not established to depict specific items.
-  - ENREDACCIÓN's captioned photos of the raided homes could not be recovered as direct image addresses from the page, so no media entry was made for them.
 ---
 
 Four people, two men and two women, were detained in barrio Nueva Esperanza in

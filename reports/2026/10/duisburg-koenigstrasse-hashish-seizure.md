@@ -51,13 +51,9 @@ open_questions:
   - Police described the street cash only as a larger amount and the flat painkillers only as a not-insignificant amount.
   - No arrest or detention was reported, only a check, seizures, a flat search and pending proceedings.
   - It is unclear whether the suspected dealing in a not-insignificant amount refers to the hashish, the painkillers or the combination.
-  - The submitted page reprints the Duisburg police statement also opened via Presseportal, so corroboration comes from one account lineage.
-  - The submitted page carries only a stock placeholder image credited to Adobe Stock, so no event photo can be listed.
   - 31 October 2026 at about 00:30 is the street-check time; no separate date was given for the flat search, which was published on 3 November 2026.
   - 'Left out, as its quotation was not found in Polizei Duisburg: Duisburg police published this account on 3 November 2026, describing the Königstraße check and the Alleestraße search as one operation.'
   - Only the WAZ teaser could be read because the article body is paywalled, so this account adds no hashish weight, medication amount or cash total.
-  - WAZ writes that police 'hochgenommen' the dealer, while the existing report records only a check with no reported arrest or detention.
-  - The WAZ image shows the night-time Königstraße street scene, not the seizure itself, so no media entry is included.
   - The WAZ excerpt gives no independent check time; 31 October 2026 at about 00:30 comes from the earlier police account.
 ---
 

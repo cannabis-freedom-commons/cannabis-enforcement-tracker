@@ -134,12 +134,6 @@ open_questions:
   - No weights were published for the diazepam, tramadol, Exol-5 and pregabalin found at Tashan Banke, so only the 178.85 kg cannabis weight is recorded.
   - No charges or court outcome for the seven suspects were reported.
   - No street value for the Tashan Banke cannabis was published.
-  - No verified photo of the Tashan Banke raid was available; the submitted page lead image concerns the cocaine and ammunition cases, so no media entry was added.
-  - The page's two images depict the ammunition case, not the Tashan Banke cannabis raid, so no media entry was added.
-  - The new Blueprint account places the Tashan Banke arrest in Kaduna State, while the existing report places it in Kano State; the number of suspects, name, place name and 178.85 kg weight match.
-  - This Apex account places the Tashan Banke raid in Kaduna State while the existing report places it in Kano State; the suspect count, name, place name and 178.85 kg weight match.
-  - This account places the Tashan Banke raid in Kaduna State while the existing report places it in Kano State; the suspect count and 178.85 kg cannabis weight match.
-  - The submitted page is a multi-event roundup; this update uses only its Tashan Banke cannabis component.
 ---
 
 National Drug Law Enforcement Agency operatives raided a location in the Tashan

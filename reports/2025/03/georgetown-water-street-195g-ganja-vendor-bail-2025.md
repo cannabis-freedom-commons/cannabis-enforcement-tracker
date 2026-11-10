@@ -59,7 +59,6 @@ open_questions:
   - The defence says 140 grams were suspected at first while the charge concerns 195.5 grams; the report uses the charged amount.
   - The source describes the material only as suspected marijuana, with no laboratory confirmation reported.
   - The lawyer says the search took place at a stall about 20 yards from his client's, while the prosecution says the push cart was in Saran's stall; both accounts are given.
-  - The page image is a portrait of the accused, not a picture of the seizure or the court, so no media entry is given.
   - Coordinates mark central Georgetown near Stabroek Market, not the exact stall searched.
 ---
 

@@ -51,7 +51,6 @@ open_questions:
   - The five grams of cocaine is part of the same case but is not a cannabis figure and is recorded only in the text.
   - The article does not say what happened at the 15 October adjournment, whether the case was sent to the Supreme Court, or what penalty the charges could carry.
   - Only The Royal Gazette account could be found; no police statement or second outlet report was opened for this case.
-  - The page's only images are the site's own logo and subscription graphic, so no media is listed.
 ---
 
 Josephine Limberopoulis, 34, pleaded not guilty in Bermuda's Magistrates' Court

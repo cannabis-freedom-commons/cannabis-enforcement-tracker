@@ -80,12 +80,8 @@ sources:
 open_questions:
   - The article gives only its publication date of 3 November 2026 and no separate date for the raid, so the report uses the publication date as the incident date
   - Only one source reporting this event could be opened
-  - The page carries an image captioned only Khandwa News which does not establish what it shows, so no media entry is listed
   - No court outcome beyond registration of cases against the two men was reported
-  - The Times of India gives 100.7 kg for the second field's 111 plants, while the existing report gives about 100.339 kg for that field; the total 221 plants and 295.7 kg otherwise match.
-  - The Times of India was published on 4 November 2026 and says the seizure happened on Monday, while the existing report uses 3 November 2026 from the earlier outlet's publication date, so the exact raid date remains uncertain.
   - Name spellings differ between outlets as Jawar/Javar, Debri Faliya Kaisoon/Debri Falya Kaisun and tur/tuar, but the village, police, names, ages and plant counts identify the same event.
-  - The page image is captioned only with the headline and does not establish that it shows this seizure, so no media entry is listed.
   - Patrika gives the second field's weight as 1 quintal 700 grams, or 100.7 kg, matching the Times of India's 100.7 kg against the 100.339 kg figure already recorded, so the exact laboratory weight remains uncertain.
   - Patrika gives no total weight and no weight for the 110-plant first field, so the recorded 295.700 kg total and 195.361 kg first-field weight still rest on the earlier outlet.
   - Nai Dunia gives the two Javar fields' plant weights as 195.361 kg for the 110-plant field and 100.700 kg for the 111-plant field, totalling 295.700 kg, and puts the first field's value at about 19.54 lakh rupees; this matches the total weight already recorded but not the earlier about 100.339 kg figure for the second field.

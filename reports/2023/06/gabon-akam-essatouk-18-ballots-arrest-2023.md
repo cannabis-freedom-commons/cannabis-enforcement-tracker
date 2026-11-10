@@ -52,7 +52,6 @@ open_questions:
   - No separate incident date was given; 14 June 2023 is the publication date of both accounts.
   - No court outcome beyond remand to Oyem's Peloton prison for purchase and possession was reported.
   - Both accounts draw on the same L'Union report; no independent second outlet was found.
-  - The Gabon Media Time page image is captioned only as an illustrative picture of cannabis bundles, so no media entry is included.
   - 'Akam-Essatouk : un trafiquant de cannabis interpellé avec 18 ballots (L''Union) could not be opened again to check its quotations (the browser-rendered page has almost no readable article text (it may require a login, show an access challenge, or contain only media); archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.'
 ---
 

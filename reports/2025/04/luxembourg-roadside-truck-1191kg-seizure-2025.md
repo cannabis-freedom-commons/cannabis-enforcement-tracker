@@ -34,7 +34,6 @@ tags: [customs, roadside-check, hashish]
 open_questions:
   - The stop took place in the week before the 7 April 2025 announcement; its exact date and place were not stated.
   - The origin and destination of the load were not stated.
-  - The only photo published with the account is stock imagery, so no media is listed.
   - The article still gives no exact date or place for the roadside inspection, only that it took place in the week before the 7 April 2025 announcement.
   - The origin and destination of the truck and its load were not reported.
   - No investigation result or court outcome was reported at that stage.

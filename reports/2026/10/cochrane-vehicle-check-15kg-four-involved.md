@@ -78,16 +78,9 @@ open_questions:
   - No names, weights for the cultivation items, or court outcome were reported.
   - Only one source for this event was opened; no second account confirming the seizure was found.
   - The page's lead photograph could not be verified as showing this seizure, so no photo is listed.
-  - The submitted page gives no readable publication date in the opened text, so no source date is recorded.
   - The page image has only a file-name caption and no verifiable description, so it is not listed as media showing this seizure.
   - The new account reports 1 kilo 440 gramos overall while also saying about 1 kilo y medio was seized inside the house, leaving the exact split between the vehicle and the house unclear.
-  - The page's lead photograph carries no caption establishing that it shows this seizure, so no media entry is added.
   - The new source reports 1 kilo 440 gramos seized overall while quoting the officer as saying about 1 kilo y medio was seized inside the house, leaving the exact split between the vehicle and the house unclear.
-  - The submitted page reports 1 kilo 440 gramos seized overall while quoting about 1 kilo y medio seized inside the house, leaving the exact split between the vehicle and the house unclear.
-  - The new outlet omits the vehicle-check evasion origin and the three people found in the house, focusing only on the single accused held in preventive prison, while the existing report records four people held.
-  - The new source gives a gross weight of one kilo 440 grams while the existing report rounds to about 1.5 kg, leaving no material discrepancy but no separate vehicle-versus-house split.
-  - The page carries a lead image with no caption or credit establishing that it shows this seizure, so no media entry is added.
-  - The Radio Las Nieves page carries a lead image captioned only with a file name, which does not establish that it shows this seizure, so no media entry is added.
   - The opened page gives only relative age (5 days) with no readable publication date, so no source date is recorded.
 media:
   - kind: photo

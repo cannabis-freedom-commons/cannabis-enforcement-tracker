@@ -92,15 +92,10 @@ sources:
     language: id
 open_questions:
   - Only one accessible source for this event was found after searching in Indonesian and English, so no second outlet corroborates the account.
-  - The article page carries a photograph with no caption or alt text establishing that it shows this seizure, so no media entry is included.
   - The 15.36 grams of methamphetamine are mentioned only to explain the mixed seizure and are excluded from cannabis figures under the substance scope.
   - The report does not state whether the 2,210-gram cannabis total is net or gross weight.
   - No court outcome beyond accusation under Article 114(2) was reported; the investigation was still under way and no trial date was given.
-  - This Harian Singgalang account states the Article 114(2) charge carries a 12-year prison threat, while the existing report describes a 6-year minimum and a 20-year or life maximum for the same charge.
-  - The page photograph is captioned only with the article title and carries no credit or description establishing that it shows this seizure, so no media entry is included.
-  - The new accounts describe the Article 114(2) penalty as 12 years' imprisonment, with Sakato saying a maximum of 12 years and Salingka Media saying a minimum of 12 years, while the existing report gives a 6-year minimum and a 20-year or life maximum for the same charge.
   - Mediahub Polri describes the Article 114(2) charge's threatened prison term as 12 years, another figure in a series that already differ across outlets covering this case; the penalty detail remains unresolved.
-  - The Mediahub page labels its only photograph "Main" with no credit or description identifying it as a picture of this seizure, so no media entry is added.
   - Sumbarkita gives the men's roles in more detail than earlier accounts, calling AS the owner or dealer (bandar) of the drugs and FH only his companion on the trip to Pekanbaru, without saying on what evidence that distinction rests.
   - Sumbarkita reports no charge, court date or outcome for the two men.
   - Kabar Minang describes a rucksack search with two large cannabis packets while the report and other accounts describe a search at the arrest site; the sequence is not fully consistent.

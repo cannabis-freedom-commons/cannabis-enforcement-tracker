@@ -60,7 +60,6 @@ open_questions:
   - The suspect's name was not published.
   - No court outcome beyond the expected first appearance in Upington was reported.
   - The almost R400,000 street value is a police estimate, not an audited figure.
-  - No photo with a caption tying it to this seizure could be verified, so no media entry is included.
 ---
 
 Northern Cape police arrested a 46-year-old truck driver for dealing in dagga at

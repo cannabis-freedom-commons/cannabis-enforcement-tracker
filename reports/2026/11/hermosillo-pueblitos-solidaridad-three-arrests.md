@@ -30,7 +30,6 @@ open_questions:
   - The substances are described only as possibly or apparently crystal and marijuana, with no laboratory confirmation reported.
   - No charges or court outcome were reported beyond the detentions.
   - Only one account of the event could be opened; a search for a second outlet report or a police statement in Spanish found none.
-  - The page's photograph is a 2023 file image captioned only with the headline, so no media entry is given.
 ---
 
 Municipal police in Hermosillo arrested three people in separate stops on Sunday

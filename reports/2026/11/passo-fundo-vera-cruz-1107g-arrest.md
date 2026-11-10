@@ -50,7 +50,6 @@ open_questions:
   - No amount of cash, quantity of ammunition, or drug value was published, so no value or fine is recorded.
   - The man's name and age were not published.
   - No charge or court outcome beyond transfer to the police station for registration and legal procedures was reported.
-  - The article page shows a photo without a caption establishing that it shows this seizure, so no media entry is included.
   - Both accounts repeat the police version of the incident; no separate agency statement was opened directly.
 ---
 

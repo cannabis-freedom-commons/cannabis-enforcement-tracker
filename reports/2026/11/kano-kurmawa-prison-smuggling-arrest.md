@@ -64,16 +64,10 @@ open_questions:
   - No weight, packaging detail or value for the suspected cannabis was published.
   - The suspect was not named, and no charges or court outcome were reported after he was handed to the NDLEA for further investigation.
   - All three accounts report the same Correctional Service command statement, so no independent account of the interception was available.
-  - The only image on the opened page is a Kano State map illustration that does not show this event, so no media entry is listed.
-  - The submitted page gives only its publication date of 2 November 2026 and no separate day or time for the interception.
-  - The only image address supplied with the page has no caption or credit establishing that it shows this interception, so no media entry is listed.
   - 'Left out, as its quotation was not found in Gistmania: Officers of the Nigerian Correctional Service Kano State Command arrested a 40-year-old man for allegedly attempting to smuggle suspected cannabis into a custodial facility in Kano State.'
-  - The page's lead prison image carries an August 2025 file address and a general prison caption, so it does not show this interception and no media entry is listed.
   - The article's mention of an August 2026 drug-smuggling arrest at Ibara, Abeokuta is a separate event left out here.
-  - The page's only supplied image uses a July 2025 file address with a general prison caption, so it does not show this interception and no media entry is listed.
   - The new account gives no separate day for the noon interception beyond its 2 November 2026 publication date, so the Sunday dating rests on earlier accounts.
   - The new account spells the spokesperson's name as CSC Musbahu Lawan Knassarawa, differing from the Kofarnassarawa spelling in earlier accounts.
-  - The only supplied image is captioned about an unrelated Rivers matter with a 2025 file address and does not show this interception, so no media entry is included.
 ---
 
 Officers of the Nigerian Correctional Service Kano State Command arrested a

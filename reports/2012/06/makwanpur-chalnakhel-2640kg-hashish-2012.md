@@ -48,7 +48,6 @@ open_questions:
   - The article gives 11 June 2012 as its publication date and no separate date for the operation.
   - The article says "four people" were arrested but names five men; the report counts the five named.
   - Only one outlet's account of this seizure could be opened.
-  - The page's photograph of the seizure is no longer served (its image address returns 404), so no media entry was added.
 ---
 
 Nepal police seized 2,640 kilograms of crude hashish at Chalnakhel in Setidevi, Makwanpur district, in what the force called the biggest narcotic consignment ever caught in the country. [@1] Officers found the drug packed in 88 plastic bags and said it was worth millions in the local market, with a far higher value internationally. [@1]

@@ -59,7 +59,6 @@ open_questions:
   - The 240 per cent increase and the 2025 comparison cover NDPS cases generally, not cannabis cases.
   - The separate lines on the SOG's Rs 7 crore hybrid ganja case, the joint operation with Surat crime branch, Gujarat police's Rs 3,000 crore statewide seizure and the supply-point descriptions are background from the same article and are not counted in this report's figures.
   - No charges, convictions or court outcomes for the 188 cases were reported.
-  - The submitted page's lead photograph carries only a headline caption and no credit, so no media entry was added.
   - The preview text of this page carries only the aggregate ten-month tally and does not state the period's start or end month.
   - No cannabis-only weight, plant count or number of cannabis cases was visible on this page, so the tally remains unseparated from other narcotics.
 ---

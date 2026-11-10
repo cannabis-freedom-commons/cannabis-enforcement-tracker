@@ -60,7 +60,6 @@ open_questions:
   - The Operativmm.az page shows its own publication date as 25 July 2025 while it describes 24 July in a report on the same figures, so whether it reports the same 2026 operation is not certain.
   - No area of land cleared and no suspects, arrests or criminal case were reported.
   - The four tonnes is the combined weight of the uprooted wild plants, not dried cannabis, and is therefore not recorded as kilograms seized.
-  - The ministry's own press release could not be opened directly, and the reported pages carry generic file photos of burning cannabis dated 2022, so no media entry is included.
   - The text gives a weight ("45.3 kg") but the figures have no kg_seized; check whether it belongs there.
   - 'Ötən gün 20 tona yaxın çətənə kolu məhv edilib (Operativmm.az) could not be opened again to check its quotations (access challenge: Cloudflare blocked access to the article; archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.'
 ---

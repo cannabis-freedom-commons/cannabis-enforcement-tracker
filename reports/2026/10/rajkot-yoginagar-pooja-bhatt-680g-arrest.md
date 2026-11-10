@@ -43,7 +43,6 @@ open_questions:
   - Only one accessible source for this event was found after searching; no agency statement or second outlet account could be opened.
   - The cannabis alone was valued at Rs 23.80 lakh while drugs plus other items totalled Rs 23.91 lakh; figures record the cannabis-only value and the other seized items were not detailed.
   - No charges, remand outcome or court result beyond the planned remand request were reported.
-  - The page image has no caption, alt text or credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Rajkot city SOG police raided a house in Yoginagar under the University police

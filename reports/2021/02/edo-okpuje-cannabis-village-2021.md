@@ -49,7 +49,6 @@ sources:
 open_questions:
   - The NDLEA announced the raid on 6 February 2021 without giving the raid's own date, so 6 February is the announcement date.
   - The reports do not say whether the seven arrested men were charged.
-  - No photo of the warehouses with a recoverable direct address was found, so no media entry was added.
 ---
 
 Edo State's NDLEA command found a cannabis village of four large warehouses holding 233,778 kg

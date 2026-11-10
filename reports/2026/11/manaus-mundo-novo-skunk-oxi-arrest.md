@@ -64,11 +64,7 @@ open_questions:
   - No charge, custody decision or court outcome beyond presentation at the 6th DIP was reported.
   - Only one accessible outlet account of this event was found after searching in Portuguese, with no agency statement opened.
   - The page still photos are credited only as Divulgação without descriptive captions establishing that they show this arrest or seizure, and one thumbnail advertises an unrelated missing-persons story, so no photo entry is included.
-  - The new account says the suspect was taken to the 1º Distrito Integrado de Polícia, while the existing report says the 6th DIP.
-  - The new account lists R$950 and a card machine, while the existing report lists cash without an amount and a precision scale.
-  - The new account says another man fled by jumping the property wall while the detained youth tried separately to escape, while the existing report says Menino Ney himself tried to flee by jumping the wall.
   - The new account describes the cannabis only as portions of maconha and does not specify skunk.
-  - The A Crítica page image uses a business-card template file name with only a generic Divulgação credit and caption, which does not establish that it shows this arrest or seizure, so no media entry is included.
 ---
 
 Military police arrested 19-year-old Edney da Silva Lima, known as Menino Ney,

@@ -60,7 +60,6 @@ open_questions:
   - Only one source reporting this event could be opened; a search for a second report found no accessible result.
   - The article's reference to a June 2025 incineration of more than one tonne of marijuana, cocaine and other drugs is a separate event left out of this report.
   - Unrelated police items listed on the page, including cocaine and crack seizures, are separate events left out of this report.
-  - The page carries an image captioned only as PF, which does not establish that it shows this incineration, so no media entry is included.
 ---
 
 Brazil's Federal Police incinerated about 500 kilograms of marijuana in the

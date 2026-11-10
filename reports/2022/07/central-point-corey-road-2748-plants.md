@@ -77,7 +77,6 @@ open_questions:
   - A separate Jackson County raid on the 6000 block of Foley Road two days earlier, reported by the Herald & News, is a different event and is not covered here.
   - The $18,000 is the total of Code Enforcement citations for land-use and environmental violations, not a fine imposed by a court.
   - The article gives no area for the greenhouses or the property and no street value for the plants or processed marijuana.
-  - The KDRV page's four photos carry no caption or credit tying them to this raid, so no media entry is added.
 ---
 
 Detectives from the Illegal Marijuana Enforcement Team, drawn from the Jackson

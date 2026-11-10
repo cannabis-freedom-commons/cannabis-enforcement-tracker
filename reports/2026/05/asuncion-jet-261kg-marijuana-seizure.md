@@ -91,13 +91,6 @@ open_questions:
   - Infobae attributes Brown's release to the prosecutor's finding that there were no grounds to suspect him, and gives his age as 21; the report says he was 20 and that a SENAD representative said investigators found no evidence he knew about the drugs.
   - Infobae says Keith Siilats was not charged and left Paraguay on a commercial flight before the operation; the report records an arrest warrant against him, and that difference is unresolved.
   - The new names, detention order and charter payment rest on Infobae's summary of EFE, AP and ABC; no SENAD, prosecutor or court document was opened directly.
-  - The submitted article dates the seizure and arrests to Saturday, which would be 30 May 2026, while the existing report dates the discovery to 29 May; the calendar day remains unresolved.
-  - The submitted article gives only a per-kilogram estimate of about 14,000 dollars in Brazil and no total value, while the existing report keeps the 3.6 million-dollar total from later official accounts.
-  - Clarín gives the flight as coming from Miami and names no Panama stopover, while the existing report records a stop in Panama.
-  - Clarín dates the arrests to the night of Saturday 30 May, while the existing report dates the discovery and arrests to 29 May; the calendar day is still not reconciled.
-  - Clarín says Brown was released because investigators believed he probably did not know about the load, and that the other three were charged with international drug trafficking; the existing report notes Brown's release but records no charges for the three, whose charging was reported by Infobae.
-  - Clarín gives no total value for the load, so the existing report's US$3.6 million estimate is not corroborated by this account.
-  - The three pictures on the Clarín page include a Senad handout of the detainees and a MrBeast video still; only the link is recorded here, and the existing report already carries a SENAD-based image from InSight Crime.
 ---
 
 20-year-old influencer and co-pilot Jabari Stephen Brown, known as Captain

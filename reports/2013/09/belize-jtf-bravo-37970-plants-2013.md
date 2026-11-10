@@ -46,7 +46,6 @@ open_questions:
   - No arrests, charges or court outcomes were reported for the operation.
   - The reports do not name the districts where the 22 fields were located.
   - The source gives the value as $13 million without naming the currency; it is recorded as USD as a US military estimate.
-  - No direct photo or video address for this event could be recovered from the opened page, so no media entry is included.
 ---
 
 The U.S. Embassy Military Liaison Office in Belmopan and Joint Task Force-Bravo

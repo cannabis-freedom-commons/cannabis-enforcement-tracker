@@ -100,12 +100,9 @@ open_questions:
   - Two reports put the arrest at about 9:30 pm; a third put it at about 10 pm.
   - One report said the car, driver and ganja were taken to Guimara police station, while the officer quoted is from Ramgarh police station; the reports do not explain the reference.
   - The three accounts quote the same police officer and largely repeat the same wording; no independent reporting or police statement page was found.
-  - This account names the driver as Md. Khalid Hossain of Ratu Mirapada, Ward 1, while the existing report names Syed Mohammad Khaled of Swanirbhor; both give age 29 and father Humayun Kabir, and the correct spelling and address remain unresolved.
   - This account places the interception at midnight on Saturday, adding to the earlier 9:30 pm and 10 pm timings without resolving the exact hour.
   - This account mentions only two sacks and does not mention the 80 packets, the Dhaka Metro-Kha-11-7209 plate, or the court presentation, which remain supported only by the earlier reports.
   - This account describes the Narcotics Control Act case as still being processed, while earlier reports describe it as filed with the accused sent to Khagrachhari court, likely reflecting different reporting times.
-  - This account says local people themselves chased and stopped the car at Nakapa Bazar, while the existing report says locals informed the Hafchhari police outpost and officers chased it.
-  - This account describes the Narcotics Control Act case as still being processed, while the existing report records it as filed with the driver sent to Khagrachhari court, likely reflecting different reporting times on 1 November 2026.
 ---
 
 Police in Ramgarh, Khagrachhari, recovered 40 kg of ganja, the local word for

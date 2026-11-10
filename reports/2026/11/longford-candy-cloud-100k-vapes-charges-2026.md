@@ -51,7 +51,6 @@ open_questions:
   - The ages are ambiguous, giving Qasim as 31 and Qasim and Ahsan Rasool (38) at the remand passage, so no ages are stated in the report.
   - Gardaí said all seized products were believed illegal pending Forensic Science Ireland opinion, while the defence said some vapes are legal; how many are illegal is still to be confirmed.
   - Only one opened source could be found and no second outlet confirming the hearing was located; searches for the brothers, Candy Cloud and the July operation returned no accessible corroboration.
-  - The page image is captioned only Qasim and Ahsan Rasool and is not confirmed to show the seizure, raid or exhibits, so no media entry is added.
 ---
 
 Qasim and Ahsan Rasool of 4 Cloverwell, Edgeworthstown, county Longford, who are

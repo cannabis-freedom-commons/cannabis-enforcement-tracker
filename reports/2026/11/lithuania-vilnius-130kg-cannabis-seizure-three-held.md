@@ -141,7 +141,6 @@ open_questions:
   - The account dates the operation only to last week and gives no separate day for the searches.
   - The Turkish page is a translation of an ELTA wire story and reproduces the same Vilnius county police statement already cited, so it is not independent reporting of the operation.
   - The Turkish headline calls the 3-CMC "kristal metamfetamin", while its body correctly names 3-chloromethcathinone (3-CMC); the body text is followed and the 3-CMC is not counted as cannabis.
-  - The page's lead image is a 2023 stock police photograph credited to Karolina Gudžiūnienė, not confirmed to show this seizure, so no media entry is added.
   - The Ukrainian page is an ELTA wire translation and adds no independent reporting beyond the Vilnius county police statement already cited.
   - Like the other accounts, it gives about 130 kilograms rather than a measured weight and does not say whether the cannabis was dried flower or another product.
   - Its call that the 3-CMC is known as crystal (кристал) appears in the headline as "crystalline methamphetamine"; the body names 3-chloromethcathinone, and the 3-CMC is not counted as cannabis.

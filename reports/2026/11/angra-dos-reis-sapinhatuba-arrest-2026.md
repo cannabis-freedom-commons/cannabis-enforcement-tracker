@@ -41,7 +41,6 @@ open_questions:
   - The names and ages of the man and the adolescent were not published; both are counted together as two detained people.
   - No charges, custody decision or court outcome were reported.
   - Only one accessible source for this event was found after searching in Portuguese.
-  - The page images carry only generic generated captions and are not established to show this seizure, so no media entry is included.
   - Cocaine, crack and ecstasy quantities are mentioned only to explain the mixed seizure and are excluded from cannabis figures, and no drug value was published.
 ---
 

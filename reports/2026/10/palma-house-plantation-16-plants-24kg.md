@@ -87,10 +87,6 @@ open_questions:
   - The identity, age and nationality of the arrested man and any later charge or court outcome were not published.
   - The weighing basis for the 21 kg of branches and 3 kg of buds, and whether the branch weight includes non-consumable stalk material, was not specified.
   - No value, plant destruction method, or cultivation-site size was published.
-  - The new account says 'más de tres kilos de cogollos' while the existing report records three kilograms; the shared supported description remains three kilograms.
-  - The Europa Press page carries a photo whose content cannot be confirmed from its caption alone, so no media entry is added.
-  - This account says 'más de tres kilos de cogollos' while the existing report records three kilograms; the shared supported description remains three kilograms.
-  - This account says more than three kilos of buds while the existing report records three kilograms; the shared supported description remains three kilograms.
   - The article was published on 1 November 2026 and says the operation ended the previous Wednesday, so 28 October 2026 is used as the incident date by inference.
 ---
 

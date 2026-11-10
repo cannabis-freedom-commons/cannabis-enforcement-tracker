@@ -43,7 +43,6 @@ open_questions:
   - The page URL slug refers to 230 grams while the headline and body state 2.30 grams; the report uses the body figure of 2.30 grams.
   - No charges, custody decision or court outcome were reported.
   - Only one accessible source for this event was found after searching in English and Hindi.
-  - No usable photograph of the event was available; the captured source_images entry contains only the article URL rather than a direct image address, so no media entry is included.
 ---
 
 In Barhara in Bhojpur district, Bihar, officers of Babura police station

@@ -42,7 +42,6 @@ open_questions:
   - The 401-gram figure is the police recovery figure; no independent laboratory weight was published.
   - No charge details, custody ruling or court outcome were reported; the case was described as under further investigation.
   - Only one accessible source for this event was found after searching in English and Hindi.
-  - The page image uses a 2021 Panchkula file address and is not established to show this seizure, so no media entry is included.
 ---
 
 Panchkula's Anti-Narcotic Cell team arrested a youth at the Sector-20 grain

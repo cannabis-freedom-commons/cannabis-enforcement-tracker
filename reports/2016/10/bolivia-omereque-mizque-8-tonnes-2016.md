@@ -39,7 +39,6 @@ sources:
     date: 2016-10-25
 open_questions:
   - No number of arrested growers was published.
-  - No photo confirmed to show these raids was available, so no media entry was added.
   - The High Times piece is a cross-post of the Global Ganja Report account; the La Razon and Prensa Latina pages both outlets cite could not be reopened.
 ---
 

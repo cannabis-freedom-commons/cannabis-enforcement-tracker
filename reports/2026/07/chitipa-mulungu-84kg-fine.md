@@ -41,7 +41,6 @@ created_by_model: unknown
 tags: [chitipa]
 open_questions:
   - The Guardian gives 84.6 kilograms while Face of Malawi rounds to 85 kilograms; the report uses 84.6.
-  - The photos on the source pages could not be verified to show this case, so no media entry was added.
 sources:
   - title: Man fined K1 million for cultivating cannabis in Chitipa
     url: https://malawiguardian.com/man-fined-k1-million-for-cultivating-cannabis-in-chitipa/

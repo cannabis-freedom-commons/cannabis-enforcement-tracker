@@ -42,7 +42,6 @@ open_questions:
   - Two arrests in Giza in the same sweep involved only heroin with no cannabis reported and are excluded from the cannabis arrest and seizure figures.
   - No names, charges or court outcomes were reported; police only said legal measures were taken.
   - Only one accessible source for this event was found after searching in Arabic and English.
-  - No event photo was available on the page, so no media entry is included.
 ---
 
 Egypt's Public Security sector working with the Luxor, Giza, Aswan and Fayoum

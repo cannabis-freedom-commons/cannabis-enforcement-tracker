@@ -54,8 +54,6 @@ open_questions:
   - The defendant was not named in the article.
   - Strox was reported alongside the hashish, but no separate weight was published, so no cannabis quantity can be separated and strox is not counted in cannabis figures.
   - Only one accessible source for this event was found after searching in Arabic.
-  - The page photo caption only repeats the headline and does not establish that it shows this seizure, so no media entry is included.
-  - The Masrawy page image is captioned as illustrative ('تعبيرية عن حبس متهم') and reuses a 2017 stock photo, so it does not show this seizure and no media entry is included.
 ---
 
 The Cairo Criminal Court sentenced one man to six years of rigorous imprisonment

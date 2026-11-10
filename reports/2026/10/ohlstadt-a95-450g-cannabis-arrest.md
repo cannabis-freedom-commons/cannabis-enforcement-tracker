@@ -41,7 +41,6 @@ sources:
 open_questions:
   - The control is dated only as the night to Saturday around 1:15 in an article published 2 November 2026; 31 October 2026 is used as the incident date for the preceding Saturday.
   - No second report of this stop could be opened, so the account relies on a single outlet's police-based report.
-  - The page's only photo is captioned as a symbol image of a police patrol car and does not show this seizure, so no media entry is added.
   - The reports give no name for the detained man and no court outcome beyond the pretrial-detention warrant.
 ---
 

@@ -41,7 +41,6 @@ open_questions:
   - No charges, custody ruling or court outcome beyond the announced criminal report and referral to prosecutors were reported.
   - The suspect is identified only by the initials NB and his age, 48; his full name was not published.
   - Only one opened source supports this event; no second account or agency statement was found.
-  - No event photograph is available; the page's only image is a stock illustration credited to Pixabay, so no media entry is included.
 ---
 
 Members of the Belgrade police arrested N.B., a 48-year-old citizen of

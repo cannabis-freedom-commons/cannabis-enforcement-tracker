@@ -49,7 +49,6 @@ open_questions:
   - No arrests, names of growers, charges or court outcomes were reported; the growers at the witnessed clearing were absent.
   - No plant count or weight for the witnessed Hhohho clearing was published, so only the seven-month 2,407 kg and 356.5 ha totals are recorded.
   - Only one opened account of this event was found after searching in English.
-  - The page shows a photo of an anti-drug member spraying plants near the Nkomazi River, but its direct image address could not be recovered from the page markup, so no media entry is listed.
 ---
 
 A unit of 30 police officers trekked 5 km through rugged terrain in the northern

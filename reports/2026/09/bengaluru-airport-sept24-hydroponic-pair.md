@@ -45,7 +45,6 @@ sources:
 open_questions:
   - Only one source could be found for these two interceptions.
   - The article does not state under which law the two 24 September passengers were held or give a court outcome.
-  - The article's photograph is a staged stock-style image, not this seizure, so no media is listed.
   - The same article's 3.12 kg and 14.97 kg seizures, announced the following Monday, are a separate event recorded separately.
 ---
 

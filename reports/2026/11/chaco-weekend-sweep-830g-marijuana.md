@@ -46,7 +46,6 @@ open_questions:
   - No names, drug charges or court outcomes were reported.
   - The two outlets carry the same police account with identical figures, so no independent agency statement was found.
   - The 446 contraventional notifications and the zone breakdowns of 26, 11, 12, 107, 173 and 117 notified people are administrative counts, not arrests, and are not counted in figures.
-  - The page carries a lead photo with an empty caption and no credit linking it to the marijuana, so no media entry is listed.
   - The Caminera road-police line reporting 282 infraction reports and 10 positive alcohol tests is a separate traffic line left out here.
 ---
 

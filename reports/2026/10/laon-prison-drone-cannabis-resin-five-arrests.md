@@ -54,7 +54,6 @@ open_questions:
   - No weight was published for the cannabis resin found in the car, so the cannabis figure covers only the 101.95 grams found in the cell.
   - The cocaine and crack weights are excluded from the cannabis figures, and no combined drug total is attributed to cannabis.
   - The events spanned the night of 26 to 27 October 2026, and 27 October is used as the incident date.
-  - The submitted page's photo is marked as an illustration and the L'Union image is not confirmed to show this seizure, so no media entry is listed.
   - No names or ages were published and the outcome of the 22 December hearing is not yet known.
   - L'Aisne nouvelle attributes its account to L'Union and both outlets belong to the same press group, so they are not fully independent reporting.
   - 'Left out, as its quotation was not found in L''Union: The events took place during the night of 26 to 27 October 2026 and were disclosed by police on 5 November on the Aisne national police Facebook page.'

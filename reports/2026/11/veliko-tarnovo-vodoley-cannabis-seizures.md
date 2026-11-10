@@ -52,7 +52,6 @@ open_questions:
   - The amphetamine found in the lorry and the cocaine found in Vodoley are mentioned only to explain the mixed seizures and are excluded from cannabis figures.
   - No charges or court outcome were reported for either possession case.
   - The bulletin dates the checks to yesterday relative to its 4 November 2026 publication, so 3 November 2026 is used as the incident date.
-  - The page image carries the same headline with no caption establishing that it shows these seizures, so no media entry is included.
   - Only the Utro Ruse reprint could be opened in this review; its BTA original was not reopened separately.
   - The same bulletin also reports a 30-year-old Ukrainian driver held for drug-driving, which is already recorded in veliko-tarnovo-ukrainian-drug-driver-held and is left out here.
 ---

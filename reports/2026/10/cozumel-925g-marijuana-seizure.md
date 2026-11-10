@@ -56,7 +56,6 @@ open_questions:
   - The broader weekly totals of 219 detained, 3,112 doses, 61 vehicles and a firearm cover all substances and offences and are excluded from cannabis figures; only the Cozumel marijuana weight is counted.
   - Other highlighted detentions involve doses described as various or unspecified narcotics and cannot be attributed to cannabis, so they are left out of cannabis figures.
   - The accounts appear to rest on the same SSC official report and are not independent confirmation.
-  - The submitted page image is credited only as Especial for the weekly totals and the second-source photos lack recoverable direct image addresses or a caption establishing they show this seizure, so no media entry is included.
 ---
 
 On 28 October 2026, authorities seized a package containing 925 grams of dried

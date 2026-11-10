@@ -67,9 +67,7 @@ open_questions:
   - The 55 boxes of Benylin with codeine are a non-cannabis seizure in the same sweep and are excluded from cannabis figures.
   - The operations occurred on the Tuesday before the 4 February BBC report; 3 February 2026 is used as the incident date from the 3 February Zambian report of the DEC briefing that day.
   - No court outcome beyond detention and expected court appearance was reported.
-  - The photo caption and DEC handout origin are as published by the BBC; the direct image address is from the submitted page's image data.
   - The article is paywalled after its opening paragraphs, so only the arrest, identity, Lilayi location, 1,380.8 kg quantity and watch-list detail could be read.
-  - The existing report dates the incident to the 3 February 2026 DEC briefing; this source was published 4 February 2026 reporting that Tuesday briefing.
 ---
 
 Zambia's Drug Enforcement Commission arrested 40-year-old Tanzanian national

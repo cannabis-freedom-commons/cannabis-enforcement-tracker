@@ -88,15 +88,12 @@ open_questions:
   - The main report gives four people arrested overall, but only two cannabis cases; the other two detainees were held with 110 yaba tablets (a methamphetamine pill) by the district detective branch, and their count and tablets are not included in the cannabis figures.
   - The 38 kg and 50 g figures sum to 38.05 kg, while the leads describe the haul as 38 kg 50 g (38.5 kg) in total; the report uses the stated total of 38.5 kg.
   - Some Bengali versions of the headline render the total as 38.05 kg, so the combined weight should be read as the authorities' own roll-up of the two seizures.
-  - Ratdin News says the 38 kg were found in the second-floor room of the suspect's two-storey house at Ghop Uttarpara in Kochua union; the submitted page names the house as his.
   - No value estimate, charge section, plea or outcome for the 38 kg case was published; neither account gives the full name of the sub-inspector who filed that case.
   - Sub-Inspector Rafiza Khatun prosecuted the Kazipara Kathaltala case and the fine was TK 200; neither account reports whether the 14-day sentence will be appealed.
-  - The article photo on the submitted page has no caption and is not confirmed to show the seized ganja or the suspects, so it is listed as a link without a claim about its content.
   - Ratdin News gives no court venue or magistrate detail for the 38 kg regular case beyond the Kotwali Model police station case record.
   - Left out activity, as its quotation was not found in রাত দিন নিউজ (Ratdin News).
   - Banglanews24 gives the first drive's suspect an age of 35 and says the ganja was recovered from his house; it does not say how the 38 kg and 50 g were weighed separately at each site.
   - Banglanews24 credits the Ghop Uttarpara search to sub-inspector Shahriar and the Kazipara Kathaltala prosecution to sub-inspector Rafiza Khatun, the first account read to name the second drive's prosecuting officer.
-  - Ekushey Sangbad gives the combined haul as 38 kg 50 g, the same roll-up as the existing report, while its headline says 38 kg.
   - The page does not report the outcome of the regular case over the 38 kg seizure or whether the 14-day sentence will be appealed.
 ---
 

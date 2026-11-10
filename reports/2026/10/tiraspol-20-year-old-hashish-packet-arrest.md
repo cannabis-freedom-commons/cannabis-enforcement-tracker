@@ -46,7 +46,6 @@ open_questions:
   - No charge, custody decision or court outcome was reported; a pre-investigation check was under way.
   - The man was identified only by age and residence in Tiraspol; no name was published.
   - Only one accessible source for this event was found after searching in Russian and English.
-  - The page image is captioned as the outlet's archive and is not established to show this seizure, so no media entry is included.
 ---
 
 Criminal-investigation officers of the capital's militia in Tiraspol detained a

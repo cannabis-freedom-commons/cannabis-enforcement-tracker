@@ -60,7 +60,6 @@ open_questions:
   - Only Haile faces the cannabis charges; no weight of the cannabis he is accused of holding was published.
   - Haile was described as a recidivist, but no earlier conviction is recorded here; TVMnews reported a Solomon Haile of the same nationality pleading guilty in an earlier Paceville cannabis case, and that link is not confirmed.
   - Whether anyone else was detained or charged over the third person seen with the two men is not reported.
-  - The photograph on the Times of Malta page is credited to AFP and does not show the arrest itself, so no media entry is listed.
 ---
 
 Two men pleaded not guilty in Malta on Monday to drug charges including

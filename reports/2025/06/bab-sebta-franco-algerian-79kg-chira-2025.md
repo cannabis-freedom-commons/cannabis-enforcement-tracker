@@ -51,7 +51,6 @@ open_questions:
   - The suspects' names and ages were not published.
   - No street value for the 79 kg was published.
   - No court outcome was reported; the judicial investigation was still under way.
-  - The H24 page photo is captioned as a previous 40 kg seizure at Bab Sebta used as illustration, so it does not show this event and no media entry is included.
   - The same articles also report a 7,050 kg seizure in a truck at Tanger Med the same night, a separate event recorded elsewhere and left out here.
 ---
 

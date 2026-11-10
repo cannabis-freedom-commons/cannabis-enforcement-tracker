@@ -42,8 +42,6 @@ open_questions:
   - No charge, court date or outcome was reported; enquiries were continuing and the man remained in custody.
   - The exact street address of the searched property was not published, only Aylesbury.
   - Cocaine allegations are mentioned only to explain the mixed event and are excluded from cannabis figures.
-  - The Bucks Herald page shows a generic image captioned Police booking someone, which does not establish that it shows this arrest, so no media entry is included.
-  - The Bucks Free Press page image is a map graphic of Aylesbury, not a photo of this warrant or arrest, so no media entry is included.
   - Only two local news accounts of the same warrant and arrest were opened; no separate Thames Valley Police statement page was opened directly.
 ---
 

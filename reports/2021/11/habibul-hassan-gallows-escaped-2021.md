@@ -45,7 +45,6 @@ sources:
 open_questions:
   - The two outlets date the decision differently, with the Malay Mail reporting it on 25 November and The Business Standard on 26 November; this report uses the Malay Mail's dateline.
   - The reports do not say whether the prosecution appealed further to the Federal Court.
-  - The Malay Mail's photo is a 2017 stock image of the courthouse, not the proceedings, so no media entry was added.
 ---
 
 On 25 November 2021 a three-member Court of Appeal panel in Putrajaya set aside the conviction and death sentence of Mohammad Habibul Hassan Khan, a 26-year-old Bangladeshi engineering student, for trafficking 3,875.66 grams of cannabis. [@1,2] The panel, led by Justice Hanipah Farikullah with Justices Che Mohd Ruzima Ghazali and Mariana Yahya, held that the appeal had merit because the prosecution had failed to prove the element of knowledge. [@1,2]

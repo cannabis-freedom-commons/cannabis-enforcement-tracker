@@ -60,7 +60,6 @@ open_questions:
   - The 421 kg shipped in August 2024 is described as sent, not as seized, so it is kept out of the seized total; only the 650 kg plus the 5 kg found in searches are counted as seized.
   - The number of accomplices arrested at Fort-de-France on arrival is given only as several, so only the five suspects placed in custody and charged are counted as arrested.
   - The eight-million-euro figure is the authorities' estimate for the suspected tonne-plus total, not a valuation of the 650 kg alone.
-  - No captioned photo confirming this seizure could be verified from the opened page, so no media entry is included.
 ---
 
 The OFAST Caraïbes anti-drug office opened an investigation in June 2024 after

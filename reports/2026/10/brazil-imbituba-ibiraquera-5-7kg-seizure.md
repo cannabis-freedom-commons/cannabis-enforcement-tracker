@@ -51,7 +51,6 @@ open_questions:
   - The outlets describe the non-cannabis drug as MD and MDMA with slightly split weights; only the separately supported cannabis weights are counted, giving 5.675 kg plus 0.0746 kg of hashish.
   - The sources say the two men were abordados, encaminhados and conduzidos to the Civil Police rather than explicitly presos; they are counted as detained, but no formal arrest, charge or court outcome was reported.
   - No street value, weighing method or court outcome was published.
-  - The only picture on the submitted page is captioned as an archive file photo, so no event photo is listed as media.
 ---
 
 Military Police detained two men aged 24 and 28 during the operation and later

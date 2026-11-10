@@ -61,7 +61,6 @@ open_questions:
   - The Märzstraße is named as the place of the check; no address or cellar is identified, and the bicycle theft itself is only an accusation.
   - 5 Minuten and Heute both add that the presumption of innocence applies to the three.
   - The police release lists the two men's nationalities in the same order as their ages (Slovakia, then Hungary), but neither it nor the outlets state which man is which.
-  - The 5 Minuten page has no photograph of the event; its lead image is a stock police photo credited to an Adobe stock library, and no outlet published a confirmed picture, so no media entry is given.
 ---
 
 Police in Vienna-Penzing arrested a 34-year-old Slovak man, a 45-year-old

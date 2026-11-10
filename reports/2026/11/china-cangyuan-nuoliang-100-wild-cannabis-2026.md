@@ -39,7 +39,6 @@ open_questions:
   - The source says “100余株” (more than 100 plants); the figure uses 100 as a conservative baseline.
   - The reports name no grower, arrest, charge or court outcome.
   - Only one source for this event could be opened; no second corroborating report was found.
-  - The page carries three images with only the generic caption “图片”, so whether they depict this eradication could not be established and no media entry is added.
 ---
 
 In Nuoliang Town of Cangyuan Va Autonomous County, anti-drug workers were

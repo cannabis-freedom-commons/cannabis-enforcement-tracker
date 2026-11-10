@@ -60,7 +60,6 @@ open_questions:
   - The Himalayan Times, quoting District Police Office Chitwan spokesperson DSP Bijaya Raj Pandit, gives 396 kg, while Nepal Police, Republica and NDTV give 380 kg.
   - 'The sources disagree on Rajpal''s age and home address: NDTV and Nepal Police say 30, while The Himalayan Times gives 37 and a village under Kailadevi, with different spellings of the district and place.'
   - No charge, remand decision or court outcome was reported after the arrest.
-  - The NDTV page's only image is a generic stock photograph of drugs, not this seizure, so no media entry is included.
 ---
 
 Chitwan district police arrested two Indian nationals at Aanptari in Bharatpur

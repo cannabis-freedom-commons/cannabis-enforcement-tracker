@@ -45,7 +45,6 @@ open_questions:
   - The report does not say how the hashish and heroin were divided between Dushanbe, Sughd region and the passenger car.
   - No names, charges or court outcomes for the 10 detainees were reported.
   - Only one accessible source for this 2013 event was found after searching in English and Russian, so no independent second outlet corroboration is available.
-  - The page photo is a 2012 generic image captioned about Tajikistan's interception ranking and is not established to show this seizure, so no media entry is included.
 ---
 
 Tajikistan's State Committee for National Security (GKNB), the country's

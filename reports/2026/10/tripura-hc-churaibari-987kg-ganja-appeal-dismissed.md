@@ -40,7 +40,6 @@ open_questions:
   - The 6 September 2021 interception date comes from the 2026 judgment summary; no contemporaneous report of the seizure was found.
   - No details were published on the police officers who made the interception, and the report does not say whether the driver was in custody between 2021 and the appeal.
   - Whether the driver has sought a further appeal against the High Court order is not reported.
-  - The opened page's only image is a stock file photo of the Tripura High Court building from 2022, not of this case, so no media entry is made.
 ---
 
 The Tripura High Court dismissed the appeal of a truck driver convicted over 89

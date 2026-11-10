@@ -69,7 +69,6 @@ open_questions:
   - The three minors in the car are reported as facing no proceedings before the criminal chamber, but nothing is said about any youth-court or other action against them.
   - The 465 euros in cash found in the car is not reported as confiscated or as proceeds of the theft.
   - No source states that the four occupants were taken into custody; the report therefore gives no arrested figure.
-  - The page image is a labelled illustration credited to Shutterstock and Mara Mohnen, not a photograph of this event, so no media entry is added.
 ---
 
 Luxembourg police officers from Capellen stopped a car early on Saturday 30

@@ -36,7 +36,6 @@ tags: [yurok, humboldt-county, operation-yurok]
 open_questions:
   - The 136 kilos converts the reported "over 300 pounds" of processed marijuana; the exact weight was not published.
   - No arrests were made during the operation, though suspects were identified and warrants were to be requested.
-  - A DVIDS photo set of the operation exists but no direct image address was recovered for a media entry.
 sources:
   - title: Marijuana Extradition on Yurok Tribal Land
     publisher: Humboldt County Sheriff's Office

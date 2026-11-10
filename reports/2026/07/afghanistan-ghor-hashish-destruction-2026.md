@@ -41,7 +41,6 @@ open_questions:
   - AtlasPress describes the 150-kilogram and 10,000-kilogram yama amounts as impure and processed opium while Pajhwok calls them processed and leafy yama; the report uses Pajhwok's wording and the cannabis figure is unaffected.
   - The same Pajhwok article also reports a separate Jawzjan operation in Aqcha district with two drug-selling arrests, 155 grams of hashish, 320 tablets and eight additional gambling arrests, which is a different event left out here.
   - No arrests, charges or court outcomes for the Ghor destruction itself were reported.
-  - The Pajhwok page carries a photo with no descriptive caption and the AtlasPress page image has no establishing caption, so whether either shows this destruction cannot be established and no media entry is included.
 ---
 
 In western Ghor province, police burned more than 800 kilograms of narcotics

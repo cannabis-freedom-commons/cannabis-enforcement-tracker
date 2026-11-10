@@ -52,7 +52,6 @@ open_questions:
   - It gives no amount of ganja involved in the case for which Vimal Kumar was wanted, so no cannabis weight or value is recorded.
   - It does not say when the underlying NDPS case was registered, at which police station, whether charges have been framed, or what court he was produced before.
   - It does not say what the 119,000 rupees in cash were suspected of being, for example sale proceeds.
-  - The page's only photo is a generic default image address with a headline caption and no credit, so no media entry is included.
   - Coordinates are of Sitamarhi district rather than the exact auto stand in Runnisaidpur.
 ---
 

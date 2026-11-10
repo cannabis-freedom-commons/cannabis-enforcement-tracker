@@ -69,7 +69,6 @@ open_questions:
   - Police and press identify the driver as Luis N while the Public Ministry identifies him as Luis V; the report uses the police rendering and notes the discrepancy.
   - No charges, court assignment or outcome were reported; the case stood at the investigation stage.
   - The sources give 4 September as the inspection date while the press roundup was published on 5 September; 4 September is used as the incident date.
-  - The submitted page's only captured image is a section logo, so no event photo from it is listed; the listed agency photo comes from the SGAIA report page.
   - The same roundup's arrests for alleged firearms possession in zone 18 and alleged homicide in Iztapa are separate non-cannabis events left out of this cannabis report.
 ---
 

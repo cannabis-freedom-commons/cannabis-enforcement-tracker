@@ -61,7 +61,6 @@ open_questions:
   - No plea, trial date or sentencing outcome was reported; the next appearance is listed as 1 December 2026.
   - The separate Aranui methamphetamine arrest reported in the same police release involves no cannabis and is not part of this report.
   - The RNZ account and the police release both rest on the same Detective Senior Sergeant Karen Simmons statement, so they are not independent reporting.
-  - The RNZ photo is credited only as a file photo by 123RF and is not confirmed to show this stop or seizure, so no media is listed.
 ---
 
 An 18-year-old is facing cannabis charges after Timaru police found $54,000

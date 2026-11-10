@@ -112,21 +112,7 @@ open_questions:
   - The outlets' lead images may reuse the same press-release photograph; their captions and alt text do not establish whether the images are distinct.
   - Barta24 and Ajker Patrika place the arrest at about 10 pm, while Rajshahir Somoy gives about 11:15 pm.
   - Barta24's lead image may duplicate a photograph already linked from another outlet; the captions do not establish whether it is distinct.
-  - The new article attributes the operation to SRB generally, while the existing report identifies SRB-5 from its earlier sources.
   - The new article gives the interception time as 10:10 pm on 30 October, matching two existing sources but differing from Rajshahir Somoy's about 11:15 pm already noted in the report.
-  - The page's lead image is captioned only as collected, so it cannot be confirmed to show this seizure and no media entry is added.
-  - The page's lead image is captioned only with the article title, so it cannot be confirmed to show this seizure rather than reusing the same press-release photograph and no media entry is added.
-  - The article gives the interception as about 10 pm on 30 October, matching two existing sources and differing from Rajshahir Somoy's about 11:15 pm already noted in the existing report.
-  - The page's lead photograph is captioned only with the article title and carries no credit, so it cannot be confirmed to show this seizure or to be distinct from press-release photographs already linked and no media entry is added.
-  - The page's lead image has empty alt text and no caption or credit, so it cannot be confirmed to show this seizure and no media entry is added.
-  - This account gives the interception time as 10:10 pm on 30 October, matching the existing report's other sources and differing from Rajshahir Somoy's about 11:15 pm already noted in the existing report.
-  - The Agrajatra Pratidin lead photograph is captioned only with the article title and carries no credit, so it cannot be confirmed to show this seizure and no media entry is added.
-  - This account gives Jamal Mia's age as 37, while the existing report names him as 27 from its earlier sources.
-  - This account gives the tip time as around 10:15 on Friday, matching the existing report's 10 p.m. accounts and differing from Rajshahir Somoy's about 11:15 p.m. already noted there.
-  - The page's only image is captioned generically as collected with no credit confirming it shows this seizure, so no media entry is added.
-  - This account gives the interception time as about 11:15 pm on 30 October, matching Rajshahir Somoy's time already noted in the existing report and differing from the about 10 pm time in its other sources.
-  - This account gives the interception time as 10:10 pm on 30 October, matching most existing sources and differing from Rajshahir Somoy's about 11:15 pm already noted in the existing report.
-  - The page's only photo is credited generically to NewsG24, so it cannot be confirmed to show this seizure or to be distinct from the press-release photographs already linked, and no media entry is added.
 ---
 
 SRB-5 arrested three men at Belpukur roundabout in Rajshahi on Friday, 30

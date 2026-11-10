@@ -76,12 +76,7 @@ open_questions:
   - The suspect was described only as unemployed and resident in the Khanka district; no name or age was published.
   - No charges, referral to prosecution or court outcome were reported.
   - Only one accessible account of this Khanka event was found after searching in Arabic and English.
-  - The page carries a photo whose file path dates to 2022, so it is not established to show this seizure and no media entry is included.
-  - The new page's image caption repeats the headline and does not establish that it shows this seizure, so no media entry is included.
-  - The Almasryalyoum page carries a photo captioned with the headline and credited to others, which does not by itself establish that it shows this seizure, so no media entry is added.
-  - The Mobtada page carries images captioned as a security patrol and the accused, which do not by themselves establish that they show this Khanka seizure, so no media entry is included.
   - Ekhbary24 gives no separate date for the arrest and published the account on 9 November 2026, five days after the first reports of this Khanka arrest, so it appears to be a later reprint of the same security statement rather than new reporting.
-  - The page carries a featured image captioned only with the section name and time, having the address media.elbalad.news, which does not establish that it shows this seizure; no media entry is added.
 ---
 
 Egypt's cybercrime investigators detected a person running a social-media page

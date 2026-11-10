@@ -58,7 +58,6 @@ open_questions:
   - The incident date of 12 February 2016 is inferred because both 13 February 2016 accounts describe the arrest as happening on Friday morning and at 7 a.m. yesterday morning.
   - The Philstar account reports at least five bars of marijuana hash plus 500 grams of dried leaves, while the second account reports 500 grams of dried leaves plus 500 grams of processed leaves; the 1 kg total follows the second account's split.
   - No court outcome was reported; Marco was to be charged under the Comprehensive Dangerous Drugs Act of 2002 and for disobedience, and police were still tracing his supplier.
-  - No usable photograph of this seizure with a recoverable direct image address was found, so no media entry is included.
 ---
 
 Police arrested a foreigner carrying marijuana on Friday morning at the port in

@@ -264,9 +264,6 @@ open_questions:
     The recap's Mandailing Natal phase (five hectares, about 150,000 plants) lies in North Sumatra under a
     different command and is counted separately from the 122.86-hectare Aceh total.
   - >-
-    The IndonesiaNow page carries operation photos credited as documentation; they were not verified as
-    showing this operation, so no new media entry is added.
-  - >-
     Sinata, Habapublik and Detik all carry the same police statement, and no independent reporting of the
     operation was found.
   - >-
@@ -276,22 +273,8 @@ open_questions:
     Left out, as its quotation was not found in Sinata.id: He said the destruction showed the commitment of
     Polda Aceh and BNNP Aceh to protecting the public, especially young people, from drug abuse.
   - >-
-    The submitted page presents 122.86 hectares as covering North Sumatra and Aceh together, while the
-    existing report reads the Bareskrim recap as 122.86 hectares in the Aceh jurisdiction with the 5-hectare
-    Mandailing Natal phase counted separately.
-  - >-
-    The submitted page lists about 77 hectares destroyed in Nagan Raya on 31 October, which does not reconcile
-    with the separately reported 20-hectare Beutong operation on the same weekend.
-  - >-
     The page states it was automatically rewritten by AI from news.detik.com without altering facts; no
     independent corroboration of the recap totals was opened in this run.
-  - >-
-    The submitted page states it was automatically rewritten by AI from news.detik.com without altering facts,
-    so it adds no independent reporting beyond that recap.
-  - >-
-    The submitted page places 122.86 hectares in Aceh while the second account presents it as North Sumatra
-    plus Aceh; the existing report reads it as the Aceh-jurisdiction total with the 5-hectare Mandailing Natal
-    phase counted separately.
   - >-
     The submitted photo caption describes a 25-hectare find in Aceh Utara, matching the 2 November Lhokseumawe
     phase rather than the 122.86-hectare total.
@@ -299,37 +282,11 @@ open_questions:
     Whether the cannabis one suspect grew at his house was seized or counted in the plant and weight totals is
     not stated, and the fugitive field owner is not named with no charges or trial reported.
   - >-
-    The submitted page describes the 122.86 hectares as covering North Sumatra and Aceh together, while the
-    existing report reads the Bareskrim recap as the Aceh-jurisdiction total with the 5-hectare Mandailing
-    Natal phase counted separately.
-  - >-
-    The component areas listed in the submitted page add to about 127.86 hectares, not the reported
-    122.86-hectare total.
-  - >-
-    The page carries a photo whose caption is only the file name IMG-20261102-WA0076, so whether it shows this
-    operation could not be established and no media entry is added.
-  - >-
-    The submitted page presents 122.86 hectares as covering North Sumatra and Aceh together, while the
-    existing report reads the Bareskrim recap as the Aceh-jurisdiction total with the 5-hectare Mandailing
-    Natal phase counted separately.
-  - >-
     The page also embeds a video thumbnail for a separate BNN operation reported as 6.5 hectares in Aceh
     Utara, a different event left out here.
   - >-
-    This BSI page reports three people detained while the existing report records four detained at Teupin
-    Rusep with the fourth person released for lack of evidence.
-  - >-
     This BSI page renders the third suspect as M 3(9) in both mentions, which is read as M, 39 following the
     original detik account already cited.
-  - >-
-    This BSI page presents the 122.86 hectares as destroyed in Aceh on 2 November while the existing report
-    records about 122.86 hectares handled in the Aceh police jurisdiction between 27 October and 2 November.
-  - >-
-    This BSI page states it was automatically rewritten by AI from the detikNews article already cited in the
-    existing report, so it provides no independent verification beyond that original.
-  - >-
-    This BSI page carries one photo captioned as a 25-hectare Bareskrim find in Aceh Utara, which matches the
-    agency handout already listed for the 25-hectare phase, so no new media entry is added.
   - No arrests, suspects or charges were reported from the two-day operation.
   - >-
     The accounts give no breakdown of area or plant numbers by district, and no separate figure for dried
@@ -338,30 +295,8 @@ open_questions:
     The accounts date the operation to 31 October–1 November 2026 but do not say which district's fields were
     destroyed on which of the two days.
   - >-
-    The article page displays a photograph with no caption or alt text identifying it, so it cannot be
-    confirmed to show this eradication and no media entry is added.
-  - >-
-    The page carries a photo captioned 'Tanaman ganja di musnahkan di Aceh. (ist)' with no information
-    establishing that it shows this operation, so no media entry is added.
-  - >-
-    The page displays a photograph whose caption only repeats the headline with no credit identifying the
-    operation, so no media entry is added.
-  - >-
     Only the lead paragraph of the Tempo article could be opened; the remainder is paywalled, so no further
     details or critique implied by the headline could be verified.
-  - >-
-    The Tempo lead photo captions a 5-hectare destruction in Mandailing Natal on 31 October 2026 by North
-    Sumatra police and BNNP, a different event, so no media entry is added.
-  - >-
-    The Dialeksis page displays a lead image credited to Polda Aceh; no media entry is added here because
-    whether it is distinct from the police-handout images already cited could not be established.
-  - >-
-    The Penanews page displays a lead image with an empty alt text and no caption or credit, so whether it
-    shows this eradication could not be established and no media entry is added.
-  - >-
-    The MASAKINI.CO page displays a lead image of officers destroying cannabis stalks credited to Polda Aceh;
-    whether it is distinct from the police-handout images already cited could not be established, so no new
-    media entry is added.
 ---
 
 A joint team of Aceh provincial police, Polda Aceh, and the Aceh provincial

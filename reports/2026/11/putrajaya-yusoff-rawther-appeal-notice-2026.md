@@ -47,7 +47,6 @@ open_questions:
   - Only the Bernama account carried by Berita Harian could be opened for this hearing; no second independent account was found.
   - The prosecution appeal had not been decided; the next case-management date is 3 February 2027.
   - The 305-gram figure is the amount stated in the trafficking charge; no separate laboratory or net-weight detail was published.
-  - The page photograph shows Yusoff Rawther after the June 2025 acquittal at the Kuala Lumpur High Court, not the November 2026 case-management hearing, so no media entry is included.
 ---
 
 The Court of Appeal in Putrajaya was told on 4 November 2026 that prosecutors

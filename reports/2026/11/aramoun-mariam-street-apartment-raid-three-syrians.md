@@ -71,14 +71,12 @@ open_questions:
   - The sum of money seized in US dollars and Lebanese pounds is not stated, so no cash figure is recorded.
   - The three suspects are identified only by initials and birth years, with no charges, prosecutor decision or court outcome reported.
   - ElSiyasa and IMLebanon reproduce the same Internal Security Forces statement, so they are not independent reporting of the arrest.
-  - The pictures published with the statement carry no caption saying what they show; the submitted page itself carried only a betting-site banner, which is not listed.
   - 'Left out, as its quotation was not found in المديرية العامة لقوى الأمن الداخلي: The search found one large black bag and 11 medium-sized dark bags containing hashish, the plant preparation the force calls hashishat al-kif.'
   - 'Left out, as its quotation was not found in IMLebanon: Eleven of the bags were medium-sized; the statement lists no other hashish quantity.'
   - 'Left out, as its quotation was not found in المديرية العامة لقوى الأمن الداخلي: Officers also seized 145 Sanita sachets, 62 wrapped plastic capsules, 38 small transparent capsules, one large capsule and 14 medium capsules holding narcotic substances, most described as a white powder.'
   - 'Left out, as its quotation was not found in المديرية العامة لقوى الأمن الداخلي: A transparent bag held about 710 Captagon pills, an amphetamine-type stimulant, and another sachet held 69 small bags of drugs.'
   - Left out products, as its quotation was not found in المديرية العامة لقوى الأمن الداخلي.
   - ElSiyasa reproduces the same Internal Security Forces statement already cited, so it is not independent reporting of the arrest.
-  - The page's only image is a betting-site banner, so no media is added.
 ---
 
 Lebanon's Internal Security Forces raided an apartment on Mariam Street in

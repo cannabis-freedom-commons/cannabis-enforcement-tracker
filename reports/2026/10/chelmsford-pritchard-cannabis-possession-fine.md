@@ -52,7 +52,6 @@ open_questions:
   - No weight or quantity was given for the cannabis possessed, so no kilograms can be recorded.
   - No plea, arrest date, or separate cannabis-only breakdown of the penalty was reported.
   - Only one accessible account of this case was found after searching in English.
-  - The page image is captioned as a Pexels stock court photo and does not show this event, so no media entry is included.
   - The MSN page shows only a relative 4-day timestamp; 2026-11-04 is the metadata publication date used for this reprint.
 ---
 

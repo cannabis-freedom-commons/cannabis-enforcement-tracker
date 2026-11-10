@@ -45,7 +45,6 @@ open_questions:
   - The defendant's name was not published.
   - The article reports no fine or licence penalty alongside the prison term and gives no detail of the drugs test.
   - The headline describes the offence as riding under cannabis, while the article text refers to a positive test for narcotics generally.
-  - The page's only image is a stock illustration, not a photograph of the control or the hearing, so no media entry was added.
 ---
 
 The criminal court in Saint-Nazaire (tribunal correctionnel) gave a detainee

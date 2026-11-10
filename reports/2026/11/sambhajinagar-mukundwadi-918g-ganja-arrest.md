@@ -88,7 +88,6 @@ open_questions:
   - The ganja item appears inside a Lokmat shorts roundup alongside unrelated stories; the roundup gives no separate article link for it.
   - The roundup gives no separate date for the arrest; 9 November 2026, the page's publication date, stands in for the event.
   - The roundup calls the seized material ganja-like narcotic and gives no charge sheet or court outcome.
-  - The submitted page's own article is about a film personality and contains no cannabis enforcement; only item 28 of its roundup concerns cannabis.
   - The roundup item gives no separate date for the arrest; 9 November 2026 is the page's publication date.
   - 'Left out, as its quotation was not found in Lokmat: Officers seized 918 grams of ganja and cash together worth a total of 46,500 rupees from her.'
 ---

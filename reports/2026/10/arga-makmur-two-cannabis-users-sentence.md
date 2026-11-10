@@ -52,7 +52,6 @@ open_questions:
   - The article gives no date for Santri's arrest, reporting only that his arrest and detention time was credited against his sentence.
   - The same article reports a separate methamphetamine case against Chandra Fahrul Lian Syah, sentenced at the same hearing; it is outside the cannabis scope and left out here.
   - Whether either man appealed was not reported.
-  - The page's only photograph is a group portrait credited to the court, not a picture of the hearing or the cannabis, so no media is listed.
   - The article opens with a Bengkulu Tengah dateline, but the court it names, PN Arga Makmur, sits in Arga Makmur in North Bengkulu; the report places the ruling at the court.
 ---
 

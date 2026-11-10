@@ -69,8 +69,6 @@ open_questions:
   - No value estimate was published for the drugs or the cash.
   - The suspects are identified only by initials and no plea, trial date or further court outcome was reported.
   - Mersin Portal repeats the submitted account's wording and figures, so it is not independent reporting; an İHA account of the same raids published by NTV could not be opened.
-  - The submitted page's single image is a headline graphic with no caption or credit, and Mersin Portal's lead image is a composite graphic, so no media entry is added.
-  - 'Accounts differ on the cash seized: the submitted page and Mersin Halk Haber give 20,370 Turkish lira, while Mersin Objektif and NTV report about 20,000 Turkish lira.'
 ---
 
 Police in Mersin carried out raids on 7 and 8 November 2026 in different

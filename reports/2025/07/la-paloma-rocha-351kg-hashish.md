@@ -58,7 +58,6 @@ open_questions:
   - No charges, court appearance or outcome for the four detainees was reported.
   - The 600,000-dollar value is Telenoche's estimate as relayed by Prensa Latina; no authority is named for it.
   - The three vehicles, including those stopped in La Paloma and at Chuy, are not described separately from the pickup carrying the hashish, and the article does not say whether the four detainees all travelled in that truck.
-  - The article's only picture, a 2025 file headed incautan-achis-droga-1, carries no caption or credit on the page, so no media entry is included.
   - Prensa Latina does not name the police unit that mounted the operation.
   - 'Left out, as its quotation was not found in Prensa Latina: The suspects changed direction when they saw the checkpoint set up on Route 10, but one of the vehicles crashed into the ladder of a bank office and its occupant was detained.'
   - Only the publication date, 21 July 2025, is given for the sentence; the ministry does not say when the sentence was handed down.

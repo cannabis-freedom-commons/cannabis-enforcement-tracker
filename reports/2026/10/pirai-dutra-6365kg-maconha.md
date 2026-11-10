@@ -87,7 +87,6 @@ open_questions:
   - The source does not explain the marking “CPX DO CONQUISTA CV A BRABA” found on the packages.
   - Gazeta Sul Fluminense republishes the Informa Cidade article word for word, so it adds no independent confirmation of the event.
   - The new source also describes the capture of a 40-year-old fugitive passenger at km 264 in Volta Redonda, a separate event not covered by this cannabis report.
-  - The page's lead image carries no caption or credit confirming it shows this seizure, so no media entry is added from this source.
 ---
 
 Federal highway police arrested a 36-year-old driver on the afternoon of Friday

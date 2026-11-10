@@ -74,9 +74,7 @@ open_questions:
   - The article gives the offence date of 14 January 2025 but no separate sentence date; 2 November 2026, the article's publication date, is used as the incident date.
   - No second account of this sentencing could be found and opened, so the report rests on a single source.
   - The 17.05 grams and 4.79 grams of cocaine and 5.26 grams of heroin are non-cannabis substances in the same mixed event and are excluded from the cannabis figures above.
-  - The only picture on the page is captioned as a general view of the prison where she tried to introduce the substances, which does not show the seizure, search or court, so no media entry is listed.
   - The article does not publish the woman's name, age or nationality, or the identity of the inmate she intended to visit.
-  - The submitted page lists only lottery-result images, which do not show this event, so no media entry is added.
 ---
 
 The Provincial Court of Huelva sentenced a woman to two years in prison for

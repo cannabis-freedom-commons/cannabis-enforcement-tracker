@@ -58,7 +58,6 @@ open_questions:
   - No court date, indictment or prosecutor was reported, and the charges are accusations only.
   - The $50,000 bond and detention are as stated on 10 August 2026; no later custody status was found.
   - Only the Charleston Police Department release and two outlets carrying it were found; the WCBD original page could not be opened, so its copy on Yahoo News was used.
-  - The only picture published with the accounts is a Charleston County Jail mugshot, which does not show the seizure or the vehicle, so no media entry is listed.
   - 'Left out, as its quotation was not found in Charleston Police Department (CPD Newsroom, posted on charleston-sc.gov): The agency''s own release gives the date: during the early morning hours of 7 August 2026, officers were investigating a running, unoccupied vehicle in the Clarion Hotel parking lot.'
   - 'Left out, as its quotation was not found in Charleston Police Department (CPD Newsroom, posted on charleston-sc.gov): He remained held at the detention center when the police statement and the news accounts were published on 10 August 2026.'
   - 'Left out, as its quotation was not found in Charleston Police Department (CPD Newsroom, posted on charleston-sc.gov): The account came from a Charleston Police Department media release that local outlets published the same day.'

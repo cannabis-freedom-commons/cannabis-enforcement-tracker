@@ -44,7 +44,6 @@ open_questions:
   - No detention, remand, charge beyond the investigation, or court outcome was reported.
   - No independent weighing of the cannabis is reported beyond the gendarmerie figure of 27 grams.
   - Only the gendarmerie account as relayed by two outlets is available; the second outlet reprints the same account without independent reporting.
-  - The page photo is captioned only with the article headline and is not established to show this seizure, so no media entry is included.
 ---
 
 Gendarmerie officers stopped a private car carrying a suspect identified only as

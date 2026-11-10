@@ -60,9 +60,7 @@ open_questions:
   - Only one accessible source for this event was found after searching in Spanish.
   - The 60-day investigation was still under way, so no trial outcome or sentence was reported.
   - The seized cash and mobile phones are described only to explain the event and cannot be recorded in cannabis figures.
-  - The page carries a photo without a caption establishing that it shows this seizure, so no media entry is included.
   - The reported identification rests on field tests positive for THC, with no laboratory confirmation reported.
-  - La Prensa Austral says the procedure happened during the afternoon of 3 November, while ITV Patagonia, the source of the existing report, puts the stop at about 20:30 that night.
   - La Prensa Austral gives 47 grams and 300 milligrams of marijuana, while the prosecutor's attribution in ITV Patagonia totals 46.3 grams; the 47.3 gram figure is the seizure figure used by several outlets.
 ---
 

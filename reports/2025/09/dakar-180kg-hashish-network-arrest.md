@@ -51,7 +51,6 @@ open_questions:
   - The full names and ages of the four arrested people were not published, only Senegalese and Moroccan nationalities.
   - No charges or court outcome were reported; the investigation was still under way.
   - Both accounts repeat the Senegalese police version of the Moroccan seizure and arrests.
-  - The page photo is published without a caption or credit establishing that it shows this seizure, so no media entry is included.
   - The same article reports a separate 10 September 2025 Kédougou arrest with 30 cannabis plants, a different event left out here.
 ---
 

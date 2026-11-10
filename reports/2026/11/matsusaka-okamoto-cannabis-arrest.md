@@ -45,7 +45,6 @@ open_questions:
   - No weight, packaging count, value or other seized property was published.
   - The suspect's name was published only in katakana as Taroi Beruni Marushisu, so romanization is uncertain.
   - The alleged possession occurred at about 11:10 p.m. on 31 October 2026 while the arrest was reported on 1 November 2026.
-  - No photograph confirmed to show this arrest or seizure could be verified, so no media entry is listed.
 ---
 
 Matsusaka Police Station arrested a 22-year-old Filipino beautician living in

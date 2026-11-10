@@ -44,7 +44,6 @@ open_questions:
   - Only one source reporting this event could be opened and no second account was found.
   - The article was published on 2 November 2026 at 2:54 p.m. but describes the check at about 5:00 p.m. on Monday, so 2 November 2026 is used as the incident date while the exact time is unresolved.
   - The report says a case was registered but names no sections of law and no custody, charge or court outcome.
-  - The page carries a lead photo captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
 ---
 
 Nawabpet police detained one man at the Nawabpet village bus stand after finding

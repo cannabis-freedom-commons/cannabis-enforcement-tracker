@@ -50,7 +50,6 @@ open_questions:
   - No value was published for the 906 grams of charas.
   - The article does not name the police station where the case was registered.
   - The article does not say where the charas came from or whether anyone else is suspected.
-  - The page's lead image is a close-up of handcuffed hands, not a photograph of the arrest or the seizure, so no media entry is included.
 media:
   - kind: photo
     url: https://www.divyahimachal.com/2026/11/charas-recovered-from-a-pedestrian-near-bajaura-bridge/

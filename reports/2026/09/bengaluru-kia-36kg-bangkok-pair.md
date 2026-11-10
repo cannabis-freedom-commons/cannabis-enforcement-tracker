@@ -56,7 +56,6 @@ open_questions:
   - The interception date of the 36 kg case is not stated; 22 September is the publication date.
   - The headline counts seven passengers but the itemised cannabis cases name six; the remaining cases in the roundup are separate events left out here.
   - No court outcome beyond the arrests is reported.
-  - The Deccan Herald illustration is AI-generated, so no media is listed.
 ---
 
 Customs officers at Kempegowda International Airport (KIA) seized 80.1 kg of hydroponic ganja worth Rs28.01 crore from seven passengers in five cases, Deccan Herald reported on 22 September. [@1]

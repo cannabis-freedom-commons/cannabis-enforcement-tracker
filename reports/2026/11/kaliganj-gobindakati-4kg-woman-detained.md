@@ -76,21 +76,8 @@ open_questions:
   - Whether a drug case was filed against the detained woman and what charges apply is not reported.
   - Only one accessible outlet account of this event could be opened; Facebook reposts of the same allegation were found but not used as evidence.
   - No estimated value for the seized 4 kg of ganja was published.
-  - The submitted source gives Rashida Begum's age as 38 while the existing report gives 28.
-  - The submitted source names the raid leader as Sabbir Hossain while the second source and existing report name Sabbir Ahmed.
-  - The submitted source locates the search at Rashida Begum's dwelling house in Gobindapur village while the second source and existing report place the raid in front of the old house south of Jahangir's residence in Gobindakati village.
-  - The submitted page carries a photo captioned with the headline, but whether it shows this seizure could not be established from caption, credit and article text, so no media entry is added.
   - 'Left out, as its quotation was not found in dailybanglapost.com: A second suspect, Jahangir Alam (Moni), fled the scene after sensing the police presence.'
   - 'Left out, as its quotation was not found in dailybanglapost.com: Sub-Inspector Sabbir Hossain filed a regular case under the Narcotics Control Act as complainant, and police were preparing to send the detained woman to jail through the court.'
-  - This account gives Rashida Begum's age as 38 while the existing report gives 28.
-  - This account names the raid leader as Sub-Inspector Sabbir Hossain while the existing report names Sabbir Ahmed.
-  - This account locates the recovery at her house in Gobindapur village while the existing report places it in front of an old house south of Jahangir's residence in Gobindakati village.
-  - This account does not mention the second suspect Jahangir Alam (Moni) fleeing that the existing report records.
-  - The submitted page carries a photo captioned with the headline, but caption, credit and article text do not establish that it shows this seizure, so no media entry is added.
-  - This account locates the recovery at her dwelling house in Gobindapur village while the existing report places it in front of an old house south of Jahangir's residence in Gobindakati village.
-  - The page carries a photo captioned with the headline, but caption, credit and article text do not establish that it shows this seizure, so no media entry is included.
-  - This account locates the recovery in an old room in Rashida Begum's dwelling house in Gobindapur village while the existing report places it in front of an old house south of Jahangir's residence in Gobindakati village.
-  - This account locates the recovery in an old room in her dwelling house in Gobindapur village while the existing report places it in front of an old house south of Jahangir's residence in Gobindakati village.
 ---
 
 Police in Kaliganj detained 28-year-old Rashida Begum after recovering 4 kg of

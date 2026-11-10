@@ -46,7 +46,6 @@ open_questions:
   - The other criminal case for which both men were already held in La Pila was not described.
   - No court decision beyond their placement at the disposal of the judicial authority was reported.
   - Henry “N”’s methamphetamine allegation is a separate non-cannabis component mentioned only for context; no methamphetamine quantity is counted as cannabis.
-  - The pages carry photos captioned only with the headline and an FGE credit, which does not establish that they show this warrant notification, so no media entry is added.
 ---
 
 The San Luis Potosí prosecution office, the FGESLP, served two in-prison arrest

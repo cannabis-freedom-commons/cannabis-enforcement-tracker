@@ -83,11 +83,9 @@ sources:
     language: id
 open_questions:
   - RRI and earlier reporting list four people detained in the 27 October Sawang phase with one later released, while this press conference says only three suspects were held there.
-  - The submitted page spells the sites Alue Garot and Alue Ie Mudek, differing from Cot Mancang, Alue Garot and Alue Le Mudek in other accounts.
   - The 43-hectare total is a police-briefing figure that adds the 27 October 18 hectares, already recorded in the campaign report, to the 30-31 October 25 hectares; it is not a new area of destruction.
   - Neither account says whether the Sawang fields were destroyed or only measured during these disclosures.
   - No plant count, weight or street value was published for the fields, and no court outcome beyond detention and questioning was reported.
-  - The submitted page's single photo carries no caption or credit, so no media entry is made.
   - The new account gives the village only as Desa Teupin Rusep and does not say whether the Sawang fields were destroyed or only measured in these disclosures.
   - The same article reports three methamphetamine cases and a vape case, which are separate events left out of this cannabis record.
   - The six cases, including three methamphetamine cases and one vape case, are not broken down by disclosure date within the 9 October to 4 November 2026 window.

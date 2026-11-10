@@ -52,7 +52,6 @@ open_questions:
   - The 331,868 yaba tablets and 118.5 litres of cholai liquor are not cannabis and are excluded from the cannabis figures.
   - The incident date of 31 October 2026 is the end of the reported 1 August to 31 October 2026 operation period; 2 November 2026 is the publication date of the accounts.
   - No names, charges or court outcomes specific to the cannabis seizure were reported.
-  - 'No verified photo of the seizure could be listed: the submitted page lead image could not be verified from its caption, and the second page labels its image as an AI illustration rather than an actual photograph.'
   - 'Left out, as its quotation was not found in Amar Sangbad: Police also rescued 17 kidnapping victims across 14 cases and 46 missing people traced through general diaries in the same period.'
   - 'Left out, as its quotation was not found in Amar Sangbad: The anti-narcotics part of the drive seized 331,868 yaba tablets, 118.5 litres of locally made cholai liquor and 3 kg of ganja.'
   - The account adds no names, charges or court outcome specific to the 3 kg ganja seizure.

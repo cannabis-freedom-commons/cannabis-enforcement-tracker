@@ -59,8 +59,6 @@ open_questions:
   - The sources spell the suspect's surname as both Thuion and Thuin.
   - Lokpath says officers stopped him because his behaviour looked suspicious, while Rediff describes a routine security check.
   - No district or court was named for the case after the handover to the Narcotics Control Bureau in Koteshwor.
-  - The only photograph on the cited pages is an ANI Photo from January 2025, before this event, so no media entry was included.
-  - The submitted page also reports an unrelated 18-gram brown sugar arrest at Balaju Chowk on the same day; it is a separate event without a cannabis component and is left out.
 ---
 
 Nepal police arrested 39-year-old Thai national Yongyut Thuion at the arrival

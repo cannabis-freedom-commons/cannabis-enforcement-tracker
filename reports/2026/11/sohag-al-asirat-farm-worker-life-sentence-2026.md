@@ -51,7 +51,6 @@ open_questions:
   - The methamphetamine and tramadol are mentioned only to explain the mixed case and are excluded from cannabis figures.
   - No separate hearing date was given beyond the reports' statement that the court ruled today, so 3 November 2026, the publication date, is used as the incident date.
   - No arrest date, seizure inventory or defendant full name was published beyond the initials H.M.
-  - The pages carry only an archival illustration captioned as an archive detention image, not a photo of this case, so no media entry is listed.
   - The three Arabic accounts share the same prosecution wording and add little independent detail.
   - 'Left out, as its quotation was not found in تفصيلة: A second account lists the same three substances as methamphetamine, hashish and tramadol held for trafficking.'
 ---

@@ -53,7 +53,6 @@ open_questions:
   - No valuation of the 11.8 kg seizure was published.
   - No charge, trial or court outcome beyond referral to the Mbour prosecutor was reported.
   - The exact origin of the hashish and any additional accomplices remain under investigation according to the sources.
-  - The submitted page uses a 2023 illustration photo and no available photo was confirmed to show this seizure, so no media entry is included.
 ---
 
 Customs officers intercepted two Senegalese women arriving from Paris in the

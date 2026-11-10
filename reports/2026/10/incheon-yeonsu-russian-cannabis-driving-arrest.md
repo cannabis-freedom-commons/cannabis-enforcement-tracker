@@ -93,24 +93,9 @@ open_questions:
   - The precise road or spot in Yeonsu District where the driving and arrest occurred was not specified.
   - Laboratory confirmation by the National Forensic Service was still pending when the reports were published.
   - Whether the man was later charged, detained, deported or released was not reported.
-  - The page's patrol-car image is a generic television capture and does not depict this arrest, so no media entry is added.
   - 28 October 2026 is inferred from the 3 November report's reference to the 28th of the previous month; the reports do not separate the time of cannabis use from the time of driving.
-  - The page carries a police image captioned ◇경찰. 사진=연합뉴스, a generic illustration that does not depict this arrest, so no media entry is added.
-  - The existing report says the man is accused of driving after using cannabis, while this account quotes police as saying he had not driven while under the influence of drugs.
-  - This account says the man was booked without detention, while the existing report describes a detention and a detention-warrant request that was not pursued.
   - This account gives only a 28 October report and 5:30 p.m. arrest in Okryeon-dong and does not give the existing account's 2:40 p.m. report and three-hour vehicle-tracking sequence.
-  - The page's only event-related image is captioned as a stock Utoimage cannabis photo with resale and database prohibition, so no media entry is added.
-  - This account describes the man as booked without detention before handover to immigration authorities, while the existing report wording says detained.
-  - The page's only listed image is captioned as a Kyungin Broadcasting database photo of Incheon Yeonsu Police Station and does not depict this arrest, so no media entry is added.
-  - This account quotes police as saying A had not driven while under the influence of drugs, which differs from the driving-after-cannabis allegation in the Yonhap-based accounts used by the existing report.
-  - This account says A was booked without detention, while the existing report wording says detained.
-  - The page's only image is captioned as a Utoimage stock cannabis photo and does not depict this arrest, so no media entry is added.
-  - The page's only image is captioned [사진=연합뉴스] and does not depict this arrest, so no media entry is added.
-  - This account says officers located the vehicle he was driving when arresting him but does not state the impaired-driving allegation recorded in the existing report.
-  - The News1 page's only listed image is a designer graphic credited to Kim Jiyoung and does not depict this arrest, so no media entry is added.
-  - The page carries one image captioned 인천에서 대마초를 복용한 상태로 운전한 불법체류 외국인이 경찰에 검거됐다 and credited to 연합뉴스, which does not establish that it depicts this arrest, so no media entry is included.
   - This account quotes a police officer as saying A had not driven while under the influence of drugs, which conflicts with the driving allegation in the Yonhap-based accounts already cited by the report.
-  - The MSN page republishes the same 아주경제 text already cited by the existing report, so no independent new detail is added beyond corroboration.
 ---
 
 Incheon’s Yeonsu Police Station detained a Russian man in his 40s, identified as

@@ -48,7 +48,6 @@ open_questions:
   - The amount of cash seized was not disclosed.
   - The 551 grams of cocaine hydrochloride and 245 grams of caffeine are not cannabis and are excluded from the cannabis figures.
   - No outcome of the detention-control hearing or any precautionary measures was reported.
-  - The page's lead photograph carries no caption or credit confirming it shows this operation, so no media entry is listed.
 ---
 
 Detectives from Chile's Investigative Police (PDI) detained five people and

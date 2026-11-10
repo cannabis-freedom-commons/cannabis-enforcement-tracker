@@ -51,7 +51,6 @@ open_questions:
   - Neither opened source states an arrest, only that the Moroccan driver faced a long jail term.
   - The Perpignan destination comes from the Gazette account alone.
   - The 52-tonne Córdoba warehouse seizure days later was a separate event recorded separately.
-  - The Gazette page carries an Algeciras port photo that could not be verified as showing this seizure, so no media entry was added.
 ---
 
 Spain's Guardia Civil intercepted a lorry from Morocco at Algeciras Port in Cádiz carrying more than 32 tonnes of hashish, the largest amount of drugs ever seized in one bust on dry land. [@1] The 32,376 kilos of hashish resin had been hidden amongst a cargo of melons, and police valued the haul at 50 million euros on the street. [@1,2]

@@ -60,8 +60,6 @@ open_questions:
   - No suspect names were published and no court outcome beyond the 7 remands was reported.
   - No district or village was named for the operations, so the report uses Konya province with regional precision.
   - Only one accessible source was found after searching for a second report or agency statement.
-  - The page images are captioned only with the headline and cannot be confirmed to show this seizure, so no media entry is listed.
-  - The Mersin Haber page image is captioned only with the article headline and cannot be confirmed to show this seizure, so no media entry is added.
 ---
 
 Konya Provincial Gendarmerie Command carried out anti-drug operations across

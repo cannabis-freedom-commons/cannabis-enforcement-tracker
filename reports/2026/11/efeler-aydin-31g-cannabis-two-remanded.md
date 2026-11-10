@@ -60,10 +60,8 @@ open_questions:
   - Only the initials E.T. and B.B. were published; full names, ages and genders were not given.
   - The 1,401 synthetic ecza tablets and 0.50 grams of bonzai are non-cannabis and synthetic-cannabinoid items excluded from cannabis figures; only the 3.10 grams of esrar (0.0031 kg) is counted as cannabis.
   - The 11,800 Turkish lira was described as suspected proceeds of crime, not as a valuation of the cannabis, so no value figure is recorded.
-  - The page image showing handcuffed hands in front of a police car is generic and is not established to show this seizure, so no media entry is included.
   - Haberler.com credits İhlas Haber Ajansı as its source, so the two accounts are not fully independent reporting.
   - No court outcome beyond pre-trial detention was reported; tutuklama is pre-trial detention, not a conviction.
-  - The submitted page's image carries no caption or credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 In Efeler, a district of Aydın, police conducted an operation aimed at

@@ -52,7 +52,6 @@ open_questions:
   - The sources do not give a separate exact date for the alleged concealment beyond the 2019 period around the son’s case.
   - Cayman News Service’s 2 August 2021 headline refers to an acquittal, but the verdict itself is not part of the opened text of this trial coverage and should be added from that article.
   - Cayman News Service says Dixon had worked in the office for over eight years at the time of the offence, while its later trial report says more than 18 years.
-  - No photo showing the trial was published with these articles; the page images are advertisements, so no media entry is recorded.
 ---
 
 Evita Ann Dixon, 38, a legal executive in the Office of the Director of Public

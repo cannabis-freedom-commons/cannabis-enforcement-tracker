@@ -60,7 +60,6 @@ open_questions:
   - UzDaily says the drugs were illegally brought in from a neighbouring state but does not name the country, so the origin of the hashish remains open.
   - UzDaily repeats the same security-service statement as Repost.uz, so it is not independent reporting and gives no charges or court outcome.
   - The article gives no separate date for the operation or arrests; 2 August 2026 is its publication date.
-  - The page photo is credited only as UzDaily, with a caption repeating the headline and an unrelated file name, so no separate media entry is added.
 ---
 
 Security service officers in Namangan stopped a Nexia car and found 944 grams of

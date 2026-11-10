@@ -64,7 +64,6 @@ open_questions:
   - The parcel's origin and destination were still under investigation, and neither the driver nor the escaped co-driver is named or described.
   - Every account reproduces the national police statement of 25 June 2025, so they are not independent reporting.
   - No charges, court referral or outcome for the detained driver has been reported.
-  - The submitted Seneweb page shows a photograph captioned only "Taxi Cote D'Ivoire", without credit or confirmation that it depicts this taxi or the seized blocks, so no media entry is included.
   - 'C’ôte d’Ivoire/Lutte contre la drogue: 20 blocs de cannabis interceptés (Wakat Séra) could not be opened again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.'
 ---
 

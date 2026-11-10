@@ -60,9 +60,7 @@ sources:
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the basement seizure or arrests, so the publication date is used as the incident date.
   - The 686 grams of amphetamine and the combined near-kilogram total are not counted as cannabis; only the separately stated 305 grams of marijuana is recorded as cannabis seized.
-  - The page carries four photographs, but their captions and alt text do not establish what they show, so no media entry is added.
   - Only the Pomeranian police statement could be opened; no second report confirming or adding facts was found.
-  - The submitted page is dated 3 November 2026 while the existing report uses 2 November 2026; the separate date of the seizure and arrests remains unconfirmed.
 ---
 
 Officers from the criminal department of the Gdynia city police detained a

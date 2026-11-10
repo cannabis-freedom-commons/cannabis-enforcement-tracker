@@ -57,7 +57,6 @@ open_questions:
   - No charge and no court outcome were reported; a reader comment asking about the sentence is unanswered in the article.
   - The man's name is spelled Geldiyev in the Turkish headline and Geldıyev in the body text, and Azattyq uses both Гелдиев and Гелдыев.
   - The 4 October arrest date is taken from the Turkish article's "dün" (yesterday) on a page dated 5 October 2019.
-  - The submitted page's photo is an illustrative picture of a prison in Antalya, and the DHA photo shows the suspect rather than the seized drugs, so no media entry is added.
 ---
 
 Gendarmerie officers stopped a Turkmen citizen on a bicycle in Göynük, in the

@@ -41,7 +41,6 @@ open_questions:
   - Weights and counts for suspected brown heroin, brown sugar, nitrazepam, tramadol, diazepam, buprenorphine and phenergan are non-cannabis amounts in the same event and are excluded from cannabis figures.
   - No charges, court appearances or outcomes were reported beyond continued police custody for investigation.
   - Only one accessible source for this roundup was found after searching.
-  - No media entry is included because the page image is the same generic arrested photo reused for unrelated stories, with no caption or credit establishing that it shows this seizure.
 ---
 
 Police arrested 14 people for alleged drug possession in separate operations

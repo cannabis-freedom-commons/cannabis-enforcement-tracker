@@ -39,7 +39,6 @@ tags: [chlef, gendarmerie, highway]
 open_questions:
   - A later magazine summary spoke of several suspects arrested; the gendarmerie communiqués opened here named two people stopped with the van.
   - The suspects were not named in these reports.
-  - L'Espoir Libéré says more than 71.6 kg, while Awras and Horizons give 71.6 kg; the existing report retains the precise figure.
   - 'Left out, as its quotation was not found in Horizons: The operation followed intelligence work and ended with two people arrested and the van seized.'
 sources:
   - title: 'Chlef : plus de 71,6 kg de kif traité saisis'

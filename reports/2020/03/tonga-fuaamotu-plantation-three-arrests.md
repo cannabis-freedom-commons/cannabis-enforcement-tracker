@@ -36,7 +36,6 @@ open_questions:
   - No quantity, plant count, area, value, identities or charges were published in the accessible text; the full article requires a subscription.
   - No second source for the March 2020 arrests could be found.
   - No court outcome or further details were reported in the accessible text.
-  - No photo or video of the event was available in the capture, so no media entry is added.
 ---
 
 Tonga Police arrested three men with cannabis on 13 March 2020 at a plantation

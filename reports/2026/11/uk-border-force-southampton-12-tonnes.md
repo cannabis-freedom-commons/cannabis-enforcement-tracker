@@ -53,7 +53,6 @@ open_questions:
   - The Telegraph gives no date for the hearing at which the five charges were put or at which two defendants denied the offences.
   - The date of the Bristol Crown Court appearance it describes as Tuesday is not stated in the text.
   - No trial or sentencing timetable was published, and no outcome for any defendant was reported.
-  - The Yahoo republication dates the interception to May 3, while the existing report gives 6 May 2026 in its body; the shared supported date is left to the existing sources.
 media:
   - kind: photo
     url: https://www.gov.uk/government/news/border-force-secures-its-largest-ever-cannabis-seizure

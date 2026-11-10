@@ -53,7 +53,6 @@ open_questions:
   - No charges, court dates or outcomes for the three suspects were reported.
   - The same article also reports cocaine, Tapentadol, tramadol, synthetic-cannabis chemicals and other cannabis seizures in Lagos, Ondo, Ekiti, Edo, Enugu and Delta, which are separate events left out of this report.
   - Only one source could be opened for the Taraba figures; no independent second report was found.
-  - No media entry is added because the page's images carry no captions or credits tying them to the Taraba seizure.
   - The NDLEA statement dates the Taraba arrests to Thursday 5 and Friday 6 November 2026, while the report uses the 8 November publication date; the exact operation dates are newly supported here.
 ---
 

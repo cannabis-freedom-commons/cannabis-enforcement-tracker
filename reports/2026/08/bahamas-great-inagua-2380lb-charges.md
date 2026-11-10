@@ -45,10 +45,8 @@ open_questions:
   - The trial was listed for December 2026 without a day.
   - The Tribune calls the operation a 72-hour intelligence operation; the Nassau Guardian describes it as a two-day operation that began on 24 July.
   - The Tribune does not give the weight of the load, while the Nassau Guardian reports 2,318 pounds and the Coast Guard about 2,380 pounds.
-  - The article dates the interception only to Saturday and the offload to Monday; 25 July 2026 is inferred from its 28 July 2026 publication date and the existing report's dating.
   - The article does not say where the vessel or its cargo came from or where it was bound.
   - The article says the seizure took place on Saturday, placing the interception on 25 July 2026; no separate date is given.
-  - The $2.8 million is a Coast Guard estimate, while Bahamian outlets cited in the existing report put the value near $5.9 million.
 sources:
   - title: Three charged in $5m marijuana seizure
     url: https://www.thenassauguardian.com/news/three-charged-in-5m-marijuana-seizure/article_bc2c4d08-50ed-434d-ba86-0627469754d3.html

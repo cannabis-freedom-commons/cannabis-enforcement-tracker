@@ -51,10 +51,8 @@ open_questions:
   - Yaba, phensedyl, cocktail, petrol, phone and cash figures are mentioned only to explain the mixed sweep and are excluded from cannabis figures; no combined weight is counted as cannabis.
   - No names, charges or court outcomes for those arrested were reported.
   - The incident date of 2 November 2026 is the operation date stated in both reports published on 3 November 2026.
-  - The DMP News and Jugantor page images carry only the headline as caption with no credit establishing that they show this seizure, so no media entry is listed.
   - The Sokalerkhobor24 body text says 62 cases were filed in the same sweep, while its headline and the DMP News statement give 57; the portal's figure is not used.
   - Sokalerkhobor24 dates the police briefing to Tuesday 3 November and gives no separate date for the raids, while the DMP News statement says the operations were carried out on Monday 2 November.
-  - The portal's page image is described as received over Facebook and carries no credit or caption identifying a scene, so no media entry is added for it.
 ---
 
 Dhaka Metropolitan Police (DMP), the police force for the capital, arrested 549

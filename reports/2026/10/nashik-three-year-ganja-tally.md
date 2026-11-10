@@ -59,7 +59,6 @@ open_questions:
   - 'The campaign''s overall total covers all drugs: 79 cases, 174 arrests and narcotics worth Rs 2.16 crore, mostly mephedrone.'
   - The sources do not say how many of the arrested people were charged or what happened in court.
   - Sakal gives the charas value as about Rs 24,900, while the Times of India gives Rs 24,500.
-  - The only photograph on the submitted page shows the governor honouring the commissioner at the ceremony, not a seizure, so no media entry is included.
   - No police statement or charge sheet was opened; the figures rest on police data repeated by three outlets.
 ---
 

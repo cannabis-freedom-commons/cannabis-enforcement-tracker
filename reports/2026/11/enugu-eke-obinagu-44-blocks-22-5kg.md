@@ -37,7 +37,6 @@ open_questions:
   - The article does not say what happened to the suspect after arrest, whether he was charged or what court will hear the case.
   - The 22.5 kg is described as cannabis in blocks, with no laboratory confirmation or product detail.
   - The article gives no separate description of where in Enugu State the Eke Obinagu checkpoint stands, so the coordinates mark Enugu State's centre and the precision is region.
-  - The submitted page's single photo shows the unrelated cocaine suspect at Lagos airport, so no media entry is added.
 ---
 
 Operatives of Nigeria's National Drug Law Enforcement Agency arrested a

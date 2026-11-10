@@ -49,7 +49,6 @@ open_questions:
   - The article says Danso was sentenced 'last month' relative to its 20 July 2022 publication date, so no exact sentencing day is known and 20 July 2022 is used as the incident date.
   - The 10 February arrival year is read as 2022 from the phrase '10 Feb. this year' in the 20 July 2022 article.
   - No second account of this airport case could be opened, so only one source supports the report.
-  - The page's only image is a generic February 2022 view of Owen Roberts Airport captioned 'Owen Roberts Airport5 by alvaro' and does not show this suitcase seizure, so no media entry is included.
   - No outcome after the deportation recommendation and no identification of the man called Ruben were reported.
 ---
 

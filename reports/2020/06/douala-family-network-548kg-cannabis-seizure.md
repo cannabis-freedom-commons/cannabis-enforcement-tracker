@@ -43,7 +43,6 @@ sources:
     language: fr
 open_questions:
   - The 548 kg figure appears in the headline but is not repeated in the article body, so no breakdown or weighing detail was published.
-  - The page image was uploaded in 2018 and captioned only as Indian hemp, so it is not established to show this seizure and no media entry is included.
   - It is unclear whether Mbouta Brigitte is an additional person beyond the four arrested or one of them.
   - No court outcome, pleas or laboratory confirmation were reported, and no second account of this event was found.
 ---

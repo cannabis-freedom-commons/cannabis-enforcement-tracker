@@ -72,8 +72,6 @@ open_questions:
   - The exact street or address of the roadside stop and of the searched residence was not given beyond Pilawa municipality and Garwolin county.
   - No custody ruling, trial date or court outcome beyond the possession charges was reported.
   - Amphetamine and mephedrone amounts are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
-  - The submitted account gives 4 November 2026 as its publication date; the event date of Friday 30 October at around 17:00 is taken from the existing report and the police account it republishes.
-  - The submitted page reuses a police-credited image already represented in the existing report's media, and its second image has no caption establishing this event, so no new media entry is added.
   - The Podlasie24 and police accounts give only a combined nearly 100-portion total across marijuana, amphetamine and mephedrone, with no separate cannabis weight or portion count.
   - The Podlasie24 Garwolin page credits commissioner Małgorzata Pychner of Garwolin district police as the press source but publishes no separate cannabis valuation.
 ---

@@ -46,7 +46,6 @@ sources:
     date: 2026-11-09
     language: bn
 open_questions:
-  - The submitted page image only repeats the headline and no police handout photo could be confirmed, so no media entry is added.
   - The 27 yaba tablets are a separate non-cannabis component and are excluded from the cannabis weight; no yaba weight was published.
   - No court production, plea or further outcome beyond the three case filings was reported.
   - No valuation of the seized ganja or yaba was published.

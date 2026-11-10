@@ -41,7 +41,6 @@ open_questions:
   - The 6,401 cases, 17,756 subjects, 4,669 prosecutions and related management figures cover all drugs and cannot be attributed to cannabis; no cannabis-specific arrest or charge breakdown was given.
   - The more than 640 kg of synthetic drugs and nearly 15 kg of heroin are non-cannabis weights excluded from cannabis figures.
   - 3 November 2026 is the survey and publication date for the 10-month aggregate covering January to October 2026, not a separate raid date.
-  - The page photos show the propaganda-delegation working meeting and community-education exhibits, not the seizures, so no media entry is listed.
 ---
 
 Ho Chi Minh City drug-investigation police and commune police handled 6,401 drug

@@ -55,7 +55,6 @@ open_questions:
   - The Rs 18.20 lakh figure is a combined value for the ganja and the seized car, not a valuation of the 46.6 kilograms of ganja alone.
   - The report names the two arrested suppliers and the three Madhya Pradesh suspects but gives no charges, custody status or court outcome for any of them.
   - The case is said to be registered under the NDPS Act without the sections or the police station record.
-  - The page publishes no photo of the seizure, the car or the arrests; it carries only a default site image, so no media is linked.
 ---
 
 Mahasamund police arrested two alleged main suppliers from Odisha, saying they

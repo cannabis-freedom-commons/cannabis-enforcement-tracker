@@ -101,17 +101,9 @@ open_questions:
   - The article reports the seizure as 4 kg 200 grams in its opening paragraph but as 4 kg 2 grams later; this report uses 4.2 kg and the discrepancy remains unresolved.
   - Only one outlet account of this checkpoint arrest could be opened; the underlying SRB-11 press release was not found separately.
   - No court outcome beyond the filing of a Narcotics Control Act case at Sonargaon Police Station was reported.
-  - The headline rounds the seizure to 4 kg while the body consistently states 4.2 kg; the existing report uses 4.2 kg.
-  - The page lists two images but both carry only an 'Image not found' caption and credit, so whether any photo shows this seizure could not be established and no media entry is added.
-  - The submitted article says the checkpoint search occurred at dawn on Monday 02 October, while its publication date is 02 November 2026 and the existing report dates the operation to 1 November 2026.
-  - The submitted article's lede rounds the seizure to 4 kg while its body states 4.2 kg; the existing report uses 4.2 kg.
-  - The submitted page carries a lead image without caption or credit, so whether it shows this seizure could not be established and no media entry is added.
   - No court outcome beyond filing of a Narcotics Control Act case at Sonargaon Police Station was reported.
-  - The RTV page carries a lead image without caption or credit, so whether it shows this seizure could not be established and no media entry is added.
-  - The RTV account says biscuit packets without naming the Lexus brand used in the existing report; that brand detail continues to rely on the earlier sources.
   - The submitted talashbd.com capture contains only a 404 page, so no event details could be quoted from it directly.
   - The Rajshahir Somoy page uses a generic template image reused across many stories, so no event photo is listed as media.
-  - The submitted page says the checkpoint occurred on Sunday 2 November at about 7:30 pm, while the existing report dates the operation to 1 November 2026.
   - The Narayanganj Post page labels its image as a file photo, so it is not listed as event media.
 ---
 

@@ -47,7 +47,6 @@ open_questions:
   - The report names no measured value for the drugs and the over £1,000 cash figure is not counted as a precise confiscation total.
   - No second independent account of this Rochester stop could be found; the incident date of 30 October 2026 comes from the single opened report.
   - The man was arrested on suspicion of possession with intent to supply Class A drugs and released on bail, with no charge, plea or court outcome reported.
-  - The only page image is a generic police-car stock photograph with no caption linking it to this stop, so no media entry is added.
 ---
 
 Two Kent Police dogs played a central role in the arrest of a suspected drug

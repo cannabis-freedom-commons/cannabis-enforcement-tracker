@@ -56,7 +56,6 @@ open_questions:
   - No separate raid date was published; 18 October 2026 is the earliest publication date used as the incident date, while the tip was received on 10 October 2026.
   - No plant count or cultivated area was published, only the 44.415 kg weight.
   - The reports say the farmer was taken into custody and an NDPS case was registered, but no formal arrest, charge or court outcome is stated.
-  - The submitted page photo has no caption or alt text establishing that it shows this seizure, so no media entry is added.
   - 'Left out, as its quotation was not found in Divya Marathi: Police detained 64-year-old farmer Devidas Rangnath Timkare of Imampur in Ahilyanagar taluka after cannabis cultivation was found in his field.'
   - 'Left out, as its quotation was not found in Divya Marathi: Local Crime Branch inspector Santosh Mutkule developed the information and MIDC assistant inspector Hemant Thorat joined the raid.'
 ---

@@ -65,8 +65,6 @@ open_questions:
   - No separate incident date is given; 31 October 2026 is the police statement's publication date and is used as the incident date.
   - The sources say only 'more than 67 kilograms' and do not give an exact weight or clarify whether the separately described 100-gram block is included in that total.
   - No charges, trial or sentencing outcome were reported; the case was described as being in the preliminary-investigation phase.
-  - The existing report cites the TorinoToday page as .../parcehggio-sotterraneo-auto-67kg-hashish.html while the submitted URL uses .../parcheggio-sotterraneo-auto-67kg-hashish.html; the identical title, date and content indicate the same article under a URL variant.
-  - The submitted page displays photos of the seizure that appear to republish the police handout already listed from the Questura, so no duplicate media entry is added.
 ---
 
 State Police intervened in Turin’s Cenisia quarter, arresting a 31-year-old

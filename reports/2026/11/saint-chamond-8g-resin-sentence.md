@@ -45,7 +45,6 @@ sources:
     language: fr
 open_questions:
   - Only one accessible source for this event was found after searching in French and English.
-  - The page's only photograph is explicitly captioned as an illustration, so no media entry is listed.
   - Cocaine quantities and seized cash are excluded from cannabis figures, which record only the 8 grams of cannabis resin.
   - No laboratory weight or separate cannabis valuation was published; figures use amounts as reported.
   - The article gives the arrest date of 1 November and the sentencing date of 2 November; 2 November is used as the incident date as the latest step.

@@ -78,7 +78,6 @@ open_questions:
   - The Financial Express page is a verbatim republication of the bdnews24.com report already cited, and its page metadata credits bdnews24.com as the author, so it adds no independent confirmation of the figures.
   - The page dates the home ministry's action only to "Saturday" and gives no calendar date for the suspension; the 31 October date comes from The Business Standard.
   - The report dates the suspension to the ministry's 31 October announcement, while the Bangla account gives 25 October as the date the order took effect.
-  - The Financial Express page carries no photograph of the raid, so no media entry was added.
   - 'Left out, as its quotation was not found in Protidiner Sangbad: The ministry''s suspension order took effect on 25 October.'
 ---
 

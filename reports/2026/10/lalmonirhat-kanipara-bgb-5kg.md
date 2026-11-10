@@ -69,10 +69,6 @@ open_questions:
   - Kanipara itself has no separate map point; coordinates are the Singimari village centre in Hatibandha.
   - Both outlets appear to reproduce the same BGB press release, and the battalion's own statement was not opened.
   - The Payshattibari mobile-display seizure is a separate non-cannabis operation mentioned only as context.
-  - The new article's opening places both operations in Srirampur Union, Patgram, while the existing report places the Kanipara/Singimari seizure in Hatibandha, and the new Kanipara paragraph names only the Kanipara area without an upazila.
-  - The about-350-yards and about-500-yards distances in the existing report are not stated in this source, so corroboration uses a shared description without those distances.
-  - The psc, Engineers suffix in the existing report's commander title is not stated in this source.
-  - The page carries one photo captioned as the Lalmonirhat border ganja-liquor-mobile-display seizure, but its caption and lack of credit do not establish that it is distinct from the BGB handout already in the report, so no media entry is added.
 ---
 
 A special patrol from the Singimari border outpost of Teesta Battalion (61 BGB),

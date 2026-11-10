@@ -59,7 +59,6 @@ open_questions:
   - A CagliariPAD copy of the same account says the two were reported to the judicial authority, which differs from the administrative report given by the other outlets and the Carabinieri statement.
   - The incident date of 8 November 2026 comes from the STUDIO96 roundup; the other accounts give no separate date and were published on 9 November 2026.
   - No figures were published for the type or quantity of the benzodiazepines seized, and they are not counted as cannabis.
-  - The photos published with these accounts are archive or generic Carabinieri pictures, so no media entry is added.
 ---
 
 Carabinieri from the Donori station stopped a car on the outskirts of Ussana

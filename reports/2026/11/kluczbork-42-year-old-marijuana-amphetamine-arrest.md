@@ -49,7 +49,6 @@ open_questions:
   - The sources give no separate date for the night incident, so 5 November 2026, the publication date of both the police statement and the news report, is used as the incident date.
   - No cannabis-only charge was reported; the possession charge covers both drugs together.
   - The court outcome was not yet reported; proceedings were still to be decided by the court.
-  - The Nowa Trybuna Opolska page carries a photo credited to Policja Kluczbork without a descriptive caption establishing that it shows this seizure, so no media entry is included.
 ---
 
 Kluczbork plainclothes officers detained a 42-year-old man during a night

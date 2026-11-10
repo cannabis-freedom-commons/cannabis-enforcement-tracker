@@ -65,7 +65,6 @@ open_questions:
   - No charges in legal terms, bail or custody decision, or court outcome were reported; the case stood at investigation with materials referred to the prosecution.
   - The 500,000 lek penalty is an administrative measure under the Normative Act, not a court fine, so it is kept in the text and not entered as a fine figure.
   - Euronews Albania, TS.mk and Report-tv.al all reproduce the same State Police statement, so they are not independent reporting, and the police's own page could not be opened.
-  - The submitted page's photo of masked protesters facing police carries no caption or credit, so the caption describes what the image shows without attribution.
   - Clashes at the earlier student protest of 31 October 2026 before the Ministry of Education are a different event and are not covered here.
 ---
 

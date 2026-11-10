@@ -158,22 +158,17 @@ open_questions:
   - Both reports come from the same police press conference; no independent witness account was found.
   - DetikJabar quotes police saying AR received Rp2 million for each kilogram he distributed, while RRI reported that the Rp2 million covered the whole delivery.
   - DetikJabar describes AR as consuming the cannabis brewed as tea, while RRI reported that he had not yet drunk the brew when officers arrived.
-  - DetikJabar describes a public tip as the starting point, while the existing report says the case began with a transaction detected at Kiaracondong terminal.
   - DetikJabar does not give the date of AR's arrest; the 28 October date in the report comes from IDN Times and RRI.
   - West Java Today puts the rented house in Kampung Citamiang Kidul, Desa Cangkuang Kulon, while the report says Kampung Cikanyang Kidul; both name Dayeuhkolot in Kabupaten Bandung.
   - West Java Today names ALF alias BU as the suspected controller inside the lapas but reports no arrest, charge or court step for him.
   - The Jurnal Polisi photograph has no credit or descriptive caption beyond a WhatsApp filename, so its photographer is unknown.
   - The article does not say when ALF alias BU was placed on the wanted list.
-  - PenaKu.ID places the rented room in Kampung Citamiang Kidul, while the existing report records Kampung Cikanyang Kidul.
   - PenaKu.ID says a public report prompted the investigation, while other accounts identify a detected Kiaracondong transaction as the initial lead.
   - Jabar News places the rented room in Kampung Citamiang Kidul, Desa Cangkuang Kulon; IDN Times names Kampung Cikanyang Kidul, while RRI specifies only Dayeuhkolot.
-  - 'The weight accounts differ: Jabar News says about 12 kg, IDN Times says 12 kg, and RRI says more than 12 kg; the existing report records 12 kg and leaves the RRI discrepancy open.'
   - 'Left out, as its quotation was not found in IDN Times Jabar: Police in Kabupaten Bandung arrested a man they identified as AR, 27, on suspicion of dealing cannabis.'
   - Salingka Media reports that, after Law No. 1 of 2026, Articles 114(2) and 111(2) carry the death penalty, life imprisonment or up to 20 years, with the maximum fine increased by one-third; the report records up to 20 years and a maximum fine of Rp10 billion, following other outlets.
   - Salingka Media gives Tri Suhartanto the rank of Inspector and calls him head of the Bandung district police, while the report and other outlets call him Bandung police chief Commissioner.
-  - The new source spells the rented-room village as Kampung Citamiang Kidul, while the existing report uses Kampung Cikanyang Kidul.
   - The page title and tags name Sragen in Central Java, but the body places the house, arrest and press conference in Dayeuhkolot and Mapolresta Bandung; this result follows the body's Dayeuhkolot account.
-  - The page lists one image file named Berihaticom-via-Tribun-Jatim.jpg with no caption showing it depicts this seizure, so no media entry is added.
 ---
 
 Police in Kabupaten Bandung arrested a man they identified as AR, 27, on

@@ -73,7 +73,6 @@ open_questions:
   - RED FM says the 27-year-old faces five charges, while the Toronto Sun account already cited lists four offences for him; the charge count is left as previously reported.
   - RED FM’s only image is a station headline template, not a photo of the raids, so it was not added as media.
   - The article gives no separate date for the warrants, describing them only as recent; 29 October 2026 is retained from the earlier sources.
-  - The page's news photo shows the outside of a Hamilton police substation at Jackson Square, not the dispensaries, seizures or arrests, so no media entry is included.
   - The police statement gives no value for the large sum of Canadian currency seized.
   - FlamboroughToday is part of the Village Media network and republishes the Hamilton Police news release verbatim, so it is not an independent account.
   - The other two dispensaries counted in the thirty-day total are not identified in this statement.

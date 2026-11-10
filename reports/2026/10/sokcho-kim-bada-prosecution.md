@@ -59,7 +59,6 @@ open_questions:
   - Neither opened English account states a weight for the cannabis Kim possessed or smoked.
   - The opened accounts do not give the Sokcho court case number.
   - This Chinese machine-translated version renders the arrest timing as “上月3月”, ambiguous on its own, so the March 2026 dating continues to rest on the existing English accounts.
-  - The page image is captioned as a portrait of singer Kim Bada and is not established to show the hearing or seizure, so no media entry is included.
   - This account names the presiding judge, Joo Cheol-hyeon, which the earlier sources did not.
   - This English translation carries a headline saying Kim was 'sentenced' to three years, but its text reports only that prosecutors sought three years at the 28 October hearing, with sentencing set for 25 November; the report follows the text.
   - The prosecution's 500,000 won request is described in this account as a fine; earlier Korean accounts call it an additional collection (추징) of the proceeds of the offence, and the report leaves the exact legal form of the payment open.

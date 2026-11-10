@@ -69,8 +69,6 @@ open_questions:
   - No charges, custody outcome, or court result beyond detention in flagrante and transfer to João Monlevade was reported.
   - Only one source for this event could be opened; no second account was found.
   - No weight, value or additional packaging detail for the large package plus two smaller portions was published, so no cannabis weight is recorded.
-  - The submitted page states that it does not publish the address, while the second account names Rua São Domingos do Prata and the Nossa Senhora das Graças neighbourhood.
-  - 'The BH 24 Horas featured photo is credited only as Foto: PMMG / Divulgação with empty alt text, so whether it shows this seizure or duplicates the existing handout could not be established and no media entry was added.'
 ---
 
 Military Police officers arrested a 27-year-old man in Nova Era, in the Central

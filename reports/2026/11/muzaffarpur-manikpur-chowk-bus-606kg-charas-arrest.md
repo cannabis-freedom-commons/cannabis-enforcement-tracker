@@ -73,11 +73,8 @@ open_questions:
   - The article does not say how many people were on the bus or whether anyone else was questioned.
   - The arrest location is given only as near Manikpur Chowk in Muzaffarpur; the map point is the Muzaffarpur town centre, not the exact interception spot.
   - The image is captioned as DRI officials displaying seized charas packets but carries no credit line, so it is linked rather than copied.
-  - This source gives no separate date for the Muzaffarpur interception; 7 November 2026 is its publication date, while the event date follows the existing report.
   - The article's account of 52.58 grams of heroin and Rs 19,48,012 in cash seized from three people in Kudra, Kaimur is a separate non-cannabis enforcement event and is excluded here.
   - The opened Bhaskar capture is truncated by an app paywall; only the opening lines and headline were readable.
-  - The capture gives no separate event date; 5 November 2026 is the interception date from the existing report, while 8 November 2026 is this source's publication date.
-  - The visible portion does not state the 12-packet count, the bus registration number, or the NDPS Act charge recorded in the existing report.
   - This 6.060 kg Manikpur Chowk seizure is distinct from the separate 10 kg charas seizure at Dumaria Ghat reported on the same dates.
 ---
 

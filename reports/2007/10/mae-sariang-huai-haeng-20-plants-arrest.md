@@ -46,7 +46,6 @@ open_questions:
   - No court outcome was reported; the suspect was sent to the Mae Sariang inquiry officer for prosecution.
   - The seized firearms and ammunition are mentioned only to explain the same event and are excluded from cannabis figures.
   - Only one accessible source for this event was found after searching in Thai and English.
-  - The page offered no usable photograph of the event; its only listed image was an advertisement, so no media entry is included.
 ---
 
 Mae Sariang police detained Chan Pha-thai Phongphaew, of house No. 16 in village

@@ -75,7 +75,6 @@ open_questions:
     driver's full name and vehicle plates without repeating every compartment detail from the TV
     report.
   - No separate government press release beyond Andina and the news relay was opened.
-  - Ecuavisa identifies the driver only as Ángel P., while the existing report names him Ángel Bolívar Pinto Rosero from the Andina account.
 ---
 
 In the early hours of 1 April 2026, anti-drug officers from the Tumbes AREANDRO

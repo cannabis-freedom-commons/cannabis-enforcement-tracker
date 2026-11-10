@@ -40,7 +40,6 @@ sources:
     language: hi
 open_questions:
   - The article gives only the publication time (9 November 2026) and no separate date for the operation, which is used as the incident date.
-  - The submitted page is partly behind an app-login wall; only the opening paragraph could be read in full, so the police valuation of about 359,000 rupees and the details of the NDPS case rest on that truncated view.
   - The article does not say whether the women were formally charged before a court or only remanded; jail follows arrest.
   - No source states where the ganja originated, who was to receive it or whether the women worked for an organised group.
   - Only one accessible source for this event was found; other Hindi reports could not be opened.

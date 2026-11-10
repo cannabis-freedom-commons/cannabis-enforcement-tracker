@@ -47,7 +47,6 @@ open_questions:
   - Ages differ between outlets (55 and 24 in The Namibian; 56 and 25 in Namibian Sun).
   - No separate date beyond 'early Sunday morning'; 12 January 2025 is used, the day of that weekend.
   - No plea or outcome beyond the first appearance is reported.
-  - The page images carry only the headline as caption and are not confirmed to show this plantation, so no media is added.
 ---
 
 Namibian police arrested a 55-year-old mother and her 24-year-old daughter near

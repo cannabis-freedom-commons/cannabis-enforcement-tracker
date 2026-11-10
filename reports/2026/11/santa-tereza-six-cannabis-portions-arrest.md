@@ -52,8 +52,6 @@ open_questions:
   - No charges or court outcome were reported beyond transfer to the police station.
   - The fate of the identified 35-year-old, who fled and was later tracked down, was not reported beyond identification.
   - Only one accessible account of this event was found after searching for a second report.
-  - The page's credited PMMG image shows the Santa Tereza area rather than the seizure itself, so no media entry is included.
-  - The page carries a main image with an empty alt attribute and no caption or credit, so it cannot be established that it shows this seizure and no media entry is included.
 ---
 
 Minas Gerais military police arrested a 43-year-old man in the Santa Tereza

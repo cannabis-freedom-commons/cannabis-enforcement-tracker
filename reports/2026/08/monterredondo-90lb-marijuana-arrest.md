@@ -49,7 +49,6 @@ open_questions:
   - The 90-pound weight is preliminary and the substance was described as suspected marijuana pending laboratory analysis.
   - No charges, custody ruling or court outcome were reported; the detainee was placed at the disposal of the competent authorities for the courts to decide.
   - No street value for the load was published.
-  - The police post's image carries only the generic alt text May be an image of car and text and is not established to show this seizure, so no media entry is included.
   - Coordinates use the Tegucigalpa centre with region precision because the exact hamlet location was not geocoded; the interception was reported at aldea Monterredondo on the Olancho–Tegucigalpa corridor.
 ---
 

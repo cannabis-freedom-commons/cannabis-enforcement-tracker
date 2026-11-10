@@ -45,7 +45,6 @@ open_questions:
   - The 130 euros found on the suspect are mentioned only in the text and are not recorded as a drug value.
   - The exact location of the arrest and the searched apartment within Budva was not given.
   - No court outcome was reported; the case was at the arrest and handover stage.
-  - The page carries a photo credited to the Police Directorate with no descriptive caption establishing that it shows this seizure, so no media entry is included.
 ---
 
 Budva police arrested M.C., a 29-year-old citizen of Bosnia and Herzegovina, and

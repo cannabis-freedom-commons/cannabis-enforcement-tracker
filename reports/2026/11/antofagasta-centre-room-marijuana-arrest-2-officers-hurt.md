@@ -67,7 +67,6 @@ open_questions:
   - No charge over the drugs was reported, only detention for mistreating officers in the line of duty, and no court hearing or outcome was published.
   - The 579.4 grams of marijuana is described as dosed substances testing positive in field tests; no laboratory confirmation or value estimate was published.
   - Only the El America account was found; no Carabineros regional statement or other outlet reporting this event could be opened.
-  - The single page image is a file picture named droga-delivery-ntof, with no caption or credit confirming that it shows this seizure, so no media entry is added.
   - The article does not say whether the cocaine was part of any charge against the man, and its quantity is excluded from this cannabis report.
   - SoyChile reproduces the same Carabineros release as Diario El America, so the two accounts are not independent reporting.
 ---

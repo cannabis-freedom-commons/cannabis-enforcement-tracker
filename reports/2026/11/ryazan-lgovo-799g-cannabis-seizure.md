@@ -61,11 +61,7 @@ open_questions:
   - The articles give only the 2 November 2026 publication date and no separate date for the search and seizure, so the publication date is used as the incident date.
   - Headlines round the seizure to about 800 grams while the expert result is 799 grams; the report uses 799 grams.
   - No detention, arrest count or pretrial measure is stated in the opened accounts.
-  - The RyazPressa lead image is captioned as a publisher archive photo and the Aif-Ryazan image is stock, so no media entry is added.
   - Both accounts relay the regional police account without independent witnesses.
-  - The page displays a photo credited to Dmitry Yemelyanov / E1.RU, so it is not established to show this Lgovo search and no media entry is added.
-  - The page displays a generic police-structures photo-bank image with no caption establishing that it shows this Lgovo search, so no media entry is added.
-  - The page image carries only a file-name caption and its file path dates from April 2025, so it is not established to show this Lgovo search and no media entry is added.
 ---
 
 Drug-control officers and Ryazansky district police acted against a 41-year-old

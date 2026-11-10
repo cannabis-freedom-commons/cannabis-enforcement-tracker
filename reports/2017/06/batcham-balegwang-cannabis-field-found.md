@@ -47,7 +47,6 @@ open_questions:
   - No arrest, charge or court outcome was reported; only a planned investigation and a planned destruction visit were announced.
   - Whether the planned destruction of the plantation actually took place was not reported.
   - The headline names Baletsie while the article text locates the field precisely at Balegwang in Batcham arrondissement.
-  - Each page carries a cannabis-field photo captioned only generically, without establishing that it shows this Balegwang plantation, so no media entry is included.
   - 'Left out, as its quotation was not found in Lebledparle: The commander said the operation followed a week of surveillance after residents'' reports, with the field located around 22:00 on Monday 19 June 2017 before the team moved in the next morning.'
 ---
 

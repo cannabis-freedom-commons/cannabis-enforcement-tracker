@@ -42,7 +42,6 @@ open_questions:
   - The 21 drug busts and 32 arrests for 2025 are not broken down by substance, so they are not recorded as cannabis arrests.
   - No figure is given for the value of the dried cannabis.
   - Only one article, the Asia News Network copy of a Kuensel report, could be opened for this event.
-  - The page photo shows a woman preparing heroin in Germany and is a file image, not a picture of this event, so no media entry is listed.
 ---
 
 The customs service also seized more than 7 kg of dried cannabis. [@1]

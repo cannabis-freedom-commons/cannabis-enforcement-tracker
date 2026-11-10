@@ -57,9 +57,7 @@ open_questions:
   - No street value for the seized drugs was published.
   - No formal charge or trial outcome was reported; the man is held on a pre-trial arrest warrant while the investigation continues.
   - The blank-firing gun was reported without details on whether it was loaded or how it relates to the armed-trafficking suspicion beyond the seizure.
-  - The only accessible page photo is explicitly captioned as a symbol image and is not shown to depict this seizure, so no media entry is included.
   - Both accounts repeat the police and prosecutor's version; no independent account or statement from the suspect was published.
-  - The SWP page image is credited to Marcus Brandt/dpa and captioned only about pre-trial detention, which does not establish that it shows this seizure, so no media entry is added.
 ---
 
 The Tübingen public prosecutor's office and Reutlingen criminal police are

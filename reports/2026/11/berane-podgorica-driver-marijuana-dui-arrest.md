@@ -48,7 +48,6 @@ open_questions:
   - The article gives no separate date for the stop, the medical test or the arrest; 7 November 2026 is its publication date and is used as the incident date.
   - No cannabis weight or seizure in the vehicle was reported, only the medical finding of driving under the influence of marijuana, so no quantity is recorded.
   - Only one account of this event was found, the Vijesti English report of the Police Directorate statement; no second independent account or court outcome was reported.
-  - The submitted page carries an illustration credited to the Police Department rather than a confirmed photo of this stop, so no media entry is listed.
 ---
 
 Police officers in Berane arrested driver AP, a 30-year-old resident of

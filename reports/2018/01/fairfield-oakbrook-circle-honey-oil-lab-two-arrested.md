@@ -56,7 +56,6 @@ open_questions:
   - 'The cannabis amounts are vague: multiple pounds of marijuana and an unquantified quantity of THC concentrate, so no weight is recorded.'
   - The bail and arraignment details come only from the Vacaville Reporter and are not confirmed in the police-derived accounts.
   - No trial result or sentence was found for either man.
-  - The submitted CBS page carries no photograph of the lab or seizure, so no media entry is added.
   - Man arrested in Fairfield honey oil lab bust pleads not guilty (The Vacaville Reporter) could not be opened again to check its quotations (The browser page answered HTTP 403.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.
   - 'Left out, as its quotation was not found in SFGATE / Bay City News Service: The Fairfield Police Department''s special operations team then served a search warrant and seized a firearm, cash police suspected came from drug sales, THC concentrate and several pounds of marijuana.'
   - Left out activity, as its quotation was not found in SFGATE / Bay City News Service.

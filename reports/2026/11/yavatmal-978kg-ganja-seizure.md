@@ -61,7 +61,6 @@ open_questions:
   - The 848 plants are described as found; seizure, uprooting or disposal is not detailed, and whether their weight is included in the 978 kg total is unclear.
   - The three-acre figure describes the intercropped plot at Kumbhari, not a separately stated destroyed area, so no hectares are recorded.
   - Only one accessible source for this event was opened.
-  - The Loksatta page's only listed image is explicitly labelled as AI-generated, so no media entry is added from this source.
 ---
 
 Police in Yavatmal district carried out 22 cannabis actions in the six months

@@ -57,7 +57,6 @@ open_questions:
   - Dainik Bhaskar describes the material as ganja-like and gives no test result, while Prabhat Khabar calls it ganja.
   - The reports give the arrested man's father's name as Videshwar Prasad in Prabhat Khabar and Bindeshwar Prasad in Dainik Bhaskar, and Dainik Bhaskar once calls the suspect Rakesh Kumar.
   - Jharhapar village could not be matched to a mapped point, so the coordinates are the Karai Parsurai block centre.
-  - The photographs published with the reports show the station house officer at a press conference or carry no caption, so no media link is listed.
   - Only the DNB Bharat report gives the 25 October release, and it does not say what Prasad was jailed for or which case it concerned.
 ---
 

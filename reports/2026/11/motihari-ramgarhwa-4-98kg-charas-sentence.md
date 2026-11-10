@@ -66,11 +66,9 @@ open_questions:
   - The Rs 1.25 crore figure is the police valuation from the 2023 arrest coverage, not a court valuation.
   - The fine was Rs 100,000 for each convict.
   - The same Prabhat Khabar article reports the surrender of an extortion accused, Chhotan Singh, a separate event left out here.
-  - 'No event photo could be established: the Times of India image is labeled Representative Image and the Prabhat Khabar hero image is not shown to depict this seizure, so no media entry is included.'
   - 'Left out, as its quotation was not found in Prabhat Khabar: East Champaran''s special NDPS court-II convicted two men in a charas-trafficking case.'
   - 'Left out, as its quotation was not found in Prabhat Khabar: The court fined each man Rs 100,000, with six more months in prison if the fine is not paid.'
   - 'Left out, as its quotation was not found in The Times of India: The 2023 arrest account says a team led by Raxaul SDPO Dhirendra Kumar recovered 4.98 kg of charas worth Rs 1.25 crore on NH-28A at Ramgarhwa.'
-  - The Live Hindustan account was published on 3 November 2026, a day before the existing report's 4 November 2026 date; neither gives a separate verdict date.
 ---
 
 Judge Brijesh Kumar sentenced each convict to 12 years of rigorous imprisonment.

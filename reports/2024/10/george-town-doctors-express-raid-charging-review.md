@@ -33,7 +33,6 @@ open_questions:
   - No weight, count or value was published for the cannabis oils and vapes seized from the clinic in 2019.
   - The reports do not say when the fresh charging decision is expected or whether it has since been made.
   - No arrests or charges of officials over the raid were reported; the question was whether to charge them.
-  - The page's only image is a Cayman Compass archive photo of Doctors Express and does not show the raid or the hearing, so no media entry is included.
 ---
 
 Cayman's Director of Public Prosecutions will look again at the decision not to

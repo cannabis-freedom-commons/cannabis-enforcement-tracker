@@ -47,7 +47,6 @@ open_questions:
   - No charges, custody rulings or court outcomes are reported for any of the eight; police use the terms presos and abastecedores de droga, meaning those detained and alleged drug suppliers.
   - The same article reports arrests for homicide and robbery with intimidation and a cocaine seizure in Rivas, left out here as unrelated events.
   - Only one account could be opened; no accessible second outlet or National Police statement confirming the same roundup was found.
-  - The page carries a lead image credited to J. Poveda and five images labelled only POLICIA1-5, with no caption establishing that any shows these marijuana seizures, so no media entry is included.
 ---
 
 National Police announced its weekly results covering 10 to 16 March 2025. [@1]

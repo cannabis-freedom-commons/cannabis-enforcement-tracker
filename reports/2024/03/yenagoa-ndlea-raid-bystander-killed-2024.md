@@ -52,7 +52,6 @@ sources:
 open_questions:
   - Whether the dealer known as Rebecca or the arrested boy were later charged is not reported.
   - No quantity of drugs seized in this raid was published; the reports cite only a 15 March pre-purchase of cannabis sativa and crack cocaine that set up the raid.
-  - No press photograph could be verified as showing this raid, so no media entry is included.
 ---
 
 NDLEA officers went to Okaka in Yenagoa at about 7 p.m. on 20 March 2024 to arrest a notorious female dealer known as Rebecca, after officers had made a pre-purchase of cannabis sativa and crack cocaine from her on 15 March. [@1,2] A mob of cult members and local youths attacked the team with bottles, stones and improvised explosive devices, seizing exhibits and freeing the dealer, and the officers exchanged gunfire with them. [@1,2]

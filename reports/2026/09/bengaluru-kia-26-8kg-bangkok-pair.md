@@ -49,7 +49,6 @@ open_questions:
   - Only one source could be found for this interception.
   - The report names no flight number and gives no court outcome beyond the arrests.
   - The same roundup reports a 15.3 kg case, a 36 kg case, a 2 kg Vietnam case and gold seizures; those are separate events left out here.
-  - The Deccan Herald illustration is AI-generated, so no media is listed.
 ---
 
 Customs officers at Kempegowda International Airport (KIA) in Bengaluru seized 80.1 kg of hydroponic ganja worth Rs28.01 crore from seven passengers in five cases, Deccan Herald reported on 22 September. [@1]

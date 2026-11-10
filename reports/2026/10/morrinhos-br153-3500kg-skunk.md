@@ -153,27 +153,17 @@ open_questions:
   - The reports do not say where the load came from or who owned it.
   - iG does not mention the R$3.5 million valuation or an intended sale in the Federal District, which Mais Goiás reported.
   - iG says the driver and the drug were sent to the Civil Police and does not mention booking in Brasília or a trafficking charge.
-  - Diário Goianiense says the driver was arrested after giving contradictory accounts of the load’s origin and destination, while the existing report, citing Mais Goiás, says he could not explain the trip and stayed silent.
-  - This article says the skunk was hidden under pallets; the existing report says the bales were hidden behind wooden pallets.
   - The page photo is not captioned as showing the seizure, only credited to the newsroom with PRF and PCDF information and to Glaucio Teixeira, so it is unclear whether it is the same handout already linked from other outlets.
   - The O Norte de Goiás page is a truncated republication of the Mais Goiás article already cited, and its visible text does not independently state the weight, the arrest booking, or the date of the stop.
-  - Metrópoles says the PRF stopped the truck after information from other institutions, while the existing report says the stop followed an exchange with Federal District civil police.
   - This account says the drug was hidden among a pallet load and found after the pallets were unloaded; it does not say the bales were hidden behind wooden pallets.
   - The body once spells the drug “sunk”; the headline and captions say skunk.
   - Metrópoles does not mention the R$3.5 million valuation, a trafficking charge, or booking in Brasília.
   - Two PRF handout photos on the page were not added again because the seizure is already illustrated from other outlets.
   - Paipee BR reproduces the Metrópoles report almost word for word, so its account is not independent corroboration of the seizure.
-  - Paipee credits its feature photo of the seized load only to 'Instagram'; it could not be confirmed as a distinct image, so no media entry was added.
   - Zap Catalão follows the PRF statement closely and publishes no independent reporting of its own.
   - The page's only photo is a PRF handout; it could not be confirmed as a different frame from the PRF handout photos already linked in the report.
-  - The page's only news photo is credited to PRF Goiás, but its file name refers to a synthetic-drug story and it could not be confirmed as showing this seizure, so no media entry was added.
   - The submitted article gives only its publication date of 3 November 2026 and no separate event date, while Metropoles dates the same operation to Thursday 29/10/2026.
-  - The new sources say about four tonnes of maconha/entorpecentes, while the existing report records about 3.5 tonnes of skunk; the existing figure should be kept unless an official exact weight resolves it.
-  - The new sources variously call the load maconha, drogas or entorpecentes, while the existing report specifies skunk, so the precise cannabis subtype wording differs between accounts.
-  - The page publishes one photo of the seizure with only a generic caption and a Reprodução credit, so it could not be confirmed as a distinct frame from the PRF handout photos already linked, and no media entry was added.
-  - This account says the drug was hidden among a pallet load, while the existing report says the bales were hidden behind wooden pallets.
   - This account does not mention the R$3.5 million valuation, an interstate-trafficking charge or booking in Brasília reported elsewhere in the case.
-  - The page's PRF-credited photo has only a generic caption and could not be confirmed as a distinct frame from the PRF handout photos already linked, so no media entry was added.
 ---
 
 The Federal Highway Police and the Civil Police of the Federal District seized

@@ -68,9 +68,7 @@ open_questions:
   - The amount of US dollars seized and the type of car were not specified, and no cannabis-only valuation was published.
   - The reports give no separate date for the raids; 4 November 2026 is the publication date and is used as the incident date.
   - The detainees were not named and no charges, custody ruling or court outcome beyond transfer to the judiciary were reported.
-  - The pages carry seizure photos without captions establishing that they show this seizure, so no media entry is included.
   - The Infobae article also recounts a separate earlier Laboulaye barrio Norte case involving 309 cocaine doses and delivery sales by a couple and two cousins, which is a different event left out here.
-  - 'No media entry is added: the Infobae lead image is captioned about a different Córdoba gang led by a mother and her children, and the prosecution page images are uncaptioned WhatsApp files that do not identify what they show.'
   - 'Left out, as its quotation was not found in ElDoce.tv: ElDoce calls the group “La Banda de los Primos”.'
 ---
 

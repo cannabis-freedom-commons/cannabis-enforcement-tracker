@@ -94,12 +94,7 @@ open_questions:
   - Cocaine quantities are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - The article also describes a separate July interception in Bangkok with 47 kg of cannabis herb, a different event left out here.
   - Only one accessible source for the sentencing step could be opened; a second outlet's account could not be opened.
-  - The new account dates the sentencing hearing to 28 October 2026, while the existing report uses the 3 November 2026 publication date as the incident date.
   - The reported 2,389,200-euro total covers cannabis resin and cocaine together, so no cannabis-only value can be recorded.
-  - The page's only image is captioned as the Saint-Denis judicial court building and is not shown to depict the seizure, so no media entry is included.
-  - LINFO.re gives the cannabis resin as 35 kg and the cocaine as 17 kg, while Imaz Press and the existing report give 37 kg and 15 kg; the existing figures are kept and the difference noted.
-  - LINFO.re does not say whether this traveller was the man later sentenced to five years in October 2026; the matching date, Paris origin and record description suggest the same case, and the existing report records that sentence.
-  - The submitted page's only image is captioned as an airport drug mule picture and is not established to show this seizure, so no media entry is included from it.
 media:
   - kind: photo
     url: https://www.lequotidien.re/article/faits-divers/2026/11/03/sur-le-top-10-vous-etes-numero-1

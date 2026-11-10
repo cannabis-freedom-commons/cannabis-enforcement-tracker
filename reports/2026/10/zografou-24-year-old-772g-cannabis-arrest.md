@@ -55,8 +55,6 @@ open_questions:
   - Only one source for this event could be opened, so no second account confirms the arrest or seizure.
   - The article gives the arrest time only as the evening of Friday 30 October and the place only as the Zografou area, with no street-level location.
   - No outcome beyond referral to the competent prosecutor is reported.
-  - The source page carries a lead cannabis image, but its caption and alt text do not establish that it shows this 772-gram seizure, so no media entry is added.
-  - The policenet.gr page shows a generic DI.AS. image from March 2026 and an Hellenic Police photo without a caption establishing that either depicts this 772-gram seizure, so no media entry is added.
 ---
 
 On the evening of Friday 30 October, police in the Zografou area arrested a

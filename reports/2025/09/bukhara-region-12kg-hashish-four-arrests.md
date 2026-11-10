@@ -43,7 +43,6 @@ sources:
     language: ru
 open_questions:
   - Only one source could be opened for this event; no police or State Security Service statement was found.
-  - The submitted page shows a photo credited to iiv.uz with a 2023 upload path, suggesting it does not depict this September 2025 seizure, so no media entry is listed.
   - No names, exact detention site, measured weight procedure, or court outcome beyond the opened criminal case were reported.
 ---
 

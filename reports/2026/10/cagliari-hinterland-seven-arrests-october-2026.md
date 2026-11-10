@@ -106,29 +106,13 @@ open_questions:
   - Figures for arrested count the seven drug arrests only and exclude four separate immigration arrests for re-entry after expulsion or refusal orders.
   - The 320-gram Quartu Sant'Elena seizure is described as hashish and marijuana together without a split, but both are cannabis so it is counted as cannabis.
   - Incident date uses the latest drug arrest on 27 October 2026; the roundup was published on 2 November 2026 and covers operations on 8, 9, 15, 16, 22 and 27 October.
-  - The only image listed on the submitted page is captioned Gesico and does not show this event, and the RaiNews page image address could not be recovered as an absolute URL, so no media entry is listed.
   - The 25-year-old held after the Stampace garage seizure was also found in September with about 28,000 euros under preventive seizure; whether that cash is included in the 35,000-euro total is not stated.
   - 'Left out, as its quotation was not found in RaiNews: RaiNews corroborates that seven people were arrested for a total of 16 kg of substances including hashish, marijuana and cocaine, with about 35,000 euros seized as alleged dealing proceeds.'
-  - RaiNews gives 7 kg of hashish in Monserrato while the existing report uses about 7.1 kg from earlier sources.
   - RaiNews gives no separate operation dates, so the October dates continue to rely on earlier sources.
   - RaiNews gives only the combined 16-kg total for hashish, marijuana and cocaine, so the separated cannabis total is unchanged.
-  - The RaiNews page carries a police-credited photo titled with the headline, but its caption and alt text do not establish that it shows this seizure, so no media entry is added.
   - The two new pages give no separate date for the Stampace seizure beyond their 2 November 2026 publication dates.
-  - The Sardiniapost page gives only its 2 November 2026 publication date and no separate day for the Stampace operation, so the 15 October date continues to rely on earlier sources in the existing report.
-  - The page lists a droga-nel-frigo image with empty caption and credit, so whether it shows this seizure could not be established and no media entry is added.
-  - The submitted page gives only the combined figure of about 16 kg of mixed substances including cocaine, so the separable cannabis total continues to rely on earlier sources.
-  - Whether the two page photos show this seizure could not be established from their captions, so no media entry is added.
-  - The submitted page describes the Quartu Sant'Elena seizure as over 300 grams of mixed hashish and marijuana, while ANSA gives 320 grams and the existing report uses more than 320 grams.
   - The combined about-16-kg total covers hashish, marijuana and cocaine together, so only separately stated cannabis items can be counted as cannabis.
-  - The page's only listed image is a January 2026 polizia-roma photo captioned with the headline and does not show this event, so no media entry is listed.
-  - The Sardiniapost page image has empty alt text, caption and credit, so whether it shows this seizure could not be established and no media entry is added.
-  - The submitted page describes the Quartucciu seizure only as over one and a half kilos of mixed hashish, marijuana and cocaine, so the precise split continues to rely on earlier sources already cited in the existing report.
-  - The submitted page gives only a combined figure of more than one and a half kilos of mixed hashish, marijuana and cocaine for Quartucciu, so the precise split in the existing report continues to rely on earlier sources.
-  - The submitted page names no ages for the two Monserrato suspects, so their ages continue to rely on earlier sources.
-  - The submitted page gives no separate date for the Elmas stop, so the 9 October date continues to rely on earlier sources.
-  - The submitted page describes the Stampace stash as hidden in a fridge in a cellar, while the existing report says garage, and says 450 euros while the report says more than 450 euros.
   - The headline total of more than 15 kilos covers hashish, marijuana and cocaine together, so only separately stated cannabis items can be counted as cannabis.
-  - No photo of this event could be established from the page; its listed image is a 2022 file and related-post images show other events, so no media entry is listed.
 ---
 
 Cagliari mobile police arrested seven people for drug dealing in October

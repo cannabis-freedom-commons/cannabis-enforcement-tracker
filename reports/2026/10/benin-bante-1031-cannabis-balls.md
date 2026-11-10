@@ -42,7 +42,6 @@ open_questions:
   - No later charge or court outcome was reported.
   - Bénin Web TV gives no net weight for the cannabis; it describes 11 jute sacks of 100 kg each but does not state the weight of the cannabis itself.
   - Bénin Web TV does not say whether the two men were charged or brought before a prosecutor after their police custody, nor any court outcome.
-  - Bénin Web TV embeds a YouTube video but its page text does not establish that the video shows this seizure, so no media entry is added.
   - The Bénin Web TV page picture is captioned only as an illustration, so it is not treated as a photo of this seizure.
 sources:
   - title: "Bénin : 1 031 boules de chanvre indien saisies à Bantè, deux convoyeurs togolais arrêtés"

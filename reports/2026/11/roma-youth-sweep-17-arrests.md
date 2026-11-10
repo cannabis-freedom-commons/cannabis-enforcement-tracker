@@ -50,7 +50,6 @@ open_questions:
   - The three denunciati for weapons are reports at liberty, not stated charges, so they are not counted as charged.
   - The articles give only the publication date of 2 November 2026 and say the checks ran over the previous two weeks, so the publication date is used as the incident date.
   - National totals of 174.8 kg of cannabinoids, 69.4 kg of cocaine and 328.44 g of heroin are context for the same national operation and are left out of the Rome figures.
-  - The submitted page image caption only repeats the headline and does not establish that it shows this seizure, so no media entry is added.
   - The text gives a weight ("5 kg") but the figures have no kg_seized; check whether it belongs there.
 ---
 

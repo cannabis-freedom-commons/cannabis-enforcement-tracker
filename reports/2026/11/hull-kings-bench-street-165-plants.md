@@ -47,10 +47,8 @@ open_questions:
   - No weight, value or cultivation-area figure was published, so only the plant count is recorded.
   - The raid is dated 2 November without a year in the text; 2026 is used from the source's 3 November 2026 publication date.
   - Only one independent source could be opened; a second page with the same text is a reprint by the same publisher group.
-  - The page's only image is a generic Alamy stock photo captioned 'UK Police' and is not shown to depict this seizure, so no media entry is listed.
   - The new page appears to be a reprint by the same publisher group rather than an independent second source, so it does not resolve the existing single-source limitation.
   - No new figures, arrests, charges or court outcomes are added by this page.
-  - The page's only image is captioned 'UK Police' and credited as Alamy stock, so no media entry is listed.
 ---
 
 The Kinetic Intervention Team forced entry to a residence on Kings Bench Street

@@ -72,10 +72,7 @@ open_questions:
   - The exact total number of people arrested in Mali was not given beyond at least two, and the number arrested in Accra was not given.
   - No charges, custody status or court outcome were reported beyond referral to the specialised judicial prosecutor and planned further hearings.
   - The 100 million CFA francs market value is reported by RFI without a named valuing authority, so it is recorded as a reported value.
-  - The Le360 page carries an image captioned only as DR, which does not establish that it shows this seizure, so no media entry is included for it.
   - The Maliweb page image is not established to show this seizure, so only the RFI photograph credited to the Central Narcotics Office is listed.
-  - This account says the 2.7 tonnes were seized on a Monday near Bamako, while the existing report dates the Yirimadio Kadobougou operation to Friday 13 May 2016.
-  - This account reports further arrests in Ghana without naming a city, while the existing report specifies Accra on its earlier sources.
 ---
 
 The operation took place around 1 a.m. on Friday 13 May 2016. [@3] Officers

@@ -42,7 +42,6 @@ open_questions:
   - The number of drug cases and arrests cannot be assigned to individual operations, districts or dates within the quarter.
   - No charges, convictions or court outcomes for the 378 arrested were reported.
   - Only one accessible account of this quarterly tally was found; The Rising Nepal cites police spokesperson DIG Gobinda Thapaliya but the police office's own release could not be opened.
-  - The page image is a generic 'arrested' illustration file from the outlet's media library with the alt text 'blog' and no credit, so no media entry is included.
 ---
 
 Police in Kathmandu Valley registered 444 drug-related cases and arrested 378

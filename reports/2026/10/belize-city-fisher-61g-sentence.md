@@ -47,7 +47,6 @@ sources:
 open_questions:
   - Only one account of this case could be opened, so no second outlet could confirm or add details.
   - The article gives no sentencing date separate from the October 26 court appearance, so October 26 is used as the incident date.
-  - The page carries a photograph filed as Orlando-Anthony-Fisher, but its empty caption, credit and alt text do not establish that it shows the seizure, search or court, so no media entry is included.
   - The 61-gram figure is the police-reported weight of suspected cannabis, with no laboratory confirmation published.
   - Details of the five previous drug convictions were not published.
 ---

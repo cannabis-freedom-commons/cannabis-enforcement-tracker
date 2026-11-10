@@ -65,7 +65,6 @@ open_questions:
   - The Hindu does not name the two youths or the two accused, and the accused have not been reported as arrested or produced in court.
   - No outcome of the Maldives case, and no charges filed there, were reported in these accounts.
   - The case appears to rest on the complainant's account as recorded by police, with no response from the two accused reported.
-  - The Hindu page carries no article photograph, only a site-wide share image and video player posters, so no media entry is taken from it.
 ---
 
 The Erode North police on 25 April 2026 registered a case against two persons

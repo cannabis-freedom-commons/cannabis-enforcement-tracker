@@ -66,12 +66,6 @@ open_questions:
   - No charge or court outcome was reported; the three suspects were described only as detained while the investigation continued.
   - The article does not name who provided the Rs 1.575 million market-value estimate.
   - The role of the questioned company director from Port-Louis and the identity of the cargo's true recipient were not established in this report.
-  - Defimedia gives the estimated value as Rs 1.5 million while the existing report records Rs 1.575 million; the report's figure should stand and the difference appears to be rounding.
-  - Defimedia describes the two further arrests as a 23-year-old Malagasy and a 54-year-old Mauritian company director, while the existing report names a 23-year-old Malagasy, a questioned Port-Louis company director who was allowed to leave, and a 45-year-old mason arrested 2 November at Bonne-Veine; the exact role of the director and the identity of the third detained man remain unresolved.
-  - The Defimedia page carries a photo captioned only "Cannabis 4.11.26" with no credit establishing that it shows this seizure, so no media entry is added.
-  - The Ionnews page shows only a generic SSR airport photo from January 2025, not this seizure, so no media entry is added.
-  - Ionnews gives no market-value estimate and no flight number; the Rs 1.575 million value and flight MK 289 from the existing report stand.
-  - Ionnews describes the 45-year-old from Quartier-Militaire as a tailleur de pierre while the existing report calls Jean Marie Achille a mason; the profession wording remains unresolved.
   - Ionnews does not name any suspect; the names Kasaina Todisoa Fanomezantsoa, Sedera Ralaimarimana and Jean Marie Achille rest only on the existing L'Express source.
 ---
 

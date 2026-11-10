@@ -80,7 +80,6 @@ open_questions:
   - The 144 plants destroyed is the sum of the article's counts (69 seedlings, 54 recently planted bushes, 16 and 5 bushes); no single total is given.
   - No value estimate, charges or court outcome were published, and the men were identified only by birth year.
   - Only the LSM Russian-language account could be opened; no Latvian-language or police statement version was accessible for comparison.
-  - The submitted page's main photo is captioned as illustrative and the four police photos carry no caption stating which site they show, so the illustrative image is left out and the police photos are listed together without assigning them to a site.
 ---
 
 Police from the Dobele precinct dismantled two sites where cannabis was being

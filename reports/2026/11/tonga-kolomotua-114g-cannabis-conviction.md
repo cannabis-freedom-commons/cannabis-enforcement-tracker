@@ -41,7 +41,6 @@ open_questions:
   - No second account of this case was found, so this report rests on a single opened source.
   - Methamphetamine weights are mentioned only to explain the mixed case and are excluded from cannabis figures, which record only the 1.14 grams of cannabis.
   - No sentencing outcome was reported, since sentencing was adjourned pending an appeal expected in March 2027.
-  - The page’s only image is a generic court photo with no caption linking it to this case, so no media entry is included.
   - 'Left out, as its quotation was not found in Matangi Tonga: The judge found him guilty on all counts.'
 ---
 

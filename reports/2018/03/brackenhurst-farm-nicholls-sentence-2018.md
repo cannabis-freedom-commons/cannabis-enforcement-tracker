@@ -51,7 +51,6 @@ sources:
 open_questions:
   - The Glasgow Times dates the accomplices' jailing to January 2017 while Farmers Weekly calls it last January, so the year is recorded as 2017 here.
   - The outcome of Nicholls' proceeds-of-crime hearing, listed for June 2018, was not reported in either account.
-  - No photo confirmed to show the Brackenhurst Farm factory was available, so no media entry was added.
 ---
 
 Mitchell Nicholls, 46, of Shard End, Birmingham, admitted producing cannabis on the first day of his trial at Stafford Crown Court on Wednesday 14 March and was jailed for 38 months. [@1,2] Nicholls had been forensically linked through fingerprints to a highly sophisticated hydroponic cannabis grow, professionally concealed in a large barn at Brackenhurst Farm, Newchurch, Burton upon Trent. [@1,2]

@@ -46,7 +46,6 @@ sources:
     date: 2019-06-30
 open_questions:
   - Only the Philippine News Agency account could be opened for this event; a second account of the same operation was not accessible.
-  - The agency's article carries a photograph of operatives at a plantation, but its direct image address could not be recovered, so no media entry was added.
 ---
 
 Joint operatives of the national police and the Philippine Drug Enforcement

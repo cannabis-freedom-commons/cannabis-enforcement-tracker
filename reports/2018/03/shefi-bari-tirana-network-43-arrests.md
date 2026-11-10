@@ -48,7 +48,6 @@ open_questions:
   - The combined seizure figure covers marijuana, cocaine and heroin together, so the cannabis share alone is not known.
   - What happened to the 43 suspects in court after the arrests was not reported in these sources.
   - The December 2018 Eurojust release matches this case on 43 arrests and EUR 15 million, but if it proves to be a different joint-team case the two should be split.
-  - No photo of this operation could be verified, so no media entry was added.
 ---
 
 Italy's anti-mafia department in Bari took down an Albanian-Italian drug-trafficking network on Wednesday 14 March 2018, issuing 43 arrest orders for around 20 Italians, 21 Albanians and a couple of Romanians. [@1] Four of the suspects were arrested in Albania. [@1]

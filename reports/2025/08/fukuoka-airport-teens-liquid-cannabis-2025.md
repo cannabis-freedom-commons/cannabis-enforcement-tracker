@@ -51,7 +51,6 @@ sources:
 open_questions:
   - No court outcome for either teenager was reported.
   - Investigators were still probing possible links to a wider trafficking network.
-  - The accompanying article image could not be verified as showing this seizure, so no media entry was added.
 ---
 
 A 16-year-old and a 17-year-old from Osaka Prefecture were arrested at Fukuoka

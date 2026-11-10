@@ -81,12 +81,10 @@ open_questions:
   - It is unclear whether the telephone seized, the iPhone reported by Gazeta Digital, was counted in the published list of seized items of the submitted account.
   - The submitted account describes no street name; Rua Linhares comes from Gazeta Digital.
   - The pages do not say when the case file will be sent to a court, and no defence statement was published.
-  - The HiperNotícias page shows an image file named '05.11 droga rotam (1).jpg' with no descriptive caption or credit, so it is not established to show this seizure and no media entry is added.
   - Gazeta Digital names the alley as the nearby location for the vacant lot, while the Military Police statement says the lot was near an alley; the reports agree on the store.
   - No weight, street value or number of plants was published for the 39 portions in this account.
   - Portal 93 credits Gazeta Digital and republishes its report, so it is not an independent account of the arrest.
   - No weight, street value or court outcome is given for the 39 portions in this account.
-  - The AtualMT page image has no caption or credit, so it is not established to show this seizure and no media entry is added.
 ---
 
 Officers of Rotam, the Military Police's tactical patrol battalion, arrested an

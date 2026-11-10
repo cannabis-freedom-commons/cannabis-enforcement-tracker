@@ -93,7 +93,6 @@ open_questions:
   - A first news alert reported the operation as still under way, and the final count of people detained is eight.
   - 'Left out, as its quotation was not found in La Prealpina: La Prealpina reported that the eight detained are Moroccan nationals aged between 22 and 45, and that they are due to be questioned by the investigating judge in the following days.'
   - The Zazoom page gives no weight for the hashish or cocaine and no number of people arrested, so no quantity or arrest figure can be added from it.
-  - The page attributes its account to ilgiornaleditalia.it, whose original article the existing report already cites.
 ---
 
 Carabinieri arrested eight people at dawn on Friday in a blitz against drug

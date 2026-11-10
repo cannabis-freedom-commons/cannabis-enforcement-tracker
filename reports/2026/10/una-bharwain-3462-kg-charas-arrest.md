@@ -141,17 +141,8 @@ open_questions:
   - News4Himachal's headline describes the charas as worth lakhs but gives no figure.
   - Police did not say where the charas was produced or where it was being taken.
   - >-
-    The submitted source gives the second suspect's full name as Rahul Bhatol of Babehad, while the existing
-    report shortens it to Rahul.
-  - >-
     The attachment page gives only its publication date of 1 November 2026 and no separate day for the stop;
     the event date of 31 October 2026 continues to rely on earlier sources.
-  - >-
-    The attachment page says SIU team while the existing report says Una district police; SIU is treated as
-    part of the same police action, not a separate event.
-  - >-
-    The page's only image uses a 2021 image path and its caption does not establish that it shows this 2026
-    seizure, so no media entry is added.
   - No second report of the same event was found; the account rests on a single opened source.
   - The year 2026 for the 31 October night is inferred from the 3 November 2026 publication date.
   - No outcome beyond the five-day police remand was reported.
@@ -159,12 +150,7 @@ open_questions:
   - >-
     The page image file path dates to 2021, so whether the displayed photo shows this 2026 seizure is not
     established.
-  - >-
-    The page carries a lead photo captioned with the headline, but the caption and credit do not establish
-    that it shows this seizure, so no media entry is added.
-  - The submitted source spells the first accused's village as Marwari while the existing report uses Marwadi.
   - Dainik Bhaskar gives no separate date for the stop or the arrests; 1 November 2026 is its publication date.
-  - The submitted page names the district as Una but the place only as Bharwai, and the account is a brief summary that does not name the two accused.
   - Dainik Bhaskar's photo caption identifies only the accused and the SIU team, with no visible confirmation of the seized charas or weighing scale.
 ---
 

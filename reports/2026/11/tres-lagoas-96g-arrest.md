@@ -56,7 +56,6 @@ open_questions:
   - The substance was described only as resembling maconha, with no laboratory confirmation reported.
   - The suspect's name was not published.
   - No court outcome was reported; he had been taken to the police station for legal measures.
-  - The Rádio Caçula page image is captioned only as Foto Ilustrativa, so it is not established to show this seizure and no media entry is added from this source.
 ---
 
 A 21-year-old man was arrested on suspicion of drug trafficking on the night of

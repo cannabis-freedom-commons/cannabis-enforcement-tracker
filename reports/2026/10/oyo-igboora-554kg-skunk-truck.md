@@ -147,16 +147,7 @@ open_questions:
   - The dealer known as Omo Oba escaped on 25 October and his identity and whereabouts are not reported.
   - No charges or court outcome for the two arrested men have been published.
   - The NDLEA statement also reports operations in Lagos, Kano, Kaduna, Sokoto, Ondo and Edo, which are different events left out of this report.
-  - The photographs on the source pages show suspects from other operations in the same roundup, not this arrest, so no media entry was added.
-  - The submitted page's single image carries only the file-name caption ImageMerge_LongImage_20261101_135938647 and cannot be confirmed to show the Igboora truck seizure, so no media entry was added.
-  - This account calls the 309.5 kg seizure Ghanaian Loud while the existing report calls it skunk; both are described as cannabis.
-  - The submitted page is a multi-event NDLEA roundup headlined on the Abuja cocaine arrests; this decision covers only its Oyo cannabis component.
   - The cocaine, diazepam, Exol-5, tramadol, pentazocine and AK-47 ammunition seizures in the same article are separate non-cannabis events excluded from this cannabis account.
-  - No verified photo of the Igboora truck seizure was identified; the page images carry empty captions and cannot be confirmed to show this event, so no media entry is added.
-  - The Volvo truck detail and Thursday weekday in the existing report rest on earlier sources; the submitted account confirms truck, place, names, ages, date and weight but does not state the Volvo model.
-  - The page's single image carries only the file-name caption ndlea001_1793531545 with no credit and cannot be confirmed to show the Igboora truck seizure, so no media entry is added.
-  - The submitted page is a multi-event roundup; this update uses only its Oyo cannabis component.
-  - The Nation amp text prints the earlier Oyo seizure as “309.5. 5 kilograms” with an extra separator; the NDLEA statement gives it as 309.5 kilograms, which the existing report uses.
 ---
 
 ## The arrests

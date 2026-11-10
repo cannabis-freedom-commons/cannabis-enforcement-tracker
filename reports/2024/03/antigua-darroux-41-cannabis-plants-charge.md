@@ -61,7 +61,6 @@ open_questions:
   - No town or village for Darroux's residence is named, so the place is recorded as Antigua with region precision.
   - No arrest is described in the sources, so only one charged person is counted and no arrested figure is given.
   - No plea, trial or case outcome beyond the bail order was reported.
-  - The photographs on the three pages are generic or stock cannabis images, not confirmed to show this seizure, so no media entry is listed.
   - The three accounts carry nearly identical wording, so the extent of independent reporting behind them is unclear.
 ---
 

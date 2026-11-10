@@ -50,9 +50,7 @@ open_questions:
   - The 26.4 kg seized in Peshawar is described only as narcotics without a substance breakdown, so it is excluded from the cannabis figure.
   - The 210 kg of morphine, 7.2 kg of opium and 11.29 kg gross weight of ice-absorbed bags are non-cannabis substances in the same event and are excluded from kg_seized.
   - The suspects are not named and no ages, charges in court or court dates beyond registration under the Control of Narcotic Substances Act are given.
-  - The page carries several seizure photos with empty captions and alt text, so whether they depict this event could not be established and no media entry is added.
   - No second report of the same nine operations was found; searches for the agency statement and other outlets returned no accessible results.
-  - The UrduPoint feature image carries only the article title as alt text with no caption or credit establishing it shows this seizure, so no media entry is added.
 ---
 
 The Anti-Narcotics Force arrested 10 suspected drug traffickers, including a

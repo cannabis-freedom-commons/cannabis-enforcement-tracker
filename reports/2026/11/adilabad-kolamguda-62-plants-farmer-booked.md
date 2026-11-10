@@ -45,7 +45,6 @@ open_questions:
   - Only one accessible source for this event was found, so no second report could confirm or add facts.
   - No weight, field area or plant value was published, so only the 62-plant count is recorded.
   - The source does not state an arrest separately from registering the case and producing the farmer in court.
-  - The page carries a photo without a caption, credit or descriptive alt text, so no media entry is listed because the image cannot be established to show this event.
 ---
 
 Excise officials booked farmer Kodapa Jyotiram of Kolamguda after finding

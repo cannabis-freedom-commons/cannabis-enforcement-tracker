@@ -64,7 +64,6 @@ open_questions:
   - Cáceres Notícias put Cáceres 220 km from Cuiabá and described the second traffic notice as driving without regular licensing; CPA Notícias said 218 km and described that notice as driving without mandatory equipment.
   - CPA Notícias published two images without captions, so they were not added; the Cáceres Notícias image is credited to the military police but its file name is an untitled design.
   - Leiagora describes a high-speed flight and chase; Cáceres Notícias, already cited, describes a sudden change of route and behaviour the police called suspicious, not a chase.
-  - Leiagora says the pair were members of a criminal faction and were to take the drug to a residence, then to a police station to register an occurrence; the existing report says they sympathised with a faction, names a more specific destination, and says they were taken to the Centro Integrado de Segurança e Cidadania.
   - The page’s lead image is labelled only “PM” and looks like the same military-police handout already linked from Cáceres Notícias, so it was not added again; the other images on the page belong to unrelated stories.
 ---
 

@@ -58,7 +58,6 @@ open_questions:
   - No charge, summons or court date for the drug-driving procedure is reported; police were awaiting the analysis of samples.
   - Only one accessible source for this stop was found after searching in French; no separate police statement was available.
   - The page photo is captioned as an illustration and shows the man concerned, not the roadside check.
-  - The submitted page attributes the stop to Ouest-France; Ouest-France's own article could not be opened, so it is cited here only from its search-result headline and the Autonews account.
   - The Autonews page illustration is credited to the Landes national police's Facebook page and is captioned only as an illustration; it does not show this stop.
 ---
 

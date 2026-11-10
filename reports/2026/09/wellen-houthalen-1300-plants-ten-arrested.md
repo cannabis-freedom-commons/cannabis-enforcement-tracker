@@ -56,7 +56,6 @@ open_questions:
   - No charges, court steps or identities beyond the arrestees' home towns were reported.
   - The 300,000 euros is described only as cash seized, with no statement that it was proceeds of cannabis sales.
   - The article also reports 1.5 kilograms of cocaine, which is outside cannabis figures and not counted here.
-  - The page picture is captioned only as an illustration, so no media entry is listed.
   - Only one account, carried by Belga, could be opened; no police statement or second outlet confirmed the details.
   - The 1,300 plants are given as one total for both plantations, without a split between Wellen and Houthalen.
   - The cannabis is reported only as eleven kilograms, without separating dried flower from plants.

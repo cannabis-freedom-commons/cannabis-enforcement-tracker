@@ -40,7 +40,6 @@ sources:
 open_questions:
   - Only one accessible account of this event was found after searching for a second report under the defendants' names and the Locust Mountains location.
   - The bail sums are stated only as $30,000 and $20,000 with no currency given, so they are kept in the text and left out of the structured figures.
-  - The page carries a photo whose caption only repeats the headline and gives no credit establishing that it shows this seizure, so no media entry is included.
   - The outcome after the adjournment to May 9, 2011 was not reported in the opened source.
 ---
 

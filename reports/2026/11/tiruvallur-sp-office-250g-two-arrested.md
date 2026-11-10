@@ -43,7 +43,6 @@ sources:
 open_questions:
   - The article says the check happened the day before yesterday relative to its 3 November 2026 publication, so 1 November 2026 is used as the incident date.
   - Only one source for this event could be opened, so no independent corroboration was available.
-  - The page carries images whose captions do not establish that they show this seizure, so no media entry is added.
   - No street value, NDPS sections, or court or custody outcome were reported.
 ---
 

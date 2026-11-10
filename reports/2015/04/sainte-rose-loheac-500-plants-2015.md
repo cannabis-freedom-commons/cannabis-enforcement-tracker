@@ -53,8 +53,6 @@ open_questions:
   - The sources give no split between the plants in the garden and those in the small nearby building, and no detail on their size or maturity.
   - No court outcome after the October 2015 criminal-court summons was reported in these articles.
   - The resident's name and the outcome of his police custody ruling were not published.
-  - 'Neither page shows a photo of this seizure: RCI uses a generic site image and La 1ère an unattributed illustration captioned irandaily, so no media entry is included.'
-  - This account does not name the Lohéac neighbourhood given in the existing report; the match rests on Sainte-Rose, the 53-year-old unemployed man, the 500 plants and the same units.
 ---
 
 Gendarmes seized 500 cannabis plants from the home of a resident of Lohéac, in

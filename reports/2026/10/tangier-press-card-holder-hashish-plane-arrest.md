@@ -54,7 +54,6 @@ open_questions:
   - The detainee is not named in these reports.
   - The exact Wednesday presentation date and any court outcome are not yet reported.
   - The incident day of Sunday 25 October 2026 is inferred from the 26 and 27 October publication dates stating the arrest happened 'yesterday' and 'last Sunday'.
-  - The pages carry photos, but their captions do not confirm they show this arrest, so no media entry is given.
   - An Al Akhbar background passage describes other aircraft hashish incidents near Tangier, Asilah and Ksar El Kebir; those are separate events left out of this report.
 ---
 

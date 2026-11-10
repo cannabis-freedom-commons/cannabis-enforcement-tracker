@@ -146,16 +146,6 @@ open_questions:
     accordance with Hong Kong's Pharmacy and Poisons Ordinance is punishable on conviction by up to a
     HK$100,000 fine and two years' imprisonment.
   - >-
-    The page's captioned Government Information Service photo of the seized suspected cannabis buds appears to
-    republish the same agency handout already listed from on.cc, so no separate media entry is added.
-  - >-
-    The 881903 page carries a Government Information Service photo of the seized suspected cannabis buds that
-    appears to republish the same agency handout already listed from on.cc, so no separate media entry is
-    added.
-  - >-
-    The RTHK page carries a Government Information Service photo captioned 案件檢獲的懷疑大麻花 that appears to
-    republish the same agency handout already listed from on.cc, so no separate media entry is added.
-  - >-
     The HK$1.06 million estimated value covers the cannabis, Part I poison products and cigarettes together,
     not cannabis alone.
   - No quantity, weight or estimated value is given separately for the three suspected Part I poison products.
@@ -171,13 +161,6 @@ open_questions:
   - >-
     Left out, as its quotation was not found in Hong Kong Customs and Excise Department: They also seized
     three types of products containing suspected Part I poison and 261 sticks of duty-not-paid cigarettes.
-  - >-
-    The HKEJ page carries a Government Information Service photo captioned as the seized suspected cannabis
-    buds that appears to republish the same agency handout already listed in the report, so no separate media
-    entry is added.
-  - >-
-    The Oriental Daily page carries a captioned photo of the seized suspected cannabis buds that appears to
-    republish the same Customs handout already listed in the report, so no separate media entry is added.
   - >-
     The new account confirms the West Kowloon appearance had occurred by 4 November but reports no outcome of
     that hearing.

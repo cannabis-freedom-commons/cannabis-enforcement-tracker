@@ -101,14 +101,11 @@ open_questions:
   - Mid-Day dates the arrests to Thursday, 29 October; the Rediff report says a Mumbai police official spoke on Friday and its summary dates the arrest to Friday.
   - No charge sheet, court date or court outcome has been reported.
   - The two reports spell the second man's surname differently, Ghongade in Mid-Day and Dhongade in the PTI report.
-  - The only pictures on the two pages are labelled representational, including an AI-generated image on Rediff, and do not show the arrest or the seizure, so no media link is included.
   - News Danka gives the Rs 66.36 lakh figure as the cannabis's approximate price in the international market, while Mid-Day attributes the valuation to police; the report keeps the police attribution.
-  - The News Danka page carries a lead image but no caption or credit, and it could not be confirmed to show the seizure, so no media link is included.
   - The article does not say where the hydroponic cannabis was grown or whom the men intended to supply in Mumbai.
   - The IANS account and Loksatta say officers spotted the men while on patrol and caught them at the scene, while the PTI report already cited says the arrests followed a tip-off and a trap.
   - The patrol time is given as 7.50 pm by IANS and Loksatta but as about 7.45 pm in the News Danka report already cited.
   - Dainik Bhaskar Hindi carries the article as an automated feed item credited to IANS, the same wire copy already cited here from Punjab Kesari, so it adds no independent confirmation of the police account.
-  - The page's only picture is a thumbnail captioned with the headline and carries no credit, and it could not be confirmed to show the seizure, so no media link was added from it.
   - 'Left out, as its quotation was not found in News Danka: Sub-Inspector Ranjit Gondkupe of the MIDC police station and the anti-narcotics squad were patrolling on the night of 29 October and spotted the two men at about 7.45 pm.'
   - The Khaskhabar headline rounds the seizure's value to Rs 66 lakh, while its text gives Rs 66.36 lakh, the figure used in the report.
   - Saamana says the men came from Satara to traffic cannabis, while the report's existing wording, drawn from other outlets, says they came to sell it.
@@ -116,12 +113,10 @@ open_questions:
   - Saamana spells the sub-inspector Gondkuppe (गोंदकुप्पे); the report already has Gondkupe.
   - Saamana states the Rs 66.36 lakh figure as the cannabis's price without naming who made the estimate.
   - Saamana gives the men's names as Omkar Pawar and Piyush Ghongade and does not give the ages or patronymics already in the report.
-  - The page's only image is a file named ganja.gif, uploaded in April 2023 and captioned ganja, and it is not confirmed to show this seizure, so no media link was added.
   - Pudhari gives the patrol time as about 7.50 pm near J.K. Industrial Estate, matching the IANS and Loksatta timing already noted, not the about 7.45 pm in News Danka.
   - Pudhari spells the sub-inspector गोंदुकुपे (Gondukupe), a third spelling beside Gondkupe and Gondkuppe already recorded.
   - The page image is captioned only Arrest and the file path is dated January 2026, so it was not treated as a photo of this seizure.
   - 'Left out, as its quotation was not found in Pudhari: Police gave the men''s addresses as Bhakarwadi and Wathar Station in Koregaon, Satara district.'
-  - The Lokmat page's only image is captioned with the headline and credited to no one, and its file name carries a date eleven days before the raid, so it could not be confirmed to show this seizure and no media link was added from it.
   - 'Left out, as its quotation was not found in Lokmat: When police approached, the two men tried to hide a red plastic bag and flee, and officers caught them at the scene.'
 ---
 

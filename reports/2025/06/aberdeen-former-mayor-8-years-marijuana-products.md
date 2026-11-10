@@ -49,7 +49,6 @@ open_questions:
   - The article gives no separate date for the sentencing hearing; 17 June 2025 is its publication date and is used as the incident date.
   - No quantity, weight or value for the marijuana products was published.
   - The sentencing court and the exact release terms violated were not named.
-  - The submitted page images are portraits of Howard, not photos of the event, so no media is listed.
 ---
 
 Former Aberdeen Mayor Maurice Howard, 41, was sentenced to eight years in prison

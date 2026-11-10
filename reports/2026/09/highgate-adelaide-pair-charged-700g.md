@@ -55,7 +55,6 @@ open_questions:
   - The submitted Adelaide Now page showed only a paywall preview, so the names and home-detention bail outcome in its URL could not be verified from the opened text.
   - The 700 grams of cannabis and the other drug weights and cash are police allegations, with no independent weighing reported.
   - No valuation of the seized jewellery, watches or vehicles was published.
-  - No verifiable photo of this search was available, so no media entry is listed.
 ---
 
 South Australia police arrested a 30-year-old man and a 23-year-old woman after

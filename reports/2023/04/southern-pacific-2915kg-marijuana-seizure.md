@@ -63,7 +63,6 @@ open_questions:
   - The names and nationalities of the three detained foreigners were not published.
   - No charges, custody decision or court outcome were reported beyond that the detainees must answer for alleged drug trafficking.
   - The exact interception point in the southern Pacific was not specified beyond the general area, so Tumaco is used as the regional reference point.
-  - The submitted La Prensa photograph is captioned as a Panama archive image and does not show this seizure, so no media entry is taken from it.
   - The same La Prensa article mainly reports Nicaraguan and Central American 2021-2022 general-drug and cocaine totals, which are national statistics left out of this cannabis report.
   - Both corroborating accounts reproduce the EFE and Navy version, so there is no independent non-official account of the interception.
 ---

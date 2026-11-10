@@ -33,7 +33,6 @@ open_questions:
   - Both opened pages are reprints; the Haaretz and Jerusalem Post originals could not be opened, so no fully independent second outlet confirms the details.
   - One account says three people were detained while another describes two managers questioned for hours; the report treats these as the same detentions, all released the same day.
   - No quantities of cannabis or financial figures for the alleged oversupply were published.
-  - A Jerusalem Post photograph of the patient protest exists on the source page but its direct image address could not be recovered, so no media entry is made.
 sources:
   - title: Medical marijuana outlet nabbed for overselling in sting operation
     url: https://drugs-forum.com/ams/medical-marijuana-outlet-nabbed-for-overselling-in-sting-operation.14640/

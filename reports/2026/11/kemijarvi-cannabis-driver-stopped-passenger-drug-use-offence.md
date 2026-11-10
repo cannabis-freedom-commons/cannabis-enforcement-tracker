@@ -32,7 +32,6 @@ open_questions:
   - The article does not say whether the driver or passenger was arrested, cautioned or released, or whether any charges have been filed.
   - It is not clear whether the patrol was in Kemijärvi town or elsewhere in the municipality.
   - The Lapland police department's own weekend statement, published on 8 November 2026 and cited here, does not describe the Kemijärvi cannabis stop in the text opened and places a separate suspected drug-impaired driving case from the same weekend in Keminmaa, so the Kemijärvi account could not be corroborated there.
-  - The only image on the page is a generic police-station illustration, not a picture of this event, so no media entry is added.
 ---
 
 A police patrol conducting traffic surveillance in Kemijärvi stopped a vehicle

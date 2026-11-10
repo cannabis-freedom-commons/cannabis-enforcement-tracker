@@ -48,7 +48,6 @@ open_questions:
   - The article places the patrol near a state school in one passage and says the stop was less than 200 metres from a municipal school in another; both descriptions are retained.
   - No name or age was published for the arrested man.
   - No charge or court outcome beyond transfer to the police station and remaining at the disposal of justice was reported.
-  - The page carries a photo credited to Comando Geral, but its caption does not describe its content, so no media entry is included.
   - The seized R$54 and mobile phone are non-cannabis seizures excluded from cannabis figures.
 ---
 

@@ -59,7 +59,6 @@ open_questions:
   - The seven bricks and 10,000 ketes are cocaine or unattributed drug packets, not marijuana, and are excluded from the cannabis figures.
   - Outlets spell the alias Rochi or Roshi and the second detainee Marlon or Marlos Mendoza Salinas; the Infobae spellings are used.
   - No charges, custody ruling or court outcome were reported; the case was under investigation by the Dirandro.
-  - The Infobae page images are an outlet composition and a handout with a non-descriptive caption, so no media entry is added.
 ---
 
 Peru's National Police captured 68-year-old Luis Eduardo Vera Sansoni, known as

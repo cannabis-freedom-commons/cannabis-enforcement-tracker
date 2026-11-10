@@ -49,7 +49,6 @@ open_questions:
   - The article does not say what the two were charged with or whether a court has dealt with the case; no bail or charge-sheet information was published.
   - Whether the weighing machine and iPhones indicate sale rather than personal use is the police's account, not an established court finding.
   - No street value was stated for the ganja or the MDMA.
-  - The submitted page's lead event, a Kannur MDMA arrest, is outside the cannabis scope and is left out of this report.
 ---
 
 The EAGLE force, Telangana's Elite Action Group for Drug Law Enforcement,

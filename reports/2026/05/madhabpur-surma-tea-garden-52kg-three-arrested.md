@@ -53,7 +53,6 @@ open_questions:
   - No value for the seized cannabis was published.
   - No court outcome beyond the filing of the case under the Narcotics Control Act was reported.
   - The 52 kg figure is the RAB count; no independent weighing was reported.
-  - The Banglar Alo News page carries a photo captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
 ---
 
 RAB-9 arrested three drug traders with 52 kg of ganja in Madhabpur upazila of

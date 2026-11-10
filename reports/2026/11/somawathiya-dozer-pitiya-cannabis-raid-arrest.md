@@ -47,7 +47,6 @@ open_questions:
   - The approximately 1.5 acres is recorded as about 0.61 hectares by conversion.
   - No charges, suspect details or cannabis weight were reported; the remand until November 13 is the only court outcome given.
   - Only one accessible source for this event was found after searching in English and Sinhala.
-  - The Newswire page carries a photo file named Cannabis-field.jpg without a caption or credit, so it cannot be established to show this raid and no media entry is included.
 ---
 
 A suspect was arrested for allegedly clearing protected forest land and

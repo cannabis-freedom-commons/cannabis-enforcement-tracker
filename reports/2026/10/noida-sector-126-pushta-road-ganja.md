@@ -53,9 +53,7 @@ open_questions:
   - Amar Ujala described the haul as “sava do kilo” (about 2.25 kg), while the police account reported 2 kg 150 g (2.15 kg); the report uses 2.15 kg.
   - Police said the accused had earlier theft, NDPS and Arms Act cases; those earlier cases were not independently confirmed.
   - No charge sheet, court appearance or custody decision has been reported.
-  - Neither report carried a captioned photograph that could be confirmed as showing this arrest, so no media is linked.
   - This account does not give a separate date for the arrest.
-  - Royal Bulletin spells the station house officer सोमनेश कुमार, while the existing report uses Sumneesh Kumar from earlier sources.
   - The same article reports a separate Sector-20 arrest of Ankit Bhati for vehicle theft, a pistol and cash, which is not part of this cannabis case.
   - The page image is captioned only with the headline and was not confirmed as a photograph of this arrest, so it is not linked.
 ---

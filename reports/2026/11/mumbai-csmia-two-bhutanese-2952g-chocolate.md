@@ -64,16 +64,11 @@ open_questions:
   - No illicit-market value, charges beyond the NDPS Act arrest, bail or court outcome were reported.
   - The article does not say whether the two men were connected to one another or to the same Bangkok syndicate.
   - Only one account of this event could be opened; no second outlet or Customs statement was accessible.
-  - The lead photo is captioned as a representational image and is an older file, so it does not establish that it shows this seizure and no media entry is included.
   - The Gallinews page gives no separate date for the two interceptions and only its own 5 November 2026 publication date.
   - The Gallinews page names neither man, so it cannot confirm or contradict the names Tshegay and Tashi Tenzin used in the Free Press Journal account.
-  - Lokmat does not give a calendar date for the two interceptions; its publication is 6 November 2026, two days after the dateline used as the incident date in the existing report.
   - Lokmat names only the second passenger, Tashi Tenzin, and does not name the first, so it cannot confirm the name Tshegay used in the Free Press Journal account.
   - The headline speaks of smuggling worth crores but the article states no rupee value, so no value is recorded.
-  - The page's single photo is a generic file captioned with the headline and is not established to show this seizure, so no media entry is added.
-  - The Navbharat Live page gives no separate date for the two interceptions and no dateline; its publication is 6 November 2026, two days after the dateline used as the incident date in the existing report.
   - The page gives no illicit-market value, charges beyond the NDPS Act arrest, or bail or court outcome.
-  - The page's lead photo is captioned as a representational image from social media, so it is not established to show this seizure and no media entry is added.
 ---
 
 Air Intelligence Unit officers at Chhatrapati Shivaji Maharaj International

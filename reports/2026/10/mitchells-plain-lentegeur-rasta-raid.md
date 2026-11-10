@@ -54,7 +54,6 @@ sources:
     date: 2026-10-19
 open_questions:
   - No quantity or value for the seized dagga was published, and no details of the arrested person or any charge were reported.
-  - The IOL page carries family-supplied photos of masked officers and the broken-in entrance; they were not independently verified as showing this raid, so no media entry is listed.
   - SAPS has confirmed only the operation, the arrest, the seizure and the case against its members; it has not publicly addressed the warrant, staffing or forced-gummy claims.
   - No outcome of the SAPS investigation, the planned IPID referral, or the theft and malicious-damage cases is reported.
   - The Cape Flats account also describes a 30 September triple murder in Lentegeur, a separate non-cannabis case left out here.

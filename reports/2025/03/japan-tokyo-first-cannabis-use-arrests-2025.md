@@ -37,7 +37,6 @@ open_questions:
   - The 31 March 2025 reports say the arrests happened recently but give no exact arrest dates; 31 March is the disclosure date.
   - The woman was not named in the opened reports.
   - No court outcome was reported; both had reportedly admitted the charges.
-  - The accompanying article image could not be verified as showing this event, so no media entry was added.
 sources:
   - title: Tokyo police make first arrest since cannabis use made illegal
     url: https://essential-japan.com/news/tokyo-police-make-first-arrest-since-cannabis-use-made-illegal/

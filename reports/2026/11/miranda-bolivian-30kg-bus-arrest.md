@@ -58,10 +58,7 @@ open_questions:
   - The result of the 2 November custody hearing and any later charge or court outcome were not reported.
   - Only one accessible source for this event was found; searches for a second account found none.
   - The page also mentions a separate seizure of 661 kg of coca leaf, a different event left out of this cannabis report.
-  - The headline rounds the seizure to 30 kg while the text gives approximately 30.2 kg, matching the existing report's 30.2 kg figure.
-  - The suspect's name and age given in the existing report are not repeated in this account.
   - The result of the 2 November custody hearing was still unpublished in this account.
-  - The page image is explicitly marked as illustrative PRF action, so it does not show this seizure and no media entry is added.
 ---
 
 Federal Highway Police arrested 25-year-old Bolivian national Belmar Melgar

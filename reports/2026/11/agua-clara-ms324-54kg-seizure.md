@@ -44,7 +44,6 @@ open_questions:
   - The report counts three detained people from the driver plus two others found at the snack bar who were all taken to the Civil Police; no names, charges or court outcome were published.
   - The cocaine-like portion, R$220, R$250 purchase claim, scale and packaging materials are non-cannabis details and are not counted in cannabis figures.
   - Only one accessible account of this event was found after searching in Portuguese; no agency statement or second outlet account could be opened.
-  - The page image is captioned only as Imagem with no credit or event description, so it is not established to show this seizure and no media entry is included.
 ---
 
 An enforcement operation was recorded on Wednesday 4 November 2026 in Água Clara

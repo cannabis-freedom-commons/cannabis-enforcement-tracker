@@ -82,10 +82,8 @@ open_questions:
   - The operation reported about 200,000 drug-containing plants, but the sources do not say how many were cannabis or whether they were destroyed, so they are not counted as cannabis plants destroyed.
   - No charges, court dates or sentences were reported for the 376 people detained.
   - MIR24 said the operation lasted three days, while the other reports give 26–30 October.
-  - The submitted page's only image is the CSTO flag, not a photograph of the operation, so no media is listed.
   - Open.kg gives "more than 1,700" rounds of ammunition, while the report's 1,722 comes from the CSTO statement; the figures are compatible but not identical.
   - 'Left out, as its quotation was not found in ОДКБ (CSTO): Within CSTO territory, officers seized more than 1,260 kg of marijuana and over 232 kg of hashish — at least 1,492 kg of cannabis — along with 47 kg of alpha-PVP, more than 68 kg of mephedrone and 31 kg of heroin.'
-  - The page's only listed image has no caption identifying what it shows, so no media entry is made.
 ---
 
 Officers from five Collective Security Treaty Organization (CSTO) states

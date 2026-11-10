@@ -60,9 +60,7 @@ open_questions:
   - The suspect’s name was not published.
   - No charges, custody decision or court outcome were reported; the cultivation inquiry was still under way.
   - Only the KSB original and its docomo mirror were accessible; no independent second outlet was found.
-  - The page image is captioned as the Okayama Higashi Police Station building and does not show the event, so no media entry is included.
   - The Infoseek page carries the same KSB text under article ID 17022773, so it provides no independent second-outlet verification beyond the KSB original and its mirror.
-  - The page image carries only the article headline as its caption and is not established to show the seizure, so no media entry is added.
 ---
 
 Okayama Higashi police arrested a 67-year-old unemployed man living in

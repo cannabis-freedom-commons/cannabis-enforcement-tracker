@@ -62,7 +62,6 @@ open_questions:
   - No court outcome was reported; the preliminary investigation was still under way.
   - The glass tube with soot traces was not identified as cannabis and is not counted in cannabis figures.
   - Only one accessible source for this event was found after searching in Russian, English and Armenian.
-  - The NEWS.am page carries an image with a generic caption matching the headline, which does not by itself establish that it shows this seizure, so no new media entry is added.
 ---
 
 Yerevan criminal police detained two Armenian citizens and two foreigners on the

@@ -47,7 +47,6 @@ open_questions:
   - Only one accessible source for this drug sentence was opened, so no second independent account confirms the verdict details.
   - The 1.3 grams of 4-methylmethcathinone analogue and 0.1815 grams of synthetic cannabinoid MDMB-4en-PINACA are synthetic or psychotropic substances and are therefore excluded from cannabis figures.
   - The 99,612 tenge in procedural costs and 86,500 tenge to the victims' compensation fund cover the whole mixed case and are excluded from cannabis fine figures.
-  - The only published image is captioned as a still from video and is not shown to depict the January search or the April sentence, so no media entry is included.
   - The same article also reports her 28 October 2026 detention by the National Security Committee on suspicion of inciting ethnic discord and calling for Russian troops, a separate event left out here.
   - The article says police stopped the car and searched her but does not state a formal arrest at the January stop, so no arrested figure is recorded.
 ---

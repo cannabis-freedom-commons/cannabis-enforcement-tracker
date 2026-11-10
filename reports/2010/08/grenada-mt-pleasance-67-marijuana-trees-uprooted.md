@@ -43,7 +43,6 @@ open_questions:
   - Only one account of the operation could be found; searches turned up no independent reporting or separate police statement.
   - The source dates the operation only as "Tuesday of this week" in a story dated 26 August 2010; 24 August 2010 is used as the incident date.
   - No weight, area cleared or street value was published for the uprooted plants.
-  - The page's only picture is a generic file captioned just "Marijuana", not tied to this operation, so no media entry is included.
   - No information was published on who cultivated the plants or on any later arrest or charge.
 ---
 

@@ -57,7 +57,6 @@ open_questions:
   - No amount was published for the seized cash and no count was published for the bladed weapons.
   - No name, age or other identity was published for the detained suspect or the wanted second suspect.
   - No later charge, trial or court outcome was reported.
-  - No available image could be confirmed by caption or credit to show this seizure, so no media entry is included.
 ---
 
 The National Guard's central anti-drug brigade in Ben Arous, backed by

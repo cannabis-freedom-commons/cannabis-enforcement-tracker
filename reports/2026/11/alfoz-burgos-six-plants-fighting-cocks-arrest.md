@@ -127,7 +127,6 @@ open_questions:
   - The 22 kilograms is stated as a green (fresh) weight, not dried cannabis, and it is the weight of the six plants.
   - No court outcome, plea or measure of restraint was reported; the case file was sent to the courts of Burgos.
   - El Debate credits the statement to Europa Press and Burgosconecta reproduces the same Guardia Civil statement, so the accounts are not independent reporting.
-  - The submitted page shows one handout photo captioned 'Gallos hallados en la finca', but no caption states which part of the property it depicts.
   - Burgosconecta's main photo is captioned as showing the property, the seized plants and a cock; the outlet credits it as 'BC' without naming the photographer, and it is not confirmed whether the Guardia Civil took it.
   - The article gives no separate date for the inspection or arrest; 9 November 2026 is its publication date.
   - 'The Diario de Burgos photos are identical in caption and credited only as ''Foto: Guardia Civil'', so only one is listed.'
@@ -139,9 +138,7 @@ open_questions:
   - La Voz de Medina does not name the municipality where the plot lay, nor the exact date of the inspection or arrest; 9 November 2026 is its publication date.
   - The outlet says the Guardia Civil has not confirmed that cockfights were held on the property, and it reports no later court situation for the detainee.
   - El Adelantado credits the account to the Subdelegación del Gobierno and to Guardia Civil statement material, so it is not independent reporting of the arrest.
-  - The article gives no separate date for the inspection or the arrest; 9 November 2026 is its publication date and is already used as the incident date in the existing report.
   - The page photo is captioned as the eight mutilated cocks found by Seprona, with no named photographer and no credit line.
-  - This account was published on 10 November 2026 and gives no separate date for the inspection or arrest; the existing report uses 9 November 2026, the publication date of the Guardia Civil statement, as the incident date.
   - The page shows one image whose caption only repeats the headline, so no photo is listed as showing the event.
 ---
 

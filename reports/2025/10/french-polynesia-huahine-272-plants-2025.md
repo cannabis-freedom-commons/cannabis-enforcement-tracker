@@ -71,7 +71,6 @@ open_questions:
   - The year-to-date gendarmerie tally of 17,524 plants, about 886 kg of herb, plus 64 kg of packaged herb, is a separate cumulative total left out of this single-seizure report.
   - Customs yearly cannabis totals and all ice and methamphetamine seizures, weights and consumption estimates in the same overview are separate events and substances excluded from cannabis figures.
   - All opened accounts repeat the gendarmerie version; no grower or independent account was available.
-  - The submitted overview page uses an AI-generated illustration whose file name refers to a chatgpt image, so it does not show this event and no media entry is taken from it.
   - The TNTV page carries three additional inline photographs without individual captions or credits, and the other outlets appear to reuse the same gendarmerie handout, so only the main credited gendarmerie photo is listed to avoid guessing and duplication.
 ---
 

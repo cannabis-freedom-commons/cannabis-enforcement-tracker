@@ -39,7 +39,6 @@ open_questions:
   - The 600 kg total is calculated from the reported estimated sack capacity of 100 kg each, not a weighed laboratory total.
   - No arrests, names, or charges were reported; the alleged traffickers remain sought with the judicial outcome unknown.
   - Only one opened source was available for this event despite searching in French for a second account.
-  - The page's only image is a generic 2023 Republican Police vehicle photo, not this seizure, so no media entry is included.
 ---
 
 Officers of the Bembèrèkè district police station carried out an important drug

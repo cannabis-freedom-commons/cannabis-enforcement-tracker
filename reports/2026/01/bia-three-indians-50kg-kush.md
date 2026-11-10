@@ -50,7 +50,6 @@ open_questions:
   - The account gives no separate arrest date beyond officials speaking on Tuesday, so 6 January 2026 is inferred from the 7 January 2026 publication date.
   - No charges, custody decision or later court outcome were given.
   - Only one opened source could be used after searches found no second accessible account of the same arrests.
-  - The page carries a photo captioned with the headline, but nothing confirms it shows this seizure, so no media entry is included.
   - The report does not name the third suspect, give the flight number, or break down how the 50 kg was divided among the three.
   - Both this case and the April 2026 monks case were each described as the largest haul at the airport; the record figure reported for the April case is 110 kg against 50 kg here.
 ---

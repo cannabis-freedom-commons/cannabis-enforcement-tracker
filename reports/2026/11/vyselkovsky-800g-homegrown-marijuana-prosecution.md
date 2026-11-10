@@ -58,7 +58,6 @@ open_questions:
   - No separate date for the court referral is given; 4 November 2026, the earliest publication date, is used as the incident date.
   - The man's name was not published and no court or hearing date was reported.
   - No figure for the number of plants grown or the plot area was published.
-  - The submitted page's photograph shows a uniformed officer, not the seizure or plants, so no media entry is included.
 ---
 
 The investigative department of the Vyselkovsky district police completed a

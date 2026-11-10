@@ -31,7 +31,6 @@ open_questions:
   - The article does not give the man's name or age, and the woman in the house was not reported as detained or charged.
   - The cocaine, ecstasy, boric acid, card machine and R$ 94 in coins are non-cannabis seizures excluded from the cannabis figures.
   - No charge or court outcome beyond the transfer to the Civil Police was reported.
-  - The page photo is captioned only with the arrest headline and credited to the Military Police; it is not established to show the cannabis bar, so no media entry is included.
 ---
 
 Military Police arrested a man in Governador Valadares on the night of Thursday

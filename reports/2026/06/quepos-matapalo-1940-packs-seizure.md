@@ -52,7 +52,6 @@ open_questions:
   - La Prensa said the detainees had not been identified, while AM Prensa gave only the surnames Bustillo and Simón; no given names were published.
   - No charges, precautionary ruling or court outcome were reported; the men were awaiting a prosecutorial and judicial decision.
   - The articles give no separate date for the interception; 22 June 2026 is the publication date used as the incident date.
-  - The submitted page also recalls a separate January 2026 seizure of about 3.5 tonnes off Cabo Matapalo, left out here as a different event.
   - The 120-nautical-mile position is at sea; coordinates are for Playa Matapalo as the named locality, not the interception point.
   - 'Left out, as its quotation was not found in AM Prensa: That later count was 1,940 marijuana packages of about one kilogram each, plus one kilogram of cocaine.'
 ---

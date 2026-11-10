@@ -53,7 +53,6 @@ open_questions:
   - Writeups 24 says the bags held '919 rounds of compressed Ganja', apparently a mistranscription of pounds; the report uses the Observer's 919 pounds.
   - The ganja is described only as compressed ganja, with no laboratory confirmation reported.
   - The article gives no separate time or location detail beyond the community's coastal areas; the 29 March date follows from 'Friday' in the 30 March report.
-  - The Observer photo's caption only repeats the headline and does not show the Norwich bags, so no media is listed.
 ---
 
 The Area 2 Narcotics Division seized 919 pounds of compressed ganja in Norwich,

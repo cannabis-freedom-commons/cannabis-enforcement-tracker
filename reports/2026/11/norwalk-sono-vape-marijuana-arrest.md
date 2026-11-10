@@ -64,14 +64,10 @@ open_questions:
   - The cash is reported only as more than 500 dollars in suspected proceeds, so no precise amount or drug value is recorded.
   - The Arabic name محمد علي زيدان is transliterated by News 12 as Mohamed Ali Zaidan; the spelling difference reflects transliteration.
   - No court outcome was reported; the charges were still before the court.
-  - The submitted page carries a photo whose caption only repeats the headline and does not establish what it shows, so no media entry is included.
-  - The Hour dates the SONO Vape search to 20 October 2026, while the existing report uses the earlier publication date of 2 November 2026 as the incident date.
-  - The new account dates the search to 20 October 2026, while the existing report uses the earlier publication date of 2 November 2026 as the incident date.
   - The new account gives approximately 1.05 pounds (about 0.48 kg) of marijuana flower and THC products, against earlier descriptions of more than half a kilogram and more than a pound.
   - The new account gives an exact $567 in seized currency, against the earlier more than $500 in suspected proceeds.
   - No details of Zaidan's three prior similar arrests were published.
   - No outcome of the scheduled 3 November 2026 court appearance was reported.
-  - The page photo has an empty alt attribute and no caption establishing that it shows this seizure, so no media entry is included.
 ---
 
 Norwalk authorities arrested Mohamed Ali Zaidan, a shop employee described as of

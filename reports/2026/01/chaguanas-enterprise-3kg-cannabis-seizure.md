@@ -41,7 +41,6 @@ open_questions:
   - The two arrests were reported as cocaine possession and possession for trafficking, not as cannabis arrests, so no cannabis-linked arrest charge is recorded beyond the operation total.
   - No quantity, value, laboratory result, or cannabis-linked charge was published for the cocaine finds, and no separate cannabis-linked arrest, value, or court outcome was reported.
   - The Guardian and CNC3 texts are the same police account republished by sister outlets, so only one underlying official version could be checked.
-  - No media entry is included because the Guardian image has no caption or credit establishing that it shows this seizure, and the CNC3 page shows only a generic handcuff photo.
   - 'Left out, as its quotation was not found in CNC3: The exercise took place between 1.00 pm and 6.00 pm and was coordinated by senior officers of the Central Division.'
   - 'Left out, as its quotation was not found in Trinidad Guardian: Officers from the Central Division Task Force Area North took part, with support from the K9 Unit and the Trinidad and Tobago Regiment.'
   - 'Left out, as its quotation was not found in CNC3: Police said searches were conducted at residences of priority offenders under Regulation 390 of the Emergency Powers Regulations, 2025, and in locations identified as areas where illegal narcotics are sold.'

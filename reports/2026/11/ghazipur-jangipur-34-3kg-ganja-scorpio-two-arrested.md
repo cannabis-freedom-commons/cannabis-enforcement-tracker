@@ -71,7 +71,6 @@ open_questions:
   - Only one opened account of this event was found, and no police statement or second outlet report could be located to confirm the weight and the vehicle.
   - No count of the ganja packets, no information on where the ganja was to be sold, and no charge sheet or court outcome were reported.
   - The place is recorded as Ghazipur district because the article names no village or road for the Arsadpur crossing beyond the Jangipur police station area.
-  - The Times of India gives no date beyond 'Saturday'; 7 November 2026 is its publication date and the existing report's incident date.
   - The Times of India names the location as the Arsadpur tri-junction, while the earlier Hindi report called it the Arsadpur crossing; the two are treated as the same spot.
   - The Times of India counts the seized vehicle only as an SUV and does not name a case number or charges.
   - The Amar Ujala account says one of the two men already faced two earlier cases registered at Rajghat police station in Gorakhpur, one of them under the NDPS Act; it gives no case numbers or dates for them.

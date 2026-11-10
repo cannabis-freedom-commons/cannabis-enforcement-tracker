@@ -54,7 +54,6 @@ open_questions:
   - Police describe a lump of cannabis resin but give no weight, so no kilogram figure is recorded.
   - The sources do not list the charges formally, give a hearing date or name the driver; he is identified only as the driver of a van with two passengers.
   - The outlets reproduce the Charente-Maritime police Facebook post, and ICI cites the commissariat and other reporting, so they are not independent accounts; the police post itself could not be opened.
-  - The submitted page photo is an illustration of police vehicles credited to Xavier Léoty / Sud Ouest, not a picture of this incident, so no media is listed.
   - It is not stated whether the driver was released after custody or held pending the hearing.
 ---
 

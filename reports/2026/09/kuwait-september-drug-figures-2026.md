@@ -54,7 +54,6 @@ open_questions:
   - Crystal-meth totals differ between accounts and concern a non-cannabis substance excluded from cannabis figures.
   - Weapon totals differ between accounts and no weapons figure is recorded.
   - The incident date uses the 30 September 2026 statistical cutoff, not the October and November publication dates.
-  - The AlAnba page images show named officials rather than the seizure, and the second page image is not established to show this event, so no media entry is included.
   - The 194 deportations and 52 addiction complaints cover the same all-drugs operation and have no separate cannabis breakdown.
 ---
 

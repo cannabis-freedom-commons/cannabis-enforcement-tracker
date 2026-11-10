@@ -55,10 +55,8 @@ sources:
     language: es
 open_questions:
   - The three outlets reproduce the same Chaco police statement, so no independent account of the checkpoint was found.
-  - The stop is timed at 03:40 in two accounts and 03:45 in the submitted page; the report uses the earlier time.
   - The six grams were confirmed by a field test, with no laboratory result reported.
   - 'No cannabis charge is reported: the proceedings named are for a suspected infringement of article 189 bis of the Penal Code over the firearm, and the men''s situation after the formalities is not stated.'
-  - The pages carry lead photos with no captions or credits linking them to this checkpoint or seizure, so no media entry is listed.
   - 'Left out, as its quotation was not found in Noticias Data: By order of Criminal Investigation Prosecutor''s Office No. 1, headed by Ana Lovey Pessano, the marijuana, the firearm and the ammunition were seized.'
 ---
 

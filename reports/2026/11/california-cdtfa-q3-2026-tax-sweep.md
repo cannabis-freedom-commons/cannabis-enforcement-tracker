@@ -58,7 +58,6 @@ open_questions:
   - The two-to-four-year prison term and $3 million restitution for the Riverside County car dealer concern sales tax evasion, not cannabis, and are omitted from figures.
   - The $10.2 million in banned flavored tobacco and the out-of-state tobacco distributor indictment concern tobacco only and are omitted from figures.
   - No cannabis weight, plant count, or cannabis-specific arrest count was published for this enforcement quarter.
-  - The submitted page image carries no caption or credit confirming it shows this seizure, so no media entry is included.
 ---
 
 CDTFA investigators and inspectors conducted more than 1,700 operations in the

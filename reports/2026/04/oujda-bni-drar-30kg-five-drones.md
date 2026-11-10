@@ -47,7 +47,6 @@ open_questions:
   - Only one accessible account of this event was found, a Le360 press review of Al Ahdath Al Maghribia reporting, after searches in French and Arabic found no agency statement or second outlet account.
   - The suspect's name and any formal charges were not published, and reporting ends with the investigating judge opening an inquiry, so no court outcome is recorded.
   - The referral is dated only as last Friday after the Thursday operation, with no calendar date stated.
-  - The page's only photo is captioned DR with no indication that it shows this seizure, so no media entry is included.
 ---
 
 Royal Gendarmerie units under the Oujda regional command foiled an attempt to

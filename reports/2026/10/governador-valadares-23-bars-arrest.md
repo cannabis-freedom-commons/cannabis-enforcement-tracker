@@ -58,7 +58,6 @@ open_questions:
   - The Diário do Rio Doce says the searches followed the arrest of two women and the apprehension of a 16-year-old in the Elvamar area, while g1 reports only the woman already in custody; those earlier detentions are not counted here.
   - No charge or court outcome is reported for the man arrested, and the woman's role in this case is still under investigation.
   - 'Left out, as its quotation was not found in Diário do Rio Doce: She was already in custody when the bars were found, and the Military Police passed the new information to the Civil Police, which is continuing the investigation.'
-  - The submitted page carries a photo file but its caption and credit are empty, so whether that image shows this seizure could not be established.
 ---
 
 Military Police officers arrested a man on the night of 29 October 2026 after

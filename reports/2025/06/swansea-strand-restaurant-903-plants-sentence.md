@@ -74,7 +74,6 @@ open_questions:
   - No weight of harvested cannabis was published, and the plants are counted only as plants.
   - The wider organised crime group behind the farm was not identified in the reports.
   - Whether either man will be deported was left to the Home Office and no outcome was reported.
-  - No photos of the grow or the plants were published with the opened pages; only police-supplied portraits of the two defendants appeared, so no media is included.
   - 'Left out, as its quotation was not found in WalesOnline: The two men, both Albanian nationals, had paid people smugglers to reach the UK and were in debt to those who organised the farm, whose organisers remain unidentified.'
 ---
 

@@ -49,10 +49,8 @@ open_questions:
   - Only one source could be opened, so no second account confirms the find.
   - The year 2026 for the 20 October find is inferred from the article's 2 November 2026 publication date.
   - Whether the 611 plants were removed or destroyed on site is not stated; they are recorded as plants_destroyed under the tracker convention for seized plants.
-  - The page's only image is a generic ANP stock photo of a hemp plant, so no media entry is added.
   - The page also links a separate Waalre grow of 120 plants, a different event left out here.
   - The CNNBS account names no arrests, charges or court outcome for the Waalre find.
-  - No direct video file for the embedded Veldhoven-Waalre Instagram reel could be recovered, so no media entry is included.
 ---
 
 Veldhoven-Waalre police found 611 cannabis plants in a house in Waalre on 20

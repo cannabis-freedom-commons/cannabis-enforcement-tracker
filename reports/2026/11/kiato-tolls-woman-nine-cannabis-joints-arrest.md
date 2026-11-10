@@ -50,7 +50,6 @@ open_questions:
   - No weight was published for the loose cannabis or for the nine joints, so no cannabis quantity is recorded beyond the count of joints.
   - No street value, charge sheet or court outcome was reported; the Sikyona police station's preliminary investigation was still under way.
   - The woman is identified only by her age and Greek nationality; no name was published.
-  - The KorinthosTV cover image carries no caption or credit establishing what it shows, so no media entry is included.
   - Both opened reports publish the arrest summary from the police announcement without naming an operation.
 ---
 

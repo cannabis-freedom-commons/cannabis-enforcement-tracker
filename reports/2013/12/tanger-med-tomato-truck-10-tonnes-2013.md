@@ -52,7 +52,6 @@ sources:
 open_questions:
   - The truck driver's identity and any court outcome were not reported in the opened sources.
   - The investigation into accomplices had no reported outcome in the opened sources.
-  - No photo confirmed to show this seizure was available on the opened pages, so no media entry was added.
 ---
 
 Moroccan police found 10 tonnes of hashish hidden in a truckload of tomatoes at the Tanger-Med port during a search on Friday 13 December 2013. [@1,2] The truck was bound for France, and the cannabis had been balled up "to look like tomatoes" under a thin veneer of real ones. [@1,2] Regional police colonel Abdellah Dachri said the driver was arrested and an investigation was under way to find accomplices. [@1,2]

@@ -111,8 +111,6 @@ open_questions:
   - Vetogate's lead image is a close-up of handcuffed hands captioned 'the arrest of the accused', with no credit; it could not be confirmed as a photograph of this arrest rather than a stock image, so it was not added.
   - The Belbalady page states it works automatically without human intervention and names Al-Ousboa as its source, so it is a reprint of an already-cited account, not an independent account.
   - No weight or value for the hashish was given, so no cannabis quantity can be recorded.
-  - The page's image is captioned only with the article title and is not established to show this seizure, so no media entry is included.
-  - The Al-Ahram page image is captioned only with the article title and is not established to show this seizure, so no media entry is included.
 media:
   - kind: photo
     url: https://www.egypttelegraph.com/article/291883/%D8%B6%D8%A8%D8%B7-%D8%B9%D8%A7%D8%B7%D9%84-%D8%A8%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9-%D8%A3%D9%86%D8%B4%D8%A3-%D8%B5%D9%81%D8%AD%D8%A9-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC

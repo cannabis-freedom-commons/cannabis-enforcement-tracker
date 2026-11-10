@@ -72,10 +72,7 @@ open_questions:
   - No weight, value or separate cannabis quantity was reported; the seizure is described only as a quantity of narcotic substances.
   - The defendant's full name was not published, only the initials A. M. A.
   - Only one accessible source for this exact defendant and sentence was found after searching in Arabic; similar Sohag sentences concern different initials and dates.
-  - No photograph of the event was available; the page carries only archive and unrelated images, so no media entry is included.
   - The Cairo24 page image is captioned as archival and the Youm7 image as archival custody art, so no event photo is listed as media.
-  - The page photo is captioned only as تعبيرية, meaning illustrative, so no media entry is included.
-  - The initials appear as ع. م. ع in this account versus A. M. A. in the existing report, a transliteration of the same Arabic initials.
 ---
 
 The Sohag Criminal Court closed the case against a worker accused of drug

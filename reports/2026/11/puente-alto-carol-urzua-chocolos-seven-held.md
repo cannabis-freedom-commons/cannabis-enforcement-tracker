@@ -39,7 +39,6 @@ open_questions:
   - No separate weight for the cannabis portion was published; the full account lists cocaine, ketamine, cannabis and controlled medicines together.
   - The article gives no separate date for the raids; 8 November 2026 is its publication date and the day it names for the operation.
   - No charges, court or prosecutor are named, and the outcome of any detention hearing was not reported.
-  - The lead photo is credited to ATON as a reference image and is not shown to depict this raid, so no media entry is listed.
 ---
 
 Detectives of the Modelo Territorial Cero team of Chile's Investigative Police

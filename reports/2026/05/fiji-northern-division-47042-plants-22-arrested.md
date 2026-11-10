@@ -53,10 +53,8 @@ open_questions:
   - No locations for the 93 farms, and no plant weight, area, value or laboratory confirmation were published.
   - No charges, identities or court outcomes were reported for the 22 arrested people.
   - The 68 arrests in the Central and Eastern divisions involved methamphetamine, other illicit drugs and proceeds of crime and are excluded from the cannabis figures.
-  - The submitted page image shows the minister and is a portrait of an official, so no media entry is added.
   - Only one source for this statement could be opened; no second account confirming these totals was found.
   - This account rounds the seizure to more than 47,000 plants and gives no farm count, so the precise 47,042-plant and 93-farm totals rest on the earlier Fiji Sun account.
-  - No event photo is available on the submitted page; its listed images are advertisements.
 ---
 
 More than 47,000 marijuana plants were seized in Fiji's Northern Division during

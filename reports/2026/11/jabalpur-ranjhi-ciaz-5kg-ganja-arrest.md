@@ -85,18 +85,7 @@ open_questions:
   - The Rs 256,500 figure is the police estimate reported in the article, not an independently verified valuation.
   - Whether the lead photograph shows this specific car, ganja or seizure could not be established from its caption alone.
   - The source and intended recipient of the ganja were not yet known; police said investigation was continuing.
-  - The new source attributes the stop to a joint Crime Branch and Ranjhi police team, while the existing report describes it as Ranjhi police.
-  - The new source presents the driver's lift-for-Rs-500 account as his claim without calling it fabricated, differing from the existing report's wording.
   - The new source also says action was taken against both youths, leaving the driver's case status as previously unresolved.
-  - This source describes the stop as by a joint Crime Branch and Ranjhi team, while the existing report wording says Ranjhi police.
-  - The page carries an embedded video, but its caption does not establish that it shows this seizure, so no media entry is added.
-  - This source gives 5.13 kg while the existing report uses 5 kg 131 g from other accounts, a 1-gram rounding difference.
-  - This source spells the names Bal Kishan Nagwanshi and Anand Shrivas while the existing report uses Balkishan Nagvanshi and Anand Srivas.
-  - This source says a case was registered against the two accused, while the existing report says a case was registered against all three occupants.
-  - The page carries an image captioned 5.13 kg ganja seized, but the caption and credit alone do not establish that it shows this seizure, so no media entry is added.
-  - The submitted page was published on 3 November 2026 while the existing report is dated 2 November 2026; no separate day for the stop is given.
-  - The submitted page says action was taken against both youths under Section 8/20, leaving the driver's case status as previously unresolved in the existing report.
-  - The submitted page carries a lead photo but its caption and credit do not establish that it shows this seizure, so no media entry is added.
 ---
 
 Ranjhi police in Jabalpur signalled a suspicious Ciaz car coming from the

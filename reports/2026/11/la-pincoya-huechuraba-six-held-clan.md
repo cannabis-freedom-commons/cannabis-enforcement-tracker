@@ -40,7 +40,6 @@ open_questions:
   - No separate weight for the cannabis portion was published; the almost 4 kg and the more than 19 million pesos cover cocaine base, cocaine hydrochloride and cannabis together, so no cannabis weight or cannabis value is recorded.
   - No charges, detention-hearing outcome or court next step was reported.
   - Only one opened source supports this event; no second account or PDI statement confirming it was found.
-  - The page image has no caption or credit confirming it shows this operation, so no media entry is listed.
   - The text gives a weight ("4 kg") but the figures have no kg_seized; check whether it belongs there.
   - Radio Agricultura and La Tercera closely reproduce the same PDI/Bicrim statement and subprefect's quoted breakdown, so they are not independent reporting.
   - The 261 grams is described only as cannabis, with no statement of the product form or laboratory confirmation.

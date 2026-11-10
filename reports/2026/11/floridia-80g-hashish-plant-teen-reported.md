@@ -56,8 +56,6 @@ open_questions:
   - No separate raid date is given; 2 November 2026 is the publication date used as the incident date.
   - No weight is given for the additional already-packaged doses, so 0.08 kg covers only the approximately 80-gram block.
   - The youth was reported while remaining at liberty; no arrest detention or court outcome is reported.
-  - The page image has no caption, alt text or credit establishing that it shows this seizure, so no media entry is listed.
-  - The WLTV page image has no caption, alt text or credit establishing that it shows this seizure, so no media entry is listed for this source.
 ---
 
 Carabinieri from the Floridia station reported an 18-year-old at liberty for

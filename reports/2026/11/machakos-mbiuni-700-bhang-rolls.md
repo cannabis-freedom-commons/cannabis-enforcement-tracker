@@ -78,21 +78,7 @@ open_questions:
   - The report gives the operation time as approximately 3:01am on Tuesday; 3 November 2026 is used as the incident date from the publication date on the same Tuesday.
   - Only one full source account could be opened; a second account of the same Mbiuni raid was not found.
   - Whether the lead photo on the source page shows this seizure is not established beyond its matching caption, so it is listed only as linked media.
-  - The KBC account says the raid happened at dawn on Tuesday while the existing report gives approximately 3:01am from the Capital FM account.
-  - The KBC account reports 700 small brownish rolls together and does not give the 300 plus 400 breakdown in the existing report.
-  - The submitted page carries a lead photo but its caption and alt text are empty, so whether it shows this seizure could not be established and no media entry is added.
-  - The Mpasho account writes 'wristler papers' where the existing report uses Rizla papers from the earlier account.
-  - The Mpasho page carries a lead photo captioned only with the headline, which does not establish that it shows this seizure, so no media entry is added.
-  - The Tuko body describes the 700 small rolls as containing suspected narcotic substances while its headline calls them bhang rolls; the existing report records them as suspected bhang alongside the 85 brooms.
-  - The Tuko lead photo shows NACADA chief executive Anthony Omerikwa rather than the field, plants or seizure, so no media entry is added for this source.
-  - The TV47 headline says over 400 rolls while its body details 300 plus 400 rolls totalling 700; the existing report uses the 700 total from the body.
-  - The TV47 account writes wristler papers where the existing report uses Rizla papers for the same 73 white-top and 44 brown papers.
   - No weight or street value was published for the brooms or rolls, so no cannabis weight can be recorded.
-  - The lead photo caption repeats the headline and does not establish that it shows this seizure, so no media entry is added.
-  - The new account writes 73 white Rizla papers while the existing report says 73 white-top Rizla papers from an earlier account.
-  - The new account describes a pair of scissors without a colour while the existing report says blue-handled scissors from an earlier account.
-  - The submitted page carries a lead photo whose caption repeats the headline and does not establish that it shows this seizure, so no media entry is added.
-  - The Radio47 account writes 'wristler papers' where the existing report uses 'Rizla papers' for the same 73 white-top and 44 brown papers.
 ---
 
 Kenya's National Authority for the Campaign Against Alcohol and Drug Abuse

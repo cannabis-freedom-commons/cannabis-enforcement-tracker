@@ -41,7 +41,6 @@ open_questions:
   - The first report was published 11 May 2026 and places the police response on Friday, consistent with the 8 May arrest date given in the second report.
   - The 2,000-milligram figure is a label claim for one package's D8, D9 and THC content, not a weighed seizure total for the two packages seized, so no cannabis weight is recorded.
   - The child's condition beyond transport to hospital and treatment was not reported, including how much was eaten.
-  - The WNKY page image is captioned only as Photo Resize 72 and does not establish that it shows this event, so no media entry is included.
   - No completion outcome for the pretrial diversion and no separate charges for the vodka or paper bag were reported.
 ---
 

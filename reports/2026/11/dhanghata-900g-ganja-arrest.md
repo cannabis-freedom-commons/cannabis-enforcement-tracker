@@ -44,7 +44,6 @@ open_questions:
   - The article gives no separate calendar date for the raid; Tuesday coincides with its publication date of 3 November 2026, which is used as the incident date.
   - No street value for the 900 grams of ganja was published.
   - Only one accessible source for this event was found after searching in Hindi and English.
-  - The page photo is a 2021 file image of Sant Kabir Nagar captioned only with the headline and is not established to show this seizure, so no media entry is included.
   - No NDPS sections, charge-sheet detail or further court outcome beyond remand to judicial custody was reported.
 ---
 

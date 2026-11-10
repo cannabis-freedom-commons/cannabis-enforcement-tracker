@@ -62,10 +62,7 @@ sources:
 open_questions:
   - No weight was published for the marijuana or hashish, only six large packages and three bags, so no kilogram figure is recorded.
   - The suspect was not named and no age, charge filing or court outcome was reported.
-  - Neither page carried a captioned photo confirmed to show this seizure, so no media entry is added.
   - PrimeiroJornal credits the text to Bahia Notícias, so this is a republished account of the same police statement, not independent reporting on the arrest.
-  - The submitted page uses a shared partnership image that does not name or show this seizure, so it is not recorded as media.
-  - 'The submitted page credits its lead photo to SSP-BA, the Bahia state public security secretariat, but its caption only says ''Foto: SSP-BA'' and does not state that the image shows this specific seizure.'
 media:
   - kind: photo
     url: https://www.acordacidade.com.br/policia/pm-prende-suspeito-de-trafico-com-maconha-e-haxixe-durante-operacao/

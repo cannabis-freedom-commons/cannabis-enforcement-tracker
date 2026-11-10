@@ -48,7 +48,6 @@ open_questions:
   - The offence behind the definitive arrest warrant and the sentence already imposed were not stated; only initials L.W.F.N. were published.
   - No charge, custody hearing or court outcome for the newly seized drugs was reported.
   - Only one accessible account of this event was found after searching in Portuguese; no second report could be opened.
-  - The submitted page carries an image with no caption or credit, so it could not be confirmed to show this seizure and no media entry is listed.
   - Coordinates are for the centre of Machadinho d'Oeste, not a surveyed point in its rural zone.
 ---
 

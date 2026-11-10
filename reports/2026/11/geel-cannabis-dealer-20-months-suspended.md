@@ -46,7 +46,6 @@ open_questions:
   - The reported cash of just under 1,200 euros is seized cash, not a cannabis valuation, so no value figure is recorded.
   - The conditions attached to the suspended sentence were not specified.
   - Only one source could be opened; related pre-trial coverage could not be opened for corroboration.
-  - The only page photo shows the Turnhout courthouse building rather than the event itself, so no media entry is listed.
 ---
 
 The court in Turnhout sentenced 34-year-old K.S. from Geel to 20 months in

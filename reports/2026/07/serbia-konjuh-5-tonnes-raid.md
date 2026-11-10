@@ -56,7 +56,6 @@ open_questions:
   - The January shipment is dated as crossing shortly after midnight and catching fire near Novi Sad, while the second account dates the last transport to January 13, leaving the exact January chronology unclear.
   - Whether the reported 100 kgs sent to Belgrade is included in the more than 4.9 tonnes found in Konjuh was not specified.
   - Neither KRIK's story nor N1's coverage includes a reaction from the MUP or the government, so the reason for the removals rests only on the signatories' account.
-  - The new account describes four automatic rifles while the existing report records four assault rifles, so the correct rifle description remains unclear.
   - The new account says the father and son were arrested along with several associates, while the seizure reporting records two arrests with a search for another suspect, leaving the total number arrested in the January raid unclear.
   - The Ministry’s statement did not name the Serbia suspect or the Skopje legal entity in this ownership connection.
 sources:

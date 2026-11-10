@@ -48,7 +48,6 @@ open_questions:
   - No weight was published for the 14 branches of marijuana, so no cannabis weight is recorded.
   - The outcomes for Ramana and Lewamoce after their guilty pleas, including any sentences, were not reported.
   - No second account of this acquittal was found after searching in English.
-  - The page picture is described as a file photo of a gavel and is not established to show this seizure or hearing, so no media entry is included.
 ---
 
 The Nausori Magistrate’s Court acquitted Samuela Bisa Vakaca and Apisalome

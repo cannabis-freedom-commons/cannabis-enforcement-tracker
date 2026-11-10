@@ -59,11 +59,8 @@ open_questions:
   - The article says the interception happened on Wednesday and was published on Wednesday 4 November 2026, with no separate time given, so the publication date is used as the incident date.
   - No charges, custody ruling or court outcome beyond registration of a case and further legal action were reported.
   - Only one accessible source for this event was found after searching in Hindi and English.
-  - The page carries photos and a video, but their captions and alt text do not identify what they show, so no media entry is included.
-  - The new account places the interception at Raghunathpur Ward No. 4, while the existing report places it near the Baratpur-Kataiya border; the existing place is retained.
   - Nepal as the consignment's origin is reported only as the tip-off that prompted the operation; the actual source, destination and wider network remain under investigation.
   - The page's remaining body text, including the 720,000-rupee valuation and the Baratpur-Kataiya interception, sits behind the outlet's app paywall and was not part of the readable capture.
-  - The page carries two uncaptioned photos with no description of what they show, so no media entry is added from it.
 media:
   - kind: photo
     url: https://www.prabhatkhabar.com/state/bihar/supaul/bhimnagar-police-arrest-two-cannabis-smugglers

@@ -40,7 +40,6 @@ open_questions:
   - Mandrax, cocaine powder and crack cocaine are mentioned for context and excluded from cannabis figures; no cannabis-only total can be separated.
   - No breakdown by region, no charges filed and no court outcome were reported.
   - The post reproduces an Informante news item; the original Informante page and the police release could not be opened for this report.
-  - The page's images are captioned only as illustrative or generic, with a file photo credit, so no media entries are included.
 ---
 
 Namibian police arrested 227 suspects during anti-drug operations across the

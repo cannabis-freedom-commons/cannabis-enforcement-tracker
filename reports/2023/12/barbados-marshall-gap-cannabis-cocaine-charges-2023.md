@@ -52,7 +52,6 @@ open_questions:
   - The report does not say whether the cannabis was seized at an address, and no street value was given for the cocaine or for the larger cannabis haul separately; cocaine amounts are excluded from the tracker figures.
   - The report does not say what happened at the 28 June 2024 return date or at any later stage; no trial or outcome is recorded.
   - The article gives the value of the 194 grammes of cannabis and of the 39.15 kilogrammes separately, so the combined value recorded here is their sum.
-  - Barbados Today published a stock cannabis photo from 2019 with this article, not a picture of the case, so no media entry is listed.
 ---
 
 A man and a woman from 3rd Avenue, Marshall Gap, New Orleans, in the parish of

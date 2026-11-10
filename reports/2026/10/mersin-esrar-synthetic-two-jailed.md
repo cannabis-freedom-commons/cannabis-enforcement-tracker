@@ -116,28 +116,21 @@ open_questions:
   - Details in the report such as preparation for sale, physical surveillance, heavy security and the duty court come from the other accounts, not from this Son Dakika text.
   - The page gives only its 31 October 2026 publication time and no separate date for the raid or court hearing.
   - The page gives no weight, plant count or value for the synthetic drugs or the esrar, saying only that a quantity of esrar was found, so no cannabis figure can be added.
-  - Details in the existing report such as preparation for sale, physical surveillance, heavy security, the duty court and drug-trafficking charges come from its other accounts and are not stated on this page.
   - The page carries one image captioned only with the article title and no credit; its content cannot be verified as showing this seizure, so it is not listed as media.
   - The 6 November accounts do not name the districts or neighbourhoods searched, and they do not say how much of the 48 kilograms was found in the vehicle and how much at the home.
   - The street value of the 48 kilograms of esrar was not published.
   - No trial date or final sentence beyond pre-trial detention was reported.
   - İHA reports that the Mersin provincial police directorate's narcotics branch targeted street-level dealers known as torbacı, while Haberler says the operations took place in districts across the city; neither account names the districts.
   - İHA and Sabah report that 19 suspects were jailed in Mersin drug-trafficking operations over the previous five days; that campaign total is not counted in this event's figures.
-  - The Haberler page carries only a 'watch the video' link and no article photo address could be recovered, so no media entry is added from it; Sabah's page photographs carry no caption establishing what they show.
   - Mersin Haberci, a local Mersin outlet, reports a per-place breakdown placing about 1 kilo 490 grams of methamphetamine in Z.S.A.'s car, 6.19 grams at his home and 14.40 grams of synthetic cannabinoid on two other suspects; its page returned mixed-case initials and encoded Turkish characters that could not be matched verbatim, so these figures are recorded here rather than as cited prose.
   - Sabah says Y.E.A.'s home was also searched for esrar, while the İHA accounts describe the 48 kilograms as found in the suspects' vehicles and addresses together.
-  - The full plates 33 BFY 04 and 03 VD 202 come from Sabah's account only; İHA and the submitted page give just the two-digit province codes 33 and 03.
   - No street, district or neighbourhood is named for any of the searches, only Mersin province; no value estimate, charge wording or trial date was published.
-  - The submitted page's own image is a headline graphic with no caption identifying the seizure, so media is listed from the İHA agency page instead, whose two photos carry no caption beyond the headline.
-  - The submitted page gives 19 jailed during the week as the provincial total and does not give the four-of-five detention split, which comes from the İHA account.
-  - The submitted page places the whole 48 kilograms in Y.E.A.'s vehicle, while Sabah also reports it at that suspect's address, so the two accounts differ.
   - Neither account names a district or neighbourhood for any search, only Mersin province.
   - 'Left out, as its quotation was not found in İHA (İhlas Haber Ajansı): Police in Mersin detained five suspected street drug dealers and a court jailed four of them on 6 November 2026.'
   - Left out charged, as its quotation was not found in İHA (İhlas Haber Ajansı).
   - Left out arrested, as its only supporting source is not cited by the report's text.
   - The page also reports 1.5 kg of methamphetamine plus cocaine and ammonia alongside the 48 kg of esrar; only the separately stated cannabis weight is relevant to the tracker.
   - The page reports 19 suspects jailed in Mersin drug operations over the previous five days; that wider campaign total is not counted in this event's figures.
-  - The page's single image caption only repeats the headline and carries no credit identifying the seizure, so no media entry is added from it.
 ---
 
 Anti-narcotics police in Mersin detained H.Y. and M.E. in an investigation run

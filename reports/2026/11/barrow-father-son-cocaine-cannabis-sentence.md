@@ -53,9 +53,6 @@ open_questions:
   - Simon Morgan's stated conviction is for possession with intent to supply Class A drugs, while the cannabis component rests on Jaydon Morgan's admitted Class B supply and possession offences and the joint seizure.
   - No separate arrest date or custody details were published beyond the 11 February 2026 warrant and the later Crown Court sentences.
   - Only one accessible source for this event was found after searching; no agency statement or second outlet account could be opened.
-  - The page image shows Jaydon Morgan and Simon Morgan credited to Cumbria Police and does not show the drugs, search or seizure, so no media entry is included.
-  - The new account dates the sentencing to Tuesday, 3 November, while the existing report uses the 4 November publication date as the incident date.
-  - The only image in the new account shows Jaydon Morgan and Simon Morgan and does not show the search, drugs or seizure, so no media entry is added.
   - The News and Star page canonical URL points to The Mail article already cited, so it appears to be a republication of the same Newsquest text rather than an independent account.
 ---
 

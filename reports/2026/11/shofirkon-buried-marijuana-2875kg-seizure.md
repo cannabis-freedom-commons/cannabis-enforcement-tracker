@@ -84,9 +84,7 @@ open_questions:
   - No street value, plant count or number of people involved in distribution was published.
   - Zamin.uz says the marijuana was hidden 'by the owners' but identifies only one suspect whose home was searched; the number of people involved is unclear.
   - Daryo says it publishes two photos from the Customs Committee, but only one distinct image address could be recovered from its page markup.
-  - The Russian page names the district as Shafirkan (Шафирканский район) rather than the Shofirkon used in the existing report; the article numbers on both Zamin.uz language editions are the same, so this is treated as a transliteration difference for the same district.
   - The Russian page carries a video tag in its headline but no playable video address could be recovered, so no video entry is added.
-  - UzDaily gives no separate date for the search; 7 November 2026 is its publication date, while the existing report uses 5 November from Daryo.uz.
 ---
 
 Officers searched a home in Shofirkon district, Bukhara region, and found 2

@@ -45,8 +45,6 @@ open_questions:
   - The agencies announced the operation on 27 April 2026 but gave only "late last week" for the raid and arrest day, not a precise calendar date.
   - Twenty-three indicted defendants remained fugitives when the indictment was unsealed.
   - The exact plant and weight totals for each county searched were not broken out in the releases read.
-  - The KTUL account lists Oklahoma County among the search locations alongside Cleveland, Kingfisher, Stephens, Payne and Okfuskee counties, while the existing report names only the latter five counties.
-  - 'No event photo can be linked: the page''s captioned image is a Getty stock photo of a marijuana plant in San Anselmo, California, and the second image has no caption establishing it shows this takedown, so no media entry is included.'
 sources:
   - title: Homeland Security Task Force Investigation Results in 51-Defendant Indictment in Nationwide Black-Market Marijuana Trafficking Conspiracy
     url: https://www.dea.gov/press-releases/2026/04/27/homeland-security-task-force-investigation-results-51-defendant

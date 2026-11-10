@@ -68,7 +68,6 @@ open_questions:
   - No report says whether Rana was produced before a magistrate or when the case will next be heard, and no court outcome is known.
   - No value for the 117 grams of charas was published.
   - The reports do not say whether police believe the charas was for sale or for personal use.
-  - The submitted page's web address and keywords say chitta while its article text and the other reports say charas; this report follows the article text.
 ---
 
 Jubbal police arrested a 20-year-old Nepal native after finding 117 grams of

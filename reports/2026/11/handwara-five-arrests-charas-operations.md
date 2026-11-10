@@ -76,13 +76,10 @@ open_questions:
   - The page's only picture is a 2015 file image of a prison, not of this event, so no photo is linked.
   - Amar Ujala calls the Wanigam recovery bhang while the police statement published in English called it a cannabis (Khashkhash)-like substance; no forensic confirmation of the substance is reported.
   - The Amar Ujala page gives no date for the three checks; 7 November 2026 is its publication date and it does not change the report's 6 November date.
-  - Amar Ujala's page picture is a Srinagar file image dated November 2021, not a picture of these arrests, so no media is linked from it.
   - Daily Excelsior drops the -like qualifier used in Brighter Kashmir, calling the recoveries charas and charas powder and a cannabis (Khashkhash); no forensic confirmation is reported in either account.
   - Daily Excelsior drops the -like qualifier used in the existing Handwara report, calling the recoveries charas and charas powder and a cannabis (Khashkhash) with no forensic confirmation reported.
-  - Daily Excelsior spells the Watyen suspects Mohammad Jahangir Sadeeqi and Mohammad Haseemu Din where the existing report uses Mohd. Jahangir Sadeeqi and Mohd. Haseemu Din.
   - The article's two Anantnag arrests at Tulkhan Crossing and Dooru belong to anantnag-bijbehara-dooru-two-arrests-charas, which already cites this Daily Excelsior article, so they are not added to the Handwara report.
   - No weight is given for any Handwara seizure, so no cannabis quantity can be added from this source.
-  - The page lists four images with only a featuredImage label and no captions or credits establishing they show this event, so no media entry is included.
 ---
 
 Handwara police arrested five suspects in three separate checkpoint operations

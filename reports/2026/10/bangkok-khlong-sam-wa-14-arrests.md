@@ -177,39 +177,14 @@ open_questions:
     News1Live reproduces the narcotics board's release word for word, so it repeats the board's figures rather
     than corroborating them independently.
   - >-
-    The submitted FM91 copy dates the ONCB-led operation to 30 October 2026, while the existing report dates
-    the warehouse search to 31 October 2026.
-  - >-
     The board release counts 15 foreign workers inside the factory, while the police account records 14
     foreign nationals arrested, with no explanation of the difference.
-  - >-
-    The submitted page carries one image with only the article title as caption and no credit, so whether it
-    shows this raid is not established and no media entry is added.
-  - >-
-    The FM91 copy dates the ONCB-led operation to 30 October 2026, while the existing report dates the
-    warehouse search to 31 October 2026.
-  - >-
-    The FM91/ONCB account counts 15 foreign workers inside the factory, while the police account in the
-    existing report records 14 foreign nationals arrested, with no explanation of the difference.
   - >-
     The FM91 page carries one image with only the article title as caption and no credit, so whether it shows
     this raid is not established.
   - >-
-    The Chinese account counts 15 foreign workers while earlier Thai police accounts reported 14 arrested, a
-    difference already noted in the existing report and not explained.
-  - >-
     The Chinese account's own breakdown lists two Vietnamese drug suspects plus 12 other Vietnamese and
     Myanmar nationals, which totals 14 rather than the stated 15.
-  - >-
-    The Chinese account describes the Category 1 drugs as methamphetamine (ice) and ecstasy-type drugs, while
-    the existing report describes yaba and crystal meth with scales and packaging; no quantities were
-    published for either.
-  - >-
-    The Chinese page was published on 1 November 2026 while the existing report dates the raid to 31 October
-    2026, and the Chinese account gives no separate operation date.
-  - >-
-    The page carries eight images captioned only as 图片 with no credit, so whether they show this raid cannot
-    be established and no media entry is added.
   - No weight or value for the cannabis stored or packed at the warehouse was published.
   - >-
     The Thai outlet MGR Online reports 15 foreign workers held while the English-language reports detail 14;

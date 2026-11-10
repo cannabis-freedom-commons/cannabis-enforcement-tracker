@@ -85,7 +85,6 @@ open_questions:
   - One early Dainik Bhaskar report said the kiosk operator fled and police were searching for him; later reports said he and his father were detained at the scene and sent to jail.
   - The reports give no quantity for the illegal liquor seized.
   - The reports do not say when the case will be heard or whether the men have been formally charged in court.
-  - The submitted page's only image is a generic Uttar Pradesh map graphic, not a photograph of the raid, so no media entry is included.
   - Hindustan reports villagers complaining that local police were not paying attention, while the report, following Dainik Bhaskar, says villagers alleged the trade ran with police support.
   - The Aonla page is truncated by a paywall after the lead, so names, the kiosk, liquor and the court appearance cannot be checked in this copy.
   - Amrit Vichar gives the charas as more than 100 g, while the report uses about 100 g.

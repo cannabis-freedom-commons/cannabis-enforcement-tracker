@@ -44,7 +44,6 @@ open_questions:
   - No figure for the value of the ganja, the police unit involved or the case numbers was published.
   - No charges, remand or court outcome were reported; police were still questioning Mujahit.
   - Only one source, the ABP Nadu roundup, could be opened for this event; searches in Tamil and English found no police statement or second outlet.
-  - The page images are composite promotional banners, not a photograph of this seizure, so no media is listed.
   - The roundup reports 19 other events on the same day, including a drug-awareness event in Salem; they belong to other reports and are left out.
   - The roundup does not say whether the 500 g found at the house is connected to the 6.5 kg seized at the station; the 7 kg total is the article's own sum of the two seizures.
 ---

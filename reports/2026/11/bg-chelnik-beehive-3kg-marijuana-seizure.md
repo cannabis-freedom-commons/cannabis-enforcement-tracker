@@ -94,8 +94,6 @@ open_questions:
   - The original sentence places the beehive 'в имот в с. Челник, в пчелен кошер в двора', which was read as a beehive in the yard of the searched property, as other outlets describe it.
   - Under Bulgarian practice the district prosecutor's office covers Haskovo region, while the provincial prosecutor's office covers Yambol region, and reports of the same statement vary between 'Районна прокуратура', 'Окъжна прокуратура' and 'регионална прокуратура' for Yambol; no single wording is confirmed.
   - The GDBOP statement gives the figure for the two operations together as about 15 kg; this page gives only about 3 kg and about 12 kg separately, as the recorded reports do.
-  - The page's six photographs are captioned only with the headline and carry no credit; they are directorate handout images already linked from the existing reports, so no additional media entry is proposed.
-  - The Flagman page gives the Yambol case as under the supervision of the районна (district) prosecutor's office, while the existing report and several outlets give the regional prosecutor's office for Yambol; which office is named remains unresolved, as already noted in the report.
   - The Flagman report closes with a summary of a separate late-September seizure of cocaine and marijuana from a truck tank at the Lesovo border crossing and of the court detention of its driver; that is a different event and is not part of this report.
 ---
 

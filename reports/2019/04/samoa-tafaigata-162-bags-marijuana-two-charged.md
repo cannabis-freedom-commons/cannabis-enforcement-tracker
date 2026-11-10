@@ -48,7 +48,6 @@ open_questions:
   - The article gives no explicit date for the raid; 16 April 2019 is implied by its reference to the raid "yesterday morning" before the 17 April police statement, and the page was published on 18 April.
   - No court date or outcome is reported.
   - Only one accessible account was found; a Talanei report with the same wording could not be opened.
-  - The Observer dates the 7.30am raid to Wednesday, its 17 April 2019 publication day, while the existing report dates the raid to 16 April 2019 from the other account's wording; the timing difference is unresolved.
 ---
 
 Two men were arrested and charged with possession of marijuana after a police

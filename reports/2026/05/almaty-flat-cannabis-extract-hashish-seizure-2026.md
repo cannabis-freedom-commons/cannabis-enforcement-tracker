@@ -61,7 +61,6 @@ open_questions:
   - The suspect is not named, and no age or other identifying details were given.
   - No charges or court outcome were reported; the pretrial investigation was still under way.
   - All four opened accounts report the police statement or copy it, so no independent confirmation of the figures exists.
-  - The 24KZ photo is credited to the stock agency depositphotos.com and is not established to show this seizure, so no media entry is included.
   - The text gives a weight ("3 kg") but the figures have no kg_seized; check whether it belongs there.
 ---
 

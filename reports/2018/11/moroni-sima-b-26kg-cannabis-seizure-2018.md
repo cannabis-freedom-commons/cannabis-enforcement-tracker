@@ -47,7 +47,6 @@ open_questions:
   - The prosecutor asked authorities to identify alleged accomplices, but none are identified or counted as arrested.
   - Only one accessible account of this 2018 incident was found; no separate official statement or corroborating report could be opened.
   - No valuation for the cannabis was published.
-  - The page thumbnail has no caption or alt text establishing that it shows this seizure, so no media is included.
 ---
 
 Customs officers arrested one crew member of the Sima B at the Port of Moroni

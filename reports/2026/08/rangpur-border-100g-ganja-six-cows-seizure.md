@@ -53,7 +53,6 @@ open_questions:
   - No arrests, charges or court outcome were reported; the smugglers fled toward India in both operations.
   - The reported 450,000-taka seizure value is attributed to the six cows and the combined haul, not separately to the cannabis, so no cannabis value is recorded.
   - The 40 feet of current netting and six cows are non-cannabis items in the same event and are excluded from cannabis quantities.
-  - The pages carry images without descriptive captions confirming they show this seizure, so no media entry is included.
 ---
 
 Border Guard Bangladesh's Rangpur Battalion (51 BGB) carried out two separate

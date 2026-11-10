@@ -44,7 +44,6 @@ sources:
 open_questions:
   - The headline says "nearly 1.9 kg" but the article text gives 1,181 g net; this report uses the text figure.
   - No second outlet reporting this seizure could be found.
-  - The only photo on the source page is labeled a representative image, not this seizure, so no media entry was added.
   - The passenger was not named and no court outcome was reported.
 ---
 

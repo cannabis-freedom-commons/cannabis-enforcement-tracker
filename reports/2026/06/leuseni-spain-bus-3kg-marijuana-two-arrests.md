@@ -62,7 +62,6 @@ open_questions:
   - The 1 kg of cocaine seized in the same operation is excluded from the cannabis figures; only the 3 kg of marijuana is counted.
   - The exact pickup location after the Leușeni crossing, where the parcels were collected, is not named.
   - The reports give no names for the two suspects and no court outcome beyond the 30-day preventive detention.
-  - The listed photo is the police handout as republished; its direct image address comes from the submitted page.
 ---
 
 Moldova's anti-drug directorate and organized-crime prosecutors reported

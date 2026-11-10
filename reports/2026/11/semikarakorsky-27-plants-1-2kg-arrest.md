@@ -129,17 +129,10 @@ open_questions:
     Left out, as its quotation was not found in 1rnd.ru: Investigators also said his actions showed signs of a
     further drug-trafficking offence, with the outlets differing on whether they cited part 4 of article 228
     or part 4 of article 228.1.
-  - >-
-    The submitted page describes the possible further offence as part 4 of article 228 of the Criminal Code,
-    matching one source already cited in the existing report but differing from two existing sources that cite
-    part 4 of article 228.1.
   - The VK post gives only a relative time and no absolute publication date.
   - >-
     The VK page image has no caption or credit, so whether it shows this seizure is not established and it is
     not listed as media.
-  - >-
-    The submitted page carries a photo with no caption or credit, so whether it shows this seizure is not
-    established and no media entry is added.
   - >-
     The article gives no separate raid date; 2 November 2026 is the publication date and is used as the
     incident date.
@@ -153,16 +146,6 @@ open_questions:
   - >-
     Only one accessible source for this event was found; the Interior Ministry statement itself was not opened
     separately.
-  - >-
-    The NEWS.ru page carries a photo credited in the text to Sergei Petrov/NEWS.ru with no caption
-    establishing that it shows this seizure, so no media entry is included.
-  - >-
-    The Panram page attributes the account to the Don MVD press service without naming the 2nd drug-control
-    department cited in the existing report.
-  - >-
-    The Panram page carries a police-credited photo captioned only with the article title, so whether it shows
-    this seizure distinctly from the existing police handout could not be established and no media entry is
-    added.
 ---
 
 Rostov police detained a 51-year-old Semikarakorsky resident after finding 27 cannabis plants and more than 1.2 kilograms of marijuana. [@1,2,3,4,5,6,7,8,9,10]

@@ -48,7 +48,6 @@ open_questions:
   - The names, ages and residences of the 11 suspects were not published beyond their Bangladeshi nationality and that the first boat held six men and one woman.
   - Aphrodisiacs, birth control pills, mobile phones and Bangladeshi Taka were seized alongside the marijuana and are excluded from the cannabis figures.
   - Only one accessible source for this event was found after searching in English; no agency statement or second outlet account could be opened.
-  - The page carries two images but neither has a caption or credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 The Arakan Army (AA) Coast Guard intercepted two boats and arrested 11

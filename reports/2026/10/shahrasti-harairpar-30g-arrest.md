@@ -44,7 +44,6 @@ sources:
     language: bn
 open_questions:
   - Only one source for this event could be opened; no second independent report confirming it was found.
-  - The submitted page's lead image has no caption or credit and cannot be verified to show this seizure, so no media entry is listed.
   - 'Figures count only the cannabis component: one person arrested and 0.03 kg seized; two other detentions in the same article concern alleged motorcycle theft and a theft investigation and are excluded.'
   - No court outcome after production before the court was reported.
   - Transliteration of Bengali personal and place names is approximate and exact spellings were not confirmed.

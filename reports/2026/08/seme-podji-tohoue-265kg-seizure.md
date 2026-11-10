@@ -55,9 +55,6 @@ open_questions:
   - No arrests were reported; the driver and loaders fled and were still being sought.
   - The origin and final destination of the shipment were not established; investigations were continuing.
   - The reports do not specify the exact spot in Tohouè beyond the sea-trafficking loading point, so coordinates are for the Sèmè-Podji locality.
-  - The submitted page shows a generic 2023 Republican Police vehicle photo that is not established to show this seizure, so no media entry is included.
-  - The new account weighs the haul at 265 kilograms and 25 grams while the existing report records 265.24 kilograms, a 10-gram difference; the report figure is retained.
-  - The page image is a 2018 file photo captioned Des agents de la police républicaine (Photo AmB.) and is not established to show this seizure, so no media entry is included.
   - The article also describes a separate 23 July 2026 seizure of about 973 kilograms at Kraké-Plage and 16-18 July operations at Ouidah, Djougou and Ouassa-Péhunco, which are different events left out of this report.
   - 'Left out, as its quotation was not found in La Nouvelle Tribune: The operation took place at Sèmè-Okoun in the commune of Sèmè-Podji.'
   - 'Not added to krake-plage-973kg-cannabis-seizure, as its quotation was not found in La Nouvelle Tribune: Officers recovered 25 large bags containing balls of Indian hemp.'

@@ -56,7 +56,6 @@ open_questions:
   - The 6 June 2024 date is inferred because Le Quotidien dated 7 June 2024 says Franklin was re-sentenced hier; no separate judgment date is quoted.
   - No precise cannabis weight for Franklin's 2017-2018 shipments is recorded; the sources give only about one hundred kilos seized from a farmer and six stocks without weights, so no kg_seized is counted.
   - Nono's four-year sentence of October 2023 is a separate prior stage and is mentioned only for context; only Franklin's 2024 sentence is counted in figures.
-  - The submitted page's first image shows Franklin and Nono and its second image shows the Whitebird boat alleged to have carried cannabis to Reunion, but neither is established to show the 2024 sentencing, so no media entry is made.
   - The February 2025 Madagascar cocaine seizure of 16 kilos and arrests of Jean Benjamin Albert and Jean Lino are a separate non-cannabis event left out here.
   - 'Left out, as its quotation was not found in Le Quotidien de La Réunion: The Le Quotidien account dates the first conviction to July 2021 for zamal trafficking between Reunion and Mauritius for acts in 2017 and 2018.'
   - 'Left out, as its quotation was not found in Le Quotidien de La Réunion: At the first trial, intermediary Laurent Mariaye said Franklin and Nono had taken delivery of six stocks of zamal between January 2017 and April 2018.'

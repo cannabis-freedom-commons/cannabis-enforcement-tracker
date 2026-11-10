@@ -52,7 +52,6 @@ open_questions:
   - 'An earlier police statement did not name the suspects: it described a 43-year-old man and a 36-year-old woman and said both were taken into custody after the 29 January operation, while the court report gives Folauhola''s age as 40 and says he was arrested on 30 January.'
   - The article does not say where the 3.89 grams of cannabis was found.
   - The article does not say what happened to the two children who were in the vehicle when Mele was stopped.
-  - The page's only image is uncaptioned, has no credit and its filename dates it to 2023; it could not be confirmed as showing this sentencing, so no media entry was added.
 ---
 
 Folauhola Palanite and his wife Mele lived in Havelu. [@1] Acting Justice Langi

@@ -60,7 +60,6 @@ open_questions:
   - The defendants are identified only as two unemployed men with criminal records, with no names or ages published.
   - No case number, fine or appeal is reported; whether an appeal was lodged is unknown.
   - Veto's follow-up piece calls the pair a drug-use gang in its headline while its text describes only two defendants.
-  - The page photo is captioned only 'حبس متهم' (detention of a defendant) with no credit and does not establish that it shows this arrest or hearing, so no media entry is included.
 ---
 
 The Cairo Criminal Court sentenced two unemployed men to one year in prison for

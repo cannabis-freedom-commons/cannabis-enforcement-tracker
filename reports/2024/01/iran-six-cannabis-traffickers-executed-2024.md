@@ -37,7 +37,6 @@ open_questions:
   - The individual roles of cannabis versus methamphetamine and heroin among the six cannot be separated, so all six are counted as cannabis-involved deaths.
   - The three Ardabil heroin and opium executions reported alongside are excluded from cannabis figures.
   - Only one opened source was available for this event and no second account could be opened.
-  - The only listed image is a 2022 file photo of a Berlin protest, not this event, so no media entry is included.
   - 'Left out, as its quotation was not found in Voice of America: Iran hanged nine convicted drug traffickers in recent days.'
 ---
 

@@ -44,7 +44,6 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [odisha-route, antf, piloting, ndps]
 open_questions:
   - The headline counts eight accused as arrested while the body reports seven arrests with one suspect absconding.
-  - The report's photographs carry no captions establishing what each frame shows, so no media entry was added.
   - Whether the absconding suspect and other supply-chain members were later caught was not reported.
 sources:
   - title: सारंगढ़-बिलाईगढ़ में गांजा तस्करी पर बड़ी कार्रवाई, 103 किलो गांजा जब्त, 8 आरोपी गिरफ्तार, गांजा सहित 89 लाख 75 हजार रुपए का सामान जप्त

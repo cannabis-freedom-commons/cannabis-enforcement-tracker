@@ -48,7 +48,6 @@ open_questions:
   - The report does not say whether the one-lakh-rupee bond and sureties were furnished or whether release was completed.
   - No outcome for co-accused Anil Ram was reported.
   - Only one accessible account of this bail order was found after searching in Hindi and English.
-  - The page image is a 2021 Deoria file picture captioned only with the headline and is not established to show this seizure, so no media entry is included.
 ---
 
 Special NDPS Judge Arvind Mishra in Deoria granted bail to Vishal Kumar, a

@@ -55,7 +55,6 @@ open_questions:
   - The Rs 40 crore figure is the authorities' illicit-market estimate reported only in the Times of India account.
   - One outlet gives full middle names and the other gives shorter forms of the same four names.
   - No court outcome beyond remand to custody and registration of an NDPS case was reported.
-  - The submitted page carries a photo without a caption or credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Customs officers arrested four young residents of Surat at Mumbai's Chhatrapati

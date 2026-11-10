@@ -57,7 +57,6 @@ open_questions:
   - 'The accounts disagree on the cocaine charge: WHNT says possession of cocaine, while WAFF says drug trafficking (cocaine). The report keeps both.'
   - The exact street address of the search is given only by WAFF, as Crooked Hill Pvt Dr in Falkville.
   - No court date, plea or outcome are reported; the case was at the charge stage.
-  - WAFF shows a portrait of the suspect and WHNT a booking photograph; neither shows the search or the cannabis, so no media entry is included.
   - Only the WHNT and WAFF accounts could be opened; the sheriff's office press release page could not be retrieved.
   - An April 2026 press release and WAFF report describe an earlier arrest of a man with the same name and age in Falkville with marijuana, THC concentrate and vape cartridges; that is a separate event and is not part of this report.
   - The article gives no marijuana weight or separate court outcome, so no cannabis quantity is added.

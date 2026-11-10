@@ -60,7 +60,6 @@ open_questions:
   - No separate date for the searches was published; 4 November 2026 is the article publication date and is used as the incident date.
   - No charges or court outcome were reported; the investigation remains open and the detainees are presumed innocent.
   - Only one accessible account of this event was found after searching for a second report.
-  - The page image carries no caption or credit establishing that it shows this seizure, so no media entry is included.
   - The 86 hashish doses are still given without a weight, so they cannot be converted to kilograms.
   - Murcia.com attributes the text to the Interior Ministry, so it is not an independent account of the Guardia Civil statement already cited by the report.
   - The gallery photos are captioned only with the headline and carry no credit or caption tying them to the seizure, so they are not added as media.

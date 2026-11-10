@@ -32,7 +32,6 @@ tags: [larache, eradication-campaign]
 open_questions:
   - The official 15,160-hectare figure is reported as eradicated, while UNODC describes campaigns targeting over 15,000 hectares; the opened sources do not explain how much of the targeted area was destroyed versus abandoned to drought.
   - No arrests or other outcomes of the eradication campaign are reported in the opened sources.
-  - An AFP photograph of July 2005 destruction at Elkolla near Larache was found on Getty Images, but its direct media address could not be recovered, so no media entry was made.
 sources:
   - title: 'World Drug Report 2006, Chapter 3.3: Cannabis'
     publisher: UNODC

@@ -95,7 +95,6 @@ open_questions:
   - Accounts differ on whether the trafficking took place in Buzău alone or in Buzău and Bucharest; the report uses the Buzău activity and the Buzău and Bucharest searches.
   - No direct media address could be verified for the pictures on the Buzău.net article, which are generic police archive images, so only the Stiri de Buzau video is listed.
   - 'Left out, as its quotation was not found in Știri din Buzău: The searches recovered quantities of cannabis and a crystalline substance identified as 4-CMC, together with an electronic scale, a grinder and other evidence.'
-  - The page's lead picture uses a 2023 archive file name, so it cannot be verified to show this event and no media entry is included.
   - The page embeds a YouTube video titled Trafic de droguri Buzău, but its content could not be verified from the capture, so no video entry is included.
   - Jurnal MM credits its account to DIICOT; the directorate's own press release could not be opened, so that attribution is taken from the article.
   - The page states no weights for the cannabis seized in the searches or carried at the end of October, so no cannabis quantity can be recorded.

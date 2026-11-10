@@ -44,7 +44,6 @@ open_questions:
   - The report says a case was registered but does not say whether the accused was arrested or detained.
   - No value, independent weighing, arrest details or court outcome were published.
   - Only one account of this raid could be opened, so no second source confirms it.
-  - The page offers no verifiable photo of this seizure; its image metadata is only a default placeholder, so no media entry is added.
 ---
 
 Police raided a house in Ward-2 of Nalagarh in Solan and registered a case under

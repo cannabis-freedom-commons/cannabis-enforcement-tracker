@@ -66,8 +66,6 @@ open_questions:
   - Police were still tracing the intended receiver and the unidentified Surat supplier at publication time.
   - Sanj Samachar rounds the total seizure to Rs 90,000 while the detailed accounts give Rs 89,300; the report uses the detailed figure.
   - 'Left out, as its quotation was not found in Akila News: Police registered a case under the Narcotic Drugs and Psychotropic Substances Act, India''s drug law, at the Metoda GIDC police station.'
-  - The Divya Bhaskar page carries two photos and an embedded video, but their captions and alt text are empty or only say Divya Bhaskar and do not establish that they show this seizure, so no media entry is included.
-  - The full article beyond the first three paragraphs is paywalled, so further case details in the existing report cannot be corroborated from this opened source.
 ---
 
 Rural Anti-Narcotics Wing officers detained Sarfaraz Hussain Pir Muhammad, a

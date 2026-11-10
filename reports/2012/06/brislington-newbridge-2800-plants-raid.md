@@ -42,7 +42,6 @@ open_questions:
   - The report is dated at the BBC's publication on 21 June 2012; the article gives no separate date for the raid.
   - No arrests were reported, and the investigation was continuing.
   - Only BBC coverage of this raid could be found, with no independent second source.
-  - The page's share image shows an unrelated explosion rather than this raid, so no media entry was added.
 ---
 
 Avon and Somerset police discovered a cannabis factory with 2,800 plants at a unit on the Newbridge Trading Estate in Brislington, Bristol. [@1] The force said it was the largest farm it had found, and the BBC reported the crop was worth £2.5 million. [@1]

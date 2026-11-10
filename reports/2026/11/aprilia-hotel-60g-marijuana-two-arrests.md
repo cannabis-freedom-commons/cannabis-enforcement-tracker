@@ -48,7 +48,6 @@ open_questions:
   - Cocaine, crack and cash figures are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - No charges, custody decision or court outcome were reported; both men remain presumed innocent.
   - Only one accessible reporting source was found, so the account rests on the Carabinieri account as reported by Latina Quotidiano.
-  - The page preview image has no caption establishing that it shows this seizure, so no media entry is included.
 ---
 
 Carabinieri arrested a 50-year-old hotel manager and a 21-year-old man in a

@@ -51,7 +51,6 @@ open_questions:
   - YNaija places the sentencing court in Kuala Lumpur while the offence location and judge match Alor Setar cases, so the report names no court city.
   - Agence France-Presse reports more than 14 kilos while YNaija gives 14.302 kg; the report uses the precise figure.
   - Any appeal or execution outcome was not reported in the opened sources.
-  - No photo of the case with a recoverable address was found, so no media entry was added.
 ---
 
 A Malaysian High Court sentenced Nigerian national Moses Chinedu Nwosu, 50, to death on 26 August 2012 after convicting him of trafficking more than 14 kilograms of marijuana. [@1] Judicial Commissioner Mohd Zaki Abdul Wahab found the prosecution had proved its case beyond reasonable doubt and imposed the mandatory sentence of death by hanging under Section 39B of the Dangerous Drugs Act 1952. [@2]

@@ -37,7 +37,6 @@ open_questions:
   - The incident occurred during the night of 9 to 10 December; 10 December 2025 is used as the incident date.
   - No arrest, charge or court outcome was reported; the rider fled and the investigation to find him was still under way.
   - Only one accessible source for this event was found.
-  - The page's only photo is a generic 2023 file image of Republican Police officers captioned as such, not established to show this seizure, so no media entry is included.
 ---
 
 A night patrol of the Illara border police station, the Commissariat frontalier

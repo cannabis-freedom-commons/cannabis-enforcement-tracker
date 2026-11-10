@@ -71,7 +71,6 @@ open_questions:
   - The article does not say whether more people are suspected in the transport network or who was to buy the ganja in Madhya Pradesh.
   - The exact barricade spot behind MGM School is not mapped, so coordinates are for Nava Raipur.
   - The page photo carries no credit line and no caption beyond the headline, so whether it is a police handout is not confirmed.
-  - The page carries one event-related image file with no caption or credit tying it to this seizure, so no media entry is included.
 ---
 
 Police at Mandir Hasoud police station in Raipur district arrested four men on 7

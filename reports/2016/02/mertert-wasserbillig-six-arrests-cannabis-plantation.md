@@ -59,7 +59,6 @@ sources:
 open_questions:
   - The English source describes the plantation as containing up to 50 plants while the French source describes it as more than 50 plants; the report uses about 50 plants.
   - The sources also report chemical drugs sold alongside marijuana, but give no separable quantity for them, so only the cannabis weight and plants are counted.
-  - The submitted page carries an image with no caption or credit confirming what it shows, so no media entry is added.
 ---
 
 Luxembourg Police arrested six people in connection with the illegal drugs

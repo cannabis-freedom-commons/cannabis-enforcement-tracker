@@ -43,7 +43,6 @@ open_questions:
   - The jobs listed by the prosecutor are not assigned to individual accused.
   - The outcome of the adjournment to 18 January 2016 and any later court ruling were not reported in the opened source.
   - Only one source, a Mana agency copy published by Nyasa Times, could be found for this event.
-  - The page image is a generic 2011 justice illustration, not a picture of the hearing, so no media entry is added.
 ---
 
 Lilongwe Chief Resident Magistrate Court granted bail to Ntcheu Third Grade

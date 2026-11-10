@@ -88,7 +88,6 @@ open_questions:
   - The approx. 21 grams of cocaine are not counted in the cannabis figures; no source separates any other cannabis product.
   - No charge sheet, custody decision or court hearing was reported; the reports name no investigating judge's decision on the arrest.
   - The 2,060 euros combines 60 euros from the van and 2,000 euros from the bedroom; no source gives a street value for the hashish.
-  - The submitted page's picture has no caption and is not established to show this seizure, so only the police-credit picture from the BolognaToday page is linked.
   - No separate date is given for the stop and searches; 7 November 2026 is the publication date and is used as the incident date.
 ---
 

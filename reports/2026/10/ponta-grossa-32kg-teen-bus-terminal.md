@@ -60,13 +60,7 @@ open_questions:
   - No charge, custody outcome or court result for the adolescent was stated.
   - The aRede page's terminal photograph is captioned only as the bus station and credited as a reproduction, so it is not listed as event media.
   - The two outlets describe the receiving police unit in different terms, so the report uses a shared description.
-  - The submitted source dates publication to 2 November 2026 and places the incident on Saturday (31), consistent with the existing report's inferred incident date of 31 October 2026.
-  - The submitted source says FICCO/PR information mobilized Federal Police and Military Police Choque teams and that the teen was forwarded to the Civil Police, while the existing report details Choque/1st BPM handling, the flagrante unit and Tutelary Council accompaniment; the report uses a shared description.
   - The R$8,000 is a promised courier payment for transport to Curitiba, not an assessed drug value, and is excluded from figures.
-  - The article gives Saturday (31/10) without a year; 31 October 2026 is inferred from its 3 November 2026 publication date and matches the existing report's date.
-  - This source says the teenager would receive money without stating an amount, while the existing report cites R$8,000 from other outlets.
-  - This source describes Federal Police with Military Police Choque teams, while the existing report describes a Choque platoon operation; both are treated as the same FICCO-led action.
-  - The page displays a cannabis photo with no caption or credit confirming it shows this seizure, so no media entry is listed.
 media:
   - kind: photo
     url: https://oparana.com.br/cotidiano/adolescente-de-17-anos-e-apreendido-com-32-quilos-de-maconha-e-diz-que-receberia-r-8-mil-pelo-transporte/

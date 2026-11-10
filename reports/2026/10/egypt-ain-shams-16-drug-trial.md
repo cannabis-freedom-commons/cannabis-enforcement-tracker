@@ -46,7 +46,6 @@ open_questions:
   - The articles give no date for the court session itself; 23 October 2026 is the publication date of the earliest full account.
   - No verdict, adjournment or next hearing date was reported.
   - No weights or values were given for the hashish, indazole carboxamide, cash or gold, and no total number of arrests was reported.
-  - The submitted page closely repeats Masrawy's 23 October account, so the two sources are not independent.
   - No photograph of the hearing or the defendants was published; the page's only image is an illustrative gavel.
 ---
 

@@ -62,8 +62,6 @@ open_questions:
   - No charges, initial hearing or court outcome had been reported as of 4 November 2026; the case remained with the Public Prosecutor.
   - Both opened accounts repeat the Chihuahua prosecutor and detention registry version; no independent official statement beyond that account was opened.
   - The incident date of 3 November 2026 is the stated detention date; 4 November 2026 is the publication date of the opened reports.
-  - MVS Noticias abbreviates the detainee as Alejandro D. J. while the existing report names him Alejandro Duarte Jáquez; the initials, relationship, place, date, vehicle and seizure match as the same person.
-  - MVS Noticias lists 11 marijuana cigarettes plus one partially consumed cigarette, totalling 12, consistent with the existing report's 12-cigarette total; no weight for the marijuana or cocaine was published.
   - No new hearing, formal charge or court outcome is added; MVS Noticias states that no presentation before a judge or additional charges were detailed and that no other detainees were reported.
 ---
 

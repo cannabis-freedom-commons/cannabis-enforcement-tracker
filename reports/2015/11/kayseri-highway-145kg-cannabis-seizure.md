@@ -52,7 +52,6 @@ open_questions:
   - The articles give no separate date for the roadside stop; 17 November 2015 is the publication date used for the incident date.
   - The headline rounds the seizure to 146 kg; the report uses the detailed total of 145 kg 812 grams stated in the text.
   - Whether the driver who fled on foot was later caught is not reported.
-  - The submitted page supplies only a no_image.jpg placeholder, so no event photograph is listed as media.
 ---
 
 Kayseri police tracked two cars on the Kayseri-Malatya highway, treating one as

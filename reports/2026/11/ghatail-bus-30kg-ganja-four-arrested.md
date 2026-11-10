@@ -68,15 +68,9 @@ open_questions:
   - No value, weight beyond the 30 kg of ganja, or court outcome beyond the case filed at Ghatail Police Station was reported.
   - Only one accessible source for this event was found after searches in Bengali and English.
   - Whether the accompanying seized-drugs photo shows this specific 30 kg seizure could not be established beyond its matching caption.
-  - The submitted page's lead photo is captioned only with the headline and does not establish that it shows this seizure, so no media entry is added.
-  - The page's lead image has no caption identifying it as this seizure, so no media entry is added.
   - This source transliterates the bus name as ‘আকন্দ এক্সপ্রেস’, a spelling variant of the Akanda Express named in the report.
-  - The page gives no ages for the four suspects, while the existing report lists ages reported by other outlets.
   - The page names the bus Akand Express (আকন্দ এক্সপ্রেস), a spelling variant of the Akanda Express named in the report.
-  - The press release is attributed to SRB-14 media officer Nadia Farzana, whereas the existing report credits the announcement to SRB-14 Company 3 commander Md Shamsur Rahman.
-  - The page's lead image is captioned only 'tangail' and does not establish that it shows this seizure, so no media entry is added.
   - The page gives the arrest time as about 10:05 pm on 3 November, while other accounts describe the checkpoint only as Tuesday night.
-  - The page's lead image repeats the headline as its caption and does not establish that it shows this seizure, so no media entry is added.
   - A Kalbela report of the same SRB-14 press release could not be opened for this check and is not cited.
 ---
 

@@ -56,7 +56,6 @@ open_questions:
   - The value is the authorities' estimate for resale on the illegal retail market, not a court valuation.
   - A separate French customs case is described in the same RCI article, a 1,567 kg resin find at the Antibes toll on the A8, and is left out because it is a different event.
   - No court outcome or later step in the investigation is known from these opened accounts.
-  - The submitted page's photo is a generic archive image captioned to a different airport case, so no media entry is included.
   - 'Left out, as its quotation was not found in Guadeloupe La 1ère: Inside the container were two vehicles in which bags of cannabis resin were hidden.'
   - 'Left out, as its quotation was not found in Guadeloupe La 1ère: A judicial investigation was opened and entrusted to the local branch of OCRTIS, France''s central office for the suppression of illicit drug trafficking.'
 ---

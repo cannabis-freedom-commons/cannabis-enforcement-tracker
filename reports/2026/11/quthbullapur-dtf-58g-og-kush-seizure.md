@@ -62,8 +62,6 @@ open_questions:
   - No court outcome, remand or sentence was reported.
   - The MDMA and LSD quantities are reported but excluded from cannabis figures.
   - Media is the Prohibition and Excise presentation photo published with Hyderabad Mail for this Quthbullapur seizure.
-  - The Siasat article identifies the suspect by name, a detail not in the existing report and not added here.
-  - The existing report attributes the handover account to excise superintendent Praveen; the Siasat article reports the handover to Quthbullapur Excise Police Station without naming him.
 ---
 
 A Directorate of Enforcement task force team from Quthbullapur detained a man

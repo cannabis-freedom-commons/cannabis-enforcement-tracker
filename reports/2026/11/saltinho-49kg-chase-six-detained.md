@@ -88,8 +88,6 @@ open_questions:
   - WH3 says four adults were arrested and two adolescents apprehended; both outlets say all six were taken to the police station, and the six are counted here as detained.
   - The ClicRDC page image has no caption establishing that it shows this seizure, so it is not listed; the WH3 image is credited only as a Military Police handout.
   - Oeste Mais captions its photo as showing four people aged 13, 17, 20 and 23 held after the pursuit, while its text and the other accounts say six people were taken to the police station; the report keeps the six-person count.
-  - Campo Erê says officers fired at the Gol and one shot hit the bodywork, while the existing report states that four shots were fired and none hit the car; this account does not give a shot count.
-  - Campo Erê does not mention the 68 tablets or the seven mobile phones recorded in the existing report.
   - Prensa Mercosur reproduces the ClicRDC text and credits ClicRDC as its original source, so it is not independent confirmation of the details.
   - The Prensa Mercosur page image is the same file hosted by ClicRDC and carries no caption or credit establishing that it shows this seizure.
 ---

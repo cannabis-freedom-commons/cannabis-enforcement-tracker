@@ -45,7 +45,6 @@ open_questions:
   - No charges, court appearance or outcome for the four detained suspects was reported.
   - No value was given for the 1.5 tonnes of skunk, and the weight is approximate.
   - Only one account could be opened; the Anadolu Agency report it credits and other outlets' versions could not be read.
-  - No photograph of the seizure or the rented plots was published on the page, so no media is listed.
 ---
 
 Narcotics officers detained four suspects and seized about 1.5 tonnes of skunk

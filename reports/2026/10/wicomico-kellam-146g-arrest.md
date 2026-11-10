@@ -47,7 +47,6 @@ open_questions:
   - No court outcome beyond release on a $5,000 unsecured personal bond was reported.
   - The firearm's ownership, permit status, and serial-number details were not reported.
   - Other items reportedly held as evidence were not specified beyond scales and two phones.
-  - The submitted page's image captioned Shane Kellam appears to be a portrait photograph and is not established to show the seizure itself, so no media entry is included.
   - 'Left out, as its quotation was not found in Eastern Shore Undercover: In Maryland, adults 21 and older can legally possess up to 1.5 ounces of cannabis.'
 ---
 

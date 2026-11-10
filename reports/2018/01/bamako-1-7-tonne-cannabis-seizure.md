@@ -49,7 +49,6 @@ open_questions:
   - The truck owner was said to be identified but was not named.
   - No valuation of the seized cannabis was published.
   - The reported record seizure of 2.7 tonnes is a separate earlier event left out of this report.
-  - 'The submitted page carries images captioned only as Traitement Cannabis and Keyframe #8, which do not establish that they show this seizure, so no media entry is included.'
 ---
 
 Mali's Office central des stupéfiants, the country's central anti-drug office,

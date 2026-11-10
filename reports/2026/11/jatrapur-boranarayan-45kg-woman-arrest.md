@@ -42,7 +42,6 @@ open_questions:
   - The raid is dated 3 November 2026 because the 4 November report describes it as late the previous night, with officers reaching the station at dawn; the overnight span into 4 November is inferred.
   - No street value, charges or NDPS sections were published, and no court outcome beyond the planned Wednesday production before the Sonamura court was reported.
   - Only one accessible source for this event was found after searching in English and Bengali.
-  - The page carries one photo with no caption or alt text establishing that it shows this seizure, so no media entry is included.
 ---
 
 A joint team of Jatrapur police and the 81st Battalion of the BSF arrested a

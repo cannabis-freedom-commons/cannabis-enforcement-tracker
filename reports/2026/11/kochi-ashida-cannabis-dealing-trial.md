@@ -64,9 +64,7 @@ open_questions:
   - The alleged dealing period is given only as late March to September last year, understood as 2025, with no exact dates.
   - No arrest date, seizure details, or verdict were reported; the trial was still under way with the next hearing set for 4 November.
   - The cocaine and fraud allegations are noted for context and excluded from cannabis figures because no separable cannabis quantity exists.
-  - The page image has no caption or credit establishing that it shows this event, so no media entry is listed.
   - Only the KUTV report and its mirror carrying the same account were available.
-  - The submitted URL uses /articles/-/3057357 while the existing report cites /articles/kutv/3057357 variants of the same article ID, so it is the same KUTV/TBS account rather than an independent second outlet.
   - The verdict gives no weights, prices or quantities for the cannabis sold, so no cannabis amount is recorded.
   - The court found at least 33 sales to 17 customers but gives no breakdown between cannabis, cocaine and other drugs.
   - The sentence is a first-instance judgment; the defence said on 6 November it had not yet decided whether to appeal.

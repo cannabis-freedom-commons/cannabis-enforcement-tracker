@@ -39,7 +39,6 @@ open_questions:
   - Only one source could be opened for this operation, so its figures are not corroborated by a second outlet.
   - No site inside Sepahijala district is named, so the coordinates mark the district and the precision is district.
   - The report names no suspects and no arrests; whether anyone was detained or charged is unknown.
-  - The article's photograph uses a generic file name and cannot be verified as showing this operation, so no media entry is made.
 sources:
   - title: 'Tripura: 151.5 Acres Cleared as Sepahijala Police and Forces Destroy 303,000 Ganja Plants'
     url: https://boroktimes.com/tripura-151-5-acres-cleared-as-sepahijala-police-and-forces-destroy-303000-ganja-plants/

@@ -42,7 +42,6 @@ open_questions:
   - The convicted man's full name was not published, only that he is a 48-year-old local resident.
   - No detention, additional seizure weight, or prior procedural step beyond discovery was reported.
   - The RIA Kursk account repeats the prosecutor's release, so the two sources are not fully independent.
-  - The submitted page's photo is captioned only with the article title and its file name suggests a prosecutor building, which does not establish that it shows this planting, so no media entry is included.
   - 'Left out, as its quotation was not found in РИА Курск: The defendant fully admitted his guilt at the trial.'
   - 'Left out, as its quotation was not found in РИА Курск: A magistrate sentenced him to three months of restriction of freedom, taking the prosecutor''s position into account.'
   - 'Left out, as its quotation was not found in РИА Курск: He had set up the unlawful cannabis plantation directly on the territory of his house plot.'

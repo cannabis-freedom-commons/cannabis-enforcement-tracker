@@ -57,12 +57,9 @@ sources:
     publisher: Lokmat Times
     date: 2026-02-28
 open_questions:
-  - The submitted page gives the seizure value but no weight; the 2.81 kg total and the 1.715 kg and 1.103 kg staged recoveries come from the Free Press Journal account.
   - 'Names and ages vary between outlets: Deepak Lamba and Sundar Arun in the submitted and Lokmat accounts against Dipak Inderbahadur Lamba and Sunder Inderbahadur Lamba in the Free Press Journal, with ages given as 28 and 33 or 34 in different reports.'
   - The place of the first apprehension is described as a hotel in Andheri and also as a trap at Bandra; the report uses Andheri, the stated stay and raid location.
   - The incident date used is 27 February 2026, the last arrest in a staged operation whose case was registered on 25 February and which included recoveries on 25 and 26 February.
-  - The submitted page's mentions of a January Versova jetty seizure and a Bandra Railway Police recovery of about 13.834 kg of Afghan hashish are separate events left out of this report.
-  - 'No usable event photo could be listed: the submitted page image has no caption or credit establishing it shows this seizure, and the Free Press Journal image is labelled as a representational file picture.'
 ---
 
 Mumbai's Anti-Narcotics Cell Worli unit arrested four people, including two

@@ -107,21 +107,11 @@ open_questions:
   - Neither report counts individual plants or gives an estimated dry weight, only the 18-hectare area.
   - The four detainees are not named in the Indonesian reports opened here.
   - >-
-    The submitted article labels a Sawang eradication statement as Senin (21/10/2026) while the existing
-    report dates the 18-hectare Teupin Reusep operation to 27 October 2026; the shared 18-hectare location
-    identifies them as the same fields.
-  - >-
     This account gives no plant count, dry weight, or names or number of arrested growers for this 18-hectare
     operation.
   - >-
-    The submitted page labels the Sawang eradication account Senin (21/10/2026) while the existing report
-    dates the 18-hectare Teupin Reusep operation to 27 October 2026.
-  - >-
     This rewrite gives no plant count, dry weight, or number or names of arrested growers for the 18-hectare
     operation.
-  - >-
-    The page discloses it was automatically rewritten by AI based on news.detik.com without altering facts,
-    and its original is already cited in the existing report.
   - >-
     Its lead photo credited to Taufiq/detikcom appears to duplicate the Taufiq/detikcom eradication photo
     already listed from detikNews, so it is not listed again as media.

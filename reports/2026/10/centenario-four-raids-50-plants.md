@@ -83,9 +83,7 @@ open_questions:
   - Minuto Neuquén describes the 50 as plants and LU17 as seedlings (plantines), both between 15 and 60 cm tall.
   - The submitted ZapalaYa article is mainly about a separate firearms arrest in Zapala and reports the Centenario raids only in one passage.
   - No court date or outcome was reported.
-  - The submitted article says one suspect was detained in the Centenario raids, while the existing report records five detained based on local reports.
   - The submitted article's main Zapala firearms arrest is a separate event left out here.
-  - Its photo shows the Zapala detention and seized firearm, not the Centenario cannabis seizure, so no media is listed.
 ---
 
 Four raids took place in Centenario's Vista Hermosa and 173 Viviendas

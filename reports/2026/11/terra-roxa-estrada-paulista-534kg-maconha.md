@@ -81,7 +81,6 @@ open_questions:
   - 'Left out, as its quotation was not found in Mídia Sudoeste: A statement from the Border Police Battalion said the seizure represented an estimated loss of R$ 1,254,000 to crime.'
   - 'Left out, as its quotation was not found in Mídia Sudoeste: The incident in Terra Roxa began on 3 November 2026, with 534 kg seized on Estrada Paulista.'
   - The article gives no separate date for the patrol; 5 November 2026 is its publication date, while 3 November 2026 as the incident date comes from the earlier Federal Police and newspaper accounts.
-  - The page carries a picture captioned only with the headline and no credit, so no media entry is added because it cannot be established to show this seizure.
   - The three suspects were not located; no arrests, charges or court outcome were reported.
 ---
 

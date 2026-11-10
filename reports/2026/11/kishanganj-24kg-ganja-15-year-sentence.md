@@ -55,7 +55,6 @@ open_questions:
   - The verdict is reported as Wednesday in Special NDPS Case No. 37/2023; 4 November 2026 is the publication date of both reports and is used as the incident date.
   - No market value for the 24.4 kg of ganja was published.
   - The reports do not say whether the two men were in custody or on bail when sentenced.
-  - No photograph of this seizure or hearing was published; the submitted page carries only a logo image, so no media entry is included.
 ---
 
 A court in Kishanganj sentenced two men to 15 years of rigorous imprisonment

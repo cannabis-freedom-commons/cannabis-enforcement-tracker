@@ -44,7 +44,6 @@ open_questions:
   - The headline says intoxicating substances worth ₹1.14 lakh and a motorcycle were seized, but the itemised values do not add up to that figure, so no total value is recorded.
   - The article does not say what happened to six of the seven after arrest; only Vinay is reported to have been produced in court.
   - Only the Dainik Bhaskar page could be opened; no independent report of the roundup was found.
-  - The page's three photographs have no captions or credits identifying what they show, so no media entry is linked.
   - The roundup's count of seven includes Kailash Bais, whose arrest is also recorded separately as maihar-ramnagar-1300g-ganja-bike.
 ---
 

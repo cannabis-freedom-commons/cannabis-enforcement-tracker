@@ -46,7 +46,6 @@ open_questions:
   - El Observador rounded the cannabis total to 4,500 kg; the Interior Ministry gave 4,433.650 kg.
   - The defendants were not named in the government releases opened; only nationalities and roles were described.
   - Two defendants received probation-style terms of 24 and 18 months rather than prison; the headline figure reflects the longest penitentiary term.
-  - Prensa Latina rounds the seizure to 4,500 kg of marijuana and 45 kg of hashish, while the existing report uses the Interior Ministry's precise 4,433.65 kg of cannabis material and 46.52 kg of hashish; the rounded figures are used here only as corroboration.
   - Prensa Latina says three tonnes of marijuana were held at the San Jose site and more than three tonnes in Canelones, which together would exceed its own stated 4,500 kg total, so no site breakdown is added as a new figure.
   - Infobae gives the cannabis seizure as 'más de 4.500 kilos' in its lead and 4.434 kilos in its body, while the report keeps the Interior Ministry's 4,433.65 kg.
   - Infobae describes the laboratory site as a chacra near Juan Soler but does not state which of the four searched properties the Canelones ones were.

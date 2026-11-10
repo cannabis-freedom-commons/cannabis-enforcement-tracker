@@ -48,7 +48,6 @@ open_questions:
   - The source gives no street address or district beyond Rose-Hill for the home.
   - The 14 grams is described only as cannabis, with no test or product type reported, so it is recorded as flower.
   - Only one accessible source for this event was found after searching in French and English.
-  - The page image is a Rose-Hill police-station photo from a 2024 upload folder and is not shown to depict this raid, so no media entry is listed.
 ---
 
 ADSU officers searched the home of a 26-year-old mason living in Rose-Hill at

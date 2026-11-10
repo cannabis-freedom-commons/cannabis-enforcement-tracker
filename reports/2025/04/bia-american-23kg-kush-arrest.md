@@ -52,7 +52,6 @@ open_questions:
   - Only one account of this arrest could be opened; no second outlet or agency statement was found to corroborate it.
   - No charge, court production or later outcome was reported.
   - The same article also reports four Sri Lankan citizens arrested the same day with under 500g each, an Indian couple arrested the previous month and a British national detained the previous year; those are separate events left out of this report.
-  - No event photo with a recoverable direct image address was available, so no media entry is listed.
 ---
 
 A 31-year-old American citizen was arrested for allegedly smuggling a suitcase

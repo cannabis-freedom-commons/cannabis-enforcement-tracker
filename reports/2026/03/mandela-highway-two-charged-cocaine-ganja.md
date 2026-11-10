@@ -49,7 +49,6 @@ open_questions:
   - No separate weight was published for the ganja, only approximately 1.2 kilogrammes of cocaine plus an unspecified quantity of loose ganja, so no kg_seized is recorded.
   - The published $720,000 is a combined street value for the cocaine and ganja together and cannot be attributed to cannabis, so no value is recorded.
   - No plea or court outcome was reported; the men were due to appear on March 13 and any later hearing or sentence is not covered.
-  - The submitted page image caption does not confirm it shows this seizure, stop or the accused, so no media entry is added.
 ---
 
 Police charged two Westmoreland men who were held with alleged cocaine and ganja

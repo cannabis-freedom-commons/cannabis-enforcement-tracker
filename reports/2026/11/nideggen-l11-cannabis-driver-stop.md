@@ -41,7 +41,6 @@ open_questions:
   - No quantity of cannabis was reported because the case concerns a positive saliva test, not a seizure, so no cannabis weight can be recorded.
   - The laboratory blood-test result, any charging decision and any court outcome were not yet reported.
   - The driver was identified only as a 23-year-old from Haan and was not named.
-  - The page photo credited to Depositphotos is a stock image and does not depict this stop, so no media entry is listed.
 ---
 
 On Monday 2 November 2026 police checked a 23-year-old driver from Haan on the

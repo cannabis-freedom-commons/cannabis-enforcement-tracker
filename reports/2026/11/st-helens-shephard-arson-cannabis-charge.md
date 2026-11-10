@@ -38,7 +38,6 @@ open_questions:
   - The alleged offences are dated only as May 7 without a year; 4 November 2026, the listed first-hearing and publication date, is used as the incident date.
   - No plea, verdict or sentence was reported; the case was awaiting its first hearing.
   - Only one accessible source for this event was found after searching.
-  - The page image is explicitly captioned as a stock photo of a magistrates' court and does not show this event, so no media entry is included.
 ---
 
 Caitlyn Shephard, the defendant in this case, is 22 years old and her address

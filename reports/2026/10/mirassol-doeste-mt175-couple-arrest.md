@@ -62,9 +62,6 @@ open_questions:
   - The names, ages and judicial outcome for the two detained people were not published in the opened source.
   - Only one source could be opened; another outlet page for the same event returned an access error and search snippets were not used as evidence.
   - Whether the lead image on the source page shows this seizure was not established from the readable text.
-  - The new source places Mirassol d'Oeste 300 km from Cuiabá while the existing report gives 296 km; the existing figure is retained.
-  - The Lapada Lapada account says Mirassol d'Oeste is 295 kilometres from Cuiabá while the existing report retains 296 kilometres.
-  - The Lapada Lapada page image is captioned only as Reprodução, so it is not established to show this seizure and no media entry is included.
 ---
 
 Military Police arrested a man and a woman on suspicion of drug trafficking on

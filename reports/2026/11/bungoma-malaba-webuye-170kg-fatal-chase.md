@@ -79,10 +79,7 @@ sources:
 open_questions:
   - The articles give no separate date for the ambush, chase and seizure; 4 November 2026 is the publication date and is used as the incident date.
   - The fleeing driver was not named and no arrest, charge or court outcome was reported.
-  - The page carries a featured image captioned only with the headline, which does not confirm it shows this seizure, so no media entry is included.
   - Coordinates are for Webuye town as the nearest named centre to the Malaba-Webuye road incident, not the exact crash spot.
-  - The Radio47 lead image is captioned only with the headline and the in-article seizure image has no caption, so neither can be confirmed to show this seizure and no media entry is added.
-  - The submitted page carries several seizure-related photos without captions or credits, so no depicted photo can be confirmed to show this seizure and no new media entry is added.
   - 'Left out, as its quotation was not found in TV47 Digital: The motorcyclist, identified as Muzungu Munialo, sustained fatal injuries in the collision.'
   - 'Left out, as its quotation was not found in TV47 Digital: Detectives also recovered an additional number plate, registration number KF2 8588, from the back seat, which investigators suspect was intended to conceal the vehicle''s identity.'
   - No weight or street value was published for the two bales recovered in the Busia County motorcycle operation, so the 170.8 kg figure covers only the Bungoma vehicle haul.

@@ -52,7 +52,6 @@ sources:
 open_questions:
   - No quantity, form or circumstances of the cannabis possession were published.
   - The outcome of the Perth Magistrates Court appearance listed for 22 October 2026 was not in these sources.
-  - No event photo with a recoverable direct image address was available, so no media entry is added.
   - The articles also mention a separate alleged attack on Helen Haines in Wangaratta, which is a different event left out here.
 ---
 

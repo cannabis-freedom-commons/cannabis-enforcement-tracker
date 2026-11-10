@@ -47,7 +47,6 @@ open_questions:
   - The report gives the judgment date, 16 October 2026, as the incident date for the sentence; the drug offence itself dates from the night of 6 to 7 March 2024.
   - Neither account names the convicted man or gives his age, and no custody measure between March 2024 and the 2026 trial is reported.
   - The accounts do not say whether the first-instance sentence was appealed, so the case stage may change.
-  - The only images on the opened pages are archive or illustrative pictures and a composite thumbnail, so no media entry is added.
   - PresaSM says the stop was on Cloșca Boulevard and describes a Porsche Cayenne; DNews24.ro says only that a car was stopped in the municipality of Satu Mare.
   - PresaSM says he bought 10 grams for 500 lei and had used about a gram; the seized amount confirmed by the laboratory was 8.7 grams.
 ---

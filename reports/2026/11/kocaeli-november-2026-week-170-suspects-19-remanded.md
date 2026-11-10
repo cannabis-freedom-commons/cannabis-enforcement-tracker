@@ -78,7 +78,6 @@ open_questions:
   - No district or neighbourhood is named for the operations, so the report uses Kocaeli province with regional precision.
   - No suspect names, charges or court outcomes beyond the 19 remands are reported.
   - The Özgün Kocaeli account and the Darıca Gazetesi account carry the same police-gendarmerie breakdown, so they are not fully independent of each other.
-  - The Darıca Gazetesi page image is captioned only with the headline and cannot be confirmed to show this seizure, so no media entry is added.
   - 'Left out, as its quotation was not found in Özgün Kocaeli: The week''s work covered 151 drug incidents and judicial action was taken against 170 suspects, of whom 19 were remanded in custody and sent to prison, a measure known in Turkey as tutuklama.'
 ---
 

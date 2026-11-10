@@ -45,7 +45,6 @@ open_questions:
   - The nine detentions cover all eight drug cases for the week, including the heroin cases, and cannot be separated into cannabis-only detentions.
   - No names, charges, places within Tajikistan or court outcomes for the nine detainees were published.
   - The incident date uses the end of the stated week, 5 December 2005; the tally was published on 6 December 2005.
-  - No photo of this event was published with the article; the page images are the outlet logo and advertisements, so no media entry is included.
 ---
 
 Nine citizens of Tajikistan were detained in connection with the

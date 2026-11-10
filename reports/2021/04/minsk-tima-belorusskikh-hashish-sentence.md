@@ -61,11 +61,9 @@ open_questions:
   - The 1.9609 grams is the total hashish the pair were accused of acquiring, including the portion consumed in the gaming club; only the remaining 0.4 grams seized from Morozov is recorded as kg_seized, and the amphetamine is excluded as a non-cannabis substance.
   - The 16 April 2021 date is the sentencing hearing date reported as today by BelTA and the publication date of both sources; no separate time of day was published.
   - No court outcome beyond the restriction-of-freedom sentences was reported.
-  - The submitted page image is a portrait credited to Getty Images and does not show the seizure, raid or court, so no media entry is included.
   - 'Left out, as its quotation was not found in BBC News Русская служба: Home chemistry is the colloquial term for restriction of freedom served at home under police supervision.'
   - The 0.4 grams is the weight of the hashish found on the singer at the club, not the 1.9609 grams the pair were later accused of buying; the arrest-stage figure is the one recorded.
   - The Insider attributes the claim that the singer promised to withdraw support for the protests in exchange for a reduced seized weight and lighter measure to the Mash Telegram channel; no official source confirms it.
-  - The submitted page's single image is a portrait credited to ANTON NOVODEREZHKIN/TASS and does not show the seizure, raid or court, so no media entry is added.
 ---
 
 Moscow District Court in Minsk sentenced 22-year-old singer Timofey Morozov,

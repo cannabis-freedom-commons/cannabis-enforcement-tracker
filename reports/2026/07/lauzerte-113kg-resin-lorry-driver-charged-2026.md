@@ -59,7 +59,6 @@ open_questions:
   - The interception is placed at Lauzerte in the first report and more precisely in the commune of Castelsagrat in the follow-up; both are used for one event.
   - The value of the 113 kg is given only as several hundred thousand euros, so no value figure is recorded.
   - The follow-up says the driver was born in July 1996 and lives in Livorno, but no name or further identifying details are recorded here.
-  - The page images are captioned as illustrations of the interception rather than photographs of this lorry, so no media entry is included.
 ---
 
 Customs officers arrested a lorry driver carrying more than 100 kg of cannabis

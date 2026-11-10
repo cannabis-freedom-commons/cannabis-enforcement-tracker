@@ -60,7 +60,6 @@ open_questions:
   - No court outcomes were reported; all charges are allegations and the accused are presumed innocent.
   - The firearm magazine McDonald admitted discarding in a wooded area had not been recovered at the time of the October report.
   - Only WSMV's two reports on this case could be opened; no independent second outlet account was found.
-  - The submitted page's image has no caption or credit identifying it as showing this event, so no media entry is included.
 ---
 
 Metro Nashville police say two men involved in a mid-October shootout on Hickory

@@ -68,8 +68,6 @@ sources:
     language: pt
 open_questions:
   - No charges, custody decision or other court outcome were reported.
-  - Both pages carry photos of the seizure, but their captions and credits do not establish what each image shows, so no media entry is listed.
-  - 'The page carries a seizure photo credited only as Foto: PRF Seberi without describing its content, so no media entry is listed.'
 ---
 
 On the morning of Monday 2 November 2026, officers of the Federal Highway Police

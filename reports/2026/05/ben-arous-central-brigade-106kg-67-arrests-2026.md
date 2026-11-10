@@ -66,7 +66,6 @@ open_questions:
   - The sources do not say how the network moved the cannabis into Tunisia or where it obtained it.
   - No value was published for the cannabis itself; the cash and jewellery are recorded as alleged proceeds, not a cannabis valuation.
   - The statements do not say whether the 106.5 kg was resin or herb; it is recorded with the generic cannabis product.
-  - The submitted page's image is a generic cannabis photo from a Kapitalis archive folder dated September 2025, also used on other unrelated stories, so no media entry is included rather than link a picture not shown to depict this operation.
 ---
 
 The central anti-drug brigade of the National Guard in Ben Arous dismantled an

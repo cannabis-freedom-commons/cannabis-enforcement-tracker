@@ -49,7 +49,6 @@ open_questions:
   - The STF operational account reports more than 59 kg of heroin for the whole campaign while the second account reports over 13 kg, attributed to 152 Guwahati-city operations, so the report uses the whole-campaign account.
   - The campaign involved 254 total operations versus 152 operations described for Guwahati city, so the report uses 254 as the campaign total.
   - The incident date is the end of the reported March 2023 to December 2024 campaign period, not a single raid date.
-  - The only page image is a PTI portrait of Partha Sarathi Mahanta, which does not show the seizure or operations, so no media entry is added.
 ---
 
 The Assam Police Special Task Force was revived in March 2023 to operate against

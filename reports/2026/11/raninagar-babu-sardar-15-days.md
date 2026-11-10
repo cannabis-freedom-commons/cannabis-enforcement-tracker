@@ -47,7 +47,6 @@ sources:
 open_questions:
   - Only one source could be found for this case, so no second account confirms or adds facts.
   - No cannabis weight or seizure amount was published for the consumption case.
-  - The page carries a lead photograph whose caption only repeats the headline and gives no credit, so whether it shows this operation could not be established and no media entry is added.
   - The stated operation date of Monday 2 November coincides with the 2 November 2026 publication date; no separate incident time beyond Monday noon was given.
 ---
 

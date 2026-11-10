@@ -62,7 +62,6 @@ open_questions:
   - No arrest, questioning outcome or court result was reported; the linked landholder was described as absconding and others were still being identified.
   - Only Patrika's account could be opened in full; the Pradesh Prakash page for the same 9-plant seizure yielded no readable article text.
   - No figure for the cultivated area was published, only the plant count and plant weight.
-  - The Mediawala page carries two images with generic captions that do not establish they show this seizure, so no new media entry is added.
   - 'Left out, as its quotation was not found in Mediawala: Police said preliminary information linked the field to Rangilibai, wife of Jai Singh Bhabhar.'
   - 'Left out, as its quotation was not found in Mediawala: Police had all nine plants uprooted and seized in accordance with procedure.'
   - Dainik Bhaskar's opened text is cut off after the raid description, so its full account of the weight, value and the person linked to the field could not be read; the 1.20 lakh figure for the plants appears only in its headline.

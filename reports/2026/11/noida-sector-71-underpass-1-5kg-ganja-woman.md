@@ -62,11 +62,9 @@ open_questions:
   - The statement mentions FIR 441/2022 under sections 8/20 NDPS without saying whether it concerns this woman or is a general station reference.
   - No charge sheet, remand order or court date was reported; the case is recorded as charged only because an FIR was registered.
   - The source gives no value for the ganja and no count of packets.
-  - The page image is a generic illustration captioned only with the headline and is not confirmed to show this arrest, so no media entry is added.
   - Royal Bulletin's same-day roundup places this arrest beside the Sector-71 underpass service road on a ganja trafficking charge, matching this report's location, but gives no case number or the woman's origin as recorded here.
   - Amar Ujala dates the woman's arrest to Friday evening, 6 November, and places it near the Sarfabad cremation ground rather than at the Sector-71 underpass service road named in the police statement and this report.
   - The article says cases 441/2022 and 496/2026 are both registered against the woman, while the police statement is unclear whether the 2022 case concerns her.
-  - 'The page photo is a generic drug-smuggling illustration captioned only with the headline and credited ''Courtesy: JBT/ Pankaj Rai'', and is not established to show this arrest, so no media entry is taken from it.'
 ---
 
 Sector-113 police station in Noida arrested a woman on 6 November 2026 on

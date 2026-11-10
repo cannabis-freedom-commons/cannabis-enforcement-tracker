@@ -55,9 +55,7 @@ sources:
 open_questions:
   - No weight was published for the 8 packets of ganja, so no cannabis weight can be recorded.
   - Only one accessible source for this event was found after searching in Bengali and English.
-  - The page image carries only the generic caption Img with no description establishing that it shows this seizure, so no media entry is listed.
   - Neither outlet published a weight for the 8 packets of ganja, so no cannabis weight is recorded.
-  - The page image carries only the generic caption Protidiner Sangbad's Photo with no description establishing that it shows this seizure, so no media entry is listed.
 media:
   - kind: photo
     url: https://www.protidinersangbad.com/whole-country/594022

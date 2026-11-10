@@ -69,7 +69,6 @@ open_questions:
   - The value of the hashish was not published, and the number of doses police gave is an estimate.
   - Whether the two men have been formally charged by prosecutors, or only named as suspects at their first interrogation, was not stated.
   - No trial date or outcome was reported.
-  - The submitted page's only image is a generic Envato stock photo and Jornal de Notícias credits an archive photo, so no photo of this operation is listed.
   - The exact day of the court hearing that imposed preventive detention, in the days after the 10 August arrests, was not given.
 ---
 

@@ -48,7 +48,6 @@ open_questions:
   - The weapon is described only as a weapon other than a gun on educational property in the opened sources, so its exact type is not recorded.
   - The incident is dated 26 March 2026 because JoCo Report says the investigation began March 26 and the teacher was arrested Thursday, with WRAL publishing March 27; no separate arrest date is stated.
   - No court outcome beyond detention on a $102,000 secured bond was reported, and the investigation was described as ongoing.
-  - The WRAL page carries a hero image and video whose captions do not establish that they depict the seizure, arrest or school search, so no media entry is included.
 ---
 
 Harnett County deputies arrested Overhills High School math teacher Jocelyn

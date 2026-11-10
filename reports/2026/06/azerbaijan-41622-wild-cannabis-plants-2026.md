@@ -56,7 +56,6 @@ open_questions:
   - The 34.2 kg haul was described only as narcotic substances with no breakdown by substance, so no cannabis portion can be established and none is recorded as kilograms seized.
   - The accounts report no number of operations, no area cleared, no arrests, suspects, charges, values or court outcomes.
   - The accounts give the day as 26 June and were published on 27 June 2026, so 2026 is used as the year.
-  - The br.az page image carries only the headline as its caption with no credit describing the scene, so no media entry is included.
   - All three outlets reproduce the same Interior Ministry statement, so there is a single primary account of the event.
   - Sputnik also recalls a separate January-May 2026 national tally of 4.263 tonnes of narcotics and psychotropic substances, which is statistics left out of this single-day report.
   - The text gives a weight ("34.2 kg") but the figures have no kg_seized; check whether it belongs there.

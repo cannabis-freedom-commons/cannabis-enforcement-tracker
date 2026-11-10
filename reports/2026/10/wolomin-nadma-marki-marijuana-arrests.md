@@ -52,7 +52,6 @@ open_questions:
   - The over 2 grams of methamphetamine is excluded from cannabis figures and mentioned only to explain the mixed seizure.
   - The 61-year-old detainee was held on an unrelated wanted notice to serve a prison term, not on a drug allegation.
   - No court outcome beyond the Article 62 charges was reported.
-  - The pages carry seizure photos without captions or credits establishing what they show, so no media entry is included.
   - Both accounts repeat the police version; no independent account of the checks was opened.
 ---
 

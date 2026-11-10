@@ -98,7 +98,6 @@ open_questions:
   - All three accounts rest on the same Government Subdelegation statement, so the details could not be checked against an independent source.
   - El Norte de Castilla describes the detained man as the woman's husband, while El Día de Valladolid calls him her partner.
   - El Norte de Castilla's article is paywalled; only its headline and standfirst could be read, so no detail from its body was used.
-  - The El Norte de Castilla page carries a one-minute video, but the page does not describe what it shows, so no media entry was added.
 ---
 
 National Police officers arrested a woman and two men, all members of one

@@ -136,18 +136,10 @@ open_questions:
   - 'Left out, as its quotation was not found in Jabar Publisher: Police charged AR under Article 114(2) and AZ under Article 114(1) of the Narcotics Law as amended by the 2026 Criminal Adjustment Law.'
   - 'Left out, as its quotation was not found in Jabar Publisher: Both suspects were held in the Polresta Cirebon detention cells while investigators traced the distribution flow and the suppliers above them.'
   - The headline names 9 kg while the text reports a 10 kg total; the text attributes 9 kg to AR and 1 kg to AZ, so the headline refers to AR's share.
-  - The page image captioned Ilustrasi ganja from 2015 is an illustration, not a photo of this seizure, so no media entry is added.
   - The article gives only its 2 November 2026 publication and press-conference date, with no separate date for the buyer detention, house search and arrests.
   - This account reports the threatened penalty as up to 12 years in prison and a Rp2 billion fine under Article 114, supporting one side of the penalty disagreement already noted in the report.
   - The article also reports 16 cases with 22 suspects over 30 days across all drug types; those totals cover other cases and are left out of this event's figures.
-  - This account says one suspect had allegedly been involved in narcotics distribution several times before, while the existing report describes both suspects as suspected long-time players, so the number of repeat suspects is unclear.
   - This account says other evidence was seized from AZ besides about 1 kilogram gross, but does not specify what that other evidence was.
-  - This account attributes the buyer-lead quotation to Wednesday 4 November 2026, while the existing report dates the press conference to Monday 2 November 2026, so the statement date is unclear.
-  - The page carries one image whose caption only repeats the headline, which is insufficient to confirm it shows this seizure, so no media entry is added.
-  - This 4 November 2026 account names the Cirebon police chief as Kombes Pol Imara Utama, differing from the Imanudin attribution in the existing report, so the correct name spelling remains unclear.
-  - The JPNN page labels its main image as an illustration of drug dealers, not as a photo of this seizure, and its other listed image shows an unrelated football match, so no media entry is included.
-  - The JPNN account attributes the police statement to Wednesday, 4 November 2026, while the existing report dates the press conference to Monday, 2 November 2026, so whether this is a follow-up statement or a later republication is unclear.
-  - The page shows a press-conference photo credited only to a JPNN source, without confirming it displays this seizure's evidence, so no media entry is added.
 ---
 
 Satresnarkoba investigators of Polresta Cirebon seized 10 kilograms of dried

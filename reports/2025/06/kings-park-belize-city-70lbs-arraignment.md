@@ -69,7 +69,6 @@ open_questions:
   - Greater Belize Media says officers from Precincts 1 and 3 carried out the search, while the arraignment report says a joint Quick Response Team and Special Branch team did; the different unit accounts are not reconciled.
   - The arraignment report calls her Merlene Rebecca Daniels while other accounts call her Rebecca Marlene Daniels, and the submitted article gives no street address.
   - The court result after the 29 September 2025 return date was not reported in the sources found.
-  - The submitted page's photograph has no caption or credit explaining what it depicts, so no media entry is added.
 ---
 
 Police searched a home in the King's Park area of Belize City around midday on

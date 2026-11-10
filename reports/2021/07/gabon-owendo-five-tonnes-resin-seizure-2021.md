@@ -52,7 +52,6 @@ open_questions:
   - The police statement was not opened directly; both opened accounts repeat it, with the second also carrying an unrelated article link.
   - No charges, custody decision or court outcome were reported for the people arrested.
   - The figure of 750 tonnes seized between 2018 and 2019 is a national total that belongs to another record and is not counted for this event.
-  - The page photo is captioned only as an AFP illustration, so no media entry is included.
 ---
 
 Gabon's anti-drug police seized more than five tonnes of cannabis resin and

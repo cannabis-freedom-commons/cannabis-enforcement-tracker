@@ -47,7 +47,6 @@ open_questions:
   - The 44 g of herb and 245 g of resin figures are as stated in the report, not laboratory weights.
   - The armed-robbery case that prompted the September 2025 search is a separate matter and is mentioned only in relation to the drug case.
   - Only one accessible source for this event was found; no separate police or court statement could be opened.
-  - The article's photographs are declared illustration pictures, not pictures of this event, so no media entry is included.
   - 'Left out, as its quotation was not found in Le Journal du Centre: He told the court the dealing stressed him and that he chose the easy option rather than looking for work.'
   - 'Left out, as its quotation was not found in Le Journal du Centre: The presiding judge, Lydie Samour, asked who supplied him and he refused to say.'
   - 'Left out, as its quotation was not found in Le Journal du Centre: He had refused to unlock his phones after his arrest, telling investigators he did not want to put other people in difficulty.'

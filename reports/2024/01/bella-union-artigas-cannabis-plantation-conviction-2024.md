@@ -89,7 +89,6 @@ open_questions:
   - 'The two settlement clauses are hard to reconcile: the first describes 21 months under probation and the last a ten-month probation period after three months at home; the report says only what each clause states.'
   - It is not stated whether the sentence is final or can be appealed, or whether any plants were destroyed and the rest seized.
   - El Pueblo Digital reproduces the Interior Ministry statement word for word and is not an independent second source.
-  - The submitted page's gallery image addresses were taken from the page markup; the site reports four images in its download archive but the gallery lists three.
 ---
 
 A court in Bella Unión sentenced a 28-year-old man over an unlicensed cannabis

@@ -60,7 +60,6 @@ open_questions:
   - The second account estimates the street value at J$782,000 but does not say who made the estimate.
   - No charges, pleas or court outcomes were reported; identities were withheld until charge.
   - The second account attributes the story to the Jamaica Observer, so it may not be fully independent of the Gleaner account.
-  - No photograph confirmed to show this seizure was available, so no media entry is listed.
 ---
 
 Police at Norman Manley International Airport in Kingston arrested seven people

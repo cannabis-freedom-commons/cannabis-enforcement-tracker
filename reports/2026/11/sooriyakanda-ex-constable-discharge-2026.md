@@ -47,7 +47,6 @@ open_questions:
   - The claim that the raided land belongs to a relative of parliamentarian Shantha Pathma Kumara is reported only as reportedly belonging and was not independently confirmed.
   - The procedural sequence is unclear because the discharge came on the same day the court had ordered charges to be filed.
   - Only one accessible source for this event was found after searching in English and Sinhala; no agency statement or second outlet account could be opened.
-  - The page carries a photo captioned with the headline, which does not establish that it shows this raid or court, so no media entry is included.
 ---
 
 Embilipitiya Magistrate's Court on 2 November 2026 discharged former

@@ -99,9 +99,7 @@ open_questions:
   - Oneindia Tamil and Tamil Spark reported that Chinnapappa spent about ₹40,000 to secure Devaraj's bail, while The Hindu reported ₹50,000.
   - The Hindu reported that Devaraj attacked his mother after she refused him money, while the police account reported by Oneindia Tamil and Tamil Spark says he was angered by her advice to give up drinking and his insistence that no one question him.
   - 'No new event photograph was identified: Oneindia Tamil''s only image is captioned ''Dharmapuri crime'' with no credit, and Tamil Spark''s is an uncaptioned collage.'
-  - News18 Tamil gives no separate incident date; 30 October 2026 is its publication date and it dates the bail release to Thursday, while the existing report uses the night of 29 October and bail on 28 October.
   - News18 Tamil says Devaraj attacked Chinnapappa with an iron rod, supporting The Hindu and Dinakaran against Thanthi TV's knife account already noted in the report.
-  - The page's only image is captioned Devaraj-Chinnapappa portraits, not the attack, arrest or scene, so no media entry is added.
 ---
 
 Police in Indur, in Tamil Nadu's Dharmapuri district, arrested 19-year-old

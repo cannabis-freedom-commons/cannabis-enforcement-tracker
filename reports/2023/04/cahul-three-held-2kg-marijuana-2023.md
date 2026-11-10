@@ -62,7 +62,6 @@ open_questions:
   - The sources give the suspects' ages as 41, 50 and 67 but publish no names.
   - The make, model and legality of the seized firearm were not established.
   - No charge sheet, trial or court outcome beyond the one 30-day detention was reported.
-  - The submitted page carries a photo with no caption or credit, so it is not established that the image shows this seizure.
 ---
 
 Three men aged 41, 50 and 67 from Cahul district were suspected of circulating

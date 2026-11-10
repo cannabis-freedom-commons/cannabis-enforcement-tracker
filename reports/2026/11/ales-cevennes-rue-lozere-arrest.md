@@ -45,7 +45,6 @@ open_questions:
   - No name, exact age, place of origin or later court outcome beyond the initial garde à vue is given in the accessible text.
   - The same page also describes a separate Friday arrest of an 18-year-old with about 500 g of cocaine and as much cannabis, which is a different event left out of this report.
   - No second accessible report of the 2 November arrest was found.
-  - The source page carries a lead photo credited to Mikael Anisset as archives, so whether it shows this seizure could not be established and no media entry is added.
 ---
 
 On Monday 2 November 2026, officers assigned to the Alès police station arrested

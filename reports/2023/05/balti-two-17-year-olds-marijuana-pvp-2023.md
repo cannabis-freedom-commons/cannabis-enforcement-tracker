@@ -60,7 +60,6 @@ open_questions:
   - The 1.5 million lei figure covers the PVP and marijuana together, so no cannabis-only value is recorded.
   - The suspects are minors and were not named publicly.
   - No court outcome or charge sheet was published; how the two teenagers' cases ended is not known.
-  - The photo placed inside the Moldova 1 article has no caption or credit and cannot be confirmed to show this seizure, so no media entry is included.
 ---
 
 Moldovan police and prosecutors detained two 17-year-old students from Fălești

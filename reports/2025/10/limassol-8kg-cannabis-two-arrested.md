@@ -48,7 +48,6 @@ open_questions:
   - The incident date of 23 October 2025 is inferred because both sources published on 24 October 2025 say the arrests happened on Thursday afternoon.
   - The 7.918 kg total is the sum of the reported 3.39 kg, 4.52 kg, seven grammes and one gramme; the hand-rolled joint had no published weight and is excluded.
   - The same article also reports a separate Larnaca crystal-meth operation with three arrests and 360 grams of methamphetamine; it is a different drug event and its quantities and arrests are excluded from this cannabis report.
-  - 'No published photo was established to show this cannabis seizure: the submitted page''s police image illustrates the meth case, so no media entry is added.'
   - No charge, remand outcome or later court result was reported.
 ---
 

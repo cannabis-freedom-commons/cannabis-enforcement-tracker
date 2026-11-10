@@ -69,9 +69,7 @@ open_questions:
   - The published weight of about 600 kilograms is an estimate, and the reports do not say whether it is fresh or dried weight.
   - The two suspects were identified only as Albanians in their thirties; no names were published.
   - No court outcome was reported; the case was still in preliminary investigations.
-  - The submitted page uses a Pexels stock photo and the other pages carry plantation images without captions establishing that they show this seizure, so no media entry is listed.
   - The submitted video page gives only a vague figure of hundreds of plants ready for harvest, so the report retains the official precise figure of 550 plants weighing about 600 kg.
-  - No viewable event footage could be verified from the video thumbnail alone, so no new media entry is added.
 ---
 
 Two men in their thirties, both described as of Albanian origin, were placed

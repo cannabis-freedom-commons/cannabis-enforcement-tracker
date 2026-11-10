@@ -41,7 +41,6 @@ tags: [ganja, koraput, inter-state-racket]
 open_questions:
   - Four of the six men in the truck fled, and the outcome of the manhunt was not reported.
   - Both outlets draw on the same district-police account, so the figures have a single origin.
-  - The Devdiscourse page carried a photo credited to Twitter, but its image file no longer loads, so no media entry was added.
 sources:
   - title: Police seizes over 3,000 kg of ganja worth INR 2.40 crore
     url: https://www.devdiscourse.com/article/other/102262-police-seizes-over-3000-kg-of-ganja-worth-inr-240-crore

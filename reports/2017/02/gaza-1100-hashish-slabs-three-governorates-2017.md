@@ -32,7 +32,6 @@ open_questions:
   - No figure is given for the number of people arrested, only "a number of traders and dealers", so no arrested count is recorded.
   - Al-Ray reproduces the Interior Ministry statement word for word, so the two accounts are not independent.
   - No value estimate, charges, detention measure or court outcome for this raid was reported.
-  - The page's only image is a portrait captioned as the head of the anti-narcotics directorate, not a picture of the raid or seizure, so no media entry is added.
 ---
 
 Gaza's anti-narcotics police raided all the storage sites of a drugs consignment

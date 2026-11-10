@@ -82,7 +82,6 @@ open_questions:
   - 'Left out, as its quotation was not found in Daily Thanthi: Police registered a case and said they were working to find who drove the car and which key figures sit behind the inter-state ganja network.'
   - 'Left out, as its quotation was not found in Thinathulir: A second Tamil outlet, Thinathulir, reported the same 26 kg seizure and put its value at about ₹13 lakh.'
   - Left out case stage, as its quotation was not found in Daily Thanthi.
-  - The submitted page gives no separate time or exact spot for the car check beyond Pudukkottai district.
   - The two women are identified only by given names, with no ages or occupations reported.
   - No charges under a specific law section or court stage were reported beyond a registered case and an ongoing investigation.
   - Dinamani dates the arrest to Thursday night (5 November 2026), while the Thanthi TV and Daily Thanthi accounts date the car check to Friday 6 November; the reports may reflect a check after midnight or different reckoning, and no source reconciles them.

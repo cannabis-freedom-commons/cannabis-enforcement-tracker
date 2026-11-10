@@ -61,7 +61,6 @@ open_questions:
   - No weight was published for the seized marijuana and no exact cash sum was given, so no cannabis quantity or value can be recorded.
   - The report gives the arrest as Wednesday midday and the police announcement as Thursday, with publication on 5 November 2026, so 4 November 2026 is used as the incident date.
   - No second accessible report of this event was found after searching in German and English.
-  - The page image is labelled as an archive handcuff-arrest photo, not this event, so no media entry is included.
   - No court outcome was reported; the investigation for suspected dealing was still pending.
   - The Presseportal statement and the news.de reprint are the same Frankfurt police release, not an independent account.
 ---

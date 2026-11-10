@@ -52,8 +52,6 @@ sources:
     url: https://www.devdiscourse.com/article/law-order/3887592-major-drug-bust-at-indo-nepal-border-smuggler-arrested
     publisher: Devdiscourse
     date: 2026-04-26
-open_questions:
-  - No photograph tied to this seizure with a recoverable direct image address is listed, because the submitted page's image caption does not identify it as showing this event.
 ---
 
 A joint team of the Anti-Narcotics Task Force and police arrested an alleged

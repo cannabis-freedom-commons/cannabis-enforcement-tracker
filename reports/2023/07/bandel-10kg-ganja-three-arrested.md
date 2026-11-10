@@ -42,7 +42,6 @@ open_questions:
   - The value is described only as more than a lakh of rupees and as several lakhs of rupees, so no exact value can be recorded.
   - No charges, court production or case outcome were reported.
   - Only one accessible source for this event was found after searching in English.
-  - The page carries an image with no caption or alt text establishing that it shows this seizure, so no media entry is included.
 ---
 
 Three people were arrested at Bandel, described as including a woman. [@1] Three

@@ -87,7 +87,6 @@ open_questions:
   - Loksatta names no bail or court outcome and no charges, so the bail recorded from The Times of India is uncorroborated here.
   - Loksatta says only that investigators are looking into which gangster sent the guard, with no arrest of anyone else reported.
   - Deshdoot gives no date for when the guard was caught, only that it happened 'two days ago' before its 8 November 2026 publication.
-  - Deshdoot repeats that the charas was hidden at the guard's private parts, which the existing report records; the Times of India's account of taping to the thighs remains uncorroborated here.
   - Deshdoot's photograph is captioned only 'jail images' and the page does not say when it was taken, so no photo is added.
 ---
 

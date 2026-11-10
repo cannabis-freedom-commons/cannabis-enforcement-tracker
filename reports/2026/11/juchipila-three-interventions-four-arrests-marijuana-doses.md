@@ -55,7 +55,6 @@ open_questions:
   - No charges or court outcome were reported; the four were placed at the disposal of the competent authority for investigation.
   - The unnamed Fuerza de Seguridad source is presumably a state government statement; an original official communiqué was not opened.
   - A government roundup also reported a separate operation in Moyahua, which is a different event left out here.
-  - No photo is confirmed to show this seizure; the EcoDiario gallery images are uncaptioned and the AlkimiaTV pictures are credited only as courtesy, so no media entry is included.
   - The AlkimiaTV text and the EcoDiario text largely repeat the same official account.
 ---
 

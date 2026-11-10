@@ -60,7 +60,6 @@ open_questions:
   - Vehicle makes, models and registration details were not given in the opened sources and are omitted.
   - The origin, destination and owner of the hashish were reported as unknown, with investigation continuing.
   - No court outcome beyond referral of the case file to the Attorney General's Office was reported.
-  - The Radio Mocambique page image has no caption or credit and its generic filename does not establish that it shows this seizure, so no media entry is included.
   - Jornal Notícias uses the spelling Sabile for the SERNIC spokesman, while the report uses Sabila; the report keeps its own spelling.
   - Jornal Notícias gives no date for the detention, saying only that the suspects were presented to the press on a Wednesday; the report's 22 June 2024 date comes from its other sources.
   - The page's only image is titled or captioned only detidos, with no caption or credit stating that it shows this seizure, so it is not listed as media.

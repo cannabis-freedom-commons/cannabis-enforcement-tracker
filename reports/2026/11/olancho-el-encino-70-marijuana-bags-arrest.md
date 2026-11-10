@@ -38,7 +38,6 @@ open_questions:
   - No weight for the marijuana was published, only a count of more than 70 small bags, so no cannabis weight is recorded.
   - The article gives no separate date for the patrols or arrest; 10 November 2026 is its publication date and stands in for the incident date.
   - No name, age, sex or other identifying detail for the detained person was published, and no court outcome was reported.
-  - The post was published with images, but they carry no caption tying them to this seizure, so no media entry is added.
 ---
 
 In Olancho, a person was captured in possession of more than 70 small bags of

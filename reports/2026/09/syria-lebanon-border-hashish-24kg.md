@@ -66,7 +66,6 @@ open_questions:
   - The exact date of the interception is not stated; the department announced it on Friday 25 September 2026 and the reports were published that day, which is used as the incident date.
   - No charge, court date, sentence or estimated value of the hashish has been reported, and the suspect is identified only by the initials Y. M., with no age or nationality given.
   - SANA's article also describes a separate operation on 12 September at al-Nabk, in Damascus countryside, which is not part of this event and is not counted in its figures.
-  - The Verify-Sy account, like the existing report's sources, does not name the border crossing or governorate where the shipment was stopped.
   - The article gives no value for the hashish and no charge or court outcome.
 ---
 

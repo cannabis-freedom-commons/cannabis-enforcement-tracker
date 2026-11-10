@@ -57,7 +57,6 @@ open_questions:
   - No weight, form, packaging or value of the suspected cannabis was published in the accessible text.
   - The remaining 36 characters of the 109-character paywalled article were not accessible, so the exact possession location, circumstances and any statement on admission or denial are unknown.
   - The suspect's name was not published in the accessible text.
-  - The page carries a photo, but its caption and credit are empty and the screenshot shows a generic incident banner, so it is not established to show this arrest and no media entry is listed.
   - No second accessible outlet account of the same arrest was found; the Chugoku original is the same paywalled report.
 ---
 

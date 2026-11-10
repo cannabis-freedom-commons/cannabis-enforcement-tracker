@@ -56,7 +56,6 @@ open_questions:
   - The Arabic accounts give the number of non-Jordanians among those held as 153, which the English summary does not mention.
   - All opened accounts reproduce the same Public Security Directorate statement, so they are not independent of each other.
   - The reports give no individual charges, detentions or court outcomes for the cases beyond the referral to the prosecutor.
-  - The submitted page's photo is a file picture of drugs credited to a Flickr photographer, not a picture of this seizure, so no media entry is added.
 ---
 
 Jordan's Drug Control administration arrested 2,472 people on drug cases in

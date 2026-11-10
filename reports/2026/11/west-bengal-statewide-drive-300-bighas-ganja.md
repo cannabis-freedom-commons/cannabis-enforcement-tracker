@@ -114,8 +114,6 @@ open_questions:
   - The Rs 17 lakh in cash may form part of the narcotics and cash total valued at about Rs 64 crore.
   - The sources do not say how many of the 378 arrests or the 212 cases concerned cannabis rather than other drugs.
   - No court outcome for any of the 212 cases was reported; the financial investigations and property attachment were at the inquiry stage.
-  - The submitted Rediff page's only image is flagged on the page as AI-generated and for representation only, so no media entry is added.
-  - ThePrint reproduces the same PTI text as the submitted page, so the two accounts are not independent reporting.
   - The text gives a weight ("10,000 kg") but the figures have no kg_seized; check whether it belongs there.
   - The Bengali-language Indian Express account describes the destroyed cultivation as about 300 acres (প্রায় ৩০০ একর জমি) rather than 300 bighas; the report keeps the chief minister's wording, 300 bighas, which the English-language PTI account converts to 99.17 acres.
   - The Times Kerala page's own image carries only the alt text 'West Bengal Anti Narcotics Drive' with no caption or credit identifying what it shows, so it is not listed as media.

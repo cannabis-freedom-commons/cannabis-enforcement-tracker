@@ -55,7 +55,6 @@ open_questions:
   - The article gives no ages, occupations or full names for the six defendants and does not say whether they are in custody.
   - The court session next month is not dated, and no sentence has yet been pronounced.
   - Only one accessible account of this court step was found; the Daily8 page reproduces the same Al-Masry Al-Youm text and is not independent reporting.
-  - The page picture is captioned only with the headline and the paper's 'other photographers' byline, and its direct image address could not be recorded as a media link, so no media entry is included.
 ---
 
 The first chamber of the Red Sea Criminal Court referred the papers of six

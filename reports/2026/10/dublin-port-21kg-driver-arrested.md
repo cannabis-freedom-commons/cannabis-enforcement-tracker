@@ -75,7 +75,6 @@ open_questions:
   - The article gives no name, age, nationality, charge or court outcome for the arrested driver.
   - The article prints the impossible date October 32 2026 once, but also gives the explicit seizure date of Saturday 31/10/2026 used here.
   - No independent weighing is reported beyond Revenue's approximately 21.2 kg and over €296,000 estimated value.
-  - The newsletter adds no cannabis weight, agency name or driver identity beyond what the existing report already records.
 ---
 
 The seizure was made at Dublin Port on Halloween, Saturday 31 October 2026, when

@@ -42,7 +42,6 @@ open_questions:
   - The charges are described as preliminary and no court date, plea or outcome is reported.
   - The substances were identified by field tests, with no laboratory confirmation reported.
   - Only the WBIW affidavit account could be opened; no agency statement or second outlet account for this stop was found.
-  - The page's only image is a portrait captioned Ryan Sheeley, which does not show the stop or seizure, so no media entry is listed.
   - The juvenile passenger was released to a relative and is not counted as arrested.
 ---
 

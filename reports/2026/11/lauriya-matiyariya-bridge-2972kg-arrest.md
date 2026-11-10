@@ -61,10 +61,7 @@ open_questions:
   - Neither account gives a separate date for the raid; 5 November 2026 is the publication date of both reports and is used as the incident date.
   - No seizure value, NDPS sections, case number, charge sheet or court outcome was published.
   - Neither account says where the ganja came from or who supplied it.
-  - The submitted page's lone usable photo carries only a file-name caption and no credit, so it could not be confirmed to show this seizure.
   - Desh Vani says the bikes were searched after the men were caught while Bhaskar says they were questioned before the search; the accounts do not materially differ.
-  - Live Hindustan dates the arrest to Thursday, 5 November 2026, matching the date the existing report uses from publication; the other accounts give no separate date.
-  - Live Hindustan lists a sub-inspector named Priya Ranjan where the existing report names Priya Ranjana; the report keeps its original spelling.
   - The Live Hindustan page's only image uses an October 2025 file-address frame, so no event photo is added from it.
 ---
 

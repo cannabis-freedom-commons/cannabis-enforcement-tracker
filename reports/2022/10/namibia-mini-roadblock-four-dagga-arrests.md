@@ -47,7 +47,6 @@ open_questions:
   - The article gives no separate date for the stop; 12 October 2022 is its publication date and is used as the incident date.
   - No names were published for the men and no charges or court outcome beyond an expected appearance were reported.
   - Only one accessible source for this event was found after searching in English.
-  - The page image is captioned only with the headline and does not confirm it shows this seizure, so no media entry is added.
 ---
 
 Four men were arrested for alleged dagga smuggling after police stopped them at

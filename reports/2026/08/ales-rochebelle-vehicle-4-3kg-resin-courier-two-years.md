@@ -69,7 +69,6 @@ open_questions:
   - The prosecutor said the drugs were destined for the Cévennes dealing spot while the stop took place in Rochebelle; the reports do not reconcile the two locations.
   - The firm part of the two-year sentence is described as potentially adjustable, but neither account says whether it was served under electronic monitoring.
   - No cannabis street value was published, so none is recorded.
-  - The photograph published with the first report is an archive picture from an August round-up, not of this stop, so the media entry only links it as an illustration.
   - The same reports mention other Alès cases, including a 30-something jailed for eight years over a Rochebelle arrest, which are different events left out.
 ---
 

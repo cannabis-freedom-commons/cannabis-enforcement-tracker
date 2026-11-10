@@ -50,7 +50,6 @@ open_questions:
   - No separate date for the two operations was published; 29 May 2026, the date of the ministry announcement and of publication, is used as the incident date.
   - The reported 2,892 kilograms is a combined weight for marijuana, crack and cocaine wraps and cannot be separated into a cannabis weight, so it is not counted in cannabis figures; only the separately weighed 128 grams of marijuana is recorded, and no weight for the 430 marijuana wraps was published.
   - No names, charges or court outcome were reported beyond the handover of the detainees and evidence to the Public Ministry.
-  - The El Tiempo page marks its pictures as file photos and the ministry page images carry no caption confirming they show this seizure, so no media entry is added.
   - Both accounts derive from the Interior Ministry announcement issued through Telegram, so they are not fully independent verifications of the seizure.
   - A separate Tachira operation mentioned in the same articles, with three detentions and 262.35 kilos seized, is a different event left out of this report.
 ---

@@ -43,7 +43,6 @@ sources:
     language: hi
 open_questions:
   - Only one accessible source for this event was found after searching in English and Hindi, and no agency statement or second outlet account could be opened.
-  - The page photo has no caption or credit establishing what it shows, so no media entry is included.
   - The article names the purchase place only as Kosi without identifying which Kosi, so it is left as stated.
   - The article gives no detail of the court production beyond action under the rules, and no remand, charge or sentence was reported.
   - The accused said he bought one kilogram but 715 grams were recovered, and the article does not explain the difference.

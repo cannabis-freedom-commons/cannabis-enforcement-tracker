@@ -71,7 +71,6 @@ open_questions:
   - The bail report states no seized weight, only that the defence said it was within the one-kilogram small-quantity limit, so no new cannabis quantity can be recorded.
   - The report does not say whether the Rs15,000 bond and local surety were furnished, whether the six days of reporting were completed, or what further trial steps followed.
   - Only one accessible account of the bail step was found; no second outlet or official court order could be opened.
-  - The page carries a photo captioned only as Mumbai Man Gets Bail in Goa Ganja Case with no credit or description of its content, which does not establish that it shows this event, so no media entry is included.
 ---
 
 Saligao police arrested a 49-year-old Mumbai resident during a narcotics raid at

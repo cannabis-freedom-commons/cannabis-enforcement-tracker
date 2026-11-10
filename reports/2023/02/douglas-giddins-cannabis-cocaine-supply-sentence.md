@@ -57,7 +57,6 @@ open_questions:
   - Isle of Man Today reports 363–484 g as cannabis supplied, not a quantity stated as seized, so no kg_seized figure is recorded.
   - The cannabis value is reported as up to £9,680 by the BBC and as £7,380–£9,680 by Isle of Man Today; the figure records the stated upper limit.
   - The 3 years and 11 months sentence covers a mixed-drug case, not a cannabis-only term.
-  - The BBC image is identified in its alt text as the Isle of Man Courts of Justice, not as an image of the hand-off or seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in Isle of Man Today: Isle of Man Today dates his cannabis-supply guilty plea to 5 May 2022 and says his cocaine supply ran from 1 to 26 June 2022.'
 ---
 

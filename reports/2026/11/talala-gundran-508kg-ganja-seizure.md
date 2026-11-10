@@ -54,7 +54,6 @@ open_questions:
   - No count of plants was reported even though police said he grew cannabis, so no plants or area figure is recorded.
   - No custody status, charge sheet or court outcome was reported, and the article speaks of detention (અટકાયત) rather than a formal arrest under the NDPS Act.
   - Only one accessible source for this event was found after searching in Gujarati and English, so no second account corroborates the figures.
-  - The page photographs carry no captions or credits and could not be confirmed to show this seizure, so no media entry is added.
   - The value of about Rs 2.54 lakh is the outlet's stated valuation of the ganja, not a documented market rate.
   - The article also states that the man smoked ganja in a chillum and sold it in small quantities and that a case was registered at Talala police station under sections 8(C) and 20(b)(ii)B of the NDPS Act; only its summary paragraph could be read in full in the opened capture, so those details are left out of the text.
   - The charge and cultivation details come from the same Divya Bhaskar account, not from an independent outlet or an official statement.

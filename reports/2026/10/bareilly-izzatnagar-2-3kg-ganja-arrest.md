@@ -59,13 +59,8 @@ open_questions:
   - Whether the page's lead photo depicts this seizure is not established; its file path is dated 2021.
   - No charge provision, custody status or court outcome beyond registration of the report at Izzatnagar police station was reported.
   - No police valuation of the seized ganja was reported.
-  - This source places the vehicle check on the service road from Vilayadham Bridge to Abhaypur, while the existing report uses Ahladpur.
-  - This source describes Kumar as a native of Devarania living in Rudrapur, while the existing report says originally from Salar Nagla and living in Udham Singh Nagar; Rudrapur is in Udham Singh Nagar.
   - Whether the lead photo on this source page depicts this seizure is not established from its caption and credit information.
   - 'Left out, as its quotation was not found in The Cliff News: The search recovered 2.328 kilograms of ganja, Rs 750 in cash and one mobile phone.'
-  - The submitted account places the vehicle check on the service road from Vilaydham bridge to Abhaypur, while the existing report uses Ahladpur.
-  - The submitted account describes Kumar as originally from Devarnia and now living in Rudrapur, while the existing report says Salar Nagla and Udham Singh Nagar; Rudrapur is in Udham Singh Nagar, so the residence descriptions may be compatible.
-  - Whether the page image depicts this seizure is not established from captions or article text, so no media entry is included.
 ---
 
 Izzatnagar police in Bareilly arrested Harish Kumar on Saturday night during a

@@ -63,10 +63,6 @@ open_questions:
   - No cultivated area in hectares or square metres was published.
   - Coordinates are for the town of Las Cruces; the mountain plots around caserío Flor de la Esperanza are not pinpointed.
   - The Infobae article also describes wider January-April 2026 eradications, poppy fields and synthetic-drug laboratories in Petén, San Marcos and Alta Verapaz, which are separate events left out here.
-  - Only one photograph of this operation was listed on the submitted page; the other two images on it illustrate the broader 2026 anti-narcotics work and are not confirmed to show the Flor de la Esperanza fields, so they are omitted.
-  - Prensa Latina says officers uprooted and incinerated the plants without stating a value, while the existing report cites about Q43,900 from other outlets.
-  - This account names only the municipality of Las Cruces and mountain areas, without the caserío Flor de la Esperanza or the three-field detail given in the existing report.
-  - Photos on the Prensa Latina page carry no captions or credits confirming they show the Flor de la Esperanza fields, so no media is listed.
 ---
 
 Guatemala's National Civil Police, through its anti-narcotics analysis unit

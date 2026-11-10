@@ -51,7 +51,6 @@ open_questions:
   - The names, ages and further identifying details of the two arrested Moroccan nationals were not published.
   - No charges, custody decision or court outcome were reported; only the opening of an investigation was stated.
   - No valuation, exact laboratory weight or further breakdown of the 2.5 tonnes beyond hashish was published.
-  - The Cridem page carries a photo captioned with the seizure headline, but the caption and generic file name do not establish that it shows this 2012 interception, so no media entry is included.
   - The MauriMedia account repeats the same agency-derived wording and credits AFP, so independent corroboration beyond that shared account is limited.
 ---
 

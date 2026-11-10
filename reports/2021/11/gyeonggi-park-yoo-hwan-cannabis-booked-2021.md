@@ -67,7 +67,6 @@ open_questions:
   - The questioning of the third suspect, a Korean resident of Thailand, was still pending in January 2022.
   - No indictment, trial or sentence had been reported, so the case is recorded at the referral-to-prosecutors stage.
   - The Korea Times article is mainly about the singer's album release, not the investigation.
-  - The submitted page's only photo is a file picture of singer Park Yoo-chun, not of the enforcement event, so no media entry is listed.
   - The 2022 accounts say December 2020 while the 2021 English account says last December; the December 2020 date is used.
 ---
 

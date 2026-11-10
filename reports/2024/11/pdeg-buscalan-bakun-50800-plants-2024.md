@@ -43,7 +43,6 @@ open_questions:
   - The Bakun operation's exact date is not separately stated; 22 November is the Friday given for the Buscalan raid.
   - The article places the Buscalan raid "in Benguet", but Buscalan, Tinglayan is in Kalinga; this report follows the barangay and town names.
   - The report names no arrests, and the cultivators remained unidentified.
-  - The article's photo of seized plants could not be verified as showing these operations, so no media entry was added.
 sources:
   - title: P10 million marijuana destroyed in Kalinga, Benguet
     url: https://www.philstar.com/nation/2024/11/24/2402566/p10-million-marijuana-destroyed-kalinga-benguet

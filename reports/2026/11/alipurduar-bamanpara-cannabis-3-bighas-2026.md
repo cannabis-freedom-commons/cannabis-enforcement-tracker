@@ -45,7 +45,6 @@ open_questions:
   - Only one source for this event could be opened; searches for a second account of the Bamanpara operation found no corroboration.
   - The same article reports a separate cannabis clearance of about 3.5 bighas at Kishamat-Dasgram in Dinhata-II block, Cooch Behar, left out here as a different event.
   - The same article's red sandalwood seizure of about 48 kg and four arrests in Jaigaon is unrelated to cannabis and is excluded from this report.
-  - The page's lead image is captioned as a representational image and does not show this event, so no media entry is added.
 ---
 
 On Monday afternoon, personnel from Alipurduar police station reached Bamanpara,

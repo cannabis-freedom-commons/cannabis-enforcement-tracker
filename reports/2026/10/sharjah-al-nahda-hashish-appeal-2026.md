@@ -63,7 +63,6 @@ open_questions:
   - Neither defendant is named, and the appeal-fee amount is not stated.
   - No independent second report was opened. The only picture on the page is labelled an AI-generated illustration, so it is not included.
   - The Malayalam report describes the 1,085-gram yellow roll as suspected cannabis rather than hashish, and gives no separate wrap weight, laboratory total, controlled-delivery figure or methamphetamine weight.
-  - The only picture on the Madhyamam page is an illustrative image of prison bars, not a photograph of the event, so no media entry was added.
   - 'Left out, as its quotation was not found in Madhyamam: At the first defendant''s home, officers seized a substance suspected to be crystal meth, three electronic scales and tools bearing drug residue.'
 ---
 

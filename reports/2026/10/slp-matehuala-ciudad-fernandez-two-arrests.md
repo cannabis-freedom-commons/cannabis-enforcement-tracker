@@ -57,7 +57,6 @@ open_questions:
   - No weight was given for the marijuana, only about twelve small bags in Matehuala and 320 cigarettes in Ciudad Fernández.
   - The reports do not say whether either man was charged, brought before a judge or held in custody.
   - The two detentions were separate operations in different municipalities, reported together by both outlets as one guard result.
-  - The lead images on both reports carried no caption or credit identifying them as photographs of these arrests, so no media is listed.
   - Both outlets repeat the same Guardia Civil Estatal statement; no separate official communiqué was opened.
 ---
 

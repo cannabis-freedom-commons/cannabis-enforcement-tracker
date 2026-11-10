@@ -39,7 +39,6 @@ open_questions:
   - The article presents the Vose district arrests and the Kurgan-Tyube car search as two operations; it does not say whether they are connected.
   - No court outcome, charge specifics or case numbers were reported.
   - Only one accessible source for this event was found; searches for a second report or the Interior Ministry statement itself returned nothing openable.
-  - No photo of the seized drugs appears on the page, so no media entry is included.
 ---
 
 Tajik police detained three men during an operation in Vose district in the

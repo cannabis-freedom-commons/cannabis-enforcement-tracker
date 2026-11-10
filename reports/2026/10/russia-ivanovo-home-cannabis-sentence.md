@@ -55,7 +55,6 @@ open_questions:
   - One report describes the earlier conviction as attempted sale of prohibited substances, the other as attempted sale in a large amount; the report says only that it was attempted drug dealing.
   - Both reports describe him growing the plants at home, but neither says whether he was charged with cultivation; only the Part 2 Article 228 conviction is named.
   - Neither page published a photograph of the defendant, the plants or the grow room; one used a stock courtroom image and the other an AI-generated illustration.
-  - The News1Ivanovo page carries an image captioned only with the article title and credited to max.ru/id3728015463_gos/, which does not establish that it shows this grow, seizure or court, so no media entry is included.
 ---
 
 The Ivanovsky District Court in Ivanovo Oblast sentenced a local man to three

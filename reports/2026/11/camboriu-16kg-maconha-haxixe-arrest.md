@@ -61,9 +61,7 @@ open_questions:
   - No charges, custody decisions or court outcomes were reported; the men were taken for the applicable legal procedures.
   - The suspects were identified only by age and role in the operation, and their full names were not published.
   - No street value for the drugs was published; the R$680 was cash seized with the drugs.
-  - The page carries a photo without a caption, alt text or credit establishing that it shows this seizure, so no media entry is included.
   - This account relays the same Military Police statement as the report's first source and adds no independent reporting.
-  - The account credits its photo to 12BPM but still gives no caption saying what the picture shows, so no media entry was added.
   - The Top Elegance headline's "quase 12 kg" refers only to the 11.96 kg found in suitcases at Rua José João Custódio, not to the whole operation; the article's own total is 15,589 kg of maconha plus 283 g of haxixe.
 media:
   - kind: photo

@@ -108,9 +108,7 @@ open_questions:
   - The Gazeta de Sud page is a video post; no direct video stream address could be recovered, so only its thumbnail still is listed.
   - Gorjeanul gives no weight, plant count, area or value for the cannabis, and no figure beyond the nine jars already recorded.
   - The man is not named, and no charges, trial or sentence beyond the preventive arrest are reported.
-  - The page's lead image is marked 'Imagine ilustrativă' and is not shown to depict this seizure, so no media entry is listed.
   - TV Sud gives no plant count, weight, area or value for the cannabis, and only repeats the nine glass jars of cannabis without a weight.
-  - TV Sud's only image is captioned 'Screenshot' with no credit, and is not established to show this raid or seizure, so no media entry is added.
   - The Țânțăreni case is still described without a plant count, weight, area or value; the TVR Craiova account also gives no cannabis quantity for the nine jars.
   - The GorjOnline photo caption names the arrested man, which conflicts with the report's statement that he was not named in either report; the earlier accounts still did not name him.
   - The photo itself shows one unidentified man; its caption does not state whether he is the arrested man, an investigator or someone else pictured with the seized cannabis.

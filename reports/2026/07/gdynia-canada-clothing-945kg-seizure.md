@@ -92,7 +92,6 @@ open_questions:
   - The prosecutor's release also refers to the transport being disclosed on 21 May 2026, a date its own account conflicts with, so the report uses 21 July.
   - No suspects were identified, arrested or charged, and no court outcome has been reported.
   - The dollar value is the outlet's conversion of the authorities' 46 million zlotys.
-  - No photo on the submitted page was confirmed to show this seizure; the photos and video come from the Pomeranian tax administration's release.
 ---
 
 No one came forward to collect the container, and no arrests had been made in

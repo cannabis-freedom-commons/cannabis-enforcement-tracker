@@ -78,9 +78,7 @@ open_questions:
   - The article also mentions 251 packages with 593 kilograms seized in May 2020, a separate event left out of this report.
   - The incident date uses the latest operation on 16 October 2020; the first operation occurred on 9 October 2020.
   - 'Left out, as its quotation was not found in DIARIO DE CUBA: Cuban authorities said investigations into that second case were continuing.'
-  - The 14ymedio page carries an image captioned about official press coverage of the two operations and credited DTGF/Cubadebate, which does not establish that it shows this seizure, so no media entry is included.
   - 14ymedio says notifying the Miami and Bahamas coastguards facilitated the traffickers' detention, while the report records that the 9 October crew escaped; no arrests from that first operation are reported.
-  - The photograph on the CiberCuba page appears to be the same Granma/DTGF handout already linked from DIARIO DE CUBA, so no second media entry was added.
   - 'The published total of 2,349 kilograms is rounded: the two components, 1,618.75 and 730.41 kilograms, sum to 2,349.16 kilograms.'
   - The Cubadebate, Granma and OnCuba accounts give the same official state account; no independent non-official account of the interceptions was found.
   - Frustra Cuba operaciones de narcotráfico (Granma) could not be opened again to check its quotations (the browser could not load the submitted public page; archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.

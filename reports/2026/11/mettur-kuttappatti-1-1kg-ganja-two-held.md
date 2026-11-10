@@ -41,7 +41,6 @@ open_questions:
   - The article dates the check only to Sunday and was published on 1 November 2026, so 1 November 2026 is used as the incident date.
   - Only one account of this event could be opened, so no police statement or second outlet corroboration is available.
   - No estimated value for the seized ganja was published.
-  - The only image on the page is captioned as a file photo, so no media entry showing this event is included.
   - Transliterations of the Tamil personal and place names may vary in other accounts.
 ---
 

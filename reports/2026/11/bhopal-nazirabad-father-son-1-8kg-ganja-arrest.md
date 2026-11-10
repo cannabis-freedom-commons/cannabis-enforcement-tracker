@@ -72,12 +72,7 @@ open_questions:
   - The Rs 40,000 figure is the police estimate for the seized ganja.
   - No court outcome was reported; police questioning about the supply network was still under way.
   - Only Dainik Bhaskar's video and text pages for the same story could be opened; no independent second outlet for this event was found.
-  - The new source gives the son's name as Raju Yogi Nath, while the existing report names him as Raju Yogi.
   - The new source spells the village as Gadhakala (गढ़ाकला), while the report uses Gadakala for the same village.
-  - The Nai Dunia page carries a photo captioned with the headline, but without a credit or description establishing that it shows this seizure, so no media entry is included.
-  - The page image is captioned only with the headline without a credit or description establishing that it shows this seizure, so no media entry is included.
-  - The source spells the village as गढ़ाकला, transliterated Gadhakala/Garhakala, while the existing report uses Gadakala for the same village.
-  - This account spells the village as Gadhakala, while the existing report uses Gadakala for the same village.
 ---
 
 Nazirabad police in Bhopal arrested a father and son with 1.8 kg of ganja in a

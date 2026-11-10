@@ -39,7 +39,6 @@ tags: [hashish, maritime-smuggling, europol]
 open_questions:
   - "Crew count: maritime press reports nine or ten crew held while the Europol account reports ten Syrian citizens arrested and six Indian citizens taken into custody; the report uses the Europol arrest figure."
   - "Timing: the operation is dated 15 October with the seizure announced on 16 October; the report uses 15 October."
-  - A video page about the Jupiter seizure was found, but its direct file address could not be recovered, so no media entry was added.
 sources:
   - title: Italian Police Find Hashish Stowed in Cargo Ship Hull
     url: https://www.marinelink.com/amp/news/italian-hashish-police399503

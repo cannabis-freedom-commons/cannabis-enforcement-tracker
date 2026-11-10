@@ -94,7 +94,6 @@ open_questions:
   - The 20 Minutes account republished by Yahoo does not describe the raids' exact date or the remand decisions, which rest on the Nice-Matin and Var Actu accounts already cited.
   - Ouest-France reports €36,000 in cash seized, while the Toulon prosecutor's figures given to the outlets already cited put the amount at €35,600; the report keeps the prosecutor's figure.
   - Ouest-France cites France 3 Provence-Alpes-Côte d'Azur dated 7 November 2026 as its source, so it is not independent reporting of the operation.
-  - The only picture on the Ouest-France page is captioned as an illustrative photo by Marc Ollivier of Ouest-France, not a photo of these raids or seizures, so no media entry is added.
 ---
 
 Eight people were remanded in custody on Thursday 5 and Friday 6 November 2026

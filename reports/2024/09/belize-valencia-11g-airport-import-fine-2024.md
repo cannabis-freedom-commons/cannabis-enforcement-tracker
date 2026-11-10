@@ -53,7 +53,6 @@ sources:
 open_questions:
   - Neither outlet names the currency of the fine; $1,000 plus $5 costs is recorded as Belize dollars, the currency in which Belize courts report fines.
   - Love FM reports 11 grams while 7NewsBelize reports 11.1 grams; the report uses the more precise 11.1 grams.
-  - The submitted Love FM page carries a single image whose file was uploaded in 2019, years before this event, so it is treated as a generic picture and no media is listed.
   - Neither account says whether Valencia paid the fine or reports a default prison term for non-payment.
   - The report is dated at the sentencing step on 6 September 2024; Valencia arrived at the airport the previous day, 5 September 2024.
 ---

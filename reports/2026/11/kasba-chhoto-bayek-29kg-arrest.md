@@ -76,15 +76,9 @@ open_questions:
   - No estimated value of the seized ganja was published.
   - No court outcome beyond the filing of the Narcotics Control Act case was reported.
   - >-
-    The page carries one non-advertisement photo with no descriptive caption or credit, so its content cannot
-    be verified as this seizure and no media entry is included.
-  - >-
     Coordinates use the Kasba town centre as a reference for Chhoto Bayek Madhyapara, which was not precisely
     geolocated.
   - No estimated value for the 29 kg of ganja was published.
-  - >-
-    The submitted page carries an image file, but its caption and credit do not establish that it shows this
-    seizure, so no media entry is included.
   - The Financial Post does not state the case number or any court outcome beyond confirmation that a Narcotics Control Act case was filed.
   - The page photo is captioned only as a collected image with no credit and is not confirmed to show this seizure, so it is not listed as media.
 ---

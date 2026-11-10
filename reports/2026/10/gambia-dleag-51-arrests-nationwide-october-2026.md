@@ -49,7 +49,6 @@ open_questions:
   - The Voice lists molly alongside cannabis sativa, kush, hashish and skunk, but molly is not treated here as cannabis and its quantity is not counted.
   - The incident date uses the latest dated arrest on 28 October 2026, while the operations spanned 14 to 28 October and were announced on 30 October 2026.
   - The Point says the three Pirang men were arrested during the arrest of Muhammed Camara, while The Voice describes the obstruction more generally.
-  - Available images carry only generic captions such as yol and Drugs v2 and are not established to show this operation, so no media entry is included.
   - 'Left out, as its quotation was not found in The Point: The 51 comprised 48 Gambians and three Senegalese nationals aged 16 to 42, including 50 males and one female with one 16-year-old child offender.'
 ---
 

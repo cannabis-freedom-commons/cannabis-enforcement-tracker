@@ -61,9 +61,6 @@ open_questions:
   - Prabhat Khabar says he was sent to judicial custody; Hindustan says only that he was sent to jail.
   - No charge sheet, plea or further court date has been reported.
   - Hindustan gives no date for the raid; 30 October 2026 comes from Prabhat Khabar alone.
-  - The submitted page's only listed image is a default placeholder, not a photo of this raid or seizure, so no media from it is listed.
-  - The opened Bhaskar capture is cut by a paywall and does not state the 4.20 g weight, Daily Market vegetable-market location, case number, NDPS sections or judicial-custody date; those continue to rely on the existing report's sources.
-  - The Bhaskar page gives only its publication date of 1 November 2026; the incident date of 30 October 2026 comes from the existing report.
 ---
 
 Simdega police arrested Rahul Sahni, 36, son of Ramdhan Kewat and a resident of

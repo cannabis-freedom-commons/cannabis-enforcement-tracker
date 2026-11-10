@@ -47,7 +47,6 @@ open_questions:
   - No source or intended destination of the consignment was established, so no trafficking route is recorded.
   - The article does not say which policing agency carried out the search, only that it followed the District Commissioner's initiative; the District Commissioner is recorded as the initiating office, not a police force.
   - Only one accessible source for this event was found; searches in English and Assamese produced no second account.
-  - The article's lead photograph could not be confirmed to show this seizure from its caption or credit, so no media entry is included.
 ---
 
 A total of 4.8 kg of suspected cannabis was seized from an auto-rickshaw near

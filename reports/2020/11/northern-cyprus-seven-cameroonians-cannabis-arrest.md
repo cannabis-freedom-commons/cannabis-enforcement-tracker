@@ -56,7 +56,6 @@ open_questions:
   - 'The two English-language sources disagree on the gender split: Cyprus Today says five men and two women, Mimi Mefo Info says four males and three females; the total of seven is agreed and no split is stated in this report.'
   - Mimi Mefo Info says the suspects smuggled marijuana, tramadol and other drugs but gives no quantities for the non-cannabis substances; the seized weight is recorded as cannabis following Cyprus Today and the detailed Diyalog breakdown, which specifies the 1.75 kg taxi consignment as cannabis-type.
   - Mimi Mefo Info names an additional suspect, Joseph Etta Mbi, as arrested and charged for a similar offence; it is unclear whether he is an eighth person or a variant reporting of Joseph Aseneh Junior Tayong, so he is not counted.
-  - No photo on the cited pages carries a caption confirming it shows this seizure or these arrests, so no media entry is added.
   - No court outcome beyond the initial one-day remand was reported in the sources read.
   - 11 November 2020 is the date of the tip and the first arrests in Diyalog's account; the raids ran overnight and the suspects appeared in court the next day.
 ---

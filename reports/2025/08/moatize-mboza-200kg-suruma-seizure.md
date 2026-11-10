@@ -55,7 +55,6 @@ open_questions:
   - The quantity is approximate, reported as cerca de 200 quilogramas.
   - The almost six million meticais is SERNIC's estimate of what the network could have gained, not a confirmed sale value.
   - No names, ages, charges or court outcome for the two detained men were reported.
-  - The Rádio Moçambique, Jornal Notícias and Miramar pages carry drug photos, but captions and credits do not establish that they show this seizure, so no media entry is included.
 ---
 
 SERNIC seized about 200 kilograms of cannabis sativa, known locally as suruma,

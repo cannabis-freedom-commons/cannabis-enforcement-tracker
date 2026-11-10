@@ -155,21 +155,6 @@ open_questions:
     Only one opened source supports the event; searches for a second account of the same Mataró operation
     found no accessible corroboration.
   - >-
-    The existing report describes later distribution to the eastern European black market, while the submitted
-    Infobae/EFE capture says the European black market without specifying east.
-  - >-
-    The ABC page embeds police-supplied video of the operation; no stable direct video file address was
-    recovered, so no media entry is added.
-  - >-
-    LaSexta describes distribution to the European black market without specifying eastern Europe, while the
-    existing report says eastern Europe.
-  - >-
-    The laSexta page carries a photo and video titled with the event, but without caption or credit confirming
-    they show this operation, so no media entry is added.
-  - >-
-    This Capgròs account names the Dosrius local police as the National Police collaborator, while the
-    existing report names Mataró local police; whether one or both local forces took part is unresolved.
-  - >-
     The Capgròs page is dated 3 November 2026 and attributes the police account to Monday, giving no separate
     date for the raid itself.
   - The article gives only its publication date of 2 November 2026 and no separate date for the operation.
@@ -182,25 +167,12 @@ open_questions:
     A related-links box mentions a separate event with seven detainees, 70 kg of synthetic drug and 1,200
     marijuana plants in Barcelona, Badalona and Rubí; that separate event is left out here.
   - >-
-    The submitted page gives only its publication date of 2 November 2026 and no separate date for the raid,
-    while the related castellar-valles-mataro-7-arrests-3000-plants report dates the operation to 20 October.
-  - >-
-    The page lists one image URL but provides no caption or credit confirming it shows this operation, so no
-    media entry is added.
-  - >-
     Two other existing slugs appear to record the same seven-arrest and 3,000-plant operation and may be
     duplicates.
   - The video page gives only its publication date of 2 November 2026 and no separate date for the operation.
-  - The opened video page names no locality; the Mataró and Barcelona locations come from the existing report.
   - >-
     The page gives no detainee identities, court outcome, drug weight beyond plant count, or other seizure
     details.
-  - >-
-    The page's only listed image is explicitly captioned as an archive photo of National Police cars, so it
-    does not show this operation and no media entry is included.
-  - >-
-    The submitted account says distribution was to the European black market without specifying east, while
-    one sentence of the existing report says eastern Europe.
 ---
 
 Police arrested seven people and seized 3,000 cannabis plants and one kilogram of buds in an operation in Mataró. [@1,2,3,4,5,6,7,8,9,10,11,12]

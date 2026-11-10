@@ -41,7 +41,6 @@ open_questions:
   - No net weight for the 216 pains of cannabis was published, so no kilograms can be recorded.
   - No suspects were named, arrested or charged; investigations to identify the authors and dismantle the network were still under way.
   - The exact street address within Kligué-Kondji was not given, so Kpalimé town-centre coordinates are used with locality precision.
-  - The pages carry images that are not established to show this seizure, so no media entry is included.
 ---
 
 Togo’s National Police intervened in an abandoned house after residents alerted

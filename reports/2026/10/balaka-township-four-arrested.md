@@ -36,7 +36,6 @@ tags: [balaka]
 open_questions:
   - Only one source for this operation could be opened.
   - No figure for the weight of the cannabis was published.
-  - The photo on the source page could not be verified to show this operation, so no media entry was added.
   - The outcome of the promised court appearance is not known.
 sources:
   - title: Four arrested for found in possession of Canabis Sativa in Balaka

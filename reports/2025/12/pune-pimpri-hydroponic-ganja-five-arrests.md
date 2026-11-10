@@ -56,7 +56,6 @@ open_questions:
   - 17 December 2025 is the press-conference and publication date and is used as the incident date, as the reports describe arrests and raids over the prior month without giving each date.
   - The reports mention five other persons under investigation including three foreign nationals, who are not counted as arrested.
   - Name spellings vary between outlets, including Verma or Varma, Dedwal or Deadwal, and Maher or Meher.
-  - 'No usable event photo is available: the submitted page image is a file photo about a separate Delhi case and the second page image is labelled as representative, so no media entry is included.'
 ---
 
 Pune police arrested five persons from different cities over the past month in a

@@ -49,7 +49,6 @@ open_questions:
   - The two Dushanbe suspects are identified only by the initials M.B., 39, and A.K., 32.
   - The article does not say whether the 13.4 kg of marijuana in Qairoqqum was loose cannabis or plants.
   - No court outcome was reported; the article says only that criminal cases were opened and the detainees held in custody.
-  - The page's hashish picture is an undated archive Asia-Plus image not established to show this seizure, so no media entry is included.
   - Both accounts are Asia-Plus reports of the same Interior Ministry statement, not independent reporting.
 ---
 

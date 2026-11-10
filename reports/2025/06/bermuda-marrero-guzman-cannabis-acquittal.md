@@ -70,7 +70,6 @@ open_questions:
   - The Toronto Sun gives the airport stop as 26 June and the value as almost $1.8 million, differing from the Royal Gazette's 20 June and $1.3 million; the Royal Gazette figures are used.
   - The debt, the $7,000 payment and the insider at the airport are the Crown's account of the evidence, contested by the defence.
   - No costs, compensation claim or other consequence of the acquittal was reported.
-  - No photographs of the suitcase, the packages or the hearing could be confirmed on the cited pages; the images there are generic or tourism stock pictures, so no media are listed.
   - 'Left out, as its quotation was not found in The Royal Gazette: A Supreme Court jury in Bermuda found Sandra Marrero-Guzman, 37, not guilty of conspiring with others to bring cannabis into the country and of possessing the drug with intent to supply on 20 June 2025.'
 ---
 

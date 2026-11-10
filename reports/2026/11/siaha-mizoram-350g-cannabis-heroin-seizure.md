@@ -48,7 +48,6 @@ open_questions:
   - The source gives no location more precise than Siaha district and no time of day for the operation.
   - The cannabis is not described by form beyond "cannabis", so it is recorded as flower.
   - No arrests, suspects, charges or court steps were reported.
-  - The accompanying page photo has no caption or credit tying it to the seizure, so no media entry is included.
 ---
 
 Assam Rifles, under the Spear Corps, and the Excise and Narcotics Department

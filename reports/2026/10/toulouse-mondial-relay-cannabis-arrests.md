@@ -72,7 +72,6 @@ open_questions:
   - 'Left out, as its quotation was not found in Actu.fr: The arrests took place on 26 October 2026.'
   - 'Left out, as its quotation was not found in Actu.fr: They estimate it sent about three tonnes of cannabis that way between December 2024 and February 2026.'
   - CNEWS gives rounded French seizures of about 20 kg of herbal cannabis, 6 kg of resin and about 10,000 euros, while the report uses detailed prosecutor figures of 20.314 kg, 6.085 kg and 10,365 euros.
-  - CNEWS calls the roughly three tonnes imported between December 2024 and February 2026 drogue from a network dealing in cannabis in particular, while the existing report records it as cannabis on the basis of its earlier sources.
 ---
 
 Six people were arrested in France and Spain in an investigation into a

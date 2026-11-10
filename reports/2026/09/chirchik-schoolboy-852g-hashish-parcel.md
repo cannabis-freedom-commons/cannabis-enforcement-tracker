@@ -78,7 +78,6 @@ open_questions:
   - No court outcome was reported beyond the opened criminal case.
   - Only Gazeta.uz coverage was accessible, in Russian and Uzbek editions from the same outlet; the linked Customs Committee Telegram post could not be read as evidence.
   - UzDaily.uz gives no separate detention date; 20 September 2026 is its publication date while the report keeps 19 September 2026 from earlier coverage.
-  - The UzDaily.uz page image filename points to a generic criminal-code illustration rather than the seizure itself, so no media entry is included.
   - Podrobno.uz gives no date for the detention either; 19 September 2026 remains the date taken from the earlier coverage, while this report was published on 21 September 2026.
   - The article reports a previous 24 kg hashish case in Namangan and Fergana regions, a separate event left out of this report.
 ---

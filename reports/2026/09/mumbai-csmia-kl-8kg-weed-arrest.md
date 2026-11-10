@@ -54,7 +54,6 @@ sources:
 open_questions:
   - The article gives the weight as around 8 kg in 32 packets; no exact gram figure is published.
   - No court outcome beyond the arrest is reported; officers say other associates are still being traced.
-  - The Free Press Journal photograph is labelled AI-generated and representational, so no media is listed.
 ---
 
 Mumbai Airport Customs arrested 62-year-old Vikhroli resident Amir Ahmed Badsha after allegedly recovering 8 kg of hydroponic weed worth Rs2.80 crore from his baggage. [@1,2] The drugs were found in 32 packets concealed inside plastic packets and aluminium boxes after he arrived from Kuala Lumpur. [@1,2]

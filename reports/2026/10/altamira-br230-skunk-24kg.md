@@ -84,9 +84,6 @@ open_questions:
   - The headline rounds the seizure to 24 kg; the body says 24.4 kg.
   - The passenger is not named, and no charge or court outcome is reported.
   - Coordinates are for Altamira, not the exact point at km 646.
-  - O Liberal calls the seized material a substance similar to skunk and gives a preliminary weight of about 24.4 kg; the existing report, citing Estado do Pará Online, calls it skunk at 24.4 kg.
-  - O Liberal says officers noticed a characteristic odour of narcotics in a suitcase in the luggage hold; the existing report says a strong smell of a chemical product.
-  - O Liberal says the passenger said he would receive 5,000 reais to carry the drug from Santarém to Marabá; the existing report says he had been paid 5,000 reais to take it to Marabá.
   - O Liberal does not say the case remains under investigation.
   - G1, like O Liberal, calls the load a substance similar to skunk, gives a preliminary weight of about 24.4 kg, and says the passenger would receive 5,000 reais to carry it from Santarém to Marabá, rather than that he had already been paid to take skunk to Marabá.
   - G1 says officers smelled narcotics in a suitcase in the luggage hold, not a strong smell of a chemical product, and it does not say the case remains under investigation.

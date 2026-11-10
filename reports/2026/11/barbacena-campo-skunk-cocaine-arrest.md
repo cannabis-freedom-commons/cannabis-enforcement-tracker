@@ -56,7 +56,6 @@ open_questions:
   - The seized R$598 and R$5,000 cheque are cash and a payment instrument, not a published drug valuation, and the cocaine counts are excluded from cannabis figures.
   - No custody decision, charge sheet or court outcome beyond arrest for drug trafficking and transfer to the Civil Police station was reported.
   - Both accounts repeat the Military Police version of the stop; no separate agency statement was opened.
-  - The Correio da Cidade page displays a photo credited to the PM without a descriptive caption establishing what it shows, so no media entry is included.
 ---
 
 Military Police officers went to bairro Campo in Barbacena in the early hours of

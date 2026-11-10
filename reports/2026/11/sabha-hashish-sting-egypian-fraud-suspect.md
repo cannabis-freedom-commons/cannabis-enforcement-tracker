@@ -43,7 +43,6 @@ open_questions:
   - The suspects were identified only by initials (A.M.A. and A.S.A.S.), not full names.
   - No court outcome was reported; the case was with the Public Prosecution.
   - Only one source, reproducing the security directorate's statement, could be opened; no second account was found in Arabic or English.
-  - The page's featured photo carries only the article headline as its caption and no credit, so it is not established to show this detention and no media entry is included.
 ---
 
 Sabha Security Directorate announced the arrest of an Egyptian national wanted

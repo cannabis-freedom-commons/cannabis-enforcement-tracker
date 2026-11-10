@@ -56,8 +56,6 @@ open_questions:
   - The weight is reported as nearly 250 kg, not an exact laboratory weight.
   - The names, nationalities, charges and custody status of the three arrested people were not reported, and no court outcome was reported.
   - The Afrikinfos Mali page reprints the RFI account and credits RFI, so no independent second account was available.
-  - The RFI page image is captioned as generic cannabis plants from Wikimedia Commons, not this seizure, so no media entry is included.
-  - The only image on the Mali Actu page is captioned Image d’illustration and dates from 2016, so it does not show this seizure and no media entry is included.
 ---
 
 Officers of Mali's Office central des Stupéfiants, the country's central

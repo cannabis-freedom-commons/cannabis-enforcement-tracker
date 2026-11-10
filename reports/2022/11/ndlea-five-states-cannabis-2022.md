@@ -51,7 +51,6 @@ sources:
 open_questions:
   - The report uses 27 November 2022, the date of the NDLEA announcement; the raids themselves ran from 21 to 26 November.
   - The same NDLEA statement reported separate tramadol and Exol-5 seizures in Sokoto and Katsina, left out here.
-  - No photo of the raids with a recoverable address was found, so no media entry was added.
 ---
 
 NDLEA spokesman Femi Babafemi announced on 27 November 2022 that the agency had seized 5.8

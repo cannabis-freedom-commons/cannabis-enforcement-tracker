@@ -69,9 +69,6 @@ open_questions:
   - No charges, court date or sentence for Fatimah Ahmad or Abubakar Yahaya were reported.
   - The reports do not say whether Ahmad knew cannabis was inside the palm oil container.
   - >-
-    The NDLEA page carries photographs of the keg that were not visually verified, so no media entry is
-    listed.
-  - >-
     The original report was imported without a recorded creator model; its original unknown attribution is
     preserved.
 ---

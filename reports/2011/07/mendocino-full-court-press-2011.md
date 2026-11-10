@@ -53,7 +53,6 @@ sources:
 open_questions:
   - A Lake County News account of the same 29 July press conference gives 468,950 plants at 56 sites; the report uses the Associated Press figures of 460,000 plants at more than 50 sites.
   - The operation was scheduled to run until 5 August, so later totals may exceed the figures announced on 29 July.
-  - No photo confirmed to show this operation was available, so no media entry was added.
 ---
 
 Law enforcement officials said on Friday 29 July 2011 that a two-week operation to purge the Mendocino National Forest of illicit cannabis gardens had uprooted 460,000 plants and led to more than 100 arrests. [@1] Representative Mike Thompson's office reported 102 arrests at 56 grow sites in the same operation, which U.S. Attorney Melinda Haag called critically important against illegal grows on public land. [@2]

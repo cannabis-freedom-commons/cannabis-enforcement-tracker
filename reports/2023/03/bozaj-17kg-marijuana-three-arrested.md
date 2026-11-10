@@ -47,7 +47,6 @@ open_questions:
   - No charges, prosecution steps or court outcome were reported.
   - No further vehicle details, exact stop location or case reference were published.
   - Only one accessible source for this event was found after searching in English and Albanian.
-  - The page image is a stock illustration credited to Shutterstock, so no media of the event is included.
 ---
 
 Albanian police arrested three Albanian citizens near the Božaj border crossing

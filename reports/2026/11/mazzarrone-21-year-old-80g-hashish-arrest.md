@@ -53,7 +53,6 @@ sources:
 open_questions:
   - The articles give no separate date for the street stop, searches and arrest; 1 November 2026 is the earliest publication date and is used as the incident date.
   - The weight is reported as almost or about 80 grams, so 0.08 kg is an approximate police-reported figure.
-  - Both pages carry lead images, but their captions and credits do not establish that they show this seizure, so no media entry is added.
   - No duration or conditions for the obbligo di firma and no further court outcome were reported.
 ---
 

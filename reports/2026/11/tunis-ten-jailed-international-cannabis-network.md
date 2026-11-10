@@ -55,7 +55,6 @@ open_questions:
   - Those arrested are described by occupation only; no names, ages or charges beyond forming an international drug network were published.
   - The ten committal orders are a pre-trial detention measure; no trial or verdict has been reported.
   - Only one accessible source for this event was found after searching in Arabic; other outlets carried the same Babnet text.
-  - The page's lead image is captioned as an AI-generated illustrative picture, so no media entry is included.
 ---
 
 The investigating judge at the Tunis Court of First Instance issued committal

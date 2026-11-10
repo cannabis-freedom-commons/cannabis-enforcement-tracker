@@ -53,10 +53,7 @@ open_questions:
   - The article names no court, no sections of law and no lawyer for the three, and gives no later hearing date.
   - Only one source reporting the arrest could be opened.
   - 'Left out, as its quotation was not found in Disha Daily: Elkathurthi sub-inspector Narasimha Rao said Sridhar had bought 30 grams of ganja for Rs 1,500 in Huzurabad on 28 October from a man named Akash, and that he and Jaswanth smoked some of it that night.'
-  - The new account dates the vehicle check to Friday afternoon, 30 October 2026, while the existing report uses 28 October 2026, the reported date of the earlier Huzurabad purchase.
   - The new account confirms registration of a case but does not mention sending the three to court for remand, which rests on the earlier source.
-  - The new account spells the location Elkathurthy and the landmark Kakatiya Venture, variant transliterations of Elkathurthi and Kakatiya Vantage in the existing report.
-  - The page carries a lead photograph with no caption or credit describing its content, so it cannot be established to show this seizure and no media entry is included.
 ---
 
 Police in Elkathurthi arrested three men with 20 grams of ganja, the local name

@@ -75,8 +75,6 @@ open_questions:
   - No pre-trial detention, court date or outcome was reported; the case was at the charge stage.
   - Only the police statement itself was found; no second outlet coverage could be opened.
   - The 'up to three years' is the penalty the law allows, not a sentence given.
-  - The WP Info account gives the same unspecific weight ('more than 220 grams'), no split between the car and the home, and no separate date for the detention, detention ruling or court outcome as the existing report.
-  - The page's main photo caption only repeats the headline, so it cannot be confirmed to show this seizure and no media entry is added.
   - kryminalki.pl gives no separate date for the detention or the searches; its publication date, 9 November 2026, is the only date provided.
 ---
 

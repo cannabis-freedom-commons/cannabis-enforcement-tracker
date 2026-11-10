@@ -47,7 +47,6 @@ open_questions:
   - The article names no localities for the raids, so the arrests are placed only in Sargodha district.
   - No specific charges, ages or court outcome were reported beyond the registration of separate cases.
   - Only the UrduPoint copy of the APP story was opened; no separate agency statement or second outlet report was found.
-  - The page has no photo of the seizure; its lead image carries only the headline, so no media is listed.
 ---
 
 Police in Sargodha arrested two suspected drug peddlers in raids on Friday 6

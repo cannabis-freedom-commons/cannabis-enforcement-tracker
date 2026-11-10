@@ -37,7 +37,6 @@ open_questions:
   - The intended destination of the load was not stated.
   - The article was published on 30 June 2025 and dates the interception only to Saturday, implying 28 June 2025 with no separate time of day given.
   - The same article mentions a 47 kg cannabis seizure at Ekok as context; that is a separate event already covered elsewhere and is left out here.
-  - The page image captioned only as chanvre indien is not shown to depict this Bandjoun seizure, so no media entry is included.
 sources:
   - title: Customs officers seize a significant amount of Cannabis in Bandjoun
     url: https://www.lebledparle.com/en/customs-officers-seize-a-significant-amount-of-cannabis-in-bandjoun/

@@ -53,9 +53,7 @@ open_questions:
   - No cannabis-specific charge was reported; the arrests were described as for unauthorised entry, graffiti and resistance.
   - The incident date of 2 November 2026 is inferred from Monday at about 3 am before the 3 November publications, which the second outlet also dates to 2 November.
   - No court outcome was reported; investigations and the search for the three fugitives were continuing.
-  - The oe24 page image is a Getty Images stock photo and the second page image is a Canva montage illustration, neither established to show this event, so no media entry is included.
   - No police agency statement for this event was found; only the two news reports were opened.
-  - The KOSMO account describes a single suspected hashish cube, supporting the single-cube version noted in the existing report rather than the plural-cubes version.
 ---
 
 Vienna police arrested two suspected graffiti sprayers at Heiligenstadt station

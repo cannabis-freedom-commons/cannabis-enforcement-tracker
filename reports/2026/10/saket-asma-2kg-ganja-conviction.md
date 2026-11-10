@@ -50,7 +50,6 @@ open_questions:
   - The court had not yet sentenced Asma when the reports were published; it listed the case for arguments on sentence at a later date, so no prison term or fine is recorded.
   - Amar Ujala gives no separate date for the conviction; the 24 October 2026 date comes from the PTI-sourced report's reference to the court's order.
   - The full judgment was not available to read, so the account rests on the two news reports.
-  - Neither page published a photo of the conviction or the 2022 seizure; Rediff used an AI-generated representational image and Amar Ujala a placeholder, so no media is listed.
   - 'Left out, as its quotation was not found in Rediff.com: The court found that she possessed 2.015 kg of ganja (cannabis), an intermediate quantity.'
 ---
 

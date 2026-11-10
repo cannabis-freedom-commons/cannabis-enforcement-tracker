@@ -57,7 +57,6 @@ open_questions:
   - The report does not say whether the drink-driving charge was dealt with in this sentencing or separately.
   - The judge is reported as saying Hoff was a 'responsible husband and father', but his age and family details are not given.
   - Only Cook Islands News published this account; no police statement or second outlet was found for the sentencing.
-  - The page image carries no caption beyond the headline and the page gives no description of what it shows, so no media entry is included.
   - The CFI registry has no Cook Islands id, so New Zealand is used as the country field while the place is recorded as the High Court in Avarua, Rarotonga.
 ---
 

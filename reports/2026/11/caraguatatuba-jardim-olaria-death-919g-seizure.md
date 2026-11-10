@@ -53,10 +53,8 @@ open_questions:
   - The seized material is described only as a substance resembling cannabis, with forensic analysis still pending.
   - The 919-gram figure is stated as approximate.
   - Only one accessible source was found after searching in Portuguese, so the account could not be cross-checked.
-  - The page carries two images whose captions do not establish that they show this intervention or seizure, so no media entry is listed.
   - No court outcome was reported and the Civil Police investigation was still under way.
   - The headline rounds the seizure to 1 kg while the article text states 919 grams; the report uses 919 grams.
-  - The page image caption does not establish that the photo shows this intervention or seizure, so no media entry is listed.
 ---
 
 A young man died after being shot by military police officers during an

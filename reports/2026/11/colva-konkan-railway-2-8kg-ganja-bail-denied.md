@@ -54,7 +54,6 @@ open_questions:
   - The Rs 2.8 lakh valuation is the police estimate as reported, not a court finding.
   - The article does not state the NDPS Act sections invoked, where the arrest and alleged recovery took place, or whether Ray was charged.
   - No charge sheet, trial stage or plea is reported.
-  - The page's only picture is a generic gavel file image captioned with the headline, so no media entry is included.
   - Only one accessible account of this bail order was found; no second outlet or court record could be opened.
 ---
 

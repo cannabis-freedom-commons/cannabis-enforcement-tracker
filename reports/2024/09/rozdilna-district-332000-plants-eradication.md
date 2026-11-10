@@ -38,7 +38,6 @@ tags: [rozdilna, border, forest-fund]
 open_questions:
   - The article gives no separate date for the discovery; 30 September 2024 is its publication date.
   - No suspects were named and no arrests reported, so who cultivated the plot is unknown.
-  - The article carries a photo credited to another outlet that could not be verified as showing this plantation, so no media is listed.
 sources:
   - title: In Odessa Region, police discovered over 300 thousand cannabis plants (photo)
     url: https://112.ua/en/na-odesini-policia-viavila-ponad-300-tis-kusiv-konopel-foto-41739

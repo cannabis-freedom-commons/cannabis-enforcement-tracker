@@ -72,8 +72,6 @@ open_questions:
   - The 2 grams of cocaine found in the cab are excluded from cannabis figures as a separate substance in a mixed event.
   - The 38 percent THC figure and the 30 percent average are press-reported estimates attributed to Le Progrès, not published laboratory results.
   - Le Dauphiné Libéré gives the driver's full surname as Hermans while other outlets identify him only as Stéphane H.
-  - 'No event photograph could be linked: the submitted page''s thumbnail has no caption or credit tying it to this seizure, the Actu.fr image is labelled as an illustration, and the Le Dauphiné Libéré image is an archive photo.'
-  - The submitted page is paywalled after its opening paragraphs, so only the visible excerpt could be checked against the existing report.
 ---
 
 A 55-year-old Belgian truck driver was stopped on the A7 south of Lyon on 21 May

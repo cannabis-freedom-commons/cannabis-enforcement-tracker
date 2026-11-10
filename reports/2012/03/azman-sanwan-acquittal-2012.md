@@ -46,7 +46,6 @@ sources:
     date: 2012-03-06
 open_questions:
   - The reports do not say whether Azman faced any further proceedings after his conviction was set aside.
-  - No photo of the case with a recoverable address was found, so no media entry was added.
 ---
 
 Singapore's Court of Appeal set aside the 2010 death sentence of Azman bin Mohamed Sanwan for

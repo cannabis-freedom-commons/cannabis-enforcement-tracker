@@ -67,10 +67,8 @@ open_questions:
   - The exact date of the April 2019 arrest was not stated in these sources.
   - Israeli media reports that the Alexander Courtyard ownership move and the Burkov extradition were linked to Issachar's release are allegations, not confirmed terms of the pardon.
   - The BBC gives no exact date for the April 2019 arrest.
-  - This account says police found 9 grams of marijuana, while the existing report notes that some outlets described the amount as hashish.
   - The account gives no exact date for the April 2019 airport detention.
   - The interview was published on 13 July 2022 and recounts events of 2019 and 2020; it gives no new date for the original detention and reports her age as 28 at the time of publication.
-  - Issachar describes the amount as about 10 grams of marijuana in a photo caption while the body of the article gives 9 grams; the existing report uses 9 grams.
 media:
   - kind: photo
     url: https://www.bbc.com/news/world-europe-51301827

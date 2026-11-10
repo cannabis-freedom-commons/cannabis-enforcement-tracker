@@ -54,7 +54,6 @@ open_questions:
   - No arrests, charges, indictment or court outcome were reported in either account.
   - No street value was stated for the marijuana.
   - The roundup's separate 5 April 2022 Barrigada package is a different shipment, left out of this report's figures; its recipient and the cannabis-only weight are not reported.
-  - The article's picture is a Post file photo of a portion of the plant, not a photograph of this package, so no media link is included.
   - The incident date, 14 March 2022, comes from the warrant search date reported in the article.
 ---
 

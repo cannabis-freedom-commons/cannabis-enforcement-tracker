@@ -55,7 +55,6 @@ open_questions:
   - The incident spans 7 May arrival and detention, 9 May arrest and 10 May first appearance; the 14 May bail variation is used as the report date as the latest step.
   - No court outcome after the ordered 23 September 2019 appearance was reported in the opened sources.
   - Chase Ergen travelled with David but the cannabis charges named only David; any later custody of Ergen on non-cannabis allegations is not counted here.
-  - No photograph of the seizure with a recoverable direct image address was found; the Vanity Fair lead image is credited to Getty with an entertainment inset and does not establish that it shows this seizure, so no media entry is included.
   - The Vanity Fair page is paywalled beyond its update paragraph; fuller enforcement details come from the DPP statement via SKNVibes and the St Kitts Nevis Observer.
 ---
 

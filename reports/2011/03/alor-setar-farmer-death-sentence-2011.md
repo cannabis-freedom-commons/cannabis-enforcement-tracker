@@ -46,7 +46,6 @@ sources:
 open_questions:
   - Only the Bernama wire account, read via a reprint, was found, so no second outlet confirms the details.
   - The offence dates to 1 May 2009 while the sentence came in March 2011; no appeal or execution outcome was reported.
-  - No photo of the case was available, so no media entry was added.
 ---
 
 The High Court in Alor Setar sentenced Ahmad Roslan Mat, 46, to death on Thursday 17 March 2011 after finding him guilty of trafficking 26.35 kilogrammes of cannabis. [@1] Judge Datuk Zakiah Kassim delivered the sentence after ruling that the prosecution had established a prima facie case against him. [@1]

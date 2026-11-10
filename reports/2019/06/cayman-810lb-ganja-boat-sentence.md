@@ -57,7 +57,6 @@ open_questions:
   - The incident date uses the 12 June 2019 sentencing publication date; the interception occurred on 18 March 2019 and no separate sentencing date beyond Wednesday is stated.
   - The kilogram total combines 810 pounds of ganja, 2.1 pounds of resin and 1.29 grammes of oil; the CI$939,000 value covers only the ganja.
   - No court outcome for Dalton Alphonso Wright is reported in the opened sources beyond his scheduled 20 June appearance.
-  - The submitted page image shows only the courthouse in George Town and does not depict this seizure, so no media entry is included.
   - The April report says Watson faces the reckless-act and imitation-firearm charges, while the existing sentencing report attributes those firearm allegations to Dalton Alphonso Wright; the report uses the existing attribution and the new source is added only for the shared seizure facts.
 media:
   - kind: photo

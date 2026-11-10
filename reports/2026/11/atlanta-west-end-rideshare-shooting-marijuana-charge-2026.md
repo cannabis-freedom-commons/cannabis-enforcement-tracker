@@ -55,7 +55,6 @@ open_questions:
   - The 42-year-old driver was shot in both legs according to one WSB-TV account that could not be opened from outside the United States, so no injury count or detail is recorded here.
   - CBS Atlanta reports officers were flagged down near 884 York Ave. SW and found the driver there, while other accounts describe the driver driving himself to reach police; the Atlanta Police Department statement itself could not be opened.
   - No court date, bail or plea was reported for any of the four charges.
-  - The CBS page's social image is an October 2026 Getty stock photograph of a police scene, not a picture of this shooting, so no media is listed.
   - Atlanta News First reported the same charges but its page could not be reopened during this review, so no fact depends on it.
 ---
 

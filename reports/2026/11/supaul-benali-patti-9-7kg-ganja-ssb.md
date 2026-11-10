@@ -65,7 +65,6 @@ open_questions:
   - No street value was stated, and no NDPS case number or court outcome was reported.
   - Only the SSB account, carried by the submitted report and a GulfHindi paraphrase, could be opened; no independent police statement was found.
   - The page image carries no caption or credit confirming what it shows, so it is listed as media without a claimed scene.
-  - The Prabhat Khabar account gives no patrol time; the 7:40 am timing in the existing report comes from its earlier sources.
   - No arrest, street value, NDPS case number or court outcome is reported in this account.
   - The Hindi account gives no patrol time; it says only that the patrol took place on Sunday.
 ---

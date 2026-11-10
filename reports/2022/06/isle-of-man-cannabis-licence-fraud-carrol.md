@@ -59,12 +59,10 @@ open_questions:
   - The BBC and Isle of Man Today both report the sentence on 1 June 2022 as delivered "today" or "this afternoon"; that date is used as the incident date.
   - The BBC reports the business plan as indicating profits of £2.2m, while Isle of Man Today reports estimated turnover of £22 million over three years and a separate untrue £2 million credit balance; none of these is a cannabis quantity.
   - The BBC gives the falsified bank balance as between £42,000 and £54,000 against an actual £2 to £102, while Isle of Man Today gives £2.53 to £102; the report uses the BBC range.
-  - The BBC spells the surname Carrol, while Isle of Man Today and Manx Radio spell it Carroll; the report follows the BBC spelling used on the submitted page.
   - Isle of Man Today's April 2022 hearing report gives Carrol's address as Parliament Street in Ramsey, while the June reports place him at Harcroft Meadow in Douglas; the report uses the sentencing accounts.
   - Isle of Man Today's April 2022 report says Carrol told police he was covering a serious assault charge in Scotland, while its June report and the BBC say previous convictions; the report follows the sentencing accounts.
   - Isle of Man Today described the Ramsey property as a house that was raided, while the BBC describes an electoral register change; it is not stated whether Carrol visited or stayed at the address.
   - No quantity of any cannabis product was involved in this event, so no cannabis weight, plant count or area is recorded.
-  - The submitted BBC photograph shows an altered passport page rather than the hearing, so no media entry is included.
 ---
 
 Craig Carrol, a 40-year-old businessman from Harcroft Meadow in Douglas, was

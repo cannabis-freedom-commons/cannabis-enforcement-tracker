@@ -52,7 +52,6 @@ open_questions:
   - The marijuana amount is reported only as nearly 100 grams with no independent weighing, so figures use 0.1 kg as stated.
   - The reported value of about PLN 5,000 covers marijuana and mephedrone together and is therefore kept in the text but excluded from figures.
   - The over 3 grams of mephedrone are a non-cannabis substance and are excluded from cannabis figures.
-  - The pages carry photos but their captions do not establish that they show this seizure, so no media entry is added.
 ---
 
 Officers of the Criminal Department of the Mokotów police station detained a

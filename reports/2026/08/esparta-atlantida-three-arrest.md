@@ -41,7 +41,6 @@ open_questions:
   - No cash amount, phone details, cocaine quantity, names, charges or court outcome were published.
   - The post gives no separate operation date, so 6 August 2026 is the publication timestamp used as the incident date.
   - Only the police post could be opened; no second outlet account was found after searching.
-  - Two photos are attached to the post without captions or descriptive alt text establishing what they show, so no media entry is included.
 ---
 
 Officers of the National Police of Honduras apprehended three people together in

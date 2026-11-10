@@ -61,7 +61,6 @@ open_questions:
   - The article gives no weight limit or legal provision, so it does not establish whether the 52 grams exceeded the permitted amount for personal use in Antigua and Barbuda.
   - Dollar amounts are stated with $ in the source and recorded here as Eastern Caribbean dollars, the local currency.
   - The article does not say whether he paid the fine or was jailed in default.
-  - The page carries only a generic placeholder graphic and an advertisement image, so no media entry is listed.
 ---
 
 Dorian Wilkins, a 27-year-old resident of Bay Street in Villa, was convicted and

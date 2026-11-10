@@ -45,7 +45,6 @@ sources:
     date: 2020-12-19
 open_questions:
   - Oxygen dates the resentencing to 15 December while WWL-TV's account, cited across the coverage, describes the release on Wednesday 16 December; this report uses 16 December.
-  - Photographs of Winslow after his release were published with the reports, but no direct image address verified as depicting the release could be recovered, so no media entry was added.
 ---
 
 Fate Winslow, 53, walked out of the Louisiana State Penitentiary at Angola in December 2020 after a judge resentenced him to 12 years with credit for time served, freeing him 12 years into a life sentence for selling $20 of marijuana. [@1] "A life sentence for two bags of weed?" he said after his release. "I never thought something like that could happen." [@1]

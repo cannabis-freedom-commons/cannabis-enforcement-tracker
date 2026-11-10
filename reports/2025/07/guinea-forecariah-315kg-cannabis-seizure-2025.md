@@ -49,7 +49,6 @@ open_questions:
   - The articles give no separate raid date beyond the 18 July 2025 police communique, so that date is used as the incident date.
   - No arrest, charge or court outcome was reported; the driver was said to have fled and to remain wanted.
   - The 14 packages of pharmaceutical products were described only as unfit for consumption, so no pharmaceutical quantity is recorded in cannabis figures.
-  - The submitted page's only image is a 2023 file with no caption tying it to this event, so no media entry is included.
   - The cannabis locality is spelled Salguidi in one account and Salguidia in others; the report follows each spelling as published.
 ---
 

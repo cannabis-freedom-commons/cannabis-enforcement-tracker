@@ -47,7 +47,6 @@ open_questions:
   - The suspect was identified only by the initials J.R.A.H.P.; his full name was not published.
   - No charge, trial or sentencing outcome was reported; the investigation was still continuing.
   - Only one accessible source for this event was found after searching in English.
-  - The page's airport image is a generic preclearance photo not established to show this seizure, so no media entry is included.
 ---
 
 Curacao police arrested a 26-year-old man at Hato International Airport in

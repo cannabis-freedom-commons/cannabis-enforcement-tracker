@@ -48,7 +48,6 @@ open_questions:
   - No figure for the number of plants, the cannabis value, or any field area was published.
   - Camer.be says the assistant claimed not to know what the sacks held and that they belonged to a man named Derrick in Kumba, while 237online writes that he admitted being tasked with getting the sacks loaded; the report states only that he was detained and held.
   - No charge, court appearance or outcome was reported for Christian Toninbeng, and police did not report catching the driver.
-  - The page image captioned dschang marche appears to show Dschang market rather than this seizure, so no media entry is included.
 ---
 
 Officers of Dschang's second-district police station seized six sacks of dried

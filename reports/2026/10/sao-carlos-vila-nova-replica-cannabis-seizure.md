@@ -48,7 +48,6 @@ open_questions:
   - No weight was published for the seized porção de maconha, so no kg_seized figure is recorded.
   - The names and ages of the two men were not published.
   - Only one outlet's account could be opened, the Região em Destake tag listing and its full article, with no independent agency statement or second outlet found.
-  - The page's lead image uses a generic site template caption and is not established to show this seizure, so no media entry is added.
   - 31 October 2026 is inferred from the reported 22h50 Saturday timing and the article's 1 November 2026 publication date.
   - The two men were described as encaminhados and then liberados, so they are counted as two detained without evidence of a formal trafficking arrest.
 ---

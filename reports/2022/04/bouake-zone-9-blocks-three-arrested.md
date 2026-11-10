@@ -47,7 +47,6 @@ open_questions:
   - No weight for the nine blocks was published, so no kilograms can be recorded.
   - The full names of the three people were not published, only their initials.
   - No court outcome beyond the planned presentation to a judge was reported.
-  - The only page image is captioned as an illustration and is not established to show this seizure, so no media entry is included.
   - The Laurore page also describes a separate large cocaine seizure in Koumassi and San Pedro, a different event left out of this report.
 ---
 

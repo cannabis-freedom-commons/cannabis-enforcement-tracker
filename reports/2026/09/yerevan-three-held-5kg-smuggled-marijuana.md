@@ -53,10 +53,7 @@ open_questions:
   - The identity, nationality and procedural status of the foreign citizen alleged to have smuggled the marijuana were not reported.
   - No value, packaging count beyond parcels, or names or ages of the three detainees were published.
   - Only one accessible source for this event was found after searching in Russian and English.
-  - The page carries one image captioned with the headline, with no caption, credit or text establishing that it shows this seizure, so no media entry is included.
   - A similar Armenia case over a Telegram-linked 5 kg marijuana pickup involved two suspects and an indictment completed on 21 August 2026 and is treated as a different event left out of this report.
-  - The new Arminfo account cites the charge as article 44-393, part 3, point 2, while the existing report records Article 393, part 3, point 2, leaving whether this reflects the same provision under different numbering unresolved.
-  - The Arminfo page image file address contains 20200218022829 and its caption repeats only the headline, so it is not established to show this seizure and no media entry is included.
 ---
 
 Three residents of Yerevan were detained at the moment they collected parcels

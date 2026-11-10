@@ -51,7 +51,6 @@ open_questions:
   - No names, charges or court outcomes were reported for those arrested.
   - Firearms, explosives, ammunition, gold, cash and the stolen car are mentioned only to explain the mixed operation and are excluded from cannabis figures.
   - Only the INTERPOL account could be opened; no second independent account of this operation was found.
-  - The page carries six photos whose captured captions and credits were empty, so none could be verified to show this seizure and no media entry is added.
 ---
 
 Operation Balkan Trigger ran from 17 to 19 April 2016 across Bosnia and

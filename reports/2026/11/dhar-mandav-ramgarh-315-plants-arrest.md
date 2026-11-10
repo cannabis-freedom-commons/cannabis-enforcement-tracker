@@ -52,7 +52,6 @@ open_questions:
   - The 39.75 lakh rupee valuation comes from the headline; no per-kilogram basis for the estimate was published.
   - The 265 kg is described as the total weight of the 315 green plants; the account does not say whether it is a green or dried weight.
   - No charge provision, court outcome or name of the accused could be verified from the captured text.
-  - The page carries photographs but no caption or credit confirms they show this field, plants or seizure, so no media entry is listed.
 ---
 
 Police in the Mandav police station area of Dhar district uncovered illegal

@@ -83,17 +83,13 @@ open_questions:
   - Both accounts trace to the Burgas regional police directorate via BTA, with no independent reporting found beyond that police account.
   - Only the Nesebar cannabis weight of about 42 grams is recorded; no separate cannabis weight is given for the general cannabis mention in the province-wide seizure list.
   - No charges, detention extensions or court outcomes beyond the reported up-to-24-hour detentions and fast-track proceedings were reported.
-  - The Taralej page image is credited only to BTA and the BNR page states its photo is illustrative, so no photo of the seizure, flat or searches is available and no media entry is included.
   - The 45-year-old's re-arrest for driving under the influence of methamphetamine is a separate traffic offence after release and is excluded from the cannabis figures.
   - The BurgasMedia page image is a stock collage credited to Pexels, so no photo of the Nesebar seizure can be linked from this source.
   - The same roundup also reports a traffic accident injuring a 14-year-old in Burgas and a loan-threat complaint in Tsarevo, separate events left out of this cannabis record.
-  - This page says five people were detained when the raids were announced, while the existing report records six people held in the same operation.
   - The page gives no separate calendar date for the searches beyond saying they became known on its 5 November 2026 publication date; the existing 4 November 2026 date remains an inference from reports saying the searches took place the previous day.
   - This account says two men were held in the two 4 November searches, in Sredets and Nesebar, and does not mention the Prosenik searches or the other four detainees recorded in this report.
   - It describes the Sredets find as 1.5 grams of methamphetamine with a scale, hotplates, a glass pipe and precursors, and says the Sredets man was held for up to 24 hours, while other reports describe laboratories in Sredets and Prosenik.
-  - This BurgasMedia page says police reported five detainees for the two searches, while the existing report records six people held in the same operation.
   - BurgasMedia's roundup gives only the bare fact that a 42-year-old man in Nesebar held cannabis, with no weight or address.
-  - Both new pages are dated 5 November 2026; the 4 November incident date follows the existing report and the Dnes Bulgaria account of the same searches.
   - No charges beyond the fast-track proceeding or a court outcome were reported.
 ---
 

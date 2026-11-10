@@ -55,7 +55,6 @@ open_questions:
   - The incident is dated 26 September 2023, the Tuesday evening the DGSN statement describes; the submitted article was published on 28 September and writes 'mercredi', which is inconsistent with that statement.
   - 'No arrest is reported for this interception: the driver fled and was still being sought on 27 September.'
   - No street value, vehicle details or place of origin for the resin was published.
-  - The page photo credited to Pascal Guyot / AFP is not established to show this van or these packages, so no media entry is included.
   - Only the DGSN statement and its reprints were found for this seizure; no later court step was reported.
 ---
 

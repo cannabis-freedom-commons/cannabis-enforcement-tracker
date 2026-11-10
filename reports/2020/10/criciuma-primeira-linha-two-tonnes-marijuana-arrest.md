@@ -73,7 +73,6 @@ open_questions:
   - A fourth local outlet, Canal Içara, named the operation and valued the load at more than R$1 million, but its page text could not be recovered in full, so those details are left out.
   - No custody decision, charges beyond drug trafficking or court outcome were reported.
   - The accounts describe the stash as being in a depository, a house or a residence on the same country property near a condominium.
-  - The submitted page's lead photo is credited to the outlet's photographer, with no caption confirming it shows this seizure, so no media entry is added for it.
 ---
 
 The operation, run by the Içara precinct's Civil Police with 40 officers, ended

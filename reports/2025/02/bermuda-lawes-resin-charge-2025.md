@@ -54,7 +54,6 @@ open_questions:
   - The court heard a value of between $1 million and $3.3 million; only the lower bound is recorded as the figure.
   - The article does not say how the resin was allegedly brought into Bermuda, where it was seized, or whether Lawes had been in custody before the hearing.
   - Only The Royal Gazette account of the charge hearing could be found; no co-accused is named.
-  - The page's images are unlabelled site graphics, so no media is listed.
 ---
 
 Ty Lawes, a 19-year-old from Pembroke, was charged in Bermuda's Magistrates'

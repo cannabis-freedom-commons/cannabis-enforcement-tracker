@@ -45,7 +45,6 @@ open_questions:
   - The source does not say what police found inside the parcel or whether the delivery was a controlled delivery.
   - No charges, court appearance or custody decision are reported; police said only that investigation was continuing.
   - Only one source for this event could be opened; no Nepali-language report or Narcotics Control Bureau statement was checked.
-  - The page image is a generic graphic of parcels, not a photo of this operation, so no media entry is included.
 ---
 
 Nepal Police arrested three people on the charge of smuggling marijuana into

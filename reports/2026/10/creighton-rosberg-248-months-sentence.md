@@ -55,10 +55,8 @@ open_questions:
   - Methamphetamine, cocaine and psilocybin quantities are mentioned only to explain the mixed conspiracy and are excluded from cannabis figures.
   - The total number of people charged is unclear because sources name Rosberg and Baller plus unspecified others, so no charged figure is recorded.
   - Baller was scheduled for sentencing on 3 December 2026, after the opened reports, so that outcome remains unknown.
-  - The submitted page's only listed image is generic stock captioned Calendars and the second page offered no event photo, so no media entry is included.
   - Both opened accounts derive from the U.S. Attorney announcement and no separate court judgment was opened.
   - The new account gives only pounds of marijuana and THC products without a precise weight, so no cannabis kilograms can be recorded.
-  - The page's only listed image has no caption identifying the event, so no media entry is included.
 ---
 
 Samuel Rosberg, 25, of Creighton, Nebraska, was sentenced on 29 October 2026 in

@@ -45,7 +45,6 @@ sources:
 open_questions:
   - No arrest or suspect is reported; the owner of the consignment had not been identified when the reports were published.
   - The reports date the seizure to the day of publication, 14 June 2026, but give no separate time of day for the recovery.
-  - The photograph published with the English article is an uncaptioned ganja picture from the site's June 2026 uploads; it is not identified as showing this seizure, so no media entry is given.
 ---
 
 A joint team from the District Police Office Parsa and the Armed Police Force

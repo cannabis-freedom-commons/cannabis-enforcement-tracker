@@ -66,7 +66,6 @@ open_questions:
   - 'Left out, as its quotation was not found in Diario Panorama: Six people were taken into custody when police carried out four simultaneous raids on homes in the Campo Contreras and Inmigrantes neighbourhoods of Santiago del Estero, the provincial capital.'
   - 'Left out, as its quotation was not found in Nuevo Diario Web: Previous inquiries had detected a steady flow of buyers at different times of day.'
   - The article gives no separate date for the raids; 31 October 2026 is its publication date.
-  - Whether the lead photo on the submitted page shows this seizure could not be verified from its caption, so it is not listed as media.
 ---
 
 The raids were ordered by a court in an investigation under National Law 23.737,

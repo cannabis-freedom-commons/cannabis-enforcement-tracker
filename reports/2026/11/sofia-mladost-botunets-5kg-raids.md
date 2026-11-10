@@ -134,9 +134,7 @@ open_questions:
   - 'Left out, as its quotation was not found in Министерство на вътрешните работи: In Botunets at about 10.30pm, patrol officers from the Fifth District Police Department stopped a man on an electric scooter.'
   - 'Left out, as its quotation was not found in Dnes.bg: Police said they found the second dealer through the 26-year-old and that the 33-year-old told them he was spending his proceeds on renovating another Sofia flat.'
   - 'Left out, as its quotation was not found in Dnes.bg: Police said the 26-year-old is known for thefts, has served an effective sentence for drug possession and was now breaching a suspended sentence for drug offences.'
-  - The reprint renders the fine as "5 и 20 000 лева" without the thousand on the first figure, while the existing report records 5,000 to 20,000 Bulgarian leva from fuller accounts.
   - The reprint does not name the Mladost and Botunets districts or give the reported 5 kg total, which are established by the fuller MVR, NOVA and BurgasMedia accounts already cited.
-  - The page photo caption only repeats the headline and is not established to show this seizure, so no media entry is included.
   - This Ukrainian-language account does not itself give the number of people sent to court or the drugs' euro value reported at the same briefings, so no figure for those is added.
   - 'Left out, as its quotation was not found in BurgasMedia: Police said the Botunets case material would still be reported to the prosecutor''s office.'
 ---

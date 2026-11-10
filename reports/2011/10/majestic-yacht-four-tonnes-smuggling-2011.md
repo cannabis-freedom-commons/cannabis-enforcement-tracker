@@ -50,7 +50,6 @@ sources:
     date: 2011-10-14
 open_questions:
   - The court that passed the sentences was not named in the opened sources.
-  - The sentencing release links a Home Office Flickr set of the seizure; no direct image address was recovered, so no media entry is listed.
 ---
 
 UK Border Agency cutters HMC Valiant and HMC Searcher intercepted the Dutch-registered yacht MV Majestic in UK waters in the early hours of Sunday 24 July 2011 after tracking it from the Falmouth area along the Channel. [@1,2] The yacht was escorted into Newhaven harbour, where officers found packages of cannabis hidden in an adapted space in the hull, reached through two deck hatches. [@1,2] The agency put the haul at approximately four tonnes with an estimated street value of about £12 million, and four men were charged with the importation of controlled drugs. [@1]

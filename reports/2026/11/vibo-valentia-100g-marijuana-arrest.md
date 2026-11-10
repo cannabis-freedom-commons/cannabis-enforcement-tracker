@@ -52,7 +52,6 @@ open_questions:
   - No names, ages or custody outcome were published for the arrested youth and the denounced person.
   - No formal charges, trial or court outcome were reported beyond the arrest, denunciation and administrative referrals.
   - The nationwide figure of 644 arrests is context for the Italy-wide youth-crime sweep and is not counted in this local event's figures.
-  - The Corriere page image is captioned with the article title and derived from an earlier police photo file, and is not established to show this seizure, so no media entry is included.
 ---
 
 State police in Vibo Valentia reported one arrest, several denunciations, drug

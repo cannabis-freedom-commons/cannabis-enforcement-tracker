@@ -48,7 +48,6 @@ open_questions:
   - 7 November 2026 is inferred as the Saturday night before the 8 November 2026 publication; no separate calendar date for the intervention is given.
   - The man was not named and no charges or court outcome were reported.
   - No second account of this Palmira seizure could be opened; the report rests on the single Radio Regional account.
-  - The page image file named Comisaria-28-Palmira.jpg with a default caption appears to show the police station, not the seizure, so no media entry is made.
 ---
 
 On Saturday night, police detained a 32-year-old man in a house on Patricias

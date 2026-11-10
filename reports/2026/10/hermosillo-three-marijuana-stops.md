@@ -42,7 +42,6 @@ open_questions:
   - The standfirst spells the third detainee's name 'Joandrik Guadalupe', while the body spells it 'Yoandrik Guadalupe'; the report uses the body's spelling.
   - No charges or court outcome are reported; the three were left with the ministerial agent.
   - The article body does not name Hermosillo; the city is taken from the newspaper's own location and the colonias named.
-  - The page's only photograph shows two municipal police officers beside a patrol car and a shoe shop, captioned only with the headline; it is not identified as a picture of these arrests, so no media entry is given.
 ---
 
 Police in Hermosillo arrested three men in three separate stops, two of them

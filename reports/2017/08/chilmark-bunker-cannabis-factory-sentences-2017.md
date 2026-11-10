@@ -61,7 +61,6 @@ sources:
 open_questions:
   - Swindon24 reported about £250,000 of abstracted electricity before sentencing, while the opened post-sentencing account gives no figure for the stolen power.
   - The three gardeners found inside the bunker, aged 15, 19 and 37, were arrested but the opened sources report no charges or outcomes for them.
-  - No verified photo of the bunker grow could be confirmed from the opened pages, so no media is listed.
 ---
 
 Officers from Wiltshire Police's Local Priority Team carried out a midnight raid on 22 February 2017 against RGHQ Chilmark, an underground nuclear bunker built in the 1980s to house local government in a nuclear attack. [@2] The site was no longer owned by the Ministry of Defence, but its nuclear blast doors were still in place and almost impenetrable, so officers intercepted three men as they left and used their keys to get inside. [@2,3] Almost every one of the bunker's roughly 20 rooms across two floors had been converted to grow cannabis, with evidence of previous crops. [@3]

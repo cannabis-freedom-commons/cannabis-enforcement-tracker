@@ -69,9 +69,7 @@ open_questions:
   - 'Left out, as its quotation was not found in Diario de Centro América: Guatemala''s official account places the weapons seizure and captures in Aldea Los Laureles, Las Cruces, Petén, reporting five people captured with RPG grenades, anti-tank munitions, rifles, a pistol, a revolver, magazines, ammunition, radios, telescopic sights and bulletproof vests.'
   - 'Left out, as its quotation was not found in Diario de Centro América: In that incursion the PNC reported eradicating 430,016 marijuana plants valued at 161,256,000 quetzales, and also finding five bags and 11 packages of marijuana.'
   - 'Left out, as its quotation was not found in Diario de Centro América: Guatemalan authorities said the actions were carried out under Operation Relámpago as part of the government''s frontal fight against organized crime and drug trafficking.'
-  - Infobae names the Mexican detainee as 35-year-old Dacelis “N”, while the existing report names 34-year-old Erick Neftalí Medina García wanted on United States cocaine-conspiracy charges, so it is unclear whether they are the same person or different detainees.
   - The same Infobae article also reports separate extortion arrests, a Santa Lucía Cotzumalguapa marijuana seizure from Marta “N” and a Barrio 18 intervention in Moyuta, which belong to other events and are left out here.
-  - The CR Hoy page carries an AFP photo captioned as military actions to repel crime in Guatemala, which does not establish that it shows this plantation or seizure, so no media entry is included.
   - AFP gives no names for the four detainees and no date beyond 'this Saturday'.
   - AFP gives no weight for any marijuana product seized, so no kilograms can be added.
   - The Grupo Animal copy reproduces the AFP text, but its article paragraphs appear only in the page markup; the quotations are taken from the same dispatch as published by CR Hoy.

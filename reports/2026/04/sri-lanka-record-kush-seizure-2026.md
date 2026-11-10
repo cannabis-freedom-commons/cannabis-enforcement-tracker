@@ -144,49 +144,24 @@ media:
     publisher: CNN
     caption: 'Sri Lankan monks arriving to appear before a court after their arrest in Negombo on 26 April 2026. Photo: Ishara S. Kodikara/AFP/Getty Images via CNN'
 open_questions:
-  - The BBC dates the airport arrival to Saturday 25 April 2026, while the existing report dates the event 26 April; the article's publication date is 27 April.
   - The BBC says the 22 monks were remanded for seven days on the Sunday, but does not say what happened to the 23rd monk arrested in the Colombo suburb.
   - No charges, trial date or court outcome beyond the remand were reported.
-  - 'The opened accounts differ on the day: the existing report dates the event 26 April 2026, Ada Derana describes a Police Narcotics Bureau operation on the night of 25 April with court production on 26 April, while CBS and the BBC describe the arrest and court appearance as Sunday.'
   - 'The substance description differs: CBS and the BBC report kush cannabis only, while Ada Derana reports more than 110 kg of Kush and Hashish with no split between the two, so a cannabis-only share cannot be separated from that account.'
-  - 'The value is inconsistent across accounts: Ada Derana values the haul at over Rs. 110 million, The Independent reported more than £2.5 million and the existing report records about US$3.5 million; the report keeps its original figure.'
   - BBC Sinhala reports that a 23rd monk who allegedly organised the trip was later arrested near Colombo and that police believed the carriers may not have known what they carried; the other opened accounts do not confirm this.
   - CNN dates the arrests to 26 April, matching the report, while the BBC account cited in the report dates the airport arrival to Saturday 25 April.
   - CNN gives the estimated value as over US$3.45 million (1.1 billion rupees), below the report's roughly US$3.5 million and the other figures its open questions record.
   - No charges or court outcome beyond the scheduled Negombo Magistrate's Court appearance were reported.
-  - The New York Post dates the arrest to Saturday and the first court appearance to Sunday, published 27 April 2026; the existing report dates the event 26 April 2026, consistent with a night of 25 April operation and 26 April court production already noted in its open questions.
-  - The New York Post values the haul at about $3.4 million (£2.5 million), below the existing report's about US$3.5 million; the report keeps its original figure.
   - WION's photo pages use a mix of AFP and stock-library images captioned Pexels and Unsplash, so no event photo from this page is listed as media.
-  - UCA News values the haul at over 1.1 billion rupees (US$3.45 million), slightly below the about US$3.5 million kept in the existing report.
-  - The ABC10 account says the monks were returning Saturday, while the existing report dates the event 26 April 2026.
-  - Firstpost says more than 110 kg while the existing report records 110 kg; the report keeps its original figure.
   - The same article mentions a separate May 2025 arrest of a 21-year-old British woman with 46kg at the same airport, a different event left out here.
   - The article also mentions heroin and other narcotics smuggled by fishing boats, with no cannabis weight given, so no figure is added.
-  - The new account reports approximately 112 kilograms via the Daily Mirror, above the about 110 kg kept in the existing report; the report keeps its original figure.
-  - The new account describes the haul as cannabis and hashish with no split between the two, while the existing report records kush only, so no separate cannabis-only share can be derived from the new wording.
-  - The interception is dated late on 25 April with court production on 26 April, while the existing report dates the event 26 April; this reflects the overnight operation and court sequence already noted in the report.
-  - The page lists one thumbnail image file named for the monks' arrest credited to Daily Mirror, but its caption does not confirm what the image shows, so no media entry is included.
-  - The NewsNation account says the group was returning home after a four-day vacation but does not name Thailand or Bangkok, so the Thailand routing is retained from the existing report's other sources.
-  - The article's only described image shows Buddhist monks walking together on a stone pavement, which appears generic rather than this seizure, so no media entry is included.
   - The article mentions heroin and other narcotics smuggled by small fishing boats as general context with no cannabis weight, a separate matter left out here.
-  - The Guardian describes the return as Saturday and the magistrate appearance as Sunday, while the existing report dates the event 26 April 2026; this reflects the overnight 25-26 April operation and court sequence already noted in the report's open questions.
-  - The WPDE account gives no separate date for the airport arrest; 28 April 2026 is its publication date, while the existing report dates the event 26 April 2026.
-  - The WPDE account describes more than 110 kg of Kush and hashish with no split between the two, while the existing report records 110 kg of kush; the report keeps its original figure.
   - 'No event photo is listed: the page''s captioned image is a December 2022 Thailand greenhouse stock photo, and its second image has no caption tying it to this seizure.'
-  - The new account says the monks arrived on Saturday and appeared in court on Sunday without giving calendar dates; 28 April 2026 is its publication date, while the existing report dates the event 26 April 2026.
-  - The page lists one image with no caption or credit tying it to the seizure, so no media entry is included.
   - Arise News gives no calendar date for the arrest or the magistrate appearance, only 'Sunday'; 28 April 2026 is its publication date.
   - Arise calls the sponsor a businessman whose identity was not disclosed, while other accounts describe an unnamed sponsor and one reported a 23rd monk as organiser; these descriptions are not fully reconciled.
-  - The page's one image has no caption or credit tying it to this arrest, so no media entry is added.
-  - The WTHR page credits its lead image to the stock library Adobe Stock and shows no photograph of the airport interception, so no media is added.
   - Each monk's share is given as about 11 pounds (approximately 5 kg), which works out slightly above the report's about 110 kg total; the report keeps its original 110 kg figure.
-  - UCA News values the haul at more than 110 million rupees (about US$350,000), far below the about US$3.5 million recorded in the existing report; the rupee-to-dollar conversion in this account cannot be reconciled with the others.
-  - UCA News describes 112 kilograms of combined narcotics including kush and hashish, against the 110 kg of kush kept in the existing report, and gives no split between the two substances.
-  - UCA News dates the airport arrest to 25 April and the monks' Negombo court appearance to 26 April, while the existing report dates the event 26 April; this fits the overnight 25-26 April sequence its open questions already note.
   - The account says judicial medical tests found the suspects had used drugs but does not say how many tested positive.
   - No court outcome beyond the remand already recorded is reported for the 22 monks or for Amithananda Thera.
   - The travel-rule measure was described as reinstating an existing administrative requirement rather than changing a law, so no law change is recorded with it.
-  - The Standard values the drugs at more than US$3.45 million (over HK$27 million), while the existing report keeps about US$3.5 million and its open questions already record figures ranging from US$345,000 to Rs 110 million; the report keeps its original figure.
   - The Standard describes indefinite detention without charge for drug suspects and long prison terms as the general legal framework, without stating any charge or outcome specific to these 22 monks, so no charge or court result is recorded from it.
 ---
 

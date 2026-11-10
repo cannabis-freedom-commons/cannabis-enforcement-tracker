@@ -59,7 +59,6 @@ open_questions:
   - The reports describe PAC only as 'material identificado como PAC' and do not say what the substance is.
   - None of the three outlets names the man or says where he lives.
   - All three accounts follow the Military Police's version; PIRANOT credits Folha Vitória, and no independent reporting of the arrest was found.
-  - 'The lead image on the submitted page is credited only ''Foto: Divulgação'' and could not be confirmed to show this seizure, so it is not listed among the photos.'
   - 'Left out, as its quotation was not found in Tribuna Online: The drugs seized were 154 crack rocks and a 50-gram portion of crack, 97 units and a 36-gram portion of a substance identified as PAC, 11 vials of cocaine, and 15 buchas — the wraps marijuana is sold in — with a 55-gram portion of marijuana.'
 ---
 

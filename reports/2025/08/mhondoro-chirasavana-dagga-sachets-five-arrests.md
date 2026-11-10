@@ -50,7 +50,6 @@ open_questions:
   - No weight is given for the 171 sachets or the plastic bag of dagga, so the amount is recorded as sachets rather than kilograms.
   - No charge sheet, court appearance or outcome was reported; the reports say only that the five were arrested.
   - NewZimbabwe.com and the police's own post carry the same statement, so the details are not independently confirmed.
-  - The page's photo is a 2021 marijuana illustration on NewZimbabwe's image host, not a picture of this seizure, so no media entry is given.
   - 'The Ruwaka note: ''Coordinates are those of Mhondoro district, not the exact business centre.'''
   - The article also reports a separate arrest of six people at Rutenga Business Centre, Masvingo, on 21 August 2025 that also involved cough syrup and codeine; that event is left out of this report.
 ---

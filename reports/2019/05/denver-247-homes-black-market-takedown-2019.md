@@ -41,7 +41,6 @@ tags: [black-market, denver, out-of-state-trafficking]
 open_questions:
   - The reports do not say what charges or sentences followed for the 26 state and 16 federal defendants.
   - The seized cash of about 2.16 million dollars was pending forfeiture; no final forfeiture outcome was published in the opened sources.
-  - No photo of the raids with a recoverable address was found, so no media entry was added.
 sources:
   - title: 42 arrested throughout Colorado in one of the state's largest black-market marijuana takedowns
     url: https://www.ice.gov/news/releases/42-arrested-throughout-colorado-one-states-largest-black-market-marijuana-takedowns

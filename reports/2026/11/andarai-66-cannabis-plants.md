@@ -73,7 +73,6 @@ open_questions:
   - No arrests, charges or court outcome were reported beyond the case being sent to the 19th Precinct for investigation.
   - The reports give no names of suspects or growers linked to the greenhouse.
   - The Folha de Dourados text is credited to R7 and reproduces the same military police statement as the R7 report already cited, so it is not independent reporting.
-  - The page photo is a police handout that also appears on the R7 copy already listed, so it is not added as a separate media entry.
 ---
 
 Military police seized 66 cannabis plants from a clandestine greenhouse on Rua

@@ -45,7 +45,6 @@ open_questions:
   - No number or weight for the uprooted THCa plants was published, only a $23,000 police estimate, so no plant or kilogram figure can be recorded.
   - No court outcome was reported; the men were reported as facing charges with no disposition given.
   - Only one accessible report of this event was found after searching, so the account rests on the single opened TSPR article.
-  - The page carries a generic crime-news image with no caption tying it to this seizure, so no media entry is included.
   - The text gives a number of plants ("23,000. Those same plants") but the figures have no plants_destroyed; check whether it belongs there.
 ---
 

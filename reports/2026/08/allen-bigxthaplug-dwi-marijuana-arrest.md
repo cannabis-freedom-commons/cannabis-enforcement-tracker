@@ -45,7 +45,6 @@ open_questions:
   - The year 2026 is inferred because both accounts report the 21 August arrest in August 2026, one year after the August 2025 Dallas arrest.
   - No details of the traffic stop, DWI basis or firearm recovery in the 2026 arrest were disclosed and the investigation remains active.
   - No court outcome for the new charges was reported, and how they will affect the pending 2025 case is not established.
-  - The submitted page carries only a Shutterstock portrait of the musician, not the arrest or seizure, so no media entry is included.
 ---
 
 Allen police arrested musician Xavier Landum, known as BigXthaPlug. [@1] The

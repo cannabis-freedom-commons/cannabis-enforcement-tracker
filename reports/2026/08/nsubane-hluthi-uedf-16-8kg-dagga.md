@@ -47,7 +47,6 @@ open_questions:
   - No charges, custody decisions or court outcomes were reported; the suspects were handed to law enforcement for investigation and legal processing.
   - Four men were intercepted in total, but only two were explicitly described as arrested.
   - The same UEDF reports also describe 51 goats intercepted for livestock smuggling, a separate non-cannabis event left out here.
-  - The PressReader page carries an image with no caption or credit establishing that it shows this seizure, so no media entry is included.
   - Both accounts repeat the UEDF statement; no independent account of the interceptions was found.
 ---
 

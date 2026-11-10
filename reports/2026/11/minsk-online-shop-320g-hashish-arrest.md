@@ -56,7 +56,6 @@ open_questions:
   - The detained man was not named, only described as a 27-year-old Minsk resident.
   - Reports mention large batches of prohibited substances in general but quantify only hashish, so figures record only the more than 320 g of hashish.
   - The reported up to 15 years is the penalty he faces, not a sentence, so no prison figure is recorded.
-  - SB.by labels its picture an illustrative photo and the Minsk-News image uses a 2023 file image, so neither is established to show this event and no media entry is included.
   - Both accounts rest on Minsk police statements; no independent account was found.
 ---
 

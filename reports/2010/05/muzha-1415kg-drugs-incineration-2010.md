@@ -36,7 +36,6 @@ open_questions:
   - The marijuana figure is given as nearly 980 kilograms, so 980 is used as the stated figure.
   - Only one outlet's account of this incineration could be opened.
   - The more than 15,000 individual cases behind the destroyed haul were not detailed.
-  - A CNA photograph of the incineration exists on the source page but its direct image address could not be recovered, so no media entry is made.
 sources:
   - title: Record amount of illegal drugs incinerated
     publisher: Taiwan Today

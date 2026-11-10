@@ -65,7 +65,6 @@ open_questions:
   - The SuperTalk report is dated 24 February 2025 while WLOX says the stop occurred on Sunday 23 February; 23 February is used as the incident date and 24 February as the announcement date.
   - The exact roadside stop location is given only as near Sherman on Interstate 22; the coordinates are for Sherman.
   - No count of plants, no cultivation site and no other people involved were reported.
-  - The submitted page's composite photo is credited to the Pontotoc County Sheriff's Department but the individual images could not be separately verified.
 ---
 
 A Jamaican national was arrested after a Pontotoc County sheriff's deputy

@@ -43,7 +43,6 @@ open_questions:
   - The incident is dated to 2 November 2026 because the article published on 3 November 2026 says the detention followed sighting on the previous day; no exact time is given.
   - Only one source for this event could be opened; no agency statement or second outlet account was found.
   - The article gives no NDPS section, case number or later court outcome.
-  - The page image is captioned Image for representation and does not show this event, so no media entry is added.
 ---
 
 Mulavukad police detained Sharath, aged 28 and described as a native of Fort

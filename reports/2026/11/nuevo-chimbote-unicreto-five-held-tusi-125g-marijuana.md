@@ -71,10 +71,7 @@ sources:
 open_questions:
   - The five suspects are named in the police account, but no court appearance, charge sheet or measure of restraint has been reported; the case is at the investigation stage.
   - The 125 grams is described as approximately 125 grams of marijuana, without a laboratory confirmation or a value estimate.
-  - The lead image on the submitted page is captioned only 'banda' and its credit is not stated, so it is not confirmed to show the seized drugs.
   - The Lúmina Noticias article is a roundup of several separate police interventions in Áncash; only the Nuevo Chimbote raid is covered here.
-  - Diario de Chimbote reports 56 small bags of suspected tusi (2C-B), while the existing report's sources gave 45; the report keeps 45 and the difference is unresolved.
-  - The article gives no date for the raid itself; 6 November 2026 in the existing report comes from Lúmina Noticias, and 9 November is this article's publication date.
   - The article gives no separate caption or credit for its photo, so what it shows is unconfirmed.
 ---
 

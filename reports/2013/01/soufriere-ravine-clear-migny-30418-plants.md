@@ -41,7 +41,6 @@ sources:
 open_questions:
   - No weight was published for the white bucket of compressed marijuana, so no kilograms can be recorded.
   - Only one accessible source for this January 2013 Soufriere operation was found after searching in English.
-  - The page image is captioned only as marijuanajpg with no credit or description linking it to these exercises, so no media entry is included.
   - Coordinates are for Soufriere town as the district centre because Ravine Clear and Migny in Fond St Jacques are named without mappable precision.
   - No arrests were reported, so no charges or court outcome followed this operation.
 ---

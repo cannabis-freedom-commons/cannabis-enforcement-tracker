@@ -49,7 +49,6 @@ open_questions:
   - The street value of N$250 is a police estimate, not a confirmed sale price.
   - The accused are identified only by age and relationship; no names were published.
   - No court outcome is reported; the couple were due in the Ondangwa Magistrate's Court the next day.
-  - The page image is a generic file picture captioned only with the headline, uploaded in a 2022 folder, so it is not confirmed to show this case and no media entry is included.
   - Only one account of the arrest, based on the police crime report, could be opened.
 ---
 

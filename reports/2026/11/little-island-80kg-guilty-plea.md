@@ -54,7 +54,6 @@ sources:
 open_questions:
   - No sentence had been imposed; sentencing was adjourned to 24 February 2027 and the later outcome is not reported here.
   - The €1.6 million figure is the stated street value for the 80 kilos; the reports do not say who calculated it and no independent weighing is reported.
-  - The pages carry file pictures captioned as file images, which do not establish that they show this seizure, so no media entry is added.
   - The reports give 6 July as the offence date and 2 November 2026 as the guilty-plea hearing; no separate arrest date is stated beyond Han being in custody.
 ---
 

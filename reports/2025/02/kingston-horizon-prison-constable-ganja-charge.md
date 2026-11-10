@@ -39,7 +39,6 @@ open_questions:
   - No weight or plant count for the suspected ganja or tobacco-like matter was published.
   - The incident date is set to Thursday 27 February 2025, inferred from the 28 February 2025 publication date and the report that Campbell was charged on Thursday; the detention around 7:00 am on the previous Friday would then fall on 21 February 2025.
   - No court outcome, plea or trial date beyond the charge was reported.
-  - The submitted page lists one image whose caption only repeats the headline, so it is not tied to the event and no media entry is given.
 ---
 
 District Constable Robert Campbell, 25, from Point Hill in St Catherine was

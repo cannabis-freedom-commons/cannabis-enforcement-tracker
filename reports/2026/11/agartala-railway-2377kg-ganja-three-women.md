@@ -55,8 +55,6 @@ open_questions:
   - The names and ages of the three women were not published, only reported origins in Bihar and Nagaland.
   - No charge, court production or court outcome was reported; the investigation was still under way.
   - Only one accessible source for this event was found after searching in English.
-  - The page title values the seizure at Rs 8,00,000 while the article body values it at about Rs 11,00,000, which the existing report uses; the body figure is retained.
-  - The page includes a photo but its caption and credit do not confirm that it shows this seizure, so no media entry is added.
 ---
 
 Government Railway Police arrested three women at Agartala Railway Station in

@@ -44,7 +44,6 @@ open_questions:
   - Only one opened source was found for this event; no second outlet or agency statement could be opened to corroborate it.
   - No charges, court production or case outcome were reported.
   - No monetary value for the seized cannabis was published.
-  - The page carries a photo captioned “puthoor mukku kanjav” showing the arrested man labelled Sherin, age 31, which does not establish that it shows this seizure, so no media entry is added.
 ---
 
 In Kottarakkara, a joint team of Puthoor police and the Kollam Rural DANSAF

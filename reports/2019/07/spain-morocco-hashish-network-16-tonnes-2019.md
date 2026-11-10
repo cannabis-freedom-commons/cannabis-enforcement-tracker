@@ -53,10 +53,6 @@ sources:
 open_questions:
   - The opened sources do not give a per-province breakdown of the arrests or the seized hashish.
   - No court outcomes for the 23 arrested people were reported in the opened sources.
-  - A photo on the second source page could not be verified as depicting this event, so no media entry was added.
-  - The Telemadrid article reports 7.4 kilos of hashish seized on the Western Sahara-Mauritania border, while the existing report records 7,400 kilos from its other source, and the discrepancy is unresolved.
-  - The article says the final enforcement phase could not be carried out until the previous May but gives no exact date for that phase, while 19 July 2019 remains the operation date used by the existing report.
-  - The page carries a photo captioned with the headline, but the caption and article text do not describe what it depicts, so no media entry was added.
 ---
 
 Spanish and Moroccan police broke up an international hashish trafficking network on 19 July 2019, arresting 23 people in the two countries and seizing 16 tonnes of hashish. [@1] Most of the arrests were in Spain, with one in the Dominican Republic and two in Morocco, in an operation against a ring that hid the drug in lorries run through transport and agricultural import companies. [@1,2,3]

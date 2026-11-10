@@ -49,7 +49,6 @@ open_questions:
   - No weight was published for the several packages of cannabis, so no kilogram figure is recorded.
   - No plea, trial date or court outcome was reported.
   - Only one source, the Observer's account of the police force's statement, could be opened; no second account was found.
-  - The page displays one image credited to the RSCNPF, but its caption does not confirm what it shows, so no media entry is added.
   - The search took place on 26 March 2026 and the article was published on 27 March 2026; 26 March is used as the incident date.
 ---
 

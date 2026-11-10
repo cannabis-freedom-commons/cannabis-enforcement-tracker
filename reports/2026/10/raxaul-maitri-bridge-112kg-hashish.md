@@ -35,7 +35,6 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [raxaul, hashish, nepal-route, ssb]
 open_questions:
   - No independent second outlet could be found; both cited versions come from Ratopati.
-  - The article's lead photograph carries no caption establishing that it shows this seizure, so no media entry was added.
   - The source identifies the Maitri Bridge but does not publish an exact interception coordinate; the map pin is a Raxaul locality reference.
   - Whether the arrested man was remanded or charged in court was not reported.
   - Birgunj City gives Chaudhary's address as Chhapkaiya ward 9 in Birgunj Metropolitan City, while the other accounts name only Chhapkaiya without a ward.

@@ -70,7 +70,6 @@ open_questions:
   - Réunion La 1ère describes the two accomplices as a man and a woman, while LINFO.re describes them as two men; their genders are omitted here.
   - Imaz Press dates the immediate-appearance hearing to Wednesday 27 November, while Réunion La 1ère and LINFO.re give Wednesday 26 November 2025, which this report uses.
   - The weight is given as more than 20 kilos, 20 kilos and 20.1 kg; this report records the precise 20.1 kg figure.
-  - The submitted page's only image is credited as an archive photo and is not established to show this seizure, so no media entry is included.
 ---
 
 The Saint-Denis judicial court tried the defendants by immediate appearance on

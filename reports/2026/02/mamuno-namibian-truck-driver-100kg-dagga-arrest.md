@@ -61,7 +61,6 @@ open_questions:
   - The Namibian reports over 100kg in eight boxes while NBC reports 100 kilograms; 100 is recorded and the higher wording noted.
   - The exact date of the second Gantsi appearance was not given; the NBC page was created on 6 March 2026 and says the next hearing is 12 March.
   - No plea or court outcome beyond remand and the March date was reported.
-  - The submitted page image repeats the headline without confirming it shows the seizure, and the NBC thumbnail has no caption, so no media entry is listed.
 ---
 
 Botswana police intercepted and searched a truck driven by 31-year-old Namibian

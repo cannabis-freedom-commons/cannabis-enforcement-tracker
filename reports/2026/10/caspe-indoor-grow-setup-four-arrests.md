@@ -59,7 +59,6 @@ open_questions:
   - No cannabis plants, harvested cannabis weight, value or growing area were reported, only rooms prepared for cultivation and growing equipment.
   - No names, ages, charges filed or later court outcome were reported beyond the detainees being placed at the disposal of the judicial authorities.
   - Only one outlet account of this event was found, with no independent agency statement located.
-  - Heraldo states its information was disseminated by La COMARCA, the outlet already cited by the existing report, so it is not a fully independent second source.
   - The page's only image is labelled as an archive photo of a Caspe Local Police car, not the farm or seizure, so no event media is added.
 ---
 

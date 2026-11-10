@@ -40,7 +40,6 @@ open_questions:
   - No name, age or nationality was published for the arrested man.
   - No charges, custody outcome or court result were reported; the preliminary inquiry was still under way.
   - Only one accessible source for this 4 November arrest was found after searching in Greek; no second account could be opened.
-  - The page image is a generic police file photo from 2025 with no caption establishing that it shows this seizure, so no media entry is included.
   - A separate 30 October 2026 Xanthi arrest with a knife and cannabis cigarette is recorded in xanthi-knife-cannabis-cigarette-arrest and is a different event, not this one.
 ---
 

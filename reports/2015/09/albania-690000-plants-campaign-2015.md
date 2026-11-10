@@ -45,7 +45,6 @@ sources:
     publisher: OCCRP
     date: 2015-09-18
 open_questions:
-  - No photo confirmed to show this campaign was available, so no media entry was added.
   - Both accounts relay the minister's figures; no independent count of the destroyed crop was published.
 ---
 

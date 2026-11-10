@@ -48,8 +48,6 @@ open_questions:
   - The plantation area is given only as more than three hectares, with about one hectare still to be destroyed.
   - The village of Djabata Kango could not be located on a map; the pin marks the town of Savè.
   - Both outlets describe the same police operation, and Bénin Web TV attributes its account to L'Investigateur and Le Potentiel.
-  - The page's only image is captioned as an illustration of a cannabis plantation at Montserrat credited to Royal Navy / Wikimedia Commons, not this seizure at Djabata Kango, so no media entry is included.
-  - The new account presents all five arrested people as workers present on the site, while the existing report says four were described as labourers; the suspected owners being absent and sought is consistent.
 sources:
   - title: À Savè, 1,7 tonne de cannabis saisie et cinq personnes interpellées
     url: https://beninwebtv.com/a-save-17-tonne-de-cannabis-saisie-et-cinq-personnes-interpellees/

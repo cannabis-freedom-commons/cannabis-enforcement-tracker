@@ -56,7 +56,6 @@ open_questions:
   - The total combined drug value of USD 95,120.86 is omitted from cannabis figures because it mainly reflects methamphetamine; only the separately stated USD 778.36 marijuana value is recorded.
   - The convicted minor's identity was withheld under juvenile protection rules.
   - The accounts do not report other suspects, criminal-group links, or where the internment will be served.
-  - No media entry is included because the Infobae page's usable image is an FGR handout without confirmed visual content of this seizure and its other images are illustrative or unrelated.
 ---
 
 A 16-year-old girl received seven years of internment for unlawful drug

@@ -82,7 +82,6 @@ open_questions:
   - The rendered page body says police produced the accused in court on Saturday before he was sent to jail, but that passage is absent from the saved readable-text capture, so only the headline's account is cited here.
   - Whether 'sent to jail' means judicial custody on remand or another custodial order is not stated, and no charge sheet or further court date is reported.
   - The text gives a weight ("2.45 kg") but the figures have no kg_seized; check whether it belongs there.
-  - The new account says the police team spotted the youth on Saturday, while the existing report dates the arrest to the night of 6 November 2026; whether both describe the same night patrol is not resolved.
   - The new account names the accused with his father's name and gives his home locality; the tracker keeps him as a 29-year-old man and records no personal identifiers.
 ---
 

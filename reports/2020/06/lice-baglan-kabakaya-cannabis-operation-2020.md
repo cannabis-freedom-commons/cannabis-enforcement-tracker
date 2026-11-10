@@ -40,7 +40,6 @@ tags: [lice, diyarbakir, pkk]
 open_questions:
   - The agency account names one arrest while High Times reports two for the same sweep; this report uses the agency figure.
   - No court outcome for the arrested suspect was reported in the opened sources.
-  - No photo verified as showing this operation was recovered with a direct media address, so no media is listed.
 sources:
   - title: More than 7 mln cannabis roots seized in SE Turkey
     publisher: Hürriyet Daily News

@@ -68,10 +68,7 @@ open_questions:
   - The case may be connected to a longer Y5/141 night patrol account published by Hanoi TV, but that page could not be fully opened, so no detail from it is used.
   - The page's poster images belong to news videos and are not established to show the cannabis seized rather than a general bulletin scene.
   - Both the An ninh Thủ đô page and the Hanoi On page are short video bulletins; neither gives a date for the operation, a cannabis weight, a plant count or the total number of people held.
-  - The existing report gives no street; these pages place the stop on Trường Chinh street, but neither says where the house searched is or which ward it is in.
-  - The existing report treats 6 November 2026, the bulletin date, as the incident date; Hanoi On published its version on 5 November 2026 and neither says when the patrol happened.
   - Neither page reports charges or a court step; the case is at the arrest stage.
-  - The submitted page's video is the outlet's own night-patrol video, not confirmed to show the cannabis rather than general patrol footage, and its address had to be read from the page's video markup.
 ---
 
 Hanoi police's Y5/141 task force caught a man holding drugs and weapons at his

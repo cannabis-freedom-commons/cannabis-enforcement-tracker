@@ -95,7 +95,6 @@ open_questions:
   - The weight of the 1,002 rolls was not reported.
   - Whether the three people appeared in court or were formally charged is not established in these accounts.
   - TUKO describes the raid as taking place on 'Thursday, October 30'; 30 October 2026 was a Friday, and KBC and The Star report a Friday operation.
-  - The page embeds four photographs without captions, credits or descriptive alt text, so no image can be verified as showing this raid and no media entry is added.
 ---
 
 Three people were arrested after anti-narcotics officers raided a residential

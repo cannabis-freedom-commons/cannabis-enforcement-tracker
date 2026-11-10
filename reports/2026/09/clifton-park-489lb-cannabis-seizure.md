@@ -68,9 +68,7 @@ open_questions:
   - The stop date of 8 September 2026 comes from the Daily Voice account of Tuesday, Sept. 8; WNYT gives only Tuesday at 2:28 p.m., while Saratoga TODAY says Sept. 15, so 8 September is used as the shared incident date.
   - No cannabis value, packaging description, vehicle details, or independent weighing beyond the sheriff's 489-pound count was published.
   - No court outcome beyond arraignment, remand for Wilbur and release for Carle was reported.
-  - The WNYT page image has an empty caption and alt text, so whether it shows this seizure could not be established and no media entry is added for it.
   - The NEWS10 page provides only a 27-second video title, publication stamp and thumbnail with no article body or transcript, so arrests, charges and the exact 489-pound count are not repeated in the opened text.
-  - The NEWS10 headline rounds the seizure to over 400 pounds while the existing report uses the sheriff's 489-pound count; 489 pounds is used as the shared figure.
 ---
 
 Saratoga County sheriff's deputies arrested Kevin C. Wilbur, 46, of Brushton and

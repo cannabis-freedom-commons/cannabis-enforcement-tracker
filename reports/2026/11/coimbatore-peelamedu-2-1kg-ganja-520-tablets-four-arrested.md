@@ -57,8 +57,6 @@ open_questions:
   - The page shows one undated picture captioned only as 'Latest Tamil News' with no credit, so it is linked rather than used as a cover.
   - The number 25 beside the plastic covers is ambiguous in the Tamil text and is not recorded as a figure.
   - The Dinamani headline and lede say 3 kg of ganja for the two catches combined, but the detailed breakdown gives 2.10 kg plus 500 grams (2.6 kg in total); the headline figure appears rounded.
-  - The article says the Peelamedu patrol was on Friday, while 7 November 2026 was a Saturday; the existing report uses the 7 November publication date as the incident date.
-  - The page's only image is labelled as a file photo, so no media entry is added.
 ---
 
 Peelamedu police in Coimbatore were on patrol at Brindavan Colony in Civil

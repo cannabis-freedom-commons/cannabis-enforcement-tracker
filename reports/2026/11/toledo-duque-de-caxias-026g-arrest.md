@@ -40,7 +40,6 @@ open_questions:
   - Only one accessible source for this event was found after searching in Portuguese.
   - The names and ages of the two men were not published.
   - No formal charge or later court outcome was reported beyond the release on an undertaking to appear.
-  - The page shows a photo beside the text with no caption or credit tying it to this seizure, so no media entry is included.
 ---
 
 Military Police officers approached two men during a patrol in Praça Duque de

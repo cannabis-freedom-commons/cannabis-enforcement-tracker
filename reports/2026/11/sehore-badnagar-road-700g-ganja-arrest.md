@@ -65,7 +65,6 @@ open_questions:
   - The 6,000-rupee figure is the police estimate, not an independently verified market price.
   - No court outcome was reported; the investigation and questioning were still under way.
   - The coordinates are for Sehore town, not the exact field on Badnagar Road, whose precise location was not given.
-  - The MP Media Point page carries a photo without a caption establishing that it shows this seizure, so no media entry from that page is included.
   - No statement published directly by Sehore police could be opened; both accounts attribute the details to Kotwali police.
 ---
 

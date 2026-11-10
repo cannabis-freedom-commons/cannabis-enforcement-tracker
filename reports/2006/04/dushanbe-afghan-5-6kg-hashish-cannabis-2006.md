@@ -43,7 +43,6 @@ open_questions:
   - The report describes four kilograms of the find as cannabis without saying whether it was dried marijuana or another preparation.
   - No charges, court stage or sentence were reported for Amriddin, and the Beknazarov brothers had not been detained.
   - Only one source for this event could be found and opened; no second account in English or Russian was located.
-  - No photo or video of the arrest or seizure was published with the article, only the outlet logo, so no media entry is included.
 ---
 
 Tajik drug police arrested Muhammad Said Amriddin, a 35-year-old citizen of

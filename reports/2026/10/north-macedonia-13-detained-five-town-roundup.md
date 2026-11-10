@@ -50,7 +50,6 @@ open_questions:
   - No charges had been filed and no court dates were reported; the ministry said only that appropriate charges would follow.
   - The detections were made on 30 and 31 October 2026 and published together, with no single date given for the roundup.
   - The only other account found, by 24chasa, repeats the ministry's statement.
-  - The ministry's page carries a close-up of cannabis, white powder and handcuffed wrists captioned with the headline, which does not establish it as a photograph of these arrests, so no media entry is given.
 ---
 
 On 30 and 31 October 2026, police in Skopje, Prilep, Demir Kapija, Bogovinje and

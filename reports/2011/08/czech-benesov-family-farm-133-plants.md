@@ -51,7 +51,6 @@ open_questions:
   - The earlier crop of about twenty plants near Klimětice had already been harvested and is not added to the seized-plant figure, which counts only the 133 seized plants.
   - The village of the parents' farm in the Benešov district was not named, so the place is recorded at district precision.
   - No court outcome was reported beyond the charge and the potential six-month term.
-  - The submitted page's only listed image shows an unrelated US Congress item, so no event photo or video is linked.
 ---
 
 Benešov police charged a young man from the Benešov district with unlawful drug

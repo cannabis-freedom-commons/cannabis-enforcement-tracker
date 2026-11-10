@@ -69,14 +69,6 @@ open_questions:
   - Only one accessible outlet report of this Madan arrest could be opened, so no second source confirms the account.
   - Whether the lead page photo shows this seizure or the arrested man could not be established from its caption.
   - No court outcome after the referral of the arrested accused was reported.
-  - The Jaijaidin page photo is captioned only as ছবি-যাযাদি and is not established to show this seizure, so no media entry is included.
-  - The new account spells the fugitives as এনামুল হক and বজলু মিয়া, rendered in the existing report as Enamul Haque and Bajlu Mia; the transliteration difference does not indicate different people.
-  - This account names the two fugitives as Saju Mia (52) and Faruk Mia (38) of Hasnpur village, while the existing report names them as Enamul Haque and Bajlu Mia; the existing figures and identity of the arrested man are unaffected, but the fugitives' identities need clarification.
-  - The page carries a photo (source_images src https://nagorik.com/wp-content/uploads/2026/11/13-1.jpg, captioned only 13), but no caption or article text confirms it shows this seizure or the arrested man, so no media entry is added.
-  - This account gives the arrest location as Shyamali Road and the time as around 10 pm, while the existing report gives Jahangirpur Mitali Road and around 9:30 pm; the Ward 7, date, person and quantity match.
-  - This account says Madan police chief Mohammad Salah Uddin Karim directly led the raid, while the existing report attributes field leadership to Sub-Inspector Hasanur Rahman; the discrepancy is unresolved.
-  - This account does not mention the two fugitives or the seized cash and drug value recorded in the existing report.
-  - The page carries a lead photo captioned with the same headline, but no caption or article text confirms it shows this seizure or the arrested man, so no media entry is added.
 ---
 
 Madan police arrested 50-year-old Md Golap Mia with 500 grams of ganja in

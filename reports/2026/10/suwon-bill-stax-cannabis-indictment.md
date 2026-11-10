@@ -45,7 +45,6 @@ open_questions:
   - No trial date or outcome has been reported; he was indicted without detention.
   - The dealer's cultivation and jelly-manufacturing case, for which he was indicted in July, is a separate event left out here.
   - No quantities for the cannabis Bill Stax bought or smoked were published.
-  - Both pages carry file or agency photographs rather than pictures of this case, so no media entry is listed.
 ---
 
 ## Indicted without detention

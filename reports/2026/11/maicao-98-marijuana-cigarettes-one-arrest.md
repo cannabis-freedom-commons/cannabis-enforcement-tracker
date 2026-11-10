@@ -51,7 +51,6 @@ open_questions:
   - The article gives no separate date for the operation; 8 November 2026 is its publication date and is used as the incident date.
   - The report does not name the detained man or report charges beyond the suspected offence or any court outcome.
   - Only one accessible account of this event was opened; social-media results repeat the same outlet and add no independent facts.
-  - No media entry is included because the only supplied image is a generic Diario del Norte cover without a caption tying it to this arrest.
 ---
 
 National Police officers captured a 39-year-old man in Maicao, La Guajira, after

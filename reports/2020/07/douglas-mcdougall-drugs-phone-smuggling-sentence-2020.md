@@ -57,7 +57,6 @@ open_questions:
   - The BBC gives the combined sentence as 11 years and 11 months; Isle of Man Today also reports 11 years and 11 months in its July 2020 account but 11 years and seven months in its November 2020 appeal report.
   - Isle of Man Today gives no year for the 250 g cocaine seizure, putting it in January 2018 while the BBC says the arrest was on 24 January 2019.
   - The July and November 2020 publication dates are those of the articles, not of the hearing; the sentence was passed on Friday 3 July 2020.
-  - The BBC page photo is a Getty Images cocaine stock picture, not a photo of this case, so no media entry is included.
   - No separate drug weights for each charge beyond those given were published.
   - The 2020 appeal against the sentence was dismissed in November 2020, which is outside this report's event.
   - The text gives a weight ("10 kg") but the figures have no kg_seized; check whether it belongs there.

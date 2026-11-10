@@ -77,9 +77,6 @@ open_questions:
   - The 13 grams of methamphetamine and 470,500 Fcfp in cash are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - No separate cannabis-only valuation was published; the cash figure is seized cash, not a drug value.
   - The 1.4 kg of leaves is listed without stating that they are cannabis leaves, so no additional cannabis weight is recorded from it.
-  - TNTV calls the 13 g seizure ice while the existing report calls it methamphetamine; the local meaning of ice is left as reported.
-  - The page carries one image captioned only drogue saisie ok, which does not establish that it shows this seizure, so no media entry is included.
-  - The new account explicitly labels the 1.4 kg of leaves as cannabis leaves, while the existing report records only 0.382 kg of herb and leaves the leaves uncounted; whether the cannabis total should now include 1.4 kg needs review.
 ---
 
 Gendarmes assisted by the Faa’a municipal police arrested one person at his

@@ -46,7 +46,6 @@ open_questions:
   - No charge, value or court outcome was reported for the three arrested.
   - It is not stated whether the three were caught selling to a particular buyer, and the sale point within the area is not described.
   - Only one source could be found for this event after searching in Tamil and English.
-  - The page's images are thumbnails of unrelated news videos, so no media is listed.
 ---
 
 Secretariat Colony police in Chennai arrested three men for allegedly selling

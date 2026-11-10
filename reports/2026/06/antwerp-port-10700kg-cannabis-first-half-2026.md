@@ -42,7 +42,6 @@ open_questions:
   - No arrests, charges or court outcomes for these interceptions were reported.
   - The cocaine total from the same review is mentioned only as context and excluded from cannabis figures.
   - Only one accessible source was opened after web search returned no second account of this half-year review.
-  - No event photo could be tied to these seizures; the page's rendered images show unrelated subjects, so no media entry is included.
 ---
 
 The cannabis seizures were made in the port of Antwerp. [@1] Cannabis seizures

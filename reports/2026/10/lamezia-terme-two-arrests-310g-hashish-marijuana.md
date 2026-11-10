@@ -54,7 +54,6 @@ open_questions:
   - The two arrested people are described only as foreign citizens legally present in Italy; no names, ages or further details were published.
   - The hashish amount is given as over 150 grams, so the 0.31 kg cannabis total is a minimum combining that with the stated 160 grams of marijuana.
   - No second account of this operation or agency statement could be opened; the report rests on the single Telemia article.
-  - The page's lead image has empty alt text and no caption establishing that it shows this seizure, so no media entry is added.
 ---
 
 State Police arrested two foreign citizens in flagrante in Lamezia Terme on

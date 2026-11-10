@@ -69,7 +69,6 @@ open_questions:
   - The reports give no separate date for the search or the sentencing hearing; 5 November 2026 is the publication date and is used as the incident date.
   - The hashish weight is given only as almost or just under 100 grams, not an exact weight, and is recorded as 0.1 kg.
   - The pages give no value for the seized hashish and no fine amount was reported.
-  - The submitted page carries a generic stock picture of hashish that its empty caption does not tie to this seizure, so no photo is listed as showing the event.
   - The Canicattì Web Notizie page gives no separate date for the sentencing hearing; 5 November 2026 is the incident date from earlier coverage and this page was published on 8 November 2026.
   - The page describes the escape as jumping across balconies without naming Sambuca, while another outlet places the jump on the balcony of a neighbouring building in Sambuca.
   - The page carries an uncaptioned generic stock picture of a courtroom and a man in handcuffs, with no credit tying it to this case, so no photo is listed.

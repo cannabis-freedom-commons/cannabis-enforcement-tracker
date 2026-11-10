@@ -37,8 +37,6 @@ status: verified
 tags: [indoor-grow, townhouses]
 open_questions:
   - Both opened sources are from the same outlet, so no second outlet's account was checked.
-  - LTN's photos of the seized plants, buds, grow lamps and the magistrates' visit could not
-    have direct image addresses recovered, so no media entries were made.
   - No court outcome for the two arrested men was reported in these sources.
 sources:
   - title: 市價逾5億！嘉義檢警抄1600多株大麻、4公斤大麻花 2嫌送辦

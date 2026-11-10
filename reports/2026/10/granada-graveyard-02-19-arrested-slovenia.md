@@ -211,24 +211,17 @@ open_questions:
   - Only the three Slovenian-origin detainees and the gold valuation are added; the outlet repeats the agency's other figures without independent verification.
   - Portal24 does not say whether any of the four remanded suspects are the detainees of Slovenian origin.
   - The article repeats the Spanish authorities' figures without independent verification and gives no outcome beyond the remand of four suspects.
-  - The Ahora Granada photos of the firearms and the cash reuse the Guardia Civil handout images already linked from the agency's own page, so no new media entry is added.
   - The Infocosta page is credited to the Guardia Civil as its source and repeats the agency's figures without independent verification.
   - COPE's weapons photo is an Europa Press copy of the Guardia Civil handout already linked from the agency's own page.
   - Maribor24 attributes its account to portal 24ur rather than to the Guardia Civil statement directly, so its figures repeat the authorities' account without independent verification.
-  - N1 spells the second search town as Almuñacar while the existing report uses Almuñécar; the place is the same Almuñécar in Granada.
-  - N1 repeats the Spanish police figures without independent verification and gives no operation name; Graveyard 02 comes from the existing report's agency sources.
   - N1 reports the court ordered detention for four suspects but does not say which court or whether any are the Slovenian-origin detainees.
   - The Slovenian portal does not say whether any of the four remanded suspects are the three Slovenians detained, nor what role the three had in the network.
   - It repeats the Spanish authorities' figures without independent verification and gives no Slovenian court or police step linked to the case.
-  - Its page photos are Guardia Civil handout images already listed from the agency's own page, so no separate media entry is added.
-  - The Headliner.nl page is an aggregator reprint of a Crime-Nieuws.nl text and describes the cannabis as 181 kilograms of dried cannabis plus 805 grams of hashish, which the existing report records as 181 kg of marijuana and 0.805 kg of hashish.
   - The page gives no new detail on the role of the three Slovenian detainees or on whether any of them is among the four remanded suspects.
   - The opened capture contains only the opening lines and the heading 'Doce registros en Granada y su provincia'; it gives no drug quantities, seizure towns beyond Granada province, or raid dates beyond the operation name.
-  - The capture gives only the publication context ('2 dia(s)' with a 2026-11-08 page render); the incident date of 23-24 October 2026 is taken from the existing report's agency sources.
   - Lokalec.si attributes its account to the Slovenian outlet N1 rather than to the Guardia Civil statement directly, so it is not independent reporting.
   - The article does not name the Guardia Civil as the acting force or give the operation name Graveyard 02.
   - The article does not say whether any of the four remanded suspects are among the three detainees of Slovenian origin, nor what role the Slovenians had in the network.
-  - The submitted page's lead picture is captioned as a symbolic Pixabay image, so no media entry is added.
 ---
 
 Spain's Guardia Civil said it had dismantled a criminal organisation that grew,

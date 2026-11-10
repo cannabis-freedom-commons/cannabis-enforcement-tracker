@@ -71,9 +71,7 @@ open_questions:
   - No separate cannabis-only valuation was published; the figure of about 5 million zloty covers all seized drugs together and is therefore excluded from figures.
   - No separate dates for the individual detentions were published; the arrests were made successively over recent months, so 4 November 2026, the common publication date, is used as the incident date.
   - The charge description refers to trafficking of no less than 300 kg while the reported seized total is nearly 100 kg, and the sources do not explain the difference.
-  - The submitted page image repeats the headline as its caption and does not establish what it depicts, and no direct address for the police video could be recovered, so no media entry is included.
   - The text gives a weight ("100 kg") but the figures have no kg_seized; check whether it belongs there.
-  - The Eska page's only image shows a generic silver police patrol car and does not depict this seizure, so no media entry is added.
 media:
   - kind: photo
     url: https://informacje.wp.pl/wiadomosci/potezne-uderzenie-w-narkobiznes-na-lubelszczyznie-100-kg-narkotykow-warte-5-mln-zl-pseudokibice-motoru-zatrzymani-7347328174315968a

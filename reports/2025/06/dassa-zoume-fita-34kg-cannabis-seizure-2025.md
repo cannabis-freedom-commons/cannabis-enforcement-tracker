@@ -51,7 +51,6 @@ sources:
 open_questions:
   - No arrest, charge or court outcome was reported; the two suspects were still being sought when the articles were published.
   - Matin Libre spells the drug agency acronym ORCERTID while the other accounts give OCERTID; the report uses OCERTID.
-  - The submitted page carries only a generic Société section image, so no event photo is listed.
 ---
 
 Officers from the central Dassa-Zoumè district police station stopped a cannabis

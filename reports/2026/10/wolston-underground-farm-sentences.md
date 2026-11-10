@@ -49,8 +49,6 @@ open_questions:
   - The three bailed Coventry men aged 42, 43 and 63 were not further described in the sentencing coverage opened.
   - The Warwickshire World account is an SWNS wire report, so it is not independent of other outlets that carried the same copy.
   - The page mentions police bodycam footage of the search but carries no video, so no footage is linked.
-  - The submitted page gives its publication date of 2 November 2026 and no separate day for the sentencing; the 26 October 2026 sentencing date rests on the existing report's earlier sources.
-  - The Daily Mail gives the raid date as August 19 without a year; the year 2026 rests on its 29 October 2026 publication date and the existing report's earlier sources.
 sources:
   - title: "Men jailed over underground cannabis production in Warwickshire"
     url: https://www.bbc.com/news/articles/crkg710lg0q9o

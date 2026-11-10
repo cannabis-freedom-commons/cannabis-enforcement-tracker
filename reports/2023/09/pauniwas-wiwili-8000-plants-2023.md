@@ -74,7 +74,6 @@ open_questions:
   - Neither account reports charges, a custody ruling or a court outcome after the two men were handed to the authorities.
   - The army's 20,000 plants and six detainees for the preceding 12 days are a running total of several operations and are not counted in this report's figures.
   - The only accounts found are the army's own note, carried by El 19 Digital, and an EFE wire story based on the same statement; no independent reporting was found.
-  - The submitted page carries a 2026 site header and current news links, while the article's own date is 11 September 2023 and the note itself is dated that day.
   - No mapping of the community of Pauniwás was published in the sources, so the coordinates are those of the Wiwilí de Jinotega municipal centre rather than the plot.
   - 'Left out, as its quotation was not found in El 19 Digital: The army carried out the operation under the state strategy Muro de Contención, or Containment Wall, and said the COVID-19 protection measures ordered by the Health Ministry, MINSA, were followed during the seizure and burning.'
 ---

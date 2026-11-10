@@ -42,7 +42,6 @@ open_questions:
   - The driver was accused of 'conduite sous cannabis' but no test result, substance quantity or laboratory analysis was published.
   - No charge, court date, plea or outcome beyond the garde à vue was reported, and the article does not say how the custody ended.
   - The roundup also reports a driver stopped at 146 km/h near Écueillé, seven uninsured drivers and a driver positive for cocaine; those are separate offences in the same checks and are not counted as cannabis figures here.
-  - The page photo is captioned as an illustration and does not show this arrest, so no media entry is listed.
   - Only one source about this event was found, so no second account confirms the details.
 ---
 

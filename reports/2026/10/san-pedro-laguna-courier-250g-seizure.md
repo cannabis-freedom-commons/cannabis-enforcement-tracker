@@ -44,9 +44,7 @@ open_questions:
   - Investigators had not identified senders, recipients or destinations when the reports were published.
   - No arrests or criminal charges had been announced.
   - The report says the dog alerted handlers to packages bound for shipment; the Daily Tribune and Abante Tonite accounts say only that a K9-assisted inspection was conducted and do not describe an alert.
-  - The submitted page is the AMP edition of the Daily Tribune article already cited in the report, so it is the same account rather than independent corroboration.
   - Abante Tonite describes the haul as worth more than PHP 30,000, while the Daily Tribune says approximately PHP 30,000; the report keeps the approximate figure.
-  - The Inquirer places the courier hub in San Pablo City, Laguna, while the Daily Tribune and Abante Tonite accounts cited in the existing report place it in Barangay San Vicente, San Pedro City; the report keeps San Pedro City.
 sources:
   - title: Drug-sniffing dog uncovers marijuana shipment in Laguna
     url: https://tribune.net.ph/2026/10/31/drug-sniffing-dog-uncovers-marijuana-shipment-in-laguna

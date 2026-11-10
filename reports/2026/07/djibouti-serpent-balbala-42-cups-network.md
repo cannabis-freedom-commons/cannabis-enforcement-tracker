@@ -43,7 +43,6 @@ open_questions:
   - The value is reported as more than 800,000 Djiboutian francs; 800,000 is recorded as the stated lower bound of the police estimate.
   - No names, charges or later court outcome were reported.
   - No second independent account of this operation was found; the later August Balbala gendarmerie seizure is a separate event.
-  - The page carries a photo whose alt text only repeats the headline and has no caption establishing that it shows this seizure, so no media entry is included.
 ---
 
 Djibouti's National Police narcotics brigade dismantled a suspected

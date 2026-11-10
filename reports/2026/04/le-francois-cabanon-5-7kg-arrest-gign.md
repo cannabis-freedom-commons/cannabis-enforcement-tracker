@@ -64,8 +64,6 @@ open_questions:
   - The sources say more than 5.7 kg of cannabis herb was seized but give no valuation or plant count.
   - No outcome of the 18 May hearing is reported.
   - Both outlets carry the same gendarmerie handout photograph, listed once from the La 1ère page.
-  - France-Antilles gives the weight as exactly 5,700 kilos while the existing report records more than 5.7 kg from the other outlets; the report keeps more than 5.7 kg.
-  - France-Antilles lists the drug charge as possession (détention de stupéfiants) while the existing report lists detention and transport from the other outlets.
   - France-Antilles states the man had already been convicted, a prior-conviction detail absent from the existing account.
 ---
 

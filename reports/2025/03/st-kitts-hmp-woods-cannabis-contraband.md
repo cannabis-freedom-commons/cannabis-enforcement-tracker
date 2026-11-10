@@ -65,7 +65,6 @@ open_questions:
   - Only the brief police statement describes what was seized; the outlets say the material was confirmed as cannabis and tobacco but give no further detail.
   - The SKNVibes account lists earlier contraband cases at the same prison, which are separate events left out here.
   - The prison's exact street address is not given; coordinates are for Basseterre town centre.
-  - The photos on the article pages are portrait-style images of the accused, so no media entry is included.
 ---
 
 Meldesha Woods of Stapleton Village, St Kitts, was charged with conveying

@@ -87,7 +87,6 @@ open_questions:
   - No arrests were reported, and the driver who fled had not been identified when the reports were published.
   - The value is the authorities' own estimate, given in the Spanish reports as more than 1,297 million pesos.
   - The two photographs hosted on argentina.gob.ar were published without captions or a named photographer.
-  - The only image on the submitted page is described as an AI-generated illustrative image, so no event photo can be linked from this source.
   - The article also describes a separate 3 August seizure of more than 236 kg in San Javier, which is a different event left out of this report.
   - Elonce gives no separate date for the operation; 30 October 2026 is its publication date, and the tracker report uses the 29 October publication date of the earliest account.
   - The photographs published by Elonce carry no credit line, so it is not stated whether they are Prefectura handouts.

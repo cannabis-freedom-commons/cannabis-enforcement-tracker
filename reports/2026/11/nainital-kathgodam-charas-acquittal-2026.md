@@ -55,7 +55,6 @@ open_questions:
   - The Amar Ujala account gives no weight, while the other two accounts put the claimed recovery at about 1 kg; this is an approximate total, not an amount apportioned between the two men.
   - The date and cause of Mohammed Kamil's death were not reported; the accounts state only that proceedings against him were closed on 6 December 2022.
   - The sources do not report an appeal or later court action after Hussain's acquittal.
-  - The submitted page's displayed image is not established to show the stop, alleged recovery or court proceedings, so no media link is included.
 ---
 
 Munawwar Hussain was acquitted by Nainital's special NDPS court in a nearly

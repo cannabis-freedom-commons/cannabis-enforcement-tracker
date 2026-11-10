@@ -61,7 +61,6 @@ open_questions:
   - VRT NWS and The Brussels Times report a female resident got outside in time, while TVL wrote that nobody was home when the fire broke out; the report keeps both accounts without resolving them.
   - No arrests, charges, or court outcome had been reported at publication time.
   - The submitted HBVL page is a video page carrying only the title and publication timestamp, so the fuller account comes from the corroborating outlets.
-  - No photograph or video confirmed by caption to show this fire or plantation was recovered, so no media entry is added.
 ---
 
 The fire occurred on Saturday 7 November 2026. [@5] Around 3:30 that morning, a

@@ -48,7 +48,6 @@ open_questions:
   - The agency had raided the same reserve on 11 June 2015 and destroyed 24 hectares, a separate phase left out of this report's figures.
   - No arrests, seizures by weight, or court outcomes were reported for the operation.
   - The 2,000 hectares is the commander's estimate of the possible extent of planting, not an area destroyed.
-  - No photo could be confirmed to show this operation, so no media entry was added.
 ---
 
 Nigeria's National Drug Law Enforcement Agency (NDLEA) destroyed a 43-hectare cannabis plantation at the Seriki Gambari Forest Reserve in Oluyole Local Government Area of Oyo State on Thursday 18 June 2015. [@1] The state commander, Mrs Faboyede Omolade, announced the exercise to journalists at the reserve. [@1] Operatives came from the NDLEA, the Nigeria Police, the Nigeria Security and Civil Defence Corps, the Department of State Security Services and the Oyo State Ministry of Natural Resources and Forest Reserve. [@1]

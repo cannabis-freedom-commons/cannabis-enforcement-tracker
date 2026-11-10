@@ -42,7 +42,6 @@ open_questions:
   - Bonner first said he had 8 grams of marijuana, while the officer reported a field weight of 11.1 grams; the report uses 11.1 grams.
   - The Third Judicial District Court bench warrant for possession with intent to distribute a Schedule I drug does not name the substance, so it is not counted as cannabis.
   - No court outcome or further prosecution result was reported.
-  - The page carries a suspect booking-style image and advertising banners whose captions do not establish that they show the seizure, so no media entry is listed.
 ---
 
 Ruston Police Department officers arrested 24-year-old Ja’laen Bonner of Ruston

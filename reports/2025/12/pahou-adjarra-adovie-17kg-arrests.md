@@ -50,7 +50,6 @@ open_questions:
   - The cannabis weight is given only as more than 17 kilograms, so 17 kg is recorded as the stated lower bound.
   - The names, ages and alleged charges of the three detainees were not published.
   - No court outcome was reported; presentation to the judicial authorities was still expected.
-  - The page photo shows a generic Republican Police vehicle and is not established to show this seizure, so no media entry is included.
   - A linked item about a separate cannabis seizure at Kétou is a different event left out here.
 ---
 

@@ -64,11 +64,6 @@ media:
     media_url: https://losbonaerenses.com.ar/wp-content/uploads/2026/10/Parada-Robles-drogas-27-octubre-2026-1.jpeg
     publisher: Los Bonaerenses
     caption: "Marijuana bags, jars and packaging equipment laid out with Buenos Aires Province Police placards. Photo: Los Bonaerenses"
-open_questions:
-  - The Crónica article gives no separate date for the two raids; 3 November 2026 is its publication date, while the existing report dates the operation to 26 October 2026.
-  - The new account reports the cocaine seizure as 39 doses while the existing report records 35 g, a difference in reporting units that leaves the cocaine figure unresolved and is excluded from cannabis figures.
-  - The new account states the file was opened on 22 June without naming the year, so 2026 is retained from the existing report's earlier sources.
-  - The Crónica page carries a photo captioned as one of the apprehended individuals, which without a credit or a shown seizure, raid or cultivation site is not established to show the event itself, so no media entry is included.
 ---
 
 Buenos Aires provincial police seized 575 kg of marijuana plants and buds in two simultaneous raids

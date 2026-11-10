@@ -59,8 +59,6 @@ open_questions:
   - The statement does not say whether the 1.20 kg of cannabis was weighed separately from the seven parcels of synthetic-cannabis chemicals, and those chemical weights, including 28.65 kg in total, are left out of cannabis figures.
   - The statement does not say who the consignment's recipient was, whether that person was identified, or the sender's name.
   - No charges or court outcome were reported for either of the two men arrested.
-  - The submitted page's only image shows the unrelated cocaine suspect, so no media entry is added.
-  - The submitted page's other cannabis results (Houston 16.15 kg Loud, UK courier 22.2 kg, Ondo 1,818 kg and 242 kg, Ekiti 216 kg, Edo 201 kg, Taraba 226.255 kg, Enugu 22.5 kg, Delta 10.54 kg and 6.07 kg in Apapa) are separate events recorded in their own reports.
 ---
 
 Officers of Nigeria's National Drug Law Enforcement Agency (NDLEA) intercepted a

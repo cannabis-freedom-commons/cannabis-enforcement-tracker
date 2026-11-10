@@ -55,7 +55,6 @@ sources:
 open_questions:
   - No court outcome beyond the reported charges and handover to Sakhu investigators was published in the opened sources.
   - No separate cannabis-only value was published in the opened sources; only a possible fine of up to four times the seized goods' value was mentioned.
-  - 'No media entry is included: the submitted page''s image is a Shutterstock stock photo, and no event photo with a recoverable direct absolute address and confirming caption could be established from the opened pages.'
   - The sources give the detainee's name as Salma E.K. and as Salma El Khnati, and the full form is not resolved.
 ---
 

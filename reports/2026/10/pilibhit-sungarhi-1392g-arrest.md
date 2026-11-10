@@ -47,7 +47,6 @@ open_questions:
   - No second report of this arrest could be found, so the account rests on a single opened source.
   - No street value for the seized ganja was published.
   - Whether the named supplier Tarun Jaiswal was arrested, charged or questioned was not reported.
-  - The only image on the source page appears to be a template graphic repeating the headline, so no event photo is established and no media entry is included.
 ---
 
 Sungarhi police in Pilibhit arrested Anil Verma, a resident of Barha village in

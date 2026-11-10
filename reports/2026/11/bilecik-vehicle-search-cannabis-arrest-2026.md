@@ -58,9 +58,6 @@ open_questions:
   - No name, age or other identifying details for the detained suspect were published.
   - No formal charge, custody decision or court outcome beyond the initial detention allegation was reported.
   - Only one accessible source for this event was found after searching in Turkish and English.
-  - The new account describes the offences as buying, accepting or possessing narcotics without the existing report's for-personal-use qualifier, leaving the precise legal characterisation open.
-  - The Son Dakika page carries a photo captioned with the same headline, which does not by itself establish that it shows this seizure, so no additional media entry is added.
-  - The Yarin11 page carries images captioned only with the same headline, which does not by itself establish that they show this seizure, so no additional media entry is added.
 ---
 
 Bilecik Provincial Police Directorate's Narcotic Crimes Combat Branch, known in

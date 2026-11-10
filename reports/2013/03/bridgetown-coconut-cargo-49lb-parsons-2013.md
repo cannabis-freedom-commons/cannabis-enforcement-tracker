@@ -56,7 +56,6 @@ open_questions:
   - The 22.2 kg figure is a conversion of the stated 49 pounds, not a laboratory weight.
   - The accounts do not make clear whether the charged 49 pounds were weighed from the packages in the coconut consignment, and TrakkerNews differs from Searchlight on whether the Drug Squad or customs officers made the seizure.
   - No sentencing or later court outcome for Parsons was found in the sources opened.
-  - 'Neither opened page carries a photo of the seizure: the Searchlight page image has no caption or credit, and the TrakkerNews picture is a file illustration reused on other drug stories, so no media entry is recorded.'
   - Only two accounts of the event were found; both appear to draw on the Royal Barbados Police press release.
 ---
 

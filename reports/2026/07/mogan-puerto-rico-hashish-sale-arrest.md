@@ -47,7 +47,6 @@ open_questions:
   - No charge, custody decision or court outcome beyond referral to San Bartolomé de Tirajana was reported; the person retains the presumption of innocence.
   - The hashish weight is approximate and awaits laboratory analysis, so 0.002 kg is recorded as stated.
   - The 110 euros in cash is reported as possibly linked to the activity, not as a drug value, and is therefore excluded from cannabis figures.
-  - The page's only image is captioned as a file photo of a Guardia Civil car and does not show this event, so no media entry is included.
 ---
 
 The Guardia Civil detained one person in the municipality of Mogán for alleged

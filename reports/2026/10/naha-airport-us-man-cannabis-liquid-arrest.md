@@ -51,7 +51,6 @@ sources:
     language: ja
 open_questions:
   - Only one opened source supports this event; searches for a second account or agency statement found nothing to open.
-  - The page's only image is captioned as a file photo of Naha Airport and does not show the seizure, so no media entry is included.
   - The 1.24 grams of tablets containing stimulants are a separate non-cannabis substance and are excluded from cannabis figures.
   - No court outcome beyond referral to the Naha District Public Prosecutors Office was reported.
   - The submitted 47NEWS page carries only the opening extract of the Ryukyu Shimpo article, so it adds no facts beyond the arrest, the 17 October import allegation and the 1.87 grams.

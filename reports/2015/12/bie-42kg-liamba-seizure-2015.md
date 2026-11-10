@@ -39,7 +39,6 @@ sources:
 open_questions:
   - The article gives no separate date for the seizure; 27 December 2015 is its publication date and is used as the incident date, with the event described only as happening that week.
   - No arrests, charges or court outcome for the cannabis seizure were reported.
-  - The page photo is an older July 2014 image captioned only as Polícia Nacional and is not established to show this seizure, so no media entry is included.
   - The same article also reports separate non-cannabis results, including aguardente sites, firearms and a robbery group, which are left out of the cannabis figures here.
   - Only one accessible source for this event was found after searching in Portuguese.
 ---

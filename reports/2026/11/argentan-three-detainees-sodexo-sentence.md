@@ -44,7 +44,6 @@ open_questions:
   - The distribution of the twelve- and eighteen-month terms among the three detainees is not specified in the accessible text, so the prison figure preserves the source wording without attribution.
   - No cannabis-only weight is given; the 17 to 35 kg refers to combined stupefiants and is therefore omitted from kg_seized.
   - The 18,000 euros refers to the agent's proceeds from the overall trafficking including non-drug contraband and is not listed as cannabis value.
-  - The page carries only an archive photo credited as archives, which does not establish that it shows this event, so no media entry is added.
   - Only one accessible source was found; web search returned no second account and the linked earlier report on the provider could not be opened.
   - Whether the 37-year-old Sodexo agent received a separate sentence is not stated in the accessible text.
   - The text gives a weight ("35 kg") but the figures have no kg_seized; check whether it belongs there.

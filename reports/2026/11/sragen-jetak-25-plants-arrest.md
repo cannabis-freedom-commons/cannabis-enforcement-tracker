@@ -116,19 +116,13 @@ open_questions:
   - No court outcome beyond the charge and the possible death penalty was reported.
   - The page carries two near-identical photos of the same seized plants; only one is listed as media.
   - The page also embeds an unrelated video thumbnail that does not show this event and is omitted.
-  - Kompas says the plants were 4 to 6 months old, while the existing report says 4 to 5 months; the report uses the earlier account and the difference is noted here.
   - The new 5 kg figure is the police-calculated weight of the 25 live plants, distinct from the 15.8 grams of dried cannabis, and is not added to kg_seized without a dried-weight conversion.
   - The article also reports a separate October 2026 Sragen total of 9 cases with 12 suspects involving methamphetamine, psychotropics and list-G drugs, a different enforcement total left out of this cannabis report.
   - The page's second thumbnail about a Jakarta drug raid does not show this event and is omitted from media.
   - The new account estimates about 2.5 kg with a value of tens of millions of rupiah under Rp100 million, differing from the 5 kg and Rp250 million figure already recorded from another outlet; the report keeps the earlier figures.
   - The new account gives no separate raid date beyond an October 2026 operation and a 4 November 2026 police display, so the incident date remains the recorded display date.
-  - This account gives the arrest time as around 18.00 on 24 October 2026, while the existing report records 20.30 from another account of the same search.
-  - The page's two photos of the seized plants appear to show the same police display already listed in the existing report's media, so no new media entry is added.
-  - This account reports 26 plants, while the existing report records 25 plants with one outlet reporting 29 and figures recording 29, so the earlier figures are retained.
   - This account estimates about 2-2.5 kilograms with a potential value of about Rp250 million, differing from the 5 kilograms with a Rp250 million value already recorded, so the earlier figures are retained.
   - This account gives only the 4 November 2026 police display date and no separate search date, so the recorded 24 October 2026 search and 4 November 2026 display dates are unchanged.
-  - This account says the seeds came from an Aceh man met in Mangkunegaran, Solo during an entertainment event without naming him, while the existing report names the giver as Juan, and that naming difference is unresolved.
-  - The single photo on the VIVA Jogja page appears to show the same Sragen police display of the seized plants already listed from other outlets, so no new media entry was added.
   - This account counts 25 cannabis plants and gives no dried-cannabis weight, while the existing figures record 29 plants and 15.8 grams from other outlets.
   - This account gives no separate search or arrest date; it quotes the police chief speaking on Wednesday 4 November 2026 and was published on 5 November 2026, when the police press conference took place.
   - Police gave the plants' value only as a range of tens to hundreds of millions of rupiah, so no single value can be recorded.
@@ -136,10 +130,8 @@ open_questions:
   - No court outcome was reported; police said the case would be updated as it develops.
   - This account gives no separate search or arrest date beyond its 7 November 2026 publication; the recorded 24 October 2026 search and 4 November 2026 display dates come from earlier accounts.
   - This account names only Sidoharjo district and does not name Jetak village or the Dukuh Jetak Tani address recorded from earlier accounts.
-  - The page's photo of the displayed 29 plants appears to show the same Sragen police display already listed from other outlets, so no new media entry is added.
   - This outlet's fuller article text gives slightly different figure details from those already recorded, so the earlier figures are retained.
   - This account gives no separate search or arrest date, only the 4 November 2026 press conference, so the recorded 24 October 2026 search date is unchanged.
-  - The page's photo of officers displaying the seized plants appears to show the same Sragen police display already listed from other outlets, so no new media entry is added.
 ---
 
 Police in Sragen detained a man from Jetak village in Sidoharjo after finding 25

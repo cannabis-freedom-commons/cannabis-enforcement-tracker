@@ -56,7 +56,6 @@ sources:
     language: es
 open_questions:
   - No weight was published for the 15 packets, so no cannabis quantity in kilograms can be recorded.
-  - No separate incident date was published; 7 November 2026 is the submitted page's publication date and is used as the incident date, while the second outlet published the same event on 6 November 2026.
   - No charges, custody ruling or court outcome beyond referral to the corresponding authorities were reported.
   - No laboratory confirmation or value estimate for the suspected marijuana was published; the 230 pesos is seized cash, not a drug value.
   - The Sergio Valle page carries an image whose caption does not establish that it shows this seizure, so only the Nuevo día photo is listed as media.

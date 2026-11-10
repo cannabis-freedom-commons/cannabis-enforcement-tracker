@@ -85,11 +85,6 @@ open_questions:
   - The Sinaloahoy account names Pueblo Nuevo, Sinaloa, without naming Elota municipality; the Elota attribution comes from the earlier sources.
   - The Sinaloahoy account gives only more than seven kilograms with no exact weight above seven kilograms.
   - The Sinaloahoy account does not report detentions or any later investigative outcome.
-  - This account was published on 2 November 2026 while the existing report is dated 1 November 2026, and it describes the patrols only as occurring in recent days with no separate incident date.
-  - This account names Pueblo Nuevo, Sinaloa, without naming Elota municipality; the Elota attribution rests on the earlier sources cited in the existing report.
-  - This Sinaloahoy account locates Pueblo Nuevo in the municipality of Mazatlán and says the seizure occurred during the morning of 1 November, while the existing report places the same seizure in Pueblo Nuevo, Elota, so the correct municipality attribution remains unresolved.
-  - This account reports approximately 7 kilograms, while the existing report records more than seven kilograms, so the exact weight remains unresolved.
-  - This account locates Pueblo Nuevo in the municipality of Mazatlán, while the existing report places the seizure in Pueblo Nuevo, Elota, so the correct municipality attribution remains unresolved.
 ---
 
 Mexico's Navy found a bag of suspected marijuana while patrolling the community

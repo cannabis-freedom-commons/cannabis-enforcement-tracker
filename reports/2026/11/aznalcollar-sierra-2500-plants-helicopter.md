@@ -244,29 +244,14 @@ open_questions:
   - The event photo carries no credit identifying whether it is a Guardia Civil handout.
   - The La Noción page displays a photograph filed as 311026_complejo_marihuana_5.jpg with only the generic alt text Foto de la noticia and no credit, so it was not added as a confirmed distinct event photo.
   - The El Pespunte page carries four additional images without captions or credits, so they could not be confirmed as distinct event photos.
-  - The five images on the 21Noticias page carry empty captions and attributions, so none could be confirmed as showing this event and no media entry was added.
   - This EFE version names only Sevilla province, not Aznalcóllar, so the Aznalcóllar locality rests on the existing sources.
   - This version confirms prison without bail but does not name the Sanlúcar la Mayor courts, so that court detail rests on the existing sources.
-  - The submitted page shows only unrelated sidebar images and no confirmed event photo, so no media entry is added.
-  - The OKDIARIO page displays one image captioned as the Aznalcóllar complex without a credit, which could not be confirmed as distinct from the agency handout images already archived, so no media entry was added.
-  - The Sevilla Actualidad image file named marihuana.jpg carries no caption or credit confirming it shows this Aznalcóllar operation, so no media entry is added.
-  - This account headlines the plants as up to two metres tall, while the existing report describes some as more than two metres tall.
-  - The three 20minutos images are credited in captions to the Guardia Civil and appear to repeat the agency handout already archived, so no distinct media entry is added.
-  - The article gives no separate date for the raid; 4 November 2026 is its publication date and is used as the incident date in the existing report.
   - This account names only a mountain zone in Sevilla province, not Aznalcóllar, so that locality rests on the existing sources.
   - This account confirms prison without bail but does not name the Sanlúcar la Mayor courts, so that court detail rests on the existing sources.
-  - The page's Guardia Civil-credited photo and embedded video appear to repeat the agency handout already archived, so no distinct media entry is added.
-  - The page's Guardia Civil-credited plantation photo appears to repeat the agency handout already archived, so no distinct media entry is added.
-  - The Notimérica image of an agent beside the hillside crop appears to repeat the Guardia Civil handout already archived via Europa Press, so no distinct media entry is added.
   - This Serbian account repeats a Guardia Civil communiqué and does not give a separate date for the raid, so it offers no independent confirmation of the operation date.
-  - The Serbian text describes the water source simply as a nearby river, while the existing report relies on a nearby watercourse, so the two wordings are not distinguished here.
   - The two event photographs on this page (an aerial view of the hillside plots and an agent walking beside the crop) match the Guardia Civil handout already linked in the report and were not added as distinct media.
   - 'Left out, as its quotation was not found in Novosti.rs: Each growing area had its own irrigation system despite the steep slope and lack of conventional connections'
   - 'Left out, as its quotation was not found in Novosti.rs: The crops were spread in several production areas over different slopes and linked by a network of paths built by those running the site'
-  - 5 November 2026 is this account's publication date; the incident date remains the 4 November 2026 announcement date used in the existing report.
-  - The page's aerial plantation image credited to the Guardia Civil appears to repeat the agency handout already archived in the existing report, so no distinct media entry is added.
-  - 7 November 2026 is this account's publication date; the incident date remains the 4 November 2026 announcement date used in the existing report.
-  - 'The page''s plantation photo captioned Plantación de marihuana (Foto: Guardia Civil) appears to repeat the Guardia Civil handout already archived in the existing report, so no distinct media entry is added.'
 ---
 
 After a months-long investigation, the Guardia Civil dismantled a hidden

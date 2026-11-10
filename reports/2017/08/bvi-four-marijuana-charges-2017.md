@@ -42,7 +42,6 @@ open_questions:
   - For O’Neal and Dore the blotter entries specify unlawful possession of a controlled drug without naming marijuana, though the article presents all four cases as marijuana-related.
   - No outcomes of the September and October 2017 Magistrate’s Court appearances were reported.
   - Only one accessible source for this event was found after searching, so no second account confirms the details.
-  - The page image is explicitly captioned as a file photo that does not show the marijuana in the story, so no media entry is included.
 ---
 
 Two men from Virgin Gorda and two from Tortola were arrested and charged over

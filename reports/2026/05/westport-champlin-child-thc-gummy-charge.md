@@ -37,7 +37,6 @@ open_questions:
   - No weight or THC content was published for the gummy, so no cannabis-weight figure can be recorded.
   - No outcome of the scheduled 29 May arraignment or later court proceedings was reported.
   - Only one accessible account of the arrest was found after searching for a second report.
-  - The page’s image is a portrait captioned as Kimberly Champlin, not a photograph of the gummy or the enforcement event, so no media entry is included.
 ---
 
 Connecticut State troopers arrested Champlin on Tuesday. [@1] They transferred

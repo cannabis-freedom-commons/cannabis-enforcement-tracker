@@ -62,7 +62,6 @@ open_questions:
   - One account lists three mobile phones among the seized items while the other lists an electric vehicle; it is unclear whether both were seized.
   - No charges, custody ruling or court outcome were reported; a police case was registered and the investigation was continuing.
   - No cannabis-only valuation was published; the cash, gold and silver figures are separate seizures, not a drug value.
-  - The new account reports 20.8 kg of ganja while the existing report records 21 kg, likely rounding, so the existing figure is retained.
   - The OrissaPOST page labels its only relevant image as Representational Image, so no new event photo from this source is added.
 ---
 

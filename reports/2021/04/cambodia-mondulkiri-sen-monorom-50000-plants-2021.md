@@ -53,7 +53,6 @@ open_questions:
   - The area is given only as 'more than one hectare', so one hectare is recorded as the stated area.
   - The owner is described only as a man who fled; his name, whether he was arrested or charged, and any court outcome are not reported.
   - The five years in prison is the maximum penalty the charge could carry, not a sentence imposed, and is not recorded as a figure.
-  - The page image is captioned as a file photo credited to DAP News, not as a picture of this raid, so no media entry is added.
 ---
 
 Police in Mondulkiri province destroyed a marijuana plantation of more than one

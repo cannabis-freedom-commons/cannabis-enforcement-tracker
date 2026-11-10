@@ -54,9 +54,7 @@ open_questions:
   - The $400,000 is a bond amount, not a fine, and is not recorded in figures.
   - The charges remain allegations; no outcome beyond the November 19 court date was reported.
   - Only one accessible source for this event was found after searching in English.
-  - The page's only image is a Shutterstock stock photo, so no media entry is included.
   - Other tickets and arrests from the same enforcement effort are separate events left out of this report.
-  - The WFSB article says Franklin is held on a one million dollar bond, while the existing report says he was held on a $400,000 bond; the discrepancy is unresolved.
 ---
 
 Meriden police arrested 37-year-old Sherrod Franklin of West Haven on drug and

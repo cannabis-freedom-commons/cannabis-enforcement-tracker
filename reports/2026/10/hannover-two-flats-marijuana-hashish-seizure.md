@@ -76,7 +76,6 @@ open_questions:
   - Whether the lead photo of cannabis in a cupboard shows this seizure beyond its caption could not be independently established.
   - The Nord24 account gives no street value, so the existing about 300,000 euros estimate continues to rely on the Zollfahndungsamt statement alone.
   - The first Nord24 photo credited to Zoll appears to show the same agency handout already listed from Presseportal, so only the distinct cash-seizure photo is listed here.
-  - 'The page''s only image is labelled Fot: Pixabay / zdjęcie poglądowe, an illustrative stock photo, so no media entry is added.'
   - 'Left out, as its quotation was not found in Trybuna Polska: The case began when Giessen customs officers found more than ten kilograms of marijuana in a postal parcel in July addressed to the 59-year-old from Hanover, leading to the October searches.'
 ---
 

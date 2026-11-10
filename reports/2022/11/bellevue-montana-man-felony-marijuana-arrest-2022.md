@@ -49,7 +49,6 @@ open_questions:
   - The marijuana amount is reported only as more than half a pound, so 0.23 kg is an approximate conversion of half a pound and the exact weight is unknown.
   - No court outcome beyond the Nov. 23 arraignment and not-guilty plea to the paraphernalia count was reported.
   - Only the Idaho Mountain Express account could be opened; a SpotOnIdaho listing appears to reprint it and adds no new facts.
-  - The page's only image is a Bellevue Marshal's Office shoulder patch, which does not show this stop or seizure, so no media entry is listed.
 ---
 
 John Edison Kelly Jr., 21, of Montana was stopped while driving in Bellevue,

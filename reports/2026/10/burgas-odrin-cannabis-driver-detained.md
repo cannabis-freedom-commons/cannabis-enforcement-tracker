@@ -52,7 +52,6 @@ open_questions:
   - No outcome of the fast-track proceedings was reported.
   - The same weekend roundup includes three other driver detentions for cocaine, amphetamine and methamphetamine, which are excluded from the cannabis figures and left out of this focused report.
   - A separate 24 October Audi A3 stop in Meden Rudnik involving amphetamine and methamphetamine is a different event left out here.
-  - The submitted page image is captioned only as © BurgasMedia.com and does not establish that it shows this stop, so no media entry is listed.
   - Coordinates are for Burgas city centre with locality precision; the exact position on Odrin Street was not geocoded.
 ---
 

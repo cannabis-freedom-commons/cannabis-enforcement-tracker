@@ -41,7 +41,6 @@ status: verified
 tags: [mountain-grow, manufacturing]
 open_questions:
   - Only the prosecutors' release, as republished by the Ministry of Justice, could be opened; no second outlet's account was checked.
-  - The ministry page shows case photos whose direct image addresses could not be recovered, so no media entries were made.
   - No court outcome for the detained man was reported in this source.
 sources:
   - title: 南投地檢署執行安居緝毒專案 偵破山區大麻毒品製造工廠

@@ -48,9 +48,7 @@ sources:
 open_questions:
   - The Live Hindustan article gives only its 3 November 2026 publication timestamp; the 2 November 2026 incident date rests on Dainik Bhaskar's statement that the arrest happened on Monday.
   - No seizure value, weighing procedure, NDPS sections, or court outcome was published.
-  - The page carries a lead image captioned with the headline, but the caption, file name and metadata point to a generic Bhagalpur image and do not establish that it shows this seizure, so no media entry is listed.
   - Dainik Bhaskar's full report could only be partly read because the remainder of the page prompts app download and login.
-  - The submitted AMP URL duplicates the non-AMP URL for the same Live Hindustan story already cited in the existing report.
 ---
 
 Government Railway Police arrested 29-year-old Mithilesh Kumar at Bhagalpur

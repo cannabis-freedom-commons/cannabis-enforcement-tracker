@@ -84,7 +84,6 @@ open_questions:
   - The specific drug-law section and any court outcome after the reported case filing were not published.
   - No street value, packaging count or ownership and seizure status of the auto-rickshaw was reported.
   - The 29 October 2026 date is the operation date stated in both reports; 30 and 31 October 2026 are their publication dates.
-  - The new account says Senior Assistant Superintendent Md. Shahin led the operation with SI Rupam Sarkar and ASI Kamruzzaman as participants, while the existing report describes SI Rupam Kumar Sarkar as leading the raid.
   - The new account does not mention the CNG auto-rickshaw, concealment beside the engine, or the Gopal Nagar Bazar to Kalikapur Bazar road location, which remain supported only by the earlier sources.
 ---
 

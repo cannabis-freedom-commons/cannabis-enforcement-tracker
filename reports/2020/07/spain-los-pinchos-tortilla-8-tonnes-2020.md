@@ -59,7 +59,6 @@ sources:
 open_questions:
   - No court outcomes for the 64 detained people were reported in the opened sources.
   - The opened sources give no per-location breakdown of the detentions or seizures across the eight raided sites.
-  - A photo on the first source page could not be verified as depicting this event, so no media entry was added.
 ---
 
 Spain's Guardia Civil, supported by Europol, dismantled a cannabis trafficking and money-laundering network known as Los Pinchos that moved the drug from Morocco to the Algeciras and Campo de Gibraltar areas of southern Spain. [@1,2] The group hid the cannabis on speedboats and landed it at a small pier it owned, a so-called narco jetty. [@1]

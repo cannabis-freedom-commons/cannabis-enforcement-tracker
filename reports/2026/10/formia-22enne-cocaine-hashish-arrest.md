@@ -41,7 +41,6 @@ open_questions:
   - No weight was published for the hashish in the two reports used here, so no cannabis quantity can be recorded.
   - The exact date of the night-time control was not published, only that it occurred in the days before 31 October 2026, so that earliest corroborating publication date is used as the incident date.
   - Cocaine weights and packaging details are mentioned only to explain the mixed case and are excluded from cannabis figures.
-  - The submitted page lists only advertising images and the second page uses a generic Carabinieri-controls file photo, so no media entry is included.
   - Earlier mid-October reports describe a very similar Formia arrest with 2.1 grams of cocaine and 0.3 grams of hashish; whether that is the same event re-reported or a separate arrest is unclear and those precise figures are not used here.
   - 'Left out, as its quotation was not found in H24 Notizie: The four cocaine wraps were ready for sale, alongside a modest amount of hashish.'
   - 'Left out, as its quotation was not found in H24 Notizie: A precision scale and plastic material consistent with packaging doses were also seized.'

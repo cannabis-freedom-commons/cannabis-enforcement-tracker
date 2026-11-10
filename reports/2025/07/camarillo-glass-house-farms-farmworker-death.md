@@ -62,7 +62,6 @@ open_questions:
   - No cause-of-death report, inquest or autopsy finding was published in the sources.
   - The other critically injured workers the UFW reported are not named, and some workers "remain unaccounted for".
   - "The report is dated to a July 2025 event, older than the usual twelve months, kept for its notability: a death during enforcement at a licensed cannabis farm that drew a federal claim and a warning of Mexican legal action."
-  - The new account describes the arrests only as hundreds, while the existing report records 319 arrests across the two simultaneous operations; the existing precise figure is retained.
   - The new account describes the deceased only as a 56-year-old farm worker without naming him, so no age is added to the identified victim.
   - The September 2026 FOIA lawsuit seeking warrants, body-worn camera footage and use-of-force reports has not yet produced records that would resolve the contested circumstances of the fall.
   - The DHS release gives at least 361 arrests across both grow sites as of 13 July, while the report retains the 319 arrests announced by Secretary Noem; the two figures are reported at different points in the same operation and cannot be separated by site.

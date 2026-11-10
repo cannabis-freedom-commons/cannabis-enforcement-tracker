@@ -69,16 +69,8 @@ open_questions:
   - The article gives the operation date as the night of Thursday 29 October; 1 November 2026 is its publication date.
   - The full identities and ages of the two detainees were not published.
   - The outcome of the prosecution appeal over the second detainee's pretrial detention is not yet known.
-  - The page image is labelled as referential PDI material and could not be verified as showing this operation, so no media entry is listed.
-  - The BioBioChile article gives only its publication date of 1 November 2026 and no separate operation date; the 29 October operation date comes from the existing report's Radio Agricultura source.
-  - BioBioChile rounds the seizure to 1,2 kilos and the value to more than 5 million pesos, while the existing report records 1,204.16 grams valued at 5,120,000 pesos from Radio Agricultura.
   - BioBioChile names no court, charges or pretrial-detention outcome.
-  - The page image labelled Captura de video could not be verified as showing this operation, so no media entry is listed.
-  - The submitted article rounds the seizure to more than 1,2 kilos and the value to more than 5 million pesos, while the existing report records 1,204.16 grams valued at 5,120,000 pesos from Radio Agricultura.
-  - The submitted article gives only its publication date of 1 November 2026 and no separate operation date; the 29 October operation date comes from the existing report's earlier source.
   - The submitted article names no court, charges or pretrial-detention outcome.
-  - The page image labelled portada-15 could not be verified as showing this operation, so no media entry is listed.
-  - The La Tercera page labels its lead image as referential, so it does not establish that the photo shows this operation and no media entry is listed.
 ---
 
 Two adult men were arrested in an anti-drug operation in the Pequeña Caracas

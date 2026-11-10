@@ -76,11 +76,7 @@ open_questions:
   - Whether the lead photograph on the page shows this seizure is not established from its caption.
   - The report does not name the wanted Odisha supplier.
   - 'Left out, as its quotation was not found in Divya Bhaskar: The operation involved SOG officers including PI F. A. Pargi and PSIs G. J. Zala and P. B. Mishra along with other staff.'
-  - The Abtak Media page gives only its publication date of 3 November 2026 and no separate date for the raid, one day after the existing report's 2 November 2026 Divya Bhaskar account of the same seizure.
-  - Abtak Media values the ganja at Rs 1.90 lakh with total property of Rs 1,91,300, while the existing report uses Rs 190,800 for the drug within the same Rs 191,300 total, so the precise Rs 190,800 breakdown remains single-source.
   - Abtak Media does not give the detained man's age, the names of the Rajkot Range DIG and Rajkot Rural SP, the itemised non-drug property, or the NDPS section numbers, so those existing details remain supported only by Divya Bhaskar.
-  - The Abtak Media page carries a lead photo captioned for this seizure, but the caption and credit do not establish that it shows this seizure and it may duplicate the existing outlet's handout photo, so no media entry is added.
-  - GSTV rounds the Upleta portion to 3 kg 800 g within a combined Rs 6.8 lakh total, while the existing report uses 3.816 kg valued at Rs 190,800 within Rs 191,300 total; the existing precise figures are retained.
 ---
 
 During the raid, officers detained 36-year-old Imran alias Javlo Siddikbhai

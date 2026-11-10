@@ -43,7 +43,6 @@ open_questions:
   - The article gives no separate date for the searches; 6 November 2026 is its publication date and is used as the incident date.
   - The source says only that judicial proceedings were initiated against nine people identified by initials, with no detention, charge detail or outcome reported; nine is counted as charged as people placed under judicial proceedings.
   - Only one accessible source for this event was found after searching in Turkish; it is an IHA dispatch republished by Saray Medya, not independent corroboration.
-  - The page photo is captioned only with the headline and carries no credit, so it could not be verified to show this seizure and no media entry is included.
 ---
 
 Kırşehir Provincial Public Order Branch officers with Kaman District police

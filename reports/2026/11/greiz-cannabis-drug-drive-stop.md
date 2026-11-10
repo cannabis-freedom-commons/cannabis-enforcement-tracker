@@ -47,7 +47,6 @@ open_questions:
   - The police notice says only that her journey was ended 'for the time being' and gives no blood-test result, charge, fine or licence measure.
   - The woman's age and any further details were not published.
   - The notice gives the date of the stop but no time.
-  - No photograph of this stop was published with either account; the submitted page's image is not shown to depict it, so no media entry is listed.
 ---
 
 Thuringia's state police inspection in Gera reported that officers stopped a

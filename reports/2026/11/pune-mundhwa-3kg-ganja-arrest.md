@@ -62,11 +62,7 @@ open_questions:
   - Only one source for this event was opened; a second report could not be obtained.
   - The same page carries a separate chain-snatching arrest report from Mahatma Phule Mandai, a different event left out here.
   - 'Left out, as its quotation was not found in Divya Marathi: Pune''s anti-narcotics squad arrested 27-year-old Sunny Sham Gumane in the Mundhwa area after he allegedly arrived there to sell ganja.'
-  - The existing report rounds the seizure to 3 kg while this source gives 3 kg 25 g; the report keeps the rounded figure.
-  - This source dates the patrol and trap to 30 October 2026, while the existing report uses the earlier source's 1 November 2026 publication date.
-  - The page lead image caption only repeats the headline and its file name refers to Mundhwa police station, so it could not be established to show the seizure itself and no media entry is added.
   - The two embedded YouTube videos concern a metro-station leak and Chakan rain and do not show this event, so they are not listed as media.
-  - The post's images have only generic auto-generated captions such as meme or poster descriptions, so none could be established to show the seizure and no media entry is added.
 ---
 
 Gumane lives at Gayran Vasti in Keshavnagar, Mundhwa. [@1,2,3]

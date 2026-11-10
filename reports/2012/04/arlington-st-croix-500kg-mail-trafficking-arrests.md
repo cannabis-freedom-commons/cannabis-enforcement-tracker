@@ -49,7 +49,6 @@ open_questions:
   - The North Texas arrests are dated only as last week relative to the 12 April 2012 publication, so their exact date is unknown; 12 April 2012 is the date of the St. Croix arrests and publication.
   - No charges beyond drug trafficking, pleas, or court outcomes were reported, and the released defendants' next steps are unknown.
   - No second account of this 2012 case could be found; the report rests on the single Dallas News account of the federal investigation.
-  - The page carries one image whose caption only repeats the headline, so it is not confirmed to show the event and no media entry is listed.
 ---
 
 Federal authorities identified Neil Nick Rene, 35, as the ringleader and primary

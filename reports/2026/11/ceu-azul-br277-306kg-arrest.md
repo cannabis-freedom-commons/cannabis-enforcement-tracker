@@ -80,14 +80,8 @@ open_questions:
   - The driver was reported only as a 28-year-old man with no name published.
   - No charge details beyond arrest for trafficking and identifier adulteration, and no court outcome, were reported.
   - Capulho is reported as a type of marijuana in the bag in the boot and is included in the 306.48 kg total.
-  - The Tarobá lead image has no caption or credit establishing that it shows this seizure, so no media entry is made for it.
   - The RRMAIS page carries a PRF-credited photo of the seizure that appears to republish the same agency handout already linked from Portal Cantagalo, so it is not listed separately.
   - Preto no Branco does not say where the car came from or where it was going, unlike the reports already cited, which say it had left Foz Iguaçu heading to Curitiba.
-  - ClicRDC does not report the Foz do Iguaçu origin, Curitiba destination, or vehicle-identifier adulteration already cited in the existing report.
-  - The ClicRDC page carries an image file that may republish the same PRF handout already linked from Portal Cantagalo; with no caption or credit establishing it, no separate media entry is made.
-  - aRede does not report the Foz do Iguaçu origin, the Curitiba destination or the vehicle-identifier irregularity cited in the existing report.
-  - This account does not mention the Foz do Iguaçu origin, the Curitiba destination, or the vehicle-identifier adulteration recorded in the existing report from its other cited sources.
-  - The page carries a PRF-credited photo that appears to republish the same agency handout already linked from Portal Cantagalo, so no separate media entry is made.
 ---
 
 Federal Highway Police officers stopped a Honda Civic on BR-277 in Céu Azul in

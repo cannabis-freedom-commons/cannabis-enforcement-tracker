@@ -60,7 +60,6 @@ open_questions:
   - The exact address of the non-residential premises within Feodosia was not reported.
   - No court outcome beyond referral of the case materials for further consideration has been reported.
   - The Obyektiv page carries a photo credited to the Crimea Interior Ministry, but no direct image address was recovered, so it is not listed as media.
-  - The KafaNews page is dated 3 November 2026 while the existing report and its two sources are dated 2 November 2026, with no separate date given for the seizure or investigative steps.
 ---
 
 In Feodosia, investigators completed a criminal case against a 49-year-old local

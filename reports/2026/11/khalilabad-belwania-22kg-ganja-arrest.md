@@ -68,7 +68,6 @@ open_questions:
   - Only one accessible source for this event was found after searching in Hindi and English.
   - The exact roadside spot near Belwania is not mapped, so coordinates are for Khalilabad town.
   - The Amar Ujala weight of 22.400 kg is stated to include plastic, so the net cannabis weight is unclear.
-  - The page image uses a 2021 file photo caption and is not established to show this seizure, so no media entry is included.
   - The exact roadside spot near Belwania is not mapped; coordinates remain for Khalilabad town.
   - The Dainik Bhaskar page shows only the opening excerpt of the article behind an app login prompt, so no names, case number, NDPS sections or court outcome could be read from it.
 ---

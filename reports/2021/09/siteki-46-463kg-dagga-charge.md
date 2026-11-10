@@ -48,7 +48,6 @@ open_questions:
   - The 46.463kg is described as the weight of dagga plants; the source does not say whether the load was weighed fresh or dried, and no count of plants was published.
   - No court outcome beyond the charge was published in the accessible text.
   - Only one account of the event could be found; no police statement or second outlet report was available.
-  - No photo of this event could be confirmed, so no media entry is included.
 ---
 
 A 29-year-old man from the KaMkhweli area, under Chief Mshengu, appeared before

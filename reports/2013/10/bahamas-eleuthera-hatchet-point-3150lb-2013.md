@@ -58,7 +58,6 @@ open_questions:
   - The 3,150 pounds is converted to about 1,429 kg; no separate metric weighing was published.
   - The map point is the Hatchet Point locality on Eleuthera Island, not the exact spot where the bales were dropped.
   - The Gleaner account says the vessel was seized on the Tuesday, and NBC 6 places the seizure on the Thursday before its 25 October publication; the Thursday is used as the incident date.
-  - The submitted page carries no photograph of the seizure, only outlet logos and promotional tiles, so no media entry is added.
   - 'Left out, as its quotation was not found in Jamaica Gleaner (Caribbean Media Corporation): A Bahamas Drug Enforcement Unit officer said at the time that the go-fast vessel and a smaller load had been seized the previous Tuesday and that five Bahamian men were held with it.'
 ---
 

@@ -94,9 +94,6 @@ open_questions:
   - No report says whether the car was seized.
   - 'Left out, as its quotation was not found in Dainik Jagran: Those arrested were Abhishek Singh of Bahorpur Dostpur in Sultanpur district, Awadhesh of Sirsiya Dubauliya in Basti district and Naushad of Sangrampur Chhawani.'
   - 'Left out, as its quotation was not found in Dainik Jagran: The men told police they brought ganja by road from Odisha to sell at high prices in Sultanpur and other areas.'
-  - The submitted page is paywalled after the opening sentences, so names, checkpoint, chase, FIR and case history in the existing report are not corroborated here.
-  - The submitted account describes the team as SOG, surveillance and Alinagar police, while the existing report names Alinagar police and the Special Operations Group.
-  - The page carries a photo with empty caption and credit, so whether it shows this seizure could not be established and no media entry is added.
 ---
 
 Alinagar police and the Special Operations Group (SOG) arrested three men with

@@ -63,7 +63,6 @@ open_questions:
   - No publication gives the operation's calendar date directly; 1 March 2026 is inferred as the Sunday before the 3 March 2026 publications.
   - The reports do not state the cannabis shipment's origin, the flight involved, or whether the expected charge was filed.
   - Both cited outlets carry the same CMC account, so the seizure rests on a single agency-sourced version of events.
-  - This account gives the value as $360,000 without stating whether this means Eastern Caribbean or US dollars, while the existing report records EC$360,000 from its earlier sources.
   - The article also mentions a separate interdiction at VCBIA on February 25 involving approximately nine pounds of cannabis valued at $54,000, a different event left out here.
 ---
 

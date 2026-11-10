@@ -57,7 +57,6 @@ open_questions:
   - The weight is given only in pounds (10 lb, about 4.54 kg), and the substance is described only as cannabis, without a stated product form or laboratory confirmation.
   - Antigua News reproduces the Observer's account, so the reports are not independent.
   - No arrests were reported and nothing on the shipment's origin, consignee or intended destination was published.
-  - The Observer's page image is a 2023 stock-style 'drug bust' picture, not confirmed to show this seizure, so no media entry is added.
 ---
 
 Customs and police officers seized ten pounds of cannabis during a joint drug

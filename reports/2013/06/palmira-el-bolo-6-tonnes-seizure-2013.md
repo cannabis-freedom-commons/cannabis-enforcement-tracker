@@ -33,7 +33,6 @@ tags: [highway-checkpoint]
 open_questions:
   - The reports do not say whether the driver was detained or charged.
   - The exact hour of the interception was not published; 26 June is the date of the police announcement.
-  - No photo of the seizure with a recoverable address was found, so no media entry was added.
 sources:
   - title: Police in southwest Colombia seize 6.6 tons of marijuana
     url: https://colombiareports.com/police-in-southwest-colombia-seize-6-tons-of-marijuana

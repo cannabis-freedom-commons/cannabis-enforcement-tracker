@@ -54,8 +54,6 @@ sources:
 open_questions:
   - The page displays a photo without a caption or credit, so it could not be verified as depicting this seizure and is not listed as media.
   - The gallery capture preserves only the title and photo caption; the full article body was not captured, so no further details from this page could be verified.
-  - No publication date was preserved in this capture, so the incident date continues to rest on the existing report's earlier sources.
-  - This capture does not name the suspect, place, police unit, or time of arrest; those details come from the existing report's earlier sources.
   - The image itself could not be viewed in this harness; its depiction is judged from its caption and the page title alone.
 media:
   - kind: photo

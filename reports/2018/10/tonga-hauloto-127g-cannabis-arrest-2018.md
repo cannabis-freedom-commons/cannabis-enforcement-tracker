@@ -51,12 +51,10 @@ sources:
     publisher: Matangi Tonga
     date: 2018-10-24
 open_questions:
-  - The submitted page is paywalled after its lead sentence; the weight, the man's age and the charge come from Matangi Tonga's print view of the same article, which was opened.
   - The 127.75 grams covers the 37 packets only; no weight was given for the cannabis branches, so the figure understates the total cannabis taken.
   - The article does not say whether the arrest and search took place on the same day, only that the man was arrested during the search reported on 17 October.
   - The man was not named and no plea, appearance date, verdict or sentence was reported.
   - No second outlet's account of this search was found; the only source is Matangi Tonga's police-sourced report.
-  - The page's picture is a 2014 generic cannabis-leaf file photo, not a picture of this seizure, so no media entry is included.
 ---
 
 Police seized thirty-seven cannabis packets and cannabis branches from a home at

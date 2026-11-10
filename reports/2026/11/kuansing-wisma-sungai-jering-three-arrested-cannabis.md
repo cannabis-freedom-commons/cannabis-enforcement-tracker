@@ -64,10 +64,8 @@ open_questions:
   - 'Left out, as its quotation was not found in Riau Pos: LA said more narcotics were stored at his rented house in Koto Taluk village, Kuantan Tengah.'
   - 'Left out, as its quotation was not found in Riau Pos: Officers searched that house at about 04.30 with village officials present and found three meth packages and three pyrex pipes with suspected meth totalling 1.86 grams gross, plus eight packages of dried cannabis leaves weighing 30.47 grams gross.'
   - 'Left out, as its quotation was not found in Riau Pos: The narcotics chief said Kuansing police remain committed to eradicating trafficking and asked residents to report suspected dealing.'
-  - This account says officers detained LA with RK at about 02.30 and found 16 ecstasy pills in their room, while the existing report has A caught at about 01.30 and 28 ecstasy pills in a brown wallet; the report's version is retained and the difference is noted here.
   - The 30.47 gram cannabis figure and the 5.92 gram ecstasy and 1.86 gram suspected meth figures are stated as gross weight; no net weights were published.
   - The weight of the single rolled cigarette suspected to contain dried cannabis is not given and is excluded from any cannabis total.
-  - The page's only image is a red-and-white breaking-news graphic, not a photo of the field, seizure, raid or court, so no media entry is added.
   - 'Left out, as its quotation was not found in bualbual.com: A told interrogators he kept more ecstasy at his rented house in Pulau Godang Kari, where officers later found 80 more pills in a small bag in the kitchen.'
 ---
 

@@ -46,7 +46,6 @@ sources:
 open_questions:
   - No arrests, charges or court outcome were reported; the suspects were absent and remain wanted.
   - The origin, itinerary and intended destinations of the consignment were not established; investigators said inquiries were continuing.
-  - The submitted page's only image is captioned as a Republican Police vehicle with no indication it shows this seizure, so no media entry is included.
   - Both opened accounts reproduce the Republican Police version, including its 24 July 2026 communiqué; no independent account was opened.
 ---
 

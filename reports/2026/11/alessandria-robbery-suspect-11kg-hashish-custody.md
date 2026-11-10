@@ -51,7 +51,6 @@ open_questions:
   - The value of 'several tens of thousands of euros' is the police's retail estimate; no exact figure is given and no value is recorded.
   - The Chinese account renders hashish as 大麻 / 大麻脂, so the weight is recorded as hashish rather than dried flower.
   - No charge sheet, trial date or sentence is reported; both the drug case and the robbery case remain under investigation.
-  - The submitted page's pictures are untitled screenshots with no credit and are not established to show the seizure, so no media entry is listed.
   - Only the Chinese account and one Italian outlet report the November custody order; the other sources cover the earlier search and arrest.
   - 'Left out, as its quotation was not found in Il Giornale Popolare: Police put the hashish''s retail value at several tens of thousands of euros.'
   - 'Left out, as its quotation was not found in Alessandria Netweek: Alessandria Netweek, an Italian outlet also covering the case, dated the custody order to early November, and the Chinese-language account says police announced it on Tuesday 3 November 2026.'

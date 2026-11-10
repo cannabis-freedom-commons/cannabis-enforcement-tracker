@@ -43,7 +43,6 @@ open_questions:
   - The 270 grams of ganja is the total of 230 grams and 40 grams found on two of the four; no weight was reported for the other two.
   - The 12 tapentadol tablets were found on two of the four men and are not cannabis, so they are outside the cannabis figures.
   - No charge sheets, remand, sentence or value for the ganja were reported; the case had just been sent to court.
-  - The article photo is a montage of the four men standing with police officers, captioned as a collected image rather than credited to a named agency, so no media entry is included.
   - 'Left out, as its quotation was not found in Daily Karatoa: The four were named as Tuhin Tarafder, 31, and Mahin Pramanik, 38, both of Char Harina village, Sariakandi''s Narchi union, Suruj Mia, 50, of Paikpara in the municipality, and Masum Mia, 35, of Andarbari in the municipality.'
   - 'Left out, as its quotation was not found in Daily Karatoa: The 12 tapentadol tablets, a prescription opioid, were found on Tarafder and Pramanik; the report calls them intoxicated or narcotic tablets.'
   - 'Left out, as its quotation was not found in Daily Karatoa: Mia, the 50-year-old, was found carrying 230 grams of ganja and the 35-year-old was carrying 40 grams.'

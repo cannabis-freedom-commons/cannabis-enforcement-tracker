@@ -50,7 +50,6 @@ open_questions:
   - The article gives no street value for the drugs and does not say whether the 18-year-old was released or kept in custody after questioning.
   - The 523 g cannabis total in the figures is the sum of the 5 g and 2 g taken from the 18-year-old and the 516 g found at the 28-year-old's home.
   - The article names no court for the sentencing and no charge beyond drug trafficking.
-  - The only picture on the page is a generic prison photograph used as an illustration, not of the raid, so no media is listed.
 ---
 
 An anti-crime patrol set up surveillance near rue Chopin in Besançon at about 7

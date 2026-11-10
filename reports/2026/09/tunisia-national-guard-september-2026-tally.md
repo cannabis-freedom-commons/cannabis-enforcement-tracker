@@ -61,7 +61,6 @@ open_questions:
   - The monthly figures give no date, governorate or unit for any individual seizure; 30 September 2026, the last day of the reported month, is used as the incident date.
   - The 1,515 arrests cover all drug operations in the month and may include people held over cocaine or tablets rather than cannabis.
   - The reports do not say whether any of those detained were charged or appeared in court.
-  - The page picture is a file photograph dated 2025 and is not identified as a photograph of these September seizures, so no media entry is listed.
   - The video announcing the results could not be opened directly; the three news accounts repeat it.
   - The planned revision of Law No. 52 and the prevention programme are separate policy items in the same article, mentioned only as context.
   - The text gives a weight ("3 kg") but the figures have no kg_seized; check whether it belongs there.

@@ -45,7 +45,6 @@ open_questions:
   - The marijuana products and flavored vaping products were not quantified or weighed, and no cannabis-product type was specified, so no cannabis weight is recorded.
   - The account identifies current charges as tax-law violations involving untaxed cigarettes and says further charges were pending, but does not clarify whether cannabis-related charges followed.
   - Only one accessible account could be opened; searches did not surface another opened report or agency statement, and the publisher's canonical page returned an access error.
-  - The supplied page image has no caption, credit or alt text identifying it as a photo of the raid, so no media entry is included.
 ---
 
 New Hartford Police arrested the owner after a raid at a store in Chadwicks, New

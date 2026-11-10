@@ -81,9 +81,7 @@ open_questions:
   - ThePrint keeps the second case behind a "Show Full Article" button; its figures here were confirmed in the customs post and The Tribune.
   - 'Left out, as its quotation was not found in The Tribune: In the second case, on 26 October, six polythene pouches of suspected marijuana were recovered from another passenger''s trolley bag.'
   - 'Left out, as its quotation was not found in Delhi Customs (Airport & General): Customs put the second load at 5,426 grams, valued at about Rs 1.89 crore.'
-  - The NewsBytes page's only photograph shows Terminal 3 at the airport, not the seized pouches, so no media entry was added.
   - The Hindi page is a translation of the same PTI wire story already cited in English, so it corroborates the account but is not an independent source.
-  - The page's only picture is a default archive photograph of an ISRO scientist, not the seizure, so no media entry was added from it.
 ---
 
 Customs officers at Delhi's Indira Gandhi International Airport seized more than

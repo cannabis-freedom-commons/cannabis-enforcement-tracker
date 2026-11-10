@@ -40,7 +40,6 @@ open_questions:
   - The article gives no separate day for the operations, so 3 November 2026 is used from its publication date and dateline.
   - Only one account of this event could be opened; searches for a second report of the same 13-arrest operation found no accessible corroboration.
   - No court outcome, charges or further investigation beyond the arrests and seizures was reported.
-  - The source page carries a lead image whose alt text only repeats the headline, so whether it shows this seizure could not be established and no media entry is listed.
   - The repeater gun, seven magazines and 35 cartridges are non-cannabis items in a mixed seizure and are excluded from the cannabis weight.
 ---
 

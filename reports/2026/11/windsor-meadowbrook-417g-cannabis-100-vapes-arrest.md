@@ -57,7 +57,6 @@ open_questions:
   - The 100 cannabis vape pens have no published oil weight, so only the 417.6 grams of dried cannabis is recorded as cannabis weight.
   - The $21,780 drug value and $33,660 total cover all drugs and cash together with no cannabis-only valuation, so no value is recorded.
   - The suspect was identified only as a 20-year-old man in the opened sources, with no full name published.
-  - The page photographs are file photos of police vehicles, not established to show this seizure, so no media entry is included.
   - No court date or outcome beyond the reported charges was published.
   - Only the day and month of the arrest and search were stated; 2026 is inferred from the 5 November 2026 publication dates.
 ---

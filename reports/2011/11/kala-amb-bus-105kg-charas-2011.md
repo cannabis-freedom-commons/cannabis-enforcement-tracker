@@ -40,7 +40,6 @@ open_questions:
   - The two Hill Post accounts disagree on Mukesh Kumar's residence, given as Bhadaryan in Maharashtra in the first report and as Mumbai in the week roundup.
   - No court outcome was published in the opened sources.
   - Both opened accounts come from the same newspaper, so no fully independent second outlet confirms the details.
-  - The Hill Post roundup includes a charas photograph that could not be verified as showing this seizure, so no media entry was added.
 sources:
   - title: Two arrested with 10.5 Kgs of Charas in Himachal
     url: https://hillpost.in/2011/11/two-arrested-with-10-5-kgs-of-charas-in-himachal/35122/

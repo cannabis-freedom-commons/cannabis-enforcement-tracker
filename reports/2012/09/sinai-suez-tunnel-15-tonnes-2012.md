@@ -47,7 +47,6 @@ open_questions:
   - The CoptsUnited item credits The Star and repeats the Reuters wire text, so it is a reprint rather than independent reporting.
   - No arrests were reported beyond the driver being questioned, and no court outcome was stated.
   - The truck's destination in the Nile Valley and the party that supplied the drugs were not identified.
-  - No photo could be confirmed to show this seizure, so no media entry was added.
 ---
 
 Egyptian police seized a 15-tonne truckload of marijuana, known as "bango" in Egyptian slang, as it was being smuggled west out of the Sinai Peninsula toward the Nile Valley. [@1,2] Officers stopped the truck as it tried to pass through a tunnel under the Suez Canal. [@1,2] The driver was held for questioning about the party that had supplied the drugs. [@1,2]

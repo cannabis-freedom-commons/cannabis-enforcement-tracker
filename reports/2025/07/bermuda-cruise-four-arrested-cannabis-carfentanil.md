@@ -53,7 +53,6 @@ open_questions:
   - The four detained people were not named.
   - No charges, court date or outcome had been reported; charges were described as expected to follow.
   - 22 July 2025 is the Bermuda police statement date and the Tuesday of the arrest reports; no separate hour of arrest or docking was published.
-  - The submitted page's images show generic carfentanil explainer graphics rather than this seizure, so no media entry is included.
 ---
 
 Four United States citizens travelling aboard a Carnival cruise ship were

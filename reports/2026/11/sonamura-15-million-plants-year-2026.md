@@ -69,20 +69,15 @@ open_questions:
   - No area, weight or independent audit of the destroyed plants was reported; the count and the Rs 1,000 crore loss estimate are the police officer's figures.
   - The sources do not say whether any cultivators or growers were arrested in connection with the destroyed plantations.
   - The 21 arrests relate to the 2 November attack on BSF personnel at Ashabari, not to the eradication work itself.
-  - The India Today NE page's only image is captioned with the story headline and cannot be confirmed to show this campaign, so no media entry is added.
   - 'Left out, as its quotation was not found in ThePrint: Police arrested 21 people, including two key suspects, for their alleged involvement in the attack at Ashabari.'
   - 'Left out, as its quotation was not found in ThePrint: Debbarma linked the destruction of the ganja crop to the 2 November attack on a BSF team at Ashabari, in which three personnel including an assistant commandant were injured.'
   - Left out arrested, as its quotation was not found in ThePrint.
-  - The News Mill's only image is a 2021 file photograph of BSF personnel captioned only "Representational Image", so it is not established to show this campaign and no media entry is added.
   - The News Mill credits the story to its own newsdesk but reproduces the same PTI interview with the Sepahijala superintendent as India Today NE, so the two outlets are not independent reporting.
   - The PTI copy repeats the same police briefing as the India Today NE report already cited, so it is not an independent account of the figures.
-  - The page carries only a PTI preview thumbnail image with no event detail, so no media entry is added.
   - The article states that police have arrested 21 people over the Ashabari attack, matching the figure already in the Sonamura report; the separate Ashabari report on the attack does not record a different total from this account.
   - The Sentinel credits the story to agencies and reproduces the same police briefing as the PTI-based outlets already cited, so it is not independent reporting of the figures.
-  - The page's only image carries just the story headline as its caption with no credit or event-specific detail, so it is not established to show this campaign and no media entry is added.
   - The Sentinel attributes the 21 arrests to the Ashabari attack without giving a separate date for the arrest total, beyond the 8 November police statement.
   - The Sentinel credits the story to agencies, so it repeats the same police briefing already cited rather than providing independent confirmation of the plant count or the loss estimate.
-  - The page's only image is captioned only "Tripura BSF attack" with no credit or event-specific detail, so it is not established to show the campaign and no media entry is added.
 ---
 
 Joint teams of Tripura police, Tripura State Rifles and the Border Security

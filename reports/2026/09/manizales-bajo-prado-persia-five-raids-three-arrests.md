@@ -62,7 +62,6 @@ open_questions:
   - The 256 grams is described only as marijuana, with no laboratory confirmation reported.
   - Only first names and ages of the three detainees were published, and no charging decision or court outcome had been reported.
   - The cocaine, bazuco and ecstasy quantities are not cannabis and are left out of the figures; no combined drug value was published.
-  - The submitted page's lead photo is captioned only with the headline and has no caption or credit tying it to this operation, so no media entry is added.
   - The article mentions that five search warrants were executed in the two neighbourhoods but does not assign premises or quantities to individual addresses.
 ---
 

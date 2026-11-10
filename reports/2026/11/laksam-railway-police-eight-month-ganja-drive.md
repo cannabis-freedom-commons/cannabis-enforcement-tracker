@@ -64,7 +64,6 @@ open_questions:
   - No court outcomes or charge sheets were reported for the cases, and the 19 arrested people were not identified.
   - No estimate of the ganja's value was published.
   - Both articles are local Bengali outlets reporting the station's own account; no independent reporting of the campaign total was found.
-  - The page image is captioned only with a file name and no credit, so it is not established to show this station's seizures and no media entry is added.
 ---
 
 Laksam railway police in Cumilla district said their special drives against

@@ -52,10 +52,8 @@ open_questions:
   - Coordinates are for the Khulna University campus centre with locality precision; the exact second-floor room was not geocoded.
   - The van driver's identity, the exact quantity described only as significant, and any criminal case outcome after handover were not reported.
   - The same 27-28 October notice penalised about 27 other students for ragging, assault and harassment, different events left out of this cannabis report.
-  - The submitted page image Khulna-uni.webp has no caption or credit establishing it shows this seizure, so no media entry is included.
   - The RTV page gives no weight for the ganja taken from the students or the van driver, so no kilograms are added.
   - RTV gives no identity, charge or court outcome for the van driver beyond being brought under the law.
-  - The page's images carry no caption or credit establishing they show this seizure, so no media entry is added.
 ---
 
 Three Mass Communication and Journalism students of Khulna University faced

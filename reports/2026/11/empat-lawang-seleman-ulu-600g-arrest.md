@@ -96,8 +96,6 @@ open_questions:
   - No court outcome or formal indictment was reported; the case was at the investigation stage.
   - The 1 November release describes the suspect as taken at a hut (pondok) near the patrol site, while the 7 November report places the arrest at a house in Desa Muara Semah.
   - The weight is given only as approximately 1 kilogram, and no value estimate was published.
-  - The article gives no separate date for the patrol; 8 November 2026 is its publication date and 1 November 2026 is retained from the existing report.
-  - The charge is truncated in this article as Pasal 114 ayat (1) atau Pasal 1, so the full charge is retained from the existing report.
   - The article does not say what happened to the second rider who fled with Z.
 ---
 

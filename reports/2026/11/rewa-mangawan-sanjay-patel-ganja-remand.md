@@ -59,7 +59,6 @@ open_questions:
   - The charges or NDPS Act sections in the earlier Mangawan cases are not stated individually.
   - No court outcome or further remand was reported beyond the one-day police custody.
   - Only one account of this remand was found, and searches in Hindi and English produced no second outlet reporting it.
-  - The submitted page and the page already cited are two near-identical Bhaskar articles (IDs 1388333 and 1388194) published minutes apart, so they are not independent accounts.
 ---
 
 Mangawan police in Rewa district took custody of alleged ganja smuggler Sanjay

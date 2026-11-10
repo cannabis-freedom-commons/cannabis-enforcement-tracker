@@ -43,7 +43,6 @@ sources:
 open_questions:
   - The articles give no separate date for the arrests or searches; 11 July 2026 is the publication date and is used as the incident date.
   - The 0.713 kg cannabis figure sums the separately stated 690 g of marijuana and 23 g of hashish; the 683 g of cocaine is excluded from cannabis figures.
-  - The submitted page image is explicitly an archive image of a Guardia Civil vehicle, not this operation, so no media entry is added.
   - The detainees were released with precautionary measures; no further court outcome, plea or sentence was reported.
   - The investigation is described as continuing, so further arrests or charges are possible but not reported.
 ---

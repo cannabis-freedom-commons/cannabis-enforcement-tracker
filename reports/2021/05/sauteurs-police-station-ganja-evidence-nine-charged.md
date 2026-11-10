@@ -68,7 +68,6 @@ open_questions:
   - The sources give no separate date for the thefts, which happened over a period of time; 17 May 2021 is the day police confirmed the arrests and the accused appeared in court, and the arrests were made over the preceding weekend.
   - 'The opening of the case is unclear: The Grenadian Voice mentions a May 11 news release about bail, while also reporting that the nine appeared in court on 17 May and were granted bail.'
   - No plea, trial or sentencing outcome was reported in these sources.
-  - The RJR News page images are generic or belong to other stories, so no media entry is added.
   - The Jamaica Observer gives the curfew as a daily 4:00 p.m. to 6:00 a.m. order but does not say how long it lasts or which of the nine it covers.
   - Barbados Today does not say whether surveillance cameras identified the suspects, which the report already leaves open and which no opened source resolves.
   - This account gives no weight for the missing cannabis, charges or court dates, so the differences over the EC$750,000 and EC$721,224 valuations remain unresolved.
