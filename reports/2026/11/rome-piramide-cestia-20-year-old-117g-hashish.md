@@ -70,6 +70,11 @@ sources:
     publisher: La Capitale
     date: 2026-11-09
     language: it
+  - title: 'Aventino: arrestato 20enne con 117 grammi di hashish per detenzione ai fini di spaccio'
+    url: https://www.lacronacadiroma.it/2026/11/aventino-arrestato-20enne-con-117-grammi-di-hashish-per-detenzione-ai-fini-di-spaccio
+    publisher: La Cronaca di Roma
+    date: 2026-11-09
+    language: it
 open_questions:
   - The reports give no date for the stop, the searches or the arrest; 9 November 2026 is the publication date and the date of the AGI account, and is used as the incident date.
   - No value estimate for the hashish and no details of the home that was searched were published.
@@ -79,18 +84,21 @@ open_questions:
   - Telegolfo's own page image is captioned only with the story headline and is not confirmed to show the seizure, so it is not listed.
   - 'Left out, as its quotation was not found in Carabinieri (AGI): The Carabinieri presented the arrest as evidence of the daily observation and prevention work its units carry out on the territory.'
   - La Capitale, like the earlier reports, gives no separate date for the stop, the searches or the arrest; 9 November 2026 is its publication date and the date of the Carabinieri account.
+  - La Cronaca di Roma, like the earlier reports, gives no separate date for the stop, the searches or the arrest; 9 November 2026 is its publication date and is used because the other accounts date the event the same day.
+  - La Cronaca di Roma's account restates the Carabinieri's news release and is not independent reporting.
+  - The page's lead image address names the drugs seized by the Roma Aventino station, but no caption states where in the operation the photograph was taken.
 ---
 
 Carabinieri from the Roma Aventino station arrested a 20-year-old Roman man
 already known to police in Rome on 9 November 2026. [@2] Officers noticed him
 acting suspiciously as he wandered near the Piramide Cestia and decided to check
-him. [@1] They searched him and then his home, finding 117 grams of hashish
-already divided into doses and material used to package the drug. [@1,4]
+him. [@1,5] They searched him and then his home, finding 117 grams of hashish
+already divided into doses and material used to package the drug. [@1,4,5]
 
 The man is accused of detention for the purpose of dealing drugs, a charge under
 preliminary investigation rather than a conviction. [@2] He was taken to the
 courtrooms at Piazzale Clodio, where the judge confirmed the arrest and ordered
 him to report to a police station, a measure known in Italy as the obbligo di
-firma. [@1] The proceedings are at the preliminary investigation stage. [@3]
+firma. [@1,5] The proceedings are at the preliminary investigation stage. [@3]
 
 La Capitale reports that he was taken to the courtrooms at Piazzale Clodio for the validation hearing, and states that the presumption of innocence applies until a final conviction. [@4]
