@@ -54,6 +54,13 @@ sources:
     publisher: Ouest-France
     date: 2026-11-10
     language: fr
+  - title: 'Trafic de drogue à Coutras : prison ferme et bannissement pour le clan familial'
+    url: https://www.leresistant.fr/gironde/coutras/trafic-de-drogue-a-coutras-prison-ferme-et-bannissement-pour-le-clan-familial-31411598.php
+    publisher: Le Résistant
+    date: 2026-11-10
+    language: fr
+open_questions:
+  - 'Sources give different ages for the defendants: Dolores is reported as either 56 or 59, Olivier as 35 or 36, and Angel as 20 or 21.'
 ---
 
 On 5 November 2026 the Libourne court sentenced five members of the Bezaguet
@@ -79,6 +86,6 @@ including care and work obligations. [@1] Jason received thirty months of firm
 prison and Angel received two years of firm prison despite his clean record.
 [@1] Olivier received three years in prison with one year suspended on
 probation, also with care and employment obligations. [@1] All five were kept in
-detention and banned from appearing in Coutras for three years. [@1,2] The
-prosecutor had sought up to four years of firm prison. [@1] The imposed
+detention and banned from appearing in Coutras for three years. [@1,2,3] The
+prosecutor had sought up to four years of firm prison. [@1,3] The imposed
 penalties were all below what had been requested. [@1]
