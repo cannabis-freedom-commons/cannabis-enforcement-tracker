@@ -134,6 +134,11 @@ sources:
     publisher: Narcodiario
     date: 2026-11-09
     language: es
+  - title: PJ detém homem que guardava 4,5 toneladas de haxixe numa viatura roubada, em Olhão
+    url: https://www.nowcanal.pt/ultimas/detalhe/pj-detem-homem-que-guardava-4-5-toneladas-de-haxixe-numa-viatura-roubada-em-olhao
+    publisher: Now
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No date is given for the operation or the arrest; 9 November 2026 is the publication date of the accounts and stands in for the incident date.
   - The weight is given as approximately 4.5 tonnes and the bale count as about 100, not exact measured figures.
@@ -176,11 +181,15 @@ open_questions:
   - The submitted page's only article image carries no caption or credit line and its file name is Portuguese-related, so no media entry is added.
   - The Observador account reproduces the same Judicial Police statement as the Portuguese outlets already cited, so it does not independently corroborate the police version.
   - 'Left out, as its quotation was not found in Observador: The arrest was made after the Judicial Police and the GNR found 4.5 tonnes of hashish in a stolen vehicle.'
+  - Now gives no calendar date for the operation or the hearing; the account was published on 9 November 2026, and the report's date for the operation rests on other outlets.
+  - Now does not name the court that ordered the preventive detention.
+  - Now reproduces the same Judicial Police statement as the outlets already cited, so it does not independently corroborate the police version.
+  - The Now page's photograph carries no caption or credit line, so it is not recorded as media.
 ---
 
 Judicial police in Olhão arrested a 38-year-old man on suspicion of drug
-trafficking after finding about 100 bales of hashish in a stolen goods van. [@1,4,5,6,7,8,10,11,13,14]
-The bales weighed about 4.5 tonnes in total. [@1,4,5,8,9,10]
+trafficking after finding about 100 bales of hashish in a stolen goods van. [@1,4,5,6,7,8,10,11,13,14,16]
+The bales weighed about 4.5 tonnes in total. [@1,4,5,8,9,10,16]
 
 The van was hidden on a rural property and investigators believe the hashish was
 brought ashore by sea through the channels of the Ria Formosa. [@1,4,7,8,10,11,12,14] Detectives
@@ -206,3 +215,5 @@ A Judicial Police source said the operation took place on Saturday. [@7,13]
 The action was coordinated by the Judicial Police's Southern Directorate with the collaboration of the Republican National Guard (GNR), within an investigation into the storing and guarding of drugs by a criminal network. [@9]
 
 The operation took place on Saturday, 7 November 2026. [@12]
+
+The suspect was arrested in the act and has already been brought before a judge for a first judicial hearing; with previous criminal records, he will await trial in pre-trial detention. [@16]
