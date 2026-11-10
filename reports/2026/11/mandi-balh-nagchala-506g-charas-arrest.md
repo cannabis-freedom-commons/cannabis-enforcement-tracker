@@ -42,6 +42,11 @@ sources:
     publisher: MBM News Network
     date: 2026-11-10
     language: hi
+  - title: 'मंडी : कार से 506 ग्राम चरस और CTU बस में मिला चिट्टा, दो आरोपी गिरफ्तार'
+    url: https://himachaldastak.com/mandi-police-drug-bust-charas-heroin-two-arrested/
+    publisher: Himachal Dastak
+    date: 2026-11-10
+    language: hi
 open_questions:
   - The report covers two separate cases on the same day; only the 506 grams of charas is a cannabis seizure, and the 6.930 grams of heroin is not counted in the cannabis figure.
   - No value was given for the 506 grams of charas, and no NDPS sections, vehicle seizure or court outcome were reported.
@@ -55,16 +60,15 @@ arrested one suspect in each case. [@1]
 
 A team from Balh police station stopped a Punjab-registered Maruti Ertiga during
 a vehicle check on the Nagchala fourlane and found 506 grams of charas in the
-car. [@1] Police arrested the car's occupant at the scene; he was identified as
-Suhail, 23, a resident of Kaithal district in Haryana. [@1] In the second case,
+car. [@1,2] Police arrested the car's occupant at the scene; he was identified as
+Suhail, 23, a resident of Kaithal district in Haryana. [@1,2] In the second case,
 a Dhanotu police station team set up a blockade on the fourlane near the Shikari
 Mata temple at Naulakha, where a search of a man travelling on a CTU bus found
-6.930 grams of heroin, known locally as chitta. [@1] Police arrested that man,
+6.930 grams of heroin, known locally as chitta. [@1,2] Police arrested that man,
 identified as Aditya, 29, a resident of Balh tehsil in Mandi district; the
-heroin is not cannabis and is not counted in the cannabis figures here. [@1]
+heroin is not cannabis and is not counted in the cannabis figures here. [@1,2]
 
 Police said both accused were being produced before a court and that further
-investigation continues in both cases. [@1] Mandi police said action against
+investigation continues in both cases. [@1,2] Mandi police said action against
 people involved in the illegal drug trade would continue and asked residents to
-report drug-related activity. [@1]
-
+report drug-related activity. [@1,2]
