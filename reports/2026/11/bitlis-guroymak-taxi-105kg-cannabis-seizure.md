@@ -31,6 +31,11 @@ sources:
     publisher: İhlas Haber Ajansı
     date: 2026-11-10
     language: tr
+  - title: Jandarma Bitlis Güroymak'ta 1 kilo 50 gram esrar ele geçirdi, 1 şüpheli tutuklandı
+    url: https://www.haberler.com/guncel/jandarma-bitlis-guroymak-ta-1-kilo-50-gram-esrar-20414642-haberi/
+    publisher: Haberler
+    date: 2026-11-10
+    language: tr
 open_questions:
     - The suspect's identity, age and role in the taxi, whether driver or passenger, were not reported.
     - No charge, laboratory result, street value or later court outcome beyond the remand was reported.
@@ -45,7 +50,7 @@ media:
 
 On 5 November, Bitlis provincial gendarmerie teams working against drug sellers
 stopped a taxi at the truck park at the Tahtali village location in Guroymak.
-[@1,2] A search of the stopped taxi found a can in its trunk containing 1 kilo 50
+[@1,2,4] A search of the stopped taxi found a can in its trunk containing 1 kilo 50
 grams of esrar, the Turkish word the source uses for cannabis. [@1] The seized 1
 kilo 50 grams amounts to 1.05 kilograms of cannabis taken from the taxi luggage
 compartment in Guroymak, Bitlis. [@1] Officers detained one suspect over the
@@ -58,4 +63,4 @@ targeted drug sellers. [@1,3] The governorate presented the 5 November taxi stop
 and trunk search as one result of that coordinated anti-seller work in the
 Guroymak district of Bitlis province. [@1] The account identifies the control
 point as the truck park in the Tahtali village area and the searched vehicle as
-a taxi. [@1,2,3]
+a taxi. [@1,2,3,4]
