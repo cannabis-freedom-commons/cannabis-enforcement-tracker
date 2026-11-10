@@ -160,6 +160,11 @@ sources:
     url: https://www.thevibes.com/articles/news/129375/social-media-recruitment-led-malaysian-couple-into-rm9.87m-cannabis-smuggling-trap-in-mauritius
     publisher: The Vibes
     date: 2026-11-10
+  - title: Tiga rakyat Malaysia ditahan di Mauritus, bawa 76.14kg ganja
+    url: https://newswav.com/article/tiga-rakyat-malaysia-ditahan-di-mauritus-bawa-76-14kg-ganja-A2611_ANCPrd
+    publisher: Newswav (Utusan Online)
+    date: 2026-11-10
+    language: ms
 open_questions:
   - The article was published on 4 November 2026 but dates the seizure to “ce mardi”, so 3 November 2026 is used as the incident date.
   - No amount or currency was given for the seized foreign currency, so no value is recorded.
@@ -221,26 +226,26 @@ open_questions:
 
 Three Malaysian nationals who arrived on Emirates flight EK709 from Dubai were searched at Plaisance,
 the Sir Seewoosagur Ramgoolam International Airport, and detained on 2 November 2026.
-[@1,5,6,9,10,11,14,15,16,17,19,20] They were two men aged 22 and 30 and an 18-year-old woman.
-[@1,2,6,8,10,11,14,15,16,17] The 30-year-old lived and worked in Singapore as a security guard; the
+[@1,5,6,9,10,11,14,15,16,17,19,20,23] They were two men aged 22 and 30 and an 18-year-old woman.
+[@1,2,6,8,10,11,14,15,16,17,23] The 30-year-old lived and worked in Singapore as a security guard; the
 other two lived together in Penang. [@2,4,6,7,9,10,14,17,20]
 
 Officers of the Customs Anti-Narcotics Section stopped them for questioning after assessing their
-passenger records, and inspected their checked baggage. [@2,7,9,11,13,14] With the police Anti-Drug
+passenger records, and inspected their checked baggage. [@2,7,9,11,13,14,23] With the police Anti-Drug
 and Smuggling Unit they found 70 vacuum-packed black packets of compressed cannabis, 76.14 kg in all,
-hidden in the suitcases. [@1,3,6,7,8,10,11,12,14,15,16,19] The 22-year-old man and the woman carried
-about 32.5 kg and 32.6 kg [@2,10,14], and the 30-year-old about 10.9 kg [@4,9,14]; one account gives
+hidden in the suitcases. [@1,3,6,7,8,10,11,12,14,15,16,19,23] The 22-year-old man and the woman carried
+about 32.5 kg and 32.6 kg [@2,10,14,23], and the 30-year-old about 10.9 kg [@4,9,14,23]; one account gives
 the woman's share as 32.62 kg in 30 packets. [@4] Foreign currency was also seized. [@1] The Mauritius
 Revenue Authority valued the haul at 114.21 million Mauritian rupees, about RM9.87 million, at local
-market prices. [@2,3,6,7,8,10,12,13,14,15,16,17,18,20]
+market prices. [@2,3,6,7,8,10,12,13,14,15,16,17,18,20,23]
 
 ## Investigation
 
-The Anti-Drug and Smuggling Unit took over the case. [@11,14,15] With customs it ran a controlled
+The Anti-Drug and Smuggling Unit took over the case. [@11,14,15,23] With customs it ran a controlled
 delivery to identify the recipients, who did not come forward [@1], and it was ended on Tuesday 3
 November. [@5] Inspectors Gopala and Lepois lead the investigation under Assistant Superintendent
 Goinden and Superintendent Ghoora. [@1] Preliminary findings indicated the cannabis came from
-Thailand, with the couriers flying on via Dubai. [@2,3,6,7,8,9,13,14,18] The three remain in police
+Thailand, with the couriers flying on via Dubai. [@2,3,6,7,8,9,13,14,18,23] The three remain in police
 custody on provisional charges of importing dangerous drugs for distribution. [@12]
 
 The 30-year-old suspect lived and worked in Singapore as a security guard, while the other two suspects lived in Penang. [@2,6,17,20]
@@ -257,7 +262,7 @@ The three suspects—two men aged 30 and 22 and an 18-year-old woman—remain in
 
 Mauritius media reported that preliminary investigations linked the drugs to Thailand, with one of the suspects believed to have transited through the country before flying to Dubai and then Mauritius. [@14] A similar modus operandi was detected on Oct 23, when a 55-year-old Malaysian cook was arrested at the same airport with 17.8kg of cannabis in his luggage. [@14]
 
-The 55-year-old Malaysian cook arrested at the same airport on 23 October had arrived from Dubai on Emirates flight EK709, the same flight the three took before their 2 November arrest. [@15]
+The 55-year-old Malaysian cook arrested at the same airport on 23 October had arrived from Dubai on Emirates flight EK709, the same flight the three took before their 2 November arrest. [@15,23]
 
 Three Malaysians were arrested upon arrival in Mauritius on Nov 2 after authorities found 76.14kg of cannabis in their luggage. [@14] The Mauritius Revenue Authority said the Malaysians arrived at Sir Seewoosagur Ramgoolam International Airport on Nov 2 before being flagged for further checks. [@14] The 30-year-old man, who reportedly lives and works as a security officer in Singapore, was found carrying about 10.9kg of the drug. [@14] The three suspects travelled on Emirates flight EK709 from Dubai and were held at Sir Seewoosagur Ramgoolam International Airport. [@10]
 
