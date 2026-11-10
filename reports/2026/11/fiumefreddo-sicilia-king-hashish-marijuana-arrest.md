@@ -68,6 +68,11 @@ sources:
     publisher: Nuovo Sud
     date: 2026-11-09
     language: it
+  - title: 'Fiumefreddo di Sicilia, blitz antidroga in casa: il cane King fiuta eroina, hashish e marijuana. Arrestato un 54enne'
+    url: https://www.dayitalianews.com/fiumefreddo-di-sicilia-blitz-antidroga-in-casa-il-cane-king-fiuta-eroina-hashish-e-marijuana-arrestato-un-54enne/
+    publisher: Dayitalianews
+    date: 2026-11-09
+    language: it
 open_questions:
   - No date or time is given for the search; 9 November 2026 is the article's publication date and is used as the incident date.
   - The article gives amounts as grams, with hashish as "almost 3 grams" and marijuana as 1.50 grams; the combined 4.5 grams is a sum of these reported amounts.
@@ -84,23 +89,25 @@ open_questions:
   - GrandangoloAgrigento and Nuovo Sud reproduce the same Carabinieri statement as the outlets already cited, so they are not independent reporting of the arrest.
   - GrandangoloAgrigento carries no separate date or time for the search; 9 November 2026, its publication date, stands in for the incident date.
   - The page's single photo is the same handout file used by NewSicilia, carries no caption or credit identifying the photographer, and is not listed again as a separate media entry.
+  - Dayitalianews reproduces the same Carabinieri account as the outlets already cited, so it is not independent reporting of the arrest.
+  - The page's only image is a Carabinieri picture stored in an April 2025 upload folder, evidently a site stock photo, so it is not confirmed to show this search and is not listed as media.
 ---
 
 Carabinieri arrested a 54-year-old local man in Fiumefreddo di Sicilia, in the
-province of Catania, on suspicion of possessing drugs for sale. [@1,2,3,4,5] The search
+province of Catania, on suspicion of possessing drugs for sale. [@1,2,3,4,5,7] The search
 was carried out by officers of the Fiumefreddo di Sicilia station with
 colleagues from the Calatabiano station, the Giarre Radiomobile unit and the
-Carabinieri dog unit from Nicolosi. [@1,2,3,4,6]
+Carabinieri dog unit from Nicolosi. [@1,2,3,4,6,7]
 
 The man was already serving a probation order to social services (affidamento in
-prova ai servizi sociali) for earlier offences. [@1,2,3,4,5] During the search of his
+prova ai servizi sociali) for earlier offences. [@1,2,3,4,5,7] During the search of his
 flat the drug dog King led officers straight to the bedroom, where three bags on
 the dresser held 10 grams of heroin, almost 3 grams of hashish and 1.50 grams of
-marijuana. [@1,2,3,4] A ready-to-use marijuana and tobacco joint was found on the
-bedside table. [@1,3,4,5] Officers also seized a working precision scale and pieces of
-cellophane judged suitable for packing the drugs into doses. [@1,2,3,4,5] The drugs will
+marijuana. [@1,2,3,4,7] A ready-to-use marijuana and tobacco joint was found on the
+bedside table. [@1,3,4,5,7] Officers also seized a working precision scale and pieces of
+cellophane judged suitable for packing the drugs into doses. [@1,2,3,4,5,7] The drugs will
 go to the competent laboratory for qualitative and quantitative tests to
-establish their exact nature and characteristics, the Carabinieri said. [@1,2,3,4,5]
+establish their exact nature and characteristics, the Carabinieri said. [@1,2,3,4,5,7]
 After the operation the man was arrested and placed at the disposal of the
 judicial authorities. [@1,2,3,4,5]
 
