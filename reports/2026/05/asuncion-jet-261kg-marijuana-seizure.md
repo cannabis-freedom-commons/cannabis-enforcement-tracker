@@ -28,6 +28,11 @@ media:
     media_url: https://www.clarin.com/img/2026/06/01/8x5snQWHI_1200x0__3.jpg
     publisher: Clarín
     caption: 'Jabari Stephen Brown with the other detainees in the Asunción private-jet marijuana case, as released by Paraguay''s anti-drug secretariat SENAD. Photo: Senad'
+  - kind: photo
+    url: https://www.abc.com.py/nacionales/2026/06/01/la-reaccion-del-abogado-de-los-estadounidenses-detenidos-con-hachis-tras-prision-preventiva-y-libertad-de-copiloto/
+    media_url: https://www.abc.com.py/resizer/v2/7PQFF43WIBHIXJSRT74RLYTHHQ.jpg?auth=5be50b5eed15ffc66bd39dea078c2c0bd772dbc372e7011d5956a5ce9d179c25&width=770&smart=true
+    publisher: ABC Color
+    caption: 'Detained US citizens Troy Anthony Vásquez (centre) and David Thomas Wise (right) attend a court hearing at the Palace of Justice in Asunción on 1 June 2026. Photo: Juan Pablo Pino'
 details:
   activity: [trafficking, possession]
   agencies: [py-senad]
@@ -93,36 +98,28 @@ sources:
     publisher: RCC
     date: 2026-05-31
     language: es
+  - title: La reacción del abogado de los estadounidenses detenidos con hachis tras prisión preventiva y libertad de copiloto
+    url: https://www.abc.com.py/nacionales/2026/06/01/la-reaccion-del-abogado-de-los-estadounidenses-detenidos-con-hachis-tras-prision-preventiva-y-libertad-de-copiloto/
+    publisher: ABC Color
+    date: 2026-06-01
+    language: es
+  - title: SENAD INTERCEPTA JET PROCEDENTE DE ESTADOS UNIDOS CON 261 KILOS DE MARIHUANA PREMIUM
+    url: https://senad.gov.py/senad-intercepta-jet-procedente-de-estados-unidos-con-261-kilos-de-marihuana-premium/
+    publisher: SENAD
+    language: es
 open_questions:
-  - >-
-    The total number of people detained is ambiguous because Brown's brief detention and the three
-    United States citizens remaining in custody overlap in time, so the arrested figure records only
-    the three reported as remaining in custody.
-  - >-
-    The three people remaining in custody were reported as charged with international drug
-    trafficking; no custody ruling, plea or court outcome was reported.
-  - >-
-    No arrest of Keith Siilats was reported; only an arrest warrant was reported, while Infobae said
-    he was not charged and had left Paraguay on a commercial flight before the operation.
-  - Panama's investigation into the aircraft's stopover was still under way with no outcome reported.
-  - >-
-    The US$3.6 million is the authorities' estimated value for the Brazilian market, not an
-    independently verified market value.
-  - >-
-    Infobae reports the load as 262.6 kg in the EFE-based account and more than 261 kilos in its
-    lead; the report keeps 261.6 kg from InSight Crime.
-  - >-
-    Infobae, citing EFE, says the aircraft landed on Friday and the seizure was on Saturday; Clarín
-    dates the arrests to the night of Saturday 30 May, while the report dates the discovery to
-    29 May.
-  - >-
-    Infobae attributes Brown's release to the prosecutor finding no grounds to suspect him and gives
-    his age as 21; the report says he was 20 and that SENAD found no evidence he knew about the
-    drugs.
-  - Clarín says the flight came from Miami and names no Panama stopover; other accounts record a stop in Panama.
-  - >-
-    RCC says Siilats would be the owner of the aircraft; other accounts identify him as the
-    registered owner or pilot without a published ownership document.
+    - The total number of people detained is ambiguous because Brown's brief detention and the three United States citizens remaining in custody overlap in time, so the arrested figure records only the three reported as remaining in custody.
+    - Judge Rosarito Montanía ordered pretrial detention for the three detained passengers, but no plea, trial or final court outcome was reported.
+    - No arrest of Keith Siilats was reported; only an arrest warrant was reported, while Infobae said he was not charged and had left Paraguay on a commercial flight before the operation.
+    - Panama's investigation into the aircraft's stopover was still under way with no outcome reported.
+    - The US$3.6 million figure and ABC Color's estimate of US$10,000 to US$14,000 per kilogram, totalling over US$3 million, are the authorities' estimates for the Brazilian market rather than independently verified values.
+    - Reported weights vary slightly between 261 kg, 261.6 kg and 262.6 kg, and ABC Color refers to the drug as hashish in its headline and refined or premium marijuana in the text; the report keeps 261.6 kg.
+    - Infobae (citing EFE) and ABC Color say the aircraft landed on Friday night and the seizure occurred on Saturday morning, and Clarín dates the arrests to Saturday 30 May, while the report dates the discovery to 29 May.
+    - Infobae and ABC Color give Brown's age as 21 and attribute his release to prosecutor Ingrid Cubilla, whereas earlier reporting gave his age as 20 and cited SENAD finding no evidence against him, and defence counsel disputed his release.
+    - Clarín says the flight came from Miami and names no Panama stopover; other accounts record a stop in Panama.
+    - RCC says Siilats would also be the owner of the aircraft; other accounts identify him as the registered owner or pilot without a published ownership document.
+    - ABC Color gives David Thomas Wise's age as 57 and puts the aircraft charter cost at more than US$91,875, whereas Infobae and El Horizonte report his age as 58 and Infobae puts the charter cost at USD 91,485.
+    - Whether the court decided to transfer administration of the confiscated Bombardier Challenger jet to Senabico was not yet reported.
 ---
 
 20-year-old influencer and co-pilot Jabari Stephen Brown, known as Captain
@@ -142,22 +139,22 @@ Paraguayan authorities discovered 261.6 kilograms of high-THC cannabis valued at
 US$3.6 million being unloaded from the aircraft at Silvio Pettirossi
 International Airport in Asuncion on 29 May. [@1,6] The aircraft had departed
 Miami, stopped in Panama and then arrived in Paraguay, and investigators believe
-the marijuana was destined for Brazil. [@1,3,5] Paraguayan anti-drug prosecutor
+the marijuana was destined for Brazil. [@1,3,5,9,10] Paraguayan anti-drug prosecutor
 Ingrid Cubilla said the estimated value reflected demand in Brazil, where each
 kilogram can reach nearly US$14,000 on the illicit market. [@1,4,6]
 
 The seized aircraft was a Bombardier Challenger 604, not the Hawker 400XP that
-Brown won in the MrBeast contest. [@1] A SENAD officer said the use of a large
-executive aircraft was unusual among seizures recorded in the country. [@1] The
+Brown won in the MrBeast contest. [@1] The Bombardier Challenger carried United States registration N116HL, and military personnel at the airport participated alongside SENAD agents in the seizure. [@9] A SENAD officer said the use of a large
+executive aircraft was unusual among seizures recorded in the country. [@1] Anti-drugs minister Jalil Rachid confirmed that the jet was initially confiscated pending a court decision on whether to transfer its administration to Senabico, Paraguay's seized-assets agency. [@9] The
 English edition confirms that Brown was released on May 31, according to a
 representative of Paraguay's drug enforcement agency. [@2]
 
-A Paraguayan judge, Rosarito Montanía, ordered the pretrial detention of Marisol Rivas, Troy Anthony Vásquez and David Thomas Wise because they had no ties to Paraguay. [@3] The men were held at the Centro Nacional de Prevenidos in Asunción, and Rivas was sent to the prison at Emboscada, in the Cordillera department. [@3] The passengers were named as Marisol Rivas, 39, from New York; Troy Anthony Vásquez, 42, from Florida; and David Thomas Wise, 58, from California. [@3,7] Wise chartered the aircraft through a California company for USD 91,485, according to prosecutor Ingrid Cubilla. [@3] Paraguayan authorities arrested three of the US travellers in Asunción hotels and the co-pilot at the airport. [@3,6] The three detained passengers face international trafficking and unauthorised possession charges under articles 21 and 27 of Paraguay's Drug Law 1,340, according to ABC. [@3,4] SENAD agents intercepted the Challenger 604 in an airport hangar after a crew member tried to remove luggage containing eight packages of the marijuana. [@3,4,6]
+A Paraguayan judge, Rosarito Montanía, ordered the pretrial detention of Marisol Rivas, Troy Anthony Vásquez and David Thomas Wise because they had no ties to Paraguay. [@3,9] Defence lawyer Rafael Fernández, representing two of the US citizens, questioned Brown's release after prosecutor Ingrid Gisselle Cubilla Villamayor said he cooperated throughout the investigation. [@9] The men were held at the Centro Nacional de Prevenidos in Asunción, and Rivas was sent to the prison at Emboscada, in the Cordillera department. [@3,9] Fernández said his clients claimed the pilot had hired all three passengers to travel to Paraguay on holiday. [@9] The passengers were named as Marisol Rivas, 39, from New York; Troy Anthony Vásquez, 42, from Florida; and David Thomas Wise, 58, from California. [@3,7] Wise chartered the aircraft through a California company for USD 91,485, according to prosecutor Ingrid Cubilla. [@3] Paraguayan authorities arrested three of the US travellers in Asunción hotels and the co-pilot at the airport. [@3,6] The three detained passengers face international trafficking and unauthorised possession charges under articles 21 and 27 of Paraguay's Drug Law 1,340, according to ABC. [@3,4] SENAD agents intercepted the Challenger 604 in an airport hangar after a crew member tried to remove luggage containing eight packages of the marijuana. [@3,4,6] SENAD said the airport raid took place under Programa Colibrí, an inter-agency initiative uniting SENAD, the Paraguayan Air Force, civil aviation authority DINAC, customs and tax agency DNIT, and the National Police. [@10]
 
 Senad identified Siilats as a co-founder of the micromobility company Bolt Mobility in the United States. [@4] The four detainees were taken from SENAD's operations base to the Public Prosecutor's Office, where prosecutors took their statements. [@4,5]
 
-Three of the passengers, Marisol Rivas, Anthony Vásquez and David Thomas Wise, were also detained, all United States citizens and crew members of the jet. [@5] According to ABC Color, the three were charged with international drug trafficking. [@5] Brown was detained in a hotel in Asunción rather than at the airport. [@5] Brown won a Hawker 400XP business jet, worth about US$2.4 million, by picking the winning briefcase in MrBeast's '100 Pilots Fight For A Private Jet' contest. [@5]
+Three of the passengers, Marisol Rivas, Anthony Vásquez and David Thomas Wise, were also detained, all United States citizens and crew members of the jet. [@5] According to ABC Color, the three were charged with international drug trafficking. [@5,9] Brown was detained in a hotel in Asunción rather than at the airport. [@5] Brown won a Hawker 400XP business jet, worth about US$2.4 million, by picking the winning briefcase in MrBeast's '100 Pilots Fight For A Private Jet' contest. [@5]
 
-Senad said it was still searching for other people implicated in the shipment. [@6]
+Senad said it was still searching for other people implicated in the shipment. [@6,10]
 
 The marijuana was found being unloaded from the aircraft in several suitcases that were to be moved on by land, and Senad said the load was valued at about US$3.6 million on the illicit market. [@7] Senad said the aircraft was piloted by Estonian technology businessman Keith Siilats, who was not located during the operations that led to the detentions and who, according to intelligence, left Paraguay on Saturday morning hours before the hangar intervention. [@7] El Horizonte reports that the flight left Miami, stopped in Panama and then landed in Paraguay, without explaining how that fits its statement that the aircraft came from the United States. [@7] RCC reported that Siilats would also be the owner of the aircraft used to carry the load, and that authorities were trying to establish who was to receive the marijuana. [@8]
