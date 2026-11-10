@@ -487,7 +487,7 @@ open_questions:
   - Accounts name the prison as Changhua Prison or give only the place of pickup, and the airport as Taichung or Taoyuan; the 1:10 p.m. flight comes from one account.
   - The 200 or 500 cartridges in the case were held by other dealers and used to trace Liu, not seized from him; no cannabis weight was published.
   - The six-year ban on re-entering Taiwan is reported without an immigration document quoting it.
-  - Accounts differ on whether he married 篠崎泫 in prison: some call her his wife, others his girlfriend or report the marriage as a rumour; whether it could let him return to Taiwan is not settled.
+  - 'Accounts differ on whether he married 篠崎泫 in prison: some call her his wife, others his girlfriend or report the marriage as a rumour; whether it could let him return to Taiwan is not settled.'
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
