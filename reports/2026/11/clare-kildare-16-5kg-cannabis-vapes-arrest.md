@@ -50,29 +50,34 @@ sources:
     url: https://clareherald.com/news/crime-legal/illegal-substances-seized-in-joint-garda-customs-operation/
     publisher: The Clare Herald
     date: 2026-11-09
+  - title: Cannabis vapes & gummies worth €124k seized in Clare
+    url: https://www.clareecho.ie/cannabis-vapes-gummies-worth-e124k-seized-in-clare/
+    publisher: The Clare Echo
+    date: 2026-11-10
 open_questions:
-  - Only one account of this seizure was found; no Garda or Revenue statement for it was published on their November press-release listings.
-  - The reported 16.5 kg herbal cannabis is a total for several operations across Clare and Kildare; the weight seized in each county, including the Clare operation of 6 November, was not stated.
-  - The weight and value of the cannabis vapes and gummies were not given separately, so only the €359,000 overall estimate is recorded and the €124,000 Clare estimate is not counted as a separate value.
-  - The arrest in County Kildare follows a seizure made in the afternoon of the article's publication day, 9 November 2026, after the Clare operation on Friday 6 November; the county totals therefore cover events on more than one day.
-  - The number of operations in Clare and Kildare, the exact locations, and whether the vapes and gummies contained cannabis or synthetic cannabinoids remain unreported.
-  - No charges, court appearances or outcomes were reported.
-  - No photo of the seizure was published; the page image is an An Garda Síochána logo.
-  - The Clare Herald does not report the County Kildare seizure or its arrest, so its account covers only part of the recorded operation.
+    - Only one Garda or Revenue statement for the Clare seizure was published; the Clare Echo's account relies on the Garda response.
+    - The reported 16.5 kg herbal cannabis is a total for several operations across Clare and Kildare; the weight seized in each county, including the Clare operation of 6 November, was not stated.
+    - The weight and value of the cannabis vapes and gummies were not given separately, so only the €359,000 overall estimate is recorded and the €124,000 Clare estimate is not counted as a separate value.
+    - The Clare Echo reports a separate Kildare operation on Monday, with herbal cannabis worth approximately €235,000 and a man in his 30s detained, but gives no date for it apart from that weekday.
+    - The number of operations in Clare and Kildare, the exact locations, and whether the vapes and gummies contained cannabis or synthetic cannabinoids remain unreported.
+    - No charges, court appearances or outcomes were reported.
+    - No photo of the seizure was published on the cited pages; the Clare Echo's page image is a Garda van beside a road.
 ---
 
 Gardaí and Revenue Customs officers seized approximately 16.5 kg of herbal
 cannabis, along with a quantity of cannabis vapes and cannabis gummies, with an
-estimated value of €359,000. [@1,2] The seizures were made by the Garda National
+estimated value of €359,000. [@1,2,3] The seizures were made by the Garda National
 Drugs and Organised Crime Bureau, Divisional Drugs Units in Clare and Kildare
-and Revenue's Customs Service. [@1,2]
+and Revenue's Customs Service. [@1,2,3]
 
 During one intelligence-led operation in County Clare on Friday 6 November 2026,
 cannabis vapes and cannabis gummies with an estimated street value of €124,000,
-subject to final analysis, were seized. [@1,2] One person was arrested after a
+subject to final analysis, were seized. [@1,2,3] One person was arrested after a
 significant seizure in County Kildare that afternoon. [@1] The operation was one
-of a number carried out in Clare and Kildare in recent days. [@1]
+of a number carried out in Clare and Kildare in recent days. [@1] The County Clare seizure was one of a series of intelligence-led Garda and Revenue operations over the past week. [@3]
 
 Investigations were ongoing. [@1]
 
 A Garda spokesperson confirmed that investigations are ongoing. [@2]
+
+No arrest was reported after the County Clare seizure; a Garda spokesperson said there was no further information at that time. [@3]
