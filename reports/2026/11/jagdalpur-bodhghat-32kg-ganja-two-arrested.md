@@ -60,34 +60,40 @@ sources:
     publisher: Janta Se Rishta
     date: 2026-11-07
     language: hi
+  - title: 16 लाख रुपए का गांजा जब्त राजस्थान के दो तस्कर गिरफ्तार
+    url: https://www.arthparkash.com/telangana/details/75721/ganja-worth-lakh-seized-two-rajasthan-smugglers-arrested
+    publisher: Arth Parkash
+    date: 2026-11-10
+    language: hi
 open_questions:
   - 'The raiding station''s jurisdiction is not explained: the arrest took place in Jagdalpur, while the case was filed at the Bodhghat station in Bastar district.'
   - The men's home police station is given only as Khoh in Dind district, Rajasthan, without a more precise place.
   - No court outcome, plea or lawyer's comment was reported beyond production for judicial remand.
   - The value of about 1.64 million rupees is the police's own estimate, not a market price.
   - Only a wire text and an outlet reproducing the same police account could be opened; no police statement was found.
+  - The page is dated 10 November 2026 and gives no separate date for the raid; 7 November is the incident date established by the earlier reports on the same arrest.
+  - The page's opening paragraph mentions a separate prior-day seizure from seven Odisha accused, a different event left out here.
 ---
 
 Police from the Bodhghat station in Bastar district, Chhattisgarh, arrested two
 men from Rajasthan at the new bus stand in Jagdalpur on suspicion of smuggling
-ganja, the Hindi name for cannabis. [@1] The two, aged 20 and 18, were waiting
+ganja, the Hindi name for cannabis. [@1,3] The two, aged 20 and 18, were waiting
 for a bus from Jagdalpur towards Raipur and planned to carry the ganja on to
 Rajasthan. [@1]
 
 With the two men police seized 32.813 kg of ganja, two mobile phones and 2,100
-rupees in cash. [@1] The Janta Se Rishta report puts the ganja's estimated value
+rupees in cash. [@1,3] The Janta Se Rishta report puts the ganja's estimated value
 at 16,40,650 rupees, which the police gave. [@2] Acting on a tip, station house
 officer Tameshwar Chauhan led a team to the spot, where the two men tried to run
 and were caught after officers surrounded them. [@2]
 
 A search of their red and sky-blue trolley bags, which they carried jointly,
-found seven packets weighing 32.813 kg in total. [@2] The two could not produce
+found seven packets weighing 32.813 kg in total. [@2,3] The two could not produce
 documents for holding, selling or transporting the ganja, and police said they
 were preparing to move it onward by bus. [@2]
 
 Police registered a case against both under section 20(b)ii(C) of the NDPS Act,
 India's narcotics law, and produced them before the special NDPS court in
-Jagdalpur for judicial remand on 7 November. [@2] Police said they are
+Jagdalpur for judicial remand on 7 November. [@2,3] Police said they are
 investigating where the men obtained the ganja and who else is part of the
 trafficking network behind it. [@1]
-
