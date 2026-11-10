@@ -310,7 +310,7 @@ function start() {
     if (key === "all") state.products.clear();
     if (key === "mode" || key === "all") state.mode = "";
     if (key === "metric" || key === "all") state.metric = "reports";
-    if (key === "pick" || key === "all") { state.pick = null; tip?.remove(); }
+    if (key === "pick" || key === "all") { keepCamera(null); state.pick = null; tip?.remove(); }
     if ((key === "search" || key === "all") && search?.value) { search.value = ""; search.dispatchEvent(new Event("input", { bubbles: true })); }
     refresh();
   }
@@ -414,7 +414,15 @@ function start() {
     const xs = pts.map((p) => p[0]), ys = pts.map((p) => p[1]);
     map.fitBounds([[Math.min(...xs), Math.min(...ys)], [Math.max(...xs), Math.max(...ys)]], { padding: 70, maxZoom: 5, duration: reduced ? 0 : 900 });
   }
+  // where the map was before the first route or country was picked: letting go goes back there
+  let camera = null;
+  const keepCamera = (pick) => {
+    if (!map) return;
+    if (pick && !state.pick) camera = { center: map.getCenter(), zoom: map.getZoom(), bearing: map.getBearing(), pitch: map.getPitch() };
+    if (!pick && state.pick && camera) { map.flyTo({ ...camera, duration: reduced ? 0 : 1000 }); camera = null; }
+  };
   const choose = (pick) => {
+    keepCamera(pick);
     state.pick = pick; state.hover = null; tip?.remove();
     renderPanel(); renderChips(); pane.parentElement.scrollTop = 0;
     paintPick(); remember(); frame();

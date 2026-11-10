@@ -34,12 +34,14 @@ const first = list.map((r) => isoDate(r.date)).sort()[0] ?? "";
         <button type="button" data-range="24h" aria-pressed="false" aria-label="Last 24 hours: reports dated yesterday or today" title="Reports dated yesterday or today">24<span class="rs-long">&nbsp;hours</span><span class="rs-short">h</span></button>
         <button type="button" data-range="7d" aria-pressed="false" aria-label="Last 7 days">7<span class="rs-long">&nbsp;days</span><span class="rs-short">d</span></button>
         <button type="button" data-range="30d" aria-pressed="true" aria-label="Last 30 days">30<span class="rs-long">&nbsp;days</span><span class="rs-short">d</span></button>
-        <button type="button" data-range="1y" aria-pressed="false" aria-label="Last 12 months">Year</button>
+        <button type="button" data-range="1y" aria-pressed="false" aria-label="Last 12 months" title="Last 12 months">1y</button>
       </>}
       <button type="button" data-range="all" aria-pressed={page ? "true" : "false"} aria-label="All time">{page ? "All time" : "All"}</button>
-      <button type="button" class="custom-toggle" id="custom-toggle" aria-pressed="false" aria-expanded="false" aria-controls="custom-period" aria-haspopup="dialog">
-        <span id="custom-label">Custom</span>
-        <Icon name="nav-arrow-down" />
+      <button type="button" class="custom-toggle" id="custom-toggle" aria-pressed="false" aria-expanded="false" aria-controls="custom-period" aria-haspopup="dialog" title="Custom period: dates, a year or a month">
+        {/* on the map a calendar icon until a period is chosen, then the period's name */}
+        {!page && <Icon name="calendar" class="custom-icon" />}
+        <span id="custom-label" data-default="Custom">Custom</span>
+        {page && <Icon name="nav-arrow-down" />}
       </button>
     </div>
     <button type="button" class="map-bar-toggle" id="map-bar-toggle" aria-expanded="false" aria-controls="map-bar-fields" aria-label="Filters: search and country">

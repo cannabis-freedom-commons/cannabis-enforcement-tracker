@@ -18,6 +18,10 @@ function start() {
   const body = pane.querySelector("[data-body]"), full = pane.querySelector("[data-full]");
   const cache = new Map();
   let openId = null, listScroll = 0, request = 0;
+  // where the map was before the first report was opened: closing goes back there
+  const mapOf = () => document.querySelector(".home-map [data-map]")?.__map;
+  let camera = null;
+  const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   const page = (id) => {
     if (!cache.has(id)) cache.set(id, fetch(`${base}report/${encodeURIComponent(id)}/`).then((r) => {
@@ -44,7 +48,11 @@ function start() {
   async function open(id, { push = true, zoom = true } = {}) {
     const mine = ++request;
     if (openId !== id) {
-      if (!openId) listScroll = home.scrollTop;
+      if (!openId) {
+        listScroll = home.scrollTop;
+        const map = mapOf();
+        if (map && zoom) camera = { center: map.getCenter(), zoom: map.getZoom(), bearing: map.getBearing(), pitch: map.getPitch() };
+      }
       openId = id;
       full.href = `${base}report/${id}/`;
       body.innerHTML = `<p class="muted rpane-loading">Loading the report…</p>`;
@@ -74,6 +82,9 @@ function start() {
     body.replaceChildren();
     home.classList.remove("reading");
     home.scrollTop = listScroll;
+    const map = mapOf();
+    if (map && camera) map.flyTo({ ...camera, duration: reduced ? 0 : 1000 });
+    camera = null;
     if (push) remember(null, false);
   }
 
@@ -97,13 +108,24 @@ function start() {
     open(e.detail);
   });
   // a title or picture in the list (not the country link, the zoom button or a tag)
+  // the whole item is the target: a click anywhere on it but its other links and buttons (country,
+  // zoom, tags), a glossary term, or after selecting some of its text
+  const reportOf = (href) => new URL(href, location.href).pathname.match(/\/report\/([^/]+)\/$/)?.[1];
   list.addEventListener("click", (e) => {
     if (e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+    const item = e.target.closest(".report-item");
+    if (!item) return;
     const a = e.target.closest("a[href]");
-    const m = a && new URL(a.href, location.href).pathname.match(/\/report\/([^/]+)\/$/);
-    if (!m || !a.closest(".report-item")) return;
+    let id = a && reportOf(a.href);
+    if (!id) {
+      if (a || e.target.closest("button, input, select, .term, .term-g, [role=button]")) return;
+      if (String(getSelection?.() ?? "").trim()) return;
+      const title = item.querySelector("h3 a[href]");
+      id = title && reportOf(title.href);
+    }
+    if (!id) return;
     e.preventDefault();
-    open(decodeURIComponent(m[1]));
+    open(decodeURIComponent(id));
   });
   // inside the pane: links to its own sections scroll the pane (the address's #map= is the map's view)
   pane.addEventListener("click", (e) => {

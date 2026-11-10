@@ -160,6 +160,11 @@ svg.icon { width: 1.15em; height: 1.15em; flex: none; vertical-align: -0.2em; }
 .map-tip .maplibregl-popup-content { padding: 10px 12px; background: var(--surface); color: var(--text); border: 1px solid var(--border); border-radius: var(--r); box-shadow: var(--shadow); font: 13px/1.4 Inter, system-ui, sans-serif; }
 .map-tip .maplibregl-popup-tip { display: none; }
 .map-tip strong { display: block; font-weight: 600; margin: 4px 0 2px; }
+.map-tip .tip-photo { display: block; margin: -10px -12px 9px; height: 120px; background: var(--surface-2) center/cover no-repeat; border-radius: var(--r) var(--r) 0 0; overflow: hidden; }
+.map-tip .tip-photo img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.map-tip .tip-figs { display: flex; flex-wrap: wrap; gap: 2px 12px; margin-top: 7px; padding-top: 7px; border-top: 1px solid var(--border); font: 11.5px var(--mono); color: var(--text); }
+.map-tip .tip-figs span { display: inline; }
+.map-tip .tip-figs em { font-style: normal; color: var(--muted); }
 .legend { display: flex; flex-wrap: wrap; gap: 6px 16px; margin: 10px 0 0; padding: 0; list-style: none; }
 .legend .type::before { display: none; }
 .legend .type svg { width: 16px; height: 16px; flex: none; }
@@ -418,6 +423,13 @@ sup.cite a { color: var(--cite); text-decoration: none; }
 .range-switch button:focus-visible { outline-offset: -3px; }
 #custom-label { max-width: 190px; overflow: hidden; text-overflow: ellipsis; }
 .range-switch .rs-short { display: none; }
+/* on the map the periods are short (24h, 7d, 30d, 1y) and Custom is a calendar icon until a period
+   is chosen; the Reports page keeps the words */
+.map-bar:not(.is-page) .range-switch .rs-long { display: none; }
+.map-bar:not(.is-page) .range-switch .rs-short { display: inline; }
+.map-bar:not(.is-page) .range-switch button { padding: 7px 9px; font-family: var(--mono); font-size: 11.5px; }
+.map-bar:not(.is-page) .custom-toggle .custom-icon { width: 15px; height: 15px; }
+.map-bar:not(.is-page) .custom-toggle[aria-pressed="false"] #custom-label { display: none; }
 .range-switch .custom-toggle { gap: 6px; }
 .custom-toggle svg { width: 14px; height: 14px; flex: none; }
 .custom-toggle[aria-expanded="true"] svg { transform: rotate(180deg); }
@@ -734,3 +746,4 @@ sup.cite a { color: var(--cite); text-decoration: none; }
 .update-close:hover { color: var(--text); background: var(--surface-2); }
 @keyframes update-in { from { opacity: 0; transform: translate(-50%, 8px); } }
 @media (prefers-reduced-motion: reduce) { .update-note { animation: none; } }
+.map-tip:has(.tip-photo) .maplibregl-popup-content { width: 280px; }

@@ -165,3 +165,5 @@
 .rpane-body .glance { margin: 16px 0; }
 .rpane-body .sources { padding-left: 20px; font-size: 13px; line-height: 1.5; color: var(--text-2); }
 .rpane-body .sources li { margin-bottom: 6px; }
+/* the whole report in the list opens it in the pane */
+.home-pane .report-item { cursor: pointer; }

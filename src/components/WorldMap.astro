@@ -76,6 +76,8 @@ const LEAFLETS = [[0, 62, 0], [-27, 54, 1], [27, 54, 1], [-56, 42, 2], [56, 42, 
   import { pointBounds } from "../lib/map-view.js";
   import { loadIndex, inCountry, type Row } from "../scripts/report-index";
   import { versioned } from "../scripts/build-id.js";
+  import { imageProxy } from "../lib/media.js";
+  import { thumbHashToDataURL } from "thumbhash";
 
   const esc = (s = "") => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]!);
   const fmtDate = (d: string) => new Date(`${d}T00:00:00Z`).toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" });
@@ -84,6 +86,17 @@ const LEAFLETS = [[0, 62, 0], [-27, 54, 1], [27, 54, 1], [-56, 42, 2], [56, 42, 
   const INK = {
     dark: { ink: "#f2f0e9", bg: "#0c0c0b", green: "#5fbf7f", greenFill: "#3f9a5f", greenText: "#7fcf98" },
     light: { ink: "#11110f", bg: "#f4f2eb", green: "#2e8a4f", greenFill: "#3f9a5f", greenText: "#23703f" },
+  };
+
+  // A report's hover box: its type, title, place and date, its photo when it has one (on its
+  // ThumbHash placeholder until it loads), and up to four of its figures (people arrested, cannabis…).
+  const hashUrl = (h?: string) => { if (!h) return ""; try { return thumbHashToDataURL(Uint8Array.from(atob(h), (c) => c.charCodeAt(0))); } catch { return ""; } };
+  const reportBox = (r: Row, type: { label: string; color: string }, where: string) => {
+    const src = r.im ? (r.it ?? imageProxy(r.im)) : "";
+    const ph = src ? hashUrl(r.ih) : "";
+    const img = src ? `<span class="tip-photo"${ph ? ` style="background-image:url(${ph})"` : ""}><img src="${esc(src)}" alt="" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></span>` : "";
+    const figs = r.f?.length ? `<span class="tip-figs">${r.f.slice(0, 4).map(([k, v]) => `<span><em>${esc(k)}</em> ${esc(v)}</span>`).join("")}</span>` : "";
+    return `${img}<span class="type" style="--c:${esc(type.color)}">${esc(type.label)}</span><strong>${esc(r.ti)}</strong><span class="muted">${esc(where)}<br>${esc(fmtDate(r.d))}</span>${figs}`;
   };
 
   for (const box of document.querySelectorAll<HTMLElement>("[data-map]")) {
@@ -131,6 +144,7 @@ const LEAFLETS = [[0, 62, 0], [-27, 54, 1], [27, 54, 1], [-56, 42, 2], [56, 42, 
 
     let index: Awaited<ReturnType<typeof loadIndex>>;
     let rows: Row[] = [];        // this map's reports
+    let byId = new Map<string, Row>();
     let shown: Row[] = [];       // those the filters let through
     let hovered = "";            // the report pointed at, in a list or on the map: spotlit
     const KEY = "map-layers-v2";    // which Landrace layers are on, remembered in this browser
@@ -377,6 +391,7 @@ const LEAFLETS = [[0, 62, 0], [-27, 54, 1], [27, 54, 1], [-56, 42, 2], [56, 42, 
     Promise.all([loadIndex(base), basemapReady]).then(async ([idx]) => {
       index = idx;
       rows = country ? idx.reports.filter((r) => inCountry(r, country)) : idx.reports;
+      byId = new Map(rows.map((r) => [r.i, r]));
       const pre: Set<string> | undefined = (window as any).__reportsShown; // filters that ran before the map
       shown = pre ? rows.filter((r) => pre.has(r.i)) : rows;
       await initialLayers;
@@ -477,8 +492,9 @@ const LEAFLETS = [[0, 62, 0], [-27, 54, 1], [27, 54, 1], [-56, 42, 2], [56, 42, 
         const point = f.geometry.type === "Point" ? (f.geometry as any).coordinates : e.lngLat;
         if (key === current && f.geometry.type === "Point") return; // the same marker: leave the box where it is
         current = key;
+        const row = layer === "reports" ? byId.get(p.id) : null;
         const html = layer === "reports"
-          ? `<span class="type" style="--c:${esc(p.color)}">${esc(p.type)}</span><strong>${esc(p.title)}</strong><span class="muted">${esc(p.place)}<br>${esc(p.date)}</span>`
+          ? (row ? reportBox(row, types[row.t], p.place) : `<span class="type" style="--c:${esc(p.color)}">${esc(p.type)}</span><strong>${esc(p.title)}</strong><span class="muted">${esc(p.place)}<br>${esc(p.date)}</span>`)
           : landraceBox(p);
         popup.setLngLat(point).setHTML(html).addTo(map);
       });
@@ -510,7 +526,7 @@ const LEAFLETS = [[0, 62, 0], [-27, 54, 1], [27, 54, 1], [-56, 42, 2], [56, 42, 
         map.stop();
         popup.remove();
         map.once("moveend", () => {
-          popup.setLngLat(r.ll!).setHTML(`<span class="type" style="--c:${esc(types[r.t].color)}">${esc(types[r.t].label)}</span><strong>${esc(r.ti)}</strong><span class="muted">${esc([r.p, index.countries[r.c]].filter(Boolean).join(" · "))}<br>${esc(fmtDate(r.d))}</span>`).addTo(map);
+          popup.setLngLat(r.ll!).setHTML(reportBox(r, types[r.t], [r.p, index.countries[r.c]].filter(Boolean).join(" · "))).addTo(map);
           current = `reports:${r.i}`;
         });
         map.flyTo({ center: r.ll, zoom, duration: 1200 });
