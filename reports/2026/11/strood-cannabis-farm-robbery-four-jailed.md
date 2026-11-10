@@ -69,6 +69,10 @@ sources:
     url: https://www.kentonline.co.uk/medway/news/masked-gang-members-jailed-for-50-years-after-leaving-victim-347186/
     publisher: KentOnline
     date: 2026-11-09
+  - title: Bexley police chase- Four men convicted over cannabis plant robbery
+    url: https://www.london-now.co.uk/news/26717072.bexley-police-chase--four-men-convicted-cannabis-plant-robbery/
+    publisher: London Now
+    date: 2026-11-10
 open_questions:
   - The number and weight of the cannabis plants recovered from the vehicles and the road were not published, so no plant, area or kilogram figure is given.
   - The sources do not say whether the robbed crop was being grown lawfully, and no offence was reported against the man whose home was robbed.
@@ -87,13 +91,12 @@ with facial injuries and a fractured wrist. [@1]
 Kent Police were called shortly after 2.30am on 25 November 2025 after the four
 were seen loading cannabis plants into a BMW and a van. [@2] Other officers
 stopped the van, which had also gone through the tunnel, at a red light, and
-Hylton tried to flee on foot before being caught. [@2] A search of both vehicles
+Hylton tried to flee on foot before being caught. [@2] All four men were in custody by 3.24am. [@3] A search of both vehicles
 found several cannabis plants, and officers also found a trail of plants and
-soil along Weston Road. [@2]
+soil along Weston Road. [@2,3]
 
 All four were charged with robbery and found guilty at Maidstone Crown Court
-after a trial on 30 October. [@2] Hylton, 35, of no fixed address, was jailed
+after a trial on 30 October. [@2] Mobile phone evidence revealed messages planning the robbery, with Harris saying he needed "as many soldiers as possible." [@3] Hylton, 35, of no fixed address, was jailed
 for 12 years. [@1] Bonney, 35, of Albion Drive in Hackney, was locked up for 11
 years. [@1] Harris, 36, of Lansdowne Drive in Hackney, was jailed for 14 years,
 and Williams, 38, of no fixed address, for 13 years. [@1]
-
