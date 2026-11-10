@@ -64,14 +64,11 @@ sources:
     publisher: Europa Press
     date: 2026-11-10
     language: es
-open_questions:
-  - No charges, court appearances or sentences were reported for the 12 people arrested.
-  - The 775 grams are reported only for Lloret de Mar; no total cannabis weight was published, so the buds stated for Lloret de Mar, Llagostera and Maçanet de la Selva add up to about 70 kg, and no weight is given for the Anglès plants.
-  - The 524 items at Llagostera are described as cuttings, not full plants, and are counted with the plants seized.
-  - Only a range, between 3 and 5 November, is given for the whole series, with individual searches dated only for Anglès (4 November) and Llagostera (5 November), so 3 November is used as the start of the operation.
-  - Which unit acted at each site is stated only for Anglès and Maçanet de la Selva, where the local police and the Mossos Arro and USC units took part.
-  - Whether the four grows were connected to each other, beyond police describing them as independent investigations, is not stated.
-  - No street value estimate for the seized cannabis was published.
+  - title: Desmantelados 4 cultivos de marihuana en la región policial de Girona con 12 detenidos
+    url: https://www.msn.com/es-es/noticias/other/desmantelados-4-cultivos-de-marihuana-en-la-regi%C3%B3n-policial-de-girona-con-12-detenidos/ar-AA2h8dn7
+    publisher: MSN (Europa Press)
+    date: 2026-11-10
+    language: es
 ---
 
 Mossos d'Esquadra officers arrested eight men and four women between 3 and 5
@@ -82,14 +79,13 @@ statement. [@2] Police treated the four sites as independent investigations
 rather than one network. [@1]
 
 At Lloret de Mar officers seized 410 plants and 775 grams of buds, and arrested
-two people. [@1] The searches in Anglès on 4 November seized 200 plants in the
+two people. [@1,3] The searches in Anglès on 4 November seized 200 plants in the
 growth phase. [@2] A woman was arrested at Anglès and a second man was arrested
 there the same day, with support from the Arro and officers of the Citizen
 Security Unit (USC). [@1] The Llagostera operation on 5 November seized 524
 cannabis cuttings and 66.5 kilograms of buds, and four people were arrested.
-[@1]
+[@1,3]
 
 In Maçanet de la Selva, suspicions raised by the local police prompted a search
 hours later, in which 245 plants and 2.9 kilograms of buds were seized and four
-people arrested. [@1]
-
+people arrested. [@1,3]
