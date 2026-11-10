@@ -683,8 +683,11 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 			return db.Transition(ctx, j.Ref, "duplicate", "The existing report already cites these sources, so nothing was added.", result.ExistingReport, "")
 		}
 		if err != nil {
-			if errors.Is(err, research.ErrMergeTarget) && checkpoint.RepairAttempts < 1 {
+			if (errors.Is(err, research.ErrMergeTarget) || errors.Is(err, research.ErrOpenQuestions)) && checkpoint.RepairAttempts < 1 {
 				problem := "An update could not match its existing sentence. Read the current target report and copy each corroborated sentence exactly into existing_text, without citations. Only genuinely new details may use new_detail:true. Do not append paraphrases of existing prose."
+				if errors.Is(err, research.ErrOpenQuestions) {
+					problem = err.Error() + ". Read the target report's open questions, and send open_questions with its complete revised list: one plain sentence for each real gap or disagreement about the case, answered and repeated ones merged or dropped, no notes about sources, pages or media."
+				}
 				if session != nil {
 					if result, err = w.correctInSession(ctx, j, session, &checkpoint, problem, dir, baseEvidence); err != nil {
 						return err

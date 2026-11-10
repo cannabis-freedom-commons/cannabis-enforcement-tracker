@@ -125,6 +125,8 @@ func (w *Worker) resultCheck(dir string, initial safeurl.Evidence, base []safeur
 		}
 		if errors.Is(err, research.ErrMergeTarget) {
 			problems = append(problems, "update: "+err.Error()+". Copy each corroborated sentence of the current target report exactly into existing_text, without citations; only genuinely new details may use new_detail:true")
+		} else if errors.Is(err, research.ErrOpenQuestions) {
+			problems = append(problems, "update: "+err.Error()+". Send open_questions with the report's complete revised list: one plain sentence for each real gap or disagreement about the case, answered and repeated ones merged or dropped, no notes about sources, pages or media")
 		} else if err != nil {
 			problems = append(problems, "draft: "+err.Error())
 		} else {

@@ -176,8 +176,8 @@ Write it as docs/WRITING.md and the add-report skill say, like the examples:
   srcset or metadata. Keep url as the cited article page, preserve image query parameters, and
   never guess an address or use the article URL as media_url. For videos, use the published
   video file/stream address or its dedicated video-host page;
-  never substitute the news article. If the media address is unavailable, omit that entry and
-  explain the missing media in uncertainties. Leave out a stock photo, a logo, a
+  never substitute the news article. If the media address is unavailable, omit that entry (say so
+  in the explanation, not in uncertainties: open questions are about the case). Leave out a stock photo, a logo, a
   portrait of an official or a picture of something else. Never open an image address (.jpg, .png,
   .webp, .gif, .avif) with webfetch: the tool reads text only and refuses every image, and you
   cannot see pictures. Judge a photo by its caption, its credit and the article text around it;
@@ -233,14 +233,24 @@ Return a single JSON object, no Markdown fences or commentary, with exactly thes
 "explanation":"Detailed public explanation of the outcome, up to 1500 characters",
 "uncertainties":[],
 "event_comparisons":[{"report":"existing slug","relation":"distinct_event|campaign_component","existing_text":"Exact passage from its body","fact_text":"Exact text of a sourced fact in this result","difference":"Short factual distinction between these events"}],
-"report_updates":[{"report":"existing slug","facts":[{"text":"the existing report's sentence this supports, or a new sentence","source":1,"quote":"Exact supporting passage"}],"uncertainties":[],"title":"corrected title, only to correct it","summary":"corrected summary, only to correct it"}]}
+"open_questions":["for additional_source and existing_case, optional: the existing report's complete revised list"],
+"report_updates":[{"report":"existing slug","facts":[{"text":"the existing report's sentence this supports, or a new sentence","source":1,"quote":"Exact supporting passage","new_detail":true,"after_text":"the existing sentence a new detail follows"}],"uncertainties":[],"open_questions":["optional: the report's complete revised list"],"title":"corrected title, only to correct it","summary":"corrected summary, only to correct it"}]}
 In figures, include only the keys a source gives a number for; omit the rest. Omit also, tags, media or
 a source's date and language when there are none. For outcomes other than new_event and
 existing_case, the report fields may be empty. Always include a nonempty plain-text explanation
 for every outcome, including new_event and additional_source. Do not wrap slugs or names in
 backticks or other Markdown. Each result and report update may contain at most 30 facts and
-30 new uncertainties. Existing reports may already contain more accumulated open questions;
-retain them and supply only genuinely new questions.
+12 uncertainties.
+
+Open questions (uncertainties) are what a reader should know is unknown or disputed about the
+case: a missing figure or date, accounts that disagree, what happened next. A report holds at most
+12, one plain sentence each, the same point once however many sources raise it. They are never
+notes about the research: not "the submitted page says…", "the existing report…", "no media entry
+is listed for this source", which page could be opened, or which photo was left out (the
+explanation is for those). When updating an existing report, read its open questions first. Add
+a question only for a gap or disagreement it does not already state, even in other words. When
+the new source answers one, or the list repeats itself, has notes about the research, or would
+exceed 12, send open_questions: the report's complete revised list, which replaces the old one.
 
 Use each source at least once. Never claim that a draft is verified or published. Do not include
 images or unsupported figures. Every fact needs its source index and a verbatim supporting
@@ -255,7 +265,10 @@ match. For corroboration, copy the existing sentence exactly into text, or suppl
 with the exact existing sentence if text paraphrases it. Copy existing_text without its [@n]
 citations; do not guess its wording from the report index. The service keeps the original wording
 and adds the new source to its citation. For a genuinely new detail only, set new_detail:true
-and write just that new factual sentence in text. Omit existing_text and new_detail for new_event.
+and write just that new factual sentence in text, with after_text: the existing sentence (without
+citations) it belongs after, so it joins that paragraph instead of a new one at the end. A source
+that only repeats what the report says adds citations, not sentences; a slightly different figure
+or wording from another outlet is an open question at most, not a new sentence. Omit existing_text and new_detail for new_event.
 Do not paraphrase existing facts and mark them as new details. Merge the article, not a second
 version of the report. Existing sentences may wrap over lines; ignore line wrapping when matching.
 The report's other text, title and figures stay. Put discrepancies with the report

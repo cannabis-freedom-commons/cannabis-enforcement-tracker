@@ -1,6 +1,7 @@
 package research
 
 import (
+	"errors"
 	"context"
 	"fmt"
 	"os"
@@ -13,11 +14,13 @@ import (
 	"gopkg.in/yaml.v3"
 )
 
-func TestMergedQuestionsHaveNoPerRunLifetimeCeiling(t *testing.T) {
+// writeQuestionsReport puts a valid report with these open questions into a fresh checkout.
+func writeQuestionsReport(t *testing.T, questions int) (string, Result) {
+	t.Helper()
 	dir := t.TempDir()
 	r := valid()
 	r.Facts[0].Text = strings.Repeat("Police raided the farm and arrested two men. ", 6)
-	for i := 0; i < 30; i++ {
+	for i := 0; i < questions; i++ {
 		r.Uncertainties = append(r.Uncertainties, fmt.Sprintf("Original unresolved question %d.", i))
 	}
 	path := filepath.Join(dir, "reports/2026/01", r.Slug+".md")
@@ -27,27 +30,119 @@ func TestMergedQuestionsHaveNoPerRunLifetimeCeiling(t *testing.T) {
 	if err := os.WriteFile(path, []byte(r.Markdown()), 0644); err != nil {
 		t.Fatal(err)
 	}
-	u := ReportUpdate{Report: r.Slug, Facts: r.Facts, Uncertainties: []string{"Original  unresolved question 0.", "A genuinely new discrepancy remains unresolved."}}
-	d, err := UpdateReport(dir, u, r.Sources, nil)
-	if err != nil {
-		t.Fatal(err)
-	}
+	return dir, r
+}
+
+func questionsOf(t *testing.T, content string) []string {
+	t.Helper()
 	var header struct {
 		Questions []string `yaml:"open_questions"`
 	}
-	if err := yaml.Unmarshal([]byte(strings.SplitN(d.Content, "---", 3)[1]), &header); err != nil {
+	if err := yaml.Unmarshal([]byte(strings.SplitN(content, "---", 3)[1]), &header); err != nil {
 		t.Fatal(err)
 	}
-	if len(header.Questions) != 31 || header.Questions[0] != r.Uncertainties[0] || header.Questions[30] != u.Uncertainties[1] {
-		t.Fatal(header.Questions)
+	return header.Questions
+}
+
+// Updates no longer pile up open questions: adding past the bound asks for the revised list.
+func TestUpdateQuestionsAreBounded(t *testing.T) {
+	dir, r := writeQuestionsReport(t, 11)
+	u := ReportUpdate{Report: r.Slug, Facts: r.Facts, Uncertainties: []string{"Original  unresolved question 0.", "A genuinely new discrepancy remains unresolved."}}
+	d, err := UpdateReport(dir, u, r.Sources, nil)
+	if err != nil {
+		t.Fatal("one new question within the bound", err)
+	}
+	if q := questionsOf(t, d.Content); len(q) != 12 || q[11] != u.Uncertainties[1] {
+		t.Fatal(q)
+	}
+	if err := os.WriteFile(filepath.Join(dir, d.Path), []byte(d.Content), 0644); err != nil {
+		t.Fatal(err)
+	}
+	u.Uncertainties = []string{"Yet another account gives a different date."}
+	if _, err := UpdateReport(dir, u, r.Sources, nil); !errors.Is(err, ErrOpenQuestions) {
+		t.Fatal("a thirteenth question must ask for the revised list", err)
+	}
+	// the revised list replaces the old one, however long it was
+	revised := []string{"Accounts disagree on the date.", "No one has been charged."}
+	u.Uncertainties, u.OpenQuestions = nil, &revised
+	d, err = UpdateReport(dir, u, r.Sources, nil)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if q := questionsOf(t, d.Content); strings.Join(q, "|") != strings.Join(revised, "|") {
+		t.Fatal(q)
 	}
 	if err := CheckReport(repo, d.Path, d.Content); err != nil {
-		t.Fatal("accumulated questions invalidated a sourced report", err)
+		t.Fatal(err)
 	}
-	// Intake bounds remain in force even though a report can accumulate more over time.
-	r.Uncertainties = append(r.Uncertainties, "Thirty-first question in one model result.")
+	// an overgrown legacy report can still gain a citation without new questions
+	dir, r = writeQuestionsReport(t, 40)
+	if _, err := UpdateReport(dir, ReportUpdate{Report: r.Slug, Facts: r.Facts}, r.Sources, nil); err != nil && !errors.Is(err, ErrUnchanged) {
+		t.Fatal(err)
+	}
+	// and a revised list of at most 12 cleans it up
+	short := []string{"No one has been charged."}
+	d, err = UpdateReport(dir, ReportUpdate{Report: r.Slug, Facts: r.Facts, OpenQuestions: &short}, r.Sources, nil)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if q := questionsOf(t, d.Content); len(q) != 1 {
+		t.Fatal(q)
+	}
+	// an empty revised list removes them all
+	none := []string{}
+	if err := os.WriteFile(filepath.Join(dir, d.Path), []byte(d.Content), 0644); err != nil {
+		t.Fatal(err)
+	}
+	d, err = UpdateReport(dir, ReportUpdate{Report: r.Slug, Facts: r.Facts, OpenQuestions: &none}, r.Sources, nil)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if strings.Contains(d.Content, "open_questions") {
+		t.Fatal("empty revised list left the key")
+	}
+	// one model result is bounded too
+	r = valid()
+	for i := 0; i < MaxOpenQuestions+1; i++ {
+		r.Uncertainties = append(r.Uncertainties, fmt.Sprintf("Question %d.", i))
+	}
 	if r.Validate(map[string]bool{"th": true}) == nil {
-		t.Fatal("unbounded per-run questions")
+		t.Fatal("unbounded questions in one result")
+	}
+}
+
+// Notes about the research are not questions about the case.
+func TestResearchNotesAreNotOpenQuestions(t *testing.T) {
+	for _, q := range []string{
+		"The submitted page says six hours, while the existing report says seven.",
+		"The page displays a photo without a caption, so no media entry is listed for this source.",
+	} {
+		r := valid()
+		r.Uncertainties = []string{q}
+		if r.Validate(map[string]bool{"th": true}) == nil {
+			t.Fatal("accepted", q)
+		}
+		u := ReportUpdate{Report: r.Slug, Facts: r.Facts, Uncertainties: []string{q}}
+		if u.validate(len(r.Sources), nil) == nil {
+			t.Fatal("update accepted", q)
+		}
+	}
+	r := valid()
+	r.Uncertainties = []string{"Accounts give the walk as six to nine hours."}
+	if err := r.Validate(map[string]bool{"th": true}); err != nil {
+		t.Fatal(err)
+	}
+}
+
+// A new detail joins the paragraph of the sentence it follows instead of a new paragraph at the end.
+func TestNewDetailFollowsItsSentence(t *testing.T) {
+	body := "Police raided the farm. [@1] Two men were held.\n\nThe court will rule later. [@1]"
+	got, ok := insertAfter(body, "Police raided the farm", "They found 40 plants. [@2]")
+	if !ok || got != "Police raided the farm. [@1] They found 40 plants. [@2] Two men were held.\n\nThe court will rule later. [@1]" {
+		t.Fatal(got)
+	}
+	if _, ok := insertAfter(body, "A sentence that is not there", "x"); ok {
+		t.Fatal("matched a missing sentence")
 	}
 }
 

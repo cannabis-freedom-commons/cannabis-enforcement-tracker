@@ -49,6 +49,7 @@ type Fact struct {
 	Paragraph    int    `json:"paragraph,omitempty"`     // facts with the same number make one paragraph
 	ExistingText string `json:"existing_text,omitempty"` // existing sentence corroborated by this source
 	NewDetail    bool   `json:"new_detail,omitempty"`    // explicitly novel information in an existing report
+	AfterText    string `json:"after_text,omitempty"`    // a new detail goes right after this existing sentence
 }
 
 // Media is a photo or video of the event that may not be copied to the site (a newspaper's, an
@@ -121,6 +122,9 @@ type Result struct {
 	Explanation    string           `json:"explanation"`
 	DecisionTitle  string           `json:"decision_title,omitempty"`
 	Uncertainties  []string         `json:"uncertainties"`
+	// For additional_source and existing_case: the existing report's complete revised open questions,
+	// replacing its list (ReportUpdate.OpenQuestions).
+	OpenQuestions *[]string `json:"open_questions,omitempty"`
 	// Other existing reports this run changes (additional sources, open questions, corrections).
 	Updates          []ReportUpdate    `json:"report_updates,omitempty"`
 	EventComparisons []EventComparison `json:"event_comparisons,omitempty"`
@@ -215,12 +219,22 @@ func (r Result) Validate(countries map[string]bool, vocab ...Vocabularies) error
 	if n := utf8.RuneCountInString(r.Explanation); n < 10 || n > 1500 || plain.MatchString(r.Explanation) {
 		return errors.New("invalid explanation")
 	}
-	if len(r.Sources) > 8 || len(r.Facts) > 30 || len(r.Uncertainties) > 30 {
-		return errors.New("result exceeds bounds")
+	if len(r.Sources) > 8 || len(r.Facts) > 30 || len(r.Uncertainties) > MaxOpenQuestions {
+		return fmt.Errorf("result exceeds bounds: at most 8 sources, 30 facts and %d open questions", MaxOpenQuestions)
 	}
-	for _, question := range r.Uncertainties {
+	if r.OpenQuestions != nil && len(*r.OpenQuestions) > MaxOpenQuestions {
+		return fmt.Errorf("open_questions lists %d; at most %d", len(*r.OpenQuestions), MaxOpenQuestions)
+	}
+	questions := append([]string{}, r.Uncertainties...)
+	if r.OpenQuestions != nil {
+		questions = append(questions, *r.OpenQuestions...)
+	}
+	for _, question := range questions {
 		if strings.TrimSpace(question) == "" || len(question) > 4000 || strings.ContainsAny(question, "\x00") {
 			return errors.New("invalid open question")
+		}
+		if p := questionProblem(question); p != "" {
+			return errors.New(p)
 		}
 	}
 	for _, s := range r.Sources {

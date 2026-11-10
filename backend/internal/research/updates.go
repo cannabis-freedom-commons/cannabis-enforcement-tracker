@@ -18,15 +18,40 @@ import (
 
 // ReportUpdate changes another existing report in the same run: it adds this run's sources to it
 // (another account of an event the tracker already records, or a related report the article also
-// covers) and can add open questions and correct its title or summary. Each fact names a source of
-// this run and quotes it; its text is the report's sentence it supports, which then cites the
-// added source too. Explicit new_detail facts add novel sentences. Nothing else changes.
+// covers) and can revise its open questions and correct its title or summary. Each fact names a
+// source of this run and quotes it; its text is the report's sentence it supports, which then cites
+// the added source too. Explicit new_detail facts add novel sentences, placed after the sentence
+// named by after_text when given. Nothing else changes.
+//
+// Open questions do not pile up: OpenQuestions, when set, is the report's complete revised list
+// (answered, repeated and merely procedural questions dropped) and replaces the old one;
+// Uncertainties only adds to it, and is refused (ErrOpenQuestions) once the report would hold more
+// than MaxOpenQuestions, so the model sends the revised list instead.
 type ReportUpdate struct {
-	Report        string   `json:"report"`
-	Facts         []Fact   `json:"facts"`
-	Uncertainties []string `json:"uncertainties,omitempty"`
-	Title         string   `json:"title,omitempty"`
-	Summary       string   `json:"summary,omitempty"`
+	Report        string    `json:"report"`
+	Facts         []Fact    `json:"facts"`
+	Uncertainties []string  `json:"uncertainties,omitempty"`
+	OpenQuestions *[]string `json:"open_questions,omitempty"`
+	Title         string    `json:"title,omitempty"`
+	Summary       string    `json:"summary,omitempty"`
+}
+
+// MaxOpenQuestions bounds a report's open questions: the real gaps and disagreements of the case,
+// not one line per source (docs/WRITING.md §9).
+const MaxOpenQuestions = 12
+
+// ErrOpenQuestions asks the model for the report's complete revised list of open questions.
+var ErrOpenQuestions = errors.New("the report would have too many open questions")
+
+// questionProblem refuses notes about the research itself, which are not questions about the case.
+func questionProblem(q string) string {
+	low := strings.ToLower(q)
+	for _, phrase := range []string{"submitted page", "existing report", "media entry", "no media", "so no media"} {
+		if strings.Contains(low, phrase) {
+			return fmt.Sprintf("open question %q is a note about the research (%q), not a question about the case: leave it out", excerpt(q), phrase)
+		}
+	}
+	return ""
 }
 
 // ErrUnchanged is an update that would change nothing: its sources are already in the report.
@@ -42,8 +67,11 @@ func (u ReportUpdate) validate(sources int, cited map[int]bool) error {
 	if len(u.Facts) == 0 || len(u.Facts) > 30 {
 		return fmt.Errorf("the update of %s needs 1–30 facts (it has %d): each names a source of this answer, quotes it, and gives the report's sentence it supports", u.Report, len(u.Facts))
 	}
-	if len(u.Uncertainties) > 30 {
-		return fmt.Errorf("the update of %s has %d open questions; at most 30", u.Report, len(u.Uncertainties))
+	if len(u.Uncertainties) > MaxOpenQuestions {
+		return fmt.Errorf("the update of %s has %d new open questions; at most %d", u.Report, len(u.Uncertainties), MaxOpenQuestions)
+	}
+	if u.OpenQuestions != nil && len(*u.OpenQuestions) > MaxOpenQuestions {
+		return fmt.Errorf("the revised open questions of %s number %d; at most %d", u.Report, len(*u.OpenQuestions), MaxOpenQuestions)
 	}
 	for i, f := range u.Facts {
 		if p := mergeProblem(f); p != "" {
@@ -56,9 +84,16 @@ func (u ReportUpdate) validate(sources int, cited map[int]bool) error {
 			return fmt.Errorf("update of %s, fact %d (%q): source %d is not cited by any of the answer's own facts; a report update may only use sources the answer cites", u.Report, i+1, excerpt(f.Text), f.Source)
 		}
 	}
-	for _, q := range u.Uncertainties {
+	questions := append([]string{}, u.Uncertainties...)
+	if u.OpenQuestions != nil {
+		questions = append(questions, *u.OpenQuestions...)
+	}
+	for _, q := range questions {
 		if strings.TrimSpace(q) == "" || len(q) > 4000 || strings.ContainsAny(q, "\x00") {
 			return errors.New("invalid open question")
+		}
+		if p := questionProblem(q); p != "" {
+			return fmt.Errorf("update of %s: %s", u.Report, p)
 		}
 	}
 	if u.Title != "" {
@@ -76,7 +111,7 @@ func (u ReportUpdate) validate(sources int, cited map[int]bool) error {
 
 // Primary is the update an additional_source answer makes to its existing report.
 func (r Result) Primary() ReportUpdate {
-	return ReportUpdate{Report: r.ExistingReport, Facts: r.Facts, Uncertainties: r.Uncertainties}
+	return ReportUpdate{Report: r.ExistingReport, Facts: r.Facts, Uncertainties: r.Uncertainties, OpenQuestions: r.OpenQuestions}
 }
 
 func findReport(dir, name string) (string, error) {
@@ -143,6 +178,30 @@ func cite(body, sentence string, n int) (string, bool) {
 		}
 	}
 	return body, false
+}
+
+// insertAfter puts sentence (with its citation) right after the existing sentence after and its
+// citation, in the same paragraph; false if that sentence is not in the body.
+func insertAfter(body, after, sentence string) (string, bool) {
+	after = strings.TrimRight(strings.TrimSpace(after), ".")
+	if after == "" {
+		return body, false
+	}
+	words := strings.Fields(after)
+	for i := range words {
+		words[i] = regexp.QuoteMeta(words[i])
+	}
+	match := regexp.MustCompile(strings.Join(words, `\s+`)).FindStringIndex(body)
+	if match == nil {
+		return body, false
+	}
+	at := match[1]
+	if m := citation.FindStringIndex(body[at:]); m != nil {
+		at += m[1]
+	} else if at < len(body) && body[at] == '.' {
+		at++
+	}
+	return body[:at] + " " + sentence + body[at:], true
 }
 
 // UpdateReport applies an update to an existing report in the checkout, keeping the rest of the
@@ -273,10 +332,16 @@ func mergeReport(dir string, u ReportUpdate, sources []Source, media []Media, cu
 		} else if f.ExistingText != "" || !f.NewDetail {
 			return d, ErrMergeTarget
 		} else if !strings.Contains(body, strings.TrimSpace(f.Text)) {
-			if extra != "" {
-				extra += " "
+			sentence := strings.TrimSpace(f.Text) + " [@" + strconv.Itoa(n) + "]"
+			// a new detail joins the paragraph of the sentence it follows, not a new one at the end
+			if next, ok := insertAfter(body, f.AfterText, sentence); f.AfterText != "" && ok {
+				body = next
+			} else {
+				if extra != "" {
+					extra += " "
+				}
+				extra += sentence
 			}
-			extra += strings.TrimSpace(f.Text) + " [@" + strconv.Itoa(n) + "]"
 			changed = true
 		}
 	}
@@ -323,7 +388,28 @@ func mergeReport(dir string, u ReportUpdate, sources []Source, media []Media, cu
 		}
 	}
 	var newQuestions []*yaml.Node
-	{
+	var replaceQuestions *yaml.Node
+	if u.OpenQuestions != nil {
+		// the complete revised list replaces the old one
+		revised := &yaml.Node{Kind: yaml.SequenceNode, Tag: "!!seq"}
+		for _, q := range *u.OpenQuestions {
+			revised.Content = append(revised.Content, scalar(strings.Join(strings.Fields(q), " ")))
+		}
+		oldValues := []string{}
+		if questions := mapping(header, "open_questions"); questions != nil {
+			for _, o := range questions.Content {
+				oldValues = append(oldValues, strings.Join(strings.Fields(o.Value), " "))
+			}
+		}
+		newValues := []string{}
+		for _, q := range revised.Content {
+			newValues = append(newValues, q.Value)
+		}
+		if strings.Join(oldValues, "\n") != strings.Join(newValues, "\n") {
+			replaceQuestions = revised
+			changed = true
+		}
+	} else {
 		var old []*yaml.Node
 		if questions := mapping(header, "open_questions"); questions != nil {
 			old = questions.Content
@@ -337,6 +423,9 @@ func mergeReport(dir string, u ReportUpdate, sources []Source, media []Media, cu
 				newQuestions = append(newQuestions, scalar(q))
 				changed = true
 			}
+		}
+		if len(newQuestions) > 0 && len(old)+len(newQuestions) > MaxOpenQuestions {
+			return d, fmt.Errorf("%w: %s would have %d (at most %d). Give open_questions: the report's complete revised list, with answered, repeated and procedural ones left out", ErrOpenQuestions, u.Report, len(old)+len(newQuestions), MaxOpenQuestions)
 		}
 	}
 	if !changed {
@@ -362,6 +451,15 @@ func mergeReport(dir string, u ReportUpdate, sources []Source, media []Media, cu
 		items []*yaml.Node
 	}{{"sources", newSources}, {"media", newMedia}, {"open_questions", newQuestions}} {
 		if front, err = appendItems(front, add.key, add.items); err != nil {
+			return d, err
+		}
+	}
+	if replaceQuestions != nil {
+		if len(replaceQuestions.Content) == 0 {
+			if start, end := block(front, "open_questions"); start >= 0 {
+				front = append(append([]string{}, front[:start]...), front[end:]...)
+			}
+		} else if front, err = setNode(front, "open_questions", replaceQuestions); err != nil {
 			return d, err
 		}
 	}

@@ -27,8 +27,10 @@ every source it cites, must be about that event.
   before changing it. Confirm the match from the event, people, place and dates; a similar headline
   or the same country is not enough. Make the supported update in the same run without waiting for
   a separate request. A corroborating source strengthens existing sentences with citations; a
-  genuinely new detail gets its own cited sentence. Resolve answered open questions and record
-  remaining discrepancies. Preserve the stable slug, earlier evidence and original creator, and
+  genuinely new detail gets its own cited sentence, in the paragraph it belongs to. Resolve
+  answered open questions and record remaining discrepancies. A report grows when the case does,
+  not with each source: forty outlets repeating one statement add forty citations, not forty
+  sentences. When a report has grown by accretion, rewrite it once with every fact and source kept. Preserve the stable slug, earlier evidence and original creator, and
   avoid retelling facts already present. Keep the other event out of the report you started with.
   Archive and validate every changed report, and list these updates in the final response.
 
@@ -195,7 +197,10 @@ older unchecked prose. Corrected titles or summaries remain `reported` pending a
 
 What the sources leave open goes in `open_questions` in the front matter, not into the text: the
 report says what is known, the questions say what is not. The report page lists them under the text
-as "Open questions". One plain sentence each, standing on its own, no citations:
+as "Open questions". One plain sentence each, standing on its own, no citations. At most 12 (most
+reports need two to six), each point once however many sources raise it; when a source answers
+one, take it out. They are about the case, never about the research: no "the submitted page
+says…", "the existing report…", or which photo or page could not be used.
 
 - **Missing figures:** no count of plants, no weight, area, value or number of people
   ("No figure for the plants destroyed or the area cleared was published").
@@ -205,8 +210,7 @@ as "Open questions". One plain sentence each, standing on its own, no citations:
   ("No one was named or charged in these reports").
 - **Disagreements:** sources give different numbers or accounts; say which one the report uses.
 - **Left out:** a separate event in the same article that belongs to another report.
-- **Sources:** only one source could be found, a source is a reprint of another, a page could not be
-  opened again or is in a language you could only partly read.
+- **Sources:** the whole account rests on one source, or on reprints of one statement.
 
 ```yaml
 open_questions:
