@@ -111,52 +111,36 @@ sources:
     date: 2026-11-09
     language: de
 open_questions:
-  - Customs does not state the driver's or passenger's nationality, only that their van was Slovak-registered and had carried the parcels from Austria.
-  - 'The release recommends no arrest: the two men were allowed to continue their journey, and no detention, charges before a court or outcome is reported.'
-  - The case was still with the Regensburg public prosecutor's office, and whether the Austrian sender or the German recipients face proceedings as in the separate August parcel case is not reported.
-  - No weight, street value or field area is given; the plants were seedlings counted by number only.
-  - No independent media account of this check was accessible, so the report rests on the customs office's release and its two handout photographs.
-  - The release does not give the exact place of the check beyond 'on the A3 near Hunderdorf', so the coordinates of Hunderdorf are used with district precision.
-  - The plants were seized rather than destroyed; destruction is not reported in this release.
-  - The Regensburger Nachrichten version credits the text to Hauptzollamt Regensburg / RNRed and reproduces the customs release already cited, so it is not independent reporting.
-  - The page does not give the nationality of the two men, only that the van was Slovak-registered and had come from Austria.
-  - Wochenblatt.de reports the check took place on "Monday of last week" and does not give the calendar date; the reported date of 2 November comes from the customs release already cited.
-  - The Wochenblatt.de account is a regional Passauer Neue Presse title and largely reproduces the customs office's release, so it is not independent reporting.
-  - TAG24 does not say where the two men are from or whether they were detained, as in the report's existing account.
-  - TAG24 republishes the customs office's handout photographs credited to Zoll Regensburg, so it adds no independent account of the check.
-  - TAG24 credits the customs unit to Zoll Regensburg and names it as Kontrolleinheit Verkehrswege Furth im Wald, consistent with the report's attribution to the Regensburg main customs office.
-  - The Oberpfalz-Aktuell page appears to reproduce the Regensburg main customs office's release, so it is not independent reporting of the check.
-  - The Passauer Neue Presse text is a regional title of the same publishing group as Wochenblatt.de and reproduces the customs office's release, so it is not independent reporting of the check.
-  - The page dates the check only to "Monday of last week"; the 2 November date comes from the customs release already cited.
-  - 'Left out, as its quotation was not found in Passauer Neue Presse (pnp.de): Customs officers of the Furth im Wald traffic control unit of the Regensburg main customs office seized 1,230 cannabis plants on the A3 near Hunderdorf on 2 November 2026.'
-  - The TVA Ostbayern page is credited to dpa and appears to restate the customs office's release, so it is not independent reporting of the check.
-  - The page gives no nationality or place of origin for the two men, only that their van was Slovak-registered and had carried the parcels from Austria.
+  - The two men's nationality was not given, only that their van was registered in Slovakia.
+  - The men were not detained; the case is with the Regensburg public prosecutor, and it is not said whether the sender or the recipients face proceedings.
+  - No weight or value was given for the plants.
+  - The check is placed only on the A3 near Hunderdorf.
+  - It is not said whether the plants were destroyed.
+  - Every account reproduces the customs office's release.
 ---
 
-Customs officers of the Furth im Wald traffic control unit of the Regensburg
-main customs office seized 1,230 cannabis plants on the A3 near Hunderdorf on 2
-November 2026. [@1,2,4,5,7] Customs opened criminal proceedings against the van's driver
-and his passenger on suspicion of the prohibited import of cannabis. [@1,4,6,7] The
-plants had been carried from Austria into Germany in a small van. [@1]
+Customs officers of the Furth im Wald traffic control unit of the Regensburg main customs office seized
+1,230 cannabis plants on the A3 near Hunderdorf on 2 November 2026 [@1,2,4,5,7], and published two
+photographs of them. [@6] The plants had been carried from Austria into Germany in a small van. [@1]
 
-During the check of the Slovak-registered van the two men said they were
-carrying postal parcels from Austria to Germany for a logistics company. [@1,3,4,7] On
-the load bed officers found several parcels wrapped in black foil addressed to
-recipients in Germany, and 13 boxes held 1,230 young cannabis plants. [@1,3,4,7] The
-two men said they did not know what the parcels contained and presented a
-loading list and a lawyer's letter assessing the transport as permissible. [@1,3,5,7]
+During the check of the Slovak-registered van the two men said they were carrying postal parcels from
+Austria to Germany for a logistics company. [@1,3,4,7] On the load bed officers found several parcels
+wrapped in black foil addressed to recipients in Germany, and 13 boxes held 1,230 young cannabis plants.
+[@1,3,4,7] The two men said they did not know what the parcels contained and showed a loading list and a
+lawyer's letter saying the transport was permitted. [@1,3,5,7]
 
-Customs judged the plants by their actual stage of development: they had already
-been planted in soil and grown into independent young plants, so officers
-classed them as seedlings (Setzlinge), which count as cannabis plants. [@1,7]
-Customs opened proceedings on suspicion of a violation of the Cannabis
-Consumption Act (Konsumcannabisgesetz) in conjunction with Bannbruch, the
-customs offence of evading import bans. [@1,4] After the measures were completed
-the two men were allowed to continue their journey, and the case was referred to
-the Regensburg public prosecutor's office for further assessment. [@1,3,5,7] Customs
-said the import of seedlings into Germany is prohibited even from another EU
-state and regardless of the number of plants. [@1,7]
+## Seedlings, not cuttings
 
-Customs said a cutting (Steckling), a young plant or shoot without flowers or fruit, counts under the Cannabis Consumption Act as propagation material and not as cannabis. [@2] Once a cutting is planted and grows on as an independent plant it becomes a seedling (Setzling), which counts as a cannabis plant. [@2] The customs office said the label used in an online shop, an order or on a parcel does not decide the classification; the plant's actual stage of development does. [@2] Customs noted that the import ban applies to seedlings and independent plants even from another EU state and regardless of the number of plants, and that the rules letting adults grow up to three plants at home do not permit ordering plants from abroad. [@2] Customs is entitled to check consignments moved from other EU states to Germany because bans and restrictions remain for certain goods despite the free movement of goods within the European Union. [@2,7]
+Customs judged the plants by their actual stage of growth: they had been planted in soil and grown into
+independent young plants, so officers classed them as seedlings (Setzlinge), which count as cannabis
+plants. [@1,7] A cutting (Steckling), a shoot without flowers or fruit, counts under the Cannabis
+Consumption Act as propagation material, but once planted and growing on its own it becomes a seedling;
+the label in a shop, an order or on a parcel does not decide this. [@2] Importing seedlings into Germany
+is banned even from another EU state and whatever the number [@1,2,7]; the rules letting adults grow three
+plants at home do not allow ordering plants from abroad, and customs may check consignments from other EU
+states because some bans remain despite free movement of goods. [@2,7]
 
-The article credits the Regensburg main customs office for the account and publishes two customs handout photographs of the seized young plants. [@6]
+Customs opened criminal proceedings against the driver and his passenger [@1,4,6,7] on suspicion of a
+breach of the Cannabis Consumption Act together with Bannbruch, the customs offence of evading import
+bans. [@1,4] The two men were then allowed to continue their journey, and the case was referred to the
+Regensburg public prosecutor's office. [@1,3,5,7]

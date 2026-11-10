@@ -108,52 +108,38 @@ sources:
     publisher: Youth India 24 News
     language: hi
 open_questions:
-  - The article states three kilograms of charas in its opening sentence but later says 1.5 kilograms was recovered from the bag, so no cannabis weight is recorded.
-  - The article says the arrest happened late on Tuesday night and was published on 4 November 2026, so 3 November 2026 is used as the incident date.
-  - No court outcome was reported; questioning to identify associates was still under way.
-  - Only one accessible source for this event was found after searching in Hindi and English.
-  - 'The video page repeats the same discrepancy already recorded: three kilograms stated at the start but 1.5 kilograms said to be recovered from the bag, so no cannabis weight is recorded.'
-  - The arrest is described as late on Tuesday night with publication on 4 November 2026, so 3 November 2026 is retained as the incident date.
-  - No independent second outlet was found; the new capture is Amar Ujala's video republication of its own text report.
-  - The new account consistently reports about 3 kg and 3 kg of charas from the shop bag, while the existing Amar Ujala source internally reports three kilos at the start but 1.5 kg recovered from the bag, so no cannabis weight is newly resolved here.
-  - The article says both charas and ganja were sold through the shop but gives no separate ganja weight, so no additional cannabis weight can be recorded.
-  - The lead image without a caption and the portrait captioned only as the accused woman are omitted as media; only the captioned bag-seizure and raid-cordon photos are listed.
-  - The new account's figure of about 1.5 kg of charas and a pistol refers to Riyaz Khatola's earlier separate arrest, not this seizure, and is left out here.
-  - The new account says the value estimate and the seized substance still require confirmation through investigation and testing.
-  - The roundup gives only the Rs 1.5 crore valuation and no weight for the charas, so it does not settle the recorded difference between 3 kg and 1.5 kg.
-  - The roundup repeats the account in a few lines and names no police officer, so it adds no detail beyond the value and the tea-stall cover story.
-  - The Gujarati account gives no weight or value for the 3 November seizure, only that police recovered four charas packets hidden inside an empty LPG cylinder, so the weight difference between 3.131 kg and about 1.5 kg stays unresolved.
-  - The Gujarati account speaks of Shabnam's house search, while other accounts place the recovery at her tea shop; where the charas was actually found is still unclear.
-  - The Gujarati report gives no court outcome and no charge sheet; it says only that police were still raiding to find her associates.
-  - Left out arrested, as no supporting quotation was given.
-  - Left out value, as no supporting quotation was given.
-  - The article consistently reports 3.131 kg in four packets and does not resolve the earlier difference between about 3 kg and 1.5 kg in the Amar Ujala account.
+  - The weight is given as about 3 kg, as 1.5 kg in the same article, and as 3.131 kg.
+  - The charas is said to have been found in a bag at her tea shop, in envelopes around her house, or behind or inside an empty gas cylinder at home.
+  - The arrest is placed late on Tuesday night in reports of 4 November 2026, so 3 November is used.
+  - The Rs 1.5 crore valuation and the substance itself were still to be confirmed by testing.
+  - The shop is said to have sold ganja too, but no ganja was reported seized.
+  - No court step has been reported, and the associates named, Said and Sharafat, have not been reported caught.
 ---
 
-Bajaria police arrested Shabnam Begum, also called Chacha, near her house in
-Kanghi Mohal late on Tuesday night. [@1,3,6,10] She is a resident of Kanghi Mohal in
-Kanpur. [@1,3,4] Women police helped surround her near her house after a precise
-late-night tip. [@1,2,6]
+A joint team of Bajaria police and the Crime Branch, led by Deputy Commissioner (Central) Atul
+Srivastava, arrested Shabnam Begum, about 44, near her house in Kanghi Mohal, Kanpur, late on Tuesday
+night. [@1,3,4,6,10] She is also known as Chacha, Nasreen, Bano and Guddi. [@1,4] Acting on a tip at about
+11 pm [@3,5,8], more than 15 officers, among them women police, surrounded her [@1,2,4,6]; police had been
+told for several days that charas was being sold in Kanghi Mohal. [@1,3,6] The roadside search alarmed
+people nearby. [@1,6]
 
-Police put the international-market value of the seized charas at about Rs 1.5
-crore. [@1,2,3,4,5,6,8] Officers said they had been receiving information for several days
-that charas was being sold in Kanghi Mohal. [@1,3,6] The roadside detention and
-search caused alarm among people nearby. [@1,6]
+## The charas
 
-Police Commissioner Raghuveer Lal said Shabnam's husband Raees Ahmed had died
-some time earlier. [@1,3,6] After his death, she lived with her partner Riyaz
-Khatola. [@1,3,6] Riyaz had earlier been sent to jail for allegedly selling charas
-while carrying an illegal pistol and had not been released. [@1,2,6] Police said
-Shabnam took over his charas-selling business after he went to jail. [@1,2,3,4,6,7,8]
-Besides selling, she also smuggled charas, police said. [@1,6] Women police were
-questioning her to trace her associates. [@1,3,6,10]
+Officers recovered about 3 kg of charas from a bag in her tea shop, which allegedly served as a front for
+selling charas and ganja [@3,5]; another account says it was in envelopes in different parts of the house.
+[@4] Dainik Jagran reported 3.131 kg in four black polythene packets hidden behind an empty cylinder in her
+home. [@7,10] Police valued it at about Rs 1.5 crore on the international market. [@1,2,3,4,5,6,8]
 
-The joint Bajaria police and Crime Branch team raided Shabnam's tea shop after an informant tip at about 11 pm on Tuesday night. [@3,5,8] Officers recovered about 3 kg of charas from a bag kept in the shop. [@3,5] The shop allegedly operated as a front for selling both charas and ganja. [@3,5] Riyaz ran a tea shop in Chaman Ganj which Shabnam frequented before they lived together and ran the shop together. [@3] ACP Seesamau Anand Ojha said Shabnam was being questioned about other people involved in the business. [@3,5]
+## Riyaz's trade
 
-Police said she also used the names Nasreen, Bano and Guddi. [@4] A joint Bajaria police and Crime Branch team led by DCP Central Atul Srivastava carried out the raid. [@4] More than 15 police personnel took part, including women police to complete the legal procedure for the house search. [@4] Officers found the charas in envelopes kept in different parts of the house. [@4]
+Police Commissioner Raghuveer Lal said Shabnam's husband, Raees Ahmed, had died, after which she lived
+with her partner Riyaz Khatola [@1,3,6], who ran a tea shop in Chaman Ganj that she frequented and later
+ran with him. [@3] Riyaz had been jailed for allegedly selling charas while carrying an illegal pistol,
+and was still inside [@1,2,6]; police said Shabnam took over his trade [@1,2,3,4,6,7,8] and also smuggled
+charas. [@1,6] She had it brought from Nepal through Said, a close associate of Riyaz, used others such as
+Sharafat to deliver it to schools, colleges and parts of the city, and admitted saving the proceeds to pay
+for Riyaz's bail, police said. [@9]
 
-Dainik Jagran reported that the charas weighed 3.131 kg and was recovered in four black-polythene packets hidden behind an empty cylinder inside Shabnam's home. [@7,10]
-
-Police said Shabnam had charas brought from Nepal through Said, a close associate of Riyaz, and used other associates such as Sharafat to deliver it to schools, colleges and various parts of the city. [@9] Police said that during questioning Shabnam admitted she was using the proceeds of the trade to collect money to pay for Riyaz's bail. [@9] Police Commissioner Raghuveer Lal said various police teams were raiding continuously to catch the associates who supplied Shabnam with charas from Nepal and distributed it in the city. [@9]
-
-Shabnam Begum was about 44 years old. [@10] Police registered a case under sections 8/20 of the NDPS Act and were preparing to produce her in court. [@10]
+Police registered a case under sections 8/20 of the NDPS Act and were preparing to bring her before a
+court. [@10] Women police and Seesamau Assistant Commissioner Anand Ojha questioned her about her
+associates [@1,3,5,6,10], and police teams were raiding to catch her suppliers and distributors. [@9]

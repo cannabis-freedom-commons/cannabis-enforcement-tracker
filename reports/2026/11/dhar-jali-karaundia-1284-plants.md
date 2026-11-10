@@ -100,52 +100,35 @@ sources:
     date: 2026-11-05
     language: hi
 open_questions:
-  - The article gives no separate date for the two raids; 5 November 2026 is its publication date and is used as the incident date.
-  - No names or ages of the two arrested growers were published.
-  - No court outcome beyond registration of cases under the NDPS Act was reported.
-  - The article does not say whether the seized green plants were destroyed or retained as evidence.
-  - Only one accessible source for this event was found after searches in Hindi and English.
-  - This account gives the second village as करौंदिया खुर्द (Karaundia Khurd), matching the existing record's spelling; no substantive discrepancy was found.
-  - A second article on breakingtube.com carries the same headline and totals and appears to be a reprint of the same police release, so it does not constitute independent corroboration.
-  - The article gives no separate date for the two raids; 5 November 2026 is its publication date.
-  - 'Left out, as its quotation was not found in Dainik Bhaskar: Police arrested the Jali accused and registered a case against him at Tanda police station under the Narcotic Drugs and Psychotropic Substances Act.'
-  - 'Left out, as its quotation was not found in Dainik Bhaskar: The Umarban outpost police received a tip from an informer on 4 November that cannabis was growing among cotton and pigeon pea in a Karondiya Khurd field and raided the field after confirming it.'
-  - 'Left out, as its quotation was not found in Dainik Bhaskar: The Manawar station house chief said the Karondiya Khurd action was the tenth against illegal cannabis cultivation under Operation Prahar in the district in two months, with ten cases registered.'
-  - The article gives no separate date for the two raids; 5 November 2026 is its publication date and is used here as the incident date.
-  - The article does not name the two arrested growers, give the field areas or record any court outcome.
-  - Neither account gives a separate date for the Jali raid; 5 November 2026 is the Vocal TV publication date already used as the report's incident date.
-  - The Vocal TV page photo carries no caption beyond the headline and no credit, so it is not established that it shows either of the two fields.
-  - The Nai Dunia report does not give a separate date for either raid; 5 November 2026 is the incident date already used, while the article was published on 6 November 2026.
-  - The article gives no court outcome beyond registration of cases under the NDPS Act.
-  - Ghamasan News reproduces the same Dhar police release as the outlets already cited, so it is not independent reporting of the raids.
-  - The article gives no separate date for either raid; 5 November 2026 is its publication date and the date already used for the incident.
-  - The page's handout photo carries no caption other than the story headline and the tag Dhar Police, so it is not established which of the two fields it depicts.
+  - No date was given for the Jali raid; 5 November 2026 is the date of the reports.
+  - The Karaundia Khurd grower was not named, and no ages were given.
+  - It is not said whether the plants were destroyed or kept as evidence.
+  - The others named by the Jali grower have not been reported caught.
+  - No court step beyond the cases under the NDPS Act has been reported.
+  - Every account reproduces the Dhar police release.
 ---
 
-Dhar police carried out two raids against illegal cannabis cultivation in Dhar
-district under Operation Prahar on the direction of Superintendent of Police
-Sachin Sharma. [@1,2,3] Officers arrested two growers accused of cultivating
-cannabis illegally in the two actions. [@1,2,3,6] Officers seized a total of 1,284
-green cannabis plants, known locally as ganja, weighing 969.335 kg in the two
-actions. [@1,2,3,4,6,7,10] Police valued the total seizure at 1 crore 57 lakh 12 thousand
-rupees. [@1,2,3,4,6,7,9]
+Dhar police carried out two raids against illegal cannabis cultivation in Dhar district under Operation
+Prahar, on the direction of Superintendent of Police Sachin Sharma. [@1,2,3] They arrested two growers
+[@1,2,3,6] and seized 1,284 green cannabis plants, known locally as ganja, weighing 969.335 kg
+[@1,2,3,4,6,7,10], which police valued at 1 crore 57 lakh 12 thousand rupees. [@1,2,3,4,6,7,9]
 
-Tanda police raided Jali village and seized 1,134 green cannabis plants from the
-accused grower's cotton field. [@1,2,6,7,9,10] Police said the Jali plants weighed 518.335
-kg and put their estimated market value at about 1 crore 3 lakh rupees. [@1,2,6]
-Police arrested the Jali accused and registered a case against him at Tanda
-police station under the Narcotic Drugs and Psychotropic Substances Act. [@1,2,9,10] In
-the second action, the Umarban outpost of Manawar police raided Karaundia Khurd
-village and seized 150 cannabis plants from the accused grower's field. [@1,2,6,7,9,10] The
-Karaundia Khurd plants had been grown among cotton and tuar, the local name for
-pigeon pea, and police said they weighed 451 kg with an estimated value of 54
-lakh 12 thousand rupees. [@1,2,5,6] Police arrested the second accused and took legal
-action against him under the Narcotic Drugs and Psychotropic Substances Act.
-[@1,2,10]
+## Jali
 
-Police said the campaign is not limited to seizures but also focuses on tracing
-the source, supply networks and people involved in the trade. [@1,2,6]
+Tanda police raided Jali village and seized 1,134 plants from the grower's cotton field.
+[@1,2,6,7,9,10] Police said they weighed 518.335 kg and were worth about 1 crore 3 lakh rupees. [@1,2,6]
+They arrested Bhangda, son of Thawla Katara, of Jali, and registered a case against him at Tanda police
+station under the Narcotic Drugs and Psychotropic Substances Act. [@1,2,8,9,10] He named others involved,
+who are on the run. [@8]
 
-Manawar station in-charge Rajesh Yadav said Umarban police received a tip on 4 November that cannabis was growing among cotton and pigeon pea in a Karaundia Khurd field and raided it after confirming the information. [@5] The station in-charge said the Karaundia Khurd action was the tenth against illegal cannabis cultivation in the area under Operation Prahar in two months, with ten cases registered. [@5]
+## Karaundia Khurd
 
-Police arrested Bhangda, son of Thawla Katara, a resident of Jali village, in the Jali raid and registered a case against him. [@8] In questioning police are seeking the source of the cannabis seeds, the purpose of the cultivation and the supply network. [@8] The man arrested in Jali gave police the names of other people who are on the run, and police are searching for them. [@8] Umarban sub-divisional police officer Pradeep Walter told a press conference that a farmer had grown cannabis plants illegally among his crops in Karaundia Khurd under Operation Prahar. [@8]
+Manawar station in-charge Rajesh Yadav said the Umarban outpost received a tip on 4 November that cannabis
+was growing among cotton and tuar (pigeon pea) in a field at Karaundia Khurd, and raided it after
+confirming the information. [@5] Police seized 150 plants [@1,2,6,7,9,10], weighing 451 kg and worth an
+estimated 54 lakh 12 thousand rupees [@1,2,5,6], and arrested the farmer under the NDPS Act. [@1,2,8,10]
+Yadav said it was the area's tenth action against illegal cultivation under Operation Prahar in two
+months. [@5]
+
+Police said they were tracing the source of the seeds, the purpose of the cultivation and the supply
+networks. [@1,2,6,8]

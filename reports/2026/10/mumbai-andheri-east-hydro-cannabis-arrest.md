@@ -98,53 +98,28 @@ sources:
     publisher: Rediff.com
     date: 2026-10-30
 open_questions:
-  - Mid-Day dates the arrests to Thursday, 29 October; the Rediff report says a Mumbai police official spoke on Friday and its summary dates the arrest to Friday.
-  - No charge sheet, court date or court outcome has been reported.
-  - The two reports spell the second man's surname differently, Ghongade in Mid-Day and Dhongade in the PTI report.
-  - News Danka gives the Rs 66.36 lakh figure as the cannabis's approximate price in the international market, while Mid-Day attributes the valuation to police; the report keeps the police attribution.
-  - The article does not say where the hydroponic cannabis was grown or whom the men intended to supply in Mumbai.
-  - The IANS account and Loksatta say officers spotted the men while on patrol and caught them at the scene, while the PTI report already cited says the arrests followed a tip-off and a trap.
-  - The patrol time is given as 7.50 pm by IANS and Loksatta but as about 7.45 pm in the News Danka report already cited.
-  - Dainik Bhaskar Hindi carries the article as an automated feed item credited to IANS, the same wire copy already cited here from Punjab Kesari, so it adds no independent confirmation of the police account.
-  - 'Left out, as its quotation was not found in News Danka: Sub-Inspector Ranjit Gondkupe of the MIDC police station and the anti-narcotics squad were patrolling on the night of 29 October and spotted the two men at about 7.45 pm.'
-  - The Khaskhabar headline rounds the seizure's value to Rs 66 lakh, while its text gives Rs 66.36 lakh, the figure used in the report.
-  - Saamana says the men came from Satara to traffic cannabis, while the report's existing wording, drawn from other outlets, says they came to sell it.
-  - Saamana says that on seeing police the two tried to throw away a plastic bag and flee, while other cited accounts say they tried to hide a red plastic bag.
-  - Saamana spells the sub-inspector Gondkuppe (गोंदकुप्पे); the report already has Gondkupe.
-  - Saamana states the Rs 66.36 lakh figure as the cannabis's price without naming who made the estimate.
-  - Saamana gives the men's names as Omkar Pawar and Piyush Ghongade and does not give the ages or patronymics already in the report.
-  - Pudhari gives the patrol time as about 7.50 pm near J.K. Industrial Estate, matching the IANS and Loksatta timing already noted, not the about 7.45 pm in News Danka.
-  - Pudhari spells the sub-inspector गोंदुकुपे (Gondukupe), a third spelling beside Gondkupe and Gondkuppe already recorded.
-  - The page image is captioned only Arrest and the file path is dated January 2026, so it was not treated as a photo of this seizure.
-  - 'Left out, as its quotation was not found in Pudhari: Police gave the men''s addresses as Bhakarwadi and Wathar Station in Koregaon, Satara district.'
-  - 'Left out, as its quotation was not found in Lokmat: When police approached, the two men tried to hide a red plastic bag and flee, and officers caught them at the scene.'
+  - Most accounts date the arrests to Thursday 29 October; one summary dates them to Friday.
+  - One account says police acted on a tip-off and laid a trap; others say a patrol spotted the men, at about 7.45 or 7.50 pm.
+  - The second man's surname is spelled Ghongade or Dhongade, and the sub-inspector's in several ways.
+  - The Rs 66.36 lakh is attributed to police in most accounts and called an international market price in one.
+  - Where the cannabis was grown and whom the men meant to supply were not reported.
+  - No charge sheet or court step has been reported.
 ---
 
-MIDC police in Mumbai arrested two men for allegedly possessing and attempting
-to sell 1.896 kg of hydroponic cannabis in Andheri East. [@1,3,4,6,7,8,9,10,11] Police identified
-the men as Omkar Rajendra Pawar, 28, and Piyush Madhukar Ghongade, 22, and said
-they were apprehended near JK Industrial Estate on Paper Box Road on Thursday.
-[@1,7,9,10] The arrests followed a tip-off that two men would arrive near the
-industrial estate to sell the contraband, and officers laid a trap, an MIDC
-police station official said. [@2]
+MIDC police in Mumbai arrested two men for allegedly possessing and trying to sell 1.896 kg of hydroponic
+cannabis in Andheri East. [@1,3,4,6,7,8,9,10,11] They were Omkar Rajendra Pawar, 28, and Piyush Madhukar
+Ghongade, 22, taken near JK Industrial Estate on Paper Box Road on Thursday 29 October. [@1,3,7,9,10] Both
+live in Koregaon, Satara district, at Bhakarwadi and Wathar Station, and had come to Mumbai to sell the
+cannabis, police said. [@1,2,3,5,6,8,9,10,11,12]
 
-A search recovered 1.896 kg of hydroponic cannabis from a red bag. [@2,3,7,10,11,12] Police
-valued the cannabis at Rs 66.36 lakh, about 6.6 million rupees. [@1,3,5,6,8,9,10,11,12] The men had
-travelled from Satara district to Mumbai to sell the contraband, police said.
-[@1,3,5,6,8,9,10,11] Police said both were residents of Koregaon in Satara district. [@2,12]
+A police official said officers acted on a tip-off and laid a trap [@2]; other accounts say a team under
+Sub-Inspector Ranjit Gondkupe, directed by Senior Inspector Ghanshyam Nair, spotted the men while
+patrolling at about 7.45 pm. [@3,9] The two tried to hide a red plastic bag and run, and were caught at
+the scene [@5,6,8,10]; the bag held 1.896 kg of hydroponic cannabis [@2,3,7,10,11,12], cannabis grown in
+a water-based nutrient solution rather than soil. [@2,12] Police valued it at Rs 66.36 lakh.
+[@1,3,5,6,8,9,10,11,12]
 
-A case was registered under the NDPS Act. [@1,3,7,10,12] Police said further investigation
-would examine the supply and distribution network. [@2,3,5,6,8,11,12] Hydroponic cannabis is
-grown in a water-based mineral nutrient solution rather than in soil. [@2,12]
-
-Sub-Inspector Ranjit Gondkupe of the MIDC police station and the anti-narcotics squad were patrolling on the night of 29 October and spotted the two men at about 7.45 pm. [@3] Police gave the men's addresses as Bhakarwadi and Wathar Station in Koregaon, Satara district. [@3,5,6,8,11]
-
-When police approached, the two men tried to hide a red plastic bag and flee, and officers caught them at the scene. [@5,6,8,10]
-
-The case was registered on the complaint of police constable Gautam Bade. [@7,11]
-
-Senior Inspector Ghanshyam Nair of the MIDC police station directed Sub-Inspector Ranjit Gondkuppe's team, which was patrolling on Thursday night and spotted the two men near JK Industrial on Paper Box Road. [@9]
-
-MIDC police registered the case as crime number 1244/2026 under NDPS Act sections 8(c), 20(b) and 29. [@10]
-
-The operation was carried out under the guidance of Deputy Commissioner of Police Datta Nalawade, Senior Inspector Ghanshyam Nair and Inspector (crime) Sunil Karande, by a team of Sub-Inspector Ranjit Gondkushpe, constable Gautam Bade, Babu Yedage, Sachin Thombre, Lokhande and Binal Shingane. [@11]
+The case was registered as crime number 1244/2026 under sections 8(c), 20(b) and 29 of the NDPS Act
+[@1,3,7,10,12], on the complaint of constable Gautam Bade [@7,11]; the operation was overseen by Deputy
+Commissioner Datta Nalawade, Nair and Inspector Sunil Karande. [@11] Police said they would look into the
+supply and distribution network. [@2,3,5,6,8,11,12]

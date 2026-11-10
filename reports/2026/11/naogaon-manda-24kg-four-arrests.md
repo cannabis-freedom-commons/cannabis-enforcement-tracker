@@ -112,49 +112,26 @@ sources:
     date: 2026-11-01
     language: bn
 open_questions:
-  - The cannabis raids ran from Saturday night through 8:30 a.m. Sunday; the report is dated to the 1 November press briefing that announced them.
-  - No charges, court outcome, drug value or independent weighing was reported.
-  - The same briefing also reported van-theft arrests and 517 recovered mobile phones, separate events left out here.
-  - The Desh TV page carries a press-conference photo whose content could not be verified, so it is not listed as media.
-  - 'Left out, as its quotation was not found in Desh TV: Police seized a total of 24 kg of ganja, the local term for cannabis, from the four men.'
-  - The RTV article also reports the arrests of two van-thief suspects and the recovery of 517 mobile phones; those are separate non-cannabis events left out of the cannabis report.
-  - The article gives no separate calendar date for the night raids; 1 November 2026 is the press-briefing and publication date used as the incident date.
-  - The same briefing also reports two van-theft arrests and 517 recovered mobile phones, separate non-cannabis events left out of the cannabis report.
-  - No charges, court outcome or drug value is given in this account.
-  - This account gives no separate calendar date for the night raids; 1 November 2026 is the press-briefing and publication date used as the incident date.
-  - The same briefing's two van-theft arrests and 517 recovered mobile phones are separate non-cannabis events left out of the cannabis report.
-  - The same article also reports 80 recovered mobile phones and a van-theft arrest with two suspects, separate non-cannabis events left out of the cannabis report.
-  - Sorejomin Barta places the Badalgachhi search at about 10 a.m. and names the Sadar house as rented by Faruk Hossain in the Kumaigari area and the Badalgachhi village as Nihinpur; these details are not in the other opened accounts.
-  - Sorejomin Barta says the 20 kg was recovered from five packets of 4 kg each; NTV gives only the total.
-  - Sarabangla dates the Manda raid to the night and gives the press briefing as Sunday midday; it gives no separate calendar date for each search.
-  - The article's headline counts six arrests, which is four ganja suspects plus two van-theft suspects; only four are counted here.
-  - The text gives a weight ("24 kg") but the figures have no kg_seized; check whether it belongs there.
-  - The article describes the Manda search as taking place at night without giving it a separate calendar date; the 1 November 2026 press briefing is the only date it states.
-  - 'Left out, as its quotation was not found in Daily Jaijaidin: Naogaon District Detective Branch police arrested four alleged drug traders and seized 24 kg of ganja in raids across Manda, Sadar and Badalgachhi upazilas.'
-  - 'Left out, as its quotation was not found in Daily Jaijaidin: Information from Mosharraf then led to Badalgachhi, where police arrested Shilong and Arafat and recovered a further 2 kg from them.'
-  - 'Left out, as its quotation was not found in Daily Jaijaidin: Police said district anti-drug drives of this kind would continue.'
+  - One account says the raids ended by 8.30 am on Sunday; another places the Badalgachhi search at about 10 am.
+  - No separate date is given for each raid; 1 November 2026 is the date of the press briefing.
+  - No value, independent weighing or court step has been reported.
+  - The same briefing reported van-theft arrests and recovered mobile phones, left out of this report.
 ---
 
-Naogaon District Detective Branch (DB) police arrested four alleged drug traders
-in separate raids across Manda, Sadar and Badalgachhi upazilas, sub-districts of
-Naogaon District. [@1,2,3,4,5,6,8,9,10,11,12] The four were identified as Arif Hossain, 30, of
-Raghunathpur in Manda, Mosharraf, 33, of Sherpur Kuralipara in Mohadevpur, and
-brothers Shilong, 23, and Arafat, 23, of Badalgachhi. [@1,3,10,12] Superintendent of
-Police Mohammad Tarikul Islam announced the arrests at a press briefing at his
-Naogaon office on Sunday, 1 November. [@1,3,4,5,6,7,11,12,14]
+Naogaon District Detective Branch (DB) police arrested four alleged drug traders in separate raids across
+Manda, Sadar and Badalgachhi upazilas of Naogaon District. [@1,2,3,4,5,6,8,9,10,11,12] They were Arif
+Hossain, 30, of Raghunathpur in Manda; Mosharraf, 33, of Sherpur Kuralipara in Mohadevpur; and the
+brothers Shilong and Arafat, both 23, of Badalgachhi. [@1,3,10,12] Superintendent of Police Mohammad
+Tarikul Islam announced the arrests at a press briefing at his office on Sunday, 1 November. [@1,3,4,5,6,7,11,12,14]
 
-Acting on a tip about a large stock stored for sale in Manda, officers raided
-Arif Hossain's house in Raghunathpur village late Saturday night and recovered
-20 kg of ganja from a steel trunk. [@1,2,3,4,5,6,7,10,11,12,13,14] Information from Arif led officers to a
-rented house in Naogaon Sadar, where they arrested Mosharraf and recovered
-another 2 kg kept under a bed. [@1,9,10,11,12,14] Information from Mosharraf then led to
-Badalgachhi, where police arrested Shilong and Arafat and recovered a further 2
-kg from them. [@1,3,4,5,6,9,11]
+Acting on a tip about a large stock kept for sale in Manda, officers raided Arif Hossain's house in
+Raghunathpur late on Saturday night and recovered 20 kg of ganja from a steel trunk.
+[@1,2,3,4,5,6,7,10,11,12,13,14] One account says it was packed in five 4-kg packets. [@2] Arif's
+information led officers to a rented house in Naogaon Sadar, in the Kumaigari area, where they arrested
+Mosharraf and found another 2 kg under a bed [@1,2,9,10,11,12,14]; his information then led to
+Badalgachhi, where police arrested Shilong and Arafat in Nihinpur village with a further 2 kg.
+[@1,2,3,4,5,6,9,11]
 
-The cannabis raids ran from Saturday into 8:30 a.m. Sunday and were carried out
-by a Detective Branch team on the superintendent's orders. [@1] Police said
-district anti-drug drives of this kind would continue. [@1]
-
-Cases have been filed against the four arrested men at the relevant police stations under the Narcotics Control Act. [@2,9,10]
-
-Sorejomin Barta reports that the Sadar rented house was in the Kumaigari area and belonged to Faruk Hossain, and that the Badalgachhi search took place around 10 a.m. in Nihinpur village. [@2] NTV reports that the 20 kg of ganja in Manda was recovered from a steel trunk during a night raid. [@12]
+A DB team carried out the raids on the superintendent's orders, from Saturday into 8.30 am on Sunday, and
+police said such drives would continue. [@1] Cases were filed against the four under the Narcotics
+Control Act. [@2,9,10]

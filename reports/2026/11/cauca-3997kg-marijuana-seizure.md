@@ -124,26 +124,11 @@ sources:
     date: 2026-11-09
     language: es
 open_questions:
-  - No municipality or separate date for the operation was published; 7 November 2026 is the EFE dispatch and announcement date and stands in for the event date.
-  - The names, charges and judicial outcome for the two captured people were not reported.
-  - The seized chemicals, caustic soda and scales relate to processing of narcotics generally and are not counted as cannabis figures.
-  - The page's only image is explicitly labelled as an archive photo of an earlier 7-tonne seizure, so no event photo can be listed as media.
-  - El Nacional gives no municipality or separate operation date; it attributes the result to official sources on Saturday and carries an 8 November 2026 publication date.
-  - The page image is captioned only with the headline and has no credit, so it is not established to show this seizure.
-  - The EFE dispatch gives no municipality for the operation; 7 November 2026 is the date of the dispatch and the president's announcement, not a separately stated operation date.
-  - The EFE dispatch in this Swissinfo edition gives the arrest and vehicle figures through the president's statement only and names no municipality for the operation.
-  - The CW+ Noticias page names the three sites but gives no separate date for each procedure; 7 November 2026 is the date of the president's announcement.
-  - The police report does not break down the 3,997 kilograms by site, and CW+ gives only the combined total.
-  - The 3,883 million peso impact is a police estimate that includes chemicals, caustic soda, scales and other supplies, not a marijuana street value alone.
-  - No names, charges or court outcome for the two arrested people were published.
-  - 'Left out, as its quotation was not found in El País: Among the seized material were 1,186 packages of creepy-type marijuana allegedly destined for illegal markets in Peru and Chile.'
-  - Semana gives no separate operation date; its 9 November 2026 publication date is not taken as the event date.
-  - Semana does not break down the 3,997 kilograms by site, and does not say how much was found in Santander de Quilichao.
-  - El País gives no separate date for the three procedures; its 10 November 2026 publication date is not taken as the event date, and the date already recorded for the report stands.
-  - The El País page also reports, in a separate item, the capture in rural Popayán of an alleged commander of the Jaime Martínez structure known as 'Caballo' or 'La Bestia'; that is a different event and is not part of this report.
-  - Semana describes the operations as three simultaneous procedures in the southwest, which is not confirmed by the other accounts for the same day.
-  - El País gives the general's name as Carlos Germán Oviedo and Semana as Carlos Oviedo; both refer to the commander of Police Region 4.
-  - 'Left out, as its quotation was not found in Semana: The Police estimated the economic impact of the three operations at 3,883 million pesos, of which about 800 million corresponds to the chemicals, caustic soda and scales seized in Mondomo, and did not break down the rest.'
+  - No date was given for the three procedures; 7 November 2026 is the date of the president's announcement.
+  - The 3,997 kilograms is not broken down by site, and only one account calls the procedures simultaneous.
+  - The 3,883 million pesos is a police estimate of the economic impact, chemicals and supplies included, not a value of the marijuana.
+  - The two people arrested were not named, and no charges or court outcome were reported; the groups behind the shipment were not identified.
+  - One article also reports the separate capture of an armed-group commander known as Caballo near Popayán, not covered here.
 media:
   - kind: photo
     url: https://cwmas.com.co/nacion/2026/11/09/marihuana-cauca-tres-operativos-policia/
@@ -152,27 +137,26 @@ media:
     caption: 'Police handout photo of marijuana packages and a truck from the Cauca procedures, published with the CW+ Noticias account. Photo: Policía Nacional'
 ---
 
-Colombian authorities seized 3,997 kilograms of marijuana in an operation in the
-department of Cauca in southwestern Colombia. [@1,3,4,5,6,7,8,9,10,11,12,13,14,16,17] The marijuana was reportedly
-to be sent to Peru and Chile. [@1,3,4,5,6,7,10,11,12,14] President Abelardo de la Espriella announced
-the seizure in Cauca, the capture of two people and the immobilisation of three
-vehicles. [@1,3,4,8,10,12,14] Two people were captured and three vehicles were immobilised in
-the operation. [@2,3,5,6,7,9,11,13,15,16,17]
+Colombian authorities seized 3,997 kilograms of marijuana in the department of Cauca in southwestern
+Colombia. [@1,3,4,5,6,7,8,9,10,11,12,13,14,16,17] The marijuana was reportedly to be sent to Peru and Chile.
+[@1,3,4,5,6,7,10,11,12,14] President Abelardo de la Espriella announced the seizure, the capture of two
+people and the immobilisation of three vehicles. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17]
 
-The find came after an operation by the National Police against structures
-dedicated to drug trafficking. [@2,16] Among the seized material were 1,186
-packages of creepy-type marijuana allegedly destined for illegal markets in Peru
-and Chile. [@1,3,4,5,6,8,9,10,11,12,13,14] Authorities also seized 4,542 litres of chemical substances, 100
-containers of caustic soda, 36 scales and other supplies used in clandestine
-laboratories for processing narcotics. [@1,3,4,6,7,8,9,10,11,12,13,14]
+## Three procedures
 
-De la Espriella said each seized shipment means fewer resources to finance
-terrorism, buy weapons and sow violence in the regions. [@1,3,8,14,16] The EMC dissidence,
-the ELN guerrilla and other armed groups fighting for territorial control are
-present in Cauca. [@1,3,8,14]
+The National Police said the haul came from three procedures against drug-trafficking structures
+[@2,16]: in the Río Blanco sector of Popayán, in the municipality of Jambaló, and in Mondomo, a
+corregimiento of Santander de Quilichao. [@15,16,17] Most of the marijuana was collected at Río Blanco and
+Jambaló. [@16] In Mondomo, on the Panamericana highway, police arrested one person, immobilised a truck and
+seized about 4,542 litres of chemicals, 100 containers of caustic soda and 36 scales, Brigadier General
+Carlos Germán Oviedo, commander of Police Region 4, said. [@15,16,17]
 
-The National Police said the three procedures took place in the Río Blanco sector of Popayán, in the municipality of Jambaló and in Mondomo, a corregimiento of Santander de Quilichao. [@15,16,17] In Mondomo, on the Panamericana highway, police arrested one person, immobilised a truck and seized about 4,542 litres of chemicals, 100 containers of caustic soda and 36 scales. [@15,16,17] The Police estimated the economic impact of the three operations at 3,883 million pesos, of which about 800 million corresponds to the chemicals, caustic soda and scales seized in Mondomo, and did not break down the rest. [@15] The Police gave no identification of the affected criminal structures or of the two people arrested. [@15]
+The seized material included 1,186 packages of creepy-type marijuana [@1,3,4,5,6,8,9,10,11,12,13,14], and
+the chemicals, caustic soda, scales and other supplies used in clandestine laboratories for processing
+drugs. [@1,3,4,6,7,8,9,10,11,12,13,14,16] The police put the economic impact at 3,883 million pesos, of
+which about 800 million was the material seized in Mondomo, and did not identify the structures affected
+or the two people arrested. [@15]
 
-The police said most of the 3,997 kilograms was collected in the Río Blanco sector of Popayán municipality and in the town of Jambaló. [@16] Besides the marijuana, the three operations found machinery and chemical supplies used to process narcotics. [@16]
-
-Brigadier General Carlos Germán Oviedo, commander of Police Region 4, gave the account of the Mondomo procedure. [@17]
+De la Espriella said each seized shipment means fewer resources to finance terrorism, buy weapons and sow
+violence in the regions. [@1,3,8,14,16] The EMC dissidents, the ELN guerrilla and other armed groups
+fighting for territorial control are present in Cauca. [@1,3,8,14]
