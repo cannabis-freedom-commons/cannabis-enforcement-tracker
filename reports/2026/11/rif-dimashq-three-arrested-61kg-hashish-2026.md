@@ -60,22 +60,19 @@ sources:
     publisher: إرم نيوز
     date: 2026-11-10
     language: ar
-open_questions:
-    - No exact location within Rif Dimashq Governorate was named, so the governorate centre area is used at region precision.
-    - The article gives no separate date for the two operations; 10 November 2026 is its publication date, announced as Tuesday, and is used as the incident date.
-    - The type of the 200,000 narcotic pills was not specified, so they are left out of the cannabis figures.
-    - The detainees were identified only by initials, and no charges or court outcome beyond referral were reported.
-    - Both accounts trace to the anti-narcotics directorate's own statements via SANA and social media, with no independent confirmation found.
+  - title: 'Coming from Lebanon: Massive Drug Smuggling Network Arrested in Damascus'
+    url: https://dailybeirut.com/en/world/coming-from-lebanon-massive-drug-smuggling-network-arrested-in-damascus/
+    publisher: Daily Beirut
 ---
 
 Syria's anti-narcotics directorate carried out two security operations in Rif
-Dimashq against drug smuggling from Lebanon into Syria. [@1,2] Officers arrested
-three people after intensive field surveillance and monitoring. [@1] The
+Dimashq against drug smuggling from Lebanon into Syria. [@1,2,3] Officers arrested
+three people after intensive field surveillance and monitoring. [@1,3] The
 directorate announced the suspects on Telegram only by their initials. [@1]
 Those arrested were referred to the competent authorities for further
-investigation and legal proceedings. [@1]
+investigation and legal proceedings. [@1,3]
 
-The operations seized 61 kilograms of hashish. [@1,2] Officers also confiscated 2
+The operations seized 61 kilograms of hashish. [@1,2,3] Officers also confiscated 2
 kilograms of marijuana. [@1,2] Authorities also confiscated 200,000 narcotic
 pills, which are excluded from the cannabis figures. [@1,2] The directorate said
 the operations aimed to dismantle trafficking networks and cut drug smuggling

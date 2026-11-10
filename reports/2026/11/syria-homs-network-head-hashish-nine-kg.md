@@ -105,6 +105,9 @@ sources:
     publisher: موقع لبنان الكبير
     date: 2026-11-10
     language: ar
+  - title: 'Coming from Lebanon: Massive Drug Smuggling Network Arrested in Damascus'
+    url: https://dailybeirut.com/en/world/coming-from-lebanon-massive-drug-smuggling-network-arrested-in-damascus/
+    publisher: Daily Beirut
 open_questions:
     - No exact date for the Homs arrest was published; 7 November 2026 is the publication date used as the incident date.
     - The exact location of the arrest within Homs Governorate was not published.
@@ -118,7 +121,7 @@ open_questions:
 Syria's anti-narcotics directorate announced the arrest of a man identified by
 the initials G.Sh., described as the head of a drug trafficking network whose
 two members were arrested in May. [@1,3,4,5,6,10,12] He was found with 9 kilograms of hashish
-and 120,000 Captagon pills, the directorate said. [@1,3,4,5,6,9,10,11,12]
+and 120,000 Captagon pills, the directorate said. [@1,3,4,5,6,9,10,11,12,13]
 
 The directorate said its Homs branch made the arrest, continuing an operation it
 carried out on 5 May 2026 that broke up an attempt to smuggle 200,000 Captagon
