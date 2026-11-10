@@ -96,6 +96,7 @@ open_questions:
   - The eight farms are described only by area and location; the article does not give a hectare figure for each farm.
   - No charges, remand decisions or court dates were reported for the 75 people arrested.
   - The 2,496.11791 kg seizure total covers all illicit substances; only the 2,492.6973 kg cannabis share is recorded, and the report cannot attribute a cannabis figure to any single seizure other than the Otuo load.
+  - The page's single image is captioned only with a file name (IMG 20261109 161652) and carries no credit, so it is not confirmed to show these seizures or farms and no media entry is added.
   - Only this outlet's account of the October results was available, and it reproduces the commander's statement rather than independent reporting.
   - The article does not say which six cases produced the convictions or what sentences were given.
   - The 14,322.0475 kg is the command's estimated yield of the destroyed farms, not a weighed seizure, so it is not recorded in figures.
@@ -109,6 +110,8 @@ open_questions:
   - The page image caption does not state which seizure the car photographed belongs to; the text names the Otuo Toyota Camry as the principal vehicle seizure of the month.
   - The Point NG reproduces the Edo command's statement, like the outlets already cited, and adds no independent reporting on the October figures.
   - The Point NG names five farm sites but still gives no per-farm area or plant count, and no separate raid dates.
+  - The Point NG page carries two images whose captions are bare file names with no credit, so neither is confirmed to show these seizures or farms and no media entry is added.
+  - The People's Gazette uses NAN's rounded command figures (2,496.12 kg of seized substances, 14,322.05 kg of destroyed cannabis, 5.73 hectares) while the existing report records the finer totals; the finer figures are kept.
   - The article does not say what happened to the six cups of cannabis brownies or where they were found.
   - Punch gives no separate date for the October operations; 9 November 2026, the Monday the commander presented the statistics, is the publication date.
   - The Punch photographs carry only the bare caption 'Some recovered exhibits' with no credit, so they are not confirmed to show a specific seizure or farm.
