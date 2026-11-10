@@ -49,6 +49,11 @@ sources:
     publisher: Bharat Samachar
     date: 2026-11-10
     language: hi
+  - title: यूपी एसटीएफ की बड़ी कार्रवाई; 433 किलो से अधिक का गांजा बरामद, 1.25 करोड़ रुपये कीमत, एक तस्कर गिरफ्तार
+    url: https://navbharatlive.com/uttar-pradesh/lucknow/upstf-busted-big-marijuana-smuggling-network-lucknow-sultanpur-highway-ssp12
+    publisher: Navbharat Live
+    date: 2026-11-10
+    language: hi
 open_questions:
     - The reports give no separate date or time for the interception; 10 November 2026 is the articles' publication date and stands in for the incident date.
     - No court outcome or further action after the NDPS case registration was reported.
@@ -56,5 +61,5 @@ open_questions:
 ---
 
 Officers of the Uttar Pradesh STF stopped a truck packed with ganja at the
-Bharatkund toll plaza in Ayodhya and arrested one person at the scene. [@1,2] The alleged ringleader Ikramuddin remained at large and STF teams were searching for him. [@3] A case under sections 8, 20, 29 and 60 of the NDPS Act was registered as crime number 740/2026 at Purakalandar police station in Ayodhya. [@2] The consignment had come from Odisha and was to be delivered to Bahraich district in Uttar Pradesh. [@3] Officers also seized a 14-tyre truck bearing registration RJ-32-GC-0487 along with a mobile phone, a SIM card and a driving licence. [@2] The arrested man was identified as Mohammad Irshad, aged about 35, of Lohinga Kala village in Mewat, Haryana. [@2] Officers seized about 433.930 kg of ganja valued at about Rs 1.25 crore. [@3] The
+Bharatkund toll plaza in Ayodhya and arrested one person at the scene. [@1,2] The alleged ringleader Ikramuddin remained at large and STF teams were searching for him. [@3,4] A case under sections 8, 20, 29 and 60 of the NDPS Act was registered as crime number 740/2026 at Purakalandar police station in Ayodhya. [@2] The consignment had come from Odisha and was to be delivered to Bahraich district in Uttar Pradesh. [@3] Officers also seized a 14-tyre truck bearing registration RJ-32-GC-0487 along with a mobile phone, a SIM card and a driving licence. [@2] The arrested man was identified as Mohammad Irshad, aged about 35, of Lohinga Kala village in Mewat, Haryana. [@2] Officers seized about 433.930 kg of ganja valued at about Rs 1.25 crore. [@3,4] The
 ganja was being carried concealed in the truck in a large quantity. [@1]
