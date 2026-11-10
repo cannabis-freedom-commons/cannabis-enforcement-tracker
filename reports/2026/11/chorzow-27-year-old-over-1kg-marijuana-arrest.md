@@ -59,19 +59,24 @@ sources:
     publisher: Chorzów Nasze Miasto
     date: 2026-11-10
     language: pl
+  - title: Kilogram marihuany w mieszkaniu Chorzowianina. Policjanci zabezpieczyli też 10 tysięcy złotych
+    url: https://dziennikzachodni.pl/kilogram-marihuany-w-mieszkaniu-chorzowianina-policjanci-zabezpieczyli-tez-10-tysiecy-zlotych/ar/c1p2-29513829
+    publisher: Dziennik Zachodni
+    date: 2026-11-10
+    language: pl
 ---
 
 Criminal investigators from the Chorzow police headquarters detained a
 27-year-old resident of the city after receiving information that he might hold
 larger quantities of drugs in his flat. [@1] The 27-year-old was charged with
-possessing a significant quantity of narcotics. [@2,3] He was placed under police
-supervision as a preventive measure. [@2,3]
+possessing a significant quantity of narcotics. [@2,3,4] He was placed under police
+supervision as a preventive measure. [@2,3,4]
 
 Police said they had established that the man might be storing larger quantities
 of intoxicants in a flat in Chorzow. [@1] During the search of the flat,
-officers found more than one kilogram of marijuana, which they seized. [@1,3]
+officers found more than one kilogram of marijuana, which they seized. [@1,3,4]
 Officers also seized nearly 10,000 zloty in cash, which was subjected to a
-property seizure order, along with the man's mobile phone. [@2,3]
+property seizure order, along with the man's mobile phone. [@2,3,4]
 
 The Chorzow police said its criminal investigators acted on information about a
 city resident who might possess larger quantities of drugs in his flat, and that
