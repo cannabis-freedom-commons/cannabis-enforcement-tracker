@@ -53,6 +53,7 @@ open_questions:
   - The Telegraph gives no date for the hearing at which the five charges were put or at which two defendants denied the offences.
   - The date of the Bristol Crown Court appearance it describes as Tuesday is not stated in the text.
   - No trial or sentencing timetable was published, and no outcome for any defendant was reported.
+  - The Yahoo republication dates the interception to May 3, while the existing report gives 6 May 2026 in its body; the shared supported date is left to the existing sources.
 media:
   - kind: photo
     url: https://www.gov.uk/government/news/border-force-secures-its-largest-ever-cannabis-seizure
@@ -87,6 +88,10 @@ sources:
     url: https://www.telegraph.co.uk/news/2026/11/09/welsh-man-and-woman-charged-over-uks-largest-cannabis-haul/
     publisher: The Telegraph
     date: 2026-11-09
+  - title: Welsh man and woman charged over UK's largest cannabis haul
+    url: https://www.yahoo.com/news/world/articles/welsh-man-woman-charged-over-184418634.html
+    publisher: Yahoo News
+    date: 2026-11-09
 ---
 
 Border Force officers found about 12 tonnes of cannabis in two shipping
@@ -108,4 +113,4 @@ three people — two men and one woman in their 30s and 40s, from Merthyr Tydfil
 Ebbw Vale and Abertillery in south Wales — on suspicion of facilitating the
 importations. [@1,2] They were held in police custody. [@1,2]
 
-Two of the defendants have each been charged with fraudulent evasion of a prohibition, conspiracy to supply a controlled drug of Class B to another, and converting criminal property. [@3] The other three have been charged with being knowingly concerned in the importation of cannabis, conspiracy to supply cannabis, money laundering and the smuggling of a prohibited weapon. [@3] At an earlier hearing at Bristol Crown Court, two of those three defendants denied the offences. [@3] All five defendants are due to appear at Bristol Crown Court on a Tuesday that the article does not date. [@3]
+Two of the defendants have each been charged with fraudulent evasion of a prohibition, conspiracy to supply a controlled drug of Class B to another, and converting criminal property. [@3,4] The other three have been charged with being knowingly concerned in the importation of cannabis, conspiracy to supply cannabis, money laundering and the smuggling of a prohibited weapon. [@3,4] At an earlier hearing at Bristol Crown Court, two of those three defendants denied the offences. [@3] All five defendants are due to appear at Bristol Crown Court on a Tuesday that the article does not date. [@3,4]
