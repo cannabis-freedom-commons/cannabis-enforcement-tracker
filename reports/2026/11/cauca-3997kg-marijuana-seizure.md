@@ -137,6 +137,8 @@ open_questions:
   - The 3,883 million peso impact is a police estimate that includes chemicals, caustic soda, scales and other supplies, not a marijuana street value alone.
   - No names, charges or court outcome for the two arrested people were published.
   - 'Left out, as its quotation was not found in El País: Among the seized material were 1,186 packages of creepy-type marijuana allegedly destined for illegal markets in Peru and Chile.'
+  - Semana gives no separate operation date; its 9 November 2026 publication date is not taken as the event date.
+  - Semana does not break down the 3,997 kilograms by site, and does not say how much was found in Santander de Quilichao.
 media:
   - kind: photo
     url: https://cwmas.com.co/nacion/2026/11/09/marihuana-cauca-tres-operativos-policia/
@@ -146,7 +148,7 @@ media:
 ---
 
 Colombian authorities seized 3,997 kilograms of marijuana in an operation in the
-department of Cauca in southwestern Colombia. [@1,3,4,5,6,7,8,9,10,11,12,13,14] The marijuana was reportedly
+department of Cauca in southwestern Colombia. [@1,3,4,5,6,7,8,9,10,11,12,13,14,16] The marijuana was reportedly
 to be sent to Peru and Chile. [@1,3,4,5,6,7,10,11,12,14] President Abelardo de la Espriella announced
 the seizure in Cauca, the capture of two people and the immobilisation of three
 vehicles. [@1,3,4,8,10,12,14] Two people were captured and three vehicles were immobilised in
@@ -165,3 +167,5 @@ the ELN guerrilla and other armed groups fighting for territorial control are
 present in Cauca. [@1,3,8,14]
 
 The National Police said the three procedures took place in the Río Blanco sector of Popayán, in the municipality of Jambaló and in Mondomo, a corregimiento of Santander de Quilichao. [@15,16] In Mondomo, on the Panamericana highway, police arrested one person, immobilised a truck and seized about 4,542 litres of chemicals, 100 containers of caustic soda and 36 scales. [@15,16] The Police estimated the economic impact of the three operations at 3,883 million pesos, of which about 800 million corresponds to the chemicals, caustic soda and scales seized in Mondomo, and did not break down the rest. [@15] The Police gave no identification of the affected criminal structures or of the two people arrested. [@15]
+
+The police said most of the 3,997 kilograms was collected in the Río Blanco sector of Popayán municipality and in the town of Jambaló. [@16] Besides the marijuana, the three operations found machinery and chemical supplies used to process narcotics. [@16]
