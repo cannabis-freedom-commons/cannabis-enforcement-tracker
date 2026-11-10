@@ -62,6 +62,11 @@ sources:
     publisher: Roraima 1
     date: 2026-11-09
     language: pt
+  - title: Investigado por tráfico internacional de drogas é preso no Centro de Boa Vista
+    url: https://g1.globo.com/rr/roraima/noticia/2026/11/09/investigado-por-trafico-internacional-de-drogas-e-preso-no-centro-de-boa-vista.ghtml
+    publisher: G1
+    date: 2026-11-09
+    language: pt
 open_questions:
   - 'The two accounts give different weights for the 2024 load: Folha BV says about 33.65 kilograms, while Araguaia Notícia, reporting the PRF statement at the time, gives about 33.55 kilograms. The report uses 33.65 kg, the figure in the account of this arrest and detention warrant.'
   - Folha BV gives no charges, plea, conviction or sentence; the man was arrested on a preventive warrant and was awaiting a custody hearing.
@@ -70,6 +75,8 @@ open_questions:
   - The page photo is credited only as PCRR, the Roraima civil police, with no caption saying what it depicts.
   - The source gives no charges, plea, conviction or sentence; the man was arrested on a preventive warrant and was awaiting a custody hearing.
   - The account identifies the man only by age, and the 2024 roadside reports give no names for the three men arrested at the scene.
+  - G1 gives the 2024 load as 33.6 kg of skunk, while the account of this arrest used in the report gives 33.65 kg; the report keeps 33.65 kg.
+  - G1 repeats the case file's account that the drugs came from Bolivia and would pass through Porto Velho, without saying how that was established.
 ---
 
 Civil police in Roraima arrested a 26-year-old man in the centre of Boa Vista on
@@ -99,3 +106,5 @@ warrants. [@1] The man was due to appear at a custody hearing on Tuesday 10
 November. [@1]
 
 The drug was hidden inside a sound box fitted on the pickup's load bed, and three men were arrested at the scene, among them the man held in Boa Vista. [@3]
+
+The Federal Regional Court of the 1st Region denied the defence's request in October 2024 and again ordered the detention of those involved. [@4] The man was located in central Boa Vista and his arrest was formalised at the interstate police station. [@4]
