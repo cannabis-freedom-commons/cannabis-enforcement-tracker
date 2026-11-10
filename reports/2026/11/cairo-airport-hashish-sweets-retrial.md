@@ -81,6 +81,11 @@ sources:
     publisher: الرئيس نيوز
     date: 2026-11-09
     language: ar
+  - title: حلوى الحشيش داخل أمتعتها.. كيف أطاحت معلومات سرية بعاملة أجنبية في مطار القاهرة؟
+    url: https://www.soralive.com/94856
+    publisher: صورة لايف
+    date: 2026-11-10
+    language: ar
 open_questions:
   - No date is given for the airport seizure or the in-absentia sentence; the retrial adjournment was reported on 28 October 2026, and 1 November is the publication date of the longer recap.
   - No weight for the hashish in the sweets and no estimated value for the seizure were published.
@@ -94,20 +99,20 @@ open_questions:
 
 Customs officers at Cairo International Airport found four transparent bags of
 sweets mixed with hashish hidden among the clothes of a foreign worker
-identified in court records as Mishil M. [@1,4,7] An inspector at the airport
+identified in court records as Mishil M. [@1,4,7,8] An inspector at the airport
 police's drug-control administration had received a tip that she was arriving
-from abroad with drugs and alerted customs officers, who searched her bags. [@1]
+from abroad with drugs and alerted customs officers, who searched her bags. [@1,8]
 She admitted possessing the sweets and said she held them for her own
-consumption. [@1,4,7] A laboratory test confirmed the sweets contained hashish,
-which Egypt's anti-narcotics law lists in its first schedule. [@1]
+consumption. [@1,4,7,8] A laboratory test confirmed the sweets contained hashish,
+which Egypt's anti-narcotics law lists in its first schedule. [@1,8]
 
 The public prosecution charged her with possessing hashish for consumption and
 sent her to criminal trial. [@2] She was released pending the case. [@1] She did
 not attend her trial, and Cairo Criminal Court sentenced her in absentia to
-three years' aggravated imprisonment and a fine of 10,000 Egyptian pounds. [@1,4]
+three years' aggravated imprisonment and a fine of 10,000 Egyptian pounds. [@1,4,8]
 
 After the absentia verdict she began retrial proceedings. [@1,4] Cairo Criminal
 Court adjourned the retrial on 28 October 2026 to 8 November 2026 so that she
 could attend. [@3]
 
-Cairo Criminal Court sentenced the foreign worker charged over hashish-laced sweets at Cairo International Airport to one year of imprisonment with hard labour and a fine of 10,000 Egyptian pounds. [@5,7] The court also fined her 10,000 Egyptian pounds alongside the one-year term, the same fine imposed with the absentia verdict. [@6]
+Cairo Criminal Court sentenced the foreign worker charged over hashish-laced sweets at Cairo International Airport to one year of imprisonment with hard labour and a fine of 10,000 Egyptian pounds. [@5,7,8] The court also fined her 10,000 Egyptian pounds alongside the one-year term, the same fine imposed with the absentia verdict. [@6]
