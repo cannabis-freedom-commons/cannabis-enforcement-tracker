@@ -74,36 +74,38 @@ sources:
     publisher: Aaj Tak
     date: 2026-11-09
     language: hi
+  - title: 'गांजा तस्करी: झारखंड में 2 करोड़ का माल बरामद | The CSR Journal'
+    url: https://thecsrjournal.in/jharkhand-police-seizes-441kg-cannabis-smuggling-operation-hindi
+    publisher: The CSR Journal
+    date: 2026-11-09
+    language: hi
 open_questions:
-  - The 441 kg total is the sum of the Garhwa 426 kg and the Tatisilway 15 kg, so it repeats quantities already recorded in their own reports.
-  - The page names no single place, so the state of Jharkhand and its centre coordinates are given.
-  - Four arrests in the headline cover only the Tatisilway case; the Garhwa police account names no arrest.
-  - The Garhwa value in this PTI account, about 2.13 crore rupees, is higher than the about one crore rupees reported by ETV Bharat for the same 426 kg seizure.
-  - The Garhwa case was described as under investigation, with no arrest reported because no one was in the vehicle.
-  - The Hindi account dates the Garhwa search to Sunday and the train arrest to Saturday night, matching the PTI roundup, while the Tatisilway case was registered on 8 November 2026, so the incident date of the roundup report is kept as 7 November.
-  - The Hindustan Times page carries the same automated PTI feed text as the other outlets already cited and states that it was generated from an agency feed without modifications, so it is a reprint rather than independent reporting.
-  - The opened ThePrint text carries the full PTI roundup, where the roundup report notes earlier that ThePrint gave only the Garhwa part; the full text matches the Rediff and Live Hindustan copies of the same wire item.
-  - The Rediff and Live Hindustan pages state the Tatisilway arrest happened on Saturday night and the Garhwa search on Sunday, consistent with the roundup report's 7 November incident date.
-  - 'Left out, as its quotation was not found in ThePrint / Press Trust of India: The Railway Protection Force arrested four interstate peddlers with 15 kg of ganja from a general coach of the Hatia-Islampur Express at Tatisilway railway station on the night of 7 November, with the contraband valued at about 7.5 lakh rupees.'
-  - 'Left out, as its quotation was not found in ThePrint / Press Trust of India: Police said the four were taking the ganja from Balangir in Odisha to the Champaran area of Bihar, and handed them and the ganja over to the Ranchi Government Railway Police.'
-  - The page is the Hindi-language Bhasha feed of the same PTI roundup already cited in the report, so it restates the same agency figures rather than being independent reporting.
-  - 'The page image is not a picture of the cannabis operations: it is a file photo from June 2023 captioned with an ISRO scientist, so it is not listed as media.'
-  - The page's only photo is labelled a file photo of police action rather than a picture of these seizures, so it is not listed as media.
-  - The page gives no separate dates for either operation and presents only the combined 441 kg total, so it adds nothing to the incident dates already recorded for the two components.
+    - The 441 kg total is the sum of the Garhwa 426 kg and the Tatisilway 15 kg, so it repeats quantities already recorded in their own reports.
+    - The page names no single place, so the state of Jharkhand and its centre coordinates are given.
+    - Four arrests in the headline cover only the Tatisilway case; the Garhwa police account names no arrest.
+    - The Garhwa value in the PTI account, about 2.13 crore rupees, is higher than the about one crore rupees reported by ETV Bharat for the same 426 kg seizure.
+    - The Garhwa case was described as under investigation, with no arrest reported because no one was in the vehicle.
+    - The Hindi account dates the Garhwa search to Sunday and the train arrest to Saturday night, matching the PTI roundup, while the Tatisilway case was registered on 8 November 2026, so the incident date of the roundup report is kept as 7 November.
+    - The Hindustan Times page carries the same automated PTI feed text as the other outlets already cited and states that it was generated from an agency feed without modifications, so it is a reprint rather than independent reporting.
+    - The opened ThePrint text carries the full PTI roundup, where the roundup report notes earlier that ThePrint gave only the Garhwa part; the full text matches the Rediff and Live Hindustan copies of the same wire item.
+    - The Rediff and Live Hindustan pages state the Tatisilway arrest happened on Saturday night and the Garhwa search on Sunday, consistent with the roundup report's 7 November incident date.
+    - No court outcome beyond registration of the NDPS cases and continuing investigation of the smuggling network has been reported in either matter.
+    - The page is the Hindi account of the same PTI roundup already cited in the report, restating the same agency figures rather than independent reporting.
+    - The page image is a small site thumbnail with no caption or credit tying it to either operation, so it is not listed as media.
 ---
 
 Four people were arrested and 441 kg of ganja worth a combined 2.2 crore rupees
 was seized in two separate operations in Jharkhand, officials said on 9 November
-2026. [@1,2,3,4,5,7]
+2026. [@1,2,3,4,5,7,8]
 
 In Garhwa district, police found 426 kg of ganja, valued at about 2.13 crore
 rupees, in a container truck parked near the Kalyanpur overbridge, and no one
-was arrested because the vehicle was empty. [@1,2,3,5]
+was arrested because the vehicle was empty. [@1,2,3,5,8] Police said the registered owner's state for the container truck was Uttar Pradesh; the Hindi account notes the registration is from that state. [@8]
 
 The Railway Protection Force arrested four interstate peddlers with 15 kg of
 ganja from a general coach of the Hatia-Islampur Express at Tatisilway railway
 station on the night of 7 November, with the contraband valued at about 7.5 lakh
-rupees. [@1,2,5,6] Police said the four were taking the ganja from Balangir in Odisha
+rupees. [@1,2,5,6,8] Police said the four were taking the ganja from Balangir in Odisha
 to the Champaran area of Bihar, and handed them and the ganja over to the Ranchi
 Government Railway Police. [@1,6,7]
 
