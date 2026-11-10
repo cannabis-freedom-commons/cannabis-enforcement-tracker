@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Deploy to GitHub Pages New
 
 on:
   # every push to main: the backend's publication batches (backend/internal/worker/batch.go) and
@@ -18,8 +18,8 @@ permissions:
 # One deployment at a time; a running one finishes, and of the pushes that come meanwhile only the
 # newest waits, so a burst of pushes builds at most twice.
 concurrency:
-  group: pages
-  cancel-in-progress: false
+  group: gh-pages
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -53,7 +53,7 @@ jobs:
     needs: build
     runs-on: ubuntu-24.04
     environment:
-      name: github-pages
+      name: github-pages-new
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
