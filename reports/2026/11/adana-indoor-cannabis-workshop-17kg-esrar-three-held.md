@@ -252,6 +252,11 @@ sources:
     publisher: İşçi Haber
     date: 2026-11-09
     language: tr
+  - title: 'Adana''da Kenevir Üretilen Adrese Baskın: 3 Gözaltı'
+    url: https://dosyahaber.com/post/adana-da-iklimlendirme-sistemiyle-kenevir-uretilen-adrese-baskin-3-gozalti-1794213064
+    publisher: Dosya Haber
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The accounts give no separate date or time for the raid; 9 November 2026, the date of the ministry statement and of publication, stands in for the incident date.
   - No figure for the number of cannabis plants in the workshop, the area used or an estimated value of the esrar was published.
@@ -333,10 +338,13 @@ open_questions:
   - The page's phrase 'adli işlem başlatıldığı' says judicial proceedings were started against the three suspects but not whether they were charged, released or only referred to prosecutors.
   - The page's only picture is captioned only with the story headline and carries no photographer or agency credit, so whether it shows the workshop, the seized esrar or the operation generally is not established and no media entry is added.
   - The page names no district or neighbourhood for the workshop and gives no plant count, area or estimated value, so the place stays at province level.
+  - The page gives no separate date or time for the raid; 9 November 2026 is its publication and update date and the date of the ministry statement.
+  - Dosya Haber credits no news agency and reproduces the same Interior Ministry statement as the outlets already cited in the report, so it corroborates rather than independently reports the raid.
+  - The page's single picture is captioned only with the story headline and carries no photographer or agency credit, so whether it shows the workshop, the seized esrar or the operation generally is not established; no media entry is added.
 ---
 
 Gendarmes detained three suspects in a raid on an indoor cannabis workshop in
-Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9,10,11,13,15,16,17,19,20,21,22,24,25,27,28,29,30,31] The workshop was found growing
+Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9,10,11,13,15,16,17,19,20,21,22,24,25,27,28,29,30,31,32] The workshop was found growing
 cannabis under a purpose-built air-conditioning system, and police said the
 three suspects were running a narcotics production and trading operation. [@2,4,7,10,28,30]
 The searches turned up 17 kilograms of esrar, a cannabis hashish product,
@@ -348,7 +356,7 @@ court step. [@2,9,10,12,14,26,30]
 
 The operation was run by the Adana Provincial Gendarmerie Command after
 intelligence work, coordinated by the Gendarmerie General Command's
-anti-narcotics department and the Adana chief public prosecutor's office. [@2,4,6,7,8,9,10,14,16,21,22,25,26,27,28,30,31]
+anti-narcotics department and the Adana chief public prosecutor's office. [@2,4,6,7,8,9,10,14,16,21,22,25,26,27,28,30,31,32]
 TRT Haber reported that the three suspects were held in gözaltı, the police
 custody in which a person is questioned while prosecutors decide on charges or
 release. [@3]
@@ -358,7 +366,7 @@ esrar, four standing air conditioners, air-conditioning equipment and assorted
 materials. [@1] Hürriyet reported that the operation uncovered a workshop where
 cannabis was grown with an air-conditioning system. [@4]
 
-Searches at the address found 17 kilograms of esrar together with four standing air conditioners and heat and light systems. [@8,23]
+Searches at the address found 17 kilograms of esrar together with four standing air conditioners and heat and light systems. [@8,23,32]
 
 The address the gendarmes raided was in Seyhan district, Adana. [@9]
 
@@ -377,3 +385,5 @@ The Interior Ministry said in its statement of 9 November 2026 that operations a
 The workshop where the cannabis was grown with an air-conditioning system was set up inside a manufacturing premises. [@23]
 
 The address was identified through intelligence work before the raid, and the gendarmerie said the three suspects grew cannabis there indoors with an air-conditioning system. [@30]
+
+The address was identified through technical and physical surveillance before officers raided the workshop. [@32] The ministry said a judicial investigation (adli tahkikat) had been opened against the three detained suspects and that the technical equipment used in drug production was confiscated. [@32]
