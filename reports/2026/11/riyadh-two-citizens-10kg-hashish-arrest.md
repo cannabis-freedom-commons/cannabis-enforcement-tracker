@@ -46,16 +46,21 @@ sources:
     publisher: الاستاد الاخباري
     date: 2026-11-10
     language: ar
+  - title: مكافحة المخدرات تضبط مواطنين لترويجهما (10) كيلوجرامات حشيش وكوكايين و(2,170) قرصًا مخدرًا بالرياض
+    url: https://www.sra7h.com/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC%D9%87/
+    publisher: صحيفة صراحة الالكترونية
+    date: 2026-11-10
+    language: ar
 ---
 
 The General Directorate of Narcotics Control, Saudi Arabia's anti-drug agency,
 arrested two Saudi citizens in the Riyadh region accused of promoting narcotic
-drugs. [@1,2] Officers stopped both men, completed the statutory procedures
+drugs. [@1,2,3] Officers stopped both men, completed the statutory procedures
 against them and referred them to the Public Prosecution for further action.
-[@1]
+[@1,3]
 
 The agency said the men were promoting 10 kilograms of hashish along with
-cocaine and tablets subject to medical-circulation regulation. [@1,2] Officers
+cocaine and tablets subject to medical-circulation regulation. [@1,2,3] Officers
 seized the 10 kilograms of hashish, which is the cannabis component of this
 mixed case, while the cocaine and the 2,170 regulated tablets are excluded from
 cannabis quantities. [@1]
