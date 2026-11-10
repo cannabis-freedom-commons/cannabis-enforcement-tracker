@@ -59,16 +59,21 @@ sources:
     publisher: دار المعارف
     date: 2026-11-10
     language: ar
+  - title: سقوط تاجر مخدرا بـ59 فرشً حشيش في البدرشين.. تفاصيل المأمورية الأمنية
+    url: https://www.algomhor.com/509531
+    publisher: الجمهور الإخباري
+    date: 2026-11-10
+    language: ar
 ---
 
 Detectives of the Giza Security Directorate arrested a suspected hashish dealer
 in Badrashin, south of Giza, before he could distribute the drug to his
-customers. [@1,2,3,4] Police at Badrashin police station received information that an
-unemployed man was trafficking narcotics in the station's area. [@1,3,4] After
+customers. [@1,2,3,4,6] Police at Badrashin police station received information that an
+unemployed man was trafficking narcotics in the station's area. [@1,3,4,6] After
 verifying the information and locating him, officers detained the suspect under
 legal procedures. [@1,4,5]
 
 He was found with a large quantity of hashish prepared for sale, cash described
-as proceeds of sale, and a mobile phone used to contact customers. [@1,2,3,4,5] Police
+as proceeds of sale, and a mobile phone used to contact customers. [@1,2,3,4,5] The operation seized 59 pieces (farsh) of hashish, which became exhibits at the disposal of the investigation authorities. [@6] Police
 filed a report on the arrest and referred the case to the competent prosecution,
-which began its investigation. [@1,2,4] The prosecution ordered the seized items to be examined to determine their nature, kept the hashish, cash and phone in custody, and is continuing investigations to establish the circumstances and the source of the drugs. [@3,4]
+which began its investigation. [@1,2,4,6] The prosecution ordered the seized items to be examined to determine their nature, kept the hashish, cash and phone in custody, and is continuing investigations to establish the circumstances and the source of the drugs. [@3,4]
