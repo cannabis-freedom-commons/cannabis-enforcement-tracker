@@ -46,28 +46,29 @@ sources:
     publisher: 時事通信 / iJAMP
     date: 2026-11-10
     language: ja
-open_questions:
-  - No weight was published for the small amount of dried cannabis, so no cannabis weight is recorded.
-  - No charges, court outcome or employment consequences beyond the garrison's statement were reported.
+  - title: 大麻など麻薬所持か 自衛官の男（24）ら逮捕 千葉・南房総市
+    url: https://www.nagoyatv.com/news/syakai.html?id=000546724
+    publisher: メ～テレニュース
+    date: 2026-11-10
+    language: ja
 ---
 
 A 24-year-old Ground Self-Defense Force member assigned to Camp Asaka (藤原統真) and
 a 27-year-old unemployed man (神原虎勇太) were arrested on suspicion of possessing
-drugs including cannabis on a road in Minamiboso. [@1] The alleged possession
+drugs including cannabis on a road in Minamiboso. [@1,3] The alleged possession
 took place on a road in Minamiboso, Chiba, in the month before the report was
 published. [@1]
 
 Police say the two held two tablets containing MDMA and ketamine components, two
 gummy-shaped LSD items and a small amount of dried cannabis, all kept in bags.
-[@1] Police have not disclosed whether the two men admitted or denied the
-allegations. [@1]
+[@1,3] Police have not disclosed whether the two men admitted or denied the
+allegations. [@1,3]
 
 Camp Asaka said it would cooperate fully with the police investigation and deal
-strictly based on the facts that become clear. [@1]
+strictly based on the facts that become clear. [@1,3]
 
 Tateyama Police Station of the Chiba Prefectural Police had arrested the men on
 suspicion of violating the Narcotics and Psychotropics Control Law. [@2] The
 case came to light when firefighters responding to an emergency call about a
 person who had fallen near the scene told police that two men were taking LSD.
 [@2]
-
