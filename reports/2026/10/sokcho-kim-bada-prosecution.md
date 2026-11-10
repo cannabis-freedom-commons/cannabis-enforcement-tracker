@@ -50,6 +50,10 @@ sources:
     url: https://www.msn.com/en-xl/news/other/marijuana-recidivist-kim-ba-da-3-year-prison-term-sought-a-month-after-comeback-announcement-im-deeply-remorseful-full-story/ar-AA2ghRjB
     publisher: Sports Chosun (via MSN)
     date: 2026-10-29
+  - title: Kim Bada Sentenced to Three Years for Marijuana Reoffense
+    url: https://www.chosun.com/english/kpop-culture-en/2026/10/29/WYELO4H55VDZNPPX3FLT7RBELI/
+    publisher: The Chosun Daily
+    date: 2026-10-29
 open_questions:
   - Sentencing is scheduled for 25 November 2026 at 2 p.m.; no outcome has been reported in the opened sources.
   - Neither opened English account states a weight for the cannabis Kim possessed or smoked.
@@ -57,6 +61,8 @@ open_questions:
   - This Chinese machine-translated version renders the arrest timing as “上月3月”, ambiguous on its own, so the March 2026 dating continues to rest on the existing English accounts.
   - The page image is captioned as a portrait of singer Kim Bada and is not established to show the hearing or seizure, so no media entry is included.
   - This account names the presiding judge, Joo Cheol-hyeon, which the earlier sources did not.
+  - This English translation carries a headline saying Kim was 'sentenced' to three years, but its text reports only that prosecutors sought three years at the 28 October hearing, with sentencing set for 25 November; the report follows the text.
+  - The prosecution's 500,000 won request is described in this account as a fine; earlier Korean accounts call it an additional collection (추징) of the proceeds of the offence, and the report leaves the exact legal form of the payment open.
 ---
 
 Kim Bada, the former vocalist of the rock band Sinawe, faced a final hearing on 28 October 2026 before Criminal Division 1 at the Sokcho Branch of the Chuncheon District Court on charges of violating the Narcotics Control Act for cannabis. [@1,2,4] Prosecutors sought a three-year prison term, forfeiture of seized items and an additional collection of 500,000 won. [@1,2,3,4] The court set sentencing for 2 p.m. on 25 November. [@1,2]
@@ -68,3 +74,5 @@ Police arrested the 54-year-old singer, whose legal name is Kim Jung-nam, in Mar
 Kim told the court he smoked cannabis through a momentary lapse in judgment and deeply regretted his careless attitude toward the drug. [@1,2,3] He said attending a drug-addiction support group taught him again how drugs damage his body and the people who love him, and that he had vowed never to touch illegal cannabis again. [@1,2] His lawyer said Kim smokes only a small amount, never distributed it to others, attends a substance-addiction support group voluntarily and receives hospital treatment for loneliness, self-reproach and depressive symptoms after losing contact with family. [@1]
 
 Both accounts describe Kim as a repeat offender who was sentenced in 2010 to one year in prison, suspended for two years, for buying cannabis through an acquaintance and smoking it with them. [@1,2] He released a handwritten apology in September 2026 saying he had reflected with deep remorse and would show change through future actions and music rather than words. [@1,2]
+
+Kim was indicted for smoking marijuana on 8 March 2025 and again on 8 March 2026, and for possessing 2 grams of marijuana with intent to smoke. [@5]
