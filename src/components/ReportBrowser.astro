@@ -315,6 +315,9 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     if (status) p.set("status", status);
     if (photo) p.set("photo", "1");
     if (newOnly) p.set("new", "1");
+    // a report open in the home page's pane (src/scripts/report-pane.js) stays open
+    const opened = new URLSearchParams(location.search).get("open");
+    if (opened) p.set("open", opened);
     // the home page's Routes view keeps its own choices in the address while it is open
     if (document.documentElement.dataset.homeView !== "routes") history.replaceState(null, "", (p.size ? `?${p}` : location.pathname) + location.hash); // the hash is the map's view
   }

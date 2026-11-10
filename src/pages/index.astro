@@ -9,6 +9,7 @@ import RoutesPane from "../components/RoutesPane.astro";
 import RoutesBar from "../components/RoutesBar.astro";
 import Icon from "../components/Icon.astro";
 import "../styles/routes.css";
+import "../styles/report.css";
 import { reports, countriesWithReports, totals } from "../lib/reports.js";
 
 const t = totals(reports);
@@ -56,7 +57,7 @@ const jsonLd = [{
       <WorldMap hash label="World map of enforcement reports" />
       {/* two views of the same map: the reports (the default) and the smuggling routes (?view=routes),
           chosen before the page is drawn so the other view never flashes; src/scripts/routes-view.js */}
-      <script is:inline>if (new URLSearchParams(location.search).get("view") === "routes") document.documentElement.dataset.homeView = "routes";</script>
+      <script is:inline>{ const q = new URLSearchParams(location.search); if (q.get("view") === "routes") document.documentElement.dataset.homeView = "routes"; window.__openReport = q.get("open"); }</script>
       <FilterBar>
         <div class="view-switch" slot="start" role="group" aria-label="What the map shows">
           <button type="button" data-view="reports" aria-pressed="true" title="Reports on the map">
@@ -73,6 +74,14 @@ const jsonLd = [{
     </div>
     <aside class="home-pane" aria-label="Reports and routes">
       <RoutesPane />
+      {/* a report opened from the map or the list, read in place (src/scripts/report-pane.js) */}
+      <section class="report-pane" id="report-pane" aria-label="Report" hidden>
+        <div class="rpane-bar">
+          <button type="button" class="rpane-back" data-close>← All reports</button>
+          <a class="rpane-full" data-full href="#">Full page <Icon name="open-new-window" /></a>
+        </div>
+        <div class="rpane-body" data-body aria-live="polite"></div>
+      </section>
       <ReportBrowser compact mapFilters />
       <footer class="pane-foot">
         <p>Fields burned, homes raided, people arrested, jailed and executed: a sourced record of what
@@ -86,4 +95,5 @@ const jsonLd = [{
 
 <script>
   import "../scripts/routes-view.js";
+  import "../scripts/report-pane.js";
 </script>

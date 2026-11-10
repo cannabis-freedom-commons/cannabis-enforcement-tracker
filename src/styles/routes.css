@@ -143,3 +143,25 @@
 .rp-more { display: inline-block; margin-top: 10px; color: var(--cite); }
 .rp-also { margin: 12px 0 0; color: var(--text-2); font-size: 12.5px; }
 .routes-note { font-size: 12px; margin: 16px 0 0; padding-top: 12px; border-top: 1px solid var(--border); }
+
+/* a report read in the side pane (src/scripts/report-pane.js): the list waits underneath */
+.home-pane.reading .browser,
+.home-pane.reading .pane-foot { display: none; }
+:root[data-home-view="routes"] .report-pane { display: none; }
+.rpane-bar { position: sticky; top: 0; z-index: 2; display: flex; justify-content: space-between; align-items: center; gap: 12px; margin: 0 -20px; padding: 12px 20px; background: var(--bg); border-bottom: 1px solid var(--border); }
+.rpane-back { padding: 0; background: none; border: 0; color: var(--cite); font: 13px Inter, system-ui, sans-serif; cursor: pointer; }
+.rpane-back:hover { text-decoration: underline; }
+.rpane-full { display: inline-flex; align-items: center; gap: 6px; color: var(--text-2); font: 12px var(--mono); }
+.rpane-full:hover { color: var(--text); }
+.rpane-full svg { width: 13px; height: 13px; }
+.rpane-body { padding: 16px 0 24px; }
+.rpane-loading { padding: 24px 0; }
+.rpane-body .report-head .meta { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; font-size: 12px; }
+.rpane-body .rpane-title { margin: 10px 0 8px; font: 400 28px/1.15 var(--display); letter-spacing: -.01em; }
+.rpane-body .lead { font-size: 15px; }
+.rpane-body h3 { margin: 26px 0 10px; font: 400 21px/1.2 var(--display); }
+.rpane-body .prose { font-size: 15px; line-height: 1.65; }
+.rpane-body .cover img { width: 100%; height: auto; border-radius: var(--r); }
+.rpane-body .glance { margin: 16px 0; }
+.rpane-body .sources { padding-left: 20px; font-size: 13px; line-height: 1.5; color: var(--text-2); }
+.rpane-body .sources li { margin-bottom: 6px; }

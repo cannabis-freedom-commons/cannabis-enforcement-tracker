@@ -487,7 +487,8 @@ const LEAFLETS = [[0, 62, 0], [-27, 54, 1], [27, 54, 1], [-56, 42, 2], [56, 42, 
         const hit = hitAt(e.point);
         if (!hit) return;
         const { layer, f } = hit, p = f.properties as any;
-        if (layer === "reports") location.href = `${base}report/${p.id}/`;
+        // the home page opens a report in its side pane (it cancels the event); elsewhere it is its page
+        if (layer === "reports") { if (document.dispatchEvent(new CustomEvent("reports:open", { detail: p.id, cancelable: true }))) location.href = `${base}report/${p.id}/`; }
         else if (layer === "clusters") {
           const zoom = await (map.getSource("reports") as maplibregl.GeoJSONSource).getClusterExpansionZoom(p.cluster_id);
           map.jumpTo({ center: (f.geometry as any).coordinates, zoom });
