@@ -58,16 +58,13 @@ sources:
     language: hi
 open_questions:
   - The report gives the reward as 10,000 rupees for information leading to the arrest but does not say who announced it or whether it was paid.
-  - The 1,400 g of ganja was seized in the earlier May 2026 case that named him an accused; the report gives no quantity seized when he was detained on Sunday.
+  - One account says police seized 1.4 kg from the arrested man in May 2026; the later accounts say officers seized 1.408 kg from two minor boys near the Masod Road highway bridge on 27 April 2026.
+  - The reports give no quantity seized when he was detained on Sunday.
   - The report names no charges filed after the arrest and no case number for the May 2026 case.
   - No court outcome, remand order or plea is reported; police said further legal action was ongoing.
-  - The report gives only the day of the week for the arrest, Sunday, and 8 November 2026 is its publication date, used as the incident date.
+  - The reports give only the day of the week for the arrest, Sunday, and 8 November 2026 is the first publication date, used as the incident date.
   - The report does not state how Garwa relates to Masod police station or to Multai tehsil, so the place is given at district precision.
-  - No independent second account of the arrest could be opened; the local Tapti Arjun social media pages carrying the story could not be retrieved in full.
-  - The article's only image is a thumbnail with no caption, alt text or credit identifying what it shows, so no media entry is added.
-  - The existing report says police seized the 1.4 kg from the arrested man in May 2026; both new accounts say officers seized 1.408 kg from two minor boys near the Masod Road highway bridge on 27 April 2026, and the discrepancy is unresolved.
-  - Neither account says whether the two minor boys were charged, placed before a juvenile board or released, so their legal position is unclear.
-  - Neither account gives the day of the arrest itself; 9 November 2026 is the Pratahkal publication date and no separate arrest date is given.
+  - The accounts do not say whether the two minor boys were charged, placed before a juvenile board or released.
 ---
 
 Masod police arrested a man on Sunday who had been absconding in a ganja
