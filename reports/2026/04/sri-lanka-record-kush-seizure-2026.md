@@ -144,43 +144,51 @@ media:
     publisher: CNN
     caption: 'Sri Lankan monks arriving to appear before a court after their arrest in Negombo on 26 April 2026. Photo: Ishara S. Kodikara/AFP/Getty Images via CNN'
 open_questions:
-  - The BBC says the 22 monks were remanded for seven days on the Sunday, but does not say what happened to the 23rd monk arrested in the Colombo suburb.
-  - No charges, trial date or court outcome beyond the remand were reported.
-  - 'The substance description differs: CBS and the BBC report kush cannabis only, while Ada Derana reports more than 110 kg of Kush and Hashish with no split between the two, so a cannabis-only share cannot be separated from that account.'
-  - BBC Sinhala reports that a 23rd monk who allegedly organised the trip was later arrested near Colombo and that police believed the carriers may not have known what they carried; the other opened accounts do not confirm this.
-  - CNN dates the arrests to 26 April, matching the report, while the BBC account cited in the report dates the airport arrival to Saturday 25 April.
-  - CNN gives the estimated value as over US$3.45 million (1.1 billion rupees), below the report's roughly US$3.5 million and the other figures its open questions record.
-  - No charges or court outcome beyond the scheduled Negombo Magistrate's Court appearance were reported.
-  - WION's photo pages use a mix of AFP and stock-library images captioned Pexels and Unsplash, so no event photo from this page is listed as media.
-  - The same article mentions a separate May 2025 arrest of a 21-year-old British woman with 46kg at the same airport, a different event left out here.
-  - The article also mentions heroin and other narcotics smuggled by fishing boats, with no cannabis weight given, so no figure is added.
-  - The article mentions heroin and other narcotics smuggled by small fishing boats as general context with no cannabis weight, a separate matter left out here.
-  - 'No event photo is listed: the page''s captioned image is a December 2022 Thailand greenhouse stock photo, and its second image has no caption tying it to this seizure.'
-  - Arise News gives no calendar date for the arrest or the magistrate appearance, only 'Sunday'; 28 April 2026 is its publication date.
-  - Arise calls the sponsor a businessman whose identity was not disclosed, while other accounts describe an unnamed sponsor and one reported a 23rd monk as organiser; these descriptions are not fully reconciled.
-  - Each monk's share is given as about 11 pounds (approximately 5 kg), which works out slightly above the report's about 110 kg total; the report keeps its original 110 kg figure.
-  - The account says judicial medical tests found the suspects had used drugs but does not say how many tested positive.
-  - No court outcome beyond the remand already recorded is reported for the 22 monks or for Amithananda Thera.
-  - The travel-rule measure was described as reinstating an existing administrative requirement rather than changing a law, so no law change is recorded with it.
-  - The Standard describes indefinite detention without charge for drug suspects and long prison terms as the general legal framework, without stating any charge or outcome specific to these 22 monks, so no charge or court result is recorded from it.
+  - The arrests are dated to the night of 25 April 2026 in some accounts and to 26 April in others.
+  - The haul is given as 110 kg, about 112 kg or 242 pounds, and one account speaks of kush and hashish together without a split.
+  - The value is given as about US$3.5 million or over US$3.45 million (1.1 billion rupees).
+  - 'Accounts describe the organiser differently: a 23rd monk who stayed behind, three monks from a temple in Jamburaliya, a mastermind from Meegahamulla, a monk named Amithananda Thera, or an unnamed businessman sponsor.'
+  - Police said the carriers may not have known what they carried, while medical tests later found that the suspects had used drugs; how many tested positive was not said.
+  - No charges, trial date or outcome beyond the seven-day remand have been reported.
 ---
 
-On 26 April 2026 police arrested 22 Sri Lankan monks returning from Thailand at Bandaranaike International Airport with 110 kg of kush hidden in their luggage, valued at about US$3.5 million. It was reported as the country's largest single cannabis seizure. The case was an enforcement event, not a change in the law. [@1]
+On the night of 25–26 April 2026 police arrested 22 Sri Lankan monks returning from Thailand at
+Bandaranaike International Airport with 110 kg of kush hidden in their luggage, valued at about US$3.5
+million; it was reported as the country's largest single cannabis seizure. [@1] The Police Narcotics
+Bureau's airport unit acted on intelligence [@4,5,10,12], and the monks were arrested at about 10.10 pm.
+[@20] Customs called it the largest single detection of kush at the airport.
+[@3,6,7,9,11,12,13,14,16,17,19,20]
 
-Customs officials said each monk carried about 5 kg of kush, a particularly potent form of the drug, hidden behind false walls inside the luggage on arrival in Colombo. [@2,6,8,10,15,18,19] The monks were mainly students returning from an all-expenses-paid four-day holiday in Thailand paid for by an unnamed sponsor. [@2,13,18,19] A 23rd monk, believed to have organised the trip, was later arrested in a Colombo suburb, police told BBC Sinhala. [@2,18] The acting police spokesman said the monk, who did not join the trip, had told the others that "these parcels are a donation" and that a van would collect the packages. [@2] The Police Narcotics Bureau found photos and videos on some of the monks' phones showing them enjoying their holiday in casual clothing. [@2,7] The 22 monks were remanded in custody for seven days after appearing in court on Sunday. [@2,6,12,18] Police told BBC Sinhala they believed the monks potentially did not know what they were carrying. [@2] The drugs were found among school supplies and sweets. [@2,9,15]
+## The luggage
 
-Twenty-two Sri Lankan monks returning from Thailand were arrested at Sri Lanka's main international airport with 242 pounds of cannabis, customs officials said. [@3,6,9,10,11,13,15,16,17,20] A Sri Lanka Customs spokesman said the group had returned from a four-day vacation in Bangkok with kush hidden in their luggage. [@3,11,13,14,16,17,20] Customs officials called it the largest single detection of kush at the airport. [@3,6,7,9,11,12,13,14,16,17,19,20] Each monk carried about five kilos of the drug concealed within false walls in his luggage, and the group was handed over to police. [@3,11,13,16,17] The 22 monks appeared in court on Sunday and were remanded in custody for seven days for further questioning. [@2,7] The Police Narcotics Bureau's airport unit apprehended the suspects in an operation on the night of 25 April acting on intelligence. [@4,12]
+Each monk carried about 5 kg of kush, a particularly potent form of cannabis, behind false walls in
+identical luggage, among school supplies and sweets. [@2,3,6,8,9,10,11,13,15,16,17,18,19,20] Customs gave
+the total as 242 pounds [@3,6,9,10,11,13,15,16,17,20]; one account found about 112 kilograms. [@12] The
+government news portal put the value at over US$3.45 million (1.1 billion rupees). [@5,10,15,22]
 
-Police said the operation was carried out based on a tip-off. [@5,10,12] The government's official news portal put the estimated value of the narcotics at over $3.45 million (1.1 billion rupees). [@5,10,15,22] The group of young men from various parts of Sri Lanka had travelled to Thailand on 22 April using tickets provided by a sponsor. [@5,15] The monks were to appear before the Negombo Magistrate's Court for further legal proceedings and investigations, according to state media. [@5,15] According to the state-owned Daily News, it was the first time Buddhist monks had been arrested at the airport carrying illegal drugs. [@5,15]
+The monks, aged 19 to 28 and mostly students from remote areas, had left for Thailand on 22 April on an
+all-expenses-paid four-day trip to Bangkok paid for by a sponsor. [@2,3,5,11,13,14,15,16,17,18,19,20,21]
+Phones showed them enjoying the holiday in casual clothes. [@2,7] It was the first time monks had been
+arrested at the airport carrying drugs, the state-owned Daily News said. [@5,15,20]
 
-Senior Buddhist clergy described the accused as “imposter monks” who used religious garb to disguise criminal activity. [@6]
+## The organisers
 
-Chief Buddhist prelates of the three main chapters said they will conduct inquiries and that those found guilty will be removed from the order. [@8]
+A 23rd monk, believed to have organised the trip, was later arrested in a Colombo suburb; police said he
+had told the others the parcels were "a donation" and that a van would collect them, and that they
+potentially did not know what they were carrying. [@2,18] Other investigators said three monks from a
+temple in Jamburaliya may have recruited 19 others through Facebook, that an alleged mastermind had been
+arrested at Meegahamulla in Gampaha, and that the group might have run a similar trip with 12 monks
+before. [@12] Police later named the organiser as a monk, Amithananda Thera, arrested after hiding in a
+temple, and said medical tests showed the suspects had used drugs. [@21] The Narcotics Bureau was
+examining links to local trafficking networks. [@22]
 
-Investigations indicate the operation may have been coordinated by three monks from a temple in the Jamburaliya area, who allegedly recruited 19 others through Facebook. [@12] The Police Narcotics Bureau has arrested an alleged mastermind from the Meegahamulla area of Gampaha. [@12] Investigators are also examining whether the group had previously carried out a similar operation involving 12 monks, with another trip allegedly being planned. [@12] On 28 April, a high-level meeting was held at the Presidential Secretariat under President Anura Kumara Dissanayake. [@12] The meeting included members of the Maha Sangha, the senior Buddhist monastic community, from the country’s three main Nikayas and senior officials, including the Inspector General of Police. [@12] Officers inspecting identical luggage carried by the group found approximately 112 kilograms of narcotics hidden in false compartments. [@12]
+## Court and clergy
 
-The 22 monks were arrested at the airport around 10:10 p.m. [@20] Each monk reportedly carried roughly 11 pounds (about 5 kg) of the drug, found inside false walls in the luggage among school supplies and sweets. [@20] It was reported as the first time monks had been arrested at the airport carrying drugs. [@20] The monks' order told BBC Sinhala it strongly condemned the illegal actions and would work to expel any monks found guilty. [@20]
-
-Judicial medical tests later found that the suspects had used drugs. [@21] Police said the suspects, aged between 19 and 28 and from remote areas, were part of a trafficking network allegedly organised by a monk identified as Amithananda Thera, who was later arrested after hiding in a temple. [@21] Deputy Minister of Buddhasasana, Religious and Cultural Affairs Gamagedara Dissanayake said monks seeking to travel abroad must now obtain recommendation letters from their temple's chief incumbent and the provincial chief prelate, which the commissioner general of Buddhist affairs must forward to the relevant foreign mission. [@21] Dissanayake said the requirement was made compulsory after consultations with registrar monks representing different sections of the clergy and the president, and that registrar monks, the attorney general and ministry officials had begun discussions on strengthening legal and administrative frameworks governing temples and monastic discipline. [@21] He said the measure revived an earlier policy under which monks also needed recommendations to travel abroad, but that enforcement had become lax. [@21]
-
-Police's Narcotics Bureau was investigating whether the smuggling operation was linked to local drug trafficking networks. [@22]
+The 22 appeared before the Negombo Magistrate's Court on Sunday and were remanded in custody for seven
+days. [@2,5,6,7,12,15,18] Senior clergy called them "imposter monks" [@6], and the chief prelates of the
+three main chapters said those found guilty would be expelled from the order. [@8,20] On 28 April
+President Anura Kumara Dissanayake held a meeting with senior monks and officials including the Inspector
+General of Police. [@12] Deputy Minister Gamagedara Dissanayake said monks travelling abroad must again
+obtain letters of recommendation from their chief incumbent and provincial prelate, reviving an earlier
+rule that had lapsed, and that talks had begun on strengthening the rules governing temples and monastic
+discipline. [@21]

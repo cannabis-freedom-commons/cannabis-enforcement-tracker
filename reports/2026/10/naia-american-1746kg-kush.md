@@ -168,93 +168,32 @@ sources:
     publisher: Daily Tribune (Philippines)
     date: 2026-10-31
 open_questions:
-  - >-
-    Both opened sources are Daily Tribune reports of the same event; no independent statement from PDEA or
-    another outlet could be opened.
-  - >-
-    The two Tribune reports give the weight as approximately 17.46 kg and 17,464 grams; the report uses 17.46
-    kg.
-  - The suspect was identified only by the alias “Henry”; his full name was not published.
-  - >-
-    PDEA said the suspect faces formal charges under Republic Act 9165, but no charge sheet, court date or
-    outcome was reported.
-  - >-
-    The PNP statement valued the 17,464 grams at ₱26.196 million at the standard drug price, while the
-    report's PDEA-based sources give ₱17.46 million; the report keeps the PDEA figure.
-  - >-
-    The PNP statement places the arrest between 8:45 p.m. and 10 p.m., while the report's PDEA account says it
-    happened around 8:35 p.m.
-  - >-
-    The PNP post also reports four shabu operations in Bataan, Iloilo, Tondo and Pagadian, separate events
-    left out of this report.
-  - >-
-    The Facebook post shows only a relative posting time ('13 hours ago'), so its exact publication date is
-    not recorded.
-  - The Facebook post shows only a relative time (“11 hours ago”), so its publication date is not known.
-  - >-
-    Philippine Star valued the kush at “over P17 million,” which is compatible with but less precise than the
-    report’s PDEA figure of P17.46 million; the report keeps the PDEA figure.
-  - >-
-    The attached image is captioned as possibly an image of text and is not identified as a photo of the
-    seizure, so it was not added.
-  - No full Philippine Star article of this arrest could be opened; the Facebook post is the Star text used.
-  - >-
-    The article also reports the separate 26 October seizure of 7,335 grams and a combined four-day total of
-    about 24.8 kilograms, left to that event's report.
-  - The Chronicle's photo carries no credit line identifying it as this seizure.
-  - >-
-    Left out, as its quotation was not found in Daily Tribune: A 62-year-old American citizen was arrested at
-    Ninoy Aquino International Airport (NAIA) Terminal 3 after authorities intercepted about 17.46 kilograms
-    of high-grade marijuana in his luggage, the Philippine Drug Enforcement Agency (PDEA) reported.
-  - >-
-    Manila Standard credits the PNP Aviation Security Group with announcing the arrest, while the report's
-    lead attributes the account to PDEA; both agencies were part of the NAIA interdiction task group.
-  - >-
-    The post repeats the opening of the Philstar.com article the report already cites, so it corroborates that
-    account rather than independently confirming it.
-  - >-
-    The Journal account describes the passenger only as a male American or foreigner and gives no age or
-    alias, so the reported age of 62 and the alias Henry continue to rest on the report's earlier sources.
-  - >-
-    The same bureau release describes 7,335 grams of suspected kush found in abandoned luggage from Bangkok at
-    the same terminal on 26 October, a separate event left out of this report.
+  - The interception is placed at about 8.35 pm by PDEA and between 8.45 and 10 pm by the police.
+  - PDEA values the kush at ₱17.46 million; a police statement gives ₱26.196 million.
+  - The man was identified only by the alias "Henry".
+  - No charge sheet, court date or outcome has been reported.
+  - The same releases report a separate seizure of 7,335 grams in abandoned luggage at the terminal on 26 October, left out of this report.
 ---
 
-Officers arrested a 62-year-old American arriving from Bangkok with cannabis in his bags at NAIA Terminal 3. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18]
+Officers at Ninoy Aquino International Airport (NAIA) Terminal 3 arrested a 62-year-old American
+arriving from Bangkok with about 17.46 kilograms of high-grade marijuana in his luggage, the Philippine
+Drug Enforcement Agency (PDEA) reported. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18] The man,
+identified only by the alias "Henry", was stopped at the customs secondary inspection area on Thursday 29
+October [@2,19], around 8.35 pm. [@1,2]
 
-A 62-year-old American citizen was arrested at Ninoy Aquino International
-Airport (NAIA) Terminal 3 after authorities intercepted about 17.46 kilograms of
-high-grade marijuana in his luggage, the Philippine Drug Enforcement Agency
-(PDEA) reported. [@1,2,3,4,7,9,12,13] The suspect, identified only by the alias “Henry,” had
-arrived from Bangkok, Thailand, and was intercepted at the airport's customs
-secondary inspection area on Thursday 29 October. [@2,19] The interception happened
-around 8:35 p.m. [@1,2]
+An X-ray scan showed suspicious images in his two checked bags and a drug-sniffing dog reacted, so
+customs officers searched them by hand. [@5,6,7,8,9,11,13,15,16] Hidden among food packages, in aluminium
+pouches and other packaging, were 15 vacuum-sealed pouches of dried leaves suspected to be kush
+[@1,5,8,9,13,14,15,16,19]: five weighing 5,122 grams in the first bag and ten weighing 12,342 grams in the
+second, 17,464 grams in all. [@2,5,8,10,13,14,15,16] PDEA put the street value at ₱17.46 million
+[@1,4,18,19], and the drugs were inventoried before witnesses and sent to PDEA's laboratory. [@1,8,15,16]
 
-During secondary screening, customs and anti-narcotics personnel found 15
-vacuum-sealed transparent plastic pouches of dried leaves suspected to be
-marijuana kush, hidden inside aluminum pouches and other packaging materials
-across two checked bags. [@1,19] The pouches contained about 17,464 grams, PDEA
-said. [@2,15] PDEA estimated the street value of the confiscated drugs at P17.46
-million. [@1,19] The contraband was inventoried at the scene in the presence of
-required witnesses before being transferred to the PDEA Laboratory Service for
-forensic examination. [@1]
-
-The interdiction task group included personnel from PDEA's National Capital
-Region office, the Bureau of Customs Anti-Illegal Drugs Task Force, the PNP
-Aviation Security Group, the Airport Police Department, the PNP Drug Enforcement
-Group, the National Bureau of Investigation, the Bureau of Immigration and the
-Office for Transportation Security. [@1,2] The suspect remains in custody and
-faces formal charges for violating Republic Act 9165, the Comprehensive
+The interdiction task group included PDEA's capital-region office, the Bureau of Customs anti-drug task
+force, the PNP Aviation Security Group, the Airport Police Department, the PNP Drug Enforcement Group,
+the National Bureau of Investigation, the Bureau of Immigration and the Office for Transportation
+Security. [@1,2] The man remains in custody and faces charges under Republic Act 9165, the Comprehensive
 Dangerous Drugs Act of 2002. [@1,7,19]
 
-The Philippine Star, citing Rudy Santos, said authorities valued the kush at over P17 million. [@4]
-
-According to the Bureau of Customs, the passenger carried two checked-in bags containing food packages used to conceal the suspected drugs. [@5,8,9,13,14,15,16] X-ray screening showed suspicious images in the luggage and a drug-sniffing dog indicated possible illegal substances, prompting Customs personnel to conduct a physical examination. [@5,8,13,15,16] Five packages weighing 5,122 grams and valued at about P5.12 million were in the first bag, and 10 packages weighing 12,342 grams and worth P12.34 million were in the second. [@5,8,10,13,14,15,16] BOC-NAIA District Collector Yasmin Obillos-Mapa attributed the consecutive seizures to intensified airport inspections and close coordination among law enforcement agencies. [@5,14,16] Customs Commissioner Ariel Nepomuceno commended the personnel involved in the operations and stressed the importance of sustained vigilance against illegal drug trafficking. [@5,16]
-
-An X-ray scan flagged the luggage before personnel searched it by hand and checked it with K-9 units. [@6,7,9,11]
-
-PNP-Avsegroup Director Brig. Gen. Dionisio Bartolome Jr. said police would strengthen airport monitoring and enforcement to combat illegal drug trafficking. [@7,11]
-
-The Bureau of Customs said the confiscated substances were turned over to PDEA for disposition and legal proceedings. [@8,15,16]
-
-The haul was valued at PHP 17,464,000 under the standard drug price. [@18]
+NAIA customs collector Yasmin Obillos-Mapa credited closer inspections and coordination for the run of
+seizures, Customs Commissioner Ariel Nepomuceno praised the officers [@5,14,16], and PNP Aviation Security
+Group director Brig. Gen. Dionisio Bartolome Jr. said airport monitoring would be stepped up. [@7,11]
