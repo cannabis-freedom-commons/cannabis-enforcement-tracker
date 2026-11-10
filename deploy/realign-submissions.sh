@@ -36,10 +36,21 @@ echo "${#keep[@]} report commit(s) are not on main yet."
 export GIT_COMMITTER_NAME="${GIT_COMMITTER_NAME:-$(git log -1 --format=%cn origin/main)}"
 export GIT_COMMITTER_EMAIL="${GIT_COMMITTER_EMAIL:-$(git log -1 --format=%ce origin/main)}"
 git reset --quiet --hard origin/main
+# one commit on top, the commit's own version winning a conflict; a commit whose changes are already
+# here is skipped (the --empty=drop of newer git, which older git on a host does not have)
+pick() {
+  if git cherry-pick -X theirs "$1" >/dev/null 2>&1; then return 0; fi
+  if git diff --quiet && git diff --cached --quiet && [ -z "$(git ls-files -u)" ]; then
+    git cherry-pick --skip >/dev/null 2>&1 || git cherry-pick --abort 2>/dev/null || true
+    return 0
+  fi
+  git cherry-pick --abort 2>/dev/null || true
+  return 1
+}
+
 left_out=0
 for c in ${keep[@]+"${keep[@]}"}; do
-  if ! git cherry-pick --empty=drop -X theirs "$c" >/dev/null 2>&1; then
-    git cherry-pick --abort 2>/dev/null || true
+  if ! pick "$c"; then
     echo "Left out (could not apply): $(git log -1 --format='%h %s' "$c")"
     left_out=$((left_out + 1))
   fi
