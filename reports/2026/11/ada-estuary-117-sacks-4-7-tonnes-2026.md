@@ -137,6 +137,11 @@ sources:
     publisher: GhanaWeb
     date: 2026-11-06
     language: en
+  - title: 'Ghana : deux bateaux saisis avec 4,7 tonnes de cannabis présumé'
+    url: https://www.seneweb.com/fr/news/Afrique/ghana-deux-bateaux-saisis-avec-47-tonnes-de-cannabis-presume_n_999003166.html
+    publisher: Seneweb
+    date: 2026-11-10
+    language: fr
 open_questions:
   - The 4.7 tonnes and the US$1 million value are the Ghana Navy's estimates; the substance is described as suspected Indian hemp pending laboratory testing.
   - No confirmed weight from laboratory testing and no figure for the number of parcels or the identity of the boat operators was published.
@@ -173,17 +178,20 @@ open_questions:
   - GhanaWeb does not say how many people were on the boats or who they were.
   - GhanaWeb gives the 4.7 tonnes and value as the Navy's estimates and does not report laboratory confirmation that the leaves were cannabis.
   - GhanaWeb does not name the items or money seized, or the custody of any property.
+  - The Seneweb page reproduces an AFrikmag article and adds no independent reporting, and it again names no destination country.
+  - The listed page image is a headline-illustration thumbnail with no caption identifying the boats or sacks, so no media entry is added.
+  - Seneweb describes the sacks as dried leaves suspected to be cannabis rather than Indian hemp, and gives no independent weight or value beyond the armed forces' estimates.
 ---
 
 Ghana Navy personnel from the Riverine Command, working with the Narcotics
 Control Commission (NACOC) and National Security, intercepted two wooden boats
-at the Ada Estuary on Thursday 5 November 2026. [@2,3,4,6,7,8,9,12,14,15] The boats carried 117 sacks
+at the Ada Estuary on Thursday 5 November 2026. [@2,3,4,6,7,8,9,12,14,15,16] The boats carried 117 sacks
 of compressed dried leaves suspected to be Indian hemp, each sack holding more
 than 80 parcels. [@2,3,4,7,8,12,14,15] The occupants spotted the approaching naval patrol,
 abandoned both vessels and their cargo, and fled. [@1,3,4,6,7,12,14,15]
 
 The Navy estimated the cargo at about 4.7 tonnes and put its street value at
-more than US$1 million. [@1,3,4,9,10,12] No one was arrested, and the sacks remain
+more than US$1 million. [@1,3,4,9,10,12,16] No one was arrested, and the sacks remain
 classified as suspected narcotics pending laboratory testing. [@2,7] Preliminary
 intelligence indicated the consignment was being prepared for export out of
 Ghana. [@2,3,7,8,14]
@@ -215,3 +223,5 @@ The Ghana Navy's preliminary intelligence suggested the consignment was being tr
 Ghana Navy seized approximately 4.8 tonnes of suspected marijuana at the Volta Lake estuary near Ada, with the consignment allegedly destined for Nigeria. [@13]
 
 The Ada East District Chief Executive, Kenneth Kofi Kabu Kanor, asked relevant institutions to provide the logistical assistance needed to strengthen the fight against drug trafficking and assured the Navy of the Assembly's support. [@14]
+
+According to the official account, the operation was launched on intelligence, and the people on board left the boats and fled when they saw the soldiers pursuing them. [@16]
