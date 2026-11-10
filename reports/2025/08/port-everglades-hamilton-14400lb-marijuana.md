@@ -68,6 +68,11 @@ sources:
     url: https://fortune.com/2025/08/26/coast-guard-drug-seizures-port-everglades-florida-cocaine-marijuana/
     publisher: Fortune
     date: 2025-08-26
+  - title: 'Toneladas de cocaína y marihuana: así se ve el alijo histórico que la Guardia Costera incautó en Fort Lauderdale | CNN'
+    url: https://cnnespanol.cnn.com/2025/08/26/eeuu/video/cocaina-marihuana-historico-guardia-costera-incautacion-orix
+    publisher: CNN en Español
+    date: 2025-08-26
+    language: es
 open_questions:
   - The $473 million valuation covers cocaine and marijuana together and cannot be separated into a marijuana-only value, so it is kept in the text and omitted from figures.
   - The cocaine quantity and its 23 million lethal doses are mentioned only as context and are excluded from cannabis figures.
@@ -79,6 +84,8 @@ open_questions:
   - 'Left out, as its quotation was not found in gCaptain: The 76,140-pound offload, taken from 19 interdictions between June and August 2025, was the largest quantity of drugs offloaded in Coast Guard history.'
   - El Nuevo Herald places one of the Acapulco-area marihuana and cocaine figures in waters off Venezuela rather than itemising it, so its cannabis portion cannot be separated from the 17,153-pound combined figure and is left out of the report's figures.
   - El Nuevo Herald's two named marijuana seizures, 9,088 and 2,615 pounds (5,300 kg combined), do not account for the whole of the offloaded marijuana, and the article does not say where the rest was taken.
+  - The CNN page gives rounded approximate tonnages (about 27 tons of cocaine and 6 tons of marijuana) rather than the pound figures in the report, so the report's precise figures are retained.
+  - The short video page names no cutter, interdiction count, detentions or court outcomes and adds no new detail beyond corroborating the place, quantities, record description and combined valuation.
 ---
 
 The crew of the U.S. Coast Guard Cutter Hamilton offloaded seized narcotics at
@@ -93,8 +100,8 @@ Capt. John B. McWhite said his crew interdicted 11 go-fast vessels and detained
 traffickers were held but that the authorities did not state how many suspects
 were detained in all the interdictions together. [@1,5] Hamilton's crew offloaded
 about 14,400 pounds of bulk marijuana, roughly 6,532 kg, alongside 61,740 pounds
-of cocaine. [@3,4,5] The Coast Guard valued the cocaine and marijuana together at
-$473 million, a combined figure that is not a marijuana-only estimate. [@2,4,5]
+of cocaine. [@3,4,5,6] The Coast Guard valued the cocaine and marijuana together at
+$473 million, a combined figure that is not a marijuana-only estimate. [@2,4,5,6]
 
 Rear Adm. Adam Chamie said the cocaine alone amounted to 23 million potentially
 lethal doses, enough to give the entire population of Florida a fatal overdose.
