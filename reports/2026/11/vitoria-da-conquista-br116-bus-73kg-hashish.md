@@ -82,27 +82,28 @@ sources:
     publisher: SulBahia1
     date: 2026-11-09
     language: pt
+  - title: PRF apreende mais de 7 kg de haxixe em ônibus interestadual na BR-116, em Vitória da Conquista
+    url: https://www.sudoestebahia.com/noticias/vitoria-da-conquista/prf-apreende-mais-de-7-kg-de-haxixe-em-onibus-interestadual-na-br-116-em-vitoria-da-conquista/imprimir/
+    publisher: Sudoeste Bahia
+    date: 2026-11-10
+    language: pt
 open_questions:
-  - The weight is given as approximately 7.3 kilograms ("quase 7,3 quilos"), not an exact measured figure.
-  - The 146,000 reais is the PRF's own valuation method estimate, not a sale price.
-  - No court appearance, charges filed or outcome was reported beyond the formalisation of the arrest at the civil police station.
-  - Neither source names the passenger or says how many people were on the bus.
-  - The PRF page carries a second handout photo of the packages, but only a relative image address could be recovered for it, so it is not listed as media.
-  - A TARDE gives the hashish weight as about 7.5 kilograms ("Cerca de 7,5 Kg"), while the PRF's own statement and the other accounts give about 7.3 kilograms; the report keeps 7.3 kilograms.
-  - Acorda Cidade reports only that the passenger was arrested in the act and taken to the Civil Police station; it gives no charge, court date or outcome.
-  - The portal does not name the passenger or say how many people were on the bus.
-  - SulBahia1 reproduces the same PRF statement as the outlets already cited, so it is not independent reporting of the seizure.
+    - The weight is given as approximately 7.3 kilograms ("quase 7,3 quilos"), not an exact measured figure.
+    - The 146,000 reais is the PRF's own valuation method estimate, not a sale price.
+    - No court appearance, charges filed or subsequent legal outcome was reported beyond the formalisation of the arrest at the civil police station.
+    - No source names the passenger or states how many people were on the bus.
+    - A TARDE gives the hashish weight as about 7.5 kilograms ("Cerca de 7,5 Kg"), while the PRF's own statement and other accounts give about 7.3 kilograms; the report keeps 7.3 kilograms.
 ---
 
 Federal highway police stopped an interstate passenger bus at their post on
 BR-116 in Vitória da Conquista, in south-west Bahia, shortly before midday on
-Sunday 8 November. [@1,4,5,6] The bus was running the Rio de Janeiro to Natal line,
-and the check began at about 11:40. [@2,3,4,5,6] Searching the luggage hold, officers
+Sunday 8 November. [@1,4,5,6,7] The bus was running the Rio de Janeiro to Natal line,
+and the check began at about 11:40. [@2,3,4,5,6,7] Searching the luggage hold, officers
 noticed a strong smell of marijuana and traced it to a black backpack. [@1,4,5,6]
 
 Inside were seven packages of hashish weighing almost 7.3 kilograms, which the
 police seized. [@2,3,4,5,6] The officers identified the passenger who owned the backpack
-and asked him to get off the bus to explain. [@2,4,6] He told them he had spent four
+and asked him to get off the bus to explain. [@2,4,6,7] He told them he had spent four
 days on holiday in Rio de Janeiro and said he had previous records for drug
 trafficking and for using counterfeit currency. [@1,3,4,5,6]
 
@@ -111,6 +112,6 @@ estimated at almost 146,000 reais, described as financial damage to criminal
 organisations. [@2,3,5,6] Because the police treated the case as drug trafficking, the
 passenger and the hashish were taken to the Integrated Public Security District
 of the Civil Police in Vitória da Conquista so that the arrest could be
-formalised. [@2,4,5,6]
+formalised. [@2,4,5,6,7]
 
 The hashish was to be sent for forensic examination. [@4]
