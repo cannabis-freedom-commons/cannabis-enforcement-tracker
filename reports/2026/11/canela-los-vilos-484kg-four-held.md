@@ -56,17 +56,15 @@ sources:
     publisher: La Serena Online
     date: 2026-11-10
     language: es
-open_questions:
-  - The article dates the first operation only to Friday dawn and the hearing to Saturday, so 6 November 2026 is inferred from the 10 November publication date.
-  - No charges, formalisation or other court outcome beyond the Saturday detention-control hearing was reported.
-  - The article reports no arrests in the second seizure at Los Vilos.
-  - The exact amount of cash seized is given only as more than $360,000.
-  - Only one accessible source for this event was found after searching in Spanish.
+  - title: Carabineros incauta casi 500 kilos de marihuana en operativos realizados en Canela y Los Vilos
+    url: https://www.davidnoticias.cl/carabineros-incauta-casi-500-kilos-de-marihuana-en-operativos-realizados-en-canela-y-los-vilos/
+    publisher: David Noticias
+    language: es
 ---
 
 Carabineros detained four people in the first of two weekend operations on Route
-5 Norte in Canela. [@1] The first Canela checks were carried out at kilometres 309 and 282 of Route 5 Norte during Friday dawn. [@2] The four were an Ecuadorian aged 43, two Dominicans aged
-28 and 37, and a Chilean aged 26. [@1,2] Police said some of them acted as punta
+5 Norte in Canela. [@1,3] The first Canela checks were carried out at kilometres 309 and 282 of Route 5 Norte during Friday dawn. [@2] The four were an Ecuadorian aged 43, two Dominicans aged
+28 and 37, and a Chilean aged 26. [@1,2,3] Police said some of them acted as punta
 de lanza lookouts, driving in another vehicle to warn of checkpoints and ease
 the drug load through. [@1] One of the four had a criminal record for drug
 trafficking. [@1] On the prosecutor's orders, the four faced a detention-control
@@ -78,7 +76,7 @@ phones and more than $360,000 in cash. [@1,2] Hours later, about a hundred
 kilometres south at kilometre 198 in Los Vilos, officers found a pickup carrying
 377 packages weighing 398 kilos 360 grams, with a pistol and two cartridges
 inside. [@1] The pickup found in Los Vilos had no outstanding theft report. [@2] Together the two seizures totalled 484 kilos 985 grams, equal to
-969,970 doses, which police valued at $3,879,880,000. [@1,2]
+969,970 doses, which police valued at $3,879,880,000. [@1,2,3]
 
 The operations were carried out by the specialised OS7 Limarí unit with
 Carabineros highway units deployed on the road. [@1] Coquimbo zone chief General
