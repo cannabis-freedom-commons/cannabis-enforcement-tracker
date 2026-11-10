@@ -202,6 +202,11 @@ sources:
     publisher: Hey Haber
     date: 2026-11-09
     language: tr
+  - title: Adana'da imalathanede 17 kilo esrar ele geçirildi
+    url: https://www.alparslandiyari.com/haber/adana-da-imalathanede-17-kilo-esrar-ele-gecirildi_81076/
+    publisher: Alparslan Diyarı
+    date: 2026-11-10
+    language: tr
 open_questions:
   - The accounts give no separate date or time for the raid; 9 November 2026, the date of the ministry statement and of publication, stands in for the incident date.
   - No figure for the number of cannabis plants in the workshop, the area used or an estimated value of the esrar was published.
@@ -261,22 +266,28 @@ open_questions:
   - Hey Haber credits the text to its own newsroom ('Haber Merkezi') and reproduces the same Interior Ministry statement as the outlets already cited, so it corroborates rather than independently reports the raid.
   - The page names no district or neighbourhood for the workshop and no plant count, area or value.
   - The page's single illustration is a site card image captioned only with an alt text describing officers inspecting a workshop with sacks and production equipment, with no photographer or agency credit; it is not added as a media entry.
+  - The page gives no separate date or time for the raid; its publication date is 10 November 2026, one day after the Interior Ministry statement it reproduces.
+  - The page names no district or neighbourhood for the workshop and gives no plant count, area or estimated value.
+  - The page reproduces the same Interior Ministry statement as the outlets already cited in the report, so it corroborates rather than independently reports the raid.
+  - The page adds 'çeşitli malzemeler' (various materials) without listing them.
+  - The page's only picture is captioned solely with the story headline and carries no photographer or agency credit, so whether it shows the workshop, the seized esrar or the operation generally is not established and no media entry is added.
+  - The page gives no charge, court step or outcome for the three suspects.
 ---
 
 Gendarmes detained three suspects in a raid on an indoor cannabis workshop in
-Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9,10,11,13,15,16,17,19,20,21] The workshop was found growing
+Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9,10,11,13,15,16,17,19,20,21,22] The workshop was found growing
 cannabis under a purpose-built air-conditioning system, and police said the
 three suspects were running a narcotics production and trading operation. [@2,4,7,10]
 The searches turned up 17 kilograms of esrar, a cannabis hashish product,
 together with the workshop itself, four standing air conditioners, the rest of
-the air-conditioning system and various materials. [@2,4,6,7,9,10,11,12,13,15,16,17,18,19,21]
+the air-conditioning system and various materials. [@2,4,6,7,9,10,11,12,13,15,16,17,18,19,21,22]
 
 The three suspects were taken into custody, and the ministry named no further
 court step. [@2,9,10,12,14]
 
 The operation was run by the Adana Provincial Gendarmerie Command after
 intelligence work, coordinated by the Gendarmerie General Command's
-anti-narcotics department and the Adana chief public prosecutor's office. [@2,4,6,7,8,9,10,14,16,21]
+anti-narcotics department and the Adana chief public prosecutor's office. [@2,4,6,7,8,9,10,14,16,21,22]
 TRT Haber reported that the three suspects were held in gözaltı, the police
 custody in which a person is questioned while prosecutors decide on charges or
 release. [@3]
@@ -299,3 +310,5 @@ The report is credited to the ANKA news agency. [@15]
 The address was identified through intelligence work by Adana Provincial Gendarmerie Command teams, which assessed that narcotics were being produced and traded there. [@18] The first statement did not say whether the three suspects were remanded in custody or placed under judicial supervision. [@18] In December 2025, police had found 40 Indian hemp plants and 2 kilograms 774 grams of dried esrar in a villa in Pozantı district of Adana where a similar system was installed, and two suspects were jailed in that investigation. [@18]
 
 At the time of the raid the Adana provincial gendarmerie command was led by Brigadier General Necdet Karaca, who had been appointed to the post by a decree published in the Official Gazette. [@20]
+
+The Interior Ministry said in its statement of 9 November 2026 that operations against drugs across the country were continuing without interruption, and thanked those involved in the Adana raid. [@22]
