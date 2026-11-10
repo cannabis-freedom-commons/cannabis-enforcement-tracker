@@ -47,6 +47,11 @@ sources:
     publisher: El Norte de Castilla
     date: 2026-11-10
     language: es
+  - title: Investigan a dos vecinos de El Espinar (Segovia) tras hallar ocho kilos de marihuana en un invernadero
+    url: https://www.msn.com/es-es/noticias/other/investigan-a-dos-vecinos-de-el-espinar-segovia-tras-hallar-ocho-kilos-de-marihuana-en-un-invernadero/ar-AA2h8wF6
+    publisher: Europa Press
+    date: 2026-11-10
+    language: es
 open_questions:
   - No number of plants was published, so only the gross weight of 8.05 kilograms is recorded.
   - The article gives no separate date for the raid, so 10 November 2026, the publication date, stands in for the incident date.
@@ -56,21 +61,20 @@ open_questions:
 ---
 
 The Guardia Civil in Segovia dismantled a clandestine marijuana plantation
-hidden in a greenhouse near the town centre of El Espinar. [@1] Two people
+hidden in a greenhouse near the town centre of El Espinar. [@1,2] Two people
 living in El Espinar were placed under investigation over their alleged
-involvement in the grow. [@1] They were treated as suspected perpetrators of an
+involvement in the grow. [@1,2] They were treated as suspected perpetrators of an
 offence against public health involving drug trafficking through cultivation.
 [@1] The proceedings drawn up by the officers were sent to the competent
 judicial authority in Segovia. [@1]
 
 After inspecting the site, officers seized all of the plants, with a gross
-weight of 8.05 kilograms of plant material. [@1] They also dismantled the
+weight of 8.05 kilograms of plant material. [@1,2] They also dismantled the
 infrastructure used to produce the cannabis. [@1] The seized material was taken
 to the official drug store for safekeeping and later destruction. [@1]
 
 The operation began with a tip from a member of the public who reported a strong
-smell of marijuana near the town centre. [@1] Using that information, officers
+smell of marijuana near the town centre. [@1,2] Using that information, officers
 investigated to trace the source of the smell and check whether an illegal
 plantation existed. [@1] Their inquiries identified the greenhouse where the
 crop was hidden. [@1]
-
