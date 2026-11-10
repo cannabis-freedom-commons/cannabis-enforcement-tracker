@@ -96,7 +96,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
   // One Time control owns both rolling periods and calendar selections.
   // Relative windows include calendar dates already reached in any local timezone.
   const RANGES: Record<string, number> = { "24h": 1, "7d": 7, "30d": 30, "1y": 365, all: 0 };
-  const DEFAULT_RANGE = list.closest(".compact") ? "30d" : "all";
+  const DEFAULT_RANGE = list.closest(".compact") ? "7d" : "all";
   let period = readPeriod(params, DEFAULT_RANGE, { allowRelative: !byYear, allowRange: hasBar });
   let range = period.range;
   const setPeriod = (next: ReturnType<typeof readPeriod>) => {
@@ -133,7 +133,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     if ($("tag").value) chips.push(["tag", `#${$("tag").value}`]);
     if (!fixedCountry && $("country").value) chips.push(["country", countries[$("country").value] ?? $("country").value]);
     for (const t of on) if (types[t]) chips.push([`type:${t}`, types[t].label, types[t].color]);
-    if (period.mode !== DEFAULT_RANGE) chips.push(["period", period.mode === "calendar" ? periodLabel(period) : PRESETS[period.mode] ?? period.mode]);
+    if (period.mode !== DEFAULT_RANGE && !(newOnly && period.mode === "all")) chips.push(["period", period.mode === "calendar" ? periodLabel(period) : PRESETS[period.mode] ?? period.mode]);
     for (const f of FIGURE_FILTERS) if (figs[f.key]) chips.push([`fig:${f.key}`, rangeLabel(f, figs[f.key])]);
     for (const f of DETAIL_FILTERS) if (details[f.key]) chips.push([`detail:${f.key}`, `${f.label}: ${f.options.find(([id]) => id === details[f.key])?.[1] ?? details[f.key]}`]);
     if (status) chips.push(["status", STATUSES.find(([v]) => v === status)![1]]);
@@ -294,6 +294,17 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     }).observe($("months"));
   }
 
+  // the map's "N new" switch: there only while this reader has new reports; on, it lists just
+  // those, whenever they happened (all time), and off goes back to the usual period
+  const newToggle = maybe("new-toggle");
+  function showNewToggle() {
+    if (!newToggle) return;
+    const n = rows.filter((r) => isNew(r.i, r.at)).length;
+    newToggle.hidden = n === 0 && !newOnly;
+    newToggle.querySelector(".new-n")!.textContent = n.toLocaleString("en-GB");
+    newToggle.setAttribute("aria-pressed", String(newOnly));
+    newToggle.setAttribute("aria-label", `${n.toLocaleString("en-GB")} ${n === 1 ? "report" : "reports"} new since your last visit${newOnly ? ": shown alone" : ""}`);
+  }
   function apply(resetLimit = true) {
     hideTimelineTooltip();
     if (resetLimit) limit = PAGE;
@@ -303,6 +314,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     render();
     months();
     (window as any).__reportsShown = new Set(shown.map((r) => r.i)); // for a map that loads later
+    showNewToggle();
     document.dispatchEvent(new CustomEvent("reports:filter", { detail: (window as any).__reportsShown }));
     const p = new URLSearchParams();
     for (const f of fields) if ($(f).value) p.set(f, $(f).value);
@@ -546,6 +558,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
       hideTimelineTooltip();
     });
     document.querySelectorAll<HTMLButtonElement>("[data-range]").forEach((button) => button.addEventListener("click", () => {
+      newOnly = false;
       setPeriod(changePeriod(button.dataset.range!, { year: $("year").value, month: $("month").value, date: day }, ""));
       apply();
       if (period.mode === "calendar") $("year").focus();
@@ -562,7 +575,12 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     $("clear-filters").addEventListener("click", clearFilters);
     // everything listed is now read: the "new" filter has nothing left to show
     maybe("mark-read")?.addEventListener("click", () => { markAllAsRead(); newOnly = false; apply(); });
-    onUnreadChange(() => { if (newOnly) apply(); });
+    onUnreadChange(() => { if (newOnly) apply(); showNewToggle(); });
+    newToggle?.addEventListener("click", () => {
+      newOnly = !newOnly;
+      setPeriod(changePeriod(newOnly ? "all" : DEFAULT_RANGE, {}));
+      apply();
+    });
     if (hasBar) initMapFilters();
     apply(); // by year: the counts and months of all reports
   });

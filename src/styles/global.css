@@ -747,3 +747,9 @@ sup.cite a { color: var(--cite); text-decoration: none; }
 @keyframes update-in { from { opacity: 0; transform: translate(-50%, 8px); } }
 @media (prefers-reduced-motion: reduce) { .update-note { animation: none; } }
 .map-tip:has(.tip-photo) .maplibregl-popup-content { width: 280px; }
+/* the map's "N new" switch, before the periods: only while there are new reports */
+.range-switch .new-toggle { gap: 6px; color: var(--new); }
+.range-switch .new-toggle[hidden] { display: none; }
+.range-switch .new-toggle .rs-short { display: none; }
+.range-switch .new-toggle[aria-pressed="true"] { color: var(--accent-ink); background: var(--new); }
+.range-switch .new-toggle[aria-pressed="true"] .new-dot { background: var(--accent-ink); }
