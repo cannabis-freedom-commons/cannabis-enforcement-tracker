@@ -3,6 +3,7 @@ package api
 import (
 	"context"
 	"net/http/httptest"
+	"net/url"
 	"os"
 	"path/filepath"
 	"testing"
@@ -93,5 +94,43 @@ func TestSourceScreenshotIsPublicAndBoundToReceipt(t *testing.T) {
 	s.Store.DB.Exec("UPDATE source_captures SET artifact_dir=?", outside)
 	if r := send("127.0.0.1:1234"); r.Code != 503 {
 		t.Fatal("read outside capture storage", r.Code)
+	}
+}
+
+// A report's source tooltip finds the screenshot of a page by its address, only from the tracker's pages.
+func TestSourceScreenshotByURL(t *testing.T) {
+	s, _ := server(t)
+	s.Config.Workspaces = t.TempDir()
+	id, err := s.Store.Accept(context.Background(), store.Intake{Origin: "web", URL: "https://news.example/story", CanonicalURL: "https://news.example/story"})
+	if err != nil {
+		t.Fatal(err)
+	}
+	v, _ := s.Store.Get(context.Background(), id)
+	dir := filepath.Join(s.Config.Workspaces, "sources", v.CaseID, store.ID())
+	os.MkdirAll(dir, 0700)
+	if err = os.WriteFile(filepath.Join(dir, "page.png"), []byte{137, 80, 78, 71, 13, 10, 26, 10, 0, 0}, 0600); err != nil {
+		t.Fatal(err)
+	}
+	// another source the research opened for the same case
+	if _, err = s.Store.DB.Exec("INSERT INTO source_captures(id,case_id,url,artifact_dir,created_at) VALUES(?,?,?,?,?)", store.ID(), v.CaseID, "https://other.example/account", dir, time.Now().Unix()); err != nil {
+		t.Fatal(err)
+	}
+	get := func(u string, header ...string) int {
+		r := httptest.NewRequest("GET", "/v1/sources/screenshot?url="+url.QueryEscape(u), nil)
+		for i := 0; i+1 < len(header); i += 2 {
+			r.Header.Set(header[i], header[i+1])
+		}
+		w := httptest.NewRecorder()
+		s.Handler().ServeHTTP(w, r)
+		return w.Code
+	}
+	if code := get("https://other.example/account", "Sec-Fetch-Site", "same-site"); code != 200 {
+		t.Fatal("captured source not served", code)
+	}
+	if code := get("https://never.example/opened"); code != 404 {
+		t.Fatal("a page never captured", code)
+	}
+	if code := get("https://other.example/account", "Sec-Fetch-Site", "cross-site"); code != 403 {
+		t.Fatal("hotlinked", code)
 	}
 }

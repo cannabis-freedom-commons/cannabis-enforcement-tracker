@@ -109,6 +109,7 @@ func (s *Server) Handler() http.Handler {
 	mux.HandleFunc("GET /v1/submissions/{id}", s.get)
 	mux.HandleFunc("POST /v1/submissions/{id}/restart", s.restart)
 	mux.HandleFunc("GET /v1/submissions/{id}/source/screenshot", s.sourceScreenshot)
+	mux.HandleFunc("GET /v1/sources/screenshot", s.sourceByURL)
 	mux.HandleFunc("GET /v1/submissions/{id}/ai", s.ai)
 	mux.HandleFunc("GET /v1/submissions/{id}/ai/log", s.aiLog)
 	mux.HandleFunc("GET /v1/submissions/{id}/ai/raw", s.aiRaw)
