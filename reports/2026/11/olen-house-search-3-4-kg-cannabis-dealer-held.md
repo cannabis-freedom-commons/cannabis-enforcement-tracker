@@ -53,24 +53,23 @@ sources:
     url: https://www.rtv.be/actualiteit-en-nieuws/politie-kan-drugsdealer-arresteren-na-huiszoeking-olen
     publisher: RTV
     language: nl
-open_questions:
-  - The reports do not name or describe the arrested resident beyond calling him the occupant and a suspected dealer.
-  - No amount was published for the considerable sum of cash found in the home.
-  - The GVA account rounds the cannabis seizure to 3.4 kilograms while RTV gives 3,470 grams; this report uses the precise 3,470 grams.
-  - No formal charges beyond suspicion of dealing in several drugs were specified in these reports.
+  - title: Drugsdealer gearresteerd na huiszoeking in Olen | Nieuwsblad
+    url: https://www.nieuwsblad.be/regio/antwerpen/kempen/olen/drugsdealer-gearresteerd-na-huiszoeking-in-olen/164365856.html
+    publisher: Nieuwsblad
+    date: 2026-11-10
+    language: nl
 ---
 
 The Neteland police zone found several types of drugs during a house search in
-Olen. [@1] The search was carried out on 1 November because the resident was
-suspected of dealing drugs. [@1] The search was conducted by the PROA team of
+Olen. [@1,3] The search was carried out on 1 November because the resident was
+suspected of dealing drugs. [@1,3] The search was conducted by the PROA team of
 the Neteland police at the man's home in Olen on Sunday 1 November. [@2]
 
 In the home, inspectors found 3,470 grams of cannabis alongside 44 grams of
-speed, 22 grams of cocaine and 3 grams of MDMA. [@2] They also found 174
-amphetamine pills, 439 XTC pills and 306 LSD stamps. [@2] The home also held
+speed, 22 grams of cocaine and 3 grams of MDMA. [@2,3] They also found 174
+amphetamine pills, 439 XTC pills and 306 LSD stamps. [@2,3] The home also held
 1,547 packs of counterfeit cigarettes, an air pistol and a considerable sum of
 cash. [@2]
 
-The resident was arrested and brought before the investigating judge. [@1] The
-judge ordered the man to remain in custody. [@1]
-
+The resident was arrested and brought before the investigating judge. [@1,3] The
+judge ordered the man to remain in custody. [@1,3]
