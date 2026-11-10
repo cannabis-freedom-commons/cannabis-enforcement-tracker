@@ -70,6 +70,16 @@ sources:
     publisher: Saray Medya
     date: 2026-11-09
     language: tr
+  - title: 3 ilçede uyuşturucu operasyonu, 2 kilogram 123 gram esrar ele geçirildi
+    url: https://www.tv42haber.com/asayis/3-ilcede-uyusturucu-operasyonu-2-kilogram-123-gram-esrar-ele-gecirildi-181243
+    publisher: Tv42 Haber
+    date: 2026-11-09
+    language: tr
+  - title: Jandarmadan 3 ilçede uyuşturucu operasyonu! 1 kişi tutuklandı
+    url: https://www.sabah.com.tr/antalya/2026/11/09/jandarmadan-3-ilcede-uyusturucu-operasyonu-1-kisi-tutuklandi
+    publisher: Sabah
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The article gives no calendar date for the searches; 9 November 2026 is its publication date and is used here as the incident date.
   - No names, ages or nationalities of the seven suspects were published, and no charges or case outcome were reported beyond the jailing of one suspect.
@@ -88,6 +98,8 @@ open_questions:
   - The Saray Medya text is credited to İHA, the same agency already cited through İhlas Haber Ajansı, Mersin Haber and the other outlets, so it reproduces the same dispatch and is not independent reporting of the raids.
   - The page gives no separate calendar date for the searches; 9 November 2026 is its publication date.
   - The page's second photo (jandarma-3-ilcede-2-kilo-123-gram-esrar-ele-gecirdi-1-1794224267.webp) is captioned only with the headline and names no photographer, so it is not confirmed to show this seizure and is not listed as media.
+  - The Sabah account calls the seven raided addresses simultaneous, while the İHA-based accounts do not describe the timing of the searches.
+  - The Sabah page describes the jailed suspect with the tabloid phrase zehir taciri (poison merchant) rather than naming a charge, and no charge was reported in any account.
 media:
   - kind: photo
     url: https://www.iha.com.tr/antalya-haberleri/3-ilcede-uyusturucu-operasyonu-2-kilogram-123-gram-esrar-ele-gecirildi-513445099
@@ -102,16 +114,18 @@ media:
 ---
 
 Gendarmes searched the homes of seven suspects in the districts of Döşemealtı,
-Aksu and Alanya in Antalya province. [@1,2,3,4,5,6] The searches were carried out on the
-instructions of the Antalya and Alanya public prosecutor's offices. [@1,5]
-Officers seized 2 kilos 123 grams of esrar, the Turkish name for cannabis. [@1,2,3,4,5,6]
+Aksu and Alanya in Antalya province. [@1,2,3,4,5,6,7] The searches were carried out on the
+instructions of the Antalya and Alanya public prosecutor's offices. [@1,5,7]
+Officers seized 2 kilos 123 grams of esrar, the Turkish name for cannabis. [@1,2,3,4,5,6,7]
 
-The same searches found 3 grams of cocaine. [@1,2,5] The searches also found 232
+The same searches found 3 grams of cocaine. [@1,2,5,8] The searches also found 232
 pills of the synthetic drug Gerica and 63 other synthetic drug pills. [@1,2,5]
 Officers seized a precision scale, two unlicensed handguns and 30 cartridges.
 [@1,5] Police also seized money described as proceeds of crime. [@1,2,5]
 
 One suspect was arrested and jailed by the court he was brought before; no
-charges were reported. [@1,2,3,4,5,6]
+charges were reported. [@1,2,3,4,5,6,7]
 
 The cannabis searches were part of a wider operation in six Antalya districts that also targeted smuggled tobacco in Kepez, Alanya and Gazipaşa. [@3] The tobacco searches were coordinated by the Antalya, Alanya and Gazipaşa public prosecutor's offices. [@3]
+
+The raids on the seven addresses were carried out simultaneously. [@8]
