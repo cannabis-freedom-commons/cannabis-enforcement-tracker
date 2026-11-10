@@ -43,6 +43,11 @@ media:
     media_url: https://img.manufacturing.net/files/base/indm/all/image/2020/03/Myanmar_Hemp_Co_AP.5e68f43887e00.png?auto=format%2Ccompress&fit=max&q=70&rect=2%2C42%2C1024%2C576&w=1200
     publisher: Manufacturing.net (AP)
     caption: 'AP file photo of Shein Latt (left) and John Todoroki leaving a local court in May 2019 after their arrest over the Ngazun Township plantation. Photo: AP Photo/Aung Shine Oo, File'
+  - kind: photo
+    url: https://www.irrawaddy.com/news/burma/us-man-charged-cannabis-case-fled-myanmar-us-last-year-new-passport.html
+    media_url: https://www.irrawaddy.com/wp-content/uploads/2022/12/0A9A9300-750x375.jpg
+    publisher: The Irrawaddy
+    caption: 'John Fredric Todoroki arrives for a court hearing in May 2019. Photo: Zaw Zaw / The Irrawaddy'
 sources:
   - title: report on the 20-year sentence for a worker at the US hemp grower's plantation, 10 March 2020
     publisher: Radio Free Asia
@@ -87,6 +92,10 @@ sources:
     url: https://apnews.com/article/north-america-marijuana-asia-pacific-myanmar-6ca44539c3a148f8aac7691996150f29
     publisher: AP News
     date: 2019-05-07
+  - title: US Man Charged in Cannabis Case Fled Myanmar for US on New Passport
+    url: https://www.irrawaddy.com/news/burma/us-man-charged-cannabis-case-fled-myanmar-us-last-year-new-passport.html
+    publisher: The Irrawaddy
+    date: 2020-03-05
 also: [raid]
 open_questions:
   - The article states the potential penalties the charges carry, from five years to death; no sentence has been given at this step.
@@ -101,6 +110,7 @@ open_questions:
   - The AP story dates the sentencing only to 'Tuesday'; 10 March 2020 is taken from Radio Free Asia's publication date for the same hearing.
   - Radio Free Asia says authorities determined that five US citizens still at large were involved in the farm's operations; it names none of them and reports no charge against them.
   - The AP dispatch dates the sentencing only to 'Tuesday'; 10 March 2020 is taken from the reporting of the same hearing.
+  - This source converts the same 325 million kyat bail as about US$232,380, a third conversion alongside the $243,000 and $221,600 figures already noted in the existing report.
 ---
 
 Police raided a 20-acre plantation on an industrial estate in Ngunzun township, Mandalay region, and arrested the American entrepreneur John Frederic Todoroki and two Myanmar employees. Six days later the region's chief minister said his government had allowed the firm to grow fibre plants for one year. Todoroki was released on medical bail in July 2019 and reportedly left the country. On 10 March 2020 the Myingyan District Court sentenced Shein Latt, a supervisor who had installed the irrigation, to 20 years for growing prohibited cannabis plants; the case against the translator was dismissed. [@1,2,9] Shein Latt's lawyer said his client had done nothing wrong and would appeal. [@2,9]
@@ -111,6 +121,8 @@ On 7 May 2019 Todoroki was escorted by police for a court hearing in Ngazun Town
 
 Police reported finding nearly 350,000 marijuana plants, some up to two metres tall, along with 380 kilograms of seeds and 270 kilograms of marijuana at the eight-hectare site. [@7] Authorities were searching for another American, Alexander Skemp Todoroki, who was still at large. [@7] Myanmar police arrested an American and two Myanmar citizens after photos on Facebook tipped them off to a huge weed farm near Mandalay. [@7]
 
-Shein Latt was convicted under two sections of the Anti-Narcotics Drug and Psychotropic Substances Law for growing prohibited cannabis plants, a police officer told Radio Free Asia. [@1] The court handling Todoroki's case ordered that his bail of 325 million kyats ($243,000) be forfeited because he had failed to turn up for several court appearances. [@8,9] Drug abuse authorities determined that five US citizens still at large also had a hand in the farm's operations, Radio Free Asia reported. [@1]
+Shein Latt was convicted under two sections of the Anti-Narcotics Drug and Psychotropic Substances Law for growing prohibited cannabis plants, a police officer told Radio Free Asia. [@1] The court handling Todoroki's case ordered that his bail of 325 million kyats ($243,000) be forfeited because he had failed to turn up for several court appearances. [@8,9,11] Drug abuse authorities determined that five US citizens still at large also had a hand in the farm's operations, Radio Free Asia reported. [@1]
 
 A court dismissed the case against Shunlei Myat Noe, a Myanmar woman who briefly acted as a translator at the farm, after ruling that she bore no responsibility for the farm's operation. [@9]
+
+Todoroki fled the country in a pickup truck via a Thai border town in October last year. [@11] The US Embassy had issued Todoroki a new passport in his own name. [@11] His fixer paid a Myanmar immigration officer US$300 for a stamp. [@11]
