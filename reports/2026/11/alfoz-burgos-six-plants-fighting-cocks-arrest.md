@@ -116,6 +116,11 @@ sources:
     publisher: El Adelantado de Segovia
     date: 2026-11-09
     language: es
+  - title: Detenido en el Alfoz de Burgos por maltrato animal y cultivar marihuana en una finca rústica - Tribuna de Burgos.
+    url: https://www.tribunaburgos.com/noticias/465919/detenido-en-el-alfoz-de-burgos-por-maltrato-animal-y-cultivar-marihuana-en-una-finca-rustica
+    publisher: Tribuna de Burgos
+    date: 2026-11-10
+    language: es
 open_questions:
   - The accounts give no date for the inspection or the arrest; 9 November 2026 is the publication date of the Guardia Civil statement and is used as the incident date.
   - The municipality is named only as a village in the Alfoz de Burgos district, so the coordinates mark the district and not the plot.
@@ -136,6 +141,8 @@ open_questions:
   - El Adelantado credits the account to the Subdelegación del Gobierno and to Guardia Civil statement material, so it is not independent reporting of the arrest.
   - The article gives no separate date for the inspection or the arrest; 9 November 2026 is its publication date and is already used as the incident date in the existing report.
   - The page photo is captioned as the eight mutilated cocks found by Seprona, with no named photographer and no credit line.
+  - This account was published on 10 November 2026 and gives no separate date for the inspection or arrest; the existing report uses 9 November 2026, the publication date of the Guardia Civil statement, as the incident date.
+  - The page shows one image whose caption only repeats the headline, so no photo is listed as showing the event.
 ---
 
 Guardia Civil officers arrested a 24-year-old man in a municipality of the Alfoz
@@ -143,13 +150,13 @@ de Burgos, the district around the city of Burgos, and placed him at the
 disposal of the courts. [@1,5,6] He is suspected of a crime against public health
 through drug trafficking in the form of cultivation, and of ill-treatment of a
 domestic animal for mutilating eight Spanish fighting-breed cocks without
-veterinary justification. [@1,4] The Guardia Civil said the investigation began
+veterinary justification. [@1,4,8] The Guardia Civil said the investigation began
 weeks earlier, when it found a fenced rural plot littered with rubbish, scrap
 and waste and showing signs of irregular care of the animals kept there. [@1,5]
 
 Officers from Seprona, the Guardia Civil's nature-protection service, and from
 the judicial police of the Burgos command carried out a joint on-site
-inspection. [@2,5,7] In the greenhouses on the property they found six Cannabis
+inspection. [@2,5,7,8] In the greenhouses on the property they found six Cannabis
 sativa plants in an advanced stage of growth and more than two metres tall,
 which weighed 22 kilograms green. [@2,4,5,6] Burgosconecta reported that the plants
 grew directly in the ground, appeared to be tended, and were seized during the
@@ -158,7 +165,7 @@ inspection. [@3,4]
 The eight cocks were found with their combs and wattles completely shaved off,
 and a later expert report by Seprona's environmental forensics group confirmed
 the mutilation had been carried out without veterinary justification by
-unqualified people. [@2,4,6] Officers also recorded administrative breaches: the
+unqualified people. [@2,4,6,8] Officers also recorded administrative breaches: the
 owner had no legal register for a poultry holding and kept several dogs without
 the required vaccination or deworming. [@2] They found birdlime, an adhesive
 used to trap birds, which is a prohibited means of catching game. [@1,5]
