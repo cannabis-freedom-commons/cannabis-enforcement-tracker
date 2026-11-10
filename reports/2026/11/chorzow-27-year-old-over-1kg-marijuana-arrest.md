@@ -54,29 +54,27 @@ sources:
     publisher: Komenda Miejska Policji w Chorzowie
     date: 2026-11-10
     language: pl
-open_questions:
-  - No separate date for the detention or search was reported; 10 November 2026 is the publication date of both sources and is used as the incident date.
-  - The exact weight of the marijuana above one kilogram was not reported.
-  - The cash figure is reported as nearly 10,000 zloty, not an exact amount.
-  - 'The accounts differ on who ordered the police supervision: the TVP report and the police lead say a court, while the body of the police statement says a prosecutor.'
-  - No court outcome beyond the supervision measure was reported.
+  - title: Akcja policji w Chorzowie! 27-latek miał ponad kilogram marihuany w mieszkaniu. Policjanci zabezpieczyli też 10 tys. zł | Chorzów Nasze Miasto
+    url: https://chorzow.naszemiasto.pl/akcja-policji-w-chorzowie-27-latek-mial-ponad-kilogram-marihuany-w-mieszkaniu-policjanci-zabezpieczyli-tez-10-tys-zl/ar/c1p2-29513847
+    publisher: Chorzów Nasze Miasto
+    date: 2026-11-10
+    language: pl
 ---
 
 Criminal investigators from the Chorzow police headquarters detained a
 27-year-old resident of the city after receiving information that he might hold
 larger quantities of drugs in his flat. [@1] The 27-year-old was charged with
-possessing a significant quantity of narcotics. [@2] He was placed under police
-supervision as a preventive measure. [@2]
+possessing a significant quantity of narcotics. [@2,3] He was placed under police
+supervision as a preventive measure. [@2,3]
 
 Police said they had established that the man might be storing larger quantities
 of intoxicants in a flat in Chorzow. [@1] During the search of the flat,
-officers found more than one kilogram of marijuana, which they seized. [@1]
+officers found more than one kilogram of marijuana, which they seized. [@1,3]
 Officers also seized nearly 10,000 zloty in cash, which was subjected to a
-property seizure order, along with the man's mobile phone. [@2]
+property seizure order, along with the man's mobile phone. [@2,3]
 
 The Chorzow police said its criminal investigators acted on information about a
 city resident who might possess larger quantities of drugs in his flat, and that
 the search confirmed their suspicion. [@2] Police added that drugs are a problem
 not only for the people who use them but also a threat to their families and
 immediate surroundings. [@1]
-
