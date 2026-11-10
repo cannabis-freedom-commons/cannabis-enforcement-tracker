@@ -47,12 +47,16 @@ sources:
     publisher: redeGN
     date: 2026-11-10
     language: pt
+  - title: PM erradica plantio com aproximadamente 19 mil pés de maconha em Juazeiro (BA)
+    url: https://edenevaldoalves.com.br/pm-erradica-plantio-com-aproximadamente-19-mil-pes-de-maconha-em-juazeiro-ba/
+    publisher: Edenevaldo Alves
+    date: 2026-11-10
+    language: pt
 open_questions:
     - No arrests, suspects or charges were reported for this eradication.
     - The plant figure is an approximation of about 19,000 plants, not an exact measured count.
     - No cultivated area, seized weight or estimated drug value was published.
     - No investigative or court outcome beyond referral of samples to the Juazeiro drugs station was reported.
-    - Both opened accounts reproduce 74th CIPM/Rural press releases from the Bahia Military Police.
 ---
 
 Bahia's Military Police eradicated a marijuana planting on Monday 9 November
@@ -63,7 +67,7 @@ its Rural Tactical Operations Platoon and its Urban Tactical Operations Platoon.
 [@1,2]
 
 The police put the size of the planting at approximately 19,000 marijuana
-plants. [@1,2] After locating the cultivation, the officers carried out the
-eradication of the plantation at the site. [@1,2] Samples of the eradicated
+plants. [@1,2,3] After locating the cultivation, the officers carried out the
+eradication of the plantation at the site. [@1,2,3] Samples of the eradicated
 material were forwarded to the Drugs and Narcotics Station (DTE) in Juazeiro,
-where the applicable legal measures will be adopted. [@1,2]
+where the applicable legal measures will be adopted. [@1,2,3]
