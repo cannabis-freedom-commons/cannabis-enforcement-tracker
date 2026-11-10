@@ -65,6 +65,9 @@ open_questions:
   - The new account describes the arrests only as hundreds, while the existing report records 319 arrests across the two simultaneous operations; the existing precise figure is retained.
   - The new account describes the deceased only as a 56-year-old farm worker without naming him, so no age is added to the identified victim.
   - The September 2026 FOIA lawsuit seeking warrants, body-worn camera footage and use-of-force reports has not yet produced records that would resolve the contested circumstances of the fall.
+  - The DHS release gives at least 361 arrests across both grow sites as of 13 July, while the report retains the 319 arrests announced by Secretary Noem; the two figures are reported at different points in the same operation and cannot be separated by site.
+  - DHS does not name the grow-site operators or the sites beyond the towns of Carpinteria and Camarillo, and does not say how many people were arrested at each site.
+  - The release states no cannabis quantity, plant count or area for the two grow sites.
 sources:
   - title: Farmworker critically injured during Ventura County immigration raid dies, family says
     url: https://abc7.com/post/jaime-alans-garcia-death-farmworker-injured-during-ventura-county-immigration-raid-glass-house-farms-dies-family-says/17092373/
@@ -81,6 +84,10 @@ sources:
     archived: https://web.archive.org/web/20260928192039/https://www.rcfp.org/glass-house-foia-lawsuit/
     publisher: The Reporters Committee for Freedom of the Press
     date: 2026-09-04
+  - title: ICE, CBP Arrest at Least 361 Illegal Aliens During Marijuana Grow Site Operation, Rescue at Least 14 Children
+    url: https://www.dhs.gov/news/2025/07/13/ice-cbp-arrest-least-361-illegal-aliens-during-marijuana-grow-site-operation-rescue
+    publisher: U.S. Department of Homeland Security
+    date: 2025-07-13
 ---
 
 Jaime Alanís García, a Mexican farmworker supporting a wife and daughter in Mexico, died on Saturday,
@@ -90,7 +97,7 @@ raid there on Thursday, 10 July. His family said he had been taken to hospital w
 skull. [@1]
 
 The raid was one of two simultaneous operations at cannabis farms near Camarillo and in Carpinteria;
-homeland security secretary Kristi Noem announced 319 arrests across them. [@1,3] The Department of
+homeland security secretary Kristi Noem announced 319 arrests across them. [@1,3,4] The Department of
 Homeland Security said García "was not in and has not been in CBP or ICE custody" and, though "not
 being pursued by law enforcement", had climbed to the roof of a greenhouse and fallen, with a medevac
 called immediately. [@1] The United Farm Workers confirmed workers were critically injured — injuries
@@ -104,3 +111,5 @@ months. [@2] President Claudia Sheinbaum said Mexico was considering a legal com
 [@2]
 
 Independent journalist Jackie Botts brought a Freedom of Information Act lawsuit against ICE and 10 other federal agencies after they failed to provide records she requested about the raid at Glass House Farms. [@3] Her requests sought warrants, police body-worn camera footage and use-of-force reports. [@3]
+
+DHS said at least 14 migrant children were rescued from potential exploitation, forced labour and human trafficking. [@4] DHS said four U.S. citizens were being criminally processed for assaulting or resisting officers after more than 500 rioters tried to disrupt the operation. [@4]
