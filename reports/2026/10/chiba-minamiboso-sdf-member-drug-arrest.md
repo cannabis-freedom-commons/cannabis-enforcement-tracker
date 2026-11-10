@@ -51,11 +51,16 @@ sources:
     publisher: メ～テレニュース
     date: 2026-11-10
     language: ja
+  - title: 自ら119番通報し発覚... 朝霞駐屯地の陸上自衛官ら2人逮捕 路上でMDMAや大麻を所持か 千葉県警 | TBS NEWS DIG
+    url: https://newsdig.tbs.co.jp/articles/-/3076119
+    publisher: TBS NEWS DIG
+    date: 2026-11-10
+    language: ja
 ---
 
 A 24-year-old Ground Self-Defense Force member assigned to Camp Asaka (藤原統真) and
 a 27-year-old unemployed man (神原虎勇太) were arrested on suspicion of possessing
-drugs including cannabis on a road in Minamiboso. [@1,3] The alleged possession
+drugs including cannabis on a road in Minamiboso. [@1,3,4] The alleged possession
 took place on a road in Minamiboso, Chiba, in the month before the report was
 published. [@1]
 
