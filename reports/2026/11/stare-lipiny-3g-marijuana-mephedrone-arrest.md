@@ -63,6 +63,11 @@ sources:
     publisher: WWL24
     date: 2026-11-09
     language: pl
+  - title: Blisko 32 gramy narkotyków w domu mieszkańca Starych Lipin. Mężczyzna usłyszał zarzuty
+    url: https://www.zyciepw.pl/blisko-32-gramy-narkotykow-w-domu-mieszkanca-starych-lipin-mezczyzna-uslyszal-zarzuty
+    publisher: Życie Powiatu na Mazowszu
+    date: 2026-11-09
+    language: pl
 open_questions:
   - The marijuana weight is given only as more than 3 grams, and the police describe it as an initial finding with no laboratory confirmation reported.
   - The man is identified only as a 39-year-old resident of Stare Lipiny.
@@ -76,14 +81,14 @@ open_questions:
 ---
 
 Detectives from the Wołomin County Police Headquarters searched a home in Stare
-Lipiny on 2 November 2026 and detained a 39-year-old man found there. [@1,2,3]
+Lipiny on 2 November 2026 and detained a 39-year-old man found there. [@1,2,3,4]
 Officers found a light-coloured crystallised substance and a bag of dried plant
-material during the search. [@1,3] Initial findings identified the substances as
-more than 29 grams of mephedrone and more than 3 grams of marijuana. [@1,2,3] Police
+material during the search. [@1,3,4] Initial findings identified the substances as
+more than 29 grams of mephedrone and more than 3 grams of marijuana. [@1,2,3,4] Police
 also seized cash and mobile phones that may be evidence in the case. [@1,3]
 
 The man was charged with possession of psychotropic substances and narcotic
-drugs under article 62 of the Act on Counteracting Drug Addiction. [@1,2,3] Police
+drugs under article 62 of the Act on Counteracting Drug Addiction. [@1,2,3,4] Police
 said the offence carries a prison term of up to three years. [@1,3] The court will
 decide on the sentence. [@1]
 
