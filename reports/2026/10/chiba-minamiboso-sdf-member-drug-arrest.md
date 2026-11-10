@@ -71,11 +71,16 @@ sources:
     publisher: NHKニュース
     date: 2026-11-10
     language: ja
+  - title: 千葉 20代の陸自隊員を逮捕 合成麻薬や大麻など所持疑い | NHKニュース
+    url: https://news.web.nhk/newsweb/na/nd-20261110de73819
+    publisher: NHKニュース
+    date: 2026-11-10
+    language: ja
 ---
 
 A 24-year-old Ground Self-Defense Force member assigned to Camp Asaka (藤原統真) and
 a 27-year-old unemployed man (神原虎勇太) were arrested on suspicion of possessing
-drugs including cannabis on a road in Minamiboso. [@1,3,4,5,6,7] The alleged possession
+drugs including cannabis on a road in Minamiboso. [@1,3,4,5,6,7,8] The alleged possession
 took place on a road in Minamiboso, Chiba, in the month before the report was
 published. [@1]
 
