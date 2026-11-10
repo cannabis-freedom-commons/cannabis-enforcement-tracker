@@ -41,9 +41,11 @@ test(`no report has more than ${MAX_QUESTIONS} open questions, outside the list 
     "rewrite these reports once, every fact and source kept, the open questions down to the real gaps (docs/WRITING.md)");
 });
 
-test("the list of reports being rewritten only shrinks", () => {
+// Not a failure: the backend fixes listed reports by itself when sources are added (it then
+// sends the revised open questions), and that must not stop a deployment.
+test("reports on the list that are within the limits now", (t) => {
   const fixed = [...allowed].filter((slug) => !over.some((o) => o.slug === slug));
-  assert.deepEqual(fixed, [], `these are within the limits now: take them out of ${ALLOW} (node scripts/report-limits.test.mjs --update)`);
+  if (fixed.length) t.diagnostic(`${fixed.length} can leave ${ALLOW}: node scripts/report-limits.test.mjs --update`);
 });
 
 test(`reports over ${MAX_WORDS} words, to rewrite`, (t) => {
