@@ -91,15 +91,20 @@ sources:
     publisher: SWI swissinfo.ch
     date: 2026-11-10
     language: es
+  - title: Incautan 2,7 toneladas de marihuana que pertenecerían a los Comandos de Frontera en Putumayo
+    url: https://www.agenciapi.co/noticia/regiones/incautan-2-7-toneladas-de-marihuana-que-pertenecerian-los-comandos-de-frontera-en-putumayo
+    publisher: Agenciapi.co
+    date: 2026-11-10
+    language: es
 ---
 
 Colombia's National Army reported on 10 November 2026 that 2.7 tonnes of
 marijuana had been seized from a bongo remolcador, a river tugboat, during a
 military operation in Puerto Asís, Putumayo. [@1,7] The interinstitutional
 operation took place at the Hong Kong wharf in Puerto Asís, where authorities
-located the vessel. [@2,4,5,6,7] During the procedure, officers seized the boat and
+located the vessel. [@2,4,5,6,7,8] During the procedure, officers seized the boat and
 found about 2,700 kilograms of a substance that by its physical characteristics
-resembles marijuana. [@2,5,6]
+resembles marijuana. [@2,5,6,8]
 
 The seizure came from a joint operation by the Army, the Navy and the National
 Police. [@3,4] Units taking part under the Ayacucho Plus campaign plan included
