@@ -127,6 +127,11 @@ sources:
     publisher: Votunews
     date: 2026-11-09
     language: pt
+  - title: Motorista é preso em Ourinhos com 4,5 toneladas de maconha e fuzil
+    url: https://ubirataonline.com.br/motorista-e-preso-em-ourinhos-com-45-toneladas-de-maconha-e-fuzil/
+    publisher: Ubiratã Online
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No charge or court decision was reported beyond the driver's arrest in flagrante and detention at the Federal Police station in Marília.
   - The driver's name, age, route and the origin or destination of the load were not published.
@@ -160,6 +165,10 @@ open_questions:
   - Votunews gives no time of day or kilometre for the stop; it names the road only as the rodovia Orlando Quagliato.
   - The page's single image at https://www.votunews.com.br/wp-content/uploads/2026/11/45-7.webp carries no caption or credit tying it to this seizure, so no media entry is added.
   - The same page also reports statewide January-September totals of 95 tonnes of drugs and thousands of weapons, a separate balance left out of this event.
+  - The Medianeira stop is the driver's own account, relayed by police; no source says whether investigators verified it.
+  - The submitted page names the load as bags of flour, while the police-based accounts call it farinha de carne e ossos (meat-and-bone meal); the submitted page's own wording may simplify the load.
+  - The CGN page behind this account returned an access error when opened, so the Ubiratã Online republication and Rádio Cultura Foz were used instead.
+  - The submitted page gives no charge, court decision or release and no count of tablets; the 5,100 tablets figure comes from other accounts already cited in the existing report.
 ---
 
 Highway police arrested a man in Ourinhos, São Paulo state, on the afternoon of
@@ -197,3 +206,5 @@ Band credits the 9.1 million real loss estimate to the highway police itself. [@
 A abordagem ocorreu por volta das 15h25, em uma base de policiamento rodoviário, após a FICCO/PR repassar informações sobre a possibilidade de transporte de materiais ilícitos no caminhão. [@12] O motorista afirmou desconhecer a existência da droga e disse que havia feito uma parada na região de Medianeira, no Oeste do Paraná, perto da fronteira com o Paraguai. [@12] A FICCO/PR é formada pela Polícia Federal, Polícia Militar do Paraná, Secretaria Nacional de Políticas Penais (SENAPPEN) e Polícia Rodoviária Federal. [@12] O fuzil de calibre 7.62 estava sem munições e sem identificação de marca, modelo ou origem. [@12]
 
 Highway police arrested a driver with more than 4.5 tonnes of cannabis and a rifle on the afternoon of Sunday 8 November 2026 on the SP-327 in Ourinhos, in the interior of São Paulo state. [@13] Under the sacks of flour they found 5,100 tablets of cannabis weighing 4,535 kg, and in the same load a 7.62-calibre rifle with no identifying make, model or origin. [@13] Police estimated the seizure caused a loss of 9.1 million reais to international drug trafficking. [@13] Opina News credited the PMESP news agency as its source, reproducing the Military Police's own account of the seizure. [@13]
+
+The driver told police he had made a stop in the Medianeira region of western Paraná, near the border with Paraguay, before heading for Rio de Janeiro. [@15] The truck was stopped at about 15:25 at a highway policing base after the Paraná FICCO passed on information about the vehicle. [@15] Police found the cannabis in bundles hidden among bags of flour in the truck's load. [@15]
