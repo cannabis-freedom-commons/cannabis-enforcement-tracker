@@ -156,18 +156,16 @@ sources:
     url: https://www.nst.com.my/news/nation/2026/11/1574586/mauritius-drug-haul-malaysian-couple-paid-rm1000-suitcase
     publisher: New Straits Times
     date: 2026-11-10
-  - title: Social media recruitment led Malaysian couple into RM9.87m cannabis smuggling trap in Mauritius
-    url: https://www.thevibes.com/articles/news/129375/social-media-recruitment-led-malaysian-couple-into-rm9.87m-cannabis-smuggling-trap-in-mauritius
-    publisher: The Vibes
-    date: 2026-11-10
 open_questions:
   - The article was published on 4 November 2026 but dates the seizure to “ce mardi”, so 3 November 2026 is used as the incident date.
   - No amount or currency was given for the seized foreign currency, so no value is recorded.
   - The suspects were not named and no charge or court outcome was reported.
   - Only one accessible source for this event was found after searching in French and English.
+  - The new accounts give the seizure date as Monday 2 November 2026, while the existing report used 3 November because its French source said the search took place 'ce mardi'.
   - Radio One and Harian Metro attribute about 10.9 kg to the 30-year-old, while Inside News gives 10.94 kg.
   - Harian Metro gives the woman's age only as 18; Le Mauricien says she turned 18 in August and Radio One says 27 August.
   - Harian Metro calls the customs section Seksyen Antinarkotik Kastam (CANS); Le Mauricien and Radio One refer to the Customs Anti Narcotics Section.
+  - The supplied article picture is captioned GAMBAR HIASAN (illustration), so no media entry is added.
   - Free Malaysia Today gives 2 November 2026 as the date the cannabis was found in the luggage, which supports the date now used and conflicts with the earlier reading of 'ce mardi' as 3 November.
   - Free Malaysia Today does not name the suspects or say whether they have been charged.
   - Malay Mail credits Free Malaysia Today for its account, so this page is not independent reporting of the seizure.
@@ -177,9 +175,11 @@ open_questions:
   - Kwong Wah says the Mauritius Revenue Authority issued its statement 'last Wednesday', which would place the statement on 4 November 2026, after the 2 November arrests.
   - Kwong Wah attributes about 32.5 kg to the 22-year-old man and 32.6 kg to the 18-year-old woman, while other outlets give different shares for the same haul.
   - Kwong Wah names no charge or court step for the three suspects.
+  - The article's only picture carries a caption repeating the seizure figures and no agency credit, so its provenance is unclear and no media entry is added.
   - Streamline lists no author beyond its newsroom and mixes the separate September and October Malaysian cases into its context paragraphs, so those comparisons are not used here.
   - Streamline gives no court appearance or outcome beyond the provisional charge and does not name the suspects or the date of any hearing.
   - The Vibes attributes its figures to the Mauritius Revenue Authority and to Mauritian media, and it adds no weight, value or court detail that the existing sources did not already report.
+  - The article's lead picture is a Bernama handcuffs stock photo and its other images are an unrelated longhouse fire and a generic gavel, so no media entry is added.
   - The Vibes says the 55-year-old cook took the same EK709 flight before the three Malaysians' 2 November arrest, a link the separate cook report does not yet state.
   - The New Straits Times credits its account to the Mauritius Revenue Authority and to unnamed Mauritian media and adds no reporting of its own.
   - The New Straits Times does not give the flight number, the controlled delivery, or the charge; those rest on the existing sources.
@@ -189,6 +189,7 @@ open_questions:
   - The Vibes puts the 30-year-old's share at about 10.9 kg, close to the 10.94 kg recorded in the separate Le Mauricien case report for a lone 30-year-old held on the same day; the difference is left open.
   - The Vibes gives 17.8 kg for the 23 October cook case, close to the 17.88 kg recorded in that separate report.
   - The Vibes says the Mauritius Revenue Authority issued its statement 'last Wednesday', which would place the statement after the 2 November arrests.
+  - The article's lead picture is a Bernama handcuffs photograph, and its other images are an unrelated building and a generic portrait, so no media entry is added.
   - The New Straits Times reports 17.8 kg for the separate 23 October Malaysian cook case, while that case's own report records 17.88 kg; the difference is left open.
   - Guang Ming Daily gives the 23 October cook case as 17.92 kg in 17 bags, while the report on that separate case records 17.88 kg from Le Défi Media Group.
   - Guang Ming Daily says the earlier suspect was found with 17.92 kg and the three with 76.14 kg, giving more than 90 kg in total, in line with a combined Revenue Authority figure rather than separate seizures on different days.
@@ -198,17 +199,19 @@ open_questions:
   - The page gives no flight number, no charge, no court step and no outcome for the three suspects.
   - Harian Metro does not name the suspects or report any charge or court outcome.
   - The report carries no photo of the seizure; its only picture is captioned GAMBAR HIASAN (illustration), so none was added.
+  - The submitted page is a Harian Metro AI-generated summary of an article already cited; it adds a new page address rather than new reporting.
+  - The page's accompanying pictures are captioned GAMBAR HIASAN (illustration) and a portrait of an unrelated musician, so no media entry is added.
   - Getaran credits the account to Mauritian media and the Mauritius Revenue Authority, so it restates reporting already cited rather than independently confirming it.
   - Getaran gives 76.14 kg and about RM9.87 million, and says the Revenue Authority announced the case 'last Wednesday', which would place the statement after the 2 November arrest.
   - Getaran gives 17.8 kg for the separate 23 October Malaysian cook case, close to the 17.88 kg recorded in that case's own report; the difference is left open.
   - AsiaOne credits the account to Free Malaysia Today and Malay Mail, so this page restates reporting already cited rather than independently confirming the seizure.
+  - The page's only picture is credited to Malay Mail and carries no caption tying it to a specific photograph of the haul, so no media entry is added.
   - The page reports no charge, court appearance or outcome for the three suspects.
   - The page gives 17.88 kg for the separate 23 October Malaysian chef case and 6.18 kg for the September case of a 76-year-old Malaysian, and mixes those figures into its context paragraphs; they belong to their own separate reports.
   - Malaysian police give about 65 kg for the couple's 60 packets and 10 packets for the third suspect without a separate weight, while the Mauritius Revenue Authority gives 76.14 kg in 70 packets for the three together; the report keeps the Revenue Authority total.
   - The page headlines a 'couple' but describes three Malaysians; the couple's share of about 65 kg is given as a gross weight and may include packing.
   - The New Straits Times reports no charge, court appearance or outcome for the three suspects.
   - The page's only picture is captioned COURTESY PIC with no credit identifying what it shows, so no media entry is added.
-  - The packet split in this account does not reconcile with the 70-packet total reported at the airport.
 ---
 
 Three Malaysian nationals who arrived on Emirates flight EK709 from Dubai were searched at Plaisance,
@@ -256,5 +259,3 @@ Three Malaysians were arrested upon arrival in Mauritius on Nov 2 after authorit
 The three arrived in Mauritius on an Emirates flight from Dubai on 2 November 2026. [@17]
 
 Bukit Aman Narcotics Criminal Investigation Department director Datuk Hussein Omar Khan said the 22-year-old man and the 18-year-old woman, both from Penang, were recruited after making contact with an individual on the RedNote app and then being reached on Telegram. [@21] The recruiter offered RM1,000 for each suitcase delivered to Mauritius and arranged and paid for the couple's flight tickets and hotel stay. [@21] The couple agreed to carry four suitcases, two each, and were told to collect them in Bangkok, Thailand, before flying on to Mauritius via Dubai, Hussein said. [@21] They were also told to install the Life360 location app so the person coordinating the delivery could monitor their movements, and they sent copies of their passports over Telegram. [@21] Checks on the couple's luggage found 60 plastic packets of suspected cannabis with a gross weight of about 65 kg, and Apple tracking devices were found inside each suitcase carried by one of the suspects. [@21] The third suspect, a 30-year-old man from Sabah who works in Singapore, was arrested with 10 plastic packets, and police said he had found a job advertisement on Facebook in Singapore before being contacted on Telegram. [@21] Hussein said none of the three suspects had previous criminal records, and that the couple had booked five days at the Domaine de Grand Baie Hotel for a holiday. [@21] The three Malaysians were arrested at 2.35pm on 2 November 2026, shortly after arriving on Emirates flight EK709 from Dubai, in an operation by the Anti-Drug and Smuggling Unit with Mauritius Customs, Hussein said. [@21] The couple found after their arrest that conversations in their Telegram group had been deleted or that the person believed to be the syndicate leader had left the group, Hussein said. [@21]
-
-Malaysia's Bukit Aman narcotics director said the Penang couple, 22 and 18, were recruited on RedNote and Telegram to carry four suitcases for RM1,000 a bag, with tickets and hotel paid, collection in Bangkok, a route through Dubai, the Life360 tracker installed to watch their movements and a five-day Grand Baie holiday as cover, while the 30-year-old from Sabah was recruited through a Facebook job advertisement. [@22]
