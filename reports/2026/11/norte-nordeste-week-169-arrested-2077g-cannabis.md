@@ -69,6 +69,11 @@ sources:
     publisher: Listín Diario
     date: 2026-11-09
     language: es
+  - title: DNCD decomisa casi 30 mil gramos de drogas y arresta a 169 personas durante operativos en el Norte y Nordeste
+    url: https://acento.com.do/actualidad/dncd-decomisa-casi-30-mil-gramos-de-drogas-y-arresta-a-169-personas-durante-operativos-en-el-norte-y-nordeste-9786730.html
+    publisher: Acento
+    date: 2026-11-10
+    language: es
 open_questions:
   - The article gives no calendar dates for the week of operations; 9 November 2026 is its publication date and the period is described only as one week.
   - The marijuana is described as suspected, with no laboratory confirmation reported.
@@ -78,18 +83,19 @@ open_questions:
   - The page photographs and video carry no caption except the headline, so what each shows is not confirmed beyond their placement in the report.
   - Listín Diario says the Samaná operations were in Santa Bárbara, while the earlier account gave no district there.
   - The Espaillat entry gives no marijuana weight, and the 2,077.1-gram total is used as published.
+  - Acento published on 10 November 2026 while the existing report uses 9 November 2026; both describe the same prior week of operations, so the difference is publication timing, not a separate incident.
 ---
 
 Agents of the DNCD, the Dominican drug-control agency, working with the Public
 Ministry and police officers, arrested 169 people during a week of operations
-against microtrafficking in the country's Norte and Nordeste regions. [@1,2] Of
+against microtrafficking in the country's Norte and Nordeste regions. [@1,2,3] Of
 the 169 detained, 168 were men and one was a woman. [@1] The authorities carried
 out 1,468 operations and 17 searches in the provinces of Santiago, Espaillat,
 Puerto Plata, María Trinidad Sánchez, Samaná and Duarte, targeting drug
-distribution and sales points. [@1,2]
+distribution and sales points. [@1,2,3]
 
 Officers seized 29,787.3 grams of suspected drugs in all, of which 2,077.1 grams
-was marijuana. [@1,2] In Santiago, including Navarrete and Santiago Oeste, 321
+was marijuana. [@1,2,3] In Santiago, including Navarrete and Santiago Oeste, 321
 operations and four searches led to 44 arrests and the seizure of 868.5 grams of
 marijuana. [@1,2] In San Francisco de Macorís, Duarte, 315 operations and three
 searches produced 29 arrests and 386.1 grams of marijuana. [@1] In María
