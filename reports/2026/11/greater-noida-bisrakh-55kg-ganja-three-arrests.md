@@ -121,6 +121,9 @@ sources:
   - title: Cannabis packed in e-commerce bags, sold through Telegram, home delivery in Greater Noida; 3 arrested | India News
     url: https://www.hindustantimes.com/india-news/cannabis-packed-in-e-commerce-bags-sold-through-telegram-home-delivery-in-greater-noida-3-arrested-101794302684259.html
     publisher: Hindustan Times
+  - title: Cannabis packed in e-commerce bags, sold through Telegram, home delivery in Greater Noida; 3 arrested
+    url: https://www.msn.com/en-in/news/India/cannabis-packed-in-e-commerce-bags-sold-through-telegram-home-delivery-in-greater-noida-3-arrested/ar-AA2h8l2J
+    publisher: Hindustan Times
 open_questions:
     - Both opened pages carry the same agency statement, so the account rests on a single police account and no independent outlet reporting of the arrest was found.
     - Police describe a 2024 NDPS case against one of the three, Wasim, in Hapur district, but its outcome is not reported.
@@ -136,19 +139,19 @@ open_questions:
 
 Police in Gautam Buddh Nagar district arrested three men accused of smuggling
 ganja on 9 November 2026, in a joint operation by the SWAT team and Bisrakh
-police station. [@1,3,5,6,7,9,11,12,13,14] The three were arrested at an under-construction building
-on Golden Grand Road in Bisrakh, in Greater Noida. [@2,3,4,5,6,7,9,15] The operation was
+police station. [@1,3,5,6,7,9,11,12,13,14,16] The three were arrested at an under-construction building
+on Golden Grand Road in Bisrakh, in Greater Noida. [@2,3,4,5,6,7,9,15,16] The operation was
 carried out on input from local intelligence and beat policing, the police
 account said. [@2,6,7]
 
 Police seized 55 kg 124 g of ganja from them, which they estimated to be worth
-about ₹55 lakh. [@2,3,4,5,6,7,8,9,11,12,13,15] Officers also recovered a Hyundai Aura car used to supply
+about ₹55 lakh. [@2,3,4,5,6,7,8,9,11,12,13,15,16] Officers also recovered a Hyundai Aura car used to supply
 the drug and three mobile phones. [@1,5,7,12]
 
 According to the police account, the men bought ganja cheaply in Odisha and
-other areas and packed it in e-commerce parcels to conceal it. [@2,4,6,7,9,11,12,14] According to the police account, the men brought ganja cheaply from Odisha and other areas together with one other accomplice. [@3] Police said
+other areas and packed it in e-commerce parcels to conceal it. [@2,4,6,7,9,11,12,14,16] According to the police account, the men brought ganja cheaply from Odisha and other areas together with one other accomplice. [@3] Police said
 they delivered ganja door to door on demand through the Telegram messaging app
-and online parcel services, as well as by car. [@2,3,4,6,7,9,13,14,15]
+and online parcel services, as well as by car. [@2,3,4,6,7,9,13,14,15,16]
 
 Bisrakh police station registered a case under the Narcotic Drugs and
 Psychotropic Substances (NDPS) Act, India's main anti-drug law. [@2,4,5,6,7,11] Police said
@@ -163,6 +166,6 @@ Bisrakh police station registered the case, numbered 846/2026, under sections 8 
 
 The seized car is a Hyundai Accent. [@8,11]
 
-Police identified the three arrested men as Alam Khan, 30, of Ghaziabad; Wasim, 26, of Baghpat; and Lakshya Rathore, 19, of Chotpur Colony under Sector-63 police station in Noida. [@9,11,14] DCP Central Noida Praveen Ranjan Singh said the three were caught with the ganja consignment at the under-construction building on Golden Grand Road. [@3,9] According to the police account, the men supplied ganja to students at schools, colleges and universities. [@9] Police said the men booked orders through Telegram and then sent ganja by parcel through e-commerce sites such as Amazon shipping. [@9] The men set the price of a kilogram of ganja at more than about ₹1 lakh, police said. [@9] Police said they were searching for other people in the gang and expected to arrest them soon. [@9] The Bisrakh arrests were made during a special drive against illegal drug trafficking, Amar Ujala reports. [@3,9]
+Police identified the three arrested men as Alam Khan, 30, of Ghaziabad; Wasim, 26, of Baghpat; and Lakshya Rathore, 19, of Chotpur Colony under Sector-63 police station in Noida. [@9,11,14,16] DCP Central Noida Praveen Ranjan Singh said the three were caught with the ganja consignment at the under-construction building on Golden Grand Road. [@3,9] According to the police account, the men supplied ganja to students at schools, colleges and universities. [@9] Police said the men booked orders through Telegram and then sent ganja by parcel through e-commerce sites such as Amazon shipping. [@9] The men set the price of a kilogram of ganja at more than about ₹1 lakh, police said. [@9] Police said they were searching for other people in the gang and expected to arrest them soon. [@9] The Bisrakh arrests were made during a special drive against illegal drug trafficking, Amar Ujala reports. [@3,9]
 
 The three were arrested after a police team laid a trap with the informer near the under-construction Golden Grand building, with the ganja consignment on them. [@10] Police said the seized ganja was of premium quality in high demand among young people and was delivered by taxi where orders came in. [@10]
