@@ -70,23 +70,28 @@ sources:
     publisher: Diario el Día
     date: 2026-11-10
     language: es
+  - title: Incautan más de $3 mil millones de marihuana procesada en procedimientos en la Ruta 5 Norte
+    url: https://www.biobiochile.cl/noticias/nacional/region-de-coquimbo/2026/11/10/incautan-mas-de-3-mil-millones-de-marihuana-procesada-en-procedimientos-en-la-ruta-5-norte.shtml
+    publisher: BioBioChile
+    date: 2026-11-10
+    language: es
 ---
 
 Carabineros detained four people in the first of two weekend operations on Route
-5 Norte in Canela. [@1,3] The first Canela checks were carried out at kilometres 309 and 282 of Route 5 Norte during Friday dawn. [@2,4] The four were an Ecuadorian aged 43, two Dominicans aged
-28 and 37, and a Chilean aged 26. [@1,2,3,4,5] Police said some of them acted as punta
+5 Norte in Canela. [@1,3] The first Canela checks were carried out at kilometres 309 and 282 of Route 5 Norte during Friday dawn. [@2,4,6] The four were an Ecuadorian aged 43, two Dominicans aged
+28 and 37, and a Chilean aged 26. [@1,2,3,4,5,6] Police said some of them acted as punta
 de lanza lookouts, driving in another vehicle to warn of checkpoints and ease
-the drug load through. [@1] One of the four had a criminal record for drug
+the drug load through. [@1,6] One of the four had a criminal record for drug
 trafficking. [@1] On the prosecutor's orders, the four faced a detention-control
 hearing on Saturday. [@1,2]
 
 In Canela officers seized 83 packages of processed marijuana weighing 86 kilos
 625 grams, along with a Suzuki Swift car, a Chevrolet N300 van, six mobile
-phones and more than $360,000 in cash. [@1,2,4,5] Hours later, about a hundred
+phones and more than $360,000 in cash. [@1,2,4,5,6] Hours later, about a hundred
 kilometres south at kilometre 198 in Los Vilos, officers found a pickup carrying
 377 packages weighing 398 kilos 360 grams, with a pistol and two cartridges
 inside. [@1,4] The pickup found in Los Vilos had no outstanding theft report. [@2] Together the two seizures totalled 484 kilos 985 grams, equal to
-969,970 doses, which police valued at $3,879,880,000. [@1,2,3,4,5]
+969,970 doses, which police valued at $3,879,880,000. [@1,2,3,4,5,6]
 
 The operations were carried out by the specialised OS7 Limarí unit with
 Carabineros highway units deployed on the road. [@1] Coquimbo zone chief General
