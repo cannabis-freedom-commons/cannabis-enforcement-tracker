@@ -73,6 +73,11 @@ sources:
     publisher: Diario Inforama - Catamarca
     date: 2026-11-09
     language: es
+  - title: Detuvieron a un joven con cocaína y 27 plantines de marihuana
+    url: https://www.elesquiu.com/policiales/2026/11/10/detuvieron-a-un-joven-con-cocaina-y-27-plantines-de-marihuana-602854.html
+    publisher: El Esquiú
+    date: 2026-11-10
+    language: es
 open_questions:
   - The 27 seedlings are recorded as seized; the accounts do not say whether they were later destroyed or kept as evidence.
   - Radio TV Valle Viejo publishes the same provincial police account as El Esquiú, so it is not independent reporting of the search.
@@ -94,18 +99,18 @@ open_questions:
 
 Officers of the GAUR-Santa María anti-narcotics group, part of the Catamarca
 provincial police's Dangerous Drugs Directorate, searched a house on Calle 2 de
-Febrero in Santa María city. [@1,3,4,5] The Juzgado Federal N° 1, the federal court in
-Catamarca, knew of and took part in the search. [@1,3,4,5] The search took place on 8
+Febrero in Santa María city. [@1,3,4,5,6] The Juzgado Federal N° 1, the federal court in
+Catamarca, knew of and took part in the search. [@1,3,4,5,6] The search took place on 8
 November 2026, the day before the account was published. [@1,4]
 
-Officers seized 27 marijuana seedlings of different sizes. [@1,3,4,5] Police also took
+Officers seized 27 marijuana seedlings of different sizes. [@1,3,4,5,6] Police also took
 a digital gram scale and two mobile phones, and placed them at the disposal of
-the court. [@1,3,4,5] Officers also found plastic wrappings with a white substance
+the court. [@1,3,4,5,6] Officers also found plastic wrappings with a white substance
 that a field test indicated was cocaine; the cocaine is not counted in the
-cannabis figures. [@1,4,5]
+cannabis figures. [@1,4,5,6]
 
 At the end of the search police detained a 27-year-old man and handed him to the
-court handling the case. [@1,3,4,5] The federal court issued instructions for the case
+court handling the case. [@1,3,4,5,6] The federal court issued instructions for the case
 to continue. [@1] Radio TV Valle Viejo reports the same search at Calle 2 de
 Febrero S/N° in the city of Santa María, in the department of the same name,
 with the same seizures and the same detained 27-year-old. [@2]
