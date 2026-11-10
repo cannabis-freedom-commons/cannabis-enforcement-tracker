@@ -47,6 +47,16 @@ sources:
     publisher: Victoria 840
     date: 2026-08-04
     language: es
+  - title: Unos 60 detenidos en Puerto Rico en un operativo contra puntos de droga cerca de escuelas
+    url: https://elnuevodiario.com.do/unos-60-detenidos-en-puerto-rico-en-un-operativo-contra-puntos-de-droga-cerca-de-escuelas/
+    publisher: El Nuevo Diario (República Dominicana)
+    date: 2026-08-04
+    language: es
+  - title: Arrestan a más de 60 personas en operativo en varios pueblos
+    url: https://www.primerahora.com/noticias/policia-tribunales/notas/arrestan-a-mas-de-60-personas-en-operativo-en-varios-pueblos/
+    publisher: Primera Hora
+    date: 2026-08-04
+    language: es
 open_questions:
   - The 101 marijuana pieces were reported only by count with no weight, so only the one-pound portion is converted to 0.4536 kg and the pieces are excluded from the cannabis weight.
   - 'Sources differ on totals: bail is reported as 8.8 million dollars in one account and 8,889,000 dollars in the other, and charges as 248 versus 248 plus one child-welfare charge; this report uses the 8.8 million and 248-charge figures from the opened capture and notes the variant.'
@@ -55,25 +65,28 @@ open_questions:
   - 4 August 2026 is both the operation day described as Tuesday and the publication date of both cited accounts, with no separate earlier incident time given.
   - The supplied page image is a 2024 stock photo of police-car lights captioned as an external source, not this operation, so no media entry is included.
   - Other seized substances and the nine vehicles are mentioned only to explain the mixed operation and are excluded from cannabis figures.
+  - The EFE text gives 60 arrests while Primera Hora reports 61 in the same sweep, so the existing minimum of 60 is kept and the 61 remains that outlet's figure.
+  - The 101 marijuana pieces are counted by number with no weight, so only the one-pound portion is converted to cannabis weight.
+  - The El Nuevo Diario page image is a file illustration from the portal's uploads with no caption tying it to this operation, so no media entry is added.
 ---
 
 Puerto Rico police arrested at least 60 people on 4 August 2026 in an
-island-wide operation against drug sale points near schools and parks. [@1] The
+island-wide operation against drug sale points near schools and parks. [@1,3] The
 operation, called Operación Espacio Seguro, targeted 95 people — 88 men, six
 women and a minor — through 94 arrest warrants and one apprehension order, with
-bail set at 8.8 million dollars for Controlled Substances Act violations. [@1]
+bail set at 8.8 million dollars for Controlled Substances Act violations. [@1,3]
 The five-month investigation aimed to dismantle groups trafficking controlled
 substances around schools, childcare centres, libraries and recreational areas
-ahead of the new school year. [@1] Authorities said warrant service was
+ahead of the new school year. [@1,3] Authorities said warrant service was
 continuing and more people remained to be detained. [@1] Prosecutors and the
 Justice Department's organized-crime and drugs division filed 248 charges for
 Controlled Substances Act violations, with total bail of 8.8 million dollars.
-[@1] Police said 40 of the accused have criminal records, including Controlled
+[@1,3] Police said 40 of the accused have criminal records, including Controlled
 Substances Act violations, domestic-violence law violations and unlawful
 appropriation. [@1]
 
 Officers seized 101 pieces of marijuana and one pound of marijuana, about 0.45
-kg, as the separately supported cannabis component. [@1] A second account
+kg, as the separately supported cannabis component. [@1,3] A second account
 separately lists the same cannabis seizure as 101 pieces of marijuana and one
 pound of marijuana. [@2] The same operation also seized 134 bags of cocaine, 5
 grams of cocaine, 399 pieces of crack, 30 grams of fentanyl, 123 doses of heroin
@@ -85,3 +98,4 @@ Police superintendent Joseph González said the operation was meant to reclaim
 spaces where children study, play and develop and to block drug trafficking near
 schools, parks and community centres. [@1]
 
+Primera Hora reported the operation was a five-month undercover investigation that cost 25,000 dollars. [@4] Primera Hora reported that 61 people were arrested in 25 municipalities, mostly in the southern and western areas. [@4] Primera Hora reported that the most serious charge was article 411-A of the Controlled Substances Act, a felony covering drug sales within a 100-metre perimeter of schools and recreational facilities. [@4]
