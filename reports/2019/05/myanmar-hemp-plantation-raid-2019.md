@@ -83,6 +83,10 @@ sources:
     publisher: Chicago Tribune
     date: 2020-03-11
     archived: https://web.archive.org/web/20260519145403id_/https://www.chicagotribune.com/2020/03/11/employee-of-us-owned-hemp-farm-in-myanmar-gets-20-years-jail/
+  - title: Myanmar extends detention of American accused of growing pot | AP News
+    url: https://apnews.com/article/north-america-marijuana-asia-pacific-myanmar-6ca44539c3a148f8aac7691996150f29
+    publisher: AP News
+    date: 2019-05-07
 also: [raid]
 open_questions:
   - The article states the potential penalties the charges carry, from five years to death; no sentence has been given at this step.
@@ -103,7 +107,7 @@ Police raided a 20-acre plantation on an industrial estate in Ngunzun township, 
 
 At a hearing on 21 May 2019 the Ngunzun township court formally charged John Frederic Todoroki, Shein Latt and Shun Lei Myat Noe with drug-law violations concerning marijuana, which carry penalties from five years in prison to death. [@3] Thein Than Oo said there was nothing stealthy about the project and that any action against the company should have been taken administratively rather than under the drug laws. [@3] Todoroki was charged with violating five sections of the drugs and narcotics law covering possession, sale and trafficking, and the court set the next hearing for 4 June. [@3] His lawyer said Todoroki, 63, had lost considerable weight in detention and feared for his health in the heat. [@3]
 
-On 7 May 2019 Todoroki was escorted by police for a court hearing in Ngazun Township, Mandalay region, on his arrest for operating a marijuana plantation. [@4] On 7 May 2019 a court allowed police to detain Todoroki and his two co-workers for two more weeks while they were investigated. [@5] Todoroki and two Myanmar co-workers appeared in court in Mandalay region's Myingyan district for the first time since their 23 April arrests and could face penalties of up to 10 years' imprisonment. [@5] The raided plantation was in Myotha Industrial Park, about 60 kilometres west of Mandalay in Ngunzun township, Myingyan district. [@6]
+On 7 May 2019 Todoroki was escorted by police for a court hearing in Ngazun Township, Mandalay region, on his arrest for operating a marijuana plantation. [@4] On 7 May 2019 a court allowed police to detain Todoroki and his two co-workers for two more weeks while they were investigated. [@5,10] Todoroki and two Myanmar co-workers appeared in court in Mandalay region's Myingyan district for the first time since their 23 April arrests and could face penalties of up to 10 years' imprisonment. [@5,10] The raided plantation was in Myotha Industrial Park, about 60 kilometres west of Mandalay in Ngunzun township, Myingyan district. [@6]
 
 Police reported finding nearly 350,000 marijuana plants, some up to two metres tall, along with 380 kilograms of seeds and 270 kilograms of marijuana at the eight-hectare site. [@7] Authorities were searching for another American, Alexander Skemp Todoroki, who was still at large. [@7] Myanmar police arrested an American and two Myanmar citizens after photos on Facebook tipped them off to a huge weed farm near Mandalay. [@7]
 
