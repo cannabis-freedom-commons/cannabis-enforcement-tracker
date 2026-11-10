@@ -94,6 +94,11 @@ sources:
     publisher: Liputan6.com
     date: 2026-11-10
     language: id
+  - title: Jaringan Narkotika Jember Terbongkar, Polisi Ungkap Temuan Sabu dan Ganja - merdeka.com
+    url: https://www.merdeka.com/peristiwa/read/8332007/jaringan-narkotika-jember-terbongkar-polisi-ungkap-temuan-sabu-dan-ganja
+    publisher: merdeka.com
+    date: 2026-11-10
+    language: id
 open_questions:
   - No second account of the 9 November 2026 press conference could be opened; the report rests on the SMN News article alone.
   - The 53 suspects cover all 44 cases; no cannabis-only arrest, charge or suspect count was published.
@@ -120,6 +125,8 @@ open_questions:
   - Liputan6 counts 40 narcotics cases with 49 suspects (46 men, three women, four repeat offenders), while the report headlines 44 cases and 53 suspects; the higher totals include four dangerous-drug cases and their suspects, as already noted in the report.
   - Liputan6 was published 10 November 2026 and quotes the police chief on Tuesday 10/11/2026, while the report dates the press conference to Monday 9 November 2026 on the strength of earlier-opened accounts.
   - Liputan6 gives no weight for the 26 living potted plants and does not say whether they were taken away or destroyed.
+  - Merdeka was published 10 November 2026 and quotes the police chief on Tuesday (10/11/2026), while the report dates the press conference to 9 November 2026 on the strength of earlier-opened accounts.
+  - Merdeka counts 40 cases with 49 suspects for the narcotics operation, while the report headlines 44 cases and 53 suspects including four dangerous-drug cases; the higher totals include the dangerous-drug cases.
 ---
 
 Police in Jember regency, East Java, said they uncovered 44 narcotics and
@@ -129,7 +136,7 @@ announced the results at a press conference at the police headquarters on Monday
 9 November 2026. [@1,3,5,6]
 
 The cannabis evidence in the haul was 23.26 grams of dried ganja and 26 cannabis
-plants, listed alongside methamphetamine and 25 ecstasy pills. [@1,2,5,6,7,8] A cannabis
+plants, listed alongside methamphetamine and 25 ecstasy pills. [@1,2,5,6,7,8,9] A cannabis
 case began with the arrest of CY in Jubung village, Sukorambi subdistrict,
 holding 8.72 grams of dried ganja, which led officers to MTA in Kebonsari,
 Sumbersari. [@1,5] The inquiry then extended to Situbondo regency, where police
@@ -150,4 +157,4 @@ Police said JW admitted growing the cannabis for his own use as a user but also 
 
 Officers also seized dried ganja and two ready-to-roll ganja cigarettes along with the 26 living potted plants when they moved against JW in Situbondo regency. [@5] Seblang.com counted the sweep as 40 narcotics cases and 49 suspects, 46 men and three women, four of them repeat offenders. [@5]
 
-Jember police chief Alaiddin called the two dozen potted cannabis plants one of the most notable pieces of evidence in the networks uncovered around Jember. [@7,8]
+Jember police chief Alaiddin called the two dozen potted cannabis plants one of the most notable pieces of evidence in the networks uncovered around Jember. [@7,8,9]
