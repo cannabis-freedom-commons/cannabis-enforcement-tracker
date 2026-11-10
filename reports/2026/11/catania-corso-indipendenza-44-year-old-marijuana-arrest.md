@@ -71,6 +71,11 @@ sources:
     publisher: La Sicilia
     date: 2026-11-09
     language: it
+  - title: 'Fermato in Corso Indipendenza con marijuana, cocaina e crack: arrestato 44enne catanese'
+    url: https://www.catanianews.it/fermato-in-corso-indipendenza-con-marijuana-cocaina-e-crack-arrestato-44enne-catanese/
+    publisher: Catania News
+    date: 2026-11-09
+    language: it
 open_questions:
   - The articles give no separate date for the stop and arrest; 8 November 2026 is inferred from the 9 November publication date.
   - No court outcome was reported beyond the arrest.
@@ -80,23 +85,24 @@ open_questions:
   - Free Press Online gives no separate date for the stop; 8 November 2026 is inferred from the 9 November publication date, as in the existing report.
   - The page carries the same police handout photo already linked in the report, so no new media entry is added.
   - La Sicilia, like the earlier coverage, gives no separate date for the stop; 9 November 2026 is its publication date.
+  - Catania News gives no separate date for the stop; 8 November 2026 is inferred from the 9 November publication date, as in the existing report.
 ---
 
 State police arrested a 44-year-old man from Catania on suspicion of possession
-of narcotics for sale. [@1,4,5] Officers of the Falchi, the Mobile Squad unit of
+of narcotics for sale. [@1,4,5,6] Officers of the Falchi, the Mobile Squad unit of
 Catania police headquarters that targets widespread crime, stopped him in corso
-Indipendenza during patrols of the city's neighbourhoods. [@1,4] According to the
+Indipendenza during patrols of the city's neighbourhoods. [@1,4,6] According to the
 police account, the man was waiting in the street for a customer to make a drug
 delivery. [@2,4] VRSicilia reported that officers spotted him in corso
 Indipendenza during checks of the area. [@3]
 
 Police said he looked around furtively and kept checking his mobile phone, and
-when asked for documents he handed over 4.1 grams of marijuana. [@1,4] When
+when asked for documents he handed over 4.1 grams of marijuana. [@1,4,6] When
 officers asked him to empty the pockets of his hoodie they found eight wraps of
-cocaine weighing 2.5 grams and six baggies of crack weighing 2.2 grams. [@1,4]
+cocaine weighing 2.5 grams and six baggies of crack weighing 2.2 grams. [@1,4,6]
 
 Database checks showed he had several police records and was already subject to
-an oral warning from Catania's police commissioner. [@1] He was arrested for
+an oral warning from Catania's police commissioner. [@1,6] He was arrested for
 possession of narcotics for sale, and the case is at the preliminary
 investigation stage, where the presumption of innocence applies. [@1]
 
