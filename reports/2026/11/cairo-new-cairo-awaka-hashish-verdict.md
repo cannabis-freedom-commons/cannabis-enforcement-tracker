@@ -75,6 +75,11 @@ sources:
     publisher: مصراوي (Masrawy)
     date: 2026-11-09
     language: ar
+  - title: تأجيل محاكمة التيك توكر «أوتاكا» في قضية تعاطي المخدرات
+    url: https://akhbarelyom.com/news/newdetails/4904680/1/%D8%AA%D8%A3%D8%AC%D9%8A%D9%84-%D9%85%D8%AD%D8%A7%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A%D9%83-%D8%AA%D9%88%D9%83%D8%B1-%D8%A3%D9%88%D8%AA%D8%A7%D9%83%D8%A7-%D9%81%D9%8A-%D9%82%D8%B6%D9%8A%D8%A9-%D8%AA
+    publisher: بوابة أخبار اليوم (Akhbar El-Yom)
+    date: 2026-11-09
+    language: ar
 open_questions:
   - No verdict has been given; the report covers the 9 November hearing and the scheduling of a 16 December verdict.
   - 'The hearing sequence is not fully clear: Youm7 still mentions 14 September as the date set for the arrest and search officers to attend, while Dostor reports that on 14 September the court adjourned the case to the third session of the October term.'
@@ -88,7 +93,7 @@ open_questions:
 
 A Cairo criminal court sitting in the Fifth Settlement heard the
 drug-trafficking trial of Mohamed Alaa, known as Ottaka, on 9 November and set
-16 December for its verdict. [@2] Ottaka is a TikToker and the ex-husband of
+16 December for its verdict. [@2,7] Ottaka is a TikToker and the ex-husband of
 blogger Hadeer Abdelrazek, and he is the only defendant in the case. [@1] Sada
 Elbalad carried the same decision, saying the court reserved the case for a
 verdict on 16 December. [@4,6] The court had adjourned the case to the third
@@ -97,7 +102,7 @@ session of the October term, which fell on 9 November, after an earlier hearing.
 carries a heavier penalty if he is convicted. [@2]
 
 According to the case file, the drugs were about 400 grams of hashish and
-roughly 12 grams of cocaine; he denies the charges. [@2] Al-Masry Al-Youm
+roughly 12 grams of cocaine; he denies the charges. [@2,7] Al-Masry Al-Youm
 reported the same amounts from the referral papers the day before the hearing.
 [@3] The Interior Ministry said officers arrested him at his home in the Shorouk
 police-station district of Cairo after complaints about videos it called
@@ -108,7 +113,7 @@ evidence, and added the day's registers of the Shorouk police station and the
 General Directorate of Information Technology to the file. [@2] Lawyer Hani
 Sameh, appearing for the defence, argued that the search procedures were invalid
 and that the charge was fabricated and the exhibits planted and unconnected to
-his client. [@1] The defence said the chain of possession of the exhibits was
+his client. [@1,7] The defence said the chain of possession of the exhibits was
 broken between the seizure, their presentation to the Public Prosecution and
 their delivery to the laboratory. [@1] The defence also argued that the chemical
 laboratory report alone could not show the tested substance was the material
