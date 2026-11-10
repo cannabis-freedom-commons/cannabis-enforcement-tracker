@@ -58,43 +58,46 @@ sources:
     url: https://www.runcornandwidnesworld.co.uk/news/26716533.three-men-jailed-runcorn-drug-supply-conspiracy-uncovered/
     publisher: Runcorn and Widnes World
     date: 2026-11-10
+  - title: Three men jailed after Runcorn drug supply conspiracy uncovered
+    url: https://www.warringtonguardian.co.uk/news/26716576.three-men-jailed-runcorn-drug-supply-conspiracy-uncovered/
+    publisher: Warrington Guardian
+    date: 2026-11-10
 open_questions:
-  - No weight or quantity was reported for the cannabis recovered from the blue bag or found during the flat search, only the police valuation of more than £8,000.
-  - The date of the vehicle stop near Junction 11 of the M56 was not specified in the report.
-  - The quantities and values of the Class A drugs and amphetamine seized were not disclosed, and are excluded from cannabis figures.
-  - The account rests on a single opened report quoting Cheshire Constabulary; no separate accessible police statement was found.
+    - No weight or quantity was reported for the cannabis recovered from the blue bag or found during the flat search, only the police valuation of more than £8,000.
+    - The date of the vehicle stop near Junction 11 of the M56 was not specified in the report.
+    - The quantities and values of the Class A drugs and amphetamine seized were not disclosed, and are excluded from cannabis figures.
+    - The account rests on local news reports quoting Cheshire Constabulary; no separate accessible police statement was found.
 ---
 
 Three men were sentenced at Chester Crown Court on 5 November 2026 after
 admitting their roles in a conspiracy to supply cannabis, cocaine and other
-drugs across Runcorn. [@1] The three defendants were handed prison sentences
+drugs across Runcorn. [@1,2] The three defendants were handed prison sentences
 totalling more than 11 years. [@1] Kieron Banks, 34, of Juniper Grove in
 Runcorn, was jailed for five years after pleading guilty to conspiracy to supply
 cannabis alongside two counts of conspiracy to supply Class A drugs involving
-cocaine and dimethyltryptamine. [@1] Karl Morgan, 38, of Navigation Close in
+cocaine and dimethyltryptamine. [@1,2] Karl Morgan, 38, of Navigation Close in
 Murdishaw, was sentenced to 40 months' imprisonment after admitting two counts
 of conspiracy to supply Class B drugs involving cannabis and amphetamine and two
-Class A supply counts. [@1] John Ungi, 36, of Downside in Widnes, was also
+Class A supply counts. [@1,2] John Ungi, 36, of Downside in Widnes, was also
 sentenced to 40 months' imprisonment after admitting two Class B conspiracy
 counts involving cannabis and amphetamine alongside three Class A supply counts.
-[@1]
+[@1,2]
 
 Cheshire Constabulary officers uncovered the conspiracy after executing a search
 warrant at an address on Norton Hill in Runcorn on 29 September 2026 following
-intelligence about drug dealing. [@1] Ungi was inside the flat when police
-arrived but jumped from a first-floor window and ran from the scene. [@1]
+intelligence about drug dealing. [@1,2] Ungi was inside the flat when police
+arrived but jumped from a first-floor window and ran from the scene. [@1,2]
 Officers arrested Ungi after a short pursuit and recovered cash and a mobile
-phone. [@1] A search of the Norton Hill property uncovered quantities of drugs,
-cash, scales, supplier lists and documents linked to Ungi and Morgan. [@1]
+phone. [@1,2] A search of the Norton Hill property uncovered quantities of drugs,
+cash, scales, supplier lists and documents linked to Ungi and Morgan. [@1,2]
 
 Following enquiries, officers stopped a vehicle connected to Morgan near
-Junction 11 of the M56 motorway. [@1] Morgan was driving the vehicle while Banks
-was travelling as a passenger. [@1] While officers conducted the traffic stop, a
-member of the public reported seeing Banks throw an item from the vehicle. [@1]
+Junction 11 of the M56 motorway. [@1,2] Morgan was driving the vehicle while Banks
+was travelling as a passenger. [@1,2] While officers conducted the traffic stop, a
+member of the public reported seeing Banks throw an item from the vehicle. [@1,2]
 Police later recovered a blue bag containing cannabis valued at more than
-£8,000. [@1] Messages found on multiple mobile phones seized from the three men
+£8,000. [@1,2] Messages found on multiple mobile phones seized from the three men
 showed they were working together to supply drugs, leading to their charges.
-[@1] PC Ethan Lines of the Runcorn Beat Team said the investigation showed the
+[@1,2] PC Ethan Lines of the Runcorn Beat Team said the investigation showed the
 trio worked together to supply drugs in the local area and that the evidence
-against them was overwhelming. [@1]
-
+against them was overwhelming. [@1,2]
