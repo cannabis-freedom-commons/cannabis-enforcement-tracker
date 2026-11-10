@@ -35,27 +35,31 @@ sources:
     publisher: Somoyer Konthosor
     date: 2026-11-10
     language: bn
+  - title: ১০ কেজি গাঁজাসহ দুই চিহ্নিত মাদক কারবারি গ্রেপ্তার
+    url: https://economicnews24.com/news/152553
+    publisher: Economic News24
+    date: 2026-11-10
+    language: bn
 open_questions:
-  - The midnight arrest described as the night of 9 November could fall in the early hours of 10 November; 9 November is used as the incident date.
-  - No court outcome beyond the two men being sent to jail through the court was reported.
-  - The account rests on a single opened outlet report attributing its information to the Bhairab police chief.
+    - The midnight arrest described as the night of 9 November could fall in the early hours of 10 November; 9 November is used as the incident date.
+    - No court outcome beyond the two men being sent to jail through the court was reported.
+    - Both Somoyer Konthosor and Economic News24 carry near-identical text attributing the account to the Bhairab police chief, rather than independent reporting.
 ---
 
 Bhairab Thana police arrested two identified drug dealers with 10 kg of ganja in
-Bhairab, Kishoreganj. [@1] The two men were arrested around midnight on 9
-November in the Kalipur area of Bhairab municipal town. [@1] The arrested men
+Bhairab, Kishoreganj. [@1,2] The two men were arrested around midnight on 9
+November in the Kalipur area of Bhairab municipal town. [@1,2] The arrested men
 are 28-year-old Shafiq Mia of Kalipur Uttarpara and 24-year-old Amir Hossain of
-Kalipur Dakshinpara. [@1] At noon on Tuesday, 10 November, they were sent to
+Kalipur Dakshinpara. [@1,2] At noon on Tuesday, 10 November, they were sent to
 jail through the court. [@1]
 
 Police conducted a special operation in the Kalipur area acting on a secret tip.
-[@1] Sub-Inspector Nurul Huda Bhuiya of the town police outpost led the team
-that detained Shafiq Mia and Amir Hossain in Kalipur around midnight. [@1]
-Officers searched the two men and recovered 10 kg of ganja. [@1] Bhairab Police
+[@1,2] Sub-Inspector Nurul Huda Bhuiya of the town police outpost led the team
+that detained Shafiq Mia and Amir Hossain in Kalipur around midnight. [@1,2]
+Officers searched the two men and recovered 10 kg of ganja. [@1,2] Bhairab Police
 Station officer-in-charge Mahbubur Rahman confirmed the arrests and seizure.
-[@1]
+[@1,2]
 
 Police said multiple drug cases against the two men are pending at police
-stations in Dhaka and Mymensingh and elsewhere in the country. [@1] Police said
-the men had long dealt drugs in different areas of the country. [@1]
-
+stations in Dhaka and Mymensingh and elsewhere in the country. [@1,2] Police said
+the men had long dealt drugs in different areas of the country. [@1,2]
