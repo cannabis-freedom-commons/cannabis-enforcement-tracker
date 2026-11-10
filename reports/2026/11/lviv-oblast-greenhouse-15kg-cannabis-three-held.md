@@ -90,6 +90,11 @@ sources:
     publisher: СтопКор (StopCor)
     date: 2026-11-10
     language: uk
+  - title: На Львівщині викрили наркогрупу, яка продавала канабіс на 4,5 млн грн
+    url: https://www.032.ua/news/4177953/na-lvivsini-vikrili-narkogrupu-aka-prodavala-kanabis-na-45-mln-grn
+    publisher: 032.ua
+    date: 2026-11-10
+    language: uk
 open_questions:
   - The reports give no date for the searches or the arrests; 10 November 2026 is the date of the police statement and its publication.
   - No count of cannabis plants in the greenhouse was published, so no plant figure is given.
@@ -104,11 +109,11 @@ open_questions:
 
 Police detained three people accused of growing cannabis in a greenhouse on the
 grounds of a private home in Lviv Oblast, processing it and selling it to
-drug-dependent people in Lviv and the surrounding region. [@1]
+drug-dependent people in Lviv and the surrounding region. [@1,4]
 
 One of the three was a Ukrainian armed forces serviceman who, according to
 police, had forged a medical history to be discharged on health grounds while
-dealing drugs. [@1,2] Officers of the National Police's Department of Internal
+dealing drugs. [@1,2,4] Officers of the National Police's Department of Internal
 Security found the group while investigating a scheme of forged medical
 documents used to release servicemen from duty, and the detectives work with
 Lviv region police investigators. [@2]
@@ -116,8 +121,8 @@ Lviv region police investigators. [@2]
 The three were detained during another hand-over, with special police unit
 officers assisting, the police said. [@1,2] Searches at the suspects' homes, using
 handlers and sniffer dogs, turned up about 15 kilograms of cannabis, cash and
-other evidence. [@1] Police estimated the black-market value of the drugs at
-about 4.5 million hryvnia. [@1]
+other evidence. [@1,4] Police estimated the black-market value of the drugs at
+about 4.5 million hryvnia. [@1,4]
 
 The plants were dried, ground and packed on the same property into "shaiby" —
 slang for packages each holding about 20 grams of ready-to-use cannabis — which
@@ -125,6 +130,6 @@ normally sold for 6,000 hryvnia each, police said. [@1,2]
 
 Investigators told all three they were suspected under Article 307, part 2 or
 part 3, of the Criminal Code, on illegal production, storage, transport and sale
-of drugs. [@1] Those parts of the article carry up to 10 or up to 12 years in
+of drugs. [@1,4] Those parts of the article carry up to 10 or up to 12 years in
 prison respectively, and the regional defence prosecutor's office is supervising
 the case. [@2] The pre-trial investigation is continuing, the police said. [@3]
