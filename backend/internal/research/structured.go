@@ -336,7 +336,7 @@ func (r *Result) confirmData(opened []*supportCheck) []string {
 			}
 			r.dropField(field)
 			left = append(left, field)
-			r.Uncertainties = append(r.Uncertainties, fmt.Sprintf("Left out %s, as %s.", fieldLabel(field), why))
+			r.Uncertainties = note(r.Uncertainties, fmt.Sprintf("Left out %s, as %s.", fieldLabel(field), why))
 		}
 	}
 	if len(r.DataSources) == 0 {
@@ -431,7 +431,7 @@ func (r *Result) renumberData(renumber map[int]int) []string {
 		}
 		r.dropField(field)
 		left = append(left, field)
-		r.Uncertainties = append(r.Uncertainties, fmt.Sprintf("Left out %s, as its only supporting source is not cited by the report's text.", fieldLabel(field)))
+		r.Uncertainties = note(r.Uncertainties, fmt.Sprintf("Left out %s, as its only supporting source is not cited by the report's text.", fieldLabel(field)))
 	}
 	if len(r.DataSources) == 0 {
 		r.DataSources = nil
