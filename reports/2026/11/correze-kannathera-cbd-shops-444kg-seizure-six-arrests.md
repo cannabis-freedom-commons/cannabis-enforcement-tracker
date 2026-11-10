@@ -64,27 +64,25 @@ sources:
     publisher: ICI (Radio France)
     date: 2026-04-10
     language: fr
-open_questions:
-  - The 444.1 kg figure is the sum of the resin and herb weights published by the prosecutor's office; no single total was given.
-  - French prosecutors use 'herbe de cannabis', which may include low-THC CBD flower; the reports do not break down the 253.9 kg by THC content.
-  - No street value of the cannabis was reported.
-  - The town of the Saône-et-Loire supplier site is not named.
-  - No outcome of the delayed appearances or the later court dates is known.
-  - The accusations have not been tested in court and no one has been convicted.
+  - title: Six interpellations en Corrèze et en Saône-et-Loire après la commercialisation de CBD avec un taux de THC trop important
+    url: https://www.ici.fr/nouvelle-aquitaine/correze-19/six-interpellations-en-correze-et-en-saone-et-loire-apres-la-commercialisation-de-cbd-avec-un-taux-de-thc-trop-important-2756555
+    publisher: ICI (Radio France)
+    date: 2026-11-10
+    language: fr
 ---
 
 A judicial operation was launched on 3 November 2026, run simultaneously in
 Corrèze and Saône-et-Loire, the Brive prosecutor's office said. [@1] Six people
-were detained during the operation. [@1] The searches led to the seizure of
+were detained during the operation. [@1,4] The searches led to the seizure of
 190.2 kg of cannabis resin and 253.9 kg of cannabis herb. [@1] Part of the resin
 had been altered by adding THC X, a synthetic molecule presented as up to a
-thousand times more powerful than natural THC. [@1] Officers also seized 143,339
+thousand times more powerful than natural THC. [@1,4] Officers also seized 143,339
 euros in cash and froze 297,006 euros in bank accounts as criminal assets, along
 with a Jaguar estimated at 26,000 euros, four mobile phones and a laptop. [@1]
 Four suspects were placed under judicial supervision pending trial under the
 delayed immediate-appearance procedure; two others were summoned to the criminal
 court by a police officer, and the companies involved also face prosecution.
-[@1]
+[@1] Under their judicial supervision, the four suspects were barred from managing businesses, appearing in several locations, and contacting other individuals involved. [@4]
 
 The Brive police station ran the investigation with the GIR 87 interministerial
 research group, the departmental public finance directorate and the departmental
@@ -93,13 +91,12 @@ directorate for employment, labour and population protection. [@1]
 The case began in October 2025 in Brive-la-Gaillarde, when the prosecutor's
 office was alerted after a minor was checked in possession of a product bought
 from a vending machine with no age restriction and found to contain THC above
-the legal limit. [@1] Police recorded on 8 October 2025 that products presented
+the legal limit. [@1,4] Police recorded on 8 October 2025 that products presented
 as CBD had been sold to a minor, and analyses found THC above the permitted
 threshold. [@3] The prefect of Corrèze closed two Kannathera CBD shops, in Brive
 and Tulle, for one month from 10 April 2026. [@2] The Brive prosecutor had
 opened an inquiry for drug trafficking and sales to minors. [@2] Searches in
 March 2026 and initial analyses found that much of the merchandise sold had THC
-levels above the legal standard. [@1] Investigators traced the main suppliers to
+levels above the legal standard. [@1,4] Investigators traced the main suppliers to
 Saône-et-Loire, where they handled the processing, production and packaging of
-the products at issue. [@1]
-
+the products at issue. [@1,4]
