@@ -35,21 +35,27 @@ sources:
     publisher: Tâmega TV
     date: 2026-11-09
     language: pt
+  - title: GNR detém homem de 46 anos por tráfico de droga em Amarante e apreende 58 doses de estupefacientes
+    url: https://sapo.pt/artigo/gnr-detem-homem-de-46-anos-por-trafico-de-droga-em-amarante-e-apreende-58-doses-de-estupefacientes-6af271013ce18b2e98f71ec4
+    publisher: SAPO / Diário Criminal
+    date: 2026-11-10
+    language: pt
 open_questions:
   - No weight in grams or street value was published for the 30 doses of hashish; the amount is given only in doses.
   - No arrests beyond the one detained man, and no charge sheet, coercive measure or court outcome were reported; the case had only been sent to the court.
   - The exact place of the stop inside the municipality of Amarante, and the man's name, were not published.
   - The heroin and the methadone kits are part of the same seizure but are not cannabis and are excluded from the figures.
   - Only three accounts of the same regional GNR statement were found, and no copy of the GNR's own published statement for this arrest could be opened.
+  - The Diário Criminal account still gives no weight in grams or street value for the 30 doses of hashish, and it does not name the exact place of the stop inside Amarante.
 ---
 
 GNR officers from the Marco de Canaveses territorial post detained a 46-year-old
 man on suspicion of drug trafficking in the municipality of Amarante on 7
-November 2026. [@1] During the police operation the officers found drugs inside
+November 2026. [@1,4] During the police operation the officers found drugs inside
 the vehicle the suspect was travelling in. [@1]
 
 They seized 30 doses of hashish, 28 doses of heroin and several kits containing
-methadone, saline and syringes. [@1] The man was detained and made an official
+methadone, saline and syringes. [@1,4] The man was detained and made an official
 suspect, and the facts were reported to the Judicial Court of Marco de
 Canaveses. [@1]
 
@@ -60,3 +66,4 @@ hashish, the heroin and the methadone, saline and syringe kits in his vehicle.
 [@3] The same outlet reported that the man was made an official suspect and the
 case sent to the Judicial Court of Marco de Canaveses. [@3]
 
+The Porto territorial command did not say what became of the seized substances or whether the suspect had already been under investigation. [@4]
