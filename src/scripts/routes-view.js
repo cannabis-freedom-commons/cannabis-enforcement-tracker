@@ -11,7 +11,7 @@
 //   every line;
 // - dragging the years redraws at most once a frame.
 // What is chosen stays in the address (?view=routes&years=2020-2026&route=th-in…).
-import { corridors, placeTotals, arc, along, MODES, PRODUCTS } from "../lib/routes.js";
+import { corridors, placeTotals, arc, greatArc, nearSide, along, MODES, PRODUCTS } from "../lib/routes.js";
 import { formatWeight } from "../lib/figures.js";
 import { versioned } from "./build-id.js";
 
@@ -29,7 +29,9 @@ function start() {
   const $ = (s) => bar.querySelector(s) ?? timeline.querySelector(s) ?? pane.querySelector(s);
   const cols = [...timeline.querySelectorAll(".rt-col")];
   const fromInput = $('[data-year="from"]'), toInput = $('[data-year="to"]');
-  const metricSel = $("[data-metric]"), productSel = $("[data-product]"), modeSel = $("[data-mode]");
+  // the site's dropdowns (Select.astro): each keeps its value in a hidden input that fires "change"
+  const metricSel = document.getElementById("rv-metric"), productSel = document.getElementById("rv-product"), modeSel = document.getElementById("rv-mode");
+  const activeRow = document.getElementById("routes-active");
   const panel = $("[data-panel]"), span = $("[data-span]"), playBtn = $("[data-play]");
   const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
   const theme = () => (doc.dataset.theme === "light" ? "light" : "dark");
@@ -50,7 +52,9 @@ function start() {
   const colorOf = Object.fromEntries(products.map(([id, , c]) => [id, c]));
   let data = null;
   let shown = [], lines = [], domestic = [], byKey = new Map(), totals = {};
+  // the lines: gentle curves on the flat map (the two directions apart), great circles on the globe
   const geometry = new Map();
+  const globe = () => map?.getProjection?.()?.type === "globe";
   const place = (id) => `<span class="fl">${data.nodes[id]?.fl ?? ""}</span>${esc(data.nodes[id]?.n ?? id)}`;
 
   function readAddress() {
@@ -83,7 +87,7 @@ function start() {
     ({ lines, domestic } = corridors(shown, data.nodes));
     byKey = new Map(lines.map((c) => [c.key, c]));
     totals = placeTotals(lines);
-    for (const c of lines) if (!geometry.has(c.key)) geometry.set(c.key, arc(data.nodes[c.from].ll, data.nodes[c.to].ll));
+    for (const c of lines) if (!geometry.has(c.key)) geometry.set(c.key, (globe() ? greatArc : arc)(data.nodes[c.from].ll, data.nodes[c.to].ll));
   }
   const value = (c) => (state.metric === "kg" ? c.kg : c.reports);
   const picked = () => {
@@ -204,12 +208,15 @@ function start() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     if (!active) return;
     const only = picked(), w = canvas.width / dpr, h = canvas.height / dpr;
+    const onGlobe = globe(), c = map.getCenter(), centre = [c.lng, c.lat];
     const r = Math.max(2, Math.min(4.2, 1.6 + map.getZoom() * 0.55));
     const groups = new Map();
     for (const p of particles) {
       if (only && !only.has(p.key)) continue;
       const t = reduced ? 0.5 + p.offset / 4 : ((now / 1000) * 9 / p.len + p.offset) % 1;
-      const pt = map.project(along(p.line, t));
+      const at = along(p.line, t);
+      if (onGlobe && !nearSide(at, centre)) continue;
+      const pt = map.project(at);
       if (pt.x < -5 || pt.y < -5 || pt.x > w + 5 || pt.y > h + 5) continue;
       let g = groups.get(p.color);
       if (!g) groups.set(p.color, (g = []));
@@ -250,6 +257,42 @@ function start() {
   };
   const counted = (obj, labels) => Object.entries(obj).filter(([k]) => labels.some(([id]) => id === k)).sort((a, b) => b[1] - a[1])
     .map(([k, n]) => `<li><span>${esc(labels.find(([id]) => id === k)[1])}</span><b>${fmt(n)}</b></li>`).join("");
+
+  // the row under the filters: how many reports, a chip for each choice (× removes it), Clear all
+  function renderChips() {
+    const chips = [];
+    if (state.from !== first || state.to !== last) chips.push(["years", state.from === state.to ? String(state.from) : `${state.from}–${state.to}`]);
+    if (state.product) chips.push(["product", products.find(([id]) => id === state.product)?.[1] ?? state.product, colorOf[state.product]]);
+    if (state.mode) chips.push(["mode", modes.find(([id]) => id === state.mode)?.[1] ?? state.mode]);
+    if (state.metric === "kg") chips.push(["metric", "Width by kilograms"]);
+    if (state.pick?.line) { const [a, b] = state.pick.line.split(">"); chips.push(["pick", `${data.nodes[a]?.n ?? a} → ${data.nodes[b]?.n ?? b}`]); }
+    if (state.pick?.place) chips.push(["pick", data.nodes[state.pick.place]?.n ?? state.pick.place]);
+    activeRow.hidden = chips.length === 0;
+    activeRow.querySelector("[data-count]").textContent = `${plural(shown.length, "report")} · ${plural(lines.length, "route")}`;
+    activeRow.querySelector("[data-chips]").replaceChildren(...chips.map(([key, label, color]) => {
+      const b = document.createElement("button");
+      b.type = "button"; b.className = "active-chip"; b.dataset.clear = key;
+      b.setAttribute("aria-label", `Remove the filter ${label}`);
+      if (color) { const dot = document.createElement("i"); dot.style.background = color; b.append(dot); }
+      const text = document.createElement("span"); text.textContent = label;
+      const x = document.createElement("b"); x.setAttribute("aria-hidden", "true"); x.textContent = "×";
+      b.append(text, x);
+      return b;
+    }));
+    activeRow.querySelector("[data-clear-all]").hidden = chips.length < 2;
+  }
+  function clearChoice(key) {
+    if (key === "years" || key === "all") { stop(); state.from = first; state.to = last; fromInput.value = first; toInput.value = last; }
+    if (key === "product" || key === "all") { state.product = ""; productSel.value = ""; }
+    if (key === "mode" || key === "all") { state.mode = ""; modeSel.value = ""; }
+    if (key === "metric" || key === "all") { state.metric = "reports"; metricSel.value = "reports"; }
+    if (key === "pick" || key === "all") { state.pick = null; tip?.remove(); }
+    refresh();
+  }
+  activeRow.addEventListener("click", (e) => {
+    const t = e.target.closest("[data-clear],[data-clear-all]");
+    if (t) clearChoice(t.dataset.clear ?? "all");
+  });
 
   function renderTiles() {
     const set = (k, v) => { pane.querySelector(`[data-t="${k}"]`).textContent = v; };
@@ -337,7 +380,7 @@ function start() {
         lastBright = "";
         paintPick();
       }
-      renderTiles(); renderPanel(); remember();
+      renderTiles(); renderPanel(); renderChips(); remember();
       if (reduced) draw(0);
       if (refit) { refit = false; frame(); }
     });
@@ -351,7 +394,7 @@ function start() {
   }
   const choose = (pick) => {
     state.pick = pick; state.hover = null; tip?.remove();
-    renderPanel(); pane.parentElement.scrollTop = 0;
+    renderPanel(); renderChips(); pane.parentElement.scrollTop = 0;
     paintPick(); remember(); frame();
     if (reduced) draw(0);
   };
@@ -433,6 +476,8 @@ function start() {
       else if (state.pick) choose(null);
     });
     map.on("resize", () => { sizeCanvas(); if (reduced) draw(0); });
+    // the flat map and the globe draw the lines differently: curves on one, great circles on the other
+    map.on("projectiontransition", () => { geometry.clear(); if (data) refresh(); });
     if (reduced) map.on("move", () => draw(0));
   }
 

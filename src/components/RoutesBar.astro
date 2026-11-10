@@ -6,6 +6,7 @@
 // and the key. src/scripts/routes-view.js runs them.
 import { MODES, PRODUCTS } from "../lib/routes.js";
 import { routeYears } from "../lib/routes-years.js";
+import Select from "./Select.astro";
 const { first, last, perYear } = routeYears();
 // a square-root scale, so the early years with a handful of routes still show next to the latest
 const top = Math.sqrt(Math.max(1, ...perYear.map((y) => y.total)));
@@ -13,15 +14,17 @@ const n = perYear.length;
 const every = n > 20 ? 5 : n > 10 ? 2 : 1;
 ---
 <div class="routes-bar" id="routes-bar" role="search" aria-label="Filter routes">
-  <label>Line width
-    <select data-metric><option value="reports">Reports</option><option value="kg">Kilograms</option></select>
-  </label>
-  <label>Cannabis
-    <select data-product><option value="">All</option>{PRODUCTS.filter(([id]) => id).map(([id, label]) => <option value={id}>{label}</option>)}</select>
-  </label>
-  <label>Travelled
-    <select data-mode><option value="">Any way</option>{MODES.map(([id, label]) => <option value={id}>{label}</option>)}</select>
-  </label>
+  <div class="routes-fields">
+    <Select id="rv-metric" label="Line width" value="reports" options={[{ value: "reports", label: "Width by reports" }, { value: "kg", label: "Width by kilograms" }]} />
+    <Select id="rv-product" label="Cannabis" all="All cannabis" options={PRODUCTS.filter(([id]) => id).map(([value, label]) => ({ value, label }))} />
+    <Select id="rv-mode" label="How it travelled" all="Any way" options={MODES.map(([value, label]) => ({ value, label }))} />
+  </div>
+  {/* what the map is narrowed to, each choice with its own ×, like the reports' filters */}
+  <div class="map-active routes-active" id="routes-active" role="status" hidden>
+    <span class="map-active-count" data-count></span>
+    <span class="map-active-chips" data-chips></span>
+    <button class="routes-clear" type="button" data-clear-all hidden>Clear all</button>
+  </div>
 </div>
 
 <div class="routes-timeline" id="routes-timeline" style={`--n:${n}`}>

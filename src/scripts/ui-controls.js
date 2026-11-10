@@ -13,10 +13,12 @@ function bind(root, kind) {
   const input = root.querySelector("input[data-ui-value]");
   if (!input || input.dataset.uiBound) return;
   input.dataset.uiBound = "";
+  // whether there is an "all" option, read now: once opened, the list may be moved out of `root`
+  const hasAll = root.querySelector(`[data-value="${ALL}"]`) != null;
   let quiet = false;
   const setSelection = (v) => {
     quiet = true;
-    root.dispatchEvent(new CustomEvent(`${kind}:set`, { detail: { value: v === "" ? (root.querySelector(`[data-value="${ALL}"]`) ? ALL : null) : v } }));
+    root.dispatchEvent(new CustomEvent(`${kind}:set`, { detail: { value: v === "" ? (hasAll ? ALL : null) : v } }));
     quiet = false;
   };
   const onValueChange = (v) => {
@@ -27,7 +29,11 @@ function bind(root, kind) {
     input.dispatchEvent(new Event("change", { bubbles: true }));
   };
   const initial = valueOf.get.call(input);
-  const options = { onValueChange, defaultValue: initial || (root.querySelector(`[data-value="${ALL}"]`) ? ALL : undefined) };
+  const options = { onValueChange, defaultValue: initial || (hasAll ? ALL : undefined) };
+  // Opening a list normally locks the page's scrolling, which reserves room for a scrollbar
+  // (scrollbar-gutter: stable). The full-window map pages have no scrollbar, so that room would
+  // narrow the map and make it redraw (a flicker); there is nothing to scroll there anyway.
+  if (root.closest(".app")) options.lockScroll = false;
   if (kind === "combobox") {
     // match the start of any word, ignoring case and accents: "turk" finds Türkiye, "states" the US
     const fold = (s) => s.normalize("NFD").replace(/\p{M}/gu, "").toLowerCase();

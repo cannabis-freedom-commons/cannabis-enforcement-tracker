@@ -27,12 +27,15 @@
 /* the moving dots, on their own canvas over the map */
 .routes-dots { position: absolute; left: 0; top: 0; pointer-events: none; }
 
-/* the filters over the map, where the reports' are */
-.routes-bar { position: absolute; z-index: 4; top: 58px; left: 50%; transform: translateX(-50%); max-width: calc(100% - 120px); background: var(--surface); border: 1px solid var(--border); border-radius: var(--r); box-shadow: var(--shadow); font: 13px Inter, system-ui, sans-serif; }
-.routes-bar label { display: grid; gap: 1px; padding: 4px 10px 5px; min-width: 0; border-left: 1px solid var(--border); font: 9.5px var(--mono); text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
-.routes-bar label:first-child { border-left: 0; }
-.routes-bar select { width: 100%; min-width: 110px; padding: 0; border: 0; background: transparent; color: var(--text); font: 13px Inter, system-ui, sans-serif; text-transform: none; letter-spacing: 0; cursor: pointer; }
-.routes-bar select:focus-visible { outline: 2px solid var(--text); outline-offset: 2px; }
+/* the filters over the map, where the reports' are, in the same dropdowns, with the same row of
+   chips under them */
+.routes-bar { position: absolute; z-index: 4; top: 58px; left: 50%; transform: translateX(-50%); flex-direction: column; align-items: center; gap: 6px; width: max-content; max-width: calc(100% - 120px); font: 13px Inter, system-ui, sans-serif; }
+.routes-fields { display: flex; flex-wrap: nowrap; justify-content: center; gap: 8px; }
+.routes-fields .ui-select { flex: none; width: 180px; }
+.routes-fields .ui-trigger { box-shadow: var(--shadow); }
+.routes-clear { flex: none; padding: 3px 6px; background: none; border: 0; color: var(--text-2); font: 11.5px var(--mono); text-decoration: underline; text-underline-offset: 3px; white-space: nowrap; cursor: pointer; }
+.routes-clear:hover { color: var(--text); }
+.routes-clear[hidden] { display: none; }
 
 /* the routes' timeline at the bottom of the map, in place of the reports' */
 .routes-timeline { --from: 0; --to: 1; position: absolute; z-index: 3; left: 10px; right: 10px; bottom: 30px; max-width: 940px; margin: 0 auto; padding: 8px 12px 8px; background: color-mix(in srgb, var(--surface) 90%, transparent); -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px); border: 1px solid var(--border); border-radius: var(--r); box-shadow: var(--shadow); font: 12px Inter, system-ui, sans-serif; }
@@ -68,10 +71,10 @@
 :root[data-theme="light"] .key-node.receive { background: #2f65a3; }
 .key-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--c); }
 @media (max-width: 860px) {
-  .routes-bar { display: none; left: 10px; right: 52px; transform: none; max-width: none; }
-  :root[data-home-view="routes"] .routes-bar { display: flex; }
-  .routes-bar label { flex: 1; }
-  .routes-bar select { min-width: 0; }
+  .routes-bar { left: 10px; right: 52px; transform: none; width: auto; max-width: none; align-items: stretch; }
+  .routes-fields { flex-wrap: wrap; justify-content: flex-start; }
+  .routes-fields .ui-select { flex: 1 1 140px; width: auto; min-width: 0; }
+  .routes-active { justify-content: flex-start; }
   .routes-timeline { left: 8px; right: 8px; bottom: 26px; padding: 6px 8px; }
   .rt-key { display: none; }
   .rt-cols { height: 34px; }
