@@ -81,6 +81,11 @@ sources:
     publisher: TL7, Télévision loire 7
     date: 2026-11-09
     language: fr
+  - title: De l'Espagne à Perpignan jusqu'à la Loire, une énorme quantité de drogue découverte par les gendarmes
+    url: https://actu.fr/auvergne-rhone-alpes/saint-chamond_42207/de-l-espagne-a-perpignan-jusqu-a-la-loire-une-enorme-quantite-de-drogue-decouverte-par-les-gendarmes_65037276.html
+    publisher: actu.fr (Actu Saint-Étienne)
+    date: 2026-11-10
+    language: fr
 ---
 
 Three men aged between 28 and 45 were arrested in Saint-Chamond, in the Loire
@@ -90,7 +95,7 @@ Gendarmes of the Lyon research section had opened a preliminary investigation at
 the end of August 2026 into an organisation suspected of importing cannabis
 resin. [@2,4,5] The convoy's two cars had loaded 425 kg of cannabis resin in
 Perpignan, after the drug had come from Spain, and were heading for the
-Saint-Étienne and Lyon markets. [@3,4]
+Saint-Étienne and Lyon markets. [@3,4,8]
 
 Searches found 425 kg of cannabis resin and cash, whose amount was not stated.
 [@2,4,6] The three suspects, from Saint-Chamond, Annonay in Ardèche and Vénissieux
