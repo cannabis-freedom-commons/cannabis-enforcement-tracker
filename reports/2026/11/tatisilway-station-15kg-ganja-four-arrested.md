@@ -68,6 +68,11 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-11-09
     language: hi
+  - title: ओडिशा के बलांगीर से बिहार के चंपारण पहुंचानी थी गांजे की खेप, टाटीसिल्वे स्टेशन से 4 तस्कर गिरफ्तार
+    url: https://www.bhaskar.com/local/jharkhand/ranchi/news/a-consignment-of-ganja-was-to-be-transported-from-balangir-in-odisha-to-champaran-in-bihar-four-smugglers-arrested-at-tatisilve-station-dbp-139641006.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-10
+    language: hi
 open_questions:
   - Three accused are named only as Jitendra, Sunny and Verma, with no ages or full names given.
   - No court outcome beyond registration of the NDPS case and continuing investigation was reported.
@@ -82,10 +87,11 @@ open_questions:
   - This article reports only the Tatisilway arrest, not the separate Garhwa truck seizure counted in the same Jharkhand roundup.
   - Prabhat Khabar names the four accused but gives no ages, and its three Kushinagar residents are listed only as Jitendra, Sunny and Verma.
   - The page gives no date apart from Saturday night, so it confirms rather than supersedes the incident date already used in the report.
+  - Only the headline of the Dainik Bhaskar article was available in the opened page text; the body sits behind the outlet's app-download wall, and the 15 kg, value and train details read there are already in the existing report.
 ---
 
 RPF personnel arrested four alleged smugglers with 15 kg of ganja at Tatisilway
-railway station. [@1,3,5] Police put the estimated value of the seized ganja at
+railway station. [@1,3,5,6] Police put the estimated value of the seized ganja at
 about 7.50 lakh rupees. [@1,3,5] A joint team of the Ranchi division RPF flying team
 and RPF Post Ranchi carried out the operation under Operation NARCOS. [@1,3]
 
@@ -100,7 +106,7 @@ fourth as Vishal Yadav, a resident of West Champaran in Bihar. [@1]
 
 In preliminary questioning the accused said Vishal Yadav had ordered the ganja
 from Balangir in Odisha and planned to move it through Jitendra, Sunny and Verma
-via Patna to the Champaran area of Bihar. [@1,3,5] Police are gathering information
+via Patna to the Champaran area of Bihar. [@1,3,5,6] Police are gathering information
 on the full smuggling network and others involved in it. [@1] The operation took
 place under the direction and supervision of Assistant Security Commissioner,
 RPF Ranchi, Pratap Singh Negi, and was led by RPF flying-team Sub-Inspector Ravi
