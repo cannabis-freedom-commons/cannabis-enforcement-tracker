@@ -64,17 +64,21 @@ sources:
     publisher: Vocal TV
     date: 2026-11-10
     language: hi
+  - title: Tanda Police Seize Ganja From Cotton Farm | Dhar Farmer Arrested
+    url: https://www.bhaskar.com/local/mp/dhar/kukshi/news/tanda-dhar-police-seize-ganja-farm-arrest-farmer-139646587.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-10
+    language: hi
 open_questions:
-  - The article gives no separate date for the raid; 10 November 2026 is its publication date and the day the station in-charge reported it, and is used as the incident date.
-  - No field area was reported.
-  - It is unclear whether the 363.188 kg is the weight of the green plants or of partly dried material.
-  - No court outcome beyond registration of the NDPS Act case was reported.
-  - Only one opened source was found for this raid; searches in Hindi and English found no second account.
-  - The two photographs carry no caption or credit beyond the story headline, so it is not established what they show.
+    - The article gives no separate date for the raid; 10 November 2026 is its publication date and the day the station in-charge reported it, and is used as the incident date.
+    - No field area was reported.
+    - It is unclear whether the 363.188 kg is the weight of the green plants or of partly dried material.
+    - No court outcome beyond registration of the NDPS Act case was reported.
+    - The two photographs carry no caption or credit beyond the story headline, so it is not established what they show.
 ---
 
 Tanda police in Dhar district, Madhya Pradesh, searched a cotton field at Pura
-village and found 383 green ganja plants growing illegally. [@1] Police formally
+village and found 383 green ganja plants growing illegally. [@1,2] Police formally
 seized all the plants. [@1] The seized plants weighed 363.188 kg and were put at
 an estimated market value of about 67 lakh 13 thousand rupees. [@1] Police
 arrested one suspect and registered a case under the NDPS Act, India's narcotics
@@ -91,4 +95,3 @@ registered against him under section 8/20 of the NDPS Act and taken up for
 investigation. [@1] Police said they were questioning the accused about the
 purpose of the cultivation, where the seeds came from, the supply of the drug
 and other people involved in the trade. [@1]
-
