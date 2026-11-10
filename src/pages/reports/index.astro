@@ -1,6 +1,7 @@
 ---
 // All reports as a list: search and filter by type, tag, country, period and figures, newest first.
 import Base from "../../layouts/Base.astro";
+import Icon from "../../components/Icon.astro";
 import ReportBrowser from "../../components/ReportBrowser.astro";
 import { reports, countriesWithReports, years } from "../../lib/reports.js";
 const fmt = (n) => n.toLocaleString("en-GB");
@@ -10,7 +11,7 @@ const base = import.meta.env.BASE_URL;
   <div class="reports-heading">
     <h1>Reports</h1>
     <a class="rss-button" href={`${base}feed.xml`} type="application/rss+xml" aria-label="Subscribe to reports via RSS">
-      <svg viewBox="0 0 20 20" width="16" height="16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><circle cx="4" cy="16" r="1.2" fill="currentColor" stroke="none"/><path d="M3 9a8 8 0 0 1 8 8M3 3a14 14 0 0 1 14 14"/></svg>
+      <Icon name="rss-feed" />
       RSS
     </a>
   </div>

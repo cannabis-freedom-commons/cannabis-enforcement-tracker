@@ -9,7 +9,7 @@
    routes). Everything else of the other view is hidden. */
 .view-switch { order: -2; flex: none; display: flex; gap: 2px; padding: 2px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--r); box-shadow: var(--shadow); }
 .view-switch button { display: inline-flex; align-items: center; gap: 6px; padding: 0 10px; min-height: 30px; border: 0; border-radius: 2px; background: transparent; color: var(--text-2); font: 500 12.5px Inter, system-ui, sans-serif; cursor: pointer; white-space: nowrap; }
-.view-switch svg { width: 13px; height: 13px; flex: none; fill: currentColor; stroke: currentColor; opacity: .7; }
+.view-switch svg { width: 15px; height: 15px; flex: none; opacity: .75; }
 .view-switch button:hover { color: var(--text); background: var(--surface-2); }
 .view-switch button[aria-pressed="true"] { background: var(--surface-2); color: var(--text); box-shadow: inset 0 -2px 0 var(--text); }
 .view-switch button[aria-pressed="true"] svg { opacity: 1; }
@@ -41,40 +41,39 @@
 .routes-dots { position: absolute; left: 0; top: 0; pointer-events: none; }
 
 /* the routes' dropdowns, in the bar's row */
+/* icon switches: what the line width measures, and how the cannabis travelled */
 .routes-fields { flex: none; flex-wrap: nowrap; gap: 8px; }
-.routes-fields .ui-select { flex: none; width: 165px; }
-.routes-fields .ui-trigger { box-shadow: var(--shadow); }
+.icon-switch { display: flex; padding: 2px; gap: 2px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--r); box-shadow: var(--shadow); }
+.icon-switch button { display: grid; place-items: center; width: 32px; min-height: 30px; padding: 0; border: 0; border-radius: 2px; background: none; color: var(--text-2); cursor: pointer; }
+.icon-switch button svg { width: 17px; height: 17px; }
+.icon-switch button:hover { color: var(--text); background: var(--surface-2); }
+.icon-switch button[aria-pressed="true"] { color: var(--amber); background: var(--surface-2); box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--amber) 45%, transparent); }
+.icon-switch button:focus-visible { outline: 2px solid var(--text); outline-offset: -2px; }
 .routes-clear { flex: none; padding: 3px 6px; background: none; border: 0; color: var(--text-2); font: 11.5px var(--mono); text-decoration: underline; text-underline-offset: 3px; white-space: nowrap; cursor: pointer; }
 .routes-clear:hover { color: var(--text); }
 .routes-clear[hidden] { display: none; }
 
 /* the routes' timeline at the bottom of the map, in place of the reports' */
 .routes-timeline { --from: 0; --to: 1; position: absolute; z-index: 3; left: 10px; right: 10px; bottom: 30px; max-width: 940px; margin: 0 auto; padding: 8px 12px 8px; background: color-mix(in srgb, var(--surface) 90%, transparent); -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px); border: 1px solid var(--border); border-radius: var(--r); box-shadow: var(--shadow); font: 12px Inter, system-ui, sans-serif; }
-.rt-head { display: flex; align-items: center; gap: 10px; }
-.routes-play { flex: none; width: 28px; height: 28px; border-radius: 50%; border: 1px solid var(--border); background: var(--surface-2); color: var(--text); font-size: 10px; cursor: pointer; display: grid; place-items: center; }
-.routes-play:hover, .routes-play.on { border-color: var(--amber); color: var(--amber); }
-.routes-span { flex: none; min-width: 74px; font: 13px var(--mono); color: var(--text); }
-.rt-key { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 2px 12px; margin-left: auto; color: var(--text-2); font: 10.5px var(--mono); text-transform: uppercase; letter-spacing: .05em; }
-.rt-key span { display: inline-flex; align-items: center; gap: 5px; white-space: nowrap; }
-.rt-chart { position: relative; margin-top: 6px; }
-.rt-cols { display: grid; grid-template-columns: repeat(var(--n), 1fr); align-items: end; gap: 2px; height: 46px; }
+/* like the reports' timeline (global.css .map-timeline): the key switches kinds on and off, a
+   column is a year, picked by a click or a drag across several */
+.rt-legend { margin: 0 0 2px; }
+.rt-legend .type { display: inline-flex; align-items: center; gap: 6px; color: var(--text-2); font: 10.5px var(--mono); text-transform: uppercase; letter-spacing: .05em; }
+.routes-timeline.types-on .rt-legend .type[aria-pressed="false"] { opacity: .45; }
+.rt-key { display: inline-flex; align-items: center; gap: 6px; padding: 4px 7px; color: var(--muted); font: 10.5px var(--mono); text-transform: uppercase; letter-spacing: .05em; white-space: nowrap; }
+.rt-key:first-of-type { margin-left: auto; }
+.rt-cols { display: grid; grid-template-columns: repeat(var(--n), minmax(0, 1fr)); align-items: end; gap: 2px; height: 44px; margin-top: 8px; touch-action: pan-y; -webkit-user-select: none; user-select: none; }
 .rt-col { display: flex; align-items: flex-end; height: 100%; padding: 0; border: 0; background: none; cursor: pointer; }
-.rt-col:hover .rt-stack { outline: 1px solid var(--text-2); outline-offset: 1px; }
-.rt-stack { display: flex; flex-direction: column-reverse; width: 100%; border-radius: 1px 1px 0 0; overflow: hidden; transition: opacity .15s; }
-.rt-stack i { display: block; min-height: 1px; }
+.rt-col[aria-pressed="true"], .rt-col:hover, .rt-col:focus-visible { outline: 1px solid var(--text); outline-offset: 1px; }
+.rt-col.in-drag { background: color-mix(in srgb, var(--text) 16%, transparent); outline: 1px solid var(--text-2); }
+.rt-stack { display: flex; flex-direction: column-reverse; width: 100%; overflow: hidden; transition: opacity .15s; }
+.rt-stack i { display: block; min-height: 1px; box-shadow: inset 0 0 0 .4px rgb(0 0 0 / .3); }
 .rt-col.out .rt-stack { opacity: .22; }
-/* the range: its thumbs sit on the middle of the first and last chosen columns */
-.rt-range { position: relative; height: 18px; margin: 2px calc(50% / var(--n) - 8px) 0; }
-.rt-range::before { content: ""; position: absolute; left: 8px; right: 8px; top: 8px; height: 2px; background: var(--border); border-radius: 2px; }
-.rt-range::after { content: ""; position: absolute; top: 8px; height: 2px; border-radius: 2px; background: var(--amber); left: calc(8px + (100% - 16px) * var(--from)); right: calc(8px + (100% - 16px) * (1 - var(--to))); }
-.rt-range input { position: absolute; inset: 0; width: 100%; margin: 0; height: 18px; background: none; pointer-events: none; appearance: none; -webkit-appearance: none; z-index: 1; }
-.rt-range input::-webkit-slider-runnable-track { background: none; height: 18px; }
-.rt-range input::-moz-range-track { background: none; }
-.rt-range input::-webkit-slider-thumb { -webkit-appearance: none; pointer-events: auto; width: 16px; height: 16px; margin-top: 1px; border-radius: 50%; background: var(--bg); border: 2px solid var(--amber); cursor: grab; }
-.rt-range input::-moz-range-thumb { pointer-events: auto; width: 12px; height: 12px; border-radius: 50%; background: var(--bg); border: 2px solid var(--amber); cursor: grab; }
-.rt-range input:focus-visible::-webkit-slider-thumb { outline: 2px solid var(--text); outline-offset: 2px; }
-.rt-axis { display: grid; grid-template-columns: repeat(var(--n), 1fr); gap: 2px; font: 10px var(--mono); color: var(--muted); }
-.rt-axis span { text-align: center; white-space: nowrap; overflow: visible; }
+.rt-axis { display: grid; grid-template-columns: repeat(var(--n), minmax(0, 1fr)); gap: 2px; margin-top: 6px; font: 11px var(--mono); color: var(--muted); }
+.rt-axis span { position: relative; text-align: center; white-space: nowrap; overflow: visible; }
+.rt-axis span:last-child { display: flex; justify-content: flex-end; } /* the latest year overflows to the left, inside the box */
+.rt-axis span:last-child:not(:empty)::before { left: auto; right: calc(50% - 1px); }
+.rt-axis span:not(:empty)::before { content: ""; position: absolute; left: 50%; top: -5px; height: 3px; border-left: 1px solid var(--muted); }
 .key-node { width: 9px; height: 9px; border-radius: 50%; }
 .key-node.send { background: #e9a04a; }
 .key-node.receive { background: #6fa8e8; }
@@ -84,12 +83,13 @@
 @media (max-width: 860px) {
   .view-switch button { padding: 0 9px; }
   .routes-fields { width: 100%; flex-wrap: nowrap; justify-content: flex-start; gap: 6px; }
-  .routes-fields .ui-select { flex: 1 1 0; width: auto; min-width: 0; }
-  .routes-fields .ui-trigger { padding: 0 8px; font-size: 12px; }
   .routes-active { justify-content: flex-start; }
   .routes-timeline { left: 8px; right: 8px; bottom: 26px; padding: 6px 8px; }
-  .rt-key { display: none; }
+  .rt-legend { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
+  .rt-legend .type, .rt-key { flex: none; }
   .rt-cols { height: 34px; }
+  .rt-axis { font-size: 10px; }
+  .rt-axis span:nth-child(4n+1) { visibility: hidden; } /* every fourth year, ending on the latest */
 }
 
 /* the head of the pane: lead and totals */

@@ -1,5 +1,6 @@
 ---
 // One report in a list: type, date, place, title, summary and its main figures.
+import { iconSvg } from "../lib/icons.js";
 import { formatDate, isoDate } from "../lib/reports.js";
 import { Image } from "astro:assets";
 import { flagOf } from "../lib/countries.js";
@@ -7,7 +8,7 @@ import { photoOf, coverPlaceholderOf } from "../lib/media-manifest.js";
 const { r, search = true, zoom = false } = Astro.props;
 // zoom: a button at the end of the first line that shows the report on the page's map (the map's side pane)
 const base = import.meta.env.BASE_URL;
-const ZOOM_ICON = '<svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="8" cy="8" r="1.6" fill="currentColor"/><path d="M8 0.5v3M8 12.5v3M0.5 8h3M12.5 8h3" stroke="currentColor" stroke-width="1.5"/></svg>';
+const ZOOM_ICON = iconSvg("position");
 const haystack = [r.title, r.summary, r.place, r.countryName, r.typeLabel, ...(r.tags ?? [])].join(" ").toLowerCase();
 ---
 <li class:list={["report-item", { "has-thumb": r.cover || r.photo }]} data-id={r.id} data-type={r.type} data-also={(r.also ?? []).join(" ")}

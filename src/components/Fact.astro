@@ -1,6 +1,7 @@
 ---
 // One figure or detail as a value: agencies of the registry link to their page; the sources it
 // rests on sit behind a small icon, shown on hover or focus (src/scripts/report-citations.js).
+import Icon from "./Icon.astro";
 const { row, refs = [] } = Astro.props;
 const base = import.meta.env.BASE_URL;
 ---
@@ -8,6 +9,6 @@ const base = import.meta.env.BASE_URL;
   ? row.parts.map((p, i) => <>{i > 0 && row.sep}{p.flag && <span class="fact-flag" aria-hidden="true">{p.flag}</span>}{p.agency ? <a href={`${base}agency/${p.agency}/`} title={p.title}>{p.text}</a> : <span title={p.title}>{p.text}</span>}</>)
   : row.value}{row.more && <> {row.more}</>}{refs.length > 0 && (
   <button type="button" class="data-src" data-refs={refs.join(" ")} aria-label={`${refs.length === 1 ? "Source" : "Sources"} ${refs.join(", ")}`}>
-    <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4 1.5h5.5L12.5 4.5v10h-8.5z" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round" /><path d="M6.5 7.5h4M6.5 10h4" stroke="currentColor" stroke-width="1.3" /></svg>
+    <Icon name="journal-page" />
   </button>
 )}

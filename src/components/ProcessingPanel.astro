@@ -4,11 +4,12 @@
 // WebSocket as the submissions list (/v1/submissions/stream) and re-reads /v1/status on each
 // change; without a socket it asks every 20 seconds.
 import { submissionsAPI as api } from "../lib/submissions-config.js";
+import Icon from "./Icon.astro";
 const base = import.meta.env.BASE_URL;
 ---
 {api && <section class="processing" id="processing" data-api={api} data-state="checking" aria-labelledby="processing-title" aria-live="polite">
   <div class="processing-head">
-    <svg class="processing-cog" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="6.5"/><circle cx="12" cy="12" r="2.2"/><path d="M12 2.5v3M12 18.5v3M2.5 12h3M18.5 12h3M5.3 5.3l2.1 2.1M16.6 16.6l2.1 2.1M5.3 18.7l2.1-2.1M16.6 7.4l2.1-2.1"/></svg>
+    <Icon name="settings" class="processing-cog" />
     <h2 id="processing-title">Processing</h2>
     <span class="processing-state">Checking…</span>
     <a class="processing-link" href={`${base}submissions/`}>All requests →</a>
@@ -92,14 +93,14 @@ const base = import.meta.env.BASE_URL;
   .processing { margin: 22px 0 26px; padding: 14px 16px 12px; border: 1px solid var(--border); border-radius: var(--r); background: var(--surface); }
   .processing-head { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
   .processing-head h2 { margin: 0; font-size: 15px; font-weight: 600; }
-  .processing-cog { width: 18px; height: 18px; flex: none; color: var(--muted); }
-  .processing[data-state="online"] .processing-cog { color: #a8a69e; }
-  .processing[data-state="working"] .processing-cog { color: #3fb36b; animation: processing-turn 2.4s linear infinite; }
-  .processing[data-state="paused"] .processing-cog { color: #d9a43c; }
-  .processing[data-state="offline"] .processing-cog { color: #d6545a; }
-  .processing[data-state="checking"] .processing-cog { opacity: .4; }
+  :global(.processing-cog) { width: 18px; height: 18px; flex: none; color: var(--muted); }
+  .processing[data-state="online"] :global(.processing-cog) { color: #a8a69e; }
+  .processing[data-state="working"] :global(.processing-cog) { color: #3fb36b; animation: processing-turn 2.4s linear infinite; }
+  .processing[data-state="paused"] :global(.processing-cog) { color: #d9a43c; }
+  .processing[data-state="offline"] :global(.processing-cog) { color: #d6545a; }
+  .processing[data-state="checking"] :global(.processing-cog) { opacity: .4; }
   @keyframes processing-turn { to { transform: rotate(360deg); } }
-  @media (prefers-reduced-motion: reduce) { .processing[data-state="working"] .processing-cog { animation: none; } }
+  @media (prefers-reduced-motion: reduce) { .processing[data-state="working"] :global(.processing-cog) { animation: none; } }
   .processing-state { font: 500 12px var(--mono); color: var(--text-2); }
   .processing[data-state="working"] .processing-state { color: #3fb36b; }
   .processing[data-state="paused"] .processing-state { color: #d9a43c; }

@@ -1,0 +1,11 @@
+---
+// An interface icon from Iconoir (https://iconoir.com, MIT), inlined at build time so it takes the
+// text colour and needs no request. `name` is the icon's file name (iconoir.com shows them),
+// `solid` picks the filled set; size it with CSS (the class, or the svg rule of its parent).
+//   <Icon name="search" />   <Icon name="play" solid class="big" />
+// The report types' diamond markers are the site's own (src/lib/types.js), not Iconoir.
+import { iconSvg } from "../lib/icons.js";
+const { name, solid = false, class: className = "", title = null } = Astro.props;
+const svg = iconSvg(name, { solid, className, title });
+---
+<Fragment set:html={svg} />

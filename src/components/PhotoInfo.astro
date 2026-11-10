@@ -3,6 +3,7 @@
 // fingerprint from the media manifest (src/data/media.json), when it was retrieved, and whether
 // the page shows our 320px copy or the original through the image proxy. It sits in the caption,
 // so the enlarged view (media-viewer.js) shows it too.
+import Icon from "./Icon.astro";
 const { photo, shownSrc, archived = null } = Astro.props;
 const m = photo?.meta;
 const kb = (n) => (n >= 1024 * 1024 ? `${(n / 1024 / 1024).toFixed(1)} MB` : `${Math.max(1, Math.round(n / 1024))} KB`);
@@ -19,7 +20,7 @@ const rows = [
 ---
 <span class="photo-info">
   <button type="button" class="photo-info-btn" aria-label="Photo details" aria-expanded="false">
-    <svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6.5" fill="none" stroke="currentColor" stroke-width="1.3" /><path d="M8 7v4.2M8 4.6v.1" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" /></svg>
+    <Icon name="info-circle" />
   </button>
   <span class="photo-info-box" role="tooltip">
     <span class="photo-info-title">Photo details</span>

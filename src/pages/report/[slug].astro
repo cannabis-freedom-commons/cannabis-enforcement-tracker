@@ -1,5 +1,6 @@
 ---
 import { getCollection, render } from "astro:content";
+import Icon from "../../components/Icon.astro";
 import { Image } from "astro:assets";
 import Base from "../../layouts/Base.astro";
 import "../../styles/report.css";
@@ -213,7 +214,7 @@ const jsonLd = [{
           <WorldMap focus={r} label={`Map: ${r.place ?? r.countryName}`} />
           {r.precision && <span class:list={["loc-chip", r.precision]} title={PRECISION_INFO[r.precision].text}>{PRECISION_INFO[r.precision].label}</span>}
           <a class="map-big" href={`${base}?range=all&focus=${r.id}`} title="Show this report on the world map, among all the others">
-            <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M9.5 2.5h4v4M13.5 2.5 8.5 7.5M6.5 3.5h-3v9h9v-3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            <Icon name="open-new-window" />
             Big map
           </a>
         </div>

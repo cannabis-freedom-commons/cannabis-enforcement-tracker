@@ -3,13 +3,14 @@
 // plays from: nothing is loaded from YouTube, Vimeo or the publisher until the reader clicks
 // (src/scripts/video-facade.js). The poster is our own copy (scripts/media-manifest.mjs).
 import { videoOf } from "../lib/media-manifest.js";
+import Icon from "./Icon.astro";
 const { m } = Astro.props;
 const v = videoOf(m.media_url, m.view);
 ---
 <div class="video-facade" data-kind={m.view.type} data-src={m.view.src} data-title={m.caption} style={v.placeholder ? `background-image:url(${v.placeholder})` : undefined}>
   {v.poster && <img src={v.poster} alt="" loading="lazy" decoding="async" />}
   <button type="button" class="video-play" aria-label={`Play the video from ${v.host}: ${m.caption}`}>
-    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z" fill="currentColor" /></svg>
+    <Icon name="play" solid />
     <span>Play video <span class="video-host">from {v.host}</span></span>
   </button>
 </div>

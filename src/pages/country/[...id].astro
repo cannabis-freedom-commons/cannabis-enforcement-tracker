@@ -1,6 +1,7 @@
 ---
 // One page per CFI country, territory or state, including places with no reports yet.
 import Base from "../../layouts/Base.astro";
+import Icon from "../../components/Icon.astro";
 import WorldMap from "../../components/WorldMap.astro";
 import CfiWidget from "../../components/CfiWidget.astro";
 import ReportBrowser from "../../components/ReportBrowser.astro";
@@ -42,7 +43,7 @@ const jsonLd = {
   <div class="reports-heading">
     <h1>{flagOf(id)} {name}</h1>
     <a class="rss-button" href={`${base}feed/${id}.xml`} type="application/rss+xml" aria-label={`Follow new reports in ${name} via RSS`} title={`New reports in ${name}, as an RSS feed`}>
-      <svg viewBox="0 0 20 20" width="16" height="16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><circle cx="4" cy="16" r="1.2" fill="currentColor" stroke="none"/><path d="M3 9a8 8 0 0 1 8 8M3 3a14 14 0 0 1 14 14"/></svg>
+      <Icon name="rss-feed" />
       RSS
     </a>
   </div>

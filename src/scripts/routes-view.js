@@ -24,13 +24,23 @@ if (pane && mapBox) start();
 function start() {
   const base = mapBox.dataset.base ?? "/";
   const first = +pane.dataset.first, last = +pane.dataset.last;
-  const setRange = (k, v) => timeline.style.setProperty(k, v);
   const bar = document.getElementById("routes-bar"), timeline = document.getElementById("routes-timeline");
   const $ = (s) => bar.querySelector(s) ?? timeline.querySelector(s) ?? pane.querySelector(s);
   const cols = [...timeline.querySelectorAll(".rt-col")];
-  const fromInput = $('[data-year="from"]'), toInput = $('[data-year="to"]');
-  // the site's dropdowns (Select.astro): each keeps its value in a hidden input that fires "change"
-  const metricSel = document.getElementById("rv-metric"), productSel = document.getElementById("rv-product"), modeSel = document.getElementById("rv-mode");
+  // the bar's icon switches (line width, how it travelled) and the timeline's kinds of cannabis
+  const metricBtns = [...bar.querySelectorAll("[data-metric]")], modeBtns = [...bar.querySelectorAll("[data-mode]")];
+  const productBtns = [...timeline.querySelectorAll("[data-product]")];
+  const pressed = () => {
+    for (const b of metricBtns) b.setAttribute("aria-pressed", String(b.dataset.metric === state.metric));
+    for (const b of modeBtns) b.setAttribute("aria-pressed", String(b.dataset.mode === state.mode));
+    for (const b of productBtns) b.setAttribute("aria-pressed", String(state.products.has(b.dataset.product)));
+    timeline.classList.toggle("types-on", state.products.size > 0);
+    for (const c of cols) {
+      const y = +c.dataset.year, whole = state.from === first && state.to === last;
+      c.classList.toggle("out", y < state.from || y > state.to);
+      c.setAttribute("aria-pressed", String(!whole && y >= state.from && y <= state.to));
+    }
+  };
   const activeRow = document.getElementById("routes-active");
   // the search box is the reports' own (FilterBar), shared by both views
   const search = document.getElementById("q");
@@ -42,7 +52,7 @@ function start() {
     if (!haystacks.has(x.i)) haystacks.set(x.i, fold([...x.f, ...x.t].map((id) => `${id} ${data.nodes[id]?.n ?? ""}`).concat(x.ti, x.x ?? "").join(" ")));
     return haystacks.get(x.i);
   };
-  const panel = $("[data-panel]"), span = $("[data-span]"), playBtn = $("[data-play]");
+  const panel = $("[data-panel]");
   const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
   const theme = () => (doc.dataset.theme === "light" ? "light" : "dark");
   const INK = {
@@ -57,7 +67,7 @@ function start() {
   const reportsUrl = (q) => `${base}reports/?${new URLSearchParams(q)}`;
 
   // ---- what is shown ----
-  const state = { from: first, to: last, metric: "reports", product: "", mode: "", pick: null, hover: null };
+  const state = { from: first, to: last, metric: "reports", products: new Set(), mode: "", pick: null, hover: null };
   const products = PRODUCTS, modes = MODES.map(([id, label]) => [id, label]);
   const colorOf = Object.fromEntries(products.map(([id, , c]) => [id, c]));
   let data = null;
@@ -72,20 +82,19 @@ function start() {
     const yrs = /^(\d{4})-(\d{4})$/.exec(q.get("years") ?? "");
     if (yrs) { state.from = Math.max(first, Math.min(last, +yrs[1])); state.to = Math.max(state.from, Math.min(last, +yrs[2])); }
     if (q.get("by") === "kg") state.metric = "kg";
-    if (["hashish", "flower", "other"].includes(q.get("cannabis"))) state.product = q.get("cannabis");
+    state.products = new Set((q.get("cannabis") ?? "").split(",").filter((p) => ["hashish", "flower", "other", "none"].includes(p)).map((p) => (p === "none" ? "" : p)));
     if (["air", "road", "sea", "mail"].includes(q.get("way"))) state.mode = q.get("way");
     const r = /^([a-z/]+)-([a-z/]+)$/.exec(q.get("route") ?? "");
     if (r) state.pick = { line: `${r[1]}>${r[2]}` };
     else if (q.get("place")) state.pick = { place: q.get("place") };
-    fromInput.value = state.from; toInput.value = state.to;
-    metricSel.value = state.metric; productSel.value = state.product; modeSel.value = state.mode;
+    pressed();
   }
   function remember() {
     if (!active) return;
     const q = new URLSearchParams({ view: "routes" });
     if (state.from !== first || state.to !== last) q.set("years", `${state.from}-${state.to}`);
     if (state.metric === "kg") q.set("by", "kg");
-    if (state.product) q.set("cannabis", state.product);
+    if (state.products.size) q.set("cannabis", [...state.products].map((p) => p || "none").join(","));
     if (state.mode) q.set("way", state.mode);
     if (state.pick?.line) q.set("route", state.pick.line.replace(">", "-"));
     if (state.pick?.place) q.set("place", state.pick.place);
@@ -95,7 +104,7 @@ function start() {
 
   function compute() {
     const terms = words().map(fold);
-    shown = data.records.filter((x) => x.y >= state.from && x.y <= state.to && (!state.product || x.p === state.product) && (!state.mode || x.m.includes(state.mode))
+    shown = data.records.filter((x) => x.y >= state.from && x.y <= state.to && (!state.products.size || state.products.has(x.p)) && (!state.mode || x.m.includes(state.mode))
       && terms.every((w) => haystack(x).includes(w)));
     ({ lines, domestic } = corridors(shown, data.nodes));
     byKey = new Map(lines.map((c) => [c.key, c]));
@@ -276,7 +285,7 @@ function start() {
     const chips = [];
     if (search?.value.trim()) chips.push(["search", `“${search.value.trim()}”`]);
     if (state.from !== first || state.to !== last) chips.push(["years", state.from === state.to ? String(state.from) : `${state.from}–${state.to}`]);
-    if (state.product) chips.push(["product", products.find(([id]) => id === state.product)?.[1] ?? state.product, colorOf[state.product]]);
+    for (const p of state.products) chips.push([`product:${p}`, products.find(([id]) => id === p)?.[1] ?? p, colorOf[p]]);
     if (state.mode) chips.push(["mode", modes.find(([id]) => id === state.mode)?.[1] ?? state.mode]);
     if (state.metric === "kg") chips.push(["metric", "Width by kilograms"]);
     if (state.pick?.line) { const [a, b] = state.pick.line.split(">"); chips.push(["pick", `${data.nodes[a]?.n ?? a} → ${data.nodes[b]?.n ?? b}`]); }
@@ -296,10 +305,11 @@ function start() {
     activeRow.querySelector("[data-clear-all]").hidden = chips.length < 2;
   }
   function clearChoice(key) {
-    if (key === "years" || key === "all") { stop(); state.from = first; state.to = last; fromInput.value = first; toInput.value = last; }
-    if (key === "product" || key === "all") { state.product = ""; productSel.value = ""; }
-    if (key === "mode" || key === "all") { state.mode = ""; modeSel.value = ""; }
-    if (key === "metric" || key === "all") { state.metric = "reports"; metricSel.value = "reports"; }
+    if (key === "years" || key === "all") { state.from = first; state.to = last; }
+    if (key.startsWith("product:")) state.products.delete(key.slice(8));
+    if (key === "all") state.products.clear();
+    if (key === "mode" || key === "all") state.mode = "";
+    if (key === "metric" || key === "all") state.metric = "reports";
     if (key === "pick" || key === "all") { state.pick = null; tip?.remove(); }
     if ((key === "search" || key === "all") && search?.value) { search.value = ""; search.dispatchEvent(new Event("input", { bubbles: true })); }
     refresh();
@@ -385,10 +395,7 @@ function start() {
     pending = requestAnimationFrame(() => {
       pending = 0;
       compute(); seed();
-      span.textContent = state.from === state.to ? String(state.from) : `${state.from}–${state.to}`;
-      for (const c of cols) c.classList.toggle("out", +c.dataset.year < state.from || +c.dataset.year > state.to);
-      setRange("--from", String((state.from - first) / Math.max(1, last - first)));
-      setRange("--to", String((state.to - first) / Math.max(1, last - first)));
+      pressed();
       if (map?.getSource("routes")) {
         map.getSource("routes").setData(routeData());
         map.getSource("route-places").setData(placeData());
@@ -425,38 +432,47 @@ function start() {
   panel.addEventListener("pointerleave", () => { state.hover = null; paintHover(); });
   addEventListener("keydown", (e) => { if (e.key === "Escape" && active && state.pick) choose(null); });
 
-  const setYears = (which) => {
-    let a = +fromInput.value, b = +toInput.value;
-    if (a > b) { if (which === "from") b = a; else a = b; fromInput.value = a; toInput.value = b; }
-    state.from = a; state.to = b; refresh();
+  // ---- the timeline: a click picks a year (again: all years), a drag across columns picks several;
+  // the pointer is captured only once the drag reaches a second column, so a click stays a click ----
+  const colsBox = timeline.querySelector(".rt-cols");
+  let drag = null, dragged = false;
+  const colAt = (x) => { const r = colsBox.getBoundingClientRect(); return Math.max(0, Math.min(cols.length - 1, Math.floor(((x - r.left) / r.width) * cols.length))); };
+  const paintDrag = () => cols.forEach((c, i) => c.classList.toggle("in-drag", !!drag && drag.start !== drag.end && i >= Math.min(drag.start, drag.end) && i <= Math.max(drag.start, drag.end)));
+  colsBox.addEventListener("pointerdown", (e) => { if (e.button === 0) { dragged = false; drag = { start: colAt(e.clientX), end: colAt(e.clientX), pointer: e.pointerId }; } });
+  colsBox.addEventListener("pointermove", (e) => {
+    if (!drag || e.pointerId !== drag.pointer) return;
+    const at = colAt(e.clientX);
+    if (at === drag.end) return;
+    if (!colsBox.hasPointerCapture(e.pointerId)) colsBox.setPointerCapture(e.pointerId);
+    drag.end = at; paintDrag();
+  });
+  const endDrag = (e) => {
+    if (!drag || e.pointerId !== drag.pointer) return;
+    const { start, end } = drag;
+    drag = null; paintDrag();
+    if (e.type !== "pointerup" || start === end) return;
+    dragged = true; setTimeout(() => { dragged = false; });
+    state.from = +cols[Math.min(start, end)].dataset.year; state.to = +cols[Math.max(start, end)].dataset.year;
+    refresh();
   };
-  fromInput.addEventListener("input", () => { stop(); setYears("from"); });
-  toInput.addEventListener("input", () => { stop(); setYears("to"); });
-  timeline.addEventListener("click", (e) => {
+  colsBox.addEventListener("pointerup", endDrag);
+  colsBox.addEventListener("pointercancel", endDrag);
+  colsBox.addEventListener("click", (e) => {
     const col = e.target.closest(".rt-col");
-    if (!col) return;
-    stop();
+    if (!col || dragged) return;
     const y = +col.dataset.year;
     if (state.from === y && state.to === y) { state.from = first; state.to = last; }
     else { state.from = y; state.to = y; }
-    fromInput.value = state.from; toInput.value = state.to;
     refresh();
   });
-  metricSel.addEventListener("change", () => { state.metric = metricSel.value; refresh(); });
-  productSel.addEventListener("change", () => { state.product = productSel.value; refresh(); });
-  modeSel.addEventListener("change", () => { state.mode = modeSel.value; refresh(); });
-  let timer = 0;
-  function stop() { clearInterval(timer); timer = 0; playBtn.classList.remove("on"); playBtn.firstElementChild.textContent = "▶"; playBtn.setAttribute("aria-label", "Play the years one by one"); }
-  playBtn.addEventListener("click", () => {
-    if (timer) return stop();
-    playBtn.classList.add("on"); playBtn.firstElementChild.textContent = "❚❚"; playBtn.setAttribute("aria-label", "Pause");
-    if (state.to >= last) state.to = state.from;
-    toInput.value = state.to; refresh();
-    timer = setInterval(() => {
-      if (state.to >= last || !active) return stop();
-      state.to++; toInput.value = state.to; refresh();
-    }, 750);
+  // the kinds of cannabis switch on and off; none on is all
+  for (const b of productBtns) b.addEventListener("click", () => {
+    const p = b.dataset.product;
+    if (state.products.has(p)) state.products.delete(p); else state.products.add(p);
+    refresh();
   });
+  for (const b of metricBtns) b.addEventListener("click", () => { state.metric = b.dataset.metric; refresh(); });
+  for (const b of modeBtns) b.addEventListener("click", () => { state.mode = state.mode === b.dataset.mode ? "" : b.dataset.mode; refresh(); });
 
   // ---- pointing and clicking on the map ----
   let tip = null;
@@ -548,7 +564,6 @@ function start() {
       sizeCanvas();
       animate();
     } else {
-      stop();
       tip?.remove();
       showLayers();
       draw(0);
