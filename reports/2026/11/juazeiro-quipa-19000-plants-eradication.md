@@ -42,24 +42,28 @@ sources:
     publisher: Preto no Branco
     date: 2026-11-10
     language: pt
+  - title: 'Juazeiro: PMBA/74º CIPM/Rural erradica plantio de maconha próxima à região do Quipá'
+    url: https://www.redegn.com.br/?cod_noticia=225334&sessao=noticia
+    publisher: redeGN
+    date: 2026-11-10
+    language: pt
 open_questions:
-  - No arrests, suspects or charges were reported for this eradication.
-  - The plant figure is an approximation of about 19,000 plants, not an exact measured count.
-  - No cultivated area, seized weight or estimated drug value was published.
-  - No investigative or court outcome beyond referral of samples to the Juazeiro drugs station was reported.
-  - Only one outlet account of this event was opened, reproducing 74th CIPM/Rural information.
+    - No arrests, suspects or charges were reported for this eradication.
+    - The plant figure is an approximation of about 19,000 plants, not an exact measured count.
+    - No cultivated area, seized weight or estimated drug value was published.
+    - No investigative or court outcome beyond referral of samples to the Juazeiro drugs station was reported.
+    - Both opened accounts reproduce 74th CIPM/Rural press releases from the Bahia Military Police.
 ---
 
 Bahia's Military Police eradicated a marijuana planting on Monday 9 November
 2026 in a caatinga scrubland area near the Quipa region in the rural zone of
-Juazeiro in northern Bahia. [@1] The operation was carried out by officers of
+Juazeiro in northern Bahia. [@1,2] The operation was carried out by officers of
 the 74th Independent Military Police Company for rural policing, acting through
 its Rural Tactical Operations Platoon and its Urban Tactical Operations Platoon.
-[@1]
+[@1,2]
 
 The police put the size of the planting at approximately 19,000 marijuana
-plants. [@1] After locating the cultivation, the officers carried out the
-eradication of the plantation at the site. [@1] Samples of the eradicated
+plants. [@1,2] After locating the cultivation, the officers carried out the
+eradication of the plantation at the site. [@1,2] Samples of the eradicated
 material were forwarded to the Drugs and Narcotics Station (DTE) in Juazeiro,
-where the applicable legal measures will be adopted. [@1]
-
+where the applicable legal measures will be adopted. [@1,2]
