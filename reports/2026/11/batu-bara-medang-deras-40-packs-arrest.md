@@ -61,16 +61,22 @@ sources:
     publisher: Waspada Indonesia
     date: 2026-11-09
     language: id
+  - title: Polsek Medang Deras Amankan Pria Diduga Penguasa Ganja, 40 Bungkus Barang Bukti Disita
+    url: https://www.kabarreskrim.net/polsek-medang-deras-amankan-pria-diduga-penguasa-ganja-40-bungkus-barang-bukti-disita/
+    publisher: Kabar Reskrim
+    date: 2026-11-10
+    language: id
 open_questions:
   - No weight for the 40 packs of cannabis was published, so no kilograms are recorded.
   - One outlet's headline says 39 packs while its body describes 39 small packs plus one medium pack, totalling 40; the report follows the 40-pack total used by the other two outlets.
   - The man's home village is spelled Sidomulio in one account and Sidomulyo in two others; both refer to the same person and place.
   - No charge, detention status or court outcome beyond handover to the Batu Bara narcotics unit was reported.
+  - This account spells the arrest hamlet Perdomuan Nauli, consistent with the existing report's second source, but gives no home village for the man and no admission that he intended to resell, so those details rest on the earlier sources.
 ---
 
 A 44-year-old man identified as H, a resident of Sidomulio village in Talawi,
 Batu Bara, was arrested by the Medang Deras sector police criminal unit on
-Monday 9 November 2026 at about 18.00 WIB. [@1] He was detained at a small shop
+Monday 9 November 2026 at about 18.00 WIB. [@1,4] He was detained at a small shop
 in Sei Buah Keras village, Medang Deras, on suspicion of possessing 40 packs of
 ready-to-distribute cannabis leaf. [@1] A second account names the man as
 Hendra, 44, of Pematang Dalam hamlet in Sidomulyo village, and places the arrest
@@ -80,13 +86,14 @@ distribution in Sei Buah Keras village. [@1]
 
 Officers searching him found 40 packs of ready-to-distribute cannabis leaf in
 his left trouser pocket, plus Rp50,000 alleged to be proceeds of cannabis sales.
-[@1] Another account breaks the seizure down as 39 small packs wrapped in book
+[@1,4] Another account breaks the seizure down as 39 small packs wrapped in book
 paper and one medium pack wrapped in rice paper, with the same Rp50,000 in cash.
-[@2] When questioned, the man admitted the seized goods were his and were meant
+[@2,4] When questioned, the man admitted the seized goods were his and were meant
 to be resold. [@1]
 
 Police took him to the Medang Deras station and then handed him and the evidence
-to the Batu Bara district police narcotics unit for further legal process. [@1]
+to the Batu Bara district police narcotics unit for further legal process. [@1,4]
 Police said they were developing the case to find other parties involved,
 including tracing a suspected dealer linked to the cannabis. [@2]
 
+The Medang Deras criminal investigation unit was led in the arrest by its chief, IPDA Syaputra Mamana Hasibuan, acting on a public tip about suspected ganja distribution at the location. [@4] Police said they were continuing to develop the case to trace suspected involvement of other people in the ganja distribution. [@4]
