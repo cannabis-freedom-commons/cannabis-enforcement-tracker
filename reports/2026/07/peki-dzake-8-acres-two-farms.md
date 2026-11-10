@@ -19,19 +19,18 @@ created_by_model: cursor/composer-2.5
 details:
   activity: [cultivation]
   agency_types: [police]
-  case_stage: appeal
   date_precision: exact
   environment: [outdoor]
   products: [{product: flower}]
   setting: [vehicle, field, forest]
 data_sources:
-  details.activity: [1, 2]
+  details.activity: [1]
   details.agency_types: [1]
-  details.case_stage: [1, 2]
   details.date_precision: [1]
   details.environment: [1]
   details.products: [1]
   details.setting: [1]
+  figures.hectares: [1]
 status: verified
 tags: [volta, peki-dzake, eradication]
 sources:
@@ -39,11 +38,6 @@ sources:
     url: https://www.graphic.com.gh/news/general-news/ghana-news-police-destroy-2-marijuana-plantations-in-peki-dzake-forest.html
     publisher: Graphic Online
     date: 2026-07-20
-  - title: Police destroy 11 cannabis farms in Volta Region anti-drug operation
-    url: https://www.modernghana.com/news/1509442/police-destroy-11-cannabis-farms-in-volta-region.html
-    archived: https://web.archive.org/web/20260711112027/https://www.modernghana.com/news/1509442/police-destroy-11-cannabis-farms-in-volta-region.html
-    publisher: Modern Ghana
-    date: 2026-07-10
 media:
   - kind: photo
     url: https://www.graphic.com.gh/news/general-news/ghana-news-police-destroy-2-marijuana-plantations-in-peki-dzake-forest.html
@@ -51,7 +45,7 @@ media:
     publisher: Graphic Online
     caption: Officers cutting cannabis during the Peki-Dzake forest operation, in Graphic Online's photograph.
 open_questions:
-  - Graphic Online said the raid was on the Thursday before its 20 July publication (16 July 2026); a separate 9 July operation destroyed eleven farms in the same enclave and is covered in another report.
+  - Graphic Online dates the raid to the Thursday before its 20 July publication, corresponding to 16 July 2026.
   - Three men and a woman were seen fleeing one farmstead; no arrests were reported.
   - Graphic said farmers also felled trees for charcoal and mixed dried cannabis with charcoal for transport; those practices were not quantified.
 ---
@@ -71,5 +65,3 @@ and that the campaign would extend across the Volta Region. [@1] He appealed for
 tips on cultivators. [@1]
 
 Graphic published a photograph of officers destroying plants during the operation. [@1]
-Modern Ghana had reported a separate 9 July 2026 operation that destroyed eleven farms in
-the same Peki-Dzake enclave. [@2]

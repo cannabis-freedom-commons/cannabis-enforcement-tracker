@@ -104,7 +104,13 @@ export default {
     "semikarakorsk-27-plants-1-2kg-arrest": "semikarakorsky-27-plants-1-2kg-arrest",
     "sultan-bathery-makkutty-108kg-ganja-arrest": "sulthan-bathery-1-08kg-ganja-arrest",
     "thailand-bangkok-five-tonnes-2026": "bangkok-khu-bon-5-tonnes",
-    "kullu-koot-299kg-charas-arrest": "kullu-ani-koot-2990g-charas-arrest"
+    "kullu-koot-299kg-charas-arrest": "kullu-ani-koot-2990g-charas-arrest",
+    "bella-culley-georgia-arrest-14kg-cannabis": "bella-culley-tbilisi-sentence",
+    "kuwait-six-referred-prosecution-60g-hashish-415g-shabu": "kuwait-six-arrested-60g-hashish-2026",
+    "israel-telegrass-indictment-27-2019": "israel-telegrass-42-arrested-2019",
+    "serbia-konjuh-investigation-link-2026": "serbia-konjuh-five-tonne-seizure-2026",
+    "serbia-konjuh-5-tonnes-raid": "serbia-konjuh-five-tonne-seizure-2026",
+    "jharkhand-441kg-ganja-two-operations-roundup": "garhwa-kalyanpur-container-426kg-ganja"
   },
   "codes": {
     "02WRPN": "chijioke-obioha-hanged",
@@ -210,6 +216,12 @@ export default {
     "AMT282": "egypt-school-bus-drivers-hashish-screening",
     "V0BCSQ": "isle-of-man-boy-shayne-dunne-12-years",
     "P9WVW4": "gravatal-pouso-alto-tele-entrega-arrest",
-    "CH8BCT": "nigeria-port-harcourt-south-african-thai-loud"
+    "CH8BCT": "nigeria-port-harcourt-south-african-thai-loud",
+    "M0Q9BW": "bella-culley-tbilisi-sentence",
+    "ZRY4CG": "kuwait-six-arrested-60g-hashish-2026",
+    "0DH342": "israel-telegrass-42-arrested-2019",
+    "GQZ162": "serbia-konjuh-five-tonne-seizure-2026",
+    "94WZC8": "serbia-konjuh-five-tonne-seizure-2026",
+    "TNQW0M": "garhwa-kalyanpur-container-426kg-ganja"
   }
 };

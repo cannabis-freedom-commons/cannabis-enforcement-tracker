@@ -1,20 +1,29 @@
 ---
 added_at_source: git
 added_at: "2026-11-02T11:38:37.000Z"
-code: T3509T
-date: 2026-11-01
+code: "T3509T"
+date: 2026-11-03
 country: kw
 place: Kuwait
-coordinates: [29.3759, 47.9774]
+coordinates:
+  - 29.3759
+  - 47.9774
 precision: country
 type: arrest
-also: [seizure]
-title: Six arrested in Kuwait drug cases; 60 g of hashish seized
+also:
+  - seizure
+  - prosecution
+title: Six referred to Kuwait prosecution after four drug cases involving 60 g of hashish
 summary: >-
-  Kuwait's drug-control agency arrested six suspects in four separate drug cases for alleged trafficking and use. Officers seized 60 grams of hashish alongside methamphetamine and chemical-soaked sheets.
+  Kuwait’s drug-control agency arrested six people in four cases and referred them to the drugs and
+  alcohol prosecution. Officers seized 60 grams of hashish, alongside methamphetamine, chemical-soaked
+  sheets and 540 Kuwaiti dinars described as drug-sale proceeds.
 figures:
   arrested: 6
   kg_seized: 0.06
+  cash:
+    amount: 540
+    currency: KWD
 media:
   - kind: photo
     url: https://alseyassah.com/article/474701/%D8%B6%D8%A8%D8%B7-6-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D9%81%D9%8A-4-%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87%D9%85-%D8%B4%D8%A8%D9%88-%D9%88%D8%AD%D8%B4%D9%8A%D8%B4-%D9%88%D9%83%D9%8A%D9%85%D9%8A%D9%83%D8%A7%D9%84/
@@ -25,29 +34,70 @@ media:
     url: https://kuwaitnews.com/138393/
     media_url: https://kuwaitnews.com/wp-content/uploads/2026/11/moi-arrest3.jpg
     publisher: كويت نيوز
-    caption: 'Interior Ministry handout photo carried with the report on the six suspects detained in four drug cases. Photo: Kuwait News'
+    caption: >-
+      Interior Ministry handout photo carried with the report on the six suspects detained in four drug
+      cases. Photo: Kuwait News
   - kind: photo
     url: https://www.alanba.com.kw/1384264
     media_url: https://media.alanba.com.kw/articlefiles/2026/11/1384264-1.jpg?w=600
     publisher: جريدة الأنباء الكويتية
-    caption: Al-Anbaa photo published with the Interior Ministry statement on the six suspects detained in four separate Kuwait drug cases and the seized items.
+    caption: >-
+      Al-Anbaa photo published with the Interior Ministry statement on the six suspects detained in four
+      separate Kuwait drug cases and the seized items.
 details:
-  activity: [trafficking]
-  agency_types: [anti-narcotics]
-  case_stage: investigation
+  agencies:
+    - General Department for Drug Control
+  agency_types:
+    - anti-narcotics
   products:
-    - {product: hashish}
+    - product: hashish
+      kg: 0.06
+  activity:
+    - possession
+    - sale
+  charges:
+    - trafficking in and possession of narcotics and psychotropic substances
+  case_stage: investigation
+  date_precision: publication
 data_sources:
-  details.activity: [1, 3, 4, 5, 6, 2]
-  details.agency_types: [1, 3, 4, 5, 6, 2]
-  details.case_stage: [1, 3, 4, 5, 6, 2]
-  details.products: [1, 2, 3, 4, 5, 6]
-  figures.arrested: [1, 3, 4, 5, 6, 2]
-  figures.kg_seized: [1, 3, 4, 5, 6, 2]
-status: reported
+  details.activity:
+    - 1
+    - 13
+  details.agencies:
+    - 1
+    - 2
+    - 13
+  details.agency_types:
+    - 1
+    - 2
+    - 13
+  details.case_stage:
+    - 13
+  details.charges:
+    - 13
+  details.products:
+    - 1
+    - 13
+  figures.arrested:
+    - 1
+    - 2
+    - 13
+  figures.cash:
+    - 1
+    - 2
+    - 13
+  figures.kg_seized:
+    - 1
+    - 2
+    - 13
+status: disputed
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0fad41a4c5caee4af012ec0981563ea7
-tags: [kuwait, hashish, drug-control, shabu]
+tags:
+  - kuwait
+  - hashish
+  - drug-control
+  - shabu
 sources:
   - title: ضبط 6 متهمين في 4 قضايا مخدرات بحوزتهم شبو وحشيش وكيميكال - السياسة
     url: https://alseyassah.com/article/474701/%D8%B6%D8%A8%D8%B7-6-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D9%81%D9%8A-4-%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87%D9%85-%D8%B4%D8%A8%D9%88-%D9%88%D8%AD%D8%B4%D9%8A%D8%B4-%D9%88%D9%83%D9%8A%D9%85%D9%8A%D9%83%D8%A7%D9%84/
@@ -68,7 +118,9 @@ sources:
     publisher: Sarmad
     date: 2026-11-01
     language: ar
-  - title: ضبط 6 متهمين في 4 قضايا منفصلة بحوزتهم مواد مخدرة ومؤثرات عقلية بقصد الاتجار والتعاطي - جريدة الجريدة الكويتية
+  - title: >-
+      ضبط 6 متهمين في 4 قضايا منفصلة بحوزتهم مواد مخدرة ومؤثرات عقلية بقصد الاتجار والتعاطي - جريدة
+      الجريدة الكويتية
     url: https://www.aljarida.com/article/149327
     publisher: جريدة الجريدة الكويتية
     date: 2026-11-01
@@ -107,6 +159,11 @@ sources:
     publisher: خليجيون
     date: 2026-11-08
     language: ar
+  - title: سقوط 5 رجال ووافدة في قبضة «المكافحة» بـ 415 غرام «شبو» و175 ورقة «كيميكال»
+    url: https://app.alanba.com.kw/newpage/appNews.aspx?articleid=1383374
+    publisher: جريدة الأنباء الكويتية
+    date: 2026-11-03
+    language: ar
   - title: ضبط 6 متهمين في 4 قضايا منفصلة بحوزتهم مواد مخدرة ومؤثرات عقلية بقصد الاتجار والتعاطي
     url: https://www.alanba.com.kw/1384264
     publisher: جريدة الأنباء الكويتية
@@ -118,28 +175,21 @@ sources:
     date: 2026-11-10
     language: ml
 open_questions:
-    - No names, ages or nationalities of the six suspects, and no street value for the drugs, were published.
-    - The four cases were announced together, so the drug, cash and scale figures are totals across them rather than figures for one case.
-    - The statement does not say where in Kuwait the drug arrests took place, and the account linking them to the Capital Governorate sweep names no district.
-    - The 410 grams of shabu and the 175 'chemical'-soaked sheets are not cannabis and are excluded from the cannabis weight here.
-    - 'Outlets differ on the scales: two accounts report two precision scales and one reports a single one.'
-    - No court outcome or charge by statute was reported for any of the six suspects.
+  - >-
+    The dates of the searches, arrests and referral were not given. Coverage of the arrests began on 1
+    November 2026, and Al Anba reported the referral on 3 November.
+  - >-
+    The ministry did not give a breakdown of the seized items by case or identify what was on the 175
+    sheets.
+  - >-
+    Al Anba reported 415 grams of methamphetamine. The ministry figures carried by other outlets give 410
+    grams.
+  - Alseyassah reported two scales, and Arab Times reported one.
+  - >-
+    The reports did not identify the suspects or the locations of the searches, name any charges by
+    statute or give a court outcome.
 ---
 
-Kuwait's General Department for Drug Control arrested six suspects in four
-separate drug cases involving narcotics and psychotropic substances for alleged
-trafficking and use. [@1,3,4,5,6,8,9,10,11,12,13,14] The Interior Ministry said the arrests were part of
-ongoing security efforts against drugs and those involved in them. [@2] The
-suspects and the seized items were referred to the competent authorities for
-legal action. [@1,3,4,5,7,8,9,10,11,13] The suspects kept the drugs for their own use and for smuggling, the account says. [@14]
+Kuwait’s General Department for Drug Control arrested six people, including one expatriate woman, in four cases involving alleged drug trafficking and use. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15] Al Anba reported on 3 November 2026 that the six had been referred to the drugs and alcohol prosecution. [@13] The Interior Ministry said officers had investigated the suspects and obtained a prosecution warrant to detain them and search their homes. [@13]
 
-Officers seized 60 grams of hashish, the only cannabis product named in the
-haul. [@1,3,4,5,6,8,9,10,11,12,13,14] The same operations also seized 410 grams of shabu, identified by
-Arab Times as methamphetamine, and 175 sheets of paper soaked in liquid
-chemical, which are not counted as cannabis here. [@2,10,14] The chemical sheets were
-listed separately from the hashish, with Arab Times reporting 175 sheets of
-paper soaked in a chemical liquid alongside 60 grams of hashish. [@2]
-
-Officers also seized 540 Kuwaiti dinars described as proceeds of drug sales and
-precision scales. [@2,10,14] Alseyassah reported two sensitive scales while Arab Times
-reported one precision weighing scale. [@1]
+The searches yielded 60 grams of hashish, 175 sheets of paper soaked in a substance described as a chemical and 540 Kuwaiti dinars the ministry said came from drug sales. [@1,2,3,4,5,6,7,10,13] Alseyassah reported two precision scales, while Arab Times listed one. [@1,2] Al Anba reported equipment used to portion drugs and put the weight of methamphetamine seized at 415 grams, five grams higher than the figure in the other accounts. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14] Madhyamam said the suspects kept the drugs for their own use and for smuggling. [@15] The ministry released the figures for the four cases together. [@1,7]

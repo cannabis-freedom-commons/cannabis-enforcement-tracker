@@ -6,37 +6,65 @@ country: il
 type: sentence
 title: Telegrass founder jailed for 8 years for running cannabis marketplace
 summary: >-
-  Amos Dov Silver, founder of the Telegram-based Telegrass cannabis
-  marketplace, was sentenced in Israel on 7 May 2024 to eight years in prison
-  under a plea deal. He was convicted of running a criminal organization and
-  drug trafficking through a network linking some 3,000 dealers with over
-  200,000 clients.
+  Amos Dov Silver, founder of the Telegram-based Telegrass cannabis marketplace, was sentenced in Israel
+  on 7 May 2024 to eight years in prison under a plea deal. He was convicted of running a criminal
+  organization and drug trafficking through a network linking some 3,000 dealers with over 200,000
+  clients.
 figures:
   prison: 8 years
 details:
-  activity: [trafficking]
-  agency_types: [anti-narcotics]
+  activity:
+    - trafficking
+  agency_types:
+    - anti-narcotics
   case_stage: sentenced
   date_precision: exact
-  products: [{product: flower}]
-  sentence_types: [prison]
-  setting: [prison]
+  products:
+    - product: flower
+  sentence_types:
+    - prison
+  setting:
+    - prison
+  related:
+    - israel-telegrass-42-arrested-2019
 data_sources:
-  details.activity: [2]
-  details.agency_types: [1, 2]
-  details.case_stage: [1, 2]
-  details.date_precision: [1, 2]
-  details.products: [1, 2]
-  details.sentence_types: [1, 2]
-  details.setting: [1, 2]
-  figures.prison: [1, 2]
+  details.activity:
+    - 2
+  details.agency_types:
+    - 1
+    - 2
+  details.case_stage:
+    - 1
+    - 2
+  details.date_precision:
+    - 1
+    - 2
+  details.products:
+    - 1
+    - 2
+  details.sentence_types:
+    - 1
+    - 2
+  details.setting:
+    - 1
+    - 2
+  figures.prison:
+    - 1
+    - 2
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
-tags: [telegrass, telegram, trafficking]
+tags:
+  - telegrass
+  - telegram
+  - trafficking
 open_questions:
   - The opened sources do not name the court city where Silver was sentenced.
-  - The original Haaretz report behind the paywall could not be opened; the sentence is as the two opened outlets report it.
-  - Whether other Telegrass employees charged in the five-year case received sentences was not stated in the opened sources.
+  - >-
+    The original Haaretz report behind the paywall could not be opened; the sentence is as the two opened
+    outlets report it.
+  - >-
+    Whether other Telegrass employees charged in the five-year case received sentences was not stated in
+    the opened sources.
 sources:
   - title: Telegrass founder sentenced to 8 years in jail for selling cannabis online
     url: https://www.greenprophet.com/2024/05/telegrass-founder-sentenced-to-8-years-in-jail-for-selling-cannabis-online/
@@ -44,7 +72,9 @@ sources:
     publisher: Green Prophet
     date: 2024-05-07
     language: en
-  - title: "Israel: Telegrass cannabis Marketplace Founder Sentenced to 8 Years for Running Criminal Organization"
+  - title: >-
+      Israel: Telegrass cannabis Marketplace Founder Sentenced to 8 Years for Running Criminal
+      Organization
     url: https://cannabislaw.report/israel-telegrass-cannabis-marketplace-founder-sentenced-to-8-years-for-running-criminal-organization/
     archived: https://web.archive.org/web/20251016160148/https://cannabislaw.report/israel-telegrass-cannabis-marketplace-founder-sentenced-to-8-years-for-running-criminal-organization/
     publisher: Cannabis Law Report

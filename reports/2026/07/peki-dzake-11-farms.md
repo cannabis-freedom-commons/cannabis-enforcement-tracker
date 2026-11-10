@@ -31,21 +31,27 @@ data_sources:
   details.date_precision: [1]
   details.products: [1, 2]
   details.setting: [1, 2]
-  figures.hectares: [1, 2]
+  figures.hectares: [2, 3]
 status: verified
 tags: [volta, dleu, eradication]
 sources:
   - title: Police destroy 11 cannabis farms in Volta Region anti-drug operation
     url: https://www.modernghana.com/news/1509442/police-destroy-11-cannabis-farms-in-volta-region.html
+    archived: https://web.archive.org/web/20260711112027/https://www.modernghana.com/news/1509442/police-destroy-11-cannabis-farms-in-volta-region.html
     publisher: Modern Ghana
     date: 2026-07-10
   - title: Police destroy eight acres of suspected Indian hemp farms in Volta
     url: https://gna.org.gh/2026/07/police-destroy-eight-acres-of-suspected-indian-hemp-farms-in-volta/
     publisher: Ghana News Agency
     date: 2026-07-10
+  - title: 'Volta Region: Police destroy illegal Indian hemp farms at South Dayi'
+    url: https://onuaonline.com/volta-region-police-destroy-illegal-indian-hemp-farms-at-south-dayi/
+    publisher: Onua Online
+    date: 2026-07-09
 media:
   - kind: photo
     url: https://www.modernghana.com/news/1509442/police-destroy-11-cannabis-farms-in-volta-region.html
+    archived: https://web.archive.org/web/20260711112027/https://www.modernghana.com/news/1509442/police-destroy-11-cannabis-farms-in-volta-region.html
     media_url: https://cdn.modernghana.com/images/content/7102026123613-g30n1r5ddx-53855813.jpg
     publisher: Modern Ghana
     caption: Police officers at one of the cannabis farms destroyed at Peki-Dzake, in Modern Ghana's photograph.
@@ -70,6 +76,8 @@ because people tending the farms spotted the team on the difficult approach and 
 before officers reached them. [@1] DSP Gablah told the Ghana News Agency the command had
 destroyed about eight acres (roughly 3.2 hectares) of suspected Indian hemp at Peki Dzake
 and would keep up intelligence-led work against cultivation and trafficking. [@2]
+Regional commander Wisdom Akorli said officers had trekked nearly two hours to reach the
+farms and had identified further areas for follow-up. [@3]
 
 Modern Ghana published a photograph of officers at one of the cleared farms with its
 report. [@1]

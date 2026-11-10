@@ -33,12 +33,13 @@ data_sources:
   details.products: [1]
   details.sentence_types: [1, 3, 2]
   details.setting: [1, 2]
-status: verified
+status: disputed
 created_by_model: meta/muse-spark
 tags: [hashish, ethiopian-nationals, asir, taazir]
 sources:
   - title: 'Saudi Arabia: New Executions of Ethiopian Migrants'
     url: https://www.hrw.org/news/2026/07/28/saudi-arabia-new-executions-of-ethiopian-migrants
+    archived: https://web.archive.org/web/20261022153006/https://www.hrw.org/news/2026/07/28/saudi-arabia-new-executions-of-ethiopian-migrants
     publisher: Human Rights Watch
     date: 2026-07-28
   - title: Families of Ethiopians on Saudi death row gripped by fear as executions loom
@@ -46,23 +47,30 @@ sources:
     publisher: The Eastleigh Voice
   - title: تنفيذ حكم القتل تعزيرًا بخمسة جناة في منطقة عسير
     url: https://www.spa.gov.sa/N2618952
+    archived: https://web.archive.org/web/20260924205814/https://www.spa.gov.sa/N2618952
     publisher: Saudi Press Agency
     language: ar
+  - title: السعودية تنفذ حكم الإعدام بحق 5 إثيوبيين.. والسلطات تكشف التفاصيل
+    url: https://arabi21.com/story/1769990/السعودية-تنفذ-حكم-الإعدام-بحق-5-إثيوبيين-والسلطات-تكشف-التفاصيل
+    archived: https://web.archive.org/web/20260626033653/https://arabi21.com/story/1769990/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D8%B0-%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85-%D8%A8%D8%AD%D9%82-5-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D8%AA-%D8%AA%D9%83%D8%B4%D9%81-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84
+    publisher: Arabi21
+    date: 2026-06-24
+    language: ar
 open_questions:
-  - The names of the five men were not published.
   - The quantity of hashish they were convicted of smuggling was not published.
   - The exact place of execution beyond the Asir region was not stated.
   - One of the five was reported to have carried qat rather than hashish, and the discrepancy was not resolved.
-  - The interior ministry statement could only be read in part, so the charge is reported via Human Rights Watch's account of it.
 ---
 
 ## The executions
 
-Saudi authorities executed five Ethiopian migrants on 23 June 2026 for allegedly
-"smuggling hashish", according to the official statement cited by Human Rights Watch.
-[@1] The statement records the sentences as discretionary death penalties carried out in
-the Asir region. [@3] Reporting on detainees at the Khamis Mushait facility confirmed
-that five Ethiopians were put to death on that date. [@2]
+Saudi authorities executed five Ethiopian migrants in Asir on 23 June 2026, after
+convictions for smuggling hashish, according to an Interior Ministry statement cited
+by Human Rights Watch and Arabi21. [@1,3,4] Arabi21 published all five names from the
+statement and reported that the Supreme Court upheld the discretionary death
+sentences before a royal order authorised their execution. [@4] Reporting on detainees
+at the Khamis Mushait facility confirmed that five Ethiopians were put to death on
+that date. [@2]
 
 ## The qat account
 
