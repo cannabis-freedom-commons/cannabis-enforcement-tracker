@@ -60,43 +60,46 @@ sources:
     publisher: الجمهورية
     date: 2026-11-10
     language: ar
+  - title: 'قوى الأمن: توقيف 8 أشخاص من شبكات ترويج المخدّرات وضبط مواد مخدّرة وأسلحة وذخائر ودرّاجات آليّة'
+    url: https://www.elnashra.com/news/show/1808496/%D9%82%D9%88%D9%89-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D9%91%D8%B1%D8%A7%D8%AA-%D9%88%D8%B6%D8%A8%D8%B7-%D9%85
+    publisher: Elnashra News
+    date: 2026-11-10
+    language: ar
 open_questions:
-  - No date is given for the ambushes and raids, which the force says took place on different dates; 10 November 2026 is the date of its statement and is used as the incident date.
-  - No weights are published for the hashish, marijuana or other drugs, so no kilogram figure is recorded.
-  - The drugs include cocaine, baz, Captagon, crystal, pills and unidentified substances that cannot be separated from the cannabis, so no combined total is attributed to cannabis.
-  - Salvia is listed among the seized substances but is not counted as a cannabis product here.
-  - The eight suspects are identified only by initials, birth years and nationality, with no charges, prosecutor decisions or court outcome reported.
-  - The sums of money and the forged documents seized are not quantified.
-  - The location of each arrest is not specified beyond the list of eight localities.
-  - The Janoubia report, Al-Joumhouria and the ministry's own page reproduce the same Internal Security Forces statement, so they are not independent reporting.
-  - Left out case stage, as its quotation was not found in الجمهورية.
+    - No date is given for the ambushes and raids, which the force says took place on different dates; 10 November 2026 is the date of its statement and is used as the incident date.
+    - No weights are published for the hashish, marijuana or other drugs, so no kilogram figure is recorded.
+    - The drugs include cocaine, baz, Captagon, crystal, pills and unidentified substances that cannot be separated from the cannabis, so no combined total is attributed to cannabis.
+    - Salvia is listed among the seized substances but is not counted as a cannabis product here.
+    - The eight suspects are identified only by initials, birth years and nationality, with no charges, prosecutor decisions or court outcome reported.
+    - The sums of money and the forged documents seized are not quantified.
+    - The location of each arrest is not specified beyond the list of eight localities.
+    - The Janoubia report, Al-Joumhouria, Elnashra and the ministry's own page reproduce the same Internal Security Forces statement, so they are not independent reporting.
 ---
 
 Lebanon's Information Branch, the intelligence unit of the Internal Security
 Forces, carried out ambushes and raids on different dates in Bourj al-Barajneh,
 Nabaa, Zouk, Ouzai, Tyre, Tripoli, Dekwaneh and Sabtiyeh, the General
-Directorate said on 10 November 2026. [@2] The patrols arrested eight people
+Directorate said on 10 November 2026. [@2,4] The patrols arrested eight people
 from several drug-dealing networks caught in the act, and seized five
-motorcycles used in dealing. [@3]
+motorcycles used in dealing. [@3,4]
 
 The eight include Lebanese, Syrian and Palestinian nationals born between 1980
 and 2008, several of them wanted on theft warrants or with drug or theft
 records. [@2] The force said a large quantity of drugs was seized from them,
 listing among the items hashish, known in Lebanon as hashishat al-kif, marijuana
 and salvia alongside cocaine, baz, Captagon, pills of various colours and a
-white powder. [@1] No weights were given for any of the drugs, and the
+white powder. [@1,4] No weights were given for any of the drugs, and the
 substances include non-cannabis items that cannot be separated from the
-cannabis. [@1]
+cannabis. [@1,4]
 
 At the home of one detained man, where the force said drugs were stored and
 packed, officers found more drugs, 13 motorcycles, a Kalashnikov rifle with five
 magazines, two service pistols with magazines, ammunition, a hunting rifle, five
 sensitive scales, 15 mobile phones, phone batteries and keys for various
-motorcycles. [@1] Officers also seized cigarette-rolling papers, empty bags,
+motorcycles. [@1,4] Officers also seized cigarette-rolling papers, empty bags,
 papers, boxes and tools used to pack and consume drugs, as well as phones, sums
-of money and forged documents. [@1]
+of money and forged documents. [@1,4]
 
 The ministry said the eight confessed during investigation and were referred for
 legal action with the seized items on the instructions of the competent
-judiciary. [@1]
-
+judiciary. [@1,4]
