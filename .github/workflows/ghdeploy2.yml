@@ -18,8 +18,8 @@ permissions:
 # One deployment at a time; a running one finishes, and of the pushes that come meanwhile only the
 # newest waits, so a burst of pushes builds at most twice.
 concurrency:
-  group: pages
-  cancel-in-progress: false
+  group: gh-pages
+  cancel-in-progress: true
 
 jobs:
   build:
