@@ -82,6 +82,11 @@ sources:
     publisher: Ouest-France
     date: 2026-07-10
     language: fr
+  - title: '« Une prise d’ampleur » : les douanes du Havre ont saisi 2,5 tonnes de cannabis cachées dans un conteneur'
+    url: https://lemarin.ouest-france.fr/shipping/une-prise-dampleur-les-douanes-du-havre-ont-saisi-2-5-tonnes-de-cannabis-cachees-dans-un-conteneur-4c51c670-7c66-11f1-a3cc-61ee167b6bba
+    publisher: Le marin
+    date: 2026-07-10
+    language: fr
 ---
 
 Customs officers at the port of Le Havre found 2,562 kg of cannabis resin at the end of June 2026,
@@ -100,4 +105,4 @@ Budget minister David Amiel congratulated the Havre officers, pointing to the "D
 2027 and a high-energy fixed scanner in 2030. [@1,2,6] Neither the customs announcement nor the press
 reports name any arrests. [@1,2]
 
-In early July the public accounts minister announced a 419-million-euro customs plan including 25 additional scanners nationwide by 2030. [@5]
+In early July the public accounts minister announced a 419-million-euro customs plan including 25 additional scanners nationwide by 2030. [@5,7]
