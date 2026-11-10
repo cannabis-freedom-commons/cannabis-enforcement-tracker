@@ -45,17 +45,19 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-10
     language: hi
+  - title: 'Begusarai News: छापेमारी में 1.2 किलो गांजा बरामद, मां-बेटा हिरासत में, Begusarai Hindi News - Hindustan'
+    url: https://www.livehindustan.com/bihar/begusarai/story-police-seize-1-2-kg-of-cannabis-in-hasanpur-bagar-detain-woman-and-son-201794318946698.html
+    publisher: Live Hindustan
+    date: 2026-11-10
+    language: hi
 open_questions:
-  - The names of the detained woman and her son were not published.
-  - No charges, court production or case outcome were reported; the case stood at detention and questioning when published.
-  - No value, source or additional accused was published for the seized ganja.
-  - The whole account rests on a single short report, so the quantity and detentions could not be cross-checked against a second source.
+    - No court appearance, remand or case outcome has been reported following the registration of the NDPS case.
+    - No value, origin or additional accused was published for the seized ganja.
 ---
 
 Police raided Ward No. 2 of Hasanpur Bagar panchayat in Navkothi police-station
-area of Begusarai on Tuesday. [@1] The action targeted a mother and her son
-accused of selling ganja. [@1]
+area of Begusarai on Tuesday. [@1,2] Sub-Inspector Bipin Kumar Ojha led the raid team alongside Magistrate Lovely Kumari and a police dog squad. [@2] The action targeted a mother and her son
+accused of selling ganja. [@1,2]
 
-Officers seized 1 kg 200 g of ganja, or 1.2 kg, in the raid. [@1] Police took
-the woman and her son into custody and began questioning them. [@1]
-
+Officers seized 1 kg 200 g of ganja, or 1.2 kg, in the raid. [@1,2] The contraband was discovered in a black polythene bag hidden under a tin sheet on the roof of the house. [@2] Police took
+the woman and her son into custody and began questioning them. [@1,2] Officers registered a case under the Narcotic Drugs and Psychotropic Substances Act for further legal proceedings. [@2] Police identified the mother and son as Archana Devi and Gaurav Kumar. [@2]
