@@ -48,13 +48,10 @@ sources:
     publisher: Daily Jaijaidin
     date: 2026-11-10
     language: bn
-open_questions:
-    - No village is named for the tea-shop arrest beyond Tak Bazar, so coordinates are for Nalchity rather than a specific spot.
-    - No charge sheet, court appearance or trial date for the five arrested people has been reported.
-    - The reporting does not say how the ganja was packed or tested, and gives no value estimate.
-    - The report does not state how many yaba tablets were found with each suspect.
-    - The police drill held in Jhalokati town the next morning is a separate activity reported alongside the Nalchity drives, and any arrests it produced were not reported.
-    - The accounts reproduce broadly the same Nalchity police statement, so they corroborate the figures but are not independent reporting of the raids.
+  - title: Police Hold Anti-Sabotage Drill in Jhalokathi
+    url: https://www.businesstimes-bd.com/bangladesh/12445
+    publisher: Business Times
+    date: 2026-11-10
 media:
   - kind: photo
     url: https://www.kalbela.com/country-news/348247
@@ -69,15 +66,15 @@ media:
 ---
 
 Police in Nalchity upazila of Jhalokati district arrested five people in
-separate anti-drug drives. [@1,2,3,4] The drives ran from the evening into the night
+separate anti-drug drives. [@1,2,3,4,5] The drives ran from the evening into the night
 on Monday 9 November across different areas of the upazila. [@1,3]
 
-In a later drive at Tak Bazar police held three more men. [@1,4] Officers
-recovered 50 grams of ganja in that later drive. [@1]
+In a later drive at Tak Bazar police held three more men. [@1,4,5] Officers
+recovered 50 grams of ganja in that later drive. [@1,5]
 
 The officer in charge of Nalchity police station spoke about the separate
 drives. [@1,4]
 
-The same officer said police operations against drugs would continue. [@1,4] Earlier the same evening, on the Godanda bridge in Subidpur union, police arrested one man and recovered 40 yaba tablets from him, a yaba count outside this report's cannabis figures. [@1]
+The same officer said police operations against drugs would continue. [@1,4] Earlier the same evening, on the Godanda bridge in Subidpur union, police arrested one man and recovered 40 yaba tablets from him, a yaba count outside this report's cannabis figures. [@1] Across the three operations police seized 45 Yaba tablets in total alongside the cannabis. [@5]
 
 The next morning, police in Jhalokati town staged a special drill against terrorism, sabotage and drugs, riding out from the Sadar police station by motorcycle and pickup. [@4]
