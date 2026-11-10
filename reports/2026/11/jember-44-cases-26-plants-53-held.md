@@ -49,6 +49,11 @@ media:
     media_url: https://cdn0-production-images-kly.akamaized.net/RHTA5BRzhqb-YoBqVsP1R_uvAAI=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9393899/original/043674900_1794275150-Compress_20260614_140101_1791.jpg
     publisher: Liputan6.com
     caption: 'Police display seized narcotics and cannabis evidence at the press conference at Mapolres Jember. Photo: Hermawan Arfianto/Liputan6.com'
+  - kind: photo
+    url: https://jatim.jpnn.com/kriminal/50119/polres-jember-sita-1-kg-sabu-sabu-dan-26-batang-ganja-49-tersangka-ditangkap
+    media_url: https://cloud.jpnn.com/photo/jatim/arsip/normal/2026/11/10/kapolres-jember-akbp-alaiddin-bersama-wakapolres-dan-kasat-r-lr0e.jpg
+    publisher: JPNN.com Jatim
+    caption: 'Jember police chief AKBP Alaiddin with his deputy and drug unit head Iptu Bagus Dwi Setyawan at the press conference at Mapolres Jember. Photo: ANTARA/Zumrotun Solichah'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 956aa5bb75f8a7dc460efa71ec3798a2
@@ -104,6 +109,11 @@ sources:
     publisher: BeritaTKP.com
     date: 2026-11-10
     language: id
+  - title: Polres Jember Sita 1 Kg Sabu-Sabu dan 26 Batang Ganja, 49 Tersangka Ditangkap
+    url: https://jatim.jpnn.com/kriminal/50119/polres-jember-sita-1-kg-sabu-sabu-dan-26-batang-ganja-49-tersangka-ditangkap
+    publisher: JPNN.com Jatim
+    date: 2026-11-10
+    language: id
 open_questions:
   - No second account of the 9 November 2026 press conference could be opened; the report rests on the SMN News article alone.
   - The 53 suspects cover all 44 cases; no cannabis-only arrest, charge or suspect count was published.
@@ -137,13 +147,17 @@ open_questions:
   - The page gives no weight for the 26 living potted plants and does not say whether they were taken away or destroyed.
   - The page gives no cannabis-only suspect count, charge or court outcome.
   - The page's image file repeats the same agency handout already listed from Liputan6.com, so no new media entry is added.
+  - JPNN was published 10 November 2026 and quotes the police chief at a press conference held Monday 9 November 2026, consistent with earlier accounts.
+  - JPNN gives no weight for the 26 potted plants and does not say whether they were taken away or destroyed.
+  - The page quotes no charge or court outcome for the cannabis suspect.
+  - JPNN does not explain the sistem ranjau it says some suspects used to avoid meeting buyers.
 ---
 
 Police in Jember regency, East Java, said they uncovered 44 narcotics and
 dangerous-drug cases between October and 8 November 2026 and detained 53
 suspects, five of them repeat offenders. [@1,2,5,6,7] Jember police chief AKBP Alaiddin
 announced the results at a press conference at the police headquarters on Monday
-9 November 2026. [@1,3,5,6]
+9 November 2026. [@1,3,5,6,11]
 
 The cannabis evidence in the haul was 23.26 grams of dried ganja and 26 cannabis
 plants, listed alongside methamphetamine and 25 ecstasy pills. [@1,2,5,6,7,8,9,10] A cannabis
@@ -168,3 +182,5 @@ Police said JW admitted growing the cannabis for his own use as a user but also 
 Officers also seized dried ganja and two ready-to-roll ganja cigarettes along with the 26 living potted plants when they moved against JW in Situbondo regency. [@5] Seblang.com counted the sweep as 40 narcotics cases and 49 suspects, 46 men and three women, four of them repeat offenders. [@5,10]
 
 Jember police chief Alaiddin called the two dozen potted cannabis plants one of the most notable pieces of evidence in the networks uncovered around Jember. [@7,8,9,10]
+
+JPNN.com Jatim, which credits ANTARA, counts the sweep as 40 narcotics cases with 49 suspects, 46 men and three women, four of them repeat offenders. [@11] One suspect grew the 26 cannabis plants in a pot. [@11]
