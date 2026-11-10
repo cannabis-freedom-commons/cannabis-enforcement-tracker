@@ -156,6 +156,10 @@ sources:
     url: https://www.nst.com.my/news/nation/2026/11/1574586/mauritius-drug-haul-malaysian-couple-paid-rm1000-suitcase
     publisher: New Straits Times
     date: 2026-11-10
+  - title: Social media recruitment led Malaysian couple into RM9.87m cannabis smuggling trap in Mauritius
+    url: https://www.thevibes.com/articles/news/129375/social-media-recruitment-led-malaysian-couple-into-rm9.87m-cannabis-smuggling-trap-in-mauritius
+    publisher: The Vibes
+    date: 2026-11-10
 open_questions:
   - The article was published on 4 November 2026 but dates the seizure to “ce mardi”, so 3 November 2026 is used as the incident date.
   - No amount or currency was given for the seized foreign currency, so no value is recorded.
@@ -212,6 +216,7 @@ open_questions:
   - The page headlines a 'couple' but describes three Malaysians; the couple's share of about 65 kg is given as a gross weight and may include packing.
   - The New Straits Times reports no charge, court appearance or outcome for the three suspects.
   - The page's only picture is captioned COURTESY PIC with no credit identifying what it shows, so no media entry is added.
+  - The packet split in this account does not reconcile with the 70-packet total reported at the airport.
 ---
 
 Three Malaysian nationals who arrived on flight EK 709 from Dubai were searched
@@ -252,3 +257,5 @@ Three Malaysians were arrested upon arrival in Mauritius on Nov 2 after authorit
 The three arrived in Mauritius on an Emirates flight from Dubai on 2 November 2026. [@17]
 
 Bukit Aman Narcotics Criminal Investigation Department director Datuk Hussein Omar Khan said the 22-year-old man and the 18-year-old woman, both from Penang, were recruited after making contact with an individual on the RedNote app and then being reached on Telegram. [@21] The recruiter offered RM1,000 for each suitcase delivered to Mauritius and arranged and paid for the couple's flight tickets and hotel stay. [@21] The couple agreed to carry four suitcases, two each, and were told to collect them in Bangkok, Thailand, before flying on to Mauritius via Dubai, Hussein said. [@21] They were also told to install the Life360 location app so the person coordinating the delivery could monitor their movements, and they sent copies of their passports over Telegram. [@21] Checks on the couple's luggage found 60 plastic packets of suspected cannabis with a gross weight of about 65 kg, and Apple tracking devices were found inside each suitcase carried by one of the suspects. [@21] The third suspect, a 30-year-old man from Sabah who works in Singapore, was arrested with 10 plastic packets, and police said he had found a job advertisement on Facebook in Singapore before being contacted on Telegram. [@21] Hussein said none of the three suspects had previous criminal records, and that the couple had booked five days at the Domaine de Grand Baie Hotel for a holiday. [@21] The three Malaysians were arrested at 2.35pm on 2 November 2026, shortly after arriving on Emirates flight EK709 from Dubai, in an operation by the Anti-Drug and Smuggling Unit with Mauritius Customs, Hussein said. [@21] The couple found after their arrest that conversations in their Telegram group had been deleted or that the person believed to be the syndicate leader had left the group, Hussein said. [@21]
+
+Malaysia's Bukit Aman narcotics director said the Penang couple, 22 and 18, were recruited on RedNote and Telegram to carry four suitcases for RM1,000 a bag, with tickets and hotel paid, collection in Bangkok, a route through Dubai, the Life360 tracker installed to watch their movements and a five-day Grand Baie holiday as cover, while the 30-year-old from Sabah was recruited through a Facebook job advertisement. [@22]
