@@ -50,29 +50,34 @@ sources:
     publisher: JATV
     date: 2026-11-10
     language: bn
+  - title: সাভারে ডিবির পৃথক অভিযানে ইয়াবা-গাঁজাসহ ৪ জন গ্রেপ্তার
+    url: https://www.dhakatoday.com/news/93726/%E0%A6%B8%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%A1%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A7%83%E0%A6%A5%E0%A6%95-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%87%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%BE-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A7%AA-%E0%A6%9C%E0%A6%A8-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0
+    publisher: Dhaka Today
+    date: 2026-11-10
+    language: bn
 open_questions:
     - The 120 yaba tablets are not cannabis and are excluded from the cannabis figures, and only the separately stated 500 grams of ganja is recorded.
-    - The JATV account reports an estimated value of 15,000 taka for the 500 grams of ganja, while the earlier Desherpotro report reported a 24,000-taka value for the Baktarpur seizure without separating the ganja from the 30 yaba tablets.
-    - No agency statement could be opened, and both outlet accounts report police information.
+    - The JATV account reports an estimated value of 15,000 taka for the 500 grams of ganja, while Desherpotro reported a 24,000-taka value for the Baktarpur seizure without separating the ganja from the 30 yaba tablets, and Dhaka Today gave a combined 51,000-taka estimate for both raids.
+    - The reporting relies on police statements rather than an independent agency release.
     - No court outcome beyond the filing of cases and production in court was reported.
     - The ganja was not described as weighed before witnesses or laboratory-tested.
 ---
 
 Dhaka district detective police (DB-North) arrested four alleged drug traders in
-two separate Savar operations. [@1,2] The two operations took place on the
+two separate Savar operations. [@1,2,3] The two operations took place on the
 afternoon and night of Monday 9 November at Baktarpur Tin Rastar Mor and Padmar
-Mor in the Savar Model police station area. [@1,2] In an afternoon raid at
+Mor in the Savar Model police station area. [@1,2,3] In an afternoon raid at
 Baktarpur Tin Rastar Mor, officers detained Mosammat Sharifa Khatun, 32, and
-Palash Molla, 35. [@1,2] In a second raid the same day at Padmar Mor, officers
-detained Md Shipon, 25, and Md Abdul Barek, 38. [@1,2]
+Palash Molla, 35. [@1,2,3] In a second raid the same day at Padmar Mor, officers
+detained Md Shipon, 25, and Md Abdul Barek, 38. [@1,2,3]
 
 Officers recovered 30 yaba tablets and 500 grams of ganja from the Baktarpur
-pair. [@1,2] Officers recovered 90 yaba tablets worth 27,000 taka from the Padmar
+pair. [@1,2,3] Officers recovered 90 yaba tablets worth 27,000 taka from the Padmar
 Mor pair. [@1,2]
 
 Police said the raids were carried out under the direction of district
 superintendent Shamima Parvin and led by DB-North officer Saidul Islam with
 sub-inspector Shahadat Hossain in the afternoon raid. [@1,2] Police said Palash
 Molla already faced four cases, including three theft cases and one under the
-anti-terrorism law. [@1,2] Police filed separate Narcotics Control Act cases
-against all four at Savar Model police station and sent them to court. [@1,2]
+anti-terrorism law. [@1,2,3] Police filed separate Narcotics Control Act cases
+against all four at Savar Model police station and sent them to court. [@1,2,3]
