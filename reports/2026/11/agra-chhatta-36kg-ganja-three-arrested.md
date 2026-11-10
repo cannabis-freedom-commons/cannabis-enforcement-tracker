@@ -70,52 +70,52 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-09
     language: hi
+  - title: आगरा में अंतरराज्यीय गांजा तस्करी गैंग का पर्दाफाश, तीन गिरफ्तार; 36 किलो गांजा बरामद
+    url: https://navbharatlive.com/uttar-pradesh/agra/agra-chhatta-police-interstate-smuggling-gang-busted-36-kg-cannabis-seized-npp09
+    publisher: Navbharat Live
+    date: 2026-11-10
+    language: hi
 open_questions:
-  - Only one accessible source was found for this event; no agency statement or second outlet account could be opened.
-  - The Rs 25 lakh figure is reported as the value in the international market without saying who estimated it.
-  - No court production, trial or sentence was reported, and the buyer Vijay was still being sought when the article was published.
-  - The opened text of this shorter Bhaskar version names no police station, exact date of arrest or accused, so the match rests on the three arrests, the 36 kg and the Rs 25 lakh estimate.
-  - Amar Ujala calls the Rs 25 lakh figure the estimated international value without naming who estimated it, so the existing open question on that estimate stands.
-  - The intended buyer Vijay had not been arrested and no charges, trial date or court outcome were reported.
-  - The page's photo is captioned only with the headline and credited to Samvad News Agency; it is not confirmed as showing the seized consignment.
-  - Amar Ujala describes the Rs 25 lakh figure as the estimated international value without saying who estimated it, so the open question on that estimate remains.
-  - The page is a video item and its lead image is captioned only with the headline; it is not confirmed as showing this seizure.
-  - 'The report''s open question that only one accessible source was found is no longer accurate: Dainik Bhaskar, two Amar Ujala articles and an Amar Ujala video item have all been opened for this arrest, which now rests on two outlets.'
-  - Amar Ujala describes the Rs 25 lakh as the estimated international-market value without naming who estimated it.
-  - 'Left out, as its quotation was not found in Amar Ujala: On questioning, the accused said they had brought the ganja from the Dedh Bazaar bus stand area of Brahmapur in Odisha.'
-  - 'Left out, as its quotation was not found in Amar Ujala: The arrest team was led by the Chhatta station house officer and included four sub-inspectors and two head constables.'
+    - No agency statement could be opened; the account rests on the Dainik Bhaskar and Amar Ujala reports and the Navbharat Live article.
+    - The Rs 25 lakh figure is reported as the value in the international market without saying who estimated it.
+    - No court production, trial or sentence was reported, and the buyer Vijay was still being sought when the article was published.
 media:
   - kind: photo
     url: https://www.amarujala.com/uttar-pradesh/agra/agra-interstate-ganja-smuggling-racket-busted-2026-11-09
     media_url: https://staticimg.amarujala.com/assets/images/2026/11/09/gaja-tasakara-ka-bugdha-natavaraka-ka-khalsa_fc52d5cf72264c86206518f7e9adfa69.jpeg?w=674&dpr=2.0&q=80
     publisher: Amar Ujala
     caption: 'Picture captioned ''Agra: Interstate Ganja Smuggling Racket Busted'' on the Amar Ujala report of the Chhatta police seizure of 36 kg of ganja, credited to Samvad News Agency. Photo: Samvad News Agency'
+  - kind: photo
+    url: https://navbharatlive.com/uttar-pradesh/agra/agra-chhatta-police-interstate-smuggling-gang-busted-36-kg-cannabis-seized-npp09
+    media_url: https://media.assettype.com/navbharatlive%2F2026-11-10%2Fj4qjg0jv%2FAgra-Cannabis-Smuggler-Arrested.jpeg?w=768&auto=format%2Ccompress&fit=max
+    publisher: Navbharat Live
+    caption: 'Police with the seized ganja and three arrested men after the Chhatta police operation in Agra. Photo: Navbharat Live'
 ---
 
 The checking drive was carried out on the police commissioner's directions
 during the festival season. [@1] On 8 November, Chhatta police were checking
-suspicious vehicles and people along the Yamuna bank. [@1] Police spotted three
+suspicious vehicles and people along the Yamuna bank. [@1,6] Police spotted three
 youths moving about suspiciously, stopped them for questioning, and found them
 nervous. [@1] The three were searched in the presence of the Assistant
 Commissioner of Police for Chhatta, and ganja was recovered from them. [@1,3]
 
 Chhatta police in Agra arrested three members of an interstate gang that
-trafficked ganja into the city. [@1,2,3] Police seized 36 kg of ganja from their
-possession. [@1,2,3,4] The seized ganja was reported to be worth about Rs 25 lakh.
-[@1,2,3] Police also seized three mobile phones and Rs 490 in cash. [@1,3] The three
+trafficked ganja into the city. [@1,2,3,6] Police seized 36 kg of ganja from their
+possession. [@1,2,3,4,6] The seized ganja was reported to be worth about Rs 25 lakh.
+[@1,2,3,6] Police also seized three mobile phones and Rs 490 in cash. [@1,3,6] The three
 were taken into custody and a case was registered against them at Chhatta police
 station under the NDPS Act. [@1]
 
 On questioning, the accused said they had brought the ganja from the Dedh Bazaar
-bus stand area of Brahmapur in Odisha. [@1,3] They were waiting near the Yamuna to
+bus stand area of Brahmapur in Odisha. [@1,3] The men said they had collected the consignment from the Dedh Bazaar bus stand in Brahmapur, Odisha. [@6] They were waiting near the Yamuna to
 hand the ganja to a Free Ganj resident named Vijay, for whom police are now
-searching. [@1,3] The arrested men were identified as Somil alias Prem Kushwah of
+searching. [@1,3,6] The arrested men were identified as Somil alias Prem Kushwah of
 Prakash Nagar, Etmad-daula, Vivek of Bulandshahr, and Satyam Gupta of Rewa,
 Madhya Pradesh. [@1] They used to bring cheap ganja from Odisha and sell it at
 higher prices in Agra and nearby districts. [@1] Police are now gathering
-information about other members of the gang and its buyers. [@1]
+information about other members of the gang and its buyers. [@1] Police are trying to establish who else is part of the network and where in Agra the drugs were to be supplied. [@6]
 
-A case was registered at Chhatta police station as crime number 160 of 2026 under sections 8 and 20 of the NDPS Act. [@3]
+A case was registered at Chhatta police station as crime number 160 of 2026 under sections 8 and 20 of the NDPS Act. [@3,6]
 
 Chhatta police carried out the operation on 8 November 2026. [@4]
 
