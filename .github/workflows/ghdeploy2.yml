@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Deploy to GitHub Pages New
 
 on:
   # every push to main: the backend's publication batches (backend/internal/worker/batch.go) and
