@@ -103,38 +103,26 @@ sources:
     publisher: Do Took Media
     date: 2026-11-09
     language: hi
-open_questions:
-  - Both opened pages carry the same IANS text, so the account rests on a single agency statement and no independent outlet reporting of the arrest was found.
-  - Police describe a 2024 NDPS case against one of the three, Wasim, in Hapur district, but its outcome is not reported.
-  - No remand, charge sheet or court outcome is reported; the case is recorded at the investigation stage.
-  - The exact spot on Golden Grand Road is not specified, so coordinates are for Bisrakh and the precision is locality.
-  - 'Left out, as its quotation was not found in Amar Ujala: According to the police account, the men brought ganja cheaply from Odisha and other areas with one other accomplice and delivered it by car to local youths and people who enjoy smoking ganja.'
-  - 'Left out, as its quotation was not found in Amar Ujala: Police identified the three arrested men as Alam Khan, 30, of Ghaziabad; Wasim, 26, of Baghpat; and Lakshya Rathore, 19, of Chotpur Colony under Sector-63 police station in Noida.'
-  - Live Hindustan gives the same 55 kg 124 g and ₹55 lakh figures as the outlets already cited in the report, so it restates the police account rather than adding an independent figure.
-  - The earlier Hapur case is given only as a 2024 case number with NDPS sections; its outcome remains unreported.
-  - The page repeats the earlier Hapur district NDPS case against Wasim but gives its number as 649/2024 with sections 8/20/29/37; its outcome remains unreported.
-  - The page gives no remand, charge sheet or court outcome; the case stays at the investigation stage.
-  - Dainik Bhaskar states that the page was auto-published from a news agency feed without editing, so it reproduces agency copy rather than independent reporting.
-  - Dainik Bhaskar gives no remand, charge sheet or court outcome; the case stays at the investigation stage.
-  - Amar Ujala does not say how many other gang members police are seeking or give any remand, charge sheet or court outcome.
-  - Live Hindustan gives the same 55 kg 124 g and ₹55 lakh figures and does not add a remand, charge sheet or court outcome; the case remains at the investigation stage.
-  - The page's image is captioned only with the headline and credit is not given, so it is not used as an event photo.
-  - Do Took Media gives no remand, charge sheet or court outcome; the case stays at the investigation stage.
+  - title: Telegram पर गांजे का ऑर्डर, ई-कॉमर्स पैकेट में डिलीवरी... नोएडा में 55 लाख की तस्करी का भंडाफोड़
+    url: https://www.aajtak.in/uttar-pradesh/story/greater-noida-drug-racket-cannabis-traffickers-arrested-order-received-from-telegram-lcly-strc-2692564-2026-11-10
+    publisher: Aaj Tak
+    date: 2026-11-10
+    language: hi
 ---
 
 Police in Gautam Buddh Nagar district arrested three men accused of smuggling
 ganja on 9 November 2026, in a joint operation by the SWAT team and Bisrakh
-police station. [@1,3,5,6,7,9,11] The three were arrested at an under-construction building
+police station. [@1,3,5,6,7,9,11,12] The three were arrested at an under-construction building
 on Golden Grand Road in Bisrakh, in Greater Noida. [@2,3,4,5,6,7,9] The operation was
 carried out on input from local intelligence and beat policing, the police
 account said. [@2,6,7]
 
 Police seized 55 kg 124 g of ganja from them, which they estimated to be worth
-about ₹55 lakh. [@2,3,4,5,6,7,8,9,11] Officers also recovered a Hyundai Aura car used to supply
-the drug and three mobile phones. [@1,5,7]
+about ₹55 lakh. [@2,3,4,5,6,7,8,9,11,12] Officers also recovered a Hyundai Aura car used to supply
+the drug and three mobile phones. [@1,5,7,12]
 
 According to the police account, the men bought ganja cheaply in Odisha and
-other areas and packed it in e-commerce parcels to conceal it. [@2,4,6,7,9,11] Police said
+other areas and packed it in e-commerce parcels to conceal it. [@2,4,6,7,9,11,12] Police said
 they delivered ganja door to door on demand through the Telegram messaging app
 and online parcel services, as well as by car. [@2,3,4,6,7,9]
 
@@ -145,7 +133,7 @@ Garhmukteshwar police station in Hapur district. [@2,3,5,6,7] Investigators were
 to establish how many other people are linked to the network and where the ganja
 was supplied. [@1,6,7]
 
-Police said the men had been running the operation for the past two years, taking bookings through the Telegram app. [@3,9]
+Police said the men had been running the operation for the past two years, taking bookings through the Telegram app. [@3,9,12]
 
 Bisrakh police station registered the case, numbered 846/2026, under sections 8 and 20 of the NDPS Act. [@6]
 
