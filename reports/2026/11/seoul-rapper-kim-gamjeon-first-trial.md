@@ -47,11 +47,18 @@ sources:
     publisher: 헤럴드경제
     date: 2026-11-10
     language: ko
+  - title: '''집유 중 미성년 대마 거래'' 김감전, 혐의 일부 인정..."미성년자인 줄 몰랐다"'
+    url: https://tvreport.co.kr/breaking/article/1089745/
+    publisher: TV리포트
+    date: 2026-11-10
+    language: ko
+open_questions:
+  - Sources give different per-cartridge prices for the alleged sales of liquid cannabis cartridges to A.
 ---
 
 Rapper Kim Sang-min, who performs as Kim Sang-min he can dare be called a legend
 and is known as Kim Gam-jeon, went on trial detained on cannabis charges at the
-Seoul Western District Court on 10 November 2026. [@1,3,5] Kim joined Indigo Music, founded and headed by Swings, in 2022. [@5] The first trial was heard by Criminal Division 12 of the Seoul Western District Court, presided over by chief judge Choi Jeong-in. [@5] The 22-year-old is
+Seoul Western District Court on 10 November 2026. [@1,3,5] Kim joined Indigo Music, founded and headed by Swings, in 2022. [@5] The first trial was heard by Criminal Division 12 of the Seoul Western District Court, presided over by chief judge Choi Jeong-in. [@5,6] The 22-year-old is
 accused of selling one liquid cannabis cartridge each to a person identified as
 underage, known as A, for 400,000 won in December last year and 450,000 won in
 January this year. [@1,5] Prosecutors also say he gave A one liquid cannabis
@@ -69,11 +76,11 @@ merely took back cannabis he had earlier given A rather than handing over more,
 according to News1. [@2,4] Prosecutors applied to call A as a witness, and the
 defence applied to call a person known as B, said to have introduced A to Kim as
 an adult. [@1] The court set the next hearing for 3 p.m. on 10 December 2026.
-[@1,3,4]
+[@1,3,4,6]
 
 Kim was sentenced to eight months in prison at first instance in December 2024
 for smoking cannabis with an acquaintance in a Seoul parking lot in May 2024,
 and an appeal court reduced the term in April 2025 to eight months suspended for
-two years. [@1,4,5] Under the Narcotics Control Act, giving cannabis to a minor or
+two years. [@1,4,5,6] After his release, he applied for Mnet's Show Me The Money 12 this year and continued his activities. [@6] Under the Narcotics Control Act, giving cannabis to a minor or
 having a minor smoke or consume it carries a fixed term of at least two years in
 prison, News1 reported. [@2]
