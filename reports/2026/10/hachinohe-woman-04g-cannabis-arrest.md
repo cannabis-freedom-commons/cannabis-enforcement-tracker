@@ -56,21 +56,27 @@ sources:
     publisher: 青森放送NEWS NNN
     date: 2026-11-10
     language: ja
+  - title: 大麻所持疑い、動画配信業の女逮捕／八戸署など
+    url: https://www.daily-tohoku.news/archives/CNTS2026111000937
+    publisher: デーリー東北
+    date: 2026-11-10
+    language: ja
 open_questions:
   - The 0.4 grams is reported as an approximate amount (およそ0.4グラム), not an exact laboratory-confirmed weight.
   - No weight or volume was given for the seized bottle of cannabis liquid, so it is not counted in the cannabis weight figure.
   - No court outcome, charge beyond the reported suspicion of violating the drug control law, or detention status was reported.
   - Only the RAB Aomori Broadcasting account and its republications could be opened; no independent second outlet account was found.
+  - The Daily Tohoku article is member-only beyond its opening lines, so it gives no weight, amount or further details of the arrest.
 ---
 
 Hachinohe police arrested a 30-year-old woman who works in video distribution at
 her home in Konakano 4-chome, Hachinohe. [@2,3] The arrest was made on suspicion
 of possessing about 0.4 grams of cannabis at her Hachinohe home shortly before
-10:30 p.m. on 21 October 2026. [@1,3]
+10:30 p.m. on 21 October 2026. [@1,3,4]
 
 She admitted the allegation, telling police she possessed the cannabis for her
 own use. [@1,3] A search of her home seized several items of cannabis
 paraphernalia including rolling papers and one bottle of cannabis liquid. [@1,3]
 
 The Hachinohe Police Station is investigating how she obtained the cannabis.
-[@1,3]
+[@1,3,4]
