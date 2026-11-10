@@ -50,6 +50,11 @@ sources:
     publisher: Eidisis.gr
     date: 2026-11-10
     language: el
+  - title: 'Θεσσαλονίκη: Συνελήφθη άνδρας με πάνω από 8 κιλά κάνναβης – Καλλιεργούσε και δενδρύλλιο 2 μέτρων'
+    url: https://www.thestival.gr/eidiseis/astynomika/thessaloniki-synelifthi-andras-me-pano-2/
+    publisher: Thestival
+    date: 2026-11-10
+    language: el
 open_questions:
   - No court outcome after the referral to the investigating judge was reported.
   - No street value for the seized cannabis was published.
@@ -57,17 +62,16 @@ open_questions:
 
 Officers of the Kilkis Crime Prosecution and Clearance Department arrested a
 Greek man at midday on 9 November 2026 in the Thessaloniki area for drug-law
-violations. [@2] The man was 52 years old and was arrested in an area near
+violations. [@2,3] The man was 52 years old and was arrested in an area near
 Vrasna. [@1] With the case file formed against him, he was taken to the
 Thessaloniki First-Instance Prosecutor, who referred him to the investigating
-judge. [@2]
+judge. [@2,3]
 
 Police said that after coordinated action they located the man and seized
-cannabis from the storehouse of his home. [@2] Officers seized quantities of
+cannabis from the storehouse of his home. [@2,3] Officers seized quantities of
 semi-green raw cannabis intended for drying, weighing 7 kilograms and 177 grams.
-[@1] They also seized one package of raw cannabis weighing 1 kilogram and 125
-grams. [@1]
+[@1,3] They also seized one package of raw cannabis weighing 1 kilogram and 125
+grams. [@1,3]
 
 In a plot next to his home, police found him growing one 2-metre-tall cannabis
-plant, which was uprooted and seized. [@2]
-
+plant, which was uprooted and seized. [@2,3]
