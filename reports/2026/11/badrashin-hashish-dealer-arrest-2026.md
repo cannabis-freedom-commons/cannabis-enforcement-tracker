@@ -54,6 +54,11 @@ sources:
     publisher: اليوم السابع
     date: 2026-11-10
     language: ar
+  - title: التحقيق مع متهم بالاتجار في الحشيش بعد ضبطه بالبدرشين - بوابة دار المعارف الإخبارية.. بوابة إلكترونية تهدف إلى إثراء المحتوى الرقمي العربي من خلال الفنون والقوالب الصحفية المتنوعة والمتميزة
+    url: https://daralmaref.com/News/2606778.aspx
+    publisher: دار المعارف
+    date: 2026-11-10
+    language: ar
 ---
 
 Detectives of the Giza Security Directorate arrested a suspected hashish dealer
@@ -61,9 +66,9 @@ in Badrashin, south of Giza, before he could distribute the drug to his
 customers. [@1,2,3,4] Police at Badrashin police station received information that an
 unemployed man was trafficking narcotics in the station's area. [@1,3,4] After
 verifying the information and locating him, officers detained the suspect under
-legal procedures. [@1,4]
+legal procedures. [@1,4,5]
 
 He was found with a large quantity of hashish prepared for sale, cash described
-as proceeds of sale, and a mobile phone used to contact customers. [@1,2,3,4] Police
+as proceeds of sale, and a mobile phone used to contact customers. [@1,2,3,4,5] Police
 filed a report on the arrest and referred the case to the competent prosecution,
 which began its investigation. [@1,2,4] The prosecution ordered the seized items to be examined to determine their nature, kept the hashish, cash and phone in custody, and is continuing investigations to establish the circumstances and the source of the drugs. [@3,4]
