@@ -86,14 +86,41 @@ sources:
     url: https://www.wansom.ai/briefly/news/ndlea-edo-drug-arrests-october-2026-75-held-16-tonnes_985f61b5-4f9f-4519-8130-ed3e5ab4e511
     publisher: Briefly by Wansom
     date: 2026-11-09
+  - title: NDLEA ‌‍‌‍⁠⁠‍‍‌⁠⁠‌‌arrests 75 suspects, uncovers 16.8 tonnes of illicit drugs in Edo
+    url: https://blueprint.ng/ndlea-%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0arrests-75-suspects-uncovers-16-8-tonnes-of-illicit-drugs-in-edo/
+    publisher: Blueprint Newspapers Limited
+    date: 2026-11-10
 open_questions:
-  - No raid dates were given; 9 November 2026 is the date the October results were released.
-  - The 14,322 kg is the command's estimate of the destroyed farms' yield, not a weighed seizure, and no plant counts or per-farm areas were given.
-  - Some headlines give a total of about 16.8 tonnes, which adds the estimated yield to the seized weight.
-  - Apart from the Otuo car, the cannabis seized cannot be assigned to particular cases.
-  - It is not clear whether the Otuo car is the same as the 5 October seizure at Otuo recorded in another report.
-  - No charges or court dates were reported for the 75 arrested; it is not said whether the 14 charged are among them, or which cases produced the six convictions and with what sentences.
-  - Every account reproduces the command's statement.
+  - The bulletin does not give a single raid date; 9 November 2026 is the publication date, when the commander presented the October results, and stands in for the incident date.
+  - The article gives no count of plants destroyed; 14,322.0475 kg is the command's estimated yield of the destroyed farms, not a weighed cannabis seizure, and is not recorded as a figure.
+  - The eight farms are described only by area and location; the article does not give a hectare figure for each farm.
+  - No charges, remand decisions or court dates were reported for the 75 people arrested.
+  - The 2,496.11791 kg seizure total covers all illicit substances; only the 2,492.6973 kg cannabis share is recorded, and the report cannot attribute a cannabis figure to any single seizure other than the Otuo load.
+  - The page's single image is captioned only with a file name (IMG 20261109 161652) and carries no credit, so it is not confirmed to show these seizures or farms and no media entry is added.
+  - Only this outlet's account of the October results was available, and it reproduces the commander's statement rather than independent reporting.
+  - The article does not say which six cases produced the convictions or what sentences were given.
+  - The 14,322.0475 kg is the command's estimated yield of the destroyed farms, not a weighed seizure, so it is not recorded in figures.
+  - The article gives no count of plants destroyed and no separate raid date; 9 November 2026 is the publication date when the October results were presented.
+  - It is not clear whether the Otuo car interception is the same 5 October 2026 seizure at Otuo recorded in the separate Otuo truck report.
+  - The article gives the counselling totals for 47 clients and 12 in rehabilitation, but not which counsellee or conviction the figures relate to beyond the October period.
+  - The 16.8 tonnes headline combines the seized weight and the estimated yield of destroyed farms; neither is treated as a separate measured cannabis seizure beyond the figures already recorded.
+  - The Daily Trust account gives 16,818.17 kg of illicit drugs as the headline total, which combines seized substances with the estimated yield of destroyed farms; only the 2,492.6973 kg cannabis share is recorded as a cannabis seizure.
+  - Daily Trust does not state whether the 14 people charged are among the 75 arrested during October.
+  - P.M. News reproduces the same NDLEA Edo command statement as the sources already cited, so it is not independent reporting.
+  - The page image caption does not state which seizure the car photographed belongs to; the text names the Otuo Toyota Camry as the principal vehicle seizure of the month.
+  - The Point NG reproduces the Edo command's statement, like the outlets already cited, and adds no independent reporting on the October figures.
+  - The Point NG names five farm sites but still gives no per-farm area or plant count, and no separate raid dates.
+  - The Point NG page carries two images whose captions are bare file names with no credit, so neither is confirmed to show these seizures or farms and no media entry is added.
+  - The People's Gazette uses NAN's rounded command figures (2,496.12 kg of seized substances, 14,322.05 kg of destroyed cannabis, 5.73 hectares) while the existing report records the finer totals; the finer figures are kept.
+  - The article does not say what happened to the six cups of cannabis brownies or where they were found.
+  - Punch gives no separate date for the October operations; 9 November 2026, the Monday the commander presented the statistics, is the publication date.
+  - The Punch photographs carry only the bare caption 'Some recovered exhibits' with no credit, so they are not confirmed to show a specific seizure or farm.
+  - The report already cites a photograph of a confiscated car from P.M. News; whether the lead Punch image is the same NDLEA handout could not be established.
+  - Punch does not say which six cases produced the convictions or what sentences were given.
+  - Blueprint reproduces the same NAN copy of the Edo command's statement as the outlets already cited, so it is not independent reporting on the October figures.
+  - Blueprint gives no separate date for the October operations; 10 November 2026 is its publication date, and the commander presented the monthly statistics in Benin on the preceding Monday.
+  - Blueprint does not state whether the 14 people charged are among the 75 arrested during October, or what happened to the three suspects detained with the Otuo load.
+  - The page's single image is captioned only 'Edo-State-map-1280x720', a map of Edo State, so it is not confirmed to show any of these raids or seizures and no media entry is added.
 media:
   - kind: photo
     url: https://pmnewsnigeria.com/2026/11/09/ndlea-arrests-75-suspects-seizes-16-8-tonnes-of-drugs-in-edo/
@@ -102,25 +129,38 @@ media:
     caption: 'Photograph published with the NDLEA Edo October results, captioned ''The confiscated car stocked with substance suspected to be illicit drug''. Photo: P.M. News'
 ---
 
-Nigeria's National Drug Law Enforcement Agency (NDLEA) in Edo State said its October 2026 operations
-arrested 75 suspected drug traffickers, 54 men and 21 women. [@1,2,3,4,5,6,9,10] State commander Mitchell
-Ofoyeju said in a statement in Benin on Monday that the command seized 2,496.11791 kg of illicit
-substances during the month, including 2,492.6973 kg of cannabis. [@1,3,4,5,6,7,8,9,10] Other recoveries
-included six cups of cannabis brownies. [@5,7,9]
+Nigeria's National Drug Law Enforcement Agency (NDLEA) in Edo State said its
+October 2026 operations arrested 75 suspected drug traffickers, 54 men and 21
+women. [@1,2,3,4,5,6,9,10,12] State commander Mitchell Ofoyeju said the command seized 2,496.11791
+kg of illicit substances during the month, including 2,492.6973 kg of cannabis.
+[@1,3,4,5,6,7,10,12]
 
-He said eight cannabis farms covering 5.728819 hectares, with an estimated yield of 14,322.0475 kg, were
-found and destroyed across the state. [@1,2,3,4,5,6,7,9,10] They were in Uzebba Forest, Ukhuise-Osi
-Community and Ugbada Forest in Owan West, Ugboshi Ele Forest in Akoko Edo, and Eco Camp, Illushi, in
-Esan South-East. [@1,2,3,5,6]
+He said eight cannabis farms covering 5.728819 hectares, with an estimated yield
+of 14,322.0475 kg, were identified and destroyed across the state. [@1,2,3,4,5,6,7,9,10,12] The
+destroyed farms were in Uzebba Forest, Ukhuise-Osi Community and Ugbada Forest
+in Owan West, Ugboshi Ele Forest in Akoko Edo, and Eco Camp, Illushi, in Esan
+South-East. [@1,2,3,5,6,12]
 
-Among the seizures was a black Toyota Camry stopped at Otuo, Owan East, carrying 1,049 compressed blocks
-of cannabis weighing 702.83 kg. [@1,2,3,4,5,10] Three people were arrested with that load: Monday Orji,
-52, Monday Lawal, 40, and Precious Uduegele, 20. [@1]
+Among the seizures was a black Toyota Camry stopped at Otuo, Owan East, carrying
+1,049 compressed blocks of cannabis weighing 702.83 kg. [@1,2,3,4,5,10,12] Three people were
+arrested with that load: Monday Orji, 52, Monday Lawal, 40, and Precious
+Uduegele, 20, two men and a woman. [@1]
 
-Ofoyeju said the command won six convictions and filed 14 cases in court, with 103 cases still pending.
-[@1,2,3,4,5,6,11] Its counselling unit counselled 47 clients, 33 men and 14 women, and returned them to
-their families, while 12 others were in rehabilitation and vocational training. [@3,6,8] It also ran 10
-awareness programmes in schools, places of worship, markets and public places in Benin City, reaching
-5,293 people. [@7,8] The figures were released after NDLEA chairman Mohamed Buba Marwa visited the
-command and told officers to step up intelligence-led operations against drug cartels in the state.
-[@1,5,8]
+Ofoyeju said the command won six convictions and filed 14 cases in court, with
+103 cases still pending. [@1,2,3,4,5,6,12] The figures were presented when NDLEA chairman
+Mohamed Buba Marwa visited the command and told officers to intensify
+intelligence-led operations against drug cartels in the state. [@1]
+
+The command's Counselling, Treatment and Rehabilitation Unit counselled 47 clients, 33 men and 14 women, and returned them to their families, while 12 others were undergoing rehabilitation and vocational training. [@3,6,8]
+
+Six cups of cannabis brownies were among the other substances recovered in the October operations. [@5,12] The figures were released after NDLEA chairman Mohamed Buba Marwa charged the command during his official visit to intensify intelligence-led operations in the state. [@5]
+
+Six cups of cannabis brownies were among the other substances the Edo command recovered during the October operations. [@7,9] The command also ran 10 sensitisation programmes in schools, worship centres, markets and public places in Benin City that reached 5,293 people, 2,324 men and 2,969 women. [@7,8]
+
+The statistics were released in a statement on Monday by the Commander of Narcotics, Mitchell Ofoyeju, who described the visit of the agency's Chairman, Mohammed Buba Marwa, as a catalyst for the command's fight against drug traffickers. [@8]
+
+The figures were given in a statement in Benin on the Monday by the command's State Commander, Dr Mitchell Ofoyeju. [@9]
+
+The command reported six convictions in October 2026 and said 103 cases were still pending in court. [@11]
+
+Three suspects were arrested with the Otuo load of 702.83 kg of cannabis. [@12]
