@@ -152,6 +152,10 @@ sources:
     url: https://www.asiaone.com/malaysia/3-malaysians-arrested-76kg-cannabis-seizure-mauritius-airport
     publisher: AsiaOne
     date: 2026-11-10
+  - title: 'Mauritius drug haul: Malaysian couple paid RM1,000 per suitcase'
+    url: https://www.nst.com.my/news/nation/2026/11/1574586/mauritius-drug-haul-malaysian-couple-paid-rm1000-suitcase
+    publisher: New Straits Times
+    date: 2026-11-10
 open_questions:
   - The article was published on 4 November 2026 but dates the seizure to “ce mardi”, so 3 November 2026 is used as the incident date.
   - No amount or currency was given for the seized foreign currency, so no value is recorded.
@@ -204,6 +208,10 @@ open_questions:
   - The page's only picture is credited to Malay Mail and carries no caption tying it to a specific photograph of the haul, so no media entry is added.
   - The page reports no charge, court appearance or outcome for the three suspects.
   - The page gives 17.88 kg for the separate 23 October Malaysian chef case and 6.18 kg for the September case of a 76-year-old Malaysian, and mixes those figures into its context paragraphs; they belong to their own separate reports.
+  - Malaysian police give about 65 kg for the couple's 60 packets and 10 packets for the third suspect without a separate weight, while the Mauritius Revenue Authority gives 76.14 kg in 70 packets for the three together; the report keeps the Revenue Authority total.
+  - The page headlines a 'couple' but describes three Malaysians; the couple's share of about 65 kg is given as a gross weight and may include packing.
+  - The New Straits Times reports no charge, court appearance or outcome for the three suspects.
+  - The page's only picture is captioned COURTESY PIC with no credit identifying what it shows, so no media entry is added.
 ---
 
 Three Malaysian nationals who arrived on flight EK 709 from Dubai were searched
@@ -242,3 +250,5 @@ The 55-year-old Malaysian cook arrested at the same airport on 23 October had ar
 Three Malaysians were arrested upon arrival in Mauritius on Nov 2 after authorities found 76.14kg of cannabis in their luggage. [@14] The Mauritius Revenue Authority said the Malaysians arrived at Sir Seewoosagur Ramgoolam International Airport on Nov 2 before being flagged for further checks. [@14] The 30-year-old man, who reportedly lives and works as a security officer in Singapore, was found carrying about 10.9kg of the drug. [@14] The three suspects travelled on Emirates flight EK709 from Dubai and were held at Sir Seewoosagur Ramgoolam International Airport. [@10]
 
 The three arrived in Mauritius on an Emirates flight from Dubai on 2 November 2026. [@17]
+
+Bukit Aman Narcotics Criminal Investigation Department director Datuk Hussein Omar Khan said the 22-year-old man and the 18-year-old woman, both from Penang, were recruited after making contact with an individual on the RedNote app and then being reached on Telegram. [@21] The recruiter offered RM1,000 for each suitcase delivered to Mauritius and arranged and paid for the couple's flight tickets and hotel stay. [@21] The couple agreed to carry four suitcases, two each, and were told to collect them in Bangkok, Thailand, before flying on to Mauritius via Dubai, Hussein said. [@21] They were also told to install the Life360 location app so the person coordinating the delivery could monitor their movements, and they sent copies of their passports over Telegram. [@21] Checks on the couple's luggage found 60 plastic packets of suspected cannabis with a gross weight of about 65 kg, and Apple tracking devices were found inside each suitcase carried by one of the suspects. [@21] The third suspect, a 30-year-old man from Sabah who works in Singapore, was arrested with 10 plastic packets, and police said he had found a job advertisement on Facebook in Singapore before being contacted on Telegram. [@21] Hussein said none of the three suspects had previous criminal records, and that the couple had booked five days at the Domaine de Grand Baie Hotel for a holiday. [@21] The three Malaysians were arrested at 2.35pm on 2 November 2026, shortly after arriving on Emirates flight EK709 from Dubai, in an operation by the Anti-Drug and Smuggling Unit with Mauritius Customs, Hussein said. [@21] The couple found after their arrest that conversations in their Telegram group had been deleted or that the person believed to be the syndicate leader had left the group, Hussein said. [@21]
