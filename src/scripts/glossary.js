@@ -2,11 +2,14 @@ import { glossaryParts, GLOSSARY_SKIP } from "../lib/glossary.js";
 
 const main = document.querySelector("main");
 if (main) {
-  let tip, current, hideTimer, scanTimer;
+  let tip, current, hideTimer, scanTimer, showTimer;
+  // a pointer resting on a term for a second opens its explanation (not one passing over the text);
+  // while one is open, the next term shows at once
+  const SHOW_DELAY = 1000;
   let touchFocus = false;
   const pending = new Set();
   function hide() {
-    clearTimeout(hideTimer);
+    clearTimeout(hideTimer); clearTimeout(showTimer);
     current?.removeAttribute("aria-describedby"); current = null;
     if (tip) tip.hidden = true;
   }
@@ -43,8 +46,19 @@ if (main) {
     tip.style.top = `${Math.max(margin, below ? rect.bottom + 8 : rect.top - 8 - height)}px`;
   }
   const termOf = event => event.target instanceof Element ? event.target.closest(".term-g") : null;
-  document.addEventListener("pointerover", event => { const term = termOf(event); if (term && event.pointerType !== "touch") show(term); });
-  document.addEventListener("pointerout", event => { const term = termOf(event); if (term && !term.contains(event.relatedTarget) && !tip?.contains(event.relatedTarget)) hideTimer = setTimeout(hide, 120); });
+  document.addEventListener("pointerover", event => {
+    const term = termOf(event);
+    if (!term || event.pointerType === "touch") return;
+    clearTimeout(showTimer);
+    if (tip && !tip.hidden) show(term);
+    else showTimer = setTimeout(() => show(term), SHOW_DELAY);
+  });
+  document.addEventListener("pointerout", event => {
+    const term = termOf(event);
+    if (!term || term.contains(event.relatedTarget) || tip?.contains(event.relatedTarget)) return;
+    clearTimeout(showTimer);
+    hideTimer = setTimeout(hide, 120);
+  });
   document.addEventListener("pointerdown", event => { touchFocus = event.pointerType === "touch"; }, { capture: true });
   document.addEventListener("focusin", event => { const term = termOf(event); if (term && !touchFocus) show(term); });
   document.addEventListener("focusout", event => { if (termOf(event)) hide(); });

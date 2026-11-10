@@ -8,6 +8,7 @@ import (
 	"path/filepath"
 	"strings"
 
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/safeurl"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/store"
 )
 
@@ -19,20 +20,8 @@ func (s *Server) sourceScreenshot(w http.ResponseWriter, r *http.Request) {
 // public, like the rest of the request, but only to the tracker's own pages (no hotlinking from
 // other sites), and only as a validated image that cannot run anything.
 func (s *Server) sourceFile(w http.ResponseWriter, r *http.Request, name string) {
-	if r.Header.Get("Sec-Fetch-Site") == "cross-site" {
-		problem(w, 403, "Source screenshots are shown on the tracker's own pages.")
+	if !s.ownPage(w, r) {
 		return
-	}
-	if origin := r.Header.Get("Origin"); origin != "" {
-		u, e := url.Parse(origin)
-		allowed := e == nil && loopbackHost(u.Hostname())
-		for _, o := range s.Config.Origins {
-			allowed = allowed || origin == o
-		}
-		if !allowed {
-			problem(w, 403, "origin not allowed")
-			return
-		}
 	}
 	id := r.PathValue("id")
 	if !idPattern.MatchString(id) {
@@ -61,6 +50,61 @@ func (s *Server) sourceFile(w http.ResponseWriter, r *http.Request, name string)
 		}
 		return
 	}
+	s.serveCapture(w, r, dir, name)
+}
+
+// ownPage lets a screenshot go only to the tracker's own pages (no hotlinking from other sites).
+func (s *Server) ownPage(w http.ResponseWriter, r *http.Request) bool {
+	if r.Header.Get("Sec-Fetch-Site") == "cross-site" {
+		problem(w, 403, "Source screenshots are shown on the tracker's own pages.")
+		return false
+	}
+	if origin := r.Header.Get("Origin"); origin != "" {
+		u, e := url.Parse(origin)
+		allowed := e == nil && loopbackHost(u.Hostname())
+		for _, o := range s.Config.Origins {
+			allowed = allowed || origin == o
+		}
+		if !allowed {
+			problem(w, 403, "origin not allowed")
+			return false
+		}
+	}
+	return true
+}
+
+// sourceByURL serves the newest screenshot the research took of a page, found by its address: what a
+// report's source looked like when it was read (the source tooltip on a report page). Only pages
+// the tracker captured itself; an address it never opened has none.
+func (s *Server) sourceByURL(w http.ResponseWriter, r *http.Request) {
+	if !s.ownPage(w, r) {
+		return
+	}
+	raw := r.URL.Query().Get("url")
+	if raw == "" || len(raw) > 4000 {
+		problem(w, 404, "Capture not found.")
+		return
+	}
+	candidates := []any{raw}
+	if normalized, err := safeurl.Normalize(raw); err == nil && normalized != raw {
+		candidates = append(candidates, normalized)
+	}
+	var dir string
+	err := s.Store.Reader().QueryRowContext(r.Context(), `SELECT artifact_dir FROM source_captures WHERE url IN (?`+strings.Repeat(",?", len(candidates)-1)+`) ORDER BY created_at DESC,rowid DESC LIMIT 1`, candidates...).Scan(&dir)
+	if err != nil {
+		if store.IsMissingAI(err) {
+			problem(w, 404, "No captured screenshot is available.")
+		} else {
+			problem(w, 503, "Screenshot unavailable.")
+		}
+		return
+	}
+	s.serveCapture(w, r, dir, "page")
+}
+
+// serveCapture sends one image of a capture's folder inside the research workspaces, checked to be a
+// real image that cannot run anything.
+func (s *Server) serveCapture(w http.ResponseWriter, r *http.Request, dir, name string) {
 	base, err := filepath.Abs(s.Config.Workspaces)
 	if err != nil {
 		problem(w, 503, "Screenshot unavailable.")
