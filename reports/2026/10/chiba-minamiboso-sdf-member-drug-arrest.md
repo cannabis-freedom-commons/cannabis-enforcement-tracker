@@ -76,21 +76,26 @@ sources:
     publisher: NHKニュース
     date: 2026-11-10
     language: ja
+  - title: 自ら119番通報し発覚… 朝霞駐屯地の陸上自衛官ら2人逮捕 路上でMDMAや大麻を所持か 千葉県警
+    url: https://www.msn.com/ja-jp/news/news/%E8%87%AA%E3%82%89119%E7%95%AA%E9%80%9A%E5%A0%B1%E3%81%97%E7%99%BA%E8%A6%9A-%E6%9C%9D%E9%9C%9E%E9%A7%90%E5%B1%AF%E5%9C%B0%E3%81%AE%E9%99%B8%E4%B8%8A%E8%87%AA%E8%A1%9B%E5%AE%98%E3%82%892%E4%BA%BA%E9%80%AE%E6%8D%95-%E8%B7%AF%E4%B8%8A%E3%81%A7mdma%E3%82%84%E5%A4%A7%E9%BA%BB%E3%82%92%E6%89%80%E6%8C%81%E3%81%8B-%E5%8D%83%E8%91%89%E7%9C%8C%E8%AD%A6/ar-AA2h8bX6
+    publisher: TBS NEWS DIG
+    date: 2026-11-10
+    language: ja
 ---
 
 A 24-year-old Ground Self-Defense Force member assigned to Camp Asaka (藤原統真) and
 a 27-year-old unemployed man (神原虎勇太) were arrested on suspicion of possessing
-drugs including cannabis on a road in Minamiboso. [@1,3,4,5,6,7,8] The alleged possession
+drugs including cannabis on a road in Minamiboso. [@1,3,4,5,6,7,8,9] The alleged possession
 took place on a road in Minamiboso, Chiba, in the month before the report was
-published. [@1]
+published. [@1,9]
 
 Police say the two held two tablets containing MDMA and ketamine components, two
 gummy-shaped LSD items and a small amount of dried cannabis, all kept in bags.
 [@1,3,5,6] Police have not disclosed whether the two men admitted or denied the
-allegations. [@1,3,5,6]
+allegations. [@1,3,5,6,9]
 
 Camp Asaka said it would cooperate fully with the police investigation and deal
-strictly based on the facts that become clear. [@1,3,5,6]
+strictly based on the facts that become clear. [@1,3,5,6,9]
 
 Tateyama Police Station of the Chiba Prefectural Police had arrested the men on
 suspicion of violating the Narcotics and Psychotropics Control Law. [@2] The
