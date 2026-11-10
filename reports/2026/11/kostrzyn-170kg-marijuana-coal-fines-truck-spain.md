@@ -49,6 +49,11 @@ media:
     media_url: https://rmf.rmffm.pl/news/attachments/9e/13/article%20(3)-9e13c4c1.jpg
     publisher: RMF24
     caption: 'Seized marijuana packages shown in a second handout image from the customs service. Photo: Małopolska KAS'
+  - kind: photo
+    url: https://ua.news/ru/dovkolo-svitu/u-polshchi-viluchili-ponad-170-kg-marikhuani-z-vantazhivki-z-ispaniyi-rmf24
+    media_url: https://cdn-cabinet.ua.news/uploads/images/poland_seized_over_170_kg_marijuana_in_t_1794294206914.webp?8133576
+    publisher: UA.NEWS
+    caption: Marijuana packages from the load carried by the truck stopped near Kostrzyn, shown in an image republished by UA.NEWS with its summary of the RMF24 report.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 183672db371fe045a0934c77a91ed50e
@@ -63,6 +68,11 @@ sources:
     publisher: RMF24
     date: 2026-11-10
     language: pl
+  - title: В Польше из грузовика из Испании изъяли более 170 кг марихуаны — RMF24
+    url: https://ua.news/ru/dovkolo-svitu/u-polshchi-viluchili-ponad-170-kg-marikhuani-z-vantazhivki-z-ispaniyi-rmf24
+    publisher: UA.NEWS
+    date: 2026-11-10
+    language: ru
 open_questions:
   - No date is given for the stop or the seizure; 10 November 2026 is the publication date of both accounts and stands in for the incident date.
   - The material was identified as marijuana in preliminary tests; no laboratory confirmation was reported.
@@ -75,21 +85,20 @@ open_questions:
 
 Officers of the National Revenue Administration and the Central Bureau of
 Investigation of the Police seized more than 170 kilograms of marijuana near
-Kostrzyn by Poznań. [@1] The drug was hidden beneath a layer of coal fines in a
-truck carrying cargo from Spain to Poland. [@1]
+Kostrzyn by Poznań. [@1,3] The drug was hidden beneath a layer of coal fines in a
+truck carrying cargo from Spain to Poland. [@1,3]
 
 Officers stopped the truck for a routine inspection and found that the coal
 fines shipment had not been entered in the SENT register, which is mandatory for
-such cargo. [@2] In a detailed check of the load they found suspicious big-bag
+such cargo. [@2,3] In a detailed check of the load they found suspicious big-bag
 sacks holding 170 hermetically sealed packages of greenish-brown plant material
-under the coal fines. [@2] Preliminary tests confirmed that the seized material
-was marijuana. [@2]
+under the coal fines. [@2,3] Preliminary tests confirmed that the seized material
+was marijuana. [@2,3]
 
 Krzysztof Wrześniowski, spokesperson for the Central Bureau of Investigation of
 the Police, said the way the packages were hidden was meant to make them hard to
-detect and required a thorough inspection of the cargo. [@2] The services
+detect and required a thorough inspection of the cargo. [@2,3] The services
 estimated the black-market value of the marijuana at more than 3 million zlotys.
-[@2] The truck driver, a Polish citizen, was fined 5,000 zlotys for transporting
-goods without a SENT reference number. [@2] Further work in the case is being
-carried out by the Central Bureau of Investigation of the Police. [@2]
-
+[@2,3] The truck driver, a Polish citizen, was fined 5,000 zlotys for transporting
+goods without a SENT reference number. [@2,3] Further work in the case is being
+carried out by the Central Bureau of Investigation of the Police. [@2,3]
