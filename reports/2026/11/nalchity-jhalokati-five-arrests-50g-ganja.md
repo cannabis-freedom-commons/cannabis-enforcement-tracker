@@ -38,6 +38,11 @@ sources:
     publisher: কালবেলা
     date: 2026-11-10
     language: bn
+  - title: নলছিটিতে পৃথক অভিযানে ইয়াবা-গাঁজাসহ গ্রেফতার ৫
+    url: https://shironam.com/news/5-arrested-with-yaba-ganja-in-separate-operations-in-nalchiti
+    publisher: Shironam (Dhaka Mail)
+    date: 2026-11-10
+    language: bn
 open_questions:
   - Only this single Bangla report of the Nalchity drives could be opened; no police statement or second outlet account was found.
   - The report headlines 45 yaba tablets in total but its text accounts for 40 with the man held on Godanda bridge, and names only four of the five arrested people, so the fifth arrest is unexplained.
@@ -64,8 +69,8 @@ media:
 ---
 
 Police in Nalchity upazila of Jhalokati district arrested five people in
-separate anti-drug drives. [@1,2] The drives ran from the evening into the night
-on Monday 9 November across different areas of the upazila. [@1]
+separate anti-drug drives. [@1,2,3] The drives ran from the evening into the night
+on Monday 9 November across different areas of the upazila. [@1,3]
 
 In a later drive at Tak Bazar police held three more men. [@1] Officers
 recovered 50 grams of ganja in that later drive. [@1]
