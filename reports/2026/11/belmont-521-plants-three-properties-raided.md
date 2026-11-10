@@ -66,6 +66,9 @@ sources:
     url: https://2hd.com.au/articles/over-1million-cannabis-plants-seized/
     publisher: 2HD
     date: 2026-11-10
+  - title: Police hunt people behind cannabis grow houses at Lake Macquarie
+    url: https://www.gloucesteradvocate.com.au/story/9389208/police-uncover-cannabis-grow-houses-at-belmont-lake-macquarie/
+    publisher: Gloucester Advocate
 open_questions:
   - No weight was given for the seized plants, so no kilogram figure is recorded.
   - No arrests or charges were reported; police said inquiries were continuing.
@@ -74,6 +77,12 @@ open_questions:
   - The Herald page carries NSW Police photos of the seizure, but the photo file itself was not opened.
   - 2HD spells the address 'Brook Parade' while the existing report and the police release use 'Brooks Parade'.
   - 2HD does not name the police units that executed the warrants or give the time of the raids.
+media:
+  - kind: photo
+    url: https://www.gloucesteradvocate.com.au/story/9389208/police-uncover-cannabis-grow-houses-at-belmont-lake-macquarie/
+    media_url: https://www.gloucesteradvocate.com.au/images/transform/v1/crop/frm/afalkenmire/006bea96-7ca5-431d-8c06-6d8cdd4ec631.png/r0_0_1920_1079_w1200_h678_fmax.webp
+    publisher: Gloucester Advocate
+    caption: 'Hundreds of cannabis plants seized at Lake Macquarie. Photo: NSW Police'
 ---
 
 Police were called to a home on Brooks Parade in Belmont, in Lake Macquarie,
@@ -83,7 +92,7 @@ the Lake Macquarie Criminal Investigation Unit executed search warrants at that
 home and two neighbouring properties. [@1,3,5]
 
 Police seized 521 mature cannabis plants that had been grown hydroponically.
-[@1,3,4,5] Police put the plants' estimated potential street value at $1,042,000. [@1,3,4,5]
+[@1,3,4,5,6] Police put the plants' estimated potential street value at $1,042,000. [@1,3,4,5,6]
 Officers also seized cultivation equipment and lighting systems. [@1,3,5]
 
 No occupants were found at the homes and police said inquiries were continuing
