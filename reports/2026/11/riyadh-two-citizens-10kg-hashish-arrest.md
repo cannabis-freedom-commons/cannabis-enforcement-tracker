@@ -41,22 +41,21 @@ sources:
     publisher: عاجل
     date: 2026-11-10
     language: ar
-open_questions:
-  - The article gives no separate date for the arrest, so 10 November 2026, its publication date, is used as the incident date.
-  - No weight was published for the cocaine, and no breakdown of the 2,170 regulated tablets was given, so they are excluded from cannabis figures.
-  - The full names and ages of the two citizens were not published.
-  - No charges or court outcome beyond referral to the Public Prosecution were reported.
-  - The whole account rests on a single outlet report of the Narcotics Control action.
+  - title: القبض على مواطنين في الرياض بتهمة ترويج الحشيش والكوكايين وأقراص طبية ممنوعة
+    url: https://www.alestad.com/153155/%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%AA%D8%B1%D9%88%D9%8A/
+    publisher: الاستاد الاخباري
+    date: 2026-11-10
+    language: ar
 ---
 
 The General Directorate of Narcotics Control, Saudi Arabia's anti-drug agency,
 arrested two Saudi citizens in the Riyadh region accused of promoting narcotic
-drugs. [@1] Officers stopped both men, completed the statutory procedures
+drugs. [@1,2] Officers stopped both men, completed the statutory procedures
 against them and referred them to the Public Prosecution for further action.
 [@1]
 
 The agency said the men were promoting 10 kilograms of hashish along with
-cocaine and tablets subject to medical-circulation regulation. [@1] Officers
+cocaine and tablets subject to medical-circulation regulation. [@1,2] Officers
 seized the 10 kilograms of hashish, which is the cannabis component of this
 mixed case, while the cocaine and the 2,170 regulated tablets are excluded from
 cannabis quantities. [@1]
@@ -67,4 +66,3 @@ Madinah, Riyadh and Eastern Province regions and on 999 and 994 in the rest of
 the kingdom. [@1] They also listed the Narcotics Control reports number 995 and
 the email 995@gdnc.gov.sa for such reports, saying all reports are handled with
 complete confidentiality and without any liability for the informant. [@1]
-
