@@ -21,23 +21,31 @@ sources:
     publisher: Habertürk
     date: 2026-11-10
     language: tr
+  - title: 'Bitlis''te ticari takside uyuşturucu ele geçirildi: 1 tutuklama'
+    url: https://www.adanamasasi.com/bitlis-te-ticari-takside-uyusturucu-ele-gecirildi-1-tutuklama/830558/
+    publisher: Adana Masası
+    date: 2026-11-10
+    language: tr
 open_questions:
-  - The suspect's identity, age and role in the taxi, whether driver or passenger, were not reported.
-  - No charge, laboratory result, street value or later court outcome beyond the remand was reported.
-  - No origin, destination or route for the taxi and cannabis was reported.
-  - No second independent account of the Guroymak taxi seizure was opened; the account rests on the governorate statement republished through the agency dispatch.
-  - Left out arrested, as no supporting quotation was given.
-  - Left out kg seized, as no supporting quotation was given.
+    - The suspect's identity, age and role in the taxi, whether driver or passenger, were not reported.
+    - No charge, laboratory result, street value or later court outcome beyond the remand was reported.
+    - No origin, destination or route for the taxi and cannabis was reported.
+media:
+  - kind: photo
+    url: https://www.adanamasasi.com/bitlis-te-ticari-takside-uyusturucu-ele-gecirildi-1-tutuklama/830558/
+    media_url: https://www.adanamasasi.com/images/haberler/2026/11/bitlis39te-ticari-takside-uyusturucu-ele-gecirildi-1-tutuklama.webp
+    publisher: Adana Masası
+    caption: 'Gendarmerie display of the seized 1.05 kg of cannabis and container in Bitlis. Photo: İl Jandarma Komutanlığı via DHA'
 ---
 
 On 5 November, Bitlis provincial gendarmerie teams working against drug sellers
 stopped a taxi at the truck park at the Tahtali village location in Guroymak.
-[@1] A search of the stopped taxi found a can in its trunk containing 1 kilo 50
+[@1,2] A search of the stopped taxi found a can in its trunk containing 1 kilo 50
 grams of esrar, the Turkish word the source uses for cannabis. [@1] The seized 1
 kilo 50 grams amounts to 1.05 kilograms of cannabis taken from the taxi luggage
 compartment in Guroymak, Bitlis. [@1] Officers detained one suspect over the
 trunk-can find, and the judgeship before which the suspect was brought ordered
-remand in custody. [@1]
+remand in custody. [@1,2]
 
 The Bitlis Governorate said the work was carried out by Il Jandarma Komutanligi
 teams under the coordination of the Bitlis Chief Public Prosecutor's Office and
@@ -45,5 +53,4 @@ targeted drug sellers. [@1] The governorate presented the 5 November taxi stop
 and trunk search as one result of that coordinated anti-seller work in the
 Guroymak district of Bitlis province. [@1] The account identifies the control
 point as the truck park in the Tahtali village area and the searched vehicle as
-a taxi. [@1]
-
+a taxi. [@1,2]
