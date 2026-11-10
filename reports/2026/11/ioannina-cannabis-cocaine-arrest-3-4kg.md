@@ -1,0 +1,86 @@
+---
+code: MVHGCP
+added_at: "2026-11-10T10:26:37.847485Z"
+date: 2026-11-09
+country: gr
+place: Ioannina, Epirus
+coordinates: [39.6647, 20.8519]
+precision: locality
+type: arrest
+also: [seizure]
+title: Man arrested in Ioannina with 3.4 kg of cannabis and half a kilo of cocaine
+summary: >-
+  Police in Ioannina arrested a Greek man on the afternoon of 9 November 2026 after officers watched him leave home and put a package of 150.8 grams of raw cannabis beside a rubbish bin. A search of his house found another 3,428.1 grams of cannabis and 514.79 grams of cocaine, and he was to be taken to the city's public prosecutor.
+figures:
+  arrested: 1
+  kg_seized: 3.4281
+details:
+  agency_types: [police]
+  products:
+    - {product: flower, kg: 3.4281}
+  activity: [possession, sale]
+  setting: [home]
+  charges: [possession and trafficking of drugs, offences under the legislation on flares]
+  case_stage: investigation
+  date_precision: exact
+  region: Epirus
+data_sources:
+  details.activity: [2]
+  details.agency_types: [2]
+  details.case_stage: [2]
+  details.charges: [2]
+  details.products: [1]
+  details.setting: [2]
+  figures.arrested: [2]
+  figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://www.protothema.gr/greece/article/1908491/sunelifthi-diakinitis-megalon-posotiton-narkotikon-sta-ioannina-ton-epiasan-me-miso-kilo-kokainis-ka-35-kila-kannavis/
+    media_url: https://i1.prth.gr/images/1168x656/png/files/2026-11-10/narkotika-ioannina.webp
+    publisher: Πρώτο Θέμα
+    caption: Photo published with the report on the Ioannina arrest; it carries no caption or credit identifying the items shown.
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: da2c658996f5cd7af23cd97f7f3774a9
+tags: [ioannina, epirus, cannabis, cocaine, drug-enforcement]
+sources:
+  - title: Συνελήφθη διακινητής μεγάλων ποσοτήτων ναρκωτικών στα Ιωάννινα, τον έπιασαν με μισό κιλό κοκαΐνης και 3,5 κιλά κάνναβης
+    url: https://www.protothema.gr/greece/article/1908491/sunelifthi-diakinitis-megalon-posotiton-narkotikon-sta-ioannina-ton-epiasan-me-miso-kilo-kokainis-ka-35-kila-kannavis/
+    publisher: Πρώτο Θέμα
+    date: 2026-11-10
+    language: el
+  - title: 'Ιωάννινα: Πάνω από μισό κιλό κοκαΐνης και 3,5 κιλά κάνναβης σε σπίτι – Μία σύλληψη'
+    url: https://www.epiruspost.gr/ioannina-pano-apo-miso-kilo-kokainis-k/
+    publisher: EpirusPost.gr
+    date: 2026-11-10
+    language: el
+  - title: 'Ιωάννινα: Πήγε να ξεφορτωθεί τα ναρκωτικά, αλλά έπεσε στα χέρια της ΕΛ.ΑΣ.! Μισό κιλό κοκαΐνης και 3,5 κιλά κάνναβης στο σπίτι του'
+    url: https://todaypress.gr/2026/11/10/ioannina-pige-na-xefortothei-ta-narkotika-alla-epese-sta-cheria-tis-el-as-miso-kilo-kokainis-kai-35-kila-kannavis-sto-spiti-tou/
+    publisher: Todaypress.gr
+    date: 2026-11-10
+    language: el
+open_questions:
+  - The cannabis is described only as raw cannabis (akatergasti kannavi), without saying whether it is herbal or resin.
+  - No street value was published for either the cannabis or the cocaine.
+  - No charge sheet, detention order or court outcome was reported; the man was to be taken to the Ioannina public prosecutor's office.
+  - The accounts reproduce the same Ioannina police announcement rather than independent reporting, so each detail rests on that statement.
+  - The photo published with the report has no caption or credit saying what it shows.
+---
+
+Officers of the Ioannina drug enforcement department arrested a Greek man in the
+city on the afternoon of 9 November 2026. [@2] They stopped him as he left his
+home and put a package holding 150.8 grams of raw cannabis next to a rubbish
+bin. [@2] Police had followed the man after gathering information that he kept
+large quantities of drugs at home to sell to users in the area. [@2]
+
+A search of the house, carried out in the presence of a court official, found
+packages holding 3,428.1 grams of raw cannabis. [@2] The same search found two
+packages of cocaine weighing 514.79 grams in total, which is not counted here as
+cannabis. [@1] Adding the package left by the bin, the cannabis taken in the
+case comes to about 3.58 kilograms. [@3]
+
+A case file was drawn up against him for possession and trafficking of drugs and
+for offences under the law on flares, and he was to be taken to the Ioannina
+public prosecutor's office. [@2] Police gave no information on possible
+accomplices, a network or where the drugs came from. [@3]
+
