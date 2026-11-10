@@ -109,35 +109,12 @@ sources:
     date: 2026-11-08
     language: tr
 open_questions:
-  - The accounts give the raid date only as the previous day; 7 November 2026 is estimated from the 8 November 2026 publication date.
-  - No weight or value was published for the 4 rooted plants, and no value was given for the seized skunk.
-  - The suspect is identified only by the initials K.A.; no charges, plea or trial date were reported.
-  - The drug and the plants are described as skunk, the Turkish media term for high-potency cannabis; no laboratory confirmation was reported.
-  - The accounts opened all reproduce the same DHA dispatch, so they are not independent reporting.
-  - The page photo carries no caption or credit identifying what it depicts, so it is not confirmed to show this seizure.
-  - No figure for the number of climate-control devices or for the room used to grow the plants was published.
-  - 'Left out, as its quotation was not found in Son Kale İzmir: Son Kale İzmir carried the same İzmir provincial gendarmerie account of the search of K.A.''s flat in Balçova and the remand.'
-  - Left out setting, as its quotation was not found in Son Kale İzmir.
-  - Left out case stage, as its only supporting source is not cited by the report's text.
-  - Left out environment, as its only supporting source is not cited by the report's text.
-  - Habererk reproduces the DHA dispatch, the same text carried by the Cumhuriyet and Haberler.com accounts already cited, so it is not independent reporting.
-  - The page gives no separate date for the raid; 7 November 2026 remains an estimate from the 8 November 2026 publication date.
-  - The photo published with the report has no caption or credit beyond the DHA agency mark, so it is not confirmed to show this seizure.
-  - The Haberton page photo carries only the article headline as caption with no credit identifying what it depicts, so it is not confirmed to show this seizure.
-  - Milliyet credits the dispatch to a DHA correspondent and carries the same İzmir provincial gendarmerie account as the outlets already cited, so it is not independent reporting.
-  - The Milliyet page gives no separate date for the raid beyond "the previous day"; 7 November 2026 remains an estimate from the 8 November 2026 publication date.
-  - The Milliyet page photo is captioned only with the article headline and carries no credit identifying what it depicts, so it is not confirmed to show this seizure.
-  - Anadolu Agency credits the dispatch to correspondent Metin Aydemir, while the accounts already cited attribute it to DHA; both carry the same İzmir provincial gendarmerie account.
-  - The Hürriyet page gives no separate date for the raid; only the 8 November 2026 publication time is shown.
-  - Tekha carries the same İzmir provincial gendarmerie account as the DHA dispatch already cited, so it is not independent reporting.
-  - This Haberler version publishes a different page photo from the Haberler.com copy already cited; the image carries only the headline as its caption, so it is not confirmed to show this seizure and is not listed as media.
-  - This account calls the four rooted plants kenevir bitkisi rather than skunk plants and does not mention the grinder reported in other accounts.
-  - This page gives no separate date for the raid; only its 8 November 2026 publication time is shown.
-  - Ege Telgraf credits the text to the Anadolu Agency and names no date for the raid; only its 8 November 2026 publication time is shown, so the 7 November 2026 incident date remains an estimate.
-  - This account calls the 1 kg 219 g a banned substance without naming it skunk, as the DHA dispatch already cited in the report does.
-  - The page gives no charge, plea or trial date for K.A.
-  - The page's image is captioned only with the headline and carries no credit identifying what it depicts, so it is not listed as media.
-  - The Son Dakika page gives no separate date for the gendarmerie raid; 8 November 2026 is its publication time, so the report's estimated 7 November 2026 incident date is unchanged.
+  - The accounts date the raid only to the previous day; 7 November 2026 is estimated from the publication date of 8 November.
+  - No weight or value was given for the four plants, and no value for the skunk.
+  - The suspect is identified only as K.A.; no charge or trial date has been reported.
+  - Skunk is the Turkish media term for strong cannabis; no laboratory result was reported.
+  - The climate-control equipment was not counted or described.
+  - Every account reproduces the same gendarmerie statement, carried by DHA and Anadolu Agency.
 ---
 
 İzmir provincial gendarmerie teams determined that a suspect identified only as

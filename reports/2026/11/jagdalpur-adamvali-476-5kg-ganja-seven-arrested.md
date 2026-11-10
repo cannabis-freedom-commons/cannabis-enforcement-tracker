@@ -165,79 +165,46 @@ sources:
     date: 2026-11-05
     language: hi
 open_questions:
-  - Neither source says whether the three minors were charged alongside the four named adults or dealt with separately under juvenile law.
-  - Haribhoomi describes the accused as residents of Malkangiri in Odisha who were arrested in Chhattisgarh; the articles do not say where they were produced in court or what the court ordered.
-  - Amar Ujala gives the consignment as 476 kg and Haribhoomi as 476 kg 500 g; the report uses Haribhoomi's more precise weight.
-  - The articles do not give the time of day of the interception or the case number.
-  - Lalluram's image has no caption or descriptive alt text establishing that it shows this seizure, so it is not added as event media.
-  - CGKhabar names no accused and does not mention the three minors, so names and juvenile detail continue to rest on earlier sources.
-  - CGKhabar does not give the Adamvali crossing location, sack and packet count, phones, cash, NDPS section or court-production detail, which continue to rest on earlier sources.
-  - Bhaskar's 884 kg 410 g and 5.92-crore total and its Kanker 70-sack and Keshkal 407.910-kg accounts describe separate actions in other districts and are left out of this Jagdalpur report.
-  - 'Left out, as its quotation was not found in Dainik Bhaskar: The cannabis was being taken from Odisha toward Uttar Pradesh.'
-  - 'Left out, as its quotation was not found in Dainik Bhaskar: The intercepted white pickup bore registration number CG 17 KL 0411.'
-  - 'Left out, as its quotation was not found in Dainik Bhaskar: The seized escort motorcycle bore registration number OD 30 B 6256.'
-  - Spellings differ only by transliteration across outlets, such as Adawal for Adamvali, Bodhghat for Boghaghat and Kontamadi for Kantamadi, and do not indicate different places.
-  - Navbharat Live puts the tip-off on the morning of 5 November and does not give the hour of the interception itself.
-  - The article names the four adults' fathers but gives no further identifying detail, and does not say whether the three children were formally charged.
-  - ETV Bharat does not say what the court decided when the seven accused were produced before it.
-  - The ETV Bharat page carries one lead image captioned only as ganja worth crores seized in Bastar, credited to ETV Bharat Chhattisgarh, without identifying the load or place shown.
-  - CGKhabar says Jagdalpur police set up strategic checkpoints across the Bastar region, while the existing account describes a single blockade near Adamvali railway crossing; neither explains whether other checkpoints were involved.
-  - The CGKhabar and Janta Se Rishta pages carry no credit for the lead photograph, which is captioned as the seizure but is not attributed to a photographer or agency.
-  - CG Sandesh gives no hour for the interception beyond the morning of 5 November 2026 and publishes no case or seizure-memo number.
-  - The CG Sandesh lead image carries only the headline as caption with no credit, so it is unclear what it depicts.
-  - GSTV gives no weight for the seized ganja, so the 476.5 kg figure continues to rest on earlier sources.
-  - GSTV gives no interception time or case details beyond detention and further legal proceedings.
-  - The page's combined figure of 884 kg 410 g worth about Rs 5.92 crore spans the Jagdalpur, Kanker and Keshkal actions and is not recorded as this event's figure.
-  - Navabharat's page address and English rendering call the seized substance tobacco, while its Hindi text describes ganja throughout.
-  - Navabharat attributes its account to police sources, names no officer and gives no accused names or court detail.
-  - The page photograph is captioned only with the headline and carries no credit, so it cannot be shown to depict this particular load.
-  - The page's combined total of 884 kg 410 g matches the Jagdalpur 476.5 kg and Keshkal 407.91 kg figures exactly, leaving no weighed contribution from the Kanker 70-bag recovery in that total.
-  - The page gives the Kanker and Keshkal actions only as occurring in the past two days and a day earlier, with no separate calendar dates beyond the Jagdalpur tip-off on 5 November.
-  - Rgh News and Bansal News carry the same roundup text, including the tip-off, the pickup registration and the accused's village, so they are not independent accounts of this interception.
-  - The page's combined total of 884 kg 410 g across the Jagdalpur, Keshkal and Kanker actions leaves no weighed contribution from the Kanker recovery, whose sacks were never weighed in the reports available.
-  - This account rounds the seizure to 476 kg while the report retains the more precise 476.5 kg from earlier sources.
+  - The NDPS section is given as 20(b)(iii)(C) in one account and 20(b)(ii)(C) in others.
+  - No time was given for the interception, and no case number was published.
+  - It is not said whether the three children were charged or dealt with only under juvenile law.
+  - No court decision beyond the judicial remand has been reported.
+  - Several roundups give a combined total with separate seizures in Kanker and Keshkal, which have their own reports.
 ---
 
-Bastar police arrested seven people and seized 476 kg 500 g of ganja in
-Jagdalpur on 5 November 2026. [@2,4,5,6,7,8,10,11,13,14,16,17,18,21] Three of the seven arrested are minors, while
-four are named as Bhagwan Pangi, 25, Ghansi Khilo, 21, Rohini Gallauri, 27, and
-Chitrasen Gallauri, 22. [@2,7,8,13,15,16,18] All seven come from Kantamadi village in the
-Korkonda police station area of Malkangiri district, Odisha. [@2,13,16,18] Haribhoomi
-called the seizure the largest action Bastar police have taken this year. [@2]
+Bastar police arrested seven people and seized 476 kg 500 g of ganja in Jagdalpur on 5 November
+2026. [@1,2,3,4,5,6,7,8,10,11,13,14,16,17,18,20,21] Three of the seven are minors; the four adults are
+Bhagwan Pangi, 25, Ghansi Khilo, 21, Rohini Gallauri, 27, and Chitrasen Gallauri, 22
+[@2,7,8,13,15,16,18], listed with their fathers' names as sons of Hari Pangi, Sundaro Khilo, Lachhu
+Gallori and Kamlu Gallori. [@10] All seven come from Kantamadi village in the Korkonda police station
+area of Malkangiri district, Odisha. [@2,13,16,18] Haribhoomi called it the largest action Bastar police
+had taken that year. [@2]
 
-Police said a tip-off told Boghaghat police that a white pickup carrying ganja
-from Malkangiri in Odisha via Kurandi was heading toward Jagdalpur, and officers
-set up a blockade near Adamvali railway crossing. [@2,5,9,13,16] Officers saw two young
-men on a motorcycle riding ahead of the pickup to scout for police on the route,
-then stopped the pickup when its occupants tried to flee. [@2,9,13] The pickup held
-450 packets of ganja hidden in 15 sacks. [@2,5,7,10,16,18] Police valued the cannabis at 2
-crore, 38 lakh, 25 thousand rupees (about 23.8 million rupees). [@2,7,8,13,15,16,17,18] Besides the
-cannabis, officers seized a pickup, a motorcycle, six old touchscreen mobile
-phones and 1,500 rupees in cash. [@2,5,9,13,16,18,21]
+## The interception
 
-Additional Superintendent of Police Sukhnandan Rathore said a case was
-registered under section 20(b)(iii)(C) of the NDPS Act, India's Narcotic Drugs
-and Psychotropic Substances Act, and the accused were being produced before a
-court. [@2]
+The interception came during a district drive against drug trafficking ordered by superintendent of
+police Shalabh Kumar Sinha [@10], by a team with Additional Superintendent Sukhnandan Singh Rathore,
+city superintendent Anshika Jain, deputy superintendent Chandrahas Sinha and station in-charge
+Tameshwar Chauhan. [@9] A tip-off told Boghaghat police that a white pickup carrying ganja from
+Malkangiri via Kurandi was heading for Jagdalpur, and officers set up a blockade near the Adamvali
+railway crossing [@2,5,9,13,16]; police sealed off roads in Bastar. [@1,6] They saw two young men on a
+motorcycle riding ahead to scout for police, and stopped the pickup when its occupants tried to flee.
+[@2,9,13] The pickup bore the registration CG 17 KL 0411 [@8,13,18,21] and the motorcycle OD 30 B 6256
+[@8]; both were seized. [@1,3,4,6,12,17]
 
-Police said Bastar police acted against drug trafficking and arrested seven
-traffickers there. [@1,3,20]
+## The load
 
-Amar Ujala put the ganja's estimated market value at about 2 crore 38 lakh
-rupees, in line with the more precise figure. [@1,6,20] The cannabis was being taken
-from Odisha toward Uttar Pradesh. [@1,3,4,5,6,8,12,13,15,16,17,18,20] Officers seized a Tata pickup and a
-motorcycle used in the smuggling at the scene. [@1,3,4,6,12,17] Jagdalpur police sealed off
-roads in Bastar after learning that traffickers were carrying a large load of
-ganja from Odisha to Uttar Pradesh. [@1,6]
+The pickup held 450 packets of ganja in 15 sacks [@2,5,7,10,16,18], being taken from Odisha towards
+Uttar Pradesh [@1,3,4,5,6,8,12,13,15,16,17,18,20], and the suspects had no valid documents for it.
+[@7,9,13] Police valued it at 2 crore 38 lakh 25 thousand rupees [@2,7,8,13,15,16,17,18], about 2 crore 38
+lakh by another account. [@1,6,20] Officers also seized six old touchscreen mobile phones, worth about
+60,000 rupees [@9], and 1,500 rupees in cash. [@2,5,9,13,16,18,19,21]
 
-Police are examining who registered and used the seized vehicles and are
-questioning the accused to trace suppliers in Odisha and intended buyers in
-Uttar Pradesh. [@1,4,11,17]
+## Court
 
-The intercepted white pickup bore registration number CG 17 KL 0411. [@8,13,18,21] The seized escort motorcycle bore registration number OD 30 B 6256. [@8] The four adult accused were produced before the special NDPS court in Jagdalpur on judicial remand, while the juvenile-justice procedure was followed for the three children. [@8,10,13,18]
-
-The team that made the interception acted under Bastar superintendent of police Shalabh Kumar Sinha, with Additional Superintendent Sukhnandan Singh Rathore, city superintendent Anshika Jain, deputy superintendent Chandrahas Sinha and station in-charge Tameshwar Chauhan. [@9] The suspects had no valid documents for transporting the ganja, police said. [@7,9,13] The six seized mobile phones were estimated to be worth about 60,000 rupees. [@9]
-
-The four adults are listed with their fathers' names: Bhagwan Pangi son of Hari Pangi, Ghasi Khilo son of Sundaro Khilo, Chitrasen Gallori son of Kamlu Gallori and Rohani Gallori son of Lachhu Gallori. [@10] The interception came during a district drive against the illegal sale and smuggling of narcotic drugs ordered by Bastar superintendent of police Shalabh Kumar Sinha. [@10]
-
-The seven accused were arrested with 476 kg 500 g of ganja, a pickup, a motorcycle, six mobile phones and 1,500 rupees in cash, police said. [@19] Police registered the Jagdalpur case under section 20(b)(ii)(C) of the NDPS Act and produced all seven accused on judicial remand before the special NDPS court in Jagdalpur. [@18,19]
+Additional Superintendent Rathore said a case was registered under section 20(b)(iii)(C) of the
+Narcotic Drugs and Psychotropic Substances Act [@2]; another account gives section 20(b)(ii)(C). [@18,19]
+The four adults were produced before the special NDPS court in Jagdalpur and sent on judicial remand,
+and the juvenile-justice procedure was followed for the three children. [@8,10,13,18,19] Police are
+examining who registered and used the vehicles and questioning the accused to trace suppliers in
+Odisha and buyers in Uttar Pradesh. [@1,4,11,17]

@@ -169,77 +169,54 @@ sources:
     date: 2026-11-09
     language: fr
 open_questions:
-  - The 3 November 2026 incident date comes from the stated Tuesday raid day and the explicit 03.11.2026 date in the authorities' statement; 5 November 2026 is the publication date.
-  - The plant count is reported as more than 2,300, so 2,300 is recorded as the stated minimum.
-  - Hashish is reported as one kilogram by one account and just under one kilogram by another, so the 12.5 kg cannabis total uses the stated one kilogram.
-  - Amphetamine, MDMA and ecstasy quantities are excluded from cannabis figures under the substance scope because they cannot be counted as cannabis.
-  - Seized cash of about 22,000 euros and firearms are mentioned only to explain the event and are not recorded in figures.
-  - The May Pirmasens car-boot seizure of about 20 kg of marijuana was the earlier trigger of this investigation and is not counted in this report's figures.
-  - The 13 arrests in the French Grand Est area were parallel foreign measures and are left out of this report's figures.
-  - Custody outcomes and any later charges or trial results were not yet reported at publication.
-  - 'Left out, as its quotation was not found in Newsflash24: The operation took place on Tuesday, 3 November 2026, when customs investigators with specialist units and Saarland police dismantled five illegal plantations holding more than 2,300 cannabis plants.'
-  - 'Left out, as its quotation was not found in SOL.DE: Officers also secured about 22,000 euros in cash.'
-  - 'Left out, as its quotation was not found in SOL.DE: The investigation had been running since spring 2026.'
-  - 'Left out, as its quotation was not found in SOL.DE: The case began with a May customs check near Pirmasens, when officers found about 20 kilograms of marijuana in a car boot.'
-  - 'Left out, as its quotation was not found in Zoll (Generalzolldirektion): The Federal Criminal Police Office crime-scene unit, the Saarbrücken main customs office and state police helped secure the plantations.'
-  - No charges or trial outcome have been reported; the authorities said the investigations continue.
-  - 'Left out, as its quotation was not found in Polizei.news: Investigators also seized a tablet press, blank-firing and air weapons plus another possibly live firearm.'
-  - The SR.de page describes the seized hashish as just under one kilogram ("knapp ein Kilogramm") while the joint statement of the Saarbrücken prosecutor's office and the Frankfurt customs investigation office gives 1 kg; the report's 12.5 kg cannabis total keeps the stated one kilogram.
-  - The SR.de rail video on the raid has no recoverable direct stream address, so it is not listed in media.
-  - The roundup attributes the operation to Hessische Ermittler, while the joint statement identifies the Frankfurt customs investigation office acting for the Saarbrücken prosecutor.
-  - This roundup names only Saarland for the eleven addresses, while other reporting and the joint statement place them in Saarland and the Nordpfälzer Bergland.
-  - The roundup gives no separate cannabis weight and its lead picture is a generic AFP cannabis-plant illustration, not a picture of this raid, so no figures or media change.
-  - The article names the shared announcement by the Saarbrücken prosecutor's office and the Frankfurt customs investigation office dated Thursday 5 November 2026 and the searches on the preceding Tuesday, which supports the report's 3 November incident date; 6 November 2026 is this page's publication date.
-  - The article gives the hashish as just under one kilogram while the report's cannabis total uses the stated one kilogram.
-  - The Rhein-Zeitung gives 200 to 300 plants for the Jeckenbach house, a range, while the Saarbrücken prosecutors' office and the investigators' release state about 300; no single plant count or weight for this site was published.
-  - The Rhein-Zeitung gives no separate incident date; 3 November 2026 comes from its statement that the raid was on the Tuesday and from the other accounts of this raid.
-  - Nothing was reported about arrests, charges or any court outcome specific to the Jeckenbach house, and the Rhein-Zeitung does not say whether anyone was detained there.
-  - The 30 kg seized in and around Nancy is described only as drugs, without a breakdown by substance, so it cannot be counted as cannabis and is left out of the report's figures.
-  - Neither the French nor the German accounts give a cannabis weight or plant count for the French searches.
-  - The 13 French arrests are counted separately from the report's eight German arrests; the two accounts together give 21 arrests in the simultaneous operation.
-  - The joint release reproduced here states the cash as about 22,000 euros and the hashish as just under one kilogram, so the report's one-kilogram hashish figure still differs from this account.
-  - The 31.4 kilos of cannabis seized in France is not broken down by herb, resin or pollen.
-  - The French cash seizure of more than 17,000 euros is approximate and separate from the about 22,000 euros seized in Germany.
-  - No names, ages or later court outcomes for the French suspects are given beyond the 11 mises en examen and six pretrial detentions.
-  - The article gives no breakdown of the 31.4 kilos of cannabis seized in France by herb, resin or pollen, and still no plant count for the French searches.
+  - The plant count is given only as more than 2,300, and per-site counts were published only for Jeckenbach.
+  - The hashish is given as one kilogram in the joint statement and just under one kilogram in some copies of it.
+  - The Jeckenbach house held about 300 plants by the prosecutors' count and 200 to 300 by the local paper's.
+  - The 31.4 kilos of cannabis seized in France are not broken down, and it is unclear how they relate to the more than 30 kg of drugs reported around Nancy.
+  - No charges or trial outcome have been reported in Germany.
 ---
 
-Customs officers arrested eight people aged 22 to 54 on suspicion of cultivating
-and dealing cannabis. [@1,4,7,8,9,13,14] The suspects allegedly used vacant buildings to
-operate illegal plantations and sold the marijuana in the surrounding Greater
-Region and in France. [@1,3,4,9,14] The eight were brought before an investigating judge,
-who issued custody orders for all of them but suspended one under conditions,
-leaving seven in pretrial detention. [@1,4,7,8,9,10,11,12,13,14,20] The group comprised six Albanian
-nationals, one German and one Italian, according to the authorities' statement.
-[@2,5,9,21]
+Customs officers arrested eight people aged 22 to 54 on suspicion of cultivating and dealing
+cannabis. [@1,4,7,8,9,13,14] The Frankfurt customs investigation office had been investigating the
+group since spring 2026 on behalf of the Saarbrücken prosecutor's office. [@2] The case began with a
+customs check near Pirmasens in May 2026, when officers found about 20 kilograms of marijuana in a
+car boot and arrested a suspected participant. [@13,14,21] The suspects allegedly used vacant
+buildings for illegal plantations and sold the marijuana in the surrounding Greater Region and in
+France [@1,3,4,9,14]; German investigators describe the suppliers as of Albanian origin. [@22] The
+eight were six Albanian nationals, one German and one Italian. [@2,5,9,21]
 
-Officers searched eleven homes and business premises in Saarland and the
-Rhineland-Palatinate part of the Nordpfälzer Bergland. [@1,4,6,7,9,10,11,12,14] They seized 11.5
-kilograms of marijuana and one kilogram of hashish, together with 33 kilograms
-of amphetamine, 1.2 kilograms of MDMA and 500 grams of ecstasy tablets. [@1,4,6,7,8,9,12]
-Investigators also seized a tablet press, blank-firing and air weapons plus
-another possibly live firearm. [@2,5,9,14]
+## The raids
 
-French authorities carried out parallel searches in the Grand Est area at the
-same time and arrested 13 people. [@1,3,4,7,9,10,11,12,13,14,18,21] The Federal Criminal Police Office
-crime-scene unit, the Saarbrücken main customs office and state police helped
-secure the plantations. [@2,9,14] The authorities said the investigations are still
-ongoing. [@2,3,4,5,9,14]
+Officers searched eleven homes and business premises in Saarland and the Rhineland-Palatinate part
+of the Nordpfälzer Bergland [@1,4,6,7,9,10,11,12,14], helped by the Federal Criminal Police Office
+crime-scene unit, the Saarbrücken main customs office and state police. [@2,9,14] They dismantled five
+plantations with more than 2,300 plants: one in Saarlouis district, one in Saarpfalz-Kreis and three
+in Bad Kreuznach district. [@8,16,20] Prosecutors said the largest was in Homburg. [@3] At Jeckenbach,
+shortly after 6.30 am on the Tuesday, armed officers stormed a house with 200 to 300 plants [@15],
+about 300 by the prosecutors' count. [@3,17,20]
 
-Investigators said the Jeckenbach site in Bad Kreuznach district held about 300 plants. [@3,20] Prosecutors said the largest of the dismantled plantations was in Homburg in Saarland. [@3]
+Officers seized 11.5 kilograms of marijuana and one kilogram of hashish, together with 33 kilograms of
+amphetamine, 1.2 kilograms of MDMA and 500 grams of ecstasy tablets [@1,4,6,7,8,9,12]; one account gives
+the hashish as just under one kilogram. [@7] They also seized a tablet press, blank-firing and air
+weapons and a possibly live firearm [@2,5,9,14], and about 22,000 euros in cash. [@14]
 
-The submitted page gives hashish as "knapp ein Kilogramm" (just under one kilogram) while the agencies' release and the report state one kilogram; the report's cannabis total keeps the stated one kilogram. [@7] The SR page carries a 27-second SR information video on the raid whose direct stream address was not recoverable from the page, so no media entry is included for it. [@7]
+The eight were brought before an investigating judge, who issued custody orders for all of them but
+suspended one under conditions, leaving seven in pretrial detention. [@1,4,7,8,9,10,11,12,13,14,20]
+The authorities said the investigations are continuing. [@2,3,4,5,9,14]
 
-The five dismantled plantations comprised one in Saarlouis district, one in Saarpfalz-Kreis and three in Bad Kreuznach district in Rhineland-Palatinate. [@8]
+## France
 
-The investigation began with a customs check near Pirmasens in May 2026, when officers found about 20 kilograms of marijuana in a car boot and arrested a suspected participant. [@13,14,21]
+French authorities carried out parallel searches in the Grand Est at the same time and arrested 13
+people. [@1,3,4,7,9,10,11,12,13,14,18,21] Prosecutors and an investigating judge in Nancy, working with
+the German authorities, were investigating an Albanian criminal group based in Germany. [@18] The
+raids were in Nancy, Custines, Maxéville, Essey-lès-Nancy, Frouard and Vandœuvre-lès-Nancy, where
+more than 30 kg of drugs were seized. [@18] Officers in France seized 31.4 kilos of cannabis along with
+ketamine, cocaine, a few grams of heroin and more than 17,000 euros. [@21]
 
-Shortly after 6.30 am on the Tuesday, police cars, customs vehicles and an ambulance drove through Jeckenbach, and armed officers of the customs investigation office and police stormed a residential house. [@15] In the house they found an illegal cannabis plantation with between 200 and 300 plants. [@15] The operation in Jeckenbach was part of a larger raid in the Nordpfälzer Bergland and Saarland that found five plantations with more than 2,300 plants and arrested eight suspects. [@16,20] The Saarbrücken prosecutors' office said about 300 plants were found in Jeckenbach. [@17]
-
-Nancy's prosecutors and an investigating judge, working with the German authorities, were investigating an Albanian criminal group based in Germany and specialising in drug trafficking, including cannabis. [@18] The French raids took place in Nancy, Custines, Maxéville, Essey-lès-Nancy, Frouard and Vandœuvre-lès-Nancy. [@18] Eleven of the 13 people arrested in and around Nancy were brought before the magistrates at the city's court complex. [@18,19] More than 30 kg of drugs were seized in and around Nancy. [@18]
-
-Officers also secured about 22,000 euros in cash. [@14] The customs investigation office said it had been investigating the group since spring 2026 on behalf of the Saarbrücken prosecutor's office. [@2]
-
-In France officers seized 31.4 kilos of cannabis along with ketamine, cocaine, a few grams of heroin and more than 17,000 euros in cash. [@21] Of the 13 people arrested in France, 11 were brought before an investigating judge for mise en examen. [@21] Six of the French suspects were placed in pretrial detention and the others under judicial supervision. [@21,22] The network was directed from a prison cell via Snapchat and Telegram by a man with multiple drug-trafficking convictions, stored drugs in many flats and distributed them across the Grand Est by couriers using rental vehicles. [@21,22]
-
-The German investigators found five plantations in abandoned buildings, run by suppliers of Albanian origin. [@22] The French prosecutions cover importing, transporting and selling drugs, illegal possession of weapons and refusal to hand over an encryption key. [@22]
+Eleven of the 13 were brought before the magistrates in Nancy and placed under formal investigation
+[@18,19,21]; six were held in pretrial detention and the others placed under judicial supervision.
+[@21,22] Prosecutors said the network was directed from a prison cell over Snapchat and Telegram by a
+man with several drug-trafficking convictions, stored drugs in many flats and distributed them
+across the Grand Est by couriers in rental vehicles. [@21,22] The French charges cover importing,
+transporting and selling drugs, illegal possession of weapons and refusal to hand over an encryption
+key. [@22]
