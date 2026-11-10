@@ -54,6 +54,10 @@ sources:
     url: https://www.police.govt.nz/news/release/drugs-and-cash-seized-following-vehicle-stops-canterbury-overnight
     publisher: New Zealand Police
     date: 2026-11-10
+  - title: Drugs, Cash Seized in Canterbury Vehicle Stops
+    url: https://www.miragenews.com/drugs-cash-seized-in-canterbury-vehicle-stops-1774711/
+    publisher: Mirage News
+    date: 2026-11-10
 open_questions:
   - No weight or plant count for the cannabis was published; the reports describe only a small amount of drugs found at the home.
   - The $54,000 is cash found in the car, not a confirmed cannabis price, and no amount is given for the cash found at the home.
@@ -62,6 +66,9 @@ open_questions:
   - The separate Aranui methamphetamine arrest reported in the same police release involves no cannabis and is not part of this report.
   - The RNZ account and the police release both rest on the same Detective Senior Sergeant Karen Simmons statement, so they are not independent reporting.
   - The RNZ photo is credited only as a file photo by 123RF and is not confirmed to show this stop or seizure, so no media is listed.
+  - The Mirage News text reproduces the New Zealand Police public release and is not independent reporting of the stops.
+  - The submitted page gives no weight or plant count for the cannabis found in the car or at the home, and the $54,000 is cash rather than a cannabis valuation.
+  - The methamphetamine seized in the Aranui stop carries no cannabis component and is excluded from this report.
 ---
 
 An 18-year-old is facing cannabis charges after Timaru police found $54,000
@@ -72,15 +79,14 @@ was found. [@1]
 More cash and a small amount of drugs were found at the teenager's home. [@1] He
 appeared in the Timaru District Court the same day, charged with possessing
 cannabis for supply. [@1] Police said the 18-year-old, from Christchurch, faced
-charges of supply and possession for supply of cannabis. [@2] He was remanded on
+charges of supply and possession for supply of cannabis. [@2,3] He was remanded on
 bail and is due to reappear on 1 December. [@2]
 
 Police said the first vehicle was stopped at approximately 12.20am on Theodosia
-Street in Timaru, where they discovered more than $54,000 in a shoebox. [@2]
+Street in Timaru, where they discovered more than $54,000 in a shoebox. [@2,3]
 
 In a separate incident hours later, police pulled over a vehicle in the
 Christchurch suburb of Aranui and seized nearly 20 grams of methamphetamine,
 $27,000, scales and drug utensils. [@2] A 42-year-old Christchurch man was
 charged with possession for supply of methamphetamine, and a 41-year-old man was
 arrested over a breach of release conditions. [@2]
-
