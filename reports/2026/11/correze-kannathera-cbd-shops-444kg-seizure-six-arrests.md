@@ -44,6 +44,11 @@ media:
     media_url: https://img.centrefrance.com/7Fd0uIPz4KbK2wU0bFfPzFTjPgxOKv6cZajH8JLo1FI/rs:fit:1200:1200/bG9jYWw6Ly8vMDAvMDAvMDcvODUvODIvMjAwMDAwNzg1ODIxMQ.webp
     publisher: La Montagne
     caption: Photo captioned by La Montagne as the cannabis herb seized in the operation; no credit given.
+  - kind: photo
+    url: https://www.radiototem.net/kannathera-un-trafic-de-stupefiants-demantele-en-correze
+    media_url: https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/fit-in/1100x2000/filters:format(webp)/medias/ghkOL68kap/image/KANNATHERA_21794327719848.jpg
+    publisher: TOTEM
+    caption: 'Kannathera CBD shopfront and vending machine in Corrèze, illustrating the report on the permanent closure of the Brive and Tulle stores. Photo: Stéphane Jacquemin / TOTEM'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0347bdd428de247fcab38df2fbd8628d
@@ -74,12 +79,21 @@ sources:
     publisher: Actu17
     date: 2026-11-10
     language: fr
+  - title: 'Kannathera : un trafic de stupéfiants démantelé en Corrèze'
+    url: https://www.radiototem.net/kannathera-un-trafic-de-stupefiants-demantele-en-correze
+    publisher: TOTEM
+    date: 2026-11-10
+    language: fr
+open_questions:
+  - No trial date or court outcome has been reported for the six accused or the companies facing prosecution.
+  - The share of the 190.2 kg of seized cannabis resin that had been altered with THC X was not specified.
+  - 'Left out, as its quotation was not found in TOTEM: On 10 November 2026, the Brive judicial court ordered the permanent closure of the two Kannathera establishments in Brive and Tulle.'
 ---
 
 A judicial operation was launched on 3 November 2026, run simultaneously in
 Corrèze and Saône-et-Loire, the Brive prosecutor's office said. [@1,5] Six people
-were detained during the operation. [@1,4,5] The searches led to the seizure of
-190.2 kg of cannabis resin and 253.9 kg of cannabis herb. [@1,5] Part of the resin
+were detained during the operation. [@1,4,5,6] The searches led to the seizure of
+190.2 kg of cannabis resin and 253.9 kg of cannabis herb. [@1,5,6] Part of the resin
 had been altered by adding THC X, a synthetic molecule presented as up to a
 thousand times more powerful than natural THC. [@1,4,5] Officers also seized 143,339
 euros in cash and froze 297,006 euros in bank accounts as criminal assets, along
@@ -102,6 +116,6 @@ threshold. [@3] The prefect of Corrèze closed two Kannathera CBD shops, in Briv
 and Tulle, for one month from 10 April 2026. [@2] The Brive prosecutor had
 opened an inquiry for drug trafficking and sales to minors. [@2] Searches in
 March 2026 and initial analyses found that much of the merchandise sold had THC
-levels above the legal standard. [@1,4] Investigators traced the main suppliers to
+levels above the legal standard. [@1,4,6] Investigators traced the main suppliers to
 Saône-et-Loire, where they handled the processing, production and packaging of
-the products at issue. [@1,4]
+the products at issue. [@1,4,6]
