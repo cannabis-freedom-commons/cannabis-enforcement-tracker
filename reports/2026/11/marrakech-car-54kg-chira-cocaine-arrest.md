@@ -43,23 +43,26 @@ sources:
     publisher: Goud
     date: 2026-11-10
     language: ar
+  - title: أمن مراكش يحد من نشاط مروج للكوكابين والحشيش على متن سيارة
+    url: https://marrakech7.com/0-462/
+    publisher: مراكش الاخبارية
+    date: 2026-11-10
+    language: ar
 open_questions:
-  - The article gives no separate date for the arrest; 10 November 2026 is its publication date and stands in for the incident date.
-  - No weight or count beyond the cocaine and chira is given, and the cocaine is not included in the cannabis figures.
-  - The suspect is not named and no age, charges, court outcome or estimated value were reported.
-  - The location in Marrakech is not narrowed beyond the city, and the chira's origin is not stated.
-  - Only one account of this operation could be opened; no second outlet or police statement was found.
+    - No count beyond the cocaine and chira is given, and the cocaine is not included in the cannabis figures.
+    - The suspect is not named and no age, charges, court outcome or estimated value were reported.
+    - The location in Marrakech is not narrowed beyond the city, and the chira's origin is not stated.
+    - Both accounts report the same police announcement rather than independent reporting, so their agreement may not be independent confirmation.
 ---
 
-Police in Marrakech arrested a man suspected of selling drugs from a car. [@1]
+Police in Marrakech arrested a man suspected of selling drugs from a car. [@1,2]
 The arrest was made with the Directorate General for Territorial Surveillance.
-[@1] A forensic unit took part and searched the vehicle. [@1]
+[@1] A forensic unit took part and searched the vehicle. [@1,2]
 
 The search found 54.5 kg of chira, Morocco's pressed cannabis resin also known
-as hashish. [@1] Officers also seized 776 grams of cocaine, which is not counted
+as hashish. [@1,2] Officers also seized 776 grams of cocaine, which is not counted
 in the cannabis figures here. [@1]
 
 The public prosecutor ordered the man held in police custody for the judicial
-investigation. [@1] Investigators said they were trying to establish how the
-activity was run and to catch other suspected accomplices. [@1]
-
+investigation. [@1,2] Investigators said they were trying to establish how the
+activity was run and to catch other suspected accomplices. [@1,2]
