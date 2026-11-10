@@ -35,11 +35,6 @@ data_sources:
   details.setting: [1, 2]
 status: verified
 tags: [cnb, mandatory-death-penalty, pasir-ris]
-open_questions:
-  - The bureau did not publish his name out of respect for his family's wish for privacy; court and news reports identify him.
-  - The opened sources do not say whether the other people with access to the rented unit were investigated further after the trial.
-  - Al Jazeera gives his age as 37 and the cannabis as about 1.5 kilogrammes, while the Central Narcotics Bureau statement and court records used in the report give 36 and 1,562.97 grams.
-  - The account of the DNA and fingerprint grounds for the review application comes from the Transformative Justice Collective campaigner, not from the judgment, which found the application an impermissible attempt to reargue the appeal.
 sources:
   - title: S'porean man convicted of trafficking 1,562.97g of cannabis executed on May 17, 2023
     publisher: Mothership.SG
@@ -60,11 +55,16 @@ sources:
     url: https://www.aljazeera.com/news/2023/5/17/singapore-hangs-man-for-trafficking-1-5kg-of-cannabis
     publisher: Al Jazeera
     date: 2023-05-17
+  - title: Singapore Hangs Man in Second Drug-Related Execution in Three Weeks
+    url: https://www.nytimes.com/2023/05/18/world/asia/singapore-marijuana-execution.html
+    publisher: The New York Times
+    date: 2023-05-18
+    archived: https://web.archive.org/web/20250814162019id_/https://www.nytimes.com/2023/05/18/world/asia/singapore-marijuana-execution.html
 ---
 
 Muhammad Faizal bin Mohd Shariff, 36, was hanged at dawn on 17 May 2023 at Changi Prison Complex.
-[@1,4] The Central Narcotics Bureau and prison service confirmed the capital sentence had been
-carried out but withheld his name at his family's request. [@1]
+[@1,4,5] The Central Narcotics Bureau and prison service confirmed the capital sentence had been
+carried out but withheld his name at his family's request. [@1,5]
 
 ## Hidden in a television console
 
@@ -72,7 +72,7 @@ Officers arrested him on 14 February 2016 in a rented unit at NV Residences in P
 [@1,2] After the tenancy ended, the landlady found six cling-wrapped blocks in a bedroom drawer and
 gave them to condominium security; analysis found 1,562.97 grams of cannabis in 3,540.07 grams of
 vegetable matter. [@1,2] The trial judge found he had collected four blocks he called "storybooks",
-repacked one into three smaller blocks, and stored all six in the drawer. [@1,2] He said the
+repacked one into three smaller blocks, and stored all six in the drawer. [@1,2] Before his conviction, Mr. Faizal claimed in court that he had meant to consume most of the cannabis himself, only intending to sell a small portion. [@5] He said the
 cannabis was mostly for future personal use though he had never smoked before; the judge treated
 that as incredible at this quantity. [@1,2]
 
@@ -81,7 +81,7 @@ that as incredible at this quantity. [@1,2]
 He was convicted in January 2019 and received the mandatory death penalty when prosecutors issued
 no certificate of substantive assistance. [@1,2] The Court of Appeal dismissed his appeal in August
 2019. [@2] On 10 May 2023 his family learned the execution date; a review application filed on 11 May
-was dismissed on 16 May with no new evidence. [@2,3] His clemency petition failed before the
-hanging. [@1]
+was dismissed on 16 May with no new evidence. [@2,3] On Monday 15 May 2023 he filed an appeal seeking a reduced sentence of life imprisonment, and an appeals court denied it the next day. [@5] His clemency petition failed before the
+hanging. [@1] He was hanged 21 days after Singapore executed Tangaraju Suppiah for a similar offense. [@5] M. Ravi, an international human rights lawyer who had represented Mr. Faizal, wrote that it was very concerning that 64.9 percent of the death row inmates were of Malay ethnicity, when Malays make up only 14 percent of Singapore's population. [@5] Kirsten Han, a spokeswoman for the abolitionist group Transformative Justice Collective, said out of 54 people awaiting execution in Singapore, 51 were for drug-related offenses. [@5]
 
 The man was not named because his family asked for privacy. [@4] His bid to reopen the case rested on DNA evidence and fingerprints that tied him to a much smaller amount he admitted possessing. [@4]
