@@ -67,29 +67,25 @@ sources:
     publisher: Четвертая Власть
     date: 2026-11-10
     language: ru
-open_questions:
-  - The reports give no date for the search or the discovery; 10 November 2026 is the publication date of the police statement and is used as the incident date.
-  - No arrest or detention is reported; only criminal cases and a written undertaking not to leave were announced.
-  - No figures for the area of the greenhouse or the value of the drug were published.
-  - The man was identified only by his age, with no name, plea or court outcome reported, and the case is at the investigation stage.
-  - All four accounts reproduce the same regional interior ministry statement, so they are not independent reporting.
-  - The outlets credit the picture only to the regional interior ministry headquarters and give no caption identifying which plants or objects it shows.
-  - The submitted outlet gives the weight as 325.6 grams, while another describes it as over 325 grams.
+  - title: Под Саратовом полицейские нашли подземную плантацию марихуаны
+    url: http://news.sarbc.ru/public/2026/11/10/322279.html?amp=
+    publisher: СарБК
+    date: 2026-11-10
+    language: ru
 ---
 
 A 43-year-old man in Balashov, Saratov Oblast, built a greenhouse in the cellar
 of his house and grew cannabis there, the regional headquarters of the Interior
-Ministry said. [@1] Officers of the Balashov interior ministry division found it
+Ministry said. [@1,5] Officers of the Balashov interior ministry division found it
 during operational search measures, the regional headquarters said. [@2] The
 officers of the drug control unit found the greenhouse in a cellar inside a
 residential house, the regional interior ministry said. [@3] Police seized 36
 cannabis plants from the greenhouse and 325.6 grams of marijuana that had been
-prepared for use. [@1]
+prepared for use. [@1,5]
 
 Criminal cases were opened under part 2 of article 228 of the Russian Criminal
 Code, on storing drugs, and part 1 of article 231, on cultivating
-drug-containing plants. [@3] The suspect was placed under a written undertaking
-not to leave and to behave properly, so he was not held in custody. [@1] An
+drug-containing plants. [@3,5] The suspect was placed under a written undertaking
+not to leave and to behave properly, so he was not held in custody. [@1,5] An
 outlet reported that the man faces up to 10 years in prison, the penalty the
 charges carry rather than a sentence. [@4]
-
