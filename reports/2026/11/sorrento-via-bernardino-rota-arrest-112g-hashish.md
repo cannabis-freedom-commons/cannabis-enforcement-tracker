@@ -56,6 +56,16 @@ sources:
     publisher: TorreSette
     date: 2026-11-09
     language: it
+  - title: Sorrento, arrestato pusher con 132 dosi di cocaina
+    url: https://puntomagazine.it/2026/11/09/sorrento-arrestato-pusher-cocaina-hashish-marijuana/
+    publisher: Punto! il Web Magazine
+    date: 2026-11-09
+    language: it
+  - title: Sorrento arrestato pusher con 132 dosi di cocaina
+    url: https://www.zazoom.it/2026-11-09/sorrento-arrestato-pusher-con-132-dosi-di-cocaina/19905225/
+    publisher: Zazoom Social News
+    date: 2026-11-09
+    language: it
 open_questions:
   - The article gives no separate date for the arrest; 9 November 2026 is its publication date and is used as the incident date.
   - The cocaine is reported only as 132 doses, and its weight is not poolable with the cannabis, so it is excluded from the figures.
@@ -64,6 +74,7 @@ open_questions:
   - Only one source for this event was found; no carabinieri statement or second outlet could be opened.
   - No photo showing the seizure or the arrest could be identified; the page image address names only the drugs topic, so no media entry is given.
   - The account gives the cocaine only as 132 doses and no total weight for the drugs, so the cocaine is excluded from the cannabis figure.
+  - The Zazoom page does not name the suspect or give the arrest's exact date; its own publication date is 9 November 2026, which the report uses.
 media:
   - kind: photo
     url: https://www.ilgiornalelocale.it/2026/11/la-smart-non-basta-per-scappare-23enne-arrestato-con-cocaina-hashish-e-marijuana/
@@ -74,14 +85,14 @@ media:
 
 Carabinieri from the Sorrento coast mobile radio unit arrested a 23-year-old man
 born in Vico Equense in November 2002 in a narrow side street off via Bernardino
-Rota in Sorrento. [@1,3] The street is used by dealers to sell drugs, so officers
+Rota in Sorrento. [@1,3,4] The street is used by dealers to sell drugs, so officers
 blocked the escape routes with patrol cars and unmarked vehicles before moving
 in on foot. [@1]
 
 The man tried to drive away in his Smart car, was stopped after a few metres,
 searched and handcuffed. [@1,3] Where he had been waiting before getting into the
 car, officers found and seized 112 grams of hashish and 7.50 grams of marijuana.
-[@1,3] The same search found a small scale for weighing doses. [@1,3]
+[@1,3,4] The same search found a small scale for weighing doses. [@1,3,5]
 
 The man faces a charge of possessing drugs for the purpose of dealing and was
 placed under house arrest pending trial. [@1,3]
