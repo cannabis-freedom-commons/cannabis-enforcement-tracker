@@ -79,6 +79,11 @@ sources:
     publisher: Il Messaggero
     date: 2026-11-10
     language: it
+  - title: Cocaina e hashish nascosti nel freezer, arrestata una coppia
+    url: https://www.rainews.it/amp/tgr/lazio/articoli/2026/11/cocaina-e-hashish-nascosti-nel-freezer-arrestata-una-coppia-7904c7ef-142f-466b-91ea-c235425a9131.html
+    publisher: RaiNews
+    date: 2026-11-10
+    language: it
 open_questions:
   - No date is given for the search or the arrests; 10 November 2026 is the publication date of the reports and is used as the incident date.
   - The sources give only a combined figure of more than 16 kg of cocaine and hashish, so the cannabis weight cannot be separated and no kg_seized figure is recorded.
@@ -91,26 +96,25 @@ open_questions:
 
 Polizia di Stato officers from Rome, assisted by the Frosinone Flying Squad,
 arrested a couple living in Alatri, in the province of Frosinone, on suspicion
-of possessing drugs for sale. [@1] The man is 53 and the woman 34. [@2] At the
+of possessing drugs for sale. [@1,5] The man is 53 and the woman 34. [@2,5] At the
 custody hearing the court ordered the man held in prison and imposed no
 custodial measure on the woman. [@1]
 
 The investigation began with a rented city car that moved between towns of the
-Frosinone area on an itinerary that struck officers as suspicious. [@1] Officers
+Frosinone area on an itinerary that struck officers as suspicious. [@1,5] Officers
 found a few hundred euros in cash and two mobile phones in the car, which they
 believe were used to keep contact with buyers while the drugs were being
 distributed. [@3] In the couple's home some of the cocaine and hashish was
-hidden in a chest freezer among ice cream and other frozen food. [@1] A larger
+hidden in a chest freezer among ice cream and other frozen food. [@1,5] A larger
 store was hidden under the stairs, where police found more than 1.5 kg of
 cocaine in a sealed box, some of it loose and some packaged for retail sale in
-wrappers marked with images of a car brand and children's toys. [@3]
+wrappers marked with images of a car brand and children's toys. [@3,5]
 
 In total police seized more than 16 kg of drugs, cocaine and hashish together,
-and more than 700 euros in cash found in a drawer. [@2] ANSA put the market
+and more than 700 euros in cash found in a drawer. [@2,5] ANSA put the market
 value of the haul at more than one million euros. [@2] More than 700 euros in
 cash was found in a drawer in the home. [@3] Police did not say how much of the
 16 kg was hashish and how much was cocaine. [@4]
 
 The case is at the preliminary investigation stage, and the two suspects are
 presumed innocent until a final conviction. [@1]
-
