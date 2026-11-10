@@ -47,6 +47,11 @@ sources:
     url: https://www.espn.com/nba/story/_/id/47960713/ayton-detained-bahamas-suspicion-marijuana-possession
     publisher: ESPN
     date: 2026-02-17
+  - title: Lakers Center Deandre Ayton Allegedly Arrested in the Bahamas - LAmag
+    url: https://lamag.com/sports/lakers-center-deandre-ayton-allegedly-arrested-in-the-bahamas/
+    publisher: LAmag
+    date: 2026-02-18
+    archived: https://web.archive.org/web/20260219131448id_/https://lamag.com/sports/lakers-center-deandre-ayton-allegedly-arrested-in-the-bahamas/
 open_questions:
   - No weight was published beyond a small and very small amount of suspected marijuana, so no cannabis weight is recorded.
   - The incident date of 17 February 2026 is the Tuesday before the article's Wednesday 18 February 2026 publication date.
@@ -63,7 +68,7 @@ open_questions:
 
 Los Angeles Lakers center Deandre Ayton was detained and quickly released on
 Tuesday at Lynden Pindling International Airport on suspicion of possessing a
-small amount of marijuana. [@1,2,4] He would have been returning to the United
+small amount of marijuana. [@1,2,4,5] He would have been returning to the United
 States from his native Bahamas as the All-Star break neared its end. [@1] The
 central division of the Royal Bahamas Police Force initially said he was
 searched after being spotted smoking marijuana at the airport. [@1,3]
