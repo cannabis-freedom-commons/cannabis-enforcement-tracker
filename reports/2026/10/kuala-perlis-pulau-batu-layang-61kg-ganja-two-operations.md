@@ -75,15 +75,11 @@ sources:
     publisher: Bernama
     date: 2026-11-10
     language: ms
-open_questions:
-    - No suspect was named or arrested, and no arrest was reported for either seizure.
-    - Kosmo gives no date for the earlier operation; The Star, Utusan and the New Straits Times place it on 28 August 2026.
-    - The drugs are described as suspected ganja or kanabis; no laboratory confirmation was reported.
-    - 'The value figures are customs estimates: RM116,544 for the 36.42 kg and RM75,000 for the 25 kg.'
-    - It is not stated whether the two seizures are linked to the same syndicate beyond the shared method.
-    - The case outcome, charges against any person and any prosecution are unknown beyond the Section 39B investigation.
-    - Customs said the drugs were brought from a neighbouring country less than 1.5 km from Perlis's maritime border and believed they came from Thailand, but no arrest or border crossing point was identified.
-    - Customs said the drugs were believed to have been intended for markets outside Perlis, including the Klang Valley, but no buyer or destination was identified.
+  - title: Taktik sorok ganja di jeti terbiar, pulau berbatu terbongkar
+    url: https://www.bharian.com.my/amp/berita/kes/2026/11/1707741/taktik-sorok-ganja-di-jeti-terbiar-pulau-berbatu-terbongkar
+    publisher: Berita Harian
+    date: 2026-11-10
+    language: ms
 ---
 
 Malaysia's Royal Malaysian Customs Department (JKDM) seized 61.42 kg of cannabis
@@ -96,12 +92,12 @@ The sacks held 35 compressed blocks of suspected cannabis weighing 36.42 kg,
 which customs valued at RM116,544. [@1,2,3,4] Perlis customs director Mohammad Furiman
 Hattar said the packages were believed to have been deliberately left at the
 disused jetty for someone else to collect, so that the syndicate's movements
-would not be noticed. [@1,3,4] Customs believed the drugs had been smuggled in from Thailand. [@3] The packages on the rocky island were hidden behind a metal plate on its platform to avoid detection from the sea. [@4]
+would not be noticed. [@1,3,4] Customs believed the drugs had been smuggled in from Thailand. [@3] The packages on the rocky island were hidden behind a metal plate on its platform to avoid detection from the sea. [@4,6]
 
 In the earlier operation, customs officers found two suspicious sacks left on a
-disused platform on the Sungai Kuala Perlis near Taman Pelangi in August. [@2,3]
+disused platform on the Sungai Kuala Perlis near Taman Pelangi in August. [@2,3,6]
 Those sacks contained a black plastic bag with 25 compressed blocks of suspected
-cannabis weighing 25 kg and worth an estimated RM75,000. [@2,3] That earlier seizure was made at about 9.30pm on 28 August 2026. [@3,4] Furiman said
+cannabis weighing 25 kg and worth an estimated RM75,000. [@2,3] That earlier seizure was made at about 9.30pm on 28 August 2026. [@3,4,6] Furiman said
 customs believed the drugs from the two cases could have supplied about 199,000
 addicts had they gone through. [@2,4]
 
