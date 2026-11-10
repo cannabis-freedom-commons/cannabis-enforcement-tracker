@@ -87,6 +87,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-07
     language: hi
+  - title: ব্যাগ খুলতেই অবাক যাত্রীরা! উদ্ধার ২৫ কেজি গাঁজা, রেল পুলিশের জালে আরও ১
+    url: https://bengali.news18.com/news/national/passengers-left-stunned-as-bags-are-opened-25-kg-of-cannabis-seized-in-madhupur-station-one-more-person-arrested-by-rpf-ss-2957981.html
+    publisher: News18 Bengali
+    date: 2026-11-10
+    language: bn
 open_questions:
   - No weight in kilograms was published, only a count of 11 bundles, so no cannabis weight can be recorded.
   - The article's later paragraphs, which appear to name the suspect, his age and village, the night-time timing and the investigation status, sit behind a paywall and were not part of the captured text, so they are left out of the report.
@@ -106,11 +111,13 @@ open_questions:
   - The article's publication date of 7 November 2026 is the only date; as in the existing report, the event is taken as the night before, but Jagran does not say when the arrest happened.
   - The page image is a generic hero picture with no caption or credit and is not established to show this seizure.
   - The video page's article text did not load in the capture, leaving only the headline; facts beyond the headline were checked on the text version of the same Dainik Bhaskar article, while quotations here come from the captured video page.
+  - News18 Bengali gives 7 November 2026 at about 02:55 as the time of the check, while the existing report dates the event to 6 November 2026 inferred from earlier publications, so the overnight timing needs reconciling.
+  - No court appearance, plea or later case outcome is reported beyond the NDPS Act sections applied by the Madhupur railway police.
 ---
 
 A joint team of the Railway Protection Force stopped and searched a young man on
 platform no. 2 of Madhupur railway station after his movements appeared
-suspicious. [@1,3,5] The team arrested him with 11 bundles of ganja. [@1,3,4,5,6]
+suspicious. [@1,3,5,7] The team arrested him with 11 bundles of ganja. [@1,3,4,5,6]
 
 Dainik Bhaskar puts the value of the seized ganja at about ₹12.50 lakh. [@1,3,5,6] Two
 accounts say the man was arrested with ganja on the platform of Madhupur railway
@@ -126,3 +133,5 @@ The 11 bundles were taken from a trolley bag and a rucksack, and when weighed th
 The Madhupur RPF inspector, H.K. Singh, said the seized ganja was estimated to be worth about ₹13 lakh. [@4]
 
 The arrest came during checks at stations and on trains ordered by senior officers ahead of the Kali Puja, Diwali and Chhath festivals. [@5] Dainik Jagran says the man was carrying a railway ticket from Madhupur to Roorkee, in Uttarakhand, where he said he was taking the consignment. [@5] The man told the RPF he had travelled by road to Madhupur rather than by train to Dhanbad as originally planned. [@5] Railway police suspect at least one other smuggler escaped from the spot and are questioning the arrested man about the network he worked for. [@5]
+
+The check happened at about 02:55 on 7 November 2026. [@7] The officers approached the suspect near electric pole number 293/13A on platform number 2. [@7] The seized drugs and the detained man were handed to the Madhupur Government Railway Police Station in Deoghar district, Jharkhand, where proceedings began under sections 20(b)(ii)(C) and 29 of the Narcotic Drugs and Psychotropic Substances Act, 1985. [@7]
