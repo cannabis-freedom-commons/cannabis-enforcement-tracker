@@ -59,7 +59,6 @@ open_questions:
   - No market value for the ganja was published.
   - The Cayman Compass page's available image is identified as a courthouse and does not show the landing, canoe or ganja, so no event media is included.
   - The early report says the Joint Marine Unit and Air Operations responded just after midnight, while the later sentencing account describes two patrolling officers seeing the unloading around 11:30 p.m.; the reports do not reconcile which units first observed the landing.
-  - The submitted page's only listed image is a file photo of George Town Police Station, not the landing, vessel or packages, so no event media is included.
 ---
 
 Three men were sentenced on Monday to prison terms ranging from two and a half

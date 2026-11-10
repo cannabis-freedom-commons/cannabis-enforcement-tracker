@@ -45,7 +45,6 @@ open_questions:
   - The amount and conditions of the bail imposed on the lawyer were not reported.
   - No court outcome beyond the lawyer being made a formal suspect was reported.
   - The detention day is given as Wednesday the 15th, understood as 15 October 2025 from the October 2025 publication dates, while the first account says only this week.
-  - The submitted page carries only a generic placeholder image with no caption showing the event, so no media entry is included.
 ---
 
 In Huíla province, a lawyer was detained this week and later made a formal

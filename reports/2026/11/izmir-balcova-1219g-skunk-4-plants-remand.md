@@ -127,11 +127,9 @@ open_questions:
   - Milliyet credits the dispatch to a DHA correspondent and carries the same İzmir provincial gendarmerie account as the outlets already cited, so it is not independent reporting.
   - The Milliyet page gives no separate date for the raid beyond "the previous day"; 7 November 2026 remains an estimate from the 8 November 2026 publication date.
   - The Milliyet page photo is captioned only with the article headline and carries no credit identifying what it depicts, so it is not confirmed to show this seizure.
-  - The submitted page address given in the request ends in "balcovada-belediye-baskan-vekili-selahattin-yi-7620864", a July 2026 Milliyet story on the election of a Balçova deputy mayor; the opened article text, title and canonical address are the DHA dispatch on the Balçova cannabis search, which is used here.
   - Anadolu Agency credits the dispatch to correspondent Metin Aydemir, while the accounts already cited attribute it to DHA; both carry the same İzmir provincial gendarmerie account.
   - The Hürriyet page gives no separate date for the raid; only the 8 November 2026 publication time is shown.
   - Tekha carries the same İzmir provincial gendarmerie account as the DHA dispatch already cited, so it is not independent reporting.
-  - The Haberler page gives no separate date for the raid; 7 November 2026 remains an estimate from the 8 November 2026 publication date, as in the existing report.
   - This Haberler version publishes a different page photo from the Haberler.com copy already cited; the image carries only the headline as its caption, so it is not confirmed to show this seizure and is not listed as media.
   - This account calls the four rooted plants kenevir bitkisi rather than skunk plants and does not mention the grinder reported in other accounts.
   - This page gives no separate date for the raid; only its 8 November 2026 publication time is shown.
@@ -140,7 +138,6 @@ open_questions:
   - The page gives no charge, plea or trial date for K.A.
   - The page's image is captioned only with the headline and carries no credit identifying what it depicts, so it is not listed as media.
   - The Son Dakika page gives no separate date for the gendarmerie raid; 8 November 2026 is its publication time, so the report's estimated 7 November 2026 incident date is unchanged.
-  - The page credits the Anadolu Agency and carries no caption confirming any photo of the search; its only images are the Son Dakika logo and mobile-app banners, so no media entry is added.
 ---
 
 İzmir provincial gendarmerie teams determined that a suspect identified only as

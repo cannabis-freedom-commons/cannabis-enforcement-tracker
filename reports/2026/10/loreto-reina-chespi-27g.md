@@ -66,7 +66,6 @@ open_questions:
   - Neither account gives a date for the raid separate from publication on 30 October 2026.
   - No charge, court date or sentence has been reported.
   - Más Encarnación credits Megacadena; SENAD's own written statement was not found on senad.gov.py.
-  - Cuarto Poder published an uncaptioned photo of the case, so it was left out; sidebar images on the submitted page are advertisements.
   - The La Nación article body did not render in the submitted capture or on re-fetch, so its own wording could not be read or quoted; the match rests on its headline and on the two outlets' reports.
   - Frontera Seca News and Popular describe the haul only as almost 800 doses of crack, cocaine and marijuana combined, without the 113 g of crack, 21 cocaine doses and 27 g of marijuana breakdown the report uses.
   - Popular's four pictures carried no captions or credit, so no new media was added.

@@ -53,7 +53,6 @@ open_questions:
   - The amount of money seized was not quantified, so no cash figure is recorded.
   - The hashish was not valued separately, so no value is recorded.
   - No other outlet or court statement reporting this appeal was found, so only one source supports the account.
-  - The page image is captioned only as a court picture and is not established to show this case, so no media entry is included.
 ---
 
 Cairo's appeals criminal court rejected the appeal of an unemployed man against

@@ -65,7 +65,6 @@ open_questions:
   - Cocaine, crack and amphetamine oil seized in the same searches are mentioned only as context; their quantities are excluded from the cannabis figures.
   - Cologne police said inquiries target 31 suspects in total; only the nine arrests are recorded here.
   - No names were published and no trial outcome was reported.
-  - The ministry page carries only an archive stock photo of a police-vehicle siren, so no media entry is listed.
 ---
 
 Spain's National Police, working with Germany's BKA and Cologne police,

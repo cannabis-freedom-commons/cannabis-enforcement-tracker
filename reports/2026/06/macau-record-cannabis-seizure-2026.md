@@ -48,11 +48,8 @@ sources:
     publisher: Macau Business
     date: 2026-06-09
 open_questions:
-  - The Standard gives the man's surname as Chow and a payout of no less than MOP 60,000, while the already-cited Macau Daily Times account uses Zhou and the existing report says HKD60,000; Plataforma says at least 60,000 Hong Kong dollars, so both the spelling and the currency are unsettled.
   - Plataforma says the man had already been presented to the Public Prosecutions Office, while The Standard says the case was being transferred, so the timing of that referral is not settled.
-  - The Standard's lead photo carries no caption or credit linking it to this seizure, so no media entry is added from it.
   - The same article also describes a separate case of a 26-year-old man caught with 5.8 kilogrammes of marijuana on his way from Macau to Hong Kong at the Sheung Wan ferry terminal, a different event left out of this match.
-  - The submitted article does not name the interception point, while the existing report places the arrest at Macau International Airport on the basis of its other sources.
 ---
 
 A 25-year-old Hong Kong man was arrested at Macau International Airport with about 35 kg of cannabis flower in two suitcases, packed in 60 packets, after arriving from Southeast Asia. Police valued the haul at about MOP35 million and called it the largest cannabis case in Macau's history, eight months after the previous record. The man was reportedly paid at least HKD60,000 to carry the drugs, which police believed were bound for another market. The case went to the Public Prosecutions Office. [@1,2]

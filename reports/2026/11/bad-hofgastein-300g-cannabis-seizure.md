@@ -48,7 +48,6 @@ open_questions:
   - No court outcome was reported; the man remains free and has been reported, with further steps ordered but not described.
   - The precise location within the municipal area of Bad Hofgastein was not specified.
   - Only one accessible source for this event was found after searching in German.
-  - The article's main image is explicitly labelled as a symbol image and is not shown as this seizure, so no media entry is included.
 ---
 
 On Tuesday evening, police stopped a 39-year-old Turkish car driver in the

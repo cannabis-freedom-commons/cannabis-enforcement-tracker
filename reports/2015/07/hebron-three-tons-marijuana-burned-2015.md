@@ -41,7 +41,6 @@ sources:
 open_questions:
   - The reports value the destroyed marijuana at $50 million without naming the currency or who made the estimate.
   - No arrests or seizures of growers connected to the destroyed marijuana were reported.
-  - No photo of the burning itself could be verified, so no media entry was added.
 ---
 
 Hebron police set fire to about three tons of marijuana on Monday morning, destroying cannabis seized in an operation that ran over the previous several months. [@1] The Hebron District Governorate called it the biggest drug destruction operation in Palestine to date, saying it resulted from months of police work. [@2]

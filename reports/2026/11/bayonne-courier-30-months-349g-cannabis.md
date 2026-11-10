@@ -66,9 +66,6 @@ open_questions:
   - The seizure also included one gram of cocaine, which is mentioned for context and excluded from the 0.349 kg cannabis figure.
   - The 2,250 euros found in the glove box was seized cash, not a stated drug valuation, so no value figure is recorded.
   - The four additional images on the page carry no caption establishing that they show this event and are not listed as media.
-  - Sud Ouest reports nearly 400 grams of cannabis without giving the herb-resin split, while the existing report records 166 grams of herb and 183 grams of resin.
-  - 'The town names on the sachets differ between the outlets: Sud Ouest lists Tarnos, Anglet and Bayonne, while the existing report lists Tarnos, Bayonne, Seignosse and Saint-Paul-les-Dax.'
-  - Sud Ouest describes a single 200-euro courier run, while the existing report describes pay of 200 euros per day.
   - Sud Ouest does not mention the one gram of cocaine, the prosecutor's requested sentence, or driving without a licence recorded from the earlier outlet.
   - The opened Sud Ouest text breaks off mid-sentence in the arrest passage, so its account rests on the readable opening lines.
 ---

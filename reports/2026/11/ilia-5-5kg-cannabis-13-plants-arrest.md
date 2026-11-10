@@ -78,16 +78,11 @@ sources:
     date: 2026-11-07
     language: el
 open_questions:
-  - The incident date is the 4 November 2026 operation date given by the second account; the submitted page gives only its 5 November 2026 publication date.
   - No village or more precise location within Ilia was named, so coordinates mark the district centre.
   - The man's name, age and nationality were not published.
   - No court outcome beyond referral to the Ilia prosecutor was reported.
-  - The submitted page image is captioned only with the headline and carries no credit establishing that it shows this seizure, so no media entry is included.
-  - The Pelop.gr page image repeats the headline with no credit establishing that it shows this seizure, so no media entry is included from that source.
   - Pelop.gr states that the police announcement did not say whether the seized cannabis was intended for trafficking.
-  - PatrisNews gives the freshly harvested quantity only as 5.5 kilograms, while police and the other accounts give 5 kilograms and 500 grams plus 6 grams of dried cannabis; the existing report keeps the precise police split.
   - The article gives no separate date for the appearance and release; 7 November 2026 is its publication date and is used for the latest step.
-  - The page's single image carries no caption or credit establishing that it shows this seizure, so no media entry is included.
   - The exact hour of release is given only as midday on Saturday 7 November.
   - The two accounts give the same statement-based details but do not say when the case will next come to court.
   - The Ilia.news page image is a photograph filed in a 2017 upload folder and captioned only with the headline, so it is not established as showing this case and is not listed as media.

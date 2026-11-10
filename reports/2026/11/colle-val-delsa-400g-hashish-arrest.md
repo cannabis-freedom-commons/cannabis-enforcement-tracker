@@ -59,12 +59,10 @@ open_questions:
   - The article gives no separate date for the stop; 5 November 2026 is its publication date and is used as the incident date.
   - Only one accessible source for this event was found after searching in Italian and English.
   - The two men are not named; only their ages and foreign citizenship were published.
-  - The page image is a 2019 file photo of a Carabinieri arrest, not this seizure, so no media entry is listed.
   - No court outcome beyond house arrest pending the validation hearing was reported.
   - La Nazione gives no separate date for the stop; 6 November 2026 is its publication date.
   - Antenna Radio Esse gives no separate date for the stop; 5 November 2026 is its publication date and stands in for the incident date.
   - Antenna Radio Esse publishes the men's nationalities but not their names.
-  - The page's lead image is an uncaptioned Carabinieri picture that is not established to show this seizure, so no media entry is listed for it.
 ---
 
 Two young foreign men aged 25 and 22 were arrested by the Carabinieri in Colle

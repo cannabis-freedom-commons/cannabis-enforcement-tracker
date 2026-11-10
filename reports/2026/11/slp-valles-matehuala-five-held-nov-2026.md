@@ -55,7 +55,6 @@ open_questions:
   - No charges, custody ruling or court outcome were reported; the detainees were placed at the disposal of the competent authorities for investigation.
   - Both outlets reproduce the same Guardia Civil Estatal statement, so they are not independent reporting, and no separate official communiqué was opened.
   - The age of the teenager detained in Ciudad Valles was not published.
-  - No direct image address for a photograph confirmed to show this event could be recorded, so no media entry is listed.
 ---
 
 San Luis Potosí's state civil guard, the Guardia Civil Estatal, detained five

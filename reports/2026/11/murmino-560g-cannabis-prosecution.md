@@ -60,7 +60,6 @@ open_questions:
   - The prosecution accounts give only the 3 November 2026 publication date and no separate date for transfer to court, so the publication date is used as the incident date.
   - The weight is reported as more than 560 grams in the prosecution accounts and as 560 grams in the detention account; the report records 0.56 kg.
   - No court outcome had been reported when the sources were published.
-  - The YA62 page photo caption does not establish that it shows this seizure, and the earlier detention photo is a generic 2023 arrest image, so no media entry is added.
 ---
 
 Police detained a 45-year-old resident of the settlement of Murmino on suspicion

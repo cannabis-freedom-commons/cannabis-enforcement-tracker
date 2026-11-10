@@ -50,7 +50,6 @@ open_questions:
   - No usable event photo could be listed because the page image is generic stock and the listed video placeholder does not show the arrest.
   - The text gives a weight ("240 kilos") but the figures have no kg_seized; check whether it belongs there.
   - 'Left out, as its quotation was not found in RMC: After his release he specialised in “Go-fast” deliveries using powerful cars to cross Spain and France at speed with scout cars to spot controls.'
-  - The new source estimates 50 tonnes of cannabis resin per month sent to France, while the existing report records about 50 tonnes per year; the report figure is retained and the monthly estimate is not added to figures.
   - 'The two page images are not usable as event media: one shows a July 2018 Marseille resin seizure and the other is a portrait captioned only Moufide Bouchibi, neither showing the Dubai arrest itself.'
   - The go-fasts involved several tonnes of cannabis, but no exact weight was published, so no kilograms are recorded.
   - The figures record the principal fine of one million euros; the additional 2.9 million euro customs fine is reported in the text but has no separate structured field.
@@ -61,7 +60,6 @@ open_questions:
   - Sud Ouest says his network was estimated to sell 50 to 100 tonnes of resin a year in France, while RMC said about 50 tonnes a year; the report keeps its figure and no kilograms are recorded from either estimate.
   - The 750 kilograms seized from the Mercedes in Tarn-et-Garonne in 2011 belong to a separate seizure, not the Dubai arrest, and are not recorded as kilograms seized here.
   - Sud Ouest uses ''shit'' as slang for cannabis resin; the account gives no further breakdown of the tonnes it estimates.
-  - The page's only photo is a Sud Ouest archive picture of Moufide Bouchibi, not an image of the Dubai arrest, so no media entry is added.
   - Sud Ouest reports that customs intercepted 7 tonnes and thereby disrupted the anti-narcotics office's plan, and that its then head was later charged with complicity in drug trafficking; these events are not further specified in this account.
 also: [arrest]
 details:

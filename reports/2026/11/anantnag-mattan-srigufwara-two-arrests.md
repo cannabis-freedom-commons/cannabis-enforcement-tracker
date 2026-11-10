@@ -78,16 +78,7 @@ sources:
 open_questions:
   - The reports carry 2 November 2026 datelines and publication dates but give no separate day for the two operations.
   - The sources name no lawyer, court date or custody outcome for either man.
-  - The sources' lead images could not be confirmed as photographs of these seizures, so no media entry was added.
-  - The submitted page was published on 3 November 2026 while the existing report's sources are dated 2 November 2026, with no separate day given for the two operations.
   - The page's lead image is a 2021 file image captioned only with the generic headline, so it cannot be confirmed as a photograph of these seizures.
-  - The page's lead image is a 2021 file image captioned only with the generic headline, so it cannot be confirmed as a photograph of these seizures and no media entry is added.
-  - The article carries a Srinagar Nov 02 dateline and a 03 November 2026 publication date but gives no separate day for the operations; the existing report's 02 November 2026 date is retained.
-  - The page's lead image has no caption or credit establishing that it shows these seizures, so no media entry is added.
-  - The submitted page reports the Anantnag and Kupwara operations together as five arrests, while the tracker records them as two district-focused reports; this source is added to both accounts.
-  - The submitted page calls the contraband charas, while the Kupwara report retains charas-like substance pending forensic confirmation.
-  - The submitted page gives no checkpoint names or NDPS sections; those details remain sourced to earlier reports.
-  - No media entry is added because the page image is captioned only with the generic headline and cannot be confirmed to show these seizures.
 ---
 
 Anantnag police arrested two alleged drug peddlers in separate operations run by

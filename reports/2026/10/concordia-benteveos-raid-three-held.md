@@ -90,10 +90,7 @@ open_questions:
   - 'The 9 Digital page is a syndicated copy of the AHORA Entre Ríos article already cited in this report: the body text, publication time and lead photo are the same, so it adds no independent corroboration.'
   - Despertar Entrerriano credits El Once as its source and reproduces that outlet's account, so it adds a further outlet but not independent corroboration of the raid.
   - This page does not name the city; Concordia is taken from the other accounts of the same raid already cited in the report.
-  - The El Heraldo page was published on 31 October 2026 and gives no separate calendar date for the raids, while the existing report dates the event to 30 October 2026.
   - The page image caption only repeats the headline, so whether the photo shows this raid could not be verified and it is not listed as media.
-  - The new account locates the raid in Paraná while the existing report places the same street addresses in Concordia, so the city name conflicts.
-  - The page image shares the file name m_1793415132_89594.webp with the existing report's lead photo and carries only the headline as caption, so it appears to duplicate already-listed media rather than add a distinct image.
 ---
 
 Three people were detained in Concordia during a police raid on Friday afternoon

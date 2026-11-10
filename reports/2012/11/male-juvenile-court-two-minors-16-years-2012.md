@@ -63,7 +63,6 @@ open_questions:
   - No outcome was reported for the woman who travelled with the girl; her trial was continuing in the Criminal Court.
   - The incident date is the reported sentencing date of 13 November 2012, taken from the Sun English Edition; the Maldives Independent report was published on 14 November 2012 and gives no separate sentence date.
   - No remand, earlier charges or street value were reported for the two minors in the opened sources.
-  - No photograph of the event was published with the Maldives Independent report, so no media entry is included.
   - Left out agencies, as no supporting quotation was given.
 ---
 

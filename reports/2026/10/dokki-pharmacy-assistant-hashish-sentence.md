@@ -52,7 +52,6 @@ open_questions:
   - The articles give no sentencing date separate from their 29 October 2026 publication, so 29 October 2026 is used as the incident date.
   - The 115-gram hashish figure is reported as approximate.
   - Tramadol tablets, other psychotropic medicines, weapons, phones and cash are mentioned only to explain the mixed case and their quantities are excluded from cannabis figures.
-  - The Youm7 page photo is captioned as an archive image of an accused person and is not established to show this seizure, so no media entry is included.
   - No fine amount was published.
 ---
 

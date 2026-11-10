@@ -50,11 +50,7 @@ open_questions:
   - The article gives no separate date for the Ahmedabad interception, so 28 January 2026, its publication date, is used as the incident date.
   - Only one accessible account of this recapture was found after searching, so no second source could confirm the details.
   - No charges, remand order or further court outcome beyond custody and legal procedures were reported.
-  - The page's only image repeats the headline with no credit or event detail, so it cannot be established to show this event and no media entry is included.
   - The 13 kg and Rs 13 crore figures describe the July 2024 Kathmandu Airport seizure that led to the original imprisonment and are retained as the case's cannabis seizure figures.
-  - The new account was published on 27 January 2026, a day earlier than the existing report's 28 January 2026 date, and neither account gives a separate time for the Ahmedabad interception.
-  - The new account calls the arresting unit the Gujarat Crime Branch and Gujarat Police SOG, while the existing report names the Ahmedabad Special Operations Group (SOG) Crime Branch.
-  - The new account says he was held under Nepal's narcotics laws, while the existing report cites the NDPS Act.
   - The flight number, Thakkarbapa Nagar address, Sashastra Seema Bal circulation, CID Crime team, Sub-Inspector Desai's role and Sonauli border crossing appear only in the earlier account and are not repeated in the new one.
   - The new account gives the Ahmedabad hiding place only as his mother-in-law's house in the Ahmedabad area without a further address, and gives the Rs 13 crore value as nearly that sum without naming who valued it.
 media:

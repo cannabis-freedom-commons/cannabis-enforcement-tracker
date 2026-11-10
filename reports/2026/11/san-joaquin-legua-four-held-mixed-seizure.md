@@ -63,7 +63,6 @@ open_questions:
   - The reported six-million-peso valuation covers all seized drugs together and cannot be attributed to cannabis alone, so no value is recorded.
   - The articles say the detention occurred on Sunday and were published on 8 November 2026, which is used as the incident date; no separate operation hour was given.
   - No charges, court or formalization outcome beyond placement at the disposal of the authorities was reported.
-  - The La Tercera page images are captioned only with the headline and cannot be verified as showing this operation, so no media entry is listed.
 ---
 
 Chilean PDI detectives detained four people from a gang that sold illicit

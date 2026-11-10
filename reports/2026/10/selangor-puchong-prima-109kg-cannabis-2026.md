@@ -102,7 +102,6 @@ open_questions:
   - The two cars, motorcycle, three watches and jewellery are described here for the cannabis raid alone, while RTM reports RM126,062 in vehicles and jewellery forfeited across two operations; the report still records no figure for them.
   - The Sun's English text cites remand under section 38B of the Dangerous Drugs Act 1952, while the report and the fuller Bernama/Astro Awani account cite Section 39B; the report retains 39B as the majority account.
   - The Sun's English version places the cannabis raid only 'in Selangor' and omits Puchong Prima, Op Eupeodes, the RM327,600 police valuation and distribution since August, which come from the report's earlier RTM and Malay sources.
-  - The lead image on the submitted page shows the NCID director demonstrating how drugs are concealed inside shoes for the separate cocaine mule case, not the cannabis seizure, so no media entry is added.
   - 'Police: Drug rings target financially troubled as mules (The Sun Malaysia) could not be opened again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.'
 ---
 

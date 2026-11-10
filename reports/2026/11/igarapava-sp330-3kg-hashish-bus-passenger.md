@@ -77,7 +77,6 @@ open_questions:
   - The 210,000-reais figure is a police estimate of losses to organised crime, not a confirmed market price.
   - Coordinates are for Igarapava town, not the exact point at kilometre 448 of the SP-330.
   - The PMESP page images carry no captions or credits; they are attributed to PMESP as the publishing agency, and duplicate scaled thumbnails are listed only once.
-  - The submitted page is the English version of the PMESP report; no separate independent account could be opened.
 ---
 
 The Military Highway Police arrested a bus passenger carrying about three kilos

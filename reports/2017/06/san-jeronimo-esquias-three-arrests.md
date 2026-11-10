@@ -46,7 +46,6 @@ open_questions:
   - The marijuana weight was described as approximate with no laboratory result, charge or court outcome reported.
   - The several litres of allegedly adulterated liquor are not cannabis and are excluded from cannabis figures.
   - Only the Public Ministry statement for this 15 June 2017 operation could be opened after searching; a same-titled August 2017 Comayagua operation involved different detainees and is a separate event left out here.
-  - The page carries an image filed only as IMG 20170615 WA0015 with no caption establishing that it shows this seizure, plus a site logo, so no media entry is included.
 ---
 
 A combined operation by the Public Ministry, the DPI investigative police, the

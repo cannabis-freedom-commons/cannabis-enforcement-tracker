@@ -47,7 +47,6 @@ open_questions:
   - No weight for the marijuana or the number of plants per accused was published, only about 30 plants.
   - No charges, court date or outcome for Hernández Sánchez were reported beyond the bail ruling and his admission to the Bayamón regional jail.
   - Only one account of the event, a CyberNews wire copy, could be found; no separate police statement or second outlet was located.
-  - No photo of the seizure or the residence appears on the opened page, so no media is listed.
 ---
 
 Police agents from the Bayamón Drugs Division searched residence AC 43 in the

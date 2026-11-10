@@ -41,7 +41,6 @@ open_questions:
   - The report gives no address or exact location for the two searches beyond the Lafontaine sector.
   - The 9 November 2026 date is the article's publication date, describing the same day; the operation was still under way when it was written, so later steps are not recorded.
   - Only one accessible source for this event was found after searching in French.
-  - The page image is a stylised 'Perquisition en cours' graphic credited only as Courtoisie, not a photograph of the searches, so no media is listed.
 ---
 
 Officers of the Service de police de la Ville de Saint-Jérôme, the city police

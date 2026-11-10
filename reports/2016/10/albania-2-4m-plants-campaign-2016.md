@@ -56,7 +56,6 @@ sources:
     archived: https://web.archive.org/web/20260416190902/https://www.tiranatimes.com/police-chief-says-2-4-million-cannabis-plants-destroyed-so-far-this-year/
     date: 2016-10-08
 open_questions:
-  - No photo confirmed to show this campaign was available, so no media entry was added.
   - The Tirana Times page displays 14 October 2016 while its dateline says 8 October; the report dates the event to the 7 October police announcement both sources describe.
   - The 3.3 billion dollar valuation is an expert estimate of the destroyed plants, not a seized sum.
 ---

@@ -25,7 +25,6 @@ open_questions:
   - No quantity of ganja is given for either charge, so no weight is recorded.
   - No plea was taken and no court outcome after the 12 February 2013 adjournment was found.
   - Only one account of the hearing was found; no court record or second outlet report was opened.
-  - The only image on the page is a courthouse file photo, and the only other picture is the outlet's logo; neither shows this event, so no media entry is listed.
 ---
 
 Two inmates of Her Majesty's Prison at Northward appeared in Summary Court in

@@ -45,7 +45,6 @@ open_questions:
   - No charges, custody decision or court outcome were published; the investigation was reported as continuing.
   - Whether the seized seedlings and plant were destroyed or retained as evidence was not stated.
   - Cannabis seeds are described in the text but have no figures field, so only the plant count and weight are recorded.
-  - The page image shows Port Mathurin with no caption linking it to this search, so no media entry is included.
 ---
 
 On Monday 2 November 2026, at around 10:15, officers of the ADSU carried out a

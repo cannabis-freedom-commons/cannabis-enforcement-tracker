@@ -43,7 +43,6 @@ open_questions:
   - The report gives no separate date for the arrest; 30 October 2026 is the article's publication date.
   - It does not say where Dharmbir allegedly obtained the charas, whether he was remanded to custody, or when he is due in court.
   - Only one account of the arrest, a Hindi news brief, could be found; no police statement or second outlet confirmed the details.
-  - The page's only image is a generic Faridabad city graphic, not a photograph of the arrest, so no media entry is included.
   - 'Left out, as its quotation was not found in Amar Ujala: Charas is one of the cannabis products covered by the NDPS Act, which governs the possession, sale and transport of narcotic drugs in India.'
 ---
 

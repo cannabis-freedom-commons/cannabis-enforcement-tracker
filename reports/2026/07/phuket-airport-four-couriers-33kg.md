@@ -53,7 +53,6 @@ open_questions:
   - The 11 French arrests cited as summer context are a separate broader count and are excluded from this report's figures, which cover only the 27 July Phuket seizure.
   - The submitted article says about 16 kilos were found in each of the two Swiss bags, while RTS reports 16 kilos in their suitcases together and Phuket customs lists about 7.6 kg and about 8.0 kg for the two Swiss suspects; the report uses the official combined total of more than 33.6 kg.
   - No court outcome was reported for the detained Vaudois or the two French suspects beyond one awaiting trial in the October RTS account.
-  - No verified event photo with a recoverable direct image URL is included; Phuket News credits Sakhu Police photos without a recoverable address and the submitted page's images lack captions establishing they show this seizure.
   - The July total of more than 146.5 kg across five cases involving 11 suspects at Phuket airport is context and is not counted in figures.
 ---
 

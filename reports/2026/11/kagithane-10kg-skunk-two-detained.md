@@ -85,12 +85,7 @@ open_questions:
   - The articles give no separate raid date, so 4 November 2026 is the publication date used as the incident date.
   - No charges, custody ruling or court outcome for the two detained suspects were reported.
   - Both opened accounts repeat the gendarmerie version; no separate official statement with additional detail was opened.
-  - This account dates the raid to 3 November 2026, while the existing report uses the 4 November 2026 publication date as the incident date.
-  - The page lead image has no caption linking it to this seizure, so no media entry is included.
-  - The Sivas 360 lead image is captioned only with the article title and cannot be established to show this seizure, so no new media entry is added.
   - This account notes that the Istanbul Governorship statement it summarises does not mention a narcotics dog, so the dog's reported role rests on the news-agency account alone.
-  - The page's lead image is captioned only with the article title and is not established to show this seizure, so no media entry is included.
-  - The page embeds a 1:05 video captioned with the article title, but the captured text does not establish that its visible content shows this seizure, so no media entry is added.
 ---
 
 Istanbul Provincial Gendarmerie Command teams started work to catch suspects

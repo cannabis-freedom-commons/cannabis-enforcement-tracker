@@ -50,7 +50,6 @@ sources:
 open_questions:
   - This report rests on a single opened source; the Greater Manchester Police press release on the same sentencing could not be opened directly.
   - The total street value is given as more than £15 million, so the figure is a lower bound rather than an exact total.
-  - Press photographs of the seized cannabis and the bunker could not be verified as depicting this event, so no media entry was added.
 ---
 
 Seven men were jailed at Manchester Crown Court on 19 July 2019 for a conspiracy that imported 2.5 tonnes of cannabis worth more than £15 million from Spain into Britain. [@1] Scott Byrne, 32, of Westhoughton was found guilty of importing cannabis and sentenced to 13 years, and Tony Cadman, 32, of Widnes was found guilty of the same charge and sentenced to 12 years. [@1] Michael Lawlor, 49, of Bolton and Wesley Kinsella, 31, of Bolton each received nine years, Lee Jackson, 38, of Wirral nine years and four months, and Michael Moore, 30, and Michael Harley, 35, both of Bog Farm in Eryrys near Mold, two years and nine months each for industrial-scale production. [@1]

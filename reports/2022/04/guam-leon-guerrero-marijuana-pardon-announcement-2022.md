@@ -28,7 +28,6 @@ open_questions:
   - The governor announced that she would issue an executive order, but the sources available here do not report that it was issued or list anyone pardoned.
   - The article gives no separate date for the announcement; 20 April 2022 is the Wednesday of the video message and the Pacific Daily News publication date, and is used as the incident date.
   - Neither source names any individual convicted of a marijuana misdemeanor or describes the convictions involved.
-  - The submission's only photographs are file photos of a marijuana plant, not pictures of the announcement, so no media entry is listed.
 ---
 
 Guam Gov. Lou Leon Guerrero announced plans to pardon people who were convicted

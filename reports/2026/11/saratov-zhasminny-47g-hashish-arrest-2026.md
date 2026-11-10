@@ -60,7 +60,6 @@ open_questions:
   - The woman's identity, the exact place of detention within the Zhasminny microdistrict and the intended buyer were not reported.
   - No court outcome is yet known; the case was at the investigation stage when the article was published.
   - A second account of the same police statement on saratov-news.ru could not be read because the page is encoded in Windows-1251, so no second source is cited.
-  - The Zhurnal Saratov article is based on material from Общественное мнение, the outlet the existing report already cites, so it may not be an independent second account.
 ---
 
 Police in Saratov detained a 40-year-old local woman in the Zhasminny

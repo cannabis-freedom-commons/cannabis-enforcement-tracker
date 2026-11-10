@@ -47,7 +47,6 @@ open_questions:
   - No custody ruling, charge framing or court outcome was reported; police said the investigation was continuing.
   - The seized amount is described as 1.3 kg in the headline and 1 kg 300 g in the text; the text figure is used.
   - The 35,000-rupee figure is police's estimated value for the ganja, not a court finding.
-  - The lead photo shows police officers standing in front of the Betma police-station sign, not the seizure, so no media entry is included.
 ---
 
 Betma police arrested Shyam, also known as Bhaiyyu Masaniya, near the Raj

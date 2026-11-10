@@ -79,10 +79,7 @@ open_questions:
   - The 367 kg of mephedrone is a non-cannabis psychotropic substance and is excluded from cannabis figures under the substance scope.
   - The reported value of about 62 million dollars and the estimate of 2,933,000 single doses cover the combined hashish and mephedrone haul, so no cannabis-only value is recorded.
   - Both accounts relay the customs authorities' version, with the Smartpress item closely following the State Customs Committee statement, and no independent account was opened.
-  - The Interfax page displays a photo credited to Sergei Karpukhin of TASS, but its caption does not confirm that it shows this seizure, so no media entry is added.
   - 'Left out, as its quotation was not found in Интерфакс: Searches of the detained suspects seized about 5 kg more of hashish and mephedrone combined, which cannot be separated by substance.'
-  - The sb.by account says only a few bottles actually contained water, differing in wording from the existing report's description of several dozen real water bottles used as cover.
-  - The sb.by page displays photos credited to the State Customs Committee without captions confirming what they depict, so no media entry is added.
 ---
 
 Belarusian customs officers intercepted an international shipment of drugs and

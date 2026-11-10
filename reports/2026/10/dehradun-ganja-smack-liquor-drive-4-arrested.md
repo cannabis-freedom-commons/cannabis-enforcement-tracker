@@ -45,7 +45,6 @@ open_questions:
   - Only one accessible source was found after searching in Hindi and English; no second account of this drive could be opened.
   - The full article requires the outlet's app or login, so the station-wise split of the four arrests and any charges or court outcome could not be verified.
   - The arrest count covers the combined narcotics and liquor recoveries, not cannabis alone.
-  - The page's single image is a newsroom composite whose caption does not describe what it shows beyond the arrests, so no media entry is added.
 ---
 
 Dehradun police intensified action against the illegal drug trade in the city.

@@ -73,7 +73,6 @@ open_questions:
   - The two photos are separate agency handout images of the seizure, one showing the car and tablets and the other the tablets alone, and no further photographs of the event were published.
   - The Campo Grande News account gives no separate date for the seizure; 4 November 2026 is its publication date, used as the incident date.
   - The page says only that no one had been located at the time of publication, leaving open whether suspects were later identified.
-  - The submitted article names the seizure place as the Guaira region of Parana near the Rio Parana, while the existing report places it on the banks of the Rio Parana in Mundo Novo, Mato Grosso do Sul; both describe referral to the Federal Police in Guaira.
   - The submitted headline refers to hashish hidden in a mailed book, but the captured article text gives no weight, place, date or enforcement detail for that case, so no separate hashish figure is recorded.
   - The captured submitted text ends mid-sentence on the Viracopos gun-parts inspection involving the dog Thor, so that episode is left out here.
 ---

@@ -59,7 +59,6 @@ open_questions:
   - The 304.27-euro fine is stated to equal the valuation of all seized drugs together, so no cannabis-only drug value is recorded.
   - The 195 euros in cash and the scales, packaging and notes are reported only to explain the case and are not recorded as tracker figures.
   - Only one accessible account of this event was found after search, so corroboration is limited.
-  - The page image is captioned as an archive/file photo and is not established to show this seizure, so no media entry is included.
 ---
 
 The Third Section of Córdoba’s Audiencia Provincial, the provincial court,

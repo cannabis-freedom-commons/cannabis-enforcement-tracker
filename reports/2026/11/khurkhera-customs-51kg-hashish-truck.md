@@ -58,8 +58,6 @@ open_questions:
   - No second outlet or Customs statement was found that could be opened to confirm the seizure.
   - The report does not say whether the hashish was sent for laboratory testing or what charges the driver faces beyond the registered first information report.
   - No figure for the separate value of the hashish alone, or of the vehicle alone, was reported; Rs239.5 million is the combined estimate.
-  - The page image is captioned only 'File Photo' and is not known to show this seizure, so no media entry is included.
-  - 24 News HD spells the station 'Kharkhira Digital Enforcement Station' while the existing report and ARY News use Khurkhera; the report keeps the existing spelling.
   - 24 News HD gives no separate date for the operation; 8 November 2026 remains the incident date taken from the ARY News account, and 9 November is this page's publication date.
   - The page's only picture is captioned with the headline and carries no credit, so it is listed as a media link without a claim about what it shows.
 media:

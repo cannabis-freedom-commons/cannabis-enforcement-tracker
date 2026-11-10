@@ -71,7 +71,6 @@ open_questions:
   - No ages, measure of restraint, charge sheet or court outcome were reported; the case was at the investigation stage.
   - The KIMS article reproduces the police account published on the district police's social media post, so the two are not independent reporting; the PTI copy could not be opened.
   - Coordinates are for Bandipora town, not for the exact spot at Kangri Chowk.
-  - The page's single photo carries no caption or credit and is not established to show this seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in District Police, Bandipora (X): The district police announced the arrests in the afternoon of 6 November 2026, the day before the roundup was published.'
   - Daily Excelsior puts the Kangri Chowk recovery at approximately 4.5 kg and the day's total at over six kg, where the KIMS account gave a 4–5 kg range and 6.5 kg in all.
   - Daily Excelsior does not repeat the FIR numbers for the two cases that the earlier accounts gave.

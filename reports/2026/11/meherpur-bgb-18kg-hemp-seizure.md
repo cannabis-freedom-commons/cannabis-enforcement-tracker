@@ -86,13 +86,11 @@ open_questions:
   - No arrests, detentions, names or court outcomes were reported; all seizures were described as unclaimed.
   - Syrup and liquor bottle counts and their Tk 1.14 lakh value are mentioned only to explain the mixed seizure and are excluded from cannabis figures; the Tk 1.77 lakh combined total is likewise excluded, with only the separately stated Tk 63,000 cannabis value recorded.
   - Only the submitted article's lead photo with a matching event caption is listed as media; unrelated sidebar photos on the same page are omitted.
-  - The page carries a photo credited only as Bangla Edition with the same headline as caption; the caption does not confirm it shows the seized drugs, so no media entry is added.
   - The outlet dates the cannabis recovery to the night of Saturday (31 October) and the syrup and liquor recovery to the following night (Sunday, 1 November).
   - Ajker Patrika places both drives on the night of Sunday 1 November, while the tracker's English source split them between Saturday and Sunday around 2:00 a.m.
   - Ajker Patrika publishes no value estimate for the drugs and names no arrests or detentions.
   - The page's image caption credits the photo only as collected, with no photographer or agency named.
   - The NAGORIK TV report describes the drives as taking place at dawn on Monday 2 November, while the report's existing sources date the cannabis recovery to about 2:00 a.m. Saturday and the syrup and liquor recovery to about 2:00 a.m. Sunday; 1 November remains the recorded incident date.
-  - This outlet names the Kushtia district sub-district as Daulatpur, while the existing report and its sources place the same Dholar Math and Mathurapur Refugeepara recoveries on the Meherpur border; the location discrepancy is unresolved.
   - The article times the hemp recovery at about 8:00 p.m. on Sunday 1 November and the syrup and liquor recovery at about 12:20 a.m. on Monday 2 November, later than the approximately 2 a.m. and Saturday timing given in the tracker's UNB source.
 ---
 

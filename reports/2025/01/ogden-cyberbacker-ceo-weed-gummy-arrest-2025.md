@@ -45,7 +45,6 @@ open_questions:
   - Only one opened source could be used; no second account or agency statement was opened to corroborate the arrest.
   - No court outcome, custody status or sentence beyond the listed charges was reported.
   - No details of any firearm allegedly purchased or seized were published.
-  - No photograph of this event with a recoverable direct image address was found; the page images are generic editorial art and a stock arrest image, so no media entry is included.
   - It is unclear whether the reported 9-pound total includes the gummy allegedly given to the child.
 ---
 

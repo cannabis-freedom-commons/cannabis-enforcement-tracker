@@ -34,7 +34,6 @@ open_questions:
   - The article gives no separate date for the investigation's start; 2 November 2026, the first reported seizure date, is used as the incident date.
   - The sheriff's office had not published its own release for these November seizures when the accounts were checked, so only one opened source supports the event.
   - The article does not say what citation or suspension Charles County Public Schools issued, or whether any guardian or supplier was investigated.
-  - The submitted page carries only a short description and no school names, ages or device count; those details rest on DC News Now's longer article, which could not be reopened (403).
 ---
 
 The Charles County Sheriff's Office said an investigation was under way after

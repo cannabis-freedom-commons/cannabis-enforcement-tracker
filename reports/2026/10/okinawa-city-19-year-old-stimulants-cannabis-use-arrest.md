@@ -43,7 +43,6 @@ open_questions:
   - No charge, prosecutor referral or court outcome was reported; the case was at the arrest stage.
   - Police did not disclose whether the boy admitted or denied the allegations.
   - The stimulants are a separate non-cannabis substance and are excluded from cannabis figures; the article gives no breakdown of the two substances.
-  - The page photo is captioned as a file photo of an Okinawa prefectural police patrol car and does not show the arrest, so no media entry is included.
   - The 47NEWS copy is a truncated syndication of the same Ryukyu Shimpo article and adds no facts beyond the opening paragraph.
   - 'Left out, as its quotation was not found in 47NEWS（琉球新報）: A 47NEWS syndication of the same report carries the same account: the 19-year-old from Okinawa City was arrested on 28 October on suspicion of using stimulants and cannabis in Okinawa Prefecture.'
 ---

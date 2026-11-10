@@ -48,8 +48,6 @@ open_questions:
   - No names were published; the 12 were described only as Greek nationals including one minor.
   - No court outcome was reported; only the four car occupants were said to be referred to the Achaia prosecutor while searches for others continued.
   - Only one accessible source for this event was found after searching in Greek.
-  - The page lists a photo with no caption or credit establishing that it shows this seizure, so no media entry is included.
-  - The Newsbomb page carries an image of a DIAS team captioned only with the article title, which does not establish that it shows this seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in Newsbomb: Police made 12 arrests over the Patras brawl, including one minor.'
 ---
 

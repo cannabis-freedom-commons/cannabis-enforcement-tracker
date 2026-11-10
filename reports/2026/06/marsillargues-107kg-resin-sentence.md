@@ -64,8 +64,6 @@ sources:
 open_questions:
   - The report is dated 5 June 2026, the sentencing date; the seizure itself happened on 29 September 2025.
   - Hérault Tribune gave his age as 28, while Midi Libre, France 3, InfOccitanie and actu.fr gave 29.
-  - Midi Libre's submitted page is paywalled after its opening paragraphs; its later paragraphs were read from the page's published structured article data.
-  - No direct photograph of this seizure or of the driver was published; the lead images are an illustration and an archive customs photo, so no media entry is added.
 ---
 
 On 29 September 2025 at about 7pm, customs officers were checking vehicles at

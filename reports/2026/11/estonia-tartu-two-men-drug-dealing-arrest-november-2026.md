@@ -52,7 +52,6 @@ open_questions:
   - The prosecutor's reference to a previous prison sentence for the 28-year-old gives no details of that sentence or its length.
   - The Lõunaeestlane and Atlantiz texts reproduce the Police and Border Guard Board statement, so they are not independent reporting; Tartu Postimees is a shortened version of the same announcement, and its page ran only two paragraphs.
   - A reflect.ee article on the same custody decision could not be read because its content is rendered by JavaScript, so it is not cited.
-  - No photograph confirmed to show this detention, the searches or the seized items was found; the submitted page's image is an undated file photo from 2019 and is not listed as media.
   - 'Left out, as its quotation was not found in Atlantiz: Both men were remanded in custody by a court at the request of the prosecutor''s office.'
   - 'Left out, as its quotation was not found in Politsei- ja Piirivalveamet: The head of the South Prefecture criminal bureau, Rain Vosman, said the searches turned up a weapon-like object with cartridges, which he said showed the suspects were dangerous.'
   - Left out force, as its quotation was not found in Politsei- ja Piirivalveamet.

@@ -41,7 +41,6 @@ open_questions:
   - No separate date was given for the Oxnard Street search; 17 December 2015 is the arrest date used as the incident date and 24 December 2015 is the publication date.
   - No charges, court outcome or later case steps were reported beyond the probation hold and bail release.
   - Only one accessible source was found after searching for a second account of the same arrests.
-  - The page photo shows booking mugs of the brothers rather than the lab, drugs or weapons, so no media entry is included.
 ---
 
 Hakop Nagapetian, 25, and Berg Nagapetian, 23, are brothers whom Glendale police

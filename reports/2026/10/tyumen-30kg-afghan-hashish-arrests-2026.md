@@ -54,9 +54,7 @@ open_questions:
   - The article gives no separate date for the detention and seizure; 16 October 2026 is the publication date and is used as the incident date.
   - Only one accessible source for this event was found after searching in Russian and English, so no second account could be opened.
   - The two detained people were not named, and no charges, custody ruling or court outcome beyond the pretrial investigation were reported.
-  - The page carries two photographs credited to the KNB press service, but their captions do not describe what they show, so no media entry is included.
   - Other KNB results mentioned on the same page, including 44 drug-supply channels since the start of 2026 and three channels with 622 kg of drugs, are separate statistics and are left out of this report.
-  - The Liter.kz page displays photographs credited to the KNB press service whose captions repeat only the headline, so no media entry from this source is included.
 ---
 
 Kazakhstan's Committee for National Security (KNB), the country's

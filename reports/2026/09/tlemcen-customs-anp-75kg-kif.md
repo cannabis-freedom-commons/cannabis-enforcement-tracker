@@ -44,7 +44,6 @@ open_questions:
   - No second outlet reporting this seizure could be found.
   - The exact place and time of the ambush inside Tlemcen wilaya were not given; 15 September is the date of the customs communiqué.
   - The identities of the three arrested people and any charges were not published.
-  - The article's photo is a 2018 file image of treated kif, not this seizure, so no media entry was added.
 ---
 
 Customs officers in Tlemcen, working with the People's National Army (ANP),

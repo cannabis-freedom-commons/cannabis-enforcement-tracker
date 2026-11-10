@@ -42,7 +42,6 @@ open_questions:
   - The article gives the offence date of 17 June 2026 but no separate date for the trial and sentence; 1 November 2026, the article's publication date, is used as the incident date.
   - Most of the article body is behind a paywall, so details beyond the accessible introduction, caption and metadata could not be read in the opened capture.
   - No second account of this case could be found and opened, so the report rests on a single source.
-  - The only picture on the opened page is credited as a DDM illustration of the sentence, not an event photo, so no media entry is listed.
   - The accessible text does not state whether the 25-gram bag was seized, whether anyone else was charged, or what happened to the intended recipient.
 ---
 

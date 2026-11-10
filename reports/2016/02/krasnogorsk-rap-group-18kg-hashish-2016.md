@@ -61,7 +61,6 @@ open_questions:
   - The police described two detainees as sellers and two as buyers; the accounts do not say which role each named man had.
   - The first reports name only Nikita Savinkin; Yevgeny Rumyantsev, Anton Setenko and Sergei Mishko were identified in later coverage of the same detention.
   - No street value, maximum penalties or later trial outcome are given in these accounts; the case was still at the pre-trial stage when they were published.
-  - The submitted page carries no photo of this seizure; its images are unrelated current-news illustrations, so no media entry is included.
 ---
 
 Officers of the Interior Ministry's Main Criminal Investigation Directorate,

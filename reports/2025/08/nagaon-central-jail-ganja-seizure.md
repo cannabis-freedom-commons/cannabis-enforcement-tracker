@@ -42,7 +42,6 @@ open_questions:
   - No arrests, charges or court outcome were reported; two personnel were named as alleged suppliers but detention was not stated.
   - Name spellings differ between outlets as Debashish versus Devasish Sharma, Swapnaneel Deka versus Swapnil Deka, and Salim versus Salimuddin.
   - The 100 bottles of energy drinks and other canteen goods are non-cannabis items and are excluded from cannabis figures.
-  - 'The Assam Tribune page carries a file image of Nagaon Central Jail credited Photo: AT, which does not show this inspection or seizure, so no media entry is included.'
   - The inspection occurred on 29 August 2025 and the suspension was reported on 30 August 2025; the report is dated to the latest step.
   - 'Left out, as its quotation was not found in The Assam Tribune: Three canteens operated inside the jail where fish, meat, cold drinks and energy drinks were easily available.'
   - 'Left out, as its quotation was not found in The Assam Tribune: About 100 bottles of energy drinks were found, which inmates reportedly consume after using marijuana.'

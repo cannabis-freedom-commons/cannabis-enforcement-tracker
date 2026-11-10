@@ -40,7 +40,6 @@ open_questions:
   - The week covered by the tally is not dated; 7 November 2026 is the announcement and publication date and stands in for the incident date.
   - The authority's own text is not available; the accounts are Saudi Press Agency reports reproduced by outlets, so they are not independent of each other.
   - The Mathrubhumi report was published on 9 November 2026, two days after the first accounts, and reproduces the same announcement.
-  - The submitted page's lead image has no caption identifying what it shows and is not confirmed to depict these seizures, so no media entry is added.
   - The Ajel English image is a generic illustration of customs inspection, not confirmed to show this event, so it is not listed as media.
   - A separate December 2025 ZATCA tally also reported 1,205 seizures; that is an earlier event and is not covered here.
 ---

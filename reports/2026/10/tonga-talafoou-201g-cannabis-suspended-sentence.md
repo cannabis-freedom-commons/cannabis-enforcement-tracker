@@ -49,7 +49,6 @@ sources:
 open_questions:
   - The year of the 26 February raid and the 16 October sentencing is inferred as 2026 from the November 2026 publication; no separate year is stated for those dates.
   - No second account of this sentencing was found, so this report rests on a single opened source.
-  - The page's only image is an uncaptioned Supreme Court photo with no credit linking it to this case, so no media entry is included.
   - What happened to the 1,260 pa'anga found in the bedroom was not reported.
 ---
 

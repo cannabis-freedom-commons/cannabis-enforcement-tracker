@@ -53,7 +53,6 @@ open_questions:
   - No separate date for the detention is given; 23 June 2025, the Khovar publication date, is used as the incident date.
   - The 90.557 kg total also includes 9.860 kg of opium and 975 g of methamphetamine, which are not cannabis and are excluded from the cannabis figure.
   - No court outcome was reported; the case was at the preliminary-investigation stage.
-  - The Vecherka page image has no caption or credit confirming it shows this seizure, so no media entry is listed.
 ---
 
 Tajik national-security officers and Border Troops personnel stopped a

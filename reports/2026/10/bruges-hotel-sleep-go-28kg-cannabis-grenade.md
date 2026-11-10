@@ -65,7 +65,6 @@ open_questions:
   - Police describe 28.2 kg of cannabis without giving the product form, so it is recorded as dried cannabis by weight.
   - The hand grenade and its disposal by DOVO are part of this event but are not cannabis quantities.
   - No trial date or sentence has been reported, and the two men are identified only by age.
-  - The only picture on an opened page is a symbolic courthouse image not showing this event, so no media entry is added.
   - The submitted Nieuwsblad article body is paywalled and was not captured, so the November council-chamber ruling details (which suspect was held a further month, electronic monitoring and prosecution appeal) cannot be verified from the opened source.
 ---
 

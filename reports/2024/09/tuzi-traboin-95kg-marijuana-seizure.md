@@ -43,7 +43,6 @@ open_questions:
   - Only one accessible source for this event was found after searching in English and Montenegrin.
   - The driver was identified only as MU from Tuzi; no full name was published.
   - No court outcome beyond the prosecutor-ordered deprivation of liberty was reported.
-  - The page photo carries only a file-hash caption and is not established to show this seizure, so no media entry is included.
 ---
 
 Employees of the Border Police Sector at Border Police Station Podgorica checked

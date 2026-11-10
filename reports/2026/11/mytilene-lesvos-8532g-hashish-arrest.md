@@ -94,7 +94,6 @@ open_questions:
   - Left out kg seized, as its quotation was not found in StoNisi.gr.
   - Left out sites, as its only supporting source is not cited by the report's text.
   - The page carries no text beyond the police release and does not name the district of the main house search, so it neither confirms nor rules out the Halikas location given by LesvosPost.
-  - The LesvosVoice photo file is published without a caption or credit and appears to be the same Hellenic Police handout of the seized packages already listed from Lesvosnews.net; the picture is therefore not added as a second media entry rather than confirmed as a distinct photo.
   - Lykavitos, like the three earlier accounts, reproduces the Hellenic Police press release, so it is not independent reporting of the case.
   - The stopped-vehicle passage says the package was found in the vehicle but not where inside it, so the modelling of a hidden space rests on the police statement wording quoted by other outlets.
   - The Lykavitos page gives no date for the arrest beyond 'yesterday' (χθες) in an article published on 8 November 2026, consistent with 7 November.
@@ -103,9 +102,7 @@ open_questions:
   - The page gives no date for the arrest beyond its 8 November 2026 publication date, and no prosecutor decision, detention order or court outcome.
   - AlphaTV reproduces the same Hellenic Police press release as the outlets already cited, so it is not independent reporting of the case.
   - AlphaTV gives no date for the arrest beyond the 'Saturday' in its text, with a 9 November 2026 publication date, consistent with 7 November.
-  - The AlphaTV image carries only a generic Hellenic Police photo credit and repeats the headline in its alt text, so no media entry is added.
   - Focus FM reproduces the Hellenic Police press release, like the outlets already cited, so it is not independent reporting of the case.
-  - The Focus FM photo file is the same Hellenic Police handout of the seized packages already listed from Lesvosnews.net, so it is not added as a second media entry.
   - The page gives no date for the arrest beyond its 9 November 2026 publication date, and reports no prosecutor decision or court outcome.
 ---
 

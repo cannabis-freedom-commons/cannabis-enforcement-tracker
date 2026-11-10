@@ -47,7 +47,6 @@ open_questions:
   - Neither article gives the date of the operation; Mimi Mefo Info published on 7 June 2024, which is used as the incident date, and Actu Cameroun published on 8 June 2024.
   - No charges, custody rulings or court outcome were reported.
   - Neither account gives a street value, the number of packages or the weight seized from the Mémé owner; 52 kg is the load found in the Peugeot 504.
-  - Actu Cameroun's image is a picture captioned only Cannabis, and the Mimi Mefo Info page image has no caption establishing that it shows this seizure, so no media entry is included.
   - Both accounts repeat the gendarmerie's version, including the claim that the drugs were bound for terrorist groups; no separate official statement or independent weighing was found.
 ---
 

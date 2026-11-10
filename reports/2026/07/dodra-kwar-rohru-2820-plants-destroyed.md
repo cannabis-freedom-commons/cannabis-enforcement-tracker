@@ -45,7 +45,6 @@ open_questions:
   - The article does not state what happened to the 20 plants in the second case that were discovered but not reported as destroyed.
   - No arrests, charges beyond registration of two NDPS cases, or court outcome are reported.
   - Only one source could be found; no second account confirms or adds facts.
-  - The page shows one thumbnail image captioned only with the headline, with no caption confirming it depicts this operation, so no media entry is added.
 ---
 
 Police registered two separate cases under the NDPS Act after an operation

@@ -44,7 +44,6 @@ open_questions:
   - No weight was published for the 200 THC capsules and no separate weight or count was published for the methamphetamine, other parcel drugs, or airport drugs, so no cannabis weight is recorded.
   - The airport seizure of methadone- and buprenorphine-containing drugs is not cannabis and is excluded from cannabis figures.
   - The sources publish no names, ages, nationalities or exact detention places beyond the parcel delivery and Tbilisi International Airport.
-  - The lead photos carry only the headline as caption and credit, without establishing that they show this seizure, so no media entry is added.
 ---
 
 Officers of the Central Criminal Police Department and the Customs Department of

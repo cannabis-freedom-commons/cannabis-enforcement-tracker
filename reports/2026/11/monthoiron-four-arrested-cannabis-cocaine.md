@@ -41,7 +41,6 @@ open_questions:
   - The accessible text is truncated after the detention question, so what the 6 November hearing decided beyond postponing the trial is not known.
   - The four men are not named or aged, and the charges are not stated in words beyond participation in a cocaine and cannabis trafficking case.
   - Only one accessible source was found; Le7.info's similar headline concerns a 2017 case in Châtellerault and is a different event.
-  - The page photo is captioned only as an archive illustration and is not confirmed to show this operation, so no media entry is added.
 ---
 
 Gendarmes arrested four men in Châtellerault, Monthoiron, Vouneuil-sur-Vienne

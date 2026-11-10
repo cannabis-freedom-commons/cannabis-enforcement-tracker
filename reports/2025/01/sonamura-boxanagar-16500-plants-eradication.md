@@ -40,7 +40,6 @@ tags: [assam-rifles, tripura, joint-operation]
 open_questions:
   - No arrests or seizures of processed cannabis were reported.
   - A syndicated ANI copy mislabels the state as Mizoram in one line; the site named throughout is Boxanagar Forest Range, Sonamura, Tripura.
-  - The Devdiscourse page carries an ANI photo of the operation that could not be verified against the site, so no media entry was added.
 sources:
   - title: Assam Rifles, Police & TFS Destroy Cannabis Plantation Worth Rs 70 Lakh
     url: https://tripurachronicle.in/local-news/assam-rifles-police-tfs-destroy-cannabis-plantation-worth-rs-70-lakh/

@@ -47,7 +47,6 @@ open_questions:
   - No separate time of day for the patrol was published; 31 October 2026 is the Bhaskar publication date and the Saturday named by Need24.
   - No smuggler was caught or named, so no arrest figure or court outcome was reported.
   - The value of the ganja was given only as running into lakhs of rupees, with no exact estimate.
-  - The submitted page image has no caption or credit confirming it shows this seizure, so no media entry is added.
 ---
 
 A joint team of the 56th Battalion SSB Bathnaha Dumarbana border post and Ghurna

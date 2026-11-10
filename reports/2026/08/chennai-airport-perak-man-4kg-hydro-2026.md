@@ -61,7 +61,6 @@ open_questions:
   - The article repeats the Narcotics Crime Investigation Department director's media briefing in Shah Alam on 11 August 2026 and reproduces the same account as the English-language report already cited, so it is not an independent investigation.
   - The distance from Bangkok and the flight are given for the suspect; the article does not say where in Thailand the cannabis was bought or by whom.
   - The 4 kg is described as hydroponic cannabis ('ganja hidroponik'); the article gives no laboratory confirmation of the substance or of the cultivation method.
-  - The page's lead image is a file photograph of the Narcotics Crime Investigation Department director, not of the seizure, so no media entry is added.
 ---
 
 Chennai Customs officers detained a 54-year-old Malaysian man from Perak at

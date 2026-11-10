@@ -66,11 +66,9 @@ open_questions:
   - The article gives 3 November 2026 as both the operation day and its publication date; no separate time of day is given.
   - Whether the lead photo specifically depicts this 14.2 kg seizure is stated only by its caption about the Rs 14.20 lakh value.
   - No court outcome beyond handing the accused to GRP Gorakhpur under the NDPS Act is reported.
-  - The new source is dated 4 November 2026 and describes the operation as on Monday, while the existing report dates the interception to 3 November 2026; the incident date is kept as 3 November 2026.
   - The lead photo from the new page was not added as media because it could not be established whether it is distinct from the already-cited Jagran handout photo of the same seizure.
   - Dainik Bhaskar's page is partly behind an app and premium-login prompt, so its opening passage was readable but the full body could not be checked word for word.
   - The article names 3 November 2026 for the interception but gives no time of day.
-  - The Bhaskar page appears to carry the same photo of the seized ganja as the existing report's sources, so no separate media entry is added.
 ---
 
 A joint Railway Protection Force, Crime Intelligence Branch and Government

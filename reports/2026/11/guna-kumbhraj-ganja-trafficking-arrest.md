@@ -45,7 +45,6 @@ open_questions:
   - The article gives no separate date for the check and arrest; 6 November 2026 is its publication date and is used as the incident date.
   - The police station that made the arrest, the age of the accused and whether he was produced before a court were not reported.
   - Only one report of this arrest was found; searches in Hindi produced no second outlet or police statement.
-  - The page carries no photo of the arrest or seizure, so no media entry is included.
   - The duplicate-matching service named the Bhopal Shahjahanabad hashish report as a candidate but then reported that comparison target as unavailable, although the report is still in the index and existing-reports; the comparison was therefore checked by hand and the two events remain distinct.
 ---
 

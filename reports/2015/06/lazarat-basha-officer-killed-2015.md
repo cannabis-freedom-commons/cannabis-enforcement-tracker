@@ -47,7 +47,6 @@ sources:
 open_questions:
   - Arrest totals span a days-long siege (a driver held, 14 detained, eight later arrested), so no single arrested figure is stored.
   - The two wounded officers' names and conditions beyond helicopter evacuation to Tirana were not reported.
-  - The Tirana Times portrait of Basha comes from Facebook rather than the operation, so no media entry was added.
 ---
 
 Gunmen in Lazarat, the southern Albanian village known as a major illegal marijuana producer, shot dead RENEA special-forces officer Ibrahim Basha, 31, and wounded two colleagues on the morning of 24 June 2015. [@1,2] Basha, an Albanian armed-forces veteran who had served with the NATO mission in Afghanistan, was shot in the head and died on the way to the regional hospital. [@1]

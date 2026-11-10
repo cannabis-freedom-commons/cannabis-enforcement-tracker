@@ -47,7 +47,6 @@ open_questions:
   - No court appearance, remand or charge sheet is reported after the case was registered.
   - The coordinates are for Petlawad town, the police station named in the report; the exact location of Karwad village was not mapped.
   - The same page reports a separate 15 October seizure of cannabis plants worth 9.42 crore rupees in the Para outpost area, and the arrest of four Jhabua women in Ratlam over doda chura; both are different events and are left out.
-  - The page's two pictures show the Petlawad police station building and officers at the station, not this seizure, so no media entry was added.
 ---
 
 Petlawad police arrested a man in the middle of the market with a plastic bucket

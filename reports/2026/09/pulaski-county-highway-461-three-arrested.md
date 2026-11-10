@@ -44,7 +44,6 @@ open_questions:
   - Methamphetamine and fentanyl weights were not published and any combined drug total cannot be separated, so those substances are mentioned only to explain the mixed event.
   - Only one accessible source for this event could be opened after searching for the names, Highway 461 and the sheriff's statement.
   - No court outcome beyond the charges and jailing was reported; the case was described as remaining under investigation.
-  - The page embeds Facebook photos with only the generic caption May be an image of one or more people, which does not establish that they show this seizure, so no media entry is included.
 ---
 
 Sheriff Bobby Jones reported the arrest of three people following an ongoing

@@ -59,10 +59,6 @@ open_questions:
   - Only one opened source supports this event; no agency statement or second outlet was found.
   - The names and individual roles of the eight accused were not published, only that they are from Gadchiroli and Chhattisgarh.
   - No court outcome beyond three days of police custody was reported.
-  - The page carries an image captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
-  - The new outlet gives 240.580 kg and Rs 1,20,29,000 while the existing report rounds to 240 kg and Rs 1.2 crore; the precise figures are treated as the same seizure.
-  - The new outlet names the accused and vehicle numbers in Hindi transliteration, which is not used to change the existing report's description of their origins.
-  - The submitted page carries a photo captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
 ---
 
 Gadchiroli police arrested eight people in a joint operation by the Local Crime

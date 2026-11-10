@@ -53,7 +53,6 @@ open_questions:
   - No arrests, identities, charges or court outcomes were reported; the reports were said to have been sent to the prosecutor for follow-up.
   - The cannabis was reported only as cannabis, without specifying herb, resin or another form.
   - The sources give the operation date as Wednesday 10 June without a year; 2026 is used because both accounts were published on 19 June 2026 and 10 June 2026 was a Wednesday.
-  - The TV Lux page carries a thumbnail captioned with the operation title and credited to Belga Image, which does not establish that it shows this seizure, so no media entry is included for it.
 ---
 
 On 10 June 2026, a control operation against the introduction and possession of

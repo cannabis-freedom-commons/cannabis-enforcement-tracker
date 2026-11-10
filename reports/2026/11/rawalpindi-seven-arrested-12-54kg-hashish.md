@@ -48,7 +48,6 @@ open_questions:
   - The article gives no separate date for the operations beyond the 6 November 2026 dateline, which is used as the incident date.
   - No names, ages or further case outcomes beyond the arrests were published.
   - Both accounts repeat the same APP wire story, so no independent outlet account was opened.
-  - The page image is captioned only with the headline and is not established to show this seizure, so no media entry is included.
 ---
 
 Rawalpindi police arrested seven alleged drug suppliers, including a woman, in

@@ -39,7 +39,6 @@ open_questions:
   - The opened page reposts the CBP release of 29 July 2013, which could not itself be opened, so the weight is given only as more than 17 tons with no precise kilogram figure.
   - No value, arrests, driver details or court outcome were stated in the opened page.
   - Only one account of the seizure could be opened.
-  - No photo of the seized load or the truck was confirmed in the opened page, so no media is listed.
 ---
 
 U.S. Customs and Border Protection officers seized more than 17 tons of marijuana at the Calexico East cargo facility on Thursday, 25 July 2013. [@1] The seizure was the largest narcotic bust in the history of the Calexico ports of entry. [@1]

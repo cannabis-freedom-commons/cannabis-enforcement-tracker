@@ -66,7 +66,6 @@ sources:
     publisher: ABS TV Radio Antigua & Barbuda
     date: 2026-03-30
 open_questions:
-  - The submitted page image file SMOKING.jpg and the ABS pages' smoking-places graphic and justice/gavel image carry no caption tying them to this arrest or court, so no media entry is listed.
   - Sources spell the given name Jamie in the arrest reports and Jammie in the sentencing report; this report uses Jamie from the arrest accounts.
   - The arrest is timed at about 1:30 p.m. while the sentencing report calls it last Monday night; this report uses the 1:30 p.m. time from the two arrest accounts.
   - The guilty-plea report places the sighting near the Registration Unit while the arrest reports place it near Potters Primary School; both place it in Potters.

@@ -59,7 +59,6 @@ open_questions:
   - The Inquirer gives a four-day period from 3 to 6 February 2026 without the exact date of any individual parcel find; 6 February, the last day, is used as the incident date.
   - The Manila Times describes the seizure as 37,968 grams of suspected kush marijuana, while the Inquirer calls it dried leaves believed to be marijuana.
   - The Bureau of Customs statement itself could not be opened; only the two news accounts were read.
-  - The submitted page's photo is a generic picture of NAIA credited to the MIAA, not established to show this seizure, so no media entry is included.
 ---
 
 The Bureau of Customs at Ninoy Aquino International Airport seized 126 abandoned

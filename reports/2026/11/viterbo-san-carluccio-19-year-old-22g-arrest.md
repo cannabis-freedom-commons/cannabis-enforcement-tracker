@@ -50,7 +50,6 @@ open_questions:
   - The 4,900 euros was described as suspected dealing proceeds, not a valuation of the drugs seized, so no value figure is recorded.
   - The arrested man was identified only as a 19-year-old non-EU citizen; no name or nationality was published.
   - No outcome of the validation hearing or the fast-track trial was reported, and under Italian law he is presumed innocent until a final conviction.
-  - The only image on the ViterboToday page is an uncaptioned, uncredited picture of police Volkswagen vans in the square, and the Tusciaweb photo is a file dated August 2026 with only a generic caption, so neither is established as showing this arrest and no media entry is included.
 ---
 
 Officers of the Squadra Mobile, the Viterbo Questura's investigative unit, made

@@ -44,7 +44,6 @@ tags: [algeciras, hashish, customs]
 open_questions:
   - "Final weight: the agency gave the 25,000 kg figure while the recovered goods were still being processed, so a final weighed total may differ."
   - The driver was reported arrested and brought before the courts, but no name, charge outcome or trial date was published.
-  - The agency's operation video link and the seizure photographs on the source pages were found but their direct addresses could not be recovered or visually verified, so no media entry was added.
 sources:
   - title: 25 tonnes of hashish seized at the port of Algeciras
     url: https://sede.agenciatributaria.gob.es/Sede/en_gb/notas-prensa/notas-prensa/2024/abril/26/intervenidas-25-toneladas-hachis-puerto-2015.html

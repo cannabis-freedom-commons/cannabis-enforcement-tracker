@@ -49,7 +49,6 @@ open_questions:
   - The article says 'plus de 4,1 tonnes', so 4100 kg is a minimum; the exact excess was not stated.
   - No arrests, charges or court outcome for the Tincan cargo were reported in the opened source.
   - Only one opened source could be established for this seizure; no second account was found in searches.
-  - The page carries one image captioned only with the article headline and no credit, so it is not established that it shows this seizure and no media entry is added.
   - The same article reports a separate 2.326-tonne Canadian Loud discovery in a Lekki villa on 9 May 2026, a different event left out of this report.
   - The same overview mentions other cannabis seizures at Mbour, in Casamance and at Heremakono in Mali, left out here as separate events.
 ---

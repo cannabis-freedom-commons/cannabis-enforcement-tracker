@@ -48,7 +48,6 @@ open_questions:
   - Cocaine weights of 0.6 gram and 19.3 grams are excluded from cannabis figures, and no combined drug total is counted as cannabis.
   - The article gives the arrest as the night of Tuesday the 3rd and was published on 4 November 2026; 3 November 2026 is used as the incident date.
   - No name, age, charges or court outcome were reported; the suspect was taken to the Central de Plantão Policial for legal procedures.
-  - The page’s only event image is captioned as AI-generated (Imagem Gerada Por AI), so no media entry is included.
 ---
 
 Military Police arrested a man on the night of Tuesday 3 November 2026 on

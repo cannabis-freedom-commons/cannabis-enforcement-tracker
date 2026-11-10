@@ -56,7 +56,6 @@ open_questions:
   - The sources do not say how many of the 65 cases or 88 accused involved charas rather than heroin or pills, and give no breakdown of the 11.863 kg of charas by seizure.
   - Bhang destruction is given as 495 nali, a local land measure, with no hectare or plant count, so no area or plant figure is recorded.
   - The sources do not say whether the three PIT-NDPS detainees are among the 88 accused.
-  - Both pages carried only a generic default or city image, not a photograph of the seizures, so no media entry is included.
   - The Hindustan page gives only the case and seizure totals; the preventive-detention figures and the bhang destruction rest on the Amar Ujala report.
 ---
 

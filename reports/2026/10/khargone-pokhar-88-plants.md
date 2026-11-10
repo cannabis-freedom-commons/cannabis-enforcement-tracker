@@ -69,13 +69,11 @@ open_questions:
   - No area was given for the field, and no report says whether the uprooted plants were later destroyed.
   - No court date, charge hearing or outcome was reported beyond the registration of the case.
   - The exact site of Pokhar village was not published; the coordinates are for Khargone district.
-  - The lead pictures on the Amar Ujala and Nai Dunia pages carry only headline captions and no credit, so none could be confirmed as showing the raid; no media is linked.
   - 'Left out, as its quotation was not found in Dainik Bhaskar: The raid took place on Saturday 31 October 2026 in the Balkwara police station area.'
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Additional Superintendent of Police Shakuntala Ruhal said the team surrounded the field before moving in.'
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Police said Mohan was on remand and being questioned about the cultivation and its supply network.'
   - Patrika lists six category weights that add up to 106.4 kg, not the 102.25 kg total it reports; the report keeps the 102.25 kg figure given by every outlet.
   - Patrika's text closely repeats Nai Dunia's already-cited account, so the two are not independent; Dainik Bhaskar provides separate confirmation.
-  - The Times of India spells the cultivator Mohan Sisodia and the police unit Balakawada, while the existing report uses Sisodiya and Balkwara.
 media:
   - kind: photo
     url: https://www.patrika.com/khargone-news/illegal-ganja-farming-88-plants-102-kg-seized-21020873

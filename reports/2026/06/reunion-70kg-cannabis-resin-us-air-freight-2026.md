@@ -66,7 +66,6 @@ sources:
 open_questions:
   - Réunion La 1ère says five people were presented to the investigating judge on 3 July (one under judicial supervision, four in pre-trial detention), while LINFO.re describes one suspect under supervision and five others in detention, implying six presented; this report records only the six arrests and leaves the number formally charged open.
   - The 200 grams of cocaine and the seized cash and vehicles are not cannabis figures; the cocaine weight is excluded from kg_seized and no vehicle count is recorded because the sources say only several vehicles.
-  - The page picture is an older gendarmerie illustration (its file path dates to 2022) not established to show this seizure, so no media entry is recorded.
   - No names, ages beyond the initial 26-year-old suspect, or later court outcome were reported.
   - 'Left out, as its quotation was not found in LINFO.re: The preliminary inquiry had opened in early May 2026.'
   - 'Left out, as its quotation was not found in LINFO.re: The investigation became a formal judicial inquiry on 18 June 2026.'

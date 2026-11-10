@@ -52,7 +52,6 @@ sources:
     date: 2026-10-28
     language: fr
 open_questions:
-  - The only page photo is explicitly captioned as an illustration photo, so it does not show this seizure and no media entry is included.
   - The 3.12 kg cannabis total is the sum of separately stated 3 kg of resin and 120 g of herbal cannabis.
   - Heroin, ketamine, cocaine, MDMA and cash amounts are mentioned only to explain the mixed case and are excluded from cannabis figures, with no cannabis-only valuation published.
   - The reports give the arrest as 16 September without a year, taken as September 2026 before the October 2026 hearing.

@@ -64,7 +64,6 @@ open_questions:
   - 'The charges as reported differ: TNTV says possession, other local reports say complicity in cultivation, possession and use, and AFP says possession and cultivation.'
   - No plea, trial date or outcome of the investigation was reported; the accounts say only that he might later appear before the correctional court.
   - The photographs of the plants on the associate's phone are the reported evidence; no search of the atoll was confirmed at the time.
-  - The BBC page pictures show Laliberté and a Cirque du Soleil performance, not the plants or the atoll, and no photo of the growing container was found, so no media is listed.
 ---
 
 Guy Laliberté, the co-founder of the circus company Cirque du Soleil, was

@@ -62,8 +62,6 @@ sources:
     language: es
 open_questions:
   - No separate date for the interception was published; 6 June 2013 is the government page's publication date and is used as the incident date.
-  - The submitted page embeds three videos of the operation that could not be opened, so no video entries are listed.
-  - The featured and outlet photos carry no caption establishing that they show this seizure, so no media entry is listed.
   - El Liberal says the firewood came from Güemes in Salta province, while the other sources say the timber came from Formosa province; the report uses the matching accounts.
   - El Liberal describes the load as 559 panes in 84 bundles rather than only 252 jute bags; the 252-bag and 5,497 kg figures are used because three sources agree on them.
   - The driver's identity and any later court outcome were not reported.

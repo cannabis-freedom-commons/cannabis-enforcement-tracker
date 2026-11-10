@@ -46,11 +46,9 @@ sources:
     publisher: Nepituno
     date: 2018-09-24
 open_questions:
-  - The submitted page shows only its lead sentence behind a subscription notice; the rest of the account comes from Matangi Tonga's own print view of the same article.
   - The Nepituno account reproduces the Tonga Police statement, so it is not fully independent of Matangi Tonga's account.
   - The accounts give no weight for the cannabis, no count of plants and no amount of cash seized.
   - No charges, court appearance or later outcome for the ten people was reported in the accounts found.
-  - The page image is a generic packet-of-cannabis file picture first uploaded in July 2017, not a picture of this seizure, so no media entry is included.
 ---
 
 Ninety-six packets of cannabis and cash were seized when police arrested 10

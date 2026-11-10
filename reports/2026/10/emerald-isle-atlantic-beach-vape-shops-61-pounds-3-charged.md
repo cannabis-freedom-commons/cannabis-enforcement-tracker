@@ -49,10 +49,8 @@ open_questions:
   - The one seized firearm is not a cannabis figure and is excluded.
   - The THC products under investigation have no stated weight and are not counted.
   - The 61-pound total is preliminary and police say it could change as evidence is processed.
-  - The page carries images whose captions do not establish that they show this seizure, so no media entry is added.
   - The incident date used is 9 October 2026, the day the warrants were executed; the charges were reported on 15 October 2026.
   - The reports say three people were charged and list secured bonds, but do not state the date or place of any arrest separately from the charges.
-  - The WNCT page writes the first surname as Nasser in the introductory line and Nassar in the charge heading, while the existing report uses Faisal Ali Nasser.
 ---
 
 Three people are facing charges following an investigation into alleged illegal

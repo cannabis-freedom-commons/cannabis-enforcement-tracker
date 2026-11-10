@@ -33,7 +33,6 @@ sources:
 open_questions:
   - No separate weight or count for the cannabis was published; the £15,000 seizure total covers ecstasy, amphetamine and cannabis together, so no cannabis quantity or value is recorded.
   - 8 July 2010 is used as the sentencing date from the BBC report published that day; the Northern Echo report published 9 July 2010 describes the jailing as the previous night.
-  - The submitted page photograph shows Robb on a property site in Kyrenia, Northern Cyprus, not the Stockton club, the 1996 seizure or the 2010 court hearing, so no media entry is listed.
 ---
 
 Former nightclub boss Gary Robb, 47, was jailed for five years at Teesside Crown

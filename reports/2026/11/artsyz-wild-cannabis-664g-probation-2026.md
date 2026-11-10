@@ -58,7 +58,6 @@ open_questions:
   - The article says 6.64 grams exceeds the legal limit but does not cite the threshold figure.
   - Only one source, an account based on the Unified State Register of Court Decisions, was found; the court ruling record was not opened.
   - Whether an appeal was lodged is not reported.
-  - The two images in source_images are ukr.net advertising thumbnails of unrelated stories, so no media entry is given.
   - Left out sentence types, as its quotation was not found in Район.Болград.
 ---
 

@@ -55,7 +55,6 @@ open_questions:
   - The reports do not name the hospital whose car park was used or say what became of the 525-gram consignment beyond the seizure.
   - No value, fine or count of plants was published.
   - Whether Christoforou or the other men appealed is not reported.
-  - The KNEWS page image has no caption and is not established to show this case, so no media entry is listed.
 ---
 
 A Turkish Cypriot criminal court in north Nicosia sentenced Greek Cypriot

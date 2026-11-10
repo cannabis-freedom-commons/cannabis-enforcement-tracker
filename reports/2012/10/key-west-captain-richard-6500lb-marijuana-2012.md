@@ -54,7 +54,6 @@ open_questions:
   - No opened source gives the number of crew members detained, their names, or any charges or court outcome.
   - 16 October 2012 is the offload date and the Tuesday of the publication week; no separate interdiction date was published, so it stands in for the incident date.
   - The Military.com copy of the Coast Guard account truncates the value as $6.2.; this report uses the CBS account's stated $6.2 million wholesale figure.
-  - The Military.com page carries a U.S. Coast Guard image with no caption confirming it shows this offload, and the CBS page shows only unrelated thumbnails, so no media entry is added.
   - The more than $1 million in marijuana reported washed ashore near West Palm Beach two weeks earlier is a separate event left out of the figures.
 ---
 

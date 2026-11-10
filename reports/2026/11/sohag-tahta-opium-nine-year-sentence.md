@@ -52,7 +52,6 @@ open_questions:
   - The defendant is identified only by the initials A.A.M. and his age and occupation.
   - No appeal of the ruling was reported.
   - The shabu and methamphetamine essence are recorded only to explain the mixed case and are excluded from cannabis figures.
-  - The page carries only an archival illustration captioned with the headline, not a photo of this case, so no media entry is listed.
   - Only one source for this ruling was found after searching in Arabic; no independent account could be opened.
 ---
 

@@ -49,7 +49,6 @@ open_questions:
   - It is unclear whether the 3 kg of ganja was recovered from the 27-year-old alone or from all three people arrested.
   - The two Kannagi Nagar residents arrested for absconding were held in another ganja case, which is a separate matter not detailed here.
   - Only one source for this event could be found after searching in Tamil and English; other Kannagi Nagar reports describe different cases.
-  - The page carries no photo of this arrest, only thumbnails of unrelated stories, so no media is listed.
 ---
 
 Kannagi Nagar police in Chennai arrested a 27-year-old resident of the area's

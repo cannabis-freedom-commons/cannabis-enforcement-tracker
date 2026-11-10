@@ -69,14 +69,9 @@ sources:
 open_questions:
   - The 22 grams of cocaine and its reported 1,520-euro resale value are excluded from cannabis figures; the value figure uses only the separately stated 8,130 euros for cannabis.
   - The 2,005 euros in cash is seized cash, not a drug valuation, and is not counted in the value figure.
-  - The lead images on both pages are captioned as illustration or archive-style photos and are not shown to depict this search or seizure, so no media entry is made.
   - The defendants are identified only as a 20-year-old couple; no names were published.
   - No independent weighing beyond the gendarmerie seizure count is reported.
-  - The lead image on the ICI page is explicitly captioned as a photo d'illustration and is not shown to depict this search or seizure, so no media entry is made.
-  - This account does not state the 26 October search date or the separate cannabis and cocaine resale values used in the existing report; those details continue to rely on the earlier sources.
   - The full Ouest-France article is paywalled, so only its opening lines and summary description could be read; quantities, court details and other specifics continue to rely on the earlier sources.
-  - The Ouest-France summary places the dismantled traffic at Villers-sur-Mer while its body places the 26 October operation at Benerville-sur-Mer; the existing report's Benerville-sur-Mer location is retained.
-  - The page's lead image is captioned as archives material, not as this search or seizure, so no media entry is included.
 ---
 
 Gendarmes from Deauville and Villers-sur-Mer arrested two 20-year-olds living as

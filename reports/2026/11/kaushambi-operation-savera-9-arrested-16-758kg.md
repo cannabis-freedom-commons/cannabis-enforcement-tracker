@@ -59,7 +59,6 @@ open_questions:
   - No police agency statement for this Kaushambi drive could be opened directly; the account rests on two news outlets.
   - 'Left out, as its quotation was not found in Dainik Bhaskar: A second account confirms the same nine arrests and 16 kilos 758 grams total and records 2.020 kilos from two accused in Pipri and 7.077 kilos from two accused in Kokhraj.'
   - The Amar Ujala account published on 5 November 2026 gives no separate date for the checking drive.
-  - The page image uses a file path dated 2021 and is captioned only with the seizure total, so it is not established to show this drive and no media entry is added.
   - Amar Ujala names two of the arrested men, Anurag Tripathi and Shivam Kesarwani, as having a criminal history without saying what it involved.
   - Aaj Tak gives no calendar date for the checking drive and, unlike the earlier accounts, does not say it took place on Tuesday.
   - Whether the court appearance of the nine accused led to remand or bail is not reported.

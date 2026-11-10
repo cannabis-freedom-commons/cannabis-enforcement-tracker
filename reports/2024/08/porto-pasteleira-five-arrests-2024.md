@@ -43,7 +43,6 @@ open_questions:
   - Cocaine, heroin and cash amounts are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - No charges or court outcome beyond presentation to the judicial authorities for coercive measures were reported.
   - Only one accessible source for this event was found after searching in Portuguese; no agency statement or second outlet account could be opened.
-  - The page image is captioned only as PSP and is not established to show this seizure, so no media entry is included.
 ---
 
 Officers of the PSP's Porto Metropolitan Command detained five men in Porto on

@@ -71,15 +71,11 @@ open_questions:
   - No exact amount was published for the five-figure sum of cash.
   - The exact address on Ruby Street, such as a flat number, was not published.
   - No outcome beyond the scheduled 3 November court appearance was reported.
-  - Whether the page lead image shows this seizure could not be established, so no media entry is included.
   - >-
     No separate weight or value for the cannabis portion was published, so the combined £9,200 estimate for
     cocaine, cannabis and MDMA together is omitted from cannabis figures.
   - The recovered cash was described only as a five-figure sum, so no cash amount is recorded.
   - The 26-year-old man was not named in the opened sources.
-  - >-
-    No photo of this raid is listed: the submitted page's lead image has no caption establishing it shows the
-    raid, and the other opened pages label their images as stock images.
 ---
 
 Police Scotland arrested and charged a 26-year-old man after recovering cannabis and other drugs from Ruby Street in Glasgow. [@1,2,3,4]

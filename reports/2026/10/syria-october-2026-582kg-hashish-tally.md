@@ -116,9 +116,6 @@ open_questions:
     The same article also describes separate Aleppo operations, a Jordan border seizure of two million pills,
     and September and August tallies, which are different events left out here.
   - >-
-    The only image on the submitted page shows the Jordan pills seizure, not the Syrian hashish tally, so no
-    media entry is listed.
-  - >-
     سورية تضبط نصف طن من الحشيش.. والأردن يحبط تهريب مليوني حبة مخدرة (العربي الجديد) could not be opened
     again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (Wayback
     availability answered HTTP 429). No AI research was started); what it says is as the AI read it.
@@ -129,14 +126,8 @@ open_questions:
     The article mentions a 260 kg hashish seizure in an Aleppo smuggling cell and other pill seizures that may
     be components of the October tally but are not separately dated or detailed enough for a new report.
   - >-
-    The lead image on the page has only the generic caption 'image' with no credit or event description, so no
-    media entry is listed.
-  - >-
     This account gives only hundreds of kilograms of hashish and does not state the 582 kg total, so the total
     continues to rely on the earlier sources.
-  - >-
-    The page's Damascus and Homs seizure photos are captioned only as drug seizures from the Anti-Narcotics
-    Department and are not established to show cannabis, so no media entry is added.
   - No arrest total or names for the October operations were published.
   - >-
     The article gives no separate dates within October for the 157 operations; 31 October 2026 is used as the
@@ -151,9 +142,6 @@ open_questions:
     The same article also reports September and August 2026 tallies and a Jordanian seizure of two million
     pills at the Jaber crossing, left out here as different events.
   - Only one accessible source for this October tally was found after searching in Arabic and English.
-  - >-
-    The page photo shows the Jordanian pills seizure credited to the Public Security Directorate's Facebook
-    page, not the Syrian hashish, so no media entry is included.
   - This source gives only the Captagon part of the national October tally and no hashish weight, so the 582 kg total is unchanged.
   - The article cites the Anti-Narcotics Department's October tally but gives no breakdown of the 582 kg total by seizure, so the 260 kg Aleppo figure cannot be reconciled exactly with it.
   - The 260 kg Aleppo hashish seizure and the 9.571 kg Aleppo seizure recorded in a separate report are not dated individually, so it is not established whether they are the same or different operations.

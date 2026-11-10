@@ -54,7 +54,6 @@ open_questions:
   - No name, charge, remand decision or court outcome for the detained person was reported.
   - No value was given for the 1.5 kg of cannabis.
   - All the accounts rest on the Diyarbakır governor's office statement; no independent reporting was found.
-  - No photograph credited to the gendarmerie or the agency shows the seized pumpkin; the submitted page carries only a no-image placeholder, so no media links are included.
 ---
 
 Gendarmerie officers found 1.5 kg of cannabis hidden inside a pumpkin on a

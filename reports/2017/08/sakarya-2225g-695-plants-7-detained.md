@@ -51,7 +51,6 @@ open_questions:
   - Haber7 describes seven suspects as detained while Milliyet describes a judicial investigation opened against seven suspects, and the report records these as the same seven people.
   - No names, charges or court outcomes for the seven suspects were reported.
   - No per-district breakdown of the seizures was given.
-  - The submitted page lists only a placeholder image that does not show the event, so no media entry is included.
 ---
 
 Sakarya İl Jandarma Komutanlığı, the Sakarya provincial gendarmerie command,

@@ -41,7 +41,6 @@ sources:
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate day or time for the arrest near Anjana canal.
   - Only one source for this event could be opened; no agency statement or second outlet was found to confirm or add details.
-  - The page carries a photo captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
   - No court outcome, custody status, police valuation, or independent weighing beyond the stated 2.798 kg police figure was reported.
 ---
 

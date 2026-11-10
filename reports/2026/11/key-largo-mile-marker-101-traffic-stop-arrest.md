@@ -52,11 +52,9 @@ sources:
 open_questions:
   - No court outcome beyond charges and jailing was reported.
   - The cocaine amount was described only as a small amount and is excluded from cannabis figures.
-  - Whether the photos on the cited pages depict this seizure could not be established from their captions, so no media entry is listed.
   - The 3.2-gram marijuana weight is the Sheriff's Office figure with no independent weighing reported.
   - 'Left out, as its quotation was not found in Tampa Free Press: The Tampa Free Press account confirms the same stop near Mile Marker 101, the Ford pickup with headlight and license-plate light out, the denial, and the recovery of cocaine from Smith''s pocket and 3.2 grams of marijuana from the pickup.'
   - The keysnews page also reports a separate 30 October lobster arrest near Sunshine Key and a separate suspected-drug package found near Mile Marker 76, both left out of this traffic-stop report.
-  - The page's only listed photo shows the separate suspected-drug brick found near Mile Marker 76, not this traffic stop, so no media entry is included.
 ---
 
 Monroe County Sheriff's Office deputies arrested 59-year-old Miami resident

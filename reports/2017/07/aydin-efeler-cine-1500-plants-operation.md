@@ -51,7 +51,6 @@ open_questions:
   - Both opened pages reproduce the same Anadolu Agency account, so no independent second account was available.
   - No later charge, prosecution or court outcome was reported for the three people detained in Çine.
   - The nature and quantity of any substance used with the seized drug-use apparatus were not specified and are not counted.
-  - The submitted page carries only a no_image.jpg placeholder, so no event photograph could be listed as media.
 ---
 
 Aydın provincial gendarmerie teams raided a house belonging to H.Y. in Eğrikavak

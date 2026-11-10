@@ -50,7 +50,6 @@ open_questions:
   - The six summary offence tickets have amounts to be set in court; no court date or outcome was reported.
   - Only one opened account, CTV News, was available for this operation; earlier research that also drew on an RCMP release and other outlets could not be re-verified.
   - The raids are dated only as "last Tuesday" before the 9 March 2026 publication; 3 March 2026 is used as the incident date.
-  - The page's only image is a generic Associated Press photo of cannabis in Massachusetts, so no media entry is included.
 ---
 
 On 3 March 2026 officers conducted raids at five Indigenous-owned cannabis

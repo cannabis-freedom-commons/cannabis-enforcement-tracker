@@ -50,7 +50,6 @@ open_questions:
   - The chira weight is given as more than 8 kilograms, so 8 kg is recorded as the minimum stated cannabis weight.
   - Both the man and his wife were taken for questioning, so 2 detentions are recorded, but the custody order is worded in the singular for the suspect and the wife's later status is not given.
   - Only one opened source could be found for this event, and no court outcome or laboratory confirmation was reported.
-  - The submitted page's image has no caption or credit and its file path dates to December 2021, years before the event, so it is treated as a generic stand-in and no media entry is added.
 ---
 
 Officers of the anti-gang squad of the Fes security wilaya stopped a Moroccan

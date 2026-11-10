@@ -71,7 +71,6 @@ open_questions:
   - Both opened accounts date the announcement to Tuesday 15 November 2016; no source gives the precise time of the checkpoint stop beyond that.
   - The reports give no value for the 370 kg, no separate number of packages, and no charges, court date or sentence for the two Moroccans.
   - Cridem and Le360 both draw on security and prosecutor's sources in Nouadhibou; no gendarmerie statement was opened directly.
-  - The direct media address on the submitted page could not be confirmed to depict this specific seizure rather than a general drug-haul illustration.
   - A similar 369.6 kg cannabis seizure at PK55 reported in a 2018 Atlasinfo article, also from a Moroccan vegetable truck, appears to be a separate incident.
   - The CRIDEM page gives no photographer or agency credit for the newly linked image.
 ---

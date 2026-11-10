@@ -54,12 +54,10 @@ sources:
     date: 2017-01-25
     language: ru
 open_questions:
-  - The detention date of 16 January comes from the Interior Ministry account via Interfax; the submitted page is dated 26 January and gives no separate event date.
   - The hashish amount is given as over 300 grams by BBC and Interfax and rounded to 300 grams by Current Time; 0.3 kg is used as the minimum supported amount.
   - No exact number of detained people is given; reports refer to couriers and a 36-year-old organiser without stating how many were held.
   - No charges, pleas or court outcome are reported in the opened sources.
   - The painting's attribution to Shishkin was preliminary and subject to a month-long museum examination; no final authentication result is in these sources.
-  - The submitted page includes one image, but its caption repeats the headline and does not confirm what the image shows, so no media entry is added.
 ---
 
 Belarusian drug police detained suspected drug couriers who were bringing drugs

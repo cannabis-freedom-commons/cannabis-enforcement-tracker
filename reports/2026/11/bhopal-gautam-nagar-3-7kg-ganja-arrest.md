@@ -60,9 +60,7 @@ open_questions:
   - The headline says about 4 kg while the detailed recoveries are 1 kg 800 g plus 1 kg 903 g; 3.703 kg is recorded as their sum.
   - The Rs 41,000 is seized cash reported alongside the ganja, not a police valuation of the drugs, so no value is recorded.
   - No court outcome beyond production before the court was reported; questioning about the supply network was still under way.
-  - The page includes an image whose caption is only a file name, which does not establish that it shows this seizure, so no media entry is included.
   - No separate date for the two police actions is given; the report uses 4 November 2026, while this account was published on 5 November 2026.
-  - This account spells the second accused's surname as Maheshwar, while the existing report uses Maheshkar.
 media:
   - kind: photo
     url: https://rajexpress.com/madhya-pradesh-news/bhopal-ganja-smuggling-old-clothes-business-three-arrested-mp-news-in-hindi-20261105034858

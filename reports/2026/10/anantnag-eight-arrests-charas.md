@@ -51,7 +51,6 @@ open_questions:
   - No source gave a combined weight; the 343 grams of charas in the figures is the sum of the seven charas amounts listed in the police statement.
   - Police gave no ages or occupations for the eight arrested, and no court appearance, bail decision or conviction has been reported.
   - All weights are police estimates ('approximately', 'around'), and the 20.6 grams at Bijbehara was heroin, not cannabis, so it is not counted in the cannabis weight.
-  - No photograph of the arrests or the seized contraband was published with these reports; the submitted page's only image is a 2021 Srinagar city graphic.
   - Amar Ujala files the story under Srinagar news, although every case it describes is in Anantnag district.
   - 'Left out, as its quotation was not found in The Kashmir Horizon: The charas seizures police listed add up to about 343 grams, while the Bijbehara case accounted for 20.6 grams of heroin.'
 ---

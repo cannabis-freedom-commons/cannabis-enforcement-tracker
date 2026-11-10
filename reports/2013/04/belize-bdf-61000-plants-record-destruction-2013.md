@@ -55,7 +55,6 @@ open_questions:
   - No arrests, charges or court outcomes were reported, and the release does not say whether anyone was found at the destroyed plots.
   - The 220 pounds of compressed marijuana were destroyed with the plants, so they are counted as cannabis weight rather than a separate seizure.
   - The 12.5 million Belize dollar figure is the BDF's combined street value for all the destroyed marijuana, not a market price confirmed independently.
-  - The page lists three images with file-name captions only; they are not described as showing this operation, so no media entry is included.
   - The plants described as destroyed were growing crops; no laboratory confirmation of the material is reported.
 ---
 

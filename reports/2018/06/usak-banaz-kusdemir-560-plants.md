@@ -47,7 +47,6 @@ open_questions:
   - The full name of the person identified as K.K. was not published.
   - No court outcome beyond the remand order was reported.
   - No weight for the 560 plants, no cultivated area and no estimated value were published.
-  - The submitted page carries a photo captioned with the operation title whose depicted content could not be verified, so it is not listed as media.
 ---
 
 Gendarmerie teams from Banaz district searched the house and adjoining

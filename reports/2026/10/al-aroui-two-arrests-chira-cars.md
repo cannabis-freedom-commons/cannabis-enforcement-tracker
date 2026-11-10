@@ -48,7 +48,6 @@ open_questions:
   - The Arabic report lists an additional product, «تيكاروتين», among the first seizure without a quantity; the French report does not mention it.
   - The Arabic report says the first suspect was brought before the competent court after legal procedures; the French report mentions no court step.
   - The two outlets appear to draw on the same police account rather than independent reporting.
-  - 'No photograph confirmed to show this event could be linked: the submitted page''s lead image is a rights-reserved file picture whose address dates from 2023, and the Arabic page''s lead image has no caption or credit.'
 ---
 
 Officers of the judicial police in Al Aroui arrested two young men in two

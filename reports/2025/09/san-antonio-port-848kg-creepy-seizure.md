@@ -97,7 +97,6 @@ open_questions:
   - No arrests, identities, charges or court outcome were reported.
   - Outlets round the weight to about 850 kg or more than 830 to 840 kilos; the official exact figure of 848.4 kg is used for figures.
   - Values are rounded as more than 3,000, 3,100 or 3,200 million pesos; the official exact figure of 3,187,147,260 Chilean pesos is used for figures.
-  - The La Tercera lead image is described only as the port of San Antonio and is not established to show this seizure, so no media entry is included for it.
   - Direct image addresses for the Navy gallery could not be recovered, so BioBioChile photos of the seizure credited to Carabineros are listed instead.
   - 'The route accounts differ: Directemar says the load entered Chile by sea from Colombia, while El Proa quotes the prosecutor describing an initial overland journey through Ecuador, Peru and Chile.'
   - Directemar's four-image gallery has no individual captions or photographer credits.

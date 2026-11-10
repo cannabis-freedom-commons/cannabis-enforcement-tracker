@@ -59,7 +59,6 @@ open_questions:
   - No weight was published for the cannabis portions, so no cannabis quantity can be recorded and crack amounts are excluded from cannabis figures.
   - No court outcome beyond the flagrante transfer to the Civil Police station was reported.
   - Only one accessible source for this event was found after searching in Portuguese.
-  - The page's main photo carries no caption establishing what it depicts, so no media entry is listed.
   - The new source gives only Sunday 1 November without a time of day, so the afternoon timing rests on the earlier source.
   - This account gives no separate date for the raid; 3 November 2026 is its publication date, so the 1 November incident date continues to rest on the earlier reporting.
 ---

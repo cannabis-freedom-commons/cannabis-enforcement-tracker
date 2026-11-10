@@ -43,7 +43,6 @@ open_questions:
   - A later awards report put the haul's value at P861.9 million; this report uses the P858,800,900 figure from the PRO-Cordillera press release.
   - No cultivators were identified; follow-up investigation to find them was continuing.
   - A separately reported 240,000-plant raid in Loccong on 1 May 2024 may describe one of this campaign's sites and is kept as its own report.
-  - The press-release page carries file photos that could not be verified as showing this operation, so no media is listed.
 sources:
   - title: OPLAN HIGHLANDER SUCCESSFUL P858.9 MILLION WORTH OF MARIJUANA BURNED IN KALINGA
     url: https://www.filipinonewssentinel.com/oplan-highlander-successful-p858-9-million-worth-of-marijuana-burned-in-kalinga/

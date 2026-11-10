@@ -23,7 +23,6 @@ open_questions:
   - Only one source, the Jamaica Customs Agency account via the Jamaica Information Service, could be opened; a Jamaica Star version of the same account could not be opened and is not cited.
   - The origins, destination and intended recipient of the transhipment container were not reported.
   - No later outcome of the Border Protection Unit and Narcotics Division investigation was reported in the opened source.
-  - The page's only image is the Jamaica Customs Agency logo, which does not show the event, so no media entry is listed.
   - Left out arrested, as no supporting quotation was given.
   - Left out kg seized, as no supporting quotation was given.
   - Left out value, as no supporting quotation was given.

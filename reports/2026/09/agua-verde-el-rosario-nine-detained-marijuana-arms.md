@@ -72,9 +72,7 @@ open_questions:
   - No separate date was published for the detention or for the binding-over hearing; 1 September 2026 is the first report's publication date and 30 September 2026 the prosecution report's publication date, the latter used as the incident date.
   - The charges against the eighth adult and the outcome for the minor beyond preventive internment were not detailed in the opened sources.
   - Authorities had not said whether the property was a safe house or whether the detainees belonged to a criminal organisation.
-  - The second image on the submitted page has no caption confirming it shows this event, so only one photo is listed.
   - El Universal dates the detentions to its 2 September 2026 publication without giving the day of the patrols; the army statement dates them to 31 August 2026.
-  - El Universal does not say in which community inside El Rosario the raid took place; CiberCuba and the existing report place it in Agua Verde.
   - CiberCuba's text credits its account to El Heraldo de México, which was not opened directly.
 ---
 

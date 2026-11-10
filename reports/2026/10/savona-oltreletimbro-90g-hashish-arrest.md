@@ -57,7 +57,6 @@ open_questions:
   - No outcome of the fast-track hearing was reported in the opened accounts.
   - About 50 grams of cocaine from a separate intervention in the same weekly roundup was excluded from cannabis figures as a separate non-cannabis event left out here.
   - Other items in the same weekly roundup, including an evasion arrest, prison orders and road-check reports, are separate events left out here.
-  - The Lokkio page image is an August file without a caption establishing this seizure and the second image is an advertisement, so no media entry is included.
 ---
 
 At night in Savona's Oltreletimbro district, Carabinieri of the Radiomobile

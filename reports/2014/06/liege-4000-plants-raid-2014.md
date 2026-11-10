@@ -74,7 +74,6 @@ open_questions:
   - Le Parisien and 20 Minutes report seven arrests in France and about fifteen in Belgium, while every account agrees fourteen people were jailed; the report records the fourteen jailed as arrested.
   - The plant count is given as nearly 4,000, not an exact laboratory count, and no per-plantation breakdown was published.
   - The reported weapons, non-cannabis drugs and vehicles were mentioned without quantities and are excluded from cannabis figures; only the separately stated 20,000 euros in cash is recorded.
-  - The page photograph is captioned as an illustration and is not established to show this seizure, so no media entry is included.
   - The French-language accounts largely reproduce the same news-agency dispatch; no separate official agency statement was located.
 ---
 

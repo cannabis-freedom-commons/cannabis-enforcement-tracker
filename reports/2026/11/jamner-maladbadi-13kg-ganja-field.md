@@ -98,7 +98,6 @@ open_questions:
   - The reports do not say whether the crop was hidden among other crops; Jalgaon Live News says it was grown behind crops.
   - No figure for the number of plants uprooted or the area of the cannabis plot was published in this account either.
   - The report gives no separate date for the raid; its dateline is 6 November 2026 and the raid date of 5 November comes from other outlets.
-  - The photograph on the Hindusthan Samachar page is an uncaptioned Crime category image, not established to depict this raid, so no media entry is made from it.
   - The Times of India account does not name the village, so it cannot confirm that the farm was at Maladbadi shivar.
   - The Times of India page gives only the publication date, 7 November 2026, and no raid date; the 5 November date comes from the Marathi reports already cited.
   - The eSakal page places the article under a Nashik section and datelines the report from Jalgaon; the raid itself was in Maladabhadi, Jamner taluka, Jalgaon district.

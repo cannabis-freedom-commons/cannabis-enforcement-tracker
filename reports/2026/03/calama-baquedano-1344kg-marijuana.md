@@ -56,7 +56,6 @@ open_questions:
   - The names and ages of the four detained people were not published; two were described only as Chileans and two only as men linked to the transport.
   - No charges, custody ruling or court outcome were reported; formal charging was still pending at publication.
   - Year-to-date and since-October-2023 regional seizure totals mentioned in the article describe other operations and are left out of figures.
-  - 'No media entry is included: the Fiscalía page image has empty alternative text and no caption establishing that it shows this seizure, and the TVN page shows only a placeholder image.'
   - Both SoyChile and TVN present the agencies' version; no defence or independent witness account was published.
 ---
 

@@ -108,8 +108,6 @@ open_questions:
   - No charge beyond arrest and detention, and no court outcome, was reported.
   - No separate count was published for the packaging tools beyond the scales and sealing machine.
   - The report gives the operation date as the night of 2 November and was published on 3 November 2026.
-  - The Sing Tao Canada page carries a photo without a caption or alt text establishing what it depicts, so no media entry is listed.
-  - The submitted HK01 page carries an additional thumbnail image captioned only with the headline, which does not establish that it shows this seizure, so no new media entry is added.
 ---
 
 After an in-depth investigation, officers from Yau Tsim District carried out an

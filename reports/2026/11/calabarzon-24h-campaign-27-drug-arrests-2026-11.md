@@ -54,7 +54,6 @@ open_questions:
   - No cannabis-only value was published; the 608,530.40-peso estimate covers the shabu and marijuana together.
   - The marijuana is described only as suspected, with no laboratory confirmation reported and no charges or court outcome given.
   - The gambling arrests, wanted-person arrests and firearms seizures belong to the same campaign but are recorded here only as context.
-  - The submitted page's single article photo has no caption or credit showing what it depicts, so no media is listed.
 ---
 
 Police in the Philippines' CALABARZON region arrested 27 drug suspects in 19

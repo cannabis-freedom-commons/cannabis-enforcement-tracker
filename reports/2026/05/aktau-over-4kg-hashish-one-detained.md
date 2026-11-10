@@ -58,7 +58,6 @@ open_questions:
   - The weight is stated only as more than 4 kg, so 4 kg is recorded as the supported lower bound.
   - The 24KZ and Polisia.kz accounts cite part 4 of article 296 on illegal trafficking, while the Lada.kz police account describes illegal storage on an especially large scale without purpose of sale; the report retains both descriptions.
   - The suspect is not named, and no charge beyond the opened investigation or court outcome was reported.
-  - The submitted page image is credited to depositphotos.com and the other page images are generic press-service photos without captions establishing they show this seizure, so no media entry is included.
 ---
 
 Officers of the Interior Ministry's anti-drug unit shut down a supply channel

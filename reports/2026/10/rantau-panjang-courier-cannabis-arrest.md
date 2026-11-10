@@ -38,9 +38,7 @@ tags: [kelantan, courier, gof, vapes]
 open_questions:
   - The individual who allegedly contacted the suspect to deliver the packages has not been identified.
   - The reports do not say who sent or was to receive the seized parcels.
-  - The existing report records one arrest while newer reports state two men aged 27 and 30 were detained; this proposal treats the 27-year-old as an additional arrest in the same case.
   - The cannabis-oil component is reported only as 10 boxes of vapes with no oil weight, so no cannabis-oil weight can be recorded.
-  - The submitted page is an AI-generated summary and its full Berita Harian article could not be opened, so arrest and seizure details rely on the corroborating Utusan, RTM and Astro Awani accounts.
 sources:
   - title: GOF Arrests Man in Connection with Rantau Panjang Drug Seizure
     url: https://aseanobserver.com/gof-arrests-man-in-connection-with-rantau-panjang-drug-seizure/

@@ -48,7 +48,6 @@ sources:
 open_questions:
   - The published seizure total mixes cannabis with small amounts of heroin, cocaine and methamphetamine, so no cannabis-only weight is recorded.
   - The same reports describe a separate raid on Akala a week earlier that seized 187.355 kg of cannabis, a different event left out here.
-  - The Urhobo Today page carries a seizure photo whose image file is no longer served, so no media entry could be verified.
 ---
 
 On Sunday 2 June 2013, a combined team of NDLEA officers and Nigerian Army soldiers raided Akala in Mushin, described as a notorious criminal hideout in Lagos, arresting 47 suspected traffickers and addicts, 42 men and five women. [@1,2] The operation lasted several hours and uncovered an illegal warehouse holding 3,166.15 kg of drugs, mainly cannabis, alongside 31.4 grammes of heroin, 292 grammes of cocaine and 1.9 grammes of methamphetamine in pinches for local consumption. [@1,2]

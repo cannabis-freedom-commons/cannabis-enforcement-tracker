@@ -115,24 +115,15 @@ open_questions:
   - The reports name no suspects, arrests, charges or court outcomes for the marijuana seizure.
   - Both reports recycle the same directorate statement to the Iraqi News Agency; no independent weighing or seizure record was published.
   - Coordinates are given at country level for Iraq as the coordinating country because the seizure country was not named and no spot can be guessed.
-  - The submitted page carries one image captioned only drug control, which does not establish that it shows this seizure, so no media entry is added.
-  - The CNN Arabic page carries an AFP photo captioned with the headline, which does not establish that it shows this seizure, so no media entry is added.
-  - The single image on the Rojnews page is an archival January 2022 drug-pills file with an empty caption, which does not establish that it shows this seizure, so no media entry is added.
   - 'Left out, as its quotation was not found in شبكة دال: Separately, he said recent operations included 20 kilograms of marijuana seized in one neighbouring country after the directorate sent specialist teams to coordinate with the local authorities and carry out the necessary security measures.'
-  - The submitted page's saved image entry is only an advertisement graphic, and its article header image has no caption establishing that it shows this seizure, so no media entry is added.
-  - The page's image at https://observeriraq.net/wp-content/uploads/2026/11/IMG_6709.jpeg has no caption or credit establishing that it shows this seizure, so no media entry is added.
-  - The submitted page's listed images are a caricature, an uncaptioned article thumbnail and a banner graphic, none established to show this seizure, so no media entry is added.
-  - The Ashourland header image has no caption or credit establishing that it shows this seizure, so no media entry is added.
   - The Sky News Arabia article and the submitted reprint give no separate date for the 20 kg marijuana seizure or the name of the country where it happened; 2 November 2026 is their publication date.
   - The header image on both pages shows Iraqi drug pills in a police display and has no caption establishing that it depicts this marijuana seizure, so it is not recorded as media.
   - The belbalady.net capture holds only the headline and a teaser; the article body was not in the opened page, so quotations come from the Sky News Arabia and Iraqi News Agency accounts of the same statement.
   - The neighbouring country where the 20 kg of marijuana was seized and the dates of the operations remain unnamed and unspecified.
   - The reprint gives no separate date for the 20 kg marijuana seizure or for the seven-country operations; its own timestamp is 2 November 2026, the same day as the Iraqi News Agency original.
   - The reprint reproduces the Iraqi News Agency text, so it is not independent reporting of the seizures.
-  - The page carries one uncaptioned header image, so nothing establishes that it shows these seizures and no media entry is added.
   - The Al Kalima page reproduces the Sky News Arabia report of the directorate statement, and carries a Sky News Arabia byline, so it is not independent reporting.
   - The reprint names neither the neighbouring country where the 20 kg of marijuana was seized nor the period of the seven-country operations, and gives no separate date; 2 November 2026 is its own publication date.
-  - The page's header image has no caption establishing that it shows these seizures, so no media entry is added.
 ---
 
 Iraq's General Directorate for Narcotics and Psychotropic Substances director

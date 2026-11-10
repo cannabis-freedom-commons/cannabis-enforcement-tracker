@@ -159,20 +159,10 @@ open_questions:
   - The 1,800 and 3,000 hryvnia payments and 499,200 hryvnia bail are hryvnia sums in the text and are not recorded as drug value or fine.
   - A same-day Mykolaiv sentence report involving 14 plants and more than 8 kg appears to be a different case on bail, charges and procedural stage, but identity overlap cannot be fully excluded from this article alone.
   - Only one source for this detention was opened; no agency statement or second outlet confirming it was found.
-  - The submitted page says the man is 42 years old while the existing report says 44 years old.
   - The article gives only its 2 November 2026 publication date and no separate date for the detention or searches, so the report date remains 2 November 2026.
   - The weight is stated only as about 8 kilograms and is recorded as 8 kg.
   - The article gives only its 2 November 2026 publication date and no separate date for the detention or searches.
-  - Whether the lead photo on the submitted page shows this seizure cannot be established from the text caption alone, so no media entry is added.
-  - Whether the in-text photos on the submitted page show this seizure cannot be established from their headline-only captions, so no media entry is added.
-  - The submitted page says the man is 42 years old while the existing report records 44 years old from other accounts.
-  - The submitted page gives only its 2 November 2026 publication time and no separate date for the detention or searches, so 2 November 2026 remains the report date.
-  - The submitted AMP URL is the same article as the non-AMP NikVesti URL already cited in the existing report.
-  - The submitted English page says the man is 42 years old while the existing report records 44 years old from other accounts.
-  - The submitted page gives only its 2 November 2026 publication date and no separate date for the detention or searches.
-  - The submitted Russian version says the man is 42 years old while the existing report records 44 years old from other accounts.
   - The weight is stated only as about eight kilograms and is recorded as 8 kg.
-  - Whether the four photos on the submitted page show this seizure cannot be established because their captions are empty, so no media entry is added.
 ---
 
 Police in Mykolaiv detained a 44-year-old man suspected of illegally selling

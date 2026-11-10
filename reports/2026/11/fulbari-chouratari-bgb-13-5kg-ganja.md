@@ -73,7 +73,6 @@ open_questions:
   - BGB gave no details of how the cannabis crossed the border or who carried it, and named no suspects.
   - No charge, case filing or court outcome is reported; BGB only said legal action was being processed.
   - The coordinates are the Fulbari upazila centre rather than the exact Chouratari spot.
-  - The Protidiner Sangbad page image has no caption or credit identifying what it shows, so its media entry is listed with that caveat.
   - 'Left out, as its quotation was not found in Somoyer Konthosor: The patrol searched the area and recovered the cannabis, which BGB said had been smuggled from India.'
   - 'Left out, as its quotation was not found in Somoyer Konthosor: Lieutenant Colonel Mehedi Imam, commander of 15 BGB, said surveillance and patrols had been strengthened in sensitive border areas and that operations against smuggling and drug trafficking would continue.'
 ---

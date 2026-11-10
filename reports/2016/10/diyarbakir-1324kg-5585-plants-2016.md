@@ -45,7 +45,6 @@ open_questions:
   - No suspects were named and no charges or later court outcomes beyond the 30 remands were reported.
   - The 265 pills were described only as drug pills with no substance established and are excluded from cannabis figures.
   - The pistols and hunting rifles are not cannabis and are excluded from cannabis figures.
-  - The page includes a lead photo captioned only with the operation title, which does not establish that it shows this seizure, so no media entry is included.
   - The breakdown lists 1 tonne 213 kilograms plus 96 kilograms of kubar esrar with 15 kilograms of toz esrar, counted together as cannabis to give the reported 1 tonne 324 kilogram total.
 ---
 

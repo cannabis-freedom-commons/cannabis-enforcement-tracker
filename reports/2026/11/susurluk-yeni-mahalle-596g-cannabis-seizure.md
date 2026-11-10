@@ -65,8 +65,6 @@ open_questions:
   - The suspect was identified only by the initials Y.E.K.
   - The two guns and 16 cartridges are noted only to explain the same search and are excluded from cannabis figures.
   - Both accessible accounts carry the same agency-wire text, so no independent police statement was opened.
-  - Each page carries a lead photograph captioned only with the operation headline and without a credit confirming it shows this seizure, so no media entry is included.
-  - The page carries a lead photograph captioned only with the operation headline and without a credit confirming it shows this seizure, so no media entry is included.
   - The new account says the raid occurred at around 17.00 but carries a same-day 13:48 publication timestamp, so the raid's separate calendar date remains unclear.
 ---
 

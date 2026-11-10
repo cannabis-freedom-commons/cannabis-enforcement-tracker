@@ -42,7 +42,6 @@ open_questions:
   - The suspect's full name was not published, only the initials E.H.
   - No court outcome was reported; the Public Prosecution investigation was still under way.
   - Only one accessible source for this event was found after searching in Arabic.
-  - The page photo is captioned only as accused and is not established to show this seizure, so no media entry is included.
 ---
 
 Detectives of the Zefta police station in Gharbia Governorate arrested a

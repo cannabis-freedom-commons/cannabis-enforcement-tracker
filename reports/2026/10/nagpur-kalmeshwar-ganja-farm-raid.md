@@ -69,7 +69,6 @@ media:
     publisher: Nagpur Today
     caption: 'Image published with the report that ganja plants were grown on a chartered accountant''s farm in Nagpur, the caretaker was arrested and nine plants were seized. Photo: Nagpur Today'
 open_questions:
-  - Nagpur Today spells the caretaker Bablu Budh Sahu; the existing report, from The Hitavada, uses Bablu Buddh Sahu.
   - Nagpur Today gives no separate date for the raid; the recorded date remains 28 October 2026 from The Hitavada.
   - This Hindi Nagpur Today page spells the caretaker बबलू बुद्ध साहू, matching The Hitavada's Bablu Buddh Sahu, while the already cited English Nagpur Today page was recorded as spelling him Bablu Budh Sahu.
   - The page is Nagpur Today's Hindi version of the English article already cited, not an independent account.

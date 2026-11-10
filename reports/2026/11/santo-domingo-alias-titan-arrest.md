@@ -46,9 +46,7 @@ sources:
 open_questions:
   - El Diario dates the arrest to 3 November 2026, while the National Police statement says it occurred in the early hours of 4 November; this report uses the police date.
   - Cannabis quantity is reported as 680 grams by National Police, one kilogram in the submitted Chinese-language account, and 469 grams by El Diario; the conflicting weight is omitted from figures.
-  - The submitted page identifies El Universo as its Spanish-language source and warns that its translation may contain errors.
   - No charge, preventive-detention order or later court outcome was reported in the opened accounts.
-  - The submitted page and Police statement include images without text-based captions establishing what they show, so they are omitted; El Diario's caption identifies its linked police photo of the detainee.
   - 'Left out, as its quotation was not found in Policía Nacional del Ecuador: Police listed firearms, a magazine, marijuana and a mobile phone among the evidence, and said a taxi was retained for investigation.'
   - 'Left out, as its quotation was not found in El Diario: After a motorcycle pursuit, officers recovered a bag of plant matter the suspect allegedly discarded, and a preliminary test confirmed marijuana.'
   - 'Left out, as its quotation was not found in El Diario: Investigators were analyzing the phone for information about possible connections to other people.'

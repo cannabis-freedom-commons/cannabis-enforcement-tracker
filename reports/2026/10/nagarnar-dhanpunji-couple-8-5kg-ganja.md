@@ -79,8 +79,6 @@ open_questions:
   - 'Left out, as its quotation was not found in State Media Service: Police stopped them at the Dhanpunji RTO checkpoint in Bastar district on 27 October 2026.'
   - 'Left out, as its quotation was not found in The Gazette: Officers searching their blue bag found four packets of ganja, or cannabis, weighing 8.5 kg.'
   - 'Left out, as its quotation was not found in The Gazette: They also seized ₹120 in cash and a Lava Android mobile phone.'
-  - The RGH News page gives only its publication date of 30 October 2026 and no separate date for the checkpoint stop; the existing report dates the event to 27 October 2026.
-  - The page image uses the same timestamped file name as a photo already held in the existing report, so it appears to be the same agency handout and no separate media entry is added.
 ---
 
 Nagarnar police arrested a husband and wife who were taking ganja from Odisha to

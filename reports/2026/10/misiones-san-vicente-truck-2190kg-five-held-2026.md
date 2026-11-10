@@ -96,7 +96,6 @@ open_questions:
   - The five detainees and the woman placed at the disposal of the case are not named, and no charges, hearings or court outcome were reported.
   - The 2,190 kg 238 g total and the 13,294 kg 884 g ten-month figure are official figures; the release does not itemise every earlier seizure behind them.
   - The six 'rodados' are counted as vehicles; the release does not say whether all were seized in the searches or include the intercepted truck and scout car.
-  - The submitted page shows five Gendarmería handout photographs without captions or credits, so their content is described only from placement in the release.
   - 'Left out, as its quotation was not found in Mirador Provincial: Mirador Provincial reported that the ring used trucks with false floors and a scout car to carry the marijuana from Misiones to Santa Fe and Buenos Aires.'
 ---
 

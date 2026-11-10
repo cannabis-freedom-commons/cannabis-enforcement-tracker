@@ -51,7 +51,6 @@ open_questions:
   - No purchase weight, laboratory result or separate cannabis-only valuation was published; the 450,000 FCFA figure is a reported expected profit, not a recorded seizure value.
   - The suspect's name, age, sex and exact nationality were not published beyond foreign national.
   - No charge, prosecution or court outcome was reported; the investigation was still under way.
-  - Both article pages carry photos captioned with the seizure, but without credit or description establishing that they depict these 50 balls, so no media entry is included.
 ---
 
 Yamatogne police in Ziguinchor arrested a foreign national at the road

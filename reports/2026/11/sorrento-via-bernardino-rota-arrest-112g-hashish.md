@@ -72,7 +72,6 @@ open_questions:
   - No court outcome, name of the judge or trial date is reported; the man is under house arrest pending trial.
   - The suspect is identified only by initials and date of birth.
   - Only one source for this event was found; no carabinieri statement or second outlet could be opened.
-  - No photo showing the seizure or the arrest could be identified; the page image address names only the drugs topic, so no media entry is given.
   - The account gives the cocaine only as 132 doses and no total weight for the drugs, so the cocaine is excluded from the cannabis figure.
   - The Zazoom page does not name the suspect or give the arrest's exact date; its own publication date is 9 November 2026, which the report uses.
 media:

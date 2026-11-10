@@ -52,7 +52,6 @@ open_questions:
   - The article gives no separate date for the raid; 8 November 2026 is its publication date and is used as the incident date.
   - No court outcome was reported; the Public Prosecution investigation was still under way.
   - Only one accessible source for this event was found after searching in Arabic.
-  - The page photo is captioned only as police men with no credit and is not established to show this seizure, so no media entry is included.
   - The second outlet identifies the suspect as ا. ا. ا at the same age of 36 and the same village, while the report's original source gave the initials A.B.; both accounts release initials only.
   - Neither account gives a weight for the 8 hashish slabs or identifies the two cylinders of powder.
   - The photographs on both pages carry no caption tying them to this seizure, so no event media is added.

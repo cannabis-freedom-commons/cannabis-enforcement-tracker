@@ -63,7 +63,6 @@ open_questions:
   - No court outcome was reported; charges and the suspect's identity were not published and the pre-trial investigation was still under way.
   - The new item was published on 26 August 2026, one day after the two sources already cited in the report, and gives no separate date for the detention and search; 25 August 2026 remains the incident date.
   - The new item attributes its account to Polisia.kz, the agency source already cited in the report, so it is not independent reporting.
-  - The page shows a photo credited to Polisia.kz; the report already lists the Polisia.kz handout photo of the seizure, so no new media entry is added to avoid duplicating the same agency handout.
 ---
 
 Officers of the anti-drug unit of the Ulytau Region police department detained a

@@ -59,7 +59,6 @@ open_questions:
   - No charge, trial or sentence is reported; the accounts only say the suspects were held at the station pending transfer to the courts.
   - Icimali says the suspects were on their seventh run, while the submitted account says only that they were not on their first trip.
   - No value for the 122 kg was published.
-  - The photo on the submitted page carries no credit and cannot be confirmed to show this seizure.
   - 'Left out, as its quotation was not found in Icimali: The cannabis had been hidden inside the truck''s tyres, a method the articles describe as new for traffickers in Mali.'
   - 'Left out, as its quotation was not found in Sahel Tribune: A resident''s tip alerted the station to the truck parked on the roadside at Titibougou.'
 ---

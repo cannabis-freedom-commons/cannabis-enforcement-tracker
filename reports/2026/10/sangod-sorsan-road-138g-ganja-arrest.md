@@ -47,7 +47,6 @@ open_questions:
   - The main account describes a Thursday patrol without giving a separate event date, while one local account dates the patrol to 28 October 2026 and the court production to Thursday, so the incident is dated to the 28 October patrol.
   - One account says the 138 grams included the wrapping material, so the published weight may include packaging rather than a net laboratory weight.
   - No charge details or court outcome beyond production under the NDPS Act were reported, and questioning was described as continuing.
-  - The submitted page carries a photo without a caption or credit establishing that it shows this seizure, so no media entry is included.
   - Only local reporting of this event could be opened; no separate agency statement was found.
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Officers stopped him near the Jati Hanuman temple on Sorsan Road after he tried to flee on seeing the police vehicle.'
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Officers found 138 grams of ganja in the black plastic bag he was carrying.'

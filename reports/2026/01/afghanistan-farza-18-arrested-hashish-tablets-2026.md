@@ -45,7 +45,6 @@ open_questions:
   - No individual hashish amounts per suspect and no value for the hashish were published.
   - No charges, court referral or outcome for the 18 detainees was reported.
   - Only one accessible source for this event was opened.
-  - The page image carries only a generic thumbnail alt text with no caption or credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Farza district's security command in Kabul province announced the arrest of 18

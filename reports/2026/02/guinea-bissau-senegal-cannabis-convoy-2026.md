@@ -67,10 +67,7 @@ sources:
     date: 2026-02-23
     language: fr
 open_questions:
-  - The Lactuacho page image is a generic file illustration uploaded in November 2025 captioned Saisie Chanvre indien Police, not established to show this February 2026 seizure, so no media entry is included.
   - The suspect's name was not published and no charge or court outcome was reported; the reports say he was held in custody while the investigation continues.
-  - The Ndarinfo page shows a photo captioned only with the article title and no credit, so it cannot be established to show this seizure and no media entry is included.
-  - The Seneweb page image is captioned only with the article title and carries no credit, so it cannot be established to show this seizure and no media entry is included.
 ---
 
 Police arrested a courier near Sédhiou on 21 February 2026 with part of a 56 kg cannabis convoy bound for Guinea-Bissau; his accomplice fled, leaving a loaded bicycle.[@1,2,4,6] Senegal's Ziguinchor customs seized more than 10 tonnes of cannabis between January and June 2026, already above the 5.168 tonnes taken by all southern units in the whole of 2025, with cannabis moving opposite to the cashew flow across the border.[@1] [@1]

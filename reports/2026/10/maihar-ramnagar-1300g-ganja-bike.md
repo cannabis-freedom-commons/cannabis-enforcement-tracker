@@ -73,9 +73,6 @@ open_questions:
   - The page's lead image has no caption or credit identifying what it shows, so no photograph is linked; the 43-second video is linked as the page's report.
   - The 93,000-rupee total includes the motorcycle; the figures record only the stated ganja value of 13,000 rupees.
   - The roundup gives the motorcycle's registration as MP 53 MV 4894, while this report's source gives MP53 MB 4894.
-  - The submitted page says the accused is being produced in court (न्यायालय पेश किया जा रहा है), while the existing report says the court sent him to jail, a difference in case stage.
-  - The submitted page gives the accused's residence only as Sidhi, while the existing report gives Lehechua Raghunathpur in Sidhi district's Rampur Naikin area from the Dainik Bhaskar account.
-  - The submitted page's lead image has no caption or credit identifying what it shows, so no photograph is listed as media.
 ---
 
 A 60-year-old man was arrested with 1.30 kg of ganja (cannabis) in Maihar and

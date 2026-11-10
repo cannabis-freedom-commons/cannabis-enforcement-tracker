@@ -56,7 +56,6 @@ open_questions:
   - The 193 grams of suspected cocaine and 170 grams of suspected MDMA sweets are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - The cited sources do not publish the woman’s full name or street address, giving only Dakar and her apartment as the arrest location.
   - No court outcome beyond custody was reported; the investigation was described as continuing.
-  - The pages carry photos captioned with the case headline, but the captions and credits do not establish that any image shows this seizure, so no media entry is included.
 ---
 
 Dakar’s regional drug squad arrested a woman after seizing a parcel sent from

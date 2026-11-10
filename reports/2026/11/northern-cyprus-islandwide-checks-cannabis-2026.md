@@ -64,8 +64,6 @@ open_questions:
   - Only one outlet account could be opened, so the police account is not independently corroborated.
   - The published photo is presented with the inspections report generally and is not confirmed to show the cannabis seizures themselves.
   - 'Left out, as its quotation was not found in Haber Kıbrıs: The wider inspections also led to 18 people being detained for staying without residence permission despite having no legal status in the country.'
-  - Kıbrıs Postası gives the Lefkoşa cannabis as 26 grams, while the existing report, from Haber Kıbrıs, gives 26.5 grams.
-  - The submitted account separately reports 3 grams of cannabis in one Famagusta search and 110 grams in another, alongside cannabis found in a traffic stop, so the 113-gram Famagusta figure in the existing report cannot be checked against it.
   - The account repeats the same police statement as the outlet already cited and is not independent reporting.
   - No charges or court outcomes were reported for the nine people arrested.
   - The page's only in-article images are uncaptioned and not confirmed to show the operations or the seizures, so none is listed as media.

@@ -64,7 +64,6 @@ open_questions:
   - The imprisoned man's court appearance was still pending when the article was published, so his outcome is unknown.
   - Operation Ryguasu was also the name given to a larger Rivera operation that seized about 1.5 tonnes in November 2021, recorded in a separate report; whether the organisation behind both is the same was not established.
   - The source does not say whether the four people detained in Brazil were tried there, in Uruguay or not at all.
-  - The article shows a generic marijuana image whose caption does not confirm it depicts these seizures, so no media is listed.
   - Part of the passenger's load was pasta base, a cocaine product; it is not counted as cannabis.
   - No estimate of the marijuana's value was published.
 ---

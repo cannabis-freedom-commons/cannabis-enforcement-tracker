@@ -38,7 +38,6 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [moulay-bousselham, chira, trafficking]
 open_questions:
   - Whether the two arrested were charged or the network's remaining accomplices identified was not reported in the available accounts.
-  - The Xinhua/ANA page carries a photograph that could not be verified as showing this seizure, so no media entry was added.
 sources:
   - title: Moroccan police seize 5.7 tons of cannabis resin
     url: https://africannewsagency.com/moroccan-police-seize-5-7-tons-of-cannabis-resin/

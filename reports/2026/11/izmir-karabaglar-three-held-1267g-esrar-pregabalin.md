@@ -72,8 +72,6 @@ open_questions:
   - No charges, prosecutor referral, remand decision or court outcome was reported; police said processing was still under way.
   - Only initials and ages were released for the suspects.
   - No street value was published for the esrar, and the weight of the eight drug pills is not stated.
-  - The accounts describe the three as detained, while the submitted page's title says they were remanded; police said processing continued, so the title's 'tutuklandı' is not treated as a court decision.
-  - The page images on the submitted page and the İHA page carry no credit and are not established as photographs of the searched addresses.
 ---
 
 Police in Karabağlar, a district of İzmir, detained three suspects in a raid on

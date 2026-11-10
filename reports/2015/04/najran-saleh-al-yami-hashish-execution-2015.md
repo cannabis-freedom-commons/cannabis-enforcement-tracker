@@ -33,7 +33,6 @@ tags: [saudi-arabia, hashish, beheading]
 open_questions:
   - The quantity of hashish and the type of narcotic pills were not published.
   - Both opened sources relay the same Interior Ministry statement, so no independent account of the case was available.
-  - No photo of the case with a recoverable address was found, so no media entry was added.
 sources:
   - title: Saudi Arabia beheads man on smuggling accusations
     url: https://customstoday.media/saudi-arabia-beheads-man-on-smuggling-accusations/

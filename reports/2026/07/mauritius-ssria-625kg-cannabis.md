@@ -27,7 +27,6 @@ open_questions:
   - The opened follow-ups do not report the final outcome of Gungadin’s provisional charge.
   - The sources do not establish how many other suspects were arrested or charged beyond the initial importers and the sergeant.
   - L’Express gives the provisional-charge provision as section 298A, while Le Mauricien cites section 298; the report omits the section number.
-  - Later accounts round the cannabis valuation to about Rs 94 million, while the existing report retains Rs 94.5 million.
   - The court that granted bail is described as the Port-Louis South District Court by L'Express and as the Port-Louis district court by Le Mauricien.
   - The page reports the detention of two passengers and a third stopped later, with the sergeant as the fifth suspect, but the exact number of people charged is not stated.
   - The text gives a weight ("62.5 kg") but the figures have no kg_seized; check whether it belongs there.

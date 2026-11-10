@@ -44,7 +44,6 @@ sources:
 open_questions:
   - No weight or quantity for the cannabis in the parcel was published, so no kilograms can be recorded.
   - No court date or outcome was reported; the man was released with a summons to appear before the Lyon judicial court.
-  - The LyonMag page and the Le Progrès page each carry a prison-area image whose caption does not establish that it shows this night-time interception, so no media entry is included.
   - LyonMag attributes the cannabis detail to Le Progrès; both accounts otherwise agree on the date, place, arrest and summons.
 ---
 

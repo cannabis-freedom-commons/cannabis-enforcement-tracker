@@ -56,7 +56,6 @@ open_questions:
   - No monetary value for the cannabis or the shisha charcoal and tobacco was published.
   - The shisha charcoal and tobacco are not cannabis and are excluded from the cannabis figures.
   - The National Gendarmerie statement repeating the same account was found in search but could not be opened directly after a server error, so this report rests on the two opened outlet accounts.
-  - The Camer.be page also carries a Gamba gendarmerie image whose caption does not establish that it shows this seizure, so no second media entry is included.
 ---
 
 At about 00:30 on the night of 11-12 October 2026, gendarmes of the mixed

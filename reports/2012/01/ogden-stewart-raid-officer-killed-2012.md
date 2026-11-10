@@ -54,7 +54,6 @@ open_questions:
   - Stewart says he was asleep after a night shift and mistook the officers for robbers, while the police affidavit says he knew or should have known they were officers; the report attributes each account to its source.
   - The informant described 12 to 15 plants and said Stewart sold some, while his father said he grew for his own depression, anxiety and post-traumatic stress; no court finding on that point is in the opened sources.
   - Stewart faced one count of aggravated murder, eight counts of attempted aggravated murder and one cultivation count; no trial outcome is in the opened sources.
-  - No photo confirmed to show this house or raid was available, so no media entry was added.
 ---
 
 Weber-Morgan Narcotics Strike Force agent Jared Francom died early on 5 January 2012 after a shootout the previous night at a suspected home cannabis grow in Ogden, Utah; five more officers were wounded. [@2] The raid began between 8 and 8:30 p.m. on 4 January, when about a dozen officers and deputies went to the house of Matthew Stewart, a 37-year-old Army veteran who worked at a local Walmart. [@1]

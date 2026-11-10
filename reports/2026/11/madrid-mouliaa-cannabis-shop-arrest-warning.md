@@ -48,7 +48,6 @@ open_questions:
   - No criminal fine, charge sheet, trial date or court outcome has been reported; the case is at the investigation stage and an appeal against continuing it is pending.
   - No weight of seized cannabis products was published, only a value of more than 3,000 euros described by the defence from the pending analysis report, not an official police valuation.
   - The actress is described as investigated, not arrested or charged, and the assistant as reported by the municipal police; neither is counted as arrested in the figures.
-  - The submitted page and La Razón are effectively the same account, La Razón being the original; El Independiente and 20minutos are independent outlets.
   - The shop assistant's hearing is dated only as 13 January, without a year in the text; it is taken to fall in 2027.
   - No photograph of the shop, the seized products or the raid was found; the La Razón picture is a date-stamped agency photo of the actress leaving the Plaza de Castilla courts with her lawyer in February 2026.
   - Elisa Mouliaá no acude a declarar como investigada por un delito contra la salud pública de su comercio de cannabis (20minutos) could not be opened again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.

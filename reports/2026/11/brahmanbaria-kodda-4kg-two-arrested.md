@@ -65,7 +65,6 @@ open_questions:
   - No street value for the seized ganja was published.
   - No court outcome beyond the filing of the regular case was reported.
   - The submitted article also describes a separate 2 kg ganja arrest of Piyasi Jannat Mim near a tea shop by the Akhaura Bypass the same day, a different event left out here.
-  - The submitted page carries a photo with no caption or credit establishing that it shows this Kodda bridge seizure, so no photo is listed.
 ---
 
 Department of Narcotics Control officers arrested two women with 4 kg of ganja

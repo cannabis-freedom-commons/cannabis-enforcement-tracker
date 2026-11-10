@@ -48,7 +48,6 @@ open_questions:
   - The reports do not specify which alleged offences the four Trento arrests or the eight investigations at liberty relate to.
   - No charges, prosecutions or court outcomes were reported.
   - National cannabinoid and other-drug totals from the same operation are a separate national total left out of this Trento-focused report.
-  - The available page images carry no caption establishing that they show this seizure, so no media entry is added.
   - L'Adige rounds the Trento hashish to about 2.2 kg and cocaine to 1.34 kg while Il T Quotidiano gives 2,201.47 and 1,344.81 grams; the report uses the precise figures.
 ---
 

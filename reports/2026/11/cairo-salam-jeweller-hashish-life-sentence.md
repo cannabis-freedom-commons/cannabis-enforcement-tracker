@@ -69,7 +69,6 @@ open_questions:
   - The outcome of the 4 November appeal ruling was not yet reported in the opened articles.
   - The fine was stated as 100,000 Egyptian pounds for each defendant and is recorded as 100,000 Egyptian pounds per the tracker's per-person practice.
   - Both opened reports are from the same publisher, Al-Masry Al-Youm, and no independent second outlet was found.
-  - The only page images are captioned as archival illustrations of handcuffs and drugs, not photos of this event, so no media entry is included.
   - The appeal outcome article does not state whether the 100,000-Egyptian-pound fine imposed on each man at first instance remains in force after the custodial terms were reduced.
 ---
 

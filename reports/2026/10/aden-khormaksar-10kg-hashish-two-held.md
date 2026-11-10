@@ -111,7 +111,6 @@ open_questions:
   - The report dates its Manbar Aden (AMP) source 1 November 2026 from page metadata, while this page gives Saturday 31 October 2026, 4:39 pm.
   - Manbar Aden marks the story 'خاص' (its own) although the text matches Aden Al-Ghad's report.
   - The Khlaasa page names only Aden and does not mention Khormaksar district or the nine bags, so those details continue to rely on the earlier-cited police accounts.
-  - The page's image caption repeats the headline and does not describe what the photo shows, so no media entry is added.
 ---
 
 Aden's anti-narcotics police detained two people in Khormaksar district with

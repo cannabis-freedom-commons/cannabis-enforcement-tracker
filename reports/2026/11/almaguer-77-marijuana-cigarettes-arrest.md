@@ -62,7 +62,6 @@ open_questions:
   - The 400,000 pesos is the authorities' preliminary commercial estimate, not a court-assessed figure.
   - No court hearing, charging decision or outcome was reported; the case is recorded as charged on the prosecutor's stated suspect crime.
   - Only reprints from the same Grupo Editorial Central network were found, so the account rests on one underlying report.
-  - The page's only picture is a cover image credited to Grupo Editorial Central with a caption repeating the headline, so no media entry is included.
 ---
 
 National Police patrols arrested 34-year-old Adrián García Ocampo in the barrio

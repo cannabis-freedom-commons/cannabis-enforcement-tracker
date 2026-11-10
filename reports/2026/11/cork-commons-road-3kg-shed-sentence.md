@@ -63,11 +63,9 @@ open_questions:
   - The report does not state whether an appeal was lodged.
   - The address given for the offence is Commons Road in Cork city, while the defendant's home is on Rathpeacon Road; the report does not say who owned the Commons Road house beyond calling her the owner.
   - No arrest date is given; 27 February 2025 is the date of the offence and 9 November 2026 is the publication date of the sentencing report, which stands in for the sentence date.
-  - The page image is an iStock stock photograph of cannabis, not the shed or the seizure, so no media entry is included.
   - The submitted Irish Examiner page is by the same court reporter, Liam Heylin, as the EchoLive account already cited, so it corroborates rather than independently reports the hearing.
   - Neither account says whether the three kilos were herbal cannabis or resin.
   - No appeal is reported, and the page does not say when or whether O'Callaghan was arrested.
-  - The page photograph is an iStock stock image of cannabis captioned as a file picture, not the shed or the seizure, so no media entry is added.
 ---
 
 Shaun O'Callaghan, of 196 Rathpeacon Road, Cork, was jailed for three years

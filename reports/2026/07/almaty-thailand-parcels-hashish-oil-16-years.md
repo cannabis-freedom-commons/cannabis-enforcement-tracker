@@ -53,7 +53,6 @@ open_questions:
   - The sources give no number of parcels or smuggling attempts, and no name, age or gender for the convicted organiser.
   - The additional drugs found prepared for sale were not identified or weighed separately, so their weight is excluded from the cannabis figure.
   - The round of ammunition is a non-cannabis item and is excluded from cannabis figures.
-  - No photograph of the event itself was published; the illustration on the 24KZ page is marked as AI-generated, so no media entry is recorded.
   - Coverage of the same channel mentions a separate 17 July 2026 sentence in Astana over Thailand parcels, a different event left out of this report.
 ---
 

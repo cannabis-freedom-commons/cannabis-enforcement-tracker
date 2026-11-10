@@ -39,7 +39,6 @@ open_questions:
   - The report says a motorcycle and phone were recovered from traffickers but gives no number of suspects, arrests or charges.
   - No court outcome or further legal steps were reported.
   - Only one accessible source for this event was found after searching in French and English.
-  - The page image is captioned as an illustration of a Senegalese customs seizure and does not show this Kaolack event, so no media entry is included.
 ---
 
 Officers of the Brigade régionale des stupéfiants (BRS), the regional narcotics

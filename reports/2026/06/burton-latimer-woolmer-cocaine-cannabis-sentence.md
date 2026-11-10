@@ -77,7 +77,6 @@ open_questions:
   - No cannabis weight was published for the Leicester property or the two Burton Latimer addresses raided in May 2024.
   - The £57,465 cash figure covers money recovered across the investigation and is not a confiscation or proceeds-of-crime order.
   - The submitted BBC page shows only a police custody photograph of Woolmer; no picture of the seized drugs, cash or watch could be confirmed, so no other media is listed.
-  - The BBC names the sentencing only as “Friday”; the SWNS agency account gives it as 12 June 2026, which the existing report uses.
   - The SWNS page is an agency account that largely reproduces the Northamptonshire Police statement; it is not independent of the police figures.
 ---
 

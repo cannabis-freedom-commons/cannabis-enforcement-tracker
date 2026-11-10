@@ -63,11 +63,9 @@ open_questions:
   - One Puerto Rico outlet later reported 61 people arrested while the two cited accounts report 60 arrests with a minor apprehended, so this report records the shared minimum of 60 and treats the extra arrest as unconfirmed.
   - The number of arrestees linked specifically to the marijuana portion, their names, and any court outcome were not published, and the operation was still under way with more warrants pending.
   - 4 August 2026 is both the operation day described as Tuesday and the publication date of both cited accounts, with no separate earlier incident time given.
-  - The supplied page image is a 2024 stock photo of police-car lights captioned as an external source, not this operation, so no media entry is included.
   - Other seized substances and the nine vehicles are mentioned only to explain the mixed operation and are excluded from cannabis figures.
   - The EFE text gives 60 arrests while Primera Hora reports 61 in the same sweep, so the existing minimum of 60 is kept and the 61 remains that outlet's figure.
   - The 101 marijuana pieces are counted by number with no weight, so only the one-pound portion is converted to cannabis weight.
-  - The El Nuevo Diario page image is a file illustration from the portal's uploads with no caption tying it to this operation, so no media entry is added.
 ---
 
 Puerto Rico police arrested at least 60 people on 4 August 2026 in an

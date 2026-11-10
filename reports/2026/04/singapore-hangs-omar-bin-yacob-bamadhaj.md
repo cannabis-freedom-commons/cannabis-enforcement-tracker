@@ -54,7 +54,6 @@ sources:
     publisher: Human Rights Watch
     date: 2026-04-14
 open_questions:
-  - This source was published before the scheduled 16 April 2026 execution and does not itself confirm the execution was carried out; the existing report establishes that later step through the Central Narcotics Bureau.
   - No event photo is listed because the only image on the page is a 2018 private family photo of Omar with his daughter, not the seizure, raid or execution itself.
 ---
 

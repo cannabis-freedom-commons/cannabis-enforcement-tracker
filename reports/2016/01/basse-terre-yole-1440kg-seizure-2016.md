@@ -62,7 +62,6 @@ open_questions:
   - The 2019 RCI account of the Wildting trial says 62 bales, or 2.2 tonnes, were seized from the Wildting in the same interception, against about 60 bales and 1,440 kg in the January 2016 accounts.
   - Outremers 360 dated the interception 12 January 2016 and placed it near Dominica on a saintoise, while RCI, Bondamanjak, AFP and the prefect's communiqué give 10 January 2016 north-west of Basse-Terre.
   - The sources do not name the charges the six men face or report any verdict for this indictment.
-  - The submitted RCI page carries only a generic RCI image, and the other opened accounts reproduce an uncaptioned agency or handout photo that cannot be confirmed as showing this interception, so no media entry is included.
   - 'Not added to guadeloupe-sainte-rose-435kg-ten-arrested-2016, as its quotation was not found in RCI: Anti-narcotics officers of the OCRTIS, France''s central office against illicit drug trafficking, and the GIPN police intervention group stopped a convoy of four vehicles between Sainte-Rose and the approaches to Deshaies in Guadeloupe.'
   - 'Not added to guadeloupe-sainte-rose-435kg-ten-arrested-2016, as its quotation was not found in RCI: At the end of January 2019, 21 people went on trial before the JIRS in Fort-de-France over the wider network known as the Wildting case.'
 ---

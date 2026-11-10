@@ -71,7 +71,6 @@ open_questions:
   - The sources identify the man only by age, and state no plea, court date, court or outcome.
   - The five-figure cash sum is not given as an exact figure.
   - Only an estimate of more than £160,000 is given for the drugs; no separate values for the individual substances were published.
-  - No photograph confirmed to show this raid or seizure was published with the reports; the submitted page carried no picture tied to the raid and STV used an Adobe Stock photograph.
 ---
 
 Police Scotland officers searched a property in the Smyllum Road area of Lanark

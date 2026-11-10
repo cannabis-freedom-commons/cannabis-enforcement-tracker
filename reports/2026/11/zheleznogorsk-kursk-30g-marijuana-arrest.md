@@ -67,7 +67,6 @@ open_questions:
   - No criminal record, measure of restraint or court outcome was reported; the case was at the investigation stage.
   - The place where the man gathered the cannabis had not been established when the reports were published, so no eradication site is recorded.
   - All three accounts reproduce the same regional police statement, and the photographs published with them are police handout images.
-  - The submitted page and the Zhel.city report both carry the same handout photo; only the Ferumnews copy's direct image address could be confirmed, so one photo is listed.
 ---
 
 Police in Zheleznogorsk, Kursk Oblast, detained a 38-year-old man who tried to

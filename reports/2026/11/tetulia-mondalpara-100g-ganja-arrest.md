@@ -55,7 +55,6 @@ open_questions:
   - No information was published on charges beyond registration of a Narcotics Control Act case, on remand, or on any court outcome.
   - The article does not say whether the 65-year-old owner of the abandoned house was questioned or accused.
   - The event is placed in Tetulia upazila; coordinates are those of the upazila centre, not of Mondalpara village.
-  - The page photo has no credit and only repeats the headline as its caption, so no media entry is included.
   - The Shironam page shows no fixed publication date, only a relative time stamp; its Dhaka Mail original is dated 9 November 2026 and the event is dated 8 November.
   - The page's only photo repeats the headline as its caption and carries no credit, so it cannot be confirmed to show this raid.
 ---

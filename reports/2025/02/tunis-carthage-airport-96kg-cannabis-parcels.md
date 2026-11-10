@@ -56,7 +56,6 @@ open_questions:
   - No value for the seized cannabis was published.
   - The year-to-date figures of 30,000 tablets, seven kilos of cocaine and more than 100 kg of cannabis given in the same interview cover all of Tunisia's border points and are not counted as figures for this seizure.
   - The three accounts all report the same Mosaïque FM interview; no separate customs statement or court record was opened.
-  - No photo of this seizure was published on the opened pages; the image on the submitted page illustrates a different, earlier customs case involving a car driven by a Tunisian living abroad.
 ---
 
 Tunisian customs officers found cannabis hidden in parcels at the cargo terminal

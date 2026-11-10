@@ -60,7 +60,6 @@ open_questions:
   - The reports give the incident day only as Saturday 31 October; 2026 is inferred from the 2 November 2026 publication dates and the calendar.
   - The suspects were not named and no charges or court outcome were reported.
   - The reported origin and destination of the drugs were not published.
-  - Whether the submitted page's lead image shows this seizure could not be established from its caption, so only the PRF-GO photo from the second source is listed as media.
 ---
 
 On 31 October 2026 the Federal Highway Police arrested three people in the Jataí

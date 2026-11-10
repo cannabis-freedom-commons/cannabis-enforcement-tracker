@@ -115,29 +115,19 @@ open_questions:
   - 'The video page repeats the same discrepancy already recorded: three kilograms stated at the start but 1.5 kilograms said to be recovered from the bag, so no cannabis weight is recorded.'
   - The arrest is described as late on Tuesday night with publication on 4 November 2026, so 3 November 2026 is retained as the incident date.
   - No independent second outlet was found; the new capture is Amar Ujala's video republication of its own text report.
-  - The new account places the detention and search at Shabnam's tea shop in the Bajaria area, while the existing report says she was surrounded near her house in Kanghi Mohal.
-  - The new account says Riyaz Khatola was jailed after allegedly shooting Shahzad Alam near Barfkhana mosque about a month earlier, while the existing report says he was sent to jail for allegedly selling charas while carrying an illegal pistol.
   - The new account consistently reports about 3 kg and 3 kg of charas from the shop bag, while the existing Amar Ujala source internally reports three kilos at the start but 1.5 kg recovered from the bag, so no cannabis weight is newly resolved here.
-  - The article gives Tuesday late night at about 11 pm and was published on 4 November 2026; 3 November 2026 is retained from the existing report as the incident date.
   - The article says both charas and ganja were sold through the shop but gives no separate ganja weight, so no additional cannabis weight can be recorded.
   - The lead image without a caption and the portrait captioned only as the accused woman are omitted as media; only the captioned bag-seizure and raid-cordon photos are listed.
-  - The new account says the charas was found in envelopes hidden in different parts of the house, while the existing report places about 3 kg in a bag in the tea shop, so the exact recovery container and location remain unresolved.
-  - The new account lists the aliases Nasreen, Bano and Guddi, while the existing report says she was also called Chacha, so the alias accounts differ.
   - The new account's figure of about 1.5 kg of charas and a pistol refers to Riyaz Khatola's earlier separate arrest, not this seizure, and is left out here.
   - The new account says the value estimate and the seized substance still require confirmation through investigation and testing.
-  - The page image is labelled only with the article headline and its file name indicates a screenshot, so it is not established to show this seizure and no media entry is included.
   - The roundup gives only the Rs 1.5 crore valuation and no weight for the charas, so it does not settle the recorded difference between 3 kg and 1.5 kg.
   - The roundup repeats the account in a few lines and names no police officer, so it adds no detail beyond the value and the tea-stall cover story.
   - The Gujarati account gives no weight or value for the 3 November seizure, only that police recovered four charas packets hidden inside an empty LPG cylinder, so the weight difference between 3.131 kg and about 1.5 kg stays unresolved.
-  - The Gujarati account says Riyaz alias Khatola was the partner arrested about 20 days earlier with one kilogram of charas and a pistol, while the existing report has him jailed for selling charas while carrying an illegal pistol; the two accounts of that earlier arrest still differ.
   - The Gujarati account speaks of Shabnam's house search, while other accounts place the recovery at her tea shop; where the charas was actually found is still unclear.
-  - The page picture is captioned only as News18 and is not established by any caption or text to show this seizure, so no media link was added for it.
   - The Gujarati report gives no court outcome and no charge sheet; it says only that police were still raiding to find her associates.
   - Left out arrested, as no supporting quotation was given.
   - Left out value, as no supporting quotation was given.
-  - The article gives no separate date for the raid; 5 November 2026 is its publication date, while the existing report dates the late-night arrest to 3 November 2026.
   - The article consistently reports 3.131 kg in four packets and does not resolve the earlier difference between about 3 kg and 1.5 kg in the Amar Ujala account.
-  - The page image is labelled only with the article headline and carries no credit establishing it shows this seizure, so no media entry is listed.
 ---
 
 Bajaria police arrested Shabnam Begum, also called Chacha, near her house in

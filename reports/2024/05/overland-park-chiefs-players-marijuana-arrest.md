@@ -59,7 +59,6 @@ open_questions:
   - News organisations reported slightly different stop and arrest times; Johnson County Post records the stop at 11:22 p.m. on Kansas Highway 10 and the arrests at 11:44 p.m., while KSHB describes the location as West 159th Street and U.S. 69 Highway, near where KCTV also placed the stop.
   - No report opened states why the charges were dropped in September 2024.
   - The two players were also reported to be due in court on 23 May and then on 11 July 2024, but the outcome of those appearances was not published in the accounts opened.
-  - The NFL.com page carries a portrait of Morris as its lead image, which does not show the arrest, so no media entry is included.
   - 'Left out, as its quotation was not found in Johnson County Post: Both men were booked into the Johnson County Adult Detention Center and released on Friday afternoon after posting $2,500 bond.'
   - 'Left out, as its quotation was not found in KMBC 9: The same contrast is drawn by KCTV, which noted that marijuana possession remains illegal in Kansas while recreational use up to three ounces is legal in neighbouring Missouri.'
 ---

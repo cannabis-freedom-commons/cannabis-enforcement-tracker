@@ -62,7 +62,6 @@ open_questions:
   - The man is identified only as an individual, with no name, age, charge sheet, custody decision or court outcome reported; he is counted as detained.
   - The drugs are described as a cannabis-like substance and hashish with no laboratory confirmation reported.
   - No weight was given for the several portions of cocaine apart from the 100 grams of escama de peixe, and no combined or street value was published.
-  - The submitted page's photo is captioned only Divulgação / CPE, with no caption confirming which items it shows.
   - Only one outlet account of this event could be opened; no Military Police statement page or independent second account was found.
 ---
 

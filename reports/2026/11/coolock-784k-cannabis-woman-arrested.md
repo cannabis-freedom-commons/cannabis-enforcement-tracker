@@ -63,10 +63,7 @@ sources:
 open_questions:
   - No weight was published for the cannabis; only the Gardai estimated street value of €784,000 was reported.
   - The woman was not named and no charge or court outcome was reported; she was detained while investigations continue.
-  - The submitted page carries a photo with an empty caption and no credit establishing that it shows this seizure, so no media entry is listed.
-  - The submitted page carries a lead photo with an empty caption and no credit, so whether it shows this seizure could not be established and no media entry is added.
   - The outcome of the 4 November court appearance had not been reported in the opened source.
-  - The lead photograph is a file image of the Criminal Courts of Justice with an empty caption, so it is not established to show this seizure or hearing and no media entry is listed.
   - No second account of the charging and court-appearance step could be opened; the update rests on the single Irish Mirror report.
 ---
 

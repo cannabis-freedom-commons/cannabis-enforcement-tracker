@@ -45,7 +45,6 @@ sources:
 open_questions:
   - The ministry described the contraband only as a large quantity of amphetamine pills, hashish and narcotic opium, so no separable cannabis figure can be recorded.
   - The same 1 January announcement reported a third execution, of a Pakistani national in Jeddah for heroin smuggling, a separate non-cannabis event left out here.
-  - No photo of the executions could be verified, so no media entry was added.
 ---
 
 Saudi Arabia executed Egyptian nationals Ataiwi Faraj Attia Suleiman and Subhi Odeh in Tabuk on the first day of 2019 for smuggling drugs by sea into the kingdom. [@1,2] The Interior Ministry said the two men were caught smuggling a large quantity of banned amphetamine pills, hashish and narcotic opium, and that investigators arrested them before the courts convicted them. [@2]

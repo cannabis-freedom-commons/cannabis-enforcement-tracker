@@ -56,7 +56,6 @@ open_questions:
   - Only Subrayado reports that the truck was registered in Yaguarón, Paraguay, and had been held in Uruguay for 90 days in 2021 over timber smuggling.
   - Neither account reports the driver's name, any charge filed in court, a measure of restraint or a later court outcome; the case was at the arrest stage when they were published.
   - No street value for the hashish was published, and no other Brazilian reporting of this specific seizure could be opened.
-  - Both article pages carry agency handout images, but the photos are not confirmed to show the truck or the load of this seizure, so no media is linked.
   - 'Left out, as its quotation was not found in Gazeta Brasil: The stop happened in flood-hit Eldorado do Sul on the BR-116 highway, where Federal Police teams moved from flood rescue work to visible patrols in Operation Esperança, or Operation Hope, a 400-officer deployment drawn from several states.'
 ---
 

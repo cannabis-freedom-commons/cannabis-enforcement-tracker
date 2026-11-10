@@ -50,7 +50,6 @@ open_questions:
   - Two further cases on the same docket were rescheduled and no details about them were published.
   - The fines are stated only as $2,000 and $1,500 without identifying the dollar currency, and two different fines cannot be recorded in a single fine field, so no fine figure is recorded.
   - No clear arrest total was stated beyond Francis being taken to the police station, so no arrested figure is recorded.
-  - The page image is a generic News-Feature-Archives placeholder and is not shown to depict this seizure or hearing, so no media entry is included.
   - No second account of the Francis seizure could be opened, and the second source corroborates only the Herbert case.
 ---
 

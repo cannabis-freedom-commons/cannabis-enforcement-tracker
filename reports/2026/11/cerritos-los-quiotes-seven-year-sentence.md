@@ -51,7 +51,6 @@ open_questions:
   - The article gives no separate sentencing date; 4 November 2026 is its publication date and is used as the incident date, while the arrest was in March 2023.
   - It is unclear whether the 5,187-peso fine is a total or per person.
   - Only one accessible account of this event was found after searching in Spanish; no separate agency statement could be opened.
-  - The page's main photo caption only repeats the headline and does not establish that it shows this seizure or arrest, so no media entry is included.
 ---
 
 A federal judge sentenced José “N” and Pedro “N” to seven years in prison for

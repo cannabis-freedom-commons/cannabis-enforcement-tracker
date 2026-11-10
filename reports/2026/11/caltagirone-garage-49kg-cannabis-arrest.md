@@ -65,10 +65,7 @@ open_questions:
   - The 50 grams of cocaine are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - The names and ages of the arrested and reported persons were not published.
   - No court outcome beyond validation and pretrial custody in prison was reported.
-  - The page includes a photo whose file name refers to this operation, but its caption and alt text do not establish what it shows, so no media entry is included.
   - The second source repeats the same police account and adds no independent detail.
-  - The page displays a photo captioned only with the article title, whose caption and credit do not establish what it shows, so no media entry is included.
-  - The submitted page's images repeat only the article title in caption and alt text or have no caption, with one file name dating to 27 October 2026, so they do not establish that they show this seizure and no media entry is included.
 ---
 
 Caltagirone State Police officers arrested a previously convicted man and

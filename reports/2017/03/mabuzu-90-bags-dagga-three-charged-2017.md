@@ -60,7 +60,6 @@ open_questions:
   - No court outcome, plea or bail decision after the Masunga Magistrate’s Court appearance was reported.
   - Mabuzu Ward is not located in the report; the district centre coordinates are those of Masunga, the court that heard the case.
   - Only the Zimbabwean and Zimbabwe-based accounts of this event were found; no Botswana police statement or Botswana outlet report was opened.
-  - The page image is a generic mbanje illustration from 2014, not a picture of this seizure, so no media entry is listed.
   - The text gives a weight ("5kg") but the figures have no kg_seized; check whether it belongs there.
 ---
 

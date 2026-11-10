@@ -56,7 +56,6 @@ open_questions:
   - 'The accounts give slightly different times: the OPP release about 10:45 p.m., CityNews just before 11 p.m.'
   - CTV gives no street in Puslinch; the Lake Road and Townline Road junction comes from the OPP release.
   - No court outcome or later step in the case was found after the 22 January 2019 Guelph appearance.
-  - The article's lead photo is an uncaptioned police-related image with no credit, so no media entry is included.
 ---
 
 Wellington County Ontario Provincial Police arrested 41-year-old Kulbir Singh

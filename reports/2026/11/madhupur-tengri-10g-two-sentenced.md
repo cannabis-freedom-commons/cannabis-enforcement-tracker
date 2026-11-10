@@ -58,7 +58,6 @@ sources:
     language: bn
 open_questions:
   - The wider operation detained four people in total; figures here count only the two held with ganja, and yaba, heroin, phones and cash from the other two are excluded from cannabis figures.
-  - The submitted page carries a photo with an empty caption and alt text, so whether it shows this seizure could not be established and no media entry is added.
   - Each of the two sentenced men was also fined 100 taka; the per-person fines are stated in the text and no combined fine total is carried in figures.
   - No independent weighing of the 10 grams of ganja beyond the agency's count was reported.
 ---

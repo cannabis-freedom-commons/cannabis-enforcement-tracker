@@ -72,7 +72,6 @@ open_questions:
   - The motorcycle's believed Thai origin rests only on the absence of engine and chassis records and is not confirmed.
   - RM34,100 is the police estimate for the cannabis, not an independently verified value.
   - Only one accessible account of this event was found after searching in Malay and English.
-  - The submitted Utusan Malaysia article places the incident in Jeram Perdah, Rantau Panjang, while Kosmo! and the daily RTM report place Jeram Perdah near Pasir Mas; the existing report uses the Rantau Panjang location.
   - The three accounts give no calendar date for the evening, described only as Wednesday; 4 November 2026 is inferred from the 5 November 2026 publication dates.
   - Kosmo!'s per-bag values are round estimates that add exactly to the quoted RM34,100 and are police figures rather than market appraisals.
   - Utusan Malaysia's page photo is a PGA handout of the compressed blocks shown at a police location, not of the roadside where the motorcycle skidded.

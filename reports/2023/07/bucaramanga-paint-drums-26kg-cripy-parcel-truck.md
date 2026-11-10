@@ -70,8 +70,6 @@ open_questions:
   - Vanguardia says the officers were alerted by an informant, while Alerta's police quote speaks of controls in prevention areas; both descriptions are of the same stop.
   - Whether the 26 kilograms is a laboratory weight or a police figure is not stated, and no street value was published.
   - The drug is described as resembling cripy marijuana partly, and as marijuana when weighed; no laboratory confirmation was reported.
-  - The submitted page names the seized load variably as 'estupefacientes' and 'marihuana'; both refer to the same 26 kilograms.
-  - Only the submitted page's photo could be linked directly; the picture is not captioned beyond 'Bucaramanga', so it is linked rather than treated as confirmed to show the seizure.
 ---
 
 Police of the Traffic and Transport Section of the Metropolitan Police of

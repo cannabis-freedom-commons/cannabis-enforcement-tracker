@@ -40,7 +40,6 @@ open_questions:
   - The articles give the operation day only as Tuesday; 29 September 2026 is inferred as the Tuesday before the 30 September 2026 publication dates.
   - The three stated weights of 862, 680 and 635 grammes sum to 2.177 kg, consistent with the reported approximate combined weight of 2.2 kg.
   - No arrests, suspects, charges or court outcome were reported.
-  - The Guardian page image has no caption, alt text or credit establishing that it shows this seizure, so no media entry is included.
   - The two opened accounts are both Guardian Media outlets carrying the same text; the underlying police media release was found in search but could not be opened directly.
 ---
 

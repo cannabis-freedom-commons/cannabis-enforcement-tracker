@@ -48,7 +48,6 @@ open_questions:
   - No separate incident date is given; 2 November 2026 is the publication date used as the incident date.
   - What happened to the third person who fled is not reported.
   - No court outcome beyond the report at liberty is reported.
-  - The Prima Pavia page image is an older generic State Police photo and the Provincia Pavese page image has no caption establishing that it shows this seizure, so no media entry is listed.
 ---
 
 State Police patrol officers in Pavia stopped two young people after a chase and

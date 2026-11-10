@@ -70,7 +70,6 @@ open_questions:
   - The indictment's exact filing date in May 2026 is not given.
   - No court outcome is known; Jimerson was taken for arraignment at the Cayuga County Jail.
   - The charges concern the searches generally; the reports do not say what cannabis was found at which location.
-  - Photographs on the opened pages show the October 2025 raid or generic agency imagery, not the November 2026 traffic stop, so no media entry is included.
   - The CNY Central account gives no cannabis weight, plant count or value for the October 2025 seizures, leaving that question open.
   - The Newport Dispatch account gives no cannabis weight, plant count, area or value for the October 2025 searches, so the cannabis quantities remain unknown.
 ---

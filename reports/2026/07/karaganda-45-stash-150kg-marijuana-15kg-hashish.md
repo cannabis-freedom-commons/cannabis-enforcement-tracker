@@ -54,7 +54,6 @@ open_questions:
   - Индустриальная Караганда opens by saying more than a thousand doses of marijuana, hashish and synthetics were kept off the market, but gives quantities only for the hashish and marijuana, so no synthetic amount is recorded.
   - The sources do not say where in Karaganda Region the detention and searches took place, only that the suspect lives in Karaganda.
   - Police did not name the suspect or the offence article, and no charge, trial or sentence has been reported.
-  - The 24KZ page image is an AI-generated illustration, and the regional paper's police-department photo carries only a headline caption, so no media entry is included.
 ---
 
 Karaganda Region police detained a 45-year-old resident of Karaganda suspected

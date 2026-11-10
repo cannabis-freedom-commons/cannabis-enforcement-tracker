@@ -50,7 +50,6 @@ open_questions:
   - The amount of marijuana is given only as several pounds in 1998, so no weight figure is recorded.
   - No cannabis quantity, field or value is involved; the event is a court proceeding on a decades-old conviction.
   - Accounts differ on details of the conviction, with ICE describing marijuana possession and other reporting marijuana delivery or sale.
-  - The article's photo is a family snapshot without a caption tying it to the hearing, so no media link is added.
   - The case_stage is recorded as appeal because it is a post-conviction challenge to the 1999 plea; the tracker does not have a vacatur stage.
 ---
 

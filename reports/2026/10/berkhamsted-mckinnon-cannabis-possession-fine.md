@@ -48,7 +48,6 @@ open_questions:
   - Only one accessible account of this case was found after searching in English; the magistrates roundup is the sole source.
   - The same roundup records a separate Daniel Millar case involving cannabis and heroin in Hatfield, a different event left out here.
   - Other unrelated theft, driving and alcohol cases in the same roundup are left out here.
-  - The page image is captioned only as latest court results for Welwyn Hatfield and Potters Bar and does not show this seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in Herts Advertiser: Jordan Mckinnon, 34, of Durrants Road in Berkhamsted, drove an Audi A4 on Berkhamsted High Street on August 30 without a valid MOT or third-party insurance.'
 ---
 

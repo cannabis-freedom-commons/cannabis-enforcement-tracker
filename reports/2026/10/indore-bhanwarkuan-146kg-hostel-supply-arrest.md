@@ -54,7 +54,6 @@ open_questions:
   - Only one accessible outlet account of this event was found; social-media reposts repeat the same details and were not used as independent sources.
   - 'The stated values do not fully reconcile: Rs 21,000 for ganja plus Rs 1.21 lakh for the motorcycle does not equal the reported Rs 1.62 lakh total, so only the total is recorded as police-estimated value.'
   - No court outcome, custody decision or further arrests were reported; police said questioning on the source and network was under way.
-  - The page image caption repeats the headline and does not independently describe what is visible, so the media entry describes it only as the reported seizure display.
 ---
 
 Bhanwarkuan police arrested one accused with 1.460 kg of ganja in an action

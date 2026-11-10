@@ -45,7 +45,6 @@ open_questions:
   - The cannabis amount is given only as nearly 200 g, so 0.2 kg is an approximate conversion.
   - The 17 g of crack is a separate non-cannabis drug in the same seizure and is excluded from cannabis figures.
   - No names, ages or further personal details of the two convicted people were given in the accessible text.
-  - The page carries only an image credited as archives, which does not establish that it shows this drone seizure, so no media entry is listed.
   - Only one accessible source for this event was found after searching in French and English.
 ---
 

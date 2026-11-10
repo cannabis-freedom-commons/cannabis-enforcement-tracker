@@ -40,7 +40,6 @@ open_questions:
   - The opened sources do not say whether the other people with access to the rented unit were investigated further after the trial.
   - Al Jazeera gives his age as 37 and the cannabis as about 1.5 kilogrammes, while the Central Narcotics Bureau statement and court records used in the report give 36 and 1,562.97 grams.
   - The account of the DNA and fingerprint grounds for the review application comes from the Transformative Justice Collective campaigner, not from the judgment, which found the application an impermissible attempt to reargue the appeal.
-  - 'No media entry is added: the page photo is a file picture of the Changi Prison entrance credited to Lionel Ng/AP, not a picture of this execution.'
 sources:
   - title: S'porean man convicted of trafficking 1,562.97g of cannabis executed on May 17, 2023
     publisher: Mothership.SG

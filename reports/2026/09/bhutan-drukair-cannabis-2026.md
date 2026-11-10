@@ -57,7 +57,6 @@ open_questions:
     the court outcome.
   - The suspect's name and age were not published, and no charge or court date is reported.
   - The article gives no figure for the street value of the 22.34 kg seized.
-  - The lead photo on the source page was not verified as showing this seizure, so no media entry is listed.
   - >-
     The original report was imported without a recorded creator model; its original unknown attribution is
     preserved.

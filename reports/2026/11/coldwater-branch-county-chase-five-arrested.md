@@ -60,7 +60,6 @@ open_questions:
   - The description says the car stopped near woods behind a residence and that the chase reached Emmett Township, but the addresses are not given, so no more precise stopping place is recorded.
   - No charges, court stage or identification of the five were reported; the case was under investigation.
   - The accounts do not say whether the marijuana came from a licensed cannabis business or from an unrelated theft.
-  - The submitted page's only photo shows a Branch County Sheriff's Office patrol car, not this chase or the seizure, so no media entry is included.
   - The ARC West Michigan page is a syndicated copy of the WWMT News Channel 3 story, so it does not add independent corroboration.
 ---
 

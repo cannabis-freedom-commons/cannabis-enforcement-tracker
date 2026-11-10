@@ -52,7 +52,6 @@ open_questions:
   - No plant count or seized weight for the Aba Tade plantation was published.
   - The report gives the area only as over 40 hectares, so the figure is approximate.
   - No charges or court outcomes for the five arrested suspects were reported.
-  - No photo of the destroyed plantation was confirmed in the opened pages, so no media is listed.
 ---
 
 The National Drug Law Enforcement Agency's Oyo State command destroyed more than 40 hectares of hemp plantation at Abatade in the Oluyole Local Government Area on Thursday, 14 November 2019. [@1] A later year-end account confirms the command destroyed over 40 hectares of cannabis farmland at Aba-Tade in Oluyole LGA during 2019. [@2] State commander Ralph Igwenagu said the discovery showed that many farmers in the state grew hemp, and that the command had previously destroyed six hectares in the Ibarapa area. [@1]

@@ -46,7 +46,6 @@ sources:
 open_questions:
   - Only one outlet carrying the police statement could be opened; no independent second account was found.
   - No outcome of the court appearance set for 17 February 2014 was reported.
-  - The article's only picture is a generic police-tape stock photo of a different scene, so no media entry was added.
 ---
 
 On 14 February 2014 members of the Public Order Police deployed at Sileza in

@@ -78,7 +78,6 @@ open_questions:
   - Michael Emmanuel Yarde was charged in 2017 with the two Barbadians, but only two men were on the boat; the sources do not explain his alleged role.
   - Stabroek News is a republication of the Barbados Today account, so the sentencing is corroborated by one original outlet only.
   - No street value for the cannabis at sentencing is reported; 2017 coverage listed 160 pounds worth $160 000, differing from the 72.1 kg figure.
-  - The page image captioned court_update.jpeg is a generic court illustration reused from April 2023, so no media entry is included.
 ---
 
 David Ian Brathwaite, of St Michael, and Guyanese national Abdool Sameer Manan

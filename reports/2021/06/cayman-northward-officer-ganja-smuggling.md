@@ -47,7 +47,6 @@ open_questions:
   - The 9.13-ounce and 6.29-ounce weights are stated separately; the 0.437 kg total combines them and is not itself stated.
   - No charge or outcome for the prisoner named as the intended recipient, Jeremy Parchman, is reported.
   - Cayman News Service also describes a separate 2021 case against prison officer Arnold Cabrera-Diaz over ganja allegedly hidden in shoes; that separate event is left out of this report.
-  - The only image on the Cayman Compass page is a Facebook-sourced portrait of Rambaran, which does not show the seizure, so no media entry is included.
 ---
 
 Prison officer Rudolph Rambaran pleaded guilty to smuggling contraband into HMP

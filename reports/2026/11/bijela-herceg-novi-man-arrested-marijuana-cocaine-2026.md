@@ -75,10 +75,7 @@ open_questions:
   - No separate weight or count is given for the marijuana, only several PVC packages of cocaine and marijuana together, so no cannabis kilograms are recorded and cocaine and tablet quantities are left out as out of scope.
   - No outcome beyond the prosecutor-ordered deprivation of liberty was reported; charges before a court and detention decisions remain unknown.
   - Only one account of this arrest, citing the Police Administration, could be opened; no second independent source was found.
-  - No event photo is listed; the submitted page's only captured image is a site globe graphic.
   - 'Left out, as its quotation was not found in Vijesti: The Police Directorate said officers in the Bijela neighbourhood stopped D.T. and that he tried to swallow the PVC bag of cocaine, which officers prevented him from doing.'
-  - Kurir is dated 8 November 2026, one day after the existing report's 7 November 2026 sources; it gives no separate incident date, so the difference is treated as publication timing for the same Bijela control and arrest.
-  - 'The RTNK page shows an image credited only as Foto: UP with no caption identifying its content, so no media entry is added.'
 media:
   - kind: photo
     url: https://en.vijesti.me/news-b/black-chronicle/835275/up-arrested-Novljanin--cocaine--marijuana-and-pills-found-on-him--tried-to-swallow-a-bag-of-cocaine

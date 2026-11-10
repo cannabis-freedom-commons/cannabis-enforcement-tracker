@@ -40,7 +40,6 @@ sources:
 open_questions:
   - The suspects escaped after throwing the shipment overboard, so no arrests were reported and no one was named.
   - The reports give no exact position for the chase beyond the sea off Nador.
-  - Photos on the second outlet's page could not be verified as showing this interception, so no media entry was added.
 ---
 
 On 24 December 2021 a Moroccan navy unit on Mediterranean patrol chased a suspected speedboat off the coast of Nador. [@1,2] The crew threw the drug shipment into the sea and managed to flee. [@1,2]

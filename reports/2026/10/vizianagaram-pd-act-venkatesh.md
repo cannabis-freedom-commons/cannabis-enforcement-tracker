@@ -51,7 +51,6 @@ open_questions:
   - The article gives no separate date for the detention order; 31 October 2026 is when Venkatesh was moved to Visakhapatnam Central Jail and also the day of publication.
   - The 16.570 kg is the total police gave for the two ganja cases already registered against Venkatesh, not a seizure made when he was detained.
   - No court is named, and the article does not say whether Venkatesh has challenged the detention or when the two cases will be heard.
-  - The article's only photograph is a portrait of district police chief A.R. Damodar, not the detention or the cannabis, so no media entry was added.
   - The new Suryaa account writes the total seized in the two earlier cases as '16,570 kg' with a comma, which would read as 16.57 tonnes, while the earlier account and the report give 16.570 kg; the report keeps 16.57 kg.
   - The new account's headline calls the outcome a jail sentence, while its text describes preventive detention under the PD Act.
   - The new account gives the district police chief's initials as R. Damodar in one sentence and K.R. Damodar in another, while the report names him A.R. Damodar.

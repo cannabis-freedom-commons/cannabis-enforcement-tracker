@@ -43,7 +43,6 @@ tags: [death-sentence, trafficking, kedah]
 open_questions:
   - Both opened accounts reproduce the same September 2010 wire and newspaper reporting, so no fully independent second outlet confirms the details.
   - No appeal or execution outcome was reported in these sources.
-  - No verifiable photograph of this case was available, so no media entry was added.
 sources:
   - title: Duo Sent To Gallows
     url: https://www.420magazine.com/community/threads/duo-sent-to-gallows.128990/

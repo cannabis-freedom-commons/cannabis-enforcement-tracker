@@ -59,7 +59,6 @@ open_questions:
   - The 13,600 pounds of THC products were excluded from the cannabis weight because the sources do not establish whether they were cannabis-derived rather than synthetic.
   - The reported street value of more than $50 million covers marijuana, THC products and psilocybin products together, so no separate cannabis value is given.
   - No court outcome after the scheduled 22 September preliminary hearing was reported in these sources.
-  - The submitted page carries a photo credited to the Dawson County Sheriff's Office whose caption repeats the headline and does not establish that it shows this seizure, so it is not listed as media.
 ---
 
 Nebraska State Patrol troopers stopped 44-year-old Virginia driver William Gomez

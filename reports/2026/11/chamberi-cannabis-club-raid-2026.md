@@ -68,9 +68,6 @@ open_questions:
   - The two people described as under investigation are not counted as arrested or charged
   - No names, ages or court outcome beyond the arrest and ongoing investigation were reported
   - Only one accessible source for this event was found after searching in Spanish
-  - The new account reports more than 500 euros in cash, while the existing report records 505 euros from the earlier outlet; the report's 505-euro figure is retained
-  - The new account does not mention the two precision scales recorded in the existing report
-  - The El Mundo page carries a photo captioned as the police operation against the cannabis club and credited E.M., which appears to republish the same police handout already recorded, so no additional media entry is added.
 ---
 
 Madrid municipal police dismantled an alleged drug sales point that operated

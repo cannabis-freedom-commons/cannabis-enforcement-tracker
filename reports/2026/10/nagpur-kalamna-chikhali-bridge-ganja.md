@@ -44,7 +44,6 @@ open_questions:
   - The article gives only "early Wednesday morning" for the arrest; 28 October 2026 is inferred from its 30 October publication date.
   - Only one account of the arrest could be opened; no police statement or second outlet report was found.
   - No charge sheet, court date or court outcome is reported, and it is unclear whether police arrested the alleged Odisha supplier.
-  - The page's only image is a Times of India placeholder also attached to unrelated stories, so it cannot be confirmed to show this seizure and no media is listed.
   - The Rs 1,36,160 value covers the ganja, a mobile phone and Rs 610 in cash; no separate value for the ganja alone was given.
 ---
 

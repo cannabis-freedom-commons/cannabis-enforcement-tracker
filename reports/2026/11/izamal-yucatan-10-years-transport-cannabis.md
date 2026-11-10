@@ -78,7 +78,6 @@ open_questions:
   - The sentence is a first-instance control-judge ruling; whether either side appealed is not reported.
   - Only the name Samuel “N” was published, with no age or further identity given.
   - All three accounts reproduce the FGR's own account of the case, so they are not independent reporting.
-  - The submitted page's images have no captions and are not confirmed to show the 2024 seizure or the detention, so no media entries are included.
 ---
 
 A federal control judge sentenced Samuel “N” to 10 years in prison for a health

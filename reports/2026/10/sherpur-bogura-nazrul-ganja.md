@@ -65,7 +65,6 @@ open_questions:
   - The officer in charge spoke of those arrested, plural, being sent to court, while only Nazrul Islam is named as arrested.
   - No charge, remand, fine or value for the cannabis was given.
   - The map point is the centre of Sherpur Upazila; Dublagari village could not be located.
-  - This account writes the officer in charge as একরামুল হোসাইন, while the existing report uses Mohammad Ikramul Hossain; it is unclear whether these are different spellings of one name.
   - This account does not give Nazrul Islam’s age, does not call him a drug dealer, does not say the cannabis raid followed a secret tip, and does not say he was produced in court.
   - This account says the people who fled were those at the separate Lakshikola yaba seizure, not at the cannabis arrest.
   - The article photo of officers, a man and cannabis sticks in front of the Sherpur police-station banner appears to be the same picture already linked from Daily Karatoa, so it was not added again.

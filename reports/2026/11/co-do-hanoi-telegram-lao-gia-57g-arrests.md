@@ -71,9 +71,7 @@ open_questions:
   - No court outcome beyond criminal detention for investigation was reported.
   - Only one accessible source for this event was found after searching in Vietnamese and English.
   - The page photos are credited to no one; the captions identify the suspects and exhibits but do not confirm the seizure location.
-  - The submitted page was republished from Đời sống Pháp luật and repeats the same Hanoi police statement as the VOV account, so it is not independent reporting.
   - The page gives 29 October 2026 as the date of the arrest but no date for the emergency home search, which may have been carried out later the same day or afterwards.
-  - The page gives no date for the street stop or the home search in the Hanoi case; the existing report's 29 October 2026 date is not restated here.
   - The page's lead story, a 104-person Đồng Nai syndicate with 18 kg of methamphetamine, ketamine and pink tablets, reports no cannabis and is outside this tracker's scope.
 ---
 

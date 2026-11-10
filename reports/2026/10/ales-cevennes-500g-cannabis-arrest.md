@@ -45,7 +45,6 @@ open_questions:
   - The outcome of the Monday immediate-appearance trial was not in the accessible text, which is cut by a paywall.
   - Details of the prior convictions in Montpellier and the Paris region beyond the headline were not accessible.
   - Only one accessible source for this event was found after searching in French.
-  - The page photo is captioned generically about drug trafficking in the Cévennes district and is not established to show this seizure, so no media entry is included.
   - A related link mentions another seizure in the same district on 2 November 2026, a separate event left out here.
 ---
 

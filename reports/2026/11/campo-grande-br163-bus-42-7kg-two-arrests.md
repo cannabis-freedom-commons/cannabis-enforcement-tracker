@@ -83,7 +83,6 @@ open_questions:
   - Only two accounts were found; the second reproduces a Jornal Dia Dia text and does not independently investigate the stop.
   - Radio Jota FM gives the total as 42.7 kg and does not mention the 34.2 kg figure the JBR/Jornal Dia Dia text reports for the first suitcase alone, the discrepancy already noted in the report.
   - Fátima News credits Ligado na Notícia and Campo Grande News and appears to be an aggregated reprint rather than an independent account.
-  - This page gives the first passenger's consignment as 40 kg while its own total is 42.7 kg; the existing report's figures are unchanged.
   - This page adds no custody hearing, charge or court outcome beyond the arrest.
 ---
 

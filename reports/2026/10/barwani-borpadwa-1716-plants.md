@@ -112,26 +112,7 @@ open_questions:
   - The exact site of Borpadwa village was not published; the coordinates are for Barwani district.
   - Khulasa First describes the Rs 41 lakh figure as an estimate of the plants' price on the international market, while Dainik Bhaskar calls it the market price.
   - The lead photograph on the Dainik Bhaskar page carried no caption or credit identifying it as showing the raid, so it is not linked; the outlet's video report is.
-  - The Naradmuni rounds the seizure to more than 1,700 plants, more than 4 quintals or 400 kg, and about Rs 41 lakh, while the existing report records the precise Dainik Bhaskar figures of 1,716 plants, 419 kg and about Rs 41 lakh; the report keeps the precise figures.
-  - The Naradmuni gives only the 31 October 2026 tip and its 1 November 2026 publication date, with no separate raid date; 31 October 2026 is retained from the existing report.
-  - The page's lead image caption repeats the headline and does not establish that it shows this seizure, so no media entry is made.
-  - The NPG News account rounds the seizure to more than four quintals and about Rs 41 lakh and gives no plant count, so it does not corroborate the existing report's precise 1,716 plants and 419 kg figures.
-  - The page's lead image is labelled as sourced from Google and edited by NPG News, so it is not established as showing this seizure and no media entry is made.
-  - Mediawala gives a combined total of 1,753 plants weighing 4 quintals 29 kg and valued at Rs 41.98 lakh for both raids, while the existing report scopes to the Borpadwa raid's 1,716 plants, 419 kg and about Rs 41 lakh.
-  - Mediawala also reports the same-day Silawad police raid at Kajalmata village with 37 plants weighing 9.84 kg and valued at about Rs 98,000, which the existing report explicitly leaves out as a separate event.
-  - The four photos on the Mediawala page carry only generic captions such as file names and do not establish that they show this seizure, so no media entry is made.
-  - The submitted page gives a combined total of 1,753 plants weighing 4 quintals 28 kg 840 g and valued at Rs 41.98 lakh for both raids, while the existing report scopes to the Borpadwa raid's 1,716 plants, 419 kg and about Rs 41 lakh.
-  - The submitted page also describes the same-day Silawad police raid at Kajalmata village with 37 plants weighing 9.84 kg and valued at about Rs 98,000, which the existing report explicitly leaves out as a separate event.
-  - The page's only image caption reads Barwani News and does not establish that it shows this seizure, so no media entry is made.
-  - The ETV Bharat article says the informer's tip arrived on 31 October 2026 and describes the raid as on Sunday, while the existing report dates the event to 31 October 2026 from earlier coverage.
-  - The submitted page also describes the same-day Silawad police raid at Kajalmata village with 37 plants weighing 9.84 kg and valued at about Rs 98,000, which the existing report leaves out as a separate event.
-  - The submitted page spells the village Borpadawa while the existing report uses Borpadwa for the same Warla police raid.
-  - The submitted page gives a combined total of 1,753 plants weighing 4.29 quintals and valued at Rs 41.98 lakh for both raids, while the existing report scopes to the Borpadwa raid's 1,716 plants, 419 kg and about Rs 41 lakh.
-  - The page's only listed image caption repeats the headline and does not establish that it shows this seizure, so no media entry is made.
   - The page gives only '1 दिन पहले' for publication and no separate publication date, so no source date is recorded.
-  - The submitted page gives a combined total of 1,753 plants weighing 428.84 kg and valued at Rs 41.98 lakh for both raids, while the existing report scopes to the Borpadwa raid's 1,716 plants, 419 kg and about Rs 41 lakh.
-  - The submitted page spells the station limits as Varla while the existing report uses Warla for the same police raid.
-  - The submitted page's only relevant image caption repeats the headline and does not establish that it shows this seizure, so no media entry is made.
 ---
 
 Warla police in Barwani district, Madhya Pradesh, seized 1,716 green cannabis

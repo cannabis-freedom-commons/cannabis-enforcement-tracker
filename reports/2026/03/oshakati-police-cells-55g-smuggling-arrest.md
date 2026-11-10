@@ -53,7 +53,6 @@ sources:
 open_questions:
   - The article says the arrest happened on a Friday and was published on Monday 23 March 2026, so Friday 20 March 2026 is used as the incident date; no calendar date for the arrest is stated.
   - No court outcome beyond the expected Tuesday appearance in the Oshakati Magistrate's Court was reported.
-  - The page's lead image caption only repeats the headline and does not confirm what the photo shows, so no media entry is listed.
   - Only the opened Namibian account was used; search-result video and social posts about the same arrest were not opened and supply no additional facts.
 ---
 

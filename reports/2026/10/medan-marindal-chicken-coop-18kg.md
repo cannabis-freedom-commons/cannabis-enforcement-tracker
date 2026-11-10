@@ -190,17 +190,12 @@ open_questions:
   - Metro TV describes all 18 kg as stored in the safety box, while the other reports say 17 kg was in the box and the total was 18 kg; the individual amounts (2 ons, 1 kg and 17 kg) add up to 18.2 kg.
   - Analisa Medan dates MF's arrest to the night of Wednesday 28 October 2026 but gives no separate date for the search of the chicken coop, so the raid date rests on the other accounts.
   - 'Left out, as its quotation was not found in 1kabar.com: The coop was remote and far from houses.'
-  - The Suara Sumut page's lead photo, credited only to 'Istimewa', shows the same police display of the seized cannabis and two detained men already pictured in the report's Akurat Sumut media entry, so it was not listed again.
   - The Sumut Pos page's only photo is a Polrestabes Medan handout of the two detained men with the seized cannabis; the report already lists police handout pictures of that display, so this one was not added again.
   - Harian SIB dates only MF's arrest to the night of 28 October and gives no separate date for the search of the chicken-coop warehouse.
   - The EKSISNEWS byline and page metadata date the story 29 October 2026, but the quoted remarks of AKBP Rafli Yusuf Nugraha are dated Friday 30 October 2026.
   - The EKSISNEWS page image has no caption or credit, so it was not added as media.
   - This account does not say the two arrested men were childhood friends, and it does not give a separate date for the search of the chicken coop.
   - Analisadaily's photo caption calls the seizure 18 kg of sabu and names Iptu Haryono; the article text describes dried ganja and does not mention Haryono in the body.
-  - Viral24's photo caption places both arrests in the fast-food restaurant car park, while its article text and the existing report say DS was arrested on Jalan Brigjen Katamso.
-  - Like the existing sources, this account reports 2 ons plus 1 kg plus 17 kg while headlining the total as 18 kg, repeating the roughly 18.2 kg arithmetic discrepancy already recorded in the existing report.
-  - The page displays a photo of the police cannabis display with the two detainees, but it cannot be established to be distinct from the police-handout photos already listed in the existing report, so no media entry is added.
-  - The page displays a seizure photo captioned with the case, but it cannot be established to be distinct from the police-handout photos already listed in the existing report, so no media entry is added.
 ---
 
 Narcotics detectives at Medan city police raided a warehouse disguised as a

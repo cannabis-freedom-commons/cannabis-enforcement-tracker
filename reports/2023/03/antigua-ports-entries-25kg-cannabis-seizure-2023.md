@@ -65,7 +65,6 @@ open_questions:
   - Antigua News Room and Pointville reproduce the same official statement, so the accounts are not independent.
   - No statement from the police or customs service itself and no laboratory confirmation of the drug were found.
   - The 24.95 kg figure is a conversion of the reported 55 pounds; no metric weight was published.
-  - The Observer page's only image is an uncaptioned file labelled DrugBust90, with nothing tying it to this seizure, so no media entry is added.
 ---
 
 The Police Narcotics and Customs Departments seized 55 pounds (about 25 kg) of

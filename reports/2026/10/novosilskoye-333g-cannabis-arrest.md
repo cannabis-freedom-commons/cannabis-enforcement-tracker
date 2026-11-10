@@ -59,7 +59,6 @@ open_questions:
   - Neither report names the man or says whether he was formally charged, what measure of restraint was imposed, or how the case ended.
   - One report gives his year of birth as 1989 and the other his age as 37, without a full date of birth.
   - Both accounts rely on the regional Interior Ministry's press service and quote no independent witnesses or a lawyer for the man.
-  - The submitted page's only image is labelled as AI-generated (the caption reads «Фото — Нейросеть»); no photograph of the search or the seized cannabis was published, so no media is listed.
 ---
 
 Police in Lipetsk Oblast's Terbunsky municipal okrug detained a 37-year-old

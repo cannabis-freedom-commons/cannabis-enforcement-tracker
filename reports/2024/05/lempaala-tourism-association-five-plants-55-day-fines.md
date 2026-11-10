@@ -55,7 +55,6 @@ open_questions:
   - The article does not say whether the man was arrested or questioned at the time of the 2024 house search, or whether the association itself was investigated.
   - The article does not state whether the sentence was appealed or whether it is legally final.
   - The court record cited as evidence is described as covering the house search and a seizure (takavarikko), while the search is said to have found the plants in the association's rented premises; the article does not clarify exactly where in the premises they were found.
-  - The page image is a close-up of a police uniform sleeve badge, not a photo of this event, so no media entry is added.
   - 'Left out, as its quotation was not found in Tilannemedia: The written evidence was a record of the house search and of a seizure, together with a set of photographs.'
 ---
 

@@ -50,7 +50,6 @@ open_questions:
   - The marijuana weight is approximate, while the combined drug total includes more than 4 kg of methamphetamine and is not a cannabis-only figure.
   - The Interior Ministry did not identify the districts or specific sites where the marijuana was seized or plants destroyed.
   - No area or weight for the destroyed plants, or cannabis-related arrests, charges or court outcomes, is given in the opened accounts.
-  - The submitted page's thumbnail is captioned only with the headline and is not established to show this operation, so no media entry is included.
   - Sputnik's account repeats figures attributed to the Interior Ministry rather than providing an independently sourced investigation.
   - 'Left out, as its quotation was not found in 1news.az: The ministry said its measures to combat illegal drug circulation were continuing after the 29 July operation.'
 ---

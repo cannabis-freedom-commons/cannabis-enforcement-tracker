@@ -280,44 +280,8 @@ open_questions:
     passengers or any vehicle occupants; investigations were described as continuing.
   - Only one accessible source for this event was found, so no second account confirms the figures.
   - >-
-    The page photos are captioned only with the article headline and the other images are site promotions, so
-    no photo is established to show this seizure and no media entry is included.
-  - >-
-    The Türkinform images are captioned only with the headline, so none is established to show this seizure
-    and no media entry is included.
-  - >-
     The İhlas Haber Ajansı page offers only a default image file with a headline caption, so no event photo
     from this account can be linked.
-  - >-
-    The submitted page writes the Hamzabeyli detector dogs as Yappa and Atlas, while the existing report
-    writes YAPPA and ATLAS; the spelling difference does not affect the match.
-  - >-
-    The page image is captioned only with the article headline, so no photo is established to show this
-    seizure and no media entry is included.
-  - >-
-    The RayHaber page image is captioned only with the article headline and does not establish that it shows
-    this seizure, so no media entry is included.
-  - >-
-    The submitted page writes the detector dogs as Yappa, Atlas and İda, while the existing report capitalises
-    them as YAPPA, ATLAS and İDA; the spelling difference does not affect the match.
-  - >-
-    The submitted page images are captioned only with the article headline, so no photo is established to show
-    this seizure and no media entry is included.
-  - >-
-    The Haber24 page carries a single image captioned only with the article headline, which does not establish
-    that it shows this seizure, so no media entry is included.
-  - >-
-    The submitted page totals 444 kilo 599 gram for three border-gate operations, while the existing report
-    totals 459 kg 599 g for four operations including Istanbul Airport; only the separately stated cannabis
-    breakdowns are recorded as cannabis.
-  - >-
-    The submitted page says investigations are continuing before the Edirne and İpsala chief public
-    prosecutor's offices and does not mention the Gaziosmanpaşa office named in the existing report for the
-    Istanbul Airport operation.
-  - >-
-    The submitted page writes the detector dogs as Yappa, Atlas and İda, while the existing report capitalises
-    them as YAPPA, ATLAS and İDA.
-  - No arrests, detentions or court outcomes are named in the submitted page.
   - >-
     The article gives no separate dates for the four searches; 4 November 2026 is its publication date and the
     existing incident date.
@@ -328,29 +292,7 @@ open_questions:
     The combined 444 kg 599 g subtotal for the three border gates and the 459 kg 599 g four-operation total
     cover cocaine, cannabis and heroin together and are excluded from cannabis figures; only the separately
     stated 325.941 kg of esrar is recorded.
-  - >-
-    The Gazete Gündem page image is captioned only with the article headline, so no photo is established to
-    show this seizure and no media entry is included.
-  - >-
-    The N Haber İzmir page image is captioned only with the article headline, so it is not established to show
-    this seizure and no media entry is included.
   - No arrests, detentions or charges are named in this account; investigations were described as continuing.
-  - >-
-    The combined 459 kg 599 g total covers cocaine, cannabis and heroin together and is excluded from cannabis
-    figures; only the separately stated 325.941 kg of esrar is recorded in the existing report.
-  - >-
-    This account does not state the 85-package count at Hamzabeyli, the 25.744 kg Kapıkule esrar split weight,
-    the İpsala detector-dog name İDA, or risk-analysis detail for the Istanbul Airport checks found in the
-    existing report.
-  - >-
-    The page image is captioned only with the article headline and the other two images are unrelated site
-    promotions, so no photo is established to show this seizure and no media entry is included.
-  - >-
-    The submitted page headlines the operations as in Ankara, while its body places all four searches at the
-    Kapıkule, Hamzabeyli and İpsala gates in Edirne and at Istanbul Airport.
-  - >-
-    The submitted page's lead image is captioned only with the headline, so no photo is established to show
-    this seizure and no media entry is included.
   - >-
     The articles give no separate date for the searches; 4 November 2026 is their publication date and is used
     as the incident date.
@@ -361,23 +303,10 @@ open_questions:
     The combined 459.599 kg total covers cocaine, cannabis and heroin together and is excluded from cannabis
     figures; only the separately stated 325.941 kg of esrar is recorded.
   - >-
-    The Turktime page carries an image captioned with the headline, but the caption and text do not establish
-    what it shows, so no media entry is included.
-  - >-
     Both accounts repeat the Trade Ministry's version; no independent account beyond the ministry statement
     was opened.
-  - >-
-    The page's lead image is captioned only with the headline and its content is not established to show this
-    seizure, so no media entry is included.
-  - >-
-    The Yorumla page image is explicitly captioned as a representative illustration credited to Tekha, so it
-    does not show this seizure and no media entry is added.
-  - The article gives no separate dates for the four operations; 4 November 2026 is the Trade Ministry statement date used in the existing report.
   - Left out kg seized, as no supporting quotation was given.
-  - The article gives no separate dates for the searches; 8 November 2026 is its publication date, while the existing report uses the 4 November 2026 Trade Ministry statement as the incident date.
-  - This account totals 444 kg 599 g for the three Edirne border gates, while the existing report totals 459 kg 599 g for four operations including 15 kg of heroin at Istanbul Airport, which this account does not cover.
   - No arrests, detentions, charges or court outcomes are named in this account; investigations were described as continuing.
-  - The page's lead image is captioned only with the article headline, so no photo is established to show this seizure and no media entry is included.
 ---
 
 Türkiye's customs teams seized 325.941 kilograms of cannabis across three Edirne border operations. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44]

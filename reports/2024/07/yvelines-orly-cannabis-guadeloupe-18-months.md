@@ -49,7 +49,6 @@ open_questions:
   - The earlier Trappes find is described only as close to 2 kg of drugs, so only the 1.5 kg of herb and resin is counted as cannabis.
   - The Orly arrest date is given only as the day before the ruling, inferred as 17 July 2024.
   - No customs fine, entry ban or other penalty beyond the prison term is reported.
-  - The submitted page carried no image of the event, so no media entry is included.
 ---
 
 A court in the Yvelines sentenced a 51-year-old man on 18 July 2024 for

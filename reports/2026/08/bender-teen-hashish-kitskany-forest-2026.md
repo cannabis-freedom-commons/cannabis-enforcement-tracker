@@ -45,7 +45,6 @@ open_questions:
   - No weight or other quantity for the seized hashish was published, so no cannabis weight can be recorded.
   - No court or administrative decision was reported; liability was still under consideration and the threatened fine or arrest had not been imposed.
   - Only one accessible source for this event was found after searching in Russian; no agency statement or second outlet could be opened.
-  - The page illustration is labelled as a thematic photo credited to the Interior Ministry press centre, not as showing this seizure, so no media entry is included.
 ---
 
 Officers of the Criminal Investigation Department detained a 19-year-old

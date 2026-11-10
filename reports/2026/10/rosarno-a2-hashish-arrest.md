@@ -49,10 +49,7 @@ open_questions:
   - The hashish amount is given only as more than one kilogram in two blocks, so 1 kg is recorded and the exact excess is not established.
   - The cocaine amount of more than 100 grams is excluded from kg_seized and the more than 2,000 euros in cash is not recorded as drug value.
   - Only the Polizia di Stato agency statement could be opened; no second source confirming this stop was found.
-  - The page image captioned stradale palmi is generic and does not establish that it shows this seizure, so no media entry is added.
   - The driver is described only as a young man of Cosenza origin living in Alessandria, with no name or age published.
-  - The Il Reggino page was published on 3 November 2026 while the existing report uses 30 October 2026 from the Polizia di Stato statement; both describe the stop as in recent days with no separate incident date given.
-  - The page lead image has empty alt text and only a generic PHOTO caption, so whether it shows this seizure could not be established and no media entry is added.
 ---
 
 Palmi traffic-police patrols intercepted a car travelling south at dangerous

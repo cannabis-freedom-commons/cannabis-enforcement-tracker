@@ -45,7 +45,6 @@ open_questions:
   - No charges, indictment or court outcome were reported; the OCRB said it would investigate and bring the two suspects before a court, and the OCLAD said it would ask the prosecutor for an incineration order.
   - Only one report of this raid could be opened after searching in French and English, and a search result for a Bangui anti-drug operation on 18 and 20 February 2020 is a different, earlier event not used here.
   - The identities of the two arrested suspects were not published, and their exact relationship to each other and to the former Anti-Balaka leader was not given.
-  - The page's only image is a 2019 file photo of an OCRB patrol outside the national police school, captioned as credited to Corbeaunews, so no media entry is included.
   - The article's own publication date is 7 November 2020; 6 November 2020 is the Friday on which the article places the search.
   - 'Left out, as its quotation was not found in Corbeau News Centrafrique: The deputy director said the quantity was industrial, that investigators would question the two men and that they would be brought before a court.'
 ---

@@ -70,7 +70,6 @@ open_questions:
   - No charges, plea or court outcome beyond the report of judicial custody is given, and the result of the 27 January production in the Gaya court is not reported.
   - Only the Times of India reports that the carriers' travel records and contact lists were being examined; the other accounts describe continuing interrogation without details.
   - Dainik Jagran renders one accused's surname differently from the Times of India (Gaurav Bidhuri/Bidhudi) and does not give the men's home districts.
-  - The Dainik Jagran story carries a photograph captioned only as the packets recovered at Gaya airport, and the other page images are not established to show this seizure, so no media entries are included.
   - Patna Press does not name the five accused or give the flight's arrival time, and it describes the operation as intelligence-led from Thailand and Myanmar, which the other accounts do not describe.
 ---
 

@@ -40,7 +40,6 @@ open_questions:
   - The seized ₡69,000 in cash is alleged proceeds and is not recorded as drug value.
   - No arrests, charges or court outcome were reported; three people fled and the seizure was placed at the disposal of judicial authorities.
   - Only one accessible source for this event was found after searching in Spanish and English.
-  - The page carries a photo without caption, alt text or credit that does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Fuerza Pública officers seized suspected drugs and cash during a police

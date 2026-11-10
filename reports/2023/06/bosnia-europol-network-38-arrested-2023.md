@@ -58,7 +58,6 @@ open_questions:
   - Six arrests on 19 June are stated, but the release does not say how many of the 38 were charged or what any court has decided.
   - No place inside Bosnia and Herzegovina is named for the action day, so the location is recorded at country level.
   - The Avaz headline says 38 people were arrested in two years while Europol and Avaz's own text describe a three-year operation; the report follows the text.
-  - Europol's own gallery shows four images with generic filenames and no captions or credits, so none could be confirmed to show this operation and no media entry is included.
 ---
 
 Bosnian police arrested six people on 19 June 2023, the eighth action day of a

@@ -32,7 +32,6 @@ open_questions:
   - No charges, court dates or outcomes were reported.
   - The number of suspects who fled is not given.
   - Only one source could be found for this event.
-  - The only photograph on the page is a house and its caption is empty, so it is not confirmed to show this raid and no media entry is added.
 ---
 
 Police in Beira detained 10 people in a house in the Inhamudima area, where they

@@ -51,7 +51,6 @@ sources:
     language: bn
 open_questions:
   - Only one accessible source for this event was found after searching in Bengali and English.
-  - The page image carries no caption, credit or alt text establishing what it shows, so no media entry is listed.
   - The presiding magistrate, case number and prison transfer details were not published.
   - Whether the 100-taka fine was paid or what applies in default of payment was not reported.
 ---

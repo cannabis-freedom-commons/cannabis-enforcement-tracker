@@ -90,14 +90,10 @@ sources:
     date: 2026-11-09
     language: hi
 open_questions:
-  - The submitted page gives no details of what happened to Siddiqui after his arrest, such as production before a court or further remand, and no fresh charge against him is reported.
-  - Panchnama Khabar names Imlikheda outpost in-charge Amit Nautiyal as leading the arrest team, while the submitted page names him only as a sub-inspector on the team; the arrest location and date agree.
   - The 2025 accounts disagree on where Sabir Hussain got the load, describing it as from Meerut, from a person in Delhi and naming Siddiqui of Ghaziabad; this report follows the arrest-stage accounts that link the load to Siddiqui.
   - No value was reported for the 21 kilograms of ganja.
   - The arrest took place in Loni, Ghaziabad district, Uttar Pradesh, while the case and the arrest team are from Haridwar district, Uttarakhand; the report is placed at the arrest location and tagged to Haridwar as the case's origin.
-  - The submitted page's photos are uncaptioned WhatsApp-named handouts with no credit; only the lead image is linked and it is not confirmed to show the arrested man or the ganja.
   - Neither account states whether the woman accused in the Kaliyar case has been arrested.
-  - Hindustan places the arrest in Ghaziabad district without naming Loni or a colony, while the existing report places it in Ved Vihar Colony in the Ankur Vihar police station area of Loni; the two accounts agree on the district and the case.
   - Amar Ujala attributes the search and arrest to Kaliyar police and the Kotwali station house officer, without naming the officers; other accounts credited a team led by Kaliyar station house officer Kamal Mohan Bhandari.
   - Amar Ujala says Siddiqui told police he was the source of Sabir Hussain's load, while some 2025 accounts gave other origins for it.
   - The page's only image was uploaded in October 2021 and carries no caption tying it to this event, so it is not listed as media.

@@ -57,7 +57,6 @@ open_questions:
   - No source says whether the passenger was detained or charged; the Hurghada prosecution is investigating.
   - The passenger is not named, his nationality is not given, and the European country the flight came from is not identified.
   - The accounts relay the same customs statement, so the details have not been independently confirmed.
-  - The submitted page's only picture shows customs officials in an office, not the seized material, so it was not listed as media.
 ---
 
 Customs officers at Hurghada International Airport, led by customs director

@@ -69,10 +69,7 @@ open_questions:
   - The sources give only publication dates of 2 November 2026 and no separate date for the detention, so 2 November 2026 is used as the incident date.
   - PRIMPRESS reports the weight as 22 kilograms while Ridus reports it as more than 22 kilograms; the report uses 22 kilograms.
   - No court outcome, pretrial measure, or further identification of the detained man was reported.
-  - DEITA.RU reports the weight as more than 22 kg while the existing report uses 22 kilograms from PRIMPRESS.
   - The DEITA.RU page carries a lead photo whose content could not be verified from caption and text alone, so it is not listed as media.
-  - VladNews reports the weight as more than 22 kilograms while the existing report uses 22 kilograms; the existing open questions already record this 22 kg versus more than 22 kg difference.
-  - 'The page lead image is credited as Фото: ИИ and captioned only as handcuffs, so it does not show this event and no media entry is added.'
   - The article gives only its publication time of 9:48, 2 November 2026 and no separate date for the detention.
 ---
 

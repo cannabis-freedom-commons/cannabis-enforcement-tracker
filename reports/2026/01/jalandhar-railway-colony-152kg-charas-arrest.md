@@ -50,7 +50,6 @@ open_questions:
   - No value for the charas was published.
   - No court step after the police-custody remand is reported, and the outcome of the investigation into the Nepal network is unknown.
   - The second account is a security-analysis recap that repeats the newspaper's report rather than an independent police statement, and its FIR detail is reported only there.
-  - The photo on the Indian Express page is a file picture captioned for a Government Railway Police special investigation team in another case and is not established to show this arrest, so no media entry is included.
 ---
 
 Jalandhar police arrested 25-year-old Mohammad Tanveer, a post-graduate student

@@ -124,7 +124,6 @@ open_questions:
   - No town or neighbourhood in Sokoto was named, so the coordinates are for the state capital with regional precision.
   - No charges or court outcome for Ibrahim Ayuba have been published.
   - The 1 November NDLEA statement also reports operations in Lagos, Kano, Kaduna, Ondo, Oyo and Edo, which are different events left out of this report.
-  - The submitted page is a multi-event roundup; this update uses only its Sokoto cannabis component.
 ---
 
 ## The arrest

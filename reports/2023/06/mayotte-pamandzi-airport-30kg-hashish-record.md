@@ -57,9 +57,6 @@ open_questions:
   - The article does not say who checked the passengers or how the baggage travelled, only that the cases went unclaimed.
   - The 2022 figure of 43.5 kg is Mayotte customs' total for the year and is not counted as part of this seizure.
   - The earlier airport cases mentioned (6 kilos of resin in a suitcase in November 2022, 20 kilos in April 2022, and 16 kilos posted from Le Mans in February 2023) are separate cases and are excluded from these figures.
-  - The page's picture is a 2021 stock image of cannabis resin, not a photo of this seizure, so no media is linked.
-  - The page carries a photo whose caption is only the article slug; without a descriptive caption or credit it cannot be verified as showing this seizure, so no media is linked.
-  - The brief says the owners were not found but names no arrest; later case steps remain as stated in the existing report.
 ---
 
 Customs officers at Marcel Henry airport in Pamandzi found two suitcases left

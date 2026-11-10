@@ -118,15 +118,8 @@ open_questions:
   - The GP1 page names Simplício Mendes in its article body but Paes Landim in its photo captions and topic tag, so it does not resolve which municipality is correct.
   - The Jornal de Brasília names Paes Landim, while the Federal Police statement, g1's correction and GP1's article text name the rural zone of Simplício Mendes; which municipality is correct remains unresolved.
   - The page names no identities or charges for the three detainees and gives no later court step.
-  - The video page provides only its title as usable text; no article body, arrest count, operation date, plot count or video transcript could be captured, so the operation date and arrests rely on the existing report.
-  - The page thumbnail at https://s01.video.glbimg.com/x720/15161520.jpg has no caption or credit confirming it shows this burning, so no media entry is made.
-  - The submitted article places the operation in the rural zone of Simplicio Mendes near Paes Landim, while the existing report places it in the rural zone of Paes Landim; which municipality is correct remains unresolved, as already noted in the report.
-  - The submitted article's photos are credited as Reproducao / PF and appear to republish the same Federal Police handout already covered, so no new media entry is made.
   - The submitted article gives no identities, charges or later court outcome for the three detainees.
-  - This account places the four plots in the rural zone of Simplício Mendes, while the existing report place uses Paes Landim; which municipality is correct remains unresolved, as already noted in the report.
-  - This account names only the interior of Piauí and gives no municipality, plot count or production estimate, so the Paes Landim location and four-plot detail rely on the existing report.
   - It reports seized firearms and ammunition but gives no count, type or calibre.
-  - Its lead photo appears to republish the Federal Police handout already filed, so no new media entry is added.
 ---
 
 The Federal Police eradicated about 20,000 cannabis plants and arrested three

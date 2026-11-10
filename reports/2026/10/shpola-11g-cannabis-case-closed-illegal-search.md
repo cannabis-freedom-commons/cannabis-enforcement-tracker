@@ -53,7 +53,6 @@ open_questions:
   - The exact residence or village searched is not named, so the place uses the Shpola District court jurisdiction rather than a street address.
   - The Supreme Court ruling date of 13 October 2026, the search date of 15 February 2024 and the first-instance acquittal date of 11 November 2024 come from the second source while the first source gives the warrant date of 7 February 2024, the appeal date of 9 December 2025 and its own publication date of 3 November 2026.
   - The 17,000-hryvnia fine was imposed by the appeal court and then overturned, so no enforceable penalty remains.
-  - The submitted page image caption only repeats the headline and does not establish that it shows this search or seizure, so no media entry is added.
 ---
 
 Ukraine’s Criminal Cassation Court closed the criminal proceedings against a man

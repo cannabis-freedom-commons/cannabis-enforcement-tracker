@@ -30,7 +30,6 @@ open_questions:
   - The police spokesman said well-known drug traders had been arrested over the past year but gave no number, so no arrested figure is recorded.
   - No charges, detention measures or court outcomes were reported.
   - Furush is the local unit for hashish slabs; no kilogram equivalent is stated, so none was estimated from the slab count.
-  - The feature's lead photograph shows a generic pile of colourful capsules and tablets, not hashish, so no media entry is added.
   - Only this Al-Ray account could be opened; searches in Arabic and English found no independent report of this roundup.
   - The article says women from Rafah were caught trading Atramal with their children and released on bail after months in prison, but gives no date or case identifier.
   - The date line prints '09 تشرين ثاني / ديسمبر 2015', mixing November and December; November is used because the page is numbered among November 2015 posts.

@@ -48,7 +48,6 @@ open_questions:
   - No charge, court appearance or outcome was reported; the Police Narcotics Bureau inquiry was continuing.
   - The arrest day is given as Tuesday and both accounts were published on 21 April 2026, which was a Tuesday, so 21 April is recorded as the incident date; no separate event time was given.
   - The Rediff/PTI text is a reprint of the Ada Derana report it cites, so the two accounts share one origin rather than corroborating each other independently.
-  - Rediff's only image is a 2023 ICC World Cup cricket photograph credited to ICC World Cup/Reuters, unrelated to this arrest, so no media entry is included.
   - No value was given for the seized consignment.
 ---
 

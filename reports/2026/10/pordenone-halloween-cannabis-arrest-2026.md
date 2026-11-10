@@ -65,13 +65,9 @@ open_questions:
   - The seized cash, 125 euros on the youth and almost 6,000 euros in the home, is described as possible dealing proceeds rather than a drug valuation, so no value figure is recorded.
   - The charged figure records the second youth's report for receiving, while the main youth's dealing accusation had been validated but no trial charge was reported.
   - Only one opened source supports this event because web searches found no second account of the same Halloween stop.
-  - The page carries photos without captions or descriptive alternative text, so no photo can be confirmed to show this seizure and no media entry is included.
   - The article names Carbonera only as the arrested youth's residence and does not state that the searched bedroom is there, so the place uses the street stop in Pordenone.
   - No court outcome beyond the 3 November precautionary measures was reported and investigations were still under way.
-  - PordenoneToday phrases the initial check as the night between 31 October and 1 November 2026, while the existing report dates the stop to the evening of 31 October 2026.
   - 'Left out, as its quotation was not found in PordenoneToday: The home also held a precision scale, packaging material and almost 6,000 euros investigators saw as possible dealing proceeds.'
-  - The new account dates the judge's validation of the arrest to 4 November 2026, while the existing report records 3 November 2026.
-  - The page image uses the article title as alternative text without a caption or credit, so it cannot be confirmed to show this seizure and no media entry is included.
 ---
 
 A Carabinieri radiomobile patrol stopped a 20-year-old resident of Carbonera in

@@ -44,7 +44,6 @@ open_questions:
   - Lucky Aligbe's 25-year sentence covers cannabis plus tramadol, swinol and diazepam with no separable cannabis weight, so it is kept out of the cannabis figures.
   - Bella Fredrick's two-year sentence for 29 grams of methamphetamine is a separate non-cannabis event left out here.
   - Most fines were stated as options to imprisonment; whether any convict paid instead of serving time was not reported.
-  - The JustNewsLine page carries a photo that could not be verified as showing this event, so no media entry was added.
 sources:
   - title: NDLEA secures convictions of 11 suspected drug barons, cannabis cultivators in Edo
     url: https://www.justnewsline.com/2025/11/ndlea-secures-convictions-of-11.html

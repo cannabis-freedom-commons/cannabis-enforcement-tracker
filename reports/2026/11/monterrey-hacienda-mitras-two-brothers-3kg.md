@@ -71,7 +71,6 @@ open_questions:
   - No charges or court outcome for the two detainees were reported.
   - The contents of the seized electronic cigarettes were not described, so they are excluded from the cannabis figures.
   - The detainees were identified only as Luis Alberto N and Jared Alejandro N; full surnames were not published.
-  - MVS Noticias describes the seized vehicle as a camioneta and a white Volkswagen Tiguan, while the existing report also records El Norte's wording as a pickup truck.
 ---
 
 Monterrey municipal police detained two brothers, Luis Alberto, 27, and Jared

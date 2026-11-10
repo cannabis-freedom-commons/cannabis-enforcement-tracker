@@ -37,7 +37,6 @@ tags: [scotland, irvine, cannabis-farm]
 open_questions:
   - "Value range: the 3,058 plants were reported to be worth between £600,000 and £1.8 million, so no single value is recorded."
   - Whether the three men faced deportation or further proceedings after sentencing was not reported in the opened accounts.
-  - Police and prosecution handout photographs of the farm were referenced but their direct addresses could not be recovered, so no media entry was added.
 sources:
   - title: Trio ran 'industrial scale' cannabis farm in shopping centre
     url: https://www.glasgowtimes.co.uk/news/scottish-news/25438225.trio-ran-industrial-scale-cannabis-farm-shopping-centre/

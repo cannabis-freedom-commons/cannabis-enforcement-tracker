@@ -51,10 +51,8 @@ open_questions:
   - The exact date the parcel was seized is given only as early April 2025; October 2, 2025 is the arraignment date.
   - The cannabis street value is described only as several hundreds of thousands of dollars, so no value figure is recorded.
   - No plea or trial outcome is reported in the two opened October accounts.
-  - The submitted page carries a photo captioned Public officers awardees, which does not show this event, so no media entry is included.
   - Other outlets spell the siblings names Sheryl and Atlee/Athlee and the sister as Cheryl Castillo-Moreno; this report uses the Amandala spelling.
   - No plea or trial outcome for the two officers is reported in this account.
-  - The page's featured image is a composite grid graphic titled with the headline, not a verifiable photograph of the seizure or the court appearance, so no media entry is added.
 ---
 
 Two Customs officers, siblings Atlee and Cheryl Castillo, were arraigned in the

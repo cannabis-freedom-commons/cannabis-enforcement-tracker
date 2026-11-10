@@ -43,7 +43,6 @@ open_questions:
   - A later Press-Enterprise account says the Perris Tree of Life raid came the next day, while the July alert places it two days after the Corona raid; this report uses the alert's account.
   - No outcome of the case after the sentencing hearing set for 30 August 2010 is confirmed in these sources.
   - The same 17 July crackdown also hit Nature's Medicinal in Bakersfield, a separate event left out here.
-  - Press-Enterprise protest photographs of the raid were republished without recoverable direct image addresses, so no media entry could be listed.
 sources:
   - title: Corona Marijuana Shop Owner Pleads Not Guilty
     publisher: The Press-Enterprise (via 420 Magazine)

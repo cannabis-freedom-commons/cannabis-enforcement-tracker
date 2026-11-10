@@ -69,7 +69,6 @@ open_questions:
   - The page's only picture shows GRP officers questioning a woman and is credited to Dainik Bhaskar; it is linked, not copied.
   - No figure was published for the value of the ganja seized.
   - The woman is not named, and no charge sheet or court outcome is reported yet.
-  - The article's only picture is a general nighttime railway scene captioned only with Damoh, not established to show this seizure, so no media entry is included.
   - Deshbandhu gives the weight only as about 7 kg and the article carries no separate date for the arrest; 7 November 2026 is its publication date and time.
   - The article states no value for the ganja, charge sections, length of remand or later court outcome.
   - The woman is not named, and the two children with her are not described as accused.

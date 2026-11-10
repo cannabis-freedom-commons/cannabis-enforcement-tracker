@@ -64,10 +64,7 @@ open_questions:
   - Cannabis weights were published as approximations (rund 3,6 Kilogramm Marihuana, rund 3.600 Gramm, knapp 200 Gramm Haschisch), so the recorded 3.8 kg total is the sum of approximations.
   - About 200 grams of cocaine and 12 grams of amphetamine were also seized but are excluded from cannabis figures; no combined or cannabis-only value was published.
   - No court outcome beyond pretrial detention was reported; the investigation by the Munich Customs Investigation Office was still under way and the presumption of innocence applies.
-  - The page photo is filed as Symbolfoto_Zollhund_Murphy.jpg and credited to the Main Customs Office, which does not establish that it shows this seizure, so no media entry is included.
   - The regional article is a reprint of the Hauptzollamt Schweinfurt press release transmitted via ots; both repeat the authorities' account with no independent defence or witness account.
-  - The new article dates the roadside check to Wednesday 4 November 2026, while the existing report dates the same check to 28 October 2026; the report date is retained and the discrepancy is unresolved.
-  - The page's only listed image is described as Hauptzollamt Schweinfurt / Collage inFranken, which does not establish that it shows this seizure, so no media entry is added.
   - The polizei.news page's only recoverable image is labelled Symbolfoto_Zollhund_Murphy and credited to Hauptzollamt Schweinfurt, so it is not added as showing this seizure.
   - The page says 'über 200 Gramm Kokain' in its lede but 'rund 200 Gramm Kokain' in its body; the existing 'about 200 grams' wording is retained and cocaine remains excluded from cannabis figures.
 media:

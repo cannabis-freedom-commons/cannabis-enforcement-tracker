@@ -56,7 +56,6 @@ sources:
 open_questions:
   - No weight or volume was published for the hashish oil and hashish mixture or for the seized marijuana.
   - The sources give 20 July 2026 for the offences and police detention but no separate date for the verdict; 2 November 2026 is the outlets' publication date.
-  - The only page images are labelled as AI-generated and do not show the event, so no media entry is listed.
   - The additional obligations attached to the suspended term were not specified.
 ---
 

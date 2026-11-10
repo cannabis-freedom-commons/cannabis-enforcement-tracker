@@ -49,7 +49,6 @@ open_questions:
   - The November 2012 apprehension date is the arrest step; the report is dated at the later sentencing step.
   - Cash, bank balance, diamond stones and precious stones are mentioned only to explain the confiscation order and are excluded from cannabis figures.
   - Only one distinct account of this event could be opened; a search found the same text as an archive reprint with no additional facts.
-  - No photo of this event could be established from the opened page, whose only image is a site fallback logo, so no media entry is included.
 ---
 
 The Criminal Court sentenced 46-year-old Ali Imran to life in jail over one

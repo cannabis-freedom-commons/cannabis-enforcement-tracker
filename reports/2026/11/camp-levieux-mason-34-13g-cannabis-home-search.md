@@ -49,7 +49,6 @@ open_questions:
   - The 13 grams is described only as cannabis, with no laboratory confirmation, product split or street-value estimate published.
   - The source gives no street address for the home beyond Camp-Levieux.
   - Only one accessible source for this event was found after searching in French and English.
-  - The page's only image is a generic 'Police-tape-and-lights' stock photo uploaded in October 2026 and is not shown to depict this search or seizure, so no media entry is listed.
 ---
 
 Officers of the ADSU, Mauritius's Anti-Drug and Smuggling Unit, searched the

@@ -47,7 +47,6 @@ open_questions:
   - No weight is given for any single packet, so the seven packets cannot be broken down.
   - Only one source could be opened; the outlet's own AMP page reproduces the same account and no independent outlet or police statement was found.
   - No court outcome, plea or lawyer's comment was reported beyond the production for judicial remand.
-  - The page caption gives no description of the one lead image, so no media entry is added even though it is published with this event.
 ---
 
 Police in Jagdalpur, Chhattisgarh, arrested two young men who were waiting

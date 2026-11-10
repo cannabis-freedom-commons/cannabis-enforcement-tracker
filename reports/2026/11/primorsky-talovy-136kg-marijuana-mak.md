@@ -105,12 +105,6 @@ open_questions:
     detained or charged.
   - The weight is reported only as more than 136 kg, with no exact figure.
   - Only one source for this event was opened; no second report confirming or adding details was found.
-  - >-
-    The Life.ru page gives only its publication date of 3 November 2026 and no separate date for the tip,
-    search or seizure, while the existing report is dated 2 November 2026.
-  - >-
-    The new account does not mention the fifth stage of Operation Mak or the Novonikolsk residence detail
-    recorded in the existing report.
   - The weight is given only as more than 136 kg, with no exact figure.
   - >-
     No verifiable event photo from this page is listed; the page capture lists only a banner image and a cover
@@ -122,23 +116,8 @@ open_questions:
     The page names no detention or arrest and does not say whether the 41-year-old property owner was detained
     or charged.
   - >-
-    The page lists a photo captioned only 5651515.jpg, which does not establish that it shows this seizure, so
-    no media entry is added.
-  - >-
-    The OTV-Prim page gives only its publication date of 3 November 2026 and no separate date for the tip,
-    search or seizure, while the existing report is dated 2 November 2026.
-  - >-
-    The OTV-Prim page gives the weight as 136 kilograms while the existing report records it as more than 136
-    kg.
-  - >-
     The OTV-Prim page does not name Article 228 or its part and says only that up to 15 years' imprisonment
     threatens; the part-3 classification continues to rely on earlier sources.
-  - >-
-    The OTV-Prim page names no detention or arrest, consistent with the existing report's open question on
-    that point.
-  - >-
-    The page's Rutube embed and hidden/related thumbnail image carry only the article title and do not
-    establish that they show this seizure, so no media entry is added.
   - >-
     The reports give only the publication date of 3 November 2026 and no separate day for the search, seizure
     and detention, so 3 November 2026 is used as the incident date.

@@ -50,7 +50,6 @@ open_questions:
   - No street value for the 21.98 kg of ganja was published.
   - No court outcome beyond booking under the Narcotic Drugs and Psychotropic Substances Act, 1985 was reported.
   - Only one accessible source, a PTI report via The Indian Express, was found; a Business Standard reprint of the same PTI text could not be opened.
-  - No photo of this seizure with a recoverable direct image address was identified, so no media entry is included.
 ---
 
 One person from Selam village in Champhai district, on the Mizoram-Myanmar

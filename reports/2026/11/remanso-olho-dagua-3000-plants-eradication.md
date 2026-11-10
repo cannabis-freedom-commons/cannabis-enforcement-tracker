@@ -78,12 +78,10 @@ sources:
     date: 2026-11-06
     language: pt
 open_questions:
-  - The submitted page gives no date for the action; 5 November 2026 comes from the Carlos Britto account, which dates it to that Thursday.
   - Plant and area figures are police approximations of about 3,000 plants on about one hectare, not measured counts.
   - No estimate of the value of the plants or the seized cannabis was published.
   - No owner, caretaker or suspect was identified, and no investigation or court step was reported after the samples were sent to the Remanso police station.
   - The three outlets reproduce the same CIPE/Caatinga police statement, so the accounts are not independent; Preto no Branco credits Ascom CIPE/Caatinga.
-  - The submitted page's only image carries no caption or credit beyond its file name, so what it depicts cannot be confirmed; it is linked, not copied.
   - No count was given for the seeds seized, and the processed cannabis weight is approximate.
   - This page gives no separate date for the action; 6 November is its publication date.
   - The page reproduces the same CIPE/Caatinga statement as the outlets already cited, so it is not an independent account.

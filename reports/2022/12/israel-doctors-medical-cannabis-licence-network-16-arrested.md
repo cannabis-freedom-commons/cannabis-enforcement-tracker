@@ -56,7 +56,6 @@ open_questions:
   - The value of more than NIS 17 million is a police estimate of the offences' scope; no figure for the licensed cannabis itself was published.
   - No court outcome, plea or indictment was reported; the suspects were due at the Rishon LeZion Magistrate's Court for a detention hearing.
   - The suspect doctors' names were not published, and the number of licences sold and of clients was not given.
-  - The submitted Jerusalem Post page shows an illustrative stock photograph of cannabis and a photograph of a medical marijuana plantation in northern Israel, neither of which shows this event, so no media entry is added.
   - The Times of Israel account of the same arrests could not be opened, so it is not cited.
   - 'Left out, as its quotation was not found in N12 (mako): Police said they would bring the suspects before a magistrate''s court in Rishon LeZion to extend their detention.'
   - Left out case stage, as its quotation was not found in N12 (mako).

@@ -62,7 +62,6 @@ open_questions:
   - The release is dated 16 August 2022 and gives no separate interception date; the report uses the announcement date.
   - The nationalities of the three crew members were not published in the opened sources.
   - No court outcome for the three crew members was reported in the opened sources.
-  - No photograph of the operation with a recoverable address was found, so no media entry was added.
 ---
 
 Spain's Tax Agency Customs Surveillance and the National Police, working with the United Kingdom's National Crime Agency and the Italian authorities plus CITCO and MAOC-N, boarded a sailing yacht in international waters of the Atlantic 130 miles off Huelva and seized around 6,000 kilograms of hashish. [@1,2] The three crew members were arrested, including the skipper, an experienced captain who had previously been arrested in similar circumstances aboard another drug-smuggling sailing vessel. [@1] Officers also seized a drone, security cameras and a radio-frequency detector the crew used to watch for police. [@1,2]

@@ -55,8 +55,6 @@ open_questions:
   - The suspect was not named and no age or address was published.
   - No court outcome beyond flagrante booking and custody at the disposal of the courts was reported.
   - Only one accessible source for this event was found after searching in Portuguese.
-  - The new outlet names the substances directly as cocaine and marijuana while the existing report records them as suspected pending forensic confirmation.
-  - The Jornal Primeira Página page carries an image file without a caption or credit establishing it shows this seizure, so no media entry is added for it.
 ---
 
 A Guarda Civil Municipal patrol arrested a man in flagrante on suspicion of drug

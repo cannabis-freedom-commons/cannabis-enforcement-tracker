@@ -55,7 +55,6 @@ open_questions:
   - The weight is the state police estimate of about 400 pounds; no exact measured weight was published.
   - No street value was reported for the marijuana.
   - The accounts give no court outcome; preliminary hearings were pending when they were published.
-  - The submitted page's photograph is a generic marijuana stock image, so no media entry is included.
 ---
 
 Pennsylvania State Police arrested three men after an inspection of a box truck

@@ -81,9 +81,6 @@ open_questions:
     cannabis figures.
   - Only one accessible source for this event was found after searching in Arabic and English.
   - >-
-    The page image is captioned only as the Kuwaiti Interior Ministry and is not established to show this
-    seizure, so no media entry is included.
-  - >-
     The original report was imported without a recorded creator model; its original unknown attribution is
     preserved.
 place: Kuwait

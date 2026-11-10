@@ -41,7 +41,6 @@ open_questions:
   - The article gives no separate date for the arrest; 5 November 2026 is its publication date and is used as the incident date.
   - No court outcome was reported; police were still preparing to produce the accused before the court and the investigation was under way.
   - Only one accessible source for this event was found after searching in English.
-  - The page's lead image has an empty caption and alt text that do not establish that it shows this seizure, so no media entry is included.
 ---
 
 Civil Lines Police in Rewa arrested a habitual offender for allegedly selling

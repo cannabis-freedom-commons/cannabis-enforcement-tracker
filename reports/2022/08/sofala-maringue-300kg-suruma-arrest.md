@@ -43,7 +43,6 @@ open_questions:
   - The detained farmer's name, age and other identifying details were not published.
   - No charges, custody decision or court outcome were reported.
   - Only one accessible source for this event was found; searches for a second account of the Marínguè seizure did not return an openable result.
-  - The page carries a photo file with no caption or credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Police in Marínguè district, in Sofala province, detained one Mozambican citizen

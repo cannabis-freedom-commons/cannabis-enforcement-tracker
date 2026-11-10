@@ -53,10 +53,6 @@ sources:
     date: 2026-09-21
 open_questions:
   - The reports do not give charges or a court outcome for the three arrested people.
-  - The Nepal News account says the operation took place on Monday, while the existing report dates it to the night of Sunday 20 September 2026; both point to the same incident reported on 21 September.
-  - The existing report says officers fired two rounds from a pistol; this account says two warning shots into the air without naming the weapon.
-  - The spelling Nandalal in this account appears as Nanda Lal in the existing report; they are treated as the same person.
-  - The page lead image has empty alt text, no caption and a March 2026 upload path, and the same file illustrates an unrelated gambling story, so it is not treated as showing this seizure and no media entry is included.
 ---
 
 Acting on a tip-off, a team from the Area Police Office in Paterwasugauli

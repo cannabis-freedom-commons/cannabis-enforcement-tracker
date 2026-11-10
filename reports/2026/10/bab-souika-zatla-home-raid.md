@@ -50,7 +50,6 @@ open_questions:
   - The seven-year prison term is a prior judgment, not a sentence imposed for this seizure, and no new court outcome is reported.
   - Only one source could be opened; searches did not turn up another account of this home raid.
   - The page image is a generic stock photo of handcuffed hands, not a picture of this raid, so it was left out.
-  - The Babnet page image carries no caption or credit establishing it shows this raid, so no media entry is included.
 ---
 
 National security units of the judicial police brigade in Bab Souika raided a

@@ -42,7 +42,6 @@ sources:
     language: ru
 open_questions:
   - The same articles also report separate seizures in Bogdanovo in Rzhaksinsky district and Kobyaki in Kirsanovsky district on different dates, which are left out here as different events.
-  - The page photograph is labelled as an editorial archive image and is not established to show this seizure, so no media entry is listed.
   - No detention or arrest is explicitly stated for the Petrovsky suspect, so no arrested figure is recorded.
   - No court outcome was reported, with further investigation still under way.
   - Separate reporting found during research gives a conflicting Bogdanovo account on the same date with a different suspect and weight, so that case is excluded pending clarification.

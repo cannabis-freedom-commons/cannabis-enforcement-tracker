@@ -44,8 +44,6 @@ open_questions:
   - The article gives no separate date for the patrol and arrest, so 31 October 2026, the article's publication date, is used as the incident date.
   - Only one source for this event could be opened; a search for a second account found nothing.
   - No court outcome beyond registration of the NDPS case was reported.
-  - The page carries a lead photo captioned to this arrest, but it is not established that the image shows this seizure, so no media entry is included.
-  - The submitted AMP URL appears to be the same Punjab Kesari article as the canonical URL already cited in the existing report, not an independent second account.
 ---
 
 A patrolling team from Sunni police station in Shimla district detained a man in

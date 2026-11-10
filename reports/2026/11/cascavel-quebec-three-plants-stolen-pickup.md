@@ -71,12 +71,6 @@ open_questions:
   - No arrests were reported and those responsible for the vehicle and the plants were not identified.
   - No laboratory result, weight or disposal details for the three plants were reported.
   - What happened after referral to the 15th Police Subdivision was not reported.
-  - The submitted account describes the plants as seen inside a residence, while the existing report describes a plot near a residence and a yard; both place the seizure in Bairro Quebec, Cascavel on the same day.
-  - The submitted account says officers saw cannabis-like plants inside a residence, while the existing report describes a plant spotted in a plot near a residence; both place the seizure in Bairro Quebec, Cascavel on the same day.
-  - The new account names Rua Canadá and bairro 14 de Novembro while the existing report names Loteamento Quebec in the 14 de Novembro area, but both place the seizure in the same area of Cascavel on the same day.
-  - The new account describes plants in a yard and a garage residence while the existing report describes a plot near a residence and a yard, with the same count of three plants and the same stripped pickup.
-  - The new account specifies the theft record as Porto Alegre, consistent with the existing report's Rio Grande do Sul record, and adds paint, plate and habitation details.
-  - The page's PM photo of the stripped pickup appears to republish the same agency handout already listed from Portal24, so no duplicate media entry is added.
 ---
 
 A Military Police Shock Platoon team was patrolling in Loteamento Quebec, in the

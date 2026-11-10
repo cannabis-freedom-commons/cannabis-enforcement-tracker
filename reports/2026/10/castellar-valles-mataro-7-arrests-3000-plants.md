@@ -62,9 +62,6 @@ open_questions:
   - No court outcome beyond handing the detainees over to the courts was reported.
   - Both opened accounts relay the same police statement through Europa Press; no separate agency statement with additional detail was opened.
   - The only published image is labelled as a file/resource photo of a National Police vehicle, not this operation, so no event photo is listed as media.
-  - The article gives only its publication date of 2 November 2026 and no separate date for the raid, while the existing report dates the operation to 20 October from Europa Press.
-  - The submitted page says the operation was with the Policía Local de Dosrius, while the existing report says Mataró's local police; whether both local forces took part is not resolved.
-  - The existing report names Castellar del Vallès as well as Can Canyamars, Mataró; the submitted page names only Can Canyamars in Dosrius and several unnamed Barcelona-province localities.
   - The page's lead image captioned 'marihuana sesrovires' is not established as showing this Dosrius seizure, so it is not listed as media.
   - Two other slugs, mataro-3000-plants-seven-arrested and mataro-barcelona-seven-arrests-3000-plants, appear to record the same seven-arrest and 3,000-plant operation and may be duplicates.
 media:

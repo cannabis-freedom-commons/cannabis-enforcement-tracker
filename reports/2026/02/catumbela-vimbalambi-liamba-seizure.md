@@ -48,7 +48,6 @@ open_questions:
   - No names for the three detainees were published.
   - No charge or court outcome beyond the expected presentation to the Public Prosecutor's Office was reported.
   - Both accounts draw on the SIC version of events, so they are not independent.
-  - The pages carry images credited as DR and Cedida, but their captions do not establish that they show this seizure, so no media entry is included.
   - Only two accessible sources for this event were found; the ANGOP page could not be opened.
 ---
 

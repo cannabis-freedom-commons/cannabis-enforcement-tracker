@@ -55,12 +55,9 @@ open_questions:
   - The Swindon Advertiser says the two men jumped from the roof, while Wiltshire 999s says they jumped out of an upper-floor window.
   - The opened reports give no charges, court dates or later court outcome for the three men.
   - The licensing panel was due to decide the certificate review on 4 November 2026, but the outcome is not covered.
-  - The cited pages’ image captions and alt text do not establish that any image shows the raid or grow, so no media asset is listed.
   - 'Left out, as its quotation was not found in Swindon Advertiser: Wiltshire Police Alcohol Licensing Officer John Barker said he still sought revocation, citing the aim of preventing crime and disorder and protecting the community.'
   - 'Left out, as its quotation was not found in Swindon Advertiser: Swindon Borough Council’s Licensing Panel was scheduled to decide the review on Wednesday, November 4, with options including changed conditions, excluding licensable activities, suspension for up to three months, revocation or no action.'
-  - The submitted page says the men attempted to escape via the roof, while the existing report says two men jumped out of an upper-floor window.
   - The sources describe hundreds of plants but give no exact count and do not say whether plants were seized or destroyed.
-  - The only listed image is captioned North Swindon Club and is not established to show the raid or grow, so no media entry is listed.
 ---
 
 Three men were arrested on suspicion of cannabis cultivation. [@2,3] Police were

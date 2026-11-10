@@ -52,7 +52,6 @@ open_questions:
   - The cannabis total of 1,266.295 kg is calculated from 1,266 packages of about one kilogram each plus 295 grams, not a laboratory weight.
   - The detainees are identified only by the surnames Scott, Artavia and Rocha; no charges, custody ruling or court outcome were reported.
   - The 13 fuel drums and the 21-tonne year-to-date national total are mentioned only as context and are not recorded as case figures.
-  - The submitted page's listed image had no caption or credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Costa Rica's Coast Guard seized 1,266 kilos of marijuana and 176 kilos of

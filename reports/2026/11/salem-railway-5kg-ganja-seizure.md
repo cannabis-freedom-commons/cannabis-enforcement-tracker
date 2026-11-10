@@ -44,7 +44,6 @@ open_questions:
   - The same page also reports a separate 1.2 kg ganja arrest by Hasthampatti police near Johnsonpettai, which is a different event left out of this report.
   - Only one outlet account could be opened and no police statement or second report was found.
   - No estimated value was published for the seized ganja.
-  - No photograph of this seizure could be identified on the page, so no media entry is included.
 ---
 
 Special-team officers led by Prabhakaran and Tamilselvan carried out the

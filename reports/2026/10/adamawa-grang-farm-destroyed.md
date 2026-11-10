@@ -43,9 +43,6 @@ media:
     caption: "NDLEA Michika Area Command exhibit board and bagged cannabis sativa from the Adamawa seizure (Dateline Nigeria / NDLEA)."
 open_questions:
   - The targeted suspect had not been caught; surveillance to apprehend him was continuing.
-  - >-
-    Dateline's exhibit-board photo shows DOA 27-09-2023 for the same named suspect, bag count and 428 kg
-    weight, so no media_url was added until a 2026 operation photo is confirmed.
 sources:
   - title: NDLEA, Army taskforce destroy cannabis farm in Adamawa
     url: https://dailypost.ng/2026/10/05/ndlea-army-taskforce-destroy-cannabis-farm-in-adamawa/

@@ -36,7 +36,6 @@ tags: [cannabis-farms]
 open_questions:
   - The sources date the destruction only to last week before 27 August, so 21 August stands for the end of that week.
   - No suspects were named and no arrests were made, as the growers fled before the team arrived.
-  - No photo of the Boso destruction with a verifiable address was found, so no media entry was added.
 sources:
   - title: It's illegal to cultivate cannabis in Ghana without licence - Narcotic Control Commission
     url: https://ghanaiantimes.com.gh/its-illegal-to-cultivate-cannabis-in-ghana-without-licence-narcotic-control-commission/

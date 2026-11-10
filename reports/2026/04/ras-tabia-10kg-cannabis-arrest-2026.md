@@ -51,7 +51,6 @@ open_questions:
   - The quantity of cocaine seized was not published, so only the separately supported cannabis weight is counted.
   - The suspects were not named beyond the family link to a former international footballer.
   - No court outcome beyond custody and opened judicial proceedings was reported.
-  - The pages' photos are generic or illustrative and are not established to show this seizure, so no media entry is included.
 ---
 
 On 23 April 2026, National Guard anti-drug units arrested the brother of a

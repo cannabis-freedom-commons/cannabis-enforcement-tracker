@@ -52,10 +52,7 @@ open_questions:
   - The page's only picture is labelled as AI-generated, so no photo of the event is listed as media.
   - No second report of this Saintala raid could be opened, so the account rests on this single Jagran report.
   - The same article also describes separate Bihar drone surveillance, about 100 acres of opium destroyed by August, and cumulative seizures reported by July, which are different events left out of this report.
-  - The new source spells the place as सेनतल्ला and does not name Balangir district, while the existing report uses Saintala, Balangir.
   - The new source gives only its 3 November 2026 publication date and no separate raid date.
-  - The new source names only Satish Rai of Jethuli and describes the others only as two from Vaishali and one from Kandhamal, without the other names and details in the existing report.
-  - The new source values the 50 kg at about Rs 1 crore at the government rate, a figure not in the existing report.
 ---
 
 Bihar's Special Task Force narcotics cell, working with Odisha police, raided

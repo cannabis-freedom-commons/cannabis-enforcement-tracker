@@ -42,9 +42,6 @@ open_questions:
   - Thai sources name the owner as Moshe; Khaosod English on 20 March gives his age as 31 but not his surname.
   - Khaosod reports this was a second raid after a January 2026 nominee investigation and 60-day licence suspension; Siam News focuses on the March operation only.
   - The exact weight of each extract type (kief, hash, moonrock) was not itemised in the sources opened.
-  - Ynetnews reports the arrest of the Israeli owner only, while the existing report records five arrests including four Thai nominees; the difference may reflect Ynetnews focusing on the Israeli national.
-  - Ynetnews gives the seizure as more than 29 kilograms of cannabis extracts, while the existing report gives 29.84 kg from Khaosod English; the figures are consistent but the precise measured total comes from the earlier sources.
-  - The raid occurred on a Friday before the 16 March publication date, understood to be 13 March 2026 in line with the existing report; Ynetnews does not give the calendar date of the raid.
 sources:
   - title: ป.ป.ส. ทลายเครือข่ายต่างชาติลักลอบผลิตสารสกัดกัญชาความเข้มข้นสูง ยึดทรัพย์ 3 ล้านบาท
     url: https://www.siamnews.com/news/crime/40651

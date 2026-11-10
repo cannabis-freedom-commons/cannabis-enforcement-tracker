@@ -54,7 +54,6 @@ open_questions:
   - No age, full name or custody decision for the suspect was published, and no court outcome is yet known.
   - No street value or exact measured weight was published; the amount is stated as approximately 2 kilograms and 40 grams.
   - Only one source for this event could be found; searches in Portuguese returned no second outlet or police statement account.
-  - The page's main image has no caption or credit and is not confirmed to show the seizure, so no media entry is added.
   - Coordinates are those of the Ceres town centre, not the exact house on Rua 58.
 ---
 

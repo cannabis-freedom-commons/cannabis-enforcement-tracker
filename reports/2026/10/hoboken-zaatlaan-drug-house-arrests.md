@@ -60,8 +60,6 @@ open_questions:
   - The 205 euros was cash seized, not a valuation of the drugs, and no drug value was published.
   - The report names no suspects and gives no ages, and no court outcome beyond referral of two suspects to the investigating judge was reported.
   - Only one accessible source for this event was found after searching in Dutch and English.
-  - The page photograph is captioned as an illustration image and is not shown to depict this seizure, so no media entry is included.
-  - The page carries a photo but its caption and alt text are empty, so it cannot be confirmed to show this seizure and no media entry is included.
   - 'Left out, as its quotation was not found in Politiezone Antwerpen: Police spokesperson Kim Bastiaens gave the account of the operation.'
   - 'Left out, as its quotation was not found in Politiezone Antwerpen: The suspects allegedly used the house as a base for dealing drugs.'
 ---

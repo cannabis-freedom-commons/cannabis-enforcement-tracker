@@ -50,7 +50,6 @@ open_questions:
   - No arrests, charges, suspects or court outcome were reported.
   - The reports give the discovery date as 20 December without a year; 2018 is inferred because the seizure is described as in late December and published on 9 January 2019.
   - The cannabis type, such as herbal cannabis or resin, was not specified.
-  - The pages carry generic port and container images that do not show the seized cannabis, so no media entry is included.
 ---
 
 Belgian customs intercepted a container holding 7.4 tonnes of cannabis in the

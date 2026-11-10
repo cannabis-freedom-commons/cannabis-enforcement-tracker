@@ -36,7 +36,6 @@ open_questions:
   - No breakdown was given for how the nearly 250 phones, weapons or cannabis were distributed among prisons.
   - The operation's start date and full scope beyond the mid-term review were not specified.
   - Only one accessible source for this event was found after searching in French and English.
-  - The page image is captioned only as arton33761 and does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Senegalese Justice Minister Sidiki Kaba gave a mid-term review of an operation

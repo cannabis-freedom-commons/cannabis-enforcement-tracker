@@ -47,7 +47,6 @@ open_questions:
   - The reporting does not say whether anyone else was arrested or charged over the attempted robbery.
   - No plea, trial date or outcome beyond the bail decision was reported.
   - Only one news outlet and one booking-record page could be opened; the local newspaper's account was blocked.
-  - No photo of the arrest, the rifle or the vape cartridges with a caption tying it to this event was available, so no media entry is listed.
   - Left out case stage, as its quotation was not found in RecentlyBooked.com.
   - Left out charged, as its quotation was not found in RecentlyBooked.com.
 ---

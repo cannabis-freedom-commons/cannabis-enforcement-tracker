@@ -77,7 +77,6 @@ open_questions:
   - Cocaine valuations of over £13,000 and £2,850, heroin and cocaine possession counts, over £14,000 cash, jewellery and suspected bank profits are not cannabis and are excluded from cannabis figures.
   - The May 2023 arrests included two unnamed men besides Laking; no total arrested figure is counted and figures use four charged for the four sentenced people.
   - No outcome of the later Proceeds of Crime Act hearing was reported.
-  - No media entry is listed because the page's images lack captions establishing they depict this event.
   - 'Left out, as its quotation was not found in The Daily Dazzling Dawn: Luke Cockerill, 36, of no fixed abode, was jailed for four years and six months.'
 ---
 

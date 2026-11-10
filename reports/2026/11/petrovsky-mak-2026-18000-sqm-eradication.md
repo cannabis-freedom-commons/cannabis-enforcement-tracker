@@ -42,7 +42,6 @@ open_questions:
   - The seized amount of more than 100 grams of plant-origin drugs is not explicitly identified as cannabis and the 2.5 grams is a potent substance, so no cannabis kilogram figure is recorded.
   - The 13 administrative cases and four opened criminal cases do not name detained or charged persons, so no arrested or charged figure is recorded.
   - Only one accessible source for this event was found after searching in Russian and English.
-  - The page photograph is labelled as an editorial archive image and is not established to show this operation, so no media entry is included.
 ---
 
 Officers of the Michurinsky intermunicipal police department summed up the

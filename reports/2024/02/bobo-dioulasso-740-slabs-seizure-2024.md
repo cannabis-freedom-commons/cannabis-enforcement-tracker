@@ -50,7 +50,6 @@ sources:
 open_questions:
   - No weight was published for the 740 slabs, so no kilogram figure is recorded.
   - No arrests, detentions, charges or court outcome were reported.
-  - The submitted page image is captioned as an illustration and the Burkina 24 page images carry no caption confirming they show this seizure, so no media entry is included.
   - The same brigade's 590 kg amphetamine seizure on 26 February 2024 on the same axis is a separate non-cannabis seizure and is excluded from the cannabis value.
   - The text gives a weight ("590 kg") but the figures have no kg_seized; check whether it belongs there.
 ---

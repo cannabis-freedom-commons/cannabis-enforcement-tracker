@@ -44,7 +44,6 @@ open_questions:
   - It is unclear whether the unidentified woman found with Shah was arrested or charged; only Shah is recorded as arrested and charged.
   - No court outcome beyond release on 10,000 baht bail was reported.
   - Only one accessible source for this 2012 event was opened after search attempts found no second account.
-  - The page carries no photograph of this event, only site graphics, so no media entry is included.
 ---
 
 Nepal's former crown prince Paras Shah was arrested in Thailand and charged with

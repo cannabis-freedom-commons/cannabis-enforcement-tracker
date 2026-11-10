@@ -34,7 +34,6 @@ sources:
 open_questions:
   - No separate weight was published for the seized marijuana, so no cannabis kilogram figure is recorded; the only quantified weight is over one kilogram of amphetamine.
   - No separate date is given for the search and arrests; 11 September 2026 is the publication date of both accounts and is used as the incident date.
-  - The published police handout photos are captioned as showing amphetamine and the tableting machine, with no caption confirming they show the seized marijuana, so no media entry is added.
   - The text gives a weight ("1 kg") but the figures have no kg_seized; check whether it belongs there.
 ---
 

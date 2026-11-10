@@ -46,7 +46,6 @@ open_questions:
   - The two million sum raised for travel was reported without a currency, so no value is recorded.
   - The intended Conakry landing was deliberately withheld and Km36 was not further identified.
   - Only one accessible source for this event was found, so details could not be corroborated.
-  - The page carries an image file with no caption or alt text establishing that it shows this seizure, so no media entry is included.
 ---
 
 Guinea’s National Gendarmerie presented 1,180 kilograms of cannabis to the press

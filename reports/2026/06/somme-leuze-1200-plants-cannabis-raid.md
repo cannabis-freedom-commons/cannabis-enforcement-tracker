@@ -59,7 +59,6 @@ open_questions:
   - No cannabis valuation and no field area were published.
   - The three suspects were identified only by age and nationality; no names were published.
   - No charges, plea or trial date were reported; the investigation was still continuing.
-  - Le Soir's article image is captioned only 'Illustration' and credited to the Belga agency with a 2023 file date, so no media entry is taken from it; the only media entry is the AFP stock photo of marijuana plants used by The Brussels Times, which is an illustration, not a picture of this seizure.
   - No official police zone page for this operation could be opened; the prosecutor's statement is the closest agency source.
   - 'Left out, as its quotation was not found in Le Soir: Police seized about 1,200 cannabis plants, a large part of them already harvested, and nearly 33.5 kg of cannabis ready for sale or for turning into resin.'
   - 'Left out, as its quotation was not found in The Brussels Times: The Brussels Times reported the same seizure of around 1,200 plants and nearly 33.5 kg of marijuana, again saying the three suspects were placed under arrest.'

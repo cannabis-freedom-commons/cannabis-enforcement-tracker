@@ -228,8 +228,6 @@ open_questions:
   - Telangana Today places the arrest on Friday and describes the vehicle and direction only as an autorickshaw towards Mangalhat; read with its 7 November publication that implies 6 November, while the report's opening sentence says 5 November.
   - Telangana Today puts the cases at around 30 under the NDPS Act and the Prohibition and Excise Act registered between 2017 and 2026, rather than the 31 cases since 2018 recorded from The Hindu.
   - Telangana Today gives no figure for the cash seized beyond confirming Rs 1,59,500 was found on her, the higher of the two amounts already noted in the report.
-  - NewsMeter gives her age as 51, while The Hindu says 48; the existing report keeps 48.
-  - NewsMeter dates the arrest to 6 November, while The Hindu places it on 5 November; the existing report keeps 5 November.
   - Andhra Prabha gives her age as 51, matching NewsMeter, NTV Telugu and Telangana Today but not the 48 given by The Hindu and used in the report's opening sentence.
   - Andhra Prabha places her arrest in an autorickshaw towards Mangalhat and dates the search for her to this year's June raid; it gives no day for the arrest itself, while the report's opening sentence says 5 November 2026.
   - Andhra Prabha says the joint team was the Hyderabad Narcotics Police Station with the EAGLE Force technical wing, while another cited account names the Cyberabad Narcotics Police Station as the unit she was handed to; the two station names are not reconciled in this page.
@@ -245,7 +243,6 @@ open_questions:
   - The Prime9 News page image is captioned only with the headline and carries no credit, so it cannot be confirmed to show the arrest.
   - Siasat gives her age as 51 and dates the arrest to Friday, 6 November 2026, while the report's opening sentence gives 48 and 5 November from The Hindu; the discrepancy is already recorded in the report's open questions.
   - Siasat gives no weight or value for any ganja seized at the arrest and no charges or later court step.
-  - The Siasat page carries one image captioned only "hyderabad ganja" with no credit, which cannot be confirmed to show the arrest or a seizure, so no media entry is added.
   - 'Left out, as its quotation was not found in The Siasat Daily: It said she bought ganja wholesale, repackaged it into small packets and sold it around Nanakramguda, selecting areas where software engineers and hostel or rented-home students lived.'
   - The page gives no day for the three earlier family operations behind the ₹67 lakh cash and 51.5 kg of ganja, so they are treated as background and are not added to the report's figures.
   - The ₹24 lakh is police's estimate of one day's sales, not a value for cannabis seized at the arrest, so the report's cannabis figures are unchanged.
@@ -255,7 +252,6 @@ open_questions:
   - Rediff gives no total value for the buildings and construction police are examining and no court outcome beyond her remand to judicial custody.
   - Disha Daily gives no day for the arrest; the report keeps 5 November 2026 from the earlier accounts, while Disha attributes the operation to the EAGLE Force and the handover to the Cyberabad Narcotics Police Station.
   - Disha Daily puts the cases against her at about 12 in the last two years as well as about 30 in total, and the two figures are not reconciled with the 31 cases since 2018 recorded from The Hindu.
-  - The Disha Daily page image is captioned only with the headline and carries no credit, so it cannot be confirmed to show the arrest and no media entry is added.
   - ABP Desam gives no age for Nithu Bai and no figure for the cash found on her at the arrest.
   - ABP Desam's only image is captioned with the headline and carries no credit, so its provenance is not documented beyond the page.
   - Manatelangana gives no day other than Friday for the arrest; read with its 7 November 2026 publication that means 6 November, while the report's opening sentence keeps 5 November from earlier accounts.
@@ -263,15 +259,10 @@ open_questions:
   - Manatelangana does not say whether the ₹1,59,500 cash seized was cannabis proceeds or a cannabis weight, so no cannabis figure is added.
   - Manatelangana's only image carries a caption repeating the headline and no credit, so it cannot be confirmed to show the arrest and is not listed as media.
   - The 22 kg ganja and ₹40 lakh cash, 7.5 kg ganja and ₹5 lakh, 22 kg ganja and ₹22 lakh cash and ₹2.60 lakh seizures Manatelangana recites are earlier operations already described in the report and are not recounted here.
-  - Vartha Bharati gives her age as 51 and the apprehension date as 6 November, while the existing report opens with 48 and 5 November from earlier accounts; the difference is already tracked as an open question.
-  - Vartha Bharati spells the name K Nithu Bai, while the existing report uses Kalapathi Neethu Bai; the report treats them as the same person.
   - Eenadu dates the arrest to Saturday near Dhoolpet and in an autorickshaw towards Mangalhat; read with its 8 November 2026 publication this implies 7 November, while the report keeps 5 November 2026 in Asif Nagar from earlier accounts.
   - Eenadu gives her age as 51, while the report's opening sentence gives 48 from The Hindu.
   - Eenadu says she absconded for two years and counts 30 cases from 2020 to 2026 starting with a Dhoolpet excise case, while the report records more than a year absconding and 31 cases since 2018.
   - Eenadu says 47 buyers were caught in the June raid on her home, while the report describes about 50 customers.
-  - The page dates the arrest only to Friday night; read with its 7 November dateline and 8 November publication this points to 6 November 2026, while the existing report opens with 5 November — a difference already tracked in that report's open questions.
-  - The page spells the name Nithu Bhai while the existing report uses Kalapathi Neethu Bai; they are treated as the same person but the spelling is not reconciled.
-  - The page carries one image captioned only with the headline and no credit, so it cannot be confirmed to show the arrest or a seizure and no media entry is added.
   - 'Left out, as its quotation was not found in Andhrajyothy: The Hyderabad Narcotics Police Station, working with the EAGLE Force Technical Team, arrested Neethu Bai on 6 November 2026 while she was travelling towards Mangalhat in an autorickshaw, and she was remanded to judicial custody.'
   - 'Left out, as its quotation was not found in Andhrajyothy: Investigators are examining two G+3 buildings in Langerhouz, a G+2 building in Gachibowli and additional construction at her Nanakramguda residence, and earlier froze the bank accounts of the accused, some family members and their family-run Jayalakshmi Kirana and General Store.'
   - The page gives no case number or dates beyond June 2024 for the Preventive Detention order it says was revoked.
@@ -280,8 +271,6 @@ open_questions:
   - Hyderabad Mail says she evaded arrest for several months, while earlier cited accounts describe more than a year.
   - Hyderabad Mail gives no age for Bai and no day for the arrest beyond Friday night.
   - Hyderabad Mail says she was arrested in 17 cases previously, without listing them or saying whether they overlap the cases already recorded.
-  - V6 Velugu gives no day for the arrest beyond Friday, but its first paragraph says the EAGLE director's office announced it on Saturday, and it was published on 8 November 2026; read together that points to 6 November 2026, while the existing report opens with 5 November.
-  - V6 Velugu gives no age for Neetu Bai and places her home in Nanakramguda, while the existing report opens with her age as 48 and gives the arrest in Asif Nagar.
   - V6 Velugu says 13 cases are registered against her, without saying whether that is the total or only the cases in which she was absconding.
   - V6 Velugu gives no charge, remand decision or court outcome after the arrest and no weight or value of ganja seized at it.
   - The V6 Velugu photo is captioned only with the headline 'Ganja lady don Neetu Bai arrested' and carries no credit, so it cannot be confirmed to show the arrest itself.
@@ -293,9 +282,6 @@ open_questions:
   - The two Vaartha images, the lead picture and a second picture in the body, carry no caption beyond the headline and no credit, so they cannot be confirmed to show the arrest or a seizure.
   - The article's statement that police are targeting sales to youth, students and employees describes general enforcement policy and is not a separate enforcement event.
   - 'Left out, as its quotation was not found in Vaartha: Bai was linked to an alleged marijuana-trafficking network across Hyderabad and Cyberabad.'
-  - ETV Bharat gives no separate day for the arrest; 7 November 2026 is its publication date and it describes the arrest as today, while the existing report keeps 5 November 2026 from earlier accounts.
-  - ETV Bharat counts 20 cases from 2017 to 2024 and about 30 NDPS and excise cases against Bai and her family, while the existing report records 31 cases since 2018; the different periods and persons covered are not reconciled.
-  - ETV Bharat says 47 buyers were detained in the June raid on her Nanakramguda home, while the existing report describes about 50 customers.
   - ETV Bharat says 16 bank accounts held Rs 1.53 crore when she was arrested in 2023 and that about Rs 2 crore of immovable property was attached under the NDPS Act; it gives no date for those steps beyond 2023.
   - The submitted MSN copy of the PTI text gives no age, arrest location, cash figure or court date; the Rediff copy of the same PTI text adds the 6 November 2026 apprehension date, the Rs 1.59 lakh cash and one mobile phone seized and the autorickshaw towards Mangalhat.
   - 'Left out, as its quotation was not found in Rediff.com: At the arrest, police seized Rs 1.59 lakh in cash and one mobile phone from her.'

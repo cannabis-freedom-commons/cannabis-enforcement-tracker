@@ -41,7 +41,6 @@ open_questions:
   - The article gives no separate date for the searches and arrests, so 30 May 2026 is its publication date.
   - What happened to the 22 arrested people after the operation, including the two minors, was not reported.
   - Eight other people were reported to the courts rather than arrested, and their cases were not detailed.
-  - The article's embedded video of the operation could not be recovered as a direct media file, so no media entry was added.
 sources:
   - title: "Operazione antidroga a Catania, 22 arresti: sequestrati 43 chili di stupefacenti. Il video"
     url: https://catania.gds.it/articoli/cronaca/2026/05/30/operazione-antidroga-a-catania-22-arresti-sequestrati-43-chili-di-stupefacenti-il-video-9664df66-a680-47a4-86c0-255e57044eb2/

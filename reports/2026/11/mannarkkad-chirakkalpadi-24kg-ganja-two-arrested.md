@@ -48,7 +48,6 @@ sources:
 open_questions:
   - The night raid is dated to 2 November 2026 from the report's wording that it happened the night of the day before yesterday relative to its 4 November 2026 publication; no exact incident date was published.
   - No charge, court production or case outcome was reported; the case was still under police investigation when published.
-  - No confirmed direct address for a photo of this seizure or the arrested men could be recovered, so no media entry is listed.
   - A Deepika Malayalam page reports the same 24 kg seizure with the same two arrested men, corroborating this account; it is not cited because its page text could not be quoted exactly.
 ---
 

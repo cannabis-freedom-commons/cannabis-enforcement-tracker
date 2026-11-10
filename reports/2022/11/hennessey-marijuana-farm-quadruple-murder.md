@@ -59,7 +59,6 @@ sources:
 open_questions:
   - The victims were not individually identified in the November 2022 reports.
   - These reports predate any trial, so later court outcomes are not covered here.
-  - A sheriff's bodycam still of the garage was published with a later investigation, but its direct image address could not be recovered, so no media entry was added.
   - The NBC page repeats the two-day gap between the Sunday killing and the Tuesday arrest, but does not give the date of the arrest itself; 22 November is NBC's own publication-span wording and is already in the report.
   - The property listing cited by NBC (10 acres, 5,000 square feet of grow space, 50 hoop houses, $999,999 asking price in May 2022) describes the land for sale, not what enforcement found, so it is not recorded as a figure for this event.
 media:

@@ -69,7 +69,6 @@ open_questions:
   - No charges, court stage or outcome beyond the opened criminal case were reported.
   - The same page reports a separate Minsk basement case involving a 44-year-old man, 550 g of marijuana and psilocybin; it is a different event left out here.
   - Only one accessible source for this event was found; a search for a second account was unsuccessful.
-  - The page photo is explicitly marked as an illustrative image, so no media entry is included.
   - The Zerkalo page gives no separate date for the search; 5 November 2026 is its publication date and remains the incident date.
 ---
 

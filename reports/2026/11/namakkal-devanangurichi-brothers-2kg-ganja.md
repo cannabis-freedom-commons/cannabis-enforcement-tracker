@@ -43,7 +43,6 @@ open_questions:
   - The 60 intoxicating tablets are a separate non-cannabis seizure whose nature and weight were not specified, and they are excluded from the cannabis figures.
   - No street value, car registration details, charges or court outcome were published.
   - Only one opened source supports this report; a possible second outlet account could not be opened, so no corroborating citation was added.
-  - The submitted page carries only unrelated sidebar images, so no photo of this event is listed.
 ---
 
 Police received information that ganja and intoxicating tablets were being

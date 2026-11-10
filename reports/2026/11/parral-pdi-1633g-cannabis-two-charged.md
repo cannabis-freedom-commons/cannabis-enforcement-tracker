@@ -64,7 +64,6 @@ open_questions:
   - The cannabis was not described by product type (flower or otherwise) and no laboratory confirmation was reported.
   - Only one account of this event could be opened; the PDI Maule statement or a second outlet was not found.
   - The 3.82 grams of cocaína base is a different drug and is excluded from the cannabis figures; no combined drug total is recorded.
-  - The page's only image is an advertisement thumbnail for a university, not a picture of the raid, so no media entry is added.
   - The man's and woman's ages, the exact premises searched and any later court outcome were not reported.
   - The Será Noticia page carries a photo with no caption or credit; it is linked to this report only because it is the image published with the article.
   - The article gives no separate date for the searches or arrests; 9 November 2026 is its publication date.

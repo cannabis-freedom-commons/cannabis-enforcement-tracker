@@ -44,7 +44,6 @@ open_questions:
   - La 1ère reports one tonne, while L'Express de Madagascar says nearly one tonne; 1,000 kg is therefore an approximate figure.
   - The plantation was described as thousands of plants, without an exact count or area, and the sources do not report that the plants were seized or destroyed.
   - The traffickers fled; no arrests, later charges or court outcome are reported.
-  - The La 1ère page's only image is captioned as an illustration and credited as a screenshot from L'Express de Madagascar; it is not established to show this operation, so no media entry is included.
   - 'Left out, as its quotation was not found in L''Express de Madagascar: The Antsohihy company entered the dense Analabe forest between Tsaratanàna and Mangidrano, following the tracks of traffickers and cannabis growers in a protected area.'
 ---
 

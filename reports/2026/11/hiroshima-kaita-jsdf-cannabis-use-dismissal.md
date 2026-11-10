@@ -107,7 +107,6 @@ open_questions:
   - The September arrest date within the month is not stated; the arrest is placed in September 2026 on the sources' wording.
   - The dismissal is an administrative disciplinary measure, not a court sentence, and no court outcome is reported.
   - The soldier's name was not published in the accessible text.
-  - The FNN page image address resolves to a generic thumbnail associated with the page and is not established to show this case, so no media entry is listed.
   - The Chinese account says only that the soldier was dismissed over cannabis and other drugs and gives no weight or form of the drug, so the report's open question on cannabis quantity remains.
   - The Sohu page credits Xinhua and cites Kyodo, so it is a wire reprint rather than independent reporting of the garrison's statement.
   - The TSS page shows a 7 November 2026 posting date although the dismissal took effect on 6 November; the report keeps 6 November as the incident date.

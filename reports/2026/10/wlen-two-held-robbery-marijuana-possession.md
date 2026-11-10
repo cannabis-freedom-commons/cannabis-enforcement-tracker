@@ -49,7 +49,6 @@ sources:
 open_questions:
   - The sources do not state which marijuana amount belonged to which suspect.
   - The three-month detention is a pretrial preventive measure, not a sentence, and is not counted as prison.
-  - The eLuban page carries a lead photo captioned only with the headline, which does not establish that it shows this arrest or seizure, so no media entry is added.
 ---
 
 Two residents of Lwówek county, aged 25 and 33, were placed in pretrial

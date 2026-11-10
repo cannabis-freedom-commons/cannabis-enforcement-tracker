@@ -60,9 +60,6 @@ open_questions:
   - The plants are described only as similar to marijuana, with no laboratory confirmation reported.
   - No arrest, charge or court outcome was reported; the case was still to be investigated.
   - Only one source for this event could be opened; no second account was found.
-  - The new account does not give the suspect's age; the 24-year-old detail in the existing report comes from its earlier sources.
-  - The new account says the suspect had been the subject of a similar occurrence in 2024, without stating an arrest, while the existing report says arrested based on its earlier sources.
-  - The page displays an image with no caption or credit; its alt text names the Guaxupé seizure but the image content cannot be verified from text alone and it may duplicate the earlier police handout, so no media entry is added.
 ---
 
 Military police searched for a 24-year-old man named in anonymous tips as the

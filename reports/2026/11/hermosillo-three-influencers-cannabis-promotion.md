@@ -73,12 +73,8 @@ open_questions:
   - Azlán's justified preventive detention belongs to two separate cases for sexual violence and for marijuana dealing, not to this prosecution, and is therefore excluded from figures.
   - The same articles describe a 28 August armed attack on the Noche Suprema venue and a 3 September detention, separate events left out here.
   - The same article also describes a September Marina operation in San Carlos, Guaymas with 357 bags, 2,385 tubes and about 30.16 kilograms of marijuana, a separate enforcement event left out of this prosecution update.
-  - Both page images are credited to @pixabay and are not established as photos of this prosecution or seizure, so no media entry is added.
   - The article links the Olympos brand to Los Salazar and a named individual as an investigative allegation while noting that no judicial sentence has established responsibility, so that link is not added as a fact.
-  - The Puente Libre page carries a photo with no caption or credit establishing that it shows this prosecution, so no media entry is added.
   - The page also embeds a video file with no caption establishing that it shows this event, so no video entry is added.
-  - The ABC article was published on 4 November 2026 and gives no separate hearing date, consistent with the existing report's use of 3 November 2026 as the incident date.
-  - The ABC page carries a photo captioned as the detained influencers and attributed to the Sonora prosecution, but it cannot be established as distinct from the agency handout already listed, so no media entry is added.
   - El Universal names the three accused only by first name and initial, without birth years, and gives no weight, count or value for the cannabis products shown.
 ---
 

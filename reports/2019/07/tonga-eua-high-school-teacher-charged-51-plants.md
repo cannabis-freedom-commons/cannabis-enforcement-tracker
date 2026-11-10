@@ -76,7 +76,6 @@ sources:
     publisher: Matangi Tonga
     date: 2019-06-27
 open_questions:
-  - The submitted page is paywalled beyond its first paragraph; the details of the case come from the newspaper's own print view of the same article and from RNZ and Kaniva Tonga reporting of the arrest, which are about the same event.
   - The sources give no separate weight for the cannabis seized, and no value estimate was published.
   - Matangi Tonga reported on 2 July that the teacher was still in police custody and had not been named; no bail decision, plea, trial or sentence was reported in the opened sources.
   - The 27 June 2019 arrest is the date of the arrest; 2 July 2019, the date of the charging report, is used as the incident date because it is the case's latest step.
@@ -85,7 +84,6 @@ open_questions:
   - The photograph on the Matangi Tonga page is credited to Tonga Police and captioned only as alleged cannabis plants seized at 'Eua; it is not stated whether it shows all 51 plants.
   - RNZ's article carries a generic AFP stock library photo of marijuana, which is not used here.
   - The submitted Matangi Tonga page is paywalled beyond its lead paragraph, so the 27 June account could only be quoted from that sentence here; the plant split and the charges come from the paper's print view and from RNZ and Kaniva Tonga.
-  - The 27 June lead photograph is a separate file from the photograph linked in the existing report from the 2 July article, but no caption on the opened page says whether it shows the same plants or a different corner of the school grounds.
 ---
 
 A 42-year-old male teacher at 'Eua High School, on Tonga's 'Eua island, has been

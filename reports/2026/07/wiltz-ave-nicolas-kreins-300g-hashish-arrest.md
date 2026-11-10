@@ -50,7 +50,6 @@ open_questions:
   - RTL spells the street Avenue Nicolas Kreinz while Tageblatt and Chronicle.lu write Avenue Nicolas Kreins, which is used as the place.
   - The man was not named, and no age or nationality was published; the second person was checked but not reported as arrested.
   - No charge or court outcome beyond the arrest was reported.
-  - The RTL page shows a credited AFP stock close-up of a person smoking a joint, and the Tageblatt page a credited dpa/Jens Kalaene illustrative photo (Symbolfoto); neither is a picture of this stop, so no media entry is included.
   - The Chronicle.lu report also lists separate theft and shoplifting arrests from the same weekend, which are different events left out of this report.
 ---
 

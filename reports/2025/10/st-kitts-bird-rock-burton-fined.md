@@ -72,11 +72,8 @@ open_questions:
   - The 2025 reports give no name or registry for Burton’s vessel, cannabis weight or cannabis-specific value.
   - The reports do not say how many other crew members were aboard or whether any were detained.
   - The police statement gives 12 months’ imprisonment in default but does not clarify whether the term applies once or separately to each fine.
-  - The submitted page’s only image has no caption or credit establishing that it shows this event, so no media entry is included.
   - No cannabis weight, value or vessel name was published in the charged statement or the WINNFM reprint.
-  - The submitted page's only image is a headshot named for Burton without a caption or credit, so it is not established as showing the search or the seized cannabis.
   - SKNVibes reports the amount only as “a quantity of cannabis” and gives no weight or value, so none is recorded.
-  - The existing report says Burton was a crew member detained during a search of a vessel; SKNVibes describes him only as a national of Dominica found with cannabis in his possession and does not mention a vessel or crew status.
   - SKNVibes does not say whether the 12-month default term applies once or separately to each of the two fines.
 ---
 

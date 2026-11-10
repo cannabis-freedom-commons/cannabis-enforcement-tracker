@@ -45,7 +45,6 @@ open_questions:
   - The student's full name and age were not published.
   - No court outcome beyond refusal of release under judicial supervision was reported.
   - Only one accessible source for this event was found after searching in French.
-  - The page image has no caption, credit or alt text establishing that it shows this seizure, so no media entry is included.
 ---
 
 Avignon police arrested a BTS commerce student from a school in Vaucluse in

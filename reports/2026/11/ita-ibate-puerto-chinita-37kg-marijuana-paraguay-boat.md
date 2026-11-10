@@ -68,11 +68,9 @@ sources:
     date: 2026-11-06
     language: es
 open_questions:
-  - Neither source gives a date for the operation; 6 November 2026 is the publication date of the security ministry release, while the submitted page is dated 8 November 2026.
   - The 143 million peso value is the force's own commercial estimate, not a market price confirmed independently.
   - No weight beyond the total of more than 37 kilograms, and no count of packages inside the four bundles, was published.
   - The two boat occupants were not identified and no arrest, charge or court step was reported.
-  - The submitted page and the ministry release describe the same force account; the Corrientes outlets that repeated it could not be opened.
 ---
 
 Prefectura Naval Argentina officers seized more than 37 kilograms of marijuana

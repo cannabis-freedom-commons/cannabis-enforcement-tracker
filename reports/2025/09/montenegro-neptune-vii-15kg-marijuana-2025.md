@@ -44,7 +44,6 @@ open_questions:
   - The report does not name the Montenegrin town or border crossing where the car was searched, or say who was driving or whether anyone was arrested or charged.
   - The 220 kg of marijuana is a combined operation total across 20 countries; no country breakdown beyond the 15 kg found in Montenegro was published.
   - Only the INTERPOL news release could be opened; no second account of this Montenegrin seizure was found.
-  - The page carries a captioned picture labelled Montenegro marijuana, but the release does not describe it as a photo of this specific seizure, so no media entry is made.
 ---
 
 A vehicle search during INTERPOL's Operation Neptune VII border checks in

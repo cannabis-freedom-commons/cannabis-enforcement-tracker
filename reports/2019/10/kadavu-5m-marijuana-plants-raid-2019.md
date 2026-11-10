@@ -48,7 +48,6 @@ open_questions:
   - Neither account names the village, the farm or its owner, and no one was arrested, charged or named in the reports.
   - The first account calls Tudravu Acting Commissioner and the second calls him Deputy Commissioner; both are used as written.
   - Both Fiji Times pieces are the same outlet's coverage of one raid, so no independent account was found.
-  - The page photo is a file picture captioned as plants uprooted by police in an earlier raid, not this one, so no media entry is added.
 ---
 
 Police uprooted and seized more than $5 million worth of marijuana plants in a

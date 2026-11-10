@@ -59,7 +59,6 @@ open_questions:
   - No charge, court date or outcome was reported after the man was referred to the Public Prosecution.
   - The two accounts share the police statement's wording and add little independent detail.
   - Cairo24's only picture is a generic 'security campaign' image, and no picture could be verified as showing this raid, so no photo is linked.
-  - The new account gives the suspect's initials as D.M. (ض. م), while the existing report records D.A.
   - The page's only listed image is captioned with the outlet's name and cannot be verified as showing this raid, so no photo is linked.
 ---
 

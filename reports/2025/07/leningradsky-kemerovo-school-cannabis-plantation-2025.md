@@ -53,7 +53,6 @@ open_questions:
   - The report says 'more than 1,800' plants without an exact count, so 1,800 is used as the reported lower bound.
   - The number of detained organisers is not stated, so no arrested figure is recorded.
   - Only one opened source supports the event; searches for a second account, including the cited Yamal-Media and Interior Ministry video, did not yield an openable corroborating source.
-  - The page's image is credited to pexels.com and its caption only repeats the headline, so it is treated as a stock illustration and no media entry is added.
 ---
 
 Police in the settlement of Leningradsky near Kemerovo found a large cannabis

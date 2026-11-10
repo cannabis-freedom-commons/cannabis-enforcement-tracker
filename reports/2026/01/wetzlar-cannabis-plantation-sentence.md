@@ -55,7 +55,6 @@ open_questions:
   - The date of the Limburg criminal sentence was not given, only that it was final by June 2026; the report is dated at the appeal judgment of 16 January 2026.
   - The roughly 82,000 euros is energy back-payment plus a contract penalty, not a criminal fine or cannabis value, so it is excluded from figures, as are the roughly 94,000 euro claim and the 12,000 and 38,000 euro partial sums.
   - Electricity figures of about 320,000 kWh and 28,900 watts describe power use, not cannabis quantities.
-  - No photo of the house, plantation, raid or court was available; published images are generic stock or symbol pictures, so no media entry is listed.
   - 'Left out, as its quotation was not found in Oberlandesgericht Frankfurt am Main: Frankfurt Higher Regional Court then ordered him to pay about 82,000 euros in back payments and a contract penalty for the unmetered energy.'
   - 'Left out, as its quotation was not found in Oberlandesgericht Frankfurt am Main: The appeal judgment was issued on 16 January 2026 as case 3 U 89/25.'
   - 'Left out, as its quotation was not found in hessenschau.de: Lamps, fans and electric heaters in the house had a combined rating of 28,900 watts.'

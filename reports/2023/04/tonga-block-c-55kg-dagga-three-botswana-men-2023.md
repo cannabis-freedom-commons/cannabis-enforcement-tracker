@@ -37,7 +37,6 @@ open_questions:
   - A second account gives the weight as 55.355 kg rather than 55 kg; the report uses the submitted account's rounded 55 kg.
   - No value estimate for the dagga was published.
   - The suspects were not named and no outcome beyond the expected 24 April 2023 court appearance was reported.
-  - 'No photo could be established to show this seizure: the submitted page''s images are uncaptioned or relate to other stories, and the second page''s image carries no caption tying it to this event, so no media entry is included.'
 ---
 
 Tonga SAPS officers arrested three Botswana nationals on the night of 20 April

@@ -53,7 +53,6 @@ open_questions:
   - The sources report arrests and a continuing investigation but give no charges or later court outcome.
   - The suspected network leader was not individually named.
   - Morocco World News lists MAD 204,630 alongside the resin but does not clarify whether it was cash or a drug valuation, so no cannabis value is recorded.
-  - No caption or credit on the opened pages establishes a displayed image as a photo of this seizure, so no media item is included.
 ---
 
 Moroccan authorities arrested seven suspects, including one described as the

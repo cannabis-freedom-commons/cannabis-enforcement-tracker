@@ -43,7 +43,6 @@ sources:
 open_questions:
   - The article says sentencing happened on Tuesday and was published on Wednesday 30 May 2018, so 29 May 2018 is used as the incident date.
   - Only one opened source covers this case; no second account or agency statement was found.
-  - The only page image shows the courthouse building in downtown George Town and does not show the seizure, package or hearing, so no media entry is included.
   - The phones, chargers and cigarette paper are non-cannabis items and are not counted in figures.
   - The earlier offence that produced the triggered six-month suspended sentence is not identified.
 ---

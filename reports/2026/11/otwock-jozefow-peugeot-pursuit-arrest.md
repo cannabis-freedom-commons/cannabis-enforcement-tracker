@@ -59,10 +59,8 @@ open_questions:
   - No weight or amount of cannabis was published, so no kilograms can be recorded.
   - The 15-month term is a previously imposed penalty being enforced, not a new sentence for these charges, so no prison figure is recorded for it.
   - No court outcome for the new charges of failing to stop and driving under the influence was reported beyond the transfer to prison.
-  - The submitted page's only relevant image is captioned only with its police source and does not establish what it shows, so no media entry is included.
   - The TuStolica account repeats the Otwock police statement; no independent account beyond the police version was found.
   - The WP Info page declares canonical to the TuStolica.pl URL and reproduces the same partner text, so it provides no independent account beyond the police version already cited.
-  - The iOtwock.info account was published on 5 November 2026, two days after the existing report's sources, but gives no separate day for the pursuit itself.
 ---
 
 Otwock traffic police detained a 45-year-old Peugeot driver who tried to avoid a

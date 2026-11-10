@@ -37,7 +37,6 @@ open_questions:
   - Only one newsroom account of this seizure could be opened; no second outlet's version was found.
   - The report dates the seizure to Thursday and Friday with publication on 19 July, so 18 July is used for the bulk of the find.
   - No arrests, suspects or exact recovery locations beyond Tijuana were reported.
-  - The published photograph shows seized cocaine packages from the submarine case in the same article, not the marijuana, so no media entry is made.
 sources:
   - title: Mexican navy seizes cocaine sub
     publisher: BBC News

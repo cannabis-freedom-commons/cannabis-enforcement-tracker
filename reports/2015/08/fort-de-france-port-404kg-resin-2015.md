@@ -78,9 +78,7 @@ open_questions:
   - The 166.5 tonnes of resin seized nationally in 2014, the 800,000 euros in cash found at the airport since July and the separate Guadeloupe and Martinique cash seizures are context from the customs statement, not part of this event, so they are excluded from the figures.
   - The France-Antilles gallery carries no individual captions, only the credit "Photos Douane française et R.L.", so only the lead picture is listed and the remaining pictures are not described.
   - No video of the operation was found on a cited page, so no video entry is included.
-  - Europe 1 rounds the total to 400 kg in its headline but gives 404 kg in its text, matching the existing report's 404 kg figure.
   - Europe 1 gives the seizure day only as Monday and names no arrests or seizure value; Monday was 3 August 2015 given its 6 August 2015 publication date.
-  - InfoNormandie says the commercial vessel came directly from the port of Le Havre, while the existing report's main narrative follows the customs statement wording that the vessel came from Europe; the Le Havre origin is already recorded in the existing report through France-Antilles.
 ---
 
 Customs officers and judicial police searched a commercial vessel from Europe

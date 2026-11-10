@@ -45,7 +45,6 @@ open_questions:
   - The article does not say which of the 427 kilograms of hashish belonged to which case or defendant, nor whether any of the 30 were acquitted on appeal.
   - The article does not say where in Afghanistan the smugglers were detained or which court heard the primary cases.
   - The 823 kilograms of tablet-K and the other drugs are not cannabis and are excluded from the figures; no total cannabis-only value was given.
-  - The page's image is a picture of seized liquor bottles, not of this event, so no media entry is listed.
 ---
 
 An Afghan appeal court sentenced 30 drug smugglers to between one and 16 years

@@ -42,7 +42,6 @@ open_questions:
   - The article published on Monday 26 February 2018 says the arrests happened on Saturday and the presentation happened on Monday; Saturday is taken as 24 February 2018.
   - No court outcome beyond presentation before the prosecutor was reported.
   - Only one accessible source for this event was found after searching in French, so no second account confirms the arrests.
-  - The page image is a generic file with no caption linking it to this arrest, so no media entry is included.
 ---
 
 Police in the town of Mossendjo in the Niari department in southern

@@ -64,15 +64,10 @@ open_questions:
   - The nearly 2,000 grams of seized drug substance is not identified as cannabis, so it is excluded from kg_seized.
   - No charge, court outcome or further result for the detained suspect was reported.
   - Only one source for this event could be opened; a search for a second report found no accessible corroboration.
-  - The page carries photos with only generic image-of-text captions, so whether any photo shows this seizure is not established and no media entry is added.
   - Coordinates are for the Köşk district centre because a more precise location for the Ovaköy business was not published.
   - The nearly 2,000 grams of seized drug substance is not identified as cannabis, so it is excluded from cannabis figures.
   - Saray Medya and Aydın Denge name Aydın Cumhuriyet Başsavcılığı as coordinator while Ses Gazetesi names Efeler Cumhuriyet Başsavcılığı.
-  - No separate raid date is given; the existing report uses its publication date as the incident date.
-  - The pages carry photos whose captions only repeat the headline, so whether any photo shows this seizure is not established and no media entry is listed.
-  - The Aydınpost page is dated 3 November 2026 while the existing report uses 2 November 2026 as the incident date; no separate raid date is given.
   - The Aydınpost page names Efeler Cumhuriyet Başsavcılığı as coordinator, while existing sources differ between Aydın and Efeler Cumhuriyet Başsavcılığı.
-  - The page's photo caption only repeats the headline, so whether it shows this seizure is not established and no media entry is added.
 ---
 
 Aydın Provincial Gendarmerie Command narcotics teams together with Köşk District

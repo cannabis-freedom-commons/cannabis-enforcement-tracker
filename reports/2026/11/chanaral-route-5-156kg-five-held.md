@@ -80,10 +80,7 @@ open_questions:
   - The 1,566,920,000 peso valuation and the 313,384 dose count are Carabineros estimates, not independent figures.
   - The lead photo on the page carries no caption or credit, so it is listed only as the article's lead image and not as confirmed to show the packages.
   - Cell phones and two radio transmitters were seized but their number beyond the two radios is not given.
-  - The submitted page gives no separate date for the vehicle check or the detentions, saying only that the procedure took place over the weekend before its 9 November 2026 publication; it does not resolve the report's existing question about the incident date.
   - The page gives the seizure as 156 kilos and a value of more than 1.5 billion pesos, rounded figures that differ from the precise 156 kg 692 g and 1,566,920,000 pesos in the report; the report keeps the exact police figures.
-  - The submitted page's lead image is a generic stock-style illustration (file named DROGA-WPRSS.png) with no caption or credit tying it to this seizure, so no media entry was added from it.
-  - The report says the earlier PDI seizure of more than two tonnes took place the previous week; the submitted page reports the same, but that seizure is a separate event already recorded.
   - The Radioatacama.cl page gives only its 9 November 2026 publication date and no separate date for the vehicle check or the detentions.
 ---
 

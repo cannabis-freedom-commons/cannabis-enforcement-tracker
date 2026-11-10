@@ -63,7 +63,6 @@ open_questions:
   - The cannabis weight of about 110 grams is approximate as stated by police, and 7Segundos describes the material as substance analogous to marijuana with no laboratory confirmation reported.
   - No court outcome beyond booking for drug trafficking at the Central de Polícia was reported.
   - Both opened accounts repeat the Military Police version; no separate agency statement was opened.
-  - The GazetaWeb page carries two images captioned only Divulgação with no description linking them to this seizure, so no media entry is added from that page.
 ---
 
 Two men were arrested on suspicion of drug trafficking on the afternoon of 8

@@ -73,9 +73,7 @@ open_questions:
   - The prosecutor said publicity was delayed until 3 April 2026 for operational reasons but gave no arrests or destination address in France.
   - RTL Today reported the shipment, like an earlier March seizure at the same hub, was US–France transit freight; no airline or consignee was named.
   - One Luxembourg outlet said the cannabis was destroyed after seizure; the prosecutor’s release only records seizure and a report to the prosecutor’s office.
-  - The page's main image is credited to AFP with no caption linking it to this shipment, so no media entry is included.
   - 'Left out, as its quotation was not found in RTL Infos: The office announced the case on 3 April 2026, saying it could not comment earlier because of operational needs, and that it was still deciding how the inquiry would proceed.'
-  - The page's main image is credited as Chris Karaba/Archives/Illustration and does not show this shipment, so no media entry is included.
   - The article also mentions separate recent seizures at the same airport that belong to other reports and are left out here.
   - The Luxembourg Times names no one arrested for this shipment and gives no consignee in France; the prosecutor's release likewise gives no arrests.
   - The article gives no separate day for the discovery beyond 6 March, and no details of how the cannabis was packed inside the declared bath-towel shipment.

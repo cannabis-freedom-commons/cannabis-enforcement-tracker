@@ -103,15 +103,12 @@ open_questions:
   - Only one local second account of the arrest could be found, and it is a one-line news item.
   - The platform and station are named but not separately geolocated; the coordinates are of Madhupur town.
   - The account gives about 25 kg as an approximate weight, and it is the first source to give any weight for the 11 bundles.
-  - ETV Bharat puts the ganja's value at about ₹13 lakh, while the existing report, from Dainik Bhaskar, gives about ₹12.50 lakh; both are police estimates.
   - ETV Bharat gives no weight in kilograms and no separate date for the arrest; 7 November 2026 is its publication date.
   - ETV Bharat does not report the joint Crime Intelligence Branch involvement described in a local account.
   - ETV Bharat's headline says ₹12 lakh of ganja while its text quotes the RPF inspector putting the value at about ₹13 lakh.
   - Dainik Jagran gives no weight for the ganja, only that it was in 11 packets; the earlier Kashish News account put it at about 25 kg.
-  - The article's publication date of 7 November 2026 is the only date; as in the existing report, the event is taken as the night before, but Jagran does not say when the arrest happened.
   - The page image is a generic hero picture with no caption or credit and is not established to show this seizure.
   - The video page's article text did not load in the capture, leaving only the headline; facts beyond the headline were checked on the text version of the same Dainik Bhaskar article, while quotations here come from the captured video page.
-  - News18 Bengali gives 7 November 2026 at about 02:55 as the time of the check, while the existing report dates the event to 6 November 2026 inferred from earlier publications, so the overnight timing needs reconciling.
   - No court appearance, plea or later case outcome is reported beyond the NDPS Act sections applied by the Madhupur railway police.
 ---
 

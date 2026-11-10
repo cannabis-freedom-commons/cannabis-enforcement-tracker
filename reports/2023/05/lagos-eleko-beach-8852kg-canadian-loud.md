@@ -39,7 +39,6 @@ open_questions:
   - No arrests were reported at the scene; the drivers and escorts escaped into the bush and officers said they were trailing the importer.
   - The same articles report separate 88.3 kg and 58.7 kg seizures in Lagos that week, different events left out here.
   - Outlets call Canadian Loud an imported synthetic strain of cannabis; the opened accounts describe it as cannabis for the domestic market, not a synthetic cannabinoid.
-  - The Business Post page carries a photo labelled Canadian Loud that could not be verified as showing this seizure, so no media entry was added.
 sources:
   - title: "NDLEA Seizes 8.8 Tonnes of 'Canadian Loud' After Duel with Traffickers"
     url: https://businesspost.ng/general/ndlea-seizes-8-8-tonnes-of-canadian-loud-after-duel-with-traffickers/

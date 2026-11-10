@@ -43,7 +43,6 @@ tags: [gendarmeria, procunar]
 open_questions:
   - No later court outcome for the two detained men was reported in the opened sources.
   - Two further people were reported as implicated; whether they were charged is not known.
-  - Photos published by the Gendarmería of the plantation and seized goods could not be visually verified, so no media entry was recorded.
 sources:
   - title: Allanan finca con plantación de marihuana
     url: https://www.argentina.gob.ar/noticias/allanan-finca-con-plantacion-de-marihuana

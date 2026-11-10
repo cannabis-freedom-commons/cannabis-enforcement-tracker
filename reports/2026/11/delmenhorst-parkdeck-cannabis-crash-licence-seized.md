@@ -28,7 +28,6 @@ open_questions:
   - The police statement says high material damage but gives no amount, and it reports no injuries.
   - The driver was identified only as a 20-year-old from Delmenhorst, with no initial, charge or court outcome reported.
   - No second, independent source could be found; the page is the Delmenhorst police statement republished by an aggregator.
-  - The page image is an Adobe Stock placeholder of a car driver, not a picture of this crash, so no media entry is listed.
 ---
 
 On Saturday evening, a traffic crash occurred on the parking deck of a

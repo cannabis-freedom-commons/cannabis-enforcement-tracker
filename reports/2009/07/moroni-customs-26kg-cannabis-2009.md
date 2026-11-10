@@ -55,7 +55,6 @@ open_questions:
   - The woman was never taken into custody; the reports do not say whether she was later found, charged or tried.
   - The 26 million Comorian franc valuation is customs brigade chief Anfane Mohamed's figure; the reports do not state the basis of the estimate.
   - The reports describe the cannabis as about 26 kg of herb in four buckets of more than six kilograms each; no exact weighings of each bucket were given.
-  - Neither page carries a photo caption identifying a picture as this seizure, so no media entry is included.
   - The Al-watwan originals could not be opened directly; the second account is a reprint on a personal blog.
 ---
 

@@ -47,7 +47,6 @@ open_questions:
   - Yaba pills, locally brewed and foreign liquor and Skaf cough syrup are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - The operation ran overnight between 2 and 3 November 2026 and the report uses 2 November as the incident date.
   - Only one accessible source for this 2-3 November operation could be opened; matching reports were found in search but their pages could not be opened and are not cited.
-  - The page photo is captioned only with the operation headline and is not established to show this seizure, so no media entry is included.
   - No arrested person was named and no later court outcome beyond the mobile-court sentences was reported.
 ---
 

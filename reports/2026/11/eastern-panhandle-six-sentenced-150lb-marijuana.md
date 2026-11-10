@@ -55,7 +55,6 @@ open_questions:
   - The combined 37-year total is the sum of the individual federal terms and is not recorded as a single prison figure.
   - No street value was published for the seized marijuana.
   - Rodney Harry Augustine was convicted but will not be sentenced until 2027, so no outcome for him is recorded.
-  - No event-specific photo could be recovered; the submitted page image is a generic courtroom picture and the second page carries only logos, so no media entry is included.
 ---
 
 Six drug traffickers were sentenced to a combined 37 years in federal prison for

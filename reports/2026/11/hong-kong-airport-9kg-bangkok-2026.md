@@ -99,7 +99,6 @@ open_questions:
   - The reported 9 kg weight and HK$1.9 million value are stated as approximations.
   - The drug is described as suspected cannabis buds, with no laboratory confirmation reported.
   - No court outcome beyond the scheduled 6 November mention at West Kowloon Magistrates' Courts was reported.
-  - The published photograph on the on.cc東網 page is captioned only as the arrested person bringing a large quantity of suspected cannabis flowers to Hong Kong, with no credit given, so no separate media entry is added beyond what the existing report holds.
 ---
 
 Hong Kong Customs arrested a 24-year-old mainland male traveller at Hong Kong

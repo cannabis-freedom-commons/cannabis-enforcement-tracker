@@ -39,7 +39,6 @@ open_questions:
   - No figure for the quantity of cannabis possessed was published.
   - The article is a pre-hearing preview published on 3 November 2026; the sentence itself had not been imposed or reported at publication, so the court outcome is unknown.
   - Only one accessible source for this case was opened; a second report could not be opened.
-  - The page image is captioned only as the magistrates' court and does not depict this seizure, arrest or defendant, so no media entry is listed.
 ---
 
 A man was due to be sentenced for offences including possessing a push dagger

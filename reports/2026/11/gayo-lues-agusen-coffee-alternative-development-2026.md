@@ -55,8 +55,6 @@ open_questions:
   - The prices of Rp18,600, Rp68,000 and Rp185,000 a kilogram are agency figures for coffee, not cannabis, and no date is given for the earlier price.
   - The submitted Popularitas.com page and the other accounts reproduce the same BNNP Aceh press release, so they are not independent reporting.
   - BNNP Aceh's own publication of the release could not be opened, and the Serambi/Tribun Aceh accounts returned access errors.
-  - The BNNK Gayo Lues head Fauzul Iman is named in the Suara Aceh account but not in the submitted page.
-  - The submitted page also carries unrelated stock and travel images with no caption, which are not listed as media.
   - A separate 6 November 2026 meeting in Blangkejeren with the Gayo Lues regent about the same programme and a planned presidential visit is a different occasion and is left out here.
   - The text gives an area ("70 hectares") but the figures have no hectares; check whether it belongs there.
   - 'Left out, as its quotation was not found in Suara Aceh: The head of the Gayo Lues district office who accompanied the visit was named as Fauzul Iman.'

@@ -61,7 +61,6 @@ open_questions:
   - The passenger’s identity and any later detention were not reported.
   - Kpédékpo is named both as a locality in Zagnanado commune and as the arrondissement whose police station ran the operation; the sources do not give the station’s exact address.
   - No value for the seized cannabis was reported.
-  - The submitted page’s only image is a Republican Police vehicle, not this seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in Les 4 Vérités: The motorcyclist was placed in custody at the Kpédékpo police station after his arrest.'
   - 'Left out, as its quotation was not found in Les 4 Vérités: Officers acted on instructions from the prosecutor at the Abomey court of first instance.'
 ---

@@ -50,7 +50,6 @@ open_questions:
   - Crack amounts, the unspecified already-portioned drugs, seized cash of R$164 and R$1,364 and phones are mentioned only to explain the same mixed event and are not counted as cannabis figures.
   - The report covers two operations on 29 and 31 October; 31 October is used as the incident date as the latest step.
   - The cannabis link for the 31 October Senhor dos Montes operation is ambiguous because the detailed inventory names crack and unspecified portioned drugs while the second outlet records only crack there, so only the 29 October marijuana seizure is firmly established.
-  - 'The submitted page''s only image is credited as Foto: reprodução internet without showing it depicts this operation, so no media entry is included.'
   - The second outlet's roundup also describes unrelated detentions, a traffic collision, a gun seizure and a homicide that belong to other events and are left out here.
   - 'Left out, as its quotation was not found in RCWTV: The same roundup records the Senhor dos Montes seizure of crack, a precision scale and R$1,364 with the arrest of a 19-year-old and a 24-year-old woman.'
 ---

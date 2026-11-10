@@ -41,7 +41,6 @@ open_questions:
   - Methamphetamine, legend drugs and paraphernalia quantities were not stated, and the combined seizure cannot be separated into a cannabis weight.
   - No court outcome beyond arrest and lodging was reported.
   - Only one source for this event could be opened; no agency statement or second outlet was found.
-  - The only page image is a Gerald S. Baugh III mugshot, which does not show the stop, search or seizure, so no media entry is listed.
 ---
 
 York County Sheriff's Office deputies arrested Gerald S. Baugh III of Stromsburg

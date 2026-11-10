@@ -41,7 +41,6 @@ open_questions:
   - The £85 was prosecution costs, not a fine, so no fine figure is recorded.
   - No arrest details or custody history were published.
   - Only one accessible source for this event was found after searching.
-  - The page image is a generic view of Heaton Park Metrolink Stop credited to TfGM and does not show the seizure, arrest or court, so no media entry is included.
 ---
 
 A 16-year-old boy from Prestwich was given a youth rehabilitation order after

@@ -63,7 +63,6 @@ open_questions:
   - The published value of more than 20 million pesos covers marijuana together with cocaine, ketamine and MDMA, not cannabis alone.
   - No Carabineros or prosecutor statement was opened; both accounts are local news reports.
   - The SoyChile lead photo is captioned only with the headline, and Radar BioBio's images are labelled as Carabineros pictures, so neither was included as a photo of this seizure.
-  - La Tribuna published on 31 October while the existing report is dated 30 October; detention hearings on 29 and 30 October mean part of the operation may have occurred on 29 October.
   - La Tribuna also describes joint Carabineros-PDI vehicle and identity controls in Concepción and an extraordinary round in Arauco, separate events left out here.
 ---
 

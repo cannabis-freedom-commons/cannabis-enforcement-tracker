@@ -81,7 +81,6 @@ open_questions:
   - NewZimbabwe, Pindula, the Sunday Mail column and Ziyah News all draw on the same National Prosecuting Authority account, so they are not independent reporting.
   - Ziyah News links the case to a Beitbridge regional court remand of another Gwanda policeman over dagga, but gives no name, date or quantities, so that case could not be matched to a report.
   - It is not reported whether Maposa remains in the police service or faces internal disciplinary action, and no appeal was reported.
-  - The submitted page's only article image is an undated 2021 file picture of dagga, so no photo of this event is listed.
 ---
 
 Knowledge Maposa, 32, a Zimbabwe Republic Police officer stationed in Gwanda,

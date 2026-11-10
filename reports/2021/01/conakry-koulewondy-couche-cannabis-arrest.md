@@ -56,7 +56,6 @@ open_questions:
   - The name is spelled Couche by two outlets and houche by one; the report uses Couche.
   - No charges, custody decision or court outcome were reported; the special-services investigation for accomplices was still under way.
   - No total value for the 80 grams was published, only the police price of 1 million Guinean francs for 10 grams, so no value figure is recorded.
-  - The Guineematin archive drug photo is captioned as an archive image and its agency banner and official portrait do not establish this seizure, and the Conakryinfos images carry no caption establishing this seizure, so no media entry is included.
 ---
 
 Guinea's special anti-drug services presented a young man accused of drug

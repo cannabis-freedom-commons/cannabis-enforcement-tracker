@@ -52,7 +52,6 @@ sources:
     archived: https://web.archive.org/web/20210805154512/https://www.justice.gov/usao-mt/pr/christopher-wayne-williams-sentenced-us-district-court
 open_questions:
   - No arrests were made in the raids; the later prosecution of the Helena greenhouse's operator is noted above, and other cases' outcomes were not reported.
-  - No photo of the raids with a recoverable direct address was found in the opened sources, so no media entry was added.
 ---
 
 Federal agents raided 26 medical-marijuana dispensaries and grow sites in 13 Montana cities on 14 March 2011, in an operation spanning Belgrade, Big Sky, Billings, Bozeman, Columbia Falls, Dillon, Great Falls, Helena, Kalispell, Miles City, Missoula, Olney and Whitefish. [@1] The Drug Enforcement Administration, Immigration and Customs Enforcement, the Internal Revenue Service, the Bureau of Alcohol, Tobacco, Firearms and Explosives and the Federal Bureau of Investigation took part. [@1] No arrests were made, though the US Attorney asserted probable cause for several federal criminal violations. [@1]

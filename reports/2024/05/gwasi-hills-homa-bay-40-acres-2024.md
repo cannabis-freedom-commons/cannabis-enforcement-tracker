@@ -36,8 +36,6 @@ open_questions:
     publication date, covering about two weeks of operations with the latest find
     on the preceding Saturday.
   - No arrests or cultivators were reported.
-  - The photos on both source pages could not be verified as showing this
-    operation, so no media is listed.
 sources:
   - title: Police In Homa Bay Eradicate And Destroy Over 40 Acres Of Bhang
     url: https://newshub.co.ke/2024/05/27/police-in-homa-bay-eradicate-and-destroy-over-40-acres-of-bhang/

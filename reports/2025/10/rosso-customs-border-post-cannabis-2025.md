@@ -43,7 +43,6 @@ open_questions:
   - The articles give no separate date for the seizure; 16 October 2025 is the publication date of all three accounts and is used as the incident date.
   - MADAR describes the load as 'cannabis indien' and quotes the customs post as calling the quantity 'considerable', without a figure.
   - The Cridem page is a reprint of the Sahara Médias report, so the three accounts rest on one customs Facebook statement; that statement itself could not be opened.
-  - The customs video of the concealed cannabis was described but could not be reached at a direct address, so no media entry is included.
   - A separate 2025 interception of a large cannabis load on the Rosso–Nouakchott road by a national gendarmerie mobile brigade is a different operation and is not covered here.
   - 'Left out, as its quotation was not found in Sahara Médias: The seized cannabis was to be sent on to Nouakchott.'
 ---

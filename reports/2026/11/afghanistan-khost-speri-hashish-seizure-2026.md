@@ -45,7 +45,6 @@ open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate day for the special operation, so the incident date uses the publication date.
   - The article mentions another 1.4 kilograms alongside the hashish without naming its substance in the same sentence, so it is excluded from the cannabis total.
   - The 3,215 pills are described only as narcotic pills with no further identification, so they are not counted as cannabis.
-  - The page carries a lead photo with empty caption and alt text, so whether it shows this seizure cannot be established and no media entry is added.
   - Only one opened source could be used; no second accessible report of the same event was found.
 ---
 

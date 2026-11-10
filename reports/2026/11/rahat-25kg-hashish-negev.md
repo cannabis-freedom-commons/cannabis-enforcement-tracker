@@ -89,8 +89,6 @@ open_questions:
   - The five photographs on the page carry only the article title as their caption and no credit is given.
   - 'Left out, as its quotation was not found in Wazcam: Police said the operations were part of efforts to strengthen law enforcement and security in the Negev towns and to counter illegal weapons, shootings and drug trafficking.'
   - The submitted tag page also lists an earlier Negev weapons operation, dated 25 October 2026 and reporting about NIS 275,000 seized, which is a separate event and was left out.
-  - The page carries operation photographs and a video, but their captions do not confirm they show the hashish car seizure itself, so no new media entry is added.
-  - The page's image is credited only to Israel Police and its caption does not confirm it shows the hashish car seizure itself, so no media entry is added.
 ---
 
 Israeli police said they found about 25 kg of suspected hashish in a car near

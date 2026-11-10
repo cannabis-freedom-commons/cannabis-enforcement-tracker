@@ -33,7 +33,6 @@ open_questions:
   - The former partner is not named and no prosecution of him is reported.
   - No plea, no court record reference and no street value of the cannabis was reported.
   - Only one account of the hearing could be found; Bailiwick Express, Channel 103 and the Government of Jersey did not carry a readable report of it.
-  - The page's only photograph is a file picture of the Magistrate's Court building, not of the event, so no media entry is listed.
 ---
 
 Jade Hopkins, 35, was spared jail after admitting two offences of conveying a

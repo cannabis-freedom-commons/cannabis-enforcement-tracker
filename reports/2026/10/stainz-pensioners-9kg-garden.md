@@ -42,8 +42,6 @@ open_questions:
   - No plant count for the garden plantation was published.
   - The suspects were not named.
   - Coverage used a stock cannabis image; no photograph of this garden or house search was found with a recoverable media address.
-  - The Heute account does not state the suspected offence of commercial drug trafficking, Austrian citizenship or prior drug record recorded in the existing report.
-  - The Heute page carries a photo captioned about the arrests, but the caption and credit alone do not establish that it shows this garden search, so no media entry is included.
 sources:
   - title: Neun Kilo Cannabis bei Pensionisten entdeckt
     url: https://steiermark.orf.at/stories/3377462/

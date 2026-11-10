@@ -44,7 +44,6 @@ open_questions:
   - Although the account says cartridges had been shipped multiple times, it does not give the number or quantities of earlier shipments.
   - No later hearing, disposition or sentence is reported in the opened account.
   - A second full account could not be opened, so the event relies on one accessible source.
-  - The page's available police-lights image and embedded video are not confirmed to show this event, so no media link is included.
 ---
 
 Sayre Borough Police arrested Lea Pudiak, 26, of Sayre, and Alexandra Goodrich,

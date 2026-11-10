@@ -53,7 +53,6 @@ open_questions:
   - The J$36,000 value is described only as the marijuana's value; the article does not say whether police or another authority estimated it.
   - No weight conversion was published; 12.1 lb is converted here to about 5.49 kg.
   - Only one account of this case could be found; no police statement or second outlet reported it.
-  - The article carries no photograph of the seizure or the passenger, so no media entry is listed.
 ---
 
 Police charged Orville McCatty with possession of marijuana and with attempting

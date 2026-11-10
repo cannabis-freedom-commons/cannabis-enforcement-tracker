@@ -71,7 +71,6 @@ open_questions:
   - The arrest is dated Sunday 21 January 2018 from the Baghdad Operations Command statement, while PUKmedia's Interior Ministry mention is dated 23 January, the day the minister spoke.
   - No value for the drugs was published; the 30 million dinar fine is the court's penalty, not a value estimate.
   - The son is named as Jawad Luay al-Yasiri or Jawad Luay Jawad, the name also on the seized access cards.
-  - The submitted page's photographs are credited only to social media, with captions that say Najaf although the arrest was reported in Baghdad's Bayaa district, so no photo is listed as media.
   - Only his son was reported as sentenced; the outcome for the other two members is not reported.
   - A special pardon said to have released him in 2021 was denied by the governor and described as false by Tech 4 Peace, so it is not recorded here.
   - Left out case stage, as its quotation was not found in PUKmedia.

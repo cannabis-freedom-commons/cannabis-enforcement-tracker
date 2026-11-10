@@ -68,7 +68,6 @@ open_questions:
   - The arrest is reported as being for possession of a prohibited weapon; the Guarda gives no charge for the hashish or for trafficking.
   - No court date, term of detention, sentence or value estimate was published.
   - The outlets reproduce the same GNR statement and add little beyond O MINHO naming the weapon a folding knife and calling the stop an “operação stop”.
-  - The submitted page photo is a GNR handout published under a Viana do Castelo seizure filename, but its caption only repeats the headline, so what exactly it depicts is not confirmed; the Semanário Alto Minho copy of the same GNR photo is listed here.
   - The O Minho page photo is credited only to Lusa and carries an “operacao-stop-GNR” filename from March 2026, so it is treated as a generic stand-in and not listed as media.
   - 'Left out, as its quotation was not found in Guarda Nacional Republicana (GNR): Officers seized 25.75 doses of cocaine, described as crack, and ten doses of hashish.'
   - Left out charges, as its quotation was not found in Guarda Nacional Republicana (GNR).

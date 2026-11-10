@@ -62,9 +62,6 @@ open_questions:
     the incident date.
   - Only one source for the transfer and trial-scheduling step could be opened.
   - >-
-    The page carries two images whose captions repeat the headline and do not establish what they depict, so
-    no media entry is listed.
-  - >-
     A similar seizure in Purwakarta is mentioned without figures or dates and is left out here as a separate
     event.
   - >-
@@ -74,9 +71,6 @@ open_questions:
     The article calls the consignment both kuncup bunga ganja and kuncup bunga sintesis cannabinoid while its
     laboratory account describes natural buds for THC-oil extraction, leaving the synthetic wording
     unresolved.
-  - >-
-    No new media entry is listed because the page's single captioned photo appears to republish the BNN
-    seizure handout already recorded for the July seizure.
   - The pretrial challenge is pending in the East Jakarta District Court; no ruling date or outcome is reported.
   - detikJatim dates the hearing to Friday 6 November 2026, while memorandum.co.id and Klik Media Network date it to Thursday 5 November 2026.
   - No outlet publishes the new hearing date.

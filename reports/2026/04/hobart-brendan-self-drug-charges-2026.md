@@ -42,7 +42,6 @@ open_questions:
   - No plea or court outcome beyond adjournment to July 21 had been reported.
   - The year of the July 21 adjournment is inferred as 2026 from the April 2026 hearing.
   - February means February 2026 and September means September 2025 based on the April 2026 publication, with exact trafficking dates of 13 to 18 September given only by Pulse Tasmania.
-  - The submitted page carries photos of Self and the former Uni Bar venue, which do not show a seizure, raid or field, so no media entry is included.
   - 30 April 2026 is the court-hearing and publication date; no separate date was given for the alleged possession.
 ---
 

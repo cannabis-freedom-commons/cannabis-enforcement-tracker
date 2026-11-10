@@ -78,7 +78,6 @@ open_questions:
   - The 17 cases and roughly 2.5 quintals of ganja in a week are a district campaign total covering other arrests and are not counted in this report's figures.
   - The Jansarovar Prime page gives no separate publication date for the report.
   - No direct image address could be recovered for the Dainik Bhaskar photographs from the opened page markup, so only the Hindusthan Samachar photograph is listed; the Bhaskar page remains a cited source.
-  - Vocal TV dates the arrest to Thursday evening 5 November, while Dainik Bhaskar and the police account cited by Jansarovar Prime place it on 4 November, the date the existing report uses.
 ---
 
 Bijuri police arrested a 43-year-old man at the waiting room of the New Bus

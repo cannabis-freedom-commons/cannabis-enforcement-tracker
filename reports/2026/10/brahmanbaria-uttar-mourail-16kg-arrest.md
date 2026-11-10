@@ -59,7 +59,6 @@ sources:
 open_questions:
   - Only one source for this event could be opened, so the account rests on the Dhaka Mail report and the police statements quoted in it.
   - No independent weighing, street value, charge, or court outcome was reported, and police said preparation of a new case was under way.
-  - The submitted page carries a photo with caption '43' that does not establish that it shows this seizure, so it is not listed as media.
 ---
 
 Police in Brahmanbaria town arrested 60-year-old alleged drug dealer Delowar

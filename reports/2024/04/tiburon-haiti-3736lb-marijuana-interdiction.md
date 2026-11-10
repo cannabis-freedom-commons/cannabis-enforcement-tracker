@@ -68,8 +68,6 @@ open_questions:
   - The indictment describes approximately 3,700 pounds, while the Coast Guard and trial accounts give 3,736 pounds; this report uses the precise 3,736-pound figure.
   - The opened accounts schedule sentencing for Orr and Betty on 22 May 2026 but do not report whether it occurred or what sentences were imposed.
   - The opened articles do not report what happened to Rayvon Smith and Sherland Campbell after indictment.
-  - The submitted page’s image is not identified as showing this interdiction, and the opened DVIDS image shows a separate 20 May contraband transfer with the HNMLS Groningen; no event-specific media is included.
-  - The submitted page also mentions a separate cocaine seizure south of St. Croix; it is excluded from this marijuana case.
 ---
 
 The Resolute crew and Coast Guard Cutter Mohawk interdicted one go-fast vessel

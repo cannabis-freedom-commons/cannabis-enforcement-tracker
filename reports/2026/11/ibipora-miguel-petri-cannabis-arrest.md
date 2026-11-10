@@ -52,8 +52,6 @@ open_questions:
   - About 200 grams of cocaine and R$220 in cash are mentioned only to explain the mixed case and are excluded from cannabis figures; the combined total of almost four kilos is not recorded as cannabis.
   - No court outcome beyond the flagrante booking for drug trafficking was reported.
   - Only one accessible source for this event was found after searching in Portuguese.
-  - The page carries an image file named drogas.webp with no caption or credit establishing that it shows this seizure, so no media entry is included.
-  - The Tarobá page carries a photo with empty alt text and no caption or credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Civil Police arrested a man in flagrante at a house in the Miguel Petri

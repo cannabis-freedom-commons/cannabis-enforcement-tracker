@@ -80,7 +80,6 @@ open_questions:
   - No street value was published for the 0.2 grams of dried cannabis.
   - Only one source family (NBC Nagasaki Broadcasting, republished on TBS NEWS DIG and dmenu) was found for this event.
   - The precise street in Nagasaki City where the car was stopped is not named.
-  - The page photo is captioned only with the headline and is not established to show this seizure, so no media entry is included.
   - The Nagasaki Shimbun account says an officer on patrol gave traffic guidance and found the cannabis in the trunk, while NBC Nagasaki Broadcasting reported that officers noticed the car drifting to the inside of a curve and found the dried cannabis in the bag of the man in the passenger seat; the reports may describe different points in the stop.
   - The Nagasaki Shimbun and NBC accounts do not say whether the man was charged or released.
   - The submitted au Web portal capture held only the teaser of the Nagasaki Shimbun story, so its full text could not be quoted; the outlet's own page at news.jp was opened separately.

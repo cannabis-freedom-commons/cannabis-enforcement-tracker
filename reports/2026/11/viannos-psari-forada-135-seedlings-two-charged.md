@@ -53,8 +53,6 @@ open_questions:
   - No weight, cultivated area, street value, or personal names for the two suspects were published.
   - The court outcome after the scheduled statements before the investigating judge is not reported in the opened text.
   - Only one source could be opened, and a search for a second account of the same event found no accessible corroboration.
-  - The lead page image caption repeats the headline and does not establish that it shows this seizure, so no media entry is added.
-  - The Skaikritis page image has no caption or credit confirming it shows this greenhouse seizure, so no media entry is added.
 ---
 
 Two men were arrested for allegedly maintaining a cannabis plantation in the

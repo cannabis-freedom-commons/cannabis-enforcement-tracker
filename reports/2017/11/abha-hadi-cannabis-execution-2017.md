@@ -49,12 +49,10 @@ open_questions:
     Customs Today published the Interior Ministry statement on 22 November saying the execution happened
     "today", while the executions log dates it to 21 November; this report uses 22 November.
   - The quantity of cannabis smuggled was described only as "a quantity of cannabis".
-  - No photo of the execution could be verified, so no media entry was added.
   - >-
     Customs Today published the Interior Ministry statement on 22 November, one day after the execution log
     date used here.
   - The quantity of cannabis Hadi was accused of smuggling was not published.
-  - No photo of the case with a recoverable address was found, so no media entry was added.
   - >-
     Execution logs date the death to 21 November 2017, while another report dates the announcement to 22
     November; the accounts describe the same named man.

@@ -76,7 +76,6 @@ open_questions:
   - The reports name none of the 87 suspects and give no charges or court outcomes for the 71 cases.
   - No value estimate for the drugs was published.
   - The reports do not say where in South Sumatra the cannabis was seized beyond Palembang city police's area, or how the drugs were destroyed.
-  - Sidaknews lists 378 ecstasy pills and 21.3 grams of ganja among the destroyed drugs, while the existing report distinguishes 379 pills seized and 365 destroyed and 21 grams destroyed after set-asides.
 ---
 
 South Sumatra's provincial police destroyed drug evidence in the courtyard of

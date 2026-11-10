@@ -49,7 +49,6 @@ open_questions:
   - The 12 reports include people reported for invading a villa, breaching orders to leave Brescia and irregular presence, not only the man with hashish; no cannabis-specific charge count is broken out.
   - The hashish possession was handled with an administrative sanction rather than a criminal drug charge, and no court outcome is reported.
   - Only one outlet was found reporting these checks; no police statement or second outlet could be opened.
-  - The page image is a generic archive photo of police in the metro, not of these checks, so no media entry is included.
 ---
 
 State Police carried out extraordinary checks in Brescia in the days before 5

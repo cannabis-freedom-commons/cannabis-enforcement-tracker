@@ -49,7 +49,6 @@ open_questions:
   - 'The accounts differ on whose possession the drugs were found in: Vertentes das Gerais says the tablets and the R$20 were with the adolescent, while the Barbacena Online text carried by Central24h describes them only as seized during the stop.'
   - No charges, court dates or court outcome were reported, and none of the three was named.
   - The Barbacena Online report could not be read on its own site and was read as syndicated by Central24h, so the two accounts are not fully independent.
-  - The article's lead photo carries no caption or credit and could not be confirmed to show this seizure, so no media link was added.
 ---
 
 Two men were arrested and an adolescent was apprehended in Barbacena's Santa

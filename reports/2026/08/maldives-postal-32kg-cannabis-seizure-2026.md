@@ -42,7 +42,6 @@ open_questions:
   - The sources say only Saturday; 15 August 2026 is used as the incident date because it was the Saturday before the 18 August publications.
   - No arrests, suspects, origin country or intended recipient were reported.
   - No separate inspection location was named, so the report is placed at country level.
-  - The Edition page carries a featured image with no descriptive caption and the Adhadhu image caption does not establish the pictured cannabis is this seizure, so no media entry is included.
   - The Edition article mentions a separate May 5 airport seizure of about 500g of cannabis and a separate July 29 sea seizure, which belong to other events and are left out here.
   - 'Left out, as its quotation was not found in Adhadhu: The seized substance tested positive for cannabis and weighed over 3.2 kilograms.'
 ---

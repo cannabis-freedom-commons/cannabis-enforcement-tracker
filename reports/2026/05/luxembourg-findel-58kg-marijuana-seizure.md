@@ -66,9 +66,6 @@ open_questions:
   - No arrest, suspect, charge, value or court outcome was reported.
   - The 235 kg figure is the total weight of the inspected benches, not cannabis; figures record only the 58 kg of marijuana.
   - Only one accessible source for this event was found after searching for a second report or prosecutor statement.
-  - The RTL article says the seizure was announced on Tuesday, while the existing report records the disclosure on Wednesday 27 May 2026, the RTL publication date.
-  - The RTL article says nearly 58 kilograms of cannabis, while the existing report records 58 kg of marijuana; the quantity matches as an approximate figure under different substance terms.
-  - The RTL photo credits the Customs and Excise Agency and appears to republish the same vehicle-seat handout already listed from Virgule, so no new media entry is added.
 ---
 
 Customs officers at Luxembourg Airport's Findel Cargo Center intercepted a

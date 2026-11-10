@@ -108,25 +108,8 @@ open_questions:
   - The 6,340 euros is seized cash, not a drug-value estimate, and is not counted in figures.
   - The outcome after referral to the prosecutor, including any detention, charge or trial, was not reported.
   - The lead photo on the Tanea page is not listed as media because its caption and credit do not establish that it shows this seizure.
-  - The page carries a photo captioned only 'narkotika-2-11', which does not establish that it shows this seizure, so no media entry is added.
   - 'Left out, as its quotation was not found in Lawandorder.gr: Case files were opened against the three for drug, weapons and violence-against-officials offences as applicable, and they were taken before the competent prosecutor.'
   - 'Left out, as its quotation was not found in Lawandorder.gr: Police also seized 520 grams of cocaine, a replica pistol, a butterfly knife, three precision scales, packaging materials, a notebook with handwritten notes, five mobile phones and 6,340 euros in cash.'
-  - The submitted page gives only its publication date of 2 November 2026 and no separate incident date, while the existing report dates the event 29 October 2026 from other sources.
-  - The page carries a lead image captioned only with the headline, which does not establish that it shows this seizure, so no media entry is added.
-  - The page image is captioned only as an ELAS police patrol car and does not establish that it shows this seizure, so no media entry is added.
-  - The page's lead image is captioned only 'narkotika-peristeri-ogimage.jpg', which does not establish that it shows this seizure, so no media entry is added.
-  - The To Vima article says the operations happened “last Saturday” relative to its 3 November 2026 publication, while the existing report dates the incident 29 October 2026 from other sources.
-  - No media entry is listed because the page's lead image uses a Shutterstock file with only the headline as caption and does not establish that it shows this seizure.
-  - The ERT article says the arrests happened 'last Saturday' relative to its 3 November 2026 publication, while the existing report dates the incident 29 October 2026 from other sources.
-  - No media entry is listed because the page's lead and body images are captioned only with the headline and no credit establishing that they show this seizure, and the embedded video has no caption establishing that it shows this seizure.
-  - The submitted page says the arrests happened last Saturday relative to its 3 November 2026 publication, while the existing report dates the incident 29 October 2026 from other sources.
-  - No media entry is added because the page's lead image is captioned only with the headline and does not establish that it shows this seizure.
-  - The submitted page gives only its publication date of 3 November 2026 and no separate date for the arrests, while the existing report dates the incident 29 October 2026 from other sources.
-  - No media entry is added because the page's lead image is captioned only with the headline and the author portrait and embedded video do not establish by caption that they show this seizure.
-  - No media entry is added because the page's lead image is a 2023 upload captioned only with the headline and does not establish that it shows this seizure.
-  - The BriefingNews article says the arrests happened last Saturday relative to its 3 November 2026 publication, while the existing report dates the incident 29 October 2026 from other sources.
-  - No media entry is listed because the page's lead image and embedded ERT screenshot are captioned only with the headline and do not establish that they show this seizure, and the embedded video has no caption establishing that it shows this seizure.
-  - No media entry is added because the page's lead image is captioned only with the headline and the video thumbnail caption alone does not establish that it shows this seizure.
 ---
 
 Police arrested three youths aged 14, 17 and 21 in Petroupoli and Peristeri,

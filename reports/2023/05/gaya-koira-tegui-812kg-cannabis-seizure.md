@@ -61,7 +61,6 @@ sources:
 open_questions:
   - Afrik Soir once writes '197 briques' alongside the 917-brick, 812.5 kg account both sources otherwise detail; this report uses the 917-brick figure.
   - No charges or court outcome were reported for the three arrested people.
-  - The submitted page's only listed image illustrates an unrelated seizure in Abobo, Cote d'Ivoire, so no event photo is linked.
 ---
 
 On 6 May 2023, the Gaya departmental branch of Niger's Central Office for the

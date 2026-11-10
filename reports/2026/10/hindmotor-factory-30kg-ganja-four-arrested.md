@@ -84,7 +84,6 @@ open_questions:
   - This account, like Onkar Bangla, says the four were to be produced in court on Friday and that police would seek custody; it does not confirm TheWall's report that they had already been sent to court.
   - This account says five bags full of ganja were recovered and that the exact quantity was still being examined, so it does not confirm the reported 30 kg figure or the eleven-bag packing detail.
   - This account gives no names, origins or court outcome for the four arrested people and says where they came from and interrogation were still being examined.
-  - Whether the Bengali packing phrase means one school bag plus ten shoulder bags or ten bags in total is ambiguous in translation; the existing report follows the eleven-bag reading.
 media:
   - kind: photo
     url: https://www.aaroananda.com/story/latest-news/breaking-news/massive-cannabis-seized-from-closed-hindmotor-factory-four-arrested/11026328

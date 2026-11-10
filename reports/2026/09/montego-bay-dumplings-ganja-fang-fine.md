@@ -52,7 +52,6 @@ open_questions:
   - The $5,000 figure is treated as Jamaican dollars from the Jamaican court context, though the article gives only $.
   - No separate weight per parcel was published beyond six parcels totalling one ounce.
   - Only one accessible source for this event was found after searching, so corroboration was not available.
-  - The page carries an image captioned the same as the headline, which does not establish that it shows this seizure, so no media entry is included.
   - No details about the intended recipient in custody or what happened to the seized ganja were published.
 ---
 

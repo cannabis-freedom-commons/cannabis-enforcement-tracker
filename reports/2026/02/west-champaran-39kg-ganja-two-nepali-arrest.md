@@ -51,7 +51,6 @@ open_questions:
   - The Hindi account's home-address wording mentions Bairiya and Pathraiya police-station names differently from The Times of India's Bairiya police station wording; the report uses Sonbarsa, Parsa without resolving the station-name difference.
   - No charges beyond registration under relevant NDPS Act sections, court outcome, or source and destination of the ganja were reported; questioning was still under way.
   - No valuation, laboratory weight, or cannabis-only street value was published.
-  - The Times of India page carries an image captioned only as 2 from Nepal arrested with 39kg ganja, which does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Bihar Police and the Sashastra Seema Bal arrested two Nepalese nationals near

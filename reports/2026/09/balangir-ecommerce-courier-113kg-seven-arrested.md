@@ -52,7 +52,6 @@ open_questions:
   - The reports do not state NDPS charges or sections, remand or bail outcomes beyond production in court.
   - The cited sources do not name the e-commerce company, referring only to an e-commerce company and its Balangir point.
   - The Indian Express says similar runs occurred four to five times, while OdishaBytes says at least four times in about six months; this report uses at least four times.
-  - No photo with a recoverable direct image address is shown to depict this seizure, so no media entry is included.
 ---
 
 Balangir police busted a cannabis-smuggling operation that used courier services

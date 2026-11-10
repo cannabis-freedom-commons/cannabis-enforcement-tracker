@@ -57,11 +57,8 @@ open_questions:
   - The person was not named, and the article does not say whether the Brăila Tribunal granted the 30-day preventive arrest sought on 6 November.
   - The sums of money in lei and euros found in the searches are not quantified, so no cash figure is recorded.
   - Only one source for this event could be opened; the police and DIICOT press statements were not published by other outlets that were checked.
-  - The page's lead picture has the file name of an older DIICOT human-trafficking case, so no media entry is included.
   - The article does not say where the sales took place or to how many buyers.
   - AGERPRES and Obiectiv Vocea Brăilei both reproduce the same DIICOT Brăila press statement, so they are not independent accounts of the case.
-  - Neither the Brăila outlet nor AGERPRES reports the weight of the cannabis found or traded, whether the 30-day preventive arrest was granted, or the sums of money found; those remain open in the existing report.
-  - AGERPRES describes the substance sold as canabis, cocaină și 3CMC, while Obiectiv and the existing report call it cocaine 3-CMC known as cristal; the synthetic stimulant remains outside the cannabis figures either way.
 ---
 
 Brăila organised-crime police and prosecutors of DIICOT's Brăila territorial

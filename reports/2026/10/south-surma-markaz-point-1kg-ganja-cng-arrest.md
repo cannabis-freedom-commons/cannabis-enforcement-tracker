@@ -39,7 +39,6 @@ open_questions:
   - The ganja is described only by weight; no laboratory testing, packaging detail or street value estimate was published.
   - Daily Sylhet refers to separate police drives in its opening sentence but reports only this one South Surma incident, so no second operation is covered here.
   - The Sylhet outlets reproduce the same SMP media cell statement, so they are not independent accounts of the facts.
-  - The submitted page shows a single uncredited photograph in its hero position, captioned only with the headline, and its direct image address could not be listed as a media entry; no other page offered a confirmable photo of the seizure.
   - No source stated a number of charged people, a plant count, an area or a monetary value for this arrest.
 ---
 

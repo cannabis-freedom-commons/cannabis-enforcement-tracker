@@ -64,7 +64,6 @@ open_questions:
   - The weight of the joint, 0.29 ounces (about 8.2 g), comes from the county attorney and is an approximation.
   - The arrest report gives no speed; ESPN's later account says Smith was stopped for going 51 mph in a 35 mph zone.
   - No prosecutor's filing or jail record was opened; the arrest, charges and bail rest on news outlets citing police reports, the probable cause statement and jail records.
-  - The ESPN page's lead image is a game photograph and the KBTX page carries a booking mugshot; neither shows the traffic stop or the joint, so no media entry is listed.
 ---
 
 Texas A&M senior wide receiver Ainias Smith, 21, was arrested early on Wednesday

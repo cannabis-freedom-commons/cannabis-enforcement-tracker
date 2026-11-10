@@ -38,7 +38,6 @@ open_questions:
   - The identities and ages of the three detainees were not released, and no charges or court outcome beyond referral to judicial authorities were reported.
   - The 20.15 dollars was seized cash, not a drug valuation, so no value is recorded, and the phones and motorcycle are not counted in figures.
   - Only one accessible source for this event was found after searching in Spanish.
-  - The page carries an image without a caption or credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Ecuador's Armed Forces, acting through the Ecuadorian Army, apprehended three

@@ -64,13 +64,9 @@ open_questions:
   - The charas weights are given as approximately 22.4 grams and three grams, so the total is approximate.
   - No case numbers, legal sections, court dates or custody outcomes were published.
   - The article does not say whether the charas was meant for sale or personal use; trafficking is inferred from the police framing of the cases as drug-smuggling operations.
-  - The page's only picture is a 2021 file image of Srinagar carrying a generic headline, so no media entry is included.
   - Only one accessible account of this event was found; web searches returned no second report or police statement.
-  - Kashmir Reader gives approximately 27 as the Dooru suspect's age, matching the existing report's figure.
-  - The Anantnag Police post was published on 6 November 2026, supporting that date for the operations, while the existing report uses the 7 November publication date as a fallback.
   - The page carries a Srinagar Nov 6 dateline but was published on 7 November 2026; the existing Anantnag report uses 7 November as a fallback while the Anantnag Police post cited there points to 6 November for the operations.
   - No weight is given for any Handwara seizure, so no cannabis quantity from Handwara is recorded; the 4 grams of heroin in the Dooru case is not cannabis and is excluded from cannabis totals.
-  - The submitted page lists one image with no caption or credit, so it cannot be established to show this event and no media entry is included.
   - 'Not added to handwara-five-arrests-charas-operations, as its quotation was not found in Daily Excelsior: At Wanigam Crossing, officers held Danish Parvaiz Parra of Budra Bala and recovered a cannabis (Khashkhash)-like substance from him.'
 ---
 

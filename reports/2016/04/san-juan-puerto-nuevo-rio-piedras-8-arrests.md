@@ -41,7 +41,6 @@ open_questions:
   - Only one accessible source for this event was found after searching in Spanish and English, so the account repeats the police version without independent corroboration.
   - The article says the arrests occurred in the early hours of Friday and was published on Friday 29 April 2016, and 29 April 2016 is used as the incident date with no separate event time given.
   - Cocaine, heroin, crack, pills, cash, ammunition, firearms and scanner radios are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
-  - The page image captioned Bolsita droga Chucky carries no credit and is not shown by the text to depict this seizure, so no media entry is included.
 ---
 
 Officers of the San Juan Drugs Division arrested seven men and one woman in the

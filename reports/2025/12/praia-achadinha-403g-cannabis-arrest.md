@@ -55,7 +55,6 @@ open_questions:
   - The seized 130,403 escudos in cash and other objects are not a drug valuation and are not recorded as a value figure.
   - No full names were published for the two detainees, only their sexes and an age range of 32 to 44.
   - No formal trial charge sheet or later outcome beyond pretrial detention was reported.
-  - The Balai page carries a photo file named Apreensao-da-PJ without a caption, credit or alt text establishing that it shows this seizure, so no media entry is included.
 ---
 
 A man and a woman aged 32 to 44 were detained in flagrante delicto by the

@@ -60,7 +60,6 @@ open_questions:
   - The 82 grams in the Tashkent student case is a combined figure for mephedrone, hashish and marijuana, so it is not counted as a cannabis quantity.
   - Daryo.uz says the hashish came from a contact living in Kyrgyzstan, while Podrobno.uz describes only hiding places at given addresses; both accounts agree on the pattern of deliveries left for collection.
   - No charges or court outcome were reported; the accounts describe arrests and ongoing investigation.
-  - The only photo on the submitted page is not shown to depict this seizure.
 ---
 
 Two members of an organised drug group were stopped in Bukhaydin district,

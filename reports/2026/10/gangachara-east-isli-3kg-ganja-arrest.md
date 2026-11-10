@@ -45,7 +45,6 @@ sources:
 open_questions:
   - No court outcome beyond the Narcotics Control Act case filing and handover was reported; further legal steps were described as under way.
   - No valuation of the seized 3 kg of ganja was published, so no value is recorded.
-  - The submitted page photo is captioned only with the headline and marked as a collected image, so it is not established to show this seizure and no media entry is included.
   - Both opened accounts repeat the SRB-13/police version of the raid; no separate non-police account was opened.
 ---
 

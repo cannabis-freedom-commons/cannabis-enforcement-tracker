@@ -61,7 +61,6 @@ open_questions:
   - The source says she was given a curfew as part of a "community order four-month period" and does not state the curfew hours or the full terms.
   - The driving offences are driving above the specified controlled drug limit and driving while disqualified; the round-up does not say the drug in the driving offence was cannabis.
   - Only one accessible account of this hearing was found after searching in English.
-  - The page image is a generic In the Dock graphic credited to NQ staff and does not show this case, so no media entry is included.
   - Other unrelated driving, insurance and theft cases in the same round-up are left out here.
   - Earlier Watford Observer listings name a Claire Vella of the same address in 2024 and 2025 hearings; those are different cases and are not included.
 ---

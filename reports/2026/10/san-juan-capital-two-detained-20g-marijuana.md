@@ -47,7 +47,6 @@ open_questions:
   - The 9 grams of ketamine and one gram of ecstasy are non-cannabis substances and are excluded from the cannabis figures.
   - 22 October 2026 is the outlets' publication date; they describe the arrest as happening that Thursday in the city centre, with no separate incident time given.
   - No charges, court outcome, or finding on the intended use of the drugs was reported.
-  - The source page carries a lead photo captioned only with the headline, so whether it shows this seizure could not be established and no media entry is added.
 ---
 
 Police detained two young men aged 23 and 24 in Capital, San Juan, after they

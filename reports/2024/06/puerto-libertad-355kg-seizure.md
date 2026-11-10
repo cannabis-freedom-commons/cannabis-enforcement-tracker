@@ -45,7 +45,6 @@ open_questions:
   - The value of more than 825 million pesos is the authorities' estimate, recorded here as Argentine pesos.
   - No arrests, identities, charges or later court outcome are reported; those involved fled the scene.
   - Only one accessible account of this event could be opened after search attempts returned no second report.
-  - The government page carries embedded images without captions or descriptive alt text confirming that they show this seizure, so no media entry is included.
 ---
 
 When officers approached and ordered them to stop, those involved abandoned the

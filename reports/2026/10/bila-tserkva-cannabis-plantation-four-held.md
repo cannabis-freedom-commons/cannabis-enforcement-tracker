@@ -96,8 +96,6 @@ open_questions:
   - The 209 plants were seized; the reports do not say whether they were later destroyed.
   - No area or plant count is given for the whole plantation beyond the 209 plants seized on one plot.
   - Four police photos of one detained suspect and the photo of his house are not listed under media because they show a person or a building rather than the plantation or seizure.
-  - The new article says more than 50 kg while the existing report uses about 50 kg from the police account; the existing open question on that wording difference remains.
-  - The page lead image caption only repeats the headline and does not establish that it shows this seizure, so no media entry is added.
   - The article contains unverified editorial claims linking named local deputies and past cases to the plantation, which are not supported as enforcement facts for this event.
 ---
 

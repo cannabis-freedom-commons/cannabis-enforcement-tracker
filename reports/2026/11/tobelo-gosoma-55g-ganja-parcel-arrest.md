@@ -62,13 +62,10 @@ sources:
 open_questions:
   - No charge has been announced; police say FP was taken to the Ditresnarkoba office in North Maluku for examination and further legal process.
   - The three accounts carry the same police statement, so the details rest on one official account rather than independent reporting.
-  - The submitted page names only Kecamatan Tobelo, while Tribun Ternate and Malut Pintar put the arrest in Desa Gosoma, Kecamatan Tobelo; Gosoma is used as the place.
-  - 'The accounts give different dates: the submitted page and Tribun Ternate report a police statement on Friday 6 November 2026, while Malut Pintar dates the arrest to Saturday 31 October 2026; 6 November 2026 is used as the incident date.'
   - The 55.26 grams is a gross weight and the reports do not say whether it was dried flower or included the packaging.
   - The reports do not say which delivery service carried the parcel, where it was sent from, or whether the sender has been identified.
   - No figure for the value of the cannabis itself was published; the Rp 700,000 is the price the suspect said he paid.
   - No court outcome was reported and no case development against the Sukabumi seller has been announced.
-  - The submitted page's lead photo is captioned only as an officer scene in North Halmahera credited Istimewa, without establishing the exact moment it shows.
 ---
 
 North Maluku police's narcotics directorate, Ditresnarkoba Polda Malut, detained

@@ -58,7 +58,6 @@ open_questions:
   - The two detentions are reported for the Havran and Gönen searches together, so responsibility cannot be separated between the cannabis garden and the synthetic-pill vehicle find.
   - No charges, court ruling or later outcome beyond detention and started proceedings were reported.
   - The same Haber7 page also describes separate 25-28 July police operations with 24 suspects and synthetic pills and bonzai; that is a different event left out here and excluded from cannabis figures.
-  - The pages carry images with generic captions that do not establish they show this seizure, so no media entry is included.
 ---
 
 Gendarmerie detained two suspects identified only as Ş.A. and İ.B. in connection

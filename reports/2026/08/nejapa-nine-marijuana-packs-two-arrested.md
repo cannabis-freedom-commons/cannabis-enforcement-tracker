@@ -64,7 +64,6 @@ open_questions:
   - A close-up handcuffs photo on the page is generic and is not established to show this arrest, so it is not listed as media.
   - Infobae identifies the detainees only as Jonathan P. and Bryan A., so their full names in the report continue to rely on its earlier source.
   - This account gives no weight, quantity or street value for the marijuana, so no cannabis kilograms can be recorded and the methamphetamine remains excluded from cannabis figures.
-  - The account says the capture was reported on Tuesday, pointing to 11 August 2026 against its 12 August publication date, while the existing report uses 12 August 2026.
   - No custody ruling, formal charge decision or other court outcome beyond referral for alleged illicit drug trafficking is reported in this account.
 ---
 

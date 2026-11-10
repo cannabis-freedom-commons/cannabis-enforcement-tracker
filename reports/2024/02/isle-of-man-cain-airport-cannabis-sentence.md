@@ -54,7 +54,6 @@ open_questions:
   - The headline refers to £100,000 while the article text reports more than £116,000, and figures use the text figure.
   - The weight is given only as more than 11lbs (5kgs), without an exact laboratory weight.
   - Only one accessible source for this event was opened after search returned no second account.
-  - The BBC page image is described as the Isle of Man Airport and does not show the suitcase, cannabis, search or court action, so no media entry is included.
 ---
 
 Police arrested 36-year-old Richard Cain from Prestwich in Manchester at the

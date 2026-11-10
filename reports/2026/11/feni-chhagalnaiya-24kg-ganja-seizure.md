@@ -90,10 +90,6 @@ open_questions:
     arrest efforts were continuing.
   - No estimated value for the seized cannabis was published.
   - Whether the lead photo on the source page shows this seizure is not established from its caption.
-  - The new source gives only Sunday evening and does not confirm the 6:30 pm time in the existing report.
-  - >-
-    The new source does not mention the tin-shed house, mosque, or the 12 packets of 2 kg each described in
-    the existing report.
   - >-
     Whether the lead photo on the Bangladesh Pratidin page shows this seizure could not be established from
     its caption alone.

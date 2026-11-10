@@ -45,7 +45,6 @@ open_questions:
   - The article gives no names, ages or individual case details beyond the station-level recoveries and arrests.
   - No charges, case registrations or court outcomes are reported for the five suspects.
   - The report says the raids happened on Monday but gives no times or exact durations for them.
-  - The lead image is captioned only with the headline and cannot be confirmed to show this seizure, so no media entry is included.
 ---
 
 Rawalpindi District Police arrested five suspected drug peddlers in separate

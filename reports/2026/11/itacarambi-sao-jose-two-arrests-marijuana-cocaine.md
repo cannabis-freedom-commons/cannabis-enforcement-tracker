@@ -58,7 +58,6 @@ open_questions:
   - The cash seized, R$ 50 from the 19-year-old and R$ 3 from the 22-year-old, totals R$ 53.
   - No charges had been filed and the accounts stop at the two young men being taken to the Civil Police station; whether any arrest was converted into pre-trial detention was not reported.
   - The 28-year-old who escaped the cordon had not been located when the accounts were published.
-  - Both outlets published the same Military Police version of the raid; the WebTerra page and the Jornal Norte de Minas page each carry an uncaptioned picture whose content cannot be established from the page, so no media entry is included.
 ---
 
 Military police arrested two young men, aged 19 and 22, on suspicion of drug

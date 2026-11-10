@@ -72,7 +72,6 @@ open_questions:
   - Only three of the six drug arrests are identified as ganja cases; the other three held yaba pieces only, and the six are counted together as drug arrests as in the earlier Chandpur drive report.
   - No names, ages, charges or court outcomes were reported for the six drug suspects beyond legal action being taken.
   - Only one outlet account of this drive could be opened; no separate police statement was found.
-  - The page carries a photo captioned only with the headline and no credit, so it is not established to show this seizure and no media entry is added.
   - A second outlet, Chandpur Kantho, published the same 44/38/6/25 figures, the same 60 grams of ganja and the same station split for this Saturday 7 November drive, so the account is no longer single-sourced.
   - bdnews24.com and Chandpur Kantho put the figures' release on the morning of Sunday 8 November, while the report's cited account described a night-time release; both may describe the same media cell briefing.
   - 'Left out, as its quotation was not found in চাঁদপুর কণ্ঠ: Chandpur Kantho reported that six drug suspects were arrested in the drive, and placed the 40 grams of ganja and two arrests at Shahrasti, 20 grams and one arrest at Matlab Uttar, and two yaba pieces each at Faridganj and Haimchar.'
@@ -86,7 +85,6 @@ open_questions:
   - Ajker Patrika reports four yaba pieces in total, where other accounts of this drive gave six; yaba is a methamphetamine tablet and does not affect the cannabis figures.
   - Ajker Patrika says the figures were released on Sunday morning by the media cell, while other accounts describe a release on the night of 7 November; both may describe the same briefing.
   - No names, charges or court outcomes for the drug suspects are reported.
-  - The page's only picture shows the Chandpur superintendent of police's office and is captioned as such, not the seizures, so no media entry is added.
 ---
 
 Chandpur district police arrested 44 people in a 24-hour drive, including 38

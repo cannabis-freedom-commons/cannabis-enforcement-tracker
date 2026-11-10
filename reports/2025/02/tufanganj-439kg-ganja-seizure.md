@@ -39,7 +39,6 @@ sources:
 open_questions:
   - The article was published on 2 March 2025 but says the seizure happened on Tuesday, so the incident date is taken as the preceding Tuesday, 25 February 2025.
   - No value, plant count, field area or court outcome beyond registration of the NDPS case was reported.
-  - The page carries four images without captions or credits, so no photo could be confirmed to show this seizure and no media entry is included.
   - No second independent outlet account of this seizure could be opened; a later page repeating the same wording appears to copy this article.
 ---
 

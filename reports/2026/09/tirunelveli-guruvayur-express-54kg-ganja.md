@@ -38,7 +38,6 @@ sources:
     date: 2026-09-13
 open_questions:
   - No second outlet reporting this seizure could be found.
-  - The source page carries only the site's generic image, so no media entry was added.
   - The accused were named as M. Sardar Biswas and K. Urmila Sahoo; their home states were reported only as West Bengal and Odisha, and no court outcome was reported.
 ---
 

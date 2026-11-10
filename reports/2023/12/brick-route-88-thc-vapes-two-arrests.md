@@ -54,7 +54,6 @@ open_questions:
   - The prescription legend drugs and the psilocybin in the charges are named only to explain the mixed case and are excluded from cannabis figures, as no separate quantities were published.
   - No court outcome or further charge after the releases on summonses was reported in the opened accounts.
   - One aggregator summary names sertraline instead of psilocybin for one Prasad charge and says he was released on bail; the police-sourced reports say a controlled dangerous substance in the form of psilocybin and a summons, and this report follows them.
-  - The images on the cited pages are a 2018 file photo of a vape, a 2014 photo of a Brick police car and a television segment thumbnail, none of which shows this raid, so no media entry is included.
 ---
 
 Brick Township police said a lengthy investigation by the department's Street

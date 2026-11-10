@@ -51,8 +51,6 @@ open_questions:
   - The suspect's age was not published.
   - No remand, charge-sheet or court outcome beyond registration of the NDPS case was reported.
   - No value estimate for this 260-gram seizure was published; the 200 rupees cash in the combined accounts belongs to the separate 336-gram seizure.
-  - The submitted page's photo has no caption or alt text establishing that it shows this seizure, so no media entry is included.
-  - The corroborating sources also describe a same-day second arrest of Pankaj Singh with 70 packets and 336 grams, left out here because it is covered by the existing report gonda-kotwali-nagar-336g-ganja.
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Kotwali Nagar police in Gonda arrested Barabanki resident Sandeep Verma near the godown on Kataha Ghat road.'
   - 'Left out, as its quotation was not found in Dainik Bhaskar: The haul comprised 58 small packets holding 210 grams and five large packets holding 50 grams.'
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Police registered a case against Sandeep Verma under Section 8/20 of the NDPS Act and began legal proceedings.'

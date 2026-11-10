@@ -54,10 +54,7 @@ sources:
 open_questions:
   - Public Radio Tulsa says Bassham surrendered Saturday while KTUL says he surrendered and was booked Sunday; 30 August 2026 is used as the arrest date.
   - No cannabis weight, plant count or seizure value was published in the opened reporting.
-  - No event photo with a recoverable direct media address was identified in the opened pages, so no media entry is listed.
   - The investigation was described as still ongoing with no reported court outcome beyond bonding out.
-  - The submitted page writes Solo Extracts while the existing report writes Solos Extracts LLC.
-  - The submitted page's only image is a Tulsa County Sheriff's Office mug-shot portrait of Bassham, not an event photo, so no media entry is listed.
 ---
 
 Ryan Bassham surrendered to authorities after the Tulsa County District

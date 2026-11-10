@@ -43,7 +43,6 @@ open_questions:
   - No charges, custody ruling or court outcome were reported; both men were described only as taken into custody for further investigation.
   - No value, packaging breakdown or flight number for the Cathay Pacific service was published.
   - Only one accessible account of this event was found after searching for the names, airport, route and quantity.
-  - The submitted page's lead image has an empty alt attribute and no caption or credit, so it does not establish that it shows this seizure and no media entry is included.
 ---
 
 Two Indian nationals who had arrived from Bangkok via Hong Kong were arrested on

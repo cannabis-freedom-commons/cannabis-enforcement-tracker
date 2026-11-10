@@ -75,16 +75,12 @@ sources:
     date: 2026-11-09
     language: hi
 open_questions:
-  - The submitted page is a roundup of two separate operations with different dates and no single incident; 7 November 2026, the night of the Tatisilway arrest, is used as the incident date, while the Garhwa recovery was on 8 November.
   - The 441 kg total is the sum of the Garhwa 426 kg and the Tatisilway 15 kg, so it repeats quantities already recorded in their own reports.
   - The page names no single place, so the state of Jharkhand and its centre coordinates are given.
-  - The page's only image is labelled as an AI-generated representation, so no media entry is made.
   - Four arrests in the headline cover only the Tatisilway case; the Garhwa police account names no arrest.
   - The Garhwa value in this PTI account, about 2.13 crore rupees, is higher than the about one crore rupees reported by ETV Bharat for the same 426 kg seizure.
   - The Garhwa case was described as under investigation, with no arrest reported because no one was in the vehicle.
-  - The opened ThePrint text reproduces only the Garhwa part of the PTI roundup; the Tatisilway arrest details come from the other sources cited in the existing report and are not restated here.
   - The Hindi account dates the Garhwa search to Sunday and the train arrest to Saturday night, matching the PTI roundup, while the Tatisilway case was registered on 8 November 2026, so the incident date of the roundup report is kept as 7 November.
-  - The page's only image is labelled in Hindi as an AI-generated symbolic picture, so it does not show the event and no media entry is made.
   - The Hindustan Times page carries the same automated PTI feed text as the other outlets already cited and states that it was generated from an agency feed without modifications, so it is a reprint rather than independent reporting.
   - The opened ThePrint text carries the full PTI roundup, where the roundup report notes earlier that ThePrint gave only the Garhwa part; the full text matches the Rediff and Live Hindustan copies of the same wire item.
   - The Rediff and Live Hindustan pages state the Tatisilway arrest happened on Saturday night and the Garhwa search on Sunday, consistent with the roundup report's 7 November incident date.

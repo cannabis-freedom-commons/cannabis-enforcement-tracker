@@ -71,9 +71,6 @@ open_questions:
   - The two men's names, ages and the charges they face were not published.
   - The outcome of the judicial investigation, including any trial or sentence, is unknown.
   - The investigation was opened to identify possible branches of the network, so others may be implicated.
-  - The new account gives only a lower bound of more than 100 kg, while the existing report records 156 kg; the existing precise figure is retained.
-  - The new account presents the Mauritius destination as conditional and attributed to confrères, while the existing report states it as established after custody.
-  - The page cover image is captioned only as zamal and credited DR, which does not establish that it shows this seizure, so no media entry is included.
   - The new account says inspectors ordered the vessel seizure but does not say whether a court warrant backed it.
   - The LINFO.re accounts give the haul as 'nearly 100 kilos' while the later Imaz Press account gives 156 kg; the report keeps 156 kg and records the earlier lower figure.
   - The page does not say whether the boat that fled was carrying cannabis or whether it was seized.

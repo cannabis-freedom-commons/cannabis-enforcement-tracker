@@ -44,7 +44,6 @@ open_questions:
   - The article says the rider was intercepted and handed to police for investigation without using the word arrested; one detention is recorded as arrested.
   - No charge, custody decision or court outcome was reported.
   - Only one accessible account of the event was found; a social-media snippet for the same Cassis interception could not be opened and is not used.
-  - The page image is titled only traffic sec with no caption linking it to this interception, so no media entry is included.
   - The Defimedia roundup gives no weight or description of the suspected cannabis, and neither account names the rider or reports a charge or court outcome.
   - A news.mu and TOP FM Mauritius post describes the intercepted rider as a 26-year-old living at Pont-Saint-Louis, Pailles, given a piece of about 425 g earlier the same evening, but their pages did not open and that account is not used.
 ---

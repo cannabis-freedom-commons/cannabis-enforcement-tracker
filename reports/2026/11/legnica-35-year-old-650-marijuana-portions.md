@@ -63,10 +63,6 @@ open_questions:
   - The exact street address of the searched flat in Legnica was not named.
   - No court outcome beyond the charge and police supervision was reported.
   - Only one opened source supports this event; no second independent account was found.
-  - The page carries a gallery photo captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
-  - The page carries a photo with the generic caption 414-387641_m credited Fot. KMP w Legnicy, which does not establish that it shows this seizure, so no media entry is added.
-  - The submitted page is dated 3 November 2026 while the existing report is dated 2 November 2026, and neither page gives a separate day for the search, seizure and arrest.
-  - 'The page carries a photo with no caption, described only in the page text as Zdjęcia: KMP Legnica, which does not establish that it shows this seizure, so no media entry is added.'
 ---
 
 Officers from the property-crime department of the Legnica municipal police

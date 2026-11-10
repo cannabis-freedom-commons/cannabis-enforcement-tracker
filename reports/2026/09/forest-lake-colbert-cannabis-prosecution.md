@@ -52,7 +52,6 @@ open_questions:
   - The amount of gold, currency and jewelry was described only as a large amount and is not recorded.
   - No arrest, custody or court outcome beyond charging via summons was reported.
   - Only one accessible source for this event was found; web searches for a second account returned no results.
-  - The page image is a 2023 generic cannabis-jars photo captioned as a Red Lake dispensary and does not show this event, so no media entry is included.
 ---
 
 Gregory Colbert of Forest Lake was charged with two counts of first-degree drug

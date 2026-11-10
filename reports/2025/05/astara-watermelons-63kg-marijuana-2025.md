@@ -49,7 +49,6 @@ open_questions:
   - No suspect, driver, arrest, charge or later court outcome is identified; the accounts say only that an investigation was under way.
   - The reported 63.417 kg includes packaging, so the net weight of the marijuana alone was not stated.
   - No value for the marijuana was reported.
-  - The 1news page includes a lead image and three gallery images, but its text and markup do not establish what each image shows or provide credits; no media entry is included.
 ---
 
 Officers of the Astara Customs Department of Azerbaijan's State Customs

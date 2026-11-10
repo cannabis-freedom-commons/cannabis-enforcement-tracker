@@ -78,15 +78,10 @@ open_questions:
   - Only one openable source was found for this event; the OBN and Cleveland County Sheriff's Office Facebook posts describe the same raid but could not be opened.
   - The page photo is an OBN image published with the article and is not individually captioned beyond the agency credit.
   - KOCO, as relayed in this account, reported 5,300 marijuana plants and over 142 pounds of processed cannabis at the same site, against the 5,356-plant and 142.6-pound figures used in the report; the discrepancy is unresolved.
-  - The article attributes its seizure figures to an Oklahoma Bureau of Narcotics Facebook post that was not opened; the figures match the existing report exactly.
   - The page carries a photo captioned with this seizure, but its file path indicates a 2021 upload, so it was left out as a likely file image rather than a photo of this raid.
   - This source rounds the seizure to 5,300 plants and over 142 pounds, against the 5,356-plant and 142.6-pound figures used in the report; the existing figures stand.
   - This source does not name the site as DTS Group INC, name the arrested person, or report firearms, charges or a court outcome.
-  - Wednesday in this source is read as 4 November 2026, the raid date in the existing report; no separate calendar date is given.
-  - The MSN page mirrors the KOCO article by Jason Burger and carries an image slot with no retrievable caption or alt text confirming it shows this raid, so no media entry is added.
-  - The MSN page is a republication of the same KOKH Fox 25 account already cited in the existing report; its article date is read from the original publication date.
   - The MSN page rounds the seizure to more than 5,300 plants, against the 5,356-plant figure the same article states and the report uses; the precise figure stands.
-  - The MSN page is an aggregator republication of the News9.com article that the existing report already cites, so it is not independent reporting of the raid.
 ---
 
 One person was arrested when Oklahoma narcotics agents seized marijuana at a

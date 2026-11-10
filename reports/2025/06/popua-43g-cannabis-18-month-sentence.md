@@ -50,7 +50,6 @@ open_questions:
   - No separate sentencing date was reported; 24 June 2025 is the publication date of the sentencing report and stands in for the event date.
   - The sentencing article is paywalled beyond its opening summary, so no plea, prior record, seizure circumstances, arrest details, or length of the co-accused’s suspended sentence were reported.
   - No arrest figure, court case number, or value estimate was reported.
-  - No photo or video confirmed to show this seizure or sentencing could be identified, so no media entry is listed.
 ---
 
 Sati’o Matakaiongo, 43, was described as a repeat offender. [@1] He was serving

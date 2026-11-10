@@ -39,7 +39,6 @@ open_questions:
   - Police did not give the weight of the plants or a street value.
   - No charge, court date or outcome was reported.
   - Officers said a body search found the suspect trying to hide an unspecified item in a sock; what it was was not named.
-  - The article's photograph could not be confirmed as showing this arrest, so no media entry is included.
 sources:
   - title: Addis Ababa Police Arrest Suspect Over Cannabis Cultivation Inside Residence
     url: https://www.fsxbusiness.com/addis-ababa-police-arrest-suspect

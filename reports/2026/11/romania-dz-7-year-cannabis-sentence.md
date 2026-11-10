@@ -51,7 +51,6 @@ open_questions:
   - The Dutch one-to-three-week comparison describes prosecution explanations for up to ten grams in the drug category at issue, not all Dutch drug offences, and is not recorded as a figure.
   - The role and any outcome for DZ's wife, who was said to have jointly brought the drugs, were not reported.
   - The original offence date was not given; 20 December 2023 is the final sentence date and 3 November 2026 is the CJEU decision date used as the incident date.
-  - The money.ro page image caption repeats the headline and does not establish what it depicts, and the 2eu.brussels image shows an unrelated 2025 ceremony, so no media entry is listed.
   - Only the two cited reports for this case were opened.
   - 'Left out, as its quotation was not found in 2eu.brussels: On 9 January 2024 the Constanța District Court issued a European Arrest Warrant to enforce that seven-year term.'
 ---

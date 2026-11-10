@@ -87,9 +87,6 @@ open_questions:
   - Police had not decided their roles, and no names, formal charges or court outcome were reported.
   - Kompas links separate earlier Kampung Boncos raids, including ones reported on 14 and 19 October 2026, which are not part of this account.
   - 'Left out, as its quotation was not found in Kompas.com: Kompas reported that the West Jakarta force had support from the National Narcotics Agency, the Criminal Investigation Agency and the Metro Jaya police narcotics directorate for continued operations.'
-  - The Chinese auto-translation renders both seized drugs as Dagma and describes the two men in the wooden bed as suspected of using a heroin-type drug, while the existing report records methamphetamine and marijuana.
-  - The Chinese text writes the locality as Bonoton while the existing report uses Kampung Boncos.
-  - The page photo is the same agency handout already cited from the English VOI version, so no new media entry is added.
 ---
 
 West Jakarta Metro Police, led by chief Kombes Pol Nasriadi, raided Kampung

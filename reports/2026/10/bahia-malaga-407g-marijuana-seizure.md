@@ -74,7 +74,6 @@ open_questions:
   - The same article describes a separate recent Pacific South seizure of 1,620 kg of cocaine and 51 kg of marijuana, left out here as a different event.
   - RCN states that the exact quantities were not specified in the initial report, so the 407 g marijuana figure and the cocaine split remain supported only by the Infobae account.
   - RCN describes the craft only as a clandestine boat or launch in Colombian Pacific waters and does not name Bahía Málaga jurisdiction or a Go Fast type, which remain from the earlier account.
-  - The RCN page carries an Armada-credited photo and an embedded video that may republish the same Navy handout already listed from Infobae, so no new media entry is added to avoid duplicating the same agency material.
 ---
 
 Pacific naval units intercepted a Go Fast boat, a fast smuggling launch, in

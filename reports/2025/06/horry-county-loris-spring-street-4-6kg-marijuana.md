@@ -65,7 +65,6 @@ open_questions:
   - The department did not publish the charges in its statement; the list of charges comes from WPDE's account, and no court date or outcome is reported.
   - The marijuana quantity is stated as approximately 4,663.3 grams, or 10 pounds, of 'marijuana products and flower'; the split between flower and other products is not given.
   - No value estimate for the marijuana alone was published; the $21,599 is cash found and seized, counted as cash, not as a drug valuation.
-  - The department's post has no captions for its photographs, so it is not confirmed which of the seized items each picture shows, and no media entry is listed.
   - WBTW's account of the same raid could not be opened and is not cited.
 ---
 

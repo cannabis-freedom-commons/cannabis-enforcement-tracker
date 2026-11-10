@@ -44,7 +44,6 @@ open_questions:
   - The article says the raid happened on Sunday without giving a calendar date; 1 November 2026 is inferred as the Sunday before its 2 November 2026 publication.
   - No second independent report of this Patahi arrest could be opened.
   - No charges, court outcome, drug value, or additional seizure details were published beyond the arrest, 48 grams and FIR.
-  - The page carries a lead image captioned with the headline, but its file path and metadata indicate a generic Muzaffarpur location graphic, so whether it shows this seizure could not be established and no media entry is added.
 ---
 
 On Sunday, Sadar police in Muzaffarpur raided a shop in Patahi and arrested one

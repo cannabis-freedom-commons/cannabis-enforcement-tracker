@@ -85,11 +85,6 @@ open_questions:
   - No court outcome beyond pretrial prison for the main suspect and provisional release with charges for the second man was reported.
   - The report is dated 1 November 2026, the day of the court decision; the stabbing occurred on 30 October 2026 and the arrests followed shortly after.
   - One outlet page briefly worded the second man's release inconsistently before its editing note confirmed release with charges, which this report uses.
-  - Whether the page's lead image captioned only 'homicidio Plasencia' shows this seizure, raid or court step could not be established, so no media entry is added.
-  - Hespress identifies the victim as 22-year-old Moroccan Imad, a name and nationality not recorded in the existing report.
-  - Hespress does not mention that the hashish was in tablets, a detail in the existing report from Spanish outlets.
-  - The Hespress lead photo is credited only to the Spanish police page with a 2025 upload path, so it is not established to show this seizure and no media entry is added.
-  - The Elhadat 24 lead image is presented only with the article title and no caption or credit establishing it shows this seizure, so no media entry is included.
   - Elhadat 24 reports the cannabis weights without mentioning the two suitcases or hashish tablets described by Spanish outlets, so those details continue to rest on the earlier sources.
 ---
 

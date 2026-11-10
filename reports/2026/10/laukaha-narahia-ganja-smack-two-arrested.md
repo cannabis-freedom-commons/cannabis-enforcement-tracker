@@ -44,7 +44,6 @@ open_questions:
   - The article places the arrest in Laukaha, Madhubani district, but Bhaptiyahi is also the name of a village and Durga temple in neighbouring Supaul district, so the exact spot could not be confirmed.
   - Only one full account could be opened; a Satya News video carries the same headline but no readable report text.
   - The article gives no value for the seized drugs.
-  - The page's only image is a generic Madhubani city banner, not a photograph of the arrest, so no media link is listed.
 ---
 
 Officers from Narahiya police station in Bihar's Madhubani district arrested two

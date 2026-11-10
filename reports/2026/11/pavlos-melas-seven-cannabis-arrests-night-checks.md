@@ -60,7 +60,6 @@ open_questions:
   - The report gives no names or exact ages; only six adults and one minor are counted.
   - No charges beyond violation of the addictive-substances law, and no court outcome, were reported.
   - Only one accessible source for this event was found after searching in Greek and English.
-  - eMakedonia and the submitted page reproduce the same Hellenic Police announcement, so they corroborate rather than independently verify its figures.
   - Pieria24 states that its text was produced by an automated AI system, so it is used only for the attribution of the operation's design to the Sub-directorate for the Protection of Minors.
 ---
 

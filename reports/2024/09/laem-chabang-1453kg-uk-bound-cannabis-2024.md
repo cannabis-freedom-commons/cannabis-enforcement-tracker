@@ -39,7 +39,6 @@ status: verified
 tags: [customs, laem-chabang, uk-route, export]
 open_questions:
   - No arrests or charges against the shippers behind the two consignments were reported.
-  - Photographs of the displayed 1.4-tonne haul were published with the coverage, but no direct image address could be recovered, so no media entry is listed.
 sources:
   - title: Sri Racha Customs Seize Over 1.4 Tons of Cannabis Bound for the UK
     url: https://thailandtv.news/sri-racha-customs-seize-over-1-4-tons-of-cannabis-bound-for-the-uk/

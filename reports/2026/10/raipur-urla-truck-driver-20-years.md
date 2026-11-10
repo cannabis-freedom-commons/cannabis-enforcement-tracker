@@ -81,7 +81,6 @@ open_questions:
   - No photo of the arrest, the truck or the court could be identified among the images on the pages used, so none is listed.
   - IRFAN SA DIWAN v. STATE OF CHHATTISGARH (CaseMine) could not be opened again to check its quotations (The browser page answered HTTP 403.; archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.
   - The reports do not say whether Diwan has appealed the 27 October 2026 sentence.
-  - The page lists an image without a caption or credit, so whether it shows this seizure could not be established and no media is listed.
 ---
 
 A special NDPS court in Raipur sentenced truck driver Irfan Sa Diwan to 20 years

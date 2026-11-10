@@ -54,7 +54,6 @@ open_questions:
   - The exact day of the October 2023 arrest is not stated in the cited sources.
   - The amount of the accompanying fine was not published.
   - The 538.3 grams of methamphetamine and 18.6 grams of cocaine are excluded from the cannabis figures; no combined drug total is counted as cannabis.
-  - The submitted page carries a lead image whose depicted content could not be verified from its caption and the article text, so no media entry is listed.
 ---
 
 A federal judge sentenced Brayan Mauricio Miranda, alias El Pozoles, to five

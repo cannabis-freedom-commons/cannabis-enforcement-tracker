@@ -62,9 +62,7 @@ open_questions:
   - No amount was given for the cash seized, and police did not put a value on the drugs.
   - The reports do not say whether the man has been charged or when he will appear in court.
   - Both accounts relay the same police statement and give the same figures.
-  - The submitted page's only picture is a generic handcuffs image captioned as showing the arrest, with no credit, so it was not confirmed as a photograph of this arrest and was not listed as media.
   - El Balad reports that the man said he kept the weapon to protect his criminal activity, while the existing account, citing Masrawy, says he cited self-defence.
-  - The Al-Ahram page captions its main picture as an archival jail image (حبس - أرشيفية) served from a July 2026 file for this October 2026 arrest, so it is not established to show this seizure and no media entry is included.
 ---
 
 Police in Luxor's Al-Bayadiya district arrested a man in the Al-Habil area,

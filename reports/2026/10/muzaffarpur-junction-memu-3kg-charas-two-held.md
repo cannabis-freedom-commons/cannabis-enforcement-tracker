@@ -62,7 +62,6 @@ open_questions:
   - The seizure weight is reported as approximately 3 kg, not an exact measured figure.
   - The reports do not name the two arrested persons, give their ages or state any remand or court outcome.
   - No separate recovery location for the supplier or breakdown of charas held by each accused was reported.
-  - The submitted page's only image is labelled a representational handcuffs image, so no event photo is listed.
 ---
 
 The Directorate of Revenue Intelligence Muzaffarpur Regional Unit with the Bihar

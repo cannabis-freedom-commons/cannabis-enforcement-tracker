@@ -52,7 +52,6 @@ open_questions:
   - The sources do not give a total number of detained suspects, so no arrested figure is recorded.
   - The 989 g Fergana hashish was reported by NOVA24.UZ as offered for 150 million soms; that value is not recorded as a cannabis street value.
   - The report of more than 26.8 kg seized last year is a separate earlier event and is left out here.
-  - The submitted page carries photographs without captions or credits confirming they show these seizures, so no media entry is listed.
 ---
 
 Uzbek law-enforcement agencies carried out a series of special operations

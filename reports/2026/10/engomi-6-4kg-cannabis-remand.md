@@ -80,14 +80,6 @@ open_questions:
   - No estimate of the cannabis's street value was published.
   - Cyprus Inform dates the taxi driver's detention to 26 October, the day the parcel arrived, while the report follows other accounts that he collected it on 29 October after a controlled delivery.
   - Cyprus Inform describes the 3.836kg as found in a separate search, not in the suspect's vehicle as the report states on the police account.
-  - The only photograph on the Cyprus Inform page is an illustrative stock image of handcuffs, so no media from this page shows the event.
-  - Philenews reports gross weights of 2.56 kilos, about 100 grams and about 3.84 kilos and describes the total only as more than six kilos, while the existing report uses the police total of about 6.4kg.
-  - The new account gives gross weights of about 2.66 kilograms in the parcel and about 3.94 kilograms in the car, totalling nearly 6.6 kilograms, while the existing report uses about 2.56 kilograms and a police total of about 6.4 kilograms.
-  - The new account describes the taxi driver as aged about 60, while the existing report says 62.
-  - The only listed page image is captioned Astinomia 2 (3) with no descriptive caption establishing that it shows this seizure, so no media entry is included.
-  - This account gives the parcel cannabis weight as 2.66 kilograms, while the existing report uses the police statement figure of 2.56 kilograms and a total of about 6.4 kilograms; the existing totals are retained.
-  - This account describes about 1,836 grams plus about two kilograms in the vehicle, implying a total near 6.5 kilograms with the parcel, while the existing report uses about 6.4 kilograms.
-  - No media entry is included because the page images lack descriptive captions establishing that they show this seizure; the header image is only captioned as Header Image.
 ---
 
 A 22-year-old man was remanded in custody for eight days on Friday after police

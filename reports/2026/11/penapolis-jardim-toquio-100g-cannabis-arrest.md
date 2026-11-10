@@ -70,7 +70,6 @@ open_questions:
   - The sources do not give the arrested man's name, age or criminal record.
   - No formal charge wording, custody hearing result or court outcome beyond remaining at the disposal of the courts was reported.
   - The second outlet page carries the edition date of 8 November 2026 with a relative timestamp; 7 November 2026 is used as the incident date from the dated account naming Saturday the 7th.
-  - Only the submitted page's disclosure photo is listed; the second outlet's image could not be confirmed as a distinct photo of this seizure.
   - The Sampi copies across regional editions carry the same text and are not independent reporting, so they do not add a second account of the event.
 ---
 

@@ -39,7 +39,6 @@ open_questions:
   - The exact Crown Court sitting date was not published, so the report uses 10 July 2014, the date of the first sentencing report.
   - Both opened accounts reproduce Hull Daily Mail reporting, so no fully independent second outlet confirms the details.
   - The reports give a street value of 1.5 million pounds without naming who estimated it, so no value figure was recorded.
-  - No verifiable photograph of this raid was available, so no media entry was added.
 sources:
   - title: Two jailed for growing ‘massive’ cannabis farm at former Hardaker’s showroom in Hull
     url: https://softsecrets.com/en-GB/article/two-jailed-growing-lsquomassive-cannabis-farm-former-hardakers-showroom-hull

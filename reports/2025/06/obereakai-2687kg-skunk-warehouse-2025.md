@@ -48,7 +48,6 @@ open_questions:
   - The agency account gives the names as Abraham Anthony Willy and Utibe David Okon, while the second account shortens them to Abraham Anthony and Utibe Okon; this report uses the fuller NDLEA forms.
   - No charges, custody status or court outcome were reported for the three arrested men.
   - The year 2025 for the 12 June raid is taken from the agency statement dated Sunday 15 June 2025, which gives the raid day as Thursday 12 June.
-  - 'No photo establishing this warehouse seizure could be identified: the submitted page images are captioned for the Port Harcourt cocaine case and the second page uses an NDLEA illustration, so no media entry is included.'
   - 'Left out, as its quotation was not found in Peoples Gazette: Those arrested were Friday Achibong Joseph, 47, Abraham Anthony, 21, and Utibe Okon, 24.'
 ---
 

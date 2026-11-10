@@ -51,7 +51,6 @@ sources:
     language: bn
 open_questions:
   - Only one accessible source for this event was found after searching in Bengali and English.
-  - The page image carries no caption, credit or alt text establishing what it shows, so no media entry is listed.
 ---
 
 Officers on an anti-drug mobile-court drive detained 60-year-old Sukumar Saha

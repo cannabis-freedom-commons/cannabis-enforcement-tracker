@@ -42,7 +42,6 @@ open_questions:
   - Only one report of the event could be opened; no second outlet or agency statement for this stop was found.
   - The source counts 42 branches with dried leaves but gives no weight and no number of whole plants, so no kilogram or plant figure is recorded.
   - The two were placed at the disposal of the courts; no charge, hearing date or outcome is reported.
-  - The page's only picture is a generic cannabis illustration with no credit or caption tying it to this case, so no media is listed.
 ---
 
 Two young people aged 19 and 21 were arrested in Jesús María, in Córdoba

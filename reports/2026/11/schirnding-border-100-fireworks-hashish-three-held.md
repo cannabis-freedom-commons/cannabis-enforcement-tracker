@@ -54,7 +54,6 @@ open_questions:
   - The weight of the hashish is not given, so no cannabis weight is recorded.
   - The accounts do not say whether the trio was detained, released or what restraint was applied; the report records the stop and the complaints.
   - Frankenpost and TVO reproduce the same Selb federal police statement, so they are not independent accounts.
-  - The Frankenpost photo is a file picture of confiscated fireworks credited to Archiv/News5 and is not added as a media entry.
   - The driver's THC-positive result concerns driving, not a charge for cannabis possession.
 ---
 

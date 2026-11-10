@@ -50,7 +50,6 @@ sources:
     date: 2024-12-30
 open_questions:
   - No charges or court appearances for the six suspects were reported.
-  - Photos published alongside these reports could not be verified as showing this seizure, so no media entry is added.
 ---
 
 Operatives of the Marine Command of Nigeria's National Drug Law Enforcement

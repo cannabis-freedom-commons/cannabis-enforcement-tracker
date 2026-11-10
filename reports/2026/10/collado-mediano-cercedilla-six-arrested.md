@@ -56,7 +56,6 @@ open_questions:
   - No separate weight for the seized hashish was published, so no cannabis quantity can be recorded.
   - The reported 214 grams of heroin and the 6.151 euros in cash cover non-cannabis or mixed drugs and are therefore excluded from cannabis figures.
   - No charges, custody decisions or court outcomes beyond the alleged offences were reported.
-  - The Cadena SER page carries an image captioned only as a Guardia Civil detention without credit, which is not established to show this seizure, so no media entry from it is included.
   - Both accounts repeat the Guardia Civil version; no independent account beyond agency-based reporting was opened.
   - 'Left out, as its quotation was not found in Europa Press: Officers carried out four entries and searches across the two towns and seized varying quantities of hashish along with cocaine and heroin, precision scales, preparation tools, 6.151 euros and four vehicles.'
 ---

@@ -42,7 +42,6 @@ open_questions:
   - The juvenile was not named and no age or gender beyond juvenile was published.
   - The conviction date was not stated separately; 12 April 2012 is the offence date and 6 August 2012 is the publication date of the report.
   - Only one account of this conviction could be opened, so the facts rest on a single SKNVibes report.
-  - The page carries a generic gavel image (gavel117.jpg) with no caption or credit confirming it shows this case, so no media entry is included.
   - The same page reports a separate juvenile charged with possession of cannabis for an offence on 3 August 2012 and several non-cannabis charges; those are different events left out of this report.
 ---
 

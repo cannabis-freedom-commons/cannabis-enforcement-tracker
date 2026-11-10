@@ -50,7 +50,6 @@ sources:
 open_questions:
   - A confiscation hearing under proceeds-of-crime law was expected next year; its outcome is not in these reports.
   - The new source gives the supply period as 17 February 2022 to 23 April 2026, more precise than but consistent with the existing February 2022 to April 2026 range.
-  - The lead photo on the Bourse Inside page is captioned only with the article title and cannot be confirmed to show this seizure, raid or court, so no media entry is included.
 ---
 
 York Crown Court jailed Benjamin Dack, 28, of no fixed address from the Scarborough area, for four years on 23 October 2026 for a large-scale cannabis supply operation. [@1,2,3] He had pleaded guilty to possessing cannabis with intent to supply on 22 April 2026, being concerned in its supply between February 2022 and April 2026, and possessing criminal property. [@1,2,3]

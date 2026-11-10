@@ -69,7 +69,6 @@ open_questions:
   - The reports do not state separately the sentence imposed for the cannabis charge beyond the $2 000 fine or 18 months in default.
   - Nation News and Barbados Today differ on who was prosecuting counsel and on whose residence was searched; the report follows the Barbados Today sentencing account.
   - The 26 rounds of ammunition and the firearm are non-cannabis matters mentioned only as context for the same event.
-  - The page image captioned Court Today is a generic court illustration reused from March 2025, so no media entry is included.
 ---
 
 Livardo Rogelio Hinds was spared a further prison term when Justice Elwood

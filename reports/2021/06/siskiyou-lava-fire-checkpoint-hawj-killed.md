@@ -37,7 +37,6 @@ tags: [checkpoint, lava-fire]
 open_questions:
   - Witnesses said more than 60 shots were fired and that dash-cam footage was not released; the official and witness accounts were never reconciled.
   - No published account says what happened to the seized cannabis and firearms after the shooting.
-  - Photos or video of the checkpoint scene that could be verified as showing this event were not found, so no media entry was recorded.
 sources:
   - title: Four Cops Cleared of Charges in Fatal Shooting of Man Driving Weed Truck
     url: https://hightimes.com/news/four-cops-cleared-of-charges-in-fatal-shooting-of-man-driving-weed-truck/

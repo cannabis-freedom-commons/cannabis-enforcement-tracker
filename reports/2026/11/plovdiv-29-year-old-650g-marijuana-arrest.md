@@ -64,9 +64,7 @@ open_questions:
   - The 650 grams of marijuana come from the expert examination; the overall figure for all three substances is reported as close to 800 grams by Plovdiv Online and as more than 800 grams by Darik News and BNT.
   - The reports do not say whether anyone was charged or whether a court imposed a measure of restraint; the accounts say only that a pre-trial investigation continues.
   - The articles do not say whether the seven vacuum-sealed packets found on the man are the 650 grams of marijuana counted later.
-  - The submitted page's lead image is a general police photograph the outlet used earlier (its alt text refers to children going to school), not a picture of this seizure, so no photo of the event is listed.
   - Left out arrested, as its quotation was not found in Darik News.
-  - NewsPoint gives the combined figure as about 810 grams while the existing report notes other outlets describing the haul as close to 800 grams or more than 800 grams.
   - Podbalkana repeats the official wording that over 800 grams of drugs were seized, while its own breakdown of 650 grams of marijuana, 120 grams of amphetamine and 40 grams of methamphetamine amounts to about 810 grams.
 ---
 

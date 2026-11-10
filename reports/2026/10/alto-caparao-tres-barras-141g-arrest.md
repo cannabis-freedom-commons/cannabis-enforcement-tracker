@@ -59,7 +59,6 @@ open_questions:
   - Only one source for this event could be opened; no agency statement or second outlet was found to corroborate it.
   - The man was not named and no charge or court outcome beyond transfer to the Civil Police station was published.
   - The page photo has no caption or credit identifying it, though its placement and content show the laid-out seizure.
-  - 'Whether the PMMG handout photo on this page shows the seized drugs could not be established from its Divulgação: PMMG caption alone, so no media entry is added.'
 ---
 
 Military Police arrested a 21-year-old man for drug trafficking on Saturday 31

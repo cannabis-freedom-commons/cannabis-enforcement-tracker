@@ -49,7 +49,6 @@ open_questions:
   - The first account says the magistrates appearance was yesterday relative to its 30 October 2026 publication, and the second and third accounts give the explicit date of 29 October 2026 used here.
   - The year of the 30 November Crown Court hearing was not stated and 2026 is inferred from the October 2026 arrest and charge.
   - No court outcome beyond remand was reported; the charge is an allegation.
-  - The only published photo shows the exterior of Caernarfon Magistrates' Court and does not show this arrest, seizure or hearing, so no media entry is included.
   - The first account prints agd 31, understood as aged 31 and confirmed as 31-year-old by the other accounts.
 ---
 

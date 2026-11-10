@@ -50,7 +50,6 @@ open_questions:
   - No court outcome beyond the expected 19 May appearance was reported.
   - The N$188 500 figure is the crime report's valuation as published, not an independently confirmed value.
   - Only one accessible source for this event was found after searching in English.
-  - The submitted page carries unrelated images, including a generic crime-police logo and a Luderitz council story, so no media of this seizure is listed.
 ---
 
 Two men were arrested at Katutura on Saturday after being found in possession of

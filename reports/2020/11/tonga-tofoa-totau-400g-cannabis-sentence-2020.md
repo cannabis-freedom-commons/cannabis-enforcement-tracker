@@ -58,14 +58,12 @@ sources:
     publisher: Matangi Tonga
     date: 2020-11-04
 open_questions:
-  - The submitted page shows only its lead sentence behind a subscription notice; the rest of the account comes from Matangi Tonga's own print view of the same article.
   - The two Matangi Tonga accounts spell the co-driver's name differently, Likamanu Faka'osi in this article and Likamani Fa'aoso in the 4 November report; the tracker's Poutaha report uses Fa'aoso.
   - The article does not identify the other charges arising from the 30 March 2020 vehicle search on which Totau pleaded not guilty, or say how or when they were resolved.
   - The weight of the cannabis seized at the Tofoa home is given only as 400.37 grams for the possession count; the article does not give a separate breakdown.
   - The amount of cash found in a pillow and the number of small plastic bags were not stated.
   - The article does not name the conditions attached to the suspension or say when Totau was taken into custody.
   - No second outlet's account of this sentencing was found; Kaniva Tonga's November 2020 archive has no report on it.
-  - The page's image is a prison-van photograph first uploaded in February 2019, not a picture of this case, so no media entry is included.
 ---
 
 Matangi Tonga reported the case under the headline that a dealer who sold

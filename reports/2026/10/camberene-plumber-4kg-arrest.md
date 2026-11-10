@@ -37,7 +37,6 @@ created_by_model: unknown
 tags: [dakar]
 open_questions:
   - Only one reporting chain for this arrest could be opened, as Senego attributes its account to Kawtef.
-  - The photo on the source page could not be verified to show this seizure, so no media entry was added.
   - Whether the prosecutor charged the suspect or the named supplier and intermediary were arrested is not yet known.
 sources:
   - title: Cambérène, un plombier de 25 ans interpellé avec quatre kilos de chanvre indien

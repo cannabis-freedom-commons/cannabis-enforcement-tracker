@@ -111,14 +111,9 @@ open_questions:
   - The 9-case and 160-case totals refer to wider Yangmei drug-driving enforcement since 31 October and this year, not to this two-stop event.
   - Both opened accounts repeat the Yangmei police account; no separate agency statement was opened.
   - 'Left out, as its quotation was not found in 蕃新聞: Yangmei Branch said 9 drug-driving cases had been logged since tougher penalties took effect on 31 October, with 160 recorded this year.'
-  - This account writes the second positive as 安非他命, literally amphetamine, while the existing report renders it as methamphetamine; the distinction needs a laboratory result to resolve.
-  - This account names only Huandong Road and does not repeat the house number No. 10 given in the existing report, so that detail rests on the earlier sources alone.
   - 'Left out, as its quotation was not found in 自由時報電子報: Yangmei Precinct officers on patrol in Yangmei District on 3 November stopped two drivers for traffic violations and arrested both after drug saliva screenings came back positive, sending both cases to the Taoyuan prosecutors on drug and public-danger allegations.'
-  - This account gives only Zhongshan Road for the second stop, without the lane number given in the existing report.
-  - This account writes the second positive for both drivers as 安非他命, literally amphetamine, while the existing report renders it as methamphetamine; the distinction needs a laboratory result to resolve.
   - This account repeats the branch statement that nine drug-driving cases have been logged since the new system took effect on 31 October, with 160 this year; those totals cover wider Yangmei enforcement, not this two-stop event.
   - This mirror is the same Taoyuan Electronic News text already cited elsewhere, not an independent account of the stops.
-  - The article gives no house number for the first stop on Huandong Road, which the existing report records from earlier sources.
   - No cannabis weight was published; the cannabis finding rests on a roadside saliva screening, and the heroin reported on the motorcyclist was not quantified.
 ---
 

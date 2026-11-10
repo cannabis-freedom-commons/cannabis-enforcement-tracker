@@ -61,7 +61,6 @@ sources:
 open_questions:
   - The articles give only their publication date of 25 August 2025 and no separate day for the raid; 25 August 2025 is used as the incident date.
   - It is unclear whether the reported 26 kilos and 145 grams includes the 12 green plants or only the dried leaves and seeds, so both figures are recorded separately as stated.
-  - The Bhaskar English page carries a lead photo with no caption or credit, and the Sandesh photo caption only repeats the headline, so neither image could be established to show this event and no media entry is listed.
   - Sandesh reports one other accused declared wanted, but neither source names that person or gives charges beyond the NDPS case against Raman Patanwadiya.
 ---
 

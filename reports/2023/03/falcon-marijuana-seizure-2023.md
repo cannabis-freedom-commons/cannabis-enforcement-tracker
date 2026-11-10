@@ -52,7 +52,6 @@ open_questions:
   - No arrests or other people involved in this recovery are reported.
   - The precise point along Falcon's coast is not identified.
   - The sources do not identify this cargo's specific origin or intended destination.
-  - 'No media entry is included: the submitted page''s first image is a September 2022 agency handout from a different seizure and its second image is a route map, neither showing this recovery, and no direct image address for the commander''s post was recoverable.'
   - The same article also describes a separate 2.5-ton Maicao truck seizure, a December 2022 3.4-ton seizure, September-December 2022 operations, and a 2022 annual total of about 10 tons, left out here as different events and national statistics.
 ---
 

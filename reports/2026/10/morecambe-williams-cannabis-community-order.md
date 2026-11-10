@@ -46,7 +46,6 @@ open_questions:
   - No weight for the cannabis was published.
   - The reports do not say whether Williams was arrested at the February stop or charged later.
   - The sentencing itself was reported by the Lancashire Telegraph only; the Chester and District Standard report covers the earlier plea hearing.
-  - The only images on the two pages show Chester Magistrates' Court, not the offence or sentencing, so no media is linked.
   - 'Left out, as its quotation was not found in Chester and District Standard: Magistrates said the next sentencing bench could send him to the crown court after an all-options report if it wished.'
 ---
 

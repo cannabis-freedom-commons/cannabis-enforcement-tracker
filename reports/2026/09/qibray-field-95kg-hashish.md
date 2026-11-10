@@ -80,7 +80,6 @@ open_questions:
   - The detained people were not named and no court outcome is reported.
   - The UzDaily account attributes the Customs Committee statement to Gazeta rather than reporting it independently.
   - UzDaily describes the stakeout as more than a week while the report uses eight days from Gazeta; no separate interception date is given.
-  - The UzDaily page carries a Customs Committee press-service photo of the seizure whose distinctness from the Gazeta handout already in the report is not established, so no new media entry is added.
   - It is not established whether the Daryo photographs credited to the Customs Committee of Uzbekistan show different views from the Gazeta handout already in the report.
 ---
 

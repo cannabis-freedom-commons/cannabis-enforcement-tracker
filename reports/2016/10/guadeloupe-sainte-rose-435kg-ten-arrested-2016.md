@@ -72,7 +72,6 @@ open_questions:
   - The sources give the night of 11 to 12 October 2016 or a seizure 'during the night of Tuesday and Wednesday'; 11 October is used as the incident date.
   - The sources say the ten suspects were placed under formal investigation and jailed but do not report the charges they face or the outcome of the Fort-de-France JIRS trial beyond its opening on 28 January 2019.
   - Le Parisien's page refers to 'les abords de la page de Deshaies', evidently meaning the approaches to Deshaies, but the precise stopping point is not stated.
-  - The submitted page's own photos show unrelated stories (a Normandy refinery, a Côte-d'Or assize court, other cases), so only the France-Antilles picture of the seized pistol is listed as media.
 ---
 
 Anti-narcotics officers of the OCRTIS, France's central office against illicit

@@ -62,11 +62,9 @@ open_questions:
   - The men's full names were not published, only their ages.
   - No charge, custody decision or court outcome beyond the opened pre-trial proceedings was reported.
   - The same source reports unrelated weekend incidents, including chimney fires and a driver who tested positive for cannabis at Chernoochene, which are different events left out here.
-  - The submitted page image carries no caption tying it to this seizure, and the 24rodopi photo is credited to a photographer without a caption, so no media entries are included.
   - All accounts repeat the same Kardzhali police statement; no independent account could be opened.
   - 'Left out, as its quotation was not found in Ministry of Interior, Kardzhali Directorate: The Interior Ministry''s Kardzhali directorate bulletin lists the two detentions among its weekend reports.'
   - The Haskovo.Net account repeats the same Kardzhali police statement as the earlier sources and gives no weight for the 22-year-old's cannabis.
-  - The submitted page image has no caption linking it to the seizure, so no media entry is added.
 ---
 
 Police in Kardzhali detained two men on cannabis possession charges during a

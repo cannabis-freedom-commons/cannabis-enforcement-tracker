@@ -45,7 +45,6 @@ open_questions:
   - The 3.57 grams of brown sugar and the combined seizure list are mentioned only to explain the mixed event and are excluded from the cannabis figures.
   - The 7,196 rupees in cash is not recorded as a drug value because the source does not present it as an official valuation.
   - No court outcome beyond the registered NDPS case was reported.
-  - The page image is dated August 2025 with a generic caption and is not established to show this seizure, so no media entry is included.
 ---
 
 Police raided a grocery shop in Barni village in Bhojpur's Charpokhari

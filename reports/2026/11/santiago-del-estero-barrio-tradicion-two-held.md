@@ -49,10 +49,7 @@ open_questions:
   - No amount was published for the cash seized, so no value can be recorded.
   - The names, ages and charges of the two detained men were not reported.
   - No separate event date was published; 3 November 2026 is the publication date of both accounts and is used as the incident date.
-  - No media entry is included because the available images carry only the article headline as caption and do not verifiably show this seizure.
   - 'Left out, as its quotation was not found in Nuevo Diario Web: A second account likewise reports 60 cocaine packets and 20 marijuana packets allegedly prepared for sale.'
-  - Info del Estero spells the judge Améstegui, while the existing report uses Amestegui from Diario Panorama; the accent is the only difference.
-  - The Info del Estero page image is captioned only with Avenida Colón y Japón and is not established to show the seizure itself, so no media entry is included.
 ---
 
 Federal police detained two men in an afternoon operation against retail drug

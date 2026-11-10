@@ -250,9 +250,6 @@ open_questions:
   - >-
     The exact day of the operation is inferred as 1 November 2026 from the article's 'yesterday evening'
     relative to its 2 November 2026 publication; no separate calendar date for the raid is given.
-  - >-
-    Whether the Son Dakika page photo is distinct from the IHA photo already listed on the existing report or
-    the same agency handout republished is not established.
   - The submitted article gives no separate calendar date for the raid; 2026-11-02 is its publication date.
   - >-
     The submitted article does not name the detained suspect, describe the vehicle as a van, or give the
@@ -280,20 +277,11 @@ open_questions:
     The article does not name the detained suspect, describe the vehicle as a van, or give the driver initials
     Ü.A. reported elsewhere.
   - >-
-    Whether the page photo is distinct from photos already listed or repeats the same agency handout is not
-    established, so no media entry is added.
-  - >-
-    The submitted article gives only its publication date of 2 November 2026 and no separate calendar date for
-    the raid; 1 November 2026 is the inferred date used by the existing report.
-  - >-
     The submitted article does not describe the vehicle as a van, name the driver or give the initials Ü.A.
     reported elsewhere.
   - >-
     The submitted article describes the vehicle only as a suspicious vehicle and does not give the van
     description or driver initials Ü.A. reported elsewhere.
-  - >-
-    Whether the lead page photo captioned only with the headline shows this seizure could not be established
-    from its caption or credit, so no media entry is added.
   - >-
     The submitted article gives only its publication date of 2 November 2026 and no separate calendar date for
     the raid.
@@ -301,76 +289,28 @@ open_questions:
     The submitted article describes the vehicle only as a suspicious vehicle and does not describe it as a van
     or name the driver initials Ü.A. reported elsewhere.
   - >-
-    Whether the page lead photo captioned only with the headline shows this seizure could not be established
-    from its caption or credit, so no media entry is added.
-  - >-
-    The page gives only its publication date of 2 November 2026; the existing report infers 1 November 2026
-    from yesterday wording, which this page also uses.
-  - >-
-    The page carries a lead image captioned only with the headline, so whether it shows this seizure could not
-    be established and no media entry is added.
-  - >-
     No charge, court decision, origin, destination or distribution detail beyond the expected courthouse
     referral is reported.
   - >-
     The page is dated 2 November 2026 and says the follow happened dün, so 1 November 2026 is inferred as the
     operation day with no separate calendar date given.
-  - >-
-    Whether the lead image captioned only with the headline shows this seizure could not be established from
-    its caption or credit, so no media entry is added.
-  - >-
-    The İLKHA page lead photo is captioned only with the headline, so whether it shows this seizure could not
-    be established and no media entry is added.
   - This page gives only its 2 November 2026 publication date and no separate calendar date for the raid.
   - >-
     This page describes the vehicle only as a suspicious vehicle rather than the van detailed elsewhere, and
     names no suspect.
   - >-
-    Whether the Aksiyon lead photo captioned only with the headline shows this Pendik seizure could not be
-    established from its caption or credit, so no media entry is added.
-  - >-
-    Whether the Mersin Haber lead photo captioned only with the seizure summary shows this Pendik seizure
-    could not be established from its caption or credit, so no media entry is added.
-  - >-
     The Gazete Pano article gives only its 2 November 2026 publication date and no separate calendar date for
     the raid.
-  - >-
-    Whether the Gazete Pano lead image captioned only as featured shows this seizure could not be established
-    from its caption or credit, so no media entry is added.
   - >-
     Left out, as its quotation was not found in Gazete Pano: The operation was carried out by the Istanbul
     Narcotic Crimes Combating Branch, the city’s anti-drug police unit, as part of its ongoing work against
     drug trafficking.
   - >-
-    Whether the Haber Olsun page photo shows this Pendik seizure could not be established from its truncated
-    caption, so no media entry is added.
-  - >-
-    The Bursa News page gives only its publication date of 2 November 2026 and no separate calendar date for
-    the raid, while the existing report infers 1 November 2026 from yesterday wording in other accounts.
-  - >-
     The Bursa News page describes the vehicle only as a suspicious vehicle and names no suspect, so it does
     not corroborate the van description or driver initials Ü.A. recorded elsewhere.
   - >-
-    Whether the page lead image shows this seizure could not be established from its caption, which is empty,
-    so no media entry is added.
-  - >-
     The Mudanya Gazetesi page gives only its 2 November 2026 publication date and no separate calendar date
     for the raid.
-  - >-
-    The page describes the vehicle only as a suspicious vehicle and does not confirm the van description or
-    driver initials Ü.A. recorded in the existing report.
-  - >-
-    The page lead image has empty alt text and no caption establishing it shows this seizure, so no media
-    entry is added.
-  - >-
-    The submitted article gives only its publication date of 2 November 2026 and no separate calendar date for
-    the raid; the existing report infers 1 November 2026 from yesterday-evening wording in other accounts.
-  - >-
-    The submitted article describes the vehicle only as a suspicious vehicle and does not confirm the
-    closed-box van description or the driver initials Ü.A. recorded in the existing report.
-  - >-
-    The page lead image is captioned only with the headline, so whether it shows this seizure could not be
-    established and no media entry is added.
   - >-
     The exact day and time of the operation are given only as yesterday evening relative to the 2 November
     2026 reports, so 1 November 2026 is inferred.
@@ -390,26 +330,14 @@ open_questions:
     Police had not disclosed the origin or destination of the load or whether the suspect belonged to a larger
     drug network.
   - No details about the arrested person or the specific suspicion against him were reported.
-  - >-
-    The CrimeNieuws page carries an image file, but its caption and surrounding text do not establish that it
-    shows this seizure, so no media entry is added.
   - The page gives only its publication date of 2 November 2026 and no separate day for the vehicle check.
   - The readable text is truncated after stating the drugs were in the car and were fully seized.
   - >-
     The title mentions a truck while the readable text describes a car, so the vehicle type beyond suspicious
     vehicle is not resolved by this page.
   - >-
-    Whether the lead image captioned only with the headline shows this seizure could not be established, so no
-    media entry is added.
-  - >-
     The article is dated 2 November 2026 but says the surveillance and truck stop happened 'dün' (yesterday),
     leaving 1 November versus 2 November as the check date unresolved.
-  - >-
-    The new account describes a closed-box truck while the existing report text says car, so the vehicle type
-    remains unresolved.
-  - >-
-    The lead image caption repeats only the headline, so whether it shows this seizure could not be
-    established and no media entry is added.
   - The article gives no separate date for the vehicle search; 2 November 2026 is its publication date.
   - No identity, charge or custody outcome for the detained suspect was reported.
   - No origin or destination of the vehicle and no court follow-up were reported.

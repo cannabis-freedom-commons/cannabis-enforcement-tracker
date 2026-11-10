@@ -69,7 +69,6 @@ open_questions:
   - The Demerara Waves account does not say whether the cannabis in the car belonged to the two people arrested at the property or to the car's occupants, and it links the four arrests only loosely to the two finds.
   - No charge or court outcome was reported for Andre Clarke, Eon Martin or Anesia Isfehani beyond the withdrawn charge.
   - The parcels were described in some accounts as cannabis including seeds and stems; the articles do not say whether the material was dried flower or resin.
-  - The photo published with the Demerara Waves report is captioned only with the names of the suspects and the street, so no media entry is added.
   - The sentencing dates for the cocaine component of the same operation were not published in the accounts available here.
   - 'Left out, as its quotation was not found in Demerara Waves Online News- Guyana: The driver Singh pleaded guilty to having 1.542 kilograms (3.3 pounds) of Cannabis sativa for the purpose of trafficking.'
   - 'Left out, as its quotation was not found in Demerara Waves Online News- Guyana: After the guilty plea, the charge against Isfehani was withdrawn and she was freed.'

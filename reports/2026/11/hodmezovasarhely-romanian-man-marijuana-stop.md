@@ -44,7 +44,6 @@ open_questions:
   - It is not stated whether the plant debris and the marijuana named are the same find, or whether the THC-positive test reflects that find or earlier use.
   - No charge, court ruling or outcome of the criminal case was reported; the only step published is that he was questioned as a suspect.
   - A separate stop's property offence is mentioned only to explain why officers approached him, and is not part of the cannabis figures.
-  - Délmagyar published an illustration photo, not a picture of the stop, so no media entry was recorded.
   - 'Left out, as its quotation was not found in Délmagyar: Délmagyar reported the same stop the same day, citing the county police statement, and gave no further detail.'
 ---
 

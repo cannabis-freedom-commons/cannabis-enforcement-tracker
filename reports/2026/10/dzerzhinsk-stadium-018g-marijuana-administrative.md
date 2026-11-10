@@ -69,7 +69,6 @@ open_questions:
   - The exact stadium is not named, so the coordinates are for the town of Dzerzhinsk rather than the detention spot.
   - The full police release on the Nizhny Novgorod interior ministry website could not be opened; the fuller wording of the statement is taken from the Nn-news.net reprint of it.
   - The outlets all reproduce the same regional police statement, so they are not independent reporting.
-  - The submitted page's cover photo is captioned only with the headline and is not confirmed to show this detention or the seized wrap, so no media entry is listed.
 ---
 
 Police in Dzerzhinsk, Nizhny Novgorod Oblast, detained a 38-year-old local man

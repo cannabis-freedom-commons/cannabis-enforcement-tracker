@@ -56,7 +56,6 @@ open_questions:
   - One outlet spells the search site Douar Oulad Aissa and another Douar Oulad Issa; the LesEco spelling is used in the report.
   - No charges, trial or court outcome beyond police custody and planned presentation to the courts were reported.
   - All three accounts repeat the DGSN statement relayed by MAP; no independent non-police account was found.
-  - No usable event photo is listed because the submitted page's captured image is a site banner not shown to depict this seizure.
 ---
 
 Nador's judicial police seized about 15 tonnes of hashish on Monday and arrested

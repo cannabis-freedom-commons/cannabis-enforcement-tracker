@@ -48,7 +48,6 @@ sources:
 open_questions:
   - The articles give only the publication date of 11 May 2018 and no separate date for the raids, so that date is used as the incident date.
   - The suspects are identified only by the initials A.P. and Ç.C.; their full names were not published.
-  - The lead photos on both pages carry only the generic operation title as caption, so whether they show this seizure could not be established and no media entry is added.
   - No court outcome beyond release under judicial control was reported.
 ---
 

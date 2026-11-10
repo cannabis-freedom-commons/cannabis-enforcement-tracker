@@ -69,7 +69,6 @@ open_questions:
   - The BBC does not state the weight of the cannabis, only its £3,638 value; the 181.9 grams comes from Manx Radio and Isle of Man Today.
   - Isle of Man Today reported a basis of plea that 8.3 grams of the cannabis was for personal use, leaving 173.6 grams relating to supply, and that he was addicted to pregabalin; the BBC's account of the plea does not qualify the amounts.
   - The pregabalin tablets and their value are excluded from cannabis figures as a separate substance; the BBC and Isle of Man Today give slightly different tablet and value breakdowns.
-  - No photo of the cannabis, the car, the home or the courtroom was published on the opened pages, so no media entry is listed.
 ---
 
 Adam Johnson, 26, of Cronk Y Voddy on the Isle of Man, was given an 11-month

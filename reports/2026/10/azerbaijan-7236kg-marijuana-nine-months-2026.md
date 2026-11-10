@@ -51,7 +51,6 @@ open_questions:
   - The 8.4-tonne total and AZN 246 million value cover all drugs and psychotropic substances, so only the separately stated marijuana, hashish and plant counts are recorded as cannabis figures.
   - The 6,443 kg Interior Ministry figure covers all drugs and is reported separately from the all-agency 8.4-tonne total.
   - 30 October 2026 is used as the incident date; the reports cover January–September 2026 and were published on 29–30 October 2026.
-  - The Report.az page image uses a 2025 file photo and is not established to show these seizures, so no media entry is included.
   - No substance-specific breakdown or court outcomes for the 4,352 people beyond criminal liability were published.
   - The existing January–August 2026 report is a separate eight-month total and is not updated here.
 ---

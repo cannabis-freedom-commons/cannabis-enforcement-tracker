@@ -96,7 +96,6 @@ open_questions:
   - The national police statement was reproduced with nearly identical wording by the outlets cited, so they are not independent confirmations.
   - The European Press text on this page repeats the agency wording already cited and gives no separate hashish and marijuana weights, so the report's combined 350-gram figure and its cannabis split stay open.
   - This account also gives no separate hashish and marijuana weights, so the cannabis share of the roughly 350 grams remains unknown.
-  - The photographs on this page show a police emblem and the Astorga National Police station building, not the seizure, so no media was added from it.
   - Diario de León, published through the Ical agency, repeats the government office and Europa Press wording almost verbatim and gives no separate hashish and marijuana weights, so the cannabis share of the roughly 350 grams remains unknown.
   - No district or address is given for the police check or the searched flat in Astorga, so the town-centre coordinates remain the most precise place recorded.
   - La Nueva Crónica gives the same combined figures as the statement it repeats and still no separate hashish and marijuana weights, so the cannabis share of the roughly 350 grams remains unknown.
@@ -105,7 +104,6 @@ open_questions:
   - The police handout photo carried by iLeón shows the seized substances and tools but its credit is not printed on the page.
   - The article gives no separate weights for the hashish and marijuana inside the roughly 350 grams, which mixes cannabis with cocaine, so no cannabis-only weight can be recorded.
   - No separate date is given for the check, arrests or house search; 9 November 2026 is the article's publication date and is used as the incident date.
-  - The page lists an image at detenidos-astorga.jpeg with no caption or credit confirming it shows this seizure, and a second image that appears to be an advertisement, so no media entry is added.
 ---
 
 Spain's National Police detained two men in Astorga, in León province, on

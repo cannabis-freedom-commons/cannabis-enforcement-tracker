@@ -44,7 +44,6 @@ open_questions:
   - Tramadol, Rohypnol, codeine medicines, nitrous oxide, Benylin with Codeine and suspected cocaine are mentioned to explain the mixed operation and are excluded from cannabis figures.
   - The 192 total includes non-cannabis arrests, including three suspected vigilante members; the explicitly cannabis-linked arrests are four in the Eastern Region.
   - No charges or court outcomes were reported; all suspects were in custody assisting investigations.
-  - The page carried five photos with empty alt text and no captions, which do not establish that they show this event, so no media entry is included.
 ---
 
 Ghana's IGP Special Operations Team arrested 192 suspects during

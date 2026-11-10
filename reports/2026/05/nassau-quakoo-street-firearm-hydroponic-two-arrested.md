@@ -54,7 +54,6 @@ open_questions:
   - The article gives no charge, court date or outcome, and does not say whether anyone was detained over the abandoned house.
   - The article does not specify the full date beyond the word Wednesday; 20 May 2026 is taken from announcements of the same police report circulated on Wednesday 20 May 2026.
   - The only opened account is the Eye Witness News report of the police preliminary statement; the Royal Bahamas Police Force daily crime report page for the incident could not be opened.
-  - The submitted page carries only a social-media headline graphic, not a photo of the raid or the seizure, so no media is listed.
 ---
 
 A 29-year-old woman and a 47-year-old man were arrested after a police operation

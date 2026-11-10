@@ -62,7 +62,6 @@ open_questions:
   - No amount is published for the cash seized with the drugs.
   - No weight beyond the 30-gram figure in the second source is independently confirmed.
   - No appeal or later court outcome is reported in the opened sources.
-  - The submitted page uses an archive/generic image rather than a confirmed photo of this arrest or hearing, so no media entry is linked.
 ---
 
 The Cairo Criminal Court sentenced a cafe worker (قهوجي) to one year in prison

@@ -31,7 +31,6 @@ open_questions:
   - The article gives no separate date for the court appearance or the arrest; 8 September 2021 is the article's publication date and is used as the incident date, and the reference to a long weekend in custody places the arrest a few days earlier.
   - No figure for the dagga seized from the women was published in the accessible text, so no weight is recorded.
   - Only one account of this court appearance could be found, and it sits behind a paywall.
-  - The photograph on the page shows people in what appears to be a courtroom, but the page gives no caption or credit tying it to this case, so no media entry is included.
 ---
 
 Eight women were arrested and charged with being found in possession of dagga

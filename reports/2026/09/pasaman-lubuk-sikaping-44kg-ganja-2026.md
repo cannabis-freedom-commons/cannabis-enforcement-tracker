@@ -48,7 +48,6 @@ open_questions:
   - The article gives no breakdown of weight by sack and no net weight for cannabis in the black plastic bags, which it describes only as a number of packages.
   - No values were published for the cash seized, so no cash amount is recorded.
   - The article does not say how many of the three were formally charged or when they will appear in court.
-  - The page's single photo has no caption or credit and cannot be confirmed to show this seizure, so no media entry is listed.
   - The page's metadata describes the language as English, but the article text is in Indonesian.
 ---
 

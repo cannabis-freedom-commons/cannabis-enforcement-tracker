@@ -50,7 +50,6 @@ open_questions:
   - The sources report results for the whole of October and give no dates or places for individual seizures; 31 October is the announcement date used here.
   - No names, charges, court dates or custody decisions were reported for the 29 detainees.
   - El Reporte Diario's text closely follows BioBioChile's earlier report, so the two accounts are not independent.
-  - Neither page published a photograph of the October operations; BioBioChile's image is a file photo labelled 'Contexto', and the submitted page's lead image is titled 'portada-990' with no caption or credit.
   - Both reports say the load was valued 'en el mercado legal' (on the legal market), an unusual formulation repeated here as published.
   - The text gives a weight ("2,200 kg") but the figures have no kg_seized; check whether it belongs there.
   - 'Left out, as its quotation was not found in BioBioChile: Carabineros'' unit statistics put the whole load''s value on the legal market at more than 4,500 million Chilean pesos.'

@@ -46,7 +46,6 @@ sources:
     date: 2016-05-27
 open_questions:
   - The kilogram figure covers only dried cannabis, resin and hashish; edibles, oils, drinks and other products are described in the text because their cannabis content was not separated.
-  - No photo of the raids or the seized goods with a recoverable direct address was found in the opened sources, so no media entry was added.
 ---
 
 At noon on 26 May 2016 the Toronto Police Service executed 43 search warrants at storefront cannabis distributors across the city in an operation it called Project Claudia. [@1] Ninety people were arrested, with 186 possession-for-the-purpose-of-trafficking charges and 71 proceeds-of-crime charges laid. [@1] Police said they seized 270 kg of dried cannabis, 30 kg of resin, 25 kg of hashish, 27 kg of pills, 73 kg of chocolate, 142 kg of cookies, 129 kg of candies, 101 kg of bars, 127 kg of oils and spreads and 121 kg of other by-products, plus 135 e-cigarettes and 457 drinks. [@1] Just under $160,000 in cash was displayed at the force's news conference, and officers said 23 grams of powdered cocaine were also found at one location. [@2]

@@ -61,7 +61,6 @@ open_questions:
   - The sources report no arrests, charges or prosecutions arising from the warrants, and say an undisclosed amount of cash was seized without a figure.
   - The reported product weight is described as finished or processed marijuana; the county ordinance permits only indoor cultivation of six plants, which explains why outdoor grows were treated as illegal.
   - The Univision gallery caption refers to 'órdenes de arresto' (arrest warrants) while its text and the sheriff's statement describe search warrants; the text's search warrants are used.
-  - The Univision photo gallery carries images credited only to the Merced County Sheriff's Office with no direct image caption tying each photo to this operation, so no media entry is added.
 ---
 
 Deputies with the Merced County Sheriff’s Office developed information about

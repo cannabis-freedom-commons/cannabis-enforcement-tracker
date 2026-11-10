@@ -45,7 +45,6 @@ open_questions:
   - No illicit-market value for the seized marijuana was published.
   - No charge, bail or court outcome beyond the formal arrest under the NDPS Act was reported.
   - Only one source account of this Goswami seizure could be opened, so no second report corroborates it.
-  - The page carries a lead photo captioned with the headline, but its caption, credit and older file path do not establish that it shows this seizure, so no media entry is added.
 ---
 
 Mumbai Airport Customs arrested 29-year-old carrier P. Goswami and seized

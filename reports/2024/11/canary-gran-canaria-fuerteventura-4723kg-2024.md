@@ -37,7 +37,6 @@ tags: [hashish, canary-islands, dgst, inflatable-boats]
 open_questions:
   - NewsLooks dates the operation to 12 November; the local account dates the interception to 2 November with court custody on 4 November, which this report follows.
   - Whether the four arrested crew members were convicted was not in these reports.
-  - The lead photograph on the local report could not be confirmed as showing this interception from the text, so no media entry was added.
 sources:
   - title: Four crew members arrested with more than 4 tons of hashish in Gran Canaria
     url: https://www.maspalomas24h.uk/Article/7316/Four-crew-members-arrested-with-more-than-4-tons-of-hashish-in-Gran-Canaria

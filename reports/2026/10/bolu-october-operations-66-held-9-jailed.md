@@ -61,7 +61,6 @@ open_questions:
   - Bonzai is the Turkish term for synthetic cannabinoid and is out of scope, so its weights and materials are not counted.
   - No names, charges or later court outcomes beyond the nine remands were reported.
   - Only one accessible source for this event was found; no second outlet or agency statement could be opened.
-  - The page carries two images, but their captions do not establish that they show this seizure, so no media entry is included.
   - The Safak Gazetesi page credits IHA as its source, so the two corroborating accounts are not fully independent of each other.
   - The new accounts also report province-wide October totals of 1,052 suspects and 82 remands across narcotics, public-order, wanted-person, smuggling and migration work, which remain outside this narcotics-component report.
 ---

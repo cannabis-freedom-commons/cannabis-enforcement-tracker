@@ -38,7 +38,6 @@ open_questions:
   - The sources describe a check and handover to police for criminal review but do not state an arrest, detention, charge or court outcome.
   - The sources give only Halloween night for the controls; 31 October 2026 is used as the incident date while both pages were published on 4 November 2026.
   - The Aachener Zeitung page is paywalled beyond its intro and first paragraph, so detailed facts rely on the city statement.
-  - The only image on the submitted page is generic Halloween imagery from Rheinland-Pfalz credited to Martin Schutt/dpa, not this seizure, so no media entry is included.
 ---
 
 Düren's municipal public-order service ran reinforced controls across the city

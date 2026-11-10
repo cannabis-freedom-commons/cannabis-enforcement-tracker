@@ -120,20 +120,8 @@ open_questions:
   - No street value for the marijuana was published.
   - No court outcome beyond the arrest was reported.
   - The Primocanale page gives only its publication date of 3 November 2026 and no separate incident day; 27 October relies on the Imperiapost account and existing sources.
-  - The Primocanale page carries an image with no caption or credit establishing that it shows this seizure, so no media entry is added.
-  - The page carries a lead photo captioned L'intervento della Finanza al valico di Ventimiglia, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
-  - The Riviera24 page labels its image as archive material, so no media entry from this source is added.
-  - This account gives no separate incident date; 3 November 2026 is its publication date, while the existing report dates the event to 27 October on other accounts.
-  - This account does not state the driver's nationality; Italian nationality relies on the existing report's other sources.
-  - The page photo captioned as a GdF check at the border crossing is not established to show this seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in Liguria Notizie: The driver had tried to evade the check by steering toward the outer exit lanes and gave contradictory, evasive accounts of a trip to Spain.'
-  - The page carries a lead photo captioned Fermato a Ventimiglia mentre rientra dalla Spagna con 30 kg di marijuana, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
-  - The page carries an image from a June 2024 upload with no caption or credit establishing that it shows this 27 October 2026 seizure, so no media entry is added.
   - 'Left out, as its quotation was not found in Agenzia giornalistica Opinione: The driver had tried to evade the check by steering toward the outer exit lanes and gave contradictory, evasive accounts of a trip to Spain.'
-  - The page carries a photo captioned only finanza with no credit or detail establishing that it shows this seizure, so no media entry is added.
-  - This account gives no separate incident date; 3 November 2026 is its publication date, while 27 October relies on the existing report's other accounts.
-  - The page carries a lead photo with no caption, alt text or credit establishing that it shows this seizure, so no media entry is added.
-  - The page carries a lead photo with alt text matching the headline but no caption or credit establishing that it shows this seizure, so no media entry is added.
 ---
 
 On 27 October, Guardia di Finanza dog-unit officers of the Ventimiglia company

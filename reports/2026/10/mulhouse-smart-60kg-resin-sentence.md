@@ -57,7 +57,6 @@ open_questions:
   - The man's name was not published, and neither report says whether he appealed.
   - The exact weight was reported only as almost 60 kg.
   - It is not clear whether the 2019 drug-transport conviction reported by Ouest-France is the earlier Spanish conviction mentioned by L'Alsace.
-  - Both articles used generic illustrations, not photographs of the seizure or the hearing, so no media are listed.
   - L'Alsace's account was cut by its paywall after the first paragraphs; the 10-year territorial ban and the €177,260 customs fine come from Ouest-France alone.
 ---
 

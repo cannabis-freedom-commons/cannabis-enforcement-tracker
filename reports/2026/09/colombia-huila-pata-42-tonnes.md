@@ -70,7 +70,6 @@ open_questions:
   - The Yahoo/EFE page gives only its 27 September publication date and says the presidency reported on Sunday, giving no separate operation hour, so the existing 26 September incident date gains no independent confirmation from this source.
   - This source does not name the Patá toll booth, the Inzá–Bogotá route, the alleged Cauca trafficking organisation or any peso valuation, so those existing details gain no corroboration here.
   - The closing paragraph reports a separate 24-hour tally of 19 arrests, 907 kilos of drugs and destroyed dredges and motors, a different event left out of this match.
-  - No event photo could be verified from the opened text, which shows a region-blocked video without a caption establishing that any thumbnail shows this seizure, so no media entry is included.
   - Infobae gives no separate interception date beyond its 27 September publication, so the existing 26 September incident date rests on the earlier Caracol Radio and El Heraldo reporting rather than on this source.
   - Infobae does not name the Patá toll booth, the Inzá–Bogotá route, the alleged Cauca organisation or the police's roughly 1 billion peso valuation, so those existing details gain no corroboration from this source.
   - Infobae also reports a separate 1,498 kg cocaine seizure on the Meta river in Vichada on 25 September, a different event left out here.

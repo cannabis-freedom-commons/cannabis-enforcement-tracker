@@ -91,7 +91,6 @@ open_questions:
   - The page displays an evidence-collage photo, but it was not added as media because it appears to repeat the same agency handout already linked from the İHA report and its distinctness could not be established from captions alone.
   - The KaradenizGazete page credits İHA and repeats the same agency text already cited, so it provides corroboration but no independent second account.
   - The page image is not added as media because its caption does not establish that it shows this seizure distinctly from the agency handout already linked in the report.
-  - The Gazete Pano page image is captioned only as featured and is not established to show this seizure, so no media entry is included.
 ---
 
 Gendarmerie teams stopped the vehicle driven by 24-year-old O.B. at about 15:00

@@ -56,7 +56,6 @@ sources:
     date: 2026-11-07
     language: es
 open_questions:
-  - Neither article gives the date of the raids; 7 November 2026, the date Alerta Digital published the police account, is used as the incident date, and the submitted page appeared a day later.
   - No weight or count was given for the marijuana plants in the three sacks, which were in the process of drying, so only the 296 grams of buds are recorded as cannabis weight.
   - The two detainees were identified only as adult men, and neither report says whether they were held, released or charged.
   - Police did not say whether the drug seizure led to new charges or court measures; the disclosed case is the investigation into the October damage and injury complaint, and no hearing or court outcome was reported.

@@ -47,7 +47,6 @@ open_questions:
   - The 1,200-pound figure converts to about 544.31 kg; the kilogram figure is a conversion, as both sources weighed the ganja in pounds.
   - The articles give no description of the vehicle's occupants or where the ganja was being taken; no one was reported arrested or charged.
   - The Observer reports four barrels of gasoline seized with the ganja, but police gave no explanation of their purpose.
-  - 'Neither page carries a photo of this seizure: the Observer''s lead image has no caption tying it to the find and the Gleaner''s is labelled a file photo, so no media entry is listed.'
 ---
 
 Officers of the Firearm and Narcotics Investigation Division found a Nissan

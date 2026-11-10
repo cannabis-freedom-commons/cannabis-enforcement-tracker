@@ -53,7 +53,6 @@ sources:
     language: ar
 open_questions:
   - The operation is dated only as 'yesterday' in reports published on 30 October 2026, so the report dates it 29 October.
-  - The only picture on the submitted page is labelled an illustrative photo, not a photograph of this operation, so no image is linked.
   - The three reports use closely similar wording and may derive from a single police statement rather than independent reporting.
   - No street value was published for the 28 kilograms.
   - The suspects are not named, and no trial date or outcome beyond pre-trial detention is reported.

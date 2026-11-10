@@ -49,7 +49,6 @@ open_questions:
   - No amount of cannabis found or seized was published, so no cannabis weight can be recorded.
   - The man was not named in the accounts consulted.
   - No court outcome beyond the scheduled 20 July immediate-appearance hearing was reported in these sources.
-  - The only page image is explicitly captioned as an illustration from a 2021 police operation, not this event, so no media entry is included.
 ---
 
 On 16 July 2026, officers from the Police-Secours brigade in Le Port intervened

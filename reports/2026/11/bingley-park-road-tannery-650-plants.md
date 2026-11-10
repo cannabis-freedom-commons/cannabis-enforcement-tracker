@@ -74,7 +74,6 @@ open_questions:
   - The sources give the raid day only as Sunday; 1 November 2026 is inferred from the 2 November 2026 publication dates.
   - The exact time of the Sunday raid and the date of the December Leeds Crown Court hearing were not published.
   - The names and ages of the two charged men were not published.
-  - A second image on the submitted page carries no caption, so whether it shows this seizure could not be established and it is not listed as media.
 ---
 
 West Yorkshire Police attended the Park Road Tannery on Clyde Street in Bingley

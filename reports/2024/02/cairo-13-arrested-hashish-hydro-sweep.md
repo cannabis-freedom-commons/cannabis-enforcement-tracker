@@ -49,7 +49,6 @@ open_questions:
   - An unspecified quantity of hashish mixed with heroin in al-Shorouk cannot be separated and is omitted from kilograms.
   - The headline total of 25 kg covers all drugs together, including heroin, ice, voodoo and pills, and is therefore not recorded as cannabis.
   - Heroin, ice and 12,030 Parkinol pills are mentioned only to explain the mixed sweep and are excluded from cannabis figures.
-  - Although the title promises photos, no event photo with a recoverable direct image address was found in the opened pages, so no media entry is included.
 ---
 
 Cairo detectives arrested 13 alleged drug traders in districts across the

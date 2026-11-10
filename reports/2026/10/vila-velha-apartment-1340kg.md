@@ -102,8 +102,6 @@ open_questions:
   - Diário do Estado said the Military Police command estimated the street loss at at least R$ 2 million; the reports already cited did not publish a value, so that figure was not added.
   - The same article said the three were indicted under Article 33 of the Drug Law and that preventive detention would be sought in the coming days; earlier reports recorded only the in-the-act arrests, so that later step was not added.
   - The image on the page is a headline graphic, not a photograph of the cannabis or the raid, and was not added.
-  - This account reports only more than 1.3 tonnes and does not give the 1,340 kg figure used in the existing report.
-  - The page image carries no caption or credit establishing that it shows this seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in Sudeste Agora: The Military Police suspect the cannabis came from another state to be sold in Espírito Santo; the three did not say where it came from.'
 ---
 

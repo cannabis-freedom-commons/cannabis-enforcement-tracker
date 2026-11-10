@@ -47,7 +47,6 @@ open_questions:
   - The account rests on WKRN News 2's video and a Yahoo News syndication of its article; no independent outlet report was found.
   - The number and severity of the injuries in the three-vehicle crash were not reported.
   - The reports give the intersection but no street number; the coordinates used are Nashville's city centre.
-  - Neither the video page nor the syndicated article captions its image, so no photo could be confirmed to show the arrest and no media is listed.
 ---
 
 A 19-year-old driver was arrested in Nashville on Sunday 18 October 2026. [@2]

@@ -53,11 +53,8 @@ open_questions:
   - The weight and field size are lower bounds only, reported as more than 30 kg and more than one hectare.
   - The article says the field was discovered but does not state that the plants were uprooted or destroyed.
   - The arrested worker and the fugitive owner are not named, and no charge or court outcome was reported.
-  - The page's only image is a generic 2023 Police républicaine vehicle photo, not this operation, so no media entry is included.
   - The cited 15 kg harvested plus about 200 kg of plants still standing are presented as preliminary local-media figures needing confirmation by the competent authorities, so they are not counted as settled kilograms and sit uneasily beside the confirmed more than 30 kg total.
-  - The page's only image is a generic 2018 Police républicaine photo captioned Des agents de la police républicaine, not this operation, so no media entry is included.
   - The July operations at Ouidah, Djougou and Ouassa-Péhunco and the June arrests at Agla in Cotonou mentioned for context are separate events left out of this report.
-  - The transfer of the case file to the judicial authorities and the description of workers simulating ordinary farming appear in the existing report's earlier source but are not repeated in this account.
 ---
 
 Around 6 a.m. on 27 August 2026, officers of the Oké-Owo border police station

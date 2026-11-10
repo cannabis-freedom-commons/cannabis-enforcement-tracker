@@ -56,7 +56,6 @@ open_questions:
   - No cannabis-only fine or value was reported, and the court case reference is not given.
   - None of the 15 people is named, and the sources do not separate how many faced hashish charges alone.
   - Pajhwok and Kabul Tribune both restate one Supreme Court announcement; no independently gathered account was found.
-  - The Pajhwok page photo is a generic court image with no caption tying it to this hearing, so no media entry is included.
 ---
 
 Kabul's primary court for the prevention of narcotics and alcoholic beverages

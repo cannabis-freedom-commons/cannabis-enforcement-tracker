@@ -55,7 +55,6 @@ open_questions:
   - No charge, custody decision or court outcome was reported; the cannabis and the envelope were held for the investigation.
   - The 200,000 CFA francs was alleged bribe money held as evidence, not a cannabis valuation, so no value is recorded.
   - Le Courrier du Vietnam places Ouaké in western Benin while Banouto places Sèmèrè in north-western Benin; the report uses the commune description.
-  - The opened pages carry no photograph showing this seizure, only advertisements and unrelated images, so no media entry is included.
 ---
 
 The Sèmèrè district police station seized a cannabis load from a minibus at dawn

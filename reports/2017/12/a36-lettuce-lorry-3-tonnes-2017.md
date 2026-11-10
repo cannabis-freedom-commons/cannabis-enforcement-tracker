@@ -48,7 +48,6 @@ sources:
 open_questions:
   - The report names the A36 motorway but not the toll station where the lorry was searched.
   - "HortiDaily's account cites RFI's reporting, so the two sources are not fully independent."
-  - No photo of this seizure was found, so no media entry is recorded.
 ---
 
 French anti-drug police seized about three tonnes of cannabis from a lorry

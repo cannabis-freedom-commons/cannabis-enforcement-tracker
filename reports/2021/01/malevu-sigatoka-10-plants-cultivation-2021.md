@@ -52,7 +52,6 @@ open_questions:
   - The article does not say whether the ten plants were seized and kept as evidence or destroyed; they are recorded as plants destroyed under the tracker's convention for seized plants.
   - The accused's name, plea, lawyer and any later court outcome were not reported.
   - No weight, area or value of the plants was published.
-  - The one image on the page is credited to the stock agency 123RF and does not show this event, so no media entry is given.
 ---
 
 A 40-year-old man appeared at the Nadi Magistrates Court on 6 January 2021,

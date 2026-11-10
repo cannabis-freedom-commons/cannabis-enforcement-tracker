@@ -54,7 +54,6 @@ open_questions:
   - The marijuana amount is given only as more than or over 200 pounds, so the 90.72 kg figure is the converted 200-pound minimum, not an exact weight.
   - The reports do not say whether the Warren facility held a state cannabis licence.
   - No court outcome beyond the scheduled 29 October probable cause conference has been reported.
-  - No photo could be verified as showing this event itself, so no media entry is listed; the prosecutor page shows defendant mugshots and the MLive lead image caption does not establish it depicts the facility, seizure or arrests.
 ---
 
 Six people from Detroit were charged over an alleged armed robbery at a

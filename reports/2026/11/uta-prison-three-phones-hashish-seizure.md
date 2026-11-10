@@ -57,9 +57,7 @@ sources:
 open_questions:
   - No weight was published for the hashish, described only as small quantities, so no kilograms can be recorded.
   - No detainee was named and no arrest, charge or disciplinary outcome was reported.
-  - The page's only image shows a generic penitentiary-police officer credited to L'Unione Sarda and does not show the seized phones or drugs, so no media entry is included.
   - A separate 8 October 2026 seizure at the same prison involving fentanyl patches is a different event left out here.
-  - The Cagliaripad page's only listed image was uploaded in June 2025 and captioned only as a Uta prison cell, so it is not shown to depict this November 2026 seizure and no media entry is included.
 ---
 
 On the morning of 3 November 2026, penitentiary police carried out a routine

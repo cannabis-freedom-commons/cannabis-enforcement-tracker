@@ -42,7 +42,6 @@ tags: [bhang, nairobi, dci]
 open_questions:
   - One account describes three suspects and 25 sacks with Sh13 million in cash, while this report uses the police service's account of four named suspects, 26 bags and Ksh12,975,000.
   - No charges or court outcome for the four arrested people were reported beyond an expected court appearance the next day.
-  - Photographs on the source pages could not be verified as depicting this raid, so no media entries are included.
 sources:
   - title: 3 Suspects Arrested, Bhang Valued At Sh13 million Recovered In Ngara
     url: https://eaglenewsfeed.com/3-suspects-arrested-bhang-valued-at-sh13-million-recovered-in-ngara/

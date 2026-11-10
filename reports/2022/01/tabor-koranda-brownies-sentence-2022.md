@@ -63,7 +63,6 @@ open_questions:
   - AP reports more than $3,400 in court costs and restitution combined, while the Yankton Daily Press & Dakotan itemises $1,116.50 in fine and court costs plus $2,312.82 restitution; the report uses the itemised amounts.
   - The Yankton Daily Press & Dakotan and AP pages could only be read through Wayback captures because their live pages returned access errors.
   - No reporting was found on whether Koranda served the jail periods or had them waived, or whether the surviving half pound of THC butter was ever weighed beyond the affidavit.
-  - The NBC stock brownie photo and the Yankton Metro Graphics illustration do not show this event, so no media entries were included.
   - 'Left out, as its quotation was not found in Yankton Daily Press & Dakotan: He resigned his position as the district''s K-12 vocal music teacher because of the case.'
   - 'Left out, as its quotation was not found in AP News: Gering said she accepted that he had not meant the brownies to reach the card game, but that transporting THC-laced butter from Colorado had harmed unsuspecting victims.'
 ---

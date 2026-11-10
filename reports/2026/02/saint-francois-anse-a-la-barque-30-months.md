@@ -66,7 +66,6 @@ open_questions:
   - The four arrested people were detained, but only three were prosecuted and sentenced; no outcome was reported for the fourth.
   - Only one source covered the 23 February sentencing; the January seizure accounts come from the same police operation and were published before the trial.
   - No value for the cannabis, no fine and no custody term beyond the prison sentence were published.
-  - No photos of the landing, the seized load or the court hearing were published with the opened articles, so no media entry is included.
   - The full names of the three defendants were not published.
 ---
 

@@ -50,7 +50,6 @@ sources:
 open_questions:
   - The indictment's stated 1.6 tons differs from the Interior Ministry's 3,954 kg raid-day total; this report uses the ministry's figures.
   - No court outcome is covered here; the Jovanjica 1 production trial was still in progress at the last opened report.
-  - No photograph verified as showing this raid was recovered, so no media is listed.
 ---
 
 Police stopped Predrag Koluvija for reckless driving on the Belgrade-Nis highway on 13 November 2019 and detained him over a suspected fake police ID; the same day officers raided his Jovanjica organic farm near Stara Pazova. [@2,3] The Interior Ministry said nine people were detained and almost four tons of marijuana seized in one of the country's biggest such swoops. [@1] Officers found 649.4 kg of dried marijuana and 65,581 raw stems, with a total weight of 3,954 kg, in tunnels and growing laboratories beneath the organic farm. [@1,2] They also seized two handguns, a falsified police ID card and a car fitted with police markings. [@1]

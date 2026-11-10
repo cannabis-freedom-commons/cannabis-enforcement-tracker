@@ -41,7 +41,6 @@ open_questions:
   - The article gives no separate date for the guilty verdict; 2 November 2026 is the publication date, while the trial was on 23 October and the search was on 5 December 2025.
   - No weight was published for the cannabis branches in the second count, so figures include only the 508.78 g package.
   - No sentencing outcome was reported; Kali was expected to be sentenced in December.
-  - The page image is a generic file captioned Cannabis sativa and is not shown to depict this seizure, so no media entry is listed.
 ---
 
 ‘Atunaisa Kali, 50, was found guilty of cannabis possession at the Supreme Court

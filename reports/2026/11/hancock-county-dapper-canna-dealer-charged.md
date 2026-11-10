@@ -83,7 +83,6 @@ open_questions:
   - WIBC credits the story to FOX 59, so it is a republication of the account already cited rather than independent confirmation.
   - WIBC gives no separate date for the late-October farm raid or the Wednesday initial hearing.
   - The WIBC page's copyright year appears as 2025 in its footer while the stated publication date is 5 November 2026; the publication date is used.
-  - The page's only news photo is a generic hemp image credited to Sean Gallup/Getty Images, not a photo of this raid or seizure, so no media entry is listed.
   - The submitted Fox 59 page is its video-center listing (video 12342240, aired 5 November 2026) and carries only the one-sentence description of the case; the station's full written article could not be opened because it returned an access error, so its text is corroborated through the WIBC and WKRC accounts opened here.
   - The station's YouTube upload of the report, linked by WKRC, returned no openable content, so no video entry with a direct media address was added.
 ---

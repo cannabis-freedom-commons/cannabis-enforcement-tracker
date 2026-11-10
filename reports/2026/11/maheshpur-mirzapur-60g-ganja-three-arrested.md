@@ -49,7 +49,6 @@ open_questions:
   - Only one accessible source for this event was found after searching in Bengali and English.
   - No court outcome was reported; production of the arrested men before a court was still under way.
   - The identity and details of the one fleeing suspect were not published.
-  - The page image is captioned only with the same headline and does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Maheshpur Thana police arrested three alleged drug traders in a special

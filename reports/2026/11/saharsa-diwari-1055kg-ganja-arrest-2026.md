@@ -69,9 +69,6 @@ open_questions:
   - The Rs 1.5 lakh figure is the police estimate for the seized ganja, described as about one and a half lakh rupees.
   - No date or case details were given for the accused's earlier jailing on a ganja charge.
   - No charge sheet or court outcome was reported; the case stood at FIR No. 107 with further action under way.
-  - The submitted page's body is truncated by an app paywall after its opening lines, so only the headline facts could be checked against it.
-  - The submitted page was published on 6 November 2026, a day after the existing report's incident date; it describes the same raid with no new date, so the incident date is unchanged.
-  - No usable event photo appears on the submitted page, so no media entry is added.
 ---
 
 Sonvarsha Kachhari police arrested Vinod Yadav in Diwari village, Saharsa, with

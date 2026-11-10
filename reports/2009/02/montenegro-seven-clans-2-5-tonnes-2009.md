@@ -53,7 +53,6 @@ open_questions:
   - The media reports named no suspect, and the court report lists many individuals without linking each to the original 25; only the trial totals are recorded here.
   - No plants, hectares, cash value or fine were reported, so none are recorded.
   - The December 2008 case of 19 arrests and about 550 kg of narcotics is a separate event and is not counted in this report's figures.
-  - The page illustration is a location map of Montenegro, not a picture of the operation, so no media entry is included.
   - The 2011 court report's totals describe the trial's 36 defendants; it does not state that all 25 originally detained people were among them.
   - 'Left out, as its quotation was not found in Vijesti: The prosecuting indictment dated the trafficking to 12 November 2008 through 26 February 2009, when the group was uncovered.'
   - 'Left out, as its quotation was not found in Vijesti: Gojčaj received 14 years, as did five Albanian nationals tried in absentia, three of them from Shkodra at 14 years and two at 10.'

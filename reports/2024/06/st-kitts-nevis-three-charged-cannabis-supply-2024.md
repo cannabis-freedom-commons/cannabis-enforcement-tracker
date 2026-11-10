@@ -53,7 +53,6 @@ open_questions:
   - WINN FM places Phipps's alleged offence in Pot Works, while the police, Buckie Got It and SKNVibes accounts place it on St Kitts; the report follows the police account.
   - No arrests, seizures, pleas, bail or court outcomes were reported beyond the three men being found with cannabis and charged.
   - Only the police account, its reprint and two local outlets were found; no independent reporting or court record was opened.
-  - The WINN page image is captioned only as charged and is not established to show this event, so no media entry is included.
 ---
 
 Police in St Kitts and Nevis charged three men with possession of cannabis with

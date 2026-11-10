@@ -50,7 +50,6 @@ open_questions:
   - The articles do not name the authority behind the EC$75,200 valuation.
   - Einan Etan is described only as charged, with no arrest stated, so the arrested total counts only the Adjodha couple.
   - No outcome after the 30 September 2011 adjournment is reported in these sources.
-  - No event photo was published with the opened pages beyond the site logo, so no media entry is included.
   - Both opened accounts are from the same outlet and no separate police statement could be opened, so the account remains single-outlet corroboration.
   - 'Left out, as its quotation was not found in THE STAR - St Lucia: Justice Kenneth Benjamin granted the adjournment to 30 September.'
 ---

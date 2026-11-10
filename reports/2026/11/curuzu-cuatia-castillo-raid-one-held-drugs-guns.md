@@ -53,8 +53,6 @@ open_questions:
   - The article gives no separate date for the raid beyond reporting it on Sunday 8 November 2026; 8 November is used as the incident date.
   - No name, charge or court decision for the 21-year-old was reported.
   - Only one accessible source for this raid was opened; no agency statement or second outlet could be used.
-  - The page carries a photo whose caption only repeats the headline, so it cannot be verified as showing this raid and no media entry is listed.
-  - The page is published on 9 November 2026 and still gives no separate date for the raid; the existing report keeps 8 November and the age of that date remains open.
 ---
 
 A 21-year-old was apprehended in the same operation, and police said he had an

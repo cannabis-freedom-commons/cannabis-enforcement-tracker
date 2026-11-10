@@ -61,7 +61,6 @@ open_questions:
   - The Gendarmeria statement counts eleven members detained since 2022 while Infobae and Cronica count eight before these three arrests; the report avoids the cumulative tally.
   - Argentina was still arranging the extradition of the two men held in Peru at publication time; no extradition or court outcome was reported.
   - The two Peru arrests occurred outside Argentina; the report is placed at Laferrere, the latest arrest site, with the Peruvian detentions described in the text.
-  - The submitted page's three images carry no captions or credits confirming they depict these arrests, so no media entry is taken from them.
 ---
 
 Argentina's National Gendarmerie detained three members of the Marcos Estrada

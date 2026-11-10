@@ -43,7 +43,6 @@ open_questions:
   - Only one arrest is reported, without the person's name, charges beyond marijuana cultivation, or court outcome.
   - The sheriff's office gave no exact number of people detained at the house; the accounts speak of several people.
   - The property is named only as a home on Tomki Road north of Redwood Valley, seven to nine miles from Ukiah; coordinates are for Redwood Valley, not the individual parcel.
-  - KRCR's page shows a byline photo of Bergdahl from its media library rather than a picture of the raid, and no photo of the grow or the arrest was found on the cited pages, so no media entry is added.
 ---
 
 Mendocino County sheriff's deputies and other investigators served a search

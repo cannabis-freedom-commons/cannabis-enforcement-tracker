@@ -60,7 +60,6 @@ open_questions:
   - The three LSD-like pills are a non-cannabis substance in the same seizure and are not counted as cannabis.
   - The reports say three men were approached but only J.I.P.S. was arrested; what happened to the other two men was not reported.
   - 31 October 2026 is used as the incident date because both reports place the night-time arrest on Saturday 31/10 and were published on 2 November 2026.
-  - The submitted page carries a lead image with an empty caption and no credit establishing that it shows this seizure, so no media entry is added.
   - The Acessa.com page carries a photo credited only as PMMG reproduction without describing its content, so it is not added as event media.
 ---
 

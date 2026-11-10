@@ -38,8 +38,6 @@ open_questions:
   - The reports give the announcement date; the culminating arrests and searches are
     dated here to the 28 June 2023 statement.
   - No court outcome for the ten people arrested was reported.
-  - A photo published with one report could not be verified as showing this
-    operation, so no media is listed.
 sources:
   - title: A criminal network involved in the trafficking of hashish and cannabis to Central European countries has been dismantled
     url: https://sede.agenciatributaria.gob.es/Sede/en_gb/notas-prensa/notas-prensa/2023/junio/28/desarticulada-red-criminal-dedicada-trafico-centroeuropeos.html

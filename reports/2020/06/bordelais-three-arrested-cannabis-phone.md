@@ -42,7 +42,6 @@ open_questions:
   - No charges, bail, court date or later outcome were reported beyond custody awaiting charges.
   - The incident time of 3:00 a.m. on 16 June 2020 comes from the police quotation; the account was published the same day.
   - Only one accessible source for this event was found after searching for a second account.
-  - The page image is an October 2019 file photo of the Bordelais facility rather than this arrest, so no media entry is included.
 ---
 
 Three men were arrested after allegedly attempting to introduce prohibited

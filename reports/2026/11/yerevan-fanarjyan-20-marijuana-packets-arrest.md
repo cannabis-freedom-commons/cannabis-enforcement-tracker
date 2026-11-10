@@ -45,7 +45,6 @@ open_questions:
   - No weight for the 20 packets was published, so no cannabis quantity in kilograms can be recorded.
   - The suspects were identified only by ages and Yerevan residence; no names were published.
   - No court outcome beyond remand in custody was reported; the investigation was still under way.
-  - The page image carries no caption or alt text establishing that it shows this seizure, so no media entry is included.
   - No separate police or investigative-committee statement for this incident could be opened; only Verelq's Russian and Armenian versions of the same account were found.
 ---
 

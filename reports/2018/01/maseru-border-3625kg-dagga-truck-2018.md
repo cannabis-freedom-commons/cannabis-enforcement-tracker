@@ -55,7 +55,6 @@ sources:
 open_questions:
   - Only one opened source account of this seizure could be found, so no fully independent second outlet confirms the details.
   - No court outcome beyond the expected reappearance in the Ladybrand Magistrate's Court was reported.
-  - The page's only captioned image is a supplied portrait of the deputy minister rather than the seizure, so no media entry is included.
 ---
 
 The South African Police Service searched a truck and its attached trailer at

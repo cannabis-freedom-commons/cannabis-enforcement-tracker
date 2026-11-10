@@ -56,7 +56,6 @@ open_questions:
   - Only the English sentencing account breaks the 84 kilograms into about 30 kilograms of cannabis, 48 kilograms of hashish and six kilograms of heroin, while the Russian verdict account specifies only the six kilograms of heroin.
   - The 78-kilogram cannabis figure combines the separately stated cannabis and hashish, and the six kilograms of heroin, the combined 84-kilogram total and the weapons are mentioned only to explain the mixed case and are excluded from cannabis figures.
   - The 8 May 2009 publication date is used as the incident date because the sources give no separate date for the sentencing hearing, while the arrest operation itself occurred on 24 December 2008.
-  - No photo of the event with a recoverable direct image address was found in the opened pages, so no media entry is included.
   - No court judgment beyond the reported 24-year terms and no appeal outcome were reported in the opened sources.
 ---
 

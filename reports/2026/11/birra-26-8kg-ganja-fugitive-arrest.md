@@ -56,7 +56,6 @@ open_questions:
   - The exact Odisha address where Narayan Rana was arrested and the exact date of that arrest were not published; 4 November 2026 is the publication and remand date used as the incident date.
   - Police earlier described the seized ganja as worth more than Rs 13 lakh, while the later account values it at Rs 13.40 lakh; the later figure is recorded.
   - No court outcome beyond judicial remand was reported.
-  - The submitted page's image caption repeats the headline and does not establish that it shows this seizure, so no media entry from that page is included.
   - The fugitive-arrest step itself rests on a single direct account republishing Hindusthan Samachar; the August seizure is corroborated by Naidunia.
 ---
 

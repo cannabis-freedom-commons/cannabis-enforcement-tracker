@@ -45,9 +45,6 @@ tags: [pdi, armada, cripy, colombia]
 open_questions:
   - No court outcome for the six detained Colombians was reported in the opened sources.
   - The exact interception coordinates were not published; the report is mapped to the O'Higgins coast.
-  - Photos of the seizure published with the local report could not be visually verified, so no media entry was recorded.
-  - The release dates the press briefing to 19 November 2019 and says the investigation ran since January 2019, while the existing report says the inquiry ran since February 2019; the difference is not resolved here.
-  - The release places the interception about 175 nautical miles off Caldera and describes Rancagua detectives as leading the case, which differs from the existing report's O'Higgins-region mapping.
   - No court outcome for the six detained Colombians is reported in this release.
 sources:
   - title: "Operación 'Alta Mar': Operativo antidrogas entre PDI y la Armada permite decomiso más grande en la historia de Chile"

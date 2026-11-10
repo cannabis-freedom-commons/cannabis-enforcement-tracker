@@ -55,7 +55,6 @@ open_questions:
   - The Inquirer reported around 41.551 kilograms valued at P62.326 million, while the Tribune reported approximately 41,851 grams valued at P62,776,500; the report uses the later Tribune figures.
   - The identities, nationalities and genders of the four arrested passengers were not disclosed.
   - No court outcome was reported; the suspects had been turned over to PDEA for the filing of charges under the Comprehensive Dangerous Drugs Act and the Customs Modernization and Tariff Act.
-  - The Inquirer page carries only a file photo captioned as a Bureau of Customs file photo, which is not established to show this seizure, so no media entry is included.
 ---
 
 Four passengers arriving from Bangkok, Thailand were arrested after the Bureau

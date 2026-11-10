@@ -59,7 +59,6 @@ open_questions:
   - Only 15 items were explicitly described as cannabis palhas italianas, with no separate weight or test result published.
   - The detailed breakdown adds to 395 items, reported as almost 400.
   - No charges were reported; the 10 detainees were heard and released, and the outcome of the police inquiry was not reported.
-  - The submitted page carries no usable event photo and the direct image address for the police seizure photo could not be recovered, so no media entry is included.
   - The incident date of 22 March 2025 comes from the operation report's night of Saturday 22 March; the follow-up gives only March.
   - 'Left out, as its quotation was not found in G1 Sul de Minas: Police listed the seizure as 200 brisadeiros, 70 magic brownies, 40 magic cookies, 70 magic mushrooms and 15 cannabis palhas italianas.'
   - The BHAZ account does not give the operation's name or the number of officers involved, so those details remain supported only by the earlier G1 account.

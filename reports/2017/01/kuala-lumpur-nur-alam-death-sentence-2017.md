@@ -41,7 +41,6 @@ tags: [death-sentence, trafficking, kuala-lumpur]
 open_questions:
   - "The New Straits Times account was read as reprinted by News Of Asia; the IBTimes Singapore account cites Bernama."
   - "The opened sources report no appeal or execution outcome."
-  - "The only published picture with the case is marked as a representation photo, so no media entry was added."
 sources:
   - title: Myanmar vegetable seller sentenced to death for cannabis trafficking
     url: https://newsofasia.net/myanmar-vegetable-seller-sentenced-to-death-for-cannabis-trafficking/

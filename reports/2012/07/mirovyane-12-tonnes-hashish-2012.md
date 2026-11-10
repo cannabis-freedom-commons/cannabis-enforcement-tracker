@@ -47,7 +47,6 @@ open_questions:
   - The report is dated at the agency's announcement on Thursday 5 July 2012; the article itself was published on 6 July and gives no separate date for the seizure.
   - The Moroccan origin and the fishermen-via-the-Black-Sea route are the investigators' account, not independently verified findings.
   - A 4-tonne seizure days earlier in Vidin, possibly linked, is a separate event left out here.
-  - No arrests were reported and no photo of the seizure was available, so no media entry was added.
 ---
 
 Bulgarian police seized 12 tons of hashish from a warehouse in Mirovyane, a village near the capital Sofia. [@1] Staminir Florov, the director of the General Directorate for Combating Organized Crime (GDBOP) within the Interior Ministry, announced the seizure on Thursday, valuing the cannabis resin at about 360 million euros (445 million US dollars) and saying it was destined for the European Union market. [@1]

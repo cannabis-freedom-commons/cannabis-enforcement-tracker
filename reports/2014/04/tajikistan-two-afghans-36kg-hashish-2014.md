@@ -49,7 +49,6 @@ open_questions:
   - The sources name no town or district where the two Afghans were detained, so the place is recorded only as Tajikistan with country precision.
   - The hashish weight is given only as more than 36 kg, not an exact measured figure.
   - No charges, court outcome or measure of restraint beyond detention and opened criminal cases were reported.
-  - No photo of the event with a recoverable direct image address was found in the opened pages, so no media entry is included.
 ---
 
 Officers of Tajikistan's Interior Ministry drug-trafficking department detained

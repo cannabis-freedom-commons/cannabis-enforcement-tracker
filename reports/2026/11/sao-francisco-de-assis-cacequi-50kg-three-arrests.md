@@ -60,7 +60,6 @@ open_questions:
   - The articles do not say at which of the two municipalities the arrests were made or where the drug and revolver were found; the depot is said to be in Cacequi.
   - No court decision, plea or names of the suspects were published.
   - The 50 kilograms are reported as marijuana; no laboratory confirmation was mentioned.
-  - No photograph of the seizure, the depot or the operation was published; the submitted page's lead image is a generic illustration and is not listed as media.
 ---
 
 Civil Police officers arrested two men and one woman in flagrante on the night

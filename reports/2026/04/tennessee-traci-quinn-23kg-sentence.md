@@ -49,7 +49,6 @@ open_questions:
   - The 50lb (23kg) amount is described as transported and no separate seizure weight, laboratory weight or value was published.
   - No court name, case number, sentence date or release date beyond the year 2020 was published.
   - Pink Hats founding is given as 2020 in one account and 2021 in another, which does not affect the enforcement facts.
-  - Published photos show construction work, portraits and Chicago scenes rather than the arrest, seizure or court, so no media entry is included.
   - No agency statement or court record for this case could be opened directly.
   - 'Left out, as its quotation was not found in Block Club Chicago: A second account says that while travelling through Tennessee with cannabis in 2017 she was stopped, arrested, charged and convicted of possession of marijuana and released from prison in 2020.'
   - 'Left out, as its quotation was not found in Block Club Chicago: She later pursued travel nursing in California and opened a dispensary there in 2015.'

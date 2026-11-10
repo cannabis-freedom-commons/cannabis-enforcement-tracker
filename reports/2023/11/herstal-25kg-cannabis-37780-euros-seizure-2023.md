@@ -72,7 +72,6 @@ open_questions:
   - The estimated value of 39,150 euros covers the cannabis and the cocaine together and cannot be split between them.
   - The suspects are named only partly or not at all, and no ages are published.
   - No charge sheet or court outcome was reported; the case was still under investigation under the Liège prosecutor's supervision.
-  - The submitted page's lead photo credits the Liège police zone but its exact subject cannot be confirmed from the caption, so it is not used as the report's picture.
   - The suspects had a prior police record, but the sources do not say what it concerned.
 ---
 

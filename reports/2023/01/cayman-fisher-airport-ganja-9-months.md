@@ -54,7 +54,6 @@ open_questions:
   - Cayman Compass spells the defendant Edree Fisher; Cayman News Service gives Eddree Joann Fisher.
   - The sources give the guilty plea in June 2022 and the September 2022 change of plea; it is unclear from the Compass text whether these describe the same plea change.
   - No penalty or outcome was reported for the co-conspirators Corey James Miller and Kelven Claret in Cayman; Cayman News Service links a 2018 report of Miller's admission in the United States, and that is a separate case left out here.
-  - The page's only image is a February 2022 view of the Owen Roberts terminal captioned "Owen Roberts Airport5 by alvaro", which does not show this case, so no media entry is included.
   - No street value for the ganja was published.
   - The text gives a weight ("2.94 kilograms") but the figures have no kg_seized; check whether it belongs there.
   - 'Left out, as its quotation was not found in Cayman News Service: The plot came to light when the US Transportation and Security Agency found 2.94 kilograms of ganja in Claret''s suitcase hidden in detergent boxes, and Claret then cooperated with US authorities, who passed information about Fisher to the Cayman Islands Customs and Border Control.'

@@ -74,12 +74,6 @@ open_questions:
   - The recorded cannabis total of 0.1975 kg is the sum of the separately stated 158.3 g, 27 g and 12.2 g amounts.
   - The exact locality within the Pella area and the suspects' names were not published.
   - No charges, detention outcome or court referral were reported.
-  - The page photo shows a generic police patrol car credited to Intime and is not established to show this seizure, so no media entry is included.
-  - The page image is a generic night-time police patrol car filed in October 2024 and is not shown to depict this seizure, so no media entry is added.
-  - The new article says only that the operation took place last Sunday; 1 November 2026 is retained from the existing report, consistent with publication on 4 November 2026.
-  - The page image is a generic patrol-car photo captioned Peripoliko-16-3-26 and is not shown to depict this seizure, so no media entry is included.
-  - The page image is a 2023 generic patrol-car photo and is not shown to depict this seizure, so no media entry is included.
-  - The page image is captioned only as astynomia with no credit or event link, so it is not established to show this seizure and no media entry is included.
 ---
 
 Officers of the Pella Department for the Prosecution and Detection of Crimes

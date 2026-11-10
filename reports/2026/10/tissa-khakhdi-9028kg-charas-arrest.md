@@ -87,8 +87,6 @@ open_questions:
   - News4himachal does not say whether the man was walking or in a vehicle when he was stopped.
   - The Divya Himachal article gives no separate date for the stop; 1 November 2026 is its publication date.
   - Its page photo has no caption or credit tying it to this seizure, so it is not listed as media.
-  - It says the case was registered at Tissa police station, while the existing report records the FIR at the STF North Range Kangra station.
-  - The Divya Himachal account says the case was registered at Tissa police station, while the existing report records the FIR at the STF North Range Kangra station.
 media:
   - kind: photo
     url: https://www.etvbharat.com/hi/state/chamba-tisa-9-kg-charas-seized-kangra-stf-arrests-32-year-old-youth-ndps-case-drug-smuggling-network-hps26103102528

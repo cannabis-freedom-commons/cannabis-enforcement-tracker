@@ -26,7 +26,6 @@ open_questions:
   - The man is described as taken to the 19th Battalion headquarters and signing an undertaking to appear; the source does not say whether his detention was formally recorded as an arrest, so no arrest count is recorded.
   - No age, name or charge was published for the man, and no later court outcome was reported.
   - Only one source for this approach was found; the roundup republishes the 19th Battalion's own report.
-  - The page's only picture is an illustration produced by the outlet with artificial intelligence and does not show this event, so no media entry is included.
 ---
 
 Military police patrolling Rua Mané Garrincha in Toledo, Paraná, at about 21h on

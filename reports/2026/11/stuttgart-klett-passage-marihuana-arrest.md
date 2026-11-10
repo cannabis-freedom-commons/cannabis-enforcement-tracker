@@ -61,7 +61,6 @@ open_questions:
   - The identity of the 21-year-old buyer and whether he faced any action are not reported.
   - No charge, court case or outcome beyond the arrest warrant and pre-trial detention has been reported; the case was at the investigation stage.
   - The three accounts reproduce the same Stuttgart police statement; BW24 and Stuttgarter Nachrichten add no facts beyond it.
-  - The photos on the cited pages are captioned as Symbolbild (stock images), so no media entry is included.
   - No weight or amount of the marijuana was published in this account either, so no cannabis quantity can be recorded.
 ---
 

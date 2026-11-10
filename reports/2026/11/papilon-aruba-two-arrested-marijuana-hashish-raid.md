@@ -54,8 +54,6 @@ open_questions:
   - The suspects were held on suspicion of importing narcotics and possessing weapons, but no seizure of weapons and no charges or court outcome were reported.
   - Only initials, ages and countries of birth were released for the two suspects, and no full names were given.
   - The Amigoe Aruba page is paywalled beyond its summary and key facts and attributes the account to 24ora, whose original report was not opened for this event.
-  - No media entry is listed because the only available image caption repeats the headline and does not confirm that the picture shows this raid or seizure.
-  - The submitted page and EA News Aruba both reproduce the same Korps Politie Aruba statement, so they corroborate rather than independently report the raid.
   - The material is described as marijuana and hashish ('hars/hasj') without stated weights, so neither product's quantity can be figured.
   - The investigation also concerns ecstasy and weapons, but no ecstasy or firearm was reported seized and no cannabis or other quantity is given.
   - Left out case stage, as its quotation was not found in EA News Aruba.

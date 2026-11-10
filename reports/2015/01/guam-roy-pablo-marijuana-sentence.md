@@ -51,7 +51,6 @@ open_questions:
   - The article gives no separate date for the hearing; 15 January 2015 is its publication date, which the report uses as the incident date.
   - Kim's two-year term is recorded in the text while figures.prison holds Pablo's eight-year term, since the field holds a single stated term.
   - Only the AP account, which cites the Pacific Daily News, could be opened; no second account of the hearing was found.
-  - No event photograph was available, so no media entry is included; the page carries only the AP default image.
 ---
 
 A former Guam police officer was sentenced to eight years in prison for growing

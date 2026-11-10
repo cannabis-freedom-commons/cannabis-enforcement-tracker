@@ -43,7 +43,6 @@ sources:
     language: fr
 open_questions:
   - The articles are dated 1 October 2025 and say the operation happened on a Tuesday, so 30 September 2025 is used as the incident date; no separate incident date is published.
-  - The La Nouvelle Tribune page carries an image captioned as an illustration photo, which does not establish that it shows this seizure, so no media entry is included.
   - The reported 8-year-old alleged accomplice comes only via Libération as cited by both outlets and is not independently confirmed.
   - No charges, custody status beyond release under summons, or court outcome were reported; the drugs were described only as awaiting judicial follow-up.
   - No value, packaging count beyond the cart, or separate official police statement was published in the opened sources.

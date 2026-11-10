@@ -51,7 +51,6 @@ open_questions:
   - Whether the high court's new guilty judgment changed the prison term or fine beyond adding the detention period was not stated.
   - 28 October 2026 is inferred as the high court decision date from 28日 alongside the 29 October 2026 publication date.
   - Only one account of this case was available; no second report confirming or adding facts was found.
-  - The page's only image shows the Okayama District Court building exterior and does not depict the offence, arrest, seizure, or hearing, so no media entry is listed.
 ---
 
 The defendant, aged 21, was charged with defrauding an elderly person in Okayama

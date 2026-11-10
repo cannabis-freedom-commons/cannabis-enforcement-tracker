@@ -46,7 +46,6 @@ open_questions:
   - The source does not state the date of the newly added supply charge, whether it was laid in August or earlier, or whether it arises from the February 2023 seizure.
   - Only the 1 August 2023 court sitting date is given; 2023 is inferred from the publication date and the January relaunch of Cook Islands Security.
   - No arrest figure is given for the supply charge, so only the one person charged is recorded in figures.
-  - The page image has no caption beyond the headline and is not confirmed to show this case, so no media entry is added.
   - Only Cook Islands News published this court call; no police statement or second outlet was found.
   - The CFI registry has no Cook Islands id, so New Zealand is used as the country field while the place is recorded as Avarua, Rarotonga.
 ---

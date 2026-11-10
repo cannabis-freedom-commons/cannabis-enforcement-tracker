@@ -46,7 +46,6 @@ open_questions:
   - The seller known only as "Yaz" on Telegram was not identified beyond a user ID.
   - Andrievsky said he had bought from Yaz on about three earlier occasions, but those shipments were not described in the sentencing reports.
   - He told the court he could not unlock his phone to show messages because he had forgotten the password.
-  - Neither outlet published a photo of the intercepted parcel; The Straits Times lead is a portrait and Mothership's cover is a stock cannabis-and-courts composite, so no media entry is listed.
 sources:
   - title: 27 months' jail for man whose parcel containing cannabis was intercepted at SingPost Centre
     url: https://www.straitstimes.com/singapore/courts-crime/27-months-jail-for-man-whose-parcel-containing-cannabis-was-intercepted-at-singpost-centre

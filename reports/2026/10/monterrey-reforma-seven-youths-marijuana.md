@@ -87,7 +87,6 @@ open_questions:
   - 'Left out, as its quotation was not found in Milenio: They were taken to Monterrey police premises and handed to the competent authorities.'
   - EL NORTE's phrase “esta madrugada” in its 31 October account may imply a 31 October arrest, while MVS Noticias and Quadratín place the stop at about 03:20 on 30 October; the reports do not reconcile the date.
   - 'Left out, as its quotation was not found in Quadratín Nuevo León: Quadratín Nuevo León, citing the police account, described the crystal as a solid substance similar to crystal and the bags as herb with the characteristics of marijuana.'
-  - Gamavision gives only the publication date of 30 October 2026 and no time for the stop; the 03:20 time in the existing report comes from the earlier MVS account.
 ---
 
 The stop was in the early hours of Friday 30 October 2026. [@2] Quadratín Nuevo

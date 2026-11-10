@@ -64,7 +64,6 @@ open_questions:
   - No date is given for the start of the surveillance or for nights of any sale other than 2 and 22 August and 15 October 2025.
   - The 45,000 euro conversation between the brothers was tied by the court to payment for drugs to a third party, but the source does not say whether that payment happened, so it is left out of the figures.
   - No court outcome at appeal is reported yet; the Bucharest Court of Appeal had not ruled at publication.
-  - The page's only illustration is a cartoon of the drug network, not a photograph of the raid, seizure or court, so no media entry is included.
 ---
 
 Bucharest Tribunal sentenced Ovidiu-Daniel Udroiu to six years in prison, his

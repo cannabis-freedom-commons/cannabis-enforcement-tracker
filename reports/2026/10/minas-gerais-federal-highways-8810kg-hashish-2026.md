@@ -60,9 +60,7 @@ open_questions:
   - The 8,810 kg total covers 1 January to 23 October 2026; 30 October 2026 is the article publication date.
   - The 179 arrests cover transporting drugs in general, not hashish alone, so no arrested figure is recorded as a cannabis figure.
   - Crack, cocaine, ecstasy, amphetamine, LSD and seized medicine totals in the same PRF balance are non-cannabis and are excluded from cannabis figures.
-  - No separate PRF statement was opened; the second source is the original g1 report of which the submitted page is a reprint.
   - No breakdown of the 8,810 kg by individual seizure, highway, origin, destination or case outcome was published.
-  - The submitted page rounds the 2026 total to 8.8 tonnes while the existing report records 8,810 kg from the more precise g1 account.
 ---
 
 Federal Highway Police (PRF) data show hashish seizures on the federal highways

@@ -55,7 +55,6 @@ sources:
 open_questions:
   - No court outcome beyond the filing of a case at Tangail Sadar Police Station was reported.
   - The second outlet repeats the same agency-style wording and adds no independent detail.
-  - Whether the lead photograph accompanying the submitted page shows this specific seizure could not be established beyond its matching caption.
 ---
 
 An operational team of Special Response Battalion-14 arrested a couple with 06

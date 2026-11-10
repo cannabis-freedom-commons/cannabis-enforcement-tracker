@@ -38,7 +38,6 @@ sources:
 open_questions:
   - The article says the checks occurred in recent days and gives only its publication date of 2 November 2026, so the publication date is used as the incident date.
   - No second report of the same Oristano operation was found, so this account relies on one source.
-  - The page image is a 2016 police-dog file image with an empty caption and does not establish that it shows this operation, so no media entry is added.
   - No criminal arrests, charges or court outcome were reported; the two cases are described as administrative violations.
   - The reported driving-licence consequences are described as possible, not as already imposed.
 ---

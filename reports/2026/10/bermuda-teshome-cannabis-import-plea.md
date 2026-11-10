@@ -47,7 +47,6 @@ open_questions:
   - The trial date is given as 15 February without a year; a mention is listed for 11 December.
   - No co-conspirator is named and the account does not say how the cannabis was allegedly brought into Bermuda.
   - Only one account of the hearing, in The Royal Gazette, could be found.
-  - The page's lead image is a stock Supreme Court graphic rather than a photograph of Teshome or the hearing, so no media is listed.
 ---
 
 Yemariam Teshome, 21, a Canadian resident of Ontario, appeared in Bermuda's

@@ -95,7 +95,6 @@ open_questions:
   - Radio PIK reports that over 400 g of marijuana was found in the flat, while the Włocławek police statement gives more than 405 g; the report keeps 405 g.
   - The page shows a three-photo gallery, but only the lead image had a supplied direct address, so only that police photo is listed; it is captioned only as a Włocławek city police picture and it is not confirmed which seized items it shows.
   - 'The roundup gives no independent detail: it repeats the earlier article''s combined figure of almost 700 grams of mephedrone and marijuana, which cannot be split and stays out of the cannabis figure.'
-  - The roundup's images are its own generic illustrations for a weekly press review, not photos of the Włocławek search, so no media are listed.
 ---
 
 Włocławek criminal police searched a 27-year-old resident's flat on Tuesday 3

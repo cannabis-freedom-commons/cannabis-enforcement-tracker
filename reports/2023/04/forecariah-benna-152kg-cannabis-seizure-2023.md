@@ -50,7 +50,6 @@ open_questions:
   - Guinee7 quotes 150 kg in its direct quotation while Ledjely reports 152 kg; the report records 152 kg as the more precise figure.
   - The suspect was not named and no age or further identity was published.
   - No court outcome was reported; the suspect was only reported as due to be sent to the prosecutor or magistrates.
-  - The submitted page's image has no caption or credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Guinea's special services seized cannabis at the home of a Guinean at Benna, in

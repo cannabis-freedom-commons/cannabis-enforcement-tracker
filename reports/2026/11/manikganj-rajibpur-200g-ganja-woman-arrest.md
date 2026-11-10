@@ -46,7 +46,6 @@ sources:
 open_questions:
   - The article reports the arrest but gives no case filing, charge, detention order or court outcome; no case number or police station is named.
   - Only one accessible account of this arrest was found, and it reproduces the Department of Narcotics Control's Manikganj office statement.
-  - The page carries one uncredited photograph whose caption does not describe what it depicts, so no media entry is added.
   - The ganja is described only as recovered from the room, with no laboratory confirmation or value estimate reported.
 ---
 

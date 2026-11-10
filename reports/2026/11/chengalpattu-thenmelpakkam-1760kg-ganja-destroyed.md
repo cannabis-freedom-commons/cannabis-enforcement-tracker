@@ -48,8 +48,6 @@ open_questions:
   - The reported 2026 year-to-date NIB CID destruction totals were left out because they cover a different period from this single-day destruction.
   - No arrests, charges or court outcomes linked to the destroyed consignments were named.
   - Only one source reporting this destruction could be opened, so no second account confirms the figures.
-  - The page carries one image whose caption repeats the headline and does not establish what it depicts, so no media entry is listed.
-  - The Dinakaran page lists four images with only 'featuredImage' or empty captions, which do not establish that they depict this destruction, so no media entry is included.
 ---
 
 On 3 November 2026, Tamil Nadu Police destroyed 1,760 kg of ganja seized in

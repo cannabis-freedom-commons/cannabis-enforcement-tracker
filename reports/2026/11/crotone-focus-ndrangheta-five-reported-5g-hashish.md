@@ -58,7 +58,6 @@ open_questions:
   - The submissions describe the five as segnalate alla Prefettura; Il Crotonese counts them as detained people, and the arrest figure reflects people formally reported under the article and the police statement.
   - Cocaine is excluded from the hashish figure and no combined drug total is counted as cannabis.
   - No value estimate was published for the hashish.
-  - The submitted page’s photo is captioned only with the article headline and was filed in January 2026, so it is not established to show this event and no media entry is given.
   - Il Crotonese, CrotoneOk and the police statement reproduce the same Crotone police headquarters account, so they are not independent reporting.
   - 'Left out, as its quotation was not found in Questura di Crotone, Polizia di Stato: Officers seized 5.12 grams of hashish from the five in total.'
   - 'Left out, as its quotation was not found in Questura di Crotone, Polizia di Stato: The checks were part of the national and transnational Focus ’Ndrangheta plan, ordered by Crotone police chief Renato Panvino after decisions of the provincial committee for public order and safety.'

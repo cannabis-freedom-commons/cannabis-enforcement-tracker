@@ -104,7 +104,6 @@ open_questions:
   - The page's only picture is a generic handcuffs stock photo with a red overlay, not confirmed to show this seizure, so it is not listed as media.
   - The Directinfo account is a French-language rendering of the same security-source briefing carried by the Arabic outlets, so it is not independent reporting of the raids.
   - Directinfo says the suspects were placed in garde à vue after consulting the Public Prosecution; it gives no further court step or outcome.
-  - The page's lead image is a 2015 cocaine stock photograph from the outlet's library, not a picture of this seizure, so no media entry is added.
   - The Réalités article credits Mosaïque FM, so it is not independent reporting of the two operations; it reproduces the same security-source briefing already cited in the report.
   - Réalités says the first operation, two days before its 7 November publication, concerned the sale of cocaine; it gives no place for those seven arrests.
   - Réalités gives no amount for the money seized in the first operation and no street value for the cannabis or cocaine, and does not say whether the 38 plates are pressed resin or herbal cannabis.

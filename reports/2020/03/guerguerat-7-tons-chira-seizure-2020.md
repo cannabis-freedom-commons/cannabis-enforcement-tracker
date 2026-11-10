@@ -42,7 +42,6 @@ open_questions:
   - 6 March 2020 is the article's publication date, and no separate date for the seizure itself was given.
   - No arrests or further details of the truck beyond its sub-Saharan destination were published.
   - Only one source for this event could be opened.
-  - The source page shows a seizure photo that could not be verified as depicting this event, so no media entry was added.
 ---
 
 Moroccan authorities foiled an attempt to smuggle 7 tons of cannabis resin, locally known as chira, through the country's southernmost border crossing at Guerguerat. [@1] The banned substance was concealed in a large truck bound for sub-Saharan markets, the Moroccan police said in a statement. [@1]

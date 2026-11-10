@@ -49,7 +49,6 @@ open_questions:
   - The sources give the cannabis amount only as four bags of dried green plant matter, with no weight, so no cannabis weight is recorded.
   - The official account is dated 31 October 2026 as Fotonota 02453 while news reports are dated 1 November 2026; the report uses 31 October 2026 as the incident date, but no separate hour for the stop is given.
   - The six men were only placed at the disposal of the competent authority; no charges, trial or sentence are reported.
-  - The submitted page's lead image file name refers to unrelated entertainment content, so it is not listed as event media; only the official government photo is linked.
   - 'Left out, as its quotation was not found in Diario de Morelos: Morelos public-security officers working with the National Guard and the Mexican Army detained six men in the Ricardo Flores Magón neighbourhood of Cuernavaca.'
   - 'Left out, as its quotation was not found in Diario de Morelos: Officers reported seizing three Ziploc bags holding black solid matter resembling heroin.'
   - 'Left out, as its quotation was not found in Diario de Morelos: They reported four Ziploc bags holding white powder resembling cocaine.'

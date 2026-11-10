@@ -79,22 +79,8 @@ sources:
     language: bn
 open_questions:
   - The 1,380 yaba pills are methamphetamine-type tablets, not cannabis, and are excluded from the cannabis figures above.
-  - The Star News page carries a photo captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
   - The operation is described as Monday 2 November at 12:30 at night, which spans midnight into 3 November, and 2 November is used as the incident date as stated.
   - The Star News account says the Narcotics Control Act case names both the detained man and the fugitive, while the Daily Campus account says it names only the detained man, so the charged figure is omitted.
-  - The new source calls the operating unit RAB-6 while the existing report records Special Response Battalion-6 and SRB-6.
-  - The new source names the detainee as Md. Naimur Rahman without an age, while the existing report gives 28-year-old B. M. Naimur Rahman.
-  - The new source says an accomplice fled but does not name him, while the existing report names 27-year-old Md. Raju Sheikh.
-  - The submitted page carries a photo captioned only with the headline, which does not establish that it shows this seizure, so no media entry is included.
-  - The Kalbela account does not mention the second man reported elsewhere as fleeing during the arrest, so it neither confirms nor contradicts that part of the existing report.
-  - The page photo is captioned only as the named man with a collected-photo credit and does not establish that it shows this seizure, so no media entry is included.
-  - The new source names the detainee only as Naimur Rahman, without the initials and age given in the existing report.
-  - The new source says one companion fled but does not name him, so it neither confirms nor contradicts the existing report's naming of Md. Raju Sheikh.
-  - The page's lead photo has no caption or credit establishing that it shows this seizure, so no media entry is added.
-  - The new source dates the 12:30 night arrest to Tuesday 3 November, while the existing report uses 2 November 2026, so the midnight-spanning date remains unresolved.
-  - The new source times the operation at about 2am on Tuesday 3 November, while the existing report records about 12:30 at night on 2 November, so the exact hour remains unresolved.
-  - The submitted page's lead image has no caption or credit establishing that it shows this seizure, so no media entry is added.
-  - The submitted page's relevant photo is captioned only as a collected photo and does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Special Response Battalion-6 arrested 28-year-old B. M. Naimur Rahman in

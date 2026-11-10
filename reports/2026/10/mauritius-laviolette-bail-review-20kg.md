@@ -56,7 +56,6 @@ open_questions:
   - No source gives the total weight seized or whether the 20 kg was recovered; the judgment notes that the cannabis had disappeared.
   - The article gives no plea, trial date or outcome beyond the bail ruling, and no ruling text was found.
   - No independent second account of the 21 October 2026 Supreme Court decision was found; the case details come from this single IONNEWS report.
-  - The page image is a 2021 file photo captioned only as the Supreme Court, so no media entry is made.
   - The exact court in Port Louis is not named beyond the Supreme Court.
 ---
 

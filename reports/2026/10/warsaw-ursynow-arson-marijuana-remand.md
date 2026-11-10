@@ -51,7 +51,6 @@ open_questions:
   - No weight or amount for the marijuana found on the man was published, so no cannabis quantity can be recorded.
   - The suspect's full name was not published, only his age and Rwandan citizenship.
   - The cited sources do not report the extent of fire damage or whether anyone was injured, only the risk to people in the building.
-  - The page's main photograph is captioned only with the article title and is not established to show this arrest or seizure, so no media entry is included.
   - The local account cites the same Mokotow police spokesperson as the police release, so both accounts share one official origin.
 ---
 

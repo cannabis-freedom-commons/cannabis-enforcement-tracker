@@ -54,7 +54,6 @@ sources:
     date: 2026-09-22
 open_questions:
   - The submitted WSOC-TV page could not be read because it returned an Error 451 location block, so this report relies on two other accessible reports of the same event.
-  - No direct image addresses could be recovered for the sheriff's-office photos described on the source pages, so no media entry is listed.
   - The reports give no count for the ecstasy pills seized.
   - No court outcome beyond the charges and bonds is reported.
   - 'Left out, as its quotation was not found in WHKY: Boxes in the vehicle held approximately 150 pounds of marijuana along with 2.74 pounds of marijuana wax.'

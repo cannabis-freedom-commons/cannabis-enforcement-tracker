@@ -42,8 +42,6 @@ open_questions:
   - The reports give November 2006 for the hospital dumping but no exact date of the attack or of
     Mr Nguyen's death.
   - No figure for the size of the Keynsham Avenue cannabis factory was published.
-  - The BBC page carries a portrait of Mr Nguyen, not a photograph of the event, so no media entry
-    is listed.
 sources:
   - title: Three jailed for drug gang death
     publisher: BBC News

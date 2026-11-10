@@ -49,7 +49,6 @@ open_questions:
   - Payne told the officer he had 13 or 14 grams, while the search found baggies weighing 37.1 grams in total; the report uses the 37.1 grams weighed by police.
   - The marijuana is described as suspected and no laboratory confirmation was reported.
   - No bond, court date, plea or outcome was reported, and the charge has not been proven in court.
-  - The page photo is an uncaptioned image tied to the suspect and does not show the stop, the car or the seized marijuana, so no media entry is listed.
 ---
 
 Ruston police arrested 23-year-old Dmitry Payne of Ruston at 1:15 p.m. on 4

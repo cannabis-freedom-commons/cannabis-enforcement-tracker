@@ -78,10 +78,7 @@ open_questions:
   - The HK$3,200 market-value figure covers the methamphetamine, cocaine and cannabis together and is therefore excluded from the cannabis figures.
   - Only the separately stated 1.6 grams of suspected cannabis buds is counted as cannabis; the suspected methamphetamine and cocaine weights are excluded.
   - One account times the stop at about 1am and the others at nearly 2am on 2 November 2026; 2 November 2026 is used as the incident date.
-  - Whether the lead photo on the submitted page shows this seizure could not be established from its caption, so it is listed with a neutral caption.
   - No court outcome or further charges beyond detention for investigation were stated.
-  - This account gives the address as 221-226 Gloucester Road while the existing report shortens it to 221 Gloucester Road.
-  - This capture times the stop at 1:53am and gives the address as 221-226 Gloucester Road, while the existing report uses about 2am and shortens the address to 221 Gloucester Road.
 ---
 
 Hong Kong Island emergency-unit officers on patrol spotted a suspicious private

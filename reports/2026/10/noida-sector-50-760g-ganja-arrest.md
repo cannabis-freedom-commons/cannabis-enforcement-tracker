@@ -43,7 +43,6 @@ open_questions:
   - No case number, charge section or court appearance has been reported.
   - Only one account of this arrest was found; no police statement or second outlet report was available.
   - No estimated value was published for the 760 grams of ganja.
-  - The page image is a generic Noida news banner, not a photograph of the arrest or the seizure, so no media is linked.
   - 'Left out, as its quotation was not found in Hindustan: He was living on rent in Hoshiarpur village at the time.'
 ---
 

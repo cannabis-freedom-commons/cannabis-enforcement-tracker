@@ -49,7 +49,6 @@ open_questions:
   - The 11 bags described as similar to cristal are excluded from cannabis figures as a non-cannabis substance.
   - The substances were described only as having characteristics similar to marijuana and cristal, with laboratory confirmation still pending.
   - Only one accessible source was found; no direct SSC or Fiscalía statement was opened.
-  - The page carries an image file without a caption tying it to this arrest, so no media entry is included.
 ---
 
 Secretaría de Seguridad Ciudadana officers detained Luis Francisco “N” in

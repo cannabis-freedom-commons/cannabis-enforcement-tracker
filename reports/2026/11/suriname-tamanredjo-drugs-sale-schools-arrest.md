@@ -47,7 +47,6 @@ sources:
 open_questions:
   - No quantities or weights were given for the crack cocaine or marijuana, so no cannabis weight can be recorded.
   - Only one source, Dagblad Suriname citing Police Region East, could be opened; no second independent report was found.
-  - The supplied page image has no caption or credit tying it to this seizure, so no media entry is included.
   - Waterkant still gives no weight or quantity for the marijuana or the crack cocaine.
   - Waterkant does not say whether J.R. has been brought before a judge or charged.
 ---

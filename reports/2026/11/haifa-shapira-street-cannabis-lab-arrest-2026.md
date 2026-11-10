@@ -48,7 +48,6 @@ open_questions:
   - The page does not describe the laboratory's equipment or confirm whether plants were seized or destroyed.
   - The article says another suspect is involved but names neither that person nor any arrest of them.
   - No charge sheet, plea or court outcome beyond the detention extension is reported, and the police only asked for an eight-day extension.
-  - The submitted page shows only an illustration image credited to Gio Bartlett of Unsplash, not a photo of this event, so no media entry is made.
   - Only the Posta account was found; no police statement or other outlet reporting this arrest could be opened.
   - The article does not say whether the laboratory was in a flat, a building or other premises at 11 Shapira Street.
 ---

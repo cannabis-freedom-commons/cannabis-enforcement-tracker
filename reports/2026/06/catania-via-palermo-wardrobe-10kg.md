@@ -40,7 +40,6 @@ open_questions:
   - The article gives no separate date for the patrol and arrest, so 2 June 2026 is its publication date.
   - No weight was given for the hashish pellets thrown from the balcony, so they are not counted in the seized kilograms.
   - The outcome of the fast-track hearing and the reporting order was not reported.
-  - The article's embedded video of the seizure could not be recovered as a direct media file, so no media entry was added.
 sources:
   - title: Dieci chili di droga nell'armadio di casa, la polizia scopre un deposito di stupefacenti a Catania. Il video
     url: https://catania.gds.it/articoli/cronaca/2026/06/02/dieci-chili-di-droga-nellarmadio-di-casa-la-polizia-scopre-un-deposito-di-stupefacenti-a-catania-il-video-229b69af-bd84-4922-8ce6-f44e36ea5ca6/

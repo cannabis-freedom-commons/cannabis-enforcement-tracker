@@ -45,7 +45,6 @@ open_questions:
   - The account names the substance only as Kush, a cannabis product, without stating whether it was dried flower or resin, so the whole weight is recorded as flower.
   - No charge, court appearance, detention order or value estimate for the Kush was published; the Crime Division said investigations were continuing.
   - The heroin (3.649 kg) and crystal methamphetamine (2.109 kg) seized in the same raid are not cannabis and are excluded from the figures.
-  - The page photo is an image file from July 2026 used as an illustration and is not confirmed to show this seizure, so no media entry is included.
 ---
 
 Officers of the Western Province North Crime Division arrested a 25-year-old man

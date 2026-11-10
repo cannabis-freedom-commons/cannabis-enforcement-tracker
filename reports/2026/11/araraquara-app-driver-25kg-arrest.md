@@ -58,10 +58,7 @@ open_questions:
   - No custody-hearing result, formal charge details or later court outcome were reported.
   - The driver's full name was not published.
   - The reported R$3,000 was a promised transport payment, not a drug valuation, so no drug value is recorded.
-  - The new page rounds the seizure to 25 kg while the existing report records the precise published weight of 25.69 kg in 19 tablets; the precise figure remains the recorded one.
-  - The new page says the night of Tuesday the 3rd while the existing report dates the flagrante to the early hours of 4 November 2026, the same overnight interval.
   - The new page text gives no driver age or occupation, vehicle, tablet count, Ribeirão Preto to Jaú route, trafficking booking or Santa Ernestina transfer; those details remain supported only by the existing source.
-  - Only the video page title and one-line description could be used as text evidence; the 39-second video audio was not transcribed and its poster frame is not established to show the event, so no media entry is added.
 ---
 
 Officers of the Tático Ostensivo Rodoviário (TOR), the Military Police highway

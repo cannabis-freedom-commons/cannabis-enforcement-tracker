@@ -31,7 +31,6 @@ open_questions:
   - The Fiji Times headline calls the seizure 20 bags while its text gives 20 sachets; the report uses the text's sachets.
   - 'The two accounts differ on who gave the search details: The Fiji Times quotes police spokeswoman Ana Naisoro, while fijivillage cites commissioner Sitiveni Qiliho and deputy commissioner Rusiate Tudravu.'
   - fijivillage also reported a separate raid on a house on Mead Road the same week; that is a different event and is not covered here.
-  - The submitted page carries only a generic police logo, so no photograph of the raid is listed.
 ---
 
 Police officers raided a house along Rewa Street in Suva on 11 June 2018, the

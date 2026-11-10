@@ -47,7 +47,6 @@ open_questions:
   - No arrest location for Yuvaraj's later arrest was given.
   - No charges, court production details or further outcome beyond jailing were reported.
   - Only one accessible source for this event was found after searching in Tamil and English.
-  - The page's lead image is captioned only as Latest Tamil News and the remaining images are unrelated sidebar thumbnails, so no photo is established to show this event and no media entry is included.
 ---
 
 Tamil Nadu special police arrested Yuvaraj, who had been absconding in a

@@ -57,7 +57,6 @@ open_questions:
   - The Assabah roundup gives no separate date for the Sousse seizure; 18 October 2026 comes from the earlier reports.
   - The same article also describes separate operations in Sousse, Sfax, Kasserine, Tunis, Bab Bhar and El Omrane, left out here because one report covers one event.
   - No weight for the 29 slabs and no name, charge or court outcome is given in this account.
-  - The page image carries only the article headline as caption and is not identified as a photograph of the Sousse seizure, so no media entry is listed.
 ---
 
 On Sunday 18 October 2026, national security units in Sousse city arrested a man they suspected of

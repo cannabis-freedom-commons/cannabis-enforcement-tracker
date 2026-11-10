@@ -51,7 +51,6 @@ open_questions:
   - The weight is published as 1.100 kg; it is not stated whether this is measured dried ganja or how it was packaged.
   - No value for the seized ganja, no formal charges beyond a registered case and no court outcome were reported.
   - The three men's names were published by the outlet, but only their ages and home towns are recorded here.
-  - The article's photo is a file picture ('கோப்புப் படம்') of a generic arrest named Arrest-TNIE, not established to show this seizure, so no media entry is included.
   - Coordinates are for Koothanallur town, not the Kunukkudi main road spot where the check took place.
 ---
 

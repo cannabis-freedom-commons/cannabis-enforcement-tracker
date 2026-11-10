@@ -55,7 +55,6 @@ open_questions:
   - The incident date of 23 June 2026 is taken from the 24 June publications saying arrival was at about 10:40 p.m. last night (23); Daily Mirror calls it Monday night although 23 June 2026 was a Tuesday.
   - No outcome of the scheduled 24 June production before the Negombo Magistrate's Court was reported in the opened sources.
   - Both opened accounts relay the Customs version; no statement from the suspect or defence was published.
-  - The Ada Derana page carries two images captioned with the headline and image-0, which does not establish that they show this seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in Daily Mirror: A search of two suitcases found 35.265 kilograms of hashish in 140 packets.'
 ---
 

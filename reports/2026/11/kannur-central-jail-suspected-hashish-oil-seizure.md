@@ -55,15 +55,12 @@ open_questions:
   - No weight, bottle volume, new arrest, charge or court outcome was reported; the prisoner was already in custody.
   - How the phones and intoxicants entered the jail and who supplied them remain unknown.
   - Only one accessible source for this event was found after searching in English and Malayalam.
-  - Janam TV describes the substance as hashish oil while the existing report records it as suspected hashish oil sent for scientific examination, so its identity remains unconfirmed.
   - Janam TV does not name Block 6 and reports mobile phones, SIM cards, batteries and chargers in the plural, so the exact number and location of the phones is unresolved.
   - Janam TV places the suspicious prisoners near the jail tower and gives no bottle concealed in underwear or testing detail, leaving the exact recovery circumstances unclear.
   - No weight, bottle volume, new arrest, charge or court outcome was reported, so no cannabis quantity can be recorded.
-  - The Janam TV page image has no caption or credit establishing it shows this seizure, so no media entry is included.
   - The article gives no separate date for the searches; 4 November 2026 is its publication date and is used as the incident date.
   - This Panoor TrueVision page reports a battery and data cable with the Block 6 phone and does not mention a SIM card, differing from the SIM card, battery and charger in the existing account.
   - This page does not describe a bottle concealed in underwear or scientific testing, so those recovery details continue to rest on the earlier Media One account.
-  - The page's sole content image carries only the article title as caption and its file name refers to a different case, so it is not established to show this seizure and no media entry is included.
 ---
 
 Staff at Kannur Central Jail in Kannur, Kerala, again found a mobile phone and

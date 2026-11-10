@@ -51,7 +51,6 @@ open_questions:
   - The same bilan also reports non-cannabis results on terrorism, illegal gold mining, smuggling and migration, which are left out of this cannabis account.
   - Only one accessible source for this event was found after searching in French and English; the figures are the ANP communique as published by Echorouk.
   - The incident date uses the operation period's end, 3 November 2026, while the bilan was published on 4 November 2026.
-  - The page carries an image captioned with the headline, but it is not established to show this seizure, so no media entry is included.
   - No court outcome, charges or identities beyond the trafficker count were reported.
 ---
 

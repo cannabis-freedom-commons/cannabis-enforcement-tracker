@@ -65,9 +65,6 @@ open_questions:
   - 'Left out, as its quotation was not found in Live Hindustan: From Sharma, police recovered 56 packets of ganja weighing 356 grams and 97 cakes of bhang weighing 2.264 kilograms.'
   - 'Left out, as its quotation was not found in Live Hindustan: From Singh, police recovered 1.610 kilograms of ganja.'
   - 'Left out, as its quotation was not found in Live Hindustan: Police put the combined recovery at 1.966 kilograms of ganja and 2.264 kilograms of bhang.'
-  - The submitted URL is the non-AMP version of the Live Hindustan article already cited in AMP form in the existing report.
-  - The page image is the outlet logo frame dated October 2025, not an event photo, so no media entry is made.
-  - The submitted URL uses story ID 201793617678100 while the existing report cites Live Hindustan story ID 201793602669019; the names, places and quantities match, indicating the same event.
 ---
 
 Police in Balrampur arrested two accused in separate actions in the Kotwali

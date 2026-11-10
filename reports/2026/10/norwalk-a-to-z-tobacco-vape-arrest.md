@@ -63,10 +63,8 @@ open_questions:
   - The same article also reports a separate 20 October raid at SONO Vape and Tobacco, which is already covered by norwalk-sono-vape-marijuana-arrest and is left out here.
   - Only one accessible source for the A-to-Z raid was opened after web-search quota was exhausted.
   - The new account calls the latest search a Thursday warrant while reporting publication on 3 November 2026 and a court appearance on Oct. 29, leaving the weekday of the raid unclear; the existing 28 October 2026 date is unchanged.
-  - The page image is a generic sirens photo dating to January 2023 with no caption tying it to this raid, so no new media entry is added.
   - Quantities from the separate Oct. 13 search at the same shop are mentioned only as background and are not recorded as figures for the 28 October raid.
   - The syndicated account repeats the Norwalk Hour's wording without independent reporting and gives no new detail on either arrest, the charges or a court date.
-  - The MSN thumbnail carries no caption identifying the shop or the seizure, so no media entry is included.
 ---
 
 Norwalk police arrested a Bronx-based employee of A-to-Z Tobacco Vape during a

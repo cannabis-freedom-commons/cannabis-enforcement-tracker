@@ -83,7 +83,6 @@ open_questions:
   - The page photographs and video carry no caption except the headline, so what each shows is not confirmed beyond their placement in the report.
   - Listín Diario says the Samaná operations were in Santa Bárbara, while the earlier account gave no district there.
   - The Espaillat entry gives no marijuana weight, and the 2,077.1-gram total is used as published.
-  - Acento published on 10 November 2026 while the existing report uses 9 November 2026; both describe the same prior week of operations, so the difference is publication timing, not a separate incident.
 ---
 
 Agents of the DNCD, the Dominican drug-control agency, working with the Public

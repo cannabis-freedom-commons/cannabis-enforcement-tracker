@@ -82,12 +82,7 @@ open_questions:
   - Only Aksaray was named, with no district or address, so city-centre coordinates are used with locality precision.
   - Other page images lacked descriptive captions establishing that they show this seizure, so only the captioned seizure image is listed.
   - The same article also summarises two other recent Aksaray operations, one reported by DHA with three jailed and one involving a vehicle stopped after travelling from Konya with two jailed, which are different events left out here.
-  - The new article renders one jailed suspect's initial as Z.Ç. while the existing report uses Z.C.; they are treated as the same person with Turkish-character variation.
   - The article says the technical and physical surveillance lasted a while but gives no start date, so when the investigation began remains open.
-  - The new source spells one set of initials as Z.Ç. while the existing report records Z.C., a transliteration difference.
-  - The submitted page carries a photo captioned only with the operation headline and no credit, which does not establish that it shows this seizure, so no media entry is included.
-  - The new source spells one jailed suspect's initials as Z.Ç. while the existing report uses Z.C., treated as the same person with Turkish-character variation.
-  - The submitted page's image is captioned only as featured with no credit or seizure-specific caption, so it is not established to show this seizure and no media entry is added.
 ---
 
 Gendarmerie teams in Aksaray detained eight suspects identified as B.I., 40,

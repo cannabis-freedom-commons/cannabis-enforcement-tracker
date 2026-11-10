@@ -62,11 +62,6 @@ open_questions:
   - The reported value of about 20 lakh rupees is an approximate police estimate.
   - No court outcome beyond the NDPS case registration was reported.
   - Only one accessible source for this event was found after searching in Hindi and English.
-  - The page carries a photo captioned only 'Chhatarpur News', which does not establish that it shows this seizure, so no media entry is listed.
-  - The Bhaskar article dated 4 November 2026 also describes the interception as happening last night, which would point to 3 November, while the existing report dates the event to 2 November 2026 from the earlier account; the matching details show it is the same interception.
-  - The new account names the first accused as Hiren Nayak while the existing report names Dhirendra Nayak; Jaipal Singh matches in both and the remaining details match, but the correct full name of the first accused remains unclear.
-  - The new account states the total weight as 40 kg while the existing report records more than 40 kg; figures continue to use 40 kg as the stated minimum.
-  - The new account gives only its 3 November 2026 publication date with no separate event date; the existing report dates the interception to 2 November 2026 from the earlier last-night reference.
   - The claim that the ganja was brought from the Odisha side for supply in Chhatarpur appears only in the new account.
 media:
   - kind: photo

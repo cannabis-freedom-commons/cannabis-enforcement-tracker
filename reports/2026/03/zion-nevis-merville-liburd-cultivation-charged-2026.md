@@ -44,7 +44,6 @@ open_questions:
   - No number of plants, weight, or other seizure detail was published, so no plant or kilogram figure is recorded.
   - No arrest detail beyond the charge at Charlestown Police Station was reported.
   - No plea, court date or court outcome was reported.
-  - The Observer page carries an image credited as an RSCNPF photo, but its caption does not confirm what it shows, so no media entry is added.
   - The 13 March 2026 date is the stated offence date; the charge was laid shortly afterwards and published on 18 March 2026.
 ---
 

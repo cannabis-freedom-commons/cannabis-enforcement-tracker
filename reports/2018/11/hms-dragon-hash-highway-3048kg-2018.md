@@ -47,7 +47,6 @@ open_questions:
   - The sources announce the seizure on 26 and 27 November without dating the boarding itself, whose official photos date from 23 and 24 November.
   - The pin is a regional reference for the northern Arabian Sea and Indian Ocean rather than an exact site.
   - The dhow's crew and any arrests were not described in the opened sources.
-  - The BBC report is dated 26 November 2018 but says the seizure happened on Sunday, implying 25 November; the existing report already notes the boarding itself is not separately dated.
 sources:
   - title: Destroyer HMS Dragon seizes tonnes of hashish in major Gulf drugs bust
     publisher: Royal Navy

@@ -60,7 +60,6 @@ open_questions:
   - The source does not say how many people were detained or what charges each defendant faced.
   - The page photo is captioned as an illustration and is not established to show this seizure.
   - Only one source for this event was found; attempts to open a second Le Télégramme account of the case were blocked.
-  - Le Télégramme gives the Limerzel man's term as five years, while actu.fr and Les Infos du Pays Gallo give four years; the existing report's five-year figure is kept in its title and the discrepancy is left open.
   - 'The accounts differ on the house search: Le Télégramme says about 9 kg of resin and €4,450 in cash, while the local outlets say nearly 10 kg and more than €5,000; the larger, broader figures are recorded in the details.'
   - The road-check amount is given as 675 g of resin in labelled bags by Le Télégramme and as about 700 g of cannabis resin by the local outlets; both are kept as reported.
   - The house search also found cocaine and heroin and three alarm pistols, which are not cannabis and are not counted in the cannabis figures.

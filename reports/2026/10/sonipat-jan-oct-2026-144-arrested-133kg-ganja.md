@@ -49,7 +49,6 @@ open_questions:
   - The 144 arrests and 81 cases cover all drugs in the campaign, not only cannabis; the number of cannabis-only cases and arrests is not reported.
   - No figure for the value of the seized cannabis, and no count of plants or area of fields, was reported.
   - Only one copy of the district police figures could be opened; no police press statement or second outlet with the same tally was found.
-  - The page photo is credited only to a 2021 Amar Ujala archive image file for Sonipat and is not known to show this campaign, so no media entry is included.
 ---
 
 Sonipat district police reported that in 2026 up to 31 October they had

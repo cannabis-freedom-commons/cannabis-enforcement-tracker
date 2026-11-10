@@ -42,7 +42,6 @@ tags: [bali, british-national, hashish]
 open_questions:
   - The opened reports give no separate sitting date for the sentence, only that it was handed down earlier in the week of 20 December, so the report uses 20 December, the publication date.
   - The amount is given as 3.6 grams of hashish in the AFP account and as 3.1 grams of cannabis in the Capital FM account; the report uses the AFP figure.
-  - No verifiable photograph of this case was available, so no media entry was added.
 sources:
   - title: "Bali drug trial: Lindsay Sandiford 'should get 15 years'"
     url: https://www.bbc.com/news/world-asia-20794503

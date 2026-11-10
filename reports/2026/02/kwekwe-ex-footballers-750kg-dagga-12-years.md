@@ -88,7 +88,6 @@ open_questions:
   - The arrest report also mentions a separate arrest of Prosper Mphofu with 60 kg of dagga at Trabablas Interchange; that is a different event left out here.
   - This article's opening paragraph gives the haul as 780 kg, while the Zimbabwe Republic Police statement quoted further down gives 750 kg; the report uses the police figure.
   - No source says when the bail hearing took place, whether the court gave reasons for refusing bail, or what it considered, other than that the pair would remain in custody pending trial.
-  - The article leads with 780 kg but its quotation of the Zimbabwe Republic Police statement gives 750 kg; the police figure is the one the existing report uses.
 ---
 
 Former Kaizer Chiefs and Black Leopards forward Abbas Amidu was sentenced to 12

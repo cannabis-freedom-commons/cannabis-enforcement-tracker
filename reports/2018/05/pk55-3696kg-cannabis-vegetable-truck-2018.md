@@ -49,7 +49,6 @@ open_questions:
   - The reports do not say how many packages were carried, or whether the 369.6 kg was cannabis resin or another cannabis product; they call it chanvre indien.
   - No value, charges or court outcome were reported.
   - Only one text was found, published by Cridem via Afriactuel and by Atlasinfo; both carry identical agency-derived wording, so independent corroboration is lacking.
-  - The Cridem page carries an undated photo file named for a drug seizure, with no caption or credit, that does not establish it shows this interception, so no media entry is included.
 ---
 
 Mauritanian gendarmes seized 369.6 kg of chanvre indien, the French term for

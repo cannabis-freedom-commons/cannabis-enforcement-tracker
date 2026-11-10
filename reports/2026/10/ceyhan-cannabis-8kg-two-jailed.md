@@ -82,10 +82,8 @@ sources:
 open_questions:
   - The reports give no separate date for the raid or the court hearing; 29 October 2026 is the publication date of the earliest account, so both happened on or before that evening.
   - No charge, court date, names of the two suspects or estimated value of the cannabis was published.
-  - No photo or video confirmed to show the raid or the seizure was available; the only image on the submitted page repeats the headline as its caption and names no photographer or agency.
   - N Gazete attributes the search to district police teams, while the İHA-based accounts name the district police narcotics bureau; the report follows the more specific account.
   - The Arabic page attributes its information to the Turkish newspaper Cumhuriyet; that original report was not opened, so whether the page adds reporting independent of the four Turkish outlets already cited is unclear.
-  - The submitted page credits İHA and follows the same wire text as other cited outlets, so it corroborates the police account rather than confirming it independently.
 ---
 
 Police in Ceyhan, a district of Adana province, mounted an operation against

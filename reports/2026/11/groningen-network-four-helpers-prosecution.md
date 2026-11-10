@@ -45,7 +45,6 @@ open_questions:
   - All prison terms, community-service hours and the 192,000-euro repayment are prosecution demands, not imposed sentences, so no prison or fine figure is recorded.
   - No court outcome was reported yet; the court still had to review the plea deals.
   - Only one accessible source for this hearing was found after searching in Dutch and English.
-  - The page photo carries a 2019 image file and is not established to show this hearing, so no media entry is listed.
   - The text gives a weight ("800 kilos") but the figures have no kg_seized; check whether it belongs there.
 ---
 

@@ -40,10 +40,8 @@ sources:
     publisher: Macau Daily Times
     date: 2025-05-22
 open_questions:
-  - The page's only cannabis-related photo is a July 2024 file photo of a protest at Government House in Bangkok, not this event, so no media is linked.
   - The February joint-operation total of over 2 tons and the counts of British nationals arrested and cannabis sent by post are separate totals mentioned as context, not part of the recorded March Samui seizure.
   - The two British women reported arrested in Georgia and Sri Lanka after flying from Thailand are separate events in other countries, left out here.
-  - The submitted page carries only an Associated Press file photo of a July 2024 cannabis protest at Government House, not this press conference, so no media is linked.
   - The February joint-operation figure of over 2 tons and the count of British nationals arrested are national totals given as context, not quantities from any single recorded seizure.
 ---
 

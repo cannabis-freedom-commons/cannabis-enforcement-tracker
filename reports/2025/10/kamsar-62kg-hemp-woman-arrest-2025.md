@@ -66,7 +66,6 @@ sources:
     publisher: Seneweb
     date: 2025-10-15
 open_questions:
-  - 'The accounts disagree on the court date: the submitted page and Guinéenews say she would be presented on Tuesday 14 October, while Mosaiqueguinee says Wednesday 15 October 2025.'
   - No charge, court outcome or weight confirmation was reported; the case was at the arrest stage when the accounts were published.
   - The suspect's name, age and home were not published, and no street value was given for the bale.
   - The Guinéenews article is dated 13 October but its text says she would be presented "dès ce mardi", while its last update was 14 October; the incident date 13 October is given explicitly by all accounts.

@@ -49,7 +49,6 @@ open_questions:
   - The Seattle Times account was read as a reprint on a forum page that shows no original publication date.
   - Counts differ slightly between the two accounts ("at least 14" dispensaries raided, later "about 20" storefronts); this report uses the contemporary figure.
   - No outcome of the state drug-dealing charges was reported in these sources.
-  - No photo of the raids with a recoverable direct address was found in the opened sources, so no media entry was added.
 ---
 
 At least 14 medical-marijuana dispensaries across Thurston, Pierce and King counties were raided on Tuesday 15 November 2011, in the largest such sweep since Washington voters approved medical marijuana in 1998. [@1] More than a dozen people were arrested overall: at least 13 on state drug-dealing charges in Thurston County, where cash and marijuana were seized from shops in Olympia, Lacey and Grand Mound, while officers in Pierce County served search warrants but made no arrests. [@1]

@@ -43,7 +43,6 @@ open_questions:
   - The incident date of 12 February 2006 is the end of the reported 4 to 12 February period; the Hamadoni seizure was dated 11 February and the Dushanbe car find was dated to the night from Saturday to Sunday.
   - No arrests, charges or court outcomes were reported; officers were still working to establish the owner of the Hamadoni cache and no detention was stated for Yusufali Gadoev.
   - Only one accessible source for this event was found after searching in English and Russian, so no independent second account is cited.
-  - No photo or video of the seizures was published with the article; the page images are advertisements and unrelated pictures, so no media entry is included.
 ---
 
 Police were conducting operational measures to establish the owner of the cache

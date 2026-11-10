@@ -73,7 +73,6 @@ open_questions:
   - 'Left out, as its quotation was not found in Rupali Bangladesh: The officer said the two listed traders were arrested with the tablets and the 100 grams of ganja at Jambu''s own house while drugs were being sold.'
   - 'Left out, as its quotation was not found in Daily Joypur Barta: DNC sources said officers searched Jambu''s own semi-pucca house on a secret tip and found, as he was searched, 102 amphetamine-based yaba tablets wrapped in polythene inside a white plastic box, with 100 grams of ganja in a separate packet in the same polythene.'
   - 'Left out, as its quotation was not found in Daily Joypur Barta: The men were sent to court after the case was filed against them at Adamdighi police station under the drug law.'
-  - This account places the raid in the Adarshapara (New Bazaar) area of ward 3 in Santahar municipality, which reconciles the address difference the existing report records between Adarshapara and New Bazaar.
   - This account gives no raid time, and no court outcome beyond the filing of the case.
   - Aporadh Tothyachitra places the raid only in the New Bazaar area of Santahar municipal town, without the Adarshapara ward detail other accounts give, and reports no raid time beyond 'Thursday morning'.
   - The two men were sent to jail through a Bogura court after the Adamdighi police station case was filed, and no charge, remand hearing or court outcome beyond that was reported.

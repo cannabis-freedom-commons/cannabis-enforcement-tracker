@@ -55,7 +55,6 @@ open_questions:
   - About 400 kg is a conversion of 'quatre quintaux' at 100 kg per quintal, not an independently stated weight.
   - The sources do not name the 12 detainees, say whether any were charged, or report a court outcome.
   - Both outlets repeat the defence ministry communiqué and no independent account was found.
-  - The Ennahar page image is a graphic captioned with the headline and the Horizons page image is credited only as a ministry picture; neither is established as showing this operation, so no media entry is included.
   - The Ennahar page lists separate defence ministry reports on other cannabis seizures near the Moroccan border, which are different events left out here.
 ---
 

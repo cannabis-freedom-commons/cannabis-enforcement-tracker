@@ -52,7 +52,6 @@ open_questions:
   - No arrest, charge or court outcome was reported; the suspect was not on the property.
   - The property is described only by block address, and the source does not say whether the plants grew indoors, in a greenhouse or outdoors.
   - Only one account could be found, and no Josephine County Sheriff's Office statement could be opened to confirm it.
-  - The page's photos sit in a gallery without captions or credits and are not confirmed to show this grow, so no media entries are added.
 ---
 
 Officers with the Josephine Marijuana Enforcement Team seized more than 2,600

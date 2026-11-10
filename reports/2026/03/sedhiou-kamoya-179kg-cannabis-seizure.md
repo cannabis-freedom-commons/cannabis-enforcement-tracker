@@ -55,10 +55,8 @@ sources:
 open_questions:
   - The two opened sources do not publish the suspect's name, age or nationality.
   - No court outcome was reported; police said investigations were continuing to arrest the remaining network.
-  - The Lactuacho page image uses an August 2024 file with a generic caption, so it is not established to show this seizure and no media entry is included.
   - The police communiqué cited by Pressafrik was not opened directly; only the two news accounts were read.
   - The APS dispatch is dated 17 March and gives no separate date for the interception, so the 15 March incident date rests on the earlier sources.
-  - The APS page shows a main image whose alt text only repeats the headline, without a caption or credit establishing that it shows this seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in APS - Agence de Presse Sénégalaise: The seizure comprised two sisal sacks holding 30 kg and four further sacks holding 149 kg.'
 ---
 

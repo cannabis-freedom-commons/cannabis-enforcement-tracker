@@ -57,7 +57,6 @@ open_questions:
   - Sentencing on 11 January 2027 had not happened when the reports were published, so the penalty is unknown.
   - The specific family relationship between Johnson and Early was confirmed as relatives but not detailed publicly.
   - The submitted post reproduces Cox Media Group / WSB-TV text; the WSB-TV page could not be opened from outside the United States, so FOX 5 Atlanta reporting and Hoodline were used.
-  - The submitted post's images are news-text screenshots and headline cards rather than photographs of the shooting, the discarded marijuana or the court, so no media is listed.
 ---
 
 A Walton County jury convicted 17-year-old Artis Johnson of felony murder,

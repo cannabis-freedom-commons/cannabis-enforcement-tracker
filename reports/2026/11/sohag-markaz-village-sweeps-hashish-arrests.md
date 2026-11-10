@@ -41,7 +41,6 @@ open_questions:
   - Shabu quantities and the 70 Tamol tablets are excluded from cannabis figures because they are not cannabis.
   - The article gives no separate date for the sweeps, so the 4 November 2026 publication date is used as the incident date.
   - Only one accessible source for this event was found after searching in Arabic, with no agency statement or second outlet opened.
-  - The page photo is captioned only with the section and date and is not established to show this seizure, so no media entry is included.
 ---
 
 Sohag centre detectives carried out intensive security campaigns in villages and

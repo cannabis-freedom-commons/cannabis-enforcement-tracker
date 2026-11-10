@@ -62,7 +62,6 @@ open_questions:
   - The bulletin does not say whether the man was released or held under a measure after detention.
   - 'No court stage is reported: the expert examination was still to be assigned and an investigating officer was continuing the case.'
   - The Iskra.bg headline calls the amount large, but no source gives a weight, so that description is not supported.
-  - Pleven.info states that its article picture was generated with artificial intelligence, and the submitted page reuses a Pleven police directorate archive image, so no event photo is listed.
 ---
 
 Police in Cherven Bryag, Pleven Province, detained a 44-year-old man for drug

@@ -57,7 +57,6 @@ open_questions:
   - The detainee's identity was not revealed.
   - No court outcome was reported; the case had been handed to the Public Ministry for criminal proceedings.
   - Both accounts derive from the Interior Ministry report issued through Telegram; the ministry channel itself was not opened directly.
-  - The Instagram images are captioned only as photos by VTV Canal 8 and are not established to show this seizure, so no media entry is drawn from them.
 ---
 
 Bolivarian National Police officers apprehended one person in Maracaibo, Zulia,

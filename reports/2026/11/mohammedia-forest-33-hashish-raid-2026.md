@@ -55,7 +55,6 @@ open_questions:
   - No charges or court outcome were reported; custody on prosecution orders and continuing searches were the last reported steps.
   - The number of demolished dens and of seized motorbikes and cars was not specified.
   - Hallucinogenic pills reported alongside kif and shira are non-cannabis and are excluded from cannabis figures.
-  - The Goud page image has no caption establishing that it shows this seizure, so no media entry is included.
 ---
 
 On the morning of Tuesday 3 November 2026, security forces mounted an intensive

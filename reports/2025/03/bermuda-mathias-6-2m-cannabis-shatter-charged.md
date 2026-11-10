@@ -53,7 +53,6 @@ open_questions:
   - Neither account says how the substances were brought into Bermuda, where they were seized or from where they were imported.
   - 'Danielle Mathias''s age is given as 36 by The Royal Gazette and 37 by TNN, and the sources differ on the split of the estimate: the Royal Gazette gives one combined $6.2 million figure while TNN attributes $6 million to the shatter and nearly $41,000 to the cannabis.'
   - The arraignment is set for the May session, which TNN dates as 1 May; no plea, indictment or Supreme Court trial date is reported.
-  - The Royal Gazette page carries only a generic court graphic and the TNN page a single unlabelled photo, neither confirmed to show the accused or the seizure, so no media is listed.
 ---
 
 David Mathias, 67, and Danielle Mathias, 36, were charged in Bermuda's

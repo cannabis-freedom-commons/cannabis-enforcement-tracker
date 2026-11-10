@@ -76,12 +76,9 @@ sources:
     language: es
 open_questions:
   - No weight was published for the 38 packages, so no kilogram figure is recorded.
-  - 'The reports give no day for the operation: the submitted page says only that it happened over the weekend, and 7 November 2026, the date of the police report and first publication, is used.'
-  - 'The reports differ on where the intervention took place: the submitted page and El Deber put the arrests in Puerto Quijarro, while ABI and La Voz Bolivia say the vehicle checks were run in Puerto Suárez municipality by the Puerto Quijarro Umopar unit.'
   - The anti-narcotics force did not name the suspects, and no charges, custody decision or court outcome was reported.
   - The El Deber, ABI and La Voz Bolivia articles reproduce the same FELCN statement, so they are not independent accounts of the operation.
   - FELCN did not publish its own statement page that could be opened, so the police report is known through the cited outlets.
-  - The submitted page's photo is credited to El Deber, and the same handout photo appears with the ABI copy of the statement; one media entry is listed.
   - The eju.tv page credits ABI and the Felcn's social media accounts, so it repeats the same official statement and is not an independent description of the operation.
 ---
 

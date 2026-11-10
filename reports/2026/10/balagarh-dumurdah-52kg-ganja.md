@@ -60,7 +60,6 @@ open_questions:
   - This account describes only a blue four-wheeled vehicle, so it does not confirm the blue Hyundai i10 and registration WB 06 5668 reported earlier.
   - It confirms police custody for the Balagarh pair but gives no duration, so it does not confirm the reported 14-day custody request or the court's full order.
   - It does not state the Narcotic Drugs and Psychotropic Substances Act charge in the Balagarh case.
-  - The page carries a photo captioned with this twin-operation headline, but its image address dates to 14 October 2026, before the 30-31 October seizures, so it was not treated as showing this event and no media entry is included.
 ---
 
 Two men were arrested in Balagarh, Hooghly district, West Bengal, after police

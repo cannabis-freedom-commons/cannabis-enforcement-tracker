@@ -40,7 +40,6 @@ tags: [unlicensed-farm, trafficking]
 open_questions:
   - KYKN reports the sheriff's East Coast street-value estimate as 269 million dollars while another outlet reports upwards of 200 million; this report uses the sheriff's stated figures via KYKN.
   - No court outcomes for the five arrested men were reported in the opened sources.
-  - Sheriff's-office handout photos appear on the KYKN and Chronic Magazine pages, but they could not be verified as depicting this seizure, so no media entry was added.
 sources:
   - title: Yamhill County Sheriff's Office Seizes Record Amount of Marijuana
     publisher: 1430 KYKN

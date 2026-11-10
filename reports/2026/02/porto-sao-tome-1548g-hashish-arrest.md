@@ -39,7 +39,6 @@ sources:
     language: pt
 open_questions:
   - Only one accessible source for this event was found after searching in Portuguese; no agency statement or second outlet account could be opened.
-  - The page image is an August 2025 file captioned only as Drug Brick Torn Open and is not established to show this seizure, so no media entry is included.
   - No charge, trial or further court outcome beyond the Termo de Identidade e Residência measure was reported.
   - No separate laboratory weight or cannabis-only valuation beyond the reported 1,548.50 g and 3,097-dose equivalence was published.
 ---

@@ -67,7 +67,6 @@ open_questions:
   - The 40,000 taka ganja valuation and 150,000 taka motorcycle valuation in one account add up to the 190,000 taka combined figure in the other, but the sources do not explain the basis of the estimate.
   - The reports do not name a charge section, only that a case was filed at Jibannagar police station.
   - No court outcome, charge sheet or detention order was reported beyond the production before the Chuadanga court.
-  - The submitted page's only photo carries the headline as its caption and no credit, so it is listed as the outlet's report photo; whether it shows this seizure specifically is not confirmed.
 ---
 
 Officers of the Department of Narcotics Control arrested 40-year-old Abdul Kader

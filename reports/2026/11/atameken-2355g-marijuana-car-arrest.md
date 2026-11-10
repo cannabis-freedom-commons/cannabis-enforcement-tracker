@@ -70,8 +70,6 @@ open_questions:
   - Both accounts derive from the same Mangystau police department statement, so they are not independent reporting.
   - The picture with the Kazlenta.kz report is a police handout credited to polisia.kz; the Polisia.kz page carries a separate handout image whose direct address could not be confirmed as showing this seizure.
   - Lada.kz gives no day for the stop, saying only that the Qarasora and Kanal operations ran in late October 2026; the exact date of the stop is still unknown.
-  - Lada.kz states that testing showed the substance was marijuana, while the police statement cited in the existing report describes it as suspected marijuana; no laboratory report is published.
-  - The page shows a video still captioned only 'Кадр видео', and its caption does not confirm it depicts this stop or seizure, so no media entry is added.
 ---
 
 Police in Mangystau Region stopped an Opel Vectra driven by a 48-year-old man in

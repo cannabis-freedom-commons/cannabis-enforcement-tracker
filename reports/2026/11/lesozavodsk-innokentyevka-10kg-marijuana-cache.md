@@ -65,7 +65,6 @@ open_questions:
   - The weight is stated only as more than 10 kg, so the figure is recorded as 10 kg.
   - No figure for a street value was published.
   - Primpress reports a search (обыск) and long-standing suspicion; the police release as quoted by VladNews and Ridus describes checking operational information and finding the cache, and does not mention a search.
-  - 'The submitted page''s picture is captioned Фото: ИИ (AI image) and does not show the event, so no media entry is included.'
   - The man's name was not published and no court date or outcome were reported.
   - ОТВПрим gives no date for the discovery or detention; 6 November 2026 remains the publication date of the earlier coverage.
 ---

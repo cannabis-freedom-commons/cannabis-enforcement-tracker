@@ -67,10 +67,8 @@ open_questions:
   - 'The PTI reports disagree on the consignment''s origin: Deccan Chronicle said it was brought by road from Keralam, while DT Next said it came by car from Coimbatore.'
   - The reports give no court appearance, charges or sentence; DT Next says only that a case was registered under the NDPS Act. The Hindu gives no market value.
   - The Hindu and DT Next call the drug hashish oil, while Deccan Chronicle calls it hashish; all describe the same 17 kg seizure.
-  - India Today reports 67 kg of hashish oil for the Tuticorin seizure, while The Hindu and two PTI reports used in the existing report all report 17 kg with the same Rs 17 crore valuation, so the 17 kg figure is retained and the 67 kg figure is not used.
   - The same India Today article also reports a separate seizure of about 3.4 kg of hydroponic ganja from a passenger arriving from Kuala Lumpur at Chennai airport, a different place and agency left out of the Thoothukudi report.
   - The page image supplied with the capture shows an unrelated story with a Hindi caption about a different police investigation, so no photo of this seizure can be linked.
-  - The submitted page is a shortened PTI feed copy that stops after the second paragraph, and the page image is ThePrint's generic placeholder, so no photo of this seizure can be linked from it.
 ---
 
 Four men were arrested in the early hours of Monday 28 September 2026 when

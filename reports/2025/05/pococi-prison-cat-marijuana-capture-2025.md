@@ -86,12 +86,9 @@ open_questions:
   - 'Left out, as its quotation was not found in EL PAÍS América: The cat was handed to the National Animal Health Service (Senasa) for safekeeping and care.'
   - 'Left out, as its quotation was not found in EL PAÍS América: El País recalled a similar case in 2018, when a cat carried marijuana and phones into La Reforma prison.'
   - 'Left out, as its quotation was not found in EL PAÍS América: The newspaper said two more cats were caught in 2021 being used to smuggle contraband into the Jorge Arturo Montero and Nelson Mandela prisons.'
-  - El Mundo gives 235.56 grams of marijuana while the existing report records 235.65 grams, a 0.09-gram difference left unresolved.
   - The 67.76 grams of crack are excluded from cannabis figures because crack is not cannabis.
   - The only image captured from the El Mundo page is an unrelated thumbnail about another story, so no event photo from this outlet can be listed.
   - OndaCero names the 67.76 grams taped to the cat as cocaine, while the report records the same amount as crack paste; the two accounts describe one second packet and neither figure is counted as cannabis.
-  - CNN describes the second packet as cocaine, while the existing report records the ministry’s description as crack paste.
-  - El Comercio reports 235.65 g of marijuana, the same figure as the existing report; one earlier outlet gave 235.56 g.
   - El Comercio's photo caption credits it only as a screen capture, so the underlying source of the image is unclear.
 ---
 

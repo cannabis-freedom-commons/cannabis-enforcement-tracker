@@ -43,7 +43,6 @@ open_questions:
   - No drug quantity was published and the seizure mixed cocaine with cannabis, so no kilograms can be recorded as cannabis.
   - The suspect's name was not published, only his age, dual nationality and Palma origin.
   - No charge, custody decision or court outcome beyond the trafficking accusation was reported.
-  - The Carta page carries a detention photo without a caption or credit establishing that it shows this arrest, so no media entry is included.
   - The Club of Mozambique account attributes its version to Carta, so the two sources reflect a single-origin police account.
 ---
 

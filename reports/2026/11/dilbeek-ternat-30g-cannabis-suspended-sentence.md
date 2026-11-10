@@ -55,7 +55,6 @@ open_questions:
   - The headline calls the man a dealer, but the text states the investigation showed he was not dealing; the report follows the text.
   - The 400-euro minnelijke schikking was a settlement offer the man did not pay, not a court-imposed fine, so no fine figure is recorded.
   - The man's identity and age, the court that sentenced him and any conditions attached to the suspension were not reported.
-  - The page's lead image carries only the credit Marc Baert / AFP with no caption or alt text tying it to this stop or seizure, so no media entry is listed.
 ---
 
 A young man from Dilbeek was convicted of cannabis possession and given six

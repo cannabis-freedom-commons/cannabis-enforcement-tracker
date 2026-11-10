@@ -74,7 +74,6 @@ open_questions:
   - The airport is described as N'djili by the sources; it is now known as Kinshasa N'djili international airport.
   - No arrest, charge or court outcome is reported for Instadose Pharma DRC SARL or its officials; only a customs offence report is mentioned.
   - The sources date the seizure to 11 June 2021, while AfricaNews RDC places the interception in the night of Thursday 10 to Friday 11 June 2021.
-  - The submitted page shows two photographs inside the article without captions or credits naming what they depict; only the second is listed as media.
   - An AfricaNews RDC sentence appears to say the brigade forced the disputed cargo aboard an Ethiopian flight during a two-hour struggle, which conflicts with the seizure account; this detail is not used.
   - The route by which the cannabis biomass reached N'djili before the Macedonia-bound flight is not reported.
   - 'Left out, as its quotation was not found in AfricaNews RDC: AfricaNews RDC reported that an unidentified group attacked the Bolloré warehouse where the seized goods were stored, and that officers kept control of the cargo.'

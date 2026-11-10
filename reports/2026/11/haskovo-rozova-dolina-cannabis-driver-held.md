@@ -48,7 +48,6 @@ open_questions:
   - The separate case of the 57-year-old lorry driver found with 2.41 promille of alcohol on the Maritsa motorway is an alcohol-only case recorded in the same police report and is left out of this cannabis report.
   - Only one account of this stop could be found; the Haskovo regional directorate statement itself was not opened.
   - The article gives no more precise location than Rozova dolina Street; coordinates are for Haskovo city centre with locality precision.
-  - The page's only picture carries no caption tying it to this stop, so no media entry is included.
 ---
 
 Police in Haskovo detained two drivers for breaches of the Road Traffic Act, the

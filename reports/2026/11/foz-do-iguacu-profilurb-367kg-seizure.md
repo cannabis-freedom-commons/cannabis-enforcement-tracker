@@ -65,10 +65,7 @@ open_questions:
   - No suspects were located, so no arrests, charges or court outcome were reported.
   - The final destination of the drug was not disclosed.
   - The Military Police rounds the estimated loss as R$764.4 mil while O Paraná gives R$764,480; the report uses the precise figure.
-  - This source rounds the cannabis weight to 367 kilos while the existing report uses 367.04 kg, so the precise figure is retained.
-  - This source places the cannabis interception in the Porto Meira region while the existing report places it at Profilurb II, and the opened text does not clarify the relationship between those names.
   - The same article also reports a separate Vila Portes seizure of approximately 2,500 packs of Paraguayan cigarettes in a VW Gol, a non-cannabis event left out of the cannabis record.
-  - The page image is filed under a cigarettes filename without a caption confirming it shows the cannabis seizure, so no media entry was added.
 ---
 
 A joint Border Police Battalion (BPFron) and Federal Police team intercepted

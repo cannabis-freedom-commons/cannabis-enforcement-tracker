@@ -52,7 +52,6 @@ open_questions:
   - The accounts give no weight or value for the marijuana found on him.
   - Both reports say only 'Thursday night' with 15 March 2024 as their publication date; 14 March 2024 is taken as the arrest date.
   - The WCTI report describes the drug charge as possession with intent to sell or deliver 'Schedule VI', North Carolina's classification for marijuana; WITN names marijuana directly.
-  - A third image on the submitted page is captioned only with a name, Jeffrey Smith, and is not shown to relate to this arrest, so no media entry is drawn from it.
   - No court outcome, plea or amount of bail was reported.
 ---
 

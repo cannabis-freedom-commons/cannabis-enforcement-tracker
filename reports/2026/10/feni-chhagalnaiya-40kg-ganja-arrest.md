@@ -94,10 +94,7 @@ open_questions:
   - No case number, charge sheet or court date is given; one account says legal steps are still being arranged and the other says a Narcotics Control Act case is being prepared.
   - The photograph on Rajshahir Somoy is the site's reused placeholder, used on unrelated stories, and was left out.
   - Dhaka Mail identifies the incident as Thursday, 30 October, although 30 October 2026 was a Friday; the other opened account also calls it Friday.
-  - This account times the raid at 4:05 pm, while the existing report follows another Bangla account timing it at about 4 pm.
-  - The page carries a photo captioned only with the headline, without credit or description establishing that it shows this seizure, so no media entry is included.
   - Jagonews24 times the raid at 4:05 pm, while the report's main account gives about 4 pm; another cited account already gives 4:05 pm.
-  - This account dates the raid to the dawn of 31 October, while the existing report dates it to the afternoon of 30 October; the publication date is 31 October 2026.
   - This account garbles the arrested man's patronymic, so his age, full name and parentage continue to rest on the earlier sources.
 ---
 

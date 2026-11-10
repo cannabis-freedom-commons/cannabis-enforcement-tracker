@@ -71,7 +71,6 @@ open_questions:
   - The headline says a verdict for the seven defendants, but the article body describes a trial hearing; no verdict or sentence is reported.
   - The report uses 2 November 2026, the publication and hearing date; no separate date is given for the earlier arrest or seizure.
   - The headline says 500 tramadol tablets while the body and lab report say 499 tablets; the report uses the 499-tablet lab figure and excludes it from cannabis figures.
-  - The only listed image is captioned as an archive court-gavel photo, not this event, so no media entry is included.
   - Cocaine, phenethylamine-derivative powder and tramadol weights are not cannabis and are excluded; no combined drug total is counted as cannabis.
   - The article gives no date for the sentencing hearing itself; 7 November 2026 is its publication date and is used as the incident date.
   - The article reports no fines, confiscation orders or appeal, so the sentence is not recorded as final.
@@ -79,7 +78,6 @@ open_questions:
   - No single prison figure can express the sentence, because the seven defendants received three different terms; the figures give life for three, 15 years for three and 10 years for one.
   - The article gives no weight for the cocaine or the phenethylamine-derivative powder, so no other-substance quantity is recorded and no combined total is used as cannabis.
   - Only Al-Masry Al-Youm and no second outlet or court statement for the verdict could be opened; no sentence date beyond the publication date is stated.
-  - The page's only image is a captioned archive court-gavel photo, not this case, so no media entry is added.
 ---
 
 On 2 November 2026 the Giza Criminal Court heard the trial of seven defendants

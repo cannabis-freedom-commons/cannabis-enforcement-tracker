@@ -47,7 +47,6 @@ open_questions:
   - The reports name no age or full name for the suspect, only that he lives in St Clair Extension, Trincity.
   - The article gives no separate date for the operation; 15 August 2025 is the Friday before the 16 August publication date, and that reasoning is used for the incident date.
   - Both outlets carry the same TTPS account, so the two reports are not independent; no separate police release could be opened.
-  - The photos on both pages are uncaptioned handcuff images not established to show this arrest, so no media entry is included.
 ---
 
 Trinidad and Tobago police arrested one man for trafficking cannabis during a

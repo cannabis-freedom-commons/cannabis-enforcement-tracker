@@ -51,7 +51,6 @@ open_questions:
   - The suspect was not named, only described as an unemployed man with a criminal record.
   - No charges, detention order or court date had been announced; the case was with the Public Prosecution for investigation.
   - Only one source for this event was found after searching in Arabic.
-  - The page photo is captioned only as the accused and is not established to show this seizure, so no media entry is included.
 ---
 
 Cairo detectives arrested a man in the Marg police station district in Cairo on

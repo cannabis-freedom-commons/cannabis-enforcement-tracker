@@ -62,7 +62,6 @@ open_questions:
   - The 4,010 litres of foreign liquor are mentioned only to explain the mixed operation and are excluded from cannabis figures.
   - No charges, court production or sentence were reported; police questioning and network investigation were still under way.
   - No cannabis value, laboratory confirmation or published source for the ganja was given.
-  - The submitted page carries a second image without a caption or description, which does not establish that it shows this seizure, so no media entry is included for it.
 ---
 
 Police arrested Akhilesh Kumar on a ganja-smuggling allegation. [@1] Kumar is a

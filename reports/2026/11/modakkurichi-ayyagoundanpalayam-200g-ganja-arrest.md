@@ -46,7 +46,6 @@ open_questions:
   - The report does not say whether police suspected the man of selling ganja or of holding it for his own use.
   - The same article reports a separate Veerappansathram police arrest near Veerappampalayam junction, where 300 grams of ganja was seized; that is a different event, left out here and not counted in the figures.
   - Only one accessible source for this event was found after searching in Tamil and English for a second account.
-  - 'The page carries no photo of this arrest: its images are other Tamil Nadu news pictures, so no media entry is included.'
 ---
 
 Modakkurichi police arrested Sri Sanjay, 20, of Kakam Muthaiyanvalasai near

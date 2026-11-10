@@ -64,7 +64,6 @@ open_questions:
   - The date of the incident comes from the police announcement as quoted, but the reports are dated 6 and 7 November 2026 for the overnight checks.
   - The number of people charged under the drug law specifically, as opposed to the other offences, was not stated.
   - No court outcome was reported; the case files had only been sent to the public prosecutor when the reports were published.
-  - The submitted page's lead image is an AI-generated illustration, not a photograph of the checks, so no media entry is included.
   - The agency photograph published with the Dnews report shows a police scene and is not established to depict these arrests, so it is not linked.
   - This outlet gives no weight for the cannabis and, unlike the earlier reports, does not say how many of the ten were held over cannabis.
   - The lead image is a stock police-car picture captioned to Agios Dimitrios, not the OAKA checks, so it is not linked.

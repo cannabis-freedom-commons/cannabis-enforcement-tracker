@@ -45,7 +45,6 @@ open_questions:
   - No weight, plant count or tablet count was published, so no cannabis quantity or Tramadol figure can be recorded and no combined total is attributed to cannabis.
   - The names and ages of the two suspects were not published.
   - No charges, trial date or court outcome were reported; the suspects were to be presented to the prosecutor after the inquiry.
-  - The only page image is a generic Republican Police vehicle captioned from the Presidency of Benin, not this search, so no media entry is included.
   - La Nouvelle Tribune also mentions separate Cotonou and Porto-Novo operations in June, July and 2025; those are different events left out of this report.
 ---
 

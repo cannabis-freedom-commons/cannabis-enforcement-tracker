@@ -56,7 +56,6 @@ open_questions:
   - The Hindu does not date the operation beyond a press conference on Thursday, 10 September 2026, so that day is used as the incident date.
   - No exact place name is given; PTI puts the interception between Vellarada and Kattakada, so district-level coordinates are used.
   - No street value was published, and no charge, remand or court outcome was reported.
-  - The pages carried no photo of the seizure, only a representational or logo image, so no media entry is included.
 ---
 
 Thiruvananthapuram Rural Police seized 87.59 kg of ganja from a Tamil

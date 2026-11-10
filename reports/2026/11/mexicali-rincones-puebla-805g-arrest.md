@@ -62,8 +62,6 @@ open_questions:
   - The substance is described only as having the characteristics of marijuana, and no laboratory confirmation is reported.
   - The detainee's legal situation after referral to the FGE narcomenudeo unit is not reported.
   - Both accounts appear to follow the same official bulletin, so no independent weighing or separate official statement is established.
-  - The submitted AMP URL ends in n912122 while the existing report cites a Uniradio variant ending in n912123 on a different Uniradio domain with the same title and text.
-  - The page carries a lead image captioned with the headline, but the caption does not establish that it shows this seizure, so no media entry is added.
 ---
 
 Officers of the Fuerza Estatal de Seguridad Ciudadana (FESC), Baja California's

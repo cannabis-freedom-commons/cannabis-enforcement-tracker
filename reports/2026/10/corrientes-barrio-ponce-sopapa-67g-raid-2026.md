@@ -70,7 +70,6 @@ sources:
     date: 2026-10-10
     language: es
 open_questions:
-  - The submitted page is a daily index of headlines from 10 October 2026 and gives no facts about the raid itself; the report relies on the linked El Litoral article of 9 October and the Corrientes al Día article of 10 October.
   - El Litoral says the operation ended with the detention of the man known as Sopapa, while Corrientes al Día says the police report did not specify whether his detention was ordered; the report keeps the arrest count at one and records the discrepancy.
   - The marijuana weight of 67 grams is a police measurement; no laboratory confirmation of the substance was reported.
   - No charge, plea, measure of restraint or court outcome was reported, and the suspect is identified only by the alias Sopapa.

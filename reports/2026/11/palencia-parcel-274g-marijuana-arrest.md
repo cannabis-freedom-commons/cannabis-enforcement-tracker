@@ -82,8 +82,6 @@ open_questions:
   - The reported value of almost 5,000 euros covers cocaine and marijuana together, so no cannabis-only value is recorded.
   - The 50.55 grams of cocaine are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - No origin for the parcel, sender details, or later court outcome were published.
-  - The La Noción page image is captioned only as Foto de la noticia and is not established to show this seizure, so no media entry from that page is included.
-  - The OndaCero page publishes images but the captured text provides no caption establishing that they show this seizure, so no media entry from this source is included.
   - The new page captions its photo as showing cocaine and hashish while its body reports 274 grams of marijuana, so the caption terminology differs from the recorded cannabis description.
 ---
 

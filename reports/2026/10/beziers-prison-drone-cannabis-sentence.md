@@ -62,9 +62,6 @@ open_questions:
   - No estimate of the value of the drugs was published.
   - The reports do not say which prisoner the package was intended for.
   - 'Left out, as its quotation was not found in InfOccitanie: The 18-year-old was tried in immediate appearance, a fast-track procedure, on 29 October and given 15 months in prison with immediate incarceration.'
-  - The submitted article dates the court decisions to Friday 30 October 2026, while the existing report uses 29 October 2026.
-  - The submitted article describes the arrest as the night of 27 to 28 October 2026, while the existing report phrases it as the night of 28 October 2026.
-  - The page's only image is captioned as an Adobe Stock illustration and does not show this event, so no media entry is added.
 ---
 
 An 18-year-old man and a 21-year-old woman were arrested near the Béziers prison

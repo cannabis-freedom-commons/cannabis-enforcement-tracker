@@ -55,8 +55,6 @@ open_questions:
   - The 1 kilogram of ice/shabu is a separate non-cannabis drug and is excluded from kg_seized under the substance scope.
   - The deceased man is not named and no age or further identity is given.
   - No arrests beyond the death, no seizure value and no court outcome are reported.
-  - No event photo is listed because the submitted page images are unrelated or placeholders and the second page labels its body image as archival.
-  - The Dostor page's only listed image is captioned as the interior minister and does not show the raid, seizure or hideout, so no media entry is added.
 ---
 
 Beheira police killed a man described as a highly dangerous criminal during a

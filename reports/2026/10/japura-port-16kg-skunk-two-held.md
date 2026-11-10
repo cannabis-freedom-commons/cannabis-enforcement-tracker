@@ -75,7 +75,6 @@ open_questions:
   - The names of the two arrested men were not published.
   - No charges or court outcome were reported, and whether the men remain in custody is unknown.
   - The incident day is given only as Saturday (31); 31 October 2026 is inferred from the 1 November 2026 publication date.
-  - A second image on the submitted page carries no caption, so whether it shows this seizure could not be established and it is omitted.
   - The Politiza Amazonas account credits Imediato Online and reproduces its photo, adding no independent photography.
   - 'Left out, as its quotation was not found in O Chefão da Notícia: One suspect said he knew he was carrying drugs and would receive between R$1,000 and R$1,500 to look after the material.'
 ---

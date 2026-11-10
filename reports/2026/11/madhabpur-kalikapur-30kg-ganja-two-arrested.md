@@ -73,7 +73,6 @@ open_questions:
   - The article does not say what quantity was carried beyond 30 kg of ganja, nor whether the two men were produced before a court.
   - The page's only photo carries no caption or credit beyond a WhatsApp-style file name, so its content is not established in detail.
   - The article writes the unit as SRB-9 rather than RAB-9; it is read as RAB-9 because the CPC-3 Shayestaganj camp, commander name and operation match the existing RAB-9 account.
-  - The article says the arrest was at 2:55 on the night of Thursday 5 November, so the early hours straddle 5-6 November; 5 November 2026 is retained as the incident date for consistency with the existing report.
 ---
 
 RAB-9 arrested two men it described as drug traders in a raid on a covered van

@@ -43,7 +43,6 @@ open_questions:
   - The charges are described as preliminary and no court date, plea or outcome was reported.
   - The marijuana was identified by odor and the cocaine by a field test, with no laboratory confirmation reported.
   - Only the WBIW affidavit account could be opened; no agency statement or second outlet account was found after searching.
-  - The page's only image is a portrait captioned Michael T. Raines, which does not show the stop or seizure, so no media entry is listed.
 ---
 
 44-year-old Michael T. Raines of Pueblo, Colorado, was arrested in Mitchell,

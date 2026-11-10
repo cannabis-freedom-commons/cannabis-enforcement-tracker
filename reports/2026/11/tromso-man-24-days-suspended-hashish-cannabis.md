@@ -60,7 +60,6 @@ open_questions:
   - Other quantities of hashish and cannabis found on several later occasions have no figures.
   - The 3,000 kroner is stated as sakskostnader (legal costs), not a fine for the offences, and no value for the cannabis was published.
   - 'No second independent full account was opened: iTromsø''s article is paywalled and the accessible Nyhetspressen text is a short iTromsø teaser.'
-  - The page photo shows a police vehicle outside the Tromsø police station (Terje Pedersen / NTB) and does not show the man, the drugs or the seizure, so no media entry is included.
   - No appeal or finality of the judgment is reported.
 ---
 

@@ -48,7 +48,6 @@ open_questions:
   - The 16.5 kg of doda post is opium poppy husk, not cannabis, and is left out of the cannabis figures; only the 8 kg of ganja is counted.
   - No plants, growing site, cash or court outcome is reported; no charge beyond the NDPS Act reference could be confirmed.
   - Only one accessible source was found; searches in Hindi and English returned no second account of the same interception.
-  - The page's lead image shows the exterior sign of Rajaldesar police station rather than the seizure, so no media entry is given.
 ---
 
 Police in Rajaldesar, Churu district, Rajasthan, moved against narcotics

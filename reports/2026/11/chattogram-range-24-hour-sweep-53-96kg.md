@@ -53,9 +53,7 @@ open_questions:
   - Yaba tablets are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - The operation ran from 3 to 4 November 2026 and the report uses 3 November as the incident date.
   - Only one accessible source for this 3-4 November operation could be opened; matching reports were found in search but their pages returned access errors and are not cited.
-  - The page photo is captioned only with the operation headline and is not established to show this seizure, so no media entry is included.
   - No detained person was named and no later court outcome beyond the mobile-court sentences was reported.
-  - The English account rounds the cannabis seizure to nearly 54 kilograms while the existing report records the precise 53 kg 960 grams figure, so the precise figure is retained.
   - The English account lists 40 arrests under narcotics laws without the detailed 78-plus-62 breakdown behind the 140 drug-linked detentions, so the report keeps the detailed count.
 ---
 

@@ -89,7 +89,6 @@ open_questions:
   - The Limpopo Mirror and Arrive Alive both reproduce the same Limpopo SAPS statement, so they are not independent accounts.
   - It is not stated whether the suspect was charged at his first appearance or whether the case was postponed.
   - The two Arrive Alive images were not added as media because their content could not be confirmed as showing the seizure.
-  - SABC News puts the dagga's value at R660 000, while the existing report and its sources give R662,400.
   - The African Times/MSN account reproduces the same Limpopo SAPS statement as the report's existing sources, so it is not an independent account.
   - The headline gives the dagga's value as R600 000 while the body gives R662 400; the report keeps the police estimate of R662,400.
   - The African Times article is a one-minute read that gives no weight for the dagga and no outcome of the 9 November 2026 court appearance.

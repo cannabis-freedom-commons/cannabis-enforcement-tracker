@@ -39,7 +39,6 @@ open_questions:
   - No number of detainees linked to the hauls was published.
   - Exact seizure locations were not specified, so the place is recorded at country level.
   - The combined 710 kg total and 351 kg of cocaine are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
-  - The page offered only the outlet logo and no photo establishing this seizure, so no media entry is included.
   - Only one accessible account of this total was opened after searching, so no second source corroboration is included.
   - Money, weapons, boats and migrant retentions mentioned for the 46-year history are separate enforcement topics left out of this cannabis seizure account.
 ---

@@ -91,9 +91,7 @@ open_questions:
   - A TARDE gives the hashish weight as about 7.5 kilograms ("Cerca de 7,5 Kg"), while the PRF's own statement and the other accounts give about 7.3 kilograms; the report keeps 7.3 kilograms.
   - Acorda Cidade reports only that the passenger was arrested in the act and taken to the Civil Police station; it gives no charge, court date or outcome.
   - The portal does not name the passenger or say how many people were on the bus.
-  - The published photo is the same PRF handout of the seven hashish tablets already linked from the PRF statement in this report, so no separate media entry is added.
   - SulBahia1 reproduces the same PRF statement as the outlets already cited, so it is not independent reporting of the seizure.
-  - The submitted page's lead photo is a PRF handout of the seven packages, apparently the same agency image already linked from the PRF page; only the PRF copy is retained as media to avoid listing one picture twice.
 ---
 
 Federal highway police stopped an interstate passenger bus at their post on

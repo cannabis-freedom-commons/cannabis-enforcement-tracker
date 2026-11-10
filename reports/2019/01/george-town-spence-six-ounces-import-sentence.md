@@ -52,7 +52,6 @@ open_questions:
   - The sources give no name for the person Spence was to forward the ganja to, and no charge against anyone else is reported.
   - No street value for the six ounces was published, so none is recorded.
   - The article does not say whether Spence faces deportation or other immigration action after his sentence.
-  - The page's only image is a general photograph of the courthouse with a caption about online court records, which does not show this event, so no media entry is included.
 ---
 
 Garfield Ainsley Spence, a 24-year-old frequent visitor to the Cayman Islands,

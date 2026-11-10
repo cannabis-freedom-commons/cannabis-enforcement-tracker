@@ -41,7 +41,6 @@ sources:
 open_questions:
   - Only one outlet's account of this seizure could be reopened; it attributes the facts to the Customs Commission via FBC.
   - The same article mentions a separate 1,280 kg cannabis seizure at Yabelo, a different event left out here.
-  - No photo confirmed to show this seizure was available, so no media entry was added.
 ---
 
 Ethiopia's Customs Commission seized 33 quintals (3,300 kg) of cannabis at the Tulu Dimtu checkpoint on the outskirts of Addis Ababa on 13 May 2019. [@1] Smugglers were bringing the cannabis into the capital in an Isuzu FSR truck, according to the account, which cites the state broadcaster FBC. [@1]

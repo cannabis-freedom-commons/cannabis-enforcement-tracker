@@ -43,7 +43,6 @@ open_questions:
   - No weights or street values were published for the marijuana or the methamphetamine, so no cannabis quantity or value is recorded.
   - The five checks are reported together without saying which man held which drug, so the cannabis component cannot be tied to a specific suspect.
   - The suspects' names were not published and no charges or court outcome were reported; the files went to the prosecutor's office.
-  - The page picture is captioned as created with artificial intelligence, so no photo of the checks or the seizure is available and no media entry is included.
   - Only one accessible source for this event was found; searches in Bulgarian did not surface the Varna police statement or another outlet's coverage.
   - The article does not say whether the drugs were held for personal use or for distribution.
 ---

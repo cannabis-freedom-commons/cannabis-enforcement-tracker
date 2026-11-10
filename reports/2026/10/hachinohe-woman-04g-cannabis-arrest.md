@@ -56,7 +56,6 @@ open_questions:
   - No weight or volume was given for the seized bottle of cannabis liquid, so it is not counted in the cannabis weight figure.
   - No court outcome, charge beyond the reported suspicion of violating the drug control law, or detention status was reported.
   - Only the RAB Aomori Broadcasting account and its republications could be opened; no independent second outlet account was found.
-  - The only image supplied with the submitted page is captioned solely with the outlet name, so no event photo is listed.
 ---
 
 Hachinohe police arrested a 30-year-old woman who works in video distribution at

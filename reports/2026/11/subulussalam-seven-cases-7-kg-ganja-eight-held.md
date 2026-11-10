@@ -52,8 +52,6 @@ sources:
     language: id
 open_questions:
   - The submitted Wahana News Serambi page gives no breakdown of the seven cases, no locations and no arrest dates; the 6 November 2026 press conference date is used as the incident date.
-  - The submitted page wrongly dates the press conference to Friday (6/10/2026) while giving its own publication date as 6 November 2026; the later date is used.
-  - The submitted page says the drugs were found through raids at several locations but gives no place names or individual case details.
   - No street value, individual charges or court outcome was published; police said the investigation continued.
   - The outlets reporting the seven-case breakdown draw on the same police release, so the figures are the police's own and were not independently counted.
   - The Wahana News Serambi page photograph carries only a general caption with no credit and is not established to show this seizure, so the police-handout photo from INFORakyat is linked instead.

@@ -37,7 +37,6 @@ open_questions:
   - The report does not explain how police established cannabis, amphetamine and methamphetamine use when the driver refused chemical testing
   - No outcome of the fast-track proceedings was reported
   - Only one source for this event could be opened after searching in Bulgarian and English
-  - The page image is captioned as an AI illustration by BurgasMedia, not as a photo of this stop, so no media entry is listed
   - The exact street location within Slaveykov was not given; coordinates are for Burgas centre with locality precision
 ---
 

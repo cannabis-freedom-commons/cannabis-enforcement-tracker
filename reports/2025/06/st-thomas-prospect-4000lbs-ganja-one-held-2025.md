@@ -58,7 +58,6 @@ open_questions:
   - The Observer dates the operation to Sunday and describes it as beginning about 2:00 am; the Gleaner dates the seizure to Saturday night about 11:20 pm. The night of 14 June 2025 is used as the incident date.
   - The Observer gives 4,000 pounds and more than 750 parcels; the Gleaner gives 4,079 pounds, 765 packages and 154 knitted bags. The Gleaner figures are used, and 4,079 pounds is converted to about 1,850 kilograms.
   - No charge or court outcome was reported; the man's name was withheld and the investigation was said to be continuing.
-  - The Observer's lead picture is captioned only "Ganja File Photo", and the Gleaner's is captioned "File photo", so neither shows this seizure and no media entry is added.
   - The Observer describes the place only as an abandoned premises in Prospect; the Gleaner says it was an unoccupied building and withdrew an earlier reference to Cerlean Bay.
   - No figures were reported for the boats, drums or other items seized.
   - RJR News places the operation in the Blue Mahoe scheme and calls the premises a dwelling, while the Gleaner and Observer describe an unoccupied building or abandoned premises in Prospect; the sources do not say how the two names relate.

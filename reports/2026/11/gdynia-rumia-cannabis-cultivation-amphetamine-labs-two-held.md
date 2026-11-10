@@ -108,7 +108,6 @@ open_questions:
   - The report says the 45 litres of base amphetamine could yield 60 kg of finished drug; that is a police estimate of potential output, not a quantity seized.
   - Neither account says when the case began or whether the two men had pleaded; no court outcome beyond temporary arrest was reported.
   - Both cited pages publish the same CBŚP statement, so they are not independent reporting; no police page or other outlet account of the operation was found.
-  - The submitted page's photograph is captioned only as a frame from a video shared by the police, and the report does not say which laboratory or materials it shows.
   - The text gives a weight ("3.5 kg") but the figures have no kg_seized; check whether it belongs there.
   - The Chinese-language account gives the same police-sourced details as the Polish reports and does not independently confirm them.
   - No separate date is given for the searches or detentions; 9 November 2026 is both its publication date and the date of the account it translates.

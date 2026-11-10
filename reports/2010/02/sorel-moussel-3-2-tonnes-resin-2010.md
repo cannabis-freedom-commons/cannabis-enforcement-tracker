@@ -66,7 +66,6 @@ open_questions:
   - Le Parisien reports nine further arrests around Dreux and at Roissy airport besides the woman found with the resin; 20 Minutes gives ten arrests in total, which is used.
   - No court outcome of the case is reported in these accounts.
   - The 27 weapons seized are not cannabis figures and stay in the text only.
-  - The submitted Le Parisien page carries only a placeholder image, so no media is listed.
   - 'Left out, as its quotation was not found in 20 Minutes: Officers valued the consignment at 15 million euros.'
   - Left out agency types, as its quotation was not found in 20 Minutes.
   - Left out value, as its quotation was not found in 20 Minutes.

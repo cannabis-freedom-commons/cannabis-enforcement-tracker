@@ -61,7 +61,6 @@ open_questions:
   - The court is not named beyond a local court, and no judge is identified.
   - The Control of Narcotic Substances Act sections applied, whether the fine has been paid and whether an appeal was filed are not reported.
   - The only account opened was the UrduPoint page carrying the Associated Press of Pakistan report; no separate outlet or agency statement could be found to corroborate it.
-  - The page's lead image has only the headline as its alt text and no caption establishing that it shows this case, so no media entry is included.
 ---
 
 A local court in Rawalpindi sentenced a drug supplier to 14 years of rigorous

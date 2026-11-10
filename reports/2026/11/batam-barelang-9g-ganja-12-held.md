@@ -68,9 +68,6 @@ open_questions:
   - The reports do not break down which of the 12 suspects held the ganja; the arrested total is for the whole nine-case roundup.
   - The same page also describes a separate evidence-destruction exercise from six September-October 2026 reports involving 10 suspects, left out here as a different event.
   - The page photo is established only as officers displaying evidence at the press conference from the screenshot and article context, with no published credit.
-  - The agency account gives the combined value as about Rp502 million, slightly more precise than the rounded figure in the existing report.
-  - The agency account gives only weights for ganja and sabu and a pill count for ecstasy, without the packet counts in the existing report.
-  - The agency page image carries only the caption Main, which does not establish that it shows this seizure, so no media entry is added.
   - 'Left out, as its quotation was not found in Batam Today: The press conference in the Polresta Barelang lobby was attended by the narcotics-investigation head, the public-relations head and representatives of Batam BNN, Customs, the district prosecutor''s office, the district court, BPOM, suspects'' counsel and the Granat Kepri chair.'
 ---
 

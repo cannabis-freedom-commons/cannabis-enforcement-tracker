@@ -44,7 +44,6 @@ open_questions:
   - "Date: 18 October 2021 is the announcement date; the raids may have taken place in the days before."
   - No arrests were reported in the opened sources.
   - 420 Magazine's October figure of more than 200,000 plants across La Guardia, Sonseca and Huerta de Valdecarábanos may include separate operations beyond this 12-hectare holding.
-  - Guardia Civil handout video of the plantation was republished by LaSexta, but no direct video address that could be confirmed to show this event was recovered, so no media entry was recorded.
 sources:
   - title: Boletín 'Business Over Tapas' nº 418 del 21 al 28 de octubre
     url: https://revistaelobservador.com/opinion/50-redaccion/16992-boletin-business-over-tapas-n-418-del-21-al-28-de-octubre-lea-el-semanal-que-resume-en-ingles-la-actualidad-espanola-para-la-comunidad-extranjera-un-trabajo-del-periodista-lenox-napier

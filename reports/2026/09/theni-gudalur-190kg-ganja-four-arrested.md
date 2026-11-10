@@ -69,7 +69,6 @@ open_questions:
   - The Hindu gives the four men's ages as 25, 45, 46 and 34, while Onmanorama gives the wanted suspect Kaleeswaran as 34 and no age was published for him in The Hindu.
   - The Hindu locates the check on the bypass road between Gudalur and Kumily, while Onmanorama refers to the Cumbum–Kumily road; the two accounts may describe the same road by different names.
   - Where the ganja was loaded and who supplied it were not reported; police said only that it was being taken for sale in Kerala.
-  - The submitted page carries no photograph of the seizure, so the only media entry is the Onmanorama photo of the arrested group, credited to a special arrangement.
 ---
 
 Gudalur North police in Theni district, Tamil Nadu, stopped two cars during a

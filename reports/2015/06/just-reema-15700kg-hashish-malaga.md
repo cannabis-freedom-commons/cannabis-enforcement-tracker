@@ -49,7 +49,6 @@ sources:
 open_questions:
   - The Tax Agency statement of 1 July says the boarding happened on the previous Sunday afternoon; this report dates it 28 June 2015.
   - The hashish was described as more than 500 bales weighing about 15,700 kg pending an official weigh-in, so the stored figure is the stated estimate.
-  - No photo of the vessel or the hidden compartment could be verified, so no media entry was added.
 ---
 
 On the afternoon of Sunday 28 June 2015, Spanish Customs Surveillance and Civil Guard patrol vessels intercepted the 85-metre merchant vessel Just Reema about 45 miles south of Málaga. [@1,2] The vessel flew the flag of the Democratic Republic of the Congo, was carrying about 1,500 tonnes of salt, and was sailing toward the eastern Mediterranean when a French alert via Europol prompted the search under Operation Urca. [@1,2]

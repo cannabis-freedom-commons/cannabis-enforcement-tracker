@@ -63,16 +63,7 @@ open_questions:
   - No separate incident date is given; 2 November 2026 is the publication date used as the incident date.
   - No weight is given for the marijuana, only 85 doses, so no kilogram figure is recorded.
   - No charges, court hearing or later outcome is reported.
-  - >-
-    The page carries a lead detenidos.jpg image, but with no caption or credit establishing that it shows this
-    detention, so no media entry is added.
-  - >-
-    This page reports around one hundred bags of marijuana while the existing report totals 85 doses; the
-    report's figure is retained and the difference is noted.
   - No weight is given for the marijuana, only bag/dose counts, so no kilogram figure can be recorded.
-  - >-
-    The page carries a lead image captioned with the article title, but the caption and credit do not describe
-    its contents, so no media entry is added.
   - >-
     The articles give no separate date for the operation; 2 November 2026 is the earliest publication date,
     with La Roja dated 2 November and El Heraldo dated 3 November.
@@ -80,7 +71,6 @@ open_questions:
   - >-
     No charges, custody ruling or court outcome were reported; the detainees were placed at the disposal of
     the authorities with investigations continuing.
-  - The pages carry images without captions tying them to this seizure, so no media entry is listed.
 ---
 
 San Luis Potosí's state civil guard detained three people and seized 85 doses of suspected marijuana in Matehuala. [@1,2,3,4]

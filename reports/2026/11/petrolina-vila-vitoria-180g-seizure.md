@@ -46,7 +46,6 @@ open_questions:
   - The incident date of 2 November 2026 is inferred because both articles published on 3 November 2026 date the operation to Monday, the 2nd.
   - The 1.020 kg of cocaine is mentioned only to explain the mixed seizure and is excluded from cannabis figures; no cannabis-only valuation was published.
   - No arrests, charges or court outcome were reported; the Civil Police investigation was still under way.
-  - The pages display photos without captions or credits establishing that they show this seizure, so no media entry is included.
 ---
 
 Military police were acting against drug trafficking in Petrolina, described as

@@ -44,7 +44,6 @@ open_questions:
   - No value was published because experts were still calculating it, so no value is recorded.
   - The suspects were not named and no ages were given; no charges or court outcome beyond an expected court appearance were reported.
   - Only one accessible source for this event was found after searching.
-  - The page carries an image with no caption or credit, so it cannot be established to show this seizure and no media entry is made.
 ---
 
 North West community safety MEC Wessels Morweng congratulated an elite Eagles

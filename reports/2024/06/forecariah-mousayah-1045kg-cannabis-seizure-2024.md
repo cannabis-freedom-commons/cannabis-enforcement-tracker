@@ -67,7 +67,6 @@ open_questions:
   - No court outcome beyond the announced transfer to the competent court was reported.
   - Whether the seized cannabis was later stored, destroyed or otherwise disposed of was not reported.
   - The status of the alleged accomplice described as Commander Soumah, reported to be at large, is not known.
-  - Mosaiqueguinee spells the sub-prefecture Moussayah, while most outlets use Mousayah; the existing report's spelling is unchanged.
 ---
 
 Guinea's special services arrested the driver of a 4x4 after cannabis was found

@@ -52,7 +52,6 @@ open_questions:
   - The 36.08-gram marijuana and 10.51-gram crack cocaine figures are investigators' counts for suspected substances, with no independent weighing reported.
   - Only the separately stated 36.08 grams of suspected marijuana is counted in cannabis figures; the cocaine quantity is excluded.
   - No court outcome beyond confinement in Richmond County Jail without bond is reported, and the charges remain allegations.
-  - The article page's lead image is a mugshot-style portrait credited to RCSO that does not show the stop or seizure, so no media entry is listed.
   - The full narrative rests on one local news account, corroborated only by a booking-record page for the arrest date and charges.
 ---
 

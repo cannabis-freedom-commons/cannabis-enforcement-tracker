@@ -44,7 +44,6 @@ open_questions:
   - The article gives the reconstruction date of 3 November 2026 but no separate date for the prison seizure, so the reconstruction date is used as the incident date.
   - Full names were not published, only initials, and the alleged owner with initial U has an unclear role pending investigation.
   - No charges, custody ruling or court outcome were reported; the dossier was still being prepared for a P21 complete-file decision.
-  - The page image caption repeats the headline and does not establish that it shows this reconstruction or seizure, so no media entry is included.
 ---
 
 Padangsidimpuan police brought eight suspects to a reconstruction at the

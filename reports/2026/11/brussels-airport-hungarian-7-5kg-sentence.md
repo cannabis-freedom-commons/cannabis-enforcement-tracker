@@ -47,7 +47,6 @@ open_questions:
   - The landing is given only as 2 August, without a year.
   - The sentencing court is not named; the article only says the return travelled via Brussels.
   - Only one accessible source for this event was found after searching in Dutch and English.
-  - The page image has an empty caption beyond its photo-agency credit and is not established to show this seizure, so no media entry is included.
   - The defendant is identified only as a 21-year-old Hungarian man; no full name was published.
 ---
 

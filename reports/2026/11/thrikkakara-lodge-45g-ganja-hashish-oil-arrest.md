@@ -54,7 +54,6 @@ open_questions:
   - Rs 90,000 seized as alleged drug-sale proceeds covered all drugs in the case and is not recorded as a cannabis cash figure.
   - The same article's main account of three bank-account cyberfraud arrests and its separate MDMA-only Kalamassery arrest are different, non-cannabis events left out of this report.
   - No court outcome beyond production and registration of a case was reported.
-  - 'No usable event photo was available: the submitted page''s image is a generic crime graphic for the cyberfraud story, and the second page''s image is credited only to Google.'
 ---
 
 Police arrested 42-year-old Noushad K from a lodge on Kannampuzha Road near

@@ -76,8 +76,6 @@ open_questions:
   - The declared load was ceramic goods, lead sulphate and vehicle parts from Hidalgo, Mexico, bound for Costa Rica.
   - Police presented Recinos Vargas on 28 October; no court outcome was reported.
   - On 29 October police said they had incinerated the cannabis; this report follows the seizure on 27 October.
-  - The HCH page displays an image captioned as the Nicaragua border marijuana seizure, but it could not be established whether it is distinct from the Nicaragua Police handout already archived from Infobae, so no new media entry is included.
-  - La Hora dates the Guasaule inspection and find to 26 October and the burning to 28 October, while the existing report dates the seizure to 27 October after inspection work; the reason for the one-day difference is not explained.
 ---
 
 On 27 October 2026, Nicaragua's National Police said officers at the El Guasaule

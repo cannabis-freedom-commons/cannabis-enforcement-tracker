@@ -66,7 +66,6 @@ open_questions:
   - The Rs 24.66 crore figure is Customs' estimate of the illicit market value, not a sale price.
   - The article gives no flight numbers or departure airport in Thailand for the two passengers.
   - The article's paragraph on the earlier June cases with 8.6 kg is a separate event left out of this report's figures.
-  - The lead photographs on the cited pages carry no caption or credit tying them to this seizure, so no media entry is included.
 ---
 
 Customs officers at Mumbai's Chhatrapati Shivaji Maharaj International Airport

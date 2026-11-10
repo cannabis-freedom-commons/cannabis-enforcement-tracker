@@ -45,7 +45,6 @@ tags: [cork, growhouse]
 open_questions:
   - The Garda statement counts about 250 plants while The Irish Times reported 300; the report uses the Garda figure.
   - The outcome of the DPP's directions and any trial for the four accused was not in the opened sources.
-  - The Irish Times pages carry photographs that could not be verified as showing this growhouse, so no media entry was added.
 sources:
   - title: Drug seizure in Frankfield, Cork City on the 29/3/14
     url: https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/press-releases/2014/march/drug-seizure-in-frankfield-cork-city-on-the-29-3-14.html

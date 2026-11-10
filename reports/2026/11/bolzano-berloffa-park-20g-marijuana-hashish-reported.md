@@ -87,7 +87,6 @@ open_questions:
   - The owner of the 20 grams of marijuana was not identified, so no person is counted for that seizure.
   - It is not stated whether the 21-year-old with the hashish is among the seven people reported in the Südtirol News account.
   - No court outcome was reported for the arrested 19-year-old or for the reported men; the case was at the investigation stage.
-  - The only photo on the submitted page is a stock picture of an unrelated car crash, so no media from that page is listed; the police statement's own photograph is listed instead.
   - The German edition is the same Questura statement as the Italian version already cited, so it adds a citation and one detail rather than independent confirmation of the figures.
   - The statement does not say whether the 20-year-old Tunisian taken to the CPR in Rome had any cannabis on him; his check is part of the same operation but not a drug offence.
   - This German-language page does not state that the 20 grams were packaged for sale, a detail present in the police statement already cited by the report.

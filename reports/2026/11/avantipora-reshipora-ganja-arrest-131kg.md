@@ -77,16 +77,7 @@ open_questions:
   - >-
     The 1.31493 kg figure is the sum of the three separately stated quantities: 1.20 kg plus 109.97 grams plus
     4.96 grams.
-  - >-
-    The page's lead image is a 2021 Srinagar file photo reused under the same headline and is not established
-    to show this seizure, so no media entry is listed.
   - No court hearing or outcome beyond registration of the FIR is reported.
-  - >-
-    The submitted Amar Ujala text spells the surname Naiku as नाइकू while Daily Excelsior spells it Naikoo;
-    the existing report uses Naiku.
-  - >-
-    The submitted page's lead image is a 2021 file photo and is not established to show this seizure, so no
-    media entry is listed.
   - >-
     Left out, as its quotation was not found in Daily Excelsior: Police identified the arrested man as a
     resident of Reshi Mohalla near the mosque at Tral Payeen.
@@ -94,9 +85,6 @@ open_questions:
     The sources give no separate time of day for the arrest; 1 November 2026 is the dateline of the first
     report and the publication date of the second.
   - No court outcome, remand or sentence has been reported; further investigation was said to be underway.
-  - >-
-    The submitted page carries images whose captions do not establish that they show this seizure, so no media
-    entry is listed.
   - Both accounts rely on a police spokesperson; no independent weighing is reported.
   - >-
     Coverage was published on 1 and 2 November; the same suspect, Reshipora location, FIR and three component

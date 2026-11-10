@@ -105,8 +105,6 @@ open_questions:
   - The IOL report does not say when the bail hearing took place or whether bail was granted; it was published on 3 October with Mugabe still in custody.
   - IOL places the stop on a "Tuesday night", while other accounts say he was arrested on Wednesday morning, 1 October 2025; the dates differ by a day.
   - IOL describes a silver Honda Fit, while the BBC's account of the court documents describes the car only as black in relation to the sling bag.
-  - Arise News says police found cannabis and cocaine in his possession; the existing report records only dagga and does not mention cocaine, so whether the seizure involved cocaine is unclear.
-  - Arise News says police detained him on Wednesday without giving a date beyond its 2 October 2025 publication date, consistent with the 1 October arrest date in the existing report.
 ---
 
 Robert Mugabe Jnr, 33, pleaded guilty to unlawful possession of drugs at the

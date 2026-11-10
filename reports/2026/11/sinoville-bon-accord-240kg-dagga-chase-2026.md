@@ -76,7 +76,6 @@ open_questions:
   - The report does not name the suspect or give their age, sex or nationality.
   - The court where the suspect was to appear on 9 November 2026 and any outcome after that date were not reported in the opened source.
   - Only one opened outlet account, attributed throughout to the police, supports this report; the underlying SAPS statement was not separately opened.
-  - This APA account states that SAPS gave no weight or total quantity for the suspected cannabis seized, while the existing report records 240kg and R960,000 from the earlier outlets; the existing figures remain supported only by those earlier sources.
   - The submitted Chinese account is a Chinese-language summary of the same SAPS statement as the earlier English coverage, not independent reporting; it names no source for its figures.
   - The account does not say where the vehicle was stopped and does not name the suspect, court or charges beyond dealing in and possession of dagga.
   - The page's photograph is credited to no photographer or agency and has no caption, so it is not confirmed to show this seizure.

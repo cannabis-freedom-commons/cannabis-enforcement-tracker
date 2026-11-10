@@ -47,7 +47,6 @@ sources:
 open_questions:
   - No harvested cannabis weight and no estimated value for the plants or stolen electricity were published.
   - The Daily Press account says Burgos was released on bail pending legal proceedings; no charge filing or court outcome was reported.
-  - The Victor Valley News page carries a lead photograph, but its caption and credit do not establish that it shows this seizure, so no media entry is added.
 ---
 
 San Bernardino County sheriff's deputies arrested 36-year-old Jose Luis Baez

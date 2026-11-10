@@ -47,7 +47,6 @@ open_questions:
   - The component weights add to 69.065 kg, 0.06 kg less than the stated 69.125 kg total; the report uses the published figures as stated.
   - No charges, prosecutions or sentences were reported.
   - The 54 people located through search actions were reported as found with absence reports; no further outcome was given.
-  - The Diario page's image carries only the headline as its caption and alt text, which does not establish that it shows this seizure, so no media entry is included.
   - The Fiscalía's own bulletin page could not be opened because the request timed out, so corroboration uses the Entre Líneas account of the same FGE balance.
   - 'Left out, as its quotation was not found in Entre Líneas: The precise total was 69.125 kilos of various drugs, including 60.184 kilos of marijuana.'
 ---

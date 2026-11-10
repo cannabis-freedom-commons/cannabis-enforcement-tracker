@@ -57,7 +57,6 @@ open_questions:
   - Only the month of the discovery is known; the text gives no exact date in August 2026.
   - An earlier prosecutor release, dated 30 October 2026, said he found the plant in a forest in Tomarinsky district and kept it at his home address; this report follows the 5 November release, which names Krasnogorsk and an outbuilding on his partner's land.
   - Neither the man's name nor his age was published, and no court date has been set.
-  - The only photographs on the pages are a stock or illustrative image credited to a third-party photographer on Sakh.online and an illustration on ТИА «Острова», neither of which is established to show this case, so no media entry is included.
 ---
 
 A man from Tomarinsky district goes on trial over wild cannabis he found and

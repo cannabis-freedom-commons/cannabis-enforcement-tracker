@@ -45,7 +45,6 @@ open_questions:
   - No weight was published for the bag of presumed marijuana, so no kilograms can be recorded.
   - No charges, custody decision or court outcome were reported; the case was at the investigation stage.
   - Only one opened source could be established for this event; no separate agency statement or second account was found.
-  - No cannabis-specific photograph with a recoverable direct image address was available; the page images show crypto-mining equipment, including from the separate September operation, so no media is listed.
   - The coordinates mark the centre of Tlaola, as no street address for La Gallera was published.
 ---
 

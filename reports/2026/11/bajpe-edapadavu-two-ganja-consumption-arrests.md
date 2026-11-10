@@ -39,7 +39,6 @@ open_questions:
   - No charges beyond case registration, and no court outcome, were reported.
   - Only one account of these arrests could be opened; searching in English and Kannada found no second outlet or police statement.
   - The coordinates are the Bajpe town centre, not a mapped point for Edapadavu village or Padarangi.
-  - The page image is a generic stock photograph of handcuffs, not established to show this arrest, so no media entry is listed.
 ---
 
 Bajpe police arrested two young men on Tuesday for allegedly consuming ganja in

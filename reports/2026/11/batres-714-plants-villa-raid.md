@@ -112,7 +112,6 @@ open_questions:
   - The article gives no weight for the 13 tablets of hashish resin, only the count.
   - The page's only image is an archive photo of a Guardia Civil car, so no image of the Batres plantation comes from this source.
   - Telemadrid reproduces the same Guardia Civil statement as the reports already cited, so it is not independent reporting.
-  - The page's lead photograph is captioned only with the headline and carries no credit confirming it shows the Batres plantation, so no separate media entry was added.
 ---
 
 Guardia Civil officers searched a detached house (vivienda unifamiliar) in

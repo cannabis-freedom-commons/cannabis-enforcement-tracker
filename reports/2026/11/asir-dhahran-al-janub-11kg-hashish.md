@@ -53,7 +53,6 @@ open_questions:
   - The statements do not say how the hashish, the medical-trade tablets and the amphetamine were packed or where along the border they were intercepted.
   - Amphetamine and the 14,800 tablets under medical-trade controls are not cannabis and are excluded from the hashish weight.
   - No figure for the value of the 11 kg of hashish was published.
-  - The Sabq pages carry only the outlet logo as an image, so no media entry shows the seizure.
 ---
 
 Saudi Border Guard land patrols in the Dhahran al-Janub sector of Asir region

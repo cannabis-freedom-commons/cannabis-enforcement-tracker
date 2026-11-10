@@ -49,7 +49,6 @@ open_questions:
   - The report says the plantation was raided and uncovered but does not state explicitly that the plants were uprooted, seized or destroyed.
   - No charges, suspect details or court outcome were reported; the Kantale wildlife department's legal proceedings were still under way.
   - Only one accessible source for this event was found after searching in English.
-  - The Newswire page carries a photo without a caption or credit, so it cannot be established to show this raid and no media entry is included.
   - The map pin marks Kantale town; the Somawathiya Reserve plot at Agbopura, Divulgaswewa was not separately geolocated.
 ---
 

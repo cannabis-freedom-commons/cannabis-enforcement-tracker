@@ -61,10 +61,8 @@ open_questions:
   - The sources give no time beyond Sunday morning, 11 February 2024.
   - The NDTV wire copy calls the 149 kg hashish, while the Nepali accounts reporting the same arrests call it ganja; the police accounts are followed here.
   - No charges, remand decision or court outcome was reported.
-  - The NDTV page's only image is a generic stock photograph of drugs, and the Nepali pages opened here carried no photo confirmed to show this seizure, so no media entry is included.
   - Sunsari Online gives about 150 kg in its lead and 149 kg in its body; the 149 kg police total is used.
   - The police press release itself was not found on the Nepal Police site for this date.
-  - The submitted page also mentions a 23-year-old and four accomplices arrested for drug peddling; whether that is the car group or a separate case of the same roundup is not established.
 ---
 
 Nepal Police arrested 14 people with about 150 kg of ganja at Jirogpoint in

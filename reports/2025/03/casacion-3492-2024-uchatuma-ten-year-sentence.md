@@ -62,7 +62,6 @@ open_questions:
   - The operative part of the cassation ruling and its effect on the final sentence are not summarised in the published extract, which also ends with a continuation marker.
   - The article details the roles of the driver and the passenger in the back seat only as identification; it did not report their charges or outcome.
   - The court's fine is given as 240 days, not as an amount in soles, so the amount in the figures is a derived estimate at Peru's current daily fine reference.
-  - The illustrative photo published with the article is a generic court image, not a photo of this event, so no media entry is included.
 ---
 
 Peru's Supreme Court upheld the ten-year prison sentence, 240 days' fine and

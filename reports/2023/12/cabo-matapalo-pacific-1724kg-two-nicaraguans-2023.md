@@ -54,7 +54,6 @@ open_questions:
   - '1 December 2023 is inferred as the interception date: the article published on Saturday 2 December says the boat was captured in the early hours of Friday after being spotted on Thursday afternoon.'
   - No charges, custody ruling or court outcome beyond the handover to prosecutors was reported.
   - The 36 kilos of cocaine found with the marijuana are noted only to describe the mixed load and are excluded from the cannabis figures.
-  - The Tico Times page image had no recoverable direct address, so no media entry from that page is included.
 ---
 
 Costa Rica's coast guard captured a drug boat 24 kilometres off Cabo Matapalo in

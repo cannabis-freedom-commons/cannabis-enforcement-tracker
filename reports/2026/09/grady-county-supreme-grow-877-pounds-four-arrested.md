@@ -55,7 +55,6 @@ open_questions:
   - The four arrested people were not named and their nationalities were not stated; only their ICE detainers were reported.
   - The charges named are described as possible future charges for other suspects, not filed charges.
   - Only one outlet report of this event could be opened; a Grady County Sheriff's Office Facebook post on the case could not be opened and is not cited.
-  - The page's gallery photos are captioned as file and stock pictures of marijuana from other stories, so no media entries are added.
 ---
 
 Grady County deputies and Oklahoma Medical Marijuana Authority agents searched

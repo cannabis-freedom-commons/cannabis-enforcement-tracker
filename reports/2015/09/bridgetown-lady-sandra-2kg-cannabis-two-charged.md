@@ -55,7 +55,6 @@ open_questions:
   - These reports give no court outcome after the joint charges; later proceedings are not covered here.
   - The cannabis figure counts only the reported 2 kg of cannabis; the 14.5 kg of cocaine from the same search is excluded from cannabis figures.
   - News Source Guyana calls the Lady Sandra a fishing vessel while The Bajan Reporter calls it a cargo vessel; the report calls it only a vessel.
-  - 'No usable event photograph could be recovered: the submitted page''s image is an older 2014 cocaine file whose caption only repeats the headline.'
 ---
 
 Two Guyanese nationals faced eight drug charges after drugs were found aboard

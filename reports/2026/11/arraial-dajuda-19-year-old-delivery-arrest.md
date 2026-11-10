@@ -67,7 +67,6 @@ open_questions:
   - No charging decision or custody ruling beyond the flagrant arrest was reported; the homicide, kidnapping and attempted-murder investigations were still separate and under way.
   - The reports do not make clear whether the 2024 kidnapping and attempted murder and the 2025 homicide are treated as one case or separate inquiries.
   - The two local outlets and Rastro101 appear to draw on the same Civil Police statement and partly on each other, so they are not fully independent accounts.
-  - The submitted page's lead photo and the feed thumbnails carry no caption identifying this arrest, so no media entry is included.
 ---
 
 Civil Police officers arrested a 19-year-old man in flagrante for drug

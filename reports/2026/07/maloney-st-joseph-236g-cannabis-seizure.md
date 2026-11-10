@@ -38,7 +38,6 @@ open_questions:
   - No charges, custody decision or court outcome for the arrested woman were reported.
   - Police did not say whether the escaped St Joseph suspect was later identified or arrested.
   - Only one accessible source for this event could be opened after searching; no agency statement or second outlet account could be opened.
-  - The page image carries no caption establishing that it shows this seizure, so no media entry is included.
   - Firearms and ammunition totals are mentioned only to explain the same operations and are excluded from cannabis figures.
 ---
 

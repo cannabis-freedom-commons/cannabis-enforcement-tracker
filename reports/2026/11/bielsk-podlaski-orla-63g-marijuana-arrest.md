@@ -51,7 +51,6 @@ sources:
 open_questions:
   - The articles give only their publication date of 2 November 2026 and no separate day for the late-evening marketplace check, so the publication date is used as the incident date.
   - No weight was published for the mephedrone, so only the separately stated marijuana amount is recorded as cannabis seized.
-  - The iBielsk page carries a photo captioned KPP Bielsk Podlaski, which does not establish that it shows this seizure, so no media entry is added.
   - No court outcome beyond the possession charge and the stated maximum penalty has been reported.
 ---
 

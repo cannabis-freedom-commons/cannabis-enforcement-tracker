@@ -60,7 +60,6 @@ open_questions:
   - The reports say the four were held in several cases and that Shahadat Hossain was named in an arrest warrant, but do not set out the case against him or say whether it concerns drugs.
   - No specific narcotics charge, section of the law or value for the 100 grams was reported, and the ganja was not described as laboratory-confirmed.
   - The reports do not say what happened after the four were sent to jail, whether charge sheets were filed or what any of them said about the ganja.
-  - Both accounts reproduce the same Dhunat police station statement, and the picture on the submitted page is captioned only as a collected photo, so no media entry is listed.
   - Daily Sokaler Somoy, like the two accounts already cited, reproduces the Dhunat police statement and gives no separate date for the arrests, so it does not resolve any of the report's open questions.
 ---
 

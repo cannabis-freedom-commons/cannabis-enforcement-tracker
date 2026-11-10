@@ -38,7 +38,6 @@ open_questions:
   - No weight for the seized cannabis was published.
   - No administrative or court outcome beyond the pending check was reported.
   - Only one outlet account of this detention could be opened, and it relays the PMR Interior Ministry press service.
-  - The page shows a photo credited to misanec.ru with no caption confirming it depicts this seizure, so no media entry is listed.
 ---
 
 Traffic police (GAI) officers in Dubossary detained a cyclist on 28 June 2018 on

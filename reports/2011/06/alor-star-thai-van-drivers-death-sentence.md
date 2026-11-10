@@ -41,7 +41,6 @@ tags: [death-sentence, trafficking, kedah]
 open_questions:
   - Contemporary accounts place the verdict on 29 or 30 June 2011 and report it on 1 July, so the report uses 30 June as the event date.
   - No appeal or execution outcome was reported in these sources.
-  - No verifiable photograph of this case was available, so no media entry was added.
 sources:
   - title: Two Thai Men Sentenced To Hang For Drug Trafficking In Malaysia
     url: https://aseannow.com/topic/479346-two-thai-men-sentenced-to-hang-for-drug-trafficking-in-malaysia/

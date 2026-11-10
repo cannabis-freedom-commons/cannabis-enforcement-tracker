@@ -34,7 +34,6 @@ open_questions:
   - Police report no arrests or suspects in the plantation operation, and no one was reported charged over it.
   - The location is described only as the Rhaburn Ridge area, with the commissioner uncertain whether it falls in the Belize District, so the coordinates mark the locality.
   - The six parcels of cocaine found at a house in the Chunox Village area and the 25 parcels seized in Sarteneja are separate, non-cannabis cases reported in the same briefing and are not covered by this report.
-  - The only picture on the submitted page is a still of Commissioner Chester Williams speaking, not the plantation, so no media entry is added.
   - The three outlets repeat the same police briefing rather than giving independent accounts.
   - The text gives a weight ("28.38 kilograms") but the figures have no kg_seized; check whether it belongs there.
 ---

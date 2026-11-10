@@ -47,7 +47,6 @@ open_questions:
   - The release says Sandusky distributed hundreds of pounds of marijuana but gives no weighed total, so no cannabis weight is recorded.
   - The jury deadlocked on four counts of maintaining drug-involved premises in Upland, Colton, Moreno Valley and Ontario; those counts were dismissed at the government's request.
   - Five co-defendants including co-owner John Leslie Nuckolls II had pleaded guilty and were awaiting sentencing, with outcomes not in the opened sources.
-  - No photo of the case with a recoverable address was found, so no media entry was added.
 ---
 
 U.S. District Judge Percy Anderson sentenced Aaron Sandusky, 42, of Rancho Cucamonga, to 10 years in federal prison on 7 January 2013 for running a marijuana business in the Inland Empire. [@1,2] Sandusky, the former president of G3 Holistics, had been convicted the previous fall on federal narcotics charges for distributing hundreds of pounds of marijuana. [@1]

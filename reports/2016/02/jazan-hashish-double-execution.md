@@ -48,7 +48,6 @@ open_questions:
   - The quantity of hashish the two men were accused of smuggling was not published.
   - A third man executed the same day for amphetamine smuggling is mentioned for context; his death is excluded from this report's figures as a non-cannabis offence.
   - Hands Off Cain spells the city Jizan rather than Jazan.
-  - No photo of the case with a recoverable address was found, so no media entry was added.
 ---
 
 Saudi Arabia beheaded two Yemeni nationals, Ahmed Mubarak and Abdul Salam al-Jamali, in the southwestern city of Jazan on 17 February 2016 for attempting to smuggle hashish into the kingdom. [@1,2] The Interior Ministry announced the executions through the official Saudi Press Agency. [@2]

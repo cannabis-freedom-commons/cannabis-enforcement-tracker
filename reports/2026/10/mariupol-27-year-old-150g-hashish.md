@@ -44,7 +44,6 @@ open_questions:
   - The article gives only its publication date of 28 October 2026 and no separate date for the detention and search.
   - Only one account of this event could be opened, a republication of the interior ministry statement, and no second report confirming it was found.
   - The reported hashish weight of about 150 grams is approximate.
-  - No image showing this seizure could be identified, so no media entry is included.
   - No court outcome beyond the opened criminal case was reported.
 ---
 

@@ -66,7 +66,6 @@ open_questions:
   - No formal charge, custody decision or court outcome beyond transfer to the on-duty station was reported.
   - No valuation for the cannabis was published, only the R$650 in seized cash.
   - All three accounts repeat the Military Police version and no PMMG official statement could be opened directly.
-  - The V9 image is credited to PMMG without a caption confirming it shows this seizure, so the media entry describes it only as related materials.
 ---
 
 Military Police seized 34.59 kilograms of cannabis-like material and arrested

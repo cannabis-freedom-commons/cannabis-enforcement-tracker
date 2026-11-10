@@ -58,7 +58,6 @@ open_questions:
   - No charges beyond the NDPS Act case registration, custody decision or court outcome were reported.
   - Only one accessible source for this event was found after searching in Hindi and English, so no second account corroborates it.
   - No value for the 291 grams of ganja was published.
-  - The MBM article dates the patrol, recovery and arrest to 4 November 2026, while the existing report uses the 5 November 2026 publication date as the incident date.
   - The photograph is captioned only as showing the accused with the police team and does not identify which pictured person is the accused.
 ---
 

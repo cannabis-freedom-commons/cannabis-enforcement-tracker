@@ -65,7 +65,6 @@ sources:
 open_questions:
   - No names of the three accused were published.
   - No court outcome beyond remand to judicial custody on 8 March 2025 was reported.
-  - News On AIR gives the hashish oil's value as about Rs 33 crore, while the existing report's other sources give Rs 32.94 crore; the difference is a rounding. News On AIR dates the interception 5 March and the arrival back at port 7 March, and gives no date for the three arrests.
   - The release's headline describes the seizure as taking place on 7 March 2025 and gives a value of ₹33 crore, while its text dates the interception to 5 March and values the haul at ₹32.94 crore; the report keeps 8 March as the incident date for the remand and the lower exact valuation.
   - The three photographs published with the release carry no individual captions or credits on the page; they are described here from the release text and their position in it.
 ---

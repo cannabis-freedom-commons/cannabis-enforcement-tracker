@@ -40,7 +40,6 @@ open_questions:
   - The man's full name was not published, only his age of 38 years.
   - No court outcome beyond the arrest was reported.
   - Only one accessible source for this Peraleda interception was opened after searching for corroboration.
-  - The page photos show the other roundup incidents in Valle del Alagón, Casar de Cáceres, Torremocha and the Miajadas-Trujillo area, with none established to show the Peraleda seizure, so no media entry is included.
   - The same roundup also describes separate enforcement actions in Valle del Alagón, Casar de Cáceres, Torremocha and the Miajadas-Trujillo area, which are left out here as different events.
 ---
 

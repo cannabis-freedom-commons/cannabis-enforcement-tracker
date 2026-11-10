@@ -65,7 +65,6 @@ open_questions:
   - The Korea Times reports seven accomplices received 1 1/2 to two years while the Straits Times adds a possible suspended sentence; the report uses the shared 18-month to two-year range.
   - The Korea Times says Jung left BTOB late last month while the Straits Times places his departure in December; the report uses December.
   - The 826g figure is the total the defendants were tried for buying and smoking, not a separately weighed seizure.
-  - The submitted page carries only a file portrait captioned Jung Il-hoon / Korea Times file, which does not show the sentencing or seizure, so no media entry is included.
   - No appeal outcome is reported in the opened sources; later proceedings are not covered here.
 ---
 

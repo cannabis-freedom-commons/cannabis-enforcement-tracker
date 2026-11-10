@@ -93,7 +93,6 @@ open_questions:
   - No court outcome, trial date or custody status beyond the initial investigation was reported.
   - The man identified as DI was still under investigation and had not been arrested in these accounts.
   - The three accounts repeat the Polresta Pekanbaru briefing and are not independent of the police version.
-  - ANTARA names the detained man as ED and the supplier as DN, who is listed as wanted, while Halo Terkini, Serangkai.co and the existing report name AH and YL with supplier DI; the discrepancy is unresolved.
   - ANTARA describes the potted plants as about five days old and awaiting laboratory confirmation, so the cannabis identity remains suspected.
   - The submitted INP account describes one suspect, ED, with a cottage where the plants were found, while the local outlets describe two detained men, AH and YL, and a hut nearby; ANTARA links the pot find to the development of the ED arrest, and the relationship between ED and the two detained men is unresolved.
   - The submitted account gives no weight for the dried marijuana and no count of the potted plants, and the plants' cannabis identity is still subject to laboratory testing.

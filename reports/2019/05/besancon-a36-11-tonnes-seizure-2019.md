@@ -46,7 +46,6 @@ open_questions:
   - The seizure took place on Friday 10 May and was announced on Monday 13 May; the report uses the seizure date.
   - Only one outlet's account of this seizure could be opened; it reports the AFP wire and the Nancy prosecutor's statement.
   - The report does not state the cannabis type or value, and no breakdown of the seized vehicles was published.
-  - The North Africa Post page carries a seizure photograph whose provenance could not be verified, so no media entry was added.
 ---
 
 French judicial police seized 11 tonnes of cannabis in the Besancon area on Friday 10 May 2019, intercepting several vehicles including a truck on the A36 motorway toward Paris. [@1] Police arrested four suspects during the operation, including an Italian national. [@1]

@@ -44,7 +44,6 @@ open_questions:
   - The ministry described the substance as resembling marijuana; no field-test or laboratory confirmation was reported in the opened accounts.
   - No court outcome or result of the 23 June 2026 appearance was reported, and no further hearing date was published.
   - The bonded area is identified only as being in Port of Spain, so the coordinates mark the city rather than the warehouse.
-  - The only photo on the submitted page is a captioned stock image of handcuffs with no credit and no link to this seizure, so it is not listed as media.
   - Man in court after Customs finds drugs, gun in washer and dryer (103.1FM) could not be opened again to check its quotations (the browser could not load the submitted public page; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.
 ---
 

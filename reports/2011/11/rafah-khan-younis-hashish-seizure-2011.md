@@ -43,7 +43,6 @@ open_questions:
   - The number of additional suspects detained in the Rafah ambush was not stated, so only the one named Khan Younis arrest is counted.
   - No charges, full names beyond initials, or court outcome were reported.
   - Only this Al-Ray account could be opened; searches in Arabic and English found no second report of the same event.
-  - The page image has an empty caption and credit, so whether it shows this seizure is not established and no media entry is included.
 ---
 
 Gaza anti-narcotics police set an ambush for a dealer in Khan Younis governorate

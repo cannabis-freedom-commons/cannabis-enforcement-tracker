@@ -66,14 +66,8 @@ open_questions:
   - The 17-gram recovery is described only as a charas-like substance.
   - No charges, court outcomes or independently verified weighing are reported beyond legal proceedings initiated and investigations underway.
   - Only one source could be opened in this run; no second account confirms the event.
-  - The page preview image is a 2014 prison photo that does not show this seizure, so no media entry is added.
-  - The new account says the Bijbehara house belonged to Takiyabal resident Manzoor Ahmad Dar while naming the arrested man as Zahoor Ahmed, whereas the existing report names Zahoor Ahmad Dar; the relationship is not explained.
-  - The existing report dates the Tuesday operations to 3 November 2026 while this account was published on 4 November 2026; no separate incident date beyond Tuesday is given.
-  - The submitted page image is a generic older Srinagar photo from 2021, not this seizure, so no media entry is added.
   - The new source phrases the overall total as over 17.6 kg while the report phrases it as around 17.5 kg; the itemised recoveries in both accounts sum to 17.606 kg through rounding.
   - The same Daily Excelsior article also reports a dumper seized for alleged illegal mining in Wuyan, Khrew in Pulwama district, a separate non-cannabis event left out of this cannabis report.
-  - The new account says officials spoke on Monday while the existing report dates the Tuesday operations to 3 November 2026; no separate incident date beyond the operation day is given.
-  - The submitted page lists one image with only the generic caption image - 2026-11-03T232838.891, which does not establish that it shows this seizure, so no media entry is added.
 media:
   - kind: photo
     url: https://www.greaterkashmir.com/kashmir/police-apprehend-4-drug-peddlers-in-anantnag-contraband-substance-recovered-12780073

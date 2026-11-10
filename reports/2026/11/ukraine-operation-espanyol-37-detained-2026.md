@@ -177,7 +177,6 @@ open_questions:
   - The heaviest charge carries up to 12 years with confiscation, but no sentence has been reported and everyone is presumed innocent until a court verdict.
   - Both accounts reproduce the police and prosecutor statements, with no independent account of the operation.
   - The text gives a weight ("67 kg") but the figures have no kg_seized; check whether it belongs there.
-  - The page carries eight photographs under the same generic caption about Operation Espanyol, without descriptive captions identifying what each photograph shows, so no media entry is included.
   - StopCor uses the Russian spelling "Эспаньол" for the operation; the National Police writes "Еспаньйол" (Espanyol).
   - The StopCor item links only to the National Police Telegram post and gives no separate date for the searches and detentions.
   - The page carries several further gallery photographs under one generic caption, so only the lead photograph could be identified; the others were left out.
@@ -195,7 +194,6 @@ open_questions:
   - The Sumy page names no cannabis-only weight or valuation; the 67 kg and 90 million hryvnias stay unallocated to cannabis.
   - The Sumy page names only the National Police as the source, while the police statement itself lists the Security Service of Ukraine and the Prosecutor General's Office as coordinators.
   - The Sumy page does not mention the two-stage structure; the police statement and other outlets do.
-  - The submitted Zahidnyi Front page carries no article photograph showing the operation; its only image is a generic video-production banner, so it adds no media.
   - The National Police names 11 oblasts plus Kyiv city as areas of the first stage, which is 12 named units while the statements speak of 11 regions.
   - Zahidnyi Front writes that cannabis came from the United States while the National Police and prosecutors list Spain, Portugal and the United States as the countries of origin without specifying cannabis to the United States alone.
   - The page gives no separate date for the searches and detentions; 5 November 2026 is its publication date.

@@ -53,7 +53,6 @@ open_questions:
   - The 11 people were secured across all 10 narcotics cases; the reports give no breakdown of how many relate to the cannabis cases versus the methamphetamine cases.
   - Nine police reports remained under investigation with no charges, court dates or custody outcomes reported.
   - No area in hectares, weight for the 70 plants, or value for the cannabis was published.
-  - The page image carries no caption, alt text or credit establishing that it shows this seizure or field, so no media entry is included.
   - The province-wide eradication accounts list a separate 0.04-hectare, 600-plant Bener Meriah component on 1 November 2026; with different figures and no village given, it is treated here as a distinct operation, and any relation to the 70-plant Kenine field is unresolved.
 ---
 

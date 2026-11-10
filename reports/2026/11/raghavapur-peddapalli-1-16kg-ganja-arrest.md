@@ -57,8 +57,6 @@ open_questions:
   - Only one accessible source for this event was found after searching in Telugu and English.
   - No court outcome was reported; the police investigation was still under way.
   - The report gives the stop location only as LMN Bicks near Raghavapur, with no further address.
-  - The HMTV article was published on 5 November 2026, one day after the 4 November 2026 date used in the existing report.
-  - The HMTV page carries an image captioned only as Peddapalli with no credit or description establishing that it shows this seizure, so no media entry is added.
 ---
 
 Peddapalli rural police detained a man who had come to the outskirts of

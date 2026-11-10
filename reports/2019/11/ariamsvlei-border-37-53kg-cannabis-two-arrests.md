@@ -56,7 +56,6 @@ open_questions:
   - The article says the arrests happened "yesterday" in a story dated Tuesday 5 November 2019, so 4 November 2019 is used as the incident date.
   - No court outcome was reported; the article gives the accused only by age and nationality and only says they were expected to appear in the Karasburg Magistrate's Court.
   - The street value of N$1 125 900 is a police estimate, not a sale price confirmed in court.
-  - The page image is a generic file photo captioned only with the headline and uploaded in a 2022 folder, so it is not confirmed to show this search and no media entry is included.
   - Only one source carrying the Nampa statement could be opened; no separate outlet account of the border search was found.
 ---
 

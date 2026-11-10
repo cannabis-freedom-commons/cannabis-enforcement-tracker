@@ -77,7 +77,6 @@ open_questions:
   - 'Left out, as its quotation was not found in CHANDABLAST: The trap was set on 31 October 2026 after a tip-off that he was bringing ganja from Nagpur to sell in Arvi.'
   - 'Left out, as its quotation was not found in CHANDABLAST: The trap involved police staff, panch (local) witnesses, revenue officials and a forensic team.'
   - The opened NDTV page supplies only the title and description; it gives no arrest, moped, case-number or value details.
-  - NDTV rounds the amount to 5 kg while the existing report uses 4.910 kg from detailed local accounts; the difference appears to be rounding.
 ---
 
 Arvi police took Sheikh Guddu Sheikh Ashik, 43, into custody after stopping his

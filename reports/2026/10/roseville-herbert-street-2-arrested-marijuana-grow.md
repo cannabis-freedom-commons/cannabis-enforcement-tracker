@@ -44,7 +44,6 @@ open_questions:
   - The names, ages and detailed charges of the two arrested people and any court outcome were not published.
   - Oct. 11 is given without a year; 2026 is used from the 28 Oct. 2026 publication date describing the search as earlier this month.
   - Only one opened source supports this event; a second report of the same search could not be opened.
-  - The source page carries a photo credited to Roseville PD whose depicted content is not described in the caption, so no media entry is added.
 ---
 
 Roseville police arrested two people in connection with a probation search at a

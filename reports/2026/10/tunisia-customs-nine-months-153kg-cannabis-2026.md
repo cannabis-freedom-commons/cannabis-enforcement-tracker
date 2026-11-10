@@ -55,7 +55,6 @@ open_questions:
   - No number of people arrested or cases charged against individuals was published; the 11,000 customs cases are administrative and judicial case files, not a count of people.
   - The 190 million dinar figure is the combined value of all goods behind the 11,000 customs cases, not of the drugs, and no separate cannabis or drug value was given.
   - The report does not say whether the 153 kg of qinnab hindi is resin (zatla), herbal cannabis or both.
-  - The page photograph is a portrait of spokesman Colonel Chokri Jabri at the ceremony and does not show the seizures, so no media entry is included.
   - Only one accessible source for this tally was found after searching in Arabic, French and English.
   - 'Left out, as its quotation was not found in Mosaique FM: Customs guard (al-haras al-diwan) officers carried out the stops and seizures as part of the fight against smuggling during the first nine months of the year.'
 ---

@@ -51,7 +51,6 @@ sources:
 open_questions:
   - The article gives no separate sentencing date; 3 November 2026 is its publication date and is used as the incident date.
   - Only one accessible source for this event was found after searching in Hindi and English.
-  - The page carries only a generic placeholder image, so no media entry is included.
 ---
 
 The special NDPS court at Nalagarh convicted a woman in an about eight-year-old

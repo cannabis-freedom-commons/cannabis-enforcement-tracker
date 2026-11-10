@@ -47,7 +47,6 @@ open_questions:
   - No arrests, identities, charges or court outcome were reported for this seizure.
   - The 173 million FCFA figure is the customs service's estimated market value.
   - Only one accessible source for this event was found, so corroboration was not possible.
-  - The page image is captioned only as Chanvre indien and is not established to show this seizure, so no media entry is included.
   - The same article also reports the stop of two trucks from Guinea-Bissau at Salikenye carrying food, wine, beer and phones, a separate non-cannabis event left out of this report.
 ---
 

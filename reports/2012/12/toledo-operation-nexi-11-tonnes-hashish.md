@@ -61,7 +61,6 @@ open_questions:
   - No charges or court outcome for the 35 arrested were reported.
   - The operation's code name appears as Nexi in Spanish media and Nessi in El País's English edition.
   - The 11 tonnes were seized over an operation running in phases from March 2012, so 26 December is the date the result was announced, not necessarily the date of every seizure.
-  - The submitted page shows only a generic Wikipedia hashish photo, so no photo of the seizure was linked.
   - 'Left out, as its quotation was not found in RTVE: The trucks passed through Algeciras and drove to warehouses in Yeles and Villaluenga de la Sagra, in Toledo province, where the tanks were opened and emptied.'
   - 'Left out, as its quotation was not found in RTVE: The result was presented on 26 December 2012 by the National Police''s director general and the central government''s delegate in Madrid.'
 ---

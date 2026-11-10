@@ -68,12 +68,9 @@ open_questions:
   - The street value of more than 2 million euros refers to all the drugs seized, including the heroin and cocaine, not to the cannabis alone.
   - The two men were not named, and police did not say where on the south bank of the Tagus they lived.
   - No charging decision, coercive measure or court outcome after the first judicial interview was reported.
-  - The submitted page carries only a 2026 photo of material seized in the separate July 2026 Operação Buongiorno at Polícia Judiciária headquarters, so no media entry is given for this operation.
   - The text gives a weight ("23 kilograms") but the figures have no kg_seized; check whether it belongs there.
   - Folha Nacional credits Correio da Manhã as its source, so it is not an independent account and repeats that outlet's wording.
-  - Folha Nacional says the apartments are in the Quinta do Loureiro neighbourhood without naming Campo de Ourique; the existing report's place comes from other outlets.
   - 'The order of the police operation is not clear: a search that had run since the start of 2026 and the detentions of two men living on the Margem Sul are described only briefly.'
-  - Folha Nacional gives the hashish and liamba with no weight, as in the existing report, so no cannabis kilogram figure can be recorded from this page either.
   - Whether a judge imposed coercive measures after the Wednesday interview is not reported here.
 media:
   - kind: photo

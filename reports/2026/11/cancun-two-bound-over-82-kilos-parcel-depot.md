@@ -92,11 +92,8 @@ open_questions:
   - 'Left out, as its quotation was not found in Municipios Puebla: A control judge found sufficient evidence to continue the case against them.'
   - 'Left out, as its quotation was not found in Municipios Puebla: The FGR said the shipment''s origin and its intended destination were not established at this stage.'
   - The Julio Astillero page is an authorised reprint of the OEM-Informex note and repeats the FGR account rather than adding independent reporting.
-  - The reprint gives no separate detention date; it was published on 4 November 2026, the date of the FGR announcement used in the existing report.
   - The lead image on the reprint carries no separate agency or photographer credit, so it is linked rather than copied.
   - The other three photos on the page illustrate unrelated stories and are not media for this event.
-  - Quintana Roo Hoy describes a single package, while the existing report, citing other outlets, says the shipment held several packages.
-  - This account says the federal public prosecutor integrated the evidence file after the men were handed to FECOR; the existing report attributes building the file to FECOR.
   - The article gives no detention date separate from its 5 November 2026 publication.
 ---
 

@@ -52,7 +52,6 @@ open_questions:
   - The per-boat figures of 10,700, 9,300, about 4,500 and about 6,000 kilograms sum to 30,500 kilograms; both outlets round the September haul to about or more than 30 tonnes.
   - With March and July seizures from the same organisation the total exceeds 35 tonnes, a wider campaign total left out of this September operation's figures.
   - The Amaalta developed a leak off Mauritania and sank on the return voyage after its boarding on 26 September.
-  - No photo of the boarding with a recoverable direct image address was found, so no media entry was added.
 ---
 
 Spain's Tax Agency and National Police seized more than 30 tonnes of hashish from four high-end sailing yachts of the same organisation in five days in the Atlantic and arrested nine Bulgarian and Russian nationals. [@1,2] Authorities called Operation Goleta-Gratil the largest operation against hashish trafficking by sea carried out in Spain. [@1]

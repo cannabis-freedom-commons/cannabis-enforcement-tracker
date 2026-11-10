@@ -73,7 +73,6 @@ open_questions:
   - 'Accounts differ on what she was convicted of: possession of narcotics, including joints found near her home, or selling a marijuana-infused beverage.'
   - No weight, plant count, area or market value was published; only two joints of cannabis are described.
   - No compensation or disciplinary outcome for the officers involved was reported.
-  - The submitted page's single image is an untitled site graphic, so no media entry was made for it.
   - GhanaWeb's August 2026 account could not be opened and its details were not used.
 ---
 

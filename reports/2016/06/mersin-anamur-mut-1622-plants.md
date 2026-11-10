@@ -43,7 +43,6 @@ sources:
 open_questions:
   - The article gives only its publication timestamp of 23 June 2016 at 11:40 and no separate date for the raids, so 23 June 2016 is used as the incident date.
   - Only one opened source, a Haber7 page crediting AA, supports this event and no second account was available.
-  - The page's only listed image is a no_image.jpg placeholder and does not show the event, so no media entry is included.
   - The suspects are identified only by initials with ages, so full names could not be established.
   - No court outcome beyond remand for three suspects and release pending trial for one suspect was reported.
   - No figures for the area cleared, drug value, or independent weighing were published.

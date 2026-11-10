@@ -40,7 +40,6 @@ open_questions:
   - No estimated value was published for the seized ganja.
   - The same page also reports a separate 1.1 kg ganja arrest by Thalaivasal police near Mummudiyan temple, which is a different event left out of this report.
   - Only one outlet account could be opened and no police statement or second report was found.
-  - No photograph of this seizure could be identified on the page, whose listed images are unrelated sidebar thumbnails, so no media entry is included.
 ---
 
 On 5 November 2026, railway special-team police boarded the Dhanbad-Alappuzha

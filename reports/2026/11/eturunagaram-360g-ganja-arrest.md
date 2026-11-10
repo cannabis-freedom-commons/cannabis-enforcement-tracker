@@ -44,7 +44,6 @@ open_questions:
   - No value for the 360 grams was published.
   - The checkpost is not named or precisely located, only described as near the mandal centre.
   - Only one source for this arrest could be found and opened.
-  - The page's lead photo carries no caption, credit or descriptive alt text, so whether it shows this seizure is not established and no media entry is included.
 ---
 
 Local police in Eturunagaram mandal centre in Mulugu district arrested a young

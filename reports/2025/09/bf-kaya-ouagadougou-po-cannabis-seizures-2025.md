@@ -90,7 +90,6 @@ open_questions:
   - The photo addresses were taken from the cited pages' image markup; the pictures could not be viewed and their captions do not confirm whether the two outlet photos of the Kaya and Ouagadougou seizure are the same police handout.
   - Only one National Police statement underlies each operation; the other outlets are reprints of the same communiqué text.
   - 'Left out, as its quotation was not found in Burkina 24: They had twenty cannabis pads weighing 20.5 kg, valued at 2,300,000 CFA francs, packed in a suitcase and large bags.'
-  - Seneweb reports the arrest of "plusieurs individus" (several individuals) at the Tambolo police post in Pô without giving a number, while the existing report's two arrests come from the National Police statement as published by Burkina 24.
   - Seneweb gives the Pô weight only as "more than 20 kg" and the value as an estimate of about 2.3 million CFA francs; the precise 20.5 kg figure comes from the National Police statement as published by Burkina 24.
   - Seneweb does not name the neighbouring country the cannabis came from, nor the Dakola–Ouagadougou route or National Road 5 given in the other accounts.
   - 'Left out, as its quotation was not found in Seneweb: Separately, the central police station in Pô arrested two people during a security search at the Tambolo/Pô police post on National Road 5.'

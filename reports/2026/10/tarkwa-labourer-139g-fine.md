@@ -65,9 +65,6 @@ open_questions:
   - >-
     The arrest was on 21 January 2025 but the laboratory report came in May 2025 and the sentence in October
     2026; the sources do not explain the gap.
-  - >-
-    The GH Today page image is an AI-generated illustration, not a photograph of this case, so no media entry
-    is made.
 sources:
   - title: Labourer Fined GH¢120,000 for Possessing and Selling Cannabis, Tramadol
     url: https://gna.org.gh/2026/10/labourer-fined-gh%C2%A2120000-for-possessing-and-selling-cannabis-tramadol/

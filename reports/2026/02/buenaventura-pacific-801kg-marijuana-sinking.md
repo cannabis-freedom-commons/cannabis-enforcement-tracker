@@ -81,7 +81,6 @@ open_questions:
   - No charges beyond referral for drug trafficking, no custody ruling and no court outcome were reported.
   - The four outlets and the minister's post all reproduce the Navy's account; no independent non-official source was found.
   - The Telemetro photo carries no credit or caption beyond the headline, so what it shows could not be confirmed; it is linked, not copied.
-  - CNC Tuluá and La Veintitrés publish images of the operation without captions that separate them from the Navy handout, so no media entries were taken from those pages.
 ---
 
 Colombian Navy coast guard units rescued two Panamanian citizens from the sea

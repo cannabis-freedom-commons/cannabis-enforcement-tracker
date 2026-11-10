@@ -83,16 +83,7 @@ open_questions:
   - No figure for the number of cannabis plants or the cultivated area was published, only the seized processed weight.
   - Whether the farmer's detention became a formal arrest, which charges were filed, and any court outcome are not yet reported.
   - Only one source for this event could be opened; no agency statement or second outlet account was found.
-  - The page carries a lead photo captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
-  - The Navarashtra page labels its lead image as a courtesy AI Gemini photo, so no media entry is added.
-  - Whether the lead photo captioned Manora Police Raid Ganja shows this seizure could not be established from its caption and credit, so no media entry is added.
-  - The submitted AMP URL is the same Navbharat Live article as the canonical URL already cited in the existing report, not a separate account.
   - The article gives only its publication date of 3 November 2026 and no separate day for the raid.
-  - The Bhaskar Hindi page carries a lead photo captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
-  - The Mid-Day summary rounds the seizure to 15.22 kg and the value to Rs 2.26 lakh while its body gives 15 kg and 225 grams; the existing report's exact figures of 15.225 kg and Rs 2,26,500 are retained.
-  - The Mid-Day page's only relevant image is captioned Representational image and does not show this seizure, so no media entry is added.
-  - The new account dates the discovery to 2 November while the existing report uses the 3 November publication date; whether the evening raid occurred on 2 November remains to be reconciled.
-  - The page's lead image is captioned only as cannabis-cultivation-in-a-field and does not establish that it shows this seizure, so no media entry is added.
 ---
 
 Police detained Narayan Kisan Vyavahare, a 70-year-old farmer associated with a

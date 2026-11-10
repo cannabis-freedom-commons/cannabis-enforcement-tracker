@@ -44,7 +44,6 @@ open_questions:
   - The article gives the court hearing only as Thursday; 29 October 2026 is inferred from its 31 October 2026 publication date.
   - The page headline metadata mentions nine plants, but the article text gives no plant count, so no plants figure is recorded.
   - No weight for the cannabis found in black bags was published, so no kilograms can be recorded.
-  - The only page image is a stock iStock photo of cannabis leaves, so no media entry is included.
   - Only one accessible source for this event was found.
 ---
 

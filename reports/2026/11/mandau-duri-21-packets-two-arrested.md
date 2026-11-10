@@ -61,11 +61,7 @@ open_questions:
   - No charges, court dates or case outcome have been reported; the two men were taken for examination and further investigation.
   - Only one source reporting this event could be opened; no second account confirming the details was found.
   - Thumbnails on the page for a Siak Hulu methamphetamine case and a separate dashboard-compartment cannabis case are different events left out of this report.
-  - The submitted page says three men were secured while the existing 21-packet report records two arrested men, BKA and AP, with YS as the detained source of the lead.
-  - The submitted page reports 21 packets, two phones and two motorcycles, while a separate existing report for the same night in Pematang Pudu reports 27 packets, three phones and three motorcycles including six packets found on YS.
   - No weight was published for the 21 packets, so no cannabis weight is recorded.
-  - The page carries photos but their captions do not establish that they show this seizure, so no media entry is added.
-  - The page's lead photo carries no caption or credit identifying its content, so whether it shows this seizure could not be established and no media entry is added.
 ---
 
 Mandau Police's operational team arrested two men identified as BKA (34) and AP

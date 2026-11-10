@@ -42,7 +42,6 @@ open_questions:
   - The precise place of interception is not named for this suspect; Velana Airport is named only for other cases in the same article, so the place is recorded at country level.
   - No weight for the two THC-positive packets was published, so no kilograms can be recorded.
   - No value, plant count, or additional seizure figure was reported.
-  - The page image is a file photo of a previously intercepted person and does not show this seizure, so no media entry is included.
   - The same article reports other March and May smuggling cases and a December Drugs Act amendment; those separate events and the law change are left out of this report.
   - No charge, trial, or sentence beyond the five-day remand for a state lawyer has been reported.
   - Only two contemporaneous outlet accounts were opened; no separate police or Customs statement for this arrest could be opened directly.

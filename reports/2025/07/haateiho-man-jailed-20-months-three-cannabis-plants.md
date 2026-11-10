@@ -69,7 +69,6 @@ sources:
     date: 2025-07-27
 open_questions:
   - The articles give no separate date for the sentencing; 23 July 2025 is the first publication date and stands in for the event date.
-  - No usable event photo could be recovered from the cited pages, so no media entry is included.
 ---
 
 ‘Aisea Pese Havea, 42, is serving one year and eight months in prison for

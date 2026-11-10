@@ -45,7 +45,6 @@ open_questions:
   - The article gives no separate time for the raid beyond arrest on Wednesday; 4 November 2026 is the Times of India publication date and is used as the incident date.
   - No charges, custody ruling or court outcome were reported; the investigation was described as under way.
   - The 50 litres of beer are a non-cannabis seizure and are not counted in kg_seized; only the 800 grams of ganja are recorded as 0.8 kg.
-  - The Times of India page image uses a generic crime graphic and is not established to show this seizure, so no media entry is included.
   - The same Times of India page reports a separate Facebook identity-theft case registered at Chottanikkara police station, a different event left out of this report.
 ---
 

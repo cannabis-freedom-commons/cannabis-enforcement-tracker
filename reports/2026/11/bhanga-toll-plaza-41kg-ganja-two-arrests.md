@@ -43,13 +43,8 @@ open_questions:
   - 'Left out, as its quotation was not found in The Daily Campus: At 12:25 pm a team of Special Response Battalion-10, a Bangladesh police unit known by its Bengali initials SRB, set up a temporary checkpost beside the toll plaza, searched a covered van and found 41 kg of ganja, the dried cannabis widely sold in Bangladesh.'
   - 'Left out, as its quotation was not found in The Daily Campus: The seized drugs and the arrested men were handed to the police station with jurisdiction so that a case could be filed under the Narcotics Control Act.'
   - Left out kg seized, as its quotation was not found in The Daily Campus.
-  - The submitted page names the two arrested men and their home villages; the tracked report does not record suspect names or addresses, and they are not added here.
   - The page gives 213,000 taka for the 71 bottles of Winsex syrup, written in words as two lakh thirteen thousand; the syrup is not cannabis, so its count and value are excluded from the cannabis figures.
   - The page says both men were handed to the relevant police station and that legal proceedings were under way, giving no charge sheet, case number or court outcome.
-  - The page's single photo carries no caption or credit and is not established to show this seizure, so no media entry is added.
-  - Both the existing report and this page reproduce the same SRB-10 press release, so they are not independent reporting of the arrests.
-  - The submitted page names the two arrested men and their home villages; names and addresses are not added to the tracker.
-  - The page's single photo is captioned only with the headline and carries no credit, so it is not established to show this seizure and no media entry is added.
   - The 71 bottles of Winsex syrup and their 213,000 taka value are not cannabis and stay out of cannabis figures.
 ---
 

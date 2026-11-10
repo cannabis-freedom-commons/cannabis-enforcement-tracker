@@ -40,7 +40,6 @@ open_questions:
   - No arrests over the port consignments were reported; a separate cocaine arrest at Lagos airport was announced in the same statement and is left out.
   - The codeine consignments seized alongside the cannabis are noted for context and not counted in the figures.
   - A separate Nigeria Police seizure of 267 kg at Apapa on 6 October is a different event.
-  - TheFact Daily's two photos are uncaptioned and carry no credit, so they could not be confidently tied to the port seizures and no media entries were added.
 sources:
   - title: NDLEA intercepts N5bn cannabis, codeine consignments at Lagos, Onne ports
     url: https://www.premiumtimesng.com/news/top-news/914379-ndlea-intercepts-n5bn-cannabis-codeine-consignments-at-lagos-onne-ports.html

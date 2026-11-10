@@ -50,7 +50,6 @@ open_questions:
   - The arrest date of 23 February 2004 is inferred from Monday evening relative to the Wednesday 25 February 2004 publication; no separate calendar date for the raid was published.
   - The farm's precise location was not given beyond the Lusaka dateline, so Lusaka is used as the place.
   - No charges, pleas or court outcome for the 10 farm workers were reported, and no court outcome for Chileshe was reported in these sources.
-  - No photo of this event was published with the opened pages; the IOL page shows only unrelated videos, so no media entry is added.
   - The News24 account reproduces the same agency account as IOL and is not fully independent reporting.
 ---
 

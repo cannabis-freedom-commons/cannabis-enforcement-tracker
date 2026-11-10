@@ -45,7 +45,6 @@ open_questions:
   - The airport cocaine case (49 capsules weighing about 600 grams and one Guinean detainee travelling Brazil-Morocco-Bissau) is mentioned only to explain the same announcement and is excluded from cannabis figures and the arrested count.
   - The arrested figure of one reflects only the Quelélé cannabis detention; the second detention reported across both operations was the airport cocaine case.
   - Only one accessible account of this event was found after searching in Portuguese; no second independent source or agency statement could be opened.
-  - 'No photos of this event could be listed: the page''s preview image is a generic outlet default, so no media entry is included.'
 ---
 
 Guinea-Bissau's Polícia Judiciária dismantled a network selling liamba in the

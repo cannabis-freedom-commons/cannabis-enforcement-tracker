@@ -64,8 +64,6 @@ open_questions:
   - The report uses 29 October 2026 as the incident date from the second account; the submitted article gives only its 2 November 2026 publication date.
   - Whether the Canal 26 lead photo shows the cannabis seizure or the motorcycle parts could not be established from its caption alone.
   - 'Left out, as its quotation was not found in Perspectiva Sur: Four of the six detentions were attributed to the aggravated-robbery investigation and two to offences under drug law 23.737.'
-  - The Impacto Castex article gives only its 31 October 2026 publication date and no separate date for the raids, so the existing report's 29 October 2026 incident date is unchanged.
-  - The page's only image is a February 2024 file photo of a police van reused from another outlet, so no media entry for this event is included.
 ---
 
 Police carried out 25 raids in Barrio Acuba in Villa Diamante and Villa de los

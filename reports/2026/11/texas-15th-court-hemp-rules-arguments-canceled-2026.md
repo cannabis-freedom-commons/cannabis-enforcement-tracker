@@ -29,7 +29,6 @@ open_questions:
   - The three incoming Democratic justices had not taken office when the arguments were canceled; the accounts do not name them.
   - The Texas Informer page carries no byline and reproduces the Tribune account almost verbatim, so it is not independent reporting.
   - The Texas Lawbook's own report on the cancellation is paywalled after its opening paragraphs and was not used for facts.
-  - The page's lead picture is a stock photo of a cannabis leaf, a bill and a gavel credited to rawpixel and Philip Steffan; it does not show the court, the parties or the case, so no media entry is added.
   - No filing, party list or case number for the hemp industry's suit is given in the opened accounts.
   - The Texas Tribune links the hemp case to a separate Nov. 5, 2026 story on the election and THC policy; that context belongs to a different report and is not covered here.
   - 'Left out, as its quotation was not found in The Texas Informer: A Travis County district judge had temporarily blocked the department''s rules on April 10 while the hemp industry''s lawsuit played out in court.'

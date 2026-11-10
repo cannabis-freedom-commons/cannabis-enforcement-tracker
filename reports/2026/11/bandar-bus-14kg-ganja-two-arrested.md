@@ -43,7 +43,6 @@ open_questions:
   - The articles date the search to "Tuesday, 3 November"; both were published on 4 November 2026, and no separate police statement date is given.
   - Neither account says where on the bus or on the passengers the 14 kg was hidden, how it was packed, or what value officers estimated.
   - No court outcome beyond the transfer to court on 4 November was reported.
-  - The submitted page's lead image is captioned only "প্রতীকী ছবি" (symbolic picture), so no media entry is added.
   - The Narayanganj Times lead image carries no caption or credit, so whether it shows the seizure could not be established and it is not listed.
   - Both accounts appear to reproduce the same SRB-11 information, so they are not independent reporting.
   - 'Left out, as its quotation was not found in Narayanganj Times: The bus belonged to Saudiya Paribahan, a long-distance bus company.'

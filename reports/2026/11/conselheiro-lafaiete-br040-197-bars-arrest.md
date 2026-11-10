@@ -82,7 +82,6 @@ open_questions:
   - The two containers held a substance described only as similar to ecstasy, with no confirmed identification reported.
   - No charge, custody decision or court outcome beyond transport to the on-duty station for a statement was reported.
   - Only one opened source was available; no second report confirming the event was found.
-  - The new source calls the two wrappers ecstasy while the existing report describes a substance similar to ecstasy; the report's wording is kept.
   - The Vertentes page carries a seizure-titled image with no caption, so whether it shows this event is not established.
   - The page lead photo repeats the headline as its caption with no credit, so whether it shows this seizure could not be established and it is not listed as media.
   - The two other images on the page are sidebar advertisements for UniFASar and ERM and do not show this event.

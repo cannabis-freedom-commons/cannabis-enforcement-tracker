@@ -48,7 +48,6 @@ open_questions:
   - It is unclear whether the five-tonne figure is a single seizure or the network's cumulative total.
   - The Milano.zone page reproduces the Calabrian daily Il Quotidiano del Sud account of 1 March 2018, so the Italian-press details share one origin.
   - Court outcomes for the 25 suspects were not reported in these sources.
-  - The only image found with these accounts is not identified as showing this operation, so no media entry was added.
 ---
 
 Italy's Guardia di Finanza, working with the financial police in Catanzaro and the central crime service in Rome, executed arrest orders for 25 people accused of transporting marijuana from Albania to Italy. [@1] Investigators linked the network to about five tonnes of marijuana, and three of those arrested were described as group leaders. [@1]

@@ -76,7 +76,6 @@ open_questions:
   - The number of people formally charged was not specified, so no charged figure is recorded.
   - No court outcome for the detainees was reported.
   - Earlier seizures of 285 pounds and four detentions between 2021 and 2023, and the year-to-date plantation totals, concern separate operations or overall statistics and are left out of this report.
-  - The Prensa Latina page image file dates from August 2025 and is not established to show this October operation, so no media entry is taken from it.
 ---
 
 On 10 October 2025 the Armed Forces seized a large marijuana plantation in a

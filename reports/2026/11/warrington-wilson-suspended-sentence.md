@@ -48,7 +48,6 @@ open_questions:
   - The article gives no date for the sentencing hearing, describing it only as a 'recent hearing'; 1 November 2026 is the article's publication date.
   - No weight, amount or street value was given for the cannabis, so no quantity is recorded.
   - Only the Warrington Guardian reported the case; no Cheshire Police statement or second outlet was found.
-  - The article's only photograph shows Cheshire Police officers on a street, not Wilson or the seized drugs, so no media entry is listed.
 ---
 
 Michael Wilson, 45, was charged with possession with intent to supply cannabis.

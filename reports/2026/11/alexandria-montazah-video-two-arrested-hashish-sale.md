@@ -69,11 +69,8 @@ open_questions:
   - The sources do not name the two men, give their ages, or say whether charges were filed; the public prosecution took over the investigation.
   - All accounts read reproduce the same Interior Ministry statement, and no independent reporting on the arrests was found.
   - This account describes both arrested men as unemployed residents of the First Montazah district and both as trafficking, unlike the recorded 30 October Alexandria street-video case, in which the filmed pair were a company employee and a delivery worker and a third man was the supplier.
-  - The page's only picture is captioned as an archive photo with no credit, so it is not established to show this arrest and no media entry is added.
   - The Sada El Arab page, like the Masrawy account, gives no weight for the hashish found with the two men and no value estimate.
   - The page gives 30 October only as the date the two men said they committed the offence, and no separate date for their arrest.
-  - The page's single picture is captioned only with the outlet's name and carries no credit, so it was not established to show this seizure and no media entry is added.
-  - The page's single picture is captioned only with the headline and carries no credit, so it was not established to show this arrest and no media entry is added.
 ---
 
 Security services identified two men from a video on social media in which its

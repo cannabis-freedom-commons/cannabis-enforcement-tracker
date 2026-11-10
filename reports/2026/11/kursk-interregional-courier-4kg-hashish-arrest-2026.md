@@ -47,7 +47,6 @@ open_questions:
   - The 15 kg figure is a combined total for hashish and 11 other plant and synthetic drug types that were not separately weighed, so only the 4 kg hashish is recorded as cannabis.
   - No charge, custody decision or court outcome was reported in the excerpt.
   - Only one accessible source was found; the cited 46tv.ru original could not be opened and the prospect.com.ru copy is truncated by a template error.
-  - No photo on the page is confirmed to show this seizure, so no media entry is included.
 ---
 
 Police in the city of Kursk detained a man whom they publicly described as an

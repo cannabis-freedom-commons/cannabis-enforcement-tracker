@@ -51,7 +51,6 @@ open_questions:
   - No weight for the cannabis and no area for the cultivation were published.
   - Sentence was deferred until "next month"; no sentencing date or outcome was reported.
   - Only one account of the case could be found; no police statement or second outlet report was opened.
-  - The article's only picture is a stock image of cannabis, not of this raid, so no media entry is listed.
 ---
 
 Ngoc Quy Pham, 41, a first offender, pleaded guilty at Glasgow Sheriff Court to

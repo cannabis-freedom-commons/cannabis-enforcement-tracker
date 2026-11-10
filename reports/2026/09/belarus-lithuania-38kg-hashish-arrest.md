@@ -71,15 +71,12 @@ open_questions:
   - The detained man's name was not published, only his age and his residence in the Minsk region.
   - No court outcome was reported beyond the opened criminal case.
   - Only one accessible account of this event was found after searching in Russian and English.
-  - The page's lead photo is captioned with the article headline only, so it is not established to show this seizure and no media entry is included.
   - The customs committee's statement did not disclose what happened to the Moldovan driver of the truck.
   - Reform.news gives the crossing's name as Kamenny Loh; the report uses the form Kamenny Log.
   - 'Left out, as its quotation was not found in Reform.news: An inspection with a scanning system confirmed the officers'' suspicions and revealed a specially constructed compartment in the vehicle''s structure.'
   - The Belta account describes the weight as about 38 kg and publishes no exact laboratory weight.
   - The Belta account gives no separate date for the inspection and detention; 29 September 2026 is its publication date and is used as the incident date.
-  - The Belta page carries a State Customs Committee photo credited only as Фото ГТК without describing its content, so no media entry is included.
   - NewGrodno.By gives no separate date for the inspection or the detention, and its account reproduces the Grodno regional customs statement already covered by the other outlets.
-  - The NewGrodno.By page image is captioned only with a fragment of the headline, so its content is not established and no media entry is added.
 media:
   - kind: photo
     url: https://mlyn.by/30092026/v-belarusi-izyato-38-kg-gashisha-zaderzhan-organizator-postavok-iz-litvy/

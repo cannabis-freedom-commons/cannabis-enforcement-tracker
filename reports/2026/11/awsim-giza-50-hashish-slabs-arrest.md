@@ -68,11 +68,7 @@ open_questions:
   - The article gives no separate date for the arrest; 2 November 2026 is its publication date and is used as the incident date.
   - No name, age, charge, or court outcome was reported beyond the arrest, admission, and referral to the competent authorities for investigation.
   - Only one source for this event could be opened; no second outlet or agency statement was found.
-  - The page carries a lead photo captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
-  - The page's lead image is captioned as an illustrative incident photo and does not establish that it shows this seizure, so no media entry is added.
   - The source gives the amount only as 50 farsh of hashish with no weight or value, so no cannabis weight can be added.
-  - The page's only image is captioned as archival (أرشيفية) and does not establish that it shows this seizure, so no media entry is added.
-  - The Dostor page image is captioned only as prison (السجن) and is not established to show this seizure, so no media entry is added.
 ---
 
 Egypt’s Interior Ministry security forces arrested an unemployed man in Awsim on

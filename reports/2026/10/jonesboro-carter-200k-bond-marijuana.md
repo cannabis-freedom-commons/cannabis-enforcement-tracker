@@ -52,7 +52,6 @@ sources:
 open_questions:
   - The 2.16 grams of marijuana and the methamphetamine weights are from a probable cause affidavit describing suspected drugs; no laboratory confirmation was reported.
   - No plea or trial outcome was reported; Carter is next due in court on 16 December 2026.
-  - The pages carried a Google Street View image of the arrest site and an uncaptioned sheriff's office image; neither could be confirmed to show the arrest or the marijuana, so no media links were added.
   - 'Left out, as its quotation was not found in Jonesboro Right Now: Carter would have to wear a GPS ankle monitor if released, and his next court appearance is set for 16 December.'
   - 'Left out, as its quotation was not found in NEA Report: After the dog alerted on the car, officers found two bags of suspected methamphetamine weighing about 15.03 grams and 2.77 grams in a sock, along with digital scales and three phones.'
   - 'Left out, as its quotation was not found in NEA Report: They also found about 2.16 grams of suspected marijuana on Carter, according to the affidavit.'

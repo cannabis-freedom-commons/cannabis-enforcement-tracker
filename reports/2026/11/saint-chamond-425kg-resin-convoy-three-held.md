@@ -82,7 +82,6 @@ open_questions:
   - The convoy was followed from Perpignan, but the articles do not identify the exact border crossing from Spain.
   - 'Left out, as its quotation was not found in Radio Scoop: The two men in the convoy and the man at whose home the load was to be delivered were arrested as the drugs were being unloaded, with the support of the GIGN, the gendarmerie''s intervention unit, from Orange.'
   - 'Left out, as its quotation was not found in Radio Scoop: The Saint-Étienne prosecutor''s office put the street resale value of the resin at several million euros.'
-  - Le Progrès publishes only an illustration photo captioned as such ("Photo d'illustration"), so no media entry is added for this source.
   - Le Progrès does not state the exact amount of cash seized, nor the date on which the three were brought before the court (6 November is taken from the report's earlier sources).
   - The new account repeats that the three suspects were placed in pre-trial detention but does not give the date of their court appearance.
   - 42info credits the article partly to Radio SCOOP and repeats the same regional gendarmerie account, so it is not independent reporting.

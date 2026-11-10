@@ -60,7 +60,6 @@ open_questions:
   - No charges, pre-trial measures or court outcome were reported; the suspects were only placed at the judicial authorities' disposal.
   - The ₡267,000 in cash is described as of questionable or dubious origin and is not recorded as drug value.
   - Only the two outlet accounts of the police report could be opened; no separate agency or PCD statement could be opened.
-  - The photos are police handout images captioned only as suspects and seized items in Heredia, so each is listed once from the submitted page.
 ---
 
 Fuerza Pública officers arrested two men on the night of Sunday 31 May 2026 in

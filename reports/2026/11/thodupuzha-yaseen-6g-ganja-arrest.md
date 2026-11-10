@@ -39,7 +39,6 @@ open_questions:
   - The article names only Monday for the inspection; Monday is taken as 2 November 2026 because the report was published on Wednesday 4 November 2026.
   - No charges or court outcome were reported.
   - Only one accessible source for this event was found.
-  - The page image is captioned only with the headline and is not established to show the seizure or raid, so no media entry is included.
   - The exact spot within Kumbamkallu Matte Colony was not specified, so coordinates are for Thodupuzha town centre.
 ---
 

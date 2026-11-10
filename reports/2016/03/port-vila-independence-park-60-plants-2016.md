@@ -36,7 +36,6 @@ open_questions:
   - Only one opened account was found; the original Loop Vanuatu article could not be opened and its PNG republication is the source used here.
   - The alleged drug lab behind Mele Beach, where another Australian was arrested and released on bail, is a separate matter mentioned in the same article and is not covered as an event in this report.
   - The article's passages describing how cannabis is grown indoors are general background, not findings about this house.
-  - 'No media entry is added: the page''s only image is a Blogger thumbnail captioned only by its file name, with no caption, credit or text tying it to this raid.'
 ---
 
 Vanuatu police drug squad officers seized marijuana plants from a house in the

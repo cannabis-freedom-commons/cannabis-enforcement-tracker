@@ -54,7 +54,6 @@ sources:
 open_questions:
   - The published position of 98 miles south-east of Cartagena is approximate, so the map point is indicative rather than exact.
   - No court outcome for the eight crew members was reported in the opened sources.
-  - The Tax Agency press release carries a photo annex of the boarding, but as a Spanish government work with no open licence it could not be copied here, and no direct image URL was recovered for a media entry.
 ---
 
 Spanish Customs boarded the 79-metre Moldovan-flagged merchant vessel ELG at 1pm on 17 June 2019, about 98 nautical miles south-east of Cartagena, and found some 350 bales of hashish resin in its forepeak hold weighing about 10,000 kilos. [@1] The patrol vessels Abanto, based in Cartagena, and Paiño, based in Palma de Mallorca, made the boarding with air support after Customs aircraft spotted the vessel towing rigid-hulled inflatable boats; the ELG tried to flee before the Abanto intercepted it. [@1] Spanish Customs put the street value of the load at about 20 million euros. [@2]

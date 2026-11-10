@@ -55,7 +55,6 @@ open_questions:
   - The cannabis total of 22.539 kg adds the separately stated 21.919 kg of esrar and 620 g of skunk; the 189 g of cannabis seeds is recorded separately and synthetic bonzai, methamphetamine, cocaine and pills are excluded from cannabis figures.
   - No breakdown of suspects or seizures by district or address, and no detention, charge or court outcome beyond started judicial proceedings, was reported.
   - Only one opened account of this sweep was found, and no second independent report could be opened.
-  - The pages carry images whose captions repeat the headline or give no description, so no photo can be confirmed to show this seizure and no media entry is included.
 ---
 
 Balıkesir İl Jandarma Komutanlığı, the provincial gendarmerie command, carried

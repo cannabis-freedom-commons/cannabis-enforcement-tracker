@@ -94,14 +94,12 @@ open_questions:
   - The accounts give different ages for Rajkumar, and The Hindu and Dinamalar disagree on whether Rajkumar was present during the search or arrived later; this report follows The Hindu's account.
   - Dinamalar named Rajapandi and Asai as the two men who placed the packet; The Hindu names only Rajapandi among those arrested, and The Times of India attributes the planting to a person operating the attached bar.
   - No charges, custody details or court outcome were reported, and the outcome of the departmental inquiry and of the criminal case is not yet known.
-  - The Hindu page carries only a site-wide placeholder image and no photo of this event, so no media entry is included.
   - No weight or quantity of the ganja in the planted packet is given, so no cannabis figure can be recorded.
   - The article gives no date of its own for the incident; 5 November 2026 is used, the date the packet was planted and the five arrests were made as reported by other outlets.
   - The article says bar employees and police officers acted together, but it gives no names, ranks or counts for the officers.
   - Arappor Iyakkam's release asks for the officers to be charged with ganja trafficking; no such case, charge or court step is reported.
   - No police response is given to the bribery allegation against the officer.
   - The Oneindia article 'சிவகங்கையில் டாஸ்மாக் பாருக்கு எதிராக போராடியவரை சிக்க வைக்க மாஸ்டர் பிளான்.. சிக்கி கொண்ட போலீஸ்?' (oneindia 843647, 7 November 2026) appears to cover the same incident but could not be opened in full and is not cited.
-  - The submitted page is a party political statement carried by a Tamil news aggregator; it gives no dates, weights, officer names or counts and offers no independent account of who planted the packet.
   - The page places the trader at Singampunari while other accounts name Thirukkalappatti near Tiruppattur in Sivaganga district; the report keeps the more specific locality.
   - The DMK post also refers to an unrelated alleged 1,000-crore meth-trafficking case against a TVK functionary, which is not part of this cannabis event and is left out.
   - The DMK post gives no date for the raid, the packet's weight or the number of people arrested, so nothing is added to the report's figures.
@@ -120,9 +118,6 @@ open_questions:
   - The DMK's separate reference to an alleged Rs 1,000 crore methamphetamine case against a TVK functionary is not a cannabis matter and is left out of the report's cannabis account.
   - No police or state government response to the statement was published in the opened sources.
   - The statement gives no count of people arrested, so nothing is added to the target report's figure of five.
-  - The only images on the Dinakaran page are a stock caterpillar banner and an uncaptioned featured image not confirmed to show the shop or the search, so no media entry is added.
-  - Dinamalar and News7 Tamil reproduce the same connected X post as the submitted page, so they are not independent accounts of the case.
-  - The submitted page is a republished party political statement with no independent reporting, no date for the raid or the planting, no ganja weight and no count of those arrested.
 media:
   - kind: photo
     url: https://timesofindia.indiatimes.com/city/madurai/5-held-for-planting-ganja-to-frame-social-activist/articleshow/135642833.cms

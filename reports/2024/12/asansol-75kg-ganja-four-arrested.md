@@ -39,7 +39,6 @@ sources:
 open_questions:
   - The article gives no separate date for the interception; 13 December 2024 is its publication date and is used as the incident date.
   - The captured readable text names no arrested persons, gives no seizure location beyond Asansol, and states no street value or court outcome.
-  - 'The page image is captioned only as Asansol Durgapur Police (Photo: Wikipedia) and is not shown to depict this seizure, so no media entry is added.'
 ---
 
 Coke Oven police station arrested four persons under the Narcotics Act acting on

@@ -67,7 +67,6 @@ open_questions:
   - 'The number of arrested people is disputed: Réunion La 1ère and Imaz Press report five arrests, while most outlets report three interpellations.'
   - No outcome of the 22 June fast-track hearing was reported; the three suspects' charges and sentences are unknown.
   - No plant, area or cannabis value was published in any opened account.
-  - The page's two photos are captioned as illustrations from an operation in Saint-Denis, not this Le Port raid, so no media entry is included.
   - Le Quotidien's 12 August report on a Le Port trio covers a different case (26 plants and about 7.06 kg across two homes) that also began on 19 June, and is left out here.
   - 'Left out, as its quotation was not found in Free Dom: Free Dom, citing the union, reported three arrests, two growing rooms and 90 plants, with several kilos of herb intended for sale.'
 ---

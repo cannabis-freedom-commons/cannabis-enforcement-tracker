@@ -41,7 +41,6 @@ open_questions:
   - The article gives no separate date for the arrests or home search; 5 November 2026, its publication date, is used as the incident date.
   - The police account says a first information report was registered and that the four were being processed for judicial custody; no later court outcome is reported.
   - No independent second account of this operation was found in searches in Hindi and English.
-  - The page has three images without captions or alt text establishing that they show this operation; the associated video's contents could not be confirmed, so no media entry is included.
 ---
 
 Tikari and Chandauti police jointly arrested four accused in Gaya district,

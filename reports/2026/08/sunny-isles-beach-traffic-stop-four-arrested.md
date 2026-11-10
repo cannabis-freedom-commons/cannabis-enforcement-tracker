@@ -41,7 +41,6 @@ open_questions:
   - No identities, ages or subsequent charging, bail or court outcomes were published.
   - The incident date of 22 August 2026 is inferred because the article published on 23 August 2026 says the arrests occurred on Saturday.
   - Only one independent reporting source could be opened; a search found only a truncated reprint without additional facts.
-  - No event-specific photograph or video could be established; the page's lead asset is a Getty stock image and streaming-video placeholder, so no media entry is included.
 ---
 
 Sunny Isles Beach police arrested four people in a vehicle during a traffic stop

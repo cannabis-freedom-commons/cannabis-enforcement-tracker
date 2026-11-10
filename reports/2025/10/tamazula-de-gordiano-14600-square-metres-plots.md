@@ -63,7 +63,6 @@ open_questions:
   - No outlet reports whether the federal prosecutor's office opened an investigation or identified any suspect.
   - The Nayarit Noticias account reproduces the National Guard statement word for word, so it is not independent reporting; Reforma's account adds only that the plots were found.
   - The statement describes the plants as possibly marijuana and reports no laboratory confirmation.
-  - The statement's photograph caption only repeats the headline and Reforma credits its picture only as Cortesía, so no direct image address could be tied to this event and no media entry is made.
 ---
 
 National Guard members and Mexican Army soldiers on security and

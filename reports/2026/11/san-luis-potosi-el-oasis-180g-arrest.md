@@ -47,7 +47,6 @@ open_questions:
   - The cristal found on Oscar Eduardo “N” is not counted as cannabis; no weight or laboratory result for those ten bags was published.
   - Full surnames were not published; both men were identified only by first name, paternal surname initial and age.
   - Only one accessible source for this event was found after searching in Spanish; no agency statement or second outlet account could be opened.
-  - The page image is captioned only with the headline and carries no credit, so it is not established to show this seizure and no media entry is included.
 ---
 
 Municipal police in the capital of San Luis Potosí detained two young men in the

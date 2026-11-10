@@ -55,10 +55,8 @@ open_questions:
   - The reports give only a preliminary identification as possible marijuana; no laboratory confirmation was reported.
   - The exact spot of the intervention within the Mokotów, Ursynów and Wilanów command area was not specified; Mokotów, Warsaw is used from the handling command and the local filing.
   - No arrest, charge or family-court outcome was reported beyond the referral; the case was still pending when published.
-  - The Mokotów police page lead is a stock interior shot of a Policja patrol car, not this seizure, so no media entry is included.
   - The Miejski Reporter account gives no separate date for the intervention; 6 November 2026, used by the earlier report, is the publication date of the police statement, while this account was published on 7 November 2026.
   - The account gives no weight for the dried material and only a preliminary identification as possible marijuana, with no laboratory confirmation.
-  - The page's main photograph shows a policeman by a patrol car with an ambulance on a snowy street and carries no credit, so it does not depict this seizure and no media entry is included.
 ---
 
 A 15-year-old boy felt unwell after smoking marijuana and called for help

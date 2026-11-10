@@ -57,18 +57,9 @@ open_questions:
   - The article gives no separate date for the raids; 4 November 2026 is its publication date and is used as the incident date.
   - The reported Rs 2.19 lakh value covers the drugs, phones and weighing scale together, so no cannabis-only value is recorded.
   - Only one accessible source for this event was found after searching in English, with no second independent account opened.
-  - The page image repeats the headline as its caption without credit or description establishing that it shows this seizure, so no media entry is included.
   - No charges or court outcome were reported; the investigation was described as ongoing.
-  - The new account rounds the seizure to 54 grams while the existing report records 54.180 grams; the existing precise figure is retained.
-  - The new account values the 54 grams alone at Rs 1.89 lakh, while the existing report values all seized items together at Rs 2.19 lakh, so no cannabis-only value is recorded.
   - The new account also gives no separate raid date; 4 November 2026 remains the publication date used as the incident date.
-  - The page image and video carry no caption or credit establishing that they show this seizure, so no media entry is included.
   - The new account uses short forms Sandeep, Pradeep and Bunty; the existing full names with patronymics are retained.
-  - The Sandesh account values the 54.180 grams alone at approximately Rs 1,90,000, while the existing report records Rs 2.19 lakh for all seized items together, so no separate cannabis value is added.
-  - The Sandesh account says the stock was brought from Rajasthan ten days earlier, while the existing report specifies Udaipur around ten to fifteen days earlier.
-  - The Sandesh account gives only a general Krishnanagar location and does not mention the phones, scale or specific Prabuddh Ashram and Krishna Elegance raid addresses in the existing report.
-  - The Sandesh page image is captioned only with the headline and carries no credit establishing that it shows this seizure, so no media entry is included.
-  - The Hum-Dekhenge image is captioned only as Krishnanagar Police Busts Hybrid Ganja Racket with no credit establishing that it shows this seizure, so no media entry is added.
 ---
 
 Ahmedabad's Krishnanagar police arrested three men after raids near the Prabuddh

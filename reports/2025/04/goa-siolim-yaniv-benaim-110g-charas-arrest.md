@@ -51,7 +51,6 @@ open_questions:
   - The seized charas and cocaine were valued together at over Rs 9 lakh in one account and Rs 8.7 lakh in another, so no cannabis-only value is recorded in figures.
   - The cocaine weight is excluded from cannabis figures; only the 110 grams of charas is counted as 0.11 kg seized.
   - No charges, laboratory confirmation or court outcome were reported at the time of these accounts.
-  - The submitted page image is a generic default site image with no caption tying it to this raid, so no media entry is added.
 ---
 
 Goa Police arrested Israeli national Yaniv Benaim alias Atala from his residence

@@ -69,12 +69,10 @@ sources:
     date: 2026-11-04
     language: ar
 open_questions:
-  - The articles give no separate dates for the street arrest or the first-instance verdict, so 3 November 2026, the submitted page's publication date, is used as the incident date.
   - No weight was published for the seven hashish pieces, so no cannabis weight can be recorded.
   - The two bags of methamphetamine are a non-cannabis substance in the same case and are excluded from cannabis figures.
   - The outcome of the appeal set for 4 November was not yet reported.
   - Both opened sources are Al Masry Al Youm accounts of the same case and no independent agency statement was found.
-  - The page illustrates the story with an archive image captioned as hashish seizures rather than this event, so no media entry is included.
   - The ruling is not reported by an independent newsroom; Daily8 carries the same account attributed to Al Masry Al Youm.
   - No separate date was published for the appeal session; 4 November 2026 is the publication date of the account describing the ruling.
   - The article does not say whether the student was in custody at the ruling or whether his fugitive brother has since been arrested.

@@ -53,7 +53,6 @@ open_questions:
   - The suspect was identified only as a 20-year-old Bender resident; his name was not published
   - Three criminal cases were opened but no formal charge, custody decision or court outcome was reported
   - Both accounts repeat the Interior Ministry press-service version; no independent account was found
-  - The Novosti PMR page carries an image without caption or credit that cannot be established to show this seizure, so no media entry is included
   - 'Left out, as its quotation was not found in Transdnestrinform: The ministry''s press service said the bureau officers carried out the detention after the months of operational work.'
   - The Novosti PMR page carries one photograph with no caption or credit, so it could not be established as showing this seizure and is not linked as media.
 ---

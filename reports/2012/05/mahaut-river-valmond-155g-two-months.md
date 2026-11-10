@@ -62,7 +62,6 @@ open_questions:
   - The article gives no separate date for the sentencing; 15 May 2012 is its publication date and is used as the incident date.
   - The article does not name the court, though a magistrate imposed the sentence.
   - No value, fine or default term is reported, and no previous convictions are stated beyond the magistrate's reference to several past chances.
-  - The photograph published with the Dominica News Online article is a generic 'court news' image and the reprint carries an unidentified picture, so no media is listed.
   - The only second account is a reprint of the Dominica News Online text.
 ---
 

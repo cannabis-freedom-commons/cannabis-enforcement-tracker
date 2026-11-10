@@ -41,7 +41,6 @@ open_questions:
   - No separate weight, bottle count or other quantity was published for the ganja or the Indian liquor, so no cannabis quantity is recorded.
   - The Tk 197,800 seizure value covers the liquor and ganja together and cannot be separated, so it is not recorded as a cannabis-only value.
   - The reports give no detailed information on whether anyone was detained, so no arrest figure is recorded.
-  - The page image is captioned only as a file photo and is not established to show this seizure, so no media entry is listed.
   - Only one accessible source for this event was found after searching in Bengali and English.
 ---
 

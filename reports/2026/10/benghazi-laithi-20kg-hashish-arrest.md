@@ -59,7 +59,6 @@ open_questions:
   - The husband's whereabouts and whether he was arrested were not reported.
   - Details of the earlier related case were not given beyond resistance to branch members and injury to one of them.
   - All accounts rest on the anti-narcotics branch's statement; no independent reporting was found.
-  - 'No media entry is included: Alwasat published agency-credited photos of the seizure but no absolute direct image address could be recovered from the text readout, and the submitted page''s image is not confirmed by caption or credit to show this seizure.'
 ---
 
 Officers of the Benghazi branch of Libya's General Department for Combating

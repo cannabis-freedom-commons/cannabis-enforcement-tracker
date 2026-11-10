@@ -49,7 +49,6 @@ open_questions:
   - The circumstances of each arrest, including where the stop or search took place, were not given.
   - No court outcome beyond the arrest and charges was reported.
   - Only one accessible source for these bookings was found; searches for a second account returned nothing.
-  - The page illustration is a file photo of the jail and does not show these arrests, so no media entry is included.
   - The same docket lists many non-cannabis bookings, which are separate events left out of this report.
 ---
 

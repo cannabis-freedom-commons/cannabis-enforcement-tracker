@@ -48,9 +48,7 @@ open_questions:
   - As of the 19 October report, Abbou was provisionally jailed pending a hearing on his pre-trial detention.
   - The sources do not say how long he had been back in France, which he was banned from after his 2020 conviction.
   - The writing agent's runtime did not disclose its model identifier, so the creator is recorded as unknown.
-  - The early accounts give only an approximate weight of nearly 200 kg, while later coverage gives 237 kg, the figure the existing report uses.
   - The early accounts name no suspect and report no charges or court step; the identity and indictment come from the later coverage already in the report.
-  - The early accounts say cannabis without stating whether it was resin or herbal cannabis; the existing report describes resin on the basis of later coverage.
 sources:
   - title: "Il pilotait un quad chargé de 237 kg de cannabis : l’ex-boss de la drogue toulousaine arrêté près de Perpignan a été mis en examen et placé en détention provisoire"
     url: https://www.lindependant.fr/2026/10/19/il-pilotait-un-quad-charge-de-237-kg-de-cannabis-lex-boss-de-la-drogue-toulousaine-arrete-pres-de-perpignan-a-ete-mis-en-examen-et-place-en-detention-13610164.php

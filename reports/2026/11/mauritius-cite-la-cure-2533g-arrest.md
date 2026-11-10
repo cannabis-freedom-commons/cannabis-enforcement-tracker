@@ -49,7 +49,6 @@ open_questions:
   - Only one accessible source for the Cité La Cure operation was found after searching in French and English.
   - No laboratory confirmation for the seized cannabis was reported.
   - No outcome of the provisional drug-trafficking charge was reported.
-  - The page picture is captioned only Drogue with no credit and no evidence it shows this seizure, so no media entry is given.
   - The same article also reports the separate La Gaulette seizure of 1,048 g and Rs 461,400, which is already recorded in mauritius-la-gaulette-1048g-arrest and is left out of this report's figures.
 ---
 

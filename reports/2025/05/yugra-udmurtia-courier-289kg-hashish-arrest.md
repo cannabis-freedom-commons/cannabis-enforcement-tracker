@@ -60,7 +60,6 @@ open_questions:
   - Both accounts reproduce the Yugra police press release, so they are not independent reporting.
   - The attempt to flee and resist the police appears only in the second account.
   - No court outcome beyond remand in custody was reported.
-  - The submitted page carries a police handout photo whose content is not described by a caption; the image is listed without asserting what it depicts beyond the reported detention and seizure.
 ---
 
 Drug-control officers of the Yugra interior ministry directorate, with

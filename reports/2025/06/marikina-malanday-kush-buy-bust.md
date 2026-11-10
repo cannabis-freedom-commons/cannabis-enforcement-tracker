@@ -61,7 +61,6 @@ open_questions:
   - Laboratory results confirming the seized items were cannabis were not reported.
   - The marijuana oil quantity is given by volume (22 millilitres) with only a peso value, so no weight for the oil is recorded.
   - Daily Tribune reports a combined street value of P450,000, while INQUIRER.net gives a P451,320 total; the report uses the itemised figures of P450,000 for the kush and P1,320 for the oil.
-  - The submitted page’s only image is a file photo of the NCRPO headquarters, not a picture of this seizure, so no media entry is added.
 ---
 
 Police in Marikina City arrested a 30-year-old man in a buy-bust operation in

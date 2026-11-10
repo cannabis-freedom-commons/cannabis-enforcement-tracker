@@ -62,7 +62,6 @@ open_questions:
   - The plea report totals 64.6g of cannabis while the sentencing report itemises 11 containers of 3g plus 5g at the hotel; the report records the 64.6g total plus 450g of THC sweets as 0.5146 kg.
   - The 450g sweets weight is the confectionery containing THC, and the 928g chocolate weight is psilocybin chocolate, not cannabis, so only the sweets are counted as cannabis edibles.
   - The 117g of cocaine, 4.4g of magic mushrooms and 928g of psilocybin chocolate are excluded from cannabis figures as non-cannabis substances.
-  - The submitted page carries only a generic Douglas image, so no media entry of the event itself is included.
 ---
 
 Kyle Murphy, 20, was jailed for seven years after admitting cocaine possession

@@ -51,7 +51,6 @@ open_questions:
   - The reports give no separate date for the raid; 1 August 2026 is the publication date of the reports and is used as the incident date.
   - The names, ages and nationalities of the two suspects were not published.
   - No court outcome beyond the custody order was reported; the investigation and search for other suspects were still under way.
-  - The Kapitalis page image is a file photo uploaded in February 2025 and captioned only with the article title, so it is not established to show this seizure and no media entry is included.
 ---
 
 Nabeul's anti-drug brigade dismantled a drug-trafficking network operating in

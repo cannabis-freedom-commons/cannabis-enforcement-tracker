@@ -48,7 +48,6 @@ open_questions:
   - The article spells the surname as Taedra Robateau in its summary and Teja Robateau in the quoted police statement; the report uses the police-statement spelling.
   - The article spells the village as Hattiville/Hattieville; the report uses the standard Hattieville Village spelling.
   - No second independent account of the Hattieville search was found after searching.
-  - The submitted page lists one image whose caption only repeats the headline, with no descriptive caption tying it to the seizure, so no media entry is added.
   - No court outcome beyond the joint charges was reported.
 ---
 

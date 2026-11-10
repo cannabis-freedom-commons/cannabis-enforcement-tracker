@@ -50,7 +50,6 @@ open_questions:
   - The defendants are identified only as an unemployed man and a housewife, with no names or ages published.
   - No separate dates were published for the arrests, the original seven-year verdict or the first trial; 2 November 2026 is the appeal verdict's publication date and is used as the incident date.
   - No fine, court reasoning or later appeal step was reported.
-  - The submitted page carries a generic captioned image that could not be verified as showing this arrest, seizure or hearing, so no photo is listed.
 ---
 
 The Cairo Criminal Court of Appeal accepted the appeal of an unemployed man and

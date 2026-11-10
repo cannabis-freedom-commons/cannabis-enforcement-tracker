@@ -47,7 +47,6 @@ open_questions:
   - No marijuana-only weight was published; the 1.3 tonnes is the authorities' preliminary cocaine weight and 1,390 is the combined package total, so no kilograms are recorded.
   - The marijuana identification is presumptive; the packages were sent to the National Institute of Forensic Sciences for analysis of exact type and weight, not yet reported.
   - No court outcome was reported; the three detainees were under Public Ministry control with the investigation still open.
-  - The Diario Libre page image is a file photo from a 21 May case involving Venezuelans and 978 packages, not this Baní interception, so no media entry is included.
   - Acento mentions another Santo Domingo Oeste operation with 11 detentions and more than 4,500 grams as context, a separate event left out here.
   - The national year-to-date total of more than 27 tonnes cited by the DNCD is a separate statistic left out here.
 ---

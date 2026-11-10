@@ -64,9 +64,6 @@ open_questions:
   - No sender, consignee or suspect was named, and no arrest was reported.
   - The prosecutor said the cannabis was sealed and would be destroyed. RTL Today wrote that it had been destroyed. This report follows the prosecutor.
   - Pictures with the news reports are labelled as illustrations, not photographs of this shipment.
-  - Virgule gives the weight as 123 kg and 123 kilogrammes bruts, while the existing report follows the prosecutor's more-than-123 kilograms gross wording.
-  - No media entry is included because the Virgule page's main image is a Shutterstock stock photo, not a photograph of this shipment.
-  - RTL Infos labels its page image as an illustration (image d'illustration, credited to Chris Schagen and Pierre Weimerskirch), not a photograph of this shipment, so no media entry is added.
   - RTL Infos dates the seizure only to the beginning of March 2026, and reports no arrest, sender or consignee.
 ---
 

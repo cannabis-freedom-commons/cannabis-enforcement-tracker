@@ -65,7 +65,6 @@ open_questions:
   - The Nabarangpur police account on X was posted on 7 November 2026, two days before the press conference, and gives no operation date of its own.
   - The village name appears as బినాయిపూర్ in the Telugu report and as Binayapur in the police post; the two appear to be the same village but the spelling is not settled.
   - No weight, area, value or court outcome was reported for the plants destroyed.
-  - The submitted page photo and the police post photo carry no caption or credit identifying what they show, so whether they depict this raid is not established.
   - Only the Telugu outlet report and the police's own social media posts were found; no second independent news account of the raid was located.
   - The page includes a separate item on 30,000 plants destroyed in Koraput district, a different event covered by another report.
 ---

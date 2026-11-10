@@ -51,7 +51,6 @@ open_questions:
   - Neither report gives a separate date for the detentions; 14 March 2026 is their publication date and is used as the incident date.
   - The Interior Ministry did not name the foreign detainees' nationalities, and no detainee names were published.
   - No individual charges or court outcomes were reported; the investigation under articles 260 and 260-4 was still under way.
-  - The 1TV page image is a generic file dated February 2026 and is not established to show this seizure, so no media entry is included.
   - Sputnik Georgia also cites January 2026 national drug-prosecution figures, a separate statistical picture left out of this report.
 ---
 

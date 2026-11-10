@@ -53,7 +53,6 @@ open_questions:
   - The teenager's guardianship arrangements and whether a guardianship council (Conselho Tutelar) followed the case at the duty station were not reported.
   - No charges, custody decision or court or juvenile-court outcome were reported for either person.
   - The brief does not state what the 34-year-old owner was charged with, or whether the phone he damaged was recovered and examined.
-  - The page photo is credited only as 'Lucas Renan Domingos | Arquivo | Portal Engeplus', an archive picture not confirmed to show this seizure, so no media entry is included.
 ---
 
 Military police in Içara stopped a 17-year-old at a car wash in the town centre

@@ -35,7 +35,6 @@ open_questions:
   - The articles give publication dates of 23 March 2025 and say the seizure happened in the past week or earlier that week; the exact operation date is not stated.
   - No farm owners had been identified when the articles were published; follow-up arrests were reported without names or charges.
   - The same coverage mentions a related raid in the tikina of Yale where a 19-year-old suspect was held over about 4,000 plants, a separate event left out here.
-  - The Fiji Times page carries a photo of seized plants that could not be verified as showing this operation, so no media entry was added.
 sources:
   - title: 31,000 marijuana plants found on Kadavu
     url: https://www.fijitimes.com.fj/31000-marijuana-plants-found-on-kadavu/

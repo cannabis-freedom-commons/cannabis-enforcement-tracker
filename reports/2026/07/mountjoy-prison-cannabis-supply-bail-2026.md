@@ -51,7 +51,6 @@ open_questions:
   - The charge was read on Friday 10 July 2026 and the bail hearing was held on Saturday 11 July 2026; 11 July is used as the incident date.
   - The outcome of the 4 September 2026 court appearance was not reported in the opened sources, and no plea had been entered.
   - The two opened accounts, BreakingNews.ie and RTÉ, repeat the same court report and add no details on the amount of cannabis or the circumstances at the prison.
-  - The article's photo is a general picture of Mountjoy Prison from 13 April 2026 credited to Colin Keegan of Collins, Dublin, and is not established to show this case, so no media entry is included.
 ---
 
 Judge John Hughes imposed a 1km exclusion zone around all Irish prisons on a

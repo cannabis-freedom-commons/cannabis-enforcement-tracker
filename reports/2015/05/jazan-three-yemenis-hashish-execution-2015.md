@@ -47,7 +47,6 @@ open_questions:
   - The quantity of hashish the three men were accused of smuggling was not published.
   - The two sources transliterate the names differently; this report uses the Agence France-Presse spellings Eisa Ali Ahmed Hajri, Mohammed Ali Saifi and Majid Gasim al-Ahdal.
   - "The execution tally differs between the sources: Hands Off Cain counts 83 executions so far in 2015 against 87 in all of 2014, while the other account puts 2015 at 76 against 83 in 2014."
-  - No photo of the case was found, so no media entry was added.
 ---
 
 Saudi Arabia beheaded three Yemeni citizens on Wednesday 13 May 2015 after convicting them of attempting to smuggle hashish into the kingdom. [@1,2] The Interior Ministry named the men as Eisa Ali Ahmed Hajri, Mohammed Ali Saifi and Majid Gasim al-Ahdal and said they were put to death in the south-western city of Jazan, near the Yemeni border. [@1,2]

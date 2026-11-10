@@ -48,7 +48,6 @@ sources:
 open_questions:
   - No court outcome beyond handover to Bhairab Police Station for further legal action was reported.
   - Only one accessible source for this event was found after searching in Bengali and English.
-  - Whether the lead photograph accompanying the submitted page shows this specific seizure could not be established beyond its matching caption.
 ---
 
 An operational team of Special Response Battalion-14, CPC-2, Bhairab camp

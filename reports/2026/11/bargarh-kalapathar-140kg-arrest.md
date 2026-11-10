@@ -42,7 +42,6 @@ open_questions:
   - Only the publication date of 1 November 2026 is known, with no separate day given for the checks and arrest.
   - No second report of the same event could be found to confirm or add facts.
   - No charges, custody outcome or court result were given beyond the arrest.
-  - The page carries three images with empty captions and alt text, so whether any shows this seizure could not be established and no media entry is added.
 ---
 
 Sonepur police arrested Bhavani Meher near the Kalapathar-Sardapali junction in

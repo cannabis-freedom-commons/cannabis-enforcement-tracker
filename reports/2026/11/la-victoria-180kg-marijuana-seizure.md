@@ -48,7 +48,6 @@ open_questions:
   - No arrests, names, charges or court outcome were reported; the Fiscalía investigation was still pending.
   - The 180-kilogram weight and 36-million-peso value are approximate official estimates, not a laboratory weight.
   - Only one accessible source for this event was found after searching in Spanish and English.
-  - The page's cover image is captioned only as a generic editorial image and is not established to show this seizure, so no media entry is included.
 ---
 
 Colombia's National Police seized about 180 kilograms of marijuana in a rural

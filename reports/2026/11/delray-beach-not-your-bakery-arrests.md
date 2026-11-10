@@ -76,8 +76,6 @@ open_questions:
   - The article gives no separate date for Ives' arrest or booking; 7 November 2026, its publication date and the date it says he was held, stands in for the incident date.
   - No plea, court date or cannabis weight is reported for Ives' arrest.
   - The 11 counts are listed as five money laundering, fraud and related counts held without bond plus six other counts; the article does not itemise all 11.
-  - The article says only that Ives was arrested on Friday; 6 November 2026 is used for that date, while the existing report keeps its 7 November incident date based on BocaNewsNow's account and publication.
-  - The article gives only that Ives was arrested on Friday; no separate date is given for the arrest, and the existing report dates the incident to 7 November based on BocaNewsNow's account.
   - The CBS12 gallery page gives no separate date for Ives' arrest; it says only that he was arrested Friday, and 6 November 2026 is inferred from the 8 November publication date.
   - The gallery captions show a photo credited to the Palm Beach County Sheriff's Office and WPEC and two company screenshots, but the arrests photo cannot be identified as Ives from its caption alone.
 ---

@@ -75,7 +75,6 @@ open_questions:
   - The two suitcases are counted from the prosecutor's wording; no separate count of packages or concealment method was reported.
   - No name was published for the convicted woman, only her age and citizenship.
   - The outlets reproduce the transport prosecutor's statement and are not independent reporting; the court's own decision was not published.
-  - The Astana TV page illustration is credited to istockphoto and marked as an illustrative photo, so no photograph of this event was published and no media entry is made.
   - Kazakhstan's Main Transport Prosecutor's Office published a separate 16 October 2026 statement on an Astana airport case involving a 20-year-old woman and 4.7 kg of cannabis extract disguised as sweets; that is a different event and is not covered here.
 ---
 

@@ -55,7 +55,6 @@ open_questions:
   - No cannabis was reported seized in the 7 February 2023 arrest, so no kg_seized or plants figure is recorded.
   - The alleged 25 million rupees of laundering through real estate is not counted as cannabis value or confiscated cash because the source does not state it as seized cannabis proceeds.
   - The sources do not explicitly state that the suspected laundered funds came from zamal trafficking; the link is inferred from the same person's prior conviction and fugitive status.
-  - The submitted page's photo of Jean-Hubert Celerine on 7 February 2023 is not established to show the arrest itself, so no media entry is made.
   - Whether a second person linked to a La Gaulette house mentioned in other coverage was arrested in the same operation is left open because the two cited sources name only Franklin.
 ---
 

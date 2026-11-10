@@ -62,8 +62,6 @@ open_questions:
   - The length of the temporary arrest ordered for the two suspects was not reported, and it is pretrial detention rather than a sentence.
   - More than 120 grams of mephedrone were reported alongside the marijuana and are mentioned only to explain the mixed seizure, with no mephedrone weight counted as cannabis.
   - Only one accessible source for this event was found after searching in Polish.
-  - The page carries two photographs, one credited to the Warsaw Metropolitan Police Headquarters, but neither caption establishes that it shows this seizure, so no media entry is included.
-  - The Nasze Miasto page carries two photographs credited to KRP VII without descriptive captions establishing that they show this seizure, so no media entry is added.
 media:
   - kind: photo
     url: https://warszawa.tvp.pl/96295818/marihuana-i-mefedron-w-mieszkaniu-mlodych-ludzi-w-trakcie-interwencji-przyszedl-staly-klient

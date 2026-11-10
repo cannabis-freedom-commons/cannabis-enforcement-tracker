@@ -35,7 +35,6 @@ tags: [cannabis-farm, illegal-entry, trafficking-debt]
 open_questions:
   - No exact total plant count was published; police reported almost 200 plants in Egremont and 142 in Cleator.
   - No second outlet's account of this case could be opened; this report rests on the BBC account alone.
-  - The only published photograph was an explicitly labelled stock file photo, so no media entry was added.
 sources:
   - title: Men jailed for farming cannabis at Egremont and Cleator
     url: https://www.bbc.com/news/uk-england-cumbria-65139017

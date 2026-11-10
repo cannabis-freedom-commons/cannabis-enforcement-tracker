@@ -65,9 +65,7 @@ open_questions:
   - The six denunciati are reported, not stated to be charged or arrested, so they are not counted in figures; the four people reported to the Prefect as users are also not counted as arrested.
   - The 980-gram hashish figure is the police count; no independent weighing is reported.
   - The articles also mention amphetamine use among those reported to the Prefect, but give no amphetamine quantity; the report counts only the separately stated 980 grams of hashish.
-  - The only image on the submitted page shows the Alessandria police headquarters building in a 2019 file photo, not this operation, so no media entry is listed.
   - The article gives only its publication date of 2 November 2026 and no separate date for the weekend checks and arrest.
-  - The page carries a photo captioned with the headline, but its 2025 file path and lack of credit do not establish that it shows this seizure, so no media entry is added.
 ---
 
 State Police in Alessandria province arrested a foreign man for drug dealing

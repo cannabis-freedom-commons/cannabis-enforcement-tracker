@@ -67,10 +67,8 @@ open_questions:
   - Only the Daily Mail account of the ruling could be opened; no tribunal determination or second outlet report was found.
   - The Telegraph account gives no plant, harvested-cannabis or cash figures, so the existing figures remain from the Daily Mail account.
   - The Telegraph gives no separate date for the Upper Tribunal ruling; 2026-11-05 is its publication date.
-  - The Telegraph's cannabis-farm photograph republishes the same Kent Police handout already represented in the existing report, so no new distinct media is added.
   - NewsCord republishes the Daily Mail text and links to it as the original article, so it is not an independent account of the tribunal ruling.
   - The Sun gives no plant, harvested-cannabis or cash figures, so the existing figures remain from the earlier account.
-  - The page's images carry no captions establishing that they show this event, so no media entry is added.
 ---
 
 Ndue Paluca, an Albanian who entered the UK without permission in 2012, has won

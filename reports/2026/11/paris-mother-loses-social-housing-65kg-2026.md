@@ -39,7 +39,6 @@ open_questions:
   - The article is paywalled after its opening paragraphs, so who found the drugs, whether anyone was arrested or charged, and any criminal sentence are not in the accessible text.
   - The accessible text says several kilos and thousands of euros while the headline and caption say 6.5 kg, so no exact cash amount or more precise weight can be recorded.
   - Only one accessible account was found after searching in French; no second outlet confirms this seizure or ruling.
-  - The page's only picture is captioned as an illustration from Wikicommons, not as showing this seizure, so no media entry is listed.
   - It is not reported in the accessible text whether the mother appealed, whether she has left the flat, or what rehousing followed.
 ---
 

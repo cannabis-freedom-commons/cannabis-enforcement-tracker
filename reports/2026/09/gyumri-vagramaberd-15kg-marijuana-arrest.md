@@ -53,7 +53,6 @@ open_questions:
   - No counts were published for cannabis seeds or droppers.
   - The year of the 28 September searches is inferred from the 6 October 2026 publication date.
   - Only the Russian and Armenian versions of the same NEWS.am report were accessible; no independent police statement or second outlet account was found.
-  - The page image caption only repeats the headline and does not establish that the image depicts this seizure, so no media entry is included.
   - The 48-year-old friend is not reported as detained.
   - No court outcome had been reported; the preliminary investigation was still under way.
 ---

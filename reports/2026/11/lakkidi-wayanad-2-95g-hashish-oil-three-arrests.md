@@ -61,7 +61,6 @@ open_questions:
   - The article gives no separate date for the patrol; 2 November 2026 is its publication date and is used as the incident date.
   - Only one opened source supports this event; searches for a second report of the same Lakkidi seizure found none.
   - No charge, case number or further court outcome beyond station bail was reported.
-  - This corroborating account does not mention the station bail reported in the existing report.
 ---
 
 Vythiri police arrested three youths from Kozhikode during a routine patrol at

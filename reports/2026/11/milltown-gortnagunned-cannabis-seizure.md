@@ -44,7 +44,6 @@ open_questions:
   - No weight for the cannabis was published, only an estimated value range of €800 to €1,000, so no kilograms or single value is recorded.
   - The reports give the event day only as Monday; 2 November 2026 is inferred from the 3–4 November publication dates, with the Advertiser describing the operation as yesterday.
   - No names, ages or further court outcomes were reported; both cases were described only as arrested and processed with prosecutions to follow.
-  - The page image is labelled FILE PHOTO and does not show this seizure, so no media entry is included.
 ---
 
 Gardaí from the Galway County East Community Engagement Area led a multi-agency

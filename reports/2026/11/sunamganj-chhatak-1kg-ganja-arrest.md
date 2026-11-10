@@ -44,13 +44,11 @@ sources:
     language: bn
 open_questions:
   - Only one accessible source for this event was found after searching in Bengali and English.
-  - The page carries a photo captioned with the headline, which does not establish that it shows this seizure, so no media entry is included.
   - It is unclear whether a regular case under the Narcotics Control Act was filed over the cannabis arrest, because the filing sentence follows the separate yaba account.
   - No charges, custody decision or court outcome for the cannabis arrest were reported.
   - The 1,104 taka is described as cash proceeds, not as the value of the cannabis, so no drug value is recorded.
   - 'The two accounts give different times for the Chhatak arrest: this report places it at about 3:40 am on Wednesday, while the earlier Ekushey Sangbad account said about 3:30 pm.'
   - It remains unclear whether a regular case under the Narcotics Control Act was filed over the cannabis arrest specifically, because the filing statement covers both the cannabis and yaba raids together.
-  - The page's lead photo carries no caption or credit, so it is not established to show this seizure and no media entry is included.
 ---
 
 Detectives from the Sunamganj district Detective Branch arrested 20-year-old

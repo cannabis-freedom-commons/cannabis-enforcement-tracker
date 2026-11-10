@@ -59,7 +59,6 @@ sources:
 open_questions:
   - The reports do not say whether either man has appealed the sentence.
   - No street value for the 1,127 kg of ganja was published.
-  - The Free Press Journal photo shows the two accused and is marked as a file photo, so no media entry was added.
 ---
 
 ## The sentence

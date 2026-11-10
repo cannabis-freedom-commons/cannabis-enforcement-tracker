@@ -54,11 +54,7 @@ open_questions:
   - The report says an NDPS case was registered but gives no remand, charge sheet or court outcome.
   - The 38-kilogram figure is described as approximate and no independent weighing is reported.
   - Whether the page photo captioned NDPS Arrest shows this seizure could not be independently established.
-  - The article says the interception happened on a Sunday evening but was published on 3 November 2026, so whether the incident date was 1 November or the 2 November used by the existing report remains unresolved.
-  - The article names both the SMVT Bengaluru Express and the Bengaluru-Humsafar Express, while the existing report gives Train No. 12504 DN SMVT Bangalore Humsafar Express, so whether these name the same train or reflect inconsistent accounts is unresolved.
   - The closing fragment about another woman arrested on Monday at Domjur for selling ganja behind a stationery shop is a separate event left out of this match.
-  - The page image is labelled as a symbolic iStock handcuff photo, not this seizure, so no media entry is included.
-  - The accused names, ages and NDPS case registration in the existing report are not repeated in this source.
 ---
 
 Belur Government Railway Police officers under the Howrah GRP District arrested

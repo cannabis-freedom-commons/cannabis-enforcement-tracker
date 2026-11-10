@@ -46,7 +46,6 @@ open_questions:
   - The reports mention the trafficker and accomplices but give no number of people detained, so no arrested figure is recorded.
   - The reports give no origin, destination, or further concealment detail beyond a carton carried by the motorcyclist.
   - No charges, court outcome, or later disposition were reported.
-  - The Pressecotedivoire image is marked as an archive photo and the Yeclo image filename refers to a different seizure, so neither is established to show this event and no media entry is included.
   - Both accounts repeat the customs version of the same operation; no separate official customs statement was opened.
 ---
 

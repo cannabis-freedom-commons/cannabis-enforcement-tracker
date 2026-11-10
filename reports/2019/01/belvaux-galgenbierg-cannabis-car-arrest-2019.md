@@ -47,7 +47,6 @@ open_questions:
   - The marijuana found in the first-aid kit and the bag was not weighed in either source, so only the 35 grams of hashish is recorded.
   - The pair are described only as a woman and a man; no names, ages, nationalities or charges were published.
   - No court outcome was reported; the pair were to be presented to an investigating judge after the home search.
-  - The pages' pictures are an AFP illustration photo and a police statement page without images, so no media entry is included.
   - Le Quotidien adds details of the knife and of prosecutors ordering the home search that the shorter police statement on the same day does not repeat.
 ---
 

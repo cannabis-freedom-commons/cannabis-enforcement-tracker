@@ -61,8 +61,6 @@ open_questions:
   - The articles describe one hashish total of about 60 g across the two homes without saying how much was found in each.
   - The drugs' value, the car involved and the exact location in Ferrazzano were not reported.
   - The isNews page carries a general police photo captioned only "arresti squadra mobile", with no photographer or agency credit, so it is not established to show this specific seizure.
-  - The TVI Molise page reports 'oltre 70 grammi di sostanza stupefacente' without breaking it down, so it does not by itself separate the 60 g of hashish and 10 g of marijuana recorded in the existing report from the cocaine also named in its headline.
-  - The page serves a SQUADRA-MOBILE.jpg image with no caption, alt text or credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Campobasso's Squadra Mobile, the provincial detective unit of the State Police,

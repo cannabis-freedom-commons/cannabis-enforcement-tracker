@@ -72,9 +72,7 @@ open_questions:
   - The 60.50 grams of cocaine is mentioned only to explain the mixed case and is excluded from cannabis figures.
   - No preliminary hearing date or court outcome was yet reported.
   - Only one accessible source for this event was found after searching in Bulgarian, Russian and English.
-  - The page image captioned Pexels is a stock photo and is not established to show this seizure, so no media entry is included.
   - The same article mentions a separate indictment concerning drugs worth more than 254,000 euros, a different event left out here.
-  - The 24 Chasa illustration captioned Themis does not show this seizure, so no media entry is added.
 ---
 
 The Sofia City Prosecutor's Office has sent an indictment to court against a man

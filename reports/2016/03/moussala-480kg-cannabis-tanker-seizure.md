@@ -44,7 +44,6 @@ open_questions:
   - No second source for the 2016 Moussala seizure was found; the account rests on the customs statement republished by Dakaractu.
   - The direction of the tanker's travel and the origin of the cannabis were not stated, so no trafficking route is recorded.
   - The attendant who fled was not identified, and no charge or court outcome was reported.
-  - The page carries seven photographs captioned only with the article headline, so none can be confirmed to show the cannabis seizure and no media entry is listed.
   - The same statement reports a separate cocaine seizure at Mpack; its weight is excluded from this report's figures.
 ---
 

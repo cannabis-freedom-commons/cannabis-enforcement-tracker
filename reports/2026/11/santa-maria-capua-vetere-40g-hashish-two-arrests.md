@@ -85,8 +85,6 @@ open_questions:
   - The two accounts do not give the exact time of the arrest beyond CasertaFocus's evening of 6 November and NotiziaE Caserta's date of 6 November 2026.
   - The men are not named and their ages are not given; no custody decision, charge filing or court step was reported, so the case is recorded at the investigation stage.
   - No street or official value was published for the hashish; the 1,000 euros is seized cash, not a valuation of the drug.
-  - The CasertaFocus page carries a stock archive photo of an arrest, credited in its file name to a different 2024 case, so no media entry is listed; the Telegolfo and NotiziaE Caserta pages do not caption their pictures either.
-  - The page lists one image with no caption or credit identifying it as this operation, so no media entry is added.
   - Neither the submitted article nor the two other accounts gives the date of the hearing or of the judge's order; they say only that it came after the recent arrest.
   - The judge is not named and the reasons for choosing a non-custodial measure are not reported; CasertaNews says the judge accepted the defence arguments.
   - Convictions, trial date and any eventual sentence remain unknown; none of the accounts reports a charge filing.

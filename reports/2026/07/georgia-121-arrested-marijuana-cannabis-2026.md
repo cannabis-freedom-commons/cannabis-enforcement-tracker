@@ -55,8 +55,6 @@ open_questions:
   - The sources list the Criminal Code articles differently, with InterpressNews naming Articles 260, 260 Tertsia, 260 Quarta, 261 and 265 Prima while SOVA names Articles 260, 261 and 265.
   - No names, individual charges or court outcomes were reported; the investigation was still under way.
   - The wider six-month figures of about 5,000 people prosecuted describe a separate statistical picture and are left out of this report.
-  - The SOVA page photo is captioned only around the detention and Interior Ministry briefing and is not established to show the seizure, so no media entry is included.
-  - 'The Kazinform page carries an image captioned only “Фото: Новости Грузии”, which does not establish that it shows this seizure, so no media entry is included.'
 ---
 
 Police across Georgia detained 121 people on drug charges, including 59 people

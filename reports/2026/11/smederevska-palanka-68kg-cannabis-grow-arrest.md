@@ -84,7 +84,6 @@ open_questions:
   - The Kossev page carries one Interior Ministry photo; several further police photos exist on the ministry page but their subjects are not captioned.
   - The Palanka danas text gives no separate date for the search and arrest; 6 November 2026, when the Interior Ministry statement and this article were published, is used as the incident date.
   - The article does not say whether the raw cannabis was growing plants, cut plants or unprocessed material, so no plant count is recorded.
-  - The page carries an uncaptioned screen-grab image whose subject is not established, so no media entry is added.
   - The article repeats the ministry statement and is not an independent account.
   - No plea, charge sheet or court outcome was reported.
 ---

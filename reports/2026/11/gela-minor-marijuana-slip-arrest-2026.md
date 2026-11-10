@@ -45,7 +45,6 @@ open_questions:
   - The article does not state a charge in legal terms; investigators say the boy dealt the marijuana, which he denies.
   - No full identity of the minor is reported and the further outcome of the juvenile proceedings is not known.
   - Only one source for this event could be found and opened; no Carabinieri statement or second outlet account was located.
-  - The only page image is a generic 'Controlli in città' cover picture with no caption establishing that it shows this arrest, so no media entry is added.
 ---
 
 Carabinieri checks over the previous weekend led to the arrest of a 16-year-old

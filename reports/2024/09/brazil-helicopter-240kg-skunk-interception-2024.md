@@ -48,7 +48,6 @@ open_questions:
   - The article reports no arrests of the crew or anyone else over the helicopter flight, and no charges or court step.
   - Only El Universo, an Ecuadorian outlet relying on EFE, could be opened for this flight; no Brazilian Air Force statement or Brazilian report of the interception was found.
   - The date of the interception is not stated directly; the article says the Brazilian Air Force intercepted the helicopter "este lunes", the Monday before its 11 September 2024 publication, and the event is dated to that Monday.
-  - The only image on the submitted page shows people detained in the separate Guinea-Bissau cocaine case, not the intercepted helicopter, so no media entry is included.
   - Cabello's figure of more than 80 tonnes of drugs seized in Venezuela has no stated period and is a national total, not a figure for this event.
 ---
 

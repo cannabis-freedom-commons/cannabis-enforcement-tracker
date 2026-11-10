@@ -59,7 +59,6 @@ open_questions:
   - About 20 tons were aboard but the crew burned much of it, so this report records the roughly 10 tons saved and the exact recovered weight was not precisely published.
   - One account values the haul at 50 million euros and another at US$66 million, so this report uses the French customs figure of 50 million euros.
   - The Gold Star seizure of about 30 tons days earlier, also in the western Mediterranean, was a separate event covered in its own report.
-  - No photo of the interception with a recoverable address was found, so no media entry was added.
 ---
 
 The French navy intercepted the Tanzania-flagged cargo ship Luna-S in international waters between Italy and Algeria, and announced on 12 September 2013 that it had seized about 20 tons of cannabis. [@1,2] A senior French customs official called it the biggest seizure by the French state in the Mediterranean, and the haul was valued at up to 50 million euros. [@2,3]

@@ -48,7 +48,6 @@ sources:
 open_questions:
   - No plant count was published, only an estimated weight of about 200 kilograms.
   - No suspects, arrests, charges or court outcome were reported.
-  - The pages carry photos, but their captions and alt text do not establish what they show, so no media entry is listed.
   - The text gives a number of plants ("200 kg of plants") but the figures have no plants_destroyed; check whether it belongs there.
 ---
 

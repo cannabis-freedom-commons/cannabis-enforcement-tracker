@@ -60,7 +60,6 @@ open_questions:
   - Both outlets attribute their accounts to the same Zimbabwe Republic Police statement, so they are not independent.
   - The listed photo is judged by its caption and surrounding text and was not visually verified.
   - The same Herald article also reports the 30 October 2026 arrest of Patrick Khulani Ngwenya with dagga in a Monarch bag and two sacks at the Northbound Search Bay in Beitbridge, a separate event left out of this report.
-  - The Herald page carries a captioned photo of the couple with the mbanje contraband; no media entry is added because whether it duplicates the police handout already listed could not be verified visually.
 ---
 
 Police arrested a couple for alleged unlawful possession of dagga at the

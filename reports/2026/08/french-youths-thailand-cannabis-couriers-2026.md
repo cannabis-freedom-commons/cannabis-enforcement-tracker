@@ -72,7 +72,6 @@ open_questions:
   - 'The accounts differ on the Thai customs fine: franceinfo and BFMTV cite 30,000 baht (about 790 euros) per kilogram applied from 18 June 2026, while RTL describes the rule the same way; the report uses that figure.'
   - RTL attributes the arrests to the national judicial police and mentions Bangkok airport; other accounts say airports in Thailand without naming them.
   - No trial dates or outcomes were reported for the thirteen detainees.
-  - The submitted page's only photo is an EPA picture of a Thai officer and sniffer dog at Suvarnabhumi airport on 8 July 2026, an airport drug-control scene not established as showing these detainees, so it is not listed as media.
   - A relative told AFP the two Hong Kong detainees were due to leave on 14 July for Hong Kong, London and Paris; the account does not make clear at which airport they were stopped.
   - The headline figure counts thirteen people held across two jurisdictions; the two Hong Kong detainees are not included in the eleven-in-Thailand count.
   - 'Left out, as its quotation was not found in RTL: The maximum penalty faced is two to ten years'' imprisonment, according to the French foreign ministry.'

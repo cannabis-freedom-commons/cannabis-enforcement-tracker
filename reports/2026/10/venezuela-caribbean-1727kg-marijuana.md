@@ -75,7 +75,6 @@ open_questions:
   - The four people arrested are not named, and no exact position at sea is given.
   - El Nacional’s picture is labelled an archive image, so no photo of this seizure is listed here.
   - The same seizure included 1,173.50 kg of cocaine, which is outside this report’s cannabis weight.
-  - The Correo del Caroní page carries a photo credited only via social media with no caption establishing that it shows this seizure, so no media entry is included.
   - El Universal's Facebook video gives only the rounded 2.9 tonnes of cocaine and marijuana together and does not separate the marijuana weight, which comes from the interior ministry statement as reported by Prensa Latina.
   - The video does not say where in the Caribbean the boat was stopped or name the four detained people.
 ---

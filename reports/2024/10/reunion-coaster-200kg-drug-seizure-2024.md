@@ -34,7 +34,6 @@ open_questions:
   - No weight is given for the cannabis or the resin separately, and the nearly 200 kg total also covers heroin and methamphetamine, so no cannabis figure is recorded.
   - No source names the frigate, the coaster's flag or crew, or says whether anyone was detained or charged.
   - No value is placed on the haul and no court outcome is reported.
-  - The caption of the article photo reads only héroine and the text calls it an archive Marine nationale image, so it is not established to show this seizure and no media entry is included.
   - The text gives a weight ("200 kg") but the figures have no kg_seized; check whether it belongs there.
 ---
 

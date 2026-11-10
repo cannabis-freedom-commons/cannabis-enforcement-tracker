@@ -66,7 +66,6 @@ open_questions:
   - The BBC gives Thomas's age as 27 and does not date the interception, while Isle of Man Today gives his age as 29 and dates the package to January 2025; the report follows Isle of Man Today's timeline.
   - The BBC describes the interception at the Braddan sorting office while Isle of Man Today refers to the Post Office, and the BBC's reference to February 2024 conflicts with Isle of Man Today's January 2025 dates; neither account is treated as settled on the exact interception date.
   - The exact statutory charge for the cannabis offence is not reported beyond 'attempting to import cannabis'.
-  - Isle of Man Today's page also carries a photograph of Jamie Smith, the gang leader, which is not used here; the only media entry is the police photograph of Thomas.
   - No information was found on any appeal against the sentence.
   - 'Left out, as its quotation was not found in Isle of Man Today: In bugged hotel-room recordings, Isle of Man Today reported, Jamie Smith told Thomas to collect 1.25 kg of cocaine and break it down, and Thomas was heard boasting of making £800 a day.'
   - 'Left out, as its quotation was not found in Isle of Man Today: Thomas''s advocate, Paul Glover, said his client had been "cannon fodder" sent to collect the parcel and that the £800-a-day claim was a boast without material evidence.'

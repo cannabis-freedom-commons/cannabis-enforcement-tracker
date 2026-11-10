@@ -50,7 +50,6 @@ open_questions:
   - Whether the cannabis items belonged to Ventocilla or to Marallano, and what prescription medication the family referred to, was not established.
   - 'The cause of death is disputed: police cite organ failure after unseized narcotics, the family alleges mistreatment and extortion, and no independent autopsy was permitted in Indonesia.'
   - The family's statement and the Peruvian ministry's statement are reported indirectly through media; no separate Indonesian police statement could be opened.
-  - Only two sources were opened for this event, both in Spanish and English secondary reporting; the source images on the BBC page are portrait photographs of Ventocilla, not of the airport seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in The Harvard Crimson: A police spokesperson said the cause of death was a complete failure of body function leading to impaired kidney, liver and nervous-system function.'
   - 'Left out, as its quotation was not found in The Harvard Crimson: Marallano was released and returned to Peru.'
   - 'Left out, as its quotation was not found in The Harvard Crimson: The family said Indonesian officials have not allowed an independent autopsy, so the real cause of death remains unknown.'

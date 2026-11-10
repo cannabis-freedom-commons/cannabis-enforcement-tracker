@@ -92,11 +92,6 @@ open_questions:
   - Whether the lead photo on the El Ayem page shows this seizure could not be established from its caption or credit, so it is not listed as media.
   - The article gives no separate date for the search and arrests; 2 November 2026 is its publication date.
   - Whether the lead photo on the El Hayat page shows this seizure could not be established from its generic caption, so it is not listed as media.
-  - Whether the lead photo on the submitted page shows this seizure could not be established from its empty caption and credit, so no media entry is added.
-  - Whether the lead image with the generic file caption 28506-021126.png shows this seizure could not be established, so no media entry is added.
-  - The page carries a lead image whose alt text repeats only the headline, so whether it shows this seizure could not be established and no media entry is added.
-  - Whether the lead image on the submitted page shows this seizure could not be established from its empty caption and credit, so no media entry is added.
-  - The lead image on the Elmoudjaz page has an empty caption and alt text, so whether it shows this seizure could not be established and no media entry is added.
 ---
 
 During the previous week, officers of the Mobile Judicial Police Brigade of the

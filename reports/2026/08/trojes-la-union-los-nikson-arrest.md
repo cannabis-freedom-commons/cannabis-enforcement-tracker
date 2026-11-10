@@ -47,7 +47,6 @@ open_questions:
   - The suspect's full name was not published, only his age of 27.
   - No court outcome was reported; the case was to be referred to the local Public Ministry prosecution.
   - Both accounts repeat the police version; no independent account was found.
-  - The Facebook post's images lack descriptive captions establishing that they show this seizure, so no media entry is included for them.
   - 'Left out, as its quotation was not found in La Prensa: National police officers detained a 27-year-old man in La Unión village in Trojes, El Paraíso, as an alleged member of the criminal gang Los Nikson.'
   - 'Left out, as its quotation was not found in La Prensa: Officers seized six packets containing suspected marijuana, each weighing about a pound (about 2.72 kg in total).'
   - 'Left out, as its quotation was not found in La Prensa: Police attributed to him alleged drug trafficking and illegal carrying of a commercial-use firearm.'

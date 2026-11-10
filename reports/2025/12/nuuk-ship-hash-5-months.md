@@ -55,7 +55,6 @@ open_questions:
   - Neither report names the man or gives his age.
   - No value was given for the hash, and neither report says where it came from or where the man was travelling.
   - The court's written judgment was not published; the sentence is known from the police account given to the two news outlets.
-  - Both reports carry file photographs of police and of Nuuk, not pictures of the seizure, so no media is linked.
 ---
 
 Greenland police and customs officers arrested a man at 19:30 on Friday 5 December 2025 as he was

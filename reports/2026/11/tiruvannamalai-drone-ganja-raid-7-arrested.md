@@ -45,7 +45,6 @@ open_questions:
   - No cannabis value, laboratory weight or packaging detail was published beyond about 1,500 grams.
   - The 200 liquor bottles reported alongside the ganja are a non-cannabis seizure and are excluded from cannabis figures.
   - Only one accessible source for this event was found after searching in Tamil and English.
-  - The page's featured image is captioned only as featured-img and does not establish that it shows this raid, so no media entry is included.
 ---
 
 Police in Tiruvannamalai arrested seven people, including three women, and were

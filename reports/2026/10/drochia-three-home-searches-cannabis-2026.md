@@ -51,7 +51,6 @@ open_questions:
   - The article gives no separate date for the searches; 26 October 2026 is the day the General Police Inspectorate announced them and is used as the incident date.
   - The reports do not say how much of the seizure was marijuana and how much was hashish.
   - The 200 litres of counterfeit alcohol is a separate, non-cannabis part of the same operation and is not included in any cannabis figure.
-  - The page images are captioned only as a video capture and a police photo, which does not establish what they show, so no media entry is included.
   - The crime investigation department is not further identified in the reports; it is not stated whether it is a Drochia district unit or a national one.
 ---
 

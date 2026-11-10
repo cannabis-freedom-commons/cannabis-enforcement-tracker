@@ -71,7 +71,6 @@ open_questions:
   - No weight was reported for the £1.1 million cannabis resin haul at Formby, so no cannabis kilogram figure is recorded.
   - A later Express and Star account said the murder trial heard the cannabis dealing could involve a few kilos up to 240 kilos of resin; that range is an allegation, not a seized amount, and is left out.
   - The sources differ on associates' drug terms, for example alternative figures for other gang members; this report records only Anslow's 22-year term and the total of eight sentenced.
-  - The submitted page image shows the prison van after the escape, not the drug seizure, so the BBC West Midlands Police handout of seized drugs is listed instead.
   - No separate cannabis-only weight can be separated from the overall cocaine-and-cannabis conspiracy; only the distinctly described cannabis resin haul value is recorded.
 ---
 

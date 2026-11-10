@@ -60,7 +60,6 @@ open_questions:
   - The Royal Bulletin account gives only its publication date of 3 November 2026; the 2 November 2026 arrest date comes from the Dainik Bhaskar account.
   - No street value or estimated market value for the seized charas was published.
   - No court outcome beyond production before the court was reported, and no result of the investigation into forward and backward contacts was reported.
-  - The new Royal Bulletin account gives only its publication date of 3 November 2026 and no separate arrest date; the 2 November 2026 arrest date in the existing report comes from the Dainik Bhaskar account.
 ---
 
 Gangoh police arrested two alleged drug traffickers, Rishipal and Oman, at

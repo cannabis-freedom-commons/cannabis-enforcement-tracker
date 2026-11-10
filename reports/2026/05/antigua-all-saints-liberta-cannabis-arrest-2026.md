@@ -56,9 +56,7 @@ open_questions:
   - The approximately one-pound seizure is approximate, so the combined 0.558 kg total is approximate and uses 1 lb as 0.4536 kg plus 104.1 g.
   - The sources describe a 34-year-old arrested and separately refer to another male resident found with 104.1 grams who was arrested; it is unclear whether these are the same person or two people, and a single arrest is recorded as stated in the STRATCOM release.
   - No name, charge outcome or court result was reported, and the man was described as held pending further investigation.
-  - 'No photo showing this All Saints and Liberta sweep could be listed: the submitted page image captions an airport seizure of over 13 pounds, the Herald reuses that airport image, and the News Room image is a generic marijuana placeholder.'
   - The Observer attributes the 104.1 grams to the same 34-year-old suspect, so it remains unclear whether the approximately one-pound property seizure and the 104.1 grams involve the same person or two people, as already noted in the report.
-  - 'No photo from this sweep can be listed: the only image supplied with the submitted page is a generic handcuffs picture that does not show the All Saints and Liberta operations.'
 ---
 
 Coordinated drug enforcement operations were conducted in All Saints and Liberta

@@ -54,9 +54,7 @@ open_questions:
   - No quantities of plants or marijuana, no seizure weight, area or value were published.
   - The court, case number and date of the 12-year sentence were not reported.
   - No arrest, plea or enforcement outcome after the escape was reported; he is still listed as wanted.
-  - The submitted page lists 15 other Czechs wanted mostly for fraud, murder, robbery and smuggling; those are different events left out here.
   - The second Czech on Europol's December 2025 list, Vilem Kovac, is sought over cocaine and hashish trafficking through Liberec and is not part of this cannabis report.
-  - Only a TN.cz collage of three wanted persons and Europol ID photos were available; none shows the nurseries, plants or seizure, so no media entry is added.
 ---
 
 Oskar Benes is a Czech man who set up a network of cannabis grow houses across

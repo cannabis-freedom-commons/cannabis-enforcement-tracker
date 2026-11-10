@@ -53,7 +53,6 @@ open_questions:
   - Police described the contraband as charas-like substance; no forensic confirmation is reported.
   - Zahid Ahmad Lone of Gulgam is reported as absconding; no arrest, lawyer, court date or custody outcome for any of the men is reported.
   - The same articles also describe the two Anantnag arrests already recorded in anantnag-mattan-srigufwara-two-arrests, which are left out of this Kupwara-focused account.
-  - No photo confirmed to show these Kupwara seizures was available; the submitted page images are a generic featured image and e-paper and advertisement images, so no media entry is added.
   - 'Not added to anantnag-mattan-srigufwara-two-arrests, as its quotation was not found in Daily Excelsior: A Mattan police team searched Aamir Ayoub Khan, a resident of Khurd Gopalpora, and recovered about 17.8 grams of charas from him.'
   - The new source says charas where the report retains charas-like substance, and omits the Check-Kali and Thayan Gujran checkpoint details, which remain sourced to earlier reports.
 ---

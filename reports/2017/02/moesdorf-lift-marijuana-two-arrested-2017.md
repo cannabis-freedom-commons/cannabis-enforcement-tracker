@@ -56,7 +56,6 @@ open_questions:
   - Le Quotidien and L'essentiel say the two residents were presented to the prosecutor on Thursday morning; the Luxembourg Times says they were presented to an investigating judge.
   - The 300 grams were found together with an unspecified amount of white powder, a prohibited weapon and drug utensils, and no source says whether the flat discovery was classed as possession for sale, so no trafficking activity is recorded.
   - No charges, names, ages or court outcome were reported, and the reports do not say whether the two residents were remanded or released.
-  - L'essentiel captions a photo of the confiscated drugs as a police picture but no direct image address could be confirmed from the opened page, and the Luxembourg Times picture carries no caption or credit, so no media entry is given.
 ---
 
 A police patrol found a man in the rue d'Ettelbrück in Moesdorf late on the

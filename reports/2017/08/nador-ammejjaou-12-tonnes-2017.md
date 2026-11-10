@@ -47,7 +47,6 @@ sources:
 open_questions:
   - The articles report the seizure on 23 August without separating the exact date of the operation, so 23 August is the announcement date.
   - One report says over 12 tons and the other 12.5 tons; the report records 12,500 kilograms.
-  - The article's lead photo could not be verified as showing this seizure, so no media entry was added.
 ---
 
 Moroccan police dismantled an international drug smuggling network in the northern city of Nador and seized over 12 tonnes of cannabis. [@1] Six dealers aged between 20 and 57 were captured. [@1] Officers raided three houses in the rural Ammejjaou area that the dealers used as storage sites. [@1]

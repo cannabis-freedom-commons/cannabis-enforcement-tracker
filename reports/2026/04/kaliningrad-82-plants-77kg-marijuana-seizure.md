@@ -54,7 +54,6 @@ open_questions:
   - The courier's marijuana is reported as more than 1.6 kg, so the 7.727 kg total is a minimum.
   - Only the two couriers are explicitly described as detained; the grower is described as identified.
   - No named charges, custody rulings or court outcomes were reported; criminal cases were only opened.
-  - The pages carry photos without captions or credits establishing that they show this seizure, so no media entry is included.
 ---
 
 Drug-control officers of the Kaliningrad regional Interior Ministry identified

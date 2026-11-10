@@ -39,7 +39,6 @@ sources:
     date: 2026-10-20
 open_questions:
   - Only one accessible source for this event was found after searching for a second account or agency statement.
-  - The page image carries no caption or credit establishing that it shows this seizure, so no media entry is included.
   - The outcome after the adjournment to 19 November 2026 was not reported in the opened source.
   - The incident date uses the 19 October 2026 court appearance as the latest step; the arrest was on 17 October 2026 and the alleged offences on 15 October 2026.
   - The resin quantity is a police allegation; all three defendants pleaded not guilty and no conviction was reported.

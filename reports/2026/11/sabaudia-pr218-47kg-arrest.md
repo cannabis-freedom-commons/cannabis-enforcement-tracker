@@ -62,7 +62,6 @@ open_questions:
   - The origin and intended destination of the load were not reported.
   - The driver's name was not published.
   - No charge, custody ruling or court outcome beyond arrest in flagrante and transfer to the Civil Police was reported.
-  - Both pages carry images whose filenames suggest the seizure, but without captions or credits establishing that they show this event, so no media entry is included.
   - Tarobá says the driver would receive R$5,000 and he headed a “quase 50 kg” load; no source says whether that amount was published as a paid sum or a promised one, and 47 kg remains the weighed figure.
   - The three accounts give different times for the same stop — Tarobá no time, TNOnline “na noite desta terça-feira”, the earlier reports about 15h40 and about 16h — so only the afternoon and evening of 3 November are supported.
   - No charge, custody ruling or court outcome beyond the arrest in flagrante was reported.

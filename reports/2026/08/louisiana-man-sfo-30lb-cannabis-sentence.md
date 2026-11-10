@@ -49,11 +49,9 @@ sources:
     publisher: San Mateo Daily Journal
     date: 2026-08-06
 open_questions:
-  - The submitted page's article body is cut off after its second paragraph by the site's subscriber prompt, so the length of the jail sentence, the charges, the plea and any fine or value estimate are not known.
   - 'Only one account of the event could be opened: no San Mateo County District Attorney statement, court record or second outlet was found.'
   - The sentence was announced by prosecutors on the Thursday before the 6 August 2026 publication date, but the article gives no sentencing date, so 6 August 2026 is used as the incident date.
   - The marijuana weight is stated as 30 pounds; 13.61 kg is a conversion of that figure and no separate measured weight is reported.
-  - The tagged page photo is a Daily Journal generic crime-safety graphic with no caption, not a picture of this seizure, so no media is listed.
 ---
 
 Rafe Paul Grant, a 50-year-old man from Louisiana, has been sentenced to jail

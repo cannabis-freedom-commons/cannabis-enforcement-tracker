@@ -47,7 +47,6 @@ open_questions:
   - The article says the arrest was made on Thursday but gives no date; 5 November 2026 is the Thursday before the 7 November publication date.
   - No remand, charge sheet or court outcome was reported; the case was at the arrest stage.
   - Only one source for this event could be found or opened; no police statement or second outlet account was accessible.
-  - The page photograph carries no caption and its file name refers to another arrest, so it is not established to show this seizure and no media entry is made.
 ---
 
 Police in Tiruchirappalli arrested a 25-year-old man from Kurumbapatti in

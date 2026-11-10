@@ -78,15 +78,9 @@ open_questions:
   - The two arrested men are identified only by initials, and no charges or court outcome were reported.
   - Only one source for this event could be opened; no second account was found to corroborate it.
   - The R$400,000 figure is the police valuation, with no independent weighing or valuation reported.
-  - The new account attributes the operation to SSP-PI generally and does not name Denarc or the 22nd BPM Tactical Force given in the existing report.
-  - The page carries a photo credited to Ascom SSP-PI, but its alt text and caption do not establish that it shows this seizure, so no media entry is added.
-  - The page carries two photos captioned only with the headline and credited to SSP-PI, which does not establish that they show this seizure, so no media entry is added.
   - The new account does not publish a weight for the 20 packages or names for the two arrested men.
-  - Whether the page photo credited to Conecta Piauí shows this seizure is not established beyond its caption, so no media entry is added.
   - The submitted canonical URL and the amp URL already cited in the report are the same article ID 33988 in different renderings, so no independent second-outlet corroboration is added.
   - The CV Play page is a video listing that gives only the headline and its 3 November 2026 exhibition date, with no article text, weight, precise arrest location, agency or case details.
-  - The 3 November 2026 exhibition date is treated as the source publication date, while the interception date remains 1 November 2026 as recorded in the existing report.
-  - The embedded video's visual content was not verified from captions or article text, so no media entry is added.
 ---
 
 Piauí's Civil and Military Police, acting through the anti-narcotics department

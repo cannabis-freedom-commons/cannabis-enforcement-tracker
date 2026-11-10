@@ -52,7 +52,6 @@ open_questions:
   - The article gives no separate date for the crossing and ambush; 2 September 2014 is the publication date and is used as the incident date.
   - The 12-to-20-year prison term is the punishment the charge could carry if guilt is proved, not a court sentence, so no prison figure is recorded.
   - The article's 2013 Tajikistan-wide drug-seizure total concerns national statistics, not this event, and is left out of the report.
-  - The submitted page's listed image shows an unrelated 2026 meeting and no verifiable photo of this 2014 seizure was available, so no media entry is included.
   - The accessible second account is a verbatim reprint of the same agency report rather than an independent source.
 ---
 

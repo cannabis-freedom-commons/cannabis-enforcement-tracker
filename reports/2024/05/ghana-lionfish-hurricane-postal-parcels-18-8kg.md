@@ -56,7 +56,6 @@ open_questions:
   - The Epoch Times describes the amount as more than 41 pounds (about 18.6 kg) while INTERPOL gives 18.8 kg; the INTERPOL figure is used.
   - No Ghanaian source linking this seizure to Operation Lionfish Hurricane was found; NACOC reported intercepting 20.5 kg of UK-bound cannabis parcels at Accra postal and courier centres between 15 and 24 April 2024, but no opened source connects the two.
   - The DefenceWeb and Border Security Report texts reproduce INTERPOL's release, so they are not independent accounts.
-  - The submitted page's photo gallery shows seizures from Chile, Guyana, Argentina and Guinea-Bissau, the Abidjan meeting and a generic Lionfish image, none of them the Ghana parcels, so no media entry is added.
   - 'Left out, as its quotation was not found in The Epoch Times: The Ghana seizure was also reported by other outlets that drew on INTERPOL''s announcement, one of which put the amount at more than 41 pounds of marijuana destined for the UK.'
 ---
 

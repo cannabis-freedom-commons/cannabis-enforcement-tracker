@@ -108,9 +108,6 @@ open_questions:
   - The 500 grams of hashish were seized in Casablanca, not in Senegal, and are not recorded as a Senegalese seizure.
   - The report's summary still says the final recipient was being sought; this account describes the woman as the parcel's addressee, and the relationship between the two is not resolved.
   - The outcome of the custody and any charges after the prosecutor was notified are not reported.
-  - The page image caption repeats the headline and does not establish that it shows this seizure, so no media entry is included.
-  - This account times the woman's arrest at Soprim Extension at about 20:30, while the existing report records about 20:00 from earlier sources.
-  - The page's image caption refers to blue packets seized by police and does not establish that the photo shows the shoes or hashish in this case, so no media entry is included.
   - Casa24 gives no weight for the hashish, reporting only balls of the drug, so the existing open question about a kilogram figure remains.
   - Casa24 refers to the central office for the fight against illicit drug trafficking without naming ocrtis, and does not say how the Moroccan seizure was transferred to Senegal.
   - This account calls the Soprim Extension woman the addressee of the second consignment, while the report records her as an intermediary who named a final recipient still being sought.

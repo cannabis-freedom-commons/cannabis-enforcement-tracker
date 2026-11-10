@@ -42,7 +42,6 @@ sources:
     language: bn
 open_questions:
   - Only one source for this event could be opened, and no second report confirming the arrest was found.
-  - The page carries a photo captioned with the headline, but the caption and article text do not establish what the photo shows, so no media entry is added.
   - Whether the recovered ganja resulted in a separate narcotics charge or is being handled only alongside the attempted-mugging allegation is not stated.
   - No court outcome, value estimate, or additional cannabis figure was published.
 ---

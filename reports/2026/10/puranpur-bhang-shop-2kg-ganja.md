@@ -65,8 +65,6 @@ open_questions:
   - The Hindustan report also covers a separate seizure of banned narcotic capsules from a Mandi Road warehouse three days earlier, a different event left out here.
   - No photograph of the arrest or the seized ganja was published; the Hindustan page's only image is a Pilibhit district banner.
   - Whether the excise department acted on the police request to cancel the shop's licence was not reported.
-  - Hindustan dates the tip-off and arrest to Thursday, while Dainik Bhaskar says Friday; the existing report records this difference.
-  - Hindustan gives the weight as two kilos and Dainik Bhaskar as 2.060 kg; the existing report retains the more precise figure.
   - The embedded video lacks an asset-specific caption confirming that its footage depicts the arrest.
 media:
   - kind: photo

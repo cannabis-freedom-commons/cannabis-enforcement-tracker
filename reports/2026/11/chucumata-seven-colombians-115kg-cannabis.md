@@ -78,7 +78,6 @@ open_questions:
   - The age of the minor held in provisional internment was not published, and no source says whether the person with the outstanding Antofagasta warrant is among the three reported as having records.
   - No street value estimate was published for the cannabis, and the sources do not say where in Tarapacá the vehicles were loaded or where the cannabis was produced; the prosecutor only said the drugs were likely to come from foreign producers.
   - The local outlet El Reportero de Iquique links the case to an earlier detention of three people, Colombian and Chilean, whose information was used to plan this operation, and places the stop near the airport; no other account confirms that link, so it is left out of the text.
-  - The submitted page photo is credited only to the Tarapacá prosecutor's office and its caption does not describe what it shows.
 ---
 
 Detectives of the PDI's Iquique anti-narcotics brigade, working with Chile's

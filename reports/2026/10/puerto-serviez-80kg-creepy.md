@@ -57,8 +57,6 @@ open_questions:
   - No names, ages or official value of the load were published.
   - Only this Ke se dice report of the Puerto Serviez stop could be opened.
   - The lead photo is credited only as supplied, so it is linked as the article's image of this seizure rather than described in more detail.
-  - The Oro Noticias article is dated 1 November 2026 while the existing report is dated 30 October 2026; neither gives a separate day for the roadside stop.
-  - The page carries a lead photo of the seizure and arrests that is not listed as media here to avoid duplicating the supplied police handout already linked from the existing report.
 ---
 
 Three people travelling in a Chevrolet were arrested after police found 160

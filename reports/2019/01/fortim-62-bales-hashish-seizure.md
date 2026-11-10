@@ -55,7 +55,6 @@ open_questions:
   - The police headline says almost two tonnes while InSight Crime describes the haul as over two tons; the report records 2,000 kg.
   - No court outcome for the two arrested men was reported in the opened sources.
   - The delegate said it was premature to state how the drug reached Ceará; the ocean route described is the investigators' working account.
-  - The police page shows its own seizure-announcement press conference, not the seizure itself, so no media entry was added.
 ---
 
 On the night of 17 January 2019, military police tactical and intelligence units raided a house on Rua João Sapuruna in Fortim, Ceará, acting on a tip that the property stored illicit goods. [@1] In one bedroom officers found 62 bales of hashish that filled the room with a strong smell; the load weighed almost two tonnes and had come from Morocco. [@1]

@@ -40,8 +40,6 @@ sources:
     url: https://www.thestandard.com.hk/news/article/312823/Macau-police-seize-30m-in-cannabis-arrest-three-in-largest-ever-drug-smuggling-case
     publisher: The Standard
     date: 2025-09-29
-open_questions:
-  - The submitted page carries one image with no caption or credit in the capture, so it cannot be confirmed to show this seizure and no media entry is added.
 ---
 
 Police found 56 vacuum-sealed packets of cannabis buds, more than 30 kg, in the luggage of two Malaysian men who had flown in from South Korea. A Hong Kong man travelling with them was also arrested. Police said the shipment started in Thailand and was meant to go on to Hong Kong, and put its street value at more than MOP30 million; they called it the largest cannabis seizure in Macau's history at the time. All three were handed to the Public Prosecutions Office. [@1,2,3]

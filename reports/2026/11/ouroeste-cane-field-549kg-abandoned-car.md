@@ -123,7 +123,6 @@ open_questions:
   - The article credits the FICCO as a branch of the Public Ministry; the Federal Police's own statement lists federal and São Paulo state agencies instead.
   - This account gives only more than half a tonne rather than a precise weight, so the 549.6 kg figure still rests on the Federal Police count.
   - This account credits the FICCO as a branch of the Public Ministry; the Federal Police's own statement lists federal and Sao Paulo state agencies instead.
-  - This account also names canine teams of the 9th BAEP, the 16th Interior Police Battalion and the Minas Gerais military police as participants, matching the existing report's sentence, but its wording did not pass the capture quotation check and no new citation was attached for it.
   - The Federal Police weighed the load at 549.6 kg, while OExtra.net reported only a count of 628 cannabis tablets without a weight and Alvorada 95.3 FM combined the 628 tablets with the 549.6 kg figure.
   - Police said the documents allowed an initial identification of the driver, but neither account says whether a suspect was identified, detained or charged.
 ---

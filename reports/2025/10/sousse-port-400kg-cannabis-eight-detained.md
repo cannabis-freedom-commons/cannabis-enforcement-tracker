@@ -47,7 +47,6 @@ open_questions:
   - The exact port in Sousse was not identified.
   - The cannabis weight is approximate, about 400 kg, rather than an exact measured total.
   - No later court outcome for the eight people is reported; the investigation was ongoing.
-  - No caption on the submitted page identifies its image as depicting this seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in Réalités: Several suspects were arrested and questioned as the investigation continued.'
 ---
 

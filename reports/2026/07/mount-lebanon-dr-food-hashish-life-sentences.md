@@ -57,7 +57,6 @@ open_questions:
   - The indictment named ten other suspects plus the company, but the sentence reports name only six convicts, leaving the outcome for the remaining suspects unclear.
   - No cannabis-only valuation was published; the 120 million Lebanese pound figure is a court fine, not a drug value.
   - Background reporting mentions a 2023 airport seizure of about 1.266 kg in the same investigation, which is not counted separately to avoid double-counting with the 820 kg 2024 seizure recorded here.
-  - No usable photo of the event could be listed because the submitted page's images show unrelated stories and the English reports use file or archive photos.
   - The precise seizure site for the 820 kg reported in 2024 was not specified beyond the 2024 bust, while manufacturing and storage were linked to Baalbek and the Beirut airport road.
 ---
 

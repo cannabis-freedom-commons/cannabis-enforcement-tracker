@@ -57,7 +57,6 @@ sources:
 open_questions:
   - The 24 September 2025 incident date is the day after the 23 September handover, when ICI says the extradited chief was charged; no separate charging date is published.
   - Cocaine quantities reported in the same case, including 183 kilos in June 2023 and 400 kilos and one tonne by drop-off in September 2023, are left out of the cannabis figures under the substance scope.
-  - The published photo is explicitly an illustration image, not a picture of this seizure or operation, so no media entry is added.
   - ICI's summary line places the nine indictments in June 2023 while its detailed account ties the nine arrests and charges to the 11 December 2023 cannabis discovery; the report follows the detailed account.
   - No total weight for the cannabis imported from Morocco and no later court outcome were published; the investigation was still open.
 ---

@@ -78,7 +78,6 @@ open_questions:
   - The valuation line reads 12,00,000 lakh rupees, apparently meaning about 1,200,000 rupees total; only the 500,000-rupee ganja value is recorded as the drug value.
   - Only one source for this event could be opened, and no agency statement or second outlet account was found.
   - No separate time of the chase beyond the 4 November 2026 date was published.
-  - The Bhaskar account gives only the combined value of about 12 lakh rupees for the ganja and car together and does not give the separate 500,000-rupee ganja and 700,000-rupee car split recorded in the existing report.
   - The submitted video page capture contains only the headline and video in readable text; the fuller corroborating details come from the same Bhaskar article's news-text version with the same article ID.
   - Only the combined value of about 1,200,000 rupees for the ganja and car was reported by Dainik Bhaskar; the separate 500,000-rupee ganja and 700,000-rupee car split comes from Yash Bharat and the earlier account.
   - The image on the Yash Bharat page shows police personnel at an outpost and is not established to show the seized car, packets or the roadside where the driver fled, so it is listed only as an illustration.

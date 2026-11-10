@@ -51,7 +51,6 @@ open_questions:
   - No weight for the 325 dried marijuana plants is given, so only the 510 pounds of compressed marijuana is recorded by weight.
   - The arrested man is described only as an 'illegal immigrant'; no name, charge, court outcome or further detail is reported.
   - The 56 tarpaulins seized are not cannabis and are not recorded as a figure.
-  - The photograph on the Searchlight page shows course participants rather than the raid site, so no media entry is included.
   - The 2015 eradication mentioned at the end of the Searchlight article is a separate earlier event and is not part of this report.
 ---
 

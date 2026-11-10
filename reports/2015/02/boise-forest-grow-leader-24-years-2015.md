@@ -56,7 +56,6 @@ sources:
 open_questions:
   - The September 2013 release gave a preliminary count of 5,585 eradicated plants; the report uses the final 1,411 plus 5,463 figures from the 2015 sentencing release.
   - The 2013 release dates the Caldwell arrests to 13 September while the 2015 release dates Mariah Villasenor-Rodriguez's arrest to 12 September.
-  - No photo confirmed to show the 2013 grow sites was available, so no media entry was added.
 ---
 
 Chief U.S. District Judge B. Lynn Winmill sentenced Juan Pablo Villasenor-Villa, 25, of Michoacán, Mexico, to 288 months (24 years) in federal prison on 10 February 2015 for running a continuing criminal enterprise over two marijuana grows in the Boise National Forest, plus possession of large quantities of harvested marijuana and damage to public lands. [@3] A jury had convicted him on 4 November 2014 on five charges, including manufacturing more than 1,000 plants, possession with intent to distribute more than 100 kilograms, and causing more than 1,000 dollars in damage to public lands. [@2,3]

@@ -71,7 +71,6 @@ open_questions:
   - No district or neighbourhood is named for the narcotics work, so the report uses Kahramanmaraş province with regional precision.
   - No suspect names, charges or court outcomes beyond the remands were published.
   - All three accounts reproduce the same provincial police directorate statement, so they are not independent reporting.
-  - The pages carry images captioned only with the story headline, and no caption establishes that they show this seizure, so no media entry is added.
   - The same checks covered traffic, with 4,126 drivers and vehicles penalised and 152 vehicles banned from traffic, which is outside this report's cannabis focus.
 ---
 

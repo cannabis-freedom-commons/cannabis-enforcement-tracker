@@ -57,7 +57,6 @@ open_questions:
   - No number of plants was published, only five indoor grow rooms in total, so no plants figure is recorded.
   - Cash sums of more than 80,000 and 310,000 CFP francs and proceeds estimates of up to 2 million francs were reported but are not recorded as drug value or a court fine.
   - Only LNC-origin reporting could be opened; the second account is a Tahiti Infos reprint crediting LNC, and no separate agency statement was found.
-  - The page's main photograph is captioned only Cannabis and credited to Julien Cinier, which does not establish that it shows this seizure, so no media entry is included.
   - Full names were not published; the reports identify a 26-year-old woman, her partner and a 44-year-old Nouméa man.
   - Three distinct prison terms were imposed; figures records the longest two-year terms with one year suspended, while the partner received six months.
 ---

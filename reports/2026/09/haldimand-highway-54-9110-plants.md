@@ -51,7 +51,6 @@ open_questions:
   - None of the opened material explains how the $4.5 million plant valuation was calculated.
   - The reports do not say what happened to the seized plants or processed cannabis.
   - A third person who fled the property remains outstanding and unnamed.
-  - The lead image is a public-domain file photo that does not show this property, so no media entry is listed.
 ---
 
 Ontario Provincial Police officers of the Provincial Joint Forces Cannabis Enforcement Team searched a property along Highway 54 in Haldimand County on 22 September 2026 after an investigation that grew out of an earlier file. [@1] Other OPP units and the Haldimand County Fire Department assisted in executing the search warrant. [@1] Police say a third person fled the property during the operation and remains outstanding. [@1]

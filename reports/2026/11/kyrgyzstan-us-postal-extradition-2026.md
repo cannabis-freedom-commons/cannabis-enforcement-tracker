@@ -72,7 +72,6 @@ open_questions:
   - No quantity of marijuana or psychotropic substances was disclosed, so no cannabis weight is recorded and no combined total is counted as cannabis.
   - The suspect is identified only as H.T. and as a Kyrgyz citizen; no full name was published.
   - No arrests beyond the extradited suspect, charges, or court outcome were reported.
-  - The submitted page's lead photo is not confirmed to depict this extradition or the parcels, so no media entry is added.
 ---
 
 A Kyrgyz citizen suspected of organizing an international drug-supply channel

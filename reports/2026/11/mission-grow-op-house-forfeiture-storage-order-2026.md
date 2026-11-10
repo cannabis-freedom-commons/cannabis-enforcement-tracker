@@ -71,7 +71,6 @@ open_questions:
   - Only the Postmedia account via Vancouver Sun and Yahoo plus the Sing Tao summary could be opened; the Vancouver Sun original is paywalled but its full text was recovered.
   - 'Left out, as its quotation was not found in Vancouver Sun: Krist had refused to take the belongings back or have them destroyed because he believed doing so would weaken his claim that the province lost or destroyed his gold and silver.'
   - The 加西網 piece says the items were valued at about 2.3 million dollars when removed and more than 9 million dollars at market prices, but that is a claim by Krist about non-cannabis gold and silver and is not recorded as a cannabis figure.
-  - The page carries one photo but no caption or credit identifying what it shows, so no media entry is added.
 ---
 
 BC Supreme Court Justice John Bilawich ordered former owner John Krist to pay

@@ -63,7 +63,6 @@ open_questions:
   - The nineteen-year-old is identified only by age and no court outcome or charge beyond unlawful possession of narcotics is reported.
   - The article gives the street check as the afternoon of Sunday 8 November; 9 November 2026 is its publication date.
   - Cronache della Campania places the arrest in the piazza Nazionale area, while the other accounts name the Vasto-Arenaccia district; the sources use different area names for the same police station's territory.
-  - No usable photo of this event was found; the submitted page's lead image is captioned only 'hashish' and is not confirmed to show this seizure.
 ---
 
 Officers of the Vasto-Arenaccia police station in Naples stopped a 19-year-old

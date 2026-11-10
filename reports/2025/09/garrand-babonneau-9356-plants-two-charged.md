@@ -68,7 +68,6 @@ open_questions:
   - The 9,356-plant total is the sum of the two reported eradications of 4,451 and 4,905 plants; the 30.84 kg total is converted from 45 plus 23 pounds and the EC$513,100 total is the sum of EC$445,100, EC$45,000 and EC$23,000.
   - The cooperative's claim that the two men were assaulted is attributed to the group; the police account does not describe force.
   - No trial outcome beyond the 29 September remand and bail hearing was reported.
-  - No photo confirmed to show this eradication or seizure is listed; the submitted page shows the cooperative chairman and the police-account videos could not be confirmed to show this operation.
 ---
 
 Officers conducted a house search and eradication exercise in Garrand,

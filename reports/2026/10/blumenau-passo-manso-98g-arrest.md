@@ -69,7 +69,6 @@ open_questions:
   - Neither report gives the amount of cash seized or an estimated street value for the 98 grams of cannabis.
   - Police did not name the man or the condominium, and neither report names the street where he was stopped.
   - The photograph on the Jornal de Pomerode report is an illustrative image credited to SECOM, not a picture of this arrest, so it is not listed as media.
-  - ND Mais gives no date for the arrest; 30 October 2026 is the page's publication date, and the 29 October date comes from the existing report's other sources.
   - The page's brief description does not name the man, so the match to the 29 October arrest rests on the same Passo Manso neighbourhood, the same cannabis-and-trafficking-materials description, and the next-day timing.
 ---
 

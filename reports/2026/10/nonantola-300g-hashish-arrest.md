@@ -52,10 +52,8 @@ open_questions:
   - The year 2026 for the 28 October arrest and 30 October hearing is inferred from the 2 November 2026 publication date and the phrase 28 ottobre scorso.
   - The arrested man's name, age and nationality were not published in the available account.
   - No value, purity figure or court outcome beyond house arrest was reported.
-  - The page displays a photo filed as carabinieri-nonantola-notte-2.jpg, but its empty caption and alt text do not establish that it shows this seizure, so no media entry is added.
   - The SulPanaro page gives no separate event date; 3 November 2026 is its publication date, while the 28 October arrest and 30 October validation dates come from ModenaToday.
   - SulPanaro does not name the prosecutor, the search warrant or the validation hearing details beyond house arrest.
-  - The SulPanaro page image has an empty caption and credit and a March 2026 upload path, so it is not established to show this seizure and no media entry is added.
 ---
 
 Carabinieri officers from the Castelfranco Emilia station arrested a man on 28

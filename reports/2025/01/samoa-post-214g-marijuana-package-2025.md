@@ -43,7 +43,6 @@ open_questions:
   - The accounts do not say whether anyone was arrested at the time of the interception; the man whose charges were later reported is not described as detained during the interception.
   - The outcome of the May 2025 hearing or any later sentence was not found in the sources opened.
   - The crystal methamphetamine seizure at Matautu wharf mentioned in the same article is a separate event and is not recorded here.
-  - The submitted page's images carry no captions tying them to this seizure, so no media entries are added.
 ---
 
 Samoa's Ministry of Customs and Revenue intercepted a suspicious package that

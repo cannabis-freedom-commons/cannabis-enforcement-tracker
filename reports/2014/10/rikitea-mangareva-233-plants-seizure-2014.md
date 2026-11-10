@@ -44,7 +44,6 @@ open_questions:
   - The plot owner was identified and summoned, but no arrest, formal charge count or court outcome was reported.
   - No weight, cultivated area, monetary value or additional suspects were reported.
   - Only one source account of this event could be opened; no second confirming report was found.
-  - The page carries a photograph filed under a bare filename without a descriptive caption, so it cannot be established that it shows this seizure and no media entry is included.
 ---
 
 Gendarmes serving with the Rikitea brigade discovered a plantation of paka

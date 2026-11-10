@@ -66,7 +66,6 @@ open_questions:
   - No outcome of the fast-track proceedings was reported.
   - The cocaine indication is mentioned only to explain the mixed result and is excluded from cannabis figures.
   - Only one source for this event could be opened after searching in Bulgarian and English.
-  - The page image carries no caption establishing that it shows this roadside check, so no media entry is included.
   - The exact street or location of the check within Veliko Tarnovo was not given; coordinates are for the city centre with locality precision.
   - The RegNews item gives no weight or other quantity of cannabis, only a positive roadside indication, so the report's existing limitation stands.
   - No outcome of the fast-track proceedings was reported on this page.

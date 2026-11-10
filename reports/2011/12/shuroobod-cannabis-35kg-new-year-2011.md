@@ -54,7 +54,6 @@ open_questions:
   - The Interior Ministry statement reached the public through Asia-Plus only; the ministry's own page and any independent outlet account could not be found.
   - The English Asia-Plus version gives the same detention and weights, and states that the 2011 nationwide total included some 1,532 kilograms of cannabis; the Russian story gives only the overall 1.9-tonne figure and describes the remainder as cannabis-group drugs.
   - Shuroobod district was renamed Shamsiddin Shohin in 2016; the report uses the name the source gave.
-  - No photograph of the detention or the seized cannabis appears on either cited page, so no media entry is included.
   - The Russian account says officers examined the detained man's dwelling (жилой дом); the report records a home search.
 ---
 

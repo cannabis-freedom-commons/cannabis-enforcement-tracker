@@ -48,7 +48,6 @@ sources:
 open_questions:
   - No arrest, suspect, charge or later court outcome is reported.
   - The weight and value are published only as lower bounds of more than 2,033 kilograms and more than 171 million pesos.
-  - The two agency-page photos have no caption, alt text or credit confirming they show this seizure, so no media entry is included.
   - The Elonce account reproduces the official Prefectura statement rather than providing independent reporting from the scene.
 ---
 

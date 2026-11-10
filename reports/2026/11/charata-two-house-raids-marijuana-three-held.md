@@ -55,7 +55,6 @@ open_questions:
   - 'No formal charges are reported: the three men were notified of their aprehensión and the case was with the Sáenz Peña anti-drug prosecutor''s office.'
   - The role of the 65-year-old woman at the second home is not stated beyond being notified of the proceedings, and no arrest of her is reported.
   - The 24,000 and 18,000 pesos cash seizures come from the first and second homes respectively, and are not cannabis proceeds valuations.
-  - The submitted page's lead image has no caption, credit or described subject, so no photo of the event is listed.
   - Chaco Law 2304 on narcomenudeo lets provincial courts handle small-scale drug retail offences formerly in federal hands; the account describes the offences under that law rather than by specific articles.
 ---
 

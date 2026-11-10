@@ -53,7 +53,6 @@ open_questions:
   - No charges, custody ruling or court outcome were reported; the case was only said to have been referred to the prosecution.
   - Cannabis was described only in the 36-year-old's possession while the 50-year-old's vehicle search was described only as cocaine, so the substances cannot be separated into totals.
   - Both accounts repeat the police version and no separate police-statement page was opened directly.
-  - The submitted page image is captioned only as Capture, which does not establish that it shows this seizure, so no media entry is included.
   - Top Channel says the operation struck two additional drug-selling cases in Tirana but does not say whether either arrested man was under prior investigation.
 ---
 

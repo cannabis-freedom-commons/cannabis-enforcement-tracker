@@ -40,7 +40,6 @@ open_questions:
   - The ages, names and legal status of the two young people taken by police were not published, beyond describing them as young people.
   - No charges, custody decision or court outcome were reported; police were still to establish the source of the seized substance.
   - Only one accessible source for this event was found after searching in Polish; it reprints the Warsaw municipal guard's account.
-  - The page carries a photo credited to strazmiejska.waw.pl showing a municipal-guard vehicle, which does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Officers of Warsaw's VII Territorial municipal-guard unit went to Suchodolska

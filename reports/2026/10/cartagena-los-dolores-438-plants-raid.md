@@ -49,7 +49,6 @@ open_questions:
   - The article, published on 3 November 2026, dates the searches only to last week and last Thursday, so 29 October 2026 is used as the incident date on that basis.
   - The marijuana weight was reported only as almost 172,000 grams, so 172 kg is an approximate conversion.
   - Only one accessible account of this event was found after searching in Spanish, so all figures come from the authorities' version as reported by La Verdad.
-  - The page's sole image is an archive photograph of an officer outside Cartagena police station, not this operation, so no media entry is included.
   - No court outcome beyond referral to Investigating Court number 4 and the woman's provisional release was reported.
 ---
 

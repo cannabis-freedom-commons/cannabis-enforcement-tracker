@@ -37,7 +37,6 @@ open_questions:
   - Only the publication date, 2 May 2022, and the stated Sunday evening booking date the arrest; the stop may have happened before he was booked.
   - The article gives no information on whether Ricks was released after booking, no later charges and no court outcome.
   - Only one accessible account of the arrest was found; searches for a Mississippi Highway Patrol statement or a second outlet report returned nothing that could be opened.
-  - The page's pictures are ESPN/Getty images of Ricks in college play, not the traffic stop or any seizure, so no media entry is listed.
 ---
 
 Alabama cornerback Eli Ricks was booked on Mississippi charges of speeding,

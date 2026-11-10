@@ -45,7 +45,6 @@ open_questions:
   - The roughly 2,700,000 newly found plants are described as found, not as destroyed, so they are excluded from plants_destroyed.
   - The operation was described as continuing, so later totals may be higher than reported here.
   - Only one account, an Anadolu Agency report carried by Haber7, could be opened, so no independent corroboration was available.
-  - The page carries only a no_image.jpg placeholder rather than a photograph of the event, so no media entry is listed.
 ---
 
 Security forces screened 6,210 vehicles and 15,595 people in the operation area

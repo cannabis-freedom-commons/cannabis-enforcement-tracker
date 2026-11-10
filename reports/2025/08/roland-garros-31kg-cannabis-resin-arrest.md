@@ -61,7 +61,6 @@ open_questions:
   - The traveller's name, age, nationality and legal status beyond the planned hearings were not published.
   - No court outcome beyond the planned same-day hearings was reported.
   - The reported 5 kg of cocaine is mentioned only to explain the mixed seizure and is excluded from cannabis figures, and the near-35-kilo overall description is not recorded as a cannabis weight.
-  - The page carries a photo captioned with the article title, but its caption and credit do not establish that it shows this seizure, so no media entry is included.
   - The three accounts do not say when the two other people were arrested or what they were charged with, and no court outcome for any of the three has been published.
   - The accounts give the cocaine weight as 5.5 kg, while earlier coverage of the same interception reported 5 kg or 6 kg; the cocaine is excluded from cannabis figures either way.
   - Imaz Press, which reported the interception on the day, estimated the value of the whole load at five to six million euros, but the figure appears to be based on the cocaine price and is not recorded as a cannabis value.

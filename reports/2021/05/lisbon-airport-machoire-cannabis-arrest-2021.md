@@ -41,7 +41,6 @@ open_questions:
   - The June 2021 AFP accounts describe him only as a drug trafficker without naming the substance; the cannabis link comes from the later AFP report of October 2021 grouping him with suspected cannabis importers.
   - No extradition to France, charge or court date for the Lisbon arrest was reported in the opened sources.
   - The Le Figaro and Le Parisien pages could not be opened (login wall and paywall), so any later trial coverage could not be used.
-  - The pictures on the opened pages are a generic police armband illustration (RTL, AFP), a stock prison-cell photo (Barlamane) and a portrait of a different trafficker (20 minutes), so no media entry is included.
   - 'Left out, as its quotation was not found in Barlamane.com: Barlamane, citing a police source, likewise dated the arrest to early June 2021 at Lisbon Airport.'
   - 'Left out, as its quotation was not found in 20 minutes: In October 2021 AFP grouped Benkhelif, known as "Mâchoire", with two other arrest targets, saying they were suspected of having imported several tonnes of cannabis into France and were among the Ofast''s "priority interest targets".'
   - 'Left out, as its quotation was not found in 20 minutes: According to the same account, the Ofast''s priority is to track major traffickers, often based abroad, through an intelligence unit of about 30 people.'

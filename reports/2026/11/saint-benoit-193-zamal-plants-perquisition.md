@@ -84,9 +84,7 @@ open_questions:
   - Le Quotidien gives no separate date for the search; its article is dated 5 November 2026.
   - The photo published with the article shows a gendarmerie vehicle and is not a picture of this search, its plants or its grow rooms, so it is not listed as media.
   - No charge, prosecution or court outcome was reported beyond the garde à vue.
-  - Imaz Press Réunion attributes the account to the Gendarmerie de La Réunion and gives no independent detail beyond the existing reporting.
   - The article gives no weight for the dried cannabis, no separate date for the search and no charge or court outcome.
-  - The caption credits the accompanying photo to the Gendarmerie de La Réunion; the image shows the find from this search rather than a distinct scene already linked in the report, but the submitted page does not caption it more specifically.
 ---
 
 Gendarmes searched a property in Saint-Benoît, on the French island of Réunion,

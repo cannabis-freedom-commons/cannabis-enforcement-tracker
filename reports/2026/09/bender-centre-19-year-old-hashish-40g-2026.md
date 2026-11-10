@@ -53,7 +53,6 @@ open_questions:
   - The man was identified only by age and Bender residence, and no name was published.
   - No charge, custody decision or court outcome was reported; liability depended on the examination result and no criminal case was said to have been opened.
   - The fine of up to 21,000 Transnistrian roubles or up to three years in prison is the penalty the offence could carry, not a sentence imposed.
-  - The submitted page's illustration is an archive photo captioned as Transnistria's Criminal Code, and the MVD post says its photo is from the internet, so no media entry is included.
   - The radio page repeats the same Interior Ministry statement, so the event rests on a single original MVD account carried by two outlets.
   - Нашёл четыре закладки (Пресс-центр МВД ПМР) could not be opened again to check its quotations (the browser-rendered page has almost no readable article text (it may require a login, show an access challenge, or contain only media); archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.
 ---

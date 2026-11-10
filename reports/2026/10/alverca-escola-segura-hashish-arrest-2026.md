@@ -45,7 +45,6 @@ open_questions:
   - No charge, charge sheet or trial date is reported, and the outcome of the case is unknown.
   - The name of the school and the exact address in Alverca were not published.
   - The suspect is not named, and no value for the hashish was given.
-  - A single illustrative PSP photo from 2022 accompanies the coverage and is not shown to depict this seizure, so no media entry is included.
 ---
 
 A 22-year-old man was caught by police smoking hashish beside a school in

@@ -53,7 +53,6 @@ open_questions:
   - No flight number was published.
   - No court outcome beyond arrest under the NDPS Act was reported.
   - Both published accounts reproduce the same PTI/official-statement text, so no independent detail beyond that statement is available.
-  - The only picture on the submitted page is an image file uploaded in May 2025, before this September 2026 seizure, so it is not established to show this event and no media entry is included.
 ---
 
 Customs officers at Delhi's Indira Gandhi International Airport arrested a

@@ -54,7 +54,6 @@ open_questions:
   - The arrest figure of two covers only the Bulakbashi hashish passengers; a third man held over dried poppy in Fergana district is excluded from cannabis figures.
   - The 482 grams of dried poppy and the combined total of about one kilogram include non-cannabis substances and are excluded from the recorded 0.47 kg of cannabis.
   - No charges beyond opened criminal cases and no court outcome were reported; the investigation was still under way.
-  - The submitted page image caption does not establish that it shows this seizure and agency photos could not be viewed in this harness, so no media entry is included.
   - Only Russian-language press summaries of the State Security Service account were opened; the linked Telegram statement itself was not opened directly.
 ---
 

@@ -41,7 +41,6 @@ open_questions:
   - The article says the arrest happened on a Wednesday and was published on 23 October 2026, so 21 October 2026 is used as the incident date.
   - No cannabis quantity, seizure, plant count, cultivation site or laboratory was reported.
   - No court outcome beyond the unlawful-conduct charge and booking was reported.
-  - The page image is captioned as a Charleston County Jail photo of White and does not show the arrest, seizure or other enforcement action, so no media entry is listed.
 ---
 
 North Charleston police arrested a North Charleston woman on Wednesday after her

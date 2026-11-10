@@ -44,7 +44,6 @@ sources:
 open_questions:
   - The ministry's brief gives 1,313 packages and a heading says one tonne; no separate kilogram weight for the packages was published, and the tonne figure is used for the weight recorded here.
   - 'No arrest is reported: the ministry''s account says the driver fled and that escort vehicles tried to ease his escape.'
-  - The page's only photograph shows the Posorja container in the cocaine case, not the van or packages in Tulcán, so no media is recorded for this event.
   - The 6.5 million dollar figure is the ministry's estimate of the economic damage to criminal structures, not a valuation of a weighed load.
   - The exact position of the sector Y de Frailejón is not given; the coordinates are those of Tulcán.
   - The seizure is reported in a short brief inside an article whose headline and main text concern a different, cocaine case.

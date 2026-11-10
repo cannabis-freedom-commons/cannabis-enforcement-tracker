@@ -52,8 +52,6 @@ open_questions:
   - No street value was published for the 6.07 kg of cannabis, and the statement does not say how it was packaged or weighed.
   - The 6.07 kg is reported as cannabis without a stated laboratory confirmation.
   - The same search recovered tramadol, pregabalin, diazepam and codeine; those quantities are not cannabis figures and are left out.
-  - Other cannabis seizures in the same statement (Lagos airport, courier, Ondo, Ekiti, Edo, Enugu, Taraba, Delta) are separate events; those with existing reports are updated separately, and the Ekiti, Enugu, Delta and Benin City Ihama Road events are not covered here.
-  - The submitted page's images, including the cocaine suspect photographs, show unrelated cases, so no media entry is added.
   - 'Left out, as its quotation was not found in National Drug Law Enforcement Agency: The items recovered included 6.07 kg of cannabis alongside 1.06 kg of Tramadol 250mg, 1.27 kg of Tramadol 225mg, 400 g of pregabalin capsules, 355 g of diazepam and 200 ml of codeine.'
   - 'Not added to lagos-airport-houston-sofas-loud-1615kg, as its quotation was not found in National Drug Law Enforcement Agency: NDLEA officers on Wednesday 4 November 2026 intercepted 32 parcels of Loud, a strain of cannabis, weighing 16.15 kilograms, concealed inside two wooden sofas in a consolidated cargo that arrived from Houston, Texas, United States aboard a Turkish Airlines flight.'
   - 'Not added to taraba-lankaviri-283-blocks-226kg, as its quotation was not found in National Drug Law Enforcement Agency: In Taraba state, operatives on stop-and-search duty at the NDLEA checkpoint in Lankaviri, Yorro LGA, arrested three suspects with a total of 283 blocks of compressed cannabis weighing 226.255 kilograms within two days.'

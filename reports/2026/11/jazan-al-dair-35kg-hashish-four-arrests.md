@@ -74,7 +74,6 @@ open_questions:
   - The Sabq article says 12 border-security violators in all, while Ajel, Sraha and the Border Guard post describe this Jazan case alone as four; the report counts only the four in the hashish case.
   - No charges, court dates or sentences were reported; the Border Guard said only that initial legal procedures were completed.
   - The Border Guard's X post carries a photograph with no independent caption establishing it shows this seizure; it is linked to the post with that caveat.
-  - The Sabq page's only image is the outlet logo used with the headline, so no media entry is taken from it.
   - The Al-Estad article repeats the Border Guard announcement without naming its own sector-level source and adds no details beyond those already reported.
 ---
 

@@ -72,7 +72,6 @@ open_questions:
   - Only one source for this event could be opened and no second report confirming the Badvel and Temaria seizures was found.
   - No court outcome is reported; whether the two Maheshwar suspects were later arrested and what happened to the arrested suspect are not known.
   - The page carries two event photos filed as Maheshwar and Dhar ganja, but their captions do not describe the visible content beyond the headline.
-  - The Deshdhwani and Bhaskar pages carry field photos without captions or credits establishing what they show, so no media entry is included.
 ---
 
 Dahi police arrested 40-year-old Jhagalia Alava of Temaria village in Dhar

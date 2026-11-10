@@ -45,7 +45,6 @@ open_questions:
   - Only one source with usable article text could be opened; a second search result for the same Gohalpur action yielded no readable article text.
   - The report uses 1 November 2026 both as the event date stated in the article and as the article's publication date.
   - No court outcome beyond registration of the NDPS case was reported.
-  - The submitted page carries a photo and a video whose contents could not be verified as showing this seizure, so no media entry is listed.
   - The Rs 203,600 figure is the police estimate reported in the article.
 ---
 

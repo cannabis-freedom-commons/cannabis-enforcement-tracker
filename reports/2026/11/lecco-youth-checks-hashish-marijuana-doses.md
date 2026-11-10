@@ -47,9 +47,7 @@ sources:
 open_questions:
   - No weight or dose count was published for the seized hashish and marijuana, so no cannabis weight figure is given.
   - The articles give only the publication date of 2 November 2026 and say the checks occurred in recent days, so the publication date is used as the incident date.
-  - The submitted page writes 569 people checked in one line but its headline and its breakdown of 456 adults and 123 minors total 579, confirmed by the second outlet, so the report uses 579.
   - The one arrest was for aggravated theft using the fake-carabiniere trick, not for drugs, and the two drug referrals were administrative reports to the Prefecture with no criminal charges or court outcome given.
-  - The submitted page image caption only repeats the headline and does not establish that the photo shows this seizure, so no media entry is added.
 ---
 
 Lecco State Police referred two people to the local Prefecture for possession

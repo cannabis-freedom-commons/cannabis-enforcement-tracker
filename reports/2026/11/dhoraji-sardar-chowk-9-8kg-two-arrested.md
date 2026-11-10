@@ -61,10 +61,7 @@ open_questions:
   - 'Left out, as its quotation was not found in Divya Bhaskar: Kasam Sama already faced four prohibition cases recorded at Jamjodhpur police station between 2014 and 2016.'
   - 'Left out, as its quotation was not found in Divya Bhaskar: The men allegedly sourced the ganja from Kansa village in Balasore district, Odisha, and police are investigating a wanted Odisha suspect and the wider supply network.'
   - 'Not added to upleta-machhi-market-3-8kg-arrest, as its quotation was not found in Divya Bhaskar: Police said the detained man admitted bringing the ganja by train from a man in Kangsa (Kansa) village in Balasore district, Odisha, to sell retail in the Upleta area.'
-  - The GSTV page gives only its publication date of 3 November 2026 and no separate date for the raids; the existing reports use 2 November 2026.
-  - GSTV rounds the breakdown to 9 kg 80 g at Dhoraji and 3 kg 800 g at Upleta with Rs 6.8 lakh total, while the existing reports use precise figures of 9.797 kg and Rs 499,850 for Dhoraji and 3.816 kg and Rs 191,300 for Upleta; the existing precise figures are retained.
   - The GSTV page combines two seizures already recorded separately as Dhoraji and Upleta reports, so no combined quantity is recorded as a new event.
-  - The page video thumbnail is captioned only as source gstv and is not established to show this seizure, so no media entry is included.
   - No second full outlet account of the combined roundup could be opened; social-media snippets mentioning the same 13.6 kg total are not evidence.
 ---
 

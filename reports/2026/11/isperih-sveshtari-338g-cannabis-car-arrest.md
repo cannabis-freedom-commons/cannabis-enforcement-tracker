@@ -61,7 +61,6 @@ open_questions:
   - The weight of 3.38 grams is small and the reports do not say whether it was for the man's own use or for sale.
   - No charge sheet, measure of restraint or court outcome was reported beyond the opening of the pre-trial investigation.
   - The reports identify the man only by age, home village and criminal record, and name no suspect.
-  - The page picture on the Razgrad News site is an illustrative cannabis-test image filed in 2024, not a photo of this check, so no media entry is listed.
 ---
 
 Police in Isperih, Razgrad Province, detained a 45-year-old man from the

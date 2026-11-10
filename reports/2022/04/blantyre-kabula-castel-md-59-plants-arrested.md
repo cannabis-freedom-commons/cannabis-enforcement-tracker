@@ -47,7 +47,6 @@ open_questions:
   - The incident date of 8 April 2022 is inferred because the 9 April 2022 article says the arrest, raid and bail all happened on Friday, which was 8 April.
   - No second independent account of the arrest, raid or bail could be opened; web searches for the executive's name, Kabula Heights and the 59 plants found no accessible corroboration.
   - No charge, plea, fine or sentence had been reported at publication; the court date depended on Bvumbwe Research Station verification whose result was not in this account.
-  - Two images are listed on the submitted page, but their captions do not confirm they show this raid or seizure, so no media entry is included.
 ---
 
 Police in Blantyre arrested Castel Malawi Limited Managing Director Herve Milhad

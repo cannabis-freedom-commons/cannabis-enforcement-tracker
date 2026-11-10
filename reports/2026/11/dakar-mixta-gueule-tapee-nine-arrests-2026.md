@@ -51,7 +51,6 @@ open_questions:
   - No names, ages or other identifying details of the nine suspects were published.
   - No court outcome beyond referral to the prosecutor was reported.
   - Only one accessible outlet account was found after searching in French for this operation.
-  - The page carries three photos but their captions do not establish that they show this seizure, so no media entry is included.
 ---
 
 From Friday 30 October to Sunday 1 November 2026, the Parcelles Assainies

@@ -46,7 +46,6 @@ open_questions:
   - No number of people arrested or charged during the seven months was published.
   - The 97 cultivation cases are a crime count, not a number of people or plants, and are not recorded as cannabis figures.
   - Only one opened source could be used; searches in Russian, English and Azerbaijani found no second accessible account of this seven-month total.
-  - The page's cover image has no caption or credit establishing that it shows these seizures, so no media entry is included.
   - The text gives an area ("1,167.2 hectares") but the figures have no hectares; check whether it belongs there.
 ---
 

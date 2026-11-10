@@ -48,7 +48,6 @@ open_questions:
   - Cambio names no arrests, detentions or court outcome for this seizure.
   - Cambio's photos are credited to the Peruvian defence ministry and appear to repeat the agency handout already cited, so no new distinct media is added.
   - The Peruvian defence ministry published river-landing photos of the same Loreto operation without a separate cannabis-visible media_url entry here.
-  - El Peruano carries no separate date for the operation and gives no figure beyond more than nine tonnes of cannabis, so the existing report's 30 June 2026 announcement date stands.
   - The page's photographs carry only a generic caption and appear to repeat the agency handout already recorded, so no distinct media is added.
 sources:
   - title: Fuerzas Armadas de Perú y Colombia golpean al tráfico ilícito de drogas en Loreto e incautan más de 9 toneladas de cannabis sativa

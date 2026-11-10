@@ -73,10 +73,7 @@ open_questions:
   - Locality spellings differ by transliteration across sources, including Barav/Baraon and Chahala/Chahla Tola and Dagdhaua/Dagdhaoa Pulia; the report uses the Raj Express forms.
   - The report uses 1 November 2026, the day of the tip and arrests stated in the sources, as the incident date; 2 November is the court-production date and 2-3 November are publication dates.
   - The figures record the police valuation of the ganja alone at Rs 405,180; the higher Rs 490,180 total including the motorcycle and mobile phone is stated in the text.
-  - Star Samachar identifies Ashok Patel as a resident of Palia, while the existing report records both men as residents of Dubgawan village.
-  - Star Samachar reports two motorcycles and two mobile phones seized, while the existing report details one red Platina motorcycle and one Oppo smartphone.
   - Star Samachar states the seized ganja is worth about Rs 405,000 immediately after describing the second 12.924 kg seizure, leaving ambiguous on its own whether that figure is the second lot or the combined total clarified in other sources.
-  - The Star Samachar page carries a lead image captioned with this raid headline, but the caption and article text do not describe what the image shows, so no media entry is included.
 ---
 
 Shahpur police in Mauganj district arrested 52-year-old Ashok Patel and his

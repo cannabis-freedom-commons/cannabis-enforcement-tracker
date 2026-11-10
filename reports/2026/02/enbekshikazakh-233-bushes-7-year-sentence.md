@@ -68,7 +68,6 @@ open_questions:
   - The 4.5-hectare figure is the area of the farm plot named in the August 2025 reporting, not a measured area of the cannabis crop, so it is not recorded as destroyed field area.
   - Kazinform attributes the discovery to National Security Committee and Almaty Region police officers, while Tengrinews names the Interior Ministry's drug-crime department with the National Security Committee.
   - No appeal outcome was reported because the verdict had not entered into legal force when the sentence was announced.
-  - The submitted page image is captioned only with the article title and credited to the district court press service with AI involvement, so it is not established to show this plantation and no media entry is included.
   - The text gives an area ("4.5 hectares") but the figures have no hectares; check whether it belongs there.
 ---
 

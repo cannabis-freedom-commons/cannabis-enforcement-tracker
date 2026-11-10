@@ -51,7 +51,6 @@ open_questions:
   - No court outcome was reported; only the trial hearing is covered.
   - The phenethylamine-derivative quantity was described only as a quantity with no weight, so no non-cannabis weight is counted and no combined drug total is used as cannabis.
   - Only one source for this four-defendant case could be opened; no second outlet or agency statement was found.
-  - The only page image is captioned as an archive court-gavel photo, not this event, so no media entry is included.
   - The 2 November 2026 date is the trial-hearing and publication date; the seizure date of 10 December 2025 is given separately.
 ---
 

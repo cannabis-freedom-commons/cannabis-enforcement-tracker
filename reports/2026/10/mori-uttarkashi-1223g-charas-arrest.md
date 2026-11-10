@@ -49,7 +49,6 @@ sources:
     language: hi
 open_questions:
   - No court outcome beyond registration of the NDPS Act case at Mori police station was reported.
-  - No verifiable photograph of this seizure could be established from captions or credits, so no media entry is listed.
   - The articles also cite a 2026 district tally of 31 NDPS cases, 41 arrests, over 12 kg of charas, 88.21 g of smack and Gangster Act cases; those cover other events and a non-cannabis substance and are left out of the cannabis figures.
 ---
 

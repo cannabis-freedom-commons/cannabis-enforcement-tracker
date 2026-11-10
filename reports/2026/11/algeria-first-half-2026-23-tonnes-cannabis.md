@@ -73,7 +73,6 @@ open_questions:
   - The page photo carries only a file-name caption, so it is not listed as media.
   - The article gives no date for the conference beyond saying the minister spoke "yesterday", and it publishes no seizure, arrest or sentence figures of its own; its only numbers are for strategy activities completed.
   - The page's photo carries only the generic caption about drugs and traffic accidents, so it is not listed as showing this seizure tally.
-  - 'The Horizons account gives more precise totals than the existing report: 23 tonnes and 818 kg of cannabis instead of 23 tonnes, 36.97 million pregabalin tablets, 1,094 kg and 580 grams of cocaine instead of about 1,000 kg, and 1,373,985 ecstasy tablets instead of about one million.'
 ---
 
 Algeria's security services seized more than 23 tonnes of cannabis during the

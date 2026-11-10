@@ -48,7 +48,6 @@ open_questions:
   - The article writes the arrest day as Sunday (1 November) with a typographical error in the month, while its publication date is 1 November 2026, which is used as the incident date.
   - The youth's alias is spelled both সাহিদুল and শহিদুল in the article; the report uses the first form.
   - Only one accessible source for this event was found after searching in Bengali and English.
-  - The page carries a photo captioned only with the headline and no credit, which does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Police in Kalia Upazila of Narail detained a youth identified as Sumon Molla,

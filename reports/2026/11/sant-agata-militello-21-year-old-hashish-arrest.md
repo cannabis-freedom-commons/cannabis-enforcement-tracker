@@ -48,7 +48,6 @@ open_questions:
   - The reported total of more than 120 grams covers hashish, cocaine and crack together, so only the separately stated 25.4 grams of hashish is recorded in figures.
   - No outcome for the girlfriend in the car or in the searched home was reported.
   - No outcome of the validation hearing set for 9 November was reported.
-  - The page's only captioned image is a generic police-car photo, so it is not established to show this seizure and no media entry is added.
 ---
 
 Police from the investigative squad of the Sant'Agata di Militello

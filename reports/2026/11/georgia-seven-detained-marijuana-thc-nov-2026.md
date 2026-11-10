@@ -51,7 +51,6 @@ open_questions:
   - The articles give no separate date for the detentions and searches; 2 November 2026 is the publication date and is used as the incident date.
   - No names, custody decisions or court outcome were reported; the investigation was still under way.
   - Alpha-PVP, mephedrone, methadone, clephedrone and MDMA are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
-  - The apsny.ge page image has no caption or credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Officers of the Interior Ministry's Central Criminal Police Department detained

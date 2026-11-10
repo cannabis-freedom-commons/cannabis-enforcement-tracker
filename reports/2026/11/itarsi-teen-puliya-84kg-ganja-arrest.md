@@ -50,9 +50,6 @@ sources:
 open_questions:
   - Only one accessible source for this event was found after searching in English and Hindi.
   - No court outcome was reported; the case stood at the stage of an offence being registered and legal proceedings started.
-  - The page carries a photo captioned only as GANJA, which does not establish that it shows this seizure, so no media entry is included.
-  - This Bhaskar account describes the action by Itarsi police led by the station in-charge and does not mention RPF participation recorded in the existing report.
-  - The Bhaskar page's image has no caption or alt text establishing that it shows this seizure, so no media entry is included.
 ---
 
 A joint team of Itarsi police in Narmadapuram district and the RPF, the railway

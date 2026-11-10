@@ -54,7 +54,6 @@ open_questions:
   - No measured marijuana weight was published, only the charge threshold of 35 grams or less, so no kg figure is recorded.
   - The incident date of January 20, 2016 is inferred from Wednesday night and January 21 publication; no separate incident date was stated.
   - No court outcome beyond booking and release on summons was reported.
-  - The only page image shows Beckner celebrating in a September 2015 game, not the stop, seizure or booking, so no media entry is listed.
   - The two nominated candidate reports could not be opened in this read-only harness because tracker tools and report files were unavailable; their slugs indicate Colorado events distinct from this Missouri arrest.
 ---
 

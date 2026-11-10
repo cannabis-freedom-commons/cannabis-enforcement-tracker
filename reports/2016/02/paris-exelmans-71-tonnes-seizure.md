@@ -43,7 +43,6 @@ tags: [paris, record-haul, customs]
 open_questions:
   - The seizure happened overnight and was announced on 18 October; the report uses the announcement date.
   - Customs Today values the haul at 20 million euros while the AFP wire reports at least 15 million euros; the report uses the wire figure.
-  - Photographs of the customs display and the presidential visit were published with the reports, but no direct image address could be recovered, so no media entry was added.
   - The Tournai prosecutor's spokesman did not confirm the reported link between Hambli and the October 2015 seizure.
   - Whether and when Hambli was transferred to the French judicial authorities was not yet known, with the transfer procedure still under way.
 sources:

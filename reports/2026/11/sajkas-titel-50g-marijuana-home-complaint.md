@@ -60,7 +60,6 @@ open_questions:
   - The 50 grams is described only as a plant substance suspected to be marijuana, and no laboratory confirmation was reported.
   - The suspect is identified only by initials, S. P., and his year of birth; no address, charge sheet or court outcome was reported.
   - All three accounts reproduce the same Interior Ministry police statement rather than independent reporting.
-  - The only photo on the submitted page is a screen-grab credited to Novosti/MUP whose subject is not described, so it is linked rather than treated as a picture of this seizure.
 ---
 
 Police in Titel will file a criminal complaint against a 21-year-old man from

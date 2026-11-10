@@ -46,7 +46,6 @@ sources:
 open_questions:
   - The 785 yaba tablets are a methamphetamine-type drug, not cannabis, and are excluded from the cannabis figures; only the 300 grams of ganja is recorded as 0.3 kg seized.
   - No second source for this event was found after searching in Bengali and English, so only one accessible source is cited.
-  - The page image is captioned only as immage 1000 05 with no credit establishing that it shows this seizure, so no media entry is included.
   - The romanisation Ashraf Matubbar follows the Bengali name as published.
 ---
 

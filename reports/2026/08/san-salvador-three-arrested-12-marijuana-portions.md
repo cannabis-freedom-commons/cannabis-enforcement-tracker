@@ -65,7 +65,6 @@ open_questions:
   - The accounts say the raid happened on a Saturday, which fell on 15 August 2026, but give no street or neighbourhood, so the place is recorded as San Salvador with centre coordinates.
   - Only a possible sentence of several decades was mentioned; no charge filing, custody ruling or court outcome was reported.
   - All accounts repeat the Security Ministry and minister's version; the ministry's own news page for this case could not be opened.
-  - The submitted page's lead image is labelled illustrative and shows handcuffs and cocaine packages, so it is excluded as not showing this event.
   - Several outlets republish the minister's photographs of the same operation; the listed media may include two views and duplicates are left to the service to merge.
   - A separate mass arrest under Operation Barrido reported on 14 August 2026 is a different event left out here.
 ---

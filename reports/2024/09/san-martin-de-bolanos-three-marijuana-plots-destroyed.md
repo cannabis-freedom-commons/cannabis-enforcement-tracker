@@ -46,7 +46,6 @@ open_questions:
   - No cultivator was identified and no detention is reported beyond a search with no positive results.
   - The plants are described only as possible or apparent marijuana, with no laboratory confirmation reported.
   - Only the Guardia Nacional statement could be opened; no independent second account was found.
-  - The page's photo caption only repeats the headline, so no media entry is made.
   - The statement does not say whether the three plots belonged to one grower or several.
 ---
 

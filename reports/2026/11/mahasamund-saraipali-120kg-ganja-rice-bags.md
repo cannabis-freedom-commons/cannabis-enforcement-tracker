@@ -86,19 +86,12 @@ sources:
 open_questions:
   - The article gives no separate date for the interception; 3 November 2026 is its dateline and publication timestamp and is used as the incident date.
   - Only one accessible source for this event was opened after searching; no second account could be added.
-  - The page thumbnail has no caption or credit establishing that it shows this seizure, so no media entry is listed.
   - No court outcome beyond judicial remand was reported.
-  - Haribhoomi published this account on 4 November 2026 while the existing report uses 3 November 2026 as the incident date; no separate interception date is given.
   - Haribhoomi renders the first accused's name as अमनदीप दीप, so whether the full name differs from Amandeep as recorded remains unclear.
   - The Navbharat Live article was published on 4 November 2026 and gives no separate interception date, so the existing incident date of 3 November 2026 is retained.
-  - The page image is captioned only Chhattisgarh Ganja Smuggling with no credit establishing that it shows this seizure, so no media entry is included.
   - This account does not give the accuseds ages, the NDPS section, the Khamharpali barrier location, the tip-off, Operation Nishchay or the container registration number, which remain sourced only from the earlier accounts.
   - This account was published on 4 November 2026 and gives no separate interception date, so the existing incident date of 3 November 2026 is retained.
-  - The page image is captioned only that police arrested the accused, with no credit establishing that it shows this seizure, so no media entry is listed.
   - This account was published on 4 November 2026 and gives 2 November as the date of the tip with no separate interception date, so the existing incident date of 3 November 2026 is retained.
-  - The page image is captioned only with the headline text and carries no credit establishing that it shows this seizure, so no media entry is included.
-  - This account says the consignment was being taken toward north India, while the existing report says toward Raipur, so the destination wording differs.
-  - The page image is captioned only with the headline and carries no credit establishing that it shows this seizure, so no media entry is included.
   - The Daily Kiran English account, the Navbharat Times copy and the Haribhoomi report all reproduce the same Mahasamund police information, so they are not independent of each other.
 media:
   - kind: photo

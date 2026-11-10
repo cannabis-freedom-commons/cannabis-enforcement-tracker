@@ -57,7 +57,6 @@ open_questions:
   - 'The cannabis supply range differs between accounts: the BBC says up to 1,500g between 22 June and 1 September 2024 while Isle of Man Today says between 781.5g and 1,536g between 24 June and 1 September; only the seized 195.2g is recorded as kg_seized.'
   - 'The value of the 195.2g seizure differs: Isle of Man Today says £3,852 while the BBC and Manx Radio say £3,912; figures record £3,852.'
   - Only the 195.2g seized on 31 May 2024 is recorded; the 781.5g to 1,536g supply range and all cocaine weights are excluded from cannabis figures, and the consecutive two-year and four-month drug term covers cocaine and cannabis together so no cannabis-only sentence share is recorded.
-  - The BBC and Manx Radio photographs show the Douglas Courthouse exterior and Isle of Man Today shows the lane behind the school, not the cannabis, search or court action, so no media entry is included.
   - Manx Radio states its report is by BBC Isle of Man and reprints the BBC text, so it corroborates rather than adding independent detail.
   - 'Left out, as its quotation was not found in Isle of Man Today: The evidence showed he had dealt between 14g and 25g of cocaine, and between 781.5g and 1,536g of cannabis.'
   - 'Left out, as its quotation was not found in Isle of Man Today: A total of 274 messages were recovered, showing deals between June 24 and September 1, 2024.'

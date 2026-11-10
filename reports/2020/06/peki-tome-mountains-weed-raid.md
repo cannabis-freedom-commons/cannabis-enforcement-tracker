@@ -49,7 +49,6 @@ open_questions:
   - IGNews reports 17 farms of about 30 acres destroyed, while Radio 1 says the team cleared only about a fifth of a hundreds-of-acres enclave, with further destruction planned.
   - The Boso chief disputes that any farm lies on Boso land; the report follows the outlets in placing the enclave between Peki and Boso.
   - The destruction of about 67 acres at Boso later in August 2020 is recorded in a separate report.
-  - The Ghanaian Times page shows a destruction photo but no recoverable image address, so no media entry was added.
 ---
 
 A sixty-strong joint police force arrested two suspected cannabis farmers and destroyed seventeen farms covering about thirty acres in the Tome mountains between Peki and Boso. [@1] The team, drawn from the national Drug Law Enforcement Unit, SWAT, the regional CID in Ho and the Peki divisional command and led by unit director Superintendent David Selorm Hukporti, acted on gathered intelligence after picking up the first suspect and then the second. [@1]

@@ -48,7 +48,6 @@ open_questions:
   - No amount was given for the fines described only as varying amounts, so no fine figure is recorded.
   - No plant count was published, only the 6.8 kg weight, so no plant figure is recorded.
   - Only one accessible source for this event was found; the web search returned no second account to open.
-  - The page image is a generic placeholder with no event caption, so no media entry is included.
 ---
 
 Antalya's 4th Heavy Penal Court sentenced Ali Rıza Ceylan and Ümit Yılmaz to 15

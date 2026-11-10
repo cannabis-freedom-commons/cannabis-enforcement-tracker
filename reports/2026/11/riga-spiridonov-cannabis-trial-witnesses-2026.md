@@ -80,7 +80,6 @@ open_questions:
   - No figure for the number of plants, plantations or hectares in Spain was published in the sources read.
   - The prosecutor's own release gives the Riga property-laundering sum as 31,788.98 euros, rounded to 31,788 euros in the news accounts.
   - Only LETA wire coverage and its republications were found for the 4 December scheduling; no separate court statement was opened.
-  - The only picture on the page is a LETA photograph of the Riga City Court exterior, not of this hearing, so no media entry was added.
 ---
 
 Nine people are on trial at Latvia's Economic Affairs Court, including Jurijs

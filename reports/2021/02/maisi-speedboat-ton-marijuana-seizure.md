@@ -57,7 +57,6 @@ open_questions:
   - The names, ages and legal status of the three Bahamian crew members and any charges or court outcome were not reported.
   - Both accessible accounts relay the same Cuban official account via state media; no independent account was opened.
   - The article's reference to three tonnes seized through November 2020 is a national cumulative total left out of this report.
-  - This account attributes the route and second-boat/fourth-operation tallies to a Cubadebate note relaying state media, while the existing report attributes the tally to Prensa Latina and the route to OnCuba News; the underlying figures match.
   - The only pictured item on the page illustrates 2019 customs seizures of 21 kilos, not this interception, so no event photo is added.
 ---
 

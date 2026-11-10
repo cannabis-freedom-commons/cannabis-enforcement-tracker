@@ -42,7 +42,6 @@ open_questions:
   - The article gives no reason for the search and does not say whether the cannabis was intended for sale.
   - No charges, court date or court outcome have been reported, and the man has not been named.
   - No street value for the 5.02 grams was published.
-  - The only image on the page is captioned only by its file name as the Bambous police station building and does not show the search or seizure, so no media entry is included.
 ---
 
 ADSU officers carried out a perquisition at the domicile in Bambous of a

@@ -38,7 +38,6 @@ open_questions:
   - The drugs were described only as suspected or believed to be cannabis, with no laboratory confirmation reported.
   - No arrests, charges or court outcome were reported; the two people were described only as under investigation.
   - Only one accessible source for this event was found; a Hyndburn Police social-media post about the raid could not be opened as evidence.
-  - The page image is a Google street view of Campbell Avenue, not the raid or seizure itself, so no media entry is included.
 ---
 
 A man and a woman are under investigation for money laundering and possession of

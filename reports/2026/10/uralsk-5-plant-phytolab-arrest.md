@@ -47,7 +47,6 @@ open_questions:
   - No weight was published for the five wraps or the seeds, so no kilograms are recorded.
   - The reported five-to-eight-year penalty is the possible punishment, not an imposed sentence.
   - No charges, custody ruling or court outcome were reported; the pre-trial investigation was still under way.
-  - The CaspianLife page labels its photo as illustrative, and the Caravan photo credit alone does not establish that it shows this seizure, so no media entry is included.
   - Both accounts repeat the police version; no statement from the detainee was reported.
 ---
 

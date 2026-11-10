@@ -52,7 +52,6 @@ open_questions:
   - No value estimate for the seized ganja was published.
   - The nature and status of Sagar's earlier case under the pending arrest warrant were not reported.
   - No court outcome beyond sending the accused to jail custody was reported.
-  - The page carries a photo but no caption confirms it shows this raid or seizure, so no media entry is added.
 ---
 
 Khaliajuri thana police detained three men in an anti-drug raid in Khaliajuri of

@@ -79,10 +79,7 @@ open_questions:
   - The hashish weight is not an exact measured figure and no value estimate was published for the drugs.
   - No plea, detention order or court outcome was reported; the case was at the investigation stage.
   - The suspect was identified only by his age, 27, and no name was published.
-  - The submitted page states the operation took place on the evening of Saturday 7 November, which fits the 2026 calendar; other outlets say only that it happened the evening before publication.
   - The five outlets reproduce the same Ischia police statement, so they are not independent reporting of the arrest.
-  - The submitted page and Lo Strillone both carry an image built around the same 'logo foto ischia droga' file, but no caption or credit confirms it shows the seized drugs, so no media entry is added.
-  - The submitted page's other images are advertising banners, and no photo of the arrest, the cellar or the seizure could be confirmed from the other outlets' markup.
   - A separate Il Mattino article reports the closing of a nightclub called L'Ecstasy on Ischia; that is a different event and is not covered here.
 ---
 

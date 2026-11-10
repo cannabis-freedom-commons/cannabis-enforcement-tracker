@@ -42,7 +42,6 @@ open_questions:
   - The reported figure of about 1,500 articles is a total item count covering merchandise and the till, not a cannabis-only weight or plant number.
   - The figures of at least ten suspected plants and 13 to 15 observed plants come from the warrant account and are not recorded as seized plants.
   - Only the company's account of the seizure could be opened; no police or prosecution statement was found.
-  - The Rundschau page shows a raid photo, but no absolute direct image address could be recovered, so no media entry is listed.
   - The text gives a number of plants ("15 plants") but the figures have no plants_destroyed; check whether it belongs there.
   - 'Left out, as its quotation was not found in Landshuter Rundschau: The company said about 1,500 items were taken in the raid.'
   - 'Left out, as its quotation was not found in Landshuter Rundschau: The search was based on a 18 September 2026 warrant from the Landshut Local Court, the Amtsgericht.'

@@ -38,7 +38,6 @@ open_questions:
   - No one was named as the owner and the article reports no arrest, charge or court step; the passengers were taken in for questioning only.
   - The report gives no further details on how the case ended or what the DRPJ found when it used the association notice found in one suitcase.
   - Only one opened source supports the event; an English reprint of the same text appeared in search results but its page could not be opened.
-  - The page's only photo is captioned just chanvre indien and is not established to show this seizure, so no media entry is included.
 ---
 
 Police in Garoua-Boulaï seized two suitcases of chanvre indien, the French term

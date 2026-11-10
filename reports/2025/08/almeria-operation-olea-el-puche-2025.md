@@ -36,7 +36,6 @@ tags: [policia-nacional, almeria, el-puche, firearms]
 open_questions:
   - The exact date of the raids was not stated; they were reported on 7 and 8 August 2025.
   - Both opened accounts come from the same English-language outlet, and the police's own announcement could not be opened.
-  - Photographs credited to the National Police were shown with the accounts, but their direct addresses could not be recovered, so no media is listed.
 sources:
   - title: "Revealed: The weapons of war used by 'dangerous' Almeria clan to protect cannabis farm"
     url: https://www.thespanisheye.com/2025/08/08/revealed-the-weapons-of-war-used-by-dangerous-almeria-clan-to-protect-cannabis-farm/

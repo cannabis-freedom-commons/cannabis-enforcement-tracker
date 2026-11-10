@@ -49,7 +49,6 @@ open_questions:
   - No names, charges, weights from personal searches, or court outcome were reported; the three people were described only as detained under criminal proceedings opened in the Investigative Committee.
   - No laboratory confirmation of the 970 grams described as marijuana was reported.
   - Only one source could be opened; the account is the State Revenue Committee press statement as relayed by the outlet, with no independent second account found.
-  - The page shows a lead photograph and an embedded video, but their captions repeat the headline and do not confirm they depict this seizure, so no media entry is listed.
 ---
 
 After placing a Onex locker under round-the-clock surveillance, officers took an

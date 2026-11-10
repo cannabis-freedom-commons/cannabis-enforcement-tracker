@@ -44,7 +44,6 @@ open_questions:
   - The farm's exact location in the Hérault is not given beyond a few kilometres from Montpellier.
   - None of the nine was named, and no trial date or court outcome is reported.
   - Only one source for the case could be found and opened.
-  - The page's only photo is a generic AFP illustration of a hemp field, not an image of this case, so no media entry was added.
 ---
 
 Nine people, men and women aged 22 to 32, were placed under formal investigation

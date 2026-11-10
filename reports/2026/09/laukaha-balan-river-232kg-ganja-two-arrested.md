@@ -41,7 +41,6 @@ open_questions:
   - The ganja was seized during the arrest and not destroyed, and the report gives no count of plants or area.
   - Charges were registered under the NDPS Act but no specific sections, court outcome or final investigation result were reported.
   - The report says police acted on information received around 9am on 2 September 2026 but does not say when the arrest itself took place that day.
-  - The submitted page shows one image captioned only with the headline, with no credit or caption confirming it depicts this seizure, so no media entry is included.
 ---
 
 Laukaha police arrested two Nepalese nationals and seized 23.2kg of ganja worth

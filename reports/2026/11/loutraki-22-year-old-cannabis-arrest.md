@@ -56,7 +56,6 @@ open_questions:
   - The exact location within Loutraki was not named.
   - No charge, custody decision or court outcome was reported; the preliminary investigation was still under way.
   - Only one accessible source for this event was found after searching in Greek.
-  - The page image carries no caption or descriptive alt text establishing that it shows this seizure, so no media entry is included.
   - The page image is a generic police photograph dated July 2026 with no caption describing this seizure, so it is not listed as media.
   - Loutraki Blog reproduces the same Corinthia police statement as the outlets already cited and gives no weight, charge or court outcome, so it is not independent reporting.
   - The article calls the suspect only a 22-year-old and does not repeat that he is Greek or give other identifying details.

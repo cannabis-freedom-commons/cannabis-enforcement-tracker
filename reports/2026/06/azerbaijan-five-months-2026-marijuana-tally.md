@@ -55,7 +55,6 @@ open_questions:
   - The 2,110 people held criminally liable and the 3,766 crimes are all-drug national figures for the period, not all of them tied to cannabis, and no court outcomes are reported.
   - Operativmm.az gives the all-drug total once as 4 tonnes 263.1 kg 169.4 grams and once as 4 tonnes 263.1 kg 533.1 grams; the br.az report rounds it to 4 tonnes 263.1 kg.
   - The working group's own statement was not found opened online; the account rests on three outlets reporting it.
-  - The page photo carries only the article headline as its caption and is not established to picture these seizures, so no media entry is included.
   - No district breakdown or cannabis-only valuation was published.
 ---
 

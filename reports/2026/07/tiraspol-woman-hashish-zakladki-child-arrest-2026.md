@@ -51,7 +51,6 @@ open_questions:
   - The woman was not named; the sources give only her age of 41 and that she lives in Bender.
   - No court outcome was reported; only the penalty the sale charge could carry was stated.
   - The ministry's post is dated only by its Telegram position around 7 July 2026, and the article gives no separate date for the Interior Ministry's statement.
-  - The only photo on the article is captioned as a thematic archive picture, and the ministry's Telegram post carries no photo here, so no media entry is included.
 ---
 
 Police detained a 41-year-old woman from Bender in Tiraspol on suspicion of drug

@@ -63,7 +63,6 @@ open_questions:
   - Whether the 3,895 plants were seized and destroyed or taken as evidence is not stated; they are recorded as plants_destroyed, the tracker's total for seized plants.
   - The accounts give no street value or grow area for the farm.
   - The KOKH report and the KTUL report reproduce the same OBN statement, so they are not independent reporting; OBN's own Facebook post could not be opened.
-  - The submitted page's images are OBN handouts; the second image on the page carries no caption confirming it shows this seizure, so only the captioned OBN photo is listed.
 ---
 
 Oklahoma Bureau of Narcotics agents served a search warrant at an illegal

@@ -81,10 +81,7 @@ open_questions:
   - The 895 euros is seized cash, not a fine or drug valuation, and is not recorded in figures.
   - The two prison entries are pretrial remand, not a court sentence, so no prison figure is recorded and no further court outcome was reported.
   - 'Left out, as its quotation was not found in La Voz de Tomelloso: The first two searches yielded 3,995 grams of buds and marijuana plants left to dry, plus a scoped long gun and a short gun ready to fire with ammunition.'
-  - The page carries two photos sharing the same generic caption about the investigation, which does not describe what each photo shows, so no new media entry is added.
-  - The La Noción page image has only the generic alt text “Foto de la noticia” with no caption identifying what it depicts, so no media entry is added from this source.
   - The La Noción account notes the police release does not clearly classify the short firearm described as ready to fire.
-  - This account gives an itemised total of 5,667.87 grams of marijuana while the existing report uses the higher official total of more than 6.5 kilograms reported by other outlets.
 ---
 
 National Police detained four people, two men and two women including a minor,

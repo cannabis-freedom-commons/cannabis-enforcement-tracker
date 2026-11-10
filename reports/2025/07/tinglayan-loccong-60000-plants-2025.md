@@ -43,7 +43,6 @@ open_questions:
   - No peso value for the destroyed plants was published.
   - No cultivators were caught, and no follow-up identification was reported.
   - Only the PDEA-Cordillera press-release account could be opened; no independent second account was found.
-  - The release page carries file photos that could not be verified as showing this operation, so no media is listed.
 sources:
   - title: KALINGA MARIJUANA PLANTATION SET ON FIRE
     url: https://www.filipinonewssentinel.com/kalinga-marijuana-plantation-set-on-fire/

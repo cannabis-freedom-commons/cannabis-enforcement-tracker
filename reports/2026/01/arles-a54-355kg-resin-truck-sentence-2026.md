@@ -76,7 +76,6 @@ sources:
     language: fr
 open_questions:
   - 'Midi Libre is paywalled after its first two paragraphs: the paper''s own account of the sentence was not read, and the custodial term, entry ban, fine and confiscation come from ICI Gard Lozère and Police & Réalités.'
-  - 'The sources differ on the court: the submitted page and a taxi-arles.com rewrite name the Tarascon court, while ICI Gard Lozère and Police & Réalités say the driver was judged in Marseille; the Marseille accounts are used.'
   - The driver's nationality is given as Spanish in the customs statement quoted by Midi Libre but as a Dominican national resident in Spain by ICI Gard Lozère and Police & Réalités.
   - Police & Réalités calls the hearing 3 February a sitting of the public prosecutor's office ('parquet de Marseille'); the exact court that gave the sentence is unclear.
   - The customs figure is given as 355 kg, while headlines and the Midi Libre lead say 'more than 300 kg'; the 355 kg customs total is used.

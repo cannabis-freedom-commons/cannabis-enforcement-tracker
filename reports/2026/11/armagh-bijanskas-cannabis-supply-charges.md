@@ -41,7 +41,6 @@ open_questions:
   - No arrest details were reported; the account begins at the court hearing.
   - The outcome is not yet known because the case was adjourned to 1 December for further consideration.
   - Only one source could be opened; a search for a second report of the same hearing returned only the same article.
-  - The submitted page carries a lead image with an empty caption and credit, so whether it shows this event could not be established and no media entry is added.
 ---
 
 A 34-year-old man appeared before the courts in connection with a series of

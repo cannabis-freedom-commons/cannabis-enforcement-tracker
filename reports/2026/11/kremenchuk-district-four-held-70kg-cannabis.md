@@ -77,7 +77,6 @@ open_questions:
   - No plant count was published beyond the charge threshold of 50 or more cannabis plants.
   - The suspects were not named and no plea or trial outcome was reported; the pre-trial investigation was continuing.
   - A brief mention of a detained 35-year-old Kremenchuk drug-sale suspect is a separate event left out of this report.
-  - The submitted page gives no separate date for the searches, suspicion notices or custody decision; it is a follow-up account published on 6 November 2026, a day later than the first coverage.
   - The page's photos have no captions and could not be confirmed as showing this event, so none was linked.
   - The page's two uncaptioned photos of cannabis are not established to show this group's plot or seizure, so none was linked.
   - Left out arrested, as no supporting quotation was given.

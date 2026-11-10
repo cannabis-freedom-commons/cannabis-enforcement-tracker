@@ -51,10 +51,7 @@ open_questions:
   - The article does not say whether the $72,000 estimate is in Eastern Caribbean or another dollars, so it is recorded as EC dollars, the currency Antigua uses.
   - Only one account of this seizure could be opened, and it is a brief four-paragraph report published two days after the operation.
   - The article gives no detail on the parcels' origin or destination, and does not say whether they were sent by post or bound for posting.
-  - The featured photo carries no caption or credit naming this seizure, so no media entry is included.
   - This General Post Office seizure is separate from a February 2023 seizure at the same office reported as part of a three-seizure week; no source links the two apart from the shared location.
-  - Antigua News gives the currency of the $72,000 estimate only as a dollar sign, as the existing report already notes.
-  - The submitted page carries an uncaptioned photo of a post office building, so no media entry is added.
 ---
 
 Police and customs officers seized 12 pounds of cannabis at Antigua's General

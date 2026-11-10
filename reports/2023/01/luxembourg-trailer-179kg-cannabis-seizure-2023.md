@@ -36,7 +36,6 @@ open_questions:
   - No arrest, charge or court outcome is reported for this trailer check.
   - The weight is given only as around 179 kilos and no value was published.
   - The same article reports separate cases from the same period, including a truck from Spain with around 290 kilogrammes of hashish and a February train passenger with heroin and hashish; they are different events left out of this report.
-  - No gallery picture is separately captioned as showing the trailer search, so no media entry is included.
 ---
 
 At the end of January 2023, Luxembourg customs officers checked a lorry trailer

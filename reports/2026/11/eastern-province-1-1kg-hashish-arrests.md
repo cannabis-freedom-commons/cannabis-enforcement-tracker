@@ -57,10 +57,6 @@ open_questions:
   - No names, ages or further identifying details of the four suspects were published.
   - No court outcome beyond referral to the Public Prosecution was reported.
   - Only one accessible source for this event was found after searching in Arabic.
-  - The page image is an outlet logo with a title-only caption and does not show this seizure, so no media entry is included.
-  - The new page carries an image captioned only with the article title and no credit, which does not establish that it shows this seizure, so no media entry is added.
-  - The new page calls the three Ethiopians residents, while the existing report calls them border-security violators based on earlier sources.
-  - The page image is captioned only with the article title and carries no credit, so it does not establish that it shows this seizure and no media entry is added.
 ---
 
 Saudi Arabia's General Directorate of Narcotics Control arrested four people in

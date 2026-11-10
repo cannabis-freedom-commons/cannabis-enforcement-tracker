@@ -60,7 +60,6 @@ open_questions:
   - No total number of people detained was given, only that several others besides the main suspect were arrested.
   - The age, identity and charges against the detainees were not disclosed, and no court outcome has been reported.
   - All three outlets attribute the account to the Interior Ministry-linked Facebook page Héroes del Moncada rather than to a police or ministry statement opened directly.
-  - The submitted page's own picture is a Shutterstock stock photo of a marijuana plantation and is not used; the only case photo found is the Héroes del Moncada image republished by Periódico Cubano, a possible official Facebook post screenshot rather than an outlet photograph.
   - Separate earlier Santiago de Cuba cases in the same articles, including the La Tabla plantation in Tercer Frente and the April 12-year prison sentence, are different events left out of this report.
 ---
 

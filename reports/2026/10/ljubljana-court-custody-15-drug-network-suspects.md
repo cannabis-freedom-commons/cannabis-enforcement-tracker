@@ -52,11 +52,9 @@ open_questions:
   - The court's account came through the STA news agency; the sources do not say which of the defendants the November extension covers or exactly how many.
   - The 51 kilograms of cannabis is police data published on 6-8 October; the November report does not revise it.
   - No charges, indictment or trial date was reported; the case remained at the pre-trial stage.
-  - The submitted page's only image is a 2025 file photograph of the Constitutional Court building, not of this case, so no photo is listed.
   - The suspects are identified only by the countries where they lived; no personal details were published.
   - The text gives a weight ("51 kilograms") but the figures have no kg_seized; check whether it belongs there.
   - Left out arrested, as its quotation was not found in Regional Obala.
-  - TV3 credits the text to the STA news agency, the same agency behind the November decision account the existing report already cites, so it is not independent reporting of the court's decision.
 ---
 
 Ljubljana District Court held a custody hearing for 15 suspects in a four-year

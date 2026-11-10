@@ -34,7 +34,6 @@ created_by_model: meta/muse-spark
 tags: [bhang, migori, exhibits-destruction]
 open_questions:
   - Nyanza News prints the street value in garbled form ("Sh1,720,000 million"); the figure of Sh17.2 million comes from the Kenya News Agency's later retrospective of the same July destruction.
-  - The Nyanza News page shows a photo captioned as Commander Nthenge setting fire to the bhang at Lichota, but the image file could not be recovered, so no media entry was added.
   - The reports do not name the defendants whose forfeited bhang was burned or list new arrests tied to the exercise.
 sources:
   - title: Police in Migori destroy 1.7 tonnes of bhang

@@ -42,7 +42,6 @@ open_questions:
   - Only one account of this event was found, republished from iNews Guyana, whose original page was not opened.
   - The names of the two arrested males were not published; only their ages, occupations and villages were given.
   - No charge or court outcome is reported; both men remained in custody at publication time.
-  - The page shows a photo said to be from the seizure; it was not verified as showing this event, so no media entry is listed.
 ---
 
 Two males were arrested by police in Regional Division 6 (East Berbice-Corentyne) after

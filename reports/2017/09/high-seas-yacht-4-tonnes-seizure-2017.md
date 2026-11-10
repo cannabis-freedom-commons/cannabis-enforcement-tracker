@@ -42,7 +42,6 @@ open_questions:
   - Only one source for this seizure could be found.
   - The article is datelined 7 September and says the seizure happened this week, so 7 September is used as the event date.
   - The article reports a separate one-tonne seizure at Karaburun, Vlora, a different event left out here.
-  - The article's photo carries no caption tying it to this seizure, so no media entry is recorded.
 ---
 
 Italian authorities seized about four tonnes of marijuana from a luxury yacht

@@ -44,7 +44,6 @@ open_questions:
   - 'Island breakdown figures are approximate: approximately 5,800 kilos, more than 800 kilos and nearly 1,000 kilos.'
   - No cannabis-only monetary value was published; the more than 250,000 euros in cash, handgun, weapons and documents are therefore excluded from cannabis figures.
   - Only one accessible source for this event was found; no second outlet or agency statement could be opened.
-  - The page contains event photos with only generic image labels and no descriptive captions, so no media entry is included.
   - No court outcome beyond provisional imprisonment of 16 detainees was reported; the investigation was still open.
 ---
 

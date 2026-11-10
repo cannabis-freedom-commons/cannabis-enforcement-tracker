@@ -53,8 +53,6 @@ open_questions:
   - The suspect's name was not published, only his age and citizenship.
   - No court outcome was reported; the case was at the investigation stage.
   - Both accounts relay the same Interior Ministry statement via Ekho Kavkaza, so they are not independent.
-  - The submitted page's image shows a different detainee's prison complaint, not this seizure, so no media entry is included.
-  - The submitted page also mentions separate Russian drug cases in Georgia, including Zin възможно Zinоvkina and Gribul, Kuprin, Chechin and protest-related cases, which are different events left out here.
 ---
 
 Police in Georgia detained a 46-year-old Russian citizen on suspicion of growing

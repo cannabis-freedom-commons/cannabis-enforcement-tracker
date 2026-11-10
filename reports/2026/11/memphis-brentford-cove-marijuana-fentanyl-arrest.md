@@ -39,7 +39,6 @@ open_questions:
   - The 3.95 pounds of fentanyl, the xylazine and the amphetamine are non-cannabis substances and are excluded from cannabis figures.
   - No plea or court outcome was reported; the case was at the charged stage when the article was published.
   - Only the WREG account, which relies on the Shelby County Sheriff's Office, could be opened; no independent second outlet or the sheriff's own release was found.
-  - The submitted page shows only a sheriff's booking photograph of the accused, so no photo of the marijuana, the firearms or the homes is listed as media.
   - The 3700 block of Jerusalem and the area around Fairway are named as another search and sales location but not identified more precisely.
   - The text gives a weight ("1.79 kg") but the figures have no kg_seized; check whether it belongs there.
   - The Yahoo News page carries the same WREG text and no independent reporting, so it adds no new facts about the marijuana seized.

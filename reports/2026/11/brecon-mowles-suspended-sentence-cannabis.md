@@ -66,7 +66,6 @@ open_questions:
   - The street values are the prosecutor's estimates and the total cannabis value was not stated; the higher figure of £220 for one bag is used.
   - The earlier report said he would be sentenced at Cardiff Crown Court on 1 October, but sentencing took place at Merthyr Tydfil Crown Court on 9 November; no explanation for the change was published.
   - The £60 cash was seized but the article does not say whether a forfeiture order was made for it.
-  - No photograph of the search, the shed or the seized drugs was published; the lead image is a picture of the defendant credited to Newsquest, so no media entry is added.
   - Only one outlet's reports of this case were found, and the sentencing article and the September article are the same publisher.
 ---
 

@@ -59,11 +59,9 @@ sources:
     language: hi
 open_questions:
   - No separate date is given for the arrest; 7 November 2026, the date of the first report and the submitted URL, is used as the incident date, while Amar Ujala published on 8 November 2026.
-  - The submitted page image carries a 2021 file path and is not confirmed to show this seizure, so no media entry is listed.
   - The reports allege a second woman associate sold ganja with the accused, but give no name and report no second arrest.
   - No court outcome beyond the planned production and remand request was reported.
   - The opened capture is truncated behind a paywall/login wall, so the accused's name, the cash description and any case or court details could not be read in this source.
-  - No separate incident date is given; 7 November 2026 from the existing report is retained while this source published on 8 November 2026.
 ---
 
 Hisar's Anti-Narcotic Cell arrested a woman named Rinku on 33 Foota Road in Azad

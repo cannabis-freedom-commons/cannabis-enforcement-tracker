@@ -46,7 +46,6 @@ open_questions:
   - The sources give no origin or intended destination for the consignment.
   - 'No arrest was reported: the suspects fled while the suitcase was being checked, and no one has been named.'
   - Only one independent account beyond HMTV, Udayam Digital, was found, and it repeats the same brief police version.
-  - The page photo of the HMTV article is captioned only "Bapatla" and is not established to show this seizure, so no media entry is included.
 ---
 
 Government Railway Police officers at Bapatla railway station in Andhra Pradesh

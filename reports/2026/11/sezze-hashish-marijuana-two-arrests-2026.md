@@ -79,9 +79,6 @@ open_questions:
   - The reports give the 70-gram marijuana figure as just under 70 grams and other weights as approximate, so the 1.08 kg total sums the stated approximate weights.
   - The small hashish amount found on one youth on the street was described only as a modest quantity and is not included in the quantified total.
   - No validation-hearing outcome or later court result was reported.
-  - The submitted page's photo caption does not establish that the image shows this seizure, so no media entry is included.
-  - The h24 notizie page is dated 6 November 2026 and gives no separate date for the street check or the home searches; the existing report uses 4 November 2026 from its earlier accounts, and this outlet's later date is not treated as the incident date.
-  - This outlet states the operation happened in the afternoon of the previous day, which its 6 November 2026 publication date places on 5 November, while earlier accounts place it on 4 November; the existing report's 4 November 2026 date is kept.
 media:
   - kind: photo
     url: https://www.mondoreale.it/2026/11/sezze-hashish-e-marijuana-due-giovani-arrestati-per-detenzione-ai-fini-di-spaccio/

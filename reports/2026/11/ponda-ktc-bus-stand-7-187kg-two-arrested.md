@@ -86,24 +86,9 @@ sources:
     date: 2026-11-04
 open_questions:
   - The seized material is described as suspected ganja, with no forensic confirmation or court outcome reported beyond arrest and case registration.
-  - The Herald Goa page carries an image file named Screenshot-2026-10-30-111336.png dated before the raid whose caption does not establish that it shows this seizure, so no media entry is added.
-  - The Goan page carries a lead image whose caption does not establish that it shows this seizure, so no media entry is added.
-  - The Goemkarponn article states the police value precisely as Rs 7,18,700, while the existing report records a rounded Rs 718,000.
-  - This source phrases the police value as more than Rs 7.18 lakh, while the existing report records approximately Rs 7.18 lakh; the existing open question about Goemkarponn's precise Rs 7,18,700 figure remains.
   - The village-level addresses, the exact 1.22 am to 4.59 am time window, Crime No. 21/2026, the two panch witnesses and PSI Sanket Naik's role are from the earlier sources and are not repeated in this source.
-  - The page carries a thumbnail captioned only with the headline, which does not establish that it shows this seizure, so no media entry is added.
-  - This source phrases the police value as more than Rs 7.18 lakh, while the existing report records approximately Rs 7.18 lakh.
   - The exact 1.22 am to 4.59 am time window, Crime No. 21/2026, village-level addresses, two panch witnesses and PSI Sanket Naik's role are from the earlier sources and are not repeated in this source.
-  - This source describes Ashish Shirodkar as in-charge DSP, while the existing report records SP Ashish Shirodkar.
-  - The page thumbnail is captioned only with the headline about ganja smuggling in Goa and does not establish that it shows this seizure, so no media entry is added.
-  - The Deshbandhu page's lead image is captioned only with the headline and does not establish that it shows this seizure, so no media entry is included.
-  - This source describes Ashish Shirodkar as in-charge DSP and gives only Muzaffarpur and Siwan districts for the accused, while the existing report records SP Ashish Shirodkar and village-level addresses from earlier sources.
   - The village-level addresses, the exact 1.22 am to 4.59 am time window, Crime No. 21/2026, the two panch witnesses and PSI Sanket Naik's role are from earlier sources and are not repeated in this source.
-  - The page image is captioned only as featuredImage and does not establish that it shows this seizure, so no media entry is added.
-  - The page image captioned Goa Police Ganja Seizure at Ponda does not establish that it shows this 7.187 kg seizure, so no media entry is added.
-  - This Goemkarponn account gives the police value precisely as approximately Rs 7,18,700, while the existing report records a rounded Rs 718,000.
-  - The page image is captioned only with the headline and does not establish that it shows this 7.187 kg seizure, so no media entry is included.
-  - The page image is captioned only with the headline and does not establish that it shows this 7.187 kg seizure, so no media entry is added.
 ---
 
 Goa Police's Anti-Narcotic Cell arrested two men from Bihar during a raid at the

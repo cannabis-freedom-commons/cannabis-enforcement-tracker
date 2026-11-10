@@ -96,12 +96,6 @@ open_questions:
   - >-
     The governor's release gave no captions for its operation photos, and two uncaptioned, uncredited images
     on The Marijuana Herald page were left out.
-  - >-
-    The new outlet rounds the nine-month seizure to more than 139,000 pounds while the existing report records
-    139,293 pounds from the Governor's release.
-  - >-
-    The page's sole image is a generic close-up of cannabis leaves captioned as a natural cultivation setting
-    and does not show this operation, so no media entry is included.
   - The announcement gives no breakdown of the estimated $91 million third-quarter value by county or product.
   - >-
     A three-day Lancaster operation also recovered firearms and methamphetamine; only the cannabis figures and

@@ -117,22 +117,8 @@ open_questions:
   - The search is dated only as 25 July with no year stated in the article text.
   - The cannabis weight is stated only as more than 8 kilograms and is recorded as 8 kg.
   - Whether the lead photo on the source page shows this seizure could not be established from its caption.
-  - The submitted page carries a lead image captioned only with the headline, which does not establish that it shows this seizure, so no media entry is added.
-  - The new account reports more than 10 kilograms of dried material, while the existing report records more than 8 kilograms for the same 14-plant seizure.
-  - The new account dates the exposure only to July 2026 and does not name the Ingulsky District Court, the 25 July search date, the April start of cultivation or the prior conviction recorded in the existing report.
-  - The page carries four images with empty captions and alt text, so no media entry can be confirmed to show this seizure.
-  - The new accounts report more than 10 kilograms of dried material, while the existing report records more than 8 kilograms for the same 14-plant seizure.
-  - The new pages were published on 3 November 2026, one day after the existing report's 2 November 2026 date, and give no separate sentencing date.
-  - The new account does not name the Ingulsky District Court, the 25 July search date, the April start of cultivation or the prior conviction recorded in the existing report.
-  - The page's lead photo is captioned only with the headline, so it cannot be established to show this seizure and no media entry is added.
-  - The page's only photo is labelled as an illustrative National Police photo rather than this seizure, so no media entry is added.
-  - The Russian translation dates the search only to July 2026 without a day, while the existing report records 25 July from other sources.
   - The page gives no separate sentencing date; 3 November 2026 is its publication date.
-  - The English account reports more than 10 kilograms of dried material, while the existing report records more than 8 kilograms for the same 14-plant seizure.
   - The English account gives no separate sentencing date; 3 November 2026 is its publication date.
-  - The page's lead image is described as cannabis and dried material seized during a Mykolaiv search, but without a credit linking it to this seizure no media entry is added.
-  - The Russian version reports more than 10 kilograms of dried material, while the existing report records 8 kg from earlier sources for the same 14-plant seizure.
-  - The page's photo is captioned as cannabis and dried material seized during a Mykolaiv search but carries no credit linking it to this seizure, so no media entry is added.
 ---
 
 Ingulsky District Court in Mykolaiv sentenced a local resident to nine years in

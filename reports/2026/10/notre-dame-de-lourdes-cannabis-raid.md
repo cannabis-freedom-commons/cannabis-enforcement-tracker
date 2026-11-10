@@ -47,7 +47,6 @@ open_questions:
   - 'The two accounts list the seized property differently: CFNJ names the boats, watercraft and cash, while L''Action also lists a snowmobile, an ATV, a farm tractor, three trailers and a 2025 Ford F250.'
   - Both drug weights and the cash amount are minimums ("more than"); the 1.425 kg in figures is the sum of the two stated minimums, and no market value was given for the drugs or vehicles.
   - Neither report says whether anyone was in the residence, how the drugs were stored, or what the home was used for.
-  - 'No photograph of the search was published: the CFNJ page carries only a Sûreté du Québec logo and the L''Action page a 2022 police file photo, so no media is linked.'
   - 'Left out, as its quotation was not found in L''Action: Officers also took a snowmobile, an all-terrain vehicle, a farm tractor, three trailers of various types and a 2025 Ford F250 pickup truck.'
 ---
 

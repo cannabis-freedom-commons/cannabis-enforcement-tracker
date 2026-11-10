@@ -61,7 +61,6 @@ open_questions:
   - The cannabis figure counts only the reported 4.1 kg of maconha; the 501 g of crack from the same stop is excluded from kg_seized.
   - Whether the lead PMSC-credited photo depicts this seizure could not be independently established beyond its caption.
   - The opened page contains no readable article body beyond its title and a YouTube embed, so quantities, arrests and circumstances cannot be checked in this account.
-  - The page was published on 3 November 2026 while the existing report dates the BR-470 stop to 2 November 2026; the difference appears to be publication timing for the same seizure.
   - The lead image listed as Drogas Agron was not added as media because its caption does not establish what it depicts.
 ---
 

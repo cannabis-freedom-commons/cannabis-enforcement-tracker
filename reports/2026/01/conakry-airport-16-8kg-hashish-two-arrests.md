@@ -50,7 +50,6 @@ open_questions:
   - The police statement as reported describes the possible charges as detention, transport and international trafficking of cocaine and psychotropic substances, while the seizure it describes is 16.8 kg of hashish; the report records the stated charges without resolving the mismatch.
   - The exact place of the second arrest on 19 January 2026 was not specified beyond capture by the OCAD research brigade.
   - No court outcome beyond referral to the Mafanco Court of First Instance was reported.
-  - The submitted page's only image is captioned as an illustration of the police spokesperson, not the seizure or arrests, so no media entry is included.
 ---
 
 Guinea's national police anti-drug units arrested two women in a hashish case

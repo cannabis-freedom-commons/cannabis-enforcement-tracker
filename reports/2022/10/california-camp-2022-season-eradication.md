@@ -53,7 +53,6 @@ open_questions:
   - The announcement reports no arrests for the 2022 season.
   - The 184 seized weapons are mentioned in the text but the figures schema stores no weapon count.
   - The 13-week operation ran through the summer; 11 October is the announcement date.
-  - No photo confirmed to show a 2022 CAMP raid was available, so no media entry was added.
 ---
 
 On 11 October 2022 Attorney General Rob Bonta announced that California's Campaign Against Marijuana Planting (CAMP) had eradicated nearly a million illegally grown cannabis plants during the 2022 season, along with more than 200,000 pounds (about 90.7 tonnes) of processed cannabis. [@1,2] CAMP teams conducted 449 operations across 26 counties, recovering 184 weapons and removing nearly 67,000 pounds of cultivation infrastructure such as dams, water lines and toxic chemicals. [@1,2]

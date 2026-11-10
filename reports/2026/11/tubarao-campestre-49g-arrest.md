@@ -47,7 +47,6 @@ open_questions:
   - No charge, custody decision or later court outcome for the detained Campestre adolescent was reported.
   - Cocaine and crack amounts from the separate São João and Oficinas actions are mentioned only to explain the mixed article and are excluded from cannabis figures.
   - The 49.2-gram and other drug weights are police-reported figures without a reported laboratory confirmation.
-  - The single page image is credited only as Foto PMSC with no descriptive caption linking it to the Campestre seizure, so no media entry is included.
   - The 150 reais is reported as cash seized with the adolescent, not as a valuation of the drugs, so no value figure is recorded.
   - The São João and Oficinas drug actions are separate non-cannabis events left out of this cannabis-focused report.
 ---

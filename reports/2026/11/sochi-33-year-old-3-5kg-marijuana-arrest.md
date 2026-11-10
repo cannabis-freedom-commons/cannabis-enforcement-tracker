@@ -50,7 +50,6 @@ open_questions:
   - The article gives no charge under a named Criminal Code article, no plant count or growing site, and no details of the alleged sales.
   - The man's name and address in Sochi were not published.
   - Both accounts rely on the Krasnodar Krai interior ministry press service; no separate ministry release of this case could be opened.
-  - The submitted page's image is a generic site placeholder ("Заставка заглушка ГИПОРТ"), not a photo of this event, so no media entry is included.
 ---
 
 Police in Sochi detained a 33-year-old local man after he crossed a road where

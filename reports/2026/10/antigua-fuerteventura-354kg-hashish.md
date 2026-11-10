@@ -59,19 +59,15 @@ sources:
 open_questions:
   - The article gives no separate date for the Fuerteventura operation; 28 October 2026 is its publication date.
   - Only one source could be opened for the Fuerteventura seizure; no second account confirming the 354 kg figure could be accessed.
-  - The page image has no caption or credit establishing that it shows this seizure, so no media entry is included.
   - The same article also reports a separate 800 kg hashish seizure in Huelva province, a different event left out here and already recorded as chucena-a49-800kg-hashish.
   - The driver was not named, and the exact beach, SUV details and court identity were not given.
   - The headline calls the hashish Moroccan, but the operation paragraphs describe it only as hashish without a stated basis for the origin.
-  - Europa Press dates the Fuerteventura operation to the early hours of 8 October 2026 with announcement on 26 October, while the existing report uses 28 October 2026 from the earlier Algerian publication date.
   - The submitted article gives no separate operation dates and cites the Algerian press agency rather than the Guardia Civil statement.
   - The submitted article describes the hashish as Moroccan without giving a basis in the operation paragraphs, while the Guardia Civil statement gives no origin.
   - The submitted article combines the Fuerteventura seizure with a separate 800 kg Huelva seizure as a 1,154 kg total, which is recorded separately as chucena-a49-800kg-hashish.
-  - No photo showing this seizure could be linked with a direct media address; the submitted page images are generic or unrelated and the Europa Press image address was not recovered.
   - The headline gives 1150 kg while the body gives 1.154 kg; 1,154 kg is the sum of 800 kg plus 354 kg.
   - The article calls the hashish Moroccan but the operation paragraphs give no basis for that origin.
   - The article gives no separate dates for the two operations; 29 October 2026 is only its publication date.
-  - The page image is captioned with the same headline and no credit and is not established to show this seizure, so no media entry is included.
   - The same article also reports the separate 800 kg Huelva seizure, which is recorded separately as chucena-a49-800kg-hashish.
 ---
 

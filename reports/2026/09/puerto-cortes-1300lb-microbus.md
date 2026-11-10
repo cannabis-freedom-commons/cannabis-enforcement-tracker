@@ -47,8 +47,6 @@ open_questions:
   - kg_seized converts 1,300 lb to about 589.7 kg; sources gave only pounds.
   - The Facebook post's own publication date could not be read behind the login wall, so 19 September 2026 follows the corroborating outlets.
   - The Facebook readable-text capture omits the post body behind login, so the match uses its captured title and description together with accessible outlets.
-  - Tiempo and the police video describe the load as more than 500 kilograms pending inspection, while later counts give 1,300 pounds; the existing report keeps the final 1,300-pound figure.
-  - No media entry is included because the Facebook thumbnails sit behind login and direct image addresses for the Tiempo police-handout photos were not extracted.
   - 'Left out, as its quotation was not found in Policía Nacional de Honduras: They found 28 rectangular bales containing 1,300 pounds of suspected high-grade marijuana.'
   - 'Left out, as its quotation was not found in Policía Nacional de Honduras: Three men aged 29, 55 and 68 were detained on preliminary aggravated drug-trafficking charges and handed to the competent authorities.'
 sources:

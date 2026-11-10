@@ -58,7 +58,6 @@ sources:
 open_questions:
   - Both detailed verdict accounts come from Sponichi; no second outlet's report of the verdict could be opened.
   - The volleyball blog corroborates the sentence but not the arrest details.
-  - Sponichi's pages carry a photograph of Sato that could not be verified as showing this event, so no media entry is made.
   - The reports mention no fine.
 ---
 

@@ -46,7 +46,6 @@ open_questions:
   - The account gives the drugs only as found on the ground and does not say who abandoned the bags.
   - No street value was published for any of the drugs.
   - Only one accessible source for this operation was found after searching in French.
-  - The page images are a generic RCI illustration and pictures belonging to other stories, so no media entry is included.
 ---
 
 National police ran an identity-check operation in the Bas-du-Bourg district of

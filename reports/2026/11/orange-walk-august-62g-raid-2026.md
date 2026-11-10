@@ -47,9 +47,7 @@ open_questions:
   - The 16.1 grams and 46.2 grams are police-reported weights of suspected cannabis, with no laboratory confirmation published.
   - The 46.2 grams found outside the fence were recorded as found property and were not part of the charge against August; the reported cannabis total combines both finds.
   - The 12.2 grams of suspected crack cocaine are excluded from cannabis figures as a separately reported non-cannabis substance.
-  - The page carries a photograph with empty caption, credit and alt text, so it cannot be established to show this seizure and no media entry is included.
   - No arrest separate from the same-day charge was reported.
-  - The submitted page carries a photograph with empty caption, credit and alt text, so it cannot be established to show this seizure and no media entry is included.
   - The new account omits the suspect's name and the 16.1-gram pocket quantity, so it does not contradict the existing figures for the charge.
 ---
 

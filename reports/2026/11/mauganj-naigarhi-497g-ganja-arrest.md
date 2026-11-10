@@ -57,7 +57,6 @@ open_questions:
   - 'The exact roadside location is not reconciled: Bhaskar places it north of Bahuti bridge on Sumeda Kala road, while Public Vani places it in Sumeda Kala village on the Katra–Mauganj road.'
   - Although the accounts describe an arrest, Bhaskar says police served a notice under BNSS section 35(3) because the case was bailable; neither account clarifies whether he was formally arrested or held in custody.
   - No charge sheet, later court appearance or court outcome was reported.
-  - The submitted page's uncaptioned image and 25-second video, and Public Vani's uncaptioned images, are not clearly established as showing this action, so no media item is included.
   - Coordinates are an approximate Mauganj reference, not the exact roadside stop.
   - Both accounts relay the police version; no separate police statement was opened.
   - The captured page ends mid-sentence after the accused's residential line, so the detail that police served a BNSS section 35(3) notice appears only in the wider page markup, not in the readable text.

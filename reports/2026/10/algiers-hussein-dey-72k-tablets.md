@@ -46,7 +46,6 @@ open_questions:
   - No names, ages or nationalities of the four suspects were published.
   - The reports do not say what charges were brought, whether the four were held in custody or what happened after their appearance before the prosecutor.
   - Both accounts reproduce the same Algiers wilaya security directorate communiqué, so the figures are the police's own and were not independently confirmed.
-  - The images on the two pages carry only generic captions ('psychotropes', 'Drogue kif kif traité') and no credit, so they could not be confirmed as photographs of this seizure and no media link is recorded.
   - 'Left out, as its quotation was not found in Fil d''Algérie: The four suspects were presented to the public prosecutor at the Hussein Dey court at the end of the legal procedures.'
 ---
 

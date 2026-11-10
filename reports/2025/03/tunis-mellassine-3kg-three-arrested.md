@@ -44,7 +44,6 @@ open_questions:
   - No amount was published for the seized cash and no description was published for the two vehicles beyond their use.
   - No court outcome beyond detention and the continuing investigation was reported.
   - Only one accessible source was found for this event after searching in French and English, so no second account could corroborate it.
-  - The page carries a photo captioned with the article title, but its content could not be confirmed to show this seizure, so no media entry is included.
 ---
 
 National Guard officers dismantled a drug-trafficking network and arrested three

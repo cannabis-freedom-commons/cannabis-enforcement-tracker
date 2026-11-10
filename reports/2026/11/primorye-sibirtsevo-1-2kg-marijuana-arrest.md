@@ -46,7 +46,6 @@ open_questions:
   - The articles give only publication dates of 1 November 2026 and no separate date for the detention, so 1 November 2026 is used as the incident date.
   - The woman's name and age were not published.
   - No court outcome was reported; the investigation was still continuing and the pretrial measure was a pledge not to leave.
-  - The PRIMPRESS page photo is credited only to magnific with no caption establishing that it shows this seizure, and the PrimaMedia photo is explicitly labelled as a thematic stock photo, so no media entry is included.
   - No direct police statement page was opened; the detention is reported through the Primorye police press service as cited by PrimaMedia.
 ---
 

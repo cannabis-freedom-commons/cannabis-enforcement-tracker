@@ -48,7 +48,6 @@ open_questions:
   - The full names, ages and alleged roles of the six suspects were not published, only their initials.
   - No laboratory weight, sack count or packaging detail beyond 140 kilograms in sacks was published.
   - No outcome after the remand in custody was reported.
-  - The submitted page image is a no_image.jpg placeholder with no depiction of the seizure, so no media entry is listed.
 ---
 
 Elazığ police detained six suspects identified only by the initials H.A., B.A.,

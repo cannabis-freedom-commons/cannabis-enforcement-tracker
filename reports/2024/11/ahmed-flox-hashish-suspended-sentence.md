@@ -59,7 +59,6 @@ sources:
 open_questions:
   - No weight for the hashish was published; only one cigarette containing the drug was described, so no cannabis quantity can be recorded.
   - The exact day of the initial seizure was not published beyond November 2024; 24 November 2024 is the publication date of the contemporary appeal reports and is used as the incident date for the appeal ruling.
-  - The submitted page's photograph is captioned only with the actor's name and is not established to show this seizure, so no media entry is included.
   - The two-year prison term and 200,000-pound fine in the separate defamation case are not cannabis figures and are left out of the structured data.
 ---
 

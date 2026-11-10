@@ -37,7 +37,6 @@ tags: [hashish, guerguerat, dgsn]
 open_questions:
   - Only one source could be opened for this event; a second account of the same seizure could not be recovered.
   - No breakdown of the load between the two trucks was published.
-  - The source page carries a seizure photo that could not be verified as showing this event, so no media is listed.
 sources:
   - title: "Al-Karkarat: Thwarted Attempt to Smuggle Two Tons of Hashish into Africa"
     url: https://en.expresstv.ma/2025/05/al-karkarat-thwarted-attempt-to-smuggle-two-tons-of-hashish-into-africa/

@@ -58,9 +58,6 @@ open_questions:
   - Only one source for this event could be opened, as searches in Greek and English found no second account of the same check and arrest.
   - No charge, prosecutor referral, or court outcome was reported for the arrested man.
   - The 3.8 gram total is the sum of the two separately stated weights of 2.5 grams and 1.3 grams.
-  - The page carries images with empty captions and credits, including an older 2020 image, so whether any image shows this seizure could not be established and no media entry is added.
-  - The submitted page describes the man only as a 30-year-old man and does not state a nationality, while the existing report describes him as a Greek national from its earlier source.
-  - Whether the lead image on the submitted page shows this seizure could not be established from its empty caption and credit, so no media entry is added.
   - The TrikalaNews roundup also describes two computer-fraud cases and arrests for an environmental offence, pending court decisions and breach of the peace, which are separate events left out here.
   - No charge, prosecutor referral or court outcome for the cannabis arrest is given in this account, and no established photo of this seizure is available from its generic roundup image.
 ---

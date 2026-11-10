@@ -79,7 +79,6 @@ open_questions:
   - The service area is named only as a miejsce obsługi podróżnych (MOP, motorway service area) in Aleksandrów County, so the place is recorded at district precision.
   - The reports give no car registration, no exact charge provision and no court outcome beyond the three-month detention order.
   - The police statement's third photo carries no separate caption confirming its content, so it is left out.
-  - The Eska page's only picture is an AI-generated illustration of a police patrol car, not a photo of the stop or the seizure, so no media entry was added.
   - Eska reproduces the same Toruń police statement credited to Policja.pl, so it is not independent reporting of the arrest.
   - Eska gives no separate court outcome beyond the three-month detention order and no information on the laboratory examination of the seized material.
 ---

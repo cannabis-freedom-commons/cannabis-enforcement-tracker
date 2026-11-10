@@ -54,7 +54,6 @@ open_questions:
   - The reports give the Revenue Service statement date of 7 May 2013 but no separate detention date, so the publication date is used as the incident date.
   - No charges, custody decision or court outcome were reported; the case was handed to the patrol police for further action.
   - Subutex and Lyrica tablet counts are left out of cannabis figures because they are not cannabis products.
-  - The submitted page carries a photo whose caption repeats the headline and does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Officers of the Georgian Revenue Service Customs Department and the patrol

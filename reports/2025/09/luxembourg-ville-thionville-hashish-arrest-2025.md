@@ -44,7 +44,6 @@ open_questions:
   - No charge, custody ruling or court outcome was reported; the case had only reached an investigating judge.
   - The event is dated 29 September 2025 from the text; 30 September 2025 is the article's publication date.
   - Only one accessible source for this event was found; no independent second account of this check could be opened.
-  - The page photo is captioned only as an archive picture credited to Le Quotidien's archives and is not established to show this arrest, so no media entry is included.
 ---
 
 A suspected drug dealer was arrested in Luxembourg City during an identity check

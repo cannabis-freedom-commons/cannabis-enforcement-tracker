@@ -43,7 +43,6 @@ open_questions:
   - The article gives no separate date for the operation; 1 December 2024 is its publication date.
   - No arrests or growers were reported.
   - Only one full account could be opened; a matching OrissaDiary report could not be opened for verification.
-  - The only photo on the page is marked as a representational image of a different scene, so no media is listed.
 sources:
   - title: Ganja plantations worth around Rs 17 crore destroyed in Odisha's Gajapati
     url: https://sambadenglish.com/latest-news/ganja-plantations-worth-around-rs-17-crore-destroyed-in-odishas-gajapati-7663721/amp

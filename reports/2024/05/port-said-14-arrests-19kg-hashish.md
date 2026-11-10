@@ -56,7 +56,6 @@ open_questions:
   - No charges or court outcome were reported; police only said the suspects were being referred to the Public Prosecution.
   - The suspects were identified only as unemployed people with criminal records, with no names given.
   - Only one accessible source for this operation was found after searching in Arabic and English.
-  - The page carries no photograph of this event, so no media entry is included.
 ---
 
 Egypt's General Administration for Drug Control arrested people accused of

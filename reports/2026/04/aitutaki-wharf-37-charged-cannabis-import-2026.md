@@ -50,7 +50,6 @@ open_questions:
   - The full article is behind a subscription notice, so any custody, plea, court appearance or next hearing in the rest of the text could not be read.
   - No arrest date is given separately from the 14 April detection; whether the man was detained then or later is not stated.
   - The Cook Islands has no id in the tracker's country registry, so the country field uses the New Zealand entry as the existing Cook Islands reports do, with the islands named in the place.
-  - The page's only image is captioned only with the headline and is not confirmed to show the wharf detection, so no media entry is added.
 ---
 
 A 37-year-old man was charged with importing Class A and Class C controlled

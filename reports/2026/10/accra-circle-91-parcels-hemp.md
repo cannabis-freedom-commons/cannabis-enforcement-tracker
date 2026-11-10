@@ -104,11 +104,7 @@ open_questions:
   - Citi Newsroom does not name the Office of the Special Operations Assistant to the Inspector-General of Police, which Adom Online attributed the arrest to.
   - Citi Newsroom’s photograph is the same police handout already linked from MyJoyOnline (file 877508359), so it was not added again.
   - Graphic Online's headline describes the man as attempting to travel, but its article text reports only that he was arrested at the terminal.
-  - Graphic Online places Sovie Kudzra in the Volta Region, while Modern Ghana and the existing report say the Volta North Region.
-  - The submitted page attributes the arrest to the Police Special Operations Team, while the existing report names the Office of the Special Operations Assistant to the Inspector-General of Police.
-  - The submitted page places Sovie Kudzra near Kpando in the Volta Region, while the existing report says Volta North Region.
   - The blog page states it is managed by its content creator and not GhanaWeb, so it provides no independent editorial verification beyond repeating the police statement.
-  - The page displays an image with no caption, credit or descriptive text, so it cannot be established to show this seizure and no media entry is included.
 ---
 
 The Ghana Police Service arrested 40-year-old Roger Borbobli at the VIP Bus

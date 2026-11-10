@@ -53,7 +53,6 @@ open_questions:
   - The reported Tk 66,000 estimated value covers all seized drugs together and is therefore excluded from cannabis figures, with no cannabis-only value recorded.
   - The report names Alauddin in the same case but does not say he was detained or charged, and no arrest of a second person is recorded.
   - The 5 November 2026 date is the reported Thursday operation date, which matches the publication date.
-  - The source page carries an image captioned only as 13, which does not establish that it shows this seizure, so no media entry is included.
   - Kalbela adds Meherpur deputy director Rashel Ahmed's quoted statement that the directorate will keep pursuing others in the drug trade; no further arrests were reported.
   - Neither account gives a cannabis-only estimated value; the Tk 66,000 figure covers all seized drugs together.
 media:

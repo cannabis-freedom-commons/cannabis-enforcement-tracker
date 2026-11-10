@@ -96,18 +96,14 @@ open_questions:
   - One person involved fled when police arrived; it is not known whether that person was later identified or arrested.
   - No laboratory confirmation of the marijuana was reported.
   - The pesticide weight, about 150 kg, is not a cannabis figure and stays out of the cannabis weight; the R$5,703,641 total covers marijuana, pesticides and the car together.
-  - Correio do Estado and JD1 Notícias say the vehicle was being handed to another driver while the existing report, following Campo Grande News, says the man was handing the loaded vehicle to another person; both describe the same car park handover and the sources do not settle who was taking over.
   - JD1 Notícias lists the Federal Police and the Guaíra municipal guard among the teams in the action, while Midiamax names only the Receita Federal customs office and BPFRON; Correio do Estado attributes both to the Dourados News portal rather than to an agency statement.
   - The Passeio and Correio do Estado images are the same Receita Federal handout as the Campo Grande News photo of the agents, and only the Midiamax addresses could be confirmed directly; no separate photo of the marijuana itself was found.
   - No name, age, charge, custody decision or court outcome beyond referral to the Federal Police in Guaíra was reported.
-  - Only the image's alt text, "PF", is published with the Jornale page; no caption confirms what the photo shows, so it is not added as a media entry.
   - Jornale describes the load in the car as "cerca de 288 quilos", an approximate figure, while the report records exactly 288 kg as given by its other sources.
   - Folha de Dourados does not identify the car, the driver or how many suspects escaped; the Jeep Renegade model comes from the Campo Grande News account already cited in the report.
   - The exact R$ 5,703,641 total is not broken down between marijuana, pesticides and the vehicle, so no cannabis-only value is recorded.
   - The article gives the combined valuation of the pesticides and the marijuana in both its headline and body, without separating the marijuana's value from the pesticides'.
   - Its lead photo is a numbered stock image by Fabio Tito, not evidence of this event, so it is not added as media.
-  - Paraná Hoje puts the loss imposed on organised crime at R$ 857,000, while the existing report's sources give the combined load value as R$ 5,703,641; the two figures are not reconciled and no cannabis-only value is separated.
-  - Paraná Hoje gives the marijuana as 287.5 kg and 'quase 288 quilos', while the existing report records 288 kg.
 ---
 
 A man whose identity was not disclosed was arrested on the morning of Sunday 8

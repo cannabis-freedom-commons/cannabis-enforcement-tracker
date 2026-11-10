@@ -54,7 +54,6 @@ open_questions:
   - Only publication and statement dates are given; 6 October 2026 is used as the incident date.
   - Two episodes appear under one DEC statement, an Mpika operation and an arrest of the Zimbabwean woman that Briefly describes as separate; the 3.2 kilogrammes is not counted in the figures, and the arrest location is not given in the opened accounts.
   - Both accounts draw on the same DEC statement and are not independent reporting.
-  - The page photo is captioned only LOCAL and shows sacks and bundles on a table with no credit or caption tying it to this seizure, so no media entry is added.
 ---
 
 The Drug Enforcement Commission (DEC), Zambia's anti-narcotics agency, jointly

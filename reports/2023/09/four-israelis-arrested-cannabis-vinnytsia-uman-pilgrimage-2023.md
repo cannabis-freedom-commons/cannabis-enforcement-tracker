@@ -56,7 +56,6 @@ open_questions:
   - The Times of Israel describes a crossing outside Vinnytsia near the Moldovan border; the exact crossing point is not named.
   - Ynet's brief dispatch describes drug possession without naming cannabis; the cannabis identification rests on The Jerusalem Post's account.
   - Three other Israelis were separately detained near Vinnytsia after a car crash that killed a woman; that case involves no cannabis and is not covered in this report.
-  - A picture of Hasidic men in Uman on the Times of Israel page is not known to show these arrests, so no media is linked.
 ---
 
 Four Israelis were arrested for cannabis possession at a Ukrainian police

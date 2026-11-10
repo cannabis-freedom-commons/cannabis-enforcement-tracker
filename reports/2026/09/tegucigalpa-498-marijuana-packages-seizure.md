@@ -39,7 +39,6 @@ open_questions:
   - No arrests, charges, names or court outcome were reported.
   - The post gives no separate operation date, so 13 September 2026 is the publication timestamp used as the incident date.
   - Only the police post could be opened; no second outlet account was found after searching.
-  - Three photos are attached to the post without captions or descriptive alt text establishing what they show, so no media entry is included.
 ---
 
 Honduras's National Police announced the seizure of 498 packages of marijuana

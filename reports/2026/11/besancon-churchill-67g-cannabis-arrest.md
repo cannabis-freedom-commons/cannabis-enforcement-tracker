@@ -48,9 +48,6 @@ open_questions:
   - The form of the 67 grams of cannabis, such as herb or resin, was not specified.
   - No court outcome was yet reported; the guilty-plea hearing was still forthcoming.
   - Only one accessible source for this event was found after searching in French.
-  - The page carries an image captioned with the headline, without credit or detail establishing that it shows this seizure, so no media entry is included.
-  - The opened macommune.info account dates the road check to the night of Monday 2 to Tuesday 3 November 2026 with interception at about 02:45, while the existing report describes the night from Sunday to Monday; the 02:45 timing points to the early hours of 3 November.
-  - The macommune.info page shows only a generic police photograph stored under a January 2025 image name with a photographer credit, without detail establishing that it depicts this seizure, so no media entry is added.
 ---
 
 Police in Besançon detained a 20-year-old motorist during the night from Sunday

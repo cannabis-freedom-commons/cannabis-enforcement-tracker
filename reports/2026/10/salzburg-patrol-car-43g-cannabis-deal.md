@@ -49,7 +49,6 @@ open_questions:
   - The 40-gram, three-gram and 43-gram amounts are all reported as approximate, not exact laboratory weights.
   - The precise location within the city of Salzburg was not specified beyond the immediate vicinity of the parked police service vehicle.
   - No court outcome was reported; both men were reported while at liberty and further proceedings are unknown.
-  - The 5min.at main image is a 2023 symbol photo labelled Symbolfoto and does not show this seizure, so no media entry is included.
 ---
 
 In the city of Salzburg, police officers observed a narcotics handover at midday

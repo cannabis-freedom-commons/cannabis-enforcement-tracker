@@ -44,7 +44,6 @@ open_questions:
   - No charge sheet, court appearance or outcome was reported; the case was at the investigation stage when published.
   - No market value was published for the 74.68 grams of ganja.
   - Only one source could be opened for this event, and the rest of the page sits behind a paywall and app block.
-  - The page's lead image carries no caption tying it to this seizure, so no media entry is listed.
 ---
 
 The Andhi police station of Jaipur Rural acted under the Nasha Mukt Bharat

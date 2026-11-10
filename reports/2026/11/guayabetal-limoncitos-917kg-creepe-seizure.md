@@ -80,7 +80,6 @@ open_questions:
   - Both accounts repeat the police version and the Transit director's statement; no separate police bulletin was opened.
   - '''Kamikaze'' is named as the transport modality but neither article explains what the term means beyond moving the load by road.'
   - Coordinates are for the Guayabetal town centre; the precise Limoncitos checkpoint was not mapped.
-  - The Diario del Norte page image carries no caption or credit linking it to this seizure, so no media entry is added.
   - The article gives no separate date for the roadside control; 4 November 2026 is its publication date and is used as the incident date.
   - The article spells the product 'creepy' while other accounts cited in the report write 'creepe'; the report keeps the earlier spelling.
 ---

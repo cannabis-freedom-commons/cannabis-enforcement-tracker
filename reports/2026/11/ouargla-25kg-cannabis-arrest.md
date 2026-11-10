@@ -59,7 +59,6 @@ open_questions:
   - No charge, detention ruling or other court outcome beyond presentation before the territorially competent prosecutor was reported.
   - The reports describe the drug only as cannabis, without a resin, herb or other form breakdown, so the 25 kg is recorded as generic cannabis.
   - Only an unnamed district or quarter of the city of Ouargla was given, not a precise address.
-  - The Horizons page image is captioned only as cannabis and the CapDZ image only as Ouargla, so neither is established to show this 25 kg seizure and no media entry is included.
   - Both accounts repeat the same Ouargla Sûreté de wilaya communiqué rather than providing an independent non-police account.
   - The El Raed and Al-Massar Al-Arabi accounts repeat the same police statement, so they are not an independent non-police account.
   - The police accounts give no charge, custody ruling or court outcome beyond presentation before the Ouargla prosecutor.

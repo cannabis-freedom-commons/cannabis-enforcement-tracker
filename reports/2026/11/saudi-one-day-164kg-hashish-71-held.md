@@ -53,7 +53,6 @@ open_questions:
   - The 71 arrests cover khat, heroin, methamphetamine and pills as well as hashish, so a cannabis-only arrest count cannot be separated.
   - No names, ages or court outcomes were reported.
   - Both outlets reproduce official announcements; no agency statement page or independent weighing was opened.
-  - The pages carry photos with empty or title-only captions that do not establish they show this seizure, so no media entry is added.
 ---
 
 Saudi security agencies said operations across six regions of the Kingdom foiled

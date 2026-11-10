@@ -30,12 +30,10 @@ created_by_model: Meta Muse Spark (via Muse Code)
 tags: [airport, cargo]
 open_questions:
   - The Observer's original page was unreachable behind a browser check, so the account rests on the mirror text; the shipment's origin and any arrests were not reported.
-  - Neither outlet published a photo established as this airport seizure; the Observer lead is a October 2023 drug-bust file image and Nice FM's image filename points to a deepwater-harbour haul, so no media entry is listed.
   - The value is given as $626,400 without stating whether this means Eastern Caribbean or US dollars; the eastern Caribbean dollar is used, as in other Antigua reports.
   - The 140.4-pound weight converts to about 63.68 kg; no metric weight was published.
   - The substance is described only as cannabis, without a stated product form or laboratory confirmation, so it is recorded as flower.
   - No arrests were reported and nothing on the shipment's origin, consignee or intended destination was published.
-  - The page's lead images are file pictures from 2022 named for a drug bust and cannabis, not confirmed to show this seizure, so no media entry is added.
 sources:
   - title: Over half a million in illegal cannabis seized at airport
     url: https://antiguaobserver.com/over-half-a-million-in-illegal-cannabis-seized-at-airport/

@@ -52,7 +52,6 @@ open_questions:
   - Both detainees were held with syrups, liquor and tablets rather than the ganja, which was reported as ownerless; no cannabis charge for either man is stated.
   - Two recoveries are timed just after midnight (12:45 a.m. and 12:55 a.m.); 31 October is used as the incident date because the operation is described as Saturday night's drive.
   - No court outcome beyond pending legal proceedings was reported.
-  - The submitted page carries an image captioned only 'meherpur' and the second page an image repeating the headline; neither caption confirms it shows this seizure, so no media entry is listed.
 ---
 
 Border Guard Bangladesh's Kushtia Battalion (47 BGB) carried out separate

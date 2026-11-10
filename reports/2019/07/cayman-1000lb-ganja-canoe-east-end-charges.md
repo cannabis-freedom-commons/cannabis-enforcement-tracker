@@ -61,7 +61,6 @@ open_questions:
   - The boat's position is given as about 50 miles east of Grand Cayman; no exact coordinate is known.
   - The street value of over CI$1 million is a police estimate; the charging article prints only the dollar sign, read here as Cayman dollars.
   - Cayman News Service's later reports of a guilty plea in September 2019 and six-year sentences in November 2019 are later stages of this case, not covered by this account.
-  - The page's images are advertisements and no photograph of the seized ganja or canoe appears in the submitted page markup, so no media entry is included.
 ---
 
 Two Jamaican men, aged 33 and 59, were on board a drug canoe that police found

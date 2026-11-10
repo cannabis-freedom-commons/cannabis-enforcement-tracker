@@ -50,7 +50,6 @@ open_questions:
   - Only one account of these charges could be opened; no police statement, second outlet report or separate official release was found.
   - The account does not say whether the substance was laboratory-confirmed as cannabis.
   - The 10.7 grams of cocaine found on Jacome is excluded from the cannabis figures under the mixed-event rule.
-  - The page's only image is a file named for the three accused with no caption or credit stating what it depicts, so no media entry is added.
 ---
 
 Three residents of San Pedrito, San Pedro Town, were formally arrested and

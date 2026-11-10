@@ -48,7 +48,6 @@ open_questions:
   - No marijuana weight, quantity or valuation was published, so no cannabis kilograms or value are recorded.
   - No separate cannabis possession charge was reported; the only charge stated is unlawful possession of a firearm by a felon.
   - The 4 November 2026 date is the traffic-stop date stated in the text; 5 November 2026 is the publication date of both sources.
-  - The submitted page image is a Getty stock illustration credited to ATU Images/Getty Images and does not show this stop, seizure or arrest, so no media entry is included.
   - Both opened accounts relay the same TAG Center Permian Basin account; no separate agency release beyond those reports was opened.
   - The full name appears as Julian Jesus Medrano in one report and Julian Medrano in the other; no age, hometown or other identifier beyond convicted-felon status was given in the opened captures.
 ---

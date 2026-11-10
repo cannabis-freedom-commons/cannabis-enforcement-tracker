@@ -55,7 +55,6 @@ open_questions:
   - The arrest followed a trap laid on 21 November 2025, while the accounts were published on 23 November 2025; 21 November is used as the incident date.
   - No value for the seized charas was published.
   - No charge sheet, remand, bail or court outcome was reported beyond registration of an FIR under the NDPS Act.
-  - 'No usable event photo with a recoverable direct image address was found: ThePrint used a default site image, OrissaPOST labelled its image representational, and The Statesman image could not be tied to this seizure, so no media is listed.'
 ---
 
 An Afghan national was arrested with more than 215 grams of charas in New

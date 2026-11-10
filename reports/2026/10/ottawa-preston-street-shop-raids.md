@@ -89,9 +89,6 @@ open_questions:
     The 24 grams of psilocybin, contraband cigarettes, cigars, televisions and cash are non-cannabis items in
     the same searches and are excluded from the cannabis figures.
   - >-
-    The only image on the source page is an undated generic Ottawa police vehicle photo that does not show
-    this event, so no media entry is listed.
-  - >-
     The page's only photo is captioned on Rideau Street downtown, not the Preston Street shop searched, so it
     is not shown as media.
   - >-
@@ -101,34 +98,11 @@ open_questions:
   - The accused's name and scheduled court date were not published.
   - No value estimate was published for the seized cannabis.
   - >-
-    The submitted page gives only its publication date of 2 November 2026 and no separate date for the second
-    search; the 29 October 2026 date comes from the existing report's other sources.
-  - >-
-    The submitted page does not give the 200 block or the accused's residence, which come from the existing
-    report's other sources.
-  - >-
-    The page's only image is a generic news-curation graphic with no caption establishing it shows this event,
-    so no media entry is listed.
-  - >-
     The same page also reports a fraudulent-email warning and municipal election results, separate events left
     out here.
   - >-
-    The submitted page also briefly describes separate Ottawa actions on 19 October 2026 on Catherine Street,
-    on 9 October 2026 at Castle Heights Cannabis and on 14 April 2026 on Montreal Road, which are different
-    events left out here.
-  - >-
-    The submitted page's only image is described as a featured image via Google Maps with no caption
-    establishing it shows the Preston Street search, so no media entry is listed.
-  - >-
     The 268 Preston and Preston Cannabis identifier comes only from the page's Google Maps lookup, not from
     the quoted police statement.
-  - >-
-    The new page lists the flower seizure as both approximately 2.7 kilograms and about 5 pounds in the same
-    bullet, which are not equivalent weights, while the existing report uses the 5-pound figure for its
-    cannabis total.
-  - >-
-    The page's main event image carries only the article title as its caption and alt text with no credit
-    establishing that it shows the Preston Street search, so no media entry is listed for it.
   - >-
     CTV reports about 7.26 kg across both searches. The later police release gives approximately five pounds
     of flower plus 407 g pre-rolls, 38 g hash and 27,800 mg THC products for the second search, so the

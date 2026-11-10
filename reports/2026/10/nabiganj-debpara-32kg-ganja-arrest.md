@@ -56,8 +56,6 @@ open_questions:
   - No value for the seized cannabis was published.
   - No court outcome beyond the filing of a case under the Narcotics Control Act was reported.
   - The 32 kg figure is the SRB-9 count; no independent weighing was reported.
-  - The submitted page carries an image with no caption or credit, so it cannot be established to show this seizure and no media entry is included.
-  - The new Habiganj Express account gives the checkpoint time as 4am while the existing report uses about 3:55am from the other accounts; both point to the same early-morning operation on 30 October.
   - The photograph is credited only to Kalbela and was taken after the arrest; it shows the detained man but not the seized ganja or the vehicle.
 media:
   - kind: photo

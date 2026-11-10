@@ -52,7 +52,6 @@ open_questions:
   - The man was not named; the sources give only his age of 42 and that he lives in Sukleya.
   - The Interior Ministry's Telegram post carries no visible publication date, so its date is not recorded.
   - A second outlet's page served in a Windows-1251 encoding that rendered as garbled text, so its own wording could not be read or quoted.
-  - The article's only picture is a stock handcuffs image credited to the Interior Ministry press centre and not shown to depict this detention, so no media entry is included.
 ---
 
 Criminal-investigation officers of the capital's militia detained a 42-year-old

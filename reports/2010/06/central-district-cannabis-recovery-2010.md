@@ -39,7 +39,6 @@ status: verified
 tags: [national-cannabis-operation, operation-penny]
 open_questions:
   - Both opened accounts of the district results carry the same New Zealand Police release text, so no independent press account of the 2010 Central District totals was found.
-  - The release's photographs carry 2013 upload paths, so none could be verified as showing this operation and no media entry was made.
 sources:
   - title: Significant dent put in cannabis trade
     url: https://www.police.govt.nz/news/release/24134

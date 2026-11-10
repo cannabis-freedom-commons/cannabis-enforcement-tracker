@@ -55,7 +55,6 @@ open_questions:
   - The adolescent was not named and no age was published.
   - No charge, custody decision or court outcome beyond the procedures for the investigated infraction was reported.
   - The Vitória de Santo Antão occurrence in the same article involved only two shotguns and 12 rounds with no cannabis and no reported arrests, and is left out of the cannabis figures as a separate non-cannabis event.
-  - The second page image has no caption, so it is not established to show this seizure and no media entry is added for it.
   - Only one accessible source for this event was found after searching in Portuguese; no agency statement or second outlet account could be opened.
 ---
 

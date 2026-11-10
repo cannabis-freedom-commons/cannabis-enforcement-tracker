@@ -52,7 +52,6 @@ open_questions:
   - The reports publish no name, age or other identity for the suspect.
   - No charge beyond detention after consultation with the prosecution and no court outcome was reported.
   - The incident date of 3 November 2026 is the publication date, identified in the text as the Tuesday of the arrest.
-  - No available photo could be confirmed to show this seizure or arrest, so no media entry is included.
 ---
 
 The judicial-police brigade of Ben Arous arrested one man in the Sidi Saad area

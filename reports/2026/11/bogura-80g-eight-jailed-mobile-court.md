@@ -55,10 +55,7 @@ open_questions:
   - Only one accessible opened source was found for this event after searching in Bengali and English.
   - The fines varied by person, 50 taka for seven people and 100 taka for one, so no single fine figure is recorded.
   - The prison term is recorded as a 14 to 25 day range because the eight sentences differed.
-  - The page image has no caption, alt text or credit establishing that it shows this seizure, so no media entry is included.
-  - The new article published 4 November 2026 says the raid happened last Monday afternoon, while the existing report dates the operation to Sunday 1 November 2026.
   - The article also reports action against city Jubo Dal member Jitu Sheikh for social-media comments about party committees and leaders, a separate non-cannabis matter not counted here.
-  - The page image is captioned with the same title as the article and is not established to show this seizure, so no media entry is included.
 ---
 
 Officers of the Department of Narcotics Control detained eight people with

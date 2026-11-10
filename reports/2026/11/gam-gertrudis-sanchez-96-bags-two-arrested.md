@@ -33,7 +33,6 @@ open_questions:
   - No charges or court outcome are reported; the Ministerio Público was to review the case and decide their legal situation.
   - The article gives two locational descriptions, the streets Norte 82 and Oriente 107 and colonia Gertrudis Sánchez Tercera Sección in Gustavo A. Madero, without stating whether they are the same corner.
   - No accessible second account of the detention was found; the SSC's own bulletin appears only as an embedded post in the article.
-  - The page's lead photo is captioned for an armed clash in Chalco and does not show this detention, so no media entry is included.
 ---
 
 Two men were detained on suspicion of carrying 96 small bags of apparent

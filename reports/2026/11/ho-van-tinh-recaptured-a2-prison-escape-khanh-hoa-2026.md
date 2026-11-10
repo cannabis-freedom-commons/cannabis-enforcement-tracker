@@ -76,7 +76,6 @@ open_questions:
   - The reports give no weight or description of the drug in the trafficking case behind his 2025 sentence, so no cannabis quantity is recorded.
   - The three earlier arrests are described briefly, from accounts that report them as part of the same manhunt rather than as separate operations.
   - The hiding-place description comes from the Ministry of Public Security newspaper, republished on Báo Mới; the other outlets say only that he was caught in the Cây Cày forest area.
-  - This source describes the hiding place as an abandoned house in Suối Cau, while the existing report also cites an account that he hid in a concrete well shaft in the forested hills of the same village.
   - This source gives no weight or description of the drug behind Tinh's 20-year trafficking sentence, so no cannabis quantity can be recorded.
 ---
 

@@ -64,7 +64,6 @@ open_questions:
   - The 1 kg of opium seized in Uzbekistan is mentioned only to explain the mixed event and is excluded from cannabis figures.
   - No locality in Uzbekistan was named for the 14 kg hashish seizure and second detention, so coordinates are for Batken region, the most precise named place.
   - Additional photos on the 24.kg page carry no captions establishing that they show this seizure, so only the UzDaily photo is listed.
-  - The 24.kg Russian page names the second suspect as Х.Т.Т., a citizen born in 1995, while UzDaily and 24.kg's English edition call him Kh.T., aged 31; the existing report uses the 31-year-old reading.
   - The criminal-code article for the case, article 282, is reported by the Kyrgyz side for the Kyrgyz suspect only; no charge was stated for the suspect detained in Uzbekistan.
   - The 24.kg page gives no separate date for the detention, the searches or the Uzbek seizure; 3 June 2026 is its publication date.
 ---

@@ -53,8 +53,6 @@ open_questions:
   - No street value, charge sheet or further court outcome beyond the jailing order was reported.
   - The suspects are identified only by initials; full names and ages were not published.
   - Only one accessible source for this event was found; the page credits Anadolu Agency (AA).
-  - The page photo is captioned only with the same headline and carries no credit, so it is not established to show this seizure and no media entry is included.
-  - The N Gazete initials list gives S.Ö. where the existing report gives S.O.; this looks like the same fourth suspect with an Ö/O spelling variant.
 ---
 
 Four suspects identified only by the initials E.B., O.Y., S.O. and C.B. were

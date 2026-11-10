@@ -68,10 +68,8 @@ open_questions:
   - The reports name no charge or court outcome; further investigation was said to be continuing.
   - 'The reports differ slightly on the arresting unit: Telangana Today names the Task Force (Charminar) and local police, while Siasat names the Commissioner’s Task Force, Charminar Zone team; the report uses the shared description.'
   - 'Left out, as its quotation was not found in The Siasat Daily: Police valued the seized drug at around Rs 1 lakh.'
-  - The new Telugu account spells the name as Sheikh Asif while the existing report uses Shaik Asif; identity is treated as the same person from matching age, weight, agencies and Nagpur link.
   - The new accounts give no charge or court outcome for the Bandlaguda arrest.
   - The roundup aggregates distinct raids in Kodad, Jadcherla, Hyderabad and Shapur Nagar with a combined total of eight arrests; only the Bandlaguda part corroborates this report.
-  - The Andhrajyothy lead image is captioned only with the headline and carries no credit, so whether it shows this seizure is not established and no media entry is made.
 ---
 
 Hyderabad's Task Force (Charminar) and local police arrested auto driver Shaik

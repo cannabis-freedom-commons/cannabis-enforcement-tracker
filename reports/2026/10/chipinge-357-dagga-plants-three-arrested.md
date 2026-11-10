@@ -55,7 +55,6 @@ open_questions:
   - No separate date was published for the Mutema-Sithole discovery or court appearance, so 29 October 2026, the dated Mawacha court step, is used as the incident date.
   - Sithole's sentence had not been reported at publication, and no weight, area or value figures were published.
   - No second account of the Mutema-Sithole case was found, as the second source covers only the Mawacha case.
-  - The Herald page image is captioned as the police spokesperson and the second page image is captioned only with the suspect's name, so neither is established to show the event and no media entry is included.
 ---
 
 Police in Chipinge arrested 48-year-old Maria Mawacha after 118 dagga plants

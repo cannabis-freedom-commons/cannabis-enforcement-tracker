@@ -45,7 +45,6 @@ open_questions:
   - The bale of cocaine is outside the tracker's cannabis scope and its weight is not part of any figure.
   - No amount was given for the fines imposed on the two other men.
   - The three men were not named, and no age or nationality was published; the article does not say whether the investigating judge charged the main suspect.
-  - The page's only photo is credited to the police without a caption tying it to the seizure or the arrest, so no media entry is included.
   - Only one accessible account of the arrest was found; no police statement or second outlet report could be opened.
 ---
 

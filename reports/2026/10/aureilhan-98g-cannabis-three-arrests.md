@@ -65,7 +65,6 @@ open_questions:
   - The article names no charges and gives no court date or outcome beyond the summons to appear.
   - The young woman who fled was not reported arrested or identified.
   - The reported street value of about €3,200 covers the whole seizure, not the cannabis alone.
-  - No photograph of the arrest or the seizure was published; the only picture on the page is a file illustration, so no media is listed.
 ---
 
 Anti-crime police (BAC) in Aureilhan, near Tarbes in the Hautes-Pyrénées,

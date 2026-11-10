@@ -82,7 +82,6 @@ open_questions:
   - Only the separately stated cannabis weights are recorded (10.6 kg of hashish and 6 kg of marijuana); the reported home-delivery sales suggest other substances but no other drug quantity was published and none is counted.
   - The names of the 13 detained people and any court outcome were not reported.
   - The second photograph on the Huelva Hoy page carries no caption identifying its content, so only the captioned photograph from that page is listed as media.
-  - The Canalcosta page embeds a video and a lead image (DESARTICULACION-ASOACION-CANNABIS.jpg) without captions identifying their content, so no media entry is listed.
 ---
 
 The Guardia Civil arrested 13 people in Isla Cristina and Lepe accused of drug

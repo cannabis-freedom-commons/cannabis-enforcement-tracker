@@ -62,7 +62,6 @@ open_questions:
   - The ministry's 16 February page gives no arrest or raid date; 14 February 2017 comes from Diario Democracia's "ayer" in its 16 February account, counted as the day before.
   - No cannabis weight or plant count is attributed to this February 2017 operation itself; the ministry's eight tonnes, 34 tonnes and three tonnes are earlier Corrientes seizures and are excluded from figures.
   - The ministry gives 26 vehicles and a boat, while Diario Democracia reports 26 cars, three motorcycles and a boat; this report records 29 vehicles in total, following the outlet's split.
-  - Police gave the husband's surname as Walter in the submitted page and Piris in later accounts, and listed arms inconsistently as three pistols in one place and two firearms in another.
   - No trial, conviction or sentence for this case is reported in the opened sources; only the pre-indictment stage is documented.
   - No photo of the February 2017 operation with a verifiable caption was found, so none is linked.
 ---

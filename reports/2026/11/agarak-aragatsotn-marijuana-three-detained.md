@@ -47,7 +47,6 @@ open_questions:
   - No count was published for the cannabis plants found on the 54-year-old man's land, so no plant figure can be recorded.
   - Two of the seized pipettes held an unspecified narcotic mass; only the separately stated marijuana weights are counted in kilograms seized.
   - No court outcome beyond the 51-year-old suspect's remand in custody was reported.
-  - The NEWS.am page image is captioned only with the article headline and is not established to show this seizure, so no media entry is included.
 ---
 
 Aragatsotn regional criminal police received operational information that a

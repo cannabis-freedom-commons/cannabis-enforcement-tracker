@@ -50,7 +50,6 @@ open_questions:
   - The cannabis figure of 41.525 kg is the sum of six stated seizures (200 grams plus 125 grams plus 36 kg plus 1 kg plus 1.2 kg of hashish and 3 kg of weed); the sources state only the 152.997 kg combined narcotics total.
   - 'The remaining 111.472 kg are non-cannabis drugs excluded from kg_seized: 12 kg of opium and 99.472 kg of ice (5 kg plus 90 kg plus 162 grams plus 2 kg plus 2.310 kg).'
   - The suspects are not named and no ages are given beyond three women; no charges beyond registration under the Control of Narcotic Substances Act and no court dates are reported.
-  - The submitted page carries one image with an empty caption and credit, so it cannot be established to show this seizure and no media entry is added.
 ---
 
 The Anti-Narcotics Force arrested eight suspects, including three women, during

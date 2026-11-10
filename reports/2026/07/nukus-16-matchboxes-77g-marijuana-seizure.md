@@ -43,7 +43,6 @@ open_questions:
   - The reported 77.56 grams is the weight with packaging, so the net weight of the marijuana alone is not known.
   - The reports say the man was stopped and searched but do not state that he was detained or arrested, so no arrest figure is recorded and his name and age were not published.
   - No court outcome was reported beyond the opened criminal case and continuing investigation.
-  - The submitted page's lead image is captioned as AI-generated and the UZA image is not established to show this seizure, so no media entry is included.
   - Only two press accounts of the same joint operation were opened, without a directly opened agency statement.
 ---
 

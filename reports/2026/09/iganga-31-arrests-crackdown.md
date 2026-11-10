@@ -35,7 +35,6 @@ open_questions:
   - The article gives no separate date for the operation; 4 September is its publication date.
   - Only one source for this operation could be opened.
   - No figure for the quantity of suspected marijuana recovered was published.
-  - The photo on the source page could not be verified to show this operation, so no media entry was added.
   - Whether the suspects were charged or released after investigation is not known.
 sources:
   - title: Iganga Police Arrest 31 Suspects in Crackdown on Drug Abuse and Armed Robbery

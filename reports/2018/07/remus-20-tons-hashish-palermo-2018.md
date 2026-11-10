@@ -61,7 +61,6 @@ open_questions:
   - Published market-value estimates differ, including up to 200 million euros and 65 million euros, so no value is recorded.
   - The early announcement identified suspects only by initials, so full names were not published.
   - No court outcome was reported; the early announcement said the criminal investigation was ongoing.
-  - The submitted page photo is captioned only as drugs in Italy and the second-source photos are file photos of other seizures, so no media entry is included.
 ---
 
 The entire 11-person Montenegrin crew of the Panama-flagged survey vessel Remus

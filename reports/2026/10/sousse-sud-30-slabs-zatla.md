@@ -78,14 +78,9 @@ open_questions:
   - The suspect is not named, and no charge or court outcome has been reported.
   - Jawhara FM and Tuniscope reported the seizure and a car prepared for rental without mentioning an arrest, while Radio Marina, published the next morning, reported one arrest, several phones and a luxury car; the report treats them as one operation because the place, quantity, car and investigating brigade match.
   - Tuniscope cites Jawhara FM and repeats its account, so the two are not independent.
-  - The only image on the submitted page is a stock arrest graphic, and no captioned photograph of the seizure was found.
   - Hakaekonline gives no separate date for the operation; 1 November 2026 is the publication date of its account.
   - The police photograph carries no credit line beyond the Sousse Sud placard visible in it.
   - No weight was given for the 30 slabs, so the seizure remains recorded by slab count only.
-  - The submitted page gives only its publication date of 1 November 2026; the evening of 31 October 2026 comes from the existing report.
-  - The submitted page says Cité Erriadh while the existing report says Hay Riad for the same Msaken movement corridor.
-  - The submitted page says Sousse generally while the existing report places the operation in Sousse Sud.
-  - The page's lead image file Sans-titre-1.jpg has only the generic alt Sans titre-1 and no caption establishing that it shows this seizure, so no media entry is added.
   - Al Chourouk describes the 30 slabs only as zatla, without the weight, and names no suspect or charge.
   - Al Chourouk does not say where in Sousse Sud the seizure took place, and gives no details of the car beyond saying it was prepared for rental.
 media:

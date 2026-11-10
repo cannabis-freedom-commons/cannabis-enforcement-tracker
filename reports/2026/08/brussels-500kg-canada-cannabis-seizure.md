@@ -46,7 +46,6 @@ open_questions:
   - No street-level seizure location in Brussels was published, so Brussels is used as the most precise place.
   - No court outcome beyond the four arrest warrants was reported; the investigation was described as continuing.
   - Only one accessible source for this event could be opened after searching; no second account was found.
-  - The page image is a March 2023 Marseille file photo credited to AFP, not this seizure, so no media entry is included.
 ---
 
 Investigators of the Drugs section of the Brussels Federal Judicial Police, the

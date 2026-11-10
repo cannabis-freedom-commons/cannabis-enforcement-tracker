@@ -53,7 +53,6 @@ open_questions:
   - The detainees gave conflicting accounts of whether the soruma was for sale or personal use.
   - No charges, custody decision or court outcome were reported beyond handover of the file to the Public Prosecutor's Office.
   - Only one opened source for this event was found after searching in Portuguese; no police statement or second outlet could be opened.
-  - The page photo carries only the caption DROGA CHIMOIO with no credit, so it cannot be confirmed to show this seizure and no media entry is included.
 ---
 
 Police in Chimoio, the capital of Manica province in central Mozambique,

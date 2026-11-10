@@ -57,9 +57,7 @@ open_questions:
   - No weight was published for the seized marijuana or cocaine, so no cannabis kilogram figure is recorded; the 200-1,000 grams in the THC charge is a statutory range, not a seized amount.
   - No cash amount or value estimate was published for the seized currency.
   - WBAY gives Seltrecht's age as 47 while the other two outlets say 37; this report uses 37.
-  - The search date of January 16 comes from WBAY and Civic Media; the submitted page says only Last Friday. Thursday's charges are dated January 22 from the Friday, January 23 publication date.
   - The March 3 preliminary hearing year was not stated and no verdict or later court outcome has been reported.
-  - The submitted page's second image (Kaczmareks.jpg) appears tied to an unrelated trending story and is omitted; only the police handout photos of the two accused are listed.
 ---
 
 The Fond du Lac Police Department and the Lake Winnebago Area Metropolitan

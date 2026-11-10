@@ -60,10 +60,7 @@ open_questions:
   - No plant count or weight was published for the whole Carlisle operation; the 83 and 145 plants relate only to the Newtown Road and Warwick Road houses, so no total is recorded.
   - The sentencing judge's reported estimate of a crop worth more than £2 million a year is a valuation of the potential crop, not a seizure value, so it is not recorded as a valuation figure.
   - The outcome of the Albanian extradition proceedings and the further UK charges is not known.
-  - The Manchester Evening News photograph on the page is a police custody portrait of Hazizaj, not a picture of the farms or the hearing, so no media entry is included.
   - The text gives a number of plants ("83 plants") but the figures have no plants_destroyed; check whether it belongs there.
-  - The Sot article says Hazizaj was sentenced to two years in prison in February 2025, while the existing report records three years on the strength of the tribunal decision and the contemporaneous News & Star report.
-  - 'No media entry is included: the page''s lead image appears to be a portrait of Hazizaj and the other page images are unrelated gossip thumbnails, so none is established to show the farms, seizure or hearing.'
 ---
 
 Igli Hazizaj, a 28-year-old Albanian, has lost an immigration appeal against his

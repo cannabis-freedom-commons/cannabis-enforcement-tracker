@@ -58,10 +58,7 @@ media:
     publisher: Ratopati
     caption: "The two arrested women photographed after their arrest at Tribhuvan International Airport. Photo: Ratopati"
 open_questions:
-  - The new article says the airport arrests happened on Monday while the existing report uses the morning of 27 October 2026.
-  - The new article spells the names Shabana Banu M Sheikh and Sarifa Abbas Ansari while the existing report uses Shabana Banu Yar Mohammad Sheikh and Sharif Abbas Ansari.
   - The new article does not give Batik Air flight number OD-182 or say the women are from Gujarat; those details rest on the existing sources.
-  - The page image is captioned as a representation image credited to iStock and does not show this event, so no media entry is included.
   - The same article also reports the Koteshwor courier marijuana case, covered in a separate update, and a 322-gram brown-sugar arrest in Pharping, a non-cannabis event left out here.
 ---
 

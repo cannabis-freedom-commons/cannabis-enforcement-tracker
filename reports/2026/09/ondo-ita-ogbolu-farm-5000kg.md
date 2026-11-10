@@ -55,7 +55,6 @@ open_questions:
   - Whether the four suspects were charged or remanded was not reported.
   - The NDLEA statement also covers separate cannabis operations in Lagos, Edo, Delta and Imo and at Tin-Can Island Port, which are not part of this report.
   - Both accounts reproduce the agency statement rather than two independent investigations.
-  - The agency page carries photos of other operations in the same roundup but none identifiable as the Ita-Ogbolu farm, so no media entry was added.
 ---
 
 Officers of the National Drug Law Enforcement Agency (NDLEA) raided and

@@ -51,7 +51,6 @@ open_questions:
   - InSight Crime converts the 162 hectares to about 486 tonnes of potential output and adds 350 kilograms of seeds and 103 camps destroyed; those estimates are not recorded as seized weight.
   - Since August 2013 seven Nueva Alianza operations eradicated 2,269 hectares, a wider campaign total left out of this single-operation report.
   - No arrests were listed in the opened sources for this phase.
-  - No photo of the operation with a recoverable address was found, so no media entry was added.
 ---
 
 Paraguayan and Brazilian authorities met in the border city of Pedro Juan Caballero to evaluate a joint operation that destroyed about 70 tonnes of marijuana. [@1] The force reported seizing and burning 57,810 kilograms of chopped marijuana and 9,100 kilograms of marijuana, alongside 162 hectares of crops eradicated and about 100 clandestine camps destroyed in forested parts of Amambay department on the Brazilian border. [@1,2]

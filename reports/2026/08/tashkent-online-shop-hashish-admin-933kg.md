@@ -64,7 +64,6 @@ open_questions:
   - No street value or fine for the hashish was published.
   - The suspect's name, the shop's name and its customer numbers were not published.
   - No charge sheet or court outcome was reported; the ministry only noted that such offences carry up to 20 years in prison.
-  - The page's only image shows handcuffs as a generic illustration, carries no credit and is not established to show this seizure, so no media entry is included.
   - No agency statement, Uzbek-language report or independent outlet account of this operation could be opened; the English text is the same outlet's translation of the Russian report.
   - Podrobno.uz dates the detention to 27 August 2026, when the ministry's Telegram channel published its statement, while UzDaily.uz and Darakchi.uz published on 28 August 2026.
   - Podrobno.uz and UzDaily.uz describe the man as previously convicted under articles 164 and 278, while Darakchi.uz gives the categories as robbery and organising gambling, so only the categories are recorded.

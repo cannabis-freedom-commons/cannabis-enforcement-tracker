@@ -80,10 +80,8 @@ open_questions:
   - Both accounts repeat the Gendarmerie de La Réunion version; the gendarmerie's original Facebook post was not opened separately.
   - Zinfos974 reports 193 plants, while the existing Réunion La 1ère and Free Dom accounts report 46 plants and 5.9 kg of cannabis; the sources do not reconcile the plant-count discrepancy, so the existing figures are retained.
   - 'Left out, as its quotation was not found in Réunion La 1ère: On 3 October 2026, gendarmes from the Saint-Benoît community of brigades took a Saint-Benoît resident into custody in an inquiry into armed violence committed the previous day.'
-  - Clicanoo reports 193 plants in three growing spaces, while the existing report retains 46 plants and 5.9 kg from Reunion La 1ere and Free Dom; the plant-count discrepancy noted in the existing report remains unresolved.
   - Clicanoo was published on 6 November 2026 and gives no separate raid date; the incident date follows the existing 3 October 2026 account.
   - No firearms, ammunition, cash weight or court outcome are given in this account.
-  - The page lists a Gendarmerie de La Reunion image but its caption does not establish that it shows this seizure, so no media entry is included.
 ---
 
 On 3 October 2026, gendarmes from the Saint-Benoît community of brigades took a

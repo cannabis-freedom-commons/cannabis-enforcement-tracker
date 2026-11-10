@@ -56,7 +56,6 @@ open_questions:
   - The fake money and medicines are part of the same event but their amounts are not counted as cannabis figures.
   - The article names no written charge for the cannabis, describing the group only as dealing in illegal activities and drugs.
   - Only two Benin outlets were found reporting this event; both draw on the same police account.
-  - The page image is a generic Republican Police vehicle used by the outlet since 2018, not this raid, so no media entry is included.
   - 'Houègbo : un réseau présumé de fabrication de faux billets et de trafic de stupéfiants démantelé à Agbotagon, cinq suspects interpellés et près de 2 millions FCFA de faux billets saisis (Le Plateau d''Abomey) could not be opened again to check its quotations (The rendered source is larger than 2 MB.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.'
 ---
 

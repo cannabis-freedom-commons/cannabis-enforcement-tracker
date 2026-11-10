@@ -42,18 +42,10 @@ open_questions:
   - Later court hearings reported by Mauritian outlets in September are not included here, and no trial outcome was reported.
   - Mauritius police did not name the fifth suspect or say exactly where in the south-west he was arrested.
   - The three people arrested in Réunion were not named in the reports opened.
-  - The new article rounds the Réunion seizure to 100 kilos and more than 100 kilos at Bras-Panon, differing from the 155.7 kg figure used in the existing report, so no cannabis weight is added from this source.
   - The article does not state where in Mauritius the 31 July arrest took place.
-  - The article's only image is labelled as an AFP illustration photo about a clinical trial, not a photo of this event, so no media entry is added.
-  - This account rounds the Réunion seizure to 100 kilos while charging conspiracy for about 156 kilos, differing from the 155.7 kg figure used in the existing report, so no cannabis weight is added from this source.
   - This article does not state where in Mauritius the 31 July arrest took place.
-  - The page's only relevant image is captioned generically about drug trafficking between Réunion and Mauritius and is not established to show this seizure or arrest, so no media entry is added.
-  - The Zinfos974 page's images are captioned only 'Maurice, zamal' or carry no caption establishing they show this arrest or seizure, so no media entry is added.
   - The account presents any common points between the Madagascar case and the 155.7 kg seizure as hypotheses under examination, not established facts.
-  - This account rounds the Bras-Panon seizure to 100 kilos and more than 100 kilos, differing from the 155.7 kg figure used in the existing report, so no cannabis weight is added from this source.
-  - This account says the Bras-Panon operation led to two suspects being arrested while a speedboat fled, while the existing report records three people arrested in Réunion.
   - The Friday arrest is dated to 31 July 2026 from the 2 August publication date; the article gives no separate calendar date.
-  - The page images are unrelated illustrations and JT thumbnails, so no media entry is added.
 sources:
   - title: 'Trafic de 155,7 kg de cannabis sur l’axe La Réunion-Maurice : un cinquième suspect arrêté par l’ADSU'
     url: https://defimedia.info/trafic-de-1557-kg-de-cannabis-sur-laxe-la-reunion-maurice-un-cinquieme-suspect-arrete-par-ladsu

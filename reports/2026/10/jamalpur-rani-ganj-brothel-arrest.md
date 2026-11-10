@@ -78,7 +78,6 @@ open_questions:
   - The page’s lead image has no caption or credit, so it was not added; it may be the same police photograph of the seized cannabis already linked from Banglar Alo News.
   - CNI reproduces the same Jamalpur Sadar police account as the Bengali outlets already cited, so it is not independent reporting of the raid.
   - CNI, like Jago Bangla, describes the raid as taking place at night in one sentence and at 5:35 pm in its police account.
-  - 'The CNI lead photo is captioned only ''ছবিঃ সিএনআই'' (Photo: CNI) with no description of what it shows, so no media entry is added; it may be the same police photograph of the seized cannabis already linked from Banglar Alo News.'
 ---
 
 Police in Jamalpur arrested Israfil, 20, and Sufia Begum, 40, and seized 6.5 kg

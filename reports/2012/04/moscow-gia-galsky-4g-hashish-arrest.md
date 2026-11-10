@@ -42,7 +42,6 @@ open_questions:
   - No charge, custody decision or court outcome for the hashish seizure or the forged passport was reported.
   - The detention was presented primarily as the detention of an alleged thief-in-law controlling theft groups, with the 4 grams of hashish found during the search; whether a separate drug charge followed is unknown.
   - Only one accessible source for this event was found after searching in Russian and English.
-  - The submitted page's images show unrelated 2026 market and political news, not this 2012 detention, so no media entry is included.
 ---
 
 Moscow police detained Abkhazia-born criminal authority Georgy Zarandia, known

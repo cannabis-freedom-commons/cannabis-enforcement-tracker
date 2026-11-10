@@ -58,7 +58,6 @@ open_questions:
   - The reports do not describe the motorcyclist's injuries or condition.
   - The origin and intended destination of the cannabis load were not given; Civil Police investigation was continuing.
   - The JD1 Notícias page image is a generic police-siren illustration, not this seizure, so it is not listed as media.
-  - The submitted page's only image is a generic police-siren illustration credited as Reprodução, not a photo of this seizure, so no media entry is added.
 ---
 
 On the night of Saturday 31 October 2026, a Fiat Fiorino collided with a

@@ -33,7 +33,6 @@ open_questions:
   - The two people arrested on the bus are not named; the report gives the names and ages Ram Krishna Tamang, 22, and Dipendra Gamal, 23, without saying which of its two cases they belong to.
   - The report does not say whether the 200 g found at Naya Baneshwor on Friday was cannabis, so that weight and those two arrests are left out of the figures.
   - No charge, value estimate or court outcome was reported, and only one account of the case could be found.
-  - The page's only photograph shows marijuana packets seized from a youth in Kathmandu on 23 March 2016, a different seizure, so no media entry is included.
 ---
 
 Police arrested two people on Saturday, 1 October 2016, who were carrying 3.7 kg

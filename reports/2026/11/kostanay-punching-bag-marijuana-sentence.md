@@ -68,11 +68,7 @@ open_questions:
   - No weight was published for the three packets of marijuana, so no kilograms figure is recorded.
   - The report uses the sentencing date of 3 November 2026; no separate detention or arrest date was published.
   - Only one source reporting this case could be opened and no second account was found.
-  - The page's image is credited as an archive photo, so no media entry is listed because it is not shown to depict this seizure.
   - The verdict had not entered into force, so an appeal or later change remains possible.
-  - The new account states one kilogram of marijuana, while the existing report records no weight; whether to add 1 kg to figures needs review.
-  - The new account does not give a separate sentencing date; 4 November 2026 is only its publication date, while the existing report uses 3 November 2026.
-  - The page image is labelled as a Liter.kz photo collage and is not established to show this seizure, so no media entry is included.
   - Work opened Polisia.kz and Alau.kz and ng.kz states that officers found 1,130 grams of marijuana in the punching bag in early September, while Alau.kz and Liter.kz describe the charged amount as about one kilogram; the 1,130-gram figure is an expert-examination weight and the kilogram is the charge's stated quantity.
 media:
   - kind: photo

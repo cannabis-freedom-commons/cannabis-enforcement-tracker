@@ -50,7 +50,6 @@ open_questions:
   - It is unclear whether the 50 grams reported seized in the visiting rooms is included in the 921-gram cannabis total.
   - The 186 grams of suspected cocaine are excluded from cannabis figures because analyses were still under way.
   - No arrests, charges or court outcomes were reported for this search operation.
-  - The supplied prison photo is captioned as searched cells but its file name refers to an inauguration of training rooms, so it cannot be confirmed to show this seizure and no media entry is included.
 ---
 
 Officers at the Avignon-Le Pontet penitentiary centre searched the entire

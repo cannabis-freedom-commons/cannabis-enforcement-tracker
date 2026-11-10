@@ -66,7 +66,6 @@ open_questions:
   - The trafficking-versus-use breakdown covers all drugs in the operation and is not attributed specifically to cannabis.
   - The 154 pills are of unspecified type and the other seized drugs are excluded from the cannabis figure.
   - Only one accessible source was found and no agency statement or second outlet could be opened for corroboration.
-  - The page carries three photographs captioned only with the headline and without credits establishing that they show this raid or seizure, so no media entry is added.
   - The 80 suspects targeted by the operation include 63 suspected of use and 17 of trafficking, but only 64 were detained; the status of the remaining suspects is not given.
   - The 150 grams of esrar is the only cannabis weight reported; the cocaine, pills and methamphetamine are other drugs and are excluded from the cannabis figure.
   - The 156 narcotic pills are of unspecified type.

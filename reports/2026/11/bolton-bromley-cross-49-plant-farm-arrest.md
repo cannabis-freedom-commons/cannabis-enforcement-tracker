@@ -105,8 +105,6 @@ open_questions:
   - No court step beyond release on bail pending further enquiries has been reported.
   - The article does not say whether the property was a house, flat or other building, nor how the grow was set up.
   - No weight, street value or growing environment for the plants was reported.
-  - The About Manchester page does not name the police force or give the date of the search or arrest; 4 November 2026 in the existing report comes from the Manchester Evening News.
-  - The page's only image is an uncaptioned file (IMG_8568) posted on About Manchester that cannot be confirmed to be the GMP handout already listed in the report, so no media entry is added.
 ---
 
 A 69-year-old woman was arrested on suspicion of producing cannabis and

@@ -54,7 +54,6 @@ open_questions:
   - No charges, custody status or court outcome were reported.
   - Whether the 420,000 francs in counterfeit notes led to a separate charge was not reported.
   - The exact location in Niamey beyond the city was not given.
-  - The aniamey page carries a photo captioned as drugs seized by Nigerien police, but the caption does not tie it to this 94 kg seizure, so no media entry is included.
 ---
 
 Niger’s Central Office for the Suppression of Illicit Drug Trafficking (OCRTIS)

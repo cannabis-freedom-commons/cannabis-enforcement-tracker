@@ -49,7 +49,6 @@ open_questions:
   - The year 2026 for the 23 and 28 August dates is inferred from the article's 31 August 2026 publication date.
   - No court outcome beyond pretrial detention was reported; the investigation was still under way.
   - Only one accessible account of this event was found after searching in French, so no second source could be added.
-  - The page's featured image carries no caption establishing that it shows this seizure, so no media entry is included.
 ---
 
 Hendrick Mbina and Patrice Moussavou Mouloungui, alias Ibrahim, were placed in

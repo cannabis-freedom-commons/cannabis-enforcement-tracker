@@ -51,7 +51,6 @@ open_questions:
   - The arrested man's name, Maliq Camel Peck, comes from the second blotter account; the submitted account gives only his age.
   - No court outcome beyond the felony arrest and jail transport was published.
   - The same weekly roundups report separate vehicle-burglary, theft and other matters that are left out of this report.
-  - No photo showing this traffic stop or arrest was available; the submitted page's lead police-car image is generic and is not used.
 ---
 
 Coconut Creek police arrested a 23-year-old man on a felony charge of possessing

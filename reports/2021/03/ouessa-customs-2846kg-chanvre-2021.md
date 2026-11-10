@@ -62,7 +62,6 @@ open_questions:
   - Burkina24 gives a single estimated weight of 1 kg for the chanvre indien and the medicines together, while Anadolu Ajansı gives 1 kg for the tramadol and diazepam alone; those medicines are excluded from every cannabis figure.
   - The sources give no origin or intended destination for the cannabis.
   - The separate Nako customs seizure of 11 March 2021, mentioned only as context, is not described here and may merit its own report.
-  - Burkina24's page photo carries no caption describing the scene and could not be viewed, so the media entry uses the Ouaganews page image, whose caption is generic.
 ---
 
 Customs officers at the Ouessa customs office on Burkina Faso's border with

@@ -67,7 +67,6 @@ open_questions:
   - No information is given on how many of the other nine suspects remained in detention at Beau-Bassin in October 2026.
   - ION News reports that the six Malagasy included one minor, while L'express names six adults without ages; the discrepancy is not resolved here.
   - No committal, trial or verdict is reported for the 2024 case by the time of the death; the suspects were last said to have appeared only on provisional charges.
-  - The submitted page's only photo is captioned as Malazafaly himself, so it is a portrait rather than a picture of the enforcement action and no media entry is included.
   - The 333 kg figure is the weighed cannabis total from January 2024 and is context for his case, not a new seizure in October 2026.
 ---
 

@@ -48,7 +48,6 @@ open_questions:
   - The reports describe THC vapes but give no laboratory result or product weight; the charge is reported as possession of a controlled substance (marijuana), first offense.
   - The passenger was not named and no enforcement action against him was reported.
   - No court outcome beyond the arrest and charge was reported.
-  - The only image on the submitted page is a Decorah police department logo, not the seizure or arrest, so no media entry is listed.
 ---
 
 Around midday on 30 October 2026, Decorah police responded to a disabled vehicle

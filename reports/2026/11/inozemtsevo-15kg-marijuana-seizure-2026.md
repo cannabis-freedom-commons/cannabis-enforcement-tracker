@@ -83,10 +83,8 @@ open_questions:
   - The total was reported only as exceeding 1.5 kg, with approximate components of about 300 grams, more than 1 kg and about 310 grams, so 1.5 kg is recorded as the minimum.
   - The suspect was reported only as a 53-year-old local resident; his full name was not published.
   - Only the opening of a criminal case for illegal acquisition and storage was reported; no court outcome or custody status beyond delivery to the police station is known.
-  - No separate search date was published; 5 November 2026 is the publication date used as the incident date in the existing report.
   - The total was reported only as exceeding 1.5 kg, with approximate components of about 300 grams, more than 1 kg and 310 grams.
   - The page dates the item only as 5 November with no year; 5 November 2026 is used because the capture, images and matching reports place it then.
-  - The page's only event photo is credited as archive material from the Stavropol regional Interior Ministry press service, so it is not confirmed to show this search or seizure and no media entry is added.
 ---
 
 Zheleznovodsk police established that a 53-year-old resident of the settlement

@@ -61,9 +61,7 @@ sources:
     language: ru
 open_questions:
   - The sources give only the 5 November 2026 publication date and no separate date for the detention and search, so the publication date is used as the incident date.
-  - The submitted page rounds the seizure to more than 1 kilogram while the other accounts give the exact police figure of 1,018 grams; the report uses 1,018 grams.
   - No outcome of the psychiatric examination and no court outcome had been reported when the sources were published.
-  - The submitted page image is a generic police-structures photo-bank picture with no caption tying it to this search, so no media entry is added.
 ---
 
 Police detained a 39-year-old resident of the village of Dyadkovo who had made

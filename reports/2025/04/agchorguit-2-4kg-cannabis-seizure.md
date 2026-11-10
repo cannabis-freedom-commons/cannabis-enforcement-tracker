@@ -44,7 +44,6 @@ open_questions:
   - The reports say the cannabis was seized from the driver but do not state explicitly whether the driver was arrested, named or charged.
   - No names, ages, charges or later court outcome were reported.
   - The Cridem page is a reprint of the Rimnow account, so no independent second account was available.
-  - The pages carry a seizure photo with no caption or credit establishing what it shows, so no media entry is included.
 ---
 
 Mauritania's gendarmerie brigade on duty at Agchorguit seized drugs on Wednesday

@@ -53,7 +53,6 @@ open_questions:
   - The 4,918.5 g seizure of 18 October covered by the same customs statement is a separate case with its own passenger and arrest date and is not included in this report's figures; the combined 7.9145 kg and Rs 4.795 crore totals cover both cases.
   - Inshorts puts the value at about ₹2.99 crore while The Tribune, citing customs, gives approximately Rs 2.995 crore; the report uses the latter figure.
   - Customs released no name, age or flight number for the woman arrested, and no court appearance, remand order or charge sheet has been reported.
-  - The Inshorts page carries only a generic illustration and The Tribune labels its lead photograph a representational file photo, so no picture of this seizure was confirmed and no media entry was added.
 ---
 
 Customs officers at Delhi's Indira Gandhi International Airport arrested an

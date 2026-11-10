@@ -61,7 +61,6 @@ open_questions:
   - KTRE described Story as held on third-degree possession of marijuana while the Daily Sentinel report listed possession of more than 50 pounds of marijuana plus two other felony charges; the report uses both accounts without resolving the legal classification.
   - No count or description of the seized firearms was published in the opened sources.
   - No plea or later court outcome was reported.
-  - The submitted page also shows a booking-style portrait captioned only Cameron Story, which is omitted as a portrait rather than a photo of the raid or seizure.
 ---
 
 Nacogdoches police raided a home in the 10 block of Waterford Drive in

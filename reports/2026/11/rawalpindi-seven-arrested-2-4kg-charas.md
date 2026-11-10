@@ -44,7 +44,6 @@ open_questions:
   - The 50 litres of liquor, the weapons with ammunition and the unspecified other narcotics are non-cannabis items left out of the cannabis figures; only the separately stated 2.4 kg of charas is counted.
   - No names, ages or further case outcomes beyond the registration of separate cases were published.
   - Only one accessible source for this event was found after searching in English; no agency statement or second outlet was opened for corroboration.
-  - The page image carries only a filename caption and is not established to show this seizure, so no media entry is included.
 ---
 
 Rawalpindi police arrested seven individuals in separate operations. [@1] West

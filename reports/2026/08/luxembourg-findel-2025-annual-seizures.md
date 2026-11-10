@@ -41,7 +41,6 @@ open_questions:
   - Cocaine, ketamine, methamphetamine, heroin and other non-cannabis drug amounts are mentioned only to explain the mixed seizures and are excluded from cannabis figures.
   - No arrests, charges or court outcomes were reported.
   - Only one accessible source for this annual total could be opened; the linked Contacto original returned a 403 error and web search returned no second account.
-  - The page photo is credited as an archive illustration and is not confirmed to show the 2025 seizures, so no media entry is included.
   - Seized cash amounts are cash confiscations, not a drug valuation, so no value figure is recorded.
 ---
 

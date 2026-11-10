@@ -58,7 +58,6 @@ sources:
     language: fr
 open_questions:
   - No court outcome beyond the prosecutor’s call for a speedy trial was reported.
-  - The village name is spelled Fossèkhouré, Fossikhouré and Fossikouré across outlets; the submitted page’s spelling is used.
   - The number of owners or accomplices at large was not given.
   - No street or seizure value was published, so no value is recorded.
 ---

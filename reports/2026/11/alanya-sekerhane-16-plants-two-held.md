@@ -54,8 +54,6 @@ open_questions:
   - The report does not say which of the two suspects was remanded and which was released under judicial control.
   - No charges, trial date or further court outcome beyond the initial remand and release decision were reported.
   - Only one accessible source for this event was found, so the account rests on a single outlet report.
-  - The page image is captioned only with the headline and does not establish that it shows this raid or seizure, so no media entry is included.
-  - The new source names the first search address as Sugözü Mahallesi while the existing report records Saray Mahallesi, although methamphetamine weight, cash amounts and suspect initials are otherwise identical.
 ---
 
 Alanya anti-narcotics police carried out simultaneous early-morning operations

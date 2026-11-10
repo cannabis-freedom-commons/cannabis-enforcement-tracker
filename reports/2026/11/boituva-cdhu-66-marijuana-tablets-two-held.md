@@ -69,7 +69,6 @@ open_questions:
   - No court decision beyond the flagrante arrest booking was reported for the adult, and no measure for the teenager was reported.
   - Dry is a term for hashish-type cannabis resin and skunk for a potent cannabis strain, but the article gives only packet counts, with no weight.
   - g1 describes the flat as a casa bomba and gives the notebook as trafficking accounts; those details come from a second outlet reporting the same municipal guard statement.
-  - The photo on the submitted page is credited to GCM Boituva and captioned only as the teenager, so it is not confirmed as showing the amount of marijuana seized.
 ---
 
 Municipal guards in Boituva arrested a man and took a teenager into custody on

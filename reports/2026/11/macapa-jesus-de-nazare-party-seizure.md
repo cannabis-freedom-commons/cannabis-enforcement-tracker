@@ -42,7 +42,6 @@ open_questions:
   - The substances were described only as resembling cocaine and marijuana, with no laboratory confirmation reported.
   - No suspect was identified, arrested, charged, or brought to court in this account.
   - Only one source for this event was located, so no second account confirms the details.
-  - The page carries a photo credited to Força Tática/Divulgação, but its empty caption does not establish that it shows this seizure, so no media entry is added.
 ---
 
 Officers from the Batalhão de Força Tática went to an events venue on Rua

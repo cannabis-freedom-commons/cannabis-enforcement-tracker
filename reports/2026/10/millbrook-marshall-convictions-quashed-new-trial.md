@@ -34,7 +34,6 @@ open_questions:
   - The judgment came in an appeal, which is not among the tracker's report types; prosecution is used for the court decision itself and sentence only because it sets aside the 2025 sentencing order.
   - Only the date the retrial is ordered is known; no date for the new trial, and no indication whether the Crown will proceed, was published.
   - 'Whether a new trial would revisit the Aboriginal and treaty-rights defence is not known: the appeal ruling expressly did not decide the other grounds.'
-  - The pages carry no photograph of Marshall, the store or the raid; the available images are the Millbrook band office and other illustrations, so no media entry is included.
 ---
 
 The Supreme Court of Nova Scotia quashed Darren Marshall's Cannabis Act and

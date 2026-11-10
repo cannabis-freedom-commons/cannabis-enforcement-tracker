@@ -48,7 +48,6 @@ open_questions:
   - The 127 kg of drug known as “F”, 17,020 kg of dried yama and 2,750 kg of raw materials are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - The eight factories are described only as drug production factories and are not shown to be cannabis-specific, so no cannabis eradication beyond the hashish seizure is claimed.
   - No names, charges or court outcome beyond referral for legal proceedings were reported.
-  - The Pajhwok page carries a photo with no descriptive caption and the AtlasPress image has no establishing caption, so whether either shows this seizure cannot be established and no media entry is included.
   - A separate 1 November report of eight heroin labs and 17 arrests in Chaharsada district, Ghor appears to describe a different operation and is left out here.
 ---
 

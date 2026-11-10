@@ -44,11 +44,8 @@ open_questions:
   - No suspect was named and no arrest was reported, and the bag was described only as lying near the toilet.
   - No estimated value for the seized ganja was published.
   - Only one accessible account of this Morappur check was found after searching in Tamil and English, and no police statement or second outlet account was opened.
-  - No photograph of this seizure could be identified on the page, whose listed images are unrelated sidebar thumbnails, so no media entry is included.
-  - The resubmitted page gives only the relative phrasing yesterday-before for the date, so the 3 November 2026 incident date rests on the earlier Dinamalar posting that states it explicitly.
   - Only Dinamalar has been found reporting this check, so the second account is a repost by the same outlet, not independent confirmation.
   - No estimated value for the seized ganja and no suspect were published in either posting.
-  - The page has no photograph of the seizure; the images listed are unrelated book-cover thumbnails, so no media entry is included.
 ---
 
 Harur prohibition-enforcement police searched the

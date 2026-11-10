@@ -56,9 +56,7 @@ open_questions:
   - The 109 grams of cocaine are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - The report records only the separately stated 268 grams of marijuana as 0.268 kg seized.
   - No accessible second source for this event was found.
-  - No media entry is included because the page image carries only a generic rights caption and is not established to show this seizure.
   - The suspect's name and any further court outcome were not published.
-  - The page image carries only the generic filename caption carabinieri-san-costantino-albanese-1 and is not established to show this seizure, so no media entry is included.
 ---
 
 Carabinieri arrested a 43-year-old man in San Costantino Albanese, in the

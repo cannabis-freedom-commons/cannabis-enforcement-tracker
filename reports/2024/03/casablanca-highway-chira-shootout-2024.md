@@ -49,7 +49,6 @@ sources:
     language: en
 open_questions:
   - No charges or court outcome for the three arrested suspects were reported.
-  - No press photograph could be verified as showing this interception, so no media entry is included.
 ---
 
 Morocco's judicial police in Casablanca, acting on intelligence from the DGST territorial surveillance agency, stopped two utility vehicles loaded with cannabis resin on the outer Casablanca highway in the early hours of Wednesday 27 March 2024. [@1,2] Officers seized 10.3 tonnes of chira, which was handed over to customs for processing. [@1,2]

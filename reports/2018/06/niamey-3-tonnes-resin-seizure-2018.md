@@ -58,7 +58,6 @@ open_questions:
   - The twelve suspects are identified only by nationality with no names published.
   - No charges, trial or court outcome beyond jailing were reported in the opened sources.
   - Intelligence about ten tonnes entering Niamey and seven tonnes possibly still in the country or across borders is an unrecovered estimate, not a seizure, and is excluded from figures.
-  - The only image on the submitted page is captioned as a 15 May 2015 soldiers' operation with weapons, not this seizure, so no media entry is included.
 ---
 
 Twelve people, including Nigeriens, Malians, Moroccans and Algerians, were

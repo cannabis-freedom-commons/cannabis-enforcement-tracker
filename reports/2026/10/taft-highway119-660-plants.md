@@ -87,7 +87,6 @@ open_questions:
   - The sources do not identify the pesticides or give their quantities, the cultivation area or a cannabis weight.
   - The written announcement does not explain the revolver pictured in Crime Voice's investigation gallery or report a firearms charge.
   - All three outlets rely on the sheriff's account, and the linked original Facebook announcement could not be opened.
-  - This account describes the location as the 27000 block of Taft Highway while the existing report records Highway 119, and the opened text does not explain the road naming.
 ---
 
 Rogelio Lorenzo Francisca, 32, was arrested after officers searched a

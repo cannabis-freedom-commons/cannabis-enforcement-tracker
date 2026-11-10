@@ -195,16 +195,11 @@ open_questions:
   - Gazete Pano does not state a separate date for the searches; its publication date is 30 October 2026.
   - The featured image is labelled only “malatya” and is not confirmed to show this seizure.
   - The added account is a Marmaris Yeni Sayfa reprint credited to İhlas Haber Ajansı, not independent reporting.
-  - The Kars Hakimiyet page's only image is reused as the thumbnail for unrelated stories on the same site, so it could not be confirmed to show this seizure and no media entry was added.
   - This page states the searches were on 30 October 2026, which the report text already records, while an existing open question still says no separate search date was published.
   - The article image is captioned only with the headline and is not confirmed to show this seizure; a second image on the page is a thumbnail for a different Malatya story.
-  - İşçi Haber gives the amount as 2 kg, while the police statement cited in the existing report says 2 kg 50 g; the report keeps the police figure.
   - İşçi Haber does not mention the unlicensed rifle found in the same search.
-  - The existing report's open question says no separate date for the searches was published; Kayısı Haber gives 30 October 2026 as the date of the operation, which the report already uses.
   - The Kars Hakimiyet page's photo, captioned only with the headline, appears to be the same police handout of the cannabis, rifle and ESRAR placard already linked from Aksiyon, so it was not listed a second time.
   - 'Left out, as its quotation was not found in Hürriyet: The suspect was taken into custody and his processing at the police station was continuing.'
-  - The submitted page is dated 31 October 2026 while the existing report uses 30 October 2026; both appear to be publication dates for the same operation, with no separate search date given in the submitted text.
-  - The page's only event-related picture is captioned only with the headline and carries no credit, so it could not be confirmed to show this seizure and no media entry was added.
 media:
   - kind: photo
     url: https://www.aksiyon.com.tr/malatya-da-sokak-saticilarina-yonelik-baskinda-2-kilo-50-gram-esrar-ve-ruhsatsiz-tufek-bulundu-385109

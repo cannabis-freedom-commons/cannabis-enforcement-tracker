@@ -51,7 +51,6 @@ open_questions:
   - 31 October 2026 is used as the incident date as the end of the stated 1-31 October 2026 operation period; no separate day for individual raids was published.
   - The first source reports 20 skunk tohumu while the second writes 20 gram skunk tohumu; the report uses only the shared count of 20 seeds and no seed weight is counted as cannabis.
   - The 700 synthetic pills, 144 grams of methamphetamine, 66 grams of bonzai synthetic cannabinoid and 31 implements are non-cannabis items and are excluded from the 0.875 kg cannabis figure.
-  - The submitted page image caption repeats the headline and its content could not be verified to show this operation, so no media entry is added.
   - No suspect names and no court outcome beyond the 8 remands and 6 judicial-control orders were published.
 ---
 

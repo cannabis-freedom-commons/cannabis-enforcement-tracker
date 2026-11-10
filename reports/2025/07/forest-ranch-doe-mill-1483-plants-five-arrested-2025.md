@@ -57,7 +57,6 @@ open_questions:
   - No charge beyond illegal cultivation of marijuana, and no court appearance, plea or outcome, was reported for the five men.
   - The articles do not say what, if anything, was found in connection with the reported shooting, and no one was reported arrested over it.
   - The Crime Voice page is a verbatim reprint of the Butte County Sheriff's Office media release, so the two cited accounts are not independent reporting; the Action News Now account could not be opened.
-  - The KRCR photo is an uncaptioned file image of an indoor marijuana grow credited to the Lane County Sheriff's Office in Oregon, not of this raid, and the page's second image is a gallery thumbnail for another story, so no media entry is added.
 ---
 
 Butte County sheriff's deputies went to the 13000 block of Doe Mill Road in

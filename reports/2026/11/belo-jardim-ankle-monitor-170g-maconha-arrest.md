@@ -58,10 +58,8 @@ sources:
 open_questions:
   - The 170 grams is an approximate weight given by police ("aproximadamente 170 gramas"), not a laboratory figure.
   - It is unclear whether the cannabis found on the man at the approach is included in the 170 grams or was counted separately.
-  - 'The accounts differ slightly on where the second quantity was found: the submitted page says an unoccupied plot of land and then calls it a property, while Na Boca do Povo describes an empty plot nearby.'
   - The man's name and age were not published, and no charge or court outcome was reported.
   - No cannabis valuation was published.
-  - The page's lead photo is uncropped and uncaptioned, and it is not established to show this seizure, so no media entry is included.
 ---
 
 Military Police officers from the Tactical team of the 15th Military Police

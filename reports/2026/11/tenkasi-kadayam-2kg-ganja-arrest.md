@@ -42,7 +42,6 @@ open_questions:
   - The article gives no separate date for the arrest; 2 November 2026 is its publication date and is used as the incident date.
   - Only one accessible source for this event was found, so no second account could corroborate the police version.
   - No street value, exact seizure spot beyond the Mathapuram-Pulavanur road brick kiln area, or formal charge details beyond case registration and remand were published.
-  - The page image is labelled as a file photo and is not established to show this seizure, so no media entry is included.
 ---
 
 Police near Kadayam in Tenkasi district arrested 32-year-old Pirothip Sardar, a

@@ -52,7 +52,6 @@ open_questions:
   - No arrests, charges or criminal proceedings were reported in the opened accounts.
   - No court outcome was reported in the opened sources used for this seizure report.
   - The additional at least $60,000 in inventory is described as stock still held and subject to future surrender under Act 9072, not seized, and is therefore excluded from the seizure value.
-  - The only submitted-page images are an explicitly captioned Shutterstock stock photo and an advertising image, neither showing this event, so no media entry is included.
   - Only the complaint's wholesale valuation is recorded; retail value, laboratory results and testing status were not established in the opened sources.
   - 'Left out, as its quotation was not found in St. Thomas Source: The complaint also challenges a new provision requiring retailers to surrender products to the Health Department for storage until regulations issue, without provision for just compensation.'
 ---

@@ -68,7 +68,6 @@ open_questions:
   - RTL Today describes the mattresses as feather mattresses while the prosecutor calls them spring mattresses.
   - No arrest, suspect, charge, value or court outcome was reported.
   - No cannabis-only valuation was published.
-  - The page displays a customs-credited photo with no caption identifying its content, apparently the same Administration des douanes et accises handout already recorded from actu.fr, so no new media entry is added.
 ---
 
 Customs officers at Luxembourg Airport's Cargo Center in Findel stopped a

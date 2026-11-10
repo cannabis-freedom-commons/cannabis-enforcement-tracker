@@ -53,7 +53,6 @@ open_questions:
   - The articles give no separate date for the court decision; 5 February 2026 is the publication date of both reports and is used as the incident date.
   - The arrest is said only to have happened on a Tuesday, which would be 3 February 2026, but the year and exact link to the court date are not stated.
   - No quantity, weight, value, prison-term length, names, ages or nationalities of the five expelled and two imprisoned people were published.
-  - The Ndarinfo page displays one photo whose caption only repeats the headline and does not describe what is shown, so no media entry is included.
   - Whether the two imprisoned people are among the foreigners or include Mauritanians is not specified beyond five foreigners expelled and two others imprisoned.
 ---
 

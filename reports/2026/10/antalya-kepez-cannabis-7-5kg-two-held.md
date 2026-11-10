@@ -276,7 +276,6 @@ open_questions:
   - The article names the trafficking charge only against O.Ü. and does not say on what charge M.S.K. was held.
   - The gallery republishes İHA's police-camera stills, which appear to be the same handout frames already linked from the agency's page in this report, so its copies were not listed as separate pictures.
   - The Habertürk page is an unedited Anadolu Agency wire copy, so it corroborates the account already in the report rather than adding independent reporting.
-  - The only image on the submitted page is a generic Antalya local-news graphic, not a photograph of the operation, so no media entry was added.
   - The Aksiyon page carries a headline still and an inline 'Şüpheli Araç' image that appear to be the same police-camera handout already linked from İHA, so they were not added as separate media entries.
   - Ensonhaber credits İhlas Haber Ajansı (İHA) for the report, so the page repeats the agency account already cited in the report rather than adding independent reporting.
   - The page carries three uncaptioned stills of the operation; without captions or credits they could not be confirmed as distinct from the police handout frames already linked from İHA, so they were not listed as separate media.
@@ -290,7 +289,6 @@ open_questions:
   - Haber Antalya's account follows the same police account as the AA and DHA wire copies, so it corroborates the operation rather than adding independent reporting.
   - The page's only photograph is a police-camera still of a car marked 'Şüpheli Araç' that appears to be the same handout already linked from İHA, so it was not added as a separate picture.
   - Haber Name's report is an Anadolu Agency wire copy, so it corroborates the agency account already in the report rather than adding independent reporting.
-  - DHA's report is marked as illustrated, but its lead image could not be confirmed to show the operation rather than a generic view, so it was not added as a media entry.
   - 'Left out, as its quotation was not found in Mynet: M.S.K. was remanded in pre-trial detention, known in Turkey as tutuklama, while O.Ü. was released under judicial control, a supervision order that falls short of custody.'
   - 'Left out, as its quotation was not found in Yeni Alanya: Police in Antalya detained two men in an operation against drug trafficking after information that they were selling and distributing drugs brought into the city.'
   - 'Left out, as its quotation was not found in Yeni Alanya: Officers caught the suspects, identified only as M.S.K. and O.Ü., in Kepez district.'
@@ -298,18 +296,9 @@ open_questions:
   - The page's lead photograph appears to be the same police handout of wrapped cannabis packets in front of the Antalya narcotics branch banner already linked from Yeni Birlik, so it was not listed as a separate picture.
   - Kemer Gözcü publishes DHA's wire text without independent reporting, so it corroborates the account already in the record rather than adding a second independent source.
   - 'Left out, as its quotation was not found in Haber Antalya: M.S.K. was remanded in pre-trial detention, known in Turkey as tutuklama, while O.Ü. was released under judicial control, a supervision order that falls short of custody.'
-  - The submitted page carries a lead image captioned with the operation headline, but without a credit or caption confirming it shows this seizure as distinct from police handout frames already linked in the report, so no media entry is added.
-  - The page's lead image carries only the operation headline without a credit confirming it shows this seizure as distinct from police handout frames already linked, so no media entry is added.
   - The page does not specify which of M.S.K. and O.Ü. was remanded and which was placed under judicial control; the name-to-outcome mapping rests on the earlier sources already cited in the report.
-  - The page's lead image carries only the operation headline without a credit confirming it shows this seizure as distinct from police handout frames already linked in the report, so no media entry is added.
-  - The Yeniçağ page carries police-camera video and a lead image, but without captions or credits confirming they show this seizure as distinct from police handout frames already linked in the report, so no media entry is added.
   - The new account gives no separate date for the operation; 31 October 2026 is its publication date.
-  - The new account confirms 7 kg 500 g in various bags but does not give the 15-packet count recorded in the existing report.
-  - The page's lead image carries only the operation headline without credit confirming it shows this seizure as distinct from police handout frames already linked, so no media entry is added.
   - The new account gives no separate date for the operation; 1 November 2026 is its publication date.
-  - The submitted page carries three images captioned only with the operation headline or file names, without credits confirming they show this seizure as distinct from the police handout frames already linked in the existing report, so no media entry is added.
-  - The new account gives no separate date for the operation; 1 November 2026 is its publication date, one day after the existing report's 31 October 2026 date.
-  - The page's lead image carries only the operation headline without a credit confirming it shows this seizure as distinct from police handout frames already linked in the existing report, so no media entry is added.
 ---
 
 Police in Antalya detained two men in an operation against drug trafficking

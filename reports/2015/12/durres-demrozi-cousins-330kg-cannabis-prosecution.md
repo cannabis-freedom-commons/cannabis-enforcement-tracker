@@ -60,7 +60,6 @@ open_questions:
   - The court's final sentence for Muhamet and Agim Demrozi was not reported in the opened accounts; only Bashkim Demrozi's final six-year-eight-month sentence is documented.
   - The port seizure was reported at about 350 kg of marijuana when it happened and at 330 to 332 kg in the charging request and later police statements, so the exact weight remains unsettled.
   - No figure for the value of the cannabis was published in the opened sources.
-  - 'Media: no photo or video showing the seizure or the court proceedings could be identified from its caption or credit, so no media entry is included.'
   - 'Left out, as its quotation was not found in Durrës Lajm: The case began on 19 August 2014, when authorities found about 330 kg of cannabis sativa loaded in a freight truck that was about to board a ferry from Durrës to Italy.'
   - 'Left out, as its quotation was not found in Shqiptarja.com: Police also named Bashkim, then 32, and Agim Demrozi, then 43, both living in Kavajë, and Ermal Lusha, as wanted after the port seizure.'
 ---

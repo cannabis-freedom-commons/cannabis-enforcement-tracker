@@ -57,7 +57,6 @@ open_questions:
   - The article gives no exact date for the June 2023 raid or for the earlier plea hearing.
   - The report comes from a single account based on a Staffordshire Police statement; no second outlet or police release could be opened.
   - The suspended sentence has no stated unpaid-work or rehabilitation requirements.
-  - The page's only image is a portrait captioned Jonathan Gent, not a picture of the raid or the court, so no media entry is made.
 ---
 
 27-year-old Jonathan Gent, of Tunstall, Stoke-on-Trent, was given a

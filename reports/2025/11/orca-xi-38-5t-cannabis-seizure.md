@@ -56,7 +56,6 @@ open_questions:
   - Only the DW account could be opened; no second independent account of this operation was found.
   - The page's only image is an archive photo of a different detention in Bogota and does not show this operation, so no event photo is listed.
   - The text gives a number of plants ("659,000 coca plants") but the figures have no plants_destroyed; check whether it belongs there.
-  - INTERPOL says the operation covered 20 countries while the existing report says 19; the INTERPOL list names Argentina, Belize, Bolivia, Brazil, Chile, Colombia, Costa Rica, the Dominican Republic, Ecuador, El Salvador, Guatemala, Guyana, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Suriname and Uruguay.
   - The Chile caption of over a tonne of cannabis with seven firearms and six vehicles appears distinct from the 580 kg Chile investigation already in the report, but the release does not clarify whether they are separate cases or give a cannabis-only weight for the 580 kg total.
 ---
 

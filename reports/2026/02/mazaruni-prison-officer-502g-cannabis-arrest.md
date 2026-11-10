@@ -49,7 +49,6 @@ sources:
 open_questions:
   - The submitted Guyana Chronicle page could not be read because its capture shows only a Sucuri firewall geo-block, so its account of the event could not be used.
   - The officer was not named and no charges or court outcome were reported.
-  - No direct image address for the published photo of the suspected cannabis could be recovered, so no media entry is included.
 ---
 
 A 26-year-old prison officer from Golden Grove, East Coast Demerara, was

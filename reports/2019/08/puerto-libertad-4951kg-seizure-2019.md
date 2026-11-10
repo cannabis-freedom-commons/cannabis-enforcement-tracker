@@ -36,7 +36,6 @@ open_questions:
   - The operation occurred the previous week; 22 August 2019 is the publication date and is used as the incident date.
   - No arrests, identities, charges or later court outcome are reported.
   - Only one accessible account of this event could be opened.
-  - The government page carries three embedded images without captions or descriptive alt text confirming that they show this seizure, so no media entry is included.
 ---
 
 Security Minister Patricia Bullrich and Naval Prefect chief Eduardo Scarzello

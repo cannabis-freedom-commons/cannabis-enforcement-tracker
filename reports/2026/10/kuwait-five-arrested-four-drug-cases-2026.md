@@ -66,9 +66,7 @@ open_questions:
   - The statement does not say where in Kuwait the arrests took place or which of the four cases the 5 grams of hashish belonged to.
   - The same ministry statement reported a security campaign in Jahra governorate and traffic campaigns against delivery riders, separate events left out of this report.
   - 'Neither page carried a photograph that could be confirmed to show the seized items: Al-Rai''s picture is of a government building, and Kuwait Times ran four uncaptioned images beside the drug item.'
-  - The Sarmad page displays a main image with an empty caption and alt text, so it cannot be confirmed to show this seizure and no media entry is included.
   - The Al-Anbaa page was first published on 31 October 2026 and carries a 1 November 2026 date line, so the date of the arrests themselves remains unstated.
-  - Al-Anbaa spells the drug «اللاريكا» where the existing report uses Lyrica; they appear to be the same capsules and powder.
 media:
   - kind: photo
     url: https://alseyassah.com/article/474545/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B6%D8%A8%D8%B7-5-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D9%81%D9%8A-4-%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D8%A7%D8%AA%D8%AC%D8%A7%D8%B1-%D9%88%D8%AA%D8%B9%D8%A7%D8%B7/

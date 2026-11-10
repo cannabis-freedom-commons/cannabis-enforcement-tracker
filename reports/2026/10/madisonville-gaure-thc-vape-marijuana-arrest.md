@@ -64,7 +64,6 @@ open_questions:
   - The sources do not say whether the 250-pound vape figure is liquid weight alone or includes cartridge hardware.
   - No value for the drugs, firearms or other items was published, so no value is recorded.
   - No court outcome beyond the charges and jailing was reported; police said the investigation remains ongoing.
-  - A second image on the WBKO article page has only the alt text dfb with no informative caption, so it is not established to show this seizure and no media entry is included for it.
 ---
 
 Investigators arrested 25-year-old Alejandro Gaure of Madisonville and booked

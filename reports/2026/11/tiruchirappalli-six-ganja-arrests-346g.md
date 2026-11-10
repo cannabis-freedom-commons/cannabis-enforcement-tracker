@@ -44,7 +44,6 @@ open_questions:
   - The individual breakdown of the combined 146 grams among the other arrested people was not published.
   - No charges, custody decision or court outcome was reported.
   - Only one accessible source for this event was found after searching in English and Tamil.
-  - The page image is captioned only as a dramatic arrest operation and is not established to show this ganja seizure, so no media entry is included.
   - Tobacco-product and intoxicant-pill cases in the same roundup are separate enforcement events left out of this cannabis report.
 ---
 

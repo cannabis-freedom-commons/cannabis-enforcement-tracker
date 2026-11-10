@@ -103,7 +103,6 @@ open_questions:
   - KFOR put the number of people taken into custody at four, which fits one arrest plus three ICE transfers but is not confirmed by OBN.
   - No area in hectares, street value or number of plants destroyed versus taken as evidence was reported.
   - It is not stated whether the 114 pounds of processed marijuana were sealed retail product or bulk processed flower.
-  - KFOR places the property in Clinton; other coverage put the grow south of Clinton in Washita County, and the existing report keeps the Washita County location.
   - KFOR gives no names or charges for the four people taken into custody, and no court outcome was reported.
   - KFOR says OBN served the warrant at a property ‘in Clinton’, while other coverage places the grow south of Clinton in Washita County.
 ---

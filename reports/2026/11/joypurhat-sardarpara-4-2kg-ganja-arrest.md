@@ -51,11 +51,7 @@ open_questions:
   - The 7,579 yaba tablets and 99 bottles of Phensedyl syrup are not cannabis and are excluded from the cannabis figures; only the 4 kg 200 g of ganja is recorded.
   - The page says the raid took place on Saturday evening but gives no time; the SRB-5 press release confirming it was sent at midday on Sunday 8 November.
   - No charge sheet, case number, court date or court outcome was reported; the suspect was handed to police for further legal action.
-  - The page's lead photo carries no credit and no caption beyond the headline, so it is not established to show this seizure and no media entry is included.
   - The yaba figure is printed with a space splitting the number and is read as 7,579 tablets.
-  - The submitted page names the raiding unit as Rab-5, CPC-3, Joypurhat camp and gives a 5:50 am start on 7 November, while the Eimattro account attributes the raid to SRB-5 in the evening; the two accounts do not agree on the unit's name or the time.
-  - The submitted page does not itself say a case was filed; that wording comes from the Eimattro account of the same raid.
-  - The submitted page and the Eimattro account spell the syrup name and the suspect's family village differently, so the report keeps the Sardarpara place both accounts name for the raid.
   - 'Left out, as its quotation was not found in এইমাত্র (Eimattro): An Eimattro report of the same raid said a case was filed against him at the police station under the Narcotics Control Act.'
 ---
 

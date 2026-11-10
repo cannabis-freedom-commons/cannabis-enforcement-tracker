@@ -62,7 +62,6 @@ open_questions:
   - The New Region's published image is an AFP file photo and Nabamart's is an illustration; no verifiable photograph of this seizure was found.
   - Both accounts retell a single Interior Ministry statement, so no independent account of the interception could be opened.
   - The article dates the ministry announcement to Saturday and gives no separate date for the interception; 15 August 2026 stands in for the incident date.
-  - The lead picture is captioned only with the headline and carries no credit, so it is not established to show this seizure and no media entry is added.
 ---
 
 Iraq's interior ministry announced that the General Directorate of Narcotics Affairs had

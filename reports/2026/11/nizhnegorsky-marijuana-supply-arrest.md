@@ -51,10 +51,8 @@ open_questions:
   - No weight was published for the large marijuana batch, so no cannabis quantity is recorded.
   - The 1.3 million roubles were cash seized at the home and are not a valuation of drugs, so no value figure is recorded.
   - Only one source for this event could be opened; searches for a second report found no accessible match.
-  - No photo of this event was available on the page; the listed page images belong to other stories, so no media entry is included.
   - No court outcome beyond remand and case opening has been reported.
   - The same article also mentions a separate detention in Rostov region involving 27 plants and over 1.2 kg, a different event left out here.
-  - The page lead image carries no caption or credit establishing that it shows this detention, so no media entry is included.
 ---
 
 In Crimea, police placed a 49-year-old resident of Nizhnegorsky district in

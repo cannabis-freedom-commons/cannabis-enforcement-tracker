@@ -48,7 +48,6 @@ open_questions:
   - 'The incident date is inferred: the article published 19 January 2013 says the truck was stopped on Friday afternoon, which was 18 January 2013.'
   - No names, charges, or court outcome for the two detainees were reported.
   - No second account of this seizure was found; the cited daily El Pueblo could not be opened for this report.
-  - The page's only image is labelled as an archive photo and is not confirmed to show this seizure, so no media entry is listed.
 ---
 
 A Paraguayan-registered truck trying to enter Uruguay over the Salto Grande

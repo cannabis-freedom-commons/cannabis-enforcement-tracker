@@ -79,10 +79,7 @@ open_questions:
   - The suspect was not named, and no age, personal details or criminal record was reported.
   - Only a pretrial remand is recorded; no indictment, trial date or court sentence has been reported.
   - The Hürriyet account is bylined to the Demirören news agency and the İhlas text is repeated by Habertürk, so the outlets restate police or agency accounts rather than independent reporting.
-  - The Son Dakika page is a reprint of the İhlas Haber Ajansı text already cited by the existing report, not independent reporting.
-  - Its single photo repeats the police display of the cannabis, scale and pistol already linked from Konhaber, so no second media entry was added.
   - The Konya Postası account is not billed to a news agency and describes the same police statement, so it is another outlet's version rather than independent reporting.
-  - The page's only picture is captioned solely with the headline and carries no credit, so it is not confirmed to show this seizure and no media entry is added.
 ---
 
 Police in Çumra district of Konya detained a suspect and found 2 kg 226 g of

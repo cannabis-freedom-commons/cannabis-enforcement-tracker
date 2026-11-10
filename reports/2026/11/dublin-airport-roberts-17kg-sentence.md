@@ -58,9 +58,7 @@ open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate sentencing date, so that date is used as the incident date.
   - No second source for this sentencing was found; the report rests on the single opened Dublin People account.
   - The page's lead picture is a Bigstock gavel-and-scales stock image and the second image is an advertisement gif, so no event photo is listed as media.
-  - The Independent gives almost €380,000 while the existing report uses the detailed €357,200 figure; the report already notes this headline rounding.
   - Only the lead paragraph could be opened because the article is paywalled, so names, exact weight, flight origin and court details continue to rest on the existing Dublin People account.
-  - The page lead picture is credited only as © getty stock and does not show this event, so no media entry is included.
 ---
 
 Dublin Circuit Criminal Court imposed a sentence of four years and nine months

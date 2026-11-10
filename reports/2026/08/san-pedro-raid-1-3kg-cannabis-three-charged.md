@@ -33,7 +33,6 @@ open_questions:
   - Only one source for this event could be opened; no second account or agency statement was found.
   - The 21 grams of suspected cocaine and 28 grams of suspected crack cocaine are left out of the cannabis figures under the mixed-event rule; only the separately stated 1,312 grams of cannabis is counted.
   - All drug amounts were described as suspected, with no laboratory confirmation, plea, court date or later outcome reported.
-  - The submitted page carries an image file named for Horace Anthony Crawford and Bridget Alcer, but with no caption or credit tying it to the raid or seizure, so no media entry is added.
 ---
 
 Three San Pedro residents were jointly charged with drug trafficking following a

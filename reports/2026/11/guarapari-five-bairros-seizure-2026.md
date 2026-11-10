@@ -61,7 +61,6 @@ open_questions:
   - Cocaine, crack, cash, firearm, ammunition and scale amounts are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - The status of the man found in Cubatao and of the three people stopped in Santa Monica was not stated as detention or arrest, so only the Perocao detention and the Portal Clube adolescent apprehension are counted as arrested.
   - No charges, custody decision or court outcome beyond the adolescent's circumstantial report and release to family were reported.
-  - The Folha Vitória photo shows the Guarapari Regional police station and the TV Guarapari Cubatao photo shows the .38 revolver; neither shows the cannabis seizure, so no media entry is included for them.
   - 'Left out, as its quotation was not found in Folha Vitória: The Portal Clube adolescent was 16 and was seized on Saturday night (31) in Portal Clube in Guarapari.'
 ---
 

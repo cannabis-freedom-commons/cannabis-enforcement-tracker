@@ -48,7 +48,6 @@ open_questions:
   - No charges, court stage or sentence were reported; the 20 years is the penalty the sale charge could carry, not a penalty imposed.
   - The three are not named; the accounts give only their ages of 36, 22 and 24 and that they came from Moldova and lived in Chișinău.
   - A Transnistrian television outlet's headline mentions heroin although its text names only mephedrone, hashish and alpha-PVP, and no heroin seizure is described.
-  - The submitted page's only image is captioned as an Interior Ministry banner from the news agency's archive rather than a picture of the raid, so no media entry is included.
 ---
 
 Transnistrian law enforcement detained three drug couriers from Moldova — two

@@ -55,7 +55,6 @@ open_questions:
   - No figure for the area cleared, the value of the haul, charges or any court outcome was published.
   - No single gendarmerie statement or local Malagasy or French outlet reporting this specific May–June 2020 operation could be opened; all opened accounts derive from the Global Initiative's research.
   - The Natural setting here is inferred from the Analabe region's forests and cannabis fields; the opened accounts do not describe the specific raid sites.
-  - The Daily Maverick page's images were not confirmed to show the operation; the Risk Bulletin carries a Gendarmerie Nationale handout of a July 2020 field burning in Analabe, but its direct image address could not be recovered, so no media entry is listed.
   - Left out products, as its quotation was not found in Global Initiative Against Transnational Organized Crime Risk Bulletin.
 ---
 

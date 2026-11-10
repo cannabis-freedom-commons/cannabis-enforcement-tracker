@@ -55,7 +55,6 @@ open_questions:
   - The number of accused is approximate, given as una treintena and cerca de treinta.
   - The 150-kg and nearly 200-kg totals describe the amount allegedly transported and distributed in 2012-2013, only partly directly seized, and are recorded as the case weight.
   - No second account of this dismissal was located; the report rests on one opened source.
-  - The page image is an archive photo of hashish seized in another Guardia Civil operation, so no media entry is added.
 ---
 
 The criminal section of the Cádiz Court of Instance, Plaza number 4, finally

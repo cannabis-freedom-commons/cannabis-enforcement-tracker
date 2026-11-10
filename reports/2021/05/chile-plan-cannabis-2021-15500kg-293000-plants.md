@@ -80,7 +80,6 @@ open_questions:
   - No charges, prosecutions or court outcomes beyond the 42 detentions were reported.
   - The 225,000 million figure is reported in pesos in Chilean outlets and is recorded as Chilean pesos.
   - The 162 million doses and 225,000 million pesos are police estimates of the same cannabis haul.
-  - No captioned photo establishing this operation could be recovered; the submitted PDI page images show podcasts, surveys and a summit, and the other pages carry uncaptioned images, so no media entry is included.
 ---
 
 On the morning of 6 May 2021, Chilean authorities presented the closing balance

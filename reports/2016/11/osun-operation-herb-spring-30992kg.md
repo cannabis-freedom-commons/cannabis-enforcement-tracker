@@ -49,7 +49,6 @@ sources:
 open_questions:
   - No court outcome for the eleven suspects was reported in these sources.
   - Both accounts draw on the same NDLEA briefing issued on the Friday of the raid; no independent second account was found.
-  - No photo of the raid with a recoverable direct address was found in the opened sources, so no media entry was added.
 ---
 
 NDLEA officers raided 27 camps used as storage facilities inside farmland at the Orita-Ijebu forest reserve, in the Ikoyi area of Ikire, destroying 2,317 bags of cannabis weighing 30,992kg in an operation codenamed Operation Herb Spring. [@1,2] The raid followed intelligence on cannabis cultivation in the forest, and a Special Enforcement Team coordinated it on the orders of the agency's chairman. [@1]

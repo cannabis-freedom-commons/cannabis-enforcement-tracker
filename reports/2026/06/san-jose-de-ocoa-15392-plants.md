@@ -39,14 +39,12 @@ open_questions:
   - No total weight or area for the plantation was published; the plants were sent to INACIF for weighing.
   - The DNCD says it questioned more than 10 people but does not say how many were arrested or charged; DR1 describes them as detained or interrogated.
   - The DNCD release links the plantation to an earlier June raid in the same area, a separate event left out here.
-  - The DNCD page carries several photographs of the operation, but the image files could not be opened for inspection, so no media are listed.
   - DR1's account is based on the DNCD release and is not independent.
   - EFE names only San José de Ocoa province while the DNCD republication specifies El Pinar municipal district; the report keeps the more precise district location.
   - EFE also cites 2026 national drug totals and the US Operation Lanza del Sur context, which are separate statistics left out here.
   - The article's 20,227-plant six-month aggregate across three farms in Ocoa and Baní is a campaign total left out of this single-event report.
   - The article also summarizes a 6 June El Pinar seizure of more than 3,000 plants with two arrests and a 2 February Montería, Baní seizure of 1,835 plants, separate events left out here.
   - The article gives no separate date for the 15,392-plant operation beyond the past weekend relative to its 23 June publication; the 21 June DNCD statement date is retained.
-  - The main photo caption describes DNCD operations in the south generally and does not establish that it shows this El Pinar plantation, so no media entry is included.
 sources:
   - title: DNCD INTERVIENE EN SAN JOSÉ DE OCOA OTRA GRAN SIEMBRA DE MARIHUANA QUE SUPERA LAS 15,000 PLANTAS
     url: https://dncd.gob.do/noticias/dncd-interviene-en-san-jose-de-ocoa-otra-gran-siembra-de-marihuana-que-supera-las-15000-plantas/

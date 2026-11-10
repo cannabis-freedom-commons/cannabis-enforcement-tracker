@@ -75,8 +75,6 @@ open_questions:
   - The detained woman and minor are not named; only the woman's age of 31 is given.
   - No court outcome is reported; the Ministerio Público agent will determine their legal situation.
   - Only one source could be opened; searches for a second account of the same detention found no accessible report.
-  - The submitted page headlines the pair as mother and son, while the existing report identifies them only as a 31-year-old woman and an adolescent or minor.
-  - The submitted page carries an SSC CdMx photo of the detention that may repeat the agency handout already cited, so no new media entry is added.
   - 'The article gives two different weights for the seizure: its photo caption says 45 grams while the caption line under the photo and the headline text give 75 grams; the report''s 75 grams follows the latter.'
   - The article gives no separate date for the detention, so 2 November 2026 is its publication date used as the incident date.
   - Only the woman's age (31) is given; neither detainee is named, and the adolescent's age is not stated.

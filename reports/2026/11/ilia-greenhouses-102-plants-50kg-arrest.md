@@ -168,65 +168,16 @@ open_questions:
     November 2026.
   - No village or plot location was named, so coordinates are for the Ilia district centre.
   - The reports do not state whether the 102 growing plants were uprooted or destroyed after seizure.
-  - >-
-    The page lead image uses a file path from 2016/05, so whether it shows this 2026 seizure could not be
-    established and no media entry is added.
-  - >-
-    The page's only image caption repeats the headline and its file name suggests handcuffs, so whether it
-    shows this seizure could not be established and no media entry is added.
-  - >-
-    The submitted page carries an image captioned only “kanavi”, which does not establish that it shows this
-    seizure, so no media entry is added.
-  - >-
-    The ERTNews page published 2 November 2026 says the arrest was yesterday at midday, implying 1 November
-    2026, while the existing report dates the arrest to Saturday 31 October 2026 inferred from 1 November
-    publications.
   - No village or plot location is named beyond Ilia, so no more precise place is established.
-  - >-
-    The page carries images whose alt text repeats the headline with no credit, so whether they show this
-    seizure could not be established and no media entry is added.
-  - >-
-    The page's lead image has only the alt text “1” and linked police images were removed, so whether any
-    image shows this seizure could not be established and no media entry is added.
-  - >-
-    The submitted page's listed images are site banners and an older police-car file, none established as
-    showing this seizure, so no media entry is added.
-  - >-
-    The submitted page gives only its 1 November 2026 publication date; the existing report dates the arrest
-    to Saturday 31 October 2026.
-  - >-
-    The submitted page carries an image captioned only “αστυνομία-1”, which does not establish that it shows
-    this seizure, so no media entry is added.
-  - >-
-    The submitted page was published 2 November 2026 and says the arrest was yesterday at midday, implying 1
-    November 2026, while the existing report dates the arrest to Saturday 31 October 2026.
-  - >-
-    The page carries one image whose caption and credit are empty, so whether it shows this seizure could not
-    be established and no media entry is added.
   - >-
     The apology and remand date is inferred as 3 November 2026 from 'yesterday' relative to the 4 November
     2026 publication.
   - No trial date or further court outcome was reported.
   - >-
-    The page's photo caption repeats the headline with no credit, so whether it shows this seizure could not
-    be established and no media entry is included.
-  - >-
-    The page's two listed images have empty captions and one uses a 2020 file path, so whether either shows
-    this seizure could not be established and no media entry is included.
-  - >-
     The exact agricultural plot within Ilia was not identified beyond an area of Ilia, so coordinates mark
     Pyrgos as the district centre.
   - The suspect was described only as a Greek man and was not named.
   - No court outcome beyond referral to the Ilia prosecutor was reported.
-  - >-
-    The article dates the arrest only to Saturday at midday; 31 October 2026 is inferred from its 2 November
-    2026 publication date, matching the existing report's date.
-  - >-
-    The AlphaTV page carries two Hellenic Police photos of the warehouse and the finds that appear to
-    republish the same police handout already covered in the existing report, so no new media entry is added.
-  - >-
-    The page's photos appear to republish the same Hellenic Police handout already cited in the existing
-    report, so no new media entry is added.
 ---
 
 Police arrested a man in Ilia after finding 102 cannabis plants in two greenhouses and seizing 50.03 kilograms of dried cannabis. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19]

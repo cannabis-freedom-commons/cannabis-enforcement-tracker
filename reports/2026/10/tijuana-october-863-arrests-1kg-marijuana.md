@@ -45,7 +45,6 @@ open_questions:
   - The 863 detentions cover all alleged crimes, not cannabis-specific cases; no cannabis-specific arrest count was published.
   - Only the cannabis weight of 1.01 kg is counted in figures; 1,560 marijuana doses have no stated weight and are not converted, and the 37 kg-plus combined total and other substances are excluded from cannabis figures.
   - No outcome for charges, prosecutions or sentences was reported.
-  - 'Page images carry only generic captions such as Cortesía or Foto: Web and do not establish that they show this operation, and an embedded video has no caption establishing it shows the event, so no media entry is listed.'
   - 'Left out, as its quotation was not found in Uniradio Informa: Those detained included 88 alleged generators of violence, three people flagged for homicide, 13 for attempted homicide, 44 for carrying firearms and 72 for vehicle robbery.'
   - 'Left out, as its quotation was not found in Uniradio Informa: The same October total included 3,599 doses and 36.7 kilograms of methamphetamine, 162 doses of heroin, five doses of cocaine and 30 fentanyl pills, making up more than 37 kilograms of prohibited substances overall.'
 ---

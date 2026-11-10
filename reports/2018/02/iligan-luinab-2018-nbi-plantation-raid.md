@@ -64,7 +64,6 @@ open_questions:
   - The NBI describes the area as mountainous land in Purok 5, Upper Luinab, while the Inquirer speaks of two plantations of a hectare each; the area figure of one to two hectares is not recorded as a figure.
   - Bombo Radyo gives the suspect's age as 25, which no other account confirms, and names the NBI regional director rather than the head agent quoted by the Inquirer.
   - No plea, court outcome or filing of the inquest case was reported; the news accounts end with the suspect in NBI custody.
-  - The Inquirer page carries a generic medical-marijuana stock image in its metadata, not a photograph of this raid, so no media is listed.
 ---
 
 NBI agents, PDEA agents, police and soldiers raided two adjacent marijuana

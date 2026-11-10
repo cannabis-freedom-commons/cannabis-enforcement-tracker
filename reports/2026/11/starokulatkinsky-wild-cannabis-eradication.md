@@ -35,7 +35,6 @@ open_questions:
   - The article gives no date for the destruction or the inspection; 6 November 2026 is its publication date.
   - No figure for the area or number of plants destroyed, and no weight of cannabis, was published.
   - No arrests, charges or court outcome were reported for the officials found not to have cleared the plants.
-  - Ulpressa and Media Talk carry logos only; KP.RU's share card shows officers in a field with the headline overlaid but is not established to depict this destruction, so no media entry is listed.
 ---
 
 Prosecutors in Starokulatkinsky District, Ulyanovsk Oblast, found that wild

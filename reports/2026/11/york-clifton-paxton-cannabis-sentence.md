@@ -46,7 +46,6 @@ open_questions:
   - No figure for the amount of cannabis seized or supplied was published
   - The date of the raid and arrest was not given
   - Only one source reporting this case could be opened
-  - The page carries gallery images whose captions do not establish what they depict, so no media entry is listed
 ---
 
 Deborah Paxton, 51, denied selling the Class B drug to users until the day of

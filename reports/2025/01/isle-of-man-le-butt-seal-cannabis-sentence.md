@@ -50,8 +50,6 @@ open_questions:
   - No cannabis weight was published, only five bags and a £49,000 value, so no kilograms are recorded.
   - The article gives no separate sentencing hearing date; 17 January 2025 is the publication date and is used as the incident date.
   - Only one source for this event could be opened; web search returned no second account to corroborate or add facts.
-  - The BBC hero image is described as a close-up of a cannabis plant and does not show this seizure, raid or court action, so no media entry is included.
-  - Manx Radio credits the report to BBC Isle of Man, so it is a republication of the existing report's source, not independent reporting.
 ---
 
 Oliver Le-Butt-Seal, 35, was sentenced for importing cannabis to the Isle of

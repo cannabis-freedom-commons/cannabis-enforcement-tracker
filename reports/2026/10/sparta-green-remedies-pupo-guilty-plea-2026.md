@@ -60,7 +60,6 @@ open_questions:
   - The guilty plea date is inferred as Tuesday, 20 October 2026, because Patch published on Friday, 23 October 2026 and said Pupo pleaded guilty on Tuesday; the exact plea date was not stated.
   - TAPinto reports $447,135.28 in seized cash and values the 2024 Chevrolet Suburban at $75,000, while Patch reports $477,135 in cash with about $250,000 found inside the vehicle; the report uses the $477,135 prosecutor's figure cited by Patch.
   - TAPinto says the case stems from a 2025 arrest but also says a 2024 investigation led to the arrest; the arrest timeline and how it maps to the May 2025 enforcement action are left open.
-  - The TAPinto page's only news image is a stock scales-of-justice illustration and Patch supplies no event photo, so no media entry of the seizure or shops is added.
   - The Patch sentencing date of Jan. 15 was not given a year, so it is not recorded as a dated outcome; sentencing had not occurred at publication.
 ---
 

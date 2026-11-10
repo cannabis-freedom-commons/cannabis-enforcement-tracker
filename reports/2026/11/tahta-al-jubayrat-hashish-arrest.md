@@ -103,12 +103,9 @@ open_questions:
   - No photo of the arrest was published; the pictures on the pages are generic archive or Ministry of Interior images, so none is linked.
   - The article gives no weight for the hashish or amount for the cash seized.
   - The article gives no separate date for the arrest; 1 November 2026 is its publication date.
-  - The submitted page was published on 2 November 2026 while the existing report's accounts were published on 1 November 2026; no separate arrest date is given, so the later date appears to be republication of the same arrest.
   - The page gives no weight for the hashish and no amount for the cash seized.
-  - Whether the page image shows this arrest is not established from its caption and surrounding text, so no media entry is added.
   - The page gives no weight for the hashish, no amount for the cash and no separate date for the arrest; 7 November 2026 is its publication date.
   - The page names the suspect as Nour A. S. and repeats the police statement, adding no independent detail.
-  - The page image is captioned only with a section and time label and is not established to show this seizure, so no media entry is added.
 ---
 
 Police in Tahta, a district in northern Sohag governorate, arrested a

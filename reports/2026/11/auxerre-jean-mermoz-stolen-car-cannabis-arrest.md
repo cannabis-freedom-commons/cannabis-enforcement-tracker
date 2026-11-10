@@ -43,7 +43,6 @@ open_questions:
   - No charge, prosecution or court outcome beyond the initial garde à vue was reported.
   - The standfirst dates the custody to Tuesday 3 November 2026 while the body dates the arrest to Monday 2 November 2026 at 17:30; the report uses the body date.
   - Only one source about this event was found, so no second account confirms the details.
-  - The page photo is captioned as an illustration and does not show this arrest, so no media entry is listed.
 ---
 
 National police arrested an 18-year-old man on avenue Jean-Mermoz in Auxerre at

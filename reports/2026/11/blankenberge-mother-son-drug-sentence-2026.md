@@ -48,12 +48,10 @@ sources:
     language: nl
 open_questions:
   - Only one source for this sentencing could be opened and no second outlet or court statement was found.
-  - The page image is labelled as an illustration and archive image of the Bruges court, so it does not show this event and no media entry is added.
   - The incident date of 2 November 2026 is the publication date and the Monday morning on which the judge ruled, with no separate sentence date stated.
   - The cited weekly amount of about 100 grams of cannabis is an alleged dealing volume, not a seized weight, and is excluded from the seized-cannabis figure.
   - Cocaine and speed are part of the same case but no separate weights were published, so only the 20 grams of cannabis is counted as cannabis seized.
   - The defendants are identified only by initials and ages, and the court-declared forfeiture of 7,800 euros is not allocated among them in the source.
-  - The page's only image is credited to GettyImages with a generic drugs/cocaine file name and no caption linking it to this search or hearing, so no media entry is added.
 ---
 
 The Bruges criminal court sentenced a 44-year-old mother from Blankenberge to

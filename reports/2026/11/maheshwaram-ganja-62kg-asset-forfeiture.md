@@ -67,7 +67,6 @@ open_questions:
   - No court conviction, sentence or acquittal is reported for Moulana or Mustafa, and it is not stated whether either is in custody.
   - The sources give no date for the original seizure or for the registration of the Maheshwaram case, and no case number.
   - The Siasat photo is captioned only with the headline and shows packages with officers, so whether it records this case's 2024 seizure cannot be confirmed from the page.
-  - Telangana Today uses a generic standfirst image, so no media was taken from it; The Hindu carried no photo of the event.
 ---
 
 Telangana's Elite Action Group for Drug Law Enforcement, known as EAGLE Force,

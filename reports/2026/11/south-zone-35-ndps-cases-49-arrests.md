@@ -51,7 +51,6 @@ open_questions:
   - Whether the 19.8 kg hashish seizure from A. Mano in Ramanathapuram highlighted in one account is counted within the 43 kg drive total or reported separately is not clarified.
   - No names, charges or court outcomes for the 49 arrested persons were reported beyond the case count.
   - The 3,146 cases, 4,636 arrests, 2,853 kg seized and 939 convictions involving 1,189 accused are 2026 year-to-date totals for the South Zone, not figures for this one-day drive, and are left out of the figures.
-  - The submitted page image repeats the headline as its caption with no credit and cannot be confirmed to show this operation, and the second page labels its image as a representative image, so no media entry is included.
   - 'Not added to ramanathapuram-pasipattinam-19kg-hashish-arrest, as its quotation was not found in DT Next: The team intercepted Mano and recovered 2 kg of hashish from his possession.'
   - 'Not added to ramanathapuram-pasipattinam-19kg-hashish-arrest, as its quotation was not found in DT Next: Mano is the son of Anthony Xavier.'
 ---

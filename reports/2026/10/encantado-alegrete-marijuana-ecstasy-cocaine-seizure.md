@@ -49,7 +49,6 @@ open_questions:
   - No weight was published for the 10 marijuana cigarettes and the additional marijuana portion, which were counted only as units.
   - It is unclear whether presentation at the police station involved an arrest, charges or a custody decision.
   - The incident year 2026 is inferred from the 1 November 2026 publication dates; the articles give only Saturday 31.
-  - The submitted page carries a lead image whose content could not be verified, so it is not listed as media.
   - The second account attributes its information to the 22nd BPM Social Communication office and adds no independent weighing.
   - Ecstasy and cocaine were excluded from cannabis figures, and no combined drug total is attributed to cannabis.
 ---

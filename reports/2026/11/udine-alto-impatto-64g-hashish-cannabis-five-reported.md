@@ -59,8 +59,6 @@ open_questions:
   - No value estimate, number of officers deployed, or outcome for the five reported people was published.
   - The 3 November 2026 operation date is used as the incident date; the second check day was 30 October 2026.
   - Both accounts appear to draw on the same police statement, so they are not fully independent.
-  - The only picture on the UdineToday page, and the photo on the Il Friuli page, are generic police images with no caption tying them to this operation, so no media entry is added.
-  - The page's lead photo comes from an upload folder dated 2021, predating this operation, so no media entry is added.
 ---
 
 Udine police identified more than 300 people, stopped 87 vehicles and checked

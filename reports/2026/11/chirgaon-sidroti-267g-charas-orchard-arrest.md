@@ -68,9 +68,7 @@ open_questions:
   - The weight is reported as approximate (about 267 grams), not an exact measured figure.
   - No court outcome was reported; the accused was still to be produced in court and the investigation was continuing.
   - Only one accessible source for this event was found after searching in Hindi and English.
-  - The page photo is captioned as a symbolic crime image and is not established to show this seizure, so no media entry is included.
   - Vocal TV and Apple News say police issued the information on Saturday, and both give 5 November 2026 as the arrest date, while the report's existing incident date is the 7 November publication date.
-  - The two new outlets say the search was made on a tip-off and describe the recovery as 267 grams of charas, while the existing report records the weight as approximate.
   - This Amar Ujala page is a second, Rampur Bushahar edition of the same police account and states the arrest date as 5 November 2026, while the report's incident date is the 7 November publication date.
 ---
 

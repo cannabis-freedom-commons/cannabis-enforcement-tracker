@@ -120,26 +120,11 @@ open_questions:
     The Rakyat Post's picture is credited to Defi Media and appears to be the same photograph already listed
     in the report, so it was not added a second time.
   - >-
-    The submitted Kompas page uses an illustration captioned as illustration, not a photo of this seizure, so
-    no media entry is added.
-  - >-
-    Kompas values the haul at about 26.88 million Mauritian rupees while the existing report keeps Le Défi
-    Media Group's Rs 25.5 million figure; the difference is left open.
-  - >-
-    Kompas does not name the suspect or flight EK709 and does not name ADSU/CANS, which the existing report
-    records from Le Défi Media Group.
-  - >-
     The 15 September case of a 70-year-old Malaysian held with 6.18 kg at the same airport is a different
     event left out here.
   - >-
     The opened image page contains only the caption and no article body, so suspect name, flight EK709, agency
     units and controlled delivery are not corroborated by this page.
-  - >-
-    This page values the haul at Rp 10.2 miliar while the existing report keeps Rs 25.5 million from Le Défi
-    Media Group; the difference is left open.
-  - >-
-    The page image is captioned as an illustration credited to Shutterstock/ImYanis, not a photo of this
-    seizure, so no media entry is added.
   - >-
     The two accounts value the seizure differently: RM2.3 million here against about RM2.18 million in the
     newswire brief.
@@ -153,10 +138,7 @@ open_questions:
     The original report was imported without a recorded creator model; its original unknown attribution is
     preserved.
   - The new source does not name the suspect, flight EK709, or ADSU/CANS; those details rest on the existing sources.
-  - The new source values the haul at about RM2.18 million while the existing report keeps Rs 25.5 million from Le Défi Media Group; the difference is left open.
-  - The page image is captioned as a Rawpixel stock picture of a detention, not a photo of this seizure, so no media entry is included.
   - The article also describes a separate 15 September arrest of a Malaysian with 6.18 kg at the same airport, a different event recorded separately and left out here.
-  - Berita Harian gives 17.92 kg and RM2.3 million for the haul, while the existing report keeps 17.88 kg and Rs 25.5 million from Le Défi Media Group; the difference is left open.
   - The Berita Harian page is an AI-generated news summary and names no suspect, flight or agency unit.
   - Harian Metro gives 17.8 kg for the cook's luggage, a slightly different figure from the 17.88 kg recorded in this report; the difference is left open.
 ---

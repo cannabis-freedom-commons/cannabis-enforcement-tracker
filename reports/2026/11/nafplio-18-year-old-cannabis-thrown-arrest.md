@@ -65,7 +65,6 @@ open_questions:
   - No charge, prosecutor's referral, court date or outcome was reported; the case is at the preliminary investigation stage.
   - The article names no street or neighbourhood in Nafplio where the arrest took place.
   - All three accounts reproduce the same police announcement and are not independent reporting; no police statement page was opened.
-  - The page's lead photograph has no caption or credit and is not confirmed to show this arrest, so no media entry is included.
   - Anagnostis reproduces the same police announcement as the outlets already cited, so it is not independent reporting.
   - As before, no weight for the cannabis, charge, or court outcome was published.
   - Hmerisia Korinthou reproduces the same police announcement as the outlets already cited and is not independent reporting.

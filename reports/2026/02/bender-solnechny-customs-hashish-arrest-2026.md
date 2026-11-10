@@ -46,7 +46,6 @@ open_questions:
   - No charge sheet, court decision or sentence was reported; three to seven years is the penalty the smuggling charge could carry, not a penalty imposed.
   - The article does not say in which direction the man was crossing, or whether the package had been brought across the border or collected inside Transnistria.
   - Only one accessible account of the event was found after searching in Russian; the customs committee's own website and Telegram channel did not carry the case in the pages opened.
-  - The submitted page's only image is captioned as a Criminal Code of Transnistria file photo, so no media entry is included.
 ---
 
 Customs officers of Transnistria's State Customs Committee detained a man near

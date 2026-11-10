@@ -62,10 +62,8 @@ sources:
 open_questions:
   - The reports do not name the passenger or give age, sex, nationality or flight details.
   - No court outcome beyond the reported arrest was published.
-  - The only page image is labelled as an AI-generated representational image, so no media entry is added.
   - The second outlet republishes the same PTI account and adds no independent detail.
   - The MSN page, like the earlier copies, is a syndicated version of the same PTI wire text rather than an independent account; the direct Bengaluru Customs post on X was not opened.
-  - The MSN page displays no photograph of the seizure, only a generic page image, so no media is listed.
 ---
 
 On 1 November 2026, Bengaluru Customs officers intercepted at Kempegowda

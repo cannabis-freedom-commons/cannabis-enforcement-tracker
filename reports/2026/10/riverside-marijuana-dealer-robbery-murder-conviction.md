@@ -58,7 +58,6 @@ open_questions:
   - Both opened accounts are the same City News Service story, syndicated by MyNewsLA and Patch; no independent reporting of the verdict was found.
   - No cannabis quantity was stated; the victim is identified only as a marijuana dealer and the gang's intended robbery target.
   - The two cited accounts carried no photo or video of the killing or the court proceedings.
-  - The page's only image is a generic courts photo, not a photo of this event, so no media entry is listed.
   - 'Left out, as its quotation was not found in San Bernardino Sun: Her co-defendants, Isaiah Israel Rodriguez and Cristian Alejandro Runkle, both now 23, pleaded guilty in October 2021 to second-degree murder.'
 ---
 

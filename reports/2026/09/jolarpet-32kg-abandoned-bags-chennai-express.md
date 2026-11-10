@@ -37,7 +37,6 @@ open_questions:
   - Only one source could be found for this seizure.
   - No suspect is named and no arrest is reported; three carriers allegedly fled.
   - The train service is not named; the report says only that it halted on platform 2 en route to Chennai.
-  - The Hindu page image could not be recovered, so no media is listed.
 ---
 
 The Railway Protection Force seized 32 kg of ganja from bags abandoned inside an express train at Jolarpet railway station on Thursday. [@1] The Hindu published the account on 18 September. [@1]

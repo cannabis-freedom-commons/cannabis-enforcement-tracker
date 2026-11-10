@@ -84,7 +84,6 @@ open_questions:
   - The marijuana weight was reported as nearly 623 grams, not confirmed as an exact laboratory weight.
   - The suspect was identified only as a 42-year-old man; no full name was published.
   - No trial outcome was reported; only charges and a three-month pretrial detention order are known.
-  - The page embeds three event-area photos without captions or credits, so they cannot be established as distinct from the police handout already cited and no new media entry is added.
   - The station places the case in Chodzież district (powiat chodzieski) while the residence is described only as Wągrowiec County; the property location itself is not named.
 ---
 

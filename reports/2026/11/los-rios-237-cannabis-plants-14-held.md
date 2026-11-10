@@ -46,7 +46,6 @@ open_questions:
   - The annual totals of more than one tonne, 300 kilograms by the PDI and more than 700 kilograms by Carabineros cover unspecified drugs and are excluded from cannabis figures.
   - No names, charges or outcomes were published for the 14 detained people.
   - No second corroborating source for this weekly operation was located.
-  - The page carries a lead image with no caption or credit establishing that it shows this seizure, so no media entry is added.
   - Prison searches with phones, weapons and one kilogram of prohibited substances and livestock-control checks in the same article are separate events left out of this report.
   - The text gives a weight ("22 kg") but the figures have no kg_seized; check whether it belongs there.
 ---

@@ -42,7 +42,6 @@ open_questions:
   - One account rounds the seizure to one kilo while the detailed account gives 1 kilo 40 grams; the report uses the precise 1.04 kg figure.
   - The accounts differ on the operation's timing and supervising officer, describing a Wednesday-evening tip with ACP Siddharth Gautam and a Tuesday late-night patrol with ACP Shailendra Kumar Singh; 28 October 2026, the publication date, is used as the incident date.
   - No court outcome beyond production in court was reported.
-  - The submitted page's photo has no caption or credit establishing that it shows this seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Police allege he bought ganja in Meerut, made small packets in Modinagar and sold them for 200 to 500 rupees, with buyers from surrounding areas also purchasing from him.'
   - 'Left out, as its quotation was not found in Dainik Bhaskar: ACP Modinagar Siddharth Gautam said police received an informer''s tip on Wednesday evening that Sanjay had come near Kadrabad to supply ganja, reached the spot, caught him and found ganja packets on search.'
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Police said they learned the names of some people who bought ganja from him, registered a case under the relevant sections, produced him in court, and said he had been active in the area for a long time.'

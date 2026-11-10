@@ -40,7 +40,6 @@ open_questions:
   - Cocaine and crack quantities reported alongside the cannabis are mentioned for context and excluded from the cannabis figures.
   - Firearm and ammunition counts are in the text but have no field in the figures schema.
   - Only one accessible account of this announcement was found after searching for a second report, including in the local press.
-  - The page's only captioned image is a portrait of Acting Corporal Ann Joseph rather than the operations or seizures, so no media entry is included.
 ---
 
 Acting Corporal Ann Joseph, public relations officer of the Royal Saint Lucia

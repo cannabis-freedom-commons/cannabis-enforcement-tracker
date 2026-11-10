@@ -42,9 +42,6 @@ open_questions:
   - No arrests, charges or court outcome were reported beyond transfer to the customs anti-smuggling department.
   - The identities of the woman and her two companions were not published beyond the description of a woman in white, and any further action against the companions is unclear.
   - Only one accessible source for this event was found after searching in Chinese and English.
-  - The page's content image has only the generic caption 图片 and its embedded video has only a generic player poster caption, so neither is established to show this seizure and no media entry is included.
-  - The submitted page was published on 8 November 2026, four days after the existing report's 4 November 2026 source, and gives no separate interception date beyond近日 and当日.
-  - The page's embedded images carry only generic captions and cannot be established to show this seizure, so no media entry is included.
 ---
 
 Luohu Customs made the seizure in its passenger inbound channel, where officers

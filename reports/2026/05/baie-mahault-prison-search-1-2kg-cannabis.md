@@ -73,7 +73,6 @@ open_questions:
   - The RCI page's address mentions 12 kilos of cocaine, which matches neither its headline nor its text; the report follows the article text, where cocaine appears only as 21 grams.
   - The 1.26 kg cannabis total adds two stated quantities, 1.2 kg of herb and 56 g of resin, rather than reproducing a single published weight.
   - The page photos come from RCI and the gendarmerie without a published licence, so they are linked here, not copied.
-  - The page photo shows a prison corridor credited to Hélène Valenzuela / AFP and is not established to show this search or its haul, so no media entry is listed.
 ---
 
 About 200 prison staff and gendarmes searched the centre pénitentiaire de

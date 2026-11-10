@@ -50,7 +50,6 @@ sources:
 open_questions:
   - The article gives no separate sentencing date, so 5 November 2026, its publication date, is used as the incident date.
   - Only one accessible source for this event was found after searching in Hindi.
-  - The page image is a 2021 file photo of Panipat and is not established to show this seizure or sentencing, so no media entry is included.
   - The reports do not say whether Singh appealed or how long he had spent in custody before sentencing.
   - The one-year additional term applies only if the 60,000-rupee fine is not paid.
 ---

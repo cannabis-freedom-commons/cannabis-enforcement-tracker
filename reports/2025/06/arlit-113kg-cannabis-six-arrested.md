@@ -53,7 +53,6 @@ open_questions:
   - No charges or court outcome were reported; the six suspects were described only as awaiting judgment.
   - The value is a police estimate of more than 20 million CFA francs, recorded as 20000000 XOF, with no exact total given.
   - The 300,000 FCFA per kilogram is general market context, not a valuation of this haul.
-  - The page main image credited to JD Niger has no caption describing its contents, so it is not established to show this seizure and no media entry is included.
   - The other page images promote unrelated November 2026 stories and are excluded as pictures of other events.
   - The 214 kg cocaine seizure at Fachi in 2022 mentioned in the article is a separate event left out here.
 ---

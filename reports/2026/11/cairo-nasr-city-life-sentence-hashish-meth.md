@@ -54,7 +54,6 @@ open_questions:
   - The defendants are identified only by initials, so full names are not recorded.
   - No appeal or further court outcome was reported.
   - Only one accessible source for this event was found after searching in Arabic and English.
-  - The page's only image is captioned as an archival illustration and is not established to show this seizure or hearing, so no media entry is listed.
 ---
 
 The First Circuit of the Cairo Criminal Court, sitting at the Fifth Settlement,

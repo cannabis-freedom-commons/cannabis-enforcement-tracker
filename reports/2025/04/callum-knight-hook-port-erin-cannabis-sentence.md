@@ -57,7 +57,6 @@ sources:
     date: 2024-11-10
 open_questions:
   - 'The precise sentencing hearing date is not printed: Isle of Man Today says Knight-Hook appeared for sentencing on Friday, while the BBC page was published on 11 April 2025; 11 April is used.'
-  - The BBC photograph shows Douglas Courthouse, a large white building, rather than the search or seized cannabis, so no event media entry is included.
   - The BBC page also reports Hayden Oates's separate cannabis case at the Palace Hotel in Douglas; that distinct sentencing is excluded from this report.
 ---
 

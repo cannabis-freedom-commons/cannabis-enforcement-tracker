@@ -59,7 +59,6 @@ open_questions:
   - No weight or value is given for two of the four passengers other than Young's 15.7 kg and Thanveer's 10 kg, so the 50 kg and Rs 17 crore are the authorities' totals for the four rather than a sum of stated individual seizures.
   - The article does not say whether Motiramani was arrested or only caught and questioned; the figure of five detainees counts the four arrested passengers plus him.
   - No charge under a named law, court appearance, remand decision or plea was reported for any of the five.
-  - The page image is labelled 'File Pic' and its image address carries a 26 October 2026 date, before this event, so no media entry is listed.
   - No separate Customs statement or second outlet account of this specific five-passenger cluster could be opened, so the figures rest on one newspaper report.
   - Urban Acres repeats that the supplied report did not clarify whether Motiramani was included in the total seizure figure of more than 50kg or booked in the same case as the four arrested passengers, and gives no charges or court steps.
 ---

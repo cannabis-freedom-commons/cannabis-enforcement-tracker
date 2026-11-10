@@ -60,8 +60,6 @@ open_questions:
   - Only one accessible source for this event could be opened; searches for a second account returned no openable report.
   - The same page reports a separate seizure of about 14.4 kg of suspected ganja from a Bangkok arrival at Chennai airport, a different event left out here.
   - The same page lists NCB Chennai year-to-date seizure and arrest totals, which are enforcement statistics left out of this single-event report.
-  - This source spells the woman's name Sivagamisundari while the existing report spells it Sivagamasundari, a transliteration difference for the same person identified with her husband Gurumurthy.
-  - The page image is captioned Representative image, so it is not established to show this seizure and no media entry is included.
 ---
 
 The NCB Chennai Zonal Unit intercepted Sivagamasundari and her husband

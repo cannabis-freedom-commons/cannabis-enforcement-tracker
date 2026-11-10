@@ -47,7 +47,6 @@ open_questions:
   - The weight of the marijuana portion and the suspected cocaine was not stated.
   - The stop is dated to the night of Saturday (31) in a report published on 1 November 2026, so 31 October 2026 is used as the incident date.
   - No second account of this specific stop was found.
-  - The page carries a featured image file named conchal.jpg with no caption or alt text establishing that it shows this seizure, so no media entry is listed.
 ---
 
 Military police officers on preventive patrol seized cocaine and marijuana in

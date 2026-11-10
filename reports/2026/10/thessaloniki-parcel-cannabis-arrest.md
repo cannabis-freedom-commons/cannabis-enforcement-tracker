@@ -65,10 +65,7 @@ open_questions:
   - The English account first describes the parcel as holding 'more than 2 kilograms (4.4 pounds)' and later gives 2,090 grams (4.6 pounds); the report uses the police figure of 2,090 grams.
   - No street value was given for the drugs seized.
   - The English article also reports separate cases that week, 18 kg of cocaine at Lavrio port and arrests in Acharnes, which are not part of this report.
-  - The only picture on the English page is a generic police-car photograph from March 2026, not a picture of this seizure, so no media is listed.
   - This account rounds the home seizure to 820 grams of marijuana and 115 grams of cocaine, versus 819.26 grams and 115.61 grams in the existing record; the existing precise figures are retained.
-  - This account gives only just over two kilograms for the mailed parcel rather than the 2,090-gram police figure used in the existing report; the existing figure is retained.
-  - The page image at https://www.ekathimerini.com/wp-content/uploads/2026/01/thessaloniki_police-960x600.jpg is captioned only with the article title, carries no credit and dates from January 2026, so it is not established to show this seizure and no media entry is included.
 ---
 
 Officers from the Subdirectorate for Combating Organised Crime of Northern

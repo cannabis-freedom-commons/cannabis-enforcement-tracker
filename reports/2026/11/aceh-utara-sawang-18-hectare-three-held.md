@@ -126,26 +126,14 @@ open_questions:
   - The same hamlet and village hosted a 27-28 October 2026 operation covering the same reported 18 hectares with four different detainees (MW, HM, SF, WD); whether the 2 November burning revisited the same fields or separate fields is unresolved.
   - BNN's campaign summary describes the 2 November follow-up destruction as about 25 hectares at another location with an estimated 37,500 plants, differing from the 18 hectares in this account.
   - Republika and detik republish the same ANTARA FOTO/Rahmad photographs and captions rather than providing an independent agency account of the three arrests.
-  - The page's single event photo credited Doc. ANTARA FOTO/Rahmad appears to republish the same ANTARA handout already listed in the report, so no new media entry is added.
-  - The page's main photo uses the same ANTARA FOTO/Rahmad handout of the 2 November burning already represented in the existing report, so no new media entry is added.
-  - The RRI account reports about 25 hectares for the 2 November Teupin Rusep operation while the existing report records about 18 hectares for the same date, place and three suspects.
   - The RRI account gives an estimate of 37.500 for the 25-hectare follow-up without stating the unit, so no plant figure can be recorded.
-  - The RRI account describes the three suspects as seeders, planters and site seekers while the existing report describes them as suspected field owners, and the RRI account gives no ages.
   - The RRI account does not name charges, Narcotics Law articles, plant weights, values or any court outcome beyond detention at Polres.
   - The RRI recap of a 122.86-hectare total and earlier phases belongs to the wider 27 October to 2 November campaign already recorded separately.
   - 'Left out, as its quotation was not found in RRI.co.id: Officers detained three suspects identified only by the initials L, T and W.'
   - 'Left out, as its quotation was not found in RRI.co.id: The three suspects acted as seeders, planters and locators who sought plantation sites to evade officers.'
-  - The Acehsatu account reports 25 hectares while the existing report records about 18 hectares for the same date, place and three detainees.
   - The Acehsatu account gives no initials, ages, plant count, weight, value, charges or court outcome for the three detainees.
-  - The page's featured image has no caption or alt text establishing it shows this eradication, so no media entry is included.
-  - The new account reports about 25 hectares while the existing report records about 18 hectares for the same date, place and three detainees.
-  - The new account spells the village Teupin Rusep while the existing report uses Teupin Ruseb and Teupin Reusep.
-  - The new account gives no ages for L, T and W, while the existing report gives ages 35, 42 and 32.
   - No charges, Narcotics Law articles, weights, values or court outcome beyond detention at Polres are given.
-  - The page carries two photos captioned only with file names, so no new media entry can confirm they show the eradication.
   - The new account reports 25 hectares across three locations but names only Dusun Alue Garot and Dusun Alue Mudek, leaving the third site unnamed.
-  - The page's image has no caption, alt text or credit establishing it shows this eradication, so no media entry is included.
-  - The new site names Cot Mancang, Alue Garot and Alue Le Mudek differ in spelling from Alue Garut, Alue Kubu and Alue Mudek in the existing report.
 ---
 
 A joint enforcement team arrested three men described as suspected owners of

@@ -42,7 +42,6 @@ tags: [organised-crime, joint-operation]
 open_questions:
   - The exact place in Dublin where the cannabis was found was not stated beyond the Dublin area.
   - The outcome of the case after the man was charged and brought before the Criminal Courts of Justice on 4 September 2023 was not reported in the opened accounts.
-  - The Examiner page carries a photo with no caption, so it could not be verified as showing this seizure and no media entry was added.
 sources:
   - title: €1.2 Million Cannabis Seized, GNDOCB and Revenue Joint Operation, 1st September 2023
     url: https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/press-releases/2023/september/1-2-million-cannabis-seized-gndocb-and-revenue-joint-operation-1st-september-2023.html

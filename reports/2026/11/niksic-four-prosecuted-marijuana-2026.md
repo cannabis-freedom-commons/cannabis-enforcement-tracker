@@ -55,7 +55,6 @@ open_questions:
   - Only initials were published for KA, VM, SH, MB and NM, and no action against NM beyond being noted as of operational interest was reported.
   - No court outcomes were reported; the misdemeanor proceedings and criminal complaints were still pending.
   - Only one accessible source for this event was found after searching in English and Montenegrin.
-  - The page carries two photos captioned only as Police Directorate and Police Department without establishing what they depict, so no media entry is listed.
 ---
 
 Nikšić police arrested two people for possession of marijuana, while criminal

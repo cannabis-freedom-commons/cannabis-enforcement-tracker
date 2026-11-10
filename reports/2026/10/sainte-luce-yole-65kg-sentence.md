@@ -65,7 +65,6 @@ open_questions:
   - The interception is dated to the night of 29 September in the court accounts and to the night of 28 to 29 September in the gendarmerie account.
   - The exact interception point is given only as less than two kilometres off Sainte-Luce, so coordinates are for the town centre.
   - 'Territorial-ban accounts differ slightly: the court accounts give a three-year ban for the 55-year-old, while the operational account gives a three-year ban for one defendant and a definitive ban for the other.'
-  - The submitted page also reports a cutlas altercation and a domestic-violence case from the same 2 October hearing day, separate events left out of this cannabis report.
   - The tribunal building photo and the RCI illustration image do not show this seizure and are not listed as media.
   - 'Left out, as its quotation was not found in RCI: Both men were sentenced to 24 months of firm imprisonment with a committal warrant.'
   - 'Left out, as its quotation was not found in RCI: They were prosecuted for transport, possession, acquisition and importation of narcotics.'

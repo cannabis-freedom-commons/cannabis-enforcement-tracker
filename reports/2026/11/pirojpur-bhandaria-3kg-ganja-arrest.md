@@ -59,7 +59,6 @@ open_questions:
   - Only one accessible source for this event was found after searching in Bengali and English.
   - No court outcome was reported; proceedings under the Narcotics Control Act were described only as under way, with no charge, custody or sentence stated.
   - No street value, laboratory weight or additional suspects were reported for this seizure.
-  - The new source transliterates the surname as Howlader where the existing report uses Hawlader; both spellings refer to the same 35-year-old detained man.
 ---
 
 Pirojpur district Detective Branch (DB) police arrested 35-year-old Md Sohel

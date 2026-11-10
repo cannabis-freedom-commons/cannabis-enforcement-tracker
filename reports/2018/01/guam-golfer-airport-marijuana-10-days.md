@@ -58,7 +58,6 @@ open_questions:
   - The complaint gives a combined gross weight of 78.9 grams, while his lawyer later said he had less than two ounces; the report uses the complaint figure.
   - The 2 January 2018 date is the sentencing and publication date; the airport interception occurred in December 2016, with the arrest account saying he arrived on a Tuesday evening and the complaint filed Thursday.
   - No street value, plant count or field area was reported.
-  - No event photo with a recoverable direct image address was identified, so no media entry is listed.
 ---
 
 A local golfer was sentenced on Tuesday to spend 10 days in prison in connection

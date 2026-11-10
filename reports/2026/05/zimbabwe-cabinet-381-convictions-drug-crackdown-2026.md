@@ -47,7 +47,6 @@ open_questions:
   - The districts in Manicaland and Mashonaland West where the drug bases were dismantled are not named.
   - The briefing date of 19 May 2026 is taken from the article's 'Tuesday' and publication date; the figures themselves may cover a longer period.
   - Only one accessible source for the briefing was found; the Herald reports on the same briefing could not be opened.
-  - The submitted page's photo is a generic prison sign from 2019 and shows nothing of this event.
 ---
 
 Zimbabwe's information minister, Soda Zhemu, told a post-Cabinet media briefing

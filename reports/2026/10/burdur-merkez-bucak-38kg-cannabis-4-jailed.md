@@ -98,8 +98,6 @@ open_questions:
   - The 122 grams of cannabis seeds are described but are not counted in the cannabis weight or plant figures.
   - Methamphetamine, heroin, synthetic cannabinoid doses, drug-use implements and illicit whisky were reported alongside cannabis and are noted only to explain the mixed seizure; their quantities are excluded from cannabis figures.
   - No names, ages or individual charge breakdowns for the 10 suspects were published, and no court outcome beyond remand and releases was reported.
-  - The opened Medya Gazete page gives only its 3 November 2026 publication date and no separate dates for the raids, so the 21-28 October 2026 operation window continues to rely on the earlier sources cited by the existing report.
-  - The HaberBurdur page image is captioned only with the article headline and does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Burdur provincial gendarmerie narcotics teams carried out anti-narcotics work in

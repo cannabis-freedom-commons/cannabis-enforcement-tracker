@@ -101,7 +101,6 @@ open_questions:
   - Telangana Today attributes the operation to the Malkajgiri SOT, while the earlier HMTV account cited in this report named the LB Nagar zone SOT; both describe the same officers and the same seizure but do not explain the difference in unit designation.
   - The Telangana Today article gives no names of the two arrested men, no charges by NDPS section, and no remand, charge sheet or court outcome.
   - No police statement naming the unit that registered the case was published in either account.
-  - V6 Velugu gives the sale price in Mumbai as Rs 17,000 a kilogram, while the existing report's other account gives Rs 15,000; the existing figure is unchanged.
   - V6 Velugu does not give ages or home areas for the two arrested men; those come from The Hindu's account of the same check.
   - Left out arrested, as its only supporting source is not cited by the report's text.
   - Left out kg seized, as its only supporting source is not cited by the report's text.
@@ -110,10 +109,8 @@ open_questions:
   - Disha Daily does not say whether the Odisha supplier or the Mumbai receiver has since been arrested.
   - Disha Daily gives a round value of about Rs 30 lakh for the consignment and does not report an exact weighed total beyond the 60 kilograms.
   - The article quotes LB Nagar zone DCP Anuradha at a press conference but gives no NDPS section, remand date or court outcome for the two arrested men.
-  - Disha Daily says Imran Uddin faces murder, robbery and several NDPS cases, which differs from the other accounts' count of earlier NDPS cases for the second accused; the existing report keeps the earlier wording.
   - The article does not say whether the Odisha supplier or the Mumbai receiver has since been arrested.
   - The subheading says 60 lakh worth of goods seized while the body says Rs 30 lakh for the 60 kg; the existing Rs 30 lakh figure is unchanged.
-  - The Andhrajyothy account calls the Odisha supplier Purnachandra Mahapatra alias Shiva, while the existing report names him as alias Happy.
   - The page lists one photo whose caption matches the seizure, but its direct image address is under an August 2026 media path, so it is not listed as event media because it cannot be confirmed to show this check.
   - The roundup gives a combined value of over Rs 80 lakh for both seizures without a separate breakdown, so no separate value is added to the Ghatkesar report.
 ---

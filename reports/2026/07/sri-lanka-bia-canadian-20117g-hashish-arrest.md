@@ -59,7 +59,6 @@ open_questions:
   - The suspect was not named; only his age, Canadian nationality and work as a painter were published.
   - No charge, court production or later outcome was reported; the accounts say he was to be handed to the Police Narcotics Bureau for further investigation.
   - The 26 July 2026 incident date is taken from reports published that day saying the arrest happened earlier today (26).
-  - The Ada Derana page carries a photo whose caption only repeats the headline, which does not establish that it shows this seizure, so no media entry is included.
   - All opened accounts relay the Customs version; no statement from the suspect or defence was published.
 ---
 

@@ -61,7 +61,6 @@ open_questions:
   - No outcome is recorded for passenger Mackebo Fahie; the court report says it was not clear whether the charge against him was dropped.
   - No later hearing or sentence after the 8 July 2020 reappearance date was found.
   - The 30 grams and $300 street value come from the court account reported by BVI News; the police statement quoted gave no weight or value.
-  - The only page image in the opened capture is the East End Police Station, which does not show the chase or the seized drugs, so no media entry is included.
 ---
 
 Royal Virgin Islands Police Force officers arrested two men after a car chase on

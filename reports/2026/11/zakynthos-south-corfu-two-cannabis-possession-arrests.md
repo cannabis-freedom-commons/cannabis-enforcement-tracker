@@ -51,7 +51,6 @@ open_questions:
   - No charges, court referral or outcome beyond detention were reported for either man.
   - The 34-year-old held in South Corfu is described only as a foreign national, with no country named; the 20-year-old in Zakynthos is described as a Greek national.
   - Only one original account was found (CorfuPress.com, reprinted in excerpt by Kerkyra.Net), and the police bulletin it quotes could not be opened separately.
-  - No photo of the event was published with the accounts; the only image is a generic police sign, so no media entry is included.
 ---
 
 Police arrested two people for possessing small amounts of unprocessed cannabis

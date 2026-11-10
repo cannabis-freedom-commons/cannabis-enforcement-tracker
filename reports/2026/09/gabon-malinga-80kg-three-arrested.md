@@ -46,7 +46,6 @@ open_questions:
   - No charges, custody status or court outcome were reported; the prosecutor-ordered investigation was still under way.
   - The origin of the drug and any additional responsibilities were undetermined pending the ordered investigation.
   - Only one accessible source for this event was found after searching in French and English, so no corroborating account could be added.
-  - The page image is explicitly captioned as an illustration and is not established to show this seizure, so no media entry is included.
 ---
 
 The Gabonese national gendarmerie seized 80 kilograms of cannabis, referred to

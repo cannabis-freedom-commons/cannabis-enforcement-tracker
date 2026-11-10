@@ -73,8 +73,6 @@ open_questions:
   - The article gives no date for the press conference; 6 November 2026 is the date the text attributes to the spokesperson's remarks and is used as the incident date, while Hfocus dates a related briefing to 3 November 2026.
   - No figure was published for how many shops have been inspected, suspended or revoked, or how many operators were arrested or prosecuted, so no such figures are recorded.
   - The 12,279 count is a snapshot of licensed shops; a February 2026 report recorded 18,433 shops operating in 2025, and the reports do not reconcile the two figures.
-  - The submitted page and The Bangkok Insight text reproduce the spokesperson's statement word for word, and The Star credits Bernama, so they are not fully independent reporting.
-  - The page images are stock photos of cannabis shops and do not show a specific inspection, so no media entry is added.
   - The article does not identify any individual shop, operator or province-level case, so the event is recorded as a nationwide inspection announcement.
   - Left out case stage, as its quotation was not found in The Bangkok Insight.
   - Left out force, as its quotation was not found in The Bangkok Insight.

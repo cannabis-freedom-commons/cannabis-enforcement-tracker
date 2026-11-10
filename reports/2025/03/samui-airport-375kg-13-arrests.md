@@ -70,14 +70,11 @@ open_questions:
   - The operation ran over four days ending Saturday 15 March 2025; the individual arrest dates were not reported.
   - The nine foreigners arrested before the final swoop were sentenced to four months' jail; their names and charges were not reported.
   - The Connected to India account retells CNA's report, which itself cites the Bangkok Post, so the two accounts are not independent of one another.
-  - CNA's photograph is an iStock file photo and Connected to India's is a labelled representative photo, so neither shows this event and no media entry is made.
   - Immigration police named the four British men only as Antony, 63, Billy, 37, Philld, 63, and John, 34.
   - Police said a suitcase mistakenly taken by a Thai couple to Japan could also have been part of the smuggling attempts; no outcome was reported.
   - The Bangkok Post Learning page is an edited English-language version of the Bangkok Post news report by Supapong Chaolan published on 16 March 2025 and credits him as the original writer, so it is not independent reporting of the event.
   - The Bangkok Post gives the promised payment as 2,000 pounds worth about 87,000 baht, while other outlets reported it as about US$2,500; the Bangkok Post figures are used.
-  - The submitted page dates Barlow's arrival in Thailand to 6 March 2025 and says he left Surat Thani airport last Thursday and the country the following day; Matichon, quoting the police chief, gives his departure from Thailand as 14 March 2025.
   - Matichon says the Samui customs checkpoint considered the seizures a first for cannabis flower bud exports there; this is its own characterisation and no separate charge or case number for Barlow was reported.
-  - No photograph on the submitted page is known to show the arrest beyond the immigration police handout already described by other outlets.
 ---
 
 Thirteen foreigners posing as tourists were arrested at Samui airport over four days for attempting to smuggle 375 kg of cannabis out of Thailand, the Bangkok Post reported on 16 March 2025. [@1,2,3] Twelve of them were bound for Singapore and one for Hong Kong, with planned final destinations including the United Kingdom, Germany and Singapore. [@1,2]

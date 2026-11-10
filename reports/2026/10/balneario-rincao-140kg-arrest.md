@@ -154,15 +154,10 @@ open_questions:
   - The Içara News page's only photograph has no caption or credit, so it could not be identified as a distinct image of the seizure and was not added to the media list.
   - 'Who the second man in the image is remains disputed: Misturebas, citing Portal Linha Verdade, names him as former president Jair Bolsonaro and says the image was AI-generated, while Jornal Razão describes him as unidentified, blurred his face and did not say the image was AI-generated.'
   - No source says who made the AI image or why it was printed on the packages.
-  - The Misturebas page's only image is credited to 'Reprodução' and could not be distinguished from the photograph already listed from Jornal Razão, so it was not added as a separate media entry.
   - 'Left out, as its quotation was not found in Jornal Razão: Several of the tablets carried a printed photograph of President Luiz Inácio Lula da Silva beside another man, taped to packages wrapped in green and yellow tape; the reason was not explained.'
-  - The Hora Hiper page carries a photo credited to PMSC, but its caption does not describe what it shows, so it was not added as a distinct media entry.
   - The ContraFatos page's sole image is credited only as Reprodução with no descriptive caption, so it was not identified as a distinct image of the seizure from the media already listed.
   - The opened G1 video page provides only the title and 48-second video metadata and no article body, so no suspect age, agency, street, house, scales, phones, faction claim or summer-stock motive is supported by this source.
-  - This source's publication date is 2 November 2026 while the existing report dates the arrest to the night of 30 October 2026.
   - The video picture content was not transcribed beyond its title and thumbnail, so no additional figures or details are attributed to it.
-  - The TopElegance page says its account comes from Engeplus and Hora Hiper, both already cited in the existing report, so it corroborates the police version rather than adding independent reporting.
-  - 'The cover photo is captioned only as Foto: PMSC and the gallery image only as Galeria — 1 foto, with no description establishing what either shows, so no distinct media entry is added.'
 ---
 
 Military police arrested a 32-year-old man on the night of 30 October 2026 after

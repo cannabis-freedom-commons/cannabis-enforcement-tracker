@@ -80,7 +80,6 @@ open_questions:
   - The Vidin regional police directorate did not name the suspect; only his age and home town are known.
   - The 50 kg of untaxed tobacco seized from a 38-year-old woman in Simeonovo on the same day is an excise offence, a separate event left out of this report's figures.
   - The 29 October arrest in Vidin city involving cannabis, amphetamine and ecstasy, mentioned in the same roundup, is a separate event not covered here.
-  - The submitted page's picture carries no caption identifying it as this seizure, so only the Radio Vidin page picture is linked.
   - The three outlets publish the same Vidin regional police statement, so the accounts are not fully independent.
   - The account gives no weight or plant count for the cannabis in the separate 29 October Vidin case, so none can be recorded there.
   - 'Left out, as its quotation was not found in Българско национално радио, Радио Видин: Shortly after 17:20 on 5 November 2026, officers stopped a car for a check near the village of Archar.'

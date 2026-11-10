@@ -37,7 +37,6 @@ tags: [mile-38]
 open_questions:
   - The article shows 31 August without a year; 2026 is inferred from the June 2026 interception and the October 2026 resumption date, and no separate date for the remand hearing is given.
   - Only one source for this case could be opened.
-  - The photo on the source page could not be verified to show this case, so no media entry was added.
   - The outcome of the proceedings after 12 October 2026 is not known.
 sources:
   - title: Driver Remanded Over Unlawful Cannabis Possession and Transport

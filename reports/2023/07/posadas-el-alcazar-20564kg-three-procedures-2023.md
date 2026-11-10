@@ -66,7 +66,6 @@ open_questions:
   - The government release describes only one passenger's handbag being searched and does not state her age; MisionesOnline says two adult women travelling with minors were treated as suspicious.
   - The release does not state under whose court the cases fell or any charges; only that the magistrate involved ordered the drug seized.
   - MisionesOnline's account closely follows the Gendarmería release, so it is not independent reporting of the same statement.
-  - The MisionesOnline page image is uncaptioned and credited only as a marijuana picture; no media entry is added for it, and the two Gendarmería photos carry no captions either, so what each shows is inferred from its placement in the text.
 ---
 
 Gendarmería Nacional Argentina reported seizures of more than 20 kilograms of

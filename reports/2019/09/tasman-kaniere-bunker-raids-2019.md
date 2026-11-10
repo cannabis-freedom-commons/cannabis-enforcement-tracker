@@ -60,7 +60,6 @@ sources:
 open_questions:
   - The 2019 reports give no plant count; the figure of more than 800 plants comes from later trial coverage of the same raids.
   - The 2019 reports name the cultivation and supply charges but the trial outcome, which came years later, is a separate event outside this report.
-  - No photo of the 2019 raids or the bunker could be verified, so no media entry was added.
   - 'Sources differ on the quantity of cannabis found and its value: RNZ says more than 800 plants and about 136 kg a year worth over $1 million, while court coverage in The Press described 816 plants counted in August 2019 and a $1.05 million annual retail estimate.'
   - The jail terms of six years for Milne and five years for Harris are not yet in the report's figures; a sentence term would need to be added to the report's structured data.
   - 'Left out, as its quotation was not found in NZ Herald (Hokitika Guardian): Harris was sentenced to five years in prison.'

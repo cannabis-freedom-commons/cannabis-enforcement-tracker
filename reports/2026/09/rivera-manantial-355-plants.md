@@ -43,7 +43,6 @@ open_questions:
   - The plants are described as seized. The reports do not say they were destroyed.
   - A cocaine and coca-paste seizure in Artigas and Salto the previous week is a different investigation, left out here.
   - Further aerial ministry photos of the same clearing remain without separate media_url entries after consolidation.
-  - Teledoce numbers the operation "Manantiales" in its headline and "Manantiales" in the text; the Interior Ministry and the existing report call it Manantial.
   - Teledoce reports only short and long firearms, without the shotgun and pistol details of the ministry statement.
   - Teledoce does not repeat the six-search count, the 4.732 kg of plant material or the vehicles seized.
   - Subrayado's headline and lead give 369 cannabis plants, while the Interior Ministry's statements on both the raid and the convictions give 355; the reports do not explain the difference.

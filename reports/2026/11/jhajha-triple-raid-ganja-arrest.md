@@ -63,15 +63,10 @@ open_questions:
   - Only one report of this operation could be opened, so no second account confirms the figures.
   - The pistol and 11 liquor bottles are non-cannabis items in the same operation and are excluded from cannabis figures.
   - The text gives a weight ("1 kg") but the figures have no kg_seized; check whether it belongs there.
-  - The new account was published on 4 November 2026 while the existing report uses 2 November 2026, and it gives no separate day for the raids, so the existing incident date is retained.
-  - The new source spells the Bhelvinda resident as Kartik Sav while the existing report uses Kartik Sah; they are treated as the same person.
   - The new source does not repeat the 11-bottle liquor count or the bag-search detail, so that detail remains supported by the earlier Prabhat Khabar account alone.
   - The new source does not explicitly state Kartik Sav's arrest or transfer to judicial custody, so custody remains supported by the earlier account alone.
-  - The page image uses a Bhagalpur section logo address and caption, so it is not established to show this seizure and no media entry is included.
   - The new page gives only its publication date of 4 November 2026 and no separate day for the raids, so the existing incident date is retained.
-  - The new page spells the Bhelvinda resident as कार्तिक साव, transliterated here as Kartik Saw, while the existing report uses Kartik Sah/Sav; they are treated as the same person.
   - The new page does not state the liquor-bottle count, case registration or transfer to judicial custody, so those details remain supported by the earlier accounts alone.
-  - The page image uses a generic Frame_294 logo address and caption, so it is not established to show this seizure and no media entry is included.
 ---
 
 Dwarpahari police in Jhajha arrested three people in separate actions against

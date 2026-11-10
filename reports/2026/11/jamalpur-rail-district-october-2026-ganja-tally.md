@@ -49,7 +49,6 @@ open_questions:
   - The article says the substance was ganja but reports no laboratory confirmation or value estimate.
   - Under Operation Muskan, the state campaign to return recovered phones, 32 lost and stolen mobile phones were given back to their owners; that is not a cannabis matter and is left out.
   - Only one account of this meeting could be opened; no police statement or second outlet was found.
-  - The article carries two photographs with no captions or credits, and neither is identified as showing the seized ganja, so no media entry is added.
   - This capture is the video version of the story and contains only the headline; an article body behind the same story identifier gives further detail that is not part of this opened source.
 ---
 

@@ -278,9 +278,6 @@ open_questions:
   - The THC and CBD test results, and any further charges, had not been reported.
   - All three accounts draw on the FDA statement; no independent reporting on the raid was found.
   - >-
-    The submitted page carries nine photos of the shop interior but no captions or credit, so they were left
-    out rather than repeating the raid photos already linked from this report.
-  - >-
     This account restates the police and FDA statement already cited and adds no independent reporting on the
     raid.
   - >-
@@ -299,81 +296,14 @@ open_questions:
     Bangkok Post attributes the 50,000-baht figure to the price tags on the seized products, while the report
     attributes the valuation to the FDA.
   - >-
-    The Thaipost lede says cannabis flower and cannabis jellies worth over 500,000 baht were found, while its
-    body and the FDA account value the 90 seized jellies at 50,000 baht; the existing report uses 50,000 baht.
-  - >-
-    The page's image carries no caption or credit, so no media entry is added rather than repeating the raid
-    photos already linked in the existing report.
-  - >-
-    The submitted article says the raid was "today (Sunday)" on its 1 November 2026 publication date, while
-    the existing report uses 29 October 2026 from the FDA statement.
-  - >-
-    Bangkok Post places the search on Saturday, which would be 31 October 2026, while the existing report uses
-    29 October 2026 from the FDA statement.
-  - >-
-    Bangkok Post attributes the 50,000-baht figure to price tags on the seized products, while the existing
-    report attributes the valuation to the FDA.
-  - >-
-    The submitted article says the search was “today (1 Nov.)” on its 1 November 2026 publication date, while
-    the existing report uses 29 October 2026 from the FDA statement.
-  - >-
-    The page carries eight images with only the generic article title as caption and no credit, so no media
-    entry is added rather than repeating raid photos already linked.
-  - >-
     This page gives no explicit raid date beyond its 1 November 2026 publication date, so it does not resolve
     the existing 29 October versus 1 November dating.
-  - >-
-    The submitted page lede says cannabis flower and jellies worth over 500,000 baht were found, while its
-    body values the 90 seized jellies at 50,000 baht; the existing report uses 50,000 baht.
-  - >-
-    The page image carries only the generic caption on Thailand news with no event-specific caption or credit,
-    so no media entry is added.
   - >-
     The article gives only its 1 November 2026 publication date and calls the search recent, so it does not
     resolve the existing 29 October versus 1 November dating.
   - >-
-    The page carries eight images with only the generic article title as caption and no credit, so no media
-    entry is added.
-  - >-
-    The submitted page dates the raid to today, 1 November 2026, while the existing report uses 29 October
-    2026 from the FDA statement.
-  - >-
-    The page carries photos credited via Facebook: Thaipolice with no descriptive caption, so no media entry
-    is added rather than repeating raid photos already linked.
-  - >-
     The capture gives only a relative publication time of 4 hours ago and no explicit raid date, so it does
     not resolve the existing 29 October versus 1 November dating question.
-  - >-
-    The page image carries only the generic caption May be an image of text with no event-specific caption or
-    credit, so no media entry is added.
-  - >-
-    The submitted page says police searched the Bangkok shop on 1 November 2026, while the existing report
-    uses 29 October 2026 from the FDA statement.
-  - >-
-    The page carries a Thai-FDA-credited image with no event-specific caption, so no media entry is added
-    rather than repeating raid photos already linked in the existing report.
-  - >-
-    The Matichon article dates the operation to 1 November 2026, while the existing report uses 29 October
-    2026 from the FDA statement, so the incident date remains unresolved.
-  - >-
-    The page carries four images with the generic caption 111 or no caption and no credit, so no media entry
-    is added rather than repeating raid photos already linked in the existing report.
-  - >-
-    The submitted CH7 page dates the operation to 1 November 2026, while the existing report uses 29 October
-    2026 from the FDA statement.
-  - >-
-    The page's image carries only the generic article title as caption with no credit, so no media entry is
-    added rather than repeating raid photos already linked in the existing report.
-  - >-
-    This Vision Thai page dates the search to 1 November 2026, while the existing report uses 29 October 2026
-    from the FDA statement.
-  - >-
-    The page carries four images captioned only with the article title and police as source, with no
-    event-specific description, so no media entry is added rather than repeating raid photos already linked.
-  - >-
-    The newsclip.be page carries six images with file names indicating police handout photos and a generic
-    Police TV credit but no image-specific captions, so no media entry is added rather than repeating raid
-    photos already linked in the existing report.
   - >-
     Left out, as its quotation was not found in newsclip.be: Police and food and drug officials searched a
     cannabis shop in a building on Banthat Thong Road in Bangkok's Pathum Wan district on 29 October 2026.
@@ -382,15 +312,6 @@ open_questions:
     Chanthaburi province, where a family fell severely ill after eating cannabis sweets, with convulsions and
     loss of consciousness that required ventilators.
   - >-
-    The submitted page carries three images with no captions or credits, so no media entry is added rather
-    than repeating raid photos already linked in the existing report.
-  - >-
-    The submitted Wochenblitz account dates the raid to 1 November 2026, while the existing report uses 29
-    October 2026 from the FDA statement.
-  - >-
-    The Wochenblitz page image carries only the caption ThaiRath with no event-specific description or credit,
-    so no media entry is added rather than repeating raid photos already linked.
-  - >-
     The full newspaper text is behind a paywall, so only the headline, publication date, summary paragraph and
     metadata description could be read.
   - >-
@@ -398,35 +319,17 @@ open_questions:
     the existing 29 October versus 1 November dating question.
   - The summary does not state the reported 90-item count, so it does not corroborate the seized quantity.
   - >-
-    The page image carries only the article title as caption with no credit, so no media entry is added rather
-    than repeating raid photos already linked.
-  - The LINE TODAY page image carries no caption or credit, so no media entry is added.
-  - >-
     This account gives only its 2 November 2026 publication date and no separate raid date, so it does not
     resolve the existing 29 October versus 1 November dating question.
-  - >-
-    This account spells the employee's first name Saowaluck, while the existing report uses Saowalak and one
-    source gives Saowalak Namwongsa.
-  - >-
-    The page image carries only the generic article title as caption with no credit or event-specific
-    description, so no media entry is added.
-  - >-
-    The submitted page carries one event image captioned only as a generic picture plus unrelated game images,
-    with no event-specific caption or credit, so no media entry is added rather than repeating raid photos
-    already linked in the existing report.
   - No weight or THC content for the 90 seized jellies was published; laboratory testing was still pending.
   - >-
     The sources do not state that the family bought their sweets from this shop, only that they ate similar
     products.
   - Whether the lead photo on the source page shows this raid is not established.
   - >-
-    The Yahoo page republishes the same police photos of the seized gummies already linked from other outlets,
-    so no media entry is added rather than listing the same handout again.
-  - >-
     One account dates the search to 29 October while another gives 1 November; the matching shop address,
     employee, 90 jellies and 50,000-baht valuation identify the same operation.
   - This account announces the operation on 1 November 2026 and gives no separate raid date, so it does not resolve the existing 29 October versus 1 November dating question.
-  - This account names the employee Saowaluk Namwongsa, while the existing report withholds the surname as Saowalak; the spelling difference is unresolved.
 ---
 
 Police and health officials seized 90 cannabis-infused jellies from a shop in Bangkok's Pathum Wan district. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36]

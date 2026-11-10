@@ -50,7 +50,6 @@ sources:
 open_questions:
   - The article gives no weight for the cannabis vapes or buds found on the man or at his home, so no weight is recorded.
   - The article gives only 11 September for the police search and does not date the court hearing, so 11 September 2026 is used as the incident date and the sentencing date is not recorded.
-  - The single photograph on the page is credited only to Newsquest with no caption identifying what it shows, so no media entry is added.
   - Only one account of the hearing was found; no police statement or second outlet report was located.
 ---
 

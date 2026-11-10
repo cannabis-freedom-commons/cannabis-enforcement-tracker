@@ -84,18 +84,12 @@ open_questions:
   - The 12 kg parcel quantity is excluded from cannabis figures because tests showed low THC with MDMB-4en-PINACA and the plant base described as a vehicle for synthetic drugs.
   - The reported 2026 total of more than 400 kg covers all narcotics and is therefore excluded from cannabis figures.
   - The man was reported at liberty; no arrest detention, charge detail or court outcome was reported.
-  - The submitted page writes 85 marijuana without a unit; the second account confirms 85 grams, used for the 0.24 kg total.
-  - No media entry is included because the submitted page image is a February 2026 screenshot and the second page image is labelled as an archive institutional photo, neither established to show this seizure.
   - Both accounts reproduce the Guardia di Finanza press note; no separate agency statement was opened directly.
-  - The La Piazza Web page carries a photo captioned for this seizure without a stated credit, which does not by itself establish that it shows this seizure, so no media entry is added.
   - 'Left out, as its quotation was not found in Nordest24: Officers then ran a controlled delivery, letting the parcel reach its recipient, a resident of the lower Padua area who acknowledged and collected it and was searched in flagrante.'
   - 'Left out, as its quotation was not found in Nordest24: The Guardia di Finanza describes this as a dangerous evolution in which plant bases are used to carry undeclared synthetic drugs, warning that low-THC products can conceal highly dangerous substances.'
   - Tgcom24 gives the estimate of more than 100,000 euros for the 12 kg parcel without saying whose valuation it is; the figure is not stored in the structured value field.
-  - Only Tgcom24 and Il Gazzettino state new details here; the other accounts, including GrNet, Il Mattino di Padova and the submitted page, reproduce the same Guardia di Finanza press note.
   - The GrNet page publishes two uncaptioned Guardia di Finanza handout stills and labels one a video of the statement, but nothing in the page confirms what the images depict.
   - 'Left out, as its quotation was not found in Tgcom24: Tgcom24 put the estimated market value of the 12 kg parcel at more than 100,000 euros.'
-  - A second account of the same statement, Il Mattino di Padova, gives the home seizure as 85 grams of marijuana; the PadovaOggi wording leaves the unit off, and is read as grams in the existing report.
-  - 'The submitted page publishes no photo of this seizure: its lead image and video are institutional Guardia di Finanza material of the Prato della Valle in Padua, so no media entry is added.'
 ---
 
 Padua provincial Guardia di Finanza officers, coordinated by the local

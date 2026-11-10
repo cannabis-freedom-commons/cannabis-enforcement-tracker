@@ -56,7 +56,6 @@ open_questions:
   - The 1.3 grams and 0.7 grams are police field figures for material described as unprocessed cannabis and a cannabis cigarette, with no laboratory confirmation reported.
   - No names beyond ages and nationality status, no formal charges or court outcome were reported; the case files were to be sent to the prosecutors.
   - Both accounts reproduce the same General Regional Police Directorate of Western Macedonia statement and are not independent reporting.
-  - The submitted page's listed images are advertisements and the other outlets carry generic police pictures, so no media entry is included.
   - The roundup joins arrests from Kozani, Florina, Ptolemaida and Kastoria; the coordinates mark Kozani as the district centre and the precision is regional.
   - Left out agency types, as its quotation was not found in Εφημερίδα Κοζάνη (efkozani.gr).
 ---

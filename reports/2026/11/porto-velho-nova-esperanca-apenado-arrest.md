@@ -70,10 +70,8 @@ open_questions:
   - The event date of 1 November 2026 rests on both reports' Sunday (01) timing and same-day publication; no separate hour-by-hour chronology was published.
   - No court outcome beyond transfer to the flagrante department was reported.
   - The Rondoniaovivo page embeds an Instagram video of the event, but no direct video file address was recoverable, so it is not listed as media.
-  - This account describes a Military Police patrol finding the man, while the existing report's Força Tática denunciation-led visit and Rua Raquel de Queiroz address come from the second outlet.
   - The article was published on 2 November 2026 but dates the operation to the late afternoon of Sunday (1); 1 November 2026 is retained as the event date.
   - No cannabis weight was published, only portion counts of 40 maconha portions and nine hashish portions, so no kilogram figure is recorded.
-  - No direct video file address was recoverable for the embedded event video, and the cover-image captions do not establish that they show this seizure, so no media entry is listed.
   - No court outcome beyond transport to the Central de Polícia was reported.
 ---
 

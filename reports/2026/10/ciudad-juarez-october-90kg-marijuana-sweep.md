@@ -47,7 +47,6 @@ open_questions:
   - Cartridge counts for the municipal seizure differ between sources, with 117 reported in one account and 177 in the other, so no cartridge figure is recorded.
   - The 158 detentions cover all municipal weapons and health-crime cases in the month, with no cannabis-specific arrest count published.
   - No charges, prosecutions or sentences were reported.
-  - The page photograph is captioned as an archive image from January 2024 and is not established to show this October seizure, so no media entry is included.
   - Only the municipal and state totals for Ciudad Juárez are covered; other agencies did not publish their October figures.
 ---
 

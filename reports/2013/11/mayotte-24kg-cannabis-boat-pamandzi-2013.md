@@ -53,7 +53,6 @@ open_questions:
   - LINFO.re describes a smuggling and importation investigation, while Zinfos974 and Indian Ocean Times say the two men were pursued for transport, possession and importation of narcotics; the report gives both accounts.
   - No value for the cannabis, no exact quantity per parcel and no prosecution or court outcome were reported.
   - The exact location of the interception is only given as the lagoon east of Mayotte, not a named point.
-  - Only one photo appeared with the LINFO.re page and it is captioned only with the headline, with no credit or clear link to this interception, so no media entry is included.
   - The one visible photo on the LINFO.re page could not be confirmed to show the intercepted boat.
 ---
 

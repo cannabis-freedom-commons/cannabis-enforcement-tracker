@@ -79,7 +79,6 @@ open_questions:
   - The announcement is dated 27 October 2026, but the sources give no separate date for the raids themselves; Vilas Radio describes simultaneous searches in four communes.
   - The outcome of the 28 October detention hearing and formalisation before Santiago's 15th Guarantee Court is not reported; only the charges announced in advance are known.
   - Vilas Radio is alone in listing searches in La Pintana, Lo Espejo, Paine and Rancagua, and in giving five tear-gas grenades, seven vehicles and 18 mobile phones; the other outlets give no such breakdown, so those counts are left out of the figures.
-  - No photo or video address from an official PDI or prosecutor's office page could be recovered for this operation, so no media entry is included.
   - The text gives a weight ("2,711 kilos") but the figures have no kg_seized; check whether it belongs there.
 ---
 

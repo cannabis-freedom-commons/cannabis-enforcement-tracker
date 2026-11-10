@@ -54,7 +54,6 @@ open_questions:
   - Whether the seized toto belongs to the accused or another person and who else is involved remains under investigation.
   - No value estimate for the 1.426 kg was published.
   - Only one accessible source for this event was found after searching in Hindi and English, so no second account could be opened.
-  - This account does not repeat the secret-tip detail recorded in the existing report from its earlier source.
 ---
 
 Nadi police in Fatuha detained one youth after seizing 1.426 kilograms of ganja

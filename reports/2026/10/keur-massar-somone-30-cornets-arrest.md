@@ -48,7 +48,6 @@ open_questions:
   - The sources publish no names, ages or other identifiers for the two suspects.
   - No charges, court referral or outcome were reported, and the investigation was still under way.
   - Both outlets relay the gendarmerie's account, and no separate agency statement could be opened directly.
-  - The Pressafrik page carries a photo captioned only with the article title, which does not establish that it shows this seizure, so no media entry is included.
 ---
 
 The Keur Massar Research Brigade, a unit of Senegal's National Gendarmerie,

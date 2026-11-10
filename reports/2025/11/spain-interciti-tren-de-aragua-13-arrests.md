@@ -60,7 +60,6 @@ open_questions:
   - Público and RTVE place a non-Catalan arrest in Valencia while Deutsche Welle writes 'Valencia (levante)'; the city is recorded without a separate arrest in Girona's case.
   - Infobae says a firearm was seized where Deutsche Welle says a prohibited weapon, and the other accounts describe 'an arma' generally.
   - No charges or trial outcome were reported beyond four suspects remanded in pre-trial custody, and the investigation was described as continuing.
-  - The only available image is an archive photo of a National Police van that does not show this event, and Infobae's police handout pictures are of the operation's coordination briefing rather than the raids, so no media entry is included.
 ---
 
 Spanish police detained thirteen suspected members of the first Tren de Aragua

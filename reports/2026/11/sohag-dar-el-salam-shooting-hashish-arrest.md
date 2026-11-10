@@ -57,11 +57,9 @@ open_questions:
   - No weight or separate quantity was published for the hashish or the shabu, so no cannabis weight is recorded.
   - The article gives no separate date for the raid; 9 November 2026 is its publication date and is used as the incident date.
   - No second independent account of this arrest was found; the report rests on one opened source.
-  - The page's only news photo is labelled as an archival image and is not known to show this event, so no media is listed.
   - Whether the other people alleged to traffic drugs with the suspect were pursued or detained was not reported.
   - Charges and the outcome of the investigation were not yet reported.
   - No weight or separate quantity was published for the hashish, so no cannabis weight can be added.
-  - The page's photo caption only repeats the headline and is not confirmed to show this event, so no media is listed.
 ---
 
 Sohag security officers responded to a worker's appeal accusing his son of

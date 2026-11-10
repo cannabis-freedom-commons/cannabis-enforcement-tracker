@@ -56,7 +56,6 @@ open_questions:
   - The outcome of the 14 October court appearance was not reported.
   - The reports do not name the man, give his age or residence, or say where in Denmark he had flown from.
   - No value was given for the hash and the reports do not say what it was intended for.
-  - The Sermitsiaq article carries an archive photo of Nuuk Airport, not of the seizure, so no media is linked.
 ---
 
 Customs officers stopped a man at Nuuk Airport at midday on Tuesday 13 October 2026 and found

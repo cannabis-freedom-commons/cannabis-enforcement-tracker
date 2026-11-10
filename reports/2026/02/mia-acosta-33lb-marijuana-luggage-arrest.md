@@ -65,7 +65,6 @@ open_questions:
   - No court outcome beyond the trafficking charge and the $10,000 bond was reported.
   - No value estimate for the marijuana was published.
   - The report mentions an arrest earlier the same week of a woman from California at the same airport; that is a different event left out here.
-  - Local10 reports over 28 vacuum-sealed packages weighing about 37 pounds, while the existing report uses 28 packages weighing about 15.26 kilograms (33.64 pounds); the report keeps the existing figures.
 ---
 
 Eliana Y. Acosta, 30, was arrested Thursday at Miami International Airport on a

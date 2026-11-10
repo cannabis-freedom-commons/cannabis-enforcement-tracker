@@ -64,7 +64,6 @@ open_questions:
   - The g1 article gives no separate day for the raid beyond its 11 September 2026 publication; the Imirante account, also published on 11 September, dates the operation to that Friday.
   - The exact location of Povoado Leal was not published, so the coordinates of the Cândido Mendes town centre are used with district precision.
   - Imirante attributes its text to g1 and adds no independent detail beyond the date and the fate of the seized items, so the two accounts are not fully independent.
-  - The submitted page's image is a Military Police handout credited only as Divulgação/PMMA, with no caption identifying which part of the plot it shows.
   - One social-media post found in searches dates the raid to Thursday 10 September, but that post could not be opened and is not used.
 ---
 

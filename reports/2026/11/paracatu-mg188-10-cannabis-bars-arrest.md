@@ -87,13 +87,8 @@ open_questions:
   - Only the lead event photo is listed as media; a second image on the page had no caption establishing that it shows this seizure.
   - P.O Notícias and JP Agora record the stop at about 23h27 while the report records about 23h30 from the second account.
   - P.O Notícias dates the operation to the night of Wednesday 4 November, while the report notes another account dates it to the early hours of Thursday 5 November.
-  - This account times the stop at about 23h27, while the existing report records about 23h30 from another account; the existing report already notes the 23h27 timing from other outlets.
-  - This account dates the operation to the night of Thursday 5 November at about 23h27, while the existing report uses 4 November with about 23h30 from other accounts; the overnight timing remains unresolved.
   - No weight was published for the 10 marijuana bars, so no cannabis kilograms can be recorded, and the cocaine bar is not counted as cannabis.
-  - This account dates the operation to the night of Wednesday 4 November, while the existing report notes another account dates it to the early hours of Thursday 5 November with the occurrence at about 23h30.
-  - The submitted page's only event photo is credited only to the Polícia Militar Rodoviária without a caption establishing what it shows, so no separate media entry is added.
   - V9 dates the article to 6 November and gives no separate date for the stop; the report uses 4 November from the accounts already cited.
-  - The V9 page's only event photo is captioned only 'Arquivos Tv Vitoriosa' and is not established to show this seizure, so no media entry is added.
 ---
 
 Two men aged 29 and 34 were arrested for drug trafficking during a Highway

@@ -45,7 +45,6 @@ sources:
     date: 2026-02-05
     language: pt
 open_questions:
-  - The Balai page image is a May 2022 file with no caption tying it to this seizure, so no media entry is included.
   - No court outcome beyond subjection to scheduling of a summary trial was reported.
   - Both accounts derive from the PJ Criminal Investigation Department release; no independent account was found.
 ---

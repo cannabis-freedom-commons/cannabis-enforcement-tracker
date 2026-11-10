@@ -48,7 +48,6 @@ open_questions:
   - No charge or court outcome was reported; the man was in custody while enquiries continued.
   - The article also mentions unrelated Gwent Police activity (a September cocaine and heroin case, an October 14 vehicle operation and a June Ringland warrant), left out of this report as separate events.
   - Only one source for this arrest could be found; no Gwent Police statement or second outlet account could be opened.
-  - The page image is a credited Google street-view style picture of the location, not of the arrest, so no media entry is included.
 ---
 
 Gwent Police officers detained a 28-year-old man from Newport on Chepstow Road

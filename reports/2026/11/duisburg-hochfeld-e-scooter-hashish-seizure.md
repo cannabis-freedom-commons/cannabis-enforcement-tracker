@@ -46,7 +46,6 @@ open_questions:
   - No cash amount was published, only cash in denominations typical of the scene, so no value can be recorded.
   - No court outcome was reported; criminal proceedings were still pending.
   - The Radio Duisburg page reprints the Duisburg police account also opened via Presseportal, so corroboration comes from one account lineage.
-  - The submitted page carries only a generic placeholder image, so no event photo can be listed.
 ---
 
 A motorcycle police officer spotted a 17-year-old riding an e-scooter through a

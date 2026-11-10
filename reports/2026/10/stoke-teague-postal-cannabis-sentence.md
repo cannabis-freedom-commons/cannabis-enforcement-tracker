@@ -48,7 +48,6 @@ open_questions:
   - The 0.1981 kg total sums the individually weighed cannabis items; blocks of cannabis resin seized in December had no stated weight and were excluded.
   - Later tablet, powder and home-seizure values mix cannabis with other substances and were kept out of cannabis figures.
   - Only one accessible source was found; no agency statement or second outlet account was available.
-  - The only page image is captioned John Teague and does not show the seizure, raid or court, so no media entry is made.
   - The plea wording is ambiguous on the number of Class A counts; the report counts one person charged.
 ---
 

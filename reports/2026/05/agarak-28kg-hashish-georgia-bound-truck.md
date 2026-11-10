@@ -62,7 +62,6 @@ open_questions:
   - No name or age of the detained driver was published beyond Iranian citizenship.
   - No charges, custody decision or court outcome beyond the opened criminal case were reported.
   - Only one accessible source for this event was found after search attempts.
-  - The new account describes the declared load as construction tiles while the existing report says construction slabs, apparently the same declared cargo in different translation.
 ---
 
 Officers detained the truck driver, an Iranian citizen. [@1,2] The detained driver

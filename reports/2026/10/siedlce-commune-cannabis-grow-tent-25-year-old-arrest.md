@@ -88,7 +88,6 @@ open_questions:
   - The eight cacti and the dried mushrooms have not been tested, and no source states that they contained controlled substances.
   - The case was at the preparatory proceedings stage; no charge sheet, plea or court date was reported.
   - The submitted portal and the local outlet both reproduce the Siedlce police statement, so they are not independent reporting.
-  - The submitted page gives no captions for its handout photos beyond the KMP Siedlce credit, so the listed images are described from their alt text and the article's account of the search.
 ---
 
 Officers of the criminal division of the Siedlce city police stopped a

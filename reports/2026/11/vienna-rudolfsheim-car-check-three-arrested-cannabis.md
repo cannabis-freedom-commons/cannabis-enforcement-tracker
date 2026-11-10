@@ -60,7 +60,6 @@ open_questions:
   - The 165 grams of cocaine is outside the tracker's cannabis scope and is not counted as a cannabis figure.
   - The Nachrichten.jetzt account credits the Vienna police statement and is a reprint of the same release rather than independent reporting.
   - The submitted 5 Minuten page carries only a stock photograph labelled Symbolfoto, and the Nachrichten.jetzt page uses an AI-generated illustration, so no image of the event is listed.
-  - The cash amount of 130 euros, given only by austria.com and not by the Vienna police release, was not added to the existing report.
   - The cannabis weight and form remain unstated.
   - No charges, remand decision or court outcome were reported.
 ---

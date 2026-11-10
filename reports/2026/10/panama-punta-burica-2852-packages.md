@@ -43,7 +43,6 @@ open_questions:
   - The sources do not name the three convicted men.
   - No information on where they will serve the sentence was published.
   - The early Infobae seizure report does not identify the drug type or total weight, stating forensic examinations were still pending, while the later judicial sources identify the 2,852 packages as cannabis.
-  - The new source places the interception at dawn on Sunday 4 October, while the existing report dates the start of the case to 3 October.
   - The page's lead image is labelled as an illustrative image (Imagen Ilustrativa Infobae), so no event photo is listed as media.
 sources:
   - title: Condenan a tres ciudadanos extranjeros a 11 años de prisión por tráfico internacional de drogas en Punta Burica

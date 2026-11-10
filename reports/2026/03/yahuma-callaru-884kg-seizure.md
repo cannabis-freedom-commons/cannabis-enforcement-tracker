@@ -79,9 +79,7 @@ open_questions:
   - The reports name the site as Brazo Yahuma, the Yahuma tributary and the Callarú River near the Yahuma community, so a shared riverine-border description is used.
   - No drug valuation, package count or crew size was published.
   - 'Left out, as its quotation was not found in Comando Conjunto de las Fuerzas Armadas: The interception happened around 01:45 on 13 March as the boat tried to cross the Callarú River near the Yahuma native community in Loreto.'
-  - The Infobae page gives only its 18 March 2026 publication date and no separate day for the interception; the existing report dates the interception to 13 March 2026 from the Peruvian joint-command account.
   - Infobae names no arrests, crew size, package count or drug valuation for the Brazo Yahuma interception.
-  - The page's three Yahuma/Amazonas photos are credited to the Armada de Colombia and appear to repeat the agency handout already cited in the existing report, so no separate media entry is added.
   - Later passages about 1.6 tonnes on the Garzón-Neiva road, 240 kilos between Pereira and Manizales and 720 kilos in Villavicencio describe different operations left out here.
 ---
 

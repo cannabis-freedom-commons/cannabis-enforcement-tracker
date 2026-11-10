@@ -93,7 +93,6 @@ open_questions:
   - No court outcome, charge or sentence was reported; the student was only referred to the Public Prosecutions Office.
   - Whether police confirmed the gummies' THC content by laboratory test, or relied on the bottles' labelling, is not stated.
   - The student's full name and the name of the gang or its leaders were not published.
-  - The Macau Daily Times page carries one photo without a caption or credit establishing that it shows this seizure, so no media entry is included from it.
   - The Macau Post Daily headline says 10.6 million patacas while its text gives 10.8 million patacas; the report uses 10.8 million.
   - The same page also reports a separate HKD1.2 million cash seizure at Gongbei port, a different event left out here.
   - 'Left out, as its quotation was not found in 正報 (Cheng Pou): Chinese-language outlets described the seizure as the largest cannabis smuggling case Macau had broken in recent years.'

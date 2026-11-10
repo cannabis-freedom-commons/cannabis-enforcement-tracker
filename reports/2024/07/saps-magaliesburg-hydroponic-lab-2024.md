@@ -52,7 +52,6 @@ sources:
     date: 2024-07-20
 open_questions:
   - No plant count, cannabis weight or trial outcome was published.
-  - The only image found with these reports was AI-generated, so no media entry is added.
 ---
 
 Members of the South African Police Service (SAPS) in Gauteng dismantled a

@@ -62,7 +62,6 @@ open_questions:
   - The 11 April 2026 seizure of 210 kg is reported only as background to this bust and is left out of the figures.
   - No charge sheet, court step or outcome is reported for the two arrested men.
   - The agencies give no exact spot in Gondia district where the truck was stopped, so the district centre is used for coordinates.
-  - The Indian Express article carries an AI-generated illustration, not a photograph of the seizure; the media entry is the NCB handout published by ANI.
 ---
 
 Officers of the Narcotics Control Bureau's Mumbai unit intercepted a

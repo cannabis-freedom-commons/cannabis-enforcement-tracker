@@ -46,11 +46,9 @@ open_questions:
   - The exact day of the late-June seizure was not published; the report is dated to the customs announcement of 10 July 2026.
   - No arrests or suspects were reported, and the shipper or consignee of the container is not named.
   - The one-tonne Le Havre seizure by the anti-narcotics office (OFAST) in May 2026, mentioned by 76actu, is a separate event left out here.
-  - The article rounds the seizure to 2.5 tonnes while the existing report uses the customs figure of 2,562 kg.
   - The article gives both about 20 million euros and nearly 20.5 million euros as the estimated value.
   - The exact day of the late-June seizure is not given; the report remains dated to the 10 July 2026 customs announcement.
   - No arrests or consignee details are named in this account.
-  - The page image is captioned as an illustration photo credited to BELGA and does not show this seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in Le Soir: Customs officers at the port of Le Havre found 2,562 kg of cannabis resin at the end of June 2026, sealed in specially built metal compartments under machine tools weighing nearly two tonnes each, inside a container that had left Senegal for Libya and was transiting the port.'
 sources:
   - title: Saisie de 2,5 tonnes de résine de cannabis scellées dans des caissons métalliques

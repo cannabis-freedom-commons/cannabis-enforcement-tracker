@@ -49,8 +49,6 @@ open_questions:
   - No charge, custody decision or court outcome beyond the flagrante arrest for trafficking and association was reported.
   - The weight is reported as approximate, 258 bricks weighing about 212 kilos.
   - Only the agency statement could be opened directly after other apparent accounts of the same seizure could not be accessed for verification.
-  - The agency page carries an image whose caption is only '.', which does not establish that it shows this seizure, so no media entry is included.
-  - The Correio do Povo page carries a photo credited only as Polícia Civil / CP without a descriptive caption establishing what it shows, so no media entry is added.
 ---
 
 On 3 November 2026, officers of the Civil Police's 3rd Drug-Trafficking

@@ -48,7 +48,6 @@ open_questions:
   - The substance is described only as apparent marijuana with similar characteristics, with no laboratory confirmation reported
   - The names of the two detainees were not published
   - No court outcome was reported; the detainees were awaiting a decision on their judicial situation
-  - The page image is captioned only as marihuana2 and does not establish that it shows this seizure, so no media entry is listed
 ---
 
 Two men aged 18 and 19 were detained on foot in the El Resumen sector of Cúcuta,

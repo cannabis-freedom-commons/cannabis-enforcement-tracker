@@ -55,7 +55,6 @@ open_questions:
   - The Royal Gazette describes a naturalised Canadian with Nigerian parents and a University of Toronto student, while the Bermuda Sun says he had dropped out of law school; the reports do not reconcile the two.
   - The 22 May page gives 5 June as the trial date; it became the sentencing date after his guilty plea.
   - No appeal or other later development in the case was found.
-  - The submitted page carries an unlabelled lead image with no caption or credit and no confirmation that it depicts this case, so it is not listed.
 ---
 
 Moses Adejumo, a 23-year-old Canadian university student, was sentenced to eight

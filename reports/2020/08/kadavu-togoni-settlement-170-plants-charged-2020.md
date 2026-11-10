@@ -62,7 +62,6 @@ open_questions:
   - The Fiji Times gives his home area as Nasaibitu, Wainibuka, Tailevu, while fijivillage gives Qauia, Lami and Banikea, Lekutu, Bua; the report does not reconcile these addresses.
   - The published sources do not say how he pleaded, which court imposed the sentence, or whether an appeal followed.
   - No weight, area, value, or number of farms involved was published for the 170 plants, and no separate figure for other arrests in the raid was given.
-  - The Fiji Times picture on the submitted page is credited as a file photo ("FT FILE/SUPPLIED") of an earlier raid, so it is not listed as media for this event.
 ---
 
 Fiji police charged a young man over marijuana cultivation in Kadavu in August

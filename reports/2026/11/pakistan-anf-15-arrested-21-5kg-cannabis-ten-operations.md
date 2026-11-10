@@ -63,11 +63,8 @@ open_questions:
   - The 400 grams of ice seized from three individuals at Chenab Toll Plaza in Gujrat is non-cannabis and is not counted.
   - The suspects are not named and no ages are given beyond the three passengers held at Multan airport.
   - No court dates or outcomes beyond registration of cases under the Control of Narcotic Substances Act, 1997 are reported.
-  - The page carries a lead image and a gallery of WhatsApp-style pictures with empty captions and alt text, so whether they show these seizures could not be established and no media entry is added.
   - No agency statement or second outlet reporting these ten operations could be opened.
   - The article does not say how the 15 arrests are distributed across the ten operations, and the locations listed account for fewer than ten separate places.
-  - The cannabis breakdown stated here sums to about 25.7 kg (500 grams of weed plus 2.4 kg plus 18 kg plus 3.6 kg plus 1.2 kg of hashish), while the existing report records 21.5 kg; the 50.702 kg combined total, 10 operations and 15 arrests match.
-  - The UrduPoint page carries a lead image whose alt text is only the headline; with no caption or credit establishing it shows these seizures, no media entry is added.
 ---
 
 The Anti-Narcotics Force arrested 15 suspected drug traffickers in 10 operations

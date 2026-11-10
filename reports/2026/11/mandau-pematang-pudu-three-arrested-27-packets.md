@@ -61,21 +61,9 @@ open_questions:
   - No weight was published for the 27 cannabis packets, so no cannabis weight is recorded.
   - No second independent report of the same event was found, so this report relies on one outlet account.
   - No court outcome or formal charging step beyond the alleged Narcotics Law violation was reported, and the investigation was described as ongoing.
-  - The page carries a lead image whose caption only repeats the headline, so whether it shows this seizure could not be established and no media entry is listed.
   - 'Left out, as its quotation was not found in RIAU24JAM.COM: Police said they were still investigating the source of the cannabis and possible involvement of other people.'
-  - The RRI account gives the initials as YSP, BKA and HP with first names Yudha, Bambang and Hardhi, while the existing report records YS aged 25, BKA aged 34 and AP aged 31.
-  - The RRI breakdown of the 19 packets is one large and 18 small packets, while the existing report records one large, one medium and 17 small packets.
-  - The RRI account cites Article 114 paragraph 1 and Article 111 paragraph 1 with a maximum 12-year penalty, while the existing report records Article 111 with Article 609 on adjusted penalties.
   - The RRI text dates the press conference to Wednesday 4 November but prints the year as 20296 in one line, while its publication metadata dates it 4 November 2026.
-  - The RRI page carries a press-conference photo captioned as the Bengkalis police chief leading the disclosure, which does not by itself establish that it shows the seized cannabis, so no media entry is included.
   - The Bualbual account publishes no weight for the packets, so no cannabis weight can be added from this source.
-  - The Bualbual account spells the first alley as Gang Gian Nam while the existing report records Gang Giam, a minor spelling variation that does not change the match.
-  - The Bualbual lead image is a generic red-and-white breaking-news graphic, not a photo of this seizure, so no media entry is added.
-  - The Jagariau account reports two mobile phones while the existing report records three mobile phones, so the phone count remains as previously reported.
-  - The submitted RRI account gives the full names Yudha Saputra Pratama, Bambang Kurnia Azlansyah and Hardhi Putra, while the existing report records the third suspect as AP aged 31 rather than HP, so the full identification of the third suspect remains unresolved.
-  - The submitted account names Jalan Giam 6 and Jalan Abdurrahman in Pematang Pudu, while the existing report records Jalan Asrama Tribrata, Gang Giam and Gang Abdul Rahman, a minor street-naming variation.
-  - The page carries a press-conference photo captioned as the Bengkalis police chief explaining the disclosure, which does not show the seized cannabis itself, so no media entry is listed.
-  - The submitted account does not mention the three mobile phones and three motorcycles recorded in the existing report, so those counts remain supported only by the earlier sources.
 ---
 
 Mandau police in Bengkalis detained three men with the initials YS aged 25, BKA

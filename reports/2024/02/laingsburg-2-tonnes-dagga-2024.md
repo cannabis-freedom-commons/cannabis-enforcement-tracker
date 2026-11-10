@@ -41,7 +41,6 @@ tags: [dagga, traffic-police]
 open_questions:
   - The reports do not say where the dagga was grown or where the truck was headed.
   - No court outcome for the two arrested people was reported.
-  - A photograph of the seizure on the radio station's page could not be recovered because its image address was a page placeholder, so no media entry is included.
 sources:
   - title: Two arrests by Provincial Traffic amid R4 million drug bust
     url: https://www.westerncape.gov.za/article/two-arrests-provincial-traffic-amid-r4-million-drug-bust

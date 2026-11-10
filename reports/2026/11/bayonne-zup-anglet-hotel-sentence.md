@@ -45,7 +45,6 @@ open_questions:
   - The 1,200 euros per day was turnover mentioned in the traffickers' messages, not an official drug valuation, so no value figure is recorded.
   - The 12,000 euros was seized cash, not a stated drug valuation.
   - Only one accessible source was found for this event; no agency statement or second outlet account could be opened.
-  - The page image is captioned as an illustration by Benjamin Roullier and does not show this seizure or hearing, so no media entry is listed.
   - The 25 September 2025 arrest began the case and the 3 November 2026 hearing imposed the sentences; the report is dated at the latest step.
 ---
 

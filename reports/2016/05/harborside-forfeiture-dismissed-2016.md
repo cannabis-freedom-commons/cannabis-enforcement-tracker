@@ -45,7 +45,6 @@ sources:
 open_questions:
   - No plant or weight figures were reported for this forfeiture case.
   - The opened sources confirm the dismissal for the Oakland property but not the outcome for the San Jose location named in the 2012 actions.
-  - No press photograph verified as showing the forfeiture action itself was recovered, so no media is listed.
 ---
 
 In July 2012, US Attorney Melinda Haag filed civil forfeiture actions against the landlords of Harborside Health Center's Oakland and San Jose dispensaries, seeking to seize the properties over marijuana sales that were legal under California law but illegal under the federal Controlled Substances Act. [@1] Staff arrived at work to find forfeiture notices taped to the doors of both dispensaries. [@1] The case file names the Oakland property at 1840 Embarcadero, where the dispensary had operated under city licence since 2006. [@3]

@@ -57,7 +57,6 @@ open_questions:
   - The incident date used is the 27 October 2026 sentencing; the pursuit occurred on 17 July, the second stop on 2 October, and the TikTok post on 3 November.
   - One detailed court report gives a 28-month driving ban with an extended re-test, while another report gives a two-year ban; the report uses the 28-month figure.
   - The 14-month prison term covers all offences together and the judge identified dangerous driving as the most serious offence, so no cannabis-only penalty can be separated.
-  - The submitted page image carries no caption or credit confirming it shows this pursuit, so no media entry is included.
 ---
 
 Derby Crown Court jailed Jack Vickrage for 14 months on 27 October 2026. [@2]

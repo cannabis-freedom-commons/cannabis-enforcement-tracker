@@ -68,9 +68,6 @@ open_questions:
   - The earlier lab raid at the same residence is undated in these accounts.
   - No outcome was reported for the woman and the caretaker arrested in the earlier courier case, or for the remand the DNC said it would seek.
   - The 10 yaba tablets are methamphetamine, not cannabis, and are excluded from the cannabis figures above.
-  - This account calls Kush an unconventional synthetic drug, while the existing report treats it as high-potency cannabis; the 100 g of ganja and the cultivated plants support the cannabis component recorded here.
-  - The page's lead photo could not be verified as showing this event from its caption, so no media entry is included.
-  - The Dhaka Post times the arrest operation between 8:30am and 9am, while the existing report says around 9am.
 ---
 
 A US citizen accused of operating a remote-controlled Kush cultivation laboratory

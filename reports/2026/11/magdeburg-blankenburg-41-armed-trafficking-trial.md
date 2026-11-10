@@ -44,7 +44,6 @@ open_questions:
   - The trial dates 12, 13 and 30 November and 4 December 2026 come from the court's schedule announcement; the newspaper gives no date of its own.
   - The part of the Volksstimme article behind its paywall could not be read; further details of the alleged acts or the defence's position were not available.
   - No verdict or sentence has been reported; the trial had not opened when this report was drafted.
-  - The only picture on the cited page is captioned as a Symbolfoto (stock photo) credited to Keystone/Volkmar Schulz, so no media entry is included.
 ---
 
 A man now 41 years old, who last lived in Blankenburg, is to answer before the

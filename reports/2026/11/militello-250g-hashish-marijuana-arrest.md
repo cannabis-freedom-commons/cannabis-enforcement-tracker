@@ -67,11 +67,7 @@ open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate day for the dawn raid.
   - The reported total of more than 250 grams is not split between hashish and marijuana.
   - No weight or count is given for the seized hemp seeds.
-  - The lead photo on the source page is captioned only with the headline, so it is not established that it shows this seizure and no media entry is added.
   - No court outcome beyond transfer to Caltagirone prison at the disposal of the judicial authority is reported.
-  - The new source was published on 3 November 2026 while the existing report is dated 2 November 2026; neither gives a separate calendar day for the dawn raid.
-  - The page photos are captioned only with the headline, so it is not established that they show this seizure and no media entry is added.
-  - The Dayitalianews lead image uses a file from April 2025 captioned only by the headline, so it is not established to show this seizure and no media entry is included.
 ---
 
 Carabinieri in Militello Val di Catania arrested a 36-year-old local man in the

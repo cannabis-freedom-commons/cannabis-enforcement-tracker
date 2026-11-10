@@ -56,7 +56,6 @@ open_questions:
   - Majat is the local name used in the article for one type of cannabis; it is counted here with the skunk as cannabis flower.
   - The Noordoewer Periodic Court appearance was scheduled for the Tuesday after the article's publication; no outcome of that appearance, plea or later court step was reported.
   - No second opened account of this seizure was found.
-  - The article's only photo is a Getty Images stock picture, so no media entry is listed.
 ---
 
 Namibia Revenue Agency officials at the Noordoewer border post stopped a

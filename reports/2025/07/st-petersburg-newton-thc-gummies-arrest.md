@@ -38,7 +38,6 @@ open_questions:
   - Whether Newton is related to the child was not published.
   - No court outcome, custody status or later proceedings were reported.
   - Only one accessible account of this event was found after searching for a second report.
-  - The page image is a mugshot portrait credited to the Pinellas County Sheriff's Office, not a photograph of the gummies or enforcement event, so no media entry is included.
 ---
 
 In St. Petersburg, Florida, a woman was arrested and a five-year-old child was

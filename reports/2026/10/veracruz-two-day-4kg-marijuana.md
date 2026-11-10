@@ -98,13 +98,9 @@ open_questions:
   - Only reprints of the secretariat bulletin were opened; the SSP’s own post was not found.
   - The published photo is an SSP collage of officers, detainees and seized items and is not captioned as showing the marijuana.
   - This reprint does not date the operations as Wednesday and Thursday; only the separate Banderilla mobilization is placed on Friday afternoon 30 October 2026.
-  - The page photo pairs the same SSP “acciones operativas” collage already linked from Foro Coatza with a street scene that matches the Banderilla mobilization, so no new media entry was added.
   - 'Left out, as its quotation was not found in Gobernantes.com: The people detained, and the seized items and vehicles, were turned over to the competent authorities.'
   - The page’s lead photo is captioned only with the article headline and is not described as showing the marijuana, so it was not added; it may be the same SSP collage already linked from Foro Coatza.
   - The SSP page carries no separate publication timestamp; the bulletin is dated only with a Friday 30 October 2026 dateline from Xalapa.
-  - The agency page's only image is an uncaptioned "Comunicado SSP" graphic filed under a March 2026 upload folder and is not described as showing the operations, so no media entry was added for it.
-  - The page image has no caption or description linking it to the marijuana seizures, so no media entry was added.
-  - The page displays an image with no caption or credit linking it to the marijuana seizures, so no media entry is added.
 ---
 
 On Wednesday and Thursday, the Veracruz Public Security Secretariat, with the

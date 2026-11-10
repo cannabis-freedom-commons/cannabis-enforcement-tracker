@@ -68,7 +68,6 @@ open_questions:
   - Cocaine prices and individual alleged cocaine deals are mentioned only to explain the mixed case and are excluded from cannabis figures.
   - The submitted item reports 15 arrested while the recorded report gives 17 arrested; the submitted item says searches were still under way, so its count appears to be a preliminary figure.
   - The submitted item gives no weight for the marijuana, no details of any cocaine, hashish, cash, weapons or other seizures, and no operation name, so those figures rest on the existing Glas Srpske account.
-  - The page's only event-related image is a generic arrest photo filed as Policija hapsenje.jpeg with no caption confirming it shows this operation, so no media entry is added.
 ---
 
 Banja Luka police in Operation Demidz broke up an organized drug group that had

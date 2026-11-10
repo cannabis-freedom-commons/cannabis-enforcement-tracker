@@ -60,7 +60,6 @@ open_questions:
   - The hashish and marijuana weights are reported as approximate, almost 40 grams and about 30 grams, with about 75 grams in total.
   - No new charges or court outcome for the seized drugs were reported; the man was transferred to prison at the disposal of the judicial authority.
   - Only one accessible source for this event was found after searching in Italian.
-  - The page carries a photo whose caption repeats the headline and does not establish what it depicts, so no media entry is included.
 ---
 
 Officers of the Squadra Mobile of the Rieti Questura, Rieti's provincial police

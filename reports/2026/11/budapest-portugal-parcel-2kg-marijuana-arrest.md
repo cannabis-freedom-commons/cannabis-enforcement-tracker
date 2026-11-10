@@ -80,11 +80,9 @@ open_questions:
   - Hungarian letartóztatás is rendered as court-ordered detention, meaning pre-trial custody, not a final sentence.
   - The parcel was stopped on 28 October and the arrests followed on 2 November; the incident date uses the arrest date and details record the span as a period.
   - Only one accessible source was found after searching in Hungarian and English for the agency account and other coverage.
-  - The page's listed image concerns an unrelated interest-rate story and shows nothing from this event, so no media is listed.
   - September and October seizures in Zugló and Nyírbátor mentioned in the same article are separate events left out of this report.
   - The Zsaruhírek account describes the 25-year-old companion in the car as a Chinese man, while the Budapest Police Headquarters statement calls him a Vietnamese man, as does the Index report; the report keeps the police version.
   - The reports give no total weight for the cocaine, tablets and pink powder beyond more than 100 grams of white powder, and no cannabis-specific value.
-  - The Kontroll account gives more than 2 kilograms for the marijuana and attributes the more than 15 million forint value to the marijuana, while the police statement reported by the other sources puts the parcel's plant material at more than 2 kg but the 15 million forint figure on all seized drugs together; the existing report keeps the police version.
   - The Infostart headline and lead say the parcel of marijuana was worth more than 15 million forints, while the Budapest Police Headquarters statement as reported by the outlets already cited gives that figure for all seized drugs together; the report keeps the police version.
   - Infostart says the search of the Chinese man's car and flat found more than 100 grams of cocaine and tablets, and does not mention the pink powder that the police statement described.
 media:

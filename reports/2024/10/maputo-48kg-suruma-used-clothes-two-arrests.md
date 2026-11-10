@@ -52,7 +52,6 @@ open_questions:
   - No charges, prosecutions or court outcome were reported; the case was at the investigation stage.
   - Only one source, a Carta de Moçambique report, could be opened for this arrest; no police statement or second outlet account was found.
   - The suspects' names, ages and nationalities beyond Mozambican and Tanzanian were not published.
-  - The page's photograph is a generic stock image of two people in handcuffs, matching the headline only, and is not confirmed to show this seizure, so no media entry is included.
   - The article recalls an unrelated June police seizure of drugs hidden in deodorants and 1.4 tonnes of cocaine hidden in sweets; that is a different event and is left out.
 ---
 

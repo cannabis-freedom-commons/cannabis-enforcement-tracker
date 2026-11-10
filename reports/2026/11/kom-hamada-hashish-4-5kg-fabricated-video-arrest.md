@@ -76,7 +76,6 @@ open_questions:
   - All accounts reproduce the same Interior Ministry statement; the Al-Ahram gate page could not be opened and one further outlet loaded an anti-robot check.
   - The page picture is captioned only as the accused and is not established to show the seizure, so it is linked rather than used as a cover.
   - The page does not state a weight for the quantity of ice seized, so no figure can be derived from it.
-  - The page picture is captioned only with the article headline and is not established to show the seized hashish or the raid, so no media entry is added.
   - The account reproduces the same Interior Ministry statement as the earlier reports.
 ---
 

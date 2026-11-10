@@ -47,7 +47,6 @@ sources:
     language: bn
 open_questions:
   - Only one accessible outlet report of this Madan arrest could be opened, so no second source confirms the account.
-  - 'The page photo is captioned only as ছবি: যাযাদি and is not established to show this seizure, so no media entry is included.'
   - No court outcome after the arrested man was sent to court was reported.
   - Whether the two fugitives were later caught was not reported.
 ---

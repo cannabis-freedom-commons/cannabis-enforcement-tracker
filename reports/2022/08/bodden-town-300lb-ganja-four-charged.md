@@ -48,7 +48,6 @@ open_questions:
   - The amount of cash seized was described only as a large quantity and was not disclosed, so no value is recorded.
   - The arrested and charged people were identified only by age and district and no names were published.
   - No outcome after the 12 August court appearance was reported.
-  - No photograph of this seizure with a recoverable direct address was found; the submitted page images are advertisements and a generic police image, so no media entry is included.
 ---
 
 On 9 August 2022, police searched three separate premises in the Bodden Town

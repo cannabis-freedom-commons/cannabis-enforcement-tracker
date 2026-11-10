@@ -47,9 +47,6 @@ open_questions:
   - The 18.03-gram figure is expressly a gross packet weight, and no net cannabis weight or THC content was published, so the kilograms figure records that gross weight.
   - No detention, arrest, name, nationality, travel origin or case outcome was reported beyond interception and transfer to the anti-smuggling department.
   - Only one accessible source for this event was found after searching in Chinese and English.
-  - The page image is captioned only as图片 and does not establish that it shows this seizure, and the other page images are video-player posters or advertisements, so no media entry is included.
-  - The new Sohu repost was published on 4 November 2026 while the existing report uses 3 November 2026; both say only近日 and give no separate seizure date.
-  - The page image is captioned only as文章配图-1 and does not establish that it shows this seizure, so no media entry is included.
   - The submitted Sohu repost is dated 5 November 2026 and says only近日, while the report uses 3 November 2026, the date of China Customs' own release; neither gives a separate seizure date.
 ---
 

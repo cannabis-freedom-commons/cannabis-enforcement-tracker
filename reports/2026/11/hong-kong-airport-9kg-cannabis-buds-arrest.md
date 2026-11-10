@@ -98,9 +98,6 @@ open_questions:
     allegedly obtained or destined.
   - No charge sheet, court date or sentence beyond detention for investigation is reported.
   - >-
-    A second image on the submitted page carries only the caption 2.jpg, so whether it shows this seizure
-    could not be established and it is not listed as media.
-  - >-
     The HK01 page states its pictures were provided by police, but their direct image addresses were not
     recovered from the opened text, so they are not listed as media.
 ---

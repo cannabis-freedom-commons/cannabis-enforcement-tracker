@@ -53,7 +53,6 @@ open_questions:
   - No market value was given for the 2.1 kg of cannabis.
   - Only one report of the verdict could be opened; no second outlet account or court statement was found.
   - The report does not say whether either man was on bail during the trial or plans to appeal.
-  - The page's lead image is a composite of portraits of the two accused, not of the seizure or the hearing, so no media entry is added.
   - 'Left out, as its quotation was not found in Madhyamam: Excise officers led by Manjeri Range Excise Inspector C. Shyamkumar arrested the two on 24 April 2018 during a vehicle check on the Manjeri Rajiv Gandhi bypass road, acting on a tip from excise intelligence, and seized 2.1 kg of cannabis.'
 ---
 

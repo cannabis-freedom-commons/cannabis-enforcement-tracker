@@ -51,7 +51,6 @@ open_questions:
   - Radio Ozodi states its figures only in a single sentence and does not say how many people were arrested.
   - No charges, court outcome or identities of the three arrested people were reported, and the investigation was described as continuing.
   - The exact point on the highway between Dushanbe and Sughd is only given as the Khusheri tract, so coordinates use Dushanbe with region precision.
-  - The Asia-Plus page image is an uncaptioned photo uploaded in 2016 and is not established to show this 2011 truck seizure, so no media entry is included.
 ---
 
 Officers of Tajikistan's State Committee for National Security stopped a KamAZ

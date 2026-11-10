@@ -219,28 +219,10 @@ open_questions:
   - No court outcome was reported; the pre-trial investigation was still under way when announced.
   - Both accessible reports relay the same KNB statement and are not independent of each other.
   - The exact location on the Caspian Sea and coastal area was not specified beyond Mangistau Region, so regional coordinates are used.
-  - The article gives only its publication date of 3 November 2026 and no separate operation date; the existing report dates the detentions to 1 November 2026 from the KNB announcement.
-  - Almaty.tv describes the operation as the National Security Committee with Mangistau police, while the existing report describes the Border Service with the Committee's Mangistau department, treated here as the same joint operation.
-  - Almaty.tv does not state the nationalities of the two people detained in the coastal area; their identification as Kazakh citizens in the existing report comes from its other sources.
   - The headline figure of almost 110 kg is the combined total of 22 kg of opium plus 27 kg of hashish plus 60 kg of marijuana; only the 87 kg hashish-plus-marijuana part counts as cannabis.
-  - The three Caliber.az photos carry no captions or credits identifying their content, so no media entry is added for them.
   - The headline rounds the combined haul to 100 kg while the body gives 109 kg total; only the separately stated 27 kg of hashish and 60 kg of marijuana count as cannabis.
-  - The page carries KNB press-service photos of the operation that appear to republish the same agency handout already linked from the KNB page, so no separate media entry is added.
-  - The TINFO page carries a photo of seized packages and a small boat that appears to republish the same KNB handout already linked from the KNB page, so no separate media entry is added.
-  - The submitted page's single photo is credited only to the KNB and its image editor and does not identify distinct content, so no separate media entry is added and it may republish the agency handout already linked.
   - The Caravan article also recalls a separate 10-year drug-smuggling sentence for an Iranian citizen in Aktau, which is a different event left out here.
-  - The Zakon.kz photo is credited only to the KNB press service and appears to republish the same agency handout already linked from the KNB page, so no separate media entry is added.
-  - The page's only image is captioned only as unsplash.com and uses a 2023 file, so it is not established to show this operation and no media entry is included.
   - The same page also reports a separate 30 October 2026 detention of 10 people in Atyrau on extremism suspicion, a different event left out here.
-  - The Media.az page carries photos captioned only with the article headline and no credit distinguishing their content, so it is not established that they show distinct content from the KNB handout already linked, and no media entry is added.
-  - The NewsHub.kz page gives only a relative publication time of 2 hours ago and no separate operation date, so the 1 November 2026 incident date continues to rest on the KNB announcement cited in the existing report.
-  - The page's single photo is credited to the KNB and appears to republish the same agency handout already linked from the KNB page, so no separate media entry is added.
-  - The submitted page's single photo does not identify distinct content from the KNB handout already linked in the existing report, so no media entry is added.
-  - The Ulysmedia page carries a single video still captioned only as a video frame, which may republish the agency footage already linked, so no separate media entry is added.
-  - The Belles.kz images are credited to the KNB and appear to republish the same agency handout already linked from the KNB press release, so no separate media entry is added.
-  - The page's single photo carries no caption or credit identifying its content, so no media entry is added for it.
-  - The submitted page's image is labelled only as a default image and is not established to show this operation, so no media entry is included.
-  - The SmartNews.kz photo is credited only to the KNB press service and is not established to show distinct content from the agency handout already linked, so no media entry is added.
 ---
 
 Kazakhstan's National Security Committee said an international drug channel

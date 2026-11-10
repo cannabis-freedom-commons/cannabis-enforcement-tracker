@@ -49,7 +49,6 @@ open_questions:
   - The reported 1.5 kg weight is described as approximate, not an exact measured total.
   - The incident date of 6 November 2026 is inferred from the stated Friday the 6th and the article's 7 November 2026 publication date; no separate event timestamp is given.
   - No court outcome beyond the flagrante trafficking arrest at the Rosário do Sul Civil Police station was reported.
-  - No media entry is included because the request supplied no usable direct image address for this event.
   - Only one source for this event could be opened; two other search results for the same arrest could not be opened and are not cited.
 ---
 

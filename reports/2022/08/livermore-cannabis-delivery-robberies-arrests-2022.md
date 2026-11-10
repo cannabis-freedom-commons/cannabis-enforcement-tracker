@@ -45,7 +45,6 @@ open_questions:
   - No charges, court dates or the day of the arrests beyond last week (relative to the 6 September 2022 publication) were reported.
   - Only one account, a Bay City News wire story carried by The Independent, was found for this event.
   - Whether the delivery drivers or dispensaries held state cannabis licences is not stated.
-  - The submitted page carries no photo established to show this event, so no media entry is listed.
 ---
 
 Livermore police arrested two people over the robbery and carjacking of cannabis

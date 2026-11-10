@@ -50,14 +50,9 @@ sources:
     language: bn
 open_questions:
   - Only one accessible source was found for this event, an article reporting an SRB-9 press release, and no second account or agency statement could be opened.
-  - The submitted page carries a photo with no caption or credit establishing that it shows this seizure, so no media entry is included.
   - The 197 bottles of Escaf syrup are a separate non-cannabis seizure and are excluded from cannabis figures.
   - No street value for the seized ganja was published.
   - No court outcome was reported beyond preparation of cases and handover to Bijaynagar police.
-  - The new article covers only the CNG auto-rickshaw ganja seizure and does not mention the separate Kalachhara Escaf syrup seizure recorded in the same existing report.
-  - The new article gives Saturday afternoon as the operation time rather than the about 5:30 pm time in the existing report; 31 October 2026 was the Saturday in question.
-  - The new article does not give the suspect's age, so the existing report's 25-year figure is not corroborated here.
-  - The page carries a collected photo with no caption or credit establishing that it shows this seizure, so no media entry is added.
 ---
 
 Special Response Battalion-9 and Sarail Battalion (25 BGB) carried out separate

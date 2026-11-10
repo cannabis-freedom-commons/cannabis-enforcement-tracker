@@ -147,29 +147,23 @@ open_questions:
   - Only initials and birth years were released for the three suspects, and no plea or court outcome was reported.
   - The amount is stated as about 7.5 kilograms, not an exact measured weight, and no value estimate was published.
   - Telegraf, Blic and the submitted portal all reproduce the same Zrenjanin police statement, so they are not independent reporting; the Interior Ministry's own page could not be opened for this report.
-  - The submitted page shows one handout photograph, but no caption confirms which of the searched premises it depicts.
   - The Republika page presents the story under the headline about the Gendarmerie member and lists a gallery that includes unrelated police stock photographs and links to other cases.
   - Objektiv credits the story to Tanjug and reproduces the same Police Administration Zrenjanin statement already cited in the report, so it is not independent reporting of the arrest.
   - The Naslovi.net page is a Newsmax Balkans text reproducing the same Zrenjanin police statement as the outlets already cited, so it is not an independent account and gives no date, plea or court outcome.
-  - The page image is an aggregator thumbnail and no caption confirms what it depicts, so no media entry is added.
   - The Tanjug page gives no separate date or time for the search or arrests; 7 November 2026, the date of the police statement and of publication, stands in for the incident date.
   - 'The image on the Tanjug page is captioned only ''Foto: Tanjug video'' and is not confirmed to show the seized plants or the laboratory, so it is not listed as media.'
   - BL Portal credits the text to Blic ("prenosi Blic") and reproduces the same Police Administration Zrenjanin statement, so it is not independent reporting of the arrest.
   - BL Portal labels itself a Banja Luka outlet and published in Bosnian-language orthography, and its lead gives the suspects' birth years (1983, 1962, 1963) rather than their ages.
-  - The BL Portal lead photo is credited to PU Zrenjanin / MUP but stored as a BL Portal upload; no caption confirms which of the searched premises it shows, so it is not added as a separate media entry.
   - The NS Uzivo page gives no separate date for the search or arrests; 7 November 2026 is its publication date and the date of the reported police statement.
-  - The page's only image is a generic police-handcuffs stock photo from January 2025 credited to MUP, not confirmed to show this laboratory or seizure, so no media entry is added.
   - Insajder credits the text to Tanjug and reproduces the same Police Administration Zrenjanin statement as the outlets already cited, so it is not independent reporting of the arrest.
   - The article mentions a separate cannabis-growing laboratory discovered in Smederevska Palanka the previous day; that is a different event and is not covered here.
   - 'The page photo is captioned only ''Hapšenje, policija / Foto: Insajder'' and is the same stock image used on other Insajder pages, so it is not confirmed to show this laboratory or seizure and is not listed as media.'
-  - The RTRS page shows a Serbia police handout photo captioned only as Police of Serbia, with no caption confirming it depicts this laboratory or seizure, so no media entry is added.
   - Glas Srpske reproduces the same Police Administration Zrenjanin statement as the outlets already cited, so it is not independent reporting of the arrest.
   - Glas Srpske gives no separate date for the search or the arrests; 7 November 2026 is its publication date and the date of the police statement.
   - The Glas Srpske lead photo has no caption or credit identifying which premises or seizure it shows, so it is not listed as media.
   - Glas Srpske gives the suspects' ages as 43, 64 and 63 rather than birth years, as some other accounts did.
   - The page image is the same police handout used by other outlets, captioned only with the story headline, and no caption states which of the searched premises it depicts.
   - The NIN headline says 7,5 kg marihuane while the text gives the amount as about 7.5 kilograms of dried material suspected to be marijuana; the body text is used.
-  - The page shows a handout photograph credited to MUP NS, but its caption does not confirm it depicts this Zrenjanin laboratory or seizure, so no media entry is added.
 ---
 
 Police in Zrenjanin, with the Higher Public Prosecutor's Office in the city,

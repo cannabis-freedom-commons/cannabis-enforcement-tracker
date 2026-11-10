@@ -45,7 +45,6 @@ open_questions:
   - The article does not state whether the tusi or the pills were analysed, and describes the MDMA only as presumed.
   - No charges beyond arrest, and no court outcome, were reported for any of the four men.
   - Only this outlet could be opened for the three interventions; no police statement or second report was found.
-  - The article's photograph carries no caption or credit and could not be confirmed to show the event, so no media entry was added.
 ---
 
 National Police arrested four men in Palma in a single day as suspected drug

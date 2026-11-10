@@ -45,7 +45,6 @@ open_questions:
   - The 14.34 grams of heroin seized in the same search is not cannabis and is excluded from kg_seized.
   - No value, weighing method, charge sheet or further court outcome beyond judicial custody was reported.
   - No second independent source for this event could be opened.
-  - The page image carries a 2021 file path and a headline caption that does not establish that it shows this seizure, so no media entry is added.
 ---
 
 Charkhi Dadri CIA staff arrested a car-borne accused as part of a special drive

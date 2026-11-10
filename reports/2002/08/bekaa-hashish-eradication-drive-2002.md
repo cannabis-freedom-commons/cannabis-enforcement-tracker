@@ -60,17 +60,11 @@ open_questions:
     the opened sources.
   - The reports name no arrests or charges from the eradication operation.
   - >-
-    A Getty Images file picture dated 22 July 2002 shows hashish plants in a Bekaa field near Baalbek, but it
-    could not be opened to verify whether it depicts this operation, so no media entry was made.
-  - >-
     The detailed breakdown (about 53,000 dunums in the Bekaa and 2,000 in the North) sums to more than the
     headline figure of over 50,000; this report uses the headline figure.
   - >-
     Only one contemporary press account of this phase could be opened; the launch-phase scope and first-phase
     results are not covered in the opened source.
-  - >-
-    A Reuters photograph of the 22 July 2002 destruction exists on Bridgeman Images, but the page would not
-    open so no direct media address could be recovered and no media entry was made.
   - No arrests or clashes during this phase were reported in the opened source.
   - >-
     The original archived news pages could not be reopened during consolidation; the earlier evidence is

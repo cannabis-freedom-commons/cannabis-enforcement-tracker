@@ -43,7 +43,6 @@ open_questions:
   - The market value of more than 70 million pesos covers everything seized, including contraband electronics and clothing, so no cannabis-only value is recorded.
   - No charges or later court outcome were reported beyond the detention and the seizure order.
   - The other members of the group who fled to the house were not identified and no further arrests were reported.
-  - The page's embedded photo has no caption or descriptive alternative text establishing that it shows this seizure, so no media entry is included.
   - Only one accessible account of this event was found.
 ---
 

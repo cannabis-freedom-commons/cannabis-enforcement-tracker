@@ -66,7 +66,6 @@ open_questions:
   - The itemised cannabis amounts of 100 grams, 50 grams and 20 grams sum to 170 grams, less than the 200 grams police gave as the drive total; no amount was stated for the alleged consumption case.
   - The 80 tapentadol tablets and Tk 16,500 in alleged sale proceeds are non-cannabis items and are excluded from the cannabis figures.
   - No second outlet or agency statement for this sweep was found after searching in Bengali and English.
-  - The page carries a lead photograph whose caption only repeats the headline, so whether it shows this seizure could not be established and no media entry is listed.
   - No charge sheets, remand details or court outcomes beyond jail through the court were reported.
   - Some quotations from the Bangla page are given as shorter excerpts because the capture mixes precomposed and decomposed forms of the letter ya, which do not match character for character.
   - 'Left out, as its quotation was not found in Ajker Bangladesh: Police filed separate cases under the Narcotics Control Act at the concerned police stations.'

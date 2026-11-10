@@ -44,7 +44,6 @@ open_questions:
   - No figure for the number of ganja plants in the accused's village or any cannabis weight beyond the 203.71 grams was published.
   - No charges or court outcome were reported beyond the mention of an NDPS Act case in Chandigarh.
   - Only one accessible source for this event was found after searching in Hindi and English.
-  - The page photo is a 2021 file image captioned only as Drug smuggler arrested and is not established to show this event, so no media entry is included.
 ---
 
 Gurugram Crime Branch's Sector-17 team arrested an alleged charas supplier from

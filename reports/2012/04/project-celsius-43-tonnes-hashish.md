@@ -53,7 +53,6 @@ sources:
 open_questions:
   - The first wire report said eight Montreal-area residents had been arrested, while the later official police account says nine suspects; this report uses the official figure of nine.
   - How the 43.3 tonnes split across the seizures in Pakistan, Belgium, Italy and Canada was not published.
-  - No photo of the raids with a recoverable address was found, so no media entry was added.
 ---
 
 The Royal Canadian Mounted Police announced on 18 April 2012 the results of Project Celsius, a joint investigation that seized more than 43 tonnes of hashish worth an estimated $860 million. [@1,2] The hashish came mostly from Pakistan and was intercepted in Pakistan, Belgium, Italy and Canada after travelling in marine containers toward Montreal and Halifax, Nova Scotia. [@1,2]

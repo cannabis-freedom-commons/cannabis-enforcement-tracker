@@ -46,11 +46,9 @@ open_questions:
   - The seized quantity is reported only as about two kilos, so 2 kg is recorded as an approximate police figure.
   - The article gives no separate date for the patrol beyond Wednesday; 4 November 2026, its publication date, is used as the incident date.
   - Only one accessible source for this event was found after searching in Telugu and English.
-  - The page photo caption only repeats the headline and does not establish what it depicts, so no media entry is included.
   - No NDPS sections, values or court outcome beyond registration of the case and remand were reported.
   - The value of about Rs 1 lakh is a police estimate given for the 2 kg of ganja, not a price confirmed by any other source.
   - HMTV published on 5 November 2026 and gives no separate date for the patrol beyond the existing account's Wednesday, 4 November 2026.
-  - The HMTV page photo is captioned only Maripeda and is not established to show this seizure, so no media entry is included.
   - No accessible second outlet for this event could be opened in this run, so the detail rests on HMTV alone.
 ---
 

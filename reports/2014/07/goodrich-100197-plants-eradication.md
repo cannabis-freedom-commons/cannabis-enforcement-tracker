@@ -47,7 +47,6 @@ open_questions:
   - The hunter found the fields on Saturday 26 July and crews cleared them on Monday 28 July; this report is dated at the 28 July clearance.
   - Early reports counted more than 40,000 plants recovered with more fields still to clear; this report uses the later 100,197-plant, 29-field total from the same Chronicle page.
   - One person was reported taken into custody, with forensic work under way; no name, charge or court outcome was reported.
-  - Photos on the source pages could not be verified as showing this grow, so no media entry was added.
 ---
 
 A deer hunter maintaining a deer lease off Old Highway 35 near Goodrich, about 70 miles north of Houston, stumbled onto a sophisticated outdoor grow on Saturday 26 July 2014 and called police. [@1,2] Deputies arriving that day found evidence the growers had just left elaborate campsites with food, clothing, equipment, generators and an irrigation system pumping water from a nearby creek through hoses into the fields. [@1,2]

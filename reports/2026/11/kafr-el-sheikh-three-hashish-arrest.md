@@ -49,8 +49,6 @@ open_questions:
   - The suspects' full names were not published, only initials and ages.
   - No court outcome was reported; the Public Prosecution investigation was still under way.
   - Only one accessible source for this event was found after searching in Arabic.
-  - The page photo is captioned as an archive image and is not established to show this seizure, so no media entry is included.
-  - The page carries a photo captioned only with the headline and no credit, so it is not established to show this seizure and no media entry is included.
 ---
 
 Kafr El Sheikh centre detectives arrested three unemployed men accused of

@@ -41,7 +41,6 @@ open_questions:
   - No suspect was named and no arrest was reported; the report says the cannabis bag on the Patna–Ernakulam Express was unclaimed.
   - Only one account of the seizure was found; no police statement or second outlet could be opened.
   - The report does not identify the station or stretch of track where the trains were checked, only that they were passing through Salem.
-  - The only image published with the report is a file photo of cannabis and gutka, not a photograph of this seizure, so no media is listed.
   - The report gives no estimated value for the 3 kg of ganja.
 ---
 

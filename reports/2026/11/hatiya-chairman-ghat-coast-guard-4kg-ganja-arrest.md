@@ -107,7 +107,6 @@ open_questions:
   - The operation was described as a special drive, but its start and end times were not given; the raid is dated to the Monday afternoon stated in the press statement.
   - The page image is titled only "hatya" and carries no caption saying whether it shows the seized ganja or the speedboat, so what it depicts is not established.
   - The Daily Adin reproduces the same Coast Guard press statement as the NAGORIK TV report already cited, so the two accounts are not independent.
-  - The Daily Adin report does not mention the seizure of the speedboat recorded in the existing report, and does not say whether any charges were filed or the boat was held.
   - The Newsbangla24 report reproduces the same Coast Guard media statement as the other accounts and names no separate source, so it is not independent corroboration.
   - Channel S reproduces the same Coast Guard media statement as the accounts already cited, so it is not independent corroboration.
   - The Channel S page image is stored as a generic site template file and its alt text only repeats the headline, so no caption establishes that it shows the seized ganja or the speedboat and it is not listed as media.
@@ -115,7 +114,6 @@ open_questions:
   - The Sangbad Sarabela page image carries no caption and its alt text only repeats the headline, so no caption establishes that it shows the seized ganja or the speedboat; it is not listed as media.
   - This Times of Bangladesh account reproduces the same Coast Guard press statement as the outlets already cited, so it is not independent corroboration.
   - Dainik Sokal reproduces the same Coast Guard media statement as the outlets already cited, so it is not independent corroboration.
-  - This account does not mention the seizure of the speedboat recorded in the existing report, and does not say whether any charges were filed or the boat was held.
   - Daily Bangladesh Aalo reproduces the same Coast Guard media statement as the outlets already cited, so it is not independent corroboration.
   - The page image's caption only repeats the headline and carries no credit, so nothing establishes that it shows the seized ganja or the speedboat.
 ---

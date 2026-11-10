@@ -49,7 +49,6 @@ open_questions:
   - The suspect was not named, only described as a 27-year-old from Tegucigalpa.
   - No court outcome was reported; the suspect was said to face drug-trafficking charges.
   - The full Facebook post text beyond its headline could not be read behind login, so seizure details rely on the second source.
-  - Pages show photos but their captions do not establish that they show this seizure, so no media entry is included.
 ---
 
 Investigators of the Directorate of Police Investigations arrested a suspected

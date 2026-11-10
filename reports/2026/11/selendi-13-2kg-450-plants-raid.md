@@ -89,13 +89,9 @@ open_questions:
   - 'Left out, as its quotation was not found in İhlas Haber Ajansı: Gendarmerie teams raided a home in Selendi district in Manisa province and detained a 44-year-old man identified only as K.Y. on suspicion of producing and trading drugs.'
   - 'Left out, as its quotation was not found in İhlas Haber Ajansı: The suspect was detained on the instruction of the public prosecutor and was due to be taken to the judicial authorities the day after the raid.'
   - 'Left out, as its quotation was not found in İhlas Haber Ajansı: Officers seized the drugs found at the address.'
-  - The Habertürk page image is captioned only with the headline and carries no photographer or agency credit, so it cannot be confirmed to show this seizure itself, so no media entry is included.
   - The Habertürk page states its Manisa news comes from agency channels without editorial intervention and names İhlas Haber Ajansı as its source, so it adds no independent account beyond the same agency text.
-  - The submitted page's image carries no caption or photographer/agency credit establishing that it shows this seizure, so no media entry is added.
   - The Manisa Denge page identifies its text and byline as İhlas Haber Ajansı, so it is a reprint of agency copy already cited and gives no independent confirmation.
-  - The page gives no separate day for the remand; 5 November 2026 is its publication and entry date and is used as the latest-step date, while the raid itself was inferred as 4 November 2026 in the existing report.
   - The Habertürk page states its text came without editorial intervention through agency channels from Anadolu Ajansı, and a Milliyet page carries the same AA text, so no independent account beyond the agency copy was found.
-  - The page image is captioned only with the headline Manisa'da uyuşturucu operasyonunda yakalanan şüpheli tutuklandı and carries no photographer or agency credit establishing that it shows this seizure, so no media entry is included.
   - The MSN page carries the same İhlas Haber Ajansı text as the İHA original already cited, so it adds no independent account of the raid.
 details:
   activity: [cultivation, sale]

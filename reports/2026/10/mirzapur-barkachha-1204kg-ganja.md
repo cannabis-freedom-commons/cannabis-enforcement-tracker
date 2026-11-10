@@ -157,28 +157,16 @@ open_questions:
   - No court appearance, charge sheet or outcome was reported; police said the two men were being produced in court to be sent to jail.
   - Dainik Bhaskar names the officer as SP City and Amar Ujala as ASP City; the report avoids the rank.
   - The reports do not say where in Odisha the consignment was loaded, who owns the truck, or how long the route had operated.
-  - The submitted page's only photo and Dainik Bhaskar's photos carry no caption or credit, so they could not be confirmed as showing the seizure and are not listed; the two captioned Dynamite News photos are.
   - The submitted article gives no separate date for the check; 30 October 2026 comes from Dainik Bhaskar's account, and 31 October is the publication and press-conference date.
-  - Patrika gives the truck's registration as MP 09 HH 8980, while the existing report gives MP 09 HH 8908; the report keeps 8908.
   - 'Left out, as its quotation was not found in Patrika News: Police valued the consignment at about ₹6 crore, or 60 million rupees.'
   - Newstrack's photo caption in the page metadata gives the value as 'Rs 60 crore', while its headline and article text say six crore rupees; the report uses ₹6 crore.
   - Amar Ujala values the consignment at ₹6 crore, while Bharat Samachar estimates ₹4–5 crore; the value remains disputed.
   - 'Left out, as its quotation was not found in Hindustan: Police said the consignment had come from Odisha.'
-  - The submitted Facebook post gives only a relative date of 'a day ago'; the event date rests on the existing report's sources.
-  - The submitted post's only image is captioned 'May be an image of text' and cannot be confirmed as showing the seizure, so no media entry is added.
-  - The submitted video page gives no separate date for the check; 30 October 2026 comes from the existing report's sources and 31 October 2026 is this page's publication date.
-  - The submitted page's video and thumbnail carry no caption or credit confirming they show the seizure, so no media entry is added.
-  - This account says the vehicle check happened on Saturday, while the existing report dates the check to the evening of 30 October 2026; 31 October 2026 was the Saturday publication and press-conference date.
   - This account does not mention coconuts as concealment, so it corroborates the 1,204 kg quantity but not that concealment detail.
-  - The page's only photo carries the article title as caption with no credit confirming it shows this seizure, so no media entry is added.
   - This capture does not mention coconuts as concealment, so it corroborates the 1,204 kg quantity but not that concealment detail.
-  - This capture gives no truck registration number; the truck number rests on the existing report's other sources.
   - 'Left out, as its quotation was not found in Hindustan: City police officer Yogendra Singh gave the details at a press conference at the police lines.'
-  - This account says the arrests happened on Saturday, while the existing report dates the check to the evening of 30 October 2026; 1 November 2026 is this article's publication date.
   - This account does not mention coconuts as concealment, the Chhitampur turn, or the truck's full registration number, so it corroborates the 1,204 kg quantity but not those details.
   - This capture's readable text does not mention coconuts or coconut sacks as concealment, so it corroborates the 1,204 kg quantity but not that concealment detail.
-  - This capture's readable text gives no truck registration number, route, names, ages, case number or NDPS sections, so those details rest on the existing report's other sources.
-  - The page's only photo carries no caption or credit confirming it shows this seizure, so no media entry is added.
 ---
 
 Kotwali Dehat police in Uttar Pradesh's Mirzapur district arrested two truck

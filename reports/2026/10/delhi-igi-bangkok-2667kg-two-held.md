@@ -120,7 +120,6 @@ open_questions:
   - PTI reported that the two passengers arrived on two separate flights from Bangkok, while the Delhi Customs post names a single flight, AI2335; the report does not resolve the difference.
   - Customs gave no names, ages or other identifying details for the two passengers.
   - No court appearance, remand or charge sheet was reported; customs said only that its investigation was in progress.
-  - The Lokmat Times featured image did not load in the captured page, ThePrint used a default image and the Delhi Customs post's attached image could not be checked, so no photograph of the seized packets was confirmed and no media entry was added.
   - The Lokmat Times report is a syndicated PTI story that the page says was refined using artificial intelligence; ThePrint carries the same PTI text and the customs post gives the same weight and value.
   - 'Left out, as its quotation was not found in ThePrint: The pouches were packed 13 to each of two black trolley bags.'
   - This page is an unedited PTI-Bhasha reprint, so it is not an independent account of the seizure.
@@ -132,13 +131,9 @@ open_questions:
   - The Bhasha feed says the passengers arrived on separate flights, while Delhi Customs names Flight AI2335; the discrepancy remains unresolved.
   - 'Left out, as its quotation was not found in Lokmat Times: The two passengers were arrested on 28 October under Section 43(b) of the Narcotic Drugs and Psychotropic Substances Act, 1985.'
   - The page's 36.325 kg and Rs 12.70 crore totals cover three separate narcotics cases, including the 26.67 kg seizure, and are not a single-event figure.
-  - The page's only article image is captioned 'Photo for representation. Istock', so no media entry was added.
-  - The submitted page is the AMP edition of the Tribune article already cited in the report; it is the same account, not independent corroboration.
   - The ETV Bharat English article appears to be the English-language edition of the ETV Bharat account already cited in Hindi, so it is not independent corroboration.
   - The English page's lead image is captioned only with the headline and credited to a special arrangement, so its identification with this seizure rests on the article context.
-  - The submitted page is ETV Bharat's video item and appears to be a companion to the Hindi article from the same outlet already cited in the report, so it corroborates rather than independently confirms the figures.
   - The page gives no separate date for the seizure or the arrests; 31 October 2026 is its publication date.
-  - The submitted page says in its summary that the passengers arrived on two separate flights from Bangkok but in its body names a single flight, AI2335, on 28 October, repeating the unresolved one-flight versus two-flights discrepancy already noted in the existing report.
 media:
   - kind: photo
     url: https://www.etvbharat.com/hi/bharat/26-dot-67-kg-of-hydroponic-weed-seized-at-igi-airport-two-arrested-dln26103101218

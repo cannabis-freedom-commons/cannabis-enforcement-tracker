@@ -39,7 +39,6 @@ tags: [tunnel, otay-mesa, dea]
 open_questions:
   - The Associated Press put the combined total at about 17 tons (nine on the US side, eight in Mexico); this report uses the DEA's figure of about 14 tons.
   - The same AP account mentions a separate drug tunnel found in Nogales on the same Tuesday, a different event left out here.
-  - The DEA handout photo of the seized packages was only recoverable at thumbnail size from the opened pages, so no media entry was added.
 sources:
   - title: Major Drug Tunnel Uncovered in San Diego
     publisher: The Associated Press, via Officer.com

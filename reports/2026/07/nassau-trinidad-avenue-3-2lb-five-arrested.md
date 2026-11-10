@@ -55,7 +55,6 @@ open_questions:
   - The five arrested were identified only by age and sex, and no names were released.
   - The $3,225 street value is a police estimate given in dollars, taken here as Bahamian dollars.
   - Only one account, Eye Witness News's report of the police preliminary statement, was found; no second outlet was located.
-  - The page carries no photo of the raid or seizure, only a social-media headline template image, so no media is listed.
   - The map point is central Nassau because the article names Trinidad Avenue without the district.
 ---
 

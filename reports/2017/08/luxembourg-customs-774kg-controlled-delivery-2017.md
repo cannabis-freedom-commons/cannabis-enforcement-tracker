@@ -49,7 +49,6 @@ open_questions:
   - The sources do not say where inside Luxembourg the consignment was intercepted.
   - No arrest, charge or court outcome was reported; customs said only that the load was seized and an investigation opened.
   - The roughly 650,000 euros is customs' own valuation of the drugs, not a confirmed sale price.
-  - The Le Quotidien page carries a photo credited only to Luxembourg customs without a caption describing what it shows, so no media entry is included.
 ---
 
 Luxembourg customs intercepted a delivery of 77.4 kg of marijuana at the end of

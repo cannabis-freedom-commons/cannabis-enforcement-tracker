@@ -77,19 +77,14 @@ open_questions:
   - RCI describes the 185 kilograms as cannabis resin while actu Rennes describes pressed resin loaves plus herb sachets; the report records 185 kilograms as the total cannabis seizure.
   - The reports say the five men were placed in pretrial detention under a judicial investigation but do not state formal charge wording or any court outcome.
   - No cannabis-only monetary valuation was published; the three-times-price comparison is a resale-price description, not a seizure valuation.
-  - The submitted page's lead image uses a 2023 resin-illustration file and is not established to show this seizure, so no media entry is included.
   - Only the opening of the Ouest-France article could be read; the remainder is paywalled, so later custody, charge or court details are not established from this source.
-  - The page image is credited to AFP with a caption describing the interception and is not established to show this seizure, so no media entry is included.
-  - The Unidivers account dates the Roissy arrests to Tuesday 2 June 2026, differing from the existing report's 2 May 2026 date; the identical quantity, airport, destination and five-suspect sequence show the same event.
   - France-Antilles dates the customs discovery to 2 May but dates the arrests and transfer to Rennes to Tuesday 2 June; the report dates the event to 2 May.
   - France-Antilles describes 185 kilos of cannabis resin while Unidivers describes resin plus herb; the report records 185 kilograms as the total cannabis seizure.
-  - The France-Antilles lead image is captioned as a Shutterstock illustration and the Unidivers image has no caption establishing it shows this seizure, so no media entry is included.
   - Neither new account gives formal charge wording, a cannabis valuation, any cocaine amount, or a later court step; Unidivers reported no hearing had been announced by early June 2026.
   - 'Left out, as its quotation was not found in Unidivers: The four men arrested at the airport were aged about 19 to 32.'
   - 'Left out, as its quotation was not found in Unidivers: A judicial investigation was opened to determine the scale, organization, possible relays and financial or logistical channels behind the transport.'
   - The France-Antilles Guadeloupe page dates the customs discovery to 2 May but dates the arrests and transfer to Rennes to Tuesday 2 June, while the report dates the event to 2 May.
   - The France-Antilles Guadeloupe page describes 185 kilos of cannabis resin while other accounts describe resin loaves plus herb sachets; the report records 185 kilograms as the total cannabis seizure.
-  - The France-Antilles Guadeloupe lead image is captioned as a Shutterstock illustration and is not shown to depict this seizure, so no media entry is included.
 ---
 
 Border police detained four men at Paris-Charles-de-Gaulle airport on 2 May 2026

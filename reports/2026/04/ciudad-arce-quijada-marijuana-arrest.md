@@ -54,7 +54,6 @@ open_questions:
   - No weight, number of portions or value was published for the marijuana, so no cannabis quantity or value is recorded.
   - Infobae dates the arrest to the night of Wednesday 8 April 2026 and Diario El Salvador published the same day; only the years of the two earlier arrests (2022, 2023) are known.
   - The reports give no exact charges for the 2022 and 2023 detentions and no court outcome for the current case.
-  - Infobae's lead photo is credited to Pexels stock imagery, and the other page pictures are of a different arrest in Sonsonate, so no media entry is included.
 ---
 
 Police and soldiers detained Walner Edenilson Quijada Cortez, alias Roro, in

@@ -55,7 +55,6 @@ open_questions:
   - The £310,000 cannabis value, 98 THC vapes and 15.5 kilos from Whitehaven describe Smith's separate earlier Boy Shane boat case and are excluded from this report's figures.
   - The BBC describes the cocaine counts as importation and supply while Isle of Man Today describes supply and production of a class A drug; the report records the 20-year total from both accounts.
   - The hearing date is given only as Thursday with publication on 22 January 2026, which is used as the incident date.
-  - The BBC mugshot portrait credited to Isle of Man Police and the Douglas Courthouse exterior do not show the seizure, raid or court action, so no media entry is included.
 ---
 
 Jamie Smith, 38, was sentenced to 20 years in prison for playing a leading role

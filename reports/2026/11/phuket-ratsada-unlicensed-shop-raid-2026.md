@@ -54,9 +54,6 @@ open_questions:
   - No charges or court outcome beyond handover to Mueang Phuket investigators were reported.
   - Only the official Phuket public-relations account could be opened for this event; no independent second source was found.
   - The page timestamp shows 12:37 PM on 4 November while the text says the inspection was at 15:15 that day; 4 November is used as the incident date.
-  - The Facebook post carries photos without accessible captions or alt text establishing they show this raid, so no media entry is included.
-  - The Khaophuket account also describes Siwat Rawangkun as acting in place of the provincial clerk, while the existing report records him as Mueang Phuket district chief.
-  - The article's only photo is captioned as a Phuket province public-relations picture without stating what it shows, so no media entry is added.
   - The shop's name, Amsterjam, is given by The Phuket News; the earlier official and Khaophuket accounts did not name it, and no other outlet confirms the spelling.
 media:
   - kind: photo

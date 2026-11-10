@@ -55,10 +55,6 @@ open_questions:
   - The article gives 3 November as the date the tip was received and 4 November as its publication date, with no separate arrest date stated, so 3 November is used as the incident date.
   - No court outcome beyond sending the accused for judicial remand was reported.
   - Only one accessible source for this event was found after searching in English and Hindi.
-  - The page cover image has no caption or credit establishing that it shows this seizure, so no media entry is included.
-  - The new account values the seizure at Rs 185,500 while the existing report records about Rs 185,000; the report's figure is retained.
-  - The new account spells the school as Atmanand while the existing report uses Anandam; the Naharpara Road, Ganj, Raipur match is otherwise exact.
-  - The page carries a photo captioned with the same headline but with no credit or description establishing that it shows this seizure, so no media entry is included.
 ---
 
 Ganj police in Raipur arrested 26-year-old Shivam Mishra, son of Chhail Bihari

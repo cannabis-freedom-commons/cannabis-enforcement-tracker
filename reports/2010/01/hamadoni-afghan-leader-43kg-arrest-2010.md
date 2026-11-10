@@ -57,7 +57,6 @@ open_questions:
   - The detained man's nationality was stated but his name was not published.
   - No court outcome was reported; the agency said only that an investigation was under way.
   - The Avesta account says the case was handled by the agency's Khatlon regional department and does not name Hamadoni district, while Asia-Plus and Khovar place the arrest in Hamadoni on 22 January.
-  - No photograph showing the detention or the seized drugs was available on the cited pages, so no media entry is included.
 ---
 
 Tajikistan's Drug Control Agency arrested a 31-year-old Afghan national in

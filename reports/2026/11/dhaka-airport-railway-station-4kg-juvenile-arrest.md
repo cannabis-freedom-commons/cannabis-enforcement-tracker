@@ -44,7 +44,6 @@ open_questions:
   - The material was described simply as ganja, with no laboratory confirmation reported.
   - No charge sheet, court date or outcome was reported; the article said legal steps were still being processed.
   - The boy's age could make juvenile justice procedures apply, but no such referral was reported.
-  - The page's only inline image is a generic graphic card, not a photo of the event, so no media is listed.
   - The article names the platform but gives no street address; the coordinates are for the airport railway station locality.
   - The 4 kg weight and the 100,000 taka value are police figures and were not independently confirmed.
   - The report gives no account of where the ganja came from or where the boy was taking it.

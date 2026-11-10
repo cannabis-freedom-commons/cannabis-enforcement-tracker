@@ -50,7 +50,6 @@ sources:
     date: 2026-11-01
     language: pt
 open_questions:
-  - The only published photo shows the entrance totem of Depac Cepol where the case was registered, not the event itself, so no media entry is listed.
   - No court outcome was reported; the sources list only the offences he will answer for.
   - Whether the claimed home cultivation and alleged authorisation were further investigated was not reported.
 ---

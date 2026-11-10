@@ -66,12 +66,7 @@ sources:
 open_questions:
   - The man is not named and his age was not given.
   - No charge or court step was reported; the outlets say an arrest in flagrante was to be recorded but give no outcome.
-  - The submitted page calls the approach an afternoon one, while the other outlets log it at 18:26 and about 18:30.
-  - The only picture on the submitted page is captioned as an illustrative photo of a Rotam vehicle, not a picture of this stop, so no media entry was added.
   - The same page describes the incident as both in the afternoon and at about 18:30, so the time-of-day wording remains imprecise alongside the existing 18:26 account.
-  - No media entry is added because the article image file is named for a Faxinal trafficking case and carries no caption or text linking it to this Ivaiporã stop.
-  - The submitted page writes the street as Rua Juarez Cleve, while the existing report writes Rua Juarez Clever.
-  - No media entry is added because the page image carries only the generic caption Descrição da imagem and no text links it to this stop.
 ---
 
 Rotam, the Military Police's tactical mobile patrol unit, stopped a man on Rua

@@ -51,7 +51,6 @@ open_questions:
   - Only two accounts of the event were opened and both appear to draw on the same Military Police information; the Military Police did not publish a separate statement that could be opened.
   - The plants are described only as cannabis (maconha) plants, with no laboratory confirmation reported.
   - No charges, arrest or court outcome are reported; the case is at the Civil Police station.
-  - The page photograph has no caption or credit and is not confirmed to show the seized plants, so no media entry is added.
   - The Itabira Online article also reports a separate cocaine seizure at about 2am on 9 November on the same avenue; that is a different event, left out of this report.
 ---
 

@@ -147,40 +147,6 @@ open_questions:
   - >-
     Left out, as its quotation was not found in Telangana Today: Police valued the seized ganja at about Rs
     57,000.
-  - >-
-    Whether the lead photo on the TV9 Telugu page shows this seizure was not established from its caption, so
-    no media entry is made.
-  - >-
-    The submitted page says the joint arrest happened on Sunday with a Hyderabad November 1 dateline, while
-    the existing report dates the raid to 31 October 2026; the one-day difference is unresolved.
-  - >-
-    The submitted page places Kardanoor/Patancheru in Rangareddy district while the existing report uses
-    Sangareddy district.
-  - >-
-    Whether the lead photo on the submitted page shows this seizure was not established from its generic
-    caption, so no media entry is made.
-  - >-
-    The GSTV page gives only its publication date of 1 November 2026 and no separate date for the raid; 31
-    October 2026 is the incident date established by the existing report's other accounts.
-  - >-
-    The GSTV page carries a video still with the generic caption 'સોર્સ: gstv'; whether it shows this seizure
-    was not established, so no media entry is made.
-  - >-
-    The submitted page gives only its publication date of 1 November 2026 and no separate raid date; 31
-    October 2026 is the incident date established by the existing report.
-  - >-
-    The submitted page transliterates the locality as Kardatur while the existing report uses Kardanoor for
-    the same Govind Rao Dairy Farm in Patancheru.
-  - >-
-    The submitted page does not name the accused, the four apprehended consumers, the alleged Dhoolpet
-    supplier, or the NDPS case details given in the existing report.
-  - >-
-    The NewsMeter page places Kardanoor/Patancheru in Rangareddy district while the existing report places it
-    in Sangareddy district.
-  - >-
-    The NewsMeter lead photo uses the article headline as its caption and does not establish that it shows
-    this seizure, so no media entry is included.
-  - The page says the joint arrest happened on Sunday with a 1 November Hyderabad dateline, while the existing report dates the raid to 31 October 2026.
 ---
 
 EAGLE Force and Patancheru police apprehended six people and seized 1.15 kilograms of ganja at a Kardanoor dairy farm. [@1,2,3,4,5,6,7,8,9,10]

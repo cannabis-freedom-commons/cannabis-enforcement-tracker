@@ -97,13 +97,10 @@ open_questions:
   - The page photographs are captioned only with the headline and do not establish that they show this search rather than an archive image from the source agency.
   - 'Left out, as its quotation was not found in DHA | Demirören Haber Ajansı: Judicial proceedings were started against the suspect over the raid.'
   - 'Left out, as its quotation was not found in Haberler.com: In Turkish gendarmerie reports, kubar esrar designates harvested herbal cannabis.'
-  - Akdeniz Gerçek gives the searched home only as Kumluca district, with no neighbourhood or village, matching the district-level place in the existing report.
-  - The page's two other images are thumbnails of unrelated Antalya news items, so no media entry was added from this source.
   - Alanya Türk credits the İhlas News Agency (İHA) for the account, so it appears to be the same agency text carried by other outlets rather than an independent second source.
   - The Alanya Türk page image is captioned only with the headline and carries no photographer or agency credit, so it is not established to show this search.
   - The Son Dakika page is credited to the İhlas News Agency (İHA) and repeats the agency account rather than adding an independent version.
   - Antalya Son Haber credits the story to its own news centre (HABER MERKEZİ) and gives no separate date for the house search; 5 November 2026 is its publication date and matches the date already used for the incident.
-  - The page photo is captioned only with the headline and carries no photographer or agency credit, so it is not established to show this search and no media entry is added from it.
 ---
 
 Antalya provincial gendarmerie teams carried out the operation in Kumluca

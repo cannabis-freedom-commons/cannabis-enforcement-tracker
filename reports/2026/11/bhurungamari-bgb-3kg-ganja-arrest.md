@@ -54,7 +54,6 @@ open_questions:
   - Non-cannabis items including medicines, cosmetics, phones, a cow and the auto-rickshaw are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - No court outcome beyond the filing of the case and handover to Bhurungamari police was reported.
   - Coordinates are for the Bhurungamari upazila centre, not a surveyed point for the multiple border posts.
-  - The Daily Sangram page image is captioned only with the outlet's name and is not established to show this seizure, so no media entry is included.
 ---
 
 Border Guard Bangladesh detained 21-year-old Maruf Hossain, also called Suruj,

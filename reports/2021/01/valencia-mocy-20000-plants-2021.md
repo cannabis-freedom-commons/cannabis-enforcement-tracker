@@ -45,7 +45,6 @@ open_questions:
   - 29 January 2021 is the announcement date; the raids may have taken place in the days before.
   - Only one full account of the Valencia phase could be opened; the Civil Guard statement it quotes is no longer at its published address.
   - The same operation reportedly totalled 110 arrests across Spain; case outcomes for the 20 Valencia suspects were not published in the opened source.
-  - The article's screenshot carries no caption confirming it shows this event, so no media entry was added.
 sources:
   - title: 20,000 Cannabis Plants Seized in Europe-Wide Drugs Crackdown
     url: https://cannabislaw.report/20000-cannabis-plants-seized-in-europe-wide-drugs-crackdown/

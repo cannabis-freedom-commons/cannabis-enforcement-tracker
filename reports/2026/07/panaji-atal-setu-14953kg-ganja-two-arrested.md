@@ -43,10 +43,7 @@ sources:
     language: mr
 open_questions:
   - The submitted Tarun Bharat page is dated 5 November 2026 but describes the same July seizure; the July date, timing and case details come from the 12 July accounts.
-  - Dainik Gomantak describes the men as originally from Jharkhand, while the submitted page calls them Bihar natives; the supplier is consistently described as from Bihar.
-  - Dainik Gomantak and Pudhari give the older man's age as 31, while the submitted page gives 21.
   - No court outcome, remand decision or forensic confirmation beyond the police seizure figure and NDPS case registration was reported.
-  - The submitted page's only image is a thumbnail captioned only with the headline, so no media entry is listed.
 ---
 
 Goa's Anti-Narcotic Cell raided the circle near the Kadamba (KTC) bus stand in

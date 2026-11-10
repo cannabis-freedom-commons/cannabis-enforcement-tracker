@@ -154,29 +154,12 @@ open_questions:
   - The pin is the centre of Zarzir, one of the two named areas; the statement does not locate the fields or say how the area was divided between Zarzir and Ainata.
   - The army published three photographs with the statement but gave no captions; MTV Lebanon attached a video, but no stable public video address was available, so no video is linked.
   - All the reports found repeat the army statement; no independent account of the destruction was published.
-  - Addiyar and Al-Manar write the first village as الزرازير, which MTV rendered as Zarazir, while the existing report's title and place use Zarzir; the Arabic statement and the 9,700 square meter figure are otherwise the same.
-  - The MTV Lebanon page gives no caption or credit for its lead image, which appears to be a frame from the Army video; it could not be confirmed as distinct from the three Army photographs already linked, so no new media entry was added.
   - Elsiyasa's page carries three photos without captions or credits; they could not be confirmed as distinct from the three Lebanese Army photographs already linked, so no separate media entries were added.
   - The opened Lebanon Debate capture preserves only the headline and an embedded video, with no additional body text, plant count, or arrest detail beyond the headline figure and places.
-  - Elnashra spells the first locality الزرازير, matching Addiyar and Al-Manar, while the existing report title and place use Zarzir; the 9,700 square metre figure and Ainata–Baalbek location are otherwise the same.
-  - Elnashra carries one photo captioned with the same headline; it could not be confirmed as distinct from the three Lebanese Army photographs already linked, so no new media entry is added.
-  - The Daily Beirut page writes the first locality as Заразир, rendered Zarazir in the army English version, while the existing report uses Zarzir; the 9,700-square-meter figure and Ainata-Baalbek location are otherwise the same.
-  - The page carries a lead photo captioned with the same headline, but it could not be confirmed as distinct from the three Lebanese Army photographs already linked, so no new media entry is added.
-  - The submitted page writes the first locality as الزرازير, rendered Zarazir, while the existing report title and place use Zarzir; the 9,700-square-metre figure and Ainata–Baalbek location are otherwise the same.
-  - The submitted page gives only the 1 November 2026 publication display; no separate day for the destruction beyond the army statement date is provided.
-  - The submitted page's lead image has no caption or credit in the capture and could not be confirmed as distinct from the three Lebanese Army photographs already linked, so no new media entry is added.
-  - The submitted page writes the first locality as Zarazir while the existing report title and place use Zarzir; the 9,700-square-meter figure and Ainata-Baalbek location are otherwise the same.
-  - The Kataeb page writes the first locality as الزرازير, rendered Zarazir, while the existing report title and place use Zarzir; the 9,700-square-meter figure and Ainata-Baalbek location are otherwise the same.
   - The page gives only its 1 November 2026 publication display; no separate day for the destruction beyond the army statement date is provided.
   - The page names no owner, cultivator or suspect and reports no arrests, plant count, weight or value.
-  - The page's lead image has no caption or credit in the capture and could not be confirmed as distinct from the three Lebanese Army photographs already linked, so no new media entry is added.
-  - The submitted page writes the first locality as الزرازير, rendered Zarazir, while the existing report title and place use Zarzir; the 9,700-square-meter figure and Ainata–Baalbek location are otherwise the same.
-  - The submitted page gives only its 1 November 2026 publication display; no separate day for the destruction beyond the army statement date is provided.
-  - The submitted page writes the first locality as الزرازير, rendered Zarazir, while the existing report title and place use Zarzir; the 9,700-square-meter figure and Ainata-Baalbek location are otherwise the same.
   - The opened capture preserves only the headline and the 1 November 2026 publication display, with no body text giving a separate destruction date, plant count, weight, suspects or arrests.
-  - The Daily Beirut page writes the first locality as الزرازير, rendered Zarazir, while the existing report title and place use Zarzir; the 9,700-square-metre figure and Ainata–Baalbek location are otherwise the same.
   - The Lebanon ON capture gives only the 1 November 2026 publication display; no separate day for the destruction beyond the army statement date is provided.
-  - The page images have no caption or credit in the capture confirming they show this destruction distinctly from the three Lebanese Army photographs already linked, so no new media entry is added.
 ---
 
 A Lebanese army unit destroyed a marijuana crop covering about 9,700 square

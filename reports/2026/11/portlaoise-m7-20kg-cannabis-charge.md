@@ -67,10 +67,8 @@ sources:
 open_questions:
   - The Leinster Express reported the arrested woman as aged in her early 40s, while Midlands 103 and Ireland Live describe the driver as a woman in her 20s; this report counts one arrested and charged person and treats the age as unresolved.
   - Midlands 103 and Ireland Live both report the case next coming before the courts on 22 February 2027; no later stage of the case has been reported.
-  - The submitted page's only image is captioned as a stock Garda-car image, not as a photo of this seizure, so no media entry is included.
   - The headline values the cannabis at €290,000 while the body says €280,000; this result uses the body's €280,000 figure already in the report.
   - This source gives the next court date only as the 22 February sitting, without a year.
-  - The page's only listed image is captioned Portlaoise Courthouse and does not show the seizure or search, so no media entry is included.
 ---
 
 On 4 November 2026, members of the Laois Drugs Unit and the Laois Roads Policing

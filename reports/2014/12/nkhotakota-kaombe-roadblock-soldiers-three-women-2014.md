@@ -65,7 +65,6 @@ open_questions:
   - No weight is given for the hemp found in the soldiers' bags, so 32 kilograms is only the women's consignment and understates the total seized.
   - The later stage reported is only for the two soldiers; no outcome is reported for the three women.
   - No value estimate for the seized cannabis was published.
-  - The submitted page's only photo is a generic chamba illustration captioned with a general line about Malawi gold, not the seizure, so no media entry is added.
   - 'Left out, as its quotation was not found in AllAfrica (Malawi News Agency): Indian hemp, known locally as chamba, is commonly grown in the lakeshore district of Nkhotakota.'
 ---
 

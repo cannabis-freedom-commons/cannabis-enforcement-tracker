@@ -46,7 +46,6 @@ open_questions:
   - Whether the property was being used as a cannabis farm remains unconfirmed; a resident suspected it and officers did not confirm it.
   - Only the Reading Chronicle reported the raid; no separate Thames Valley Police statement or second independent account was found.
   - The address was given only as Stonea Close, with no house number or description of the property.
-  - The only picture with the report is a Google Maps image of the street, not of the raid or the cannabis, so no media link is listed.
   - The submission is the same Reading Chronicle article republished through MSN, not an independent second account, so it does not independently corroborate the raid.
   - The page displays the item as published about a week before the capture and carries no police statement page of its own.
   - Left out arrested, as no supporting quotation was given.

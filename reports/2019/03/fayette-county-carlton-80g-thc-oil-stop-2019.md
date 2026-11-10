@@ -46,7 +46,6 @@ open_questions:
   - No court date, plea, lawyer or outcome for the possession charge was reported.
   - Two people were in the car but only Carlton was reported arrested; the other occupant's position was not given.
   - The exact spot on S. Kirtley Road is not mapped, so the coordinates are for La Grange, the Fayette County seat.
-  - The page carries a sheriff's office booking photograph of Carlton and a Getty Images stock picture; neither shows the stop or the seized cartridges, so no media entry is included.
 ---
 
 A 20-year-old man was arrested in Fayette County, Texas, after authorities found

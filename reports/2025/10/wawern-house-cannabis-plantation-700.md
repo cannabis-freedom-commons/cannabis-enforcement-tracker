@@ -55,7 +55,6 @@ open_questions:
   - No weight of harvested cannabis, growing area, market value or list of seized equipment was published.
   - The 41-year-old is the only person named as arrested; no identification of possible accomplices or any charge against him has been published.
   - No court date or outcome for the 41-year-old was reported; the police investigation was still under way.
-  - The submitted photographs of the plantation are a dpa/picture-alliance illustration and are not established to show this particular plantation, so no media entry is included.
   - The Trierischer Volksfreund's own German article is paywalled beyond its opening lines, so it is cited only for details in that opening.
   - A later case at the Trier district court concerns a 32-year-old accused of running a plantation in Wawern with 450 plants and 7.5 kg of marijuana; whether it stems from this raid could not be established from the opened sources and is left out here.
   - 'German police raid cannabis plantation on Luxembourg border (Luxembourg Times) could not be opened again to check its quotations (access challenge: Cloudflare blocked access to the article; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.'

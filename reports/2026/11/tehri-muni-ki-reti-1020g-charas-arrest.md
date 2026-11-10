@@ -70,9 +70,6 @@ open_questions:
   - The arrested youth was not named and no age, address beyond Himachal Pradesh, FIR number, NDPS sections, or court outcome was published.
   - Only one accessible source for this 1.020 kg Muni Ki Reti arrest could be opened; no second outlet confirming it was found.
   - The Rs 2.5 lakh figure is the police estimate for the seized charas, with no independent valuation or weighing account published.
-  - The page carries a video poster captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
-  - The Bhaskar page image carries no caption or credit establishing that it shows this seizure, so no media entry is added.
-  - The submitted page carries a photo captioned only as the arrested youth, which does not by itself establish that it shows the seized charas, so no media entry is added.
 ---
 
 In the Muni Ki Reti area of Tehri in Uttarakhand, Tehri police arrested a young

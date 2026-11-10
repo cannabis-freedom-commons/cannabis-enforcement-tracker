@@ -42,7 +42,6 @@ open_questions:
   - No arrests or charges were reported, and the investigation was described as ongoing.
   - The growers' claim to permitted research hemp and the office's over-limit test results were not reconciled in the opened sources.
   - The office did not explain how it reached the $1 billion valuation, which hemp experts called impossible for the crop shown.
-  - Photos of the fields on the reporting page carry no captions confirming they show this event, so no media entry was added.
 sources:
   - title: Hemp fields in Arvin determined to be cannabis
     url: https://www.avdailynews.com/single-post/2019/10/31/Hemp-fields-in-Arvin-determined-to-be-cannabis

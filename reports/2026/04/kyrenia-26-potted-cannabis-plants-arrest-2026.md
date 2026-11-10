@@ -52,7 +52,6 @@ open_questions:
   - The same roundup also reports an animal-killing case, a drunkenness case and five illegal-residency arrests; these are separate non-cannabis events left out of this report.
   - Both accounts appear to relay the same police statement, so the seizure is not independently corroborated.
   - No street or address within Kyrenia was published; Kyrenia town centre is used for coordinates.
-  - The submitted page carries one image captioned only with the headline and no credit confirming it shows this seizure, and the second outlet uses an older narcotics file image, so no media entry is listed.
 ---
 
 On 5 April 2026 at around 20:00, Narcotics and Anti-Smuggling Department

@@ -53,7 +53,6 @@ open_questions:
   - The 22 detentions in Marianao concern químico, described as a synthetic cannabinoid and synthetic drug, and are excluded from cannabis figures as out of scope.
   - The two airport cocaine cases are mentioned only to explain the same announcement and are excluded from cannabis figures.
   - The 96% and 95.8% court figures cover drugs generally in Havana courts, not cannabis alone, and are excluded from figures.
-  - The only photo on the 14ymedio page is captioned as showing two foreigners detained with cocaine, and the Cubanet image shows a generic drug-trial screenshot, so neither shows this marijuana detention and no media entry is included.
 ---
 
 Authorities detained one person at a bus terminal in Havana who was carrying a

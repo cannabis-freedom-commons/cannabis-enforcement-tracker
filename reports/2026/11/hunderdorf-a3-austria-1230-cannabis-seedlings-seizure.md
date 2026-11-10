@@ -126,12 +126,10 @@ open_questions:
   - TAG24 republishes the customs office's handout photographs credited to Zoll Regensburg, so it adds no independent account of the check.
   - TAG24 credits the customs unit to Zoll Regensburg and names it as Kontrolleinheit Verkehrswege Furth im Wald, consistent with the report's attribution to the Regensburg main customs office.
   - The Oberpfalz-Aktuell page appears to reproduce the Regensburg main customs office's release, so it is not independent reporting of the check.
-  - The page's only photograph is captioned with the story headline and carries no credit identifying it, so no media entry is added for it.
   - The Passauer Neue Presse text is a regional title of the same publishing group as Wochenblatt.de and reproduces the customs office's release, so it is not independent reporting of the check.
   - The page dates the check only to "Monday of last week"; the 2 November date comes from the customs release already cited.
   - 'Left out, as its quotation was not found in Passauer Neue Presse (pnp.de): Customs officers of the Furth im Wald traffic control unit of the Regensburg main customs office seized 1,230 cannabis plants on the A3 near Hunderdorf on 2 November 2026.'
   - The TVA Ostbayern page is credited to dpa and appears to restate the customs office's release, so it is not independent reporting of the check.
-  - 'The page''s only picture is a stock image labelled "Symbolbild / Quelle: Pixabay", not a photo of this seizure, so no media entry is added for it.'
   - The page gives no nationality or place of origin for the two men, only that their van was Slovak-registered and had carried the parcels from Austria.
 ---
 

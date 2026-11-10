@@ -39,7 +39,6 @@ open_questions:
   - The article gives no separate date for the detention, so 2 November 2026 is its publication date used as the incident date.
   - The source gives only a 100-bag count of suspected marijuana with no weight, so no kilogram figure is recorded.
   - Only one full source could be opened; the SSC's own statement on the same detention was found in search but could not be opened, so its details are not used.
-  - The submitted page carries one image captioned only 'Sociedad Noticias', which does not establish that it shows this seizure, so no media entry is added.
   - Whether the men were charged or how the Public Prosecutor's Office resolved their legal situation is not reported.
 ---
 

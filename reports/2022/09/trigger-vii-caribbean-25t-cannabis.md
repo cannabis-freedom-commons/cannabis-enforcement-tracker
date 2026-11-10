@@ -67,7 +67,6 @@ open_questions:
   - No cannabis-only weight for the Barbados plants and no cannabis value were published.
   - Only the INTERPOL account could be opened; no second independent account of this operation was found.
   - The ICE account does not mention the 3,664 cannabis plants destroyed in Barbados, leaving that figure supported only by the INTERPOL account.
-  - The ICE page lists five photos with the generic release title as caption; the captions do not identify what each photo shows, so no media entry is made.
 ---
 
 Operation Trigger VII ran from 24 to 30 September 2022 with officers from 19

@@ -66,7 +66,6 @@ open_questions:
   - The recovered substance is described only as suspected or charas-like, and no forensic confirmation is reported.
   - The same KNS article also reports the sealing of two medical shops in Sumlar and the seizure of five tractors for alleged illegal clay transportation, which are separate events left out of this report.
   - The KNS page carries additional images dated 30 October to 1 November whose connection to this seizure could not be established, so only the lead 2 November image is listed as media.
-  - The Rediff page states its image is AI-generated and used only for representational purposes, so no media entry is included.
 ---
 
 Bandipora Police on Monday arrested an alleged drug peddler after recovering

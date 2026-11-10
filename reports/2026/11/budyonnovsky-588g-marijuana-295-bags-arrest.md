@@ -70,7 +70,6 @@ open_questions:
   - The man's name and the settlement within Budyonnovsky district were not published; only the district is known.
   - No court outcome was reported beyond the house-arrest measure of restraint; the case was at the investigation stage.
   - Part 4 of article 228.1 covering large-scale sale carries a long prison term, but no sentence has been passed and no penalty is recorded.
-  - The submitted page carries a gallery of four photos; only the lead photo and one gallery photo could be confirmed from the page to show seized marijuana, and the other three are not listed.
 ---
 
 Police for the North Caucasus Federal District detained a 55-year-old Stavropol

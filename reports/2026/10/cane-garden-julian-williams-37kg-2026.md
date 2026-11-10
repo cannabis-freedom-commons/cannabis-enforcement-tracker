@@ -39,7 +39,6 @@ sources:
     date: 2026-10-22
 open_questions:
   - Only one accessible source for this event was found after searching for a second account of the same arrest and hearing.
-  - The page image carries no caption or credit establishing that it shows this seizure, so no media entry is included.
   - The outcome after the adjournment to 23 November 2026 was not reported in the opened source.
   - The incident date uses the 22 October 2026 court appearance as the latest step; the arrest and alleged offences occurred on 21 October 2026.
 ---

@@ -74,11 +74,7 @@ open_questions:
   - No names of the three detained people were published, only their ages.
   - No charges or court outcome were reported; further proceedings were still under supervision.
   - Only one accessible source for this event was found after searching in Polish and English.
-  - The page carries a photo whose caption repeats the headline and does not establish what it depicts, so no media entry is listed.
   - The operation date of Friday 30 October is given in the text; the year 2026 is inferred from the 3 November 2026 publication date.
-  - The page's only image is a generic May 2019 police photo with an empty caption and does not show this seizure, so no media entry is listed.
-  - The wrzuc.info page shows an image with empty alternative text and no caption establishing it depicts this seizure, so no media entry is listed.
-  - The page's only recoverable image is an Open Graph image with no caption establishing it shows this seizure, so no media entry is listed.
 ---
 
 Police detained three residents of Bochnia aged 31, 34 and 36. [@1,2,3,5,6,7] All three

@@ -55,10 +55,6 @@ open_questions:
   - The arrest occurred on 2 November 2026 while both reports were published on 3 November 2026; the report uses the stated arrest date.
   - The court outcome after the accused was to be produced before the court was not reported.
   - No separate cannabis seizure, weight, area, value or additional arrest in the 2026 operation was reported.
-  - No media entry is included because the Cliff News lead image is captioned only with the headline and the Bhaskar image has no caption establishing that either shows this arrest.
-  - The new account says villagers surrounded the police on arrival, while the existing report says officers cordoned off the ashram; the report wording is retained and the new source is added for the arrest itself.
-  - The new account spells the village as Nohar where the existing report uses Nauhar; both render the same Hindi name in the Aron area.
-  - The Amar Ujala page carries a photo captioned only with the headline, which does not establish that it shows this arrest, so no media entry is included.
 ---
 
 Bhind's Mehgaon police arrested Satyadev, also called Sarvesh and Bajrangdas

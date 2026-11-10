@@ -47,7 +47,6 @@ open_questions:
   - Only the 1,143 kg marijuana total is counted; 4.1 g of cocaine and 4.48 g of cristal are excluded and additional smaller marijuana portions were reported without weights.
   - The 12 recovered and 21 secured vehicles, four firearms, 61 cartridges, five searches and 198 operations are reported without a cannabis-specific breakdown.
   - The six located people were reported without details and are not counted as arrests.
-  - The pages include images with no captions or alt text establishing that they show this seizure, so no media entry is included.
   - Both opened accounts repeat the Fiscalia de Distrito Zona Sur monthly balance; no separate agency bulletin was opened.
 ---
 

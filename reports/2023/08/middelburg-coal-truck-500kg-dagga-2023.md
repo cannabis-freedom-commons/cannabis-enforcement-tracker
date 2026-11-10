@@ -58,7 +58,6 @@ open_questions:
   - No court outcome beyond the expected first appearance in the Middelburg Magistrate's Court was reported.
   - The R1 million figure is the police's street-value estimate, not a market sale price.
   - The 500 kg figure is the police's own weight for the 104 bags; no separate laboratory weight was published.
-  - The page picture is captioned as a file picture of a man arrested with dagga under a coal load, credited to SAPS, and is not established to show this driver or truck, so no media entry is included.
 ---
 
 A 56-year-old truck driver was arrested in Middelburg, Mpumalanga, for allegedly

@@ -47,7 +47,6 @@ open_questions:
   - The man is identified only as a 43-year-old local resident; his full name was not published.
   - No court outcome was reported; the case had only been sent to court.
   - Only one accessible source for this event was found after searching in Russian and English for a second account.
-  - The page image is captioned only as img and is not established to show this seizure, so no media entry is included.
 ---
 
 In July 2026, drug-control officers from the Interior Ministry's Volzhsky

@@ -59,7 +59,6 @@ open_questions:
   - The article does not say the exact criminal offence filed at formalisation or the length of the remand; it only says all three were held in preventive detention for danger to society.
   - The regional seizure totals cited by the prosecutor (61 tonnes this year, over 121 tonnes since October 2023) cover many other operations and are left out of figures.
   - Only one source, the prosecutor's page, could be opened for this event; no independent outlet account was found.
-  - The archived capture was used because the live page was unavailable; the page showed no photo caption or credit for this seizure, so no media entry is added.
 ---
 
 Officers detained three people, two Colombians and a Chilean, in three separate

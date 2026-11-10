@@ -45,7 +45,6 @@ open_questions:
   - The 15 arrests came from parallel buy-bust and response operations, not from the 33 marijuana-eradication operations; the source does not link any individual arrest to a plantation.
   - The source also reports 14 grams of shabu from the combined operations; that non-cannabis quantity is excluded here.
   - The source does not break the cannabis weight down by province or identify the individual plantation sites.
-  - The PIA page image could not be visually verified because its direct media address presented a security-verification page, so no media entry is recorded.
 ---
 
 Joint Philippine National Police and Philippine Drug Enforcement Agency teams carried out 33

@@ -87,7 +87,6 @@ open_questions:
   - UPL says the charge may carry up to 20 years, while UzMetronom states 15 to 20 years for point a of part 6 of Article 273.
   - The detainees are identified only by citizenship and birth years, with no names published.
   - No court outcome has been reported; all three were remanded and the investigation was continuing.
-  - The submitted page's photograph reuses a file whose name carries a 13 June 2026 timestamp and is captioned only with the article title, so it is not linked as a picture of this seizure.
   - The text gives a weight ("1.945 kg") but the figures have no kg_seized; check whether it belongs there.
   - Daryo gives no date for the searches or detention; 23 July 2026, the publication date, is used only to match the recorded event.
   - The combined 1 kg 945 grams still cannot be separated into hashish and the synthetic drugs, so no cannabis weight is recorded.

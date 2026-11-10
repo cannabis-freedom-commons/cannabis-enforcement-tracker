@@ -59,7 +59,6 @@ open_questions:
   - Amphetamine and the 163,750 tablets under medical-trade controls are not cannabis and are excluded from the figures.
   - No value was given for the hashish, and no charges, nationalities or court outcomes were published.
   - Slaati reproduces the Border Guard's statement word for word and is not an independent account.
-  - Slaati's lead image carries no caption or credit that ties it to this seizure, so no media entry is added for it.
 ---
 
 Saudi Arabia's General Directorate of Border Guard said it had foiled attempts

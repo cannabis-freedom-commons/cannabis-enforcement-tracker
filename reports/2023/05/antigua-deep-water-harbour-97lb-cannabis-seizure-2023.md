@@ -58,7 +58,6 @@ open_questions:
   - The value is given only as $582,000 without stating the currency; Eastern Caribbean dollars are assumed as in other Antigua reports.
   - The weight is given only in pounds (97 lb, about 44 kg), and the cannabis is not described beyond sealed packages.
   - Antigua News Room repeats the Observer's wording word for word, so the two are not independent accounts.
-  - The Observer page image is an uncaptioned file named DrugBust90 dated March 2023, two months before this seizure, with nothing tying it to these barrels, so no media entry is added.
 ---
 
 Police and customs officers carried out a joint drug operation at Deep Water

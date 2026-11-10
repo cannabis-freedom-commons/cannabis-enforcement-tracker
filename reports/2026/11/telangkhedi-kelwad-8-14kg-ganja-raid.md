@@ -60,7 +60,6 @@ open_questions:
   - The Rs 2,06,130 total covers ganja and other articles together; the ganja portions were separately valued at Rs 1,27,200 and Rs 76,300.
   - No field area, plant-destruction method, charges or court outcome were reported; the seized material was handed to Kelwad police for further investigation.
   - 4 November 2026 is the operation date given in the article; 5 November 2026 is its publication date.
-  - The submitted page's heading states that the 64-year-old accused was arrested, but its body does not expressly describe an arrest or detention, so whether he was formally arrested remains unclear.
 ---
 
 Nagpur Rural Police's NDPS team busted an alleged ganja trafficking racket in

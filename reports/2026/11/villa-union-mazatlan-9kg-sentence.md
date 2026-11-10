@@ -51,7 +51,6 @@ open_questions:
   - The fine of 83 UMA was published without a peso amount, so no fine figure is recorded.
   - Only the initials Jesús “N” were published, with no age or further identity given.
   - Only one accessible source for this event was opened; a second corroborating account would strengthen the record.
-  - The page image is credited as thematic and is not established to show this seizure, so no media entry is included.
 ---
 
 A district judge sentenced Jesús “N” to eight years and four months in prison

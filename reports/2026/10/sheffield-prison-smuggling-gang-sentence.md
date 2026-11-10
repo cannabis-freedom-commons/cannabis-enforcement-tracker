@@ -73,7 +73,6 @@ open_questions:
   - Spice is a synthetic cannabinoid and ketamine and nicotine are not cannabis, so they are excluded from the cannabis figures.
   - Murphy and Pinnington's earlier 2023 convictions for a separate large-scale prison-smuggling conspiracy are background to this case and are left out as a separate event.
   - The BBC page says only “On Friday” with a 2 November 2026 publication date; 30 October 2026 is established by the second account of the same hearing.
-  - The BBC page carries two South Yorkshire Police handout photos of the same seizure already listed in the existing report, so no new media entry is added.
 ---
 
 Sheffield Crown Court sentenced Kieran Murphy and Brandon Horne on 30 October

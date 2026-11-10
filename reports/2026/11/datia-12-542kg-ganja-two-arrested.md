@@ -52,9 +52,6 @@ open_questions:
   - No court outcome beyond registration of an NDPS Act case was reported.
   - No value estimate for the seized ganja was published.
   - Only one full-text source for this event could be opened; no second independent account was available.
-  - The page carries an image filed under a 2021 Jhansi image address with a generic caption, so it cannot be established to show this seizure and no media entry is included.
-  - The Bhaskar headline rounds the seizure to 12.5 kg while its body and the existing report give 12 kg 542 g; the report retains the exact figure.
-  - The Bhaskar text attributes the 12:25 am check to Sub-Inspector Rachna Mahour's team and cites Kotwali SHO Sudhir Hinaria as briefing, differing from the existing report's attribution of leadership to Hinaria.
 ---
 
 Kotwali police in Datia arrested two accused men after finding 12 kg 542 g of

@@ -52,8 +52,6 @@ open_questions:
   - The reported cocaine, 23 portions plus four larger portions weighing about 300 grams, is mentioned only to explain the mixed seizure and is excluded from the cannabis figure.
   - About R$500 in cash was collected, but no cannabis-only street valuation was published, so no value is recorded.
   - No charge, custody ruling or court outcome beyond the arrest and transfer to DENARC headquarters was reported.
-  - Both accessible accounts carry the same Portal SGC text, with the submitted page republishing it, so they repeat the police version with no separate official statement opened.
-  - The pages carry a cover image captioned only as Imagem de Capa and other thumbnails for unrelated items, which does not establish that any image shows this seizure, so no media entry is included.
 ---
 
 Officers of DENARC, the Department of Narcotics, arrested 21-year-old David

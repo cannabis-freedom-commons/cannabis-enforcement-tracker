@@ -39,7 +39,6 @@ open_questions:
   - Only one accessible source for this event was found after searching in French, so no second account corroborates the seizure.
   - No arrests, identities, charges or court outcome were reported because the carriers fled.
   - No value, packaging count, origin or destination was published beyond the tip about a possible landing on Joal Fadiouth beach.
-  - The page image captioned Illustration does not establish that it shows this seizure, so no media entry is included.
   - This 7 July seizure of 360 kg with no arrests is distinct from the recorded 29 August 2026 Mbodiène seizure of 427 kg with one arrest and the 11 September 2026 Mbodiène seizure of 375 kg.
 ---
 

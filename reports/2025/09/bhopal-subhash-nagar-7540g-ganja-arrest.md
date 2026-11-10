@@ -64,7 +64,6 @@ sources:
 open_questions:
   - The article says the arrest was on Tuesday and was published on 9 September 2025, a Tuesday, but gives no separate date for the operation.
   - The Rs 1.6 lakh is the police's combined estimate for the ganja and the mobile phone, not a separate valuation of the 7.540 kg.
-  - No photograph of the seized packets could be checked independently, and the seizure photo on the submitted page carries no credit, so only that picture is linked.
   - The accused's prior case under sections 294, 323, 327 and 506 of the Indian Penal Code was registered in 2024 at Gautam Nagar police station and concerned causing hurt, not drugs.
   - No charge sheet, custody decision or court outcome beyond registration of the NDPS case was reported.
   - No second news outlet for this arrest could be opened; the corroborating account is the police's own press release, which appears to be the source of the Bhaskar English report.

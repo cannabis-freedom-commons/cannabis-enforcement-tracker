@@ -58,7 +58,6 @@ open_questions:
   - Hindustan Times says the hotel arrest happened on Friday while the embassy-police account gives the evening of 10 July 2014, which this report uses as the incident date.
   - 'Custody accounts evolved quickly: still in custody when confirmed 15 July, released the preceding Monday, and out on bail awaiting trial by 16 July; no later court outcome was reported.'
   - The precise district location of Hotel Debit within Bangkok was not published, so Bangkok city centre coordinates are used.
-  - The page image is labelled as a representational image and described as a generic cannabis image, so no media entry shows this arrest.
   - No cannabis value, laboratory weight, or trial outcome was published.
   - An earlier November 2012 Phuket marijuana arrest and a separate property-damage arrest are mentioned only as background and are left out as separate events.
 ---

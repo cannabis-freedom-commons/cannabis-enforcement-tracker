@@ -60,7 +60,6 @@ open_questions:
   - The relationship between the marijuana found in the car and that seized at the apartment is unclear, so no combined weight is recorded.
   - No estimated value for the marijuana, no bond amounts and no court dates were published.
   - Both accounts repeat a Tallapoosa County Sheriff's Office release; no separate official statement was opened.
-  - The submitted page's only picture is captioned 'mugshots - 1' and shows booking photographs, not the seizure, so no media entry is included.
 ---
 
 A Tallapoosa County sheriff's deputy stopped a Honda Accord on Jefferson Street

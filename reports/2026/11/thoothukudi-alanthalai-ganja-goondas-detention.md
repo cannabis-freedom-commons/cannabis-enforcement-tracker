@@ -57,8 +57,6 @@ open_questions:
   - No quantity, weight or value of ganja was published for Manickam's case.
   - No court charge, trial or sentence was reported; the one-year detention is a Collector's preventive-detention order and is not counted as a court prison sentence.
   - The 129 figure is the district's year-to-date Goondas total across murder, attempted murder, ganja sale and other crimes, not the cannabis figure for this event.
-  - Photos on the source pages could not be verified to show this detention or seizure, so no media entry is added.
-  - The page lists two images labelled featured-img and an advertisement whose captions and credits do not establish that they show this detention, so no media entry is added.
 ---
 
 Manickam, 36, son of Arumugam of Alanthalai Tsunami Colony near Tiruchendur in

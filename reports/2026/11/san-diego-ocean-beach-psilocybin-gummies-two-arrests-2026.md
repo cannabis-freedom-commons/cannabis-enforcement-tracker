@@ -71,7 +71,6 @@ open_questions:
   - No source reports what happened to the arrested men after booking.
   - This Polish account gives no date for the search and no street address; the recorded 4 November date and Sunset Cliffs Boulevard address come from the police accounts the report already cites.
   - The Polish page says "several" children received the gummies, while the police accounts already cited put the number at about 15 aged 1 to 6; the report keeps the police figure.
-  - The page picture is a stock Halloween photograph credited to Shutterstock, not a photo of this event, so no media entry is added.
 ---
 
 Two men were arrested and booked into San Diego County Jail after police

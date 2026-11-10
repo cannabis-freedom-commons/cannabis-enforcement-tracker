@@ -57,7 +57,6 @@ open_questions:
   - The three suspects were not named and no charges or court outcome were reported.
   - Only one source for this event could be opened and no second report confirming or adding facts was found.
   - The two-acre area is stated as approximate, so the converted 0.81 hectares is also approximate.
-  - The submitted page carries a thumbnail image that could not be verified to show this raid, so no media entry is listed.
 ---
 
 Three suspects were arrested during a raid on a cannabis cultivation in the Maw

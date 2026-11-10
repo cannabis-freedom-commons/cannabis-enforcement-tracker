@@ -65,11 +65,8 @@ open_questions:
   - No cannabis-only value was published, and the $10,500 figure is a secured bond, not a fine or drug value.
   - The type, ownership history and permit status of the concealed firearm were not reported.
   - No court outcome beyond the scheduled Nov. 5 first appearance in Pasquotank County District Court was reported.
-  - The page carries an image credited to the Elizabeth City Police Department with a generic caption, which does not establish that it shows this seizure, so no media entry is included.
   - The Yahoo News page is a syndication of WAVY's story rather than an independent account, so it does not add a second independent source.
-  - Its police handout photo is captioned only with a courtesy credit and is not shown to depict this seizure, so no media entry is added.
   - The WAVY video page repeats only the one-sentence police summary and gives no weight, charge list, bond or court appearance details.
-  - The page's video player and thumbnail carry no caption establishing that they show this seizure, so no media entry is added.
   - The AOL page is a syndication of WAVY's story, not an independent account, and it repeats the same police statement.
 media:
   - kind: video

@@ -54,7 +54,6 @@ open_questions:
   - No follow-up was published; whether the court gave the straksdom and what sentence it imposed is not known.
   - The reports do not name the man, give his home town, or say what the earlier police matter was beyond that he was known to police.
   - No value was given for the hash and the reports do not say how it was packed.
-  - The KNR report carries a file photo of a police building, not of the seizure, so no media is linked.
 ---
 
 Customs officers found about a kilogram of hash on a 27-year-old man at Nuuk Airport on Thursday

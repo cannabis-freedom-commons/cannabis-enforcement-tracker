@@ -44,7 +44,6 @@ open_questions:
   - No charge or court outcome beyond jailing was reported.
   - The police unit that made the arrest was not named, only police generally.
   - Only one accessible source for this event was found after searching in Tamil and English.
-  - The page image is captioned only as Latest Tamil News and is not established to show this seizure, so no media entry is included.
 ---
 
 Police in Ernavur, Chennai arrested a married couple for allegedly selling

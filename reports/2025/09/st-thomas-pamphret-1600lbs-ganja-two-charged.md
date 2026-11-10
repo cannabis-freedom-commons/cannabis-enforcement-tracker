@@ -53,7 +53,6 @@ open_questions:
   - The Gleaner gives 1,600 pounds while Nationwide says more than 1,600 pounds; this report uses the 1,600-pound figure and converts it to about 725.75 kg.
   - No street value for the Pamphret seizure was published.
   - No court outcome beyond the announced charges was reported.
-  - The submitted page carries one image captioned File photo with no credit tying it to this seizure, so no media entry is included.
 ---
 
 Officers from the Counter-Terrorism and Organised Crime Investigation Branch,

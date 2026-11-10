@@ -134,15 +134,8 @@ open_questions:
     The Son Dakika page reprints the Demirören Haber Ajansı text already cited through Haberler.com, with a
     reworded headline, so it does not independently confirm the provincial police account.
   - >-
-    This account groups 8,35 gram as sentetik uyuşturucu, while the existing report splits the non-liquid
-    synthetic balance into powdered bonzai and methamphetamine from its other sources.
-  - >-
     A second existing slug, balikesir-city-1-25kg-skunk-two-held, appears to record the same 30 October 2026
     Balıkesir two-operation seizure.
-  - >-
-    The submitted page is the non-AMP rendering of the same Son Dakika article ID 20383155 already cited in
-    the report as its AMP URL, with the same DHA-credited text, so it provides no independent corroboration of
-    the police account.
   - >-
     The 1 kilo 254 gram cannabis figure is a combined total for the two operations; no per-operation breakdown
     was published.

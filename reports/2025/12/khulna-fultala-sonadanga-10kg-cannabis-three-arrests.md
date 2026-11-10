@@ -45,7 +45,6 @@ open_questions:
   - Figures record only the cannabis weight; the 92 bottles of ESKuF syrup are a non-cannabis seizure mentioned for context and excluded from kilograms.
   - Rubel was reported held with the syrup at Damodar while Bhulu and Runa were reported held with the cannabis at Basupara; the three are counted together because the reports describe a linked operation and a single case.
   - Only one accessible source for this event was found after searching in English and Bengali.
-  - 'The page photo is captioned only Photo: BSS and does not establish that it shows this seizure, so no media entry is included.'
   - No court outcome beyond the filing of the case was reported.
 ---
 

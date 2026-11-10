@@ -69,8 +69,6 @@ open_questions:
   - The 36.72 grams in 54 packages is cocaine and is excluded from cannabis figures, so no cannabis weight is recorded.
   - The 31 October 2026 incident date relies on the StoNisi local account; the Athens outlets give only their 2-3 November publication dates.
   - No charge, prosecutor decision or court outcome was reported for the teenager or his parents.
-  - The submitted page carries only a stock pixabay image and the second page an archive photo, so no event photo is listed as media.
-  - The page carries one image with an empty caption and a file name unrelated to the seizure, which does not establish that it shows this event, so no media entry is included.
 ---
 
 Mytilene drug-squad officers arrested a 17-year-old accused of possessing and

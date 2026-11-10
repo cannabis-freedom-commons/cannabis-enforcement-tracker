@@ -44,7 +44,6 @@ open_questions:
   - The names of the four detained people, any charges, and any court outcome were not reported.
   - Only one accessible source for this event was found after searching in English and Russian.
   - The page's first picture is explicitly marked as an illustrative photo and does not show this seizure.
-  - The page's second picture has no caption or alt text establishing that it shows this seizure, so no media entry is included.
   - The same article mentions a separate 31 March seizure of 159 kg of anasha from a Turkmenistan-origin truck by Uzbek customs, which is a different event left out here.
   - 'Left out, as its quotation was not found in Хроника Туркменистана: Two Afghan citizens of ethnic Turkmen origin were detained on the Turkmen-Afghan border on 21 April with 60 kilograms of marijuana, described as anasha.'
 ---

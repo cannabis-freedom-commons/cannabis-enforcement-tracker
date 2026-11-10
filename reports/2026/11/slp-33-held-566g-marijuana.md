@@ -45,7 +45,6 @@ open_questions:
   - No charges, court appearances or custody outcomes were reported.
   - The 80 doses of cristal are not cannabis and are excluded from the cannabis figures; no combined drug total is counted as cannabis.
   - No second source for this 33-person roundup was found.
-  - The page's lead image carries no caption tying it to these operations, so no media entry is listed.
 ---
 
 San Luis Potosí's Guardia Civil Estatal, the state civil guard, detained 33

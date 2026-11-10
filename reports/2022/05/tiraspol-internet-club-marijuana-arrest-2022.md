@@ -45,7 +45,6 @@ open_questions:
   - The reports do not name the internet club or the man, and give no street address beyond the city of Tiraspol.
   - Both sources say the penalty was possible only if testing confirmed drug use; no decision or penalty outcome was later reported.
   - The bottle and biological fluid were sent for examination, and no separate criminal or administrative case outcome was published.
-  - The page photo is credited to paryz.kz and is not established to show this arrest, so no media entry is included.
   - Only the state news agency account and the Interior Ministry's own statement were found; both describe the same arrest.
   - 'Left out, as its quotation was not found in МВД ПМР: The ministry said the case would be opened under Article 6.13 of Transnistria''s Administrative Offences Code.'
 ---

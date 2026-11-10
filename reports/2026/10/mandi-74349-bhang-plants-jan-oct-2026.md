@@ -53,7 +53,6 @@ open_questions:
   - The Rs 6,130,757 attached-asset figure and the pending Rs 7,056,000 cover drug-trafficking proceeds generally, not cannabis alone, so no value is entered in figures.
   - Heroin, opium doda and bhukki seizure figures are mentioned only to explain the same campaign and are not counted as cannabis.
   - No field or village locations for the destroyed cannabis cultivation were published.
-  - The Divya Himachal page image has an empty caption and alt text, so whether it shows this event could not be established; the second page's photo shows the deputy commissioner chairing the meeting, not the eradication or seizures, so no media entry is added.
 ---
 
 Mandi police registered 274 cases under the NDPS Act and arrested 438 people,

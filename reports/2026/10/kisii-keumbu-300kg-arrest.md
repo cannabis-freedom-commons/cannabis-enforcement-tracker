@@ -57,7 +57,6 @@ open_questions:
   - No street value was given for the Kisii consignment.
   - Capital FM lists NACADA among the agencies involved, while the DCI statement names NANIB; the accounts do not explain the difference.
   - The same DCI statement reports separate seizures in Kisumu and Nairobi, which have their own reports and are left out of this one.
-  - No photograph of the Keumbu raid was published with the accounts used here; the submitted page's only image is a 2009 file photo of a marijuana plant in California.
 ---
 
 Detectives raided a house at Keumbu Trading Centre in Kisii County after a

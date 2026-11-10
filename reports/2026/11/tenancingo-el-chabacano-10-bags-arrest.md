@@ -47,7 +47,6 @@ open_questions:
   - The article gives no separate date for the detention; 3 November 2026 is its publication date and is used as the incident date.
   - No charges, custody ruling or court outcome were reported; the Ministerio Público investigation was still under way.
   - Only one accessible source for this event was found after searching in Spanish.
-  - The page carries a second image captioned only “bolsas,” which does not establish that it shows this seizure, so no media entry is included for it.
 ---
 
 State police detained 38-year-old Ángel “N” during a surveillance operation in

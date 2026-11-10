@@ -56,9 +56,7 @@ sources:
 open_questions:
   - No weight was published for the piece of compressed marijuana, so no cannabis quantity is recorded.
   - The ecstasy tablets and bags are not counted as cannabis; the report records only the marijuana seizure.
-  - Elonce, Somos La Ciudad Paraná and the submitted page all reproduce the same Entre Ríos police statement, so they are not independent accounts.
   - The two identified people were not detained and no charge, court order or outcome was reported.
-  - The submitted page's lead picture is captioned only '_ext' and is not confirmed to show this seizure, so no media is listed.
 ---
 
 Officers of the División Antidrogas of the Policía de Entre Ríos stopped two

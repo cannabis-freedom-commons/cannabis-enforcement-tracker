@@ -73,7 +73,6 @@ open_questions:
   - >-
     Only one accessible outlet account, itself citing the Liberty Times, could be opened; no second report or
     agency statement was found.
-  - The page's only image is labelled as an illustrative diagram, so no media entry is added.
 ---
 
 The Kaohsiung branch of Taiwan's High Court upheld a six-year-six-month prison term for Jiang over 9.037 kilograms of cannabis. [@1,2]

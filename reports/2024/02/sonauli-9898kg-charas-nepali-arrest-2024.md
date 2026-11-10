@@ -65,12 +65,10 @@ sources:
     date: 2024-02-22
     language: hi
 open_questions:
-  - No existing report covers this arrest; the submitted page dates the event only as Thursday, 22 February 2024, which is also its publication date.
   - Deccan Herald and Times of India give 9.898 kg, while ABP Live gives 9.900 kg; the submitted figure is used.
   - ABP Live and ETV Bharat describe this arrest as one part of a wider series of seizures in the Sonauli police station area that day, with totals of 119 kg and eight arrests; no cannabis quantity from the other two recoveries is counted in this report's figures.
   - The Rs 5 crore value is the police's estimate of the international market price, not a verified sale price.
   - No charge sheet, court appearance or sentence was reported for Khatri.
-  - The submitted page carries only an iStock representative picture of drugs, not a photo of this seizure, so no media entry is added.
   - Coordinates are for Sonauli town, not the exact spot near Shyam Kate garden where ABP Live says the arrest was made.
   - Deccan Herald spells the district Mahrajganj in one place; the correct district name is Maharajganj.
   - 'Left out, as its quotation was not found in ABP Live: ABP Live reported that police and SSB personnel arrested Khatri at about 5 am on Thursday near the Shyam Kate garden in the Sonauli police station area with 9.900 kg of charas.'

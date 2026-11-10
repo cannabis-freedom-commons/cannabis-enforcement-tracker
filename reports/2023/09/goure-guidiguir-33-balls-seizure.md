@@ -43,7 +43,6 @@ open_questions:
   - No court outcome or custody decision for the arrested person was reported.
   - The same article describes a separate seizure involving four people and 3.126 kg of cannabis plus other tablets, which is a different event left out of this report.
   - Only one accessible source for this event was found after searching in French.
-  - The page image is captioned only as Société and is a generic illustration, so no media entry is included.
   - The incident date used is the 18 September 2023 raid date; the seizure was presented on 22 September 2023 and published on 25 September 2023.
 ---
 

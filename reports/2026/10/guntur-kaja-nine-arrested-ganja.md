@@ -56,7 +56,6 @@ sources:
     language: te
 open_questions:
   - No charges, remand hearing or court date were reported for the nine arrested.
-  - No photograph could be confirmed to show the raid; the submitted article's only image is captioned just "Guntur", so no media entry is listed.
   - The case was covered only by Telugu-language local outlets; no police statement was among the opened sources.
 ---
 

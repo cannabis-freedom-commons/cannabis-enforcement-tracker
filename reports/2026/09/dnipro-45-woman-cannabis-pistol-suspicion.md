@@ -83,11 +83,8 @@ open_questions:
   - 'Left out, as its quotation was not found in Головне управління Національної поліції в Дніпропетровській області: Detectives of Dnipro police district department No. 2 searched the home of a 45-year-old local woman in late September 2026.'
   - Left out agencies, as its quotation was not found in Головне управління Національної поліції в Дніпропетровській області.
   - Left out agency types, as its quotation was not found in Головне управління Національної поліції в Дніпропетровській області.
-  - The submitted page carries a police handout photo of the seizure, which appears to be the same image already listed from the D1 report, so no additional media entry is added.
-  - This D1 article gives no incident date beyond the late-September search and no quantities, so it adds no figures to the existing report.
   - The page photo is a police handout published without a caption; the caption given describes it as the D1 report’s picture of the seizure.
   - Репортер also dates the search only as the end of September and gives no plant count, cannabis weight or court step.
-  - The page's in-article image appears to be the same police handout of the seizure already listed from the D1 report, so no new media entry is added.
 ---
 
 On the grounds of her household police found and seized cannabis bushes, which

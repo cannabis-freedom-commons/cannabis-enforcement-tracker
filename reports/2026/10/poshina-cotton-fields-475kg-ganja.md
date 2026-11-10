@@ -42,7 +42,6 @@ open_questions:
   - Whether the absconding accused Manabhai Gamar was later arrested, and whether the two sites shared a supply network, was not reported.
   - Divya Bhaskar names the arrested man as Shravan Hansa Gamar and the second accused as Mana Bhoma Gamar, while the English accounts use Shrinbhai Gamar and Manabhai Gamar.
   - Divya Bhaskar values the Anjani haul at Rs 2,00,88,500, while the English account gives Rs 2,00,86,500.
-  - Divya Bhaskar was published on 3 October 2026 and does not give a separate raid date; the existing report dates the seizure to 4 October from accounts that say the SOG spoke on Sunday.
   - The photos and video on the Divya Bhaskar page have no captions, so what each frame shows was not stated.
 sources:
   - title: Ganja worth over Rs 2.37 crore found cultivated among cotton crops in Gujarat; four held

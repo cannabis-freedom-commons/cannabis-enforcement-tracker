@@ -62,9 +62,6 @@ open_questions:
   - The article gives no separate sentencing date, so 4 November 2026, the article's publication date, is used as the incident date.
   - Only one source for this event could be opened, so no second account confirms the details.
   - The only image supplied with the page is an outlet logo graphic, so no event photo is listed as media.
-  - The new Amar Ujala account reports 1.6 kg of ganja seized, while the existing report records 4 kg 600 g from the Hindustan account; the report's figure is left unchanged pending clarification.
-  - The Amar Ujala page carries a 2021-dated file image captioned only with the sentencing headline, which cannot be confirmed to show this event, so no media entry is listed.
-  - The newly opened accounts report 1.6 kg of ganja seized while the existing report records 4 kg 600 g from the Hindustan account; the discrepancy remains unexplained.
 ---
 
 Gonda's special court convicted Rajkumar Godiya in a ganja-recovery case from

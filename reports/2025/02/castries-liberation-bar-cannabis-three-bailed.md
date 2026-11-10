@@ -48,7 +48,6 @@ open_questions:
   - The article reports bail but no later court outcome for any of the three men.
   - No weight, total or charges are given for the drugs taken from the shops on Jeremie Street, which are reported separately from the Liberation Bar search.
   - The $16 900 and $15 000 bail figures carry no currency code in the article, and bail is not a fine, so no fine is recorded.
-  - The page's image is a generic handcuffs stock photo, not a picture of this operation, so no media entry is included.
 ---
 
 Three Castries men — proprietor Earland Charles of Carille, Darren Jason Charles

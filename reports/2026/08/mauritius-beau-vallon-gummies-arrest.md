@@ -59,7 +59,6 @@ open_questions:
   - No charges or court outcome beyond detention were reported.
   - The number of gummy pieces seized was not given, so the reported Rs 500 per-piece price cannot be recorded as a total seizure value.
   - The suspect was identified only as Haidar R., aged 29.
-  - No photo of this seizure could be established; the submitted page's images are unrelated YouTube thumbnails for other videos, so no media entry is included.
 ---
 
 Officers of the Rose-Belle branch of the Anti-Drug and Smuggling Unit carried

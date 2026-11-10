@@ -55,7 +55,6 @@ sources:
 open_questions:
   - The report is dated at the sentencing step, 24 April 2026, the Friday on which both outlets place the court appearance; Fields arrived the previous day, 23 April 2026.
   - Both outlets write the fine as $1,500 without naming the currency; it is recorded as Belize dollars, the currency Belize courts use when reporting fines this way.
-  - The submitted Love FM page carries a single image whose file was uploaded in 2019, years before this event, so it is treated as a generic picture and no media is listed.
   - Neither outlet reports a default prison term for non-payment of the fine, so none is recorded.
   - 'Left out, as its quotation was not found in Breaking Belize News: She was charged with importation of a controlled drug and appeared unrepresented before a Senior Magistrate in Court \#7.'
   - Left out charges, as its quotation was not found in Breaking Belize News.

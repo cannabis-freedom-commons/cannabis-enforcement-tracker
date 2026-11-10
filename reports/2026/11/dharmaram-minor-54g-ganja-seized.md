@@ -42,7 +42,6 @@ open_questions:
   - The minor boy's name and exact age were not published.
   - No custody, juvenile-board referral or further court outcome was reported.
   - Only one accessible source for this event was found after searching in English and Telugu.
-  - The page carries a photo captioned with the seizure headline, without credit or detail establishing that it shows this seizure, so no media entry is included.
 ---
 
 Patrolling police in Dharmaram mandal detained a minor boy from

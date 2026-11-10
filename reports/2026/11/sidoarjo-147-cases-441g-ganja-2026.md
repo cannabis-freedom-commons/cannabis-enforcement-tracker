@@ -49,7 +49,6 @@ open_questions:
   - The sources do not link the 4.41 grams of ganja to any named suspect; the detailed prominent cases all involved sabu, ecstasy or Hexymer-type pills.
   - The incident date uses the 4 November 2026 announcement; the operation itself ran from August to October 2026 with no separate seizure date for the ganja.
   - 'The two accounts describe the charges differently: Media Indonesia cites the 2023 Health Law for the narcotics charges while Antara cites the 2023 Criminal Code for narcotics and the Health Law only for LL pills.'
-  - The submitted page carries only an illustration captioned Ilustrasi and an unrelated official portrait, so no event photo can be linked.
 ---
 
 Sidoarjo district police said they uncovered 147 drug cases between August and

@@ -39,7 +39,6 @@ open_questions:
   - The article gives no separate date for the detention; 4 November 2026 is its publication date and is used as the incident date.
   - No charges, case sections, or court outcome beyond the 15-day de-addiction direction were reported.
   - Only one accessible source for this event was found after searching in English and Telugu.
-  - The page carries a photo captioned only as Palakurthi, which does not establish that it shows this detention, so no media entry is included.
 ---
 
 Palakurthi police in Jangaon district detained two youths who were caught

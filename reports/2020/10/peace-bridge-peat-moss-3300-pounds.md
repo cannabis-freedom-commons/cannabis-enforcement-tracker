@@ -64,7 +64,6 @@ sources:
 open_questions:
   - No trial outcome was reported; the case was moving toward a possible trial when bail was last denied.
   - Separate Peace Bridge seizures on 5 June and 25 June 2020, including the record 9,472-lb load covered in its own report, are different events left out here.
-  - No photo of this seizure with a recoverable address was found, so no media entry was added.
 ---
 
 Customs and Border Protection officers found 1,517 kilos of cannabis hidden between pallets of peat moss on a truck entering from Canada at Buffalo's Peace Bridge on 13 June 2020. [@1,2] A secondary inspection uncovered 58 cardboard boxes of vacuum-sealed packages holding more than 3,300 pounds of marijuana worth about $5 million. [@1,2] The CBP field director in Buffalo called it a record-breaking bust at a press conference. [@1]

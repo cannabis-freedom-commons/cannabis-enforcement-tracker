@@ -51,7 +51,6 @@ open_questions:
   - The police release says the plants were seized and does not state whether all 55,220 were later destroyed.
   - The release gives approximately two acres; the hectare figure is a conversion for the tracker.
   - The suspect's name, charges and later court outcome were not reported.
-  - The PDF says several raid videos were attached, but no direct video address was exposed for visual verification, so no media entry is recorded.
 ---
 
 Police Narcotics Bureau officers and Athimale Police raided a cannabis plantation in the protected

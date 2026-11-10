@@ -43,7 +43,6 @@ open_questions:
   - The articles say the Ypres container was found "last week" without a day; 3 December 2013 is the earliest publication date.
   - No figure for the second haul in Antwerp was published, so only the seven tonnes at Ypres are counted.
   - No arrests were reported in the opened sources.
-  - No photo confirmed to show this seizure was available on the opened pages, so no media entry was added.
 ---
 
 Belgian police and customs seized seven tonnes of cannabis hidden in a shipment of coconuts from Africa in a cargo container near the small town of Ypres in the west, close to the French border. [@1,2] The drug, found the previous week, had an estimated street value of 14 million euros. [@1]

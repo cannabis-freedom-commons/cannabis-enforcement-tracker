@@ -50,7 +50,6 @@ open_questions:
   - The first account values the load at about 7.7 million dollars and the Coast Guard account at about 8 million; this report uses the first figure.
   - No arrests or detentions from the interception were reported in the opened sources.
   - The accounts place the interception 150 to 160 miles west of Los Angeles; coordinates here are approximate with regional precision.
-  - No verifiable photo of this interception could be recovered from the opened pages, so no media is listed.
 ---
 
 The San Francisco-based Coast Guard cutter Aspen seized approximately 8,500 pounds of marijuana from a vessel on 25 July, about 160 miles west of Los Angeles. [@1] The 225-foot buoy tender's crew had spotted a small panga-style boat piled high with suspicious bales and heading north, and intercepted it to find the marijuana aboard. [@1,2]

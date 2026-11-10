@@ -34,7 +34,6 @@ open_questions:
   - The man's age, given as in his 50s by Agderposten, and the planned court hearing later in November are not in a passage that could be quoted from the opened pages.
   - No weight of seized cannabis, arrest or street value is reported.
   - No verdict or sentence has been reported.
-  - The pictures published with these articles are labelled illustrations unrelated to the event, so no media entry is included.
   - 'Left out, as its quotation was not found in Tvedestrandsposten: The case is tagged both Agder tingrett and Vegårshei by the regional newspaper, identifying the court and the municipality where the grow was found.'
 ---
 

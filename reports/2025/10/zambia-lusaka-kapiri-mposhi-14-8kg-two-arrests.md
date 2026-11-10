@@ -49,7 +49,6 @@ open_questions:
   - No separate dates were published for the two operations; 17 October 2025 is the Friday statement date and Zambia Monitor publication date used as the incident date.
   - The News Diggers article is paywalled after identifying the second suspect as Rhoda; full details of her case are taken from Zambia Monitor.
   - No court outcome beyond detention awaiting appearance before competent courts was reported.
-  - 'No verifiable photo of this event could be identified: the submitted page''s images carry no captions tying them to the seizure, and the Zambia Monitor image carries no caption tying it to the event, so no media is listed.'
 ---
 
 Zambia's Drug Enforcement Commission arrested two women in separate operations

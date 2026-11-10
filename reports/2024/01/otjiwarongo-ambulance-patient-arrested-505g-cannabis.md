@@ -51,7 +51,6 @@ open_questions:
   - Police described the man as a patient but gave no information on his medical condition, treatment or where he was being taken.
   - No charges, conviction or sentence were reported; the report says only that he was expected in the Otjiwarongo Magistrate's Court on Monday 29 January 2024.
   - The article says the officers did not state whether the cannabis was confirmed as such by testing.
-  - The page's photo is a generic file image captioned about marijuana and psychosis, not a picture of this arrest, so no media is linked.
   - The same article reports a separate Aranos arrest of two teenagers over cannabis, which is a different event left out here.
 ---
 

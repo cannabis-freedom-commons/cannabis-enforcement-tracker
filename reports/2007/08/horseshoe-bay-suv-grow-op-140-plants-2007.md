@@ -41,7 +41,6 @@ open_questions:
   - The article says the grower was caught but does not state how many people were arrested, charged or what happened in court.
   - The acting police service is not named beyond police and a police spokesperson.
   - No second contemporaneous account of the 2007 seizure was located.
-  - The page images are a cannabis stock photo and a promotional image, not confirmed to show this seizure, so no media entry is added.
   - The article's other anecdotes concern 1935, 1970-1971 and 2004 mail returns without specific seizures and are not covered here.
 ---
 

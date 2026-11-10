@@ -72,7 +72,6 @@ open_questions:
   - Only the detained man's birth year was released; no name, plea or court outcome was reported.
   - The LV portal lead summarises the seizure as 81 dried plants plus 33 growing or potted plants plus seven being dried, which would total 121, while its itemised list and two other accounts give 81 plus 19 plus seven plus seven, totalling 114; this report uses the itemised 114.
   - The submitted gallery page carries no article text, date or figures beyond its title and a State Police photo credit, so the search date and figures come from the fuller accounts of the same event published on 13 October 2026.
-  - The gallery captions are identical for all five photos and the images could not be viewed, so only one representative media entry is listed.
 ---
 
 Police uncovered a marijuana grow in Jersika parish. [@1] On 2 October 2026

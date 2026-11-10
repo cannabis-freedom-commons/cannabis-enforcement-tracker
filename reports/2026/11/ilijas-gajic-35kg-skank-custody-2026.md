@@ -69,7 +69,6 @@ open_questions:
   - SIPA described the drug as skank and the prosecution and court accounts as cannabis; no laboratory confirmation or product breakdown was published.
   - Only the custody decision is known; no indictment, plea or sentence was reported, and no case number was given.
   - RTRS, N1, Faktor and Oslobođenje reproduce the same prosecution and SIPA statements, so they are not independent reporting.
-  - The RTRS page photo is captioned only "Полиција ФБиХ" (FBiH police) and is not established to show this seizure, so no media entry is added.
   - U Sarajevu uhapšene dvije osobe, u kamionu pronađeno 35 kilograma skanka (Oslobođenje) could not be opened again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.
 ---
 

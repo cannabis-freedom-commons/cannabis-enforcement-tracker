@@ -67,7 +67,6 @@ open_questions:
   - The cannabis weight of 282g and the 132.5g cocaine weight are stated only by Isle of Man Today; the BBC gives no weights.
   - The BBC puts about £3,000 in cash above the kitchen hob, while Isle of Man Today reports £3,070 found in the property.
   - Only the separately stated cannabis weight and value are recorded; the 132.5g of cocaine and its value are excluded.
-  - Both pages show only the courthouse exterior rather than the raid, drugs or hearing, so no media entry is included.
 ---
 
 Golby pleaded guilty to possession with intent to supply cocaine and cannabis

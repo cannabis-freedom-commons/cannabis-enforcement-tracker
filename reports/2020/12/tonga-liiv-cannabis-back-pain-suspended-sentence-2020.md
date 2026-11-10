@@ -58,7 +58,6 @@ sources:
     publisher: Matangi Tonga
     date: 2020-12-24
 open_questions:
-  - The submitted page shows only its lead sentence behind a subscription notice; the remainder of the account comes from Matangi Tonga's own print view of the same article.
   - The Attorney General's Office sentencing judgment, Rex v Toomas Liiv (CR 56/20), could not be read because it is published as a PDF, so the sentence relies on Matangi Tonga's summary of the remarks.
   - The article does not give the exact date of the police search beyond 12 April 2019, and does not say whether charges were filed that year or in 2020.
   - The article gives no street value for the cannabis and no figure for its weight beyond the 67.12 grams.

@@ -74,11 +74,8 @@ open_questions:
   - The report dates the case to the 1 November sentence; the road check and seizure occurred on 30 October.
   - The practical meaning of emprisonnement aménageable was not explained in the source.
   - Whether the source page lead photo shows this seizure could not be verified from its caption alone.
-  - The page's only image is captioned as an illustration photo and does not show this seizure, so no media entry is added.
   - The new account reports only the presence of stupéfiants in the driver's organism without naming the substances detected by the roadside test.
   - The new account states the five-year ban as interdit de se rendre dans le département without naming the department in that sentence.
-  - The new page's lead image uses a December 2023 police-car file labelled police Lyon and is not established to show this Courpière seizure, so no media entry is added.
-  - The page's only credited picture is labelled as an illustration photo and does not show this seizure, so no media entry is included.
 ---
 
 On Friday evening around 9 p.m., gendarmes from the Lezoux-Courpière brigade

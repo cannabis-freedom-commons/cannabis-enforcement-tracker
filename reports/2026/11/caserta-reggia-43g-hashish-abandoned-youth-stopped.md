@@ -72,7 +72,6 @@ open_questions:
   - No street value for the hashish was published.
   - CasertaCE and Pupia.tv reproduce the Questura di Caserta statement in whole or in part, so they are not independent reporting; the Pupia.tv page refused direct fetches and its text was read through the search result and the listing's own words.
   - Other local outlets listed the same story under headlines naming one youth stopped and two on the run, but their pages were not opened, so they are not cited.
-  - The Questura page and CasertaCE show only a generic police logo image (file name upg.jpg), not a photograph of the scene or the seized hashish, so no media entries are recorded.
   - 'Caserta, fuggono vicino alla Reggia e abbandonano hashish: sequestrati 43 grammi (Pupia.tv) could not be opened again to check its quotations (access challenge: Cloudflare blocked access to the article; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.'
   - The CasertaFocus page reports the seizure through the same police account as the Questura di Caserta statement already cited, so it is not independent reporting.
 ---

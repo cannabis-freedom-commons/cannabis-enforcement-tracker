@@ -46,7 +46,6 @@ open_questions:
   - No fine, costs or cannabis valuation were reported.
   - The verdict had not entered into force, so any appeal outcome is not yet known.
   - Only one accessible source for this event was found after searching in Russian; the linked Perspectiva item could not be opened.
-  - The page image carries no caption or credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 A Grodno resident stood trial for growing cannabis on his dacha plot in Grodno

@@ -77,9 +77,7 @@ open_questions:
   - Whether the source-page photo shows this trial or defendant is not established from the caption and text alone.
   - The 15-year term covers mixed trafficking of marijuana with cocaine and synthetic cannabinoids; no combined total is counted as cannabis.
   - The page gives only its publication date of 2 November 2026 and no separate day for the trial or sentence.
-  - The page's only image is explicitly captioned as a symbolic city view of Las Tunas, not the trial, seizure or defendant, so no media entry is added.
   - The article gives only its publication date of 2 November 2026 and no separate date for the trial or sentence.
-  - The page's only listed image shows the main hall of Cuba's Justice Ministry in Havana, not this trial or seizure, so no media entry is added.
   - Other trials mentioned in Matanzas, Cienfuegos and Holguin and the 2025 national seizure total are separate events left out here.
 ---
 

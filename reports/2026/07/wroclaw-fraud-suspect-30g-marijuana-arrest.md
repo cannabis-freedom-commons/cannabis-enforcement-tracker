@@ -54,7 +54,6 @@ sources:
     language: pl
 open_questions:
   - The weight is reported only as over 30 grams net, so 0.03 kg is recorded as a minimum rather than an exact measured amount.
-  - No photo confirmed to show this seizure could be recovered with a direct image address, so no media entry is listed.
   - The gostyn24.pl account cites KPP Krotoszyn and reproduces the same police account as the Wielkopolska police statement, so they are not independent reports.
 ---
 

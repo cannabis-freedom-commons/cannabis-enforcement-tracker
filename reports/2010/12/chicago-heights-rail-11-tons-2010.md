@@ -53,7 +53,6 @@ sources:
 open_questions:
   - The FBI account gives 21,800 pounds while the Chicago Tribune account via SMART rounds to almost 22,000 pounds; the report uses 21,800 pounds converted to 9,888 kilograms.
   - The sources name the conspiracy charge and penalty but do not report trial outcomes or sentences for the seven men.
-  - No photo of the seizure with a recoverable address was found, so no media entry was added.
 ---
 
 Seven men were arrested after federal agents seized about 21,800 pounds (about 9.9 tonnes) of marijuana packed in six railroad cars from Mexico at a warehouse in Chicago Heights. [@1,2] Officials called it the largest marijuana seizure in the Chicago area in years, valued at about $22 million. [@1,2]

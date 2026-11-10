@@ -57,7 +57,6 @@ open_questions:
   - The destination Arab country was not named.
   - The identity of the female passenger and whether any action was taken against her were not reported.
   - The outcome of the scheduled 11 November retrial session is not yet known.
-  - The only image on the submitted page is captioned as an archive photo, so no photo of this seizure is listed as media.
   - Both opened accounts are from Al-Masry Al-Youm; no independent second outlet was found.
 ---
 

@@ -37,7 +37,6 @@ tags: [joint-operation, montenegro, kelmend]
 open_questions:
   - One report gives the detained man's age as 27 and the other as 28; the report records the arrest without settling the age.
   - No figure for the area cleared was published, only that the plants stood in three parcels.
-  - The Bota Sot pages carry operation photos that could not be verified as showing this event, so no media is listed.
 sources:
   - title: "Policia e Shtetit operacion anti drogë me Malin e Zi/ Kultivonte kanabis, arrestohet 27-vjeçari në Shkodër, asgjesohen mbi 11 mijë bimë dhe…"
     url: https://www.botasot.al/en/policia-e-shteti-operacion-anti-droge-me-malin-e-zi-kultivonte-kanabis-arrestohet-27-vjecari-ne-shkoder-asgjesohen-mbi-11-mije-bime-dhe/

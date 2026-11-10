@@ -54,7 +54,6 @@ sources:
 open_questions:
   - The article was published on 4 November 2026 and says the arrest occurred on Tuesday afternoon, so 3 November 2026 is used as the incident date.
   - Only one opened source about this event could be found, so no second account confirms the details.
-  - The page's listed image is an app-promotion graphic, not a photograph of this seizure, so no media entry is included.
   - The destination of the reported connecting flight was not given.
   - No court outcome beyond the charge, bond and same-day release was reported.
   - WKRN/Yahoo describes the charge as possession with intent involving a Schedule IV drug, while WSMV describes felony possession with intent to sell without specifying a schedule; the precise statutory charge and schedule remain unconfirmed.

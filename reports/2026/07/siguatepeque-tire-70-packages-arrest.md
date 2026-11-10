@@ -57,7 +57,6 @@ open_questions:
   - No street value for the load was published.
   - No charges, custody ruling or court outcome were reported; police said the detainees were placed at the disposal of the competent authorities and a wider investigation continues.
   - No precise checkpoint, street or other site within Siguatepeque was published.
-  - Photos on the Tiempo page carry captions about the 70 packages but no direct image addresses could be recovered, so no media entry is included.
 ---
 
 DAET officers arrested three people accused of belonging to a structure

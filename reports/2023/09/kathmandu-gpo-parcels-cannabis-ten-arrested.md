@@ -50,7 +50,6 @@ open_questions:
   - The article says 900 grammes of brown sugar was confiscated from the Birgunj-bound carton but gives an overall brown sugar total of 268.210 grammes; the report uses the overall totals and the discrepancy is unresolved.
   - Heroin/brown-sugar weights are mentioned for context only and are excluded from cannabis figures.
   - Only one source for this event could be opened; no second outlet or Bureau statement confirming the arrests was found.
-  - The page lists one image with no caption or credit confirming it shows this seizure, so no media entry is included.
 ---
 
 Narcotics Bureau officers in Kathmandu arrested ten people collecting drug

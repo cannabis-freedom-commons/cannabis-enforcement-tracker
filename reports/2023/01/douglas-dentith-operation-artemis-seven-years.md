@@ -75,7 +75,6 @@ open_questions:
   - 'The sources differ on Leigh''s address: the BBC and Isle of Man Today give Brown Close in Barnsley, while Manx Radio gives Worsborough in Barnsley.'
   - The BBC spells the judge's name Greame Cook; Manx Radio and Isle of Man Today give Graeme Cook, which is used here.
   - Isle of Man Today describes Dentith's plea as one count of production of cannabis, while the BBC and Manx Radio describe the charge as being concerned in the importation of cannabis.
-  - 'No photo of the raid, the seized cannabis or the sentencing itself was available: the BBC page image shows the Douglas Courthouse exterior and the Isle of Man Today mugshot addresses could not be recovered from the opened pages, so no media entry is listed.'
   - Police announced the operation-wide results on 2 February 2023, after Dentith was sentenced, so his conviction is counted within the reported 14 but the sources do not list who the others were.
 ---
 

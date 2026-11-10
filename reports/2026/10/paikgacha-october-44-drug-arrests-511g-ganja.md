@@ -49,7 +49,6 @@ open_questions:
   - The reports do not make clear whether the 44 arrests include the 24 held in summary-trial cases and the 20 prosecuted without an FIR, or are additional to them.
   - No plants were reported destroyed and no value was put on the seized ganja.
   - Ajker Darpon describes four pieces of drug-laced syrup while Subornovumi says four bottles; this does not affect the cannabis figures.
-  - No available photo could be confirmed as showing this month's seizures, so no media entry is listed.
   - The articles also summarise separate October kidnapping, theft, extortion and gambling cases in Paikgacha, which are left out of this report.
   - Only the publication date is known for the monthly tally; 31 October 2026 stands in for the end of the October operation period.
 ---

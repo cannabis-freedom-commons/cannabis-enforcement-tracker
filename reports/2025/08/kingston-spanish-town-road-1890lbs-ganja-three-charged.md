@@ -52,8 +52,6 @@ open_questions:
   - No value estimate for the ganja was reported in either account, and neither says how it was weighed or which port the men were heading for.
   - The August bail ruling is described only as Wednesday, so 27 August 2025 is inferred from the 28 August publication date; the November sitting is dated only as Tuesday, with 25 November 2025 inferred from the 26 November publication date.
   - No outcome of the 6 January 2026 case-management mention was found, so whether the forensic certificate was produced and the men were committed for trial is unknown.
-  - The Jamaica Observer page image is a file photograph stored under a 2023 upload folder with no caption tying it to this seizure, so no media entry is added.
-  - No photograph of the seizure could be confirmed on either opened page, so the report has no media.
 ---
 
 Three men were arrested in an operation by the Firearms and Narcotics

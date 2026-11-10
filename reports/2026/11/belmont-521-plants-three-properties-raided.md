@@ -71,8 +71,6 @@ open_questions:
   - No arrests or charges were reported; police said inquiries were continuing.
   - The sources do not say how the plants were destroyed or taken away, or how the three properties relate to each other.
   - The Mirage News text is the NSW Police public release and newy.com.au carries the same police account, so they are not independent reporting.
-  - The Newcastle Weekly account attributes the initial attendance to the Lake Macquarie Police District and the search warrants to the Criminal Investigation Unit, while the existing report names the Lake Macquarie Proactive Crime Team and Criminal Investigation Unit as executing the warrants; the units are recorded as stated in each source.
-  - Only the opening summary of the Herald page could be read; the rest sits behind a subscription notice, so the 521-plant count, the Brooks Parade address and the 9 November date are supported by the existing report's sources, not by this page's readable text.
   - The Herald page carries NSW Police photos of the seizure, but the photo file itself was not opened.
   - 2HD spells the address 'Brook Parade' while the existing report and the police release use 'Brooks Parade'.
   - 2HD does not name the police units that executed the warrants or give the time of the raids.

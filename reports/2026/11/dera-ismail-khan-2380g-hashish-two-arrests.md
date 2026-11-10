@@ -42,7 +42,6 @@ open_questions:
   - The 250 grams of opium is a non-cannabis substance in a mixed event and is excluded from the cannabis weight above.
   - Only one account of this event could be opened, so no corroborating second source is cited.
   - No court outcome beyond registration of a case and continuing investigation was reported.
-  - The source page carries a lead image whose depicted content could not be verified from its caption and surrounding text, so no media entry is listed.
 ---
 
 Dera police arrested two suspects in separate operations in Dera Town and Kirri

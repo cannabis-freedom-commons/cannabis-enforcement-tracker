@@ -38,9 +38,7 @@ sources:
 open_questions:
   - The EFE account gives no separate weight for the marijuana seized in 2025; the 394.52 kg figure in the report comes from El Diario de Hoy's coverage of the same announcement.
   - The government presented the figures on Monday 5 January 2026; the report's date of 6 January 2026 follows the wire copy's UTC publication time.
-  - The page's only photograph is a presidential social-media image of seized drugs credited to Nayib Bukele and not tied to a specific 2025 seizure, so no media link was added.
   - El Mundo's second paragraph gives the 2025 total's value as "$60 millones", apparently a truncated rendering of the $620 million in its headline and in the cocaine valuation; the report keeps the $620 million figure.
-  - El Mundo's two page images are a captioned 2024 high-seas arrest and an uncaptioned 2025 drug haul with no credit, neither tied to a specific seizure, so no media link was added.
   - The El Mundo table lists 0.23 kg of hashish separately from the 394.52 kg of marijuana; the report's cannabis weight covers marijuana only.
 ---
 

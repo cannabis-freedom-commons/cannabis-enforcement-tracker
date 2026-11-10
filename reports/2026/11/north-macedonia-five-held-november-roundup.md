@@ -54,7 +54,6 @@ open_questions:
   - The ministry did not identify the brown powder found at Idrizovo prison or say what happened to the four convicted men searched there.
   - No charges had been filed and no court dates were reported; the ministry said appropriate charges would follow.
   - Only the ministry statement and two Macedonian outlets repeating it were found; no independent reporting was located.
-  - No photograph or video of these specific checks was identified; the page's image is a generic police photograph of cannabis, white powder and handcuffed wrists captioned with the headline, so no media entry is given.
 ---
 
 Police in North Macedonia detained five people at various locations on 31

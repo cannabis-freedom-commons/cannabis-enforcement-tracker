@@ -40,7 +40,6 @@ open_questions:
   - 21 August 2026 is used as the incident date because the cannabis interception is described as the day after the 20 August Diyala operation within seizures announced for 20 and 21 August.
   - Flour and pasta quantities in the same announcement are non-cannabis goods and are excluded from cannabis figures.
   - Only one accessible source for this event was found after searching, so no second account confirms it.
-  - The photo published with the article could not be confirmed to show this seizure, so no media entry is included.
   - The text gives a weight ("150 kilograms") but the figures have no kg_seized; check whether it belongs there.
   - 'Left out, as its quotation was not found in APAnews - Agence de Presse Africaine: Customs said the food goods came from an unnamed neighbouring country, the driver showed no document justifying possession, and the vehicle and load were taken to brigade premises for customs procedure.'
 ---

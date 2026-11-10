@@ -109,17 +109,9 @@ open_questions:
   - No names, nationalities, arrest locations, or court outcome were published.
   - The 410 grams of shabu and 175 chemical-soaked sheets are non-cannabis substances excluded from the cannabis figures.
   - Whether the lead photo on the Al Rai page shows this seizure is not established from its empty caption, so it is not listed as media.
-  - The Sarmad page carries a photo with no caption establishing that it shows this seizure, so no media entry is added.
-  - The Aljarida page carries three photos with empty captions reading No Image Caption, so whether they show this seizure could not be established and no media entry is added.
-  - The Madhyamam page image is captioned only with the general headline and is not established to show this seizure, so no media entry is included.
   - The Kuwait News item was published on Sunday 8 November 2026 and says only that the ministry issued the statement "today"; no separate date for the arrests was given, consistent with the earlier coverage.
-  - The submitted page is dated 8 November 2026 while the existing report dates the same ministry statement to 1 November 2026; the identical seizure figures indicate republication rather than a new operation, and no separate date for the arrests was given.
   - Aljarida dates this page 8 November 2026 while the report dates the same ministry statement to 1 November 2026; the identical seizure figures show republication, and the page gives no separate date for the arrests.
   - The page's two photographs carry no caption or credit identifying what they show, so they are not listed as media.
-  - The submitted page is dated 8 November 2026 and says the ministry statement came on Sunday evening, while the existing report dates the same statement to 1 November 2026; the identical seizure figures show republication rather than a new operation.
-  - No separate date for the arrests is given; the existing report's date is retained.
-  - The page carries one image with no caption or credit confirming it shows this seizure, so no media entry is added.
-  - The page is dated 8 November 2026 while the existing report dates the same ministry statement to 1 November 2026; the identical figures indicate republication and no separate date for the arrests was given.
 ---
 
 Kuwait's General Department for Drug Control arrested six suspects in four

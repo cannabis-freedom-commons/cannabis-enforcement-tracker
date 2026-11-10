@@ -52,7 +52,6 @@ open_questions:
   - Bolton's six-year-and-ten-month term also covers common assault and criminal damage alongside the drug counts, and the report cannot separate component terms.
   - Arrest figures count two distinct people; Bolton's further arrest on 7 August was a re-arrest of the same man, not an additional person.
   - Benjamin was described as 22 at the April 2022 sentencing and 23 at the September 2022 appeal.
-  - The published BBC images show the Douglas Courthouse exterior rather than the bedroom seizure, drugs, raid or sentencing action, so no media entry is listed.
   - Only BBC accounts of this case were opened; no constabulary statement or second outlet account of the original searches was found.
   - 'Left out, as its quotation was not found in BBC News: The offences were committed between 13 November 2019 and 26 May 2021.'
 ---

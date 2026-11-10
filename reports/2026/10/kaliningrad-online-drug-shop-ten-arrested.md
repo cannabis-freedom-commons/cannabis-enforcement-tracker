@@ -91,7 +91,6 @@ open_questions:
   - The KaliningradToday account gives the group as ten people but does not state how many were detained, so the figure of ten arrests rests on the police statement and the other reports.
   - The page's lead photograph shows a masked officer but carries no caption or credit, so it has not been confirmed as a picture of this operation and is not listed as media.
   - The Kaskad page states the group had 10 members and that detentions ran in three regions but does not explicitly state that all ten were detained, so the existing arrest figure still rests on the police statement and the other reports.
-  - The Kaskad page's lead photograph is credited to the regional UMVD press service and appears to republish the police handout already listed from MVD Media, so no new media entry is added.
   - 'Left out, as its quotation was not found in Каскад.тв: The organiser and an accomplice were taken to Kaliningrad, where they gave confessions.'
 ---
 

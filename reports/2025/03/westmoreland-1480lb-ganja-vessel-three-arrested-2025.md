@@ -46,7 +46,6 @@ open_questions:
   - The lead says over 1,400 pounds while the body gives 1,480 pounds (672.6 kilograms); the precise body figure is used.
   - No identities, ages, pleas or court outcome were reported; the men were detained on reasonable suspicion with charges being pursued.
   - Only one outlet account could be opened, and no independent second source confirms the seizure.
-  - The page image is labelled Ganja File Photo and is not confirmed to show this seizure, so no media entry is listed.
 ---
 
 Two Nicaraguans and a Jamaican were arrested after being found with over 1,400

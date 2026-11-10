@@ -106,9 +106,7 @@ open_questions:
   - The article does not say whether the seized green plants were destroyed or retained as evidence.
   - Only one accessible source for this event was found after searches in Hindi and English.
   - This account gives the second village as करौंदिया खुर्द (Karaundia Khurd), matching the existing record's spelling; no substantive discrepancy was found.
-  - The page photo is captioned only with the file name 7-1.jpg and carries no credit, so it is not established to show the Jali or Karaundia Khurd fields and no media is added to the report.
   - A second article on breakingtube.com carries the same headline and totals and appears to be a reprint of the same police release, so it does not constitute independent corroboration.
-  - Central Chronicle gives the second village as Karondiya Khurd, an English rendering of the Karaundia Khurd used in the existing report; no substantive discrepancy.
   - The article gives no separate date for the two raids; 5 November 2026 is its publication date.
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Police arrested the Jali accused and registered a case against him at Tanda police station under the Narcotic Drugs and Psychotropic Substances Act.'
   - 'Left out, as its quotation was not found in Dainik Bhaskar: The Umarban outpost police received a tip from an informer on 4 November that cannabis was growing among cotton and pigeon pea in a Karondiya Khurd field and raided the field after confirming it.'
@@ -119,7 +117,6 @@ open_questions:
   - The Vocal TV page photo carries no caption beyond the headline and no credit, so it is not established that it shows either of the two fields.
   - The Nai Dunia report does not give a separate date for either raid; 5 November 2026 is the incident date already used, while the article was published on 6 November 2026.
   - The article gives no court outcome beyond registration of cases under the NDPS Act.
-  - The article gives no separate date for either raid; 7 November 2026 is its publication date, while the existing report uses 5 November 2026.
   - Ghamasan News reproduces the same Dhar police release as the outlets already cited, so it is not independent reporting of the raids.
   - The article gives no separate date for either raid; 5 November 2026 is its publication date and the date already used for the incident.
   - The page's handout photo carries no caption other than the story headline and the tag Dhar Police, so it is not established which of the two fields it depicts.

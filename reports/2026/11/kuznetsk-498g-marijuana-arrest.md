@@ -68,7 +68,6 @@ open_questions:
   - No court outcome is reported; up to 10 years is the maximum penalty the charge carries, not a sentence imposed.
   - The man is not named, and no measure of restraint, criminal record or street value was reported.
   - All four accounts reproduce the Penza Oblast Interior Ministry's press release, so there is no independent witness account.
-  - The submitted page uses an archive picture of a police uniform patch, and no photograph of the seized box could be confirmed as showing this case, so no media are listed.
   - The VK post displays only a relative timestamp ('17 h ago'), so its exact publication time is not recorded; its 1 November 2026 date is inferred from the relative timestamp and the same-day reports.
 ---
 

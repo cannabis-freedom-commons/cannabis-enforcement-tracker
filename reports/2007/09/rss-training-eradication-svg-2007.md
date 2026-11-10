@@ -46,7 +46,6 @@ open_questions:
   - The exact dates of the five-day eradication exercise are not given; results were announced at the 27 September closing ceremony.
   - No weight or street value for the destroyed plants was published.
   - Neither account reports any arrests or what happened to the compressed marijuana.
-  - The first Searchlight article carries a photograph of the devastated Soufriere Hills farms, but it could not be visually verified, so no media entry was recorded.
 ---
 
 A multinational squad from the Barbados-based Regional Security System (RSS)

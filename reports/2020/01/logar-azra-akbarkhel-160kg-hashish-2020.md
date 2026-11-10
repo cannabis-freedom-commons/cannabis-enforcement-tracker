@@ -48,7 +48,6 @@ open_questions:
   - The Outlook Afghanistan version reproduces the Pajhwok dispatch and its attribution, so it is not an independent account of the seizure.
   - The elder's 80-percent cultivation claim concerns Azra district generally and not the area or quantity of this raid.
   - The 160 kg was seized from the vehicle, but the article does not say whether the vehicle's occupants fled; no suspects were named.
-  - Pajhwok's page image is a generic stock photo of police with drug sacks, not established as showing this raid; Outlook's picture assets/2019/drug0126.jpg is likewise uncaptioned, so no media entries are included.
 ---
 
 Security forces raided the Akbarkhel area of Azra district in central Logar

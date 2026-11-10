@@ -49,7 +49,6 @@ open_questions:
   - No court outcome was reported; only the penalty the men could face was stated.
   - The article gives no street or district of Tiraspol where the detention happened.
   - The Interior Ministry's site carried the same text as its Telegram post but returned a server error and had no Wayback copy when checked, so that page could not be opened directly.
-  - The article's only image is captioned as a thematic archive photo of the Criminal Code, not as showing this seizure, so no media entry is included.
 ---
 
 Operatives in Tiraspol detained two friends from the city during the daytime on

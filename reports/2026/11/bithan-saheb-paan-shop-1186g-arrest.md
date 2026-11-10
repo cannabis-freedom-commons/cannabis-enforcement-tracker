@@ -44,7 +44,6 @@ open_questions:
   - The headline says two kilos while the body reports 1 kg 186 grams; the report uses the body's figure.
   - No court outcome or NDPS sections were reported; police said legal proceedings were under way.
   - Only one accessible source for this event was found after searching in Hindi and English.
-  - The page image uses a 2025 file path and logo framing and is not established to show this seizure, so no media entry is included.
 ---
 
 Bithan police in Samastipur, Bihar, raided the Saheb paan shop in Bithan Bazar

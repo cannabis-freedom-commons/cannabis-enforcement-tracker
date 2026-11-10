@@ -43,7 +43,6 @@ open_questions:
   - Only the publication date is known; no separate operation start time beyond Sunday was given.
   - No names, charges or court outcomes for those arrested were reported.
   - The yaba and heroin quantities are excluded from cannabis figures; no combined weight is counted as cannabis.
-  - The page's lead image carries only the headline as caption with no credit establishing that it shows this seizure, so no media entry is listed.
 ---
 
 Dhaka Metropolitan Police (DMP), the police force for the capital, arrested 405

@@ -51,7 +51,6 @@ open_questions:
   - The rural-property figure is reported as approximately 9,800 kilos, so the combined 10,008 kilos is approximate and described as almost 10 tonnes.
   - The December 2024 operation is dated only by month, with no exact day given.
   - Only one accessible source for this event was found after searching in Spanish.
-  - The page photo is captioned about the December 2024 detentions with empty alt text and no credit, which does not establish that it shows the seizure, so no media entry is included.
 ---
 
 The Amambay sentencing court sentenced Orlando Ramón Balbuena Saavedra and Bruno

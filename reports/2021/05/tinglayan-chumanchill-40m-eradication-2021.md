@@ -52,7 +52,6 @@ sources:
 open_questions:
   - No growers were found at the sites, so no arrests were reported and no charges are listed.
   - The two outlets spell the mountain Chumanchill and Chumanchil respectively; the report uses the police-release spelling.
-  - Both outlets carry police handout photographs of the eradication, but the images could not be visually verified here, so no media entry was added.
 ---
 
 Joint teams of the Kalinga police, the regional mobile force and the Philippine Drug Enforcement Agency destroyed more than 40.78 million pesos' worth of marijuana in a four-day eradication drive on Mount Chumanchill in Barangay Loccong, Tinglayan, from 6 to 9 May 2021. [@1,2] The teams found three plantation sites covering about 8,900 square metres holding roughly 88,400 fully grown marijuana plants. [@1,2]

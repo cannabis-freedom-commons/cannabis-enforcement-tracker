@@ -53,7 +53,6 @@ open_questions:
   - No place in Armenia is named, only the intended route from Iran, so the country centre is given with country precision.
   - No arrests or charges were reported; police said they were still identifying those involved, so no arrested or charged figure is recorded.
   - Both accounts relay the Interior Ministry statement; no separate official statement or independent investigation of the seizure was opened.
-  - The page image is captioned only with the headline and is not established to show this seizure, so no media entry is included.
   - Only two Russian-language accounts were opened; no Armenian-language report of this seizure was checked.
   - 'Left out, as its quotation was not found in Verelq News: The tip reached the criminal-police anti-drug-trafficking department and an Investigative Committee department that handles drug-trafficking cases.'
 ---

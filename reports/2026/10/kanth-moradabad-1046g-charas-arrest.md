@@ -56,7 +56,6 @@ open_questions:
   - The article gives no separate date for the raid; 31 October 2026 is its publication date.
   - Only one report of the arrest could be found.
   - No value was given for the 1.046 kg of charas, and no court outcome beyond the woman's production in court was reported.
-  - The page's only image is a generic Moradabad crime graphic rather than a photograph of the raid, so no media entry is included.
   - Coordinates are for Kanth town, not for the Ashapur Bhatu colony where the arrest was made.
   - The article gives the woman's name only as Mithilesh, without a surname or address.
   - The outlets spell the woman's name as Mithilesh and Mithlesh, so the exact transliteration remains uncertain.

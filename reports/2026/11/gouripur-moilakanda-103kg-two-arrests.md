@@ -57,12 +57,8 @@ sources:
 open_questions:
   - Only one outlet's account of the raid could be found; no agency statement or second outlet was available.
   - The report does not say what the two seized mobile phones contained or whether the court granted bail or remand.
-  - This account describes the raid as happening at noon on 1 November, while the existing report says afternoon; the shared supported description uses the existing wording.
-  - The new account gives the raid time as about 2:25 pm, while the existing report describes it as the afternoon.
-  - The new account describes both men as residents of Mymensingh district, while the existing report says they are of the same village.
   - The report gives no separate headline count of arrests beyond the two named men, and no court order, remand or bail decision is stated.
   - The seized weight of 103 kg 500 g matches the report's 103.5 kg, but if it is a gross weight including the six plastic sacks the net cannabis weight could be lower; the accounts do not distinguish.
-  - The report's only image is a grainy graphic labelled Gauripur MAP, which shows no scene of the raid, so no media entry is added.
 media:
   - kind: photo
     url: https://www.agrajatrapratidin.com/crime/news/28522

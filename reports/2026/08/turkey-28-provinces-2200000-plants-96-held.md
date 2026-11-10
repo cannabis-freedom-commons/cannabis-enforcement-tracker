@@ -63,7 +63,6 @@ open_questions:
   - No value estimate for the drugs or the plants was published.
   - The ministry runs similar published operations in other provinces in 2026; this report covers only the 28-province results announced on 11 August 2026.
   - The Sabah and Cumhuriyet texts reproduce the ministry statement, so they are not independent reporting; the ministry's own page or X post could not be opened.
-  - The ministry statement carried pictures but the pages checked carry no caption tying any photograph to a named province, so no media entry is added.
   - The text gives a weight ("104 kilograms") but the figures have no kg_seized; check whether it belongs there.
 ---
 

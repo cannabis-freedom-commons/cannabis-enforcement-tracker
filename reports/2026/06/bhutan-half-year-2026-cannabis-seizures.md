@@ -53,7 +53,6 @@ open_questions:
   - 'The article gives different drug-case totals in different places: 713 drug cases in the general crime table and 727 drug-related cases in the drug section, and The Bhutanese cites 713 against 819 for 2025 while the Kuensel text gives 727 against 818.'
   - Both the Asia News Network copy and The Bhutanese report derive from the Royal Bhutan Police's half-year statistics, so they are not independent of the police figures.
   - The Kuensel original was paywalled when opened and only its summary paragraph was readable, so the Asia News Network copy of the Kuensel text is the source used.
-  - No photo of a seizure, raid or cannabis crop appears with these statistics, so no media entry is listed.
 ---
 
 The Royal Bhutan Police recorded 727 drug-related cases and 1,373 arrests in the

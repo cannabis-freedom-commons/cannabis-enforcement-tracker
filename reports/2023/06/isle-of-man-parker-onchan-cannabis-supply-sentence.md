@@ -62,7 +62,6 @@ sources:
 open_questions:
   - No figure for the weight or value of the cannabis Parker supplied was published, and no number of deals beyond "single digit deals" is given.
   - 'Only one person is recorded as charged: the sources do not say whether anyone else was arrested over his own dealing, and the father''s arrest and cannabis seizure belong to his separate case.'
-  - The BBC photograph on the page shows Douglas Courthouse rather than Parker or the hearing, so no media entry is included.
   - The text gives a weight ("13.5 kilos") but the figures have no kg_seized; check whether it belongs there.
 ---
 

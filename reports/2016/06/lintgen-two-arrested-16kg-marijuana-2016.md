@@ -55,12 +55,10 @@ sources:
     date: 2016-06-16
     language: fr
 open_questions:
-  - 'The two accounts differ on weight: the Luxembourg Times says a combined 1.6 kilos, Le Quotidien says 1.16 kg of marijuana packaged in plastic bags was seized in the searches; the report text keeps both figures and the searchable figure uses the 1.6 kg stated by the submitted page.'
   - Only the Luxembourg Times gives 16 June 2016 as the day of the arrests; Le Quotidien dates the arrests to 9 and 10 June, and its page was published on 16 June saying the seizure happened a few days earlier.
   - No full names, ages or nationalities of the two men were published, and no charges, custody ruling or court outcome was reported.
   - An RTL Luxembourgish report on the same arrest appeared only as a search listing and could not be opened, so it is not cited.
   - No street value for the marijuana was published, and the 500 euros in cash is money seized, not a drug valuation.
-  - The Luxembourg Times page photo carries no caption or credit and is not established to show this seizure, so no media entry is included.
 ---
 
 Luxembourg police arrested two suspected drug dealers in Lintgen, north of the

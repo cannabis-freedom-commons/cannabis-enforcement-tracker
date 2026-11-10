@@ -66,10 +66,7 @@ open_questions:
   - Neither article says whether the suspected supplier was identified or arrested at the second address.
   - Le Journal d'Ici gives only a total of more than 380 g of drugs and 'nearly 60 g' of cannabis at the arrest, while Le Tarn libre's detailed count of 158.1 g of resin and 190 g of herb is used here.
   - The two articles use the same publishing platform and give the same account, so they may come from one newsroom rather than two independent outlets.
-  - The only images are an Adobe Stock illustration on Le Tarn libre and an archive photo credited to JDI (Archives RL); neither could be confirmed as showing this seizure, so no media is listed.
   - The supplied La Dépêche text ends at a subscriber wall, leaving its detailed seizure account unavailable in the capture.
-  - La Dépêche rounds the cash to nearly €900; the existing report's detailed account gives €880.
-  - Whether the page's photo captioned as an interpellation in Cantepau shows this 27 October operation is not established by its caption, so no media entry is added.
 media:
   - kind: photo
     url: https://www.ladepeche.fr/2026/10/31/trafic-de-drogue-a-albi-interpelle-avec-pres-de-900-euros-et-plusieurs-centaines-de-grammes-de-stupefiants-il-ecope-de-13-mois-de-prison-ferme-13628360.php

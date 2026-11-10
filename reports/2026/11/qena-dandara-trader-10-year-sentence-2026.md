@@ -85,20 +85,11 @@ open_questions:
   - >-
     3 November 2026 is the article publication date and is used as the sentence date because no separate
     sentencing date is given.
-  - >-
-    The page carries a lead image captioned with the headline, but the caption and credit do not establish
-    that it shows this defendant, seizure or court, so no media entry is added.
   - The report does not give the defendant's name or age.
   - >-
     It is not stated what part of the sentence, if any, relates to the alleged attempted assault on the
     officer versus the drug-and-weapon possession.
-  - >-
-    2 November 2026 is the MasrTimes publication date; no separate sentencing date is given, while the
-    existing report uses 3 November 2026 from Youm7.
   - No weight was published for the hashish, so no cannabis weight can be recorded.
-  - >-
-    The page carries an image captioned جنايات قنا, but the caption and credit do not establish that it shows
-    this defendant, seizure or court, so no media entry is added.
   - >-
     No weight or quantity was published for the hashish, so no cannabis weight is recorded; the reported
     methamphetamine is a non-cannabis substance and is excluded from figures.
@@ -106,9 +97,6 @@ open_questions:
     No separate hearing date was published; 3 November 2026 is the publication date of both reports and is
     used as the incident date for the sentence.
   - The defendant's name was not published.
-  - >-
-    The submitted page carries a lead image captioned with the headline, but the caption and credit do not
-    establish that it shows this arrest, seizure or court, so no media entry is added.
   - The Sada Elbalad account closely matches the submitted account and adds no independent detail.
 ---
 

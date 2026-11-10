@@ -85,7 +85,6 @@ open_questions:
   - The sources do not identify the truck's owner or driver, the onward destination after transit, or what became of the consignment after seizure.
   - Сурхондарёда супургилар дастагига яширилган 612 кг. "гашиш" гиёҳвандлик воситасини олиб киришга уриниш фош қилинди! (Husan Tangriyev, press secretary of the Customs Committee, on Telegram) could not be opened again to check its quotations (the browser-rendered page has almost no readable article text (it may require a login, show an access challenge, or contain only media); archived fallback unavailable (the browser-rendered page has almost no readable article text (it may require a login, show an access challenge, or contain only media)). No AI research was started); what it says is as the AI read it.
   - The Interfax article also briefly notes a separate 3-4 February operation in which over 112 kg of drugs were seized and 228 people detained, a different enforcement event left out of this report.
-  - Interfax says a criminal case was opened and investigative measures are under way, while the existing report records a pre-investigation check continuing; neither account names a suspect, driver or owner.
 ---
 
 On 9 February 2025, officers checked a truck transiting through Uzbekistan at

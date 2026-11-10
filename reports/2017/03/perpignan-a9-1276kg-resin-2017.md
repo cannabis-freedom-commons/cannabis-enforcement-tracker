@@ -50,7 +50,6 @@ sources:
 open_questions:
   - No arrest, identity of the driver, or charge was reported; the sources say only that the lone driver was checked and that follow-up went to the Perpignan prosecutor.
   - The exact stopping point is given only as a Perpignan motorway, so Perpignan town coordinates are used.
-  - The only image listed for the submitted page is a site banner, not a photograph of this seizure, so no media entry is included.
   - The same article mentions a separate 53 kg cocaine seizure at Hendaye on 9 March, which is excluded here as a different event.
 ---
 

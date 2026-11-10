@@ -46,7 +46,6 @@ open_questions:
   - The suspect was not named, only described as a repeat offender.
   - No court outcome beyond referral to the Public Prosecution investigation was reported.
   - Only one accessible source for this event was found after searching in Arabic.
-  - The page photo is captioned only as the accused and is not established to show this seizure, so no media entry is included.
   - The article gives no separate date for the detention order; 5 November 2026 is used because the prosecution ordered it the day before the 6 November publication.
   - No weight or street value was published for the 200 hashish slabs, so no kilogram figure or value is recorded.
   - No charge sheet, bail decision or court outcome beyond the four-day pretrial detention was reported.

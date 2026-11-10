@@ -53,9 +53,6 @@ open_questions:
   - The operation is dated only to the week before the 2 November 2026 publication; no separate day for the arrests and seizure was published, so the publication date is used as the incident date.
   - The reports do not name the two suspects or specify the charges brought when they were presented to court.
   - The exact location within the city of Sidi Bel-Abbes where the arrests and seizure occurred was not published.
-  - The submitted page shows a photo filed under a 2018 image address with only the caption kif-traite, which does not establish that it depicts this seizure, so no media entry is added.
-  - The new page was published on 3 November 2026, one day after the 2 November 2026 date used in the existing report; both describe the operation as occurring in the preceding week with no separate day given.
-  - Whether the lead photo on the new page shows this 225.4 kg seizure is not established by its caption, so no media entry is added.
 ---
 
 Officers of the criminal brigade of the Sidi Bel Abbes wilaya police seized

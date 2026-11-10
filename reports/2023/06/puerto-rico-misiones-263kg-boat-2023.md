@@ -48,7 +48,6 @@ open_questions:
   - No arrests or detentions were reported and the boat's occupants were not described.
   - The accounts do not say where the boat came from or where the load was bound.
   - The value of more than 130 million pesos is the Prefectura's own market estimate, not a sale price.
-  - The agency page's published photograph has no caption, alt text or credit confirming it shows this seizure, so no media entry is included.
   - Both accounts reproduce the same Prefectura Naval Argentina statement; no independent reporting of the seizure was found.
 ---
 

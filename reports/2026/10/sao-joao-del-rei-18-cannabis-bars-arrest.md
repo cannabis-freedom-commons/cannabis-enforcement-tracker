@@ -49,7 +49,6 @@ sources:
 open_questions:
   - No weight was published for the 18 and a half cannabis bars or five portions, so no kilogram figure is recorded and bar counts are not converted to weight.
   - Cocaine and crack amounts are mentioned only to explain the same event and are not counted as cannabis.
-  - 'The submitted page''s only image is captioned Foto: reprodução internet without confirmation that it shows this operation, so no media entry is listed.'
   - The location is given only as a sítio in the rural zone of São João del-Rei without an address, so coordinates use the town centre.
 ---
 

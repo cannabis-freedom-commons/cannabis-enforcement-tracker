@@ -46,7 +46,6 @@ open_questions:
   - The source gives no separate date for the operation; 4 November 2015 is the publication date used for the incident date.
   - Both opened pages reproduce an AA-sourced account; the Kayseri governor's written statement was not independently opened.
   - The sources give no later court outcome for the suspect.
-  - The submitted page provides only a no_image.jpg placeholder, not an event photograph.
 ---
 
 The Kayseri governor's office said in a written statement that provincial police

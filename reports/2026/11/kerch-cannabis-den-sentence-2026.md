@@ -45,7 +45,6 @@ open_questions:
   - No number of plants, drug weight, area or value was published for the flowerpot cultivation, so no cannabis quantity can be recorded.
   - The substances consumed by the three visitors using the den were described only as narcotics, so only the cannabis-seed cultivation is recorded as the cannabis component.
   - The published reports give no name, age or detention status for the sentenced man beyond being a local Kerch resident, and no outcomes for the three visitors.
-  - The Primechaniya page carries two images credited to the Crimean prosecutor without captions establishing what they show, so no media entry is included.
   - The MK article recalls separate February and May 2026 Kerch drug cases that are different events left out here.
   - Only two accessible sources were found, both restating the prosecutor and police account.
 ---

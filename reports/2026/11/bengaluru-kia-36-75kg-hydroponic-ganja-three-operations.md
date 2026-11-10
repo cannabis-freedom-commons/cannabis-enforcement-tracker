@@ -59,7 +59,6 @@ open_questions:
   - The kilogram total and ₹12.86 crore value are Customs' figures for the whole haul, formed from the 15.75 kg, 12 kg and 9 kg seizures stated in the article.
   - The three interceptions are separate cases at the same airport on 6 and 8 November, combined here because The Hindu reports them together as one Customs announcement.
   - The article gives no flight details, nationalities or court outcome, and Customs had not identified the source or network when it was published.
-  - The page image is labelled an illustration for representational purposes only, so no media entry is listed.
 ---
 
 Bengaluru Customs officials seized 36.75 kg of hydroponic ganja from three

@@ -63,13 +63,10 @@ open_questions:
   - The articles give only the publication date of 3 November 2026 and no separate date for the ruling; 3 November 2026 is used as the incident date.
   - Masrawy's opened text describes the allegation as trafficking inside a cafe in the Warraq district, while Al Nahar reports bringing hashish to a client or detainee inside Warraq station detention; the report uses the shared Warraq possession allegation and attributes both wordings.
   - Masrawy gives the weight as 7.090 grams while Al Nahar prints 7090 grams without the decimal; the report uses 7.090 grams and treats the latter as a missing-decimal typo.
-  - The submitted page's only listed image is captioned as the presiding judge, a portrait of an official that does not show this event, so no media entry is listed.
   - The reports do not state when the defendant was arrested or how the knife charge was resolved beyond the single sentence and fine.
   - Shorouk gives no weight, piece count or laboratory result, so no cannabis quantity can be added from this source.
   - The article gives only its publication date of 3 November 2026 and no separate date for the ruling.
-  - Shorouk describes the defendant only as a worker and does not mention the buffet work at Warraq station, student status, 2432 of 2026 North Giza registration or 7.090-gram laboratory weight in the existing report.
   - The cited prior wanted case 3173 of 2029 bears a future year and appears to be a typo, so it was not used as a fact.
-  - The page image has empty alt text and caption and does not establish that it shows this event, so no media entry is included.
 ---
 
 Giza Criminal Court's Circuit 31 sentenced Karim K., a buffet worker at the

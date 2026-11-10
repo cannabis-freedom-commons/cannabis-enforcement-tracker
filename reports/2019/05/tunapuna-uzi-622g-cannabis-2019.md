@@ -45,7 +45,6 @@ sources:
 open_questions:
   - The article says the searches happened over the weekend before its 29 May 2019 publication date; 26 May 2019 is used as an approximate date and the exact day is not known.
   - Only one source for this event could be opened, so the account could not be cross-checked against a second report.
-  - No direct image address for the article's photo of the seized Uzi could be recovered, so no media entry is included.
   - The report gives no street value for the marijuana and reports no cannabis charges.
 ---
 

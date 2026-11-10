@@ -43,7 +43,6 @@ open_questions:
   - The outlet's publication date is 2 November 2026 and it dates the detention to Friday, 30 October; 30 October 2026 is used as the incident date.
   - The detained employee was not named and no rank, unit, charges or procedural outcome were reported.
   - No official or agency statement confirming the detention was found; only this outlet account is cited.
-  - Whether the lead photo on the source page shows this detention could not be verified, so no media entry is listed.
 ---
 
 An employee of the prosecutor's office was detained in Yakutsk with narcotic

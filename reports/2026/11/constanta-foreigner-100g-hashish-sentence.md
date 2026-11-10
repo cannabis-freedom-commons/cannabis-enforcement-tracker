@@ -48,7 +48,6 @@ sources:
     date: 2026-11-04
     language: ro
 open_questions:
-  - The only page photo is captioned as an illustrative image and the related indictment article uses a generic courthouse photo, so no media entry showing this event can be included.
   - Both opened accounts come from the same outlet, ZIUA de Constanta, with the earlier August 2026 indictment report corroborating the same case; no independent second outlet was found.
   - The reports do not state the exact place of the 14 June 2026 offence, so Constanta is recorded as the court city with locality precision.
   - The appeal outcome and whether the 4 November 2026 sentence became final are not yet known.

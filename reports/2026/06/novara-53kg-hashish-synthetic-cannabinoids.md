@@ -99,9 +99,7 @@ open_questions:
   - The RaiNews page displays a photograph credited to Guardia di Finanza Novara that is not added here because it could not be confirmed as distinct from the seizure photographs already listed in the report.
   - 'Left out, as its quotation was not found in RaiNews: Forensic analysis later found five different cannabinoids inside the seized substance, four fully synthetic and one semi-synthetic.'
   - 'Left out, as its quotation was not found in RaiNews: The hashish contained four substances in the structural-analogue class derived from indazole-3-carboxamide and a semi-synthetic cannabinoid identified as H4-CBD, derived from cannabidiol.'
-  - This page dates the briefing to 'giovedì 5 ottobre' (a Thursday, 5 October), while the other accounts date it 5 November 2026; the existing report keeps 5 November.
   - The page says the operation also seized cocaine and marijuana alongside the hashish, but gives no separate weights, so they cannot be quantified.
-  - The page carries no dated caption identifying the seizure photo, so no media entry is added for it.
 ---
 
 Financial police in Novara stopped a car during a road check in June 2026 and

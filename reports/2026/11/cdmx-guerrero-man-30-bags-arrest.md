@@ -37,7 +37,6 @@ open_questions:
   - No weight was published, only a count of 30 bags, so no cannabis quantity in kilograms can be recorded.
   - No court outcome was reported; the Ministerio Público had still to determine the detainee's legal situation.
   - Only one accessible source for this event was found after searching in Spanish.
-  - The page photo is captioned only as Sociedad Noticias and is not established to show this seizure, so no media entry is included.
 ---
 
 Mexico City's capital police detained a 46-year-old man in colonia Guerrero in

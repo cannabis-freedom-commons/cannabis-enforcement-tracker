@@ -97,13 +97,9 @@ open_questions:
   - Only the marijuana weight, 4.1 grams, is recorded as cannabis; the cocaine (2.5 g) and crack (2.2 g) are not cannabis figures.
   - The suspect was not named, only described as a 44-year-old from Catania.
   - The page photo is a police handout captioned only with the headline wording, so its exact content is not established beyond its link to this police operation.
-  - Free Press Online gives no separate date for the stop; 8 November 2026 is inferred from the 9 November publication date, as in the existing report.
-  - The page carries the same police handout photo already linked in the report, so no new media entry is added.
   - La Sicilia, like the earlier coverage, gives no separate date for the stop; 9 November 2026 is its publication date.
-  - Catania News gives no separate date for the stop; 8 November 2026 is inferred from the 9 November publication date, as in the existing report.
   - The submitted Zazoom page is an aggregator summary that credits Dayitalianews and links to its article; it adds no facts of its own.
   - Etna News 24 and Dayitalianews both describe the same police operation and give the same quantities, so they are not independent of the underlying police account.
-  - The Zazoom page image is a 2021 upload from Dayitalianews whose caption only repeats the headline, so it is not confirmed to show this stop and no media entry is added for it.
 ---
 
 State police arrested a 44-year-old man from Catania on suspicion of possession

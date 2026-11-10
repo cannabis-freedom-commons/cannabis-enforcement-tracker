@@ -55,7 +55,6 @@ open_questions:
   - The indictment date of March 30 is inferred because the March 31 publication says the indictment came on Monday.
   - The opened sources say only police raided the home and do not name the specific law-enforcement agency.
   - No court outcome beyond the indictment and pretrial release was reported.
-  - The submitted page's gavel image is a generic stock photo and its second image carries no caption tying it to this raid, so no media entry is listed.
   - The Hoodline account largely restates the Fox Baltimore and Baltimore Sun reporting rather than providing independent reporting.
 ---
 

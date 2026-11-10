@@ -159,9 +159,6 @@ open_questions:
     the National Police announcement and Spanish coverage date it to 8 October in Tangier; the report keeps 8
     October.
   - >-
-    The new account rounds the seizure to about 11 tonnes of hashish, while the existing report uses the
-    police figure of 10.8 tonnes of cannabis resin plus 20 kg of marijuana buds.
-  - >-
     The new account gives only its publication date of 1 November 2026 and does not give a separate arrest
     date; the report keeps 8 October from the earlier police announcement.
   - >-
@@ -172,14 +169,8 @@ open_questions:
     leader's arrest in Tangier, leaving unclear whether the leader is counted in the 86; the matched report
     uses 86 total while a parallel report uses 87.
   - >-
-    The page carries a lead image captioned with the headline, but the caption and credit do not establish
-    that it shows this seizure, so no media entry is added.
-  - >-
     The Arabic account puts the marijuana seizure at more than 21.8 kg, while ABC reported 20 kg of buds; the
     report keeps the 20 kg figure.
-  - >-
-    The Arabic account dates the first wave of arrests to March 2026, while the existing report describes two
-    waves beginning in September 2025.
   - >-
     The operation's name, Sauron, the 33 searches and the €466,000 cash seizure appear only in the Arabic
     account; no Spanish source opened here reports them.
@@ -196,8 +187,6 @@ open_questions:
   - Whether the Malaga business owner, lorry driver and the driver's son reported here are among the 86 arrests already recorded, or are additional detentions, is not stated.
   - Sur in English calls the company that paid the leader a salary a printing company, while the report describes a graphics company; the report keeps its own wording.
   - The article's 'more than ten tonnes a month' is a stated trafficking capacity, not a seizure tally, so it is left out of the report's figures.
-  - 'No media entry is added: the page''s only image carries just the credit ''(Policía Nacional)'' and no caption saying what it shows.'
-  - Okaz places Moreno's fictitious monthly salary at no more than €5,000 at a printing company, while the existing report records more than €5,000 net from a graphics company; the amounts and company descriptions differ.
 ---
 
 Authorities arrested an alleged Spanish hashish-network leader known as Moreno in Tangier. [@1,2,3,4,5,6,7,8,9,10,11,13]

@@ -42,8 +42,6 @@ open_questions:
   - The 80-pound fine, 85 pounds in costs and 32-pound surcharge were imposed for the heroin offence, and no separate penalty was imposed for cannabis, so no fine is recorded as a cannabis figure.
   - The report uses October 30, 2026, the date of the guilty pleas and sentence, as the incident date; the possession was on July 21, 2026.
   - Only one accessible account of this case was found after searching in English.
-  - The page image is captioned as a Pexels stock photo and does not show this event, so no media entry is included.
-  - The page image is captioned as a Pexels stock picture and does not show this event, so no media entry is added.
   - This Ledbury Reporter page and the Hereford Times page already cited carry the same story and byline, so they are one account published by two sister titles, not independent reporting.
 ---
 

@@ -63,7 +63,6 @@ open_questions:
   - The driver's identity, the destination of the load and the outcome of the civil warrant were not reported.
   - 'The article''s own page caption credits the single photo only as ''Foto: Reprodução'' and does not say what it depicts, so it is linked rather than treated as a photograph of the seized car.'
   - The article gives no date for the warrant's issue or for the loading in Foz do Iguaçu, and does not say whether the load crossed the border or was loaded in the city.
-  - The submitted page and Passando a Régua both reproduce the same PRF account without naming a PRF statement or officer, so they are not independent reporting of the arrest.
 ---
 
 Federal Highway Police officers stopped a 30-year-old app driver at kilometre

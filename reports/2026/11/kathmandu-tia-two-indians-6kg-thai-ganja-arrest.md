@@ -44,7 +44,6 @@ open_questions:
   - The flight number, route and concealment method were not reported.
   - No charges, court production or case outcome were reported; questioning and further investigation were said to be continuing.
   - Only one accessible source for this event was found after searching in English and Hindi.
-  - The page carries an image whose file path dates to 2021 and is not established to show this seizure, so no media entry is included.
 ---
 
 Nepal's Narcotics Control Bureau arrested two Indian nationals carrying six

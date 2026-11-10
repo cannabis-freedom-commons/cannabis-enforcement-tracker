@@ -54,7 +54,6 @@ open_questions:
   - No breakdown shows how many of the eight were held for cannabis as opposed to the other seized substances.
   - No names, custody decisions or court outcome were reported; the investigation was still under way.
   - Cocaine, methadone, buprenorphine, methamphetamine, opium, amphetamine and about 300 pregabalin tablets are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
-  - The SOVA photo caption refers only to detention, the Interior Ministry and drugs in general and is not shown to depict this seizure, so no media entry is included.
   - The News.am background paragraph on 2025 national drug-crime statistics describes a separate overall picture and is left out of this event report.
   - The Interior Ministry statement itself was not opened directly; both accounts repeat its version via SOVA and Novosti-Georgia as cited by News.am.
 ---

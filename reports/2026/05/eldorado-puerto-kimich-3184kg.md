@@ -68,7 +68,6 @@ open_questions:
   - The sources say the operation began in the early hours and give 23 May 2026 as the publication date; no separate operation date is stated, so that date stands in for the event.
   - The weight of 3,184 kilos and the value of more than eleven billion pesos are Prefectura's reported totals, with the value recorded as a lower bound in Argentine pesos.
   - 'No arrests or charges were reported: the pickup''s occupants fled on foot and the boat was not reported intercepted.'
-  - The government page carries four embedded photos without captions or descriptive alt text confirming they show this seizure, so no media entry from that page is included.
   - The exact location described as Puerto Kimich near Puerto Piray was not located on a map, so the coordinates are those of the Eldorado district.
 ---
 

@@ -46,7 +46,6 @@ open_questions:
   - The 440 kilograms of heroin and 5.5 kilograms of morphine are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - The combined total of 625.5 kilograms covers all drugs together and is therefore excluded from cannabis figures.
   - The reported valuation of at least 11 million euros covers the heroin goods on United Nations drug-office figures, not cannabis alone, and is excluded from cannabis value.
-  - The DW page carries only illustrative stock photos unrelated to this raid, so no media entry is included.
   - No charges, custody decisions or court outcomes were reported in the accounts opened.
   - The operation date of 18 March 2021 is used as the incident date; 19 March was the announcement and 20 and 22 March were publication dates.
   - 'Left out, as its quotation was not found in Deutsche Welle: Sernic officers raided a residence in Quelimane on 18 March and detained people found there, including the Tanzanian tenant and Mozambican associates.'

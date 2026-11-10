@@ -56,7 +56,6 @@ open_questions:
   - Bay City News also reports that the stolen handgun had been used in a robbery in another county, while CBS says only that it was stolen in a burglary; the robbery detail is left out of the text.
   - The CBS account does not list a possession-for-sale charge, while Bay City News does; both sets of charges are reported here.
   - No outcome of the Monday court appearance, plea or sentence was found in the opened accounts.
-  - No photograph of this stop or the seized items appears on either cited page; the CBS page's lead image is a generic 2015 illustration, so no media is listed.
 ---
 
 Pacifica police pulled over a car on Highway 1 near Crespi Drive at about 1:20

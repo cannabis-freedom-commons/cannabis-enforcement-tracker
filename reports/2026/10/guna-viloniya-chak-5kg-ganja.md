@@ -63,7 +63,6 @@ open_questions:
   - The reports do not say whether Agarwal was produced in court or whether a charge sheet was filed.
   - The stop is described only as on the road to Viloniya Chak ahead of Do Khamba; no village or exact spot is named, so the coordinates are for Guna district.
   - The police's 4.25 lakh rupee total includes the car; the ganja alone was valued at about 1.25 lakh rupees, the figure recorded here.
-  - The Raghogarh Times page also carries an uncaptioned portrait photo that could not be tied specifically to the ganja seizure; only the photo on the submitted page is listed.
   - 'Left out, as its quotation was not found in Raghogarh Times: Officers from Kente police station in Guna district stopped an Alto car on the road to Viloniya Chak on the evening of 29 October 2026.'
 ---
 

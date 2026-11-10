@@ -51,7 +51,6 @@ open_questions:
   - No charge or court case was reported; the sources say he was bailed and dealt with through the Triage diversion scheme.
   - The Armenian account attributes the initial report to the Daily Mail but names no author.
   - The Metropolitan Police statement is quoted through news reports; no separate Met press release was opened.
-  - The page photo is a posed portrait of Madonna and Guy Ritchie, not a picture of the arrest or the drugs, so no media entry is included.
 ---
 
 London police officers arrested Rocco John Ritchie, the 16-year-old son of the

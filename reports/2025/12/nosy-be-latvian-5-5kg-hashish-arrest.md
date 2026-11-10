@@ -52,7 +52,6 @@ open_questions:
   - The 3 kg cocaine portion and the 8.5 kg combined drug total are excluded from cannabis figures because they cannot be counted as cannabis.
   - The traveller's name, age and travel origin beyond Latvia were not published.
   - No charge, prosecution or court outcome had been reported in either source.
-  - The LINFO.re page image is captioned only as drogue and is not established to show this seizure, so no media entry is included.
 ---
 
 Malagasy customs officers intercepted a Latvian national on Saturday 13 December

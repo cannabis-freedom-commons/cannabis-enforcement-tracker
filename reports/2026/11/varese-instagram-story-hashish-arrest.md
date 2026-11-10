@@ -70,7 +70,6 @@ open_questions:
   - The hashish seized at the first suspect's home is described only as a modest quantity and is not included in the 35-gram figure, which covers the second flat.
   - No charge details or court outcome were reported; the arrested man was taken to Varese's prison and the other man remained at liberty.
   - The origin of the pistol shown in the Instagram video was not reported.
-  - The submitted page's photo is a generic 'gun' file with no credit that is not established to show this seizure, so no media entry is used for it; the police handout and the Il Tradate picture are linked instead.
   - 'Left out, as its quotation was not found in Questura di Varese, Polizia di Stato: The seizure also included about 150 grams of cocaine, more than 5,000 euros in cash, 60 Swiss francs, four knives with drug residue, an electronic scale and packing material, excluded from the cannabis figures.'
 ---
 

@@ -43,7 +43,6 @@ open_questions:
   - No weight, cultivated area, valuation or destruction method for the 460 plants was published, so no cannabis weight or hectares can be recorded.
   - No court outcome beyond the announced appearance before the tribunal was reported.
   - Only one accessible source for this event was found, so no second account could corroborate it.
-  - The page image is captioned only with a file name and carries no credit establishing that it shows the Moerai seizure, so no media entry is included.
 ---
 
 The presumed cultivator was placed in custody and was to appear before the

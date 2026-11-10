@@ -67,10 +67,8 @@ open_questions:
   - 'Left out, as its quotation was not found in Primera Edición: The check took place around 14:30.'
   - 'Left out, as its quotation was not found in RadioUp: Proceedings were opened for an alleged violation of National Drug Law No. 23.737, and the case passed to the federal courts.'
   - Prensa Mercosur's text reproduces the MisionesOnline article already cited almost word for word, so it is not independent corroboration.
-  - The new article was published on 1 November 2026, while the existing report uses 31 October 2026 from the first reports; no separate seizure date is given beyond the 14:30 check time.
   - The new article, like the earlier reports, names no arrest, charge or court outcome for the young man who brought the packet.
   - The opened Flipr.news capture ends mid-sentence and links out to revistacodigos.com, so only its summary paragraph could be checked.
-  - The page image has no caption or credit confirming it shows this inspection, so no media entry is included.
 ---
 
 A young man brought food to detainees held in pavilion No. 2 of the Third Police

@@ -54,7 +54,6 @@ open_questions:
   - Dollar amounts are recorded as Barbadian dollars, the standard in Barbados reporting, though both articles write only $ or $40 000.
   - The reports give no date for the arrest itself; the report is dated to the December 10, 2025 court appearance and publication date, while the alleged offences date to December 8.
   - No plea, bail decision or later outcome has been reported.
-  - The Barbados Today page carries one image whose caption is only the file name Screenshot_20251210_085257_Docs, with nothing tying it to this event, so no media entry is listed; the thumbnail on the repost page was likewise not verified as showing this event.
   - The second account is a repost of a Nation News item on the Oriana Barbados site.
 ---
 

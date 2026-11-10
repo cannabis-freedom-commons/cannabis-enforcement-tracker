@@ -44,7 +44,6 @@ open_questions:
   - No charges, custody decision or court outcome beyond the trafficking accusation were reported.
   - The suspect is identified only by nationality and age, with no name published.
   - Only one accessible source for this event was found after searching in Portuguese and English.
-  - The page's only image has no caption or credit establishing that it shows this case, so no media entry is included.
 ---
 
 Police in Vanduzi district, Manica Province, are holding a 47-year-old

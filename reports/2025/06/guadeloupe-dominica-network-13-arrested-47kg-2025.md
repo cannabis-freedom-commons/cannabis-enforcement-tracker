@@ -52,7 +52,6 @@ open_questions:
   - The source states three beach arrests in July 2024 and ten arrests in May-June 2025 separately; it is unclear whether the groups overlap, so the arrested figure sums both reported arrests.
   - The sum of more than 450,000 euros describes alleged laundered funds transferred to Dominica and Venezuela, not a drug valuation, so no value is recorded.
   - No names, ages or other identifying details beyond two Guadeloupeans and one Dominican national in the beach seizure were published, and no trial outcome beyond formal investigation and provisional detention was reported.
-  - The page image is credited only as SIRPA-G - MDC B. Lapointe with no caption establishing that it shows this seizure or operation, so no media entry is included.
   - The incident date uses the end of the 30 May-2 June 2025 arrest operation; 14 June 2025 is the Gendarmerie article publication date.
   - France-Antilles mentions a separate February 2024 interception of about 300 kg of cocaine and 170 kg of cannabis with four arrests, a different event left out here.
   - 'Left out, as its quotation was not found in Gendinfo, Gendarmerie nationale: Gendarmes of the Pointe-à-Pitre Research Section arrested ten people and disrupted a drug-trafficking network operating in the Caribbean between Dominica, Venezuela and Guadeloupe.'

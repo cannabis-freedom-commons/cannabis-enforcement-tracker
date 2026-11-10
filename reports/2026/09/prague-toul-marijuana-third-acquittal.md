@@ -44,7 +44,6 @@ open_questions:
   - No seized cannabis weight was published, only the defence's reference to about twenty kilograms allegedly handled, so no kilograms are recorded.
   - The report is dated to the 14 September 2026 acquittal; the 18 September appeal, 13 October defence reply and 31 October publication date are included as later steps of the same case.
   - Only one accessible source for this event was opened after searching in Czech and English, so corroboration is limited to that account.
-  - No available page image shows this event itself; the page carries illustrative, advertising and building photos, so no media entry is included.
   - The January 2023 eight-year term and 450,000-koruna fine were quashed and are described only as history, not recorded as current prison or fine figures.
   - The outcome of the High Court's December public session was not yet known.
 ---

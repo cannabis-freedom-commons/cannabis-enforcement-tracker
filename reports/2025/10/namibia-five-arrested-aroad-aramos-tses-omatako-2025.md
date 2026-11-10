@@ -56,7 +56,6 @@ open_questions:
   - The N$13 680 total is the sum of police valuations of cannabis parcels, bankies and bags at three separate scenes; the Aranos N$2 580 also covers one and a half Mandrax tablets, so it is not a cannabis-only valuation.
   - The article gives no charges for the Aroab, Aranos or Omatako arrests, and no court outcomes; the expected Magistrate's Court dates at Keetmanshoop could not be confirmed.
   - No second opened account of this roundup was found; Informante carried a similar article but its site could not be opened past a browser check.
-  - The page's lead image is captioned “Suspects arrested at Gobabis for theft of over N$260 000 in cash” and shows an unrelated case, so no media entry is included.
   - The text gives a weight ("2.5 kg") but the figures have no kg_seized; check whether it belongs there.
 ---
 

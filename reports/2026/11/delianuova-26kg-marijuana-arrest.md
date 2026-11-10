@@ -130,36 +130,6 @@ open_questions:
     The 60-year-old's referral concerns material for making ammunition, not cannabis, so he is not counted in
     the figures.
   - >-
-    The source page carries a lead image with only the caption PHOTO and no credit, so whether it shows this
-    seizure could not be established and no media entry is added.
-  - >-
-    The submitted page carries an image with no caption or credit, so whether it shows this seizure could not
-    be established and no media entry is added.
-  - >-
-    The page carries a photo captioned with the headline and no credit, so whether it shows this seizure could
-    not be established and no media entry is added.
-  - >-
-    The page carries a photo captioned only 'Carabinieri di Delianuova' with no credit, so whether it shows
-    this seizure could not be established and no media entry is added.
-  - >-
-    The page's lead image uses a file path from April 2026 (Carabinieri-Rosarno-2.jpg), so whether it shows
-    this Delianuova operation could not be established and no media entry is added.
-  - >-
-    The submitted page carries one image captioned only Foto (5) with no descriptive caption or credit, so
-    whether it shows this seizure could not be established and no media entry is added.
-  - >-
-    The La Milano article was published on 3 November 2026, a day after the existing report's 2 November 2026
-    sources, but it describes the same dawn operation and gives no separate operation date.
-  - >-
-    The page embeds a video file with no descriptive caption establishing that it shows this operation, so no
-    media entry is added.
-  - >-
-    The TGCAL24 page's lead image of a Carabinieri vehicle at night carries no caption or credit establishing
-    that it shows this dawn operation, so no media entry is added.
-  - >-
-    The submitted page's image is captioned only 'auto carabinieri reggio' with no credit establishing that it
-    shows this Delianuova operation, so no media entry is added.
-  - >-
     The article gives no separate date for the dawn operation; 3 November 2026 is its publication date and is
     used as the incident date.
   - The reported 2.6 kg is described as approximate (circa), not a laboratory weight.
@@ -171,9 +141,6 @@ open_questions:
   - >-
     Only one accessible source for this event was found; no second account or agency statement could be
     opened.
-  - >-
-    The page carries a photo of Carabinieri vehicles with no caption establishing that it shows this seizure,
-    so no media entry is included.
 ---
 
 Carabinieri arrested a young man in Delianuova after finding about 2.6 kilograms of marijuana. [@1,2,3,4,5,6,7,8,9,10,11,12,13]

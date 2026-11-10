@@ -69,9 +69,7 @@ open_questions:
   - The 22.2 kg is described as cannabis without laboratory confirmation or a more specific product description beyond the block form.
   - The reports do not say how the weight was divided between the two cartons or who the sender and recipient were.
   - The same roundup reports other cannabis seizures in Lagos, Ondo, Ekiti, Edo, Taraba, Enugu and Delta states and a shipment with 1.20 kg of cannabis alongside synthetic-cannabis chemicals; those are separate events left out of this report.
-  - The page's only image shows the woman arrested with cocaine, an unrelated case, so no media entry is added.
   - Platform Times reproduces the same NDLEA statement already cited in this report and adds no independent reporting, arrest or court outcome for the 46 blocks.
-  - The page's only photograph shows the woman arrested with cocaine, an unrelated case, so no media entry is added.
 ---
 
 Operatives of the National Drug Law Enforcement Agency (NDLEA), Nigeria's

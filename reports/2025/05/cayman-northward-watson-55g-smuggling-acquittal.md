@@ -61,7 +61,6 @@ sources:
 open_questions:
   - The initial 29 February 2024 report gave no quantity, saying only an unknown quantity of suspected ganja was retrieved; the 55-gram figure comes from the May 2025 acquittal reporting and is used for kg_seized.
   - No laboratory confirmation of the suspected ganja is reported in the opened sources.
-  - The submitted page image is a portrait of the officer credited to Taneos Ramsay and does not show the seizure, so no media entry is included.
 ---
 
 Senior prison officer Derron Watson was arrested on 28 February 2024 for

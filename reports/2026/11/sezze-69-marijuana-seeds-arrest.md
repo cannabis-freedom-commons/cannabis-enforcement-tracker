@@ -97,7 +97,6 @@ open_questions:
   - No validation-hearing result or later court outcome is reported.
   - Both accounts reproduce the same Carabinieri statement and carry the same handout photo, so they are not independent.
   - No value estimate for the marijuana was published.
-  - Latina Quotidiano gives no event date; 5 November 2026 in the existing report is calculated from the earlier outlets' 6 November publication, and this page was published on 7 November.
   - h24 notizie reproduces the same Carabinieri statement as the outlets already cited and adds no new detail, so it is not independent reporting.
   - The page gives the stop only as the afternoon of the previous day; 5 November 2026 is calculated from its 6 November publication date.
   - Mondoreale reproduces the same Carabinieri statement as the outlets already cited and carries no photo of the event, only a site logo image, so it is not independent reporting.

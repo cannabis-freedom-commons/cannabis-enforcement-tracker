@@ -40,7 +40,6 @@ open_questions:
   - The article gives only its publication date of 5 June 2017 and no separate day for the inspections and seizure, so the publication date is used as the incident date.
   - No arrests, charges or court outcome were reported; police said the growers were still being sought.
   - Only one source for this event could be opened; searches for a second report of the same seizure found nothing.
-  - The submitted page carries only a placeholder image (no_image.jpg), so no event photo is listed as media.
 ---
 
 No one had been detained over the planting, and police teams were continuing

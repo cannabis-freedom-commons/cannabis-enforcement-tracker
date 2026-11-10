@@ -50,7 +50,6 @@ open_questions:
   - 'No one was reported arrested: the accounts say transport company managers could not justify the parcels and that an investigation was opened, but they name no suspect or detainee.'
   - The accounts do not say whether the bus was searched at the Obala customs post itself or at a checkpoint nearby on the same axis.
   - No plants, area, street value or number of passengers was published, so only the weight of cannabis is recorded.
-  - The submitted page's photograph is a generic illustration of cannabis packages credited to La Nouvelle Tribune, not a picture of this bus or seizure, so no media entry is included.
   - No court or prosecution outcome was reported; the investigation to identify the organisers and recipients was still under way.
   - 'Left out, as its quotation was not found in Xinhua: The seizure came as Cameroon was stepping up its fight against drug trafficking and use under a national drug strategy for 2024–2030.'
 ---

@@ -50,7 +50,6 @@ open_questions:
   - The $7,000 value is reported with a $ sign only, recorded here as BSD consistent with local Bahamas reporting.
   - The 3.5lbs figure is converted to about 1.59 kg; no independent weighing is reported.
   - The article does not explicitly say Edgecombe was arrested, so no arrested figure is recorded.
-  - The page carries no photo showing this seizure, plea or sentencing, so no media entry is added.
 ---
 
 Jamal Edgecombe, 33, pleaded guilty to possession of dangerous drugs with intent

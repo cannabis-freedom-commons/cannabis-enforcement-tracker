@@ -41,7 +41,6 @@ open_questions:
   - The 25 million CFA franc valuation covers the alcohol and cannabis together, so no cannabis-only value is recorded.
   - The alcohol quantity of more than 5,000 litres is not part of the cannabis figures.
   - Only one source could be opened for this run, so no second outlet corroborates the seizure.
-  - The page image is captioned only as an illustration and does not show this event, so no media entry is included.
 ---
 
 Law-enforcement officers in Gaoua seized more than 5,000 litres of contraband

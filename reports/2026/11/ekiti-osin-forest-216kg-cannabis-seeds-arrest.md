@@ -66,7 +66,6 @@ open_questions:
   - The 216 kilograms is described only as cannabis, with no product detail or laboratory confirmation.
   - The agency statement, The Eagle Online and Peoples Gazette carry the same NDLEA account, so they are not independent reporting.
   - Osin Ekiti, which local government records place in the Ifeloju area of Ekiti State, was not identified to a point, so the coordinates mark Ekiti State's centre and the precision is given as region.
-  - No photograph of the Ekiti arrest or seizure was published with the opened accounts, so no media entry is added.
   - The same statement reports other separate cannabis seizures in Lagos, Ondo, Edo, Taraba, Enugu and Delta states, which belong to their own reports.
   - The roundup's Enugu seizure of 44 blocks weighing 22.5 kg at the Eke Obinagu checkpoint on 3 November and Delta seizure of 10.54 kg of skunk with 9.4 kg of cannabis seeds at Ozoro on 31 October have no tracker report yet.
   - The Sun, The Eagle Online and Peoples Gazette copies of the same NDLEA statement are not independent reporting of the Ekiti arrest.

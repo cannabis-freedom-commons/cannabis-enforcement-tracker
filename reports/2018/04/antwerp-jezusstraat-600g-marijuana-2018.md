@@ -42,7 +42,6 @@ open_questions:
   - The seizure is described as ruim 600 grams of marijuana, so 0.6 kg is recorded as a minimum.
   - The half kilogram of cocaine, 40,000 euros in cash, 35 mobile phones and three cars are part of the same event but are excluded from cannabis figures.
   - Only one opened source was available; no agency statement or second outlet account was found.
-  - No media entry is added because the only identified image is the suspect's Facebook photo with banknotes, not the seizure, raid or arrests themselves.
 ---
 
 Antwerp local police arrested members of an Albanian drug gang in Antwerp during

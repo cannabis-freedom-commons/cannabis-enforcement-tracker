@@ -49,7 +49,6 @@ sources:
     date: 2026-11-01
     language: ta
 open_questions:
-  - The Dinamani page carries a photo captioned only as an arrest, filed under an October image path, so it is not established to show this seizure and no media entry is made.
   - No street value, vehicle registration, case section, or court outcome was published.
   - The reports give the checks as Sunday and 1 November 2026; 1 November is used as the incident date.
   - 'Left out, as its quotation was not found in Dinamani: Tiruttani police led by Inspector Sivakumar were conducting vehicle checks at the Ponpadi checkpost near Tiruttani on Sunday.'

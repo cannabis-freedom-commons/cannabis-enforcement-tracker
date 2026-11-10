@@ -41,9 +41,6 @@ open_questions:
   - Whether the pair were remanded or the suspected wider network identified was not reported.
   - 'The three sources give different spellings: Ali Rashid (Pattaya Mail, The Thaiger) and Ali Rasheed (ASEAN NOW, Daily News); Maldives reports put Wisam''s age at 36 rather than 34.'
   - Pattaya Mail says the men were told to send the parcels to cargo bound for India, while the other sources say only that a friend asked them to send them.
-  - This source spells the suspect's name Mohamed Visham and gives his address as Alaska, R. Inguraidhoo, differing from the Wisam spelling in the existing report.
-  - This source places the room where the parcels were kept in the Sukhumvit area, while the existing report traces them to a dormitory in Soi Phetchaburi 11, Ratchathewi.
-  - The article gives no separate date for the police operation; 7 October 2026 is its publication date, while the existing report dates the event around 6 October 2026.
 sources:
   - title: Two Maldivian men caught in Bangkok with crystal meth, cannabis
     url: https://thethaiger.com/news/bangkok/maldivian-men-bangkok-crystal-meth-cannabis

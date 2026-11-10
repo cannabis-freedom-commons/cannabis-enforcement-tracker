@@ -57,7 +57,6 @@ open_questions:
   - No weight of processed marijuana, area of the greenhouse or estimated value was published.
   - The sheriff's office said the investigation was ongoing; no court appearance, plea or outcome was reported for the three men, and three arrests are counted as three people charged, in line with the released charges.
   - The nature of the child endangerment finding was described only as deplorable living conditions, and the child's later placement was not reported.
-  - 'Neither of the source''s images is of this raid: the lead photo is a file picture of a marijuana plant credited to AP, and the second is an uncaptioned stock photograph, so no media entries are added.'
   - FOX40 and Action News Now carried the same sheriff's release, but both could not be opened in this session, so they are not cited.
 ---
 

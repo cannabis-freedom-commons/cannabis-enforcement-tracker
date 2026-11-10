@@ -118,25 +118,12 @@ open_questions:
   - No court outcome beyond the 19-31 October remand was reported.
   - The same articles describe a separate Jelutong drug operation involving MDMA, Erimin 5, ketamine and syabu liquid; it is a different event left out here and its drugs are not counted in cannabis figures.
   - The press-conference photo caption refers to seized drugs generally, so whether the pictured display shows only this cannabis seizure is not established.
-  - Harian Metro describes the detention location as the airport waiting room, while the existing report specifies Gate B1 from its earlier sources; there is no material contradiction.
-  - This article describes the detention location as the airport waiting room, while the existing report specifies Gate B1 from its earlier sources; there is no material contradiction.
   - This article also describes a separate Jelutong apartment drug operation involving MDMA powder, Erimin 5, ketamine and syabu liquid; it is a different event left out here and its drugs are not counted as cannabis.
-  - This article gives no remand period or court outcome; the remand dates in the existing report come from its earlier sources.
-  - The submitted article describes officers from the Penang Narcotics Crime Investigation Department, while the existing report describes police with the Royal Malaysian Customs Department from its earlier sources; there is no material contradiction on the detention itself.
   - The submitted article also describes a separate 1 November Jelutong apartment operation involving MDMA, Erimin 5, ketamine and liquid methamphetamine; it is a different event left out here and its drugs are not counted as cannabis.
-  - The submitted article describes the detention place as the airport waiting room, while the existing report specifies Gate B1 from its earlier sources; there is no material contradiction on the detention itself.
   - The submitted article also describes a separate Jelutong apartment drug operation involving MDMA powder, Erimin 5, ketamine and syabu liquid; it is a different event left out here and its drugs are not counted as cannabis.
-  - This article describes the detention place as the airport waiting area while the existing report specifies Gate B1 from its earlier sources; there is no material contradiction on the detention itself.
   - This article also describes a separate Jelutong apartment drug operation involving MDMA powder, Erimin-5, ketamine and liquid methamphetamine; it is a different event left out here and its drugs are not counted as cannabis.
-  - This article gives no remand period or court outcome; the remand and charge dates in the existing report come from its earlier sources.
-  - Whether the lead Bernama photo on this page shows this cannabis seizure or a press-conference portrait could not be established from its caption, so no media entry is added.
-  - This article describes the detention location as the airport waiting area, while the existing report specifies Gate B1 from earlier sources; there is no material contradiction on the detention itself.
-  - Whether the lead Bernama photo on this page shows this cannabis seizure could not be established from its empty caption, so no media entry is added.
   - The submitted video page gives only the headline about 40kg of dadah with no article body identifying the substance, place or date; cannabis identification and event details come from the corroborating Astro Awani report.
-  - Whether the video thumbnail or footage shows this seizure could not be established from its caption, so no media entry is added.
   - The Kosmo account dates the arrest only as about two weeks before its 2 November 2026 publication; the 18 October 2026 date comes from the report's earlier sources.
-  - Kosmo reports the urine screening only as positive for an unspecified drug, while the existing report names amphetamine and methamphetamine from its earlier sources.
-  - Kosmo's only captioned image shows the Penang police chief at a press conference rather than the seizure, so no media entry is added.
 ---
 
 Police detained a 28-year-old unemployed man from Miri, Sarawak, at about 5 pm

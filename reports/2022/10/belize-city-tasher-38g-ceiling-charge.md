@@ -32,7 +32,6 @@ open_questions:
   - The account gives no separate day for the police search beyond "early this morning", so the search is dated to the October 27, 2022 court appearance.
   - The 38 grams is described only as marijuana, with no laboratory confirmation reported.
   - No outcome of the case after the December 20 court date, and no sentence or fine, is reported.
-  - The page carries a photograph of the accused, but its empty caption and credit do not establish that it shows the search, the seizure or the court, so no media entry is included.
   - Only one account of this case could be opened, so no second outlet could confirm or add details.
 ---
 

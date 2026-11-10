@@ -41,7 +41,6 @@ open_questions:
   - No cannabis-only valuation was published, and combined drug totals are excluded from cannabis figures.
   - It was not specified whether the possession-with-intent and misdemeanor possession charges relate specifically to cannabis or to the other drugs found.
   - Only one accessible source for this event was found after searching; no agency statement or second outlet account could be opened.
-  - The page image is captioned as showing Reznikow after extradition and credited to Patch and Nashua police, and does not establish that it shows the seizure, so no media entry is included.
   - Earlier Litchfield, Nashua and Merrimack arrests mentioned in the same article, including a half-pound of marijuana in 2020 and a 2019 marijuana-sale charge, are separate events left out here.
   - The incident date uses the latest reported step, arraignment on Oct. 26, 2026; the stop occurred June 10, the New York arrest Oct. 9 and Nashua charging Oct. 23.
 ---

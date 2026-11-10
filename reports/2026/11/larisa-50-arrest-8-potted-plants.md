@@ -83,8 +83,6 @@ open_questions:
   - The photo is published with the report but not separately captioned, so it is not established beyond doubt that it shows these plants and not an earlier seizure.
   - The release date of 6 November 2026 is inferred from the article's wording that he was released yesterday at midday, published on 7 November 2026.
   - The article gives no further detail on conditions of release, charges filed, or a future trial date.
-  - The page explicitly dates the arrest to 5 November 2026 but describes the house search as yesterday midday, which would be 6 November relative to its 7 November publication date; the existing report's 5 November date is retained.
-  - The page carries a photo image but gives no caption or credit identifying what it shows, so no media entry is made.
 ---
 
 Police arrested a 50-year-old Greek man at midday on 5 November 2026 in Larisa

@@ -40,7 +40,6 @@ open_questions:
   - No exact number of seedlings was published, only thousands, so no plants_destroyed figure is recorded.
   - No arrests, charges or court outcome were reported; the growers escaped and police said they hoped to arrest them soon.
   - Only one accessible source for this event was found after searching in English.
-  - The page image is labelled as a file photo credited to Pursat Police and is not shown to depict this operation, so no media entry is included.
 ---
 
 Takeo provincial police chief Major General Sok Samnang and Kiri Vong police

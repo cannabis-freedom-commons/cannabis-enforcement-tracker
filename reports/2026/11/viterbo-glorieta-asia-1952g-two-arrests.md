@@ -42,7 +42,6 @@ open_questions:
   - Only one accessible source for this event was found after searching in Spanish; no agency statement or second outlet account could be opened.
   - The detainees were identified only by age and sex; no names were published.
   - No court decision on the detainees' legal situation had been reported.
-  - The page carries a photo captioned with the headline whose content is not described in the text or alt text, so no media entry is included.
 ---
 
 National Police officers arrested two people in flagrante in Viterbo, Caldas,

@@ -88,7 +88,6 @@ open_questions:
   - Neither report gives a street value for the cannabis or cocaine seized.
   - West Yorkshire Police's own statement could not be opened, so the account rests on the two newspaper reports.
   - No appeal or confiscation proceedings were reported.
-  - GB News's headline says 85 years, while its body and The Yorkshire Post report more than 85 years; the existing report uses the body figure.
 ---
 
 Ten men were jailed for a combined total of more than 85 years for supplying

@@ -68,9 +68,7 @@ open_questions:
   - Ajel described the Hail pair as promoting the drugs, while Al-Saudi News also said they possessed them.
   - Both outlets appear to reproduce the same directorate announcement; no agency page or independent reporting could be opened.
   - The Sabq roundup bundles a separate Tabuk methamphetamine arrest with the Qassim-Hail operations, and that Tabuk case is left out here as non-cannabis.
-  - The page's only listed image is the Sabq logo rather than a photo of this event, so no media entry is included.
   - Sabq describes the Hail pair as promoting the drugs, matching the promotion wording already used for that operation.
-  - The Sra7h page lists one image captioned with the headline, but it could not be confirmed to show this seizure or arrests, so no media entry is included.
 ---
 
 Saudi Arabia's General Directorate of Narcotics Control said six citizens were

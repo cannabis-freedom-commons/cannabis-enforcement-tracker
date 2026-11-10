@@ -155,7 +155,6 @@ open_questions:
   - 'Left out, as its quotation was not found in Creta24.gr: Creta24 reported that the drugs were hidden in jars, metal tins and sweet boxes, and that the money had been put in piggy banks.'
   - Left out agencies, as its quotation was not found in Νέα Κρήτη.
   - The submitted headline gives the cash as 15.000 euros while its text, and the report, give 15,500 euros; the text figure is used.
-  - The submitted page places the searches in the Municipality of Apokoronas without naming the community; Newpost and ApokoronasLife place the house in Nipos, while the earlier accounts only said the man used his home and other storage places.
   - Newpost and ApokoronasLife also reproduce the same Chania police statement, so they are not independent reporting of the arrest.
   - The two photos on the ApokoronasLife page are the same police handout images as those already linked from Nea Kriti and are not added again.
   - 'Χανιά: Συνελήφθη 26χρονος με ένα κιλό κοκαϊνη και 15.000 ευρώ (ΝΕΟΙ ΟΡΙΖΟΝΤΕΣ) could not be opened again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.'

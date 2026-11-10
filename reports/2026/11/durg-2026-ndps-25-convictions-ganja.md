@@ -41,7 +41,6 @@ open_questions:
   - The number of convicted persons was not published, only the number of cases, so no arrested or charged count is recorded.
   - The convictions accumulated through 2026 and no separate date for any individual hearing was given, so 3 November 2026, the article publication date, is used as the incident date.
   - Only one accessible source for this result was found after searching in Hindi and English.
-  - The page image is captioned only as Durg NDPS Cases and is not established to show this enforcement action, so no media entry is included.
   - The text gives a weight ("1 kg") but the figures have no kg_seized; check whether it belongs there.
 ---
 

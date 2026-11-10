@@ -50,7 +50,6 @@ open_questions:
   - Only one opened source supports this Karapparamba event; searches for a second report of the same 318-gram seizure found none.
   - The article dates the Karapparamba house inspection to Monday evening, 2 November; 2 November 2026 is used as the incident date while 3 November 2026 is the article's publication date.
   - No valuation of the seized hashish oil and no court outcome beyond registration of the NDPS case was reported.
-  - The page carries an image whose caption repeats the headline and does not establish that it shows this seizure, so no media entry is added.
   - The same article also reports the separate Lakkidi 2.95-gram three-arrest event already recorded under lakkidi-wayanad-2-95g-hashish-oil-three-arrests, which is left out of this report.
 ---
 

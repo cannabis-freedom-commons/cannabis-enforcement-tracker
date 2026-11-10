@@ -44,7 +44,6 @@ open_questions:
   - No court appearance, charge sheet, plea or outcome was reported, and officers said other suspects were still being sought.
   - The reports give the possibility of further arrests but no later development, so whether cannabis was ever found in the house is unknown.
   - Diari Més credits the text to the ACN news agency, and both Diari de Tarragona and El Caso draw on the same police investigation, so the accounts are not fully independent.
-  - The submitted page's only image has the generic alt text 'MoraEbre' with no caption tying it to this raid, so no media entry is included.
 ---
 
 Mossos d'Esquadra, Catalonia's regional police, arrested a 37-year-old man after

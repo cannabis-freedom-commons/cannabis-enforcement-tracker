@@ -53,7 +53,6 @@ open_questions:
   - No arrest, suspect, charge or court outcome was reported in the opened accounts.
   - The destination country of the export consignment was not named.
   - No street value or estimated market price for the 240 kilograms was published.
-  - The only image carried with the submitted page shows a farmer displaying cannabis resin near Ketama in September 2017, not this seizure, so no media entry is recorded.
   - The text gives an area ("50,000 hectares") but the figures have no hectares; check whether it belongs there.
 ---
 

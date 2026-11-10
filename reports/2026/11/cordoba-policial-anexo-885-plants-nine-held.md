@@ -68,7 +68,6 @@ open_questions:
   - The MPF Córdoba page carries five uncaptioned photographs that could not be confidently matched to the seizure, so only the captioned ElDoce photo of the seized plants is listed as media.
   - 'Left out, as its quotation was not found in ElDoce: Officers of the Fuerza Policial Antinarcotráfico (FPA) carried out seven raids at seven properties in Policial Anexo, a barrio neighbourhood of Córdoba, in a case described as narcomenudeo, retail drug dealing.'
   - 'Left out, as its quotation was not found in ElDoce: They also seized doses of cocaine and marijuana alongside the plants.'
-  - The Cba24n body says more than 900 cannabis plants and its headline says almost 900, while the existing report records the precise 885 plants given in the official and other accounts.
 ---
 
 Nine adults, six men and three women, were detained in the city of Córdoba after

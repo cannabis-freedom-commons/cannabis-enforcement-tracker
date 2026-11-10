@@ -60,15 +60,10 @@ open_questions:
   - About €5,000 in cash and mobile phones were seized, but no cannabis-only valuation was published.
   - No names were published and no charges or court outcome were yet reported.
   - Only one accessible source for this event was found after searching in English; no police statement or second outlet account could be opened.
-  - The page's featured image is captioned only as Article Featured Image and is not shown to depict this raid or seizure, so no media entry is included.
-  - The TVMNews page carries a photo file named for the St Paul's Bay drug seizure, but its caption does not establish that it shows this raid or seizure, so no media entry is added.
   - It is not reported which of the two men arraigned remained detained or the grounds for continued detention.
   - The prior June bail conditions the 20-year-old was accused of breaching were not described.
   - No weights for the cannabis and cocaine attributed to the bailed accused were published, only that the defence called the quantities very small.
-  - The MaltaToday page carries a photo credited only as Police Communications Office without showing it depicts this apartment search or seizure, so no media entry is included.
-  - 'The page''s image is captioned only as File photo: Times of Malta and does not depict this raid or seizure, so no media entry is included.'
   - No separate cannabis weight or count for the bailed accused was published, only that the defence called the quantities very small, so no cannabis quantity is recorded.
-  - 'The Newsbook page carries a photo captioned only as Ritratt: Pulizija, which does not establish that it shows this apartment search or seizure, so no media entry is added.'
 media:
   - kind: photo
     url: https://timesofmalta.com/article/five-people-including-teenage-girl-arrested-drug-trafficking.1136595

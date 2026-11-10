@@ -59,7 +59,6 @@ open_questions:
   - No outcome is reported for co-defendant Taitaifono Ulugia Sala Suivai.
   - The article does not say how long Stanley had been remanded in custody or where he was arrested.
   - The only source is the Samoa Observer, and the Supreme Court judgment itself could not be opened.
-  - The page's only photograph is captioned as a supplied picture of the defendant being sentenced at Tanumalala, with no visible credit or direct image link, so no media entry is added.
 ---
 
 Samoa's Supreme Court sentenced Darren Stanley to four years and three months in

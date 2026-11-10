@@ -56,9 +56,6 @@ sources:
 open_questions:
   - The suspect was not named in the reports.
   - No court outcome beyond the flagrante booking for drug trafficking was reported.
-  - The submitted page's photo is captioned as an illustration of a Military Police vehicle, not this seizure, so no media entry is included.
-  - The second source displays a reproduction photo of seized material, but its direct image address was not recovered in this read-only harness, so no media entry is included.
-  - The page image is captioned Central de Flagrantes with an Ascom PCAL credit and is not established to show this seizure, so no media entry is included.
 ---
 
 Military Police arrested a man in the Santos Dumont neighbourhood in upper

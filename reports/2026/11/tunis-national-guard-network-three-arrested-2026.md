@@ -94,8 +94,6 @@ open_questions:
   - The suspects are described by occupation only, with no names, ages or charges stated.
   - No court outcome or measure of restraint was reported beyond the prosecutor authorising legal measures.
   - Only one accessible account was found; searches in Arabic and English surfaced no second outlet or National Guard statement.
-  - The page's only image is captioned with a truncated headline and no credit, with nothing confirming it shows this operation or seizure, so no media entry is included.
-  - This page describes the network as linked to a group of supporters of an unnamed sports club, while the existing report describes it as suspected of ties to another group; the difference is attributed to different versions of the same account.
   - The article gives no separate date for the operation; 9 November 2026 is its publication date.
   - No weight or value was published for the cannabis (zatla), so no separate cannabis quantity can be added; the 100-gram figure is cocaine.
   - The page's only listed image uses a generic June 2025 upload filename with only the headline as caption and no credit, so it is omitted as not shown to depict this seizure.
@@ -104,10 +102,7 @@ open_questions:
   - The Pressbee page is an aggregator stub with no substantive body text; it reproduces the Mosaique FM headline line only, and the fuller account was read on the linked Mosaique FM original, its reprint and La Presse de Tunisie.
   - The Webdo article gives no weight or value for the cannabis, only 'une quantité de cannabis', so no cannabis figure can be added.
   - The Nessma/TAP account calls the cannabis zmital where the earlier accounts use zatla, and gives no weight, plant count or value for it.
-  - The Nessma page's single picture carries only the truncated headline as caption and with no credit, so no media entry is added.
   - Realites Online names no town or governorate for the operation, so the existing place of Tunis is kept from other accounts.
-  - The page's only image is a 2024-file National Guard photo with no credit and nothing confirming it shows this operation, so no media entry is added.
-  - The allAfrica.fr page carries no image of its own; its four sidebar thumbnails illustrate unrelated Tunisia stories (EU parliamentary dialogue, a press review, the textile sector and an AI conference), so no media is added.
   - The page is a distributive reprint of La Presse de Tunisie rather than independent reporting, and it gives no date for the operation beyond its 9 November 2026 publication date.
 media:
   - kind: photo

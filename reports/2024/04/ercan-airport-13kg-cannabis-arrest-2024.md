@@ -41,7 +41,6 @@ open_questions:
   - No charges, court hearing or sentence were reported; the investigation was described as ongoing.
   - The detained man was identified only by the initials M.B. with no other personal details published.
   - Only one accessible source for this event was found after searching in English and Turkish.
-  - The page image is captioned only with the headline and carries no credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 At around 09:00 on Sunday, 29-year-old M.B. entered the Turkish Republic of

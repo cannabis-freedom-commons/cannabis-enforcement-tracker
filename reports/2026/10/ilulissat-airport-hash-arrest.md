@@ -52,7 +52,6 @@ open_questions:
   - The police statement did not say what was found or how much; the half-kilogram of hash comes from Ritzau's report of the police account to Sermitsiaq.
   - No charge, court date or outcome was published; police said the case was still under investigation.
   - The man was not named and his place of residence was not given.
-  - The photograph with the Ritzau report shows an Air Greenland aircraft at Nuuk earlier in the year, not the find, so no media is linked.
 ---
 
 As the new international airport in Ilulissat opened, Greenland Police received a report at 12:15

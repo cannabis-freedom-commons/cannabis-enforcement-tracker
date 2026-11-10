@@ -49,7 +49,6 @@ open_questions:
   - The fate of the fourth suspect who escaped and the outcome of the continuing search were not reported.
   - The neighbouring country that provided intelligence was not named, and the boat's origin and destination were not given.
   - The article also describes a separate western-desert interception of about 250,000 narcotic pills, a different non-cannabis event left out of this report.
-  - The page's lead image is captioned only with the headline and carries no credit, so it is not established to show this seizure and no media entry is added.
 ---
 
 Iraq's Interior Ministry said authorities foiled an attempted drug-smuggling run

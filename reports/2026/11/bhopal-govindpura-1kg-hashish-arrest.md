@@ -64,13 +64,8 @@ open_questions:
   - The opening line describes the bus route as from Bhopal to Hyderabad via Delhi, while later passages say he boarded in Delhi and was travelling to Hyderabad; the Delhi-to-Hyderabad account is used here.
   - The Rs 30 lakh figure is the authorities' estimated international-market value, not a verified sale price.
   - No charges or court outcome were reported; the NCB investigation into the source, recipient and possible network was still under way.
-  - The page image carries no caption or credit establishing that it shows this seizure, so no media entry is included.
-  - This account values the seizure at about Rs 35 lakh, while the existing report records about Rs 30 lakh, so the valuation remains disputed and no new value is recorded.
-  - This account spells the accused as Sijan without an age, while the existing report identifies him as 25-year-old Sheezan/Shizan Khan.
   - The article gives no separate calendar date for the interception; 4 November 2026 is its publication date and is used as the incident date.
-  - The only page image is captioned as a symbolic graphic design, which does not establish that it shows this seizure, so no media entry is included.
   - The same article also briefly describes separate Gautam Nagar and Nazirabad ganja arrests that belong to other reports and are left out here.
-  - The page's only still image has no caption or credit establishing that it shows this seizure, so no media entry is included for it.
 media:
   - kind: video
     url: https://yashbharat.co.in/large-consignment-of-narcotics-seized-from-a-bus-in-bhopal-one-kilogram-of-charas-cannabis-resin-recovered-from-a-young-mans-bag-in-a-joint-operation-by-the-govindpura-police-and-the-ncb-the-s/

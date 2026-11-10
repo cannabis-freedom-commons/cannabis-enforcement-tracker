@@ -67,8 +67,6 @@ open_questions:
   - The man is not named and his age and nationality are not given.
   - No charge details beyond the accusation of possession for sale, no validation hearing and no court outcome were reported.
   - The over 100 grams cited in both headlines and standfirst combines hashish and cocaine, so only the separately stated hashish weight is recorded as cannabis.
-  - The Prealpina page picture carries no credit and is not established to show this seizure, so no media entry is included; the police statement page image could not be checked.
-  - VareseInLuce gives no separate day for the stop; 6 November 2026 is its publication date, as in the existing report.
   - The page gives no amount for the cash or the cocaine, and no court outcome after the arrest.
 media:
   - kind: photo

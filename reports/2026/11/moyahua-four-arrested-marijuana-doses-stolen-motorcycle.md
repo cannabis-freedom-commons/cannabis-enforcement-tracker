@@ -57,7 +57,6 @@ open_questions:
   - No charges or court outcome were reported; the four were placed at the disposal of the competent authority for investigation.
   - The methamphetamine and cocaine doses in the same seizure are excluded from the cannabis figures, and no combined weight or value was given.
   - Both articles draw on the same official account from the state Peace and Security Construction Board; the government's own communiqué could not be opened.
-  - The EcoDiario gallery images carry only file-name captions with no credit and are not confirmed to show this seizure, so no media entry is included.
   - The detainees' surnames are published only in the abbreviated form used in Mexico, so no full names are given.
 ---
 

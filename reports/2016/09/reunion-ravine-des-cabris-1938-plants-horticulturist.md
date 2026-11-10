@@ -77,14 +77,12 @@ sources:
     language: fr
 open_questions:
   - The headline says 2,000 plants; the body gives 1,938, which is the figure recorded here.
-  - LINFO.re reports the search as taking place on Wednesday 21 September 2016, while Réunion La 1ère dates the indictment to 22 September; the incident date is the 22 September indictment, the step the submitted page reports, and the search was a day or two before.
   - The report also covers the 6 September 2018 sentence, the latest step of the same case.
   - No street value for the plants or the dried heads was published.
   - The sources do not say how many of the 1,938 plants were uprooted or destroyed as against taken away, so the total is recorded as destroyed plants.
   - Any appeal against the 2018 sentence was not reported.
   - The man is named only by his first name and initial, Anthony R.
   - The photograph on the Réunion La 1ère page is captioned only Gendarmerie de La Réunion and appears to be an illustration; the search was carried out by national police, so the picture is not confirmed to show this seizure.
-  - LINFO.re's original 22 September 2016 report of the search could not be captured, so facts from it here rest on the submitted page and on the 2018 LINFO.re account.
   - zinfos974 pages that also covered the case could not be opened.
 ---
 

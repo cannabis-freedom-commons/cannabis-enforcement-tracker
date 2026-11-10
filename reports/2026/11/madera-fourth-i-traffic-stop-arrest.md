@@ -37,7 +37,6 @@ open_questions:
   - The driver was not named, and no age, residence or vehicle details beyond the cellphone allegation were published.
   - No charges, court dates or case outcome beyond booking into Madera County Jail were reported.
   - Only one accessible reporting of this event could be opened; a second outlet listing returned an inaccessible page, and the submitted gallery page contained no article body beyond its title and photos.
-  - Three photos credited to CHP Madera were published with the story, but their captions repeat the headline and do not establish what each image depicts, so no media entry is listed.
 ---
 
 A Monday-morning traffic stop in Madera County ended with a driver under arrest

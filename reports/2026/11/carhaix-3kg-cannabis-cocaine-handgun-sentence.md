@@ -72,7 +72,6 @@ open_questions:
   - The article gives no separate date for his arrest or custody before the 2 November 2026 search; 6 November 2026, the sentencing date, is used as the incident date.
   - The man's full name, exact age and the commune where he lives were not published; Carhaix-Plouguer is the brigade town named in the article's locality tags.
   - Whether the year in prison is firm or partly suspended, and whether an appeal was lodged, was not reported.
-  - 'No usable photo of this event was published: the only image is captioned as an illustration, so no media entry is included.'
   - Only one accessible source for this case was found; the Ouest-France.fr version returned an access error.
   - The rest of the article is behind a subscriber paywall, so the court detail beyond the tribunal de Quimper hearing and any fine or confiscation could not be read in this capture.
   - The page's only image is captioned as an illustration, so no event photo can be added.

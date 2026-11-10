@@ -42,7 +42,6 @@ open_questions:
   - The source dates the arrests to Wednesday and was published on Thursday, August 20, 2026, so August 19, 2026 is used as the incident date.
   - No charges, custody status or court outcome were reported.
   - Only one accessible outlet account of this event was found after searching in English and Nepali.
-  - The page carries a generic photograph from a January 2025 file captioned only as arrested, which does not establish that it shows this seizure, so no media entry is included.
   - The exact house and cowshed locations were not given, so the coordinates mark the Lalbandi town centre.
 ---
 

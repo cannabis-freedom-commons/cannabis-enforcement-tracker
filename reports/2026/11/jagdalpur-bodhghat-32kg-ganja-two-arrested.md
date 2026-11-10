@@ -65,9 +65,7 @@ open_questions:
   - The men's home police station is given only as Khoh in Dind district, Rajasthan, without a more precise place.
   - No court outcome, plea or lawyer's comment was reported beyond production for judicial remand.
   - The value of about 1.64 million rupees is the police's own estimate, not a market price.
-  - The submitted page gives no separate time of arrest and describes the arrest as made that Saturday; Janta Se Rishta places the tip-off on the evening of 6 November without saying when the arrest followed.
   - Only a wire text and an outlet reproducing the same police account could be opened; no police statement was found.
-  - The lead photo on the submitted page carries only the headline as caption, so it is not confirmed to show this seizure.
 ---
 
 Police from the Bodhghat station in Bastar district, Chhattisgarh, arrested two

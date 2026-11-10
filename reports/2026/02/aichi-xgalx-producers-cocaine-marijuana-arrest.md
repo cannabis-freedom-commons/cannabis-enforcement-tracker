@@ -42,7 +42,6 @@ open_questions:
   - No charges beyond suspicion, custody status or court outcome were reported.
   - Whether the two other people present at the hotel room were detained was not reported.
   - Only one accessible source for this event was found; no agency statement or second outlet account could be opened.
-  - The page image is a screenshot-style portrait of the two producers and does not show the seizure, raid or hotel room, so no media entry is included.
 ---
 
 Japanese authorities arrested two Korean music producers affiliated with the

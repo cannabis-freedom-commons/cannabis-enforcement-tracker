@@ -56,7 +56,6 @@ open_questions:
   - The accounts give no separate date for the arrest; the Interior Ministry statement was published, and the first reports appeared, on 4 November 2026, which stands in as the incident date.
   - The suspect was not named and no age was given; the only description is a fuel-station attendant (مراقب) with prior criminal information living in the El Hammam police district.
   - No source states how many people paid money, how much was transferred or whether any of it was recovered.
-  - The submitted page was published on 9 November 2026, five days after the first reports, and reproduces the same security statement; its only image sits on a media address with no caption beyond the section name and time, so it is not added as media.
   - No Interior Ministry page for this case could be opened, so the ministry's wording was read through the two newspaper republications.
 ---
 

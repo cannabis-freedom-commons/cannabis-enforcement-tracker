@@ -91,7 +91,6 @@ open_questions:
   - The sources do not say whether the two properties are connected to one another or to the detainees.
   - Only uncredited 'Especial' illustrations were published; the photo of officers in front of an 'Inmueble asegurado' sign is listed, but no caption confirms which municipality it shows.
   - Neither opened report reproduces a full Sedena or Guardia Nacional statement, so both draw on the same official account from the I Military Region and 18/a Military Zone.
-  - The El Universal Hidalgo and Milenio lead images are credited only as Especial/Cortesía with no caption confirming they show these properties or seizures, so no media entry is added.
   - The article calls the Pachuca prosecutor's office the Procuraduría General de Justicia in its lead and the Fiscalía General de la República later in the text; the later detail matches what the report already records.
   - The seized material is described only as substances with characteristics similar to marijuana and methamphetamine, with no laboratory confirmation reported.
   - The page images are captioned only with the operation title, and no caption says which municipality or which property they show.

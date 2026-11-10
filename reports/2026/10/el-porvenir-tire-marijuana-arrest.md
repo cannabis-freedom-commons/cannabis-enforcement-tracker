@@ -48,7 +48,6 @@ open_questions:
   - The Facebook post says una llanta while La Tribuna says spare tires of a small truck; the report uses the shared tire-concealment description without specifying the number of tires.
   - No separate operation date was published; 5 October 2026 is the publication date used as the incident date.
   - No court outcome was reported; both accounts only state that the detainees must answer for alleged drug trafficking.
-  - Attached photos lack captions or descriptive alt text establishing what they show, so no media entry is included.
 ---
 
 National Police officers detained people in El Porvenir, Atlántida, who were

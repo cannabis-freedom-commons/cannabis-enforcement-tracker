@@ -49,7 +49,6 @@ sources:
 open_questions:
   - The attorney general's release names no individual suspects or case outcomes among the 148 arrests.
   - The 168 seized weapons are mentioned in the text but the figures schema stores no weapon count.
-  - No photo confirmed to show a 2019 CAMP raid was available, so no media entry was added.
 ---
 
 On 4 November 2019 Attorney General Xavier Becerra announced that California's Campaign Against Marijuana Planting (CAMP) had eradicated 953,459 illegally grown cannabis plants during the 2019 season, in the largest illegal-grow eradication program in the nation. [@1,2] Agents raided 345 illegal grow sites across 35 counties, arresting 148 people and seizing 168 weapons. [@1,2]

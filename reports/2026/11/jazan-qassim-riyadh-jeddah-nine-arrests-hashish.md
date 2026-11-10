@@ -56,7 +56,6 @@ open_questions:
   - The amphetamine in the Qassim case, the khat in Jazan and the methamphetamine and cocaine in Riyadh and Jeddah are not cannabis and are excluded from the figures.
   - No charges before a court or court outcomes were published; the agencies said only that initial procedures were taken and the suspects referred to the competent authority.
   - Sobra merges this roundup with Asir operations and a Jeddah cocaine case of 10 kg, and reports 13 people in six operations; only the four operations in the Sabq account are recorded here.
-  - The page image is the Sabq logo rather than a photo of the operations, so no media entry is included.
   - The text gives a weight ("90 kg") but the figures have no kg_seized; check whether it belongs there.
 ---
 

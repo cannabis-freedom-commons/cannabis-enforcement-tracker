@@ -43,10 +43,7 @@ open_questions:
   - The number and size of the liquid cannabis cartridges are described by item count only; no weight for the cannabis oil or the dried cannabis smoked is published.
   - The buyer A is described as a minor woman in News1 and by initial only in Newspim; no age is given.
   - The accounts do not say how Kim was arrested or where he is held.
-  - The page images are portraits of the rapper from his YouTube channel and are not established to show the hearing, so no media entry is included.
-  - Newsis reports each sale from last December to this March at 450,000 won, while the existing report cites 400,000 won for December and 450,000 won for January; the existing figures are retained.
   - Newsis dates the free receipt at a Seoul club to mid-August and the smoking to September, less precise than the mid-August and 9-14 September dates already recorded.
-  - The page's captioned photo shows the Seoul Western District Court signboard from June 2026, not the November hearing, and the other page images carry no captions tying them to this event, so no media entry is included.
 ---
 
 Rapper Kim Sang-min, who performs as Kim Sang-min he can dare be called a legend

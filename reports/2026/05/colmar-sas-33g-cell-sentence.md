@@ -53,7 +53,6 @@ open_questions:
   - The 14 May roundup reports 30 g found on the Wednesday before publication; the 15 May court
     report gives 33 g found on Tuesday during a cell search, without explaining the difference.
   - Neither piece names the defendant or states the exact calendar date of the cell search.
-  - Page illustrations are generic and not of this case, so no media is listed.
 ---
 
 A 32-year-old man from Marne, detained at the SAS resettlement unit in Colmar,

@@ -45,7 +45,6 @@ open_questions:
   - The plea account gives Gigg Lane while the charging account gives Brandlesholme Road for Tariq in Bury; both addresses are reported as stated.
   - A failing-to-stop allegation appears in the charging account but not in the plea account, and its outcome is unclear.
   - No sentence has been reported; the next hearing was listed for November 27 with prosecutors considering the remaining allegations.
-  - The only page image is captioned as a stock photo of money credited to West Yorkshire Police and does not show this event, so no media entry is included.
   - Only Bury Times accounts of this case could be opened; no separate agency statement was directly opened.
 ---
 

@@ -42,7 +42,6 @@ sources:
 open_questions:
   - No street value, laboratory confirmation, or number of plants was published.
   - No arrests, charges or suspects were reported, so no court outcome is recorded.
-  - The submitted page lists one photo whose caption only repeats the headline, with no descriptive caption tying it to the bags or search, so no media entry is added.
 ---
 
 Police seized 382 pounds of suspected cannabis in an intelligence-led operation

@@ -51,7 +51,6 @@ open_questions:
   - No weight or item count was published for the illicit cannabis taken on Sept. 4, so no kilograms can be recorded.
   - Quantities from the separate May operation were not counted here because that earlier enforcement is a different event.
   - No court outcome, arraignment detail or administrative-hearing result after the trespass and obstruction charges was reported.
-  - The WBNG video page embeds a short video and the Sept. 4 page carries a viewer-submitted photo of officers at the shop, but no direct image or video file address could be recovered from the text-only captures, so no media entry is included.
   - No standalone OCM press release for the Sept. 4 re-inspection could be opened; the OCM account comes through WBNG's reporting.
   - WBNG describes the street as Broad Street in one account and Broad Ave in the same-day account; the report uses the numbered address 104 Broad Ave.
   - 'Left out, as its quotation was not found in WBNG: Broome County sheriff''s deputies arrested High Standards owner Lucas Rought at the shop on Broad Street in Binghamton on Sept. 4, 2026.'

@@ -45,7 +45,6 @@ open_questions:
   - The lengths of the three suspended prison sentences were not given.
   - The article gives the Le Dauphiné report date of 31 October 2026 and its own publication date of 3 November 2026, with no separate hearing date, so the report uses 31 October 2026 as the incident date.
   - The Le Dauphiné Libéré account is paywalled and the Alpes 1 page could not be opened, so only one source supports this report.
-  - The page photograph is captioned as an illustration rather than this seizure or hearing, so no media entry is listed.
 ---
 
 Five people were tried in immediate proceedings before the judicial court in

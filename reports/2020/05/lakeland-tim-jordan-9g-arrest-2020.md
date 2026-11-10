@@ -57,7 +57,6 @@ open_questions:
   - The teenage passenger was also arrested but was not named and no charges or outcome for the teen were reported.
   - No court outcome is reported in the opened sources; they record only the arrest, booking, bond and charges faced.
   - ABC News places the arrest in Lakewood, Florida, while the Knoxville News Sentinel, citing the arrest warrant, places the stop and arrest in Lakeland; this report uses Lakeland.
-  - The page video image appears to be sports footage of Jordan, not the traffic stop or seizure, so no media entry is added.
   - ESPN's description places the arrest in Lakewood, Florida, while the arrest warrant cited by the Knoxville News Sentinel places the stop and arrest in Lakeland; the report continues to use Lakeland.
 ---
 

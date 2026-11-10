@@ -58,7 +58,6 @@ open_questions:
   - The 5.44 kg figure converts the reported 12 pounds; no metric weight was published and the cannabis product form was not stated.
   - No arrest, charge, suspect, consignee or shipment origin was reported.
   - Both published accounts reproduce the same Stratcom media release, so they are not independent reporting.
-  - No photograph showing this seizure was published; the Observer's lead image is a generic 2023 stock-style drug-bust illustration, so no media entry is listed.
   - Antigua News, like the other outlets cited, appears to reproduce the same Stratcom media release; the account is still not independent reporting.
 ---
 

@@ -40,7 +40,6 @@ open_questions:
   - The two kilograms of opium, 108 liters of liquor, 23 liters of wine, firearms, ammunition and valuables worth millions of rupees were reported alongside the hashish to explain the mixed seizure and are excluded from cannabis figures.
   - No charges, court dates or outcomes were reported; police said further investigation was underway.
   - Only one accessible account of this event was found after searching for a second report, so no corroborating source could be added.
-  - The page image has no caption or credit tying it to this seizure, so no media entry is included.
 ---
 
 Sargodha police arrested 29 alleged criminals during raids in different parts of

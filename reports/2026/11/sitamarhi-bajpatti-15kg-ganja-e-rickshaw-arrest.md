@@ -41,7 +41,6 @@ open_questions:
   - The reports do not give the stages of the journey or which border crossing the ganja came through, only that it was brought from Nepal.
   - No charges, trial or court outcome beyond the filing of the first information report under the NDPS Act was reported.
   - Only one fully readable source exists; the Dainik Bhaskar article was opened as a teaser with its first paragraph visible, so only details confirmed there are used.
-  - The submitted page shows no photo of the seized ganja or the rickshaw, only a share image, so no media is listed.
 ---
 
 Police in Sitamarhi district, Bihar, arrested a man on Thursday evening near

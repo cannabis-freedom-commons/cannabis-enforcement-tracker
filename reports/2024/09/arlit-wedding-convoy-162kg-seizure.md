@@ -42,8 +42,6 @@ sources:
     language: fr
 open_questions:
   - No arrests, suspects, charges or court outcomes were reported in the opened accounts, so no people figures can be recorded.
-  - The page photo is captioned as 39.78 kg of cannabis and uses a May 2022 image file, so it is not established to show this 162 kg seizure and no media entry is included.
-  - The Sputnik Afrique illustration is a stock Unsplash photo, not a photo of this seizure, so no media entry is included.
   - The 215 kg of cocaine mentioned for 2022 is a separate national figure left out of this event report.
 ---
 

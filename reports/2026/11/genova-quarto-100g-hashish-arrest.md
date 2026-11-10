@@ -56,7 +56,6 @@ open_questions:
   - The 15 grams of cocaine and 1,800 euros in cash are mentioned only to explain the mixed case; the cash is described as suspected proceeds, not a valuation, and both are excluded from cannabis figures.
   - No separate cannabis-only valuation or laboratory weight was published.
   - No court outcome was reported beyond detention pending the fast-track hearing.
-  - The submitted page image is captioned only with the article headline and is not established to show this seizure, so no media entry is included.
   - No agency statement was found; the account rests on two local outlets.
 ---
 

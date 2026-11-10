@@ -96,11 +96,8 @@ open_questions:
   - Both outlets carry the governor's statement almost verbatim, so the three-suspect count and quantities are not independently corroborated.
   - The reports do not say whether the 12 grams were found on the suspects or nearby along the road.
   - Manşet Haber describes searches at the suspects’ addresses, while the existing accounts place the checks along Kanal Yolu; whether those addresses were on that road is unclear.
-  - The submitted page carries an image without caption or credit, so it cannot be confirmed to show this event and is not listed as media.
-  - The submitted page gives no separate incident date; 5 November 2026 is its publication date, while the existing report dates the checks to 4 November 2026.
   - The new accounts describe the seizure as coming from a vehicle stopped after surveillance, while the existing accounts place the checks along Kanal Yolu; whether the vehicle was stopped on that road is unclear.
   - The DHA account on Hürriyet says the pills and esrar were found in a vehicle stopped on suspicion, while the Anadolu Agency account says they were found in searches at the suspects' addresses.
-  - The submitted page gives no separate incident date; 6 November 2026 is its publication date.
   - The İHA dispatch gives no separate date for the surveillance, vehicle stop or arrests; 5 November 2026 is its publication date.
 ---
 

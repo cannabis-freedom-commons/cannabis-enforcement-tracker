@@ -61,7 +61,6 @@ open_questions:
   - The outlets render the second suspect's initial differently (A.P., Kh.P. and N.P. in transliteration), so the report uses the submitted source's A.P. and treats all three renderings as the same relative of S.P.
   - The marijuana found in S.P.'s flat is reported without a weight, so only the 10 kg from the stash is recorded as seized.
   - No city or precise location for the stash, detention or flat search is named; Armenia is used as the place.
-  - The pages carry headline-captioned photographs whose content is not confirmed to show this seizure, so no media entry is listed.
 ---
 
 Armenia's Investigative Committee completed the preliminary investigation into

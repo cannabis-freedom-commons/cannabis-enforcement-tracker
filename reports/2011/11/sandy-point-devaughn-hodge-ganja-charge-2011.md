@@ -48,7 +48,6 @@ open_questions:
   - No weight or packaging detail for the cannabis found in the home was published, so no kilogram figure is recorded.
   - No court outcome beyond bail and a pending appearance before a magistrate was reported.
   - Only one account of this arrest, an SKNVibes report quoting the deputy commissioner of police, could be opened; no second outlet or police statement was found.
-  - The submitted page carries an image file but no caption or credit identifying what it shows, so no photo is listed.
 ---
 
 In St. Kitts, members of the Delta Squad working with the Drug Squad, the

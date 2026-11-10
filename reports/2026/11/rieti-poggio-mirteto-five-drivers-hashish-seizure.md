@@ -48,7 +48,6 @@ open_questions:
   - Cocaine amounts of 0.35 grams and 1 gram are mentioned only to explain the mixed stops and are excluded from cannabis figures; no combined drug total is counted as cannabis.
   - The drivers are identified only by age and as locals, with no full names published.
   - No court outcome was reported; proceedings were still in the preliminary-investigation phase.
-  - The page image is captioned only with a file name and does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Carabinieri of the Poggio Mirteto company reported five people at liberty to the

@@ -40,9 +40,6 @@ tags: [dirandro, lima, interdiction]
 open_questions:
   - The intended destination was described as southern Peru; no specific city was given.
   - The Fiscalía release names Jiménez at the toll stop and two others in a separate Chorrillos vehicle; it does not describe any other occupants of the van.
-  - Infobae was published on 13 November 2025 and describes the interception as happening 'el último miércoles', while the existing report dates the case to the Fiscalía release of 17 November 2025, so whether the stop occurred on 12 November with a delayed official announcement is unsettled.
-  - Infobae gives a rounded 1,000 kilograms while the existing report keeps the Fiscalía's 974.727 kilograms in 940 packages.
-  - Infobae says the three Peruvian detainees were the van's driver, co-driver and a rear passenger, whereas the existing report follows the Fiscalía in placing Ángel Jiménez in the van and two other detainees in a separate Chorrillos pickup.
   - Infobae gives no package count, no drug value, no charges and no court outcome, and does not mention the Chorrillos stop.
 sources:
   - title: Fiscalía antidrogas logró la incautación de 974.727 kilos de marihuana hallados al interior de un vehículo

@@ -43,7 +43,6 @@ open_questions:
   - Each of the three described parcels held a little more than 500 grams, so 1.5 kilograms is an approximate total rather than an exact laboratory weight.
   - The article gives only Friday for the conviction with a publication date of 23 June 2026, so 19 June 2026 is used as the Friday before publication.
   - Only one accessible source for this event was found after searching in French.
-  - The page image is credited only as Photo Ketty Beyondas with no caption showing the seizure, so no media entry is included.
 ---
 
 A man from Le Creusot was convicted on a Friday by the court in Chalon-sur-Saône

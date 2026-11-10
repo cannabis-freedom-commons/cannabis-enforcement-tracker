@@ -76,9 +76,7 @@ open_questions:
   - One outlet's headline says 39 packs while its body describes 39 small packs plus one medium pack, totalling 40; the report follows the 40-pack total used by the other two outlets.
   - The man's home village is spelled Sidomulio in one account and Sidomulyo in two others; both refer to the same person and place.
   - No charge, detention status or court outcome beyond handover to the Batu Bara narcotics unit was reported.
-  - This account spells the arrest hamlet Perdomuan Nauli, consistent with the existing report's second source, but gives no home village for the man and no admission that he intended to resell, so those details rest on the earlier sources.
   - This account calls the location Perdomuan Nauli hamlet but gives no home village for the man and does not repeat the admission that he intended to resell, so those details continue to rest on the earlier sources.
-  - The page photo shows the suspect with the evidence but carries no credit beyond 'foto/ist', so it is not added as a new media entry.
 ---
 
 A 44-year-old man identified as H, a resident of Sidomulio village in Talawi,

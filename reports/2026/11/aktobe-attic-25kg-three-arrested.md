@@ -82,9 +82,6 @@ open_questions:
   - The 25 kg figure records the reported minimum for more than 25 kilograms of marijuana.
   - Only one accessible source for this event was found after searching in Russian; no second account or agency statement could be opened to confirm details.
   - The Astana Today page shows only a short excerpt headed Сегодня, 16:44 and redirects to NUR.KZ for the full text; 4 November 2026 is used as its publication date from the page header and capture context.
-  - The Astana Today image reuses the NUR.KZ police image already recorded for the report, so no new media entry is added.
-  - The Kazlenta page shows a photo credited to polisia.kz that appears to republish the police handout already recorded for this event, so no new media entry is added.
-  - The Caravan page displays a photo credited to Polisia.kz that appears to republish the police handout already recorded for this event, so no new media entry is added.
   - CentralAsia.media gives no separate date for the search and detentions; 4 November 2026 is its publication date, matching the police statement published the same afternoon.
   - CentralAsia.media does not name the “Қарасора-2026” campaign itself; that detail rests on Polisia.kz and the ministry statement.
   - The CentralAsia.media header photo shows only a police uniform with a POLISIA badge and body camera, so it is an illustration rather than a photo of this search.

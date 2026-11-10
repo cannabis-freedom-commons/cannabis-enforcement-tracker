@@ -47,7 +47,6 @@ open_questions:
   - No separate date for the operation was published; 3 February 2026 is the publication date of both reports and is used as the incident date.
   - The suspect was not named in the reports opened.
   - No charge, custody decision or court outcome was reported; the investigation was still under way.
-  - The pages carry images but without captions establishing that they show this seizure, so no media entry is included.
   - The Guinee7 page also links a separate 16 February report of a 37 kg seizure in Mandiana, a different event left out here.
 ---
 

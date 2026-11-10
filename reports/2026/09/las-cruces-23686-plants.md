@@ -53,7 +53,6 @@ open_questions:
   - No field area or number of plots cleared was published, only the plant count.
   - The valuation is the police estimate of about Q11,843,000, with no independent valuation published.
   - The operation date is given as hoy on the 13 September 2026 publication, with no separate operation date published.
-  - The Prensa Latina page image has an April 2026 file address and no caption tying it to this operation, so no media entry is included.
   - The Prensa Latina article also mentions a separate Alta Verapaz operation three days earlier with one soldier killed and two wounded, which is a different event left out here.
   - The article cites 2025 national eradication and seizure totals, which are separate statistics left out here.
 ---

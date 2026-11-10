@@ -52,7 +52,6 @@ open_questions:
   - About 10,000 euros is seized cash, not an official drug valuation, so it is not recorded as value.
   - The seizure also included crystal and tablets alongside cannabis; those non-cannabis amounts are excluded and no combined total is counted as cannabis.
   - The sources say only Sunday and were published on 2 November 2026, so 1 November 2026 is used as the incident date.
-  - All images on the submitted page are explicitly captioned as Symbolbild stock images, so no media entry is added.
   - 'Dresden-Löbtau: Polizei findet Drogen, Waffen und Bargeld – 29‑Jähriger festgenommen (DNN) could not be opened again to check its quotations (The browser page answered HTTP 403.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.'
 ---
 

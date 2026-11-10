@@ -52,7 +52,6 @@ open_questions:
   - The article does not say whether the money-laundering count is a separate charge or part of the same indictment, only that it concerns the concealment of BDS$5,254 and US$550.
   - The outcome of the September 30, 2021 appearance and of the case are not reported in this source.
   - No second, independent account of the hearing or the search was found and opened.
-  - The page image is a generic 'Court update' image uploaded in October 2020, not confirmed to show this case, so no media entry is included.
   - The coordinates are for Bridgetown, St Michael; the article does not name the court building beyond the No. 1 District 'A' Magistrates' Court.
   - 'Left out, as its quotation was not found in Barbados Today: Holder argued that the items police found were never found in his client''s presence under a search warrant because Walker was not there.'
 ---

@@ -42,7 +42,6 @@ tags: [date, unlicensed, townsend]
 open_questions:
   - The release did not say how many plants were mature versus immature beyond the total of 32 seized.
   - Court dates or a plea after arraignment on $10,100 bail were not reported in the source opened.
-  - WDEL describes the amount as nearly 60 pounds while the existing report records 60 pounds from the Division of Alcohol and Tobacco Enforcement release; the report retains the official 60-pound figure.
   - WDEL dates the search only as last week relative to its 19 May 2026 publication rather than stating 13 May 2026 directly, consistent with but less precise than the existing date.
 sources:
   - title: DATE Arrests Townsend Woman on Drug Charges

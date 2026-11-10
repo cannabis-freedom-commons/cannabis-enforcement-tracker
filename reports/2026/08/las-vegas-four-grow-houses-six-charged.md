@@ -47,7 +47,6 @@ open_questions:
   - No seized plant count, cannabis weight, value or forfeiture figure was published; the 1,000-or-more-plants allegation is not stored as plants_destroyed.
   - No arrests are reported in these accounts; only indictment and a scheduled arraignment are known.
   - The outcome of the 1 September 2026 arraignment and any later court steps are not yet known.
-  - No verified photo or video of this event could be listed; the pages' video or lead image could not be confirmed to show this operation, so no media entry is added.
 ---
 
 A federal grand jury in Las Vegas returned a 10-count indictment charging six

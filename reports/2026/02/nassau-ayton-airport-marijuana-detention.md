@@ -52,10 +52,8 @@ open_questions:
   - People reports only that Ayton was detained by "authorities" and does not say who carried out the detention, apart from noting the Royal Bahamas Police Force did not respond to its questions.
   - People gives no weight for the suspected marijuana beyond "very small amount" and "small amount".
   - People says neither Ayton's lawyer nor the Royal Bahamas Police Force immediately responded to its requests for comment, and names Reuters as the source of its account of the airport incident.
-  - TMZ says the search of Ayton's possessions for marijuana came up empty, while the existing report notes Reuters reported he was found with the drug; the dispute over whether marijuana was in his bag remains unresolved.
   - TMZ gives no weight for the suspected marijuana.
   - TMZ is a single exclusive account, although it quotes both the Royal Bahamas Police Force's Central Division and Ayton's attorney.
-  - No photographs showing the detention or the search were published; the TMZ pictures are Getty images of Ayton, not of the airport incident, so no media are linked.
 ---
 
 Los Angeles Lakers center Deandre Ayton was detained and quickly released on

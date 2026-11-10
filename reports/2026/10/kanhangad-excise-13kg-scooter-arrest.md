@@ -56,7 +56,6 @@ open_questions:
   - Deshabhimani says the check was held 'last night' and Karaval Daily says Thursday evening; the exact time of the arrest was not published.
   - The Deshabhimani headline says 'about one and a half kilos' while its text and the other two reports give 1.300 kg; the report uses 1.3 kg.
   - No charge sheet, court appearance, sentence or estimated value for the 1.3 kg has been reported.
-  - The lead photograph on the Deshabhimani page did not load in the archived capture, and the other pages' images carry no caption identifying the scene, so no media is listed.
   - 'Left out, as its quotation was not found in Utharamalabar: Officers found 1.3 kg of cannabis in the scooter.'
 ---
 

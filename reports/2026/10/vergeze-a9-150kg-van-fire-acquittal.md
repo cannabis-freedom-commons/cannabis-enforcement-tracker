@@ -58,7 +58,6 @@ sources:
 open_questions:
   - The report dates the case to the 28 October 2026 acquittal in Nîmes; the van fire and seizure occurred on 25 October 2026.
   - The 150 kg figure is given as about or nearly 150 kg of resin found burning; no weighing method is reported.
-  - The source page carries a photo titled Gendarmerie with no caption establishing that it shows this van or seizure, so no media entry is added.
   - Part of the Objectif Sud article remains behind a subscription prompt, so additional hearing detail could not be read.
 ---
 

@@ -81,7 +81,6 @@ open_questions:
   - The seven are described only by nationality; no names, ages or defence statements were published.
   - The "more than one million euros" loss is the armed forces' estimate for the traffickers, not a separate cannabis street valuation.
   - The 2022 annual totals of one tonne of cannabis and 680 kg of cocaine cover other seizures and are excluded from this event's figures.
-  - The RCI page's own images are a generic placeholder and unrelated thumbnails, so no media is taken from it.
   - LINFO.re attributes much of its account to France-Antilles and reproduces the same prosecutor's statement, so it is not independent reporting.
   - 'Left out, as its quotation was not found in Cols bleus – Marine nationale: As the frigate''s Panther helicopter approached, the seven people aboard threw bales into the sea before stopping, and nine of the bales were recovered and tested positive for cannabis.'
   - 'Left out, as its quotation was not found in France-Antilles Martinique: The investigation was entrusted to OFAST officers by the Fort-de-France public prosecutor and the city''s specialised inter-regional jurisdiction (JIRS).'

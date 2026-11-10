@@ -58,7 +58,6 @@ open_questions:
   - The articles give no separate date for the searches and detention; 3 July 2025 is the publication date and is used as the incident date.
   - The sources do not break down the 700,000-lei value between cannabis and hashish.
   - The contents of the seized phone and any later charge or court outcome were not reported.
-  - No photo could be confirmed from captions or credits to show this seizure, so no media entry is included.
 ---
 
 Officers of the INI organized-crime directorate, with the Ciocana

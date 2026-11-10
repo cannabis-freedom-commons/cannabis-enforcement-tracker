@@ -48,7 +48,6 @@ sources:
 open_questions:
   - Both outlets report the amount as 9,189kg of cannabis in an apartment backpack, which is implausible as kilograms and likely means grams; no weight is recorded rather than guess.
   - The trial lasted about three years after the 20 August 2011 arrest, but no appeal or execution outcome was reported in the opened sources.
-  - The Octopus News page shows a portrait presented as Obitube, not action from the arrest or court, so no media entry was added.
 ---
 
 The Shah Alam High Court sentenced 28-year-old Nigerian student Prince Bartholomew Obitube to death on 26 February 2014 after finding him guilty of trafficking cannabis. [@1,2] Obitube, a student at a private college in Kuala Lumpur, received the mandatory death sentence under the Dangerous Drugs Act. [@1,2]

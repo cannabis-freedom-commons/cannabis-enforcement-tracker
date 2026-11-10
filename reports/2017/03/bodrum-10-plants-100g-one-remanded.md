@@ -43,7 +43,6 @@ sources:
 open_questions:
   - The article gives no separate date for the raid; 28 March 2017 is its publication date and is used as the incident date.
   - Only one accessible account was opened, a Haber7 page reproducing an Anadolu Agency item, and no second independent report was found.
-  - The submitted page carries only a placeholder image captioned Bodrum'da uyuşturucu operasyonu, so no media entry is listed.
   - The suspects' full names were not published, only the initials M.U., A.A. and H.Ç.
   - No court outcome beyond the remand and the two releases was reported.
 ---

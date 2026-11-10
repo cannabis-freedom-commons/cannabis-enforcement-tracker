@@ -43,7 +43,6 @@ open_questions:
   - No charges, custody decision or court outcome were reported.
   - The article dates the operation to Tuesday the 3rd and was published on 03/11/2026; no separate time of day was given.
   - Only one accessible source for this event was found after searching in Portuguese.
-  - The page carries an image but without a caption establishing that it shows this seizure, so no media entry is included.
 ---
 
 Two people were taken to the 134th Police Station in Campos on Tuesday the 3rd

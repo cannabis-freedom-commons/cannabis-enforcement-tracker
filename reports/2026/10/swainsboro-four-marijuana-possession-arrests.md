@@ -49,7 +49,6 @@ open_questions:
   - The reports do not state whether the four were arrested together or in separate encounters on the same day.
   - The same jail list also contains five 29 October bookings for marijuana possession with intent to distribute alongside armed robbery and firearms charges, which are a separate event left out of this report.
   - No charges beyond the booking entries and no court outcome were reported.
-  - The Emanuel County Live page shows only a generic jail clipart image and its site logo, and the booking pages show mugshots, so no event photo is available and no media entry is included.
   - The jail list was published on 4 November 2026; 27 October 2026 from the arrest entries is used as the incident date.
   - Only booking records could be opened for this event; no independent news account of the arrests was found.
 ---

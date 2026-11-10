@@ -109,7 +109,6 @@ open_questions:
   - The page's lead photograph is captioned only that two accused were arrested with 60,000 rupees of ganja, with no credit and no visible description of the packets, so it could not be confirmed to show this seizure.
   - Neither new account gives a separate bag count or further cash beyond the four packets and 500 rupees already described.
   - Grand News names only Kumhar and does not give the NDPS sections or crime number, and its text closely follows the same police handout as other outlets, so it is not an independent account.
-  - The Grand News page's only news image is uncaptioned and uncredited and is not shown to depict this seizure, so no media entry is supported from it.
   - Hindusthan Samachar does not say where Binjkot or Darramuda lie within Raigarh district, so the coordinates stay at the district centre.
   - The Dainik Bhaskar capture stops after the first paragraph at the page's app paywall, so its full detail on the search, arrests and court step could not be read; only the opening paragraph and headline were available.
   - The Bhaskar headline gives the ganja as worth 60,000 rupees but no weight, and the readable text gives no cash figure, so neither supports a change to the report's 4.110 kg and 500 rupees.

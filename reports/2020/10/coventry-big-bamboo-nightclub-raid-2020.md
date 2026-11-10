@@ -53,7 +53,6 @@ open_questions:
   - Both accounts give the plant count only as around 1,000, so the figure is approximate.
   - The two men remanded to Warwick Crown Court on 12 November 2020 have no reported outcome in the opened sources.
   - The European Arrest Warrant matter for the third man, wanted by Germany, has no reported outcome.
-  - The NCA release carries a photo of the seizure that could not be verified against the event, so no media entry was added.
 ---
 
 National Crime Agency officers raided a former nightclub on Trinity Street, Coventry, on Thursday 15 October 2020, smashing through several reinforced doors to reach the grow. [@1,2] Inside they found around 1,000 cannabis plants spread across the building's three floors, which NCA experts valued at more than £1 million. [@1,2] Officers also recovered sophisticated planting, growing and irrigation equipment valued at around £150,000. [@1,2]

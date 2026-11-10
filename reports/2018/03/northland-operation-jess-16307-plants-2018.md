@@ -41,7 +41,6 @@ tags: [operation-jess, aerial-eradication]
 open_questions:
   - 28 March 2018 is the national results announcement; the Northland field phase ran from mid-January to mid-March and its plant tally comes from the later annual report.
   - The opened sources give no arrest figure for Northland alone; the national operation reported 205 arrests.
-  - The article's illustration looked like generic stock rather than this operation, so no media entry was added.
 sources:
   - title: The weed capital of Aotearoa has been revealed!
     url: https://www.flava.co.nz/the-latest/the-weed-capital-of-aotearoa-has-been-revealed/

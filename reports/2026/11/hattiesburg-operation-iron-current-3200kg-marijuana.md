@@ -137,7 +137,6 @@ open_questions:
   - The page gives no weight, place or date for the marijuana beyond the totals already recorded, and no arrests or charges are mentioned.
   - This is another syndicated copy of the TNND national-desk article, not independent reporting; its only photo is the ICE handout already listed in the report.
   - This is another syndicated copy of the TNND national-desk article, not independent reporting, and repeats the existing discrepancy between ICE's product breakdown and the 6,300 kg combined total.
-  - The page's only image is an ICE logo, not a photo of the interception or seizure, so no media entry is listed.
   - The article also describes a separate Mississippi case with fentanyl pills, methamphetamine and 73-year sentences, which belongs to a different event and is left out here.
 ---
 

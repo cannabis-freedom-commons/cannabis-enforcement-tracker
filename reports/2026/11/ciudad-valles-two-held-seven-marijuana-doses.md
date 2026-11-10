@@ -45,7 +45,6 @@ open_questions:
   - Cristal quantities and the 10.6 grams of crystal-like substance are excluded from cannabis figures; the Matehuala-Buenavista detention of José Ildefonso “N”, involving only a crystal-like substance, is left out as a separate non-cannabis incident published in the same roundup.
   - The reports give no separate date for the patrols; 3 November 2026 is the El Exprés publication date used as the incident date, while Pulso published the same roundup on 4 November 2026.
   - El Exprés confirms bags of herb with marijuana characteristics without giving a dose count, so the report uses Pulso’s figure of about seven marijuana doses.
-  - Pulso’s lead image is captioned only with the headline and El Exprés/Frontal images carry no caption tying them to this seizure, so no media entry is included.
 ---
 
 Guardia Civil Estatal officers detained Marco “N”, 25, and Ramón “N”, 20, in

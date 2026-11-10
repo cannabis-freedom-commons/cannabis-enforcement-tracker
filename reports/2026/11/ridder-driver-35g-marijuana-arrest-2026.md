@@ -96,9 +96,7 @@ open_questions:
   - Left out arrested, as no supporting quotation was given.
   - Left out kg seized, as no supporting quotation was given.
   - YK.KZ credits its video to the East Kazakhstan Region police department; the page's own illustration is credited to pixabay.com and is not linked.
-  - The 365info.kz page carries a publication timestamp of 8 November 2026, a day after the existing report's 7 November 2026 date; neither page gives a separate date for the stop itself.
   - The page carries two photos credited to Polisia.kz whose captions repeat only the article title, so their exact depicted content was not established and no photo is linked.
-  - Kazlenta.kz gives no separate date for the stop; 7 November 2026 is its own publication date, matching the existing report's incident date.
   - The Kazlenta.kz page is a reprint of the Polisia.kz statement in the same wording and adds no facts, charge or court outcome.
 ---
 

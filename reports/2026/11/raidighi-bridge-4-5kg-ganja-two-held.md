@@ -49,7 +49,6 @@ open_questions:
   - No court outcome, charges filed, or custody decision had been reported at publication; police were preparing to produce the men before a court.
   - 'The same Bartaman Patrika article bundles separate enforcement actions left out here: a New Barrackpore Leninagar house search with over 10 kg of ganja, cash and two arrests; a Sunday Raidighi Golpark seizure of about 3 kg of ganja; a Kakdwip seizure of 16 g of heroin-like substance with 97 packets and one woman arrested; and the Sundarban superintendent''s total of six arrests in the drive week.'
   - No police valuation, plant count or cultivated area for this Raidighi seizure was published, so no value or other figures are recorded; seized cash and heroin-like weights from other raids are not counted as cannabis.
-  - 'No verifiable photo of this Raidighi seizure could be listed: the submitted page''s main image carries a generic caption and an October file date predating the raid, and the second page''s images were placeholders, so no media entry is included.'
   - Only two accessible Bengali sources for this Raidighi seizure were opened; no agency statement was found.
   - 'Left out, as its quotation was not found in Naya Bharat: Questioning Mallik led police to Bhaskar Naskar of the Kankandighi area, described as a Trinamool Congress booth president involved in the same drug ring.'
   - 'Left out, as its quotation was not found in Naya Bharat: Raidighi is in South 24 Parganas.'

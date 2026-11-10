@@ -61,7 +61,6 @@ open_questions:
   - 'Left out, as its quotation was not found in Le Quotidien: Balto confirmed a second hiding place holding four more kilos, bringing the total seizure to 42 kilos.'
   - 'Left out, as its quotation was not found in Virgule: The investigation into where the shipment came from and who was to receive it is continuing.'
   - 'Left out, as its quotation was not found in Le Quotidien: Le Quotidien reported that the 42 kilos were one of two lorry seizures of cannabis announced by customs that Thursday.'
-  - RTL calls the lorry check routine while the existing report describes a targeted truck check.
 ---
 
 Examining the load, the officers noticed a suspicious structure in X-ray images

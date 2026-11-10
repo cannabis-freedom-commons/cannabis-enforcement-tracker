@@ -51,7 +51,6 @@ open_questions:
   - The detained man was not named, no age of charge or article was given, and no custody measure or court outcome was reported.
   - The Minsk Region resident's town or district was not named, so the place is recorded at region level.
   - Both accounts republish the GUVD Mingorispolkoma statement carried by BelTA, so they are not fully independent.
-  - The sb.by page images are captioned as illustrative archive photos and the Tsargrad photo is a generic outlet illustration, so no media entry is included.
 ---
 
 Officers detained a 56-year-old Minsk Region resident who had fitted out a room

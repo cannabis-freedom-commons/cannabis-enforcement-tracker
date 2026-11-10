@@ -56,12 +56,8 @@ open_questions:
   - The article gives no separate date for the raid; 2 November 2026 is its publication date used as the incident date.
   - The names, ages and further personal details of the two accused were not published.
   - No second report of this Mihona seizure was found in English or Hindi searches.
-  - The page carries a lead photo captioned only with the headline, which does not establish that it shows this seizure, so no media entry is added.
   - The origin of the marijuana, its intended destination and any court outcome after the NDPS cases were registered are not yet reported.
-  - Swaraj Vani reports a total of 1 kilo 250 grams with 1 kilogram from one accused, while both Cliff News accounts report 1 kilogram and 108 grams from the first accused for a total of 1.358 kg; the existing report uses 1.358 kg.
   - The submitted Cliff News page is dated 3 November 2026 while the existing Cliff News account and Swaraj Vani are dated 2 November 2026; no separate raid date is given beyond publication dates.
-  - The submitted page spells the village as Achalpur while the existing report and Swaraj Vani use Achalpura for the same Mihona event.
-  - No media entry is added because the Cliff News lead image is captioned only with the headline and the Swaraj Vani image and video captions do not establish that they show this seizure.
 ---
 
 Mihona police in Bhind district arrested two alleged marijuana smugglers at two

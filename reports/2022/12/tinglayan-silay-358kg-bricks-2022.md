@@ -57,7 +57,6 @@ open_questions:
   - The 358 kilos is a police estimate for material recovered in nine sacks, not a laboratory-measured weight.
   - The accounts describe the marijuana as 'alleged' and say it was sent to the Kalinga forensic unit; no test result was published.
   - The Inquirer says police responded to the tip to arrest the couriers, while Guru Press says officers found the sacks already stockpiled and waited nearby; both agree nobody came for them and no one was arrested.
-  - The submitted page's only image is an Inquirer file photo captioned for an unrelated Kalinga story, so no media entry is given; the Guru Press page photo could not be confirmed from its caption to show the seizure.
   - The Manila Bulletin account of the same seizure, which itemised the contents of the sacks, could not be opened because the site returned an access error, so its breakdown is not used.
 ---
 

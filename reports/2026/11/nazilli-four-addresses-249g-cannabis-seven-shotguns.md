@@ -54,7 +54,6 @@ open_questions:
   - The two accounts restate the same provincial gendarmerie statement, so the figures are not independently corroborated.
   - No estimated street value was published for the 249 grams of cannabis or the shotguns.
   - Haberler credits its text to İhlas Haber Ajansı, and the same story was republished by dozens of sites, so the outlets are not separate reporting.
-  - The page photo, captioned only with the headline, shows the back of a gendarmerie officer and is not established to show the seizure, so no media entry is included.
   - The digital devices were seized but neither report says what they contained.
   - 'Left out, as its quotation was not found in Aydın Ses Gazetesi: Officers also seized digital devices belonging to the suspects for examination.'
 ---

@@ -50,7 +50,6 @@ open_questions:
   - Sept. 29 is the date the search warrants were executed and Oct. 8 the announcement date; no separate arrest day is stated.
   - The amount of cash seized was not disclosed.
   - No further details about the seized firearms were released, and the published charge lists name only drug-related counts.
-  - 'No media entry is added: the FOX8 lead image is a Getty stock photo and the other pages'' images could not be verified as showing this seizure.'
 ---
 
 Greensboro police arrested two men in connection with a narcotics investigation.

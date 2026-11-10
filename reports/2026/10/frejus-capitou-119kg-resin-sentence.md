@@ -56,8 +56,6 @@ open_questions:
     the driver or give his exact age beyond calling him a retired lorry driver in his sixties.
   - He said he was left the car in Montpellier with a Spanish phone for directions; organisers and
     destination are not identified.
-  - ActuFDO cites a customs photo of a similar cache, not necessarily this vehicle, so no media is
-    listed.
 ---
 
 On the afternoon of 17 August 2026, customs officers at the Capitou toll on

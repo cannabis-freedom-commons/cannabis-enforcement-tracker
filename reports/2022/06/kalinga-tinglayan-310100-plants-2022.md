@@ -65,7 +65,6 @@ open_questions:
   - GMA News gives about 310,000 plants on 26,000 square metres while the Inquirer gives 310,100 on 25,950 square metres; the report keeps the Inquirer's figures.
   - The Inquirer page describes the site as 'Kalinga, Benguet province'; Kalinga is a separate province from Benguet, and Tinglayan is in Kalinga.
   - No charges, follow-up investigation results or identification of cultivators or landowners were reported.
-  - The submitted page's photograph is captioned only as PDEA agents uprooting plants in Kalinga, but the same image is stored in an August 2021 upload folder and appeared in an August 2021 report, so it is not confirmed to show this June 2022 operation and no media entry is made.
   - The PNP Public Information Office's own Facebook statement could not be opened and the Manila Bulletin account could not be accessed, so the police statement is known only through the three news reports cited.
   - The article also mentions a separate Benguet eradication worth P848,000 earlier in June 2022; that is a different event and is not covered here.
 ---

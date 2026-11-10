@@ -50,7 +50,6 @@ open_questions:
   - The authorities gave no exact date for the seizure; 21 September 2025 is the publication date of the two accounts used here.
   - No arrests, charges, custody decisions or court outcomes were reported for the family at whose home the plants were found.
   - No weight, area, value or destruction method for the 80 plants was published.
-  - The Réunion La 1ère photo is captioned as an illustration from the Réunion gendarmerie and is not established to show this seizure, so no media entry is included.
 ---
 
 Gendarmes of the autonomous territorial brigade of La Possession seized 80 zamal

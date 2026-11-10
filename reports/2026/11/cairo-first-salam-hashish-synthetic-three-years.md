@@ -47,7 +47,6 @@ open_questions:
   - No weight was published for the hashish portion, so no cannabis kilograms can be recorded; the 101.34-gram and 78.50-gram weights refer to the indazole-carboxamide synthetic drug and are excluded from cannabis figures.
   - The article gives no separate date for the verdict; 4 November 2026 is its publication date and is used as the incident date, while 20 February 2026 is the alleged offence date.
   - Only one accessible source for this event was found after searching in Arabic.
-  - The page image is captioned as an archival image and is not established to show this arrest, seizure or hearing, so no media entry is included.
   - No amount was published for the phenethylamine-derivative component, which is excluded from cannabis figures.
 ---
 

@@ -48,7 +48,6 @@ sources:
 open_questions:
   - No exact weight beyond more than one tonne was published, so no cannabis kilograms are recorded.
   - The detained driver's identity, the contents of the custody decision and any charge or court outcome were not reported.
-  - 'No event-specific photograph was available: the La Dépêche page uses an archive customs-check photo and the 20 Minutes page labels its image as an illustration, so no media entry is included.'
   - The same articles mention a 23 March cocaine interception at the Vienne toll on the A7; that is a different event and is left out here.
 ---
 

@@ -66,7 +66,6 @@ open_questions:
   - No figure for the area of the four fields, and no statement on whether the seized plants were destroyed, was published.
   - No court outcome beyond the two arrested men's scheduled production on 31 October was reported.
   - Only one source, The Times of India, could be found for the four-farm operation.
-  - The page carried no photograph of the raids; its article image is a generic thumbnail used across the site, so no media is linked.
   - MP Breaking News gives 1,105 kg, valued at about 1 crore 24 lakh rupees, from three station areas, with two arrests and one person absconding, and does not mention the Dharampuri farm already in this report; the itemised Times of India totals are kept.
   - The page gives no separate date for the raids; 30 October 2026 is its publication date.
   - Its only photo is captioned “Dhar News” and does not show that it is this seizure, so it is not linked. A video file is named in page metadata but was not verified as footage of the raids.

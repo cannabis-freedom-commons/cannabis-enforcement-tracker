@@ -68,7 +68,6 @@ open_questions:
   - No court outcome or bond information was published, and the charges remain allegations.
   - Both accounts rely on the Bibb County Sheriff's Office release, which was not opened directly on the agency's own site.
   - The 41NBC page photo is captioned only Shooting and appears to be a generic image, so it is not listed as media showing this operation.
-  - This account gives more than 800 grams of marijuana at the 800 block of A Street, while the existing report records separate 346-gram and 458-gram amounts from other coverage of the same release.
   - The full 13WMAZ original returned an access error and only its MSN syndication could be read.
   - The account text ends after the second residence, so the report's details on the other three addresses come from other outlets.
 ---

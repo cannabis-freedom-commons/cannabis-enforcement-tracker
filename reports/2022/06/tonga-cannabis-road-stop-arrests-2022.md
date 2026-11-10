@@ -35,7 +35,6 @@ sources:
     publisher: Matangi Tonga
     date: 2022-06-09
 open_questions:
-  - The submitted page is behind a subscription notice and shows only its lead sentence, so no weight, place, ages, court date or charge wording could be quoted from the opened capture.
   - No independent report of the road-stop was found; the only account is the Tonga Police statement as published by Matangi Tonga.
   - No court outcome or later step in the case was found.
   - No figure for the cannabis weight, the number of plants or the area was given on the opened page.

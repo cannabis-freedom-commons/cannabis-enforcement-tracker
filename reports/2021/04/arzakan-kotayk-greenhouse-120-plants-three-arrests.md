@@ -63,7 +63,6 @@ open_questions:
   - The reports do not say whether the 2-gram and 32-gram samples were separate seizures; 34 grams is used as their combined weight.
   - The purpose of the seized flasks, syringe, inscribed container and buckets of liquid was not reported.
   - No court outcome, charge or penalty beyond suspicion of growing cannabis in an especially large amount was reported.
-  - The submitted page image caption only repeats the headline, so it is not established to show this seizure and no media entry is included.
 ---
 
 On 4 April 2021, officers searched a house in the village of Arzakan in Kotayk

@@ -67,8 +67,6 @@ open_questions:
   - No charges or court outcome have been reported yet.
   - Only one source for this event could be opened, so no second account confirms the details.
   - The incident date of 2 November 2026 rests on the article's reference to Monday morning (2) together with its 2 November 2026 publication date.
-  - 'The page carries a photo credited only as Foto: PRF with a file name referring to Operacao Finados, whose caption does not establish that it shows this seizure, so no media entry is included.'
-  - The SOT page carries a photo credited only as Divulgação whose caption does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Brazil's Federal Highway Police (PRF) arrested a 27-year-old man and a

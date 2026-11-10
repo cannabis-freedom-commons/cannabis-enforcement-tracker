@@ -45,7 +45,6 @@ sources:
     language: el
 open_questions:
   - No charges, custody outcome or court step were reported.
-  - The only image supplied is captioned as a generic image from Google and does not show this event, so no media entry is included.
 ---
 
 On the afternoon of 7 November 2026, officers of the Kalamata drug prosecution

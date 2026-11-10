@@ -42,7 +42,6 @@ open_questions:
   - The incident date uses the February 20 arraignment; the exact search-warrant date was reported only as the next day after the January controlled buy.
   - No court outcome beyond arraignment and release on 40,000 dollars unsecured bail was reported.
   - Only one accessible source for this event was opened after web searches found no second account or agency statement.
-  - The page image is a Getty stock illustration of a gummy, not this seizure, so no media entry is included.
   - The legal status of Delta 8 in Pennsylvania was described as unclear, with federal legality and a state hemp-derivatives exception noted, and that ambiguity remains unresolved.
 ---
 

@@ -53,7 +53,6 @@ open_questions:
   - No plant count was published; 120 tons is the army's estimated yield, not a weighed seizure.
   - The army's claim that this was the largest plantation ever detected in Mexico was disputed in contemporary coverage, which cited an expert pointing to the bigger 1984 El Bufalo find.
   - What happened to the 58 detained people after the raid was not reported.
-  - No photo of the operation with a recoverable address was found, so no media entry was added.
 ---
 
 The soldiers who walked into what looked like a tomato field in the desert near El Rosario, Baja California, on 12 July 2011 found about 120 hectares of marijuana instead. [@1] The plot covered nearly 300 acres more than 150 miles south of Tijuana, and the army presented it as the largest marijuana plantation ever detected in Mexico. [@1,2]

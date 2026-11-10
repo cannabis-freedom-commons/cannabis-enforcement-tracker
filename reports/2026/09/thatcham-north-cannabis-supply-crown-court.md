@@ -40,7 +40,6 @@ open_questions:
   - No charges were formally read out as a plea, and the crown court hearing date and any plea are unknown.
   - Whether the cannabis charge relates to a particular quantity or location was not reported beyond Thatcham on 5 March 2026.
   - Only one source, a local court report, could be opened; no separate account or police statement was found.
-  - The page's only photo shows the Reading Magistrates' Court building, not this defendant or the alleged offences, so no media entry is included.
 ---
 
 Brandon North, 18, of Park Avenue in Thatcham, appeared in the dock at Reading

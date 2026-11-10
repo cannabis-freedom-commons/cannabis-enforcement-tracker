@@ -46,7 +46,6 @@ open_questions:
   - No weight or value for the marijuana products seized at Club Kali was published.
   - Arrests at the second raided club, AIRAM, were not confirmed in the opened sources.
   - Whether all 49 ordered closures were enforced was not confirmed in the opened sources.
-  - No photograph verified as showing these raids was recovered, so no media is listed.
 ---
 
 On the evening of 10 July 2014, dozens of riot-gear officers with guns drawn and drug-sniffing dogs stormed Club Kali, a quasi-legal cannabis club south of Barcelona, holding members at gunpoint for two hours. [@1] Police seized all of the club's marijuana products and arrested six people, the president, vice president, treasurer, doorman and two gardeners, on money laundering and public-health charges. [@1] The next day police raided a second club, the Associacio Independent Recreativa de Autoconsum i Medicinal (AIRAM) in Barcelona. [@1]

@@ -44,7 +44,6 @@ open_questions:
   - The article reports no drug-test method or laboratory result confirming impairment.
   - The year of the Dec. 17 court date was not stated.
   - Only one account of this stop, based on an OPP statement, could be opened.
-  - The page's only picture is a generic stock photo credited to Unsplash, not confirmed to show this event, so no media entry is included.
 ---
 
 Grey Bruce Ontario Provincial Police charged a Mississauga resident with

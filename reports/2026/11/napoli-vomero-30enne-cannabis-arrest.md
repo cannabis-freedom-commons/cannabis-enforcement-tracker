@@ -75,9 +75,6 @@ open_questions:
   - No weight was given for the cannabis flowers in the two jars, so the recorded 0.444 kg covers only the weighed 150-gram and 200-gram marijuana packets and the 94-gram hashish block.
   - The man's full name was not published, only that he is 30 years old.
   - No court outcome was reported; he was in custody awaiting trial.
-  - The submitted page's lead picture is a 2016-upload cannabis image with a generic caption alongside advertising images, and the second page's image is a generic night-time Carabinieri photo, so neither is established to show this seizure and no media entry is included.
-  - The page's lead image is labeled as a file photo ("Foto di repertorio") and its file name refers to a different Castellammare case, so it is not established to show this seizure and no media entry is included.
-  - The submitted page's picture caption only repeats the headline and does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Carabinieri from the Naples Vomero station went to a 30-year-old man's home to

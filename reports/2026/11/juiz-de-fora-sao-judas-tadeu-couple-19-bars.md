@@ -88,7 +88,6 @@ open_questions:
   - The Estado de Minas account says the drugs were thrown from the balcony (varanda), while the Rádio 93 FM account says they were thrown from the apartment window (janela).
   - The Estado de Minas account places the arrest in the afternoon and records the occurrence at about 18h25, while the Rádio 93 FM account describes the arrest on Wednesday night.
   - Vertentes das Gerais credits Hoje em Dia, an outlet the report already cites, so this account repeats rather than independently reports the Military Police version.
-  - The article's featured photo of the case is uncaptioned and carries no credit, so it is not confirmed to show this seizure and no media entry is added.
   - Vertentes das Gerais dates the arrest to the Wednesday night and gives no time for the police approach.
   - This account dates the apprehension to the night of Wednesday 4 November, while the Estado de Minas account cited in the report places the arrest in the afternoon with the occurrence recorded at about 18h25.
   - No weight was published for the 19 bars in this account either, so no kilograms can be added.

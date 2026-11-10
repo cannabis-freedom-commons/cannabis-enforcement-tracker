@@ -75,8 +75,6 @@ open_questions:
   - The cash figure of 9,000 pesos is given by Hoy Canelones only, while Teledoce says money in small notes was seized without an amount.
   - Telenoche gives the distance from Canelones city as 17 kilometres, while Hoy Canelones says 16; coordinates are those of the Villa Arejo locality, not the exact searched properties.
   - The Telenoche article was read in the Wayback Machine capture of 30 November 2020 because the live page refused access.
-  - The Subrayado page carries a gallery image captioned only allanamiento.jpg, with no caption or credit saying which of the four properties it shows, so no media entry is added.
-  - Hoy Canelones labels its lead picture Archivo and its gallery files are generic numbering; no caption confirms they show these properties, so no media entry is added.
 ---
 
 Canelones police detained three people in the operation they called Operativo

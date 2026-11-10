@@ -64,13 +64,10 @@ open_questions:
   - The article does not say where the ganja was being taken from or to.
   - No value for the 110 kg of ganja was published.
   - No arrest was reported and no court step was recorded; police said a search was under way for those who fled.
-  - The page's lead picture is credited only as an AI-generated image (AIimage) showing a man beside a car with its bonnet open, so it is not a photograph of this seizure and no media entry is made.
   - Disha Daily says the occupants fled and police were searching for them, while Hindusthan Samachar says police identified the gang and took its members into custody without giving a number; the tracker keeps no arrest figure.
   - Neither new account gives a count of suspects, their names, ages or charges beyond a case being registered.
   - Hindusthan Samachar says the value of the seized ganja was still to be assessed, and Disha Daily gives no value.
   - The article gives a combined value of over Rs 80 lakh for both seizures without a separate breakdown, so no separate value is added to this report.
-  - The page lists one image captioned with the seizure headline, but its file path is under an August 2026 media folder and it cannot be confirmed to show this event, so no media entry is made.
-  - The article is a roundup of two distinct seizures in different districts; the Ghatkesar half is handled as a cross-update to its existing report rather than merged here.
 media:
   - kind: photo
     url: https://www.dishadaily.com/telangana/cannabis-gang-arrested-in-suryapet-599278

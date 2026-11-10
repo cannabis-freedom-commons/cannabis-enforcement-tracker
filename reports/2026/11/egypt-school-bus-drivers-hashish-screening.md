@@ -181,9 +181,6 @@ open_questions:
     The 26 October count of 21 hashish referrals is an earlier total for the same screening, not a separate group to add
     to the 28.
   - The three tramadol cases in the later total are not cannabis and are not included in the charged figure.
-  - >-
-    The outlets reproduce the fund's statements. The pages' pictures are portraits or graphics, not photographs of the
-    screening, so no media is listed.
   - The fund's warning signs describe suspected drug use in general, not hashish specifically.
 ---
 

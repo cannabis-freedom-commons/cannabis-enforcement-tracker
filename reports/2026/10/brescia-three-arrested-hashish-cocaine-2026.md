@@ -41,7 +41,6 @@ open_questions:
   - The reported 2,310 euros covers cocaine and hashish dealing together and cannot be separated, so no cannabis-only value is recorded.
   - Cocaine amounts totalling 60 grams are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - Only one accessible source for this event was found; no second outlet or agency reprint confirming it could be opened.
-  - The page image captioned Polizia di Stato arresta 3 giovani is a generic Squadra Mobile photo not established to show this seizure, so no media entry is included.
 ---
 
 Brescia Mobile Squad investigators arrested two Brescia residents aged 19 and 17

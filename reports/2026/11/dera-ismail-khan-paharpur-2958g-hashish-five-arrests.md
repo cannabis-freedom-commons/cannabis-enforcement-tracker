@@ -42,7 +42,6 @@ open_questions:
   - The article gives only the combined 2,958-gram total and does not say how it was divided among the suspects.
   - No court outcome beyond registration of cases, jailing of the accused and continuing investigation was reported.
   - Only one account of this event could be opened, so no corroborating second source is cited.
-  - No verifiable photo of this event was available, so no media entry is listed.
 ---
 
 Dera District police arrested five suspects in separate operations against

@@ -41,8 +41,6 @@ open_questions:
   - The map marks Bengaluru city; the arrests were by R T Nagar, Electronic City and Banaswadi police in separate operations without a single shared address.
   - The suppliers in and outside Karnataka whom the accused named have not been traced or identified in the reports.
   - The Rs 6.52 lakh seized value and Rs 13.04 lakh estimated market value cover ganja and MDMA together and cannot be separated into a cannabis-only value.
-  - The page carries a lead image dated 14 September 2025 whose caption repeats the headline, so whether it shows this seizure could not be established and no media entry is added.
-  - The operations occurred on different dates that are not individually dated; 29 October 2026 is the publication and police-statement date used by the existing report.
 sources:
   - title: Bengaluru police arrest six in drug bust, seize ganja and MDMA worth Rs 6.52 lakh
     url: https://sahilonline.org/bengaluru-police-arrest-six-in-drug-bust-seize-ganja-and-mdma-worth-rs652-lakh

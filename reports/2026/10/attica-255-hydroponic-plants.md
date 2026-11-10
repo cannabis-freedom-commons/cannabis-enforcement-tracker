@@ -46,11 +46,6 @@ tags: [attica, daoe, hydroponic, skunk]
 open_questions:
   - The exact street address of the grow apartment was not published.
   - The €200,000 figure is police's estimate of potential proceeds from plants, cuttings and related sales.
-  - The new source says Monday afternoon while the existing report says midday for the 19 October operation.
-  - The new source does not mention nationalities or Loutsa, while the existing report identifies two suspects as Albanian nationals and the car stop near Loutsa.
-  - The new source says large bags with 27 kilograms in the car and 27.6 kilograms in total, while the existing report says two black bags with 27.6 kilograms in total.
-  - The new source says profits of about €200,000 while the existing report says more than €200,000.
-  - The page lead image is captioned as general marijuana plants and appears to be stock, so no media entry is added.
 sources:
   - title: >-
       Εντοπίστηκε εργαστήριο υδροπονικής κάνναβης στην Αττική με 255 δενδρύλλια -

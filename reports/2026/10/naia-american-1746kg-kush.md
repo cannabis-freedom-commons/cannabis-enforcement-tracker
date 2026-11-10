@@ -199,10 +199,6 @@ open_questions:
     seizure, so it was not added.
   - No full Philippine Star article of this arrest could be opened; the Facebook post is the Star text used.
   - >-
-    The Chronicle attributes the interception, bag inspection and valuation to the Bureau of Customs, while
-    the existing report's Daily Tribune account attributes the weight and street value to PDEA; both give 15
-    packages and 17,464 grams.
-  - >-
     The article also reports the separate 26 October seizure of 7,335 grams and a combined four-day total of
     about 24.8 kilograms, left to that event's report.
   - The Chronicle's photo carries no credit line identifying it as this seizure.
@@ -214,49 +210,11 @@ open_questions:
     Manila Standard credits the PNP Aviation Security Group with announcing the arrest, while the report's
     lead attributes the account to PDEA; both agencies were part of the NAIA interdiction task group.
   - >-
-    The submitted page's only picture is a generic handcuff stock image from 2025, not a photograph of the
-    seizure, so no media entry was added for it.
-  - >-
     The post repeats the opening of the Philstar.com article the report already cites, so it corroborates that
     account rather than independently confirming it.
   - >-
-    The PTV News photo is credited to the Bureau of Customs and appears to show the same BOC seizure handout
-    already cited in the report, so no new media entry is added.
-  - >-
-    The same article also reports the separate 26 October seizure of 7,335 grams from abandoned luggage at the
-    same terminal, which belongs to the existing report manila-naia-7335g-kush-luggage and is left out here.
-  - >-
-    The submitted article also describes the separate 26 October seizure of 7,335 grams from unclaimed
-    luggage, which belongs to the existing report manila-naia-7335g-kush-luggage and is left out here.
-  - >-
-    The Newswav page carries an image without a caption or credit identifying it as this seizure, so no media
-    entry is added.
-  - >-
-    The submitted page is dated 3 November 2026 and describes a seizure over the weekend; the event date of 29
-    October 2026 rests on the existing report's earlier sources.
-  - >-
-    The submitted page does not state the suspect's age or alias, so those details continue to rest on the
-    existing report's earlier sources.
-  - >-
-    The submitted page also describes the separate 26 October interception of 7,335 grams from abandoned
-    luggage at NAIA Terminal 3, which belongs to the existing report manila-naia-7335g-kush-luggage and is
-    left out here.
-  - >-
-    The page's social image address is available in metadata but no caption or credit in the opened text
-    establishes that it shows this seizure, so no media entry is added.
-  - >-
     The Journal account describes the passenger only as a male American or foreigner and gives no age or
     alias, so the reported age of 62 and the alias Henry continue to rest on the report's earlier sources.
-  - >-
-    The Journal account also describes the separate 26 October seizure of 7,335 grams from abandoned baggage
-    at the same terminal and the combined four-day total of 24.8 kg, which belong to the existing report
-    manila-naia-7335g-kush-luggage and are left out here.
-  - >-
-    The page carries a photo captioned American with kush, but the opened text gives no credit or confirmation
-    that it shows this seizure, so no media entry is included.
-  - >-
-    The Bureau of Customs released a photograph of the seized kush, but its direct image address could not be
-    recovered from the opened pages, so no media entry is made.
   - >-
     The same bureau release describes 7,335 grams of suspected kush found in abandoned luggage from Bangkok at
     the same terminal on 26 October, a separate event left out of this report.

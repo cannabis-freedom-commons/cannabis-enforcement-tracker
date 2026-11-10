@@ -55,9 +55,7 @@ open_questions:
   - The plants were described only as believed to be marijuana, with no laboratory confirmation reported.
   - The suspected Schedule II and Schedule III substances were not identified by type or weight, so they are excluded from the cannabis figures.
   - No court outcome beyond the charges was reported.
-  - The submitted page carries an image file without a caption or credit, so whether it shows this seizure could not be established and no media entry is added.
   - The second outlet's page attributes photos to the Franklin County Sheriff's Office, but their direct media addresses were not recovered from the opened text, so they are not listed as media.
-  - The page carries two Franklin County Sheriff's Office photos captioned only as the Hickory Grove Road search, without describing what each shows, so no media entry is added.
 ---
 
 Franklin County sheriff's deputies arrested Gary Crain after searching his home

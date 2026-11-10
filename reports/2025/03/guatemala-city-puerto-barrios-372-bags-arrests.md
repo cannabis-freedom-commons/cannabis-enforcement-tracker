@@ -46,7 +46,6 @@ open_questions:
   - No separate date is given for the two searches; 27 March 2025 is both the police reporting date and the publication date, and is used as the incident date.
   - Seven cocaine colmillos were found with the zone 11 marijuana and are mentioned only to explain the mixed seizure; no cocaine weight can be separated, and it is not counted as cannabis.
   - The 915 quetzales were cash the authorities suspect came from drug sales, not a valuation of the marijuana, so no value figure is recorded.
-  - The photograph on the Prensa Latina page is credited only through a 2025 file image of drugs that does not identify this operation, so no media entry is included.
   - The articles give no charges, custody ruling or court outcome beyond referring Wendy “N” to a judge.
   - The same articles discuss MS-13 alliances and national consumption trends, which are context rather than part of this enforcement event.
 ---

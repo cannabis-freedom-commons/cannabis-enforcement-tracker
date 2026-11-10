@@ -51,7 +51,6 @@ open_questions:
   - The attorney general's release says 40 counties and more than 254 grow sites, while Merry Jane reports 39 counties and 254 grows; the report uses the official counts.
   - The release names no individual suspects or case outcomes among the 52 arrests.
   - The 110 seized weapons are mentioned in the text but the figures schema stores no weapon count.
-  - No photo confirmed to show a 2018 CAMP raid was available, so no media entry was added.
 ---
 
 On 4 October 2018 Attorney General Xavier Becerra announced that California's Campaign Against Marijuana Planting (CAMP) had eradicated 614,267 illegally grown cannabis plants during the 2018 season, in the largest illegal-grow eradication program in the nation. [@1,2] Agents raided more than 254 illegal grow sites across 40 counties over twelve weeks, arresting 52 people and seizing 110 weapons. [@1,2]

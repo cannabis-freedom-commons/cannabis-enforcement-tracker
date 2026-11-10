@@ -49,7 +49,6 @@ open_questions:
   - The suspect is not named and no age, nationality or other identifying details are given.
   - No charge, trial or court outcome is reported yet.
   - No second source for this event was found despite searches in Arabic and English.
-  - The page's Open Graph image lacks a caption or credit establishing that it shows this seizure, and the only listed source image is an advertising banner, so no media entry is included.
 ---
 
 Lebanese Army intelligence detained a suspected drug dealer in Jabal Mohsen

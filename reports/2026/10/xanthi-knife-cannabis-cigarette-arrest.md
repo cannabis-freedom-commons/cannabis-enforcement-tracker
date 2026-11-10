@@ -47,9 +47,7 @@ open_questions:
   - No name or age was published for the arrested man.
   - No charge, custody outcome or court result was reported.
   - Only one source could be opened; a second outlet page for the same arrest could not be opened.
-  - Whether the page image shows this seizure could not be established, so no media entry is added.
   - The publication date of the xronos.gr page was not found in the opened capture, so no source date is recorded.
-  - Whether the page image shows this seizure could not be established from its caption and credit, so no media entry is added.
 ---
 
 Officers of the Prevention and Mediation Group of the Xanthi Department for the
