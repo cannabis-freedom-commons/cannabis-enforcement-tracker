@@ -55,6 +55,9 @@ sources:
     url: https://www.maltatoday.com.mt/news/court_and_police/145614/man_arrested_at_airport_found_with_150_capsules_of_cannabis_resin_in_his_stomach
     publisher: MaltaToday
     date: 2026-11-10
+  - title: Man arrested at Malta International Airport over 1.5kg of cannabis resin capsules
+    url: https://www.independent.com.mt/articles/2026-11-10/local/Man-arrested-at-Malta-International-Airport-over-1-5kg-of-cannabis-resin-capsules-6736294501
+    publisher: The Malta Independent
 media:
   - kind: photo
     url: https://timesofmalta.com/article/man-arrested-caught-150-cannabis-resin-capsules-stomach.1136876
@@ -65,18 +68,18 @@ media:
 
 A 45-year-old Moroccan man was arrested at Malta International Airport after
 police found about 150 capsules containing suspected cannabis resin inside his
-stomach. [@1,2,3] Police put the capsules at roughly 1.5 kilograms of suspected
-cannabis resin, with an estimated street value of €30,000. [@1,2]
+stomach. [@1,2,3,4] Police put the capsules at roughly 1.5 kilograms of suspected
+cannabis resin, with an estimated street value of €30,000. [@1,2,4]
 
 Intelligence suggested the man, travelling from Morocco to Malta via Spain,
-could be part of an organised drug trafficking network. [@1,2,3] Officers checked
+could be part of an organised drug trafficking network. [@1,2,3,4] Officers checked
 passengers on a flight from Madrid that he was due to arrive on, and arrested
-him. [@1,2,3] He was taken to Mater Dei Hospital, where medical scans revealed the
-suspected drug-filled capsules in his stomach. [@1,2,3] The capsules, about 150 in
+him. [@1,2,3,4] He was taken to Mater Dei Hospital, where medical scans revealed the
+suspected drug-filled capsules in his stomach. [@1,2,3,4] The capsules, about 150 in
 all, were seized as allegedly intended for illegal importation into Malta. [@1]
 
 Magistrate Philip Galea Farrugia was informed and opened an inquiry, appointing
-experts to assist the investigation. [@1,2] The suspect was held at the police
+experts to assist the investigation. [@1,2,4] The suspect was held at the police
 lock-up, with his arraignment expected around noon on Tuesday before Magistrate
 Abigail Critien. [@1,2] Police said investigations into the suspected trafficking
 operation were ongoing. [@1]
