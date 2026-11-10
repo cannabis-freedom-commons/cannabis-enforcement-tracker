@@ -78,31 +78,29 @@ sources:
     publisher: WP Info
     date: 2026-11-10
     language: pl
-open_questions:
-    - The material was identified as marijuana in preliminary tests; no laboratory confirmation was reported.
-    - The weight is given as more than 170 kilograms, not an exact measured figure.
-    - No arrests were reported over the drug; only the driver was fined for the missing SENT reference number, and no charge against him over the marijuana was described.
-    - The black-market value above 3 million zlotys is an estimate by the services, not a figure established by testing.
-    - No court outcome or later step in the investigation was reported.
-    - All three accounts reproduce the same statement by the police Central Bureau of Investigation and Malopolska customs, so they are not independent reporting.
+  - title: У Польщі вилучили понад 170 кг марихуани з вантажівки з Іспанії — RMF24 | UA.NEWS
+    url: https://ua.news/ua/dovkolo-svitu/u-polshchi-viluchili-ponad-170-kg-marikhuani-z-vantazhivki-z-ispaniyi-rmf24
+    publisher: UA.NEWS
+    date: 2026-11-10
+    language: uk
 ---
 
 Officers of the National Revenue Administration and the Central Bureau of
 Investigation of the Police seized more than 170 kilograms of marijuana near
-Kostrzyn by Poznań. [@1,3] The drug was hidden beneath a layer of coal fines in a
+Kostrzyn by Poznań. [@1,3,5] The drug was hidden beneath a layer of coal fines in a
 truck carrying cargo from Spain to Poland. [@1,3,4]
 
 Officers stopped the truck for a routine inspection and found that the coal
 fines shipment had not been entered in the SENT register, which is mandatory for
-such cargo. [@2,3] The stop took place on 23 October 2026. [@4] In a detailed check of the load they found suspicious big-bag
+such cargo. [@2,3,5] The stop took place on 23 October 2026. [@4] In a detailed check of the load they found suspicious big-bag
 sacks holding 170 hermetically sealed packages of greenish-brown plant material
 under the coal fines. [@2,3] Preliminary tests confirmed that the seized material
-was marijuana. [@2,3,4]
+was marijuana. [@2,3,4,5]
 
 Krzysztof Wrześniowski, spokesperson for the Central Bureau of Investigation of
 the Police, said the way the packages were hidden was meant to make them hard to
 detect and required a thorough inspection of the cargo. [@2,3] The services
 estimated the black-market value of the marijuana at more than 3 million zlotys.
-[@2,3,4] The truck driver, a Polish citizen, was fined 5,000 zlotys for transporting
-goods without a SENT reference number. [@2,3] Further work in the case is being
-carried out by the Central Bureau of Investigation of the Police. [@2,3]
+[@2,3,4,5] The truck driver, a Polish citizen, was fined 5,000 zlotys for transporting
+goods without a SENT reference number. [@2,3,5] Further work in the case is being
+carried out by the Central Bureau of Investigation of the Police. [@2,3,5]
