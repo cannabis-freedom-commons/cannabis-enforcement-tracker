@@ -69,20 +69,25 @@ sources:
     publisher: ICI (Radio France)
     date: 2026-11-10
     language: fr
+  - title: 'Brive-la-Gaillarde : 440 kg de cannabis et plus de 440 000 euros saisis dans un trafic de faux CBD'
+    url: https://actu17.fr/faits-divers/brive-la-gaillarde-440-kg-de-cannabis-et-plus-de-440-000-euros-saisis-dans-un-trafic-de-faux-cbd.html
+    publisher: Actu17
+    date: 2026-11-10
+    language: fr
 ---
 
 A judicial operation was launched on 3 November 2026, run simultaneously in
-Corrèze and Saône-et-Loire, the Brive prosecutor's office said. [@1] Six people
-were detained during the operation. [@1,4] The searches led to the seizure of
-190.2 kg of cannabis resin and 253.9 kg of cannabis herb. [@1] Part of the resin
+Corrèze and Saône-et-Loire, the Brive prosecutor's office said. [@1,5] Six people
+were detained during the operation. [@1,4,5] The searches led to the seizure of
+190.2 kg of cannabis resin and 253.9 kg of cannabis herb. [@1,5] Part of the resin
 had been altered by adding THC X, a synthetic molecule presented as up to a
-thousand times more powerful than natural THC. [@1,4] Officers also seized 143,339
+thousand times more powerful than natural THC. [@1,4,5] Officers also seized 143,339
 euros in cash and froze 297,006 euros in bank accounts as criminal assets, along
 with a Jaguar estimated at 26,000 euros, four mobile phones and a laptop. [@1]
 Four suspects were placed under judicial supervision pending trial under the
 delayed immediate-appearance procedure; two others were summoned to the criminal
 court by a police officer, and the companies involved also face prosecution.
-[@1] Under their judicial supervision, the four suspects were barred from managing businesses, appearing in several locations, and contacting other individuals involved. [@4]
+[@1] Under their judicial supervision, the four suspects were barred from managing businesses, appearing in several locations, and contacting other individuals involved. [@4,5]
 
 The Brive police station ran the investigation with the GIR 87 interministerial
 research group, the departmental public finance directorate and the departmental
