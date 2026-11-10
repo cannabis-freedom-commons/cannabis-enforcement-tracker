@@ -54,17 +54,22 @@ sources:
     publisher: Сводка
     date: 2026-11-10
     language: ru
+  - title: В Ошской области задержали мужчину с 5 килограммами гашиша
+    url: https://open.kg/news/incidents/136697-v-oshskoj-oblasti-zaderzhali-muzhchinu-s-5-kilogrammami-gashisha.html
+    publisher: Open.kg
+    date: 2026-11-10
+    language: ru
 ---
 
 Officers of Kyrgyzstan's Service for Combating Illicit Drug Trafficking detained
-a man in Osh Region who is suspected of distributing drugs. [@1,2] Officers said
+a man in Osh Region who is suspected of distributing drugs. [@1,2,3] Officers said
 Afghan-origin hashish was found on the detainee, and they seized more than 5
-kilograms of it. [@1,2]
+kilograms of it. [@1,2,3]
 
 A criminal case was opened under article 282 of the Criminal Code, which covers
 illegal manufacture of narcotic drugs, psychotropic substances and their
-analogues for the purpose of sale. [@1,2]
+analogues for the purpose of sale. [@1,2,3]
 
 Operational and investigative measures were continuing, and police were working
 to identify other people who may have been involved and to establish the
-channels used to move the drugs. [@1,2]
+channels used to move the drugs. [@1,2,3]
