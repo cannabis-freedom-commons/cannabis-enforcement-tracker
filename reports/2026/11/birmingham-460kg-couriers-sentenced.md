@@ -100,6 +100,10 @@ sources:
     url: https://london-post.co.uk/more-couriers-sentenced-over-13-8-million-cannabis-importation-attempt/
     publisher: London Post
     date: 2026-11-10
+  - title: Birmingham Airport cannabis smuggling plot, couriers fined
+    url: https://www.birmingham-now.co.uk/news/26714549.birmingham-airport-cannabis-smuggling-plot-couriers-fined/
+    publisher: Birmingham Now
+    date: 2026-11-10
 media:
   - kind: photo
     url: https://www.falmouthpacket.co.uk/news/26713455.cornwall-woman-sentenced-13-8m-cannabis-import-plot/
@@ -123,6 +127,7 @@ open_questions:
   - London Now reports the hearing only as "today (November 9)" and calls the arrival "August 2024" without a day.
   - London Post prints the sentences with no court reasoning for suspending Nelson's term.
   - London Post gives 20 kg per courier as the average rather than what each of the final two couriers carried.
+  - Birmingham Now describes Nelson's sentence as suspended for three years and Clarke's as a 30-month jail term without giving the court's reasons for the difference.
 ---
 
 On 22 October 2026, Birmingham Crown Court sentenced five members of a drug-smuggling gang that
@@ -146,9 +151,9 @@ years, Nathan Vitorino and Lewis Ross to two years and eight months each, and Ca
 and a half years. [@1,2] Senior investigating officer Paul Boniface said the convictions should warn
 others that smuggling is not worth the risk, and thanked Border Force for finding the drugs. [@1,2,10,13]
 NCA figures show 801 cannabis couriers caught arriving by plane in 2024, 976 in 2025, and 600 more
-arrested between January and June 2026. [@1,2,7]
+arrested between January and June 2026. [@1,2,7] The National Crime Agency also reported that 600 air passenger couriers were arrested between January and June 2026. [@14]
 
-Tasia Nelson, 22, of Newquay, was sentenced to 30 months in prison suspended for three years at Birmingham Crown Court on Monday, 9 November 2026. [@3,4,5,7,8,9,10,11,13] The other defendant, Jamal Clarke, 22, of Walthamstow, London, was sentenced to 30 months in prison. [@3,4,6,7,9,10,11,13] The National Crime Agency described the two as the final two drugs couriers in the case. [@1]
+Tasia Nelson, 22, of Newquay, was sentenced to 30 months in prison suspended for three years at Birmingham Crown Court on Monday, 9 November 2026. [@3,4,5,7,8,9,10,11,13,14] The other defendant, Jamal Clarke, 22, of Walthamstow, London, was sentenced to 30 months in prison. [@3,4,6,7,9,10,11,13,14] The National Crime Agency described the two as the final two drugs couriers in the case. [@1]
 
 Paige Crisp, 25, from Broomhall, near Worcester, was convicted on 19 August 2026 with two other couriers following a four-week trial at Birmingham Crown Court. [@7]
 
