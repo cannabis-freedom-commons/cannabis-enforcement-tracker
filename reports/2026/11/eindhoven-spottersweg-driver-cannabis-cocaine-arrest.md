@@ -86,6 +86,11 @@ sources:
     publisher: Drimble
     date: 2026-11-09
     language: nl
+  - title: Bestuurder onder invloed van cannabis en cocaïne aangehouden in Eindhoven
+    url: https://drimble.nl/regio/noord-brabant/valkenswaard/108548256/bestuurder-onder-invloed-van-cannabis-en-cocaine-aangehouden-in-eindhoven.html
+    publisher: Drimble
+    date: 2026-11-09
+    language: nl
 open_questions:
   - The driver's age, sex and identity were not published; the article uses only 'die' and 'de bestuurder'.
   - No quantity of cannabis or cocaine was reported; nothing was said to be seized except the car, and the cannabis finding rests on the odour and the results of a drug test.
@@ -103,6 +108,9 @@ open_questions:
   - Stadindex.nl republishes the Eindhovens Dagblad and Omroep Brabant items rather than adding independent reporting, and gives no quantity of cannabis or cocaine and no charge or court step.
   - The page carries an Eindhovens Dagblad photo credit and an image address for the seized car that is already linked from the existing report, so no new media entry is added.
   - The Drimble page carries no article body; it reproduces only the headline and credits AD | Helmond, so it adds no facts beyond the existing account.
+  - The Drimble page carries only the headline and a credit to AD | Valkenswaard, so it adds no facts beyond the existing account.
+  - Omroep Brabant credits its photo to Marechaussee Brabant Oost and describes the stop as military police work, while the AD headline speaks of a driver held in Eindhoven; the services involved remain mixed in the record.
+  - Neither page reports a cannabis quantity or a court outcome.
 ---
 
 Police arrested a driver in Eindhoven on Sunday evening after a check showed the
@@ -125,3 +133,5 @@ car's owner has been given two weeks to register the vehicle correctly. [@1,4,5]
 The stop was made by the Marechaussee, the Dutch royal military police, who pulled the driver over after smelling a strong cannabis odour coming from the car. [@3,6]
 
 The stop happened at about 22:45 on the Sunday evening, and the officers described it on Instagram. [@4]
+
+The Drimble page reproducing the headline and crediting AD | Valkenswaard adds no article text of its own. [@8]
