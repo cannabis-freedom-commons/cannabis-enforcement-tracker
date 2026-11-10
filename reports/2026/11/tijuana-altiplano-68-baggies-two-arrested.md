@@ -32,6 +32,11 @@ sources:
     publisher: NDT Noticias de Tijuana
     date: 2026-11-09
     language: es
+  - title: Caen dos hombres con droga en la colonia Altiplano
+    url: https://el-mexicano.com.mx/Noticia/Policiaca/101538/caen-dos-hombres-con-droga-en-la-colonia-altiplano
+    publisher: El Mexicano
+    date: 2026-11-09
+    language: es
 open_questions:
   - No weight of the suspected marijuana was published; the report records only the count of 68 bags.
   - 7 November 2026 is the date the article gives for the stop; 9 November 2026 is its publication date.
@@ -59,11 +64,11 @@ Officers of Tijuana's Municipal Secretariat of Security and Citizen Protection
 preventive patrol on 7 November 2026 in the Altiplano neighbourhood, fourth
 section. [@1,2] The officers stopped a gold Honda Accord that was allegedly
 breaching the traffic regulations, and its driver, identified as Enrique "N",
-21, said he had neither the vehicle's papers nor a driving licence. [@1,2]
+21, said he had neither the vehicle's papers nor a driving licence. [@1,2,3]
 
 A preventive search found a clear plastic bag holding 68 small zip-lock bags,
 each containing a green, dry herb with characteristics similar to marijuana.
-[@1,2] The officers also found a replica revolver, and detained Enrique "N", 21,
+[@1,2,3] The officers also found a replica revolver, and detained Enrique "N", 21,
 and Irvin "N", 31. [@1,2]
 
 According to preliminary information, both detained men had records of
@@ -73,4 +78,4 @@ investigation files and determine their legal situation. [@1,2] The SSPCM asked
 residents to report the sale or distribution of illegal substances anonymously
 to the 089 line or through the 9-1-1 emergency number. [@1,2]
 
-Both detained men had records of proceedings and sentences for homicide and for carrying weapons, according to preliminary information from the SSPCM. [@2] The SSPCM did not say which records belonged to each man or give details of those proceedings, this account says. [@2]
+Both detained men had records of proceedings and sentences for homicide and for carrying weapons, according to preliminary information from the SSPCM. [@2,3] The SSPCM did not say which records belonged to each man or give details of those proceedings, this account says. [@2]
