@@ -48,6 +48,11 @@ media:
     media_url: https://www.sinarharian.com.my/uploads/images/2026/11/10/3705860.webp
     publisher: Sinar Harian
     caption: 'Kelantan police chief Datuk Mohd Yusoff Mamat, third from left, showing the blocks of compressed ganja seized after the Tanah Merah operation at a press conference in Kota Bharu. Photo: Sinar Harian / Hazelen Liana Kamarudin'
+  - kind: photo
+    url: https://www.bharian.com.my/berita/kes/2026/11/1707876/polis-kelantan-rampas-90kg-ganja-cukup-tampung-keperluan-90500-penagih?source=widget
+    media_url: https://assets.bharian.com.my/images/articles/ganja_1794306920.jpg
+    publisher: Berita Harian
+    caption: 'Police operation against the suspected cannabis-flower distribution syndicate at the telecommunications shop in Tanah Merah. Photo: NSTP/Nik Abdullah Nik Omar'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 87c14ccbbbce55490aaed7285be2536a
@@ -58,15 +63,20 @@ sources:
     publisher: Sinar Harian
     date: 2026-11-10
     language: ms
+  - title: Polis Kelantan rampas 90kg ganja, cukup tampung keperluan 90,500 penagih
+    url: https://www.bharian.com.my/berita/kes/2026/11/1707876/polis-kelantan-rampas-90kg-ganja-cukup-tampung-keperluan-90500-penagih?source=widget
+    publisher: Berita Harian
+    date: 2026-11-10
+    language: ms
 open_questions:
-  - The article says the arrest happened on Sunday, while the remand is given as 9 to 15 November; 8 November 2026 is used as the incident date, and the exact date should be checked if a second account appears.
-  - Police described the 90.38 kg as compressed ganja and 107.6 grams as cannabis flowers but named no separate weights per package or per location.
-  - RM279,902 is the police estimate of the seizure's value, not an independently verified price.
-  - No charge or court outcome was reported; the case is under investigation and the suspect was remanded until 15 November.
-  - The three other people police believe ran the syndicate were not named, and police gave no further description of them beyond having fled to a neighbouring country.
-  - The article does not state which neighbouring country the drugs were brought from.
-  - Only one newsroom account was found, so no second outlet confirms the figures.
-  - Police did not say whether the 107.6 grams of flowers were found with the compressed blocks or at the shop.
+    - The arrest is reported as happening on a Sunday with remand from 9 to 15 November; 8 November 2026 is used as the incident date.
+    - No separate weight per package or per location was published for the compressed ganja and the suspected cannabis flowers.
+    - The reported seizure values are police estimates, not independently verified prices.
+    - No charge or court outcome was reported; the suspect was remanded until 15 November under investigation for trafficking.
+    - The three other suspected syndicate members were not named, and no further description beyond their believed flight to a neighbouring country was given.
+    - Which neighbouring country the drugs were brought from was not named, only an illegal base around Lalang Pepuyu via the Sungai Golok.
+    - Two accounts give slightly different rounded figures for the weight, value and estimated number of users.
+    - Whether the 14 yaba pills found in the car lead to any separate charge was not reported.
 ---
 
 Kelantan police arrested a 27-year-old man in an operation in Tanah Merah
@@ -74,23 +84,22 @@ district on Sunday 8 November 2026 and seized 90.38 kg of compressed ganja and
 107.6 grams of cannabis flowers. [@1] Police valued the cannabis at RM279,902 in
 total. [@1] Kelantan police chief Datuk Mohd Yusoff Mamat said the arrest came
 at about 3.30pm at Batu 10, Batang Merbau, after a month of intelligence work.
-[@1]
+[@1,2]
 
 The interrogation led officers to inspect a telecommunications shop they believe
 was used to collect parcels for courier delivery. [@1] Thirteen packages
 containing drugs were found there, ready to be sent to 13 different addresses.
-[@1] Yusoff said the deliveries were aimed at the market around the Klang
-Valley, in Selangor and Kuala Lumpur. [@1]
+[@1] Police raided the shop before the parcels could be posted and found 12 boxes holding 90 kilograms of compressed ganja and one box holding 100 grams of dried suspected cannabis flowers. [@2] Yusoff said the deliveries were aimed at the market around the Klang
+Valley, in Selangor and Kuala Lumpur. [@1,2]
 
 He said the syndicate was believed to have been running since early August 2025
 and to have been run by four people, three of whom are believed to have fled to
 a neighbouring country. [@1] The drugs are believed to have been brought in from
 a neighbouring country through an illegal base on the Sungai Golok near Lalang
-Pepuyu, Tanah Merah, before being distributed by courier. [@1] Police estimated
+Pepuyu, Tanah Merah, before being distributed by courier. [@1,2] Police estimated
 the seized ganja could have supplied 90,502 drug users. [@1] The suspect had
 five previous drug offences on record and tested positive for methamphetamine.
 [@1] He was remanded for seven days, from 9 to 15 November, to help the
-investigation. [@1] The case is being investigated under Section 39B of the
+investigation. [@1] A search under the dashboard on the driver's side of the suspect's car found 14 yaba pills. [@2] The case is being investigated under Section 39B of the
 Dangerous Drugs Act 1952, the trafficking provision that carries a possible
 death sentence. [@1]
-
