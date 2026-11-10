@@ -44,25 +44,41 @@ sources:
     publisher: اوان مصر
     date: 2026-11-10
     language: ar
-open_questions:
-  - No weight or number of pieces of hashish was published, so no cannabis quantity is recorded.
-  - The amount of cash seized was not stated.
-  - The article gives no separate date for the arrest; 9 November 2026 is its publication date and is used as the incident date.
-  - The suspect is described only as unemployed, with no name, age or prior record published.
-  - No court outcome beyond the prosecution starting its investigation was reported.
-  - Only one accessible source for this event was found after searching in Arabic; no agency statement or second outlet account was available.
-  - The Awan Masr article is dated 10 November 2026 and gives no separate date for the arrest; it appears to be a follow-up account of the 9 November detention but the interval is not stated.
-  - The article's tag line names a different drug alongside hashish, but its text describes only hashish; no other substance or quantity is reported.
+  - title: التحقيق مع ديلر الحشيش عقب إلقاء القبض عليه في البدرشين
+    url: https://www.dostor.org/5771505
+    publisher: جريدة الدستور
+    date: 2026-11-10
+    language: ar
+  - title: النيابة تحقق مع تاجر حشيش ضُبط بحوزته كمية كبيرة من المخدرات بالبدرشين
+    url: https://www.youm7.com/story/2026/11/10/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%AA%D8%AD%D9%82%D9%82-%D9%85%D8%B9-%D8%AA%D8%A7%D8%AC%D8%B1-%D8%AD%D8%B4%D9%8A%D8%B4-%D8%B6%D9%8F%D8%A8%D8%B7-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87-%D9%83%D9%85%D9%8A%D8%A9-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%85%D9%86/7613207
+    publisher: اليوم السابع
+    date: 2026-11-10
+    language: ar
+  - title: التحقيق مع متهم بالاتجار في الحشيش بعد ضبطه بالبدرشين - بوابة دار المعارف الإخبارية.. بوابة إلكترونية تهدف إلى إثراء المحتوى الرقمي العربي من خلال الفنون والقوالب الصحفية المتنوعة والمتميزة
+    url: https://daralmaref.com/News/2606778.aspx
+    publisher: دار المعارف
+    date: 2026-11-10
+    language: ar
+  - title: سقوط تاجر مخدرا بـ59 فرشً حشيش في البدرشين.. تفاصيل المأمورية الأمنية
+    url: https://www.algomhor.com/509531
+    publisher: الجمهور الإخباري
+    date: 2026-11-10
+    language: ar
+  - title: 'جهات التحقيق: تاجر حشيش ضُبط بكمية كبيرة من المخدرات قبل ترويجها في البدرشين - اليوم السابع'
+    url: https://www.youm7.com/story/2026/11/10/%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%AA%D8%A7%D8%AC%D8%B1-%D8%AD%D8%B4%D9%8A%D8%B4-%D8%B6%D9%8F%D8%A8%D8%B7-%D8%A8%D9%83%D9%85%D9%8A%D8%A9-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%82%D8%A8%D9%84/7613223
+    publisher: اليوم السابع
+    date: 2026-11-10
+    language: ar
 ---
 
 Detectives of the Giza Security Directorate arrested a suspected hashish dealer
 in Badrashin, south of Giza, before he could distribute the drug to his
-customers. [@1,2] Police at Badrashin police station received information that an
-unemployed man was trafficking narcotics in the station's area. [@1] After
+customers. [@1,2,3,4,6,7] Police at Badrashin police station received information that an
+unemployed man was trafficking narcotics in the station's area. [@1,3,4,6] After
 verifying the information and locating him, officers detained the suspect under
-legal procedures. [@1]
+legal procedures. [@1,4,5]
 
 He was found with a large quantity of hashish prepared for sale, cash described
-as proceeds of sale, and a mobile phone used to contact customers. [@1,2] Police
+as proceeds of sale, and a mobile phone used to contact customers. [@1,2,3,4,5,7] The operation seized 59 pieces (farsh) of hashish, which became exhibits at the disposal of the investigation authorities. [@6] Police
 filed a report on the arrest and referred the case to the competent prosecution,
-which began its investigation. [@1,2]
+which began its investigation. [@1,2,4,6] The prosecution ordered the seized items to be examined to determine their nature, kept the hashish, cash and phone in custody, and is continuing investigations to establish the circumstances and the source of the drugs. [@3,4,7]

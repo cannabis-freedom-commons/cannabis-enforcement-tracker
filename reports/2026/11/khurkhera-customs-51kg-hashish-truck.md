@@ -54,12 +54,15 @@ sources:
     url: https://www.24newshd.tv/09-Nov-2026/pakistan-customs-seizes-51kg-hashish-worth-rs239-5m-smuggling-attempt
     publisher: 24 News HD
     date: 2026-11-09
+  - title: Customs recovers 51kgs of hashish, arrests driver
+    url: https://www.brecorder.com/news/40448167/customs-recovers-51kgs-of-hashish-arrests-driver
+    publisher: Business Recorder
+    date: 2026-11-10
 open_questions:
-  - No second outlet or Customs statement was found that could be opened to confirm the seizure.
-  - The report does not say whether the hashish was sent for laboratory testing or what charges the driver faces beyond the registered first information report.
-  - No figure for the separate value of the hashish alone, or of the vehicle alone, was reported; Rs239.5 million is the combined estimate.
-  - 24 News HD gives no separate date for the operation; 8 November 2026 remains the incident date taken from the ARY News account, and 9 November is this page's publication date.
-  - The page's only picture is captioned with the headline and carries no credit, so it is listed as a media link without a claim about what it shows.
+    - The report does not say whether the hashish was sent for laboratory testing or what charges the driver faces beyond the registered first information report.
+    - No figure for the separate value of the hashish alone, or of the vehicle alone, was reported; Rs239.5 million is the combined estimate.
+    - 24 News HD and Business Recorder give no separate date for the operation; 8 November 2026 remains the incident date taken from the ARY News account.
+    - The media photograph published with earlier reporting is captioned with the headline and carries no credit identifying what it depicts.
 media:
   - kind: photo
     url: https://www.24newshd.tv/09-Nov-2026/pakistan-customs-seizes-51kg-hashish-worth-rs239-5m-smuggling-attempt
@@ -79,7 +82,7 @@ driver, from Qilla Abdullah district in Balochistan, was arrested at the scene.
 area of Balochistan and was headed for distribution in Karachi. [@1,2]
 
 Customs put the total value of the hashish and the vehicle at Rs239.5 million.
-[@1,2] A first information report was registered and investigators were looking
+[@1,2,3] A first information report was registered and investigators were looking
 for other members of the network, including its financial facilitators and
 intended recipients. [@1,2]
 

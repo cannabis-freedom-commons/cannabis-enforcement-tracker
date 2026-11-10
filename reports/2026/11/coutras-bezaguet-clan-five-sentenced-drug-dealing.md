@@ -49,21 +49,26 @@ sources:
     publisher: Sud Ouest
     date: 2026-11-07
     language: fr
+  - title: En Gironde, une mère et ses enfants condamnés pour un trafic de drogue organisé depuis le pavillon familial
+    url: https://www.ouest-france.fr/societe/drogue/en-gironde-une-mere-et-ses-enfants-condamnes-pour-un-trafic-de-drogue-organise-depuis-le-pavillon-familial-31e2edac-dd0d-11f1-9a04-3c520384c4a6
+    publisher: Ouest-France
+    date: 2026-11-10
+    language: fr
+  - title: 'Trafic de drogue à Coutras : prison ferme et bannissement pour le clan familial'
+    url: https://www.leresistant.fr/gironde/coutras/trafic-de-drogue-a-coutras-prison-ferme-et-bannissement-pour-le-clan-familial-31411598.php
+    publisher: Le Résistant
+    date: 2026-11-10
+    language: fr
 open_questions:
-  - Only one opened source supports this report; no second outlet or agency statement was opened.
-  - The 70 grams of resin is the only cannabis weight stated for this case; no cocaine weight for the defendants is given, so the cocaine component has no figure.
-  - Regional cocaine seizure totals for Nouvelle-Aquitaine in 2023, 2024 and 2025 cited by the prosecutor describe the wider situation, not this case, and are left out of figures.
-  - The 2,500 euros found under a bed is reported as discovered, not expressly as confiscated cash, so no cash figure is recorded.
-  - The related-article box says five suspects were to be tried on 8 October, while this hearing sentenced five people on 5 November as other family members; whether this is a postponed hearing or a second group is unclear.
-  - The only image on the page is captioned as an illustration and the second image is a site logo, so no photo of this event can be listed.
+  - 'Sources give different ages for the defendants: Dolores is reported as either 56 or 59, Olivier as 35 or 36, and Angel as 20 or 21.'
 ---
 
 On 5 November 2026 the Libourne court sentenced five members of the Bezaguet
 family circle, including son-in-law Jason Daran, for a three-year cannabis and
-cocaine trade based in Coutras. [@1] The case began with a mid-September
+cocaine trade based in Coutras. [@1,2] The case began with a mid-September
 operation in which 80 gendarmes were mobilised and nine people were arrested in
-the Coutras area. [@1] Five of those arrested were remanded in custody over the
-three-year drug-trafficking case. [@1] Investigators described the house of
+the Coutras area. [@1,2] Five of those arrested were remanded in custody over the
+three-year drug-trafficking case. [@1,2] Investigators described the house of
 Dolores, 59, as the group’s headquarters. [@1]
 
 Cannabis was bought there by the handful while cocaine nicknamed Danette was
@@ -81,7 +86,6 @@ including care and work obligations. [@1] Jason received thirty months of firm
 prison and Angel received two years of firm prison despite his clean record.
 [@1] Olivier received three years in prison with one year suspended on
 probation, also with care and employment obligations. [@1] All five were kept in
-detention and banned from appearing in Coutras for three years. [@1] The
-prosecutor had sought up to four years of firm prison. [@1] The imposed
+detention and banned from appearing in Coutras for three years. [@1,2,3] The
+prosecutor had sought up to four years of firm prison. [@1,3] The imposed
 penalties were all below what had been requested. [@1]
-

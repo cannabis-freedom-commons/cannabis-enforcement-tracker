@@ -58,6 +58,10 @@ sources:
     url: https://www.warringtonguardian.co.uk/news/26710641.drug-dealer-spared-jail-possessing-8-000-grams-cannabis-resin/
     publisher: Warrington Guardian
     date: 2026-11-10
+  - title: Drug dealer spared jail after possessing 8,000 grams of cannabis resin
+    url: https://www.chesterstandard.co.uk/news/26714311.drug-dealer-spared-jail-possessing-8-000-grams-cannabis-resin/
+    publisher: Chester and District Standard
+    date: 2026-11-10
 open_questions:
   - The report gives no separate sentencing date beyond 'recently appeared'; 10 November 2026, the publication date, stands in for the incident date.
   - The article misprints the charge as 'possessing cannabis resin with intent to reply'; it is understood as intent to supply.
@@ -69,10 +73,10 @@ open_questions:
 
 Daniel Thompson, 36, appeared before Chester Crown Court after pleading guilty
 to possessing cannabis resin with intent to supply and to possessing cocaine.
-[@1] Officers attended an address on Moss Side Lane in Rixton, where Thompson
-was living, on 5 July 2023. [@1] They found 8,223.6 grams of cannabis resin at
-the address. [@1] The court heard the resin had an estimated street value of
-between £26,900 and £35,950. [@1] Officers also found 3.01 grams of cocaine,
+[@1,2] Officers attended an address on Moss Side Lane in Rixton, where Thompson
+was living, on 5 July 2023. [@1,2] They found 8,223.6 grams of cannabis resin at
+the address. [@1,2] The court heard the resin had an estimated street value of
+between £26,900 and £35,950. [@1,2] Officers also found 3.01 grams of cocaine,
 valued at between £180 and £300. [@1]
 
 His barrister said Thompson had used cannabis since he was 16 and cocaine since
@@ -81,6 +85,5 @@ abstinent from illicit substances for 12 months. [@1] The judge said he had to
 look at the man before him rather than three years earlier and that he had
 turned his life around since October last year. [@1]
 
-Thompson was handed a nine-month prison sentence suspended for 12 months. [@1]
-He must also complete 100 hours of unpaid work. [@1]
-
+Thompson was handed a nine-month prison sentence suspended for 12 months. [@1,2]
+He must also complete 100 hours of unpaid work. [@1,2]

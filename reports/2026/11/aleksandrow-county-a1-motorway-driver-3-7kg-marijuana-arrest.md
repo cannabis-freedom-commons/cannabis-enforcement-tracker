@@ -73,6 +73,16 @@ sources:
     publisher: Radio ESKA
     date: 2026-11-09
     language: pl
+  - title: Kontrola na A1 pod Toruniem. W aucie prawie 4 kg narkotyków
+    url: https://tylkotorun.pl/wiadomosci/112/jechal-honda-bez-prawa-jazdy-policjanci-z-torunia-znalezli-w-jego-aucie-prawie-4-kg-marihuany/
+    publisher: Tylko Toruń
+    date: 2026-11-10
+    language: pl
+  - title: Niebezpieczna jazda zwróciła uwagę kierowcy. W aucie znaleziono ponad 3,7 kg marihuany
+    url: https://tygodnikbydgoski.pl/prawo-i-porzadek/niebezpieczna-jazda-zwrocia-uwage-kierowcy-w-aucie-znaleziono-ponad-37-kg-marihuany-2026-11-10
+    publisher: Tygodnik Bydgoski
+    date: 2026-11-10
+    language: pl
 open_questions:
   - The 3.7 kg is a preliminary police test result; no laboratory confirmation had been published when the reports appeared.
   - Police describe the total as over 3.7 kg, and the police statement's headline as almost 4 kg; the cannabis figure uses the stated lower bound.
@@ -84,20 +94,20 @@ open_questions:
 ---
 
 Toruń police detained a 24-year-old resident of Łódź on Thursday 5 November 2026
-after another driver reported his dangerous driving on the A1 motorway. [@1,3]
+after another driver reported his dangerous driving on the A1 motorway. [@1,3,4,5]
 Toruń plainclothes officers found the Honda at a motorway service area in
-Aleksandrów County. [@1,3] A breath test showed he was sober, but checks showed he
-had no licence to drive. [@1,3] In the boot officers found three airtight plastic
+Aleksandrów County. [@1,3,4,5] A breath test showed he was sober, but checks showed he
+had no licence to drive. [@1,3,4,5] During the conversation the driver behaved nervously, which made officers suspect he was hiding something, so they decided to search his car thoroughly. [@4] In the boot officers found three airtight plastic
 bags of green plant material, which preliminary police tests indicated was more
-than 3.7 kg of marijuana. [@1,3] The drugs were sent to a laboratory for detailed
-testing. [@2,3] Police said they seized almost 4 kilograms of marijuana in the
+than 3.7 kg of marijuana. [@1,3,4,5] The drugs were sent to a laboratory for detailed
+testing. [@2,3,4,5] Police said they seized almost 4 kilograms of marijuana in the
 car. [@2]
 
 He was charged with possessing a significant quantity of narcotic substances,
 and an Aleksandrów court ordered him held in pre-trial detention for three
-months. [@1,3] He also faces proceedings for driving without the required licence.
-[@2,3] Under Poland's drug-addiction law, possessing a significant quantity of
-narcotic substances carries up to 10 years in prison. [@1,3]
+months. [@1,3,4,5] He also faces proceedings for driving without the required licence.
+[@2,3,5] Under Poland's drug-addiction law, possessing a significant quantity of
+narcotic substances carries up to 10 years in prison. [@1,3,5]
 
 The account came from Toruń city police spokesman Sebastian Dobrzeniecki, who
 also wrote the police statement. [@1]

@@ -37,40 +37,56 @@ sources:
     publisher: Newsis
     date: 2026-11-10
     language: ko
+  - title: “미성년자인 줄은 몰라”…'집유 중 또 대마 혐의'로 체포돼 날벼락 뜬 '유명 래퍼' | 위키트리
+    url: https://www.wikitree.co.kr/articles/1173487
+    publisher: 위키트리
+    date: 2026-11-10
+    language: ko
+  - title: ‘스윙스’ 소속사 마약 전과 래퍼, 미성년자에 대마 팔아...“미성년자인지 몰랐다”
+    url: https://biz.heraldcorp.com/article/10932403
+    publisher: 헤럴드경제
+    date: 2026-11-10
+    language: ko
+  - title: '''집유 중 미성년 대마 거래'' 김감전, 혐의 일부 인정..."미성년자인 줄 몰랐다"'
+    url: https://tvreport.co.kr/breaking/article/1089745/
+    publisher: TV리포트
+    date: 2026-11-10
+    language: ko
+  - title: ‘집행유예 중 또 대마’ 김감전 “거래 인정, 미성년자인 줄 몰랐다”
+    url: http://www.tvdaily.co.kr/read.php3?aid=17942897511809033010
+    publisher: TV Daily
+    date: 2026-11-10
+    language: ko
 open_questions:
-  - The reports give no court case number.
-  - No ruling or sentence has been issued; the next hearing is set for 10 December 2026.
-  - The number and size of the liquid cannabis cartridges are described by item count only; no weight for the cannabis oil or the dried cannabis smoked is published.
-  - The buyer A is described as a minor woman in News1 and by initial only in Newspim; no age is given.
-  - The accounts do not say how Kim was arrested or where he is held.
-  - Newsis dates the free receipt at a Seoul club to mid-August and the smoking to September, less precise than the mid-August and 9-14 September dates already recorded.
+  - Sources give different per-cartridge prices for the alleged sales of liquid cannabis cartridges to A.
+  - Accounts differ on the transaction prices, with this report stating 450,000 won in cash each time for sales from December last year to March this year rather than separate prices of 400,000 and 450,000 won.
 ---
 
 Rapper Kim Sang-min, who performs as Kim Sang-min he can dare be called a legend
 and is known as Kim Gam-jeon, went on trial detained on cannabis charges at the
-Seoul Western District Court on 10 November 2026. [@1,3] The 22-year-old is
+Seoul Western District Court on 10 November 2026. [@1,3,5] Kim joined Indigo Music, founded and headed by Swings, in 2022. [@5,7] The first trial was heard by Criminal Division 12 of the Seoul Western District Court, presided over by chief judge Choi Jeong-in. [@5,6,7] The 22-year-old is
 accused of selling one liquid cannabis cartridge each to a person identified as
 underage, known as A, for 400,000 won in December last year and 450,000 won in
-January this year. [@1] Prosecutors also say he gave A one liquid cannabis
+January this year. [@1,5] Prosecutors also say he gave A one liquid cannabis
 cartridge for 450,000 won in February to March this year after learning A was a
-minor, and a further cartridge free of charge on 24 March. [@1] He is also
+minor, and a further cartridge free of charge on 24 March. [@1,5] He is also
 accused of taking a liquid cannabis kit free from an unidentified person at a
 club on 14 or 15 August and smoking cannabis between 9 and 14 September. [@1] On
 14 September, investigators say, he was carrying about 1.2 grams of cannabis in
-his trouser pocket. [@1,3]
+his trouser pocket. [@1,3,4,7]
 
 In court his lawyer denied the December 2025 sale and denied knowing A was a
 minor, but admitted the January sale, receiving the kit free, and smoking and
-possessing cannabis. [@1] He contested part of the supply charge, saying he
+possessing cannabis. [@1,5] He contested part of the supply charge, saying he
 merely took back cannabis he had earlier given A rather than handing over more,
-according to News1. [@2] Prosecutors applied to call A as a witness, and the
+according to News1. [@2,4] Prosecutors applied to call A as a witness, and the
 defence applied to call a person known as B, said to have introduced A to Kim as
 an adult. [@1] The court set the next hearing for 3 p.m. on 10 December 2026.
-[@1,3]
+[@1,3,4,6,7]
 
 Kim was sentenced to eight months in prison at first instance in December 2024
 for smoking cannabis with an acquaintance in a Seoul parking lot in May 2024,
 and an appeal court reduced the term in April 2025 to eight months suspended for
-two years. [@1] Under the Narcotics Control Act, giving cannabis to a minor or
+two years. [@1,4,5,6,7] After his release, he applied for Mnet's Show Me The Money 12 this year and continued his activities. [@6] Under the Narcotics Control Act, giving cannabis to a minor or
 having a minor smoke or consume it carries a fixed term of at least two years in
 prison, News1 reported. [@2]

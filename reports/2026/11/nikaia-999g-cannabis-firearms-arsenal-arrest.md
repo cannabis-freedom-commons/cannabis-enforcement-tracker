@@ -66,6 +66,10 @@ sources:
     publisher: Flash.gr
     date: 2026-11-09
     language: el
+  - title: Man held over pre-dawn shots kept arms stash, drugs at home
+    url: https://www.ekathimerini.com/news/1320866/man-held-over-pre-dawn-shots-kept-arms-stash-drugs-at-home/
+    publisher: eKathimerini.com
+    date: 2026-11-10
 open_questions:
   - The cannabis amount is given as 999 grams by Skai and Protothema and as one kilogram by Kathimerini; the report records 0.999 kg.
   - The form of the cannabis (flower or resin) is not described.
@@ -76,7 +80,7 @@ open_questions:
 Officers of the Immediate Action rapid-response unit, with OPKE special
 operations forces, arrested a 36-year-old man in Nikaia, a western suburb of
 Piraeus in Attica. [@1,4] Protothema reported that the incident happened in the
-early hours of Tuesday 3 November 2026. [@2]
+early hours of Tuesday 3 November 2026. [@2,5]
 
 Officers went to the area after a call about a man firing a shotgun into the air
 and found five spent cartridge cases and, nearby, the 36-year-old holding a
@@ -92,9 +96,9 @@ the man. [@3] A case file was opened against him for breaches of the weapons and
 narcotics laws, disobedience, violence against officials and damage to foreign
 property, and he was taken to the public prosecutor. [@3,4]
 
-The Athens daily Kathimerini put the quantity at one kilogram of cannabis. [@1]
+The Athens daily Kathimerini put the quantity at one kilogram of cannabis. [@1,5]
 In Nikaia officers from Immediate Action were called for a man firing a shotgun,
 and they went to the spot with OPKE forces. [@1] The night-time incident
 attributed to the 36-year-old involved firing a shotgun into the air and then
 aiming it at officers as they arrived, the Hellenic Police account given to
-Protothema said. [@2]
+Protothema said. [@2,5]

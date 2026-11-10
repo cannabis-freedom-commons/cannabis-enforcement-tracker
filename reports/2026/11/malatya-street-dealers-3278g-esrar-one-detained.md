@@ -133,6 +133,11 @@ sources:
     publisher: İlke Haber Ajansı
     date: 2026-11-09
     language: tr
+  - title: Malatya'da Uyuşturucu Operasyonunda 3 Kilo 278 Gram Esrar Ele Geçirildi
+    url: https://www.ngazete.com/malatyada-uyusturucu-operasyonunda-3-kilo-278-gram-esrar-ele-gecirildi-286607h.htm
+    publisher: N Gazete
+    date: 2026-11-10
+    language: tr
 open_questions:
   - Only one account of this operation was found; it is an agency dispatch published by Malatya Haber and was not corroborated by a second opened source.
   - No neighbourhood, address or specific street within Malatya was named for the operation.
@@ -173,11 +178,11 @@ open_questions:
 Malatya provincial police directorate teams detained one suspect in an operation against
 street-level drug dealers on 8 November 2026. [@1,4,8,10,11,12,14,16,17,19] The directorate's
 narcotics branch, the Narkotik Suçlarla Mücadele Şube Müdürlüğü, acted after physical and technical
-surveillance of street sellers [@2,4,5,9,10,11,15,16,18,19], under the coordination of the Malatya
+surveillance of street sellers [@2,4,5,9,10,11,15,16,18,19,20], under the coordination of the Malatya
 Chief Public Prosecutor's Office. [@12]
 
 Searches of the suspect's person and his address produced 3,278 grams of esrar, the Turkish name for
-cannabis. [@1,2,3,4,5,6,7,9,10,11,12,13,14,15,16,17,18,19] It was displayed in separate packages [@13]
+cannabis. [@1,2,3,4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20] It was displayed in separate packages [@13]
 and confiscated. [@15] The suspect was taken into custody as someone assessed to be linked to drug
 dealing [@1,6,16], and his questioning and judicial processing at the police station were continuing.
 [@7,8] Police said operations against drug trafficking and street sellers across the province would

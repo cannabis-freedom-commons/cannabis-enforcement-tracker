@@ -62,6 +62,10 @@ sources:
     url: https://witness.co.za/news/2026/06/08/police-intercept-vehicle-carrying-r300-000-worth-of-dagga/
     publisher: The Witness
     date: 2026-06-08
+  - title: Zimbabwean national arrested with dagga worth R300,000 in Giyani
+    url: https://iol.co.za/the-star/news/2026-06-08-zimbabwean-national-arrested-with-dagga-worth-r300000-in-giyani/
+    publisher: IOL / The Star
+    date: 2026-06-08
 open_questions:
   - No weight was published for the dagga; only the count of 7 brown bags and 30 black plastics and the police estimate of R300,000 street value were reported.
   - No outcome after the 12 June 2026 bail hearing and no later court result were reported.
@@ -69,20 +73,19 @@ open_questions:
 ---
 
 The 32-year-old driver, Zimbabwean national Lovers Moyo, was arrested at the
-scene for dealing in dagga. [@1] The arrest followed a joint operation involving
+scene for dealing in dagga. [@1,4] The arrest followed a joint operation involving
 the Mopani District Tracking Team, Giyani operational members, the Tzaneen
 Tactical Response Team, the Giyani Public Order Policing Unit and private
-security partners. [@2] Police intercepted a Nissan Qashqai at the intersection
-of the R529 and R81 in the Giyani policing area on 3 June 2026. [@1]
+security partners. [@2,4] Police intercepted a Nissan Qashqai at the intersection
+of the R529 and R81 in the Giyani policing area on 3 June 2026. [@1,4]
 
 A search of the vehicle found 7 wrapped brown bags and 30 black plastic bags
-containing dagga. [@1] Police put the estimated street value of the dagga at
-R300,000. [@2] The vehicle was displaying registration plates that did not
-correspond with its registered details. [@1]
+containing dagga. [@1,4] Police put the estimated street value of the dagga at
+R300,000. [@2,4] The vehicle was displaying registration plates that did not
+correspond with its registered details. [@1,4]
 
 Moyo appeared before the Giyani Magistrate’s Court on Friday 5 June 2026. [@1]
 The court remanded him in custody and postponed the case to 12 June 2026 for a
-bail application and further police investigations. [@1] Moyo, who was driving
+bail application and further police investigations. [@1,4] Moyo, who was driving
 the vehicle at the time, was arrested on charges of dealing in dagga. [@3]
 Police said investigations were continuing. [@1]
-

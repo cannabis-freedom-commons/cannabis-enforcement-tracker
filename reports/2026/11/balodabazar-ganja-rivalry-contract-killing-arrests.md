@@ -74,39 +74,38 @@ sources:
     publisher: ETV Bharat News
     date: 2026-11-09
     language: hi
-open_questions:
-  - The specific charges and sections filed were not spelled out; police said those arrested were being produced in court.
-  - No quantity of ganja was reported, and the reports do not say whether the dead man's trade was sourcing, transporting or selling.
-  - The relationship between the two killings beyond police statements has not been established in court.
-  - Coarse district-centre coordinates are used because the villages Murumdih and Raytum could not be located precisely.
-  - The lead image on the Dainik Bhaskar page carries no caption or credit, so it is not confirmed as a photo of this case.
-  - The submitted Dainik Bhaskar page is paywalled after its opening paragraphs; the fuller account comes from Haribhoomi's two reports.
-  - 'Left out, as its quotation was not found in Haribhoomi: Police said the killing was planned over dominance in the illegal ganja trade and an old feud, and that a man paid for the killing to avenge his son''s murder.'
-  - Left out deaths, as its quotation was not found in Haribhoomi.
-  - No quantity of ganja is given, and the page does not say whether the dead man's trade was sourcing, transporting or selling.
-  - The page repeats police statements and does not give the status of the earlier killing of the accused's son Shiva.
+  - title: गांजा तस्करी में वर्चस्व की जंग और बेटे की हत्या का बदला! युवक को काम का झांसा देकर जंगल में ले गए, चाकू से गोदकर मार डाला
+    url: https://nwnews24.com/battle-for-supremacy-in-ganja-smuggling-and-revenge-for-sons-murder-young/
+    publisher: nwnews24
+    date: 2026-11-10
+    language: hi
+  - title: 'गांजा तस्करी के वर्चस्व में युवक का मर्डर: बेटे की हत्या का बदला लेने पिता ने दी थी सुपारी, 1000 से अधिक CCTV और AI तकनीक से खुला राज, 2 नाबालिग समेत 7 आरोपी गिरफ्तार - Lalluram'
+    url: https://lalluram.com/cannabis-trafficking-rivalry-murder-father-hires-contract-killers-1000-cctv-ai-technology-7-arrested/
+    publisher: Lalluram
+    date: 2026-11-10
+    language: hi
 ---
 
 Police in Chhattisgarh's Balodabazar district arrested five people and detained
 two minors over the killing of a young man whose body was found on a lonely
-forest track in the Baya police station area. [@1,4]
+forest track in the Baya police station area. [@1,4,5,6] One adult accused was identified as 47-year-old Amarjeet Singh Soni of Durg. [@6] One adult accused was identified as 19-year-old Rahul Das Manikpuri of Durg. [@6] One adult accused was identified as 18-year-old Raj Yadav alias Sai of Durg. [@6] One adult accused was identified as 24-year-old Syed Altaf Ali alias Farzan of Mova, Pandri, Raipur. [@6] One adult accused was identified as 22-year-old Mohammad Anas Asrafi of Mova, Pandri, Raipur. [@6]
 
 A young man's body was found on 31 October 2026 on the lonely forest stretch
 between Murumdih and Raytum villages in the Baya police station area, with knife
-wounds and, at first, no identification. [@3]
+wounds and, at first, no identification. [@3,5,6]
 
 Forensic examination and digital leads identified the dead man as Karan Dongre.
 [@2] The Haribhoomi account says the dead man and the arrested men were all
 involved in the illegal ganja trade, and that Soni's son Shiva was killed in
-October 2026. [@2] Police said the accused lured the man from the Sambalpur area
+October 2026. [@2,6] The man who allegedly ordered the killing was named as Amarjeet Singh Soni, who police say conspired to kill Karan Dongre to avenge the October killing of his son Shiva. [@5,6] Police said the accused lured the man from the Sambalpur area
 with a promise of work, drove him to the forest in two cars and stabbed him,
-then stripped the body to hide his identity. [@2]
+then stripped the body to hide his identity. [@2,5] Both vehicles reached the Patewa area together before the accused took the youth into the deserted forest of the Baya outpost area and stabbed him to death. [@5]
 
 Haribhoomi reports that police checked footage from more than 1,000 CCTV cameras
-and used AI technology in the investigation. [@2] The police network behind the
+and used AI technology in the investigation. [@2,6] The police network behind the
 killing stretched from Raipur to Durg, and Haribhoomi says accused men from
 those districts were arrested with Durg police's help. [@2] Police seized the
-knife used in the killing, a Kia car, a WagonR car and a scooter. [@2] The five
+knife used in the killing, a Kia car, a WagonR car and a scooter. [@2,6] The seized WagonR bore registration CG 07 CE 3638 and the seized KIA bore registration CG 04 QB 5060. [@6] The five
 adults were being produced in court and the two minors before the Juvenile
 Justice Board on 9 November 2026. [@2]
 

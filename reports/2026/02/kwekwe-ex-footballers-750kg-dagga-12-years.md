@@ -80,6 +80,10 @@ sources:
     url: https://thestar.co.za/news/2025-10-08-a-former-kaizer-chiefs-player-is-accused-of-drug-trafficking-in-zimbabwe/
     publisher: The Star / IOL
     date: 2025-10-08
+  - title: Aged 29? Ex-Kaizer Chiefs star Abbas Amidu arrested in Zimbabwe, sparking debate over his age
+    url: https://iol.co.za/news/crime-and-courts/2025-10-08-aged-29-ex-kaizer-chiefs-star-abbas-amidu-arrested-in-zimbabwe-sparking-debate-over-his-age/
+    publisher: IOL
+    date: 2025-10-08
 open_questions:
   - Later court reporting described the haul as 780 kg worth about US$78,000, against the police figure of 750 kg worth USD 75,000 used here; the police figure is used because it is the official seizure account.
   - One later court account dates the interception to 4 October 2025 while the police statement gives 3 October 2025; the police date is used.
@@ -97,18 +101,18 @@ former footballer Kudzai Mhlanga, also known as Reuben Mhlanga, were convicted
 of dealing in dangerous drugs, namely dagga. [@2,6] Amidu, listed by authorities
 under the name Tumai Matsika, had been denied bail after his arrest when the
 State opposed release, calling him a flight risk while investigations continued.
-[@1,5,6]
+[@1,5,6,7] The two appeared in the Kwekwe Magistrates' Court on the Monday after the arrest and were remanded in custody pending a bail application. [@7]
 
 Police apprehended the pair, aged 29 and 41, on 3 October 2025 along the
 Kwekwe-Kadoma Highway in a silver Honda Shuttle, registration AGP 6776. [@3]
 Police said the two were found in possession of 750 kg of dagga in the vehicle,
-which police valued at USD 75,000. [@3]
+which police valued at USD 75,000. [@3] Detectives found the dagga in 75 packets wrapped in black plastic inside the silver Honda Shuttle. [@7]
 
 Amidu and his co-accused Kudzai (Reuben) Mhlanga were each sentenced to 12
 years' imprisonment after appearing in court for possession of the dagga haul,
 reported as worth about US$75,000 (about R1.2 million). [@1] Police announced
 the arrest, conviction and sentencing together, saying the two appeared in court
-on 24 February 2026 and were each sentenced to 12 years' imprisonment. [@1]
+on 24 February 2026 and were each sentenced to 12 years' imprisonment. [@1] Prosecutors described the seizure as one of the largest in the Midlands province that year, according to The Herald. [@7]
 
 The arrests followed a tip-off, after which detectives intercepted Amidu and Mhlanga just outside Kwekwe. [@4,6] The two are suspected of being part of a larger drug trafficking syndicate operating across several provinces in Zimbabwe. [@4]
 

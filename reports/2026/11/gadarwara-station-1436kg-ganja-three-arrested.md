@@ -38,17 +38,23 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-09
     language: hi
+  - title: 'Narsinghpur News: नरसिंहपुर के गाडरवारा रेलवे स्टेशन पर 14 किलो गांजा जब्त, 3 महिलाएं गिरफ्तार, 3 लाख से ज्यादा कीमत'
+    url: https://www.livehindustan.com/videos/madhya-pradesh/narsinghpur-gadarwara-railway-station-14-kg-ganja-seized-three-women-arrested-201794230222853.amp.html
+    publisher: Live Hindustan
+    date: 2026-11-09
+    language: hi
 open_questions:
   - The article gives only the publication time (9 November 2026) and no separate date for the operation, which is used as the incident date.
   - The article does not say whether the women were formally charged before a court or only remanded; jail follows arrest.
   - No source states where the ganja originated, who was to receive it or whether the women worked for an organised group.
   - Only one accessible source for this event was found; other Hindi reports could not be opened.
   - The article does not say where the ganja came from, where it was to be delivered or whether the women worked for an organised group; it says those points are still under investigation.
+  - Live Hindustan gives the load as about 14 kg worth over 3 million rupees, while the earlier report gives 14 kg 360 g worth about 359,000 rupees; the report uses the more specific earlier figures.
 ---
 
 Government Railway Police (GRP) officers arrested three women at Gadarwara
 railway station in Narsinghpur district, Madhya Pradesh, on suspicion of ganja
-trafficking. [@1] The women were sitting with sacks under a tin shed in the
+trafficking. [@1,3] The women were sitting with sacks under a tin shed in the
 station compound. [@1,2] A search of the sacks found 14 kg 360 g of ganja. [@1,2]
 
 The Gadarwara GRP station chief said officers acted on a tip-off that three women were sitting with sacks under a tin shed in the station compound. [@2] The women first told the officers the sacks held clothes; the search followed when their answers seemed suspicious. [@2] Police said they seized the ganja, registered a case against the three women under the NDPS Act and sent them to jail. [@2] All three arrested women were described as residents of Abdullaganj. [@2]

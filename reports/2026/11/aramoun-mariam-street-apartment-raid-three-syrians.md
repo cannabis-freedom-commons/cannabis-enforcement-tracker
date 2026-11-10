@@ -63,6 +63,11 @@ sources:
     publisher: ElSiyasa
     date: 2026-11-09
     language: ar
+  - title: 'قوى الامن: توقيف افراد شبكة لترويج المخدّرات في عرمون وضبط كميّات كبيرة منها وسلاح حربي'
+    url: https://www.elnashra.com/news/show/1808428/%D9%82%D9%88%D9%89-%D8%A7%D9%84%D8%A7%D9%85%D9%86-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%A7%D9%81%D8%B1%D8%A7%D8%AF-%D8%B4%D8%A8%D9%83%D8%A9-%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D9%91%D8%B1%D8%A7%D8%AA-%D8%B9%D8%B1%D9%85%D9%88%D9%86-
+    publisher: Elnashra
+    date: 2026-11-09
+    language: ar
 open_questions:
   - No date is given for the raid; 9 November 2026 is the date of the Internal Security Forces statement and of the articles, and stands in for the incident date.
   - No weight is given for the hashish found in one large and 11 medium bags, so no kilogram figure is recorded.
@@ -83,14 +88,14 @@ Lebanon's Internal Security Forces raided an apartment on Mariam Street in
 Aramoun, near Al-Mustafa Mosque in the Mneimneh Building, acting on information
 that people were dealing drugs there. [@2,3] A patrol of the Mount Lebanon
 Investigation Unit, part of the Regional Gendarmerie Unit, arrested three men
-inside the apartment, all of whom it said were Syrian by their own account. [@2,3]
-The three were born in 1988, 1991 and 2008. [@1]
+inside the apartment, all of whom it said were Syrian by their own account. [@2,3,4]
+The three were born in 1988, 1991 and 2008. [@1,4]
 
 Police seized a motorcycle, a service handgun with an empty magazine, an
 unstated sum in US dollars and Lebanese pounds, six mobile phones and two SIM
-cards. [@1]
+cards. [@1,4]
 
 The force described the three as a drug-dealing network it had dismantled in
 Aramoun. [@2] The detainees, the seized items and the motorcycle were handed to
 the competent unit for legal action on the instructions of the competent
-judiciary. [@1]
+judiciary. [@1,4]

@@ -26,6 +26,11 @@ media:
     media_url: https://kuwaitnews.com/wp-content/uploads/2026/11/moi-arrest3.jpg
     publisher: كويت نيوز
     caption: 'Interior Ministry handout photo carried with the report on the six suspects detained in four drug cases. Photo: Kuwait News'
+  - kind: photo
+    url: https://www.alanba.com.kw/1384264
+    media_url: https://media.alanba.com.kw/articlefiles/2026/11/1384264-1.jpg?w=600
+    publisher: جريدة الأنباء الكويتية
+    caption: Al-Anbaa photo published with the Interior Ministry statement on the six suspects detained in four separate Kuwait drug cases and the seized items.
 details:
   activity: [trafficking]
   agency_types: [anti-narcotics]
@@ -102,32 +107,39 @@ sources:
     publisher: خليجيون
     date: 2026-11-08
     language: ar
+  - title: ضبط 6 متهمين في 4 قضايا منفصلة بحوزتهم مواد مخدرة ومؤثرات عقلية بقصد الاتجار والتعاطي
+    url: https://www.alanba.com.kw/1384264
+    publisher: جريدة الأنباء الكويتية
+    date: 2026-11-08
+    language: ar
+  - title: നിയമലംഘനങ്ങളിൽ കർശന നടപടി
+    url: https://www.madhyamam.com/gulf-news/kuwait/strict-action-against-violations-1570937
+    publisher: Madhyamam
+    date: 2026-11-10
+    language: ml
 open_questions:
-  - The articles give no separate date for the arrests; 1 November 2026 is the publication date.
-  - Alseyassah reports two sensitive scales while Arab Times reports one precision scale; the report uses neither figure for a disputed count.
-  - The ministry announced four separate cases together, so the published figures are totals rather than a breakdown by case.
-  - No names, nationalities, arrest locations, or court outcome were published.
-  - The 410 grams of shabu and 175 chemical-soaked sheets are non-cannabis substances excluded from the cannabis figures.
-  - Whether the lead photo on the Al Rai page shows this seizure is not established from its empty caption, so it is not listed as media.
-  - The Kuwait News item was published on Sunday 8 November 2026 and says only that the ministry issued the statement "today"; no separate date for the arrests was given, consistent with the earlier coverage.
-  - Aljarida dates this page 8 November 2026 while the report dates the same ministry statement to 1 November 2026; the identical seizure figures show republication, and the page gives no separate date for the arrests.
-  - The page's two photographs carry no caption or credit identifying what they show, so they are not listed as media.
+    - No names, ages or nationalities of the six suspects, and no street value for the drugs, were published.
+    - The four cases were announced together, so the drug, cash and scale figures are totals across them rather than figures for one case.
+    - The statement does not say where in Kuwait the drug arrests took place, and the account linking them to the Capital Governorate sweep names no district.
+    - The 410 grams of shabu and the 175 'chemical'-soaked sheets are not cannabis and are excluded from the cannabis weight here.
+    - 'Outlets differ on the scales: two accounts report two precision scales and one reports a single one.'
+    - No court outcome or charge by statute was reported for any of the six suspects.
 ---
 
 Kuwait's General Department for Drug Control arrested six suspects in four
 separate drug cases involving narcotics and psychotropic substances for alleged
-trafficking and use. [@1,3,4,5,6,8,9,10,11,12] The Interior Ministry said the arrests were part of
+trafficking and use. [@1,3,4,5,6,8,9,10,11,12,13,14] The Interior Ministry said the arrests were part of
 ongoing security efforts against drugs and those involved in them. [@2] The
 suspects and the seized items were referred to the competent authorities for
-legal action. [@1,3,4,5,7,8,9,10,11]
+legal action. [@1,3,4,5,7,8,9,10,11,13] The suspects kept the drugs for their own use and for smuggling, the account says. [@14]
 
 Officers seized 60 grams of hashish, the only cannabis product named in the
-haul. [@1,3,4,5,6,8,9,10,11,12] The same operations also seized 410 grams of shabu, identified by
+haul. [@1,3,4,5,6,8,9,10,11,12,13,14] The same operations also seized 410 grams of shabu, identified by
 Arab Times as methamphetamine, and 175 sheets of paper soaked in liquid
-chemical, which are not counted as cannabis here. [@2,10] The chemical sheets were
+chemical, which are not counted as cannabis here. [@2,10,14] The chemical sheets were
 listed separately from the hashish, with Arab Times reporting 175 sheets of
 paper soaked in a chemical liquid alongside 60 grams of hashish. [@2]
 
 Officers also seized 540 Kuwaiti dinars described as proceeds of drug sales and
-precision scales. [@2,10] Alseyassah reported two sensitive scales while Arab Times
+precision scales. [@2,10,14] Alseyassah reported two sensitive scales while Arab Times
 reported one precision weighing scale. [@1]

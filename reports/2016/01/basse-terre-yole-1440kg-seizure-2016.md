@@ -57,6 +57,11 @@ sources:
     publisher: 20 minutes
     date: 2016-01-17
     language: fr
+  - title: 'Saisie de cannabis : les prévenus devraient être présentés au parquet dans la journée'
+    url: https://rci.fm/martinique/infos/Faits-divers/Saisie-de-cannabis-les-prevenus-devraient-etre-presentes-au-parquet-dans-la
+    publisher: RCI
+    date: 2016-01-15
+    language: fr
 open_questions:
   - RCI gives the distance as '25 kg au nord-ouest de Basse-Terre', an evident typo for 25 km, which Bondamanjak and the prefect's communiqué confirm.
   - The 2019 RCI account of the Wildting trial says 62 bales, or 2.2 tonnes, were seized from the Wildting in the same interception, against about 60 bales and 1,440 kg in the January 2016 accounts.
@@ -64,12 +69,13 @@ open_questions:
   - The sources do not name the charges the six men face or report any verdict for this indictment.
   - 'Not added to guadeloupe-sainte-rose-435kg-ten-arrested-2016, as its quotation was not found in RCI: Anti-narcotics officers of the OCRTIS, France''s central office against illicit drug trafficking, and the GIPN police intervention group stopped a convoy of four vehicles between Sainte-Rose and the approaches to Deshaies in Guadeloupe.'
   - 'Not added to guadeloupe-sainte-rose-435kg-ten-arrested-2016, as its quotation was not found in RCI: At the end of January 2019, 21 people went on trial before the JIRS in Fort-de-France over the wider network known as the Wildting case.'
+  - This account says 50 bales weighing 144 kilos while also describing just over a tonne, differing from the about 60 bales and 1,440 kg used in the report.
 ---
 
 Customs coastguards and police of OCRTIS Caraïbe, France's central office
 against illicit drug trafficking, with its Guadeloupe detachment, intercepted a
 yole, a small fast open boat, about 25 km north-west of Basse-Terre, Guadeloupe,
-on 10 January 2016. [@1] The patrol boat Pitera, sent from Pointe-à-Pitre, made
+on 10 January 2016. [@1,4] The yole was about ten metres long and had two 250-horsepower engines. [@4] The patrol boat Pitera, sent from Pointe-à-Pitre, made
 the interception after the customs F406 aircraft relocated the target. [@2] As
 the boat was stopped, its six passengers threw about 60 bales of compacted
 cannabis herb into the sea, and coastguards recovered them. [@2] The bales
@@ -83,7 +89,7 @@ with the police services of Saint Vincent and Sainte-Lucie and Britain's
 National Crime Agency. [@1]
 
 The six men on board, all Saint Vincent nationals, were placed in police custody
-in Pointe-à-Pitre and then transferred to Fort-de-France. [@1] At the end of
+in Pointe-à-Pitre and then transferred to Fort-de-France. [@1,4] At the end of
 their custody they were brought before a judge and placed in provisional
 detention at Ducos prison in Martinique. [@1] A judicial investigation was
 opened in Fort-de-France and entrusted to OCRTIS Caraïbe on the instructions of
@@ -91,4 +97,3 @@ the Fort-de-France public prosecutor. [@3] Bondamanjak reported that the
 investigation was assigned to the JIRS, the interregional specialised court.
 [@2] The six accused were brought before the Fort-de-France tribunal de grande
 instance. [@2]
-

@@ -49,6 +49,11 @@ sources:
     publisher: Correio do Lago
     date: 2026-11-09
     language: pt
+  - title: Paraguaio de 22 anos é preso com mais de 5 kg de maconha em Marechal Cândido Rondon
+    url: https://www.radioeducadora.com/educadora/noticia/122548/paraguaio-de-22-anos-preso-com-mais-de-5-kg-de-maconha-em-marechal-cndido-rondon
+    publisher: Rádio Educadora
+    date: 2026-11-10
+    language: pt
 open_questions:
   - The weight is given only as "more than five kilograms", so the recorded figure is 5 kg as a lower bound.
   - The single source does not name the charge against the man or say whether he was held in custody.
@@ -58,13 +63,12 @@ open_questions:
 
 Military police from Paraná's Border Police Battalion arrested a 22-year-old
 Paraguayan man in Marechal Cândido Rondon on the afternoon of Monday 9 November
-2026. [@1] Officers said the man was nervous and gave contradictory answers when
-they approached him. [@1] A search of his person found the key to a motorcycle
-with a Paraguayan plate parked nearby. [@1]
+2026. [@1,2] Officers said the man was nervous and gave contradictory answers when
+they approached him. [@1,2] A search of his person found the key to a motorcycle
+with a Paraguayan plate parked nearby. [@1,2]
 
 In the motorcycle's storage box officers found more than five kilograms of
-cannabis of the morruga type, a local name for pressed blocks of marijuana. [@1]
+cannabis of the morruga type, a local name for pressed blocks of marijuana. [@1,2]
 Questioned about the drug, the man said he was to receive 1,000 reais for
-transporting it. [@1] The Border Police Battalion arrested him and sent him for
+transporting it. [@1,2] The Border Police Battalion arrested him and sent him for
 the applicable procedures; he remained at the disposal of the courts. [@1]
-

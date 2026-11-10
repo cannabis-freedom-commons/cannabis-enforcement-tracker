@@ -86,6 +86,11 @@ sources:
     publisher: UzDaily.uz
     date: 2026-11-09
     language: ru
+  - title: В Ташкенте и Ташобласти раскрыли наркосеть и изъяли более 26 тыс. доз наркотиков
+    url: https://uz.kursiv.media/2026-11-10/26-tys-doz-narkotikov/
+    publisher: Kursiv Media Uzbekistan
+    date: 2026-11-10
+    language: ru
 open_questions:
   - The article gives no separate date for the operations; 9 November 2026 is its publication date and is used as the incident date.
   - 'The report does not say how many people were detained in total beyond the five described: a married couple and their accomplice in Sergeli, a driver in Qibray and two suspects in Mirzo-Ulugbek.'
@@ -119,14 +124,14 @@ open_questions:
 ---
 
 Officers of the Interior Ministry and the State Security Service broke up a group of drug sellers in
-Tashkent and Tashkent Region. [@1,2,3,4,5,6] Across several operations they found hashish, mephedrone
-and opium extract, described in total as about 26,300 single doses. [@1,3] The operations were part of
-the preventive campaign Safe and Healthy Country. [@1,3]
+Tashkent and Tashkent Region. [@1,2,3,4,5,6,8] Across several operations they found hashish, mephedrone
+and opium extract, described in total as about 26,300 single doses. [@1,3,8] The operations were part of
+the preventive campaign Safe and Healthy Country. [@1,3,8]
 
 ## Sergeli and Chilanzar
 
 In Sergeli district of the capital officers detained a married couple and their accomplice, who
-police say sold drugs through dead drops while moving by a Matiz car. [@1,2,3,4,5,6,7] Officers seized
+police say sold drugs through dead drops while moving by a Matiz car. [@1,2,3,4,5,6,7,8] Officers seized
 50 packs of hashish from them. [@1,2,3,4,5] A search of their rented flat in Chilanzar district found
 another 450 grams of hashish and 100 grams of mephedrone, hidden inside a plush toy [@4,5], with a
 thousand zip bags, electronic scales and tape for packing. [@1,2,3,4,5]
@@ -147,5 +152,5 @@ extract, 40 grams of hashish, electronic scales, a thousand zip bags and equipme
 drugs. [@1,2,3,4,5,6]
 
 In total the operations seized 550 grams of hashish, 100 grams of mephedrone and two kilograms of
-opium extract. [@1,3,4,5] A criminal case was opened against the group under Article 273 of the
+opium extract. [@1,3,4,5,8] A criminal case was opened against the group under Article 273 of the
 Criminal Code, which covers dealings with drugs for sale [@1,3,4,5,6], part 5 by one account. [@7]

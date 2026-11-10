@@ -70,25 +70,60 @@ sources:
     publisher: Teleprensa
     date: 2026-10-30
     language: es
-open_questions:
-  - The reports date the operation only as “last Tuesday”; 27 October 2026 is taken from their 30 October publication date.
-  - No figure for the number of plants seized, their weight or the value of the crop was published.
-  - The number of people detained was not given; the reports refer only to the presumed managers of the plantation.
-  - All three reports rest on the town hall's account of the operation, and no Guardia Civil statement or court record for the case was found.
-  - No charges, court appearance or sentence was reported.
-  - The images on the cited pages are archive photographs of cannabis crops and a picture of the two councillors, not photographs of this plantation.
-  - Guadial is described only as an urbanización; the reports do not say whether the nave stands in a residential or an industrial area.
-  - 'Left out, as its quotation was not found in Aionsur: It said it hoped the residents of Guadial, and of Huévar more widely, would no longer have “narcodelincuentes”, drug traffickers, near their homes.'
-  - Europa Press's headline calls the dismantled site a marijuana sales point, while its text describes an indoor plantation and gives no detail of retail sales.
-  - The only image on the Sevilla Actualidad page is captioned as a Guardia Civil arrest of an alleged romance scammer in Estepa, not this plantation.
+  - title: Dos detenidos con mil plantas de marihuana en una nave de en Huévar (Sevilla)
+    url: https://www.abc.es/espana/dos-detenidos-mil-plantas-marihuana-nave-huevar-20261110092124-nt.html
+    publisher: Diario ABC
+    date: 2026-11-10
+    language: es
+  - title: Dos detenidos en Huévar (Sevilla) con un cultivo de 1.000 plantas de marihuana en una nave
+    url: https://www.europapress.es/andalucia/sevilla-00357/noticia-dos-detenidos-plantacion-indoor-marihuana-1000-plantas-interior-desmantelada-huevar-sevilla-20261110100811.html
+    publisher: Europa Press
+    date: 2026-11-10
+    language: es
+  - title: Sucesos.- Dos detenidos y una plantación indoor de marihuana con 1.000 plantas desmantelada en Huévar
+    url: https://www.msn.com/es-es/noticias/otras/sucesos-dos-detenidos-y-una-plantaci%C3%B3n-indoor-de-marihuana-con-1000-plantas-desmantelada-en-hu%C3%A9var/ar-AA2h8axQ
+    publisher: Europa Press
+    date: 2026-11-10
+    language: es
+  - title: La Guardia Civil desmantela una plantación de marihuana con más de 1.000 plantas en Huévar del Aljarafe
+    url: https://www.diariodesevilla.es/provincia/guardia-civil-desmantela-plantacion-marihuana-huevar-aljarafe_0_2008462463.html
+    publisher: Diario de Sevilla
+    date: 2026-11-10
+    language: es
+  - title: Encuentran 1.000 plantas de marihuana en una nave industrial de Huévar
+    url: https://www.abc.es/sevilla/provincia/aljarafe/encuentran-1000-plantas-marihuana-nave-industrial-huevar-20261110104738-nts.html
+    publisher: Diario ABC
+    date: 2026-11-10
+    language: es
+  - title: Dos detenidos tras desmantelar una plantación de marihuana con 1.073 plantas en una nave industrial de Huévar del Aljarafe
+    url: https://www.elpespunte.es/provincia/huevar-del-aljarafe/dos-detenidos-desmantelar-plantacion-marihuana-1073-plantas-nave-industrial-huevar-aljarafe/20261110084322161243.html
+    publisher: El Pespunte
+    date: 2026-11-10
+    language: es
+  - title: Vídeo | Desmantelada una plantación de marihuana con más de 1.000 plantas en Huévar del Aljarafe
+    url: https://www.diariodesevilla.es/videos/video-desmantelada-plantacion-marihuana-huevar-aljarafe_8_2008462474.html
+    publisher: Diario de Sevilla
+    date: 2026-11-10
+    language: es
+media:
+  - kind: photo
+    url: https://www.europapress.es/andalucia/sevilla-00357/noticia-dos-detenidos-plantacion-indoor-marihuana-1000-plantas-interior-desmantelada-huevar-sevilla-20261110100811.html
+    media_url: https://img.europapress.es/fotoweb/fotonoticia_20261110100811_690.jpg
+    publisher: Europa Press
+    caption: 'Image of the detention of one of the suspects. Photo: Guardia Civil via Europa Press'
+  - kind: photo
+    url: https://www.diariodesevilla.es/videos/video-desmantelada-plantacion-marihuana-huevar-aljarafe_8_2008462474.html
+    media_url: https://static.grupojoly.com/clip/13118ac2-99b8-48bb-96dc-060ba0e74c94_16-9-aspect-ratio_1600w_0.webp
+    publisher: Diario de Sevilla
+    caption: Photo of the dismantled marijuana plantation with more than 1,000 plants in Huévar del Aljarafe.
 ---
 
 The Guardia Civil dismantled a marijuana plantation inside a building in the
-town of Huévar del Aljarafe, in Seville province. [@1,4,5,6,7] Officers detained the
-people described as responsible for the crop. [@1,4,5,6,7] The plantation was indoors,
+town of Huévar del Aljarafe, in Seville province. [@1,4,5,6,7,8,12,13,14] The investigation was carried out by the Guardia Civil posts of Pilas and Villamanrique de la Condesa with the Pilas Local Police. [@9,11,13] Behind a raised hatch and false ceiling officers found ten kilograms of processed marijuana and five kilograms of packaged buds ready for distribution. [@9,10,11,13,14] The same hidden compartment also held 15 kilograms of cut tobacco. [@11,13] Officers seized 1,073 cannabis plants about 1.50 metres tall in advanced flowering with a high THC concentration. [@9,10,11,13,14] The warehouse held a sophisticated setup with two rooms for intensive marijuana cultivation. [@9,13] Officers detained the
+people described as responsible for the crop. [@1,4,5,6,7,8,12] The warehouse entry and search were authorised by the court of Sanlúcar la Mayor. [@9,13] The two detained people were placed at the disposal of the judicial authority as alleged perpetrators of drug trafficking and electricity fraud. [@9,11,13,14] The two suspects were intercepted in a vehicle just after leaving the warehouse under surveillance. [@9,10,13] The plantation was indoors,
 in a nave — an industrial unit or warehouse — in Guadial, an urbanización, or
 planned development, within the municipality. [@2] The operation took place on
-Tuesday 27 October 2026. [@2,4,7] The Guardia Civil officers travelled to the town
+Tuesday 27 October 2026. [@2,4,7,9,11,13] The investigation, called operation 172 Italica Quisquilae, began from live-source information and located the warehouse suspected of being an illicit cultivation centre. [@9,10,11,13] The Guardia Civil officers travelled to the town
 from Pilas. [@3,4,6,7]
 
 The deputy mayor, Manuel Ruiz, and the councillor for Guadial, Isabel María

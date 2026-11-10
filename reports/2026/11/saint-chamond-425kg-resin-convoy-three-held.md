@@ -76,27 +76,26 @@ sources:
     publisher: 42info
     date: 2026-11-09
     language: fr
-open_questions:
-  - The amount of cash seized in the searches was not published.
-  - The reports do not say when a trial might take place or what sentences the three men could face.
-  - The convoy was followed from Perpignan, but the articles do not identify the exact border crossing from Spain.
-  - 'Left out, as its quotation was not found in Radio Scoop: The two men in the convoy and the man at whose home the load was to be delivered were arrested as the drugs were being unloaded, with the support of the GIGN, the gendarmerie''s intervention unit, from Orange.'
-  - 'Left out, as its quotation was not found in Radio Scoop: The Saint-Étienne prosecutor''s office put the street resale value of the resin at several million euros.'
-  - Le Progrès does not state the exact amount of cash seized, nor the date on which the three were brought before the court (6 November is taken from the report's earlier sources).
-  - The new account repeats that the three suspects were placed in pre-trial detention but does not give the date of their court appearance.
-  - 42info credits the article partly to Radio SCOOP and repeats the same regional gendarmerie account, so it is not independent reporting.
-  - The article recounts the surveillance step of 1 November only in general terms and does not say where in the Pyrénées-Orientales the vehicles were observed or how long they were followed.
-  - No amount of cash seized in the searches was published, and the article gives the resale value only as several million euros.
+  - title: Les pompiers de la Loire en compétition à Feurs / L’ASSE écarte Laval à Geoffroy-Guichard / La 47e édition de la Fête de la Pomme - Le JT
+    url: https://www.tl7.fr/replay/le-jt_1/les-pompiers-de-la-loire-en-competition-a-feurs-l-asse-ecarte-laval-a-geoffroy-guichard-la-47e-edition-de-la-fete-de-la-pomme_xbv9jlu.html
+    publisher: TL7, Télévision loire 7
+    date: 2026-11-09
+    language: fr
+  - title: De l'Espagne à Perpignan jusqu'à la Loire, une énorme quantité de drogue découverte par les gendarmes
+    url: https://actu.fr/auvergne-rhone-alpes/saint-chamond_42207/de-l-espagne-a-perpignan-jusqu-a-la-loire-une-enorme-quantite-de-drogue-decouverte-par-les-gendarmes_65037276.html
+    publisher: actu.fr (Actu Saint-Étienne)
+    date: 2026-11-10
+    language: fr
 ---
 
 Three men aged between 28 and 45 were arrested in Saint-Chamond, in the Loire
-department, in the late morning of Monday 2 November 2026. [@1,4]
+department, in the late morning of Monday 2 November 2026. [@1,4,7]
 
 Gendarmes of the Lyon research section had opened a preliminary investigation at
 the end of August 2026 into an organisation suspected of importing cannabis
 resin. [@2,4,5] The convoy's two cars had loaded 425 kg of cannabis resin in
 Perpignan, after the drug had come from Spain, and were heading for the
-Saint-Étienne and Lyon markets. [@3,4]
+Saint-Étienne and Lyon markets. [@3,4,8]
 
 Searches found 425 kg of cannabis resin and cash, whose amount was not stated.
 [@2,4,6] The three suspects, from Saint-Chamond, Annonay in Ardèche and Vénissieux

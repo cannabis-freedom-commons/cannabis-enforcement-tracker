@@ -45,6 +45,11 @@ media:
     media_url: https://img.prameyanews.com/FilesUpload/News7/Posts/2026/11/10/1794277632_WhatsApp_Image_2026-11-10_at_06_19_42.webp
     publisher: Prameya News
     caption: Photograph published with the Prameya report on the 132 kg ganja seizure near Dokripada; its caption repeats the headline and it carries no separate credit.
+  - kind: photo
+    url: https://odishatv.in/odisha/film-style-chase-ends-in-major-haul-odisha-police-seize-132-kg-ganja-1-arrested-in-koraput-12799212
+    media_url: https://img-cdn.publive.online/fit-in/1280x960/filters:format(webp)/odishatv/media/media_files/2026/11/10/film-style-chase-ends-in-major-haul-odisha-police-seize-132-kg-ganja-1-arrested-in-koraput-2026-11-10-20-25-45.png
+    publisher: OdishaTV
+    caption: 'Police chasing the pickup van (registration number OD-10 X-5940). Photo: OTV'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 083b479c210587ab60e9c23f9bc90dd9
@@ -54,24 +59,26 @@ sources:
     url: https://www.prameyanews.com/132-kg-of-ganja-seized-from-pickup-van-one-arrested
     publisher: Prameya News
     date: 2026-11-10
+  - title: '‘Film-style chase ends in major haul’: Odisha Police seize 132 kg ganja; 1 arrested in Koraput'
+    url: https://odishatv.in/odisha/film-style-chase-ends-in-major-haul-odisha-police-seize-132-kg-ganja-1-arrested-in-koraput-12799212
+    publisher: OdishaTV
+    date: 2026-11-10
 open_questions:
-  - The article datelines the incident 'Lamtaput, Nov 11' but is published on 10 November 2026 at 7:57 am; 10 November 2026 is used as the incident date and the conflict is unresolved.
-  - No police statement or second outlet report for this seizure could be opened, so the 132 kg figure and the Rs 15 lakh valuation rest on one source.
-  - The article gives no charge section, no case number and no court outcome beyond the arrest and the launch of further investigation.
-  - The article does not say whether the pickup van was confiscated, and it names no village for the Patangi area or for the Malkangiri border area the ganja came from.
-  - The page photo is captioned only with the story headline and carries no credit, so it is not confirmed to show this seizure; it is listed as media rather than used as a cover.
+    - Accounts differ on whether the pickup van was stopped at a police checkpoint or intercepted after a pursuit when the driver attempted to flee.
+    - The Rs 15 lakh valuation was reported only by Prameya, while OdishaTV reported the 132 kg seizure without a financial valuation.
+    - No specific NDPS Act sections, case number or court proceedings beyond the arrest and initial investigation have been reported.
+    - The source of the ganja in Malkangiri and the intended destination network remain under investigation.
 ---
 
 A joint team of Machhkund and Lamtaput police set up a checkpoint near Dokripada
 village after receiving intelligence about a ganja smuggling operation. [@1]
 Officers spotted a pickup van approaching at high speed and stopped it for
 inspection. [@1] The search found 132 kg of ganja packed in seven sacks in the
-vehicle's rear cargo compartment. [@1] The driver was arrested at the scene.
-[@1]
+vehicle's rear cargo compartment. [@1] Officers also seized the pickup van used to carry the contraband. [@2] The driver was arrested at the scene.
+[@1,2] Police identified the driver as Gopinath Khinibudi, a resident of Renga village in the Pottangi area of Koraput district. [@2]
 
 Police estimated the seized ganja to be worth about Rs 15 lakh. [@1] A
 preliminary investigation suggested the ganja was being taken from a border area
 of Malkangiri district to Patangi for illegal distribution. [@1] Police said
 they had begun a further investigation to identify others in the smuggling
 network and to establish the full extent of the operation. [@1]
-

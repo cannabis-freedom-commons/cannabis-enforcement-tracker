@@ -85,26 +85,17 @@ sources:
     url: https://www.arabtimesonline.com/news/declared-as-ceiling-lights-565kg-of-suspected-marijuana-seized-at-kuwait-air-cargo-from-south-africa/
     publisher: Arab Times
     date: 2026-11-10
+  - title: Customs seizes 5,650 kg of suspected marijuana at air cargo | Kuwait Times Newspaper
+    url: https://kuwaittimes.com/article/53342/kuwait/customs-seizes-5650-kg-of-suspected-marijuana-at-air-cargo/
+    publisher: Kuwait Times
+    date: 2026-11-10
 open_questions:
-  - The source gives no separate date for the inspection; 9 November 2026 is its publication date and stands in for the incident date.
-  - The substance is described as suspected marijuana, called herbal hashish in Arabic; no laboratory confirmation was reported.
-  - No arrests, suspects, nationalities or charges were reported, and no court outcome is known.
-  - No value estimate for the 5.650 kilograms was published.
-  - The two parcels are counted as two sites of seizure; the source does not say whether they were sent by one shipper or consignee.
-  - Only one account of this customs statement could be opened; the General Directorate of Customs news page did not load during research.
-  - Al-Seyassah says the customs inspection was carried out on the directions of the First Deputy Prime Minister and Interior Minister Sheikh Fahad Al-Yousuf, an authority chain the earlier Al-Jarida account did not mention.
-  - Al Qabas reproduces the same customs statement as the outlets already cited and credits the text to SyndiGate Media, so it is not independent reporting.
-  - No date is given for the customs inspection; 9 November 2026 is the publication date.
-  - No arrests, suspects, nationalities, charges or value estimate were reported, and no court outcome is known.
-  - The page gives no separate date for the customs inspection; 9 November 2026 is its publication date.
-  - The page's single photograph is uncaptioned and uncredited and is not shown to depict these parcels, so it is left out.
-  - Al-Anba gives no separate date for the customs inspection; 10 November 2026 is its publication date.
-  - Al-Anba publishes the seizure on 10 November 2026, a day after the other accounts of the same customs statement, and repeats the same General Directorate of Customs wording, so it is not independent reporting.
-  - The Al-Anba headline says 5.6 kilograms while its text and the other accounts give 5.650 kilograms; the text figure is used.
-  - Al-Anba gives no arrests, suspects, nationalities, charges or value estimate.
-  - Arab Times gives no separate date for the customs inspection; 10 November 2026 is its publication date, while its text datelines the report to 9 November.
-  - The Arab Times video is uncaptioned and uncredited, so it cannot be confirmed to show these parcels; it is linked, not copied.
-  - The substance remains described as suspected marijuana; no laboratory confirmation was reported.
+    - The source gives no separate date for the customs inspection; 9 November 2026 is its publication date and stands in for the incident date.
+    - The substance is described as suspected marijuana, called herbal hashish in Arabic; no laboratory confirmation was reported.
+    - No arrests, suspects, nationalities or charges were reported, and no court outcome is known.
+    - No value estimate for the sealed substance was published.
+    - The two parcels are counted as two sites of seizure; the source does not say whether they were sent by one shipper or consignee, or whether they came from South Africa or another African country.
+    - Only the General Directorate of Customs statement underlies the accounts; the customs news page itself did not load during research.
 media:
   - kind: photo
     url: https://www.alanba.com.kw/1384402
@@ -119,19 +110,19 @@ media:
 ---
 
 Kuwait's Air Cargo Customs Department said its inspection and deposit control
-inspectors seized two parcels that arrived from South Africa. [@1,2,3,4,5,7,8,9] The parcels
+inspectors seized two parcels that arrived from South Africa. [@1,2,3,4,5,7,8,9,10] The parcels
 carried a substance suspected to be marijuana, described as herbal hashish,
-weighing 5.650 kilograms in total. [@1,2,3,4,5,6,8]
+weighing 5.650 kilograms in total. [@1,2,3,4,5,6,8,10]
 
 The parcels had been declared as ceiling lamps, and the inspectors found the
-suspected substance inside them after searching. [@1,2,3,4,5,8] After the seizure, the
+suspected substance inside them after searching. [@1,2,3,4,5,8,10] After the seizure, the
 customs search and investigation department coordinated with the Interior
 Ministry's General Department for Drug Control to complete the legal procedures
-for the seized parcels. [@1,2,3,4,5,8]
+for the seized parcels. [@1,2,3,4,5,8,10]
 
 The General Directorate of Customs said it would keep blocking drug-smuggling
 attempts through customs posts and working with security agencies. [@1]
 
-Inspectors carried out the seizure on the directions of First Deputy Prime Minister and Interior Minister Sheikh Fahad Al-Yousuf. [@3,9]
+Inspectors carried out the seizure on the directions of First Deputy Prime Minister and Interior Minister Sheikh Fahad Al-Yousuf. [@3,9,10]
 
 Kuwait's General Directorate of Customs said the seizure was made on the directions of First Deputy Prime Minister and Interior Minister Sheikh Fahad Al-Yousuf. [@6]

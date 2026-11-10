@@ -72,11 +72,18 @@ sources:
     publisher: Radio Oasis 94.3 FM
     date: 2026-11-05
     language: es
+  - title: Destruyen 27 toneladas de marihuana en zona rural de Capitán Bado
+    url: https://prensamercosur.org/2026/11/05/destruyen-27-toneladas-de-marihuana-en-zona-rural-de-capitan-bado/
+    publisher: Prensa Mercosur
+    date: 2026-11-05
+    language: es
 open_questions:
-  - No arrests were named in the opened reports; investigations were said to be continuing.
-  - The articles give no separate raid date beyond the 5 November 2026 publications, so the publication date stands in for the event date.
-  - Última Hora, published on 5 November 2026, says the destruction happened "este jueves" (this Thursday), while Radio Oasis dates the search to the morning of Wednesday 4 November 2026; the report uses 4 November.
-  - The number of cannabis plants on the nine hectares was not published in either account.
+    - No arrests were named in the opened reports; investigations were said to be continuing.
+    - The articles give no separate raid date beyond the 5 November 2026 publications, so the publication date stands in for the event date.
+    - Última Hora, published on 5 November 2026, says the destruction happened "este jueves" (this Thursday), while Radio Oasis dates the search to the morning of Wednesday 4 November 2026; the report uses 4 November.
+    - The number of cannabis plants on the nine hectares was not published in the accounts.
+    - Agencia IP reported the operation was coordinated with prosecutor Jorge Sosa, whereas other outlets named prosecutor Sarita Bonzi.
+    - Agencia IP reported 27 tonnes of cannabis destroyed, representing SENAD's estimated yield from the nine eradicated hectares.
 ---
 
 Agents of SENAD's Pedro Juan Caballero regional office raided a rural property
@@ -88,7 +95,7 @@ identify those responsible and bring them before the courts. [@1]
 Agents found three parcels of growing cannabis covering 9 hectares. [@2] They
 found 450 kilos of chopped marijuana packed in 15 bags of 30 kilos each. [@1,3]
 They also found 15 kilos of cannabis seeds. [@1,3] They dismantled five precarious
-camps used by the growers. [@2,3] They seized a homemade industrial sieve used to
+camps used by the growers. [@2,3,5] SENAD stated that the production from the dismantled site was destined for distribution across Brazil, primarily in favelas. [@5] They seized a homemade industrial sieve used to
 process the drug. [@2]
 
 By judicial order, all the evidence was destroyed and incinerated on site after

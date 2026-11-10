@@ -40,12 +40,17 @@ status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [elgeyo-marakwet, sentencing, trafficking]
 open_questions:
-  - No second outlet account was found; 266.2 kg is the trial-proved quantity and whether Odhiambo appealed was not reported.
+    - Whether Odhiambo appealed was not reported.
 sources:
   - title: Man fined Sh24 million for trafficking bhang worth Sh7.98 million
     url: https://eastleighvoice.co.ke/news/405024/man-fined-sh24-million-for-trafficking-bhang-worth-sh798-million
     publisher: The Eastleigh Voice
     date: 2026-09-26
+    language: en
+  - title: 266kg of bhang destroyed in court-supervised exercise
+    url: https://www.kbc.co.ke/266kg-of-bhang-destroyed-in-court-supervised-exercise/
+    publisher: KBC Digital
+    date: 2026-11-10
     language: en
 ---
 
@@ -54,7 +59,7 @@ of bhang valued at Sh7.98 million in Elgeyo Marakwet County. [@1] Vincent
 Odhiambo was sentenced to pay the fine or serve 10 years in prison in
 default, following a conviction secured by the ODPP under Section 4(a)(ii) of
 the Narcotic Drugs and Psychotropic Substances (Control) Amendment Act,
-2022. [@1]
+2022. [@1,2]
 
 The prosecution told the court that on January 18, 2026, Odhiambo, jointly
 with others, was found trafficking 266.2 kg of cannabis sativa transported

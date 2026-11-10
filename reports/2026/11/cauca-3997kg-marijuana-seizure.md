@@ -123,6 +123,16 @@ sources:
     publisher: El País
     date: 2026-11-09
     language: es
+  - title: Cerca de cuatro toneladas de marihuana con destino al exterior fueron incautadas en el Cauca | Popayán | Caracol Radio
+    url: https://caracol.com.co/2026/11/10/cerca-de-cuatro-toneladas-de-marihuana-con-destino-al-exterior-fueron-incautadas-en-el-cauca/
+    publisher: Caracol Radio
+    date: 2026-11-10
+    language: es
+  - title: Casi cuatro toneladas de marihuana que presuntamente iban a Perú y Chile fueron incautadas en el Cauca
+    url: https://rionoticias.co/casi-cuatro-toneladas-de-marihuana-que-presuntamente-iban-a-peru-y-chile-fueron-incautadas-en-el-cauca/
+    publisher: RÍO NOTICIAS
+    date: 2026-11-10
+    language: es
 open_questions:
   - No municipality or separate date for the operation was published; 7 November 2026 is the EFE dispatch and announcement date and stands in for the event date.
   - The names, charges and judicial outcome for the two captured people were not reported.
@@ -153,24 +163,24 @@ media:
 ---
 
 Colombian authorities seized 3,997 kilograms of marijuana in the department of Cauca in southwestern
-Colombia. [@1,3,4,5,6,7,8,9,10,11,12,13,14,16,17] The marijuana was reportedly to be sent to Peru and Chile.
-[@1,3,4,5,6,7,10,11,12,14] President Abelardo de la Espriella announced the seizure, the capture of two
+Colombia. [@1,3,4,5,6,7,8,9,10,11,12,13,14,16,17,18,19] The marijuana was reportedly to be sent to Peru and Chile.
+[@1,3,4,5,6,7,10,11,12,14,18,19] President Abelardo de la Espriella announced the seizure, the capture of two
 people and the immobilisation of three vehicles. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17]
 
 ## Three procedures
 
 The National Police said the haul came from three procedures against drug-trafficking structures
-[@2,16]: in the Río Blanco sector of Popayán, in the municipality of Jambaló, and in Mondomo, a
+[@2,16,18]: in the Río Blanco sector of Popayán, in the municipality of Jambaló, and in Mondomo, a
 corregimiento of Santander de Quilichao. [@15,16,17] Most of the marijuana was collected at Río Blanco and
-Jambaló. [@16] In Mondomo, on the Panamericana highway, police arrested one person, immobilised a truck and
+Jambaló. [@16,19] In Mondomo, on the Panamericana highway, police arrested one person, immobilised a truck and
 seized about 4,542 litres of chemicals, 100 containers of caustic soda and 36 scales, Brigadier General
-Carlos Germán Oviedo, commander of Police Region 4, said. [@15,16,17]
+Carlos Germán Oviedo, commander of Police Region 4, said. [@15,16,17,18,19]
 
 The seized material included 1,186 packages of creepy-type marijuana [@1,3,4,5,6,8,9,10,11,12,13,14], and
 the chemicals, caustic soda, scales and other supplies used in clandestine laboratories for processing
 drugs. [@1,3,4,6,7,8,9,10,11,12,13,14,16] The police put the economic impact at 3,883 million pesos, of
 which about 800 million was the material seized in Mondomo, and did not identify the structures affected
-or the two people arrested. [@15]
+or the two people arrested. [@15,18]
 
 De la Espriella said each seized shipment means fewer resources to finance terrorism, buy weapons and sow
 violence in the regions. [@1,3,8,14,16] The EMC dissidents, the ELN guerrilla and other armed groups

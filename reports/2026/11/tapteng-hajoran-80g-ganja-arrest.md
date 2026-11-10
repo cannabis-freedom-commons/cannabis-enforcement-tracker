@@ -37,6 +37,11 @@ media:
     media_url: https://files-manager.mistar.id/uploads/MISTAR/10-11-2026/polisi_tangkap_pengedar_ganja_di_tapteng_80_gram_barang_bukti_disita__2026-11-10_10-36-21_2834.jpg
     publisher: Mistar.id
     caption: 'The suspect at the police station. Photo: Polres Tapteng/Mistar'
+  - kind: photo
+    url: https://mistar.id/news/hukum-peristiwa/pemasok-ganja-di-badiri-diringkus-polisi-sita-200-gram-dari-dua-tersangka
+    media_url: https://files-manager.mistar.id/uploads/MISTAR/10-11-2026/pemasok_ganja_di_badiri_diringkus_polisi_sita_200_gram_dari_dua_tersangka__2026-11-10_17-11-51_1252.jpg
+    publisher: HARIAN MISTAR
+    caption: 'MHP alias Uccok with the seized evidence after arrest. Photo: Polres Tapteng public relations via Mistar'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8c16f3ac107195a4921df94269600f65
@@ -52,11 +57,16 @@ sources:
     publisher: ANALISASIBER.COM
     date: 2026-11-10
     language: id
-open_questions:
-  - Only one accessible source was found for this arrest, so the account could not be corroborated against a second outlet or the police statement.
-  - The suspects are identified only by initials and aliases, so their full names are unknown.
-  - The 80 grams is stated as gross weight, with no net weight or laboratory confirmation reported.
-  - No charges or court outcome were reported; the article only says the suspects were taken to district police headquarters for proceedings under the Narcotics Law.
+  - title: Pemasok Ganja di Badiri Diringkus, Polisi Sita 200 Gram dari Dua Tersangka
+    url: https://mistar.id/news/hukum-peristiwa/pemasok-ganja-di-badiri-diringkus-polisi-sita-200-gram-dari-dua-tersangka
+    publisher: HARIAN MISTAR
+    date: 2026-11-10
+    language: id
+  - title: Polres Tapteng Bongkar Rantai Pasokan Ganja di Badiri, Dua Pria Ditangkap dengan 200 Gram Barang Bukti
+    url: https://sinarlintasnews.com/2026/11/10/polres-tapteng-bongkar-rantai-pasokan-ganja-di-badiri-dua-pria-ditangkap-dengan-200-gram-barang-bukti/
+    publisher: Sinar Lintas News
+    date: 2026-11-10
+    language: id
 ---
 
 The operational team of the Tapanuli Tengah district police narcotics unit
@@ -72,6 +82,6 @@ Lopian ward in Badiri district. [@1]
 A search found one package of cannabis wrapped in black plastic with a gross
 weight of 80 grams and a black Redmi mobile phone. [@1,2] Under questioning at the
 scene, SP said he had obtained the package from a man identified as MHP, alias
-Uccok. [@1] Officers detained MHP later that same night in Lopian, Badiri. [@1,2]
+Uccok. [@1,3,4] Officers detained MHP later that same night in Lopian, Badiri. [@1,2,3] Uccok was arrested at a stall in Lingkungan IV, Lopian ward, Badiri at about 18.00 WIB on the same day. [@4] MHP alias Uccok is 41 and was allegedly the supplier. [@4] With this additional arrest, the total cannabis secured from the network in the one-day operation reached 200 grams, 80 grams from SP alias Gelleng and 120 grams from MHP alias Uccok. [@3,4] The search of Uccok found two packages of cannabis wrapped in black plastic with a total gross weight of 120 grams and a cream-coloured Realme mobile phone. [@3,4]
 Both suspects and all the evidence were taken to Tapanuli Tengah police
-headquarters for proceedings under Law Number 35 of 2009 on Narcotics. [@1]
+headquarters for proceedings under Law Number 35 of 2009 on Narcotics. [@1,3]

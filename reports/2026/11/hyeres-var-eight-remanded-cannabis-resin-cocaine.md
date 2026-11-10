@@ -83,6 +83,11 @@ sources:
     publisher: Ouest-France
     date: 2026-11-09
     language: fr
+  - title: Cocaïne, cannabis, 35 600 euros... Les impressionnantes saisies après une opération antidrogue près de Hyères
+    url: https://actu.fr/provence-alpes-cote-d-azur/hyeres_83069/cocaine-cannabis-35-600-euros-les-impressionnantes-saisies-apres-une-operation-antidrogue-pres-de-hyeres_65034344.html
+    publisher: actu.fr
+    date: 2026-11-10
+    language: fr
 open_questions:
   - The Nice-Matin account gives no date for the raids; 3 November 2026 comes from Var Actu.
   - Var Actu reports a judicial investigation opened in March 2026, while Nice-Matin says the Toulon prosecutor opened one after the May 2025 discovery.
@@ -103,14 +108,14 @@ announced. [@1,3] The investigating judge accused them of taking part in the
 trafficking; they are presumed innocent until a court rules. [@2,3] The raids were
 carried out on Tuesday 3 November 2026 in Hyères, Solliès-Pont, La Farlède and
 La Londe-les-Maures, with the help of the RAID, the national police intervention
-unit. [@2,4] Eight people were detained in the operation, all of them later placed
-in pre-trial detention. [@2,6]
+unit. [@2,4,7] Eight people were detained in the operation, all of them later placed
+in pre-trial detention. [@2,6,7]
 
 The searches that followed the raids turned up 5.5 kg of cocaine, 7.7 kg of
-cannabis resin and 1 kg of cannabis herb, the prosecutor's office said. [@1,3,6]
+cannabis resin and 1 kg of cannabis herb, the prosecutor's office said. [@1,3,6,7]
 Officers also seized €35,600 in cash, two semi-automatic pistols, large
 quantities of ammunition, packaging material for drugs, vehicles and some luxury
-clothing. [@1,3]
+clothing. [@1,3,7]
 
 The case began in May 2025, when the anti-crime squad of the Hyères police
 station found several hundred grams of cocaine, cannabis resin and cannabis
@@ -120,7 +125,7 @@ cocaine, 550 g of cannabis resin and 116 g of cannabis herb. [@2,5] The
 investigation was run by the Hyères police station with the support of the
 national investigations unit attached to the national directorate of the
 judicial police, and the Toulon prosecutor's office opened a judicial
-investigation in March 2026. [@2,3] The case is continuing before an investigating
+investigation in March 2026. [@2,3,7] The case is continuing before an investigating
 judge at the Toulon judicial court. [@1]
 
 The seizures in the case amounted to more than 14 kg of drugs, along with two handguns and €35,600 in cash. [@4] The eight suspects lived in Hyères, Solliès-Pont, La Farlède and La Londe-les-Maures. [@3]

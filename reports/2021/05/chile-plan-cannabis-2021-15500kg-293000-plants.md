@@ -71,15 +71,11 @@ sources:
     publisher: 24 Horas
     date: 2021-05-06
     language: es
-open_questions:
-  - The PDI and Meganoticias give a 218.22% rise in drugs taken out of circulation, while 24 Horas and Puranoticia give 236%; the report uses the 218.22% official figure.
-  - The PDI and Meganoticias say firearms rose from 1 to 17, while 24 Horas and Puranoticia report 23 firearms in the same period; the report uses 1 to 17 and records no firearms figure.
-  - The 16 vehicles are from the PDI count of a rise from 3 to 16; the other outlets give no vehicle breakdown.
-  - 24 Horas places the operation between January and April 2021, while Puranoticia describes it as January to the 6 May announcement; 6 May is used as the incident date and January-April as the operation period.
-  - No commune-level seizure sites are named beyond the La Serena to Biobio corridor, so the report is mapped at regional precision.
-  - No charges, prosecutions or court outcomes beyond the 42 detentions were reported.
-  - The 225,000 million figure is reported in pesos in Chilean outlets and is recorded as Chilean pesos.
-  - The 162 million doses and 225,000 million pesos are police estimates of the same cannabis haul.
+  - title: Plan Cannabis triplicó sus investigaciones
+    url: https://www.pdichile.cl/centro-de-prensa/detalle-prensa/2021/03/17/plan-cannabis-triplic%C3%B3-sus-investigaciones
+    publisher: PDI Chile
+    date: 2021-03-17
+    language: es
 ---
 
 On the morning of 6 May 2021, Chilean authorities presented the closing balance
@@ -89,7 +85,7 @@ Héctor Espinosa led the event, joined by Interior and crime-prevention
 undersecretaries, Metropolitan South prosecutor Héctor Barros and Senda director
 Carlos Charme. [@1] The National Anti-Narcotics and Organised Crime Headquarters
 runs each summer season to eradicate Cannabis sativa crops and dismantle groups
-that grow, harvest and sell them. [@1] The 2021 season covered plantations from
+that grow, harvest and sell them. [@1,5] Working with the Public Prosecutor's Office, investigators reached difficult mountain areas before harvest to anticipate and eradicate plantations. [@5] The 2021 season covered plantations from
 La Serena to the Biobío region. [@1] The operation ran between January and April
 2021. [@4]
 
@@ -106,4 +102,3 @@ result. [@1] Minister Delgado commended the PDI and prosecutors, saying hits
 against trafficking matter because drugs, violence and arms form a triad. [@1]
 The PDI chief clarified the 15.5 tonnes were cannabis sativa under Plan Cannabis
 only, excluding other drugs seized separately. [@3]
-

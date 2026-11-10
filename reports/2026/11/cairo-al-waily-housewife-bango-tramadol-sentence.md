@@ -56,20 +56,24 @@ sources:
     publisher: فيتو
     date: 2026-11-09
     language: ar
+  - title: حيثيات الحكم بالسجن 3 سنوات على المتهمة بالاتجار في البانجو بالوايلي
+    url: https://www.vetogate.com/5767920
+    publisher: فيتو
+    date: 2026-11-10
+    language: ar
 open_questions:
-  - No date is given for the arrest, the referral or the sentencing hearing; 9 November 2026 is the article's publication date and is used as the incident date.
-  - No weight was published for the cannabis, and no quantity was published for the tramadol tablets or the cash, so only the counts of people and the sentence are recorded as figures.
-  - Tramadol is not cannabis and is not counted in any figure; its quantities were not reported.
-  - The defendant is not named beyond being described as a housewife, and no age was given.
-  - No appeal or later step in the case is reported.
-  - Only one account of the case could be opened; searches in Arabic found no second outlet or court statement.
-  - The page image is captioned only as a court illustration with no credit and is not confirmed to show this hearing or the seized items, so it is listed as a link rather than a photo of the event.
+    - No date is given for the arrest, the referral, the sentencing hearing or the deposit of the court's reasoning; 9 and 10 November 2026 are the two articles' publication dates, with 9 November used as the incident date.
+    - No weight was published for the cannabis, and no quantity was published for the tramadol tablets or the cash, so only the counts of people and the sentence are recorded as figures.
+    - Tramadol is not cannabis and is not counted in any figure; its quantities were not reported.
+    - The defendant is not named beyond being described as a housewife, and no age was given.
+    - No appeal or later step in the case is reported.
+    - Both pages carry only a generic court illustration with no confirmed link to this hearing or the seized items, so no photo of the event is listed.
 ---
 
 The Cairo Criminal Court sentenced a housewife to three years of aggravated
 imprisonment and fined her 10,000 Egyptian pounds for possessing cannabis, known
 in Egypt as bango, and tramadol tablets in the Al-Waily police station district.
-[@1]
+[@1,2]
 
 A chemical laboratory report found a black bag holding green herbal plant
 material that tested as the active ingredient of cannabis, alongside tablets
@@ -77,12 +81,11 @@ that tested as tramadol, a drug listed in Egypt's narcotics schedule. [@1]
 
 Cairo Security Directorate officers received information and carried out
 investigations indicating that a housewife held and traded narcotic drugs, and
-the inquiries identified her. [@1] After setting ambushes, police arrested her
+the inquiries identified her. [@1,2] After setting ambushes, police arrested her
 inside her home and found a roll of cannabis plant and tramadol tablets, a sum
-of money and two mobile phones. [@1]
+of money and two mobile phones. [@1,2]
 
 Questioned by police, she admitted holding the items for sale and profit, said
 the money came from drug sales, and said she used the two phones to contact
-customers and run her activity. [@1] She was referred to the criminal court,
+customers and run her activity. [@1,2] In its reasoning, the court said it inferred trafficking intent rather than mere possession or use from the nature and variety of the seized materials and those admissions about the money and phones. [@2] She was referred to the criminal court,
 which issued the sentence. [@1]
-
