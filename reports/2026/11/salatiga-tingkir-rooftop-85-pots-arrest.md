@@ -70,6 +70,11 @@ media:
     media_url: https://awsimages.detik.net.id/community/media/visual/2026/11/06/penampakan-tanaman-ganja-yang-dibudidayakan-pria-di-dalam-rumah-di-perumahan-mekar-elok-tingkir-tengah-tingkir-kota-salatiga-k-1793966367008_169.jpeg?w=700&q=90
     publisher: detikJateng
     caption: 'Cannabis plants cultivated inside the occupied house in Perumahan Mekar Elok, Tingkir Tengah, Salatiga, published with the arrest report. Photo: Dok. Polres Salatiga'
+  - kind: photo
+    url: https://www.inews.id/regional/jateng/gerebek-rumah-pelukis-di-salatiga-polisi-temukan-85-pohon-ganja
+    media_url: https://img.inews.id/media/1050/files/inews_new/2026/11/10/tanaman_ganja.jpg
+    publisher: iNews TV
+    caption: 'Potted cannabis plants the Salatiga police say they seized from a painter''s house in Tingkir Tengah, Salatiga. Photo: iNews TV'
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2c00403481f740df6c7486fa09de31d1
@@ -120,6 +125,11 @@ sources:
     publisher: MSN
     date: 2026-11-08
     language: id
+  - title: Gerebek Rumah Pelukis di Salatiga, Polisi Temukan 85 Pohon Ganja
+    url: https://www.inews.id/regional/jateng/gerebek-rumah-pelukis-di-salatiga-polisi-temukan-85-pohon-ganja
+    publisher: iNews.id
+    date: 2026-11-10
+    language: id
 open_questions:
   - No weight was published for the dried cannabis found alongside the 85 pots, so no kilogram figure is recorded.
   - The articles give the number of pots (85) but no count of individual plants, and no area.
@@ -145,12 +155,14 @@ open_questions:
   - detikJateng's passage on the suspect's own-use admission could not be matched against the capture, so it was left out as a corroborating sentence.
   - The MSN page is a republication of Tribunnews reporting; its byline names Muhammad Renald Shiftanto and the canonical link points to Tribunnews.
   - The capture gives the article's relative age as 22 hours and metadata places publication on 8 November 2026; the incident date of 5 November 2026 is taken from the existing report.
+  - iNews gives the suspect's initials as KSB, while RMOL Jateng and Salatiga Terkini give KSBKN and Harian7 gives KS.
+  - The captured first page of the iNews article carries only the headline, caption and station report; its continuation printed further statements from Salatiga narcotics chief AKP Joko Iskandar about the seeds coming from a prison acquaintance in 2016, which were not matched against the capture and so are not recorded as report facts.
 ---
 
 Police from the narcotics unit at Salatiga district police arrested a
 59-year-old man who was growing cannabis on the roof of his house in Kelurahan
 Tingkir Tengah, Kecamatan Tingkir, Kota Salatiga, on Thursday 5 November 2026.
-[@1,4,5,6,8,9] Officers searched the house's rooftop area and found cannabis plants at
+[@1,4,5,6,8,9,10] Officers searched the house's rooftop area and found cannabis plants at
 every stage of growth, from seeds and small seedlings to bushy plants that
 appeared ready for harvest, along with dried cannabis. [@1] Police counted 85
 pots of cannabis plants as the total evidence taken in the raid. [@1,4,5,6,8,9]
