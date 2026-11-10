@@ -134,19 +134,26 @@ sources:
     url: https://www.msn.com/en-in/news/other/198-kg-hashish-meant-for-smuggling-to-sri-lanka-seized-in-tns-ramanathapuram-one-arrested/ar-AA2gJcQb
     publisher: MSN
     date: 2026-11-04
+  - title: இலங்கைக்கு கடத்த முயன்ற 20 கிலோ போதைப்பொருள் பறிமுதல்- ஒருவர் கைது
+    url: https://www.dailythanthi.com/news/tamilnadu/20-kg-of-drugs-tried-to-be-smuggled-to-sri-lanka-seized-one-arrested
+    publisher: Daily Thanthi
+    date: 2026-11-04
+    language: ta
+open_questions:
+  - Accounts differ on the domestic value of the hashish, placed at either Rs 2 lakh or Rs 2.5 lakh a kilogram.
 ---
 
 S.P. Pattinam police in Ramanathapuram district arrested 34-year-old A. Mano and recovered 19.8
-kilograms of hashish. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16] Mano, son of Anthony Xavier, is from Thalir
+kilograms of hashish. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17] Mano, son of Anthony Xavier, is from Thalir
 Marungoor in Thiruvadanai taluk. [@4,6,7,9]
 
 ## The interception
 
 Acting on a tip-off, a special team led by Inspector David Raviraj with Sub-Inspector Ramesh went to
 the coast near the Pasiyamman Temple at Pasipattinam. [@4,6,7,8,10,11,13,15,16] Around 12.50 pm the team
-intercepted Mano and recovered 2 kg of hashish from him. [@1,2,3,4,6,7,8,9,10,11,12,14] Questioning led
-police to his home, where another 17.8 kg was found. [@4,6,7,8,9,10,12,14,16] Police said the hashish had
-been stocked for smuggling to Sri Lanka. [@6,8,9,10,11,12] Superintendent of Police G. Chandeesh, who
+intercepted Mano and recovered 2 kg of hashish from him. [@1,2,3,4,6,7,8,9,10,11,12,14,17] Questioning led
+police to his home, where another 17.8 kg was found. [@4,6,7,8,9,10,12,14,16,17] Police said the hashish had
+been stocked for smuggling to Sri Lanka. [@6,8,9,10,11,12,17] Superintendent of Police G. Chandeesh, who
 visited the scene, said Mano had been living as a fugitive. [@4,9]
 
 Police valued the hashish at Rs 2.5 lakh a kilogram in India and nearly Rs 10 lakh a kilogram in Sri
