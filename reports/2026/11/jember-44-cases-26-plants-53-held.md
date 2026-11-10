@@ -44,6 +44,11 @@ media:
     media_url: https://smnnews.co.id/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-09-at-14.45.56.jpeg
     publisher: smnnews.co.id
     caption: 'Jember police chief AKBP Alaiddin, deputy chief Anthonio Effan Sulaiman and drug unit head Iptu Bagus Dwi Setyawan at the press conference on the 44 cases. Photo: Suliyadi/smnnews.co.id'
+  - kind: photo
+    url: https://www.liputan6.com/regional/read/8331998/1-kg-sabu-dan-26-batang-ganja-disita-dari-40-kasus-di-jember
+    media_url: https://cdn0-production-images-kly.akamaized.net/RHTA5BRzhqb-YoBqVsP1R_uvAAI=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9393899/original/043674900_1794275150-Compress_20260614_140101_1791.jpg
+    publisher: Liputan6.com
+    caption: 'Police display seized narcotics and cannabis evidence at the press conference at Mapolres Jember. Photo: Hermawan Arfianto/Liputan6.com'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 956aa5bb75f8a7dc460efa71ec3798a2
@@ -84,6 +89,11 @@ sources:
     publisher: ANTARA News Jawa Timur
     date: 2026-11-09
     language: id
+  - title: 1 Kg Sabu dan 26 Batang Ganja Disita dari 40 Kasus di Jember
+    url: https://www.liputan6.com/regional/read/8331998/1-kg-sabu-dan-26-batang-ganja-disita-dari-40-kasus-di-jember
+    publisher: Liputan6.com
+    date: 2026-11-10
+    language: id
 open_questions:
   - No second account of the 9 November 2026 press conference could be opened; the report rests on the SMN News article alone.
   - The 53 suspects cover all 44 cases; no cannabis-only arrest, charge or suspect count was published.
@@ -107,6 +117,9 @@ open_questions:
   - ANTARA states the 26 plants were grown in a pot by one suspect but does not say where or whether they were taken away or destroyed, and gives no weight for them.
   - ANTARA cites up to 20 years, life or death for methamphetamine over 5 grams but gives no charge or penalty for the cannabis suspects.
   - The only photo on the ANTARA page shows the Jember police press conference, including the police chief, and does not show the cannabis.
+  - Liputan6 counts 40 narcotics cases with 49 suspects (46 men, three women, four repeat offenders), while the report headlines 44 cases and 53 suspects; the higher totals include four dangerous-drug cases and their suspects, as already noted in the report.
+  - Liputan6 was published 10 November 2026 and quotes the police chief on Tuesday 10/11/2026, while the report dates the press conference to Monday 9 November 2026 on the strength of earlier-opened accounts.
+  - Liputan6 gives no weight for the 26 living potted plants and does not say whether they were taken away or destroyed.
 ---
 
 Police in Jember regency, East Java, said they uncovered 44 narcotics and
@@ -116,7 +129,7 @@ announced the results at a press conference at the police headquarters on Monday
 9 November 2026. [@1,3,5,6]
 
 The cannabis evidence in the haul was 23.26 grams of dried ganja and 26 cannabis
-plants, listed alongside methamphetamine and 25 ecstasy pills. [@1,2,5,6,7] A cannabis
+plants, listed alongside methamphetamine and 25 ecstasy pills. [@1,2,5,6,7,8] A cannabis
 case began with the arrest of CY in Jubung village, Sukorambi subdistrict,
 holding 8.72 grams of dried ganja, which led officers to MTA in Kebonsari,
 Sumbersari. [@1,5] The inquiry then extended to Situbondo regency, where police
@@ -137,4 +150,4 @@ Police said JW admitted growing the cannabis for his own use as a user but also 
 
 Officers also seized dried ganja and two ready-to-roll ganja cigarettes along with the 26 living potted plants when they moved against JW in Situbondo regency. [@5] Seblang.com counted the sweep as 40 narcotics cases and 49 suspects, 46 men and three women, four of them repeat offenders. [@5]
 
-Jember police chief Alaiddin called the two dozen potted cannabis plants one of the most notable pieces of evidence in the networks uncovered around Jember. [@7]
+Jember police chief Alaiddin called the two dozen potted cannabis plants one of the most notable pieces of evidence in the networks uncovered around Jember. [@7,8]
