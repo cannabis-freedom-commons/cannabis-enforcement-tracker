@@ -76,6 +76,21 @@ sources:
     publisher: Catania News
     date: 2026-11-09
     language: it
+  - title: Catania fermato mentre attendeva i clienti per spacciare | aveva cocaina marijuana e crack
+    url: https://www.zazoom.it/2026-11-09/catania-fermato-mentre-attendeva-i-clienti-per-spacciare-aveva-cocaina-marijuana-e-crack/19905520/
+    publisher: Zazoom Social News
+    date: 2026-11-09
+    language: it
+  - title: Catania, rider della droga fermato in strada mentre attende i clienti
+    url: https://etnanews24.it/catania-rider-della-droga-fermato-in-strada-mentre-attende-i-clienti/
+    publisher: Etna News 24
+    date: 2026-11-09
+    language: it
+  - title: 'Catania, fermato mentre attendeva i clienti per spacciare: aveva cocaina, marijuana e crack'
+    url: https://www.dayitalianews.com/catania-fermato-mentre-attendeva-clienti-spacciare-aveva-cocaina-marijuana-crack/
+    publisher: Dayitalianews
+    date: 2026-11-09
+    language: it
 open_questions:
   - The articles give no separate date for the stop and arrest; 8 November 2026 is inferred from the 9 November publication date.
   - No court outcome was reported beyond the arrest.
@@ -86,24 +101,27 @@ open_questions:
   - The page carries the same police handout photo already linked in the report, so no new media entry is added.
   - La Sicilia, like the earlier coverage, gives no separate date for the stop; 9 November 2026 is its publication date.
   - Catania News gives no separate date for the stop; 8 November 2026 is inferred from the 9 November publication date, as in the existing report.
+  - The submitted Zazoom page is an aggregator summary that credits Dayitalianews and links to its article; it adds no facts of its own.
+  - Etna News 24 and Dayitalianews both describe the same police operation and give the same quantities, so they are not independent of the underlying police account.
+  - The Zazoom page image is a 2021 upload from Dayitalianews whose caption only repeats the headline, so it is not confirmed to show this stop and no media entry is added for it.
 ---
 
 State police arrested a 44-year-old man from Catania on suspicion of possession
-of narcotics for sale. [@1,4,5,6] Officers of the Falchi, the Mobile Squad unit of
+of narcotics for sale. [@1,4,5,6,7] Officers of the Falchi, the Mobile Squad unit of
 Catania police headquarters that targets widespread crime, stopped him in corso
-Indipendenza during patrols of the city's neighbourhoods. [@1,4,6] According to the
+Indipendenza during patrols of the city's neighbourhoods. [@1,4,6,7] According to the
 police account, the man was waiting in the street for a customer to make a drug
-delivery. [@2,4] VRSicilia reported that officers spotted him in corso
+delivery. [@2,4,8] VRSicilia reported that officers spotted him in corso
 Indipendenza during checks of the area. [@3]
 
 Police said he looked around furtively and kept checking his mobile phone, and
-when asked for documents he handed over 4.1 grams of marijuana. [@1,4,6] When
+when asked for documents he handed over 4.1 grams of marijuana. [@1,4,6,9] When
 officers asked him to empty the pockets of his hoodie they found eight wraps of
-cocaine weighing 2.5 grams and six baggies of crack weighing 2.2 grams. [@1,4,6]
+cocaine weighing 2.5 grams and six baggies of crack weighing 2.2 grams. [@1,4,6,9]
 
 Database checks showed he had several police records and was already subject to
-an oral warning from Catania's police commissioner. [@1,6] He was arrested for
+an oral warning from Catania's police commissioner. [@1,6,9] He was arrested for
 possession of narcotics for sale, and the case is at the preliminary
-investigation stage, where the presumption of innocence applies. [@1]
+investigation stage, where the presumption of innocence applies. [@1,8]
 
 The oral warning against him was issued by the Questore, Catania's police commissioner, as a personal prevention measure. [@4]
