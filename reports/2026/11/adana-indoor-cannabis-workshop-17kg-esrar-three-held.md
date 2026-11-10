@@ -247,6 +247,11 @@ sources:
     publisher: İLKHABER-Gazetesi
     date: 2026-11-09
     language: tr
+  - title: 'Adana''da iklimlendirme sistemiyle kenevir yetiştirilen imalathaneye operasyon: 3 şüpheli yakalandı - İşçi Haber'
+    url: https://www.iscihaber.net/gundem/adanada-iklimlendirme-sistemiyle-kenevir-yetistirilen-imalathaneye-operasyon-3-supheli-yakalandi/280121
+    publisher: İşçi Haber
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The accounts give no separate date or time for the raid; 9 November 2026, the date of the ministry statement and of publication, stands in for the incident date.
   - No figure for the number of cannabis plants in the workshop, the area used or an estimated value of the esrar was published.
@@ -331,7 +336,7 @@ open_questions:
 ---
 
 Gendarmes detained three suspects in a raid on an indoor cannabis workshop in
-Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9,10,11,13,15,16,17,19,20,21,22,24,25,27,28,29,30] The workshop was found growing
+Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9,10,11,13,15,16,17,19,20,21,22,24,25,27,28,29,30,31] The workshop was found growing
 cannabis under a purpose-built air-conditioning system, and police said the
 three suspects were running a narcotics production and trading operation. [@2,4,7,10,28,30]
 The searches turned up 17 kilograms of esrar, a cannabis hashish product,
@@ -343,7 +348,7 @@ court step. [@2,9,10,12,14,26,30]
 
 The operation was run by the Adana Provincial Gendarmerie Command after
 intelligence work, coordinated by the Gendarmerie General Command's
-anti-narcotics department and the Adana chief public prosecutor's office. [@2,4,6,7,8,9,10,14,16,21,22,25,26,27,28,30]
+anti-narcotics department and the Adana chief public prosecutor's office. [@2,4,6,7,8,9,10,14,16,21,22,25,26,27,28,30,31]
 TRT Haber reported that the three suspects were held in gözaltı, the police
 custody in which a person is questioned while prosecutors decide on charges or
 release. [@3]
@@ -357,7 +362,7 @@ Searches at the address found 17 kilograms of esrar together with four standing 
 
 The address the gendarmes raided was in Seyhan district, Adana. [@9]
 
-The three detained suspects were said to have been referred for judicial proceedings. [@13,27]
+The three detained suspects were said to have been referred for judicial proceedings. [@13,27,31]
 
 The searches found a workshop where the suspects grew cannabis indoors with a purpose-built air-conditioning system. [@14]
 
