@@ -52,27 +52,38 @@ sources:
     publisher: Waspada.id
     date: 2026-11-09
     language: id
+  - title: Polres Nagan Raya Ungkap 13 Kasus Narkotika, Sita 205,96 Kilogram Sabu dan Amankan 14 Tersangka
+    url: https://globaldetik.com/2026/11/10/polres-nagan-raya-ungkap-13-kasus-narkotika-sita-20596-kilogram-sabu-dan-amankan-14-tersangka/
+    publisher: Globaldetik.com
+    date: 2026-11-10
+    language: id
+  - title: Polres Nagan Raya Ungkap 13 Kasus Narkotika, Sita 205,96 Kilogram Sabu dan Amankan 14 Tersangka
+    url: https://www.medianasional.id/polres-nagan-raya-ungkap-13-kasus-narkotika-sita-20596-kilogram-sabu-dan-amankan-14-tersangka/
+    publisher: medianasional.id
+    date: 2026-11-09
+    language: id
 open_questions:
   - The article reports a three-month case roundup and does not give arrest dates, locations or individual case details, so 9 November 2026, the press conference date, is used as the incident date.
   - It does not say how many of the 13 cases involved cannabis or which of the 14 suspects were linked to the ganja; the 14 are the total suspects for all 13 cases.
   - No charges, street value, court outcome or the source of the 33.5 kilograms of found ganja are reported.
   - Only one opened source describes this press conference; a Tribun Aceh headline on the same statement could not be opened (403), so its details are not used.
   - The 205.96 kilograms of sabu is reported here only as context and is not part of the cannabis figures.
+  - The submitted lintasnusantara.id page could not be read because the host suspended the site, so nothing from it is used.
+  - The opened outlets still do not say how many of the 13 cases involved cannabis, or whether the 9.97 grams and the 33.5 kilograms of ganja came from the same seizures or from separate finds.
 ---
 
 Nagan Raya district police reported 13 drug cases from the August to October
 2026 period at a press conference in the lobby of their headquarters on Monday 9
 November 2026. [@1] Officers detained 14 suspects across the 13 cases, the drug
-unit said. [@1]
+unit said. [@1,2]
 
 Among the evidence were 9.97 grams of ganja, the Indonesian term for cannabis,
 and 33,500 grams (33.5 kg) of cannabis found separately. [@1] The same statement
 reported 205.96 kg of methamphetamine, the bulk of the haul and outside this
 tracker's scope. [@1] Nagan Raya police chief AKBP Muhammad Taufiq gave the
-figures through drug unit head AKP Rachmad Mulyadi. [@1]
+figures through drug unit head AKP Rachmad Mulyadi. [@1,3]
 
 Rachmad said enforcement would continue against suspects and that cases would be
 developed to cut off trafficking networks. [@1] He asked residents to report
 suspected drug use and dealing in their neighbourhoods to help protect young
 people. [@1]
-
