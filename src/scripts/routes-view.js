@@ -32,6 +32,16 @@ function start() {
   // the site's dropdowns (Select.astro): each keeps its value in a hidden input that fires "change"
   const metricSel = document.getElementById("rv-metric"), productSel = document.getElementById("rv-product"), modeSel = document.getElementById("rv-mode");
   const activeRow = document.getElementById("routes-active");
+  // the search box is the reports' own (FilterBar), shared by both views
+  const search = document.getElementById("q");
+  const searchHint = { reports: search?.placeholder ?? "", routes: "Search routes, countries…" };
+  const words = () => (search?.value ?? "").toLowerCase().replace(/#/g, " ").split(/\s+/).filter(Boolean);
+  const fold = (t) => t.normalize("NFD").replace(/\p{M}/gu, "").toLowerCase();
+  const haystacks = new Map();
+  const haystack = (x) => {
+    if (!haystacks.has(x.i)) haystacks.set(x.i, fold([...x.f, ...x.t].map((id) => `${id} ${data.nodes[id]?.n ?? ""}`).concat(x.ti, x.x ?? "").join(" ")));
+    return haystacks.get(x.i);
+  };
   const panel = $("[data-panel]"), span = $("[data-span]"), playBtn = $("[data-play]");
   const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
   const theme = () => (doc.dataset.theme === "light" ? "light" : "dark");
@@ -79,11 +89,14 @@ function start() {
     if (state.mode) q.set("way", state.mode);
     if (state.pick?.line) q.set("route", state.pick.line.replace(">", "-"));
     if (state.pick?.place) q.set("place", state.pick.place);
+    if (search?.value.trim()) q.set("q", search.value.trim());
     history.replaceState(null, "", `${location.pathname}?${q}${location.hash}`);
   }
 
   function compute() {
-    shown = data.records.filter((x) => x.y >= state.from && x.y <= state.to && (!state.product || x.p === state.product) && (!state.mode || x.m.includes(state.mode)));
+    const terms = words().map(fold);
+    shown = data.records.filter((x) => x.y >= state.from && x.y <= state.to && (!state.product || x.p === state.product) && (!state.mode || x.m.includes(state.mode))
+      && terms.every((w) => haystack(x).includes(w)));
     ({ lines, domestic } = corridors(shown, data.nodes));
     byKey = new Map(lines.map((c) => [c.key, c]));
     totals = placeTotals(lines);
@@ -261,6 +274,7 @@ function start() {
   // the row under the filters: how many reports, a chip for each choice (× removes it), Clear all
   function renderChips() {
     const chips = [];
+    if (search?.value.trim()) chips.push(["search", `“${search.value.trim()}”`]);
     if (state.from !== first || state.to !== last) chips.push(["years", state.from === state.to ? String(state.from) : `${state.from}–${state.to}`]);
     if (state.product) chips.push(["product", products.find(([id]) => id === state.product)?.[1] ?? state.product, colorOf[state.product]]);
     if (state.mode) chips.push(["mode", modes.find(([id]) => id === state.mode)?.[1] ?? state.mode]);
@@ -287,6 +301,7 @@ function start() {
     if (key === "mode" || key === "all") { state.mode = ""; modeSel.value = ""; }
     if (key === "metric" || key === "all") { state.metric = "reports"; metricSel.value = "reports"; }
     if (key === "pick" || key === "all") { state.pick = null; tip?.remove(); }
+    if ((key === "search" || key === "all") && search?.value) { search.value = ""; search.dispatchEvent(new Event("input", { bubbles: true })); }
     refresh();
   }
   activeRow.addEventListener("click", (e) => {
@@ -514,13 +529,15 @@ function start() {
     return loading;
   }
 
+  // typing in the shared search narrows the routes too (at most once a frame, like the other filters)
+  search?.addEventListener("input", () => { if (active && data) refresh(); });
+
   // ---- the switch between the two views ----
-  let reportsQuery = active ? "" : location.search;
   async function setView(view) {
     const on = view === "routes";
     if (on === active) return;
-    if (on) reportsQuery = location.search;
     active = on;
+    if (search) search.placeholder = searchHint[view];
     doc.dataset.homeView = view;
     for (const b of switches) b.setAttribute("aria-pressed", String(b.dataset.view === view));
     if (on) {
@@ -535,7 +552,8 @@ function start() {
       tip?.remove();
       showLayers();
       draw(0);
-      history.replaceState(null, "", `${location.pathname}${reportsQuery}${location.hash}`);
+      // the reports list writes its own filters back into the address (the search may have changed)
+      search?.dispatchEvent(new Event("input", { bubbles: true }));
     }
     map?.resize();
   }
@@ -543,5 +561,5 @@ function start() {
     b.setAttribute("aria-pressed", String(b.dataset.view === (active ? "routes" : "reports")));
     b.addEventListener("click", () => setView(b.dataset.view));
   }
-  if (active) load();
+  if (active) { load(); if (search) search.placeholder = searchHint.routes; }
 }

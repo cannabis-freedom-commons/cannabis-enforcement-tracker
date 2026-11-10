@@ -7,27 +7,25 @@
 import { MODES, PRODUCTS } from "../lib/routes.js";
 import { routeYears } from "../lib/routes-years.js";
 import Select from "./Select.astro";
+const { part } = Astro.props; // "fields" (in the bar's row), "active" (the chips row) or "timeline"
 const { first, last, perYear } = routeYears();
 // a square-root scale, so the early years with a handful of routes still show next to the latest
 const top = Math.sqrt(Math.max(1, ...perYear.map((y) => y.total)));
 const n = perYear.length;
 const every = n > 20 ? 5 : n > 10 ? 2 : 1;
 ---
-<div class="routes-bar" id="routes-bar" role="search" aria-label="Filter routes">
-  <div class="routes-fields">
+{part === "fields" && <div class="routes-fields" id="routes-bar" role="group" aria-label="Filter routes">
     <Select id="rv-metric" label="Line width" value="reports" options={[{ value: "reports", label: "Width by reports" }, { value: "kg", label: "Width by kilograms" }]} />
     <Select id="rv-product" label="Cannabis" all="All cannabis" options={PRODUCTS.filter(([id]) => id).map(([value, label]) => ({ value, label }))} />
     <Select id="rv-mode" label="How it travelled" all="Any way" options={MODES.map(([value, label]) => ({ value, label }))} />
-  </div>
-  {/* what the map is narrowed to, each choice with its own ×, like the reports' filters */}
-  <div class="map-active routes-active" id="routes-active" role="status" hidden>
+</div>}
+{/* what the map is narrowed to, each choice with its own ×, like the reports' filters */}
+{part === "active" && <div class="map-active routes-active" id="routes-active" role="status" hidden>
     <span class="map-active-count" data-count></span>
     <span class="map-active-chips" data-chips></span>
     <button class="routes-clear" type="button" data-clear-all hidden>Clear all</button>
-  </div>
-</div>
-
-<div class="routes-timeline" id="routes-timeline" style={`--n:${n}`}>
+  </div>}
+{part === "timeline" && <div class="routes-timeline" id="routes-timeline" style={`--n:${n}`}>
   <div class="rt-head">
     <button type="button" class="routes-play" data-play aria-label="Replay the years one by one" title="Replay the years one by one"><span aria-hidden="true">▶</span></button>
     <output class="routes-span" data-span>{first}–{last}</output>
@@ -53,4 +51,4 @@ const every = n > 20 ? 5 : n > 10 ? 2 : 1;
     </div>
     <div class="rt-axis" aria-hidden="true">{perYear.map((y, i) => <span>{(i % every === 0 || i === n - 1) && (i === n - 1 || n - 1 - i >= every / 2) ? y.year : ""}</span>)}</div>
   </div>
-</div>
+</div>}

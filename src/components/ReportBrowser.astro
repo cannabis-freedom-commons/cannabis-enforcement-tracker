@@ -426,14 +426,16 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
       const f = FIGURE_FILTERS.find((x) => x.key === figKey.value), range = f && figs[f.key];
       $("fig-range").hidden = !f;
       $("fig-status-row").hidden = figKey.value !== "status";
+      const countryRow = maybe("fig-country-row");
+      if (countryRow) countryRow.hidden = figKey.value !== "country";
       const detail = DETAIL_FILTERS.find((x) => figKey.value === `detail:${x.key}`);
       document.querySelectorAll<HTMLElement>("[data-detail-row]").forEach((row) => { row.hidden = row.id !== `fig-detail-${detail?.key}`; });
       if (detail && details[detail.key]) $(`fig-detail-value-${detail.key}`).value = details[detail.key];
       $("fig-min").value = range?.[0] != null ? String(range[0]) : "";
       $("fig-max").value = range?.[1] != null ? String(range[1]) : "";
       if (figKey.value === "status") $("fig-status").value = status || "verified";
-      $("fig-note").textContent = f ? (f.report ? f.note : `Only reports that state the figure are kept.${f.note ? ` ${f.note}` : ""}`) : detail ? "Only reports that record it, with a source." : figKey.value === "photo" ? "Reports with a photo of the event." : "Verified: every fact checked against the sources.";
-      $("fig-apply").textContent = (f ? figs[f.key] : detail ? details[detail.key] : figKey.value === "status" ? status : photo) ? "Change filter" : "Add filter";
+      $("fig-note").textContent = f ? (f.report ? f.note : `Only reports that state the figure are kept.${f.note ? ` ${f.note}` : ""}`) : detail ? "Only reports that record it, with a source." : figKey.value === "country" ? "Reports from one country, or from a state or province in it." : figKey.value === "photo" ? "Reports with a photo of the event." : "Verified: every fact checked against the sources.";
+      $("fig-apply").textContent = figKey.value === "country" ? "Done" : (f ? figs[f.key] : detail ? details[detail.key] : figKey.value === "status" ? status : photo) ? "Change filter" : "Add filter";
     };
     const openFig = popover($("fig-popover"), addButton, () => { showFigure(); figKey.focus({ preventScroll: true }); });
     figKey.addEventListener("change", showFigure);
@@ -448,6 +450,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
         const key = figKey.value.slice(7), value = $(`fig-detail-value-${key}`).value;
         if (value) details[key] = value;
       } else if (figKey.value === "status") status = $("fig-status").value;
+      else if (figKey.value === "country") { /* the country applies as soon as it is chosen */ }
       else photo = true;
       apply();
       openFig(false);

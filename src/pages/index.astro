@@ -56,12 +56,19 @@ const jsonLd = [{
       {/* two views of the same map: the reports (the default) and the smuggling routes (?view=routes),
           chosen before the page is drawn so the other view never flashes; src/scripts/routes-view.js */}
       <script is:inline>if (new URLSearchParams(location.search).get("view") === "routes") document.documentElement.dataset.homeView = "routes";</script>
-      <div class="view-switch" role="group" aria-label="What the map shows">
-        <button type="button" data-view="reports" aria-pressed="true">Reports</button>
-        <button type="button" data-view="routes" aria-pressed="false">Smuggling routes</button>
-      </div>
-      <FilterBar />
-      <RoutesBar />
+      <FilterBar>
+        <div class="view-switch" slot="start" role="group" aria-label="What the map shows">
+          <button type="button" data-view="reports" aria-pressed="true" title="Reports on the map">
+            <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 1.5 14.5 8 8 14.5 1.5 8Z" /></svg><span>Reports</span>
+          </button>
+          <button type="button" data-view="routes" aria-pressed="false" title="Smuggling routes: where the cannabis came from and went">
+            <svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="2.5" cy="12" r="1.6" /><circle cx="13.5" cy="12" r="1.6" /><path d="M3.5 10.6C5 5 11 5 12.5 10.6" fill="none" stroke-width="1.6" /></svg><span>Routes</span>
+          </button>
+        </div>
+        <RoutesBar part="fields" slot="routes" />
+        <RoutesBar part="active" slot="routes-active" />
+      </FilterBar>
+      <RoutesBar part="timeline" />
     </div>
     <aside class="home-pane" aria-label="Reports and routes">
       <RoutesPane />

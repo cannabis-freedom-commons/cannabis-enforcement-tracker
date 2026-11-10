@@ -25,6 +25,8 @@ const first = list.map((r) => isoDate(r.date)).sort()[0] ?? "";
 ---
 <form class:list={["map-bar", { "is-page": page }]} id="map-bar" role="search" aria-label="Filter reports" onsubmit="return false">
   <div class="map-bar-main">
+  {/* the home page: the switch between its views first, and the routes' own controls (RoutesBar) */}
+  <slot name="start" />
   <div class="map-bar-row">
     <div class="range-switch" role="group" aria-label="Report time period">
       {!page && <>
@@ -52,18 +54,20 @@ const first = list.map((r) => isoDate(r.date)).sort()[0] ?? "";
         role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="tag-suggest" autocomplete="off" spellcheck="false" />
       <ul class="tag-suggest" id="tag-suggest" role="listbox" aria-label="Tags" hidden></ul>
     </div>
+    {/* on the map the country is one of the "+ Filter" choices, to keep the bar short */}
     {country
       ? <input type="hidden" id="country" value={country} data-fixed />
-      : <CountryPicker id="country" />}
+      : page && <CountryPicker id="country" />}
     <button type="button" class="add-filter" id="add-filter" aria-expanded="false" aria-controls="fig-popover" aria-haspopup="dialog">
       <svg viewBox="0 0 12 12" aria-hidden="true"><path d="M6 1v10M1 6h10" fill="none" stroke="currentColor" stroke-width="1.5" /></svg> Filter
     </button>
   </div>
+  <slot name="routes" />
   <div class="custom-period fig-popover" id="fig-popover" role="dialog" aria-label="Filter by a figure" hidden>
     <div class="fig-choose"><span>Filter by</span>
       <Select id="fig-key" label="Filter by" value={FIGURE_FILTERS[0].key} groups={[
         { label: "Figures the report states", options: FIGURE_FILTERS.filter((f) => !f.report).map((f) => ({ value: f.key, label: f.label })) },
-        { label: "What the report records", options: DETAIL_FILTERS.map((f) => ({ value: `detail:${f.key}`, label: f.label })) },
+        { label: "What the report records", options: [...(!page && !country ? [{ value: "country", label: "Country or state" }] : []), ...DETAIL_FILTERS.map((f) => ({ value: `detail:${f.key}`, label: f.label }))] },
         { label: "The report", options: [...FIGURE_FILTERS.filter((f) => f.report).map((f) => ({ value: f.key, label: f.label })), { value: "status", label: "Check status" }, { value: "photo", label: "Has a photo" }] },
       ]} />
     </div>
@@ -72,6 +76,7 @@ const first = list.map((r) => isoDate(r.date)).sort()[0] ?? "";
       <label>At least <input type="number" id="fig-min" min="0" step="any" inputmode="decimal" /></label>
       <label>At most <input type="number" id="fig-max" min="0" step="any" inputmode="decimal" /></label>
     </fieldset>
+    {!page && !country && <div class="fig-choose" id="fig-country-row" hidden><span>Country or state</span><CountryPicker id="country" /></div>}
     <div class="fig-choose" id="fig-status-row" hidden><span>Status</span>
       <Select id="fig-status" label="Status" value="verified" options={STATUSES.map(([value, label]) => ({ value, label }))} />
     </div>
@@ -108,6 +113,7 @@ const first = list.map((r) => isoDate(r.date)).sort()[0] ?? "";
     <button class="clear-filters" id="mark-read" type="button" hidden>Mark all as read</button>
     <button class="clear-filters" id="clear-filters" type="button" hidden>Clear all</button>
   </div>
+  <slot name="routes-active" />
   <input type="hidden" id="type" value="" />
   <input type="hidden" id="tag" value="" />
 </form>

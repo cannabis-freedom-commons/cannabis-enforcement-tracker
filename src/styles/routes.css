@@ -4,34 +4,45 @@
 :root { --amber: #e9b25f; }
 :root[data-theme="light"] { --amber: #b46a12; }
 
-/* the switch between the two views, at the top of the map; each view's filters float under it */
-.view-switch { position: absolute; z-index: 5; top: 10px; left: 50%; transform: translateX(-50%); display: flex; gap: 2px; padding: 3px; background: var(--surface); border: 1px solid var(--border); border-radius: calc(var(--r) + 2px); box-shadow: var(--shadow); }
-.view-switch button { padding: 6px 14px; border: 0; border-radius: var(--r); background: transparent; color: var(--text-2); font: 500 13px Inter, system-ui, sans-serif; cursor: pointer; white-space: nowrap; }
-.view-switch button:hover { color: var(--text); }
-.view-switch button[aria-pressed="true"] { background: var(--text); color: var(--bg); }
-.view-switch button:focus-visible { outline: 2px solid var(--text); outline-offset: 2px; }
-.home-map .map-bar { top: 58px; }
-@media (max-width: 860px) { .view-switch { left: 10px; transform: none; } }
+/* One row at the top of the map: the switch between the two views, the search they share, then
+   the current view's own filters ("+ Filter" and the time for the reports, three dropdowns for the
+   routes). Everything else of the other view is hidden. */
+.view-switch { order: -2; flex: none; display: flex; gap: 2px; padding: 2px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--r); box-shadow: var(--shadow); }
+.view-switch button { display: inline-flex; align-items: center; gap: 6px; padding: 0 10px; min-height: 30px; border: 0; border-radius: 2px; background: transparent; color: var(--text-2); font: 500 12.5px Inter, system-ui, sans-serif; cursor: pointer; white-space: nowrap; }
+.view-switch svg { width: 13px; height: 13px; flex: none; fill: currentColor; stroke: currentColor; opacity: .7; }
+.view-switch button:hover { color: var(--text); background: var(--surface-2); }
+.view-switch button[aria-pressed="true"] { background: var(--surface-2); color: var(--text); box-shadow: inset 0 -2px 0 var(--text); }
+.view-switch button[aria-pressed="true"] svg { opacity: 1; }
+.view-switch button[data-view="routes"][aria-pressed="true"] { box-shadow: inset 0 -2px 0 var(--amber); }
+.view-switch button[data-view="routes"][aria-pressed="true"] svg { color: var(--amber); }
+.view-switch button:focus-visible { outline: 2px solid var(--text); outline-offset: -2px; }
+
+.routes-fields, .routes-active { display: none; }
+:root[data-home-view="routes"] .routes-fields { display: flex; }
+:root[data-home-view="routes"] .routes-active:not([hidden]) { display: flex; }
+:root[data-home-view="routes"] .map-bar :is(.range-switch, #add-filter, #map-active, #fig-popover, #custom-period) { display: none; }
+:root[data-home-view="routes"] .map-bar .map-bar-row { display: none; }
+/* on a phone the reports keep their search behind the Filters button; the routes show it */
+@media (max-width: 860px) {
+  :root[data-home-view="routes"] .map-bar .map-bar-fields { display: flex; order: -1; width: 100%; }
+  :root[data-home-view="routes"] .map-bar .map-search-box { flex: 1 1 auto; }
+}
 
 .routes-pane { display: none; }
 :root[data-home-view="routes"] .routes-pane { display: block; }
 :root[data-home-view="routes"] .home-pane .browser,
 :root[data-home-view="routes"] .home-pane .pane-foot,
-:root[data-home-view="routes"] .home-map .map-bar,
 :root[data-home-view="routes"] .home-map .map-layers,
 :root[data-home-view="routes"] .home-map .map-timeline { display: none; }
-.routes-bar, .routes-timeline { display: none; }
-:root[data-home-view="routes"] .routes-bar { display: flex; }
+.routes-timeline { display: none; }
 :root[data-home-view="routes"] .routes-timeline { display: block; }
 
 /* the moving dots, on their own canvas over the map */
 .routes-dots { position: absolute; left: 0; top: 0; pointer-events: none; }
 
-/* the filters over the map, where the reports' are, in the same dropdowns, with the same row of
-   chips under them */
-.routes-bar { position: absolute; z-index: 4; top: 58px; left: 50%; transform: translateX(-50%); flex-direction: column; align-items: center; gap: 6px; width: max-content; max-width: calc(100% - 120px); font: 13px Inter, system-ui, sans-serif; }
-.routes-fields { display: flex; flex-wrap: nowrap; justify-content: center; gap: 8px; }
-.routes-fields .ui-select { flex: none; width: 180px; }
+/* the routes' dropdowns, in the bar's row */
+.routes-fields { flex: none; flex-wrap: nowrap; gap: 8px; }
+.routes-fields .ui-select { flex: none; width: 165px; }
 .routes-fields .ui-trigger { box-shadow: var(--shadow); }
 .routes-clear { flex: none; padding: 3px 6px; background: none; border: 0; color: var(--text-2); font: 11.5px var(--mono); text-decoration: underline; text-underline-offset: 3px; white-space: nowrap; cursor: pointer; }
 .routes-clear:hover { color: var(--text); }
@@ -71,9 +82,10 @@
 :root[data-theme="light"] .key-node.receive { background: #2f65a3; }
 .key-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--c); }
 @media (max-width: 860px) {
-  .routes-bar { left: 10px; right: 52px; transform: none; width: auto; max-width: none; align-items: stretch; }
-  .routes-fields { flex-wrap: wrap; justify-content: flex-start; }
-  .routes-fields .ui-select { flex: 1 1 140px; width: auto; min-width: 0; }
+  .view-switch button { padding: 0 9px; }
+  .routes-fields { width: 100%; flex-wrap: nowrap; justify-content: flex-start; gap: 6px; }
+  .routes-fields .ui-select { flex: 1 1 0; width: auto; min-width: 0; }
+  .routes-fields .ui-trigger { padding: 0 8px; font-size: 12px; }
   .routes-active { justify-content: flex-start; }
   .routes-timeline { left: 8px; right: 8px; bottom: 26px; padding: 6px 8px; }
   .rt-key { display: none; }
