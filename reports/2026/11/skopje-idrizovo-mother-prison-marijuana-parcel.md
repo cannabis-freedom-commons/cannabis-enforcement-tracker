@@ -44,25 +44,31 @@ sources:
     publisher: Opserver
     date: 2026-11-09
     language: mk
-open_questions:
-  - No weight or quantity was published for the marijuana found in the parcel.
-  - The identity and sentence of the woman's son were not disclosed beyond his imprisonment at Idrizovo.
+  - title: 'Žena uhapšena u Skoplju: Marihuana pronađena u paketu za sina u zatvoru - Vesti - Telegraf.rs'
+    url: https://www.telegraf.rs/vesti/jugosfera/4430346-zena-uhapsena-u-skoplju-marihuana-pronadjena-u-paketu-za-sina-u-zatvoru
+    publisher: Telegraf.rs
+    date: 2026-11-10
+    language: sr
+  - title: 65-годишна скопјанка приведена во Идризово, му носела марихуана на синот во затворот
+    url: https://mkd.mk/czrna-hronika/65-godishna-skopjanka-privedena-vo-idrizovo-mu-nosela-marihuana-na-sinot-vo-zatvorot/
+    publisher: MKD.MK
+    date: 2026-11-09
+    language: mk
 ---
 
 A 65-year-old woman from Skopje was arrested at Idrizovo prison after marijuana
 was found and seized during an inspection of a package she had brought for her
 son, who was serving a prison sentence there, North Macedonia's Interior
-Ministry said. [@1] The ministry said the package was examined at around 10 a.m.
+Ministry said. [@1,3,4] The ministry said the package was examined at around 10 a.m.
 on 8 November 2026, when officers inspecting the parcel the woman had brought to
-the prison facility discovered the marijuana. [@1] Police officers then arrested
+the prison facility discovered the marijuana. [@1,3] Police officers then arrested
 the woman, identified by the initials Dž. F. as a 65-year-old from Skopje, at
 around 11:30 a.m. on the same morning, when the marijuana was found and seized.
-[@1]
+[@1,3]
 
 The parcel was intended for her son, and the marijuana was discovered during the
 package check before officers took her into custody. [@2] The Interior Ministry
 said that once documentation of the case was fully completed, an appropriate
-criminal complaint would be filed against the suspect. [@1] The case therefore
+criminal complaint would be filed against the suspect. [@1,3] The case therefore
 remained under documentation, with the criminal complaint still to follow and no
 court outcome reported. [@2]
-
