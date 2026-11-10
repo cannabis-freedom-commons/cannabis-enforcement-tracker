@@ -57,6 +57,10 @@ sources:
     url: https://kval.com/news/local/illegal-marijuana-grow-operation-busted-lane-county-southern-oregon-olcc-cannabis-commission-enforcement-grant-laws-weed-pot-plants-seized-sheriff-investigation
     publisher: KVAL
     date: 2025-04-13
+  - title: Over 10,000 marijuana plants seized in illegal grow operation in Lane County
+    url: https://katu.com/news/local/lane-county-sheriffs-office-seizes-over-10000-marijuana-plants-in-illegal-grow-operation
+    publisher: KATU
+    date: 2025-04-08
 open_questions:
   - The sheriff's office count of 10,700 plants is given for the six locations together, so the plants cannot be assigned to individual sites.
   - Processed marijuana is described only as several hundred pounds; no weight usable for a kilogram figure was published.
@@ -64,23 +68,25 @@ open_questions:
   - No court outcome, filing decision or case update was reported in the KVAL follow-up of 13 April 2025.
   - The sheriff's office press release and Facebook post could not be opened, so both accounts rest on KVAL reporting.
   - The article gives no separate time of day for the searches; 3 April 2025 is the date stated for the warrants.
+  - KATU republishes the same News Staff wire-style text as KVAL, so it is not an independent account.
+  - No arrest, charging decision, court outcome or weight for the processed marijuana was published.
 ---
 
 Lane County Sheriff's Office deputies and detectives served search warrants on 3
 April 2025 at a greenhouse and residence north of Lowell and at four warehouses
-and a planned dispensary in Springfield, Eugene and Cottage Grove. [@1] All six
+and a planned dispensary in Springfield, Eugene and Cottage Grove. [@1,3] All six
 locations were tied to a business named Agricola, which the Oregon Liquor and
 Cannabis Commission found was operating far outside the legal requirements on
 plant tracking and product location. [@1]
 
 Detectives found and seized 10,700 marijuana plants, along with several hundred
-pounds of processed marijuana and other marijuana products. [@1] The Lane County
+pounds of processed marijuana and other marijuana products. [@1,3] The Lane County
 Code Compliance Program and the Oregon Watermaster were to follow up on code
-violations found on the properties. [@1]
+violations found on the properties. [@1,3]
 
 The sheriff's office said authorities contacted several people during the
 searches and referred their possible charges to the Lane County District
-Attorney's Office. [@1] The searches turned up city and water code violations on
+Attorney's Office. [@1,3] The searches turned up city and water code violations on
 the properties, according to a sheriff's office press release, and officials
 said human trafficking played no part in this investigation. [@2]
 
@@ -89,3 +95,4 @@ was helped by legitimate cannabis growers who came forward with information
 about the illegal sites. [@2] KVAL reported that it was awaiting an update on
 the potential charges. [@2]
 
+The sheriff's office asked anyone with information to call it and reference case number 25-1547. [@3]
