@@ -89,37 +89,32 @@ sources:
     publisher: অনাবিল সংবাদ (Onabil Sangbad)
     date: 2026-11-09
     language: bn
-open_questions:
-    - The main report gives four people arrested overall, but only two cannabis cases; the other two detainees were held with 110 yaba tablets (a methamphetamine pill) by the district detective branch, and their count and tablets are not included in the cannabis figures.
-    - The two seizures are 38 kg and 50 g, which sum to 38.05 kg, while the leads describe the haul as 38 kg 50 g (38.5 kg) in total; the report uses the stated total of 38.5 kg.
-    - Some Bengali versions give the combined weight as 38 kg 50 g while others headline it as 38.05 kg, so the total should be read as the authorities' own roll-up of the two seizures.
-    - No value estimate, charge section, plea or outcome for the 38 kg case was published, and no rank above sub-inspector was named as leading either drive.
-    - Sub-Inspector Rafiza Khatun prosecuted the Kazipara Kathaltala case and the fine was TK 200; no account reports whether the 14-day sentence will be appealed.
-    - No account gives a court venue or magistrate detail for the 38 kg regular case beyond the Kotwali Model police station case record.
-    - Banglanews24 gives the first drive's suspect an age of 35 and says the ganja was recovered from his house; it does not say how the 38 kg and 50 g were weighed separately at each site.
-    - Banglanews24 credits the Ghop Uttarpara search to sub-inspector Shahriar and the Kazipara Kathaltala prosecution to sub-inspector Rafiza Khatun, the first account read to name the second drive's prosecuting officer.
-    - No account reports the outcome of the regular case over the 38 kg seizure or whether the 14-day sentence will be appealed.
+  - title: যশোরে পৃথক অভিযানে ৩৮ কেজি গাঁজা ও ১১০ পিস ইয়াবাসহ গ্রেপ্তার ৪
+    url: https://www.onenewsbd.com/2026/11/09/546813/amp
+    publisher: One News BD
+    date: 2026-11-09
+    language: bn
 ---
 
 Bangladesh's Department of Narcotics Control seized 38 kg 50 g of cannabis,
 known in Bangladesh as ganja, in two separate drives in Jashore on Monday 9
-November 2026. [@1,4] In the first drive, officers searched the second-floor room
-of a two-storey house at Ghop Uttarpara and found 38 kg of ganja there. [@1,4,5] The
+November 2026. [@1,4,7] In the first drive, officers searched the second-floor room
+of a two-storey house at Ghop Uttarpara and found 38 kg of ganja there. [@1,4,5,7] The
 department said the Ghop drive ran from 11:00 to 11:50 am and the room searched
 was in the suspect's possession. [@3] A sub-inspector of the department filed a
 regular case under the Narcotics Control Act at Kotwali Model police station
-over that seizure. [@1,4]
+over that seizure. [@1,4] Sub-Inspector Shahriar Hossain filed a regular case under the Narcotics Control Act at Kotwali Model police station as plaintiff over the 38 kg seizure. [@7]
 
 In a second drive the same day, officers detained a 26-year-old at Kazipara
-Kathaltala with 50 g of ganja. [@1] The second drive was carried out around 2:30
+Kathaltala with 50 g of ganja. [@1] The person held at Kazipara Kathaltala with 50 g of ganja was named as 26-year-old Sujon Sheikh. [@7] The second drive was carried out around 2:30
 pm. [@2,4] A mobile court run by executive magistrate Tawmid Hasan sentenced him
 to 14 days of simple imprisonment and a 200-taka fine, and had him sent to jail.
-[@2,4,5,6] The prosecution at the mobile court was conducted by a sub-inspector of the
+[@2,4,5,6,7] The prosecution at the mobile court was conducted by a sub-inspector of the
 narcotics department. [@3]
 
 The same report counts four people detained in Jashore that weekend, because
 district detective branch officers separately arrested two men with 110 yaba
-tablets, a methamphetamine pill, on the night of 8 November. [@1] Those two,
+tablets, a methamphetamine pill, on the night of 8 November. [@1,7] Those two,
 picked up in Jashore municipality ward 7 and in Narendrapur union, were sent to
 court on 9 November. [@1]
 
