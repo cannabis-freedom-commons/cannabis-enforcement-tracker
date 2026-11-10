@@ -1,0 +1,96 @@
+---
+code: 1CDABM
+added_at: "2026-11-10T10:15:31.538343Z"
+date: 2026-11-08
+country: my
+place: Batu 10, Batang Merbau, Tanah Merah, Kelantan
+coordinates: [5.8167, 102.15]
+precision: locality
+type: arrest
+also: [seizure]
+title: Kelantan police seize 90 kg of ganja, arrest one over courier syndicate
+summary: >-
+  Kelantan police arrested a 27-year-old man in Tanah Merah and seized 90.38 kg of compressed ganja and 107.6 grams of cannabis flowers worth an estimated RM279,902. Police say the syndicate shipped the drugs by courier to the Klang Valley from a telecommunications shop used as a parcel collection point.
+figures:
+  arrested: 1
+  kg_seized: 90.4876
+  value:
+    amount: 279902
+    currency: MYR
+details:
+  agencies: [Kelantan police]
+  agency_types: [police]
+  products:
+    - {product: flower, kg: 90.38}
+    - {product: flower, kg: 0.1076}
+  activity: [smuggling, trafficking, sale]
+  setting: [shop, street]
+  charges: [trafficking under Section 39B of the Dangerous Drugs Act 1952]
+  case_stage: investigation
+  date_precision: exact
+  region: Kelantan
+  route: {to: [my], crossing: 'illegal base on the Sungai Golok near Lalang Pepuyu, Tanah Merah'}
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.charges: [1]
+  details.products: [1]
+  details.route: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.kg_seized: [1]
+  figures.value: [1]
+media:
+  - kind: photo
+    url: https://www.sinarharian.com.my/article/803998/berita/semasa/polis-kelantan-tumpaskan-sindiket-edar-ganja-guna-kurier
+    media_url: https://www.sinarharian.com.my/uploads/images/2026/11/10/3705860.webp
+    publisher: Sinar Harian
+    caption: 'Kelantan police chief Datuk Mohd Yusoff Mamat, third from left, showing the blocks of compressed ganja seized after the Tanah Merah operation at a press conference in Kota Bharu. Photo: Sinar Harian / Hazelen Liana Kamarudin'
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: 87c14ccbbbce55490aaed7285be2536a
+tags: [kelantan, tanah-merah, courier, lembah-klang, police]
+sources:
+  - title: Polis Kelantan tumpaskan sindiket edar ganja guna kurier
+    url: https://www.sinarharian.com.my/article/803998/berita/semasa/polis-kelantan-tumpaskan-sindiket-edar-ganja-guna-kurier
+    publisher: Sinar Harian
+    date: 2026-11-10
+    language: ms
+open_questions:
+  - The article says the arrest happened on Sunday, while the remand is given as 9 to 15 November; 8 November 2026 is used as the incident date, and the exact date should be checked if a second account appears.
+  - Police described the 90.38 kg as compressed ganja and 107.6 grams as cannabis flowers but named no separate weights per package or per location.
+  - RM279,902 is the police estimate of the seizure's value, not an independently verified price.
+  - No charge or court outcome was reported; the case is under investigation and the suspect was remanded until 15 November.
+  - The three other people police believe ran the syndicate were not named, and police gave no further description of them beyond having fled to a neighbouring country.
+  - The article does not state which neighbouring country the drugs were brought from.
+  - Only one newsroom account was found, so no second outlet confirms the figures.
+  - Police did not say whether the 107.6 grams of flowers were found with the compressed blocks or at the shop.
+---
+
+Kelantan police arrested a 27-year-old man in an operation in Tanah Merah
+district on Sunday 8 November 2026 and seized 90.38 kg of compressed ganja and
+107.6 grams of cannabis flowers. [@1] Police valued the cannabis at RM279,902 in
+total. [@1] Kelantan police chief Datuk Mohd Yusoff Mamat said the arrest came
+at about 3.30pm at Batu 10, Batang Merbau, after a month of intelligence work.
+[@1]
+
+The interrogation led officers to inspect a telecommunications shop they believe
+was used to collect parcels for courier delivery. [@1] Thirteen packages
+containing drugs were found there, ready to be sent to 13 different addresses.
+[@1] Yusoff said the deliveries were aimed at the market around the Klang
+Valley, in Selangor and Kuala Lumpur. [@1]
+
+He said the syndicate was believed to have been running since early August 2025
+and to have been run by four people, three of whom are believed to have fled to
+a neighbouring country. [@1] The drugs are believed to have been brought in from
+a neighbouring country through an illegal base on the Sungai Golok near Lalang
+Pepuyu, Tanah Merah, before being distributed by courier. [@1] Police estimated
+the seized ganja could have supplied 90,502 drug users. [@1] The suspect had
+five previous drug offences on record and tested positive for methamphetamine.
+[@1] He was remanded for seven days, from 9 to 15 November, to help the
+investigation. [@1] The case is being investigated under Section 39B of the
+Dangerous Drugs Act 1952, the trafficking provision that carries a possible
+death sentence. [@1]
+
