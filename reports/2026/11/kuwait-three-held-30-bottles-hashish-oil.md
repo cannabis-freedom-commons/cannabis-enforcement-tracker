@@ -54,6 +54,11 @@ sources:
     publisher: الراي
     date: 2026-11-10
     language: ar
+  - title: '«الداخلية»: ضبط 3 متهمين في 3 قضايا اتجار بالمواد المخدرة'
+    url: https://www.aljarida.com/article/150178
+    publisher: جريدة الجريدة الكويتية
+    date: 2026-11-10
+    language: ar
 open_questions:
   - The Interior Ministry announced the three separate cases together, so the cannabis and other seizures are published as aggregate totals rather than broken down by case.
   - The statement gave no weight or volume for the 30 bottles of hashish oil or for the piece of hashish, so no cannabis weight is recorded in figures.
@@ -65,20 +70,19 @@ open_questions:
 
 Kuwait's General Department for Drug Control in the Criminal Security Sector
 arrested three suspects across three separate cases on suspicion of possessing
-narcotics and psychotropic substances with intent to traffic. [@1] The Interior
+narcotics and psychotropic substances with intent to traffic. [@1,3] The Interior
 Ministry announced the arrests in a statement on Tuesday evening as part of its
 ongoing drug enforcement operations. [@2] In one of the cases, the General
 Department of Rescue Police detained a suspect and transferred him to
-drug-control officers. [@1] Follow-up investigations led officers to search that
+drug-control officers. [@1,3] Follow-up investigations led officers to search that
 suspect's residence, where they discovered an additional quantity of narcotics
-and a sensitive scale. [@1] Authorities referred the three suspects and the
+and a sensitive scale. [@1,3] Authorities referred the three suspects and the
 seized items to the competent authority to take legal measures against them.
-[@1]
+[@1,3]
 
 The cannabis items seized during the operations consisted of 30 bottles
-containing hashish oil and one piece of hashish. [@1] Alongside the cannabis,
+containing hashish oil and one piece of hashish. [@1,3] Alongside the cannabis,
 the operations yielded 3,001 grams of shabu, a synthetic stimulant that is not
-cannabis. [@1] Officers also confiscated 24 sheets of paper soaked in
+cannabis. [@1,3] Officers also confiscated 24 sheets of paper soaked in
 'chemical', three electronic cigarettes containing 'chemical' and four sensitive
-scales. [@1]
-
+scales. [@1,3]
