@@ -64,11 +64,7 @@ open_questions:
   - The reports do not say what led police to stop the car, or whether the cash was seized under proceeds-of-crime powers.
   - No plea, trial date or sentencing outcome was reported; the next appearance is listed as 1 December 2026.
   - The separate Aranui methamphetamine arrest reported in the same police release involves no cannabis and is not part of this report.
-  - The RNZ account and the police release both rest on the same Detective Senior Sergeant Karen Simmons statement, so they are not independent reporting.
-  - The RNZ photo is credited only as a file photo by 123RF and is not confirmed to show this stop or seizure, so no media is listed.
-  - The Mirage News text reproduces the New Zealand Police public release and is not independent reporting of the stops.
-  - The submitted page gives no weight or plant count for the cannabis found in the car or at the home, and the $54,000 is cash rather than a cannabis valuation.
-  - The methamphetamine seized in the Aranui stop carries no cannabis component and is excluded from this report.
+  - The RNZ account, the Mirage News reprint and the police release all rest on the same Detective Senior Sergeant Karen Simmons statement, so they are not independent reporting.
 ---
 
 An 18-year-old is facing cannabis charges after Timaru police found $54,000
