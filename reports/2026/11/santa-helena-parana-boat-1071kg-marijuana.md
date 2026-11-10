@@ -50,28 +50,31 @@ sources:
     publisher: Rádio Educadora
     date: 2026-11-10
     language: pt
+  - title: PF e PM/PR apreendem mais de 1 tonelada de maconha
+    url: https://www.gov.br/pf/pt-br/assuntos/noticias/2026/11/pf-e-pm-pr-apreendem-mais-de-uma-tonelada-de-maconha-em-embarcacao-em-santa-helena-pr
+    publisher: Polícia Federal
+    date: 2026-11-10
+    language: pt
 open_questions:
-  - No suspects were identified or arrested; individuals on the riverbank and track fled into woodland before police could intercept them.
-  - The estimated monetary value of the seized marijuana was not reported by the authorities.
-  - The exact landing spot within the rural area of Santa Helena was not disclosed.
-  - The report relies on a single local radio account citing information from Catve and the Federal Police.
+    - No suspects were identified or arrested; individuals on the riverbank and track fled into woodland before police could intercept them.
+    - The estimated monetary value of the seized marijuana was not reported by the authorities.
+    - The exact landing spot within the rural area of Santa Helena was not disclosed.
 ---
 
 Federal Police and Paraná Military Police officers seized 1,071 kilograms of
 marijuana in a rural area of Santa Helena, western Paraná, on the night of
-Monday 9 November 2026. [@1] Suspects on the riverbank fled into woodland when
+Monday 9 November 2026. [@1,2] Suspects on the riverbank fled into woodland when
 the security forces closed in and could not be found. [@1] Federal Police teams
 conducting border patrol duties spotted a craft travelling at high speed from
 Paraguay towards the Brazilian shore at about 22:00. [@1]
 
 Following the suspicious movement, a boat-borne police unit was deployed to
-intercept the incoming craft. [@1] As officers approached the spot where the
+intercept the incoming craft. [@1,2] As officers approached the spot where the
 vessel had moored, individuals on the bank and along a forest track fled,
 abandoning the vessel. [@1]
 
 A search of the craft uncovered approximately 60 bales of pressed marijuana,
-amounting to 1,071 kilograms of the drug. [@1] Police also seized the fibre
+amounting to 1,071 kilograms of the drug. [@1,2] Police also seized the fibre
 vessel itself, which was equipped with a 200-horsepower outboard motor. [@1] The
 seized marijuana and the boat were delivered to the Federal Police station in
-Foz do Iguaçu for legal procedures. [@1]
-
+Foz do Iguaçu for legal procedures. [@1,2]
