@@ -108,6 +108,11 @@ sources:
     publisher: Hey Haber
     date: 2026-11-09
     language: tr
+  - title: 3,2 Kilo Esrar Ele Geçti, 1 Şüpheli Yakalandı
+    url: https://malatyahaber.com/32-kilo-esrar-ele-gecti-1-supheli-yakalandi
+    publisher: Malatya Haber
+    date: 2026-11-09
+    language: tr
 open_questions:
   - Only one account of this operation was found; it is an agency dispatch published by Malatya Haber and was not corroborated by a second opened source.
   - No neighbourhood, address or specific street within Malatya was named for the operation.
@@ -143,6 +148,10 @@ open_questions:
   - Hey Haber gives no separate date for the operation; 9 November 2026 at 21:16 is its publication time, and the report keeps 8 November 2026 from the accounts it already cites.
   - Hey Haber names no neighbourhood, street or address within Malatya and gives no charge, court date, weight breakdown or estimated value.
   - The page's single image shows seized material in front of a police emblem, captioned with the headline, and is not confirmed to depict this operation, so no media entry was added.
+  - This account is another restatement of the same Malatya police statement and is not independent reporting of the operation.
+  - The article gives no separate date for the search; 9 November 2026 is its publication date, and the report keeps 8 November 2026 from the accounts it already cites.
+  - The page places the whole seizure at the suspect's home, while the İHA dispatch says searches covered his person and his address; the report's existing wording covers both.
+  - The page's only event-adjacent image is captioned only with the headline and carries no credit, so it is not confirmed to show this seizure and no media entry was added.
 ---
 
 Malatya provincial police directorate teams detained one suspect in an operation
@@ -155,12 +164,14 @@ drug trafficking and block the activity of street sellers across the city. [@1]
 The police said operations against drug trafficking and street sellers across
 Malatya province would continue. [@1]
 
-Searches of the suspect's person and his address produced the 3 kg 278 g of esrar. [@2,3,4,5,6,7,10,11,13,14] The operation was carried out by teams of the provincial police directorate's narcotics branch, after physical and technical surveillance of street sellers. [@2,4]
+Searches of the suspect's person and his address produced the 3 kg 278 g of esrar. [@2,3,4,5,6,7,10,11,13,14,15] The operation was carried out by teams of the provincial police directorate's narcotics branch, after physical and technical surveillance of street sellers. [@2,4]
 
-The operation was carried out by teams of the Malatya provincial police directorate's anti-narcotics branch, the Narkotik Suçlarla Mücadele Şube Müdürlüğü. [@5,9,10,11]
+The operation was carried out by teams of the Malatya provincial police directorate's anti-narcotics branch, the Narkotik Suçlarla Mücadele Şube Müdürlüğü. [@5,9,10,11,15]
 
 The suspect's processing at the police station was continuing and an investigation into the case is under way. [@7]
 
 The detained suspect's questioning and judicial processing at the police station were continuing. [@8]
 
 Bu Sabah Malatya wrote that the seized esrar was displayed in separate packages. [@13] Malatya Olay Haber reports that the surveillance and searches were carried out under the coordination of the Malatya Chief Public Prosecutor's Office. [@12]
+
+The drugs were confiscated, Malatya Haber reported. [@15]
