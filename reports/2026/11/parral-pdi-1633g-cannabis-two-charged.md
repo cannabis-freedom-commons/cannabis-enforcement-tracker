@@ -58,15 +58,17 @@ sources:
     publisher: Será Noticia
     date: 2026-11-09
     language: es
+  - title: 'Operativo policial desarticula tres puntos de venta de drogas en Parral: incautan marihuana y cocaína'
+    url: https://www.diarioelcentro.cl/2026/11/10/operativo-policial-desarticula-tres-puntos-de-venta-de-drogas-en-parral-incautan-marihuana-y-cocaina/
+    publisher: Diario El Centro
+    date: 2026-11-10
+    language: es
 open_questions:
-  - The article gives no separate date for the searches or arrests; 9 November 2026 is its publication date and is used as the incident date.
-  - No figure for the value of the seized cannabis was published.
-  - The cannabis was not described by product type (flower or otherwise) and no laboratory confirmation was reported.
-  - Only one account of this event could be opened; the PDI Maule statement or a second outlet was not found.
-  - The 3.82 grams of cocaína base is a different drug and is excluded from the cannabis figures; no combined drug total is recorded.
-  - The man's and woman's ages, the exact premises searched and any later court outcome were not reported.
-  - The Será Noticia page carries a photo with no caption or credit; it is linked to this report only because it is the image published with the article.
-  - The article gives no separate date for the searches or arrests; 9 November 2026 is its publication date.
+    - The articles give no separate date for the searches or arrests; 9 November 2026 is the earliest publication date and is used as the incident date.
+    - No figure for the value of the seized cannabis was published.
+    - The cannabis was not described by product type (flower or otherwise) and no laboratory confirmation was reported.
+    - The 3.82 grams of cocaína base is a different drug and is excluded from the cannabis figures; no combined drug total is recorded.
+    - The suspects' exact ages, the addresses of the three properties searched, and any later court trial or sentencing outcome were not reported.
 media:
   - kind: photo
     url: https://seranoticia.cl/2026/11/09/pdi-saca-de-circulacion-puntos-de-venta-de-drogas-en-parral-dos-detenidos-y-mas-de-16-kilos-de-cannabis-decomisados/
@@ -77,16 +79,16 @@ media:
 
 Detectives of the Modelo Territorial Cero (MT-0) team of the Brigada de
 Investigación Criminal in Parral arrested a man and a woman, both adults, in the
-commune of Parral. [@1,2] The arrests followed judicial search orders carried out
-at three properties in the commune. [@1,2] According to the PDI, the investigation
-established that drugs were being sold at those properties. [@1]
+commune of Parral. [@1,2,3] The arrests followed judicial search orders carried out
+at three properties in the commune. [@1,2,3] According to the PDI, the investigation
+established that drugs were being sold at those properties. [@1,3]
 
-During the searches detectives seized 1,632.59 grams of cannabis. [@1,2] Officers
+During the searches detectives seized 1,632.59 grams of cannabis. [@1,2,3] Officers
 also seized 3.82 grams of dosed cocaína base, 489,000 pesos in cash and a mobile
-phone; the cocaine is not part of the cannabis figures. [@1,2]
+phone; the cocaine is not part of the cannabis figures. [@1,2,3]
 
 The Fiscalía de Parral charged the man with drug trafficking and requested his
-pre-trial detention, which the court granted. [@1,2] The woman was charged with
+pre-trial detention, which the court granted. [@1,2,3] The woman was charged with
 microtráfico, small-scale drug dealing, and placed under precautionary measures
-to ensure she attends the proceedings. [@1,2] The court set a five-month
-investigation period. [@1,2]
+to ensure she attends the proceedings. [@1,2,3] The court set a five-month
+investigation period. [@1,2,3]
