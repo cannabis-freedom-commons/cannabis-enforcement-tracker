@@ -54,6 +54,10 @@ sources:
     url: https://www.nst.com.my/news/nation/2026/11/1574439/s4k-offer-lands-singaporean-rm15mil-cannabis-bust
     publisher: New Straits Times
     date: 2026-11-10
+  - title: Singaporean nabbed at Ipoh airport with ganja buds worth RM1.5m
+    url: https://www.thestar.com.my/news/nation/2026/11/10/singaporean-nabbed-at-ipoh-airport-with-ganja-buds-worth-rm15m
+    publisher: The Star
+    date: 2026-11-10
 open_questions:
   - The Star gives the value as about RM1.5 million and the New Straits Times as RM1.52 million; the figures use the NST amount.
   - The Star says the man stayed at a hotel in Kajang, while the NST says he collected the drugs there from a supplier; both agree the drugs were picked up in Kajang.
@@ -63,27 +67,29 @@ open_questions:
   - The NST says this was the second drug-smuggling case at the airport this year, after a 1 September 2026 arrest there of a foreign man with 26.2 kg of cannabis buds under Op Tebuan; that is a separate event not covered here.
   - No Malay-language report of this arrest was found; both opened accounts draw on the same Perak police press conference.
   - 'Left out, as its quotation was not found in New Straits Times: The New Straits Times reported that he had claimed he was told the luggage contained counterfeit luxury goods and had not opened it.'
+  - The Star gives the value as about RM1.5 million; the existing report uses the New Straits Times figure of RM1.52 million.
 ---
 
 Perak police arrested a 29-year-old unemployed Singaporean man at Sultan Azlan
-Shah Airport in Ipoh at 6.20am on 8 November 2026. [@1] Auxiliary police at the
+Shah Airport in Ipoh at 6.20am on 8 November 2026. [@1,3] Auxiliary police at the
 check-in counter searched his baggage and found 36 plastic packages holding
-19,040g of dried marijuana flowers. [@1] Police valued the cannabis at about
-RM1.5 million. [@1] The New Straits Times put the weight at 19.04kg and the
+19,040g of dried marijuana flowers. [@1,3] Police valued the cannabis at about
+RM1.5 million. [@1,3] The New Straits Times put the weight at 19.04kg and the
 value at RM1.52 million, an amount police said was enough to supply 47,900 drug
 users. [@2]
 
 The man had flown from Singapore to Kuala Lumpur and travelled to Kajang, where
 police believe he collected the drugs before taking an e-hailing car to Ipoh,
-arriving on 7 November. [@1] Police said he was to fly from Ipoh to Singapore
-and then on to London to deliver the cannabis. [@1] He told police he had
-answered an online job offer promising good pay. [@1] Police said the offer was
+arriving on 7 November. [@1,3] Police said he was to fly from Ipoh to Singapore
+and then on to London to deliver the cannabis. [@1,3] He told police he had
+answered an online job offer promising good pay. [@1,3] Police said the offer was
 S$4,000 (about RM12,690), that the man was unemployed and that a urine screening
 found no drugs in his system. [@2]
 
 Perak police chief Comm Datuk Mohd Alwi Zainal Abidin said syndicates
 increasingly use less busy airports such as Ipoh, which has one daily flight to
-Singapore, to traffic drugs abroad. [@2] The man was remanded for seven days
+Singapore, to traffic drugs abroad. [@2,3] The man was remanded for seven days
 from 9 November under Section 39B of the Dangerous Drugs Act 1952, which carries
-a death sentence or life imprisonment with caning on conviction. [@1]
+a death sentence or life imprisonment with caning on conviction. [@1,3]
 
+The man arrived in Ipoh on 7 November after picking up the load in Kajang and travelling by e-hailing car. [@3]
