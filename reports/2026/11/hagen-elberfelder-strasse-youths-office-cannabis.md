@@ -41,17 +41,18 @@ sources:
     publisher: Polizei Hagen
     date: 2026-11-10
     language: de
-open_questions:
-  - No weight was published for the cannabis seized; only the allegation that the 16-year-old held more than the permitted 30 grams outside the home was reported.
-  - No detail was published about who owned the seized knife or whether it brings a separate weapons charge.
-  - The outcome of the trespass and possession investigations is not yet known.
+  - title: 'Polizei-News Hagen-Mitte, 10.11.26: Hausfriedensbruch und Drogenkonsum - Polizei ermittelt gegen Jugendliche'
+    url: https://www.msn.com/de-de/nachrichten/other/polizei-news-hagen-mitte-101126-hausfriedensbruch-und-drogenkonsum-polizei-ermittelt-gegen-jugendliche/ar-AA2h8IO2
+    publisher: news.de
+    date: 2026-11-10
+    language: de
 ---
 
 Four boys aged 16 and 17 forcibly entered a vacant office building on
 Elberfelder Strasse in Hagen on the morning of 9 November 2026. [@1] According
 to Hagen police, the group consumed cannabis inside the empty office space after
 breaking in. [@1] Officers found the four inside the vacant office in the
-morning after noticing a strong smell of cannabis in the building. [@2]
+morning after noticing a strong smell of cannabis in the building. [@2,3]
 
 When questioned by officers, one of the youths said he was completely
 intoxicated, using the German words komplett benebelt. [@2] Police described the
@@ -60,9 +61,8 @@ toward officers. [@2] Officers searching the group found cannabis and a knife on
 one of those involved. [@2]
 
 Officers seized both the cannabis and the knife at the scene and informed the
-16-year-old's mother about the incident. [@2] Police then released all four boys
+16-year-old's mother about the incident. [@2,3] Police then released all four boys
 after dealing with them at the scene. [@2] All four now face an investigation
 for trespass, meaning Hausfriedensbruch under German law. [@2] The 16-year-old
 additionally faces investigation for possessing more than the permitted 30 grams
-of cannabis outside the home. [@2]
-
+of cannabis outside the home. [@2,3]
