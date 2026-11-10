@@ -37,6 +37,11 @@ sources:
     publisher: El Mexicano
     date: 2026-11-09
     language: es
+  - title: Detienen a dos por traer marihuana y un arma falsa en el Altiplano
+    url: https://sintesistv.com/detienen-a-dos-por-traer-marihuana-y-un-arma-falsa-en-el-altiplano/
+    publisher: Síntesis Tv
+    date: 2026-11-09
+    language: es
 open_questions:
   - No weight of the suspected marijuana was published; the report records only the count of 68 bags.
   - 7 November 2026 is the date the article gives for the stop; 9 November 2026 is its publication date.
@@ -46,6 +51,7 @@ open_questions:
   - Only one source for this event was found; search results for other Tijuana hyperlocal outlets returned older, unrelated detentions.
   - Photos on the page carry empty captions and the related content shows no description tying them to this stop, so no media is listed.
   - NDT does not give the weight of the 68 bags, and it describes the contents only as a green, dry herb similar to marijuana with no laboratory confirmation.
+  - Síntesis Tv datelines the detention to Monday 9 November 2026, while the report dates the stop to 7 November 2026; the article does not state the day of the interception separately from its dateline.
 media:
   - kind: photo
     url: https://ndtnoticiasdetijuana.com/detienen-dos-hombres-68-envoltorios-presunta-marihuana/
@@ -68,13 +74,13 @@ breaching the traffic regulations, and its driver, identified as Enrique "N",
 
 A preventive search found a clear plastic bag holding 68 small zip-lock bags,
 each containing a green, dry herb with characteristics similar to marijuana.
-[@1,2,3] The officers also found a replica revolver, and detained Enrique "N", 21,
+[@1,2,3,4] The officers also found a replica revolver, and detained Enrique "N", 21,
 and Irvin "N", 31. [@1,2]
 
 According to preliminary information, both detained men had records of
 proceedings and sentences for homicide and for carrying weapons. [@1] Both men
 were handed to the state Attorney General's Office (FGE), which is to open the
-investigation files and determine their legal situation. [@1,2] The SSPCM asked
+investigation files and determine their legal situation. [@1,2,4] The SSPCM asked
 residents to report the sale or distribution of illegal substances anonymously
 to the 089 line or through the 9-1-1 emergency number. [@1,2]
 
