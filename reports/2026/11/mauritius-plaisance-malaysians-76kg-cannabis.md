@@ -165,6 +165,11 @@ sources:
     publisher: Newswav (Utusan Online)
     date: 2026-11-10
     language: ms
+  - title: Suami isteri ditahan bersama ganja di Mauritius ditawar upah RM1,000 satu bagasi
+    url: https://www.hmetro.com.my/mutakhir/2026/11/1434426/suami-isteri-ditahan-bersama-ganja-di-mauritius-ditawar-upah-rm1000-satu
+    publisher: Harian Metro
+    date: 2026-11-10
+    language: ms
 open_questions:
   - The article was published on 4 November 2026 but dates the seizure to “ce mardi”, so 3 November 2026 is used as the incident date.
   - No amount or currency was given for the seized foreign currency, so no value is recorded.
@@ -270,4 +275,4 @@ The three arrived in Mauritius on an Emirates flight from Dubai on 2 November 20
 
 Bukit Aman Narcotics Criminal Investigation Department director Datuk Hussein Omar Khan said the 22-year-old man and the 18-year-old woman, both from Penang, were recruited after making contact with an individual on the RedNote app and then being reached on Telegram. [@21] The recruiter offered RM1,000 for each suitcase delivered to Mauritius and arranged and paid for the couple's flight tickets and hotel stay. [@21] The couple agreed to carry four suitcases, two each, and were told to collect them in Bangkok, Thailand, before flying on to Mauritius via Dubai, Hussein said. [@21] They were also told to install the Life360 location app so the person coordinating the delivery could monitor their movements, and they sent copies of their passports over Telegram. [@21] Checks on the couple's luggage found 60 plastic packets of suspected cannabis with a gross weight of about 65 kg, and Apple tracking devices were found inside each suitcase carried by one of the suspects. [@21] The third suspect, a 30-year-old man from Sabah who works in Singapore, was arrested with 10 plastic packets, and police said he had found a job advertisement on Facebook in Singapore before being contacted on Telegram. [@21] Hussein said none of the three suspects had previous criminal records, and that the couple had booked five days at the Domaine de Grand Baie Hotel for a holiday. [@21] The three Malaysians were arrested at 2.35pm on 2 November 2026, shortly after arriving on Emirates flight EK709 from Dubai, in an operation by the Anti-Drug and Smuggling Unit with Mauritius Customs, Hussein said. [@21] The couple found after their arrest that conversations in their Telegram group had been deleted or that the person believed to be the syndicate leader had left the group, Hussein said. [@21]
 
-Malaysia's Bukit Aman narcotics director said the Penang couple, 22 and 18, were recruited on RedNote and Telegram to carry four suitcases for RM1,000 a bag, with tickets and hotel paid, collection in Bangkok, a route through Dubai, the Life360 tracker installed to watch their movements and a five-day Grand Baie holiday as cover, while the 30-year-old from Sabah was recruited through a Facebook job advertisement. [@22]
+Malaysia's Bukit Aman narcotics director said the Penang couple, 22 and 18, were recruited on RedNote and Telegram to carry four suitcases for RM1,000 a bag, with tickets and hotel paid, collection in Bangkok, a route through Dubai, the Life360 tracker installed to watch their movements and a five-day Grand Baie holiday as cover, while the 30-year-old from Sabah was recruited through a Facebook job advertisement. [@22,24]
