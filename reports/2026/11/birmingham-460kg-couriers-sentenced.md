@@ -92,6 +92,10 @@ sources:
     url: https://www.guardian-series.co.uk/news/26713818.jamal-clarke-caught-13-8m-cannabis-smuggling-operation/
     publisher: East London and West Essex Guardian Series
     date: 2026-11-09
+  - title: Gang paid extra baggage to smuggle 460kg of drugs to UK
+    url: https://www.bbc.com/news/articles/c934zzknnq8o
+    publisher: BBC News
+    date: 2026-08-20
 media:
   - kind: photo
     url: https://www.falmouthpacket.co.uk/news/26713455.cornwall-woman-sentenced-13-8m-cannabis-import-plot/
@@ -123,16 +127,16 @@ tried to import cannabis worth £13.8 million through Birmingham Airport. [@1,10
 Olumoyegun, 26, and Ryan Boachie, 32, were each jailed for 24 months; Claire McCullough, 36, got 24
 months plus two consecutive months for assaulting a shop worker; Jaden Ramen, 23, was sentenced to 32
 months; and Paige Crisp, 25, to 30 months. [@1,2] Crisp and Ramen were convicted on 19 August after a
-four-week trial, while the others had pleaded guilty. [@2] Two more members, Tasia Nelson and Jamal
+four-week trial, while the others had pleaded guilty. [@2,12] Two more members, Tasia Nelson and Jamal
 Clarke, are due to be sentenced on 30 October. [@1,2]
 
 Border Force officers arrested the eleven-strong group in August 2024, when they found 460 kg of
-cannabis packed into 22 suitcases arriving from Thailand via Paris Charles de Gaulle. [@1,8,10,11] Each
+cannabis packed into 22 suitcases arriving from Thailand via Paris Charles de Gaulle. [@1,8,10,11,12] Each
 courier carried two suitcases holding about 20 kg of vacuum-packed cannabis under a thin layer of
-clothing, luggage so heavy they paid excess baggage charges at Bangkok airport. [@1,2,3] Eight of the
+clothing, luggage so heavy they paid excess baggage charges at Bangkok airport. [@1,2,3,12] Eight of the
 bags held Apple AirTags connected to the same Apple ID, and intelligence linking the passengers to
 others on connecting flights into Birmingham led officers to fully staff the nothing-to-declare
-channel, where the drugs were found. [@1,2,7,10]
+channel, where the drugs were found. [@1,2,7,10,12]
 
 Four other couriers in the same conspiracy were sentenced on 21 September: Bradley Lloyd to four
 years, Nathan Vitorino and Lewis Ross to two years and eight months each, and Carsten Kyei to two
