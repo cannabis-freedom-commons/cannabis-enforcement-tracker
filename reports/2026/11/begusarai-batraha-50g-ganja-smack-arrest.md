@@ -45,28 +45,31 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-10
     language: hi
+  - title: 'Begusarai News: किराना दुकान से स्मैक और गांजा के साथ युवक गिरफ्तार'
+    url: https://www.livehindustan.com/bihar/begusarai/story-smack-and-ganja-seized-at-chhaurahi-shop-youth-arrested-201794318874019.html
+    publisher: Live Hindustan
+    date: 2026-11-10
+    language: hi
 open_questions:
-  - The report gives no separate date for the raid; 10 November 2026 is the article publication date and is used as the incident date.
-  - No figure for the value of the seized ganja or smack was published.
-  - No charges, court action or case outcome were reported; the case stood at arrest and investigation when published.
-  - The whole account rests on a single short report, so the quantities and the arrest could not be cross-checked against a second source.
-  - The 12.5 grams of smack is a non-cannabis substance and is excluded from the cannabis seizure figure.
+    - Neither report gives a separate date for the raid; 10 November 2026 is the publication date and is used as the incident date.
+    - No figure for the value of the seized ganja or smack was published.
+    - Police registered an FIR, but no specific statutory charges, court action or case outcome were reported.
+    - The 12.5 grams of smack is a non-cannabis substance and is excluded from the cannabis seizure figure.
 ---
 
 Police in Begusarai district raided a small neighbourhood grocery (kirana) shop
 in Batraha village, a locality that falls under the Chhaurahi police-station
-area, acting on the shop premises itself. [@1] During that same shop raid,
+area, acting on the shop premises itself. [@1,2] Station house officer Parendra Kumar led the raiding team on directions from Manjhaul Deputy Superintendent of Police (DSP) Amarkant after a tip-off about drug sales. [@2] During that same shop raid,
 officers arrested Sanjeev Yadav, who is described as linked to the shop, and
-took him into police custody as the person detained in the reported action. [@1]
+took him into police custody as the person detained in the reported action. [@1,2] Yadav was identified as a resident of Batraha village, where the shop stood in Ward No. 1 of Sahuri panchayat. [@2]
 A photograph published alongside the report shows the accused in police custody
 after the Batraha shop raid. [@1]
 
 In the search of the shop, officers seized 50 grams of ganja, equivalent to 0.05
 kg and recorded here as the cannabis seizure, together with 12.5 grams of smack
-found at the same premises. [@1] The report lists smack and ganja as two
+found at the same premises. [@1,2] Chhaurahi circle officer Chandraprakash Pandey attended the raid as magistrate during the formal seizure of the narcotics. [@2] The report lists smack and ganja as two
 separate seized substances from the same shop search, so only the 50 grams of
 ganja is counted here as cannabis while the smack weight is left out of the
-cannabis figure. [@1] The published account places the raid, both seizures and
+cannabis figure. [@1,2] The published account places the raid, both seizures and
 the arrest together at the Batraha village shop in the Chhaurahi area of
-Begusarai district. [@1]
-
+Begusarai district. [@1,2] Police registered a first information report (FIR) in the case, formally arrested Yadav, and questioned him to trace the source of the drugs and others involved in the trade. [@2]
