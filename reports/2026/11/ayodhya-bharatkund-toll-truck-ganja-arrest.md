@@ -54,12 +54,19 @@ sources:
     publisher: Navbharat Live
     date: 2026-11-10
     language: hi
+  - title: Ayodhya News:भरतकुंड टोल प्लाजा पर पकड़ा गया 4.33 क्विंटल गांजा - 4.33 Quintals Of Ganja Cannabis Seized At Bharatkund Toll Plaza - Ayodhya News
+    url: https://www.amarujala.com/uttar-pradesh/ayodhya/433-quintals-of-ganja-cannabis-seized-at-bharatkund-toll-plaza-ayodhya-news-c-97-1-ayo1005-162750-2026-11-10
+    publisher: Amar Ujala
+    date: 2026-11-10
+    language: hi
 open_questions:
+    - Amar Ujala reported the arrested driver was aged 31, whereas earlier reporting gave his age as about 35.
+    - Amar Ujala valued the seized ganja at over Rs 1 crore, whereas other reports estimated it at Rs 1.25 crore.
     - The reports give no separate date or time for the interception; 10 November 2026 is the articles' publication date and stands in for the incident date.
     - No court outcome or further action after the NDPS case registration was reported.
     - The alleged ringleader Ikramuddin was still at large and no further arrests were reported.
 ---
 
 Officers of the Uttar Pradesh STF stopped a truck packed with ganja at the
-Bharatkund toll plaza in Ayodhya and arrested one person at the scene. [@1,2] The alleged ringleader Ikramuddin remained at large and STF teams were searching for him. [@3,4] A case under sections 8, 20, 29 and 60 of the NDPS Act was registered as crime number 740/2026 at Purakalandar police station in Ayodhya. [@2] The consignment had come from Odisha and was to be delivered to Bahraich district in Uttar Pradesh. [@3] Officers also seized a 14-tyre truck bearing registration RJ-32-GC-0487 along with a mobile phone, a SIM card and a driving licence. [@2] The arrested man was identified as Mohammad Irshad, aged about 35, of Lohinga Kala village in Mewat, Haryana. [@2] Officers seized about 433.930 kg of ganja valued at about Rs 1.25 crore. [@3,4] The
-ganja was being carried concealed in the truck in a large quantity. [@1]
+Bharatkund toll plaza in Ayodhya and arrested one person at the scene. [@1,2,5] The alleged ringleader Ikramuddin remained at large and STF teams were searching for him. [@3,4] A case under sections 8, 20, 29 and 60 of the NDPS Act was registered as crime number 740/2026 at Purakalandar police station in Ayodhya. [@2] The consignment had come from Odisha and was to be delivered to Bahraich district in Uttar Pradesh. [@3,5] Officers also seized a 14-tyre truck bearing registration RJ-32-GC-0487 along with a mobile phone, a SIM card and a driving licence. [@2] The arrested man was identified as Mohammad Irshad, aged about 35, of Lohinga Kala village in Mewat, Haryana. [@2] Police reported that the arrested suspect faced previous cases registered in 2022 at Kosikalan police station in Mathura under attempt to murder, the NDPS Act, and the Gangster Act. [@5] Officers seized about 433.930 kg of ganja valued at about Rs 1.25 crore. [@3,4] The
+ganja was being carried concealed in the truck in a large quantity. [@1,5] The 14 sacks of ganja were concealed between boxes of pottery dust loaded in the truck to disguise the shipment. [@5]
