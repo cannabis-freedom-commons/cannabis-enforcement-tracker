@@ -11,7 +11,7 @@
 //   every line;
 // - dragging the years redraws at most once a frame.
 // What is chosen stays in the address (?view=routes&years=2020-2026&route=th-in…).
-import { corridors, placeTotals, arc, greatArc, nearSide, along, MODES, PRODUCTS } from "../lib/routes.js";
+import { corridors, placeTotals, arc, nearSide, along, MODES, PRODUCTS } from "../lib/routes.js";
 import { formatWeight } from "../lib/figures.js";
 import { versioned } from "./build-id.js";
 
@@ -52,7 +52,7 @@ function start() {
   const colorOf = Object.fromEntries(products.map(([id, , c]) => [id, c]));
   let data = null;
   let shown = [], lines = [], domestic = [], byKey = new Map(), totals = {};
-  // the lines: gentle curves on the flat map (the two directions apart), great circles on the globe
+  // the lines: gentle curves, the two directions apart, the same on the flat map and the globe
   const geometry = new Map();
   const globe = () => map?.getProjection?.()?.type === "globe";
   const place = (id) => `<span class="fl">${data.nodes[id]?.fl ?? ""}</span>${esc(data.nodes[id]?.n ?? id)}`;
@@ -87,7 +87,7 @@ function start() {
     ({ lines, domestic } = corridors(shown, data.nodes));
     byKey = new Map(lines.map((c) => [c.key, c]));
     totals = placeTotals(lines);
-    for (const c of lines) if (!geometry.has(c.key)) geometry.set(c.key, (globe() ? greatArc : arc)(data.nodes[c.from].ll, data.nodes[c.to].ll));
+    for (const c of lines) if (!geometry.has(c.key)) geometry.set(c.key, arc(data.nodes[c.from].ll, data.nodes[c.to].ll));
   }
   const value = (c) => (state.metric === "kg" ? c.kg : c.reports);
   const picked = () => {
@@ -476,8 +476,6 @@ function start() {
       else if (state.pick) choose(null);
     });
     map.on("resize", () => { sizeCanvas(); if (reduced) draw(0); });
-    // the flat map and the globe draw the lines differently: curves on one, great circles on the other
-    map.on("projectiontransition", () => { geometry.clear(); if (data) refresh(); });
     if (reduced) map.on("move", () => draw(0));
   }
 

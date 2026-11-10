@@ -54,14 +54,15 @@ test('products and ways of travel group the vocabulary', () => {
   assert.deepEqual(modesOf(['airport', 'mail', 'home']), ['air', 'mail']);
 });
 
-test('on the globe a line follows the great circle and stays continuous across the date line', async () => {
-  const { greatArc, nearSide } = await import('../src/lib/routes.js');
-  const line = greatArc([174, -41], [-172, -13]); // New Zealand to Samoa
-  assert.deepEqual(line[0], [174, -41]);
-  assert.equal(line.at(-1)[0], 188);
-  for (let i = 1; i < line.length; i++) assert(Math.abs(line[i][0] - line[i - 1][0]) < 5);
-  const mid = greatArc([0, 0], [90, 0])[24];
-  assert(Math.abs(mid[0] - 45) < 1e-3 && Math.abs(mid[1]) < 1e-3, 'along the equator');
+test('a curve never rises past 80° (the map would squash it into a ring round the pole)', async () => {
+  const { arc, nearSide, MAX_LAT } = await import('../src/lib/routes.js');
+  for (const [a, b] of [[[-98, 39], [100, 60]], [[-106, 56], [100, 62]], [[-42, 72], [105, 61]], [[20, -70], [160, -75]]]) {
+    const line = arc(a, b);
+    assert(line.every(([, y]) => Math.abs(y) <= MAX_LAT), `${a} → ${b}`);
+    assert.deepEqual(line[0], a);
+  }
+  const short = arc([0, 0], [10, 0]);
+  assert(short[24][1] > 0.5, 'an ordinary line still bends');
   assert(nearSide([10, 10], [0, 0]));
   assert(!nearSide([180, 0], [0, 0]), 'the far side');
 });

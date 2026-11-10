@@ -85,46 +85,29 @@ export function placeTotals(lines) {
   return out;
 }
 
-// The line on the map: a gentle curve from a to b ([lon, lat]), bending to the left of the
-// direction of travel, so the two directions between the same places are two separate lines. The
-// shorter way round the globe is taken (the end may lie past ±180°, which the map draws fine).
-export function arc(a, b, steps = 40) {
+// The line on the map, flat or globe: a gentle curve from a to b ([lon, lat]), bending to the left
+// of the direction of travel, so the two directions between the same places are two separate lines.
+// The shorter way round is taken (the end may lie past ±180°, which the map draws fine). The map
+// cannot draw beyond about 85° north or south and would squash a line there into a ring round the
+// pole, so a curve that would rise above 80° bends less, and as a last resort is held at 80°.
+export const MAX_LAT = 80;
+export function arc(a, b, steps = 48) {
   let [x1, y1] = a, [x2, y2] = b;
   if (x2 - x1 > 180) x2 -= 360;
   else if (x1 - x2 > 180) x2 += 360;
   const dx = x2 - x1, dy = y2 - y1, len = Math.hypot(dx, dy);
-  const bend = Math.min(0.22, 0.12 + len / 900); // longer lines bend a little more
-  const cx = (x1 + x2) / 2 - dy * bend, cy = (y1 + y2) / 2 + dx * bend;
-  const out = [];
-  for (let i = 0; i <= steps; i++) {
-    const t = i / steps, u = 1 - t;
-    out.push([+(u * u * x1 + 2 * u * t * cx + t * t * x2).toFixed(4), +(u * u * y1 + 2 * u * t * cy + t * t * y2).toFixed(4)]);
+  let bend = Math.min(0.22, 0.12 + len / 900); // longer lines bend a little more
+  let out = [];
+  for (let tries = 0; tries < 8; tries++, bend *= 0.6) {
+    const cx = (x1 + x2) / 2 - dy * bend, cy = (y1 + y2) / 2 + dx * bend;
+    out = [];
+    for (let i = 0; i <= steps; i++) {
+      const t = i / steps, u = 1 - t;
+      out.push([+(u * u * x1 + 2 * u * t * cx + t * t * x2).toFixed(4), +(u * u * y1 + 2 * u * t * cy + t * t * y2).toFixed(4)]);
+    }
+    if (out.every(([, y]) => Math.abs(y) <= MAX_LAT)) return out;
   }
-  return out;
-}
-
-// The line on a globe: the great circle from a to b ([lon, lat]), the way a plane would fly, with
-// each longitude kept within 180° of the one before so the line does not jump at the date line.
-export function greatArc(a, b, steps = 48) {
-  const rad = Math.PI / 180, deg = 180 / Math.PI;
-  const [l1, p1] = [a[0] * rad, a[1] * rad], [l2, p2] = [b[0] * rad, b[1] * rad];
-  const v1 = [Math.cos(p1) * Math.cos(l1), Math.cos(p1) * Math.sin(l1), Math.sin(p1)];
-  const v2 = [Math.cos(p2) * Math.cos(l2), Math.cos(p2) * Math.sin(l2), Math.sin(p2)];
-  const angle = Math.acos(Math.max(-1, Math.min(1, v1[0] * v2[0] + v1[1] * v2[1] + v1[2] * v2[2])));
-  if (angle < 1e-9) return [a, b];
-  const out = [];
-  let prev = null;
-  for (let i = 0; i <= steps; i++) {
-    const t = i / steps, s1 = Math.sin((1 - t) * angle) / Math.sin(angle), s2 = Math.sin(t * angle) / Math.sin(angle);
-    const x = s1 * v1[0] + s2 * v2[0], y = s1 * v1[1] + s2 * v2[1], z = s1 * v1[2] + s2 * v2[2];
-    let lon = Math.atan2(y, x) * deg;
-    const lat = Math.atan2(z, Math.hypot(x, y)) * deg;
-    if (prev != null) while (lon - prev > 180) lon -= 360;
-    if (prev != null) while (prev - lon > 180) lon += 360;
-    prev = lon;
-    out.push([+lon.toFixed(4), +lat.toFixed(4)]);
-  }
-  return out;
+  return out.map(([x, y]) => [x, Math.max(-MAX_LAT, Math.min(MAX_LAT, y))]);
 }
 
 // whether a point ([lon, lat]) faces the viewer of a globe centred on `centre`: on the near side
