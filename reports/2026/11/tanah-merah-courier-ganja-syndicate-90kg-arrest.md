@@ -112,6 +112,10 @@ sources:
     url: https://www.sarawaktribune.com/kelantan-police-bust-drug-syndicate-using-couriers-to-deliver-cannabis/
     publisher: New Sarawak Tribune
     date: 2026-11-10
+  - title: Kelantan cops uncover syndicate using courier services to distribute cannabis
+    url: https://www.thestar.com.my/news/nation/2026/11/10/kelantan-cops-uncover-syndicate-using-courier-services-to-distribute-cannabis
+    publisher: The Star
+    date: 2026-11-10
 open_questions:
     - Accounts mostly date the operation to Sunday 8 November 2026 with remand from 9 to 15 November, though one report described it as taking place the previous day.
     - No individual weight was published for each of the 12 compressed-ganja boxes found at the telecommunications shop.
@@ -131,10 +135,10 @@ district on Sunday 8 November 2026 and seized 90.38 kg of compressed ganja and
 107.6 grams of cannabis flowers. [@1,5] Police valued the cannabis at RM279,902 in
 total. [@1,5] Kelantan police chief Datuk Mohd Yusoff Mamat said the arrest came
 at about 3.30pm at Batu 10, Batang Merbau, after a month of intelligence work.
-[@1,2,7] The suspect drove a Honda FD and sped off after realising he was being followed before his car skidded off the roadside at Kampung Batu 10, Batang Merbau. [@3,7]
+[@1,2,7,8] The suspect drove a Honda FD and sped off after realising he was being followed before his car skidded off the roadside at Kampung Batu 10, Batang Merbau. [@3,7]
 
 The interrogation led officers to inspect a telecommunications shop they believe
-was used to collect parcels for courier delivery. [@1,4,7] The telecommunications shop functioned as a collection centre where courier companies such as J&T and City-Link would collect parcels before delivering them to addresses given by customers. [@6] Thirteen packages
+was used to collect parcels for courier delivery. [@1,4,7,8] The telecommunications shop functioned as a collection centre where courier companies such as J&T and City-Link would collect parcels before delivering them to addresses given by customers. [@6] Thirteen packages
 containing drugs were found there, ready to be sent to 13 different addresses.
 [@1] Police raided the shop before the parcels could be posted and found 12 boxes holding 90 kilograms of compressed ganja and one box holding 100 grams of dried suspected cannabis flowers. [@2,3,4] Yusoff said the deliveries were aimed at the market around the Klang
 Valley, in Selangor and Kuala Lumpur. [@1,2] The syndicate wrapped the drugs in plastic and boxes and used courier services to move them for markets inside and outside Kelantan, especially around the Klang Valley. [@3,7]
@@ -147,6 +151,6 @@ Pepuyu, Tanah Merah, before being distributed by courier. [@1,2,3,4,7] Police es
 the seized ganja could have supplied 90,502 drug users. [@1,5] The suspect had
 five previous drug offences on record and tested positive for methamphetamine.
 [@1,3] He was remanded for seven days, from 9 to 15 November, to help the
-investigation. [@1,3,6,7] A search under the dashboard on the driver's side of the suspect's car found 14 yaba pills. [@2,3,7] The case is being investigated under Section 39B of the
+investigation. [@1,3,6,7,8] A search under the dashboard on the driver's side of the suspect's car found 14 yaba pills. [@2,3,7] The case is being investigated under Section 39B of the
 Dangerous Drugs Act 1952, the trafficking provision that carries a possible
 death sentence. [@1,7]
