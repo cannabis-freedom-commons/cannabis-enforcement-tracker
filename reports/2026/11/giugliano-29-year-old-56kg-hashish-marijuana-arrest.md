@@ -136,6 +136,11 @@ sources:
     publisher: Il Gazzettino vesuviano
     date: 2026-11-09
     language: it
+  - title: 'Giugliano, droga dalla California e un Range Rover con targa clonata: arrestato 29enne'
+    url: https://www.teleclubitalia.it/giugliano-droga-dalla-california-e-un-range-rover-con-targa-clonata-arrestato-29enne/
+    publisher: Teleclub
+    date: 2026-11-09
+    language: it
 open_questions:
   - Only one source for the event could be opened; the submitted page is an automatically translated English version of an Il Mattino article.
   - The article gives no date or time for the search; 9 November 2026 is its publication date and is used as the incident date.
@@ -189,13 +194,17 @@ open_questions:
   - The page's single photo carries only the story headline as its caption, with no credit, so no media entry is added.
   - The packaging description on this page says the products had a particularly showy appearance but does not itself name Dragon Ball characters or exotic fruit; those details come from the longer Il Mattino account already cited in the report.
   - The page names the suspect in full; the report records only his age.
+  - Teleclub gives no separate date or time for the search; 9 November 2026 is its publication date and stands in for the incident date.
+  - Teleclub repeats the Carabinieri account, so it corroborates the existing report rather than providing independent reporting of the raid.
+  - Teleclub names the suspect in full; the report records only his age.
+  - The Teleclub page's single image, captioned only "droga-giugliano" and carrying no credit, is not confirmed to show which seized items and is not added as media.
 ---
 
 Officers of the operational unit of the Carabinieri company in Giugliano in
 Campania raided the home of a 29-year-old man, already known to law enforcement.
 [@1,3,4,6,8,9,10,11,12,13,14,15] In the kitchen freezer they found 1 kilo and 639 grams of hashish, made up
-of 21 square blocks, 4 rectangular blocks and 23 doses in small bags. [@1,2,3,4,5,6,7,9,10,11,12,13,14,15] In
-the bedroom they found another 3 kilos and 900 grams of marijuana. [@1,2,4,5,6,8,9,10,11,12,13,14,15]
+of 21 square blocks, 4 rectangular blocks and 23 doses in small bags. [@1,2,3,4,5,6,7,9,10,11,12,13,14,15,16] In
+the bedroom they found another 3 kilos and 900 grams of marijuana. [@1,2,4,5,6,8,9,10,11,12,13,14,15,16]
 
 The haul included marijuana vapes that had arrived from California, where the
 account says they are legal, in colourful packaging featuring characters from
@@ -204,9 +213,9 @@ switchblade and several vacuum-packing machines. [@1,4,5,10,11,12,13,14,15] In t
 a Range Rover Sport worth 150,000 euros whose plates and chassis number had been
 cloned from another vehicle, and seized it for investigation. [@1,5,10,11,12,13,14]
 
-The 29-year-old was arrested and taken to prison. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15] He is charged with
+The 29-year-old was arrested and taken to prison. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16] He is charged with
 illegal possession of narcotics, unlawful possession of weapons and receiving
-stolen goods. [@1,4,5,8,9,10,11,12,13,14,15]
+stolen goods. [@1,4,5,8,9,10,11,12,13,14,15,16]
 
 Inside the home the officers found the parcel that had come from the United States. [@2]
 
@@ -214,6 +223,6 @@ Some of the colourful bags and packets were decorated with characters from the a
 
 The Videoinformazioni account describes the hashish as more than a kilo and a half of "frozen" hashish in blocks and small bags hidden in the kitchen freezer, a slightly lower weight than the 1.639 kilograms in the existing report. [@8] Videoinformazioni reports that the officers found the packaging machines and the switchblade during the bedroom search. [@8]
 
-The Carabinieri said the car's control units were being changed and its alarms removed, and that it was close to being able to circulate without being detected. [@9,11,15]
+The Carabinieri said the car's control units were being changed and its alarms removed, and that it was close to being able to circulate without being detected. [@9,11,15,16]
 
 The hashish, described as the "frozen" type, was hidden in the kitchen freezer, and the vapes seized were in colourful packaging showing characters from Dragon Ball and exotic fruit. [@11,15]
