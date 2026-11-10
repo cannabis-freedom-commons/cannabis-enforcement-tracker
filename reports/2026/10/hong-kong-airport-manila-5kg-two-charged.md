@@ -62,16 +62,21 @@ sources:
     url: https://www.info.gov.hk/gia/general/202610/11/P2026101100219.htm
     publisher: HKSAR Government
     date: 2026-10-11
+  - title: 海關機場破旅客販毒案 檢約5公斤懷疑大麻花拘2內地男子
+    url: https://www.hkcd.com.hk/content_app/2026-10/11/content_8779413.html
+    publisher: 香港商報
+    date: 2026-10-11
+    language: zh
 ---
 
 Hong Kong Customs officers found about 5 kilograms of suspected cannabis buds concealed in the
 check-in suitcase of a 59-year-old mainland man who arrived from Manila on 10 October 2026, and
-arrested him. [@1,2] Follow-up investigation led officers to arrest a 58-year-old mainland man who
+arrested him. [@1,2,3] Follow-up investigation led officers to arrest a 58-year-old mainland man who
 had also arrived from Manila the same day and was suspected of being connected with the
-case. [@1,2] Customs estimated the market value of the buds at about HK$1 million. [@1,2]
+case. [@1,2,3] Customs estimated the market value of the buds at about HK$1 million. [@1,2,3]
 
 The two men were jointly charged with one count of trafficking in a dangerous drug, and the case was
-to be brought before West Kowloon Magistrates' Courts on 12 October. [@1,2] Under Hong Kong's
+to be brought before West Kowloon Magistrates' Courts on 12 October. [@1,2,3] Under Hong Kong's
 Dangerous Drugs Ordinance, trafficking in a dangerous drug carries a maximum penalty of a HK$5
 million fine and life imprisonment. [@1,2] Customs said it would keep targeting passengers from
 high-risk regions through intelligence analysis and risk assessment, and reminded the public not to
