@@ -156,6 +156,11 @@ sources:
     publisher: Zazoom Social News
     date: 2026-11-09
     language: it
+  - title: Illegale Cannabis-Vapes und Luxusauto in Giugliano beschlagnahmt
+    url: https://www.ilmattino.it/de/illegale_cannabis_vapes_und_luxusauto_in_giugliano_beschlagnahmt-9878690.html
+    publisher: Il Mattino
+    date: 2026-11-09
+    language: de
 open_questions:
   - Only one source for the event could be opened; the submitted page is an automatically translated English version of an Il Mattino article.
   - The article gives no date or time for the search; 9 November 2026 is its publication date and is used as the incident date.
@@ -224,24 +229,26 @@ open_questions:
   - The Zazoom page gives no separate date or time for the search; 9 November 2026 is its publication date.
   - Zazoom gives the marijuana as “quasi quattro chili” (almost four kilograms) and no weight for the cannabis vapes, so only the weights already recorded are used.
   - The Zazoom page's single image is captioned only with the story headline and carries no credit naming who took it, so no media entry is added.
+  - The German page is an automatically translated Il Mattino article, as its own closing note says, so it repeats the outlet's account rather than providing independent reporting.
+  - The German translation gives no separate date or time for the search; 9 November 2026 is its publication date and stands in for the incident date.
 ---
 
 Officers of the operational unit of the Carabinieri company in Giugliano in
 Campania raided the home of a 29-year-old man, already known to law enforcement.
-[@1,3,4,6,8,9,10,11,12,13,14,15,17,18,19] In the kitchen freezer they found 1 kilo and 639 grams of hashish, made up
-of 21 square blocks, 4 rectangular blocks and 23 doses in small bags. [@1,2,3,4,5,6,7,9,10,11,12,13,14,15,16,17,19] In
-the bedroom they found another 3 kilos and 900 grams of marijuana. [@1,2,4,5,6,8,9,10,11,12,13,14,15,16,17,19]
+[@1,3,4,6,8,9,10,11,12,13,14,15,17,18,19,20] In the kitchen freezer they found 1 kilo and 639 grams of hashish, made up
+of 21 square blocks, 4 rectangular blocks and 23 doses in small bags. [@1,2,3,4,5,6,7,9,10,11,12,13,14,15,16,17,19,20] In
+the bedroom they found another 3 kilos and 900 grams of marijuana. [@1,2,4,5,6,8,9,10,11,12,13,14,15,16,17,19,20]
 
 The haul included marijuana vapes that had arrived from California, where the
 account says they are legal, in colourful packaging featuring characters from
 the animated series Dragon Ball and exotic fruits. [@1,19] Officers also seized a
-switchblade and several vacuum-packing machines. [@1,4,5,10,11,12,13,14,15] In the garage police found
+switchblade and several vacuum-packing machines. [@1,4,5,10,11,12,13,14,15,20] In the garage police found
 a Range Rover Sport worth 150,000 euros whose plates and chassis number had been
 cloned from another vehicle, and seized it for investigation. [@1,5,10,11,12,13,14,19]
 
-The 29-year-old was arrested and taken to prison. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19] He is charged with
+The 29-year-old was arrested and taken to prison. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20] He is charged with
 illegal possession of narcotics, unlawful possession of weapons and receiving
-stolen goods. [@1,4,5,8,9,10,11,12,13,14,15,16]
+stolen goods. [@1,4,5,8,9,10,11,12,13,14,15,16,20]
 
 Inside the home the officers found the parcel that had come from the United States. [@2]
 
@@ -249,12 +256,14 @@ Some of the colourful bags and packets were decorated with characters from the a
 
 The Videoinformazioni account describes the hashish as more than a kilo and a half of "frozen" hashish in blocks and small bags hidden in the kitchen freezer, a slightly lower weight than the 1.639 kilograms in the existing report. [@8] Videoinformazioni reports that the officers found the packaging machines and the switchblade during the bedroom search. [@8]
 
-The Carabinieri said the car's control units were being changed and its alarms removed, and that it was close to being able to circulate without being detected. [@9,11,15,16]
+The Carabinieri said the car's control units were being changed and its alarms removed, and that it was close to being able to circulate without being detected. [@9,11,15,16,20]
 
-The hashish, described as the "frozen" type, was hidden in the kitchen freezer, and the vapes seized were in colourful packaging showing characters from Dragon Ball and exotic fruit. [@11,15]
+The hashish, described as the "frozen" type, was hidden in the kitchen freezer, and the vapes seized were in colourful packaging showing characters from Dragon Ball and exotic fruit. [@11,15,20]
 
 TorreSette reports that the car was seized so that investigators could establish where it came from. [@17]
 
 The Italian charge is worded as possession of narcotics for the purpose of dealing (detenzione di sostanze stupefacenti ai fini di spaccio), unlawful possession of weapons and receiving stolen goods. [@18]
 
 Zazoom reports, on the Carabinieri's account, that the cloned Range Rover was about to be put back into circulation after its control units were replaced and its alarm systems disabled. [@19]
+
+The German edition of the article gives the seized hashish in blocks and small bags as hidden in the kitchen freezer. [@20] The article says the vapes were in packaging decorated with characters from the animated series Dragon Ball and with exotic fruits. [@20]
