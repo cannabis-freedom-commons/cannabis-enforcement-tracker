@@ -99,6 +99,10 @@ sources:
     url: https://news.az/news/singaporean-arrested-at-ipoh-airport-with-473-000-worth-of-cannabis
     publisher: News.az
     date: 2026-11-10
+  - title: Singaporean faces death penalty after RM1.52m cannabis haul found at Ipoh airport
+    url: https://newswav.com/article/singaporean-faces-death-penalty-after-rm1-52m-cannabis-haul-found-at-ipoh-a-A2611_MUcrU2
+    publisher: The Vibes, on Newswav
+    date: 2026-11-10
 open_questions:
   - The Star gives the value as about RM1.5 million and the New Straits Times as RM1.52 million; the figures use the NST amount.
   - The Star says the man stayed at a hotel in Kajang, while the NST says he collected the drugs there from a supplier; both agree the drugs were picked up in Kajang.
@@ -123,6 +127,9 @@ open_questions:
   - The page describes the material as dried marijuana flowers; no laboratory confirmation was reported.
   - This account converts the promised S$4,000 wage to about RM12,600, against about RM12,690 and RM12,686.68 in other accounts; no wage amount is recorded in the figures.
   - News.az gives the value as about RM1.5 million (S$473,000); the existing report uses RM1.52 million from the New Straits Times, a difference already noted as an open question.
+  - The Vibes describes the luggage as holding suspected cannabis flowers without reporting laboratory confirmation, in line with other accounts.
+  - This account gives the arrest day only as Sunday and does not say when the seven-day remand began.
+  - The page's lead image is a generic stock-style picture filed under a cover name with no caption on the arrest, so no media entry is added.
 media:
   - kind: photo
     url: https://www.malaymail.com/news/malaysia/2026/11/10/singaporean-lured-by-rm12685-job-offer-arrested-remanded-seven-days-over-rm15m-cannabis-haul-at-ipoh-airport/242670
@@ -142,10 +149,10 @@ media:
 ---
 
 Perak police arrested a 29-year-old unemployed Singaporean man at Sultan Azlan
-Shah Airport in Ipoh at 6.20am on 8 November 2026. [@1,3,10,12] Auxiliary police at the
+Shah Airport in Ipoh at 6.20am on 8 November 2026. [@1,3,10,12,13] Auxiliary police at the
 check-in counter searched his baggage and found 36 plastic packages holding
 19,040g of dried marijuana flowers. [@1,3,6,8,9,10,11,12] Police valued the cannabis at about
-RM1.5 million. [@1,3,10,12] The New Straits Times put the weight at 19.04kg and the
+RM1.5 million. [@1,3,10,12,13] The New Straits Times put the weight at 19.04kg and the
 value at RM1.52 million, an amount police said was enough to supply 47,900 drug
 users. [@2]
 
@@ -155,17 +162,17 @@ arriving on 7 November. [@1,3,6] Police said he was to fly from Ipoh to Singapor
 and then on to London to deliver the cannabis. [@1,3,6,7,8,9,11,12] He told police he had
 answered an online job offer promising good pay. [@1,3,7] Police said the offer was
 S$4,000 (about RM12,690), that the man was unemployed and that a urine screening
-found no drugs in his system. [@2,9]
+found no drugs in his system. [@2,9,13]
 
 Perak police chief Comm Datuk Mohd Alwi Zainal Abidin said syndicates
 increasingly use less busy airports such as Ipoh, which has one daily flight to
 Singapore, to traffic drugs abroad. [@2,3,5,10,11] The man was remanded for seven days
 from 9 November under Section 39B of the Dangerous Drugs Act 1952, which carries
-a death sentence or life imprisonment with caning on conviction. [@1,3,4,5,9,10,12]
+a death sentence or life imprisonment with caning on conviction. [@1,3,4,5,9,10,12,13]
 
 The man arrived in Ipoh on 7 November after picking up the load in Kajang and travelling by e-hailing car. [@3,5]
 
-The job offer was made through a website promising payment to carry luggage said to hold counterfeit luxury-branded goods to London. [@4,6,8,9,11] Mohd Alwi said the syndicate targeted less busy airports, with the drugs to be sent as cargo after clearing customs and forwarded to their destination. [@4] A urine screening found no drugs in his system and he had no previous criminal record. [@4,7,11] The case is being investigated under Section 39B of the Dangerous Drugs Act 1952, which on conviction carries the death penalty or life imprisonment and at least 12 strokes of whipping. [@4] Mohd Alwi said the drugs seized could have been used by about 47,900 addicts. [@4,9,11]
+The job offer was made through a website promising payment to carry luggage said to hold counterfeit luxury-branded goods to London. [@4,6,8,9,11,13] Mohd Alwi said the syndicate targeted less busy airports, with the drugs to be sent as cargo after clearing customs and forwarded to their destination. [@4] A urine screening found no drugs in his system and he had no previous criminal record. [@4,7,11,13] The case is being investigated under Section 39B of the Dangerous Drugs Act 1952, which on conviction carries the death penalty or life imprisonment and at least 12 strokes of whipping. [@4] Mohd Alwi said the drugs seized could have been used by about 47,900 addicts. [@4,9,11]
 
 Police chief Mohd Alwi said the suspect had been tricked by a syndicate into thinking he was carrying counterfeit luxury-branded goods, and that the 36 packets of suspected cannabis flower were found in a Caggioni-branded zippered suitcase. [@5] Mohd Alwi said the suspect and the seized items were handed to the Perak Narcotics Criminal Investigation Department for investigation, and that the seizure followed intelligence-gathering and cooperation from members of the public. [@5]
 
