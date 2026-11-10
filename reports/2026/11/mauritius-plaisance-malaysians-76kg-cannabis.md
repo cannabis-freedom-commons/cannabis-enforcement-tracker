@@ -188,19 +188,22 @@ sources:
     publisher: Berita Harian
     date: 2026-11-10
     language: ms
+  - title: 再有大马人携毒海外闯关被捕 夫妻与沙巴男子运76公斤大麻
+    url: https://newswav.com/article/%E5%86%8D%E6%9C%89%E5%A4%A7%E9%A9%AC%E4%BA%BA%E6%90%BA%E6%AF%92%E6%B5%B7%E5%A4%96%E9%97%AF%E5%85%B3%E8%A2%AB%E6%8D%95-%E5%A4%AB%E5%A6%BB%E4%B8%8E%E6%B2%99%E5%B7%B4%E7%94%B7%E5%AD%90%E8%BF%9076%E5%85%AC%E6%96%A4%E5%A4%A7%E9%BA%BB-A2611_hdly7q
+    publisher: Newswav (Media Selangor)
+    date: 2026-11-10
+    language: zh
 open_questions:
-    - The article was published on 4 November 2026 but dates the seizure to “ce mardi”, so 3 November 2026 is used as the incident date.
-    - The suspects were not named and no charge or court outcome was reported.
-    - Radio One and Harian Metro attribute about 10.9 kg to the 30-year-old, while Inside News gives 10.94 kg; the new accounts give about 65 kg for the couple's 60 packets against the Revenue Authority's 76.14 kg total.
+    - The Defimedia article was published on 4 November 2026 and dated the seizure to "ce mardi", whereas later accounts date the airport arrests to 2 November 2026.
+    - The suspects were not named and no charge outcome or final court disposition was reported beyond provisional charges.
+    - Radio One and Harian Metro attribute about 10.9 kg to the 30-year-old, while Inside News gives 10.94 kg; later accounts give about 65 kg for the couple's 60 packets against the Revenue Authority's 76.14 kg total.
     - Harian Metro gives the woman's age only as 18; Le Mauricien says she turned 18 in August and Radio One says 27 August.
-    - Kwong Wah says the Mauritius Revenue Authority issued its statement 'last Wednesday', which would place the statement after the 2 November arrests.
-    - Malay Mail credits Free Malaysia Today for its account, so that page is not independent reporting of the seizure and it names no charge or court step.
     - Sinar Harian attributes the per-suspect weights to Mauritian media and gives 32.5 kg for one suspect, while Radio One gives 32.62 kg for the 18-year-old.
     - Streamline mixes the separate September and October Malaysian cases into its context paragraphs, so those comparisons are not used here.
     - The New Straits Times gives 17.8 kg for the 23 October cook case, while that case's own report records 17.88 kg.
-    - The page gives no flight number, no charge, no court step and no outcome for the three suspects.
-    - The packet split in this account does not reconcile with the 70-packet total reported at the airport.
     - The couple's share of about 65 kg is a gross weight that may include packing.
+    - Malay Mail credits Free Malaysia Today for its account, and Media Selangor attributes its account to Berita Harian and the 4 November Mauritius Revenue Authority statement.
+    - Accounts differ on whether an Apple AirTag was found in one of the couple's bags or tracking devices were found inside each suitcase carried by one suspect.
 ---
 
 Three Malaysian nationals who arrived on Emirates flight EK709 from Dubai were searched at Plaisance,
@@ -216,7 +219,7 @@ hidden in the suitcases. [@1,3,6,7,8,10,11,12,14,15,16,19,23] The 22-year-old ma
 about 32.5 kg and 32.6 kg [@2,10,14,23], and the 30-year-old about 10.9 kg [@4,9,14,23]; one account gives
 the woman's share as 32.62 kg in 30 packets. [@4] Foreign currency was also seized. [@1] The Mauritius
 Revenue Authority valued the haul at 114.21 million Mauritian rupees, about RM9.87 million, at local
-market prices. [@2,3,6,7,8,10,12,13,14,15,16,17,18,20,23]
+market prices. [@2,3,6,7,8,10,12,13,14,15,16,17,18,20,23,29] The Mauritius Revenue Authority confirmed the seizure of 70 sealed plastic packets weighing 76.14 kg of suspected cannabis in a statement issued on 4 November 2026. [@29]
 
 ## Investigation
 
@@ -243,12 +246,12 @@ Mauritius media reported that preliminary investigations linked the drugs to Tha
 
 The 55-year-old Malaysian cook arrested at the same airport on 23 October had arrived from Dubai on Emirates flight EK709, the same flight the three took before their 2 November arrest. [@15,23]
 
-Three Malaysians were arrested upon arrival in Mauritius on Nov 2 after authorities found 76.14kg of cannabis in their luggage. [@14] The Mauritius Revenue Authority said the Malaysians arrived at Sir Seewoosagur Ramgoolam International Airport on Nov 2 before being flagged for further checks. [@14] The 30-year-old man, who reportedly lives and works as a security officer in Singapore, was found carrying about 10.9kg of the drug. [@14] The three suspects travelled on Emirates flight EK709 from Dubai and were held at Sir Seewoosagur Ramgoolam International Airport. [@10]
+Three Malaysians were arrested upon arrival in Mauritius on Nov 2 after authorities found 76.14kg of cannabis in their luggage. [@14,29] The Mauritius Revenue Authority said the Malaysians arrived at Sir Seewoosagur Ramgoolam International Airport on Nov 2 before being flagged for further checks. [@14] The 30-year-old man, who reportedly lives and works as a security officer in Singapore, was found carrying about 10.9kg of the drug. [@14] The three suspects travelled on Emirates flight EK709 from Dubai and were held at Sir Seewoosagur Ramgoolam International Airport. [@10]
 
 The three arrived in Mauritius on an Emirates flight from Dubai on 2 November 2026. [@17]
 
-Bukit Aman Narcotics Criminal Investigation Department director Datuk Hussein Omar Khan said the 22-year-old man and the 18-year-old woman, both from Penang, were recruited after making contact with an individual on the RedNote app and then being reached on Telegram. [@21,25,26,28] The recruiter offered RM1,000 for each suitcase delivered to Mauritius and arranged and paid for the couple's flight tickets and hotel stay. [@21,25,26] The couple agreed to carry four suitcases, two each, and were told to collect them in Bangkok, Thailand, before flying on to Mauritius via Dubai, Hussein said. [@21,26,28] They were also told to install the Life360 location app so the person coordinating the delivery could monitor their movements, and they sent copies of their passports over Telegram. [@21,26] The couple were travelling ostensibly for a five-day holiday, Hussein said. [@27] Checks on the couple's luggage found 60 plastic packets of suspected cannabis with a gross weight of about 65 kg, and Apple tracking devices were found inside each suitcase carried by one of the suspects. [@21,26] The third suspect, a 30-year-old man from Sabah who works in Singapore, was arrested with 10 plastic packets, and police said he had found a job advertisement on Facebook in Singapore before being contacted on Telegram. [@21,26,28] Hussein said none of the three suspects had previous criminal records, and that the couple had booked five days at the Domaine de Grand Baie Hotel for a holiday. [@21] Hussein said checks found that none of the three suspects had a criminal record. [@27] The three Malaysians were arrested at 2.35pm on 2 November 2026, shortly after arriving on Emirates flight EK709 from Dubai, in an operation by the Anti-Drug and Smuggling Unit with Mauritius Customs, Hussein said. [@21,25,26,28] The couple found after their arrest that conversations in their Telegram group had been deleted or that the person believed to be the syndicate leader had left the group, Hussein said. [@21,26,28]
+Bukit Aman Narcotics Criminal Investigation Department director Datuk Hussein Omar Khan said the 22-year-old man and the 18-year-old woman, both from Penang, were recruited after making contact with an individual on the RedNote app and then being reached on Telegram. [@21,25,26,28,29] Hussein confirmed that the 22-year-old man and the 18-year-old woman from Penang were a married couple. [@29] The recruiter offered RM1,000 for each suitcase delivered to Mauritius and arranged and paid for the couple's flight tickets and hotel stay. [@21,25,26,29] The couple agreed to carry four suitcases, two each, and were told to collect them in Bangkok, Thailand, before flying on to Mauritius via Dubai, Hussein said. [@21,26,28,29] They were also told to install the Life360 location app so the person coordinating the delivery could monitor their movements, and they sent copies of their passports over Telegram. [@21,26,29] The couple were travelling ostensibly for a five-day holiday, Hussein said. [@27,29] Checks on the couple's luggage found 60 plastic packets of suspected cannabis with a gross weight of about 65 kg, and Apple tracking devices were found inside each suitcase carried by one of the suspects. [@21,26] The third suspect, a 30-year-old man from Sabah who works in Singapore, was arrested with 10 plastic packets, and police said he had found a job advertisement on Facebook in Singapore before being contacted on Telegram. [@21,26,28] Hussein said none of the three suspects had previous criminal records, and that the couple had booked five days at the Domaine de Grand Baie Hotel for a holiday. [@21] Hussein said checks found that none of the three suspects had a criminal record. [@27,29] The three Malaysians were arrested at 2.35pm on 2 November 2026, shortly after arriving on Emirates flight EK709 from Dubai, in an operation by the Anti-Drug and Smuggling Unit with Mauritius Customs, Hussein said. [@21,25,26,28,29] He said the Royal Malaysia Police were notified of the three Malaysians' airport arrest by Mauritian enforcement authorities on 2 November 2026. [@29] The couple found after their arrest that conversations in their Telegram group had been deleted or that the person believed to be the syndicate leader had left the group, Hussein said. [@21,26,28]
 
 Malaysia's Bukit Aman narcotics director said the Penang couple, 22 and 18, were recruited on RedNote and Telegram to carry four suitcases for RM1,000 a bag, with tickets and hotel paid, collection in Bangkok, a route through Dubai, the Life360 tracker installed to watch their movements and a five-day Grand Baie holiday as cover, while the 30-year-old from Sabah was recruited through a Facebook job advertisement. [@22,24]
 
-He said Malaysian police would keep coordinating intelligence with Mauritian authorities to identify possible links to trafficking networks connected to Malaysia. [@27,28]
+He said Malaysian police would keep coordinating intelligence with Mauritian authorities to identify possible links to trafficking networks connected to Malaysia. [@27,28,29]
