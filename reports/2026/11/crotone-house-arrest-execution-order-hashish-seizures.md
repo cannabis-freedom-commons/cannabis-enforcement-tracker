@@ -52,6 +52,11 @@ sources:
     publisher: CrotoneNews
     date: 2026-11-08
     language: it
+  - title: 'Crotone: un arresto per spaccio, sequestrati 12 gr. tra hashish e cocaina'
+    url: https://www.crotone24news.it/cronaca/21622-crotone-un-arresto-per-spaccio-sequestrati-12-grammi-tra-hashish-e-cocaina.html
+    publisher: Crotone24News
+    date: 2026-11-09
+    language: it
 open_questions:
   - The reports give no date for the individual arrest; 8 November 2026 is the publication date of the police statement and of CrotoneOk.
   - The man's final sentence is for drug dealing, but the reports do not say whether the drugs involved were cannabis or another substance, so conviction details are not recorded.
@@ -64,19 +69,22 @@ open_questions:
   - The photographed asset on the police page is titled as a press-office image for the 8 November statement, but it could not be inspected and may not show the seized hashish.
   - A separate 7 November seizure of 56.6 grams of suspected hashish and 1 gram of suspected marijuana, against unknown persons in Crotone and Cirò Marina, is reported by Il Crotonese; it is a different event and is not counted in this report's figures.
   - 'Left out, as its quotation was not found in CN24TV: Officers also found five doses of hashish, weighing 4.75 grams in total, and seized them against unknown persons.'
+  - Crotone24News reproduces the same Crotone police headquarters statement as the earlier sources, so it is not independent confirmation.
+  - The article gives no separate date for the arrest or the seizures; 9 November 2026 is its publication date.
+  - The 4.75 grams of hidden hashish is reported against unknown persons, with no one identified or charged.
 ---
 
 Officers of the Crotone flying squad arrested a man on an execution order issued
 by the Catanzaro surveillance magistrate, who must now serve a final sentence of
-one year and six months for possessing drugs for sale. [@2,4] Because the
+one year and six months for possessing drugs for sale. [@2,4,5] Because the
 conviction is final, the sentence was converted from prison to detention at
 home, and CrotoneOk reported he will serve it under house arrest. [@2]
 
 In the same territory-control work, Volanti officers reported six people to the
 prefect of Crotone for possessing drugs for personal use, seizing 4.01 grams of
-cocaine and 3.19 grams of hashish. [@2,4] Officers also found five doses of
+cocaine and 3.19 grams of hashish. [@2,4,5] Officers also found five doses of
 hashish, weighing 4.75 grams in total, and seized them against unknown persons.
-[@2,4] A report to the prefect for personal use is an administrative measure, not
+[@2,4,5] A report to the prefect for personal use is an administrative measure, not
 a criminal charge, and police did not say where the cannabis was seized. [@1]
 
 Two people were reported to the judicial authority for carrying altered or
