@@ -51,6 +51,11 @@ sources:
     publisher: 日テレNEWS NNN
     date: 2026-11-10
     language: ja
+  - title: 動画配信の女 大麻0.4ｇ所持で現行犯逮捕「自分で使う目的で持っていた」と容疑認める 青森・八戸警察署（2026年11月10日掲載）｜青森放送NEWS NNN
+    url: https://news.ntv.co.jp/n/rab/category/society/ra86584728866e4afe82f13909d0e72cc6
+    publisher: 青森放送NEWS NNN
+    date: 2026-11-10
+    language: ja
 open_questions:
   - The 0.4 grams is reported as an approximate amount (およそ0.4グラム), not an exact laboratory-confirmed weight.
   - No weight or volume was given for the seized bottle of cannabis liquid, so it is not counted in the cannabis weight figure.
@@ -59,14 +64,13 @@ open_questions:
 ---
 
 Hachinohe police arrested a 30-year-old woman who works in video distribution at
-her home in Konakano 4-chome, Hachinohe. [@2] The arrest was made on suspicion
+her home in Konakano 4-chome, Hachinohe. [@2,3] The arrest was made on suspicion
 of possessing about 0.4 grams of cannabis at her Hachinohe home shortly before
-10:30 p.m. on 21 October 2026. [@1]
+10:30 p.m. on 21 October 2026. [@1,3]
 
 She admitted the allegation, telling police she possessed the cannabis for her
-own use. [@1] A search of her home seized several items of cannabis
-paraphernalia including rolling papers and one bottle of cannabis liquid. [@1]
+own use. [@1,3] A search of her home seized several items of cannabis
+paraphernalia including rolling papers and one bottle of cannabis liquid. [@1,3]
 
 The Hachinohe Police Station is investigating how she obtained the cannabis.
-[@1]
-
+[@1,3]
