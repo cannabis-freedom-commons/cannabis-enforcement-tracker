@@ -38,6 +38,11 @@ media:
     media_url: https://semartara.news/wp-content/uploads/2026/11/kejari-tangsel_11zon.jpg
     publisher: semartara.news
     caption: 'Evidence being crushed in a blender during the destruction ceremony at the South Tangerang district prosecutor''s office, 9 November 2026. Photo: Semartara.News/Ist'
+  - kind: photo
+    url: https://tangselpos.id/detail/57166/kejari-bakar-ganja-sabu-ekstasi-diblender
+    media_url: https://tangselpos.id/storage/2026/11/kejari-bakar-ganja-sabu-ekstasi-diblender-09112026-220633.jpg
+    publisher: Tangsel Pos
+    caption: 'Evidence from the 70 final cases at the South Tangerang district prosecutor''s office, photographed under the caption "MUSNAHKAN BARANG BUKTI" for the report on the destruction of 9 November 2026. Photo: Tangsel Pos'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7668b09287d27a97f1d690da1b3598a2
@@ -53,6 +58,11 @@ sources:
     publisher: semartara.news
     date: 2026-11-09
     language: id
+  - title: Kejari Bakar Ganja, Sabu & Ekstasi Diblender
+    url: https://tangselpos.id/detail/57166/kejari-bakar-ganja-sabu-ekstasi-diblender
+    publisher: tangselpos.id
+    date: 2026-11-10
+    language: id
 open_questions:
   - Only one report of the destruction could be opened; no separate account from the prosecutor's office or another outlet was found.
   - The report gives no breakdown of how many of the 46 narcotics cases involved cannabis, nor the defendants or the sentences behind the 70 cases.
@@ -64,6 +74,8 @@ open_questions:
   - Semartara.News is a second outlet account and, like RRI, reproduces the prosecutor's statement; no separate agency release was opened.
   - The ANTARA Banten report describes sinte as tembakau sintetis (synthetic tobacco), a synthetic product that stays outside the cannabis weight.
   - 'Left out, as its quotation was not found in ANTARA News Banten: The destroyed narcotics included 26.6792 grams of ganja, the Indonesian term for cannabis.'
+  - The Tangsel Pos account, like RRI and Semartara.News, reproduces the prosecutor's statements and did not publish a separate agency release, so it is a further outlet account rather than independent reporting.
+  - The page's headline photograph is captioned only "MUSNAHKAN BARANG BUKTI" and does not confirm which of the destroyed items it shows.
 ---
 
 The South Tangerang district prosecutor's office (Kejari Tangsel) destroyed
@@ -73,16 +85,16 @@ exercise carried out court rulings ordering that the evidence be confiscated for
 destruction and could not be used again. [@1,2]
 
 Of the 70 cases, 46 involved narcotics, six the health law, five child
-protection and five theft. [@1,2] The rest covered firearms and bladed weapons,
+protection and five theft. [@1,2,3] The rest covered firearms and bladed weapons,
 assault, consumer protection and other offences. [@1] The destroyed narcotics
-included 26.6792 grams of ganja, the Indonesian term for cannabis. [@1,2] The
+included 26.6792 grams of ganja, the Indonesian term for cannabis. [@1,2,3] The
 total also included 240.8887 grams of sabu, crystal methamphetamine, 917.2894
 grams of sinte, a synthetic drug, six ecstasy pills and 254 etomidate items
 weighing 717.43 grams. [@1,2] Officers also destroyed 75,613 illegal pills, 12
 mobile phones and four bladed weapons. [@1,2]
 
 The ganja, sinte and etomidate were burned, while the sabu and ecstasy pills
-were dissolved in water, blended and sent into a drain. [@1,2] The phones were
+were dissolved in water, blended and sent into a drain. [@1,2,3] The phones were
 smashed with hammers and the bladed weapons cut with a machine. [@1,2] Aditya said
 destroying the drugs was meant to stop them being misused or circulating again
 in the community. [@1,2]
@@ -92,3 +104,5 @@ carrying out every court ruling, including on confiscated property with final
 legal force. [@1]
 
 The office's head, Aditya Rakatama, said the prosecutor's office would keep carrying out every court ruling, including on confiscated property with final legal force. [@2]
+
+The ceremony was held on the prosecutor's office premises in Serpong, which the account names as the venue. [@3]
