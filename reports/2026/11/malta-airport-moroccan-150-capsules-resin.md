@@ -62,6 +62,10 @@ sources:
     url: https://tvmnews.mt/en/news/man-arrested-at-malta-airport-after-150-suspected-cannabis-resin-capsules-found-in-stomach/
     publisher: TVMnews.mt
     date: 2026-11-10
+  - title: Drug mule caught with 150 cannabis-filled capsules in his stomach
+    url: https://newsbook.com.mt/en/drug-mule-caught-with-150-cannabis-filled-capsules-in-his-stomach/
+    publisher: Newsbook
+    date: 2026-11-10
 media:
   - kind: photo
     url: https://timesofmalta.com/article/man-arrested-caught-150-cannabis-resin-capsules-stomach.1136876
@@ -72,18 +76,18 @@ media:
 
 A 45-year-old Moroccan man was arrested at Malta International Airport after
 police found about 150 capsules containing suspected cannabis resin inside his
-stomach. [@1,2,3,4,5] Police put the capsules at roughly 1.5 kilograms of suspected
-cannabis resin, with an estimated street value of €30,000. [@1,2,4,5]
+stomach. [@1,2,3,4,5,6] Police put the capsules at roughly 1.5 kilograms of suspected
+cannabis resin, with an estimated street value of €30,000. [@1,2,4,5,6]
 
 Intelligence suggested the man, travelling from Morocco to Malta via Spain,
-could be part of an organised drug trafficking network. [@1,2,3,4,5] Officers checked
+could be part of an organised drug trafficking network. [@1,2,3,4,5,6] Officers checked
 passengers on a flight from Madrid that he was due to arrive on, and arrested
 him. [@1,2,3,4,5] He was taken to Mater Dei Hospital, where medical scans revealed the
-suspected drug-filled capsules in his stomach. [@1,2,3,4,5] The capsules, about 150 in
+suspected drug-filled capsules in his stomach. [@1,2,3,4,5,6] The capsules, about 150 in
 all, were seized as allegedly intended for illegal importation into Malta. [@1]
 
 Magistrate Philip Galea Farrugia was informed and opened an inquiry, appointing
-experts to assist the investigation. [@1,2,4,5] The suspect was held at the police
+experts to assist the investigation. [@1,2,4,5,6] The suspect was held at the police
 lock-up, with his arraignment expected around noon on Tuesday before Magistrate
 Abigail Critien. [@1,2,5] Police said investigations into the suspected trafficking
 operation were ongoing. [@1]
