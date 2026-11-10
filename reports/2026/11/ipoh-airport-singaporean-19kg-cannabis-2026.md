@@ -112,6 +112,11 @@ sources:
     publisher: Astro Awani
     date: 2026-11-10
     language: ms
+  - title: Warga Singapura ditahan bawa bagasi berisi ganja RM1.52 juta
+    url: https://www.sinarharian.com.my/article/803927/berita/semasa/warga-singapura-ditahan-bawa-bagasi-berisi-ganja-rm152-juta
+    publisher: Sinar Harian
+    date: 2026-11-10
+    language: ms
 open_questions:
     - The sources disagree on the value of the cannabis, from about RM1.5 million to RM1,523,200; the report uses the police figure of RM1.52 million.
     - 'The sources disagree on the man''s route and lodging: some say he collected the drugs in Kajang, others that he stayed at a hotel in Kajang before travelling to Ipoh on 7 November, and they agree the supply came from a Kajang syndicate.'
@@ -142,29 +147,34 @@ media:
     media_url: https://media.astroawani.com/awani/media/uploads/image/2026-11/TB_DATUK%20MOHD%20ALWI%20ZAINAL%20ABIDIN_BERNAMA.jpg?VersionId=SighjFuS5OJXuSIZCTyoXcEDUrwu7kJN
     publisher: Astro Awani
     caption: 'Perak police chief Datuk Mohd Alwi Zainal Abidin shows a photograph of the suspect detained after the seizure of cannabis at Sultan Azlan Shah Airport, at a press conference at the Perak contingent police headquarters in Ipoh on 10 November 2026. Photo: Bernama'
+  - kind: photo
+    url: https://www.sinarharian.com.my/article/803927/berita/semasa/warga-singapura-ditahan-bawa-bagasi-berisi-ganja-rm152-juta
+    media_url: https://www.sinarharian.com.my/uploads/images/2026/11/10/3705295.webp
+    publisher: Sinar Harian
+    caption: 'Perak police chief Datuk Mohd Alwi Zainal Abidin (centre) shows the 19.04 kg of cannabis flower valued at RM1.52 million seized in baggage at Sultan Azlan Shah Airport in Ipoh, at a press conference in Ipoh. Photo: Sinar Harian'
 ---
 
 Perak police arrested a 29-year-old unemployed Singaporean man at Sultan Azlan
-Shah Airport in Ipoh at 6.20am on 8 November 2026. [@1,3,10,12,13,14,15] Auxiliary police at the
+Shah Airport in Ipoh at 6.20am on 8 November 2026. [@1,3,10,12,13,14,15,16] Auxiliary police at the
 check-in counter searched his baggage and found 36 plastic packages holding
-19,040g of dried marijuana flowers. [@1,3,6,8,9,10,11,12,14,15] Police valued the cannabis at about
+19,040g of dried marijuana flowers. [@1,3,6,8,9,10,11,12,14,15] Police found 36 transparent plastic packages containing dried cannabis flower in his zippered baggage, weighing 19.04 kg and valued at RM1.52 million. [@16] Police valued the cannabis at about
 RM1.5 million. [@1,3,10,12,13,14,15] The New Straits Times put the weight at 19.04kg and the
 value at RM1.52 million, an amount police said was enough to supply 47,900 drug
 users. [@2]
 
 The man had flown from Singapore to Kuala Lumpur and travelled to Kajang, where
 police believe he collected the drugs before taking an e-hailing car to Ipoh,
-arriving on 7 November. [@1,3,6] Police said he was to fly from Ipoh to Singapore
-and then on to London to deliver the cannabis. [@1,3,6,7,8,9,11,12,14] He told police he had
-answered an online job offer promising good pay. [@1,3,7,14] Police said the offer was
+arriving on 7 November. [@1,3,6,16] Police said he was to fly from Ipoh to Singapore
+and then on to London to deliver the cannabis. [@1,3,6,7,8,9,11,12,14,16] He told police he had
+answered an online job offer promising good pay. [@1,3,7,14,16] Police said the offer was
 S$4,000 (about RM12,690), that the man was unemployed and that a urine screening
 found no drugs in his system. [@2,9,13]
 
 Perak police chief Comm Datuk Mohd Alwi Zainal Abidin said syndicates
 increasingly use less busy airports such as Ipoh, which has one daily flight to
-Singapore, to traffic drugs abroad. [@2,3,5,10,11] The man was remanded for seven days
+Singapore, to traffic drugs abroad. [@2,3,5,10,11,16] The man was remanded for seven days
 from 9 November under Section 39B of the Dangerous Drugs Act 1952, which carries
-a death sentence or life imprisonment with caning on conviction. [@1,3,4,5,9,10,12,13,14]
+a death sentence or life imprisonment with caning on conviction. [@1,3,4,5,9,10,12,13,14,16]
 
 The man arrived in Ipoh on 7 November after picking up the load in Kajang and travelling by e-hailing car. [@3,5]
 
