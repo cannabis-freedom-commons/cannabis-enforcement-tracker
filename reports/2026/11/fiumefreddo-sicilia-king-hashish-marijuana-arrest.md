@@ -73,6 +73,11 @@ sources:
     publisher: Dayitalianews
     date: 2026-11-09
     language: it
+  - title: Fiumefreddo di Sicilia blitz antidroga in casa | il cane King fiuta eroina hashish e marijuana Arrestato un 54enne
+    url: https://www.zazoom.it/2026-11-09/fiumefreddo-di-sicilia-blitz-antidroga-in-casa-il-cane-king-fiuta-eroina-hashish-e-marijuana-arrestato-un-54enne/19905852/
+    publisher: Zazoom Social News
+    date: 2026-11-09
+    language: it
 open_questions:
   - No date or time is given for the search; 9 November 2026 is the article's publication date and is used as the incident date.
   - The article gives amounts as grams, with hashish as "almost 3 grams" and marijuana as 1.50 grams; the combined 4.5 grams is a sum of these reported amounts.
@@ -91,13 +96,16 @@ open_questions:
   - The page's single photo is the same handout file used by NewSicilia, carries no caption or credit identifying the photographer, and is not listed again as a separate media entry.
   - Dayitalianews reproduces the same Carabinieri account as the outlets already cited, so it is not independent reporting of the arrest.
   - The page's only image is a Carabinieri picture stored in an April 2025 upload folder, evidently a site stock photo, so it is not confirmed to show this search and is not listed as media.
+  - Zazoom republishes the Dayitalianews account rather than reporting independently, and gives no quantities by weight, so it adds no figures.
+  - Zazoom carries no separate date or time for the search; 9 November 2026, its publication date, stands in for the incident date.
+  - The page's only image is a Carabinieri stock picture stored in an April 2025 upload folder, so it is not confirmed to show this search and is not listed as media.
 ---
 
 Carabinieri arrested a 54-year-old local man in Fiumefreddo di Sicilia, in the
-province of Catania, on suspicion of possessing drugs for sale. [@1,2,3,4,5,7] The search
+province of Catania, on suspicion of possessing drugs for sale. [@1,2,3,4,5,7,8] The search
 was carried out by officers of the Fiumefreddo di Sicilia station with
 colleagues from the Calatabiano station, the Giarre Radiomobile unit and the
-Carabinieri dog unit from Nicolosi. [@1,2,3,4,6,7]
+Carabinieri dog unit from Nicolosi. [@1,2,3,4,6,7,8]
 
 The man was already serving a probation order to social services (affidamento in
 prova ai servizi sociali) for earlier offences. [@1,2,3,4,5,7] During the search of his
@@ -114,3 +122,5 @@ judicial authorities. [@1,2,3,4,5]
 The three bags of heroin, hashish and marijuana were hidden on the dresser (il comò), while the ready-to-use marijuana and tobacco joint lay on the bedside table (il comodino). [@2]
 
 The patrols carried out both a personal search and a search of the flat. [@3]
+
+During the search, carried out with the support of the dog units, the dog King sniffed out the drugs. [@8]
