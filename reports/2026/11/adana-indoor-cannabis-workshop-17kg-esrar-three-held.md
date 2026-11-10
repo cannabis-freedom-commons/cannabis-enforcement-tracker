@@ -207,6 +207,11 @@ sources:
     publisher: Alparslan Diyarı
     date: 2026-11-10
     language: tr
+  - title: 'Adana''da kaçak kenevir operasyonu: 3 gözaltı'
+    url: https://cukurovagazetesi.com/adanada-kacak-kenevir-operasyonu-3-gozalti
+    publisher: Çukurova Gazetesi
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The accounts give no separate date or time for the raid; 9 November 2026, the date of the ministry statement and of publication, stands in for the incident date.
   - No figure for the number of cannabis plants in the workshop, the area used or an estimated value of the esrar was published.
@@ -272,6 +277,9 @@ open_questions:
   - The page adds 'çeşitli malzemeler' (various materials) without listing them.
   - The page's only picture is captioned solely with the story headline and carries no photographer or agency credit, so whether it shows the workshop, the seized esrar or the operation generally is not established and no media entry is added.
   - The page gives no charge, court step or outcome for the three suspects.
+  - The page credits DHA and reproduces the same Interior Ministry statement as the sources already cited, so it corroborates rather than independently reports the raid.
+  - The page gives no charge, custody ruling or court step for the three suspects.
+  - 'The page''s single picture is captioned only ''Adana''da kaçak kenevir operasyonu: 3 gözaltı'' and carries no photographer or agency credit, so whether it shows the workshop, the seized esrar or the operation generally is not established; no media entry is added.'
 ---
 
 Gendarmes detained three suspects in a raid on an indoor cannabis workshop in
@@ -297,7 +305,7 @@ esrar, four standing air conditioners, air-conditioning equipment and assorted
 materials. [@1] Hürriyet reported that the operation uncovered a workshop where
 cannabis was grown with an air-conditioning system. [@4]
 
-Searches at the address found 17 kilograms of esrar together with four standing air conditioners and heat and light systems. [@8]
+Searches at the address found 17 kilograms of esrar together with four standing air conditioners and heat and light systems. [@8,23]
 
 The address the gendarmes raided was in Seyhan district, Adana. [@9]
 
@@ -312,3 +320,5 @@ The address was identified through intelligence work by Adana Provincial Gendarm
 At the time of the raid the Adana provincial gendarmerie command was led by Brigadier General Necdet Karaca, who had been appointed to the post by a decree published in the Official Gazette. [@20]
 
 The Interior Ministry said in its statement of 9 November 2026 that operations against drugs across the country were continuing without interruption, and thanked those involved in the Adana raid. [@22]
+
+The workshop where the cannabis was grown with an air-conditioning system was set up inside a manufacturing premises. [@23]
