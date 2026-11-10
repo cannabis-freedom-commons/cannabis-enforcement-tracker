@@ -83,6 +83,11 @@ sources:
     publisher: Folha de Dourados
     date: 2026-11-08
     language: pt
+  - title: Apreensão de maconha e agrotóxicos resulta em prejuízo de R$ 857 mil em Guaíra
+    url: https://paranahoje.com.br/apreensao-de-maconha-e-agrotoxicos-resulta-em-prejuizo-de-r-857-mil-em-guaira/
+    publisher: Paraná Hoje
+    date: 2026-11-09
+    language: pt
 open_questions:
   - Only one accessible source was found for this event, so no second account confirms the details.
   - The suspect was not identified by name or age, and no charge, custody decision or court outcome beyond referral to the Federal Police in Guaíra was reported.
@@ -101,6 +106,8 @@ open_questions:
   - The exact R$ 5,703,641 total is not broken down between marijuana, pesticides and the vehicle, so no cannabis-only value is recorded.
   - The article gives the combined valuation of the pesticides and the marijuana in both its headline and body, without separating the marijuana's value from the pesticides'.
   - Its lead photo is a numbered stock image by Fabio Tito, not evidence of this event, so it is not added as media.
+  - Paraná Hoje puts the loss imposed on organised crime at R$ 857,000, while the existing report's sources give the combined load value as R$ 5,703,641; the two figures are not reconciled and no cannabis-only value is separated.
+  - Paraná Hoje gives the marijuana as 287.5 kg and 'quase 288 quilos', while the existing report records 288 kg.
 ---
 
 A man whose identity was not disclosed was arrested on the morning of Sunday 8
@@ -127,3 +134,5 @@ sent to the Receita Federal inspectorate. [@1]
 JD1 Notícias valued the seized vehicle alone at about R$100,000. [@3,5] JD1 Notícias and Correio do Estado both also name the Federal Police and the Guaíra municipal guard, Guarda Municipal, among the teams in the integrated action. [@4,5] JD1 Notícias, which credits the Dourados News portal, writes that the operation began with intelligence work on a vehicle possibly used to carry illicit goods. [@3,5]
 
 The teams put the total value of the seizures at R$ 5,703,641. [@6]
+
+A 19-year-old man was arrested in flagrante during the integrated operation in Guaíra. [@7]
