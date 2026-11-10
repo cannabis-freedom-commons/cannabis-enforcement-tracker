@@ -60,32 +60,29 @@ sources:
     url: https://x.com/CMOfficeAssam/status/2120027377493512453
     publisher: Chief Minister's Office, Government of Assam (X)
     date: 2026-11-10
-open_questions:
-  - No one had been arrested when the accounts were published; the driver had escaped and had not been caught.
-  - No charge, case number, court step or value estimate for the 96.47 kg was published, and the cannabis is described only as ganja.
-  - The accounts do not name the precise checkpoint within Bhairabkunda outpost's jurisdiction or place it on a map.
-  - The accounts do not say whether the consignment was coming from Arunachal Pradesh or going there.
-  - Every account rests on the same Chief Minister's Office statement, so there is no independent measurement of the weight or independent account of the interception.
-  - The accounts do not say whether the Fronx was confiscated.
+  - title: असम-अरुणाचल सीमा पर 96.47 किलो गांजा जब्त, वाहन चालक फरार
+    url: https://samridhjharkhand.com/national/assam-border-67630/
+    publisher: Samridh Jharkhand
+    date: 2026-11-10
+    language: hi
 ---
 
 Assam Police seized 96.47 kg of ganja (cannabis) along the inter-state border
-with Arunachal Pradesh under Bhairabkunda outpost on 10 November 2026. [@1] The
+with Arunachal Pradesh under Bhairabkunda outpost on 10 November 2026. [@1,4] The
 Chief Minister's Office said police seized 96.47 kg of ganja from a Maruti
 Suzuki Fronx vehicle in an operation on the Assam–Arunachal Pradesh border under
-Bhairabkunda OP. [@3] Acting on intelligence about the transport of illegal
+Bhairabkunda OP. [@3,4] Acting on intelligence about the transport of illegal
 narcotics, a police team set up a surprise checkpoint targeting vehicles coming
 from the border zone. [@1]
 
 A search of the stopped Maruti Suzuki Fronx found the cannabis packages hidden
 inside. [@1] The driver abandoned the vehicle and fled into the nearby terrain,
-and a manhunt was launched across the border districts to catch him. [@1] No
+and a manhunt was launched across the border districts to catch him. [@1,4] No
 arrest had been made when the accounts were published, and Assam Police were
-pursuing the driver who fled the scene. [@2]
+pursuing the driver who fled the scene. [@2,4]
 
 The Chief Minister's Office announced the seizure on the morning of 10 November
 and said police were working round the clock while investigation traced the
 trade's forward and backward linkages. [@3] The interception came 24 hours after
 a similar operation under Mazbat police station in Udalguri district, where
 102.28 kg of ganja was seized and four traffickers were arrested. [@1]
-
