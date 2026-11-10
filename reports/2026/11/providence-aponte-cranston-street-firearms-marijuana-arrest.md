@@ -71,6 +71,10 @@ sources:
     url: https://coastalabc.com/news/local/providence-police-arrest-man-on-firearm-charges-seize-7-firearms-marijuana-drugs-ar-style-rifle-packaging-materials-november-9-2026?teaserSource=trending
     publisher: WJAR (NBC 10)
     date: 2026-11-09
+  - title: Man charged after police find unsecured firearms in Providence home
+    url: https://www.wpri.com/news/local-news/providence/man-charged-police-find-guns-drugs-child-providence-home/amp/
+    publisher: WPRI.com
+    date: 2026-11-10
 open_questions:
   - No weight was given for the suspected marijuana packages, so no kilogram figure is recorded.
   - No laboratory confirmation that the material was cannabis was reported; it is described only as suspected marijuana.
@@ -85,21 +89,23 @@ open_questions:
   - The WJAR article gives the arrest only as happening "Last Tuesday"; 3 November 2026 is taken from the Providence Police Department release cited in the existing report.
   - WJAR gives no weight for the suspected marijuana and does not say whether it was laboratory-confirmed as cannabis.
   - WJAR lists the firearm charges in general terms and does not give the number of counts, which the existing report takes from the police statement and Fall River Reporter.
+  - WPRI gives no weight for the suspected marijuana packages, so no kilogram figure is recorded.
+  - The article was published on 10 November 2026, a week after the arrest; it gives no court date or outcome for Aponte.
 ---
 
 Providence Police arrested Eric Aponte, 26, on Cranston Street on 3 November
 2026 after a months-long investigation into reports that he had multiple
-firearms and was selling marijuana. [@1,4,5] The Providence Police Violent Crime
+firearms and was selling marijuana. [@1,4,5,6] The Providence Police Violent Crime
 Task Force had investigated him for several months, according to the account
 drawn from the department's statement. [@2] After the arrest, investigators
-executed a court-authorized search warrant at his residence. [@1,4]
+executed a court-authorized search warrant at his residence. [@1,4,6]
 
 Officers seized seven firearms, including an AR-15-style rifle and a Micro Draco
-rifle, along with multiple magazines, ammunition and firearm accessories. [@1,4,5]
+rifle, along with multiple magazines, ammunition and firearm accessories. [@1,4,5,6]
 They also seized multiple packages of suspected marijuana, a digital scale and
-packaging materials. [@1,4,5] Police found a child inside the residence where
+packaging materials. [@1,4,5,6] Police found a child inside the residence where
 multiple firearms were accessible, transferred the child's custody to a family
-member and notified the Department of Children, Youth and Families. [@2]
+member and notified the Department of Children, Youth and Families. [@2,6]
 
 Aponte was charged with one count of a licence to carry a pistol or revolver,
 five counts of possession of large-capacity feeding devices and three counts of
@@ -107,7 +113,7 @@ unsafe storage of a firearm. [@1,4] One count of License to Carry a Pistol or
 Revolver, five counts of Possession of Large-Capacity Feeding Devices and three
 counts of Unsafe Storage of a Firearm were listed against him. [@2] Police also
 referred him to the Providence Police Narcotics Bureau for additional charges
-over the suspected marijuana. [@1,4] Chief Colonel Oscar Perez said the
+over the suspected marijuana. [@1,4,6] Chief Colonel Oscar Perez said the
 investigation showed the department's commitment to holding people accountable
 when their actions put the community, particularly children, at risk. [@1]
 
