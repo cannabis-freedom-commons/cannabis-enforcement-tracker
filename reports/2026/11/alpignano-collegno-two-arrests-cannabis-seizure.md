@@ -53,6 +53,11 @@ sources:
     publisher: Il Risveglio
     date: 2026-11-10
     language: it
+  - title: Ingoia la droga davanti ai carabinieri e finisce in ospedale, arrestato a Collegno
+    url: https://www.rainews.it/amp/tgr/piemonte/articoli/2026/11/ingoia-la-droga-davanti-ai-carabinieri-e-finisce-in-ospedale-tre-arresti-nella-cintura-torinese-86e82d01-56f0-4a9a-803c-05f1094feda2.html
+    publisher: RaiNews
+    date: 2026-11-10
+    language: it
 open_questions:
   - The 0.1533 kg cannabis figure counts only the 147 g of hashish and 6.3 g of marijuana; the 2.4 g of cocaine seized with them is excluded from the cannabis figure.
   - The pellets swallowed by the man stopped at Collegno are described only as containing drugs, so their substance and weight are unknown and none is counted in the cannabis figure.
@@ -64,20 +69,19 @@ drugs for dealing. [@1] The arrest took place on the afternoon of Friday 6
 November during a coordinated territorial-control operation by the Rivoli mobile
 unit and the Alpignano station with drug-dog units from Volpiano. [@1] On the
 order of the judicial authority, the man was placed under house arrest pending a
-fast-track trial. [@1]
+fast-track trial. [@1,3]
 
 A search of his home found 147 grams of hashish, 2.4 grams of cocaine and 6.3
 grams of marijuana, plus material for packaging and weighing the substances, all
-of which was seized. [@1] A second outlet confirms the same seizure of 147 grams
+of which was seized. [@1,3] A second outlet confirms the same seizure of 147 grams
 of hashish, 2.4 grams of cocaine and 6.3 grams of marijuana from the flat. [@2]
 The operation overall checked 41 people, seven vehicles and two shops, with two
 further home checks. [@1] A local young woman was reported to the Prefecture for
 holding drugs for personal use. [@1]
 
 A second arrest had been made the previous night in Collegno, in via Macedonia.
-[@1] Officers stopped a 26-year-old man of Senegalese origin who had just
-swallowed several pellets containing drugs. [@1] He was taken to Molinette
-hospital in Turin, where X-rays confirmed the presence of the wrappers. [@1] He
+[@1,3] Officers stopped a 26-year-old man of Senegalese origin who had just
+swallowed several pellets containing drugs. [@1,3] He was taken to Molinette
+hospital in Turin, where X-rays confirmed the presence of the wrappers. [@1,3] He
 was then moved to the hospital's detainee ward under health isolation, following
-the prescribed procedures. [@1]
-
+the prescribed procedures. [@1,3]
