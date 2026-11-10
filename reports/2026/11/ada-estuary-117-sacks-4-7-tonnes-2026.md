@@ -66,6 +66,11 @@ media:
     media_url: https://cdn.ghanaweb.com/imagelib/pics/296/29601171.295.jpg
     publisher: GhanaWeb
     caption: Officers opening one of the wrapped packages after the Ghana Navy intercepted the consignment at the Ada Estuary on 5 November 2026; the photo carries no credit.
+  - kind: photo
+    url: https://www.ghanabusinessnews.com/2026/11/06/ghana-navy-intercepts-4-8-tonnes-of-suspected-marijuana-destined-for-nigeria/
+    media_url: https://www.ghanabusinessnews.com/wp-content/uploads/2026/11/TM016-Social-Navy-Drug-Pic-3.jpg
+    publisher: Ghana Business News
+    caption: Photo published with the GNA report on the two boats and 117 sacks of suspected marijuana seized by the Ghana Navy at Ada; it carries no caption or credit.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6e2424b87990442e71eeded1964c8f35
@@ -142,6 +147,10 @@ sources:
     publisher: Seneweb
     date: 2026-11-10
     language: fr
+  - title: Ghana Navy intercepts 4.8 tonnes of suspected marijuana destined for Nigeria
+    url: https://www.ghanabusinessnews.com/2026/11/06/ghana-navy-intercepts-4-8-tonnes-of-suspected-marijuana-destined-for-nigeria/
+    publisher: Ghana Business News
+    date: 2026-11-06
 open_questions:
   - The 4.7 tonnes and the US$1 million value are the Ghana Navy's estimates; the substance is described as suspected Indian hemp pending laboratory testing.
   - No confirmed weight from laboratory testing and no figure for the number of parcels or the identity of the boat operators was published.
@@ -181,14 +190,16 @@ open_questions:
   - The Seneweb page reproduces an AFrikmag article and adds no independent reporting, and it again names no destination country.
   - The listed page image is a headline-illustration thumbnail with no caption identifying the boats or sacks, so no media entry is added.
   - Seneweb describes the sacks as dried leaves suspected to be cannabis rather than Indian hemp, and gives no independent weight or value beyond the armed forces' estimates.
+  - The report places the boats about 200 metres from Dalave village on the Volta Lake bank, while other accounts place the interception at the estuary near the Talibet Bridge; the sources do not establish whether these are the same spot.
+  - Ghana Business News gives approximately 4.8 tonnes, while the Navy statement and several other outlets give 4.7 tonnes; the existing report keeps 4.7 tonnes.
 ---
 
 Ghana Navy personnel from the Riverine Command, working with the Narcotics
 Control Commission (NACOC) and National Security, intercepted two wooden boats
-at the Ada Estuary on Thursday 5 November 2026. [@2,3,4,6,7,8,9,12,14,15,16] The boats carried 117 sacks
+at the Ada Estuary on Thursday 5 November 2026. [@2,3,4,6,7,8,9,12,14,15,16,17] The boats carried 117 sacks
 of compressed dried leaves suspected to be Indian hemp, each sack holding more
 than 80 parcels. [@2,3,4,7,8,12,14,15] The occupants spotted the approaching naval patrol,
-abandoned both vessels and their cargo, and fled. [@1,3,4,6,7,12,14,15]
+abandoned both vessels and their cargo, and fled. [@1,3,4,6,7,12,14,15,17]
 
 The Navy estimated the cargo at about 4.7 tonnes and put its street value at
 more than US$1 million. [@1,3,4,9,10,12,16] No one was arrested, and the sacks remain
@@ -225,3 +236,5 @@ Ghana Navy seized approximately 4.8 tonnes of suspected marijuana at the Volta L
 The Ada East District Chief Executive, Kenneth Kofi Kabu Kanor, asked relevant institutions to provide the logistical assistance needed to strengthen the fight against drug trafficking and assured the Navy of the Assembly's support. [@14]
 
 According to the official account, the operation was launched on intelligence, and the people on board left the boats and fled when they saw the soldiers pursuing them. [@16]
+
+Ghana Navy personnel from the Riverine Command found the two boats concealed along the banks of the Volta Lake about 200 metres from Dalave village, not at the estuary itself. [@17] The boats were then taken to Ada-Foah, where they were searched at about 5:00 a.m. in the presence of Narcotics Control Commission officials who counted the sacks. [@17]
