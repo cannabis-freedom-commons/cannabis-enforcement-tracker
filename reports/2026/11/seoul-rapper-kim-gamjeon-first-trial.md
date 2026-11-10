@@ -37,6 +37,11 @@ sources:
     publisher: Newsis
     date: 2026-11-10
     language: ko
+  - title: “미성년자인 줄은 몰라”…'집유 중 또 대마 혐의'로 체포돼 날벼락 뜬 '유명 래퍼' | 위키트리
+    url: https://www.wikitree.co.kr/articles/1173487
+    publisher: 위키트리
+    date: 2026-11-10
+    language: ko
 open_questions:
   - The reports give no court case number.
   - No ruling or sentence has been issued; the next hearing is set for 10 December 2026.
@@ -57,20 +62,20 @@ minor, and a further cartridge free of charge on 24 March. [@1] He is also
 accused of taking a liquid cannabis kit free from an unidentified person at a
 club on 14 or 15 August and smoking cannabis between 9 and 14 September. [@1] On
 14 September, investigators say, he was carrying about 1.2 grams of cannabis in
-his trouser pocket. [@1,3]
+his trouser pocket. [@1,3,4]
 
 In court his lawyer denied the December 2025 sale and denied knowing A was a
 minor, but admitted the January sale, receiving the kit free, and smoking and
 possessing cannabis. [@1] He contested part of the supply charge, saying he
 merely took back cannabis he had earlier given A rather than handing over more,
-according to News1. [@2] Prosecutors applied to call A as a witness, and the
+according to News1. [@2,4] Prosecutors applied to call A as a witness, and the
 defence applied to call a person known as B, said to have introduced A to Kim as
 an adult. [@1] The court set the next hearing for 3 p.m. on 10 December 2026.
-[@1,3]
+[@1,3,4]
 
 Kim was sentenced to eight months in prison at first instance in December 2024
 for smoking cannabis with an acquaintance in a Seoul parking lot in May 2024,
 and an appeal court reduced the term in April 2025 to eight months suspended for
-two years. [@1] Under the Narcotics Control Act, giving cannabis to a minor or
+two years. [@1,4] Under the Narcotics Control Act, giving cannabis to a minor or
 having a minor smoke or consume it carries a fixed term of at least two years in
 prison, News1 reported. [@2]
