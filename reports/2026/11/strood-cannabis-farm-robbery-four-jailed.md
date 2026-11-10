@@ -77,6 +77,10 @@ sources:
     url: https://www.newsshopper.co.uk/news/26717072.bexley-police-chase--four-men-convicted-cannabis-plant-robbery/
     publisher: News Shopper
     date: 2026-11-10
+  - title: Bexley police chase- Four men convicted over cannabis plant robbery
+    url: https://www.hackneygazette.co.uk/news/26717072.bexley-police-chase--four-men-convicted-cannabis-plant-robbery/
+    publisher: Hackney Gazette
+    date: 2026-11-10
 open_questions:
     - The number and weight of the cannabis plants recovered from the vehicles and the road were not published, so no plant, area or kilogram figure is given.
     - The sources do not say whether the robbed crop was being grown lawfully, and no offence was reported against the man whose home was robbed.
@@ -92,11 +96,11 @@ the gang broke in, threatened him with a knife and attacked him, leaving him
 with facial injuries and a fractured wrist. [@1] Clothing seized from the suspects was later found to have the victim’s blood on it. [@4]
 
 Kent Police were called shortly after 2.30am on 25 November 2025 after the four
-were seen loading cannabis plants into a BMW and a van. [@2] The vehicles split up after 12 miles, with officers pursuing the BMW towards Bexley via the A2. [@4] Police first spotted the grey BMW and van travelling in convoy along Watling Street in Rochester. [@4] Other officers
+were seen loading cannabis plants into a BMW and a van. [@2] The vehicles split up after 12 miles, with officers pursuing the BMW towards Bexley via the A2. [@4,5] Police first spotted the grey BMW and van travelling in convoy along Watling Street in Rochester. [@4] Other officers
 stopped the van, which had also gone through the tunnel, at a red light, and
-Hylton tried to flee on foot before being caught. [@2] The car was stopped shortly after passing through the Blackwall Tunnel, and Harris, Bonney, and Williams were arrested at the scene. [@4] All four men were in custody by 3.24am. [@3,4] A search of both vehicles
+Hylton tried to flee on foot before being caught. [@2] The car was stopped shortly after passing through the Blackwall Tunnel, and Harris, Bonney, and Williams were arrested at the scene. [@4,5] All four men were in custody by 3.24am. [@3,4,5] A search of both vehicles
 found several cannabis plants, and officers also found a trail of plants and
-soil along Weston Road. [@2,3] CCTV showed both vehicles arriving at the property and transporting bags and large plants. [@4]
+soil along Weston Road. [@2,3] CCTV showed both vehicles arriving at the property and transporting bags and large plants. [@4,5]
 
 All four were charged with robbery and found guilty at Maidstone Crown Court
 after a trial on 30 October. [@2] Mobile phone evidence revealed messages planning the robbery, with Harris saying he needed "as many soldiers as possible." [@3,4] Hylton, 35, of no fixed address, was jailed
