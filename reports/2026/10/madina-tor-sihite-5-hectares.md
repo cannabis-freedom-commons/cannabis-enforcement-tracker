@@ -39,153 +39,14 @@ data_sources:
 status: verified
 tags: [bnn, mandailing-natal, tor-sihite, hillside]
 open_questions:
-  - AnalisaDaily reports destruction on 1 November 2026 after a tip on 26 October, while Mistar.id dates the find to the early hours of 31 October; the event date follows the latter account of when plants were destroyed.
-  - AnalisaDaily estimates about three tonnes of potential production at 50 by 50 cm spacing; Mistar.id counts about 150,000 plants at 75 cm spacing and a rough 30-tonne gross conversion the BNN official offered, not a weighed total.
-  - Neither outlet names anyone arrested or lists separate weights for the two plots beyond the 4.5 and 0.5 hectare split in Mistar.id.
-  - Mistar.id places the site at Desa Rao Rao; AnalisaDaily does not name the village.
-  - Start News dates the raid to Sunday 1 November 2026, apparently by correcting MohgaNews's 'Minggu (31/10/2026)'; the report keeps 31 October, the date AnalisaDaily and Mistar.id also give.
-  - Start News repeats MohgaNews's release, including the same quotes and the 30-tonne conversion, so the two accounts are not independent.
-  - Tribun Medan says officers secured about 150 plants, while the same article also describes thousands and the report counts 150,000; the report keeps 150,000.
-  - Kumparan gives the approach trek as about six hours, while the existing report says seven hours one way and 14 hours round trip.
-  - Kumparan says BNNP had identified the owners and was pursuing them but does not name them, so their identity remains unknown.
-  - SuaraSumut quotes Kombes Pol Joshua Tampubolon giving the 600,000-lives estimate, while the report attributes it to BNN North Sumatra head Brigjen Pol Tatar Nugroho and Warta Keadilan credits officers generally.
-  - SuaraSumut says BNNP Sumut still had to establish who was responsible for managing the plots, while the report, citing kumparan, says the owners had been identified and were being pursued.
-  - BNNP Sumut said it would investigate whether other cannabis fields were nearby; the article reports no result of that follow-up.
-  - The submitted page says the hike to the site took about six hours, while the existing report says about seven hours one way and 14 hours round trip.
-  - The submitted page says BNNP Sumut still needed further investigation to establish who managed the plots, while the existing report citing kumparan says the owners had been identified and were being pursued.
-  - The 30-tonne figure is a gross estimate at 200 grams per plant, not a weighed total.
-  - The submitted page says the approach took about six hours, while the existing report says about seven hours one way and 14 hours round trip.
-  - The submitted page gives about 30 tonnes based on about two ons (about 200 grams) per plant at about 75 cm spacing, which it states is an estimate from plant count rather than a weighed total.
-  - The submitted page says names of suspected owners had been collected but further investigation was still needed to confirm each person's involvement, leaving the identification status partly unresolved.
-  - The submitted page says about 150 plants were secured, while the existing report counts about 150,000 plants; the report's figure is retained.
-  - The submitted page repeats the official's rough 30-tonne burned estimate at about 200 grams per plant, not a weighed total.
-  - The submitted page does not give the 26 October tip date used in the existing report; it says the tip came from the public and dates the follow-up investigation to 29 October 2026.
-  - The submitted page attributes the 150,000-plant estimate to officers generally and does not name Comb Pol Josua Tampubolon.
-  - The submitted page gives a rough 30-tonne gross-weight conversion for the 150,000 plants, while the existing report retains 3,000 kg; the rough estimate is not a weighed total.
-  - The submitted page says the 29 October investigation team travelled about six hours and the 31 October destruction team travelled about seven hours, while the existing report describes about seven hours one way and 14 hours round trip.
-  - The submitted page names no suspects, arrests or charges for the plots.
-  - The submitted page gives a rough gross conversion of about 30 tonnes at about 200 grams per plant, while the existing report retains 3,000 kg; the rough estimate is not a weighed total.
-  - The submitted page dates the follow-up investigation to 29 October 2026 and does not give the 26 October tip date used in the existing report.
-  - The page displays a main photo without a caption or credit identifying its content, so no media entry is listed for this source.
-  - The detik article dates the public tip to Saturday 31/10/2026, while the existing report follows a 26 October tip and 29 October follow-up check from other outlets.
-  - The detik article repeats the official's rough 30-tonne gross conversion at about 2 ons per plant, while the existing report retains 3,000 kg; the rough estimate is not a weighed total.
-  - The opened video-page text extraction contains only the title and publication timestamp, so plant counts, weight estimates, trek duration and arrest status cannot be corroborated from the opened text.
-  - This source gives the elevation as about 1,170 metres, while the existing report also cites 1,117 metres from another outlet.
-  - The article says 15 ribu plants in one passage and about 150 ribu plants in another for the same five hectares; the report retains 150,000.
-  - The article says the approach took about six hours, while the existing report describes about seven hours one way.
-  - The article attributes the 600,000-lives and 30-tonne gross conversion at two ons per plant to Kombes Josua Tampubolon, with the BNN head spelled Tatar Nugraha, while the existing report spells the head Tatar Nugroho.
-  - The 30-tonne figure is presented as a gross conversion from plant count at 200 grams per plant, not a weighed total, so it is not recorded as kilograms seized.
-  - The article was published on 1 November 2026 about destruction on Saturday 31 October 2026; the incident date follows the event date.
-  - The page displays field photos without captions or credits identifying their content, so no media entry is listed for this source.
-  - The NusantaraTV page was published on 2 November 2026 and does not give the 26 October tip date or 31 October destruction date used in the existing report.
-  - The page repeats the official rough 30-tonne gross conversion at about 200 grams per plant, while the existing report retains 3,000 kg; the rough estimate is not a weighed total.
-  - The page presents the 600,000-lives estimate through remarks by Kombes Pol Josua Tampubolon as aired on NTV Morning, while the existing report attributes it to BNN North Sumatra head Brigjen Pol Tatar Nugroho.
-  - The page says officers are still developing the case and hunting suspected network members, leaving whether owners have been identified unresolved against the existing account that owners had been identified and were being pursued.
-  - The page displays a main image captioned as the joint team dismantling the five-hectare field, but the file name indicates a television broadcast screenshot, so no media entry is included.
-  - This account says the approach took about nine hours, while the existing report describes about seven hours one way and 14 hours round trip.
-  - The page displays a photo without caption, credit or alt text identifying its content, so no media entry is listed for this source.
-  - No owner, suspect, arrest or charge is named; police say investigation to identify those responsible is continuing.
-  - The article was published on 2 November 2026; 31 October 2026 is the operation date given in the text.
-  - This account says about 150 plants were secured and describes thousands of plants in the same five hectares, while the existing report retains about 150,000 plants.
-  - This account repeats the official rough 30-tonne burned estimate at almost 2 ons per plant, not a weighed total, while the existing report retains 3,000 kg.
-  - The Metro24 page displays its main photo without a caption, credit or alt text identifying its content, so no media entry is listed for this source.
-  - This account says officers walked 8 to 9 hours to reach the site, while the existing report describes about seven hours one way and 14 hours round trip.
-  - The image caption dates the find to Monday (2/11/2026), while the article text dates the joint operation to Saturday (31/10/2026), the date the existing report follows.
-  - The submitted page dates the destruction to Sunday 1 November 2026, while the existing report dates it to 31 October 2026.
-  - The submitted page says the approach took about nine hours, while the existing report's main account says about seven hours one way and 14 hours round trip; another account already in the report also says about nine hours.
-  - The submitted page gives a rough gross estimate of 30 tons for about 150,000 plants at 75 cm spacing, not a weighed total, while the existing report retains 3,000 kg from another outlet.
-  - The submitted page attributes the estimate that 600,000 young people were saved to Kombes Pol Josua Tampubolon at the site, while the existing report attributes the same estimate to BNN North Sumatra head Brigjen Pol Tatar Nugroho.
-  - The submitted page gives the site elevation as 1,170 metres, while the existing report also cites 1,117 metres from another outlet.
-  - The submitted page names no growers, arrests, suspects or charges for the Tor Sihite plots.
-  - This account gives plant height as 1 to 1.5 metres, while the existing report says about one to two metres.
-  - The page shows a field photo captioned as the five-hectare find on Bukit Sihite credited only as dok. Istimewa, which appears to republish the same agency handout already covered, so no media entry is added.
-  - The video page gives no separate date, hectare split, plant count or arrest status for the Tor Sihite site; the existing 31 October 2026 date and figures are retained.
-  - This account dates the enforcement to last week without giving a calendar date; 31 October 2026 from other outlets is retained as the incident date.
-  - This account says officers walked nine hours to the site, while the report's main account says about seven hours one way and 14 hours round trip; another account already in the report also says about nine hours.
-  - This account gives the site elevation as about 1,170 metres, while the report also cites 1,117 metres from another outlet.
-  - This account repeats the official rough 30-tonne estimate for ready-to-harvest plants as a gross conversion rather than a weighed total, so no kilograms are added to the retained figures.
-  - This account names no growers, arrests, suspects or charges for the Tor Sihite plots.
-  - The page's preview thumbnail has no caption or credit establishing that it shows the Tor Sihite field, so no media entry is added for this source.
-  - The page displays its main photo without a caption, credit or alt text identifying its content, so no media entry is listed for this source.
-  - 'The page''s only image is captioned as North Sumatra police drug director Kombes Pol. Andy Arisandi and credited Foto: Matius/Mistar, showing the official rather than the field, plants or destruction, so no media entry is included.'
-  - The Instagram caption says 1.500 batang for five hectares while the existing report counts about 150,000 plants; the existing figure is retained.
-  - The caption gives an 8-9 hour walk to the site while the existing report's main account says about seven hours one way and 14 hours round trip, though another account already in the report also says about nine hours.
-  - The Instagram post was published on 2 November 2026 and gives no separate operation date; 31 October 2026 from other outlets is retained as the incident date.
-  - The caption describes ready-to-harvest plants about one metre tall while the existing report says about one to two metres.
-  - The caption names no growers, arrests, suspects or charges for the Tor Sihite plots.
-  - The attached images are described only as text or meme graphics and an outdoors image with text, with no caption establishing that they show the Tor Sihite field, so no media entry is added.
-  - The BITV account dates the public tip to Saturday 31 October 2026, while the existing report follows a 26 October tip and a 29 October follow-up check.
-  - The BITV account gives an average plant height of about 75 centimetres, while the existing report describes plants about one to two metres tall.
-  - The BITV page displays a main image titled with the operation headline without a caption or credit establishing that it shows the Tor Sihite field, so no media entry is added for this source.
-  - The BITV account names no growers, arrests, suspects or charges for the Tor Sihite plots.
-  - 'Left out, as its quotation was not found in BITV Online: The team set out at 07.00 and reached the scene at 14.00.'
-  - This account describes the same five hectares as 1,500 plants in one passage but quotes police as saying 150,000 plants for the same area; the existing report retains 150,000.
-  - This account says officers walked eight to nine hours to reach the site, leaving at about 05:00 and arriving at about 14:00, while the existing report's main account says about seven hours one way.
-  - The submitted page's main photo repeats the same joint-team eradication image already listed from the earlier Tribun Medan account, so no duplicate media entry is added.
-  - The article's main image is captioned only as a 2019 illustration of a cannabis field, so no media entry for this event can be listed from this source.
-  - The 30-tonne burned figure is presented as an official estimate derived from plant count at almost 2 ons per plant, not a weighed total, so no kilograms figure is recorded.
-  - The article gives thousands of plants plus about 150 stems kept as samples but no total plant count, so it does not change the report's retained 150,000-plant figure.
-  - The same article also describes a separate 17-kg dried-cannabis seizure in a chicken coop in Marindal 1, Patumbak, Deli Serdang on 28 October 2026 with two arrests, a different event left out here.
-  - No grower, suspect, arrest or charge is named for the Tor Sihite plots in this source.
-  - The Liputan6 photos are captioned only as Polda Sumut destroying cannabis in Mandailing Natal and credited as istimewa, which appears to republish the same agency handout already covered, so no media entry is added.
-  - The statement line is dated Senin (2/10/2026), which appears to be a typo for 2 November 2026 in the publication context; the existing 31 October 2026 event date is retained.
-  - This account dates the initial public report that started the operation to Thursday 29 October 2026, while the report follows a 26 October tip and a 29 October follow-up check from other outlets.
-  - This account gives the walk to the site as 7.5 hours and arrival at 14.00 WIB, while the report's main account says about seven hours one way and 14 hours round trip, and other accounts say eight or nine hours.
-  - This account says the plants reached 1.5 metres, while the report describes them as about one to two metres tall.
-  - The page's main photo is credited only as a public relations handout and may repeat an image already listed from another outlet, so its caption does not add a new visual record of the site.
-  - The Nadaviral account dates the initiating public tip to Thursday 29 October 2026, while the existing report follows a 26 October tip date from other outlets.
-  - The Nadaviral account gives the approach as about 7.5 hours on foot arriving about 14.00 WIB, while the existing report's main account says about seven hours one way and 14 hours round trip.
-  - The Nadaviral account gives plant height as about one to 1.5 metres, while the existing report describes plants as about one to two metres tall.
-  - The Nadaviral page displays a field photo without a caption or credit establishing that it shows this eradication, so no media entry is included.
-  - This account dates the initiating public tip to 29 October 2026, while the existing report follows a 26 October tip and 29 October follow-up check from other outlets.
-  - This account gives the approach as about 7.5 hours on foot, while the existing report's main account says about seven hours one way and 14 hours round trip.
-  - This account gives plant height as about one to 1.5 metres, while the existing report describes plants as about one to two metres tall.
-  - The page's only field photo is captioned as a Polda Sumut handout of the joint team at the 5-hectare site and appears to republish the same agency handout already covered, so no media entry is added.
-  - This account dates the initiating public tip to Thursday 29 October 2026, while the existing report follows a 26 October tip from other outlets.
-  - This account gives the walk to the site as 7.5 hours, while the report's main account says about seven hours one way and other accounts say eight or nine hours.
-  - The Mitrapol field photo is captioned only as the location in Madina and has no photographer credit, so it is not established as a new or distinct picture rather than a republished handout.
-  - The harianSIB account gives the approach walk to the site as 7,5 hours, while the report's main account says about seven hours one way and 14 hours round trip and other accounts already in the report say eight or nine hours.
-  - The harianSIB account dates the public tip that started the operation to Thursday 29 October 2026, while the report follows a 26 October tip with a 29 October follow-up check; 31 October 2026 as the destruction date is not in dispute.
-  - The harianSIB account gives the plants as 1 to 1,5 metres tall, while the report describes them as about one to two metres.
-  - The harianSIB account names Kombes Pol Ferry Walintukan giving the figures at provincial police headquarters on 5 November 2026, the same statement the MedanBisnisDaily account carries.
-  - The main photo on harianSIB is credited only as Dok/Polda Sumut with a generic operation caption and appears to republish the agency handout already linked in the report, so no media entry is added.
-  - Neither account names a suspect, arrest or charge for the plots; police said they were still hunting those who owned and managed the field.
-  - This account dates the initiating public tip to Thursday 29 October 2026, while the existing report follows a 26 October tip with a 29 October follow-up check.
-  - This account gives the approach as about 7.5 hours on foot arriving about 14.00 WIB, while the existing report's main account says about seven hours one way and 14 hours round trip.
-  - This account gives plant height as one to 1.5 metres, while the existing report describes plants as about one to two metres tall.
-  - This account dates the public tip that started the operation to Thursday 29 October 2026, while the existing report opens with a 26 October tip; 31 October 2026 as the destruction date is not in dispute.
-  - This account gives the walk to the site as about 7.5 hours arriving about 14.00 WIB, while the report's main account says about seven hours one way and 14 hours round trip and other accounts already in the report say eight or nine hours.
-  - This account gives plant height as about one to 1.5 metres, while the report describes plants as about one to two metres tall.
-  - The page displays one main photo without a caption or credit identifying its content, so no media entry is added for this source.
-  - This account dates the public tip that started the operation to Thursday 29 October 2026, while the report follows a 26 October tip with a 29 October follow-up check from other outlets; 31 October 2026 as the destruction date is not in dispute.
-  - The page displays a photo captioned only as the five-hectare eradication in Madina without a credit or alt text establishing it as a distinct image rather than a republished agency handout already covered, so no media entry is listed for this source.
-  - The article names no suspect, arrest or charge over the Tor Sihite plots.
-  - The page displays its main field photo without a caption or credit identifying its content, so no media entry is listed for this source.
-  - This account dates the public tip that started the operation to Thursday 29 October 2026, while the report follows a 26 October tip with a 29 October follow-up check from other outlets.
-  - This account gives the walk to the site as 7.5 hours arriving about 14.00 WIB, while the report's main account says about seven hours one way and 14 hours round trip and other accounts say eight or nine hours.
-  - This account gives plant height as up to 1.5 metres, while the report describes the plants as about one to two metres tall.
-  - The page's lead photo carries the same file name and address as the Akurat Sumut image already listed in the report's media, so no duplicate media entry is added.
-  - This account dates the public report that started the operation to Thursday 29 October 2026, while the report follows a 26 October tip and a 29 October follow-up check from other outlets.
-  - The VIVA text dates Ferry's statement to Kamis 5 Oktober 2026, apparently a typo for 5 November 2026 given the page's publication date.
-  - This account dates the initiating public tip to Thursday 29 October 2026, while the existing report follows a 26 October tip with a 29 October follow-up check from other outlets; 31 October 2026 as the destruction date is not in dispute.
-  - This account gives plant height as one to 1.5 metres, while the existing report describes the plants as about one to two metres tall.
-  - 'The page displays its main field photo credited only as Dok: Abednego Manalu, apparently republishing the agency handout pattern already listed, so no new media entry is added.'
-  - The Karosatuklik and VIVA Medan pages give no weight, value or hectare split for the Tor Sihite field beyond the plant counts already reported.
-  - Neither page names a grower, owner or manager, a charge or a court step.
-  - The photos on the Karosatuklik page are filed as Facebook image grabs with no caption or credit establishing which part of the operation they show, so no media entry is added for them.
-  - The page carries the deputy regent's remarks of 7 November 2026 about the 31 October 2026 destruction and gives no new operation date, area or plant count beyond the five hectares and about 150,000 plants already recorded.
-  - The page pairs five hectares at Rao-Rao Dolok, Tambangan with the Tor Sihite name used elsewhere, which may be the same site under two names.
-  - The page photo carries no caption or credit and appears to be the police handout already linked from other outlets, so no media entry is added.
-  - The page gives no separate calendar date for the destruction itself beyond the deputy regent's remarks in Panyabungan on Saturday (7/11/2026); 31 October 2026 from earlier accounts is retained.
-  - The page names no growers, arrests, suspects or charges for the Tor Sihite plots.
-  - The page's single image carries only the article headline as caption with no credit identifying its content, so no media entry is added; it appears to repeat the agency handout already covered.
-  - The page's single image carries no caption or credit identifying its content, so no media entry is listed for this source.
-  - This account gives the approach as 7.5 hours on foot, arriving about 14.00 WIB, while the existing report's main account says about seven hours one way and 14 hours round trip; other accounts already in the report say eight or nine hours.
-  - This account gives plant height as about one to 1.5 metres, while the existing report describes the plants as about one to two metres tall.
-  - The page's main photo carries only the article headline as its caption and no credit, and it appears to republish the provincial police handout already covered from other outlets, so no media entry is added.
-  - The RRI page gives no date of its own for the destruction beyond the deputy regent's remarks in Panyabungan on Saturday 7 November 2026; 31 October 2026 from the eradication accounts is retained.
-  - The RRI page pairs the five hectares in Tambangan district with the Tor Sihite name only in a later paragraph and names no village, so the site identification rests on the earlier accounts.
-  - The page photo is credited only as a Diskominfo Madina handout captioned as the five-hectare destruction in Tambangan district and appears to repeat the agency imagery already covered, so no new media entry is added.
+  - The date of the tip differs between accounts (26, 29 or 31 October 2026); most date the check to 29 October and the destruction to 31 October, which the report uses, though a few give 1 November.
+  - The walk to the fields is given as six, seven, seven and a half, eight or nine hours; the report follows the most common account of about seven hours.
+  - Most accounts count about 150,000 plants; some give 150, 1,500 or 15,000 for the same five hectares, apparently slips.
+  - The 30-tonne total is a conversion at about 200 grams a plant and the three tonnes an estimate of potential production; no cannabis was weighed.
+  - The fields' height is given as 1,117 or 1,170 metres, and the plants as 75 centimetres to two metres tall.
+  - Some accounts attribute the 600,000-people estimate to Josua Tampubolon rather than to Tatar Nugroho.
+  - BNN said the owners had been identified, while police said those responsible were still being sought; no one has been named, arrested or charged.
+  - One account gives the site as Rao-Rao Dolok in Tambangan district and others as the Tor Sihite hills; they appear to be the same place.
 sources:
   - title: Tempuh 7 Jam ke Lokasi, 5 Hektare Ladang Ganja Dimusnahkan di Madina
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -550,66 +411,55 @@ media:
     caption: Joint Polda Sumut, BNN and TNI team showing cannabis plants found in the Tor Sihite hills; 149,980 plants were destroyed on site and 20 kept as evidence.
 ---
 
-After a public tip on 26 October 2026, Badan Narkotika Nasional (BNN) and police teams in
-Mandailing Natal regency, North Sumatra, hiked about seven hours through steep mountain terrain
-to cannabis plots hidden on Tor Sihite and destroyed them on 31 October. [@1,2,3,14,15,16,23,25,26,28,30,31,35,36,38,43] No growers were
-named or arrested in either account. [@1,2,24,27,29,36,39,42,46]
+After a public tip, the Mandailing Natal police drug unit (Satresnarkoba) and the regency office of
+the National Narcotics Agency (BNNK) checked the hills of Tor Sihite on 29 October 2026 and found
+two cannabis plots. [@9,10,13,21,26,43,53,54] On 31 October a joint team of about 90 people from
+the North Sumatra police drug directorate, BNN North Sumatra, Mandailing Natal police, the army's
+Kotanopan command (Koramil 14), the public order agency (Satpol PP), forest police (Polhut), the
+local government and residents uprooted and burned the crop. [@1,2,3,10,14,15,16,23,25,26,28,30,31,35,36,38,43,52,55,56,59]
+North Sumatra police drug director Kombes Pol Andy Arisandi and BNN North Sumatra's enforcement head
+Kombes Pol Josua Tampubolon led it, with the regency police chief, AKBP Bagus Priyandi, taking
+part. [@1,10] It was part of the police's 2026 drug enforcement operation (Operasi Gakkum Narkoba),
+ordered by North Sumatra police chief Insp. Gen. Sonny Irawan, and of the national police chief's
+100-day programme against drug production. [@8,17,40,41,42,43,45,47,48,50,51,58]
 
-BNNK Mandailing Natal head Syamsul Arifin said officers verified the crop during a follow-up
-investigation before BNN North Sumatra ordered a joint destruction involving about 90 personnel
-from provincial police, the regency BNN office, the army, local government and community
-volunteers. [@1,55] Comb Pol Josua Tampubolon of BNN North Sumatra said the team found two nearby
-sites totalling five hectares—4.5 hectares plus half a hectare ten metres apart—and uprooted
-about 150,000 plants before burning them on the spot. [@2,4,8,10,13,14,15,16,17,18,19,20,21,23,25,26,28,32,35,38,57] AnalisaDaily put the fields at roughly
-1,170 metres elevation with about 50 by 50 centimetre spacing and a preliminary estimate of
-about three tonnes of potential production. [@1,28,31,35]
+## A day's walk
 
-The regency police chief, AKBP Bagus Priyandi, took part alongside provincial drug directors,
-according to AnalisaDaily. [@1] Mistar.id said the team walked about 14 hours in slippery rain
-on the round trip. [@2,35]
+The team set off at about 05:00 and walked about seven hours over slopes of up to 40 degrees,
+cutting its own path through dense forest with little light; some officers gave up before reaching
+the field. [@1,2,22,24,26,27,28,29,31,33,34,35,36,37,39,52] It reached the plots at about 14:00,
+finished the destruction at 16:00 and was back at the assembly point at 21:00, about 14 hours in
+slippery rain. [@2,24,26,29,35,39,40,43]
 
-The further investigation into the plots' owners and managers was handed to Mandailing Natal police. [@3] Brigjen Pol Tatar Nugroho, head of BNN North Sumatra, said the destruction was estimated to have saved about 600,000 people from potential drug abuse. [@4,23,28,35]
+## The fields
 
-Tampubolon said each cannabis plant found at the site weighed almost 2 ons, about 200 grams. [@5,6,12,15,21,22,23,25,38] Tampubolon said cannabis trafficking cases in the Madina area were among the leads that took the team to the fields. [@5,12,15,25,38]
+The two plots, of 4.5 hectares and half a hectare about ten metres apart, lay in Rao-Rao Dolok
+village in Tambangan district, at about 1,100 metres above sea level in forest far from any
+settlement. [@2,4,8,11,13,14,16,17,18,19,21,22,24,26,27,29,32,33,34,35,36,37,39,40,41,42,44,46,48,49,56,57]
+Officers counted about 150,000 plants, five to six months old, one to two metres tall and ready to
+harvest. Of these, 149,980 were burned on the spot and 20 kept as evidence; seeds sown for a further
+crop were found as well. [@4,8,10,13,15,19,20,21,23,24,25,27,28,29,32,35,36,38,39,40,41,43,44,46,47,48,50,51,52,56,57,58,59]
+Tampubolon put each plant at almost 200 grams, about 30 tonnes in all, while AnalisaDaily reported a
+preliminary estimate of about three tonnes of potential production; neither is a weighed figure.
+[@1,5,6,12,15,21,22,23,25,28,31,35,38] BNN North Sumatra's head, Brig. Gen. Tatar Nugroho, said the
+destruction had spared about 600,000 people from drug abuse. [@4,23,28,35]
 
-Tampubolon said BNNP Sumut had identified the owners of the fields and was pursuing them. [@7,23] He said the huts around the plots were empty when officers arrived. [@7]
+Police said the growers carried seed up the hill, kept matching seedlings at home to judge when the
+crop would be ripe, and climbed back only to harvest. The cannabis was meant for Padang in West
+Sumatra and for Medan, and cannabis found earlier in West Sumatra had come from Tor Sihite.
+[@27,33,37]
 
-The plots were in Rao-Rao Dolok village, Tambangan district, in the Tor Sihite hills of Mandailing Natal regency. [@8,11,13,14,16,17,18,19,21,22,24,26,27,29,32,33,34,35,36,37,39,40,41,42,44,46,48,49,56,57] A BNN team was sent to investigate the site on 29 October 2026 and found the two plots during that check. [@9,10,13,21,26,43] BNNP Sumut said the destruction was part of the national police chief's 100-day programme to break the drug supply chain at its production sources. [@8,17]
+## The growers
 
-North Sumatra police drug director Kombes Pol Andy Arisandi led the operation with BNN North Sumatra enforcement and intelligence head Kombes Pol Josua Tampubolon; among the units taking part were the army's Kotanopan subdistrict command (Koramil 14 Kotanopan), the Madina public order agency (Satpol PP) and forest police (Polhut). [@10] BNN North Sumatra said it would keep investigating for other cannabis fields in the area. [@10,21]
+The huts around the plots were empty, the owner had fled, and no one was arrested.
+[@7,24,27,29,36,39,40,42,46,47,48,50,51] Tampubolon said BNN had identified the owners and was
+pursuing them; police said they were still questioning witnesses, had sent samples to the
+provincial forensic laboratory, and were hunting those responsible. Leads from earlier trafficking
+cases in the area had helped find the fields, and the case passed to Mandailing Natal police.
+[@3,5,7,12,15,23,25,38,40,41,42,43,45,47,51,58] BNN said it would keep searching the area for
+other fields. [@10,21]
 
-The five-hectare fields sat at 1,117 metres above sea level. [@19,32,34,36,37] The plants were five to six months old and ready to harvest. [@19,24,27,32,36,39,40,43]
-
-The investigation team reached the two plots through community gardens and the Tor Sihite hill forest after about six hours on foot. [@22]
-
-Of the roughly 150,000 plants found, 149,980 were uprooted and burned on the spot and 20 were kept as evidence. [@24,27,28,29,35,36,39,40,41,43,44,46,47,48,50,51,52,56,57] The joint team walked about nine hours to reach the fields. [@24,28,29,31,34,39,52] The team arrived at about 14.00 WIB and then combed an area estimated at five hectares. [@24,29,39,40,43]
-
-The team finished the destruction at 16.00 WIB and returned to the assembly point at 21.00 WIB. [@26,35]
-
-The site had slopes of up to 40 degrees. [@27,32,34,36,37] There was no footpath to the site, so officers had to open a new route through dense forest with little light. [@27,33,37] Some personnel gave up and did not reach the field because the route was so difficult and long. [@27,36] The growers planted similar cannabis seedlings at their homes or huts as a timing reference and only climbed to harvest the hill fields when the home plants were ready. [@27,33,37]
-
-The cannabis plants were about one to two metres tall. [@28,43]
-
-The growers carried thousands of cannabis seeds to the Tor Sihite site and planted them there, returning after an estimated five to six months to harvest. [@33] Police said the harvested cannabis was intended for Padang in West Sumatra and Medan, and that cannabis previously found in West Sumatra had come from Tor Sihite in Mandailing Natal. [@33] Police described the Tor Sihite growing area as pristine forest located far from residential areas. [@33]
-
-The team left the assembly point at about 05:00 WIB. [@36] Officers found several sown cannabis seeds at the site besides the field. [@36]
-
-Police said the 31 October destruction was part of Operasi Gakkum Narkoba 2026. [@40,41,42,43,45,47,48,50,51] North Sumatra police chief Insp. Gen. Sonny Irawan ordered the sweep, the provincial police public relations office said. [@40] The landowner fled before officers reached the field, the police statement said. [@40,51] Investigators were still questioning witnesses and sent plant samples to the North Sumatra police forensic laboratory for testing. [@40,41,42,43,45,47,51]
-
-In this account the operation followed a follow-up by the Mandailing Natal police drug unit, the Polres Mandailing Natal narcotics unit, which first coordinated with the provincial police drug directorate before the joint team was assembled with BNN and other agencies. [@43,48] North Sumatra police public relations chief Kombes Pol. Ferry Walintukan said the force's commitment was to fight drugs "from upstream to downstream", cutting production sources and the networks behind them rather than only circulating supplies. [@43]
-
-Officers who swept the field found no one they suspected of owning or managing it. [@47,48,50]
-
-At provincial police headquarters on 5 November 2026, provincial police public relations chief Kombes Pol. Ferry Walintukan said the force was ordered to leave no room for drug trafficking in North Sumatra, including crackdowns on any planting, production or distribution of drugs. [@49]
-
-The operation drew on the North Sumatra police drug directorate, BNN North Sumatra, Madina police and the Madina public order agency (Satpol PP). [@52,56]
-
-The Mandailing Natal police drug unit followed up the public information with the North Sumatra police drug directorate before the wider joint team was formed. [@53]
-
-The tip that started the operation went to the Mandailing Natal police drug unit, Satresnarkoba Polres Mandailing Natal, which coordinated with the North Sumatra police drug directorate before other agencies joined the joint operation. [@54]
-
-In Panyabungan on 7 November 2026, Mandailing Natal deputy regent Atika Azmi Utammi Nasution said she hoped the destruction operations would continue, so the government's effort to move residents to other crops could be realised faster. [@55,56,57]
-
-Officers uprooted and burned 149,980 of the plants on site and kept 20 stalks as evidence. [@58] The crop was five to six months old and stood about one to 1.5 metres tall. [@58] Provincial police spokesman Kombes Pol Ferry Walintukan said investigators were still questioning witnesses and sending the evidence to the provincial police forensic laboratory, and that police were hunting those responsible for the field. [@58] The find was part of the 2026 Narkoba Law Enforcement Operation (Gakkum), carried out by North Sumatra police with the National Narcotics Agency, the military, the public order agency and residents. [@58]
-
-The five-hectare fields destroyed in Tambangan district, Mandailing Natal, were cleared by a joint team of police, army personnel, the regency narcotics agency BNNK, the civil-service police unit Satpol PP and local residents. [@59] At least 150,000 cannabis plants were burned at the Tor Sihite site. [@59]
+Provincial police spokesman Kombes Pol Ferry Walintukan said on 5 November that the force would
+fight drugs "from upstream to downstream", at their sources of production. [@43,49] On 7 November
+the Mandailing Natal deputy regent, Atika Azmi Utammi Nasution, said she hoped the operations would
+continue, so that residents could move to other crops sooner. [@55,56,57]
