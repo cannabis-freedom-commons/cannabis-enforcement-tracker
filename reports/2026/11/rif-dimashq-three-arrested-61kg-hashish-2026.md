@@ -45,6 +45,11 @@ media:
     media_url: https://cdn.sananews.sy/2026/11/photo_3_2026-11-10_17-07-58.jpg
     publisher: الوكالة العربية السورية للأنباء (سانا)
     caption: 'Second view of the seized drugs from the Rif Dimashq anti-narcotics operations. Photo: SANA'
+  - kind: video
+    url: https://t.me/s/DEDMOISY/763
+    media_url: https://youtu.be/Wvp_AckFKgs
+    publisher: إدارة مكافحة المخدرات
+    caption: 'Video released by Syria''s Anti-Narcotics Directorate showing scenes from the two Rif Dimashq operations and seized narcotics. Video: Syrian Anti-Narcotics Directorate'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4a11b483e5dafb1fce692bcca1ad490c
@@ -63,17 +68,38 @@ sources:
   - title: 'Coming from Lebanon: Massive Drug Smuggling Network Arrested in Damascus'
     url: https://dailybeirut.com/en/world/coming-from-lebanon-massive-drug-smuggling-network-arrested-in-damascus/
     publisher: Daily Beirut
+  - title: قادمة من لبنان.. القبض على شبكة تهريب مخدرات ضخمة في دمشق
+    url: https://dailybeirut.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%82%D8%A7%D8%AF%D9%85%D8%A9-%D9%85%D9%86-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D8%B4%D8%A8%D9%83%D8%A9-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%B6%D8%AE%D9%85%D8%A9-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82/
+    publisher: Daily Beirut
+    date: 2026-11-10
+    language: ar
+  - title: تمكنت إدارة مكافحة المخدرات خلال العمليتين الأمنيتين الأخيرتين من القبض على ثلاثة متورطين في تجارة وتهريب المخدرات من لبنان
+    url: https://t.me/s/DEDMOISY/756
+    publisher: إدارة مكافحة المخدرات
+    date: 2026-11-10
+    language: ar
+  - title: مشاهد من عمليتين أمنيتين نوعيتين نفذتهما إدارة مكافحة المخدرات في ريف دمشق
+    url: https://t.me/s/DEDMOISY/763
+    publisher: إدارة مكافحة المخدرات
+    date: 2026-11-10
+    language: ar
+open_questions:
+    - No exact date was published for the two operations; 10 November 2026 is the publication date of the directorate's announcement and media reports and stands in as the incident date.
+    - No specific locality in Rif Dimashq Governorate, and no separate arrest or seizure breakdown between the two operations, was published.
+    - The three detainees were identified only by Arabic initials, and no charges, plea, detention status or court outcome has been reported.
+    - The 200,000 narcotic pills were not identified by drug type, and no estimated street value for the seized drugs was published.
+    - Media accounts reproduce or paraphrase the Syrian Anti-Narcotics Directorate's Telegram statements rather than independent reporting.
 ---
 
 Syria's anti-narcotics directorate carried out two security operations in Rif
-Dimashq against drug smuggling from Lebanon into Syria. [@1,2,3] Officers arrested
+Dimashq against drug smuggling from Lebanon into Syria. [@1,2,3,4,5,6] Officers arrested
 three people after intensive field surveillance and monitoring. [@1,3] The
-directorate announced the suspects on Telegram only by their initials. [@1]
+directorate announced the suspects on Telegram only by their initials. [@1,4] The directorate identified the three detainees by the Arabic initials أ.ب, ب.ع and ع.د. [@5]
 Those arrested were referred to the competent authorities for further
-investigation and legal proceedings. [@1,3]
+investigation and legal proceedings. [@1,3,4,5]
 
-The operations seized 61 kilograms of hashish. [@1,2,3] Officers also confiscated 2
-kilograms of marijuana. [@1,2] Authorities also confiscated 200,000 narcotic
-pills, which are excluded from the cannabis figures. [@1,2] The directorate said
+The operations seized 61 kilograms of hashish. [@1,2,3,4,5] Officers also confiscated 2
+kilograms of marijuana. [@1,2,4,5] Authorities also confiscated 200,000 narcotic
+pills, which are excluded from the cannabis figures. [@1,2,4,5] The directorate said
 the operations aimed to dismantle trafficking networks and cut drug smuggling
-routes from Lebanon into Syria. [@1,2]
+routes from Lebanon into Syria. [@1,2,4,5]
