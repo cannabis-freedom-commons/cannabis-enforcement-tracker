@@ -49,30 +49,33 @@ sources:
     publisher: dhakamail.com
     date: 2026-11-10
     language: bn
+  - title: নড়াইলে গাঁজাসহ স্ত্রী গ্রেপ্তার, স্বামী পলাতক
+    url: https://www.bd24live.com/bangla/812653
+    publisher: bd24live.com
+    date: 2026-11-11
+    language: bn
 open_questions:
-  - No court outcome or formal charge was reported; a case at Lohagara Police Station was only being prepared.
-  - Faruk Khan remained at large and no further arrest was reported.
-  - No value estimate or laboratory confirmation for the seized ganja was published.
-  - The account rests on a single outlet's report of the Department of Narcotics Control press release.
+    - No court outcome was reported following the filing of the case at Lohagara Police Station.
+    - Faruk Khan remained at large and no further arrest was reported.
+    - No value estimate or laboratory confirmation for the seized ganja was published.
 ---
 
 Officers of the Department of Narcotics Control detained Sabana Khanam, 32, with
-5.5 kg of ganja in Lohagara upazila of Narail. [@1] Her husband Faruk Khan, 40,
-fled as the enforcement team arrived and remained at large. [@1] The detained
-woman is the wife of Faruk Khan of Pachuria Laskorpara village. [@1] Sabana is a
-homemaker and Faruk works as a mason. [@1]
+5.5 kg of ganja in Lohagara upazila of Narail. [@1,2] Her husband Faruk Khan, 40,
+fled as the enforcement team arrived and remained at large. [@1,2] The detained
+woman is the wife of Faruk Khan of Pachuria Laskorpara village. [@1,2] Sabana is a
+homemaker and Faruk works as a mason. [@1,2]
 
 Acting on a tip, a Department of Narcotics Control team raided Faruk Khan's own
-house at Pachuria Laskorpara at about 5pm on Tuesday 10 November. [@1] In front
+house at Pachuria Laskorpara at about 5pm on Tuesday 10 November. [@1,2] In front
 of witnesses present during the operation, officers searched inside the room and
 recovered 5.5 kg of ganja from a plastic bag wrapped in a quilt on a bedstead
-kept on the eastern side. [@1] Faruk Khan slipped away on sensing the raiding
-team, while officers detained Sabana Khanam at the scene. [@1]
+kept on the eastern side. [@1,2] Faruk Khan slipped away on sensing the raiding
+team, while officers detained Sabana Khanam at the scene. [@1,2]
 
 Narail district Department of Narcotics Control deputy director Golak Majumder
 said preliminary questioning indicated that the couple had jointly run an
-illegal drug business in different areas of Lohagara for one year. [@1] A case
-was being prepared for filing at Lohagara Police Station over the seizure. [@1]
+illegal drug business in different areas of Lohagara for one year. [@1,2] A case
+was being prepared for filing at Lohagara Police Station over the seizure. [@1] A regular case under the Narcotics Control Act was filed at Lohagara Police Station against Sabana Khanam and Faruk Khan. [@2]
 The Narail office of the Department of Narcotics Control announced the raid in a
-press release on the night of 10 November. [@1]
-
+press release on the night of 10 November. [@1,2]
