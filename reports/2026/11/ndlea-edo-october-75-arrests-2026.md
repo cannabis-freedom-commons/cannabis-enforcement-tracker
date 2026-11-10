@@ -82,6 +82,10 @@ sources:
   - title: NDLEA arrests 75 suspected drug traffickers in Edo
     url: https://www.msn.com/en-xl/africa/nigeria/ndlea-arrests-75-suspected-drug-traffickers-in-edo/ar-AA2h60JS
     publisher: The Punch
+  - title: 'NDLEA Edo Drug Arrests October 2026: 75 Suspects Held, 16.8 Tonnes Seized'
+    url: https://www.wansom.ai/briefly/news/ndlea-edo-drug-arrests-october-2026-75-held-16-tonnes_985f61b5-4f9f-4519-8130-ed3e5ab4e511
+    publisher: Briefly by Wansom
+    date: 2026-11-09
 open_questions:
   - The bulletin does not give a single raid date; 9 November 2026 is the publication date, when the commander presented the October results, and stands in for the incident date.
   - The article gives no count of plants destroyed; 14,322.0475 kg is the command's estimated yield of the destroyed farms, not a weighed cannabis seizure, and is not recorded as a figure.
@@ -148,3 +152,5 @@ Six cups of cannabis brownies were among the other substances the Edo command re
 The statistics were released in a statement on Monday by the Commander of Narcotics, Mitchell Ofoyeju, who described the visit of the agency's Chairman, Mohammed Buba Marwa, as a catalyst for the command's fight against drug traffickers. [@8]
 
 The figures were given in a statement in Benin on the Monday by the command's State Commander, Dr Mitchell Ofoyeju. [@9]
+
+The command reported six convictions in October 2026 and said 103 cases were still pending in court. [@11]
