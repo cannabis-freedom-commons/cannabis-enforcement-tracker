@@ -108,23 +108,28 @@ sources:
     publisher: Aaj Tak
     date: 2026-11-10
     language: hi
+  - title: नोएडा में निर्माणाधीन इमारत से तीन आरोपी पकड़े गए, 55 किलो गांजा और कार जब्त, टेलीग्राम से लेते थे ऑर्डर
+    url: https://nownoida.com/noida-news/details/10153/greater-noida-bisrakh-55-lakh-ganja-seized-telegram-drug-trafficking
+    publisher: Now Noida
+    date: 2026-11-10
+    language: hi
 ---
 
 Police in Gautam Buddh Nagar district arrested three men accused of smuggling
 ganja on 9 November 2026, in a joint operation by the SWAT team and Bisrakh
-police station. [@1,3,5,6,7,9,11,12] The three were arrested at an under-construction building
+police station. [@1,3,5,6,7,9,11,12,13] The three were arrested at an under-construction building
 on Golden Grand Road in Bisrakh, in Greater Noida. [@2,3,4,5,6,7,9] The operation was
 carried out on input from local intelligence and beat policing, the police
 account said. [@2,6,7]
 
 Police seized 55 kg 124 g of ganja from them, which they estimated to be worth
-about ₹55 lakh. [@2,3,4,5,6,7,8,9,11,12] Officers also recovered a Hyundai Aura car used to supply
+about ₹55 lakh. [@2,3,4,5,6,7,8,9,11,12,13] Officers also recovered a Hyundai Aura car used to supply
 the drug and three mobile phones. [@1,5,7,12]
 
 According to the police account, the men bought ganja cheaply in Odisha and
 other areas and packed it in e-commerce parcels to conceal it. [@2,4,6,7,9,11,12] Police said
 they delivered ganja door to door on demand through the Telegram messaging app
-and online parcel services, as well as by car. [@2,3,4,6,7,9]
+and online parcel services, as well as by car. [@2,3,4,6,7,9,13]
 
 Bisrakh police station registered a case under the Narcotic Drugs and
 Psychotropic Substances (NDPS) Act, India's main anti-drug law. [@2,4,5,6,7,11] Police said
