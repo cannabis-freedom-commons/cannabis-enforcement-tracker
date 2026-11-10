@@ -66,6 +66,11 @@ sources:
     publisher: ES Hoje
     date: 2026-11-09
     language: pt
+  - title: A casa caiu! Traficante é preso com 12,5 kg de drogas no Espírito Santo
+    url: https://aquinoticias.com/2026/11/a-casa-caiu-traficante-e-preso-com-125-kg-de-drogas-no-espirito-santo/
+    publisher: Aqui Notícias
+    date: 2026-11-09
+    language: pt
 open_questions:
   - The crack and cocaine weights are reported separately but are not cannabis, so they are excluded; the 12.5-kilogram combined total is therefore not used as a cannabis figure.
   - No street value estimate for the drugs was published.
@@ -75,27 +80,27 @@ open_questions:
   - All three accounts reproduce the same Espírito Santo civil police statement, so they are not independent reporting.
   - The page photo is credited only as Reprodução/SESP, with no caption stating which of the addresses or which seized items it shows.
   - 'Left out, as its quotation was not found in ES Hoje: He was then sent to the prison system and remains at the disposal of the courts.'
+  - The four bars of skunk found at the first address are not given a separate weight, so their share of the roughly 10 kilograms of skunk is not known.
 ---
 
 Officers of the Espírito Santo civil police's specialised narcotics department,
 Denarc, arrested a 25-year-old man in Cariacica on the morning of Saturday 7
-November 2026. [@1] During a stakeout in Novo Brasil, officers approached the
+November 2026. [@1,4] During a stakeout in Novo Brasil, officers approached the
 man as he left his home and found handmade cigarettes with a strong skunk smell
-on him. [@2] The man admitted he stored drugs at his home and showed officers
-where they were hidden. [@1]
+on him. [@2,4] The man admitted he stored drugs at his home and showed officers
+where they were hidden. [@1,4]
 
 In the house, officers found four bars of skunk in a bag inside a bedroom
-cupboard. [@2] A second address linked to the investigation, in Bela Aurora,
+cupboard. [@2,4] A second address linked to the investigation, in Bela Aurora,
 held eight and a half tablets of drugs, a precision scale and 1,620 reais in
-cash. [@2] The operation seized about 10 kilograms of skunk, two kilograms of
-crack and half a kilogram of cocaine, about 12.5 kilograms of drugs in all. [@2]
+cash. [@2,4] The operation seized about 10 kilograms of skunk, two kilograms of
+crack and half a kilogram of cocaine, about 12.5 kilograms of drugs in all. [@2,4]
 
 Police said weeks of investigation and monitoring had targeted people who stored
 and distributed drugs and took in money from their sale. [@1] ES Hoje reported
 that the Bela Aurora address was a second property tied to the same
 investigation. [@3] The man was taken to a police unit, charged in flagrante
-with drug trafficking. [@1]
+with drug trafficking. [@1,4]
 
 The police said the investigation had identified another suspect as responsible
-for receiving the money from the sales. [@2]
-
+for receiving the money from the sales. [@2,4]
