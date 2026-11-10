@@ -58,27 +58,33 @@ sources:
     url: https://www.ireland-live.ie/midlands/kildare-live/man-arrested-in-kildare-following-seizure-of-eur235000-worth-of-suspected-herbal-cannabis-9340997
     publisher: Ireland Live
     date: 2026-11-10
+  - title: Joint operations result in seizure of controlled drugs worth €359,000, 9th November 2026
+    url: https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/press-releases/2026/november/09-11-2026-joint-operations-result-in-seizure-of-controlled-drugs-worth-359-000-9th-november-2026.html
+    publisher: An Garda Síochána
+    date: 2026-11-09
+  - title: €359K Worth Of Drugs Seized In Kildare, Clare
+    url: https://www.kfmradio.com/news/localnews/e359k-worth-of-drugs-seized-in-kildare-clare/
+    publisher: Kildare's Kfm
+    date: 2026-11-10
 open_questions:
-    - Only one Garda or Revenue statement for the Clare seizure was published; the Clare Echo's account relies on the Garda response.
     - The reported 16.5 kg herbal cannabis is a total for several operations across Clare and Kildare; the weight seized in each county, including the Clare operation of 6 November, was not stated.
     - The weight and value of the cannabis vapes and gummies were not given separately, so only the €359,000 overall estimate is recorded and the €124,000 Clare estimate is not counted as a separate value.
     - The Kildare operation took place on 9 November 2026, but the exact location within the county and the weight of herbal cannabis seized there were not published.
     - The number of operations in Clare and Kildare, the exact locations, and whether the vapes and gummies contained cannabis or synthetic cannabinoids remain unreported.
     - No charges, court appearances or outcomes were reported.
-    - No photo of the seizure was published on the cited pages; the Clare Echo's page image is a Garda van beside a road.
 ---
 
 Gardaí and Revenue Customs officers seized approximately 16.5 kg of herbal
 cannabis, along with a quantity of cannabis vapes and cannabis gummies, with an
 estimated value of €359,000. [@1,2,3] The seizures were made by the Garda National
 Drugs and Organised Crime Bureau, Divisional Drugs Units in Clare and Kildare
-and Revenue's Customs Service. [@1,2,3,4]
+and Revenue's Customs Service. [@1,2,3,4,6]
 
 During one intelligence-led operation in County Clare on Friday 6 November 2026,
 cannabis vapes and cannabis gummies with an estimated street value of €124,000,
-subject to final analysis, were seized. [@1,2,3] One person was arrested after a
+subject to final analysis, were seized. [@1,2,3,5] One person was arrested after a
 significant seizure in County Kildare that afternoon. [@1] One male, aged in his 30s, was arrested and is currently being detained at a garda station in County Kildare under the provisions of Section 2 of the Criminal Justice (Drug Trafficking) Act 1996. [@4] The operation was one
-of a number carried out in Clare and Kildare in recent days. [@1] The County Clare seizure was one of a series of intelligence-led Garda and Revenue operations over the past week. [@3]
+of a number carried out in Clare and Kildare in recent days. [@1,6] The County Clare seizure was one of a series of intelligence-led Garda and Revenue operations over the past week. [@3]
 
 Investigations were ongoing. [@1]
 
@@ -86,4 +92,4 @@ A Garda spokesperson confirmed that investigations are ongoing. [@2]
 
 No arrest was reported after the County Clare seizure; a Garda spokesperson said there was no further information at that time. [@3]
 
-During the course of an operation in Kildare yesterday (November 9 last), herbal cannabis with an estimated street value of approximately €235,000 was seized. [@4]
+During the course of an operation in Kildare yesterday (November 9 last), herbal cannabis with an estimated street value of approximately €235,000 was seized. [@4,6]
