@@ -46,16 +46,6 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-08
     language: hi
-  - title: 'गांजा तस्करी: नाबालिगों से तस्करी करवाने वाला मुख्य आरोपी गिरफ्तार'
-    url: https://www.pratahkal.com/crime/ganja-smuggling-arrest-multai-madhya-pradesh-1650384
-    publisher: Pratahkal
-    date: 2026-11-09
-    language: hi
-  - title: नाबालिगों से गांजा बिकवाने वाला 10 हजार का इनामी तस्कर 6 माह बाद गिरफ्तार
-    url: https://www.bhaskar.com/local/mp/betul/multai/news/a-smuggler-carrying-a-reward-of-rs-10000-who-made-minors-sell-marijuana-was-arrested-after-six-months-dbp-139640735.html
-    publisher: Dainik Bhaskar
-    date: 2026-11-10
-    language: hi
 open_questions:
   - The report gives the reward as 10,000 rupees for information leading to the arrest but does not say who announced it or whether it was paid.
   - The 1,400 g of ganja was seized in the earlier May 2026 case that named him an accused; the report gives no quantity seized when he was detained on Sunday.
@@ -64,20 +54,16 @@ open_questions:
   - The report gives only the day of the week for the arrest, Sunday, and 8 November 2026 is its publication date, used as the incident date.
   - The report does not state how Garwa relates to Masod police station or to Multai tehsil, so the place is given at district precision.
   - No independent second account of the arrest could be opened; the local Tapti Arjun social media pages carrying the story could not be retrieved in full.
-  - The article's only image is a thumbnail with no caption, alt text or credit identifying what it shows, so no media entry is added.
-  - The existing report says police seized the 1.4 kg from the arrested man in May 2026; both new accounts say officers seized 1.408 kg from two minor boys near the Masod Road highway bridge on 27 April 2026, and the discrepancy is unresolved.
-  - Neither account says whether the two minor boys were charged, placed before a juvenile board or released, so their legal position is unclear.
-  - Neither account gives the day of the arrest itself; 9 November 2026 is the Pratahkal publication date and no separate arrest date is given.
 ---
 
 Masod police arrested a man on Sunday who had been absconding in a ganja
 trafficking case, and a reward of 10,000 rupees had been announced for his
-arrest. [@1,3] He had reached his village to celebrate Diwali, and police
+arrest. [@1] He had reached his village to celebrate Diwali, and police
 surrounded and caught him after receiving information. [@1] Police said the man
 they arrested is 21 years old and lives in Garwa. [@2]
 
 He was named an accused in a ganja trafficking case in May 2026, when police
-seized 1 kg 400 g of ganja from him. [@2,4] He escaped police during that
+seized 1 kg 400 g of ganja from him. [@2] He escaped police during that
 operation and had been missing for six months before Sunday. [@2] The
 10,000-rupee reward was for his arrest, and officers had been searching likely
 hideouts and gathering information from informers. [@2]
@@ -86,4 +72,3 @@ Masod police were tipped that the man had come to Garwa for Diwali and arrested
 him there. [@2] Police said they were taking further legal action against him.
 [@2]
 
-The two caught with the ganja were minor boys whom the accused used to sell it, police said. [@3] The seizure was made on 27 April 2026 near the Masod Road highway bridge, when the boys were caught with 1.408 kg of ganja on an unnumbered motorcycle. [@4] Station house officer Vikas Patel said the police station registered the case under the NDPS Act and the relevant sections of the BNS after the boys named the accused. [@4] After the arrest the accused was produced before a court. [@3]
