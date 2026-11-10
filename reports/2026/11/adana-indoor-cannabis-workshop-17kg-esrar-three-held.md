@@ -257,6 +257,11 @@ sources:
     publisher: Dosya Haber
     date: 2026-11-09
     language: tr
+  - title: Adana'da İklimlendirmeli Kenevir İmalathanesine Jandarma Baskını
+    url: https://dosyahaber.com/post/adana-da-iklimlendirmeli-kenevir-imalathanesine-jandarma-baskini-1794210325
+    publisher: Dosya Haber
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The accounts give no separate date or time for the raid; 9 November 2026, the date of the ministry statement and of publication, stands in for the incident date.
   - No figure for the number of cannabis plants in the workshop, the area used or an estimated value of the esrar was published.
@@ -341,6 +346,7 @@ open_questions:
   - The page gives no separate date or time for the raid; 9 November 2026 is its publication and update date and the date of the ministry statement.
   - Dosya Haber credits no news agency and reproduces the same Interior Ministry statement as the outlets already cited in the report, so it corroborates rather than independently reports the raid.
   - The page's single picture is captioned only with the story headline and carries no photographer or agency credit, so whether it shows the workshop, the seized esrar or the operation generally is not established; no media entry is added.
+  - Dosya Haber's standfirst describes the premises as an 'iklimlendirmeli sera' (air-conditioned greenhouse), while the ministry statement the page reproduces describes a closed indoor growing space and the other accounts a workshop in a building; the existing report keeps the indoor workshop description.
 ---
 
 Gendarmes detained three suspects in a raid on an indoor cannabis workshop in
@@ -349,10 +355,10 @@ cannabis under a purpose-built air-conditioning system, and police said the
 three suspects were running a narcotics production and trading operation. [@2,4,7,10,28,30]
 The searches turned up 17 kilograms of esrar, a cannabis hashish product,
 together with the workshop itself, four standing air conditioners, the rest of
-the air-conditioning system and various materials. [@2,4,6,7,9,10,11,12,13,15,16,17,18,19,21,22,24,25,26,27,28,29,30]
+the air-conditioning system and various materials. [@2,4,6,7,9,10,11,12,13,15,16,17,18,19,21,22,24,25,26,27,28,29,30,33]
 
 The three suspects were taken into custody, and the ministry named no further
-court step. [@2,9,10,12,14,26,30]
+court step. [@2,9,10,12,14,26,30,33]
 
 The operation was run by the Adana Provincial Gendarmerie Command after
 intelligence work, coordinated by the Gendarmerie General Command's
@@ -370,7 +376,7 @@ Searches at the address found 17 kilograms of esrar together with four standing 
 
 The address the gendarmes raided was in Seyhan district, Adana. [@9]
 
-The three detained suspects were said to have been referred for judicial proceedings. [@13,27,31]
+The three detained suspects were said to have been referred for judicial proceedings. [@13,27,31,33]
 
 The searches found a workshop where the suspects grew cannabis indoors with a purpose-built air-conditioning system. [@14]
 
