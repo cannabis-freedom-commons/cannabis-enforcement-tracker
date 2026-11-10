@@ -35,6 +35,11 @@ media:
     media_url: https://s3-am-btat-server.s3.amazonaws.com/wp-content/uploads/2026/11/cargamento-FSPE.jpg
     publisher: Periódico AM
     caption: 'Seized parcels and vaping devices secured by state forces. Photo: courtesy of the FSPE.'
+  - kind: photo
+    url: https://agoragto.com/policiaca/aseguran-vapeadores-con-droga-en-paqueteria-de-salamanca/
+    media_url: https://agoragto.com/wp-content/uploads/2026/11/Imagenes-@noticierosenlineabajio-25.jpeg
+    publisher: Informativo Ágora
+    caption: 'Vaping devices and parcels detected by the K9 unit in the Salamanca parcel firm. Photo: @noticierosenlineabajio via Informativo Ágora.'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7ff5e8b8dc6eb8b7132b9ab760119cdf
@@ -55,23 +60,29 @@ sources:
     publisher: TV4 Noticias
     date: 2026-11-07
     language: es
+  - title: Aseguran vapeadores con droga en paquetería de Salamanca
+    url: https://agoragto.com/policiaca/aseguran-vapeadores-con-droga-en-paqueteria-de-salamanca/
+    publisher: Informativo Ágora
+    date: 2026-11-09
+    language: es
 open_questions:
   - No weight was published for the suspected marijuana, only 42 vape devices, so no kilograms can be recorded.
   - The 111 total includes vapes not described as containing marijuana; only the 42 are treated as the cannabis component and no combined total is counted as cannabis.
   - No arrests, names, charges or court outcome were reported; the items were only described as placed at the disposal of the corresponding authorities.
   - No separate inspection date was published; 7 November 2026 is the earliest publication date, with La Silla Rota and AM publishing on 8 November.
   - No value, origin, destination, sender or recipient was reported for the parcels.
+  - Ágora dates the event to 9 November 2026, while the report uses 7 November 2026 from the earliest publication date; no source gives a confirmed inspection date.
 ---
 
 Guanajuato state police say their K9 dog Momo flagged 12 suspicious parcels
 during a preventive inspection inside a parcel and messaging company in
-Salamanca. [@1] Momo is a canine officer of the Fuerzas de Seguridad Pública del
+Salamanca. [@1,4] Momo is a canine officer of the Fuerzas de Seguridad Pública del
 Estado, the state public-security force, and worked the inspection with his
 handler. [@2] Officers seized the contents and placed them at the disposal of
 the corresponding authorities. [@2]
 
 The 12 parcels held 111 vaping devices, 42 of them apparently containing
-marijuana. [@2] Officers also found components for assembling two long guns and
+marijuana. [@2,4] Officers also found components for assembling two long guns and
 two magazines. [@1] The suspected marijuana was packed in vape-type products
 alongside the weapon parts. [@2]
 
@@ -83,3 +94,4 @@ it anonymously to 089. [@2]
 TV4 Noticias likewise reported 111 vapes, 42 with suspected marijuana, plus
 parts for two long guns and two magazines, secured in 12 parcels. [@3]
 
+The inspection also found enough parts to assemble two long guns and two magazines. [@4]
