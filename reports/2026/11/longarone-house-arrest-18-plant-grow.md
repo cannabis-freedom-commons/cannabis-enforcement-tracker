@@ -63,16 +63,21 @@ sources:
     publisher: Corriere delle Alpi
     date: 2026-11-10
     language: it
+  - title: 'Ai domiciliari coltivava marijuana in casa: arrestato un 63enne'
+    url: https://www.newsinquota.it/ai-domiciliari-coltivava-marijuana-in-casa-arrestato-un-63enne/
+    publisher: News In Quota
+    date: 2026-11-10
+    language: it
 open_questions:
-  - One passage says the man was transferred to prison, while a later passage says he was first left under house arrest and then released pending the validation hearing; the report uses the later, more detailed account.
-  - No dried-cannabis weight, area, value estimate or THC result was published, and laboratory confirmation was still pending.
-  - No outcome of the validation hearing or any later charge or sentence was reported.
+    - One passage in Corriere delle Alpi says the man was transferred to prison, while a later passage in the same outlet and News In Quota say he was first placed under house arrest and then released pending the validation hearing; the report uses the latter account.
+    - No dried-cannabis weight, area, value estimate or THC result was published, and laboratory confirmation was still pending.
+    - No outcome of the validation hearing or any later charge or sentence was reported.
 ---
 
 The Belluno Flying Squad rearrested a 63-year-old man from Longarone after a
 check led officers to a cannabis grow inside his home. [@1] The man had been
 serving home detention since April 2026 for drug, weapons, resistance and
-personal offences. [@1] Investigators, made suspicious by his recent movements
+personal offences. [@1,2] Investigators, made suspicious by his recent movements
 and inquiries, stopped him on the morning of 6 November in Longarone during his
 court-authorised time outside. [@1]
 
@@ -87,5 +92,4 @@ The man was arrested in flagrante on the morning of Friday 6 for cultivation of
 narcotic substance. [@1] The operation was part of a wider targeted effort
 against drug trafficking involving the Flying Squad's anti-drugs section. [@1]
 After the arrest he was first left under house arrest and then released pending
-the validation hearing. [@1]
-
+the validation hearing. [@1,2]
