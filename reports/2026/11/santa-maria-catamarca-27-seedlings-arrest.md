@@ -89,17 +89,18 @@ open_questions:
   - The article states the law cited for the case but gives no weight or street value for the cannabis and no quantity for the cocaine.
   - The page picture carries no caption or credit and could not be tied to the search, so no media link is added.
   - The Inforama account gives no separate day for the search; the report keeps 8 November 2026 from the earlier El Esquiú account, and this page was published on 9 November.
+  - The page gives no separate day for the search; its 9 November 2026 publication date is used only for the source, and the report keeps 8 November 2026 from the El Esquiú account.
 ---
 
 Officers of the GAUR-Santa María anti-narcotics group, part of the Catamarca
 provincial police's Dangerous Drugs Directorate, searched a house on Calle 2 de
 Febrero in Santa María city. [@1,3,4,5] The Juzgado Federal N° 1, the federal court in
-Catamarca, knew of and took part in the search. [@1,4,5] The search took place on 8
+Catamarca, knew of and took part in the search. [@1,3,4,5] The search took place on 8
 November 2026, the day before the account was published. [@1,4]
 
 Officers seized 27 marijuana seedlings of different sizes. [@1,3,4,5] Police also took
 a digital gram scale and two mobile phones, and placed them at the disposal of
-the court. [@1,4,5] Officers also found plastic wrappings with a white substance
+the court. [@1,3,4,5] Officers also found plastic wrappings with a white substance
 that a field test indicated was cocaine; the cocaine is not counted in the
 cannabis figures. [@1,4,5]
 
