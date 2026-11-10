@@ -74,12 +74,11 @@ sources:
     publisher: eju.tv
     date: 2026-11-07
     language: es
-open_questions:
-  - No weight was published for the 38 packages, so no kilogram figure is recorded.
-  - The anti-narcotics force did not name the suspects, and no charges, custody decision or court outcome was reported.
-  - The El Deber, ABI and La Voz Bolivia articles reproduce the same FELCN statement, so they are not independent accounts of the operation.
-  - FELCN did not publish its own statement page that could be opened, so the police report is known through the cited outlets.
-  - The eju.tv page credits ABI and the Felcn's social media accounts, so it repeats the same official statement and is not an independent description of the operation.
+  - title: Tres personas fueron aprehendidas tras el hallazgo de 38 paquetes de marihuana en Puerto Suárez
+    url: https://www.reduno.com.bo/noticias/tres-personas-fueron-aprehendidas-tras-el-hallazgo-de-38-paquetes-de-marihuana-en-puerto-suarez-202611717190
+    publisher: Red Uno
+    date: 2026-11-07
+    language: es
 ---
 
 Bolivian anti-drug officers arrested three people, two women and one man, in
@@ -87,11 +86,11 @@ Puerto Quijarro, the Bolivian town across the border from Corumbá, Brazil. [@1]
 The operation was carried out by an Umopar unit, the mobile rural patrol unit of
 Bolivia's anti-narcotics force, under the Frontera Segura 2.0 programme. [@1,5]
 
-The three were stopped in a vehicle carrying 31 packages of marijuana. [@2,5]
+The three were stopped in a vehicle carrying 31 packages of marijuana. [@2,5,6]
 Officers then searched a property linked to one of those involved and found
-another seven packages, making 38 in all. [@2,5] Field tests on the substance were
+another seven packages, making 38 in all. [@2,5,6] Field tests on the substance were
 positive for marijuana. [@2,5] The searched house, the vehicle used to carry the
-drug and two mobile phones were seized. [@2,5]
+drug and two mobile phones were seized. [@2,5,6]
 
 The three suspects were handed to Bolivia's Public Ministry, the prosecutors'
 office, for investigation. [@2]
