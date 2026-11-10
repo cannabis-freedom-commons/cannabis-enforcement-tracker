@@ -66,6 +66,11 @@ sources:
     publisher: NOSTÁLGICA cl
     date: 2026-11-09
     language: es
+  - title: Carabineros detuvo a cinco personas por tráfico de drogas e incautó más de 156 kilos de marihuana
+    url: https://www.radioatacama.cl/regional/carabineros-detuvo-personas-trafico-drogas-incauto-156-kilos-marihuana
+    publisher: Radioatacama.cl
+    date: 2026-11-09
+    language: es
 open_questions:
   - The article gives only its 9 November 2026 publication date and no separate date for the vehicle check, the arrests or the detention hearing, so the publication date stands in for the incident date.
   - No second independent account could be opened; the Carabineros Atacama statement and the Chañaral prosecutor's own releases were not retrievable, and a social-media post by Diario Chañarcillo repeats the same figures.
@@ -79,26 +84,27 @@ open_questions:
   - The page gives the seizure as 156 kilos and a value of more than 1.5 billion pesos, rounded figures that differ from the precise 156 kg 692 g and 1,566,920,000 pesos in the report; the report keeps the exact police figures.
   - The submitted page's lead image is a generic stock-style illustration (file named DROGA-WPRSS.png) with no caption or credit tying it to this seizure, so no media entry was added from it.
   - The report says the earlier PDI seizure of more than two tonnes took place the previous week; the submitted page reports the same, but that seizure is a separate event already recorded.
+  - The Radioatacama.cl page gives only its 9 November 2026 publication date and no separate date for the vehicle check or the detentions.
 ---
 
 Carabineros in the Atacama region detained five Chilean adults, all over 18, for
-drug trafficking and seized 156 kg 692 g of marijuana. [@1,2] The procedure began
+drug trafficking and seized 156 kg 692 g of marijuana. [@1,2,3] The procedure began
 at a service station on Route 5 Norte in the commune of Chañaral, where officers
 of the police investigation section (SIP) of the 1st Chañaral police station
 were checking two parked vehicles and found 140 packages containing marijuana
-inside them. [@1,2] The prosecutor's office then ordered the OS7 anti-drug section
+inside them. [@1,2,3] The prosecutor's office then ordered the OS7 anti-drug section
 of Carabineros de Atacama to carry out inquiries including phone analysis,
 review of security camera footage and statements. [@1] The investigation ended
 with 156 kg 692 g of marijuana seized, which Carabineros counted as 313,384
-doses and valued at 1,566,920,000 pesos. [@1]
+doses and valued at 1,566,920,000 pesos. [@1,3]
 
 Officers also seized mobile phones and two radio transmitters for the
 investigation. [@1] Three of the five detainees had records for drug
 trafficking, theft and burglary of unoccupied premises, while the other two had
-no criminal record. [@1] On the order of the prosecutor's office all five were
+no criminal record. [@1,3] On the order of the prosecutor's office all five were
 brought before a court and placed in preventive detention, and the prosecutor's
 office formalised charges against them as a criminal group for illicit drug
-trafficking. [@1,2] Chañaral chief prosecutor Nicolás Meléndez Chacón said the
+trafficking. [@1,2,3] Chañaral chief prosecutor Nicolás Meléndez Chacón said the
 detainees were caught moving a large quantity of drugs towards the Metropolitan
 Region, and that the Chañaral guarantee court ordered preventive detention for
 all of them because their freedom was considered a danger to public safety. [@1]
