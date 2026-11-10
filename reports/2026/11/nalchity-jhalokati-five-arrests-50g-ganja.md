@@ -33,6 +33,11 @@ sources:
     publisher: Dhaka Mail
     date: 2026-11-10
     language: bn
+  - title: ঝালকাঠিতে ইয়াবা-গাঁজাসহ গ্রেপ্তার ৫
+    url: https://www.kalbela.com/country-news/348247
+    publisher: কালবেলা
+    date: 2026-11-10
+    language: bn
 open_questions:
   - Only this single Bangla report of the Nalchity drives could be opened; no police statement or second outlet account was found.
   - The report headlines 45 yaba tablets in total but its text accounts for 40 with the man held on Godanda bridge, and names only four of the five arrested people, so the fifth arrest is unexplained.
@@ -49,10 +54,17 @@ open_questions:
   - Left out case stage, as no supporting quotation was given.
   - Left out setting, as no supporting quotation was given.
   - Left out charged, as no supporting quotation was given.
+  - Kal Bela says the three drives produced 45 yaba tablets in total, but its text accounts for only 40, found with the man arrested on the Godanda bridge.
+media:
+  - kind: photo
+    url: https://www.kalbela.com/country-news/348247
+    media_url: https://www.kalbela.com/assets/news_photos/2026/11/10/image_348247_1794279675.webp
+    publisher: Kal Bela
+    caption: 'Photo published with the report of the Nalchity arrests over ganja, credited to the newspaper. Photo: Kal Bela'
 ---
 
 Police in Nalchity upazila of Jhalokati district arrested five people in
-separate anti-drug drives. [@1] The drives ran from the evening into the night
+separate anti-drug drives. [@1,2] The drives ran from the evening into the night
 on Monday 9 November across different areas of the upazila. [@1]
 
 In a later drive at Tak Bazar police held three more men. [@1] Officers
@@ -61,3 +73,4 @@ recovered 50 grams of ganja in that later drive. [@1]
 The officer in charge of Nalchity police station spoke about the separate
 drives. [@1]
 
+The same officer said police operations against drugs would continue. [@1] Earlier the same evening, on the Godanda bridge in Subidpur union, police arrested one man and recovered 40 yaba tablets from him, a yaba count outside this report's cannabis figures. [@1]
