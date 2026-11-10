@@ -62,6 +62,11 @@ sources:
     publisher: HARIAN MISTAR
     date: 2026-11-10
     language: id
+  - title: Polres Tapteng Bongkar Rantai Pasokan Ganja di Badiri, Dua Pria Ditangkap dengan 200 Gram Barang Bukti
+    url: https://sinarlintasnews.com/2026/11/10/polres-tapteng-bongkar-rantai-pasokan-ganja-di-badiri-dua-pria-ditangkap-dengan-200-gram-barang-bukti/
+    publisher: Sinar Lintas News
+    date: 2026-11-10
+    language: id
 ---
 
 The operational team of the Tapanuli Tengah district police narcotics unit
@@ -77,6 +82,6 @@ Lopian ward in Badiri district. [@1]
 A search found one package of cannabis wrapped in black plastic with a gross
 weight of 80 grams and a black Redmi mobile phone. [@1,2] Under questioning at the
 scene, SP said he had obtained the package from a man identified as MHP, alias
-Uccok. [@1,3] Officers detained MHP later that same night in Lopian, Badiri. [@1,2,3] With this additional arrest, the total cannabis secured from the network in the one-day operation reached 200 grams, 80 grams from SP alias Gelleng and 120 grams from MHP alias Uccok. [@3] The search of Uccok found two packages of cannabis wrapped in black plastic with a total gross weight of 120 grams and a cream-coloured Realme mobile phone. [@3]
+Uccok. [@1,3,4] Officers detained MHP later that same night in Lopian, Badiri. [@1,2,3] Uccok was arrested at a stall in Lingkungan IV, Lopian ward, Badiri at about 18.00 WIB on the same day. [@4] MHP alias Uccok is 41 and was allegedly the supplier. [@4] With this additional arrest, the total cannabis secured from the network in the one-day operation reached 200 grams, 80 grams from SP alias Gelleng and 120 grams from MHP alias Uccok. [@3,4] The search of Uccok found two packages of cannabis wrapped in black plastic with a total gross weight of 120 grams and a cream-coloured Realme mobile phone. [@3,4]
 Both suspects and all the evidence were taken to Tapanuli Tengah police
 headquarters for proceedings under Law Number 35 of 2009 on Narcotics. [@1,3]
