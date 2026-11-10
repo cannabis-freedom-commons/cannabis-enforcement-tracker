@@ -79,24 +79,15 @@ sources:
     publisher: The CSR Journal
     date: 2026-11-09
     language: hi
-open_questions:
-    - The 441 kg total is the sum of the Garhwa 426 kg and the Tatisilway 15 kg, so it repeats quantities already recorded in their own reports.
-    - The page names no single place, so the state of Jharkhand and its centre coordinates are given.
-    - Four arrests in the headline cover only the Tatisilway case; the Garhwa police account names no arrest.
-    - The Garhwa value in the PTI account, about 2.13 crore rupees, is higher than the about one crore rupees reported by ETV Bharat for the same 426 kg seizure.
-    - The Garhwa case was described as under investigation, with no arrest reported because no one was in the vehicle.
-    - The Hindi account dates the Garhwa search to Sunday and the train arrest to Saturday night, matching the PTI roundup, while the Tatisilway case was registered on 8 November 2026, so the incident date of the roundup report is kept as 7 November.
-    - The Hindustan Times page carries the same automated PTI feed text as the other outlets already cited and states that it was generated from an agency feed without modifications, so it is a reprint rather than independent reporting.
-    - The opened ThePrint text carries the full PTI roundup, where the roundup report notes earlier that ThePrint gave only the Garhwa part; the full text matches the Rediff and Live Hindustan copies of the same wire item.
-    - The Rediff and Live Hindustan pages state the Tatisilway arrest happened on Saturday night and the Garhwa search on Sunday, consistent with the roundup report's 7 November incident date.
-    - No court outcome beyond registration of the NDPS cases and continuing investigation of the smuggling network has been reported in either matter.
-    - The page is the Hindi account of the same PTI roundup already cited in the report, restating the same agency figures rather than independent reporting.
-    - The page image is a small site thumbnail with no caption or credit tying it to either operation, so it is not listed as media.
+  - title: 441 kg of ganja worth Rs 2.2 crore seized in Jharkhand, 4 arrested
+    url: https://www.msn.com/en-in/news/other/441-kg-of-ganja-worth-rs-2-2-crore-seized-in-jharkhand-4-arrested/ar-AA2h2w5N
+    publisher: MSN / News18
+    date: 2026-11-09
 ---
 
 Four people were arrested and 441 kg of ganja worth a combined 2.2 crore rupees
 was seized in two separate operations in Jharkhand, officials said on 9 November
-2026. [@1,2,3,4,5,7,8]
+2026. [@1,2,3,4,5,7,8,9]
 
 In Garhwa district, police found 426 kg of ganja, valued at about 2.13 crore
 rupees, in a container truck parked near the Kalyanpur overbridge, and no one
@@ -105,13 +96,13 @@ was arrested because the vehicle was empty. [@1,2,3,5,8] Police said the registe
 The Railway Protection Force arrested four interstate peddlers with 15 kg of
 ganja from a general coach of the Hatia-Islampur Express at Tatisilway railway
 station on the night of 7 November, with the contraband valued at about 7.5 lakh
-rupees. [@1,2,5,6,8] Police said the four were taking the ganja from Balangir in Odisha
+rupees. [@1,2,5,6,8,9] Police said the four were taking the ganja from Balangir in Odisha
 to the Champaran area of Bihar, and handed them and the ganja over to the Ranchi
-Government Railway Police. [@1,6,7]
+Government Railway Police. [@1,6,7,9]
 
 Police registered cases under the Narcotic Drugs and Psychotropic Substances
 Act, India's main anti-drug law, in both matters. [@1]
 
-Garhwa superintendent of police Ashutosh Shekhar said the 426 kg was wrapped in 426 plastic packets of one kilogram each and hidden in a secret chamber of the truck, and that the case was registered under the Narcotic Drugs and Psychotropic Substances Act. [@2,3]
+Garhwa superintendent of police Ashutosh Shekhar said the 426 kg was wrapped in 426 plastic packets of one kilogram each and hidden in a secret chamber of the truck, and that the case was registered under the Narcotic Drugs and Psychotropic Substances Act. [@2,3,9]
 
 The Garhwa seizure was made on Sunday, 8 November 2026, near the Kalyanpur overbridge under the Garhwa police station. [@3]
