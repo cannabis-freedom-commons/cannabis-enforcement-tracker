@@ -78,6 +78,11 @@ media:
     media_url: https://www.vmcdn.ca/f/files/newmarkettoday/images/2026-11-06-police.png;w=960
     publisher: NewmarketToday.ca
     caption: 'York Regional Police supplied composite image of the controlled substance production and distribution dismantled at the Markham home. Photo: York Regional Police/Supplied'
+  - kind: photo
+    url: https://www.ctvnews.ca/toronto/local/york/article/welfare-check-leads-to-police-finding-a-drug-lab-inside-markham-home/
+    media_url: https://www.ctvnews.ca/resizer/v2/DPUYRKUTTBFJ5ESMM4NE7DRC2M.jpg?auth=b7d90a6e856cf7241edad16a9f4aa5ad410920f59c40dcb4690d6b477f76a992&width=1440&height=810
+    publisher: CTV News
+    caption: 'Packaged cannabis edibles seized from the Markham lab, captioned as part of the seizure during the investigation. Photo: York Regional Police handout'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d08672f0ae0f6b26e131f565b3ae5a4d
@@ -124,6 +129,10 @@ sources:
     url: https://www.newmarkettoday.ca/police-beat/police-dismantle-clandestine-drug-lab-in-markham-after-welfare-check-12989859
     publisher: NewmarketToday.ca
     date: 2026-11-06
+  - title: Welfare check leads to police finding a drug lab inside Markham home
+    url: https://www.ctvnews.ca/toronto/local/york/article/welfare-check-leads-to-police-finding-a-drug-lab-inside-markham-home/
+    publisher: CTV News
+    date: 2026-11-06
 open_questions:
   - The article gives no time of day for the 23 October visit; that is the date police state for the welfare call, while the charges and volumes were announced in the 6 November release.
   - Some of the seized edibles could be psilocybin edibles, but police list only psilocybin powder separately, so all 12,962 packages and 26 kilograms of loose edibles are counted as cannabis.
@@ -151,19 +160,22 @@ open_questions:
   - The NewmarketToday page reproduces the York Regional Police media release with no independent reporting, so it does not resolve whether the 26 kilograms of loose edibles are all cannabis.
   - The page's photo is a York Regional Police supplied composite whose components could not be confirmed as distinct from the police handout photos already linked in the report, so it is listed here without being added to the report.
   - NewmarketToday gives the same charge list as York Regional Police, but the page does not say which charge was laid against which of the three accused.
+  - CTV News gives the date as November 6, 2026 and its page states the charges were announced in a police news release on Friday; it adds no detail on bail, court dates or the role police allege for each accused.
+  - CTV News repeats the York Regional Police account without independent reporting, so it does not resolve whether the 26 kilograms of loose edibles are all cannabis.
+  - CTV News spells the drug psylocibin; the report keeps the spelling psilocybin used in the York police release.
 ---
 
 Two men and one woman from Markham were arrested after York Regional Police
 dismantled a clandestine drug lab at a home in the city. [@1,5,8] Officers went to a
 residence in the area of Jeremy Drive and Fred Varley Drive on 23 October 2026
 for a welfare check, and found evidence consistent with the production and
-distribution of controlled substances in a lab setting. [@2,6,7,10] The lab was
+distribution of controlled substances in a lab setting. [@2,6,7,10,11] The lab was
 dismantled with help from the Office of the Fire Marshal, Markham Fire and
 Emergency Services and York Region Paramedic Services. [@2,7]
 
 Investigators seized 12,962 packages of cannabis edibles, 209 grams of THC
 vaping cartridges, 26 kilograms of loose cannabis edibles and eight kilograms of
-dried cannabis. [@2,5,6,7,8,10] They also found 18 kilograms of psilocybin powder, a
+dried cannabis. [@2,5,6,7,8,10,11] They also found 18 kilograms of psilocybin powder, a
 psychedelic mushroom product rather than cannabis, so its weight is not included
 in the cannabis total. [@2] Ammunition, a conducted energy weapon and about
 C$100,000 in cash were seized at the residence. [@2]
@@ -174,11 +186,11 @@ illegal substances. [@3]
 
 Investigators learned the drugs produced at the home were sold mainly online
 under the name Buddha Boys, through illegitimate websites that mailed or
-delivered the orders. [@1,5,6,7,9]
+delivered the orders. [@1,5,6,7,9,11]
 
 The Toronto Sun placed the home in the Jeremy and Fred Varley drives area, near
 Warden and 16th avenues. [@4]
 
-Ammonition, a conducted energy weapon and about C$100,000 in cash were seized at the residence. [@5]
+Ammonition, a conducted energy weapon and about C$100,000 in cash were seized at the residence. [@5,11]
 
 RED FM gives the accused as Joseph Li, 41, Yuan Lin, 39, and Michelle Li, 39, all of Markham, and states that the charges have not yet been proven in court. [@9]
