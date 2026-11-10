@@ -49,16 +49,21 @@ sources:
     publisher: جريدة الدستور
     date: 2026-11-10
     language: ar
+  - title: النيابة تحقق مع تاجر حشيش ضُبط بحوزته كمية كبيرة من المخدرات بالبدرشين
+    url: https://www.youm7.com/story/2026/11/10/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%AA%D8%AD%D9%82%D9%82-%D9%85%D8%B9-%D8%AA%D8%A7%D8%AC%D8%B1-%D8%AD%D8%B4%D9%8A%D8%B4-%D8%B6%D9%8F%D8%A8%D8%B7-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87-%D9%83%D9%85%D9%8A%D8%A9-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%85%D9%86/7613207
+    publisher: اليوم السابع
+    date: 2026-11-10
+    language: ar
 ---
 
 Detectives of the Giza Security Directorate arrested a suspected hashish dealer
 in Badrashin, south of Giza, before he could distribute the drug to his
-customers. [@1,2,3] Police at Badrashin police station received information that an
-unemployed man was trafficking narcotics in the station's area. [@1,3] After
+customers. [@1,2,3,4] Police at Badrashin police station received information that an
+unemployed man was trafficking narcotics in the station's area. [@1,3,4] After
 verifying the information and locating him, officers detained the suspect under
-legal procedures. [@1]
+legal procedures. [@1,4]
 
 He was found with a large quantity of hashish prepared for sale, cash described
-as proceeds of sale, and a mobile phone used to contact customers. [@1,2,3] Police
+as proceeds of sale, and a mobile phone used to contact customers. [@1,2,3,4] Police
 filed a report on the arrest and referred the case to the competent prosecution,
-which began its investigation. [@1,2] The prosecution ordered the seized items to be examined to determine their nature, kept the hashish, cash and phone in custody, and is continuing investigations to establish the circumstances and the source of the drugs. [@3]
+which began its investigation. [@1,2,4] The prosecution ordered the seized items to be examined to determine their nature, kept the hashish, cash and phone in custody, and is continuing investigations to establish the circumstances and the source of the drugs. [@3,4]
