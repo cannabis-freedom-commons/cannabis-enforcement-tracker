@@ -90,22 +90,22 @@ sources:
     publisher: Diario de Sevilla
     date: 2026-11-10
     language: es
+  - title: Encuentran 1.000 plantas de marihuana en una nave industrial de Huévar
+    url: https://www.abc.es/sevilla/provincia/aljarafe/encuentran-1000-plantas-marihuana-nave-industrial-huevar-20261110104738-nts.html
+    publisher: Diario ABC
+    date: 2026-11-10
+    language: es
 media:
   - kind: photo
     url: https://www.europapress.es/andalucia/sevilla-00357/noticia-dos-detenidos-plantacion-indoor-marihuana-1000-plantas-interior-desmantelada-huevar-sevilla-20261110100811.html
     media_url: https://img.europapress.es/fotoweb/fotonoticia_20261110100811_690.jpg
     publisher: Europa Press
     caption: 'Image of the detention of one of the suspects. Photo: Guardia Civil via Europa Press'
-open_questions:
-    - No street value for the plants or seized cannabis was published.
-    - No names, ages or nationalities of the two detained people were published.
-    - No court outcome beyond placement at the disposal of the judicial authority was reported.
-    - Whether the 15 kilograms of cut tobacco found with the cannabis led to a separate offence was not reported.
 ---
 
 The Guardia Civil dismantled a marijuana plantation inside a building in the
-town of Huévar del Aljarafe, in Seville province. [@1,4,5,6,7,8] The investigation was carried out by the Guardia Civil posts of Pilas and Villamanrique de la Condesa with the Pilas Local Police. [@9,11] Behind a raised hatch and false ceiling officers found ten kilograms of processed marijuana and five kilograms of packaged buds ready for distribution. [@9,10,11] The same hidden compartment also held 15 kilograms of cut tobacco. [@11] Officers seized 1,073 cannabis plants about 1.50 metres tall in advanced flowering with a high THC concentration. [@9,10,11] The warehouse held a sophisticated setup with two rooms for intensive marijuana cultivation. [@9] Officers detained the
-people described as responsible for the crop. [@1,4,5,6,7,8] The warehouse entry and search were authorised by the court of Sanlúcar la Mayor. [@9] The two detained people were placed at the disposal of the judicial authority as alleged perpetrators of drug trafficking and electricity fraud. [@9,11] The two suspects were intercepted in a vehicle just after leaving the warehouse under surveillance. [@9,10] The plantation was indoors,
+town of Huévar del Aljarafe, in Seville province. [@1,4,5,6,7,8,12] The investigation was carried out by the Guardia Civil posts of Pilas and Villamanrique de la Condesa with the Pilas Local Police. [@9,11] Behind a raised hatch and false ceiling officers found ten kilograms of processed marijuana and five kilograms of packaged buds ready for distribution. [@9,10,11] The same hidden compartment also held 15 kilograms of cut tobacco. [@11] Officers seized 1,073 cannabis plants about 1.50 metres tall in advanced flowering with a high THC concentration. [@9,10,11] The warehouse held a sophisticated setup with two rooms for intensive marijuana cultivation. [@9] Officers detained the
+people described as responsible for the crop. [@1,4,5,6,7,8,12] The warehouse entry and search were authorised by the court of Sanlúcar la Mayor. [@9] The two detained people were placed at the disposal of the judicial authority as alleged perpetrators of drug trafficking and electricity fraud. [@9,11] The two suspects were intercepted in a vehicle just after leaving the warehouse under surveillance. [@9,10] The plantation was indoors,
 in a nave — an industrial unit or warehouse — in Guadial, an urbanización, or
 planned development, within the municipality. [@2] The operation took place on
 Tuesday 27 October 2026. [@2,4,7,9,11] The investigation, called operation 172 Italica Quisquilae, began from live-source information and located the warehouse suspected of being an illicit cultivation centre. [@9,10,11] The Guardia Civil officers travelled to the town
