@@ -212,6 +212,11 @@ sources:
     publisher: Çukurova Gazetesi
     date: 2026-11-09
     language: tr
+  - title: 4 Klima, İklimlendirme Ekipmanları Ve 17 Kilo Esrar!
+    url: https://www.cukurovametropol.com.tr/4-klima-iklimlendirme-ekipmanlari-ve-17-kilo-esrar
+    publisher: Çukurova Metropol
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The accounts give no separate date or time for the raid; 9 November 2026, the date of the ministry statement and of publication, stands in for the incident date.
   - No figure for the number of cannabis plants in the workshop, the area used or an estimated value of the esrar was published.
@@ -283,12 +288,12 @@ open_questions:
 ---
 
 Gendarmes detained three suspects in a raid on an indoor cannabis workshop in
-Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9,10,11,13,15,16,17,19,20,21,22] The workshop was found growing
+Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9,10,11,13,15,16,17,19,20,21,22,24] The workshop was found growing
 cannabis under a purpose-built air-conditioning system, and police said the
 three suspects were running a narcotics production and trading operation. [@2,4,7,10]
 The searches turned up 17 kilograms of esrar, a cannabis hashish product,
 together with the workshop itself, four standing air conditioners, the rest of
-the air-conditioning system and various materials. [@2,4,6,7,9,10,11,12,13,15,16,17,18,19,21,22]
+the air-conditioning system and various materials. [@2,4,6,7,9,10,11,12,13,15,16,17,18,19,21,22,24]
 
 The three suspects were taken into custody, and the ministry named no further
 court step. [@2,9,10,12,14]
