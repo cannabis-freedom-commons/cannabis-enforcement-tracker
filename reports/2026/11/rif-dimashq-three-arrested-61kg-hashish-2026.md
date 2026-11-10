@@ -55,24 +55,28 @@ sources:
     publisher: الوكالة العربية السورية للأنباء (سانا)
     date: 2026-11-10
     language: ar
+  - title: سوريا تفكك شبكة لتهريب المخدرات من لبنان (فيديو)
+    url: https://www.eremnews.com/entertainment/z3ckb7k
+    publisher: إرم نيوز
+    date: 2026-11-10
+    language: ar
 open_questions:
-  - No exact location within Rif Dimashq Governorate was named, so the governorate centre area is used at region precision.
-  - The article gives no separate date for the two operations; 10 November 2026 is its publication date, announced as Tuesday, and is used as the incident date.
-  - The type of the 200,000 narcotic pills was not specified, so they are left out of the cannabis figures.
-  - The detainees were identified only by initials, and no charges or court outcome beyond referral were reported.
-  - The whole account rests on the anti-narcotics directorate's statement via SANA, with no independent confirmation found.
+    - No exact location within Rif Dimashq Governorate was named, so the governorate centre area is used at region precision.
+    - The article gives no separate date for the two operations; 10 November 2026 is its publication date, announced as Tuesday, and is used as the incident date.
+    - The type of the 200,000 narcotic pills was not specified, so they are left out of the cannabis figures.
+    - The detainees were identified only by initials, and no charges or court outcome beyond referral were reported.
+    - Both accounts trace to the anti-narcotics directorate's own statements via SANA and social media, with no independent confirmation found.
 ---
 
 Syria's anti-narcotics directorate carried out two security operations in Rif
-Dimashq against drug smuggling from Lebanon into Syria. [@1] Officers arrested
+Dimashq against drug smuggling from Lebanon into Syria. [@1,2] Officers arrested
 three people after intensive field surveillance and monitoring. [@1] The
 directorate announced the suspects on Telegram only by their initials. [@1]
 Those arrested were referred to the competent authorities for further
 investigation and legal proceedings. [@1]
 
-The operations seized 61 kilograms of hashish. [@1] Officers also confiscated 2
-kilograms of marijuana. [@1] Authorities also confiscated 200,000 narcotic
-pills, which are excluded from the cannabis figures. [@1] The directorate said
+The operations seized 61 kilograms of hashish. [@1,2] Officers also confiscated 2
+kilograms of marijuana. [@1,2] Authorities also confiscated 200,000 narcotic
+pills, which are excluded from the cannabis figures. [@1,2] The directorate said
 the operations aimed to dismantle trafficking networks and cut drug smuggling
-routes from Lebanon into Syria. [@1]
-
+routes from Lebanon into Syria. [@1,2]
