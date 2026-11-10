@@ -268,108 +268,52 @@ sources:
     publisher: Thai Examiner
     date: 2026-11-01
 open_questions:
-  - >-
-    Thai PBS, published on 1 November 2026, says the search took place that day, while the FDA statement and
-    Hfocus give 29 October; this report uses the FDA's date.
-  - No weight was given for the 90 jellies, so the amount of cannabis they contained is not known.
-  - >-
-    The reports do not say whether the 26-year-old woman was arrested or detained, or whether anyone else at
-    the shop was investigated.
-  - The THC and CBD test results, and any further charges, had not been reported.
-  - All three accounts draw on the FDA statement; no independent reporting on the raid was found.
-  - >-
-    This account restates the police and FDA statement already cited and adds no independent reporting on the
-    raid.
-  - >-
-    The article gives no update on the condition of the parents or the two-year-old boy taken to hospital in
-    Chanthaburi.
-  - >-
-    The submitted Nation Thailand page redirected to the newspaper's homepage when opened, so its article text
-    could not be read; the match rests on the Thai Rath English and Bangkok Post accounts.
-  - >-
-    Thai Rath's English edition names the employee as Saowalak Namwongsa, while the report follows the sources
-    that withhold her surname.
-  - >-
-    Bangkok Post places the search on Saturday, which would be 31 October 2026, a third date alongside those
-    already recorded.
-  - >-
-    Bangkok Post attributes the 50,000-baht figure to the price tags on the seized products, while the report
-    attributes the valuation to the FDA.
-  - >-
-    This page gives no explicit raid date beyond its 1 November 2026 publication date, so it does not resolve
-    the existing 29 October versus 1 November dating.
-  - >-
-    The article gives only its 1 November 2026 publication date and calls the search recent, so it does not
-    resolve the existing 29 October versus 1 November dating.
-  - >-
-    The capture gives only a relative publication time of 4 hours ago and no explicit raid date, so it does
-    not resolve the existing 29 October versus 1 November dating question.
-  - >-
-    Left out, as its quotation was not found in newsclip.be: Police and food and drug officials searched a
-    cannabis shop in a building on Banthat Thong Road in Bangkok's Pathum Wan district on 29 October 2026.
-  - >-
-    Left out, as its quotation was not found in newsclip.be: The search followed a case in Khlung district,
-    Chanthaburi province, where a family fell severely ill after eating cannabis sweets, with convulsions and
-    loss of consciousness that required ventilators.
-  - >-
-    The full newspaper text is behind a paywall, so only the headline, publication date, summary paragraph and
-    metadata description could be read.
-  - >-
-    The page gives no explicit raid date beyond its 2 November 2026 publication date, so it does not resolve
-    the existing 29 October versus 1 November dating question.
-  - The summary does not state the reported 90-item count, so it does not corroborate the seized quantity.
-  - >-
-    This account gives only its 2 November 2026 publication date and no separate raid date, so it does not
-    resolve the existing 29 October versus 1 November dating question.
-  - No weight or THC content for the 90 seized jellies was published; laboratory testing was still pending.
-  - >-
-    The sources do not state that the family bought their sweets from this shop, only that they ate similar
-    products.
-  - Whether the lead photo on the source page shows this raid is not established.
-  - >-
-    One account dates the search to 29 October while another gives 1 November; the matching shop address,
-    employee, 90 jellies and 50,000-baht valuation identify the same operation.
-  - This account announces the operation on 1 November 2026 and gives no separate raid date, so it does not resolve the existing 29 October versus 1 November dating question.
+  - The FDA dates the search to 29 October 2026; one account gives 1 November and another Saturday 31 October.
+  - No weight or THC content was given for the 90 jellies, and the laboratory results have not been reported.
+  - Some accounts say the employee was arrested; others say only that she was told she faced charges.
+  - The 50,000 baht is attributed to the FDA in most accounts and to the products' price tags in one.
+  - It is not said that the sick family's sweets came from this shop, and there has been no update on their condition.
+  - Every account draws on the police and FDA statement.
 ---
 
-Police and health officials seized 90 cannabis-infused jellies from a shop in Bangkok's Pathum Wan district. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36]
+Police and health officials seized 90 cannabis-infused jellies from a shop in Bangkok's Pathum Wan
+district. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36]
+Police and food and drug officials searched the cannabis shop, on the second floor of a building on
+Banthat Thong Road, on 29 October 2026 [@1,4,5,7,13,14,15,16,17,18,19,20,22,26,27,29,30,31,32,33], at
+188/25 Soi Rong Mueang 5, Wang Mai subdistrict [@7,37], under a warrant from the Pathum Wan Kwaeng Court.
+[@1,4,6,19,32] The road is a restaurant area next to Chulalongkorn University, popular with Thais,
+tourists and expatriates. [@26]
 
-Police and food and drug officials searched a cannabis shop in a building on
-Banthat Thong Road in Bangkok's Pathum Wan district on 29 October 2026. [@1,5,13,18,22,27,29,30,32] The
-shop occupied the second floor. [@1,4,5,7,14,15,16,17,19,20,26,27,31,33] Officers seized 90 cannabis-mixed jelly
-items that had no Thai label and no food serial number from the Food and Drug
-Administration (FDA). [@1,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,31,32,33,37] The FDA put the value of the jellies at 50,000 baht.
-[@2,5,18,22,23,24,26,27,28,30,31,33,37]
+Officers seized 90 cannabis-mixed jelly items with no Thai label and no Food and Drug Administration
+(FDA) serial number.
+[@1,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,31,32,33,37] The FDA put their
+value at 50,000 baht. [@2,5,18,22,23,24,26,27,28,30,31,33,37] They were packaged to look like ordinary
+children's snacks and advertised online. [@8,15,19,21,23,24,25,28,29,30,32]
 
-A shop employee told officers the shop had sold the jellies at 80 baht each to
-Thai customers and foreign tourists for about a year. [@1,4,7,8,11,12,16,17,18,19,20,21,22,23,24,26,27,29,30,31,32,33,37] A 26-year-old woman
-at the shop told investigators she was only an employee. [@3,9,16,28,33] Officers told her
-she faced a charge of selling a controlled herb without permission. [@3,7,14,25,33] That
-charge carries up to a year in prison or a 20,000-baht fine. [@2,4,5,33] Investigators
-planned to send samples to the Department of Medical Sciences to check whether
-THC and CBD levels exceeded the legal limit, which could bring further charges.
-[@3,4,5,8,11,14,19,23,24,27,28,29,31,32,33]
+## Charges
 
-The search followed a case in Khlung district, Chanthaburi province, where a
-family fell severely ill after eating cannabis sweets, with convulsions and loss
-of consciousness that required ventilators. [@1,7,8,9,11,13,15,17,18,20,21,22,23,24,27,28,30,32,37] The FDA warned parents to watch
-for unlabelled sweets marked with cannabis leaves or the words Cannabis, CA or
-THC. [@1]
+A shop employee said the shop had sold the jellies at 80 baht each to Thai customers and foreign
+tourists for about a year. [@1,4,7,8,11,12,16,17,18,19,20,21,22,23,24,26,27,29,30,31,32,33,37] The
+26-year-old woman, identified as Saowalak [@5,12,24], told investigators she was only an employee
+[@3,9,16,28,33]; some accounts say police arrested her. [@10,29] Officers told her she faced a charge of
+selling a controlled herb without permission [@3,7,14,25,33], which carries up to a year in prison or a
+20,000-baht fine [@2,4,5,33], and of selling wrongly labelled food under the Food Act, punishable by a
+fine of up to 30,000 baht. [@2,4,5,8,11,33] Samples were to go to the Department of Medical Sciences to
+check whether THC and CBD exceeded the legal limit, which could bring further charges.
+[@3,4,5,8,11,14,19,23,24,27,28,29,31,32,33] Police were looking for the shop's owner and others involved.
+[@7,25]
 
-The search was carried out under a warrant from the Pathum Wan Kwaeng Court. [@1,4,6,19,32] Police said selling the jellies also broke the Food Act, which bars producing and selling food with an incorrect label and carries a fine of up to 30,000 baht. [@2,4,5,11,33]
+## Background
 
-The 26-year-old woman was identified only as Saowalak, with her surname withheld. [@5,12,24]
+The search followed a case in Khlung district, Chanthaburi province, where a family fell severely ill
+after eating cannabis sweets, with convulsions and loss of consciousness that required ventilators.
+[@1,7,8,9,11,13,15,17,18,20,21,22,23,24,27,28,30,32,37] They were a father, a mother and their
+two-year-old son, who was drowsy and thought to have eaten only a little [@8,24,25,29], and the couple
+complained to Bangkok police. [@10,29]
 
-The shop was in a row building at 188/25 Soi Rong Mueang 5, Wang Mai subdistrict, Pathum Wan district, Bangkok. [@7,37] Police said they were expanding the investigation to find the shop's owner and others involved. [@7,25]
-
-The jellies were packaged to look like ordinary children's snacks to attract customers and were advertised for sale online. [@8,15,19,21,23,24,25,28,29,30,32] Officers also charged her with selling food that carried an incorrect label. [@8] The family was a father, mother and their two-year-old son, and the boy was drowsy and was thought to have eaten only a little. [@8,24,25,29] The FDA secretary-general, Supatra Boonserm, said cannabis food it approves may contain no more than 1.6 mg of THC per package and must carry clear warnings. [@8,33]
-
-Police arrested a 26-year-old woman, identified only as Saowalak. [@10,29]
-
-The Central Investigation Bureau commissioner, Pol Lt Gen Nattasak Chaowanasai, said cannabis had increasingly been used for purposes unrelated to medical treatment, with some operators mixing it into gummies, cookies, sweets and other food products to produce intoxicating effects. [@11]
-
-The raid followed a complaint to Bangkok police from a couple living in Chanthaburi province, who said they passed out after eating the sweets. [@10,29]
-
-Banthat Thong Road is known as a restaurant area next to Chulalongkorn University and is popular with local Thais as well as foreign tourists and expatriates. [@26]
-
-The Central Investigation Bureau commander ordered an intensified crackdown over concern that children could mistakenly eat the products. [@30]
+Central Investigation Bureau commissioner Pol Lt Gen Nattasak Chaowanasai said some operators were
+mixing cannabis into gummies, cookies and sweets for their intoxicating effect [@11], and the bureau's
+commander ordered a crackdown for fear that children could eat such products by mistake. [@30] FDA
+secretary-general Supatra Boonserm said cannabis food the agency approves may contain no more than 1.6
+mg of THC per package and must carry clear warnings [@8,33], and the FDA warned parents to watch for
+unlabelled sweets marked with cannabis leaves or the words Cannabis, CA or THC. [@1]

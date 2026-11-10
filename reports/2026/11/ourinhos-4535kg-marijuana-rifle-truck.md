@@ -138,70 +138,41 @@ sources:
     date: 2026-11-09
     language: pt
 open_questions:
-  - No charge or court decision was reported beyond the driver's arrest in flagrante and detention at the Federal Police station in Marília.
-  - The driver's name, age, route and the origin or destination of the load were not published.
-  - The 9.1-million-real figure is a police estimate of losses to drug trafficking, not a confirmed street price.
-  - The article places the stop in Ourinhos but names no road or kilometre.
-  - Voz do Vale describes the seizure as having happened 'na tarde desta semana' rather than naming Sunday, and carries no publication date; the Sunday date comes from the other two outlets.
-  - The three accounts reproduce the same highway police account, so they are not independent reporting of the arrest.
-  - The article gives the stop as about 15:30 on the Raposo Tavares (SP-270) in Ourinhos but names no kilometre.
-  - The PMESP page names the highway as SP-327, while the Voz do Vale account already cited in the report gives the stop as on the Raposo Tavares (SP-270) in Ourinhos; the accounts differ on the road but agree on the place and the Sunday afternoon stop.
-  - The page gives no charge, court decision or release beyond the driver's detention at the Federal Police station in Marília.
-  - Policial Padrão places the stop on the SP-327, matching the PMESP portal already cited, while another account in the same report gives the Raposo Tavares (SP-270); the accounts still differ on the road but agree on the place and the afternoon stop.
-  - Policial Padrão dates the arrest to Monday 9 November, while the highway police account and the other outlets give Sunday 8 November; the report keeps the Sunday date.
-  - The article names the Paraná FICCO branch as a supporting agency; the other accounts already cited describe only the São Paulo branch.
-  - The Federal Police account names no charge or court decision beyond the arrest in flagrante.
-  - Band attributes the 9.1 million reais loss estimate to 'the authorities' generally, rather than specifically to the highway police as the other accounts do.
-  - Band names the road only as the rodovia Orlando Quagliato and gives no kilometre for the stop; it does not mention the SP-270 or SP-327 designations that other accounts give.
-  - The Band report reproduces the same highway-police account as the outlets already cited, so it is not an independent confirmation of the details.
-  - The Band page uses band.com.br/nacional/sp/policia-apreende-45-toneladas-de-maconha-e-fuzil-em-caminhao-em-ourinhos in its other coverage, while this copy sits at band.com.br/nacional/sp/operacao-apreende-45-toneladas-de-maconha-e-fuzil-em-caminhao-em-ourinhos; both carry the same text and photograph credit.
-  - Visão Notícias reproduces the same highway-police account as the outlets already cited, so it is not independent confirmation of the details.
-  - SOT attributes the operation to FICCO/PR together with the São Paulo Military Police and does not mention the Tático Ostensivo Rodoviário (TOR) unit named in the report's other accounts.
-  - SOT places the stop on the SP-327, matching the highway police and PMESP accounts already cited, while another account in the report gives the Raposo Tavares (SP-270); the difference remains.
-  - The article gives no count of tablets and no figure for the value of the load, unlike the accounts already cited, and names no charges against the driver.
-  - The page is a direct republication of the PMESP news agency account already cited in the report, so it is not independent confirmation of the details.
-  - Its lead photo is credited to the PMESP news agency, and its relation to the highway-police handout pictures already linked in the report could not be checked.
-  - Votunews gives rounded figures of 4.5 tonnes and about 5,100 bricks, while the report records the precise 4,535 kg and 5,100 tablets from the highway-police account.
-  - Votunews gives no time of day or kilometre for the stop; it names the road only as the rodovia Orlando Quagliato.
-  - The same page also reports statewide January-September totals of 95 tonnes of drugs and thousands of weapons, a separate balance left out of this event.
-  - The Medianeira stop is the driver's own account, relayed by police; no source says whether investigators verified it.
-  - The CGN page behind this account returned an access error when opened, so the Ubiratã Online republication and Rádio Cultura Foz were used instead.
+  - The road is given as the Raposo Tavares (SP-270) in one account and as kilometre 28 of the SP-327 in others.
+  - The legal cargo is described as meat-and-bone meal in most accounts and as flour in others.
+  - One account dates the arrest to Monday 9 November; the others give Sunday 8 November.
+  - The driver was not named, and his stop in Medianeira rests on his own account.
+  - The 9.1 million reais is the police's estimate of the loss to traffickers.
+  - No charge or court decision beyond the arrest in flagrante has been reported.
 ---
 
-Highway police arrested a man in Ourinhos, São Paulo state, on the afternoon of
-Sunday 8 November 2026 after finding more than 4.5 tonnes of cannabis and a
-rifle in the truck he was driving. [@1,4,5,6,10,11,12] The stop was made at about 15:25 by
-teams of the Tático Ostensivo Rodoviário (TOR), the military highway police's
-overt patrol unit, during Operação Impacto. [@1,7,9,11,14] Officers searched a Volvo FH
-460 truck pulling a trailer loaded with bags of meat-and-bone meal. [@1,5,10,11,14,16]
+Highway police arrested a man in Ourinhos, São Paulo state, on the afternoon of Sunday 8 November 2026
+after finding more than 4.5 tonnes of cannabis and a rifle in the truck he was driving.
+[@1,4,5,6,10,11,12,13] Teams of the Tático Ostensivo Rodoviário (TOR), the military highway police's
+patrol unit, stopped it at about 15:25 at a highway policing base during Operação Impacto
+[@1,7,9,11,12,14,15], after the Paraná branch of the Força Integrada de Combate ao Crime Organizado
+(FICCO), an integrated anti-organised-crime task force, passed on information about the truck.
+[@12,15] One account places the stop on the Raposo Tavares highway (SP-270) [@4], others at kilometre 28
+of the SP-327. [@5,13]
 
-Hidden under the legal cargo they found 5,100 tablets of cannabis weighing 4,535
-kilograms. [@1,4,5,6,7,9,10,11,14] A rifle of calibre 7.62 with no identifiable make, model or
-origin was found in the same place. [@1,4,5,11] The case was presented at the Federal
-Police station in Marília, and the driver, who has a criminal record, remained
-in custody. [@1,4,5,6,7,9,11,13,14,16] The operation was carried out jointly with the São Paulo and
-Paraná branches of the Força Integrada de Combate ao Crime Organizado (FICCO),
-an integrated anti-organised-crime task force. [@2,6,11] The driver was held at the
-disposal of the courts. [@3]
+## The load
 
-According to the highway police, the seizure caused an estimated loss of 9.1
-million reais to drug trafficking. [@1,4,5,7,11,14,16] The drug and the weapon were seized and
-were to undergo forensic examination. [@3]
+Officers searched a Volvo FH 460 truck pulling a trailer loaded with bags of meat-and-bone meal
+[@1,5,10,11,14,16]; other accounts describe the cargo as flour. [@13,15] Hidden under it were 5,100
+tablets of cannabis weighing 4,535 kilograms. [@1,4,5,6,7,9,10,11,13,14] A 7.62-calibre rifle with no
+ammunition and no identifiable make, model or origin was in the same place. [@1,4,5,8,11,12,13] The
+highway police estimated the loss to drug trafficking at 9.1 million reais
+[@1,4,5,7,9,10,11,13,14,16], and the drug and weapon were sent for forensic examination. [@3]
 
-The stop was made at about 15:30 on the Raposo Tavares highway (SP-270) in Ourinhos, during Operação Impacto, by a Tático Ostensivo Rodoviário team working with the FICCO units of São Paulo and Paraná. [@4]
+## The investigation
 
-The stop was made at kilometre 28 of the SP-327, in a joint action with the São Paulo and Paraná branches of the Força Integrada de Combate ao Crime Organizado (FICCO), coordinated by the Federal Police. [@5,13]
+The operation was carried out with the São Paulo and Paraná branches of FICCO [@2,6,7,10,11], which in
+Paraná is made up of the Federal Police, the Paraná Military Police, the National Secretariat for
+Penal Policies and the Federal Highway Police. [@8,12] The Federal Police described it as a joint
+action of FICCO/PR and the São Paulo Military Police. [@8]
 
-Both the São Paulo and the Paraná branches of the Força Integrada de Combate ao Crime Organizado (FICCO), an integrated anti-organised-crime task force, supported the operation. [@7,10]
-
-The Federal Police said the operation was carried out jointly by the Paraná branch of the Força Integrada de Combate ao Crime Organizado (FICCO/PR) and the São Paulo Military Police (PM/SP). [@8] The Federal Police said the truck had left Paraná and was bound for Rio de Janeiro. [@8] The Federal Police said the rifle found with the cannabis was apparently of 7.62 calibre and had no ammunition. [@8] The FICCO in Paraná, according to the Federal Police, is made up of the Federal Police, the Paraná Military Police, the National Secretariat for Penal Policies and the Federal Highway Police. [@8]
-
-Band attributes the 9.1 million reais estimate of losses to drug trafficking to the authorities generally, rather than to the highway police. [@9,10]
-
-Band credits the 9.1 million real loss estimate to the highway police itself. [@10] Band reports that the case was referred to the Federal Police in Marília and that the driver, who had a criminal record, remained in custody. [@10]
-
-A abordagem ocorreu por volta das 15h25, em uma base de policiamento rodoviário, após a FICCO/PR repassar informações sobre a possibilidade de transporte de materiais ilícitos no caminhão. [@12] O motorista afirmou desconhecer a existência da droga e disse que havia feito uma parada na região de Medianeira, no Oeste do Paraná, perto da fronteira com o Paraguai. [@12] A FICCO/PR é formada pela Polícia Federal, Polícia Militar do Paraná, Secretaria Nacional de Políticas Penais (SENAPPEN) e Polícia Rodoviária Federal. [@12] O fuzil de calibre 7.62 estava sem munições e sem identificação de marca, modelo ou origem. [@12]
-
-Highway police arrested a driver with more than 4.5 tonnes of cannabis and a rifle on the afternoon of Sunday 8 November 2026 on the SP-327 in Ourinhos, in the interior of São Paulo state. [@13] Under the sacks of flour they found 5,100 tablets of cannabis weighing 4,535 kg, and in the same load a 7.62-calibre rifle with no identifying make, model or origin. [@13] Police estimated the seizure caused a loss of 9.1 million reais to international drug trafficking. [@13] Opina News credited the PMESP news agency as its source, reproducing the Military Police's own account of the seizure. [@13]
-
-The driver told police he had made a stop in the Medianeira region of western Paraná, near the border with Paraguay, before heading for Rio de Janeiro. [@15] The truck was stopped at about 15:25 at a highway policing base after the Paraná FICCO passed on information about the vehicle. [@15] Police found the cannabis in bundles hidden among bags of flour in the truck's load. [@15]
+The driver, who has a criminal record, was presented at the Federal Police station in Marília and
+remained in custody at the disposal of the courts. [@1,3,4,5,6,7,9,10,11,13,14,16] He said he did not
+know about the drug and had stopped in the Medianeira region of western Paraná, near the border with
+Paraguay [@12,15]; the Federal Police said the truck had left Paraná and was bound for Rio de Janeiro.
+[@8,15]

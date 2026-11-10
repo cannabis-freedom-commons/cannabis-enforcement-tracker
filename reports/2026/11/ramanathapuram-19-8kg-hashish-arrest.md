@@ -131,104 +131,39 @@ sources:
     publisher: The Week
     date: 2026-11-04
 open_questions:
-  - >-
-    The article gives no separate calendar date for the interception beyond Tuesday; 3 November 2026, the
-    publication date, is used as the incident date.
-  - >-
-    It is unclear whether the reported 10 lakh Sri Lankan rupees refers to the per-kg value or the total haul,
-    so only the Rs 40 lakh valuation is recorded in figures.
-  - Only one accessible source for this event was found after searching.
-  - The earlier 15kg ganja case mentioned in the article is a separate event and is not recorded here.
-  - >-
-    The Hiru News lede values the haul at nearly Rs 50 lakh while quoting police at Rs 2 lakh per kg, which
-    implies about Rs 40 lakh for 19.8 kg, so no new total value is recorded.
-  - >-
-    The Hiru News page credits Times of India at the end, so it republishes rather than independently confirms
-    the account.
-  - >-
-    The article says the arrest happened “on Tuesday” and was published on 3 November 2026; no separate
-    incident date is given, so the publication date is used as the incident date.
-  - Only one accessible source for this event was found after searching in English.
-  - >-
-    The article mentions 15 kg of ganja seized in another S.P. Pattinam case earlier this year without making
-    clear whether it is attributed to the same suspect, so it is left out of the figures.
-  - No court outcome beyond custody at S.P. Pattinam police station was reported.
-  - >-
-    Coordinates are for Ramanathapuram town as the district centre; the precise coastal interception point
-    near Pasipattinam was not separately verified.
-  - >-
-    The third page photo captioned as an SP investigation interview does not clearly show the seizure or
-    arrest and is not added as media.
-  - This account publishes no drug valuation, so no value figure is added or changed.
-  - >-
-    The URL slug says 198 kg but the body states 19.8 kg as 2 kg plus nearly 18 kg; the existing 19.8 kg
-    figure is retained.
-  - >-
-    The residence recovery is given as nearly 18 kg versus the existing 17.8 kg, a rounding difference; the
-    existing figure is retained.
-  - >-
-    The Rediff valuation of Rs 2.5 lakh per kg in India differs from a prior Rs 2 lakh account; no new total
-    value is recorded beyond the per-kg rates as new detail.
-  - >-
-    Six other recent cases with five arrests and eight to nine kg of contraband in the intensive drive are
-    separate events left out here.
-  - >-
-    The article was published on 4 November 2026 about the same Tuesday interception; the existing 3 November
-    2026 incident date is retained.
-  - >-
-    The DailyThanthi article gives no separate calendar date for the interception and was published on 4
-    November 2026 about the same Tuesday operation, so the existing 3 November 2026 incident date is retained.
-  - >-
-    The article rounds the house recovery to about 18 kg while retaining the 19.8 kg total, differing from the
-    existing 17.8 kg breakdown, so the existing figure is retained.
-  - >-
-    The six additional cases with five arrests and eight to nine kg mentioned in the same intensive-drive
-    paragraph are separate events left out here.
-  - >-
-    The Ada Derana account gives the house recovery as nearly 18 kg rather than the existing 17.8 kg while
-    retaining the 19.8 kg total, so the existing breakdown is retained.
-  - >-
-    The new account was published on 4 November 2026 about a Wednesday briefing on the same interception; the
-    existing 3 November 2026 incident date is retained.
-  - >-
-    The six other cases with five arrests and eight to nine kg of contraband in the same intensive-drive
-    paragraph are separate events left out here.
-  - Tamilwin describes the haul only as worth several crore rupees without stating a total, and its page metadata mentions a per-kg figure that the body does not restate; no value is added.
-  - This account attributes the earlier 15 kg ganja case to S.P. Pattinam police station and says Mano was absconding in that case; it does not mention the separate Thondi case described elsewhere.
-  - The six other cases, five arrests and eight to nine kg of contraband mentioned in the same intensive-drive paragraph are separate events left out here.
+  - The value is given as nearly Rs 40 lakh, nearly Rs 50 lakh and about Rs 10 crore, and it is unclear whether the 10 lakh Sri Lankan rupees is per kilogram or for the whole haul.
+  - The earlier 15 kg ganja case in which Mano was wanted is placed at Thondi police station by some accounts and at S.P. Pattinam by others.
+  - The amount found at his home is given as 17.8 kg or nearly 18 kg.
+  - No calendar date is given beyond Tuesday; 3 November 2026 is the date of the first report.
+  - No court step beyond custody has been reported.
+  - Six other cases in the same drive, with five arrests, are left out of this report.
 ---
 
-Police arrested Mano in Ramanathapuram district after recovering 19.8 kilograms of hashish. [@1,2,3,4,5,6,7,8,9,10,11,12,13,15]
+S.P. Pattinam police in Ramanathapuram district arrested 34-year-old A. Mano and recovered 19.8
+kilograms of hashish. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15] Mano, son of Anthony Xavier, is from Thalir
+Marungoor in Thiruvadanai taluk. [@4,6,7,9]
 
-S.P. Pattinam police arrested 34-year-old A. Mano in Ramanathapuram district.
-[@4,7,8,9,12,14] Mano is from Thalir Marungoor in Thiruvadanai taluk. [@4,7]
+## The interception
 
-Acting on a tip-off, a special team led by Police Inspector David Raviraj went
-to the coastal area near Pasiyamman Temple at Pasipattinam where suspected
-illegal drug activity was taking place. [@4,6,7,8] The team intercepted Mano and
-recovered 2 kg of hashish from his possession. [@4,6,7,8,9,10,11,12,14] Questioning led police to
-his residence, where another 17.8 kg was found, bringing the total seizure to
-19.8 kg of hashish. [@4,6,7,8,9,10,12,14]
+Acting on a tip-off, a special team led by Inspector David Raviraj with Sub-Inspector Ramesh went to
+the coast near the Pasiyamman Temple at Pasipattinam. [@4,6,7,8,10,11,13,15] Around 12.50 pm the team
+intercepted Mano and recovered 2 kg of hashish from him. [@1,2,3,4,6,7,8,9,10,11,12,14] Questioning led
+police to his home, where another 17.8 kg was found. [@4,6,7,8,9,10,12,14] Police said the hashish had
+been stocked for smuggling to Sri Lanka. [@6,8,9,10,11,12] Superintendent of Police G. Chandeesh, who
+visited the scene, said Mano had been living as a fugitive. [@4,9]
 
-Investigators described Mano as a repeat offender with multiple pending cases
-under the Narcotic Drugs and Psychotropic Substances Act, including a Thondi
-police station case from 2025. [@4] Ramanathapuram Superintendent of Police G.
-Chandeesh said Mano had been evading arrest and living as a fugitive before the
-operation. [@4] The accused was taken into custody and brought to the S.P.
-Pattinam police station following legal protocols. [@4,7]
+Police valued the hashish at Rs 2.5 lakh a kilogram in India and nearly Rs 10 lakh a kilogram in Sri
+Lanka [@8,10,11,12]; one account puts the haul at nearly Rs 40 lakh [@1], another at about Rs 10 crore.
+[@9] They described hashish as a concentrated cannabis resin, of which one kilogram is a commercial
+quantity, against 20 kg for ganja. [@8,10,11]
 
-Mano has two pending NDPS cases and had been absconding in an S.P. Pattinam case in which police had seized 15 kg of ganja until his arrest on Tuesday. [@5,7,14]
+## The case
 
-Mano is the son of Anthony Xavier. [@6,9] Police said the hashish had been stocked for smuggling to Sri Lanka. [@6,8,9,10,11,12]
+Mano has pending cases under the Narcotic Drugs and Psychotropic Substances Act, including a 2025
+case at Thondi police station. [@4,5,7,14] He was wanted in an earlier case involving 15 kg of ganja,
+placed at Thondi [@8,10,11,13] or at S.P. Pattinam [@5,7,14] police station.
 
-Police registered the new case as Crime No. 159/2026 under NDPS Act sections 8(c) and 20(b)(ii)(C) and said further legal action was under way. [@7] Police said they were investigating where the hashish came from, who planned to smuggle it to Sri Lanka, who else was involved and any international trafficking links. [@7,14]
-
-Police valued the seized hashish at Rs 2.5 lakh per kg in India, rising to nearly Rs 10 lakh per kg in Sri Lanka. [@8,10,11,12] Police described hashish as a highly concentrated cannabis resin where one kg meets the commercial-quantity threshold compared with 20 kg for ganja. [@8,10,11] Police said a wider network is involved and further arrests will follow. [@8,9,10] Police have started procedures to attach movable and immovable properties bought with drug-smuggling proceeds by the accused and relatives. [@8,10,11] Mano was already wanted in a previous case involving 15 kg of ganja registered at Thondi police station. [@8,10,11,13]
-
-Police valued the 20 kg haul at about Rs 10 crore. [@9] Ramanathapuram district superintendent of police Sandeesh visited the scene to inspect it. [@9]
-
-The patrol team was led by Inspector David Ravirajan with Sub-Inspector Ramesh. [@10,11,13,15]
-
-Around 12.50pm, police intercepted Mano [@1,2,3] and recovered 2kg of hashish from his possession. [@1,2,3]
-
-Police described the 19.8kg haul as worth nearly Rs 40 lakh. [@1]
+Police registered Crime No. 159/2026 under NDPS sections 8(c) and 20(b)(ii)(C) [@7] and held him at
+S.P. Pattinam police station. [@4,7] They are investigating where the hashish came from, who planned to
+take it to Sri Lanka and any international links [@7,14], said more arrests would follow [@8,9,10], and
+have begun to attach property bought with smuggling proceeds by Mano and his relatives. [@8,10,11]

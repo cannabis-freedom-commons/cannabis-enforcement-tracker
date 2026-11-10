@@ -96,71 +96,59 @@ sources:
     publisher: ThePrint
     date: 2026-11-03
 open_questions:
-  - No weight, packet count or value for the recovered ganja was published, so no cannabis quantity can be recorded.
-  - The sources give no calendar date for the attack; Monday before the 3 November publications is used as 2 November 2026.
-  - The chief minister first reported eight arrests in the morning, while the district police chief later reported nine after an overnight operation; the report uses nine.
-  - Only the New Indian Express account names the recovered substance as ganja; the corroborating ANI account describes smuggling and illegal goods without naming cannabis.
-  - No court outcome beyond the planned production in court on 3 November was reported.
-  - 'Left out, as its quotation was not found in ANI: The assault took place on Monday morning in the Ashabari area under Boxanagar.'
-  - This source gives no weight, packet count or value for the recovered ganja, so no cannabis quantity can be recorded from it.
-  - The new account reports ten arrests out of 19 named accused, while the report records nine, so whether a tenth arrest occurred after the earlier publications remains unclear.
-  - The new account describes the injured as three jawans including the company commander and is summarised as the commander plus three jawans, so the exact number of injured personnel remains unclear.
-  - The new account says a pump-action gun was snatched, while the report says firearms were allegedly attempted to be snatched, so whether a weapon was taken or only an attempt occurred remains unclear.
-  - The eight new arrests are dated to Thursday night and early Friday morning, so the incident date is set to the 6 November publication date of this stage.
-  - The article does not say how many of the 18 arrested face the NDPS Act charge specifically, or whether any ganja was recovered in the BSF interception.
-  - No court outcome for the eight new arrests was reported beyond production before a Sepahijala court.
-  - No weight, packet count or value for the ganja the BSF intercepted on 2 November was published.
-  - The article identifies no specific NDPS Act section and reports no court outcome for the newly arrested woman.
-  - The article says the search parties also aim to seize contraband, but does not say whether any cannabis was found in the 7 November searches.
-  - This account puts the total at 21 accused, four of them women, while the report records 19 after the 7 November arrest of one woman, so the exact number held on that date differs between sources.
-  - The report says the 2 November interception recovered ganja, while this account describes the BSF stopping ganja smugglers without stating that any cannabis was seized in the interception.
-  - The page does not say whether the two main accused detained by the BSF on 7 November are counted inside the stated total of 21 arrested, or held separately.
-  - No weight, packet count or value for the ganja the BSF intercepted on 2 November is published.
-  - No charge under a specific section and no court outcome for the two newly detained main accused is reported.
-  - The article credits the story to IANS and reproduces the same police account as other outlets, so it is not independent reporting.
-  - The account gives the woman's remand until 13 November but no outcome for the other newly arrested accused beyond being handed to Kalamchaura police station.
-  - The report names a villager, Hefzur Rahman, as the person whose alleged beating by BSF personnel villagers say triggered the protest; the BSF and police accounts in other sources describe the sequence differently.
-  - The page's later passages beyond the captured text, including the FIR account of the attack and the claim about ganja smuggling, were not available for checking, so they are not recorded here.
+  - No weight, packet count or value was published for the ganja, and some accounts do not say any was seized.
+  - The arrest count rises from eight or nine to 18, 19 and 21 in different accounts, and it is unclear whether the two main accused detained by the BSF are counted in the 21.
+  - Accounts differ on whether a pump-action gun was snatched or only an attempt was made.
+  - The injured are given as three personnel including the company commander, or as the commander and three others.
+  - Villagers say the clash began when BSF men beat a local man, Hefzur Rahman; the BSF and police describe a challenge to smugglers.
+  - It is not said how many of the accused face the narcotics charge in particular.
+  - No court step beyond remand has been reported.
 ---
 
-Tripura police arrested nine people, including three women, for allegedly
-attacking Border Security Force troopers in Sepahijala district. [@1,3,4,5] Three
-personnel, including an assistant commandant who is the local company commander,
-were injured when a mob of men and women attacked them with sticks. [@1] The mob
-allegedly attempted to snatch their firearms and damaged a force vehicle. [@1,5]
-Police said nine individuals arrested in an overnight operation would be
-produced in court on Tuesday. [@2,4]
+Tripura police arrested a growing number of people over an attack on Border Security Force (BSF)
+troopers at Ashabari village, near Boxanagar in Sepahijala district, on the border with Bangladesh,
+on Monday 2 November 2026. [@1,3,4,5,13]
 
-The incident occurred on Monday at Ashabari village near the India-Bangladesh
-border during a road blockade villagers enforced to protest the alleged assault
-of a local resident by the BSF. [@1] Sepahijala superintendent of police Bijoy
-Debbarma said BSF personnel on duty had noticed smuggling activities on the
-border. [@1,5] When the BSF personnel challenged the smugglers, the smugglers
-pelted stones and scuffled with them, after which the personnel recovered
-packets of ganja from the spot. [@1,3,4] Those who fled mobilised villagers and
-enforced a road blockade, and the BSF company commander travelling with a
-constable and driver came under attack at the blockade. [@1,3,5]
+## The attack
 
-Police later brought the situation under control. [@1] The superintendent said
-the chief minister and Home Department had directed stringent action and the
-director general of police was monitoring the investigation. [@2] He said
-efforts were under way to arrest those still absconding and produce them before
-the court. [@2]
+At about 9 a.m. BSF personnel patrolling the border [@4], about 200 metres from it [@13], noticed
+smuggling, superintendent of police Bijoy Debbarma said [@1,5]; the group was allegedly smuggling
+ganja across the border. [@8,10,12] When challenged, the smugglers threw stones and scuffled with the
+troopers, who recovered packets of ganja from the spot. [@1,3,4] Those who fled mobilised villagers and
+blocked the road, and a mob of about 50 men and women [@8,10,12] attacked the BSF company commander, an
+assistant commandant travelling with a constable and a driver, with sticks. [@1,3,4,5] Three personnel
+including the commander were injured and taken to hospital [@1,4,5], and one attacker was hurt. [@6,7]
+The attackers allegedly snatched a pump-action gun and damaged a BSF vehicle. [@1,4,5,6,7]
 
-The attack occurred at about 9 a.m. on 2 November while BSF personnel were on duty patrolling the border. [@4] The nine detained comprised six men and three women. [@4] Two constables and an assistant commandant were seriously injured in the attack and taken to hospital. [@4,5] After initially fleeing, the group returned with others, tried to block the road, and snatched the personnel's weapons during the assault. [@4]
+The BSF said its men showed restraint and used no lethal weapons [@5], and called the attack revenge for
+its efforts against cross-border drug trade. [@13] Local residents said the clash began after BSF
+personnel took away a villager, Hefzur Rahman, and beat him, fracturing his foot, after which villagers
+blocked the Ashabari–Rahimpur road in protest. [@1,12] Police brought the situation under control. [@1]
 
-The BSF complaint names 19 attackers, of whom ten had been arrested and nine remained fugitive with search operations and raids continuing. [@5] Police said the nine fugitives might cross the India-Bangladesh international border into Bangladesh, so Tripura police directed the BSF to maintain special vigilance on the border. [@5] BSF Tripura Frontier inspector general Princi Rani and Sepahijala superintendent Bijoy Debbarma visited the Ashabari border area on Tuesday with other officers and briefed chief minister Manik Saha. [@5] BSF, Tripura State Rifles and police held a joint flag march on Wednesday while tension continued in the area. [@5] BSF said its personnel showed restraint and did not use lethal weapons despite the attack. [@5]
+## Arrests
 
-Police said the eight newly arrested people would be produced before a local court in Sepahijala district at the earliest. [@6,7] All 18 people arrested have been booked under the Narcotic Drugs and Psychotropic Substances Act, 1985, the Bharatiya Nyaya Sanhita, 2023, and the Prevention of Damage to Public Property Act, 1984. [@6,7] Chief Minister Manik Saha chaired a high-level meeting with senior security officials in Agartala on Thursday night to review the incident and the law and order situation, directing zero tolerance towards cross-border smuggling. [@6,7] One of the alleged attackers was injured in the incident. [@6,7] The attackers allegedly snatched a pump-action gun from one of the BSF personnel, not only attempted to do so. [@6]
+An FIR was registered at Kalamchowra police station on the day of the attack on a BSF complaint naming
+at least 19 people and alleging that they snatched a constable's weapon and struck him with intent to
+murder. [@5,13] Nine people, six men and three women, were arrested in an overnight operation and were
+to be produced in court on Tuesday. [@1,2,3,4] One account soon put the arrests at ten, with nine still
+sought; police asked the BSF to watch the border in case they fled to Bangladesh. [@5] Eight more were
+arrested on Thursday night and early Friday, taking the total to 18 including three women. [@6,7,8]
 
-The attackers also allegedly snatched a pump-action gun from one of the BSF personnel and damaged a BSF vehicle. [@7] Eight more people were arrested over the attack in Sepahijala district on Thursday night and early Friday morning, taking the total held to 18, including three women. [@7,8]
+On 7 November a woman, Hasina Khatun, was arrested at Kalapania after being identified from video
+footage and was remanded to police custody until 13 November, taking the number held to 19.
+[@8,10,12] The same day police said three more, including a woman, had been arrested, bringing the
+total to 21, four of them women. [@9,12] Two of the main accused, named as Rabiul Hossain and Mahabul
+Hossain, were detained by the BSF and handed to Kalamchaura police station; footage purportedly shows
+Rabiul snatching a service rifle and Mahabul beating troopers with a stick. [@9,11,12] The accused were
+booked under the Narcotic Drugs and Psychotropic Substances Act, the Bharatiya Nyaya Sanhita and the
+Prevention of Damage to Public Property Act. [@6,7,9] Police and the BSF were searching homes and shops
+for the rest of the accused and for contraband. [@8,10]
 
-A middle-aged woman, Hasina Khatun, was arrested at Kalapania in Sepahijala district on 7 November over the 2 November attack at Ashabari village, taking the number held to 19, police said. [@8,10,12] Police said an intensive search operation launched after the 2 November attack was still under way to catch the remaining accused. [@8,10] Police and the BSF were jointly searching suspected locations, including residences and shops, to catch the accused and seize contraband. [@8,10] The 2 November interception was of a group alleged to be smuggling ganja across the India-Bangladesh border, after which a mob of around 50 men and women attacked the BSF personnel. [@8,10,12] Chief Minister Manik Saha held a series of meetings with senior security officials to review the incident and the state's law and order situation. [@8]
+## Response
 
-Three more people, including a woman, were arrested over the 2 November attack, taking the number of accused held in the case to 21, four of them women, Sepahijala district police said on 7 November. [@9,12] Two of the main accused, who BSF footage showed snatching a service rifle and beating personnel with a stick, were taken into custody on 7 November and handed to Kalamchaura police station. [@9] All 21 accused have been booked under the Narcotic Drugs and Psychotropic Substances Act, the Bharatiya Nyaya Sanhita and the Prevention of Damage to Public Property Act. [@9]
-
-Two of the main accused, named by police as Rabiul Hossain and Mahabul Hossain, were detained by the BSF on 7 November and later handed over to Kalamchaura police station during the night. [@11,12] Investigators said video footage purportedly shows Rabiul snatching the service rifle of a BSF jawan during the attack and Mahabul assaulting BSF personnel with a stick. [@11]
-
-The arrest of the woman on 7 November was made after her identification from video footage, and she was remanded to police custody until 13 November. [@12] Local residents alleged the clash began after BSF personnel took away a villager, Hefzur Rahman, and beat him, fracturing his foot, after which angry villagers blocked the Ashabari-Rahimpur road in protest. [@12]
-
-The BSF complained that the attack was revenge for its attempts to catch people involved in cross-border drug trade. [@13] The BSF column was moving through Boxanagar in Sipahijala district, about 200 metres from the Bangladesh border, when the incident took place on Monday. [@13] An FIR was registered at Kalamchowra police station on the day of the attack, followed by the arrests. [@13] At least 19 people were booked on the BSF complaint, which also alleged that the accused snatched a constable's service weapon and struck him with intent to murder. [@13]
+The superintendent said the chief minister and the Home Department had ordered stringent action and the
+director general of police was monitoring the investigation. [@2] BSF Tripura Frontier inspector general
+Princi Rani and Debbarma visited the area on Tuesday and briefed Chief Minister Manik Saha, and the BSF,
+Tripura State Rifles and police held a joint flag march on Wednesday. [@5] Saha chaired a meeting of
+security officials in Agartala on Thursday night and called for zero tolerance of cross-border
+smuggling. [@6,7,8]

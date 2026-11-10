@@ -104,71 +104,34 @@ sources:
     date: 2026-11-10
     language: ml
 open_questions:
-  - Neither account gives a date for the arrest beyond 'Monday'; 9 November 2026, the publication date, is used as the incident date.
-  - The hashish oil is described only as seized hashish oil, with no laboratory confirmation or street value reported.
-  - The eight grams of MDMA are outside the tracker's cannabis scope and are not recorded in the figures.
-  - No charge, charge sheet, remand order or court appearance is reported for Dhanesh.
-  - The earlier Aluva lodge arrest of Harikrishnan with 185 grams of MDMA and the Thoppumpady arrest of Shinu Sebastian with seven grams are separate arrests reported as MDMA-only, so they are not counted as cannabis arrests in this report.
-  - Rediff.com publishes the PTI text, which restates the police statement also reported by ETV Bharat; the two are not fully independent.
-  - Times Kerala gives no separate arrest date, and its own text does not say where the arrest took place; Angamaly is taken from the other accounts of the same arrest cited here.
-  - This account repeats the same police briefing as ETV Bharat and Metro Vaartha and is not independent confirmation.
-  - Samakalika Malayalam gives the earlier Aluva seizure from Harikrishnan as 180 grams of MDMA, while the ETV Bharat-based account in this report gives 185 grams; the report keeps the figure already recorded.
-  - The Samakalika account does not name the police team that made the arrest, unlike the ETV Bharat report.
-  - Suprabhaatham gives no separate date or place for the arrest; it links the arrest only to the earlier Aluva MDMA seizure from Harikrishnan.
-  - Mathrubhumi repeats the same police account as the ETV Bharat-based reports already cited and is not independent confirmation.
-  - Anweshanam says the man arrested earlier in Aluva had 180 grams of MDMA, while accounts already in the report give 185 grams; the report keeps 185 grams.
-  - Anweshanam gives no separate date for the arrest; 9 November 2026 is its publication date.
-  - Anweshanam does not name the investigating team or its officers, so its account cannot confirm who led the arrest from that source alone.
-  - The page's only picture carries no credit and no caption stating who or what it shows, so no picture from it is added.
-  - Neither Sirajlive nor Vachakam gives the exact day of the arrest; they were published on 9 and 8 November 2026, and the tracker report uses 9 November 2026 as the incident date.
-  - The eight grams of MDMA seized with the hashish oil are outside the tracker's cannabis scope and are not counted in the figures.
-  - Sirajlive says the drugs came from Bengaluru, Mysuru and elsewhere, while accounts already in the report describe the bunches as coming from the accused's Nanjangudu plantation near Mysuru.
-  - Vachakam's timestamp shows 8 November 2026 although its page also carries items dated 9 November, so its publication date could not be confirmed exactly.
-  - No charge, remand or court appearance is reported in either account.
-  - The Mathrubhumi page repeats the same police briefing as the accounts already cited in the report and is not independent confirmation.
-  - Mathrubhumi gives no separate date for the arrest, which the report dates to 9 November 2026 from the other accounts.
-  - Mathrubhumi gives no figure for the banana plantation's size or its crop value.
+  - No date is given for the arrest beyond a Monday; 9 November 2026 is the date of the first reports.
+  - No laboratory result or value was reported for the hashish oil.
+  - Harikrishnan's earlier seizure in Aluva is given as 185 grams of MDMA in some accounts and 180 grams in others.
+  - One account says the drugs came from Bengaluru, Mysuru and elsewhere rather than through the plantation.
+  - No charge, remand or court appearance has been reported.
+  - The accounts repeat the same police briefing.
 ---
 
-Police arrested Dhanesh S Nair, 31, known as Danny, the alleged main accused of
-a network that smuggled MDMA from Bengaluru into Kerala, at Angamaly in
-Ernakulam district. [@1,6,8,9,12] A special investigation team led by Aluva Deputy
-Superintendent of Police Baiju Paulos caught him in Angamaly. [@1,11] Officers
-seized 803 grams of hashish oil from him, the only cannabis product counted in
-this event; eight grams of MDMA were seized with it. [@1,4,5,6,8,9,12]
+Police arrested Dhanesh S Nair, 31, known as Danny or Danny Bhai, the alleged main accused of a network
+that smuggled MDMA from Bengaluru into Kerala, at Angamaly in Ernakulam district. [@1,6,7,8,9,12] Police
+gave his home as Parayil house in Vayyapuram village, near Harippad. [@5,7] A special investigation
+team led by Aluva Deputy Superintendent of Police Baiju Paulos, with the inspectors of the Angamaly
+and Nedumbassery stations, caught him after seeing him loitering near the Angamaly railway gate.
+[@1,4,6,8,11] Officers seized 803 grams of hashish oil from him, the only cannabis product counted here,
+and eight grams of MDMA. [@1,4,5,6,8,9,12]
 
-Police said Dhanesh has his own banana plantation and farmland at Nanjangudu
-near Mysuru and used them as cover for the trafficking. [@1,4,5,8,12] Police said he
-recruited young people to move and distribute the drugs, took them to Bengaluru
-and nearby areas, and had MDMA hidden inside banana bunches carried on to agents
-and buyers in Kerala. [@1]
+## The banana trade
 
-Videos and other visuals on his mobile phones showed how the drugs were hidden
-inside banana bunches, the investigation team found. [@1,5,12] The lead to Dhanesh
-came from the mobile phone of Harikrishnan, arrested a day earlier at a lodge in
-Aluva with 185 grams of MDMA. [@2,4,5,6,8,10] Harikrishnan and Shinu Sebastian, who was
-arrested with seven grams of MDMA at Thoppumpady in Kochi, distributed the drugs
-on Dhanesh's instructions through an Instagram account under the name Danny Bhai
-and passed the proceeds to his accounts, police said. [@1]
+Police said Dhanesh used his banana plantation and farmland at Nanjangudu near Mysuru as cover for the
+trafficking [@1,4,5,8,12]: nendran bunches were trucked daily to markets across Kerala, with drugs hidden
+inside them. [@3,8] He had won awards for his banana farming, including the state's best young farmer
+award in 2023, and studied agribusiness in Germany. [@9,12] Police said he recruited young people to move
+and sell the drugs [@1], coordinating sales through Instagram and using couriers [@4,8], and that videos
+on his phones showed how the drugs were hidden in the bunches. [@1,5,12]
 
-After Harikrishnan's arrest the investigation widened into Tamil Nadu and
-Karnataka under District Police Chief K S Sudarshan, and the team said it had
-broken the main supply line bringing drugs to Kerala from the Bengaluru-Mysuru
-area. [@1,9] Police said the investigation is continuing to find more members of
-the gang. [@1,8]
-
-Times Kerala reports that nendran plantain bunches from his Mysore plantation were trucked every day to markets across Kerala, with drugs hidden inside those loads. [@3]
-
-A special investigation team led by Aluva Deputy Superintendent of Police Baiju Paulos caught him in Angamaly after officers saw him loitering near the Angamaly railway gate. [@4] Police said sales were coordinated through Instagram and distribution was handled by couriers. [@4,8]
-
-Suprabhaatham gives Dhanesh S Nair's home as Vayyapuram in Harippad. [@5]
-
-Aluva Deputy Superintendent of Police Baiju Paulos led the arrest team, which included the inspectors of the Angamaly and Nedumbassery police stations. [@6]
-
-Dhanesh, known as Danny Bhai, was arrested; police gave his home address as Parayil house in Vayyapuram village, Payippad, Harippad. [@7]
-
-Anweshanam said officers moved in after seeing him loitering near the Angamaly railway gate. [@8] Anweshanam said police described hiding the drugs inside banana bunches brought from Nanjangudu to Kerala as the gang's method. [@8]
-
-Dhanesh won awards as a young farmer for his banana cultivation and studied agribusiness in Germany. [@9,12]
-
-Mathrubhumi reports that Dhanesh S Nair received the state government's award for the best young farmer in 2023. [@12]
+The lead came from the phone of Harikrishnan, arrested a day earlier at a lodge in Aluva with 185 grams
+of MDMA. [@2,4,5,6,8,10] He and Shinu Sebastian, arrested with seven grams of MDMA at Thoppumpady in Kochi,
+sold the drugs on Dhanesh's instructions through an Instagram account named Danny Bhai and passed the
+proceeds to his accounts, police said. [@1] The investigation then widened into Tamil Nadu and Karnataka
+under District Police Chief K S Sudarshan, and the team said it had broken the main supply line from the
+Bengaluru–Mysuru area [@1,9]; it is looking for more members of the gang. [@1,8]

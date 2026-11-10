@@ -134,60 +134,27 @@ sources:
     publisher: CTV News
     date: 2026-11-06
 open_questions:
-  - The article gives no time of day for the 23 October visit; that is the date police state for the welfare call, while the charges and volumes were announced in the 6 November release.
-  - Some of the seized edibles could be psilocybin edibles, but police list only psilocybin powder separately, so all 12,962 packages and 26 kilograms of loose edibles are counted as cannabis.
-  - The 209 grams of THC vaping cartridges are included in the cannabis weight total; no weight for the cartridges' packaging or carrier liquid was given.
-  - The C$639,000 street value is police's estimate for all controlled substances seized, psilocybin included, and cannot be divided between cannabis and psilocybin.
-  - CityNews rounds the value to around $640,000; the report uses the police figure of approximately $639,000.
-  - CityNews names one accused as Yuan Li, while York Regional Police, CP24 and the Toronto Sun give Yuan Lin; the police spelling is used.
-  - No plant count, grow area or number of rooms used for the lab was published.
-  - No court dates, bail conditions or plea information were reported; the case is at the charge stage.
-  - The Toronto Sun report is behind a metered paywall and was read only as far as the visible story text.
-  - The CP24 fire-crew photo and the police handout pictures of the lab equipment and edibles may show the same scenes, but no duplicate address could be confirmed, so both are linked.
-  - 'Left out, as its quotation was not found in York Regional Police: Joseph Li, 41, Yuan Lin, 39, and Michelle Li, 39, all of Markham, were charged with possession for the purpose of trafficking, possession of a prohibited device, producing cannabis, possessing cannabis for distribution and unlawful distribution of cannabis.'
-  - 'Left out, as its quotation was not found in York Regional Police: The charges were laid by the force''s Guns, Gangs and Drug Enforcement Unit, which asked anyone with information to contact it.'
-  - Left out case stage, as its quotation was not found in York Regional Police.
-  - StratCann adds that the Buddha Boys website was still live as of 6 November 2026 and that Buddha Boys products had been found in a seizure in Ontario in August 2026.
-  - StratCann gives no location for the Markham residence beyond the city, and no arrest date separate from the 23 October welfare call.
-  - UL Lawyers gives the drug total as nearly $640,000, in line with the police estimate of approximately C$639,000; the report uses the police figure.
-  - The page is a reprint of the York Regional Police release with no independent reporting, so it does not add facts the report lacks.
-  - The text gives a weight ("26 kg") but the figures have no kg_seized; check whether it belongs there.
-  - RED FM names two of the accused as Joseph Li and Michelle Li and the third as Yuan Lin, the same spelling it uses for one accused while CityNews gave Yuan Li; the police spelling of the third accused's surname and given name remains unconfirmed.
-  - RED FM states that the charges have not yet been proven in court, which confirms only that no trial outcome had been reported when it published.
-  - The NewmarketToday page reproduces the York Regional Police media release with no independent reporting, so it does not resolve whether the 26 kilograms of loose edibles are all cannabis.
-  - The page's photo is a York Regional Police supplied composite whose components could not be confirmed as distinct from the police handout photos already linked in the report, so it is listed here without being added to the report.
-  - NewmarketToday gives the same charge list as York Regional Police, but the page does not say which charge was laid against which of the three accused.
-  - CTV News gives the date as November 6, 2026 and its page states the charges were announced in a police news release on Friday; it adds no detail on bail, court dates or the role police allege for each accused.
-  - CTV News repeats the York Regional Police account without independent reporting, so it does not resolve whether the 26 kilograms of loose edibles are all cannabis.
-  - CTV News spells the drug psylocibin; the report keeps the spelling psilocybin used in the York police release.
+  - Some of the edibles may have contained psilocybin, but police listed only psilocybin powder separately, so all are counted as cannabis.
+  - The C$639,000 covers all the substances seized, psilocybin included.
+  - One outlet names the third accused Yuan Li; police give Yuan Lin.
+  - No plant count or grow area was published.
+  - It is not said which charge was laid against whom, and no court dates or bail conditions have been reported.
 ---
 
-Two men and one woman from Markham were arrested after York Regional Police
-dismantled a clandestine drug lab at a home in the city. [@1,5,8] Officers went to a
-residence in the area of Jeremy Drive and Fred Varley Drive on 23 October 2026
-for a welfare check, and found evidence consistent with the production and
-distribution of controlled substances in a lab setting. [@2,6,7,10,11] The lab was
-dismantled with help from the Office of the Fire Marshal, Markham Fire and
-Emergency Services and York Region Paramedic Services. [@2,7]
+Two men and one woman from Markham were arrested after York Regional Police dismantled a clandestine
+drug lab at a home in the city. [@1,5,8] Officers went to a residence in the area of Jeremy Drive and
+Fred Varley Drive on 23 October 2026 for a welfare check, and found evidence consistent with the
+production and distribution of controlled substances in a lab setting. [@2,6,7,10,11] The home is near
+Warden and 16th avenues. [@4] The lab was dismantled with help from the Office of the Fire Marshal,
+Markham Fire and Emergency Services and York Region Paramedic Services. [@2,7]
 
-Investigators seized 12,962 packages of cannabis edibles, 209 grams of THC
-vaping cartridges, 26 kilograms of loose cannabis edibles and eight kilograms of
-dried cannabis. [@2,5,6,7,8,10,11] They also found 18 kilograms of psilocybin powder, a
-psychedelic mushroom product rather than cannabis, so its weight is not included
-in the cannabis total. [@2] Ammunition, a conducted energy weapon and about
-C$100,000 in cash were seized at the residence. [@2]
+Investigators seized 12,962 packages of cannabis edibles, 209 grams of THC vaping cartridges, 26
+kilograms of loose cannabis edibles and eight kilograms of dried cannabis. [@2,5,6,7,8,10,11] They also
+found 18 kilograms of psilocybin powder, a psychedelic mushroom product not counted in the cannabis
+total. [@2] Ammunition, a conducted energy weapon and about C$100,000 in cash were seized. [@2,5,11]
+Police put the street value of the drugs at approximately C$639,000 [@2,6,10]; CityNews gave around
+$640,000. [@3]
 
-York police put the estimated street value of the drugs seized at approximately
-C$639,000. [@2,6,10] CityNews reported the same figure as around $640,000 worth of
-illegal substances. [@3]
-
-Investigators learned the drugs produced at the home were sold mainly online
-under the name Buddha Boys, through illegitimate websites that mailed or
-delivered the orders. [@1,5,6,7,9,11]
-
-The Toronto Sun placed the home in the Jeremy and Fred Varley drives area, near
-Warden and 16th avenues. [@4]
-
-Ammonition, a conducted energy weapon and about C$100,000 in cash were seized at the residence. [@5,11]
-
-RED FM gives the accused as Joseph Li, 41, Yuan Lin, 39, and Michelle Li, 39, all of Markham, and states that the charges have not yet been proven in court. [@9]
+Investigators learned the drugs were sold mainly online under the name Buddha Boys, through
+illegitimate websites that mailed or delivered the orders. [@1,5,6,7,9,11] Joseph Li, 41, Yuan Lin, 39,
+and Michelle Li, 39, all of Markham, were charged; the charges have not been proven in court. [@9]

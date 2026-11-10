@@ -124,33 +124,10 @@ sources:
     date: 2026-11-08
     language: pt
 open_questions:
-  - The operation developed over several days; 6 November 2026 is the publication date used for the incident date.
-  - 'No event-specific photo could be listed: the DN page''s only image is credited as an archive photo, and the Sul Informação image has no caption establishing it shows this seizure.'
-  - The judicial outcome after the first interrogation was not reported in the cited sources.
-  - The SOL article carries only the same-day publication date of 6 November 2026; the police action took place over the preceding days and no separate operation date is given.
-  - No outcome of the first judicial interrogation or of any coercive measures was reported.
-  - The page photo is captioned only with the article headline and its credit is not given, so it is not established to show this seizure.
-  - The Renascença page picture has no caption or credit establishing that it shows this seizure, so it is not listed as media.
-  - The article gives no separate date for the operation, only that the detainees would appear in court 'today'; 6 November 2026 is its publication date.
-  - The PJ statement page on policiajudiciaria.pt could not be opened, so it provides no corroborating quotation.
-  - Braga TV gives no separate date for the operation; 6 November 2026 is its publication date, and the tracker report dates the event the same way.
-  - The article's only picture is captioned as an illustrative image, so it is not established to show this seizure and none is listed as media.
-  - Rua Direita gives no separate date for the police action, only that the detainees would appear in court 'today', its publication date of 6 November 2026.
-  - The page's only image is a generic file named drugs.jpg with no caption or credit, so no event photo is listed from this page.
-  - Beyond the house-search sentence, the page's body paragraphs could not be validated against the captured text, so none of its other sentences are quoted here.
-  - Jornal TVS gives no separate date for the operation, only that it ran 'nos últimos dias'; 6 November 2026 is its publication date.
-  - The article gives no separate date for the police action, only that it ran over recent days and that the detainees would face a first judicial interrogation on Friday, 6 November 2026, which is also its publication date.
-  - The page's second picture illustrates an earlier feature on trafficking along the Portuguese coast, not this operation, so only the first image is listed.
-  - Rádio Sines gives no separate date for the police action beyond saying it ran over the last few days, and no court outcome is reported.
-  - The video page gives no separate operation date; 7 November 2026 is its publication date.
-  - The page names only the Alentejo coast and gives no operation details beyond the headline summary.
-  - Jornal de Notícias dates the ramming and arrests to the early hours of Thursday, between Zambujeira do Mar and São Teotónio, while the report's date is the 6 November publication date used for the operation as a whole.
-  - Jornal de Notícias gives the four detainees' nationalities as Senegalese, Spanish and Moroccan, a detail not given in the sources already cited by the report.
-  - Jornal de Notícias reports no injuries in the collision and no court outcome; its account stops at the arrests and the drug seizure.
-  - The page gives no date for the operation itself, only that it ran over recent days and that the detainees would face a first judicial interrogation on Friday 6 November 2026, its publication date.
-  - Rádio Pax gives no separate date for the police action beyond saying it ran over recent days and that the four suspects were to appear in court that day; 6 November 2026 is its publication date.
-  - 'The page image carries only the credit ''Fonte: PJ'' with no caption describing the scene, so it is not clearly linked to this seizure.'
-  - The page does not report the outcome of the first judicial interrogation, which other coverage recorded as pre-trial detention.
+  - The operation ran over several days and the ramming happened early on a Thursday; 6 November 2026 is the date of the first reports.
+  - The four were not named, and only one account gives their nationalities.
+  - It is not said whether the boat itself was seized.
+  - No court step after the pre-trial detention has been reported.
 media:
   - kind: photo
     url: https://m.noticiasaominuto.com/pais/3079796/narcotrafico-4-detidos-e-1-1-toneladas-de-polen-de-haxixe-em-odemira
@@ -159,36 +136,28 @@ media:
     caption: 'Photo published with the article on the Odemira seizure, credited to the Judicial Police (PJ). Photo: PJ'
 ---
 
-Four foreign nationals were detained at Porto das Barcas, São Teotónio, in the
-municipality of Odemira. [@1,4,5,9,11,13,15,16,17] They were suspected of trafficking more than a
-tonne of hashish by fast boat. [@1] The four detainees, aged between 16 and 43,
-were to be brought before a judge for a first judicial interrogation and
-coercive measures. [@1]
+Four foreign nationals aged between 16 and 43 were detained at Porto das Barcas, São Teotónio, in the
+municipality of Odemira, suspected of trafficking more than a tonne of hashish by fast boat.
+[@1,3,4,5,7,9,11,12,13,14,15,16,17] One account gives their nationalities as Senegalese, Spanish and
+Moroccan. [@13] Officers seized about 1.1 tonnes of hashish pollen. [@1,3,4,5,7,9,10,12,13,14,16,17]
 
-Officers seized about 1.1 tonnes of hashish pollen in the operation. [@1,3,4,5,7,9,10,12,13,14,16,17] The
-operation began after authorities spotted a suspicious high-speed vessel crewed
-by unidentified people whose presence near the Portuguese coast was unjustified.
-[@1,17] House searches led to the seizure of a car with a false number plate. [@1,16,17]
-Officers also seized video-surveillance cameras placed to monitor police
-movements and communications equipment. [@1,15]
+## Operation Barcas
 
-It was a joint operation by the PJ's National Unit to Combat Drug Trafficking
-and the GNR's Coastal and Border Control Unit, named Operation Barcas, against
-international trafficking by sea. [@1,4,5,7,17] The operation, called Barcas, ran over
-recent days with support from the Navy and the Air Force. [@2,9,16] It also had
-support from the Maritime Analysis and Operations Centre – Drugs, an
-international cooperation body against trafficking by sea. [@2,9,10,16,17]
+The operation, named Barcas, was run by the Judicial Police's National Unit to Combat Drug Trafficking
+(UNCTE) and the GNR's Coastal and Border Control Unit (UCCF) against international trafficking by sea
+[@1,4,5,7,11,17], over recent days, with support from the Navy and the Air Force [@2,9,16] and from
+the Maritime Analysis and Operations Centre – Drugs, an international cooperation body.
+[@2,9,10,16,17] It began when the authorities spotted a suspicious high-value vessel crewed by several
+unidentified people whose presence near the Portuguese coast was unjustified. [@1,5,17] The suspects
+rammed the GNR car pursuing them in the early hours of Thursday, between Zambujeira do Mar and São
+Teotónio. [@13]
 
-The four detainees are aged between 16 and 43 and are foreign nationals. [@3,7,12,14,16,17] The Judicial Police said the four would be brought before a judge on Friday for a first judicial interrogation to decide coercive measures. [@3] House searches also found video-surveillance cameras placed strategically to follow police movements, the police said. [@3,7]
+House searches found a car with false number plates, video-surveillance cameras placed to follow
+police movements, and communications equipment. [@1,3,7,8,15,16,17]
 
-The operation was run by the PJ's National Unit to Combat Drug Trafficking (UNCTE) and the GNR's Coastal and Border Control Unit (UCCF). [@5] Police said the action followed the identification of a suspect high-value vessel crewed by several unidentified people whose presence near the Portuguese coast was unjustified. [@5]
+## Court
 
-All four suspects were placed in pre-trial detention after a first judicial interrogation on Friday. [@6,14]
-
-House searches also turned up a car with false number plates and various communications equipment, alongside the surveillance cameras. [@7,8]
-
-The criminal investigation continues under the PJ's National Unit to Combat Drug Trafficking (UNCTE) and the GNR's Coastal and Border Control Unit (UCCF), with the aim of establishing every branch of the trafficking network. [@11]
-
-The suspects rammed the GNR car pursuing them in the early hours of Thursday, between Zambujeira do Mar and São Teotónio, in the municipality of Odemira. [@13]
-
-The 16-year-old was taken to Leiria Prison and the other three to Beja Prison to await the proceedings. [@14]
+The four were brought before a judge on Friday for a first judicial interrogation to decide coercive
+measures [@1,3], and all were placed in pre-trial detention [@6,14]: the 16-year-old in Leiria Prison
+and the other three in Beja. [@14] The investigation continues, aiming to establish every branch of the
+network. [@11]
