@@ -59,28 +59,26 @@ sources:
     publisher: Todaypress.gr
     date: 2026-11-10
     language: el
-open_questions:
-  - The cannabis is described only as raw cannabis (akatergasti kannavi), without saying whether it is herbal or resin.
-  - No street value was published for either the cannabis or the cocaine.
-  - No charge sheet, detention order or court outcome was reported; the man was to be taken to the Ioannina public prosecutor's office.
-  - The accounts reproduce the same Ioannina police announcement rather than independent reporting, so each detail rests on that statement.
-  - The photo published with the report has no caption or credit saying what it shows.
+  - title: Πάνω από μισό κιλό κοκαΐνης και 3,5 κιλά κάνναβης κατασχέθηκαν στα Ιωάννινα - Ηπειρωτικός Αγών
+    url: https://www.agon.gr/press-room/164318/pano-apo-miso-kilo-koka-nis-kai-3-5-kila/
+    publisher: Ηπειρωτικός Αγών
+    date: 2026-11-10
+    language: el
 ---
 
 Officers of the Ioannina drug enforcement department arrested a Greek man in the
 city on the afternoon of 9 November 2026. [@2] They stopped him as he left his
 home and put a package holding 150.8 grams of raw cannabis next to a rubbish
-bin. [@2] Police had followed the man after gathering information that he kept
+bin. [@2,4] Police had followed the man after gathering information that he kept
 large quantities of drugs at home to sell to users in the area. [@2]
 
 A search of the house, carried out in the presence of a court official, found
-packages holding 3,428.1 grams of raw cannabis. [@2] The same search found two
+packages holding 3,428.1 grams of raw cannabis. [@2,4] The same search found two
 packages of cocaine weighing 514.79 grams in total, which is not counted here as
-cannabis. [@1] Adding the package left by the bin, the cannabis taken in the
+cannabis. [@1,4] Adding the package left by the bin, the cannabis taken in the
 case comes to about 3.58 kilograms. [@3]
 
 A case file was drawn up against him for possession and trafficking of drugs and
 for offences under the law on flares, and he was to be taken to the Ioannina
-public prosecutor's office. [@2] Police gave no information on possible
+public prosecutor's office. [@2,4] Officers also found a precision electronic scale, two marine flares and a firecracker. [@4] Police gave no information on possible
 accomplices, a network or where the drugs came from. [@3]
-
