@@ -1,6 +1,6 @@
 // The home page's report pane: a report opened from the map (its marker) or from the list (its title
 // or picture) is read in the side pane instead of leaving the map, the way a route opens in the
-// Routes view. The map flies to it and rings it ("reports:zoom", WorldMap). The pane shows the
+// Routes view. The map flies to it and keeps it pulsing, without a hover box ("reports:select", WorldMap). The pane shows the
 // report's own page, fetched once and cut down to its article (text, figures, photos, case data,
 // sources). "← All reports", Escape or the browser's back button return to the list where it was;
 // the address keeps the open report (?open=<id>), so it can be shared or reloaded.
@@ -8,6 +8,7 @@
 import { initMediaViewers } from "./media-viewer.js";
 import "./video-facade.js";
 import "./sources-more.js";
+import "./source-tooltip.js";
 
 const pane = document.getElementById("report-pane");
 const home = pane?.closest(".home-pane");
@@ -62,7 +63,7 @@ function start() {
       home.scrollTop = 0;
     }
     if (push) remember(id, true);
-    if (zoom) document.dispatchEvent(new CustomEvent("reports:zoom", { detail: id }));
+    if (zoom) document.dispatchEvent(new CustomEvent("reports:select", { detail: id }));
     try {
       const a = article(await page(id));
       if (mine !== request) return;
@@ -87,6 +88,7 @@ function start() {
     if (map && camera) map.flyTo({ ...camera, duration: reduced ? 0 : 1000 });
     camera = null;
     if (push) remember(null, false);
+    document.dispatchEvent(new CustomEvent("reports:select", { detail: null }));
   }
 
   // the address: ?open=<id> beside the list's own filters (ReportBrowser keeps it when it rewrites them)
@@ -146,9 +148,9 @@ function start() {
   const first = window.__openReport ?? new URLSearchParams(location.search).get("open");
   if (first && doc().dataset.homeView !== "routes") {
     open(first, { push: false, zoom: false });
-    const fly = () => document.dispatchEvent(new CustomEvent("reports:zoom", { detail: first }));
+    const fly = () => document.dispatchEvent(new CustomEvent("reports:select", { detail: first }));
     const box = document.querySelector(".home-map [data-map]");
-    // "map:built" fires just before the map listens for "reports:zoom": fly on the next task
+    // "map:built" fires just before the map listens for "reports:select": fly on the next task
     if (box?.__map) fly(); else box?.addEventListener("map:built", () => setTimeout(fly), { once: true });
   }
 }

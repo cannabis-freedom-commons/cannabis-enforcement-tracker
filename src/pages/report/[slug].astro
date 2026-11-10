@@ -183,15 +183,17 @@ const jsonLd = [{
     {/* one line each: who published it, the site, when, the language and an archived copy; the title
         is in the tooltip, and in the card a cited passage shows (report-citations.js). Past the first
         few, the rest wait behind "Show all" (src/scripts/sources-more.js) */}
-    <ol class="sources" data-sources>
+    <ol class="sources" data-sources data-api={submissionsAPI || undefined}>
       {cited.map((s, i) => {
         const domain = s.url ? new URL(s.url).hostname.replace(/^www\./, "") : null;
         const title = [s.authors?.join(", "), s.title, s.container && `In ${s.container}`, s.locator].filter(Boolean).join(". ");
         const lang = s.language ? languageName(s.language) : null;
         return (
-          <li id={`ref-${i + 1}`} data-n={i + 1} class:list={["src", { "src-extra": i >= SOURCES_SHOWN }]}>
+          <li id={`ref-${i + 1}`} data-n={i + 1} class:list={["src", { "src-extra": i >= SOURCES_SHOWN }]}
+            data-url={s.url} data-title={title} data-publisher={s.publisher} data-domain={domain ?? undefined}
+            data-date={s.date ? formatDate(s.date) : s.year ? String(s.year) : undefined} data-lang={lang ?? undefined} data-archived={s.archived ?? undefined}>
             {s.url
-              ? <a class="src-link" href={s.url} target="_blank" rel="noopener noreferrer" title={title}><span class="src-pub">{s.publisher || domain}</span>{domain && s.publisher && <span class="src-domain">{domain}</span>}</a>
+              ? <a class="src-link" href={s.url} target="_blank" rel="noopener noreferrer" aria-label={`${s.publisher || domain}: ${title}`}><span class="src-pub">{s.publisher || domain}</span>{domain && s.publisher && <span class="src-domain">{domain}</span>}</a>
               : <span class="src-link" title={title}><span class="src-pub">{s.publisher || s.title}</span></span>}
             {(s.date || s.year) ? <time class="src-date" datetime={s.date ? isoDate(s.date) : String(s.year)}>{s.date ? s.date.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" }) : s.year}</time> : <span class="src-date is-empty"></span>}
             {lang ? <abbr class="src-lang" title={`In ${lang}`}>{s.language.toUpperCase()}</abbr> : <span class="src-lang is-empty"></span>}
@@ -273,7 +275,7 @@ const jsonLd = [{
   )}
 </Base>
 
-<script>import "../../scripts/report-citations.js"; import "../../scripts/sources-more.js";</script>
+<script>import "../../scripts/report-citations.js"; import "../../scripts/sources-more.js"; import "../../scripts/source-tooltip.js";</script>
 {r.submission && <script>import "../../scripts/report-submission.js";</script>}
 {shown.some((m) => m.view.type === "photo") && <script>import "../../scripts/media-viewer.js";</script>}
 {shown.some((m) => m.view.type !== "photo") && <script>import "../../scripts/video-facade.js";</script>}

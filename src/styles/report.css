@@ -125,3 +125,15 @@
 .video-host { opacity: .8; }
 .video-play:hover svg, .video-play:focus-visible svg { transform: scale(1.08); background: var(--cite); }
 .video-error { margin: 0; padding: 24px 16px; border-radius: 8px; background: var(--surface); color: var(--muted); font-size: 14px; }
+
+/* a source's card in the list of sources (src/scripts/source-tooltip.js) */
+.source-tip { position: fixed; z-index: 60; width: 340px; max-width: calc(100vw - 20px); padding: 12px 14px; background: var(--surface-2); color: var(--text); border: 1px solid var(--border); border-radius: var(--r); box-shadow: var(--shadow); font-size: 13px; line-height: 1.45; }
+.source-tip[hidden] { display: none; }
+.srct-eyebrow { margin: 0 0 3px; font: 10.5px var(--mono); text-transform: uppercase; letter-spacing: .06em; color: var(--cite); }
+.srct-pub { display: block; font-size: 14px; }
+.srct-title { margin: 4px 0 6px; color: var(--text-2); }
+.srct-meta { margin: 0; color: var(--muted); font: 11.5px var(--mono); }
+.srct-shot { display: none; margin-top: 10px; border: 1px solid var(--border); border-radius: var(--r); overflow: hidden; background: var(--bg); }
+.srct-shot.is-loaded { display: block; }
+.srct-shot img { display: block; width: 100%; max-height: 220px; object-fit: cover; object-position: top; }
+.srct-caption { display: block; padding: 4px 8px; color: var(--muted); font: 10.5px var(--mono); }

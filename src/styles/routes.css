@@ -166,3 +166,8 @@
 .rpane-body .sources { grid-template-columns: 1fr; font-size: 13px; }
 /* the whole report in the list opens it in the pane */
 .home-pane .report-item { cursor: pointer; }
+
+/* what an icon switch does, under it when the pointer rests on it or it has the keyboard's focus */
+.icon-switch button { position: relative; }
+.icon-switch button[data-tip]::after { content: attr(data-tip); position: absolute; z-index: 10; top: calc(100% + 8px); left: 50%; transform: translateX(-50%); width: max-content; max-width: 220px; padding: 6px 9px; background: var(--surface-2); color: var(--text); border: 1px solid var(--border); border-radius: var(--r); box-shadow: var(--shadow); font: 12px/1.4 Inter, system-ui, sans-serif; text-align: center; white-space: normal; pointer-events: none; opacity: 0; visibility: hidden; transition: opacity .12s, visibility 0s .12s; }
+.icon-switch button[data-tip]:hover::after, .icon-switch button[data-tip]:focus-visible::after { opacity: 1; visibility: visible; transition-delay: .35s, .35s; }

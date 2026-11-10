@@ -8,6 +8,7 @@ import { MODES, PRODUCTS } from "../lib/routes.js";
 import { routeYears } from "../lib/routes-years.js";
 import Icon from "./Icon.astro";
 const MODE_ICONS = { air: "airplane", road: "truck", sea: "sea-waves", mail: "mail" };
+const MODE_TIPS = { air: "by air: luggage, couriers, air cargo", road: "by road or across a land border", sea: "by sea: ports, boats, containers", mail: "by post or parcel courier" };
 const { part } = Astro.props; // "fields" (in the bar's row), "active" (the chips row) or "timeline"
 const { first, last, perYear } = routeYears();
 // a square-root scale, so the early years with a handful of routes still show next to the latest
@@ -18,12 +19,12 @@ const every = n > 30 ? 5 : n > 8 ? 2 : 1;
 {part === "fields" && <div class="routes-fields" id="routes-bar" role="group" aria-label="Filter routes">
   {/* what the lines' width measures */}
   <div class="icon-switch" role="group" aria-label="Line width">
-    <button type="button" data-metric="reports" aria-pressed="true" title="Line width: number of reports"><Icon name="hashtag" /><span class="sr-only">Width by reports</span></button>
-    <button type="button" data-metric="kg" aria-pressed="false" title="Line width: kilograms seized"><Icon name="weight" /><span class="sr-only">Width by kilograms</span></button>
+    <button type="button" data-metric="reports" aria-pressed="true" data-tip="Line width: the number of reports on each route"><Icon name="hashtag" /><span class="sr-only">Width by reports</span></button>
+    <button type="button" data-metric="kg" aria-pressed="false" data-tip="Line width: the kilograms seized on each route"><Icon name="weight" /><span class="sr-only">Width by kilograms</span></button>
   </div>
   {/* how it travelled: one way at a time, or any (none pressed) */}
   <div class="icon-switch" role="group" aria-label="How it travelled">
-    {MODES.map(([id, label]) => <button type="button" data-mode={id} aria-pressed="false" title={label}><Icon name={MODE_ICONS[id]} /><span class="sr-only">{label}</span></button>)}
+    {MODES.map(([id, label]) => <button type="button" data-mode={id} aria-pressed="false" data-tip={`Only routes travelled ${MODE_TIPS[id]} (click again for any way)`}><Icon name={MODE_ICONS[id]} /><span class="sr-only">{label}</span></button>)}
   </div>
 </div>}
 {/* what the map is narrowed to, each choice with its own ×, like the reports' filters */}

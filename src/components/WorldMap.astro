@@ -147,6 +147,7 @@ const LEAFLETS = [[0, 62, 0], [-27, 54, 1], [27, 54, 1], [-56, 42, 2], [56, 42, 
     let byId = new Map<string, Row>();
     let shown: Row[] = [];       // those the filters let through
     let hovered = "";            // the report pointed at, in a list or on the map: spotlit
+    let selected = "";           // the report open in the home page's pane: spotlit while nothing else is pointed at
     const KEY = "map-layers-v2";    // which Landrace layers are on, remembered in this browser
     let chosen: Record<string, boolean> = { cluster: false, globe: false, area: true, region: true, accession: true };
     // the Landrace files each layer needs, and the map layers it draws
@@ -340,6 +341,7 @@ const LEAFLETS = [[0, 62, 0], [-27, 54, 1], [27, 54, 1], [-56, 42, 2], [56, 42, 
       map.addLayer({ id: "spot-area-dot", type: "circle", source: "spot", filter: kind("dot"), paint: { "circle-radius": ["interpolate", ["linear"], ["zoom"], 1, 5 * markerScale, 6, 14 * markerScale, 10, 34 * markerScale], "circle-color": c.greenFill, "circle-opacity": 0.3, "circle-stroke-color": c.green, "circle-stroke-width": 1 } });
     }
     function spotlight(id: string) {
+      if (!id && selected) id = selected; // pointing away returns to the open report
       if (id === hovered) return;
       hovered = id;
       if (!map.getSource("spot")) return;
@@ -531,6 +533,18 @@ const LEAFLETS = [[0, 62, 0], [-27, 54, 1], [27, 54, 1], [-56, 42, 2], [56, 42, 
         });
         map.flyTo({ center: r.ll, zoom, duration: 1200 });
         if (matchMedia("(max-width: 860px)").matches) box.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "instant" : "smooth", block: "start" });
+      }) as EventListener);
+      // a report opened in the home page's pane: the map flies to it and keeps it pulsing, with no
+      // hover box (the pane shows it); null when the pane closes
+      document.addEventListener("reports:select", ((e: CustomEvent<string | null>) => {
+        selected = e.detail ?? "";
+        popup.remove(); current = "";
+        const r = selected ? rows.find((x) => x.i === selected) : null;
+        if (!r?.ll) { spotlight(""); return; }
+        hovered = ""; spotlight(r.i);
+        const zoom = ({ exact: 11, locality: 9, district: 8, region: 6, country: 4 } as Record<string, number>)[r.pr ?? "country"] ?? 6;
+        map.stop();
+        map.flyTo({ center: r.ll, zoom, duration: 1200 });
       }) as EventListener);
       document.addEventListener("reports:hover", ((e: CustomEvent<string | null>) => {
         spotlight(e.detail ?? "");
