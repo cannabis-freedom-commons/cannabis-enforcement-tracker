@@ -47,31 +47,35 @@ sources:
     publisher: ici.fr
     date: 2026-11-10
     language: fr
+  - title: À Draguignan, 2 kg de cannabis et 100 grammes de cocaïne découverts lors d’un contrôle de police, un mineur placé sous contrôle judiciaire
+    url: https://www.nicematin.com/faits-divers/a-draguignan-2-kg-de-cannabis-et-100-grammes-de-cocaine-decouverts-lors-d-un-controle-de-police-un-mineur-place-sous-controle-judiciaire-10757488
+    publisher: Nice-Matin
+    date: 2026-11-10
+    language: fr
 open_questions:
-  - The exact day of the weekend seizure was not given; 7 November 2026 stands in for late in the week before the 10 November publication.
-  - The cannabis weight is reported as nearly 2.5 kg, not an exact measured figure.
-  - About 100 grams of cocaine was also seized, but only the separately stated cannabis weight is counted.
-  - It was not reported which of the three was to deliver the drugs or was placed under judicial supervision, or what charges apply.
-  - No court outcome beyond placement under judicial supervision was reported.
+    - The exact night of the seizure is unresolved, given as 5 November 2026 and as late in the week before the 10 November publication; 7 November 2026 stands in for the latter.
+    - The cannabis weight is unresolved, given as 2 kg and as nearly 2.5 kg for the same four packets; the report records nearly 2.5 kg.
+    - About 100 grams of cocaine was also seized, but only the separately stated cannabis weight is counted.
+    - What charges apply to the 17-year-old held for the planned delivery was not reported.
+    - No court outcome beyond placement under judicial supervision was reported.
 ---
 
 Officers from the Draguignan police station stopped a car in Draguignan at night
 after its faulty rear light drew their attention and the driver parked
-straddling two spaces. [@1] The car held three young people, one adult and two
-minors, who were arrested and placed in police custody. [@1] Investigators found
+straddling two spaces. [@1,2] The car held three young people, one adult and two
+minors, who were arrested and placed in police custody. [@1,2] Investigators found
 that one of the three was meant to deliver the drugs, and he was brought before
 the Draguignan prosecutor and placed under judicial supervision pending trial.
-[@1]
+[@1] Investigators established that only a 17-year-old from Draguignan who was in the car was to carry out a delivery as part of organised drug trafficking. [@2] After investigation, one of the minors and the 19-year-old were cleared. [@2]
 
 Officers seized nearly 2.5 kg of cannabis resin hidden in the car in four white
 packets that smelled of cannabis rather than chocolate. [@1] Officers first
 spotted a plastic bag with a protruding white packet inscribed Dubai chocolate
 bar after a strong smell of cannabis came from the car when its door was opened.
-[@1] Officers also found about 100 grams of cocaine on one of the minors, which
-is not counted in the cannabis total. [@1] The driver claimed the bag was not
+[@1,2] Officers also found about 100 grams of cocaine on one of the minors, which
+is not counted in the cannabis total. [@1] Police estimated the combined merchandise at about 13,000 euros. [@2] The driver claimed the bag was not
 his, saying he had borrowed his mother's car, and handed the bag to the
 officers. [@1]
 
 The night-time road check and seizure took place late in the week before the 10
-November 2026 publication in Draguignan, Var. [@1]
-
+November 2026 publication in Draguignan, Var. [@1] The stop took place shortly before midnight on Thursday 5 November 2026 in the Négadis neighbourhood. [@2]
