@@ -103,6 +103,10 @@ sources:
     url: https://newswav.com/article/singaporean-faces-death-penalty-after-rm1-52m-cannabis-haul-found-at-ipoh-a-A2611_MUcrU2
     publisher: The Vibes, on Newswav
     date: 2026-11-10
+  - title: 29-year-old Singaporean arrested at Ipoh airport over suspected drug smuggling
+    url: https://www.zaobao.com.sg/en/news/sea/29-year-old-singaporean-arrested-ipoh-airport-over-suspected-drug-smuggling
+    publisher: Lianhe Zaobao (English)
+    date: 2026-11-10
 open_questions:
   - The Star gives the value as about RM1.5 million and the New Straits Times as RM1.52 million; the figures use the NST amount.
   - The Star says the man stayed at a hotel in Kajang, while the NST says he collected the drugs there from a supplier; both agree the drugs were picked up in Kajang.
@@ -121,6 +125,7 @@ open_questions:
   - The Straits Times headline converts the value to S$473,000 from about RM1.5 million; the report uses the New Straits Times figure of RM1.52 million.
   - The page describes the material as dried marijuana flowers; no laboratory confirmation was reported.
   - This account converts the promised S$4,000 wage to about RM12,600, against about RM12,690 and RM12,686.68 in other accounts; no wage amount is recorded in the figures.
+  - Lianhe Zaobao's English page is an AI-assisted translation of The Star's report and says names may be transliterated, so it is not an independent account.
 media:
   - kind: photo
     url: https://www.malaymail.com/news/malaysia/2026/11/10/singaporean-lured-by-rm12685-job-offer-arrested-remanded-seven-days-over-rm15m-cannabis-haul-at-ipoh-airport/242670
@@ -140,18 +145,18 @@ media:
 ---
 
 Perak police arrested a 29-year-old unemployed Singaporean man at Sultan Azlan
-Shah Airport in Ipoh at 6.20am on 8 November 2026. [@1,3,10,12,13] Auxiliary police at the
+Shah Airport in Ipoh at 6.20am on 8 November 2026. [@1,3,10,12,13,14] Auxiliary police at the
 check-in counter searched his baggage and found 36 plastic packages holding
-19,040g of dried marijuana flowers. [@1,3,6,8,9,10,11,12] Police valued the cannabis at about
-RM1.5 million. [@1,3,10,12,13] The New Straits Times put the weight at 19.04kg and the
+19,040g of dried marijuana flowers. [@1,3,6,8,9,10,11,12,14] Police valued the cannabis at about
+RM1.5 million. [@1,3,10,12,13,14] The New Straits Times put the weight at 19.04kg and the
 value at RM1.52 million, an amount police said was enough to supply 47,900 drug
 users. [@2]
 
 The man had flown from Singapore to Kuala Lumpur and travelled to Kajang, where
 police believe he collected the drugs before taking an e-hailing car to Ipoh,
 arriving on 7 November. [@1,3,6] Police said he was to fly from Ipoh to Singapore
-and then on to London to deliver the cannabis. [@1,3,6,7,8,9,11,12] He told police he had
-answered an online job offer promising good pay. [@1,3,7] Police said the offer was
+and then on to London to deliver the cannabis. [@1,3,6,7,8,9,11,12,14] He told police he had
+answered an online job offer promising good pay. [@1,3,7,14] Police said the offer was
 S$4,000 (about RM12,690), that the man was unemployed and that a urine screening
 found no drugs in his system. [@2,9,13]
 
@@ -159,7 +164,7 @@ Perak police chief Comm Datuk Mohd Alwi Zainal Abidin said syndicates
 increasingly use less busy airports such as Ipoh, which has one daily flight to
 Singapore, to traffic drugs abroad. [@2,3,5,10,11] The man was remanded for seven days
 from 9 November under Section 39B of the Dangerous Drugs Act 1952, which carries
-a death sentence or life imprisonment with caning on conviction. [@1,3,4,5,9,10,12,13]
+a death sentence or life imprisonment with caning on conviction. [@1,3,4,5,9,10,12,13,14]
 
 The man arrived in Ipoh on 7 November after picking up the load in Kajang and travelling by e-hailing car. [@3,5]
 
