@@ -43,6 +43,11 @@ media:
     media_url: https://sot.inf.br/storage/artigos/2026/11/09//1280x720/85b0b9dc-e1d3-4cfd-ad42-887fadd6ca6f.jpeg.webp
     publisher: SOT
     caption: 'Photo published with the SOT account of the 300.8 kg cannabis seizure on the BR-369 in Ubiratã. Photo: Divulgação'
+  - kind: photo
+    url: https://portalnovasantarosa.com.br/noticia/nervosismo-entrega-motorista-e-revela-carregamento-milionario-de-maconha-em-carro-furtado-br-369
+    media_url: https://portalnovasantarosa.com.br/upload/2026-11-09-15-30-43-36b32a94-e58e-4c11-9bf2-48ce94c6fdb9.jpg
+    publisher: Portal Nova Santa Rosa
+    caption: 'Photo published with the Portal Nova Santa Rosa account under the label Apreensão (seizure) of the 300.8 kg marijuana load taken from the car on the BR-369 in Ubiratã. Photo: Divulgação'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 26b19ed6e818f88ce3a2598e87193379
@@ -63,6 +68,11 @@ sources:
     publisher: Portal24
     date: 2026-11-09
     language: pt
+  - title: Nervosismo entrega motorista e revela carregamento milionário de maconha em carro furtado BR-369
+    url: https://portalnovasantarosa.com.br/noticia/nervosismo-entrega-motorista-e-revela-carregamento-milionario-de-maconha-em-carro-furtado-br-369
+    publisher: Portal Nova Santa Rosa
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No time of day is given; 9 November 2026 is both the event date and the publication date of all three accounts.
   - The outlets round the load differently, as 300.8 kg and "almost 301 kg"; the report uses 300.8 kg.
@@ -71,22 +81,23 @@ open_questions:
   - The driver is not named and no charge filing, court hearing or outcome is reported.
   - The three accounts are near-identical in wording, suggesting a single PRF release; no PRF notice for this seizure could be opened.
   - The SOT photo is credited only as Divulgação and no caption states what it shows; the submitted page's own image could not be checked visually.
+  - Portal Nova Santa Rosa is the fourth near-identical account of the same PRF statement; it adds no facts beyond the existing citations.
+  - The page's lead photo is labelled Apreensão and credited only as Divulgação, with no caption stating exactly what it shows.
 ---
 
 Federal highway police seized 300.8 kg of marijuana from a car stopped for
 inspection on the BR-369 in Ubiratã, in the western Brazilian state of Paraná.
-[@2] Officers stopped the car because it appeared overloaded and was heading
-towards Maringá. [@2] The driver admitted he was carrying drugs when asked about
-the weight of the vehicle. [@2] They found blocks of marijuana on the front and
-rear seats and in the boot. [@2] The police arrested the driver on suspicion of
-drug trafficking and handling stolen goods. [@2] Officers sent him and the
-marijuana to the Civil Police station in Ubiratã. [@2]
+[@2,4] Officers stopped the car because it appeared overloaded and was heading
+towards Maringá. [@2,4] The driver admitted he was carrying drugs when asked about
+the weight of the vehicle. [@2,4] They found blocks of marijuana on the front and
+rear seats and in the boot. [@2,4] The police arrested the driver on suspicion of
+drug trafficking and handling stolen goods. [@2,4] Officers sent him and the
+marijuana to the Civil Police station in Ubiratã. [@2,4]
 
-The car was running on cloned plates and had a theft and robbery alert. [@2]
+The car was running on cloned plates and had a theft and robbery alert. [@2,4]
 Inside the car, officers also found an extra set of plates and a damaged mobile
-phone. [@2] The 300.8 kg was given as 300.8 kilos of marijuana in the police
+phone. [@2,4] The 300.8 kg was given as 300.8 kilos of marijuana in the police
 account summarised by Portal24. [@3] The local account reported the load as
 almost 301 kg, distributed on the front and rear seats and in the boot. [@1] The
 same local account reported the marijuana as spread over the front and rear
 seats and the boot. [@1]
-
