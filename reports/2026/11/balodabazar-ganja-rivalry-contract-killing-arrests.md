@@ -74,6 +74,11 @@ sources:
     publisher: ETV Bharat News
     date: 2026-11-09
     language: hi
+  - title: गांजा तस्करी में वर्चस्व की जंग और बेटे की हत्या का बदला! युवक को काम का झांसा देकर जंगल में ले गए, चाकू से गोदकर मार डाला
+    url: https://nwnews24.com/battle-for-supremacy-in-ganja-smuggling-and-revenge-for-sons-murder-young/
+    publisher: nwnews24
+    date: 2026-11-10
+    language: hi
 open_questions:
   - The specific charges and sections filed were not spelled out; police said those arrested were being produced in court.
   - No quantity of ganja was reported, and the reports do not say whether the dead man's trade was sourcing, transporting or selling.
@@ -89,18 +94,18 @@ open_questions:
 
 Police in Chhattisgarh's Balodabazar district arrested five people and detained
 two minors over the killing of a young man whose body was found on a lonely
-forest track in the Baya police station area. [@1,4]
+forest track in the Baya police station area. [@1,4,5]
 
 A young man's body was found on 31 October 2026 on the lonely forest stretch
 between Murumdih and Raytum villages in the Baya police station area, with knife
-wounds and, at first, no identification. [@3]
+wounds and, at first, no identification. [@3,5]
 
 Forensic examination and digital leads identified the dead man as Karan Dongre.
 [@2] The Haribhoomi account says the dead man and the arrested men were all
 involved in the illegal ganja trade, and that Soni's son Shiva was killed in
-October 2026. [@2] Police said the accused lured the man from the Sambalpur area
+October 2026. [@2] The man who allegedly ordered the killing was named as Amarjeet Singh Soni, who police say conspired to kill Karan Dongre to avenge the October killing of his son Shiva. [@5] Police said the accused lured the man from the Sambalpur area
 with a promise of work, drove him to the forest in two cars and stabbed him,
-then stripped the body to hide his identity. [@2]
+then stripped the body to hide his identity. [@2,5] Both vehicles reached the Patewa area together before the accused took the youth into the deserted forest of the Baya outpost area and stabbed him to death. [@5]
 
 Haribhoomi reports that police checked footage from more than 1,000 CCTV cameras
 and used AI technology in the investigation. [@2] The police network behind the
