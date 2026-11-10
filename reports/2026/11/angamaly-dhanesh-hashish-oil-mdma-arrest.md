@@ -93,6 +93,11 @@ sources:
     publisher: Vachakam News
     date: 2026-11-08
     language: ml
+  - title: ധനേഷ് നായർ പിടിയിൽ
+    url: https://www.sathyamonline.com/news/news-keralam/kochi-12796820
+    publisher: Sathyam Online
+    date: 2026-11-10
+    language: ml
 open_questions:
   - Neither account gives a date for the arrest beyond 'Monday'; 9 November 2026, the publication date, is used as the incident date.
   - The hashish oil is described only as seized hashish oil, with no laboratory confirmation or street value reported.
@@ -124,7 +129,7 @@ open_questions:
 Police arrested Dhanesh S Nair, 31, known as Danny, the alleged main accused of
 a network that smuggled MDMA from Bengaluru into Kerala, at Angamaly in
 Ernakulam district. [@1,6,8,9] A special investigation team led by Aluva Deputy
-Superintendent of Police Baiju Paulos caught him in Angamaly. [@1] Officers
+Superintendent of Police Baiju Paulos caught him in Angamaly. [@1,11] Officers
 seized 803 grams of hashish oil from him, the only cannabis product counted in
 this event; eight grams of MDMA were seized with it. [@1,4,5,6,8,9]
 
