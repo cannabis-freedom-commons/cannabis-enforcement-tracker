@@ -112,6 +112,11 @@ sources:
     publisher: Visão Notícias
     date: 2026-11-09
     language: pt
+  - title: Motorista é preso com 4,5 toneladas de maconha e fuzil em caminhão em São Paulo
+    url: https://sot.inf.br/noticia/61579/motorista-e-preso-com-45-toneladas-de-maconha-e-fuzil-em-caminhao-em-sao-paulo
+    publisher: SOT
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No charge or court decision was reported beyond the driver's arrest in flagrante and detention at the Federal Police station in Marília.
   - The driver's name, age, route and the origin or destination of the load were not published.
@@ -136,11 +141,14 @@ open_questions:
   - Band's lead photo is credited only to Reprodução/SSP-SP and shows the seized cannabis and rifle, but its relation to the highway-police handout photos already linked in the report could not be checked, so no media entry is added.
   - Visão Notícias reproduces the same highway-police account as the outlets already cited, so it is not independent confirmation of the details.
   - The page names no road or kilometre for the stop, matching the existing report's gap.
+  - SOT attributes the operation to FICCO/PR together with the São Paulo Military Police and does not mention the Tático Ostensivo Rodoviário (TOR) unit named in the report's other accounts.
+  - SOT places the stop on the SP-327, matching the highway police and PMESP accounts already cited, while another account in the report gives the Raposo Tavares (SP-270); the difference remains.
+  - The article gives no count of tablets and no figure for the value of the load, unlike the accounts already cited, and names no charges against the driver.
 ---
 
 Highway police arrested a man in Ourinhos, São Paulo state, on the afternoon of
 Sunday 8 November 2026 after finding more than 4.5 tonnes of cannabis and a
-rifle in the truck he was driving. [@1,4,5,6,10,11] The stop was made at about 15:25 by
+rifle in the truck he was driving. [@1,4,5,6,10,11,12] The stop was made at about 15:25 by
 teams of the Tático Ostensivo Rodoviário (TOR), the military highway police's
 overt patrol unit, during Operação Impacto. [@1,7,9,11] Officers searched a Volvo FH
 460 truck pulling a trailer loaded with bags of meat-and-bone meal. [@1,5,10,11]
@@ -169,3 +177,5 @@ The Federal Police said the operation was carried out jointly by the Paraná bra
 Band attributes the 9.1 million reais estimate of losses to drug trafficking to the authorities generally, rather than to the highway police. [@9,10]
 
 Band credits the 9.1 million real loss estimate to the highway police itself. [@10] Band reports that the case was referred to the Federal Police in Marília and that the driver, who had a criminal record, remained in custody. [@10]
+
+A abordagem ocorreu por volta das 15h25, em uma base de policiamento rodoviário, após a FICCO/PR repassar informações sobre a possibilidade de transporte de materiais ilícitos no caminhão. [@12] O motorista afirmou desconhecer a existência da droga e disse que havia feito uma parada na região de Medianeira, no Oeste do Paraná, perto da fronteira com o Paraguai. [@12] A FICCO/PR é formada pela Polícia Federal, Polícia Militar do Paraná, Secretaria Nacional de Políticas Penais (SENAPPEN) e Polícia Rodoviária Federal. [@12] O fuzil de calibre 7.62 estava sem munições e sem identificação de marca, modelo ou origem. [@12]
