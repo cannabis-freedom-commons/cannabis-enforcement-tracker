@@ -40,11 +40,20 @@ sources:
     publisher: AHORA Entre Ríos
     date: 2026-11-10
     language: es
+  - title: 'Túnel Subfluvial: un control a un utilitario reveló que llevaba drogas | Elonce.com'
+    url: https://www.elonce.com/policiales/tunel-subfluvial-un-control-a-un-utilitario-revelo-que-llevaba-cocaina-y-marihuana.htm
+    publisher: Elonce.com
+    date: 2026-11-10
+    language: es
 open_questions:
-  - The article gives no separate date for the roadside procedure, so 10 November 2026, its publication date, is used as the incident date.
-  - The man was reported as identified rather than detained, and no detention, charge beyond simple possession, or court outcome was reported.
-  - The whole account rests on a single outlet report, with no second account found.
-  - The seizure also included 5.9 grams of cocaine, which is excluded from the cannabis quantity recorded here.
+    - The man was reported as identified rather than detained, and no detention, charge beyond simple possession, or court outcome was reported.
+    - The seizure also included 5.9 grams of cocaine, which is excluded from the cannabis quantity recorded here.
+media:
+  - kind: photo
+    url: https://www.elonce.com/policiales/tunel-subfluvial-un-control-a-un-utilitario-revelo-que-llevaba-cocaina-y-marihuana.htm
+    media_url: https://elonce-media.elonce.com/fotos/2026/11/10/m_1794326530_49874.webp
+    publisher: Elonce.com
+    caption: 'Marijuana and cocaine seized during the vehicle inspection at the Subfluvial Tunnel checkpoint. Photo: Elonce.com'
 ---
 
 Officers of the Entre Ríos Directorate-General for Prevention and Road Safety
@@ -57,13 +66,12 @@ between Santa Fe and Paraná through the tunnel when the police control detected
 the drugs he was carrying. [@1]
 
 The checkpoint operation itself was carried out by personnel of the Entre Ríos
-Directorate-General for Prevention and Road Safety. [@1] After the find, the
+Directorate-General for Prevention and Road Safety. [@1,2] The inspection occurred on the afternoon of Monday, 9 November 2026, at approximately 17:45 at the road control post. [@2] After the find, the
 Paraná Investigation and Litigation Prosecutor's Office under prosecutor María
 del Huerto Felgueres ordered the seizure of the substances and brought in
-Dangerous Drugs officers to conduct field tests and weighing. [@1] Those
+Dangerous Drugs officers to conduct field tests and weighing. [@1,2] Those
 analyses confirmed that the seizure amounted to 5.9 grams of cocaine and 2.1
-grams of marijuana. [@1]
+grams of marijuana. [@1,2]
 
 The resulting case was classified as simple possession of narcotics and remained
 under the intervention of the courts. [@1]
-
