@@ -27,30 +27,38 @@ sources:
     publisher: Teleromagna
     date: 2026-11-10
     language: it
+  - title: Arrestato un uomo per detenzione e traffico illecito di sostanze stupefacenti, sequestrati oltre 3,5 kg di sostanza stupefacente.
+    url: https://questure.poliziadistato.it/it/Bologna/articolo/33616af2fcdb5b1df946672741
+    publisher: Polizia di Stato - Questura di Bologna
+    date: 2026-11-10
+    language: it
+  - title: Oltre 3,5 chili di droga nascosti in un B&B
+    url: https://www.bolognatoday.it/cronaca/arrestato-30enne-droga-bb-giardinetti-via-vezza.html
+    publisher: BolognaToday
+    date: 2026-11-10
+    language: it
 open_questions:
-  - The hashish amount is stated only as more than 3.5 kilograms, so the figure is a minimum rather than an exact measured weight.
-  - The article gives the operation day only as Sunday; 8 November 2026, the Sunday before the 10 November publication, is used as the incident date.
-  - No figure for the value of the drugs was published.
-  - The man was identified only as a 30-year-old Italian; no name, plea or court outcome were reported.
-  - About 49 grams of cocaine were also seized but are not included in the cannabis figures.
-  - The account rests on a single opened report reproducing the police account.
+    - The hashish amount is stated only as more than 3.5 kilograms, so the figure is a minimum rather than an exact measured weight.
+    - No figure for the value of the drugs was published.
+    - The man was identified only as a 30-year-old Italian; no name, plea or court outcome were reported.
+    - About 49 grams of cocaine were also seized but are not included in the cannabis figures.
+    - The reporting derives from the Bologna police headquarters statement, with no independent confirmation or defence account published.
 ---
 
 State Police in Bologna arrested a 30-year-old Italian man for alleged drug
-possession and trafficking. [@1] The operation began on Sunday during a
-territorial control patrol near the Giardinetti di via Vezza. [@1] Officers
+possession and trafficking. [@1,2] The operation began on Sunday during a
+territorial control patrol near the Giardinetti di via Vezza. [@1] Bologna police headquarters confirmed that the arrest took place on Sunday, 8 November 2026. [@2] Officers
 noticed the man sitting on a bench in a suspicious attitude with a black duffel
-bag and several plastic bags. [@1] His evident agitation led officers to carry
-out a personal search and a search of his luggage. [@1] The checks were then
+bag and several plastic bags. [@1,2] The patrol was carried out by officers of the General Prevention and Public Rescue Office inside the Giardinetti di via Vezza public park. [@2] His evident agitation led officers to carry
+out a personal search and a search of his luggage. [@1,2] The checks were then
 extended to the room of a nearby bed-and-breakfast where the 30-year-old was
-staying. [@1]
+staying. [@1,3]
 
 During the operation officers seized more than 3.5 kilograms of hashish, about
-49 grams of cocaine and 0.8 grams of marijuana. [@1] They also found a precision
-scale, two mobile phones and material used for packaging doses. [@1]
+49 grams of cocaine and 0.8 grams of marijuana. [@1,2,3] They also found a precision
+scale, two mobile phones and material used for packaging doses. [@1,2]
 
 Checks revealed previous criminal convictions and frequent travel between
 Bologna and several Apulian provinces, considered consistent with drug-transport
-activity. [@1] At the end of the operation the man was arrested in flagrante
-delicto. [@1] The 30-year-old was then transferred to jail. [@1]
-
+activity. [@1,2] At the end of the operation the man was arrested in flagrante
+delicto. [@1,2] The 30-year-old was then transferred to jail. [@1,3] He was placed in Bologna's Rocco D'Amato prison at the disposal of the judicial authority. [@2]
