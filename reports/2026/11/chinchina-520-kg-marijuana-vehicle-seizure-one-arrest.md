@@ -93,6 +93,10 @@ sources:
     url: https://co.ibtimes.com/drug-seizures-caldas-cartagena-3693
     publisher: IBTimes CO
     date: 2026-11-09
+  - title: Colombia seizes 358kg of cocaine bound for Tripoli
+    url: https://libyaobserver.ly/news/colombia-seizes-358kg-cocaine-bound-tripoli
+    publisher: The Libya Observer
+    date: 2026-11-10
 media:
   - kind: video
     url: https://x.com/Policia_Caldas/status/2119873943276339418
@@ -112,8 +116,8 @@ Cauca bound for Medellín. [@3,4,5] President Abelardo de la Espriella announced
 Chinchiná seizure and a second operation at the port of Cartagena. [@1] The load was valued by police at more than 300 million pesos on the illegal market. [@6]
 
 The government presented the two hauls as 878 kilograms in total, of which 520
-were marijuana and 358 cocaine. [@1,9,10]
+were marijuana and 358 cocaine. [@1,9,10,11]
 
-For the whole pair of operations the authorities reported one person arrested, in the Caldas procedure. [@2] The Cartagena operation, named Estrategia Esmeralda, found the cocaine inside two electricity generators carried in a shipping container. [@2]
+For the whole pair of operations the authorities reported one person arrested, in the Caldas procedure. [@2] The Cartagena operation, named Estrategia Esmeralda, found the cocaine inside two electricity generators carried in a shipping container. [@2,11]
 
 After a cordon-and-search plan, known in Colombia as a plan candado, patrols intercepted the vehicle in the La Paz neighbourhood. [@6] A search of the vehicle found 111 plastic-wrapped parcels containing the marijuana. [@6]
