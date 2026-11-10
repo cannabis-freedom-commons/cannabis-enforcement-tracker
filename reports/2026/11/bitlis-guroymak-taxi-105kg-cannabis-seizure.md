@@ -26,6 +26,11 @@ sources:
     publisher: Adana Masası
     date: 2026-11-10
     language: tr
+  - title: Bitlis’te 1 kilo 50 gram uyuşturucu ele geçirildi
+    url: https://www.iha.com.tr/bitlis-haberleri/bitliste-1-kilo-50-gram-uyusturucu-ele-gecirildi-514012777
+    publisher: İhlas Haber Ajansı
+    date: 2026-11-10
+    language: tr
 open_questions:
     - The suspect's identity, age and role in the taxi, whether driver or passenger, were not reported.
     - No charge, laboratory result, street value or later court outcome beyond the remand was reported.
@@ -45,12 +50,12 @@ grams of esrar, the Turkish word the source uses for cannabis. [@1] The seized 1
 kilo 50 grams amounts to 1.05 kilograms of cannabis taken from the taxi luggage
 compartment in Guroymak, Bitlis. [@1] Officers detained one suspect over the
 trunk-can find, and the judgeship before which the suspect was brought ordered
-remand in custody. [@1,2]
+remand in custody. [@1,2,3]
 
 The Bitlis Governorate said the work was carried out by Il Jandarma Komutanligi
 teams under the coordination of the Bitlis Chief Public Prosecutor's Office and
-targeted drug sellers. [@1] The governorate presented the 5 November taxi stop
+targeted drug sellers. [@1,3] The governorate presented the 5 November taxi stop
 and trunk search as one result of that coordinated anti-seller work in the
 Guroymak district of Bitlis province. [@1] The account identifies the control
 point as the truck park in the Tahtali village area and the searched vehicle as
-a taxi. [@1,2]
+a taxi. [@1,2,3]
