@@ -37,7 +37,7 @@ export GIT_COMMITTER_NAME="${GIT_COMMITTER_NAME:-$(git log -1 --format=%cn origi
 export GIT_COMMITTER_EMAIL="${GIT_COMMITTER_EMAIL:-$(git log -1 --format=%ce origin/main)}"
 git reset --quiet --hard origin/main
 left_out=0
-for c in "${keep[@]}"; do
+for c in ${keep[@]+"${keep[@]}"}; do
   if ! git cherry-pick --empty=drop -X theirs "$c" >/dev/null 2>&1; then
     git cherry-pick --abort 2>/dev/null || true
     echo "Left out (could not apply): $(git log -1 --format='%h %s' "$c")"
