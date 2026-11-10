@@ -41,6 +41,11 @@ media:
     media_url: https://fallriverreporter.com/wp-content/uploads/2026/11/Eric-Aponte-guns.jpg.webp
     publisher: Fall River Reporter
     caption: 'The seven seized firearms, magazines and accessories laid out after the Providence search warrant, in the photo published with the police account. Photo: Providence Police Department'
+  - kind: photo
+    url: https://coastalabc.com/news/local/providence-police-arrest-man-on-firearm-charges-seize-7-firearms-marijuana-drugs-ar-style-rifle-packaging-materials-november-9-2026?teaserSource=trending
+    media_url: https://coastalabc.com/resources/media2/16x9/6048/800/0x487/80/9f224468-4e7b-4d3e-82fa-de83dec66d63-gunsseized.jpg
+    publisher: WJAR (NBC 10)
+    caption: 'The seven firearms seized from Eric Aponte''s Providence residence, including the AR-15 style rifle, laid out after the search warrant. Photo: Providence Police Department'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7fc2ad25747799a0ad854bd508da1028
@@ -62,6 +67,10 @@ sources:
     url: https://turnto10.com/news/local/providence-police-arrest-man-on-firearm-charges-seize-7-firearms-marijuana-drugs-ar-style-rifle-packaging-materials-november-9-2026
     publisher: WJAR
     date: 2026-11-09
+  - title: Providence police arrest man on firearm charges, seize 7 firearms
+    url: https://coastalabc.com/news/local/providence-police-arrest-man-on-firearm-charges-seize-7-firearms-marijuana-drugs-ar-style-rifle-packaging-materials-november-9-2026?teaserSource=trending
+    publisher: WJAR (NBC 10)
+    date: 2026-11-09
 open_questions:
   - No weight was given for the suspected marijuana packages, so no kilogram figure is recorded.
   - No laboratory confirmation that the material was cannabis was reported; it is described only as suspected marijuana.
@@ -73,19 +82,22 @@ open_questions:
   - Patch lists marijuana sale and manufacture charges among the counts against Aponte, while the Providence police statement cited in the existing report described only a referral to the narcotics bureau for additional charges; the report records both accounts.
   - Patch gives no weight for the marijuana seized and does not say whether the material was laboratory-confirmed as cannabis.
   - 'Left out, as its quotation was not found in WJAR: Officials said he is expected to face additional charges related to the suspected marijuana seized during the investigation.'
+  - The WJAR article gives the arrest only as happening "Last Tuesday"; 3 November 2026 is taken from the Providence Police Department release cited in the existing report.
+  - WJAR gives no weight for the suspected marijuana and does not say whether it was laboratory-confirmed as cannabis.
+  - WJAR lists the firearm charges in general terms and does not give the number of counts, which the existing report takes from the police statement and Fall River Reporter.
 ---
 
 Providence Police arrested Eric Aponte, 26, on Cranston Street on 3 November
 2026 after a months-long investigation into reports that he had multiple
-firearms and was selling marijuana. [@1,4] The Providence Police Violent Crime
+firearms and was selling marijuana. [@1,4,5] The Providence Police Violent Crime
 Task Force had investigated him for several months, according to the account
 drawn from the department's statement. [@2] After the arrest, investigators
 executed a court-authorized search warrant at his residence. [@1,4]
 
 Officers seized seven firearms, including an AR-15-style rifle and a Micro Draco
-rifle, along with multiple magazines, ammunition and firearm accessories. [@1,4]
+rifle, along with multiple magazines, ammunition and firearm accessories. [@1,4,5]
 They also seized multiple packages of suspected marijuana, a digital scale and
-packaging materials. [@1,4] Police found a child inside the residence where
+packaging materials. [@1,4,5] Police found a child inside the residence where
 multiple firearms were accessible, transferred the child's custody to a family
 member and notified the Department of Children, Youth and Families. [@2]
 
@@ -102,3 +114,5 @@ when their actions put the community, particularly children, at risk. [@1]
 Aponte was charged with manufacturing, possessing or selling marijuana with intent to manufacture or sell. [@3]
 
 Providence Police Chief Oscar Perez said the investigation showed the department's commitment to holding people accountable when their actions put the community, particularly children, at risk. [@4]
+
+Providence police said Aponte was expected to face additional charges related to the suspected marijuana seized during the investigation. [@5]
