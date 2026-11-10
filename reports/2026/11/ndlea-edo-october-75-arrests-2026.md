@@ -79,6 +79,9 @@ sources:
     url: https://www.galaxytvonline.com/news/local-news/ndlea-arrests-75-suspects-uncovers-16-8-tonnes-of-illicit-drugs-in-edo
     publisher: Galaxy Television
     date: 2026-11-09
+  - title: NDLEA arrests 75 suspected drug traffickers in Edo
+    url: https://www.msn.com/en-xl/africa/nigeria/ndlea-arrests-75-suspected-drug-traffickers-in-edo/ar-AA2h60JS
+    publisher: The Punch
 open_questions:
   - The bulletin does not give a single raid date; 9 November 2026 is the publication date, when the commander presented the October results, and stands in for the incident date.
   - The article gives no count of plants destroyed; 14,322.0475 kg is the command's estimated yield of the destroyed farms, not a weighed cannabis seizure, and is not recorded as a figure.
@@ -116,18 +119,18 @@ media:
 
 Nigeria's National Drug Law Enforcement Agency (NDLEA) in Edo State said its
 October 2026 operations arrested 75 suspected drug traffickers, 54 men and 21
-women. [@1,2,3,4,5,6,9] State commander Mitchell Ofoyeju said the command seized 2,496.11791
+women. [@1,2,3,4,5,6,9,10] State commander Mitchell Ofoyeju said the command seized 2,496.11791
 kg of illicit substances during the month, including 2,492.6973 kg of cannabis.
-[@1,3,4,5,6,7]
+[@1,3,4,5,6,7,10]
 
 He said eight cannabis farms covering 5.728819 hectares, with an estimated yield
-of 14,322.0475 kg, were identified and destroyed across the state. [@1,2,3,4,5,6,7,9] The
+of 14,322.0475 kg, were identified and destroyed across the state. [@1,2,3,4,5,6,7,9,10] The
 destroyed farms were in Uzebba Forest, Ukhuise-Osi Community and Ugbada Forest
 in Owan West, Ugboshi Ele Forest in Akoko Edo, and Eco Camp, Illushi, in Esan
 South-East. [@1,2,3,5,6]
 
 Among the seizures was a black Toyota Camry stopped at Otuo, Owan East, carrying
-1,049 compressed blocks of cannabis weighing 702.83 kg. [@1,2,3,4,5] Three people were
+1,049 compressed blocks of cannabis weighing 702.83 kg. [@1,2,3,4,5,10] Three people were
 arrested with that load: Monday Orji, 52, Monday Lawal, 40, and Precious
 Uduegele, 20, two men and a woman. [@1]
 
