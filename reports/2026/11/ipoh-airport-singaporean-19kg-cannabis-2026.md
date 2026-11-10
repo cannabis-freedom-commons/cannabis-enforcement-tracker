@@ -107,25 +107,20 @@ sources:
     url: https://www.zaobao.com.sg/en/news/sea/29-year-old-singaporean-arrested-ipoh-airport-over-suspected-drug-smuggling
     publisher: Lianhe Zaobao (English)
     date: 2026-11-10
+  - title: Warga Singapura cuba seludup dadah lebih RM1.5 juta diberkas di LTSAS
+    url: https://www.astroawani.com/berita-malaysia/warga-singapura-cuba-seludup-dadah-lebih-rm15-juta-diberkas-di-ltsas
+    publisher: Astro Awani
+    date: 2026-11-10
+    language: ms
 open_questions:
-  - The Star gives the value as about RM1.5 million and the New Straits Times as RM1.52 million; the figures use the NST amount.
-  - The Star says the man stayed at a hotel in Kajang, while the NST says he collected the drugs there from a supplier; both agree the drugs were picked up in Kajang.
-  - Both outlets describe the material as dried leaves or flowers suspected to be cannabis; no laboratory confirmation was reported.
-  - No charge, plea or court outcome beyond the seven-day remand was reported.
-  - The NST says this was the second drug-smuggling case at the airport this year, after a 1 September 2026 arrest there of a foreign man with 26.2 kg of cannabis buds under Op Tebuan; that is a separate event not covered here.
-  - No Malay-language report of this arrest was found; both opened accounts draw on the same Perak police press conference.
-  - 'Left out, as its quotation was not found in New Straits Times: The New Straits Times reported that he had claimed he was told the luggage contained counterfeit luxury goods and had not opened it.'
-  - Malay Mail gives the value as RM1,523,200 and describes the material as dried leaves suspected to be cannabis flower; no laboratory confirmation was reported.
-  - The Berita Harian page could not be reopened directly during this review; the article text came from the captured page opened for this submission.
-  - The photograph on the Berita Harian page shows Perak police chief Datuk Mohd Alwi Zainal Abidin displaying the seized drugs at the 10 November press conference; it is credited NSTP/L Manimaran and is not a separate picture of the airport seizure itself.
-  - Kosmo says the seven-day remand began on Sunday, 8 November, the day of the arrest; the report's own text and Berita Harian give 9 November.
-  - Kosmo gives the offer as S$4,000, equal to RM12,686.68, while the report's text uses about RM12,690 from another account.
-  - Kosmo describes the material as dried leaves suspected to be cannabis flower; no laboratory confirmation was reported.
-  - Kosmo reports custody and the seven-day remand only; no charge, plea or court outcome beyond that was published.
-  - The Straits Times headline converts the value to S$473,000 from about RM1.5 million; the report uses the New Straits Times figure of RM1.52 million.
-  - The page describes the material as dried marijuana flowers; no laboratory confirmation was reported.
-  - This account converts the promised S$4,000 wage to about RM12,600, against about RM12,690 and RM12,686.68 in other accounts; no wage amount is recorded in the figures.
-  - Lianhe Zaobao's English page is an AI-assisted translation of The Star's report and says names may be transliterated, so it is not an independent account.
+    - The sources disagree on the value of the cannabis, from about RM1.5 million to RM1,523,200; the report uses the police figure of RM1.52 million.
+    - 'The sources disagree on the man''s route and lodging: some say he collected the drugs in Kajang, others that he stayed at a hotel in Kajang before travelling to Ipoh on 7 November, and they agree the supply came from a Kajang syndicate.'
+    - The sources disagree on whether the seven-day remand began on 8 or 9 November; the report's text says 9 November.
+    - It is not known where the drugs were to be sent as cargo after clearing customs and how the syndicate intended to forward them to London.
+    - The reports describe the material as dried leaves or flowers suspected to be cannabis; no laboratory confirmation was reported and no charge has followed.
+    - The promised S$4,000 wage is converted into ringgit differently by different accounts, from about RM12,600 to RM12,690; no wage amount is recorded in the figures.
+    - The New Straits Times says this was the second drug-smuggling case at the airport this year, after a 1 September 2026 arrest there of a foreign man with 26.2 kg of cannabis buds under Op Tebuan; that is a separate event not covered here.
+    - No count of other suspects in the Kajang syndicate was published, and no further court step has been reported.
 media:
   - kind: photo
     url: https://www.malaymail.com/news/malaysia/2026/11/10/singaporean-lured-by-rm12685-job-offer-arrested-remanded-seven-days-over-rm15m-cannabis-haul-at-ipoh-airport/242670
@@ -142,13 +137,18 @@ media:
     media_url: https://cassette.sphdigital.com.sg/image/straitstimes/48b984b402a43bf27080584c916abfd45987e708471d8916c478f0264d9ea3be
     publisher: The Straits Times
     caption: 'The 36 plastic packages of cannabis seized from the Singaporean man''s check-in baggage at Sultan Azlan Shah Airport in Ipoh. Photo: The Star/Asia News Network'
+  - kind: photo
+    url: https://www.astroawani.com/berita-malaysia/warga-singapura-cuba-seludup-dadah-lebih-rm15-juta-diberkas-di-ltsas
+    media_url: https://media.astroawani.com/awani/media/uploads/image/2026-11/TB_DATUK%20MOHD%20ALWI%20ZAINAL%20ABIDIN_BERNAMA.jpg?VersionId=SighjFuS5OJXuSIZCTyoXcEDUrwu7kJN
+    publisher: Astro Awani
+    caption: 'Perak police chief Datuk Mohd Alwi Zainal Abidin shows a photograph of the suspect detained after the seizure of cannabis at Sultan Azlan Shah Airport, at a press conference at the Perak contingent police headquarters in Ipoh on 10 November 2026. Photo: Bernama'
 ---
 
 Perak police arrested a 29-year-old unemployed Singaporean man at Sultan Azlan
-Shah Airport in Ipoh at 6.20am on 8 November 2026. [@1,3,10,12,13,14] Auxiliary police at the
+Shah Airport in Ipoh at 6.20am on 8 November 2026. [@1,3,10,12,13,14,15] Auxiliary police at the
 check-in counter searched his baggage and found 36 plastic packages holding
-19,040g of dried marijuana flowers. [@1,3,6,8,9,10,11,12,14] Police valued the cannabis at about
-RM1.5 million. [@1,3,10,12,13,14] The New Straits Times put the weight at 19.04kg and the
+19,040g of dried marijuana flowers. [@1,3,6,8,9,10,11,12,14,15] Police valued the cannabis at about
+RM1.5 million. [@1,3,10,12,13,14,15] The New Straits Times put the weight at 19.04kg and the
 value at RM1.52 million, an amount police said was enough to supply 47,900 drug
 users. [@2]
 
@@ -173,3 +173,5 @@ The job offer was made through a website promising payment to carry luggage said
 Police chief Mohd Alwi said the suspect had been tricked by a syndicate into thinking he was carrying counterfeit luxury-branded goods, and that the 36 packets of suspected cannabis flower were found in a Caggioni-branded zippered suitcase. [@5] Mohd Alwi said the suspect and the seized items were handed to the Perak Narcotics Criminal Investigation Department for investigation, and that the seizure followed intelligence-gathering and cooperation from members of the public. [@5]
 
 Perak police said the 29-year-old suspect was unemployed and had flown from Singapore to Kuala Lumpur before staying overnight and collecting the drug-filled bag in Kajang, Selangor, and leaving for Ipoh on 7 November. [@8] Police said the case comes under Section 39B of the Dangerous Drugs Act 1952 and that the suspect was remanded for seven days until 14 November. [@8]
+
+Police said he was a 29-year-old unemployed man travelling with a bag that seemed suspicious, and that the bag held 36 clear plastic packages of dried leaves suspected to be cannabis flower weighing an estimated 19.04 kg and worth RM1.52 million on the market. [@15] Police said the man suspected the offer came through a website promising a well-paid job, and that the syndicate's method was to deceive people with high-paying job offers and use them as drug mules carrying supplies abroad on commercial flights, hiding the drugs in passenger baggage to avoid detection. [@15] Mohd Alwi said the seizure was the second largest in Perak this year and followed continued intelligence work by the state narcotics investigation department, together with cooperation from members of the public. [@15]
