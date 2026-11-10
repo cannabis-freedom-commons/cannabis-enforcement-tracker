@@ -70,6 +70,11 @@ sources:
     url: https://www.nst.com.my/news/regional/2026/11/1574722/61kg-cannabis-hidden-abandoned-jetty-rocky-island-seized
     publisher: New Straits Times
     date: 2026-11-10
+  - title: JKDM Perlis Rampas Dadah Dan Ketum, Kereta Import Bernilai Lebih RM280,000 Termasuk Cukai
+    url: https://www.bernama.com/bm/jenayah_mahkamah/news.php?id=2632335
+    publisher: Bernama
+    date: 2026-11-10
+    language: ms
 open_questions:
     - No suspect was named or arrested, and no arrest was reported for either seizure.
     - Kosmo gives no date for the earlier operation; The Star, Utusan and the New Straits Times place it on 28 August 2026.
@@ -82,13 +87,13 @@ open_questions:
 ---
 
 Malaysia's Royal Malaysian Customs Department (JKDM) seized 61.42 kg of cannabis
-valued at RM191,544 in two separate operations at Kuala Perlis, Perlis. [@1,3,4] In
+valued at RM191,544 in two separate operations at Kuala Perlis, Perlis. [@1,3,4,5] In
 the most recent operation, at about 8.15pm on 19 October 2026, a marine
 enforcement team from Kuala Perlis found three suspicious sacks on the jetty
 platform at Pulau Batu Layang, Simpang Empat. [@1,3]
 
 The sacks held 35 compressed blocks of suspected cannabis weighing 36.42 kg,
-which customs valued at RM116,544. [@1,3,4] Perlis customs director Mohammad Furiman
+which customs valued at RM116,544. [@1,2,3,4] Perlis customs director Mohammad Furiman
 Hattar said the packages were believed to have been deliberately left at the
 disused jetty for someone else to collect, so that the syndicate's movements
 would not be noticed. [@1,3,4] Customs believed the drugs had been smuggled in from Thailand. [@3] The packages on the rocky island were hidden behind a metal plate on its platform to avoid detection from the sea. [@4]
