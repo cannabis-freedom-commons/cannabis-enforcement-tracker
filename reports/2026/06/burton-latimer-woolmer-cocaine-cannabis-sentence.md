@@ -66,6 +66,10 @@ sources:
     url: https://uk.news.yahoo.com/drug-dealer-flaunted-rolex-watches-074140561.html
     publisher: Yahoo News UK / Birmingham Live
     date: 2026-06-16
+  - title: Drug dealer flaunted Rolexes, Lamborghini and £1,000 meals on Instagram
+    url: https://discover.swns.com/2026/06/drug-dealer-flaunted-rolexes-lamborghini-and-1000-meals-on-instagram/
+    publisher: Discover SWNS
+    date: 2026-06-20
 open_questions:
   - The BBC gives the sentencing only as "Friday" and the Daily Mirror and Birmingham Live name it 12 June 2026; the reports were published on 15 and 16 June 2026.
   - The 450 grams of cannabis seized at the car stop and the 500 grams recovered over the investigation are separate police statements and may overlap or not; they are added together to give the 0.95 kg recorded.
@@ -73,13 +77,15 @@ open_questions:
   - No cannabis weight was published for the Leicester property or the two Burton Latimer addresses raided in May 2024.
   - The £57,465 cash figure covers money recovered across the investigation and is not a confiscation or proceeds-of-crime order.
   - The submitted BBC page shows only a police custody photograph of Woolmer; no picture of the seized drugs, cash or watch could be confirmed, so no other media is listed.
+  - The BBC names the sentencing only as “Friday”; the SWNS agency account gives it as 12 June 2026, which the existing report uses.
+  - The SWNS page is an agency account that largely reproduces the Northamptonshire Police statement; it is not independent of the police figures.
 ---
 
 Jordan Woolmer, 28, formerly of Hawthorn Road, Burton Latimer, near Kettering,
 was sentenced at Northampton Crown Court on Friday 12 June 2026 to 10 years and
 six months in prison for supplying cocaine and cannabis across Northamptonshire.
 [@1] A jury at the same court had unanimously found him guilty of supplying
-Class A and Class B drugs earlier in the year. [@3] The court gave him a
+Class A and Class B drugs earlier in the year. [@1,3] The court gave him a
 concurrent term of one year and 10 months for breaching a suspended sentence and
 a further three months for driving while disqualified, and banned him from
 driving for seven years and three months from his release. [@1]
@@ -105,3 +111,4 @@ his lifestyle on Instagram. [@1] The Daily Mirror reported that his posts showed
 him with Rolex watches, in a Lamborghini and Bentley, and at a meal at Salt
 Bae's Nusr-Et London steakhouse that cost more than £1,200 in cash. [@2]
 
+The police investigation began after Woolmer was first arrested with drugs and cash in 2022 alongside co-defendant Kacper Burzynski. [@4] Burzynski admitted supplying a Class B drug and possessing criminal property and was given a 10-month prison sentence suspended for two years. [@4] His Instagram posts showed him driving a Lamborghini, posing in a Bentley in a Rolex watch and dining at Salt Bae's Nusr-Et London steakhouse on a bill of more than £1,200 paid in cash. [@4]
