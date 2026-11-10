@@ -108,24 +108,23 @@ drug-dependent people in Lviv and the surrounding region. [@1]
 
 One of the three was a Ukrainian armed forces serviceman who, according to
 police, had forged a medical history to be discharged on health grounds while
-dealing drugs. [@2] Officers of the National Police's Department of Internal
+dealing drugs. [@1,2] Officers of the National Police's Department of Internal
 Security found the group while investigating a scheme of forged medical
 documents used to release servicemen from duty, and the detectives work with
 Lviv region police investigators. [@2]
 
 The three were detained during another hand-over, with special police unit
-officers assisting, the police said. [@2] Searches at the suspects' homes, using
+officers assisting, the police said. [@1,2] Searches at the suspects' homes, using
 handlers and sniffer dogs, turned up about 15 kilograms of cannabis, cash and
 other evidence. [@1] Police estimated the black-market value of the drugs at
 about 4.5 million hryvnia. [@1]
 
 The plants were dried, ground and packed on the same property into "shaiby" —
 slang for packages each holding about 20 grams of ready-to-use cannabis — which
-normally sold for 6,000 hryvnia each, police said. [@2]
+normally sold for 6,000 hryvnia each, police said. [@1,2]
 
 Investigators told all three they were suspected under Article 307, part 2 or
 part 3, of the Criminal Code, on illegal production, storage, transport and sale
 of drugs. [@1] Those parts of the article carry up to 10 or up to 12 years in
 prison respectively, and the regional defence prosecutor's office is supervising
 the case. [@2] The pre-trial investigation is continuing, the police said. [@3]
-
