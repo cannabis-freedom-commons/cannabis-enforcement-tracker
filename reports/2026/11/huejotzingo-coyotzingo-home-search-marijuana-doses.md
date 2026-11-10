@@ -52,6 +52,11 @@ sources:
     publisher: Reto Diario
     date: 2026-11-09
     language: es
+  - title: Detienen a cuatro personas y aseguran droga en San Martín Texmelucan
+    url: https://elcongresista.mx/politica/puebla/detienen-cuatro-droga-san-martin-texmelucan
+    publisher: El Congresista
+    date: 2026-11-09
+    language: es
 open_questions:
   - The article gives no separate date for the search; 9 November 2026 is its publication date and stands in as the incident date.
   - The marijuana is counted only as 19 doses; no weight was published for them or for the 63 bags of crystal.
@@ -61,17 +66,18 @@ open_questions:
   - The page's lead photo carries no credit and no caption confirming that it shows the searched property or the seized drugs, so it is offered only as a link.
   - The outlet's headline counts 82 doses by adding the 63 crystal bags to the 19 marijuana doses; only the 19 marijuana doses are cannabis.
   - The single photo published with the article is credited only to Especial, with no caption saying what it shows, so it was not added as media.
+  - The El Congresista page states it was written with AI assistance from cited sources and credits nmas.com.mx, so it is not independent of the prosecutor's statement reproduced by the existing report's sources.
 ---
 
 Prosecutors and federal and state officers searched a property in San Luis
-Coyotzingo, an auxiliary board of Huejotzingo in Puebla, on a warrant. [@1,2] The
+Coyotzingo, an auxiliary board of Huejotzingo in Puebla, on a warrant. [@1,2,3] The
 state prosecutor's office (Fiscalía General del Estado, FGE) carried out the
 operation with personnel from the Secretariat of National Defence (Sedena), the
 National Guard and the Puebla state police. [@1] Officers described the property
 as a possible point of sale and distribution of drugs. [@1,2]
 
 They found 19 doses of what appeared to be marijuana in the property, along with
-63 small bags of crystal and a gram scale. [@1,2] The authorities said the scale
+63 small bags of crystal and a gram scale. [@1,2,3] The authorities said the scale
 was presumably used to weigh substances. [@1] Crystal is a Mexican street name
 for methamphetamine, so the bags of crystal are not counted as cannabis here.
 [@1]

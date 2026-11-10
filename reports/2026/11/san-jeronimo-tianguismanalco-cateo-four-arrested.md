@@ -56,6 +56,11 @@ sources:
     publisher: Reto Diario
     date: 2026-11-09
     language: es
+  - title: Detienen a cuatro personas y aseguran droga en San Martín Texmelucan
+    url: https://elcongresista.mx/politica/puebla/detienen-cuatro-droga-san-martin-texmelucan
+    publisher: El Congresista
+    date: 2026-11-09
+    language: es
 open_questions:
   - No figure for any marijuana or other cannabis product was published in this search; the seized 47 bags are described as similar to crystal, so no cannabis quantity is recorded.
   - The page gives no separate date for the search; 9 November 2026 is its publication date and stands in as the incident date.
@@ -75,8 +80,8 @@ complaints and surveillance that identified a property linked to the sale and
 distribution of drugs. [@1]
 
 During the search officers detained Alejandro N., José Luis N., Erika N. and
-Irene N. [@1] Officers seized 47 small bags holding a granular substance with
-characteristics similar to crystal and a gram scale. [@1]
+Irene N. [@1,4] Officers seized 47 small bags holding a granular substance with
+characteristics similar to crystal and a gram scale. [@1,4]
 
 Prosecutors said the four detained people were handed to the Public Ministry
 agent, who will continue the investigation and decide their legal situation.
@@ -86,4 +91,3 @@ substance similar to crystal and a gram scale seized. [@3] Two separate outlets
 that reproduced the prosecutor's statement, Carlos Martin Huerta and Reto
 Diario, described only crystal in this search, with no marijuana listed among
 the items seized. [@2]
-
