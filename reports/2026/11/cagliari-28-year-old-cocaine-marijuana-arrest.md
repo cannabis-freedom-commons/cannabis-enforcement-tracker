@@ -47,6 +47,11 @@ media:
     media_url: https://www.cronacaonline.it/wp-content/uploads/2026/11/Droga-e-denaro-sequestrati-a-Cagliari-dai-militari-dellArma.jpg
     publisher: CronacaOnline
     caption: Drugs and cash seized in the operation, photographed for the Carabinieri statement published in full by CronacaOnline; no separate credit line is given.
+  - kind: photo
+    url: https://www.cagliaritoday.it/cronaca/arrestato-cocaina-cagliari.html
+    media_url: https://citynews-cagliaritoday.stgy.ovh/~media/horizontal-hi/56173041333228/whatsapp-image-2026-11-09-at-14-15-36.jpeg
+    publisher: CagliariToday
+    caption: Photo published with the CagliariToday report on the Cagliari arrest; no caption or credit line is given on the page.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 29856823789a9bab5e315e2ad6973e6d
@@ -82,6 +87,11 @@ sources:
     publisher: L'Unione Sarda Chinese
     date: 2026-11-09
     language: zh
+  - title: 'Cagliari, incrocia i carabinieri e accelera il passo: a casa spunta un chilo di cocaina, arrestato operaio di 28 anni'
+    url: https://www.cagliaritoday.it/cronaca/arrestato-cocaina-cagliari.html
+    publisher: CagliariToday
+    date: 2026-11-09
+    language: it
 open_questions:
   - The Carabinieri statement gives no day for the stop and searches. CronacaOnline places the operation on the day before its 9 November 2026 publication, so 8 November is used, while the other accounts give only their publication date.
   - The marijuana weight is given only as more than ten grams, or a dozen or so grams, and no weighing split between the street search and the home search was published.
@@ -95,24 +105,25 @@ open_questions:
   - The Chinese edition gives the marijuana as about 10 grams, while the Italian editions give 'more than ten grams' or a dozen or so grams; the tracker keeps 10 grams.
   - The page is an automatically translated edition of the Italian article, as its own footer states.
   - The page has a single uncaptioned image with no alt text or credit, so it is not added as media.
+  - CagliariToday gives the marijuana only as about ten grams and no separate weighing of the street and home searches.
 ---
 
 Carabinieri of the Cagliari company arrested a 28-year-old worker from the city,
-already known to police, on suspicion of drug possession and dealing. [@1]
+already known to police, on suspicion of drug possession and dealing. [@1,7]
 Officers on a routine patrol spotted him walking along a street in the city
 centre and he quickened his pace as they approached, which prompted them to stop
-and identify him. [@1] The stop and searches took place the day before the
+and identify him. [@1,7] The stop and searches took place the day before the
 accounts were published. [@5]
 
 A search of his person and then of his home found about one kilogram of cocaine
-packed in around thirty sealed wrappers. [@1] The same searches turned up more
-than ten grams of marijuana. [@1,6] ANSA places the marijuana at a dozen or so
+packed in around thirty sealed wrappers. [@1,7] The same searches turned up more
+than ten grams of marijuana. [@1,6,7] ANSA places the marijuana at a dozen or so
 grams, seized along with the cocaine and 3,000 euros in cash. [@2] Officers also
 seized packaging material and more than 3,000 euros in cash in notes of various
-values, which investigators consider likely proceeds of dealing. [@3]
+values, which investigators consider likely proceeds of dealing. [@3,7]
 
 He was arrested and taken to the Uta prison, the Casa Circondariale di
-Cagliari-Uta, to await decisions by the judicial authority. [@1] La Nuova
+Cagliari-Uta, to await decisions by the judicial authority. [@1,7] La Nuova
 Sardegna says the man already had drug convictions on record. [@4] The operation
 was carried out during the patrols the Carabinieri run to curb drug trafficking
 and dealing in the Cagliari area. [@1]
