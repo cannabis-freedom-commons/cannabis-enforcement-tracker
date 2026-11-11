@@ -41,18 +41,22 @@ sources:
     publisher: UzDaily.uz
     date: 2026-11-11
     language: ru
+  - title: Почти 3,7 килограмма наркотиков изъяли в ходе операций в четырех регионах Узбекистана. Видео
+    url: https://podrobno.uz/cat/proisshestviya/pochti-3-7-kilogramma-narkotikov-izyali-v-khode-operatsiy-v-chetyrekh-regionakh-uzbekistana-video/
+    publisher: Podrobno.uz
+    date: 2026-11-11
+    language: ru
 open_questions:
-  - The article gives no separate date for the searches and detention; 11 November 2026 is its publication date and is used as the incident date.
-  - The article does not state whether the Gulistan pair or the alleged accomplice in Turtkul district were detained, so only the explicitly detained local resident is counted as arrested.
-  - The suspects are identified only by birth year and no full names were published.
-  - No court outcome beyond opened criminal cases was reported; investigations were continuing.
-  - The published 3.6 kg total covers all four episodes including synthetic spice and opium, so only the separately weighed cannabis amounts are recorded here.
-  - The whole account rests on a single opened press summary of a State Security Service statement.
+    - The article gives no separate date for the searches and detention; 11 November 2026 is its publication date and is used as the incident date.
+    - UzDaily says a local resident in Turtkul district was detained with 471 grams of marijuana; Podrobno.uz says that amount was seized from him but does not say he was detained. Neither account says the Gulistan pair or the alleged accomplice were detained.
+    - The suspects are identified only by birth year and no full names were published.
+    - No court outcome beyond opened criminal cases was reported; investigations were continuing.
+    - UzDaily reported more than 3.6 kg and Podrobno.uz reported 3.67 kg for all four episodes, including synthetic spice and opium, so only the separately weighed cannabis amounts are recorded.
 ---
 
 Uzbekistan's State Security Service reported that operational measures in four
 regions seized more than 3.6 kg of drugs, including hashish, synthetic spice,
-opium and marijuana. [@1] In Gulistan, Syrdarya-region State Security Service
+opium and marijuana. [@1,2] In Gulistan, Syrdarya-region State Security Service
 officers with internal-affairs and customs officers searched the rented
 accommodation of a man and woman born in 1996 and 1998. [@1] The agency said the
 pair worked as couriers and packagers for an online drug-selling store. [@1] In
@@ -61,16 +65,15 @@ Turtkul district, Karakalpakstan, officers detained a local resident born in
 [@1]
 
 Officers searching the Gulistan flat found 337 grams of hashish concealed inside
-a heating appliance. [@1] They found another 208 grams of hashish divided into
+a heating appliance. [@1,2] They found another 208 grams of hashish divided into
 65 small wraps at a second rented address the suspects used as a warehouse,
-bringing the total hashish seized in Gulistan to 545 grams. [@1] Officers
+bringing the total hashish seized in Gulistan to 545 grams. [@1,2] Officers
 checked the car of the detained man's alleged accomplice, born in 1964 and
 previously convicted, finding another 425 grams of marijuana. [@1] A search of
 that accomplice's house turned up 97 matchboxes containing marijuana weighing a
-total of 1 kg 175 grams. [@1]
+total of 1 kg 175 grams. [@1,2]
 
 Criminal cases were opened over all four episodes and investigative actions are
-continuing. [@1] The same announcement reported 562 grams of synthetic spice
+continuing. [@1,2] The same announcement reported 562 grams of synthetic spice
 seized in Karmana district, Navoi region, which is excluded from the cannabis
 figures here. [@1]
-
