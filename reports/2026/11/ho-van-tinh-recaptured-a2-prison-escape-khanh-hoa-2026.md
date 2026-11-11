@@ -41,6 +41,11 @@ media:
     media_url: https://image.voh.com.vn/voh/image/2026/11/07/pham-nhan-tron-trai-174525.jpg?t=o
     publisher: VOH Online
     caption: 'Officers of Khánh Hòa province and the Ministry of Public Security with Hồ Văn Tình after his capture. Photo: TTXVN'
+  - kind: photo
+    url: https://congan.com.vn/vu-an/17-ngay-bam-rung-xuyen-dem-truy-bat-4-pham-nhan-tron-khoi-trai-giam-a2_199759.html
+    media_url: https://cloud.tienlenquyetthang.com/thumbnail/CATP-960-2026-11-9/9a1-6196-97.jpeg
+    publisher: Báo Công an TP.HCM
+    caption: Hồ Văn Tình, Lê Văn Cường, Võ Hoàng Duy and Lữ Văn Toàn following their recapture.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4423d2998fe2f5e485bc3a6505d2bace
@@ -71,22 +76,26 @@ sources:
     publisher: 2Sao.vn
     date: 2026-11-07
     language: vi
+  - title: 17 ngày bám rừng, xuyên đêm truy bắt 4 phạm nhân trốn khỏi Trại giam A2
+    url: https://congan.com.vn/vu-an/17-ngay-bam-rung-xuyen-dem-truy-bat-4-pham-nhan-tron-khoi-trai-giam-a2_199759.html
+    publisher: Báo Công an Thành Phố Hồ Chí Minh
+    date: 2026-11-10
+    language: vi
 open_questions:
-  - No new court step for the recaptured inmate is reported; he is back in custody with no new charge stated.
-  - The reports give no weight or description of the drug in the trafficking case behind his 2025 sentence, so no cannabis quantity is recorded.
-  - The three earlier arrests are described briefly, from accounts that report them as part of the same manhunt rather than as separate operations.
-  - The hiding-place description comes from the Ministry of Public Security newspaper, republished on Báo Mới; the other outlets say only that he was caught in the Cây Cày forest area.
-  - This source gives no weight or description of the drug behind Tinh's 20-year trafficking sentence, so no cannabis quantity can be recorded.
+    - No new court step for the recaptured inmate is reported; he is back in custody with no new charge stated.
+    - The original drug case behind Tình's 20-year sentence involved methamphetamine (ma túy đá) rather than cannabis.
+    - The three earlier arrests are described briefly, from accounts that report them as part of the same manhunt rather than as separate operations.
+    - The hiding-place description comes from the Ministry of Public Security newspaper, republished on Báo Mới; the other outlets say only that he was caught in the Cây Cày forest area.
 ---
 
 On the afternoon of 7 November, officers of Khánh Hòa province and the Ministry
 of Public Security arrested Hồ Văn Tình, the last of four inmates who had
-escaped from A2 Prison. [@1,5] Tình was serving a 20-year prison sentence for
+escaped from A2 Prison. [@1,5,6] Tình was serving a 20-year prison sentence for
 murder and for illegal drug trafficking and was a specially wanted fugitive.
 [@1]
 
 All four inmates who fled on the afternoon of 21 October were caught after 17
-days of searching. [@1] He was caught in the Cây Cày forest area in Bắc Khánh
+days of searching. [@1,6] He was caught in the Cây Cày forest area in Bắc Khánh
 Vĩnh commune, where he was lucid and did not resist officers. [@2] Officers
 surrounded and caught him as he hid in a concrete well shaft in the forested
 hills of Suối Cau village. [@4] Officers had searched Hòn Dữ mountain, the Cây
@@ -103,9 +112,9 @@ In the 21 October escape, the four inmates taking part in a work detail at
 Sub-camp No. 1 fled, and the prison director opened a criminal case and issued a
 nationwide special wanted notice for them. [@3] Lê Văn Cường, serving 10 years
 for theft and illegal drug possession, was arrested on a coach on 24 October on
-National Highway 27C. [@3] Võ Hoàng Duy, serving 20 years for illegal drug
-trafficking, was arrested on 28 October. [@3] Lữ Văn Toàn, serving 20 years for
+National Highway 27C. [@3,6] Võ Hoàng Duy, serving 20 years for illegal drug
+trafficking, was arrested on 28 October. [@3,6] Lữ Văn Toàn, serving 20 years for
 murder, was caught before dawn on 3 November in the mountains of Bắc Khánh Vĩnh
-commune. [@3]
+commune. [@3,6]
 
 Hồ Văn Tình was born in 2002 and lives in Gia Lai province. [@5] At the time he was caught, Tình was hiding in an abandoned house in Suối Cau village, Bắc Khánh Vĩnh commune, Khánh Hòa province. [@5] The hiding place lies in forest and mountain terrain about 20 km by road from A2 Prison in Diên Lâm commune. [@5]
