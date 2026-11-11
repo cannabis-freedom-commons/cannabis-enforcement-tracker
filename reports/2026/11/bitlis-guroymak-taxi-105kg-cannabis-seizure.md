@@ -36,10 +36,11 @@ sources:
     publisher: Haberler
     date: 2026-11-10
     language: tr
-open_questions:
-    - The suspect's identity, age and role in the taxi, whether driver or passenger, were not reported.
-    - No charge, laboratory result, street value or later court outcome beyond the remand was reported.
-    - No origin, destination or route for the taxi and cannabis was reported.
+  - title: 'Bitlis’te Ticari Takside Uyuşturucu Ele Geçirildi: 1 Kişi Tutuklandı'
+    url: https://www.bitlishaber13.net/bitliste-ticari-takside-uyusturucu-ele-gecirildi-1-kisi-tutuklandi
+    publisher: Bitlis Haber
+    date: 2026-11-10
+    language: tr
 media:
   - kind: photo
     url: https://www.adanamasasi.com/bitlis-te-ticari-takside-uyusturucu-ele-gecirildi-1-tutuklama/830558/
@@ -50,16 +51,16 @@ media:
 
 On 5 November, Bitlis provincial gendarmerie teams working against drug sellers
 stopped a taxi at the truck park at the Tahtali village location in Guroymak.
-[@1,2,4] A search of the stopped taxi found a can in its trunk containing 1 kilo 50
-grams of esrar, the Turkish word the source uses for cannabis. [@1] The seized 1
+[@1,2,4,5] A search of the stopped taxi found a can in its trunk containing 1 kilo 50
+grams of esrar, the Turkish word the source uses for cannabis. [@1,5] The seized 1
 kilo 50 grams amounts to 1.05 kilograms of cannabis taken from the taxi luggage
 compartment in Guroymak, Bitlis. [@1] Officers detained one suspect over the
 trunk-can find, and the judgeship before which the suspect was brought ordered
-remand in custody. [@1,2,3]
+remand in custody. [@1,2,3,5]
 
 The Bitlis Governorate said the work was carried out by Il Jandarma Komutanligi
 teams under the coordination of the Bitlis Chief Public Prosecutor's Office and
-targeted drug sellers. [@1,3] The governorate presented the 5 November taxi stop
+targeted drug sellers. [@1,3,5] The governorate presented the 5 November taxi stop
 and trunk search as one result of that coordinated anti-seller work in the
 Guroymak district of Bitlis province. [@1] The account identifies the control
 point as the truck park in the Tahtali village area and the searched vehicle as
