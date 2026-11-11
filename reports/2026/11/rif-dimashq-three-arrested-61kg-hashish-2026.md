@@ -88,6 +88,11 @@ sources:
     publisher: سفير الشمال
     date: 2026-11-11
     language: ar
+  - title: ضبط 200 ألف حبة مخدرة.. الأمن السوري يوقف متورطين بتهريب مخدرات من لبنان
+    url: https://www.lebanon24.com/news/lebanon/1593643/%D8%B6%D8%A8%D8%B7-200-%D8%A3%D9%84%D9%81-%D8%AD%D8%A8%D8%A9-%D9%85%D8%AE%D8%AF%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D9%8A%D9%88%D9%82%D9%81-%D9%85%D8%AA%D9%88%D8%B1%D8%B7%D9%8A%D9%86-%D8%A8%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%85%D9%86-%D9%84%D8%A8%D9%86%D8%A7%D9%86
+    publisher: Lebanon24
+    date: 2026-11-11
+    language: ar
 open_questions:
     - No exact date was published for the two operations; 10 November 2026 is the publication date of the directorate's announcement and media reports and stands in as the incident date.
     - No specific locality in Rif Dimashq Governorate, and no separate arrest or seizure breakdown between the two operations, was published.
@@ -97,14 +102,14 @@ open_questions:
 ---
 
 Syria's anti-narcotics directorate carried out two security operations in Rif
-Dimashq against drug smuggling from Lebanon into Syria. [@1,2,3,4,5,6,7] Officers arrested
-three people after intensive field surveillance and monitoring. [@1,3,7] The
+Dimashq against drug smuggling from Lebanon into Syria. [@1,2,3,4,5,6,7,8] Officers arrested
+three people after intensive field surveillance and monitoring. [@1,3,7,8] The
 directorate announced the suspects on Telegram only by their initials. [@1,4,7] The directorate identified the three detainees by the Arabic initials أ.ب, ب.ع and ع.د. [@5]
 Those arrested were referred to the competent authorities for further
-investigation and legal proceedings. [@1,3,4,5,7]
+investigation and legal proceedings. [@1,3,4,5,7,8]
 
-The operations seized 61 kilograms of hashish. [@1,2,3,4,5,7] Officers also confiscated 2
-kilograms of marijuana. [@1,2,4,5,7] Authorities also confiscated 200,000 narcotic
-pills, which are excluded from the cannabis figures. [@1,2,4,5,7] The directorate said
+The operations seized 61 kilograms of hashish. [@1,2,3,4,5,7,8] Officers also confiscated 2
+kilograms of marijuana. [@1,2,4,5,7,8] Authorities also confiscated 200,000 narcotic
+pills, which are excluded from the cannabis figures. [@1,2,4,5,7,8] The directorate said
 the operations aimed to dismantle trafficking networks and cut drug smuggling
 routes from Lebanon into Syria. [@1,2,4,5,7]
