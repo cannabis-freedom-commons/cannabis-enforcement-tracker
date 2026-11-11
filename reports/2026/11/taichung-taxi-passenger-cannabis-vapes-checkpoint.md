@@ -78,29 +78,35 @@ sources:
     publisher: ETtoday新聞雲
     date: 2026-11-11
     language: zh
+  - title: 所長江振堅帶隊執行路檢 在當場查獲乘客持有毒品
+    url: https://n.yam.com/Article/20261111221274
+    publisher: 蕃新聞
+    date: 2026-11-11
+    language: zh
 open_questions:
   - No number or weight was published for the seized cannabis vape cartridges.
   - The type and quantity of the other seized contraband were not specified; ketamine was described only as a suspected burning smell.
   - It is unclear how many of the three occupants were formally arrested or charged.
   - No court outcome has been reported yet.
+  - Reports differ on the street named for the checkpoint, citing either Shuangshi Road or nearby Jinnan Street in North District.
 ---
 
 Taichung Second Precinct officers were conducting a drink-driving and
-drug-driving roadside checkpoint on the evening of 10 November 2026. [@1,3] The checkpoint was on Shuangshi Road in North District and was led by Liren station chief Jiang Zhenjian. [@3] At
+drug-driving roadside checkpoint on the evening of 10 November 2026. [@1,3,4] The checkpoint was on Shuangshi Road in North District and was led by Liren station chief Jiang Zhenjian. [@3] At
 about 9:11 p.m., officers saw a car stop suddenly before the checkpoint and
-signalled its driver to stop for inspection. [@1,3] The vehicle was a diversified
+signalled its driver to stop for inspection. [@1,3,4] The vehicle was a diversified
 taxi driven by a 26-year-old man surnamed Xu, carrying two 23-year-old men
-surnamed Huang and Guan in the back seat. [@1,3] Huang and Guan were friends of the driver, not fare-paying passengers. [@3] Officers restrained Huang after
+surnamed Huang and Guan in the back seat. [@1,3,4] Huang and Guan were friends of the driver, not fare-paying passengers. [@3] Police noted that Huang had a prior criminal record for drug offences. [@4] Officers restrained Huang after
 he tried to rush into the oncoming lane, and seized cannabis vape cartridges and
-other contraband. [@2,3] The case was transferred to the Taichung District
+other contraband. [@2,3,4] The case was transferred to the Taichung District
 Prosecutors Office on suspicion of violating the Narcotics Hazard Prevention
 Act, with police saying they would trace the drug source. [@1,3]
 
 Officers found no obvious signs of drug use by the driver and ruled out
-drug-driving on his part. [@1] During the check, officers smelled suspected
+drug-driving on his part. [@1,4] During the check, officers smelled suspected
 burning ketamine inside the car and asked all three occupants to get out for
-inspection. [@1] Huang kept clutching his jacket pocket and behaved unusually
-during the inspection. [@1]
+inspection. [@1,4] Huang kept clutching his jacket pocket and behaved unusually
+during the inspection. [@1,4]
 
 The precinct said it would continue roadside checks and patrols against drugs,
 drink-driving and drug-driving, and asked the public to call 110 about
