@@ -47,6 +47,10 @@ sources:
     url: https://persecondnews.com/2026/11/08/ndlea-foils-ugandan-womans-attempt-to-smuggle-cocaine-hidden-in-underclothing/
     publisher: Per Second News
     date: 2026-11-08
+  - title: NDLEA nabs Ugandan woman, UK, Australia-bound passengers with drugs in private parts
+    url: https://businessday.ng/news/article/ndlea-nabs-ugandan-woman-uk-australia-bound-passengers-with-drugs-in-private-parts/
+    publisher: Businessday NG
+    date: 2026-11-08
 open_questions:
   - The statement gives no charges, court date or outcome for the man arrested at Marine Beach.
   - No street value was published for the 6.07 kg of cannabis, and the statement does not say how it was packaged or weighed.
@@ -61,8 +65,8 @@ open_questions:
 
 Operatives of Nigeria's National Drug Law Enforcement Agency (NDLEA) arrested a
 32-year-old man, Abubakar Ali, at Marine Beach in Apapa, Lagos, on Friday 6
-November 2026. [@1] Officers recovered a stash of drugs from a small store the
-man had built inside the sitting room of his apartment. [@2]
+November 2026. [@1,4] Officers recovered a stash of drugs from a small store the
+man had built inside the sitting room of his apartment. [@2] The items recovered included 6.07 kg of cannabis, with tramadol, pregabalin, diazepam and codeine also found in the same store. [@4]
 
 The arrest was one of several operations announced in an NDLEA statement issued
 on Sunday 8 November 2026 by the agency's Director of Media and Advocacy, Femi
@@ -70,4 +74,3 @@ Babafemi. [@3] The same statement recorded cannabis seizures in Ondo, Ekiti,
 Edo, Taraba, Enugu and Delta states, and NDLEA chairman Brig. Gen. Mohamed Buba
 Marwa commended officers of the Lagos, Ondo, Ekiti, Edo, Delta, Taraba and Enugu
 commands. [@2]
-

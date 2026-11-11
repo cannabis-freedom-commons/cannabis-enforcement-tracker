@@ -62,6 +62,10 @@ sources:
     url: https://ng.headtopics.com/news/ugandan-woman-arrested-at-lagos-airport-with-1-15-kg-of-89663071
     publisher: Head Topics (Premium Times)
     date: 2026-11-08
+  - title: NDLEA nabs Ugandan woman, UK, Australia-bound passengers with drugs in private parts
+    url: https://businessday.ng/news/article/ndlea-nabs-ugandan-woman-uk-australia-bound-passengers-with-drugs-in-private-parts/
+    publisher: Businessday NG
+    date: 2026-11-08
 open_questions:
   - The roundup does not give a separate date for the Ondo raid or the Board Forest operation; 8 November 2026, the date of the NDLEA statement and of publication, stands in for the incident date.
   - The sources do not state whether the 1,818 kg seized from the bags, the 242 kg recovered during the Board Forest operation and the cannabis destroyed on the one-hectare farm are included in one another, so this report records their sum, 2,060 kg, as the cannabis seized or destroyed figure.
@@ -78,9 +82,9 @@ open_questions:
 ---
 
 NDLEA operatives raided Odofin Road in Uso, Ondo State, and recovered 1,818 kg
-of cannabis packed in 148 bags. [@1,2,3,4,5] In the same operations the agency destroyed
+of cannabis packed in 148 bags. [@1,2,3,4,5,6] In the same operations the agency destroyed
 a one-hectare cannabis farm in Board Forest and recovered another 242 kg of the
-drug. [@1,2,3,5] Officers arrested 36-year-old Itoro Linus Akpan in connection with
+drug. [@1,2,3,5,6] Officers arrested 36-year-old Itoro Linus Akpan in connection with
 the Ondo raids. [@1,3,4,5]
 
 The same roundup reported a further 16.15 kg of Loud cannabis concealed inside

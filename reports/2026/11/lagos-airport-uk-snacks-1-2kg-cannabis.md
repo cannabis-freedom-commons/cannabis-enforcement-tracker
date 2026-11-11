@@ -54,6 +54,10 @@ sources:
     url: https://www.wionews.com/world/ugandan-woman-arrested-cocaine-lagos-airport-ndlea-1794209697270/amp
     publisher: Wion
     date: 2026-11-09
+  - title: NDLEA nabs Ugandan woman, UK, Australia-bound passengers with drugs in private parts
+    url: https://businessday.ng/news/article/ndlea-nabs-ugandan-woman-uk-australia-bound-passengers-with-drugs-in-private-parts/
+    publisher: Businessday NG
+    date: 2026-11-08
 open_questions:
   - No newspaper report was found for the snack-cargo interception; the account rests on the NDLEA statement and Nigerian Voice's copy of it.
   - The statement does not say whether the 1.20 kg of cannabis was weighed separately from the seven parcels of synthetic-cannabis chemicals, and those chemical weights, including 28.65 kg in total, are left out of cannabis figures.
@@ -69,7 +73,7 @@ airport aboard an Air Peace flight from the United Kingdom on 23 October 2026.
 
 Two of the parcels held 1.20 kilogrammes of cannabis, while forensic analysis
 confirmed that the remaining seven contained chemicals used to make synthetic
-cannabis. [@2] A 51-year-old freight agent who attempted to clear the
+cannabis. [@2,4] A 51-year-old freight agent who attempted to clear the
 consignment was arrested over the cannabis parcels. [@1]
 
 Two more cartons addressed to the same recipient later arrived from the UK
