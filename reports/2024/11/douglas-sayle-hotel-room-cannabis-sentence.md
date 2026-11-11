@@ -50,10 +50,9 @@ sources:
     publisher: BBC News
     date: 2024-11-28
 open_questions:
-  - No cannabis weight was published, only the £4,364 value, so no kilograms are recorded.
-  - The article gives no separate date for the sentencing hearing; 28 November 2024 is the BBC publication date and is used as the incident date.
-  - The £25 of ketamine found in Sayle's car is a separate substance and is excluded from cannabis figures.
-  - Only one source for this event could be opened; no second outlet or police statement was found to corroborate or add facts.
+    - No cannabis weight was published, only the £4,364 value, so no kilograms are recorded.
+    - The article gives no separate date for the sentencing hearing; 28 November 2024 is the BBC publication date and is used as the incident date.
+    - The £25 of ketamine found in Sayle's car is a separate substance and is excluded from cannabis figures.
 ---
 
 Ethan Sayle, 22, was sentenced at Douglas Courthouse for cannabis he had kept in
@@ -80,4 +79,3 @@ arrested for driving while disqualified and driving without insurance after
 being banned from the roads in November 2023. [@1] His defence advocate told the
 court Sayle was now "drug-free" and that his "chaotic lifestyle has stopped".
 [@1]
-
