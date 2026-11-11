@@ -39,6 +39,11 @@ media:
     media_url: https://i1.prth.gr/images/1168x656/png/files/2026-11-10/narkotika-ioannina.webp
     publisher: Πρώτο Θέμα
     caption: Photo published with the report on the Ioannina arrest; it carries no caption or credit identifying the items shown.
+  - kind: photo
+    url: https://www.alphatv.gr/koinonia/ioannina-katasxethikan-pano-apo-500-grammaria-kokainis/
+    media_url: https://www.alphatv.gr/wp-content/uploads/2026/11/alphatv-news-ioannina-narkotika-990x660.webp
+    publisher: AlphaTV
+    caption: 'The items seized in the Ioannina case, captioned "Τα ευρήματα της ΕΛ.ΑΣ." in the AlphaTV report. Photo: Hellenic Police'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: da2c658996f5cd7af23cd97f7f3774a9
@@ -89,21 +94,26 @@ sources:
     publisher: agrinio24.gr
     date: 2026-11-10
     language: el
+  - title: 'Ιωάννινα: Κατασχέθηκαν πάνω από 500 γραμμάρια κοκαΐνης'
+    url: https://www.alphatv.gr/koinonia/ioannina-katasxethikan-pano-apo-500-grammaria-kokainis/
+    publisher: AlphaTV
+    date: 2026-11-11
+    language: el
 ---
 
 Officers of the Ioannina drug enforcement department arrested a Greek man in the
-city on the afternoon of 9 November 2026. [@2,6,7,8,9] They stopped him as he left his
+city on the afternoon of 9 November 2026. [@2,6,7,8,9,10] They stopped him as he left his
 home and put a package holding 150.8 grams of raw cannabis next to a rubbish
-bin. [@2,4,6,7,9] Police had followed the man after gathering information that he kept
+bin. [@2,4,6,7,9,10] Police had followed the man after gathering information that he kept
 large quantities of drugs at home to sell to users in the area. [@2,6,7]
 
 A search of the house, carried out in the presence of a court official, found
-packages holding 3,428.1 grams of raw cannabis. [@2,4,8] The same search found two
+packages holding 3,428.1 grams of raw cannabis. [@2,4,8,10] The same search found two
 packages of cocaine weighing 514.79 grams in total, which is not counted here as
-cannabis. [@1,4,5,8,9] Adding the package left by the bin, the cannabis taken in the
-case comes to about 3.58 kilograms. [@3]
+cannabis. [@1,4,5,8,9,10] Adding the package left by the bin, the cannabis taken in the
+case comes to about 3.58 kilograms. [@3,10]
 
 A case file was drawn up against him for possession and trafficking of drugs and
 for offences under the law on flares, and he was to be taken to the Ioannina
-public prosecutor's office. [@2,4] Officers also found a precision electronic scale, two marine flares and a firecracker. [@4,7,8,9] Police gave no information on possible
+public prosecutor's office. [@2,4,10] Officers also found a precision electronic scale, two marine flares and a firecracker. [@4,7,8,9] Police gave no information on possible
 accomplices, a network or where the drugs came from. [@3]
