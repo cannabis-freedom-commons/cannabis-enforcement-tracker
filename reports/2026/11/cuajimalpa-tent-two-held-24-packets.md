@@ -36,30 +36,29 @@ sources:
     publisher: Excélsior
     date: 2026-11-10
     language: es
-open_questions:
-  - No weight was published for the 24 packets, so no cannabis weight is recorded.
-  - The articles give no separate date for the operation; 10 November 2026 is the publication date used for the incident date.
-  - No charges or court outcome were reported; the Ministerio Público was to determine the men's legal situation.
-  - The account rests on an SSC statement as relayed by both outlets, principally communiqué 2986/2026.
+  - title: SSC detiene a dos y desmantela carpa de apuestas ilegales en Cuajimalpa; les incautan mariguana
+    url: https://www.jornada.com.mx/noticia/2026/11/10/capital/ssc-detiene-a-dos-y-desmantela-carpa-de-apuestas-ilegales-en-cuajimalpa-les-incautan-mariguana
+    publisher: La Jornada
+    date: 2026-11-10
+    language: es
 ---
 
 Officers from Mexico City's Secretariat of Citizen Security intervened after
 store staff requested police assistance regarding an unauthorized structure on
 Avenida José María Castorena, in the San José de los Cedros neighbourhood of
-Cuajimalpa. [@2] The operation took place in the parking lot of a self-service
+Cuajimalpa. [@2,3] The operation took place in the parking lot of a self-service
 store in San José de los Cedros, where 24 packets of suspected drugs and
-gambling items were seized. [@1] Upon arrival, officers found a tent with
+gambling items were seized. [@1,3] Upon arrival, officers found a tent with
 gambling items and observed two men exchanging small aluminium-foil packets
 beside the structure, who went inside upon seeing police. [@2]
 
 During a preventive search conducted according to police protocols, officers
 found 24 packets of dry green herb with characteristics similar to marijuana
-among the men's belongings. [@2] Authorities confirmed the detention of two men
+among the men's belongings. [@2,3] Authorities confirmed the detention of two men
 found with suspected marijuana. [@1] The two detainees, aged 34 and 23, were
 informed of their constitutional rights and transferred alongside the seized
 items to the Ministerio Público. [@2]
 
 Officers also seized appliance boxes, tubular frames for assembling a table with
-a wooden board, and a payment terminal. [@2] The Ministerio Público was tasked
+a wooden board, and a payment terminal. [@2,3] The Ministerio Público was tasked
 with determining the legal situation of both men. [@2]
-
