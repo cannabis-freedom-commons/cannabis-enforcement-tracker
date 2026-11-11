@@ -44,14 +44,15 @@ data_sources:
   details.sentence_types: [1, 2, 4]
   details.setting: [1, 2, 4]
   figures.charged: [1, 2, 4]
-  figures.plants_destroyed: [3, 1, 2]
+  figures.plants_destroyed: [3, 1, 2, 6]
   figures.value: [3, 1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [molson, barrie, opp, grow-op, organised-crime]
 open_questions:
-  - The raid fell on the Saturday before the 12-13 January publications, i.e. 10 January; no opened source states the calendar date outright.
   - An earlier account reported eleven arrests; later accounts report nine at the brewery, which this report uses.
+  - A later official assessment recorded 20,100 plants seized, below the 30,000 announced at
+    the time; the report keeps the announced figure.
   - Early accounts described only thousands of plants before police gave the figure of more than 30,000.
   - One feature framed the farm's yearly output at $100 million; the police street-value estimate of $30 million is used here.
   - Only the Toronto Star account of the December sentencing could be reopened.
@@ -77,12 +78,30 @@ sources:
     url: http://www.mapinc.org/drugnews/v04/n1739/a02.html
     archived: https://web.archive.org/web/20250111152840/http://www.mapinc.org/drugnews/v04/n1739/a02.html
     date: 2004-12-04
+  - title: "Hidden Harvest: The Rise and Fall of North America's Biggest Cannabis Grow-Op"
+    publisher: ECW Press
+    url: https://cannalib.eu/wp-content/uploads/2023/07/Hidden-Harvest-The-rise-and-fall-of-North-Americas-biggest-cannabis-grow-op-2014.pdf
+    date: 2014
+  - title: Massive Pot Crop Valued At $30M
+    publisher: Canadian Press (via Drugs-Forum)
+    url: https://drugs-forum.com/ams/massive-pot-crop-valued-at-30m.2253/
+    archived: https://web.archive.org/web/20260224034111/https://drugs-forum.com/ams/massive-pot-crop-valued-at-30m.2253/
+    date: 2004-01-13
+  - title: United States-Canada Border Drug Threat Assessment
+    publisher: Public Safety and Emergency Preparedness Canada
+    url: https://publications.gc.ca/collections/Collection/PS4-16-2004E.pdf
+    archived: https://web.archive.org/web/20180108142749/http://publications.gc.ca/collections/Collection/PS4-16-2004E.pdf
+    date: 2004-10
+  - title: Homegrown Industry Thrives
+    publisher: Globe and Mail (via 420 Magazine)
+    url: https://www.420magazine.com/community/threads/homegrown-industry-thrives.78217/
+    date: 2008-07-05
 ---
 
 Early on Saturday 10 January 2004, more than 100 officers from the Ontario Provincial Police
 and the Barrie Police Service raided a former Molson brewery on the east side of Highway 400
 in Barrie, acting on a tip that someone had built a giant indoor marijuana farm inside the
-closed plant. [@1,3] SWAT teams, canine units and bomb-disposal experts secured the building
+closed plant. [@1,3,5] SWAT teams, canine units and bomb-disposal experts secured the building
 first, work that took most of Saturday, because large grow operations are often booby-trapped
 and wired with pirate high-voltage connections. [@3] Nine workers tending the plants were
 arrested in the raid. [@1,2]
@@ -94,7 +113,10 @@ operation ever found in Canada, holding more than 30,000 high-grade plants under
 industrial lights on computerized timers, fed through kilometres of irrigation tubing and
 chemical tanks. [@1,2,3] The site ran around the clock with dormitory quarters for up to 50
 workers, a makeshift cafeteria, drying racks and vacuum-packing for shipment, some plants
-growing inside cavernous former beer vats. [@1,2] Barrie police chief Wayne Frechette called
+growing inside cavernous former beer vats. [@1,2] A second grow house found on the Sunday just
+north of the city contributed to the combined seizure of more than 30,000 plants. [@6] A later
+official Canada-US assessment recorded 20,100 plants seized. [@7] Barrie police chief Wayne
+Frechette called
 it a big-box enterprise rather than a mom-and-pop operation. [@1,2]
 
 ## An organised-crime syndicate
@@ -110,7 +132,7 @@ United States and traded for cocaine smuggled back into Canada. [@1,2]
 
 On 3 December 2004, seven men who had pleaded guilty to production and possession of
 marijuana for the purpose of trafficking were sentenced, with terms ranging from two years
-of house arrest to five years in prison. [@4] Justice James Crawford described them as minor
+of house arrest to five years in prison. [@4,8] Justice James Crawford described them as minor
 players, "not the controlling minds" behind the operation, and said the sentences sent the
 appropriate message to deter others from large-scale production. [@4] Michael DiCicco, 61,
 of Toronto, who had lived on the site and set up a dummy company as a front for the grow
@@ -122,4 +144,4 @@ for Robert Bleich, 29, of Stayner and Scott Walker, 34, of St. Catharines. [@4]
 
 Police said they knew who the individuals behind the factory's estimated $120 million
 two-year production run were but lacked the evidence to charge them, and the seven sentenced
-men would likely be the only ones to serve time. [@4]
+men would likely be the only ones to serve time. [@4] By 2008 all seven had been released. [@8]
