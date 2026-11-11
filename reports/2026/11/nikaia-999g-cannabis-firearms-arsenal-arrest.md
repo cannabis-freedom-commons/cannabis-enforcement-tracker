@@ -70,11 +70,16 @@ sources:
     url: https://www.ekathimerini.com/news/1320866/man-held-over-pre-dawn-shots-kept-arms-stash-drugs-at-home/
     publisher: eKathimerini.com
     date: 2026-11-10
+  - title: Οπλοστάσιο και σχεδόν ένα κιλό κάνναβης στο σπίτι 36χρονου που έστρεψε καραμπίνα σε αστυνομικούς
+    url: https://maleviziotis.gr/2026/11/10/oplostasio-kai-schedon-ena-kilo-kannavis-sto-spiti-36chronou-pou-estrepse-karabina-se-astynomikous/
+    publisher: Μαλεβιζιώτης
+    date: 2026-11-10
+    language: el
 open_questions:
-  - The cannabis amount is given as 999 grams by Skai and Protothema and as one kilogram by Kathimerini; the report records 0.999 kg.
-  - The form of the cannabis (flower or resin) is not described.
-  - A case file was opened but no court outcome or remand decision was reported.
-  - Flash.gr dates the arrest to the first hours of 3 November 2026, matching the incident date already recorded.
+    - The cannabis amount is given as 999 grams by Skai, Protothema and Maleviziotis and as one kilogram by Kathimerini; the report records 0.999 kg.
+    - The form of the cannabis (flower or resin) is not described.
+    - A case file was opened but no court outcome or remand decision was reported.
+    - Flash.gr and Maleviziotis date the incident to the early hours of Tuesday 3 November 2026.
 ---
 
 Officers of the Immediate Action rapid-response unit, with OPKE special
@@ -85,11 +90,11 @@ early hours of Tuesday 3 November 2026. [@2,5]
 Officers went to the area after a call about a man firing a shotgun into the air
 and found five spent cartridge cases and, nearby, the 36-year-old holding a
 shotgun. [@3,4] The man tried to flee and turned the weapon toward the officers,
-who restrained him despite his resistance. [@3,4]
+who restrained him despite his resistance. [@3,4,6]
 
 A search of his home by the Nikaia–Agios Ioannis Rentis crime-investigation
 department found and seized 999 grams of cannabis, two precision electronic
-scales, five more shotguns and a revolver loaded with a cartridge. [@3,4] Officers
+scales, five more shotguns and a revolver loaded with a cartridge. [@3,4,6] Officers
 also confiscated a large number of folding knives, fixed-blade knives, axes,
 bows and swords, three arrows, 78 cartridges and a knife and cartridge found on
 the man. [@3] A case file was opened against him for breaches of the weapons and
