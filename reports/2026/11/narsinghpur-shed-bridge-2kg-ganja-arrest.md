@@ -47,17 +47,31 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-11
     language: hi
+  - title: नरसिंहपुर में 2 किलो गांजा जब्त, 50 हजार का माल बरामद, एक आरोपी गिरफ्तार
+    url: https://deshbandhump.com/post/2-kg-ganja-seized-in-narsinghpur-goods-worth-rs-50-thousand-recovered-one-accused-arrested
+    publisher: Deshbandhu
+    date: 2026-11-11
+    language: hi
 open_questions:
-  - The accused was not named in the available account.
-  - No charges or court outcome were reported.
-  - The account rests on a single short report; no second outlet confirming this arrest was found.
+    - Deshbandhu dates the seizure to 10 November 2026, while an earlier account placed it on Wednesday, 11 November 2026.
+    - A case was registered under sections 8 and 20 of the NDPS Act, but no court outcome has been reported.
+media:
+  - kind: photo
+    url: https://deshbandhump.com/post/2-kg-ganja-seized-in-narsinghpur-goods-worth-rs-50-thousand-recovered-one-accused-arrested
+    media_url: https://deshbandhump.com/web/uploads/1794400869_WhatsApp_Image_2026-11-11_at_5.39.25_PM.jpeg
+    publisher: Deshbandhu
+    caption: 'Narsinghpur police officers with a seated man behind a station sign after the Shed bridge arrest. Photo: Deshbandhu'
+  - kind: photo
+    url: https://deshbandhump.com/post/2-kg-ganja-seized-in-narsinghpur-goods-worth-rs-50-thousand-recovered-one-accused-arrested
+    media_url: https://deshbandhump.com/web/uploads/1794400880_WhatsApp_Image_2026-11-11_at_5.39.25_PM__1_.jpeg
+    publisher: Deshbandhu
+    caption: 'Two labelled packets of the ganja seized in the Narsinghpur case. Photo: Deshbandhu'
 ---
 
 Themi police arrested a 58-year-old accused in a ganja-smuggling case in
-Narsinghpur district on Wednesday. [@1] The suspect ran on seeing the police and
-was caught after a chase. [@1]
+Narsinghpur district on Wednesday. [@1] The arrested man gave his name as Dilip Lodhi, son of Lalsingh Lodhi, aged 58, of Shed Magardha village in the Themi police station area of Narsinghpur district. [@2] The suspect ran on seeing the police and
+was caught after a chase. [@1,2]
 
-Police cordoned off the Shed river bridge in Narsinghpur to catch him. [@1]
-Officers seized about 2 kg of ganja from the accused. [@1] Police put the value
-of the seized ganja at Rs 50,000. [@1]
-
+Police cordoned off the Shed river bridge in Narsinghpur to catch him. [@1,2] The action was taken under Operation Eagle Claw, directed by Narsinghpur Superintendent of Police Dr Rishikesh Meena, after a tip that a man would bring ganja near Belkhedi by the Shed river bridge. [@2]
+Officers seized about 2 kg of ganja from the accused. [@1,2] Police put the value
+of the seized ganja at Rs 50,000. [@1,2] Police registered a case against him at Themi police station under sections 8 and 20 of the NDPS Act and took it up for investigation. [@2]
