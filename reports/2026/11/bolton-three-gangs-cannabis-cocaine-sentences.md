@@ -56,11 +56,10 @@ sources:
     url: https://britbrief.co.uk/crime/sentencing/drug-gang-leaders-jailed-for-trafficking-cocaine-and-cannabis.html
     publisher: Brit Brief
     date: 2026-11-10
-open_questions:
-  - Judge Jon Close found that more than 40 kilograms of drugs were moved across 13 deliveries, but as this total combined cocaine and cannabis, only the two kilograms of cannabis specifically seized from Ben Illidge is recorded in figures.
-  - Initial accounts give Kyle Tracey's age as 39 and Paul Birch's as 42, while sentencing records later identify Tracey as 37 and Birch as 58.
-  - Sentencing hearings for Lee Shaw and Paul Birch were postponed to later dates.
-  - Financial confiscation amounts remain undetermined pending a Proceeds of Crime Act hearing scheduled for 15 March 2027.
+  - title: Drug gangs joined forces to traffic cocaine and cannabis between North Wales, Manchester and Stoke
+    url: https://www.dailypost.co.uk/news/north-wales-news/drug-gangs-joined-forces-traffic-34894716
+    publisher: North Wales Live
+    date: 2026-11-11
 ---
 
 Bolton Crown Court sentenced members of three organised crime groups who
@@ -68,20 +67,20 @@ conspired to traffic cocaine and cannabis between Manchester, Stoke-on-Trent and
 North Wales. [@1] Declan Hayes headed the Manchester-based group, Lee Shaw led
 an outfit from Stoke-on-Trent, and Kyle Tracey directed a North Wales group
 while living in Liverpool. [@1] Michael Corcoran acted as Hayes's right-hand man
-and operated a safe house used for meetings and drug storage. [@1] Paul Birch
+and operated a safe house used for meetings and drug storage. [@1,3] Paul Birch
 served as another trusted lieutenant for the Manchester group, travelling
-between Stoke-on-Trent and North Wales to meet with Shaw and Tracey. [@1]
+between Stoke-on-Trent and North Wales to meet with Shaw and Tracey. [@1,3]
 
 Ashley Townley became involved as a courier following Birch's arrest in July
-2021. [@1] In the Stoke group, Simon Rutter directed courier Damien Baddeley
+2021. [@1,3] In the Stoke group, Simon Rutter directed courier Damien Baddeley
 until both were arrested while transporting a quarter of a kilogram of cocaine.
-[@1] Ben Illidge was recruited as a replacement courier and was later detained
+[@1,3] Ben Illidge was recruited as a replacement courier and was later detained
 in possession of two kilograms of cannabis after meeting with Hayes and Townley.
-[@1] Sentencing judge Jon Close found that the conspiracy had moved more than 40
-kilograms of drugs across 13 deliveries. [@1]
+[@1,3] Sentencing judge Jon Close found that the conspiracy had moved more than 40
+kilograms of drugs across 13 deliveries. [@1,3]
 
 Judge Close jailed Declan Hayes for 11 years and six months for conspiracy to
-supply cocaine and cannabis. [@1] Michael Corcoran was jailed for seven years
+supply cocaine and cannabis. [@1,3] Michael Corcoran was jailed for seven years
 and six months and Simon Rutter for six years and three months on the same
 conspiracy charges. [@1] Damien Baddeley received an 18-month sentence for
 conspiracy to supply cocaine and cannabis, which was treated as served because
@@ -91,4 +90,3 @@ Illidge were each handed two-year community orders with unpaid work and
 electronically monitored curfews for conspiracy to supply cannabis. [@2] Lee
 Shaw and Paul Birch were scheduled for sentencing at later hearings, while a
 Proceeds of Crime Act hearing was set for March of the following year. [@2]
-
