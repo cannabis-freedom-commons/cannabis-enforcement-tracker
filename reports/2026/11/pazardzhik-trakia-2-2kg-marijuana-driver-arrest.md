@@ -65,20 +65,25 @@ sources:
     publisher: NewsPoint.bg
     date: 2026-11-11
     language: bg
+  - title: 2,2 кг марихуана откриха в автомобил на АМ „Тракия“, шофьорът бил под въздействието на кокаин
+    url: https://infomreja.bg/22-kg-marihuana-otkriha-v-avtomobil-na-am-%E2%80%9Etrakiya%E2%80%9C-shoforat-bil-pod-vazdejstvieto-na-kokain.html
+    publisher: Инфомрежа
+    date: 2026-11-11
+    language: bg
 ---
 
 Officers from the anti-criminal-crime sector of the Pazardzhik police
 directorate carried out an operation against the possession and distribution of
-drugs alongside traffic police officers. [@1,5] On the Trakia motorway near
+drugs alongside traffic police officers. [@1,5,6] On the Trakia motorway near
 Pazardzhik, officers stopped a Peugeot car driven by a 25-year-old resident of
-the village of Rogosh in Plovdiv Province. [@1,5] Police established that the
-driver was behind the wheel under the influence of cocaine. [@1,4,5] He was detained
+the village of Rogosh in Plovdiv Province. [@1,5,6] Police established that the
+driver was behind the wheel under the influence of cocaine. [@1,4,5,6] He was detained
 for up to 24 hours in the detention facility of the Pazardzhik police precinct.
-[@1,5]
+[@1,5,6]
 
 Inside the car, officers discovered four vacuum-sealed polythene bags containing
-dried leaf material of flower heads and inflorescences. [@1,4,5] A field drug test
+dried leaf material of flower heads and inflorescences. [@1,4,5,6] A field drug test
 reacted positively for marijuana, yielding a total seized weight of 2.2
-kilograms. [@2,4,5] The vehicle and the drugs were seized, and pre-trial proceedings
+kilograms. [@2,4,5,6] The vehicle and the drugs were seized, and pre-trial proceedings
 were initiated under the supervision of the Pazardzhik District Prosecutor's
-Office. [@3,4,5]
+Office. [@3,4,5,6]
