@@ -55,25 +55,31 @@ sources:
     publisher: Leggo
     date: 2026-11-09
     language: it
+  - title: 'Roma: droga e orologi di lusso con diamanti in casa, arrestato dalla Polizia un 42enne - Ore12'
+    url: https://www.ore12.net/roma-droga-e-orologi-di-lusso-con-diamanti-in-casa-arrestato-dalla-polizia-un-42enne/
+    publisher: Ore12
+    date: 2026-11-10
+    language: it
 open_questions:
   - The exact weight of the marijuana is given only as "oltre mezzo chilo" (more than half a kilogram); 0.5 kg is used as the minimum figure.
   - The article gives no separate incident date; 9 November 2026 is its publication and last-update date.
   - No charge beyond drug possession (detenzione di droga), court step or outcome is reported, and no asset-prevention measure is stated to have been imposed.
   - The cannabis was not valued in the article; no figure is given for its street worth.
   - Only one outlet, Leggo, was found reporting the event; the version read is its MSN republication.
+  - The headline says a 42-year-old was arrested while the body says Simone A. di 41 anni; the report continues to use 41.
 ---
 
 Police from Rome's Primavalle district arrested a 41-year-old man and accused
-him of drug possession, in the Italian formulation detenzione di droga. [@1]
+him of drug possession, in the Italian formulation detenzione di droga. [@1,3]
 Officers stopped him as he left a cellar in via Marcello Palmisano and found
 three packages holding 175 grams of cocaine and two mobile phones. [@1] The keys
 he carried opened the cellar, where police found another 230 grams of cocaine,
-75 grams of hashish and more than half a kilogram of marijuana. [@1] The cellar
-also held scales and material for packaging the drugs. [@1]
+75 grams of hashish and more than half a kilogram of marijuana. [@1,3] The cellar
+also held scales and material for packaging the drugs. [@1] The cellar also held accounting notes and nine empty packs of the type used to hold a kilo of cocaine. [@3]
 
 A search of his home found more drugs, a small scale and notes hidden in the
 bathroom's false ceiling. [@1] Police seized 14,700 euros in cash, kept in a
-piece of furniture and in a double bottom inside an electric fireplace. [@1]
+piece of furniture and in a double bottom inside an electric fireplace. [@1,3]
 They also seized four watches, three Rolex and one Cartier, found in a safe and
 behind a skirting board. [@1] The hiding place in the fireplace was discovered
 through a video the man had deleted from his mobile phone, which investigators
@@ -85,4 +91,3 @@ cellars in via Marcello Palmisano. [@2]
 Rome's public prosecutor's office is coordinating checks on his phones and his
 criminal contacts, and is examining his and his partner's income for a possible
 asset-prevention measure. [@1]
-
