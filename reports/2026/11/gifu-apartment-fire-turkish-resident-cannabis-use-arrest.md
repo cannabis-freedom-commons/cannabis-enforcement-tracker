@@ -42,32 +42,35 @@ sources:
     publisher: ぎふチャン (Gifu Broadcasting System)
     date: 2026-11-11
     language: ja
+  - title: 岐阜市のアパートで12人が搬送される火事 火元の部屋の男が大麻使用で逮捕(メ~テレ(名古屋テレビ))|dメニューニュース(NTTドコモ)
+    url: https://topics.smt.docomo.ne.jp/article/nagoyatv/region/nagoyatv-038005
+    publisher: メ~テレ(名古屋テレビ)
+    date: 2026-11-12
+    language: ja
 open_questions:
-  - The cause of the fire has not been established, and police have not said whether the cannabis use caused it.
-  - Reports differ on the time of the emergency call, given as about 1:05 a.m. by one outlet and about 1:10 a.m. by another.
-  - No amount of cannabis was reported seized, and no urine test concentration or other laboratory result was published.
-  - Whether the man has been charged, indicted or prosecuted after the arrest is not yet known.
-  - No figure for the extent of the damage to the apartment building was published in the reports opened.
-  - The accounts opened are all Japanese-language news reports drawing on the same police statement; the station published no separate release.
-  - 'Left out, as its quotation was not found in ぎふチャン (Gifu Broadcasting System): Questioned by police, the man admitted the allegation.'
+    - The cause of the fire has not been established, and police have not said whether the cannabis use caused it.
+    - Reports differ on the time of the emergency call, given as about 1:05 a.m. by one outlet and about 1:10 a.m. by another.
+    - No amount of cannabis was reported seized, and no urine test concentration or other laboratory result was published.
+    - Whether the man has been charged, indicted or prosecuted after the arrest is not yet known.
+    - No figure for the extent of the damage to the apartment building was published in the reports opened.
+    - The accounts opened are all Japanese-language news reports drawing on the same police statement; the station published no separate release.
 ---
 
 A fire broke out in a three-storey apartment building in Kita-Isshiki, Gifu, in
 the early hours of 11 November 2026, after a neighbour reported seeing flames
 from the first floor. [@1] Twelve of the building's residents, aged from one to
 their forties, were taken to hospital and were thought to have minor injuries.
-[@1] The injured were taken to hospitals in Gifu City and in the neighbouring
+[@1,4] The injured were taken to hospitals in Gifu City and in the neighbouring
 town of Kasamatsu. [@2] The apartment housed 11 households and 15 residents in
 total. [@1] No one was left behind in the fire. [@3] The man who lived in the
 ground-floor room where the fire started was not injured. [@1]
 
 Gifu Chuo Police Station arrested that resident, a 43-year-old unemployed
 Turkish man, on 11 November on suspicion of violating the Narcotics Control Law
-by using cannabis. [@1] Police said he was suspected of using cannabis between
-early August and 11 November. [@1] The suspicion arose during the fire
+by using cannabis. [@1,4] Police said he was suspected of using cannabis between
+early August and 11 November. [@1,4] The suspicion arose during the fire
 investigation: officers found his behaviour suspicious, tested his urine and
 detected cannabis components. [@1]
 
 Police said they are investigating whether the cannabis use is connected to the
-fire. [@1]
-
+fire. [@1,4]
