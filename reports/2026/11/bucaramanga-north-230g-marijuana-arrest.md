@@ -41,6 +41,11 @@ media:
     media_url: https://www.vanguardia.com/resizer/v2/capturan-a-hombre-con-marihuana-y-derivados-de-cocaina-en-el-norte-de-bucaramanga-UMBJS4EYGRBLNE3HH5LORVFAFY.jpeg?auth=aa9ce5c4acf8b1d8cc7fcc250ded9b67bea574c668ead1846bc3c2c60c036ff8&smart=true&width=1200&height=800&quality=70
     publisher: Vanguardia
     caption: Lead photo published with the report on the arrest of a 30-year-old man with 230 grams of marijuana and 30 wraps of a cocaine derivative in northern Bucaramanga.
+  - kind: photo
+    url: https://kesedice.com/judicial/con-un-cargamento-de-marihuana-y-cocaina-cayo-un-hombre-durante-operativo-en-bucaramanga-4YW8R329
+    media_url: https://kesedice.com/images/notices/17943421197764_800W.webp
+    publisher: Ke se dice
+    caption: 'Police photo of the detained man with officers and the seized packets labelled BAZUCO and MARIHUANA on a table. Photo: Suministrada'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2d80785b068b7bd7b50ec17ad4adcd80
@@ -51,29 +56,32 @@ sources:
     publisher: Vanguardia
     date: 2026-11-09
     language: es
+  - title: Con un cargamento de marihuana y cocaína cayó un hombre durante operativo en Bucaramanga
+    url: https://kesedice.com/judicial/con-un-cargamento-de-marihuana-y-cocaina-cayo-un-hombre-durante-operativo-en-bucaramanga-4YW8R329
+    publisher: Ke se dice
+    date: 2026-11-10
+    language: es
 open_questions:
-  - The article gives no separate date for the procedure; 9 November 2026 is the date and publication date shown on the page and is used as the incident date.
-  - The 230 grams is described as marijuana without a reported laboratory confirmation, and the number of doses it was divided into is not given.
-  - The 30 wraps of a cocaine-derived substance are recorded only in the text; their weight is not reported and they are not counted as cannabis.
-  - No name, charge hearing result, measure of restraint or court outcome was reported; the case was at the stage of being presented to a judge of guarantees.
-  - Only one source for this procedure could be found; no police statement or second outlet account was opened.
-  - No cannabis valuation was published. The lead photo is credited to no one on the page and its caption only repeats the headline.
+    - The accounts give no separate date for the procedure; 9 November 2026, the publication date of the first report, is used as the incident date.
+    - The 230 grams is described as marijuana without a reported laboratory confirmation, and the number of doses it was divided into is not given.
+    - The 30 wraps of a cocaine-derived substance, labelled bazuco in the police handout photograph, are recorded only in the text; their weight is not reported and they are not counted as cannabis.
+    - No name, charge hearing result, measure of restraint or court outcome was reported; the case was at the stage of being presented to a judge.
+    - No cannabis valuation was published.
 ---
 
 Police in northern Bucaramanga arrested a 30-year-old man found carrying 230
-grams of marijuana and 30 wraps of a substance derived from cocaine. [@1]
+grams of marijuana and 30 wraps of a substance derived from cocaine. [@1,2]
 Officers of preventive patrol stopped him at the corner of carrera 1B and calle
-23 norte in the north of the city. [@1] During the personal search police found
-a black airtight plastic bag holding the 230 grams of marijuana. [@1] Police
+23 norte in the north of the city. [@1,2] The patrol and control operation was carried out by the National Police's Grupo Fuerza Disponible (Available Force Group). [@2] During the personal search police found
+a black airtight plastic bag holding the 230 grams of marijuana. [@1,2] Police
 also found the 30 plastic wraps of the cocaine-derived substance, and seized all
-of the material. [@1]
+of the material. [@1,2]
 
 He was arrested in flagrancy for the offence of trafficking, manufacturing or
-carrying narcotics. [@1] Brigadier General Miguel Andrés Camelo Sánchez,
+carrying narcotics. [@1,2] Brigadier General Miguel Andrés Camelo Sánchez,
 commander of the Bucaramanga Metropolitan Police, said controls would continue
-in different sectors of the city to counter local drug trafficking. [@1] The
+in different sectors of the city to counter local drug trafficking. [@1,2] The
 detained man and the seized substances were placed at the disposal of the
-Attorney General's Office, the Fiscalía General de la Nación. [@1] The Fiscalía
+Attorney General's Office, the Fiscalía General de la Nación. [@1,2] The Fiscalía
 is to run the process and bring him before a judge who guarantees rights, who
-will decide his judicial situation. [@1]
-
+will decide his judicial situation. [@1,2]
