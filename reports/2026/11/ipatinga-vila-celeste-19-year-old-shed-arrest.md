@@ -68,6 +68,11 @@ sources:
     publisher: Diário do Aço
     date: 2026-11-10
     language: pt
+  - title: Jovem de 19 anos é preso com maconha, cocaína e haxixe em barracão na Vila Celeste, em Ipatinga | Plox
+    url: https://plox.com.br/noticia/10/11/2026/jovem-preso-drogas-vila-celeste-ipatinga
+    publisher: Plox
+    date: 2026-11-10
+    language: pt
 open_questions:
     - No weight or value was published for the marijuana or hashish, only counts of 20 packages and 12 portions, so no cannabis weight is recorded.
     - The first account does not mention the 31 cocaine portions listed by the second account, so cocaine quantities are excluded from cannabis figures.
@@ -77,19 +82,19 @@ open_questions:
 
 Military Police arrested a 19-year-old suspected of drug trafficking on the
 night of Monday 9 November 2026 in a shed on Rua Antonio Boaventura Batista in
-Vila Celeste, Ipatinga. [@1,3,4,5] Officers went to the property after receiving
+Vila Celeste, Ipatinga. [@1,3,4,5,6] Officers went to the property after receiving
 information that it was used to store drugs, and the youth authorized the team's
-entry and pointed out the drugs' hiding place. [@1,4,5]
+entry and pointed out the drugs' hiding place. [@1,4,5,6]
 
 Police seized 20 packages of marijuana, 12 portions of hashish, a bar of cocaine
-base paste, three precision scales and a cell phone. [@1,3,4] A second account
+base paste, three precision scales and a cell phone. [@1,3,4,6] A second account
 identifies the marijuana as Colombian Gold type and additionally lists 31
 portions of cocaine and an iPhone 11 among the seized items. [@2,5]
 
 The suspect told police he had kept the material in the shed for about seven
-months and intended to distribute it. [@1,3,4,5] He said he was keeping the drugs in
+months and intended to distribute it. [@1,3,4,5,6] He said he was keeping the drugs in
 the property for a relative. [@2,5] He was arrested in the act for drug
 trafficking and taken with the seized material to the Civil Police station,
-where an inquiry was opened to investigate the case. [@2,4,5] Police are also
+where an inquiry was opened to investigate the case. [@2,4,5,6] Police are also
 investigating a possible link between the case and other serious crimes recently
 recorded in Vila Celeste. [@2] Police identified the relative as the youth's cousin Diele Rodrigues de Souza, who was shot dead on 8 November, and stated that the youth admitted intending to sell the deceased cousin's drugs to finance new shipments. [@5]
