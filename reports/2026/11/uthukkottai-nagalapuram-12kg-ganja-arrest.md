@@ -48,25 +48,30 @@ sources:
     publisher: Dinamalar
     date: 2026-11-10
     language: ta
+  - title: ஊத்துக்கோட்டை சோதனை சாவடியில் 12 கிலோ கஞ்சா பறிமுதல்; 2 பேர் கைது
+    url: https://www.dinakaran.com/news/ganja-uthukottai-checkpost-2arrested/amp
+    publisher: Dinakaran
+    date: 2026-11-11
+    language: ta
 open_questions:
-    - Monday night is the only timing given in the earlier account, while the new account dates the arrest, court production and jailing to 10 November 2026.
+    - 'Reports differ on the timing of the arrest, court production and jailing: one account gives Monday night, while another dates them to 10 November 2026.'
     - No charges beyond the registered case or court outcome beyond production before the Uthukkottai court were reported.
     - No street value for the seized ganja was published.
 ---
 
 Acting on a tip to Thiruvallur Superintendent of Police Sai Praneeth that ganja
 was being smuggled from the Andhra area through Uthukkottai in Thiruvallur
-district, police ordered action by the concerned station. [@1] Led by
+district, police ordered action by the concerned station. [@1,3] Led by
 Uthukkottai special sub-inspector Sekar, officers stopped a two-wheeler for
 inspection at the Nagalapuram checkpost on Monday night. [@1] The riders gave
 contradictory answers, prompting officers to inspect the bag they were carrying
-and find ganja inside. [@1,2]
+and find ganja inside. [@1,2,3]
 
 Questioning identified them as 30-year-old Muthukkalai, son of Karuppasami of
 Pudukudi village near Paramakudi in Ramanathapuram district, and 32-year-old
-Karthikeyan, son of Murugesan of Thathakkapatti near Salem. [@1,2] Uthukkottai
-police registered a case against both men and arrested them. [@1,2] The men were produced before the Uthukkottai court and lodged in Puzhal jail the same day. [@2] Officers
-seized 12 kilograms of ganja and the two-wheeler used to carry it. [@1,2]
+Karthikeyan, son of Murugesan of Thathakkapatti near Salem. [@1,2,3] Uthukkottai
+police registered a case against both men and arrested them. [@1,2] The men were produced before the Uthukkottai court and lodged in Puzhal jail the same day. [@2,3] Officers
+seized 12 kilograms of ganja and the two-wheeler used to carry it. [@1,2] Police said the pair had been selling ganja to school and college students and young people in Thiruvallur and its surrounding areas. [@3]
 
 Police said the pair had been carrying the ganja on the two-wheeler near
 Uthukkottai when they were intercepted during the vehicle check. [@1]
