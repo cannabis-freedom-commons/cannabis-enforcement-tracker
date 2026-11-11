@@ -48,7 +48,7 @@ tags:
   - scotland
 open_questions:
   - The opened sources give no exact coordinates for the interception in the Atlantic.
-  - No prosecution outcomes for the seven arrested people are recorded in the opened sources.
+  - Only the trawler owner's 12-year sentence is recorded in the opened sources; outcomes for the other six arrested people are not.
   - >-
     One retrospective account describes the interception as happening off the Portuguese coast near Lisbon
     rather than off western Spain.
@@ -60,6 +60,7 @@ sources:
   - title: Huge cannabis haul found on boat
     publisher: BBC News (via Drugs-Forum mirror)
     url: https://drugs-forum.com/ams/huge-cannabis-haul-found-on-boat-bbc.3051/
+    archived: https://web.archive.org/web/20260224045535/https://drugs-forum.com/ams/huge-cannabis-haul-found-on-boat-bbc.3051/
     date: '2005-06-08'
   - title: 'Ruthless, rich and bloody: now Europe''s most vicious drug lords target Britain'
     publisher: The Observer (via Bluelight forum mirror)
@@ -69,6 +70,10 @@ sources:
     publisher: The Scotsman (via Care Appointments)
     url: https://careappointments.com/care-news/scotland/86882/scotlands-biggest-drugs-ring-broken/
     date: '2006-09-21'
+  - title: Drugs cops snared 'Iceman' over £1m money laundering
+    publisher: Glasgow Times
+    url: https://www.glasgowtimes.co.uk/news/12860638.drugs-cops-snared-iceman-over-pound1m-money-laundering/
+    date: '2007-04-06'
 coordinates:
   - 36.5271
   - -6.2885
@@ -82,3 +87,8 @@ Scottish police said they had broken up a major smuggling ring after a fishing b
 The four crew members on board, including two Scots aged 49 and 43, were arrested, along with three more people in Glasgow and Perth. [@1] Officers put the haul at eight tonnes and said they believed the drugs were destined for Scotland. [@1] A later Scotsman account of the wider Operation Folklore investigation described the Squilla as a converted trawler owned by John Gorman that was intercepted off western Spain in June 2005 carrying cannabis worth 24 million pounds. [@3]
 
 Spain's Interior Ministry said the British-registered Squilla was stopped on Sunday 5 June [@1] 2005 as part of Operation Bouzas, a joint Spanish-British inquiry running for three months [@1] after a British request through Europol. [@1]
+
+The trawler was owned by John Gorman of Irvine, who was later jailed for 12 years for drug
+trafficking and money laundering after the wider Operation Folklore inquiry into the Scottish
+end of the trade. [@4] Spanish customs and undercover police are credited with seizing the 24
+million pound cannabis cargo from the vessel. [@4]
