@@ -57,6 +57,11 @@ sources:
     publisher: pelop.gr
     date: 2026-11-10
     language: el
+  - title: Εξάρθρωση συμμορίας διακίνησης ναρκωτικών σε ανήλικους στον Πύργο
+    url: https://www.businessdaily.gr/koinonia/242843_exarthrosi-symmorias-diakinisis-narkotikon-se-anilikoys-ston-pyrgo?amp=
+    publisher: Business Daily
+    date: 2026-11-10
+    language: el
 open_questions:
   - The police announcement and news reports are dated 10 November 2026 and do not give separate dates for the execution of the two arrest warrants or the house searches.
   - No names, ages or nationalities of the two arrested suspects or the 11 other identified gang members were released, and the identities of the schools were withheld to protect minors.
@@ -70,26 +75,25 @@ Officers of the Pyrgos Narcotics Division dismantled a drug-trafficking gang in
 Pyrgos, Elis after a months-long investigation into sales that reached inside
 local school complexes. [@3] Police arrested two suspects under warrants issued
 by the Ilia Investigating Magistrate and identified 11 other suspected members
-of the group. [@3] A case file was compiled against all 13 suspects on
+of the group. [@3,4] A case file was compiled against all 13 suspects on
 accusations of forming a gang and procuring, storing, processing and trafficking
-narcotics. [@2] The two detained suspects were taken before the Ilia Court of
+narcotics. [@2,4] The two detained suspects were taken before the Ilia Court of
 First Instance Prosecutor's Office. [@3] Four of the accused gang members had
 already been arrested earlier in flagrante delicto in separate cases involving
-drug possession and trafficking, explosives and weapons. [@2]
+drug possession and trafficking, explosives and weapons. [@2,4]
 
 During the preliminary investigation and house searches ordered by the Ilia
 Investigating Magistrate, officers found and seized 188.7 grams of raw dried
 cannabis and 13.7 grams of processed cannabis paste, a total of 202.4 grams of
-cannabis, along with 80.1 grams of cocaine. [@3] Officers also seized an
+cannabis, along with 80.1 grams of cocaine. [@3,4] Officers also seized an
 improvised incendiary device, a firecracker, two knives and an air gun during
 the searches. [@3] Police additionally confiscated 360 euros in cash and
 numerous mobile phones and SIM cards as part of the investigation evidence. [@3]
 
 Investigators determined that the suspects had formed the gang with distinct
 roles from early June 2025 to early April 2026 to traffic mainly cannabis and
-cocaine in Pyrgos. [@2] According to the police statement, the suspects carried
+cocaine in Pyrgos. [@2,4] According to the police statement, the suspects carried
 out their deals in parks, sports facilities and schools, completing at least 470
 transactions to more than 70 users, including pupils inside school complexes.
-[@1] Police estimated the group's expected illicit financial gain from the sales
-at at least 25,000 euros. [@3]
-
+[@1,4] Police estimated the group's expected illicit financial gain from the sales
+at at least 25,000 euros. [@3,4]
