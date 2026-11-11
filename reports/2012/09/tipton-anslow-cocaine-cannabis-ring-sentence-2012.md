@@ -66,18 +66,20 @@ sources:
     url: https://www.expressandstar.com/news/crime/john-anslow-cleared-of-murdering-staffordshire-businessman-richard-deakin-6363406
     publisher: Express and Star
     date: 2014-03-26
-open_questions:
-  - The exact day in September 2012 when the drug sentences were handed down was not reported; 1 September is used as a placeholder and the date is approximate.
-  - No weight was reported for the £1.1 million cannabis resin haul at Formby, so no cannabis kilogram figure is recorded.
-  - A later Express and Star account said the murder trial heard the cannabis dealing could involve a few kilos up to 240 kilos of resin; that range is an allegation, not a seized amount, and is left out.
-  - The sources differ on associates' drug terms, for example alternative figures for other gang members; this report records only Anslow's 22-year term and the total of eight sentenced.
-  - No separate cannabis-only weight can be separated from the overall cocaine-and-cannabis conspiracy; only the distinctly described cannabis resin haul value is recorded.
+  - title: Drugs kingpin John Anslow loses appeal against his convictions and 22-year sentence
+    url: https://www.birminghammail.co.uk/news/midlands-news/drugs-kingpin-john-anslow-loses-10353527
+    publisher: Birmingham Live
+    date: 2015-10-29
+  - title: Drugs baron John Anslow fails in bid to clear name
+    url: https://www.expressandstar.com/news/crime/drugs-baron-john-anslow-fails-in-bid-to-clear-name-6326009
+    publisher: Express and Star
+    date: 2015-10-30
 ---
 
 John Anslow, 33, from Tipton, was sentenced in September 2012 to 22 years in
 prison for conspiracy to supply cocaine and cannabis, convicted in his absence
-while on the run. [@1] He led a UK-wide gang distributing large quantities of
-cocaine and cannabis. [@1] The network distributed drugs across the country from
+while on the run. [@1,5,6] He led a UK-wide gang distributing large quantities of
+cocaine and cannabis. [@1,5,6] The network distributed drugs across the country from
 a Tipton base. [@1] He was sentenced alongside seven others for large-scale drug
 supply. [@4] His later appeal described concurrent terms for cocaine supply and
 for cannabis supply. [@3]
@@ -97,4 +99,3 @@ was on the run until March of last year, when he was arrested on immigration
 offences and deported back to the UK. [@4] Reporting restrictions were then
 lifted, revealing that he was serving a 22-year drug-trafficking sentence
 alongside a further term for the escape. [@4]
-
