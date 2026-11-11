@@ -73,28 +73,31 @@ sources:
     publisher: roztocze.net
     date: 2026-11-10
     language: pl
+  - title: 23-latek odpowie za posiadanie marihuany
+    url: https://ezamosc.pl/region/item/13868-23-latek-odpowie-za-posiadanie-marihuany
+    publisher: ezamosc.pl
+    date: 2026-11-10
+    language: pl
 open_questions:
-  - The statement gives no separate date for the detention or the search; 9 November 2026 is the publication date and is used as the incident date.
-  - The weight is stated only as more than 220 grams of marijuana, with no exact figure and no laboratory confirmation of the substance.
-  - The statement does not say where exactly the detention or the search of the car took place, so the district rather than a locality is given.
-  - No pre-trial detention, court date or outcome was reported; the case was at the charge stage.
-  - Only the police statement itself was found; no second outlet coverage could be opened.
-  - The 'up to three years' is the penalty the law allows, not a sentence given.
-  - kryminalki.pl gives no separate date for the detention or the searches; its publication date, 9 November 2026, is the only date provided.
+    - The statement gives no separate date for the detention or the search; 9 November 2026 is the publication date and is used as the incident date.
+    - The weight is stated only as more than 220 grams of marijuana, with no exact figure and no laboratory confirmation of the substance.
+    - The statement does not say where exactly the detention or the search of the car took place, so the district rather than a locality is given.
+    - No pre-trial detention, court date or outcome was reported; the case was at the charge stage.
+    - The 'up to three years' is the penalty the law allows, not a sentence given.
 ---
 
 Detectives from the Tomaszów Lubelski police detained a 23-year-old resident of
 the municipality of Tomaszów Lubelski who, by their findings, may have held
-drugs. [@1,2,3,4,5]
+drugs. [@1,2,3,4,5,6]
 
 In the car the man was in, which detectives were watching, officers found
-marijuana. [@1,2,3,4,5] At his home officers seized further portions of dried plant
-material, bringing the total to more than 220 grams of marijuana. [@1,2,3,4,5] The
-23-year-old was charged with illegal possession of a narcotic drug. [@1,2,3,4,5] Under
+marijuana. [@1,2,3,4,5,6] At his home officers seized further portions of dried plant
+material, bringing the total to more than 220 grams of marijuana. [@1,2,3,4,5,6] The
+23-year-old was charged with illegal possession of a narcotic drug. [@1,2,3,4,5,6] Under
 Poland's law on counteracting drug addiction, illegal possession of a narcotic
-drug carries a penalty of up to three years in prison. [@1,2,5]
+drug carries a penalty of up to three years in prison. [@1,2,5,6]
 
 The police statement was published with the name of press officer aspirant
-Małgorzata Pawłowska. [@1,2]
+Małgorzata Pawłowska. [@1,2,6]
 
 The man was arrested and heard the charges, which carry up to three years in prison under the police account of the case. [@4]
