@@ -70,6 +70,11 @@ sources:
     publisher: La 7
     date: 2026-11-11
     language: es
+  - title: 'Un fusil de asalto, una granada y 200 kilos de marihuana: lo que escondían dos viviendas de Los Dolores en Cartagena'
+    url: https://www.murciaactualidad.com/sucesos/fusil-asalto-granada-200-kilos-marihuana-que-escondian-dos-viviendas-dolores-cartagena/20261111101836038256.html
+    publisher: Murcia Actualidad
+    date: 2026-11-11
+    language: es
 media:
   - kind: photo
     url: https://www.cartagenaactualidad.com/sucesos/desmantelan-dos-plantaciones-marihuana-dolores-cartagena-200-kilos-droga-fusil-asalto-granada/20261111101610231146.html
@@ -91,11 +96,6 @@ media:
     media_url: https://www.cope.es/uploads/2026/11/11/QjyMEPOV4TiOFxmyh6iLa.mp4
     publisher: COPE
     caption: 'COPE''s video of the dismantling of the marijuana grow points in Los Dolores. Credit: Policía Nacional.'
-open_questions:
-    - 'The accounts give different figures for the plants and their weight: more than 500 plants weighing 200 kg in the 11 November reports, and 438 plants weighing almost 172 kg in La Verdad''s report.'
-    - The 11 November accounts give no separate date for the searches, describing the joint investigation as having run over recent months.
-    - 'The accounts disagree on the electricity connections: COPE says the taps ran directly to the public lighting, while La Verdad reports that the electricity company confirmed neither home had a supply contract in force.'
-    - The reports do not say whether the two detainees were charged or what a court decided.
 ---
 
 National Police and Customs Surveillance officers dismantled two marijuana
@@ -104,24 +104,24 @@ during the previous week. [@1,2,3,4,5,6] Officers found a 51-year-old man in the
 house who tried to stop them entering and had to be restrained. [@1] The woman
 who owned both properties was also arrested over alleged involvement but was
 released on provisional liberty after giving a statement, and the proceedings
-were sent to Cartagena Investigating Court number 4. [@1] A judge subsequently ordered the principal suspect remanded in provisional detention. [@2,4,6]
+were sent to Cartagena Investigating Court number 4. [@1] A judge subsequently ordered the principal suspect remanded in provisional detention. [@2,4,6,7]
 
 The searches found two indoor plantations holding 438 marijuana plants weighing
-almost 172,000 grams, about 172 kg. [@1] One of the houses was practically bunkerised, with high-security doors installed to protect the plantation. [@5] At the La Palma property officers also
+almost 172,000 grams, about 172 kg. [@1] One of the houses was practically bunkerised, with high-security doors installed to protect the plantation. [@5,7] At the La Palma property officers also
 found a Kalashnikov-type assault rifle with two magazines and a semi-automatic
 pistol with its magazine and cartridges. [@1] Officers also seized a hand
 grenade, which was removed by TEDAX, the National Police explosives-disposal
-specialists. [@1,2,4,5,6] Officers also seized a pellet shotgun with a telescopic sight, binoculars, a sword stick and an electric defence device. [@2,4,5,6] Among the seized items were numerous cultivation devices,
+specialists. [@1,2,4,5,6,7] Officers also seized a pellet shotgun with a telescopic sight, binoculars, a sword stick and an electric defence device. [@2,4,5,6,7] Among the seized items were numerous cultivation devices,
 including fans, extractors, filters, transformers and lights. [@1]
 
 The investigation began after officers detected an increase in marijuana
 cultivation in private homes and possible illegal connections to the electricity
-network. [@1] The inquiry focused on two properties on La Palma and San Leandro
+network. [@1] The joint investigation by the National Police in the Region of Murcia and Customs Surveillance officers ran for several months. [@7] The inquiry focused on two properties on La Palma and San Leandro
 streets, both owned by a woman. [@1] During surveillance officers detected a
 strong smell of marijuana and air-conditioning and ventilation equipment
 consistent with intensive cannabis cultivation. [@1] The electricity company
 confirmed that neither home had a supply contract in force and that both had
-illegal connections to the network. [@1] Both illegal electricity connections were tapped directly into the public lighting to power the cultivation equipment. [@5,6] Investigators obtained judicial
+illegal connections to the network. [@1] Both illegal electricity connections were tapped directly into the public lighting to power the cultivation equipment. [@5,6,7] The National Police warned that such clandestine connections can cause overloads, fires and power cuts, putting the occupants of the houses and the residents of nearby homes at risk. [@7] Investigators obtained judicial
 authorisation to search both homes, and the joint National Police and Customs
 Surveillance operation took place the previous Thursday. [@1] The man was
 detained as the alleged perpetrator of public-health, illegal-weapons,
