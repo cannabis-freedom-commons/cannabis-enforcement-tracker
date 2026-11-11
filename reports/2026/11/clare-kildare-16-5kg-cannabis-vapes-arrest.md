@@ -72,6 +72,11 @@ sources:
     url: https://www.leinsterleader.ie/news/crime-courts/man-arrested-in-kildare-following-seizure-of-eur235000-worth-of-suspected-herbal-cannabis-9340968
     publisher: Kildare Live
     date: 2026-11-10
+  - title: Close to €1.5million worth of drugs seized in separate searches in Wexford, Kildare and Clare
+    url: https://kclr96fm.com/close-to-e1-5million-worth-of-drugs-seized-in-separate-searches-in-wexford-kildare-and-clare/
+    publisher: KCLR 96FM
+    date: 2026-11-10
+    language: en
 open_questions:
     - The reported 16.5 kg herbal cannabis is a total for several operations across Clare and Kildare; the weight seized in each county, including the Clare operation of 6 November, was not stated.
     - The weight and value of the cannabis vapes and gummies were not given separately, so only the €359,000 overall estimate is recorded and the €124,000 Clare estimate is not counted as a separate value.
@@ -82,14 +87,14 @@ open_questions:
 
 Gardaí and Revenue Customs officers seized approximately 16.5 kg of herbal
 cannabis, along with a quantity of cannabis vapes and cannabis gummies, with an
-estimated value of €359,000. [@1,2,3] The seizures were made by the Garda National
+estimated value of €359,000. [@1,2,3,8] The seizures were made by the Garda National
 Drugs and Organised Crime Bureau, Divisional Drugs Units in Clare and Kildare
 and Revenue's Customs Service. [@1,2,3,4,6]
 
 During one intelligence-led operation in County Clare on Friday 6 November 2026,
 cannabis vapes and cannabis gummies with an estimated street value of €124,000,
-subject to final analysis, were seized. [@1,2,3,5,7] One person was arrested after a
-significant seizure in County Kildare that afternoon. [@1] One male, aged in his 30s, was arrested and is currently being detained at a garda station in County Kildare under the provisions of Section 2 of the Criminal Justice (Drug Trafficking) Act 1996. [@4] He was due to appear before Athy District Court on the morning of 10 November 2026. [@7] The man in his 30s arrested as part of this investigation has since been charged. [@7] The operation was one
+subject to final analysis, were seized. [@1,2,3,5,7,8] One person was arrested after a
+significant seizure in County Kildare that afternoon. [@1] One male, aged in his 30s, was arrested and is currently being detained at a garda station in County Kildare under the provisions of Section 2 of the Criminal Justice (Drug Trafficking) Act 1996. [@4,8] He was due to appear before Athy District Court on the morning of 10 November 2026. [@7] The man in his 30s arrested as part of this investigation has since been charged. [@7] The operation was one
 of a number carried out in Clare and Kildare in recent days. [@1,6] The County Clare seizure was one of a series of intelligence-led Garda and Revenue operations over the past week. [@3]
 
 Investigations were ongoing. [@1]
@@ -98,4 +103,4 @@ A Garda spokesperson confirmed that investigations are ongoing. [@2]
 
 No arrest was reported after the County Clare seizure; a Garda spokesperson said there was no further information at that time. [@3]
 
-During the course of an operation in Kildare yesterday (November 9 last), herbal cannabis with an estimated street value of approximately €235,000 was seized. [@4,6,7]
+During the course of an operation in Kildare yesterday (November 9 last), herbal cannabis with an estimated street value of approximately €235,000 was seized. [@4,6,7,8]
