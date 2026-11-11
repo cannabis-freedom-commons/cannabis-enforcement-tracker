@@ -33,7 +33,15 @@ data_sources:
   details.products: [1, 2]
   details.route: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]
+media:
+  - kind: photo
+    url: https://theblogonline.com/?p=21719
+    archived: https://web.archive.org/web/20260711081420/https://theblogonline.com/?p=21719
+    media_url: https://theblogonline.com/wp-content/uploads/2024/12/IMG_5901-640x375.jpeg
+    publisher: The Blog Online
+    caption: Six people and packages displayed by the NDLEA Marine Command after the Eleko beach seizure.
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [ndlea, ghanaian-loud, maritime-smuggling]
