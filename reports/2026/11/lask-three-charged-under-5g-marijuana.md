@@ -54,6 +54,11 @@ sources:
     publisher: ŁaskOnline.pl
     date: 2026-11-10
     language: pl
+  - title: Łascy kryminalni nie odpuszczają. W jeden wieczór zatrzymali trzech mężczyzn z narkotykami. Wszystkim postawiono już zarzuty
+    url: https://dzienniklodzki.pl/lascy-kryminalni-nie-odpuszczaja-w-jeden-wieczor-zatrzymali-trzech-mezczyzn-z-narkotykami-wszystkim-postawiono-juz-zarzuty/ar/c1p2-29514641
+    publisher: Dziennik Łódzki
+    date: 2026-11-10
+    language: pl
 open_questions:
   - Police reported just under 5 grams of marijuana and did not give an exact weight, so no kilogram figure is stored.
   - More than 27 grams of mephedrone, and a combined total of more than 32 grams, were reported and are not counted as cannabis.
@@ -67,7 +72,7 @@ about 20:50 they stopped a Mercedes on Leśników Polskich street in Łask, afte
 noticing that the people in the car were nervous while officers checked their
 identities. [@1] They found zip-lock bags of a white crystalline substance on a
 45-year-old resident of Łask County and detained him. [@1] A search of his flat
-and outbuildings then turned up more drugs. [@1] Preliminary tests identified
+and outbuildings then turned up more drugs. [@1,3] Preliminary tests identified
 the seized substances as mephedrone and marijuana. [@1] Police said they seized
 more than 32 grams of drugs in that case, including more than 27 grams of
 mephedrone and just under 5 grams of marijuana. [@2]
@@ -75,12 +80,11 @@ mephedrone and just under 5 grams of marijuana. [@2]
 The same evening, at about 21:10, another patrol from the criminal department
 was in a forest complex in Dąbrówka and saw an Opel with four men inside. [@1]
 One of the men handed officers a bag of white powder, and a search of the car
-found more drugs that another man admitted possessing. [@1] Tests identified
+found more drugs that another man admitted possessing. [@1,3] Tests identified
 that substance as mephedrone, and officers detained two residents of Łask
 County, aged 26 and 47. [@1]
 
-All three detained men were taken to a police room for detained persons. [@1]
-The next day they were charged with possession of drugs. [@1] Police said they
-face a penalty of up to three years in prison. [@1] The account was signed by
+All three detained men were taken to a police room for detained persons. [@1,3]
+The next day they were charged with possession of drugs. [@1,3] Police said they
+face a penalty of up to three years in prison. [@1,3] The account was signed by
 junior aspirant Bartłomiej Kozłowski. [@1]
-
