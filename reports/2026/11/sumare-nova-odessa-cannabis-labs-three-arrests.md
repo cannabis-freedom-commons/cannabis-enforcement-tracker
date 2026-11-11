@@ -86,6 +86,11 @@ sources:
     publisher: Metrópoles
     date: 2026-11-10
     language: pt
+  - title: Policia Federal encontra 3 estufas de maconha em Nova Odessa
+    url: https://novomomento.com.br/policia-encontra-3-estufas-maconha-nova-odessa/
+    publisher: Novo Momento
+    date: 2026-11-10
+    language: pt
 open_questions:
     - No separate cannabis weight is given for the 780 grams of drugs being prepared or the other unspecified portions in Sumaré, so they are excluded from the cannabis total.
     - The 369 grams of cocaine are not cannabis and are excluded from cannabis figures.
@@ -118,11 +123,11 @@ drugs, and the 29-year-old, who said he owned the property, denied knowing where
 the materials came from. [@1]
 
 After the arrests, officers went to an apartment linked to the 29-year-old in
-Jardim Dona Maria Azenha in Nova Odessa. [@1] There, with a sniffer dog, teams
+Jardim Dona Maria Azenha in Nova Odessa. [@1,3] After police dog Colt indicated the scent of drugs near Apartment 138 at the Residencial das Américas on Avenida Rodolfo Kivitz, officers from the 48th Military Police Battalion (48º BPM/I), a Civil Police delegate from the Ficco task force and a Federal Police forensic expert entered the flat using keys found in the suspect's Hyundai Veloster. [@3] There, with a sniffer dog, teams
 found three grow tents with their own lighting and ventilation for growing
-marijuana. [@1] In the apartment, 1.128 kilograms of drugs were seized,
+marijuana. [@1,3] In the apartment, 1.128 kilograms of drugs were seized,
 including 240 grams of a substance known as ice, plus portions of marijuana
-stored in containers and in the grow tents. [@1] A second extraction column, a respiratory mask, a computer, a flash drive and a hardware cryptocurrency wallet were seized. [@2]
+stored in containers and in the grow tents. [@1,3] The 1.128-kilogram seizure in the apartment comprised 886 grams of cannabis flowers (460 grams inside a grow tent, 220 grams in a bucket, and loose portions of 80, 60, 42, 20 and 4 grams, plus an unweighed glass jar of flowers), three portions of ice totalling 240 grams, and a 2-gram packet of cannabis seeds. [@3] A second extraction column, a respiratory mask, a computer, a flash drive and a hardware cryptocurrency wallet were seized. [@2,3] Officers also seized a precision scale and a black Samsung mobile phone in the apartment. [@3]
 
 The three men were taken to the Federal Police station in Campinas and arrested
 in flagrante for drug trafficking and association with drug trafficking,
