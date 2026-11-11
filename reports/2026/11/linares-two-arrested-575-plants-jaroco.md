@@ -83,28 +83,34 @@ sources:
     publisher: TVEO Televisión
     date: 2026-11-10
     language: es
-open_questions:
-  - No weight, area, value or identities beyond two detained people were published.
-  - The reports give no separate date for the searches and arrests; 10 November 2026 is the publication date, while the operation ran over recent months.
-  - Charges were reported only as alleged offences against public health and electricity fraud, with no court outcome reported.
+  - title: Dos detenidos en Linares con 575 plantas de marihuana
+    url: https://www.horajaen.com/2026/11/10/dos-detenidos-en-linares-con-575-plantas-de-marihuana/
+    publisher: Hora Jaén
+    date: 2026-11-10
+    language: es
 media:
   - kind: photo
     url: https://lacontradejaen.eldiario.es/linares-marihuana-operacion-jaroco-jaen/
     media_url: https://lacontradejaen.eldiario.es/img/galeria/2026/11/linares_droga_jaen-26-720.jpeg
     publisher: Lacontradejaén
     caption: 'Marijuana plantation seized in Linares during Operation Jaroco. Photo: Policía Nacional via Lacontradejaén'
+  - kind: photo
+    url: https://www.horajaen.com/2026/11/10/dos-detenidos-en-linares-con-575-plantas-de-marihuana/
+    media_url: https://www.horajaen.com/wp-content/uploads/2026/11/detenidos-linares-575-plantas-marihuana.jpg
+    publisher: Hora Jaén
+    caption: 'Indoor marijuana plantation with LED lamps seized in Linares. Photo: Policía Nacional via Hora Jaén'
 ---
 
 Spain's National Police detained two people in Linares, Jaen, for alleged
 offences against public health and electricity fraud while dismantling two
-marijuana plantations. [@1,3,4,5,6,7,8,9] The investigation was carried out by the local
+marijuana plantations. [@1,3,4,5,6,7,8,9,10] The investigation was carried out by the local
 judicial police brigade and led by the drugs group, with support from other
 station units including citizen assistance, judicial police and scientific
-police. [@1,3,4,5,6,7,8,9]
+police. [@1,3,4,5,6,7,8,9,10]
 
 Officers carried out two home searches in which they seized 575 marijuana
-plants. [@1,3,4,5,6,7,8,9] Officers also seized assorted material intended for cultivation in
-the searches. [@1,3,4,5,6,7,8,9] Police said the operation dismantled two marijuana
+plants. [@1,3,4,5,6,7,8,9,10] Officers also seized assorted material intended for cultivation in
+the searches. [@1,3,4,5,6,7,8,9,10] Police said the operation dismantled two marijuana
 cultivation points in Linares. [@1,3,4,5,6,7,8,9]
 
 The action was Operation Jaroco, run over recent months by the Linares station
