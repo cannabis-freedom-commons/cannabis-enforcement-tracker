@@ -69,6 +69,11 @@ sources:
     publisher: Silesia.info.pl
     date: 2026-11-10
     language: pl
+  - title: 'Chorzów: Policja przejęła ponad kilogram marihuany, zatrzymano 27-latka'
+    url: https://tylkoslask.pl/chorzow-policja-przejela-ponad-kilogram-marihuany-zatrzymano-27-latka/
+    publisher: Tylko Śląsk
+    date: 2026-11-10
+    language: pl
 media:
   - kind: photo
     url: https://silesia.info.pl/artykuly/artykul/chorzowscy-kryminalni-przejeli-ponad-kilogram-marihuany-27-latek-uslyszal-zarzut
@@ -84,18 +89,18 @@ media:
 
 Criminal investigators from the Chorzow police headquarters detained a
 27-year-old resident of the city after receiving information that he might hold
-larger quantities of drugs in his flat. [@1,5] The 27-year-old was charged with
-possessing a significant quantity of narcotics. [@2,3,4,5] He was placed under police
-supervision as a preventive measure. [@2,3,4,5]
+larger quantities of drugs in his flat. [@1,5,6] The 27-year-old was charged with
+possessing a significant quantity of narcotics. [@2,3,4,5,6] He was placed under police
+supervision as a preventive measure. [@2,3,4,5,6]
 
 Police said they had established that the man might be storing larger quantities
 of intoxicants in a flat in Chorzow. [@1,5] During the search of the flat,
-officers found more than one kilogram of marijuana, which they seized. [@1,3,4,5]
+officers found more than one kilogram of marijuana, which they seized. [@1,3,4,5,6]
 Officers also seized nearly 10,000 zloty in cash, which was subjected to a
-property seizure order, along with the man's mobile phone. [@2,3,4,5]
+property seizure order, along with the man's mobile phone. [@2,3,4,5,6]
 
 The Chorzow police said its criminal investigators acted on information about a
 city resident who might possess larger quantities of drugs in his flat, and that
 the search confirmed their suspicion. [@2,5] Police added that drugs are a problem
 not only for the people who use them but also a threat to their families and
-immediate surroundings. [@1,5]
+immediate surroundings. [@1,5,6]
