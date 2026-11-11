@@ -62,22 +62,29 @@ sources:
     publisher: GrNet News Sicurezza e Difesa
     date: 2026-11-11
     language: it
+  - title: 'Un chilo di hashish e oltre 100 grammi di cocaina in auto: corriere arrestato dalla guardia di finanza a Baveno'
+    url: https://www.novaratoday.it/zone/verbano-cusio-ossola/baveno-arrestato-corriere-droga-guardia-finanza-hashish-cocaina.html
+    publisher: NovaraToday
+    date: 2026-11-11
+    language: it
+open_questions:
+  - NovaraToday says the drug dog Clay focused on the man, while the existing account, citing other outlets, says the dog paid attention to the vehicle.
 ---
 
 Guardia di Finanza officers arrested an Italian citizen who had travelled by car
-from the Milan hinterland after a check near the motorway exit at Baveno. [@1,3,4]
+from the Milan hinterland after a check near the motorway exit at Baveno. [@1,3,4,5]
 Officers from the Omegna station, with the Verbania anti-drug dog unit, searched
 the man and car after the dog Clay paid attention to the vehicle and the man
 behaved suspiciously. [@1,3,4] The man was arrested in flagrante and taken to the
-prison at Verbania. [@2,3] The man was charged with violating Article 73 of D.P.R. 309/90, Italy's consolidated law on narcotics and psychotropic substances. [@4]
+prison at Verbania. [@2,3,5] The man was charged with violating Article 73 of D.P.R. 309/90, Italy's consolidated law on narcotics and psychotropic substances. [@4]
 
 Officers found 1,036.85 grams of hashish, divided into ten packs, hidden in a
 black plastic bag under the driver's seat. [@2,3,4] Officers also found a packet
 with 105.13 grams of cocaine in the man's jacket pocket, which is not counted in
 the cannabis total. [@2,3,4] A later search of the man's home in the province of
-Milan found no further drugs. [@2,3,4]
+Milan found no further drugs. [@2,3,4,5]
 
 The Guardia di Finanza said the seized drugs were probably intended to supply
-dealing in the Verbania area. [@2] The Guardia di Finanza placed the operation within its economic control of the territory against illicit drug trafficking in the province. [@4] The duty prosecutor at the Verbania public
+dealing in the Verbania area. [@2,5] The Guardia di Finanza placed the operation within its economic control of the territory against illicit drug trafficking in the province. [@4] The duty prosecutor at the Verbania public
 prosecutor's office was informed and ordered the consequent steps, with the man
-transferred to Verbania prison. [@2]
+transferred to Verbania prison. [@2,5]
