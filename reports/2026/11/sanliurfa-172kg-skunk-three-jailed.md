@@ -76,25 +76,30 @@ sources:
     publisher: Muhalif
     date: 2026-11-11
     language: tr
+  - title: 'Şanlıurfa’da uyuşturucu operasyonu: 17 kilo 200 gram skunk ele geçirildi'
+    url: https://www.urfaninnabzi.com/sanliurfa-da-uyusturucu-operasyonu-17-kilo-200-gram-skunk-ele-gecirildi/63610/
+    publisher: Urfanın Nabzı
+    date: 2026-11-11
+    language: tr
 open_questions:
-  - No separate date or time for the road checks and the arrests is given; 11 November 2026 is the date of publication.
-  - The reports name no district or neighbourhood of Şanlıurfa where the vehicles were stopped, so the place stays at province level.
-  - No court term or other outcome beyond the remand is reported for the three suspects, and none was named.
-  - No value estimate for the seized skunk was published.
-  - Muhalif reports the remand was on a charge of narcotics trading; DHA, Sözcü and Aksiyon state only that the three were remanded without naming a charge.
+    - No separate date or time for the road checks and the arrests is given; 11 November 2026 is the date of publication.
+    - Urfanın Nabzı places the searches in the provincial centre, but no district or neighbourhood of Şanlıurfa is named.
+    - No court term beyond the remand is reported, and none of the three suspects was named.
+    - No value estimate for the seized skunk was published.
+    - Muhalif reported a remand on a charge of narcotics trading, while Urfanın Nabzı said the three were caught for manufacturing, trading and transporting narcotics; DHA, Sözcü and Aksiyon did not name a charge.
 ---
 
 Şanlıurfa provincial narcotics police stopped a passenger bus and two cars on
-suspicion during operations against drug trafficking. [@1] Searches of the
+suspicion during operations against drug trafficking. [@1] The searches of the passenger bus and two vehicles were carried out in the provincial centre of Şanlıurfa. [@5] Searches of the
 vehicles by officers with a trained dog found narcotics in cardboard boxes in
 the bus's boot. [@1] Detailed searches of the two cars established that the
 drugs were hidden in one car's rear left wing and inside the other's spare tyre.
 [@1]
 
 The operation seized 21 pieces totalling 17 kilograms 200 grams of skunk, a
-potent form of cannabis sold under that name in Türkiye. [@1] The three suspects
+potent form of cannabis sold under that name in Türkiye. [@1,5] The provincial police directorate said the seized quantity prevented about 70,000 people from being poisoned. [@5] The three suspects
 detained over the case were taken to court after their processing at the police
-station and were remanded in custody. [@1] The investigation into the case was
+station and were remanded in custody. [@1,5] The three suspects were detained for manufacturing, trading and transporting narcotics. [@5] The investigation into the case was
 continuing. [@1] Sözcü corroborated the seizure as 21 pieces totalling 17
 kilograms 200 grams of skunk. [@2]
 
@@ -103,4 +108,3 @@ bus and two cars, and reported 21 pieces totalling 17.2 kilograms of skunk. [@3]
 Muhalif reported that trained narcotics dogs supported the searches and that the
 three suspects were jailed on a charge of narcotics trading after being brought
 before a court. [@4]
-
