@@ -58,6 +58,11 @@ media:
     media_url: https://cdn2.ettoday.net/images/9010/d9010135.jpg
     publisher: ETtoday新聞雲
     caption: 'Officers restraining the man who tried to run at the checkpoint. Photo: 許權毅 via ETtoday'
+  - kind: photo
+    url: https://life.tw/article/%E6%89%80%E9%95%B7%E6%B1%9F%E6%8C%AF%E5%A0%85%E5%B8%B6%E9%9A%8A%E5%9F%B7%E8%A1%8C%E8%B7%AF%E6%AA%A2-%E5%9C%A8%E7%95%B6%E5%A0%B4%E6%9F%A5%E7%8D%B2%E4%B9%98%E5%AE%A2%E6%8C%81%E6%9C%89%E6%AF%92%E5%93%81-3213833
+    media_url: https://img.pressunion.net/wp-content/uploads/2026/11/%E6%89%80%E9%95%B7%E6%B1%9F%E6%8C%AF%E5%A0%85%E5%B8%B6%E9%9A%8A%E5%9F%B7%E8%A1%8C%E8%B7%AF%E6%AA%A2%E5%9C%A8%E7%95%B6%E5%A0%B4%E6%9F%A5%E7%8D%B2%E4%B9%98%E5%AE%A2%E6%8C%81%E6%9C%89%E6%AF%92%E5%93%81.jpg
+    publisher: LIFE 生活網
+    caption: 'Police stop a white taxi at the North District checkpoint; the passenger surnamed Huang was arrested over suspected drug possession. Photo: 許順德'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1028be9435bdf29913a14895cfe496a9
@@ -98,26 +103,32 @@ sources:
     publisher: 蕃新聞
     date: 2026-11-11
     language: zh
+  - title: 所長江振堅帶隊執行路檢 在當場查獲乘客持有毒品
+    url: https://life.tw/article/%E6%89%80%E9%95%B7%E6%B1%9F%E6%8C%AF%E5%A0%85%E5%B8%B6%E9%9A%8A%E5%9F%B7%E8%A1%8C%E8%B7%AF%E6%AA%A2-%E5%9C%A8%E7%95%B6%E5%A0%B4%E6%9F%A5%E7%8D%B2%E4%B9%98%E5%AE%A2%E6%8C%81%E6%9C%89%E6%AF%92%E5%93%81-3213833
+    publisher: LIFE 生活網
+    date: 2026-11-11
+    language: zh
 open_questions:
   - This account places the checkpoint on Jinnan Street near Shuangshi Road in North District, while the report follows other outlets that place it on Shuangshi Road.
+  - This account describes the two 23-year-olds in the back seat as passengers, while other accounts say they were friends of the driver rather than fare-paying passengers.
 ---
 
 Taichung Second Precinct officers were conducting a drink-driving and
-drug-driving roadside checkpoint on the evening of 10 November 2026. [@1,3,4,5,7] The checkpoint was on Shuangshi Road in North District and was led by Liren station chief Jiang Zhenjian. [@3,5,7] At
+drug-driving roadside checkpoint on the evening of 10 November 2026. [@1,3,4,5,7,8] The checkpoint was on Shuangshi Road in North District and was led by Liren station chief Jiang Zhenjian. [@3,5,7] At
 about 9:11 p.m., officers saw a car stop suddenly before the checkpoint and
 signalled its driver to stop for inspection. [@1,3,4,5,7] The vehicle was a diversified
 taxi driven by a 26-year-old man surnamed Xu, carrying two 23-year-old men
-surnamed Huang and Guan in the back seat. [@1,3,4,5,6,7] Huang and Guan were friends of the driver, not fare-paying passengers. [@3,5,7] Police noted that Huang had a prior criminal record for drug offences. [@4] Officers restrained Huang after
+surnamed Huang and Guan in the back seat. [@1,3,4,5,6,7,8] Huang and Guan were friends of the driver, not fare-paying passengers. [@3,5,7] Police noted that Huang had a prior criminal record for drug offences. [@4,8] Officers restrained Huang after
 he tried to rush into the oncoming lane, and seized cannabis vape cartridges and
-other contraband. [@2,3,4,5,6,7] The case was transferred to the Taichung District
+other contraband. [@2,3,4,5,6,7,8] The case was transferred to the Taichung District
 Prosecutors Office on suspicion of violating the Narcotics Hazard Prevention
 Act, with police saying they would trace the drug source. [@1,3,5,6,7]
 
 Officers found no obvious signs of drug use by the driver and ruled out
-drug-driving on his part. [@1,4,5,7] During the check, officers smelled suspected
+drug-driving on his part. [@1,4,5,7,8] During the check, officers smelled suspected
 burning ketamine inside the car and asked all three occupants to get out for
-inspection. [@1,4,5,6,7] Huang kept clutching his jacket pocket and behaved unusually
-during the inspection. [@1,4,5,6,7]
+inspection. [@1,4,5,6,7,8] Huang kept clutching his jacket pocket and behaved unusually
+during the inspection. [@1,4,5,6,7,8]
 
 The precinct said it would continue roadside checks and patrols against drugs,
 drink-driving and drug-driving, and asked the public to call 110 about
