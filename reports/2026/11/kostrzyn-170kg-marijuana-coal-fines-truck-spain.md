@@ -54,6 +54,46 @@ media:
     media_url: https://cdn-cabinet.ua.news/uploads/images/poland_seized_over_170_kg_marijuana_in_t_1794294206914.webp?8133576
     publisher: UA.NEWS
     caption: Marijuana packages from the load carried by the truck stopped near Kostrzyn, shown in an image republished by UA.NEWS with its summary of the RMF24 report.
+  - kind: video
+    url: https://www.infokostrzyn.pl/?id=2&nr=5194
+    media_url: https://www.youtube.com/watch?v=gtyoMewCYMQ
+    publisher: InfoKostrzyn.pl
+    caption: 'CBŚP video of the stopped truck, coal-fines big-bag sacks and seized marijuana packages. Video: Centralne Biuro Śledcze Policji (CBŚP)'
+  - kind: photo
+    url: https://www.infokostrzyn.pl/?id=2&nr=5194
+    media_url: https://www.infokostrzyn.pl/aktfoto/5000/5194/00.jpg
+    publisher: InfoKostrzyn.pl
+    caption: 'Two investigators in white coveralls examining big-bag sacks and seized marijuana packages. Photo: CBŚP'
+  - kind: photo
+    url: https://www.infokostrzyn.pl/?id=2&nr=5194
+    media_url: https://www.infokostrzyn.pl/aktfoto/5000/5194/01.jpg
+    publisher: InfoKostrzyn.pl
+    caption: 'Officers beside the stopped white semi-truck used to transport the coal fines and marijuana. Photo: CBŚP'
+  - kind: photo
+    url: https://www.infokostrzyn.pl/?id=2&nr=5194
+    media_url: https://www.infokostrzyn.pl/aktfoto/5000/5194/02.jpg
+    publisher: InfoKostrzyn.pl
+    caption: 'Officer inspecting white big-bag sacks inside the open truck trailer. Photo: CBŚP'
+  - kind: photo
+    url: https://www.infokostrzyn.pl/?id=2&nr=5194
+    media_url: https://www.infokostrzyn.pl/aktfoto/5000/5194/03.jpg
+    publisher: InfoKostrzyn.pl
+    caption: 'Opened big-bag sack filled with coal fines concealing hidden packages underneath. Photo: CBŚP'
+  - kind: photo
+    url: https://www.infokostrzyn.pl/?id=2&nr=5194
+    media_url: https://www.infokostrzyn.pl/aktfoto/5000/5194/04.jpg
+    publisher: InfoKostrzyn.pl
+    caption: 'Wrapped marijuana packages uncovered beneath a layer of coal fines inside a big-bag sack. Photo: CBŚP'
+  - kind: photo
+    url: https://www.infokostrzyn.pl/?id=2&nr=5194
+    media_url: https://www.infokostrzyn.pl/aktfoto/5000/5194/05.jpg
+    publisher: InfoKostrzyn.pl
+    caption: 'Seized marijuana packages and opened sacks laid out on a white sheet during inspection. Photo: CBŚP'
+  - kind: photo
+    url: https://www.infokostrzyn.pl/?id=2&nr=5194
+    media_url: https://www.infokostrzyn.pl/aktfoto/5000/5194/06.jpg
+    publisher: InfoKostrzyn.pl
+    caption: 'Rows of vacuum-sealed packages of seized marijuana arranged on a dark surface. Photo: CBŚP'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 183672db371fe045a0934c77a91ed50e
@@ -83,24 +123,34 @@ sources:
     publisher: UA.NEWS
     date: 2026-11-10
     language: uk
+  - title: Narkotykowy transport zatrzymany pod Kostrzynem. Ponad 170 kg marihuany ukryto pod miałem węglowym
+    url: https://www.infokostrzyn.pl/?id=2&nr=5194
+    publisher: InfoKostrzyn.pl
+    date: 2026-11-10
+    language: pl
+open_questions:
+  - RMF24 described the stop as a routine inspection, whereas InfoKostrzyn.pl reported that officers stopped the truck in the evening after receiving information that it might be carrying drugs.
+  - Only the Polish driver's 5,000-zloty SENT fine was reported; no arrests, suspects or criminal charges over the marijuana have been announced.
+  - The seized amount is given only as more than 170 kilograms across 170 packages, with no exact measured weight published.
+  - The exact road or stop location near Kostrzyn and the origin and destination points in Spain and Poland were not disclosed.
 ---
 
 Officers of the National Revenue Administration and the Central Bureau of
 Investigation of the Police seized more than 170 kilograms of marijuana near
-Kostrzyn by Poznań. [@1,3,5] The drug was hidden beneath a layer of coal fines in a
-truck carrying cargo from Spain to Poland. [@1,3,4]
+Kostrzyn by Poznań. [@1,3,5,6] The drug was hidden beneath a layer of coal fines in a
+truck carrying cargo from Spain to Poland. [@1,3,4,6]
 
 Officers stopped the truck for a routine inspection and found that the coal
 fines shipment had not been entered in the SENT register, which is mandatory for
-such cargo. [@2,3,5] The stop took place on 23 October 2026. [@4] In a detailed check of the load they found suspicious big-bag
+such cargo. [@2,3,5] The stop took place on 23 October 2026. [@4,6] In a detailed check of the load they found suspicious big-bag
 sacks holding 170 hermetically sealed packages of greenish-brown plant material
 under the coal fines. [@2,3] Preliminary tests confirmed that the seized material
-was marijuana. [@2,3,4,5]
+was marijuana. [@2,3,4,5,6]
 
 Krzysztof Wrześniowski, spokesperson for the Central Bureau of Investigation of
 the Police, said the way the packages were hidden was meant to make them hard to
-detect and required a thorough inspection of the cargo. [@2,3] The services
+detect and required a thorough inspection of the cargo. [@2,3,6] The services
 estimated the black-market value of the marijuana at more than 3 million zlotys.
-[@2,3,4,5] The truck driver, a Polish citizen, was fined 5,000 zlotys for transporting
-goods without a SENT reference number. [@2,3,5] Further work in the case is being
-carried out by the Central Bureau of Investigation of the Police. [@2,3,5]
+[@2,3,4,5,6] The truck driver, a Polish citizen, was fined 5,000 zlotys for transporting
+goods without a SENT reference number. [@2,3,5,6] Further work in the case is being
+carried out by the Central Bureau of Investigation of the Police. [@2,3,5,6]
