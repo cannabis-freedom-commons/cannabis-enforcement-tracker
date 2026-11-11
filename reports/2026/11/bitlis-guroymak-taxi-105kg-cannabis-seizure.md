@@ -66,6 +66,16 @@ sources:
     publisher: Son Dakika
     date: 2026-11-10
     language: tr
+  - title: 'Bitlis''te ticari takside uyuşturucu ele geçirildi: 1 tutuklama - Bitlis Son Dakika Haberleri - Habertürk Yerel Haberler'
+    url: https://yerel-haberler.haberturk.com/bitlis-haberleri/bitliste-ticari-takside-uyusturucu-ele-gecirildi-1-tutuklama-119518327
+    publisher: Habertürk
+    date: 2026-11-10
+    language: tr
+  - title: Bitlis’te ticari takside uyuşturucu ele geçirildi
+    url: https://www.sozcu.com.tr/bitlis-te-ticari-takside-uyusturucu-ele-gecirildi-p380013
+    publisher: Sözcü
+    date: 2026-11-10
+    language: tr
 media:
   - kind: photo
     url: https://www.adanamasasi.com/bitlis-te-ticari-takside-uyusturucu-ele-gecirildi-1-tutuklama/830558/
@@ -81,7 +91,7 @@ grams of esrar, the Turkish word the source uses for cannabis. [@1,5,8,9,10] The
 kilo 50 grams amounts to 1.05 kilograms of cannabis taken from the taxi luggage
 compartment in Guroymak, Bitlis. [@1,7,10] Officers detained one suspect over the
 trunk-can find, and the judgeship before which the suspect was brought ordered
-remand in custody. [@1,2,3,5,7,8,9,10]
+remand in custody. [@1,2,3,5,7,8,9,10,11,12]
 
 The Bitlis Governorate said the work was carried out by Il Jandarma Komutanligi
 teams under the coordination of the Bitlis Chief Public Prosecutor's Office and
@@ -89,4 +99,4 @@ targeted drug sellers. [@1,3,5,8,10] The governorate presented the 5 November ta
 and trunk search as one result of that coordinated anti-seller work in the
 Guroymak district of Bitlis province. [@1,10] The account identifies the control
 point as the truck park in the Tahtali village area and the searched vehicle as
-a taxi. [@1,2,3,4,6,9,10]
+a taxi. [@1,2,3,4,6,9,10,11,12]
