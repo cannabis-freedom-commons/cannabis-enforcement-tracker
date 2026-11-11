@@ -1,40 +1,42 @@
 ---
 code: BRMZG0
 added_at: "2026-11-10T11:59:54.653236Z"
-date: 2026-11-06
+date: 2026-11-07
 country: cl
 place: Ruta 5 Norte at Canela and Los Vilos, Choapa province, Coquimbo Region
 coordinates: [-31.66, -71.45]
 precision: district
-type: seizure
-also: [arrest]
+type: prosecution
+also: [arrest, seizure]
 title: 484 kg of marijuana seized on Route 5 in Coquimbo; 4 held
 summary: >-
   Carabineros seized 484.985 kg of processed marijuana in two weekend operations on Route 5 Norte at Canela and Los Vilos in Coquimbo, detaining four people in the first stop. Police put the 969,970-dose haul's commercial value at $3.88 billion pesos, calling it a major blow to drug trafficking.
 figures:
-  arrested: 4
-  kg_seized: 484.985
-  value:
-    amount: 3879880000
-    currency: CLP
+    arrested: 4
+    kg_seized: 484.985
+    value:
+        amount: 3879880000
+        currency: CLP
+    charged: 4
 details:
-  agencies: [OS7 Limarí, Carabineros de Chile]
-  agency_types: [gendarmerie, anti-narcotics]
-  products:
-    - {product: flower, kg: 484.985}
-  setting: [vehicle]
-  case_stage: investigation
-  date_precision: approximate
-  region: Coquimbo
+    agencies: [OS7 Limarí, Carabineros de Chile]
+    agency_types: [gendarmerie, anti-narcotics]
+    products:
+        - {product: flower, kg: 484.985}
+    setting: [vehicle]
+    case_stage: charged
+    date_precision: approximate
+    region: Coquimbo
 data_sources:
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.products: [1]
-  details.setting: [1]
-  figures.arrested: [1]
-  figures.kg_seized: [1]
-  figures.value: [1]
+    details.agencies: [1]
+    details.agency_types: [1]
+    details.case_stage: [9]
+    details.products: [1]
+    details.setting: [1]
+    figures.arrested: [1]
+    figures.kg_seized: [1]
+    figures.value: [1]
+    figures.charged: [9]
 media:
   - kind: photo
     url: https://www.miradiols.cl/2026/11/10/millonario-golpe-al-narcotrafico-en-ruta-5-incautan-casi-500-kilos-de-marihuana-avaluados-en-mas-de-3-800-millones/
@@ -85,6 +87,14 @@ sources:
     publisher: El Observatodo
     date: 2026-11-10
     language: es
+  - title: Prisión preventiva para cuatro detenidos tras incautación de casi 500 kilos de marihuana en Ruta 5
+    url: https://www.miradiols.cl/2026/11/10/prision-preventiva-cuatro-detenidos-incautacion-marihuana-ruta-5/
+    publisher: Mi Radio
+    date: 2026-11-10
+    language: es
+open_questions:
+  - The outcome of the 70-day investigation and any later trial or sentence has not yet been reported.
+  - The text gives a weight ("484.985 kg") but the figures have no kg_seized; check whether it belongs there.
 ---
 
 Carabineros detained four people in the first of two weekend operations on Route
@@ -93,7 +103,7 @@ Carabineros detained four people in the first of two weekend operations on Route
 de lanza lookouts, driving in another vehicle to warn of checkpoints and ease
 the drug load through. [@1,6,8] One of the four had a criminal record for drug
 trafficking. [@1,8] On the prosecutor's orders, the four faced a detention-control
-hearing on Saturday. [@1,2,8]
+hearing on Saturday. [@1,2,8] The court set a 70-day period for the investigation, with the four held in preventive prison during that stage. [@9] The four were formalized as authors of illicit drug trafficking under Law 20,000. [@9] On 7 November the Los Vilos court declared the detentions legal and ordered preventive prison for the four accused. [@9]
 
 In Canela officers seized 83 packages of processed marijuana weighing 86 kilos
 625 grams, along with a Suzuki Swift car, a Chevrolet N300 van, six mobile
