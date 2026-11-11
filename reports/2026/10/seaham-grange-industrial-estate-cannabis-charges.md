@@ -55,19 +55,23 @@ sources:
     url: https://www.thenorthernecho.co.uk/news/26719200.vietnamese-men-found-tending-seaham-cannabis-farm/
     publisher: The Northern Echo
     date: 2026-11-11
+  - title: Two charged after Seaham cannabis grow uncovered in industrial estate
+    url: https://www.thenorthernecho.co.uk/news/26622809.two-charged-seaham-cannabis-grow-uncovered-industrial-estate/
+    publisher: The Northern Echo
+    date: 2026-10-09
 open_questions:
-  - No figure for the number of plants, the cannabis weight, the area or any value was published.
-  - The names of the two defendants were not published, only their ages of 38 and 34.
-  - The exact date of the Durham Crown Court plea hearing was not given; 11 November 2026 is the article publication date.
-  - The year of the March 15 contingency trial was not stated.
-  - The defendants’ immigration status and the outcome of the modern-slavery referral were not yet known.
-  - The whole account rests on a single opened outlet report.
+    - No figure for the number of plants, the cannabis weight, the area or any value was published.
+    - The names of the two defendants were not published, only their ages of 38 and 34.
+    - The exact date of the Durham Crown Court plea hearing was not given; 11 November 2026 is the article publication date.
+    - The year of the March 15 contingency trial was not stated.
+    - The defendants’ immigration status and the outcome of the modern-slavery referral were not yet known.
+    - The whole account rests on reports from a single newspaper group.
 ---
 
 Two Vietnamese men found tending a large cannabis farm claim they were
 modern-slavery victims. [@1] The pair, aged 38 and 34, were arrested when police
 executed a magistrates’ warrant at the unit on Seaham Grange Industrial Estate
-on Wednesday, October 7. [@1] Both men were detained at the scene and arrested
+on Wednesday, October 7. [@1] Officers from the Seaham Neighbourhood Policing Team executed the warrant. [@2] Both men were detained at the scene and arrested
 on suspicion of cultivating cannabis. [@1] They have remained in custody since
 and appeared by video link from Holme House Prison in Stockton for a plea
 hearing at Durham Crown Court. [@1] Both defendants faced a joint charge of
@@ -88,4 +92,3 @@ March 15 next year, with the hearing expected to last two days. [@1] The
 prosecution must serve its evidence by November 27 and the men must help their
 lawyers prepare defence statements by late December. [@1] Judge Richard Bennett
 remanded both men to remain in custody in the meantime. [@1]
-
