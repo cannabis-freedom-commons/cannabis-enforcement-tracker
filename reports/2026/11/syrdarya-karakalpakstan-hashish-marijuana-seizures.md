@@ -46,9 +46,21 @@ sources:
     publisher: Podrobno.uz
     date: 2026-11-11
     language: ru
+  - title: По Узбекистану прошли рейды против закладчиков и наркоторговцев — Upl.uz
+    url: https://upl.uz/incidents/68204-news.html
+    publisher: Upl.uz
+    date: 2026-11-11
+    language: ru
+  - title: В ряде регионов Узбекистана прошли рейды против закладчиков и наркоторговцев
+    url: https://www.azattyqasia.org/a/v-ryade-regionov-uzbekistana-proshli-reydy-protiv-zakladchikov-i-narkotorgovtsev/33895183.html
+    publisher: Азаттык Азия (RFE/RL)
+    date: 2026-11-11
+    language: ru
 open_questions:
     - The article gives no separate date for the searches and detention; 11 November 2026 is its publication date and is used as the incident date.
     - UzDaily says a local resident in Turtkul district was detained with 471 grams of marijuana; Podrobno.uz says that amount was seized from him but does not say he was detained. Neither account says the Gulistan pair or the alleged accomplice were detained.
+    - Upl.uz gives 1 kg 174 grams of marijuana in the accomplice's house, one gram less than the 1 kg 175 g reported by UzDaily and Podrobno.uz.
+    - Azattyk Asia, reporting the same State Security Service announcement, put the total number of people detained across the four-region roundup at about ten; the other accounts give no overall arrest count.
     - The suspects are identified only by birth year and no full names were published.
     - No court outcome beyond opened criminal cases was reported; investigations were continuing.
     - UzDaily reported more than 3.6 kg and Podrobno.uz reported 3.67 kg for all four episodes, including synthetic spice and opium, so only the separately weighed cannabis amounts are recorded.
@@ -58,22 +70,22 @@ Uzbekistan's State Security Service reported that operational measures in four
 regions seized more than 3.6 kg of drugs, including hashish, synthetic spice,
 opium and marijuana. [@1,2] In Gulistan, Syrdarya-region State Security Service
 officers with internal-affairs and customs officers searched the rented
-accommodation of a man and woman born in 1996 and 1998. [@1] The agency said the
+accommodation of a man and woman born in 1996 and 1998. [@1,3] The agency said the
 pair worked as couriers and packagers for an online drug-selling store. [@1] In
 Turtkul district, Karakalpakstan, officers detained a local resident born in
 1972 after a bag in his possession was found to contain 471 grams of marijuana.
-[@1]
+[@1,4]
 
 Officers searching the Gulistan flat found 337 grams of hashish concealed inside
-a heating appliance. [@1,2] They found another 208 grams of hashish divided into
+a heating appliance. [@1,2,3] They found another 208 grams of hashish divided into
 65 small wraps at a second rented address the suspects used as a warehouse,
-bringing the total hashish seized in Gulistan to 545 grams. [@1,2] Officers
+bringing the total hashish seized in Gulistan to 545 grams. [@1,2,3] Officers
 checked the car of the detained man's alleged accomplice, born in 1964 and
-previously convicted, finding another 425 grams of marijuana. [@1] A search of
+previously convicted, finding another 425 grams of marijuana. [@1,4] A search of
 that accomplice's house turned up 97 matchboxes containing marijuana weighing a
-total of 1 kg 175 grams. [@1,2]
+total of 1 kg 175 grams. [@1,2,3]
 
 Criminal cases were opened over all four episodes and investigative actions are
-continuing. [@1,2] The same announcement reported 562 grams of synthetic spice
+continuing. [@1,2,3] The same announcement reported 562 grams of synthetic spice
 seized in Karmana district, Navoi region, which is excluded from the cannabis
 figures here. [@1]
