@@ -55,25 +55,36 @@ sources:
     publisher: Jornal Paraná Centro
     date: 2026-11-11
     language: pt
+  - title: Rotam prende homem e apreende seis pés de maconha em Jardim Alegre | Ivan Maldonado Online
+    url: https://ivanmaldonado.com.br/rotam-prende-homem-apreende-maconha-jardim-alegre/
+    publisher: Ivan Maldonado Notícias
+    date: 2026-11-11
+    language: pt
 open_questions:
   - The suspect was not named and no age was published.
   - No charge, hearing or court outcome was reported beyond the suspect remaining at the disposal of the courts.
   - Whether the second person approached was detained or released was not reported.
   - The article gives no laboratory confirmation for the seized plants and drug.
   - The published photo caption only repeats the headline and does not confirm what it shows, so no photo is listed.
+media:
+  - kind: photo
+    url: https://ivanmaldonado.com.br/rotam-prende-homem-apreende-maconha-jardim-alegre/
+    media_url: https://ivanmaldonado.com.br/wp-content/uploads/2026/11/pes-de-maconha-768x432.jpg.webp
+    publisher: Ivan Maldonado Notícias
+    caption: 'Seized maconha, six cannabis plants and preparation materials from the Jardim Alegre ROTAM operation. Photo: PMPR'
 ---
 
 Acting on a drug-trafficking tip, a ROTAM team stopped suspects in the Conjunto
 João Pavan in Jardim Alegre on the afternoon of Tuesday 10 November, with the
-incident recorded at about 16:40. [@1,2] Military Police approached two suspects
-and seized two grams of maconha and cash from one of them. [@1,2] Officers then
+incident recorded at about 16:40. [@1,2,3] Military Police approached two suspects
+and seized two grams of maconha and cash from one of them. [@1,2,3] Officers then
 searched that man's home and found six maconha plants grown in pots and about
-82.5 grams of the same drug. [@1,2]
+82.5 grams of the same drug. [@1,2,3]
 
 At the house the police also seized a precision scale, inputs used to prepare
-and package drugs, and notebooks with trafficking notes. [@1] The operation
+and package drugs, and notebooks with trafficking notes. [@1,3] The operation
 totalled 84.5 grams of seized maconha, including a small brick and three
-portions in zip-lock bags, plus a mobile phone and R$12 in cash. [@1] The
+portions in zip-lock bags, plus a mobile phone and R$12 in cash. [@1,3] The
 suspect was arrested and taken to the Civil Police central flagrant unit, where
 he remained at the disposal of the courts with the drugs and seized objects.
 [@1,2]
