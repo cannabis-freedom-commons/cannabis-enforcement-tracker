@@ -32,29 +32,33 @@ sources:
     publisher: PiscoFM
     date: 2026-11-11
     language: es
+  - title: Transportaba más de 30 kilos de marihuana y terminó detenido tras control policial en Coquimbo
+    url: https://www.miradiols.cl/2026/11/11/transportaba-mas-de-30-kilos-de-marihuana-y-termino-detenido-tras-control-policial-en-coquimbo/
+    publisher: Mi Radio
+    date: 2026-11-11
+    language: es
 open_questions:
-  - The accounts give no separate date for the procedure; 11 November 2026 is the publication date of both reports.
-  - The commune and kilometre of the check point are not named, so the exact place of the seizure is not recorded.
-  - No charge, formalisation or court outcome was reported for the detained driver.
-  - The accounts give no street value for the marijuana and no number of doses.
-  - Both published accounts carry the same wording, so no independently reported second account was opened.
-  - The accounts also mention an earlier weekend seizure of almost half a tonne of drugs on Route 5, a separate operation not counted in this report's figures.
+    - The accounts give no separate date for the procedure; 11 November 2026 is the publication date of all three reports.
+    - One account places the check point at the northern access of Coquimbo commune while the others describe the northern access of the Coquimbo Region, and no kilometre is named.
+    - No charge, formalisation or court outcome was reported for the detained driver.
+    - The accounts give no street value for the marijuana and no number of doses.
+    - All three accounts appear to reproduce the same Carabineros statement.
+    - The accounts also mention an earlier weekend seizure of almost half a tonne of drugs on Route 5, a separate operation not counted in this report's figures.
 ---
 
 Carabineros detained a 50-year-old man at a vehicle check on the northern access
-to the Coquimbo Region. [@1] Officers of the Tenencia Carreteras Elqui checked
+to the Coquimbo Region. [@1,3] Officers of the Tenencia Carreteras Elqui checked
 the vehicle and found just over two kilograms of processed marijuana in two oval
-packages known locally as bolones. [@1] Police said the driver had two previous
+packages known locally as bolones. [@1,3] Police said the driver had two previous
 police records, one for maltreatment of Carabineros and one for minor injuries.
-[@2]
+[@2,3]
 
 Officers of OS7, Carabineros' specialist anti-drug section, were called to the
 sector and found another 28 packages of processed marijuana a short distance
-from the vehicle check. [@1] The operation ended with 30 kilograms 360 grams of
-marijuana in 30 packages taken out of circulation. [@2]
+from the vehicle check. [@1,3] The operation ended with 30 kilograms 360 grams of
+marijuana in 30 packages taken out of circulation. [@2,3]
 
 Police said the load was travelling towards the centre and south of the country.
 [@1] Lieutenant Francisco Ramírez, head of the Tenencia Carreteras Elqui, said
 the quick coordination with OS7 had allowed officers to find the further 28
 packages. [@1]
-
