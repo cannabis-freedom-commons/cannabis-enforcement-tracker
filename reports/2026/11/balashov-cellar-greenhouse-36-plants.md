@@ -82,6 +82,11 @@ sources:
     publisher: ИА «Регион 64»
     date: 2026-11-10
     language: ru
+  - title: Житель Балашова превратил погреб в плантацию конопли
+    url: https://sarinform.ru/news/incident/zhitel-balashova-prevratil-pogreb-v-plantatsiyu-konopli?amp=
+    publisher: СарИнформ
+    date: 2026-11-10
+    language: ru
 open_questions:
   - No date was reported for the discovery of the greenhouse or the opening of the criminal cases; 10 November 2026 is the publication date and is used as the incident date.
   - The man was not named, and no plea or court outcome has been reported; the case was at the investigation stage.
@@ -90,16 +95,16 @@ open_questions:
 
 A 43-year-old man in Balashov, Saratov Oblast, built a greenhouse in the cellar
 of his house and grew cannabis there, the regional headquarters of the Interior
-Ministry said. [@1,5,6] Officers of the Balashov interior ministry division found it
+Ministry said. [@1,5,6,8] Officers of the Balashov interior ministry division found it
 during operational search measures, the regional headquarters said. [@2] The
 officers of the drug control unit found the greenhouse in a cellar inside a
 residential house, the regional interior ministry said. [@3] Police seized 36
 cannabis plants from the greenhouse and 325.6 grams of marijuana that had been
-prepared for use. [@1,5,6,7]
+prepared for use. [@1,5,6,7,8]
 
 Criminal cases were opened under part 2 of article 228 of the Russian Criminal
 Code, on storing drugs, and part 1 of article 231, on cultivating
-drug-containing plants. [@3,5,6,7] The suspect was placed under a written undertaking
-not to leave and to behave properly, so he was not held in custody. [@1,5,6,7] An
+drug-containing plants. [@3,5,6,7,8] The suspect was placed under a written undertaking
+not to leave and to behave properly, so he was not held in custody. [@1,5,6,7,8] An
 outlet reported that the man faces up to 10 years in prison, the penalty the
 charges carry rather than a sentence. [@4]
