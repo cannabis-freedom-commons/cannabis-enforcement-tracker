@@ -57,34 +57,37 @@ sources:
     publisher: El Congresista
     date: 2026-11-09
     language: es
+  - title: 'Cateo en Huejotzingo: aseguran posible cristal y marihuana en inmueble'
+    url: https://www.periodicoenfoque.com.mx/municipios/cateo-en-huejotzingo-aseguran-posible-cristal-y-marihuana-en-inmueble
+    publisher: Periódico Enfoque
+    date: 2026-11-10
+    language: es
 open_questions:
-  - The article gives no separate date for the search; 9 November 2026 is its publication date and stands in as the incident date.
-  - The marijuana is counted only as 19 doses; no weight was published for them or for the 63 bags of crystal.
-  - No arrests or detentions are reported, and the article does not say whether anyone was identified as the property's owner or user.
-  - The account came from the state prosecutor's office but is reproduced by a local outlet; no independent second source for this search was found.
-  - The material is described only as having characteristics similar to crystal and to marijuana, with no laboratory confirmation reported.
-  - The page's lead photo carries no credit and no caption confirming that it shows the searched property or the seized drugs, so it is offered only as a link.
-  - The outlet's headline counts 82 doses by adding the 63 crystal bags to the 19 marijuana doses; only the 19 marijuana doses are cannabis.
-  - The single photo published with the article is credited only to Especial, with no caption saying what it shows, so it was not added as media.
+    - The articles give no separate date for the search; 9 November 2026 is the earliest publication date and stands in as the incident date.
+    - The marijuana is counted only as 19 doses; no weight was published for them or for the 63 bags of crystal.
+    - No arrests or detentions are reported, and the articles do not say whether anyone was identified as the property's owner or user.
+    - Reporting on the search is based on releases from the state prosecutor's office; no independent civilian account of the raid was published.
+    - The seized substances are described only as having characteristics similar to crystal and marijuana, with no chemical confirmation reported.
+    - Headlines count 82 doses by adding the 63 crystal bags to the 19 marijuana doses; only the 19 marijuana doses are cannabis.
 ---
 
 Prosecutors and federal and state officers searched a property in San Luis
-Coyotzingo, an auxiliary board of Huejotzingo in Puebla, on a warrant. [@1,2,3] The
+Coyotzingo, an auxiliary board of Huejotzingo in Puebla, on a warrant. [@1,2,3,4] The
 state prosecutor's office (Fiscalía General del Estado, FGE) carried out the
 operation with personnel from the Secretariat of National Defence (Sedena), the
-National Guard and the Puebla state police. [@1] Officers described the property
-as a possible point of sale and distribution of drugs. [@1,2]
+National Guard and the Puebla state police. [@1,4] Officers described the property
+as a possible point of sale and distribution of drugs. [@1,2,4]
 
 They found 19 doses of what appeared to be marijuana in the property, along with
-63 small bags of crystal and a gram scale. [@1,2,3] The authorities said the scale
+63 small bags of crystal and a gram scale. [@1,2,3,4] The authorities said the scale
 was presumably used to weigh substances. [@1] Crystal is a Mexican street name
 for methamphetamine, so the bags of crystal are not counted as cannabis here.
 [@1]
 
 The property was sealed and handed over to the authorities to continue
-investigating whether it was used to distribute drugs. [@1,2] The search followed
+investigating whether it was used to distribute drugs. [@1,2,4] The search followed
 intelligence work, field investigation, surveillance and checks of anonymous
-complaints about possible narcomenudeo, small-scale street-level dealing. [@1]
+complaints about possible narcomenudeo, small-scale street-level dealing. [@1,4]
 The FGE said it would keep working with police at all three levels of government
-to find and act on properties used to store, sell and distribute drugs. [@1] No
-arrests were reported in the account of the search. [@1]
+to find and act on properties used to store, sell and distribute drugs. [@1,4] No
+arrests were reported in the account of the search. [@1,4]
