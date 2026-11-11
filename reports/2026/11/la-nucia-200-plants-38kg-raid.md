@@ -86,6 +86,10 @@ sources:
     publisher: Ultima Hora
     date: 2026-11-10
     language: es
+  - title: Sent to prison after 200 marijuana plants found in La Nucía
+    url: https://diariodealicante.net/plantacion-marihuana-la-nucia/
+    publisher: Diario de Alicante
+    date: 2026-11-10
 open_questions:
   - No separate date was published for the raid or arrest; 10 November 2026 is the publication date and is used as the incident date.
   - The weight of the seized cannabis buds is reported only as an estimate of around 38 kilograms, and no street value estimate was published.
@@ -95,21 +99,21 @@ open_questions:
 ---
 
 Spain’s National Police dismantled an indoor cannabis grow in a house in La
-Nucía and arrested the 47-year-old man who lived there. [@1,3,4,5] Police believe the
-resident installed and ran the growing operation himself. [@1,3,4,5] The suspect was
+Nucía and arrested the 47-year-old man who lived there. [@1,3,4,5,6] Police believe the
+resident installed and ran the growing operation himself. [@1,3,4,5,6] The suspect was
 brought before the duty investigating court in Villajoyosa, where a judge
-ordered him remanded in custody. [@1,3,5]
+ordered him remanded in custody. [@1,3,5,6]
 
 During a court-authorised search, officers seized 200 cannabis plants and around
-38kg of cannabis buds. [@1,3,4,5] Officers also seized an air revolver, €300 in cash,
-three mobile phones and two computers. [@1,3,4,5] They also found a hydroponic system
-used to grow the plants indoors. [@1,3,4,5] Europa Press gives the same counts: 200
+38kg of cannabis buds. [@1,3,4,5,6] Officers also seized an air revolver, €300 in cash,
+three mobile phones and two computers. [@1,3,4,5,6] They also found a hydroponic system
+used to grow the plants indoors. [@1,3,4,5,6] Europa Press gives the same counts: 200
 marijuana plants, about 38 kilos of buds, an air-compressed revolver, 300 euros
 in small notes, three mobile phones and two computers. [@2]
 
 Officers from Benidorm began investigating after reports of a strong smell of
-cannabis coming from the property. [@1,4,5] The investigation was run by the
+cannabis coming from the property. [@1,4,5,6] The investigation was run by the
 Judicial Police Brigade of the Benidorm police station, focused on the area
-around the house. [@2,3,4,5] Technicians from the electricity supplier confirmed the
-grow was powered through an illegal connection to the mains. [@1,3,4,5] The man was
-held on suspicion of drug trafficking and electricity fraud. [@2,3,4,5]
+around the house. [@2,3,4,5,6] Technicians from the electricity supplier confirmed the
+grow was powered through an illegal connection to the mains. [@1,3,4,5,6] The man was
+held on suspicion of drug trafficking and electricity fraud. [@2,3,4,5,6]
