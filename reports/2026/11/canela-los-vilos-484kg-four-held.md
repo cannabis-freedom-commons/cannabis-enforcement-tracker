@@ -92,14 +92,18 @@ sources:
     publisher: Mi Radio
     date: 2026-11-10
     language: es
+  - title: 'Golpe al narcotráfico en la Ruta 5: OS7 de Carabineros saca de circulación casi media tonelada de marihuana avaluada en más de $3.800 millones'
+    url: https://radioriquelme.cl/2026/11/10/golpe-al-narcotrafico-en-la-ruta-5-os7-de-carabineros-saca-de-circulacion-casi-media-tonelada-de-marihuana-avaluada-en-mas-de-3-800-millones/
+    publisher: Radio Riquelme
+    date: 2026-11-10
+    language: es
 open_questions:
-  - The outcome of the 70-day investigation and any later trial or sentence has not yet been reported.
-  - The text gives a weight ("484.985 kg") but the figures have no kg_seized; check whether it belongs there.
+    - The outcome of the 70-day investigation and any later trial or sentence has not yet been reported.
 ---
 
 Carabineros detained four people in the first of two weekend operations on Route
-5 Norte in Canela. [@1,3,8] The first Canela checks were carried out at kilometres 309 and 282 of Route 5 Norte during Friday dawn. [@2,4,6,7,8] The four were an Ecuadorian aged 43, two Dominicans aged
-28 and 37, and a Chilean aged 26. [@1,2,3,4,5,6,8] Police said some of them acted as punta
+5 Norte in Canela. [@1,3,8,10] The first Canela checks were carried out at kilometres 309 and 282 of Route 5 Norte during Friday dawn. [@2,4,6,7,8] The four were an Ecuadorian aged 43, two Dominicans aged
+28 and 37, and a Chilean aged 26. [@1,2,3,4,5,6,8,10] Police said some of them acted as punta
 de lanza lookouts, driving in another vehicle to warn of checkpoints and ease
 the drug load through. [@1,6,8] One of the four had a criminal record for drug
 trafficking. [@1,8] On the prosecutor's orders, the four faced a detention-control
@@ -110,11 +114,11 @@ In Canela officers seized 83 packages of processed marijuana weighing 86 kilos
 phones and more than $360,000 in cash. [@1,2,4,5,6,7,8] Hours later, about a hundred
 kilometres south at kilometre 198 in Los Vilos, officers found a pickup carrying
 377 packages weighing 398 kilos 360 grams, with a pistol and two cartridges
-inside. [@1,4] The pickup found in Los Vilos had no outstanding theft report. [@2,8] Together the two seizures totalled 484 kilos 985 grams, equal to
-969,970 doses, which police valued at $3,879,880,000. [@1,2,3,4,5,6,7,8]
+inside. [@1,4,10] The pickup found in Los Vilos had no outstanding theft report. [@2,8] Together the two seizures totalled 484 kilos 985 grams, equal to
+969,970 doses, which police valued at $3,879,880,000. [@1,2,3,4,5,6,7,8,10]
 
 The operations were carried out by the specialised OS7 Limarí unit with
-Carabineros highway units deployed on the road. [@1,8] Coquimbo zone chief General
+Carabineros highway units deployed on the road. [@1,8] The operations were carried out in the framework of the 53rd anniversary of the OS7 anti-narcotics department. [@10] Coquimbo zone chief General
 Christian Brebi said the deployments came from analysis work rather than random
 checks on the country's main overland route. [@1,8] He said the nearly 500 kilos
 were bound for central Chile, calling the result a blow to drug trafficking and
