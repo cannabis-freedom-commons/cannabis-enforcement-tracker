@@ -56,12 +56,25 @@ sources:
     url: https://www.msn.com/en-us/news/other/task-force-raids-monroe-property-after-complaint-finds-2-700-cannabis-plants/ar-AA2haDez
     publisher: KOMO-TV Seattle (via MSN)
     date: 2026-11-10
+  - title: Snohomish Deputies Arrest Suspect On Felony Drug & Marijuana Production Charges
+    url: https://97rockonline.com/ixp/112/p/felony-marijuana-production-charges-monroe/
+    publisher: 97 Rock (KXRX)
+    date: 2026-11-10
+  - title: 70-year-old arrested for illegal cannabis production in Monroe
+    url: https://www.yahoo.com/news/us/articles/70-old-arrested-illegal-cannabis-132045175.html
+    publisher: KIRO 7 News Seattle (via Yahoo News)
+    date: 2026-11-11
 media:
   - kind: photo
     url: https://komonews.com/news/local/snohomish-county-sheriff-task-force-raids-monroe-property-after-complaint-seizing-2700-cannabis-plants-70-year-old-man-weed-grow-marijuana-plant-farming-liquor-cannabis-board-washington-state
     media_url: https://komonews.com/resources/media/faee412f-b8fa-4498-a7fb-a11ad8f6da78-901142462_1620733353413423_1754200839797025841_n.jpg
     publisher: KOMO News
     caption: 'Suspected unlicensed cannabis production found in the Monroe area. Photo: Snohomish County Sheriff''s Office'
+open_questions:
+    - No charging document, court appearance or plea has been reported.
+    - The 2,700 plants are an approximation combining live and dried plants; no split was published.
+    - No estimated value of the plants or size of the growing area was published.
+    - The man's name and the property's address were not released.
 ---
 
 A 70-year-old man was arrested after law enforcement authorities discovered
@@ -69,17 +82,17 @@ approximately 2,700 marijuana plants during a search of a suspected illegal
 cannabis production operation near Monroe, Washington. [@1,2] The 70-year-old
 suspect was booked into the Snohomish County Jail on felony charges of drug
 manufacturing, delivery, or possession with intent to deliver narcotics, as well
-as illegal marijuana production. [@1,3]
+as illegal marijuana production. [@1,2,3]
 
 The arrest followed an inquiry that began earlier this year after the state
 cannabis regulator received an initial complaint reporting a strong odor of
-marijuana originating from a property in unincorporated Monroe. [@1,4] That
+marijuana originating from a property in unincorporated Monroe. [@1,4,5] That
 complaint prompted an investigation by the Washington State Liquor and Cannabis
 Board's investigations unit, which identified evidence of suspected unlicensed
-cannabis production on the premises. [@1] The agency's unit then partnered with
-a regional law enforcement task force to advance the case. [@1,4] The task force is supported by the Northwest High Intensity Drug Trafficking Area, a federal program. [@4] The task force that executed the warrant was the Snohomish Regional Drug Task Force, assisted by Washington State Liquor and Cannabis Board enforcement officers. [@4] On 6 November
+cannabis production on the premises. [@1,6] The agency's unit then partnered with
+a regional law enforcement task force to advance the case. [@1,4,6] The task force is supported by the Northwest High Intensity Drug Trafficking Area, a federal program. [@2,4] The task force that executed the warrant was the Snohomish Regional Drug Task Force, assisted by Washington State Liquor and Cannabis Board enforcement officers. [@2,4] On 6 November
 2026, investigators executed a search warrant at the property and seized
-approximately 2,700 live and dried marijuana plants. [@1,3] Details regarding the
+approximately 2,700 live and dried marijuana plants. [@1,3,6] Details regarding the
 joint investigation, search warrant and subsequent arrest were released by the
 Washington State Liquor and Cannabis Board and the Snohomish County Sheriff's
-Office. [@1]
+Office. [@1,2]
