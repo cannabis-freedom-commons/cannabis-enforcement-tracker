@@ -84,24 +84,26 @@ sources:
     publisher: Νpress.gr
     date: 2026-11-10
     language: el
-open_questions:
-  - Thita News rounds the quantity of cannabis discarded by the rubbish bin to 150 grams rather than 150.8 grams.
-  - This outlet rounds the cannabis left by the rubbish bin to 150 grams rather than 150.8 grams, the same rounding already noted for another outlet.
+  - title: 'Ιωάννινα: Κατασχέθηκαν πάνω από μισό κιλό κοκαΐνης και 3,5 κιλά κάνναβης – Σύλληψη άνδρα'
+    url: https://agrinio24.gr/ioannina-kataschethikan-pano-apo-miso-kilo-kokainis-kai-35-kila-kannavis-syllipsi-andra/
+    publisher: agrinio24.gr
+    date: 2026-11-10
+    language: el
 ---
 
 Officers of the Ioannina drug enforcement department arrested a Greek man in the
-city on the afternoon of 9 November 2026. [@2,6,7,8] They stopped him as he left his
+city on the afternoon of 9 November 2026. [@2,6,7,8,9] They stopped him as he left his
 home and put a package holding 150.8 grams of raw cannabis next to a rubbish
-bin. [@2,4,6,7] Police had followed the man after gathering information that he kept
+bin. [@2,4,6,7,9] Police had followed the man after gathering information that he kept
 large quantities of drugs at home to sell to users in the area. [@2,6,7]
 
 A search of the house, carried out in the presence of a court official, found
 packages holding 3,428.1 grams of raw cannabis. [@2,4,8] The same search found two
 packages of cocaine weighing 514.79 grams in total, which is not counted here as
-cannabis. [@1,4,5,8] Adding the package left by the bin, the cannabis taken in the
+cannabis. [@1,4,5,8,9] Adding the package left by the bin, the cannabis taken in the
 case comes to about 3.58 kilograms. [@3]
 
 A case file was drawn up against him for possession and trafficking of drugs and
 for offences under the law on flares, and he was to be taken to the Ioannina
-public prosecutor's office. [@2,4] Officers also found a precision electronic scale, two marine flares and a firecracker. [@4,7,8] Police gave no information on possible
+public prosecutor's office. [@2,4] Officers also found a precision electronic scale, two marine flares and a firecracker. [@4,7,8,9] Police gave no information on possible
 accomplices, a network or where the drugs came from. [@3]
