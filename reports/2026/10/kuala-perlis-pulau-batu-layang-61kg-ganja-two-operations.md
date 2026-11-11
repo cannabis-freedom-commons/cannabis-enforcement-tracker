@@ -47,6 +47,11 @@ media:
     media_url: https://storage.googleapis.com/origin-awsassets.nst.com.my/images/articles/D99ADA2A10B476E099A4839DBC2038EF_low_0.jpg
     publisher: New Straits Times
     caption: 'Perlis customs director Mohammad Furiman Hattar with the compressed cannabis seized from the abandoned jetty and Pulau Batu Layang, at a press conference at the Perlis Customs Complex. Photo: Bernama'
+  - kind: photo
+    url: https://www.bharian.com.my/berita/kes/2026/11/1707741/taktik-sorok-ganja-di-jeti-terbiar-pulau-berbatu-terbongkar
+    media_url: https://assets.bharian.com.my/images/articles/ganjo_1794301252.jpg
+    publisher: Berita Harian
+    caption: 'Perlis customs director Mohammad Furiman Hattar shows the suspected cannabis seized in the two operations at a press conference at the Perlis Customs office. Photo: NSTP/Noor Sara Mohamad Hanif'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a363ca6e0aee727074ebfc7cb1daa60a
@@ -90,10 +95,15 @@ sources:
     publisher: Astro Awani
     date: 2026-11-10
     language: ms
+  - title: Taktik sorok ganja di jeti terbiar, pulau berbatu terbongkar
+    url: https://www.bharian.com.my/berita/kes/2026/11/1707741/taktik-sorok-ganja-di-jeti-terbiar-pulau-berbatu-terbongkar
+    publisher: Berita Harian
+    date: 2026-11-10
+    language: ms
 ---
 
 Malaysia's Royal Malaysian Customs Department (JKDM) seized 61.42 kg of cannabis
-valued at RM191,544 in two separate operations at Kuala Perlis, Perlis. [@1,3,4,5,7,8] In
+valued at RM191,544 in two separate operations at Kuala Perlis, Perlis. [@1,3,4,5,7,8,9] In
 the most recent operation, at about 8.15pm on 19 October 2026, a marine
 enforcement team from Kuala Perlis found three suspicious sacks on the jetty
 platform at Pulau Batu Layang, Simpang Empat. [@1,3,7]
@@ -102,12 +112,12 @@ The sacks held 35 compressed blocks of suspected cannabis weighing 36.42 kg,
 which customs valued at RM116,544. [@1,2,3,4,7,8] Perlis customs director Mohammad Furiman
 Hattar said the packages were believed to have been deliberately left at the
 disused jetty for someone else to collect, so that the syndicate's movements
-would not be noticed. [@1,3,4,7] Customs believed the drugs had been smuggled in from Thailand. [@3,8] The packages on the rocky island were hidden behind a metal plate on its platform to avoid detection from the sea. [@4,6]
+would not be noticed. [@1,3,4,7] Customs believed the drugs had been smuggled in from Thailand. [@3,8] They were believed to be intended for markets outside Perlis, including the Klang Valley. [@9] Customs said the syndicate brought the drugs from a neighbouring country less than 1.5 km from the state's maritime border. [@9] The packages on the rocky island were hidden behind a metal plate on its platform to avoid detection from the sea. [@4,6,9]
 
 In the earlier operation, customs officers found two suspicious sacks left on a
-disused platform on the Sungai Kuala Perlis near Taman Pelangi in August. [@2,3,6,7,8]
+disused platform on the Sungai Kuala Perlis near Taman Pelangi in August. [@2,3,6,7,8] Those two sacks carried Thai lettering. [@9]
 Those sacks contained a black plastic bag with 25 compressed blocks of suspected
-cannabis weighing 25 kg and worth an estimated RM75,000. [@2,3] That earlier seizure was made at about 9.30pm on 28 August 2026. [@3,4,6,7] Furiman said
+cannabis weighing 25 kg and worth an estimated RM75,000. [@2,3] That earlier seizure was made at about 9.30pm on 28 August 2026. [@3,4,6,7,9] Furiman said
 customs believed the drugs from the two cases could have supplied about 199,000
 addicts had they gone through. [@2,4]
 
