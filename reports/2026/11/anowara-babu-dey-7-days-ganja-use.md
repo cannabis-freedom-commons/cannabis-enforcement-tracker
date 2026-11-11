@@ -38,22 +38,31 @@ sources:
     publisher: Bangladesh Bulletine
     date: 2026-11-11
     language: bn
+  - title: আনোয়ারায় গাঁজা সেবনের দায়ে যুবকের ৭ দিনের কারাদণ্ড
+    url: https://ajkerdarpon.com/news/88308
+    publisher: দৈনিক আজকের দর্পণ
+    date: 2026-11-11
+    language: bn
 open_questions:
-  - Only one source was opened for this case, so no second account confirms the facts.
-  - No cannabis weight or seized amount was published for this consumption case.
-  - No further court steps or appeal were reported.
+    - No cannabis weight or seized amount was published for this consumption case.
+    - No further court steps or appeal were reported.
+media:
+  - kind: photo
+    url: https://ajkerdarpon.com/news/88308
+    media_url: https://cdn.ajkerdarpon.com/images/22cb6af8a8bdf5bfbe0cef769b0a45a9.jpeg
+    publisher: দৈনিক আজকের দর্পণ
+    caption: The man jailed for ganja use, his face obscured, stands with officials at the scene of the Anwara mobile-court drive. Published by Ajker Darpon.
 ---
 
 A mobile court in Anowara, Chattogram sentenced 38-year-old Babu Dey to seven
-days of simple imprisonment for consuming cannabis. [@1] The court said officers
-found Dey consuming ganja at the scene during the drive. [@1] The operation took
+days of simple imprisonment for consuming cannabis. [@1,2] The court said officers
+found Dey consuming ganja at the scene during the drive. [@1,2] The operation took
 place on the morning of Wednesday, 11 November 2026 in the Sholkata area of Ward
-No. 6 in Anowara upazila. [@1]
+No. 6 in Anowara upazila. [@1,2]
 
 Upazila Assistant Commissioner (Land) and Executive Magistrate Md. Abu Jafor
-Majumder led the mobile-court drive. [@1] The convicted man, the son of Sanjit
-Dey, is from the same Sholkata area. [@1] He was sentenced under the relevant
+Majumder led the mobile-court drive. [@1,2] The convicted man, the son of Sanjit
+Dey, is from the same Sholkata area. [@1,2] He was sentenced under the relevant
 section of the Narcotics Control Act, 2018, to seven days without labour,
-meaning simple imprisonment. [@1] The magistrate said mobile-court drives
-against drugs continue regularly in Anowara in the public interest. [@1]
-
+meaning simple imprisonment. [@1,2] The magistrate said mobile-court drives
+against drugs continue regularly in Anowara in the public interest. [@1,2]
