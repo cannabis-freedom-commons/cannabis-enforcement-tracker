@@ -45,23 +45,19 @@ sources:
     url: https://adaderana.lk/news/251445
     publisher: Ada Derana
     date: 2026-11-11
-open_questions:
-  - The article gives no separate date for the raid; 11 November 2026 is its publication date and is used as the incident date.
-  - The recovered Kush is reported only as over 125 grams without an exact weight, so 0.125 kg is recorded as a lower bound.
-  - The account names the substance only as Kush without stating whether it was dried flower or resin, so the whole cannabis weight is recorded as flower.
-  - The more than 134 grams of crystal methamphetamine ('Ice') seized in the same raid is not cannabis and is excluded from the figures.
-  - No charge, court production, detention order or value estimate was published; police said further investigations were underway.
-  - The whole account rests on one opened Ada Derana report; no police statement or second outlet account was found.
+  - title: Suspect arrested with over 134g of 'Ice' and 'Kush' in Unawatuna raid
+    url: https://www.newswire.lk/2026/11/11/suspect-arrested-with-over-134g-of-ice-and-kush-in-unawatuna-raid/
+    publisher: Newswire
+    date: 2026-11-11
 ---
 
 Officers of the Galle District Crime Division arrested a 41-year-old man for
 possession of suspected narcotics including crystal methamphetamine ('Ice') and
-Kush. [@1] The suspect, a resident of Unawatuna, was taken into custody during a
+Kush. [@1,2] The suspect, a resident of Unawatuna, was taken into custody during a
 raid conducted in the area following information received by the division's
-officers. [@1]
+officers. [@1,2]
 
 Police said more than 134 grams of Ice and over 125 grams of Kush were recovered
-from the suspect's possession. [@1]
+from the suspect's possession. [@1,2]
 
-Further investigations into the incident were underway. [@1]
-
+Further investigations into the incident were underway. [@1,2] The suspect was handed over to Habaraduwa Police Station for further investigation. [@2]
