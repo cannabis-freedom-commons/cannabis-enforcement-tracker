@@ -83,19 +83,23 @@ sources:
     publisher: Breaking Tube
     date: 2026-11-10
     language: hi
+  - title: MP Cannabis worth over Rs 1.19 crore seized 2 arrested - The Week
+    url: https://www.theweek.in/wire-updates/national/2026/11/10/mp-cannabis-worth-over-rs-1-19-crore-seized-2-arrested.html
+    publisher: The Week
+    date: 2026-11-10
 ---
 
 Karariya Chauraha police station officers searched a house in Byochi village in
 Vidisha district, Madhya Pradesh, and recovered 104.14 kg of ganja from a shed
-built in front of the house. [@1,3,4,5,6,7] Police acted on a tip-off that a man in the
+built in front of the house. [@1,3,4,5,6,7,8] Police acted on a tip-off that a man in the
 village was storing and selling ganja from the shed. [@1,3] Officers cordoned off
 the spot, searched it and weighed the haul at 104.14 kg before seizing it. [@1]
 
 Police arrested a 26-year-old villager on the spot in connection with the haul.
 [@1,3] Police estimated the market value of the ganja at about 5.2 million rupees.
-[@1,3,4,5,6,7] A case was registered against him under sections 8 and 20 of the NDPS Act,
+[@1,3,4,5,6,7,8] A case was registered against him under sections 8 and 20 of the NDPS Act,
 India's Narcotic Drugs and Psychotropic Substances Act, and investigation began.
-[@2,3,6]
+[@2,3,6,8]
 
 The operation was part of Operation Clean Sweep against drug trafficking,
 ordered by Superintendent of Police Rohit Kashwani. [@2,5,7] Police are

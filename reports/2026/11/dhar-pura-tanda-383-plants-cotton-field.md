@@ -92,20 +92,23 @@ sources:
     publisher: MP Breaking News
     date: 2026-11-10
     language: hi
+  - title: MP Cannabis worth over Rs 1.19 crore seized 2 arrested - The Week
+    url: https://www.theweek.in/wire-updates/national/2026/11/10/mp-cannabis-worth-over-rs-1-19-crore-seized-2-arrested.html
+    publisher: The Week
+    date: 2026-11-10
 open_questions:
-  - MP Breaking News reported that the informer's tip named Gulab Singh Davar of Jogiya village as having planted cannabis in his Pura field before stating that Mulam Singh Davar was arrested, without explaining how the two are related.
-  - MP Breaking News gave the seized plants' total weight as 363.18 kg rather than 363.188 kg.
-  - No separate date was reported for the raid itself; 10 November 2026 is the publication date and the day police announced the arrest.
-  - No bail decision or court outcome has been reported.
-  - 'Left out, as its quotation was not found in MP Breaking News: Tanda police in Dhar district, Madhya Pradesh, searched a cotton field at Pura village and found 383 green ganja plants growing illegally.'
+    - MP Breaking News reported that the informer's tip named Gulab Singh Davar of Jogiya village as having planted cannabis in his Pura field before stating that Mulam Singh Davar was arrested, without explaining how the two are related.
+    - Reports give slightly differing plant weights, with MP Breaking News reporting 363.18 kg, PTI wire dispatches stating more than 3.63 quintals (363 kg), and local reports specifying 363.188 kg.
+    - No separate date was reported for the raid itself; 10 November 2026 is the publication date and the day police announced the arrest.
+    - No bail decision or court outcome has been reported.
 ---
 
 Tanda police in Dhar district, Madhya Pradesh, searched a cotton field at Pura
-village and found 383 green ganja plants growing illegally. [@1,2,3,4,5,6] Police formally
-seized all the plants. [@1,3,5] The seized plants weighed 363.188 kg and were put at
+village and found 383 green ganja plants growing illegally. [@1,2,3,4,5,6,8] Police formally
+seized all the plants. [@1,3,5,8] The seized plants weighed 363.188 kg and were put at
 an estimated market value of about 67 lakh 13 thousand rupees. [@1,4,6] Police
 arrested one suspect and registered a case under the NDPS Act, India's narcotics
-law. [@1,4,5,6,7]
+law. [@1,4,5,6,7,8]
 
 The raid was part of Operation Prahar, a district campaign against illegal drug
 cultivation and trade run on the direction of Superintendent of Police Sachin
@@ -117,4 +120,4 @@ Mulam Singh Davar, 26, of Jogiya village, had been arrested. [@1] A case was
 registered against him under section 8/20 of the NDPS Act and taken up for
 investigation. [@1] Police said they were questioning the accused about the
 purpose of the cultivation, where the seeds came from, the supply of the drug
-and other people involved in the trade. [@1,3,4,5]
+and other people involved in the trade. [@1,3,4,5,8]
