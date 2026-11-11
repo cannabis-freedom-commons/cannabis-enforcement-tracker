@@ -48,29 +48,32 @@ sources:
     publisher: Eskişehir Haber, Son Dakika Eskişehir Haberleri - Eskişehir Ekspres
     date: 2026-11-10
     language: tr
+  - title: 'Eskişehir''de uyuşturucu operasyonu: 1 gözaltı'
+    url: https://www.saraymedya.com/haber/eskisehir-de-uyusturucu-operasyonu-1-gozalti_322827/
+    publisher: Saray Medya
+    date: 2026-11-10
+    language: tr
 open_questions:
-  - The article gives no separate date for the raid; 10 November 2026 is its publication date and is used as the incident date.
-  - No suspect name, age or court timetable beyond the opened investigation was reported.
-  - Only one accessible account of this operation was found.
+    - The article gives no separate date for the raid; 10 November 2026 is its publication date and is used as the incident date.
+    - No suspect name, age or court timetable beyond the opened investigation was reported.
 ---
 
 Gendarmerie teams in the Odunpazarı district of Eskişehir detained one suspect
 during an anti-narcotics operation that seized various quantities of illicit
-drugs at a local address. [@1] Following the operation, judicial authorities
+drugs at a local address. [@1,2] Following the operation, judicial authorities
 opened an investigation against the captured suspect for purchasing, accepting
 or possessing drugs or stimulants for personal use, as well as for violating Law
-No. 2313 on the Supervision of Narcotics. [@1]
+No. 2313 on the Supervision of Narcotics. [@1,2]
 
 Searches carried out at the designated address resulted in the seizure of 310
 grams of esrar, the term used in Turkey for cannabis, alongside six cannabis
-root plants. [@1] Gendarmerie officers also seized an esrar grinder and one
-precision scale during their search of the premises. [@1] The seized cannabis
+root plants. [@1,2] Gendarmerie officers also seized an esrar grinder and one
+precision scale during their search of the premises. [@1,2] The seized cannabis
 and cultivation plants were recovered from a residence located within the
-Odunpazarı district. [@1]
+Odunpazarı district. [@1,2]
 
 The operation was initiated after teams from the provincial gendarmerie command
 conducted field work against drug crimes and obtained intelligence that
-narcotics production was being carried out in Odunpazarı. [@1] Gendarmerie teams
+narcotics production was being carried out in Odunpazarı. [@1,2] Gendarmerie teams
 mounted the raid on the identified address following detailed preliminary
-investigations and physical tracking of the suspect. [@1]
-
+investigations and physical tracking of the suspect. [@1,2]
