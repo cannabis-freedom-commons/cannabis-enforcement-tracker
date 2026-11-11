@@ -54,21 +54,26 @@ sources:
     publisher: MKD.MK
     date: 2026-11-09
     language: mk
+  - title: NEVEROVATAN SLUČAJ U SKOPLJU! Majka (65) nosila drogu sinu u zatvor!
+    url: https://www.kurir.rs/amp/10158667/majka-nosila-sinu-drogu-u-zatvor-u-skoplju
+    publisher: Kurir
+    date: 2026-11-11
+    language: sr
 ---
 
 A 65-year-old woman from Skopje was arrested at Idrizovo prison after marijuana
 was found and seized during an inspection of a package she had brought for her
 son, who was serving a prison sentence there, North Macedonia's Interior
-Ministry said. [@1,3,4] The ministry said the package was examined at around 10 a.m.
+Ministry said. [@1,3,4,5] The ministry said the package was examined at around 10 a.m.
 on 8 November 2026, when officers inspecting the parcel the woman had brought to
-the prison facility discovered the marijuana. [@1,3] Police officers then arrested
+the prison facility discovered the marijuana. [@1,3,5] Police officers then arrested
 the woman, identified by the initials Dž. F. as a 65-year-old from Skopje, at
 around 11:30 a.m. on the same morning, when the marijuana was found and seized.
-[@1,3]
+[@1,3,5]
 
 The parcel was intended for her son, and the marijuana was discovered during the
 package check before officers took her into custody. [@2] The Interior Ministry
 said that once documentation of the case was fully completed, an appropriate
-criminal complaint would be filed against the suspect. [@1,3] The case therefore
+criminal complaint would be filed against the suspect. [@1,3,5] The case therefore
 remained under documentation, with the criminal complaint still to follow and no
 court outcome reported. [@2]
