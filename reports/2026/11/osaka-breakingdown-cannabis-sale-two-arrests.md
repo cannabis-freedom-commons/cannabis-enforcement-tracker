@@ -40,6 +40,11 @@ sources:
     publisher: 中国新聞デジタル
     date: 2026-11-11
     language: ja
+  - title: 大麻売買疑いで男逮捕　ブレイキングダウン出場
+    url: https://www.daily.co.jp/society/national/2026/11/11/0021022378.shtml
+    publisher: デイリースポーツ online
+    date: 2026-11-11
+    language: ja
 open_questions:
   - No weight, plant count or other quantity for the cannabis involved was published.
   - The exact arrest dates were not given; 11 November 2026 is the article's publication date and stands in for the event date.
@@ -51,20 +56,19 @@ open_questions:
 Osaka prefectural police arrested Daisuke Yamamoto, a 37-year-old man of no
 known occupation from Ikuno Ward in Osaka, and Masaru Sakaguchi, a 60-year-old
 beautician from the same ward, on suspicion of violating the Narcotics Special
-Provisions Law and related offences. [@1] The arrests, over the alleged purchase
+Provisions Law and related offences. [@1,2] The arrests, over the alleged purchase
 and sale of goods presented as cannabis, were announced by 11 November 2026.
-[@1] According to the police, Yamamoto had previously competed in BreakingDown,
-a mixed-rules combat sports event popular primarily among young people. [@1]
+[@1,2] According to the police, Yamamoto had previously competed in BreakingDown,
+a mixed-rules combat sports event popular primarily among young people. [@1,2]
 
 Investigators alleged that in December 2025, Yamamoto received an item as
-cannabis from Sakaguchi for 10,000 yen in the city of Osaka. [@1] Sakaguchi is
+cannabis from Sakaguchi for 10,000 yen in the city of Osaka. [@1,2] Sakaguchi is
 suspected of transferring the item in that transaction and engaging in related
-illicit dealings. [@1]
+illicit dealings. [@1,2]
 
 In February 2026, police officers stopped and questioned Sakaguchi during a
 routine patrol and discovered plant material inside the car he was occupying.
-[@1] Forensic testing later confirmed that the plant fragments were cannabis.
-[@1] Analysis of Sakaguchi's confiscated smartphone and related records led
+[@1,2] Forensic testing later confirmed that the plant fragments were cannabis.
+[@1,2] Analysis of Sakaguchi's confiscated smartphone and related records led
 officers to suspect that he had traded cannabis with Yamamoto and several other
-individuals. [@1]
-
+individuals. [@1,2]
