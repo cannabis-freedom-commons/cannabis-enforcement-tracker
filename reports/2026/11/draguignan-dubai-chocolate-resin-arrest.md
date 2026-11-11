@@ -52,28 +52,27 @@ sources:
     publisher: Nice-Matin
     date: 2026-11-10
     language: fr
-open_questions:
-    - The exact night of the seizure is unresolved, given as 5 November 2026 and as late in the week before the 10 November publication; 7 November 2026 stands in for the latter.
-    - The cannabis weight is unresolved, given as 2 kg and as nearly 2.5 kg for the same four packets; the report records nearly 2.5 kg.
-    - About 100 grams of cocaine was also seized, but only the separately stated cannabis weight is counted.
-    - What charges apply to the 17-year-old held for the planned delivery was not reported.
-    - No court outcome beyond placement under judicial supervision was reported.
+  - title: Un feu arrière en panne, des paquets de chocolat... et 2,5 kilos de cannabis découverts à Draguignan
+    url: https://www.varactu.fr/un-feu-arriere-en-panne-des-paquets-de-chocolat-et-25-kilos-de-cannabis-decouverts-a-draguignan/
+    publisher: Var Actu
+    date: 2026-11-11
+    language: fr
 ---
 
 Officers from the Draguignan police station stopped a car in Draguignan at night
 after its faulty rear light drew their attention and the driver parked
 straddling two spaces. [@1,2] The car held three young people, one adult and two
-minors, who were arrested and placed in police custody. [@1,2] Investigators found
+minors, who were arrested and placed in police custody. [@1,2,3] Investigators found
 that one of the three was meant to deliver the drugs, and he was brought before
 the Draguignan prosecutor and placed under judicial supervision pending trial.
-[@1] Investigators established that only a 17-year-old from Draguignan who was in the car was to carry out a delivery as part of organised drug trafficking. [@2] After investigation, one of the minors and the 19-year-old were cleared. [@2]
+[@1,3] Investigators established that only a 17-year-old from Draguignan who was in the car was to carry out a delivery as part of organised drug trafficking. [@2] After investigation, one of the minors and the 19-year-old were cleared. [@2]
 
 Officers seized nearly 2.5 kg of cannabis resin hidden in the car in four white
-packets that smelled of cannabis rather than chocolate. [@1] Officers first
+packets that smelled of cannabis rather than chocolate. [@1,3] Officers first
 spotted a plastic bag with a protruding white packet inscribed Dubai chocolate
 bar after a strong smell of cannabis came from the car when its door was opened.
 [@1,2] Officers also found about 100 grams of cocaine on one of the minors, which
-is not counted in the cannabis total. [@1] Police estimated the combined merchandise at about 13,000 euros. [@2] The driver claimed the bag was not
+is not counted in the cannabis total. [@1,3] Police estimated the combined merchandise at about 13,000 euros. [@2] The driver claimed the bag was not
 his, saying he had borrowed his mother's car, and handed the bag to the
 officers. [@1]
 
