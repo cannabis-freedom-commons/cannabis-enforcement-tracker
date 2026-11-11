@@ -39,20 +39,23 @@ sources:
     publisher: Ελευθερία
     date: 2026-11-10
     language: el
+  - title: Δύο συλλήψεις στη Λάρισα για κατοχή κάνναβης
+    url: https://www.larissanet.gr/2026/11/10/dyo-syllipseis-sti-larisa-gia-katochi-kannavis/
+    publisher: larissanet.gr
+    date: 2026-11-10
+    language: el
 open_questions:
-  - The exact spot in Larissa where the check took place was not named.
-  - No prosecutor referral, charge sheet or court outcome was reported; the case was at the investigation stage.
-  - Only one source account of this event was found after searching in Greek.
+    - The exact spot in Larissa where the check took place was not named.
+    - No prosecutor referral, charge sheet or court outcome was reported; the case was at the investigation stage.
 ---
 
 Officers of the Larissa Motorcycle Policing Unit, known by its Greek initials
 DIAS, arrested two men aged 34 and 31 in Larissa on the evening of Monday 9
-November 2026 for breach of drugs legislation. [@1] The arrests were made after
+November 2026 for breach of drugs legislation. [@1,2] The arrests were made after
 DIAS officers carried out a check on the two men in the city. [@1]
 
 According to the police announcement, the men were carrying three nylon packages
-containing unprocessed cannabis with a combined weight of 14.5 grams. [@1]
+containing unprocessed cannabis with a combined weight of 14.5 grams. [@1,2]
 Officers also found a metal grinder bearing cannabis residue during the same
-check. [@1] Police seized the drugs and the grinder, and both men were detained
-under drugs legislation. [@1]
-
+check. [@1,2] Police seized the drugs and the grinder, and both men were detained
+under drugs legislation. [@1,2]
