@@ -69,32 +69,32 @@ sources:
     url: https://antigua.news/2026/05/27/dpp-pulls-the-plug-on-536k-drug-case-against-canadian-woman
     publisher: Antigua News
     date: 2026-05-27
-open_questions:
-  - The 30.39 kg figure converts the reported 67 pounds; sources do not give a metric weight.
-  - The sources do not explain the medical reasons given for withdrawing charges against Crisostomo.
-  - No information was published on what happened to the seized cannabis after the case was withdrawn.
+  - title: Canadian woman remanded after 67 pounds of cannabis seized at VC Bird International Airport
+    url: https://antiguaobserver.com/canadian-woman-remanded-after-67-pounds-of-cannabis-seized-at-vc-bird-international-airport/
+    publisher: Antigua Observer Newspaper
+    date: 2026-03-12
+    archived: https://web.archive.org/web/20260313030559id_/https://antiguaobserver.com/canadian-woman-remanded-after-67-pounds-of-cannabis-seized-at-vc-bird-international-airport/
 ---
 
 Forty-eight-year-old Canadian citizen Roselynee Crisostomo was arrested and
 charged after 67 pounds of cannabis was found in her two suitcases at V.C. Bird
 International Airport. [@2] She faced five charges of possession of cannabis,
 possession with intent to transfer, being concerned in supplying cannabis, drug
-trafficking and importation of cannabis. [@1] After appearing before Chief
+trafficking and importation of cannabis. [@1,5] After appearing before Chief
 Magistrate Ngaio Emanuel, prosecutors successfully argued she should be held on
-remand. [@3] The court found she had no ties to Antigua and Barbuda and was a
-poor candidate for bail. [@3]
+remand. [@3,5] The court found she had no ties to Antigua and Barbuda and was a
+poor candidate for bail. [@3,5] The matter was adjourned and was next scheduled to be called on May 13, 2026. [@5]
 
 The case stemmed from a joint drug interdiction operation at the airport on
-March 10, 2026. [@1] Officers stopped her at about 4:30 p.m. after she arrived
-on Air Canada flight AC1832 from Toronto and searched her. [@1] Officers found
+March 10, 2026. [@1,5] Officers stopped her at about 4:30 p.m. after she arrived
+on Air Canada flight AC1832 from Toronto and searched her. [@1,5] Officers found
 61 vacuum-sealed packages of cannabis weighing 67 pounds in her two suitcases.
-[@1] Authorities estimated the street value of the cannabis at approximately
-EC$536,000. [@1]
+[@1,5] Authorities estimated the street value of the cannabis at approximately
+EC$536,000. [@1,5]
 
 The operation involved the Narcotics Department, the Special Services Unit, the
-K-9 Unit and the Customs Enforcement Unit checking arriving passengers. [@1] On
+K-9 Unit and the Customs Enforcement Unit checking arriving passengers. [@1,5] On
 May 27, 2026, the Director of Public Prosecutions withdrew all charges against
 her, citing medical reasons. [@4] Before withdrawal she had expressed interest
 in pleading guilty. [@4] Because of the quantity involved, the matter had been
 referred for fast-tracked committal proceedings. [@4]
-
