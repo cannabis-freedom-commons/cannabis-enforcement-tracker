@@ -37,29 +37,32 @@ sources:
     url: https://www.thehansindia.com/news/cities/warangal/mahabubabad-police-destroy-ganja-worth-4984-lakh-1141091
     publisher: The Hans India
     date: 2026-11-11
+  - title: Mahabubabad Police Destroy Ganja Worth Rs. 49.84 Lakh
+    url: https://indtoday.com/mahabubabad-police-destroy-ganja-worth-rs-49-84-lakh/
+    publisher: INDToday News
+    date: 2026-11-11
 open_questions:
-  - The article gives no separate date for the destruction; 11 November 2026 is its publication date and is used as the incident date.
-  - No arrests, charges or court outcomes in the 19 underlying cases were reported in this disposal account.
-  - The whole account rests on a single opened report; no agency statement or second outlet account was found or opened.
+    - The article gives no separate date for the destruction; 11 November 2026 is its publication date and is used as the incident date.
+    - No arrests, charges or court outcomes in the 19 underlying cases were reported in this disposal account.
+    - Both opened reports appear to draw on the same police briefing, so their details cannot be checked against an independent account.
 ---
 
 Mahabubabad district police destroyed 99.688 kg of dry ganja valued at Rs 49.84
-lakh. [@1] The ganja had been seized in connection with 19 cases registered
-under the Narcotic Drugs and Psychotropic Substances (NDPS) Act. [@1]
+lakh. [@1,2] The ganja had been seized in connection with 19 cases registered
+under the Narcotic Drugs and Psychotropic Substances (NDPS) Act. [@1,2]
 
 The disposal followed directions from EAGLE, the Elite Action Group for Drug Law
-Enforcement, and was supervised by the district Drug Disposal Committee. [@1]
+Enforcement, and was supervised by the district Drug Disposal Committee. [@1,2]
 After a committee meeting and court permission, police destroyed the contraband
 with specialised machinery at the AWM Consulting Common Bio Medical Waste
 Treatment Facility at Gopalpet village in Tallada mandal of Khammam district.
-[@1] The destroyed ganja had been seized from various police station limits
-across Mahabubabad district. [@1]
+[@1,2] The destroyed ganja had been seized from various police station limits
+across Mahabubabad district. [@1,2]
 
 Mahabubabad DSP (DCRB) Gandrathi Mohan and CI (DCRB) Upender supervised the
-disposal with police personnel. [@1] DSP Mohan said police, on District SP Dr.
+disposal with police personnel. [@1,2] DSP Mohan said police, on District SP Dr.
 Shabarish's directions, were continuously monitoring ganja cultivation,
 transportation, storage, sale and consumption in the district. [@1] He said
 strict legal action would be taken against those involved in drug-related
 activities. [@1] He cautioned that the Preventive Detention Act would also be
-invoked against offenders wherever necessary. [@1]
-
+invoked against offenders wherever necessary. [@1] DSP Mohan urged young people to stay away from narcotics, appealed to the public to report information about illegal ganja activities to the nearest police station, and assured informants that their identities would remain confidential. [@2]
