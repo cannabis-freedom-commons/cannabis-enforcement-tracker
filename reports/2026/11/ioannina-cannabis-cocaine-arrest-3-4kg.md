@@ -74,15 +74,20 @@ sources:
     publisher: Μαχητής Άρτας
     date: 2026-11-10
     language: el
+  - title: Συνελήφθη άνδρας για διακίνηση ναρκωτικών στα Ιωάννινα – Κατασχέθηκαν πάνω από μισό κιλό κοκαΐνης και 3,5 κιλά κάνναβης
+    url: https://lawandorder.gr/andras-diakinisi-narkotikon-ioannina-10-11/
+    publisher: Lawandorder.gr
+    date: 2026-11-10
+    language: el
 open_questions:
   - Thita News rounds the quantity of cannabis discarded by the rubbish bin to 150 grams rather than 150.8 grams.
 ---
 
 Officers of the Ioannina drug enforcement department arrested a Greek man in the
-city on the afternoon of 9 November 2026. [@2,6] They stopped him as he left his
+city on the afternoon of 9 November 2026. [@2,6,7] They stopped him as he left his
 home and put a package holding 150.8 grams of raw cannabis next to a rubbish
-bin. [@2,4,6] Police had followed the man after gathering information that he kept
-large quantities of drugs at home to sell to users in the area. [@2,6]
+bin. [@2,4,6,7] Police had followed the man after gathering information that he kept
+large quantities of drugs at home to sell to users in the area. [@2,6,7]
 
 A search of the house, carried out in the presence of a court official, found
 packages holding 3,428.1 grams of raw cannabis. [@2,4] The same search found two
@@ -92,5 +97,5 @@ case comes to about 3.58 kilograms. [@3]
 
 A case file was drawn up against him for possession and trafficking of drugs and
 for offences under the law on flares, and he was to be taken to the Ioannina
-public prosecutor's office. [@2,4] Officers also found a precision electronic scale, two marine flares and a firecracker. [@4] Police gave no information on possible
+public prosecutor's office. [@2,4] Officers also found a precision electronic scale, two marine flares and a firecracker. [@4,7] Police gave no information on possible
 accomplices, a network or where the drugs came from. [@3]
