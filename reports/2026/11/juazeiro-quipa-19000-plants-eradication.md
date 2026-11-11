@@ -57,6 +57,11 @@ sources:
     publisher: Blog do Carlos Britto
     date: 2026-11-10
     language: pt
+  - title: PM erradica plantio com quase 19 mil pés de maconha na Zona Rural de Juazeiro
+    url: https://anoticiadovale.com/2026/11/10/pm-erradica-plantio-com-quase-19-mil-pes-de-maconha-na-zona-rural-de-juazeiro/
+    publisher: A Noticia Do Vale
+    date: 2026-11-10
+    language: pt
 open_questions:
     - No arrests, suspects or charges were reported for this eradication.
     - The plant figure is an approximation of about 19,000 plants, not an exact measured count.
@@ -72,13 +77,13 @@ media:
 
 Bahia's Military Police eradicated a marijuana planting on Monday 9 November
 2026 in a caatinga scrubland area near the Quipa region in the rural zone of
-Juazeiro in northern Bahia. [@1,2,4] The operation was carried out by officers of
+Juazeiro in northern Bahia. [@1,2,4,5] The operation was carried out by officers of
 the 74th Independent Military Police Company for rural policing, acting through
 its Rural Tactical Operations Platoon and its Urban Tactical Operations Platoon.
-[@1,2,4]
+[@1,2,4,5]
 
 The police put the size of the planting at approximately 19,000 marijuana
-plants. [@1,2,3,4] After locating the cultivation, the officers carried out the
-eradication of the plantation at the site. [@1,2,3,4] Samples of the eradicated
+plants. [@1,2,3,4,5] After locating the cultivation, the officers carried out the
+eradication of the plantation at the site. [@1,2,3,4,5] Samples of the eradicated
 material were forwarded to the Drugs and Narcotics Station (DTE) in Juazeiro,
-where the applicable legal measures will be adopted. [@1,2,3,4]
+where the applicable legal measures will be adopted. [@1,2,3,4,5]
