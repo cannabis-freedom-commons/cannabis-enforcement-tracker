@@ -44,31 +44,42 @@ sources:
     url: https://www.msn.com/en-us/news/other/2-700-marijuana-plants-seized-in-snohomish-county-drug-bust/ar-AA2haiHf
     publisher: KING-TV Seattle (via MSN)
     date: 2026-11-10
-open_questions:
-  - The suspect's name, scheduled court appearance and plea were not published in initial reporting.
-  - The plant total is reported as an approximate count, and no weight for the dried plants was specified.
-  - Authorities released no estimated commercial or street value for the seized plants.
-  - The exact address of the property in unincorporated Monroe was not disclosed.
-  - The account rests on a single news report reproducing information from the regulatory agency and sheriff's office.
+  - title: Task force raids Monroe property after complaint, finds 2,700 cannabis plants
+    url: https://komonews.com/news/local/snohomish-county-sheriff-task-force-raids-monroe-property-after-complaint-seizing-2700-cannabis-plants-70-year-old-man-weed-grow-marijuana-plant-farming-liquor-cannabis-board-washington-state
+    publisher: KOMO News
+    date: 2026-11-10
+  - title: 2,700 marijuana plants seized in Snohomish County drug bust
+    url: https://www.yahoo.com/news/us/articles/2-700-marijuana-plants-seized-234340926.html
+    publisher: KING 5
+    date: 2026-11-10
+  - title: Task force raids Monroe property after complaint, finds 2,700 cannabis plants
+    url: https://www.msn.com/en-us/news/other/task-force-raids-monroe-property-after-complaint-finds-2-700-cannabis-plants/ar-AA2haDez
+    publisher: KOMO-TV Seattle (via MSN)
+    date: 2026-11-10
+media:
+  - kind: photo
+    url: https://komonews.com/news/local/snohomish-county-sheriff-task-force-raids-monroe-property-after-complaint-seizing-2700-cannabis-plants-70-year-old-man-weed-grow-marijuana-plant-farming-liquor-cannabis-board-washington-state
+    media_url: https://komonews.com/resources/media/faee412f-b8fa-4498-a7fb-a11ad8f6da78-901142462_1620733353413423_1754200839797025841_n.jpg
+    publisher: KOMO News
+    caption: 'Suspected unlicensed cannabis production found in the Monroe area. Photo: Snohomish County Sheriff''s Office'
 ---
 
 A 70-year-old man was arrested after law enforcement authorities discovered
 approximately 2,700 marijuana plants during a search of a suspected illegal
-cannabis production operation near Monroe, Washington. [@1] The 70-year-old
+cannabis production operation near Monroe, Washington. [@1,2] The 70-year-old
 suspect was booked into the Snohomish County Jail on felony charges of drug
 manufacturing, delivery, or possession with intent to deliver narcotics, as well
-as illegal marijuana production. [@1]
+as illegal marijuana production. [@1,3]
 
 The arrest followed an inquiry that began earlier this year after the state
 cannabis regulator received an initial complaint reporting a strong odor of
-marijuana originating from a property in unincorporated Monroe. [@1] That
+marijuana originating from a property in unincorporated Monroe. [@1,4] That
 complaint prompted an investigation by the Washington State Liquor and Cannabis
 Board's investigations unit, which identified evidence of suspected unlicensed
 cannabis production on the premises. [@1] The agency's unit then partnered with
-a regional law enforcement task force to advance the case. [@1] On 6 November
+a regional law enforcement task force to advance the case. [@1,4] The task force is supported by the Northwest High Intensity Drug Trafficking Area, a federal program. [@4] The task force that executed the warrant was the Snohomish Regional Drug Task Force, assisted by Washington State Liquor and Cannabis Board enforcement officers. [@4] On 6 November
 2026, investigators executed a search warrant at the property and seized
-approximately 2,700 live and dried marijuana plants. [@1] Details regarding the
+approximately 2,700 live and dried marijuana plants. [@1,3] Details regarding the
 joint investigation, search warrant and subsequent arrest were released by the
 Washington State Liquor and Cannabis Board and the Snohomish County Sheriff's
 Office. [@1]
-
