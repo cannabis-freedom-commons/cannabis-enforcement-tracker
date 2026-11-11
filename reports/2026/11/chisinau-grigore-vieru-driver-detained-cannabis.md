@@ -81,28 +81,39 @@ sources:
     publisher: Deschide.md
     date: 2026-11-11
     language: ro
+  - title: Șoferul care ar fi provocat accidentul de pe bd Grigore Vieru, soldat cu decesul unui pieton, nu avea permis de conducere. A fost testat pozitiv la droguri, anunță Poliția
+    url: https://newsmaker.md/ro/soferul-care-ar-fi-provocat-accidentul-de-pe-bd-grigore-vieru-soldat-cu-decesul-unui-pieton-nu-avea-permis-de-conducere-a-fost-testat-pozitiv-la-droguri-anunta-politia
+    publisher: NewsMaker
+    date: 2026-11-11
+    language: ro
+  - title: 'Accidentul de pe bulevardul Grigore Vieru: Șoferul a fost testat pozitiv la patru substanțe psihotrope și nu avea permis de conducere'
+    url: https://radiomoldova.md/p/89434/accidentul-de-pe-bulevardul-grigore-vieru-soferul-a-fost-testat-pozitiv-la-patru-substante-psihotrope-si-nu-avea-permis-de-conducere
+    publisher: Radio Moldova (Teleradio-Moldova)
+    date: 2026-11-11
+    language: ro
 open_questions:
-  - The exact time of the crash on the evening of 10 November 2026 is not given, and the accounts do not say when the 72-hour detention began or when it was to end.
-  - No charge was reported; the accounts say the investigation was still under way, so no court outcome is known.
-  - The accounts do not say how much cannabis or of what kind was detected, only that the test was positive for cannabis alongside amphetamine, methamphetamine and PVP.
-  - The 21-year-old man's condition was reported as serious and in intensive care, but no later update on him was available in the opened sources.
-  - The four accounts reproduce the same Chișinău police statement, so the drug-test results rest on that single police account rather than on an independent forensic report.
-  - Reports say the woman was about 30 years old; no exact age was published.
+    - The exact time of the crash on the evening of 10 November 2026 is not given, and the accounts do not say when the 72-hour detention began or when it was to end.
+    - No charge was reported; the accounts say the investigation was still under way, so no court outcome is known.
+    - The accounts do not say how much cannabis or of what kind was detected, only that the test was positive for cannabis alongside amphetamine, methamphetamine and PVP.
+    - The 21-year-old man's condition was reported as serious and in intensive care, but no later update on him was available in the opened sources.
+    - The accounts reproduce the same Chișinău police statement, so the drug-test results rest on that single police account rather than on an independent forensic report.
+    - Reports say the woman was about 30 years old; no exact age was published.
+    - The man who had rented the Ford was also identified and detained and questioned, but no charges or measures against him were reported.
 ---
 
 A 25-year-old man driving a Ford hit two pedestrians on a crossing on Grigore
-Vieru Boulevard in Chișinău on the evening of 10 November 2026. [@1,5,6,7] The two pedestrians were crossing the street legally. [@7] A woman of
+Vieru Boulevard in Chișinău on the evening of 10 November 2026. [@1,5,6,7,8] The press service of the General Police Inspectorate said the crash happened in the Rîșcani sector of Chișinău. [@9] The two pedestrians were crossing the street legally. [@7,8] A woman of
 about 30 died of her injuries in hospital, and a 21-year-old man was left in a
-serious condition in intensive care. [@1,5,6,7]
+serious condition in intensive care. [@1,5,6,7] The woman died a few hours after the crash from the injuries she had suffered. [@9]
 
 The driver left the car and fled the scene, and was later located and detained
 by the Operational Patrol and Response Battalion. [@2,6,7] Police held him for 72
-hours while the Chișinău police continued their investigation. [@3,6,7]
+hours while the Chișinău police continued their investigation. [@3,6,7,8]
 
 Officers noticed suspicious behaviour during the detention and took him to a
-medical institution to test his condition. [@4,6,7] The tests came back positive for
-amphetamine, methamphetamine, PVP, known as "salt", and cannabis. [@4,5,6,7] Police
-also established that the man does not hold a driving licence. [@2,5,6,7]
+medical institution to test his condition. [@4,6,7,8] The tests came back positive for
+amphetamine, methamphetamine, PVP, known as "salt", and cannabis. [@4,5,6,7,8] Police
+also established that the man does not hold a driving licence. [@2,5,6,7,8]
 
 The Ford had been rented by another person, who told police he had handed the
-car to the 25-year-old suspect. [@1,7]
+car to the 25-year-old suspect. [@1,7,8] Officers also identified and detained the man who had rented the car. [@8]
