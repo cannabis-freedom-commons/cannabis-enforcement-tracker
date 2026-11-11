@@ -63,6 +63,11 @@ sources:
     publisher: CenárioMT
     date: 2026-11-10
     language: pt
+  - title: Jovem é preso com maconha e R$ 5,5 mil em quitinete de Cuiabá
+    url: https://www.fatosdematogrosso.com.br/policia/jovem-e-preso-com-maconha-e-r-55-mil-em-quitinete-de-cuiaba/18641
+    publisher: Fatos de Mato Grosso
+    date: 2026-11-10
+    language: pt
 open_questions:
   - No weight was reported for the 14 portions of marijuana seized, so no cannabis kilograms are recorded.
   - The suspect was identified only as a 21-year-old man, with no name published.
@@ -71,22 +76,21 @@ open_questions:
 
 Military police from the 24th Battalion arrested a 21-year-old man for drug
 trafficking in the Jardim Liberdade neighbourhood of Cuiabá on Monday 9 November
-2026. [@2] Police acted on anonymous reports that a man was operating a drug
+2026. [@2,4] Police acted on anonymous reports that a man was operating a drug
 distribution point from a quitinete, or studio flat, where users were frequently
-seen arriving and leaving. [@1] When officers arrived at the address, they
+seen arriving and leaving. [@1,4] When officers arrived at the address, they
 spotted the suspect standing outside the residence, and he attempted to run back
-inside before officers intercepted and detained him. [@1]
+inside before officers intercepted and detained him. [@1,4]
 
 A personal search of the man uncovered one portion of marijuana in his
-possession. [@1] Officers then searched the studio flat and found another 13
-portions of marijuana stored inside a refrigerator. [@1] Police also seized
+possession. [@1,4] Officers then searched the studio flat and found another 13
+portions of marijuana stored inside a refrigerator. [@1,4] Police also seized
 packaging materials used to prepare narcotics for sale and 5,500 reais in
-banknotes, which investigators stated came from drug sales. [@1] In total, the
-24th Battalion seized 14 portions of marijuana during the operation. [@3]
+banknotes, which investigators stated came from drug sales. [@1,4] In total, the
+24th Battalion seized 14 portions of marijuana during the operation. [@3,4]
 
 Following the seizure, officers placed the suspect under arrest and transported
 him to the Central de Flagrantes in Cuiabá to record the incident and initiate
-legal proceedings. [@1] The seized drugs, cash, and packaging materials were
+legal proceedings. [@1,4] The seized drugs, cash, and packaging materials were
 presented alongside the suspect to the competent authorities for formal
 registration. [@3]
-
