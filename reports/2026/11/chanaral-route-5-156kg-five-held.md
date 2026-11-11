@@ -71,6 +71,11 @@ sources:
     publisher: Radioatacama.cl
     date: 2026-11-09
     language: es
+  - title: 'Carabineros en Chañaral: Fiscalización policial culmina con la incautación de 156 kilos de marihuana'
+    url: https://www.chanarcillo.cl/carabineros-en-chanaral-fiscalizacion-policial-culmina-con-la-incautacion-de-156-kilos-de-marihuana/
+    publisher: Diario Chañarcillo
+    date: 2026-11-10
+    language: es
 open_questions:
   - The article gives only its 9 November 2026 publication date and no separate date for the vehicle check, the arrests or the detention hearing, so the publication date stands in for the incident date.
   - No second independent account could be opened; the Carabineros Atacama statement and the Chañaral prosecutor's own releases were not retrievable, and a social-media post by Diario Chañarcillo repeats the same figures.
@@ -85,20 +90,20 @@ open_questions:
 ---
 
 Carabineros in the Atacama region detained five Chilean adults, all over 18, for
-drug trafficking and seized 156 kg 692 g of marijuana. [@1,2,3] The procedure began
+drug trafficking and seized 156 kg 692 g of marijuana. [@1,2,3,4] The procedure began
 at a service station on Route 5 Norte in the commune of Chañaral, where officers
 of the police investigation section (SIP) of the 1st Chañaral police station
 were checking two parked vehicles and found 140 packages containing marijuana
-inside them. [@1,2,3] The prosecutor's office then ordered the OS7 anti-drug section
+inside them. [@1,2,3,4] The prosecutor's office then ordered the OS7 anti-drug section
 of Carabineros de Atacama to carry out inquiries including phone analysis,
-review of security camera footage and statements. [@1] The investigation ended
+review of security camera footage and statements. [@1,4] The investigation ended
 with 156 kg 692 g of marijuana seized, which Carabineros counted as 313,384
-doses and valued at 1,566,920,000 pesos. [@1,3]
+doses and valued at 1,566,920,000 pesos. [@1,3,4]
 
 Officers also seized mobile phones and two radio transmitters for the
-investigation. [@1] Three of the five detainees had records for drug
+investigation. [@1,4] Three of the five detainees had records for drug
 trafficking, theft and burglary of unoccupied premises, while the other two had
-no criminal record. [@1,3] On the order of the prosecutor's office all five were
+no criminal record. [@1,3,4] On the order of the prosecutor's office all five were
 brought before a court and placed in preventive detention, and the prosecutor's
 office formalised charges against them as a criminal group for illicit drug
 trafficking. [@1,2,3] Chañaral chief prosecutor Nicolás Meléndez Chacón said the
