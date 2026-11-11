@@ -57,28 +57,27 @@ sources:
     publisher: Informe Digital
     date: 2026-11-11
     language: es
-open_questions:
-  - No weight was published for the seized marijuana, so no cannabis weight is recorded.
-  - No exact cash total was published beyond more than $100,000, so no cash figure is recorded.
-  - The detained person was not named and no charge or court outcome was reported.
-  - No laboratory confirmation for the seized substances was reported.
+  - title: Secuestraron cocaína, marihuana y más de $100.000 tras allanamiento por narcomenudeo
+    url: https://lagacetaonline.com.ar/policiales/secuestraron-cocaina-marihuana-y-mas-de-100-000-tras-allanamiento-por-narcomenudeo/
+    publisher: LaGACETA online
+    date: 2026-11-11
+    language: es
 ---
 
 Entre Ríos police searched a home in the city of Nogoyá on the afternoon of 10
 November 2026 in a suspected street-level drug dealing investigation. [@1]
 Officers detained one person, who was placed at the disposal of the judiciary.
-[@1] The Nogoyá Guarantees Court under Judge Oscar Eduardo Rossi ordered the
+[@1,4] The Nogoyá Guarantees Court under Judge Oscar Eduardo Rossi ordered the
 search, with the Nogoyá prosecution office under Sofía Pittaluga intervening.
-[@1] The search was carried out by the Dangerous Drugs division and the Special
-Guard of the Nogoyá departmental police headquarters. [@1] Police attributed the
+[@1,4] The search was carried out by the Dangerous Drugs division and the Special
+Guard of the Nogoyá departmental police headquarters. [@1,4] Police attributed the
 operation to the Entre Ríos police force. [@3]
 
 Inside the property officers seized small quantities of cocaine hydrochloride
-and marijuana. [@1] Police also seized more than 100,000 Argentine pesos in
-cash. [@1] Officers also seized two mobile phones, a digital scale, nylon
-cuttings and other items considered of interest to the investigation. [@1]
+and marijuana. [@1,4] Police also seized more than 100,000 Argentine pesos in
+cash. [@1,4] Officers also seized two mobile phones, a digital scale, nylon
+cuttings and other items considered of interest to the investigation. [@1,4]
 
 The procedure ran from 17:45 to 21:33. [@2] Police described the operation as
 part of Entre Ríos police work preventing and investigating drug dealing in the
 province. [@2]
-
