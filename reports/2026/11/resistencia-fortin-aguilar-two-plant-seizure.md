@@ -66,6 +66,11 @@ sources:
     publisher: DiarioYA
     date: 2026-11-09
     language: es
+  - title: Descubrieron plantas de marihuana y un cultivo indoor en Resistencia
+    url: https://www.novachaco.com/nota.asp?id=372591&id_tiponota=24&t=Descubrieron-plantas-de-marihuana-y-un-cultivo-indoor-en-Resistencia
+    publisher: NOVA Chaco
+    date: 2026-11-10
+    language: es
 open_questions:
   - The article says the intervention happened 'esta mañana' and was published on 9 November 2026; 9 November is used as the incident date.
   - No weight was published for the marijuana flowers in the wrapper, so only the two plants are recorded as a cannabis quantity.
@@ -87,24 +92,24 @@ Officers of the División Patrulla Preventiva, the Chaco police's preventive
 patrol division, went to a house on calle Fortín Aguilar at about number 65 in
 Resistencia on the morning of 9 November 2026 to secure the belongings of a
 woman who had been taken away hours earlier for causing disorder and damage at
-her former partner's home. [@1,2,3,4] The owner of the house told them the woman had
+her former partner's home. [@1,2,3,4,5] The owner of the house told them the woman had
 rented a room there for about six weeks and handed over items among her
-belongings voluntarily. [@1,4]
+belongings voluntarily. [@1,4,5]
 
 Among the items were two seedlings that appeared to be cannabis, five mushrooms
 of different sizes, a wrapper with marijuana flowers and indoor growing
-equipment including LED panels, lamps, pots, fertilisers and a grow tent. [@1,2,3,4]
+equipment including LED panels, lamps, pots, fertilisers and a grow tent. [@1,2,3,4,5]
 The División Drogas Peligrosas, the provincial dangerous-drugs unit, carried out
 field tests that were positive for marijuana on the seedlings examined, while a
-paper sample tested negative. [@1,3,4]
+paper sample tested negative. [@1,3,4,5]
 
 The woman turned up during the procedure, became agitated and was aggressive
-again towards the owner, and officers detained her. [@1,4] The Fiscalía Antidrogas
+again towards the owner, and officers detained her. [@1,4,5] The Fiscalía Antidrogas
 N° 1, the anti-drug prosecutor's office led by Dr Lovey Pessano, ordered the
 seizure of items linked to the case except the cash and ordered the woman
-released after the file was recorded. [@1,2,3,4]
+released after the file was recorded. [@1,2,3,4,5]
 
 The seized items and the file went to the Comisaría Séptima Metropolitana, the
-city's seventh metropolitan police station, for the courts. [@1,2,4]
+city's seventh metropolitan police station, for the courts. [@1,2,4,5]
 
 The owner of the house had begun removing the woman's belongings and moving them to another part of the property because of repeated problems he had with her. [@3] The woman had also previously been taken in over an incident of damage reported by her former partner, a case in which Prosecutor's Office No. 15 ordered her notified while free. [@3]
