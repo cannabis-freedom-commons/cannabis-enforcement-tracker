@@ -43,21 +43,20 @@ sources:
     publisher: Focus News
     date: 2026-11-11
     language: bg
-open_questions:
-  - No cannabis weight or quantity was reported, only a positive roadside test for use, so no kilogram figure is recorded.
-  - The reports do not say whether a laboratory blood or urine test was conducted to confirm the roadside test.
-  - The driver was not publicly named.
-  - No court outcome was reported; fast-track proceedings had only just been opened.
-  - The same article reports a separate drink-driving detention on the Nedelino–Zlatograd road, a different non-cannabis event left out here.
+  - title: Задържаха шофьор с 3,34 промила алкохол, в ареста е и дрогиран 19-годишен водач в Смолянско — Смолян
+    url: https://www.smolyan.bgvesti.net/news/640645/zadierzaxa-sofyor-s-334-promila-alkoxol-v-aresta-e-i-drogiran-19-godisen-vodac-v-smoliansko
+    publisher: Haskovo.Net
+    date: 2026-11-11
+    language: bg
 ---
 
 In Smolyan, police officers found a 19-year-old youth behind the wheel of an
 Audi A3 passenger car on Kosta Avramikov Street at about 14:20 on 10 November
-2026. [@1,2] Officers administered a test for the use of narcotic substances to
-the driver during the roadside check. [@1] The test returned a positive result
-for cannabis. [@1,2]
+2026. [@1,2,3] Officers administered a test for the use of narcotic substances to
+the driver during the roadside check. [@1,3] The test returned a positive result
+for cannabis. [@1,2,3]
 
-The driver was detained in police custody for up to 24 hours. [@1,2] Police opened
-fast-track proceedings in the case. [@1,2]
+The driver was detained in police custody for up to 24 hours. [@1,2,3] Police opened
+fast-track proceedings in the case. [@1,2,3]
 
-Police said the Smolyan cannabis-driving case dated from 10 November 2026. [@1]
+Police said the Smolyan cannabis-driving case dated from 10 November 2026. [@1,3]
