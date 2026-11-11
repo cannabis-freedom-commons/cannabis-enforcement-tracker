@@ -69,26 +69,30 @@ sources:
     publisher: TuStolica.pl
     date: 2026-11-10
     language: pl
+  - title: 'Otwock: Marihuana w domu nastolatka. 18-latek usłyszał zarzut posiadania znacznej ilości'
+    url: https://informacje.wp.pl/wiadomosci/marihuana-w-domu-nastolatka-18-latek-uslyszal-zarzut-posiadania-znacznej-ilosci-7349553815824832a
+    publisher: WP Info
+    date: 2026-11-10
+    language: pl
 open_questions:
-  - The article gives no separate date for the detention or the search; 10 November 2026 is its publication date and is used as the incident date.
-  - The 43 grams is described as marijuana with no laboratory confirmation reported.
-  - The suspected offence is described only as possessing a significant quantity of intoxicating substances, without the specific statutory provision.
-  - No court outcome was reported; the case was at the investigation stage with a police supervision measure imposed by the prosecutor.
-  - The release does not say whether the 1,700 złoty was treated as proceeds of drug crime.
-  - Only the police statement was found for this event; no independent account was published.
+    - The article gives no separate date for the detention or the search; 10 November 2026 is its publication date and is used as the incident date.
+    - The 43 grams is described as marijuana with no laboratory confirmation reported.
+    - The suspected offence is described only as possessing a significant quantity of intoxicating substances, without the specific statutory provision.
+    - No court outcome was reported; the case was at the investigation stage with a police supervision measure imposed by the prosecutor.
+    - The release does not say whether the 1,700 złoty was treated as proceeds of drug crime.
 ---
 
 Officers of the criminal division of the Otwock county police, working on drug
-crime, detained an 18-year-old resident of Otwock. [@1,2] The arrest followed
+crime, detained an 18-year-old resident of Otwock. [@1,2,3] The arrest followed
 operational work by the Otwock detectives against drug crime in the county, who
-tracked the teenager down. [@1]
+tracked the teenager down. [@1,3]
 
 During a search of his home, officers seized 43 grams of marijuana and 1,700
-złoty in cash. [@1,2] The teenager was suspected of possessing significant
+złoty in cash. [@1,2,3] The teenager was suspected of possessing significant
 quantities of intoxicating substances. [@1]
 
 The Otwock district prosecutor's office, the Prokuratura Rejonowa, opened an
-investigation into the case. [@1,2] He was charged with possessing a significant
-quantity of intoxicating substances. [@1,2] By decision of the prosecutor, the
+investigation into the case. [@1,2,3] He was charged with possessing a significant
+quantity of intoxicating substances. [@1,2,3] By decision of the prosecutor, the
 suspect was placed under police supervision, a bail-type measure under which he
 must report to police and may not leave his place of residence. [@1,2]
