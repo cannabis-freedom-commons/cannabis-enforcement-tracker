@@ -175,6 +175,11 @@ sources:
     publisher: Utusan Malaysia
     date: 2026-11-11
     language: ms
+  - title: Warga SG diberkas di Ipoh, cuba seludup dadah lebih RM1.5 juta
+    url: https://berita.mediacorp.sg/dunia/warga-sg-diberkas-di-ipoh-cuba-seludup-dadah-lebih-rm15-juta-1085731
+    publisher: BERITA Mediacorp
+    date: 2026-11-10
+    language: ms
 open_questions:
     - The sources disagree on the value of the cannabis, from about RM1.5 million to RM1.52 million; the report uses the RM1.52 million figure and the Straits Times' S$473,000 conversion.
     - 'The sources disagree on the man''s lodging in Kajang: some say he stayed at a hotel there, others that he collected the drugs from a supplier; they agree he picked up the load in Kajang on 7 November.'
@@ -237,7 +242,7 @@ arriving on 7 November. [@1,3,6,16,19,27,29] Police said he was to fly from Ipoh
 and then on to London to deliver the cannabis. [@1,3,6,7,8,9,11,12,14,16,17,18,19,20,21,23,24,25,26,27,28,29] He told police he had
 answered an online job offer promising good pay. [@1,3,7,14,16,19,21,22,25,26] Mohd Alwi said the suspect and the seized drugs were handed to the Perak police headquarters' narcotics investigation department for further investigation. [@19,25,26,29] Police said the offer was S$4,000 (about RM12,600) to carry luggage said to hold counterfeit luxury-branded goods to London. [@18] He was allegedly told that the luggage contained counterfeit branded goods and was offered more than RM12,500 for the delivery. [@20,24,27] Police said the offer was
 S$4,000 (about RM12,690), that the man was unemployed and that a urine screening
-found no drugs in his system. [@2,9,13,19] The syndicate lured recruits with offers of high pay to act as drug mules, hiding the drug in passengers' luggage for flights abroad to avoid detection. [@19,26,28]
+found no drugs in his system. [@2,9,13,19] The syndicate lured recruits with offers of high pay to act as drug mules, hiding the drug in passengers' luggage for flights abroad to avoid detection. [@19,26,28,30]
 
 Perak police chief Comm Datuk Mohd Alwi Zainal Abidin said syndicates
 increasingly use less busy airports such as Ipoh, which has one daily flight to
@@ -247,10 +252,10 @@ a death sentence or life imprisonment with caning on conviction. [@1,3,4,5,9,10,
 
 The man arrived in Ipoh on 7 November after picking up the load in Kajang and travelling by e-hailing car. [@3,5]
 
-The job offer was made through a website promising payment to carry luggage said to hold counterfeit luxury-branded goods to London. [@4,6,8,9,11,13,17,19,23,28,29] Mohd Alwi said the syndicate targeted less busy airports, with the drugs to be sent as cargo after clearing customs and forwarded to their destination. [@4] A urine screening found no drugs in his system and he had no previous criminal record. [@4,7,11,13,17,19,20,21,22,27,28,29] The case is being investigated under Section 39B of the Dangerous Drugs Act 1952, which on conviction carries the death penalty or life imprisonment and at least 12 strokes of whipping. [@4,23,25] Mohd Alwi said the drugs seized could have been used by about 47,900 addicts. [@4,9,11,19,29]
+The job offer was made through a website promising payment to carry luggage said to hold counterfeit luxury-branded goods to London. [@4,6,8,9,11,13,17,19,23,28,29,30] Mohd Alwi said the syndicate targeted less busy airports, with the drugs to be sent as cargo after clearing customs and forwarded to their destination. [@4] A urine screening found no drugs in his system and he had no previous criminal record. [@4,7,11,13,17,19,20,21,22,27,28,29,30] The case is being investigated under Section 39B of the Dangerous Drugs Act 1952, which on conviction carries the death penalty or life imprisonment and at least 12 strokes of whipping. [@4,23,25] Mohd Alwi said the drugs seized could have been used by about 47,900 addicts. [@4,9,11,19,29]
 
 Police chief Mohd Alwi said the suspect had been tricked by a syndicate into thinking he was carrying counterfeit luxury-branded goods, and that the 36 packets of suspected cannabis flower were found in a Caggioni-branded zippered suitcase. [@5] Mohd Alwi said the suspect and the seized items were handed to the Perak Narcotics Criminal Investigation Department for investigation, and that the seizure followed intelligence-gathering and cooperation from members of the public. [@5]
 
 Perak police said the 29-year-old suspect was unemployed and had flown from Singapore to Kuala Lumpur before staying overnight and collecting the drug-filled bag in Kajang, Selangor, and leaving for Ipoh on 7 November. [@8] Police said the case comes under Section 39B of the Dangerous Drugs Act 1952 and that the suspect was remanded for seven days until 14 November. [@8]
 
-Police said he was a 29-year-old unemployed man travelling with a bag that seemed suspicious, and that the bag held 36 clear plastic packages of dried leaves suspected to be cannabis flower weighing an estimated 19.04 kg and worth RM1.52 million on the market. [@15] Police said the man suspected the offer came through a website promising a well-paid job, and that the syndicate's method was to deceive people with high-paying job offers and use them as drug mules carrying supplies abroad on commercial flights, hiding the drugs in passenger baggage to avoid detection. [@15] Mohd Alwi said the seizure was the second largest in Perak this year and followed continued intelligence work by the state narcotics investigation department, together with cooperation from members of the public. [@15]
+Police said he was a 29-year-old unemployed man travelling with a bag that seemed suspicious, and that the bag held 36 clear plastic packages of dried leaves suspected to be cannabis flower weighing an estimated 19.04 kg and worth RM1.52 million on the market. [@15] Police said the man suspected the offer came through a website promising a well-paid job, and that the syndicate's method was to deceive people with high-paying job offers and use them as drug mules carrying supplies abroad on commercial flights, hiding the drugs in passenger baggage to avoid detection. [@15] Mohd Alwi said the seizure was the second largest in Perak this year and followed continued intelligence work by the state narcotics investigation department, together with cooperation from members of the public. [@15,30]
