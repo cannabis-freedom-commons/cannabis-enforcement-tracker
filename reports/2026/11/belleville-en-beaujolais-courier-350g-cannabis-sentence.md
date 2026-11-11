@@ -57,6 +57,11 @@ sources:
     publisher: Autonews
     date: 2026-11-07
     language: fr
+  - title: 'Cocaïne, cannabis, kétamine… : interpellé, il livrait des produits stupéfiants entre le Rhône et l’Ain'
+    url: https://www.lyoncapitale.fr/actualite/cocaine-cannabis-ketamine-interpelle-il-livrait-des-produits-stupefiants-entre-le-rhone-et-lain
+    publisher: Lyon Capitale
+    date: 2026-11-11
+    language: fr
 open_questions:
   - The 3,900 to 4,900 euro street-value estimate covers all of the seized drugs together; no cannabis-only value was reported.
   - Whether the unsuspended six months of the one-year term were served immediately was not reported.
@@ -67,19 +72,18 @@ motorist during a road check at Belleville-en-Beaujolais in the northern Rhône.
 [@1] Investigators linked the driver to an organised drug-delivery activity
 running for several weeks beyond the department. [@1] The deliveries covered an
 area from the north of the Villefranche-sur-Saône gendarmerie company to several
-neighbouring communes in Ain. [@1] Brought before the courts on 2 November, the
+neighbouring communes in Ain. [@1,3] Brought before the courts on 2 November, the
 accused was sentenced to one year's imprisonment, six months of it suspended.
-[@1]
+[@1,3]
 
 The search of the vehicle found 300 grams of cannabis resin and 50 grams of
-cannabis herb, a total of about 350 grams of cannabis. [@2] Officers also seized
+cannabis herb, a total of about 350 grams of cannabis. [@2,3] Officers also seized
 18 grams of cocaine, 70 ecstasy tablets, 16 grams of MDMA and 10 grams of
 ketamine alongside the cannabis. [@1] Gendarmes also seized 1,600 euros in cash.
-[@2] The gendarmerie estimated the seized drugs' market value at between 3,900
-and 4,900 euros. [@2]
+[@2,3] The gendarmerie estimated the seized drugs' market value at between 3,900
+and 4,900 euros. [@2,3]
 
 The operation brought together the Villefranche-sur-Saône PSIG, the
 Belleville-en-Beaujolais and Anse brigades and the Villefranche-sur-Saône
 research brigade. [@2] The Rhône gendarmerie described the joint action as
 halting a resale network. [@1]
-
