@@ -40,6 +40,11 @@ sources:
     publisher: Ceuta TV
     date: 2026-11-10
     language: es
+  - title: La Guardia Civil lleva al hospital a 12 detenidos que habían ingerido bellotas de hachís
+    url: https://elfarodeceuta.es/actualidad/sucesos/guardia-civil-hospital-detenidos-ingerido-bellotas-de-hachis/
+    publisher: El Faro de Ceuta
+    date: 2026-11-11
+    language: es
 open_questions:
   - The total weight of the seized hashish was not published, as the drug was detected in abdominal X-rays while still inside the suspects' bodies.
   - The identities, nationalities, and ages of the 12 detainees were not reported.
@@ -49,18 +54,17 @@ open_questions:
 
 Guardia Civil officers arrested 12 people at the Port of Ceuta on Tuesday, 10
 November 2026, after discovering they were attempting to board a ferry to
-Algeciras with swallowed hashish pellets. [@1] Health sources reported that all
+Algeciras with swallowed hashish pellets. [@1,2] Health sources reported that all
 12 detainees had ingested the drugs internally and had to be taken directly to
-the Hospital Universitario de Ceuta for medical attention. [@1] At the
+the Hospital Universitario de Ceuta for medical attention. [@1,2] At the
 hospital's emergency ward on Tuesday night, X-ray examinations confirmed that
-the pellets of hashish were clearly visible inside their bodies. [@1]
+the pellets of hashish were clearly visible inside their bodies. [@1,2]
 
 The intervention took place as the group tried to board one of the passenger
-vessels connecting Ceuta across the Strait of Gibraltar to mainland Spain. [@1]
+vessels connecting Ceuta across the Strait of Gibraltar to mainland Spain. [@1,2]
 Officers stationed at the port terminal grew suspicious of the group's behaviour
-as they approached the boarding gates. [@1] Detection dogs assigned to port
+as they approached the boarding gates. [@1,2] Detection dogs assigned to port
 duties reacted to the individuals and detected the presence of narcotics,
 prompting officers to stop and detain the travellers. [@1] Authorities did not
 immediately release the total weight of the seized hashish, as the suspects
 remained under medical supervision. [@1]
-
