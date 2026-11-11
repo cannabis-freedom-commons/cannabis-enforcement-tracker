@@ -66,6 +66,11 @@ sources:
     url: https://thechronicle.com.ph/doj-secures-conviction-of-thai-national-for-smuggling-cannabis-into-the-philippines/
     publisher: The Chronicle
     date: 2026-11-10
+  - title: 'NAIA drug bust: Thai passenger sentenced to life over P18M cannabis'
+    url: https://politiko.com.ph/naia-drug-bust-thai-passenger-sentenced-to-life-over-p18m-cannabis/
+    publisher: Politiko
+    date: 2026-11-11
+    language: en
 open_questions:
     - The 2024 arrest account gave 14.8 kg valued at P20.7 million, while the 2026 decision convicts on 13.16 kg worth P18.43 million; the report uses the court's figures.
     - The report follows Philstar's spelling Sirirut Taweesup; the 2024 account also renders the name in the opposite order.
@@ -75,8 +80,8 @@ open_questions:
 
 ## The sentence
 
-In a 14-page decision dated 26 October 2026, the Pasay Regional Trial Court Branch 116 found Thai national Sirirut Taweesup guilty of importing illegal drugs and sentenced her to life imprisonment. [@1,3,4] The court held that she smuggled 13.16 kg of cannabis worth P18.43 million, and it fined her P2 million. [@1,4] It also convicted her of violating the Customs Modernization and Tariff Act, imposing up to 12 more years in prison and ordering her to pay P5 million. [@1,3,4] The court further ordered that she be deported after serving her sentences because she is a Thai national. [@4] PDEA Director General Isagani Nerez said the conviction showed the agency's resolve to hold drug smugglers accountable. [@1]
+In a 14-page decision dated 26 October 2026, the Pasay Regional Trial Court Branch 116 found Thai national Sirirut Taweesup guilty of importing illegal drugs and sentenced her to life imprisonment. [@1,3,4] The court held that she smuggled 13.16 kg of cannabis worth P18.43 million, and it fined her P2 million. [@1,4] It also convicted her of violating the Customs Modernization and Tariff Act, imposing up to 12 more years in prison and ordering her to pay P5 million. [@1,3,4,5] The court further ordered that she be deported after serving her sentences because she is a Thai national. [@4] PDEA Director General Isagani Nerez said the conviction showed the agency's resolve to hold drug smugglers accountable. [@1]
 
 ## The 2024 arrest
 
-Taweesup, then 40, was arrested at NAIA Terminal 3 on 14 August 2024 after arriving from Bangkok when cannabis was found in her luggage. [@1,2] An X-ray scan of the luggage bearing her name showed suspicious markings, a K-9 unit then flagged possible drugs, and laboratory testing confirmed the 13 pouches contained cannabis. [@4] She brought 13 vacuum-sealed plastic pouches of dried cannabis leaves into the country when she arrived on 14 August 2024. [@4] The arrest account said 14.8 kg of high-grade kush valued at P20.7 million was hidden in a false side of her check-in bag. [@2] The convicted quantity in the 2026 decision was lower, at 13.16 kg worth P18.43 million, and the report uses the court's figures. [@1,2]
+Taweesup, then 40, was arrested at NAIA Terminal 3 on 14 August 2024 after arriving from Bangkok when cannabis was found in her luggage. [@1,2] An X-ray scan of the luggage bearing her name showed suspicious markings, a K-9 unit then flagged possible drugs, and laboratory testing confirmed the 13 pouches contained cannabis. [@4] She brought 13 vacuum-sealed plastic pouches of dried cannabis leaves into the country when she arrived on 14 August 2024. [@4,5] The arrest account said 14.8 kg of high-grade kush valued at P20.7 million was hidden in a false side of her check-in bag. [@2] The convicted quantity in the 2026 decision was lower, at 13.16 kg worth P18.43 million, and the report uses the court's figures. [@1,2]
