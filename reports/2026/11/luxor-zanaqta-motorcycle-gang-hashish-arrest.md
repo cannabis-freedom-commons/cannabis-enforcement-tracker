@@ -46,6 +46,11 @@ sources:
     publisher: إقرأ نيوز
     date: 2026-11-11
     language: ar
+  - title: سقوط عصابة سرقة الموتوسيكلات بالأقصر.. ضبط 5 دراجات نارية وكمية من المخدرات
+    url: https://www.aldawlanews.com/1388814
+    publisher: بوابة الدولة
+    date: 2026-11-11
+    language: ar
 open_questions:
   - No weight was published for the seized hashish, so no cannabis quantity is recorded.
   - The sources give no separate raid date; 11 November 2026 is the publication date used for the incident date.
@@ -54,19 +59,19 @@ open_questions:
 ---
 
 Luxor criminal investigators arrested four men accused of forming a gang that
-stole motorcycles by distraction and cutting electrical wiring. [@1,3] The
+stole motorcycles by distraction and cutting electrical wiring. [@1,3,4] The
 suspects are unemployed Luxor residents aged 20 to 45 with prior criminal
-records. [@1] Prosecutors ordered all four held for four days pending
-investigation under the Luxor chief prosecutor. [@1]
+records. [@1,4] Prosecutors ordered all four held for four days pending
+investigation under the Luxor chief prosecutor. [@1,4]
 
 Investigators said the group used Al-Zanaqta in Luxor as a depot to hide stolen
-motorcycles until disposal. [@2,3] Officers recovered five reported-stolen
+motorcycles until disposal. [@2,3,4] Officers recovered five reported-stolen
 motorcycles from Luxor city and Armant markaz, plus a locally made shotgun, iron
-cutters, cash and mobile phones. [@2,3] Officers also seized an unspecified amount
+cutters, cash and mobile phones. [@2,3,4] Officers also seized an unspecified amount
 of hashish and half a kilogram of shabu, which police described as
-methamphetamine-type drugs held for trafficking. [@1,3]
+methamphetamine-type drugs held for trafficking. [@1,3,4]
 
 The suspects admitted forming the theft gang and possessing drugs for
-trafficking, saying the firearm was to defend themselves. [@1] Police notified
+trafficking, saying the firearm was to defend themselves. [@1,4] Police notified
 the motorcycle owners to identify and collect their vehicles and referred the
-suspects to the prosecution. [@1]
+suspects to the prosecution. [@1,4]
