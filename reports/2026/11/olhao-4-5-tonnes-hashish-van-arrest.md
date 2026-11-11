@@ -139,43 +139,19 @@ sources:
     publisher: Now
     date: 2026-11-09
     language: pt
+  - title: Um detido e 4,5 toneladas de haxixe apreendidas em Olhão
+    url: https://www.cmjornal.pt/cmtv/videos/detalhe/20261110-145530-um-detido-e-4-5-toneladas-de-haxixe-apreendidas-em-olhao
+    publisher: Correio da Manhã
+    date: 2026-11-10
+    language: pt
 open_questions:
-  - No date is given for the operation or the arrest; 9 November 2026 is the publication date of the accounts and stands in for the incident date.
-  - The weight is given as approximately 4.5 tonnes and the bale count as about 100, not exact measured figures.
-  - Police say the hashish is presumed to have been brought in by sea; that route is the investigators' working assumption, not established fact.
-  - No value estimate, specific rural locality or description of the property was published beyond the stolen goods vehicle.
-  - The outcome of the first judicial hearing and any preventive measures were not reported.
-  - Portugal Resident, Notícias ao Minuto and Central Press reproduce the same Judicial Police statement, so they do not independently corroborate one another.
-  - Central Press repeats the release's wording that the suspect 'foi identificado tinha por missão a guarda', a garbled sentence; the guarding role is taken from the clearer Notícias ao Minuto and Portugal Resident accounts.
-  - 'Left out, as its quotation was not found in Notícias ao Minuto: The Judicial Police''s Southern Directorate ran the operation, with the collaboration of the Republican National Guard (GNR).'
-  - Left out agencies, as its quotation was not found in Notícias ao Minuto.
-  - The Sul Informação account repeats the same Judicial Police statement as the accounts already cited, so it does not independently corroborate the police version.
-  - RTP gives no separate date for the operation or the arrest; 9 November 2026 is its publication date.
-  - RTP reproduces the Judicial Police statement, so it does not independently corroborate the police version.
-  - The Correio da Manhã account, credited to Lusa, says a Judicial Police source placed the operation on Saturday, but gives no exact calendar date for it.
-  - The Correio da Manhã picture is captioned only 'Polícia Judiciária' and credited to a CMTV video frame; the caption does not say what it shows.
-  - Jornal de Notícias reproduces the Judicial Police statement, so it does not independently corroborate the police version.
-  - The Jornal de Notícias photo is credited to its photographer rather than to the Judicial Police, and it is not stated where or when it was taken, though its caption ties it to this seizure.
-  - Algarve Marafado reproduces the Judicial Police statement also carried by the outlets already cited, so it does not independently corroborate the police version.
-  - Barlavento reproduces the Judicial Police statement already carried by the outlets cited, so it does not independently corroborate the police version.
-  - The Barlavento page gives no separate date for the operation or the arrest; 9 November 2026 is its publication date.
-  - TV Record Europa describes the suspect as a 35-year-old man, while other accounts cited by the report give his age as 38.
-  - Postal is the first account seen to give a calendar date for the operation (Saturday, 7 November 2026), and it is the outlet's report rather than the Judicial Police statement as quoted elsewhere.
-  - Postal describes the arrest as made in flagrante delito, while it gives no indication of what was being witnessed at the time.
-  - In Portuguese law flagrante delito means the suspect was caught in the act, whereas the other cited accounts describe an investigation into a group's activity and drug guarding without saying the suspect was caught in the act.
-  - The Macau Business page shows a 10 November 2026 dateline above the article; 9 November 2026 is its listed publication timestamp, and neither is a separate date for the operation.
-  - Macau Business reproduces the same AFP copy of the Judicial Police statement carried by the outlets already cited, so it does not independently corroborate the police version.
-  - Huelva Hoy places the arrest "cerca de Huelva, en la frontera con Portugal", which conflicts with the Portuguese accounts placing the van and the arrest in the rural area of Olhão; the Olhão report follows the Portuguese accounts.
-  - Huelva Hoy gives no separate date for the operation or the arrest; 9 November 2026 is its publication date.
-  - Huelva Hoy reproduces the same Judicial Police statement as the Portuguese outlets already cited, so it does not independently corroborate the police version.
-  - The Narcodiario article body is behind a subscriber paywall; only its headline, standfirst and opening line could be read, so its remainder was not used.
-  - Narcodiario places Olhão 'cerca de Huelva', describing proximity to the Spanish province rather than a precise location; the tracker report follows the Portuguese accounts placing the property in the rural area of Olhão.
-  - The Observador account reproduces the same Judicial Police statement as the Portuguese outlets already cited, so it does not independently corroborate the police version.
-  - 'Left out, as its quotation was not found in Observador: The arrest was made after the Judicial Police and the GNR found 4.5 tonnes of hashish in a stolen vehicle.'
-  - Now gives no calendar date for the operation or the hearing; the account was published on 9 November 2026, and the report's date for the operation rests on other outlets.
-  - Now does not name the court that ordered the preventive detention.
-  - Now reproduces the same Judicial Police statement as the outlets already cited, so it does not independently corroborate the police version.
-  - The Now page's photograph carries no caption or credit line, so it is not recorded as media.
+    - No official date was announced for the raid or arrest; 9 November 2026 is the publication date of the initial statements.
+    - The weight is reported as approximately 4.5 tonnes and the bale count as about 100 rather than exact measured figures.
+    - Police suspect the hashish arrived by sea through the Ria Formosa channels, but the maritime route remains an investigative assumption.
+    - No estimated street value, specific rural locality or property owner was published.
+    - TV Record Europa reported the suspect's age as 35, whereas other outlets report 38.
+    - 'Reports differ on timing: a police source placed the operation on Saturday, 7 November 2026, but the seizure was made public on Monday, 9 November.'
+    - One outlet reported the suspect was remanded in pre-trial detention, while other reports stated only that he was to appear before a judge for preventive measures.
 ---
 
 Judicial police arrested a 38-year-old man on suspicion of drug trafficking after finding about 100
@@ -193,6 +169,6 @@ cases along the Algarve coast, where waterways are regularly used to bring drugs
 Africa. [@1]
 
 The suspect, who has previous records, was to appear before a judge for a first hearing that would
-decide any preventive measures. [@1,4,5,8,10,11,12] One later account says he was caught in the act,
+decide any preventive measures. [@1,4,5,8,10,11,12,17] One later account says he was caught in the act,
 has been heard by a judge and will await trial in pre-trial detention. [@16] The investigation
 continues under the Public Prosecutor's Office (DIAP) in Faro. [@3,4,5,7,8,10]
