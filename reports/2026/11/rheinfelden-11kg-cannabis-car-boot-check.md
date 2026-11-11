@@ -44,6 +44,16 @@ sources:
     publisher: imTicker
     date: 2026-11-11
     language: de
+  - title: Zoll findet 11 Kilogramm Cannabis im Kofferraum
+    url: https://www.streetlife.ch/artikel/zoll-findet-11-kilogramm-cannabis-im-kofferraum
+    publisher: Streetlife.ch
+    date: 2026-11-11
+    language: de
+  - title: 'Cannabis im Wert von 110''000 Franken: Zoll stoppt Mann (22) in Rheinfelden'
+    url: https://www.20min.ch/story/cannabis-im-wert-von-110-000-franken-zoll-stoppt-mann-22-in-rheinfelden-103665502
+    publisher: 20 Minuten
+    date: 2026-11-11
+    language: de
 open_questions:
   - The reported weight of about eleven kilograms is approximate.
   - The reports do not state the origin or destination of the cannabis.
@@ -54,14 +64,14 @@ open_questions:
 Shortly after 2:30 a.m. on Sunday, 8 November 2026, officers of the Federal
 Office for Customs and Border Security stopped a car with Swiss registration
 plates in the area of the Rheinfelden motorway border crossing in Aargau. [@1]
-The car was driven by a 22-year-old Moroccan national. [@1] He could not produce
+The car was driven by a 22-year-old Moroccan national. [@1,3] He could not produce
 a driving licence during the check, and further inquiries showed that he was
 prohibited from driving motor vehicles. [@1]
 
 During the subsequent search of the vehicle, officers found ten vacuum-sealed
-packages containing cannabis in the boot. [@1] The seized cannabis weighed about
-eleven kilograms in total. [@1] The customs agency handed the case to the Aargau
-cantonal police for further handling. [@2]
+packages containing cannabis in the boot. [@1,3] The drugs had been hidden in shopping bags. [@3] The seized cannabis weighed about
+eleven kilograms in total. [@1,3] The agency put the street-sale value of the drugs at about 110,000 francs. [@4] The customs agency handed the case to the Aargau
+cantonal police for further handling. [@2,3]
 
 The Federal Office for Customs and Border Security is the Swiss agency
 responsible for border security and for checking goods, people and means of
@@ -69,4 +79,3 @@ transport on the basis of the situation and risk. [@1] Alongside customs
 collection, the agency combats cross-border crime and irregular migration and
 performs tasks in around 100 non-customs areas such as medicines, species
 protection and brand protection. [@1]
-
