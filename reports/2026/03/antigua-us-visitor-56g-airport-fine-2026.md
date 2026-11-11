@@ -76,10 +76,16 @@ sources:
     publisher: Antigua Observer Newspaper
     date: 2026-03-09
     archived: https://web.archive.org/web/20260311163924id_/https://antiguaobserver.com/us-national-arrested-at-airport-for-possession-of-cannabis/
+  - title: Antigua-US tourist fined EC$1,000 for marijuana possession at VC Bird International
+    url: https://www.thestkittsnevisobserver.com/antigua-us-tourist-fined-ec1000-for-marijuana-possession-at-vc-bird-international/
+    publisher: The St Kitts Nevis Observer
+    date: 2026-03-12
+    language: en
 open_questions:
-  - The report is dated 11 March 2026, the morning Saloum appeared before the Chief Magistrate according to the 11 March 2026 report; the arrest occurred on 7 March 2026.
-  - Antigua outlets write the fine as $1,000; the Caribbean National Weekly clarifies it as EC$1,000, recorded here as XCD.
-  - No photo is listed because the submitted and follow-up pages carry only headline-captioned images whose content cannot be verified as showing this seizure.
+    - The report is dated 11 March 2026, the morning Saloum appeared before the Chief Magistrate according to the 11 March 2026 report; the arrest occurred on 7 March 2026.
+    - Antigua outlets write the fine as $1,000; the Caribbean National Weekly clarifies it as EC$1,000, recorded here as XCD.
+    - No photo is listed because the submitted and follow-up pages carry only headline-captioned images whose content cannot be verified as showing this seizure.
+    - The St Kitts Nevis Observer account describes 23 pre-rolled joints and a bag of cannabis weighing 56 grams, while the police statement described 23 pre-wrapped joints and a blue zip-lock bag of material resembling cannabis.
 ---
 
 34-year-old United States national Fady Aziz Saloum was taken into custody at
@@ -88,14 +94,14 @@ Police Headquarters, where the substances were seized and he was formally
 charged. [@2] He appeared before Chief Magistrate Ngaio Emanuel, pleaded guilty
 to possession of cannabis, and prosecutors withdrew the separate importation
 charge. [@3] The court fined him EC$1,000, payable within 30 days or 30 days in
-prison, and ordered the cannabis confiscated. [@4]
+prison, and ordered the cannabis confiscated. [@4,6]
 
 Officers from the Narcotics Department, the K-9 Unit and the Customs Enforcement
 Unit were conducting a coordinated operation at the airport around 4:30 p.m.
 when a trained drug-detection dog signalled interest in Saloum's suitcase. [@2,5]
 Saloum had just arrived aboard United Airlines Flight 2020 from Pennsylvania.
 [@1,5] A search of the suitcase uncovered 23 pre-wrapped cannabis joints and a
-blue zip-lock bag containing vegetable material resembling cannabis. [@1,5]
+blue zip-lock bag containing vegetable material resembling cannabis. [@1,5,6]
 Authorities confirmed the substances weighed 56 grams, which police valued at
 EC$560. [@1,5]
 
@@ -103,7 +109,7 @@ The Royal Police Force of Antigua and Barbuda says it continues to strengthen
 drug interdiction at ports of entry and reminds travellers that importation and
 possession remain serious offences. [@1,5] The court was told Saloum holds a
 United States medical cannabis card, which he uses to manage anxiety and back
-pain. [@3] The court was told the card carries no legal standing in Antigua and
-Barbuda. [@3] At sentencing the magistrate placed the offence in a lower
+pain. [@3,6] The court was told the card carries no legal standing in Antigua and
+Barbuda. [@3,6] At sentencing the magistrate placed the offence in a lower
 category with no aggravating factors and weighed his cooperation, previous good
-character and medical card as mitigation. [@4]
+character and medical card as mitigation. [@4] The magistrate also warned travellers to familiarize themselves with the laws of countries they plan to visit. [@6]
