@@ -63,6 +63,11 @@ sources:
     publisher: Sabah
     date: 2026-11-10
     language: tr
+  - title: 'Araçta 12 kilo skunk ele geçirildi: 1 gözaltı'
+    url: https://www.urfabaraj.com/aracta-12-kilo-skunk-ele-gecirildi-1-gozalti/76609
+    publisher: Urfabaraj.com
+    date: 2026-11-10
+    language: tr
 open_questions:
   - The sources give no separate date for the search; 10 November 2026 is the date of the police statement and of publication and is used as the incident date.
   - İLKHA reports the suspect was referred to the judicial authorities, while the agency copy still said police processing at the station was continuing; no charge or court decision was reported.
@@ -74,14 +79,14 @@ open_questions:
 
 Gaziantep police anti-narcotics officers searched a car and seized 12 kilograms
 of skunk, a potent form of cannabis sold under that name in Türkiye, and
-detained one suspect. [@1,5] The officers of the Gaziantep Provincial Police
+detained one suspect. [@1,5,6] The officers of the Gaziantep Provincial Police
 Directorate's narcotics branch ran the search as part of work against drug
 sellers. [@2] Narcotics officers of the Gaziantep Provincial Police Directorate stopped a light commercial vehicle on suspicion at a checkpoint on the intercity highway. [@5] The operation was carried out under the coordination of the Chief
-Public Prosecutor's Office, the provincial prosecutor's office. [@3] The person
+Public Prosecutor's Office, the provincial prosecutor's office. [@3,6] The person
 caught in connection with the incident was taken to the police station and then
 referred to the judicial authorities after processing. [@1] After the referral
 to the judicial authorities, the person's questioning and custody status
 continued at the police station according to other accounts. [@2]
 
 The 12 kilograms of skunk found in the car were seized as evidence. [@3,5] The 12
-kilograms of skunk were recovered from a car, not from a house or a field. [@4] During the search officers examined an electric oven in the boot and found the skunk hidden among the insulation material at the rear of the device. [@5]
+kilograms of skunk were recovered from a car, not from a house or a field. [@4] During the search officers examined an electric oven in the boot and found the skunk hidden among the insulation material at the rear of the device. [@5] Officers carried out the search of the vehicle with the assistance of a detector dog. [@6]
