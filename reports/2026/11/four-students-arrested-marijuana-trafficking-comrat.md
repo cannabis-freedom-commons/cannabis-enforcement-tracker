@@ -51,34 +51,34 @@ sources:
     publisher: MOLDPRES
     date: 2026-11-11
     language: ro
-open_questions:
-  - No weight or quantity of the seized marijuana was published.
-  - The reports give no separate date for the arrests; 11 November 2026 is the publication date.
-  - No charges beyond the reported drug-trafficking investigation were specified.
-  - The account rests on police statements as reprinted by the outlets; no court document was published.
+  - title: VIDEO/ „Ar fi comercializat marijuana colegilor de facultate și persoanelor din cercul lor de apropiați”. Patru tineri, implicați într-o rețea de trafic de droguri, reținuți
+    url: https://www.zdg.md/stiri/video-ar-fi-comercializat-marijuana-colegilor-de-facultate-si-persoanelor-din-cercul-lor-de-apropiati-patru-tineri-implicati-intr-o-retea-de-trafic-de-droguri-retinuti/
+    publisher: Ziarul de Gardă
+    date: 2026-11-11
+    language: ro
 ---
 
 Four young people, students in Chisinau and originally from southern Moldova,
 were detained in a drug-trafficking case after allegedly selling marijuana to
-fellow students and close acquaintances. [@1,4] The suspects were three young men
-and one young woman aged 19 to 22. [@2] The four suspects were placed in
-preventive arrest for 30 days. [@1]
+fellow students and close acquaintances. [@1,4,5] The suspects were three young men
+and one young woman aged 19 to 22. [@2,5] The four suspects were placed in
+preventive arrest for 30 days. [@1,5]
 
 Police say officers of the Anti-Drug Directorate and criminal investigators of
 the National Investigation Inspectorate documented the group's activity over two
 months, together with PCCOCS prosecutors. [@1] Investigators allege the youths
 bought the drugs wholesale in their home locality and then distributed them
-individually to a restricted circle of users. [@1,4] Two suspects, a 19-year-old
+individually to a restricted circle of users. [@1,4,5] Two suspects, a 19-year-old
 man and a 21-year-old woman, were detained in Comrat while allegedly trying to
-sell drugs. [@1,4] Body searches of the two found packets containing marijuana.
-[@1] At a third suspect's home in Comrat officers seized mobile phones allegedly
-used in the criminal activity, a high-precision scale and marijuana. [@1] A
+sell drugs. [@1,4,5] Body searches of the two found packets containing marijuana.
+[@1,5] At a third suspect's home in Comrat officers seized mobile phones allegedly
+used in the criminal activity, a high-precision scale and marijuana. [@1,5] A
 fourth suspect, described as the group's alleged supplier, was detained in a
 garage, where officers seized marijuana, small scales, adhesive tape and
-zip-lock packets. [@1] The operation was carried out with the support of masked
-officers of the Fulger special-purpose police brigade. [@1]
+zip-lock packets. [@1,5] The operation was carried out with the support of masked
+officers of the Fulger special-purpose police brigade. [@1,5]
 
 At the prosecutor's request, a court issued 30-day preventive-arrest warrants
 for all four suspects. [@2,4] If found guilty, they face prison sentences of 15 to
-17 years. [@1,4] Noi.md confirms officers documented the criminal activity of the
+17 years. [@1,4,5] Noi.md confirms officers documented the criminal activity of the
 three young men and one young woman over two months. [@3]
