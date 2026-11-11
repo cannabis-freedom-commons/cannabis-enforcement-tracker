@@ -1,34 +1,38 @@
 ---
 code: S2W7KT
 added_at: "2026-11-07T08:05:37.327542Z"
-date: 2026-11-07
+date: 2026-11-11
 country: eg
 place: Marg police station district, Cairo
 coordinates: [30.16, 31.335]
 precision: district
-type: arrest
-also: [seizure, prosecution]
+type: prosecution
+also: [seizure, arrest]
 title: Man arrested with 13 kg of hashish and shotgun in Cairo's El-Marg
 summary: >-
   Cairo detectives arrested an unemployed man with a criminal record in the Marg district, seizing 13 kg of hashish, a shotgun with cartridges and cash on suspicion of drug trafficking. He was caught in a security ambush after a tip, and the case was referred to the Public Prosecution for investigation.
 figures:
-  arrested: 1
-  kg_seized: 13
+    arrested: 1
+    kg_seized: 13
+    charged: 1
 details:
-  agencies: [Cairo Criminal Investigation Department, Marg police station investigations]
-  agency_types: [police, prosecutor]
-  products:
-    - {product: hashish, kg: 13}
-  case_stage: investigation
-  date_precision: publication
-  region: Cairo
+    agencies: [Cairo Criminal Investigation Department, Marg police station investigations]
+    agency_types: [police, prosecutor]
+    products:
+        - {product: hashish, kg: 13}
+    case_stage: charged
+    date_precision: publication
+    region: Cairo
+    charges: [drug trafficking and unlicensed possession of a firearm and ammunition]
 data_sources:
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.products: [1]
-  figures.arrested: [1]
-  figures.kg_seized: [1]
+    details.agencies: [1]
+    details.agency_types: [1]
+    details.case_stage: [3]
+    details.products: [1]
+    figures.arrested: [1]
+    figures.kg_seized: [1]
+    details.charges: [4]
+    figures.charged: [3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 67d42ecb070c126cf6f8571456c681a9
@@ -44,13 +48,16 @@ sources:
     publisher: بوابة مولانا
     date: 2026-11-07
     language: ar
-open_questions:
-  - The article gives no separate date for the ambush and arrest; 7 November 2026 is its publication date and is used as the incident date.
-  - No amount was given for the cash seized, so no value can be recorded.
-  - The article does not say how many rounds of ammunition were seized.
-  - The suspect was not named, only described as an unemployed man with a criminal record.
-  - No charges, detention order or court date had been announced; the case was with the Public Prosecution for investigation.
-  - Only one source for this event was found after searching in Arabic.
+  - title: إحالة عاطل للمحاكمة بحيازة 135 فرش حشيش بالمرج - بوابة مولانا
+    url: https://mwlana.com/details/265454/
+    publisher: بوابة مولانا
+    date: 2026-11-11
+    language: ar
+  - title: إحالة عاطل للمحاكمة بتهمة حيازة 135 فرش حشيش وسلاح ناري في المرج
+    url: https://www.dostor.org/5772755
+    publisher: جريدة الدستور
+    date: 2026-11-11
+    language: ar
 ---
 
 Cairo detectives arrested a man in the Marg police station district in Cairo on
@@ -71,4 +78,4 @@ Officers completed the required legal procedures and notified Cairo security
 chief Mohamed Youssef, who referred the case to the Public Prosecution to
 conduct the investigation. [@1]
 
-The seized hashish was 135 individual pieces, seized together with a mobile phone in addition to the shotgun, cartridges and cash. [@2]
+The seized hashish was 135 individual pieces, seized together with a mobile phone in addition to the shotgun, cartridges and cash. [@2] Cairo investigators have now referred the unemployed defendant, held with 135 pieces of hashish in the Marg district, to criminal trial for sale to his customers. [@3] The El Marg prosecution referred him on charges of drug trafficking and unlicensed possession of a firearm and ammunition. [@4]
