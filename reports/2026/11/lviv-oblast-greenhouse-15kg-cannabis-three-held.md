@@ -100,16 +100,20 @@ sources:
     publisher: Львівська мануфактура новин (LMN)
     date: 2026-11-10
     language: uk
+  - title: Військового на Львівщині підозрюють у наркобізнесі на 4,5 млн грн та підробці історії хвороби
+    url: https://lviv.media/amp/lviv/113074-vijskovogo-na-lvivshini-pidozryuyut-u-narkobiznesi-na-45-mln-grn-ta-pidrobci-istoriyi-hvorobi/
+    publisher: LVIV.MEDIA
+    date: 2026-11-10
+    language: uk
 open_questions:
-  - The reports give no date for the searches or the arrests; 10 November 2026 is the date of the police statement and its publication.
-  - No count of cannabis plants in the greenhouse was published, so no plant figure is given.
-  - The weight is stated as about 15 kilograms and the value as a preliminary black-market estimate, not a measured or assessed figure.
-  - Police did not say how much cash was seized.
-  - The suspects' ages, names and the exact settlement in Lviv Oblast were not released; only 'Lviv Oblast' is known.
-  - No court has yet ruled on the case; no bail, custody period or plea was reported.
-  - The three are described only as suspects and are presumed innocent until a court judgment.
-  - The articles were published the same day as the police statement and largely reproduce it, so they are not independent accounts.
-  - Нацполіція викрила наркобізнес на 4,5 мільйона гривень на Львівщині (Національна поліція України (National Police of Ukraine)) could not be opened again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.
+    - The reports give no date for the searches or the arrests; 10 November 2026 is the date of the police statement and its publication.
+    - No count of cannabis plants in the greenhouse was published, so no plant figure is given.
+    - The weight is stated as about 15 kilograms and the value as a preliminary black-market estimate, not a measured or assessed figure.
+    - Police did not say how much cash was seized.
+    - The suspects' ages, names and the exact settlement in Lviv Oblast were not released; only 'Lviv Oblast' is known.
+    - No court has yet ruled on the case; no bail, custody period or plea was reported.
+    - The three are described only as suspects and are presumed innocent until a court judgment.
+    - The articles were published the same day as the police statement and largely reproduce it, so they are not independent accounts.
 ---
 
 Police detained three people accused of growing cannabis in a greenhouse on the
@@ -118,7 +122,7 @@ drug-dependent people in Lviv and the surrounding region. [@1,4,5]
 
 One of the three was a Ukrainian armed forces serviceman who, according to
 police, had forged a medical history to be discharged on health grounds while
-dealing drugs. [@1,2,4] Officers of the National Police's Department of Internal
+dealing drugs. [@1,2,4,6] Officers of the National Police's Department of Internal
 Security found the group while investigating a scheme of forged medical
 documents used to release servicemen from duty, and the detectives work with
 Lviv region police investigators. [@2]
@@ -127,11 +131,11 @@ The three were detained during another hand-over, with special police unit
 officers assisting, the police said. [@1,2] Searches at the suspects' homes, using
 handlers and sniffer dogs, turned up about 15 kilograms of cannabis, cash and
 other evidence. [@1,4,5] Police estimated the black-market value of the drugs at
-about 4.5 million hryvnia. [@1,4,5]
+about 4.5 million hryvnia. [@1,4,5,6]
 
 The plants were dried, ground and packed on the same property into "shaiby" —
 slang for packages each holding about 20 grams of ready-to-use cannabis — which
-normally sold for 6,000 hryvnia each, police said. [@1,2]
+normally sold for 6,000 hryvnia each, police said. [@1,2] Police said the cannabis was handed over to buyers mainly during in-person meetings. [@6]
 
 Investigators told all three they were suspected under Article 307, part 2 or
 part 3, of the Criminal Code, on illegal production, storage, transport and sale
