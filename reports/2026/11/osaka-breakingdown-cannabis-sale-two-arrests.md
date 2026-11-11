@@ -171,12 +171,22 @@ sources:
     publisher: ABC NEWS 関西ニュース
     date: 2026-11-11
     language: ja
+  - title: 『ブレイキングダウン』出場の男が大麻購入か「巻いてほしい」「5本」など取引とみられるメッセージ　吸引具など押収【大阪府警】（2026年11月11日)
+    url: https://www.youtube.com/watch?v=agp_6zSV9Mg
+    publisher: MBS NEWS
+    date: 2026-11-11
+    language: ja
 media:
   - kind: video
     url: https://www.youtube.com/watch?v=iPnZ6VWrb6Y
     media_url: https://www.youtube.com/watch?v=iPnZ6VWrb6Y
     publisher: Television OSAKA NEWS
     caption: Television Osaka news report on the arrests of Daisuke Yamamoto and Masaru Sakaguchi over an alleged cannabis sale.
+  - kind: video
+    url: https://www.youtube.com/watch?v=agp_6zSV9Mg
+    media_url: https://www.youtube.com/watch?v=agp_6zSV9Mg
+    publisher: MBS NEWS
+    caption: MBS NEWS television report on the arrest of a BreakingDown fighter over an alleged cannabis purchase in Osaka; the page description names the suspects and the seizure of smoking devices.
 open_questions:
     - No weight was published for the cannabis in the December 2025 sale; accounts describe it only as a small amount.
     - No plea or court outcome had been reported when the arrests were announced.
@@ -187,8 +197,8 @@ known occupation from Ikuno Ward in Osaka, and Masaru Sakaguchi, a 60-year-old
 beautician from the same ward, on suspicion of violating the Narcotics Special
 Provisions Law and related offences. [@1,2,3,4,5,7,8,10,11,12,13,14,16,17,20,22,23,26] Yamamoto is from the Katsuyamakita district of Ikuno Ward, and Sakaguchi from Ikuno-nishi in the same ward. [@4] Both men were referred to prosecutors on suspicion of violating the Special Narcotics Law and other charges. [@21] The arrests, over the alleged purchase
 and sale of goods presented as cannabis, were announced by 11 November 2026.
-[@1,2,3,11,12,13] The two men were arrested on 10 November 2026. [@22,23] Police did not disclose whether the two men admitted the allegations. [@5,17,23,24,26] According to the police, Yamamoto had previously competed in BreakingDown,
-a mixed-rules combat sports event popular primarily among young people. [@1,2,3,4,6,11,12,13,15,19,23,24] Yamamoto is known as "Daisuke". [@25]
+[@1,2,3,11,12,13,28] The two men were arrested on 10 November 2026. [@22,23] Police did not disclose whether the two men admitted the allegations. [@5,17,23,24,26] According to the police, Yamamoto had previously competed in BreakingDown,
+a mixed-rules combat sports event popular primarily among young people. [@1,2,3,4,6,11,12,13,15,19,23,24,28] Yamamoto is known as "Daisuke". [@25]
 
 Investigators alleged that in December 2025, Yamamoto received an item as
 cannabis from Sakaguchi for 10,000 yen in the city of Osaka. [@1,2,3,4,5,9,12,13,15,16,17,18,19,20,22,23,24,27] Police said the alleged deal was made through social media. [@26] The alleged handover occurred on 25 December 2025 at just after noon in Ikuno Ward. [@5] The alleged purchase took place near Yamamoto's home. [@24] Sakaguchi is
@@ -200,4 +210,4 @@ routine patrol and discovered plant material inside the car he was occupying.
 [@1,2,3,4,5,9,12,13,15,22,23] The cannabis found in Sakaguchi's car in February weighed a little over 5 grams. [@5,17] Forensic testing later confirmed that the plant fragments were cannabis.
 [@1,2,3,9,11,12,13,18,22] Analysis of Sakaguchi's confiscated smartphone and related records led
 officers to suspect that he had traded cannabis with Yamamoto and several other
-individuals. [@1,2,3,5,11,12,13,15,18,22] Sakaguchi was reported to use code words including “leaf” and “buds” and to have dealt with multiple customers. [@5] Messages from Yamamoto on the phone included requests reading “roll it for me” and “5 sticks.” [@5,11,17,22,24] Police also searched premises linked to Yamamoto and seized smoking implements, glass pipes and syringes. [@3,4,11,16,17,18,20,22,23,24]
+individuals. [@1,2,3,5,11,12,13,15,18,22] Sakaguchi was reported to use code words including “leaf” and “buds” and to have dealt with multiple customers. [@5] Messages from Yamamoto on the phone included requests reading “roll it for me” and “5 sticks.” [@5,11,17,22,24,28] Police also searched premises linked to Yamamoto and seized smoking implements, glass pipes and syringes. [@3,4,11,16,17,18,20,22,23,24]
