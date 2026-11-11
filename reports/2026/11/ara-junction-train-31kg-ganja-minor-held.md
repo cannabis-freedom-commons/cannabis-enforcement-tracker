@@ -43,6 +43,11 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-11-10
     language: hi
+  - title: ट्रेन में 31.15 किलो गांजा मिला:जीआरपी, आरपीएफ और एनसीबी ने मुखबिर की सूचना पर लिया एक्शन, एक नबालिग हिरासत में
+    url: https://www.bhaskar.com/local/bihar/bhojpur/arrah/news/ara-train-ganja-seizure-ncb-grp-rpf-minor-detained-bihar-news-139648226.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-10
+    language: hi
 open_questions:
   - No origin or intended destination of the consignment was reported.
   - No value was placed on the ganja, so none is recorded.
@@ -50,7 +55,7 @@ open_questions:
 ---
 
 A joint team of GRP Ara, RPF Post Ara and NCB Patna searched train number 19484
-at Ara Junction on 10 November 2026 on the basis of secret information. [@1]
+at Ara Junction on 10 November 2026 on the basis of secret information. [@1,2]
 During the search the team detained a child in conflict with law who was
 carrying one trolley bag and one backpack. [@1] On questioning the child said
 both bags contained ganja. [@1] Both bags were then formally searched in the
@@ -58,12 +63,11 @@ presence of a magistrate deputed by the Subdivisional Officer, Ara. [@1]
 
 The search of the trolley bag yielded six packets of ganja and the search of the
 backpack yielded one packet. [@1] Examination of all seven packets found a total
-of 31.15 kilograms of ganja. [@1] The operation was part of a drive against
+of 31.15 kilograms of ganja. [@1,2] The operation was part of a drive against
 narcotics smuggling through the railways, in which GRP Ara, RPF Post Ara and NCB
-Patna took part jointly. [@1]
+Patna took part jointly. [@1,2]
 
 GRP Ara completed the required legal process and sent the child to a remand home
 for production before the competent Juvenile Justice Board. [@1] The GRP, RPF
 and NCB teams said they were maintaining continuous surveillance to stop
 narcotics smuggling via the rail route. [@1]
-
