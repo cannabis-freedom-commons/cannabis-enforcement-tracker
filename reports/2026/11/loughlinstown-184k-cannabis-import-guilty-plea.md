@@ -43,20 +43,22 @@ sources:
     url: https://www.crimeworld.com/courts/man-who-paid-import-duties-on-184k-of-cannabis-refused-to-accept-them-during-gardai-controlled-delivery/a/164412718.html
     publisher: Crime World
     date: 2026-11-11
+  - title: Man used his Revolut account to pay import duties for over €180,000 of cannabis that was delivered by gardaí
+    url: https://www.independent.ie/irish-news/courts/man-used-his-revolut-account-to-pay-import-duties-for-over-180000-of-cannabis-that-was-delivered-by-gardai/a/164417299.html
+    publisher: Irish Independent
+    date: 2026-11-11
 open_questions:
-  - No weight for the cannabis was published; only the values of €184,000 and over €180,000 were given.
-  - 11 November 2026 is the article publication date used as the incident date for the court hearing; the offence itself was dated January 6, 2025.
-  - No arrest details were reported beyond the guilty plea.
-  - No sentence had been imposed in the accessible text, and any later outcome is not reported here.
-  - The type of cannabis product, whether herbal cannabis, resin or another form, was not stated.
-  - Only the accessible portion of a single paywalled source supports this report, as a second outlet on the same hearing could not be opened.
+    - No weight for the cannabis was published; only the values of €184,000 and over €180,000 were given.
+    - 11 November 2026 is the article publication date used as the incident date for the court hearing; the offence itself was dated January 6, 2025.
+    - No arrest details were reported beyond the guilty plea.
+    - No sentence had been imposed in the accessible text, and any later outcome is not reported here.
+    - The type of cannabis product, whether herbal cannabis, resin or another form, was not stated.
 ---
 
 Duane Costello, aged 38, pleaded guilty to the importation of cannabis. [@1] The
 importation offence was dated January 6, 2025 and was located at his address in
 Loughlinstown Wood, Loughlinstown, County Dublin. [@1] Dublin Circuit Criminal
-Court was told of the case. [@1]
+Court was told of the case. [@1,2]
 
-He had paid the import duties on cannabis valued at over €180,000. [@1] He
-refused to accept the drugs when gardai carried out a controlled delivery. [@1]
-
+He had paid the import duties on cannabis valued at over €180,000. [@1,2] He used his Revolut account to pay the import duties. [@2] He
+refused to accept the drugs when gardai carried out a controlled delivery. [@1,2]
