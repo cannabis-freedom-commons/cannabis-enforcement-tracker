@@ -58,26 +58,23 @@ sources:
     publisher: Прокуратура Республики Крым
     date: 2026-11-10
     language: ru
-open_questions:
-  - The exact date of the verdict was not published; 10 November 2026 is the date of the prosecutor's and the outlet's accounts and stands in for it.
-  - The accounts do not say whether the verdict had entered into force or whether an appeal was filed.
-  - The number of cannabis bushes the man planted was not reported, and only the weight of the picked leaves and flower heads is given.
-  - The accounts call the stored plant material parts of a narcotic-containing plant and do not say expressly whether it was dried cannabis flower, so the 312 grams is recorded as a single cannabis weight.
-  - No street value, no measure of restraint and no detail on where the outbuilding was searched were published.
-  - The village of Rechnoye is named without a street or house, so the coordinates are for the Bakhchisaray district centre.
+  - title: Житель Бахчисарайского района получил условный срок за 312 граммов конопли
+    url: https://ncrim.ru/obsestvo/view/zitel-bahcisarajskogo-rajona-polucil-uslovnyj-srok-za-312-grammov-konopli
+    publisher: Наша Газета Крым
+    date: 2026-11-11
+    language: ru
 ---
 
 The Bakhchisaray district court in Crimea convicted a resident of the village of
-Rechnoye of unlawfully storing narcotic substances. [@1] Prosecutors said the
+Rechnoye of unlawfully storing narcotic substances. [@1,3] Prosecutors said the
 Bakhchisaray district prosecutor's office supported the state prosecution in the
 case, and the man was convicted under part 2 of article 228 of the Russian
-Criminal Code. [@2]
+Criminal Code. [@2,3]
 
 The court found that in July 2026, at his home, he picked the leaves and flower
 heads from cannabis bushes he had planted there earlier and kept them in an
-outbuilding for his own use. [@2] An expert examination put the total weight of
+outbuilding for his own use. [@2,3] An expert examination put the total weight of
 the parts of the narcotic-containing plant at 312 grams. [@1]
 
 The court sentenced him to three years of imprisonment, suspended, with a
-probation period of the same length. [@1]
-
+probation period of the same length. [@1,3]
