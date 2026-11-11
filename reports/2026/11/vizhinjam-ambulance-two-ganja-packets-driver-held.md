@@ -55,6 +55,11 @@ sources:
     publisher: Asianet News Malayalam
     date: 2026-11-10
     language: ml
+  - title: ആംബുലൻസ് സർവീസിന്‍റെ മറവിൽ കഞ്ചാവ് വിൽപ്പന; തിരുവനന്തപുരത്ത് 23കാരൻ പിടിയിൽ
+    url: https://www.metrovaartha.com/news/crime/cannabis-sold-under-the-guise-of-ambulance-services-23-year-old-caught-in-thiruvananthapuram
+    publisher: Metro Vaartha
+    date: 2026-11-11
+    language: ml
 open_questions:
     - No weight for the two ganja packets was published, only their Rs 500 estimated value.
     - No separate date for the search or the arrest was given, so the 10 November 2026 publication date stands in for the incident.
@@ -72,8 +77,8 @@ being sold from an ambulance based in Vizhinjam. [@1,3]
 They recovered two small packets of ganja, which police valued at Rs 500, hidden
 under the ambulance's seat. [@1] A second outlet confirms that the two small
 packets found under the seat were worth Rs 500. [@2] Police say Abhilash
-repacked ganja into small packets and sold them inside the ambulance. [@1,3]
+repacked ganja into small packets and sold them inside the ambulance. [@1,3,4]
 
 He did so after bringing patients to the hospital, according to the police
 account. [@2] Police took both Abhilash and the ambulance into custody when the
-vehicle was drawn up in front of the hospital. [@2,3] A squad led by Fort Assistant Commissioner Pradeep monitored him from the morning and detained him in the evening before handing him over to Vizhinjam police. [@3]
+vehicle was drawn up in front of the hospital. [@2,3,4] A squad led by Fort Assistant Commissioner Pradeep monitored him from the morning and detained him in the evening before handing him over to Vizhinjam police. [@3,4]
