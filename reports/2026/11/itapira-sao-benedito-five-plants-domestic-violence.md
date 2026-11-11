@@ -51,30 +51,44 @@ sources:
     publisher: Itapira News
     date: 2026-11-09
     language: pt
+  - title: 'Vasos de maconha e agressões: homem espanca companheira e filha'
+    url: https://www.gazetaitapirense.com.br/vasos-de-maconha-e-agressoes-homem-espanca-companheira-e-filha/
+    publisher: Gazeta Itapirense
+    date: 2026-11-09
+    language: pt
+  - title: Briga de marido e mulher termina com pés de maconha apreendidos
+    url: https://sampi.net.br/campinas/noticias/3017528/campinas/2026/11/briga-de-marido-e-mulher-termina-com-pes-de-maconha-apreendidos
+    publisher: Sampi Campinas
+    date: 2026-11-10
+    language: pt
+  - title: Homem agride companheira e adolescente após levar pés de maconha para casa, em Itapira
+    url: https://oimpactomogi.com.br/homem-agride-companheira-e-adolescente-apos-levar-pes-de-maconha-para-casa-em-itapira/
+    publisher: O Impacto
+    date: 2026-11-09
+    language: pt
 open_questions:
-  - The plants are called 'pés de maconha' by the police record; no forensic confirmation, weight or size was published, so only the count of five plants is recorded.
-  - 'No one was arrested for the cannabis: the resident gave the plants up voluntarily, and the suspect, sought for the violence, threats and bodily harm, had not been found when the article was published.'
-  - How many people lived in the house or whether anyone was investigated over cultivation was not reported, and no charge or court outcome was published.
-  - The article says the material went to the Mogi Guaçu CPJ but does not say whether the five plants were destroyed or kept as evidence.
-  - Only one accessible outlet account could be opened; a second local report found in search results could not be retrieved (the site refused the request), so it is not cited.
-  - The bairro-level location is given only as the 'região do bairro São Benedito' and the coordinates are Itapira town centre.
-  - The article does not say who owned the plants or where they had been kept before the man brought the pots to the house, so no growing environment is recorded.
+    - Authorities and local accounts describe the five plants as marijuana or Cannabis sativa, but no forensic confirmation, weight or size was published, so only the count of five plants is recorded.
+    - 'No one was arrested for the cannabis: the resident gave the plants up voluntarily, and the suspect, sought for threats and bodily harm, had not been found in the published accounts.'
+    - How many people lived in the house or whether anyone was investigated over cultivation was not reported, and no formal charge or court outcome was published.
+    - The five plants were seized at the Mogi Guaçu Central de Polícia Judiciária, but whether they were destroyed or kept as evidence was not reported.
+    - The exact street number on Rua Santos Dumont in the São Benedito neighbourhood was not published, and the coordinates are for Itapira town centre.
+    - Who owned the plants or where they had been kept before the man brought the pots to the house was not reported, so no growing environment is recorded.
+    - Accounts differ on whether the suspect was the woman's husband or her partner.
 ---
 
 Military police seized five cannabis plants at a house in the São Benedito
 neighbourhood of Itapira, São Paulo state, on the night of Sunday 8 November
 2026. [@1] Officers were called at about 22:20 that night after a dispute
-between a woman and her partner. [@1] According to the police record, the man
-had brought pots holding the plants into the house. [@1] The woman told police
-she asked him to take the plants away and was then threatened and attacked. [@1]
+between a woman and her partner. [@1] Officers responded to the call on Rua Santos Dumont after a dispatch from COPOM, the police emergency operations centre. [@2] According to the police record, the man
+had brought pots holding the plants into the house. [@1,2,3,4] The woman told police
+she asked him to take the plants away and was then threatened and attacked. [@1,3] He threatened to assault her if she touched the plants and, when she said she would call police, punched and kicked her and struck her on the head with a laptop, damaging the device. [@3]
 The man is also accused of attacking the woman's 16-year-old daughter when she
-tried to intervene. [@1]
+tried to intervene. [@1,2,3,4]
 
 The resident handed the plants over voluntarily while police dealt with the
 domestic-violence call, and the plants were taken to the Central de Polícia
 Judiciária in Mogi Guaçu. [@1] The suspect left the scene on a motorcycle and
-was not found by officers. [@1] The two victims were taken to the emergency
-department of the municipal hospital for medical treatment. [@1] The incident
+was not found by officers. [@1,2] The two victims were taken to the emergency
+department of the municipal hospital for medical treatment. [@1] After receiving medical care, the mother and daughter were released. [@3] The incident
 was also recorded as threats and bodily harm, and the case was to be
 investigated. [@1]
-
