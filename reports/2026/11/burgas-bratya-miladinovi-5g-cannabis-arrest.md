@@ -41,25 +41,39 @@ sources:
     publisher: BurgasMedia
     date: 2026-11-10
     language: bg
+  - title: У Бургасі затримали 42-річного чоловіка з приблизно 5 грамами канабісу в «Брати Міладінови»
+    url: https://burgasmedia.com/amp/news/zadarzhaha-42-godishen-mazh-s-okolo-5-grama-kanabis-v-bratya-miladinovi?lang=ua
+    publisher: BurgasMedia
+    date: 2026-11-10
+    language: uk
+  - title: Информационен бюлетин 10.11.2026 г.
+    url: https://www.mvr.bg/burgas/%D0%BF%D1%80%D0%B5%D1%81%D1%86%D0%B5%D0%BD%D1%82%D1%8A%D1%80/%D0%BF%D1%80%D0%B5%D1%81%D1%86%D0%B5%D0%BD%D1%82%D1%8A%D1%80/%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B5%D0%BD-%D0%B1%D1%8E%D0%BB%D0%B5%D1%82%D0%B8%D0%BD/144950
+    publisher: Областна дирекция на МВР - Бургас
+    date: 2026-11-10
+    language: bg
+  - title: Спипаха криминално проявен с канабис в ж.к. „Братя Миладинови“
+    url: https://www.flagman.bg/article/393862
+    publisher: Флагман.бг
+    date: 2026-11-10
+    language: bg
 open_questions:
-  - The whole account rests on a single BurgasMedia report of a Burgas police statement, with no second source found.
-  - The article's wording on the length of the police detention is garbled, so no detention period is recorded.
-  - No outcome of the fast-track proceedings was reported.
-  - Police did not say whether the cannabis was intended for personal use or distribution.
+    - No outcome of the fast-track proceedings was reported.
+    - Police did not say whether the cannabis was intended for personal use or distribution.
+    - No details of the man's previous offences or criminal record were released.
+    - The seized cannabis was weighed at about 5 grams rather than an exact figure, and no street value was published.
 ---
 
 Police detained a 42-year-old man from Burgas during an evening check in the
-Bratya Miladinovi housing complex on 9 November. [@1] Officers of the Second
+Bratya Miladinovi housing complex on 9 November. [@1,2] Officers of the Second
 District administration stopped him at about 21:20 near Block 59 in the
-neighbourhood. [@1] The man is described as having a criminal record and already
-known to police for previous offences. [@1] Fast-track proceedings were opened
-against him. [@1]
+neighbourhood. [@1,2,3] The man is described as having a criminal record and already
+known to police for previous offences. [@1,2,3,4] Fast-track proceedings were opened
+against him. [@1,2,3,4] He was detained under a police order for up to 24 hours. [@2,3,4]
 
 During the check officers found a green-brown dry herbal mass on him, which was
-later confirmed to be cannabis. [@1] The amount was reported as about 5 grams of
-cannabis. [@1] Officers seized the cannabis. [@1]
+later confirmed to be cannabis. [@1,2,3,4] The amount was reported as about 5 grams of
+cannabis. [@1,2,3,4] Officers seized the cannabis. [@1,2,3,4]
 
 The account attributes the information to the Burgas regional directorate of the
-Interior Ministry. [@1] Police did not say whether the cannabis was for personal
-use or distribution, and the investigation continues. [@1]
-
+Interior Ministry. [@1,2,4] Police did not say whether the cannabis was for personal
+use or distribution, and the investigation continues. [@1,2]
