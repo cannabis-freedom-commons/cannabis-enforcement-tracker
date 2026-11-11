@@ -139,6 +139,11 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-11-11
     language: hi
+  - title: Uttar Pradesh | டெலிகிராம் ஆர்டர்.. வீட்டுக்கே டெலிவரி.. ரூ.55 லட்சம் கஞ்சா பறிமுதல்
+    url: https://www.thanthitv.com/%E0%AE%9A%E0%AE%AE%E0%AF%80%E0%AE%AA%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF-%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%8D/uttar-pradesh-ordered-via-telegram-delivered-to-the-doorstep-ganja-worth-rs-55-lakh-seized
+    publisher: Thanthi TV
+    date: 2026-11-11
+    language: ta
 media:
   - kind: photo
     url: https://x.com/noidapolice/status/2119739392000733573
@@ -158,13 +163,13 @@ carried out on input from local intelligence and beat policing, the police
 account said. [@2,6,7]
 
 Police seized 55 kg 124 g of ganja from them, which they estimated to be worth
-about ₹55 lakh. [@2,3,4,5,6,7,8,9,11,12,13,15,16,17,18,19] Officers also recovered a Hyundai Aura car used to supply
+about ₹55 lakh. [@2,3,4,5,6,7,8,9,11,12,13,15,16,17,18,19,20] Officers also recovered a Hyundai Aura car used to supply
 the drug and three mobile phones. [@1,5,7,12]
 
 According to the police account, the men bought ganja cheaply in Odisha and
-other areas and packed it in e-commerce parcels to conceal it. [@2,4,6,7,9,11,12,14,16,17] According to the police account, the men brought ganja cheaply from Odisha and other areas together with one other accomplice. [@3,17] Police said
+other areas and packed it in e-commerce parcels to conceal it. [@2,4,6,7,9,11,12,14,16,17,20] According to the police account, the men brought ganja cheaply from Odisha and other areas together with one other accomplice. [@3,17] Police said
 they delivered ganja door to door on demand through the Telegram messaging app
-and online parcel services, as well as by car. [@2,3,4,6,7,9,13,14,15,16,17]
+and online parcel services, as well as by car. [@2,3,4,6,7,9,13,14,15,16,17,20]
 
 Bisrakh police station registered a case under the Narcotic Drugs and
 Psychotropic Substances (NDPS) Act, India's main anti-drug law. [@2,4,5,6,7,11] Police said
@@ -179,6 +184,6 @@ Bisrakh police station registered the case, numbered 846/2026, under sections 8 
 
 The seized car is a Hyundai Accent. [@8,11,17,19]
 
-Police identified the three arrested men as Alam Khan, 30, of Ghaziabad; Wasim, 26, of Baghpat; and Lakshya Rathore, 19, of Chotpur Colony under Sector-63 police station in Noida. [@9,11,14,16,17,19] DCP Central Noida Praveen Ranjan Singh said the three were caught with the ganja consignment at the under-construction building on Golden Grand Road. [@3,9,17] According to the police account, the men supplied ganja to students at schools, colleges and universities. [@9] Police said the men booked orders through Telegram and then sent ganja by parcel through e-commerce sites such as Amazon shipping. [@9] The men set the price of a kilogram of ganja at more than about ₹1 lakh, police said. [@9] Police said they were searching for other people in the gang and expected to arrest them soon. [@9] The Bisrakh arrests were made during a special drive against illegal drug trafficking, Amar Ujala reports. [@3,9]
+Police identified the three arrested men as Alam Khan, 30, of Ghaziabad; Wasim, 26, of Baghpat; and Lakshya Rathore, 19, of Chotpur Colony under Sector-63 police station in Noida. [@9,11,14,16,17,19] DCP Central Noida Praveen Ranjan Singh said the three were caught with the ganja consignment at the under-construction building on Golden Grand Road. [@3,9,17] According to the police account, the men supplied ganja to students at schools, colleges and universities. [@9,20] Police said the men booked orders through Telegram and then sent ganja by parcel through e-commerce sites such as Amazon shipping. [@9] The men set the price of a kilogram of ganja at more than about ₹1 lakh, police said. [@9] Police said they were searching for other people in the gang and expected to arrest them soon. [@9] The Bisrakh arrests were made during a special drive against illegal drug trafficking, Amar Ujala reports. [@3,9]
 
 The three were arrested after a police team laid a trap with the informer near the under-construction Golden Grand building, with the ganja consignment on them. [@10] Police said the seized ganja was of premium quality in high demand among young people and was delivered by taxi where orders came in. [@10]
