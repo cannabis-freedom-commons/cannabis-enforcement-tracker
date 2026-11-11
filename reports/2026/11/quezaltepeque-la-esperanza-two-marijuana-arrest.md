@@ -85,19 +85,18 @@ sources:
     publisher: El Blog
     date: 2026-11-09
     language: es
+  - title: Diez años de prisión para un hombre por portar cinco porciones de marihuana
+    url: https://diario.elmundo.sv/nacionales/diez-anos-de-prision-para-un-hombre-por-portar-cinco-porciones-de-marihuana
+    publisher: Diario El Mundo
+    date: 2026-11-10
+    language: es
 open_questions:
-  - No weight or value was published for the marijuana portions, so only the two arrests are recorded as a figure.
-  - The incident date of 9 February 2026 comes from the night of Monday described by Radio YSKL and Infobae's explicit date; the police announcement was published on 10 February.
-  - Infobae names only "Guillermo Aldair Meléndez"; Radio YSKL and Diario1 give the full name Guillermo Aldair Laureano Meléndez.
-  - No charge filing, custody ruling or court outcome has been reported.
-  - Coordinates are for the centre of Quezaltepeque district, not a mapped point inside the colonia La Esperanza.
-  - The same roundup reports a separate Ilopango arrest of Alejandro Javier Durón Ramos with ten jars of marijuana and other drugs, and a separate Sonsonate arrest; both are different events left out of this report.
-  - The roundup's general account of drug penalties does not establish the sentence in this case.
-  - 'Left out, as its quotation was not found in Infobae: Under El Salvador''s Law Regulating Drug Activities, holding drugs in order to carry out trafficking activity carries six to ten years in prison and a fine of ten to two thousand urban minimum wages.'
-  - La Página calls the co-defendant Héctor J. E.; the earlier arrest reports named him Héctor Wilfredo Jovel, which the court account abbreviates.
-  - The two sources do not say whether the ten-year term carries a fine or whether either sentence can be appealed.
-  - The court's own notice (Centros Judiciales El Salvador) was seen only as a search result and was not opened.
-  - The La Página article is illustrated with a police arrest photograph whose caption only repeats the headline; it is not established to show the arrest or the sentence.
+    - The incident date of 9 February 2026 comes from the night of Monday described by Radio YSKL and Infobae's explicit date; the police announcement was published on 10 February.
+    - Infobae names only Guillermo Aldair Meléndez, while other outlets provide the full name Guillermo Aldair Laureano Meléndez.
+    - Coordinates are for the centre of Quezaltepeque district, not a mapped point inside the colonia La Esperanza.
+    - The same roundup reports a separate Ilopango arrest of Alejandro Javier Durón Ramos with ten jars of marijuana and other drugs, and a separate Sonsonate arrest; both are different events left out of this report.
+    - Reporting does not state whether a monetary value was officially assigned to the seized marijuana.
+    - The reports do not state whether the ten-year prison term carries a fine or whether either sentence has been appealed.
 ---
 
 El Salvador's National Civil Police arrested Guillermo Aldair Laureano Meléndez
@@ -114,4 +113,4 @@ the scales were suspected of being used to sell the drug. [@3]
 Police said both men would be referred to court on a charge of illicit drug
 trafficking. [@2]
 
-The Second Sentencing Court of Santa Tecla sentenced Guillermo Aldair Laureano Meléndez to ten years in prison for illicit drug trafficking after evaluating the evidence presented at the public hearing. [@4] In the same case the court sentenced Héctor J. E. to three years in prison for possession and holding of drugs. [@4] His term was replaced by work of public utility, so he will not serve it in a prison but through activities set by the corresponding authorities. [@4] Laboratory analysis confirmed that the marijuana seized from Laureano Meléndez weighed 386.2 grams in total, and police also took a mobile phone, a vehicle and two digital scales from him. [@4] The arrest was made during a preventive police patrol in the colonia La Esperanza, Quezaltepeque, La Libertad Norte, on 9 February 2026. [@4] El Blog reported the same ten-year sentence from the Santa Tecla court, and that the co-defendant had 34.8 grams of marijuana in his possession. [@5]
+The Second Sentencing Court of Santa Tecla sentenced Guillermo Aldair Laureano Meléndez to ten years in prison for illicit drug trafficking after evaluating the evidence presented at the public hearing. [@4,6] In the same case the court sentenced Héctor J. E. to three years in prison for possession and holding of drugs. [@4,6] His term was replaced by work of public utility, so he will not serve it in a prison but through activities set by the corresponding authorities. [@4,6] Laboratory analysis confirmed that the marijuana seized from Laureano Meléndez weighed 386.2 grams in total, and police also took a mobile phone, a vehicle and two digital scales from him. [@4,6] The arrest was made during a preventive police patrol in the colonia La Esperanza, Quezaltepeque, La Libertad Norte, on 9 February 2026. [@4,6] El Blog reported the same ten-year sentence from the Santa Tecla court, and that the co-defendant had 34.8 grams of marijuana in his possession. [@5,6]
