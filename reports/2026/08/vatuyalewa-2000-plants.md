@@ -32,6 +32,10 @@ sources:
     url: https://www.fijitimes.com.fj/police-uproot-more-than-2000-marijuana-plants-in-north/
     publisher: The Fiji Times
     date: 2026-08-09
+  - title: Over 2,000 marijuana plants seized in North
+    url: https://www.fbcnews.com.fj/news/over-2000-marijuana-plants-seized-in-north/
+    publisher: FBC News
+    date: 2026-08-09
 media:
   - kind: photo
     url: https://www.fijitimes.com.fj/police-uproot-more-than-2000-marijuana-plants-in-north/
@@ -45,6 +49,6 @@ open_questions:
   - The map point marks the Northern Division rather than the mountain range's exact location.
 ---
 
-Fiji Police said officers from the Northern Division Operations team discovered and uprooted more than 2,000 plants believed to be marijuana in the rugged Vatuyalewa mountain range. [@1]
+Fiji Police said officers from the Northern Division Operations team discovered and uprooted more than 2,000 plants believed to be marijuana in the rugged Vatuyalewa mountain range. [@1,2]
 
-Assistant Commissioner of Police Operations Kasiano Vusonilawe said information sharing and drones had helped officers locate farms in difficult terrain. [@1]
+Assistant Commissioner of Police Operations Kasiano Vusonilawe said information sharing and drones had helped officers locate farms in difficult terrain. [@1,2]
