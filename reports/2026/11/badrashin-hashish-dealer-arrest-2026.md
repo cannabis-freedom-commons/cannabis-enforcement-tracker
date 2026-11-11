@@ -94,16 +94,21 @@ sources:
     publisher: اليوم السابع
     date: 2026-11-10
     language: ar
+  - title: النيابة تحقق مع تاجر مخدرات ضُبط بحوزته حشيش بالبدرشين
+    url: https://mwlana.com/details/258154/
+    publisher: بوابة مولانا
+    date: 2026-11-10
+    language: ar
 ---
 
 Detectives of the Giza Security Directorate arrested a suspected hashish dealer
 in Badrashin, south of Giza, before he could distribute the drug to his
-customers. [@1,2,3,4,6,7,8,9,11] Police at Badrashin police station received information that an
-unemployed man was trafficking narcotics in the station's area. [@1,3,4,6,8] After
+customers. [@1,2,3,4,6,7,8,9,11,13] Police at Badrashin police station received information that an
+unemployed man was trafficking narcotics in the station's area. [@1,3,4,6,8,13] After
 verifying the information and locating him, officers detained the suspect under
 legal procedures. [@1,4,5,8]
 
 He was found with a large quantity of hashish prepared for sale, cash described
-as proceeds of sale, and a mobile phone used to contact customers. [@1,2,3,4,5,7,8,9,11,12] The operation seized 59 pieces (farsh) of hashish, which became exhibits at the disposal of the investigation authorities. [@6] During questioning by detectives, the suspect confessed that he purchased bulk quantities of hashish from a supplier, cut them into small pieces and prepared them for distribution in Badrashin and surrounding areas. [@10] Police
+as proceeds of sale, and a mobile phone used to contact customers. [@1,2,3,4,5,7,8,9,11,12,13] The operation seized 59 pieces (farsh) of hashish, which became exhibits at the disposal of the investigation authorities. [@6] During questioning by detectives, the suspect confessed that he purchased bulk quantities of hashish from a supplier, cut them into small pieces and prepared them for distribution in Badrashin and surrounding areas. [@10] Police
 filed a report on the arrest and referred the case to the competent prosecution,
-which began its investigation. [@1,2,4,6,8,11] The prosecution ordered the seized items to be examined to determine their nature, kept the hashish, cash and phone in custody, and is continuing investigations to establish the circumstances and the source of the drugs. [@3,4,7,8,9,11,12] The Giza Public Prosecution ordered the suspect detained for four days pending investigation and requested a technical report to determine the nature and weight of the seized hashish. [@8,9]
+which began its investigation. [@1,2,4,6,8,11] The prosecution ordered the seized items to be examined to determine their nature, kept the hashish, cash and phone in custody, and is continuing investigations to establish the circumstances and the source of the drugs. [@3,4,7,8,9,11,12,13] The Giza Public Prosecution ordered the suspect detained for four days pending investigation and requested a technical report to determine the nature and weight of the seized hashish. [@8,9]
