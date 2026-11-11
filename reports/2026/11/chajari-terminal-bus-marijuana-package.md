@@ -36,28 +36,45 @@ sources:
     publisher: Diario Río Uruguay
     date: 2026-11-10
     language: es
+  - title: Secuestraron un paquete con presunta marihuana en un colectivo de larga distancia
+    url: https://www.mercurionoticias.com.ar/noticias/62360_secuestraron-un-paquete-con-presunta-marihuana-en-un-colectivo-de-larga-distancia.html
+    publisher: Mercurio Noticias
+    date: 2026-11-10
+    language: es
+  - title: 'Chajarí: secuestran casi 700 gramos de marihuana abandonados en un colectivo de larga distancia'
+    url: https://noticiaschajari.ar/chajari-secuestran-casi-700-gramos-de-marihuana-abandonados-en-un-colectivo-de-larga-distancia/
+    publisher: Noticias Chajarí
+    date: 2026-11-10
+    language: es
+  - title: Limpiaban un colectivo y encontraron un “ladrillo” de marihuana
+    url: http://www.talcualchajari.com.ar/227146/limpiaban-un-colectivo-y-se-encontraron-con-un-ladrillo-de-marihuana/
+    publisher: Tal Cual Chajarí
+    date: 2026-11-09
+    language: es
 open_questions:
-  - No weight, value or dosage count was published for the seized marijuana package.
-  - No one was reported arrested, detained or charged over the package.
-  - The prosecutor's office had not established who left the package on the bus or whether it belonged to a passenger.
+    - No street value or dosage count was published for the 696 grams of seized marijuana.
+    - No one was reported arrested, detained or charged over the package.
+    - The prosecutor's office had not established who left the package on the bus, on which stretch of the route, or whether it belonged to a passenger.
+    - Elonce, Mercurio Noticias and Noticias Chajarí say the package was found on one of the front seats of the upper deck, whereas Tal Cual Chajarí says it was under seats 1 and 2.
+    - No laboratory confirmation was reported beyond the field test.
 ---
 
 A package containing marijuana was found on the morning of Monday 9 November
 2026 on a long-distance bus that had left Paraná and arrived at the Chajarí bus
 terminal, in the Federación department of Entre Ríos. [@1] Workers cleaning the
-bus found the package on one of the front seats of the upper deck. [@1,2]
+bus found the package on one of the front seats of the upper deck. [@1,2,3,4] The rectangular package was wrapped in blue tape. [@5]
 
 Around 9:30 that Monday the bus drivers telephoned the Chajarí police station to
-report a package containing a suspicious substance. [@1] Officers from the
+report a package containing a suspicious substance. [@1] The two drivers, aged 45 and 50, operated unit 4966 of Rápido Tata, a Scania coach. [@5] Officers from the
 División Drogas Peligrosas of the Jefatura Departamental Federación went to the
 terminal with a trained drug-detection dog, and a field test of the contents was
-compatible with cannabis sativa, commonly known as marijuana. [@1,2] The substance
+compatible with cannabis sativa, commonly known as marijuana. [@1,2,3] The seized cannabis weighed 696 grams. [@4] The substance
 was formally seized on the order of the judicial authority handling the case,
-and no arrest was reported. [@1,2]
+and no arrest was reported. [@1,2,3]
 
 According to the drivers, the bus had begun its last trip in Paraná on the
 afternoon of Sunday 8 November 2026, passed through several Entre Ríos towns and
-reached Chajarí in the early hours of Monday. [@1] The prosecutor's office must
+reached Chajarí in the early hours of Monday. [@1,3] Service records showed the coach departed Paraná at 18:45 on Sunday and arrived in Chajarí at 01:20 after stops in Villaguay, Villa Clara, Jubileo, San Salvador, General Campos, Concordia and Federación. [@4] The prosecutor's office must
 establish where the substance came from and the conditions in which it was
 abandoned on the bus, including whether the package had belonged to a passenger.
 [@1]
