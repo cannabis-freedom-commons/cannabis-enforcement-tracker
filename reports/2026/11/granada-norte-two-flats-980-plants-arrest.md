@@ -70,23 +70,28 @@ sources:
     publisher: Ideal
     date: 2026-11-11
     language: es
+  - title: La policía desmantela en Granada dos pisos con cerca de 1.000 plantas de marihuana en plantaciones de interior
+    url: https://www.elfaromotril.es/la-policia-desmantela-en-granada-dos-pisos-con-cerca-de-1-000-plantas-de-marihuana-en-plantaciones-de-interior
+    publisher: El Faro Motril
+    date: 2026-11-11
+    language: es
 ---
 
 National Police in Granada detained a 35-year-old man as the alleged perpetrator
 of a public-health offence and electricity fraud linked to an indoor grow with
-nearly 600 plants in the Norte district. [@2,3] The man had police antecedents and
+nearly 600 plants in the Norte district. [@2,3,5] The man had police antecedents and
 was placed at the disposal of the judicial authority in connection with the
-second plantation. [@1]
+second plantation. [@1,5]
 
 Officers searched two flats in the same district, finding three grow rooms in
 one flat and four equipped rooms in the other. [@1] In the first flat, three
 rooms were fitted with lighting, filtration and air conditioning plus
 phytosanitary products, holding 164, 140 and 76 cannabis sativa plants
-respectively, all advanced in growth and over one metre tall. [@1] Endesa staff
+respectively, all advanced in growth and over one metre tall. [@1,5] Endesa staff
 found an illegal electricity connection feeding the systems in those rooms. [@1]
 In the second flat, four rooms were fully equipped to promote vegetative growth
 of marijuana plants, all fed by an illegal connection to the power grid, and
-officers seized nearly 600 plants about one metre tall there. [@1]
+officers seized nearly 600 plants about one metre tall there. [@1,5]
 
 Together, the two searches yielded nearly 1,000 marijuana plants, comprising the
 380 plants in one dwelling and nearly 600 in the other. [@2,4]
