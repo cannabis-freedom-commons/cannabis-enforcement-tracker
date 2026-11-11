@@ -44,19 +44,23 @@ sources:
     publisher: BNews Alagoas
     date: 2026-11-10
     language: pt
+  - title: Polícia encontra mais de 4,5 kg de maconha escondidos em área de mata
+    url: https://www.alagoas24horas.com.br/1773670/policia-encontra-mais-de-45-kg-de-maconha-escondidos-em-area-de-mata/
+    publisher: Alagoas 24 Horas
+    date: 2026-11-10
+    language: pt
 open_questions:
-  - The article gives no separate date for the patrol, so 10 November 2026 is used as the incident date.
-  - No court outcome beyond referral to the Central de Flagrantes was reported.
-  - The account rests on a single outlet report.
+    - 'Outlets report conflicting quantities for the seizure: BNews Alagoas reported approximately 10 kg, while Alagoas 24 Horas reported approximately 4.55 kg.'
+    - Alagoas 24 Horas reported that the drugs were located on Monday night, 9 November 2026, while the initial report used the 10 November publication date.
+    - No suspects have been identified or arrested, and no court outcome beyond referral to the Central de Flagrantes was reported.
 ---
 
 Military officers from the Shock Company seized approximately 10 kg of marijuana
 in the Pescaria neighbourhood on the northern coast of Maceio. [@1] The officers
 were on ostensive patrol when they received an anonymous tip saying drugs were
-hidden in a wooded area. [@1]
+hidden in a wooded area. [@1,2]
 
 Teams went to the indicated location and searched the scrubland, where they
 found approximately 10 kg of marijuana. [@1] The seized drugs were collected and
-taken to the Central de Flagrantes for the applicable legal procedures. [@1] No
-suspects were reported arrested during the operation. [@1]
-
+taken to the Central de Flagrantes for the applicable legal procedures. [@1,2] No
+suspects were reported arrested during the operation. [@1,2] The Civil Police was tasked with investigating the origin of the drugs and identifying who hid them in the scrubland. [@2]
