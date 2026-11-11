@@ -67,37 +67,26 @@ sources:
     publisher: TTT News
     date: 2025-09-12
     language: en
-open_questions:
-  - The article gives no date of its own for the seizure beyond "el jueves" (Thursday); 11 September 2025 is inferred from the 13 September 2025 publication date.
-  - The weight is "estimada" (estimated) at 268 kilograms, and the same figure as the number of packages, which may be a reporting simplification.
-  - The valuation is a street value; three different forms appear in the text (29 million dollars, 29,412,196 dollars) and no currency code is given, so it is recorded as US dollars (USD).
-  - No location is given for the boat beyond "in the sea near the boat" and the sea off Trinidad; the map point is Staubles Bay, Chaguaramas, where the two detainees were taken.
-  - The article does not say what happened to the three people who jumped into the sea, whether they were rescued or detained, or what charges any of those held face.
-  - Only one account of the event could be opened; no TTPS statement or independent Trinidadian outlet report was found.
-  - The article also reports unrelated news about US military deployment, Venezuela, Guyana and Delcy Rodriguez, which is left out of the report.
-  - NTN24 reports the interception as happening on "el pasado sábado" (last Saturday), 13 September 2025, two days before its publication, while the police statement, TTT News and El Diario place it at about 3 a.m. on Friday 12 September 2025; the report uses 12 September.
-  - NTN24 gives the value as "al menos 29 millones de dólares" without a currency code, while the police statement gives 29,412,196 and the Trinidad Guardian describes it elsewhere in TT dollars; the report keeps TT$29,412,196 pending a confirmed currency.
-  - The Colombian origin and "Creepy" variety of the marijuana are the police service's description, repeated by TTT News; NTN24 only says the boat was believed to come from Venezuela.
-  - 'Left out, as its quotation was not found in El Diario: Trinidad and Tobago authorities said on Saturday 13 September 2025 that they had seized 268 kilos of marijuana, valued at 29 million dollars, two days earlier.'
-  - 'Left out, as its quotation was not found in El Diario: Commissioner of Police Allister Guevarro said the operation showed the strength of the Trinidad and Tobago Police Service''s intelligence apparatus and of precision policing backed by regional and international partners.'
-  - 'Left out, as its quotation was not found in TTT News: Mitra Balchan, 42, of La Brea and Caesar Geraldo Rodriguez Calzadilla, 33, of San Juan, were charged when they appeared before Master Ambrose Persadsingh in the South Criminal Court on 6 October 2025.'
-  - 'Left out, as its quotation was not found in TTT News: The court account said 268 packages holding cannabis with a total weight of 292.68 kilogrammes were found on the boat, against the 268 kilogrammes announced after the interception.'
-  - 'Left out, as its quotation was not found in Trinidad Guardian: The Trinidad Guardian independently reported the two men''s names, ages, addresses, the charge and their appearance before Master Ambrose Persadsingh.'
+  - title: Trinidad y Tobago incautó 268 kilos de marihuana de una presunta embarcación de Venezuela - EL NACIONAL
+    url: https://www.elnacional.com/2025/09/trinidad-y-tobago-incauto-268-kilos-de-marihuana-de-una-presunta-embarcacion-de-venezuela/
+    publisher: EL NACIONAL
+    date: 2025-09-13
+    language: es
 ---
 
 Trinidad and Tobago authorities said on Saturday 13 September 2025 that they had
 seized 268 kilos of marijuana, valued at 29 million dollars, two days earlier.
-[@1] Police found the drug in a fishing boat from Venezuela. [@1] Commissioner
+[@1,4] Police found the drug in a fishing boat from Venezuela. [@1,4] Commissioner
 of Police Allister Guevarro said the operation showed the strength of the
 Trinidad and Tobago Police Service intelligence apparatus and of precision
 policing backed by regional and international partners. [@1] US authorities said
-the boat was being used to carry illegal drugs to the United States. [@1]
+the boat was being used to carry illegal drugs to the United States. [@1,4]
 
 Officers confiscated nine bags holding 268 packages of cannabis wrapped in brown
 paper, found in the sea near the boat, with an estimated weight of 268 kilograms
-and a street value of 29,412,196 dollars. [@1] Three people on the boat jumped
+and a street value of 29,412,196 dollars. [@1,4] Three people on the boat jumped
 into the sea, while two others, a Trinidadian and a Latin American, stayed
-aboard and were detained and taken to Staubles Bay in Chaguaramas. [@1]
+aboard and were detained and taken to Staubles Bay in Chaguaramas. [@1,4]
 
 Guevarro said illegal drug trafficking is a transnational threat that undermines
 security across the Caribbean and that no single man or island can fight it
