@@ -98,17 +98,22 @@ sources:
     publisher: Al Kalima Online
     date: 2026-11-11
     language: ar
+  - title: '"200 ألف حبة مخدّرة"... دمشق تكشف شبكة تهريب قادمة من لبنان!'
+    url: https://www.lebanondebate.com/article/898871-200-%D8%A3%D9%84%D9%81-%D8%AD%D8%A8%D8%A9-%D9%85%D8%AE%D8%AF%D8%B1%D8%A9-%D8%AF%D9%85%D8%B4%D9%82-%D8%AA%D9%83%D8%B4%D9%81-%D8%B4%D8%A8%D9%83%D8%A9-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D9%82%D8%A7%D8%AF%D9%85%D8%A9-%D9%85%D9%86-%D9%84%D8%A8%D9%86%D8%A7%D9%86
+    publisher: Lebanon Debate
+    date: 2026-11-11
+    language: ar
 ---
 
 Syria's anti-narcotics directorate carried out two security operations in Rif
-Dimashq against drug smuggling from Lebanon into Syria. [@1,2,3,4,5,6,7,8,9] Officers arrested
-three people after intensive field surveillance and monitoring. [@1,3,7,8] The
-directorate announced the suspects on Telegram only by their initials. [@1,4,7] The directorate identified the three detainees by the Arabic initials أ.ب, ب.ع and ع.د. [@5,9]
+Dimashq against drug smuggling from Lebanon into Syria. [@1,2,3,4,5,6,7,8,9,10] Officers arrested
+three people after intensive field surveillance and monitoring. [@1,3,7,8,10] The
+directorate announced the suspects on Telegram only by their initials. [@1,4,7] The directorate identified the three detainees by the Arabic initials أ.ب, ب.ع and ع.د. [@5,9,10]
 Those arrested were referred to the competent authorities for further
-investigation and legal proceedings. [@1,3,4,5,7,8,9]
+investigation and legal proceedings. [@1,3,4,5,7,8,9,10]
 
-The operations seized 61 kilograms of hashish. [@1,2,3,4,5,7,8,9] Officers also confiscated 2
-kilograms of marijuana. [@1,2,4,5,7,8,9] Authorities also confiscated 200,000 narcotic
+The operations seized 61 kilograms of hashish. [@1,2,3,4,5,7,8,9,10] Officers also confiscated 2
+kilograms of marijuana. [@1,2,4,5,7,8,9,10] Authorities also confiscated 200,000 narcotic
 pills, which are excluded from the cannabis figures. [@1,2,4,5,7,8] The directorate said
 the operations aimed to dismantle trafficking networks and cut drug smuggling
-routes from Lebanon into Syria. [@1,2,4,5,7,9]
+routes from Lebanon into Syria. [@1,2,4,5,7,9,10]
