@@ -61,34 +61,31 @@ sources:
     publisher: Komenda Miejska Policji w Bytomiu
     date: 2026-11-10
     language: pl
-open_questions:
-  - The exact day of the search was not given beyond early November 2026; 10 November 2026 is the publication date used as the incident date.
-  - No separate weight was published for the seized marijuana, so no cannabis weight is recorded; the almost-1.5 kg total covers all drugs together.
-  - The single singular krzew konopi is counted as one seized plant.
-  - No trial outcome was reported; the three-month detention is a preventive measure, not a sentence.
-  - Both accounts derive from the same Bytom municipal police information, so there is no independent second account.
-  - The text gives a weight ("1.5 kilograms") but the figures have no kg_seized; check whether it belongs there.
+  - title: Prawie 1,5 kg narkotyków w mieszkaniu w Bytomiu. Dwie osoby trafiły do aresztu
+    url: https://mojbytom.pl/artykuly/artykul/prawie-15-kg-narkotykow-w-mieszkaniu-w-bytomiu-dwie-osoby-trafily-do-aresztu
+    publisher: mojBytom.pl
+    date: 2026-11-10
+    language: pl
 ---
 
 Detectives from Police Station III in Bytom searched a flat in Bytom in early
 November 2026 after identifying it as a place where significant quantities of
-drugs might be stored. [@1] Officers detained a 27-year-old Bytom resident and a
-20-year-old woman in connection with the search. [@1] Both detainees were
+drugs might be stored. [@1,3] Officers detained a 27-year-old Bytom resident and a
+20-year-old woman in connection with the search. [@1,3] Both detainees were
 charged with possessing a significant quantity of drugs and preparing to
 introduce them into circulation, plus unlawful cultivation of plants containing
-intoxicating or psychotropic substances. [@1] The 27-year-old was additionally
-charged with paid provision of drugs to others. [@1] At the prosecutor's
+intoxicating or psychotropic substances. [@1,3] The 27-year-old was additionally
+charged with paid provision of drugs to others. [@1,3] At the prosecutor's
 request, the District Court in Bytom ordered both suspects held in pretrial
-detention for three months. [@1]
+detention for three months. [@1,3]
 
-The search found 689 grams of amphetamine and 540 grams of methamphetamine. [@1]
+The search found 689 grams of amphetamine and 540 grams of methamphetamine. [@1,3]
 Officers also found 261 ecstasy tablets, marijuana and a cannabis plant in the
-flat. [@1] The Bytom municipal police said the flat yielded almost 1.5 kilograms
+flat. [@1,3] The Bytom municipal police said the flat yielded almost 1.5 kilograms
 of drugs including amphetamine, methamphetamine, marijuana and ecstasy tablets
 plus a cannabis plant. [@2] Police put the combined total of the seized drugs at
-almost 1.5 kilograms and placed the substances in police storage. [@1]
+almost 1.5 kilograms and placed the substances in police storage. [@1,3]
 
 Investigators suspect the drugs were intended for further sale. [@1] Pretrial
 detention is a preventive measure and not a verdict, with the suspects' final
 liability to depend on the proceedings. [@1]
-
