@@ -128,6 +128,11 @@ sources:
     publisher: Aksu TV Haber
     date: 2026-11-10
     language: tr
+  - title: Gaziantep'te narkotik operasyonunda otomobilde 12 kilogram skunk ele geçirildi
+    url: https://www.sondakika.com/guncel/haber-gaziantep-te-narkotik-operasyonunda-otomobilde-12--20413181/
+    publisher: Son Dakika
+    date: 2026-11-10
+    language: tr
 media:
   - kind: photo
     url: https://www.iha.com.tr/gaziantep-haberleri/gaziantepte-aracta-12-kilo-skunk-ele-gecirildi-1-gozalti-513942076
@@ -139,14 +144,16 @@ media:
     media_url: https://www.gaziantep.pol.tr/kurumlar/gaziantep.pol.tr/Duyurular/2026/KASIM/10_11Narkotik1.mp4
     publisher: Gaziantep İl Emniyet Müdürlüğü
     caption: 'Police video released with statement 2026-301 showing officers opening the back of the electric oven and removing packages of skunk hidden in the insulation. Video: Gaziantep İl Emniyet Müdürlüğü'
+open_questions:
+  - Anadolu Agency's account says only that the suspect's processing at the police station continued, and does not report a referral to the judicial authorities.
 ---
 
 Gaziantep police anti-narcotics officers searched a car and seized 12 kilograms
 of skunk, a potent form of cannabis sold under that name in Türkiye, and
-detained one suspect. [@1,5,6,7,8,9,11,12,13,14,15,16,17,18] The officers of the Gaziantep Provincial Police
+detained one suspect. [@1,5,6,7,8,9,11,12,13,14,15,16,17,18,19] The officers of the Gaziantep Provincial Police
 Directorate's narcotics branch ran the search as part of work against drug
-sellers. [@2] Intelligence work and physical surveillance identified the target vehicle, which security forces then stopped. [@18] Narcotics officers of the Gaziantep Provincial Police Directorate stopped a light commercial vehicle on suspicion at a checkpoint on the intercity highway. [@5,10] The operation was carried out under the coordination of the Chief
-Public Prosecutor's Office, the provincial prosecutor's office. [@3,6,7,11,13,14,16,17,18] The person
+sellers. [@2,19] Intelligence work and physical surveillance identified the target vehicle, which security forces then stopped. [@18] Narcotics officers of the Gaziantep Provincial Police Directorate stopped a light commercial vehicle on suspicion at a checkpoint on the intercity highway. [@5,10] The operation was carried out under the coordination of the Chief
+Public Prosecutor's Office, the provincial prosecutor's office. [@3,6,7,11,13,14,16,17,18,19] The person
 caught in connection with the incident was taken to the police station and then
 referred to the judicial authorities after processing. [@1] After the referral
 to the judicial authorities, the person's questioning and custody status
