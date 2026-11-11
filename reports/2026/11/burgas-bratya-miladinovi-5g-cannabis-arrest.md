@@ -60,10 +60,11 @@ sources:
     url: https://burgasmedia.com/news/zadarzhaha-42-godishen-mazh-s-okolo-5-grama-kanabis-v-bratya-miladinovi?lang=en
     publisher: BurgasMedia
     date: 2026-11-10
-open_questions:
-    - The whole account rests on BurgasMedia reports of a Burgas police statement, with no second source found.
-    - No outcome of the fast-track proceedings was reported.
-    - Police did not say whether the cannabis was intended for personal use or distribution.
+  - title: Откраднаха рибарска лодка в Крайморие, двама задържани за взлом в Каблешко | BurgasMedia
+    url: https://burgasmedia.com/amp/news/otkradnaha-ribarska-lodka-v-kraymorie-dvama-zadarzhani-za-vzlom-v-kableshko
+    publisher: BurgasMedia
+    date: 2026-11-10
+    language: bg
 ---
 
 Police detained a 42-year-old man from Burgas during an evening check in the
@@ -75,7 +76,7 @@ against him. [@1,2,3,4,5] He was detained under a police order for up to 24 hour
 
 During the check officers found a green-brown dry herbal mass on him, which was
 later confirmed to be cannabis. [@1,2,3,4,5] The amount was reported as about 5 grams of
-cannabis. [@1,2,3,4] Officers seized the cannabis. [@1,2,3,4,5] The man was held under a police order for up to 24 hours. [@5]
+cannabis. [@1,2,3,4,6] Officers seized the cannabis. [@1,2,3,4,5,6] The man was held under a police order for up to 24 hours. [@5]
 
 The account attributes the information to the Burgas regional directorate of the
 Interior Ministry. [@1,2,4] Police did not say whether the cannabis was for personal
