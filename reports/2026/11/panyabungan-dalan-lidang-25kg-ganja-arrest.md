@@ -59,6 +59,11 @@ sources:
     publisher: Pilarfakta
     date: 2026-11-11
     language: id
+  - title: Ganja kering 25 kg dibawa kurir dari Sumbar pakai ransel diamankan di Madina
+    url: https://www.msn.com/id-id/berita/other/ganja-kering-25-kg-dibawa-kurir-dari-sumbar-pakai-ransel-diamankan-di-madina/ar-AA2hcOqG
+    publisher: MSN Indonesia
+    date: 2026-11-11
+    language: id
 open_questions:
   - Tribun Medan places the stop on the afternoon of 10 November at about 04:00, while Garisdata and Pilarfakta place a tip at about 03:00 and the arrest at about 04:00, which Pilarfakta calls the early hours; the hour is not settled.
   - Garisdata and Pilarfakta give a gross weight of 25,080 grams; Tribun Medan gives 25 kilograms, which this report uses.
@@ -69,18 +74,18 @@ open_questions:
 
 Officers of the criminal investigation unit at Polsek Panyabungan, under Polres
 Mandailing Natal, stopped a suspected cannabis courier on Tuesday 10 November
-2026 in Dalan Lidang village, Panyabungan district, Mandailing Natal. [@1] They
-detained a 25-year-old man identified only as TD. [@1] He is a resident of
+2026 in Dalan Lidang village, Panyabungan district, Mandailing Natal. [@1,4] They
+detained a 25-year-old man identified only as TD. [@1,4] He is a resident of
 Kularian village, Duo Koto, Tanjung Raya, Agam regency, West Sumatra. [@2]
 Polres chief AKBP Bagus Priandy said the Panyabungan unit had uncovered a
 suspected cannabis offence and secured TD with 25 bales believed to contain
-cannabis. [@1] Panyabungan police chief AKP Daster Sinulingga said the stop
-followed a tip about a suspicious motorcycle rider carrying a backpack. [@1]
+cannabis. [@1,4] Panyabungan police chief AKP Daster Sinulingga said the stop
+followed a tip about a suspicious motorcycle rider carrying a backpack. [@1,4]
 
 Inside the backpack officers found a sack of dried cannabis ready for
-distribution. [@1] Tribun Medan described the load as 25 bales weighing 25
-kilograms. [@1] It said the cannabis was carried on a motorcycle by a courier
-thought to have come from West Sumatra. [@1] Officers also took a red-and-black
+distribution. [@1,4] TD was then taken to the police station for questioning. [@4] Tribun Medan described the load as 25 bales weighing 25
+kilograms. [@1,4] It said the cannabis was carried on a motorcycle by a courier
+thought to have come from West Sumatra. [@1,4] Officers also took a red-and-black
 Nordwand backpack. [@2] They also took a Fortune jute sack. [@2] Pilarfakta
 likewise reported that a companion riding the motorcycle with him fled during
 the arrest. [@3] Garisdata reported that TD said a companion who was riding the
@@ -91,4 +96,3 @@ The suspect and the exhibits were handed to Satresnarkoba Polres Mandailing
 Natal, the regency drug squad, for investigation, including the search for the
 man who fled. [@2] Priandy said investigators were completing the case file and
 coordinating that handover under the rules in force. [@1]
-
