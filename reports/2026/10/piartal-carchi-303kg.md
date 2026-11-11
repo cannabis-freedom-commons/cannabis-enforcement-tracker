@@ -63,6 +63,11 @@ sources:
     publisher: LA HORA
     date: 2026-10-11
     language: es
+  - title: Tres ciudadanos extranjeros fueron detenidos con 300 kilos de marihuana en Carchi
+    url: https://www.elcomercio.com/actualidad/seguridad/tres-ciudadanos-extranjeros-detenidos-kilos-marihuana-carchi/
+    publisher: El Comercio
+    date: 2026-10-11
+    language: es
 media:
   - kind: photo
     url: https://www.eluniverso.com/politica/seguridad/decomiso-de-mas-de-300-kilos-de-marihuana-y-tres-detenidos-durante-operativo-policial-en-carchi-nota/
@@ -97,14 +102,14 @@ and two motorcycles in the rural parish of Piartal, Montúfar. [@2,3] Javier Cob
 anti-drug chief, said three men on the motorcycles appeared to be escorting the car and warning of
 checkpoints, and that officers chased all three vehicles before arresting the men in the act. [@2]
 El Universo named them Milton M., Rolando R. and Yeferson F., all Colombian. [@2] Primicias likewise
-reported three Colombian nationals held. [@1,3,4]
+reported three Colombian nationals held. [@1,3,4,5]
 
 Inside the car police found marijuana in bulk, in 300 plastic wraps, weighing 303.007 grams. [@1,2]
-The National Police said that was 606,014 doses on the national market. [@1,3,4] They valued it at
+The National Police said that was 606,014 doses on the national market. [@1,3,4,5] They valued it at
 234,830.43 US dollars in Ecuador, about 2.74 million dollars on the United States market and about
-1.95 million euros in Europe. [@1,2,3,4] Those foreign figures are police estimates. [@2] Officers also
+1.95 million euros in Europe. [@1,2,3,4,5] Those foreign figures are police estimates. [@2] Officers also
 kept the car, which they said had been reported stolen in Quito, two motorcycles and two phones.
-[@1,2]
+[@1,2,5]
 
 Cobos said police believed the load was to be stored in Carchi in the early hours and then moved
 toward other provinces in vehicles with hidden compartments, using minor roads. [@2] The National
