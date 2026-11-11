@@ -72,22 +72,27 @@ sources:
     publisher: Notícias ao Minuto
     date: 2026-11-10
     language: pt
+  - title: Seis homens detidos por jogo ilegal em operação de fiscalização na Trofa
+    url: https://jornaldoave.sapo.pt/seis-homens-detidos-por-jogo-ilegal-em-operacao-de-fiscalizacao-na-trofa/
+    publisher: Jornal do Ave
+    date: 2026-11-10
+    language: pt
 ---
 
 Guarda Nacional Republicana officers detained six men aged between 20 and 53
 during an inspection operation at two food and beverage establishments in the
-municipality of Trofa on 7 November 2026. [@1] The operation was carried out by
+municipality of Trofa on 7 November 2026. [@1,6] The operation was carried out by
 the Porto Territorial Command through the Trofa Territorial Post, with one man
 detained at a café in Guidões and the other five detained at a café in the
-parish of Muro. [@1] The action was reinforced by the Intervention Detachment of
+parish of Muro. [@1,6] The inspection was carried out at food and beverage establishments in the union of parishes of Bougado. [@6] The action was reinforced by the Intervention Detachment of
 the Porto Territorial Command. [@2]
 
 Authorities stated the detentions were based on suspicions of operating illegal
 gambling, being present at an illegal gambling venue, and playing illegal
 gambling. [@1,3,4,5] The operation resulted in eight administrative offence notices
-drawn up for infractions of various natures. [@2,3,4,5] During the inspections,
+drawn up for infractions of various natures. [@2,3,4,5,6] During the inspections,
 officers seized four games of chance gambling machines, a scale, three knives,
-two doses of liamba and two doses of hashish. [@1,3,4,5]
+two doses of liamba and two doses of hashish. [@1,3,4,5,6]
 
 The six men were made arguidos, formal suspects under Portuguese law, and the
 facts were referred to the Judicial Court of the Comarca of Santo Tirso. [@1,3,4]
