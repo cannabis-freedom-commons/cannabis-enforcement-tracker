@@ -48,6 +48,11 @@ media:
     media_url: https://img.europapress.es/fotoweb/fotonoticia_20261110105701_690.jpg
     publisher: Europa Press
     caption: 'Seized marijuana from the National Police operation in La Nucía. Photo: National Police, via Europa Press.'
+  - kind: photo
+    url: https://diariodealicante.net/en/prison-marijuana-plantation-indoor-nucia/
+    media_url: https://diariodealicante.net/wp-content/uploads/2026/11/7861e7c372996c05f0fc3cb5b3885fae90a3d181.webp
+    publisher: Diario de Alicante
+    caption: 'Marijuana seized in the operation in La Nucía. Photo: Diario de Alicante'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8b63e675ba4d0bf4e12367f0af29bc68
@@ -62,30 +67,28 @@ sources:
     publisher: Europa Press
     date: 2026-11-10
     language: es
-open_questions:
-  - Only the 10 November 2026 publication date is known; no separate raid date was given.
-  - The 38kg bud figure is reported as approximate.
-  - Whether the seized plants were destroyed or retained as evidence was not reported.
-  - No court outcome beyond remand in custody was reported.
+  - title: 'Indoor marijuana plantation in La Nucía: one arrested and imprisoned'
+    url: https://diariodealicante.net/en/prison-marijuana-plantation-indoor-nucia/
+    publisher: Diario de Alicante
+    date: 2026-11-10
 ---
 
 Spain’s National Police dismantled an indoor cannabis grow in a house in La
-Nucía and arrested the 47-year-old man who lived there. [@1] Police believe the
-resident installed and ran the growing operation himself. [@1] The suspect was
+Nucía and arrested the 47-year-old man who lived there. [@1,3] Police believe the
+resident installed and ran the growing operation himself. [@1,3] The suspect was
 brought before the duty investigating court in Villajoyosa, where a judge
-ordered him remanded in custody. [@1]
+ordered him remanded in custody. [@1,3]
 
 During a court-authorised search, officers seized 200 cannabis plants and around
-38kg of cannabis buds. [@1] Officers also seized an air revolver, €300 in cash,
-three mobile phones and two computers. [@1] They also found a hydroponic system
-used to grow the plants indoors. [@1] Europa Press gives the same counts: 200
+38kg of cannabis buds. [@1,3] Officers also seized an air revolver, €300 in cash,
+three mobile phones and two computers. [@1,3] They also found a hydroponic system
+used to grow the plants indoors. [@1,3] Europa Press gives the same counts: 200
 marijuana plants, about 38 kilos of buds, an air-compressed revolver, 300 euros
 in small notes, three mobile phones and two computers. [@2]
 
 Officers from Benidorm began investigating after reports of a strong smell of
 cannabis coming from the property. [@1] The investigation was run by the
 Judicial Police Brigade of the Benidorm police station, focused on the area
-around the house. [@2] Technicians from the electricity supplier confirmed the
-grow was powered through an illegal connection to the mains. [@1] The man was
-held on suspicion of drug trafficking and electricity fraud. [@2]
-
+around the house. [@2,3] Technicians from the electricity supplier confirmed the
+grow was powered through an illegal connection to the mains. [@1,3] The man was
+held on suspicion of drug trafficking and electricity fraud. [@2,3]
