@@ -51,6 +51,11 @@ sources:
     publisher: Bundespolizeidirektion Sankt Augustin
     date: 2026-11-11
     language: de
+  - title: Mutmaßlicher Drogendealer am Dortmunder Hauptbahnhof erwischt – 42 Tütchen Marihuana sichergestellt
+    url: https://lokalklick.eu/2026/11/11/mutmasslicher-drogendealer-am-dortmunder-hauptbahnhof-erwischt-42-tuetchen-marihuana-sichergestellt/
+    publisher: LokalKlick.eu
+    date: 2026-11-11
+    language: de
 open_questions:
     - No weight for the 42 marijuana bags was published, so no cannabis weight is recorded.
     - No court outcome, charges beyond the opened investigation, or further detention was reported.
@@ -63,25 +68,25 @@ media:
 ---
 
 In the night from Monday to Tuesday dated 10 November, federal police officers
-checked a man at Dortmund central station. [@1,3] The man checked at Dortmund central station was a drug dealer from Hagen who had shifted his activities to Dortmund. [@2] At about 00:30 they were
+checked a man at Dortmund central station. [@1,3,4] The man checked at Dortmund central station was a drug dealer from Hagen who had shifted his activities to Dortmund. [@2,4] At about 00:30 they were
 patrolling the north exit of Dortmund Hauptbahnhof when they noticed the man
-apparently handing an object to a stranger after a brief conversation. [@1] A
+apparently handing an object to a stranger after a brief conversation. [@1,4] A
 later video review confirmed that suspicion, and officers then saw the
 30-year-old make contact with a second person and hand something over as well.
-[@1] The officers followed the 30-year-old Somali citizen as he moved toward
+[@1,4] The officers followed the 30-year-old Somali citizen as he moved toward
 Grüne Strasse, turning repeatedly toward them before returning to a kiosk where
-they checked him. [@1]
+they checked him. [@1,4]
 
 His statements about wanting to take a train were contradictory, and officers
-noticed a strong smell of marijuana. [@1] In his rucksack officers found a
+noticed a strong smell of marijuana. [@1,4] In his rucksack officers found a
 sealed plastic bag containing 39 sealed bags of packaged herbal-drug consumption
-units. [@1] Three more sealed bags were in his right jacket pocket, making 42
-marijuana bags in total. [@1,3]
+units. [@1,4] Three more sealed bags were in his right jacket pocket, making 42
+marijuana bags in total. [@1,3,4]
 
 The officers took the suspect to the federal police station, where his wallet
-held 300 euros in cash in denominations described as typical of the scene. [@1,3]
+held 300 euros in cash in denominations described as typical of the scene. [@1,3,4]
 He made no statement on the allegations and used his right to remain silent,
-while a fingerprint scan confirmed his identity. [@1] The federal police opened
+while a fingerprint scan confirmed his identity. [@1,4] The federal police opened
 an investigation for violation of the Konsumcannabisgesetz, Germany's consumer
-cannabis law. [@1,3] After consultation with Dortmund police, the Somali man was
-handed over to them for identification procedures. [@1]
+cannabis law. [@1,3,4] After consultation with Dortmund police, the Somali man was
+handed over to them for identification procedures. [@1,4]
