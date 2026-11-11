@@ -49,18 +49,22 @@ sources:
     url: https://peopledaily.digital/news/266kgs-of-bhang-destroyed-in-court-supervised-exercise-in-elgeyo-marakwet
     publisher: People Daily
     date: 2026-11-10
+  - title: 266 kilograms of seized bhang destroyed in Elgeyo Marakwet
+    url: https://citizen.digital/article/266-kilograms-of-seized-bhang-destroyed-in-elgeyo-marakwet-n393690
+    publisher: Citizen Digital
+    date: 2026-11-11
 ---
 
 A total of 266 kilograms of cannabis sativa was destroyed at the incinerator
-facility of AIC Kapsowar Mission Hospital on 10 November 2026. [@1,2] The
+facility of AIC Kapsowar Mission Hospital on 10 November 2026. [@1,2,3] The
 destruction was conducted in a court-supervised exercise pursuant to an order
-issued by the Iten Law Courts on 30 October 2026. [@1,2] The incinerated cannabis
+issued by the Iten Law Courts on 30 October 2026. [@1,2,3] The incinerated cannabis
 was the subject of a case in which Vincent Odhiambo was convicted of trafficking
-in narcotic drugs. [@1] Odhiambo was sentenced to 10 years in prison, with an
-alternative fine of 24 million Kenyan shillings. [@1]
+in narcotic drugs. [@1,3] Odhiambo was sentenced to 10 years in prison, with an
+alternative fine of 24 million Kenyan shillings. [@1,3]
 
 The exercise commenced on Tuesday morning and was presided over by Senior
-Principal Magistrate Gladys Adhiambo of the Iten Law Courts. [@1,2] The exercise began at 8.20 am and concluded at 10.20 am. [@2] The disposal
+Principal Magistrate Gladys Adhiambo of the Iten Law Courts. [@1,2,3] The exercise began at 8.20 am and concluded at 10.20 am. [@2,3] The disposal
 was witnessed by multi-agency representatives including the Elgeyo Marakwet
 County Security Team, the County NEMA Director, prosecutors from the Office of
 the Director of Public Prosecutions, public health officers, senior police
