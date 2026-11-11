@@ -86,23 +86,28 @@ sources:
     publisher: El Digital de Albacete
     date: 2026-11-10
     language: es
+  - title: Desmantelan en Mira un cultivo de marihuana de más de 1.000 plantas
+    url: https://www.clm24.es/provincias/cuenca/desmantelan-mira-cultivo-marihuana-mas-1000-plantas/20261110111241485397.html
+    publisher: Castilla-La Mancha 24
+    date: 2026-11-10
+    language: es
 ---
 
 In Operation TABACU II, the Guardia Civil detained a 37-year-old man allegedly
-put in charge of caring for the cannabis crop in Mira, Cuenca. [@1,2,3] The
+put in charge of caring for the cannabis crop in Mira, Cuenca. [@1,2,3,4] The
 exploitation phase ran during October with officers from the Judicial Police
 Unit and the ROCA team of the Cuenca company. [@1] During the operation,
 officers surprised and detained the man who allegedly looked after the crop.
 [@1] He was accused of a presumed offence against public health. [@1] After
 being brought before the judiciary, the duty court in Cuenca ordered his remand
-in provisional prison, communicated and without bail. [@1,2,3] The Guardia Civil
-said further arrests in connection with the case were not ruled out. [@1,3]
+in provisional prison, communicated and without bail. [@1,2,3,4] The Guardia Civil
+said further arrests in connection with the case were not ruled out. [@1,3,4]
 
 The Guardia Civil dismantled an extensive marijuana plantation in a
-hard-to-access natural area in the municipality of Mira, Cuenca. [@1,2,3] The
+hard-to-access natural area in the municipality of Mira, Cuenca. [@1,2,3,4] The
 plantation would have held more than 1,000 marijuana plants that had already
-been cut and were in different treatment phases for later distribution. [@1,2,3] The
-operation seized nearly 73 kilos of cannabis inflorescences. [@1,2,3]
+been cut and were in different treatment phases for later distribution. [@1,2,3,4] The
+operation seized nearly 73 kilos of cannabis inflorescences. [@1,2,3,4]
 
 Investigators located rugged terrain that had been prepared and cleared in
 different areas to grow the crop. [@1] Officers found two separate areas, one
