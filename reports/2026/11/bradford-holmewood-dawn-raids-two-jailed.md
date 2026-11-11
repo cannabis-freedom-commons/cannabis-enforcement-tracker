@@ -73,37 +73,40 @@ sources:
     url: https://www.thetelegraphandargus.co.uk/news/26287921.holme-wood-cocaine-cash-gold-seized-two-arrested/
     publisher: Bradford Telegraph and Argus
     date: 2026-07-17
+  - title: Drug dealers jailed after dawn raids in Bradford
+    url: https://www.bbc.com/news/articles/c3x2w2kk8d9po
+    publisher: BBC News
+    date: 2026-11-10
 open_questions:
-  - No figure was published for the amount of cannabis seized at Grayswood Crescent, in plants, weight or value.
-  - The £22,000 street value estimate covers all the drugs seized in the raids, and police give no separate cannabis value.
-  - No figure was given for the cash, gold jewellery or vehicles seized, or for the cocaine recovered.
-  - The force gives the raids' location as the Holmewood area of Bradford while the local paper calls the estate Holme Wood; both names are in use for the same area.
-  - No appeal, confiscation or Proceeds of Crime proceedings were reported.
-  - Only the force's own statement and one local paper report on the July arrests were available; no independent account of the sentencing was found.
+    - No figure was published for the amount of cannabis seized at Grayswood Crescent, in plants, weight or value.
+    - The £22,000 street value estimate covers all the drugs seized in the raids, and police give no separate cannabis value.
+    - No figure was given for the cash, gold jewellery or vehicles seized, or for the cocaine recovered.
+    - The force gives the raids' location as the Holmewood area of Bradford while the local paper calls the estate Holme Wood; both names are in use for the same area.
+    - No appeal, confiscation or Proceeds of Crime proceedings were reported.
+    - Accounts differ on Alfie Leahy's age at sentencing, reported as 21 by police and 22 by the BBC.
 ---
 
 Alfie Leahy, 21, and Connor Broadbent, 26, were sentenced at Bradford Crown
 Court on Monday 9 November 2026. [@1] Both had pleaded guilty at Bradford Crown
 Court on 20 August 2026. [@1] The pair was jailed for a combined total of more
-than eight years. [@1]
+than eight years. [@1,3]
 
 West Yorkshire Police officers executed warrants at two separate addresses in
 the Holmewood area just after 5am on 17 July 2026. [@2] At the Dawson Street
 address they found a significant quantity of cocaine, cash, gold jewellery and
 vehicles. [@2] At Grayswood Crescent officers recovered cannabis, a baton and a
-replica firearm. [@2] Drug paraphernalia, knives and several mobile phones were
+replica firearm. [@2,3] Drug paraphernalia, knives and several mobile phones were
 found at both addresses. [@1] Police estimated the total street value of the
-drugs at more than £22,000. [@1]
+drugs at more than £22,000. [@1,3]
 
 Leahy, of Dawson Street, Bradford, was sentenced to five years for two counts of
 being concerned in the supply of crack cocaine and two counts of being concerned
 in the supply of heroin. [@1] He was also sentenced for possession with intent
 to supply cocaine, crack cocaine and heroin. [@1] Broadbent, of Wycombe Green,
 Bradford, received three years and four months for possession with intent to
-supply cocaine and possession of criminal property. [@1]
+supply cocaine and possession of criminal property. [@1,3]
 
 Sergeant Charlie Smallwood, of Bradford District, said the sentences should
-serve as a warning to others who aim to profit from criminality. [@1] He said
+serve as a warning to others who aim to profit from criminality. [@1,3] He said
 drug dealing blights communities and is a direct cause of violent crime and
 county lines offending. [@1]
-
