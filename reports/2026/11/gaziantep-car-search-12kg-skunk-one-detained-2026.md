@@ -108,6 +108,11 @@ sources:
     publisher: Kars Hakimiyet
     date: 2026-11-10
     language: tr
+  - title: Gaziantep’te 12 kilo skunk ele geçirildi
+    url: https://www.milliyet.com.tr/yerel-haberler/gaziantep/gaziantepte-12-kilo-skunk-ele-gecirildi-7698124
+    publisher: Milliyet
+    date: 2026-11-10
+    language: tr
 open_questions:
     - The sources give no separate date for the search; 10 November 2026 is the date of the police statement and of publication and is used as the incident date.
     - İLKHA reports the suspect was referred to the judicial authorities, while the agency copy still said police processing at the station was continuing; no charge or court decision was reported.
@@ -132,7 +137,7 @@ media:
 
 Gaziantep police anti-narcotics officers searched a car and seized 12 kilograms
 of skunk, a potent form of cannabis sold under that name in Türkiye, and
-detained one suspect. [@1,5,6,7,8,9,11,12,13,14] The officers of the Gaziantep Provincial Police
+detained one suspect. [@1,5,6,7,8,9,11,12,13,14,15] The officers of the Gaziantep Provincial Police
 Directorate's narcotics branch ran the search as part of work against drug
 sellers. [@2] Narcotics officers of the Gaziantep Provincial Police Directorate stopped a light commercial vehicle on suspicion at a checkpoint on the intercity highway. [@5,10] The operation was carried out under the coordination of the Chief
 Public Prosecutor's Office, the provincial prosecutor's office. [@3,6,7,11,13,14] The person
@@ -142,4 +147,4 @@ to the judicial authorities, the person's questioning and custody status
 continued at the police station according to other accounts. [@2]
 
 The 12 kilograms of skunk found in the car were seized as evidence. [@3,5] The 12
-kilograms of skunk were recovered from a car, not from a house or a field. [@4,9] During the search officers examined an electric oven in the boot and found the skunk hidden among the insulation material at the rear of the device. [@5,10] Officers carried out the search of the vehicle with the assistance of a detector dog. [@6,7,9,12,13,14]
+kilograms of skunk were recovered from a car, not from a house or a field. [@4,9] During the search officers examined an electric oven in the boot and found the skunk hidden among the insulation material at the rear of the device. [@5,10] Officers carried out the search of the vehicle with the assistance of a detector dog. [@6,7,9,12,13,14,15]
