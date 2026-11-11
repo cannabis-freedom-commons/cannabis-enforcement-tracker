@@ -60,17 +60,20 @@ sources:
     publisher: Rakyatterkini.com
     date: 2026-11-10
     language: id
+  - title: SAMBUT HARI PAHLAWAN, BNN MUSNAHKAN DUA TITIK LAHAN GANJA DI ACEH BESAR
+    url: https://bnn.go.id/sambut-hari-pahlawan-bnn-musnahkan-dua-titik-lahan-ganja-di-aceh-besar/
+    publisher: Badan Narkotika Nasional
+    date: 2026-11-11
+    language: id
 open_questions:
-  - The article gives no separate operation date, so 10 November 2026 is the publication date standing in for the event.
-  - No plant count was published, only an estimated weight of more than four tons of plants.
-  - The report does not say whether the more than four tons is a wet or dried weight.
-  - No arrests, charges, suspects or court outcome were reported beyond that no owner was found.
-  - The whole account rests on a single opened iNews report with no independent corroboration found.
+    - Initial media reports estimated the field area at 2.5 hectares, while BNN's official statement gave a total area of three hectares across the two sites.
+    - The report does not say whether the estimated four-ton weight is a wet or dried weight.
+    - No suspects, arrests or charges were reported, and no owner of the field was found.
 ---
 
 BNN officers with TNI and police destroyed more than four tons of
 ready-to-harvest cannabis plants on a 2.5-hectare field in Aceh Besar. [@1] The
-field lay in the mountains of Desa Pulo Lamteba, Aceh Besar regency, Aceh. [@2,3]
+field lay in the mountains of Desa Pulo Lamteba, Aceh Besar regency, Aceh. [@2,3,4]
 The destruction operation involved hundreds of personnel from BNN, the
 Indonesian military and the police. [@2,3] At the site, officers swept two field
 locations found at the foot of Mount Seulawah. [@2,3]
@@ -78,7 +81,7 @@ locations found at the foot of Mount Seulawah. [@2,3]
 The joint team walked for three hours over rough terrain to reach the
 2.5-hectare field. [@2] The plants were about one to two metres tall and planted
 about 50 centimetres apart. [@2] Officers pulled up all the plants, gathered
-them into two large piles and burned them on the spot. [@2]
+them into two large piles and burned them on the spot. [@2] BNN reported that officers destroyed approximately 8,000 cannabis plants across three hectares with an estimated weight of around four tons. [@4]
 
 The case began with information from local residents. [@2] Officers then
 investigated for about a week before finding the mountain planting site. [@2]
