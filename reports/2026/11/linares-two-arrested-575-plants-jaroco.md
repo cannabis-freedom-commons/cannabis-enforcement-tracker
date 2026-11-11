@@ -88,6 +88,11 @@ sources:
     publisher: Hora Jaén
     date: 2026-11-10
     language: es
+  - title: 'Operación Jaroco: dos detenidos en Linares con más de 500 plantas de marihuana'
+    url: https://www.ideal.es/jaen/jaen/operacion-jaroco-dos-detenidos-linares-500-plantas-20261110145945-nt.html
+    publisher: Ideal
+    date: 2026-11-10
+    language: es
 media:
   - kind: photo
     url: https://lacontradejaen.eldiario.es/linares-marihuana-operacion-jaroco-jaen/
@@ -103,16 +108,16 @@ media:
 
 Spain's National Police detained two people in Linares, Jaen, for alleged
 offences against public health and electricity fraud while dismantling two
-marijuana plantations. [@1,3,4,5,6,7,8,9,10] The investigation was carried out by the local
+marijuana plantations. [@1,3,4,5,6,7,8,9,10,11] The investigation was carried out by the local
 judicial police brigade and led by the drugs group, with support from other
 station units including citizen assistance, judicial police and scientific
-police. [@1,3,4,5,6,7,8,9,10]
+police. [@1,3,4,5,6,7,8,9,10,11]
 
 Officers carried out two home searches in which they seized 575 marijuana
-plants. [@1,3,4,5,6,7,8,9,10] Officers also seized assorted material intended for cultivation in
-the searches. [@1,3,4,5,6,7,8,9,10] Police said the operation dismantled two marijuana
-cultivation points in Linares. [@1,3,4,5,6,7,8,9]
+plants. [@1,3,4,5,6,7,8,9,10,11] Officers also seized assorted material intended for cultivation in
+the searches. [@1,3,4,5,6,7,8,9,10,11] Police said the operation dismantled two marijuana
+cultivation points in Linares. [@1,3,4,5,6,7,8,9,11]
 
 The action was Operation Jaroco, run over recent months by the Linares station
 as part of a firm fight against drug trafficking and public-health offences,
-within the work of the station's new narcotics group. [@2,3,4,5,6,7,8,9]
+within the work of the station's new narcotics group. [@2,3,4,5,6,7,8,9,11]
