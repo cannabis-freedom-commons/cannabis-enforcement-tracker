@@ -41,7 +41,7 @@ open_questions:
   - The opened reports say at least 10,000 plants were growing at the site; no figure for plants destroyed was published.
   - It was not known whether the three men fired at officers, or how many shots were fired and by whom.
   - The dead man was not identified, and the opened sources do not say whether the two men who fled were caught or what the investigation found.
-  - Both opened pages carry the same San Francisco Chronicle report text, so no independent second newsroom account with new facts was found.
+  - Both opened pages carry the same San Francisco Chronicle report text; a 2009 retrospective confirms the shooting independently but adds only the affluent-neighborhood detail.
   - No photograph of the raid with a recoverable direct image address was found in the opened sources.
 sources:
   - title: Calif. man killed, 2 flee in pot farm raid
@@ -54,6 +54,10 @@ sources:
     archived: https://web.archive.org/web/20261103093457/https://www.lawofficer.com/man-killed-2-flee-in-pot-farm-raid/
     publisher: Law Officer
     date: 2008-07-11
+  - title: A growing problem
+    url: https://www.paloaltoonline.com/cover-story/2009/09/11/a-growing-problem-2/
+    publisher: Palo Alto Online
+    date: 2009-09-11
 ---
 
 Five deputies and 15 other officers confronted three armed men at a large marijuana garden in the hills south of Saratoga around 7:30 a.m. on Thursday 10 July 2008.[@1,2] The shooting took place near the intersection of Bohlman Road and Canon Drive.[@1,2]
@@ -63,3 +67,5 @@ The deputies had started to enter the garden when the encounter happened; shots 
 More than 100 law enforcement officers, including SWAT teams from several surrounding cities, were dispatched to search for the two men, with helicopters and canine units reported in later accounts of the manhunt.[@1,2] Two deputies were placed on routine administrative leave while officials investigated the shooting.[@1,2]
 
 The raid was organized by the Santa Clara County sheriff's marijuana eradication team with narcotics officers from the Campaign Against Marijuana Planting (CAMP), the state task force for marijuana growing and trafficking.[@1,2] Officers at the scene reported at least 10,000 marijuana plants growing at the site, which took responding officers about 90 minutes to reach.[@1,2]
+
+A 2009 retrospective on the county's grow raids confirmed the shooting independently, recalling an armed suspect shot and killed with two companions fleeing, at a site its sheriff's source described as near a very affluent neighborhood.[@3]
