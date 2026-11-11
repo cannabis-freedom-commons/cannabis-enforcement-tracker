@@ -56,25 +56,28 @@ sources:
     publisher: Atual FM
     date: 2026-11-10
     language: pt
+  - title: Motorista é preso com armas e maconha durante abordagem em Herval d'Oeste
+    url: https://cacodarosa.com/noticia/48850/motorista-e-preso-com-armas-e-maconha-durante-abordagem-em-herval-doeste
+    publisher: Caco da Rosa
+    date: 2026-11-10
+    language: pt
 open_questions:
-  - The account does not name which police force made the stop; the image file label 'prf' suggests the Federal Highway Police but the text does not say so.
-  - The driver is not identified by name or age, and no charge, custody decision or court outcome beyond referral to the Civil Police in Joaçaba is reported.
-  - The 237.6 grams are given as one marijuana total in two tablets, with no laboratory confirmation reported.
-  - The account recorded the case as possession for personal use while reporting a quantity and firearms, leaving the final legal classification unclear.
+    - The driver is not identified by name or age, and no charge, custody decision or court outcome beyond referral to the Civil Police in Joaçaba is reported.
+    - The 237.6 grams are given as one marijuana total in two tablets, with no laboratory confirmation reported.
+    - The account recorded the case as possession for personal use while reporting a quantity and firearms, leaving the final legal classification unclear.
 ---
 
 A driver was arrested on Monday afternoon, 9 November 2026, during a police stop
 on the BR-282 in Herval d'Oeste, in the Meio-Oeste region of Santa Catarina.
-[@1] The stop was recorded at about 16:45 at kilometre 379 of the highway. [@1]
-Officers stopped a Jeep Renegade registered in the municipality itself. [@1]
+[@1,2] The stop was recorded at about 16:45 at kilometre 379 of the highway. [@1,2]
+Officers stopped a Jeep Renegade registered in the municipality itself. [@1,2] The stop was carried out by the Federal Highway Police. [@2]
 
-On the rear seat they found two tablets of marijuana totalling 237.6 grams. [@1]
+On the rear seat they found two tablets of marijuana totalling 237.6 grams. [@1,2]
 The same search turned up a 9mm Glock pistol, a .38 Taurus revolver and 51
-rounds of ammunition for the two calibres. [@1] Officers also seized R$1,183.50
-in cash. [@1]
+rounds of ammunition for the two calibres. [@1,2] Officers also seized R$1,183.50
+in cash. [@1,2]
 
 The driver was arrested for illegal possession of a firearm of permitted use,
 and the officers also recorded the case as drug possession for personal use.
-[@1] The man and the seized material were taken to the Civil Police station in
-Joaçaba for legal procedures. [@1]
-
+[@1,2] The man and the seized material were taken to the Civil Police station in
+Joaçaba for legal procedures. [@1,2]
