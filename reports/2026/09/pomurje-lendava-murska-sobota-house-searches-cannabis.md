@@ -56,6 +56,11 @@ sources:
     publisher: Sobotainfo.com
     date: 2026-09-11
     language: sl
+  - title: Med hišno preiskavo našli drogo, naboje, bokser in dušilec zvoka za orožje
+    url: https://svet24.si/lokalno/pomurje/novice/kronika/pums-hisna-preiskava-konoplja-naboji-1925776
+    publisher: Svet24
+    date: 2026-09-11
+    language: sl
 open_questions:
   - The police gave no date for the searches; 11 September 2026 is the publication date of the police statement and is used as the incident date.
   - No count of the cannabis seedlings or dried plants was published, and no weight was given for the dried material.
@@ -70,15 +75,15 @@ open_questions:
 
 Police from the Murska Sobota police station searched the homes of two suspects,
 one from the Lendava administrative unit and one from the Murska Sobota
-administrative unit, on a warrant from the District Court in Murska Sobota. [@1]
+administrative unit, on a warrant from the District Court in Murska Sobota. [@1,5]
 
 In the two searches officers found and seized several larger seedlings suspected
 to be prohibited cannabis and a larger quantity of dried plants also suspected
-to be cannabis. [@1] They also seized ammunition, a knuckleduster and a firearm
-silencer. [@1]
+to be cannabis. [@1,5] They also seized ammunition, a knuckleduster and a firearm
+silencer. [@1,5]
 
 The Murska Sobota police administration said all the seized items had been sent
-for analysis. [@1] Once the analysis results arrive, officers will file a
+for analysis. [@1,5] Once the analysis results arrive, officers will file a
 criminal complaint against the two suspects and open misdemeanour proceedings,
 the police administration said. [@1]
 
@@ -95,4 +100,3 @@ Murska Sobota Police Administration. [@3]
 
 Sobotainfo, citing the same police administration, reported that officers seized
 ammunition, a knuckleduster and a silencer as well as the plants. [@4]
-
