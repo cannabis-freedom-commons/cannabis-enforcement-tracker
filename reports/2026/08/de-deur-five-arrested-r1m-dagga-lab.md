@@ -71,18 +71,20 @@ sources:
     publisher: The Citizen
     date: 2026-08-28
     archived: https://web.archive.org/web/20260829120607id_/https://www.citizen.co.za/news/south-africa/crime/foreign-nationals-nabbed-hydroponic-dagga-lab-bust/
+  - title: Five foreign nationals arrested after R1m dagga lab uncovered
+    url: https://www.thesouthafrican.com/news/five-foreign-nationals-arrested-after-r1m-dagga-lab-uncovered/
+    publisher: The South African
+    date: 2026-08-28
 open_questions:
-  - No weight, plant count or area figure for the hydroponic dagga was published; only the approximate R1-million value was given.
-  - No separate date for the raid was published; 28 August 2026 is the article's publication date and stands in for the incident date.
-  - No names, ages, charges or pleas for the five arrested people were published, and no court outcome beyond the expected Meyerton appearance was reported.
-  - Only one source could be opened; no police statement or second outlet account was found.
-  - The two firearms were reported alongside the dagga but are not a cannabis figure and do not affect the cannabis valuation.
-  - The same article also describes a separate Limpopo seizure of 130 bags of dagga worth about R11 million, a different event left out here.
-  - Briefly gives no date for the raid itself and no court appearance date; the article is dated 28 August 2026.
+    - No weight, plant count or area figure for the hydroponic dagga was published; only the R1-million value was given.
+    - No names or pleas for the five arrested people were published, and no court outcome beyond the expected Meyerton appearance was reported.
+    - The two firearms were reported alongside the dagga but are not a cannabis figure and do not affect the cannabis valuation.
+    - The same article also describes a separate Limpopo seizure of 130 bags of dagga worth about R11 million, a different event left out here.
+    - This account also describes a separate KwaZulu-Natal operation in Effingham, Greenwood Park involving firearms, Mandrax, cocaine and cash, a different event left out here.
 ---
 
 Gauteng police raided a property in De Deur in the Sedibeng District that had
-been converted into a hydroponic dagga laboratory. [@1,4] Five foreign nationals
+been converted into a hydroponic dagga laboratory. [@1,4,6] Five foreign nationals
 were arrested at the property during the police operation. [@1,2,3,4] Two of the five
 people arrested were Jamaican nationals. [@1,4] The other people arrested were
 from Malawi and Lesotho. [@1,4]
@@ -92,9 +94,9 @@ the property. [@1,2,3,4,5] Officers also seized two firearms at the property alo
 the dagga. [@1,4]
 
 The five arrested people were expected to appear before the Meyerton Magistrates
-Court shortly after the raid. [@1,2,3,4,5]
+Court shortly after the raid. [@1,2,3,4,5,6]
 
-The five comprised two Jamaican nationals, two Malawian nationals and one Lesotho national. [@2,3,5] Police recovered a 303 rifle and a 9mm Glock pistol during the operation. [@2,3,5] The suspects face charges relating to contravention of Sections 3 and 5(b) of the Drug Trafficking Act 140 of 1992. [@2,3,5] Two of the five suspects face additional charges of possession of unlicensed firearms and ammunition. [@2,3,5]
+The five comprised two Jamaican nationals, two Malawian nationals and one Lesotho national. [@2,3,5,6] Police recovered a 303 rifle and a 9mm Glock pistol during the operation. [@2,3,5,6] The suspects face charges relating to contravention of Sections 3 and 5(b) of the Drug Trafficking Act 140 of 1992. [@2,3,5,6] Two of the five suspects face additional charges of possession of unlicensed firearms and ammunition. [@2,3,5]
 
 The five were arrested on Thursday, August 27, following an intelligence-driven operation in De Deur, Sedibeng District. [@3,5] The operation was conducted by Gauteng Counter-Intelligence Narcotics, Gauteng Organised Crime, West Rand K9, the Forensic Science Laboratory, National Cybercrime and private security companies. [@3,5]
 
