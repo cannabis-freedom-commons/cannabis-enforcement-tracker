@@ -66,6 +66,11 @@ sources:
     publisher: Новости РуФокс
     date: 2026-11-11
     language: ru
+  - title: 'В Белой Калитве мужчина выращивал коноплю для лечения астмы: его арестовали'
+    url: https://privet-rostov.ru/incident/135507-v-beloj-kalitve-muzhchina-vyraschival-konoplju-dlja-lechenija-astmy-ego-arestovali.html
+    publisher: Privet-Rostov.ru
+    date: 2026-11-11
+    language: ru
 ---
 
 Officers of the interior ministry department for Belokalitvinsky District in
@@ -73,8 +78,8 @@ Rostov Oblast detained a 72-year-old local resident while working on operational
 information. [@2,3,4] They suspected him of using and unlawfully storing
 narcotic-containing plants. [@1,3,4] During an inspection of his home, officers
 found and seized cannabis plants with a total weight of more than four
-kilograms. [@2,3,4] An expert examination confirmed that the seized plants were a
-narcotic substance of plant origin. [@2,4] The newspaper described the seizure as
+kilograms. [@2,3,4,5] An expert examination confirmed that the seized plants were a
+narcotic substance of plant origin. [@2,4,5] The newspaper described the seizure as
 an absolute record for the year so far. [@1]
 
 The man told police that he had personally gathered the seeds of wild cannabis
@@ -83,7 +88,7 @@ drying marijuana and was cultivating cannabis on what the paper called an almost
 industrial scale. [@1] He said he smoked the cannabis for medical purposes, to
 treat his bronchial asthma. [@2,4] A criminal case was opened against him under
 part 2 of article 228 of the Criminal Code, which covers acquiring and storing
-narcotic drugs in large amounts without intent to sell. [@2,4] Given his age, he
+narcotic drugs in large amounts without intent to sell. [@2,4,5] Given his age, he
 was left under house arrest for the duration of the investigation. [@1] The
 regional interior ministry said a measure of restraint in the form of house
-arrest had been chosen for him. [@2,3,4]
+arrest had been chosen for him. [@2,3,4] The court chose house arrest as his measure of restraint. [@5]
