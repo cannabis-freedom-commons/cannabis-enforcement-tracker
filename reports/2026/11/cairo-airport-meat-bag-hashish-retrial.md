@@ -52,6 +52,11 @@ sources:
     publisher: المصري اليوم
     date: 2026-10-21
     language: ar
+  - title: «الحشيش داخل كيس لحمة».. اليوم إعادة محاكمة متهم بمحاولة تهريب مخدرات عبر مطار القاهرة
+    url: https://www.almasryalyoum.com/news/details/4407361
+    publisher: المصري اليوم
+    date: 2026-11-11
+    language: ar
 open_questions:
   - No date is given for the airport seizure or the in-absentia sentence; 2 November 2026 is the publication date used as the incident date.
   - The destination Arab country was not named.
@@ -63,17 +68,16 @@ open_questions:
 Cairo Criminal Court adjourned retrial proceedings for 38-year-old defendant
 Sameh S. to 11 November so he can attend from custody. [@1] The prosecution had
 referred him to criminal trial on a charge of attempting to smuggle hashish out
-of the country without licences from the competent authority. [@1] Investigators
+of the country without licences from the competent authority. [@1,3] Investigators
 said the female passenger who carried the drugs had received them from him to
 take abroad without knowing they contained narcotics, while he intended to
-smuggle them out of the country. [@1]
+smuggle them out of the country. [@1,3]
 
 The case emerged while a passenger-security officer and a criminal-investigation
 officer were securing passengers boarding a flight to an Arab country at Cairo
-airport. [@1] X-ray screening showed opaque objects in one passenger bag, and a
+airport. [@1,3] X-ray screening showed opaque objects in one passenger bag, and a
 search found eight pieces of hashish hidden inside a bag of frozen meat,
 weighing 164 grams. [@1] The chemical laboratory confirmed the seized items were
 eight pieces of hashish listed in the first schedule of the drug-control law.
-[@1] The court had previously sentenced him in absentia to 15 years of
-aggravated imprisonment and a fine of 50,000 Egyptian pounds. [@2]
-
+[@1,3] The court had previously sentenced him in absentia to 15 years of
+aggravated imprisonment and a fine of 50,000 Egyptian pounds. [@2,3]
