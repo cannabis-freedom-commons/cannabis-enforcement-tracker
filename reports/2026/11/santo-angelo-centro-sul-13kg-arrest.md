@@ -38,13 +38,18 @@ sources:
     publisher: Grupo Sepé de Comunicação Integrada
     date: 2026-11-09
     language: pt
+  - title: Mais de 13 quilos de maconha são apreendidos pela BM em Santo Ângelo
+    url: https://www.jornalnoroeste.com.br/noticia/seguranca/mais-de-13-quilos-de-maconha-sao-apreendidos-pela-bm-em-santo-angelo
+    publisher: Jornal Noroeste
+    date: 2026-11-10
+    language: pt
 open_questions:
-  - Only the night of 9 November is given for the arrest; no hour is reported.
-  - No weight is given separately for the 15 tablets or the three portions, only the 13.297 kg total.
-  - The arrested man's name and age are not published.
-  - No charges, custody decision, court date or outcome is reported beyond his being taken to the police station.
-  - No street value for the marijuana was published.
-  - Both accounts reproduce the same 27th BPM statement and the same handout photo.
+    - Only the night of 9 November is given for the arrest; no hour is reported.
+    - No weight is given separately for the 15 tablets or the three portions, only the 13.297 kg total.
+    - The arrested man's name and age are not published.
+    - No charges, custody decision, court date or outcome is reported beyond his being taken to the police station.
+    - No street value for the marijuana was published.
+    - All three accounts reproduce the same 27th BPM statement and the same handout photo.
 ---
 
 Brigada Militar officers in Santo Ângelo arrested a man for drug trafficking in
@@ -53,9 +58,8 @@ from the communications office of the 27th Military Police Battalion (27º BPM).
 [@2]
 
 Officers seized 15 tablets of marijuana and three other portions of the drug.
-[@2] The marijuana weighed 13 kilograms and 297 grams in total, and officers
-also took a mobile phone. [@1]
+[@2,3] The marijuana weighed 13 kilograms and 297 grams in total, and officers
+also took a mobile phone. [@1,3]
 
 The man and the seized material were taken to the Delegacia de Polícia de Pronto
-Atendimento, the ready-response police station, for the legal procedures. [@1]
-
+Atendimento, the ready-response police station, for the legal procedures. [@1,3]
