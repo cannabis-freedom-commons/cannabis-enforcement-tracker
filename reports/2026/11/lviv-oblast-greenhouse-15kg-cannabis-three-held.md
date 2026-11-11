@@ -105,6 +105,11 @@ sources:
     publisher: LVIV.MEDIA
     date: 2026-11-10
     language: uk
+  - title: На Львівщині військовий організував наркобізнес
+    url: https://ua.korrespondent.net/amp/4927543-na-lvivschyni-viiskovyi-orhanizuvav-narkobiznes
+    publisher: Корреспондент.net
+    date: 2026-11-10
+    language: uk
 open_questions:
     - The reports give no date for the searches or the arrests; 10 November 2026 is the date of the police statement and its publication.
     - No count of cannabis plants in the greenhouse was published, so no plant figure is given.
@@ -128,17 +133,17 @@ documents used to release servicemen from duty, and the detectives work with
 Lviv region police investigators. [@2]
 
 The three were detained during another hand-over, with special police unit
-officers assisting, the police said. [@1,2] Searches at the suspects' homes, using
+officers assisting, the police said. [@1,2,7] Searches at the suspects' homes, using
 handlers and sniffer dogs, turned up about 15 kilograms of cannabis, cash and
-other evidence. [@1,4,5] Police estimated the black-market value of the drugs at
-about 4.5 million hryvnia. [@1,4,5,6]
+other evidence. [@1,4,5,7] Police estimated the black-market value of the drugs at
+about 4.5 million hryvnia. [@1,4,5,6,7]
 
 The plants were dried, ground and packed on the same property into "shaiby" —
 slang for packages each holding about 20 grams of ready-to-use cannabis — which
-normally sold for 6,000 hryvnia each, police said. [@1,2] Police said the cannabis was handed over to buyers mainly during in-person meetings. [@6]
+normally sold for 6,000 hryvnia each, police said. [@1,2] Police said the cannabis was handed over to buyers mainly during in-person meetings. [@6,7]
 
 Investigators told all three they were suspected under Article 307, part 2 or
 part 3, of the Criminal Code, on illegal production, storage, transport and sale
-of drugs. [@1,4,5] Those parts of the article carry up to 10 or up to 12 years in
+of drugs. [@1,4,5,7] Those parts of the article carry up to 10 or up to 12 years in
 prison respectively, and the regional defence prosecutor's office is supervising
 the case. [@2] The pre-trial investigation is continuing, the police said. [@3]
