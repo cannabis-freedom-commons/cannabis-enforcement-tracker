@@ -47,24 +47,38 @@ sources:
     publisher: grajewo24.pl
     date: 2026-11-10
     language: pl
+  - title: Miał przy sobie narkotyki, a kolejne w mieszkaniu
+    url: https://grajewo.policja.gov.pl/po7/aktualnosci/114487,Mial-przy-sobie-narkotyki-a-kolejne-w-mieszkaniu.html
+    publisher: KPP Grajewo
+    date: 2026-11-10
+    language: pl
 open_questions:
-  - The article gives no separate date for the patrol and flat search; 10 November 2026 is its publication date and stands in for the event date.
-  - Whether laboratory tests confirmed the suspected amphetamine and mephedrone, and whether the possession charge was extended, is not yet known.
-  - The whole account rests on one local report citing the Grajewo police.
+    - The reports give no separate date for the patrol and flat search; 10 November 2026 is their publication date and stands in for the event date.
+    - Whether laboratory tests confirmed the suspected amphetamine and mephedrone, and whether the possession charge was extended, is not yet known.
+media:
+  - kind: photo
+    url: https://grajewo.policja.gov.pl/po7/aktualnosci/114487,Mial-przy-sobie-narkotyki-a-kolejne-w-mieszkaniu.html
+    media_url: https://grajewo.policja.gov.pl/dokumenty/zalaczniki/122/oryginal/122-299217.jpg
+    publisher: KPP Grajewo
+    caption: 'Jar containing green dried cannabis seized in the Grajewo flat. Photo: KPP Grajewo'
+  - kind: photo
+    url: https://grajewo.policja.gov.pl/po7/aktualnosci/114487,Mial-przy-sobie-narkotyki-a-kolejne-w-mieszkaniu.html
+    media_url: https://grajewo.policja.gov.pl/dokumenty/zalaczniki/122/122-299218.png
+    publisher: KPP Grajewo
+    caption: 'White container with green dried cannabis seized in the case. Photo: KPP Grajewo'
 ---
 
 Criminal officers in Grajewo detained a 47-year-old man after finding marijuana
-on him. [@1] The officers had noticed the man while patrolling a street in
+on him. [@1,2] The officers had noticed the man while patrolling a street in
 Grajewo because they believed he might possess drugs. [@1]
 
 During the check they found 2.4 grams of marijuana on him, along with two other
-substances in the form of white powder and crystals. [@1] In the 47-year-old's
-home, officers found another 12.3 grams of marijuana in a jar on a cabinet. [@1]
+substances in the form of white powder and crystals. [@1,2] In the 47-year-old's
+home, officers found another 12.3 grams of marijuana in a jar on a cabinet. [@1,2]
 The man was detained and the substances found were seized. [@1]
 
-The man was charged with possession of narcotic drugs. [@1] Under the
+The man was charged with possession of narcotic drugs. [@1,2] Under the
 drug-prevention law, drug possession carries up to three years' imprisonment.
 [@1] The remaining substances were sent for laboratory testing, and the charge
 will be extended to those substances if they prove to be amphetamine and
 mephedrone. [@1]
-
