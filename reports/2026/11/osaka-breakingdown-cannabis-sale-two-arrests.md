@@ -141,6 +141,11 @@ sources:
     publisher: Television OSAKA NEWS
     date: 2026-11-11
     language: ja
+  - title: ブレイキングダウン・ダイスケの逮捕　飯田将成が「不穏な投稿」
+    url: https://topics.smt.docomo.ne.jp/article/zak2/entertainment/zak2-2C7HZOUJUZAOHO27IWDG67ECXA
+    publisher: dメニューニュース
+    date: 2026-11-11
+    language: ja
 media:
   - kind: video
     url: https://www.youtube.com/watch?v=iPnZ6VWrb6Y
@@ -148,25 +153,27 @@ media:
     publisher: Television OSAKA NEWS
     caption: Television Osaka news report on the arrests of Daisuke Yamamoto and Masaru Sakaguchi over an alleged cannabis sale.
 open_questions:
-  - Television Osaka's description says the two used marijuana slang in social-media transactions, while other reports describe code words and messages on a confiscated smartphone.
+    - Television Osaka's description says the two used marijuana slang in social-media transactions, while other reports describe code words and messages on a confiscated smartphone.
+    - One account gives 10 November 2026 as the arrest date, while others say only that police had arrested the men by 11 November 2026.
+    - The possession arrest is reported by one account only; other reports describe the transfer allegation without that charge.
 ---
 
 Osaka prefectural police arrested Daisuke Yamamoto, a 37-year-old man of no
 known occupation from Ikuno Ward in Osaka, and Masaru Sakaguchi, a 60-year-old
 beautician from the same ward, on suspicion of violating the Narcotics Special
-Provisions Law and related offences. [@1,2,3,4,5,7,8,10,11,12,13,14,16,17,20] Both men were referred to prosecutors on suspicion of violating the Special Narcotics Law and other charges. [@21] The arrests, over the alleged purchase
+Provisions Law and related offences. [@1,2,3,4,5,7,8,10,11,12,13,14,16,17,20,22] Both men were referred to prosecutors on suspicion of violating the Special Narcotics Law and other charges. [@21] The arrests, over the alleged purchase
 and sale of goods presented as cannabis, were announced by 11 November 2026.
-[@1,2,3,11,12,13] Police did not disclose whether the two men admitted the allegations. [@5,17] According to the police, Yamamoto had previously competed in BreakingDown,
+[@1,2,3,11,12,13] The two men were arrested on 10 November 2026. [@22] Police did not disclose whether the two men admitted the allegations. [@5,17] According to the police, Yamamoto had previously competed in BreakingDown,
 a mixed-rules combat sports event popular primarily among young people. [@1,2,3,6,11,12,13,15,19]
 
 Investigators alleged that in December 2025, Yamamoto received an item as
-cannabis from Sakaguchi for 10,000 yen in the city of Osaka. [@1,2,3,4,5,9,12,13,15,16,17,18,19,20] The alleged handover occurred on 25 December 2025 at just after noon in Ikuno Ward. [@5] Sakaguchi is
+cannabis from Sakaguchi for 10,000 yen in the city of Osaka. [@1,2,3,4,5,9,12,13,15,16,17,18,19,20,22] The alleged handover occurred on 25 December 2025 at just after noon in Ikuno Ward. [@5] Sakaguchi is
 suspected of transferring the item in that transaction and engaging in related
-illicit dealings. [@1,2,3,11,12,13,18]
+illicit dealings. [@1,2,3,11,12,13,18,22] Sakaguchi was also arrested on suspicion of possessing cannabis. [@22]
 
 In February 2026, police officers stopped and questioned Sakaguchi during a
 routine patrol and discovered plant material inside the car he was occupying.
-[@1,2,3,4,5,9,12,13,15] The cannabis found in Sakaguchi's car in February weighed a little over 5 grams. [@5,17] Forensic testing later confirmed that the plant fragments were cannabis.
-[@1,2,3,9,11,12,13,18] Analysis of Sakaguchi's confiscated smartphone and related records led
+[@1,2,3,4,5,9,12,13,15,22] The cannabis found in Sakaguchi's car in February weighed a little over 5 grams. [@5,17] Forensic testing later confirmed that the plant fragments were cannabis.
+[@1,2,3,9,11,12,13,18,22] Analysis of Sakaguchi's confiscated smartphone and related records led
 officers to suspect that he had traded cannabis with Yamamoto and several other
-individuals. [@1,2,3,5,11,12,13,15,18] Sakaguchi was reported to use code words including “leaf” and “buds” and to have dealt with multiple customers. [@5] Messages from Yamamoto on the phone included requests reading “roll it for me” and “5 sticks.” [@5,11,17] Police also searched premises linked to Yamamoto and seized smoking implements, glass pipes and syringes. [@3,4,11,16,17,18,20]
+individuals. [@1,2,3,5,11,12,13,15,18,22] Sakaguchi was reported to use code words including “leaf” and “buds” and to have dealt with multiple customers. [@5] Messages from Yamamoto on the phone included requests reading “roll it for me” and “5 sticks.” [@5,11,17,22] Police also searched premises linked to Yamamoto and seized smoking implements, glass pipes and syringes. [@3,4,11,16,17,18,20,22]
