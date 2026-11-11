@@ -45,20 +45,26 @@ sources:
     publisher: Struma.com
     date: 2026-11-10
     language: bg
+  - title: Половин тон марихуана е открита в камион на Кулата, българин е задържан
+    url: https://lupa.bg/news/polovin-ton-marihuana-e-otkrita-v-kamion-na-kulata-balgarin-e-zadarzhan_434427news.html
+    publisher: Lupa.bg
+    date: 2026-11-11
+    language: bg
 open_questions:
-    - Infomrezha called the nearly 500 kg figure unofficial; Struma called it half a tonne, and neither published an official measured weight.
-    - Infomrezha dated the operation to 10 November 2026; Struma, published that evening, said the marijuana was found the night before.
+    - Infomrezha and Lupa reported the nearly 500 kg figure as unofficial or not officially confirmed, and Struma called it half a tonne; no source published an official measured weight.
+    - Infomrezha dated the operation to 10 November 2026; Struma, published that evening, said the marijuana was found the night before, and Lupa reported it on 11 November without a separate incident date.
     - Struma said a Bulgarian driver was detained; no name, charges or court outcome were reported.
-    - Struma put the value at several million euros; no official valuation was published.
+    - Struma and Lupa put the value at several million euros; no official valuation was published.
+    - No information was published on where the truck had set off from, its intended route or who the load was meant for.
     - Separate cigarette-smuggling cases described with the seizure, including a Romanian driver's suspended sentence, are different events left out of this report.
 ---
 
 A joint operation by Bulgaria's Customs Agency, the Ministry of the Interior and
 the prosecution service was carried out at the Kulata border checkpoint, where
 officers stopped a freight truck travelling on the designated entry lane into
-the country. [@1] During the subsequent inspection of the heavy-goods truck
+the country. [@1] The truck was entering Bulgaria from Greece. [@3] During the subsequent inspection of the heavy-goods truck
 combination, the checking officers found nearly 500 kilograms of marijuana in
-the transported load. [@1] The Bulgarian driver was detained. [@2] The marijuana was found in a specially built hide in a freight vehicle driven by a Bulgarian driver. [@2] Infomrezha expressly presented the nearly
+the transported load. [@1] The Bulgarian driver was detained. [@2,3] The marijuana was found in a specially built hide in a freight vehicle driven by a Bulgarian driver. [@2,3] Infomrezha expressly presented the nearly
 500-kilogram quantity as unofficial information provided to its own newsroom
 rather than as a confirmed official measurement. [@1]
 
