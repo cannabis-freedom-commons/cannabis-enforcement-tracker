@@ -118,9 +118,16 @@ sources:
     publisher: LIFE 生活網
     date: 2026-11-11
     language: zh
+  - title: 後座乘客緊握口袋又衝車道 中市二警路檢查獲大麻煙彈
+    url: https://www.pbs.npa.gov.tw/ch/app/data/view?id=18740&module=wg183&serno=26c94139-c33a-4769-8352-320bdbb34fea
+    publisher: 警察廣播電臺臺中分臺
+    date: 2026-11-11
+    language: zh
 open_questions:
   - This account places the checkpoint on Jinnan Street near Shuangshi Road in North District, while the report follows other outlets that place it on Shuangshi Road.
   - This account describes the two 23-year-olds in the back seat as passengers, while other accounts say they were friends of the driver rather than fare-paying passengers.
+  - Police Broadcasting Station quotes Liren deputy chief Zhou Boyi on the restraint, while other accounts say station chief Jiang Zhenjian led the checkpoint.
+  - No count or weight of the cannabis vape cartridges was published.
 ---
 
 Taichung Second Precinct officers were conducting a drink-driving and
@@ -130,16 +137,16 @@ signalled its driver to stop for inspection. [@1,3,4,5,7,10] The vehicle was a d
 taxi driven by a 26-year-old man surnamed Xu, carrying two 23-year-old men
 surnamed Huang and Guan in the back seat. [@1,3,4,5,6,7,8,9,10] Huang and Guan were friends of the driver, not fare-paying passengers. [@3,5,7] Police noted that Huang had a prior criminal record for drug offences. [@4,8,9] Officers restrained Huang after
 he tried to rush into the oncoming lane, and seized cannabis vape cartridges and
-other contraband. [@2,3,4,5,6,7,8,9,10] The case was transferred to the Taichung District
+other contraband. [@2,3,4,5,6,7,8,9,10,11] The case was transferred to the Taichung District
 Prosecutors Office on suspicion of violating the Narcotics Hazard Prevention
-Act, with police saying they would trace the drug source. [@1,3,5,6,7,10]
+Act, with police saying they would trace the drug source. [@1,3,5,6,7,10,11]
 
 Officers found no obvious signs of drug use by the driver and ruled out
 drug-driving on his part. [@1,4,5,7,8,9,10] During the check, officers smelled suspected
 burning ketamine inside the car and asked all three occupants to get out for
-inspection. [@1,4,5,6,7,8,9,10] Huang kept clutching his jacket pocket and behaved unusually
-during the inspection. [@1,4,5,6,7,8,9,10]
+inspection. [@1,4,5,6,7,8,9,10,11] Huang kept clutching his jacket pocket and behaved unusually
+during the inspection. [@1,4,5,6,7,8,9,10,11]
 
 The precinct said it would continue roadside checks and patrols against drugs,
 drink-driving and drug-driving, and asked the public to call 110 about
-suspicious activity. [@1,7,10]
+suspicious activity. [@1,7,10,11]
