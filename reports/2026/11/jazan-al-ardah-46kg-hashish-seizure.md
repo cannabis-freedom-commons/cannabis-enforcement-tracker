@@ -52,18 +52,22 @@ sources:
     publisher: صحيفة الرياض 24
     date: 2026-11-11
     language: ar
+  - title: دوريات حرس الحدود بجازان تتمكن من إحباط تهريب 46 كيلوجراماً من الحشيش المخدر
+    url: https://www.alestad.com/153866/%D8%AF%D9%88%D8%B1%D9%8A%D8%A7%D8%AA-%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D8%A8%D8%AC%D8%A7%D8%B2%D8%A7%D9%86-%D8%AA%D8%AA%D9%85%D9%83%D9%86-%D9%85%D9%86-%D8%A5%D8%AD%D8%A8%D8%A7/
+    publisher: الاستاد الاخباري
+    date: 2026-11-11
+    language: ar
 open_questions:
-  - The articles give no separate date for the interception; 11 November 2026 is the publication date and is used as the incident date.
-  - No suspect was named or described, and the reports give no arrest figure, nationality, charge or court outcome.
-  - No value or street price was given for the 46 kilograms of hashish.
-  - Both outlets carry the Border Guard's statement, and neither links the directorate's own X post, so the account rests on the agency's wording as published by two outlets.
+    - No suspect was named or described, and the reports give no arrest figure, nationality, charge or court outcome.
+    - No value or street price was given for the 46 kilograms of hashish.
+    - All three outlets carry the Border Guard's statement, and none links the directorate's own X post, so the account rests on the agency's wording as published by the outlets.
 ---
 
 Saudi Border Guard land patrols in the Al-Ardah sector of Jazan region foiled an
-attempt to smuggle 46 kilograms of hashish. [@1] The Border Guard said in a
+attempt to smuggle 46 kilograms of hashish. [@1,3] The interception took place on Wednesday, 11 November 2026. [@3] The Border Guard said in a
 statement on its official account on the X platform that initial legal
 procedures had been completed and the seized goods handed to the competent
-authority. [@1]
+authority. [@1,3]
 
 Alriyadh 24 reported the same interception in the Al-Ardah sector, giving the
 same figure of 46 kilograms of hashish and the same statement about the
@@ -71,4 +75,3 @@ completed procedures. [@2] Security agencies urged citizens and residents to
 report information on drug smuggling or promotion through the 911 and 999
 emergency numbers, the anti-narcotics directorate's 995 line and its email
 address. [@1]
-
