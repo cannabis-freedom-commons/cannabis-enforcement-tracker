@@ -60,47 +60,49 @@ sources:
     url: https://www.countytimes.co.uk/news/26520229.powys-man-guilty-supplying-cocaine-ketamine-cannabis
     publisher: County Times
     date: 2026-09-03
+  - title: Powys drug dealer arrested in shed spared jail after kicking habit
+    url: https://www.shropshirestar.com/news/crime/powys-drug-dealer-arrested-shed-jail-kicking-habit-9341056
+    publisher: Shropshire Star
+    date: 2026-11-10
 open_questions:
-  - The article describes the March 2025 search at his Newgate Street home, while the September report describes the cannabis and ketamine possession offences as committed in Cradoc Close, Brecon; the relationship between the two addresses is not explained.
-  - 'The two accounts of the drugs differ: the sentencing report gives 21.7 g of cannabis across two bags (18 g and 3.7 g), while the earlier report gives 21.7 g of cannabis and 27.72 g of ketamine; the report uses the sentencing account.'
-  - The street values are the prosecutor's estimates and the total cannabis value was not stated; the higher figure of £220 for one bag is used.
-  - The earlier report said he would be sentenced at Cardiff Crown Court on 1 October, but sentencing took place at Merthyr Tydfil Crown Court on 9 November; no explanation for the change was published.
-  - The £60 cash was seized but the article does not say whether a forfeiture order was made for it.
-  - Only one outlet's reports of this case were found, and the sentencing article and the September article are the same publisher.
+    - The March 2025 search was at his Newgate Street home, while the September report describes the cannabis and ketamine possession offences as committed in Cradoc Close, Brecon; the relationship between the two addresses is not explained.
+    - The street values are the prosecutor's estimates and no combined cannabis value was stated; the higher figure of £220 for one bag is used.
+    - The earlier report said he would be sentenced at Cardiff Crown Court on 1 October, but sentencing took place at Merthyr Tydfil Crown Court on 9 November; no explanation for the change was published.
+    - The £60 cash was seized, but the reports do not say whether a forfeiture order was made for the cash as well as the drugs and paraphernalia.
+    - Accounts differ on whether the 12-month drug rehabilitation requirement includes monthly court reviews.
 ---
 
 Dylan Mowles, 24, of Newgate Street, Brecon in Powys, was sentenced at Merthyr
 Tydfil Crown Court on Monday 9 November 2026 for supplying cocaine, ketamine and
 cannabis. [@1] He had pleaded guilty at the same court in September to the four
-offences. [@1] The cannabis charges were being concerned in the supply of
+offences. [@1,3] The cannabis charges were being concerned in the supply of
 cannabis between 29 December 2024 and 29 March 2025, and possession with intent
-to supply cannabis on 28 March 2025. [@1] Judge Richard Kember handed him three
-years in prison for supplying cocaine, suspended for three years. [@1]
+to supply cannabis on 28 March 2025. [@1,3] Judge Richard Kember handed him three
+years in prison for supplying cocaine, suspended for three years. [@1,3]
 
 For the other three offences, including the two cannabis charges, he was given
 nine months in custody, suspended for two years, with all sentences running
-concurrently. [@1] Mowles will be subject to 12 months of drug rehabilitation
+concurrently. [@1,3] Mowles will be subject to 12 months of drug rehabilitation
 with monthly court reviews and must complete 200 hours of unpaid work. [@1] The
 judge also agreed to the forfeiture and destruction of the drugs and associated
-paraphernalia, and a victim surcharge must be paid with no order for costs. [@1]
+paraphernalia, and a victim surcharge must be paid with no order for costs. [@1,3]
 
 Police searched his home in Newgate Street, Brecon under a warrant in March 2025
 and arrested him in a garden shed with a bed, TV and games console, where he
-appeared to be living. [@1] Officers seized two bags of cannabis holding 18g and
+appeared to be living. [@1,3] Officers seized two bags of cannabis holding 18g and
 3.7g, which the prosecutor valued at £220 and £20–£40 respectively, alongside
-ketamine, digital scales, two phones and £60 in cash. [@1] Messages on the
+ketamine, digital scales, two phones and £60 in cash. [@1,3] The prosecutor said officers also seized 3.39 grams of ketamine with a street value of £50 to £60 and 24.33 grams of ketamine worth £600 to £1,200. [@3] Messages on the
 examined phones showed customers asking him for Class A and Class B drugs, and a
 tick list was found on his device. [@1]
 
 Prosecutor Alycia Carpanini said Mowles gave a no comment interview; defending,
 Julia Cox said he began using crack cocaine at 17, was essentially homeless and
 spent £500 to £1,000 a week on substances, creating a debt he dealt to pay off.
-[@1] Cox said he had been out of trouble for 12 months, was drug-free, engaged
+[@1] The prosecutor said he has five convictions for seven offences and is subject to two community orders, one for theft and two common assaults and one for possession of a bladed article, and that he is not in breach of those orders. [@3] Cox said he had been out of trouble for 12 months, was drug-free, engaged
 with the drug support group Kaleidoscope, had found supported accommodation and
-worked part-time. [@1]
+worked part-time. [@1,3]
 
 At the September hearing Judge Jeremy Jenkins told Mowles that all sentencing
 options were open and ordered a pre-sentence report, after the defendant
 admitted the cannabis and ketamine possession counts in Cradoc Close, Brecon on
 28 March 2025. [@2]
-
