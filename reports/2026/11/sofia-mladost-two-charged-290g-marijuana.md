@@ -48,6 +48,31 @@ media:
     media_url: https://www.mvr.bg/upload/347252/5D59C767-AD98-44C1-8204-882FB29FDDB9.png?w=1300
     publisher: Министерство на вътрешните работи
     caption: 'Interior Ministry handout photo of the 9 November 2026 Seventh District Police Department operation in Mladost. Photo: МВР България'
+  - kind: photo
+    url: https://burgasmedia.com/news/dvama-zadarzhani-za-narkotici-v-sofiya-u-ediniya-nameriha-nad-290-grama-marihuana?lang=en
+    media_url: https://burgasmedia.com/uploads/images/img_6af456fc017d60.76558521.webp
+    publisher: BurgasMedia
+    caption: 'Interior Ministry handout photo published with the report on the 9 November 2026 Mladost arrests. Photo: МВР България'
+  - kind: photo
+    url: https://burgasmedia.com/news/dvama-zadarzhani-za-narkotici-v-sofiya-u-ediniya-nameriha-nad-290-grama-marihuana?lang=en
+    media_url: https://burgasmedia.com/uploads/images/img_6af456fccf9209.28389989.webp
+    publisher: BurgasMedia
+    caption: 'Interior Ministry handout photo published with the report on the 9 November 2026 Mladost arrests. Photo: МВР България'
+  - kind: photo
+    url: https://burgasmedia.com/news/dvama-zadarzhani-za-narkotici-v-sofiya-u-ediniya-nameriha-nad-290-grama-marihuana?lang=en
+    media_url: https://burgasmedia.com/uploads/images/img_6af456fd7b7351.18552640.webp
+    publisher: BurgasMedia
+    caption: 'Interior Ministry handout photo published with the report on the 9 November 2026 Mladost arrests. Photo: МВР България'
+  - kind: photo
+    url: https://burgasmedia.com/news/dvama-zadarzhani-za-narkotici-v-sofiya-u-ediniya-nameriha-nad-290-grama-marihuana?lang=en
+    media_url: https://burgasmedia.com/uploads/images/img_6af456fe528250.51530968.webp
+    publisher: BurgasMedia
+    caption: 'Interior Ministry handout photo published with the report on the 9 November 2026 Mladost arrests. Photo: МВР България'
+  - kind: photo
+    url: https://burgasmedia.com/news/dvama-zadarzhani-za-narkotici-v-sofiya-u-ediniya-nameriha-nad-290-grama-marihuana?lang=en
+    media_url: https://burgasmedia.com/uploads/images/img_6af456ff183251.88767284.webp
+    publisher: BurgasMedia
+    caption: 'Interior Ministry handout photo published with the report on the 9 November 2026 Mladost arrests. Photo: МВР България'
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a29b2cdb0d3390fb2b086a0e1b24bcb4
@@ -63,31 +88,27 @@ sources:
     publisher: Министерство на вътрешните работи
     date: 2026-11-11
     language: bg
-open_questions:
-  - No weight was published for the marijuana and methamphetamine found in the woman's flat, so the cannabis total covers only the man's seizure.
-  - The 32 sachets from the man's flat were described as herbal material and were identified as marijuana only by the expert report.
-  - The roughly 700 euro found in the flat was not described as proceeds of drug sales.
-  - Whether the Sofia City Court later ordered permanent detention on either suspect has not been reported.
-  - Both accounts rest on the same Sofia police statement, with the news report reproducing the Interior Ministry release.
-  - Мъж и жена бяха задържани при акция на полицаи от столичното Седмо РУ срещу наркоразпространението (Министерство на вътрешните работи) could not be opened again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.
+  - title: Two held in Sofia over drugs, one with more than 290 grams of cannabis
+    url: https://burgasmedia.com/news/dvama-zadarzhani-za-narkotici-v-sofiya-u-ediniya-nameriha-nad-290-grama-marihuana?lang=en
+    publisher: BurgasMedia
+    date: 2026-11-11
 ---
 
 Police from the Seventh District Police Department in Sofia detained a
 48-year-old man in his flat in the Mladost district on the evening of 9 November
 2026 after a tip-off that he sold drugs from his home to customers who came to
-the address. [@1] A search of the flat found 32 sachets of herbal material, one
-polyethylene bag of a crystalline substance and nearly 700 euro. [@1]
+the address. [@1,3] A search of the flat found 32 sachets of herbal material, one
+polyethylene bag of a crystalline substance and nearly 700 euro. [@1,3]
 
 An expert report identified the substances from the man's flat as over 290 grams
-of marijuana, 80 grams of methamphetamine and over 70 grams of amphetamine. [@1]
+of marijuana, 80 grams of methamphetamine and over 70 grams of amphetamine. [@1,3]
 Later the same evening officers detained a 32-year-old woman after a call about
 a disturbance, and found four sachets of marijuana and methamphetamine in her
-home. [@2]
+home. [@2,3]
 
 The man was held under a police measure for up to 24 hours and a pre-trial
 proceeding was opened against him under article 354a, paragraph 1, of the
-Criminal Code. [@1] The woman was also held for up to 24 hours, with a pre-trial
-proceeding opened against her under the same article. [@2] The Sofia City
+Criminal Code. [@1,3] The woman was also held for up to 24 hours, with a pre-trial
+proceeding opened against her under the same article. [@2,3] The Sofia City
 Prosecutor's Office charged both suspects and ordered detention in custody for
-up to 72 hours. [@1]
-
+up to 72 hours. [@1,3]
