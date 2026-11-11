@@ -71,8 +71,8 @@ sources:
 ---
 
 The Alexandria Criminal Court sentenced a worker to 10 years of rigorous
-imprisonment for drug trafficking. [@1,3,4] The court fined him 50,000 Egyptian
-pounds. [@1,3,4] It also ordered him to pay the criminal costs. [@1,3] The defendant,
+imprisonment for drug trafficking. [@1,2,3,4] The court fined him 50,000 Egyptian
+pounds. [@1,2,3,4] It also ordered him to pay the criminal costs. [@1,3] The defendant,
 identified only as M.M.M. and described as a worker, was accused of regularly
 trafficking narcotic drugs, particularly hashish. [@2,3]
 
@@ -81,10 +81,10 @@ been monitoring his activity. [@1] After legal procedures were completed and
 prosecutors issued a warrant, officers arrested him where he was found. [@1,4] He
 was carrying a bag holding 400 slabs of hashish weighing about 18 kilograms in
 the First Ameriya police district. [@1,3,4] Officers also found cash and a mobile
-phone on him. [@1,3,4] He admitted that the hashish was for sale, that the money
+phone on him. [@1,2,3,4] He admitted that the hashish was for sale, that the money
 came from sales, and that the phone was used to contact customers. [@1,3]
 
-The case was registered as No. 16115 of 2026, First Ameriya felonies. [@1,3,4] The
+The case was registered as No. 16115 of 2026, First Ameriya felonies. [@1,2,3,4] The
 verdict was issued by a panel headed by Counsellor Mohamed Abdel Mohsen Hasouma,
 with members Emam Mohamed El-Seirafi, Mohamed Salah El-Din Mahmoud and Ahmed
 Hussein El-Haddad. [@2,4] Prosecutors had referred him to the Alexandria Criminal
