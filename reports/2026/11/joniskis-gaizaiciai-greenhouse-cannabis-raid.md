@@ -42,17 +42,18 @@ sources:
     publisher: Delfi
     date: 2026-11-11
     language: lt
-open_questions:
-    - No figure for the number of plants or the weight of cannabis was published; the report says the amount was still being clarified.
-    - No arrest or detention was reported, so it is unknown whether the man was detained.
-    - No court outcome was reported; the case was at the pre-trial investigation stage.
+  - title: Joniškio rajone vyro namuose ir šiltnamyje rasta kanapių
+    url: https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/11/11/news/joniskio-rajone-vyro-namuose-ir-siltnamyje-rasta-kanapiu-44886549
+    publisher: Lrytas
+    date: 2026-11-11
+    language: lt
 ---
 
 Police officers found unlawful items at the home of a man born in 1985 in
-Gaižaičiai village. [@1,2] In Joniškis district, cultivated cannabis and drying
+Gaižaičiai village. [@1,2,3] In Joniškis district, cultivated cannabis and drying
 parts of the plants were found in the man's residential house, outbuildings and
-greenhouse. [@1,2] The Police Department reported that the plants and dried cannabis were found on 9 November at about 23:10. [@2]
+greenhouse. [@1,2,3] The Police Department reported that the plants and dried cannabis were found on 9 November at about 23:10. [@2]
 
 The amount of cannabis found was still being clarified when the report was
-published. [@1,2] Police opened a pre-trial investigation for unlawful possession
-of narcotic or psychotropic substances without intent to distribute. [@1,2]
+published. [@1,2,3] Police opened a pre-trial investigation for unlawful possession
+of narcotic or psychotropic substances without intent to distribute. [@1,2,3]
