@@ -54,6 +54,11 @@ sources:
     publisher: Rupali Bangladesh
     date: 2026-11-11
     language: bn
+  - title: চাঁদপুরে পুলিশের অভিযানে গ্রেপ্তার ৪৯
+    url: https://www.amarsangbad.com/amp/country/news/364514
+    publisher: The Daily Amar Sangbad
+    date: 2026-11-11
+    language: bn
 open_questions:
     - No names, ages or exact arrest sites were published for the 13 anti-drug arrestees beyond the station-level breakdown.
     - No formal charges, case numbers or court outcomes were reported beyond police saying legal action was taken.
@@ -64,22 +69,22 @@ open_questions:
 ---
 
 Chandpur district police arrested 49 people in a 24-hour special drive across
-the district's police stations on 10 November 2026. [@1,3,4] Fifteen of those held
+the district's police stations on 10 November 2026. [@1,3,4,5] Fifteen of those held
 were leaders and activists of the banned Awami League and its associate
-organisations. [@2,3,4] Thirteen people were arrested in the anti-drug part of the
-drive. [@1,3,4]
+organisations. [@2,3,4,5] Thirteen people were arrested in the anti-drug part of the
+drive. [@1,3,4,5]
 
 Officers recovered 200 grams of ganja from one person in Hajiganj, alongside 36
-yaba tablets recovered across the district. [@1,3,4] In the yaba recoveries,
+yaba tablets recovered across the district. [@1,3,4,5] In the yaba recoveries,
 Faridganj police seized 23 pieces from three people, Matlab Dakshin police
 seized 10 pieces from two people, and Shahrasti police seized three pieces from
-one person. [@1,3,4] Chandpur Sadar Model police arrested six drug users with no
-seizure reported for them. [@1,3,4]
+one person. [@1,3,4,5] Chandpur Sadar Model police arrested six drug users with no
+seizure reported for them. [@1,3,4,5]
 
 Police also detained 37 teenagers in an anti-teen-gang drive across seven police
-stations. [@1,3,4] Thirty-five of the detained teenagers were handed to their
-families after checks, with legal action taken against the remaining two. [@2,3,4]
+stations. [@1,3,4,5] Thirty-five of the detained teenagers were handed to their
+families after checks, with legal action taken against the remaining two. [@2,3,4,5]
 The drive ran on the instructions of Police Superintendent Md Mizanur Rahman,
 and the figures were released on the morning of 11 November by the
 superintendent's media cell with legal action reported against those arrested.
-[@1,3,4]
+[@1,3,4,5]
