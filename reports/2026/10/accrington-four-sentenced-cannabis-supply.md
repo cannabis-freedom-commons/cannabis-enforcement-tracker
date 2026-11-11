@@ -74,40 +74,38 @@ sources:
     url: https://news.lancashire.police.uk/news/2026/november/three-men-sentenced-for-drug-offences-in-accrington/
     publisher: Lancashire Constabulary
     date: 2026-11-11
-open_questions:
-  - No weight of cannabis and no plant count were published.
-  - The exact day of the April 2024 stop on Lonsdale Street was not given.
-  - David Steele's community order was imposed at an earlier hearing whose date was not given, and the opening lines say three men were sentenced while the headline and the four outcomes together describe four men.
-  - The cannabis in three of Tahir's vehicles was valued only as more than £15,000, separate from the £800 in the car Azad was driving, so no single total is recorded.
-  - The hearing year is not printed in the body; 2026 is taken from the 11 November 2026 publication of both accounts, which call 23 October a Friday.
+  - title: Four men sentenced after £15,000 cannabis haul found in Accrington vehicles
+    url: https://uk.news.yahoo.com/four-men-sentenced-15-000-134744721.html
+    publisher: Yahoo News UK (Lancashire Telegraph)
+    date: 2026-11-11
+    language: en
 ---
 
 Three men were sentenced for their roles in a cannabis supply operation in
-Accrington, and a fourth man received a community order. [@1] They appeared at
-Burnley Crown Court on Friday 23 October 2026 for sentencing. [@1] Ihsan Tahir,
+Accrington, and a fourth man received a community order. [@1,3] They appeared at
+Burnley Crown Court on Friday 23 October 2026 for sentencing. [@1,3] Ihsan Tahir,
 26, of Steiner Street, Accrington, was sentenced to 34 months in prison,
-suspended for 21 months. [@1] Haroon Azad, 32, of Russia Street, Accrington,
-received 32 weeks in prison, suspended for 12 months. [@1] Adil Hussain, 32, of
+suspended for 21 months. [@1,3] Haroon Azad, 32, of Russia Street, Accrington,
+received 32 weeks in prison, suspended for 12 months. [@1,3] Adil Hussain, 32, of
 Empress Street, Accrington, was given 32 weeks in prison, suspended for 12
-months. [@1] David Steele, 31, of Barden Lane, Burnley, had pleaded guilty to
+months. [@1,3] David Steele, 31, of Barden Lane, Burnley, had pleaded guilty to
 being concerned in the supply of cannabis and was given a 12-month community
-order. [@1] Lancashire Police said Steele had pleaded guilty at an earlier court
-appearance. [@2]
+order. [@1,3] Lancashire Police said Steele had pleaded guilty at an earlier court
+appearance. [@2,3]
 
 The investigation began in April 2024 when police stopped a vehicle driven by
 Haroon Azad on Lonsdale Street after noticing suspicious behaviour from one of
-the occupants. [@1] A search of the car uncovered 80 snap bags of cannabis with
-a street value of £800. [@1] Azad was arrested on suspicion of possession of
-cannabis with intent to supply. [@1] Forensic enquiries linked Azad to Ihsan
+the occupants. [@1,3] A search of the car uncovered 80 snap bags of cannabis with
+a street value of £800. [@1,3] Azad was arrested on suspicion of possession of
+cannabis with intent to supply. [@1,3] Forensic enquiries linked Azad to Ihsan
 Tahir, Adil Hussain and David Steele, all of whom were subsequently arrested.
-[@1]
+[@1,3]
 
 Four vehicles belonging to Tahir were seized, and three were found to contain
 large quantities of cannabis with a combined street value of more than £15,000.
-[@1] A mobile phone recovered from Tahir contained messages consistent with drug
-supply. [@1] All four men were charged with offences related to the supply of
-cannabis and pleaded guilty before trial. [@1] Lancashire Police described the
+[@1,3] A mobile phone recovered from Tahir contained messages consistent with drug
+supply. [@1,3] All four men were charged with offences related to the supply of
+cannabis and pleaded guilty before trial. [@1,3] Lancashire Police described the
 offences as the supply of Class B drugs. [@2] PC Paul Wolstenholme of the
 Hyndburn Neighbourhood Task Force said the force remained committed to
-disrupting the drugs trade. [@1]
-
+disrupting the drugs trade. [@1,3]
