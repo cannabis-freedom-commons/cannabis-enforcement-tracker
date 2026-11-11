@@ -61,6 +61,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-10
     language: tr
+  - title: Bitlis Güroymak'ta taksinin bagajında 1 kilo 50 gram esrar bulundu, zanlı tutuklandı
+    url: https://www.sondakika.com/amp/haber-bitlis-guroymak-ta-taksinin-bagajinda-1-kilo-50-gr-20413977/
+    publisher: Son Dakika
+    date: 2026-11-10
+    language: tr
 media:
   - kind: photo
     url: https://www.adanamasasi.com/bitlis-te-ticari-takside-uyusturucu-ele-gecirildi-1-tutuklama/830558/
@@ -71,17 +76,17 @@ media:
 
 On 5 November, Bitlis provincial gendarmerie teams working against drug sellers
 stopped a taxi at the truck park at the Tahtali village location in Guroymak.
-[@1,2,4,5,6,7,8] A search of the stopped taxi found a can in its trunk containing 1 kilo 50
-grams of esrar, the Turkish word the source uses for cannabis. [@1,5,8,9] The seized 1
+[@1,2,4,5,6,7,8,10] A search of the stopped taxi found a can in its trunk containing 1 kilo 50
+grams of esrar, the Turkish word the source uses for cannabis. [@1,5,8,9,10] The seized 1
 kilo 50 grams amounts to 1.05 kilograms of cannabis taken from the taxi luggage
-compartment in Guroymak, Bitlis. [@1,7] Officers detained one suspect over the
+compartment in Guroymak, Bitlis. [@1,7,10] Officers detained one suspect over the
 trunk-can find, and the judgeship before which the suspect was brought ordered
-remand in custody. [@1,2,3,5,7,8,9]
+remand in custody. [@1,2,3,5,7,8,9,10]
 
 The Bitlis Governorate said the work was carried out by Il Jandarma Komutanligi
 teams under the coordination of the Bitlis Chief Public Prosecutor's Office and
-targeted drug sellers. [@1,3,5,8] The governorate presented the 5 November taxi stop
+targeted drug sellers. [@1,3,5,8,10] The governorate presented the 5 November taxi stop
 and trunk search as one result of that coordinated anti-seller work in the
-Guroymak district of Bitlis province. [@1] The account identifies the control
+Guroymak district of Bitlis province. [@1,10] The account identifies the control
 point as the truck park in the Tahtali village area and the searched vehicle as
-a taxi. [@1,2,3,4,6,9]
+a taxi. [@1,2,3,4,6,9,10]
