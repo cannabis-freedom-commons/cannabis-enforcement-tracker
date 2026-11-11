@@ -64,22 +64,27 @@ sources:
     publisher: BurgasMedia
     date: 2026-11-11
     language: bg
+  - title: 'Три полицейски случая в Бургаско: Кражба, канабис и двама задържани'
+    url: https://dnesbulgaria.com/%D1%82%D1%80%D0%B8-%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B5%D0%B9%D1%81%D0%BA%D0%B8-%D1%81%D0%BB%D1%83%D1%87%D0%B0%D1%8F-%D0%B2-%D0%B1%D1%83%D1%80%D0%B3%D0%B0%D1%81%D0%BA%D0%BE-%D0%BA%D1%80%D0%B0%D0%B6/
+    publisher: Днес България
+    date: 2026-11-11
+    language: bg
 ---
 
 Officers of the district administration in Ruen stopped and checked a
-35-year-old man from Cheresha village on 10 November 2026. [@1] Police detained
-the 35-year-old and opened fast-track proceedings against him. [@1] Iskra
+35-year-old man from Cheresha village on 10 November 2026. [@1,7] Police detained
+the 35-year-old and opened fast-track proceedings against him. [@1,7] Iskra
 reported the Ruen check was carried out the previous day by officers of the
 district administration in Ruen. [@4] In Sozopol, officers of the local district
 administration checked a 49-year-old man who was described as having a criminal
-record. [@1] The 49-year-old Sozopol man was detained for up to 24 hours. [@1]
+record. [@1,7] The 49-year-old Sozopol man was detained for up to 24 hours. [@1,7]
 EraNova also reported the arrest of the 49-year-old resident in Sozopol. [@3]
 
 In Ruen, officers found and seized dry herbal material identified as cannabis
-weighing about 4 grams. [@1] In Sozopol, officers seized two hand-rolled
+weighing about 4 grams. [@1,7] In Sozopol, officers seized two hand-rolled
 cigarettes containing dry green leaf material and a metal grinder with the same
-substance. [@1] The total weight of the marijuana found in Sozopol was about 3
-grams. [@1,5,6] Police seized about 7 grams of cannabis and marijuana in total
+substance. [@1,7] The total weight of the marijuana found in Sozopol was about 3
+grams. [@1,5,6,7] Police seized about 7 grams of cannabis and marijuana in total
 across the two incidents. [@1]
 
 The Interior Ministry bulletin for Burgas stated that the Sozopol check was
