@@ -63,6 +63,11 @@ sources:
     publisher: Presseportal / Hauptzollamt Rosenheim
     date: 2026-11-11
     language: de
+  - title: 'Ainring: Zoll stellt ein Kilogramm Marihuana und 200 Gramm Haschisch sicher'
+    url: https://innpuls.me/ainring-zoll-stellt-ein-kilogramm-marihuana-und-200-gramm-haschisch-sicher/
+    publisher: Innpuls.me
+    date: 2026-11-11
+    language: de
 open_questions:
     - No exact date for the check was given, only that it happened recently; 11 November 2026 is the publication date of the customs statement and is used as the incident date.
     - The cannabis weights are approximate, about one kilogram of marijuana flowers and together about 200 grams of hashish.
@@ -74,14 +79,14 @@ open_questions:
 Customs officers stopped two men in a car during a check in Hausmoning at the
 border with Austria. [@1] When the officers stopped the vehicle, the passenger
 tried to flee on an e-scooter that had been parked next to the car, planning to
-escape over the footbridge toward Austria. [@1,2] His intended escape route led
+escape over the footbridge toward Austria. [@1,2,4] His intended escape route led
 over the footbridge toward Austria, but customs stopped him. [@1] The officers
-arrested both people and initiated criminal proceedings. [@1,3]
+arrested both people and initiated criminal proceedings. [@1,3,4]
 
 In the footwell on the passenger side, officers found a bag with about one
 kilogram of marijuana flowers and two blocks of hashish weighing together about
-200 grams. [@1,2] The passenger had additionally hidden 2800 euros in his shoes.
-[@1,2] The officers seized the drugs and the money. [@1,3]
+200 grams. [@1,2,4] The passenger had additionally hidden 2800 euros in his shoes.
+[@1,2,4] The officers seized the drugs and the money. [@1,3,4]
 
 A patrol of the Traunstein road-control unit carried out the check at Hausmoning
 in the municipality of Ainring directly at the Austrian border, as the Rosenheim
