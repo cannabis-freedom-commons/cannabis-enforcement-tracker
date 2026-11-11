@@ -85,30 +85,36 @@ sources:
     publisher: 福島民報デジタル
     date: 2026-11-11
     language: ja
+  - title: ブレイキングダウン「ダイスケ」容疑者ら2人を大麻売買疑いで逮捕
+    url: https://www.zakzak.co.jp/article/20261111-H4SBH2W4IVFM3JIQB62ZMVVIFE/
+    publisher: zakⅡ
+    date: 2026-11-11
+    language: ja
 open_questions:
     - The weight of the item in the December 2025 transaction was not reported; about 5 grams was reported only for the cannabis found in the February 2026 car search.
     - The exact arrest dates were not given; 11 November 2026 is the articles' publication date and stands in for the event date.
     - It is unclear whether the item in the December transaction was itself tested or only presented as cannabis.
     - Whether the other people reportedly involved were arrested or charged is not known.
     - Charges, court proceedings and any sentences after the arrests were not reported.
+    - Reports differ on whether the alleged transaction took place on 25 December 2023 or 25 December 2025, and whether the car search occurred in February 2024 or February 2026.
 ---
 
 Osaka prefectural police arrested Daisuke Yamamoto, a 37-year-old man of no
 known occupation from Ikuno Ward in Osaka, and Masaru Sakaguchi, a 60-year-old
 beautician from the same ward, on suspicion of violating the Narcotics Special
-Provisions Law and related offences. [@1,2,3,4,5,7,8,10] The arrests, over the alleged purchase
+Provisions Law and related offences. [@1,2,3,4,5,7,8,10,11] The arrests, over the alleged purchase
 and sale of goods presented as cannabis, were announced by 11 November 2026.
-[@1,2,3] Police did not disclose whether the two men admitted the allegations. [@5] According to the police, Yamamoto had previously competed in BreakingDown,
-a mixed-rules combat sports event popular primarily among young people. [@1,2,3,6]
+[@1,2,3,11] Police did not disclose whether the two men admitted the allegations. [@5] According to the police, Yamamoto had previously competed in BreakingDown,
+a mixed-rules combat sports event popular primarily among young people. [@1,2,3,6,11]
 
 Investigators alleged that in December 2025, Yamamoto received an item as
 cannabis from Sakaguchi for 10,000 yen in the city of Osaka. [@1,2,3,4,5,9] The alleged handover occurred on 25 December 2025 at just after noon in Ikuno Ward. [@5] Sakaguchi is
 suspected of transferring the item in that transaction and engaging in related
-illicit dealings. [@1,2,3]
+illicit dealings. [@1,2,3,11]
 
 In February 2026, police officers stopped and questioned Sakaguchi during a
 routine patrol and discovered plant material inside the car he was occupying.
 [@1,2,3,4,5,9] The cannabis found in Sakaguchi's car in February weighed a little over 5 grams. [@5] Forensic testing later confirmed that the plant fragments were cannabis.
-[@1,2,3,9] Analysis of Sakaguchi's confiscated smartphone and related records led
+[@1,2,3,9,11] Analysis of Sakaguchi's confiscated smartphone and related records led
 officers to suspect that he had traded cannabis with Yamamoto and several other
-individuals. [@1,2,3,5] Sakaguchi was reported to use code words including “leaf” and “buds” and to have dealt with multiple customers. [@5] Messages from Yamamoto on the phone included requests reading “roll it for me” and “5 sticks.” [@5] Police also searched premises linked to Yamamoto and seized smoking implements, glass pipes and syringes. [@3,4]
+individuals. [@1,2,3,5,11] Sakaguchi was reported to use code words including “leaf” and “buds” and to have dealt with multiple customers. [@5] Messages from Yamamoto on the phone included requests reading “roll it for me” and “5 sticks.” [@5,11] Police also searched premises linked to Yamamoto and seized smoking implements, glass pipes and syringes. [@3,4,11]
