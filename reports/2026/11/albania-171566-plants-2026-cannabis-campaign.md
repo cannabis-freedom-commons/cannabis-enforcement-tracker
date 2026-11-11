@@ -59,15 +59,10 @@ sources:
     publisher: Shqiptarja.com
     date: 2026-11-10
     language: sq
-open_questions:
-  - The figures cover nationwide operations carried out across 2026 prior to the 10 November 2026 announcement in Tirana, so 10 November stands in as the report date rather than any single raid.
-  - Authorities reported 171,566 narcotic plants found and destroyed alongside 132,000 cannabis seedlings intercepted before planting in the ground, without stating whether the seedlings are included within or separate from the 171,566 total.
-  - Police gave 165 perpetrators for cultivation overall, while the published breakdown of 70 arrested, 51 detained, 13 proceeded against at liberty and 34 declared wanted sums to 168.
-  - Because the 165-person cultivation figure mixes arrests, detentions, proceedings at liberty and wanted suspects alongside 89 prosecuted officials, no single arrested or charged count is recorded in the structured figures.
-  - No breakdown by district beyond general references to Shkodër, Krujë, Mirditë and Tropojë, and no total area in hectares or weight of dried cannabis in kilograms, was published.
-  - The 31 school-perimeter drug-sale operations addressed all narcotics including hard drugs, and authorities published no separate cannabis weight, dose count or arrest figure for those operations.
-  - No names of suspects, specific criminal sentences or court verdicts were released, and 34 cultivation suspects and four officials remained wanted.
-  - Although seeds intended for cultivation were seized, no count or weight of seized seeds and no estimate of the destroyed crop's street value were published.
+  - title: Results of Italian aerial surveillance operations against cannabis presented in Tirana - News from Embassies - Ansa.it
+    url: https://www.ansa.it/english/news/news_from_embassies/2026/11/11/results-of-italian-aerial-surveillance-operations-against-cannabis-presented-in-tirana_85954760-0b05-486f-a28a-97b9e6fc5d49.html
+    publisher: Agenzia ANSA
+    date: 2026-11-11
 ---
 
 Albanian authorities arrested, detained or prosecuted 165 people in connection
@@ -80,7 +75,7 @@ crimes. [@2] Among those 89 officials, five were arrested, 12 were detained, 68
 were proceeded against at liberty and four were declared wanted. [@4]
 
 Across those cultivation cases, officers found and destroyed 171,566 narcotic
-plants in total. [@4] Data presented at the annual conference showed about
+plants in total. [@4] Aerial surveillance covered 67% of Albanian territory, identified 1,301 cannabis plantations, and enabled police to uproot and destroy 105,732 plants. [@5] Data presented at the annual conference showed about
 32,000 fewer destroyed plants than in the previous year. [@4] Police also
 identified 132,000 cannabis seedlings before cultivation, compared with 17,447 a
 year earlier. [@1] State Police Director General Skënder Hita said preventive
@@ -89,9 +84,9 @@ or newly planted in the ground. [@2] Officers also disrupted 17 cases of indoor
 cannabis cultivation using grow lamps. [@2]
 
 Hita presented the 2026 anti-cultivation and school-perimeter efforts during a
-joint conference with Italy's Guardia di Finanza. [@1] Interior Minister Ervin
+joint conference with Italy's Guardia di Finanza. [@1,5] The activities were funded by the Department and coordinated by the Central Directorate of Criminal Police through the Service for International Police Cooperation (SCIP), with the Guardia di Finanza General Command and scientific input from the Benecon Consortium. [@5] The results came from the fifteenth edition of the aerial surveillance campaign. [@5] Interior Minister Ervin
 Demo, Italian Ambassador Marco Alberti and senior Italian police and Guardia di
-Finanza officials joined the conference in Tirana. [@3] Police deployed 84
+Finanza officials joined the conference in Tirana. [@3,5] The presentation was also attended by public-order director Dhimitraq Ziu for Albania and by SCIP Director Lorenzo Bucossi and Guardia di Finanza Brigadier General Giancarlo Franzese for Italy. [@5] Police deployed 84
 drones to monitor territory, flew 62 aerial missions with Guardia di Finanza, 10
 more than in 2025, and inspected remote mountain areas with military helicopters
 seven times. [@1] Shkodër County accounted for the largest share of destroyed
@@ -109,4 +104,3 @@ cooperation among police, the Education Ministry, school leaders, security
 officers, teachers and parents. [@1] For 2027, police said they will strengthen
 inspections and investigations to identify drug-seed import networks and target
 those organising and financing illegal cultivation. [@1]
-
