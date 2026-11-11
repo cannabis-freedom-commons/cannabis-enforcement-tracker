@@ -152,34 +152,34 @@ sources:
     publisher: Novosti-N
     date: 2026-11-02
     language: ru
+  - title: У Миколаєві вилучили 8 кг канабісу, чоловіку загрожує 12
+    url: https://khersonline.net/kriminal/u-mykolayevi-zatrymaly-cholovika-z-mayzhe-8-kh/
+    publisher: Херсон Онлайн
+    date: 2026-11-10
+    language: uk
 open_questions:
-  - The article gives only its 2 November publication/announcement date and no separate date for the detention or search, so the report uses 2 November 2026.
-  - The weight is stated only as almost and about 8 kilograms and is recorded as 8 kg.
-  - The city neighbourhood where sales allegedly occurred is not named.
-  - The 1,800 and 3,000 hryvnia payments and 499,200 hryvnia bail are hryvnia sums in the text and are not recorded as drug value or fine.
-  - A same-day Mykolaiv sentence report involving 14 plants and more than 8 kg appears to be a different case on bail, charges and procedural stage, but identity overlap cannot be fully excluded from this article alone.
-  - Only one source for this detention was opened; no agency statement or second outlet confirming it was found.
-  - The article gives only its 2 November 2026 publication date and no separate date for the detention or searches, so the report date remains 2 November 2026.
-  - The weight is stated only as about 8 kilograms and is recorded as 8 kg.
-  - The article gives only its 2 November 2026 publication date and no separate date for the detention or searches.
-  - The weight is stated only as about eight kilograms and is recorded as 8 kg.
+    - The article gives only the 2 November police announcement date and no separate date for the detention or search, so the report uses 2 November 2026.
+    - The weight is stated only as almost or about 8 kilograms and is recorded as 8 kg.
+    - The city neighbourhood where sales allegedly occurred is not named.
+    - The 1,800 and 3,000 hryvnia payments and 499,200 hryvnia bail are procedural sums in the text and are not recorded as drug value or fine.
+    - A same-day Mykolaiv sentence report involving 14 plants and more than 8 kg appears to be a different case on bail, charges and procedural stage, but identity overlap cannot be fully excluded.
 ---
 
 Police in Mykolaiv detained a 44-year-old man suspected of illegally selling
-cannabis. [@1,3,8,11,13,15] Investigators say he sold cannabis among acquaintances in one of
+cannabis. [@1,3,8,11,13,15,17] Investigators say he sold cannabis among acquaintances in one of
 the city's neighbourhoods, processing the substance himself, packaging it and
-arranging meeting times and places with buyers. [@1,13] Officers documented two
-sales for which he received 1,800 and 3,000 hryvnias. [@1,2,5,7,8,10,11,15,16]
+arranging meeting times and places with buyers. [@1,13,17] Officers documented two
+sales for which he received 1,800 and 3,000 hryvnias. [@1,2,5,7,8,10,11,15,16,17]
 
 During a search of his place of residence, officers seized almost 8 kilograms of
-cannabis kept at the home. [@1,2,3,4,6,7,8,9,10,11,12,13,14,15,16] Officers also seized electronic scales,
+cannabis kept at the home. [@1,2,3,4,6,7,8,9,10,11,12,13,14,15,16,17] Officers also seized electronic scales,
 packaging material, mobile phones and money found with the cannabis during the
-same home search. [@1,4,5,13,16]
+same home search. [@1,4,5,13,16,17]
 
 Police notified him of suspicion of illegal production, manufacture or storage
-for sale on an especially large scale or repeated sale of narcotics. [@1] A
+for sale on an especially large scale or repeated sale of narcotics. [@1,17] A
 court ordered that he be held in custody with the possibility of posting 499,200
-hryvnias bail while the pre-trial investigation continues. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15] The offence
-carries up to 12 years' imprisonment with confiscation of property. [@1,2,4,6,7]
+hryvnias bail while the pre-trial investigation continues. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17] The offence
+carries up to 12 years' imprisonment with confiscation of property. [@1,2,4,6,7,17]
 
 He was detained immediately after another cannabis sale. [@2,4,5,6,9,10,12,13,14,16] Authorised searches were carried out both at his registered address and at his actual residence. [@2,4,5,10,16] The money seized included money in national and foreign currency. [@2]
