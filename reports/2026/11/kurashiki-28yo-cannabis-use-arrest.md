@@ -44,6 +44,11 @@ sources:
     publisher: KSB瀬戸内海放送
     date: 2026-11-11
     language: ja
+  - title: 大麻を使用した疑いで倉敷市の会社員の男（28）を逮捕【岡山】
+    url: https://newsdig.tbs.co.jp/articles/-/3077577
+    publisher: TBS NEWS DIG
+    date: 2026-11-11
+    language: ja
 open_questions:
   - No weight, laboratory result, or other detail was published for the cannabis-liquid-like item and smoking implements found during the 31 August questioning.
   - The exact place and manner by which the cannabis was ingested were described only as ingestion by some means.
@@ -51,7 +56,7 @@ open_questions:
 ---
 
 A 28-year-old company employee from Futago, Kurashiki, was arrested on suspicion
-of violating the Narcotics Control Law by using cannabis. [@1] Tamashima Police
+of violating the Narcotics Control Law by using cannabis. [@1,3] Tamashima Police
 Station said the arrest took place on 11 November. [@2]
 
 He is suspected of ingesting cannabis by some means between 23 May and 31 August
@@ -65,4 +70,3 @@ noticing suspicious driving and found him with implements for smoking cannabis.
 Questioned by police, the man admitted the allegation, saying there was no doubt
 that he had used cannabis of his own will. [@2] Police said they are
 investigating how he obtained the cannabis. [@2]
-
