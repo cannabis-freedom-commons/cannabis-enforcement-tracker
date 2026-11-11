@@ -45,11 +45,11 @@ sources:
     publisher: Annahar
     date: 2026-11-10
     language: ar
-open_questions:
-  - No plant count, cannabis weight or crop value was published.
-  - No arrests, suspects, charges or search-record outcomes for the 10 November Marjhine operation were reported.
-  - Whether the 255-dunam year-to-date total includes the previously reported 180-dunam Jabab al-Hamr, 60-dunam al-Kanisa and 9,700-sq-m Zarzir-Ainata operations was not stated.
-  - The whole account rests on one opened Annahar report citing an unnamed security source; no agency statement or second account was found.
+  - title: '''توافق'' على ملء الفراغ بعد اليونيفيل جنوباً... روبيو: يمكن أن تكون قوة مدنية لا عسكرية | النهار'
+    url: https://www.annahar.com/lebanon/365403/%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%B9%D9%84%D9%89-%D9%85%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%BA-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%8A%D9%88%D9%86%D9%8A%D9%81%D9%8A%D9%84-%D8%AC%D9%86%D9%88%D8%A8%D8%A7-%D8%B1%D9%88%D8%A8%D9%8A%D9%88-%D9%8A%D9%85%D9%83%D9%86-%D8%A3%D9%86-%D8%AA%D9%83%D9%88%D9%86-%D9%82%D9%88%D8%A9-%D9%85%D8%AF%D9%86%D9%8A%D8%A9-%D9%84%D8%A7-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9
+    publisher: Annahar
+    date: 2026-11-10
+    language: ar
 ---
 
 Bulldozers of the Lebanese Army and the Internal Security Forces crushed large
@@ -57,7 +57,7 @@ areas of cannabis, from the Hermel highlands and Jabab al-Hamr to open plains in
 villages west of Baalbek including Shmstar, Tariya, Buday, Flaoui, Deir al-Ahmar
 and Yamoune. [@1] A security source told Annahar that planted areas eradicated
 from the start of 2026 to 10 November 2026 totalled 255 dunams, about 25.5
-hectares, in Baalbek-Hermel governorate. [@1] The source said the latest
+hectares, in Baalbek-Hermel governorate. [@1,2] The source said the latest
 eradication operation took place on Tuesday morning in Jerd Marjhine in Hermel.
 [@1]
 
@@ -71,4 +71,3 @@ Canadian, Jordanian or other foreign companies of unknown nationality. [@1]
 Those claims proved illusory, and families borrowed heavily to plant in the
 belief the crop had become legal, only for official bulldozers to destroy a crop
 that remained unlawful. [@1]
-
