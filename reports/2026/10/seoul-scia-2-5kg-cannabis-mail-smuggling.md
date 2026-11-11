@@ -71,6 +71,11 @@ sources:
     publisher: BBS NEWS
     date: 2026-11-11
     language: ko
+  - title: 중수청 '1호 구속' 동남아 국적 대마 밀수범 재판행
+    url: https://www.newsis.com/view/NISX20261111_0003863867
+    publisher: 뉴시스
+    date: 2026-11-11
+    language: ko
 ---
 
 The Seoul Serious Crime Investigation Agency's narcotics bureau transferred a
@@ -84,7 +89,7 @@ The agency applied for a detention warrant on 17 October because of the scale of
 the smuggling and risk of evidence destruction and flight, the prosecution
 office requested it the next day, and the court issued it the same day for those
 reasons. [@2,5] The transfer was the agency's first case of handing a detained
-suspect to a prosecution office since its launch. [@3,4,6,7] The Incheon District Prosecution Office indicted A under detention around the end of October 2026 on cannabis charges under the Narcotics Control Act, sending him to trial. [@5,6,7]
+suspect to a prosecution office since its launch. [@3,4,6,7] The Incheon District Prosecution Office indicted A under detention around the end of October 2026 on cannabis charges under the Narcotics Control Act, sending him to trial. [@5,6,7,8]
 
 In its first-month tally, the Seoul office counted three drug cases among four
 total transfers to the prosecution service, including this 23 October cannabis
