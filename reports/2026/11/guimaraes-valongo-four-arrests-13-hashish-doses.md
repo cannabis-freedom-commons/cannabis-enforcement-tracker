@@ -75,6 +75,11 @@ sources:
     publisher: Braga TV
     date: 2026-11-10
     language: pt
+  - title: GNR detém quatro suspeitos de tráfico de droga em Guimarães e Valongo após um ano de investigação
+    url: https://observador.pt/2026/11/11/gnr-detem-quatro-suspeitos-de-trafico-de-droga-em-guimaraes-e-valongo-apos-um-ano-de-investigacao/
+    publisher: Observador
+    date: 2026-11-11
+    language: pt
 open_questions:
   - No weight in grams or street value was published for the 13 doses of hashish, so no cannabis weight or drug value is recorded.
   - The 79 doses of cocaine and six doses of heroin are part of the same seizure but are not cannabis and are excluded from cannabis counts.
@@ -87,10 +92,10 @@ open_questions:
 
 Portugal's National Republican Guard (GNR) arrested four men aged between 24 and
 69 on Monday 9 November 2026 in an anti-drug trafficking operation across the
-municipalities of Guimarães and Valongo. [@1,5] The operation targeted a group
+municipalities of Guimarães and Valongo. [@1,5,6] The operation targeted a group
 suspected of handling the entire trafficking supply chain, from buying drugs to
 selling them to consumers, in Guimarães in Braga district and Valongo in Porto
-district. [@4] The Criminal Investigation Unit of the GNR's Guimarães detachment
+district. [@4,6] The Criminal Investigation Unit of the GNR's Guimarães detachment
 under the Braga Territorial Command carried out 11 searches: six at homes, four
 in vehicles and one at a workshop. [@1] Following an investigation of about a
 year, the 11 searches led to the four men's detention on suspicion of drug
@@ -98,8 +103,8 @@ trafficking. [@2]
 
 Officers seized 13 doses of hashish, 79 doses of cocaine, six doses of heroin
 and 5,225 euros in cash, along with a .32-calibre revolver, a 12-gauge shotgun
-and six .32-calibre rounds. [@1] Authorities also confiscated three precision
-scales, eight mobile phones and two SIM cards. [@3,5] About 200 officers from the
+and six .32-calibre rounds. [@1,6] Authorities also confiscated three precision
+scales, eight mobile phones and two SIM cards. [@3,5,6] About 200 officers from the
 GNR and the Public Security Police (PSP), Portugal's civil police force, took
 part in the operation. [@3] GNR reinforcements came from the Viana do Castelo,
 Porto and Vila Real territorial commands, the Braga Intervention Detachment and
@@ -108,6 +113,6 @@ Unit and its Braga district and Porto metropolitan commands. [@2]
 
 Two of the detainees were released under a Termo de Identidade e Residência, an
 identity and residence obligation requiring them to keep authorities informed of
-their whereabouts. [@1,5] The other two were to be brought before an investigating
+their whereabouts. [@1,5,6] The other two were to be brought before an investigating
 judge at the Judicial Court of Guimarães on Tuesday 10 November for a first
 judicial interrogation to set coercive measures. [@1,5]
