@@ -73,6 +73,11 @@ media:
     media_url: https://webcdn.guangming.com.my/wp-content/uploads/2026/11/e585a8e59bbdefbc8fe4b8b9e5b79ee8ada6e696b9e7a0b4e88eb7e4b880e8b5b7e588a9e794a8e5bfabe98092e69c8de58aa1e8b7a8e5b79ee58886e99480e6af92-2-300x225.webp
     publisher: Guang Ming Daily
     caption: 'One of the seized parcel boxes containing dried plant material suspected to be cannabis flowers. Photo: Guang Ming Daily'
+  - kind: photo
+    url: https://www.kosmo.com.my/2026/11/10/nahas-bongkar-kegiatan-haram-pengedar-dadah/
+    media_url: https://www.kosmo.com.my/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-10-at-5.28.03-PM-e1794303738197-1536x891.jpeg
+    publisher: Kosmo Online
+    caption: 'Kelantan police chief Mohd Yusoff, third from left, showing packages of compressed ganja seized in the Tanah Merah case at a press conference at police headquarters in Kota Bharu. Photo: Rohana Mohd Nawi/Kosmo!'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 87c14ccbbbce55490aaed7285be2536a
@@ -120,6 +125,11 @@ sources:
     url: https://www.nst.com.my/news/regional/2026/11/1574777/telco-shop-used-drug-distribution-hub-90kg-cannabis-seized?source=widget
     publisher: New Straits Times
     date: 2026-11-10
+  - title: Nahas bongkar kegiatan haram pengedar dadah
+    url: https://www.kosmo.com.my/2026/11/10/nahas-bongkar-kegiatan-haram-pengedar-dadah/
+    publisher: Kosmo Online
+    date: 2026-11-10
+    language: ms
 open_questions:
     - Accounts mostly date the operation to Sunday 8 November 2026 with remand from 9 to 15 November, though one report described it as taking place the previous day.
     - No individual weight was published for each of the 12 compressed-ganja boxes found at the telecommunications shop.
@@ -127,9 +137,9 @@ open_questions:
     - No charge or court outcome was reported; the suspect was remanded until 15 November under investigation for trafficking.
     - The three other suspected syndicate members were not named, and no further description beyond their believed flight to a neighbouring country was given.
     - Which neighbouring country the drugs were brought from was not named, only an illegal base around Lalang Pepuyu via the Sungai Golok.
-    - Accounts differ on whether the reported RM279,902 total covers only the cannabis or includes RM154 for 14 yaba pills.
-    - Accounts differ on whether the suspect's car skidded off the road or overturned, and on where in the car the yaba pills were found.
-    - Whether the 14 yaba pills found in the car lead to any separate charge was not reported.
+    - Accounts differ on whether the reported RM279,902 total covers only the cannabis or includes RM154 for 14 pills described as yaba or pil kuda.
+    - Accounts differ on whether the suspect's car skidded off the road or overturned, on where in the car the pills were found, and on whether those pills were yaba or pil kuda.
+    - Whether the 14 pills found in the car lead to any separate charge was not reported.
     - Accounts differ on whether the suspect had five or six previous drug-related criminal records.
     - Accounts differ on the weight of the seized cannabis flowers, reported variously as 7.6 grams, 100 grams, or 107.6 grams.
     - Some accounts round the estimated total drug seizure value to RM280,000 and the estimated number of users supplied to 90,500, rather than RM279,902 and 90,502.
@@ -140,22 +150,22 @@ district on Sunday 8 November 2026 and seized 90.38 kg of compressed ganja and
 107.6 grams of cannabis flowers. [@1,5] Police valued the cannabis at RM279,902 in
 total. [@1,5] Kelantan police chief Datuk Mohd Yusoff Mamat said the arrest came
 at about 3.30pm at Batu 10, Batang Merbau, after a month of intelligence work.
-[@1,2,7,8,9] The suspect drove a Honda FD and sped off after realising he was being followed before his car skidded off the roadside at Kampung Batu 10, Batang Merbau. [@3,7,9]
+[@1,2,7,8,9] The suspect drove a Honda FD and sped off after realising he was being followed before his car skidded off the roadside at Kampung Batu 10, Batang Merbau. [@3,7,9,10]
 
 The interrogation led officers to inspect a telecommunications shop they believe
 was used to collect parcels for courier delivery. [@1,4,7,8,9] The telecommunications shop functioned as a collection centre where courier companies such as J&T and City-Link would collect parcels before delivering them to addresses given by customers. [@6] Thirteen packages
 containing drugs were found there, ready to be sent to 13 different addresses.
-[@1] Police raided the shop before the parcels could be posted and found 12 boxes holding 90 kilograms of compressed ganja and one box holding 100 grams of dried suspected cannabis flowers. [@2,3,4,9] Yusoff said the deliveries were aimed at the market around the Klang
-Valley, in Selangor and Kuala Lumpur. [@1,2] The syndicate wrapped the drugs in plastic and boxes and used courier services to move them for markets inside and outside Kelantan, especially around the Klang Valley. [@3,7,9]
+[@1,10] Police raided the shop before the parcels could be posted and found 12 boxes holding 90 kilograms of compressed ganja and one box holding 100 grams of dried suspected cannabis flowers. [@2,3,4,9] Yusoff said the deliveries were aimed at the market around the Klang
+Valley, in Selangor and Kuala Lumpur. [@1,2] The syndicate wrapped the drugs in plastic and boxes and used courier services to move them for markets inside and outside Kelantan, especially around the Klang Valley. [@3,7,9,10]
 
 He said the syndicate was believed to have been running since early August 2025
 and to have been run by four people, three of whom are believed to have fled to
 a neighbouring country. [@1,7,9] The drugs are believed to have been brought in from
 a neighbouring country through an illegal base on the Sungai Golok near Lalang
-Pepuyu, Tanah Merah, before being distributed by courier. [@1,2,3,4,7,9] Police estimated
+Pepuyu, Tanah Merah, before being distributed by courier. [@1,2,3,4,7,9,10] Police estimated
 the seized ganja could have supplied 90,502 drug users. [@1,5] The suspect had
 five previous drug offences on record and tested positive for methamphetamine.
-[@1,3,9] He was remanded for seven days, from 9 to 15 November, to help the
-investigation. [@1,3,6,7,8,9] A search under the dashboard on the driver's side of the suspect's car found 14 yaba pills. [@2,3,7,9] The case is being investigated under Section 39B of the
+[@1,3,9,10] He was remanded for seven days, from 9 to 15 November, to help the
+investigation. [@1,3,6,7,8,9,10] A search under the dashboard on the driver's side of the suspect's car found 14 yaba pills. [@2,3,7,9,10] The case is being investigated under Section 39B of the
 Dangerous Drugs Act 1952, the trafficking provision that carries a possible
 death sentence. [@1,7,9]
