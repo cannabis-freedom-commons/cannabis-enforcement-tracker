@@ -63,10 +63,15 @@ sources:
     url: https://www.ansa.it/english/news/news_from_embassies/2026/11/11/results-of-italian-aerial-surveillance-operations-against-cannabis-presented-in-tirana_85954760-0b05-486f-a28a-97b9e6fc5d49.html
     publisher: Agenzia ANSA
     date: 2026-11-11
+  - title: 'Albanien, Kampf gegen den Cannabisanbau: 132.000 Setzlinge wurden 2026 vor dem Anbau entdeckt'
+    url: https://rtsh.al/rti/de/albanien-kampf-gegen-den-cannabisanbau-132-000-setzlinge-wurden-2026-vor-dem-anbau-entdeckt/
+    publisher: RTSH
+    date: 2026-11-11
+    language: de
 ---
 
 Albanian authorities arrested, detained or prosecuted 165 people in connection
-with drug cultivation. [@1] Dhimitraq Ziu reported 593 recorded cultivation
+with drug cultivation. [@1,6] Dhimitraq Ziu reported 593 recorded cultivation
 cases, 94 of them solved or 15.9 percent, listing 70 people arrested, 51
 detained, 13 proceeded against at liberty and 34 declared wanted. [@4]
 Separately, 89 village heads, OSHEE employees and forestry and environmental
@@ -78,10 +83,10 @@ Across those cultivation cases, officers found and destroyed 171,566 narcotic
 plants in total. [@4] Aerial surveillance covered 67% of Albanian territory, identified 1,301 cannabis plantations, and enabled police to uproot and destroy 105,732 plants. [@5] Data presented at the annual conference showed about
 32,000 fewer destroyed plants than in the previous year. [@4] Police also
 identified 132,000 cannabis seedlings before cultivation, compared with 17,447 a
-year earlier. [@1] State Police Director General Skënder Hita said preventive
+year earlier. [@1,6] State Police Director General Skënder Hita said preventive
 operations seized seeds intended for cultivation and destroyed seedlings in pots
 or newly planted in the ground. [@2] Officers also disrupted 17 cases of indoor
-cannabis cultivation using grow lamps. [@2]
+cannabis cultivation using grow lamps. [@2,6]
 
 Hita presented the 2026 anti-cultivation and school-perimeter efforts during a
 joint conference with Italy's Guardia di Finanza. [@1,5] The activities were funded by the Department and coordinated by the Central Directorate of Criminal Police through the Service for International Police Cooperation (SCIP), with the Guardia di Finanza General Command and scientific input from the Benecon Consortium. [@5] The results came from the fifteenth edition of the aerial surveillance campaign. [@5] Interior Minister Ervin
