@@ -66,6 +66,11 @@ sources:
     publisher: UNIMEDIA
     date: 2026-11-11
     language: ro
+  - title: UN ȘOFER DEPENDENT DE DROGURI CARE A LOVIT DOUĂ PERSOANE LA O INTERSECȚIE A FOST REȚINUT ÎN CHIȘINĂU
+    url: https://www.infotag.md/incidents-ro/335176/
+    publisher: Infotag
+    date: 2026-11-11
+    language: ro
 open_questions:
   - The exact time of the crash on the evening of 10 November 2026 is not given, and the accounts do not say when the 72-hour detention began or when it was to end.
   - No charge was reported; the accounts say the investigation was still under way, so no court outcome is known.
@@ -76,9 +81,9 @@ open_questions:
 ---
 
 A 25-year-old man driving a Ford hit two pedestrians on a crossing on Grigore
-Vieru Boulevard in Chișinău on the evening of 10 November 2026. [@1] A woman of
+Vieru Boulevard in Chișinău on the evening of 10 November 2026. [@1,5] A woman of
 about 30 died of her injuries in hospital, and a 21-year-old man was left in a
-serious condition in intensive care. [@1]
+serious condition in intensive care. [@1,5]
 
 The driver left the car and fled the scene, and was later located and detained
 by the Operational Patrol and Response Battalion. [@2] Police held him for 72
@@ -86,9 +91,8 @@ hours while the Chișinău police continued their investigation. [@3]
 
 Officers noticed suspicious behaviour during the detention and took him to a
 medical institution to test his condition. [@4] The tests came back positive for
-amphetamine, methamphetamine, PVP, known as "salt", and cannabis. [@4] Police
-also established that the man does not hold a driving licence. [@2]
+amphetamine, methamphetamine, PVP, known as "salt", and cannabis. [@4,5] Police
+also established that the man does not hold a driving licence. [@2,5]
 
 The Ford had been rented by another person, who told police he had handed the
 car to the 25-year-old suspect. [@1]
-
