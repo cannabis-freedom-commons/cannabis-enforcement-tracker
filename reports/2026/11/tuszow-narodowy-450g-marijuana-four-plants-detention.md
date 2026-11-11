@@ -94,26 +94,24 @@ sources:
     publisher: Polskie Radio Rzeszów
     date: 2026-11-09
     language: pl
+  - title: 'Mielec: Pół kilograma marihuany na posesji w Tuszowie Narodowym. 40-latek trafił do aresztu'
+    url: https://leliwa.pl/2026/11/mielec-pol-kilograma-marihuany-na-posesji-w-tuszowie-narodowym-40-latek-trafil-do-aresztu/
+    publisher: Radio Leliwa
+    date: 2026-11-11
+    language: pl
 open_questions:
-  - The sources give no separate date for the search and arrest; 9 November 2026 is the publication date of the police statement and is used as the incident date.
-  - The 450 grams is described as dried plant material identified as marijuana by initial tests; no laboratory confirmation or street value was reported.
-  - The man is identified only by his age and place of residence, and no trial outcome was reported.
-  - It is not stated where in the home the four cannabis plants were kept or whether they were grown under lights, so the growing setting is left out.
-  - hej.mielec.pl and korso.pl reproduce the Mielec police statement and its photographs, so they are not independent accounts of the search.
-  - The plants are counted in plants_destroyed because the sources say only that they were secured as evidence, not whether they were seized for destruction.
-  - WP Info says the text came from a partner outlet through the WP Kreator programme, so it may reproduce the same Mielec police statement as the other coverage rather than add an independent account.
-  - The article gives no separate date for the search and detention; 9 November 2026 is its publication date and was used as the incident date.
-  - podkarpacie112.pl cites KPP Mielec as its source and reproduces the police statement, so it is not an independent account of the search.
-  - The mielec.tv article gives no separate date for the search and detention; 9 November 2026 is its publication date and the incident date used.
-  - mielec.tv credits Policja podkarpacka and reproduces the Mielec police statement, so it is not an independent account of the search.
-  - Polskie Radio Rzeszów reproduces the Mielec district police statement, so it is not independent reporting of the search.
-  - Radio Rzeszów gives no separate date for the search and arrest; 9 November 2026 is its publication date and the incident date used.
+    - The 450 grams is described as dried plant material identified as marijuana by initial tests; no laboratory confirmation or street value was reported.
+    - The man is identified only by his age and place of residence, and no trial outcome was reported.
+    - It is not stated where in the home the four cannabis plants were kept or whether they were grown under lights.
+    - The plants are counted in plants_destroyed because the sources say only that they were secured as evidence, not whether they were seized for destruction.
+    - The radio report says police suspected the man of trading in drugs as well as possessing them, but no dealing charge was reported.
+    - The Mielec police statement gives no date for the search; the 3 November 2026 date comes from one local radio report.
 ---
 
 Criminal investigators from the Mielec district police headquarters established
-that a resident of Tuszów Narodowy might be holding banned substances. [@1,4,5,7]
+that a resident of Tuszów Narodowy might be holding banned substances. [@1,4,5,7] Officers suspected him of both possessing the drugs and trading in them. [@9]
 Officers went to the address and found the 40-year-old man there, and their
-suspicions were confirmed. [@1,4] In the search police seized 450 grams of dried
+suspicions were confirmed. [@1,4] The search took place on 3 November 2026. [@9] In the search police seized 450 grams of dried
 plant material and four cannabis plants other than fibre hemp. [@1,4,5,6,7,8] Initial
 tests confirmed that the dried material was marijuana. [@1,5] The man was detained
 and taken to a police detention room. [@2,4] The material was found during a
@@ -121,12 +119,12 @@ search of his home in Tuszów Narodowy in Mielec County. [@2]
 
 Police from the Mielec district police headquarters charged the 40-year-old with
 possessing significant quantities of narcotic substances. [@1,4,5,8] He admitted the
-charge and gave explanations. [@1,4,8] The court granted the prosecutor's request
-and ordered three months of pre-trial detention. [@1,4,5,7,8] The prosecutor asked the
+charge and gave explanations. [@1,4,8,9] The court granted the prosecutor's request
+and ordered three months of pre-trial detention. [@1,4,5,7,8,9] The prosecutor asked the
 court for pre-trial detention and the court agreed. [@2]
 
 The case is still under investigation, and he faces criminal liability for
-possessing significant quantities of narcotic substances. [@2] The 40-year-old
+possessing significant quantities of narcotic substances. [@2] He faces between one and 10 years in prison. [@9] The Mielec district prosecutor's office is leading the investigation. [@9] The 40-year-old
 was charged after officers gathered the evidence. [@3]
 
 The man admitted the charge and gave extensive explanations. [@7]
