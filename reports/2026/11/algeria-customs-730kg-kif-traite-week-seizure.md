@@ -37,15 +37,20 @@ sources:
     publisher: Horizons
     date: 2026-11-11
     language: fr
+  - title: الجمارك الجزائرية تحبط تهريب أطنان من السموم وقرابة نصف مليون قرص مهلوس – الجزائر الآن
+    url: https://algeriemaintenant.dz/2026/11/%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B1%D9%83-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AD%D8%A8%D8%B7/
+    publisher: الجزائر الآن
+    date: 2026-11-11
+    language: ar
 ---
 
 Algerian Customs brigades pursued their mobilisation against narcotics and
 psychotropic trafficking networks in operations conducted from 1 to 7 November
-2026. [@1] The operations were presented as public-health protection missions
+2026. [@1,2] The operations were presented as public-health protection missions
 carried out in coordination with various security services. [@1] According to
 the weekly bilan published by the Directorate General of Customs, the
 interventions during that period resulted in the seizure of 730.350 kilograms of
-kif traité. [@1]
+kif traité. [@1,2]
 
 Customs teams described the quantities as evidence of their field efforts and
 vigilance against attempts to transport and market narcotic products. [@1] The
@@ -56,4 +61,3 @@ strengthening the fight against illicit trafficking networks and organised crime
 in order to protect public health and society. [@1] The same weekly bilan also
 listed 6.543 kilograms of cocaine and 407,588 psychotropic tablets, which are
 not counted as cannabis in this report. [@1]
-
