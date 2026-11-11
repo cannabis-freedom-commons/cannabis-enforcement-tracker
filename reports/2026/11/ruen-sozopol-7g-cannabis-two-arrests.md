@@ -54,12 +54,11 @@ sources:
     publisher: Iskra.bg
     date: 2026-11-11
     language: bg
-open_questions:
-  - No time was published for the Ruen check; only the Sozopol time of about 12:30 is known.
-  - No laboratory confirmation of the cannabis and marijuana was reported; the amounts are stated as about 4 grams and about 3 grams.
-  - Police did not say whether the cannabis was for personal use or distribution.
-  - No court outcome or further charges were reported after the detentions and the fast-track proceedings in the Ruen case.
-  - The same police bulletin reports a separate roadside cocaine test of a Mercedes driver in Burgas, a non-cannabis incident excluded here.
+  - title: Полицията в Бургас установи кой е откраднал колело за 645 евро от блок в „Славейков“
+    url: https://burgasmedia.com/amp/news/policiyata-v-burgas-ustanovi-koy-e-otkradnal-kolelo-za-645-evro-ot-blok-v-slaveykov
+    publisher: BurgasMedia
+    date: 2026-11-11
+    language: bg
 ---
 
 Officers of the district administration in Ruen stopped and checked a
@@ -75,10 +74,9 @@ In Ruen, officers found and seized dry herbal material identified as cannabis
 weighing about 4 grams. [@1] In Sozopol, officers seized two hand-rolled
 cigarettes containing dry green leaf material and a metal grinder with the same
 substance. [@1] The total weight of the marijuana found in Sozopol was about 3
-grams. [@1] Police seized about 7 grams of cannabis and marijuana in total
+grams. [@1,5] Police seized about 7 grams of cannabis and marijuana in total
 across the two incidents. [@1]
 
 The Interior Ministry bulletin for Burgas stated that the Sozopol check was
 carried out around 12:30 on 10 November. [@2] Police stated that there was no
 indication the men checked on 10 November were connected to each other. [@1]
-
