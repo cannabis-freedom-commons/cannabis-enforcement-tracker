@@ -62,6 +62,11 @@ sources:
     publisher: Senego
     date: 2026-11-10
     language: fr
+  - title: '67 kg de Yamba dans son véhicule : il sort pour fumer une cigarette, les policiers l’attendaient'
+    url: https://senego.com/67-kg-de-yamba-dans-son-vehicule-il-sort-pour-fumer-une-cigarette-les-policiers-lattendaient_2022522.html
+    publisher: Senego
+    date: 2026-11-10
+    language: fr
 open_questions:
     - The suspect was not named, and no court appearance or formal indictment was yet reported.
     - Sources report cash seized from the suspect's pockets, but do not state the amount or currency.
@@ -70,22 +75,22 @@ open_questions:
 ---
 
 Officers from the Thiaroye arrondissement police station arrested an alleged
-drug dealer on 9 November 2026 in Wakhinane, in the Dakar suburbs. [@1,3,4] The
+drug dealer on 9 November 2026 in Wakhinane, in the Dakar suburbs. [@1,3,4,5] The
 research brigade launched the operation around 2:30 p.m. after receiving
 intelligence about a narcotics network run by the suspect in the area. [@1,3]
 Investigators set up surveillance in a neighbourhood alley to await an
 opportunity to intervene. [@1,3] Around 5:00 p.m., the suspect arrived in a Ford
 Edge, parked, and stepped out of the vehicle to smoke a cigarette. [@1,3] As
 officers approached to detain him, the suspect fled on foot, abandoning his car.
-[@1,3,4] Following a foot chase, police caught the suspect and returned him to his
+[@1,3,4,5] Following a foot chase, police caught the suspect and returned him to his
 parked car. [@1,3]
 
 A search of the automobile uncovered 67.85 kg of cannabis compressed into three
 separate bales. [@1,3,4] The individual packages weighed 26.75 kg, 27.65 kg, and
-13.45 kg. [@2,3,4] Officers also confiscated tools from the car, including pliers,
+13.45 kg. [@2,3,4,5] Officers also confiscated tools from the car, including pliers,
 adhesive tape, and a metal rod or chisel. [@2,3] Police recovered identity
 documents, a driving licence, vehicle registration papers, and a licence plate
 from the automobile. [@1,3] A body search revealed an unstated sum of cash in the
-suspect's pockets, which police suspect was derived from drug sales. [@1,3,4] The
+suspect's pockets, which police suspect was derived from drug sales. [@1,3,4,5] The
 suspect was taken into custody under an open investigation, and the vehicle,
 drugs, and seized items were impounded at the police station. [@1,3]
