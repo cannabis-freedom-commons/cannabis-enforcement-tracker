@@ -71,6 +71,11 @@ sources:
     publisher: Infotag
     date: 2026-11-11
     language: ro
+  - title: Șoferul care ar fi lovit doi pietoni în capitală, testat pozitiv la patru droguri. Nu avea permis de conducere
+    url: https://ziar.md/soferul-care-a-lovit-doi-pietoni-pe-bulevardul-grigore-vieru-testat-pozitiv-la-patru-droguri-nu-avea-permis-de-conducere-2/
+    publisher: Ziar.md
+    date: 2026-11-11
+    language: ro
 open_questions:
   - The exact time of the crash on the evening of 10 November 2026 is not given, and the accounts do not say when the 72-hour detention began or when it was to end.
   - No charge was reported; the accounts say the investigation was still under way, so no court outcome is known.
@@ -81,18 +86,18 @@ open_questions:
 ---
 
 A 25-year-old man driving a Ford hit two pedestrians on a crossing on Grigore
-Vieru Boulevard in Chișinău on the evening of 10 November 2026. [@1,5] A woman of
+Vieru Boulevard in Chișinău on the evening of 10 November 2026. [@1,5,6] A woman of
 about 30 died of her injuries in hospital, and a 21-year-old man was left in a
-serious condition in intensive care. [@1,5]
+serious condition in intensive care. [@1,5,6]
 
 The driver left the car and fled the scene, and was later located and detained
-by the Operational Patrol and Response Battalion. [@2] Police held him for 72
-hours while the Chișinău police continued their investigation. [@3]
+by the Operational Patrol and Response Battalion. [@2,6] Police held him for 72
+hours while the Chișinău police continued their investigation. [@3,6]
 
 Officers noticed suspicious behaviour during the detention and took him to a
-medical institution to test his condition. [@4] The tests came back positive for
-amphetamine, methamphetamine, PVP, known as "salt", and cannabis. [@4,5] Police
-also established that the man does not hold a driving licence. [@2,5]
+medical institution to test his condition. [@4,6] The tests came back positive for
+amphetamine, methamphetamine, PVP, known as "salt", and cannabis. [@4,5,6] Police
+also established that the man does not hold a driving licence. [@2,5,6]
 
 The Ford had been rented by another person, who told police he had handed the
 car to the 25-year-old suspect. [@1]
