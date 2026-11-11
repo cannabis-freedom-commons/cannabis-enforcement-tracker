@@ -86,27 +86,32 @@ sources:
     publisher: GoSumut.com
     date: 2026-11-10
     language: id
+  - title: Bisnis Ganja di Warung Berakhir Apes, Pria 44 Tahun Digolkan
+    url: https://www.posmetromedan.com/2026/11/bisnis-ganja-di-warung-berakhir-apes-pria-44-tahun-digolkan/
+    publisher: POSMETRO MEDAN
+    date: 2026-11-10
+    language: id
 ---
 
 A 44-year-old man identified as H, a resident of Sidomulio village in Talawi,
 Batu Bara, was arrested by the Medang Deras sector police criminal unit on
-Monday 9 November 2026 at about 18.00 WIB. [@1,4] He was detained at a small shop
+Monday 9 November 2026 at about 18.00 WIB. [@1,4,8] He was detained at a small shop
 in Sei Buah Keras village, Medang Deras, on suspicion of possessing 40 packs of
-ready-to-distribute cannabis leaf. [@1,6,7] A second account names the man as
+ready-to-distribute cannabis leaf. [@1,6,7,8] A second account names the man as
 Hendra, 44, of Pematang Dalam hamlet in Sidomulyo village, and places the arrest
 in Perdomuan Nauli hamlet in Sei Buah Keras village. [@3] Medang Deras police
 chief AKP A.H. Sagala said the operation began with a public tip about cannabis
-distribution in Sei Buah Keras village. [@1,7]
+distribution in Sei Buah Keras village. [@1,7,8]
 
 Officers searching him found 40 packs of ready-to-distribute cannabis leaf in
 his left trouser pocket, plus Rp50,000 alleged to be proceeds of cannabis sales.
-[@1,4,6,7] Another account breaks the seizure down as 39 small packs wrapped in book
+[@1,4,6,7,8] Another account breaks the seizure down as 39 small packs wrapped in book
 paper and one medium pack wrapped in rice paper, with the same Rp50,000 in cash.
 [@2,4,6,7] When questioned, the man admitted the seized goods were his and were meant
-to be resold. [@1]
+to be resold. [@1,8]
 
 Police took him to the Medang Deras station and then handed him and the evidence
-to the Batu Bara district police narcotics unit for further legal process. [@1,4,7]
+to the Batu Bara district police narcotics unit for further legal process. [@1,4,7,8]
 Police said they were developing the case to find other parties involved,
 including tracing a suspected dealer linked to the cannabis. [@2]
 
