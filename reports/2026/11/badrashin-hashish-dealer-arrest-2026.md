@@ -89,9 +89,11 @@ sources:
     publisher: النبأ
     date: 2026-11-10
     language: ar
-open_questions:
-    - The reports state that a large quantity of hashish and 59 pieces were seized, but do not state an exact measured weight.
-    - The suspect's name was not released by authorities or news outlets.
+  - title: حبس تاجر حشيش ضُبط بحوزته كمية كبيرة من المخدرات بالبدرشين 4 أيام
+    url: https://www.youm7.com/story/2026/11/10/%D8%AD%D8%A8%D8%B3-%D8%AA%D8%A7%D8%AC%D8%B1-%D8%AD%D8%B4%D9%8A%D8%B4-%D8%B6%D9%8F%D8%A8%D8%B7-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87-%D9%83%D9%85%D9%8A%D8%A9-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D8%A8%D8%AF%D8%B1%D8%B4%D9%8A%D9%86/7613918
+    publisher: اليوم السابع
+    date: 2026-11-10
+    language: ar
 ---
 
 Detectives of the Giza Security Directorate arrested a suspected hashish dealer
@@ -102,6 +104,6 @@ verifying the information and locating him, officers detained the suspect under
 legal procedures. [@1,4,5,8]
 
 He was found with a large quantity of hashish prepared for sale, cash described
-as proceeds of sale, and a mobile phone used to contact customers. [@1,2,3,4,5,7,8,9,11] The operation seized 59 pieces (farsh) of hashish, which became exhibits at the disposal of the investigation authorities. [@6] During questioning by detectives, the suspect confessed that he purchased bulk quantities of hashish from a supplier, cut them into small pieces and prepared them for distribution in Badrashin and surrounding areas. [@10] Police
+as proceeds of sale, and a mobile phone used to contact customers. [@1,2,3,4,5,7,8,9,11,12] The operation seized 59 pieces (farsh) of hashish, which became exhibits at the disposal of the investigation authorities. [@6] During questioning by detectives, the suspect confessed that he purchased bulk quantities of hashish from a supplier, cut them into small pieces and prepared them for distribution in Badrashin and surrounding areas. [@10] Police
 filed a report on the arrest and referred the case to the competent prosecution,
-which began its investigation. [@1,2,4,6,8,11] The prosecution ordered the seized items to be examined to determine their nature, kept the hashish, cash and phone in custody, and is continuing investigations to establish the circumstances and the source of the drugs. [@3,4,7,8,9,11] The Giza Public Prosecution ordered the suspect detained for four days pending investigation and requested a technical report to determine the nature and weight of the seized hashish. [@8,9]
+which began its investigation. [@1,2,4,6,8,11] The prosecution ordered the seized items to be examined to determine their nature, kept the hashish, cash and phone in custody, and is continuing investigations to establish the circumstances and the source of the drugs. [@3,4,7,8,9,11,12] The Giza Public Prosecution ordered the suspect detained for four days pending investigation and requested a technical report to determine the nature and weight of the seized hashish. [@8,9]
