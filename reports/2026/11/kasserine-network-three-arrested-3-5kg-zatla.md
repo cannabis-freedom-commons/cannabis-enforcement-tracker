@@ -39,18 +39,22 @@ sources:
     publisher: Mosaique FM
     date: 2026-11-09
     language: ar
+  - title: تفكيك شبكة لتهريب المخدرات وترويجها
+    url: https://hakaekonline.com/%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%B4%D8%A8%D9%83%D8%A9-%D9%84%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D9%88%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA/
+    publisher: Hakaekonline | حقائق اون لاين
+    date: 2026-11-10
+    language: ar
 open_questions:
-  - No separate date for the raids was published; 9 November 2026 is the article's date and is used as the incident date.
-  - The names, ages and formal charges of the three dealers and any court outcome beyond their remand in custody were not published.
-  - The whole account rests on a single report citing an unnamed security source; no second account of this seizure could be opened.
+    - Neither account gives a separate date for the raids; 9 November 2026 is the date of the first published report and is used as the incident date.
+    - The names, ages and formal charges of the three dealers and any court outcome beyond their remand in custody were not published.
+    - Both accounts reproduce the same National Guard statement without independent reporting.
 ---
 
 Security units of the National Guard district in Kasserine dismantled a network
-specialising in drug trafficking. [@1] Officers arrested three dealers, one of
-them described as dangerous and wanted in drug cases. [@1] The public
+specialising in drug trafficking. [@1,2] Officers arrested three dealers, one of
+them described as dangerous and wanted in drug cases. [@1,2] The public
 prosecution ordered the dealers jailed pending completion of the necessary
-investigations. [@1]
+investigations. [@1,2]
 
-The operation followed precise intelligence work and raids. [@1] The raids
-seized 35 slabs of cannabis, known locally as zatla, weighing 3.5 kg. [@1]
-
+The operation followed precise intelligence work and raids. [@1,2] The raids
+seized 35 slabs of cannabis, known locally as zatla, weighing 3.5 kg. [@1,2]
