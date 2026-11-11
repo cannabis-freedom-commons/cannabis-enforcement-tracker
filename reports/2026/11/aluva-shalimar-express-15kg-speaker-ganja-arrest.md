@@ -57,22 +57,25 @@ sources:
     publisher: Karma News
     date: 2026-11-11
     language: ml
+  - title: പാട്ട് വന്നില്ല, കഞ്ചാവ് വന്നു; മ്യൂസിക് സ്പീക്കറിനുള്ളില്‍ കഞ്ചാവ് ഒളിപ്പിച്ച് കടത്താന്‍ ശ്രമം
+    url: https://www.deepika.com/kerala/attempt-to-smuggle-ganja-hidden-inside-a-music-speaker-accused-arrested-in-aluva-213905
+    publisher: Deepika
+    date: 2026-11-11
+    language: ml
 open_questions:
-  - The articles give no separate date for the arrest; 11 November 2026 is the publication date and is used as the incident date.
-  - No charge, custody ruling or court outcome was reported; the case was at the investigation stage.
-  - The source and intended recipient of the cannabis were still under investigation when the reports were published.
-  - No value estimate for the seized cannabis was published.
-  - The three accounts carry the same police account in identical wording, so they are not independent reports of the arrest.
+    - The articles give no separate date for the arrest; 11 November 2026 is the publication date and is used as the incident date.
+    - No charge, custody ruling or court outcome was reported; the case was at the investigation stage.
+    - The source and intended recipient of the cannabis were still under investigation when the reports were published.
+    - No value estimate for the seized cannabis was published.
 ---
 
-Police foiled an attempt to smuggle cannabis hidden inside music speakers. [@1]
+Police foiled an attempt to smuggle cannabis hidden inside music speakers. [@1,4]
 A Bengal native who got off the Shalimar Express train at Aluva was arrested.
-[@1] The arrested man was the Bengal native Raghub Gazi. [@1] Officers seized
-one and a half kilos of dried cannabis. [@1]
+[@1,4] The arrested man was the Bengal native Raghub Gazi. [@1] Officers seized
+one and a half kilos of dried cannabis. [@1,4]
 
 The cannabis was hidden in two music speakers inside a black bag in his
-possession. [@2] The check was carried out on the basis of secret information.
+possession. [@2,4] The check was carried out on the basis of secret information.
 [@2] Police said they are investigating where he bought the cannabis, whom he
-brought it to hand over to, and who his associates are. [@3] Police said checks
+brought it to hand over to, and who his associates are. [@3] He told officers that he intended to take the cannabis to his residence in Ernakulam, where another person was to collect it. [@4] Police said checks
 in the area would be strengthened. [@3]
-
