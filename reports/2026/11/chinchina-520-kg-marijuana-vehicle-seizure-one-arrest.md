@@ -97,6 +97,11 @@ sources:
     url: https://libyaobserver.ly/news/colombia-seizes-358kg-cocaine-bound-tripoli
     publisher: The Libya Observer
     date: 2026-11-10
+  - title: Capturan a un hombre de 32 años en Chinchiná con 520 kilos de marihuana en un vehículo que huyó de un control
+    url: https://www.bcnoticias.com.co/capturan-a-un-hombre-de-32-anos-en-chinchina-con-520-kilos-de-marihuana-en-un-vehiculo-que-huyo-de-un-control/
+    publisher: BC Noticias
+    date: 2026-11-10
+    language: es
 media:
   - kind: video
     url: https://x.com/Policia_Caldas/status/2119873943276339418
@@ -107,9 +112,9 @@ media:
 
 Colombian police intercepted a vehicle in the urban area of Chinchiná, Caldas,
 carrying 520 kilograms of marijuana and arrested one person caught in the act.
-[@2,5,6] During the procedure one person was captured in flagrante delicto. [@2,5]
+[@2,5,6,12] During the procedure one person was captured in flagrante delicto. [@2,5]
 Officers also immobilised the vehicle, whose identification systems had been
-altered. [@2,5,6,8] The man was handed to the judicial authorities and is to answer for the alleged crime of trafficking, manufacturing or carrying narcotics. [@6] The Caldas police department announced the arrest of the 32-year-old man and the seizure of the vehicle. [@7] Officers first tried to stop the vehicle near Chinchiná's main park during prevention and control work, but the driver ignored the order and fled. [@6]
+altered. [@2,5,6,8] The man was handed to the judicial authorities and is to answer for the alleged crime of trafficking, manufacturing or carrying narcotics. [@6] A check of judicial information systems found the detainee had an investigative annotation as an alleged firearms manufacturing, trafficking or possession offender. [@12] The Caldas police department announced the arrest of the 32-year-old man and the seizure of the vehicle. [@7] Officers first tried to stop the vehicle near Chinchiná's main park during prevention and control work, but the driver ignored the order and fled. [@6]
 
 In his own statement the president said the marijuana had left the department of
 Cauca bound for Medellín. [@3,4,5] President Abelardo de la Espriella announced the
@@ -120,4 +125,4 @@ were marijuana and 358 cocaine. [@1,9,10,11]
 
 For the whole pair of operations the authorities reported one person arrested, in the Caldas procedure. [@2] The Cartagena operation, named Estrategia Esmeralda, found the cocaine inside two electricity generators carried in a shipping container. [@2,11]
 
-After a cordon-and-search plan, known in Colombia as a plan candado, patrols intercepted the vehicle in the La Paz neighbourhood. [@6] A search of the vehicle found 111 plastic-wrapped parcels containing the marijuana. [@6]
+After a cordon-and-search plan, known in Colombia as a plan candado, patrols intercepted the vehicle in the La Paz neighbourhood. [@6,12] A search of the vehicle found 111 plastic-wrapped parcels containing the marijuana. [@6,12]
