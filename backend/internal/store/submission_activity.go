@@ -25,7 +25,8 @@ type SubmissionSlot struct {
 	At        int64 `json:"at"` // the slot's start
 	Received  int64 `json:"received"`
 	Committed int64 `json:"committed"`
-	Closed    int64 `json:"closed"`     // ended without a report: duplicate, out of scope, unavailable, failed…
+	Closed    int64 `json:"closed"`     // ended without a report: duplicate, out of scope, unavailable… (not failed)
+	Failed    int64 `json:"failed"`     // ended because processing failed
 	Open      int64 `json:"open"`       // cases waiting or running at the slot's end
 	TokensIn  int64 `json:"tokens_in"`  // read by the AI runs, cached reads included
 	TokensOut int64 `json:"tokens_out"` // written, reasoning included
@@ -35,6 +36,7 @@ type SubmissionSlotSums struct {
 	Received  int64 `json:"received"`
 	Committed int64 `json:"committed"`
 	Closed    int64 `json:"closed"`
+	Failed    int64 `json:"failed"`
 	TokensIn  int64 `json:"tokens_in"`
 	TokensOut int64 `json:"tokens_out"`
 }
@@ -157,7 +159,9 @@ func (s *Store) SubmissionActivity(ctx context.Context, window string, now time.
 		} else if wasOpen && !isOpen {
 			open--
 		}
-		if closedWithoutReport(status) {
+		if status == "failed" {
+			out.Slots[i].Failed++
+		} else if closedWithoutReport(status) {
 			out.Slots[i].Closed++
 		}
 		state[cid] = status
@@ -173,6 +177,7 @@ func (s *Store) SubmissionActivity(ctx context.Context, window string, now time.
 		out.Totals.Received += s.Received
 		out.Totals.Committed += s.Committed
 		out.Totals.Closed += s.Closed
+		out.Totals.Failed += s.Failed
 		out.Totals.TokensIn += s.TokensIn
 		out.Totals.TokensOut += s.TokensOut
 	}

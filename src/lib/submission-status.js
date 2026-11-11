@@ -20,9 +20,10 @@ const META = {
   awaiting_review: { stage: 3, tone: "running", label: "Awaiting review" },
   publishing: { stage: 4, tone: "running", label: "Publishing" },
   // committed: waiting for the next batch to main; deploying: on main, waiting for the site's build
-  committed: { stage: 4, tone: "running", label: "Waiting to publish" },
-  merged: { stage: 4, tone: "running", label: "Deploying" },
-  deploying: { stage: 4, tone: "running", label: "Deploying" },
+  // "ready": a report is made, green like a published one, but still in progress
+  committed: { stage: 4, tone: "ready", label: "Waiting to publish" },
+  merged: { stage: 4, tone: "ready", label: "Deploying" },
+  deploying: { stage: 4, tone: "ready", label: "Deploying" },
   published: { stage: 5, tone: "done", label: "Published" },
   duplicate: { stage: 5, tone: "covered", label: "Already covered" },
   routed_to_cfi: { stage: 5, tone: "covered", label: "Routed to the CFI" },
@@ -33,7 +34,7 @@ const META = {
   failed: { stage: 5, tone: "failed", label: "Failed" },
 };
 export const statusMeta = (status) => META[status] ?? { stage: 0, tone: "running", label: STATUS_LABELS[status] ?? status };
-export const isRunning = (status) => statusMeta(status).tone === "running";
+export const isRunning = (status) => ["running", "ready"].includes(statusMeta(status).tone);
 
 // what an outcome means for the person who sent the source, beside the worker's own explanation
 export const OUTCOME_HELP = {

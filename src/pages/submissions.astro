@@ -92,6 +92,7 @@ const relays = (import.meta.env.PUBLIC_NOSTR_RELAYS || "").split(",").filter(Boo
         <ul class="sx-activity-legend">
           <li data-key="committed"><i aria-hidden="true"></i>Committed <b data-total="committed">—</b></li>
           <li data-key="closed"><i aria-hidden="true"></i>Closed without a report <b data-total="closed">—</b></li>
+          <li data-key="failed" hidden><i aria-hidden="true"></i>Failed <b data-total="failed">—</b></li>
           <li data-key="received"><i aria-hidden="true"></i>Received <b data-total="received">—</b></li>
           <li data-key="open"><i aria-hidden="true"></i>Waiting or running <b data-total="open">—</b></li>
           <li data-key="tokens" class="sx-activity-tokens">AI tokens <b data-total="tokens">—</b></li>

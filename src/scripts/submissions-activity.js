@@ -41,6 +41,9 @@ function initialize(root) {
     const t = data.totals, slots = data.slots, minutes = (data.to - data.from) / 60;
     legend("committed").textContent = `${num(t.committed)} · ${(t.committed / minutes).toLocaleString("en-GB", { maximumFractionDigits: 2 })}/min`;
     legend("closed").textContent = num(t.closed);
+    // a backend from before the split counts failures among the closed
+    const failed = root.querySelector('[data-key="failed"]');
+    if (failed) { failed.hidden = t.failed == null; legend("failed").textContent = num(t.failed ?? 0); }
     legend("received").textContent = num(t.received);
     legend("open").textContent = `${num(slots[0].open)} → ${num(slots.at(-1).open)}`;
     // tokens per second over the time the window has actually covered (its last slot is still filling)
@@ -63,17 +66,18 @@ function initialize(root) {
     const W = Math.max(280, plot.clientWidth), TOP = 76, GAP = 14, LOW = 34, AXIS = 18, LEFT = 30;
     const H = TOP + GAP + LOW + AXIS, inner = W - LEFT, step = inner / n, bw = Math.max(1, step - 2);
     const out = svg("svg", { viewBox: `0 0 ${W} ${H}`, width: W, height: H, role: "img", "aria-label": `Submission activity, last ${data.window === "1h" ? "hour" : "24 hours"}` });
-    // top strip: committed + closed stacked per slot, received as a step line, one count scale
-    const peak = Math.max(1, ...slots.map((s) => Math.max(s.committed + s.closed, s.received)));
+    // top strip: committed, closed and failed stacked per slot, received as a step line, one count scale
+    const peak = Math.max(1, ...slots.map((s) => Math.max(s.committed + s.closed + (s.failed ?? 0), s.received)));
     const y = (v) => TOP - (v / peak) * (TOP - 4);
     for (const v of [0, peak]) {
       out.append(svg("line", { x1: LEFT, x2: W, y1: y(v), y2: y(v), class: "sx-activity-grid" }));
       const label = svg("text", { x: LEFT - 6, y: y(v) + 4, class: "sx-activity-tick", "text-anchor": "end" }); label.textContent = num(v); out.append(label);
     }
     slots.forEach((s, i) => {
-      const x = LEFT + i * step + 1, c = s.committed, k = s.closed;
-      if (c) out.append(bar(x, y(c), bw, TOP - y(c), !k, "sx-activity-committed"));
-      if (k) { const top = y(c + k), h = y(c) - top - (c ? 2 : 0); if (h > 0) out.append(bar(x, top, bw, h, true, "sx-activity-closed")); }
+      const x = LEFT + i * step + 1, c = s.committed, k = s.closed, f = s.failed ?? 0;
+      if (c) out.append(bar(x, y(c), bw, TOP - y(c), !k && !f, "sx-activity-committed"));
+      if (k) { const top = y(c + k), h = y(c) - top - (c ? 2 : 0); if (h > 0) out.append(bar(x, top, bw, h, !f, "sx-activity-closed")); }
+      if (f) { const top = y(c + k + f), h = y(c + k) - top - (c + k ? 2 : 0); if (h > 0) out.append(bar(x, top, bw, h, true, "sx-activity-failed")); }
     });
     let line = "";
     slots.forEach((s, i) => { const x0 = LEFT + i * step, x1 = x0 + step; line += `${i ? "L" : "M"}${x0},${y(s.received)}H${x1}`; });
@@ -110,7 +114,7 @@ function initialize(root) {
     const end = Math.min(s.at + data.step, Date.now() / 1000);
     tip.replaceChildren();
     const head = document.createElement("strong"); head.textContent = `${clock(s.at)}–${clock(end)}`; tip.append(head);
-    for (const [label, value, key] of [["Committed", s.committed, "committed"], ["Closed, no report", s.closed, "closed"], ["Received", s.received, "received"], ["Open at the end", s.open, "open"], ["Tokens in / out per s", `${short(s.tokens_in / data.step)} / ${short(s.tokens_out / data.step)}`, "tokens"]]) {
+    for (const [label, value, key] of [["Committed", s.committed, "committed"], ["Closed, no report", s.closed, "closed"], ...(s.failed != null ? [["Failed", s.failed, "failed"]] : []), ["Received", s.received, "received"], ["Open at the end", s.open, "open"], ["Tokens in / out per s", `${short(s.tokens_in / data.step)} / ${short(s.tokens_out / data.step)}`, "tokens"]]) {
       const row = document.createElement("span"); row.dataset.key = key;
       row.append(Object.assign(document.createElement("i"), { ariaHidden: "true" }), document.createTextNode(`${label} `), Object.assign(document.createElement("b"), { textContent: typeof value === "number" ? num(value) : value }));
       tip.append(row);

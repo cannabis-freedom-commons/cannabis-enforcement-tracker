@@ -85,7 +85,7 @@ function stages(box, v) {
   box.replaceChildren(); box.hidden = false; box.dataset.tone = meta.tone;
   STAGES.forEach((name, i) => {
     const li = el("li", undefined, "sx-stage");
-    li.dataset.state = i < meta.stage ? "done" : i === meta.stage ? (meta.tone === "running" ? "current" : "end") : "todo";
+    li.dataset.state = i < meta.stage ? "done" : i === meta.stage ? (meta.tone === "running" || meta.tone === "ready" ? "current" : "end") : "todo";
     li.append(el("i", undefined, "sx-stage-dot"), el("span", i === STAGES.length - 1 && meta.stage === i ? meta.label : name));
     box.append(li);
   });

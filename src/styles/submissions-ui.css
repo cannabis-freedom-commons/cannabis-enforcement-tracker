@@ -4,6 +4,7 @@
 :root[data-theme="light"] .sx { --sx-running: #2f6fb8; --sx-done: #23863f; --sx-declined: #a87412; --sx-attention: #c45a1c; --sx-failed: #b93636; }
 .sx [data-tone="running"] { --tone: var(--sx-running); }
 .sx [data-tone="done"] { --tone: var(--sx-done); }
+.sx [data-tone="ready"] { --tone: var(--sx-done); } /* a report waiting to go live, still in progress */
 .sx [data-tone="covered"] { --tone: var(--sx-covered); }
 .sx [data-tone="declined"] { --tone: var(--sx-declined); }
 .sx [data-tone="attention"] { --tone: var(--sx-attention); }
@@ -20,7 +21,7 @@
 .sx-btn-primary:hover { background: var(--accent); opacity: .9; }
 .sx-pill { display: inline-flex; align-items: center; gap: 7px; padding: 3px 10px 3px 8px; border-radius: 999px; background: color-mix(in srgb, var(--tone) 14%, transparent); color: var(--tone); font: 600 12px/1.5 Inter, system-ui, sans-serif; white-space: nowrap; }
 .sx-dot, .sx-stage-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--tone); flex: none; }
-[data-tone="running"] > .sx-dot, .sx-pill[data-tone="running"] .sx-dot { animation: sx-pulse 1.6s ease-out infinite; }
+[data-tone="running"] > .sx-dot, .sx-pill[data-tone="running"] .sx-dot, [data-tone="ready"] > .sx-dot, .sx-pill[data-tone="ready"] .sx-dot { animation: sx-pulse 1.6s ease-out infinite; }
 @keyframes sx-pulse { 0% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--tone) 55%, transparent); } 100% { box-shadow: 0 0 0 7px transparent; } }
 @media (prefers-reduced-motion: reduce) { .sx-dot, .sx-stage-dot, .ai-run-pill i, .ai-worker-dot { animation: none !important; } }
 .sx-tag { padding: 2px 8px; border: 1px solid var(--border); border-radius: 999px; font: 11.5px var(--mono); color: var(--text-2); }
@@ -48,7 +49,7 @@
 .sx-row + .sx-row { border-top: 1px solid var(--border); }
 .sx-row-link { display: grid; grid-template-columns: 190px minmax(0, 1fr) 120px; gap: 6px 18px; align-items: start; padding: 13px 16px; text-decoration: none; position: relative; }
 .sx-row-link::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; background: var(--tone); opacity: 0; }
-.sx-row[data-tone="running"] .sx-row-link::before { opacity: 1; }
+.sx-row:is([data-tone="running"], [data-tone="ready"]) .sx-row-link::before { opacity: 1; }
 .sx-row-link:hover { background: var(--surface-2); text-decoration: none; }
 .sx-row-out { display: flex; flex-direction: column; align-items: flex-start; gap: 6px; padding-top: 1px; }
 .sx-out-link { font-size: 12.5px; color: var(--text-2); }
@@ -234,7 +235,7 @@
 .sx-row-tokens, .sx-row-runs, .sx-row-cost { display: flex; justify-content: flex-end; gap: 5px; white-space: nowrap; }
 .sx-row-sep { color: var(--muted); opacity: .6; }
 .sx-row-cost { color: var(--text); }
-.sx-row[data-tone="running"] .sx-row-time { color: var(--tone); }
+.sx-row:is([data-tone="running"], [data-tone="ready"]) .sx-row-time { color: var(--tone); }
 .sx-table-note { margin: 9px 0; font-size: 11px; color: var(--muted); }
 
 /* Intake stays close to the register, with optional fields folded away. */
@@ -320,8 +321,9 @@
 
 /* the activity chart: throughput per slot above, the open queue below, one time axis
    (colours validated for colour-blind separation on both themes; values always shown as text too) */
-.sx-activity { --sx-c-committed: #199e70; --sx-c-closed: #d95926; --sx-c-open: #3987e5; }
-:root[data-theme="light"] .sx-activity { --sx-c-committed: #1baf7a; --sx-c-closed: #eb6834; --sx-c-open: #2a78d6; }
+/* green: a report; yellow: closed without one (covered, out of scope, unavailable); red: failed only */
+.sx-activity { --sx-c-committed: #199e70; --sx-c-closed: #d9a43c; --sx-c-failed: #d65a5a; --sx-c-open: #3987e5; }
+:root[data-theme="light"] .sx-activity { --sx-c-committed: #1baf7a; --sx-c-closed: #c08a16; --sx-c-failed: #b93636; --sx-c-open: #2a78d6; }
 .sx-activity-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
 .sx-activity-head h2 { margin: 0; font-size: 1rem; }
 .sx-activity-switch { display: inline-flex; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
@@ -332,12 +334,15 @@
 .sx-activity i { display: inline-block; width: 10px; height: 10px; margin-right: 6px; border-radius: 2px; vertical-align: -1px; }
 .sx-activity [data-key="committed"] i { background: var(--sx-c-committed); }
 .sx-activity [data-key="closed"] i { background: var(--sx-c-closed); }
+.sx-activity [data-key="failed"] i { background: var(--sx-c-failed); }
+.sx-activity [data-key="failed"][hidden] { display: none; }
 .sx-activity [data-key="received"] i { height: 0; border-top: 2px dashed var(--text-2); border-radius: 0; vertical-align: 3px; }
 .sx-activity [data-key="open"] i { background: color-mix(in srgb, var(--sx-c-open) 30%, transparent); border-top: 2px solid var(--sx-c-open); border-radius: 0; }
 .sx-activity-frame { position: relative; min-height: 142px; }
 .sx-activity-plot svg { display: block; overflow: visible; }
 .sx-activity-committed { fill: var(--sx-c-committed); }
 .sx-activity-closed { fill: var(--sx-c-closed); }
+.sx-activity-failed { fill: var(--sx-c-failed); }
 .sx-activity-received { fill: none; stroke: var(--text-2); stroke-width: 1.5; stroke-dasharray: 3 3; }
 .sx-activity-open { fill: none; stroke: var(--sx-c-open); stroke-width: 2; stroke-linejoin: round; }
 .sx-activity-open-fill { fill: var(--sx-c-open); opacity: .14; }
