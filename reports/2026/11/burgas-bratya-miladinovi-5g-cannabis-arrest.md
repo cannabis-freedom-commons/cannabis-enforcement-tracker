@@ -56,23 +56,26 @@ sources:
     publisher: Флагман.бг
     date: 2026-11-10
     language: bg
+  - title: Police detain man, 42, with about 5g of cannabis in Burgas's Bratya Miladinovi district
+    url: https://burgasmedia.com/news/zadarzhaha-42-godishen-mazh-s-okolo-5-grama-kanabis-v-bratya-miladinovi?lang=en
+    publisher: BurgasMedia
+    date: 2026-11-10
 open_questions:
+    - The whole account rests on BurgasMedia reports of a Burgas police statement, with no second source found.
     - No outcome of the fast-track proceedings was reported.
     - Police did not say whether the cannabis was intended for personal use or distribution.
-    - No details of the man's previous offences or criminal record were released.
-    - The seized cannabis was weighed at about 5 grams rather than an exact figure, and no street value was published.
 ---
 
 Police detained a 42-year-old man from Burgas during an evening check in the
-Bratya Miladinovi housing complex on 9 November. [@1,2] Officers of the Second
+Bratya Miladinovi housing complex on 9 November. [@1,2,5] Officers of the Second
 District administration stopped him at about 21:20 near Block 59 in the
-neighbourhood. [@1,2,3] The man is described as having a criminal record and already
+neighbourhood. [@1,2,3,5] The man is described as having a criminal record and already
 known to police for previous offences. [@1,2,3,4] Fast-track proceedings were opened
-against him. [@1,2,3,4] He was detained under a police order for up to 24 hours. [@2,3,4]
+against him. [@1,2,3,4,5] He was detained under a police order for up to 24 hours. [@2,3,4]
 
 During the check officers found a green-brown dry herbal mass on him, which was
-later confirmed to be cannabis. [@1,2,3,4] The amount was reported as about 5 grams of
-cannabis. [@1,2,3,4] Officers seized the cannabis. [@1,2,3,4]
+later confirmed to be cannabis. [@1,2,3,4,5] The amount was reported as about 5 grams of
+cannabis. [@1,2,3,4] Officers seized the cannabis. [@1,2,3,4,5] The man was held under a police order for up to 24 hours. [@5]
 
 The account attributes the information to the Burgas regional directorate of the
 Interior Ministry. [@1,2,4] Police did not say whether the cannabis was for personal
