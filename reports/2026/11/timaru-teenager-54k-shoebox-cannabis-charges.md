@@ -58,6 +58,11 @@ sources:
     url: https://www.miragenews.com/drugs-cash-seized-in-canterbury-vehicle-stops-1774711/
     publisher: Mirage News
     date: 2026-11-10
+  - title: 鞋盒内发现5.4万纽币现金：新西兰警方拦车检查发现颇丰
+    url: https://news.skykiwi.com/na/zh/2026-11-11/554791.shtml
+    publisher: 新西兰天维网
+    date: 2026-11-11
+    language: zh
 open_questions:
   - No weight or plant count for the cannabis was published; the reports describe only a small amount of drugs found at the home.
   - The $54,000 is cash found in the car, not a confirmed cannabis price, and no amount is given for the cash found at the home.
@@ -70,16 +75,16 @@ open_questions:
 An 18-year-old is facing cannabis charges after Timaru police found $54,000
 inside a shoebox in his car. [@1] Detective Senior Sergeant Karen Simmons said
 the teenager's car was stopped at 12.20am on Theodosia Street, where the money
-was found. [@1]
+was found. [@1,4]
 
-More cash and a small amount of drugs were found at the teenager's home. [@1] He
+More cash and a small amount of drugs were found at the teenager's home. [@1,4] He
 appeared in the Timaru District Court the same day, charged with possessing
 cannabis for supply. [@1] Police said the 18-year-old, from Christchurch, faced
-charges of supply and possession for supply of cannabis. [@2,3] He was remanded on
-bail and is due to reappear on 1 December. [@2]
+charges of supply and possession for supply of cannabis. [@2,3,4] He was remanded on
+bail and is due to reappear on 1 December. [@2,4]
 
 Police said the first vehicle was stopped at approximately 12.20am on Theodosia
-Street in Timaru, where they discovered more than $54,000 in a shoebox. [@2,3]
+Street in Timaru, where they discovered more than $54,000 in a shoebox. [@2,3,4]
 
 In a separate incident hours later, police pulled over a vehicle in the
 Christchurch suburb of Aranui and seized nearly 20 grams of methamphetamine,
