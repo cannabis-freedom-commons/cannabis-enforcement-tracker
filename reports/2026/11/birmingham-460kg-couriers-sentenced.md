@@ -104,6 +104,10 @@ sources:
     url: https://www.birmingham-now.co.uk/news/26714549.birmingham-airport-cannabis-smuggling-plot-couriers-fined/
     publisher: Birmingham Now
     date: 2026-11-10
+  - title: Faces of two cannabis couriers sentenced for major drugs conspiracy at Birmingham Airport
+    url: https://www.coventrytelegraph.net/news/local-news/faces-two-cannabis-couriers-sentenced-34892730
+    publisher: Coventry Live
+    date: 2026-11-11
 media:
   - kind: photo
     url: https://www.falmouthpacket.co.uk/news/26713455.cornwall-woman-sentenced-13-8m-cannabis-import-plot/
@@ -115,19 +119,19 @@ media:
     media_url: https://www.falmouthpacket.co.uk/resources/images/21692426.jpg?type=mds-article-962
     publisher: Falmouth Packet
     caption: 'Custody photo of Tasia Nelson, 22, of Newquay, published as the lead image of the sentencing report. Photo: NCA'
+  - kind: photo
+    url: https://www.coventrytelegraph.net/news/local-news/faces-two-cannabis-couriers-sentenced-34892730
+    media_url: https://i2-prod.coventrytelegraph.net/article34894209.ece/ALTERNATES/s1023/0_Clarke-Nelson.png
+    publisher: Coventry Live
+    caption: 'Police handout image of Jamal Clarke and Tasia Nelson, the final two couriers sentenced at Birmingham Crown Court over the Birmingham Airport cannabis haul. Photo: National Crime Agency'
 open_questions:
-  - The Falmouth Packet gives the hearing as "today (Monday, November 9)", while the earlier NCA text had said the two would be sentenced on 30 October; 9 November 2026 is used.
-  - The Falmouth Packet's account of who was convicted at trial and who pleaded guilty repeats paragraphs; the NCA update gives the cleaner account that Nelson was convicted on 19 August and Clarke pleaded guilty at an earlier hearing.
-  - The court's reasoning for suspending Nelson's 30-month term is not reported in either account.
-  - No figure for the amount of cannabis attributable to the final two couriers alone is given; the 460 kg is the gang's total seizure.
-  - Birmingham Live gives Clarke's address as The Mile End in Walthamstow and Nelson's as Cheviot Road in Newquay; the report keeps only the towns.
-  - The court's reasons for suspending Tasia Nelson's 30-month term are not given.
-  - The article was published on 9 November 2026 and says only that the hearing was "on Monday"; the date is taken as 9 November 2026.
-  - This copy of the Falmouth Packet article was read on MSN; the original report cites the article at falmouthpacket.co.uk.
-  - London Now reports the hearing only as "today (November 9)" and calls the arrival "August 2024" without a day.
-  - London Post prints the sentences with no court reasoning for suspending Nelson's term.
-  - London Post gives 20 kg per courier as the average rather than what each of the final two couriers carried.
-  - Birmingham Now describes Nelson's sentence as suspended for three years and Clarke's as a 30-month jail term without giving the court's reasons for the difference.
+    - The Falmouth Packet gives the hearing as "today (Monday, November 9)", while the earlier NCA text had said the two would be sentenced on 30 October; 9 November 2026 is used.
+    - The Falmouth Packet's account of who was convicted at trial and who pleaded guilty repeats paragraphs; the NCA update gives the cleaner account that Nelson was convicted on 19 August and Clarke pleaded guilty at an earlier hearing.
+    - No account gives the court's reasons for suspending Nelson's 30-month term or for the difference between the two sentences.
+    - No figure for the amount of cannabis attributable to the final two couriers alone is given; the 460 kg is the gang's total seizure.
+    - Birmingham Live gives Clarke's address as The Mile End in Walthamstow and Nelson's as Cheviot Road in Newquay; the report keeps only the towns.
+    - London Now reports the hearing only as "today (November 9)" and calls the arrival "August 2024" without a day.
+    - London Post and Coventry Live give 20 kg per courier as the average rather than what each of the final two couriers carried.
 ---
 
 On 22 October 2026, Birmingham Crown Court sentenced five members of a drug-smuggling gang that
@@ -139,9 +143,9 @@ four-week trial, while the others had pleaded guilty. [@2,12] Two more members, 
 Clarke, are due to be sentenced on 30 October. [@1,2]
 
 Border Force officers arrested the eleven-strong group in August 2024, when they found 460 kg of
-cannabis packed into 22 suitcases arriving from Thailand via Paris Charles de Gaulle. [@1,8,10,11,12] Each
+cannabis packed into 22 suitcases arriving from Thailand via Paris Charles de Gaulle. [@1,8,10,11,12,15] Each
 courier carried two suitcases holding about 20 kg of vacuum-packed cannabis under a thin layer of
-clothing, luggage so heavy they paid excess baggage charges at Bangkok airport. [@1,2,3,12,13] The group all arrived in the UK on the same flights from Thailand via Paris Charles de Gaulle Airport. [@13] Eight of the
+clothing, luggage so heavy they paid excess baggage charges at Bangkok airport. [@1,2,3,12,13,15] The group all arrived in the UK on the same flights from Thailand via Paris Charles de Gaulle Airport. [@13,15] Eight of the
 bags held Apple AirTags connected to the same Apple ID, and intelligence linking the passengers to
 others on connecting flights into Birmingham led officers to fully staff the nothing-to-declare
 channel, where the drugs were found. [@1,2,7,10,12,13]
@@ -149,11 +153,11 @@ channel, where the drugs were found. [@1,2,7,10,12,13]
 Four other couriers in the same conspiracy were sentenced on 21 September: Bradley Lloyd to four
 years, Nathan Vitorino and Lewis Ross to two years and eight months each, and Carsten Kyei to two
 and a half years. [@1,2] Senior investigating officer Paul Boniface said the convictions should warn
-others that smuggling is not worth the risk, and thanked Border Force for finding the drugs. [@1,2,10,13]
+others that smuggling is not worth the risk, and thanked Border Force for finding the drugs. [@1,2,10,13,15]
 NCA figures show 801 cannabis couriers caught arriving by plane in 2024, 976 in 2025, and 600 more
 arrested between January and June 2026. [@1,2,7] The National Crime Agency also reported that 600 air passenger couriers were arrested between January and June 2026. [@14]
 
-Tasia Nelson, 22, of Newquay, was sentenced to 30 months in prison suspended for three years at Birmingham Crown Court on Monday, 9 November 2026. [@3,4,5,7,8,9,10,11,13,14] The other defendant, Jamal Clarke, 22, of Walthamstow, London, was sentenced to 30 months in prison. [@3,4,6,7,9,10,11,13,14] The National Crime Agency described the two as the final two drugs couriers in the case. [@1]
+Tasia Nelson, 22, of Newquay, was sentenced to 30 months in prison suspended for three years at Birmingham Crown Court on Monday, 9 November 2026. [@3,4,5,7,8,9,10,11,13,14,15] The other defendant, Jamal Clarke, 22, of Walthamstow, London, was sentenced to 30 months in prison. [@3,4,6,7,9,10,11,13,14,15] The National Crime Agency described the two as the final two drugs couriers in the case. [@1]
 
 Paige Crisp, 25, from Broomhall, near Worcester, was convicted on 19 August 2026 with two other couriers following a four-week trial at Birmingham Crown Court. [@7]
 
