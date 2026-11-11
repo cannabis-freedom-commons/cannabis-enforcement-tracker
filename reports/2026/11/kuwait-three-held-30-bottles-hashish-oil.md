@@ -78,22 +78,27 @@ sources:
     url: https://timeskuwait.com/three-suspects-arrested-in-separate-drug-trafficking-cases/
     publisher: Times Kuwait
     date: 2026-11-11
+  - title: 'وزارة الداخلية: ضبط 3 متهمين بحوزتهم مواد مخدرة ومؤثرات عقلية بقصد الاتجار ...الكويت'
+    url: https://arabic.pressbee.net/show11110749.html?title=%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%B6%D8%A8%D8%B7-3-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87%D9%85-%D9%85%D9%88%D8%A7%D8%AF-%D9%85%D8%AE%D8%AF%D8%B1%D8%A9-%D9%88%D9%85%D8%A4%D8%AB%D8%B1%D8%A7%D8%AA-%D8%B9%D9%82%D9%84%D9%8A%D8%A9-%D8%A8%D9%82%D8%B5%D8%AF
+    publisher: برس بي
+    date: 2026-11-10
+    language: ar
 ---
 
 Kuwait's General Department for Drug Control in the Criminal Security Sector
 arrested three suspects across three separate cases on suspicion of possessing
-narcotics and psychotropic substances with intent to traffic. [@1,3,4,5,6,7] The Interior
+narcotics and psychotropic substances with intent to traffic. [@1,3,4,5,6,7,8] The Interior
 Ministry announced the arrests in a statement on Tuesday evening as part of its
 ongoing drug enforcement operations. [@2] In one of the cases, the General
 Department of Rescue Police detained a suspect and transferred him to
-drug-control officers. [@1,3,5,6,7] Follow-up investigations led officers to search that
+drug-control officers. [@1,3,5,6,7,8] Follow-up investigations led officers to search that
 suspect's residence, where they discovered an additional quantity of narcotics
 and a sensitive scale. [@1,3,5,6,7] Authorities referred the three suspects and the
 seized items to the competent authority to take legal measures against them.
-[@1,3,5,6,7]
+[@1,3,5,6,7,8]
 
 The cannabis items seized during the operations consisted of 30 bottles
-containing hashish oil and one piece of hashish. [@1,3,4,5,7] Alongside the cannabis,
+containing hashish oil and one piece of hashish. [@1,3,4,5,7,8] Alongside the cannabis,
 the operations yielded 3,001 grams of shabu, a synthetic stimulant that is not
 cannabis. [@1,3,5] Officers also confiscated 24 sheets of paper soaked in
 'chemical', three electronic cigarettes containing 'chemical' and four sensitive
