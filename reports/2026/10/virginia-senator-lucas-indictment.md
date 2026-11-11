@@ -60,6 +60,10 @@ sources:
     url: https://wtop.com/virginia/2026/10/virginia-state-sen-l-louise-lucas-is-charged-with-drug-trafficking-and-money-laundering-doj-says/
     publisher: WTOP News
     date: 2026-10-22
+  - title: D.C. Shuts 114th Illicit Storefront, DEA Blocks District Operators & Sen. Lucas Faces Expulsion Push
+    url: https://outlawreport.com/dc-114th-smoke-shop-closure-dea-ruling-lucas-ethics-inquiry/
+    publisher: Outlaw Report
+    date: 2026-11-11
 open_questions:
   - The PBS page gives only its publication date of 22 October 2026, describing the charges, announcement and surrender as "today," "this morning" and "this afternoon."
   - The accessible capture contains only the opening paragraphs behind a paywall, so it does not give indictment counts, co-defendant names, ages, or quantities.
@@ -89,4 +93,4 @@ down. [@2,3,6]
 
 The indictment describes a five-year scheme worth an estimated $4.5 million that obtained and illegally distributed large quantities of marijuana. [@5] On May 6, the FBI executed federal search warrants at The Cannabis Outlet and The CBD Shoppe and recovered marijuana and firearms at both locations. [@5,6]
 
-Law enforcement made multiple controlled purchases of marijuana from Lucas's shop, which purported to sell hemp products, in 2024 and 2025. [@6] The indictment alleges Lucas worked this year with another defendant to use her political position to obtain a recreational marijuana license for him, with the understanding that proceeds would be shared to support the enterprise. [@6] An arraignment is scheduled for next month. [@6] Lucas partnered in opening The Cannabis Outlet in 2021. [@6] She had publicly spoken about her ownership stake as recently as June, though her most recent financial disclosure forms do not list the business by name. [@6]
+Law enforcement made multiple controlled purchases of marijuana from Lucas's shop, which purported to sell hemp products, in 2024 and 2025. [@6] The indictment alleges Lucas worked this year with another defendant to use her political position to obtain a recreational marijuana license for him, with the understanding that proceeds would be shared to support the enterprise. [@6] An arraignment is scheduled for next month. [@6] Republican state Sen. Bryce Reeves has introduced a resolution directing the Virginia Senate Committee on Privileges and Elections to investigate Lucas's legislative conflict-of-interest and financial-disclosure compliance, prefiled ahead of the 2027 General Assembly session and carrying possible penalties from censure to expulsion. [@7] Lucas partnered in opening The Cannabis Outlet in 2021. [@6] She had publicly spoken about her ownership stake as recently as June, though her most recent financial disclosure forms do not list the business by name. [@6]

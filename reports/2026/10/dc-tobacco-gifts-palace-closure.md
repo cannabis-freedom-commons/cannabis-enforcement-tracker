@@ -45,6 +45,10 @@ sources:
     url: https://abca.dc.gov/release/abca-and-mpd-shut-down-illegal-cannabis-retailer-northwest-dc
     publisher: Alcoholic Beverage and Cannabis Administration
     date: 2026-10-30
+  - title: D.C. Shuts 114th Illicit Storefront, DEA Blocks District Operators & Sen. Lucas Faces Expulsion Push
+    url: https://outlawreport.com/dc-114th-smoke-shop-closure-dea-ruling-lucas-ethics-inquiry/
+    publisher: Outlaw Report
+    date: 2026-11-11
 open_questions:
   - No photograph of the shop, the closure or the seizure was published with either source; WJLA's lead image is a still from a Rhode Island cannabis-delivery story.
   - The sources give no age, lawyer or court date for Adil Khan and do not say whether he remains in custody.
@@ -52,21 +56,20 @@ open_questions:
 ---
 
 D.C. Tobacco and Gifts Palace in Northwest Washington has been shut down after
-authorities said it was selling cannabis without a licence. [@1] The Alcoholic
+authorities said it was selling cannabis without a licence. [@1,3] The Alcoholic
 Beverage and Cannabis Administration (ABCA), the District's alcohol and cannabis
 regulator, and the Metropolitan Police Department executed a closure order at
-3331 Connecticut Avenue NW on Wednesday 28 October 2026. [@2] Authorities said
+3331 Connecticut Avenue NW on Wednesday 28 October 2026. [@2] The shop sits directly across the street from a planned new retail outpost for legacy brand Street Lawyer Services. [@3] Authorities said
 the shop's unauthorized operations posed an imminent danger to public health and
 safety and ordered it closed immediately. [@2]
 
 Adil Khan was arrested and charged with distribution of a controlled substance
-and possession with intent to distribute, ABCA said. [@1] Officers seized 7.5
+and possession with intent to distribute, ABCA said. [@1,3] Officers seized 7.5
 pounds (3.4 kg) of marijuana, 39,659.2 grams of THC edibles, 2,275 grams of
 mushroom edibles, 1,336 grams of THC vape cartridges, 567 grams of THC
-concentrate, 46 grams of THC wax and 16 grams of THC resin. [@1]
+concentrate, 46 grams of THC wax and 16 grams of THC resin. [@1,3]
 
 ABCA said joint enforcement efforts have padlocked 114 illegal cannabis
 businesses in the District since expanded civil enforcement powers took effect
-in 2024. [@1] ABCA asked the public to continue reporting suspected illegal
+in 2024. [@1,3] ABCA asked the public to continue reporting suspected illegal
 cannabis businesses online. [@2]
-
