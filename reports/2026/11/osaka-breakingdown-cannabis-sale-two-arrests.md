@@ -156,6 +156,11 @@ sources:
     publisher: YTV NEWS NNN
     date: 2026-11-11
     language: ja
+  - title: ブレイキングダウン「ダイスケ」ら、大麻売買疑いで逮捕（写真・画像 1/1）
+    url: https://www.sankei.com/article/20261111-QZIL7DBSMRJUTLZY7AJ7KCBPXY/photo/KPP52JOWTBIAJJPPQG5YXXEWR4/
+    publisher: 産経新聞
+    date: 2026-11-11
+    language: ja
 media:
   - kind: video
     url: https://www.youtube.com/watch?v=iPnZ6VWrb6Y
@@ -170,10 +175,10 @@ open_questions:
 Osaka prefectural police arrested Daisuke Yamamoto, a 37-year-old man of no
 known occupation from Ikuno Ward in Osaka, and Masaru Sakaguchi, a 60-year-old
 beautician from the same ward, on suspicion of violating the Narcotics Special
-Provisions Law and related offences. [@1,2,3,4,5,7,8,10,11,12,13,14,16,17,20,22,23] Both men were referred to prosecutors on suspicion of violating the Special Narcotics Law and other charges. [@21] The arrests, over the alleged purchase
+Provisions Law and related offences. [@1,2,3,4,5,7,8,10,11,12,13,14,16,17,20,22,23] Yamamoto is from the Katsuyamakita district of Ikuno Ward, and Sakaguchi from Ikuno-nishi in the same ward. [@4] Both men were referred to prosecutors on suspicion of violating the Special Narcotics Law and other charges. [@21] The arrests, over the alleged purchase
 and sale of goods presented as cannabis, were announced by 11 November 2026.
 [@1,2,3,11,12,13] The two men were arrested on 10 November 2026. [@22,23] Police did not disclose whether the two men admitted the allegations. [@5,17,23,24] According to the police, Yamamoto had previously competed in BreakingDown,
-a mixed-rules combat sports event popular primarily among young people. [@1,2,3,6,11,12,13,15,19,23,24]
+a mixed-rules combat sports event popular primarily among young people. [@1,2,3,4,6,11,12,13,15,19,23,24] Yamamoto is known as "Daisuke". [@25]
 
 Investigators alleged that in December 2025, Yamamoto received an item as
 cannabis from Sakaguchi for 10,000 yen in the city of Osaka. [@1,2,3,4,5,9,12,13,15,16,17,18,19,20,22,23,24] The alleged handover occurred on 25 December 2025 at just after noon in Ikuno Ward. [@5] The alleged purchase took place near Yamamoto's home. [@24] Sakaguchi is
