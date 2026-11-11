@@ -47,6 +47,16 @@ sources:
     publisher: بوابة مولانا
     date: 2026-11-11
     language: ar
+  - title: 11 تاجر مخدرات في قبضة أمن القليوبية.. حملة مكبرة تستهدف مروجي الحشيش والهيروين والآيس بالخصوص
+    url: https://www.almasryalyoum.com/news/details/4407717
+    publisher: المصري اليوم
+    date: 2026-11-11
+    language: ar
+  - title: ضبط 11 تاجر مخدرات في حملة أمنية بالخصوص
+    url: https://elwatannews.com/news/details/8394660
+    publisher: الوطن
+    date: 2026-11-11
+    language: ar
 open_questions:
     - No weight, piece count or value was published for the hashish or for the other drugs.
     - The accounts give no separate date for the campaign; 11 November 2026 is the publication date and is used as the incident date.
@@ -56,20 +66,20 @@ open_questions:
 ---
 
 Security agencies in Qalyubia Governorate examined social-media posts that said
-drug dealers were active in the El-Khusus police district. [@1] Users had
+drug dealers were active in the El-Khusus police district. [@1,4] Users had
 circulated claims that dealers were operating inside the El-Khusus police
 station's area in Qalyubia. [@2] In response, security agencies in Qalyubia
 launched a large campaign against people possessing drugs and people dealing
-them in that district. [@1,3] The campaign was mounted immediately after those
+them in that district. [@1,3,5] The campaign was mounted immediately after those
 claims were examined. [@1] The sweep was confined to the area of the El-Khusus
-police station. [@1] The campaign detained 11 suspects. [@1,3]
+police station. [@1,5] The campaign detained 11 suspects. [@1,3,4]
 
 Officers said the 11 were carrying mixed quantities of narcotics, and they named
-hashish, heroin, ice and powdered drugs among what was found. [@1,3] Hashish,
+hashish, heroin, ice and powdered drugs among what was found. [@1,3,4] Hashish,
 pressed cannabis resin, was one of the drugs the accounts listed with the
 suspects. [@2] Heroin, ice and powdered drugs were named beside the hashish in
 the same seizure. [@1]
 
 After the arrests, the authorities took the legal steps required against the
-suspects. [@1] The Public Prosecution took over the investigation into the 11 suspects. [@3] Security agencies said further campaigns would continue against
-people breaking the law and against drug-dealing offences. [@1]
+suspects. [@1,4] The Public Prosecution took over the investigation into the 11 suspects. [@3,5] Security agencies said further campaigns would continue against
+people breaking the law and against drug-dealing offences. [@1,4]
