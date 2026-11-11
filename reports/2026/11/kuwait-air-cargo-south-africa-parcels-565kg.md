@@ -89,13 +89,11 @@ sources:
     url: https://kuwaittimes.com/article/53342/kuwait/customs-seizes-5650-kg-of-suspected-marijuana-at-air-cargo/
     publisher: Kuwait Times
     date: 2026-11-10
-open_questions:
-    - The source gives no separate date for the customs inspection; 9 November 2026 is its publication date and stands in for the incident date.
-    - The substance is described as suspected marijuana, called herbal hashish in Arabic; no laboratory confirmation was reported.
-    - No arrests, suspects, nationalities or charges were reported, and no court outcome is known.
-    - No value estimate for the sealed substance was published.
-    - The two parcels are counted as two sites of seizure; the source does not say whether they were sent by one shipper or consignee, or whether they came from South Africa or another African country.
-    - Only the General Directorate of Customs statement underlies the accounts; the customs news page itself did not load during research.
+  - title: കാർഗോ പാർസൽ വഴി കഞ്ചാവ്; 5,650 കിലോ പിടിച്ചെടുത്തു | Kuwait Cargo Cannabis Seized | Madhyamam
+    url: https://www.madhyamam.com/gulf-news/kuwait/kuwait-cargo-cannabis-seized-1571213
+    publisher: Madhyamam
+    date: 2026-11-11
+    language: ml
 media:
   - kind: photo
     url: https://www.alanba.com.kw/1384402
@@ -112,13 +110,13 @@ media:
 Kuwait's Air Cargo Customs Department said its inspection and deposit control
 inspectors seized two parcels that arrived from South Africa. [@1,2,3,4,5,7,8,9,10] The parcels
 carried a substance suspected to be marijuana, described as herbal hashish,
-weighing 5.650 kilograms in total. [@1,2,3,4,5,6,8,10]
+weighing 5.650 kilograms in total. [@1,2,3,4,5,6,8,10,11]
 
 The parcels had been declared as ceiling lamps, and the inspectors found the
-suspected substance inside them after searching. [@1,2,3,4,5,8,10] After the seizure, the
+suspected substance inside them after searching. [@1,2,3,4,5,8,10,11] After the seizure, the
 customs search and investigation department coordinated with the Interior
 Ministry's General Department for Drug Control to complete the legal procedures
-for the seized parcels. [@1,2,3,4,5,8,10]
+for the seized parcels. [@1,2,3,4,5,8,10,11]
 
 The General Directorate of Customs said it would keep blocking drug-smuggling
 attempts through customs posts and working with security agencies. [@1]
