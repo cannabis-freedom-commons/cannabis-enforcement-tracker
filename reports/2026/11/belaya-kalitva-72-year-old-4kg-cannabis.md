@@ -56,21 +56,19 @@ sources:
     publisher: ДОН24
     date: 2026-11-11
     language: ru
-open_questions:
-  - The reports give no separate date for the detention; 11 November 2026 is the date both accounts were published and is used as the incident date.
-  - The seized cannabis is described only as more than four kilograms, so the exact weight is not known.
-  - No court date or outcome has been reported; the case was at the investigation stage with the man under house arrest.
-  - Both published accounts reproduce the same statement from the Rostov Oblast interior ministry, so the event rests on one police source.
-  - The newspaper does not say whether the record of the year it describes refers to the district or to Rostov Oblast as a whole.
-  - The same report recalls a separate case involving a Volgodonsky District resident who said tomato seeds he had ordered online could not be distinguished from marijuana; that event is not covered here.
+  - title: Донского пенсионера задержали за выращивание конопли
+    url: https://www.panram.ru/news/dezhurnaya-chast/donskogo-pensionera-zaderzhali-za-vyrashchivanie-konopli/
+    publisher: Панорама (panram.ru)
+    date: 2026-11-11
+    language: ru
 ---
 
 Officers of the interior ministry department for Belokalitvinsky District in
 Rostov Oblast detained a 72-year-old local resident while working on operational
-information. [@2] They suspected him of using and unlawfully storing
-narcotic-containing plants. [@1] During an inspection of his home, officers
+information. [@2,3] They suspected him of using and unlawfully storing
+narcotic-containing plants. [@1,3] During an inspection of his home, officers
 found and seized cannabis plants with a total weight of more than four
-kilograms. [@2] An expert examination confirmed that the seized plants were a
+kilograms. [@2,3] An expert examination confirmed that the seized plants were a
 narcotic substance of plant origin. [@2] The newspaper described the seizure as
 an absolute record for the year so far. [@1]
 
@@ -83,5 +81,4 @@ part 2 of article 228 of the Criminal Code, which covers acquiring and storing
 narcotic drugs in large amounts without intent to sell. [@2] Given his age, he
 was left under house arrest for the duration of the investigation. [@1] The
 regional interior ministry said a measure of restraint in the form of house
-arrest had been chosen for him. [@2]
-
+arrest had been chosen for him. [@2,3]
