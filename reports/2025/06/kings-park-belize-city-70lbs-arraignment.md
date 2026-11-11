@@ -62,32 +62,41 @@ sources:
     url: https://www.greaterbelize.com/belize-city-woman-charged-following-major-drug-bust/
     publisher: Greater Belize Media
     date: 2025-06-26
+  - title: Woman Charged with Trafficking 31 Kilos of Marijuana Granted Bail
+    url: https://lovefm.com/woman-charged-with-trafficking-31-kilos-of-marijuana-granted-bail/
+    publisher: Love FM
+    date: 2025-06-26
 open_questions:
-  - The cannabis is described throughout as suspected, and no laboratory confirmation was reported.
-  - Amandala gives the street value as 100,000 Belize dollars, and Greater Belize Media as over 100,000 Belize dollars, without saying whose estimate it is.
-  - Greater Belize Media gives the weight as 70.5 pounds; the report uses 70.05 pounds, given by the submitted article, Love FM, the arraignment report and Amandala.
-  - Greater Belize Media says officers from Precincts 1 and 3 carried out the search, while the arraignment report says a joint Quick Response Team and Special Branch team did; the different unit accounts are not reconciled.
-  - The arraignment report calls her Merlene Rebecca Daniels while other accounts call her Rebecca Marlene Daniels, and the submitted article gives no street address.
-  - The court result after the 29 September 2025 return date was not reported in the sources found.
+    - The cannabis is described as suspected in all accounts, and no laboratory confirmation was reported.
+    - Amandala gives the street value as 100,000 Belize dollars, and Greater Belize Media as over 100,000 Belize dollars, without saying whose estimate it is.
+    - Greater Belize Media gives the weight as 70.5 pounds; the report uses 70.05 pounds, given by Love FM, the arraignment report and Amandala.
+    - Greater Belize Media says officers from Precincts 1 and 3 carried out the search, while the arraignment report says a joint Quick Response Team and Special Branch team did; the different unit accounts are not reconciled.
+    - 'Accounts differ on the woman''s name: the arraignment coverage and Love FM''s bail report call her Merlene Rebecca Daniels, while other accounts call her Rebecca Marlene Daniels.'
+    - The court result after the 29 September 2025 return date is not known.
+media:
+  - kind: photo
+    url: https://lovefm.com/woman-charged-with-trafficking-31-kilos-of-marijuana-granted-bail/
+    media_url: https://lovefm.com/wp-content/uploads/2025/06/DANIELS-DRUUGS-min.jpg
+    publisher: Love FM
+    caption: Page image published with Love FM's report on the 70.05 pounds of suspected cannabis seized from Daniels's Kings Park home and her bail. Uncredited.
 ---
 
 Police searched a home in the King's Park area of Belize City around midday on
-25 June 2025 and found 70.05 pounds of suspected cannabis. [@1]
+25 June 2025 and found 70.05 pounds of suspected cannabis. [@1,6]
 Twenty-four-year-old Rebecca Marlene Daniels, an unemployed Belizean, was at the
 house during the search and was detained. [@2] Officers found a black plastic
 barrel holding 23 parcels of cannabis and a second container with seven more
-parcels. [@1] The combined weight of the seized cannabis was 70.05 pounds, about
-31.77 kilograms. [@3]
+parcels. [@1,6] The combined weight of the seized cannabis was 70.05 pounds, about
+31.77 kilograms. [@3,6]
 
 Amandala reported the cannabis had a street value of 100,000 Belize dollars.
 [@4] Daniels appeared in the Belize City Magistrate's Court on 26 June 2025
 charged with possession of a controlled drug with intent to supply, and pleaded
-not guilty. [@4] Greater Belize Media reported 30 parcels with a total weight of
+not guilty. [@4,6] Attorney Ronell Gonzalez represented Daniels and applied for bail, noting she had no previous drug convictions. [@6] Greater Belize Media reported 30 parcels with a total weight of
 70.5 pounds. [@5] Chief Magistrate Deborah Rogers granted her bail of 10,000
 Belize dollars on condition that she surrender her travel documents and sign in
-weekly at a police station. [@3] The case was set to return to court on 29
-September 2025. [@3]
+weekly at a police station. [@3,6] Daniels paid an outstanding traffic fine and met bail. [@6] Daniels was also ordered not to leave Belize without the court's permission. [@6] Bail was granted with two sureties of 5,000 Belize dollars each. [@6] The case was set to return to court on 29
+September 2025. [@3,6]
 
 The search was conducted by a joint team of police units, including the Quick
 Response Team and Special Branch. [@3]
-
