@@ -76,6 +76,11 @@ sources:
     publisher: Portal do Cerrado
     date: 2025-11-29
     language: pt
+  - title: Mais de 200 mil pés de maconha destruídos na Bahia foram encontrados com auxílio de drones
+    url: https://g1.globo.com/ba/bahia/noticia/2025/11/30/mais-de-200-mil-pes-de-maconha-destruidos-na-bahia-foram-encontrados-com-auxilio-de-drones.ghtml
+    publisher: G1
+    date: 2025-11-30
+    language: pt
 open_questions:
   - 'The reports give no date separate from the two action days: the g1 report was published on 29 November 2025 and Folhapress says the actions ran on 28 and 29 November, so both days are recorded.'
   - The plant count is stated only as 'more than 200,000', not an exact figure.
@@ -91,12 +96,12 @@ open_questions:
 
 Military police destroyed more than 200,000 cannabis plants on a plantation in
 the rural area of Barro Alto, a municipality about 505 km from Salvador, the
-Bahia state capital. [@2] The plantation was found and mapped by the
+Bahia state capital. [@2,5] The plantation was found and mapped by the
 intelligence section of the Polícia Militar, Bahia's uniformed state military
-police, with the help of drones. [@2] Officers pulled up the plants and
-destroyed them on the spot. [@2] The police said the people responsible for the
+police, with the help of drones. [@2,5] Officers pulled up the plants and
+destroyed them on the spot. [@2,5] The police said the people responsible for the
 plantation had been located, but did not say how many were found or whether any
-were in custody. [@2]
+were in custody. [@2,5]
 
 The plantation covered 3.8 hectares and was worked during actions on 28 and 29
 November by the Cipe Semiárido, the state military police's specialised
@@ -115,4 +120,3 @@ gave no area, weight, number of people found or custody outcome. [@3] Portal do
 Cerrado reported that the military police said those responsible for the
 plantation had been located but would not say how many people were found or
 whether any arrests were made. [@4]
-
