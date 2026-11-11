@@ -50,12 +50,17 @@ sources:
     publisher: الاستاد الاخباري
     date: 2026-11-11
     language: ar
+  - title: مكافحة المخدرات تضبط (7) أشخاص لترويجهم مواد مخدرة في عسير وحائل
+    url: https://www.sra7h.com/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B6%D8%A8%D8%B7-7-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC%D9%87%D9%85/
+    publisher: صحيفة صراحة الالكترونية
+    date: 2026-11-11
+    language: ar
 ---
 
 Saudi Arabia's General Directorate of Narcotics Control arrested two people in
 Asir region, one a Yemeni border-security violator and the other a Saudi
-citizen. [@1,3] The pair were accused of promoting hashish, methamphetamine known
-as shabu, and tablets subject to medical-trade controls. [@2,3]
+citizen. [@1,3,4] The pair were accused of promoting hashish, methamphetamine known
+as shabu, and tablets subject to medical-trade controls. [@2,3,4]
 
 Both suspects were stopped, statutory procedures were taken against them, and
-they were referred to the Public Prosecution for further investigation. [@1]
+they were referred to the Public Prosecution for further investigation. [@1,4]
