@@ -41,15 +41,29 @@ sources:
     publisher: news.de
     date: 2026-11-11
     language: de
+  - title: Hagener Dealer mit 42 Drogentütchen in Dortmund festgenommen
+    url: https://www.wp.de/lokales/hagen/article413647186/hagener-dealer-mit-42-drogentuetchen-in-dortmund-festgenommen.html
+    publisher: Westfalenpost
+    date: 2026-11-11
+    language: de
+  - title: 'BPOL NRW: Bundespolizei schnappt mutmaßlichen Drogendealer'
+    url: https://www.presseportal.de/blaulicht/pm/70116/6388354
+    publisher: Bundespolizeidirektion Sankt Augustin
+    date: 2026-11-11
+    language: de
 open_questions:
-  - No weight for the 42 marijuana bags was published, so no cannabis weight is recorded.
-  - The account dates the check to the night from Monday to Tuesday given as 10 November at about 00:30; 10 November 2026 is used as the incident date.
-  - No court outcome, charges beyond the opened investigation, or further detention was reported.
-  - The whole account rests on one news.de report based on a Federal Police Directorate Sankt Augustin press release; no second accessible source was found.
+    - No weight for the 42 marijuana bags was published, so no cannabis weight is recorded.
+    - No court outcome, charges beyond the opened investigation, or further detention was reported.
+media:
+  - kind: photo
+    url: https://www.wp.de/lokales/hagen/article413647186/hagener-dealer-mit-42-drogentuetchen-in-dortmund-festgenommen.html
+    media_url: https://img.sparknews.funkemedien.de/413647242/413647242_1794391059_v16_9_1200.webp
+    publisher: Westfalenpost
+    caption: 'Police photo of the numerous sealed bags of marijuana secured from the man at Dortmund Hauptbahnhof. Photo: Bundespolizei / Anne Rohde'
 ---
 
 In the night from Monday to Tuesday dated 10 November, federal police officers
-checked a man at Dortmund central station. [@1] At about 00:30 they were
+checked a man at Dortmund central station. [@1,3] The man checked at Dortmund central station was a drug dealer from Hagen who had shifted his activities to Dortmund. [@2] At about 00:30 they were
 patrolling the north exit of Dortmund Hauptbahnhof when they noticed the man
 apparently handing an object to a stranger after a brief conversation. [@1] A
 later video review confirmed that suspicion, and officers then saw the
@@ -62,13 +76,12 @@ His statements about wanting to take a train were contradictory, and officers
 noticed a strong smell of marijuana. [@1] In his rucksack officers found a
 sealed plastic bag containing 39 sealed bags of packaged herbal-drug consumption
 units. [@1] Three more sealed bags were in his right jacket pocket, making 42
-marijuana bags in total. [@1]
+marijuana bags in total. [@1,3]
 
 The officers took the suspect to the federal police station, where his wallet
-held 300 euros in cash in denominations described as typical of the scene. [@1]
+held 300 euros in cash in denominations described as typical of the scene. [@1,3]
 He made no statement on the allegations and used his right to remain silent,
 while a fingerprint scan confirmed his identity. [@1] The federal police opened
 an investigation for violation of the Konsumcannabisgesetz, Germany's consumer
-cannabis law. [@1] After consultation with Dortmund police, the Somali man was
+cannabis law. [@1,3] After consultation with Dortmund police, the Somali man was
 handed over to them for identification procedures. [@1]
-
