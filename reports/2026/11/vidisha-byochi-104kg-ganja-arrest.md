@@ -87,23 +87,37 @@ sources:
     url: https://www.theweek.in/wire-updates/national/2026/11/10/mp-cannabis-worth-over-rs-1-19-crore-seized-2-arrested.html
     publisher: The Week
     date: 2026-11-10
+  - title: बाड़े में गड्ढा खोदकर छिपाया 52 लाख का गांजा, ऊपर रखे पत्थर व भूसा, बेचने से पहले पुलिस ने किया जब्त
+    url: https://www.bhaskar.com/amp/local/mp/vidisha/news/ganja-worth-52-lakh-rupees-was-hidden-in-a-pit-dug-in-the-enclosure-stones-and-straw-were-placed-on-top-the-police-seized-it-before-it-could-be-sold-dbp-139650184.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-11
+    language: hi
+  - title: विदिशा में ऑपरेशन क्लीन स्वीप की बड़ी कार्रवाई, 104 किलो गांजा जब्त; 52 लाख का मशरूका बरामद
+    url: https://navabharat.com/?p=619337
+    publisher: Nava Bharat
+    date: 2026-11-10
+    language: hi
+open_questions:
+  - The accounts do not state the exact calendar date of the 9 p.m. raid, name the three police stations involved, or identify the station where the Chhattisgarh Express consignment was loaded.
+  - Accounts differ slightly on the hiding spot, with some describing a shed in front of a house and another describing a deep pit inside an enclosure covered with stones and straw.
+  - No plea, remand order or court outcome has been reported, and the suppliers who sent the consignment have not yet been arrested.
 ---
 
 Karariya Chauraha police station officers searched a house in Byochi village in
 Vidisha district, Madhya Pradesh, and recovered 104.14 kg of ganja from a shed
-built in front of the house. [@1,3,4,5,6,7,8] Police acted on a tip-off that a man in the
-village was storing and selling ganja from the shed. [@1,3] Officers cordoned off
+built in front of the house. [@1,3,4,5,6,7,8] A joint team from three police stations and the District Special Branch (DSB) conducted the raid at 9 p.m., finding the 104.14 kg of ganja in five large plastic sacks inside a deep pit dug in an enclosure and covered with heavy stones and straw. [@9] Police acted on a tip-off that a man in the
+village was storing and selling ganja from the shed. [@1,3] The consignment had been moved from the railway station to the Byochi enclosure for distribution across different parts of the city through small peddlers. [@9] Officers cordoned off
 the spot, searched it and weighed the haul at 104.14 kg before seizing it. [@1]
 
 Police arrested a 26-year-old villager on the spot in connection with the haul.
-[@1,3] Police estimated the market value of the ganja at about 5.2 million rupees.
-[@1,3,4,5,6,7,8] A case was registered against him under sections 8 and 20 of the NDPS Act,
+[@1,3,9,10] Police identified the main accused as Jitendra, 26, son of Halke alias Bharat Singh Meena. [@9] Police estimated the market value of the ganja at about 5.2 million rupees.
+[@1,3,4,5,6,7,8,9] A case was registered against him under sections 8 and 20 of the NDPS Act,
 India's Narcotic Drugs and Psychotropic Substances Act, and investigation began.
-[@2,3,6,8]
+[@2,3,6,8,10] The case was recorded as Crime No. 312/2026. [@10]
 
 The operation was part of Operation Clean Sweep against drug trafficking,
 ordered by Superintendent of Police Rohit Kashwani. [@2,5,7] Police are
 investigating where the ganja came from, who it was meant for and whether the
-arrested man acted alone or for a wider network. [@1] The reports say further
+arrested man acted alone or for a wider network. [@1,9] During questioning, the accused disclosed that the ganja consignment had been brought to Vidisha on the Chhattisgarh Express. [@9] The reports say further
 arrests are possible as the supply source, buyers and others connected to the
 trade are traced. [@1]
