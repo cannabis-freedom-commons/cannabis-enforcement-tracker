@@ -59,6 +59,11 @@ sources:
     publisher: Tusciaweb
     date: 2026-11-11
     language: it
+  - title: 'Viterbo, tenta di disfarsi dell’hashish a Prato Giardino: arrestato 24enne'
+    url: https://www.civonline.it/news/cronaca/1358330/viterbo-tenta-di-disfarsi-dellhashish-a-prato-giardino-arrestato-24enne.html
+    publisher: Civonline
+    date: 2026-11-11
+    language: it
 open_questions:
   - The hashish weight is reported as approximate, about 38 grams, not an exact measured figure.
   - The outcome of the rito direttissimo hearing was not reported.
@@ -71,22 +76,21 @@ The arrest was made by the Radiomobile section of the Operational and
 Radiomobile Unit of the Viterbo company during prevention patrols against drug
 dealing in the city’s public areas. [@1] Officers noticed the young man walking
 through the park avenues with behaviour they deemed suspicious and decided to
-check him. [@1] When he saw the patrol, he allegedly tried to quickly discard a
+check him. [@1,4] When he saw the patrol, he allegedly tried to quickly discard a
 packet to evade the check, and officers immediately stopped him and recovered
-it. [@1] A second account also places the intervention inside Prato Giardino.
+it. [@1,4] A second account also places the intervention inside Prato Giardino.
 [@2]
 
 Inside the packet officers found about 38 grams of hashish, which they seized.
-[@1] A personal search then found 65 euros in banknotes of different
-denominations, seized as suspected proceeds of dealing. [@1] A third account
+[@1,4] A personal search then found 65 euros in banknotes of different
+denominations, seized as suspected proceeds of dealing. [@1,4] A third account
 likewise reports about 38 grams of hashish and 65 euros seized as suspected
 proceeds of dealing. [@3]
 
 After the checks the man was arrested in flagrante and placed at the disposal of
 the judicial authority for a summary trial under the rito direttissimo
-procedure. [@1] The Carabinieri statement gave no outcome of the hearing. [@1]
+procedure. [@1,4] The Carabinieri statement gave no outcome of the hearing. [@1]
 The operation was part of wider territorial checks focused on green areas and
 gathering places to prevent street drug dealing and other widespread illegality.
 [@1] He remains presumed innocent until any final conviction, under Article 27
 of the Constitution. [@1]
-
