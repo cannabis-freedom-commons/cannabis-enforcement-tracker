@@ -15,25 +15,34 @@ summary: >-
 figures:
   arrested: 44
   kg_seized: 2700
+  vehicles: 14
+  cash:
+    amount: 75500
+    currency: EUR
 details:
+  agencies: [Spanish Police, Italian Police]
   activity: [possession]
   agency_types: [police]
   case_stage: investigation
   products:
     - {product: hashish}
+    - {product: flower, kg: 2.5}
 data_sources:
   details.activity: [1, 2]
+  details.agencies: [1, 2, 3]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
-  details.products: [1, 2]
+  details.products: [1, 2, 3]
   figures.arrested: [1, 2]
+  figures.cash: [3]
   figures.kg_seized: [1, 2]
+  figures.vehicles: [3]
 status: verified
 created_by_model: meta/muse-spark
 tags: [hashish, ndrangheta, joint-operation]
 open_questions:
   - The report uses 11 May 2019, the date the results were announced; the dates of the individual seizures and arrests were not published.
-  - The second outlet republishes the Euronews account rather than reporting independently.
+  - The 2.5 kg of marijuana is kept separate from the 2.7-tonne hashish total.
 sources:
   - title: Police in Spain seize 2.7 tonnes of hashish
     publisher: Euronews
@@ -45,9 +54,13 @@ sources:
     url: https://cannabislaw.report/this-time-2-7-tonnes-of-hashish-seized-in-spain/
     archived: https://web.archive.org/web/20241214014955/https://cannabislaw.report/this-time-2-7-tonnes-of-hashish-seized-in-spain/
     date: 2019-05-11
+  - title: Over 40 Suspected Members Of Criminal Groups Detained In Italy, Spain - Spanish Police
+    publisher: Pakistan Point
+    url: https://www.pakistanpoint.com/en/story/618737/over-40-suspected-members-of-criminal-groups-detained-i.html
+    date: 2019-05-11
 ---
 
-A three-year joint operation by Spanish and Italian police seized 2.7 tonnes of hashish in Andalusia and led to 44 arrests. [@1,2] More than 70,000 euros in cash and illegal firearms were also seized. [@1,2]
+A three-year joint operation by Spanish and Italian police seized 2.7 tonnes of hashish in Andalusia and led to 44 arrests. [@1,2] More than 70,000 euros in cash and illegal firearms were also seized. [@1,2] Police reporting put the cash at €75,500 and counted 34 searches, 2.5 kg of marijuana, 12 firearms and 14 cars, with several more suspects placed on a wanted list. [@3]
 
 ## Who was arrested
 
