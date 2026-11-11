@@ -35,12 +35,19 @@ status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [mongla, bagerhat, bus, srb]
 open_questions:
-  - No second outlet account was found; the 45 kg gap between the on-scene 120 kg claim (six cartons in the rear chassis) and the 75 kg press-release figure is unresolved, and the bus's route and the case outcome were not reported.
+    - The 45 kg discrepancy between the 120 kg figure reported by initial outlets citing the deputy director and the 75 kg figure in the unit's press release remains unresolved.
+    - Initial reports identified three detainees from Rangpur, whereas the press release reported four arrests including a local resident from Morelganj.
+    - The court outcome of the cases initiated under the Narcotics Control Act has not been reported.
 sources:
   - title: গাঁজা উদ্ধারের পরিমাণ নিয়ে বিভ্রান্তি, কর্মকর্তা ১২০ কেজি বললেও বিজ্ঞপ্তিতে ৭৫
     url: https://www.dailyamardesh.com/bangladesh/khulna/amddvoqfiy3fi
     publisher: Daily Amar Desh
     date: 2026-10-07
+    language: bn
+  - title: ঢাকার কাঁচপুর থেকে মোংলায় আনা হচ্ছিল ১২০ কেজি গাঁজা, অতঃপর...
+    url: https://www.bvnews24.com/%E0%A6%85%E0%A6%AA%E0%A6%B0%E0%A6%BE%E0%A6%A7/news/217669
+    publisher: BVNEWS24
+    date: 2026-10-06
     language: bn
 ---
 
@@ -53,7 +60,7 @@ gap of up to 45 kg that sparked local debate. [@1]
 Around 1:20 at night on Tuesday, the company raided the Mongla-Morelganj
 road at Brahmanmath in Chandpai union of Mongla upazila; per the release, a
 passenger bus was searched, 75 kg of ganja was recovered, four people were
-arrested, and the bus was seized. [@1]
+arrested, and the bus was seized. [@1] According to SRB-6, the passenger bus had been placed under surveillance while travelling from Kanchpur in Dhaka via Morelganj toward Mongla. [@2]
 
 Those arrested are Md. Ibrahim, 23, a resident of Phulhata in Morelganj, and
 Parvez Ahmed, 25, Aminur Rahman, 32, and Nur Amin, 28, residents of Rangpur.
@@ -61,4 +68,4 @@ Parvez Ahmed, 25, Aminur Rahman, 32, and Nur Amin, 28, residents of Rangpur.
 reported 120 kg, saying the ganja sat in six cartons in the bus's rear
 chassis, while release-based reports put it at 75 kg — leaving open why one
 operation at one place and time produced two figures, and how 120 kg weighed
-first became 75 kg in the release. [@1]
+first became 75 kg in the release. [@1,2]
