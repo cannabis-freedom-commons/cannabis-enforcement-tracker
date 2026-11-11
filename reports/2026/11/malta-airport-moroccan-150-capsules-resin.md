@@ -74,6 +74,11 @@ sources:
     publisher: Italpress
     date: 2026-11-10
     language: it
+  - title: Man caught with 150 capsules of cannabis resin in stomach pleads not guilty
+    url: https://www.maltatoday.com.mt/news/court_and_police/145641/man_caught_with_150_capsules_of_cannabis_resin_in_stomach_pleads_not_guilty
+    publisher: MaltaToday
+    date: 2026-11-11
+    language: en
 media:
   - kind: photo
     url: https://timesofmalta.com/article/man-arrested-caught-150-cannabis-resin-capsules-stomach.1136876
@@ -81,14 +86,13 @@ media:
     publisher: Times of Malta
     caption: 'Approximately 150 capsules of suspected cannabis resin found in the man''s stomach. Photo: Malta Police Force'
 open_questions:
-    - Only the name El Habib was published, so the accused's full identity remains unclear.
     - No date for the next hearing was reported.
 ---
 
 A 45-year-old Moroccan man was arrested at Malta International Airport after
 police found about 150 capsules containing suspected cannabis resin inside his
-stomach. [@1,2,3,4,5,6] Police put the capsules at roughly 1.5 kilograms of suspected
-cannabis resin, with an estimated street value of €30,000. [@1,2,4,5,6,7,8]
+stomach. [@1,2,3,4,5,6,9] The accused was named as Adim El Habib. [@9] Police put the capsules at roughly 1.5 kilograms of suspected
+cannabis resin, with an estimated street value of €30,000. [@1,2,4,5,6,7,8,9]
 
 Intelligence suggested the man, travelling from Morocco to Malta via Spain,
 could be part of an organised drug trafficking network. [@1,2,3,4,5,6] Officers checked
@@ -100,5 +104,5 @@ all, were seized as allegedly intended for illegal importation into Malta. [@1]
 Magistrate Philip Galea Farrugia was informed and opened an inquiry, appointing
 experts to assist the investigation. [@1,2,4,5,6,8] The suspect was held at the police
 lock-up, with his arraignment expected around noon on Tuesday before Magistrate
-Abigail Critien. [@1,2,5] He was remanded in custody, with Magistrate Abigail Critien presiding. [@7,8] El Habib pleaded not guilty to importing cannabis resin in circumstances indicating that the substance was not intended for his personal use, and association to drug trafficking. [@7,8] During the hearing, he stated that he worked as a vegetable vendor and resided in Spain, not in Malta. [@8] Police said investigations into the suspected trafficking
+Abigail Critien. [@1,2,5] He was remanded in custody, with Magistrate Abigail Critien presiding. [@7,8,9] Inspector Francesco Mizzi prosecuted, with Ylenia-Marie Abela from the Office of the Attorney General, and legal aid lawyer Martina Herrera appeared for the accused. [@9] El Habib pleaded not guilty to importing cannabis resin in circumstances indicating that the substance was not intended for his personal use, and association to drug trafficking. [@7,8,9] The defence did not request bail at this stage. [@9] The defence did not contest the validity of his arrest. [@9] During the hearing, he stated that he worked as a vegetable vendor and resided in Spain, not in Malta. [@8,9] Police said investigations into the suspected trafficking
 operation were ongoing. [@1]
