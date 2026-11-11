@@ -65,6 +65,11 @@ sources:
     publisher: Badan Narkotika Nasional
     date: 2026-11-11
     language: id
+  - title: Sambut Hari Pahlawan, BNN Musnahkan 8.000 Batang Ganja di Dua Titik Lahan Aceh Besar
+    url: https://www.sonora.co.id/news/46122/sambut-hari-pahlawan-bnn-musnahkan-8-000-batang-ganja-di-dua-titik-lahan-aceh-besar
+    publisher: Sonora.co.id
+    date: 2026-11-11
+    language: id
 open_questions:
     - Initial media reports estimated the field area at 2.5 hectares, while BNN's official statement gave a total area of three hectares across the two sites.
     - The report does not say whether the estimated four-ton weight is a wet or dried weight.
@@ -73,7 +78,7 @@ open_questions:
 
 BNN officers with TNI and police destroyed more than four tons of
 ready-to-harvest cannabis plants on a 2.5-hectare field in Aceh Besar. [@1] The
-field lay in the mountains of Desa Pulo Lamteba, Aceh Besar regency, Aceh. [@2,3,4]
+field lay in the mountains of Desa Pulo Lamteba, Aceh Besar regency, Aceh. [@2,3,4,5]
 The destruction operation involved hundreds of personnel from BNN, the
 Indonesian military and the police. [@2,3] At the site, officers swept two field
 locations found at the foot of Mount Seulawah. [@2,3]
@@ -81,7 +86,7 @@ locations found at the foot of Mount Seulawah. [@2,3]
 The joint team walked for three hours over rough terrain to reach the
 2.5-hectare field. [@2] The plants were about one to two metres tall and planted
 about 50 centimetres apart. [@2] Officers pulled up all the plants, gathered
-them into two large piles and burned them on the spot. [@2] BNN reported that officers destroyed approximately 8,000 cannabis plants across three hectares with an estimated weight of around four tons. [@4]
+them into two large piles and burned them on the spot. [@2] BNN reported that officers destroyed approximately 8,000 cannabis plants across three hectares with an estimated weight of around four tons. [@4,5]
 
 The case began with information from local residents. [@2] Officers then
 investigated for about a week before finding the mountain planting site. [@2]
