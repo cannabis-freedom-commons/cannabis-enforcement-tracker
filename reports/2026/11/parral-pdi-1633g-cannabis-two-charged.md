@@ -63,6 +63,11 @@ sources:
     publisher: Diario El Centro
     date: 2026-11-10
     language: es
+  - title: PDI desarticula tres puntos de comercialización de drogas en Parral e incauta más de un kilo y medio de cannabis
+    url: https://www.vlnradio.cl/noticias/policial/2026/11/10/pdi-desarticula-tres-puntos-de-comercializacion-de-drogas-en-parral-e-incauta-mas-de-un-kilo-y-medio-de-cannabis/
+    publisher: VLN Radio
+    date: 2026-11-10
+    language: es
 open_questions:
     - The articles give no separate date for the searches or arrests; 9 November 2026 is the earliest publication date and is used as the incident date.
     - No figure for the value of the seized cannabis was published.
@@ -79,16 +84,16 @@ media:
 
 Detectives of the Modelo Territorial Cero (MT-0) team of the Brigada de
 Investigación Criminal in Parral arrested a man and a woman, both adults, in the
-commune of Parral. [@1,2,3] The arrests followed judicial search orders carried out
-at three properties in the commune. [@1,2,3] According to the PDI, the investigation
-established that drugs were being sold at those properties. [@1,3]
+commune of Parral. [@1,2,3,4] Both detainees were Chilean nationals. [@4] The arrests followed judicial search orders carried out
+at three properties in the commune. [@1,2,3,4] According to the PDI, the investigation
+established that drugs were being sold at those properties. [@1,3,4]
 
-During the searches detectives seized 1,632.59 grams of cannabis. [@1,2,3] Officers
+During the searches detectives seized 1,632.59 grams of cannabis. [@1,2,3,4] Officers
 also seized 3.82 grams of dosed cocaína base, 489,000 pesos in cash and a mobile
-phone; the cocaine is not part of the cannabis figures. [@1,2,3]
+phone; the cocaine is not part of the cannabis figures. [@1,2,3,4]
 
 The Fiscalía de Parral charged the man with drug trafficking and requested his
-pre-trial detention, which the court granted. [@1,2,3] The woman was charged with
+pre-trial detention, which the court granted. [@1,2,3,4] The woman was charged with
 microtráfico, small-scale drug dealing, and placed under precautionary measures
-to ensure she attends the proceedings. [@1,2,3] The court set a five-month
-investigation period. [@1,2,3]
+to ensure she attends the proceedings. [@1,2,3,4] The court set a five-month
+investigation period. [@1,2,3,4]
