@@ -135,6 +135,11 @@ sources:
     publisher: Варта 1
     date: 2026-11-10
     language: uk
+  - title: На Львівщині військовослужбовець організував наркобізнес
+    url: https://fraza.com/uk/amp/382671-na-lvivschini-vijskovosluzhbovets-organizuvav-narkobiznes
+    publisher: фрАза (Fraza.ua)
+    date: 2026-11-11
+    language: uk
 ---
 
 Police detained three people accused of growing cannabis in a greenhouse on the
@@ -146,13 +151,13 @@ police, had forged a medical history to be discharged on health grounds while
 dealing drugs. [@1,2,4,6,8,9,10,11,12] Officers of the National Police's Department of Internal
 Security found the group while investigating a scheme of forged medical
 documents used to release servicemen from duty, and the detectives work with
-Lviv region police investigators. [@2]
+Lviv region police investigators. [@2] The operation was carried out in cooperation with the Department of Internal Security of the Armed Forces of Ukraine. [@13]
 
 The three were detained during another hand-over, with special police unit
 officers assisting, the police said. [@1,2,7,8] Searches at the suspects' homes, using
 handlers and sniffer dogs, turned up about 15 kilograms of cannabis, cash and
-other evidence. [@1,4,5,7,8,10,12] Police estimated the black-market value of the drugs at
-about 4.5 million hryvnia. [@1,4,5,6,7,8,9,10,11,12]
+other evidence. [@1,4,5,7,8,10,12,13] Police estimated the black-market value of the drugs at
+about 4.5 million hryvnia. [@1,4,5,6,7,8,9,10,11,12,13]
 
 The plants were dried, ground and packed on the same property into "shaiby" —
 slang for packages each holding about 20 grams of ready-to-use cannabis — which
