@@ -80,6 +80,11 @@ sources:
     publisher: 埼玉新聞
     date: 2026-11-11
     language: ja
+  - title: 大麻売買疑いで男逮捕 | 福島民報デジタル
+    url: https://www.minpo.jp/articles/-/271772
+    publisher: 福島民報デジタル
+    date: 2026-11-11
+    language: ja
 open_questions:
     - The weight of the item in the December 2025 transaction was not reported; about 5 grams was reported only for the cannabis found in the February 2026 car search.
     - The exact arrest dates were not given; 11 November 2026 is the articles' publication date and stands in for the event date.
@@ -91,7 +96,7 @@ open_questions:
 Osaka prefectural police arrested Daisuke Yamamoto, a 37-year-old man of no
 known occupation from Ikuno Ward in Osaka, and Masaru Sakaguchi, a 60-year-old
 beautician from the same ward, on suspicion of violating the Narcotics Special
-Provisions Law and related offences. [@1,2,3,4,5,7,8] The arrests, over the alleged purchase
+Provisions Law and related offences. [@1,2,3,4,5,7,8,10] The arrests, over the alleged purchase
 and sale of goods presented as cannabis, were announced by 11 November 2026.
 [@1,2,3] Police did not disclose whether the two men admitted the allegations. [@5] According to the police, Yamamoto had previously competed in BreakingDown,
 a mixed-rules combat sports event popular primarily among young people. [@1,2,3,6]
