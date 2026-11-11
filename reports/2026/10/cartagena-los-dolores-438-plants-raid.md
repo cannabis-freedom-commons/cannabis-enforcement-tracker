@@ -45,27 +45,36 @@ sources:
     publisher: La Verdad
     date: 2026-11-03
     language: es
+  - title: Desmantelan dos plantaciones indoor de marihuana en Los Dolores con 500 plantas, un fusil de asalto y una granada
+    url: https://cartagenadiario.es/plantaciones-marihuana-los-dolores-cartagena-detenidos/
+    publisher: Cartagena Diario
+    date: 2026-11-11
+    language: es
+  - title: Desmantelan dos plantaciones de marihuana en Cartagena e intervienen un fusil de asalto y una granada
+    url: https://www.orm.es/informativos/desmantelan-dos-plantaciones-de-marihuana-en-cartagena-e-intervienen-un-fusil-de-asalto-y-una-granada/
+    publisher: Onda Regional de Murcia
+    date: 2026-11-11
+    language: es
 open_questions:
-  - The article, published on 3 November 2026, dates the searches only to last week and last Thursday, so 29 October 2026 is used as the incident date on that basis.
-  - The marijuana weight was reported only as almost 172,000 grams, so 172 kg is an approximate conversion.
-  - Only one accessible account of this event was found after searching in Spanish, so all figures come from the authorities' version as reported by La Verdad.
-  - No court outcome beyond referral to Investigating Court number 4 and the woman's provisional release was reported.
+    - The article, published on 3 November 2026, dates the searches only to last week and last Thursday, so 29 October 2026 is used as the incident date on that basis.
+    - Later accounts of the joint police and customs release report more than 500 plants weighing 200 kg, against 438 plants weighing almost 172 kg in the initial account, so the report keeps the initial figures pending clarification of the final official count.
+    - No court outcome beyond the referral to Investigating Court number 4, the woman's provisional release and the principal suspect's provisional detention was reported.
 ---
 
 National Police and Customs Surveillance officers dismantled two marijuana
 plantations operating in homes in the Los Dolores neighbourhood of Cartagena
-during the previous week. [@1] Officers found a 51-year-old man in the La Palma
+during the previous week. [@1,2,3] Officers found a 51-year-old man in the La Palma
 house who tried to stop them entering and had to be restrained. [@1] The woman
 who owned both properties was also arrested over alleged involvement but was
 released on provisional liberty after giving a statement, and the proceedings
-were sent to Cartagena Investigating Court number 4. [@1]
+were sent to Cartagena Investigating Court number 4. [@1] A judge subsequently ordered the principal suspect remanded in provisional detention. [@2]
 
 The searches found two indoor plantations holding 438 marijuana plants weighing
 almost 172,000 grams, about 172 kg. [@1] At the La Palma property officers also
 found a Kalashnikov-type assault rifle with two magazines and a semi-automatic
 pistol with its magazine and cartridges. [@1] Officers also seized a hand
 grenade, which was removed by TEDAX, the National Police explosives-disposal
-specialists. [@1] Among the seized items were numerous cultivation devices,
+specialists. [@1,2] Officers also seized a pellet shotgun with a telescopic sight, binoculars, a sword stick and an electric defence device. [@2] Among the seized items were numerous cultivation devices,
 including fans, extractors, filters, transformers and lights. [@1]
 
 The investigation began after officers detected an increase in marijuana
@@ -79,5 +88,4 @@ illegal connections to the network. [@1] Investigators obtained judicial
 authorisation to search both homes, and the joint National Police and Customs
 Surveillance operation took place the previous Thursday. [@1] The man was
 detained as the alleged perpetrator of public-health, illegal-weapons,
-explosives-possession and electricity-fraud offences. [@1]
-
+explosives-possession and electricity-fraud offences. [@1,2]
