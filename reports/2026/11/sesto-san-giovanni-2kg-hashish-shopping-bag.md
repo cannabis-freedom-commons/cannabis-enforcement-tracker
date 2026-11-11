@@ -62,6 +62,11 @@ sources:
     publisher: Il Giorno
     date: 2026-11-11
     language: it
+  - title: Arrestato 48enne con 2 chili di hashish
+    url: https://www.monzatoday.it/cronaca/arrestato-polizia-hashish-buste-spesa.html
+    publisher: MonzaToday
+    date: 2026-11-11
+    language: it
 open_questions:
   - The reports give no separate date for the stop; 11 November 2026 is the publication date, and both say the arrest was in recent days.
   - The hashish weight is given as about two kilograms and the marijuana as about 50 grams, so the 2.05 kg total is approximate.
@@ -72,20 +77,19 @@ open_questions:
 
 State Police arrested a 48-year-old Italian man with previous convictions in
 Sesto San Giovanni, in the Milan area, on a charge of holding drugs for dealing.
-[@1] Officers of the investigative squad at the Sesto San Giovanni police
+[@1,3] Officers of the investigative squad at the Sesto San Giovanni police
 station had been watching closely packed public-housing blocks that police said
 held a high concentration of people with criminal records. [@1] Police said the
 area was marked by a high concentration of people with criminal records. [@1]
-During those checks they found the man near his home. [@1]
+During those checks they found the man near his home. [@1,3]
 
 He was carrying about two kilograms of hashish, split into several packages
-inside an ordinary shopping bag, and a sum of cash. [@1] A later search of
-premises under his control found another 50 grams of marijuana. [@1] Police
+inside an ordinary shopping bag, and a sum of cash. [@1,3] A later search of
+premises under his control found another 50 grams of marijuana. [@1,3] Police
 seized the hashish, the marijuana and the cash. [@1]
 
 The file was sent to the public prosecutor's office at the Monza court for
-validation of the arrest. [@1] The judicial authority validated the arrest and,
+validation of the arrest. [@1,3] The judicial authority validated the arrest and,
 at the end of a fast-track hearing, ordered the suspect to report to the
-judicial police. [@1] The case remains in the preliminary investigation, and
+judicial police. [@1,3] The case remains in the preliminary investigation, and
 guilt can be established only by a final conviction. [@2]
-
