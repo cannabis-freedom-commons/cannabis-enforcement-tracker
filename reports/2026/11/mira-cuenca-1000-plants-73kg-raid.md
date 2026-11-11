@@ -96,27 +96,32 @@ sources:
     publisher: La Razón
     date: 2026-11-10
     language: es
+  - title: Desmantelan en Mira una plantación de más de 1.000 plantas de marihuana y envían a prisión a un detenido
+    url: https://www.cuencanews.es/noticia/116412/provincia/desmantelan-en-mira-una-plantacion-de-mas-de-1.000-plantas-de-marihuana-y-envian-a-prision-a-un-detenido.html
+    publisher: Cuenca News
+    date: 2026-11-10
+    language: es
 ---
 
 In Operation TABACU II, the Guardia Civil detained a 37-year-old man allegedly
-put in charge of caring for the cannabis crop in Mira, Cuenca. [@1,2,3,4] The
+put in charge of caring for the cannabis crop in Mira, Cuenca. [@1,2,3,4,6] The
 exploitation phase ran during October with officers from the Judicial Police
-Unit and the ROCA team of the Cuenca company. [@1,5] During the operation,
+Unit and the ROCA team of the Cuenca company. [@1,5,6] During the operation,
 officers surprised and detained the man who allegedly looked after the crop.
-[@1,5] He was accused of a presumed offence against public health. [@1,5] After
+[@1,5,6] He was accused of a presumed offence against public health. [@1,5,6] After
 being brought before the judiciary, the duty court in Cuenca ordered his remand
-in provisional prison, communicated and without bail. [@1,2,3,4,5] The Guardia Civil
-said further arrests in connection with the case were not ruled out. [@1,3,4,5]
+in provisional prison, communicated and without bail. [@1,2,3,4,5,6] The Guardia Civil
+said further arrests in connection with the case were not ruled out. [@1,3,4,5,6]
 
 The Guardia Civil dismantled an extensive marijuana plantation in a
-hard-to-access natural area in the municipality of Mira, Cuenca. [@1,2,3,4,5] The
+hard-to-access natural area in the municipality of Mira, Cuenca. [@1,2,3,4,5,6] The
 plantation would have held more than 1,000 marijuana plants that had already
-been cut and were in different treatment phases for later distribution. [@1,2,3,4,5] The
-operation seized nearly 73 kilos of cannabis inflorescences. [@1,2,3,4,5]
+been cut and were in different treatment phases for later distribution. [@1,2,3,4,5,6] The
+operation seized nearly 73 kilos of cannabis inflorescences. [@1,2,3,4,5,6]
 
 Investigators located rugged terrain that had been prepared and cleared in
-different areas to grow the crop. [@1,5] Officers found two separate areas, one
-for processing marijuana and another set up for rest and surveillance. [@1,2,5] The
+different areas to grow the crop. [@1,5,6] Officers found two separate areas, one
+for processing marijuana and another set up for rest and surveillance. [@1,2,5,6] The
 rest area held several tents, food, a gas cylinder and other items to support
-the stay of those responsible. [@1,5] An infrastructure had been installed to draw
-and channel water from a nearby river to the plantation. [@1,5]
+the stay of those responsible. [@1,5,6] An infrastructure had been installed to draw
+and channel water from a nearby river to the plantation. [@1,5,6]
