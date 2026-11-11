@@ -83,6 +83,11 @@ sources:
     publisher: إدارة مكافحة المخدرات
     date: 2026-11-10
     language: ar
+  - title: من لبنان إلى سوريا.. محاولة تهريب 200 ألف حبة مخدرة و61 كيلوغراماً من الحشيش!! - سفير الشمال
+    url: https://safiralchamal.com/2026/11/11/739616/
+    publisher: سفير الشمال
+    date: 2026-11-11
+    language: ar
 open_questions:
     - No exact date was published for the two operations; 10 November 2026 is the publication date of the directorate's announcement and media reports and stands in as the incident date.
     - No specific locality in Rif Dimashq Governorate, and no separate arrest or seizure breakdown between the two operations, was published.
@@ -92,14 +97,14 @@ open_questions:
 ---
 
 Syria's anti-narcotics directorate carried out two security operations in Rif
-Dimashq against drug smuggling from Lebanon into Syria. [@1,2,3,4,5,6] Officers arrested
-three people after intensive field surveillance and monitoring. [@1,3] The
-directorate announced the suspects on Telegram only by their initials. [@1,4] The directorate identified the three detainees by the Arabic initials أ.ب, ب.ع and ع.د. [@5]
+Dimashq against drug smuggling from Lebanon into Syria. [@1,2,3,4,5,6,7] Officers arrested
+three people after intensive field surveillance and monitoring. [@1,3,7] The
+directorate announced the suspects on Telegram only by their initials. [@1,4,7] The directorate identified the three detainees by the Arabic initials أ.ب, ب.ع and ع.د. [@5]
 Those arrested were referred to the competent authorities for further
-investigation and legal proceedings. [@1,3,4,5]
+investigation and legal proceedings. [@1,3,4,5,7]
 
-The operations seized 61 kilograms of hashish. [@1,2,3,4,5] Officers also confiscated 2
-kilograms of marijuana. [@1,2,4,5] Authorities also confiscated 200,000 narcotic
-pills, which are excluded from the cannabis figures. [@1,2,4,5] The directorate said
+The operations seized 61 kilograms of hashish. [@1,2,3,4,5,7] Officers also confiscated 2
+kilograms of marijuana. [@1,2,4,5,7] Authorities also confiscated 200,000 narcotic
+pills, which are excluded from the cannabis figures. [@1,2,4,5,7] The directorate said
 the operations aimed to dismantle trafficking networks and cut drug smuggling
-routes from Lebanon into Syria. [@1,2,4,5]
+routes from Lebanon into Syria. [@1,2,4,5,7]
