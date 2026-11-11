@@ -77,6 +77,10 @@ sources:
     url: https://www.bbc.com/news/articles/c3x2w2kk8d9po
     publisher: BBC News
     date: 2026-11-10
+  - title: Drug dealers jailed after dawn raids uncover cocaine, cash and weapons
+    url: https://www.yorkshirepost.co.uk/news/crime/drug-dealers-jailed-after-dawn-raids-uncover-cocaine-cash-and-weapons-9341648
+    publisher: Yorkshire Post
+    date: 2026-11-10
 open_questions:
     - No figure was published for the amount of cannabis seized at Grayswood Crescent, in plants, weight or value.
     - The £22,000 street value estimate covers all the drugs seized in the raids, and police give no separate cannabis value.
@@ -87,26 +91,26 @@ open_questions:
 ---
 
 Alfie Leahy, 21, and Connor Broadbent, 26, were sentenced at Bradford Crown
-Court on Monday 9 November 2026. [@1] Both had pleaded guilty at Bradford Crown
-Court on 20 August 2026. [@1] The pair was jailed for a combined total of more
+Court on Monday 9 November 2026. [@1,4] Both had pleaded guilty at Bradford Crown
+Court on 20 August 2026. [@1,4] The pair was jailed for a combined total of more
 than eight years. [@1,3]
 
 West Yorkshire Police officers executed warrants at two separate addresses in
 the Holmewood area just after 5am on 17 July 2026. [@2] At the Dawson Street
 address they found a significant quantity of cocaine, cash, gold jewellery and
-vehicles. [@2] At Grayswood Crescent officers recovered cannabis, a baton and a
-replica firearm. [@2,3] Drug paraphernalia, knives and several mobile phones were
-found at both addresses. [@1] Police estimated the total street value of the
-drugs at more than £22,000. [@1,3]
+vehicles. [@2,4] At Grayswood Crescent officers recovered cannabis, a baton and a
+replica firearm. [@2,3,4] Drug paraphernalia, knives and several mobile phones were
+found at both addresses. [@1,4] Police estimated the total street value of the
+drugs at more than £22,000. [@1,3,4]
 
 Leahy, of Dawson Street, Bradford, was sentenced to five years for two counts of
 being concerned in the supply of crack cocaine and two counts of being concerned
-in the supply of heroin. [@1] He was also sentenced for possession with intent
-to supply cocaine, crack cocaine and heroin. [@1] Broadbent, of Wycombe Green,
+in the supply of heroin. [@1,4] He was also sentenced for possession with intent
+to supply cocaine, crack cocaine and heroin. [@1,4] Broadbent, of Wycombe Green,
 Bradford, received three years and four months for possession with intent to
-supply cocaine and possession of criminal property. [@1,3]
+supply cocaine and possession of criminal property. [@1,3,4]
 
 Sergeant Charlie Smallwood, of Bradford District, said the sentences should
-serve as a warning to others who aim to profit from criminality. [@1,3] He said
+serve as a warning to others who aim to profit from criminality. [@1,3,4] He said
 drug dealing blights communities and is a direct cause of violent crime and
-county lines offending. [@1]
+county lines offending. [@1,4]
