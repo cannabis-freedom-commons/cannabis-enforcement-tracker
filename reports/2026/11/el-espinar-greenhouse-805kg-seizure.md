@@ -57,28 +57,32 @@ sources:
     publisher: Cadena SER
     date: 2026-11-10
     language: es
+  - title: Un aviso vecinal por olor a marihuana descubre un invernadero clandestino en El Espinar
+    url: https://www.tribunasegovia.com/noticias/466028/un-aviso-vecinal-por-olor-a-marihuana-descubre-un-invernadero-clandestino-en-el-espinar
+    publisher: Tribuna de Segovia
+    date: 2026-11-10
+    language: es
 open_questions:
     - No number of plants was published, so only the gross weight of 8.05 kilograms is recorded.
     - The articles give no separate date for the raid, so 10 November 2026, the publication date, stands in for the incident date.
     - The two people were reported as investigated rather than arrested, and no charges, pleas or court outcome were reported.
-    - The 8.05 kilograms is described as gross plant material, without saying whether it was fresh plants or dried material.
 ---
 
 The Guardia Civil in Segovia dismantled a clandestine marijuana plantation
-hidden in a greenhouse near the town centre of El Espinar. [@1,2,3] Two people
+hidden in a greenhouse near the town centre of El Espinar. [@1,2,3,4] Two people
 living in El Espinar were placed under investigation over their alleged
-involvement in the grow. [@1,2,3] They were treated as suspected perpetrators of an
+involvement in the grow. [@1,2,3,4] The two local residents were the owners of the greenhouse. [@4] They were treated as suspected perpetrators of an
 offence against public health involving drug trafficking through cultivation.
-[@1,3] The proceedings drawn up by the officers were sent to the competent
-judicial authority in Segovia. [@1,3]
+[@1,3,4] The proceedings drawn up by the officers were sent to the competent
+judicial authority in Segovia. [@1,3,4]
 
 After inspecting the site, officers seized all of the plants, with a gross
-weight of 8.05 kilograms of plant material. [@1,2,3] They also dismantled the
-infrastructure used to produce the cannabis. [@1,3] The seized material was taken
-to the official drug store for safekeeping and later destruction. [@1,3]
+weight of 8.05 kilograms of plant material. [@1,2,3,4] The seized plant mass consisted of live plants. [@4] They also dismantled the
+infrastructure used to produce the cannabis. [@1,3,4] The seized material was taken
+to the official drug store for safekeeping and later destruction. [@1,3,4]
 
 The operation began with a tip from a member of the public who reported a strong
-smell of marijuana near the town centre. [@1,2,3] Using that information, officers
+smell of marijuana near the town centre. [@1,2,3,4] Using that information, officers
 investigated to trace the source of the smell and check whether an illegal
-plantation existed. [@1,3] Their inquiries identified the greenhouse where the
-crop was hidden. [@1,3]
+plantation existed. [@1,3,4] Their inquiries identified the greenhouse where the
+crop was hidden. [@1,3,4]
