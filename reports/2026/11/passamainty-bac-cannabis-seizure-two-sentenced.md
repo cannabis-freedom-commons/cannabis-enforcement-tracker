@@ -60,18 +60,22 @@ sources:
     publisher: L'info Kwezi
     date: 2026-11-10
     language: fr
+  - title: 'Mayotte : plus de 3 kg de résine de cannabis et 8 000 euros saisis, deux personnes interpellées'
+    url: https://freedom.fr/mayotte-plus-de-3-kg-de-resine-de-cannabis-et-8-000-euros-saisis-deux-personnes-interpellees/
+    publisher: Free Dom
+    date: 2026-11-11
+    language: fr
 open_questions:
-  - The first accounts reported 3 kg of cannabis and 8,000 euros while the trial account gave 3.334 kg and 8,495 euros; the report uses the trial figures.
-  - Three people were arrested but only two stood trial on 9 November; the status of the third person, to be summoned later, is unknown.
-  - The outcome of the search at the tax administration employee's home on square Papaye was not reported.
-  - It is unclear whether the buyer arrested the next day in central Mamoudzou is one of the three arrested people or a separate case.
-  - The sources do not specify whether the seized cannabis was herbal cannabis or resin.
-  - The account rests on local press reports; no police statement or court judgment with fuller case details was reported.
+    - The first accounts reported 3 kg of cannabis and 8,000 euros while the trial account gave 3.334 kg and 8,495 euros; the report uses the trial figures.
+    - Three people were arrested but only two stood trial on 9 November; the status of the third person, to be summoned later, is unknown.
+    - The outcome of the search at the tax administration employee's home on square Papaye was not reported.
+    - It is unclear whether the buyer arrested the next day in central Mamoudzou is one of the three arrested people or a separate case.
+    - The account rests on local press reports; no police statement or court judgment with fuller case details was reported.
 ---
 
 On 4 November, an operation by the anti-crime brigade (BAC) in Passamaïnty
-interrupted a drug deal. [@1] Officers then searched a flat suspected of storing
-drugs, first reported as yielding 3 kg of cannabis and 8,000 euros in cash. [@1]
+interrupted a drug deal. [@1,4] Officers then searched a flat suspected of storing
+drugs, first reported as yielding 3 kg of cannabis and 8,000 euros in cash. [@1,4]
 The later trial account put the seizure at 34 bars weighing 3.334 kg, with 8,495
 euros in cash and two telephones found at the wholesaler's home. [@3] Three
 people were arrested and brought before the public prosecutor, two of them
@@ -89,4 +93,3 @@ During the same operation officers also searched the home of a tax
 administration employee at square Papaye, with no outcome reported. [@2] The
 next day the investigation continued in central Mamoudzou, where a buyer was
 arrested just after obtaining cannabis at another sales point. [@2]
-
