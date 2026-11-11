@@ -108,20 +108,17 @@ sources:
   - title: 'Coming from Lebanon: Massive Drug Smuggling Network Arrested in Damascus'
     url: https://dailybeirut.com/en/world/coming-from-lebanon-massive-drug-smuggling-network-arrested-in-damascus/
     publisher: Daily Beirut
-open_questions:
-    - No exact date for the Homs arrest was published; 7 November 2026 is the publication date used as the incident date.
-    - The exact location of the arrest within Homs Governorate was not published.
-    - The detained man was identified only by initials, and no charges or court outcome were reported.
-    - No value, packaging details, or additional cannabis weight beyond the 9 kg of hashish was published.
-    - The Captagon quantities in this case are a separate non-cannabis substance and are not counted as cannabis.
-    - Accounts differ on the date of the earlier 200,000-pill operation.
-    - Monthly seizure tallies mentioned alongside the arrest belong to a separate tally and are not included here.
+  - title: حاولوا تهريب 200 ألف حبّة مخدرّة من لبنان إلى سوريا!
+    url: https://www.alkalimaonline.com/news.aspx?id=960577
+    publisher: Al Kalima Online
+    date: 2026-11-11
+    language: ar
 ---
 
 Syria's anti-narcotics directorate announced the arrest of a man identified by
 the initials G.Sh., described as the head of a drug trafficking network whose
 two members were arrested in May. [@1,3,4,5,6,10,12] He was found with 9 kilograms of hashish
-and 120,000 Captagon pills, the directorate said. [@1,3,4,5,6,9,10,11,12,13]
+and 120,000 Captagon pills, the directorate said. [@1,3,4,5,6,9,10,11,12,13,14]
 
 The directorate said its Homs branch made the arrest, continuing an operation it
 carried out on 5 May 2026 that broke up an attempt to smuggle 200,000 Captagon
