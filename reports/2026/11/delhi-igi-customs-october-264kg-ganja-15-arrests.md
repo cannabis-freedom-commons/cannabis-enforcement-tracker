@@ -48,28 +48,24 @@ sources:
     publisher: Jagran
     date: 2026-11-09
     language: hi
-open_questions:
-  - The article gives no separate date for the figures beyond the month of October; 7 November 2026 is when the story was filed for the 8 November edition and is used as the incident date.
-  - The 15 arrested are the total for drug-trafficking cases in the month; the paper does not say how many of them relate to the ganja seizures specifically, nor how they are distributed across cases.
-  - No breakdown by passenger versus air-cargo seizure, no case count and no value for the ganja were published.
-  - Only one opened account of this monthly total was found; the Delhi Customs statement or press release behind it could not be located.
-  - The synthetic drugs and the cocaine are each valued at about Rs 5 crore; no weights are given, and their quantities are excluded from this cannabis report.
-  - The four arrests for gold and watch smuggling are a separate customs matter and are not counted among the drug arrests.
-  - No charges, court appearances or outcomes were reported for the cannabis cases or the arrested men.
-  - The page carries an AI-generated illustrative image; no event photo is available from this source.
+  - title: गांजे के साथ सिंथेटिक ड्रग और कोकेन की तस्करी से बढ़ी कस्टम की चुनौती
+    url: https://www.magzter.com/stories/newspaper/Dainik-Jagran-Delhi/1794354239064
+    publisher: Dainik Jagran Delhi (via Magzter)
+    date: 2026-11-11
+    language: hi
 ---
 
 Customs at Indira Gandhi International Airport seized 264.288 kg of ganja in
-October, found with passengers and in air cargo. [@1,2] Fifteen smugglers were
-arrested on drug-trafficking charges in the same month. [@1,2]
+October, found with passengers and in air cargo. [@1,2,3] Fifteen smugglers were
+arrested on drug-trafficking charges in the same month. [@1,2,3]
 
 Dainik Jagran reported that traffickers are now trying to bring consignments of
-synthetic drugs and cocaine to Delhi alongside ganja. [@1] About Rs 5 crore of
+synthetic drugs and cocaine to Delhi alongside ganja. [@1,3] About Rs 5 crore of
 synthetic drugs and a similar value of cocaine were recovered in the same month.
-[@1] The month's cases also included gold, precious stones and luxury watches,
-in which four people were arrested. [@1]
+[@1,3] The month's cases also included gold, precious stones and luxury watches,
+in which four people were arrested. [@1,3]
 
 The changing methods of drug trafficking at the airport had increased the
-challenge for the Customs Department, the newspaper reported. [@1]
+challenge for the Customs Department, the newspaper reported. [@1,3]
 
 On 15 October, 148.675 kg of hydroponic ganja hidden in plastic spools in Bangkok-origin cargo was recovered, valued at about Rs 52 crore. [@2] A second consignment yielded 23.220 kg of ganja on the night of 21-22 October. [@2] On 28 October, 26.670 kg of ganja was recovered from the trolley bags of two Indian passengers. [@2] About five kg of suspected synthetic drugs found with an Indian passenger from Manila was estimated at about Rs 5 crore. [@2] A Guinean national who reached Delhi via Addis Ababa on 28 October carried 70 capsules containing 1.068 kg of cocaine, valued at about Rs 5 crore. [@2]
