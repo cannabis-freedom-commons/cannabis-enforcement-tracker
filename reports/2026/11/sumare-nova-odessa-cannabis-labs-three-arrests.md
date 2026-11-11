@@ -96,6 +96,11 @@ sources:
     publisher: Tribuna Liberal
     date: 2026-11-10
     language: pt
+  - title: Polícia Militar desmonta laboratórios clandestinos de derivados de maconha
+    url: https://regiaonoroeste.com/policia-militar-desmonta-laboratorios-clandestinos-de-derivados-de-maconha/
+    publisher: Região Noroeste
+    date: 2026-11-10
+    language: pt
 open_questions:
     - No separate cannabis weight is given for the 780 grams of drugs being prepared or the other unspecified portions in Sumaré, so they are excluded from the cannabis total.
     - The 369 grams of cocaine are not cannabis and are excluded from cannabis figures.
@@ -122,7 +127,7 @@ listed 474 grams of marijuana, plus other portions of the drug. [@1] Police also
 found 2 kilograms of marijuana kept in a cooler box. [@1] Police listed 780
 grams of drugs that were being prepared. [@1] Police seized 91 isobutane gas
 cylinders. [@1,2] They also seized machines, scales, sieves and silicone moulds
-used to make drugs, plus mobile phones. [@1] A resin extraction column was seized there. [@2] The 52-year-old suspect said he was
+used to make drugs, plus mobile phones. [@1] A resin extraction column was seized there. [@2,5] The 52-year-old suspect said he was
 preparing marijuana for his own use, the 28-year-old said he was there to buy
 drugs, and the 29-year-old, who said he owned the property, denied knowing where
 the materials came from. [@1]
@@ -142,4 +147,4 @@ Organized Crime, a task force coordinated by the Federal Police. [@1,2] Besides
 the Federal Police and Military Police, the force includes the Federal Highway
 Police, São Paulo Civil Police through Deinter-2, the Paulínia municipal guard
 and Gaeco prosecutors. [@1] Investigations continue to identify other possible
-participants. [@1,2]
+participants. [@1,2,5]
