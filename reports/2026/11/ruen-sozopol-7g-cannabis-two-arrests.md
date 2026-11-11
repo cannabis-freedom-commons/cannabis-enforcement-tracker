@@ -59,6 +59,11 @@ sources:
     publisher: BurgasMedia
     date: 2026-11-11
     language: bg
+  - title: Полицията в Бургас установи кой е откраднал колело за 645 евро от блок в „Славейков“
+    url: https://burgasmedia.com/news/policiyata-v-burgas-ustanovi-koy-e-otkradnal-kolelo-za-645-evro-ot-blok-v-slaveykov
+    publisher: BurgasMedia
+    date: 2026-11-11
+    language: bg
 ---
 
 Officers of the district administration in Ruen stopped and checked a
@@ -74,7 +79,7 @@ In Ruen, officers found and seized dry herbal material identified as cannabis
 weighing about 4 grams. [@1] In Sozopol, officers seized two hand-rolled
 cigarettes containing dry green leaf material and a metal grinder with the same
 substance. [@1] The total weight of the marijuana found in Sozopol was about 3
-grams. [@1,5] Police seized about 7 grams of cannabis and marijuana in total
+grams. [@1,5,6] Police seized about 7 grams of cannabis and marijuana in total
 across the two incidents. [@1]
 
 The Interior Ministry bulletin for Burgas stated that the Sozopol check was
