@@ -59,26 +59,36 @@ sources:
     publisher: Ràdio Rubí
     date: 2026-11-10
     language: ca
+  - title: Detenido un hombre en Rubí por cultivar más de 1.000 plantas de marihuana en una nave industrial
+    url: https://metropoliabierta.elespanol.com/sucesos/20261110/detenido-hombre-rubi-cultivar-plantas-marihuana-nave-industrial/1003742810657_0.html
+    publisher: Metrópoli
+    date: 2026-11-10
+    language: es
 open_questions:
   - The man's name was not published.
   - The 23.5 kg figure was reported as approximate.
   - The exact address of the warehouse in Rubí was not published.
   - No court outcome after the 31 October court appearance was reported.
+media:
+  - kind: photo
+    url: https://metropoliabierta.elespanol.com/sucesos/20261110/detenido-hombre-rubi-cultivar-plantas-marihuana-nave-industrial/1003742810657_0.html
+    media_url: https://a2.elespanol.com/k/imgp/cms/asociados/574542.jpg?p=w:1706/h:960&h=-CusTc5d
+    publisher: Metrópoli
+    caption: 'Interior of the cannabis plantation dismantled in the Rubí warehouse. Photo: Mossos d''Esquadra'
 ---
 
 Catalonia's Mossos d'Esquadra dismantled a cannabis plantation inside an
 industrial warehouse in Rubí, Vallès Occidental, and arrested a 26-year-old man
-as its alleged keeper. [@1] On 29 October, officers entered and searched the
-warehouse and detained the man inside. [@2] The detainee was brought before the
+as its alleged keeper. [@1,4] On 29 October, officers entered and searched the
+warehouse and detained the man inside. [@2,4] The detainee was brought before the
 Rubí court on 31 October. [@3]
 
 Officers seized 1,013 cannabis plants and about 23.5 kg of buds during the
-search of the warehouse. [@1] The warehouse held the full infrastructure needed
+search of the warehouse. [@1,4] The warehouse held the full infrastructure needed
 to grow cannabis. [@1] Police found the unit illegally connected to the power
-grid, with an alleged electricity fraud of about 100,000 euros. [@1]
+grid, with an alleged electricity fraud of about 100,000 euros. [@1,4]
 
 The investigation began after Catalan police suspected the building housed a
-cannabis plantation. [@1] The man was treated as the alleged perpetrator of an
-offence against public health and an electricity-fraud offence. [@2] The grow
-was located in an industrial warehouse in Rubí. [@3]
-
+cannabis plantation. [@1,4] Technicians from an electricity company corroborated those suspicions by confirming that the installation was illegally connected to the grid and had high consumption. [@4] The man was treated as the alleged perpetrator of an
+offence against public health and an electricity-fraud offence. [@2,4] The grow
+was located in an industrial warehouse in Rubí. [@3,4]
