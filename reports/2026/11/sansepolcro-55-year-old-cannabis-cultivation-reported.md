@@ -62,10 +62,11 @@ sources:
     publisher: Virgilio Notizie
     date: 2026-11-10
     language: it
-open_questions:
-  - No number of plants and no weight for the seized inflorescences was published.
-  - The reports say only that the operation occurred in recent days, so 10 November 2026 is the publication date used as the incident date.
-  - No court outcome is reported; the man was reported while at liberty and one account notes he is presumed innocent until any final conviction.
+  - title: Coltivava e essiccava la cannabis in giardino, denunciato un 55enne. Lo incastrano i vicini di casa
+    url: https://www.lanazione.it/arezzo/cronaca/cannabis-giardino-denuncia-lh2dlgsq
+    publisher: La Nazione
+    date: 2026-11-10
+    language: it
 ---
 
 Officers from the Sansepolcro police station's anti-crime unit uncovered a
@@ -74,12 +75,12 @@ cannabis-growing operation intended for narcotic-drug production. [@1,3] The
 previous offences. [@1]
 
 The investigation began after suspicious movements in the area were documented
-through targeted checks and photographic stakeouts. [@1,3] Police found that the
+through targeted checks and photographic stakeouts. [@1,3] Police reached the man following several reports from neighbours who were suspicious about strange movements in the area. [@4] Police found that the
 man personally handled both cultivation and processing, with some plants still
-growing on a plot of his own land. [@1,3] Searches of nearby sheds found
+growing on a plot of his own land. [@1,3,4] Searches of nearby sheds found
 additional plants that had been cut and hung up to dry. [@1,3] A search of his
 vehicle found a cellophane package containing numerous cannabis inflorescences.
-[@1,3]
+[@1,3,4]
 
 All of the drugs found were seized and placed at the disposal of the judicial
 authority. [@1,3] He was reported while at liberty for violating Article 73(1),
