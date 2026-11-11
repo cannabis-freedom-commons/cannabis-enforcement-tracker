@@ -31,6 +31,11 @@ sources:
     publisher: Elonce.com
     date: 2026-11-10
     language: es
+  - title: Encontraron marihuana en un colectivo de larga distancia que llegó a una localidad de la región
+    url: https://diarioriouruguay.com/policiales/encontraron-marihuana-en-un-colectivo-de-larga-distancia-que-llego-a-una-localidad-de-la-region.htm
+    publisher: Diario Río Uruguay
+    date: 2026-11-10
+    language: es
 open_questions:
   - No weight, value or dosage count was published for the seized marijuana package.
   - No one was reported arrested, detained or charged over the package.
@@ -40,15 +45,15 @@ open_questions:
 A package containing marijuana was found on the morning of Monday 9 November
 2026 on a long-distance bus that had left Paraná and arrived at the Chajarí bus
 terminal, in the Federación department of Entre Ríos. [@1] Workers cleaning the
-bus found the package on one of the front seats of the upper deck. [@1]
+bus found the package on one of the front seats of the upper deck. [@1,2]
 
 Around 9:30 that Monday the bus drivers telephoned the Chajarí police station to
 report a package containing a suspicious substance. [@1] Officers from the
 División Drogas Peligrosas of the Jefatura Departamental Federación went to the
 terminal with a trained drug-detection dog, and a field test of the contents was
-compatible with cannabis sativa, commonly known as marijuana. [@1] The substance
+compatible with cannabis sativa, commonly known as marijuana. [@1,2] The substance
 was formally seized on the order of the judicial authority handling the case,
-and no arrest was reported. [@1]
+and no arrest was reported. [@1,2]
 
 According to the drivers, the bus had begun its last trip in Paraná on the
 afternoon of Sunday 8 November 2026, passed through several Entre Ríos towns and
@@ -56,4 +61,3 @@ reached Chajarí in the early hours of Monday. [@1] The prosecutor's office must
 establish where the substance came from and the conditions in which it was
 abandoned on the bus, including whether the package had belonged to a passenger.
 [@1]
-
