@@ -82,18 +82,23 @@ sources:
     url: https://www.msn.com/en-in/news/other/mp-cannabis-worth-over-rs-119-crore-seized-2-arrested/ar-AA2h9DUz
     publisher: Press Trust of India / MSN
     date: 2026-11-10
+  - title: मध्यप्रदेश पुलिस की अवैध मादक पदार्थों के विरुद्ध प्रभावी कार्रवाई - Breaking Tube
+    url: https://breakingtube.com/effective-action-by-the-madhya-pradesh-police-against-illegal-narcotic-substances/
+    publisher: Breaking Tube
+    date: 2026-11-10
+    language: hi
 ---
 
 Tanda police in Dhar district, Madhya Pradesh, searched a cotton field at Pura
-village and found 383 green ganja plants growing illegally. [@1,2,3,4,5] Police formally
+village and found 383 green ganja plants growing illegally. [@1,2,3,4,5,6] Police formally
 seized all the plants. [@1,3,5] The seized plants weighed 363.188 kg and were put at
-an estimated market value of about 67 lakh 13 thousand rupees. [@1,4] Police
+an estimated market value of about 67 lakh 13 thousand rupees. [@1,4,6] Police
 arrested one suspect and registered a case under the NDPS Act, India's narcotics
-law. [@1,4,5]
+law. [@1,4,5,6]
 
 The raid was part of Operation Prahar, a district campaign against illegal drug
 cultivation and trade run on the direction of Superintendent of Police Sachin
-Sharma. [@1,4] Tanda police received a tip from an informer that ganja was being
+Sharma. [@1,4,6] Tanda police received a tip from an informer that ganja was being
 grown in a cotton field at Pura, and searched the field on that basis. [@1]
 
 Tanda station in-charge inspector Baldev Singh Mujalda said on Tuesday that
