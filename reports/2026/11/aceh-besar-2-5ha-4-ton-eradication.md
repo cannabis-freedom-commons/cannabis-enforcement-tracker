@@ -50,6 +50,11 @@ media:
     media_url: https://i0.wp.com/masakini.co/wp-content/uploads/2026/11/IMG-20261111-WA0002.jpg?fit=1600%2C1066&ssl=1
     publisher: MASAKINI.CO
     caption: 'Joint team personnel destroying approximately 8,000 cannabis plants across three hectares in Gampong Pulo, Aceh Besar. Photo: Bea Cukai Aceh'
+  - kind: photo
+    url: https://www.niaga.asia/bnn-musnahkan-8-000-batang-ganja-di-aceh-besar-beratnya-diperkirakan-4-ton/
+    media_url: https://www.niaga.asia/wp-content/uploads/2026/11/IMG-20261111-WA0034.jpg
+    publisher: Niaga.Asia
+    caption: 'Destruction of cannabis plants in Aceh Besar on Tuesday 10 November 2026. Photo: HO-BNN RI via Niaga.Asia'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8264deee59d1da3f6953d1984d551376
@@ -110,22 +115,30 @@ sources:
     publisher: DIALEKSIS
     date: 2026-11-11
     language: id
+  - title: BNN Musnahkan 8.000 Batang Ganja di Aceh Besar, Beratnya Diperkirakan 4 Ton
+    url: https://www.niaga.asia/bnn-musnahkan-8-000-batang-ganja-di-aceh-besar-beratnya-diperkirakan-4-ton/
+    publisher: Niaga.Asia
+    date: 2026-11-11
+    language: id
+open_questions:
+  - Niaga.Asia gives plant spacing of about 75–80 centimetres, while an earlier account already cited puts spacing at about 50 centimetres.
+  - Niaga.Asia, like the BNN statement already cited, puts the area at 3 hectares, while iNews reported 2.5 hectares.
 ---
 
 BNN officers with TNI and police destroyed more than four tons of
 ready-to-harvest cannabis plants on a 2.5-hectare field in Aceh Besar. [@1] The
-field lay in the mountains of Desa Pulo Lamteba, Aceh Besar regency, Aceh. [@2,3,4,5,6,8,9] The joint destruction took place on Tuesday, 10 November 2026. [@11]
+field lay in the mountains of Desa Pulo Lamteba, Aceh Besar regency, Aceh. [@2,3,4,5,6,8,9,12] The joint destruction took place on Tuesday, 10 November 2026. [@11,12]
 The destruction operation involved hundreds of personnel from BNN, the
-Indonesian military and the police. [@2,3] Personnel from central and Aceh provincial BNN, Aceh police, the military, the National Research and Innovation Agency (BRIN), public order police (Satpol PP), the High Prosecutor's Office, Customs, and the agriculture and forestry offices took part in the eradication. [@6,9,10,11] Widodo, head of enforcement and investigation at the Aceh regional customs office, attended with staff from Banda Aceh Customs. [@11] At the site, officers swept two field
-locations found at the foot of Mount Seulawah. [@2,3] The two sites in Gampong Pulo were located at elevations of 684 and 800 metres above sea level. [@9,10,11]
+Indonesian military and the police. [@2,3] Personnel from central and Aceh provincial BNN, Aceh police, the military, the National Research and Innovation Agency (BRIN), public order police (Satpol PP), the High Prosecutor's Office, Customs, and the agriculture and forestry offices took part in the eradication. [@6,9,10,11,12] The operation involved 135 joint personnel. [@12] Widodo, head of enforcement and investigation at the Aceh regional customs office, attended with staff from Banda Aceh Customs. [@11] At the site, officers swept two field
+locations found at the foot of Mount Seulawah. [@2,3] The two sites in Gampong Pulo were located at elevations of 684 and 800 metres above sea level. [@9,10,11,12] The first site was at coordinates 5.46848, 95.63881 and the second at 5.4592, 95.63714. [@12]
 
 The joint team walked for three hours over rough terrain to reach the
 2.5-hectare field. [@2] The plants were about one to two metres tall and planted
-about 50 centimetres apart. [@2,8] The organized Cannabis sativa L. plantings were 15 to 250 centimetres tall with no permanent building nearby. [@7] Officers pulled up all the plants, gathered
-them into two large piles and burned them on the spot. [@2,8] BNN reported that officers destroyed approximately 8,000 cannabis plants across three hectares with an estimated weight of around four tons. [@4,5,6,7,9,10,11] The destruction coincided with Indonesia's Heroes' Day commemoration. [@11]
+about 50 centimetres apart. [@2,8] The organized Cannabis sativa L. plantings were 15 to 250 centimetres tall with no permanent building nearby. [@7,12] The plants depended only on rainfall for water. [@12] Officers pulled up all the plants, gathered
+them into two large piles and burned them on the spot. [@2,8] BNN reported that officers destroyed approximately 8,000 cannabis plants across three hectares with an estimated weight of around four tons. [@4,5,6,7,9,10,11,12] The destruction coincided with Indonesia's Heroes' Day commemoration. [@11]
 
 The case began with information from local residents. [@2] Officers then
-investigated for about a week before finding the mountain planting site. [@2] BNN said the fields were uncovered through mapping conducted with BRIN since October 2026 and an early-November follow-up investigation that confirmed the plants as Cannabis sativa L. [@6,7,9,10,11]
+investigated for about a week before finding the mountain planting site. [@2] BNN said the fields were uncovered through mapping conducted with BRIN since October 2026 and an early-November follow-up investigation that confirmed the plants as Cannabis sativa L. [@6,7,9,10,11,12] The mapping was part of the National Geospatial Information Implementation Action Plan for 2025–2029. [@12]
 BNN narcotics director Brigadier General Robby Karya Adi said at the scene that
 his team was destroying a cannabis field consisting of two points. [@2,6] He said
 officers found no landowner or party responsible for planting the cannabis. [@2,3]
