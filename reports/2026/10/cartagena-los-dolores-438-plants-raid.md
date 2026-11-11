@@ -55,26 +55,43 @@ sources:
     publisher: Onda Regional de Murcia
     date: 2026-11-11
     language: es
-open_questions:
-    - The article, published on 3 November 2026, dates the searches only to last week and last Thursday, so 29 October 2026 is used as the incident date on that basis.
-    - Later accounts of the joint police and customs release report more than 500 plants weighing 200 kg, against 438 plants weighing almost 172 kg in the initial account, so the report keeps the initial figures pending clarification of the final official count.
-    - No court outcome beyond the referral to Investigating Court number 4, the woman's provisional release and the principal suspect's provisional detention was reported.
+  - title: Desmantelan dos plantaciones de marihuana en Los Dolores, Cartagena, con 200 kilos de droga, un fusil de asalto y una granada
+    url: https://www.cartagenaactualidad.com/sucesos/desmantelan-dos-plantaciones-marihuana-dolores-cartagena-200-kilos-droga-fusil-asalto-granada/20261111101610231146.html
+    publisher: Cartagena Actualidad
+    date: 2026-11-11
+    language: es
+media:
+  - kind: photo
+    url: https://www.cartagenaactualidad.com/sucesos/desmantelan-dos-plantaciones-marihuana-dolores-cartagena-200-kilos-droga-fusil-asalto-granada/20261111101610231146.html
+    media_url: https://www.cartagenaactualidad.com/asset/thumbnail,1280,720,center,center/media/cartagenaactualidad/images/2026/11/11/2026111110150658279.jpg
+    publisher: Cartagena Actualidad
+    caption: 'Seized assault rifle in a police handout photo published with the operation. Photo: Policía Nacional.'
+  - kind: photo
+    url: https://www.cartagenaactualidad.com/sucesos/desmantelan-dos-plantaciones-marihuana-dolores-cartagena-200-kilos-droga-fusil-asalto-granada/20261111101610231146.html
+    media_url: https://www.cartagenaactualidad.com/media/cartagenaactualidad/images/2026/11/11/2026111110151086932.jpg
+    publisher: Cartagena Actualidad
+    caption: 'Hand grenade seized in one of the houses, in a police handout photo published with the operation. Photo: Policía Nacional.'
+  - kind: photo
+    url: https://www.cartagenaactualidad.com/sucesos/desmantelan-dos-plantaciones-marihuana-dolores-cartagena-200-kilos-droga-fusil-asalto-granada/20261111101610231146.html
+    media_url: https://www.cartagenaactualidad.com/media/cartagenaactualidad/images/2026/11/11/2026111110150572378.jpg
+    publisher: Cartagena Actualidad
+    caption: 'Cannabis plants in flower in one of the indoor grows, in a police handout photo published with the operation. Photo: Policía Nacional.'
 ---
 
 National Police and Customs Surveillance officers dismantled two marijuana
 plantations operating in homes in the Los Dolores neighbourhood of Cartagena
-during the previous week. [@1,2,3] Officers found a 51-year-old man in the La Palma
+during the previous week. [@1,2,3,4] Officers found a 51-year-old man in the La Palma
 house who tried to stop them entering and had to be restrained. [@1] The woman
 who owned both properties was also arrested over alleged involvement but was
 released on provisional liberty after giving a statement, and the proceedings
-were sent to Cartagena Investigating Court number 4. [@1] A judge subsequently ordered the principal suspect remanded in provisional detention. [@2]
+were sent to Cartagena Investigating Court number 4. [@1] A judge subsequently ordered the principal suspect remanded in provisional detention. [@2,4]
 
 The searches found two indoor plantations holding 438 marijuana plants weighing
 almost 172,000 grams, about 172 kg. [@1] At the La Palma property officers also
 found a Kalashnikov-type assault rifle with two magazines and a semi-automatic
 pistol with its magazine and cartridges. [@1] Officers also seized a hand
 grenade, which was removed by TEDAX, the National Police explosives-disposal
-specialists. [@1,2] Officers also seized a pellet shotgun with a telescopic sight, binoculars, a sword stick and an electric defence device. [@2] Among the seized items were numerous cultivation devices,
+specialists. [@1,2,4] Officers also seized a pellet shotgun with a telescopic sight, binoculars, a sword stick and an electric defence device. [@2,4] Among the seized items were numerous cultivation devices,
 including fans, extractors, filters, transformers and lights. [@1]
 
 The investigation began after officers detected an increase in marijuana
