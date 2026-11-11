@@ -82,13 +82,18 @@ sources:
     publisher: WDR
     date: 2026-11-10
     language: de
+  - title: 'Drogenbande in Ahaus: Lange Haftstrafen nach Urteil in Münster'
+    url: https://www.muensterlandzeitung.de/ahaus/ahaus-drogenbande-verurteilt-lange-haftstrafen-nach-prozess-muenster-w1272830-9002203358/
+    publisher: Münsterland Zeitung
+    date: 2026-11-11
+    language: de
 ---
 
 On 10 November, Münster Regional Court convicted four men from the Borken
-district of gang-related drug trafficking and imposed prison terms. [@1,4] The
+district of gang-related drug trafficking and imposed prison terms. [@1,4,5] The
 39-year-old ringleader from Ahaus received 5 years and 4 months, while the other
 three members received 3 years and 9 months, 3 years, and a 2-year suspended
-term. [@1,4] The defendants were two men from Ahaus and two men from Gronau, aged
+term. [@1,4] At the time of reporting, only one of the four men was already in custody. [@5] The defendants were two men from Ahaus and two men from Gronau, aged
 between 28 and 43. [@1,4] Several defendants confessed to at least part of the
 offences during the trial, and the verdict rested on those confessions. [@1,4] The confessions mitigated the court's sentences. [@4] The
 trial opened on 19 August in Münster, where three defendants already announced
@@ -98,7 +103,7 @@ About three years earlier the four men had begun growing cannabis in Ahaus and
 then dealt in marijuana and other drugs. [@1,4] One drug depot in Ahaus was
 disguised as the premises of an MPU driving-fitness counselling service, where
 investigators say the gang stored kilograms of marijuana, cocaine and ecstasy.
-[@1,4] On one plantation police found an irrigation system, seven fans and 327
+[@1,4,5] On one plantation police found an irrigation system, seven fans and 327
 harvested cannabis plants, according to the regional court. [@2] Prosecutors say
 the group earned at least 900,000 euros from selling cannabis, cocaine and
 ecstasy, and demanded confiscation of the proceeds. [@2] Police also found lists documenting the drug trade on the mobile phone of the ringleader, who allegedly organised the operations. [@4] Some of the drugs were
