@@ -68,6 +68,11 @@ sources:
     publisher: Życie Powiatu na Mazowszu
     date: 2026-11-09
     language: pl
+  - title: W domu znaleziono 32 gramy narkotyków. Mężczyźnie grozi do 3 lat więzienia
+    url: https://miejskireporter.pl/w-domu-znaleziono-32-gramy-narkotykow-grozi-mu-do-3-lat-wiezienia/
+    publisher: Miejski Reporter
+    date: 2026-11-11
+    language: pl
 open_questions:
   - The marijuana weight is given only as more than 3 grams, and the police describe it as an initial finding with no laboratory confirmation reported.
   - The man is identified only as a 39-year-old resident of Stare Lipiny.
@@ -81,15 +86,15 @@ open_questions:
 ---
 
 Detectives from the Wołomin County Police Headquarters searched a home in Stare
-Lipiny on 2 November 2026 and detained a 39-year-old man found there. [@1,2,3,4]
+Lipiny on 2 November 2026 and detained a 39-year-old man found there. [@1,2,3,4,5]
 Officers found a light-coloured crystallised substance and a bag of dried plant
 material during the search. [@1,3,4] Initial findings identified the substances as
-more than 29 grams of mephedrone and more than 3 grams of marijuana. [@1,2,3,4] Police
-also seized cash and mobile phones that may be evidence in the case. [@1,3]
+more than 29 grams of mephedrone and more than 3 grams of marijuana. [@1,2,3,4,5] Police
+also seized cash and mobile phones that may be evidence in the case. [@1,3,5]
 
 The man was charged with possession of psychotropic substances and narcotic
-drugs under article 62 of the Act on Counteracting Drug Addiction. [@1,2,3,4] Police
-said the offence carries a prison term of up to three years. [@1,3] The court will
+drugs under article 62 of the Act on Counteracting Drug Addiction. [@1,2,3,4,5] Police
+said the offence carries a prison term of up to three years. [@1,3,5] The court will
 decide on the sentence. [@1]
 
 The man was previously recorded as having a criminal record in connection with various criminal cases. [@2,3]
