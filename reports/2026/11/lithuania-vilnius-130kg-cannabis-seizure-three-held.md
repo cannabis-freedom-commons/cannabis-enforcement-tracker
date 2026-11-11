@@ -123,6 +123,11 @@ sources:
     publisher: MadeinVilnius.lt
     date: 2026-11-09
     language: lt
+  - title: Smūgis narkotikų platinimui – perimta 130 kg kanapių ir „kristalų“ siunta
+    url: https://ukininkopatarejas.lt/naujienos/smugis-narkotiku-platinimui-perimta-130-kg-kanapiu-ir-kristalu-siunta/
+    publisher: Ūkininko patarėjas
+    date: 2026-11-10
+    language: lt
 open_questions:
   - The sources give “about 130 kilograms” of cannabis rather than a measured weight, and do not say whether it was dried flower or another cannabis product.
   - No exact date is given for the searches and detentions; the operation is dated to 3 November 2026 in the police statement, while the accounts were published on 9 November.
@@ -152,17 +157,17 @@ open_questions:
 ---
 
 Officers of the organised-crime unit of the Vilnius county police struck a shadow drug-distribution
-network on 3 November 2026, the police said the following Monday. [@2,3,4,6] After searches in Vilnius
+network on 3 November 2026, the police said the following Monday. [@2,3,4,6,11] After searches in Vilnius
 and Šiauliai, three people suspected of unlawful possession of a very large quantity of narcotic and
-psychotropic substances were detained. [@1,3,4,5,7,8,9,10]
+psychotropic substances were detained. [@1,3,4,5,7,8,9,10,11]
 
 Police said they took about 130 kilograms of cannabis, one of the largest cannabis consignments in
-Lithuania's history. [@1,3,4,7,9,10] The searches also turned up about 3.5 kilograms of the psychotropic
+Lithuania's history. [@1,3,4,7,9,10,11] The searches also turned up about 3.5 kilograms of the psychotropic
 substance 3-chloromethcathinone, known as 3-CMC or "crystal", and a combat firearm with ammunition.
-[@1,3,4,8,9] The substances were hidden in cars and homes and in prepared caches in woods, where drug
-handovers are suspected to have taken place. [@1,3,4,8,9,10]
+[@1,3,4,8,9,11] The substances were hidden in cars and homes and in prepared caches in woods, where drug
+handovers are suspected to have taken place. [@1,3,4,8,9,10,11]
 
-A court ordered the strictest measure for all three, detention in custody. [@1,3,4,8,9,10] The pre-trial
+A court ordered the strictest measure for all three, detention in custody. [@1,3,4,8,9,10,11] The pre-trial
 investigation concerns unlawful possession of a very large quantity of narcotic or psychotropic
 substances and of firearms and ammunition [@1,4,7], which carries 10 to 15 years in prison. [@1,4,8] A
 prosecutor of the organised crime and corruption division of the Vilnius Regional Prosecutor's Office
