@@ -51,21 +51,24 @@ sources:
     publisher: Minuto30
     date: 2026-11-09
     language: es
+  - title: Capturan a un hombre con 500 gramos de marihuana en la vía Medellín–Santa Fe de Antioquia
+    url: https://analisisurbano.org/noticia/capturan-a-un-hombre-con-500-gramos-de-marihuana-en-la-via-medellin-santa-fe-de-antioquia
+    publisher: Análisis Urbano
+    date: 2026-11-10
+    language: es
 open_questions:
-  - The article hedges the timing ("se habría presentado"), giving about 7:00 on Saturday 7 November; the exact time of detention is not stated.
-  - Only one opened source covers this arrest; the Policía Nacional statement behind it and any second outlet could not be opened.
-  - The checks are attributed to traffic authorities, but the page names no specific police unit except the photo credit to the Policía Nacional.
-  - No value estimate, prior record, charges filed or court outcome was reported.
-  - The 500 grams is described as marijuana without a stated laboratory confirmation.
+    - The arrest is placed at about 7:00 in the morning on Saturday 7 November; the exact time of detention is not stated.
+    - The arrested man's identity and the circumstances in which the marijuana was found were not released.
+    - No value estimate, prior record or court outcome following referral to the prosecutor's office was reported.
+    - The 500 grams is described as marijuana without a stated laboratory confirmation.
 ---
 
 A man was arrested with 500 grams of marijuana on the Medellín–Santa Fe de
-Antioquia road at the Aburrá toll booth, kilometre 45. [@1] The arrest was made
+Antioquia road at the Aburrá toll booth, kilometre 45. [@1,2] The arrest was made
 at about 7:00 in the morning on Saturday 7 November, during registration and
-control checks that traffic authorities run on that road corridor. [@1]
+control checks that traffic authorities run on that road corridor. [@1,2] Uniformed officers from the Transit and Transport Section (Seccional de Tránsito y Transporte) carried out the arrest. [@2]
 
 The man and the 500 grams of seized marijuana were handed to the Fiscalía 84
 Local URI Centro of Medellín for the offence of trafficking, manufacturing or
-carrying narcotics. [@1] The outlet describes the check at the toll booth as a
-police control in the area. [@1]
-
+carrying narcotics. [@1,2] The outlet describes the check at the toll booth as a
+police control in the area. [@1] Colonel Luis Fernando Serna Zapata, commander of the Antioquia Police Department, reported the result of the procedure at the Aburrá toll booth. [@2]
