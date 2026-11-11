@@ -62,22 +62,23 @@ sources:
     publisher: Latina Oggi
     date: 2026-11-10
     language: it
-open_questions:
-  - The reports give no exact calendar dates for the two consecutive patrol stops; 10 November 2026 is the announcement and publication date.
-  - Non-cannabis substances including cocaine and crack were seized during both vehicle searches and are excluded from cannabis weights.
-  - No court appearance, bail status or legal representation was reported beyond initial booking at the disposal of judicial authorities.
+  - title: 'Ardea, doppio blitz antidroga a Tor San Lorenzo: due giovani arrestati dai Carabinieri. Sequestrate dosi di cocaina, crack e hashish'
+    url: https://www.quotidianolavoce.it/2026/11/11/ardea-doppio-blitz-antidroga-a-tor-san-lorenzo-due-giovani-arrestati-dai-carabinieri-sequestrate-dosi-di-cocaina-crack-e-hashish/
+    publisher: Quotidiano La Voce
+    date: 2026-11-11
+    language: it
 ---
 
 Carabinieri in Tor San Lorenzo, Ardea, conducted two anti-drug operations
-resulting in the arrest of two men. [@1,3] During a patrol along Viale San
+resulting in the arrest of two men. [@1,3,4] During a patrol along Viale San
 Lorenzo, officers intercepted a 26-year-old man handing over a suspected package
-through a gate. [@2,3] Officers tailed his car into neighbouring Aprilia and
+through a gate. [@2,3,4] Officers tailed his car into neighbouring Aprilia and
 stopped him on Via Adda. [@2,3] A search of his vehicle uncovered three grams of
 hashish in four packets, alongside 12 grams of cocaine and two grams of crack.
 [@2,3]
 
 The following day, officers in the same patrol sector stopped a 20-year-old
-driver. [@2,3] A search of the cabin revealed two grams of hashish and one gram of
+driver. [@2,3,4] A search of the cabin revealed two grams of hashish and one gram of
 marijuana hidden in several spots, along with 10 grams of cocaine and three
 grams of crack. [@2,3] Both men, Albanian nationals residing in Aprilia, were
 arrested on charges of drug possession with intent to deal. [@1,3]
