@@ -44,6 +44,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-11
     language: hi
+  - title: 'Betul News : गांजे की खेती मामले में तीन आरोपियों को किया गिरफ्तार, लाखों कीमत का गांजा जप्त'
+    url: https://www.gyanwani.com/41466/
+    publisher: Gyan Wani
+    date: 2026-11-11
+    language: hi
 open_questions:
   - The report gives no separate date for the raid; 11 November 2026 is its publication date.
   - The source does not disclose the number of cannabis plants or the physical area of cultivation in the two fields.
@@ -62,10 +67,10 @@ The police operation commenced after officers received intelligence that
 cannabis plants had been planted in a field. [@1] A police team reached the
 site, conducted an inspection, and seized cannabis from the plot before
 arresting the suspect. [@1] During the operation, officers recovered
-approximately 11 kilograms of cannabis from Jondhru's field. [@1] In the same
+approximately 11 kilograms of cannabis from Jondhru's field. [@1] Officers recovered 118 plants weighing 10.712 kilograms from Tikaram Dhurve's sugarcane field boundary, booking him under section 8/20 of the NDPS Act and section 212(A) of the BNS. [@2] In the same
 operation, police recovered about 4.5 kilograms of cannabis from the field of
 the second suspect, Hemraj. [@1] In total, officers seized 15.5 kilograms of
-cannabis from the two separate village fields. [@1]
+cannabis from the two separate village fields. [@1] Bordehi police confirmed their Chikhlar operation took place on 10 November 2026 across two separate sites, seizing 119 plants and arresting two accused. [@2]
 
 Authorities initiated statutory legal proceedings concerning narcotic drugs
 against both arrested suspects. [@1] Given the quantity seized, police launched
@@ -73,4 +78,3 @@ an investigation to determine when the cannabis plants were sown and how long
 the men had engaged in cultivation. [@1] Investigators also sought to determine
 the acreage under cultivation, the purpose of the crop, and potential sales to
 buyers. [@1]
-
