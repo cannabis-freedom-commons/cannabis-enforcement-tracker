@@ -59,21 +59,26 @@ sources:
     publisher: Kurir
     date: 2026-11-11
     language: sr
+  - title: 'Drama u prestoničkom zatvoru: Majka došla kod sina u posetu, a onda je usledio šok - čuvari zanemeli'
+    url: https://informer.rs/hronika/region/1168661/majka-donela-drogu-sin-zatvor-skoplje
+    publisher: Informer
+    date: 2026-11-10
+    language: sr
 ---
 
 A 65-year-old woman from Skopje was arrested at Idrizovo prison after marijuana
 was found and seized during an inspection of a package she had brought for her
 son, who was serving a prison sentence there, North Macedonia's Interior
-Ministry said. [@1,3,4,5] The ministry said the package was examined at around 10 a.m.
+Ministry said. [@1,3,4,5,6] The ministry said the package was examined at around 10 a.m.
 on 8 November 2026, when officers inspecting the parcel the woman had brought to
-the prison facility discovered the marijuana. [@1,3,5] Police officers then arrested
+the prison facility discovered the marijuana. [@1,3,5,6] Police officers then arrested
 the woman, identified by the initials Dž. F. as a 65-year-old from Skopje, at
 around 11:30 a.m. on the same morning, when the marijuana was found and seized.
-[@1,3,5]
+[@1,3,5,6]
 
 The parcel was intended for her son, and the marijuana was discovered during the
 package check before officers took her into custody. [@2] The Interior Ministry
 said that once documentation of the case was fully completed, an appropriate
-criminal complaint would be filed against the suspect. [@1,3,5] The case therefore
+criminal complaint would be filed against the suspect. [@1,3,5,6] The case therefore
 remained under documentation, with the criminal complaint still to follow and no
 court outcome reported. [@2]
