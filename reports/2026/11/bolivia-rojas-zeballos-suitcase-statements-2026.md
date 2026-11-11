@@ -37,6 +37,11 @@ sources:
     publisher: Infodiez
     date: 2026-11-05
     language: es
+  - title: '“Las maletas tenían marihuana”: Exjuez Zeballos señala que la mercadería estaba protegida por Mariaca'
+    url: https://www.reduno.com.bo/noticias/las-maletas-tenian-marihuana-exjuez-zeballos-senala-que-la-mercaderia-estaba-protegida-por-mariaca-20261151920
+    publisher: Red Uno de Bolivia
+    date: 2026-11-05
+    language: es
 open_questions:
   - No figure for the weight or composition of the marijuana said to be in the suitcases was published, so no cannabis weight is recorded.
   - Saucedo has not been tried or convicted, and Rojas's and Zeballos's statements are versions that prosecutors must still verify.
@@ -57,14 +62,14 @@ and said she was appearing voluntarily. [@2]
 
 The former judge Hebert Zeballos then said the 31 suitcases carried marijuana
 produced in California, and that he was told the luggage had the cover and
-protection of the then attorney general Roger Mariaca. [@1] Zeballos said he
+protection of the then attorney general Roger Mariaca. [@1,4] Zeballos said he
 went to Viru Viru to help Rojas out of friendship, and that he did not report
 what he learned because Mariaca was the top authority of the Public Ministry.
 [@1] He also said that evidence had been planted on him and that he had spent
-eight months in detention in the case. [@1] In a later video, Zeballos said
+eight months in detention in the case. [@1] Zeballos first said Rojas told him the marijuana belonged to a man nicknamed El Alemán, supposedly Romer Saucedo Gómez, and that he doubted El Alemán was Saucedo. [@4] In a later video, Zeballos said
 Rojas had told him at the airport that a passenger on the flight told her the
 marijuana suitcases belonged to a man nicknamed El Alemán, who was Saucedo, and
-asked the authorities for protection for himself and his family. [@1]
+asked the authorities for protection for himself and his family. [@1,4]
 
 The case concerns the more than 30 suitcases that entered the country on 29
 November 2025, and Rojas, who is under house arrest for using her diplomatic
@@ -80,4 +85,3 @@ travelled from Santa Cruz to Miami for a political conference that never took
 place, was invited by Zeballos, and flew back on a Uruguayan friend's chartered
 flight. [@1] La Razón reported that the marijuana found in a warehouse where the
 suitcases are said to have been stored made the case more prominent. [@3]
-
