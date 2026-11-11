@@ -69,15 +69,20 @@ sources:
     publisher: Thita News
     date: 2026-11-10
     language: el
+  - title: Σύλληψη για διακίνηση ναρκωτικών – Κατασχέθηκαν πάνω από μισό κιλό κοκαΐνης και 3,5 κιλά κάνναβης
+    url: http://www.maxitisartas.gr/single_page.php?catid=&id=41332
+    publisher: Μαχητής Άρτας
+    date: 2026-11-10
+    language: el
 open_questions:
   - Thita News rounds the quantity of cannabis discarded by the rubbish bin to 150 grams rather than 150.8 grams.
 ---
 
 Officers of the Ioannina drug enforcement department arrested a Greek man in the
-city on the afternoon of 9 November 2026. [@2] They stopped him as he left his
+city on the afternoon of 9 November 2026. [@2,6] They stopped him as he left his
 home and put a package holding 150.8 grams of raw cannabis next to a rubbish
-bin. [@2,4] Police had followed the man after gathering information that he kept
-large quantities of drugs at home to sell to users in the area. [@2]
+bin. [@2,4,6] Police had followed the man after gathering information that he kept
+large quantities of drugs at home to sell to users in the area. [@2,6]
 
 A search of the house, carried out in the presence of a court official, found
 packages holding 3,428.1 grams of raw cannabis. [@2,4] The same search found two
