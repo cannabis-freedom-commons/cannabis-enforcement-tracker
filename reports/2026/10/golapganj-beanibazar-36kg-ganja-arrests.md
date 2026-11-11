@@ -30,6 +30,12 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://dailyjalalabad.com/2026/10/441906/
+    media_url: https://dailyjalalabad.com/files/uploads/2026/10/Sylhet-SRB-9-Pic-31-10-26.jpg
+    publisher: "Daily Jalalabad"
+    caption: "The two suspects and cannabis packages displayed by SRB-9 in Sylhet."
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3dd708952389a58646f8cc96b1306c34

@@ -33,6 +33,13 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://www.gazetadigital.com.br/editorias/policia/faccionado-e-preso-com-maconha-e-moto-usada-em-entregas/864065
+    archived: https://web.archive.org/web/20261102155739/https://www.gazetadigital.com.br/editorias/policia/faccionado-e-preso-com-maconha-e-moto-usada-em-entregas/864065
+    media_url: https://www.gazetadigital.com.br/storage/webdisco/2026/10/30/475x210/c5e100678b39e349edbaa890c806723d.jpg
+    publisher: "Gazeta Digital"
+    caption: "Items displayed by military police after the Campo Novo do Parecis arrest."
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e9189206258eadb4d1fc2dd840677217
@@ -40,6 +47,7 @@ tags: [mato-grosso, campo-novo-do-parecis, comando-vermelho, delivery, cannabis]
 sources:
   - title: Faccionado é preso com maconha e moto usada em entregas
     url: https://www.gazetadigital.com.br/editorias/policia/faccionado-e-preso-com-maconha-e-moto-usada-em-entregas/864065
+    archived: https://web.archive.org/web/20261102155739/https://www.gazetadigital.com.br/editorias/policia/faccionado-e-preso-com-maconha-e-moto-usada-em-entregas/864065
     publisher: Gazeta Digital
     date: 2026-10-30
     language: pt

@@ -29,6 +29,12 @@ data_sources:
   details.charges: [1]
   details.products: [1]
   figures.arrested: [1]
+media:
+  - kind: photo
+    url: https://hjdoblekhuila.com/noticia/capturan-a-un-hombre-con-57-cigarrillos-de-marihuana-en-el-municipio-de-rivera/
+    media_url: https://inraispace.sfo3.cdn.digitaloceanspaces.com/emisoras/multimedia/2463a52b-9c8a-47f0-aef9-2ba8532601b5.jpg
+    publisher: "HJ Doble K Huila"
+    caption: "Police with the suspect and seized marijuana cigarettes in Rivera."
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 535cf01d0d98be0d442e4656a85cd7c4

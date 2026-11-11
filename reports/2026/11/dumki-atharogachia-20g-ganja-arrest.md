@@ -36,6 +36,12 @@ data_sources:
   figures.arrested: [1]
   figures.charged: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://ajkalerkontho.com/archives/183989
+    media_url: https://ajkalerkontho.com/wp-content/uploads/social-share-watermark/183989_social-share-watermark.jpg
+    publisher: "Daily AjKaler Kontho"
+    caption: "Police with the man arrested in Dumki."
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e39740c11a8a7c2f02c87881f5ba3710

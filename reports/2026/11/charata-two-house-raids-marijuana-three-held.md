@@ -38,6 +38,12 @@ data_sources:
   figures.arrested: [1]
   figures.cash: [1]
   figures.sites: [1]
+media:
+  - kind: photo
+    url: https://www.tn24.com.ar/2026/11/charata-secuestraron-cocaina-y-marihuana-en-varios-allanamientos/
+    media_url: https://www.tn24.com.ar/wp-content/uploads/2026/11/IMG-20261107-WA0040.jpg
+    publisher: "TN24"
+    caption: "Substances, a scale and cash displayed after the Charata searches."
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 190426cd8e429d3b78cb72cdea4187f0

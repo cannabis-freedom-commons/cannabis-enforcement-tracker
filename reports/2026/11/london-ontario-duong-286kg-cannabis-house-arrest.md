@@ -15,6 +15,12 @@ figures:
   kg_seized: 286
 data_sources:
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://lfpress.com/news/crime-courts/house-arrest-sought-for-father-with-900k-drug-stash/
+    media_url: https://lfpress.com/wp-content/uploads/sites/9/2026/11/1107-lf-drugs-cannabis.lf_.jpg
+    publisher: "London Free Press"
+    caption: "Cannabis and other drugs seized from the London home. Photo: London police."
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b1efef036dab8721efa55418f48c776b

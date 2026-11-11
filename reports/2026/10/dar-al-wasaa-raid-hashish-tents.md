@@ -34,6 +34,13 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://www.lebarmy.gov.lb/en/content/lebanese-army-seizes-quantity-drugs-destroys-14-tents-used-marijuana-cultivation-and-arrests
+    archived: https://web.archive.org/web/20261015073941/https://www.lebarmy.gov.lb/en/content/lebanese-army-seizes-quantity-drugs-destroys-14-tents-used-marijuana-cultivation-and-arrests
+    media_url: https://www.lebarmy.gov.lb/sites/default/files/field/images/10_26/thumb/PNL13102026121018_01.jpg
+    publisher: "Lebanese Army"
+    caption: "A Lebanese Army photograph of the cultivation site raided in Dar al-Wasaa."
 status: verified
 tags: [baalbek]
 sources:

@@ -21,6 +21,13 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]
+media:
+  - kind: photo
+    url: https://kmph.com/news/local/madera-traffic-stop-leads-to-arrest-after-officer-reported-smelling-cannabis
+    archived: https://web.archive.org/web/20261104142408/https://kmph.com/news/local/madera-traffic-stop-leads-to-arrest-after-officer-reported-smelling-cannabis
+    media_url: https://kmph.com/resources/media2/16x9/496/1320/38x143/90/cf6aac10-9931-4d28-8905-499f5bb90708-CHPMADERA3.jpg
+    publisher: "KMPH"
+    caption: "Items displayed by the California Highway Patrol after the Madera stop."
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e32a86671c32efa50d9e6f0d06ca108c
@@ -28,6 +35,7 @@ tags: [madera, traffic-stop, highway-patrol]
 sources:
   - title: Madera traffic stop leads to arrest after officer reported smelling cannabis
     url: https://kmph.com/news/local/madera-traffic-stop-leads-to-arrest-after-officer-reported-smelling-cannabis
+    archived: https://web.archive.org/web/20261104142408/https://kmph.com/news/local/madera-traffic-stop-leads-to-arrest-after-officer-reported-smelling-cannabis
     publisher: KMPH
     date: 2026-11-03
 open_questions:

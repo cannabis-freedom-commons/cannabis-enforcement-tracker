@@ -37,6 +37,12 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://fatonovo.com.br/destaque/homem-e-preso-com-dois-tijolos-de-maconha-no-bairro-navegantes/
+    media_url: https://fatonovo.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-08-at-09.09.00-1-300x187.jpeg
+    publisher: "Fato Novo"
+    caption: "Cannabis and other items displayed by police after the São Sebastião do Caí arrest."
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9368c60d83b4b42af2661f802c20d498

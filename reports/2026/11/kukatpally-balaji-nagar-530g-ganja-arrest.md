@@ -34,6 +34,12 @@ data_sources:
   figures.arrested: [1]
   figures.kg_seized: [1]
   figures.vehicles: [1]
+media:
+  - kind: photo
+    url: https://www.hmtvlive.com/telugu-news/hyderabad/excise-stf-seizes-530-grams-of-ganja-in-kukatpally-209861
+    media_url: https://assets.hmtvlive.com/h-upload/2026/11/06/485276-kukatpally.jpg
+    publisher: "HMTV"
+    caption: "Excise officers with the suspect and motorcycle in Kukatpally."
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b166a7dfacea76061af42f6312603e36

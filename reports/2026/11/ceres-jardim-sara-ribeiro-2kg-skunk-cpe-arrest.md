@@ -39,6 +39,12 @@ data_sources:
   figures.charged: [1]
   figures.kg_seized: [1]
   figures.sites: [1]
+media:
+  - kind: photo
+    url: https://www.jornalpopulacional.com.br/noticia/25417-homem-e-preso-com-mais-de-2-kg-de-skunk-durante-acao-da-cpe-em-ceres.html
+    media_url: https://www.jornalpopulacional.com.br/storage/pequena/noticia/1794266093.png
+    publisher: "Jornal Populacional"
+    caption: "Packages displayed by the CPE after the Ceres seizure."
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: dccb329297886d2276f772cc6548825e

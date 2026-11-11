@@ -30,6 +30,12 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://lacuyabraradio.com/2026/11/09/incautan-mas-de-siete-kilos-de-marihuana-y-98-cajas-de-clonazepam-en-el-barrio-los-quindos-de-armenia/
+    media_url: https://lacuyabraradio.com/wp-content/uploads/2026/11/incautan-mas-de-siete-kilos-de-marihuana-y-98-cajas-de-clonazepam-en-el-barrio-los-quindos-de-armenia-la-cuyabra-radio.jpg
+    publisher: "La Cuyabra Radio"
+    caption: "Police display the seized marijuana and clonazepam in Los Quindos."
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 73437d8556fa6fafb4bdf066718a657a

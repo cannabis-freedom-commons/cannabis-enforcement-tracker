@@ -33,6 +33,12 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://www.goud.ma/%D8%A8%D8%B2%D9%86%D8%A7%D8%B3-%D8%AD%D8%B5%D9%84-%D9%81%D9%85%D8%B1%D8%A7%D9%83%D8%B4-%D8%A8%D9%84%D8%BA%D8%A8%D8%B1%D8%A7-%D9%88%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D9%88%D8%AD%D8%AA%D9%89-%D8%A7%D9%84-1052948/
+    media_url: https://sf.goud.ma/wp-content/uploads/2026/11/0a1ae3ca-6be9-4e4b-9a50-794f9b49b5bd.jpeg
+    publisher: "Goud"
+    caption: "Substances and other items displayed after the Marrakech arrest."
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4efe7754cf4766ef4e97cac97c4068da

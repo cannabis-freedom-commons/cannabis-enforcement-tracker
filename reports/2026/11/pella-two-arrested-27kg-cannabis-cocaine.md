@@ -30,6 +30,12 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://www.ertnews.gr/roi-idiseon/pella-dyo-syllipseis-gia-diakinisi-narkotikon-katasxethikan-megales-posotites-kai-10-200-eyro/
+    media_url: https://www.ertnews.gr/wp-content/uploads/2026/11/astinomiko-tmima-paionias-grafeio-asfaleias.jpg
+    publisher: "ertnews.gr"
+    caption: "Cannabis, cash and other items displayed by police after the Pella arrests."
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f3cd7a5ea81f1c5fc0d322c9e741cd22

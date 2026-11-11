@@ -38,6 +38,12 @@ data_sources:
   figures.arrested: [1]
   figures.kg_seized: [1]
   figures.plants_destroyed: [1]
+media:
+  - kind: photo
+    url: https://www.eskisehirekspres.net/eskisehirde-uyusturucu-operasyonu-evden-esrar-ve-kenevir-cikti
+    media_url: https://eskisehirekspresnet.teimg.com/crop/1280x720/eskisehirekspres-net/uploads/2026/11/eskisehirde-uyusturucu-operasyonu-evden-esrar-ve-kenevir-cikti.png
+    publisher: "Eskişehir Haber, Son Dakika Eskişehir Haberleri - Eskişehir Ekspres"
+    caption: "Cannabis plants and other items displayed by the Eskişehir gendarmerie."
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 780d4d2d91aed76c22ef327bdfb425b9

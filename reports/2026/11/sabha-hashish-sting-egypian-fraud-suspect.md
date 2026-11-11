@@ -27,6 +27,12 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]
+media:
+  - kind: photo
+    url: https://www.alsaaa24.com/2026/11/05/%D9%85%D8%AF%D9%8A%D8%B1%D9%8A%D8%A9-%D8%B3%D8%A8%D9%87%D8%A7-%D8%B6%D8%A8%D8%B7-%D9%88%D8%A7%D9%81%D8%AF-%D9%81%D9%8A-%D9%82%D8%B6%D9%8A%D8%A9-%D9%86%D8%B5%D8%A8-%D9%88%D9%84%D9%8A%D8%A8%D9%8A/
+    media_url: https://www.alsaaa24.com/wp-content/uploads/2026/11/IMG-20261105-WA0057.jpg
+    publisher: "صحيفة الساعة 24"
+    caption: "The two suspects pictured with the Sabha police account."
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a1a617fe1c20eb5b301e8a9a92effa6b

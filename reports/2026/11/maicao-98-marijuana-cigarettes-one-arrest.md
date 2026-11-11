@@ -37,6 +37,12 @@ data_sources:
   figures.arrested: [1]
   figures.kg_seized: [1]
   figures.value: [1]
+media:
+  - kind: photo
+    url: https://diariodelnorte.net/judiciales/capturan-a-hombre-con-98-cigarrillos-de-marihuana-en-el-barrio-las-americas-de-maicao/
+    media_url: https://diariodelnorte.net/wp-content/uploads/2026/11/Portadas-DN-42-1200x630.jpg
+    publisher: "Diario del Norte"
+    caption: "Police display the suspect and seized cigarettes in Maicao."
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fcec8d5fbe0f4fc59ed6bce14bb465e2

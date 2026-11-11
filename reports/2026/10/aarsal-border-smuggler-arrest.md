@@ -35,6 +35,13 @@ data_sources:
   details.route: [1]
   details.setting: [1]
   figures.arrested: [1]
+media:
+  - kind: photo
+    url: https://www.lebarmy.gov.lb/en/content/armed-clash-between-lebanese-army-personnel-and-smuggler-and-foiling-attempts-smuggle-rocket
+    archived: https://web.archive.org/web/20261012103426/https://www.lebarmy.gov.lb/en/content/armed-clash-between-lebanese-army-personnel-and-smuggler-and-foiling-attempts-smuggle-rocket
+    media_url: https://www.lebarmy.gov.lb/sites/default/files/field/images/10_26/thumb/PNL09102026162324_01.jpg
+    publisher: "Lebanese Army"
+    caption: "Packages seized during the Aarsal border operation. Photo: Lebanese Army."
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [aarsal, border, syria-route, hashish]
@@ -45,6 +52,7 @@ open_questions:
 sources:
   - title: Armed Clash Between Lebanese Army Personnel and a Smuggler, and Foiling of Attempts to Smuggle Rocket Projectiles, Explosives, and Drugs Across the Lebanese-Syrian Border
     url: https://www.lebarmy.gov.lb/en/content/armed-clash-between-lebanese-army-personnel-and-smuggler-and-foiling-attempts-smuggle-rocket
+    archived: https://web.archive.org/web/20261012103426/https://www.lebarmy.gov.lb/en/content/armed-clash-between-lebanese-army-personnel-and-smuggler-and-foiling-attempts-smuggle-rocket
     publisher: Lebanese Army
     date: 2026-10-09
 ---

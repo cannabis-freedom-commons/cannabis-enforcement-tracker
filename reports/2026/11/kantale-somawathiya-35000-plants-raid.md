@@ -13,7 +13,6 @@ summary: >-
   Army Intelligence and wildlife officers raided a three-acre cannabis plantation holding more than 35,000 plants inside the Somawathiya Reserve at Agbopura, Divulgaswewa on 3 November 2026. One suspect was arrested at the scene and the Kantale wildlife department is conducting further legal proceedings.
 figures:
   arrested: 1
-  plants_destroyed: 35000
   hectares: 1.21
 details:
   activity: [cultivation]
@@ -33,7 +32,12 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.hectares: [1]
-  figures.plants_destroyed: [1]
+media:
+  - kind: photo
+    url: https://www.newswire.lk/2026/11/04/army-intelligence-tip-off-leads-to-raid-on-35000-plant-cannabis-cultivation/
+    media_url: https://www.newswire.lk/wp-content/uploads/2026/11/1000013833.jpg
+    publisher: "Newswire"
+    caption: "Cannabis plants at the plantation discovered inside the Somawathiya Reserve."
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b837d89d518a8b3a6a254564502ee970

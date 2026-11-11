@@ -31,6 +31,13 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://pulsoslp.com.mx/seguridad/apresan-a-un-par-de-jovenes-con-droga-/2103686
+    archived: https://web.archive.org/web/20261104132117/https://pulsoslp.com.mx/seguridad/apresan-a-un-par-de-jovenes-con-droga-/2103686
+    media_url: https://blobcore.pulsoslp.com.mx/images/2026/11/04/apresan-a-un-par-de-jovenes-con-droga-8a326cc1-focus-0-0-600-315.webp
+    publisher: "Pulso Diario San Luis"
+    caption: "Officers with the two suspects and items seized in San Luis Potosí."
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 771a4c525e234692303cd92174c417fd
@@ -38,6 +45,7 @@ tags: [san-luis-potosi, marijuana, municipal-police]
 sources:
   - title: Apresan a un par de jóvenes con droga
     url: https://pulsoslp.com.mx/seguridad/apresan-a-un-par-de-jovenes-con-droga-/2103686
+    archived: https://web.archive.org/web/20261104132117/https://pulsoslp.com.mx/seguridad/apresan-a-un-par-de-jovenes-con-droga-/2103686
     publisher: Pulso Diario San Luis
     date: 2026-11-04
     language: es

@@ -26,6 +26,12 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://www.tripurastarnews.com/192-kg-of-dried-cannabis-seized-at-anandabazar-naka-point-two-detained/
+    media_url: https://www.tripurastarnews.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-8.34.51-PM.jpeg
+    publisher: "Tripura Star News"
+    caption: "Police with the seized cannabis packages and vehicle at Anandabazar."
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [dharmanagar, tripura, naka, trafficking]

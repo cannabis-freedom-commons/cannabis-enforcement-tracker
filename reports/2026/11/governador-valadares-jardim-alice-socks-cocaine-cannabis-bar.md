@@ -15,6 +15,12 @@ figures:
   arrested: 1
 data_sources:
   figures.arrested: [1]
+media:
+  - kind: photo
+    url: https://g1.globo.com/mg/vales-mg/noticia/2026/11/06/homem-e-preso-com-cocaina-escondida-nas-meias-em-governador-valadares.ghtml
+    media_url: https://s2-g1.glbimg.com/lhbqG6MSZ3oM07GxJzCpbTuzknA=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/p/kbGCWARrA3Huq8oCmMDQ/fotos-horizontais-7-.png
+    publisher: "g1"
+    caption: "Items seized by military police during the Jardim Alice arrest. Photo: Polícia Militar."
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 69bfbd6a9d160da644a4c2d43743dc69

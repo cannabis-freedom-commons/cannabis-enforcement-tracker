@@ -32,6 +32,13 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://drd.com.br/homem-e-preso-apos-tentar-descartar-sacola-com-500-gramas-de-maconha-durante-abordagem-da-pm-no-bairro-sao-raimundo/
+    archived: https://web.archive.org/web/20261104024935/https://drd.com.br/homem-e-preso-apos-tentar-descartar-sacola-com-500-gramas-de-maconha-durante-abordagem-da-pm-no-bairro-sao-raimundo/
+    media_url: https://drd.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-23.39.26.jpeg
+    publisher: "Diário do Rio Doce"
+    caption: "The suspected cannabis, money and other items displayed by police in São Raimundo."
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 78d7c4034fa0fc2ef3fb830a4c7d339c
@@ -39,6 +46,7 @@ tags: [governador-valadares, minas-gerais, military-police]
 sources:
   - title: Homem é preso após tentar descartar sacola com 500 gramas de maconha durante abordagem da PM no bairro São Raimundo
     url: https://drd.com.br/homem-e-preso-apos-tentar-descartar-sacola-com-500-gramas-de-maconha-durante-abordagem-da-pm-no-bairro-sao-raimundo/
+    archived: https://web.archive.org/web/20261104024935/https://drd.com.br/homem-e-preso-apos-tentar-descartar-sacola-com-500-gramas-de-maconha-durante-abordagem-da-pm-no-bairro-sao-raimundo/
     publisher: Diário do Rio Doce
     date: 2026-11-03
     language: pt

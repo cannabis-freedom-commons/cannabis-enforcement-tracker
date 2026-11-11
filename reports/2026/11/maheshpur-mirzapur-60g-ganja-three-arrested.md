@@ -35,6 +35,12 @@ data_sources:
   figures.arrested: [1]
   figures.kg_seized: [1]
   figures.value: [1]
+media:
+  - kind: photo
+    url: https://www.banglaedition.com/news/2026/11/04/273837
+    media_url: https://www.banglaedition.com/assets/news_images/2026/11/04/10.jpg
+    publisher: "Bangla Edition"
+    caption: "Police with people arrested in Maheshpur."
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 71af3acfbaae00e5a27afbbbe250f363

@@ -35,6 +35,12 @@ data_sources:
   figures.arrested: [1]
   figures.kg_seized: [1]
   figures.released: [1]
+media:
+  - kind: photo
+    url: https://reporteri.net/en/NEWS/Five-people-arrested-for-drug-trafficking-in-Pristina/
+    media_url: https://reporteri.net/wp-content/uploads/2026/11/image-34-1.png
+    publisher: "Gazeta Online Reporteri.net"
+    caption: "Items displayed by the police anti-drug unit after the Pristina arrests."
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5d0eb4aa22b0e1742d098fe0783d0627

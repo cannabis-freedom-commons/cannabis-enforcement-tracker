@@ -32,6 +32,12 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://navbharatlive.com/maharashtra/nagpur/grp-seizes-ganja-worth-18-lakhs-at-nagpur-railway-station-three-arrested-pmy20
+    media_url: https://media.assettype.com/navbharatlive%2F2026-11-04%2Fdo9yyjbd%2FNagpur-Railway-Station-Crime-News.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100
+    publisher: "Navbharat Live"
+    caption: "Police with the three suspects and the seized bags at Nagpur railway station."
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2b893a35aeba1aa6decc076bc158943d

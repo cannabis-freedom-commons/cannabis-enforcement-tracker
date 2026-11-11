@@ -37,6 +37,12 @@ data_sources:
   details.setting: [1]
   figures.kg_seized: [1]
   figures.value: [1]
+media:
+  - kind: photo
+    url: https://jalgaonlive.news/cannabis-cultivation-unearthed-in-chopda-143137/
+    media_url: https://jalgaonlive.news/wp-content/uploads/2026/11/cpganja.jpg
+    publisher: "Jalgaon Live News"
+    caption: "Police and others at the cannabis cultivation site in Chopda."
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 48bd121fe0a2e290d971fe4d5489f035
