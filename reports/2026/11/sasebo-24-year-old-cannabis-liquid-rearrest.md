@@ -39,15 +39,20 @@ sources:
     publisher: NBC長崎放送
     date: 2026-11-10
     language: ja
+  - title: コカイン使用の罪で執行猶予中に...自宅に大麻リキッド所持の疑いで飲食店従業員の男(24)逮捕 「私が持っていたものです」容疑認める
+    url: https://newsdig.tbs.co.jp/articles/-/3075309?display=1
+    publisher: TBS NEWS DIG
+    date: 2026-11-10
+    language: ja
 ---
 
 A man in his 20s in Sasebo, Nagasaki Prefecture, was arrested on suspicion of
 possessing cannabis liquid at his home in violation of the Narcotics Control
-Law, while on a suspended sentence for cocaine use and other offences. [@1] The
+Law, while on a suspended sentence for cocaine use and other offences. [@1,2] The
 arrested man is a 24-year-old restaurant employee who lives in Sasebo. [@1]
 Police allege that on 28 September he possessed about 0.3 grams of cannabis
-liquid at his home, where he lived alone. [@1] Police say he told investigators
-the liquid was something he had, admitting the allegation. [@1]
+liquid at his home, where he lived alone. [@1,2] Police say he told investigators
+the liquid was something he had, admitting the allegation. [@1,2]
 
 In January this year he had received a guilty verdict with a suspended sentence,
 two years and six months imprisonment with a four-year suspension, for cocaine
@@ -58,4 +63,3 @@ liquid during that fraud-related investigation and, after testing confirmed the
 suspicion, rearrested him on 10 November for alleged possession in violation of
 the Narcotics Control Law. [@1] Police are still investigating whether he used
 the cannabis liquid and how he obtained it. [@1]
-
