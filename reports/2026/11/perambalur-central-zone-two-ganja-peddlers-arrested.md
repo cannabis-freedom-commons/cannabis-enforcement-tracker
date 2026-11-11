@@ -25,30 +25,32 @@ sources:
     url: https://www.thehindu.com/news/cities/Tiruchirapalli/police-arrest-34-anti-social-elements-in-a-special-crackdown-in-central-districts/article71686028.ece
     publisher: The Hindu
     date: 2026-11-10
+  - title: Rowdies held, thousands booked In spl drives
+    url: https://timesofindia.indiatimes.com/city/madurai/rowdies-held-thousands-booked-in-spl-drives/articleshow/135718589.cms
+    publisher: The Times of India
+    date: 2026-11-11
 open_questions:
-  - Neither report specifies the quantity or weight of ganja seized from the two peddlers in Perambalur.
-  - The identities and exact penal charges under the Narcotic Drugs and Psychotropic Substances Act were not published for the two cannabis peddlers.
-  - Whether the seized vehicles or weapons were directly linked to the cannabis peddlers or to other arrested offenders was not specified.
-  - Left out arrested, as no supporting quotation was given.
+    - Neither report specifies the quantity or weight of ganja seized from the two peddlers in Perambalur.
+    - The identities and exact penal charges under the Narcotic Drugs and Psychotropic Substances Act were not published for the two cannabis peddlers.
+    - Whether the seized vehicles or weapons were directly linked to the cannabis peddlers or to other arrested offenders was not specified.
 ---
 
 Central Zone police arrested 34 persons during a two-day special crackdown
 against habitual offenders, rowdies and ganja peddlers across nine districts on
-8 and 9 November 2026 ahead of Deepavali. [@2] The drive was conducted as a
+8 and 9 November 2026 ahead of Deepavali. [@2,3] The drive was conducted as a
 preventive crime measure ahead of the festival and aimed to execute pending
 non-bailable warrants against absconding offenders. [@2] In Perambalur district,
-police arrested two individuals allegedly involved in ganja peddling. [@2] The
+police arrested two individuals allegedly involved in ganja peddling. [@2,3] The
 two ganja offenders in Perambalur district were arrested and placed in jail.
 [@1]
 
 Across the nine districts, police inspected 608 habitual offenders, searched 693
-houses and conducted vehicle checks at 368 locations. [@2] Officers registered
+houses and conducted vehicle checks at 368 locations. [@2,3] Officers registered
 32 cases across the zone, including four cases in Perambalur, eight in
-Pudukkottai and seven in Tiruchi. [@2] From the arrested individuals, police
+Pudukkottai and seven in Tiruchi. [@2,3] From the arrested individuals, police
 confiscated one car, three two-wheelers, four knives, nine sickles, a cricket
-bat and a wooden club. [@1]
+bat and a wooden club. [@1,3]
 
 The Inspector-General of Police for Central Zone directed district
 superintendents across all nine jurisdictions to sustain intensive surveillance
 on habitual offenders and absconders. [@2]
-
