@@ -65,17 +65,23 @@ sources:
     publisher: Free Dom
     date: 2026-11-11
     language: fr
+  - title: Plus de trois kilos de résine de cannabis et 8.000 euros en liquide saisis par la police à Mayotte
+    url: https://la1ere.franceinfo.fr/mayotte/plus-de-trois-kilos-de-resine-de-cannabis-et-8-000-euros-en-espece-saisis-par-la-police-a-mayotte-1756770.html
+    publisher: Mayotte La 1ère
+    date: 2026-11-11
+    language: fr
 open_questions:
     - The first accounts reported 3 kg of cannabis and 8,000 euros while the trial account gave 3.334 kg and 8,495 euros; the report uses the trial figures.
     - Three people were arrested but only two stood trial on 9 November; the status of the third person, to be summoned later, is unknown.
     - The outcome of the search at the tax administration employee's home on square Papaye was not reported.
     - It is unclear whether the buyer arrested the next day in central Mamoudzou is one of the three arrested people or a separate case.
     - The account rests on local press reports; no police statement or court judgment with fuller case details was reported.
+    - The submitted account gives the arrested count as two people brought before the prosecutor, while local press accounts reported three arrests with two jailed pending trial.
 ---
 
 On 4 November, an operation by the anti-crime brigade (BAC) in Passamaïnty
-interrupted a drug deal. [@1,4] Officers then searched a flat suspected of storing
-drugs, first reported as yielding 3 kg of cannabis and 8,000 euros in cash. [@1,4]
+interrupted a drug deal. [@1,4,5] Officers then searched a flat suspected of storing
+drugs, first reported as yielding 3 kg of cannabis and 8,000 euros in cash. [@1,4,5]
 The later trial account put the seizure at 34 bars weighing 3.334 kg, with 8,495
 euros in cash and two telephones found at the wholesaler's home. [@3] Three
 people were arrested and brought before the public prosecutor, two of them
