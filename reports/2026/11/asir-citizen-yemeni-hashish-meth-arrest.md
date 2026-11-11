@@ -45,19 +45,17 @@ sources:
     publisher: عاجل
     date: 2026-11-11
     language: ar
-open_questions:
-  - No separate date for the arrest was given; 11 November 2026 is the publication date and is used as the incident date.
-  - No quantities, weights or pill counts for the hashish, methamphetamine or regulated tablets were published, so no drug amount is recorded.
-  - No town or district within Asir region was named; coordinates are for the region.
-  - Neither suspect was named and no ages were given.
-  - No court charge or outcome was reported beyond referral to the Public Prosecution.
+  - title: إلقاء القبض على مواطن ويمني في عسير بتهمة ترويج المخدرات – الاستاد الاخباري
+    url: https://www.alestad.com/153672/%D8%A5%D9%84%D9%82%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D9%88%D9%8A%D9%85%D9%86%D9%8A-%D9%81%D9%8A-%D8%B9%D8%B3%D9%8A%D8%B1-%D8%A8%D8%AA%D9%87/
+    publisher: الاستاد الاخباري
+    date: 2026-11-11
+    language: ar
 ---
 
 Saudi Arabia's General Directorate of Narcotics Control arrested two people in
 Asir region, one a Yemeni border-security violator and the other a Saudi
-citizen. [@1] The pair were accused of promoting hashish, methamphetamine known
-as shabu, and tablets subject to medical-trade controls. [@2]
+citizen. [@1,3] The pair were accused of promoting hashish, methamphetamine known
+as shabu, and tablets subject to medical-trade controls. [@2,3]
 
 Both suspects were stopped, statutory procedures were taken against them, and
 they were referred to the Public Prosecution for further investigation. [@1]
-
