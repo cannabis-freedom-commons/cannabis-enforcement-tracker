@@ -55,19 +55,16 @@ sources:
     publisher: Infobae
     date: 2026-11-10
     language: es
-open_questions:
-  - No weight was published for the 701 marijuana wraps, so no cannabis kilograms can be recorded and the cannabis quantity is counted only in doses.
-  - The article gives no separate date for the intervention; 10 November 2026 is the article's own publication date and is used as the incident date.
-  - No charges, pretrial measures or court outcome had been reported; the suspect had been placed at the disposal of the Public Prosecution Service.
-  - The reported cash of more than 5.3 million colones plus 8 US dollars is alleged proceeds of a mixed-drug seizure and is not recorded as a cannabis value.
-  - The crack and cocaine dose counts are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
-  - Police said the detainee had a record for simple theft and drug possession but did not clarify whether those were prior arrests or convictions.
-  - Only one accessible source for this event was found after searching in Spanish.
+  - title: Detenido en Cartago con más de 3.800 dosis de droga y ₡5.3 millones en efectivo
+    url: https://crprensa.com/2026/11/10/detenido-en-cartago-con-mas-de-3-800-dosis-de-droga-y-%E2%82%A15-3-millones-en-efectivo/
+    publisher: CRprensa.com
+    date: 2026-11-10
+    language: es
 ---
 
 A man surnamed Otarola was detained by Costa Rican Fuerza Publica officers in
 the Los Diques sector of Cartago after trying to flee a police intervention
-while carrying 3,858 doses of suspected drugs. [@1] Officers of the Grupo Lince
+while carrying 3,858 doses of suspected drugs. [@1,2] Officers of the Grupo Lince
 unit stopped the man while he was travelling by motorcycle during preventive
 surveillance in the Dique Claudio Zuniga community in central Cartago canton.
 [@1] The suspect tried to flee when he saw the police but was intercepted, and
@@ -76,16 +73,15 @@ amount of money. [@1]
 
 Authorities counted 2,807 doses of suspected crack, the largest share of the
 load. [@1] They also found 701 wraps of suspected marijuana and 350 doses of
-suspected cocaine, for a total of 3,858 units of different drugs. [@1] Along
+suspected cocaine, for a total of 3,858 units of different drugs. [@1,2] Along
 with the cash, police seized 8 US dollars and the motorcycle used by the
 detainee. [@1] Officers seized more than 5.3 million colones, described as about
 11,000 US dollars, in cash. [@1]
 
 After the intervention, officers coordinated with the Public Prosecution
-Service, which assigned the judicial procedures to the Drug Control Police. [@1]
+Service, which assigned the judicial procedures to the Drug Control Police. [@1,2]
 The suspect was placed at the disposal of the Public Prosecution Service, which
 was to decide on further steps and assess possible charges. [@1] No request for
 pretrial measures or judicial hearing in connection with the detention had been
 reported. [@1] The detainee was identified only by his surname, Otarola, and
 police said he had a record for simple theft and drug possession. [@1]
-
