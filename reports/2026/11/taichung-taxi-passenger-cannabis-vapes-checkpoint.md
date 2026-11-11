@@ -48,6 +48,16 @@ media:
     media_url: https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/11/35505821.png&M=1&s=Y&x=0&y=0&sw=1280&sh=707&sl=W&fw=800&exp=3600&w=800
     publisher: 聯合新聞網
     caption: 'Police roadside check in Taichung where the taxi passenger was found with drugs. Photo: 陳宏睿'
+  - kind: photo
+    url: https://www.ettoday.net/news/20261111/3270116.htm
+    media_url: https://cdn2.ettoday.net/images/9010/d9010134.jpg
+    publisher: ETtoday新聞雲
+    caption: 'Police with the detained man on Shuangshi Road in North District on the night of the checkpoint. Photo: 許權毅 via ETtoday'
+  - kind: photo
+    url: https://www.ettoday.net/news/20261111/3270116.htm
+    media_url: https://cdn2.ettoday.net/images/9010/d9010135.jpg
+    publisher: ETtoday新聞雲
+    caption: 'Officers restraining the man who tried to run at the checkpoint. Photo: 許權毅 via ETtoday'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1028be9435bdf29913a14895cfe496a9
@@ -63,6 +73,11 @@ sources:
     publisher: 聯合新聞網
     date: 2026-11-11
     language: zh
+  - title: 多元計程車飄毒味 後座友人「緊握口袋」被抓包藏大麻菸彈
+    url: https://www.ettoday.net/news/20261111/3270116.htm
+    publisher: ETtoday新聞雲
+    date: 2026-11-11
+    language: zh
 open_questions:
   - No number or weight was published for the seized cannabis vape cartridges.
   - The type and quantity of the other seized contraband were not specified; ketamine was described only as a suspected burning smell.
@@ -71,15 +86,15 @@ open_questions:
 ---
 
 Taichung Second Precinct officers were conducting a drink-driving and
-drug-driving roadside checkpoint on the evening of 10 November 2026. [@1] At
+drug-driving roadside checkpoint on the evening of 10 November 2026. [@1,3] The checkpoint was on Shuangshi Road in North District and was led by Liren station chief Jiang Zhenjian. [@3] At
 about 9:11 p.m., officers saw a car stop suddenly before the checkpoint and
-signalled its driver to stop for inspection. [@1] The vehicle was a diversified
+signalled its driver to stop for inspection. [@1,3] The vehicle was a diversified
 taxi driven by a 26-year-old man surnamed Xu, carrying two 23-year-old men
-surnamed Huang and Guan in the back seat. [@1] Officers restrained Huang after
+surnamed Huang and Guan in the back seat. [@1,3] Huang and Guan were friends of the driver, not fare-paying passengers. [@3] Officers restrained Huang after
 he tried to rush into the oncoming lane, and seized cannabis vape cartridges and
-other contraband. [@2] The case was transferred to the Taichung District
+other contraband. [@2,3] The case was transferred to the Taichung District
 Prosecutors Office on suspicion of violating the Narcotics Hazard Prevention
-Act, with police saying they would trace the drug source. [@1]
+Act, with police saying they would trace the drug source. [@1,3]
 
 Officers found no obvious signs of drug use by the driver and ruled out
 drug-driving on his part. [@1] During the check, officers smelled suspected
@@ -90,4 +105,3 @@ during the inspection. [@1]
 The precinct said it would continue roadside checks and patrols against drugs,
 drink-driving and drug-driving, and asked the public to call 110 about
 suspicious activity. [@1]
-
