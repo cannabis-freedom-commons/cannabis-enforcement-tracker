@@ -57,11 +57,11 @@ sources:
     publisher: Guarda Nacional Republicana
     date: 2026-11-10
     language: pt
-open_questions:
-  - The seized liamba and hashish are reported only as two doses of each, with no weight in grams or kilograms, so no cannabis weight is recorded.
-  - The six men were detained on illegal gambling allegations rather than drug charges; the sources do not state who possessed the seized cannabis or whether separate drug infraction proceedings were opened.
-  - The names of the six detainees were not released by authorities.
-  - No court outcome, bail conditions or subsequent coercive measures from the Judicial Court of Santo Tirso were reported.
+  - title: Combate ao jogo ilegal. Detidos seis suspeitos na Trofa
+    url: https://sapo.pt/artigo/combate-ao-jogo-ilegal-detidos-seis-suspeitos-na-trofa-6af2fe008caa48e7be1bcd82
+    publisher: SAPO
+    date: 2026-11-10
+    language: pt
 ---
 
 Guarda Nacional Republicana officers detained six men aged between 20 and 53
@@ -74,13 +74,12 @@ the Porto Territorial Command. [@2]
 
 Authorities stated the detentions were based on suspicions of operating illegal
 gambling, being present at an illegal gambling venue, and playing illegal
-gambling. [@1] The operation resulted in eight administrative offence notices
-drawn up for infractions of various natures. [@2] During the inspections,
+gambling. [@1,3] The operation resulted in eight administrative offence notices
+drawn up for infractions of various natures. [@2,3] During the inspections,
 officers seized four games of chance gambling machines, a scale, three knives,
-two doses of liamba and two doses of hashish. [@1]
+two doses of liamba and two doses of hashish. [@1,3]
 
 The six men were made arguidos, formal suspects under Portuguese law, and the
-facts were referred to the Judicial Court of the Comarca of Santo Tirso. [@1]
+facts were referred to the Judicial Court of the Comarca of Santo Tirso. [@1,3]
 The GNR stated that operations against illegal gambling are intended to prevent
 crime linked to addiction, indebtedness and family breakdown. [@1]
-
