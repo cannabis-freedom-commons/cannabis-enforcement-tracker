@@ -69,6 +69,11 @@ sources:
     url: https://timesofmalta.com/article/man-found-capsules-stomach-pleads-guilty-drug-importation.1136889
     publisher: Times of Malta
     date: 2026-11-10
+  - title: Malta, marocchino arrivato dalla Spagna arrestato con 1,5 kg di cannabis
+    url: https://www.italpress.com/malta-marocchino-arrivato-dalla-spagna-arrestato-con-15-kg-di-cannabis/
+    publisher: Italpress
+    date: 2026-11-10
+    language: it
 media:
   - kind: photo
     url: https://timesofmalta.com/article/man-arrested-caught-150-cannabis-resin-capsules-stomach.1136876
@@ -76,25 +81,24 @@ media:
     publisher: Times of Malta
     caption: 'Approximately 150 capsules of suspected cannabis resin found in the man''s stomach. Photo: Malta Police Force'
 open_questions:
-  - Only the name El Habib was published, so the accused's full identity remains unclear.
-  - No date for the next hearing was reported.
-  - The text gives a weight ("1.5 kilograms") but the figures have no kg_seized; check whether it belongs there.
+    - Only the name El Habib was published, so the accused's full identity remains unclear.
+    - No date for the next hearing was reported.
 ---
 
 A 45-year-old Moroccan man was arrested at Malta International Airport after
 police found about 150 capsules containing suspected cannabis resin inside his
 stomach. [@1,2,3,4,5,6] Police put the capsules at roughly 1.5 kilograms of suspected
-cannabis resin, with an estimated street value of €30,000. [@1,2,4,5,6,7]
+cannabis resin, with an estimated street value of €30,000. [@1,2,4,5,6,7,8]
 
 Intelligence suggested the man, travelling from Morocco to Malta via Spain,
 could be part of an organised drug trafficking network. [@1,2,3,4,5,6] Officers checked
 passengers on a flight from Madrid that he was due to arrive on, and arrested
-him. [@1,2,3,4,5,7] He was taken to Mater Dei Hospital, where medical scans revealed the
-suspected drug-filled capsules in his stomach. [@1,2,3,4,5,6] The capsules, about 150 in
+him. [@1,2,3,4,5,7,8] He was taken to Mater Dei Hospital, where medical scans revealed the
+suspected drug-filled capsules in his stomach. [@1,2,3,4,5,6,8] The capsules, about 150 in
 all, were seized as allegedly intended for illegal importation into Malta. [@1]
 
 Magistrate Philip Galea Farrugia was informed and opened an inquiry, appointing
-experts to assist the investigation. [@1,2,4,5,6] The suspect was held at the police
+experts to assist the investigation. [@1,2,4,5,6,8] The suspect was held at the police
 lock-up, with his arraignment expected around noon on Tuesday before Magistrate
-Abigail Critien. [@1,2,5] He was remanded in custody, with Magistrate Abigail Critien presiding. [@7] El Habib pleaded not guilty to importing cannabis resin in circumstances indicating that the substance was not intended for his personal use, and association to drug trafficking. [@7] Police said investigations into the suspected trafficking
+Abigail Critien. [@1,2,5] He was remanded in custody, with Magistrate Abigail Critien presiding. [@7,8] El Habib pleaded not guilty to importing cannabis resin in circumstances indicating that the substance was not intended for his personal use, and association to drug trafficking. [@7,8] During the hearing, he stated that he worked as a vegetable vendor and resided in Spain, not in Malta. [@8] Police said investigations into the suspected trafficking
 operation were ongoing. [@1]
