@@ -64,6 +64,13 @@ sources:
     publisher: Ηπειρωτικός Αγών
     date: 2026-11-10
     language: el
+  - title: 'Ιωάννινα: Μεγάλη ποσότητα κοκαΐνης και κάνναβης έκρυβε στο σπίτι του – Συνελήφθη άνδρας'
+    url: https://www.thitanews.gr/ioannina-megali-posotita-kokainis-kai-kannavis-ekryve-sto-spiti-tou-synelifthi-andras/
+    publisher: Thita News
+    date: 2026-11-10
+    language: el
+open_questions:
+  - Thita News rounds the quantity of cannabis discarded by the rubbish bin to 150 grams rather than 150.8 grams.
 ---
 
 Officers of the Ioannina drug enforcement department arrested a Greek man in the
@@ -75,7 +82,7 @@ large quantities of drugs at home to sell to users in the area. [@2]
 A search of the house, carried out in the presence of a court official, found
 packages holding 3,428.1 grams of raw cannabis. [@2,4] The same search found two
 packages of cocaine weighing 514.79 grams in total, which is not counted here as
-cannabis. [@1,4] Adding the package left by the bin, the cannabis taken in the
+cannabis. [@1,4,5] Adding the package left by the bin, the cannabis taken in the
 case comes to about 3.58 kilograms. [@3]
 
 A case file was drawn up against him for possession and trafficking of drugs and
