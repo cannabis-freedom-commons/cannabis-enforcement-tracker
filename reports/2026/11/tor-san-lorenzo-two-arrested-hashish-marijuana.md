@@ -57,6 +57,11 @@ sources:
     publisher: Italpress
     date: 2026-11-10
     language: it
+  - title: 'Ardea, due arresti per droga a Tor San Lorenzo: sequestrati cocaina, crack e hashish'
+    url: https://www.latinaoggi.eu/news/cronaca/324038/ardea-due-arresti-per-droga-a-tor-san-lorenzo-sequestrati-cocaina-crack-e-hashish.html
+    publisher: Latina Oggi
+    date: 2026-11-10
+    language: it
 open_questions:
   - The reports give no exact calendar dates for the two consecutive patrol stops; 10 November 2026 is the announcement and publication date.
   - Non-cannabis substances including cocaine and crack were seized during both vehicle searches and are excluded from cannabis weights.
@@ -64,16 +69,15 @@ open_questions:
 ---
 
 Carabinieri in Tor San Lorenzo, Ardea, conducted two anti-drug operations
-resulting in the arrest of two men. [@1] During a patrol along Viale San
+resulting in the arrest of two men. [@1,3] During a patrol along Viale San
 Lorenzo, officers intercepted a 26-year-old man handing over a suspected package
-through a gate. [@2] Officers tailed his car into neighbouring Aprilia and
-stopped him on Via Adda. [@2] A search of his vehicle uncovered three grams of
+through a gate. [@2,3] Officers tailed his car into neighbouring Aprilia and
+stopped him on Via Adda. [@2,3] A search of his vehicle uncovered three grams of
 hashish in four packets, alongside 12 grams of cocaine and two grams of crack.
-[@2]
+[@2,3]
 
 The following day, officers in the same patrol sector stopped a 20-year-old
-driver. [@2] A search of the cabin revealed two grams of hashish and one gram of
+driver. [@2,3] A search of the cabin revealed two grams of hashish and one gram of
 marijuana hidden in several spots, along with 10 grams of cocaine and three
-grams of crack. [@2] Both men, Albanian nationals residing in Aprilia, were
-arrested on charges of drug possession with intent to deal. [@1]
-
+grams of crack. [@2,3] Both men, Albanian nationals residing in Aprilia, were
+arrested on charges of drug possession with intent to deal. [@1,3]
