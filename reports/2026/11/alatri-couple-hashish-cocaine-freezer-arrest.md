@@ -104,11 +104,19 @@ sources:
     publisher: ABITARE A ROMA
     date: 2026-11-10
     language: it
+  - title: 'Arrestati con 11 chili di cocaina: i dettagli'
+    url: https://www.ciociariaoggi.it/news/home/319791/arrestati-con-11-chili-di-cocaina-i-dettagli.html
+    publisher: Ciociaria Oggi
+    date: 2026-11-11
+    language: it
+open_questions:
+  - No separate weight for the hashish was published, only a combined total of more than 16 kg of cocaine and hashish together.
+  - What custodial measure, if any, was imposed on the 34-year-old woman was not stated in this account.
 ---
 
 Polizia di Stato officers from Rome, assisted by the Frosinone Flying Squad,
 arrested a couple living in Alatri, in the province of Frosinone, on suspicion
-of possessing drugs for sale. [@1,5,8,9] The man is 53 and the woman 34. [@2,5,6,7,8] At the
+of possessing drugs for sale. [@1,5,8,9,10] The home searched was in the Tecchiena area of Alatri. [@10] The operation was conducted on 29 October 2026 and the news was released on 10 November 2026. [@10] The man is 53 and the woman 34. [@2,5,6,7,8,10] At the
 custody hearing the court ordered the man held in prison and imposed no
 custodial measure on the woman. [@1,8]
 
@@ -117,13 +125,13 @@ Frosinone area on an itinerary that struck officers as suspicious. [@1,5,6,7,8,9
 found a few hundred euros in cash and two mobile phones in the car, which they
 believe were used to keep contact with buyers while the drugs were being
 distributed. [@3,8] In the couple's home some of the cocaine and hashish was
-hidden in a chest freezer among ice cream and other frozen food. [@1,5,6,7,8,9] A larger
+hidden in a chest freezer among ice cream and other frozen food. [@1,5,6,7,8,9,10] A larger
 store was hidden under the stairs, where police found more than 1.5 kg of
 cocaine in a sealed box, some of it loose and some packaged for retail sale in
 wrappers marked with images of a car brand and children's toys. [@3,5]
 
 In total police seized more than 16 kg of drugs, cocaine and hashish together,
-and more than 700 euros in cash found in a drawer. [@2,5,7,8] ANSA put the market
+and more than 700 euros in cash found in a drawer. [@2,5,7,8,10] ANSA put the market
 value of the haul at more than one million euros. [@2] More than 700 euros in
 cash was found in a drawer in the home. [@3] Police did not say how much of the
 16 kg was hashish and how much was cocaine. [@4]
