@@ -41,6 +41,11 @@ sources:
     publisher: جريدة الوطن
     date: 2026-11-11
     language: ar
+  - title: سقوط عصابة سرقة الدراجات النارية في الأقصر وبحوزتهم مخزن مسروقات وشابو - إقرأ نيوز
+    url: https://www.iqraa.news/217362/%D8%B3%D9%82%D9%88%D8%B7-%D8%B9%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B3%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84/
+    publisher: إقرأ نيوز
+    date: 2026-11-11
+    language: ar
 open_questions:
   - No weight was published for the seized hashish, so no cannabis quantity is recorded.
   - The sources give no separate raid date; 11 November 2026 is the publication date used for the incident date.
@@ -49,20 +54,19 @@ open_questions:
 ---
 
 Luxor criminal investigators arrested four men accused of forming a gang that
-stole motorcycles by distraction and cutting electrical wiring. [@1] The
+stole motorcycles by distraction and cutting electrical wiring. [@1,3] The
 suspects are unemployed Luxor residents aged 20 to 45 with prior criminal
 records. [@1] Prosecutors ordered all four held for four days pending
 investigation under the Luxor chief prosecutor. [@1]
 
 Investigators said the group used Al-Zanaqta in Luxor as a depot to hide stolen
-motorcycles until disposal. [@2] Officers recovered five reported-stolen
+motorcycles until disposal. [@2,3] Officers recovered five reported-stolen
 motorcycles from Luxor city and Armant markaz, plus a locally made shotgun, iron
-cutters, cash and mobile phones. [@2] Officers also seized an unspecified amount
+cutters, cash and mobile phones. [@2,3] Officers also seized an unspecified amount
 of hashish and half a kilogram of shabu, which police described as
-methamphetamine-type drugs held for trafficking. [@1]
+methamphetamine-type drugs held for trafficking. [@1,3]
 
 The suspects admitted forming the theft gang and possessing drugs for
 trafficking, saying the firearm was to defend themselves. [@1] Police notified
 the motorcycle owners to identify and collect their vehicles and referred the
 suspects to the prosecution. [@1]
-
