@@ -45,29 +45,34 @@ sources:
     publisher: Jornal de Notícias
     date: 2026-11-11
     language: pt
+  - title: Detido em Vila Franca de Xira com mais de 1.600 doses de haxixe
+    url: https://omirante.pt/sociedade/2026-11-11-detido-em-vila-franca-de-xira-com-mais-de-1.600-doses-de-haxixe-9071c7d7
+    publisher: O MIRANTE
+    date: 2026-11-11
+    language: pt
 open_questions:
-  - No weight in grams or kilograms was published for the 1,616 doses of hashish, so no cannabis weight is recorded.
-  - The article gives no charge sheet, court date or coercive measure beyond the presentation to the judicial authority.
-  - The young man is not named, and no street value was given for the hashish.
-  - The article does not say where the storage room was located, only that the young man used it.
-  - Only one accessible report of this event could be opened; no PSP statement or second outlet was found.
+    - No weight in grams or kilograms was published for the 1,616 doses of hashish, so no cannabis weight is recorded.
+    - No charge sheet, court date or coercive measure was published; both accounts say only that the young man was presented to the judicial authority to be informed of coercive measures.
+    - The young man is not named, and no street value was given for the hashish.
+    - The accounts do not say where the storage room was located, only that the young man used it.
+    - O MIRANTE dates the arrest to 9 November 2026, while Jornal de Notícias dates it to 10 November 2026; the report uses the Jornal de Notícias date.
+    - O MIRANTE rounds the initial seizure to 34 individual doses and the storage-room slabs to 1,571 doses, while Jornal de Notícias gives 34.88 and 1,571.72 doses.
 ---
 
 A 19-year-old man had more than 1,600 individual doses of hashish hidden in a
-storage room in Vila Franca de Xira. [@1] The seizure took place on Tuesday 10
+storage room in Vila Franca de Xira. [@1,2] The seizure took place on Tuesday 10
 November 2026 during a patrol by the PSP, Portugal's Public Security Police, in
 Bom Retiro, an area police describe as known for drug consumption and
 trafficking. [@1] Officers noticed the young man's nervous behaviour in the
-presence of police and decided to stop and search him. [@1] The search found
+presence of police and decided to stop and search him. [@1,2] The search found
 34.88 individual doses of hashish, already divided into small packages, and a
 mobile phone. [@1]
 
 After the intervention, PSP discovered an arrecadação, a storage room, used by
 the young man. [@1] A search of that space found eight more slabs of hashish,
 equivalent to 1,571.72 doses, along with two bags and various material used to
-hide and package the product. [@1] In total, about 1,616 individual doses of
-hashish were seized. [@1]
+hide and package the product. [@1,2] In total, about 1,616 individual doses of
+hashish were seized. [@1,2]
 
 The young man was detained on suspicion of drug trafficking and held in police
-premises until he was presented to the judicial authority. [@1]
-
+premises until he was presented to the judicial authority. [@1,2]
