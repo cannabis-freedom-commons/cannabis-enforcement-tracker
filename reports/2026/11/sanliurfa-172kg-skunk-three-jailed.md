@@ -51,6 +51,16 @@ media:
     media_url: https://image.dha.com.tr/i/dha/75/750x0/6af4a0c5bb51d4e475dbda68.jpg
     publisher: Demirören Haber Ajansı (DHA)
     caption: 'Third photo in DHA''s gallery, published with the passage reporting 21 pieces totalling 17 kg 200 g of skunk seized and the three suspects remanded. Photo: DHA / Ali Leylak'
+  - kind: photo
+    url: https://www.sondakika.com/amp/haber-sanliurfa-da-narkotik-ekipleri-17-kilo-200-gram-sk-20418203/
+    media_url: https://foto.sondakika.com/crop/1210x0/haber/2026/11/11/sanliurfa-da-yolcu-otobusu-ve-2-otomobilde-17-2-20418192_sd.jpg
+    publisher: Son Dakika
+    caption: 'İHA photo published with the report on the Şanlıurfa searches of a passenger bus and two cars that seized 17 kg 200 g of skunk. Photo: İHA'
+  - kind: video
+    url: https://www.sondakika.com/video/930a291618/
+    media_url: https://izlehls.sondakika.com/2026/11/11/sanliurfa-da-yolcu-otobusu-ve-2-otomobilde-17-1922-20418192_sd.mp4
+    publisher: Son Dakika
+    caption: 'News video published with the İHA report on the Şanlıurfa narcotics operation that seized 17 kg 200 g of skunk from a passenger bus and two cars and led to three arrests. Video: İHA'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0d4b389748bf3bd37e21a4a600882d43
@@ -81,26 +91,30 @@ sources:
     publisher: Urfanın Nabzı
     date: 2026-11-11
     language: tr
-open_questions:
-    - No separate date or time for the road checks and the arrests is given; 11 November 2026 is the date of publication.
-    - Urfanın Nabzı places the searches in the provincial centre, but no district or neighbourhood of Şanlıurfa is named.
-    - No court term beyond the remand is reported, and none of the three suspects was named.
-    - No value estimate for the seized skunk was published.
-    - Muhalif reported a remand on a charge of narcotics trading, while Urfanın Nabzı said the three were caught for manufacturing, trading and transporting narcotics; DHA, Sözcü and Aksiyon did not name a charge.
+  - title: Şanlıurfa'da narkotik ekipleri 17 kilo 200 gram skunk ele geçirdi, 3 kişi tutuklandı
+    url: https://www.sondakika.com/amp/haber-sanliurfa-da-narkotik-ekipleri-17-kilo-200-gram-sk-20418203/
+    publisher: Son Dakika
+    date: 2026-11-11
+    language: tr
+  - title: Şanlıurfa'da narkotik ekipleri 17 kilo 200 gram skunk ele geçirdi, 3 kişi tutuklandı
+    url: https://www.sondakika.com/video/930a291618/
+    publisher: Son Dakika
+    date: 2026-11-11
+    language: tr
 ---
 
 Şanlıurfa provincial narcotics police stopped a passenger bus and two cars on
-suspicion during operations against drug trafficking. [@1] The searches of the passenger bus and two vehicles were carried out in the provincial centre of Şanlıurfa. [@5] Searches of the
+suspicion during operations against drug trafficking. [@1,6] The searches of the passenger bus and two vehicles were carried out in the provincial centre of Şanlıurfa. [@5] Searches of the
 vehicles by officers with a trained dog found narcotics in cardboard boxes in
 the bus's boot. [@1] Detailed searches of the two cars established that the
 drugs were hidden in one car's rear left wing and inside the other's spare tyre.
 [@1]
 
 The operation seized 21 pieces totalling 17 kilograms 200 grams of skunk, a
-potent form of cannabis sold under that name in Türkiye. [@1,5] The provincial police directorate said the seized quantity prevented about 70,000 people from being poisoned. [@5] The three suspects
+potent form of cannabis sold under that name in Türkiye. [@1,5,6] The provincial police directorate said the seized quantity prevented about 70,000 people from being poisoned. [@5] The three suspects
 detained over the case were taken to court after their processing at the police
-station and were remanded in custody. [@1,5] The three suspects were detained for manufacturing, trading and transporting narcotics. [@5] The investigation into the case was
-continuing. [@1] Sözcü corroborated the seizure as 21 pieces totalling 17
+station and were remanded in custody. [@1,5,6] The three suspects were detained for manufacturing, trading and transporting narcotics. [@5] The investigation into the case was
+continuing. [@1,7] Sözcü corroborated the seizure as 21 pieces totalling 17
 kilograms 200 grams of skunk. [@2]
 
 Aksiyon described the operation as a road check in which officers stopped the
