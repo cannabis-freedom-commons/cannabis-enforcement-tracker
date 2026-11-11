@@ -2,30 +2,36 @@
 added_at_source: git
 added_at: "2026-11-02T17:41:40.000Z"
 code: 97F43W
-date: 2026-10-23
+date: 2026-10-31
 country: kr
 place: Seoul
 coordinates: [37.5665, 126.978]
 precision: locality
 type: prosecution
 also: [arrest, seizure]
-title: 'Seoul agency''s first case: 2.5 kg cannabis mailed from abroad'
-summary: >-
-  Seoul investigators arrested a Southeast Asian national after tracking 2.5 kg of cannabis hidden in international mail through a controlled delivery. They transferred him in custody to the Incheon prosecution office on 23 October 2026 in the new agency's first detained transfer.
+title: First suspect held by Seoul agency indicted over 2.5 kg of mailed cannabis
+summary: The Incheon District Prosecution Office indicted a Southeast Asian national in late October 2026 for attempting to smuggle 2.5 kg of cannabis hidden in international mail. The indictment marked the first trial referral arising from South Korea's Serious Crime Investigation Agency following a controlled delivery.
 figures:
-  arrested: 1
-  kg_seized: 2.5
+    arrested: 1
+    kg_seized: 2.5
+    charged: 1
 details:
-  activity: [smuggling]
-  agency_types: [customs, anti-narcotics, court]
-  case_stage: investigation
-  date_precision: exact
+    activity: [smuggling]
+    agency_types: [customs, anti-narcotics, prosecutor, court]
+    case_stage: charged
+    date_precision: approximate
+    setting: [mail]
+    charges: [violating the Narcotics Control Act (cannabis)]
 data_sources:
-  details.activity: [2, 4, 3]
-  details.agency_types: [2, 4, 3]
-  details.case_stage: [2, 3, 4, 1]
-  details.date_precision: [2, 4, 3, 1]
-  figures.arrested: [2, 3, 4, 1]
+    details.activity: [5]
+    details.agency_types: [5]
+    details.case_stage: [5]
+    details.date_precision: [2, 4, 3, 1]
+    figures.arrested: [5]
+    details.charges: [5]
+    details.setting: [5]
+    figures.charged: [5]
+    figures.kg_seized: [5]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0f24df953ee4a38d06196dfec2d11a52
@@ -50,26 +56,29 @@ sources:
     publisher: 서울신문
     date: 2026-11-04
     language: ko
+  - title: '''중수청 1호 구속'' 피의자 기소…대마 밀반입 혐의'
+    url: https://www.yna.co.kr/amp/view/AKR20261111083000065
+    publisher: 연합뉴스
+    date: 2026-11-11
+    language: ko
 open_questions:
-  - The exact place and date of the emergency arrest were not disclosed beyond the Seoul office investigation and the 17-18 October warrant sequence; 23 October is the transfer date used as the incident date.
-  - No street value, plant count, or court outcome beyond the custody transfer was reported.
-  - The submitted overview also notes two additional smuggling detentions on 30 October involving cannabis and methamphetamine, a separate mixed event left out here.
-  - 'Left out, as its quotation was not found in 연합뉴스: A was accused of hiding 2.5 kg of cannabis in international mail to bring it into South Korea.'
-  - The submitted article focuses on the E-drug system transfer and gives no further detail on this cannabis transfer beyond the amount, method, nationality and dates already recorded.
+    - The exact place and date of the emergency arrest were not disclosed beyond the Seoul office investigation and the 17-18 October warrant sequence.
+    - The indictment occurred in late October 2026 without an exact day published; 31 October 2026 is used as the incident date.
+    - No trial date or verdict has yet been reported.
 ---
 
 The Seoul Serious Crime Investigation Agency's narcotics bureau transferred a
 Southeast Asian national identified only as A in custody to the Incheon District
 Prosecution Office on 23 October 2026 on suspicion of violating the Narcotics
-Control Act. [@2,4] Investigators made the emergency arrest through controlled
+Control Act. [@2,4] A was accused of attempting to smuggle 2.5 kilograms of cannabis into South Korea from abroad in international mail in early October. [@5] Investigators made the emergency arrest through controlled
 delivery, delivering the customs-intercepted drugs normally to track the actual
-recipient. [@2]
+recipient. [@2,5]
 
 The agency applied for a detention warrant on 17 October because of the scale of
 the smuggling and risk of evidence destruction and flight, the prosecution
 office requested it the next day, and the court issued it the same day for those
-reasons. [@2] The transfer was the agency's first case of handing a detained
-suspect to a prosecution office since its launch. [@3,4]
+reasons. [@2,5] The transfer was the agency's first case of handing a detained
+suspect to a prosecution office since its launch. [@3,4] The Incheon District Prosecution Office indicted A under detention around the end of October 2026 on cannabis charges under the Narcotics Control Act, sending him to trial. [@5]
 
 In its first-month tally, the Seoul office counted three drug cases among four
 total transfers to the prosecution service, including this 23 October cannabis
