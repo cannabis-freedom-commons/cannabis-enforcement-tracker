@@ -35,6 +35,11 @@ media:
     media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2026/11/10/db302db6-22b5-4daf-af50-9e62e7a92b5e_1794307850486.jpg
     publisher: Dainik Bhaskar
     caption: 'Photo of the detained mother and son after the Hasanpur Bagar raid. Photo: Dainik Bhaskar'
+  - kind: photo
+    url: https://www.prabhatkhabar.com/state/bihar/begusarai/begusarai-navkothi-1-2-kg-ganja-mother-son-arrested/amp
+    media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/11/11/1794373633668/sizes/11beg_m_2_11112026_16-ffc66f-hero.webp
+    publisher: Prabhat Khabar
+    caption: 'Photo of the arrested mother and son. Photo: Prabhat Khabar Network'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ba7d3458def38cacd1959e58c2eb1028
@@ -50,14 +55,16 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-10
     language: hi
-open_questions:
-    - No court appearance, remand or case outcome has been reported following the registration of the NDPS case.
-    - No value, origin or additional accused was published for the seized ganja.
+  - title: बेगूसराय में 1.2 किलो गांजा के साथ मां-बेटे गिरफ्तार, इलेक्ट्रॉनिक मशीन बरामद
+    url: https://www.prabhatkhabar.com/state/bihar/begusarai/begusarai-navkothi-1-2-kg-ganja-mother-son-arrested/amp
+    publisher: Prabhat Khabar
+    date: 2026-11-11
+    language: hi
 ---
 
 Police raided Ward No. 2 of Hasanpur Bagar panchayat in Navkothi police-station
-area of Begusarai on Tuesday. [@1,2] Sub-Inspector Bipin Kumar Ojha led the raid team alongside Magistrate Lovely Kumari and a police dog squad. [@2] The action targeted a mother and her son
+area of Begusarai on Tuesday. [@1,2,3] Sub-Inspector Bipin Kumar Ojha led the raid team alongside Magistrate Lovely Kumari and a police dog squad. [@2] The action targeted a mother and her son
 accused of selling ganja. [@1,2]
 
-Officers seized 1 kg 200 g of ganja, or 1.2 kg, in the raid. [@1,2] The contraband was discovered in a black polythene bag hidden under a tin sheet on the roof of the house. [@2] Police took
-the woman and her son into custody and began questioning them. [@1,2] Officers registered a case under the Narcotic Drugs and Psychotropic Substances Act for further legal proceedings. [@2] Police identified the mother and son as Archana Devi and Gaurav Kumar. [@2]
+Officers seized 1 kg 200 g of ganja, or 1.2 kg, in the raid. [@1,2,3] Officers also seized an electronic machine and about 200 grams of rubber used for packing small packets. [@3] The contraband was discovered in a black polythene bag hidden under a tin sheet on the roof of the house. [@2] Police took
+the woman and her son into custody and began questioning them. [@1,2] Officers registered a case under the Narcotic Drugs and Psychotropic Substances Act for further legal proceedings. [@2] Police identified the mother and son as Archana Devi and Gaurav Kumar. [@2,3]
