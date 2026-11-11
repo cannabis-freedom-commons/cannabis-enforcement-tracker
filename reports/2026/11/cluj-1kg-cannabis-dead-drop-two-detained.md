@@ -72,6 +72,11 @@ sources:
     publisher: Foaia Transilvana
     date: 2026-11-10
     language: ro
+  - title: Prins în flagrant, în Cluj-Napoca, după ce a vândut un kilogram de canabis
+    url: https://someseanul.ro/prins-in-flagrant-in-cluj-napoca-dupa-ce-a-vandut-un-kilogram-de-canabis/
+    publisher: Someșeanul.ro
+    date: 2026-11-11
+    language: ro
 ---
 
 On 10 November 2026, prosecutors of DIICOT's Cluj Territorial Service, Romania's
@@ -79,25 +84,25 @@ Directorate for Investigating Organised Crime and Terrorism, ordered the
 detention of two defendants investigated for risk-drug trafficking. [@1,6] The two
 detained men are aged 25 and 30. [@1,5] Officers of the Cluj-Napoca Organised
 Crime Brigade documented the suspects' alleged criminal activity together with
-DIICOT Cluj prosecutors. [@2]
+DIICOT Cluj prosecutors. [@2,7]
 
 Evidence gathered in the investigation indicated that during 2024 the
 25-year-old defendant repeatedly procured, held and sold cannabis for 18,000 lei
-per kilogram. [@1,6] On 8 November 2026, he allegedly sold about one kilogram of
-cannabis via the 30-year-old co-defendant using the dead-drop method. [@2,6] In a
+per kilogram. [@1,6,7] On 8 November 2026, he allegedly sold about one kilogram of
+cannabis via the 30-year-old co-defendant using the dead-drop method. [@2,6,7] In a
 dead-drop transaction, drugs are left at an agreed location so that seller and
 buyer do not meet directly. [@3] The 30-year-old man was subsequently caught in
-the act while picking up 4,100 euros, the payment for the traded cannabis. [@2,6]
+the act while picking up 4,100 euros, the payment for the traded cannabis. [@2,6,7]
 
 On Tuesday, 10 November, prosecutors petitioned the rights-and-freedoms judge at
 the Cluj Tribunal to place both defendants in preventive arrest for 30 days.
-[@5,6] At the time of the official announcement, the court had not yet ruled on
+[@5,6,7] At the time of the official announcement, the court had not yet ruled on
 the preventive-arrest request and the two men remained in prosecutorial
 detention, which under Romanian law may not exceed 24 hours. [@3] Under Romanian
 law, cannabis is classified as a risk drug, and trafficking in risk drugs
 carries a prison sentence of two to seven years. [@4] Forensic specialists and
 officers of the Special Actions Service within the Cluj County Police
 Inspectorate, together with officers of the Cluj-Napoca Regional Transport
-Police Section, supported the operation. [@2] Both suspects retain all
+Police Section, supported the operation. [@2,7] Both suspects retain all
 procedural rights and the presumption of innocence throughout the criminal
-proceedings. [@2]
+proceedings. [@2,7]
