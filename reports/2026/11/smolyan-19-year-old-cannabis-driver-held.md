@@ -38,6 +38,11 @@ sources:
     publisher: Haskovo.Net
     date: 2026-11-11
     language: bg
+  - title: В Смолян 19-годишен младеж е шофирал след употреба на канабис, задържаха го
+    url: https://www.focus-news.net/novini/regioni/V-Smolyan-19-godishen-mladezh-e-shofiral-sled-upotreba-na-kanabis-zadurzhaha-go-3054783
+    publisher: Focus News
+    date: 2026-11-11
+    language: bg
 open_questions:
   - No cannabis weight or quantity was reported, only a positive roadside test for use, so no kilogram figure is recorded.
   - The reports do not say whether a laboratory blood or urine test was conducted to confirm the roadside test.
@@ -48,12 +53,11 @@ open_questions:
 
 In Smolyan, police officers found a 19-year-old youth behind the wheel of an
 Audi A3 passenger car on Kosta Avramikov Street at about 14:20 on 10 November
-2026. [@1] Officers administered a test for the use of narcotic substances to
+2026. [@1,2] Officers administered a test for the use of narcotic substances to
 the driver during the roadside check. [@1] The test returned a positive result
-for cannabis. [@1]
+for cannabis. [@1,2]
 
-The driver was detained in police custody for up to 24 hours. [@1] Police opened
-fast-track proceedings in the case. [@1]
+The driver was detained in police custody for up to 24 hours. [@1,2] Police opened
+fast-track proceedings in the case. [@1,2]
 
 Police said the Smolyan cannabis-driving case dated from 10 November 2026. [@1]
-
