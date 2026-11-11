@@ -125,8 +125,14 @@ sources:
     publisher: イザ！
     date: 2026-11-11
     language: ja
+  - title: 溝口勇児氏が意味深投稿「救えないわ、まじで」 BreakingDown名物選手が薬物逮捕のなか（東スポWEB）
+    url: https://news.yahoo.co.jp/articles/ab9d00b65b5dbe6556e5c7a200c3e0567211bdc7
+    publisher: Yahoo!ニュース
+    date: 2026-11-11
+    language: ja
+    archived: https://web.archive.org/web/20261111141547id_/https://news.yahoo.co.jp/articles/ab9d00b65b5dbe6556e5c7a200c3e0567211bdc7
 open_questions:
-  - This MBS account describes the December transfer as cannabis itself, while other accounts already cited describe it as an item presented as cannabis.
+    - Some accounts describe the December transfer as cannabis itself, while others describe it as an item presented as cannabis.
 ---
 
 Osaka prefectural police arrested Daisuke Yamamoto, a 37-year-old man of no
@@ -135,10 +141,10 @@ beautician from the same ward, on suspicion of violating the Narcotics Special
 Provisions Law and related offences. [@1,2,3,4,5,7,8,10,11,12,13,14,16,17] The arrests, over the alleged purchase
 and sale of goods presented as cannabis, were announced by 11 November 2026.
 [@1,2,3,11,12,13] Police did not disclose whether the two men admitted the allegations. [@5,17] According to the police, Yamamoto had previously competed in BreakingDown,
-a mixed-rules combat sports event popular primarily among young people. [@1,2,3,6,11,12,13,15]
+a mixed-rules combat sports event popular primarily among young people. [@1,2,3,6,11,12,13,15,19]
 
 Investigators alleged that in December 2025, Yamamoto received an item as
-cannabis from Sakaguchi for 10,000 yen in the city of Osaka. [@1,2,3,4,5,9,12,13,15,16,17,18] The alleged handover occurred on 25 December 2025 at just after noon in Ikuno Ward. [@5] Sakaguchi is
+cannabis from Sakaguchi for 10,000 yen in the city of Osaka. [@1,2,3,4,5,9,12,13,15,16,17,18,19] The alleged handover occurred on 25 December 2025 at just after noon in Ikuno Ward. [@5] Sakaguchi is
 suspected of transferring the item in that transaction and engaging in related
 illicit dealings. [@1,2,3,11,12,13,18]
 
