@@ -74,6 +74,16 @@ sources:
     publisher: جريدة الدستور
     date: 2026-11-10
     language: ar
+  - title: حبس تاجر حشيش ضُبط بحوزته كمية كبيرة من المخدرات بالبدرشين 4 أيام
+    url: https://a5r5br.net/egypt/local-news/8466920-%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%AA%D8%AD%D9%82%D9%82-%D9%85%D8%B9-%D8%AA%D8%A7%D8%AC%D8%B1-%D8%AD%D8%B4%D9%8A%D8%B4-%D8%B6%D8%A8%D8%B7-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87-%D9%83%D9%85%D9%8A%D8%A9-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D8%A8%D8%AF%D8%B1%D8%B4%D9%8A%D9%86
+    publisher: آخر خبر
+    date: 2026-11-10
+    language: ar
+  - title: تفاصيل اعترافات ديلر الحشيش بعد سقوطه في كمين بالبدرشين
+    url: https://www.youm7.com/story/2026/11/11/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D9%81%D8%A7%D8%AA-%D8%AF%D9%8A%D9%84%D8%B1-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D8%A8%D8%B9%D8%AF-%D8%B3%D9%82%D9%88%D8%B7%D9%87-%D9%81%D9%8A-%D9%83%D9%85%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%A8%D8%AF%D8%B1%D8%B4%D9%8A%D9%86/7612726
+    publisher: اليوم السابع
+    date: 2026-11-11
+    language: ar
 open_questions:
     - The reports state that a large quantity of hashish and 59 pieces were seized, but do not state an exact measured weight.
     - The suspect's name was not released by authorities or news outlets.
@@ -81,12 +91,12 @@ open_questions:
 
 Detectives of the Giza Security Directorate arrested a suspected hashish dealer
 in Badrashin, south of Giza, before he could distribute the drug to his
-customers. [@1,2,3,4,6,7,8] Police at Badrashin police station received information that an
+customers. [@1,2,3,4,6,7,8,9] Police at Badrashin police station received information that an
 unemployed man was trafficking narcotics in the station's area. [@1,3,4,6,8] After
 verifying the information and locating him, officers detained the suspect under
 legal procedures. [@1,4,5,8]
 
 He was found with a large quantity of hashish prepared for sale, cash described
-as proceeds of sale, and a mobile phone used to contact customers. [@1,2,3,4,5,7,8] The operation seized 59 pieces (farsh) of hashish, which became exhibits at the disposal of the investigation authorities. [@6] Police
+as proceeds of sale, and a mobile phone used to contact customers. [@1,2,3,4,5,7,8,9] The operation seized 59 pieces (farsh) of hashish, which became exhibits at the disposal of the investigation authorities. [@6] During questioning by detectives, the suspect confessed that he purchased bulk quantities of hashish from a supplier, cut them into small pieces and prepared them for distribution in Badrashin and surrounding areas. [@10] Police
 filed a report on the arrest and referred the case to the competent prosecution,
-which began its investigation. [@1,2,4,6,8] The prosecution ordered the seized items to be examined to determine their nature, kept the hashish, cash and phone in custody, and is continuing investigations to establish the circumstances and the source of the drugs. [@3,4,7,8] The Giza Public Prosecution ordered the suspect detained for four days pending investigation and requested a technical report to determine the nature and weight of the seized hashish. [@8]
+which began its investigation. [@1,2,4,6,8] The prosecution ordered the seized items to be examined to determine their nature, kept the hashish, cash and phone in custody, and is continuing investigations to establish the circumstances and the source of the drugs. [@3,4,7,8,9] The Giza Public Prosecution ordered the suspect detained for four days pending investigation and requested a technical report to determine the nature and weight of the seized hashish. [@8,9]
