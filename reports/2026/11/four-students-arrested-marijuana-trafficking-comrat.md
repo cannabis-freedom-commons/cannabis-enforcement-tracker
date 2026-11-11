@@ -56,21 +56,31 @@ sources:
     publisher: Ziarul de Gardă
     date: 2026-11-11
     language: ro
+  - title: 'Ar fi vândut marijuana colegilor de facultate: Patru studenți din Chișinău, arestați; Riscă până la 17 ani de închisoare'
+    url: https://www.jurnal.md/ro/news/8045acbd2c3678bf/ar-fi-vandut-marijuana-colegilor-de-facultate-patru-studenti-din-chisinau-arestati-risca-pana-la-17-ani-de-inchisoare.html
+    publisher: Jurnal.md
+    date: 2026-11-11
+    language: ro
+  - title: O rețea de trafic de droguri, organizată de patru studenți, destructurată în Moldova
+    url: https://point.md/ro/noutati/obschestvo/v-moldove-raskryli-set-narkotorgovli-organizovannuiu-chetyr-mia-studentami/
+    publisher: Point.md
+    date: 2026-11-11
+    language: ro
 ---
 
 Four young people, students in Chisinau and originally from southern Moldova,
 were detained in a drug-trafficking case after allegedly selling marijuana to
-fellow students and close acquaintances. [@1,4,5] The suspects were three young men
-and one young woman aged 19 to 22. [@2,5] The four suspects were placed in
-preventive arrest for 30 days. [@1,5]
+fellow students and close acquaintances. [@1,4,5,6] The suspects were three young men
+and one young woman aged 19 to 22. [@2,5,6] The four suspects were placed in
+preventive arrest for 30 days. [@1,5,7]
 
 Police say officers of the Anti-Drug Directorate and criminal investigators of
 the National Investigation Inspectorate documented the group's activity over two
-months, together with PCCOCS prosecutors. [@1] Investigators allege the youths
+months, together with PCCOCS prosecutors. [@1,6] Investigators allege the youths
 bought the drugs wholesale in their home locality and then distributed them
 individually to a restricted circle of users. [@1,4,5] Two suspects, a 19-year-old
 man and a 21-year-old woman, were detained in Comrat while allegedly trying to
-sell drugs. [@1,4,5] Body searches of the two found packets containing marijuana.
+sell drugs. [@1,4,5,6] Body searches of the two found packets containing marijuana.
 [@1,5] At a third suspect's home in Comrat officers seized mobile phones allegedly
 used in the criminal activity, a high-precision scale and marijuana. [@1,5] A
 fourth suspect, described as the group's alleged supplier, was detained in a
@@ -80,5 +90,5 @@ officers of the Fulger special-purpose police brigade. [@1,5]
 
 At the prosecutor's request, a court issued 30-day preventive-arrest warrants
 for all four suspects. [@2,4] If found guilty, they face prison sentences of 15 to
-17 years. [@1,4,5] Noi.md confirms officers documented the criminal activity of the
+17 years. [@1,4,5,6] Noi.md confirms officers documented the criminal activity of the
 three young men and one young woman over two months. [@3]
