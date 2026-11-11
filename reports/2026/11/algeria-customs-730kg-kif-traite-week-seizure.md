@@ -42,22 +42,27 @@ sources:
     publisher: الجزائر الآن
     date: 2026-11-11
     language: ar
+  - title: Saisie de quantités importantes de drogues durant la première semaine du mois de novembre
+    url: https://www.aps.dz/fr/algerie/actualite-nationale/mwc7m6ge-saisie-de-quantites-importantes-de-drogues-durant-la-premiere-semaine-du-mois-de-novembre
+    publisher: Algérie Presse Service
+    date: 2026-11-11
+    language: fr
 ---
 
 Algerian Customs brigades pursued their mobilisation against narcotics and
 psychotropic trafficking networks in operations conducted from 1 to 7 November
-2026. [@1,2] The operations were presented as public-health protection missions
+2026. [@1,2,3] The operations were presented as public-health protection missions
 carried out in coordination with various security services. [@1] According to
 the weekly bilan published by the Directorate General of Customs, the
 interventions during that period resulted in the seizure of 730.350 kilograms of
-kif traité. [@1,2]
+kif traité. [@1,2,3]
 
 Customs teams described the quantities as evidence of their field efforts and
-vigilance against attempts to transport and market narcotic products. [@1] The
+vigilance against attempts to transport and market narcotic products. [@1,3] The
 directorate said the results came both from customs brigades acting under their
 own missions and from coordinated interventions with other security forces. [@1]
 Through this operation, Algerian Customs reaffirmed its commitment to
 strengthening the fight against illicit trafficking networks and organised crime
-in order to protect public health and society. [@1] The same weekly bilan also
+in order to protect public health and society. [@1,3] The same weekly bilan also
 listed 6.543 kilograms of cocaine and 407,588 psychotropic tablets, which are
 not counted as cannabis in this report. [@1]
