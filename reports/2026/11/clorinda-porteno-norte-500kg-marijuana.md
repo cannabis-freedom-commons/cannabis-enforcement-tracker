@@ -69,6 +69,11 @@ sources:
     publisher: agenfornoticias
     date: 2026-11-07
     language: es
+  - title: Dos operativos policiales permitieron secuestrar 500 kilos de marihuana y desarticular una banda de roba-camionetas
+    url: https://www.guauformosa.com.ar/noticias/2026/11/10/42566-dos-operativos-policiales-permitieron-secuestrar-500-kilos-de-marihuana-y-desarticular-una-banda-de-roba-camionetas
+    publisher: GuauFormosa
+    date: 2026-11-10
+    language: es
 open_questions:
   - The 500 kilograms is described as approximately 500 kilograms after weighing, not an exact measured figure.
   - No arrest was reported; the police release says the investigation continues to establish who is responsible.
@@ -84,20 +89,20 @@ open_questions:
 
 Officers of Unidad Regional Tres, the Formosa provincial police command based in
 Clorinda, searched a house on Santiago Derqui street in the Porteño Norte
-neighbourhood and seized about 500 kilograms of marijuana. [@1,4]
+neighbourhood and seized about 500 kilograms of marijuana. [@1,4,5]
 
 The case began in the early hours of Friday when neighbours reported a motorised
 cargo cart, a motocarga, speeding through internal streets of the neighbourhood
-and a black bag fell from it. [@1] The bag was taken to a police station and
-found to hold 22 packets of marijuana weighing more than 23 kilograms. [@1] On
+and a black bag fell from it. [@1,5] The bag was taken to a police station and
+found to hold 22 packets of marijuana weighing more than 23 kilograms. [@1,5] On
 the Saturday, shortly after 4 am, neighbours reported suspected gunfire from the
-house under investigation, and the courts ordered a search. [@1]
+house under investigation, and the courts ordered a search. [@1,5] The origin of the detonations heard during the operation was still under investigation. [@5]
 
 The search took place on the Saturday morning in the presence of the duty judge,
 Mariela Portales, and officers found a large number of packages containing plant
-material. [@2] The load was moved to the Unidad Regional Tres headquarters,
+material. [@2,5] The load was moved to the Unidad Regional Tres headquarters,
 where field tests were positive for marijuana and weighing put the total at
-about 500 kilograms. [@2] Police estimated the load was more than 1,400,000
+about 500 kilograms. [@2,5] Police estimated the load was more than 1,400,000
 doses destined for consumers. [@2] Diario Exprés put the value of the drug at
 more than 1,850,000 pesos, without saying whose estimate it is. [@1,4] The federal
 courts were notified of the seizure and officers of the Scientific Police and
@@ -105,5 +110,5 @@ the General Directorate of Dangerous Drugs took part. [@2]
 
 Police said the investigation was continuing to establish where the drug came
 from, identify those responsible and find possible links to other storage and
-distribution points. [@1] None of the three accounts reported an arrest in the
+distribution points. [@1] The investigation involved personnel of Unidad Regional Tres, the Radioelectric Command Brigade and other units, with the intervention of the Federal Police and knowledge of the judiciary. [@5] None of the three accounts reported an arrest in the
 case. [@3]
