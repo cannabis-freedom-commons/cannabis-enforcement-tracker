@@ -60,25 +60,25 @@ sources:
     publisher: Mediamall
     date: 2026-11-11
     language: bg
-open_questions:
-  - The stop is dated to 10 November 2026 because all three sources say it happened 'yesterday' relative to their 11 November 2026 publication; no separate calendar date for the stop is stated.
-  - No charge, court decision or further custody outcome was reported; the case stood at pre-trial proceedings when published.
-  - The same articles also describe a separate Miryantsi case involving an allegedly illegal pistol and cocaine, which is a different event and is left out of this report.
-  - The reports do not say how the cocaine driving-under-the-influence finding was tested beyond the marijuana field test.
+  - title: 25-годишен от Рогош заловен с 2,2 кг марихуана на АМ „Тракия“, шофирал след употреба на кокаин
+    url: https://newspoint.bg/25-godishen-ot-rogosh-zaloven-s-2-2-kg-marihuana-na-am-trakiya-shofiral-sled/
+    publisher: NewsPoint.bg
+    date: 2026-11-11
+    language: bg
 ---
 
 Officers from the anti-criminal-crime sector of the Pazardzhik police
 directorate carried out an operation against the possession and distribution of
-drugs alongside traffic police officers. [@1] On the Trakia motorway near
+drugs alongside traffic police officers. [@1,5] On the Trakia motorway near
 Pazardzhik, officers stopped a Peugeot car driven by a 25-year-old resident of
-the village of Rogosh in Plovdiv Province. [@1] Police established that the
-driver was behind the wheel under the influence of cocaine. [@1,4] He was detained
+the village of Rogosh in Plovdiv Province. [@1,5] Police established that the
+driver was behind the wheel under the influence of cocaine. [@1,4,5] He was detained
 for up to 24 hours in the detention facility of the Pazardzhik police precinct.
-[@1]
+[@1,5]
 
 Inside the car, officers discovered four vacuum-sealed polythene bags containing
-dried leaf material of flower heads and inflorescences. [@1,4] A field drug test
+dried leaf material of flower heads and inflorescences. [@1,4,5] A field drug test
 reacted positively for marijuana, yielding a total seized weight of 2.2
-kilograms. [@2,4] The vehicle and the drugs were seized, and pre-trial proceedings
+kilograms. [@2,4,5] The vehicle and the drugs were seized, and pre-trial proceedings
 were initiated under the supervision of the Pazardzhik District Prosecutor's
-Office. [@3,4]
+Office. [@3,4,5]
