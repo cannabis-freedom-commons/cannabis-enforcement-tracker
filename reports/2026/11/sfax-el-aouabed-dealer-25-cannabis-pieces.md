@@ -40,29 +40,33 @@ sources:
     publisher: Mosaique FM
     date: 2026-11-10
     language: ar
+  - title: 'Sfax : un suspect recherché dans 17 affaires arrêté pour trafic de drogue - Directinfo'
+    url: https://directinfo.webmanagercenter.com/2026/11/10/sfax-un-suspect-recherche-dans-17-affaires-arrete-pour-trafic-de-drogue/
+    publisher: Directinfo
+    date: 2026-11-10
+    language: fr
 open_questions:
-  - No weight was published for the 25 pieces of cannabis, and the account did not specify whether the cannabis was resin or herbal material, so no kilogram figure is recorded.
-  - No amount was published for the seized sum of money, and no street value was estimated.
-  - No separate date was given for the raid; 10 November 2026 is the publication date and is used as the incident date.
-  - The suspect's name, age, and nationality were not reported, and no criminal charges or court outcome beyond the arrest were disclosed.
-  - The exact location and nature of the raided premises within El Aouabed, as well as the administrative delegation in Sfax Governorate, were not specified.
-  - The account rests on a single report citing an unnamed security source, with no official interior ministry statement or second outlet confirmation found.
+    - No weight was published for the 25 pieces of cannabis, and the account did not specify whether the cannabis was resin or herbal material, so no kilogram figure is recorded.
+    - No amount was published for the seized sum of money, and no street value was estimated.
+    - No separate date was given for the raid; 10 November 2026 is the publication date and is used as the incident date.
+    - The suspect's name, age, and nationality were not reported, and no criminal charges or court outcome beyond the arrest were disclosed.
+    - The exact location and nature of the raided premises within El Aouabed, as well as the administrative delegation in Sfax Governorate, were not specified.
+    - The account still rests on a single security-source account first reported by Mosaique FM and republished by Directinfo, with no official interior ministry statement found.
 ---
 
 Officers of the Regional Anti-Narcotics Brigade in Sfax arrested a drug dealer
 who had been classified as dangerous during a security raid in El Aouabed, in
 Sfax. [@1] The suspect was the subject of 17 search notices at the time officers
-detained him. [@1] The arrest took place after officers raided a premises in the
+detained him. [@1,2] The arrest took place after officers raided a premises in the
 El Aouabed area that was suspected of being used to distribute narcotic
-substances. [@1]
+substances. [@1,2]
 
 A security source told Mosaique FM that the operation resulted in the seizure of
-25 pieces of cannabis. [@1] Alongside the cannabis, the brigade also confiscated
-a sharp instrument, three motorcycles and a sum of money during the raid. [@1]
+25 pieces of cannabis. [@1,2] Alongside the cannabis, the brigade also confiscated
+a sharp instrument, three motorcycles and a sum of money during the raid. [@1,2]
 
 The raid in El Aouabed formed part of a continuing series of security raids
 carried out by the El Gorjani Anti-Narcotics Sub-Directorate across different
 governorates of the republic. [@1] These continuing security operations are
 aimed at targeting drug-distribution networks and pursuing individuals who are
 active in that field. [@1]
-
