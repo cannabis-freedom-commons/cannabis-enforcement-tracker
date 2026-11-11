@@ -49,6 +49,11 @@ sources:
     publisher: Haskovo.Net
     date: 2026-11-10
     language: bg
+  - title: Мъж е задържан за притежание на наркотични вещества в Пампорово,
+    url: https://novini247.com/novini/maj-e-zadarjan-za-pritejanie-na-narkotichni-veshtestva-v-pamporovo_11382633.html
+    publisher: Новини 24/7
+    date: 2026-11-10
+    language: bg
 open_questions:
   - No weight was published for the hand-rolled cigarette; the 9.07-gram figure covers only the two seized packs.
   - No court outcome was reported; the fast-track proceedings had only just been opened.
@@ -56,14 +61,14 @@ open_questions:
 ---
 
 On 9 November 2026, police officers checked a 37-year-old man from the town of
-Pleven in the Pamporovo resort complex. [@1,3] The Smolyan Regional Directorate of
+Pleven in the Pamporovo resort complex. [@1,3,4] The Smolyan Regional Directorate of
 the Ministry of Interior reported the man as detained for possession of narcotic
-substances. [@1]
+substances. [@1,4]
 
 Officers found a hand-rolled cigarette on him containing dry plant material that
-reacted to cannabis in a field drug test. [@1,3] Follow-up actions found and
+reacted to cannabis in a field drug test. [@1,3,4] Follow-up actions found and
 seized two more packs of dry plant material with a total weight of 9.07 grams,
-which also reacted to cannabis. [@2,3]
+which also reacted to cannabis. [@2,3,4]
 
-The man was detained for up to 24 hours. [@1,3] Fast-track proceedings were opened
-in the case. [@2,3]
+The man was detained for up to 24 hours. [@1,3,4] Fast-track proceedings were opened
+in the case. [@2,3,4]
