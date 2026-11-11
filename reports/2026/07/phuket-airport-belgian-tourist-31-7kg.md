@@ -52,6 +52,11 @@ sources:
     url: https://www.thephuketnews.com/belgian-woman-arrested-at-phuket-airport-with-31kg-of-cannabis-100862.php
     publisher: The Phuket News
     date: 2026-07-08
+  - title: 'Une Belge arrêtée à l''aéroport de Phuket en possession de 31 kg de cannabis: elle rejoint 505 autres Belges incarcérés à l''étranger, un record'
+    url: https://www.dhnet.be/actu/belgique/2026/07/10/une-belge-arretee-a-laeroport-de-phuket-en-possession-de-31-kg-de-cannabis-elle-rejoint-505-autres-belges-incarceres-a-letranger-un-record-6DJUSQ7ZFNDWFHOD436ON4V66Q/
+    publisher: DHnet
+    date: 2026-07-10
+    language: fr
 open_questions:
   - No court outcome beyond the reported charges and handover to Sakhu investigators was published in the opened sources.
   - No separate cannabis-only value was published in the opened sources; only a possible fine of up to four times the seized goods' value was mentioned.
@@ -59,11 +64,11 @@ open_questions:
 ---
 
 On 7 July, 21-year-old Belgian tourist Salma E.K. went to Phuket airport to
-board a flight to Paris. [@1] She was arrested at Phuket airport during a check
+board a flight to Paris. [@1,4] She was arrested at Phuket airport during a check
 as she returned from holiday. [@1] Customs officers checked her two suitcases
-after flagging them as suspicious. [@1] She admitted that both suitcases and
-everything inside them belonged to her. [@1] Officers handcuffed her and handed
-her to Sakhu police with the seizure. [@1]
+after flagging them as suspicious. [@1,4] She admitted that both suitcases and
+everything inside them belonged to her. [@1,4] Officers handcuffed her and handed
+her to Sakhu police with the seizure. [@1,4]
 
 Officers at the international departures terminal identified one green-and-white
 suitcase and one black suitcase during baggage screening. [@2] A search found 12
@@ -76,7 +81,6 @@ She was charged with attempting to export goods without customs clearance under
 the Customs Act 2017 and with offences under Thailand's narcotics,
 traditional-medicine and controlled-herb cannabis laws. [@2] She faces up to 10
 years in prison for attempted drug trafficking and a possible fine of up to four
-times the value of the seized goods. [@1] Sakhu police said the arrest came from
+times the value of the seized goods. [@1,4] Sakhu police said the arrest came from
 coordinated customs and security screening to block cannabis exports and warned
 that smuggling would be strictly prosecuted. [@2]
-
