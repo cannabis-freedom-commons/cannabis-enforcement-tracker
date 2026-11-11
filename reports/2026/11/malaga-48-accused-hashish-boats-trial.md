@@ -80,6 +80,10 @@ sources:
     publisher: ENTV News
     date: 2026-11-09
     language: ar
+  - title: 48 individuals face trial over Moroccan cannabis smuggling
+    url: https://www.aps.dz/en/world/world/mw9snywq-48-individuals-face-trial-over-moroccan-cannabis-smuggling
+    publisher: Algérie Presse Service (APS)
+    date: 2026-11-09
 open_questions:
     - No hashish weight, value or number of seized packages is published for this case, so no cannabis kilogram figure is recorded.
     - The sources give no dates for the investigation, the arrests or the seizures, only the trial's scheduled start on 9 November 2026.
@@ -92,9 +96,9 @@ open_questions:
 
 Málaga's provincial court, the Audiencia Provincial, was due to begin a trial on
 Monday 9 November 2026 against 48 people accused of belonging to a network that
-brought hashish into Spain from Morocco. [@1,4,5,6,7] The prosecution's case is that the
+brought hashish into Spain from Morocco. [@1,4,5,6,7,8] The prosecution's case is that the
 ring used four pleasure boats, some registered to straw men, five banned
-high-speed semi-rigid speedboats and cars with hidden compartments. [@1,5,7]
+high-speed semi-rigid speedboats and cars with hidden compartments. [@1,5,7,8]
 Prosecutors say two men led the organisation, one of whom has been declared a
 fugitive in this case, with two middle-ranking members handling logistics. [@1,6]
 Two of the accused were dedicated almost exclusively to fitting vehicles with
