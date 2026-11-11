@@ -67,39 +67,42 @@ sources:
     publisher: iparnassos
     date: 2026-11-09
     language: el
+  - title: 12 συλλήψεις στη Στερεά Ελλάδα για ναρκωτικά - Κατασχέθηκε κοκαΐνη και κάνναβη
+    url: https://www.radiothiva.gr/content/44295/12-syllipseis-sti-sterea-ellada-gia-narkotika-katasxethike-koka%CE%90ni-kai-kannabi-
+    publisher: Radio Thiva
+    date: 2026-11-10
+    language: el
 open_questions:
-  - No date is given for the three-day period; 9 November 2026 is the publication date and stands in for the incident date.
-  - No weight or amount was published for the raw cannabis or the cocaine, so no cannabis weight is recorded.
-  - No names, ages or charges beyond drug-law offences and no court steps were reported; the people arrested are counted only as arrested, not charged.
-  - The twelve arrests came in eleven separate cases and no breakdown shows which case involved cannabis, so the cannabis seizures cannot be attributed to particular arrests among the twelve.
-  - The press accounts reproduce statements from the Hellenic Police and the General Regional Police Directorate of Central Greece and are not independent reporting.
-  - A separate April 2026 Central Greece police roundup also reported twelve drug arrests and the same county-level structure, so a later police statement may correct or repeat part of this account.
-  - 12 συλλήψεις για ναρκωτικά και 28 παραβάσεις για μη χρήση κράνους στη Στερεά Ελλάδα (Asopichos.gr) could not be opened again to check its quotations (the browser could not load the submitted public page; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.
-  - The iparnassos.gr and LamiaNow.gr texts both reproduce the same Central Greece police statement as the outlets already cited, so they are not independent reporting of the arrests.
+    - No date is given for the three-day period; 9 November 2026 is the publication date and stands in for the incident date.
+    - No weight or amount was published for the raw cannabis or the cocaine, so no cannabis weight is recorded.
+    - No names, ages or charges beyond drug-law offences and no court steps were reported; the people arrested are counted only as arrested, not charged.
+    - The twelve arrests came in eleven separate cases and no breakdown shows which case involved cannabis, so the cannabis seizures cannot be attributed to particular arrests among the twelve.
+    - The press accounts reproduce statements from the Hellenic Police and the General Regional Police Directorate of Central Greece and are not independent reporting.
+    - A separate April 2026 Central Greece police roundup also reported twelve drug arrests and the same county-level structure, so a later police statement may correct or repeat part of this account.
 ---
 
 Greek police arrested twelve people over the last three days in the Central
-Greece region during systematic anti-drug checks. [@1] According to the Hellenic
+Greece region during systematic anti-drug checks. [@1,6] According to the Hellenic
 Police, nine of those arrested were Greek nationals and three were foreign
-nationals. [@1,5] The twelve arrests came in eleven separate cases. [@1]
+nationals. [@1,5,6] The twelve arrests came in eleven separate cases. [@1,6]
 
 Four of the arrests were in Boeotia, made by officers of the B1 OPKE of the
 Thebes crime investigation and detection department, the unit Hellenic Police
-calls its crime prevention and suppression team. [@2] The other arrests were
+calls its crime prevention and suppression team. [@2,6] The other arrests were
 four in Fthiotida, two in Fokida and two on Evia. [@4] The Fthiotida arrests
 were made by the Lamia drugs squad, which made three, and by the OPKE of the
-Lamia crime investigation subdirectorate, which made one. [@3] In Fokida the two
+Lamia crime investigation subdirectorate, which made one. [@3,6] In Fokida the two
 arrests were made by officers of the A OPKE of the Amfissa-Delphi crime unit,
 the Fokida mobile police unit and the B OEPTA of the Amfissa-Delphi traffic
-police. [@3] On Evia the two arrests were made by the DIAS rapid-response unit
-and the OP.DI. prevention and mediation group of Chalkida. [@3]
+police. [@3,6] On Evia the two arrests were made by the DIAS rapid-response unit
+and the OP.DI. prevention and mediation group of Chalkida. [@3,6]
 
 During the checks police seized quantities of cocaine and raw cannabis, four
-cannabis grinders and two precision scales. [@1] The arrests were made by
+cannabis grinders and two precision scales. [@1,6] The arrests were made by
 various police services of Central Greece as part of daily prevention and
-enforcement work against drug-related offending. [@1] The General Regional
+enforcement work against drug-related offending. [@1,6] The General Regional
 Police Directorate of Central Greece said the checks would continue, with
-emphasis on protecting the public and young people. [@1] Asopichos.gr reported
+emphasis on protecting the public and young people. [@1,6] Asopichos.gr reported
 that the cocaine and cannabis were seized in the eleven separate cases. [@3]
 
 The Fokida arrests were made by officers of the A OPKE of the Amfissa-Delphi crime unit, the Fokida mobile police unit and the B OEPTA of the Amfissa-Delphi traffic police. [@5] The twelve arrests came in eleven separate cases, and the LamiaNow.gr account says the Fokida pair were found by the mobile police unit working with the traffic police. [@2]
