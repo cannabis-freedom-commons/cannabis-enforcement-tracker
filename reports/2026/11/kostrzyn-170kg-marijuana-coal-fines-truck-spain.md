@@ -138,31 +138,36 @@ sources:
     publisher: wPoznaniu.pl
     date: 2026-11-11
     language: pl
+  - title: 'Kostrzyn pod Poznaniem: 170 kg marihuany pod węglem'
+    url: https://trybunapolska.pl/kraj/kostrzyn-pod-poznaniem-170-kg-marihuany-pod-weglem
+    publisher: Trybuna Polska
+    date: 2026-11-11
+    language: pl
 open_questions:
-  - RMF24 described the stop as a routine inspection, whereas InfoKostrzyn.pl reported that officers stopped the truck in the evening after receiving information that it might be carrying drugs.
-  - Only the Polish driver's 5,000-zloty SENT fine was reported; no arrests, suspects or criminal charges over the marijuana have been announced.
-  - The seized amount is given only as more than 170 kilograms across 170 packages, with no exact measured weight published.
-  - The exact road or stop location near Kostrzyn and the origin and destination points in Spain and Poland were not disclosed.
-  - 'Left out, as its quotation was not found in wPoznaniu.pl: The drug was hidden beneath a layer of coal fines in a truck carrying cargo from Spain to Poland.'
-  - 'Left out, as its quotation was not found in wPoznaniu.pl: The stop took place on 23 October 2026.'
+    - RMF24 described the stop as a routine inspection, whereas InfoKostrzyn.pl reported that officers stopped the truck in the evening after receiving information that it might be carrying drugs, and Trybuna Polska said the transport had been flagged through risk analysis.
+    - Only the Polish driver's 5,000-zloty SENT fine was reported; no arrests, suspects or criminal charges over the marijuana have been announced.
+    - The seized amount is given only as more than 170 kilograms across 170 packages, with no exact measured weight published.
+    - The exact road or stop location near Kostrzyn and the origin and destination points in Spain and Poland were not disclosed.
+    - 'Left out, as its quotation was not found in wPoznaniu.pl: The drug was hidden beneath a layer of coal fines in a truck carrying cargo from Spain to Poland.'
+    - 'Left out, as its quotation was not found in wPoznaniu.pl: The stop took place on 23 October 2026.'
 ---
 
 Officers of the National Revenue Administration and the Central Bureau of
 Investigation of the Police seized more than 170 kilograms of marijuana near
-Kostrzyn by Poznań. [@1,3,5,6,7,8] The drug was hidden beneath a layer of coal fines in a
-truck carrying cargo from Spain to Poland. [@1,3,4,6,7]
+Kostrzyn by Poznań. [@1,3,5,6,7,8,9] The inspection was carried out by officers of the Central Bureau of Investigation from Kraków and the Małopolska Customs and Tax Office. [@9] The drug was hidden beneath a layer of coal fines in a
+truck carrying cargo from Spain to Poland. [@1,3,4,6,7,9]
 
 Officers stopped the truck for a routine inspection and found that the coal
 fines shipment had not been entered in the SENT register, which is mandatory for
-such cargo. [@2,3,5] The stop took place on 23 October 2026. [@4,6,7] In a detailed check of the load they found suspicious big-bag
+such cargo. [@2,3,5,9] The stop took place on 23 October 2026. [@4,6,7,9] The services had identified the transport through risk analysis before directing the truck for inspection. [@9] In a detailed check of the load they found suspicious big-bag
 sacks holding 170 hermetically sealed packages of greenish-brown plant material
-under the coal fines. [@2,3,7,8] Preliminary tests confirmed that the seized material
-was marijuana. [@2,3,4,5,6,7,8]
+under the coal fines. [@2,3,7,8,9] Preliminary tests confirmed that the seized material
+was marijuana. [@2,3,4,5,6,7,8,9]
 
 Krzysztof Wrześniowski, spokesperson for the Central Bureau of Investigation of
 the Police, said the way the packages were hidden was meant to make them hard to
 detect and required a thorough inspection of the cargo. [@2,3,6] The services
 estimated the black-market value of the marijuana at more than 3 million zlotys.
-[@2,3,4,5,6,7,8] The truck driver, a Polish citizen, was fined 5,000 zlotys for transporting
-goods without a SENT reference number. [@2,3,5,6] Further work in the case is being
-carried out by the Central Bureau of Investigation of the Police. [@2,3,5,6]
+[@2,3,4,5,6,7,8,9] The truck driver, a Polish citizen, was fined 5,000 zlotys for transporting
+goods without a SENT reference number. [@2,3,5,6,9] Further work in the case is being
+carried out by the Central Bureau of Investigation of the Police. [@2,3,5,6,9]
