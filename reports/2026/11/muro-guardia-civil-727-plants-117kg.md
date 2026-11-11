@@ -78,21 +78,26 @@ sources:
     publisher: Diario de Mallorca
     date: 2026-11-11
     language: es
+  - title: Desmantelan en Muro una gran plantación de marihuana y peyote
+    url: https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/11/desmantelan-muro-gran-plantacion-marihuana-136318586.html
+    publisher: Diario de Mallorca
+    date: 2026-11-11
+    language: es
 ---
 
 The Guardia Civil searched a house and its adjoining plot in Muro, Mallorca, on
-9 November 2026, dismantling a cannabis plantation. [@1] Officers from the Santa
+9 November 2026, dismantling a cannabis plantation. [@1,5] Officers from the Santa
 Margalida investigation unit conducted the raid with support from the USECIC and
-Citizen Security patrols from Inca and Santa Margalida. [@1] The Guardia Civil released video material of the operation. [@4] A 28-year-old
-Spanish man was arrested at the scene on suspicion of drug trafficking. [@2,3]
+Citizen Security patrols from Inca and Santa Margalida. [@1,5] The Guardia Civil released video material of the operation. [@4] A 28-year-old
+Spanish man was arrested at the scene on suspicion of drug trafficking. [@2,3,5]
 
 Officers seized 727 cannabis plants of various sizes, ranging from small
-seedlings to mature specimens. [@1,3] Investigators also found 117 kilograms of
-dried cannabis buds prepared and vacuum-packed for distribution. [@1,3] The search
+seedlings to mature specimens. [@1,3,5] Investigators also found 117 kilograms of
+dried cannabis buds prepared and vacuum-packed for distribution. [@1,3,5] The search
 also uncovered 24 peyote cacti alongside cultivation products and equipment.
-[@1,3]
+[@1,3,5]
 
 Following his arrest, the man was placed at the disposal of the judicial
-authority in Inca. [@1,3] Before the judge, the man acknowledged the cannabis was
+authority in Inca. [@1,3,5] Before the judge, the man acknowledged the cannabis was
 his but stated he had not distributed any of it and that it was his first
 harvest, after which he was released. [@2]
