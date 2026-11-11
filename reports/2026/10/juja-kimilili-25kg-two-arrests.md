@@ -37,6 +37,17 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: "https://thedailywhistle.co.ke/latest-news/police-seize-over-25kg-of-bhang-in-juja-and-kimilili-arrest-two-suspects"
+    media_url: "https://thedailywhistle.co.ke/uploads/articles/2026/10/08f1ab608a2a4b9e08c7f5eeab7ffa13.webp"
+    publisher: "The Daily Whistle"
+    caption: "Police display a suspect and cannabis recovered in the Juja and Kimilili operations. Photo: DCI."
+  - kind: photo
+    url: "https://thedailywhistle.co.ke/latest-news/police-seize-over-25kg-of-bhang-in-juja-and-kimilili-arrest-two-suspects"
+    media_url: "https://thedailywhistle.co.ke/uploads/articles/2026/10/b82a8cf11b1b1b9039432c89fdaca12f.webp"
+    publisher: "The Daily Whistle"
+    caption: "A suspect, vehicle and cannabis from the Juja and Kimilili operations. Photo: DCI."
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [juja, kimilili, nps, trafficking]

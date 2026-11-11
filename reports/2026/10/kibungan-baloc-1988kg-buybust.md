@@ -36,6 +36,12 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: "https://www.thelostories.com/post/19-88-kilos-of-marijuana-worth-2-38-million-seized-in-benguet"
+    media_url: "https://static.wixstatic.com/media/aac64c_cd4e01068e7c4d469fd912ec90519aea~mv2.jpg/v1/fill/w_2000,h_1004,al_c,q_90,usm_0.66_1.00_0.01/aac64c_cd4e01068e7c4d469fd912ec90519aea~mv2.jpg"
+    publisher: "The LOStories"
+    caption: "A PDEA-Cordillera image of the Kibungan buy-bust and the seized packages."
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [kibungan, benguet, pdea, buy-bust]

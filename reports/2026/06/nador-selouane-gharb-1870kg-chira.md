@@ -31,6 +31,17 @@ data_sources:
   details.date_precision: [1]
   details.products: [1]
   figures.arrested: [1]
+media:
+  - kind: photo
+    url: "https://fr.le360.ma/societe/trafic-de-drogue-saisie-d18-tonne-de-chira-a-nador-et-souk-el-arbaa-du-gharb_WT22FGQ2XJDQ3B5BA7F2Q7J3IU/"
+    media_url: "https://fr.le360.ma/resizer/v2/JYGY6LOTXBETXDGU3R65RFV5UA.jpeg?auth=4b67785dd39fa4c20e85fc5e6fc2d41f9b1746f514ea608cfe34aaf3028af22b&smart=true&width=1200&height=630"
+    publisher: "Le360"
+    caption: "Packages displayed by police after the Nador and Gharb operations."
+  - kind: photo
+    url: "https://fr.le360.ma/societe/trafic-de-drogue-saisie-d18-tonne-de-chira-a-nador-et-souk-el-arbaa-du-gharb_WT22FGQ2XJDQ3B5BA7F2Q7J3IU/"
+    media_url: "https://cloudfront-eu-central-1.images.arcpublishing.com/le360/KZK6PEOIIVDIJO2BMKDRL2BLDM.jpeg"
+    publisher: "Le360"
+    caption: "Another portion of the packages seized in the police operations."
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [nador, gharb, chira, trafficking]
@@ -39,6 +50,7 @@ open_questions:
 sources:
   - title: 'Trafic de drogue: saisie d’1,8 tonne de chira à Nador et Souk El Arbaa du Gharb'
     url: https://fr.le360.ma/societe/trafic-de-drogue-saisie-d18-tonne-de-chira-a-nador-et-souk-el-arbaa-du-gharb_WT22FGQ2XJDQ3B5BA7F2Q7J3IU/
+    archived: https://web.archive.org/web/20260723042136/https://fr.le360.ma/societe/trafic-de-drogue-saisie-d18-tonne-de-chira-a-nador-et-souk-el-arbaa-du-gharb_WT22FGQ2XJDQ3B5BA7F2Q7J3IU/
     publisher: Le360
     date: 2026-06-11
     language: fr

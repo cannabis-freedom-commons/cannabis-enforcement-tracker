@@ -18,12 +18,19 @@ details:
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+media:
+  - kind: photo
+    url: "https://gulfnews.com/uae/crime/uae-foils-drug-trafficking-plot-arrests-23-suspects-1.500576534"
+    media_url: "https://media.assettype.com/gulfnews%2F2026-06-16%2Fv0hqudtp%2Fjy904nmu1ka1kpspn-1.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+    publisher: "Gulf News"
+    caption: "Suspects and seized substances displayed in the UAE operation. Photo: WAM."
 status: verified
 cfi_id: uae-marijuana-hash-oil-raid-2026
 sources:
   - title: UAE foils drug trafficking plot, arrests 23 suspects (16 June 2026)
     publisher: Gulf News
     url: https://gulfnews.com/uae/crime/uae-foils-drug-trafficking-plot-arrests-23-suspects-1.500576534
+    archived: https://web.archive.org/web/20261027184038/https://gulfnews.com/uae/crime/uae-foils-drug-trafficking-plot-arrests-23-suspects-1.500576534
     locator: >-
       Operation announcement; 23 arrests; marijuana, hash oil and synthetic cannabinoid papers; no
       weights published

@@ -31,6 +31,12 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: "https://www.indiatodayne.in/assam/story/48-kg-of-cannabis-seized-from-auto-rickshaw-near-lanka-railway-station-in-assams-hojai-1468877-2026-10-29"
+    media_url: "https://cf-img-a-in.tosshub.com/lingo/itne/images/story/202610/6ae2e64355849-ujkuk-292258317-16x9.png"
+    publisher: "India Today NE"
+    caption: "Officials and the person named in the Lanka station seizure."
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 417522a8e5073a3b7c45ca32d0ce00ed
@@ -38,6 +44,7 @@ tags: [assam, hojai, ganja, auto-rickshaw, ndps]
 sources:
   - title: 4.8 kg of cannabis seized from auto-rickshaw near Lanka Railway Station in Assam’s Hojai
     url: https://www.indiatodayne.in/assam/story/48-kg-of-cannabis-seized-from-auto-rickshaw-near-lanka-railway-station-in-assams-hojai-1468877-2026-10-29
+    archived: https://web.archive.org/web/20261030180937/https://www.indiatodayne.in/assam/story/48-kg-of-cannabis-seized-from-auto-rickshaw-near-lanka-railway-station-in-assams-hojai-1468877-2026-10-29
     publisher: India Today NE
     date: 2026-10-29
 open_questions:

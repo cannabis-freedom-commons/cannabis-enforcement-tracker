@@ -123,6 +123,11 @@ sources:
     publisher: memorandum.co.id
     date: 2026-11-05
     language: id
+  - title: "BNN: Narkoba 3,37 Ton Diduga Akan Diolah Jadi Cairan Vape"
+    url: https://rri.co.id/hukum/hukum/2542712/bnn-narkoba-337-ton-diduga-akan-diolah-jadi-cairan-vape
+    publisher: RRI
+    date: 2026-07-03
+    language: id
 media:
   - kind: photo
     url: https://bnn.go.id/bnn-ri-gagalkan-penyelundupan-337-ton-kuncup-bunga-cannabinoid-berkedok-impor-barang/
@@ -134,6 +139,11 @@ media:
     media_url: https://awsimages.detik.net.id/api/wm/2026/07/03/disita-bnn-337-ton-ganja-thailand-diduga-akan-diolah-jadi-liquid-vape-1783061382395_169.jpeg?wid=54&w=1200&v=1&t=jpeg
     publisher: detikNews (BNN)
     caption: Seized cannabis buds republished with detikNews coverage of the Gresik raid.
+  - kind: photo
+    url: "https://rri.co.id/hukum/hukum/2542712/bnn-narkoba-337-ton-diduga-akan-diolah-jadi-cairan-vape"
+    media_url: "https://rri-portal-app-assets.obs.ap-southeast-4.myhuaweicloud.com/upload/berita/image/pusat-pemberitaan/thumbs/xl_1783021659389324_a0171aafa6_berita_pusat-pemberitaan.webp"
+    publisher: "RRI (BNN)"
+    caption: "Officials display seized packages during the Gresik press conference. Photo: BNN."
 ---
 
 Indonesia's BNN seized about 3.37 tonnes of cannabis buds in Gresik in July 2026, in a case subsequently sent to court. [@1,2,3,4,5,6]
@@ -155,7 +165,7 @@ and among cargo labelled as latex products, amounting to 3,371,400 grams gross.
 buds smuggled through official international trade channels using containers, and that
 investigation had run through customs document analysis, network mapping and
 surveillance. [@3,4] Twelve people suspected of involvement in the importation were
-arrested. [@3,4]
+arrested. [@3,4,10]
 
 ## The plan
 

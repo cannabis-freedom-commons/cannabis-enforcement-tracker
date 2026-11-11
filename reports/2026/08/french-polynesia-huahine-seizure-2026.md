@@ -20,12 +20,24 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+media:
+  - kind: photo
+    url: "https://www.tntvnews.pf/polynesie/faits-divers/une-demi-tonne-de-paka-saisie-a-huahine/"
+    media_url: "https://www.tntvnews.pf/tntv/wp-content/uploads/2026/08/Huahine1.jpg"
+    publisher: "TNTV"
+    caption: "Cannabis plants burned during the Huahine operation. Photo: Polynesian customs."
+  - kind: photo
+    url: "https://www.tntvnews.pf/polynesie/faits-divers/une-demi-tonne-de-paka-saisie-a-huahine/"
+    media_url: "https://www.tntvnews.pf/tntv/wp-content/uploads/2026/08/5300167a-b42b-44fb-884b-30bc5196b88d-600x450.jpg"
+    publisher: "TNTV"
+    caption: "A cannabis plantation discovered on Huahine. Photo: Polynesian customs."
 status: verified
 cfi_id: french-polynesia-huahine-seizure-2026
 sources:
   - title: Une demi-tonne de paka saisie à Huahine (27 August 2026)
     publisher: TNTV
     url: https://www.tntvnews.pf/polynesie/faits-divers/une-demi-tonne-de-paka-saisie-a-huahine/
+    archived: https://web.archive.org/web/20261103214604/https://www.tntvnews.pf/polynesie/faits-divers/une-demi-tonne-de-paka-saisie-a-huahine/
     locator: 794 plants + 208 cuttings = 513 kg.
 ---
 

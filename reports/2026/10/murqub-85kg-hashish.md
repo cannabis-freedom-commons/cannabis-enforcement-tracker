@@ -31,12 +31,19 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: "https://lana.gov.ly/post.php?id=368489&lang=ar"
+    media_url: "https://lana.gov.ly/images/src/368489.jpg"
+    publisher: "وكالة الأنباء الليبية"
+    caption: "Packages of suspected hashish displayed in the Murqub seizure."
 status: verified
 created_by_model: xai/grok-4.7
 tags: [libya, hashish, murqub]
 sources:
   - title: "وزارة الداخلية : جهاز مكافحة المخدرات يضبط أكثر من 85 كيلوغرامًا من الحشيش"
     url: https://lana.gov.ly/post.php?id=368489&lang=ar
+    archived: https://web.archive.org/web/20261028180634/https://lana.gov.ly/post.php?lang=ar&id=368489
     publisher: وكالة الأنباء الليبية
     date: 2026-10-25
     language: ar

@@ -19,6 +19,12 @@ data_sources:
   figures.arrested: [1]
   figures.charged: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: "https://www.breakingbelizenews.com/2026/08/24/three-charged-after-san-pedro-raid-turns-up-cannabis-cocaine-and-crack/"
+    media_url: "https://www.breakingbelizenews.com/wp-content/uploads/2026/08/Horace-Anthony-Crawford-Bridget-Alcer.jpeg"
+    publisher: "Breaking Belize News"
+    caption: "Police photographs of the three people charged and substances seized in San Pedro."
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: db414fcb5cf8640b45082168d5c3296c
@@ -26,6 +32,7 @@ tags: [san-pedro, boca-del-rio]
 sources:
   - title: Three charged after San Pedro raid turns up cannabis, cocaine and crack
     url: https://www.breakingbelizenews.com/2026/08/24/three-charged-after-san-pedro-raid-turns-up-cannabis-cocaine-and-crack/
+    archived: https://web.archive.org/web/20260827102927/https://www.breakingbelizenews.com/2026/08/24/three-charged-after-san-pedro-raid-turns-up-cannabis-cocaine-and-crack/
     publisher: Breaking Belize News
     date: 2026-08-24
 open_questions:

@@ -32,6 +32,12 @@ data_sources:
   figures.arrested: [1]
   figures.kg_seized: [1]
   figures.value: [1]
+media:
+  - kind: photo
+    url: "https://hyderabadmail.com/medak-excise-team-seizes-4-1kg-ganja-pedda-shankarampet/"
+    media_url: "https://hyderabadmail.com/wp-content/uploads/2026/10/ganja-k.jpg"
+    publisher: "Hyderabad Mail"
+    caption: "Excise personnel with the suspect, motorcycle and seized bags near Pedda Shankarampet."
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 460d22f12ae10d1de15f3df38288b9ba

@@ -22,6 +22,12 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+media:
+  - kind: photo
+    url: "https://www.zambiamonitor.com/?p=80489"
+    media_url: "https://www.zambiamonitor.com/wp-content/uploads/2026/02/FB_IMG_1770632435924.jpg"
+    publisher: "Zambia Monitor"
+    caption: "Cannabis plants in a vehicle during Operation Kufeza."
 status: verified
 cfi_id: zambia-operation-kufeza-2026
 sources:

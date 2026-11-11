@@ -34,6 +34,12 @@ data_sources:
   details.products: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: "https://quettavoice.com/2026/10/14/anf-seizes-60kg-hashish-from-ambulance-in-quetta-drug-bust/"
+    media_url: "https://quettavoice.com/wp-content/uploads/2026/10/IMG-20261014-WA0119.jpg"
+    publisher: "Quetta Voice"
+    caption: "The suspect and ambulance displayed by the Anti-Narcotics Force after the Quetta seizure."
 status: verified
 tags: [anf, ambulance, hashish]
 sources:

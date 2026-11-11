@@ -35,6 +35,12 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.plants_destroyed: [1]
+media:
+  - kind: photo
+    url: "https://www.detik.com/sumut/hukum-dan-kriminal/d-8347489/polisi-ungkap-ladang-berisi-33-batang-ganja-di-karo-petani-ditangkap"
+    media_url: "https://awsimages.detik.net.id/api/wm/2026/02/09/foto-suasana-ladang-ganja-di-tanah-karo-dok-polres-tanah-karo-1770612026635_169.jpeg?wid=54&w=1200&v=1&t=jpeg"
+    publisher: "detikSumut"
+    caption: "Police at the Karo cannabis plot. Photo: Tanah Karo police."
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [karo, cultivation]

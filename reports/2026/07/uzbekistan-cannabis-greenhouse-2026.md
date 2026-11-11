@@ -22,6 +22,12 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
+media:
+  - kind: photo
+    url: "https://zamon.uz/en/2026/07/01/kashkadarya-201-kg-of-cannabis-seized-nearly-2-kg-of-hashish-confiscated-in-tashkent"
+    media_url: "https://s3.zamon.uz/zamon-prod/news_pictures/2026/07/01/photo_2026-07-01_17-06-10.og.jpg"
+    publisher: "Zamon.uz"
+    caption: "The Shahrisabz greenhouse and suspect shown with the security service account."
 status: verified
 cfi_id: uzbekistan-cannabis-greenhouse-2026
 sources:

@@ -33,6 +33,12 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: "https://www.indonesiamediacenter.com/2026/09/bnnp-sumbar-gagalkan-peredaran-44-kg.html"
+    media_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT3BYvD6yfjtvSSk5orf_jS8pcu378gotNcFSvTd58iIIU8qPMX19aOT8d2HGJ-x9bB-C7eRRINoXK0LfIRCL0N1ny2kBbZjLHDClUbWW2x_PsAnYviwr9ha6ic2ElGjzoEI-Ph872vVROo-qWwnhDrYyeo88qk9XZW4_1LQxqI8u0ZdcXpKCrvlfJ/w1200-h630-p-k-no-nu/WhatsApp%20Image%202026-09-10%20at%2022.08.43.jpeg"
+    publisher: "Indonesia Media Center"
+    caption: "West Sumatra narcotics officers display packages and suspects in the Pasaman operation."
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1ee987509042e48815d98d4d9e999dfa

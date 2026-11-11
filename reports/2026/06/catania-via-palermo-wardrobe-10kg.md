@@ -33,6 +33,12 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: "https://catania.gds.it/articoli/cronaca/2026/06/02/dieci-chili-di-droga-nellarmadio-di-casa-la-polizia-scopre-un-deposito-di-stupefacenti-a-catania-il-video-229b69af-bd84-4922-8ce6-f44e36ea5ca6/"
+    media_url: "https://assets.gds.it/2026/06/89d231a8afc9651cef7dbe667df7791a-1200x600.jpg"
+    publisher: "Giornale di Sicilia"
+    caption: "A police video still from the Catania search."
 status: verified
 tags: [catania, via-palermo]
 open_questions:
@@ -43,6 +49,7 @@ open_questions:
 sources:
   - title: Dieci chili di droga nell'armadio di casa, la polizia scopre un deposito di stupefacenti a Catania. Il video
     url: https://catania.gds.it/articoli/cronaca/2026/06/02/dieci-chili-di-droga-nellarmadio-di-casa-la-polizia-scopre-un-deposito-di-stupefacenti-a-catania-il-video-229b69af-bd84-4922-8ce6-f44e36ea5ca6/
+    archived: https://web.archive.org/web/20260603073028/https://catania.gds.it/articoli/cronaca/2026/06/02/dieci-chili-di-droga-nellarmadio-di-casa-la-polizia-scopre-un-deposito-di-stupefacenti-a-catania-il-video-229b69af-bd84-4922-8ce6-f44e36ea5ca6/
     publisher: Giornale di Sicilia
     date: 2026-06-02
     language: it

@@ -31,6 +31,12 @@ data_sources:
   details.route: [1]
   details.setting: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: "https://en.antaranews.com/news/434900/papua-police-foils-10-kg-drug-smuggling-attempt-from-papua-new-guinea"
+    media_url: "https://cdn.antaranews.com/cache/1200x800/2026/10/10/1002908292.jpg"
+    publisher: "Antara"
+    caption: "Papua police display marijuana seized near Holtekamp. Photo: Papua Regional Police via ANTARA."
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [jayapura, png-route, trafficking]
@@ -40,6 +46,7 @@ open_questions:
 sources:
   - title: Papua Police foils 10-kg drug smuggling attempt from Papua New Guinea
     url: https://en.antaranews.com/news/434900/papua-police-foils-10-kg-drug-smuggling-attempt-from-papua-new-guinea
+    archived: https://web.archive.org/web/20261011231513/https://en.antaranews.com/news/434900/papua-police-foils-10-kg-drug-smuggling-attempt-from-papua-new-guinea
     publisher: Antara
     date: 2026-10-10
 ---

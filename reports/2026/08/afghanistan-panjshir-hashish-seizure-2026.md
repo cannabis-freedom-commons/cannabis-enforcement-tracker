@@ -20,6 +20,12 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+media:
+  - kind: photo
+    url: "https://atlaspress.news/en/2026/08/05/taliban-police-seize-245kg-hashish-panjshir-arrest-four/"
+    media_url: "https://atlaspress.news/en/wp-content/uploads/2026/08/HO838umXAAAw9nh.jpg"
+    publisher: "AtlasPress"
+    caption: "Four suspects and packages displayed by police after the Panjshir seizure."
 status: verified
 cfi_id: afghanistan-panjshir-hashish-seizure-2026
 sources:
@@ -28,6 +34,7 @@ sources:
       2026)
     publisher: AtlasPress
     url: https://atlaspress.news/en/2026/08/05/taliban-police-seize-245kg-hashish-panjshir-arrest-four/
+    archived: https://web.archive.org/web/20260808062101/https://atlaspress.news/en/2026/08/05/taliban-police-seize-245kg-hashish-panjshir-arrest-four/
     locator: Report on the Kotol Anjuman, Paryan district seizure and four arrests
 ---
 

@@ -25,6 +25,12 @@ data_sources:
   details.date_precision: [1]
   details.products: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: "https://www.alwihdainfo.com/senegal-360-kg-de-chanvre-indien-saisis-a-joal/"
+    media_url: "https://storage.ghost.io/c/c3/f0/c3f09db4-2ccd-4dca-90bb-45836ef771ee/content/images/2026/07/743425226_122211519644050392_2991940826260694853_n.jpg"
+    publisher: "Alwihda Info"
+    caption: "The seized packages and motorcycle displayed by the Joal gendarmerie."
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 35b831b7386daf1e0b81bdda9804b5bb
@@ -32,6 +38,7 @@ tags: [joal, mbodiene, gendarmerie]
 sources:
   - title: 'Sénégal : 360 kg de chanvre indien saisis à Joal'
     url: https://www.alwihdainfo.com/senegal-360-kg-de-chanvre-indien-saisis-a-joal/
+    archived: https://web.archive.org/web/20260714110722/https://www.alwihdainfo.com/senegal-360-kg-de-chanvre-indien-saisis-a-joal/
     publisher: Alwihda Info
     date: 2026-07-09
     language: fr

@@ -35,6 +35,12 @@ data_sources:
   details.setting: [1]
   figures.kg_seized: [1]
   figures.plants_destroyed: [1]
+media:
+  - kind: photo
+    url: "https://www.etvbharat.com/hi/state/ganja-plants-cultivated-in-jodhpur-projected-earnings-of-rs-12-crore-ncb-antf-thwarted-plans-rjs26100707702"
+    media_url: "https://imgs.etvbharat.com/etvbharat/prod-images/07-10-2026/1200-675-27814565-thumbnail-16x9-ds.jpg"
+    publisher: "ETV Bharat Rajasthan"
+    caption: "The operation team at the destroyed cannabis crop in Nayavas. Photo: NCB–ANTF."
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [kotra, udaipur, ncb, cultivation]
@@ -44,6 +50,7 @@ open_questions:
 sources:
   - title: 10 बीघा में लगाए गांजे के 7577 पौधे, 12 करोड़ होती आमदनी, NCB–ANTF ने इरादों पर फेरा पानी
     url: https://www.etvbharat.com/hi/state/ganja-plants-cultivated-in-jodhpur-projected-earnings-of-rs-12-crore-ncb-antf-thwarted-plans-rjs26100707702
+    archived: https://web.archive.org/web/20261007163257/https://www.etvbharat.com/hi/state/ganja-plants-cultivated-in-jodhpur-projected-earnings-of-rs-12-crore-ncb-antf-thwarted-plans-rjs26100707702
     publisher: ETV Bharat Rajasthan
     date: 2026-10-07
     language: hi

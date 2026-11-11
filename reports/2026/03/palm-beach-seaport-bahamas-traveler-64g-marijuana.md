@@ -35,6 +35,12 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: "https://cbs12.com/news/local/florida-crime-news-nassau-bahamas-weed-like-to-check-your-bags-wasnt-just-a-joke-at-the-the-palm-beach-port-of-entry-director-of-field-operations-marijuana-cbp-check-your-bags"
+    media_url: "https://cbs12.com/resources/media2/16x9/1920/1320/center/90/83f72cf0-5604-448d-a400-b24d3f68081d-SkylerWPECThumbnailImages32.jpg"
+    publisher: "CBS12"
+    caption: "Cannabis found at Palm Beach Seaport, shown in images credited to US Customs and Border Protection."
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3ebde5aab89df9f4f8e183e3443349c7
@@ -42,6 +48,7 @@ tags: [florida, palm-beach, cbp, bahamas]
 sources:
   - title: '''WEED like to check your bags,'' wasn''t just a joke at the Palm Beach port of entry'
     url: https://cbs12.com/news/local/florida-crime-news-nassau-bahamas-weed-like-to-check-your-bags-wasnt-just-a-joke-at-the-the-palm-beach-port-of-entry-director-of-field-operations-marijuana-cbp-check-your-bags
+    archived: https://web.archive.org/web/20260323203722/https://cbs12.com/news/local/florida-crime-news-nassau-bahamas-weed-like-to-check-your-bags-wasnt-just-a-joke-at-the-the-palm-beach-port-of-entry-director-of-field-operations-marijuana-cbp-check-your-bags
     publisher: CBS12
     date: 2026-03-23
 open_questions:

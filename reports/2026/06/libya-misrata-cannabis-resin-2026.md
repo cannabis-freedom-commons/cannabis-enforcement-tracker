@@ -21,6 +21,12 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
+media:
+  - kind: photo
+    url: "https://libyaobserver.ly/crimes/misrata-customs-seize-more-five-tonnes-hashish"
+    media_url: "https://libyaobserver.ly/sites/default/files/2026-06/jomrk.jpeg"
+    publisher: "The Libya Observer"
+    caption: "Hashish packages displayed by customs after the Misrata port seizure."
 status: verified
 cfi_id: libya-misrata-cannabis-resin-2026
 sources:

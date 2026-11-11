@@ -32,6 +32,12 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: "https://timesofindia.indiatimes.com/city/nashik/ahilyanagar-police-seize-152-kgs-of-ganja-on-way-to-pune-2-held/articleshow/134748827.cms"
+    media_url: "https://static.toiimg.com/thumb/msid-134748826,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+    publisher: "The Times of India"
+    caption: "Police with the suspects and bags seized at Saykhindi Phata."
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [sangamner, ahilyanagar, trafficking]
@@ -40,6 +46,7 @@ open_questions:
 sources:
   - title: Ahilyanagar police seize 152 kgs of ganja on way to Pune, 2 held
     url: https://timesofindia.indiatimes.com/city/nashik/ahilyanagar-police-seize-152-kgs-of-ganja-on-way-to-pune-2-held/articleshow/134748827.cms
+    archived: https://web.archive.org/web/20261010030640/https://timesofindia.indiatimes.com/city/nashik/ahilyanagar-police-seize-152-kgs-of-ganja-on-way-to-pune-2-held/articleshow/134748827.cms
     publisher: The Times of India
     date: 2026-10-07
     language: en

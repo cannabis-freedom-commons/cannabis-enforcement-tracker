@@ -29,6 +29,12 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: "https://tripurachronicle.in/local-news/176-8-kg-cannabis-seized-driver-arrested-in-rk-nagar/"
+    media_url: "https://tripurachronicle.in/media/2026/10/11-1.png"
+    publisher: "Tripura Chronicle"
+    caption: "Police with the suspect and cannabis packages at RK Nagar."
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [agartala, vehicle-check, ndps]
@@ -40,6 +46,7 @@ open_questions:
 sources:
   - title: 176.8 kg cannabis seized, driver arrested in RK Nagar
     url: https://tripurachronicle.in/local-news/176-8-kg-cannabis-seized-driver-arrested-in-rk-nagar/
+    archived: https://web.archive.org/web/20261012072827/https://tripurachronicle.in/local-news/176-8-kg-cannabis-seized-driver-arrested-in-rk-nagar/
     publisher: Tripura Chronicle
     date: 2026-10-03
 ---

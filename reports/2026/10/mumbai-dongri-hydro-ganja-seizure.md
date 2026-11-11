@@ -31,6 +31,12 @@ data_sources:
   details.products: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: "https://www.mid-day.com/amp/mumbai/mumbai-crime-news/article/mumbai-crime-branch-seizes-3-56-kg-of-hydro-ganja-worth-rs-1-24-crore-in-dongri-two-men-arrested-23657413"
+    media_url: "https://images.mid-day.com/images/images/2026/oct/DrugsGanja_1793181354517_d.jpg"
+    publisher: "Mid-Day"
+    caption: "Officers with the two suspects in the Dongri seizure. Photo: Special Arrangement."
 status: verified
 tags: [hydro-ganja, mumbai]
 sources:
