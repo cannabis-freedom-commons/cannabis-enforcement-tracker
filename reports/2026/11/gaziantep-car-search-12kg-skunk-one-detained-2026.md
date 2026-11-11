@@ -123,15 +123,11 @@ sources:
     publisher: Medya Gazete
     date: 2026-11-10
     language: tr
-open_questions:
-    - The sources give no separate date for the search; 10 November 2026 is the date of the police statement and of publication and is used as the incident date.
-    - İLKHA reports the suspect was referred to the judicial authorities, while the agency copy still said police processing at the station was continuing; no charge or court decision was reported.
-    - No value estimate, package count or individual weights, or origin or destination of the skunk was published.
-    - Kars Hakimiyet describes the detained suspect as the vehicle owner, whereas the İHA dispatch it credits and other accounts state only that one suspect was detained without specifying who owned the vehicle.
-    - No name, age or other identifying details for the suspect were published.
-    - The reports state the substance was skunk, a cannabis product, without laboratory confirmation.
-    - Sabah and Yeniantep describe the vehicle as a light commercial vehicle stopped at an intercity highway checkpoint, while DHA and earlier accounts describe it as a car or automobile.
-    - İHA describes the skunk as hidden inside electronic goods and DHA places it in a box in the car's boot, whereas Sabah and Yeniantep report it was concealed in the rear insulation of an electric oven.
+  - title: Gaziantep'te Bir Otomobilde 12 Kilogram Skunk Ele Geçirildi
+    url: https://www.aksutvhaber.net/gaziantepte-bir-otomobilde-12-kilogram-skunk-ele-gecirildi
+    publisher: Aksu TV Haber
+    date: 2026-11-10
+    language: tr
 media:
   - kind: photo
     url: https://www.iha.com.tr/gaziantep-haberleri/gaziantepte-aracta-12-kilo-skunk-ele-gecirildi-1-gozalti-513942076
@@ -147,10 +143,10 @@ media:
 
 Gaziantep police anti-narcotics officers searched a car and seized 12 kilograms
 of skunk, a potent form of cannabis sold under that name in Türkiye, and
-detained one suspect. [@1,5,6,7,8,9,11,12,13,14,15,16,17] The officers of the Gaziantep Provincial Police
+detained one suspect. [@1,5,6,7,8,9,11,12,13,14,15,16,17,18] The officers of the Gaziantep Provincial Police
 Directorate's narcotics branch ran the search as part of work against drug
-sellers. [@2] Narcotics officers of the Gaziantep Provincial Police Directorate stopped a light commercial vehicle on suspicion at a checkpoint on the intercity highway. [@5,10] The operation was carried out under the coordination of the Chief
-Public Prosecutor's Office, the provincial prosecutor's office. [@3,6,7,11,13,14,16,17] The person
+sellers. [@2] Intelligence work and physical surveillance identified the target vehicle, which security forces then stopped. [@18] Narcotics officers of the Gaziantep Provincial Police Directorate stopped a light commercial vehicle on suspicion at a checkpoint on the intercity highway. [@5,10] The operation was carried out under the coordination of the Chief
+Public Prosecutor's Office, the provincial prosecutor's office. [@3,6,7,11,13,14,16,17,18] The person
 caught in connection with the incident was taken to the police station and then
 referred to the judicial authorities after processing. [@1] After the referral
 to the judicial authorities, the person's questioning and custody status
