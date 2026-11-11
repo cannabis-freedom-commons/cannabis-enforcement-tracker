@@ -61,37 +61,40 @@ sources:
     publisher: Castellón al Día
     date: 2026-11-10
     language: es
+  - title: Desmantelan un búnker de la droga en Orpesa tras casi tres años de investigación
+    url: https://www.elperiodicomediterraneo.com/caso-abierto/sucesos-en-castellon/2026/11/10/desmantelan-bunker-droga-orpesa-tres-136278729.html
+    publisher: El Periódico Mediterráneo
+    date: 2026-11-10
+    language: es
 open_questions:
-  - No weight for the seized hashish or marijuana and no count of cannabis plants was published.
-  - The exact addresses of the searched homes were not disclosed.
-  - No custody decision, charge sheet or court outcome after referral to the judicial authority was reported.
-  - Cocaine, firearms and cash are mentioned to explain the operation; only the cannabis products support this report and no combined drug total is used as a cannabis figure.
-  - The account rests on a single report reproducing the Guardia Civil statement, with no second outlet found.
+    - No weight for the seized hashish or marijuana and no count of cannabis plants was published.
+    - The exact addresses of the searched homes were not disclosed.
+    - No custody decision, charge sheet or court outcome after referral to the judicial authority was reported.
+    - Cocaine, firearms and cash are mentioned to explain the operation; only the cannabis products support this report and no combined drug total is used as a cannabis figure.
 ---
 
 The Guardia Civil arrested five people and placed another under investigation in
 Oropesa del Mar in connection with a drug cultivation and distribution network.
-[@1] The operation, called Operación Cantonel, culminated in searches on 5
-November 2026 after an investigation begun in 2024. [@1] The six suspects face
+[@1,2] The operation, called Operación Cantonel, culminated in searches on 5
+November 2026 after an investigation begun in 2024. [@1,2] The six suspects face
 allegations of drug trafficking, membership of a criminal organisation,
-electricity fraud and offences against road safety. [@1] Proceedings prepared by
+electricity fraud and offences against road safety. [@1,2] Proceedings prepared by
 the Guardia Civil in Oropesa del Mar were sent to the competent judicial
-authority. [@1]
+authority. [@1,2]
 
 During house searches, officers seized marijuana, hashish and cocaine, indoor
 cannabis-plantation material, firearms and other weapons, and nearly 5,000 euros
-in cash. [@1] Agents found narcotics prepared for distribution and equipment
-allegedly used to grow marijuana indoors. [@1] Officers also seized firearms and
-other weapons, material connected with making hashish, and cash. [@1] The homes
+in cash. [@1,2] Agents found narcotics prepared for distribution and equipment
+allegedly used to grow marijuana indoors. [@1,2] Officers also seized firearms and
+other weapons, material connected with making hashish, and cash. [@1,2] The homes
 had an advanced alarm system and many surveillance cameras intended to hinder
-police action and monitor movement around the premises. [@1]
+police action and monitor movement around the premises. [@1,2]
 
 Investigators found an illegal electricity hookup wired directly into an
 illuminated Directorate-General of Traffic signalling panel and carefully
-concealed. [@1] The tapped power supply caused failures in AP-7 motorway
-signalling, creating a serious danger to drivers. [@1] Operación Cantonel began
+concealed. [@1,2] The tapped power supply caused failures in AP-7 motorway
+signalling, creating a serious danger to drivers. [@1,2] Operación Cantonel began
 in 2024 with collaboration from the Oropesa del Mar Local Police from its
-earliest stages. [@1] Units of the Castellón Command took part in the 5 November
+earliest stages. [@1,2] Units of the Castellón Command took part in the 5 November
 deployment, supported by the USECIC, the Reserve and Security Group and the Air
-Service. [@1]
-
+Service. [@1,2]
