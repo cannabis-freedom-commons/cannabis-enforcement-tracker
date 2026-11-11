@@ -66,25 +66,30 @@ sources:
     publisher: mojBytom.pl
     date: 2026-11-10
     language: pl
+  - title: Blisko 1,5 kg narkotyków w mieszkaniu w Bytomiu. Dwie osoby trafiły do aresztu
+    url: https://faktybytom.pl/20261110904193/blisko-15-kg-narkotykow-w-mieszkaniu-w-bytomiu-dwie-osoby-trafily-do-aresztu
+    publisher: Fakty Bytom
+    date: 2026-11-10
+    language: pl
 ---
 
 Detectives from Police Station III in Bytom searched a flat in Bytom in early
 November 2026 after identifying it as a place where significant quantities of
-drugs might be stored. [@1,3] Officers detained a 27-year-old Bytom resident and a
+drugs might be stored. [@1,3,4] Officers detained a 27-year-old Bytom resident and a
 20-year-old woman in connection with the search. [@1,3] Both detainees were
 charged with possessing a significant quantity of drugs and preparing to
 introduce them into circulation, plus unlawful cultivation of plants containing
-intoxicating or psychotropic substances. [@1,3] The 27-year-old was additionally
-charged with paid provision of drugs to others. [@1,3] At the prosecutor's
+intoxicating or psychotropic substances. [@1,3,4] The 27-year-old was additionally
+charged with paid provision of drugs to others. [@1,3,4] At the prosecutor's
 request, the District Court in Bytom ordered both suspects held in pretrial
-detention for three months. [@1,3]
+detention for three months. [@1,3,4]
 
-The search found 689 grams of amphetamine and 540 grams of methamphetamine. [@1,3]
+The search found 689 grams of amphetamine and 540 grams of methamphetamine. [@1,3,4]
 Officers also found 261 ecstasy tablets, marijuana and a cannabis plant in the
-flat. [@1,3] The Bytom municipal police said the flat yielded almost 1.5 kilograms
+flat. [@1,3,4] The Bytom municipal police said the flat yielded almost 1.5 kilograms
 of drugs including amphetamine, methamphetamine, marijuana and ecstasy tablets
 plus a cannabis plant. [@2] Police put the combined total of the seized drugs at
-almost 1.5 kilograms and placed the substances in police storage. [@1,3]
+almost 1.5 kilograms and placed the substances in police storage. [@1,3,4]
 
 Investigators suspect the drugs were intended for further sale. [@1] Pretrial
 detention is a preventive measure and not a verdict, with the suspects' final
