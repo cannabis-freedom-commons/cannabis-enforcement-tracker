@@ -78,6 +78,11 @@ sources:
     publisher: Il Gazzettino
     date: 2026-11-10
     language: it
+  - title: 'Agli arresti domiciliari, coltivava marijuana: arrestato | Corriere delle Alpi'
+    url: https://www.corrierealpi.it/cronaca/belluno-arresti-domiciliari-coltivava-marijuana-in-casa-l0eu9x53
+    publisher: Corriere delle Alpi
+    date: 2026-11-10
+    language: it
 open_questions:
     - One passage in Corriere delle Alpi says the man was transferred to prison, while a later passage in the same outlet and News In Quota say he was first placed under house arrest and then released pending the validation hearing; the report uses the latter account.
     - No dried-cannabis weight, area, value estimate or THC result was published, and laboratory confirmation was still pending.
@@ -85,9 +90,9 @@ open_questions:
 ---
 
 The Belluno Flying Squad rearrested a 63-year-old man from Longarone after a
-check led officers to a cannabis grow inside his home. [@1] The man had been
+check led officers to a cannabis grow inside his home. [@1,5] The man had been
 serving home detention since April 2026 for drug, weapons, resistance and
-personal offences. [@1,2,3,4] Investigators, made suspicious by his recent movements
+personal offences. [@1,2,3,4,5] Investigators, made suspicious by his recent movements
 and inquiries, stopped him on the morning of 6 November in Longarone during his
 court-authorised time outside. [@1,3,4]
 
