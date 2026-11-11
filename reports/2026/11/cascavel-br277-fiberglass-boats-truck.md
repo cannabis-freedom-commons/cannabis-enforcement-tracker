@@ -47,6 +47,11 @@ sources:
     publisher: Ponto da Notícia
     date: 2026-11-10
     language: pt
+  - title: PRF encontra até 400 quilos de maconha escondidos em barcos de fibra e descobre rastreador na carga
+    url: https://www.portal24.com.br/noticia/21596/cascavel/prf-encontra-ate-400-quilos-de-maconha-escondidos-em-barcos-de-fibra-e-descobre-rastreador-na-carga.html
+    publisher: Portal 24
+    date: 2026-11-10
+    language: pt
 open_questions:
   - The total weight of the seized marijuana was not published as officers awaited tools to open the boats before weighing the load.
   - The organizers of the shipment from Missal and the intended recipients in Rio de Janeiro were not identified.
@@ -60,12 +65,11 @@ boats were being transported in the enclosed cargo compartment of a box truck,
 known in Brazil as a caminhão-baú. [@1] The driver of the transport vehicle was
 not arrested following the inspection. [@1] According to the findings of the
 PRF, the driver was able to demonstrate to the inspecting officers that he had
-no knowledge of the existence of the drug hidden inside the cargo. [@1]
+no knowledge of the existence of the drug hidden inside the cargo. [@1,3]
 
 The vessels had been dispatched from the municipality of Missal, in western
-Paraná, and were destined for the city of Rio de Janeiro. [@2] To extract the
+Paraná, and were destined for the city of Rio de Janeiro. [@2,3] Inspectors also found an electronic tracker installed on one of the vessels, suspected of being used by traffickers to monitor the cargo's route in real time. [@3] To extract the
 hidden narcotics from inside the hollow structures, police teams had to await
 the arrival of specialised cutting tools needed to open the fiberglass vessels.
-[@2] Federal Highway Police officers stated that the entire load of marijuana
-would be weighed only after it had been fully removed from the boats. [@2]
-
+[@2,3] Federal Highway Police officers stated that the entire load of marijuana
+would be weighed only after it had been fully removed from the boats. [@2,3]
