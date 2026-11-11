@@ -45,6 +45,11 @@ sources:
     publisher: Elonce.com
     date: 2026-11-10
     language: es
+  - title: Hallan cocaína y marihuana en un utilitario en el Túnel Subfluvial - Informe Digital
+    url: https://informedigital.com.ar/hallan-cocaina-y-marihuana-en-un-utilitario-en-el-tunel-subfluvial/
+    publisher: Informe Digital
+    date: 2026-11-10
+    language: es
 open_questions:
     - The man was reported as identified rather than detained, and no detention, charge beyond simple possession, or court outcome was reported.
     - The seizure also included 5.9 grams of cocaine, which is excluded from the cannabis quantity recorded here.
@@ -66,7 +71,7 @@ between Santa Fe and Paraná through the tunnel when the police control detected
 the drugs he was carrying. [@1]
 
 The checkpoint operation itself was carried out by personnel of the Entre Ríos
-Directorate-General for Prevention and Road Safety. [@1,2] The inspection occurred on the afternoon of Monday, 9 November 2026, at approximately 17:45 at the road control post. [@2] After the find, the
+Directorate-General for Prevention and Road Safety. [@1,2,3] The inspection occurred on the afternoon of Monday, 9 November 2026, at approximately 17:45 at the road control post. [@2,3] After the find, the
 Paraná Investigation and Litigation Prosecutor's Office under prosecutor María
 del Huerto Felgueres ordered the seizure of the substances and brought in
 Dangerous Drugs officers to conduct field tests and weighing. [@1,2] Those
