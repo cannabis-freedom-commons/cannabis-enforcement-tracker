@@ -49,22 +49,28 @@ sources:
     url: https://www.thehindu.com/news/cities/Coimbatore/two-arrested-with-ganja-worth-18-lakh-in-bhavanisagar/article71685523.ece
     publisher: The Hindu
     date: 2026-11-10
+  - title: '3.6 கிலோ கஞ்சா கடத்தல்: 2 போ் கைது'
+    url: https://www.dinamani.com/amp/story/all-editions/edition-coimbatore/erode/2026/Nov/10/36-%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AF%8B-%E0%AE%95%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%B2%E0%AF%8D-2-%E0%AE%AA%E0%AF%87%E0%AE%BE%E0%AF%8D-%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%81
+    publisher: தினமணி
+    date: 2026-11-10
+    language: ta
 open_questions:
     - The two published accounts differ by one day on the arrest date, giving 9 and 10 November 2026.
     - No specific charge, including any NDPS Act section, was reported.
     - The Tamil article's headline says the two were selling ganja, but its text only describes them standing with the two-wheeler and carrying the cannabis; police gave no account of a sale.
+    - Published accounts differ on whether one or two two-wheelers were seized with the ganja.
 ---
 
 Police in Bhavanisagar detained two men standing with a two-wheeler in the
 market street area of Mudukkandurai, a village next to Bhavanisagar, during a
 patrol led by Bhavanisagar sub-inspector Chandramohan. [@1] The two were
 identified as Dileepan, 21, and Kapilan, 19, both from the Sri Lankan Tamil
-rehabilitation camp at Bhavanisagar. [@1,2]
+rehabilitation camp at Bhavanisagar. [@1,2,3]
 
 A search of the two-wheeler found 3.6 kg of ganja, the local term for cannabis.
-[@1] Police arrested both men and seized the ganja and the two-wheeler. [@1,2] The two men were produced before a court and later lodged in Gobichettipalayam district prison. [@2] Police valued the seized 3.6 kg of ganja at ₹1.8 lakh. [@2]
+[@1,3] Police arrested both men and seized the ganja and the two-wheeler. [@1,2,3] The two men were produced before a court and later lodged in Gobichettipalayam district prison. [@2] They were produced before the Sathyamangalam criminal court. [@3] Police valued the seized 3.6 kg of ganja at ₹1.8 lakh. [@2]
 
 Police said Dileepan is on their history-sheeter list, meaning an offender kept
-under close police watch. [@1] Dileepan has more than 15 criminal cases
+under close police watch. [@1,3] Dileepan has more than 15 criminal cases
 registered at police stations including Bhavanisagar, Bangalapudur and
 Kovelpalayam and Sirumugai in Coimbatore district, police said. [@1,2]
