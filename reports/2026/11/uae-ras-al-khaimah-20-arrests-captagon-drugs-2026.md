@@ -351,6 +351,11 @@ sources:
     publisher: تركيا عاجل
     date: 2026-11-06
     language: ar
+  - title: الإمارات تضبط شبكة إجرامية دولية وتُحبط محاولة تهريب مخدرات كبيرة
+    url: https://zahraa.mr/1268/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B6%D8%A8%D8%B7-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A5%D8%AC%D8%B1%D8%A7%D9%85%D9%8A%D8%A9-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%88%D8%AA%D9%8F%D8%AD/
+    publisher: بوابة الزهراء
+    date: 2026-11-06
+    language: ar
 open_questions:
     - No separate weight or street value was published for the marijuana or hashish. The more than 30 kg covers cocaine, crystal methamphetamine, marijuana, hashish and Spice together, so it is not recorded as a cannabis figure.
     - The opened accounts give no date for the interception or the arrests. 6 November 2026 is the date of the announcement.
@@ -360,10 +365,10 @@ open_questions:
     - Several of the linked pictures are agency graphics or republished handouts, and not every one is established as a photograph of this seizure.
 ---
 
-The UAE announced on 6 November 2026 that it had arrested 20 suspects of Gulf, Arab, African and Asian nationalities and stopped a plan to smuggle 200,000 Captagon pills and more than 30 kg of other drugs through a border area of Ras Al Khaimah. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48]
+The UAE announced on 6 November 2026 that it had arrested 20 suspects of Gulf, Arab, African and Asian nationalities and stopped a plan to smuggle 200,000 Captagon pills and more than 30 kg of other drugs through a border area of Ras Al Khaimah. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49]
 
 Gulf News and Emarat Al Youm, both carrying the state news agency's account, said those other drugs included varied quantities of cocaine, crystal methamphetamine, marijuana, hashish and Spice. [@2,3,25] Spice is a synthetic drug and is not counted as cannabis. No separate weight was given for the marijuana or hashish, so the more than 30 kg is not recorded as a cannabis figure. [@2,3,48] Khaleej Times reported the 20 arrests, the Captagon pills and the 30 kg without listing marijuana or hashish by name. [@1]
 
-The operation followed intelligence shared by the UAE and Iraq. [@1,2,3,25,47,48] Khaleej Times said the National Anti-Narcotics Agency carried it out with Ras Al Khaimah Police, Iraq's General Directorate for Narcotics and Psychotropic Substances and the Federal Public Prosecution. [@1] Gulf News uses the name National Drug Enforcement Authority for the federal body and Ras Al Khaimah Police General Headquarters for the emirate force. [@2] Some suspects were caught holding the drugs and trying to smuggle them. [@1,2,25,48] Gulf News said the others were arrested inside the UAE in ambushes; Khaleej Times described those later arrests as coordinated raids. [@1,2]
+The operation followed intelligence shared by the UAE and Iraq. [@1,2,3,25,47,48,49] Khaleej Times said the National Anti-Narcotics Agency carried it out with Ras Al Khaimah Police, Iraq's General Directorate for Narcotics and Psychotropic Substances and the Federal Public Prosecution. [@1] Gulf News uses the name National Drug Enforcement Authority for the federal body and Ras Al Khaimah Police General Headquarters for the emirate force. [@2] Some suspects were caught holding the drugs and trying to smuggle them. [@1,2,25,48,49] Gulf News said the others were arrested inside the UAE in ambushes; Khaleej Times described those later arrests as coordinated raids. [@1,2]
 
 The agency said the operation struck smuggling and trafficking networks and asked the public to report suspicious activity. [@1,2]
