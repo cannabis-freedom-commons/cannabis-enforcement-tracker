@@ -36,6 +36,7 @@ sources:
   - title: HKSAR v Phung Hai, 17 February 2000
     publisher: Hong Kong High Court
     url: https://www.hklii.hk/en/cases/hkcfi/2000/686
+    archived: https://web.archive.org/web/20261023210603/https://www.hklii.hk/en/cases/hkcfi/2000/686
     type: law
     locator: >-
       HCMA 25/2000, paragraphs 1–4; 1.18 grammes of cannabis, previous convictions and reduction to

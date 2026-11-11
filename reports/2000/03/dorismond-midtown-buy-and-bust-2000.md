@@ -40,10 +40,12 @@ sources:
   - title: The Year in Pot
     publisher: The Village Voice
     url: https://www.villagevoice.com/2001/01/30/the-year-in-pot/
+    archived: https://web.archive.org/web/20220128123135/https://www.villagevoice.com/2001/01/30/the-year-in-pot/
     date: 2001-01-30
   - title: 'Time after Time: Call for Investigation into Police Killings'
     publisher: The Indypendent
     url: https://indypendent.org/2006/12/time-after-time-call-for-investigation-into-police-killings/
+    archived: https://web.archive.org/web/20251016235245/https://indypendent.org/2006/12/time-after-time-call-for-investigation-into-police-killings/
     date: 2006-12-22
 ---
 

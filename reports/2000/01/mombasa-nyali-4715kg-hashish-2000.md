@@ -41,10 +41,12 @@ open_questions:
 sources:
   - title: Mohamed Ghani Taib & Another v Republic [2007] eKLR
     url: https://sheriahub.com/cases/ke/caselaw/mohamed-ghani-taib-another-v-republic-2007-eklr.pdf
+    archived: https://web.archive.org/web/20240620065952/https://sheriahub.com/cases/ke/caselaw/mohamed-ghani-taib-another-v-republic-2007-eklr.pdf
     publisher: Kenya Law
     date: 2007-01-05
   - title: Report of the International Narcotics Control Board for 2000, Chapter III, Africa
     url: https://www.incb.org/documents/Publications/AnnualReports/AR2000/AR_2000_Chapter_III_Africa.pdf
+    archived: https://web.archive.org/web/20221020134333/https://www.incb.org/documents/Publications/AnnualReports/AR2000/AR_2000_Chapter_III_Africa.pdf
     publisher: International Narcotics Control Board
 ---
 

@@ -49,6 +49,7 @@ open_questions:
 sources:
   - title: Fatal Condition
     url: https://reason.com/2000/06/21/fatal-condition/
+    archived: https://web.archive.org/web/20260808223744/https://reason.com/2000/06/21/fatal-condition/
     publisher: Reason
     date: 2000-06-21
   - title: Josh Stanley Narrates A Question of Compassion, Video Tribute to Late Activist Peter McWilliams

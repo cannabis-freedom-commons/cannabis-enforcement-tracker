@@ -7,6 +7,7 @@ place: Carrickfergus, County Antrim, Northern Ireland
 coordinates: [54.72, -5.81]
 precision: locality
 type: sentence
+also: [raid]
 title: Three men sentenced over large Carrickfergus cannabis farm
 summary: >-
   Laganside Crown Court sentenced three men over a large cannabis farm found in
@@ -15,6 +16,7 @@ summary: >-
   six-month term, after police found more than 100 plants and a cultivation
   system.
 figures:
+  sentenced: 3
   prison: 18 months in custody and 18 months on licence; six months suspended for 18 months for the third defendant
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
@@ -22,7 +24,7 @@ details:
   agency_types: [police]
   case_stage: sentenced
   products: [{product: plants}]
-  sentence_types: [prison]
+  sentence_types: [prison, suspended]
   setting: [prison]
 data_sources:
   details.activity: [1]
@@ -32,16 +34,19 @@ data_sources:
   details.sentence_types: [1]
   details.setting: [1]
   figures.prison: [1]
+  figures.sentenced: [1]
 status: verified
 tags: [psni, laganside, cultivation]
 open_questions:
   - Only one source for this sentencing could be found.
   - The article gives 17 November 2023 as its publication date with no separate sentencing date.
   - The report gives no arrest dates and no value for the plants seized.
+  - The searched premises were not described beyond the Carrickfergus area, and no later outcome was reported.
 sources:
   - title: Men Jailed In Connection With Carrickfergus Cannabis Farm
     url: https://www.4ni.co.uk/northern-ireland-news/302465/men-jailed-in-connection-with-carrickfergus-cannabis-farm
-    publisher: 4ni
+    archived: https://web.archive.org/web/20250213064846/https://www.4ni.co.uk/northern-ireland-news/302465/men-jailed-in-connection-with-carrickfergus-cannabis-farm
+    publisher: 4NI
     date: 2023-11-17
 ---
 
