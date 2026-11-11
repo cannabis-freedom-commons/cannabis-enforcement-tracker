@@ -48,9 +48,18 @@ sources:
     publisher: Andhrajyothy
     date: 2026-11-11
     language: te
+  - title: ఆధాత్మిక క్షేత్రంలో గంజాయి కలకలం.. పోలీసులు అదుపులో గంజాయి విక్రేత
+    url: https://www.dishadaily.com/crime/police-in-srikalahasti-arrested-an-individual-who-was-selling-11-kilograms-of-cannabis-600181
+    publisher: Disha Daily
+    date: 2026-11-11
+    language: te
+  - title: Man arrested for peddling ganja in Tirupati district
+    url: https://www.thehindu.com/news/national/andhra-pradesh/man-arrested-for-peddling-ganja-in-tirupati-district/article71689038.ece
+    publisher: The Hindu
+    date: 2026-11-11
 ---
 
-Police detained and arrested Barri Mohan Reddy of Muchuvolu village. [@1] The
+Police detained and arrested Barri Mohan Reddy of Muchuvolu village. [@1,3] The
 raid took place at the Akkurthi railway gate in Srikalahasti mandal at about
 8:30 am on 11 November on credible information about illegal ganja sales, led by
 Rural CI G. Ibrahim with police staff and revenue officials. [@1] Police said
@@ -59,14 +68,13 @@ ordered by Tirupati district SP L. Subbarayudu. [@1] A second account confirms
 police detained the suspect, Barri Mohan Reddy, after checks near the Akkurthi
 railway gate on received information. [@2]
 
-Officers seized about 1,100 grams of ganja from him. [@1] Officers also seized a
-motorcycle from him. [@1] The second account likewise says police seized 1,100
+Officers seized about 1,100 grams of ganja from him. [@1,4] Officers also seized a
+motorcycle from him. [@1] Officers also seized a mobile phone from him. [@4] The second account likewise says police seized 1,100
 grams of ganja brought for illegal sale, along with a bike. [@2] Police said
 preliminary questioning indicated he had bought the ganja from a man named Seenu
-of Chatrapur town in Odisha and was selling it locally. [@1] Police registered a
-case under the NDPS Act. [@1] Police said investigation was continuing to
+of Chatrapur town in Odisha and was selling it locally. [@1,4] Police registered a
+case under the NDPS Act. [@1,4] Police said investigation was continuing to
 identify the main supplier and others involved in the illegal trade. [@1]
 
 Tirupati district police appealed to the public to report ganja transport or
 sales to police or Dial 112 and urged youth to stay away from drugs. [@1]
-
