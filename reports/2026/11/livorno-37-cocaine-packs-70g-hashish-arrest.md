@@ -54,30 +54,34 @@ sources:
     publisher: LivornoToday
     date: 2026-11-10
     language: it
+  - title: 'Tenta di disfarsi di cocaina, hashish e contanti ma la polizia li recupera: arrestato'
+    url: https://corrierelivornese.it/livorno/cronaca/tenta-di-disfarsi-di-cocaina-hashish-e-contanti-ma-la-polizia-li-recupera-arrestato/
+    publisher: Corriere Livornese
+    date: 2026-11-10
+    language: it
 open_questions:
-  - No exact date for the street check was published; the accounts place it in the preceding days, so the 10 November 2026 publication date stands in as the incident date.
-  - LivornoToday's body text states 70 grams of hashish and 330 euros, whereas its standfirst and Livorno 24 give both amounts as approximate; the report treats both as approximate figures, and no laboratory confirmation was reported.
-  - The cocaine is reported only as 37 packets with no published weight, and cocaine is excluded from the tracker's cannabis seizure figure.
-  - No street value was published for the seized drugs.
-  - The arrested man was not named, and his age and nationality were not published.
-  - No charge wording beyond drug possession, and no validation hearing or court outcome, was reported.
-  - Both accounts appear to reproduce the same police account without independent reporting of the arrest.
+    - No exact date for the street check was published; the accounts place it in the preceding days, so the 10 November 2026 publication date stands in as the incident date.
+    - LivornoToday's body text states 70 grams of hashish and 330 euros, whereas its standfirst, Livorno 24, and Corriere Livornese describe both amounts as approximate; the report treats both as approximate figures, and no laboratory confirmation was reported.
+    - The cocaine is reported only as 37 packets with no published weight, and cocaine is excluded from the tracker's cannabis seizure figure.
+    - No street value was published for the seized drugs.
+    - The arrested man was not named, and his age and nationality were not published.
+    - No charge wording beyond drug possession, and no validation hearing or court outcome, was reported.
+    - All three accounts appear to reproduce the same police account without independent reporting of the arrest.
 ---
 
 State police in Livorno arrested a man already known to law enforcement on
-suspicion of possessing narcotic substances. [@1] During a territorial control
+suspicion of possessing narcotic substances. [@1,3] During a territorial control
 patrol in the preceding days, officers of the Ufficio Prevenzione Generale e
 Soccorso Pubblico, the police's general prevention and public rescue unit,
-stopped the suspect, who already had other police records. [@1] At the sight of
+stopped the suspect, who already had other police records. [@1,3] At the sight of
 the police officers, the suspect tried to flee and tried to dispose of the
-narcotic substance he was carrying by throwing it to the ground. [@1] He was
-stopped immediately, and officers recovered the drugs and cash. [@2]
+narcotic substance he was carrying by throwing it to the ground. [@1,3] He was
+stopped immediately, and officers recovered the drugs and cash. [@2,3]
 
 The recovered material consisted of 37 packets of cocaine, about 70 grams of
-hashish, a cannabis resin product, and about 330 euros in cash. [@1]
+hashish, a cannabis resin product, and about 330 euros in cash. [@1,3]
 
 Once the necessary procedures were completed at the police offices, officers
-noted that the man, already known to police, had no stable employment. [@1] For
+noted that the man, already known to police, had no stable employment. [@1,3] For
 those reasons, the arrested man was taken to the Casa Circondariale, the local
-prison, to await decisions by the competent judicial authority. [@1]
-
+prison, to await decisions by the competent judicial authority. [@1,3]
