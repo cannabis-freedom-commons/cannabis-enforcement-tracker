@@ -128,6 +128,11 @@ sources:
     publisher: InfoKostrzyn.pl
     date: 2026-11-10
     language: pl
+  - title: Ponad 170 kg marihuany ukryte w miale węglowym. Transport z Hiszpanii zatrzymany pod Poznaniem
+    url: https://info112.pl/2026/11/10/ponad-170-kg-marihuany-ukryte-w-miale-weglowym-transport-z-hiszpanii-zatrzymany-pod-poznaniem/
+    publisher: info112.pl
+    date: 2026-11-10
+    language: pl
 open_questions:
   - RMF24 described the stop as a routine inspection, whereas InfoKostrzyn.pl reported that officers stopped the truck in the evening after receiving information that it might be carrying drugs.
   - Only the Polish driver's 5,000-zloty SENT fine was reported; no arrests, suspects or criminal charges over the marijuana have been announced.
@@ -137,20 +142,20 @@ open_questions:
 
 Officers of the National Revenue Administration and the Central Bureau of
 Investigation of the Police seized more than 170 kilograms of marijuana near
-Kostrzyn by Poznań. [@1,3,5,6] The drug was hidden beneath a layer of coal fines in a
-truck carrying cargo from Spain to Poland. [@1,3,4,6]
+Kostrzyn by Poznań. [@1,3,5,6,7] The drug was hidden beneath a layer of coal fines in a
+truck carrying cargo from Spain to Poland. [@1,3,4,6,7]
 
 Officers stopped the truck for a routine inspection and found that the coal
 fines shipment had not been entered in the SENT register, which is mandatory for
-such cargo. [@2,3,5] The stop took place on 23 October 2026. [@4,6] In a detailed check of the load they found suspicious big-bag
+such cargo. [@2,3,5] The stop took place on 23 October 2026. [@4,6,7] In a detailed check of the load they found suspicious big-bag
 sacks holding 170 hermetically sealed packages of greenish-brown plant material
-under the coal fines. [@2,3] Preliminary tests confirmed that the seized material
-was marijuana. [@2,3,4,5,6]
+under the coal fines. [@2,3,7] Preliminary tests confirmed that the seized material
+was marijuana. [@2,3,4,5,6,7]
 
 Krzysztof Wrześniowski, spokesperson for the Central Bureau of Investigation of
 the Police, said the way the packages were hidden was meant to make them hard to
 detect and required a thorough inspection of the cargo. [@2,3,6] The services
 estimated the black-market value of the marijuana at more than 3 million zlotys.
-[@2,3,4,5,6] The truck driver, a Polish citizen, was fined 5,000 zlotys for transporting
+[@2,3,4,5,6,7] The truck driver, a Polish citizen, was fined 5,000 zlotys for transporting
 goods without a SENT reference number. [@2,3,5,6] Further work in the case is being
 carried out by the Central Bureau of Investigation of the Police. [@2,3,5,6]
