@@ -1,0 +1,94 @@
+---
+code: 43AQQV
+added_at: "2026-11-11T15:37:08.753581Z"
+date: 2026-11-10
+country: md
+place: Grigore Vieru Boulevard, Chișinău
+coordinates: [47.031, 28.84147]
+precision: locality
+type: arrest
+also: [death]
+title: Chișinău driver who killed a pedestrian detained; cannabis among 4 drugs in his body
+summary: >-
+  Police in Chișinău held a 25-year-old man for 72 hours after his Ford struck two pedestrians on a crossing on Grigore Vieru Boulevard on 10 November 2026, killing a woman of about 30. Tests found amphetamine, methamphetamine, PVP and cannabis in his body, and he held no driving licence.
+figures:
+  arrested: 1
+  deaths: 1
+details:
+  agencies: [Inspectoratul General al Poliției]
+  agency_types: [police]
+  activity: [use]
+  setting: [vehicle]
+  case_stage: investigation
+  date_precision: exact
+  region: Chișinău
+data_sources:
+  details.activity: [4]
+  details.agencies: [2]
+  details.agency_types: [3]
+  details.case_stage: [1]
+  details.setting: [3]
+  figures.arrested: [4]
+  figures.deaths: [1]
+media:
+  - kind: photo
+    url: https://www.jurnal.md/ro/news/878d444520f50935/accidentul-tragic-de-pe-bulevardul-grigore-vieru-soferul-nu-avea-permis-si-a-fost-testat-pozitiv-la-patru-tipuri-de-droguri.html
+    media_url: https://static.cdn.jurnaltv.md/superdesk/20261111101128/23a063d6-2855-4237-8871-2dfddb740a51.jpg
+    publisher: Jurnal.md
+    caption: 'Police handout photo published with the report on the fatal crash on Grigore Vieru Boulevard in Chișinău. Photo: politia.md'
+  - kind: video
+    url: https://www.jurnal.md/ro/news/878d444520f50935/accidentul-tragic-de-pe-bulevardul-grigore-vieru-soferul-nu-avea-permis-si-a-fost-testat-pozitiv-la-patru-tipuri-de-droguri.html
+    media_url: https://static.cdn.jurnaltv.md/superdesk/20261111101120/544781354a194882d501670de1ffd90095339b264f5f14c68d904cbc0ed0f967.mov
+    publisher: Jurnal.md
+    caption: 'Police video published with the report on the crash on Grigore Vieru Boulevard in Chișinău. Video: politia.md'
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: d31fa4e110e6f65d31956a9229a98965
+tags: [moldova, chisinau, grigore-vieru, drug-driving, cannabis]
+sources:
+  - title: 'Accidentul tragic de pe bulevardul Grigore Vieru: Șoferul nu avea permis și a fost testat pozitiv la patru tipuri de droguri'
+    url: https://www.jurnal.md/ro/news/878d444520f50935/accidentul-tragic-de-pe-bulevardul-grigore-vieru-soferul-nu-avea-permis-si-a-fost-testat-pozitiv-la-patru-tipuri-de-droguri.html
+    publisher: Jurnal.md
+    date: 2026-11-11
+    language: ro
+  - title: Șoferul suspectat de accidentul mortal de pe bd. Gr. Vieru a fost testat pozitiv la patru droguri
+    url: https://tvrmoldova.md/article/6db9cf28d31e0861/soferul-suspectat-de-accidentul-mortal-de-pe-bd-g-vieru-testat-pozitiv-la-patru-droguri.html
+    publisher: TVR Moldova
+    date: 2026-11-11
+    language: ro
+  - title: VIDEO // Noi detalii despre șoferul care a lovit doi pietoni pe Grigore Vieru. A fost testat pozitiv la patru substanțe
+    url: https://omniapres.md/video-noi-detalii-despre-soferul-care-a-lovit-doi-pietoni-pe-grigore-vieru-a-fost-testat-pozitiv-la-patru-substante/
+    publisher: Omniapres
+    date: 2026-11-11
+    language: ro
+  - title: '(video) Drogat la volan și fără permis de conducere: Șoferul fugar care a lovit doi pietoni pe bd. Grigore Vieru, unul dintre care a murit, testat pozitiv la 4 tipuri de narcotice'
+    url: https://unimedia.info/ro/news/817360c5b9ea681a/video-drogat-la-volan-si-fara-permis-de-conducere-soferul-fugar-care-a-lovit-doi-pietoni-pe-bd-grigore-vieru-unul-dintre-care-a-murit-testat-pozitiv-la-4-tipuri-de-narcotice.html
+    publisher: UNIMEDIA
+    date: 2026-11-11
+    language: ro
+open_questions:
+  - The exact time of the crash on the evening of 10 November 2026 is not given, and the accounts do not say when the 72-hour detention began or when it was to end.
+  - No charge was reported; the accounts say the investigation was still under way, so no court outcome is known.
+  - The accounts do not say how much cannabis or of what kind was detected, only that the test was positive for cannabis alongside amphetamine, methamphetamine and PVP.
+  - The 21-year-old man's condition was reported as serious and in intensive care, but no later update on him was available in the opened sources.
+  - The four accounts reproduce the same Chișinău police statement, so the drug-test results rest on that single police account rather than on an independent forensic report.
+  - Reports say the woman was about 30 years old; no exact age was published.
+---
+
+A 25-year-old man driving a Ford hit two pedestrians on a crossing on Grigore
+Vieru Boulevard in Chișinău on the evening of 10 November 2026. [@1] A woman of
+about 30 died of her injuries in hospital, and a 21-year-old man was left in a
+serious condition in intensive care. [@1]
+
+The driver left the car and fled the scene, and was later located and detained
+by the Operational Patrol and Response Battalion. [@2] Police held him for 72
+hours while the Chișinău police continued their investigation. [@3]
+
+Officers noticed suspicious behaviour during the detention and took him to a
+medical institution to test his condition. [@4] The tests came back positive for
+amphetamine, methamphetamine, PVP, known as "salt", and cannabis. [@4] Police
+also established that the man does not hold a driving licence. [@2]
+
+The Ford had been rented by another person, who told police he had handed the
+car to the 25-year-old suspect. [@1]
+
