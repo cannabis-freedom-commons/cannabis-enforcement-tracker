@@ -47,6 +47,11 @@ media:
     media_url: https://www.radiolombardia.it/wp-content/uploads/2026/11/20261111-foto-arresto-droga-Sesto-696x392.png
     publisher: Radio Lombardia
     caption: 'Photo published with the report of the Sesto San Giovanni drug arrest. Credit: arresto droga Sesto'
+  - kind: photo
+    url: https://www.milanotoday.it/cronaca/spaccio-case-popolari-sesto.html
+    media_url: https://citynews-milanotoday.stgy.ovh/~media/horizontal-hi/27939156217113/droga-sequestrata-a-sesto-san-giovanni.jpg
+    publisher: MilanoToday
+    caption: 'Drugs seized from the man arrested in Sesto San Giovanni. Photo: MilanoToday'
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 25c136e77becd16258a168deb189e007
@@ -67,6 +72,11 @@ sources:
     publisher: MonzaToday
     date: 2026-11-11
     language: it
+  - title: 'Sesto San Giovanni: spaccio di droga, uomo con 2 chili di hashish'
+    url: https://www.milanotoday.it/cronaca/spaccio-case-popolari-sesto.html
+    publisher: MilanoToday
+    date: 2026-11-11
+    language: it
 open_questions:
   - The reports give no separate date for the stop; 11 November 2026 is the publication date, and both say the arrest was in recent days.
   - The hashish weight is given as about two kilograms and the marijuana as about 50 grams, so the 2.05 kg total is approximate.
@@ -77,19 +87,19 @@ open_questions:
 
 State Police arrested a 48-year-old Italian man with previous convictions in
 Sesto San Giovanni, in the Milan area, on a charge of holding drugs for dealing.
-[@1,3] Officers of the investigative squad at the Sesto San Giovanni police
+[@1,3,4] Officers of the investigative squad at the Sesto San Giovanni police
 station had been watching closely packed public-housing blocks that police said
-held a high concentration of people with criminal records. [@1] Police said the
+held a high concentration of people with criminal records. [@1,4] Police said the
 area was marked by a high concentration of people with criminal records. [@1]
-During those checks they found the man near his home. [@1,3]
+During those checks they found the man near his home. [@1,3,4]
 
 He was carrying about two kilograms of hashish, split into several packages
-inside an ordinary shopping bag, and a sum of cash. [@1,3] A later search of
-premises under his control found another 50 grams of marijuana. [@1,3] Police
+inside an ordinary shopping bag, and a sum of cash. [@1,3,4] A later search of
+premises under his control found another 50 grams of marijuana. [@1,3,4] Police
 seized the hashish, the marijuana and the cash. [@1]
 
 The file was sent to the public prosecutor's office at the Monza court for
 validation of the arrest. [@1,3] The judicial authority validated the arrest and,
 at the end of a fast-track hearing, ordered the suspect to report to the
-judicial police. [@1,3] The case remains in the preliminary investigation, and
+judicial police. [@1,3,4] The case remains in the preliminary investigation, and
 guilt can be established only by a final conviction. [@2]
