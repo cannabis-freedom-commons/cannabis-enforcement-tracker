@@ -61,6 +61,11 @@ sources:
     publisher: Caco da Rosa
     date: 2026-11-10
     language: pt
+  - title: Motorista é preso com armas, munições e maconha durante abordagem na BR-282, em Herval d’Oeste
+    url: https://ederluiz.com.vc/noticia/motorista-e-preso-com-armas-municoes-e-maconha-durante-abordagem-na-br-282-em-herval-doeste/
+    publisher: Éder Luiz
+    date: 2026-11-10
+    language: pt
 open_questions:
     - The driver is not identified by name or age, and no charge, custody decision or court outcome beyond referral to the Civil Police in Joaçaba is reported.
     - The 237.6 grams are given as one marijuana total in two tablets, with no laboratory confirmation reported.
@@ -69,15 +74,15 @@ open_questions:
 
 A driver was arrested on Monday afternoon, 9 November 2026, during a police stop
 on the BR-282 in Herval d'Oeste, in the Meio-Oeste region of Santa Catarina.
-[@1,2] The stop was recorded at about 16:45 at kilometre 379 of the highway. [@1,2]
-Officers stopped a Jeep Renegade registered in the municipality itself. [@1,2] The stop was carried out by the Federal Highway Police. [@2]
+[@1,2,3] The stop was recorded at about 16:45 at kilometre 379 of the highway. [@1,2,3]
+Officers stopped a Jeep Renegade registered in the municipality itself. [@1,2,3] The stop was carried out by the Federal Highway Police. [@2]
 
-On the rear seat they found two tablets of marijuana totalling 237.6 grams. [@1,2]
+On the rear seat they found two tablets of marijuana totalling 237.6 grams. [@1,2,3]
 The same search turned up a 9mm Glock pistol, a .38 Taurus revolver and 51
-rounds of ammunition for the two calibres. [@1,2] Officers also seized R$1,183.50
-in cash. [@1,2]
+rounds of ammunition for the two calibres. [@1,2,3] Officers also seized R$1,183.50
+in cash. [@1,2,3]
 
 The driver was arrested for illegal possession of a firearm of permitted use,
 and the officers also recorded the case as drug possession for personal use.
-[@1,2] The man and the seized material were taken to the Civil Police station in
-Joaçaba for legal procedures. [@1,2]
+[@1,2,3] The man and the seized material were taken to the Civil Police station in
+Joaçaba for legal procedures. [@1,2,3]
