@@ -86,25 +86,30 @@ sources:
     publisher: kulisy.net
     date: 2026-11-10
     language: pl
+  - title: Narkotyki zakopane w szklarni
+    url: https://zyciepabianic.pl/pl/473_na-sygnale/77053_narkotyki-zakopane-w-szklarni.html
+    publisher: zyciepabianic.pl
+    date: 2026-11-10
+    language: pl
 ---
 
 Officers of the hooligan-crime unit of the Łódź regional police headquarters
 arrested two men aged 45 and 46 over drug offences at a property in Konstantynów
 Łódzki on 4 November 2026. [@1,4] Plain-clothes officers watching the property saw
 a delivery van pull up at about 15:10 and its driver and another man load
-various items into it. [@1,3,4]
+various items into it. [@1,3,4,5]
 
 Police stopped the van and found a glass jar of dried plant material and a fold
 of white powder inside; the 46-year-old was taken to the Pabianice district
 police headquarters, where the substances were weighed and tested. [@1] The
 46-year-old was held and charged the next day with possessing drugs, an offence
-carrying up to three years in prison. [@1,3,4]
+carrying up to three years in prison. [@1,3,4,5]
 
 A second, plain-clothes team searched the property and found drugs stored in the
 house and outbuildings and further substances buried in soil inside two
 greenhouses. [@1,4] In total officers seized about a kilogram of mephedrone and
 marijuana, a combined figure that the statement does not split between the two
-drugs. [@1] The 45-year-old was held and charged on 5 November with possessing a
+drugs. [@1,5] The 45-year-old was held and charged on 5 November with possessing a
 significant quantity of drugs, which carries up to ten years in prison. [@1,4]
 
 The operation was carried out by the hooligan-crime unit of the Łódź regional
