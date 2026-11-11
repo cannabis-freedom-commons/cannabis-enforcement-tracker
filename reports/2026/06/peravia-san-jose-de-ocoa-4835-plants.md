@@ -66,18 +66,23 @@ sources:
     publisher: Diario Libre
     date: 2026-06-09
     language: es
+  - title: Incautación de marihuana en RD supera 13,800 libras - Diario Libre
+    url: https://www.diariolibre.com/actualidad/sucesos/2026/06/22/incautacion-de-marihuana-en-rd-supera-13800-libras/3575161
+    publisher: Diario Libre
+    date: 2026-06-22
+    language: es
 open_questions:
-  - The exact calendar day in February of the 1,835-plant Montería, Baní operation was not published.
-  - No total weight for the 4,835 plants was published; the El Pinar plants were sent to INACIF for counting and weighing and the result was still pending.
-  - No names, charges or court outcome were reported for the two Haitians and one Dominican held in San José de Ocoa.
-  - Sources give the campaign total as at least 4,835 plants; Infobae rounds it to more than 4,800.
+    - The exact calendar day in February of the 1,835-plant Montería, Baní operation was not published.
+    - No total weight for the 4,835 plants was published; the El Pinar plants were sent to INACIF for counting and weighing and the result was still pending.
+    - No names or charges were reported for the two Haitians and one Dominican held in San José de Ocoa.
+    - Sources give the campaign total as at least 4,835 plants; Infobae rounds it to more than 4,800.
 ---
 
 Dominican drug agents arrested two Haitian citizens and one Dominican during a
 raid on a farm in the El Pinar municipal district of San José de Ocoa. [@1] The
 detainees remained under judicial custody in San José de Ocoa while
 investigators searched for other members of the alleged cultivation and
-trafficking network. [@1] The National Directorate for Drug Control carried out
+trafficking network. [@1] The DNCD later said the three people arrested in that first El Pinar case were under preventive detention. [@3] The National Directorate for Drug Control carried out
 the El Pinar intervention with the Public Ministry, the Dominican Air Force and
 state intelligence agencies after intelligence reports identified the farm as an
 illegal growing site. [@1] Diario Libre dated that intervention to the night of
@@ -101,4 +106,3 @@ National Institute of Forensic Sciences to count and analyse the quantity and
 total weight of the destroyed crop. [@1] The Public Ministry and the DNCD kept a
 presence in the area to eradicate remaining crops and collect evidence for the
 ongoing judicial proceedings. [@1]
-
