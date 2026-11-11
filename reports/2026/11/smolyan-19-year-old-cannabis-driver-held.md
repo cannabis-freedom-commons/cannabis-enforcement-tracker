@@ -48,15 +48,20 @@ sources:
     publisher: Haskovo.Net
     date: 2026-11-11
     language: bg
+  - title: Шофьор с над 3,3 промила алкохол и младеж под въздействието на канабис са задържани в Смолянско
+    url: https://eurocom.bg/2026/11/11/shofyor-s-nad-3-3-promila-alkohol-i-mladezh-pod-vazdeystvieto-na-kanabis-sa-zadarzhani-v-smolyansko/
+    publisher: Евроком
+    date: 2026-11-11
+    language: bg
 ---
 
 In Smolyan, police officers found a 19-year-old youth behind the wheel of an
 Audi A3 passenger car on Kosta Avramikov Street at about 14:20 on 10 November
-2026. [@1,2,3] Officers administered a test for the use of narcotic substances to
-the driver during the roadside check. [@1,3] The test returned a positive result
-for cannabis. [@1,2,3]
+2026. [@1,2,3,4] Officers administered a test for the use of narcotic substances to
+the driver during the roadside check. [@1,3,4] The test returned a positive result
+for cannabis. [@1,2,3,4]
 
-The driver was detained in police custody for up to 24 hours. [@1,2,3] Police opened
-fast-track proceedings in the case. [@1,2,3]
+The driver was detained in police custody for up to 24 hours. [@1,2,3,4] Police opened
+fast-track proceedings in the case. [@1,2,3,4]
 
-Police said the Smolyan cannabis-driving case dated from 10 November 2026. [@1,3]
+Police said the Smolyan cannabis-driving case dated from 10 November 2026. [@1,3,4]
