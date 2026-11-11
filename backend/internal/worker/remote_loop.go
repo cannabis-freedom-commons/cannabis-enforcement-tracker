@@ -173,6 +173,10 @@ func syncRepo(ctx context.Context, repo, follow string) error {
 	ref := "origin/" + follow
 	if _, err := gitOutput(ctx, repo, "rev-parse", "--verify", "--quiet", "refs/remotes/"+ref); err != nil {
 		ref = "origin/" + mainBranch
+	} else if gitQuiet(ctx, repo, time.Minute, "merge-base", "--is-ancestor", ref, "origin/"+mainBranch) == nil {
+		// the branch holds nothing main lacks (the backend has not realigned it since main moved on,
+		// e.g. while it is down): main, so research does not see reports main has removed or fixed
+		ref = "origin/" + mainBranch
 	}
 	return gitQuiet(ctx, repo, time.Minute, "reset", "--quiet", "--hard", ref)
 }
