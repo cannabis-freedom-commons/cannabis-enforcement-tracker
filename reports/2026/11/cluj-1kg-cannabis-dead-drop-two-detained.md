@@ -67,33 +67,31 @@ sources:
     publisher: Monitorul de Cluj
     date: 2026-11-10
     language: ro
-open_questions:
-  - Whether the rights-and-freedoms judge at the Cluj Tribunal granted the 30-day preventive-arrest request, ordered another preventive measure, or released the suspects had not been reported.
-  - The two detained men were not named, and no formal indictment, plea, or trial outcome has been reported.
-  - The official statements specify neither the exact municipality or site in Cluj County where the dead drop and in-flagrante pickup occurred nor the exact date between 8 and 10 November 2026 of the pickup.
-  - Although the 8 November 2026 dead-drop sale involved about one kilogram of cannabis and police released a photograph showing packaged cannabis beside euro banknotes, the statements do not state whether any cannabis was seized or report a weight for the 2024 sales, so no seized weight is recorded.
-  - The 4,100 euros recovered at the flagrant pickup and the 18,000 lei per kilogram cited for 2024 are transaction prices rather than an official street-value estimate or confiscation total, and are omitted from value and cash figures.
-  - The reporting rests on Romanian police and DIICOT press statements reproduced by local outlets rather than independent reporting or court records.
+  - title: Captură de proporții de droguri la Cluj! Doi bărbați sunt cercetați după o tranzacție de aproape un kilogram de canabis
+    url: https://foaiatransilvana.ro/captura-de-proportii-de-droguri-la-cluj-doi-barbati-sunt-cercetati-dupa-o-tranzactie-de-aproape-un-kilogram-de-canabis/
+    publisher: Foaia Transilvana
+    date: 2026-11-10
+    language: ro
 ---
 
 On 10 November 2026, prosecutors of DIICOT's Cluj Territorial Service, Romania's
 Directorate for Investigating Organised Crime and Terrorism, ordered the
-detention of two defendants investigated for risk-drug trafficking. [@1] The two
-detained men are aged 25 and 30. [@1] Officers of the Cluj-Napoca Organised
+detention of two defendants investigated for risk-drug trafficking. [@1,6] The two
+detained men are aged 25 and 30. [@1,5] Officers of the Cluj-Napoca Organised
 Crime Brigade documented the suspects' alleged criminal activity together with
 DIICOT Cluj prosecutors. [@2]
 
 Evidence gathered in the investigation indicated that during 2024 the
 25-year-old defendant repeatedly procured, held and sold cannabis for 18,000 lei
-per kilogram. [@1] On 8 November 2026, he allegedly sold about one kilogram of
-cannabis via the 30-year-old co-defendant using the dead-drop method. [@2] In a
+per kilogram. [@1,6] On 8 November 2026, he allegedly sold about one kilogram of
+cannabis via the 30-year-old co-defendant using the dead-drop method. [@2,6] In a
 dead-drop transaction, drugs are left at an agreed location so that seller and
 buyer do not meet directly. [@3] The 30-year-old man was subsequently caught in
-the act while picking up 4,100 euros, the payment for the traded cannabis. [@2]
+the act while picking up 4,100 euros, the payment for the traded cannabis. [@2,6]
 
 On Tuesday, 10 November, prosecutors petitioned the rights-and-freedoms judge at
 the Cluj Tribunal to place both defendants in preventive arrest for 30 days.
-[@5] At the time of the official announcement, the court had not yet ruled on
+[@5,6] At the time of the official announcement, the court had not yet ruled on
 the preventive-arrest request and the two men remained in prosecutorial
 detention, which under Romanian law may not exceed 24 hours. [@3] Under Romanian
 law, cannabis is classified as a risk drug, and trafficking in risk drugs
@@ -103,4 +101,3 @@ Inspectorate, together with officers of the Cluj-Napoca Regional Transport
 Police Section, supported the operation. [@2] Both suspects retain all
 procedural rights and the presumption of innocence throughout the criminal
 proceedings. [@2]
-
