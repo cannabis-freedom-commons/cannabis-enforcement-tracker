@@ -81,30 +81,28 @@ sources:
     publisher: El Español
     date: 2026-11-10
     language: es
-open_questions:
-  - No exact day is given for the October raid and arrest, so 10 November 2026, the publication date, is used as the incident date.
-  - The plantation figure is stated as more than 1,000 plants, recorded here as 1,000 plants.
-  - The weight is stated as nearly 73 kilos, recorded here as 73 kilos.
-  - No court outcome beyond provisional prison without bail was reported.
-  - Whether the announced further arrests occurred is not known.
-  - The account rests on a single opened source reporting the Guardia Civil statement, with no second outlet found.
+  - title: 'Desmantelan un cultivo de marihuana de más de 1.000 plantas en un pueblo de Castilla-La Mancha: hay un detenido - El Digital de Albacete'
+    url: https://www.eldigitaldealbacete.com/2026/11/10/desmantelan-un-cultivo-de-marihuana-de-mas-de-1-000-plantas-en-un-pueblo-de-castilla-la-mancha-hay-un-detenido/
+    publisher: El Digital de Albacete
+    date: 2026-11-10
+    language: es
 ---
 
 In Operation TABACU II, the Guardia Civil detained a 37-year-old man allegedly
-put in charge of caring for the cannabis crop in Mira, Cuenca. [@1,2] The
+put in charge of caring for the cannabis crop in Mira, Cuenca. [@1,2,3] The
 exploitation phase ran during October with officers from the Judicial Police
 Unit and the ROCA team of the Cuenca company. [@1] During the operation,
 officers surprised and detained the man who allegedly looked after the crop.
 [@1] He was accused of a presumed offence against public health. [@1] After
 being brought before the judiciary, the duty court in Cuenca ordered his remand
-in provisional prison, communicated and without bail. [@1,2] The Guardia Civil
-said further arrests in connection with the case were not ruled out. [@1]
+in provisional prison, communicated and without bail. [@1,2,3] The Guardia Civil
+said further arrests in connection with the case were not ruled out. [@1,3]
 
 The Guardia Civil dismantled an extensive marijuana plantation in a
-hard-to-access natural area in the municipality of Mira, Cuenca. [@1,2] The
+hard-to-access natural area in the municipality of Mira, Cuenca. [@1,2,3] The
 plantation would have held more than 1,000 marijuana plants that had already
-been cut and were in different treatment phases for later distribution. [@1,2] The
-operation seized nearly 73 kilos of cannabis inflorescences. [@1,2]
+been cut and were in different treatment phases for later distribution. [@1,2,3] The
+operation seized nearly 73 kilos of cannabis inflorescences. [@1,2,3]
 
 Investigators located rugged terrain that had been prepared and cleared in
 different areas to grow the crop. [@1] Officers found two separate areas, one
