@@ -42,26 +42,30 @@ sources:
     publisher: Rede da Notícia
     date: 2026-11-10
     language: pt
+  - title: Força Tática apreende mais de 6 quilos de maconha durante ação policial
+    url: https://lapadalapada.com.br/forca-tatica-apreende-mais-de-6-quilos-de-maconha-durante-acao-policial/
+    publisher: Lapada Lapada
+    date: 2026-11-10
+    language: pt
 open_questions:
-  - The 6.4 kg weight is reported as approximate, with no laboratory confirmation or breakdown between the six tablets and the single portion.
-  - No arrest, suspect identity, charge or court outcome was reported; the account says only that the Civil Police will investigate.
-  - Only one account of this seizure could be opened, attributed to the Military Police, with no second source to confirm the details.
+    - The 6.4 kg weight is reported as approximate, with no laboratory confirmation or breakdown between the six tablets and the single portion.
+    - No arrest, suspect identity, charge or court outcome was reported.
+    - One account says the seized material was later sent to a Civil Police station; another reports only that it was taken to the Central de Flagrantes and that legal steps were taken there.
 ---
 
 The Tactical Force seized approximately 6.4 kilograms of cannabis on the night
 of Monday 9 November 2026 in the Wilmar Peres neighbourhood of Barra do Garças.
-[@1] According to the Military Police account cited in the report, the Tactical
+[@1,2] The seizure was carried out by military police of the 29ª Companhia Independente de Força Tática, attached to the 5º Comando Regional of the Mato Grosso Military Police. [@2] According to the Military Police account cited in the report, the Tactical
 Force team had received prior information about possible drug selling in that
-area and began checks to verify the report. [@1]
+area and began checks to verify the report. [@1,2]
 
 During the same operation in Wilmar Peres, officers located six tablets and one
-additional portion of a substance described as being similar to cannabis. [@1]
+additional portion of a substance described as being similar to cannabis. [@1,2]
 In addition to the cannabis, officers seized two precision scales, plastic
 packaging and a roll of plastic film, which the account describes as materials
-that could be used to prepare and store drugs. [@1]
+that could be used to prepare and store drugs. [@1,2]
 
 All the seized cannabis, scales, packaging and film were taken first to the
 Central de Flagrantes and afterwards to the Civil Police station that will
 investigate the case. [@1] The account names no suspect and reports no arrest,
 charge or court outcome beyond the referral for investigation. [@1]
-
