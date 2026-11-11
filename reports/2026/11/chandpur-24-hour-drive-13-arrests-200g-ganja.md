@@ -44,33 +44,37 @@ sources:
     publisher: Chandpur Khobor
     date: 2026-11-11
     language: bn
+  - title: চাঁদপুরে ২৪ ঘণ্টায় গ্রেপ্তার ৪৯, আটক ৩৭ কিশোর
+    url: https://www.ajkerpatrika.com/amp/bangladesh/chandpur/ajpjxv501fb28
+    publisher: Ajker Patrika
+    date: 2026-11-11
+    language: bn
 open_questions:
-  - No names, ages or exact arrest sites were published for the 13 anti-drug arrestees beyond the station-level breakdown.
-  - No formal charges, case numbers or court outcomes were reported beyond police saying legal action was taken.
-  - Yaba is a methamphetamine tablet and its 36 pieces are excluded from the cannabis figures.
-  - Both outlets reproduce the same district police media-cell release, so the account is not independently corroborated.
-  - No laboratory confirmation or street value was published for the 200 grams of ganja.
-  - It is not reported which of the 13 anti-drug arrestees beyond the Hajiganj seizure faced ganja-specific allegations.
+    - No names, ages or exact arrest sites were published for the 13 anti-drug arrestees beyond the station-level breakdown.
+    - No formal charges, case numbers or court outcomes were reported beyond police saying legal action was taken.
+    - Yaba is a methamphetamine tablet and its 36 pieces are excluded from the cannabis figures.
+    - All reporting reproduces the same district police media-cell release, leaving the account without independent corroboration.
+    - No laboratory confirmation or street value was published for the 200 grams of ganja.
+    - It is not reported which of the 13 anti-drug arrestees beyond the Hajiganj seizure faced ganja-specific allegations.
 ---
 
 Chandpur district police arrested 49 people in a 24-hour special drive across
-the district's police stations on 10 November 2026. [@1] Fifteen of those held
+the district's police stations on 10 November 2026. [@1,3] Fifteen of those held
 were leaders and activists of the banned Awami League and its associate
-organisations. [@2] Thirteen people were arrested in the anti-drug part of the
-drive. [@1]
+organisations. [@2,3] Thirteen people were arrested in the anti-drug part of the
+drive. [@1,3]
 
 Officers recovered 200 grams of ganja from one person in Hajiganj, alongside 36
-yaba tablets recovered across the district. [@1] In the yaba recoveries,
+yaba tablets recovered across the district. [@1,3] In the yaba recoveries,
 Faridganj police seized 23 pieces from three people, Matlab Dakshin police
 seized 10 pieces from two people, and Shahrasti police seized three pieces from
-one person. [@1] Chandpur Sadar Model police arrested six drug users with no
-seizure reported for them. [@1]
+one person. [@1,3] Chandpur Sadar Model police arrested six drug users with no
+seizure reported for them. [@1,3]
 
 Police also detained 37 teenagers in an anti-teen-gang drive across seven police
-stations. [@1] Thirty-five of the detained teenagers were handed to their
-families after checks, with legal action taken against the remaining two. [@2]
+stations. [@1,3] Thirty-five of the detained teenagers were handed to their
+families after checks, with legal action taken against the remaining two. [@2,3]
 The drive ran on the instructions of Police Superintendent Md Mizanur Rahman,
 and the figures were released on the morning of 11 November by the
 superintendent's media cell with legal action reported against those arrested.
-[@1]
-
+[@1,3]
