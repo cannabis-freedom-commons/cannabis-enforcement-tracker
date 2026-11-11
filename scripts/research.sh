@@ -45,8 +45,8 @@ stamp = dt.datetime.now().strftime("%Y%m%d-%H%M%S-%f")
 log_dir = log_base / ("builds" if build_only else "repairs" if fix_only else years) / stamp
 log_dir.mkdir(parents=True, exist_ok=False)
 
-# Only stage report Markdown and report images; never stage source code, logs, or .git changes.
-scopes = ["reports", "src/assets/reports"]
+# Only stage report Markdown, report images and their registry entries; never stage source code, logs, or .git changes.
+scopes = ["reports", "src/assets/reports", "public/media", "src/data/media.json"]
 stop_requested = False
 print_lock = threading.Lock()
 
@@ -389,7 +389,8 @@ def set_new_report_provenance(paths, tracked_before, out):
 def safe_report_path(relative):
     if not isinstance(relative, str) or relative.startswith("/") or "\\" in relative:
         raise RuntimeError(f"Invalid report path in manifest: {relative!r}")
-    if not (relative.startswith("reports/") or relative.startswith("src/assets/reports/")):
+    if not (relative.startswith("reports/") or relative.startswith("src/assets/reports/")
+            or relative.startswith("public/media/") or relative == "src/data/media.json"):
         raise RuntimeError(f"Manifest contains non-report path: {relative!r}")
     initial = repo / relative
     path = initial.resolve()
