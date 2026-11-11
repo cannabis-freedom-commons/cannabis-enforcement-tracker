@@ -80,6 +80,11 @@ sources:
     publisher: Diário da Amazônia
     date: 2026-11-10
     language: pt
+  - title: 'Brasil: Decomisan embarcación con más de 1.000 kilos de marihuana procedente de Paraguay'
+    url: https://www.ultimahora.com/brasil-decomisan-embarcacion-con-mas-de-1-000-kilos-de-marihuana-procedente-de-paraguay
+    publisher: Última Hora
+    date: 2026-11-11
+    language: es
 open_questions:
     - No suspects were identified, arrested or charged; the individuals fled into woodland and had not been located.
     - Federal Police, Rádio Educadora and Rádio Cultura Foz report approximately 60 bales of pressed marijuana, whereas the Paraná Military Police report 57 bales; all accounts report the same 1,071-kilogram total.
@@ -90,10 +95,10 @@ open_questions:
 
 Federal Police and Paraná Military Police officers seized 1,071 kilograms of
 marijuana in a rural area of Santa Helena, western Paraná, on the night of
-Monday 9 November 2026. [@1,2,3,4,6] Paraná Military Police said teams from its Border Police Battalion (BPFRON) and the Federal Police's Special Maritime Police Unit (NEPOM) carried out the operation during an inspection near Porto da Curva, in the Vila Celeste district. [@5] Suspects on the riverbank fled into woodland when
-the security forces closed in and could not be found. [@1,3] Federal Police teams
+Monday 9 November 2026. [@1,2,3,4,6] The Brazilian surveillance area lay across the Paraná River from Puerto Indio in Mbaracayú district, Alto Paraná, Paraguay. [@7] Paraná Military Police said teams from its Border Police Battalion (BPFRON) and the Federal Police's Special Maritime Police Unit (NEPOM) carried out the operation during an inspection near Porto da Curva, in the Vila Celeste district. [@5] Suspects on the riverbank fled into woodland when
+the security forces closed in and could not be found. [@1,3,7] Federal Police teams
 conducting border patrol duties spotted a craft travelling at high speed from
-Paraguay towards the Brazilian shore at about 22:00. [@1] The roughly five-metre boat had left Paraguay and was approaching a clandestine port on Brazilian territory, Paraná Military Police said. [@5]
+Paraguay towards the Brazilian shore at about 22:00. [@1,7] The roughly five-metre boat had left Paraguay and was approaching a clandestine port on Brazilian territory, Paraná Military Police said. [@5]
 
 Following the suspicious movement, a boat-borne police unit was deployed to
 intercept the incoming craft. [@1,2,4,6] As officers approached the spot where the
@@ -101,7 +106,7 @@ vessel had moored, individuals on the bank and along a forest track fled,
 abandoning the vessel. [@1]
 
 A search of the craft uncovered approximately 60 bales of pressed marijuana,
-amounting to 1,071 kilograms of the drug. [@1,2,3,4,6] Paraná Military Police estimated the seizure represented a loss of R$2.2 million. [@5] Police also seized the fibre
+amounting to 1,071 kilograms of the drug. [@1,2,3,4,6,7] Paraná Military Police estimated the seizure represented a loss of R$2.2 million. [@5] Police also seized the fibre
 vessel itself, which was equipped with a 200-horsepower outboard motor. [@1,5] The
 seized marijuana and the boat were delivered to the Federal Police station in
-Foz do Iguaçu for legal procedures. [@1,2,3,4,5,6]
+Foz do Iguaçu for legal procedures. [@1,2,3,4,5,6,7]
