@@ -52,26 +52,27 @@ sources:
     publisher: La Stampa
     date: 2026-11-11
     language: it
-open_questions:
-  - The reports give no separate date for the roadside check; 11 November 2026 is their publication date and is used as the incident date.
-  - No court outcome beyond transfer to Verbania prison was reported.
+  - title: 'Baveno, fermato con oltre un chilo di hashish e 105 grammi di cocaina: arrestato un corriere'
+    url: https://corrieredinovara.it/cronaca/baveno-fermato-con-oltre-un-chilo-di-hashish-e-105-grammi-di-cocaina-arrestato-un-corriere/
+    publisher: Corriere di Novara
+    date: 2026-11-11
+    language: it
 ---
 
 Guardia di Finanza officers arrested an Italian citizen who had travelled by car
-from the Milan hinterland after a check near the motorway exit at Baveno. [@1]
+from the Milan hinterland after a check near the motorway exit at Baveno. [@1,3]
 Officers from the Omegna station, with the Verbania anti-drug dog unit, searched
 the man and car after the dog Clay paid attention to the vehicle and the man
-behaved suspiciously. [@1] The man was arrested in flagrante and taken to the
-prison at Verbania. [@2]
+behaved suspiciously. [@1,3] The man was arrested in flagrante and taken to the
+prison at Verbania. [@2,3]
 
 Officers found 1,036.85 grams of hashish, divided into ten packs, hidden in a
-black plastic bag under the driver's seat. [@2] Officers also found a packet
+black plastic bag under the driver's seat. [@2,3] Officers also found a packet
 with 105.13 grams of cocaine in the man's jacket pocket, which is not counted in
-the cannabis total. [@2] A later search of the man's home in the province of
-Milan found no further drugs. [@2]
+the cannabis total. [@2,3] A later search of the man's home in the province of
+Milan found no further drugs. [@2,3]
 
 The Guardia di Finanza said the seized drugs were probably intended to supply
 dealing in the Verbania area. [@2] The duty prosecutor at the Verbania public
 prosecutor's office was informed and ordered the consequent steps, with the man
 transferred to Verbania prison. [@2]
-
