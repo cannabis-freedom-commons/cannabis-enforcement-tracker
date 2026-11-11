@@ -67,6 +67,11 @@ sources:
     publisher: Folha Nacional
     date: 2026-11-10
     language: pt
+  - title: PJ deteve dois homens no aeroporto de Lisboa com 34 quilos de folha de canábis
+    url: https://www.cmjornal.pt/portugal/detalhe/pj-deteve-dois-homens-no-aeroporto-de-lisboa-com-34-quilos-de-folha-de-canabis
+    publisher: Correio da Manhã
+    date: 2026-11-10
+    language: pt
 open_questions:
     - No separate date is given for the operation, so 10 November 2026, the publication date, is used as the incident date.
     - The detainees are described as Europeans aged 34, but the exact Asian country of origin of the cannabis is not given.
@@ -75,12 +80,12 @@ open_questions:
 
 Portugal’s Judicial Police, through its National Unit to Combat Drug
 Trafficking, ran a police operation at Humberto Delgado airport in Lisbon and
-detained two men found with cannabis. [@1,4] Both detainees are aged 34. [@3,5] Both detainees are Europeans who were placed in pretrial detention after a first interrogation. [@3,4,5] The cannabis came from a Southeast
+detained two men found with cannabis. [@1,4] Both detainees are aged 34. [@3,5] Both detainees are Europeans who were placed in pretrial detention after a first interrogation. [@3,4,5,6] The cannabis came from a Southeast
 Asian country and was carried in the luggage of one of the detainees to Lisbon.
 [@1,4] The second detainee was waiting in the airport arrivals area to receive the
-passenger when Judicial Police officers detained him. [@1,3,4,5]
+passenger when Judicial Police officers detained him. [@1,3,4,5,6]
 
-Officers seized 34 kilograms of cannabis leaves in the operation. [@1,3,4,5] A second
+Officers seized 34 kilograms of cannabis leaves in the operation. [@1,3,4,5,6] A second
 outlet gives the same account, describing the two detainees as foreign citizens
 held with 34 kilograms of cannabis leaves. [@2] Police said the detentions fall
 within the Judicial Police’s work to investigate, prevent and punish drug
@@ -93,4 +98,4 @@ ordered both to remain in pretrial detention pending further proceedings. [@1,4]
 The Judicial Police investigation continues to establish the full extent of the
 criminal network, identify other possible participants and determine the
 destination of the seized drugs, with the inquiry led by Lisbon’s DIAP
-prosecution office. [@1,3,4,5]
+prosecution office. [@1,3,4,5,6]
