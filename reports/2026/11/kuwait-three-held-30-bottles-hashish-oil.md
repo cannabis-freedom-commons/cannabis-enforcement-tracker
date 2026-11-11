@@ -74,30 +74,26 @@ sources:
     publisher: Sarmad
     date: 2026-11-10
     language: ar
-open_questions:
-  - The Interior Ministry announced the three separate cases together, so the cannabis and other seizures are published as aggregate totals rather than broken down by case.
-  - The statement gave no weight or volume for the 30 bottles of hashish oil or for the piece of hashish, so no cannabis weight is recorded in figures.
-  - The 3,001 grams of shabu, 24 'chemical'-soaked sheets and three 'chemical' e-cigarettes are non-cannabis substances excluded from the cannabis figures.
-  - No date was given for the individual arrests; 10 November 2026 is the date of the ministry statement and of publication.
-  - The statement did not disclose the suspects' names, nationalities, ages, or where in Kuwait the arrests and searches took place.
-  - The suspects were referred to the competent authority for legal proceedings, and no court hearings, formal charges or legal representation were reported.
-  - Al Watan's headline mentions liquor alongside the narcotics, but neither its body text nor the ministry's inventory lists any seized alcohol.
+  - title: Three suspects arrested in separate drug trafficking cases - Times Kuwait
+    url: https://timeskuwait.com/three-suspects-arrested-in-separate-drug-trafficking-cases/
+    publisher: Times Kuwait
+    date: 2026-11-11
 ---
 
 Kuwait's General Department for Drug Control in the Criminal Security Sector
 arrested three suspects across three separate cases on suspicion of possessing
-narcotics and psychotropic substances with intent to traffic. [@1,3,4,5,6] The Interior
+narcotics and psychotropic substances with intent to traffic. [@1,3,4,5,6,7] The Interior
 Ministry announced the arrests in a statement on Tuesday evening as part of its
 ongoing drug enforcement operations. [@2] In one of the cases, the General
 Department of Rescue Police detained a suspect and transferred him to
-drug-control officers. [@1,3,5,6] Follow-up investigations led officers to search that
+drug-control officers. [@1,3,5,6,7] Follow-up investigations led officers to search that
 suspect's residence, where they discovered an additional quantity of narcotics
-and a sensitive scale. [@1,3,5,6] Authorities referred the three suspects and the
+and a sensitive scale. [@1,3,5,6,7] Authorities referred the three suspects and the
 seized items to the competent authority to take legal measures against them.
-[@1,3,5,6]
+[@1,3,5,6,7]
 
 The cannabis items seized during the operations consisted of 30 bottles
-containing hashish oil and one piece of hashish. [@1,3,4,5] Alongside the cannabis,
+containing hashish oil and one piece of hashish. [@1,3,4,5,7] Alongside the cannabis,
 the operations yielded 3,001 grams of shabu, a synthetic stimulant that is not
 cannabis. [@1,3,5] Officers also confiscated 24 sheets of paper soaked in
 'chemical', three electronic cigarettes containing 'chemical' and four sensitive
