@@ -56,6 +56,11 @@ sources:
     publisher: Rupali Bangladesh
     date: 2026-11-10
     language: bn
+  - title: গেন্ডারিয়া-জুরাইনের মাদকস্পটে অভিযান, গ্রেফতার ১৫
+    url: https://dhakamail.com/national/342246
+    publisher: Dhaka Mail
+    date: 2026-11-11
+    language: bn
 open_questions:
   - The lengths of the jail terms and the amounts of the fines were not published.
   - The identities of the 15 people arrested and sentenced were not published.
@@ -66,20 +71,19 @@ open_questions:
 
 On 10 November 2026, a team of the Department of Narcotics Control (DNC)
 detained 15 people while they were using drugs during raids on drug spots in
-Gandaria and Jurain in the capital Dhaka. [@1] An executive magistrate sitting
+Gandaria and Jurain in the capital Dhaka. [@1,3] An executive magistrate sitting
 as a mobile court then gave those arrested jail terms of various lengths and
-fines. [@1]
+fines. [@1,3]
 
 Around 1:30 pm the DNC team raided Karaipatti, Munshirtek and the Dayaganj
 rail-crossing area in Gandaria and arrested 12 people who were using drugs
 there. [@1] The same team then raided the Julhas spot and the Kana Jabbar spot
 in Jurain and arrested three more people who were using drugs. [@1] Officers
 recovered a total of 150 grams of ganja, meaning cannabis, from those arrested.
-[@1]
+[@1,3]
 
 DNC Dhaka Metro (South) deputy director Anwar Hossain confirmed the operation on
 Tuesday 10 November. [@1] Rupali Bangladesh puts the Gandaria raids at around
 3:30 pm and names the same three Gandaria locations. [@2] Executive magistrate
 Milton Biswas and deputy director Anwar Hossain led the drive, with an SRB-10
 team assisting. [@2]
-
