@@ -46,16 +46,20 @@ sources:
     archived: https://web.archive.org/web/20260121104044/https://fijiglobalnews.com/fijis-drug-bust-31000-marijuana-plants-seized-in-major-operation/
     publisher: FijiGlobalNews
     date: 2025-03-23
+  - title: Police uproot over 31,000 Marijuana plants in Kadavu
+    url: https://www.fbcnews.com.fj/news/police-uproot-over-31000-marijuana-plants-in-kadavu/
+    publisher: FBC News
+    date: 2025-03-23
 ---
 
 The Fiji Police Force uprooted more than 31,000 marijuana plants from farms in
 the tikina of Ono on Kadavu island in the week before 23 March 2025, as part of
-Operation Sasamaki. [@1,2]
+Operation Sasamaki. [@1,2,3]
 
 Police Commissioner Rusiate Tudravu said investigators were pursuing leads to
-identify the owners of the farms. [@1,2] He said the Kadavu-based team's
+identify the owners of the farms. [@1,2,3] He said the Kadavu-based team's
 momentum had already produced seizures from a number of other farms together
-with arrests of suspects. [@1]
+with arrests of suspects. [@1,3]
 
 Tudravu praised the morale of the officers on the operation and called for
 community support, saying police would persist with the campaign for the sake
