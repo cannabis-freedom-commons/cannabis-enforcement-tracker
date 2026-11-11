@@ -2,7 +2,7 @@
 added_at_source: git
 added_at: "2026-10-29T02:33:10.000Z"
 code: HM4N3A
-date: 2026-11-09
+date: 2026-11-10
 country: mu
 place: Off Baie-du-Tombeau
 coordinates: [-20.119, 57.499]
@@ -123,6 +123,21 @@ sources:
     publisher: Defimedia
     date: 2026-11-09
     language: fr
+  - title: 'Trafic de drogue sur l’axe Thaïlande-Maurice : la police scientifique passe au crible le yacht Dreamer'
+    url: https://defimedia.info/trafic-de-drogue-sur-laxe-thailande-maurice-la-police-scientifique-passe-au-crible-le-yacht-dreamer
+    publisher: Defimedia
+    date: 2026-11-11
+    language: fr
+  - title: 'Trafic présumé de cannabis : le yacht Dreamer soumis à des examens scientifiques'
+    url: https://defimedia.info/trafic-presume-de-cannabis-le-yacht-dreamer-soumis-des-examens-scientifiques
+    publisher: Defimedia
+    date: 2026-11-10
+    language: fr
+  - title: 'DROGUE — Axe Thaïlande/Maurice : Le Dreamer au peigne fin par la police scientifique'
+    url: https://www.lemauricien.com/le-mauricien/drogue-axe-thailande-maurice-le-dreamer-au-peigne-fin-par-la-police-scientifique/722981/
+    publisher: Le Mauricien
+    date: 2026-11-11
+    language: fr
 media:
   - kind: photo
     url: https://defimedia.info/importation-de-15-tonne-de-cannabis-le-constable-rungilal-de-la-ncg-soupconne-detre-de-meche-avec
@@ -159,28 +174,6 @@ media:
     media_url: https://media.defimedia.info/sites/default/files/styles/wide/public/2026-11/051126_speedboat.jpg.avif?itok=KoxWvv1n
     publisher: Defimedia
     caption: The speedboat moored under National Coast Guard surveillance in the north of Mauritius.
-open_questions:
-  - Police put the number arrested at 14 in their 29 October statement, while Le Défi reported a second coast guard arrest that brought the total to 15; L'Express and Le Mauricien, published the same day, still said 14.
-  - Le Mauricien reported that no drugs were found aboard the yacht and that the cargo had already been landed; the 1.5-tonne figure is the amount investigators believe was imported, not a consignment recovered from the vessel.
-  - An earlier account said about 2.7 million in euros and Thai baht were seized; the later reports give 28,330 baht, 1,865 Singapore dollars and 38,900 euros, worth just over Rs 2 million.
-  - An earlier account dates the search to 23 October; Le Défi and L'Express say officers first boarded the yacht on 21 October, which may describe separate boardings.
-  - Le Mauricien spells the coast guard officer's surname Rangilal, while Le Défi and its headline use Rungilal.
-  - Investigators had not identified the intended recipients of the cargo or established its final destination, and no trial outcome beyond the remand until 5 November was reported.
-  - The identity of the alleged intermediary and whether confidential coast-guard operational information was actually passed to traffickers remained unresolved.
-  - L'Express's account of the suspected organiser, and of three yacht arrivals in 2026, rests on information it says is still to be verified; it names neither the Mauritian nor the suspected drug baron it says was recently arrested.
-  - L'Express reports three yacht arrivals carrying several hundred kilos each, while the existing account describes two suspected deliveries of just over a tonne; the two accounts have not been reconciled.
-  - No arrest or charge of Nishal himself was reported; he remains only a suspect sought under an Arrest on Arrival order.
-  - The total number provisionally charged after the rise to 18 arrests was not stated.
-  - The possible request to Interpol and British and Thai counterparts through the Central Barracks and the Attorney General's office is described as under consideration, not as a completed request, and Nishal himself had not been arrested or charged.
-  - The new accounts date the joint ADSU and Maritime Intelligence Cell boarding and search to 21 October, while the existing account describes a search on 23 October off Baie-du-Tombeau, which may reflect separate boardings.
-  - The accounts do not establish whether the three men named as suspected participants in the boat transfer were arrested or charged.
-  - L'Express does not name the suspected Mauritian trafficker transferred to Melrose; report of the transfer also appears in a subscriber-only Le Mauricien article, whose full text could not be read.
-  - The same account reports a possible cannabis supplier living in Thailand and holding interests in a farm where the plant would be grown, but says investigators had not verified this.
-  - Investigators were examining possible cryptocurrency payments on platforms such as Binance and use of the informal hawala transfer system, but the article says they had yet to establish whether hawala was used in this case.
-  - The account names Brian Foo Kin Lew Tin Wah, Terminal Officer at Cargo Handling Corporation Ltd, whose homes in Cité Roche-Bois and Calodyne were searched, and a National Coast Guard officer it spells both Bagboot and Pydegadu, but does not give the officers' surnames consistently or their charges.
-  - The article gives no weight for the cannabis said to have been delivered and states no new arrest or charge in this step.
-  - The article describes the suspected role of Nishal D. and the three men near île Ronde as under investigation, not as charges.
-  - The article does not state what offence the two coast guard officers are charged with.
 ---
 
 The Anti Drug and Smuggling Unit (ADSU), with the National Coast Guard's Maritime Intelligence Cell, is
@@ -244,7 +237,7 @@ million [@3]; an early account spoke of about 2.7 million in euros and baht. [@1
 Court granted the Financial Crimes Commission a civil attachment order, sought on 30 October, over the
 Dreamer and the money aboard, given as 38,000 euros, 900 US dollars, 28,330 baht and 1,865 Singapore
 dollars. [@10,11] The yacht must stay at Port-Louis in the custody of the Commissioner of Police, and the
-money is held at SBM Bank. [@10,11]
+money is held at SBM Bank. [@10,11] Examination of his mobile phone began at the police Information and Technology Unit. [@19] Suriya Samanboot was taken to the Central Barracks that afternoon to formally confirm his participation in the scientific operations aboard. [@19] Le Mauricien reported that the forensic work took place in the presence of Thai captain Suriya Samanboot. [@19] That afternoon investigators took Thai captain Suriya Samanboot to the Central Barracks for checks. [@18] Investigators were also trying to establish whether suspected accomplices boarded the yacht after its breakdown to collect the cargo. [@17] The sampling was aimed at determining which crew members had handled the drug bags. [@17] On 10 November 2026, Scene of Crime Office officers working with ADSU officers carried out forensic examinations and took samples aboard the sealed yacht Dreamer while it remained under police surveillance at the port. [@17]
 
 In a separate weekend sweep, the ADSU seized a package of just under a kilo of cannabis described as
 Thai [@1], and in the east Roy Dan Dussoye and Marie Kate Stéphanie Hermance were arrested after 792 grams
