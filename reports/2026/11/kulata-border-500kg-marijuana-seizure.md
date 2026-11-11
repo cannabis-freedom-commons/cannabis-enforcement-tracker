@@ -40,13 +40,17 @@ sources:
     publisher: Инфомрежа
     date: 2026-11-10
     language: bg
+  - title: Рекорд на Кулата! Митничарите откриха половин тон марихуана за милиони в тайник на камион, българският шофьор е арестуван
+    url: https://www.struma.com/obshtestvo/rekord-na-kulata-mitnicharite-otkriha-polovin-ton-marihuana-za-milioni_251671/
+    publisher: Struma.com
+    date: 2026-11-10
+    language: bg
 open_questions:
-  - The nearly 500 kg weight is explicitly unofficial information, with no official confirmation or exact measured figure published.
-  - The operation is described as taking place 'today' in the 10 November 2026 report, so 10 November is used as the incident date.
-  - No driver details, arrests, charges or court outcome were reported.
-  - No official valuation of the seized marijuana was published.
-  - Only one accessible account of this seizure was found after searching in Bulgarian.
-  - The same article also describes separate cigarette-smuggling cases near Kulata and Marikostinovo, which are different events left out of this report.
+    - Infomrezha called the nearly 500 kg figure unofficial; Struma called it half a tonne, and neither published an official measured weight.
+    - Infomrezha dated the operation to 10 November 2026; Struma, published that evening, said the marijuana was found the night before.
+    - Struma said a Bulgarian driver was detained; no name, charges or court outcome were reported.
+    - Struma put the value at several million euros; no official valuation was published.
+    - Separate cigarette-smuggling cases described with the seizure, including a Romanian driver's suspended sentence, are different events left out of this report.
 ---
 
 A joint operation by Bulgaria's Customs Agency, the Ministry of the Interior and
@@ -54,15 +58,14 @@ the prosecution service was carried out at the Kulata border checkpoint, where
 officers stopped a freight truck travelling on the designated entry lane into
 the country. [@1] During the subsequent inspection of the heavy-goods truck
 combination, the checking officers found nearly 500 kilograms of marijuana in
-the transported load. [@1] Infomrezha expressly presented the nearly
+the transported load. [@1] The Bulgarian driver was detained. [@2] The marijuana was found in a specially built hide in a freight vehicle driven by a Bulgarian driver. [@2] Infomrezha expressly presented the nearly
 500-kilogram quantity as unofficial information provided to its own newsroom
 rather than as a confirmed official measurement. [@1]
 
 Official information from the competent institutions on the circumstances of the
 case and on the value of the seized narcotic quantity was still awaited when the
-report was published. [@1] The report described the Kulata interception as
+report was published. [@1] Struma said a similar quantity had not been seized at the Kulata crossing in recent years and put the value at several million euros. [@2] The report described the Kulata interception as
 another serious blow against organised trafficking through this border
 checkpoint. [@1] It added that in recent weeks the Kulata crossing had been at
 the centre of several large-scale investigations linked to the smuggling of
 excise goods. [@1]
-
