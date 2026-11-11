@@ -51,16 +51,21 @@ sources:
     publisher: صحيفة صراحة الالكترونية
     date: 2026-11-10
     language: ar
+  - title: القبض على مواطنين في الرياض بتهمة ترويج الحشيش والكوكايين وأقراص طبية
+    url: https://alsaudi.news/local/1011/120513/
+    publisher: السعودية الإخبارية
+    date: 2026-11-10
+    language: ar
 ---
 
 The General Directorate of Narcotics Control, Saudi Arabia's anti-drug agency,
 arrested two Saudi citizens in the Riyadh region accused of promoting narcotic
-drugs. [@1,2,3] Officers stopped both men, completed the statutory procedures
+drugs. [@1,2,3,4] Officers stopped both men, completed the statutory procedures
 against them and referred them to the Public Prosecution for further action.
-[@1,3]
+[@1,3,4]
 
 The agency said the men were promoting 10 kilograms of hashish along with
-cocaine and tablets subject to medical-circulation regulation. [@1,2,3] Officers
+cocaine and tablets subject to medical-circulation regulation. [@1,2,3,4] Officers
 seized the 10 kilograms of hashish, which is the cannabis component of this
 mixed case, while the cocaine and the 2,170 regulated tablets are excluded from
 cannabis quantities. [@1]
