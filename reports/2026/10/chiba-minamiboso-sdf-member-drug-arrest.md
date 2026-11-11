@@ -81,21 +81,26 @@ sources:
     publisher: TBS NEWS DIG
     date: 2026-11-10
     language: ja
+  - title: 大麻など麻薬所持か 自衛官の男（24）ら逮捕 千葉・南房総市
+    url: https://www.msn.com/ja-jp/news/other/%E5%A4%A7%E9%BA%BB%E3%81%AA%E3%81%A9%E9%BA%BB%E8%96%AC%E6%89%80%E6%8C%81%E3%81%8B-%E8%87%AA%E8%A1%9B%E5%AE%98%E3%81%AE%E7%94%B7-24-%E3%82%89%E9%80%AE%E6%8D%95-%E5%8D%83%E8%91%89-%E5%8D%97%E6%88%BF%E7%B7%8F%E5%B8%82/ar-AA2h8DaU
+    publisher: テレ朝NEWS
+    date: 2026-11-10
+    language: ja
 ---
 
 A 24-year-old Ground Self-Defense Force member assigned to Camp Asaka (藤原統真) and
 a 27-year-old unemployed man (神原虎勇太) were arrested on suspicion of possessing
-drugs including cannabis on a road in Minamiboso. [@1,3,4,5,6,7,8,9] The alleged possession
+drugs including cannabis on a road in Minamiboso. [@1,3,4,5,6,7,8,9,10] The alleged possession
 took place on a road in Minamiboso, Chiba, in the month before the report was
-published. [@1,9]
+published. [@1,9,10]
 
 Police say the two held two tablets containing MDMA and ketamine components, two
 gummy-shaped LSD items and a small amount of dried cannabis, all kept in bags.
-[@1,3,5,6] Police have not disclosed whether the two men admitted or denied the
-allegations. [@1,3,5,6,9]
+[@1,3,5,6,10] Police have not disclosed whether the two men admitted or denied the
+allegations. [@1,3,5,6,9,10]
 
 Camp Asaka said it would cooperate fully with the police investigation and deal
-strictly based on the facts that become clear. [@1,3,5,6,9]
+strictly based on the facts that become clear. [@1,3,5,6,9,10]
 
 Tateyama Police Station of the Chiba Prefectural Police had arrested the men on
 suspicion of violating the Narcotics and Psychotropics Control Law. [@2] The
