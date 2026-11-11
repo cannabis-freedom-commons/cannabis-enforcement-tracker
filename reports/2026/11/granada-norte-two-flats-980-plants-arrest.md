@@ -60,16 +60,21 @@ sources:
     publisher: Europa Press
     date: 2026-11-11
     language: es
-open_questions:
-  - No separate date for the searches is given; 11 November 2026 is the publication date and is used as the incident date.
-  - The recorded total of 980 plants is the sum of the reported 380 plants in one dwelling and nearly 600 in the other.
-  - No weight, area, value or identities beyond the detained 35-year-old man were reported.
-  - No court outcome beyond referral to the judicial authority was reported.
+  - title: Desmantelan dos pisos de Granada con cerca de 1.000 plantas de marihuana en plantaciones de interior
+    url: https://www.granadahoy.com/granada/desmantelan-pisos-granada-1000-plantas-marihuana-plantacion-interior_0_2008473895.html
+    publisher: Granada Hoy
+    date: 2026-11-11
+    language: es
+  - title: 'Caen dos pisos en Granada con 1.000 plantas de marihuana: algunas medía más de un metro'
+    url: https://www.ideal.es/granada/caen-dos-pisos-granada-1000-plantas-marihuana-20261111110122-nt.html
+    publisher: Ideal
+    date: 2026-11-11
+    language: es
 ---
 
 National Police in Granada detained a 35-year-old man as the alleged perpetrator
 of a public-health offence and electricity fraud linked to an indoor grow with
-nearly 600 plants in the Norte district. [@2] The man had police antecedents and
+nearly 600 plants in the Norte district. [@2,3] The man had police antecedents and
 was placed at the disposal of the judicial authority in connection with the
 second plantation. [@1]
 
@@ -84,5 +89,4 @@ of marijuana plants, all fed by an illegal connection to the power grid, and
 officers seized nearly 600 plants about one metre tall there. [@1]
 
 Together, the two searches yielded nearly 1,000 marijuana plants, comprising the
-380 plants in one dwelling and nearly 600 in the other. [@2]
-
+380 plants in one dwelling and nearly 600 in the other. [@2,4]
