@@ -21,32 +21,34 @@ sources:
     publisher: Lippische Landes-Zeitung
     date: 2026-11-09
     language: de
+  - title: Ungeziefer in Döner-Imbiss gefunden - große Kontrollaktion in Gütersloher Innenstadt
+    url: https://www.nw.de/lokal/kreis_guetersloh/guetersloh/24459099_Ungeziefer-in-Doener-Imbiss-gefunden-grosse-Kontrollaktion-in-Guetersloher-Innenstadt.html
+    publisher: Neue Westfälische
+    date: 2026-11-10
+    language: de
 open_questions:
-  - No quantity, weight, value or number of CBD pouches or packages is given.
-  - The account does not say what the CBD products contained (THC content), why they were seized, or whether proceedings followed against the kiosk owner.
-  - No one was reported arrested, so no arrested figure is recorded.
-  - The police press release itself could not be opened; the regional police page returned an error and other outlets were inaccessible.
-  - The checks covered several businesses in different parts of the city and the wider district; only the kiosk seizure is the cannabis-related component.
-  - The other cited reports in Gütersloh and elsewhere concern different premises and dates and were not treated as the same event.
+    - No quantity, weight, value or number of CBD pouches or packages is given.
+    - The account does not say what the CBD products contained (THC content), why they were seized, or whether proceedings followed against the kiosk owner.
+    - No one was reported arrested, so no arrested figure is recorded.
+    - The checks covered several businesses in different parts of the city and the wider district; only the kiosk seizure is the cannabis-related component.
 ---
 
 Officers from the Bielefeld main customs office, Gütersloh's public order
 office, the Gütersloh foreigners authority and the Gütersloh district police
 inspected takeaways, restaurants and bars in Gütersloh on the evening of
-Saturday 7 November 2026. [@1] In a kiosk in the city centre the inspectors
+Saturday 7 November 2026. [@1,2] In a kiosk in the city centre the inspectors
 found CBD pouches for sale on the counter, and the owner had stored further
-packets. [@1] All the CBD products were seized. [@1]
+packets. [@1,2] All the CBD products were seized. [@1,2]
 
 In a Döner takeaway in the city centre the inspectors found vermin, opened a
 case over a suspected undeclared employee and recorded numerous further breaches
-of public-order rules. [@1] In a bar in the east of the city customs officers
+of public-order rules. [@1,2] In a bar in the east of the city customs officers
 found several employees without proper registration, opened a precautionary
 case, and the public order office intervened because a band was playing without
-permission. [@1] A delivery service in the north of the city lacked a usable
+permission. [@1,2] A delivery service in the north of the city lacked a usable
 emergency exit and a required kitchen cover, and two gaming machines were
-faulted in a pizzeria between Gütersloh and Rietberg. [@1]
+faulted in a pizzeria between Gütersloh and Rietberg. [@1,2]
 
 The checks are part of the police presence programme "Sicherheit im Kreis"
-(security in the district) and are to continue at irregular intervals. [@1] The
-account comes from a press release by Gütersloh police. [@1]
-
+(security in the district) and are to continue at irregular intervals. [@1,2] The
+account comes from a press release by Gütersloh police. [@1,2]
