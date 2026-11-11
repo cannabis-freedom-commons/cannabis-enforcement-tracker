@@ -37,20 +37,22 @@ sources:
     publisher: KaunoDiena.lt
     date: 2026-11-11
     language: lt
+  - title: Joniškio rajone vyras įkliuvo dėl kanapių – jų aptiko ir namuose, ir šiltnamyje
+    url: https://www.delfi.lt/naujienos/kriminalai/joniskio-rajone-vyras-ikliuvo-del-kanapiu-ju-aptiko-ir-namuose-ir-siltnamyje-120332225
+    publisher: Delfi
+    date: 2026-11-11
+    language: lt
 open_questions:
-  - No figure for the number of plants or the weight of cannabis was published; the report says the amount was still being clarified.
-  - The article gives no separate date for the search; 11 November 2026 is its publication date and is used as the incident date.
-  - No arrest or detention was reported, so it is unknown whether the man was detained.
-  - No court outcome was reported; the case was at the pre-trial investigation stage.
-  - The whole account rests on a single accessible report of a police finding.
+    - No figure for the number of plants or the weight of cannabis was published; the report says the amount was still being clarified.
+    - No arrest or detention was reported, so it is unknown whether the man was detained.
+    - No court outcome was reported; the case was at the pre-trial investigation stage.
 ---
 
 Police officers found unlawful items at the home of a man born in 1985 in
-Gaižaičiai village. [@1] In Joniškis district, cultivated cannabis and drying
+Gaižaičiai village. [@1,2] In Joniškis district, cultivated cannabis and drying
 parts of the plants were found in the man's residential house, outbuildings and
-greenhouse. [@1]
+greenhouse. [@1,2] The Police Department reported that the plants and dried cannabis were found on 9 November at about 23:10. [@2]
 
 The amount of cannabis found was still being clarified when the report was
-published. [@1] Police opened a pre-trial investigation for unlawful possession
-of narcotic or psychotropic substances without intent to distribute. [@1]
-
+published. [@1,2] Police opened a pre-trial investigation for unlawful possession
+of narcotic or psychotropic substances without intent to distribute. [@1,2]
