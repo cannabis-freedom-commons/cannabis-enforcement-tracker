@@ -69,6 +69,11 @@ sources:
     publisher: Днес България
     date: 2026-11-11
     language: bg
+  - title: Burgas police identify thief who stole €645 bike from Slaveykov apartment block | BurgasMedia
+    url: https://burgasmedia.com/amp/news/policiyata-v-burgas-ustanovi-koy-e-otkradnal-kolelo-za-645-evro-ot-blok-v-slaveykov?lang=en
+    publisher: BurgasMedia
+    date: 2026-11-11
+    language: en
 ---
 
 Officers of the district administration in Ruen stopped and checked a
@@ -81,10 +86,10 @@ record. [@1,7] The 49-year-old Sozopol man was detained for up to 24 hours. [@1,
 EraNova also reported the arrest of the 49-year-old resident in Sozopol. [@3]
 
 In Ruen, officers found and seized dry herbal material identified as cannabis
-weighing about 4 grams. [@1,7] In Sozopol, officers seized two hand-rolled
+weighing about 4 grams. [@1,7,8] In Sozopol, officers seized two hand-rolled
 cigarettes containing dry green leaf material and a metal grinder with the same
 substance. [@1,7] The total weight of the marijuana found in Sozopol was about 3
-grams. [@1,5,6,7] Police seized about 7 grams of cannabis and marijuana in total
+grams. [@1,5,6,7,8] Police seized about 7 grams of cannabis and marijuana in total
 across the two incidents. [@1]
 
 The Interior Ministry bulletin for Burgas stated that the Sozopol check was
