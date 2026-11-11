@@ -54,14 +54,17 @@ sources:
     publisher: Ñuble Actual
     date: 2026-11-08
     language: es
+  - title: Lluvias y turismo abren el foco policial por cultivos y tráfico de drogas
+    url: https://ladiscusion.cl/lluvias-y-turismo-abren-el-foco-policial-por-cultivos-y-trafico-de-drogas/
+    publisher: La Discusión
+    date: 2026-11-10
+    language: es
 open_questions:
-  - The article gives no date for individual seizures or eradications and its figures are a year-to-date balance; 8 November 2026, the anniversary date, is used as the incident date.
-  - The 430 kilograms of drugs seized and the 286 arrests cover all drugs the unit handled, not cannabis alone; only the 33,758 plants and the 16 marijuana-cultivation arrests are cannabis-specific.
-  - No weight of seized or destroyed cannabis, no area cleared, no number of cultivation sites and no value estimate were published for the plant and other drug figures.
-  - The figures cover 1 January to 6 November 2026 and the 2025 comparisons cover that same partial period, not full calendar years.
-  - Radio Contacto and Ñuble Actual carry the same OS7 statement, so they are not independent reporting; Carabineros' own page could not be opened for this report.
-  - The photo with the Ñuble Actual story is captioned only by its file name and no caption or credit confirms which operation or seizure it shows, so it is described as published and not as a picture of a specific seizure.
-  - The text gives a weight ("2.523 kilograms") but the figures have no kg_seized; check whether it belongs there.
+    - The article gives no date for individual seizures or eradications and its figures are a year-to-date balance; 8 November 2026, the anniversary date, is used as the incident date.
+    - The 430 kilograms of drugs seized and the 286 arrests cover all drugs the unit handled, not cannabis alone; only the 33,758 plants and the 16 marijuana-cultivation arrests are cannabis-specific.
+    - No weight of seized or destroyed cannabis, no area cleared, no number of cultivation sites and no value estimate were published for the plant and other drug figures.
+    - The figures cover 1 January to 6 November 2026 and the 2025 comparisons cover that same partial period, not full calendar years.
+    - The photo with the Ñuble Actual story is captioned only by its file name and no caption or credit confirms which operation or seizure it shows, so it is described as published and not as a picture of a specific seizure.
 ---
 
 Carabineros' anti-drug investigation department OS7 released results covering
@@ -69,17 +72,16 @@ its work in the Ñuble region between 1 January and 6 November 2026, as the
 speciality marked its 53rd anniversary on 8 November. [@1]
 
 The unit said it destroyed 33,758 cannabis plants in 2026, against 2,023 in the
-same period of 2025, a rise it put at 1,569 percent. [@1] Officers detained 286
+same period of 2025, a rise it put at 1,569 percent. [@1,3] Officers detained 286
 people, ten more than in 2025, including 16 held for growing marijuana, 66 for
-street-level dealing and 86 for drug trafficking. [@1] The OS7 said it carried
+street-level dealing and 86 for drug trafficking. [@1,3] The OS7 said it carried
 out 199 anti-drug operations and broke up 14 criminal organisations, against 11
 in 2025. [@2] Alongside the cannabis figures, the unit reported the confiscation
 of 17 ecstasy pills, 2.523 kilograms of ketamine and small amounts of
-methamphetamine. [@1]
+methamphetamine. [@1,3]
 
 The 430 kilograms the OS7 reported covers all of the main drugs it seized, not
 cannabis alone, and Radio Contacto did not break the total down by substance.
 [@1] The OS7 was created on 8 November 1973 as Carabineros' Seventh Special
 Investigations Section, and has had a unit in Ñuble since the region was created
 in 2018. [@1]
-
