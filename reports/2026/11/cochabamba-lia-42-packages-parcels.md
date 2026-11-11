@@ -62,6 +62,11 @@ sources:
     publisher: La Octava
     date: 2026-11-10
     language: es
+  - title: Can “Lia” detecta dos bolsones con marihuana ocultos en encomiendas de una empresa interprovincial
+    url: https://unitel.bo/noticias/seguridad/can-lia-detecta-dos-bolsones-con-marihuana-ocultos-en-encomiendas-de-una-empresa-interprovincial-BC24732663
+    publisher: Unitel
+    date: 2026-11-11
+    language: es
 open_questions:
   - No weight or value was published for the 42 packages.
   - No company name, suspect or arrest was reported.
@@ -74,13 +79,13 @@ Bolivia's special force against drug trafficking, identified 42 packages of
 marijuana hidden in two bolsones, large sacks, inside the parcel-storage
 facilities of an interprovincial transport company in Cochabamba. [@1] The find
 came during a preventive patrol by anti-drug personnel in the zona sur, the
-southern part of the city. [@1] Felcn officers carried out that preventive
+southern part of the city. [@1,4] Felcn officers carried out that preventive
 patrol in the south of the valley capital. [@2]
 
 During the intervention the detector dog Lía alerted on two suspicious bags.
-[@1] After the review, officers found 42 packages sealed under vacuum and
-wrapped in transparent film. [@1] The substance was then subjected to a field
-test, which was positive for marijuana. [@1] The bags were in the parcel-storage
+[@1,4] After the review, officers found 42 packages sealed under vacuum and
+wrapped in transparent film. [@1,4] The substance was then subjected to a field
+test, which was positive for marijuana. [@1,4] The bags were in the parcel-storage
 area of the interprovincial company in the south of Cochabamba, and officers
 searched them after Lía's alert. [@3] Inside, officers found 42 vacuum-sealed
 packages wrapped in transparent film, and a field test of the wrappers was
@@ -89,4 +94,3 @@ positive for marijuana. [@3]
 Felcn said the detector dog's work made it possible to identify the controlled
 substance and to strengthen prevention and control against drug trafficking.
 [@1]
-
