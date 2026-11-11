@@ -62,6 +62,11 @@ sources:
     publisher: Chaco24News
     date: 2026-11-11
     language: es
+  - title: Intentaron escapar de la Policía y terminaron detenidos con marihuana
+    url: https://www.diarioya.ar/intentaron-escapar-de-la-policia-y-terminaron-detenidos-con-marihuana/
+    publisher: DiarioYA
+    date: 2026-11-11
+    language: es
 open_questions:
   - The report says the operation took place on 'the night of Tuesday' and was published on Wednesday 11 November 2026, so 10 November 2026 is used as the incident date.
   - No names were published for the two men beyond their ages of 51 and 56.
@@ -73,19 +78,18 @@ open_questions:
 
 Officers of the División Microtráfico Interior, the Chaco police division for
 small-scale drug dealing, apprehended two men aged 51 and 56 in the Ginés
-Benítez barrio of Presidencia Roque Sáenz Peña. [@1] The operation ran on the
+Benítez barrio of Presidencia Roque Sáenz Peña. [@1,3] The operation ran on the
 night of Tuesday 10 November 2026, between 21:00 and 22:45, when officers on
 preventive duty saw a 110 cc motorcycle with no licence plate travelling at
 speed. [@1] The two men abandoned the motorcycle and tried to escape on foot,
-and during the flight they dropped a bag that officers recovered. [@1]
+and during the flight they dropped a bag that officers recovered. [@1,3]
 
 In the presence of a witness, officers searched both men and found cash among
-their belongings, 336,400 pesos in total. [@1] The wrapper contained 44 grams of
-marijuana, confirmed by weighing and field tests. [@1] On the order of the
+their belongings, 336,400 pesos in total. [@1,3] The wrapper contained 44 grams of
+marijuana, confirmed by weighing and field tests. [@1,3] On the order of the
 Fiscalía Antidrogas, the anti-drug prosecutor's office, both men were arrested
-in a case for alleged infringement of Argentina's drugs law 23.737. [@1] The
-drugs, the money and a Brava 110 cc motorcycle were seized preventively. [@1]
+in a case for alleged infringement of Argentina's drugs law 23.737. [@1,3] The
+drugs, the money and a Brava 110 cc motorcycle were seized preventively. [@1,3]
 
 Chaco24News republished the same police account of the operation, including the
 336,400 pesos in cash. [@2]
-
