@@ -79,6 +79,11 @@ sources:
     publisher: Daily Jaijaidin
     date: 2026-11-11
     language: bn
+  - title: নড়াইলে মাদকসহ নারী কারবারি গ্রেপ্তার
+    url: https://www.risingbd.com/bangladesh/news/670525
+    publisher: Risingbd
+    date: 2026-11-11
+    language: bn
 open_questions:
     - No trial outcome was reported after the accused was sent to court.
     - Faruk Khan remained at large and no further arrest was reported.
@@ -86,7 +91,7 @@ open_questions:
 ---
 
 Officers of the Department of Narcotics Control detained Sabana Khanam, 32, with
-5.5 kg of ganja in Lohagara upazila of Narail. [@1,2,3,4,5,7] Her husband Faruk Khan, 40,
+5.5 kg of ganja in Lohagara upazila of Narail. [@1,2,3,4,5,7,8] Her husband Faruk Khan, 40,
 fled as the enforcement team arrived and remained at large. [@1,2,3,5,6,7] The detained
 woman is the wife of Faruk Khan of Pachuria Laskorpara village. [@1,2,3,5] Sabana is a
 homemaker and Faruk works as a mason. [@1,2,3,4,5,6]
@@ -96,11 +101,11 @@ house at Pachuria Laskorpara at about 5pm on Tuesday 10 November. [@1,2] Narail 
 of witnesses present during the operation, officers searched inside the room and
 recovered 5.5 kg of ganja from a plastic bag wrapped in a quilt on a bedstead
 kept on the eastern side. [@1,2,5,7] Faruk Khan slipped away on sensing the raiding
-team, while officers detained Sabana Khanam at the scene. [@1,2,3]
+team, while officers detained Sabana Khanam at the scene. [@1,2,3,8]
 
 Narail district Department of Narcotics Control deputy director Golak Majumder
 said preliminary questioning indicated that the couple had jointly run an
 illegal drug business in different areas of Lohagara for one year. [@1,2,4,5] A case
-was being prepared for filing at Lohagara Police Station over the seizure. [@1] A regular case under the Narcotics Control Act was filed at Lohagara Police Station against Sabana Khanam and Faruk Khan. [@2,3,4,5] After legal proceedings were taken, the accused was sent to court, Lohagara Police Station officer-in-charge Md Shariful Islam confirmed. [@7]
+was being prepared for filing at Lohagara Police Station over the seizure. [@1] A regular case under the Narcotics Control Act was filed at Lohagara Police Station against Sabana Khanam and Faruk Khan. [@2,3,4,5] Narail DNC deputy director Golak Majumder said the case was filed at Lohagara Police Station on the morning of Wednesday 11 November. [@8] After legal proceedings were taken, the accused was sent to court, Lohagara Police Station officer-in-charge Md Shariful Islam confirmed. [@7]
 The Narail office of the Department of Narcotics Control announced the raid in a
 press release on the night of 10 November. [@1,2,3,6]
