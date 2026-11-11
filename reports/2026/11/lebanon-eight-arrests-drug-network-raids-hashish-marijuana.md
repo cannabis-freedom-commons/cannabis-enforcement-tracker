@@ -70,6 +70,11 @@ sources:
     publisher: Lebanon ON
     date: 2026-11-10
     language: ar
+  - title: 'المعلومات تلاحق شبكات ترويج المخدّرات: توقيفات وضبط أسلحة ومواد مخدرة ودراجات!'
+    url: https://elsiyasa.com/article/435986
+    publisher: ElSiyasa
+    date: 2026-11-10
+    language: ar
 open_questions:
     - No date is given for the ambushes and raids, which the force says took place on different dates; 10 November 2026 is the date of its statement and is used as the incident date.
     - No weights are published for the hashish, marijuana or other drugs, so no kilogram figure is recorded.
@@ -78,22 +83,22 @@ open_questions:
     - The eight suspects are identified only by initials, birth years and nationality, with no charges, prosecutor decisions or court outcome reported.
     - The sums of money and the forged documents seized are not quantified.
     - The location of each arrest is not specified beyond the list of eight localities.
-    - The Janoubia, Al-Joumhouria, Elnashra and Lebanon ON reports reproduce the same Internal Security Forces statement as the force's own page, so they are not independent reporting.
+    - The Janoubia, Al-Joumhouria, Elnashra, Lebanon ON and ElSiyasa reports reproduce the same Internal Security Forces statement as the force's own page, so they are not independent reporting.
 ---
 
 Lebanon's Information Branch, the intelligence unit of the Internal Security
 Forces, carried out ambushes and raids on different dates in Bourj al-Barajneh,
 Nabaa, Zouk, Ouzai, Tyre, Tripoli, Dekwaneh and Sabtiyeh, the General
-Directorate said on 10 November 2026. [@2,4,5] The patrols arrested eight people
+Directorate said on 10 November 2026. [@2,4,5,6] The patrols arrested eight people
 from several drug-dealing networks caught in the act, and seized five
-motorcycles used in dealing. [@3,4,5]
+motorcycles used in dealing. [@3,4,5,6]
 
 The eight include Lebanese, Syrian and Palestinian nationals born between 1980
 and 2008, several of them wanted on theft warrants or with drug or theft
 records. [@2,5] The force said a large quantity of drugs was seized from them,
 listing among the items hashish, known in Lebanon as hashishat al-kif, marijuana
 and salvia alongside cocaine, baz, Captagon, pills of various colours and a
-white powder. [@1,4,5] No weights were given for any of the drugs, and the
+white powder. [@1,4,5,6] No weights were given for any of the drugs, and the
 substances include non-cannabis items that cannot be separated from the
 cannabis. [@1,4,5]
 
@@ -101,10 +106,10 @@ At the home of one detained man, where the force said drugs were stored and
 packed, officers found more drugs, 13 motorcycles, a Kalashnikov rifle with five
 magazines, two service pistols with magazines, ammunition, a hunting rifle, five
 sensitive scales, 15 mobile phones, phone batteries and keys for various
-motorcycles. [@1,4,5] Officers also seized cigarette-rolling papers, empty bags,
+motorcycles. [@1,4,5,6] Officers also seized cigarette-rolling papers, empty bags,
 papers, boxes and tools used to pack and consume drugs, as well as phones, sums
-of money and forged documents. [@1,4,5]
+of money and forged documents. [@1,4,5,6]
 
 The ministry said the eight confessed during investigation and were referred for
 legal action with the seized items on the instructions of the competent
-judiciary. [@1,4,5]
+judiciary. [@1,4,5,6]
