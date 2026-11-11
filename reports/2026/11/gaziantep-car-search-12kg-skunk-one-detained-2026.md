@@ -133,6 +133,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-10
     language: tr
+  - title: Gaziantep'te otomobil bagajında 12 kilo skunk ele geçirildi, 1 şüpheli gözaltında
+    url: https://www.haberler.com/amp/gaziantep-te-otomobil-bagajinda-12-kilo-skunk-ele-20413532-haberi/
+    publisher: Haberler
+    date: 2026-11-10
+    language: tr
 media:
   - kind: photo
     url: https://www.iha.com.tr/gaziantep-haberleri/gaziantepte-aracta-12-kilo-skunk-ele-gecirildi-1-gozalti-513942076
@@ -145,12 +150,13 @@ media:
     publisher: Gaziantep İl Emniyet Müdürlüğü
     caption: 'Police video released with statement 2026-301 showing officers opening the back of the electric oven and removing packages of skunk hidden in the insulation. Video: Gaziantep İl Emniyet Müdürlüğü'
 open_questions:
-  - Anadolu Agency's account says only that the suspect's processing at the police station continued, and does not report a referral to the judicial authorities.
+    - Anadolu Agency's account says only that the suspect's processing at the police station continued, and does not report a referral to the judicial authorities.
+    - One account says the skunk was hidden in a box in the car boot, while police and other outlets say it was concealed in the insulation of an electric oven.
 ---
 
 Gaziantep police anti-narcotics officers searched a car and seized 12 kilograms
 of skunk, a potent form of cannabis sold under that name in Türkiye, and
-detained one suspect. [@1,5,6,7,8,9,11,12,13,14,15,16,17,18,19] The officers of the Gaziantep Provincial Police
+detained one suspect. [@1,5,6,7,8,9,11,12,13,14,15,16,17,18,19,20] The officers of the Gaziantep Provincial Police
 Directorate's narcotics branch ran the search as part of work against drug
 sellers. [@2,19] Intelligence work and physical surveillance identified the target vehicle, which security forces then stopped. [@18] Narcotics officers of the Gaziantep Provincial Police Directorate stopped a light commercial vehicle on suspicion at a checkpoint on the intercity highway. [@5,10] The operation was carried out under the coordination of the Chief
 Public Prosecutor's Office, the provincial prosecutor's office. [@3,6,7,11,13,14,16,17,18,19] The person
@@ -160,4 +166,4 @@ to the judicial authorities, the person's questioning and custody status
 continued at the police station according to other accounts. [@2]
 
 The 12 kilograms of skunk found in the car were seized as evidence. [@3,5,16] The 12
-kilograms of skunk were recovered from a car, not from a house or a field. [@4,9] During the search officers examined an electric oven in the boot and found the skunk hidden among the insulation material at the rear of the device. [@5,10] Officers carried out the search of the vehicle with the assistance of a detector dog. [@6,7,9,12,13,14,15,16,17]
+kilograms of skunk were recovered from a car, not from a house or a field. [@4,9] During the search officers examined an electric oven in the boot and found the skunk hidden among the insulation material at the rear of the device. [@5,10] Officers carried out the search of the vehicle with the assistance of a detector dog. [@6,7,9,12,13,14,15,16,17,20]
