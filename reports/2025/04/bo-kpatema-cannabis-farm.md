@@ -33,6 +33,13 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]
+media:
+  - kind: photo
+    url: https://sierraloaded.sl/news/police-uncovers-large-cannabis-farm-bo/
+    archived: https://web.archive.org/web/20250730101000/https://sierraloaded.sl/news/police-uncovers-large-cannabis-farm-bo/
+    media_url: https://media.sierraloaded.sl/wp-content/uploads/2025/04/Cannabis-farm.png
+    publisher: "Sierra Loaded"
+    caption: "Police and a suspect at the cannabis farm in Bo District."
 status: verified
 tags: [bo, tocu, plantation]
 open_questions:

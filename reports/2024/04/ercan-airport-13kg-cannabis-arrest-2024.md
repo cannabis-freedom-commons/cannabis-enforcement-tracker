@@ -26,6 +26,12 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://www.kibrispostasi.com/c140-DAILY_NEWS/n516500-person-caught-with-13-kilograms-of-drugs-at-ercan-airport-gets-arrested
+    media_url: https://www.kibrispostasi.com/upload/news/v/v2/v2yeniproje-2024-04-29t130410379_1714385094.jpg
+    publisher: "Cyprus Mirror"
+    caption: "Packages displayed after the Ercan airport seizure."
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 84c7616a83bf62f2c918b77bbda69891

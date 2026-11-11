@@ -29,6 +29,22 @@ data_sources:
   details.setting: [1]
   figures.kg_seized: [1]
   figures.value: [1]
+media:
+  - kind: photo
+    url: https://www.argentina.gob.ar/noticias/prefectura-secuestro-mas-de-355-kilos-de-marihuana-que-iban-ser-ingresados-misiones-desde
+    media_url: https://www.argentina.gob.ar/sites/default/files/2024/07/prefectura-secuestro-mas-de-355-kilos-de-marihuana-que-iba-a-ser-ingresada-en-misiones-desde-paraguay-1.jpg
+    publisher: "Argentina.gob.ar"
+    caption: "Seized bundles displayed by Prefectura Naval Argentina at Puerto Libertad."
+  - kind: photo
+    url: https://www.argentina.gob.ar/noticias/prefectura-secuestro-mas-de-355-kilos-de-marihuana-que-iban-ser-ingresados-misiones-desde
+    media_url: https://www.argentina.gob.ar/sites/default/files/prefectura-secuestro-mas-de-355-kilos-de-marihuana-que-iba-a-ser-ingresada-en-misiones-desde-paraguay-2.jpg
+    publisher: "Argentina.gob.ar"
+    caption: "Prefectura officers examine bundles at the riverbank."
+  - kind: photo
+    url: https://www.argentina.gob.ar/noticias/prefectura-secuestro-mas-de-355-kilos-de-marihuana-que-iban-ser-ingresados-misiones-desde
+    media_url: https://www.argentina.gob.ar/sites/default/files/prefectura-secuestro-mas-de-355-kilos-de-marihuana-que-iba-a-ser-ingresada-en-misiones-desde-paraguay-3.jpg
+    publisher: "Argentina.gob.ar"
+    caption: "Officers and bundles outside the Puerto Libertad Prefectura post."
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 90bd7cd4b2184e361b98d6bd43cf1765

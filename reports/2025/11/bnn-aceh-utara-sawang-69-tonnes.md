@@ -34,6 +34,13 @@ data_sources:
   figures.hectares: [1]
   figures.kg_seized: [1]
   figures.plants_destroyed: [1]
+media:
+  - kind: photo
+    url: https://www.metrotvnews.com/read/bw6CgqR5-bnn-musnahkan-69-ton-ganja-di-aceh-utara
+    archived: https://web.archive.org/web/20251107152055/https://www.metrotvnews.com/read/bw6CgqR5-bnn-musnahkan-69-ton-ganja-di-aceh-utara
+    media_url: https://cdn25.metrotvnews.com/dynamic/content/2025/11/06/bw6CgqR5/a_690ca51c13bee.jpg?w=1024
+    publisher: "Metro TV News"
+    caption: "Officials at the North Aceh eradication operation. Photo: BNN."
 status: verified
 tags: [bnn, aceh]
 sources:

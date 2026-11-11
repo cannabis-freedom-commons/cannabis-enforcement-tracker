@@ -33,6 +33,13 @@ data_sources:
   details.setting: [1]
   figures.hectares: [1]
   figures.plants_destroyed: [1]
+media:
+  - kind: photo
+    url: https://boroktimes.com/tripura-major-ganja-destruction-drive-conducted-in-sepahijala-district/
+    archived: https://web.archive.org/web/20250517053020/https://boroktimes.com/tripura-major-ganja-destruction-drive-conducted-in-sepahijala-district/
+    media_url: https://boroktimes.com/wp-content/uploads/2024/01/Major-Ganja-Destruction.jpeg
+    publisher: "Borok Times"
+    caption: "Plants burned during the Sepahijala operation."
 status: verified
 tags: [tripura, sepahijala, ganja]
 open_questions:
@@ -42,6 +49,7 @@ open_questions:
 sources:
   - title: "Tripura: Major Ganja Destruction Drive Conducted in Sepahijala District"
     url: https://boroktimes.com/tripura-major-ganja-destruction-drive-conducted-in-sepahijala-district/
+    archived: https://web.archive.org/web/20250517053020/https://boroktimes.com/tripura-major-ganja-destruction-drive-conducted-in-sepahijala-district/
     publisher: Borok Times
     date: 2024-01-02
 ---

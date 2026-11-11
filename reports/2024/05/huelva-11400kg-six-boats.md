@@ -30,6 +30,13 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://spanishvida.com/2024/05/14/six-boats-and-293-bales-of-hashish-seized-off-the-coast-of-huelva/
+    archived: https://web.archive.org/web/20240917043618/https://spanishvida.com/2024/05/14/six-boats-and-293-bales-of-hashish-seized-off-the-coast-of-huelva/
+    media_url: https://spanishvida.com/wp-content/uploads/2024/05/TUE-Six-boats-and-293-bales-of-hashish-seized-off-the-coast-of-Huelva.jpg
+    publisher: "Spanishvida"
+    caption: "An image from the Guardia Civil operation off Huelva."
 status: verified
 tags: [huelva, hashish, guardia-civil]
 open_questions:
@@ -39,6 +46,7 @@ open_questions:
 sources:
   - title: Six boats and 293 bales of hashish seized off the coast of Huelva
     url: https://spanishvida.com/2024/05/14/six-boats-and-293-bales-of-hashish-seized-off-the-coast-of-huelva/
+    archived: https://web.archive.org/web/20240917043618/https://spanishvida.com/2024/05/14/six-boats-and-293-bales-of-hashish-seized-off-the-coast-of-huelva/
     publisher: Spanishvida
     date: 2024-05-14
 ---

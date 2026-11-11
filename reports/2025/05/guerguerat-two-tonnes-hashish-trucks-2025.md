@@ -32,6 +32,12 @@ data_sources:
   details.date_precision: [1]
   details.products: [1]
   details.setting: [1]
+media:
+  - kind: photo
+    url: https://en.expresstv.ma/2025/05/al-karkarat-thwarted-attempt-to-smuggle-two-tons-of-hashish-into-africa/
+    media_url: https://i0.wp.com/en.expresstv.ma/wp-content/uploads/2025/05/IMG-20250502-WA0179.jpg?fit=720%2C353&ssl=1
+    publisher: "Express TV"
+    caption: "Packages concealed among construction materials at the Guerguerat crossing."
 status: verified
 tags: [hashish, guerguerat, dgsn]
 open_questions:

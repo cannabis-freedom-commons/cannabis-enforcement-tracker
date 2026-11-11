@@ -28,6 +28,13 @@ data_sources:
   details.route: [1]
   details.setting: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://www.balkanweb.com/en/95-kg-of-marijuana-was-trafficked-from-Albania-and-seized-in-Montenegro/
+    archived: https://web.archive.org/web/20260727030637/https://www.balkanweb.com/en/95-kg-of-marijuana-was-trafficked-from-Albania-and-seized-in-Montenegro/
+    media_url: https://www.balkanweb.com/wp-content/uploads/2024/09/d2000708-3eaa-4ee5-b8ee-041c5769fae5.jpg
+    publisher: "BalkanWeb"
+    caption: "Packages seized in the Tuzi operation."
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6e35b92104185ef5bcc7855deafc4671
@@ -35,6 +42,7 @@ tags: [tuzi, marijuana, border-police]
 sources:
   - title: Trafficked from Albania, 95 kg of marijuana seized in Tuz, Montenegro
     url: https://www.balkanweb.com/en/95-kg-of-marijuana-was-trafficked-from-Albania-and-seized-in-Montenegro/
+    archived: https://web.archive.org/web/20260727030637/https://www.balkanweb.com/en/95-kg-of-marijuana-was-trafficked-from-Albania-and-seized-in-Montenegro/
     publisher: BalkanWeb
     date: 2024-09-30
 open_questions:

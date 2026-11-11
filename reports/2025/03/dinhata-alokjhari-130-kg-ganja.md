@@ -32,6 +32,12 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://uttarbangasambad.com/dinhata-huge-quantity-of-marijuana-recovered-in-dinhata-1-smuggler-arrested/
+    media_url: https://uttarbangasambad.com/wp-content/uploads/2025/03/Ganja-Dinhata.jpg
+    publisher: "Uttarbanga Sambad"
+    caption: "Police at the house searched in Dinhata."
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [ganja, dinhata, cooch-behar, west-bengal]

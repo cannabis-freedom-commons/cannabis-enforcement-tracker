@@ -34,12 +34,26 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.hectares: [1]
+media:
+  - kind: photo
+    url: https://www.tripurastarnews.com/destroyed-150-plots-eliminating-nearly-15-lakh-ganja-plants-massive-anti-drug-drive-by-sepahijala-district-police/
+    archived: https://web.archive.org/web/20260116002747/https://www.tripurastarnews.com/destroyed-150-plots-eliminating-nearly-15-lakh-ganja-plants-massive-anti-drug-drive-by-sepahijala-district-police/
+    media_url: https://www.tripurastarnews.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-30-at-19.37.00.jpeg
+    publisher: "Tripura Star News"
+    caption: "Officers clear cannabis plants during the Sepahijala operation."
+  - kind: photo
+    url: https://www.tripurastarnews.com/destroyed-150-plots-eliminating-nearly-15-lakh-ganja-plants-massive-anti-drug-drive-by-sepahijala-district-police/
+    archived: https://web.archive.org/web/20260116002747/https://www.tripurastarnews.com/destroyed-150-plots-eliminating-nearly-15-lakh-ganja-plants-massive-anti-drug-drive-by-sepahijala-district-police/
+    media_url: https://www.tripurastarnews.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-30-at-19.37.06.jpeg
+    publisher: "Tripura Star News"
+    caption: "A field of uprooted plants after the Sepahijala operation."
 status: verified
 created_by_model: meta/muse-spark
 tags: [tripura, sepahijala, joint-operation]
 sources:
   - title: 'Destroyed 150 Plots & Eliminating Nearly 15 Lakh Ganja Plants : Massive Anti-Drug Drive By Sepahijala District Police.'
     url: https://www.tripurastarnews.com/destroyed-150-plots-eliminating-nearly-15-lakh-ganja-plants-massive-anti-drug-drive-by-sepahijala-district-police/
+    archived: https://web.archive.org/web/20260116002747/https://www.tripurastarnews.com/destroyed-150-plots-eliminating-nearly-15-lakh-ganja-plants-massive-anti-drug-drive-by-sepahijala-district-police/
     publisher: Tripura Star News
     date: 2025-12-31
 open_questions:

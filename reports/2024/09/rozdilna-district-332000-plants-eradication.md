@@ -33,6 +33,13 @@ data_sources:
   details.setting: [1]
   figures.hectares: [1]
   figures.plants_destroyed: [1]
+media:
+  - kind: photo
+    url: https://112.ua/en/na-odesini-policia-viavila-ponad-300-tis-kusiv-konopel-foto-41739
+    archived: https://web.archive.org/web/20241001011821/https://112.ua/en/na-odesini-policia-viavila-ponad-300-tis-kusiv-konopel-foto-41739
+    media_url: https://112.ua/uploads/950x550_76_main-v1727693655.webp.png
+    publisher: "112.ua"
+    caption: "A police image of the cannabis field in Rozdilna district."
 status: verified
 tags: [rozdilna, border, forest-fund]
 open_questions:

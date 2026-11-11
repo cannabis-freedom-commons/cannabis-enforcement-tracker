@@ -22,6 +22,13 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
+media:
+  - kind: photo
+    url: https://guineenews.org/2025/08/26/kindia-plus-de-1725-kg-de-chanvre-indien-saisis-et-presentes-a-la-presse/
+    archived: https://web.archive.org/web/20260809012733/https://guineenews.org/2025/08/26/kindia-plus-de-1725-kg-de-chanvre-indien-saisis-et-presentes-a-la-presse/
+    media_url: https://guineenews.org/wp-content/uploads/2025/08/1000235397-scaled.jpg
+    publisher: "Guinéenews"
+    caption: "Cannabis bales presented after the Kindia seizure."
 status: verified
 cfi_id: guinea-kindia-seizure-2025
 tags:
@@ -34,4 +41,4 @@ sources:
       https://guineenews.org/2025/08/26/kindia-plus-de-1725-kg-de-chanvre-indien-saisis-et-presentes-a-la-presse/
 ---
 
-The gendarmerie's research brigade in Kindia intercepted a minibus on the road from Bambaya carrying 1,725 kg of cannabis; the driver abandoned it and was arrested four days later. The operation was part of an anti-drug campaign launched by the prosecutor general at the Conakry court of appeal, and the Kindia prosecutor was informed. [@1]
+The gendarmerie’s research brigade in Kindia intercepted a minibus on the road from Bambaya carrying 1,725 kg of cannabis; the driver abandoned it and was arrested four days later. [@1] The operation was part of an anti-drug campaign launched by the prosecutor general at the Conakry court of appeal, and the Kindia prosecutor was informed. [@1]

@@ -28,6 +28,13 @@ data_sources:
   details.products: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://kapitalis.com/tunisie/2025/03/28/mellassine-3-kg-de-cannabis-saisis-3-dealers-arretes/
+    archived: https://web.archive.org/web/20260519040602/https://kapitalis.com/tunisie/2025/03/28/mellassine-3-kg-de-cannabis-saisis-3-dealers-arretes/
+    media_url: https://kapitalis.com/tunisie/wp-content/uploads/2025/03/traficMellassine-drogue.jpg
+    publisher: "Kapitalis"
+    caption: "Suspects and packages shown in the Mellassine investigation."
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 210debcda1bb5e725d35083494522371
@@ -35,6 +42,7 @@ tags: [tunis, mellassine, cannabis]
 sources:
   - title: Mellassine | 3 kg de cannabis saisis, 3 dealers arrêtés
     url: https://kapitalis.com/tunisie/2025/03/28/mellassine-3-kg-de-cannabis-saisis-3-dealers-arretes/
+    archived: https://web.archive.org/web/20260519040602/https://kapitalis.com/tunisie/2025/03/28/mellassine-3-kg-de-cannabis-saisis-3-dealers-arretes/
     publisher: Kapitalis
     date: 2025-03-28
     language: fr

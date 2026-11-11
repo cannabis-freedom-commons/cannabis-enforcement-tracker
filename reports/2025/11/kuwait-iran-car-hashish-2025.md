@@ -5,12 +5,11 @@ code: T59NHY
 date: "2025-11-15"
 country: kw
 type: seizure
-title: A car from Iran brings 100 kg of hashish
+title: More than 100 kg of hashish and marijuana found in car from Iran
 summary: >-
   Customs and drug-control officers stopped a Kuwaiti citizen returning from Iran on the Shuwaikh
   ferry and found more than 100 kilograms of hashish and marijuana in hidden compartments in his
-  car. The case pointed to Iran as a source of resin shipped across the Gulf. The suspect was
-  referred to the narcotics prosecution.
+  car. The suspect was referred to the narcotics prosecution.
 created_by_model: unknown
 details:
   agency_types: [police]
@@ -20,6 +19,12 @@ data_sources:
   details.agency_types: [1]
   details.products: [1]
   details.route: [1]
+media:
+  - kind: photo
+    url: https://timeskuwait.com/authorities-foil-major-drug-smuggling-operation-seize-100-kilograms-of-hashish-and-marijuana/
+    media_url: https://timeskuwait.com/wp-content/uploads/2025/11/hashish.jpeg
+    publisher: "Times Kuwait"
+    caption: "The concealed compartments and packages discovered in the vehicle."
 status: verified
 cfi_id: kuwait-iran-car-hashish-2025
 sources:
@@ -30,4 +35,4 @@ sources:
     locator: Report, 15 November 2025, citing Al-Rai and the drug-control directorate
 ---
 
-Customs and drug-control officers stopped a Kuwaiti citizen returning from Iran on the Shuwaikh ferry and found more than 100 kilograms of hashish and marijuana in hidden compartments in his car. The case pointed to Iran as a source of resin shipped across the Gulf. The suspect was referred to the narcotics prosecution. [@1]
+Customs and drug-control officers stopped a Kuwaiti citizen returning from Iran on the Shuwaikh ferry and found more than 100 kilograms of hashish and marijuana in hidden compartments in his car. [@1] The suspect was referred to the narcotics prosecution. [@1]

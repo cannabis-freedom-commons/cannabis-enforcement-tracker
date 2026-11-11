@@ -16,6 +16,19 @@ details:
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+media:
+  - kind: photo
+    url: https://dominicanewsonline.com/news/homepage/homepage-carousel/police-destroys-over-52-million-dollars-worth-of-cocaine-and-cannabis/
+    archived: https://web.archive.org/web/20251217204533/https://dominicanewsonline.com/news/homepage/homepage-carousel/police-destroys-over-52-million-dollars-worth-of-cocaine-and-cannabis/
+    media_url: https://dominicanewsonline.com/news/wp-content/uploads/2025/11/Police-destroy-illegal-drugs-by-fire-e1763604788970.jpg
+    publisher: "Dominica News Online"
+    caption: "Fire during the police destruction of drugs at Morne Bruce."
+  - kind: photo
+    url: https://dominicanewsonline.com/news/homepage/homepage-carousel/police-destroys-over-52-million-dollars-worth-of-cocaine-and-cannabis/
+    archived: https://web.archive.org/web/20251217204533/https://dominicanewsonline.com/news/homepage/homepage-carousel/police-destroys-over-52-million-dollars-worth-of-cocaine-and-cannabis/
+    media_url: https://dominicanewsonline.com/news/wp-content/uploads/2025/11/Police-destroys-illegal-drugs-by-fire-in-Morne-Bruce-on-Wednesday-e1763604758707.jpg
+    publisher: "Dominica News Online"
+    caption: "A wider view of the destruction fire at Morne Bruce."
 status: verified
 cfi_id: dominica-drug-burn-2025
 sources:

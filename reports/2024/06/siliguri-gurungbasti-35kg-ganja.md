@@ -27,6 +27,13 @@ data_sources:
   details.products: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://uttarbangasambad.com/smuggling-a-large-amount-of-ganja-was-recovered-from-a-four-wheeler-in-gurungbasti-area-under-pradhannagar-police-station/
+    archived: https://web.archive.org/web/20240903145653/https://uttarbangasambad.com/smuggling-a-large-amount-of-ganja-was-recovered-from-a-four-wheeler-in-gurungbasti-area-under-pradhannagar-police-station/
+    media_url: https://uttarbangasambad.com/wp-content/uploads/2024/06/gaja.jpg
+    publisher: "Uttarbanga Sambad"
+    caption: "Police with a suspect and seized cannabis at Siliguri."
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5ce4f9bd0762d5b15381cfe9cba9c6be
@@ -34,6 +41,7 @@ tags: [siliguri, ganja, west-bengal]
 sources:
   - title: Smuggling | পাচারের পথেই পুলিশের খপ্পরে পাচারকারী, গুরুংবস্তি থেকে উদ্ধার ৩৫ কেজি গাঁজা
     url: https://uttarbangasambad.com/smuggling-a-large-amount-of-ganja-was-recovered-from-a-four-wheeler-in-gurungbasti-area-under-pradhannagar-police-station/
+    archived: https://web.archive.org/web/20240903145653/https://uttarbangasambad.com/smuggling-a-large-amount-of-ganja-was-recovered-from-a-four-wheeler-in-gurungbasti-area-under-pradhannagar-police-station/
     publisher: Uttarbanga Sambad
     date: 2024-06-03
     language: bn

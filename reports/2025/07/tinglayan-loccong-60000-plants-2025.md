@@ -37,6 +37,13 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.plants_destroyed: [1]
+media:
+  - kind: photo
+    url: https://www.filipinonewssentinel.com/kalinga-marijuana-plantation-set-on-fire/
+    archived: https://web.archive.org/web/20250804085047/https://www.filipinonewssentinel.com/kalinga-marijuana-plantation-set-on-fire/
+    media_url: https://www.filipinonewssentinel.com/wp-content/uploads/2025/07/FINAL-HEAD-PHOTO-KALINGA-MJ-.jpg
+    publisher: "Filipino News Sentinel"
+    caption: "Images from the Kalinga plantation eradication."
 status: verified
 tags: [pdea, cordillera]
 open_questions:

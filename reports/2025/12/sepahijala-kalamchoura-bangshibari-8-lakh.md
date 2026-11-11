@@ -29,6 +29,12 @@ data_sources:
   details.date_precision: [1]
   details.products: [1]
   details.setting: [1]
+media:
+  - kind: photo
+    url: https://tripurachronicle.in/local-news/joint-operation-leads-to-destruction-of-massive-ganja-plantations-in-tripura/
+    media_url: https://tripurachronicle.in/media/2025/12/5.png
+    publisher: "Tripura Chronicle"
+    caption: "Officers uproot cannabis plants during the Sepahijala operation."
 status: verified
 created_by_model: meta/muse-spark
 tags: [tripura, sepahijala, joint-operation]

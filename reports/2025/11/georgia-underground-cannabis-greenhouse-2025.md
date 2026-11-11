@@ -19,6 +19,13 @@ data_sources:
   details.activity: [1]
   details.case_stage: [1]
   details.products: [1]
+media:
+  - kind: photo
+    url: https://www.interpressnews.ge/en/article/143847-ministry-of-internal-affairs-police-seize-283-cannabis-plants-and-about-3-kilograms-of-marijuana-suspect-had-underground-greenhouse/
+    archived: https://web.archive.org/web/20251111211442/https://www.interpressnews.ge/en/article/143847-ministry-of-internal-affairs-police-seize-283-cannabis-plants-and-about-3-kilograms-of-marijuana-suspect-had-underground-greenhouse/
+    media_url: https://cdn-prod.ipn.ge/media/uploads/2025/11-11/shss.jpg
+    publisher: "Interpressnews"
+    caption: "The underground greenhouse discovered by Georgian police."
 status: verified
 cfi_id: georgia-underground-cannabis-greenhouse-2025
 sources:
@@ -33,4 +40,4 @@ sources:
       packaging, tape and scale; Articles 260, 260⁴ and 265¹.
 ---
 
-The Interior Ministry arrested a previously convicted man after finding a greenhouse built underground on land beside his home. Police seized 283 cannabis plants and about 3 kilograms of dried marijuana, along with packaging materials, adhesive tape and an electronic scale. He was charged with possessing a particularly large amount of drugs, aiding their sale and cultivating narcotic plants in particularly large quantities under Articles 260, 260⁴ and 265¹ of the Criminal Code. [@1]
+The Interior Ministry arrested a previously convicted man after finding a greenhouse built underground on land beside his home. [@1] Police seized 283 cannabis plants and about 3 kilograms of dried marijuana, along with packaging materials, adhesive tape and an electronic scale. [@1] He was accused of possessing drugs, facilitating their sale and cultivating narcotic plants in particularly large quantities. [@1]

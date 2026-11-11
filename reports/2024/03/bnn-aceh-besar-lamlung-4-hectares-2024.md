@@ -37,6 +37,12 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]
+media:
+  - kind: photo
+    url: https://inp.polri.go.id/artikel/bnn-eradicates-four-hectares-of-hemp-plantations-in-aceh
+    media_url: https://img.antaranews.com/cache/1200x800/2024/03/06/IMG-20240306-WA0013_2.jpg.webp
+    publisher: "INP (Indonesian National Police)"
+    caption: "Authorities burn cannabis plants during the Aceh Besar eradication."
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [bnn, aceh-besar, eradication]

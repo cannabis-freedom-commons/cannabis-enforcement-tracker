@@ -24,6 +24,13 @@ data_sources:
   details.products: [1]
   details.route: [1]
   details.setting: [1]
+media:
+  - kind: photo
+    url: https://yop.l-frii.com/niger-saisie-exceptionnelle-de-80-briques-de-drogue-dun-poids-total-de-72325-kg/
+    archived: https://web.archive.org/web/20250305070047/https://yop.l-frii.com/niger-saisie-exceptionnelle-de-80-briques-de-drogue-dun-poids-total-de-72325-kg/
+    media_url: https://yop.l-frii.com/wp-content/uploads/2025/03/Niger-saisie-exceptionnelle-de-80-briques-de-droguedun-poids-total-de-72325-kg.jpg
+    publisher: "L-Frii"
+    caption: "Officers display cannabis bricks seized at the Tchérassa checkpoint."
 status: verified
 cfi_id: niger-konni-seizure-2025
 tags:
@@ -39,4 +46,4 @@ sources:
       https://yop.l-frii.com/niger-saisie-exceptionnelle-de-80-briques-de-drogue-dun-poids-total-de-72325-kg/
 ---
 
-The Konni unit of the anti-drug office OCRTIS found 80 bricks of cannabis weighing 72.325 kg in sacks of peanuts at the Tchérassa checkpoint. The load had come from Kalmalo in Nigeria and was bound for Dan Issa and Maradi. Three people were arrested for international trafficking of high-risk drugs. [@1]
+The Konni unit of the anti-drug office OCRTIS found 80 bricks of cannabis weighing 72.325 kg in sacks of peanuts at the Tchérassa checkpoint. [@1] The load had come from Kalmalo in Nigeria and was bound for Dan Issa and Maradi. [@1] Three people were arrested for international trafficking of high-risk drugs. [@1]
