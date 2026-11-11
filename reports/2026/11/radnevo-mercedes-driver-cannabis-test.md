@@ -45,6 +45,11 @@ sources:
     publisher: ОДМВР - Стара Загора
     date: 2026-11-10
     language: bg
+  - title: 'С амфетамин, метамфетамин и канабис зад волана: задържаха 33-годишен в Раднево'
+    url: https://novini247.com/novini/33-godishen-maj-e-zadarjan-v-radnevo-sled-kato-poleviyat-mu_11382379.html
+    publisher: Новини 24/7
+    date: 2026-11-10
+    language: bg
 open_questions:
   - No cannabis weight or quantity was reported, only positive indications of use in a roadside field test, so no kilogram figure is recorded.
   - The accounts do not report whether a laboratory blood or urine test was conducted to confirm the roadside technical test.
@@ -55,19 +60,18 @@ open_questions:
 ---
 
 Police in Radnevo detained a 33-year-old driver after a field test indicated
-consumption of three separate controlled substances. [@1] A patrol team from the
+consumption of three separate controlled substances. [@1,3] A patrol team from the
 Radnevo Police Department stopped a Mercedes passenger car driven by the
-33-year-old man for a roadside check at around 10:10 am on 9 November 2026. [@2]
+33-year-old man for a roadside check at around 10:10 am on 9 November 2026. [@2,3]
 During the traffic stop in the town of Radnevo, officers administered a drug
 test to the driver using a specialised technical device. [@1] The testing
 equipment returned positive results across all three drug categories, indicating
-the use of amphetamine, methamphetamine, and cannabis. [@1]
+the use of amphetamine, methamphetamine, and cannabis. [@1,3]
 
 Following the detected violation, the Mercedes automobile was voluntarily
 surrendered to the authorities. [@1] Officers detained the 33-year-old driver in
-police custody for a period of up to 24 hours. [@2] The Radnevo police initiated
+police custody for a period of up to 24 hours. [@2,3] The Radnevo police initiated
 pre-trial criminal proceedings under Article 343b, paragraph 3 of the Bulgarian
 Criminal Code, which penalises operating a motor vehicle after the use of
-narcotic substances. [@1] Authorities stated that further investigative work was
+narcotic substances. [@1,3] Authorities stated that further investigative work was
 under way to clarify all circumstances surrounding the case. [@1]
-
