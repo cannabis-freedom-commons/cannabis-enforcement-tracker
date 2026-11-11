@@ -48,19 +48,34 @@ sources:
     publisher: Mynet
     date: 2026-11-11
     language: tr
+  - title: Hakkari'de İran'dan giriş yapan şahsın ayakkabısında 49,56 gram esrar bulundu
+    url: https://www.sondakika.com/amp/haber-hakkari-de-iran-dan-giris-yapan-sahsin-ayakkabisin-20418430/
+    publisher: Son Dakika
+    date: 2026-11-11
+    language: tr
+  - title: Hakkari'de Ayakkabı Tabanına Gizlenmiş Esrar Ele Geçirildi
+    url: https://ajansturkhaber.com/amp/haber/hakkaride-ayakkabi-tabanina-gizlenmis-esrar-ele-gecirildi-428560
+    publisher: Ajanstürk Haber
+    date: 2026-11-11
+    language: tr
+  - title: Hakkari'deki gümrük kapılarında uyuşturucu, kaçak sigara ve telefon ele geçirildi
+    url: https://yerel-haberler.haberturk.com/hakkari-haberleri/hakkarideki-gumruk-kapilarinda-uyusturucu-kacak-sigara-ve-telefon-ele-gecirildi-119519539
+    publisher: Habertürk
+    date: 2026-11-11
+    language: tr
 open_questions:
     - Whether the traveller was detained, released or charged after the investigation was opened was not reported.
     - No laboratory confirmation of the material was published; officers assessed it as esrar.
-    - The available accounts reproduce an İHA agency text, so the seizure is not independently reported.
+    - The accounts published so far reproduce official statements, the Hakkari governorship's social media announcement and the İHA agency text, so the seizure is not independently reported.
 ---
 
 Customs officers stopped Turkish citizen A.K. as he entered the passenger hall
-at Esendere customs gate from Iran at about 15:30. [@1,2] Officers found material
+at Esendere customs gate from Iran at about 15:30. [@1,2,3] Officers found material
 hidden in the soles of his shoes with a total gross weight of 49.56 grams,
-assessed as cannabis (esrar). [@1,2]
+assessed as cannabis (esrar). [@1,2,4]
 
 The interception was carried out by personnel of the Customs Enforcement
 Smuggling and Intelligence Section at Esendere. [@1,2] The seizure took place at
 the Esendere customs gate in Hakkari province, on the Turkish-Iranian border.
-[@1] The Yüksekova Chief Public Prosecutor's Office opened an investigation into
+[@1] Hakkari's governor's office announced the seizure in a statement published on its social media accounts. [@5] The Yüksekova Chief Public Prosecutor's Office opened an investigation into
 the incident. [@1,2]
