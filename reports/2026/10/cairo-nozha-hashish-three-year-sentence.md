@@ -54,6 +54,11 @@ sources:
     publisher: Al Ayam Al Misriya
     date: 2026-10-31
     language: ar
+  - title: السجن المشدد 3 سنوات لقهوجي بتهمة الاتجار في الحشيش بالنزهة
+    url: https://ekhbary24.com/article/49815
+    publisher: إخباري 24 نيوز
+    date: 2026-11-11
+    language: ar
 open_questions:
   - No weight, quantity or estimated value was published for the hashish seized from the defendant.
   - The defendant is not named, and no date is given for his arrest; 31 October 2026 is the date of the verdict.
@@ -64,19 +69,18 @@ open_questions:
 
 The Cairo Criminal Court sentenced a cafe worker to three years of aggravated
 imprisonment and fined him 10,000 Egyptian pounds for possessing hashish with
-intent to traffic it in the Al-Nozha police district of Cairo. [@1] The verdict
+intent to traffic it in the Al-Nozha police district of Cairo. [@1,3] The verdict
 was delivered on Saturday 31 October 2026. [@2]
 
 A chemical laboratory report found a clear plastic bag holding brown pieces that
-tested as hashish, listed in the first schedule of Egypt's anti-drug law. [@1]
+tested as hashish, listed in the first schedule of Egypt's anti-drug law. [@1,3]
 Police in Al-Nozha had received information that a man was holding and selling
 drugs, and investigations identified him. [@1] Cairo Security Directorate
 officers then arrested him after the legal procedures were approved and police
 set up ambushes. [@1] A search found a black plastic bag containing hashish, a
-sum of money and two mobile phones. [@1]
+sum of money and two mobile phones. [@1,3]
 
 Questioned by police, the man admitted holding the drugs for sale and earning
-illegal profit. [@1] He said the seized money came from drug sales and that he
-used the two phones to contact customers and run his dealing. [@1] He was
+illegal profit. [@1,3] He said the seized money came from drug sales and that he
+used the two phones to contact customers and run his dealing. [@1,3] He was
 referred to the criminal court for trial. [@1]
-
