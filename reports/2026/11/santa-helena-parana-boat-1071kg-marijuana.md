@@ -55,16 +55,17 @@ sources:
     publisher: Polícia Federal
     date: 2026-11-10
     language: pt
-open_questions:
-    - No suspects were identified or arrested; individuals on the riverbank and track fled into woodland before police could intercept them.
-    - The estimated monetary value of the seized marijuana was not reported by the authorities.
-    - The exact landing spot within the rural area of Santa Helena was not disclosed.
+  - title: Mais de uma tonelada de maconha é apreendida em barco que veio do Paraguai em Santa Helena
+    url: https://www.radiouniaodetoledo.com.br/noticia/9/487450/mais-de-uma-tonelada-de-maconha-e-apreendida-em-barco-que-veio-do-paraguai-em-santa-helena
+    publisher: Rádio União de Toledo
+    date: 2026-11-10
+    language: pt
 ---
 
 Federal Police and Paraná Military Police officers seized 1,071 kilograms of
 marijuana in a rural area of Santa Helena, western Paraná, on the night of
-Monday 9 November 2026. [@1,2] Suspects on the riverbank fled into woodland when
-the security forces closed in and could not be found. [@1] Federal Police teams
+Monday 9 November 2026. [@1,2,3] Suspects on the riverbank fled into woodland when
+the security forces closed in and could not be found. [@1,3] Federal Police teams
 conducting border patrol duties spotted a craft travelling at high speed from
 Paraguay towards the Brazilian shore at about 22:00. [@1]
 
@@ -74,7 +75,7 @@ vessel had moored, individuals on the bank and along a forest track fled,
 abandoning the vessel. [@1]
 
 A search of the craft uncovered approximately 60 bales of pressed marijuana,
-amounting to 1,071 kilograms of the drug. [@1,2] Police also seized the fibre
+amounting to 1,071 kilograms of the drug. [@1,2,3] Police also seized the fibre
 vessel itself, which was equipped with a 200-horsepower outboard motor. [@1] The
 seized marijuana and the boat were delivered to the Federal Police station in
-Foz do Iguaçu for legal procedures. [@1,2]
+Foz do Iguaçu for legal procedures. [@1,2,3]
