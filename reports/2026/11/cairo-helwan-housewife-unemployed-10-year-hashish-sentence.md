@@ -58,11 +58,17 @@ sources:
     publisher: بوابة مولانا
     date: 2026-11-11
     language: ar
+  - title: المشدد 10 سنوات لربة منزل وعاطل بتهمة حيازة 70 جرام حشيش وأسلحة نارية في حلوان
+    url: https://www.dostor.org/5773168
+    publisher: جريدة الدستور
+    date: 2026-11-11
+    language: ar
 open_questions:
-  - No separate sentencing-hearing date is given; 11 November 2026 is the articles' publication date and is used as the incident date.
-  - The amount of cash seized was not quantified, so no cash figure is recorded.
-  - The defendants are described only as a housewife and an unemployed man, with no names or ages given.
-  - No appeal or later step in the case is reported.
+    - No separate sentencing-hearing date is given; 11 November 2026 is the articles' publication date and is used as the incident date.
+    - The amount of cash seized was not quantified, so no cash figure is recorded.
+    - The defendants are described only as a housewife and an unemployed man, with no names or ages given.
+    - No appeal or later step in the case is reported.
+    - One published account's body records a 10-year aggravated sentence only for the housewife, while its headline and the other reports say both defendants received that term.
 ---
 
 The Cairo Criminal Court sentenced a housewife and an unemployed man to 10 years
@@ -74,13 +80,12 @@ lived in the district, held drugs and unlicensed firearms and bladed weapons
 with another person for the purpose of trafficking. [@1]
 
 After legal procedures were completed, officers arrested the woman at her home,
-and she named her partner, an unemployed man, whom officers then arrested. [@1]
+and she named her partner, an unemployed man, whom officers then arrested. [@1,3]
 Officers found him with 70 grams of hashish, a shotgun, ammunition of different
-calibres, a bladed weapon and a sum of money. [@1] The second account likewise
+calibres, a bladed weapon and a sum of money. [@1,3] The second account likewise
 says 70 grams of hashish, a shotgun, ammunition, a bladed weapon and cash were
 found with him. [@2]
 
 Confronted with the seized items, both admitted holding them to traffic in drugs
 and weapons and said the money came from their criminal activity, after which
 legal measures were taken against them. [@1]
-
