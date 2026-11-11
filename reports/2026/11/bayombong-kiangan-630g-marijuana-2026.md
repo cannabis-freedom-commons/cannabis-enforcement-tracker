@@ -52,11 +52,16 @@ sources:
     url: https://tribune.net.ph/2026/11/11/individual-collared-for-weeds-in-nueva-vizcaya
     publisher: Daily Tribune
     date: 2026-11-11
+  - title: Agarup P75,000 a gatad ti marijuana, nakumpiska idiay Nueva Viscaya babaen iti buy-bust operation ti PDEA-CAR
+    url: https://baguio.bomboradyo.com/agarup-p75000-a-gatad-ti-marijuana-nakumpiska-idiay-nueva-viscaya-babaen-iti-buy-bust-operation-ti-pdea-car/
+    publisher: Bombo Radyo Baguio
+    date: 2026-11-11
 open_questions:
-  - The report identifies the suspect only by the alias Kiangan, age and residence; no full name was published.
-  - The seized material is described only as suspected dried marijuana leaves, with no laboratory confirmation reported.
-  - No court outcome was reported; formal charges were still being prepared when the article was published.
-  - The whole account rests on a single opened source reproducing the PDEA Cordillera account; no second report of this buy-bust was found.
+    - The report identifies the suspect only by the alias Kiangan, age and residence; no full name was published.
+    - The seized material is described only as suspected dried marijuana leaves, with no laboratory confirmation reported.
+    - No court outcome was reported; formal charges were still being prepared on the day of the arrest.
+    - Bombo Radyo's headline put the seizure at about P75,000; its text and the Daily Tribune gave P75,600, the figure used here.
+    - Both accounts reproduce the PDEA-Cordillera statement; no independent witness account was published.
 ---
 
 Operatives of the Philippine Drug Enforcement Agency (PDEA) Cordillera Ifugao
@@ -70,10 +75,9 @@ leaves to an undercover agent. [@1]
 Upon searching the suspect, the enforcers retrieved an additional plastic bag
 holding 620 grams of the same illicit material. [@1] The total weight of the
 confiscated dried marijuana leaves reached 630 grams. [@1] PDEA put the
-estimated value of the seized suspected dried marijuana leaves at P75,600. [@1]
+estimated value of the seized suspected dried marijuana leaves at P75,600. [@1,2]
 
 The suspect is detained in temporary custody at the Bayombong Municipal Police
-Station. [@1] Authorities are preparing formal charges against him for violating
+Station. [@1,2] Authorities are preparing formal charges against him for violating
 Republic Act 9165, also known as the Comprehensive Dangerous Drugs Act of 2002.
-[@1]
-
+[@1,2]
