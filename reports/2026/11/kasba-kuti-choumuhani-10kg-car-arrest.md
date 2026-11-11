@@ -55,26 +55,34 @@ sources:
     publisher: Sorejominbarta
     date: 2026-11-11
     language: bn
-open_questions:
-  - No street value for the seized ganja or car was published.
-  - No arrest of the absconding second accused or court outcome was reported.
+  - title: কসবায় প্রাইভেটকার থেকে ১০ কেজি গাঁজা উদ্ধার, গ্রেপ্তার ১
+    url: https://voiceofbrahmanbaria24.com/%E0%A6%95%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%AD%E0%A7%87%E0%A6%9F%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A7%A7/
+    publisher: Voice Of Brahmanbaria 24
+    date: 2026-11-11
+    language: bn
+media:
+  - kind: photo
+    url: https://voiceofbrahmanbaria24.com/%E0%A6%95%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%AD%E0%A7%87%E0%A6%9F%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A7%A7/
+    media_url: https://voiceofbrahmanbaria24.com/wp-content/uploads/2026/11/FB_IMG_1794385838593-1024x768.jpg
+    publisher: Voice Of Brahmanbaria 24
+    caption: 'Packages of seized ganja on a table with five men, including uniformed police, in the photo published with the report. Photo: Voice Of Brahmanbaria 24'
 ---
 
 Kasba police arrested 21-year-old Md Rubel at Kuti-Choumuhani in Kasba on the
-morning of 10 November 2026. [@1] Rubel is the son of the late Shah Alam from
-Kalikapur village in Ward No. 8 of Kasba Municipality. [@1,3] Police named a
+morning of 10 November 2026. [@1,4] Rubel is the son of the late Shah Alam from
+Kalikapur village in Ward No. 8 of Kasba Municipality. [@1,3,4] Police named a
 second villager, 40-year-old Monir Hossain alias Kala Monir, as an absconding
 accused in the case. [@1] Monir is the son of the late Rahij Mia alias Roij Mia
 from the same village. [@2]
 
 Officers recovered 10 kg of ganja from Rubel's possession during the search.
-[@1,3] Officers also seized a silver-coloured Probox private car that had been
-used to transport the drugs. [@2]
+[@1,3,4] Officers also seized a silver-coloured Probox private car that had been
+used to transport the drugs. [@2,4]
 
 The operation took place at about 9:30am on the paved road in front of the Kazi
-Paribahan bus counter at Kuti Choumuhani in Kuti Union. [@2,3] Kasba police
+Paribahan bus counter at Kuti Choumuhani in Kuti Union. [@2,3,4] Kasba police
 Sub-Inspector Abdur Rahim led the anti-drug raid with his force after receiving
 secret information. [@1] Kasba police Officer-in-Charge Ali Mohammad Rashed
 confirmed the seizure and said a case was filed at Kasba police station under
-the Narcotics Control Act. [@1,3] Sub-Inspector Md Abdur Rahim is the complainant
+the Narcotics Control Act. [@1,3,4] Sub-Inspector Md Abdur Rahim is the complainant
 in that case, and police said anti-drug operations were continuing. [@1]
