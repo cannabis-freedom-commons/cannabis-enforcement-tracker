@@ -105,28 +105,22 @@ sources:
     publisher: صحيفة الأيام
     date: 2026-11-06
     language: ar
+  - title: الداخلية السعودية تعلن إعدام 5 مهربين للحشيش في عسير
+    url: https://ekhbary24.com/article/49115
+    publisher: إخباري 24 نيوز
+    date: 2026-11-10
+    language: ar
 open_questions:
-  - The names of the five executed men were not published.
-  - No quantity of hashish they were convicted of smuggling was published.
-  - No exact place of execution beyond the Asir region was stated.
-  - No trial, appeal or detention details for these five men were reported.
-  - The 205, 124, 109 and 32 totals are AFP tallies based on official data, not separate findings for this event.
-  - The accounts repeat one interior ministry statement and are not independent of each other; none reports the quantity of hashish, the place of arrest or the date of the trial.
-  - The Almasir account repeats the interior ministry statement and independently confirms nothing beyond it; it gives no quantity of hashish, names of the five men or exact execution site.
-  - No quantity of hashish, place of arrest, or exact execution site beyond the Asir region was published.
-  - Both opened accounts repeat the same Interior Ministry statement via AFP and do not independently establish details beyond it.
-  - The AFP attribution is truncated after استنادا إلى البي.., so the full basis of the 205 tally is not visible in this capture.
-  - The page names no executed men, gives no quantity of hashish and no execution site beyond Saudi Arabia.
-  - The page gives no hashish quantity, no names of the five men and no execution site beyond the Asir region.
-  - The page is a global overview given over to Russia Today and describes the execution only briefly; it names none of the five men, gives no hashish quantity and no execution site within the kingdom.
-  - The page is a global overview given over to Russia Today; it names none of the five men, gives no hashish quantity and no execution site within the kingdom.
-  - The page's only image carries no caption or credit beyond the headline, so it does not establish that it shows this execution.
+    - No quantity of hashish the five men were convicted of smuggling was published.
+    - No exact execution site within the Asir region was reported.
+    - Details of the original arrest and trial dates were not disclosed.
+    - The 205, 124, 109 and 32 totals are AFP tallies based on official data, not separate findings for this event.
 ---
 
 Saudi Arabia executed five Ethiopian nationals in the Asir region on 5 November
-2026. [@1,5,7,8,9,10,11,12,14,15] The Interior Ministry said the five were convicted of participating
-in smuggling hashish into the kingdom. [@1,2,6,7,8,9,10,11,12,13] The ministry recorded the penalty as
-a discretionary taazir execution. [@1] The executions were carried out on
+2026. [@1,5,7,8,9,10,11,12,14,15,16] The Interior Ministry said the five were convicted of participating
+in smuggling hashish into the kingdom. [@1,2,6,7,8,9,10,11,12,13,16] The ministry recorded the penalty as
+a discretionary taazir execution. [@1,16] The executions were carried out on
 Thursday in Asir in the south of the country. [@1,2,8,9]
 
 An AFP tally based on official data put total executions in Saudi Arabia in 2026
@@ -144,8 +138,8 @@ all appeals and aim to maintain security and protect residents from drugs. [@1]
 Rights groups say the executions undermine the kingdom's efforts to polish its
 image. [@1]
 
-The Interior Ministry named the five executed men as Seqaw Asay Brato Tesfay, Kenfe Teklay Hadosh Fuado, Mekele Merhan Gerzagir Gebra, Desta Gebre Kiros Ambaya and Mahari Gebre Howarie Hilah Hilasa. [@3,5] The ministry gave the execution date as Thursday 25 Rabi al-Thani 1448 AH, corresponding to 5 November 2026, in the Asir region. [@4]
+The Interior Ministry named the five executed men as Seqaw Asay Brato Tesfay, Kenfe Teklay Hadosh Fuado, Mekele Merhan Gerzagir Gebra, Desta Gebre Kiros Ambaya and Mahari Gebre Howarie Hilah Hilasa. [@3,5,16] The ministry gave the execution date as Thursday 25 Rabi al-Thani 1448 AH, corresponding to 5 November 2026, in the Asir region. [@4]
 
-The Ministry said security agencies arrested the five before referring their case to the competent court, and that their sentences became final after appeal and Supreme Court endorsement before a royal order for execution. [@5,6,7,10]
+The Ministry said security agencies arrested the five before referring their case to the competent court, and that their sentences became final after appeal and Supreme Court endorsement before a royal order for execution. [@5,6,7,10,16]
 
 The announcement was the third such execution announcement in recent months. [@2]
