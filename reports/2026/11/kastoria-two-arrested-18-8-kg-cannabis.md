@@ -68,25 +68,24 @@ sources:
     publisher: ProtoThema
     date: 2026-11-11
     language: el
-open_questions:
-  - The reports describe the stop only as taking place in an area of Kastoria and do not name the exact location.
-  - No estimate of the cannabis's street value was published.
-  - The reports do not say where the cannabis came from or where it was being taken.
-  - It is not known whether the two suspects were detained or released after appearing before the prosecutor.
+  - title: 'Καστοριά: Έλεγχος σε ΙΧ αποκάλυψε 18,8 κιλά κάνναβης – Δύο συλλήψεις (VIDEO)'
+    url: https://www.theopinion.gr/perifereiaka-nea/kastoria-elegchos-se-ich-apokalypse-188-kila-kannavis-dyo-syllipseis-video/
+    publisher: The Opinion
+    date: 2026-11-11
+    language: el
 ---
 
 Narcotics officers arrested a 34-year-old Greek woman and a 38-year-old foreign
 man in the Kastoria area on the evening of 10 November 2026 on suspicion of drug
 trafficking. [@1] The two were in a car that police stopped because it was
 moving suspiciously, with the woman driving and the man in the passenger seat.
-[@3] In the back of the car, officers found two travel bags holding 18 packages
-of raw cannabis with a total gross weight of 18 kg 800 g. [@3] Police seized the
-car used to carry the drugs, two mobile phones and two SIM cards. [@1]
+[@3,4] In the back of the car, officers found two travel bags holding 18 packages
+of raw cannabis with a total gross weight of 18 kg 800 g. [@3,4] Police seized the
+car used to carry the drugs, two mobile phones and two SIM cards. [@1,4]
 
 A felony case file was opened against both suspects, who were expected to be
-taken before the prosecutor at the Kastoria Court of First Instance. [@1] The
+taken before the prosecutor at the Kastoria Court of First Instance. [@1,4] The
 investigation was handled by the Kastoria Narcotics Enforcement Department
 within the Kastoria Subdirectorate for the Detection and Investigation of Crime,
 whose officers had gathered information in operations against drug import and
 trafficking. [@2]
-
