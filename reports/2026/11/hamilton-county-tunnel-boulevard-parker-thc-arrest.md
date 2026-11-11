@@ -64,31 +64,34 @@ sources:
     url: https://newschannel9.com/news/local/wrong-way-driver-flees-hamilton-county-deputy-passenger-found-with-drugs-and-handguns
     publisher: WTVC
     date: 2026-11-10
+  - title: 'HCSO: Man arrested after early morning pursuit, deputies find THC and loaded guns'
+    url: https://www.local3news.com/local-news/hcso-man-arrested-after-early-morning-pursuit-deputies-find-thc-and-loaded-guns/article_42384952-2676-4c18-847e-08cf876cf228.html
+    publisher: Local3News.com
+    date: 2026-11-10
 open_questions:
-  - No laboratory confirmation or specific form of the concentrated marijuana (THC) was reported beyond the sheriff's office release.
-  - The sheriff's office estimated the street value of the THC at more than $13,000 without giving an exact valuation.
-  - The driver and any additional passengers had not been identified or arrested in these preliminary reports.
-  - No court dates, bond details, plea or trial outcome had been reported beyond the arrest and initial charges.
-  - All three opened local accounts draw on the same Hamilton County Sheriff's Office release.
-  - The pursuit and crash are placed on Standifer Gap Road and Tunnel Boulevard in Hamilton County, so the coordinates mark Chattanooga, the county seat, rather than the exact crash site.
+    - No laboratory confirmation or specific form of the concentrated marijuana (THC) was reported beyond the sheriff's office release.
+    - The sheriff's office estimated the street value of the THC at more than $13,000 without giving an exact valuation.
+    - The driver and any additional passengers had not been identified or arrested in these preliminary reports.
+    - No court dates, bond details, plea or trial outcome had been reported beyond the arrest and initial charges.
+    - All four opened local accounts draw on the same Hamilton County Sheriff's Office release.
+    - The pursuit and crash are placed on Standifer Gap Road and Tunnel Boulevard in Hamilton County, so the coordinates mark Chattanooga, the county seat, rather than the exact crash site.
 ---
 
 Hamilton County Sheriff's Office deputies arrested a passenger carrying drugs
 and handguns after a pursuit of a wrong-way driver ended in a crash on Tuesday
-morning. [@3] The incident began in the early morning hours of November 10,
+morning. [@3,4] The incident began in the early morning hours of November 10,
 2026, when a deputy observed a vehicle traveling the wrong way in the 7300 block
-of Standifer Gap Road. [@1] The deputy attempted a traffic stop, and the driver
-failed to stop, initiating a pursuit. [@1]
+of Standifer Gap Road. [@1,4] The deputy attempted a traffic stop, and the driver
+failed to stop, initiating a pursuit. [@1,4]
 
 The driver collided with a wooden telephone pole in the 2100 block of Tunnel
-Boulevard. [@2] One of the passengers was identified as Jamaal Parker. [@2] The
+Boulevard. [@2,4] One of the passengers was identified as Jamaal Parker. [@2,4] The
 sheriff's office said Parker had a backpack containing 4 pounds (1.81 kilograms)
 of individually packaged concentrated marijuana (THC), along with two loaded
-handguns. [@3] The Hamilton County Sheriff's Office estimated the street value
-of the seized THC at more than $13,000. [@3]
+handguns. [@3,4] The Hamilton County Sheriff's Office estimated the street value
+of the seized THC at more than $13,000. [@3,4]
 
 Parker was taken into custody and faces charges of drugs for general category
-for resale and possession of a firearm during a felony. [@3] The sheriff's
+for resale and possession of a firearm during a felony. [@3,4] The sheriff's
 office said the investigation into the driver and additional passengers is
-continuing. [@3]
-
+continuing. [@3,4]
