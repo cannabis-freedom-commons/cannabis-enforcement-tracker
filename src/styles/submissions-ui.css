@@ -302,15 +302,18 @@
 .sx-worker-card { width: 260px; max-width: 100%; min-width: 0; box-sizing: border-box; flex-direction: column; align-items: flex-end; gap: 6px; margin-top: 6px; padding: 10px 14px; border: 1px solid var(--border); border-radius: 10px; background: var(--surface); }
 .sx-worker-card .sx-worker { display: grid; gap: 3px; justify-items: end; padding: 0; margin: 0; border: 0; background: none; font-size: 13px; }
 .sx-worker-card .ai-worker-line { display: flex; align-items: center; gap: 8px; }
-.sx-worker-card .ai-worker-detail { position: relative; font: 11.5px var(--mono); color: var(--muted); }
+.ai-worker-detail { position: relative; display: inline-block; }
+.sx-worker-card .ai-worker-detail { font: 11.5px var(--mono); color: var(--muted); }
 .ai-worker-info { display: inline-flex; align-items: center; gap: 7px; padding: 2px 0; border: 0; background: none; color: var(--text-2); font: inherit; cursor: help; }
 .ai-worker-info-icon { color: var(--muted); }
 .ai-worker-info:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; border-radius: 2px; }
-.ai-worker-tooltip { display: none; position: absolute; z-index: 20; top: 100%; right: 0; width: 360px; max-width: calc(100vw - 48px); padding: 14px; box-sizing: border-box; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); box-shadow: 0 10px 30px #0004; text-align: left; font: 12px/1.5 Inter, system-ui, sans-serif; color: var(--text-2); overflow-wrap: anywhere; }
+.ai-worker-tooltip { display: none; position: absolute; z-index: 20; top: 100%; left: 0; margin-top: 6px; width: 360px; max-width: calc(100vw - 48px); padding: 14px; box-sizing: border-box; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); box-shadow: 0 10px 30px #0004; text-align: left; font: 12px/1.5 Inter, system-ui, sans-serif; color: var(--text-2); overflow-wrap: anywhere; }
 .ai-worker-detail:hover .ai-worker-tooltip, .ai-worker-detail:focus-within .ai-worker-tooltip { display: grid; gap: 12px; }
 .ai-worker-agent { display: grid; gap: 3px; }
 .ai-worker-agent strong { color: var(--text); font-weight: 600; }
 .ai-worker-model-id { font: 10.5px/1.5 var(--mono); color: var(--muted); }
+/* in the small card at the right edge it opens leftwards, under the card */
+.sx-worker-card .ai-worker-tooltip { left: auto; right: 0; }
 .sx-worker-card .ai-worker-note { max-width: 320px; text-align: right; font-size: 12px; }
 /* the connection shows only when it is not live (the worker's dot says enough) */
 .sx-worker-card .sx-live { font-size: 11px; }
