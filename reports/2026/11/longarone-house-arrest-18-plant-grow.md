@@ -73,6 +73,11 @@ sources:
     publisher: Radio Cortina
     date: 2026-11-10
     language: it
+  - title: 'Coltivava marijuana mentre era ai domiciliari: arrestato 63enne. Gli agenti hanno sequestrato 18 piante nella sua abitazione'
+    url: https://www.ilgazzettino.it/nordest/belluno/coltiva_marijuana_domiciliari_casa_arresto-9881398.html
+    publisher: Il Gazzettino
+    date: 2026-11-10
+    language: it
 open_questions:
     - One passage in Corriere delle Alpi says the man was transferred to prison, while a later passage in the same outlet and News In Quota say he was first placed under house arrest and then released pending the validation hearing; the report uses the latter account.
     - No dried-cannabis weight, area, value estimate or THC result was published, and laboratory confirmation was still pending.
@@ -82,19 +87,19 @@ open_questions:
 The Belluno Flying Squad rearrested a 63-year-old man from Longarone after a
 check led officers to a cannabis grow inside his home. [@1] The man had been
 serving home detention since April 2026 for drug, weapons, resistance and
-personal offences. [@1,2,3] Investigators, made suspicious by his recent movements
+personal offences. [@1,2,3,4] Investigators, made suspicious by his recent movements
 and inquiries, stopped him on the morning of 6 November in Longarone during his
-court-authorised time outside. [@1,3]
+court-authorised time outside. [@1,3,4]
 
 Inside the upper floors of his residence, officers found a plantation of 18
 potted marijuana plants. [@1] The plants were kept in a dedicated room fitted
 with growing and humidifying equipment. [@1] The grow used a lighting system for
 seedlings at least a metre tall. [@1] Police seized all 18 plants, which must
 now undergo laboratory tests to assess their actual active-principle potency.
-[@1,3]
+[@1,3,4]
 
 The man was arrested in flagrante on the morning of Friday 6 for cultivation of
-narcotic substance. [@1,3] The operation was part of a wider targeted effort
-against drug trafficking involving the Flying Squad's anti-drugs section. [@1,3]
+narcotic substance. [@1,3,4] The operation was part of a wider targeted effort
+against drug trafficking involving the Flying Squad's anti-drugs section. [@1,3,4]
 After the arrest he was first left under house arrest and then released pending
-the validation hearing. [@1,2,3]
+the validation hearing. [@1,2,3,4]
