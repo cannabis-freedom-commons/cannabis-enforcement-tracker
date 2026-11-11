@@ -57,6 +57,11 @@ sources:
     publisher: Arezzo24
     date: 2026-11-10
     language: it
+  - title: 'Piante di cannabis nel terreno a Sansepolcro, altre appese nei capanni e infiorescenze nell''auto: denunciato'
+    url: https://www.virgilio.it/notizie/piante-di-cannabis-nel-terreno-a-sansepolcro-altre-appese-nei-capanni-e-infiorescenze-nell-auto-denunciato-1795378
+    publisher: Virgilio Notizie
+    date: 2026-11-10
+    language: it
 open_questions:
   - No number of plants and no weight for the seized inflorescences was published.
   - The reports say only that the operation occurred in recent days, so 10 November 2026 is the publication date used as the incident date.
@@ -64,22 +69,21 @@ open_questions:
 ---
 
 Officers from the Sansepolcro police station's anti-crime unit uncovered a
-cannabis-growing operation intended for narcotic-drug production. [@1] The
+cannabis-growing operation intended for narcotic-drug production. [@1,3] The
 55-year-old Italian man investigated was already known to law enforcement for
 previous offences. [@1]
 
 The investigation began after suspicious movements in the area were documented
-through targeted checks and photographic stakeouts. [@1] Police found that the
+through targeted checks and photographic stakeouts. [@1,3] Police found that the
 man personally handled both cultivation and processing, with some plants still
-growing on a plot of his own land. [@1] Searches of nearby sheds found
-additional plants that had been cut and hung up to dry. [@1] A search of his
+growing on a plot of his own land. [@1,3] Searches of nearby sheds found
+additional plants that had been cut and hung up to dry. [@1,3] A search of his
 vehicle found a cellophane package containing numerous cannabis inflorescences.
-[@1]
+[@1,3]
 
 All of the drugs found were seized and placed at the disposal of the judicial
-authority. [@1] He was reported while at liberty for violating Article 73(1),
+authority. [@1,3] He was reported while at liberty for violating Article 73(1),
 which punishes unauthorised cultivation and production of narcotic or
-psychotropic substances. [@1] The State Police seized the plants and
+psychotropic substances. [@1,3] The State Police seized the plants and
 inflorescences found during the checks, including material hidden in the man's
 car. [@2]
-
