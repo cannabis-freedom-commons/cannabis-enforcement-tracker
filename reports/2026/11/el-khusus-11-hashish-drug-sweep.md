@@ -42,12 +42,17 @@ sources:
     publisher: أخبار اليوم
     date: 2026-11-11
     language: ar
+  - title: ضبط 11 متهماً في حملة أمنية ضد المخدرات بالخصوص
+    url: https://mwlana.com/details/267844/
+    publisher: بوابة مولانا
+    date: 2026-11-11
+    language: ar
 open_questions:
-  - No weight, piece count or value was published for the hashish or for the other drugs.
-  - The accounts give no separate date for the campaign; 11 November 2026 is the publication date and is used as the incident date.
-  - The reports do not say how many of the 11 held hashish rather than heroin, ice or powdered drugs.
-  - No names, ages, individual charges or court outcome were reported.
-  - Both accounts appear to repeat the same security statement.
+    - No weight, piece count or value was published for the hashish or for the other drugs.
+    - The accounts give no separate date for the campaign; 11 November 2026 is the publication date and is used as the incident date.
+    - The reports do not say how many of the 11 held hashish rather than heroin, ice or powdered drugs.
+    - No names, ages, individual charges or court outcome were reported.
+    - All three accounts appear to repeat the same security statement.
 ---
 
 Security agencies in Qalyubia Governorate examined social-media posts that said
@@ -55,17 +60,16 @@ drug dealers were active in the El-Khusus police district. [@1] Users had
 circulated claims that dealers were operating inside the El-Khusus police
 station's area in Qalyubia. [@2] In response, security agencies in Qalyubia
 launched a large campaign against people possessing drugs and people dealing
-them in that district. [@1] The campaign was mounted immediately after those
+them in that district. [@1,3] The campaign was mounted immediately after those
 claims were examined. [@1] The sweep was confined to the area of the El-Khusus
-police station. [@1] The campaign detained 11 suspects. [@1]
+police station. [@1] The campaign detained 11 suspects. [@1,3]
 
 Officers said the 11 were carrying mixed quantities of narcotics, and they named
-hashish, heroin, ice and powdered drugs among what was found. [@1] Hashish,
+hashish, heroin, ice and powdered drugs among what was found. [@1,3] Hashish,
 pressed cannabis resin, was one of the drugs the accounts listed with the
 suspects. [@2] Heroin, ice and powdered drugs were named beside the hashish in
 the same seizure. [@1]
 
 After the arrests, the authorities took the legal steps required against the
-suspects. [@1] Security agencies said further campaigns would continue against
+suspects. [@1] The Public Prosecution took over the investigation into the 11 suspects. [@3] Security agencies said further campaigns would continue against
 people breaking the law and against drug-dealing offences. [@1]
-
