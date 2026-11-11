@@ -57,16 +57,21 @@ sources:
     publisher: NDT Noticias de Tijuana
     date: 2026-11-10
     language: es
+  - title: Aseguran a alumno por presunta venta de cigarros con marihuana en secundaria de Tijuana
+    url: https://www.elimparcial.com/tij/policiaca/2026/11/10/aseguran-a-alumno-por-presunta-venta-de-cigarros-con-marihuana-en-secundaria-de-tijuana/
+    publisher: El Imparcial
+    date: 2026-11-10
+    language: es
 open_questions:
-  - No count of the cigarettes and no weight of the suspected marijuana were published.
-  - No separate date for the intervention was given; 10 November 2026 is the publication date of both reports.
-  - The substance was described only as having characteristics similar to marijuana, with no laboratory confirmation reported.
-  - No charges, custody decision or court outcome for the minor were reported.
-  - No amount of the seized alleged sale money was published.
+    - No count of the cigarettes and no weight of the suspected marijuana were published.
+    - No separate date for the intervention was given; 10 November 2026 is the publication date of these reports.
+    - The substance was described only as having characteristics similar to marijuana, with no laboratory confirmation reported.
+    - No charges, custody decision or court outcome for the minor were reported.
+    - No amount of the seized alleged sale money was published.
 ---
 
 Tijuana municipal police detained a minor accused of selling marijuana
-cigarettes inside a secondary school in Tijuana. [@1,3] The school is a secondary
+cigarettes inside a secondary school in Tijuana. [@1,3,4] The school is a secondary
 school in colonia Libertad, where a student was allegedly offering the
 cigarettes to other students, according to the municipal security secretariat
 SSPCM. [@1,3] With the school authority's permission, officers entered the
@@ -74,10 +79,10 @@ premises and teaching staff identified the adolescent as the alleged seller.
 [@1,3]
 
 During the check officers found a case holding several cigarettes containing a
-substance with characteristics similar to marijuana. [@1,3] In the mother's
+substance with characteristics similar to marijuana. [@1,3,4] In the mother's
 presence, officers seized the substance and money allegedly earned from the
 sales. [@1,3] The minor was then handed over to the investigative authority, which
-will determine his legal situation under the applicable law. [@1,3]
+will determine his legal situation under the applicable law. [@1,3,4]
 
 A second Tijuana outlet confirms municipal police were called about the alleged
 sale at the colonia Libertad secondary school. [@2] The SSPCM urged mothers and
