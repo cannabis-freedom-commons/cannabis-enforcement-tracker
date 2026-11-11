@@ -111,6 +111,11 @@ sources:
     publisher: RÍO NOTICIAS
     date: 2026-11-10
     language: es
+  - title: Incautan 2,7 toneladas de marihuana en el departamento colombiano de Putumayo - Eje21
+    url: https://www.eje21.com.co/2026/11/incautan-27-toneladas-de-marihuana-en-el-departamento-colombiano-de-putumayo/
+    publisher: Eje21
+    date: 2026-11-12
+    language: es
 open_questions:
   - Accounts differ on whether the Comandos de la Frontera structure belongs to the Segunda Marquetalia or the Coordinadora Nacional Ejército Bolivariano dissidence.
   - The same article reports a separate seizure of 3,997 kilograms of marijuana in Cauca, a different event left out here.
@@ -120,12 +125,12 @@ Colombia's National Army reported on 10 November 2026 that 2.7 tonnes of
 marijuana had been seized from a bongo remolcador, a river tugboat, during a
 military operation in Puerto Asís, Putumayo. [@1,7,9,11] The interinstitutional
 operation took place at the Hong Kong wharf in Puerto Asís, where authorities
-located the vessel. [@2,4,5,6,7,8,9] During the procedure, officers seized the boat and
+located the vessel. [@2,4,5,6,7,8,9,12] During the procedure, officers seized the boat and
 found about 2,700 kilograms of a substance that by its physical characteristics
 resembles marijuana. [@2,5,6,8,10]
 
 The seizure came from a joint operation by the Army, the Navy and the National
-Police. [@3,4,9,10,11] Units taking part under the Ayacucho Plus campaign plan included
+Police. [@3,4,9,10,11,12] Units taking part under the Ayacucho Plus campaign plan included
 the 27th Combat Engineer Battalion of the 27th Brigade, Marine Infantry River
 Battalion No. 30, the Anti-Narcotics Directorate, intelligence unit Sipol and
 criminal investigation unit Sijín. [@2,5,6] The Army announced the operation in its
