@@ -93,44 +93,40 @@ sources:
     publisher: ZuidWest Update
     date: 2026-11-07
     language: nl
+  - title: Politie neemt ruim bijna 10.000 cobra’s, lawinepijlen en zware shells in beslag
+    url: https://www.blikopnieuws.nl/nieuws/311502/politie-neemt-ruim-bijna-10000-cobras-lawinepijlen-en-zware-shells-in-beslag.html
+    publisher: Blik op nieuws
+    date: 2026-11-08
+    language: nl
 open_questions:
-  - The quantities are given as more than 90 grams of hemp and more than 800 grams of hash, not exact weights, so the cannabis total of about 891 grams is approximate.
-  - The statement gives no street value for the hash or hemp and does not say which charges the two men face or whether they remain in custody.
-  - The garage box is identified only by street; the pin is for Dinteloord.
-  - The 250 pills are counted in neither cannabis figures nor any structured detail because the statement does not say what they contain.
-  - The Omroep Brabant account gives the same approximate cannabis weights ('90 gram hennep', '800 gram hasj') without more precision, and repeats that no charges are stated.
-  - De Telegraaf gives the hash weight as '800 gram' without 'ruim', the same approximate figure as the other accounts, so the report's already approximate cannabis total is unaffected.
-  - The article does not say what the 250 pills contained or which charges the two men face.
-  - BN DeStem carries the same police statement as the sources already cited and is not independent reporting; it gives no charges, no custody decision and no street value for the hash or hemp.
-  - NOS states 750 kilograms of heavy illegal fireworks without the 'more than' used in the police statement already cited, and gives no street name or exact arrest dates beyond Wednesday and Friday.
-  - The NOS page photo is captioned as a Cobra 6 at a police fireworks demonstration, not this seizure, so it is not added as media.
-  - The article gives the cannabis weights as 90 grams of hemp and 800 grams of hash, while the police statement cited in the report says just over those amounts; the approximate total is unaffected.
-  - The article dates the find only to 'this week' with a police message on Saturday, and repeats that no charges are stated.
-  - The Kijk op Steenbergen copy describes the drugs only as 'drugs' without naming hash or hemp or giving weights, so it corroborates the find but adds no cannabis quantity.
-  - The submitted BN DeStem page identifies the first arrest only as on the Wednesday evening and the second on the Friday evening; 4 November 2026 for the search comes from the police statement already cited in the report.
-  - The page gives no charges, custody decision or court outcome for the two arrested men.
-  - The page photo captioned 'Garageboxen aan De Vriesstraat' shows the garage boxes at that street, not the seized cannabis, so it is not listed as media for this cannabis report.
+    - The quantities are given as more than 90 grams of hemp and more than 800 grams of hash, not exact weights, so the cannabis total of about 891 grams is approximate.
+    - No street value for the hash or hemp was published, and the reports do not say which charges the two men face or whether they remain in custody.
+    - The garage box is identified only by street; the pin is for Dinteloord.
+    - The 250 pills are not counted as cannabis because the reports do not say what they contain.
+    - Some accounts give the hemp and hash as 90 grams and 800 grams without the police statement's 'just over', so the already approximate cannabis total is unaffected.
+    - NOS states 750 kilograms of fireworks without the 'more than' in the police statement, and does not name the street or give exact arrest dates beyond Wednesday and Friday.
+    - One local reprint describes the drugs only as drugs, without naming hash or hemp or giving weights.
 ---
 
 Police entered a garage box on the De Vriesstraat in Dinteloord on the evening
 of Wednesday 4 November 2026 and found a large quantity of heavy illegal
-fireworks. [@1,2,3,4,7,8,9] Officers arrested a 25-year-old man from Dinteloord that evening
-and a 42-year-old man from Steenbergen on the evening of Friday 6 November. [@1,2,4,5,6,7,8,9]
+fireworks. [@1,2,3,4,7,8,9,10] Officers arrested a 25-year-old man from Dinteloord that evening
+and a 42-year-old man from Steenbergen on the evening of Friday 6 November. [@1,2,4,5,6,7,8,9,10]
 The search followed a longer police investigation that began with a report about
-the possible storage and sale of illegal fireworks. [@1,4,5,8]
+the possible storage and sale of illegal fireworks. [@1,4,5,8,10]
 
 Alongside the fireworks, officers found just over 90 grams of hemp and just over
-800 grams of hash in the garage box. [@1,2,3,4,5,6,7,9] Police also seized about 250 pills, an
-alarm pistol, expensive jewellery and a car. [@1,2,3,4,6,7,9] In total more than 750
+800 grams of hash in the garage box. [@1,2,3,4,5,6,7,9,10] Police also seized about 250 pills, an
+alarm pistol, expensive jewellery and a car. [@1,2,3,4,6,7,9,10] In total more than 750
 kilograms of fireworks were taken away, including almost 10,000 cobras, boxes of
 lawinepijlen (heavy rockets) and shells weighing several kilograms each;
-specialists removed them safely. [@1,4]
+specialists removed them safely. [@1,4,10]
 
 Police said the fireworks held large amounts of explosive flash powder and that
 an explosion could set off a mass explosion affecting whole streets and
-residential districts. [@1,3] Police linked the case to their drive against
+residential districts. [@1,3,10] Police linked the case to their drive against
 illegal fireworks ahead of New Year; since 1 August 2026 possessing, buying and
-setting off fireworks is banned in the Netherlands. [@1]
+setting off fireworks is banned in the Netherlands. [@1,10]
 
 Mayor Ruud van den Belt of Steenbergen called the find very worrying and said the municipality had escaped with a fright. [@6]
 
