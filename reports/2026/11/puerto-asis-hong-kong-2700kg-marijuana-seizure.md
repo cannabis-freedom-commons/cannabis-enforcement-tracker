@@ -101,6 +101,11 @@ sources:
     publisher: ABC Color
     date: 2026-11-10
     language: es
+  - title: Colombia destruye laboratorio de cocaína y decomisa 2,7 toneladas de marihuana en frontera con Ecuador
+    url: https://www.primicias.ec/internacional/colombia-putumayo-narino-cocaina-marihuana-comandos-frontera-ecuador-136820/
+    publisher: Primicias
+    date: 2026-11-10
+    language: es
 open_questions:
   - Accounts differ on whether the Comandos de la Frontera structure belongs to the Segunda Marquetalia or the Coordinadora Nacional Ejército Bolivariano dissidence.
   - The same article reports a separate seizure of 3,997 kilograms of marijuana in Cauca, a different event left out here.
@@ -112,10 +117,10 @@ military operation in Puerto Asís, Putumayo. [@1,7,9] The interinstitutional
 operation took place at the Hong Kong wharf in Puerto Asís, where authorities
 located the vessel. [@2,4,5,6,7,8,9] During the procedure, officers seized the boat and
 found about 2,700 kilograms of a substance that by its physical characteristics
-resembles marijuana. [@2,5,6,8]
+resembles marijuana. [@2,5,6,8,10]
 
 The seizure came from a joint operation by the Army, the Navy and the National
-Police. [@3,4,9] Units taking part under the Ayacucho Plus campaign plan included
+Police. [@3,4,9,10] Units taking part under the Ayacucho Plus campaign plan included
 the 27th Combat Engineer Battalion of the 27th Brigade, Marine Infantry River
 Battalion No. 30, the Anti-Narcotics Directorate, intelligence unit Sipol and
 criminal investigation unit Sijín. [@2,5,6] The Army announced the operation in its
@@ -123,7 +128,7 @@ regular bulletin La Primera del Día, describing the seizure as one of the
 largest drug loads intercepted so far this year in that border area. [@1]
 According to preliminary Army information, the shipment belonged to the Comandos
 de Frontera structure of the Segunda Marquetalia dissidence, one of the residual
-organised armed groups operating in the region. [@1,5,6]
+organised armed groups operating in the region. [@1,5,6,10]
 
 The Army estimated that the seizure prevented about 27,000 doses of the
 substance from entering illegal markets. [@2,6] Authorities did not specify the
