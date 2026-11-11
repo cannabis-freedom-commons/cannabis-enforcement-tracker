@@ -136,12 +136,25 @@ sources:
     publisher: サンスポ
     date: 2026-11-11
     language: ja
+  - title: 格闘技イベント「ブレイキングダウン」出場を語る男ら大麻売買疑いで逮捕
+    url: https://www.youtube.com/watch?v=iPnZ6VWrb6Y
+    publisher: Television OSAKA NEWS
+    date: 2026-11-11
+    language: ja
+media:
+  - kind: video
+    url: https://www.youtube.com/watch?v=iPnZ6VWrb6Y
+    media_url: https://www.youtube.com/watch?v=iPnZ6VWrb6Y
+    publisher: Television OSAKA NEWS
+    caption: Television Osaka news report on the arrests of Daisuke Yamamoto and Masaru Sakaguchi over an alleged cannabis sale.
+open_questions:
+  - Television Osaka's description says the two used marijuana slang in social-media transactions, while other reports describe code words and messages on a confiscated smartphone.
 ---
 
 Osaka prefectural police arrested Daisuke Yamamoto, a 37-year-old man of no
 known occupation from Ikuno Ward in Osaka, and Masaru Sakaguchi, a 60-year-old
 beautician from the same ward, on suspicion of violating the Narcotics Special
-Provisions Law and related offences. [@1,2,3,4,5,7,8,10,11,12,13,14,16,17,20] The arrests, over the alleged purchase
+Provisions Law and related offences. [@1,2,3,4,5,7,8,10,11,12,13,14,16,17,20] Both men were referred to prosecutors on suspicion of violating the Special Narcotics Law and other charges. [@21] The arrests, over the alleged purchase
 and sale of goods presented as cannabis, were announced by 11 November 2026.
 [@1,2,3,11,12,13] Police did not disclose whether the two men admitted the allegations. [@5,17] According to the police, Yamamoto had previously competed in BreakingDown,
 a mixed-rules combat sports event popular primarily among young people. [@1,2,3,6,11,12,13,15,19]
