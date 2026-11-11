@@ -55,6 +55,10 @@ sources:
     url: https://www.greaterkashmir.com/kashmir/police-arrest-three-drug-peddlers-in-anantnag-and-kulgam-12799065
     publisher: Greater Kashmir
     date: 2026-11-10
+  - title: 3 drug peddlers arrested
+    url: https://www.dailyexcelsior.com/3-drug-peddlers-arrested-3/amp
+    publisher: Daily Excelsior
+    date: 2026-11-11
 open_questions:
   - The sources give no separate date for the checks; 10 November 2026 is their publication date and the day police spoke, and is used as the incident date.
   - The 747 grams from Kulgam is described as a cannabis-like substance including flowering tops, with no chemical or laboratory analysis reported.
@@ -64,21 +68,20 @@ open_questions:
 
 Jammu and Kashmir Police arrested two men during a naka checking operation at
 Khudwani Bypass in Kulgam district, near the Sher-e-Kashmir University of
-Agricultural Sciences and Technology. [@1] Police identified the two detained
+Agricultural Sciences and Technology. [@1,3] Police identified the two detained
 men as Murtaza Ashraf of Chansar in Kulgam and Mohammad Amir Kuttay of Badi
 Jalan in DH Pora. [@1] Officers recovered 747 grams of a cannabis-like
 substance, including flowering tops, from the possession of the two suspects.
-[@1]
+[@1,3]
 
 In a separate operation in neighbouring Anantnag district, police conducting
 checkpoint checks at Semthan apprehended Mushtaq Ahmad Rather, the son of
-Mohammad Yousuf Rather and a resident of Semthan. [@1] A personal search of
-Rather yielded 15 grams of charas, a cannabis resin, recovered by police. [@1]
+Mohammad Yousuf Rather and a resident of Semthan. [@1,3] A personal search of
+Rather yielded 15 grams of charas, a cannabis resin, recovered by police. [@1,3]
 
 Police registered criminal cases under relevant provisions of the Narcotic Drugs
-and Psychotropic Substances Act at the respective local police stations. [@1]
+and Psychotropic Substances Act at the respective local police stations. [@1,3]
 Investigators began further inquiries to establish the source of the seized
 contraband and trace its forward distribution linkages. [@1] Officials
 reiterated the police commitment to eliminate illicit drugs and urged members of
 the public to cooperate in curbing drug trafficking. [@2]
-
