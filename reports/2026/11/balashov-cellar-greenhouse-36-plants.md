@@ -72,20 +72,25 @@ sources:
     publisher: СарБК
     date: 2026-11-10
     language: ru
+  - title: Полицейские нашли подземную плантацию марихуаны
+    url: https://worldinform.ru/articles/id-policeiskie-nashli-podzemnuyu-plantaciyu-marihuany.html
+    publisher: The World Inform
+    date: 2026-11-10
+    language: ru
 ---
 
 A 43-year-old man in Balashov, Saratov Oblast, built a greenhouse in the cellar
 of his house and grew cannabis there, the regional headquarters of the Interior
-Ministry said. [@1,5] Officers of the Balashov interior ministry division found it
+Ministry said. [@1,5,6] Officers of the Balashov interior ministry division found it
 during operational search measures, the regional headquarters said. [@2] The
 officers of the drug control unit found the greenhouse in a cellar inside a
 residential house, the regional interior ministry said. [@3] Police seized 36
 cannabis plants from the greenhouse and 325.6 grams of marijuana that had been
-prepared for use. [@1,5]
+prepared for use. [@1,5,6]
 
 Criminal cases were opened under part 2 of article 228 of the Russian Criminal
 Code, on storing drugs, and part 1 of article 231, on cultivating
-drug-containing plants. [@3,5] The suspect was placed under a written undertaking
-not to leave and to behave properly, so he was not held in custody. [@1,5] An
+drug-containing plants. [@3,5,6] The suspect was placed under a written undertaking
+not to leave and to behave properly, so he was not held in custody. [@1,5,6] An
 outlet reported that the man faces up to 10 years in prison, the penalty the
 charges carry rather than a sentence. [@4]
