@@ -1,0 +1,72 @@
+---
+code: APBJJS
+added_at: "2026-11-11T14:46:58.180008Z"
+date: 2026-11-11
+country: in
+place: Akkurthi railway gate, Srikalahasti mandal, Tirupati district
+coordinates: [13.7506, 79.6986]
+precision: locality
+type: arrest
+also: [seizure]
+title: Man arrested with 1.1 kg ganja at Srikalahasti railway gate
+summary: >-
+  Srikalahasti Rural police arrested Barri Mohan Reddy at the Akkurthi railway gate on 11 November 2026 and seized about 1.1 kg of ganja and a motorcycle. Police say he sourced the ganja from Odisha for local sale and have registered an NDPS case while tracing other suppliers.
+figures:
+  arrested: 1
+  vehicles: 1
+  kg_seized: 1.1
+details:
+  agencies: [Srikalahasti Rural Police]
+  agency_types: [police]
+  products:
+    - {product: flower, kg: 1.1}
+  setting: [street]
+  charges: [case under the NDPS Act]
+  case_stage: investigation
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.charges: [1]
+  details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.kg_seized: [1]
+  figures.vehicles: [1]
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: 6e7b97c7846e28486425caf11e457b02
+tags: [srikalahasti, tirupati, ganja, andhra-pradesh]
+sources:
+  - title: 'Srikalahasti: అక్కుర్తి రైల్వే గేటు వద్ద గంజాయి పట్టివేత: ఒకరు అరెస్ట్ | Ganja Seized Near Akkurthi Railway Gate in Srikalahasti One Arrested'
+    url: https://www.hmtvlive.com/telugu-news/tirupati/ganja-seized-near-akkurthi-railway-gate-in-srikalahasti-one-arrested-211624
+    publisher: HMTV
+    date: 2026-11-11
+    language: te
+  - title: శ్రీకాళహస్తిలో గంజాయి స్వాధీనం.. ఒకరి అరెస్ట్
+    url: https://www.andhrajyothy.com/2026/andhra-pradesh/srikalahasti-ganja-seizure-one-arrested-erk-1575289.html
+    publisher: Andhrajyothy
+    date: 2026-11-11
+    language: te
+---
+
+Police detained and arrested Barri Mohan Reddy of Muchuvolu village. [@1] The
+raid took place at the Akkurthi railway gate in Srikalahasti mandal at about
+8:30 am on 11 November on credible information about illegal ganja sales, led by
+Rural CI G. Ibrahim with police staff and revenue officials. [@1] Police said
+the checks were part of district-wide monitoring of ganja smuggling and sales
+ordered by Tirupati district SP L. Subbarayudu. [@1] A second account confirms
+police detained the suspect, Barri Mohan Reddy, after checks near the Akkurthi
+railway gate on received information. [@2]
+
+Officers seized about 1,100 grams of ganja from him. [@1] Officers also seized a
+motorcycle from him. [@1] The second account likewise says police seized 1,100
+grams of ganja brought for illegal sale, along with a bike. [@2] Police said
+preliminary questioning indicated he had bought the ganja from a man named Seenu
+of Chatrapur town in Odisha and was selling it locally. [@1] Police registered a
+case under the NDPS Act. [@1] Police said investigation was continuing to
+identify the main supplier and others involved in the illegal trade. [@1]
+
+Tirupati district police appealed to the public to report ganja transport or
+sales to police or Dial 112 and urged youth to stay away from drugs. [@1]
+
