@@ -103,17 +103,21 @@ sources:
     publisher: Lebanon Debate
     date: 2026-11-11
     language: ar
+  - title: Three arrested over suspected drug trafficking from Lebanon; 61 kg of hashish seized
+    url: https://today.lorientlejour.com/article/1554040/three-arrested-over-suspected-drug-trafficking-from-lebanon-61-kg-of-hashish-seized.html
+    publisher: L'Orient Today
+    date: 2026-11-11
 ---
 
 Syria's anti-narcotics directorate carried out two security operations in Rif
-Dimashq against drug smuggling from Lebanon into Syria. [@1,2,3,4,5,6,7,8,9,10] Officers arrested
-three people after intensive field surveillance and monitoring. [@1,3,7,8,10] The
-directorate announced the suspects on Telegram only by their initials. [@1,4,7] The directorate identified the three detainees by the Arabic initials أ.ب, ب.ع and ع.د. [@5,9,10]
+Dimashq against drug smuggling from Lebanon into Syria. [@1,2,3,4,5,6,7,8,9,10,11] Officers arrested
+three people after intensive field surveillance and monitoring. [@1,3,7,8,10,11] The
+directorate announced the suspects on Telegram only by their initials. [@1,4,7] The directorate identified the three detainees by the Arabic initials أ.ب, ب.ع and ع.د. [@5,9,10,11] The directorate did not give the nationalities of those arrested. [@11]
 Those arrested were referred to the competent authorities for further
-investigation and legal proceedings. [@1,3,4,5,7,8,9,10]
+investigation and legal proceedings. [@1,3,4,5,7,8,9,10,11]
 
-The operations seized 61 kilograms of hashish. [@1,2,3,4,5,7,8,9,10] Officers also confiscated 2
-kilograms of marijuana. [@1,2,4,5,7,8,9,10] Authorities also confiscated 200,000 narcotic
+The operations seized 61 kilograms of hashish. [@1,2,3,4,5,7,8,9,10,11] Officers also confiscated 2
+kilograms of marijuana. [@1,2,4,5,7,8,9,10,11] Authorities also confiscated 200,000 narcotic
 pills, which are excluded from the cannabis figures. [@1,2,4,5,7,8] The directorate said
 the operations aimed to dismantle trafficking networks and cut drug smuggling
-routes from Lebanon into Syria. [@1,2,4,5,7,9,10]
+routes from Lebanon into Syria. [@1,2,4,5,7,9,10,11]
