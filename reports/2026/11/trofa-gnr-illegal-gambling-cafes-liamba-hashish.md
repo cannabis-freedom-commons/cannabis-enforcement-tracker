@@ -62,6 +62,11 @@ sources:
     publisher: SAPO
     date: 2026-11-10
     language: pt
+  - title: Seis detidos na Trofa por suspeita de jogo ilegal - Portugal - Correio da Manhã
+    url: https://www.cmjornal.pt/portugal/amp/seis-detidos-na-trofa-por-suspeita-de-jogo-ilegal
+    publisher: Correio da Manhã
+    date: 2026-11-10
+    language: pt
 ---
 
 Guarda Nacional Republicana officers detained six men aged between 20 and 53
@@ -74,12 +79,12 @@ the Porto Territorial Command. [@2]
 
 Authorities stated the detentions were based on suspicions of operating illegal
 gambling, being present at an illegal gambling venue, and playing illegal
-gambling. [@1,3] The operation resulted in eight administrative offence notices
-drawn up for infractions of various natures. [@2,3] During the inspections,
+gambling. [@1,3,4] The operation resulted in eight administrative offence notices
+drawn up for infractions of various natures. [@2,3,4] During the inspections,
 officers seized four games of chance gambling machines, a scale, three knives,
-two doses of liamba and two doses of hashish. [@1,3]
+two doses of liamba and two doses of hashish. [@1,3,4]
 
 The six men were made arguidos, formal suspects under Portuguese law, and the
-facts were referred to the Judicial Court of the Comarca of Santo Tirso. [@1,3]
+facts were referred to the Judicial Court of the Comarca of Santo Tirso. [@1,3,4]
 The GNR stated that operations against illegal gambling are intended to prevent
 crime linked to addiction, indebtedness and family breakdown. [@1]
