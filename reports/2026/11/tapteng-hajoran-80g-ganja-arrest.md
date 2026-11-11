@@ -67,21 +67,26 @@ sources:
     publisher: Sinar Lintas News
     date: 2026-11-10
     language: id
+  - title: Polres Tapteng Bekuk Pengedar Narkoba di Pandan, Sita 80 Gram Ganja
+    url: https://amp.kitakininews.co.id/hukum-dan-kriminal/29994/polres-tapteng-bekuk-pengedar-narkoba-di-pandan-sita-80-gram-ganja/
+    publisher: KitaKini News
+    date: 2026-11-10
+    language: id
 ---
 
 The operational team of the Tapanuli Tengah district police narcotics unit
 arrested a 20-year-old man identified as SP, alias Gelleng, as an alleged
-cannabis dealer. [@1,2] Officers stopped the man at about 17.30 WIB beside a house
-in a residential area at Simpang Idola. [@1] The arrest took place in Hajoran
+cannabis dealer. [@1,2,5] Officers stopped the man at about 17.30 WIB beside a house
+in a residential area at Simpang Idola. [@1,5] The arrest took place in Hajoran
 ward, Pandan district, Tapanuli Tengah, on the afternoon of Saturday 7 November
-2026. [@1,2] District narcotics chief AKP Johannes Munthe said the case began with
+2026. [@1,2,5] District narcotics chief AKP Johannes Munthe said the case began with
 a public tip that cannabis dealing and abuse were frequent at Simpang Idola.
 [@1] The detained man said he is SP, alias Gelleng, aged 20, a resident of
-Lopian ward in Badiri district. [@1]
+Lopian ward in Badiri district. [@1,5]
 
 A search found one package of cannabis wrapped in black plastic with a gross
-weight of 80 grams and a black Redmi mobile phone. [@1,2] Under questioning at the
+weight of 80 grams and a black Redmi mobile phone. [@1,2,5] Under questioning at the
 scene, SP said he had obtained the package from a man identified as MHP, alias
-Uccok. [@1,3,4] Officers detained MHP later that same night in Lopian, Badiri. [@1,2,3] Uccok was arrested at a stall in Lingkungan IV, Lopian ward, Badiri at about 18.00 WIB on the same day. [@4] MHP alias Uccok is 41 and was allegedly the supplier. [@4] With this additional arrest, the total cannabis secured from the network in the one-day operation reached 200 grams, 80 grams from SP alias Gelleng and 120 grams from MHP alias Uccok. [@3,4] The search of Uccok found two packages of cannabis wrapped in black plastic with a total gross weight of 120 grams and a cream-coloured Realme mobile phone. [@3,4]
+Uccok. [@1,3,4,5] Officers detained MHP later that same night in Lopian, Badiri. [@1,2,3,5] Uccok was arrested at a stall in Lingkungan IV, Lopian ward, Badiri at about 18.00 WIB on the same day. [@4] MHP alias Uccok is 41 and was allegedly the supplier. [@4] With this additional arrest, the total cannabis secured from the network in the one-day operation reached 200 grams, 80 grams from SP alias Gelleng and 120 grams from MHP alias Uccok. [@3,4] The search of Uccok found two packages of cannabis wrapped in black plastic with a total gross weight of 120 grams and a cream-coloured Realme mobile phone. [@3,4]
 Both suspects and all the evidence were taken to Tapanuli Tengah police
-headquarters for proceedings under Law Number 35 of 2009 on Narcotics. [@1,3]
+headquarters for proceedings under Law Number 35 of 2009 on Narcotics. [@1,3,5]
