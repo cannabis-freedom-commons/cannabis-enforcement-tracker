@@ -114,25 +114,24 @@ sources:
     publisher: vietnam.vn (VietnamPlus)
     date: 2026-11-09
     language: fr
+  - title: Algeria a destructurat 186 de rețele de trafic de droguri, arestând peste 25.000 de persoane.
+    url: https://www.vietnam.vn/ro/algeria-triet-pha-186-duong-day-ma-tuy-bat-giu-hon-25-000-nguoi
+    publisher: vietnam.vn / VietnamPlus
+    date: 2026-11-09
+    language: ro
 open_questions:
-  - The 11-tonne kif figure is given as approximate (قرابة 11 طنا); the 27,270 kg cannabis total is the sum of that rounded figure and 16,270 kg of cannabis herb.
-  - No date is given for any individual seizure; 7 November 2026 is the publication and announcement date and is used as the incident date for this 10-month tally.
-  - The 5,264 people placed in detention are pre-trial detention, not a court sentence, so no prison figure is recorded.
-  - The 186 dismantled networks have no tracker figure field and are recorded only in the text.
-  - Cocaine, pregabalin, ecstasy and other psychotropic tablet quantities are non-cannabis and are excluded from cannabis figures.
-  - Road-screening results and fatal and injury accidents are road-safety context, not enforcement seizures, and are excluded from figures.
-  - No breakdown by wilaya, seizure or individual case, and no charges or court outcomes beyond detention, were published.
-  - Arrest and detention figures differ slightly between accounts (25,200 versus 25,218 arrested; 5,224 versus 5,264 placed in detention); the existing figures are unchanged.
-  - Cocaine and psychotropic-tablet totals differ (337 kg versus 837 kg of cocaine; more than 13 million versus more than 13.6 million pregabalin plus other tablets) and are non-cannabis figures left out of the tracker totals.
-  - Cocaine and psychotropic-tablet totals differ (337 kg versus 837 kg of cocaine; more than 13 million versus more than 13.6 million pregabalin plus other tablets) and are non-cannabis figures left out of tracker totals.
-  - Cocaine, pregabalin and ecstasy quantities in these accounts are not cannabis and are left out of the tracker figures.
-  - The Constantine figure of nearly 200 kg is described only as drugs and stimulants, so it is not counted as cannabis.
-  - The Oran and Algiers operation dates are not given; the Algiers operation with 33 arrests and 176 kg of resin appears to be the same November 2026 Algiers raid already recorded with 176 kg of treated kif and 33 arrests.
-  - The German translation and the Vietnamese original give no date for the Algiers conference; 7 November 2026 remains the announcement and publication date used as the incident date.
-  - The Algiers operation's 176 kg of resin is not itemised separately from the 10-month totals, which are described only as rounded 'almost 11 tonnes'.
-  - The Constantine find of nearly 200 kg is described only as drugs and stimulants, so it is not counted as a cannabis figure.
-  - Cocaine, pregabalin and ecstasy quantities are not cannabis and are excluded from tracker figures.
-  - The French page gives no separate date for the Gendarmerie announcement beyond its 9 November 2026 publication date; 7 November 2026 remains the announcement date used as the incident date.
+    - The 11-tonne kif figure is given as approximate (قرابة 11 طنا); the 27,270 kg cannabis total is the sum of that rounded figure and 16,270 kg of cannabis herb.
+    - No date is given for any individual seizure; 7 November 2026 is the announcement date used as the incident date for this 10-month tally.
+    - The 5,264 people placed in detention are pre-trial detention, not a court sentence, so no prison figure is recorded.
+    - The 186 dismantled networks have no tracker figure field and are recorded only in the text.
+    - Cocaine, pregabalin, ecstasy and other psychotropic tablet quantities are non-cannabis and are excluded from cannabis figures.
+    - Road-screening results and fatal and injury accidents are road-safety context, not enforcement seizures, and are excluded from figures.
+    - No breakdown by wilaya, seizure or individual case, and no charges or court outcomes beyond detention, were published.
+    - Arrest and detention figures differ slightly between accounts (25,200 versus 25,218 arrested; 5,224 versus 5,264 placed in detention); the existing figures are unchanged.
+    - Cocaine and psychotropic-tablet totals differ across accounts (337 kg versus 837 kg of cocaine; more than 13 million versus more than 13.6 million pregabalin plus other tablets) and are non-cannabis figures left out of tracker totals.
+    - The Constantine figure of nearly 200 kg is described only as drugs and stimulants, so it is not counted as cannabis.
+    - The Oran and Algiers operation dates are not given; the Algiers operation with 33 arrests and 176 kg of resin appears to be the same November 2026 Algiers raid already recorded with 176 kg of treated kif and 33 arrests.
+    - The Algiers operation's 176 kg of resin is not itemised separately from the 10-month totals, which are described only as rounded 'almost 11 tonnes'.
 ---
 
 National Gendarmerie commander Maj. Gen. Ali Seydan said in Algiers that drugs
@@ -142,11 +141,11 @@ Seydan spoke alongside Justice Minister Lotfi Boujemaa at the opening of a
 national forum on the dimensions of drug use under traffic law 26-09, held at
 the National Army Club in Beni Messous. [@1,3,5] Gendarmerie units arrested 25,218
 people in the same effort, with 5,264 placed in detention, and dismantled 186
-networks specialising in drug trafficking. [@1,2,3,4,5,7,8,10,11,12,13,14,15]
+networks specialising in drug trafficking. [@1,2,3,4,5,7,8,10,11,12,13,14,15,16]
 
 During the first 10 months of 2026 the units seized about 11 tonnes of processed
-kif. [@1,2,3,4,5,7,9,10,12,14,15] In the same period they seized 16,270 kilograms of cannabis herb and
-4,162 cannabis shrubs. [@1,2,3,4,5,7,9,10,12,14,15] The same haul included 837 kilograms of cocaine,
+kif. [@1,2,3,4,5,7,9,10,12,14,15,16] In the same period they seized 16,270 kilograms of cannabis herb and
+4,162 cannabis shrubs. [@1,2,3,4,5,7,9,10,12,14,15,16] The same haul included 837 kilograms of cocaine,
 more than 13.6 million pregabalin tablets, 59,937 ecstasy tablets and 1,021,879
 other psychotropic tablets, which are not counted as cannabis. [@1,7]
 
@@ -157,6 +156,6 @@ influence caused 161 fatal and 144 injury accidents. [@1,3,5]
 
 Seydan said the figures cover the Gendarmerie's own operations and do not include the results of other security services. [@6]
 
-At Oran, officers found two organised international criminal networks, seized 96 kg of cocaine and arrested 12 people. [@7,8,14] At Algiers, an operation against a cross-border network arrested 33 people and seized more than 1 million psychotropic tablets, 30 kg of cocaine and 176 kg of cannabis resin. [@7,9,14,15] At Constantine, customs working with the army found nearly 200 kg of drugs and stimulants hidden in a garage. [@7,8,10,13] General Ali Sidane warned that trafficking networks are using digital technology and encrypted messaging apps to widen their operations and hide their routes. [@7,10]
+At Oran, officers found two organised international criminal networks, seized 96 kg of cocaine and arrested 12 people. [@7,8,14,16] At Algiers, an operation against a cross-border network arrested 33 people and seized more than 1 million psychotropic tablets, 30 kg of cocaine and 176 kg of cannabis resin. [@7,9,14,15,16] At Constantine, customs working with the army found nearly 200 kg of drugs and stimulants hidden in a garage. [@7,8,10,13,16] General Ali Sidane warned that trafficking networks are using digital technology and encrypted messaging apps to widen their operations and hide their routes. [@7,10,16]
 
-The Vietnamese news agency's Algiers correspondent reported that 5,264 of those arrested had been placed in pre-trial detention. [@8,11,13] In the south, traffickers hide cocaine inside the parts of refrigerated trucks and deliver it to northern provinces, and some networks use modified vehicles to conceal drugs and move them between several locations. [@8]
+The Vietnamese news agency's Algiers correspondent reported that 5,264 of those arrested had been placed in pre-trial detention. [@8,11,13,16] In the south, traffickers hide cocaine inside the parts of refrigerated trucks and deliver it to northern provinces, and some networks use modified vehicles to conceal drugs and move them between several locations. [@8,16]
