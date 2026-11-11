@@ -48,18 +48,23 @@ sources:
     publisher: Tempo Stretto
     date: 2026-11-10
     language: it
+  - title: 'Sant’Agata di Militello, cocaina, crack e hashish nascosti nell’armadio: arrestato 21enne'
+    url: https://newsicilia.it/messina/cronaca/santagata-di-militello-cocaina-crack-e-hashish-nascosti-nellarmadio-arrestato-21enne/1123716/
+    publisher: NewSicilia
+    date: 2026-11-10
+    language: it
 open_questions:
     - The reported total of more than 120 grams covers hashish, cocaine and crack together, so only the separately stated 25.4 grams of hashish is recorded in figures.
     - No outcome for the girlfriend in the car or in the searched home was reported.
-    - Tempo Stretto reported 25 grams of hashish, 71 grams of cocaine and 25 grams of crack, while AMnotizie reported 25.4 grams of hashish, 71.3 grams of cocaine and a crack stone of more than 24 grams.
-    - Tempo Stretto described the charge as dealing in narcotics, while AMnotizie described an arrest for possession of narcotics.
-    - The date of the preliminary-investigations judge's order to reside in a specified place was not stated, and the reports do not say whether the hearing set for 9 November was held.
+    - Tempo Stretto and NewSicilia reported 25 grams of hashish, 71 grams of cocaine and 25 grams of crack, while AMnotizie reported 25.4 grams of hashish, 71.3 grams of cocaine and a crack stone of more than 24 grams.
+    - Tempo Stretto and NewSicilia described the case as possession for the purpose of dealing, while AMnotizie described an arrest for possession of narcotics.
+    - The date of the preliminary-investigations judge's order to reside in a specified place was not stated.
 ---
 
 Police from the investigative squad of the Sant'Agata di Militello
 public-security station arrested a 21-year-old living in Sant'Agata di Militello
 after finding him with more than 120 grams of drugs including hashish, cocaine
-and crack. [@1,2] On the evening of Friday 6 November, the young man was in a car
+and crack. [@1,2,3] On the evening of Friday 6 November, the young man was in a car
 with his girlfriend near a shop a few metres from the new police station in Via
 Cosez and behaved suspiciously, which passing officers noticed. [@1,2] Both showed
 clear signs of nervousness at the check, the personal search was negative, and
@@ -68,8 +73,8 @@ officers then extended the check to a search of the couple's home. [@1]
 In the home the 21-year-old retrieved from a wardrobe and handed police a
 plastic container with three small packets that proved to be 25.4 grams of
 hashish, a 71.3-gram stone of cocaine and a crack stone weighing more than 24
-grams. [@1,2] Officers also found three precision scales and other material in the
-house apparently used to make up doses. [@1,2] Officers also found a grinder with the equipment used to make up doses. [@2] The young man said the drugs were
+grams. [@1,2,3] Officers also found three precision scales and other material in the
+house apparently used to make up doses. [@1,2,3] Officers also found a grinder with the equipment used to make up doses. [@2] The young man said the drugs were
 for personal use, but he was arrested in flagrante for possession of narcotics.
 [@1]
 
@@ -77,4 +82,4 @@ Prosecutor Roberta Ampolo validated the search and the seizure of the drugs and
 ordered house arrest pending the validation hearing, while the young man
 appointed lawyer Rosario Di Blasi as his defence counsel. [@1,2]
 Preliminary-investigations judge Eleonora Vona set the validation hearing for
-Monday 9 November. [@1] The preliminary-investigations judge then ordered the 21-year-old to reside in a specified place. [@2]
+Monday 9 November. [@1] The preliminary-investigations judge then ordered the 21-year-old to reside in a specified place. [@2,3]
