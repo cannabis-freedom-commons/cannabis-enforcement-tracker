@@ -48,6 +48,11 @@ sources:
     url: https://policie.gov.cz/vysocina-kraj/policiste-zadrzeli-muze-pri-kradezi
     publisher: Policie České republiky
     language: cs
+  - title: Policisté přistihli muže při vloupání do auta. Tvrdil, že patří jeho kamarádovi
+    url: https://tydenikpolicie.cz/policiste-pristihli-muze-pri-vloupani-do-auta-tvrdil-ze-patri-jeho-kamaradovi/
+    publisher: Týdeník Policie
+    date: 2026-11-11
+    language: cs
 open_questions:
   - No weight or count was published for the seized plant matter and tablets.
   - No laboratory confirmation was reported for the seized plant matter and tablets, which were described only as suspected narcotic and psychotropic substances.
@@ -58,27 +63,26 @@ open_questions:
 A 22-year-old man from Žďár nad Sázavou broke into a Volkswagen in Radešínská
 Svratka during the night from Tuesday to Wednesday. [@1] Police received a
 report of a possible break-in to a car in Radešínská Svratka on Tuesday 3
-November shortly before 11 p.m. [@1] The patrol that arrived caught the man as
+November shortly before 11 p.m. [@1,3] The patrol that arrived caught the man as
 he was stepping out of the car. [@1] Officers detained the man as he was getting
-out of the vehicle. [@2]
+out of the vehicle. [@2,3]
 
 Inspection showed he had forcibly removed parts of the dashboard and control
-panels. [@1] The stolen parts were lying in a nearby parked car in which he had
-arrived. [@1] Checks showed he had driven despite a district court ban on
-driving all motor vehicles for twenty months. [@1] A breath test was negative
+panels. [@1,3] The stolen parts were lying in a nearby parked car in which he had
+arrived. [@1,3] Checks showed he had driven despite a district court ban on
+driving all motor vehicles for twenty months. [@1,3] A breath test was negative
 for alcohol, but a preliminary drug test was positive for amphetamine and
 marijuana. [@1] The preliminary test for other addictive substances showed a
-positive value for amphetamine and marijuana. [@2]
+positive value for amphetamine and marijuana. [@2,3]
 
 The man admitted drug use to police and underwent a medical examination with
-biological sampling. [@1] In a search of his Volkswagen Passat officers found,
+biological sampling. [@1,3] In a search of his Volkswagen Passat officers found,
 besides the stolen parts, a bag with plant matter and tablets suspected to be
 narcotic and psychotropic substances. [@1] The vehicle search found, besides the
 stolen parts, a bag in which he kept plant matter and tablets suspected to be or
-contain narcotic and psychotropic substances. [@2] Police opened criminal
+contain narcotic and psychotropic substances. [@2,3] Police opened criminal
 proceedings on suspicion of four offences: theft, obstruction of an official
 decision, endangerment under the influence of an addictive substance, and
-unauthorised possession of a narcotic or psychotropic substance. [@1] After the
+unauthorised possession of a narcotic or psychotropic substance. [@1,3] After the
 necessary procedural steps the man was released, and police with detectives
-continue to investigate the case. [@1]
-
+continue to investigate the case. [@1,3]
