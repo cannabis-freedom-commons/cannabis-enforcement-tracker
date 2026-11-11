@@ -33,15 +33,23 @@ data_sources:
 status: verified
 tags: [navy, dinghy, foreign-cannabis]
 open_questions:
-  - The Navy reported more than 192 kg but did not state the exact weight.
-  - The suspect's identity and later case outcome were not reported.
-  - Only the Sri Lanka Navy's account of this interception was found.
-  - The Navy names the Gurunagar lagoon area but does not give an exact interception point.
+    - The Navy reported more than 192 kg but did not state the exact weight.
+    - A Navy briefing on 25 September 2026 gave about 800 kg of cannabis for the Gurunagar lagoon seizure of 24 September, while the Navy's operation news reported over 192 kg; the report uses the operation-news figure.
+    - The suspect's identity and later case outcome were not reported.
+    - The Navy names the Gurunagar lagoon area but does not give an exact interception point.
 sources:
   - title: Navy seizes foreign cannabis worth Rs. 38 million in Jaffna
     url: https://slnnews.navy.lk/operations-news/2026/september/navy-seizes-foreign-cannabis-worth-rs.-38-million-in-jaffna.html
     publisher: Sri Lanka Navy
     date: 2026-09-24
+  - title: Northern Naval Command seizes 192kg of cannabis off Gurunagar
+    url: https://news.navy.lk/operations-news/2026/september/navy-seizes-foreign-cannabis-worth-rs.-38-million-in-jaffna.html
+    publisher: Sri Lanka Navy
+    date: 2026-09-24
+  - title: Sri Lanka Navy seizes narcotics worth over Rs. 55 billion in 2026
+    url: https://counterpoint.lk/sri-lanka-navy-seizes-narcotics-worth-over-rs-55-billion-in-2026/
+    publisher: CounterPoint
+    date: 2026-09-25
 media:
   - kind: photo
     url: https://news.navy.lk/operations-news/2026/september/navy-seizes-foreign-cannabis-worth-rs.-38-million-in-jaffna.html
@@ -50,8 +58,8 @@ media:
     caption: Sacks of cannabis seized in the Gurunagar lagoon operation; image released by the Sri Lanka Navy.
 ---
 
-Naval personnel attached to SLNS Welusumana in the Northern Naval Command searched the Gurunagar lagoon area in Jaffna on 24 September 2026 after receiving information about a suspicious dinghy. [@1]
+Naval personnel attached to SLNS Welusumana in the Northern Naval Command searched the Gurunagar lagoon area in Jaffna on 24 September 2026 after receiving information about a suspicious dinghy. [@1,2]
 
-The Navy said its personnel intercepted the boat and found more than 192 kg of foreign cannabis, packed into 88 parcels inside seven sacks. [@1] The Navy estimated the consignment's street value at more than Rs. 38 million. [@1]
+The Navy said its personnel intercepted the boat and found more than 192 kg of foreign cannabis, packed into 88 parcels inside seven sacks. [@1,2] A Navy briefing on 25 September 2026 gave a different weight for the cannabis seized in the Gurunagar lagoon area the previous day. [@3] The Navy estimated the consignment's street value at more than Rs. 38 million. [@1]
 
-One suspect was apprehended, and the suspect, cannabis and dinghy were handed to the Jaffna Division Crimes Investigation Bureau for further legal action. [@1]
+One suspect was apprehended, and the suspect, cannabis and dinghy were handed to the Jaffna Division Crimes Investigation Bureau for further legal action. [@1,2]
