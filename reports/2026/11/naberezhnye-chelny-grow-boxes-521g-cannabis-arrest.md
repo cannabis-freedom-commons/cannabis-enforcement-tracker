@@ -51,28 +51,28 @@ sources:
     publisher: Татарстан 24
     date: 2026-11-11
     language: ru
-open_questions:
-  - No separate date for the detention, searches or examination was given; 11 November 2026 is the publication date and is used as the incident date.
-  - The number of cannabis bushes and the weight split by location were not reported, so only the total examined weight is recorded.
-  - No court outcome beyond the opened criminal case and the five-day administrative arrest was reported.
+  - title: В Челнах задержали мужчину, выращивавшего коноплю в квартире
+    url: https://tvchelny.ru/news/tsentralnye-temy/v-celnax-zaderzali-muzcinu-vyrashhivavsego-konopliu-v-kvartire
+    publisher: Челны-ТВ
+    date: 2026-11-11
+    language: ru
 ---
 
 Police in Naberezhnye Chelny detained a 45-year-old local man on suspicion of
 unlawful drug trafficking. [@1] Officers stopped the man near a house in the new
-part of the city. [@1]
+part of the city. [@1,2]
 
 During an examination of his flat, police found two grow boxes for cultivating
-plants. [@1] One box held cannabis bushes and the other held dried parts of
+plants. [@1,2] One box held cannabis bushes and the other held dried parts of
 plants. [@1] Officers also found several more packets of plant material in the
 kitchen and on the balcony. [@1] An expert examination found that the seized
 material included 451.04 grams of cannabis and 69.86 grams of marijuana, about
-520.9 grams in total. [@1]
+520.9 grams in total. [@1,2]
 
 Police later seized scales, a carbon filter, a lamp and fans from the suspect's
-country house in a gardeners' partnership in Tukayevsky district. [@1] The
-detainee said he made the drugs for his own use. [@1] He refused to undergo a
+country house in a gardeners' partnership in Tukayevsky district. [@1,2] The
+detainee said he made the drugs for his own use. [@1,2] He refused to undergo a
 medical examination, for which he was brought to administrative responsibility
-and given five days of arrest. [@1] A criminal case was opened against him under
+and given five days of arrest. [@1,2] A criminal case was opened against him under
 part 2 of article 228 of the Criminal Code, which carries up to 10 years'
-imprisonment. [@1]
-
+imprisonment. [@1,2]
