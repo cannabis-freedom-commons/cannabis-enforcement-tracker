@@ -41,6 +41,11 @@ media:
     media_url: https://tanahdeli.com/wp-content/uploads/2026/11/IMG_20261110_214555.jpg
     publisher: Tanahdeli.com
     caption: 'Suspect AHL, 64, showing the seized cannabis evidence following his arrest in Padangsidimpuan. Photo: Padangsidimpuan Police via Tanahdeli.com'
+  - kind: photo
+    url: https://www.waspada.id/berita/kakek-residivis-narkoba-ini-ditangkap-lagi
+    media_url: https://www.waspada.id/uploads/media/2026/11/1001302737-1794404236485.webp?w=960
+    publisher: Waspada.id
+    caption: 'Suspect AHL, 64, at the Padangsidimpuan police station after his arrest, in the photo published with the Waspada report. Photo: Waspada.id/Ist'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 97444b3f652f2919ae195185a07816c1
@@ -56,26 +61,30 @@ sources:
     publisher: Tanahdeli.com
     date: 2026-11-10
     language: id
+  - title: Kakek Residivis Narkoba Ini Ditangkap Lagi
+    url: https://www.waspada.id/berita/kakek-residivis-narkoba-ini-ditangkap-lagi
+    publisher: Waspada.id
+    date: 2026-11-11
+    language: id
 open_questions:
   - The seller who allegedly supplied the cannabis for Rp50,000 has not been identified or arrested.
   - No formal charges or court dates had been reported at the time of publication.
 ---
 
 Padangsidimpuan police arrested a 64-year-old pensioner and recidivist with the
-initials AHL on Monday night, 9 November 2026. [@1] The arrest occurred around
+initials AHL on Monday night, 9 November 2026. [@1,3] The arrest occurred around
 23:00 on Jalan Alboin Hutabarat in Sidakkal, South Padangsidimpuan, as the
-suspect rode a black Honda Beat motorcycle. [@1] Officers from the district
+suspect rode a black Honda Beat motorcycle. [@1,3] Officers from the district
 narcotics investigation unit stopped and searched him following public reports
-of drug transactions in the neighbourhood. [@1]
+of drug transactions in the neighbourhood. [@1,3] The report of suspected drug dealing had come in about half an hour earlier, at around 22:30. [@3]
 
 During the search, officers recovered a brown paper wrapper holding suspected
-cannabis with a gross weight of 31.56 grams. [@1] During initial questioning,
+cannabis with a gross weight of 31.56 grams. [@1,3] During initial questioning,
 the suspect admitted purchasing the cannabis for Rp50,000 from an unidentified
-individual on Jalan Alboin Hutabarat. [@1] Police confiscated the cannabis and
+individual on Jalan Alboin Hutabarat. [@1,3] Police confiscated the cannabis and
 the motorcycle and took AHL to the Padangsidimpuan police station for
-investigation. [@1]
+investigation. [@1,3]
 
 Padangsidimpuan narcotics chief AKP Juli Purwono said police were examining
-witnesses and hunting the unidentified supplier. [@1] The suspect is a retired
-civil servant residing on Jalan Kapten Koima in North Padangsidimpuan. [@2]
-
+witnesses and hunting the unidentified supplier. [@1,3] Investigators said they were preparing the case file and would also involve local neighbourhood heads (kepala lingkungan) in developing the case. [@3] The suspect is a retired
+civil servant residing on Jalan Kapten Koima in North Padangsidimpuan. [@2,3]
