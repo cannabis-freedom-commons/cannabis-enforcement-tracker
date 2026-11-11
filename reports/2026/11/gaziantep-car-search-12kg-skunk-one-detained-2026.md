@@ -88,6 +88,11 @@ sources:
     publisher: Yeniantep
     date: 2026-11-10
     language: tr
+  - title: 'Gaziantep''te araçta 12 kilo skunk ele geçirildi: 1 gözaltı'
+    url: https://www.gazianteppostasi.com/asayis/gaziantep-te-aracta-12-kilo-skunk-ele-gecirildi-1-gozalti
+    publisher: Gaziantep Postası
+    date: 2026-11-10
+    language: tr
 open_questions:
     - The sources give no separate date for the search; 10 November 2026 is the date of the police statement and of publication and is used as the incident date.
     - İLKHA reports the suspect was referred to the judicial authorities, while the agency copy still said police processing at the station was continuing; no charge or court decision was reported.
@@ -111,10 +116,10 @@ media:
 
 Gaziantep police anti-narcotics officers searched a car and seized 12 kilograms
 of skunk, a potent form of cannabis sold under that name in Türkiye, and
-detained one suspect. [@1,5,6,7,8,9] The officers of the Gaziantep Provincial Police
+detained one suspect. [@1,5,6,7,8,9,11] The officers of the Gaziantep Provincial Police
 Directorate's narcotics branch ran the search as part of work against drug
 sellers. [@2] Narcotics officers of the Gaziantep Provincial Police Directorate stopped a light commercial vehicle on suspicion at a checkpoint on the intercity highway. [@5,10] The operation was carried out under the coordination of the Chief
-Public Prosecutor's Office, the provincial prosecutor's office. [@3,6,7] The person
+Public Prosecutor's Office, the provincial prosecutor's office. [@3,6,7,11] The person
 caught in connection with the incident was taken to the police station and then
 referred to the judicial authorities after processing. [@1] After the referral
 to the judicial authorities, the person's questioning and custody status
