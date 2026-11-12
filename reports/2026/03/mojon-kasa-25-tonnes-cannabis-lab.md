@@ -43,6 +43,7 @@ tags: [felcn, processing-lab, toro-toro]
 open_questions:
   - ABI dated the announcement on 4 March 2026 while eju.tv reported the raid on the morning of Tuesday 3 March; the operation day is taken from the latter.
   - No suspects were detained and the outlets did not name any organisation behind the site.
+  - EL DEBER says more than 25 tonnes of marijuana in a natural state were eradicated, while the report records an estimate of about 25 tonnes.
 sources:
   - title: "FELCN erradica 25 toneladas de marihuana y destruye un laboratorio artesanal en Potosí"
     url: https://eju.tv/2026/03/felcn-erradica-25-toneladas-de-marihuana-y-destruye-un-laboratorio-artesanal-en-potosi/
@@ -52,6 +53,11 @@ sources:
   - title: "Golpe al narcotráfico en Potosí: erradican más de 25 toneladas de marihuana y destruyen laboratorio artesanal"
     url: https://abi.bo/golpe-al-narcotrafico-en-potosi-erradican-mas-de-25-toneladas-de-marihuana-y-destruyen-laboratorio-artesanal/
     publisher: Agencia Boliviana de Información
+    date: 2026-03-04
+    language: es
+  - title: 'Potosí: Erradican más de 25 toneladas de marihuana y destruyen laboratorio artesanal'
+    url: https://eldeber.com.bo/pais/potosi-erradican-25-toneladas-marihuana-destruyen-laboratorio-artesanal_1772654689
+    publisher: EL DEBER
     date: 2026-03-04
     language: es
 media:
@@ -66,14 +72,14 @@ On the morning of 3 March 2026 the FELCN anti-drug force, with staff from its Co
 directorate, swept hills, rivers and ravines around Mojón K'asa in Toro Toro municipality,
 Potosí department. [@1] [@2] They found a marijuana plantation covering about 37,500 square
 metres (roughly 3.75 hectares), field-tested the plants, cut bushes up to three metres tall,
-and incinerated an estimated 25 tonnes of raw marijuana on the spot. [@1] [@2]
+and incinerated an estimated 25 tonnes of raw marijuana on the spot. [@1,3] [@2]
 
 In the same area they destroyed a rustic building used to process and store drugs, including
-what authorities described as an artisan lab for concentrated marijuana. [@1] [@2] Officers
+what authorities described as an artisan lab for concentrated marijuana. [@1,3] [@2] Officers
 burned eleven plastic washing machines, four 650-litre water tanks, four chest freezers, ten
-jute sacks of marijuana, and other drying and storage kit, and sent the case to prosecutors. [@1]
+jute sacks of marijuana, and other drying and storage kit, and sent the case to prosecutors. [@1,3] Officers also seized and destroyed a concentrated substance that tested positive for marijuana. [@3]
 [@2]
 
 Vice-Minister Ernesto Justiniano said the site was organised to raise the commercial value of
-the crop rather than a standalone field. [@2] eju.tv reported that traffickers fled when they
+the crop rather than a standalone field. [@2,3] Justiniano said that affecting production affects the economics of drug trafficking, and that there is no retreat. [@3] eju.tv reported that traffickers fled when they
 saw police and that nobody was arrested. [@1]
