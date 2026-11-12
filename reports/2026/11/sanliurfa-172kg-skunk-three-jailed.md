@@ -61,6 +61,11 @@ media:
     media_url: https://izlehls.sondakika.com/2026/11/11/sanliurfa-da-yolcu-otobusu-ve-2-otomobilde-17-1922-20418192_sd.mp4
     publisher: Son Dakika
     caption: 'News video published with the İHA report on the Şanlıurfa narcotics operation that seized 17 kg 200 g of skunk from a passenger bus and two cars and led to three arrests. Video: İHA'
+  - kind: photo
+    url: https://www.korkusuz.com.tr/yolcu-otobusunden-kilolarca-skunk-cikti-p58261
+    media_url: https://korkusuz01.sozcucdn.com/korkusuz/production/uploads/images/2026/11/katman-1png-qRd-Hp0JzEebQSfG6aCIgQ.png
+    publisher: Korkusuz
+    caption: 'DHA photo placed beside the passage on the drugs hidden in one car''s rear left wing and inside the other car''s spare tyre. Photo: DHA'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0d4b389748bf3bd37e21a4a600882d43
@@ -181,23 +186,28 @@ sources:
     publisher: Şırnak Haber
     date: 2026-11-12
     language: tr
+  - title: Yolcu otobüsünden kilolarca skunk çıktı!
+    url: https://www.korkusuz.com.tr/yolcu-otobusunden-kilolarca-skunk-cikti-p58261
+    publisher: Korkusuz
+    date: 2026-11-12
+    language: tr
 open_questions:
     - The article gives no separate date for the operation; 11 November 2026 is its publication date and is used as the incident date.
     - No trial date or court outcome was reported for the three suspects remanded in custody.
 ---
 
 Şanlıurfa provincial narcotics police stopped a passenger bus and two cars on
-suspicion during operations against drug trafficking. [@1,6,8,10,11,13,14,17,18,19,20,21,22,23] The searches of the passenger bus and two vehicles were carried out in the provincial centre of Şanlıurfa. [@5,9,12,16] Searches of the
+suspicion during operations against drug trafficking. [@1,6,8,10,11,13,14,17,18,19,20,21,22,23,24] The searches of the passenger bus and two vehicles were carried out in the provincial centre of Şanlıurfa. [@5,9,12,16,24] Searches of the
 vehicles by officers with a trained dog found narcotics in cardboard boxes in
-the bus's boot. [@1,10,11,21,22] Detailed searches of the two cars established that the
+the bus's boot. [@1,10,11,21,22,24] Detailed searches of the two cars established that the
 drugs were hidden in one car's rear left wing and inside the other's spare tyre.
-[@1,10,11,13,21,22]
+[@1,10,11,13,21,22,24]
 
 The operation seized 21 pieces totalling 17 kilograms 200 grams of skunk, a
-potent form of cannabis sold under that name in Türkiye. [@1,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,23] The provincial police directorate said the seized quantity prevented about 70,000 people from being poisoned. [@5,12,16] The three suspects
+potent form of cannabis sold under that name in Türkiye. [@1,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,23,24] The provincial police directorate said the seized quantity prevented about 70,000 people from being poisoned. [@5,12,16] The three suspects
 detained over the case were taken to court after their processing at the police
-station and were remanded in custody. [@1,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23] The three suspects were detained for manufacturing, trading and transporting narcotics. [@5,9,12,16] The investigation into the case was
-continuing. [@1,7,8,10,11,13,14,15,17,18,20,21,22,23] Sözcü corroborated the seizure as 21 pieces totalling 17
+station and were remanded in custody. [@1,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24] The three suspects were detained for manufacturing, trading and transporting narcotics. [@5,9,12,16] The investigation into the case was
+continuing. [@1,7,8,10,11,13,14,15,17,18,20,21,22,23,24] Sözcü corroborated the seizure as 21 pieces totalling 17
 kilograms 200 grams of skunk. [@2]
 
 Aksiyon described the operation as a road check in which officers stopped the
