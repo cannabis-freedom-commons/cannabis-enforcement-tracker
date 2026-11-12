@@ -47,6 +47,11 @@ media:
     media_url: https://cdn.midiamax.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-11-at-08.55.18.jpeg.webp
     publisher: Midiamax
     caption: 'Police handout photo published with the report on the drone interception in Campo Grande. Photo: Força Tática, 9th Military Police Battalion.'
+  - kind: photo
+    url: https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/11/jovens-sao-flagrados-com-drones-ao-tentar-jogar-maconha-e-whisky-em-presidio-de-campo-grande.ghtml
+    media_url: https://s2-g1.glbimg.com/buwfNwIyHFLBQsc5iWDCZFYp-tE=/0x0:1200x800/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/U/2kgOlASqOK8ZAQ6B4d2A/estuprador-31-.png
+    publisher: G1
+    caption: 'Plastic bottles of drink and drugs prepared to be sent into the prison. Photo: Reprodução'
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 43ef4a8b08219d233d21561813f3948c
@@ -67,14 +72,20 @@ sources:
     publisher: Jornal Dia Dia
     date: 2026-11-11
     language: pt
+  - title: Drone cai em presídio e revela esquema para enviar drogas, whisky e celulares para presos em MS
+    url: https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/11/jovens-sao-flagrados-com-drones-ao-tentar-jogar-maconha-e-whisky-em-presidio-de-campo-grande.ghtml
+    publisher: G1
+    date: 2026-11-11
+    language: pt
 open_questions:
-  - The marijuana total is reported as about 450 grams on the intercepted drone and 492 grams seized overall; the report uses the 492-gram total and does not reconcile the two accounts.
-  - 'The exact time of the car stop is unclear: one account puts it at about 20:30 on Tuesday, while another describes the detentions as running from Tuesday night into early Wednesday.'
-  - No formal charges, custody decision or court outcome were reported beyond the police booking offences.
-  - It is unclear whether the drone recovered by prison officers was the same aircraft the suspect said had fallen inside the prison.
-  - No value was given for the phones, drones and other material seized.
-  - The reports do not say who hired the group, what they were paid, or whether they had made earlier deliveries.
-  - How the 17-year-old was dealt with after being taken to Cepol was not reported.
+    - The marijuana total is reported as about 450 grams on the intercepted drone and 492 grams seized overall; the report uses the 492-gram total and does not reconcile the two accounts.
+    - 'The exact time of the car stop is unclear: one account puts it at about 20:30 on Tuesday, while another describes the detentions as running from Tuesday night into early Wednesday.'
+    - Civil police asked a court to convert the 21-year-old's flagrante arrest into preventive detention, but no court decision was reported.
+    - It is unclear whether the drone recovered by prison officers was the same aircraft the suspect said had fallen inside the prison.
+    - No value was given for the phones, drones and other material seized.
+    - The reports do not say who hired the group, what they were paid, or whether they had made earlier deliveries.
+    - How the 17-year-old was dealt with after being taken to Cepol was not reported.
+    - 'Accounts differ on how many people were formally arrested: G1 says the 21-year-old''s flagrante arrest was confirmed, while other reports said three men were arrested and a 17-year-old was apprehended.'
 ---
 
 Three men were arrested and a 17-year-old boy was apprehended in Campo Grande
@@ -84,7 +95,7 @@ Penal Jair Ferreira de Carvalho, known as Máxima. [@1] The operation began with
 an anonymous tip that a silver Chevrolet Onix was being used to launch objects
 into the prison. [@2] The operation was carried out by the Força Tática of the
 9th Military Police Battalion, with support from the 11th CIPM. [@2] Officers
-found the car with the three men and the teenager on Rua Pinheiro Machado. [@1]
+found the car with the three men and the teenager on Rua Pinheiro Machado. [@1,4]
 The four were detained between the night of Tuesday 10 November and the early
 hours of Wednesday 11 November in the Jardim Noroeste neighbourhood. [@2]
 
@@ -94,12 +105,11 @@ R$307 in cash and a charger from the occupants. [@1] The drone intercepted by
 the Polícia Penal and the Força Penal Nacional was carrying two mobile phones
 and about 450 grams of marijuana, bound for the prison. [@1] One of the men told
 officers he owned the drone and that it had fallen inside the prison while
-carrying phones. [@1] A search of his home turned up two more DJI drones, five
+carrying phones. [@1,4] A search of his home turned up two more DJI drones, five
 DJI controllers, eight batteries, phone parts, four bottles of whisky and more
 marijuana, bringing the total cannabis seized to 492 grams. [@2] The car and the
 marijuana found inside it were handed to Denar, the specialised narcotics unit,
 and the four detainees were taken to the Cepol police centre. [@1]
 
 The incident was registered as drug trafficking, criminal association,
-corruption of minors and favorecimento real (aiding an offender). [@3]
-
+corruption of minors and favorecimento real (aiding an offender). [@3] At the police station, the 21-year-old confessed and his arrest in the act was confirmed for drug trafficking near a prison, and the Civil Police asked a court to convert it into preventive detention. [@4]
