@@ -64,18 +64,22 @@ sources:
     publisher: Gyan Wani
     date: 2026-11-11
     language: hi
+  - title: 'Betul Crime News: आमला के साजपुर और बोरदेही के चिखलार में पकड़ी गई गांजे की खेती, लाखों रुपये के पौधे बरामद'
+    url: https://www.betulupdate.com/betul-crime-news-amla-cannabis-plants-seized/
+    publisher: Betul Update
+    date: 2026-11-11
+    language: hi
 ---
 
 On 10 November 2026, Amla police verified information in Shajpur village and
-seized 271 green cannabis plants from the accused's field and garden. [@1] The
+seized 271 green cannabis plants from the accused's field and garden. [@1,2] The
 271 plants weighed about 92.12 kilograms and were valued by police at about
-276,000 rupees. [@1] Amla police registered a case under section 8/20 of the
-NDPS Act and began investigation. [@1]
+276,000 rupees. [@1,2] Amla police registered a case under section 8/20 of the
+NDPS Act and began investigation. [@1,2]
 
 The action followed directions from Betul Superintendent of Police Amit Saxena
 for strict action against serious offences. [@1] A team led by Amla station
 in-charge Inspector Mukesh Thakur carried out the operation under the guidance
 of Additional SP Kamlesh Kumar Kharpuse and SDOP S. K. Singh. [@1] The accused,
 57-year-old Rahmi son of Jhoolan Sareyam of Shajpur, was formally arrested,
-produced before a court and sent to jail. [@1]
-
+produced before a court and sent to jail. [@1,2]
