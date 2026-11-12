@@ -51,6 +51,11 @@ sources:
     publisher: farenews.gr
     date: 2026-11-11
     language: el
+  - title: 'Μεσσηνία: Έξι συλλήψεις σε αστυνομική επιχείρηση – Ναρκωτικά, όπλο και επικίνδυνη οδήγηση'
+    url: https://www.gargalianoionline.gr/messinia-exi-syllipseis-se-astynomiki-epicheirisi-narkotika-oplo-kai-epikindyni-odigisi/
+    publisher: Γαργαλιάνοι Online
+    date: 2026-11-11
+    language: el
 open_questions:
   - The small amount of cannabis seized in Laconia was not weighed, so it adds nothing to the 851.56-gram total.
   - The 89 tablets seized in Argolida are described only as narcotic tablets and are not identified as cannabis, so they are not counted in the cannabis weight.
@@ -59,26 +64,26 @@ open_questions:
   - No town or community was named for any of the arrests or seizures, only the five regional units.
   - The four accounts reproduce the same regional police statement and are not independent reporting.
   - 'Left out, as its quotation was not found in Messinia Live: In Laconia police seized an unweighed small amount of cannabis and a vehicle.'
+  - This account describes the two further Messinia drug arrests as two people, not specifically as two men.
 ---
 
 The operation was carried out on 10 November 2026 in the Peloponnese region.
-[@1] The operation was organised and carried out by the police directorates of
+[@1,4] The operation was organised and carried out by the police directorates of
 Argolida, Arcadia, Corinthia, Laconia and Messinia. [@3] Officers checked 690
 people, 617 of them Greek nationals and 73 foreign nationals, and 529 vehicles.
 [@1] Police arrested 34 people and brought 54 in for questioning, 44 of them
 Greek nationals and 10 foreign nationals. [@1] Officers confirmed 197
-road-traffic violations and immobilised one vehicle. [@1]
+road-traffic violations and immobilised one vehicle. [@1,4]
 
 One person was arrested in Argolida for a drugs offence. [@2] Three people were
 arrested in Corinthia for drug-law violations. [@1] Two people were arrested in
 Laconia for drugs. [@1] A woman was arrested in Messinia for drugs and
-weapons-law offences. [@1] Two men were arrested in Messinia for drugs. [@1] In
+weapons-law offences. [@1,4] Two men were arrested in Messinia for drugs. [@1] A man was also arrested in Messinia for not carrying an identity card. [@4] Six people were arrested in Messinia, four of them Greek nationals and two foreign nationals. [@4] In
 Corinthia police seized 843.06 grams of cannabis, a cannabis cigarette, three
 cannabis grinders, a vehicle, a chainsaw and scissors. [@1] In Messinia police
-seized 8.5 grams of cannabis and a folding stiletto. [@1] In Argolida police
+seized 8.5 grams of cannabis and a folding stiletto. [@1,4] In Argolida police
 seized 89 drug tablets. [@1]
 
-Four people were arrested in Laconia for attempted theft. [@1] All those
-arrested were to be taken to the competent local prosecutors. [@1] Police said
-the targeted checks would continue across the Peloponnese region. [@3]
-
+Four people were arrested in Laconia for attempted theft. [@1] Across the region, police solved three thefts and one attempted theft. [@4] The Kalamata crime-investigation unit solved a theft committed on 19 October 2026 against a woman, and opened a case file against a 35-year-old woman and a 23-year-old man. [@4] A foreign woman was arrested in Messinia for dangerous driving, and a foreign man for dangerous driving and unauthorised use of a vehicle; he was also found to be staying in Greece illegally, and police were to start an administrative return procedure. [@4] All those
+arrested were to be taken to the competent local prosecutors. [@1,4] Police said
+the targeted checks would continue across the Peloponnese region. [@3,4]
