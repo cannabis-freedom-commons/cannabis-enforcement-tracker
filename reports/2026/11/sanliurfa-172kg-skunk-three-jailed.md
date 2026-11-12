@@ -136,6 +136,11 @@ sources:
     publisher: Haber TR
     date: 2026-11-11
     language: tr
+  - title: Şanlıurfa'da 3 araçta 17 kilo 200 gram skunk bulundu
+    url: https://heyhaber.com/sanliurfa-da-3-aracta-17-kilo-200-gram-skunk-bulundu
+    publisher: Hey Haber
+    date: 2026-11-11
+    language: tr
 open_questions:
     - No separate date or time was reported for the vehicle stops; 11 November 2026 is the publication date and stands in for the incident date.
     - The three suspects were remanded in custody; no trial, plea or sentence has been reported.
@@ -150,10 +155,10 @@ drugs were hidden in one car's rear left wing and inside the other's spare tyre.
 [@1,10,11,13]
 
 The operation seized 21 pieces totalling 17 kilograms 200 grams of skunk, a
-potent form of cannabis sold under that name in Türkiye. [@1,5,6,8,9,10,11,12,13,14] The provincial police directorate said the seized quantity prevented about 70,000 people from being poisoned. [@5,12] The three suspects
+potent form of cannabis sold under that name in Türkiye. [@1,5,6,8,9,10,11,12,13,14,15] The provincial police directorate said the seized quantity prevented about 70,000 people from being poisoned. [@5,12] The three suspects
 detained over the case were taken to court after their processing at the police
-station and were remanded in custody. [@1,5,6,8,9,10,11,12,13,14] The three suspects were detained for manufacturing, trading and transporting narcotics. [@5,9,12] The investigation into the case was
-continuing. [@1,7,8,10,11,13,14] Sözcü corroborated the seizure as 21 pieces totalling 17
+station and were remanded in custody. [@1,5,6,8,9,10,11,12,13,14,15] The three suspects were detained for manufacturing, trading and transporting narcotics. [@5,9,12] The investigation into the case was
+continuing. [@1,7,8,10,11,13,14,15] Sözcü corroborated the seizure as 21 pieces totalling 17
 kilograms 200 grams of skunk. [@2]
 
 Aksiyon described the operation as a road check in which officers stopped the
