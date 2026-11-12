@@ -43,29 +43,33 @@ sources:
     publisher: O TEMPO
     date: 2026-11-11
     language: pt
+  - title: PM apreende drogas em Manhuaçu e em várias cidades da região
+    url: https://www.manhuacunews.com.br/2026/11/11/pm-apreende-drogas-em-manhuacu-e-em-varias-cidades-da-regiao/
+    publisher: Manhuaçu News
+    date: 2026-11-11
+    language: pt
 open_questions:
-  - No weight was published for the 62 tablets, so no kilogram figure is recorded.
-  - The two people were not named, and no custody hearing or court outcome was reported.
-  - The 17-year-old was taken into juvenile custody rather than formally arrested as an adult; both are counted as people detained.
-  - The account rests on a single news report of the Military Police operation.
-  - Coordinates are the town centre of Lajinha, not a surveyed point in Vale das Pedras.
+    - No weight was published for the 62 tablets, so no kilogram figure is recorded.
+    - The two people were not named, and no custody hearing or court outcome was reported.
+    - The 17-year-old was taken into juvenile custody rather than formally arrested as an adult; both are counted as people detained.
+    - Both accounts reproduce the same Military Police statement, and no independent account of the operation was found.
+    - Coordinates are the town centre of Lajinha, not a surveyed point in Vale das Pedras.
 ---
 
 Military Police officers found 58 tablets of marijuana hidden inside a stove in
 an abandoned house in the Vale das Pedras neighbourhood of Lajinha, in the Zona
-da Mata of Minas Gerais, on Tuesday 10 November 2026. [@1] A 20-year-old man was
-arrested and a 17-year-old adolescent was taken into custody. [@1] In all, the
-officers collected 62 tablets of the drug. [@1]
+da Mata of Minas Gerais, on Tuesday 10 November 2026. [@1,2] A 20-year-old man was
+arrested and a 17-year-old adolescent was taken into custody. [@1,2] In all, the
+officers collected 62 tablets of the drug. [@1,2]
 
 After receiving reports of drug sales in the area, the officers carried out an
-operation at a former car wash on Rua José Fortunato de Abreu Filho. [@1] When
-they noticed the police, the suspects tried to flee toward a wooded area. [@1]
+operation at a former car wash on Rua José Fortunato de Abreu Filho. [@1,2] When
+they noticed the police, the suspects tried to flee toward a wooded area. [@1,2]
 During the searches, officers found the 58 tablets hidden in the stove in the
 abandoned house. [@1] They then located the two suspects and seized another four
 tablets of the same drug and two mobile phones from them. [@1]
 
 The young man was arrested for drug trafficking, association for trafficking and
-corruption of minors. [@1] The adolescent was taken into custody for involvement
-in the incident. [@1] Both were taken to the Civil Police station in Manhuaçu
-with the seized material. [@1]
-
+corruption of minors. [@1,2] The adolescent was taken into custody for involvement
+in the incident. [@1,2] Both were taken to the Civil Police station in Manhuaçu
+with the seized material. [@1,2]
