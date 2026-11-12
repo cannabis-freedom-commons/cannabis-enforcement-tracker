@@ -48,26 +48,26 @@ sources:
     publisher: Polizei Sachsen-Anhalt
     date: 2026-11-11
     language: de
-open_questions:
-    - The cannabis is given only as several hundred grams, so no exact weight is recorded.
-    - The police release does not name the train or the line; Volksstimme says the journey was to Magdeburg and ended there with the arrest.
-    - It is not stated whether the cannabis was dried flower, resin or another product.
-    - No named cannabis charge, court date or outcome was reported beyond the opening of criminal proceedings.
+  - title: 'Ohne Fahrschein im Zug: Polizei findet mehrere hundert Gramm Cannabis'
+    url: https://polizei.news/2026/11/12/ohne-fahrschein-im-zug-polizei-findet-mehrere-hundert-gramm-cannabis/
+    publisher: Polizei.news
+    date: 2026-11-12
+    language: de
 ---
 
 On Tuesday 10 November 2026, officers of the Bundespolizei, Germany's federal
 police force, found a 30-year-old Albanian national, a citizen of Albania, on a
-train while he was travelling without a valid ticket. [@1,2,3] The man's train journey was to Magdeburg, and it ended there with his arrest. [@2] He was a passenger
+train while he was travelling without a valid ticket. [@1,2,3,4] The man's train journey was to Magdeburg, and it ended there with his arrest. [@2] He was a passenger
 when the cannabis was found. [@1]
 
 During a search of the backpack he had with him, the officers found several
-hundred grams of cannabis. [@1,2,3] They then seized the cannabis they had found in
-the backpack he was carrying. [@1,3] Beyond that find, the check produced a
+hundred grams of cannabis. [@1,2,3,4] They then seized the cannabis they had found in
+the backpack he was carrying. [@1,3,4] Beyond that find, the check produced a
 suspicion that he had entered the federal territory of Germany without
-permission. [@1,2]
+permission. [@1,2,4]
 
 On grounds of jurisdiction, the federal officers handed the 30-year-old to
-officers of the Landespolizei in Magdeburg. [@1,2,3] The state force that took him
+officers of the Landespolizei in Magdeburg. [@1,2,3,4] The state force that took him
 is the police of the Land of Saxony-Anhalt. [@1] He was provisionally arrested
 and brought to a police station so that further police measures could be carried
-out. [@1,2,3] Corresponding criminal proceedings were opened against him. [@1,2,3]
+out. [@1,2,3,4] Corresponding criminal proceedings were opened against him. [@1,2,3,4]
