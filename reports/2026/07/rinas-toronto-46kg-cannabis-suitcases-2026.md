@@ -73,12 +73,19 @@ sources:
     url: https://politiko.al/english/e-tjera/kapen-250-mije-euro-kanabis-nga-kanadaja-goditet-rrjeti-i-trafikut-ne-ri-i557777
     publisher: Politiko
     date: 2026-07-04
+  - title: 恐怖:加拿大男子出国下飞机就被捕,面临15年监禁
+    url: https://m.bcbay.com/news/page/554558
+    publisher: 温哥华港湾（BCbay.com）
+    date: 2026-11-11
+    language: zh
 open_questions:
-  - Police said the two suitcases held about 46 kilograms, valued at about 250,000 euros; CTV News later reported 23.15 kilograms in one bag and 23 kilograms in another, worth almost C$400,000.
-  - The July police notice said two women were prosecuted while at large, while CTV News later said the other Canadian passenger was released without charges.
-  - No court outcome was reported; a trial was expected in early 2027, and the maximum of 15 years is the penalty he faces, not a sentence.
-  - Police described the cannabis as suspected cannabis sativa in gelatin form, without saying whether it was dried flower or another preparation.
-  - The RCMP wrote that Gjoni was the victim of a bag-tag switch; Albanian police treated the luggage as part of an attempted trafficking case.
+    - Police said the two suitcases held about 46 kilograms, valued at about 250,000 euros; CTV News later reported 23.15 kilograms in one bag and 23 kilograms in another, worth almost C$400,000.
+    - The July police notice said two women were prosecuted while at large, while CTV News later said the other Canadian passenger was released without charges.
+    - No court outcome was reported; a trial was expected in early 2027, and the maximum of 15 years is the penalty he faces, not a sentence.
+    - Police described the cannabis as suspected cannabis sativa in gelatin form, without saying whether it was dried flower or another preparation.
+    - The RCMP wrote that Gjoni was the victim of a bag-tag switch; Albanian police treated the luggage as part of an attempted trafficking case.
+    - Albanian police publicly suggested the couple lied about the pregnancy before a second hospital confirmed it; it is not known whether police accepted that finding.
+    - It is not known whether his wife was formally arrested or charged, or for how long she was held in custody.
 ---
 
 On 3 July 2026, customs and state police at Rinas airport seized about 46
@@ -95,13 +102,12 @@ flight was scanned, then searched in the presence of the luggage owners. [@3]
 
 Gjoni, a Toronto businessman on an Air Transat flight with his wife, told CTV
 News that the bag officers ordered him to collect was not his and held 23.15
-kilograms of cannabis. [@1] He said Albanian police held him for four days in
-solitary confinement, then released him on bail. [@1] CTV News reported that
+kilograms of cannabis. [@1] CTV's W5 reported that hospital records in Canada and Albania confirmed she was pregnant and had miscarried. [@6] His pregnant wife was also taken into police custody. [@6] He said Albanian police held him for four days in
+solitary confinement, then released him on bail. [@1] He had to report to police in Tirana, first monthly and later every four months. [@6] CTV News reported that
 another Canadian passenger on the same flight was detained because her tag was
 on a second suitcase with 23 kilograms of cannabis, and that she was released
-without charges. [@1] Albanian police told CTV News the cannabis was worth
-almost C$400,000. [@1] His trial is expected to begin in early 2027, and he
-faces up to 15 years in prison. [@1] In an October email, the RCMP wrote that it
+without charges. [@1,6] Albanian police told CTV News the cannabis was worth
+almost C$400,000. [@1,6] His trial is expected to begin in early 2027, and he
+faces up to 15 years in prison. [@1,6] In an October email, the RCMP wrote that it
 believed he was the victim of a bag-tag switch and that the couple had checked
 in only the four bags they later collected. [@1]
-
