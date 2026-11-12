@@ -48,6 +48,11 @@ sources:
     publisher: Agência SP, a agência de notícias de São Paulo
     date: 2026-11-11
     language: pt
+  - title: Imóvel usado como depósito de drogas em Ribeirão Preto é desarticulado pela Polícia Civil com apreensão de quase 130 kg de maconha
+    url: https://fatopaulista.com.br/policia-apreende-quase-130-kg-de-maconha-em-deposito-em-ribeirao-preto/
+    publisher: Fato Paulista
+    date: 2026-11-11
+    language: pt
 open_questions:
   - No one had been arrested when the reports were published; the suspect remained at large.
   - No street value or price estimate for the 129.9 kilograms was published.
@@ -60,25 +65,24 @@ open_questions:
 
 São Paulo's Civil Police seized almost 130 kilograms of marijuana from a
 property used as a clandestine drug depot in Ribeirão Preto on 10 November 2026.
-[@1] The property was in the Parque Industrial Tanquinho area. [@2] Officers
+[@1] The property was in the Parque Industrial Tanquinho area. [@2,3] Officers
 found three bags of marijuana bricks that totalled 129.9 kilograms, part of it
-hidden in the roof of the residence. [@2] The 2nd Police Station for Drug
+hidden in the roof of the residence. [@2,3] The 2nd Police Station for Drug
 Investigations (DISE), part of the state Department of Criminal Investigations
 (DEIC) in Ribeirão Preto, acted on information that a man described as manager
-of a local drug sales point had received a drug shipment. [@2] Police also
+of a local drug sales point had received a drug shipment. [@2,3] Police also
 seized papers with handwritten notes that they said could help the
-investigation. [@1]
+investigation. [@1,3]
 
 Officers went to the Vila Carvalho neighbourhood to find the man described as
-responsible for the drugs. [@1] He was seen at a football field there but fled
-over the roofs of nearby houses when police approached. [@1] Police searched the
+responsible for the drugs. [@1,3] He was seen at a football field there but fled
+over the roofs of nearby houses when police approached. [@1,3] Police searched the
 area with support from a Military Police helicopter but did not find him, and he
-remained at large. [@1]
+remained at large. [@1,3]
 
 Eduardo Rodrigo Martinez, head of the 2nd DISE, said the seizure was not only a
 loss for criminal organisations but also a contribution to public safety because
-it kept the drugs off the streets. [@2] The marijuana was sent for forensic
+it kept the drugs off the streets. [@2,3] The marijuana was sent for forensic
 examination, and the case was registered at the 2nd DISE, which continued
 investigating to find the suspect and identify other people involved in the
-distribution. [@2]
-
+distribution. [@2,3]
