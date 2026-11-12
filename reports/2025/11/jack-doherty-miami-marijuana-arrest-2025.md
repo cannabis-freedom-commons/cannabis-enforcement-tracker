@@ -35,22 +35,29 @@ sources:
     url: https://www.nbcnews.com/news/us-news/jack-doherty-youtube-star-arrested-miami-area-drug-possession-rcna244099
     publisher: NBC News
     date: 2025-11-15
+  - title: YouTuber Jack Doherty arrested in Miami on drug possession charges
+    url: https://www.bbc.com/news/articles/c620yzjpxlvo
+    publisher: BBC News
+    date: 2025-11-16
+    language: en
+  - title: YouTuber Jack Doherty arrested for drug possession after blocking Miami Beach traffic for social media video, police say
+    url: https://www.cbsnews.com/miami/news/youtuber-social-media-influencer-jack-doherty-miami-beach-arrest/
+    publisher: CBS Miami
+    date: 2025-11-17
+    language: en
 open_questions:
-  - No quantity or weight was published for the marijuana or the amphetamine.
-  - No precise arrest location within the Miami area and no arresting agency were named.
-  - It is unclear whether Doherty had an attorney; his representative did not immediately return a request for comment.
-  - No court outcome beyond the booking charges and bond had been reported.
-  - The page's only listed image is a Getty file photo of Doherty in Beverly Hills on Oct. 30, not this event, so no event media is listed.
+    - No separate weight was published for the half amphetamine pill.
+    - It is unclear whether Doherty had an attorney; a representative did not immediately respond to a request for comment.
+    - No court outcome beyond the booking charges, a $3,500 bond and his release from jail that night had been reported.
 ---
 
 YouTube star Jack Doherty was arrested in the Miami area on Saturday on
-drug-related charges. [@1] Doherty, 22, was charged with possession of a
+drug-related charges. [@1,2] Arrest documents say he separated from the group and stood in the middle of the road to create video content, obstructing traffic, before officers apprehended him. [@3] Around 3:12 a.m. on Saturday, Miami Beach Police officers were on a high-visibility detail along the 700 block of Washington Avenue in the Entertainment District when a group entered the roadway. [@3] Doherty, 22, was charged with possession of a
 controlled substance, possession of marijuana and resisting an officer without
-violence, according to online booking records. [@1]
+violence, according to online booking records. [@1,3]
 
 The charging records accuse Doherty of possessing amphetamine as the controlled
-substance. [@1] Hours before the arrest, Doherty posted videos of himself on a
+substance. [@1] Arrest documents obtained by CBS News Miami said the three hand-rolled suspected cannabis cigarettes were in a black plastic container and weighed approximately 4.0 grams combined. [@3] A police search found half of an orange oval-shaped pill consistent with a Schedule II amphetamine and three suspected cannabis cigarettes. [@2] Hours before the arrest, Doherty posted videos of himself on a
 yacht in Miami and livestreamed his night out on the app Parti. [@1]
 
-Doherty's bond was set at $3,500. [@1]
-
+Doherty's bond was set at $3,500. [@1] A video posted later on Saturday night showed him bonding out of jail. [@3]
