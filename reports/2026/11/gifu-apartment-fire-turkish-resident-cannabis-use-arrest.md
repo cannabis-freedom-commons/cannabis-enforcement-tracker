@@ -97,6 +97,18 @@ sources:
     publisher: 名古屋テレビ【メ～テレ】
     date: 2026-11-12
     language: ja
+  - title: ｢“ベランダから逃げるぞ”と飛んで逃げた｣ 1歳含む12人搬送のアパート火災 火元の部屋に住むトルコ国籍の男を大麻使用の疑いで逮捕 岐阜市
+    url: https://newsdig.tbs.co.jp/articles/cbc/3080186
+    publisher: CBCテレビ
+    date: 2026-11-12
+    language: ja
+  - title: ｢“ベランダから逃げるぞ”と飛んで逃げた｣ 1歳含む12人搬送のアパート火災 火元の部屋に住むトルコ国籍の男を大麻使用の疑いで逮捕 岐阜市
+    url: https://newsdig.tbs.co.jp/articles/cbc/3080186?display=1&page=2
+    publisher: CBCテレビ
+    date: 2026-11-12
+    language: ja
+open_questions:
+  - 'Accounts differ on the age of the youngest person taken to hospital: this CBC article says one and a half, while earlier reports used for the existing text say one.'
 ---
 
 A fire broke out in a three-storey apartment building in Kita-Isshiki, Gifu, in
@@ -105,15 +117,15 @@ from the first floor. [@1,7] Twelve of the building's residents, aged from one t
 their forties, were taken to hospital and were thought to have minor injuries.
 [@1,4,5,7,11,13,14] The injured were taken to hospitals in Gifu City and in the neighbouring
 town of Kasamatsu. [@2] The apartment housed 11 households and 15 residents in
-total. [@1] No one was left behind in the fire. [@3] The man who lived in the
+total. [@1] No one was left behind in the fire. [@3] A neighbour said the man in the next room kept calling for help, and that the neighbour and a woman he lived with jumped from the balcony after saying they would escape that way. [@16] The man who lived in the
 ground-floor room where the fire started was not injured. [@1] The fire was brought under control about two hours later. [@5,13]
 
 Gifu Chuo Police Station arrested that resident, a 43-year-old unemployed
 Turkish man, on 11 November on suspicion of violating the Narcotics Control Law
-by using cannabis. [@1,4,7,8,11,12] Police named the arrested man as Komur Gokhan (コムル・ギョクハン), a 43-year-old unemployed Turkish national. [@6,7,9,13,14] Police said he was suspected of using cannabis between
+by using cannabis. [@1,4,7,8,11,12,15] Police named the arrested man as Komur Gokhan (コムル・ギョクハン), a 43-year-old unemployed Turkish national. [@6,7,9,13,14] Police said he was suspected of using cannabis between
 early August and 11 November. [@1,4,5,7,8,13,14] The suspicion arose during the fire
 investigation: officers found his behaviour suspicious, tested his urine and
-detected cannabis components. [@1,6,7,9,13,14] Questioned by investigators, he admitted the suspicion. [@5,6,7,8,9,13,14]
+detected cannabis components. [@1,6,7,9,13,14] Questioned by investigators, he admitted the suspicion. [@5,6,7,8,9,13,14,16]
 
 Police said they are investigating whether the cannabis use is connected to the
-fire. [@1,4,5,6,7,8,9,10,11,13,14] Police said they are also investigating how he obtained the cannabis and his motive. [@5,13]
+fire. [@1,4,5,6,7,8,9,10,11,13,14,16] Police said they are also investigating how he obtained the cannabis and his motive. [@5,13]
