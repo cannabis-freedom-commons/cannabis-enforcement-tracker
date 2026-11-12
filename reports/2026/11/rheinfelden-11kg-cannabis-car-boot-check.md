@@ -64,21 +64,26 @@ sources:
     publisher: 24 heures
     date: 2026-11-11
     language: fr
+  - title: 'Grenzkontrolle bringt 11 Kilo Cannabis ans Licht: Marokkaner mit Fahrverbot am Steuer'
+    url: https://polizei.news/2026/11/11/grenzkontrolle-bringt-11-kilo-cannabis-ans-licht-marokkaner-mit-fahrverbot-am-steuer/
+    publisher: Polizei.news
+    date: 2026-11-11
+    language: de
 open_questions:
     - No charges or court outcome after the handover to Aargau cantonal police have been reported.
 ---
 
 Shortly after 2:30 a.m. on Sunday, 8 November 2026, officers of the Federal
 Office for Customs and Border Security stopped a car with Swiss registration
-plates in the area of the Rheinfelden motorway border crossing in Aargau. [@1,6]
-The car was driven by a 22-year-old Moroccan national. [@1,3,5,6] He could not produce
+plates in the area of the Rheinfelden motorway border crossing in Aargau. [@1,6,7]
+The car was driven by a 22-year-old Moroccan national. [@1,3,5,6,7] He could not produce
 a driving licence during the check, and further inquiries showed that he was
-prohibited from driving motor vehicles. [@1,5,6]
+prohibited from driving motor vehicles. [@1,5,6,7]
 
 During the subsequent search of the vehicle, officers found ten vacuum-sealed
-packages containing cannabis in the boot. [@1,3,5,6] The drugs had been hidden in shopping bags. [@3] The seized cannabis weighed about
-eleven kilograms in total. [@1,3,5,6] The agency put the street-sale value of the drugs at about 110,000 francs. [@4,6] The customs agency handed the case to the Aargau
-cantonal police for further handling. [@2,3,5,6]
+packages containing cannabis in the boot. [@1,3,5,6,7] The drugs had been hidden in shopping bags. [@3] The seized cannabis weighed about
+eleven kilograms in total. [@1,3,5,6,7] The agency put the street-sale value of the drugs at about 110,000 francs. [@4,6] The customs agency handed the case to the Aargau
+cantonal police for further handling. [@2,3,5,6,7]
 
 The Federal Office for Customs and Border Security is the Swiss agency
 responsible for border security and for checking goods, people and means of
