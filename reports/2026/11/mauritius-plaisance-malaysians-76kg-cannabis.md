@@ -231,6 +231,11 @@ sources:
     publisher: Astro AWANI
     date: 2026-11-11
     language: ms
+  - title: Three Malaysians Tricked Into Carrying RM9.87 Million Worth Of Drugs For A “Free Holiday”
+    url: https://www.therakyatpost.com/news/2026/11/11/three-malaysians-tricked-into-carrying-rm9-87-million-worth-of-drugs-for-a-free-holiday/
+    publisher: TRP
+    date: 2026-11-11
+    language: en
 ---
 
 Three Malaysian nationals who arrived on Emirates flight EK709 from Dubai were searched at Plaisance,
@@ -273,7 +278,7 @@ Mauritius media reported that preliminary investigations linked the drugs to Tha
 
 The 55-year-old Malaysian cook arrested at the same airport on 23 October had arrived from Dubai on Emirates flight EK709, the same flight the three took before their 2 November arrest. [@15,23]
 
-Three Malaysians were arrested upon arrival in Mauritius on Nov 2 after authorities found 76.14kg of cannabis in their luggage. [@14,29,32,33] The Mauritius Revenue Authority said the Malaysians arrived at Sir Seewoosagur Ramgoolam International Airport on Nov 2 before being flagged for further checks. [@14] The 30-year-old man, who reportedly lives and works as a security officer in Singapore, was found carrying about 10.9kg of the drug. [@14] The three suspects travelled on Emirates flight EK709 from Dubai and were held at Sir Seewoosagur Ramgoolam International Airport. [@10]
+Three Malaysians were arrested upon arrival in Mauritius on Nov 2 after authorities found 76.14kg of cannabis in their luggage. [@14,29,32,33] The Mauritius Revenue Authority said the Malaysians arrived at Sir Seewoosagur Ramgoolam International Airport on Nov 2 before being flagged for further checks. [@14] The 30-year-old man, who reportedly lives and works as a security officer in Singapore, was found carrying about 10.9kg of the drug. [@14,37] The three suspects travelled on Emirates flight EK709 from Dubai and were held at Sir Seewoosagur Ramgoolam International Airport. [@10]
 
 The three arrived in Mauritius on an Emirates flight from Dubai on 2 November 2026. [@17]
 
