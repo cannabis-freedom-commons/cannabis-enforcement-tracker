@@ -110,28 +110,27 @@ sources:
     publisher: إخباري 24 نيوز
     date: 2026-11-10
     language: ar
-open_questions:
-    - No quantity of hashish the five men were convicted of smuggling was published.
-    - No exact execution site within the Asir region was reported.
-    - Details of the original arrest and trial dates were not disclosed.
-    - The 205, 124, 109 and 32 totals are AFP tallies based on official data, not separate findings for this event.
+  - title: Saudi Arabia executes 5 Ethiopians
+    url: https://blueprint.ng/saudi-arabia-executes-5-ethiopians/
+    publisher: Blueprint Newspapers Limited
+    date: 2026-11-06
 ---
 
 Saudi Arabia executed five Ethiopian nationals in the Asir region on 5 November
-2026. [@1,5,7,8,9,10,11,12,14,15,16] The Interior Ministry said the five were convicted of participating
-in smuggling hashish into the kingdom. [@1,2,6,7,8,9,10,11,12,13,16] The ministry recorded the penalty as
+2026. [@1,5,7,8,9,10,11,12,14,15,16,17] The Interior Ministry said the five were convicted of participating
+in smuggling hashish into the kingdom. [@1,2,6,7,8,9,10,11,12,13,16,17] The ministry recorded the penalty as
 a discretionary taazir execution. [@1,16] The executions were carried out on
-Thursday in Asir in the south of the country. [@1,2,8,9]
+Thursday in Asir in the south of the country. [@1,2,8,9,17]
 
 An AFP tally based on official data put total executions in Saudi Arabia in 2026
 at 205. [@1,2,9,11,12,14,15] The same tally counted 124 people executed in drug cases this year,
 a majority of all executions. [@1,11] Foreigners accounted for 109 of this year's
 executions, including 32 Ethiopians as the largest foreign group. [@1,11] Saudi
 authorities had executed five Ethiopians in a single day in June and five in a
-single day in July on similar charges. [@2,9]
+single day in July on similar charges. [@2,9,17]
 
 Human Rights Watch warned in July that at least 79 detained Ethiopians remained
-at imminent risk of execution on similar charges. [@1,2,9] Last year executions
+at imminent risk of execution on similar charges. [@1,2,9,17] Last year executions
 reached a second straight annual record with 356 people put to death, including
 243 in drug cases. [@1] Saudi authorities say executions follow exhaustion of
 all appeals and aim to maintain security and protect residents from drugs. [@1]
@@ -142,4 +141,4 @@ The Interior Ministry named the five executed men as Seqaw Asay Brato Tesfay, Ke
 
 The Ministry said security agencies arrested the five before referring their case to the competent court, and that their sentences became final after appeal and Supreme Court endorsement before a royal order for execution. [@5,6,7,10,16]
 
-The announcement was the third such execution announcement in recent months. [@2]
+The announcement was the third such execution announcement in recent months. [@2,17]
