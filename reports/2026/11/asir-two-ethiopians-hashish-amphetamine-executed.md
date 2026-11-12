@@ -57,22 +57,24 @@ sources:
     publisher: CNN Arabic
     date: 2026-11-11
     language: ar
-open_questions:
-  - CNN Arabic transliterates the second executed man's name as Zenebu Segay Asbha Qasasawa, while the report uses Qasasaw, a difference in romanisation of the same Arabic spelling.
-  - The CNN Arabic account gives no date or place for the two men's arrest or trial, and no Hijri date for the execution.
+  - title: تنفيذ حكم القتل تعزيرًا بحق إثيوبيين أدينا بتهريب المخدرات في عسير
+    url: https://www.sra7h.com/%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D9%82%D8%AA%D9%84-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B1%D9%8B%D8%A7-%D8%A8%D8%AD%D9%82-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D9%8A%D9%86-%D8%A3/
+    publisher: صحيفة صراحة الالكترونية
+    date: 2026-11-11
+    language: ar
 ---
 
 Saudi Arabia's Interior Ministry announced the execution of two Ethiopian
 nationals in the Asir region after convicting them of smuggling amphetamine
-pills and hashish into the kingdom. [@1,4] The ministry named the two men as
+pills and hashish into the kingdom. [@1,4,5] The ministry named the two men as
 Mebrahtu Segay Sadiq Erha and Zenebu Segay Asbha Qasasaw, both Ethiopian
-nationals. [@2,3,4] Both men were arrested after being suspected of involvement in
-drug smuggling. [@1,4]
+nationals. [@2,3,4,5] Both men were arrested after being suspected of involvement in
+drug smuggling. [@1,4,5]
 
 The ministry said investigations proved the two men's involvement and that the
 competent court sentenced them to death as a discretionary taazir punishment.
 [@1,3] The death sentences became final after appeal and confirmation by the
-Supreme Court, and a royal order was then issued to carry them out. [@1,3,4] The
+Supreme Court, and a royal order was then issued to carry them out. [@1,3,4,5] The
 execution was carried out on Wednesday, 1 Jumada al-Akhirah 1448 AH,
 corresponding to 11 November 2026, in the Asir region. [@1,3]
 
@@ -80,4 +82,4 @@ The hashish is the cannabis component of the conviction, while the amphetamine
 tablets are excluded from the cannabis figures. [@1] The ministry said the
 sentences formed part of the kingdom's effort to protect citizens and residents
 from drugs and to impose the strictest penalties on traffickers and dealers.
-[@1,3] The ministry statement was carried by the official Saudi Press Agency (SPA). [@4]
+[@1,3,5] The ministry statement was carried by the official Saudi Press Agency (SPA). [@4]
