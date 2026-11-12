@@ -54,6 +54,11 @@ sources:
     publisher: Nai Dunia
     date: 2026-11-11
     language: hi
+  - title: गांजा और MD ड्रग्स की तस्करी का खुलासा, भोपाल क्राइम ब्रांच ने दो आरोपियों को दबोचा
+    url: https://breakingtube.com/smuggling-of-ganja-and-md-drugs-uncovered-bhopal-crime-branch-nabs-two-suspects/
+    publisher: Breaking Tube
+    date: 2026-11-11
+    language: hi
 open_questions:
     - One account gives Tuesday night as the arrest time without a calendar date while another describes the Govindpura action as on Wednesday; 10 November 2026 is used as the incident date.
     - The Rs 3 lakh figure is the police's estimated value of the seized ganja, not a verified sale price.
@@ -62,19 +67,19 @@ open_questions:
 ---
 
 Bhopal Crime Branch arrested 60-year-old Kiran Ahirwar in the Govindpura area on
-Tuesday night on suspicion of ganja trafficking. [@1] She was sitting with a bag
-near the Hanuman temple in front of Kasturba Hospital. [@1] Police said they had
+Tuesday night on suspicion of ganja trafficking. [@1,3] She was sitting with a bag
+near the Hanuman temple in front of Kasturba Hospital. [@1,3] Police said they had
 received a tip that the bag contained ganja and that she was waiting for a
-customer to sell it. [@1,2] After watching her from a distance and matching her to
+customer to sell it. [@1,2,3] After watching her from a distance and matching her to
 the informer's description, the Crime Branch team cordoned off the spot and
-caught her. [@1]
+caught her. [@1,3]
 
 Searching the bag, officers found ganja wrapped in transparent plastic, weighing
-10 kg 100 grams in total. [@1] Police put the value of the seized ganja at about
-Rs 3 lakh. [@1,2] Police identified the woman as Kiran Ahirwar (60), a resident of
-Kainchi Chhola in the Chhola Mandir police-station area. [@1,2] Police said she
-works as a labourer and is illiterate. [@1]
+10 kg 100 grams in total. [@1,3] Police put the value of the seized ganja at about
+Rs 3 lakh. [@1,2,3] Police identified the woman as Kiran Ahirwar (60), a resident of
+Kainchi Chhola in the Chhola Mandir police-station area. [@1,2,3] Police said she
+works as a labourer and is illiterate. [@1,3]
 
 Police registered a case against her under sections 8 and 20 of the NDPS Act.
-[@1,2] Police said they were now tracing the ganja supply chain and other people
+[@1,2,3] Police said they were now tracing the ganja supply chain and other people
 linked to the network. [@1]
