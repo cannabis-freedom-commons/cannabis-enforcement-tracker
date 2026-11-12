@@ -54,6 +54,11 @@ sources:
     publisher: TN24
     date: 2026-11-11
     language: es
+  - title: 'Castelli: secuestraron más de cinco kilos de marihuana escondidos entre malezas'
+    url: https://www.diarioya.ar/castelli-secuestraron-mas-de-cinco-kilos-de-marihuana-escondidos-entre-malezas/
+    publisher: DiarioYA
+    date: 2026-11-11
+    language: es
 open_questions:
     - Portico Noticias dated the seizure to Thursday afternoon, while SP Noticias said the operation began on Wednesday morning. 11 November 2026, a Wednesday and the shared publication date, is used as the incident date.
     - Portico said a further search found five more packages and also said five packages were seized in all. SP Noticias said the dropped package plus four more made five packages of 5.348 kg. The report uses the shared total of five packages and 5.348 kg.
@@ -65,7 +70,7 @@ open_questions:
 
 Police in Juan José Castelli, in Argentina's Chaco province, seized more than
 five kilograms of marijuana hidden in weeds beside a rural road after a tip
-about drugs concealed in the vegetation. [@1,3] Officers went to Antonio Nieves
+about drugs concealed in the vegetation. [@1,3,4] The seizure was carried out by the Interior Drug Operations Division. [@4] Officers went to Antonio Nieves
 street, near its junction with the track, and about 20 metres from the crossing
 found flattened grass and several black packages wrapped in tape. [@1]
 
@@ -73,14 +78,14 @@ The duty assistant prosecutor ordered a discreet watch to see whether anyone
 came to collect the packages. [@1] Around midday a stocky man arrived on a Honda
 Tornado 250 cc motorcycle, got off and picked up one of the packages hidden in
 the grass. [@1,3] When officers ordered him to stop he dropped the package and
-rode away, and a chase did not catch him. [@1,3]
+rode away, and a chase did not catch him. [@1,3,4]
 
 Assistant prosecutor Diego Enrique then ordered the abandoned package seized and
 the area searched in front of two witnesses. [@1] Weighing and a field test
 confirmed the load was marijuana, 5.348 kilograms in five black polyethylene
 packages, and the case was opened as a suspected breach of National Law 23.737,
-Argentina's narcotics statute. [@1,3] Officers continued trying to identify the
-man who fled. [@1,3]
+Argentina's narcotics statute. [@1,3,4] Officers continued trying to identify the
+man who fled. [@1,3,4]
 
 SP Noticias reported that Chaco police, including Castelli drugs officers, began
 the operation on Wednesday morning, and that the decentralised fiscal office in
