@@ -57,27 +57,23 @@ sources:
     publisher: People's Update
     date: 2026-11-07
     language: hi
-open_questions:
-  - The article gives no separate date for the arrest; 7 November 2026 is its publication date and is used as the incident date.
-  - The value of about three lakh rupees is the police's estimate, not an independently verified market price.
-  - The article says a case was registered under section 8/20 of the NDPS Act but does not say whether he had been formally charged or produced before a court.
-  - No court outcome is reported.
-  - Only one accessible account of this arrest was found in Hindi searching; no statement published directly by Sehore police could be opened.
-  - The page's single photo carries no credit and its address is a People's Update image proxy; it is listed as a link only and may not be the actual seizure photograph.
-  - Local spelling varies between Budhni and Budni; the coordinates mark the town centre, not the overbridge spot.
+  - title: 'बुदनी में हरियाणा से गांजा बेचने आया था आरोपी: रेलवे ओवरब्रिज के नीचे होने वाला था सौदा; पुलिस ने जाल बिछाकर किया गिरफ्तार'
+    url: https://www.pradeshprakash.com/article/budni-men-hariyana-se-ganja-bechne-aya-tha-aropi
+    publisher: प्रदेश प्रकाश
+    language: hi
 ---
 
 Budhni police arrested a 43-year-old man from Karnal district, Haryana, who
 police said was waiting under the Budhni railway overbridge to sell ganja. [@1]
 The man told police he lives in Gondar village in Nissing police-station area of
-Karnal district, Haryana. [@1] Officers searched him and recovered 6.304
+Karnal district, Haryana. [@1,2] In questioning the man gave his name as Sunil Kumar. [@2] Officers searched him and recovered 6.304
 kilograms of ganja, which police estimated to be worth about three lakh rupees.
-[@1]
+[@1,2]
 
 Budhni sub-divisional police officer Ravi Sharma said police received a tip that
 a man was sitting by the railway track under the overbridge with ganja, and that
 station house officer Sunil Thakur took a team that surrounded and caught him.
-[@1] The arrest came under a district-wide drive against drug smuggling and sale
+[@1] The Railway Protection Force post at Itarsi also played an important role in the action alongside Budni police. [@2] The action was carried out by a joint team of the police and the Railway Protection Force. [@2] The arrest came under a district-wide drive against drug smuggling and sale
 run on the orders of the police headquarters and led by Sehore superintendent of
 police Sonakshi Saxena, with additional superintendent Prashant Chaube and
 Budhni sub-divisional officer Ravi Sharma guiding it. [@1]
@@ -85,5 +81,4 @@ Budhni sub-divisional officer Ravi Sharma guiding it. [@1]
 Budhni police registered crime number 492/2026 under section 8/20 of the NDPS
 Act, India's main narcotics law, and took him into custody. [@1] Investigators
 are now trying to establish where the ganja came from and whom in Budhni it was
-meant to be supplied to. [@1]
-
+meant to be supplied to. [@1,2]
