@@ -55,30 +55,34 @@ sources:
     publisher: La Banda Diario
     date: 2026-11-11
     language: es
+  - title: 'La Banda: aprehendieron a tres jóvenes con marihuana y una moto con pedido de secuestro por robo'
+    url: https://infodelestero.com/2026/11/11/la-banda-aprehendieron-a-tres-jovenes-con-marihuana-y-una-moto-con-pedido-de-secuestro-por-robo
+    publisher: Info del Estero
+    date: 2026-11-11
+    language: es
 open_questions:
-  - The article was published on 11 November 2026 and says the procedure took place in the early hours of Tuesday, so 10 November 2026 is inferred as the incident date.
-  - The marijuana identification rests on a field orientation test, with no laboratory confirmation reported.
-  - The three young people were not named, and no charges, pleas or court outcome were reported.
-  - The account does not say how the 6,200 pesos, phones and chargers relate to the suspected dealing, beyond their incorporation into the case file.
-  - The account rests on one local report, with no second outlet or agency statement found.
+    - The article was published on 11 November 2026 and says the procedure took place in the early hours of Tuesday, so 10 November 2026 is inferred as the incident date.
+    - The marijuana identification rests on a field orientation test, with no laboratory confirmation reported.
+    - The three young people were not named, and no charges, pleas or court outcome were reported.
+    - The account does not say how the 6,200 pesos, phones and chargers relate to the suspected dealing, beyond their incorporation into the case file.
+    - No agency statement of the procedure has been found.
 ---
 
 Police on preventive patrol in barrio San Martín stopped a motorcycle carrying
 three young people aged 23 to 24. [@1] The motorcycle was a red Honda Wave with
-no licence plate, whose riders tried to flee when they saw the police. [@1] On
+no licence plate, whose riders tried to flee when they saw the police. [@1,2] On
 the order of the narcomenudeo prosecutor's office, the three young people were
 apprehended, and the motorcycle, the plant material and the other items were
-seized and placed at the disposal of the intervening court. [@1]
+seized and placed at the disposal of the intervening court. [@1,2]
 
 The stop took place in the early hours of Tuesday near avenida Belgrano and
-calle Chile. [@1] A check of the motorcycle's numbers showed an active seizure
+calle Chile. [@1,2] A check of the motorcycle's numbers showed an active seizure
 order for a robbery case handled by Comisaría Comunitaria N° 12 since 20
-September. [@1] Asked to open the motorcycle's storage compartment, the driver
+September. [@1,2] Asked to open the motorcycle's storage compartment, the driver
 revealed a waist bag holding a black plastic bag with brownish-green plant
-material and a precision scale. [@1]
+material and a precision scale. [@1,2]
 
 Dangerous-drugs officers called to the scene ran a field orientation test that
-was positive for marijuana weighing 88.42 grams. [@1] Officers also seized three
+was positive for marijuana weighing 88.42 grams. [@1,2] Officers also seized three
 mobile phones, two chargers and 6,200 pesos in cash, which were added to the
-case file. [@1]
-
+case file. [@1,2]
