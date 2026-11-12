@@ -107,23 +107,28 @@ sources:
     publisher: Novinata.bg
     date: 2026-11-11
     language: bg
+  - title: В Софии задержали двух человек за наркотики, у одного нашли более 290 граммов марихуаны
+    url: https://burgasmedia.com/news/dvama-zadarzhani-za-narkotici-v-sofiya-u-ediniya-nameriha-nad-290-grama-marihuana?lang=ru
+    publisher: BurgasMedia
+    date: 2026-11-11
+    language: ru
 ---
 
 Police from the Seventh District Police Department in Sofia detained a
 48-year-old man in his flat in the Mladost district on the evening of 9 November
 2026 after a tip-off that he sold drugs from his home to customers who came to
-the address. [@1,3,4] A search of the flat found 32 sachets of herbal material, one
-polyethylene bag of a crystalline substance and nearly 700 euro. [@1,3,4]
+the address. [@1,3,4,7] A search of the flat found 32 sachets of herbal material, one
+polyethylene bag of a crystalline substance and nearly 700 euro. [@1,3,4,7]
 
 An expert report identified the substances from the man's flat as over 290 grams
-of marijuana, 80 grams of methamphetamine and over 70 grams of amphetamine. [@1,3,5]
+of marijuana, 80 grams of methamphetamine and over 70 grams of amphetamine. [@1,3,5,7]
 Later the same evening officers detained a 32-year-old woman after a call about
 a disturbance, and found four sachets of marijuana and methamphetamine in her
-home. [@2,3,6]
+home. [@2,3,6,7]
 
 The man was held under a police measure for up to 24 hours and a pre-trial
 proceeding was opened against him under article 354a, paragraph 1, of the
-Criminal Code. [@1,3,4] The woman was also held for up to 24 hours, with a pre-trial
-proceeding opened against her under the same article. [@2,3,4] The Sofia City
+Criminal Code. [@1,3,4,7] The woman was also held for up to 24 hours, with a pre-trial
+proceeding opened against her under the same article. [@2,3,4,7] The Sofia City
 Prosecutor's Office charged both suspects and ordered detention in custody for
-up to 72 hours. [@1,3,4]
+up to 72 hours. [@1,3,4,7]
