@@ -69,6 +69,15 @@ sources:
     publisher: ViterboToday
     date: 2026-11-11
     language: it
+  - title: Viterbo – Controlli antidroga a Pratogiardino, 24enne arrestato con hashish pronto per lo spaccio
+    url: https://etrurianews.it/2026/11/11/viterbo-controlli-antidroga-a-pratogiardino-24enne-sorpreso-con-hashish-pronto-allo-spaccio/
+    publisher: Etruria News
+    date: 2026-11-11
+    language: it
+open_questions:
+    - The Carabinieri did not state the man's nationality, describing him only as a 24-year-old foreigner with no fixed address.
+    - The hashish weight is given as approximately 38 grams, not an exact measured figure.
+    - The Carabinieri statement gave no outcome of the summary trial under the rito direttissimo procedure.
 ---
 
 Carabinieri arrested a 24-year-old foreign man with no fixed address in Prato
@@ -77,21 +86,21 @@ The arrest was made by the Radiomobile section of the Operational and
 Radiomobile Unit of the Viterbo company during prevention patrols against drug
 dealing in the city’s public areas. [@1] Officers noticed the young man walking
 through the park avenues with behaviour they deemed suspicious and decided to
-check him. [@1,4,5] When he saw the patrol, he allegedly tried to quickly discard a
+check him. [@1,4,5,6] When he saw the patrol, he allegedly tried to quickly discard a
 packet to evade the check, and officers immediately stopped him and recovered
-it. [@1,4] A second account also places the intervention inside Prato Giardino.
+it. [@1,4,6] A second account also places the intervention inside Prato Giardino.
 [@2]
 
 Inside the packet officers found about 38 grams of hashish, which they seized.
-[@1,4,5] A personal search then found 65 euros in banknotes of different
-denominations, seized as suspected proceeds of dealing. [@1,4,5] A third account
+[@1,4,5,6] A personal search then found 65 euros in banknotes of different
+denominations, seized as suspected proceeds of dealing. [@1,4,5,6] A third account
 likewise reports about 38 grams of hashish and 65 euros seized as suspected
 proceeds of dealing. [@3]
 
 After the checks the man was arrested in flagrante and placed at the disposal of
 the judicial authority for a summary trial under the rito direttissimo
-procedure. [@1,4,5] The Carabinieri statement gave no outcome of the hearing. [@1]
+procedure. [@1,4,5,6] The Carabinieri statement gave no outcome of the hearing. [@1]
 The operation was part of wider territorial checks focused on green areas and
 gathering places to prevent street drug dealing and other widespread illegality.
-[@1] He remains presumed innocent until any final conviction, under Article 27
+[@1,6] He remains presumed innocent until any final conviction, under Article 27
 of the Constitution. [@1]
