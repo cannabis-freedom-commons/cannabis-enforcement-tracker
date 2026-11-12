@@ -53,15 +53,20 @@ sources:
     publisher: Евроком
     date: 2026-11-11
     language: bg
+  - title: На 10 ноември 2026 г., около 14:20 часа, на ул.
+    url: https://novini247.com/novini/na-10-noemvri-2026-g-okolo-14-20-chasa-na-ul_11386328.html
+    publisher: Новини 24/7
+    date: 2026-11-11
+    language: bg
 ---
 
 In Smolyan, police officers found a 19-year-old youth behind the wheel of an
 Audi A3 passenger car on Kosta Avramikov Street at about 14:20 on 10 November
-2026. [@1,2,3,4] Officers administered a test for the use of narcotic substances to
+2026. [@1,2,3,4,5] Officers administered a test for the use of narcotic substances to
 the driver during the roadside check. [@1,3,4] The test returned a positive result
-for cannabis. [@1,2,3,4]
+for cannabis. [@1,2,3,4,5]
 
-The driver was detained in police custody for up to 24 hours. [@1,2,3,4] Police opened
-fast-track proceedings in the case. [@1,2,3,4]
+The driver was detained in police custody for up to 24 hours. [@1,2,3,4,5] Police opened
+fast-track proceedings in the case. [@1,2,3,4,5]
 
 Police said the Smolyan cannabis-driving case dated from 10 November 2026. [@1,3,4]
