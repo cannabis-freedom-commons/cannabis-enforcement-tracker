@@ -51,6 +51,11 @@ sources:
     publisher: Dalmacija Danas
     date: 2026-11-11
     language: hr
+  - title: 'Marina: Die Polizei fand bei einem 52-jährigen Niederländer fast ein Kilogramm Marihuana und Ausrüstung zum Anbau.'
+    url: https://www.portal.hr/de/trogir/vijesti/115613-marina-policija-52-godisnjeeg-nizozemca-pronasla-gotovo
+    publisher: Portal.hr
+    date: 2026-11-11
+    language: de
 open_questions:
   - The man's name was not published; he is identified only as a 52-year-old Dutch citizen born in 1974.
   - No court outcome was reported; the case was at the investigation stage when the accounts were published.
@@ -61,16 +66,15 @@ open_questions:
 
 Police officers from the Drug Crime Service of the Split-Dalmatia Police
 Department acted against a 52-year-old Dutch citizen in Marina on 10 November
-2026. [@1] The police account published by Dalmacija Danas identified the man as
+2026. [@1,3] The police account published by Dalmacija Danas identified the man as
 a Dutch citizen born in 1974. [@2]
 
 Officers searched the home the man was using in Marina and found 980 grams of
-marijuana together with equipment intended for its cultivation. [@1] Dalmacija
+marijuana together with equipment intended for its cultivation. [@1,3] Dalmacija
 Danas, citing the Split-Dalmatia Police Department, reported the same 980 grams
 of marijuana and the same cultivation equipment. [@2] He was arrested after the
-drugs were found. [@2]
+drugs were found. [@2,3]
 
 The man was to be handed over to the detention supervisor that day, along with
-criminal charges. [@1] The criminal complaint was to be filed together with the
+criminal charges. [@1,3] The criminal complaint was to be filed together with the
 handover to the detention supervisor. [@2]
-
