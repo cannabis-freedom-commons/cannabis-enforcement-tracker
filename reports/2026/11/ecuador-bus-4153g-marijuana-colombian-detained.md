@@ -44,6 +44,11 @@ media:
     media_url: https://www.eluniverso.com/resizer/v2/HKY2IWHBOJAKNDJYO4OSAZP76A.jpeg?auth=b1ec10d4e860e8413f645523a56393c86c9170c2a22ac5f0376c285da4752873&width=696&height=522&quality=75&smart=true
     publisher: El Universo
     caption: 'Photo of the man detained for carrying drugs on a bus in the Amazon region. Photo: Cortesía, via El Universo.'
+  - kind: photo
+    url: https://www.extra.ec/noticia/ecuador/policia-incauta-4-kilos-marihuana-bus-interprovincial-napo-167566.html
+    media_url: https://imagenes.extra.ec/files/image_composite_mobile/uploads/2026/11/11/6af45fb503e1c.jpeg
+    publisher: Diario Extra
+    caption: 'Police handout photo of the marijuana, cash and mobile phone seized in the bus operation. Photo: Policía Nacional'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e08d6e56f5981722e73e43c4a627f943
@@ -54,28 +59,36 @@ sources:
     publisher: El Universo
     date: 2026-11-11
     language: es
+  - title: Pasajero que llevaba más de cuatro kilos de marihuana escondidos entre su ropa fue detenido en Napo
+    url: https://www.extra.ec/noticia/ecuador/policia-incauta-4-kilos-marihuana-bus-interprovincial-napo-167566.html
+    publisher: Diario Extra
+    date: 2026-11-11
+    language: es
+  - title: La Policía Nacional del Ecuador, aprehendió a un ciudadano y decomisó más de cuatro kilos de marihuana en la ciudad de Tena, provincia de Napo
+    url: https://noticias.policia.gob.ec/la-policia-nacional-del-ecuador-aprehendio-a-un-ciudadano-y-decomiso-mas-de-cuatro-kilos-de-marihuana-en-la-ciudad-de-tena-provincia-de-napo
+    publisher: Policía Nacional del Ecuador
+    date: 2026-11-10
+    language: es
 open_questions:
-  - The exact province or canton of the Km 24 circuit was not specified beyond the Lago Agrio–Zamora Chinchipe bus route.
-  - No charges or court outcome were reported; the detainee was placed at the disposal of the judicial authority.
-  - The $3,200 valuation and the 8,306-dose estimate are the police's figures.
+    - No charges, plea or court outcome were reported; the detainee was taken to the judicial authorities for a hearing to formulate charges.
+    - The $3,200 valuation and the 8,306-dose estimate are the police's figures.
 ---
 
 National Police officers detained a Colombian man who was identified as the
 owner of the luggage carrying the marijuana. [@1] He was identified as Luduy
 Souyoux B. C. [@1] The detainee and the seized evidence were placed at the
-disposal of the judicial authority. [@1]
+disposal of the judicial authority. [@1] Police said he was taken with the evidence to the judicial authorities for the legal process and a hearing to formulate charges. [@2]
 
 National Police officers found more than four kilos of marijuana hidden in an
-interprovincial bus travelling between Lago Agrio and Zamora Chinchipe. [@1] The
+interprovincial bus travelling between Lago Agrio and Zamora Chinchipe. [@1,2] The
 police operation took place on the afternoon of Monday 9 November at the Km 24
-circuit. [@1] Before the find, officers stopped the bus to inspect its trunk,
+circuit. [@1] The bus was stopped at about 16:30. [@2] The Km 24 circuit is in Tena canton, Napo province. [@2] Before the find, officers stopped the bus to inspect its trunk,
 compartments and passengers' luggage. [@1] During the check, one passenger
 showed an evasive attitude, which led officers to search his belongings. [@1] In
 his backpack they found several packages wrapped in black plastic bags, mixed
-among items of clothing and inside the lining of a jacket. [@1] Tests determined
-the substance was 4,153 grams of marijuana, the National Police reported. [@1]
+among items of clothing and inside the lining of a jacket. [@1,2] Tests determined
+the substance was 4,153 grams of marijuana, the National Police reported. [@1,3]
 
 Officers also found $500 in cash, a mobile phone and an identity document among
 the belongings. [@1] Police said the marijuana could have yielded about 8,306
 doses, with a total domestic market value of $3,200. [@1]
-
