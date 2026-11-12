@@ -59,22 +59,35 @@ sources:
     publisher: Lõunaeestlane
     date: 2026-11-11
     language: et
+  - title: FOTOD | Politsei pidas kinni mehe, kellelt leiti ligi 13 kilogrammi narkootikume
+    url: https://www.ohtuleht.ee/1171105/fotod-politsei-pidas-kinni-mehe-kellelt-leiti-ligi-13-kilogrammi-narkootikume
+    publisher: Õhtuleht
+    date: 2026-11-11
+    language: et
+  - title: Politsei pidas kinni mehe, kelle valdusest leiti ligi 13 kilogrammi narkootilisi aineid
+    url: https://www.politsei.ee/et/uudised/politsei-pidas-kinni-mehe-kelle-valdusest-leiti-ligi-13-kilogrammi-narkootilisi-aineid-13934
+    publisher: Politsei- ja Piirivalveamet
+    date: 2026-11-11
+    language: et
+open_questions:
+    - No separate weight was published for the cannabis and hashish within the 8.1 kilograms of mixed substances, so the cannabis quantity is not recorded.
+    - The reports do not say what happened after the custody ruling or when the case will reach court.
 ---
 
 Police detained a 27-year-old Uzbek citizen with a Latvian residence permit in
 Tallinn on 19 October on suspicion of large-scale illegal handling of narcotics.
-[@1,3,4] A court granted the prosecution request to keep the man in custody during
-the pre-trial investigation. [@1,3,4] The prosecutor argued for custody on the grounds that the man had no permanent income or ties to Estonia and would have evaded prosecution and continued distributing drugs across Estonia if released. [@3,4]
+[@1,3,4,5] A court granted the prosecution request to keep the man in custody during
+the pre-trial investigation. [@1,3,4,6] The prosecutor argued for custody on the grounds that the man had no permanent income or ties to Estonia and would have evaded prosecution and continued distributing drugs across Estonia if released. [@3,4,5]
 
 According to information collected so far, the man brokered narcotics through
-the Telegram messaging app mainly in the capital. [@1,3,4] He allegedly stored the
+the Telegram messaging app mainly in the capital. [@1,3,4,6] He allegedly stored the
 drugs in his rented flat, repackaged them into smaller quantities and carried
-the packets to stash locations across the city. [@2,3,4] A search of the flat found
+the packets to stash locations across the city. [@2,3,4,5] A search of the flat found
 at least 5.4 kilograms of amphetamine-containing substance and over 8.1
-kilograms of substances containing MDMA, cocaine, cannabis and hashish. [@2,3,4]
+kilograms of substances containing MDMA, cocaine, cannabis and hashish. [@2,3,4,5]
 
 Police said the total amount could have caused narcotic intoxication in about
-70,000 people on the initial estimate. [@1,3,4] The supervising prosecutor said the
+70,000 people on the initial estimate. [@1,3,4,6] The supervising prosecutor said the
 evidence so far indicates the man was part of a larger grouping operating across
-Estonia. [@2,3,4] The pre-trial proceedings are conducted by the Eastern Prefecture
-and led by the Viru District Prosecutor’s Office. [@2,3,4]
+Estonia. [@2,3,4,6] The pre-trial proceedings are conducted by the Eastern Prefecture
+and led by the Viru District Prosecutor’s Office. [@2,3,4,6]
