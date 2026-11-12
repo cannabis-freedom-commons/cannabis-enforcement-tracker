@@ -42,28 +42,33 @@ sources:
     publisher: El Observatodo
     date: 2026-11-11
     language: es
+  - title: Carabineros incauta más de 30 kilos de marihuana tras fiscalización en el acceso norte a la Región de Coquimbo
+    url: https://radioriquelme.cl/2026/11/11/carabineros-incauta-mas-de-30-kilos-de-marihuana-tras-fiscalizacion-en-el-acceso-norte-a-la-region-de-coquimbo/
+    publisher: Radio Riquelme
+    date: 2026-11-11
+    language: es
 open_questions:
-    - The accounts give no separate date for the procedure; 11 November 2026 is the publication date of all three reports.
+    - The accounts give no separate date for the procedure; 11 November 2026 is the publication date of the reports.
     - One account places the check point at the northern access of Coquimbo commune while the others describe the northern access of the Coquimbo Region, and no kilometre is named.
     - No charge, formalisation or court outcome was reported for the detained driver.
     - The accounts give no street value for the marijuana and no number of doses.
-    - All three accounts appear to reproduce the same Carabineros statement.
+    - The accounts appear to reproduce the same Carabineros statement.
     - The accounts also mention an earlier weekend seizure of almost half a tonne of drugs on Route 5, a separate operation not counted in this report's figures.
 ---
 
 Carabineros detained a 50-year-old man at a vehicle check on the northern access
-to the Coquimbo Region. [@1,3,4] Officers of the Tenencia Carreteras Elqui checked
+to the Coquimbo Region. [@1,3,4,5] Officers of the Tenencia Carreteras Elqui checked
 the vehicle and found just over two kilograms of processed marijuana in two oval
-packages known locally as bolones. [@1,3,4] Police said the driver had two previous
+packages known locally as bolones. [@1,3,4,5] Police said the driver had two previous
 police records, one for maltreatment of Carabineros and one for minor injuries.
-[@2,3,4]
+[@2,3,4,5]
 
 Officers of OS7, Carabineros' specialist anti-drug section, were called to the
 sector and found another 28 packages of processed marijuana a short distance
-from the vehicle check. [@1,3,4] The operation ended with 30 kilograms 360 grams of
-marijuana in 30 packages taken out of circulation. [@2,3,4]
+from the vehicle check. [@1,3,4,5] The operation ended with 30 kilograms 360 grams of
+marijuana in 30 packages taken out of circulation. [@2,3,4,5]
 
 Police said the load was travelling towards the centre and south of the country.
-[@1] Lieutenant Francisco Ramírez, head of the Tenencia Carreteras Elqui, said
+[@1,5] Lieutenant Francisco Ramírez, head of the Tenencia Carreteras Elqui, said
 the quick coordination with OS7 had allowed officers to find the further 28
-packages. [@1,4]
+packages. [@1,4,5]
