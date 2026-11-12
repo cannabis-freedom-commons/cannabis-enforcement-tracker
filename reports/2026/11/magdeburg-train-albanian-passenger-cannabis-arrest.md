@@ -38,28 +38,26 @@ sources:
     publisher: Polizei Sachsen-Anhalt
     date: 2026-11-11
     language: de
-open_questions:
-  - The notice gives the cannabis only as several hundred grams, so no exact weight is recorded.
-  - It does not name the train, the line or the station where he was stopped; Magdeburg is where he was handed to state police.
-  - It does not say whether the cannabis was dried flower, resin or another product.
-  - No named cannabis charge, court date or outcome was reported beyond the opening of criminal proceedings.
-  - The account rests on a single police press release.
+  - title: 'Bundespolozei stellt 30-Jährigen: Vom Hauptbahnhof Magdeburg direkt in Polizei-Gewahrsam'
+    url: https://www.volksstimme.de/blaulicht/magdeburg/vom-hauptbahnhof-magdeburg-direkt-in-polizei-gewahrsam-4354540
+    publisher: Volksstimme
+    date: 2026-11-11
+    language: de
 ---
 
 On Tuesday 10 November 2026, officers of the Bundespolizei, Germany's federal
 police force, found a 30-year-old Albanian national, a citizen of Albania, on a
-train while he was travelling without a valid ticket. [@1] He was a passenger
+train while he was travelling without a valid ticket. [@1,2] He was a passenger
 when the cannabis was found. [@1]
 
 During a search of the backpack he had with him, the officers found several
-hundred grams of cannabis. [@1] They then seized the cannabis they had found in
+hundred grams of cannabis. [@1,2] They then seized the cannabis they had found in
 the backpack he was carrying. [@1] Beyond that find, the check produced a
 suspicion that he had entered the federal territory of Germany without
-permission. [@1]
+permission. [@1,2]
 
 On grounds of jurisdiction, the federal officers handed the 30-year-old to
-officers of the Landespolizei in Magdeburg. [@1] The state force that took him
+officers of the Landespolizei in Magdeburg. [@1,2] The state force that took him
 is the police of the Land of Saxony-Anhalt. [@1] He was provisionally arrested
 and brought to a police station so that further police measures could be carried
-out. [@1] Corresponding criminal proceedings were opened against him. [@1]
-
+out. [@1,2] Corresponding criminal proceedings were opened against him. [@1,2]
