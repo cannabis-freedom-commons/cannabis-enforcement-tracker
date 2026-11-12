@@ -73,6 +73,10 @@ sources:
     publisher: WHAM (13wham.com)
     date: 2026-11-11
     language: en
+  - title: Task force raids elderly man's property after complaint, finds 2,700 cannabis plants
+    url: https://mynbc15.com/news/nation-world/task-force-raids-elderly-man-property-after-complaint-finds-2700-cannabis-plants-monroe-washington-liquor-weed-board-snohomish-sheriffs-office-narcotics-felony-marijuana-production-charges
+    publisher: mynbc15 (WEAR2)
+    date: 2026-11-11
 media:
   - kind: photo
     url: https://komonews.com/news/local/snohomish-county-sheriff-task-force-raids-monroe-property-after-complaint-seizing-2700-cannabis-plants-70-year-old-man-weed-grow-marijuana-plant-farming-liquor-cannabis-board-washington-state
@@ -88,20 +92,20 @@ open_questions:
 
 A 70-year-old man was arrested after law enforcement authorities discovered
 approximately 2,700 marijuana plants during a search of a suspected illegal
-cannabis production operation near Monroe, Washington. [@1,2,7,8] The 70-year-old
+cannabis production operation near Monroe, Washington. [@1,2,7,8,9] The 70-year-old
 suspect was booked into the Snohomish County Jail on felony charges of drug
 manufacturing, delivery, or possession with intent to deliver narcotics, as well
-as illegal marijuana production. [@1,2,3,7,8]
+as illegal marijuana production. [@1,2,3,7,8,9]
 
 The arrest followed an inquiry that began earlier this year after the state
 cannabis regulator received an initial complaint reporting a strong odor of
-marijuana originating from a property in unincorporated Monroe. [@1,4,5,7,8] That
+marijuana originating from a property in unincorporated Monroe. [@1,4,5,7,8,9] That
 complaint prompted an investigation by the Washington State Liquor and Cannabis
 Board's investigations unit, which identified evidence of suspected unlicensed
-cannabis production on the premises. [@1,6,7] The agency's unit then partnered with
-a regional law enforcement task force to advance the case. [@1,4,6,7] The task force is supported by the Northwest High Intensity Drug Trafficking Area, a federal program. [@2,4] The task force that executed the warrant was the Snohomish Regional Drug Task Force, assisted by Washington State Liquor and Cannabis Board enforcement officers. [@2,4,7,8] On 6 November
+cannabis production on the premises. [@1,6,7,9] The agency's unit then partnered with
+a regional law enforcement task force to advance the case. [@1,4,6,7,9] The task force is supported by the Northwest High Intensity Drug Trafficking Area, a federal program. [@2,4,9] The task force that executed the warrant was the Snohomish Regional Drug Task Force, assisted by Washington State Liquor and Cannabis Board enforcement officers. [@2,4,7,8,9] On 6 November
 2026, investigators executed a search warrant at the property and seized
-approximately 2,700 live and dried marijuana plants. [@1,3,6,7,8] Details regarding the
+approximately 2,700 live and dried marijuana plants. [@1,3,6,7,8,9] Details regarding the
 joint investigation, search warrant and subsequent arrest were released by the
 Washington State Liquor and Cannabis Board and the Snohomish County Sheriff's
 Office. [@1,2]
