@@ -40,9 +40,10 @@ data_sources:
 status: verified
 tags: [kalinga, tinglayan, pnp, pdea, oplan-highlander]
 open_questions:
-  - A later awards report put the haul's value at P861.9 million; this report uses the P858,800,900 figure from the PRO-Cordillera press release.
-  - No cultivators were identified; follow-up investigation to find them was continuing.
-  - A separately reported 240,000-plant raid in Loccong on 1 May 2024 may describe one of this campaign's sites and is kept as its own report.
+    - The 9 May 2024 Inquirer account and a later awards report put the haul's value at P861.9 million; this report uses the P858,800,900 figure from the PRO-Cordillera press release.
+    - No cultivators were identified; follow-up investigation to find them was continuing.
+    - A separately reported 240,000-plant raid in Loccong on 1 May 2024 may describe one of this campaign's sites and is kept as its own report.
+    - The Inquirer attributes 1,575 grams of dried marijuana to PNP spokesperson Jean Fajardo, while the PDEG statement in the same article and the figures used in this report give 1,575 kilograms.
 sources:
   - title: OPLAN HIGHLANDER SUCCESSFUL P858.9 MILLION WORTH OF MARIJUANA BURNED IN KALINGA
     url: https://www.filipinonewssentinel.com/oplan-highlander-successful-p858-9-million-worth-of-marijuana-burned-in-kalinga/
@@ -52,10 +53,14 @@ sources:
     url: https://streetjournalms.com/pro-car-awards-5-police-officers-and-4-personnel-from-partner-agencies-for-their-notable-accomplishments/
     publisher: Street Journal Multimedia Services
     date: 2024-07-12
+  - title: PNP destroys P861.9-M worth of marijuana plants in Kalinga
+    url: https://newsinfo.inquirer.net/1939023/pnp-destroys-p861-9-m-worth-of-marijuana-plants-in-kalinga
+    publisher: INQUIRER.net
+    date: 2024-05-09
 ---
 
 Cordillera police joined national police units, the armed forces, the Air Force, the Coast Guard, intelligence officers and PDEA agents in a nine-day eradication operation dubbed Oplan Highlander, from 29 April to 7 May 2024. [@1,2] Regional director Brig. Gen. David Peredo Jr. and other Cordillera officers took part in person in uprooting and burning the plants. [@1]
 
-The teams found 3,349,500 fully grown marijuana plants and 1,575,000 grams of dried stalks with fruiting tops across 27 plantation sites on Mt Chumancil, spanning the Tinglayan barangays of Buscalan and Loccong. [@1,2] The PRO-Cordillera press release valued the haul at P858,800,900. [@1]
+The teams found 3,349,500 fully grown marijuana plants and 1,575,000 grams of dried stalks with fruiting tops across 27 plantation sites on Mt Chumancil, spanning the Tinglayan barangays of Buscalan and Loccong. [@1,2,3] The PNP Drug Enforcement Group said the destroyed plantation covered 195,100 square metres (19.51 hectares). [@3] The PRO-Cordillera press release valued the haul at P858,800,900. [@1]
 
 Officers were still working to identify the cultivators and had asked barangay communities for information when the release was issued. [@1] Five officers later received the PNP Heroism Medal for the operation. [@2]
