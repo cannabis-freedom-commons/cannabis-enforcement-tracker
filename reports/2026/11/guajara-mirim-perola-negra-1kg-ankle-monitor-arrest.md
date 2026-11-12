@@ -59,6 +59,11 @@ sources:
     publisher: Guajará Notícias
     date: 2026-11-10
     language: pt
+  - title: Monitorado por tornozeleira eletrônica é preso com 1 kg de maconha após tentar fugir da PM
+    url: https://diariodaamazonia.com.br/noticia/5/454651/monitorado-por-tornozeleira-eletronica-e-preso-com-1-kg-de-maconha-apos-tentar-fugir-da-pm
+    publisher: Diário da Amazônia
+    date: 2026-11-11
+    language: pt
 open_questions:
   - The cannabis weight is given as approximately 1 kg, with no exact measurement or laboratory confirmation reported.
   - The SGC article gives no separate date for the arrest; the night of Monday 9 November 2026 comes from the two local outlets O Mamoré and Guajará Notícias.
@@ -71,22 +76,21 @@ open_questions:
 ---
 
 Military Police arrested a 20-year-old man wearing an electronic ankle monitor
-on suspicion of drug trafficking in Guajará-Mirim, Rondônia. [@1] The arrest
+on suspicion of drug trafficking in Guajará-Mirim, Rondônia. [@1,4] The arrest
 took place on the night of Monday 9 November 2026. [@3] The arrest was made by
 the 6th Military Police Battalion's intelligence nucleus and a Radiopatrulha
-radio patrol crew. [@1] The action began near the Pérola Negra clandestine port
-on Avenida Beira Rio in the Triângulo neighbourhood. [@1] Police saw him receive
+radio patrol crew. [@1,4] The action began near the Pérola Negra clandestine port
+on Avenida Beira Rio in the Triângulo neighbourhood. [@1,4] Police saw him receive
 a bag from a Bolivian woman while he was on a black motorcycle, and he hid it
 under his clothes before leaving at speed. [@2] He ignored an order to stop and
 fled, losing control at the junction of Avenidas XV de Novembro and Rocha Leal
-near the Afonso Rodrigues sports gym, where officers caught him. [@1] A search
-found a tablet of cannabis wrapped in plastic and adhesive tape. [@1] The tablet
-weighed about 1 kilogram. [@1]
+near the Afonso Rodrigues sports gym, where officers caught him. [@1,4] A search
+found a tablet of cannabis wrapped in plastic and adhesive tape. [@1,4] The tablet
+weighed about 1 kilogram. [@1,4]
 
 The arrest was made with forces assigned to Operation Madeira-Mamoré II,
-coordinated by the Federal Police. [@1] The man, the drug and the motorcycle
+coordinated by the Federal Police. [@1,4] The man, the drug and the motorcycle
 were taken to the Federal Police station in Guajará-Mirim for legal procedures.
-[@1] O Mamoré reported that the operation also involved the Federal Highway
+[@1,4] O Mamoré reported that the operation also involved the Federal Highway
 Police, the Border Police Battalion (BPFron), the 6th Battalion's tactical
 patrol unit (Patamo) and the Rondônia narcotics department (Denarc/RO). [@2]
-
