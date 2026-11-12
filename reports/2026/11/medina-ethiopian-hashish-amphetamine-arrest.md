@@ -54,6 +54,11 @@ sources:
     publisher: صحيفة صدى الإلكترونية
     date: 2026-11-11
     language: ar
+  - title: شرطة المدينة تضبط مخالفاً لترويجه الحشيش والإمفيتامين
+    url: https://www.akhbaar24.com/%D8%AD%D9%88%D8%A7%D8%AF%D8%AB/%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A7-%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC%D9%87-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D9%88%D8%A7%D9%84%D8%A5%D9%85%D9%81%D9%8A%D8%AA%D8%A7%D9%85%D9%8A%D9%86-775458
+    publisher: أخبار 24
+    date: 2026-11-11
+    language: ar
 open_questions:
   - No date is given for the arrest itself; 11 November 2026 is the date of the Public Security statement and of the published reports, and is used as the incident date.
   - The announcement gave no quantity or value for the hashish or the amphetamine.
@@ -64,17 +69,16 @@ open_questions:
 ---
 
 Public Security said Medina region police had arrested a man who was in breach
-of the border security system. [@2] The security authorities said the man was an
-Ethiopian national. [@1] He was accused of promoting hashish and amphetamine,
-which the statement described as narcotic substances. [@1]
+of the border security system. [@2,4] The security authorities said the man was an
+Ethiopian national. [@1,4] He was accused of promoting hashish and amphetamine,
+which the statement described as narcotic substances. [@1,4]
 
 The authorities said the accused was detained, the statutory procedures were
-completed against him and he was referred to the competent authority. [@3] The
+completed against him and he was referred to the competent authority. [@3,4] The
 announcement was posted on X at 5:50 PM on 11 November 2026. [@2]
 
 They urged the public to report drug smugglers and promoters through the 911
 line in Makkah, Madinah, Riyadh and the Eastern Province. [@1] In the rest of
 the kingdom, reports could be made on 999, and the authorities also gave the 995
 number and the email address 995@gdnc.gov.sa. [@1] The authorities said all
-reports would be treated in strict confidence. [@1]
-
+reports would be treated in strict confidence. [@1,4]
