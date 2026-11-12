@@ -34,17 +34,6 @@ data_sources:
   figures.plants_destroyed: [1, 2, 3, 4, 6, 5]
 status: verified
 tags: [dncd, san-jose-de-ocoa, el-pinar, plantation]
-open_questions:
-    - The DNCD gives no start date for the three-day sweep; 21 June 2026 is the date of its statement.
-    - No area for the plantation was published.
-    - The DNCD says it questioned more than 10 people but does not say how many were arrested or charged; DR1 describes them as detained or interrogated.
-    - The DNCD release links the plantation to an earlier June raid in the same area, a separate event left out here.
-    - DR1's account is based on the DNCD release and is not independent.
-    - EFE names only San José de Ocoa province while the DNCD republication specifies El Pinar municipal district; the report keeps the more precise district location.
-    - EFE also cites 2026 national drug totals and the US Operation Lanza del Sur context, which are separate statistics left out here.
-    - The article's 20,227-plant six-month aggregate across three farms in Ocoa and Baní is a campaign total left out of this single-event report.
-    - The article also summarizes a 6 June El Pinar seizure of more than 3,000 plants with two arrests and a 2 February Montería, Baní seizure of 1,835 plants, separate events left out here.
-    - The article gives no separate date for the 15,392-plant operation beyond the past weekend relative to its 23 June publication; the 21 June DNCD statement date is retained.
 sources:
   - title: DNCD INTERVIENE EN SAN JOSÉ DE OCOA OTRA GRAN SIEMBRA DE MARIHUANA QUE SUPERA LAS 15,000 PLANTAS
     url: https://dncd.gob.do/noticias/dncd-interviene-en-san-jose-de-ocoa-otra-gran-siembra-de-marihuana-que-supera-las-15000-plantas/
@@ -85,6 +74,11 @@ sources:
     publisher: Z 101 Digital
     date: 2026-06-22
     language: es
+  - title: VIDEO | Desmantelan otra plantación de marihuana en San José de Ocoa; la mayor hasta ahora en el país
+    url: https://www.diariolibre.com/actualidad/nacional/2026/06/21/incautacion-de-marihuana-en-ocoa-marca-un-hito-en-la-rd/3574244
+    publisher: Diario Libre
+    date: 2026-06-21
+    language: es
 media:
   - kind: video
     url: https://www.telemundo.com/noticias/edicion-noticias-telemundo/internacional/video/autoridades-incautan-mas-de-15-000-plantas-de-marihuana-en-republica-dominicana-tmvo13196126
@@ -106,14 +100,24 @@ media:
     media_url: https://i0.wp.com/efe.com/wp-content/uploads/2026/06/incautacion_marihuana_republica_dominicana_.webp?resize=900%2C600&ssl=1
     publisher: EFE
     caption: 'DNCD officers guarding seized marijuana plants. Photo: EFE/ Orlando Barría'
+  - kind: photo
+    url: https://www.diariolibre.com/actualidad/nacional/2026/06/21/incautacion-de-marihuana-en-ocoa-marca-un-hito-en-la-rd/3574244
+    media_url: https://resources.diariolibre.com/images/2026/06/21/whatsapp-image-2026-06-21-at-111546-am-407baee7.jpeg
+    publisher: Diario Libre
+    caption: 'Seized marijuana plants laid out after the El Pinar operation. Photo: Diario Libre / Steven Curiel'
+  - kind: photo
+    url: https://www.diariolibre.com/actualidad/nacional/2026/06/21/incautacion-de-marihuana-en-ocoa-marca-un-hito-en-la-rd/3574244
+    media_url: https://resources.diariolibre.com/images/2026/06/21/whatsapp-image-2026-06-21-at-111547-am-4afe03db.jpeg
+    publisher: Diario Libre
+    caption: 'Equipment seized inside the collection centre dismantled in El Pinar, including jugs and boxes of marijuana, shredders, tanks and other items. Photo: Diario Libre / Steven Curiel'
 ---
 
-The National Drug Control Agency (DNCD) and the Public Ministry uprooted 15,392 marijuana plants from a plantation in the hills of El Pinar municipal district, San José de Ocoa province, the agency said. [@1,2,3,4,6] The DNCD called it the largest cultivation bust in the country's history. [@1,2,3,5,6,7]
+The National Drug Control Agency (DNCD) and the Public Ministry uprooted 15,392 marijuana plants from a plantation in the hills of El Pinar municipal district, San José de Ocoa province, the agency said. [@1,2,3,4,6,9] The El Pinar plantation lay about 25 kilometres north of the site where authorities had recently seized another plantation of more than 3,500 plants. [@9] The DNCD called it the largest cultivation bust in the country's history. [@1,2,3,5,6,7,9]
 
-More than 70 officers took part in the three-day operation, using drone overflights and tracking. [@1,2,3,6] The plantation had a drip-irrigation system. [@1,2,4]
+More than 70 officers took part in the three-day operation, using drone overflights and tracking. [@1,2,3,6,9] The plantation had a drip-irrigation system. [@1,2,4]
 
-Officers also raided a house used as a collection centre. [@1,3,5,6] Inside they found 17 jugs and boxes filled with marijuana and dried plants, seven tanks, four shredders, a chainsaw, fertilisers, 10 fans, four batteries, an inverter, a hydraulic press, a scale, submersible and fumigation pumps, eight solar panels, a satellite dish, wire and hoses. [@1]
+Officers also raided a house used as a collection centre. [@1,3,5,6,9] Inside they found 17 jugs and boxes filled with marijuana and dried plants, seven tanks, four shredders, a chainsaw, fertilisers, 10 fans, four batteries, an inverter, a hydraulic press, a scale, submersible and fumigation pumps, eight solar panels, a satellite dish, wire and hoses. [@1]
 
-The Public Ministry and the DNCD questioned more than 10 Dominicans and Haitians. [@1,5,7] The agency said the plants were sent under chain of custody to the National Institute of Forensic Sciences (INACIF) to determine their total weight. [@1,2,5] On 22 June 2026 the DNCD said INACIF experts and DNCD chain-of-custody officers had spent more than 15 hours counting and analysing the seized plants, which weighed 13,863 pounds (about 6,288 kg). [@7,8] Security forces kept a presence in the area to gather further evidence. [@1,5]
+The Public Ministry and the DNCD questioned more than 10 Dominicans and Haitians. [@1,5,7,9] The agency said the plants were sent under chain of custody to the National Institute of Forensic Sciences (INACIF) to determine their total weight. [@1,2,5] On 22 June 2026 the DNCD said INACIF experts and DNCD chain-of-custody officers had spent more than 15 hours counting and analysing the seized plants, which weighed 13,863 pounds (about 6,288 kg). [@7,8] Security forces kept a presence in the area to gather further evidence. [@1,5]
 
 Agents had to reach the mountain-slope plantations on horses and mules because the sites are practically inaccessible by vehicle. [@6]
