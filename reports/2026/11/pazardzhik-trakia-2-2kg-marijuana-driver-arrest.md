@@ -80,20 +80,27 @@ sources:
     publisher: DarikNews.bg
     date: 2026-11-11
     language: bg
+  - title: Задържаха дрогиран с 2 кг дрога на АМ Тракия СНИМКИ
+    url: https://glasnews.bg/krimi/zadarzhaha-drogiran-2-kg-droga-am-trakiia-snimki-613327/
+    publisher: GlasNews.bg
+    date: 2026-11-11
+    language: bg
+open_questions:
+    - No charges or court outcome were reported after the driver's 24-hour detention.
 ---
 
 Officers from the anti-criminal-crime sector of the Pazardzhik police
 directorate carried out an operation against the possession and distribution of
-drugs alongside traffic police officers. [@1,5,6] On the Trakia motorway near
+drugs alongside traffic police officers. [@1,5,6,8] On the Trakia motorway near
 Pazardzhik, officers stopped a Peugeot car driven by a 25-year-old resident of
-the village of Rogosh in Plovdiv Province. [@1,5,6] Police established that the
-driver was behind the wheel under the influence of cocaine. [@1,4,5,6,7] He was detained
+the village of Rogosh in Plovdiv Province. [@1,5,6,8] Police established that the
+driver was behind the wheel under the influence of cocaine. [@1,4,5,6,7,8] He was detained
 for up to 24 hours in the detention facility of the Pazardzhik police precinct.
-[@1,5,6]
+[@1,5,6,8]
 
 Inside the car, officers discovered four vacuum-sealed polythene bags containing
-dried leaf material of flower heads and inflorescences. [@1,4,5,6,7] A field drug test
+dried leaf material of flower heads and inflorescences. [@1,4,5,6,7,8] A field drug test
 reacted positively for marijuana, yielding a total seized weight of 2.2
-kilograms. [@2,4,5,6,7] The vehicle and the drugs were seized, and pre-trial proceedings
+kilograms. [@2,4,5,6,7,8] The vehicle and the drugs were seized, and pre-trial proceedings
 were initiated under the supervision of the Pazardzhik District Prosecutor's
-Office. [@3,4,5,6,7]
+Office. [@3,4,5,6,7,8]
