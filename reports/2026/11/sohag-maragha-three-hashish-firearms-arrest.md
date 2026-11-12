@@ -44,17 +44,27 @@ sources:
     publisher: مصراوي
     date: 2026-11-11
     language: ar
+  - title: ضبط 3 متهمين بحوزتهم 6 قطع سلاح ناري و2 طربة حشيش بسوهاج
+    url: https://www.tafsela.net/107513
+    publisher: تفصيلة
+    date: 2026-11-11
+    language: ar
+  - title: ضبط 3 متهمين بحوزتهم 6 قطع سلاح ناري وكمية من الحشيش في سوهاج
+    url: https://www.alraeesnews.com/345965
+    publisher: الرئيس نيوز
+    date: 2026-11-11
+    language: ar
 open_questions:
-  - The accounts give no separate date for the arrests; 11 November 2026 is the publication date and is used as the incident date.
-  - No weight or value was published for the two pieces of hashish, so no cannabis weight is recorded.
-  - The three suspects were not named and no charges or court outcome were reported; the case was with the Public Prosecution.
-  - Both accounts rest on the same Sohag security directorate statement, with no independent detail.
+    - The accounts give no separate date for the arrests; 11 November 2026 is the publication date and is used as the incident date.
+    - No weight or value was published for the two pieces of hashish, so no cannabis weight is recorded.
+    - The three suspects were not named and no charges or court outcome were reported; the case was with the Public Prosecution.
+    - The accounts rest on the same Sohag security directorate statement, with no independent detail.
 ---
 
 Security forces arrested three suspects in Al-Maragha district of Egypt's Sohag
 Governorate during a large security campaign targeting lawbreakers and people
-possessing weapons and narcotics. [@1] The three were found in possession of six
-firearms and two pieces of hashish, a cannabis resin. [@1]
+possessing weapons and narcotics. [@1,3] The three were found in possession of six
+firearms and two pieces of hashish, a cannabis resin. [@1,4] A red car was also seized during the campaign. [@4]
 
 The campaign was carried out under directives from Major General Ashraf
 Abdel-Malek, assistant interior minister and Sohag security director, Major
@@ -67,5 +77,4 @@ station, led the campaign with Captain Mustafa Abu Douma, and their inquiries
 led to the three arrests and the seizure of the items. [@1]
 
 The suspects and the seized items were taken into custody and a police report
-was drawn up, and the Public Prosecution took over the investigation. [@2]
-
+was drawn up, and the Public Prosecution took over the investigation. [@2,3]
