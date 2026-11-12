@@ -63,32 +63,35 @@ sources:
     publisher: GMA News (X post)
     date: 2026-11-08
     language: tl
+  - title: Enhanced PPA security measures net drugs
+    url: https://tribune.net.ph/2026/11/11/enhanced-ppa-security-measures-net-drugs
+    publisher: Daily Tribune
+    date: 2026-11-12
 open_questions:
-  - No laboratory confirmation that the seized liquid contained cannabis was reported; the accounts call it suspected liquid marijuana.
-  - 'Sources describe the liquid''s colour differently: Daily Tribune says a violet cartridge, while Bombo Radyo and GMA News describe a yellow liquid.'
-  - The suspect was identified only by the alias "DJ"; no full name or court outcome was reported.
-  - GMA News reports two glass tubes with residue recovered along with the cartridge, but does not state their weight or contents and they are not counted in the figures.
-  - The reported weight of about one gram is an approximation, and the P1,700 street value is PDEA's own estimate.
-  - The Daily Tribune page links to a separate October 2026 Matnog Port shabu case against a Malaysian tourist, a different event not covered here.
-  - Bombo Radyo does not say whether the laboratory examination had produced results confirming the liquid contained cannabis.
-  - 'Left out, as its quotation was not found in Bombo Radyo: Bombo Radyo reported the seized liquid was to undergo laboratory examination to establish its composition.'
+    - No laboratory confirmation that the seized liquid contained cannabis was reported; the accounts call it suspected liquid marijuana.
+    - 'Sources describe the liquid''s colour differently: Daily Tribune says a violet cartridge, while Bombo Radyo and GMA News describe a yellow liquid.'
+    - The suspect was identified only by the alias "DJ"; no full name or court outcome was reported.
+    - Two glass tubes with residue were recovered along with the cartridge, but their weight and contents were not reported.
+    - The reported weight of about one gram is an approximation, and the P1,700 street value is PDEA's own estimate.
+    - The Daily Tribune page links to a separate October 2026 Matnog Port shabu case against a Malaysian tourist, a different event not covered here.
+    - The 12 November account also records suspected marijuana confiscated in five incidents at Dumangas, Jordan and Sibunag ports between 10 and 13 October 2026, without quantities or arrests; those separate events are not covered here.
 ---
 
 A 20-year-old man from Quezon City was arrested at Matnog Port in Matnog,
-Sorsogon, on 8 November 2026. [@1] PDEA Bicol said the man, known only as alias
+Sorsogon, on 8 November 2026. [@1,5] PDEA Bicol said the man, known only as alias
 "DJ", was held during an interdiction operation at about 11:24 a.m. at the port.
 [@1]
 
 Agents seized a violet vape cartridge holding about one gram of suspected liquid
-marijuana. [@1] PDEA estimated the contents at P1,700 on the street. [@1] A GMA
+marijuana. [@1,5] PDEA estimated the contents at P1,700 on the street. [@1] A GMA
 News bulletin on the operation also reported a vape cartridge holding a yellow
 liquid and two glass tubes with residue recovered from the suspect, who was
-taken to police. [@4] Bombo Radyo reported the seized liquid was to undergo
-laboratory examination to establish its composition. [@2]
+taken to police. [@4,5] Bombo Radyo reported the seized liquid was to undergo
+laboratory examination to establish its composition. [@2,5]
 
 PDEA Bicol said the suspect will face charges under Republic Act 9165, the
 Comprehensive Dangerous Drugs Act of 2002. [@1] The Bombo Radyo Naga account in
 Bikol likewise reported about one gram of the suspected drug valued at P1,700, a
 cartridge with yellow liquid and two glass tubes with residue. [@3] Bombo Radyo
 said the Philippine Ports Authority and partner agencies were continuing to
-tighten security at seaports against illegal drugs and other contraband. [@2]
+tighten security at seaports against illegal drugs and other contraband. [@2] The Matnog arrest was the latest of the drug seizures the Philippine Ports Authority reported at domestic ports since September 2026. [@5]
