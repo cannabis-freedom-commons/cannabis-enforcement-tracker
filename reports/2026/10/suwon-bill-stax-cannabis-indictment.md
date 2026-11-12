@@ -64,20 +64,19 @@ sources:
     url: https://www.starnewskorea.com/en/music/2026/11/12/2026111120314146511
     publisher: STARNEWS
     date: 2026-11-12
-open_questions:
-    - 'The accounts differ on use dates: both agree on purchase and smoking in November 2025, while SBS alone adds further purchases and smoking in August 2026.'
-    - The first hearing is set for 8 December 2026; no verdict or sentence has been reported.
-    - The dealer's cultivation and jelly-manufacturing case, for which he was indicted in July, is a separate event left out here.
-    - No quantities for the cannabis Bill Stax bought or smoked were published.
-    - His agency said some recent reports contained inaccuracies and claims unrelated to the artist, without specifying which.
+  - title: ‘대마 합법화 주장’ 유명 래퍼, ‘대마 젤리’ 적발 기소… 12월 8일 법정行
+    url: https://tvreport.co.kr/entertainment/article/1090261/amp/
+    publisher: TV리포트
+    date: 2026-11-12
+    language: ko
 ---
 
 ## Indicted without detention
 
-The Suwon District Public Prosecutors Office indicted a rapper in his forties, later named as Bill Stax, without detention on 16 October 2026 for violating the Narcotics Control Act. [@1,2,3,4,5,7] Suwon District Court Criminal Division 12 is scheduled to hold Bill Stax's first hearing on 8 December 2026. [@3,6,7] Bill Stax is 46-year-old Shin Dong-yeol, formerly known as Vasco, who appeared on Mnet's Show Me The Money. [@2,7] He is accused of buying cannabis and cannabis jelly from a drug dealer, Mr. B, in November 2025 and smoking marijuana. [@1,2,3,6,7] SBS added that prosecutors believe he bought from a second dealer and smoked again in August 2026. [@1]
+The Suwon District Public Prosecutors Office indicted a rapper in his forties, later named as Bill Stax, without detention on 16 October 2026 for violating the Narcotics Control Act. [@1,2,3,4,5,7,8] Suwon District Court Criminal Division 12 is scheduled to hold Bill Stax's first hearing on 8 December 2026. [@3,6,7,8] Bill Stax is 46-year-old Shin Dong-yeol, formerly known as Vasco, who appeared on Mnet's Show Me The Money. [@2,7] He is accused of buying cannabis and cannabis jelly from a drug dealer, Mr. B, in November 2025 and smoking marijuana. [@1,2,3,6,7,8] SBS added that prosecutors believe he bought from a second dealer and smoked again in August 2026. [@1]
 
-The case grew out of the investigation into Mr. B, a man in his thirties accused of growing cannabis at home and manufacturing cannabis jelly from August 2024 to June 2026. [@1,2,3,7] Mr. B made about 8 million won selling some 105 grams of marijuana and 50 cannabis gummies, including sales to Bill Stax at a Hongdae club in November 2025. [@1] Police searched Bill Stax's home in August 2026, reported finding marijuana and suspected liquid marijuana, and said a preliminary drug test came back positive. [@1] Mr. B was indicted under detention in July. [@1,3,7] The joint drug crime investigation headquarters found that two people, Bill Stax and one other, bought and used the dealer's cannabis. [@3,7]
+The case grew out of the investigation into Mr. B, a man in his thirties accused of growing cannabis at home and manufacturing cannabis jelly from August 2024 to June 2026. [@1,2,3,7,8] Mr. B made about 8 million won selling some 105 grams of marijuana and 50 cannabis gummies, including sales to Bill Stax at a Hongdae club in November 2025. [@1] Police searched Bill Stax's home in August 2026, reported finding marijuana and suspected liquid marijuana, and said a preliminary drug test came back positive. [@1] Mr. B was indicted under detention in July. [@1,3,7,8] The joint drug crime investigation headquarters found that two people, Bill Stax and one other, bought and used the dealer's cannabis. [@3,7]
 
 ## The accused's voice
 
-StarNews noted this is not his first drug case: he was indicted without detention in 2018 over 2015 marijuana, ecstasy and cocaine use. [@2,3,7] Money Today reported that Bill Stax was indicted without detention in 2006 for cannabis smoking, and that he was sentenced in the 2018 case to a one-year-six-month prison term suspended for two years. [@6] Bill Stax has long argued marijuana should not be treated as a drug and has called for legalization, including recreational use. [@2] His agency said he had cooperated with police and prosecutors, accepted that he had repeated the same mistake and would attend the trial. [@3,6,7]
+StarNews noted this is not his first drug case: he was indicted without detention in 2018 over 2015 marijuana, ecstasy and cocaine use. [@2,3,7,8] Money Today reported that Bill Stax was indicted without detention in 2006 for cannabis smoking, and that he was sentenced in the 2018 case to a one-year-six-month prison term suspended for two years. [@6] Bill Stax has long argued marijuana should not be treated as a drug and has called for legalization, including recreational use. [@2,8] His agency said he had cooperated with police and prosecutors, accepted that he had repeated the same mistake and would attend the trial. [@3,6,7,8] The agency issued its statement on 21 October. [@8]
