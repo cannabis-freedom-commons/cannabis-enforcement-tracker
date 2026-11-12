@@ -61,6 +61,11 @@ sources:
     publisher: La Tarde
     date: 2026-11-11
     language: es
+  - title: Agentes aseguran más de 200 libras de marihuana
+    url: https://www.elmanana.com/amp/texas/brownsville/mas-de-200-libras-de-marihuana-incautadas-en-brownsville/6207452
+    publisher: El Mañana de Reynosa
+    date: 2026-11-11
+    language: es
 open_questions:
   - No arrests, charges or court outcomes were reported for any of the three seizures; the five people seen near the golf course crossed back into Mexico.
   - The total is stated as more than 200 pounds, so the kilogram figure is a converted minimum; the three loads weighed 46 pounds, more than 94 pounds and more than 75 pounds.
@@ -71,7 +76,7 @@ open_questions:
 ---
 
 U.S. Border Patrol agents in the Rio Grande Valley seized more than 200 pounds
-(about 91 kg) of marijuana in three separate finds in Brownsville, Texas. [@1]
+(about 91 kg) of marijuana in three separate finds in Brownsville, Texas. [@1,4]
 The three seizures took place over two days near the Rio Grande and a golf
 course. [@3]
 
@@ -82,13 +87,12 @@ marijuana, with no suspected smugglers located. [@2] That load weighed more than
 15 December 2021, a tractor operator clearing brush on a property near the Rio
 Grande found two bundles of marijuana, one of them torn open by the tractor, and
 called the Brownsville Border Patrol Station. [@1] Agents recovered 46 pounds
-(about 21 kg) of marijuana from that find, valued at more than $36,000. [@3]
+(about 21 kg) of marijuana from that find, valued at more than $36,000. [@3,4]
 Later that evening, an agent spotted a person in a tree near a golf course
 apparently watching for police, and as agents arrived they saw five people cross
-the Rio Grande back into Mexico. [@3] Agents on horseback and all-terrain
+the Rio Grande back into Mexico. [@3,4] Agents on horseback and all-terrain
 vehicles searched the area and found three bundles weighing more than 94 pounds
-(about 43 kg), valued at about $75,000. [@1]
+(about 43 kg), valued at about $75,000. [@1,4]
 
 The Border Patrol said its agents continue surveillance and response work in the
 border area to detect smuggling and seize possible loads. [@3]
-
