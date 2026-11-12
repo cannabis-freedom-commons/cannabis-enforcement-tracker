@@ -24,6 +24,11 @@ media:
     media_url: https://cdn.vlnradio.cl/wp-content/uploads/shorts/2026/11/reel-vln-20261111-140337-ngVyaD.mp4
     publisher: VLN Radio
     caption: VLN Radio 47-second short about the seizure of more than two kilos of marijuana in an interprovincial bus in Mostazal.
+  - kind: photo
+    url: https://www.elrancaguino.cl/2026/11/11/os7-cachapoal-incauto-mas-de-dos-kilos-de-marihuana-en-la-ruta-5-sur/
+    media_url: https://www.elrancaguino.cl/wp-content/uploads/2026/11/1-detenido-droga-1024x855.jpeg
+    publisher: El Rancagüino
+    caption: 'Featured photograph published with the Mostazal report of one man detained and marijuana seized. Photo: El Rancagüino'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ed07be0cb24925b7746c3382ab6c7ee1
@@ -44,6 +49,11 @@ sources:
     publisher: El Tipógrafo
     date: 2026-11-11
     language: es
+  - title: OS7 Cachapoal incautó más de dos kilos de marihuana en la Ruta 5 Sur
+    url: https://www.elrancaguino.cl/2026/11/11/os7-cachapoal-incauto-mas-de-dos-kilos-de-marihuana-en-la-ruta-5-sur/
+    publisher: El Rancagüino
+    date: 2026-11-11
+    language: es
 open_questions:
   - No exact weight beyond more than two kilos of marijuana was published, so no kilogram figure is recorded.
   - The sources give no separate calendar date for the early-morning operation; 11 November 2026, the publication date of all three reports, is used as the incident date.
@@ -53,19 +63,18 @@ open_questions:
 
 A 23-year-old man was detained during the early morning on suspicion of drug
 trafficking after police seized more than two kilos of marijuana at kilometre 58
-of Ruta 5 Sur in Mostazal. [@3] Specialist officers of the OS-7 of Carabineros
-of Cachapoal in the O'Higgins region carried out the operation. [@2] The man was
+of Ruta 5 Sur in Mostazal. [@3,4] Specialist officers of the OS-7 of Carabineros
+of Cachapoal in the O'Higgins region carried out the operation. [@2,4] The man was
 placed at the disposal of the Ministerio Público, Chile's public prosecutor's
 office, on a trafficking allegation. [@2]
 
 Officers seized more than two kilos of marijuana from an interprovincial bus
-during the inspection. [@1] The find occurred during routine inspections that
-police carry out on interprovincial buses travelling on the highway. [@2] The
+during the inspection. [@1,4] The find occurred during routine inspections that
+police carry out on interprovincial buses travelling on the highway. [@2,4] The
 drug-detecting dog Kelsy gave the key alert that led officers to the hidden drug
-in the passenger bus. [@2] After the dog's alert, officers searched the luggage
+in the passenger bus. [@2,4] After the dog's alert, officers searched the luggage
 and confirmed packages containing the drug. [@2]
 
 Carabineros said these deployments are part of permanent highway controls in the
 O'Higgins region to prevent, detect and combat drug movements on major roads.
 [@2]
-
