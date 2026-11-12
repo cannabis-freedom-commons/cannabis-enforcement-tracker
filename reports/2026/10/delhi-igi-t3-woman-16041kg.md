@@ -43,19 +43,28 @@ sources:
     url: https://www.rediff.com/news/report/woman-arrested-at-delhi-airport-with-rs-562-crore-hydroponic-cannabis/20261012.htm
     publisher: Rediff / PTI
     date: 2026-10-26
+  - title: 'Delhi Airport News: Woman Arrested with Rs 5.62 Crore Cannabis from Bangkok'
+    url: https://aviationjeta.com/delhi-airport-news-woman-arrested-with-rs-5-62-crore-cannabis-from-bangkok/
+    publisher: Aviation Jeta
+    date: 2026-10-13
+open_questions:
+    - The woman was not named and her age was not given.
+    - No court appearance, remand order or charge sheet has been reported.
+    - The substance was described as suspected hydroponic cannabis; no confirmatory laboratory result was reported.
+    - Who organised the consignment and whether anyone else was involved was not reported.
 ---
 
 An Indian woman arriving from Bangkok was intercepted at Terminal 3 of Indira
 Gandhi International Airport on 10 October on the basis of passenger
 profiling, officials said on Monday 12 October in a PTI brief carried that
-evening. [@1] Profiling had flagged her on arrival, and examination of her
+evening. [@1,2] Profiling had flagged her on arrival, and examination of her
 trolley bag turned up six polythene pouches holding a green substance
-suspected to be water-grown hydroponic cannabis. [@1]
+suspected to be water-grown hydroponic cannabis. [@1,2]
 
 The official customs statement gives the net weight as 16,041 grams and the
-estimated value at around Rs 5.62 crore. [@1] The load was seized under the
+estimated value at around Rs 5.62 crore. [@1,2] The load was seized under the
 provisions of the Narcotic Drugs and Psychotropic Substances Act, and the
 woman was arrested under the Act's relevant sections the same day the case
-was announced. [@1] The brief names no flight number and no onward plans for
+was announced. [@1,2] The brief names no flight number and no onward plans for
 the consignment. [@1] The accompanying Rediff illustration is declared
 AI-generated and representational, so no event photograph is listed. [@1]
