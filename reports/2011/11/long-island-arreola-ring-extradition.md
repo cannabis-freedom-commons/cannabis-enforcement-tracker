@@ -48,8 +48,7 @@ status: verified
 tags: [extradition, fugitive, money-laundering]
 open_questions:
   - The exact day of the extradition is not stated; it was announced on 9 November 2011 ahead of a 10 November arraignment.
-  - The opened sources give no outcomes for Barry and Warren Hazan, indicted alongside Arreola in 2003.
-  - The Long Island seizure locations and the investigation dates are not detailed beyond a lengthy inquiry ending in 2003.
+  - The exact dates of the investigation are not detailed beyond a lengthy inquiry ending in 2003.
   - The arraignment was reported as scheduled; its outcome is not in the opened sources.
 sources:
   - title: Three Long Island drug traffickers arrested; 4,000 pounds of marijuana and $11 million in drug proceeds seized
@@ -61,6 +60,10 @@ sources:
     archived: https://web.archive.org/web/20260528144205/https://www.justice.gov/archive/usao/nye/pr/2011/2011nov09.html
     publisher: U.S. Attorney's Office, Eastern District of New York
     date: 2011-11-09
+  - title: Over 8 Million Dollars in Drug Proceeds From Hazan Organization Distributed in Equitable Sharing Ceremony
+    url: https://web.archive.org/web/20060925193436/http://www.dea.gov/pubs/states/newsrel/nyc032805.html
+    publisher: Drug Enforcement Administration
+    date: 2005-03-28
 ---
 
 Bruno Garcia-Arreola, a Mexican national accused of leading an organisation that sent tons of
@@ -85,3 +88,12 @@ in Las Vegas, where agents had lured him by private plane from Mexico, but was r
 He was then also charged with bail jumping and was finally apprehended in Mexico in April 2011
 by United States Marshals with Interpol and Mexican officers. [@1,2] If convicted of the drug
 conspiracy charge he faced at least ten years in prison and up to life. [@2]
+
+## Guilty pleas and forfeiture
+
+The Hazans did not stand trial: a March 2005 DEA statement says the defendants entered guilty
+pleas in 2003 and forfeited more than $10 million in cash, stock and bank accounts. [@3]
+On 18 March 2005 the U.S. Attorney's Office distributed $8,066,788.73 of the Hazan proceeds to
+the participating agencies, including nearly $4 million to the New York State Police. [@3]
+The 2005 statement places the seizures at a stash house in Dix Hills, storage units in Central
+Islip, a tanning salon in Hicksville and a warehouse in Islip. [@3]
