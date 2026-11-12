@@ -47,27 +47,37 @@ sources:
     publisher: G1
     date: 2026-11-11
     language: pt
+  - title: Operação da PM prende sete pessoas e apreende mais de 200 tabletes de maconha em Contagem
+    url: https://www.diariodecontagem.com.br/Materia/21148/15/operacao-da-pm-prende-sete-pessoas-e-apreende-mais-de-200-tabletes-de-maconha-em-contagem/
+    publisher: Diário de Contagem
+    date: 2026-11-11
+    language: pt
+  - title: Sete pessoas são presas após PM descobrir esquema de tráfico de drogas em Contagem
+    url: https://www.itatiaia.com.br/brasil/sudeste/mg/sete-pessoas-sao-presas-apos-pm-descobrir-esquema-de-trafico-de-drogas-em-contagem/
+    publisher: Itatiaia
+    date: 2026-11-11
+    language: pt
 open_questions:
-  - Only the article's publication date of 11 November 2026 is known; no separate date for the operation was given.
-  - No weight or value was published for the 94 ecstasy tablets, which are excluded from the cannabis figure.
-  - The six seized mobile phones are not counted in cannabis figures.
-  - Only one accessible account of this event was found, based on Military Police information.
-  - No names, ages, charges or court outcome were reported for the seven detained people.
+    - The Diário de Contagem and Itatiaia accounts count 209 marijuana tablets but give no weight, while G1 reported 218 kg; no source gives the weight of a tablet.
+    - No weight or value was published for the 94 ecstasy tablets, which are excluded from the cannabis figure.
+    - No names, charges or court outcome were reported for the seven detained people, and police said their individual responsibility still had to be established.
+    - The accounts do not make clear how the Água Branca and Jardim Marrocos groups are related, saying only that two generations of the same family may have been involved.
+    - G1 reported six seized mobile phones, which the Diário de Contagem and Itatiaia accounts do not mention.
+    - The Diário de Contagem and Itatiaia accounts both draw on the Military Police's record of the case, so the arrests and seizure have no independent confirmation.
 ---
 
 Seven people were arrested on suspicion of involvement in drug trafficking in
-Contagem, in the Belo Horizonte metropolitan region. [@1] The operation took
+Contagem, in the Belo Horizonte metropolitan region. [@1,2] The arrests took place in the early hours of 11 November 2026. [@2] The operation took
 place in the Água Branca neighbourhood, where military police on routine patrol
-stopped people behaving suspiciously. [@1]
+stopped people behaving suspiciously. [@1] Police said the investigation pointed to the possible involvement of two generations of the same family. [@2] The seven detained were four men aged 20, 21, 29 and 59 and three women aged 21, 26 and 46. [@2] The case began with suspected drug sales in Água Branca and led officers to a second address in Jardim Marrocos. [@2]
 
 During the operation the Military Police seized 218 kilos of cannabis, 94
-ecstasy tablets and six mobile phones. [@1] Officers found part of the drugs
-during that initial approach. [@1] After the first stop, officers received new
+ecstasy tablets and six mobile phones. [@1] Police counted the marijuana as 209 tablets: 199 in one residence, nine in a bag and one more in another property. [@2] Officers found part of the drugs
+during that initial approach. [@1,2] In his mother's room, police found more than ten portions of marijuana, a portion of MDMA, a crack bar, cocaine and 94 pills similar to ecstasy. [@2] A 29-year-old man ran into a building on Rua Doutor Cassiano when he saw the patrol car. [@2] After the first stop, officers received new
 information that led them to continue the operation and recover the rest of the
-seizure. [@1]
+seizure. [@1,3] The one-year-old baby was left in the care of his paternal grandmother. [@2] The 59-year-old tried to flee when police arrived but was caught. [@2] Police found 199 marijuana tablets at the father's address. [@2] The 21-year-old said he had fetched the bag from his father's house. [@2] The 21-year-old's pregnant partner and their one-year-old son were in the house. [@2] Police monitored a property in Jardim Marrocos and saw a 21-year-old leave with a black bag. [@2] The 29-year-old told officers he belonged to a criminal organisation and named a 59-year-old man responsible for storing the drugs. [@2]
 
 According to the Military Police, all seven detained people already had criminal
 records for offences such as drug trafficking and receiving stolen goods. [@1]
 The suspects were taken to the Contagem Civil Police station, which will handle
 the investigation. [@1]
-
