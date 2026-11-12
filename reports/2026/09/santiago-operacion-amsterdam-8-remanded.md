@@ -55,13 +55,36 @@ sources:
     publisher: EL PAÍS Chile
     date: 2026-08-20
     language: es
+  - title: '"Operación Yingo": Cuando Camilo Huerta fue detenido por sus plantas de marihuana con Félix Soumastre'
+    url: https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/08/17/operacion-yingo-cuando-camilo-huerta-fue-detenido-por-sus-plantas-de-marihuana-con-felix-soumastre.shtml
+    publisher: BioBioChile
+    date: 2026-08-17
+    language: es
+  - title: Investigan la participación de otros diez miembros de Yingo en tráfico de drogas
+    url: https://www.emol.com/noticias/nacional/2011/07/08/491393/investigan-la-participacion-de-otros-diez-miembros-de-yingo-en-trafico-de-drogas.html
+    publisher: Emol
+    date: 2011-07-08
+    language: es
+  - title: Formalización de figurillas de la farándula involucra a la TV en caso de tráfico de drogas
+    url: https://www.elmostrador.cl/noticias/pais/2011/07/08/formalizacion-de-figurillas-de-la-farandula-involucra-a-la-tv-en-caso-de-trafico-de-drogas/
+    publisher: El Mostrador
+    date: 2011-07-08
+    language: es
+  - title: 'Carabineros escuchó 14 llamadas telefónicas de Camilo Huerta e ingresaron a su departamento: el caso que enfrentó en 2011'
+    url: https://www.24horas.cl/tendencias/espectaculos/carabineros-escucho-14-llamadas-telefonicas-de-camilo-huerta
+    publisher: 24 Horas
+    date: 2026-08-13
+    language: es
 open_questions:
-  - No cannabis weight was published in the opened sources, so no kilograms are recorded.
-  - 'The total number formalized across successive hearings is unclear: 23 were named in the 20 August detention request, 38 detentions were first reported, and 8 plus 14 were decided on 2 September within 72 total accused, so only 72 detained is recorded.'
-  - The 8 billion peso and 8,089 million peso figures describe alleged proceeds and income under review, not a seized-drug valuation, so no value is recorded.
-  - No court outcome beyond pretrial measures and a 120-day investigation period was reported, and the prosecution said further formalizations were still possible.
-  - The El País dollar figures for monthly billing (813,343 dollars for 750 million pesos) imply an exchange rate different from that used for the 12 million peso figure.
-  - The surnames of accused public figures are spelled differently in different reports (for example Besuain/Besoain/Atens), so El País's spellings are kept as published.
+    - No cannabis weight was published in the opened sources, so no kilograms are recorded.
+    - 'The total number formalized across successive hearings is unclear: 23 were named in the 20 August detention request, 38 detentions were first reported, and 8 plus 14 were decided on 2 September within 72 total accused, so only 72 detained is recorded.'
+    - The 8 billion peso and 8,089 million peso figures describe alleged proceeds and income under review, not a seized-drug valuation, so no value is recorded.
+    - No court outcome beyond pretrial measures and a 120-day investigation period was reported, and the prosecution said further formalizations were still possible.
+    - The El País dollar figures for monthly billing (813,343 dollars for 750 million pesos) imply an exchange rate different from that used for the 12 million peso figure.
+    - The surnames of accused public figures are spelled differently in different reports (for example Besuain/Besoain/Atens), so El País's spellings are kept as published.
+    - Whether Camilo Huerta's July 2011 Operación Yingo case is connected to the 2026 investigation was not reported.
+    - The 2011 Operación Yingo reports give two sets of cannabis figures — 12 plants and half a kilo for the operation, and per-person amounts of nine plants and 44 grams, three plants and 11.6 grams and 15 grams — without saying how they relate.
+    - The 2026 network is described as involving 40 premises nationwide in 24 Horas and 21 dispensaries in El País.
 media:
   - kind: photo
     url: https://elpais.com/chile/2026-08-19/imperio-amsterdam-como-operaba-la-red-acusada-de-usar-dispensarios-de-cannabis-medicinal-para-traficar-marihuana-en-chile.html
@@ -105,4 +128,4 @@ prescription with a generic diagnosis and cannabis treatment plus a
 criminal-record certificate free of drug convictions, requirements prosecutors
 call merely formal. [@3]
 
-On 19 August the court ruled the 72 detentions lawful and imposed total house arrest, a national travel ban and a ban on contact with other suspects on 10 of the 19 accused handled that day, including television personality Camilo Huerta, nighttime house arrest on five and fortnightly signing for the remaining four. [@4] The Aysén regional prosecutor, Hernán Libedinsky, described the accused as an organization that shared out roles "to sow, cultivate, harvest, distribute and sell drugs". [@4] El País reports that the network sold high-THC marijuana through 21 dispensaries from the country's north to its south. [@4] A medical cover with minimal checks let anyone with membership, a prescription, a clean record certificate and a 10,000-peso fee (11 dollars) buy at any branch, and undercover Carabineros obtained prescriptions within minutes through digital platforms. [@4] In a tapped conversation, Astorga said the company's billing rose from 12 million pesos a month (about 13,000 dollars) to 750 million pesos a month (813,343 dollars), with payments through Mercado Pago and GetNet taking in a little over nine million dollars. [@4] Lawyer Hernán Bocaz drafted the Dispensario Nacional franchise contracts and advised members with criminal problems, and OS-7 reports say he recommended alternative routes for moving cannabis and knew about cash-remittance transport, taking fees and discounts on marijuana purchases. [@4] Among the 44 accused were musician Juan Pablo Astorga Rodríguez and Luis Bernardo Vásquez, director of the Maule social-security institute, and WhatsApp chats mention deputies Marisela Santibáñez and Ana María Gazmuri and senator Manuel José Ossandón as possible contacts to exert influence; all three denied any link. [@4]
+On 19 August the court ruled the 72 detentions lawful and imposed total house arrest, a national travel ban and a ban on contact with other suspects on 10 of the 19 accused handled that day, including television personality Camilo Huerta, nighttime house arrest on five and fortnightly signing for the remaining four. [@4,5] The 2011 case ended with Huerta acquitted under a conditional suspension of proceedings requiring Senda evaluations, Soumastre serving 61 days of minor imprisonment under supervised release, and Barrena convicted of a drug-law misdemeanour deemed served after 24 hours in detention. [@8] Prosecutors charged Huerta and Soumastre with small-quantity drug trafficking and marijuana cultivation and Barrena with small-quantity trafficking, and Santiago's 9th Guarantee Court ordered total house arrest for the three. [@7] That 2011 operation seized 12 indoor-grown marijuana plants and half a kilo of processed marijuana ready for sale. [@6] Huerta had already faced a cannabis case: in July 2011 Carabineros' OS-7 drug unit detained him with Félix Soumastre and Francisco Barrena in Operación Yingo, an investigation into small-quantity drug trafficking and marijuana cultivation. [@5] The Aysén regional prosecutor, Hernán Libedinsky, described the accused as an organization that shared out roles "to sow, cultivate, harvest, distribute and sell drugs". [@4] El País reports that the network sold high-THC marijuana through 21 dispensaries from the country's north to its south. [@4] A medical cover with minimal checks let anyone with membership, a prescription, a clean record certificate and a 10,000-peso fee (11 dollars) buy at any branch, and undercover Carabineros obtained prescriptions within minutes through digital platforms. [@4] In a tapped conversation, Astorga said the company's billing rose from 12 million pesos a month (about 13,000 dollars) to 750 million pesos a month (813,343 dollars), with payments through Mercado Pago and GetNet taking in a little over nine million dollars. [@4] Lawyer Hernán Bocaz drafted the Dispensario Nacional franchise contracts and advised members with criminal problems, and OS-7 reports say he recommended alternative routes for moving cannabis and knew about cash-remittance transport, taking fees and discounts on marijuana purchases. [@4] Among the 44 accused were musician Juan Pablo Astorga Rodríguez and Luis Bernardo Vásquez, director of the Maule social-security institute, and WhatsApp chats mention deputies Marisela Santibáñez and Ana María Gazmuri and senator Manuel José Ossandón as possible contacts to exert influence; all three denied any link. [@4]
