@@ -65,14 +65,23 @@ sources:
     publisher: Dynamite News Hindi
     date: 2026-11-12
     language: hi
+  - title: ऑपरेशन सवेरा के तहत नई मंडी पुलिस की मुठभेड़, 22 किलो गांजे के साथ तस्कर आशीष गिरफ्तार, पैर में लगी गोली
+    url: https://royalbulletin.in/muzaffarnagar/under-operation-savera-encounter-of-nai-mandi-police-smuggler-ashish/article-254290
+    publisher: Royal Bulletin
+    date: 2026-11-11
+    language: hi
 open_questions:
     - No charges, case number or court outcome are reported for the arrested man.
     - Police gave the ganja's value as a range of 15 to 20 lakh rupees rather than a single figure.
-    - The amount of cash reported as recovered is not stated, and Dynamite News does not mention any cash.
-    - No police statement was published; both reports appear to rest on the same police briefing.
+    - The amount of cash reported as recovered is not stated, and Dynamite News and Royal Bulletin do not mention any cash.
+    - No police statement was published; the reports appear to rest on a police briefing.
     - The report does not say whether the accused was remanded to custody or kept under guard in hospital.
-    - Dynamite News gives the seized ganja as 21.5 kg, while Dainik Bhaskar gives about 22 kg.
-    - The accused's criminal record is given as five cases at New Mandi station by Dynamite News and as about half a dozen cases by Dainik Bhaskar.
+    - Dynamite News gives the seized ganja as 21.5 kg, while Dainik Bhaskar and Royal Bulletin give about 22 kg.
+    - The accused's criminal record is given as five cases at New Mandi station by Dynamite News and as about half a dozen cases by Dainik Bhaskar; Royal Bulletin gives no record.
+    - Royal Bulletin places the encounter on Bhopa Road, while Dainik Bhaskar places the check on Kukda Road and says the motorcycle came from the Bhopa Road side.
+    - The circle officer is named Raju Kumar Saw in Royal Bulletin and Raju Rao in another account.
+    - Royal Bulletin gives the father's name as Rambir, while another account gives Ramvir.
+    - Royal Bulletin does not report an admission that the accused bought the ganja to sell locally; it says police were still trying to learn the source and the intended supply.
 ---
 
 During a police check in Muzaffarnagar on Wednesday late evening at about 8, a
@@ -89,10 +98,10 @@ motorcycle and cash from him. [@2] Police valued the seized ganja at about 15 to
 
 The Kukda Road check was run under Operation Savera on the deputy inspector
 general's instructions, and the team signalled a speeding motorcycle coming from
-the Bhopa Road side to stop. [@2] The Kukda Road check was run on the instructions of the deputy inspector general of Saharanpur. [@3] The rider suddenly turned and fled, and his
+the Bhopa Road side to stop. [@2] New Mandi station house officer Inspector Anand Dev Mishra led the police team. [@4] The Kukda Road check was run on the instructions of the deputy inspector general of Saharanpur. [@3] Senior Superintendent of Police Suraj Kumar Rai is directing the district campaign against offenders and the illegal drug trade. [@4] The rider suddenly turned and fled, and his
 motorcycle slipped and fell as he tried to reach the highway by a rough track.
 [@2] Circle officer Raju Rao said the man admitted in questioning that he had
 bought the ganja from a person to sell at the local level. [@2] Police are
 gathering information about his supply network and the others involved in buying
-and selling the ganja. [@2,3] About half a dozen theft cases and cases of assault
+and selling the ganja. [@2,3,4] About half a dozen theft cases and cases of assault
 and molestation are registered against him, and he has been in jail before. [@2] Five cases are registered against him at the New Mandi police station, among them one under the Arms Act. [@3]
