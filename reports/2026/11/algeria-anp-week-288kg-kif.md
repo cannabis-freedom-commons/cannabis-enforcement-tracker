@@ -55,20 +55,25 @@ sources:
     publisher: Dzair Tube
     date: 2026-11-11
     language: fr
+  - title: 一周内一名恐怖分子向当局自首，7名恐怖组织支持人员被捕
+    url: https://www.aps.dz/cn/algerie/actualite-nationale/mwcg5grd-%E4%B8%80%E5%91%A8%E5%86%85%E4%B8%80%E5%90%8D%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%E5%90%91%E5%BD%93%E5%B1%80%E8%87%AA%E9%A6%86-7%E5%90%8D%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87%E6%94%AF%E6%8C%84%E4%BA%BA%E5%91%98%E8%A2%AB%E6%8D%95
+    publisher: Algérie Presse Service
+    date: 2026-11-11
+    language: zh
 ---
 
 Algeria's National People's Army (ANP) reported that its combined detachments,
 working with the different security services, intercepted 38 narcotrafiquants,
-or drug traffickers, during operations across the military regions. [@1,3] The
-operations ran from 4 to 10 November 2026. [@1] The army said the detachments
+or drug traffickers, during operations across the military regions. [@1,3,4] The
+operations ran from 4 to 10 November 2026. [@1,4] The army said the detachments
 foiled attempts to introduce 2 quintals and 88 kilograms (288 kg) of kif traité,
-treated cannabis, coming from the borders with Morocco. [@2,3]
+treated cannabis, coming from the borders with Morocco. [@2,3,4]
 
 The same operations also yielded 5 kilograms of cocaine and 391,821 psychotropic
-tablets, which are not counted as cannabis here. [@1,3] Separate operations
+tablets, which are not counted as cannabis here. [@1,3,4] Separate operations
 against illegal gold panning in Tamanrasset, Bordj Badji Mokhtar, In Salah, In
 Guezzam and Illizi led to the arrest of 284 people and the seizure of 22
-vehicles, 83 generators and 45 jackhammers. [@1]
+vehicles, 83 generators and 45 jackhammers. [@1,4]
 
 The figures are the army's weekly operational bilan totals for a week of
 operations by army units and detachments across the military regions rather than
