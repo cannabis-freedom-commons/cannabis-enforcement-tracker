@@ -43,25 +43,26 @@ sources:
     url: https://www.caymancompass.com/2019/01/15/visitor-jailed-for-importing-ganja/
     publisher: Cayman Compass
     date: 2019-01-15
+  - title: Airline employee charged with possessing ganja
+    url: https://www.caymancompass.com/2018/10/30/airline-employee-charged-with-possessing-ganja/
+    publisher: Cayman Compass
+    date: 2018-10-30
 open_questions:
-  - Only one opened source, Cayman Compass, covers this sentencing; no second account or agency statement was found.
-  - The article gives the offence date as Oct. 27 without a year; October 2018 is inferred from the January 2019 sentencing, but the year is not stated.
-  - The article names the court only through Magistrate Valdis Foldats and does not give the court's name, so the place is given as George Town rather than a courthouse.
-  - The article does not name which airport was used, saying only customs officers at the airport, which for Cayman arrivals is normally Grand Cayman.
-  - No arrest count is recorded because the article says only that Spence was in custody since his arrest without describing a separate arrest step.
-  - The sources give no name for the person Spence was to forward the ganja to, and no charge against anyone else is reported.
-  - No street value for the six ounces was published, so none is recorded.
-  - The article does not say whether Spence faces deportation or other immigration action after his sentence.
+    - Whether the possible conspiracy to import ganja charge was brought is not reported.
+    - The reports do not name the person Spence was to forward the ganja to, and no one else is charged.
+    - The reports do not say whether the $4,000 street value is in Cayman or U.S. dollars.
+    - The reports do not explain how the initial possession charge became the importation charge at sentencing.
+    - The reports do not say whether Spence faces deportation or other immigration action after his sentence.
 ---
 
 Garfield Ainsley Spence, a 24-year-old frequent visitor to the Cayman Islands,
 was sentenced to six months in prison after pleading guilty to importing six
 ounces of ganja, which is about 0.17 kilograms. [@1] He brought the ganja to the
-island on Oct. 27. [@1] Spence first told authorities he had a prescription for
+island on Oct. 27. [@1] Spence was arrested at Owen Roberts International Airport and appeared in Summary Court on 30 October 2018, where he was denied bail on a possession charge. [@2] Spence first told authorities he had a prescription for
 medical marijuana, but Crown counsel Scott Wainwright said he did not have one
-with him at the time and the Crown was never made aware of any. [@1] A customs
+with him at the time and the Crown was never made aware of any. [@1,2] Crown counsel Scott Wainwright said a further charge of conspiracy to import ganja might follow. [@2] A customs
 officer at the airport smelled ganja when speaking with him, and a search found
-a heat-sealed bag of it in his backpack. [@1]
+a heat-sealed bag of it in his backpack. [@1,2] The court heard the ganja had a street value of $4,000. [@2]
 
 Spence worked as a ramp agent for an airline that flies to Cayman and did not
 have to buy tickets, and he visited often because he had relatives on the
@@ -81,4 +82,3 @@ true. [@1] The magistrate said a prison term was needed to deter others,
 starting from one year for six ounces, reduced to nine months for Spence's
 previous clean record and then by a third for his guilty plea. [@1] Spence had
 been in custody since his arrest and is to receive credit for that time. [@1]
-
