@@ -56,15 +56,30 @@ sources:
     publisher: eju.tv
     date: 2026-11-11
     language: es
+  - title: Declaración revela cómo llegaron las “maletas con marihuana” a Santa Cruz y el plan para venderla en Brasil
+    url: https://unitel.bo/noticias/seguridad/declaracion-revela-como-llegaron-las-maletas-con-marihuana-a-santa-cruz-y-el-plan-para-venderla-en-brasil-AF24749339
+    publisher: Unitel
+    date: 2026-11-11
+    language: es
+  - title: 'Un jet privado, 32 maletas y una fábrica de hielo: lo que Saucedo habría contado a Quezada en México'
+    url: https://erbol.com.bo/seguridad/un-jet-privado-32-maletas-y-una-f%C3%A1brica-de-hielo-lo-que-saucedo-habr%C3%ADa-contado-quezada-en
+    publisher: ERBOL
+    date: 2026-11-11
+    language: es
+  - title: 'Caso maletas: Quezada relata que Saucedo le reveló el ‘negocio’ durante una cena en México'
+    url: https://eldeber.com.bo/pais/caso-maletas-quezada-relata-cena-mexico-saucedo-le-revelo-negocio_1794432446
+    publisher: EL DEBER
+    date: 2026-11-11
+    language: es
 open_questions:
     - No figure for the weight or composition of the marijuana said to be in the suitcases was published, so no cannabis weight is recorded.
-    - Saucedo has not been tried or convicted, and Rojas's and Zeballos's statements are versions that prosecutors must still verify.
+    - Saucedo has not been tried or convicted, and the statements by Rojas, Zeballos and Quezada are versions that prosecutors must still verify.
     - The accounts give different numbers of suitcases, more than 30, 31 or 32, and differ on where they flew from, the United States, California or Miami.
     - Zeballos first doubted that El Alemán was Saucedo and then said he had confirmed it through the Public Ministry's investigations.
-    - The page photo shows Laura Rojas leaving the prosecutors' office and does not depict the suitcases or any seizure.
     - The same article also reports an arrest warrant against Saucedo's sister for an alleged Bs 1 million bribe, a separate case left out here.
     - No court order on whether Quezada remained detained after the 11 November apprehension was reported.
     - The accounts do not say what Mauricio Requena is accused of.
+    - 'The accounts differ on when the Mexico conversation took place: one dates it to 26 November 2025, while the newer accounts place it between 24 and 28 August without giving the year.'
 details:
     agencies: [bo-felcn]
     agency_types: [anti-narcotics, prosecutor]
@@ -113,7 +128,7 @@ unclaimed. [@2]
 
 Saucedo, who has an arrest warrant for drug trafficking and criminal
 organisation, says he is abroad in exile, while Zeballos remains in preventive
-detention at Palmasola prison. [@1] Mauricio Requena, a former adviser to Saucedo, was also apprehended in the same case after he presented himself to give a statement. [@5] He said former judge Hebert Zeballos was supposedly in charge of setting up an ice factory as a front for that process. [@5] Quezada said Saucedo explained that an industrial cold process turned the marijuana into a liquid for vapes, to be sold at a higher price in Brazil and other countries. [@5] Quezada said Saucedo told him the withdrawal of the suitcases was supervised and supported by a man he called Chino, meaning then attorney general Roger Mariaca. [@5] He said Saucedo told him that 32 suitcases which arrived at Viru Viru from California on a private jet were Saucedo's and contained genetically modified marijuana. [@5] In his statement, Quezada said the disclosure came on 26 November 2025 during a trip he and Saucedo made to Mexico to receive an honorary distinction. [@5] The day before, after giving his statement, he had been released. [@7] He was taken into FELCN custody at about 15:00 that Wednesday in the suitcase investigation. [@7] The FELCN and a commission of prosecutors searched Quezada's home on Avenida Alemana in Santa Cruz. [@6] He is investigated for suspected trafficking of controlled substances, criminal association and conspiracy. [@5] On Wednesday 11 November 2026, former Santa Cruz departmental court president Aldo Ismael Quezada was apprehended after a search of his home and taken to the FELCN in Santa Cruz. [@5] Rojas's lawyer Joadel Bravo said she
+detention at Palmasola prison. [@1] Mauricio Requena, a former adviser to Saucedo, was also apprehended in the same case after he presented himself to give a statement. [@5] He said former judge Hebert Zeballos was supposedly in charge of setting up an ice factory as a front for that process. [@5,8] Quezada said a search of the company's premises found an ice-crushing machine that he said was really used to process the marijuana. [@8] Quezada said Saucedo explained that an industrial cold process turned the marijuana into a liquid for vapes, to be sold at a higher price in Brazil and other countries. [@5,8] Quezada said Saucedo told him the withdrawal of the suitcases was supervised and supported by a man he called Chino, meaning then attorney general Roger Mariaca. [@5,8] Quezada said Saucedo told him there was 'the necessary protection' and that El Alemán would have no problem. [@8] He said Saucedo told him that 32 suitcases which arrived at Viru Viru from California on a private jet were Saucedo's and contained genetically modified marijuana. [@5] Quezada said Saucedo named former deputy Laura Rojas as the person who transported the suitcases on the private jet from California. [@9] In his statement, Quezada said the disclosure came on 26 November 2025 during a trip he and Saucedo made to Mexico to receive an honorary distinction. [@5] Quezada said the conversation happened at a dinner after the honorary ceremony in Mexico, where they drank alcohol. [@10] The day before, after giving his statement, he had been released. [@7] He was taken into FELCN custody at about 15:00 that Wednesday in the suitcase investigation. [@7] The FELCN and a commission of prosecutors searched Quezada's home on Avenida Alemana in Santa Cruz. [@6] He is investigated for suspected trafficking of controlled substances, criminal association and conspiracy. [@5] On Wednesday 11 November 2026, former Santa Cruz departmental court president Aldo Ismael Quezada was apprehended after a search of his home and taken to the FELCN in Santa Cruz. [@5] Rojas's lawyer Joadel Bravo said she
 travelled from Santa Cruz to Miami for a political conference that never took
 place, was invited by Zeballos, and flew back on a Uruguayan friend's chartered
 flight. [@1] La Razón reported that the marijuana found in a warehouse where the
