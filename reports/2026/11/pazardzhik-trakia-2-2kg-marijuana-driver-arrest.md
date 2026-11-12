@@ -35,6 +35,11 @@ media:
     media_url: https://pa-media.net/media/img/a800xa450/2026-11/marixyana_AM_Trakia_21.jpg
     publisher: PA media
     caption: Seized bags of marijuana from the Peugeot stopped on the Trakia motorway.
+  - kind: photo
+    url: https://dariknews.bg/regioni/Pazardzhik/22-kg-marihuana-kokain-i-nezakonen-boen-pistolet-dvama-drogirani-shofiori-popadnaha-v-aresta-snimki-2471744
+    media_url: https://m.netinfo.bg/media/images/51411/51411027/991-ratio-narkotici-oryzhie-pazardzhik.jpg
+    publisher: DarikNews.bg
+    caption: 'Police handout photo published with the DarikNews report on the Pazardzhik marijuana, cocaine and pistol seizures. Photo: Pazardzhik Regional Directorate of the Ministry of Interior (ODMVR-Pazardzhik).'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f42ade3d064c8555043d231f0387fcfa
@@ -70,6 +75,11 @@ sources:
     publisher: Инфомрежа
     date: 2026-11-11
     language: bg
+  - title: '2,2 кг марихуана, кокаин и незаконен боен пистолет: Двама дрогирани шофьори попаднаха в ареста (СНИМКИ)'
+    url: https://dariknews.bg/regioni/Pazardzhik/22-kg-marihuana-kokain-i-nezakonen-boen-pistolet-dvama-drogirani-shofiori-popadnaha-v-aresta-snimki-2471744
+    publisher: DarikNews.bg
+    date: 2026-11-11
+    language: bg
 ---
 
 Officers from the anti-criminal-crime sector of the Pazardzhik police
@@ -77,13 +87,13 @@ directorate carried out an operation against the possession and distribution of
 drugs alongside traffic police officers. [@1,5,6] On the Trakia motorway near
 Pazardzhik, officers stopped a Peugeot car driven by a 25-year-old resident of
 the village of Rogosh in Plovdiv Province. [@1,5,6] Police established that the
-driver was behind the wheel under the influence of cocaine. [@1,4,5,6] He was detained
+driver was behind the wheel under the influence of cocaine. [@1,4,5,6,7] He was detained
 for up to 24 hours in the detention facility of the Pazardzhik police precinct.
 [@1,5,6]
 
 Inside the car, officers discovered four vacuum-sealed polythene bags containing
-dried leaf material of flower heads and inflorescences. [@1,4,5,6] A field drug test
+dried leaf material of flower heads and inflorescences. [@1,4,5,6,7] A field drug test
 reacted positively for marijuana, yielding a total seized weight of 2.2
-kilograms. [@2,4,5,6] The vehicle and the drugs were seized, and pre-trial proceedings
+kilograms. [@2,4,5,6,7] The vehicle and the drugs were seized, and pre-trial proceedings
 were initiated under the supervision of the Pazardzhik District Prosecutor's
-Office. [@3,4,5,6]
+Office. [@3,4,5,6,7]
