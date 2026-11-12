@@ -92,25 +92,28 @@ sources:
     publisher: 中京テレビNEWS NNN
     date: 2026-11-12
     language: ja
-open_questions:
-  - The youngest resident taken to hospital is described as one year old in some accounts and 18 months old in others.
+  - title: 岐阜市のアパートで１２人が搬送される火事　火元の部屋の男が大麻使用で逮捕
+    url: https://www.nagoyatv.com/news/index.html?id=038005
+    publisher: 名古屋テレビ【メ～テレ】
+    date: 2026-11-12
+    language: ja
 ---
 
 A fire broke out in a three-storey apartment building in Kita-Isshiki, Gifu, in
 the early hours of 11 November 2026, after a neighbour reported seeing flames
 from the first floor. [@1,7] Twelve of the building's residents, aged from one to
 their forties, were taken to hospital and were thought to have minor injuries.
-[@1,4,5,7,11,13] The injured were taken to hospitals in Gifu City and in the neighbouring
+[@1,4,5,7,11,13,14] The injured were taken to hospitals in Gifu City and in the neighbouring
 town of Kasamatsu. [@2] The apartment housed 11 households and 15 residents in
 total. [@1] No one was left behind in the fire. [@3] The man who lived in the
 ground-floor room where the fire started was not injured. [@1] The fire was brought under control about two hours later. [@5,13]
 
 Gifu Chuo Police Station arrested that resident, a 43-year-old unemployed
 Turkish man, on 11 November on suspicion of violating the Narcotics Control Law
-by using cannabis. [@1,4,7,8,11,12] Police named the arrested man as Komur Gokhan (コムル・ギョクハン), a 43-year-old unemployed Turkish national. [@6,7,9,13] Police said he was suspected of using cannabis between
-early August and 11 November. [@1,4,5,7,8,13] The suspicion arose during the fire
+by using cannabis. [@1,4,7,8,11,12] Police named the arrested man as Komur Gokhan (コムル・ギョクハン), a 43-year-old unemployed Turkish national. [@6,7,9,13,14] Police said he was suspected of using cannabis between
+early August and 11 November. [@1,4,5,7,8,13,14] The suspicion arose during the fire
 investigation: officers found his behaviour suspicious, tested his urine and
-detected cannabis components. [@1,6,7,9,13] Questioned by investigators, he admitted the suspicion. [@5,6,7,8,9,13]
+detected cannabis components. [@1,6,7,9,13,14] Questioned by investigators, he admitted the suspicion. [@5,6,7,8,9,13,14]
 
 Police said they are investigating whether the cannabis use is connected to the
-fire. [@1,4,5,6,7,8,9,10,11,13] Police said they are also investigating how he obtained the cannabis and his motive. [@5,13]
+fire. [@1,4,5,6,7,8,9,10,11,13,14] Police said they are also investigating how he obtained the cannabis and his motive. [@5,13]
