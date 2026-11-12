@@ -55,29 +55,33 @@ sources:
     publisher: ITV Patagonia
     date: 2026-11-11
     language: es
+  - title: Joven de 19 años fue detenido tras intentar escapar de Carabineros con más de 219 gramos de marihuana en Puerto Natales
+    url: https://radiomagallanes.cl/joven-de-19-anos-fue-detenido-tras-intentar-escapar-de-carabineros-con-mas-de-219-gramos-de-marihuana-en-puerto-natales/
+    publisher: Radio Magallanes
+    date: 2026-11-12
+    language: es
 open_questions:
-  - The account gives no separate date for the pursuit and detention; 11 November 2026 is the publication date and is used as the incident date.
-  - The identification rests on a SIP field test positive for marijuana; no laboratory confirmation was reported.
-  - The detained man was not named, and no detention-control hearing, formalisation or court outcome was reported.
-  - No value estimate for the seized marijuana was published.
-  - The whole account rests on a single outlet, ITV Patagonia; no second report or Carabineros statement could be opened.
+    - No separate date for the pursuit and detention was published; 11 November 2026, the publication date of the first report, is used as the incident date.
+    - The identification rests on a SIP field test positive for marijuana; no laboratory confirmation was reported.
+    - The detained man was not named, and no detention-control hearing, formalisation or court outcome was reported.
+    - No value estimate for the seized marijuana was published.
+    - Both reports relay the same Carabineros account, with no independent witness or court record of the detention published.
 ---
 
 Carabineros detained a 19-year-old man in Puerto Natales, in Chile's Magallanes
 region, for illicit drug trafficking after finding more than 219 grams of
 marijuana inside the car he was driving. [@1] The procedure was carried out by
 the Centauro patrol, which spotted a red car whose driver tried to escape when
-he noticed the police presence. [@1] Officers followed the car at a distance
+he noticed the police presence. [@1,2] Officers followed the car at a distance
 through different streets of the city; the driver then stopped the vehicle and
 fled on foot, but was caught by Carabineros. [@1]
 
 During the inspection of the car, officers found a transparent nylon bag
-containing a green plant substance. [@1] The young man was taken to the Segunda
+containing a green plant substance. [@1,2] The young man was taken to the Segunda
 Comisaría, the second police station of Puerto Natales, where the Sección de
 Investigación Policial (SIP), the police investigation section, ran a field test
 that came back positive for marijuana, and his detention was then confirmed.
 [@1] In total, Carabineros seized 219 grams and 700 milligrams of marijuana,
-141,000 pesos in cash and two mobile phones. [@1]
+141,000 pesos in cash and two mobile phones. [@1,2] The detained man is a Chilean national with a criminal record, and he was placed at the disposal of the courts. [@2]
 
 The police procedure remained under way. [@1]
-
