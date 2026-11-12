@@ -62,6 +62,11 @@ sources:
     publisher: Cosenza Channel
     date: 2026-11-11
     language: it
+  - title: 'Cosenza, tenta di scappare con la droga dopo inseguimento della Polizia: arrestato'
+    url: https://www.tgcal24.it/cronaca/cosenza-tenta-di-scappare-con-la-droga-dopo-inseguimento-della-polizia-arrestato/
+    publisher: TGCAL24
+    date: 2026-11-11
+    language: it
 open_questions:
   - The arrested driver was not named and his age was not given.
   - The quantity of drugs already divided into doses was not stated.
@@ -71,23 +76,23 @@ open_questions:
 
 On the morning of 7 November 2026, officers of the Squadra Mobile of Cosenza,
 the police mobile squad, carried out targeted patrols to prevent drug dealing.
-[@1,4] During the operation a man was arrested in flagrante for possession of
-drugs with intent to sell and resistance to a public official. [@1,4] In via
+[@1,4,5] During the operation a man was arrested in flagrante for possession of
+drugs with intent to sell and resistance to a public official. [@1,4,5] In via
 Popilia the officers moved to check a car whose driver fled at the sight of the
 patrol, ramming the police car after throwing a large transparent bag from the
-window, which the officers recovered. [@1,4] After a short pursuit through the
+window, which the officers recovered. [@1,4,5] After a short pursuit through the
 city streets the car was stopped, and the driver was detained and subjected to a
-personal search. [@1]
+personal search. [@1,5]
 
-The recovered bag contained 600 grams of cocaine. [@1,4] A search of the driver's
+The recovered bag contained 600 grams of cocaine. [@1,4,5] A search of the driver's
 home found another 100 grams of cocaine and 80 grams of hashish, along with
 drugs already divided into doses and material for packaging and weighing them.
-[@1,4]
+[@1,4,5]
 
 The Cosenza prosecutor's office asked for the arrest to be validated and for the
-man to be held in prison pending trial. [@3,4] On 10 November 2026 the GIP, the
+man to be held in prison pending trial. [@3,4,5] On 10 November 2026 the GIP, the
 judge for preliminary investigations at the Cosenza court, granted the requested
-measure. [@2,4] The proceedings remain in the preliminary investigation phase.
+measure. [@2,4,5] The proceedings remain in the preliminary investigation phase.
 [@1] The Cosenza police headquarters, the Questura, said the evidence gathered
 still requires verification in adversarial court proceedings with the defence.
 [@1]
