@@ -15,7 +15,7 @@ summary: >-
   enterprise from 2019. Lucas faces five counts including racketeering; she surrendered and
   appeared in Norfolk court the same day.
 figures:
-  charged: 7
+    charged: 7
 created_by_model: unknown
 details:
   activity: [sale]
@@ -64,12 +64,23 @@ sources:
     url: https://outlawreport.com/dc-114th-smoke-shop-closure-dea-ruling-lucas-ethics-inquiry/
     publisher: Outlaw Report
     date: 2026-11-11
+  - title: Virginia state Sen. L. Louise Lucas accused of leading a marijuana criminal conspiracy
+    url: https://www.wtvr.com/news/local-news/fbi-update-louise-lucas-oct-22-2026
+    publisher: WTVR CBS 6 News
+    date: 2026-10-22
+  - title: Alleged cannabis trafficking suspects to be in court
+    url: https://www.newsbreak.com/wavy-news-10-1589983/5000844914052-alleged-cannabis-trafficking-suspects-to-be-in-court
+    publisher: NewsBreak (WAVY News 10)
+    date: 2026-11-11
+  - title: Judge declares Louise Lucas criminal case complex, grants more time for trial preparation
+    url: https://www.yahoo.com/news/us/articles/judge-declares-louise-lucas-criminal-233715823.html
+    publisher: 13News Now
+    date: 2026-11-11
 open_questions:
-  - The PBS page gives only its publication date of 22 October 2026, describing the charges, announcement and surrender as "today," "this morning" and "this afternoon."
-  - The accessible capture contains only the opening paragraphs behind a paywall, so it does not give indictment counts, co-defendant names, ages, or quantities.
-  - This account schedules an arraignment for next month but gives no exact date.
-  - This account gives no cannabis weight, plant count, field area or value, so no new figures can be recorded.
-  - The page's main image is a general-election voting photo and its other images show unrelated stories, so no photo of this enforcement event can be linked.
+    - No cannabis weight, plant count, field area or value has been published for the enterprise.
+    - The outcomes of the arraignments set for 12 and 16 November 2026, including any pleas, were not reported.
+    - No separate date is given for the judge's complexity ruling; 11 November 2026 is the publication date of the account describing it.
+    - No trial date has been set; the judge's complexity ruling leaves the schedule open.
 ---
 
 Federal prosecutors unsealed an eight-count indictment on 22 October 2026 charging Virginia state
@@ -93,4 +104,4 @@ down. [@2,3,6]
 
 The indictment describes a five-year scheme worth an estimated $4.5 million that obtained and illegally distributed large quantities of marijuana. [@5] On May 6, the FBI executed federal search warrants at The Cannabis Outlet and The CBD Shoppe and recovered marijuana and firearms at both locations. [@5,6]
 
-Law enforcement made multiple controlled purchases of marijuana from Lucas's shop, which purported to sell hemp products, in 2024 and 2025. [@6] The indictment alleges Lucas worked this year with another defendant to use her political position to obtain a recreational marijuana license for him, with the understanding that proceeds would be shared to support the enterprise. [@6] An arraignment is scheduled for next month. [@6] Republican state Sen. Bryce Reeves has introduced a resolution directing the Virginia Senate Committee on Privileges and Elections to investigate Lucas's legislative conflict-of-interest and financial-disclosure compliance, prefiled ahead of the 2027 General Assembly session and carrying possible penalties from censure to expulsion. [@7] Lucas partnered in opening The Cannabis Outlet in 2021. [@6] She had publicly spoken about her ownership stake as recently as June, though her most recent financial disclosure forms do not list the business by name. [@6]
+Law enforcement made multiple controlled purchases of marijuana from Lucas's shop, which purported to sell hemp products, in 2024 and 2025. [@6] The indictment alleges Lucas worked this year with another defendant to use her political position to obtain a recreational marijuana license for him, with the understanding that proceeds would be shared to support the enterprise. [@6] An arraignment is scheduled for next month. [@6,8] Two defendants were due in federal court in Newport News for arraignment on 12 November 2026 at 2 p.m., and Lucas and the other defendants on 16 November at 2 p.m. [@8] Alleged cannabis trafficking suspects were to be in court, WAVY News 10 reported on 11 November 2026. [@9] Republican state Sen. Bryce Reeves has introduced a resolution directing the Virginia Senate Committee on Privileges and Elections to investigate Lucas's legislative conflict-of-interest and financial-disclosure compliance, prefiled ahead of the 2027 General Assembly session and carrying possible penalties from censure to expulsion. [@7] Lucas partnered in opening The Cannabis Outlet in 2021. [@6] She had publicly spoken about her ownership stake as recently as June, though her most recent financial disclosure forms do not list the business by name. [@6] A federal judge has designated the case complex, giving prosecutors and defense lawyers additional time to prepare for trial. [@10]
