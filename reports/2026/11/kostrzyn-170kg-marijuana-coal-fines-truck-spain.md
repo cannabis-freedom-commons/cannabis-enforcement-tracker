@@ -143,8 +143,13 @@ sources:
     publisher: Trybuna Polska
     date: 2026-11-11
     language: pl
+  - title: Ciężarówka miała wieźć węgiel. CBŚP odkryło coś zupełnie innego
+    url: https://poznan.tvp.pl/96421390/ponad-170-kg-marihuany-ukrytej-pod-mialem-weglowym-narkotyki-warte-ponad-3-mln-zl-nie-trafia-na-rynek-kostrzyn
+    publisher: TVP Poznań
+    date: 2026-11-11
+    language: pl
 open_questions:
-    - RMF24 described the stop as a routine inspection, whereas InfoKostrzyn.pl reported that officers stopped the truck in the evening after receiving information that it might be carrying drugs, and Trybuna Polska said the transport had been flagged through risk analysis.
+    - RMF24 described the stop as a routine inspection, whereas InfoKostrzyn.pl and TVP Poznań reported that officers acted after receiving information that the truck might be carrying drugs, and Trybuna Polska said the transport had been flagged through risk analysis.
     - Only the Polish driver's 5,000-zloty SENT fine was reported; no arrests, suspects or criminal charges over the marijuana have been announced.
     - The seized amount is given only as more than 170 kilograms across 170 packages, with no exact measured weight published.
     - The exact road or stop location near Kostrzyn and the origin and destination points in Spain and Poland were not disclosed.
@@ -154,8 +159,8 @@ open_questions:
 
 Officers of the National Revenue Administration and the Central Bureau of
 Investigation of the Police seized more than 170 kilograms of marijuana near
-Kostrzyn by Poznań. [@1,3,5,6,7,8,9] The inspection was carried out by officers of the Central Bureau of Investigation from Kraków and the Małopolska Customs and Tax Office. [@9] The drug was hidden beneath a layer of coal fines in a
-truck carrying cargo from Spain to Poland. [@1,3,4,6,7,9]
+Kostrzyn by Poznań. [@1,3,5,6,7,8,9,10] The inspection was carried out by officers of the Central Bureau of Investigation from Kraków and the Małopolska Customs and Tax Office. [@9,10] The drug was hidden beneath a layer of coal fines in a
+truck carrying cargo from Spain to Poland. [@1,3,4,6,7,9,10]
 
 Officers stopped the truck for a routine inspection and found that the coal
 fines shipment had not been entered in the SENT register, which is mandatory for
@@ -168,6 +173,6 @@ Krzysztof Wrześniowski, spokesperson for the Central Bureau of Investigation of
 the Police, said the way the packages were hidden was meant to make them hard to
 detect and required a thorough inspection of the cargo. [@2,3,6] The services
 estimated the black-market value of the marijuana at more than 3 million zlotys.
-[@2,3,4,5,6,7,8,9] The truck driver, a Polish citizen, was fined 5,000 zlotys for transporting
+[@2,3,4,5,6,7,8,9,10] The truck driver, a Polish citizen, was fined 5,000 zlotys for transporting
 goods without a SENT reference number. [@2,3,5,6,9] Further work in the case is being
-carried out by the Central Bureau of Investigation of the Police. [@2,3,5,6,9]
+carried out by the Central Bureau of Investigation of the Police. [@2,3,5,6,9,10]
