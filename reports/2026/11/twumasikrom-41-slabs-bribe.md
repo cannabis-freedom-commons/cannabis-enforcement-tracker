@@ -65,31 +65,28 @@ sources:
     url: https://www.ghanacrimes.com/drug-offences/two-arrested-with-41-slabs-of-suspected-cannabis-at-twumasikrom-checkpoint
     publisher: GhanaCrimes
     date: 2026-11-11
-open_questions:
-  - No weight or value was given for the 41 slabs, so the amount of cannabis is unknown.
-  - The material was described as suspected cannabis and no laboratory confirmation was reported.
-  - No court date had been set when the reports were published.
-  - The identity of the sender in Accra and of the intended recipient in Sampa was not established.
-  - The published accounts reproduce the same Bono Regional Police Command statement, so no independent account of the arrest was available.
+  - title: Two arrested with 41 slabs of suspected cannabis
+    url: https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Two-arrested-with-41-slabs-of-suspected-cannabis-2060896
+    publisher: GhanaWeb
+    date: 2026-11-11
 ---
 
 The Bono Regional Police Command arrested two men after finding 41 compressed
 slabs of material suspected to be cannabis in a commercial bus at the
-Twumasikrom checkpoint on the Sunyani-Berekum highway. [@1] Police identified
+Twumasikrom checkpoint on the Sunyani-Berekum highway. [@1,4] Police identified
 them as the driver, Duah Akwasi Moses, 33, and his mate, Kofi Antwi Bosiako, 42,
-arrested at about 7:00 a.m. on 8 November 2026. [@1] The two were travelling
+arrested at about 7:00 a.m. on 8 November 2026. [@1,4] The two were travelling
 towards Sampa in the Jaman North District in a white and red Kia Grand Bus with
-registration number AS-2415-26. [@1] The bus was carrying passengers when
-officers stopped and searched it. [@3] A search of one of the vehicle's
+registration number AS-2415-26. [@1,4] The bus was carrying passengers when
+officers stopped and searched it. [@3,4] A search of one of the vehicle's
 compartments found two brown boxes containing the 41 yellow sellotaped
-compressed slabs. [@1]
+compressed slabs. [@1,4]
 
 The driver told interrogators he had received the parcel from an unidentified
-person in Accra for delivery to someone in Sampa. [@1] The driver then offered
+person in Accra for delivery to someone in Sampa. [@1,4] The driver then offered
 officers GH¢9,000 to secure their release, but the officers rejected the offer
-and retained the money as an exhibit. [@1] The Drugs Law Enforcement Unit was
-called in to assist the investigation. [@1] The two remained in police custody
-while officers worked to put them before court. [@1] The command's public
+and retained the money as an exhibit. [@1,4] The Drugs Law Enforcement Unit was
+called in to assist the investigation. [@1,4] The two remained in police custody
+while officers worked to put them before court. [@1,4] The command's public
 relations officer, Chief Inspector Thomas Akeelah, signed a statement on the
 case, and the command praised the officers' professionalism and vigilance. [@2]
-
