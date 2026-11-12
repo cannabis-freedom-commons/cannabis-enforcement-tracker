@@ -55,27 +55,32 @@ sources:
     publisher: БНР Програма Хоризонт
     date: 2026-11-11
     language: bg
+  - title: Пловдивчанинът Вангел Мицев е шофьорът на ТИР-а с половин тон канабис, задържан на Кулата
+    url: https://newspoint.bg/plovdivchaninat-vangel-mitsev-e-shofyorat-na-tir-a-s-polovin-ton-kanabis/
+    publisher: NewsPoint.bg
+    date: 2026-11-11
+    language: bg
 open_questions:
     - Infomrezha and Lupa reported the nearly 500 kg figure as unofficial or not officially confirmed, and Struma called it half a tonne; BNR described only a large quantity, and no source published an official measured weight.
     - Infomrezha dated the operation to 10 November 2026; Struma, published that evening, said the marijuana was found the night before; Lupa reported it on 11 November without a separate incident date; BNR, published on 11 November, said the case was from two days earlier.
-    - The driver has been charged and held for 72 hours, but no name or further court outcome was reported.
-    - Struma, Lupa and BNR put the value at several million euros, and BNR called that figure unofficial; no official valuation was published.
-    - No information was published on where the truck had set off from, its intended route or who the load was meant for.
+    - The driver has been charged and held for 72 hours according to BNR; NewsPoint named Vangel Mitsev of Plovdiv as the driver but said investigators had not officially confirmed his identity, and no further court outcome was reported.
+    - Struma, Lupa and BNR put the value at several million euros, and BNR called that figure unofficial; NewsPoint said the value could reach several million euros depending on quality and market, and no official valuation was published.
+    - NewsPoint said investigators were checking a possible channel from Spain through Greece and Bulgaria toward Turkey, but there was no official confirmation of the truck's origin, route or recipient.
     - Separate cigarette-smuggling cases described with the seizure, including a Romanian driver's suspended sentence, are different events left out of this report.
 ---
 
 A joint operation by Bulgaria's Customs Agency, the Ministry of the Interior and
 the prosecution service was carried out at the Kulata border checkpoint, where
 officers stopped a freight truck travelling on the designated entry lane into
-the country. [@1] The truck was entering Bulgaria from Greece. [@3,4] During the subsequent inspection of the heavy-goods truck
+the country. [@1] The truck was entering Bulgaria from Greece. [@3,4,5] During the subsequent inspection of the heavy-goods truck
 combination, the checking officers found nearly 500 kilograms of marijuana in
-the transported load. [@1] The Bulgarian driver was detained. [@2,3] The driver has been charged and detained for 72 hours. [@4] The marijuana was found in a specially built hide in a freight vehicle driven by a Bulgarian driver. [@2,3] Infomrezha expressly presented the nearly
+the transported load. [@1] The Bulgarian driver was detained. [@2,3,5] NewsPoint named Vangel Mitsev of Plovdiv as the driver, and said investigators had not officially confirmed his identity. [@5] The driver has been charged and detained for 72 hours. [@4] After the stop the driver was taken to the emergency department of MBAL Blagoevgrad on 10 November, shortly after 22:00, and remained in custody after a medical examination. [@5] The marijuana was found in a specially built hide in a freight vehicle driven by a Bulgarian driver. [@2,3,5] Customs officers found an extra rear board on the trailer, with a hidden compartment behind it holding boxes of cannabis packages. [@5] Infomrezha expressly presented the nearly
 500-kilogram quantity as unofficial information provided to its own newsroom
 rather than as a confirmed official measurement. [@1]
 
 Official information from the competent institutions on the circumstances of the
 case and on the value of the seized narcotic quantity was still awaited when the
-report was published. [@1] Customs and the Blagoevgrad prosecutor's office scheduled a briefing on the case for 12 November 2026. [@4] Struma said a similar quantity had not been seized at the Kulata crossing in recent years and put the value at several million euros. [@2] The report described the Kulata interception as
+report was published. [@1] One line of inquiry was an international channel moving large quantities of cannabis from Spain through Greece and Bulgaria toward Turkey. [@5] NewsPoint said there was no official confirmation that the seized shipment was part of that scheme. [@5] Customs and the Blagoevgrad prosecutor's office scheduled a briefing on the case for 12 November 2026. [@4] Struma said a similar quantity had not been seized at the Kulata crossing in recent years and put the value at several million euros. [@2] The report described the Kulata interception as
 another serious blow against organised trafficking through this border
 checkpoint. [@1] It added that in recent weeks the Kulata crossing had been at
 the centre of several large-scale investigations linked to the smuggling of
