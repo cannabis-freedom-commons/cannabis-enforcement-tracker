@@ -145,22 +145,30 @@ sources:
     publisher: PALPRES.COM
     date: 2026-11-12
     language: id
+  - title: SAMBUT HARI PAHLAWAN, BNN MUSNAHKAN DUA TITIK LAHAN GANJA DI ACEH BESAR
+    url: https://bhayangkarapos.com/2026/11/11/sambut-hari-pahlawan-bnn-musnahkan-dua-titik-lahan-ganja-di-aceh-besar/
+    publisher: Bhayangkarapos.com
+    date: 2026-11-11
+    language: id
+open_questions:
+  - The destroyed area is given as 2.5 hectares by iNews and as three hectares in BNN's statement and most other accounts.
+  - The spacing between plants is given as about 50 centimetres by iNews and 75–80 centimetres in BNN's statement.
 ---
 
 BNN officers with TNI and police destroyed more than four tons of
 ready-to-harvest cannabis plants on a 2.5-hectare field in Aceh Besar. [@1] The
-field lay in the mountains of Desa Pulo Lamteba, Aceh Besar regency, Aceh. [@2,3,4,5,6,8,9,12,13,15] The joint destruction took place on Tuesday, 10 November 2026. [@11,12,15]
+field lay in the mountains of Desa Pulo Lamteba, Aceh Besar regency, Aceh. [@2,3,4,5,6,8,9,12,13,15] The joint destruction took place on Tuesday, 10 November 2026. [@11,12,15,16]
 The destruction operation involved hundreds of personnel from BNN, the
-Indonesian military and the police. [@2,3] The operation was led by BNN narcotics director Brigjen Pol Robby Karya Adi. [@15] Personnel from central and Aceh provincial BNN, Aceh police, the military, the National Research and Innovation Agency (BRIN), public order police (Satpol PP), the High Prosecutor's Office, Customs, and the agriculture and forestry offices took part in the eradication. [@6,9,10,11,12,14,15] The operation involved 135 joint personnel. [@12,13,15] Widodo, head of enforcement and investigation at the Aceh regional customs office, attended with staff from Banda Aceh Customs. [@11] At the site, officers swept two field
-locations found at the foot of Mount Seulawah. [@2,3,13] The two sites in Gampong Pulo were located at elevations of 684 and 800 metres above sea level. [@9,10,11,12,14] The first site was at coordinates 5.46848, 95.63881 and the second at 5.4592, 95.63714. [@12]
+Indonesian military and the police. [@2,3] The operation was led by BNN narcotics director Brigjen Pol Robby Karya Adi. [@15,16] Personnel from central and Aceh provincial BNN, Aceh police, the military, the National Research and Innovation Agency (BRIN), public order police (Satpol PP), the High Prosecutor's Office, Customs, and the agriculture and forestry offices took part in the eradication. [@6,9,10,11,12,14,15] The operation involved 135 joint personnel. [@12,13,15,16] Widodo, head of enforcement and investigation at the Aceh regional customs office, attended with staff from Banda Aceh Customs. [@11] At the site, officers swept two field
+locations found at the foot of Mount Seulawah. [@2,3,13] The two sites in Gampong Pulo were located at elevations of 684 and 800 metres above sea level. [@9,10,11,12,14,16] The first site was at coordinates 5.46848, 95.63881 and the second at 5.4592, 95.63714. [@12]
 
 The joint team walked for three hours over rough terrain to reach the
 2.5-hectare field. [@2] The plants were about one to two metres tall and planted
 about 50 centimetres apart. [@2,8] The organized Cannabis sativa L. plantings were 15 to 250 centimetres tall with no permanent building nearby. [@7,12] The plants depended only on rainfall for water. [@12] Officers pulled up all the plants, gathered
-them into two large piles and burned them on the spot. [@2,8] BNN reported that officers destroyed approximately 8,000 cannabis plants across three hectares with an estimated weight of around four tons. [@4,5,6,7,9,10,11,12,13,14,15] The destruction coincided with Indonesia's Heroes' Day commemoration. [@11,15]
+them into two large piles and burned them on the spot. [@2,8] BNN reported that officers destroyed approximately 8,000 cannabis plants across three hectares with an estimated weight of around four tons. [@4,5,6,7,9,10,11,12,13,14,15,16] The destruction coincided with Indonesia's Heroes' Day commemoration. [@11,15,16]
 
 The case began with information from local residents. [@2,13] Officers then
-investigated for about a week before finding the mountain planting site. [@2,13] BNN said the fields were uncovered through mapping conducted with BRIN since October 2026 and an early-November follow-up investigation that confirmed the plants as Cannabis sativa L. [@6,7,9,10,11,12,15] The mapping was part of the National Geospatial Information Implementation Action Plan for 2025–2029. [@12]
+investigated for about a week before finding the mountain planting site. [@2,13] BNN said the fields were uncovered through mapping conducted with BRIN since October 2026 and an early-November follow-up investigation that confirmed the plants as Cannabis sativa L. [@6,7,9,10,11,12,15,16] The mapping was part of the National Geospatial Information Implementation Action Plan for 2025–2029. [@12]
 BNN narcotics director Brigadier General Robby Karya Adi said at the scene that
 his team was destroying a cannabis field consisting of two points. [@2,6] He said
 officers found no landowner or party responsible for planting the cannabis. [@2,3]
