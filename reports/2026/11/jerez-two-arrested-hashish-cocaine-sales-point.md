@@ -63,6 +63,11 @@ sources:
     publisher: Cadena SER
     date: 2026-11-11
     language: es
+  - title: La Policía descubre cómo vendían hachís y cocaína en Jerez, dos detenidos y dinero oculto en una caja fuerte
+    url: https://www.cadizdirecto.com/cadiz/la-policia-descubre-como-vendian-hachis-y-cocaina-en-jerez-dos-detenidos-y-dinero-oculto-en-una-caja-fuerte/
+    publisher: Cádiz Directo
+    date: 2026-11-11
+    language: es
 open_questions:
     - No weight was published for the hashish, which was seized together with cocaine, so no cannabis weight is recorded.
     - No amount was given for the cash found in a safe and in notes and coins.
@@ -74,21 +79,21 @@ National Police officers dismantled a retail point of sale for narcotics in
 Jerez de la Frontera and arrested two people as the alleged operators of a
 business distributing hashish and cocaine. [@1,2,3] The investigation was carried
 out by the Narcotics Operational Group of the Local Judicial Police Brigade in
-Jerez. [@1,2,3]
+Jerez. [@1,2,3,4]
 
 Investigators found an organised structure that used different properties and
 vehicles to carry out the illicit activity and make detection harder. [@1,2,3] The
 suspects first used an unoccupied building and later a vehicle parked in a
-parking area as points of direct sale to consumers. [@1,2,3] They used their own
+parking area as points of direct sale to consumers. [@1,2,3,4] They used their own
 homes to hide, prepare and store the drugs and the money obtained, and a
-motorcycle to transport and supply the merchandise. [@1,2,3]
+motorcycle to transport and supply the merchandise. [@1,2,3,4]
 
 After identifying the alleged participants and gathering evidence, investigators
 obtained a court warrant for two simultaneous home searches, which were carried
-out on the morning of 5 November 2026. [@1,2,3] During the entries and searches,
+out on the morning of 5 November 2026. [@1,2,3,4] During the entries and searches,
 officers found separate lots of hashish and cocaine, a large amount of cash,
 part of it hidden in a safe and the rest split into notes and coins. [@1,2,3]
 Officers also seized a motorcycle allegedly used in the activity and various
-tools for weighing, preparing and distributing the drugs. [@1,2,3] Once the police
+tools for weighing, preparing and distributing the drugs. [@1,2,3,4] Once the police
 work was finished, the two detainees were taken to National Police premises and
-then placed at the disposal of the competent court. [@1,2,3]
+then placed at the disposal of the competent court. [@1,2,3,4]
