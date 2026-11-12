@@ -129,21 +129,17 @@ sources:
     publisher: Costa Oeste 93
     date: 2026-11-11
     language: pt
-open_questions:
-    - The operation began on Tuesday 10 November with information from the Mato Grosso do Sul military police, and the couple was arrested on the morning of Wednesday 11 November, the date used here; the reports give no time for the stop itself.
-    - The two arrested were identified only by age and sex; no names, hometowns or criminal records were published.
-    - No charge, custody hearing or court outcome beyond the arrest in flagrante and referral to the Federal Police in Guaíra was reported.
-    - The R$ 16,318,000 figure is the Border Police Battalion's estimate of losses to organised crime, while the Receita Federal put the value of the same seizure at about R$ 78 million; neither is a market price confirmed by an independent source.
-    - The accounts do not say where the load was put on the truck.
-    - No laboratory confirmation of the substances was reported, and the weights are those given by the security forces at the scene.
-    - Several of the accounts, including the Receita Federal statement, come from the same security-force operation, so they corroborate the figures without being fully independent reporting.
-    - This account attributes the tip about the Volvo FH 400 bitrem to the Federal Police, while other reports of the same seizure say the information came from the Mato Grosso do Sul military police.
+  - title: BPFron apreende carga de mais de 7,7 toneladas de maconha avaliada em R$ 16,3 milhões
+    url: https://www.radiouniaodetoledo.com.br/noticia/9/487557/bpfron-apreende-carga-de-mais-de-77-toneladas-de-maconha-avaliada-em-r-163-milhoes
+    publisher: Rádio União de Toledo
+    date: 2026-11-11
+    language: pt
 ---
 
 A 30-year-old man and a 20-year-old woman were arrested after officers found
 more than 7.7 tonnes of marijuana and skunk hidden in a maize load on a truck on
 BR-163 near Marechal Cândido Rondon, Paraná. [@1,9,10,11,12,13] The two received voz de
-prisão, an arrest in the act, for drug trafficking. [@1,9,10,11,12,13] Paraná POP reported
+prisão, an arrest in the act, for drug trafficking. [@1,9,10,11,12,13,14] Paraná POP reported
 that the identities of the driver and the passenger were not published. [@6]
 
 The Border Police Battalion, known as BPFRON, carried out the seizure in
@@ -152,21 +148,21 @@ Federal Police's Special Maritime Police Nucleus (NEPOM-PF), the Receita Federal
 customs office in Mundo Novo and the Military Police of Mato Grosso do Sul. [@1,8,9,11,12,13]
 Teams had received information from the Mato Grosso do Sul military police that
 a bitrem truck was heading towards Paraná with a possible drug load. [@1,9,12,13] The truck was being used to transship a load bound for Santa Catarina, the Receita Federal said. [@8] The
-truck was a Volvo FH 400 bitrem carrying maize. [@2,10,13] The man was driving the truck and the woman was travelling as his passenger. [@9,10,11,12,13] Officers found bales of
-narcotics hidden among the maize during the inspection. [@1,9,10,11,12,13]
+truck was a Volvo FH 400 bitrem carrying maize. [@2,10,13] The man was driving the truck and the woman was travelling as his passenger. [@9,10,11,12,13,14] Officers found bales of
+narcotics hidden among the maize during the inspection. [@1,9,10,11,12,13,14]
 
 After weighing, the load came to 7,603 kilograms of pressed marijuana and 178
-kilograms of skunk, 7,781 kilograms of drugs in total. [@1,8,9,10,11,12,13] Skunk is a variety
+kilograms of skunk, 7,781 kilograms of drugs in total. [@1,8,9,10,11,12,13,14] Skunk is a variety
 of cannabis with a higher concentration of THC, the substance responsible for
 the plant's psychoactive effects. [@1,13] The narcotics and the truck used in the
-transport were sent to the Federal Police station in Guaíra. [@1,8,9,10,11,12,13] According to
+transport were sent to the Federal Police station in Guaíra. [@1,8,9,10,11,12,13,14] According to
 the Border Police Battalion, the seizure represents an estimated loss of R$
 16,318,000 to organised crime. [@1,9,12,13] The Receita Federal estimated the value of the seized cannabis at about R$ 78 million. [@8] The action took place within Operação
 Protetor, a joint security-force campaign against drug trafficking in the border
 region. [@1,9,11,12,13]
 
 The incident began on Tuesday 10 November and was concluded on the morning of
-Wednesday 11 November. [@1,10,11,12,13]
+Wednesday 11 November. [@1,10,11,12,13,14]
 
 OETV reported the same total of 7,781 kilograms and named the Federal Police and
 the Receita Federal alongside BPFRON. [@3] Correio do Ar reported the same
