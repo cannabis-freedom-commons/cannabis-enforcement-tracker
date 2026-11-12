@@ -56,26 +56,30 @@ sources:
     publisher: الوكالة الوطنية العراقية للأنباء (نينا)
     date: 2026-11-11
     language: ar
+  - title: شؤون المخدرات تعلن الإطاحة بمتهمين بحوزتهما (1) كغم من الحشيشة في صلاح الدين
+    url: https://www.alrasheedmedia.com/2026/11/11/712458/
+    publisher: قناة الرشيد الفضائية
+    date: 2026-11-11
+    language: ar
 open_questions:
-  - No names or ages were published for the two suspects.
-  - No charges, court date or other case outcome have been reported.
-  - The reports give no town or district within Salah al-Din governorate where the arrest took place.
-  - All four accounts rest on the same statement from the Salah al-Din Drug Affairs Directorate.
+    - No names or ages were published for the two suspects.
+    - No charges, court date or other case outcome have been reported.
+    - The reports give no town or district within Salah al-Din governorate where the arrest took place.
+    - All published accounts rest on the same statement from the Salah al-Din Drug Affairs Directorate.
 ---
 
 Two suspects were arrested in Salah al-Din governorate on 11 November 2026 with
 one kilogram of hashish in their possession, the governorate's Drug Affairs
-Directorate said. [@1] The directorate said its units arrested them on confirmed
+Directorate said. [@1,5] The directorate said its units arrested them on confirmed
 intelligence information, which led to the target being identified and the
-operation being carried out successfully. [@1] Baghdad Today and Observer Iraq,
+operation being carried out successfully. [@1,5] Baghdad Today and Observer Iraq,
 both reporting the directorate's statement, said intelligence work and field
-surveillance led officers to the two men. [@2]
+surveillance led officers to the two men. [@2,5]
 
 The statement gave no names for the two men and no figure beyond the one
 kilogram of hashish. [@1]
 
 Baghdad Today and Observer Iraq said the directorate described the operation as
 part of its strategy of tightening the pressure on drug dealers and traffickers
-and drying up the sources of illegal drug trafficking. [@3] NINA, Iraq's
+and drying up the sources of illegal drug trafficking. [@3,5] NINA, Iraq's
 national news agency, reported the same arrests on the same day. [@4]
-
