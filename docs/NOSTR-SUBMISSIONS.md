@@ -448,7 +448,7 @@ just before a crash, so recovery records its SHA/status without committing again
 SQLite uses WAL, foreign keys, busy timeout, atomic lease claims and fencing tokens. Research
 heartbeats every 30 seconds on a two-minute lease. Technical failures back off and dead-letter
 after eight attempts; configuration waits and daily budget waits do not consume attempts.
-`RESEARCH_TIMEOUT_SECONDS` is 10–1800 (default 900). One research worker runs at a time.
+`RESEARCH_TIMEOUT_SECONDS` is 10–10800 (default 900, 15 min). One research worker runs at a time.
 
 A reservation limit pauses the case as `budget_wait`, with `resume_at` showing the job's next
 scheduled attempt (00:01 UTC after the daily reset). Older receipts incorrectly left at

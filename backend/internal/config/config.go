@@ -235,8 +235,8 @@ func Load() (Config, error) {
 	}
 	var err error
 	seconds, err := strconv.Atoi(env("RESEARCH_TIMEOUT_SECONDS", "900"))
-	if err != nil || seconds < 10 || seconds > 1800 {
-		return c, errors.New("invalid research timeout")
+	if err != nil || seconds < 10 || seconds > 10800 {
+		return c, errors.New("RESEARCH_TIMEOUT_SECONDS must be 10 to 10800 (3 h)")
 	}
 	c.ResearchTimeout = time.Duration(seconds) * time.Second
 	// with web search working, a run spends steps searching and opening sources; 12 was too few to
