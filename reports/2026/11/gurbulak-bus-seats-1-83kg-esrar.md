@@ -94,29 +94,19 @@ sources:
     publisher: Iğdır Haber
     date: 2026-11-09
     language: tr
+  - title: Gürbulak’ta yolcu otobüsünde 1 milyon 647 bin liralık uyuşturucu ele geçirildi
+    url: https://www.yuksekovahalkinsesigazetesi.com/gurbulakta-yolcu-otobusunde-1-milyon-647-bin-liralik-uyusturucu-ele-gecirildi
+    publisher: Yüksekova Halkın Sesi
+    date: 2026-11-11
+    language: tr
 open_questions:
-  - No arrests or detentions are named in either account; the governorship says only that judicial proceedings continue.
-  - Neither account says whether any passenger or the driver was identified, questioned or taken into custody, or what charges are being considered.
-  - The sources do not explain whether the esrar was dried herbal cannabis or pressed resin; the weight is recorded under hashish, the tracker's product label for esrar-type cannabis material.
-  - The value of about 1,647,000 lira is an official street-value estimate for 2026 and is not an exact market price.
-  - Sabah and İhlas Haber Ajansı publish the same statement and figures, so they are not independent accounts; no customs administration or court statement was opened.
-  - Habertürk labels the text as an uncorrected İhlas Haber Ajansı feed item and does not name the authority that issued the statement, so it is not independent of the accounts already cited.
-  - The Habertürk page photo is captioned only with the article headline and credited to no one, so it is not added as media.
-  - This page reproduces the İhlas Haber Ajansı feed text and is not an independent account of the seizure.
-  - It names no authority as the source of the statement, unlike the governorship attribution recorded in other accounts of this event.
-  - Haberport attributes the account to Gürbulak Gümrük Sahası (customs area) officials, while the existing sources cite the Doğubayazıt district governorship; both describe the same seizure and figures.
-  - The Haberport page's only photo is captioned with the article headline and a recap of the seizure, with no credit and no confirmation that it shows the bus or the seized material.
-  - No arrests or detentions are reported; the text says only that judicial proceedings continue.
-  - The page names no authority as the source of the statement and repeats the figures published across Turkish outlets, so it is not an independent account.
-  - The headline rounds the value to '1.6 milyon lira' while the body gives about 1,647,000 lira; the body figure is used.
-  - The page's lead photo is captioned only with the headline and its alt text repeats the headline, so it is not added as media.
-  - This page reproduces the İhlas Haber Ajansı feed text, the same agency account already cited, and names no authority as the source of the statement.
-  - The page carries the İhlas Haber Ajansı (İHA) feed text and names no separate authority, so it is not an independent account.
-  - Haberler attributes the account to unnamed security sources and bylines it to 'Haber Platformu', without naming the customs authority or governorship cited by the other accounts.
-  - Erzurum Gazetesi does not name the authority that issued the account, unlike the governorship attribution recorded in earlier coverage.
-  - The page reproduces the same agency account carried by other outlets and adds no independent confirmation of the weight or value.
-  - No arrests or detentions are named; the text says only that judicial proceedings continue.
-  - No arrests, detentions, suspects or charges are named; the article says only that multi-sided judicial proceedings continue.
+    - No arrests or detentions are reported; the accounts say only that judicial proceedings continue.
+    - It is not known whether the driver or any passenger was identified, questioned or taken into custody, or what charges are being considered.
+    - The accounts do not say whether the esrar was dried herbal cannabis or pressed resin; the weight is recorded as hashish.
+    - The value of about 1,647,000 lira is an official street-value estimate, not an exact market price; one headline rounds it to 1.6 million lira.
+    - The accounts reproduce the same İhlas Haber Ajansı statement, so they do not independently confirm the weight or value.
+    - 'Accounts differ on who issued the statement: some name the Doğubayazıt district governorship, others only customs officials at Gürbulak.'
+    - It is not known at what stage or by whom the drugs were placed on the bus.
 media:
   - kind: photo
     url: https://www.haber365.com/haber/gurbulak-sinir-kapisinda-otobuste-uyusturucu-baskini-16-milyon-lira-degerinde-esrar-ele-gecirildi-480870
@@ -126,13 +116,13 @@ media:
 ---
 
 Officers at the Gürbulak border crossing in Doğubayazıt, Ağrı, sent a bus arriving from Iran for X-ray
-screening under risk analysis on 8 November 2026. [@1,3,4,5,6,7,8,9,10,11] The scan showed suspicious
+screening under risk analysis on 8 November 2026. [@1,3,4,5,6,7,8,9,10,11,12] The scan showed suspicious
 density in some passenger seats, and the bus was searched in detail with special equipment and
 narcotic detector dogs. [@1,4,5,6,9,11]
 
 In metal compartments under the seat cushions, hidden with special fittings and wrapped in black bags,
-officers found 1 kg 830 g of esrar, the Turkish term for cannabis. [@1,2,3,4,5,6,7,8,9,11] Authorities put
-its market value at about 1,647,000 Turkish lira. [@1,2,3,4,5,7,8,9]
+officers found 1 kg 830 g of esrar, the Turkish term for cannabis. [@1,2,3,4,5,6,7,8,9,11,12] Authorities put
+its market value at about 1,647,000 Turkish lira. [@1,2,3,4,5,7,8,9,12]
 
 The account came in a statement by the Doğubayazıt district governorship, which said judicial
 proceedings were continuing [@1,3,4] and that customs inspections at Gürbulak would go on as part of
