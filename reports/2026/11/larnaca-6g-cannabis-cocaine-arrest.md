@@ -2,32 +2,39 @@
 added_at_source: git
 added_at: "2026-11-03T07:28:53.000Z"
 code: PZTHH0
-date: 2026-11-02
+date: 2026-11-11
 country: cy
 place: Larnaca district
 coordinates: [34.9167, 33.6333]
 precision: district
-type: arrest
-also: [seizure]
-title: 32-year-old held in Larnaca as 6 g cannabis found in cocaine bust
-summary: >-
-  Police in Larnaca district arrested a 32-year-old man after finding about 1.03 kg of cocaine in his car and two hidden containers, plus about six grams of cannabis and resin at his home. He was held for a Larnaca court remand hearing as drug-enforcement officers continued a trafficking investigation.
+type: prosecution
+also: [seizure, arrest]
+title: Larnaca 32-year-old to stand trial over 6 g cannabis and 1.03 kg cocaine
+summary: A 32-year-old man will stand trial at the Larnaca Permanent Criminal Court on 30 November 2026 over cocaine and cannabis seized in searches of his car, home and nearby ground. The court ordered him held until trial; police had seized six grams of cannabis, a small amount of cannabis resin, about 1.03 kg of cocaine and €21,100 in cash.
 figures:
-  arrested: 1
-  kg_seized: 0.006
+    arrested: 1
+    kg_seized: 0.006
+    charged: 1
 details:
-  activity: [trafficking]
-  agency_types: [police]
-  case_stage: investigation
-  products: [{product: hashish, kg: 0.006}]
-  setting: [home]
+    activity: [trafficking]
+    agency_types: [police, anti-narcotics]
+    case_stage: charged
+    products:
+        - {product: flower, kg: 0.006}
+    setting: [home]
+    charges: [drug trafficking]
+    date_precision: exact
+    region: Larnaca
 data_sources:
-  details.activity: [1, 5, 7, 10, 3, 6]
-  details.agency_types: [1, 3, 6, 7, 8, 9]
-  details.case_stage: [2, 4, 7, 8, 9, 11]
-  details.products: [1, 9, 11, 12, 3, 4]
-  details.setting: [1, 3, 6, 7, 8, 9]
-  figures.arrested: [1, 4, 5, 10, 11, 12]
+    details.activity: [15]
+    details.agency_types: [15]
+    details.case_stage: [16]
+    details.products: [16]
+    details.setting: [16]
+    figures.arrested: [15]
+    details.charges: [15]
+    figures.charged: [16]
+    figures.kg_seized: [16]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ab5fe8f0490ee45375ad9d5fec03b458
@@ -97,17 +104,22 @@ sources:
     url: https://en.philenews.com/local/mazotos-cocaine-suspect-network-remanded-eight-days
     publisher: Philenews
     date: 2026-11-03
+  - title: Man, 32, faces trial over 1kg cocaine and cannabis haul in Larnaca
+    url: https://cyprus-mail.com/2026/11/11/man-32-faces-trial-over-1kg-cocaine-and-cannabis-haul-in-larnaca
+    publisher: Cyprus Mail
+    date: 2026-11-11
+  - title: Παραπέμφθηκε σε δίκη ο 32χρονος που έκρυβε ένα κιλό κοκαΐνη σε χωράφι στη Λάρνακα-Παραμένει υπόδικος
+    url: https://www.reporter.com.cy/article/1483739/parapemfthike-se-diki-o-32chronos-poy-ekrybe-ena-kilo-kokaini-se-chorafi-sti-larnaka-paramenei-ypodikos
+    publisher: Reporter
+    date: 2026-11-11
+    language: el
 open_questions:
-  - The articles give only the publication date of 3 November 2026 and say the arrest was on Monday; 2 November 2026 is used as the incident date by inference.
-  - No weight was published for the small amount of cannabis resin, so it is excluded from the cannabis weight figure.
-  - Cocaine quantities totalling about 1.03 kg are not counted as cannabis and are excluded from figures.
-  - The 21,100 euros is described as cash believed to come from illegal activity, not as a valuation of the drugs, so no value figure is recorded.
-  - The Cyprus Mail page image is labelled File photo and is excluded because it does not depict this event.
-  - 'Left out, as its quotation was not found in Cyprus Mail: In total, police seized approximately 1.03kg of cocaine, along with the other substances, cash, equipment, 16 firecrackers and four mobile phones as evidence for further examination.'
-  - The article gives only its publication date of 3 November 2026 and says the stop was on Monday, so the 2 November 2026 arrest date still relies on inference from the earlier sources.
-  - 'Left out, as its quotation was not found in Reporter: The 32-year-old man was remanded for eight days on Tuesday by Larnaca district court.'
-  - The article also reports national seizure totals and drug-use trends, which belong to the CFI history and are left out of this enforcement report.
-  - 'Left out, as its quotation was not found in Philenews: The 32-year-old man was remanded for eight days on Tuesday by Larnaca district court.'
+    - No weight was published for the cannabis resin, so the six grams of cannabis is the only cannabis weight recorded.
+    - The 1.03 kg total covers cocaine only and is not counted as cannabis.
+    - The exact charges to be heard at the Permanent Criminal Court have not been published beyond drug trafficking.
+    - It is not stated whether the €21,100 in cash is alleged to be proceeds of the cannabis or the cocaine.
+    - The outcome of the police inquiry into the suspect's financial records is not known.
+    - The suspect has not been named in the reports.
 ---
 
 Police arrested a 32-year-old man in Larnaca district on Monday after searches
@@ -128,15 +140,15 @@ stop, they found another plastic container holding two bags of cocaine with a
 combined gross weight of 100 grams. [@1,9,11,12] A search of his home turned up a glass
 jar containing about eight grams of cocaine, four packages holding about six
 grams of cannabis, a small amount of cannabis resin, precision scales, a grinder
-with traces of cannabis and the 21,100 euros. [@1,3,4,5,6,7,8,9,10,11,12] The home search account is
+with traces of cannabis and the 21,100 euros. [@1,3,4,5,6,7,8,9,10,11,12,16] The home search account is
 corroborated by a second report that lists approximately eight grammes of
 cocaine, six grammes of cannabis in four packages, a small quantity of cannabis
 resin, a precision scale, a grinder with traces of cannabis and cash believed to
 be proceeds of illegal activities. [@2]
 
-The 32-year-old man was remanded for eight days on Tuesday by Larnaca district court. [@4,7,8,9,11,12]
+The 32-year-old man was remanded for eight days on Tuesday by Larnaca district court. [@4,7,8,9,11,12,15] The court ordered him to remain in custody until the trial begins. [@16] After his eight-day remand order expired, Larnaca District Court committed him for trial before the Permanent Criminal Court of Larnaca on 30 November 2026. [@16] Police said the 32-year-old had been brought before the Larnaca criminal court on drug trafficking charges. [@15]
 
-Police also seized four mobile phones. [@9,11,12,13]
+Police also seized four mobile phones. [@9,11,12,13,15]
 
 Police said the 32-year-old Greek Cypriot was arrested after surveillance and is believed to be a member of a drug-trafficking criminal network. [@11,12] Police said they will also investigate his financial records. [@11,12]
 
