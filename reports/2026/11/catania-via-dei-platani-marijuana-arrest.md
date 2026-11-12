@@ -74,36 +74,37 @@ sources:
     publisher: GrandangoloAgrigento
     date: 2026-11-09
     language: it
+  - title: Un chilo di cocaina e marijuana nel bagagliaio dell’auto, arrestato 39enne
+    url: https://www.canicattiweb.com/2026/11/12/un-chilo-di-cocaina-e-marijuana-nel-bagagliaio-dellauto-arrestato-39enne/
+    publisher: Canicatti Web Notizie
+    date: 2026-11-12
+    language: it
 open_questions:
-  - The accounts give no separate date for the stop and arrest; 9 November 2026 is their publication date and is used as the incident date.
-  - The marijuana is described only as marijuana, with no laboratory confirmation reported.
-  - No charging decision, trial date or outcome was reported; the man was held in pre-trial detention in prison.
-  - Only 8 grams of marijuana is attributed separately; the remaining kilograms in the car are cocaine and are excluded from the cannabis figures.
-  - CataniaToday's headline figure of about 1.5 kilograms of drugs combines cocaine and marijuana and is not split in its text.
-  - CataniaToday and Etna News 24 both publish the same Carabinieri handout image, so one photo entry is listed from CataniaToday, which credits it to the Carabinieri.
-  - Left out agencies, as no supporting quotation was given.
-  - Nuovo Sud gives no separate date for the stop; 9 November 2026 is its publication date.
-  - Nuovo Sud describes the man as previously convicted, consistent with MeridioNews but still unverified beyond the outlets' accounts.
-  - GrandangoloAgrigento's headline says the drugs were in the boot ('nel bagagliaio'), while its text and the other accounts place the marijuana in a bag on the seat and the cocaine in the rear bonnet panel.
-  - The page gives no separate date for the stop and arrest; 9 November 2026 is its publication date.
+    - No account gives a separate date for the stop and arrest; 9 November 2026 is their publication date and is used as the incident date.
+    - The marijuana is described only as marijuana, with no laboratory confirmation reported.
+    - No charging decision, trial date or outcome was reported; the man was held in pre-trial detention in prison.
+    - Only 8 grams of marijuana is attributed separately; the remaining kilograms in the car are cocaine and are excluded from the cannabis figures.
+    - CataniaToday's headline figure of about 1.5 kilograms of drugs combines cocaine and marijuana and is not split in its text.
+    - Some headlines, including GrandangoloAgrigento's and Canicatti Web's, say the drugs were in the boot ('nel bagagliaio'), while their texts place the marijuana in a bag on the seat and the cocaine in the bonnet panel.
+    - The man's previous convictions are reported by the outlets but not detailed.
 ---
 
 Carabinieri from the investigative unit of the Catania provincial command
 arrested a 39-year-old man from Catania in the San Giorgio district on suspicion
-of possessing drugs for sale. [@1,4,5,6] Officers noticed him driving a small car in
+of possessing drugs for sale. [@1,4,5,6,7] Officers noticed him driving a small car in
 via dei Platani and, suspicious of his behaviour while watching him, followed
-him discreetly before stopping the vehicle. [@1,4,6]
+him discreetly before stopping the vehicle. [@1,4,6,7]
 
 A search of the man and the car found 8 grams of marijuana in a shoulder bag
-left on the seat. [@1,4,5,6] A block of cocaine weighing more than 1.2 kilograms was
-hidden in the bonnet panel, and the drugs were seized. [@1,4,5,6]
+left on the seat. [@1,4,5,6,7] A block of cocaine weighing more than 1.2 kilograms was
+hidden in the bonnet panel, and the drugs were seized. [@1,4,5,6,7]
 
 He was placed in pre-trial detention in prison at the disposal of the judicial
-authorities. [@1,4,5,6]
+authorities. [@1,4,5,6,7]
 
-MeridioNews reported that the arrested man had previous convictions. [@2]
+MeridioNews reported that the arrested man had previous convictions. [@2,7]
 
 CataniaToday put the total amount of drugs in the car at about 1.5 kilograms,
 roughly the cocaine and marijuana together. [@3]
 
-The outlet reported that the man was a previously convicted offender from Catania. [@6]
+The outlet reported that the man was a previously convicted offender from Catania. [@6,7]
