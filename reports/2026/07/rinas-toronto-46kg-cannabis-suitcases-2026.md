@@ -78,6 +78,11 @@ sources:
     publisher: 温哥华港湾（BCbay.com）
     date: 2026-11-11
     language: zh
+  - title: 恐怖:加拿大男子出国下飞机就被捕,面临15年监禁
+    url: https://www.bcbay.com/news/2026/11/11/1043821.html
+    publisher: 温哥华港湾（BCbay.com）
+    date: 2026-11-11
+    language: zh
 open_questions:
     - Police said the two suitcases held about 46 kilograms, valued at about 250,000 euros; CTV News later reported 23.15 kilograms in one bag and 23 kilograms in another, worth almost C$400,000.
     - The July police notice said two women were prosecuted while at large, while CTV News later said the other Canadian passenger was released without charges.
@@ -102,12 +107,12 @@ flight was scanned, then searched in the presence of the luggage owners. [@3]
 
 Gjoni, a Toronto businessman on an Air Transat flight with his wife, told CTV
 News that the bag officers ordered him to collect was not his and held 23.15
-kilograms of cannabis. [@1] CTV's W5 reported that hospital records in Canada and Albania confirmed she was pregnant and had miscarried. [@6] His pregnant wife was also taken into police custody. [@6] He said Albanian police held him for four days in
-solitary confinement, then released him on bail. [@1] He had to report to police in Tirana, first monthly and later every four months. [@6] CTV News reported that
+kilograms of cannabis. [@1,7] CTV's W5 reported that hospital records in Canada and Albania confirmed she was pregnant and had miscarried. [@6,7] His pregnant wife was also taken into police custody. [@6,7] He said Albanian police held him for four days in
+solitary confinement, then released him on bail. [@1,7] His Albanian anti-corruption lawyer, Ndue Pjetra, submitted W5's earlier reports on baggage-tag switches to a court and argued that criminals had used an airport loophole to plant the bag. [@7] He had to report to police in Tirana, first monthly and later every four months. [@6,7] CTV News reported that
 another Canadian passenger on the same flight was detained because her tag was
 on a second suitcase with 23 kilograms of cannabis, and that she was released
-without charges. [@1,6] Albanian police told CTV News the cannabis was worth
-almost C$400,000. [@1,6] His trial is expected to begin in early 2027, and he
-faces up to 15 years in prison. [@1,6] In an October email, the RCMP wrote that it
+without charges. [@1,6,7] Albanian police told CTV News the cannabis was worth
+almost C$400,000. [@1,6,7] His trial is expected to begin in early 2027, and he
+faces up to 15 years in prison. [@1,6,7] An Air Transat spokesperson said the airline took the allegations of interference with its baggage system seriously, had cooperated with the investigation and given authorities the operational information it had. [@7] In an October email, the RCMP wrote that it
 believed he was the victim of a bag-tag switch and that the couple had checked
-in only the four bags they later collected. [@1]
+in only the four bags they later collected. [@1,7]
