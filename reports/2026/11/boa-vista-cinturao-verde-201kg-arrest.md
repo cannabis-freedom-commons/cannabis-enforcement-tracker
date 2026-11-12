@@ -63,41 +63,48 @@ sources:
     publisher: g1
     date: 2026-11-11
     language: pt
+  - title: Mais de 200 kg de haxixe, dry e ICE que seriam enviados ao Rio de Janeiro são apreendidos em Roraima
+    url: https://www.folhabv.com.br/policia/mais-de-200-kg-de-haxixe-dry-e-ice-que-seriam-enviados-ao-rio-de-janeiro-sao-apreendidos-em-roraima/
+    publisher: Folha BV
+    date: 2026-11-11
+    language: pt
 open_questions:
-  - The body spells the son's name Ruan Junio Duarte Ribeiro, while the photo caption spells it Juan Junio Duarte Ribeiro.
-  - No weight was published for hashish, ICE or cannabis oil separately, so the 201.5 kg total is recorded as cannabis derivatives without a product split.
-  - Police described the entry from neighbouring countries as a suspicion and named no crossing or country.
-  - No custody hearing or court outcome after the booking was reported.
-  - The account rests on one g1 report of the Civil Police operation.
-  - ICE is described only as a cannabis derivative known as maconha de playboy; no laboratory identification was published.
+    - The body spells the son's name Ruan Junio Duarte Ribeiro, while the photo caption spells it Juan Junio Duarte Ribeiro.
+    - No weight was published for hashish, ICE or cannabis oil separately, so the 201.5 kg total is recorded as cannabis derivatives without a product split.
+    - Police described the entry from neighbouring countries as a suspicion and named no crossing or country.
+    - No custody hearing or court outcome after the booking was reported.
+    - ICE is described only as a cannabis derivative known as maconha de playboy; no laboratory identification was published.
+    - Folha BV does not give the day of the seizure, only that the investigation began on 8 November and the case was presented on 11 November.
+    - Folha BV attributes about R$20,000 to one of the arrested men for storage and forwarding in Boa Vista, without naming Domingos Gomes Ribeiro or calling it transport.
+    - Folha BV says the investigation does not indicate the drugs left Amazonas, which differs from the account that intelligence found the suspects had left Amazonas to collect the load.
+    - Folha BV does not say the two women were released; it says they were questioned and denied knowing about the drugs.
 ---
 
 Civil Police officers arrested three men in flagrante on Tuesday 10 November
 2026 in a house in the Cinturão Verde neighbourhood, in the west of Boa Vista,
 with 201.5 kilograms of drugs the police described as cannabis derivatives. [@1]
 The load included hashish and a product called ICE, both known locally as
-maconha de playboy, and cannabis oils. [@1] The men were Domingos Gomes Ribeiro,
+maconha de playboy, and cannabis oils. [@1] He said one solid, high-THC material still had no known name, and a delegate of the Rio de Janeiro Civil Police told him that presentation had not been identified in seizures known to that unit. [@2] The seizure also included a product called dry, and cannabis oils and concentrates in liquid, paste and solid forms. [@2] The men were Domingos Gomes Ribeiro,
 49, his son Ruan Junio Duarte Ribeiro, 25, and Welligton Cunha da Silva, 36.
-[@1] They were in a house in Cinturão Verde, in the west of the capital. [@1]
+[@1] They were in a house in Cinturão Verde, in the west of the capital. [@1] Officers moved in when a white Hilux pickup entered the house, and the driver, before they went inside, said there were drugs there and that he was responsible for forwarding them. [@2] The material was found in a rented house in Cinturão Verde, where police said it was stored temporarily before being sent on to other states. [@2]
 Two women who were also in the house were released because, police said, there
-was not enough evidence to arrest them in flagrante at that moment. [@1]
+was not enough evidence to arrest them in flagrante at that moment. [@1] The two women told the delegate they did not know the drugs were there and had stayed in the room out of fear of the movement in the house. [@2]
 
 The drugs were spread through travel suitcases and stored in vacuum packaging,
-in different shapes and consistencies. [@1] The Civil Police said five
+in different shapes and consistencies. [@1] Investigators found four boxes in a bedroom, with suitcases and plastic packages inside, and some packages mixed with coffee powder, which the delegate said was meant to hide the smell. [@2] The Civil Police said five
 variations of marijuana, with different concentrations, were seized, and valued
 the load at R$15 million. [@1] Delegate Júlio Cesar da Rocha, head of the
 Delegacia de Repressão a Entorpecentes (DRE), estimated a kilogram at between
 R$60,000 and R$70,000 because of a high concentration of THC, the active
-compound in cannabis. [@1] Police suspect the drugs entered Brazil from
+compound in cannabis. [@1,2] Delegate Júlio César said a seizure of this kind of material, in this quantity, was unprecedented in the state. [@2] Police suspect the drugs entered Brazil from
 neighbouring countries and were meant for a wealthy market. [@1]
 
 According to police, Domingos said the plan was to take the drugs to Rio de
-Janeiro and that he would be paid about R$20,000 for the transport. [@1] Police
-are checking whether the group worked for a criminal faction in Rio. [@1] The
+Janeiro and that he would be paid about R$20,000 for the transport. [@1] Police are working on the hypothesis that after Rio de Janeiro the drugs could go abroad, and said the exact origin and final destination were not confirmed. [@2] Police
+are checking whether the group worked for a criminal faction in Rio. [@1] The arrested men denied links to criminal organisations, the delegate said, while police still investigate that possibility and look for the people who financed and organised the operation. [@2] The
 investigation began on Sunday 8 November after the intelligence unit found that
-the suspects had left Amazonas to collect the load in Roraima. [@1] The three
+the suspects had left Amazonas to collect the load in Roraima. [@1] Although the five people taken in are from Amazonas, the delegate said the investigation does not indicate that the drugs left that state; the suspicion is that the group travelled to Boa Vista to receive and temporarily store the load. [@2] The investigation began on Sunday 8 November after an anonymous tip to the Civil Police intelligence unit. [@2] The three
 men were booked for drug trafficking and for association for trafficking. [@1]
 The DRE is leading the case, with support from the Departamento de Narcóticos
-(Denarc). [@1] Domingos is also under investigation in a separate case about
+(Denarc). [@1] The case was presented to the press on Wednesday 11 November at the Delegacia-Geral, with delegates Júlio César da Rocha and Simone Arruda. [@2] Domingos is also under investigation in a separate case about
 illegal mining. [@1]
-
