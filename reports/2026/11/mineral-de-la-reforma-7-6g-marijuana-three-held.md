@@ -39,6 +39,11 @@ media:
     media_url: https://lajornadahidalgo.com/resizer/88ljhAaN0yb3wabN40vrfRRWu24=/786x442/filters:format(webp)/https://wp.lajornada-hidalgo.prod.andes.news/wp-content/uploads/2026/11/detienen-a-4-en-mineral-de-la-reforma.jpg
     publisher: La Jornada Hidalgo
     caption: Arrests and seizure of suspected drugs during the police operations in Mineral de la Reforma, published with the report on the four detainees. No photo credit given.
+  - kind: photo
+    url: https://criteriohidalgo.com/noticias/hidalgo/4-detenidos-en-mineral-de-la-reforma-uno-de-ellos-era-profugo-de-la-justicia-desde-2017
+    media_url: https://cdn-cubimetrix.sfo3.cdn.digitaloceanspaces.com/uploads/2026/11/El-operativo-Mineral-Seguro-permitio-asegurar-presuntas-sustancias-ilicitas-y-un-arma-artesanal-1024x683.jpg
+    publisher: Criterio Hidalgo
+    caption: 'Suspected illicit substances and a handmade firearm seized in the Mineral Seguro operation in Mineral de la Reforma. Photo: Especial'
 status: verified
 created_by_model: alibaba-token-plan/qwen4-max-preview
 submission: ff6e9d22424a5b9764871327f47ec6b8
@@ -59,6 +64,11 @@ sources:
     publisher: Effetá
     date: 2026-11-11
     language: es
+  - title: 4 detenidos en Mineral de la Reforma; uno de ellos era prófugo de la justicia desde 2017
+    url: https://criteriohidalgo.com/noticias/hidalgo/4-detenidos-en-mineral-de-la-reforma-uno-de-ellos-era-profugo-de-la-justicia-desde-2017
+    publisher: Criterio Hidalgo
+    date: 2026-11-11
+    language: es
 open_questions:
   - The accounts give no separate date for the interventions; 11 November 2026 is the publication date and is used as the incident date.
   - The marijuana is described as suspected (presunta); no laboratory confirmation or forensic result was reported.
@@ -69,22 +79,21 @@ open_questions:
 ---
 
 Municipal police detained three people in the Campestre Villas del Álamo
-neighbourhood during the Mineral Seguro operation. [@1] The stop took place on
-calle Tabachines, where officers said the three were behaving unusually. [@1]
+neighbourhood during the Mineral Seguro operation. [@1,4] The stop took place on
+calle Tabachines, where officers said the three were behaving unusually. [@1,4]
 Police identified the detainees as L. L. G., 20, P. R. V., 36, and V. L. Ch.,
-42. [@1]
+42. [@1,4]
 
 L. L. G. had two bags of suspected marijuana, three of cristal — the local name
-for crystal methamphetamine — and a notebook with names and phone numbers. [@3]
+for crystal methamphetamine — and a notebook with names and phone numbers. [@3,4]
 P. R. V. carried a homemade firearm, 11 bags of cristal and three of marijuana.
-[@3] V. L. Ch. had three bags of suspected marijuana, seven of a substance
-similar to cristal and a gram scale. [@2] In total, the authorities reported
+[@3,4] Officers also reported two .380 cartridges and one additional usable cartridge of the same calibre with P. R. V. [@4] V. L. Ch. had three bags of suspected marijuana, seven of a substance
+similar to cristal and a gram scale. [@2,4] In total, the authorities reported
 seizing eight bags of marijuana weighing 7.6 grams and 21 bags of cristal
-weighing 21 grams. [@1]
+weighing 21 grams. [@1,4]
 
 The three detainees and the seized items were placed at the disposal of the
 Ministerio Público, the public prosecutor, which will determine their legal
-situation and continue the investigation. [@1] The municipal Secretaría de
+situation and continue the investigation. [@1,4] The municipal Secretaría de
 Seguridad Ciudadana carried out the detentions in Mineral de la Reforma as part
-of its surveillance and crime-prevention actions. [@1]
-
+of its surveillance and crime-prevention actions. [@1,4]
