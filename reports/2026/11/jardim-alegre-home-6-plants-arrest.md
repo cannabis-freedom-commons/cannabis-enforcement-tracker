@@ -60,12 +60,18 @@ sources:
     publisher: Ivan Maldonado Notícias
     date: 2026-11-11
     language: pt
+  - title: ROTAM prende homem por tráfico, apreende drogas e encontra estufa com pés de maconha em Jardim Alegre
+    url: https://ivaipora.online/rotam-prende-homem-por-trafico-apreende-drogas-e-encontra-estufa-com-pes-de-maconha-em-jardim-alegre/
+    publisher: Ivaipora Online
+    date: 2026-11-11
+    language: pt
 open_questions:
-  - The suspect was not named and no age was published.
-  - No charge, hearing or court outcome was reported beyond the suspect remaining at the disposal of the courts.
-  - Whether the second person approached was detained or released was not reported.
-  - The article gives no laboratory confirmation for the seized plants and drug.
-  - The published photo caption only repeats the headline and does not confirm what it shows, so no photo is listed.
+    - The suspect was not named and no age was published.
+    - No charge, hearing or court outcome was reported beyond the suspect remaining at the disposal of the courts.
+    - Whether the second person approached was detained or released was not reported.
+    - The reports give no laboratory confirmation for the seized plants and drug.
+    - Reports differ on the time of the police action, giving about 16:40 and 17:43.
+    - Whether the six plants were grown in a greenhouse or only in pots was not clearly described.
 media:
   - kind: photo
     url: https://ivanmaldonado.com.br/rotam-prende-homem-apreende-maconha-jardim-alegre/
@@ -76,13 +82,13 @@ media:
 
 Acting on a drug-trafficking tip, a ROTAM team stopped suspects in the Conjunto
 João Pavan in Jardim Alegre on the afternoon of Tuesday 10 November, with the
-incident recorded at about 16:40. [@1,2,3] Military Police approached two suspects
-and seized two grams of maconha and cash from one of them. [@1,2,3] Officers then
+incident recorded at about 16:40. [@1,2,3] The approach took place on Rua Polônia after an anonymous tip. [@4] Military Police approached two suspects
+and seized two grams of maconha and cash from one of them. [@1,2,3,4] Officers then
 searched that man's home and found six maconha plants grown in pots and about
-82.5 grams of the same drug. [@1,2,3]
+82.5 grams of the same drug. [@1,2,3,4]
 
 At the house the police also seized a precision scale, inputs used to prepare
-and package drugs, and notebooks with trafficking notes. [@1,3] The operation
+and package drugs, and notebooks with trafficking notes. [@1,3,4] The operation
 totalled 84.5 grams of seized maconha, including a small brick and three
 portions in zip-lock bags, plus a mobile phone and R$12 in cash. [@1,3] The
 suspect was arrested and taken to the Civil Police central flagrant unit, where
