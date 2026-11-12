@@ -67,6 +67,11 @@ sources:
     publisher: Alegrete Tudo
     date: 2026-11-11
     language: pt
+  - title: Mais de 117 quilos de maconha são apreendidos em pet shop
+    url: https://santoaugustourgente.com.br/destaque/mais-de-117-quilos-de-maconha-sao-apreendidos-em-pet-shop/
+    publisher: Santo Augusto Urgente
+    date: 2026-11-11
+    language: pt
 open_questions:
   - Terra and g1 reported 117 kilograms valued at about R$ 1 million, while Alegrete Tudo, citing the civil police, reported 117.8 kilograms valued at more than R$ 1 million.
   - Alegrete Tudo said the man was taken to the ready-response police station in Uruguaiana and would later go to the state modular prison, while Terra and g1 said he had already been transferred there.
@@ -76,23 +81,22 @@ open_questions:
 
 A 34-year-old businessman was arrested in flagrante on the night of Tuesday 10
 November 2026 in Alegrete, in the Fronteira Oeste of Rio Grande do Sul, after
-police found marijuana stored in a pet shop he owned. [@1] The raid followed
+police found marijuana stored in a pet shop he owned. [@1,4] The raid followed
 investigations coordinated by the Delegacia de Repressão às Ações Criminosas
 Organizadas (Draco) of Uruguaiana, the civil police unit that targets organised
-crime. [@1] Alegrete Tudo named delegate Nilson de Carvalho as the officer
+crime. [@1,4] Alegrete Tudo named delegate Nilson de Carvalho as the officer
 coordinating the inquiry. [@3]
 
 The marijuana was in a room attached to the shop in the Macedo neighbourhood,
 which investigators described as a storage point for distribution in the region.
 [@1] Alegrete Tudo placed the shop in the Macedo neighbourhood of Alegrete. [@3]
-The load was split into 187 pressed bricks. [@1] Terra reported 117 kilograms,
+The load was split into 187 pressed bricks. [@1,4] Terra reported 117 kilograms,
 which the security forces valued at about R$ 1 million in losses to organised
 crime. [@1] g1 also reported that officers seized 117 kilograms, with an
 estimated value of R$ 1 million. [@2] Alegrete Tudo, citing the civil police,
 reported 117.8 kilograms valued at more than R$ 1 million. [@3]
 
-The owner had no previous police record. [@1] He was booked in flagrante for
-drug trafficking. [@1] After the formalities he was transferred to the
+The owner had no previous police record. [@1,4] He was booked in flagrante for
+drug trafficking. [@1,4] After the formalities he was transferred to the
 Penitenciária Modulada Estadual de Uruguaiana, where he remained at the disposal
-of the courts. [@1]
-
+of the courts. [@1,4]
