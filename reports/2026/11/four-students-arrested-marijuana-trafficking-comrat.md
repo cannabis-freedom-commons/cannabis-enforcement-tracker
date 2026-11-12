@@ -71,16 +71,27 @@ sources:
     publisher: Deschide.md
     date: 2026-11-11
     language: ro
+  - title: /ВИДЕО/ В Кишиневе задержали четверых студентов по подозрению в торговле наркотиками
+    url: https://tv8.md/ru/2026/11/11/video-v-kishineve-zaderzhali-chetverikh-studentov-po-podozreniyu-v-torgovle-narkotikami/312380
+    publisher: TV8.md
+    date: 2026-11-11
+    language: ru
 open_questions:
-  - Deschide.md does not say the 19-year-old man and the 21-year-old woman were detained in Comrat, while the other accounts used in the report place that arrest there.
-  - Deschide.md gives the possible prison term as up to 17 years, while the other accounts give 15 to 17 years.
+    - 'Accounts differ on where the four students were detained: TV8 reports a detention in Chișinău, while other accounts say two suspects were detained in Comrat.'
+    - Deschide.md gives the possible prison term as up to 17 years, while the other accounts give 15 to 17 years.
+media:
+  - kind: video
+    url: https://tv8.md/ru/2026/11/11/video-v-kishineve-zaderzhali-chetverikh-studentov-po-podozreniyu-v-torgovle-narkotikami/312380
+    media_url: https://tv8.md/resources/2026/11/11/178ed311-05fa-441d-b07f-699f5990f75f_DROGURITINERIru16x9.mp4
+    publisher: TV8.md
+    caption: 'TV8''s video report on the detention of four Chisinau university students suspected of selling marijuana to classmates. Video: TV8.md'
 ---
 
 Four young people, students in Chisinau and originally from southern Moldova,
 were detained in a drug-trafficking case after allegedly selling marijuana to
-fellow students and close acquaintances. [@1,4,5,6] The suspects were three young men
+fellow students and close acquaintances. [@1,4,5,6,9] The suspects were three young men
 and one young woman aged 19 to 22. [@2,5,6] The four suspects were placed in
-preventive arrest for 30 days. [@1,5,7,8]
+preventive arrest for 30 days. [@1,5,7,8,9]
 
 Police say officers of the Anti-Drug Directorate and criminal investigators of
 the National Investigation Inspectorate documented the group's activity over two
