@@ -90,30 +90,29 @@ sources:
     url: https://diariodealicante.net/plantacion-marihuana-la-nucia/
     publisher: Diario de Alicante
     date: 2026-11-10
-open_questions:
-  - No separate date was published for the raid or arrest; 10 November 2026 is the publication date and is used as the incident date.
-  - The weight of the seized cannabis buds is reported only as an estimate of around 38 kilograms, and no street value estimate was published.
-  - The suspect was not named and no formal indictment, trial date or final court outcome has been reported.
-  - Europa Press, The Leader and Diario de Alicante report that the Villajoyosa judge remanded the man in custody, whereas elperiodic.com reports only that he was placed at the court's disposal.
-  - All cited accounts are based on a National Police press release rather than independent court or witness reporting.
+  - title: 'El fuerte olor a marihuana destapa una plantación en un chalé de La Nucía: 200 plantas, 38 kilos y un detenido en prisión'
+    url: https://dsalicante.com/sucesos-en-alicante/plantacion-marihuana-la-nucia-200-plantas-38-kilos/
+    publisher: DSAlicante.com
+    date: 2026-11-11
+    language: es
 ---
 
 Spain’s National Police dismantled an indoor cannabis grow in a house in La
-Nucía and arrested the 47-year-old man who lived there. [@1,3,4,5,6] Police believe the
-resident installed and ran the growing operation himself. [@1,3,4,5,6] The suspect was
+Nucía and arrested the 47-year-old man who lived there. [@1,3,4,5,6,7] Police believe the
+resident installed and ran the growing operation himself. [@1,3,4,5,6,7] The suspect was
 brought before the duty investigating court in Villajoyosa, where a judge
-ordered him remanded in custody. [@1,3,5,6]
+ordered him remanded in custody. [@1,3,5,6,7]
 
 During a court-authorised search, officers seized 200 cannabis plants and around
-38kg of cannabis buds. [@1,3,4,5,6] Officers also seized an air revolver, €300 in cash,
-three mobile phones and two computers. [@1,3,4,5,6] They also found a hydroponic system
-used to grow the plants indoors. [@1,3,4,5,6] Europa Press gives the same counts: 200
+38kg of cannabis buds. [@1,3,4,5,6,7] Officers also seized an air revolver, €300 in cash,
+three mobile phones and two computers. [@1,3,4,5,6,7] They also found a hydroponic system
+used to grow the plants indoors. [@1,3,4,5,6,7] Europa Press gives the same counts: 200
 marijuana plants, about 38 kilos of buds, an air-compressed revolver, 300 euros
 in small notes, three mobile phones and two computers. [@2]
 
 Officers from Benidorm began investigating after reports of a strong smell of
-cannabis coming from the property. [@1,4,5,6] The investigation was run by the
+cannabis coming from the property. [@1,4,5,6,7] The investigation was run by the
 Judicial Police Brigade of the Benidorm police station, focused on the area
-around the house. [@2,3,4,5,6] Technicians from the electricity supplier confirmed the
-grow was powered through an illegal connection to the mains. [@1,3,4,5,6] The man was
-held on suspicion of drug trafficking and electricity fraud. [@2,3,4,5,6]
+around the house. [@2,3,4,5,6,7] Technicians from the electricity supplier confirmed the
+grow was powered through an illegal connection to the mains. [@1,3,4,5,6,7] The man was
+held on suspicion of drug trafficking and electricity fraud. [@2,3,4,5,6,7]
