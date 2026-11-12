@@ -96,21 +96,29 @@ sources:
     publisher: TV8.md
     date: 2026-11-11
     language: ro
+  - title: Noi detalii despre șoferul care a provocat accidentul mortal de pe Grigore Vieru. Figurează în mai multe cauze penale, inclusiv pentru trafic de droguri
+    url: https://www.deschide.md/noi-detalii-despre-soferul-care-a-provocat-accidentul-mortal-de-pe-grigore-vieru-figureaza-in-mai-multe-cauze-penale-inclusiv-pentru-trafic-de-droguri
+    publisher: Deschide.md
+    date: 2026-11-11
+    language: ro
+open_questions:
+    - No substance, quantity or place was published for the earlier drug-circulation case, so it cannot be recorded as a cannabis seizure.
+    - The outcome of the drug case sent to court in 2024 and of the investigation into the fatal crash is not yet known.
 ---
 
 A 25-year-old man driving a Ford hit two pedestrians on a crossing on Grigore
-Vieru Boulevard in Chișinău on the evening of 10 November 2026. [@1,5,6,7,8] The press service of the General Police Inspectorate said the crash happened in the Rîșcani sector of Chișinău. [@9] The two pedestrians were crossing the street legally. [@7,8] A woman of
+Vieru Boulevard in Chișinău on the evening of 10 November 2026. [@1,5,6,7,8,11] The press service of the General Police Inspectorate said the crash happened in the Rîșcani sector of Chișinău. [@9] The two pedestrians were crossing the street legally. [@7,8] A woman of
 about 30 died of her injuries in hospital, and a 21-year-old man was left in a
-serious condition in intensive care. [@1,5,6,7] The woman died a few hours after the crash from the injuries she had suffered. [@9]
+serious condition in intensive care. [@1,5,6,7,11] The woman died a few hours after the crash from the injuries she had suffered. [@9]
 
 The driver left the car and fled the scene, and was later located and detained
 by the Operational Patrol and Response Battalion. [@2,6,7] Police held him for 72
-hours while the Chișinău police continued their investigation. [@3,6,7,8,10]
+hours while the Chișinău police continued their investigation. [@3,6,7,8,10,11]
 
 Officers noticed suspicious behaviour during the detention and took him to a
 medical institution to test his condition. [@4,6,7,8,10] The tests came back positive for
-amphetamine, methamphetamine, PVP, known as "salt", and cannabis. [@4,5,6,7,8,10] Police
-also established that the man does not hold a driving licence. [@2,5,6,7,8,10]
+amphetamine, methamphetamine, PVP, known as "salt", and cannabis. [@4,5,6,7,8,10,11] Police
+also established that the man does not hold a driving licence. [@2,5,6,7,8,10,11] The driver had been detained in August 2023 in a case of illegal circulation of drugs in particularly large proportions and of drawing minors into criminal activity, which was sent to court in 2024 and remained pending with no final judgment. [@11]
 
 The Ford had been rented by another person, who told police he had handed the
 car to the 25-year-old suspect. [@1,7,8] Officers also identified and detained the man who had rented the car. [@8]
