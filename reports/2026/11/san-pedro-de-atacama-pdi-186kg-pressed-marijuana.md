@@ -53,21 +53,26 @@ sources:
     publisher: Calama en Línea
     date: 2026-11-11
     language: es
+  - title: 'Descubren acopio de marihuana en San Pedro de Atacama: son 183 kilos de la droga'
+    url: https://soychile.cl/Calama/Policial/2026/11/11/972406/droga-decomiso-san-pedro.html
+    publisher: SoyChile
+    date: 2026-11-11
+    language: es
 open_questions:
-  - The accounts give no separate date for the seizure; 11 November 2026 is their publication date.
-  - 'The accounts differ on the weight: the prosecutor''s quote published by Calama en Línea says 186 kg, while El América says 183 kg.'
-  - No arrests or charges were reported.
-  - The border sector is not named more precisely than the area near San Pedro de Atacama.
-  - No count of packages or doses was published.
-  - The 900 million peso value is the PDI's estimate; no independent valuation was reported.
+    - The accounts give no separate date for the seizure; 11 November 2026 is their publication date.
+    - 'The accounts differ on the weight: the prosecutor''s quote published by Calama en Línea says 186 kg, while El América and SoyChile say 183 kg.'
+    - No arrests or charges were reported.
+    - The border sector is not named more precisely than the area near San Pedro de Atacama.
+    - No count of packages or doses was published.
+    - The 900 million peso value is the PDI's estimate; no independent valuation was reported.
 ---
 
 The PDI in Calama seized a load of pressed marijuana in San Pedro de Atacama.
-[@1] The seizure took place in the border sector of El Loa province, near San
+[@1,3] The seizure took place in the border sector of El Loa province, near San
 Pedro de Atacama. [@2] Calama's chief prosecutor, Eduardo Peña, put the load at
 186 kg of marijuana. [@2] The local outlet El América reported 183 kg for the
-same seizure. [@1] The PDI valued the marijuana at 900 million pesos on the
-illegal market. [@1]
+same seizure. [@1,3] The PDI valued the marijuana at 900 million pesos on the
+illegal market. [@1,3]
 
 Peña said the Fuerza de Tarea Frontera Interna, the internal border task force,
 made the find. [@2] Peña said criminal groups move marijuana through certain
@@ -82,4 +87,3 @@ cocaine base. [@1] Méndez said the border sector of Antofagasta region is one o
 the longest in northern Chile, and that the PDI and the prosecutor's office have
 agreed to create task forces to curb drug smuggling, vehicle theft and
 contraband. [@2]
-
