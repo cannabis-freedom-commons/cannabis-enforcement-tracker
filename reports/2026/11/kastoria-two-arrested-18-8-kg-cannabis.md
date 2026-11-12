@@ -88,6 +88,11 @@ sources:
     publisher: Dikastiko.gr
     date: 2026-11-11
     language: el
+  - title: 'Καστοριά: Δύο συλλήψεις για διακίνηση 18 κιλών κάνναβης'
+    url: https://www.alphatv.gr/koinonia/kastoria-dio-sillipseis-gia-diakinisi-18-kilon-kannavis/
+    publisher: AlphaTV
+    date: 2026-11-11
+    language: el
 open_questions:
     - Whether the two suspects were formally charged after appearing before the Kastoria prosecutor, and the outcome of the case, are not yet known.
     - The 18.8 kg is the gross weight of the cannabis packages; the net weight was not published.
@@ -95,15 +100,15 @@ open_questions:
 
 Narcotics officers arrested a 34-year-old Greek woman and a 38-year-old foreign
 man in the Kastoria area on the evening of 10 November 2026 on suspicion of drug
-trafficking. [@1,5,6] The two were in a car that police stopped because it was
+trafficking. [@1,5,6,7] The two were in a car that police stopped because it was
 moving suspiciously, with the woman driving and the man in the passenger seat.
-[@3,4,5,6] In the back of the car, officers found two travel bags holding 18 packages
-of raw cannabis with a total gross weight of 18 kg 800 g. [@3,4,5,6] Police seized the
-car used to carry the drugs, two mobile phones and two SIM cards. [@1,4,5,6]
+[@3,4,5,6,7] In the back of the car, officers found two travel bags holding 18 packages
+of raw cannabis with a total gross weight of 18 kg 800 g. [@3,4,5,6,7] Police seized the
+car used to carry the drugs, two mobile phones and two SIM cards. [@1,4,5,6,7]
 
 A felony case file was opened against both suspects, who were expected to be
-taken before the prosecutor at the Kastoria Court of First Instance. [@1,4,5,6] The
+taken before the prosecutor at the Kastoria Court of First Instance. [@1,4,5,6,7] The
 investigation was handled by the Kastoria Narcotics Enforcement Department
 within the Kastoria Subdirectorate for the Detection and Investigation of Crime,
 whose officers had gathered information in operations against drug import and
-trafficking. [@2,5,6]
+trafficking. [@2,5,6,7]
