@@ -72,6 +72,11 @@ sources:
     publisher: 東海テレビNEWS
     date: 2026-11-12
     language: ja
+  - title: 大麻使用の疑いで火元の住民逮捕 岐阜市12人搬送のアパート火災 火事との関連を捜査
+    url: https://newsdig.tbs.co.jp/articles/gallery/3079494
+    publisher: TBS NEWS DIG
+    date: 2026-11-12
+    language: ja
 open_questions:
   - The youngest resident taken to hospital is described as one year old in some accounts and 18 months old in others.
 ---
@@ -93,4 +98,4 @@ investigation: officers found his behaviour suspicious, tested his urine and
 detected cannabis components. [@1,6,7,9] Questioned by investigators, he admitted the suspicion. [@5,6,7,8,9]
 
 Police said they are investigating whether the cannabis use is connected to the
-fire. [@1,4,5,6,7,8,9] Police said they are also investigating how he obtained the cannabis and his motive. [@5]
+fire. [@1,4,5,6,7,8,9,10] Police said they are also investigating how he obtained the cannabis and his motive. [@5]
