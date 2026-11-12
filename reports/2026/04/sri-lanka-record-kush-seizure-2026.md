@@ -122,6 +122,10 @@ sources:
     publisher: The Standard
     date: 2026-04-29
     language: en
+  - title: Sri Lanka detains 22 Buddhist monks for drug smuggling
+    url: https://globalnation.inquirer.net/320114/sri-lanka-detains-22-buddhist-monks-for-drug-smuggling
+    publisher: INQUIRER.net
+    date: 2026-04-27
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cn4v4nzwj94o
@@ -144,39 +148,28 @@ media:
     publisher: CNN
     caption: 'Sri Lankan monks arriving to appear before a court after their arrest in Negombo on 26 April 2026. Photo: Ishara S. Kodikara/AFP/Getty Images via CNN'
 open_questions:
-  - The BBC says the 22 monks were remanded for seven days on the Sunday, but does not say what happened to the 23rd monk arrested in the Colombo suburb.
-  - No charges, trial date or court outcome beyond the remand were reported.
-  - 'The substance description differs: CBS and the BBC report kush cannabis only, while Ada Derana reports more than 110 kg of Kush and Hashish with no split between the two, so a cannabis-only share cannot be separated from that account.'
-  - BBC Sinhala reports that a 23rd monk who allegedly organised the trip was later arrested near Colombo and that police believed the carriers may not have known what they carried; the other opened accounts do not confirm this.
-  - CNN dates the arrests to 26 April, matching the report, while the BBC account cited in the report dates the airport arrival to Saturday 25 April.
-  - CNN gives the estimated value as over US$3.45 million (1.1 billion rupees), below the report's roughly US$3.5 million and the other figures its open questions record.
-  - No charges or court outcome beyond the scheduled Negombo Magistrate's Court appearance were reported.
-  - WION's photo pages use a mix of AFP and stock-library images captioned Pexels and Unsplash, so no event photo from this page is listed as media.
-  - The same article mentions a separate May 2025 arrest of a 21-year-old British woman with 46kg at the same airport, a different event left out here.
-  - The article also mentions heroin and other narcotics smuggled by fishing boats, with no cannabis weight given, so no figure is added.
-  - The article mentions heroin and other narcotics smuggled by small fishing boats as general context with no cannabis weight, a separate matter left out here.
-  - 'No event photo is listed: the page''s captioned image is a December 2022 Thailand greenhouse stock photo, and its second image has no caption tying it to this seizure.'
-  - Arise News gives no calendar date for the arrest or the magistrate appearance, only 'Sunday'; 28 April 2026 is its publication date.
-  - Arise calls the sponsor a businessman whose identity was not disclosed, while other accounts describe an unnamed sponsor and one reported a 23rd monk as organiser; these descriptions are not fully reconciled.
-  - Each monk's share is given as about 11 pounds (approximately 5 kg), which works out slightly above the report's about 110 kg total; the report keeps its original 110 kg figure.
-  - The account says judicial medical tests found the suspects had used drugs but does not say how many tested positive.
-  - No court outcome beyond the remand already recorded is reported for the 22 monks or for Amithananda Thera.
-  - The travel-rule measure was described as reinstating an existing administrative requirement rather than changing a law, so no law change is recorded with it.
-  - The Standard describes indefinite detention without charge for drug suspects and long prison terms as the general legal framework, without stating any charge or outcome specific to these 22 monks, so no charge or court result is recorded from it.
+    - No charges, trial date or further court outcome beyond the seven-day remand was reported for the 22 monks or for the monk later arrested as the alleged organiser.
+    - 'The substance description differs: CBS and the BBC report kush cannabis only, while Ada Derana reports more than 110 kg of Kush and Hashish with no split between the two, so a cannabis-only share cannot be separated from that account.'
+    - CNN dates the arrests to 26 April 2026, while BBC Sinhala dates the airport arrival to Saturday 25 April.
+    - 'Estimates of the haul''s value differ: CNN gives over US$3.45 million (1.1 billion rupees), while other accounts give about US$3.5 million.'
+    - 'Who organised the trip remains unclear: one account says a 23rd monk did, while investigators also described three monks from a Jamburaliya temple recruiting others, and the sponsor''s identity is not disclosed.'
+    - Each monk's share is given as about 11 pounds (approximately 5 kg), which works out slightly above the 110 kg total.
+    - Reports that judicial medical tests found the suspects had used drugs do not say how many tested positive.
+    - A May 2025 arrest of a 21-year-old British woman with 46 kg of cannabis at the same airport is a separate event not covered here.
 ---
 
 On the night of 25–26 April 2026 police arrested 22 Sri Lankan monks returning from Thailand at
 Bandaranaike International Airport with 110 kg of kush hidden in their luggage, valued at about US$3.5
-million; it was reported as the country's largest single cannabis seizure. [@1] The Police Narcotics
+million; it was reported as the country's largest single cannabis seizure. [@1,23] The Police Narcotics
 Bureau's airport unit acted on intelligence [@4,5,10,12], and the monks were arrested at about 10.10 pm.
 [@20] Customs called it the largest single detection of kush at the airport.
-[@3,6,7,9,11,12,13,14,16,17,19,20]
+[@3,6,7,9,11,12,13,14,16,17,19,20,23]
 
 ## The luggage
 
 Each monk carried about 5 kg of kush, a particularly potent form of cannabis, behind false walls in
-identical luggage, among school supplies and sweets. [@2,3,6,8,9,10,11,13,15,16,17,18,19,20] Customs gave
-the total as 242 pounds [@3,6,9,10,11,13,15,16,17,20]; one account found about 112 kilograms. [@12] The
+identical luggage, among school supplies and sweets. [@2,3,6,8,9,10,11,13,15,16,17,18,19,20,23] Customs gave
+the total as 242 pounds [@3,6,9,10,11,13,15,16,17,20,23]; one account found about 112 kilograms. [@12] The
 government news portal put the value at over US$3.45 million (1.1 billion rupees). [@5,10,15,22]
 
 The monks, aged 19 to 28 and mostly students from remote areas, had left for Thailand on 22 April on an
