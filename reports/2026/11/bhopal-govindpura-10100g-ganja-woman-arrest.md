@@ -64,22 +64,29 @@ sources:
     publisher: Raj Express
     date: 2026-11-11
     language: hi
+  - title: गांजा तस्करी:हर चौथा आरोपी महिला, 60 साल की किरण चौथी बार गांजे संग पकड़ाई
+    url: https://www.bhaskar.com/g/local/mp/bhopal/news/every-fourth-accused-is-a-woman-60-year-old-kiran-was-caught-with-marijuana-for-the-fourth-time-dbp-139660305.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-12
+    language: hi
+open_questions:
+    - It is unclear whether the 2026 Crime Branch case in her prior-record list is this arrest or an earlier case the same year.
 ---
 
 Bhopal Crime Branch arrested 60-year-old Kiran Ahirwar in the Govindpura area on
-Tuesday night on suspicion of ganja trafficking. [@1,3] She was sitting with a bag
-near the Hanuman temple in front of Kasturba Hospital. [@1,3,4] Police said they had
+Tuesday night on suspicion of ganja trafficking. [@1,3,5] She was sitting with a bag
+near the Hanuman temple in front of Kasturba Hospital. [@1,3,4,5] Police said they had
 received a tip that the bag contained ganja and that she was waiting for a
-customer to sell it. [@1,2,3,4] After watching her from a distance and matching her to
+customer to sell it. [@1,2,3,4,5] After watching her from a distance and matching her to
 the informer's description, the Crime Branch team cordoned off the spot and
-caught her. [@1,3]
+caught her. [@1,3,5]
 
 Searching the bag, officers found ganja wrapped in transparent plastic, weighing
-10 kg 100 grams in total. [@1,3,4] Police put the value of the seized ganja at about
-Rs 3 lakh. [@1,2,3,4] Police identified the woman as Kiran Ahirwar (60), a resident of
-Kainchi Chhola in the Chhola Mandir police-station area. [@1,2,3] Police said she
-works as a labourer and is illiterate. [@1,3]
+10 kg 100 grams in total. [@1,3,4,5] Police put the value of the seized ganja at about
+Rs 3 lakh. [@1,2,3,4,5] Police identified the woman as Kiran Ahirwar (60), a resident of
+Kainchi Chhola in the Chhola Mandir police-station area. [@1,2,3,5] Police said she
+works as a labourer and is illiterate. [@1,3] During questioning she admitted the ganja belonged to her. [@5]
 
 Police registered a case against her under sections 8 and 20 of the NDPS Act.
-[@1,2,3,4] Police said earlier drug-trafficking cases had already been registered against her, including at Bajaria police station and the Crime Branch. [@4] Police said they were now tracing the ganja supply chain and other people
-linked to the network. [@1]
+[@1,2,3,4,5] Police said earlier drug-trafficking cases had already been registered against her, including at Bajaria police station and the Crime Branch. [@4,5] Police said four NDPS Act cases had been registered against her between 2019 and 2026: at Chhola Mandir in 2019, at Bajaria in 2021, and by the Crime Branch in 2024 and 2026. [@5] Police said they were now tracing the ganja supply chain and other people
+linked to the network. [@1,5]
