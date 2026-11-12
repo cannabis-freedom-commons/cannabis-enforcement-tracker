@@ -1,16 +1,15 @@
 ---
 code: F55R3X
 added_at: "2026-11-09T17:02:01.154672Z"
-date: 2026-11-05
+date: 2026-11-11
 country: bo
 place: Santa Cruz de la Sierra, Santa Cruz department, Bolivia
 coordinates: [-17.7833, -63.1821]
 precision: locality
 type: prosecution
-also: [seizure]
+also: [seizure, arrest]
 title: 'Bolivia suitcase case: ex-deputy and ex-judge name Saucedo and California marijuana'
-summary: >-
-  Bolivia's former deputy Laura Rojas told prosecutors on 5 November 2026 that the more than 30 suitcases brought from the United States through Viru Viru airport belonged to Supreme Court president Romer Saucedo. The former judge Hebert Zeballos then said the 31 suitcases carried marijuana produced in California and had the protection of former attorney general Roger Mariaca.
+summary: Former deputy Laura Rojas and former judge Hebert Zeballos told prosecutors the Viru Viru suitcases belonged to Supreme Court president Romer Saucedo and carried California marijuana under Roger Mariaca's protection. On 11 November 2026 former Santa Cruz court president Aldo Quezada was arrested and said Saucedo had confessed the 32 suitcases of modified marijuana were his.
 media:
   - kind: photo
     url: https://correodelsur.com/seguridad/20261106/afirman-que-maletas-eran-de-saucedo-y-tenian-marihuana.html
@@ -42,13 +41,47 @@ sources:
     publisher: Red Uno de Bolivia
     date: 2026-11-05
     language: es
+  - title: Quezada declara que las 32 maletas eran de Saucedo, revela que contenían marihuana modificada y señala a Mariaca como colaborador
+    url: https://www.vision360.bo/noticias/2026/11/11/76865-quezada-declara-que-las-32-maletas-eran-de-saucedo-revela-que-contenian-marihuana-modificada-y-senala-a-mariaca-como-colaborador
+    publisher: Visión 360
+    date: 2026-11-11
+    language: es
+  - title: 'Caso maletas: Aprehenden al expresidente del TDJ, Aldo Quezada, por tres delitos'
+    url: https://www.urgente.bo/noticia/caso-maletas-aprehenden-al-expresidente-del-tdj-aldo-quezada-por-tres-delitos
+    publisher: Urgente.bo
+    date: 2026-11-11
+    language: es
+  - title: 'Aldo Quezada ingresa aprehendido a celdas de la Felcn: ¿qué delitos se investigan en su contra?'
+    url: https://eju.tv/2026/11/aldo-quezada-ingresa-aprehendido-a-celdas-de-la-felcn-que-delitos-se-investigan-en-su-contra/
+    publisher: eju.tv
+    date: 2026-11-11
+    language: es
 open_questions:
-  - No figure for the weight or composition of the marijuana said to be in the suitcases was published, so no cannabis weight is recorded.
-  - Saucedo has not been tried or convicted, and Rojas's and Zeballos's statements are versions that prosecutors must still verify.
-  - The accounts give different numbers of suitcases, more than 30, 31 or 32, and differ on where they flew from, the United States, California or Miami.
-  - Zeballos first doubted that El Alemán was Saucedo and then said he had confirmed it through the Public Ministry's investigations.
-  - The page photo shows Laura Rojas leaving the prosecutors' office and does not depict the suitcases or any seizure.
-  - The same article also reports an arrest warrant against Saucedo's sister for an alleged Bs 1 million bribe, a separate case left out here.
+    - No figure for the weight or composition of the marijuana said to be in the suitcases was published, so no cannabis weight is recorded.
+    - Saucedo has not been tried or convicted, and Rojas's and Zeballos's statements are versions that prosecutors must still verify.
+    - The accounts give different numbers of suitcases, more than 30, 31 or 32, and differ on where they flew from, the United States, California or Miami.
+    - Zeballos first doubted that El Alemán was Saucedo and then said he had confirmed it through the Public Ministry's investigations.
+    - The page photo shows Laura Rojas leaving the prosecutors' office and does not depict the suitcases or any seizure.
+    - The same article also reports an arrest warrant against Saucedo's sister for an alleged Bs 1 million bribe, a separate case left out here.
+    - No court order on whether Quezada remained detained after the 11 November apprehension was reported.
+    - The accounts do not say what Mauricio Requena is accused of.
+details:
+    agencies: [bo-felcn]
+    agency_types: [anti-narcotics, prosecutor]
+    activity: [trafficking, processing]
+    setting: [home]
+    charges: [tráfico de sustancias controladas, asociación delictuosa, confabulación]
+    case_stage: investigation
+    date_precision: exact
+    region: Santa Cruz
+    related: [bolivia-caso-maletas-marihuana-alterada-2026, santa-cruz-zeballos-79kg-cannabis-case]
+data_sources:
+    details.activity: [5]
+    details.agencies: [5]
+    details.agency_types: [6]
+    details.case_stage: [5]
+    details.charges: [5]
+    details.setting: [5]
 ---
 
 Bolivia's former deputy Laura Rojas told prosecutors on Thursday 5 November 2026
@@ -80,7 +113,7 @@ unclaimed. [@2]
 
 Saucedo, who has an arrest warrant for drug trafficking and criminal
 organisation, says he is abroad in exile, while Zeballos remains in preventive
-detention at Palmasola prison. [@1] Rojas's lawyer Joadel Bravo said she
+detention at Palmasola prison. [@1] Mauricio Requena, a former adviser to Saucedo, was also apprehended in the same case after he presented himself to give a statement. [@5] He said former judge Hebert Zeballos was supposedly in charge of setting up an ice factory as a front for that process. [@5] Quezada said Saucedo explained that an industrial cold process turned the marijuana into a liquid for vapes, to be sold at a higher price in Brazil and other countries. [@5] Quezada said Saucedo told him the withdrawal of the suitcases was supervised and supported by a man he called Chino, meaning then attorney general Roger Mariaca. [@5] He said Saucedo told him that 32 suitcases which arrived at Viru Viru from California on a private jet were Saucedo's and contained genetically modified marijuana. [@5] In his statement, Quezada said the disclosure came on 26 November 2025 during a trip he and Saucedo made to Mexico to receive an honorary distinction. [@5] The day before, after giving his statement, he had been released. [@7] He was taken into FELCN custody at about 15:00 that Wednesday in the suitcase investigation. [@7] The FELCN and a commission of prosecutors searched Quezada's home on Avenida Alemana in Santa Cruz. [@6] He is investigated for suspected trafficking of controlled substances, criminal association and conspiracy. [@5] On Wednesday 11 November 2026, former Santa Cruz departmental court president Aldo Ismael Quezada was apprehended after a search of his home and taken to the FELCN in Santa Cruz. [@5] Rojas's lawyer Joadel Bravo said she
 travelled from Santa Cruz to Miami for a political conference that never took
 place, was invited by Zeballos, and flew back on a Uruguayan friend's chartered
 flight. [@1] La Razón reported that the marijuana found in a warehouse where the

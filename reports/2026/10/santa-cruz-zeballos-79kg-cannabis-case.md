@@ -68,9 +68,15 @@ sources:
     publisher: Los Tiempos
     date: 2026-11-01
     language: es
+  - title: Quezada declara que las 32 maletas eran de Saucedo, revela que contenían marihuana modificada y señala a Mariaca como colaborador
+    url: https://www.vision360.bo/noticias/2026/11/11/76865-quezada-declara-que-las-32-maletas-eran-de-saucedo-revela-que-contenian-marihuana-modificada-y-senala-a-mariaca-como-colaborador
+    publisher: Visión 360
+    date: 2026-11-11
+    language: es
 open_questions:
   - El Día cites a FELCN report giving 79 kg, while EL PAÍS reports 80 kg; the figure records the FELCN-based amount.
   - The opened accounts do not report a final judgment on the cannabis prosecution or a ruling on Zeballos's claim that check-in failures were caused by technical faults.
+  - Visión 360 reported 79.65 kilograms from the January searches, while this report uses the FELCN figure of 79 kilograms.
 ---
 
 On 31 October, former judge Herbert Zeballos was arrested again in Santa Cruz at
@@ -85,10 +91,9 @@ order for personal precautionary measures. [@3]
 
 In the underlying cannabis case, police searched a security-company warehouse
 linked to Zeballos on 20 January, and FELCN reported finding 79 kg of marijuana
-there. [@2] A Santa Cruz court ordered Zeballos held preventively for 120 days
+there. [@2] Visión 360 later reported that January searches by police and prosecutors found 79.65 kilograms of marijuana in 38 packages at those warehouses, plus electronic cigarettes, aluminium bottles and equipment investigators said could be used to process the drug. [@7] A Santa Cruz court ordered Zeballos held preventively for 120 days
 on 25 January while investigating suspected controlled-substance trafficking,
 criminal association and conspiracy. [@2] EL PAÍS reported 80 kg of marijuana
 and said police also found machinery for processing it. [@1] The wider
 investigation also concerned 32 suitcases of unknown contents that arrived at
 Viru Viru airport from the United States in November 2025. [@3]
-
