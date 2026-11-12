@@ -77,29 +77,34 @@ sources:
     publisher: MilanoToday
     date: 2026-11-11
     language: it
+  - title: 'Controlli in zona popolare: arrestato con due chili di hashish'
+    url: https://ilgiornalepopolare.it/controlli-in-zona-popolare-arrestato-con-due-chili-di-hashish/
+    publisher: Il Giornale Popolare
+    date: 2026-11-11
+    language: it
 open_questions:
-  - The reports give no separate date for the stop; 11 November 2026 is the publication date, and both say the arrest was in recent days.
-  - The hashish weight is given as about two kilograms and the marijuana as about 50 grams, so the 2.05 kg total is approximate.
-  - No amount was given for the cash seized.
-  - The man is not named, and the reporting obligation is not a prison sentence.
-  - Both accounts still call him a suspect and say the case is in the preliminary investigation.
+    - The accounts give no separate date for the stop; 11 November 2026 is the publication date, and they say the arrest was in recent days.
+    - The hashish weight is given as about two kilograms and the marijuana as about 50 grams, so the 2.05 kg total is approximate.
+    - No amount was given for the cash seized.
+    - The man is not named, and the reporting obligation is not a prison sentence.
+    - The accounts still call him a suspect and say the case is in the preliminary investigation.
 ---
 
 State Police arrested a 48-year-old Italian man with previous convictions in
 Sesto San Giovanni, in the Milan area, on a charge of holding drugs for dealing.
-[@1,3,4] Officers of the investigative squad at the Sesto San Giovanni police
+[@1,3,4,5] Officers of the investigative squad at the Sesto San Giovanni police
 station had been watching closely packed public-housing blocks that police said
-held a high concentration of people with criminal records. [@1,4] Police said the
+held a high concentration of people with criminal records. [@1,4,5] Police said the
 area was marked by a high concentration of people with criminal records. [@1]
-During those checks they found the man near his home. [@1,3,4]
+During those checks they found the man near his home. [@1,3,4,5]
 
 He was carrying about two kilograms of hashish, split into several packages
-inside an ordinary shopping bag, and a sum of cash. [@1,3,4] A later search of
-premises under his control found another 50 grams of marijuana. [@1,3,4] Police
+inside an ordinary shopping bag, and a sum of cash. [@1,3,4,5] A later search of
+premises under his control found another 50 grams of marijuana. [@1,3,4,5] Police
 seized the hashish, the marijuana and the cash. [@1]
 
 The file was sent to the public prosecutor's office at the Monza court for
-validation of the arrest. [@1,3] The judicial authority validated the arrest and,
+validation of the arrest. [@1,3,5] The judicial authority validated the arrest and,
 at the end of a fast-track hearing, ordered the suspect to report to the
-judicial police. [@1,3,4] The case remains in the preliminary investigation, and
+judicial police. [@1,3,4,5] The case remains in the preliminary investigation, and
 guilt can be established only by a final conviction. [@2]
