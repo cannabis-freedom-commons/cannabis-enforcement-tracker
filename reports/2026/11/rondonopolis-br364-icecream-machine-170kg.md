@@ -71,6 +71,11 @@ sources:
     publisher: CliqueF5
     date: 2026-11-11
     language: pt
+  - title: PRF encontra 170 kg de skunk dentro de máquina de sorvete
+    url: https://www.hnt.com.br/policia/prf-encontra-170-kg-de-skunk-dentro-de-maquina-de-sorvete/586429
+    publisher: HiperNotícias
+    date: 2026-11-11
+    language: pt
 open_questions:
     - The weight is given as about 170 kg, not as an exact scale reading, and G1's headline says more than 170 kg.
     - Diário da Amazônia says the driver was arrested, but no account says whether he was charged.
@@ -81,21 +86,21 @@ open_questions:
 
 On the night of Tuesday 10 November 2026, a Federal Highway Police team seized a
 load of about 170 kg of skunk at kilometre 211 of the BR-364 in Rondonópolis,
-Mato Grosso. [@2,3,4] The drug was hidden inside an ice cream machine being carried
-in a box truck. [@2,3,4] The stop came at about 21:30 during a routine check, when
+Mato Grosso. [@2,3,4,5] The drug was hidden inside an ice cream machine being carried
+in a box truck. [@2,3,4,5] The stop came at about 21:30 during a routine check, when
 officers halted a yellow Mercedes-Benz truck with only the driver in the cab.
 [@2] The driver said he was hauling household moves and parcels from Rio Branco,
 in Acre, and from Porto Velho, in Rondônia, for delivery to several
 destinations. [@2,3] Rondonópolis, where the truck was stopped, is about 218 km
-from Cuiabá. [@1]
+from Cuiabá. [@1,5]
 
 During the inspection a sniffer dog indicated that drugs might be in the cargo
-compartment, and specifically in the ice cream machine. [@2,3] After the officers
+compartment, and specifically in the ice cream machine. [@2,3,5] After the officers
 removed the machine and took it apart, they found 162 tablets of a substance
-similar to skunk, weighing about 170 kg. [@1,3] Police said the papers the driver
+similar to skunk, weighing about 170 kg. [@1,3,5] Police said the papers the driver
 showed indicated that the machine had been sent from Porto Velho to Aparecida de
-Goiânia, in Goiás. [@1,3,4]
+Goiânia, in Goiás. [@1,3,4,5]
 
-The driver presented the transport documents to the officers. [@2,4] The case,
+The driver presented the transport documents to the officers. [@2,4,5] The case,
 together with the seized drug, was sent to the Federal Police in Rondonópolis,
-which was left to carry out the legal steps. [@2,4] The Federal Police in Rondonópolis was to continue the investigation in order to identify the senders and recipients of the load. [@4] The driver was arrested and sent on with the seized drug for the legal steps. [@3]
+which was left to carry out the legal steps. [@2,4,5] The Federal Police in Rondonópolis was to continue the investigation in order to identify the senders and recipients of the load. [@4] The driver was arrested and sent on with the seized drug for the legal steps. [@3]
