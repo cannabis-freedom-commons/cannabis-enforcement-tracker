@@ -54,6 +54,11 @@ sources:
     publisher: الرئيس نيوز
     date: 2026-11-11
     language: ar
+  - title: ضبط 3 متهمين بحوزتهم 6 قطع سلاح ناري وطربتي حشيش في حملة أمنية بالمراغة بسوهاج
+    url: https://ahlmasrnews.com/news/local-news/13504152/%D8%B6%D8%A8%D8%B7-3-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87%D9%85-6-%D9%82%D8%B7%D8%B9-%D8%B3%D9%84%D8%A7%D8%AD-%D9%86%D8%A7%D8%B1%D9%8A-%D9%88%D8%B7%D8%B1%D8%A8%D8%AA%D9%8A-%D8%AD%D8%B4%D9%8A%D8%B4-%D9%81%D9%8A-%D8%AD%D9%85%D9%84%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%BA%D8%A9-%D8%A8%D8%B3%D9%88%D9%87%D8%A7%D8%AC
+    publisher: أهل مصر
+    date: 2026-11-11
+    language: ar
 open_questions:
     - The accounts give no separate date for the arrests; 11 November 2026 is the publication date and is used as the incident date.
     - No weight or value was published for the two pieces of hashish, so no cannabis weight is recorded.
@@ -63,18 +68,18 @@ open_questions:
 
 Security forces arrested three suspects in Al-Maragha district of Egypt's Sohag
 Governorate during a large security campaign targeting lawbreakers and people
-possessing weapons and narcotics. [@1,3] The three were found in possession of six
-firearms and two pieces of hashish, a cannabis resin. [@1,4] A red car was also seized during the campaign. [@4]
+possessing weapons and narcotics. [@1,3,5] The three were found in possession of six
+firearms and two pieces of hashish, a cannabis resin. [@1,4,5] A red car was also seized during the campaign. [@4]
 
 The campaign was carried out under directives from Major General Ashraf
 Abdel-Malek, assistant interior minister and Sohag security director, Major
 General Mohamed El-Khouly, director of criminal investigation, and Brigadier
 General Tarek Abu Sedeira, head of investigations at the Sohag Security
-Directorate. [@1] The directives called for intensifying security efforts and
+Directorate. [@1,5] The directives called for intensifying security efforts and
 pursuing people involved in firearms possession and drug trafficking. [@1]
 Lieutenant Colonel Ahmed Ismail, head of investigations at Al-Maragha police
 station, led the campaign with Captain Mustafa Abu Douma, and their inquiries
-led to the three arrests and the seizure of the items. [@1]
+led to the three arrests and the seizure of the items. [@1,5]
 
 The suspects and the seized items were taken into custody and a police report
 was drawn up, and the Public Prosecution took over the investigation. [@2,3]
