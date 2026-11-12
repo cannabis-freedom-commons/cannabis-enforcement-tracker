@@ -108,13 +108,11 @@ sources:
     publisher: Times Kerala
     date: 2026-11-10
     language: ml
-open_questions:
-    - Neither account gives a date for the arrest beyond 'Monday'; 9 November 2026, the publication date, is used as the incident date.
-    - The hashish oil is described only as seized hashish oil, with no laboratory confirmation or street value reported.
-    - The eight grams of MDMA are outside the tracker's cannabis scope and are not recorded in the figures.
-    - No charge, charge sheet, remand order or court appearance is reported for Dhanesh.
-    - The earlier Aluva lodge arrest of Harikrishnan with 185 grams of MDMA and the Thoppumpady arrest of Shinu Sebastian with seven grams are separate arrests reported as MDMA-only, so they are not counted as cannabis arrests in this report.
-    - Accounts differ on the quantity of MDMA seized from Harikrishnan in Aluva, giving it as 180 or 185 grams.
+  - title: ‘കപ്പിൾട്രിപ്പ്’ മുതൽ വാഴക്കുലവരെ, ശർക്കരയും 'ഡ്രോപ്പ് ബോക്സും'; തൂഫാൻ കടുത്തപ്പോൾ ലഹരിനീക്കത്തിന് പലവഴി
+    url: https://www.mathrubhumi.com/amp/crime/news/bizarre-and-hitech-drug-smuggling-methods-in-kerala-bmwfrj0m
+    publisher: Mathrubhumi
+    date: 2026-11-11
+    language: ml
 ---
 
 Police arrested Dhanesh S Nair, 31, known as Danny or Danny Bhai, the alleged main accused of a network
@@ -130,7 +128,7 @@ and eight grams of MDMA. [@1,4,5,6,8,9,12,13] Police said Dhanesh had close link
 Police said Dhanesh used his banana plantation and farmland at Nanjangudu near Mysuru as cover for the
 trafficking [@1,4,5,8,12] Police said he had been buying intoxicants in Bengaluru and Mysuru and smuggling them into Kerala for the past three years. [@13] Police said he hid drugs in vessels in the bird cages at his house. [@13]: nendran bunches were trucked daily to markets across Kerala, with drugs hidden
 inside them. [@3,8] He had won awards for his banana farming, including the state's best young farmer
-award in 2023, and studied agribusiness in Germany. [@9,12] Police said he recruited young people to move
+award in 2023, and studied agribusiness in Germany. [@9,12] Dhanesh S. Nair, also called Dani, studied an agribusiness course in Germany from 2015 to 2018 before returning to Kerala. [@14] Police said he recruited young people to move
 and sell the drugs [@1], coordinating sales through Instagram and using couriers [@4,8], and that videos
 on his phones showed how the drugs were hidden in the bunches. [@1,5,12]
 
