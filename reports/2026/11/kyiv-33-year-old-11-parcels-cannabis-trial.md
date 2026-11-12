@@ -80,6 +80,11 @@ sources:
     publisher: StopCor News
     date: 2026-11-04
     language: uk
+  - title: سيتم محاكمة متواطئين في قضية تهريب المخدرات في مقاطعة سومي
+    url: https://ua.news/ar/ukraine/na-sumshchini-suditimut-spilnikiv-za-zbut-narkotikiv
+    publisher: UA.NEWS
+    date: 2026-11-11
+    language: ar
 open_questions:
   - No separate weight, plant count or value was published for the cannabis, and no combined total can be separated into cannabis, so no cannabis quantity is recorded
   - PVP and amphetamine are mentioned only to explain the mixed seizure and their amounts are excluded from cannabis figures
@@ -105,5 +110,5 @@ storing and transporting an especially dangerous psychotropic in an especially
 large amount for sale and a narcotic drug for sale. [@2] At the investigators'
 request, a court ordered custody as the preventive measure. [@2] The pretrial
 investigation is now complete and the indictment has been sent to court, which
-will decide guilt. [@3,4,5] If convicted, she faces up to 12 years in prison with
+will decide guilt. [@3,4,5,6] If convicted, she faces up to 12 years in prison with
 confiscation of property. [@1,4,5]
