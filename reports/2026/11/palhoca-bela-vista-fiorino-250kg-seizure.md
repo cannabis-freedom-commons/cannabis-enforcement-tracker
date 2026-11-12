@@ -59,20 +59,23 @@ sources:
     publisher: Lê Notícias
     date: 2026-11-06
     language: pt
+  - title: Bope apreende 420 quilos de maconha na Guarda do Cubatão
+    url: https://www.portalpalhoca.com.br/noticia/policia/bope-apreende-420-quilos-de-maconha-na-guarda-do-cubatao/
+    publisher: Portal Palhoça
+    date: 2026-11-11
+    language: pt
 open_questions:
-  - No one was arrested, so no charge or court outcome is reported.
-  - The cannabis is described as more than 250 kg by Agora Floripa and about 250 kg by Lê Notícias; the report uses 250 kg.
-  - No precise weight, number of boxes or street value was published.
-  - The neighbourhood Bela Vista is named only by Lê Notícias, and the exact street is not given.
-  - Agora Floripa says the driver fired at the officers and they reacted; the number of shots is not stated.
-  - The origin and intended destination of the load were not reported.
-  - Both opened accounts appear to draw on the same Military Police occurrence report, so they are not fully independent.
-  - Neither photo is captioned as showing the seized load or the Fiorino itself, so the media entries are links with that caveat.
-  - 'Left out, as its quotation was not found in Lê Notícias: Police in Palhoça carried out the action in the Bela Vista neighbourhood during vehicle checks around 19h.'
+    - No one was arrested, so no charge or court outcome is reported.
+    - The cannabis is described as more than 250 kg by Agora Floripa and about 250 kg by Lê Notícias and Portal Palhoça; the report uses 250 kg.
+    - No precise weight, number of boxes or street value was published.
+    - The exact street in the Bela Vista neighbourhood is not given.
+    - Agora Floripa says the driver fired at the officers and they reacted; the number of shots is not stated.
+    - The origin and intended destination of the load were not reported.
+    - The opened accounts appear to draw on the same Military Police occurrence report, so they are not fully independent.
 ---
 
 BOPE officers seized about 250 kg of cannabis in Palhoça, in Greater
-Florianópolis, on the night of Friday 6 November 2026. [@1] The officers found a
+Florianópolis, on the night of Friday 6 November 2026. [@1,3] The officers found a
 Fiat Fiorino parked on a public road, following inquiries in the area, and the
 car gave off a strong smell of narcotics. [@1]
 
@@ -84,4 +87,3 @@ officers found the cannabis packed in boxes inside the Fiorino. [@1]
 The driver remained unfound and police said security forces continued searches
 to identify and locate him. [@2] The vehicle and the drug were taken for the
 legal procedures. [@1]
-
