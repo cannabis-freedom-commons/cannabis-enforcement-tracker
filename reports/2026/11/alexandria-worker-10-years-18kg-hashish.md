@@ -73,11 +73,16 @@ sources:
     publisher: مصراوي
     date: 2026-11-11
     language: ar
+  - title: ضبط بحوزته 18 كيلوجراما.. المشدد 10 سنوات لعامل تاجر بالمخدرات في الإسكندرية
+    url: https://www.iqraa.news/218382/%D8%B6%D8%A8%D8%B7-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87-18-%D9%83%D9%8A%D9%84%D9%88%D8%AC%D8%B1%D8%A7%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D8%B4%D8%AF%D8%AF-10-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%84%D8%B9/
+    publisher: إقرأ نيوز
+    date: 2026-11-11
+    language: ar
 ---
 
 The Alexandria Criminal Court sentenced a worker to 10 years of rigorous
-imprisonment for drug trafficking. [@1,2,3,4,5] The court fined him 50,000 Egyptian
-pounds. [@1,2,3,4,5] It also ordered him to pay the criminal costs. [@1,3,5] The defendant,
+imprisonment for drug trafficking. [@1,2,3,4,5,6] The court fined him 50,000 Egyptian
+pounds. [@1,2,3,4,5,6] It also ordered him to pay the criminal costs. [@1,3,5,6] The defendant,
 identified only as M.M.M. and described as a worker, was accused of regularly
 trafficking narcotic drugs, particularly hashish. [@2,3,5]
 
@@ -85,12 +90,12 @@ Alexandria security officers received a tip from anti-narcotics officers who had
 been monitoring his activity. [@1] After legal procedures were completed and
 prosecutors issued a warrant, officers arrested him where he was found. [@1,4,5] He
 was carrying a bag holding 400 slabs of hashish weighing about 18 kilograms in
-the First Ameriya police district. [@1,3,4,5] Officers also found cash and a mobile
-phone on him. [@1,2,3,4,5] He admitted that the hashish was for sale, that the money
+the First Ameriya police district. [@1,3,4,5,6] Officers also found cash and a mobile
+phone on him. [@1,2,3,4,5,6] He admitted that the hashish was for sale, that the money
 came from sales, and that the phone was used to contact customers. [@1,3]
 
-The case was registered as No. 16115 of 2026, First Ameriya felonies. [@1,2,3,4,5] The
+The case was registered as No. 16115 of 2026, First Ameriya felonies. [@1,2,3,4,5,6] The
 verdict was issued by a panel headed by Counsellor Mohamed Abdel Mohsen Hasouma,
 with members Emam Mohamed El-Seirafi, Mohamed Salah El-Din Mahmoud and Ahmed
-Hussein El-Haddad. [@2,4,5] Prosecutors had referred him to the Alexandria Criminal
-Court, which issued the sentence. [@1,3]
+Hussein El-Haddad. [@2,4,5,6] The court clerk was Magdy Saad. [@6] Prosecutors had referred him to the Alexandria Criminal
+Court, which issued the sentence. [@1,3,6]
