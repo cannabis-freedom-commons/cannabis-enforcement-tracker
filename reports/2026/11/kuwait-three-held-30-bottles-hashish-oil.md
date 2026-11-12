@@ -83,13 +83,20 @@ sources:
     publisher: برس بي
     date: 2026-11-10
     language: ar
+  - title: Three Foreigners Arrested in Kuwait for Alleged Drug Sales
+    url: https://www.urdupoint.com/en/world/three-foreigners-arrested-in-kuwait-over-alleged-drug-sales-2287816.html
+    publisher: UrduPoint
+    date: 2026-11-11
+open_questions:
+  - UrduPoint describes the cannabis oil as 30 vials and does not mention the piece of hashish recorded from the Arabic coverage, which says 30 bottles of hashish oil.
+  - UrduPoint says cannabis, alcohol and prohibited medicines were recovered from the suspects before their arrest, which differs from the residence search described after one suspect was detained.
 ---
 
 Kuwait's General Department for Drug Control in the Criminal Security Sector
 arrested three suspects across three separate cases on suspicion of possessing
-narcotics and psychotropic substances with intent to traffic. [@1,3,4,5,6,7,8] The Interior
+narcotics and psychotropic substances with intent to traffic. [@1,3,4,5,6,7,8,9] The three suspects were foreigners. [@9] The Interior
 Ministry announced the arrests in a statement on Tuesday evening as part of its
-ongoing drug enforcement operations. [@2] In one of the cases, the General
+ongoing drug enforcement operations. [@2,9] In one of the cases, the General
 Department of Rescue Police detained a suspect and transferred him to
 drug-control officers. [@1,3,5,6,7,8] Follow-up investigations led officers to search that
 suspect's residence, where they discovered an additional quantity of narcotics
@@ -100,6 +107,6 @@ seized items to the competent authority to take legal measures against them.
 The cannabis items seized during the operations consisted of 30 bottles
 containing hashish oil and one piece of hashish. [@1,3,4,5,7,8] Alongside the cannabis,
 the operations yielded 3,001 grams of shabu, a synthetic stimulant that is not
-cannabis. [@1,3,5] Officers also confiscated 24 sheets of paper soaked in
+cannabis. [@1,3,5,9] The seizures also included bottles of alcohol. [@9] Officers also confiscated 24 sheets of paper soaked in
 'chemical', three electronic cigarettes containing 'chemical' and four sensitive
 scales. [@1,3,5]
