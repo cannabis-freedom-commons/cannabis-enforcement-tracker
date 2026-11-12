@@ -43,19 +43,35 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-10
     language: hi
+  - title: मोतिहारी जिला के पताही थाना क्षेत्र के जिहुली गांव 30 लाख रुपए मूल्य के गांजा के साथ दो लोगों को गिरफ्तार किया
+    url: https://www.need24.digital/news/matahara-jal-ka-pataha-thana-kashhatara-ka-jahal-gava-30-lkha-rapae-malya-ka-gaja-ka-satha-tha-lga-ka-garafatara-kaya
+    publisher: Need24 News
+    date: 2026-11-10
+    language: hi
+  - title: पुलिस ने 13.980 किलो गांजा जैसा मादक पदार्थ किया बरामद, पिता-पुत्र गिरफ्तार
+    url: https://newstobihar.in/2026/11/police-seized-13-980-kg-of-ganja/
+    publisher: News to Bihar
+    date: 2026-11-11
+    language: hi
 open_questions:
-  - No weight for the seized ganja was published, so no kilogram figure is recorded.
-  - No separate date for the raid was given; 10 November 2026 is the publication date and is used as the incident date.
-  - No charges or court outcome beyond judicial custody were reported.
-  - The value of about Rs 30 lakh is the police estimate as reported, with no breakdown published.
-  - The account rests on a single accessible source whose full text is partly paywalled.
+    - 'The district is disputed: News to Bihar says Muzaffarpur, while other accounts place Jihuli and Patahi in Motihari, East Champaran, and the station banner in the News to Bihar photo reads Motihari Police, Patahi.'
+    - 'The father''s name is disputed: one Dainik Bhaskar account says Jairam Yadav, while News to Bihar, a later Patahi Bhaskar report and Need24 say Jaylal Raut, father of Omprakash Kumar of ward 4.'
+    - The raid is described as Monday night, but no calendar date is given; 10 November 2026 remains the publication date used for the incident.
+    - No statute or court outcome beyond an FIR and judicial custody was reported.
+    - The value of about Rs 30 lakh is a police estimate, with no breakdown; News to Bihar gives no value.
+    - Only the earlier Motihari account describes supply from Nepal; later accounts describe buying and selling from a thatched hut and do not mention Nepal.
+media:
+  - kind: photo
+    url: https://newstobihar.in/2026/11/police-seized-13-980-kg-of-ganja/
+    media_url: https://newstobihar.in/wp-content/uploads/2026/11/IMG-20261111-WA0003-1024x629.jpg
+    publisher: News to Bihar
+    caption: 'Patahi police officers stand before a Motihari Police, Patahi station banner, with a seized packet on the table. Photo: News to Bihar'
 ---
 
 Police seized ganja worth about Rs 30 lakh in Jihuli village in the Patahi
-police station area of Motihari district. [@1] Police arrested Jairam Yadav and
+police station area of Motihari district. [@1,2] Police raided the village on Monday night after a secret tip. [@3] The substance was weighed in the presence of circle officer and revenue officer Anil Kumar and station house officer Abhishek Kumar. [@3] During the raid officers seized 13 kilograms 980 grams of a ganja-like substance and an electronic weighing machine. [@3] Police arrested Jairam Yadav and
 Omprakash Kumar at the spot. [@1] Both men were sent to jail in judicial
-custody. [@1]
+custody. [@1] Police registered an FIR at the station under the relevant sections. [@3]
 
 The report describes the two as supplying ganja from Nepal to Bihar and keeping
 the consignment hidden in thatch. [@1]
-
