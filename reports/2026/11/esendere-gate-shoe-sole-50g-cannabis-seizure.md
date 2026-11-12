@@ -68,15 +68,20 @@ sources:
     publisher: Adana Masası
     date: 2026-11-11
     language: tr
+  - title: Hakkari'deki gümrük kapılarında uyuşturucu, kaçak sigara ve telefon ele geçirildi
+    url: https://www.bursahakimiyet.com.tr/gundem/hakkari-deki-gumruk-kapilarinda-uyusturucu-kacak-sigara-ve-telefon-ele-gecirildi-1749683
+    publisher: Bursa Hakimiyet
+    date: 2026-11-11
+    language: tr
 ---
 
 Customs officers stopped Turkish citizen A.K. as he entered the passenger hall
 at Esendere customs gate from Iran at about 15:30. [@1,2,3,6] Officers found material
 hidden in the soles of his shoes with a total gross weight of 49.56 grams,
-assessed as cannabis (esrar). [@1,2,4,6]
+assessed as cannabis (esrar). [@1,2,4,6,7]
 
 The interception was carried out by personnel of the Customs Enforcement
 Smuggling and Intelligence Section at Esendere. [@1,2,6] The seizure took place at
 the Esendere customs gate in Hakkari province, on the Turkish-Iranian border.
-[@1] Hakkari's governor's office announced the seizure in a statement published on its social media accounts. [@5] The Yüksekova Chief Public Prosecutor's Office opened an investigation into
-the incident. [@1,2,6]
+[@1] Hakkari's governor's office announced the seizure in a statement published on its social media accounts. [@5,7] The Yüksekova Chief Public Prosecutor's Office opened an investigation into
+the incident. [@1,2,6,7]
