@@ -59,20 +59,22 @@ sources:
     publisher: Uttarakhand Aaj
     date: 2026-11-06
     language: hi
+  - title: एसएसपी दून के नेतृत्व में नशा तस्करों पर दून पुलिस का एक और वार
+    url: https://liveskgnews.com/uttarakhand/another-strike-by-dehradun-police-against-drug-traffickers-under-the-leadership-of-ssp-dehradun/
+    publisher: liveskgnews
+    date: 2026-11-12
+    language: hi
 open_questions:
-  - The submitted Bhaskar page's detailed paragraphs on this arrest sit behind its app paywall; the capture gives only the summary, so detail comes from Punjab Kesari and Uttarakhand Aaj.
-  - Punjab Kesari attributed the source of the ganja to another woman living in Rishikesh, and the Bhaskar text only says the arrested woman lived in Mayakund slum.
-  - The articles give no street value for the 2.79 kg of ganja.
-  - Police named the woman the suspect said supplied the ganja but did not report any investigation of or arrest against that supplier.
-  - The reports give no court outcome beyond production before a magistrate.
-  - The Bhaskar page also reports a separate Vikasnagar charas seizure, a different event with its own tracker report and left out here.
-  - The photo linked is the only one tied to this event that could be confirmed; it carries no caption or credit.
-  - 'Not added to vikasnagar-bhojawala-464g-charas-arrest, as its quotation was not found in Uttarakhand Aaj: Vikasnagar police arrested Pradeep alias Sonu with 464 grams of charas in the Bhojawala area.'
-  - Left out activity, as its quotation was not found in Punjab Kesari.
+    - Punjab Kesari attributed the source of the ganja to another woman living in Rishikesh; this account and the Bhaskar summary only place the arrested woman in the Mayakund slum.
+    - The articles give no street value for the 2.79 kg of ganja.
+    - Police named the woman the suspect said supplied the ganja but did not report any investigation of or arrest against that supplier.
+    - The reports give no court outcome beyond production before a magistrate.
+    - The same roundup reports a separate Vikasnagar charas seizure, a different event with its own tracker report and left out here.
+    - Liveskgnews says officers acted on an informant's tip, while Punjab Kesari said they saw her by a peepal tree during a patrol.
 ---
 
 Rishikesh Kotwali police arrested a 40-year-old woman, Sabri Devi, during a
-checking drive near the Chandrabhaga river in Rishikesh on 5 November 2026. [@3]
+checking drive near the Chandrabhaga river in Rishikesh on 5 November 2026. [@3,4]
 Police in Dehradun district said they arrested two people, a woman among them,
 in separate operations and recovered 2 kg 790 g of ganja and 464 g of charas in
 all. [@1]
@@ -94,4 +96,3 @@ The arrest was one of two operations that Dehradun district police reported on
 the same day, the other being a charas seizure in Vikasnagar, carried out under
 a district campaign against drug trafficking and sale ordered by the Dehradun
 senior superintendent of police. [@3]
-

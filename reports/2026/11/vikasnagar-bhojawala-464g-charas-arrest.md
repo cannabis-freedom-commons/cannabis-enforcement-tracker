@@ -63,31 +63,35 @@ sources:
     publisher: Uttarakhand Aaj
     date: 2026-11-06
     language: hi
+  - title: एसएसपी दून के नेतृत्व में नशा तस्करों पर दून पुलिस का एक और वार
+    url: https://liveskgnews.com/uttarakhand/another-strike-by-dehradun-police-against-drug-traffickers-under-the-leadership-of-ssp-dehradun/
+    publisher: liveskgnews
+    date: 2026-11-12
+    language: hi
 open_questions:
-  - No street value for the seized charas was published.
-  - The report does not specify which Mirzapur the accused said he bought the charas in.
-  - No second independent account of this seizure could be found; only the Live Hindustan report was available.
-  - The report gives no charge section of the NDPS Act, case number or court outcome beyond the remand to jail.
-  - Left out activity, as no supporting quotation was given.
+    - No street value for the seized charas was published.
+    - The report does not specify which Mirzapur the accused said he bought the charas in.
+    - Live Hindustan and Amar Ujala said he was produced in court and sent to jail; this police roundup does not give a court outcome.
+    - Liveskgnews said he planned to sell the charas to local users in Dehradun, while Live Hindustan and Amar Ujala said he planned to sell it to villagers and passersby.
 ---
 
 Under Operation Prahar, Vikasnagar police arrested Pradeep alias Sonu with 464
 grams of charas in the Bhojawala area. [@1,2] The accused is 45-year-old Pradeep
-alias Sonu, son of Mir Singh and a resident of Bhojawala, Vikasnagar. [@1]
+alias Sonu, son of Mir Singh and a resident of Bhojawala, Vikasnagar. [@1,4]
 Police said they acted on 5 November on information that a Maruti Swift car in
 the Bhojawala area contained a suspicious item. [@1] A police team reached the
 spot and found a man standing beside the car. [@1] A search of the vehicle in
 his presence found 464 grams of charas hidden in plastic under the steering
 sheet. [@1,2]
 
-Police seized the Maruti Swift car used in the smuggling. [@1,2] During
-questioning, the accused said he had bought the charas in Mirzapur. [@1,2] He said
+Police seized the Maruti Swift car used in the smuggling. [@1,2,4] The seized car was a Maruti Swift registered UK-07-AZ-4776. [@4] During
+questioning, the accused said he had bought the charas in Mirzapur. [@1,2,4] He said
 he had hidden it in the car to sell it in small quantities to villagers and
 passersby for higher profit while looking for customers. [@1,2] A case under the
 NDPS Act was registered against him at Vikasnagar Kotwali, and he was produced
-in court and sent to jail. [@1,2]
+in court and sent to jail. [@1,2] Police registered the case as number 347/2026 under sections 8, 20 and 60 of the NDPS Act. [@4]
 
 Police said an NDPS Act case had also been registered against him at Vikasnagar
-Kotwali in 2019. [@1,3]
+Kotwali in 2019. [@1,3] That earlier case was number 19/2019 under sections 8 and 20 of the NDPS Act at Vikasnagar Kotwali. [@4]
 
 Station officer Rajiv Routhan said police acted on a tip on 5 November that a car in the Bhojawala area contained a suspicious item. [@2]
