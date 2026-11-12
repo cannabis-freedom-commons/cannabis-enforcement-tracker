@@ -33,6 +33,11 @@ media:
     media_url: https://www.gazetepusula.net/images/haberler/2026/11/ayakkabi-tabanina-gizlenen-esrar-ele-gecirildi-5704-webp.webp
     publisher: Gazete Pusula
     caption: Seized cannabis concealed in a shoe sole at the Esendere customs gate, in the photo published with the report.
+  - kind: photo
+    url: https://www.hakkari.gov.tr/uzumlu-gumruk-muhafaza-kacakcilik-ve-istihbarat-kisim-amirligi-faaliyetleri2---11112026
+    media_url: https://www.hakkari.gov.tr/kurumlar/hakkari.gov.tr/Haber-ve-Duyurular/2026-Haberler/11-KASIM/11-15-kasim/11_uzumlu-uyusturucu.jpg?mode=resize&width=800
+    publisher: Hakkari Valiliği
+    caption: 'The seized cannabis from the Esendere shoe-sole seizure, in the photo published with the governor''s statement. Photo: Hakkari Governor''s Office'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1fb6ee7987e511e1aa8a0691f26261e6
@@ -118,20 +123,36 @@ sources:
     publisher: Haberler.com
     date: 2026-11-11
     language: tr
+  - title: Üzümlü Gümrük Muhafaza Kaçakçılık ve İstihbarat Kısım Amirliği Faaliyetleri/2 - 11.11.2026
+    url: https://www.hakkari.gov.tr/uzumlu-gumruk-muhafaza-kacakcilik-ve-istihbarat-kisim-amirligi-faaliyetleri2---11112026
+    publisher: Hakkari Valiliği
+    date: 2026-11-11
+    language: tr
+  - title: Hakkari'deki gümrük kapılarında uyuşturucu, kaçak sigara ve telefon ele geçirildi
+    url: https://www.milliyet.com.tr/yerel-haberler/hakkari/hakkarideki-gumruk-kapilarinda-uyusturucu-kac-7699120
+    publisher: Milliyet
+    date: 2026-11-11
+    language: tr
+  - title: Üzümlü Gümrük Muhafaza Kaçakçılık ve İstihbarat Kısım Amirliği Faaliyetleri - 11.11.2026
+    url: https://www.hakkari.gov.tr/uzumlu-gumruk-muhafaza-kacakcilik-ve-istihbarat-kisim-amirligi-faaliyetleri---11112026
+    publisher: Hakkari Valiliği
+    date: 2026-11-11
+    language: tr
 open_questions:
     - No report says whether A.K. was detained or released after the interception.
     - No charge, court date or outcome has been reported; the case was at the investigation stage.
     - The 49.56 grams is given as a gross weight, so the net weight of the cannabis is not reported.
     - The material was described as assessed to be cannabis, with no laboratory confirmation reported.
+    - One account gives 770 cigarettes at the Üzümlü gate, while the governor's office says 770 packets; the governor's figure is used.
 ---
 
 Customs officers stopped Turkish citizen A.K. as he entered the passenger hall
-at Esendere customs gate from Iran at about 15:30. [@1,2,3,6,8,9,10,11,13] Officers found material
+at Esendere customs gate from Iran at about 15:30. [@1,2,3,6,8,9,10,11,13,17] Officers found material
 hidden in the soles of his shoes with a total gross weight of 49.56 grams,
-assessed as cannabis (esrar). [@1,2,4,6,7,8,9,10,12,13,14,15]
+assessed as cannabis (esrar). [@1,2,4,6,7,8,9,10,12,13,14,15,17]
 
 The interception was carried out by personnel of the Customs Enforcement
-Smuggling and Intelligence Section at Esendere. [@1,2,6,8,9,10,12,13,15] The seizure took place at
+Smuggling and Intelligence Section at Esendere. [@1,2,6,8,9,10,12,13,15,18] The seizure took place at
 the Esendere customs gate in Hakkari province, on the Turkish-Iranian border.
-[@1,8,10,15] Hakkari's governor's office announced the seizure in a statement published on its social media accounts. [@5,7,14,16] The Yüksekova Chief Public Prosecutor's Office opened an investigation into
-the incident. [@1,2,6,7,8,9,10,12,13,14,15]
+[@1,8,10,15,18] Hakkari's governor's office announced the seizure in a statement published on its social media accounts. [@5,7,14,16,18] In a separate search at the Üzümlü customs gate in Çukurca on 10 November, officers found seven mobile phones and 770 packets of foreign-stamped cigarettes in two vehicles arriving from Iraq. [@19] The Yüksekova Chief Public Prosecutor's Office opened an investigation into
+the incident. [@1,2,6,7,8,9,10,12,13,14,15,18]
