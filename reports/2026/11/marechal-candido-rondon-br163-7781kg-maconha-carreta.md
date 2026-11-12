@@ -79,14 +79,19 @@ sources:
     publisher: Umuarama News
     date: 2026-11-11
     language: pt
+  - title: Receita Federal participa de apreensão de quase 8 toneladas de maconha avaliadas em R$ 78 milhões
+    url: https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-participa-de-apreensao-de-quase-8-toneladas-de-maconha-avaliadas-em-r-78-milhoes
+    publisher: Receita Federal
+    date: 2026-11-11
+    language: pt
 open_questions:
-  - The reports say the operation began on Tuesday 10 November and ended on the morning of Wednesday 11 November but give no separate date or time for the approach and the arrests, so 11 November is used as the incident date.
-  - The two arrested were identified only by age and sex; no names, hometowns or criminal records were published.
-  - No charge, custody hearing or court outcome beyond the arrest in flagrante and referral to the Federal Police in Guaíra was reported.
-  - The R$ 16,318,000 figure is the Border Police Battalion's estimate of losses to organised crime, not a market price confirmed by an independent source.
-  - The accounts do not say where the load was put on the truck or where it was to be delivered.
-  - No laboratory confirmation of the substances was reported, and the weights are those given by the security forces at the scene.
-  - Several of the accounts republish the same agency information, so they corroborate the figures without being fully independent reporting.
+    - The reports say the operation began on Tuesday 10 November and ended on the morning of Wednesday 11 November but give no separate date or time for the approach and the arrests, so 11 November is used as the incident date.
+    - The two arrested were identified only by age and sex; no names, hometowns or criminal records were published.
+    - No charge, custody hearing or court outcome beyond the arrest in flagrante and referral to the Federal Police in Guaíra was reported.
+    - The R$ 16,318,000 figure is the Border Police Battalion's estimate of losses to organised crime, while the Receita Federal put the value of the same seizure at about R$ 78 million; neither is a market price confirmed by an independent source.
+    - The accounts do not say where the load was put on the truck.
+    - No laboratory confirmation of the substances was reported, and the weights are those given by the security forces at the scene.
+    - Several of the accounts, including the Receita Federal statement, come from the same security-force operation, so they corroborate the figures without being fully independent reporting.
 ---
 
 A 30-year-old man and a 20-year-old woman were arrested after officers found
@@ -98,19 +103,19 @@ that the identities of the driver and the passenger were not published. [@6]
 The Border Police Battalion, known as BPFRON, carried out the seizure in
 Marechal Cândido Rondon. [@1] The action was integrated between BPFRON, the
 Federal Police's Special Maritime Police Nucleus (NEPOM-PF), the Receita Federal
-customs office in Mundo Novo and the Military Police of Mato Grosso do Sul. [@1]
+customs office in Mundo Novo and the Military Police of Mato Grosso do Sul. [@1,8]
 Teams had received information from the Mato Grosso do Sul military police that
-a bitrem truck was heading towards Paraná with a possible drug load. [@1] The
+a bitrem truck was heading towards Paraná with a possible drug load. [@1] The truck was being used to transship a load bound for Santa Catarina, the Receita Federal said. [@8] The
 truck was a Volvo FH 400 bitrem carrying maize. [@2] Officers found bales of
 narcotics hidden among the maize during the inspection. [@1]
 
 After weighing, the load came to 7,603 kilograms of pressed marijuana and 178
-kilograms of skunk, 7,781 kilograms of drugs in total. [@1] Skunk is a variety
+kilograms of skunk, 7,781 kilograms of drugs in total. [@1,8] Skunk is a variety
 of cannabis with a higher concentration of THC, the substance responsible for
 the plant's psychoactive effects. [@1] The narcotics and the truck used in the
-transport were sent to the Federal Police station in Guaíra. [@1] According to
+transport were sent to the Federal Police station in Guaíra. [@1,8] According to
 the Border Police Battalion, the seizure represents an estimated loss of R$
-16,318,000 to organised crime. [@1] The action took place within Operação
+16,318,000 to organised crime. [@1] The Receita Federal estimated the value of the seized cannabis at about R$ 78 million. [@8] The action took place within Operação
 Protetor, a joint security-force campaign against drug trafficking in the border
 region. [@1]
 
@@ -124,4 +129,3 @@ the BPFRON. [@4] Portal Tarobá confirmed the same weighed figures of 7,603 kg o
 pressed marijuana and 178 kg of skunk. [@5] Umuarama News reported the same
 weighed figures of 7,603 kg of pressed marijuana and 178 kg of skunk, almost 7.8
 tonnes in a single operation. [@7]
-
