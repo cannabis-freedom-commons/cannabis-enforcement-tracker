@@ -77,6 +77,11 @@ sources:
     publisher: TBS NEWS DIG
     date: 2026-11-12
     language: ja
+  - title: 大麻使用の疑いで火元の住民逮捕 岐阜市12人搬送のアパート火災 火事との関連を捜査
+    url: https://newsdig.tbs.co.jp/articles/cbc/3079494
+    publisher: CBCテレビ
+    date: 2026-11-12
+    language: ja
 open_questions:
   - The youngest resident taken to hospital is described as one year old in some accounts and 18 months old in others.
 ---
@@ -85,17 +90,17 @@ A fire broke out in a three-storey apartment building in Kita-Isshiki, Gifu, in
 the early hours of 11 November 2026, after a neighbour reported seeing flames
 from the first floor. [@1,7] Twelve of the building's residents, aged from one to
 their forties, were taken to hospital and were thought to have minor injuries.
-[@1,4,5,7] The injured were taken to hospitals in Gifu City and in the neighbouring
+[@1,4,5,7,11] The injured were taken to hospitals in Gifu City and in the neighbouring
 town of Kasamatsu. [@2] The apartment housed 11 households and 15 residents in
 total. [@1] No one was left behind in the fire. [@3] The man who lived in the
 ground-floor room where the fire started was not injured. [@1] The fire was brought under control about two hours later. [@5]
 
 Gifu Chuo Police Station arrested that resident, a 43-year-old unemployed
 Turkish man, on 11 November on suspicion of violating the Narcotics Control Law
-by using cannabis. [@1,4,7,8] Police named the arrested man as Komur Gokhan (コムル・ギョクハン), a 43-year-old unemployed Turkish national. [@6,7,9] Police said he was suspected of using cannabis between
+by using cannabis. [@1,4,7,8,11] Police named the arrested man as Komur Gokhan (コムル・ギョクハン), a 43-year-old unemployed Turkish national. [@6,7,9] Police said he was suspected of using cannabis between
 early August and 11 November. [@1,4,5,7,8] The suspicion arose during the fire
 investigation: officers found his behaviour suspicious, tested his urine and
 detected cannabis components. [@1,6,7,9] Questioned by investigators, he admitted the suspicion. [@5,6,7,8,9]
 
 Police said they are investigating whether the cannabis use is connected to the
-fire. [@1,4,5,6,7,8,9,10] Police said they are also investigating how he obtained the cannabis and his motive. [@5]
+fire. [@1,4,5,6,7,8,9,10,11] Police said they are also investigating how he obtained the cannabis and his motive. [@5]
