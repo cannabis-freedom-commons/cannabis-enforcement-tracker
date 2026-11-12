@@ -67,6 +67,11 @@ sources:
     publisher: 名古屋テレビ【メ～テレ】
     date: 2026-11-12
     language: ja
+  - title: 様子おかしく尿検査…12人が搬送されたアパート火災 火元の部屋に住むトルコ国籍の43歳男を大麻使用の疑いで逮捕
+    url: https://www.tokai-tv.com/tokainews/feature/article_20261112_49288
+    publisher: 東海テレビNEWS
+    date: 2026-11-12
+    language: ja
 open_questions:
   - The youngest resident taken to hospital is described as one year old in some accounts and 18 months old in others.
 ---
@@ -82,10 +87,10 @@ ground-floor room where the fire started was not injured. [@1] The fire was brou
 
 Gifu Chuo Police Station arrested that resident, a 43-year-old unemployed
 Turkish man, on 11 November on suspicion of violating the Narcotics Control Law
-by using cannabis. [@1,4,7,8] Police named the arrested man as Komur Gokhan (コムル・ギョクハン), a 43-year-old unemployed Turkish national. [@6,7] Police said he was suspected of using cannabis between
+by using cannabis. [@1,4,7,8] Police named the arrested man as Komur Gokhan (コムル・ギョクハン), a 43-year-old unemployed Turkish national. [@6,7,9] Police said he was suspected of using cannabis between
 early August and 11 November. [@1,4,5,7,8] The suspicion arose during the fire
 investigation: officers found his behaviour suspicious, tested his urine and
-detected cannabis components. [@1,6,7] Questioned by investigators, he admitted the suspicion. [@5,6,7,8]
+detected cannabis components. [@1,6,7,9] Questioned by investigators, he admitted the suspicion. [@5,6,7,8,9]
 
 Police said they are investigating whether the cannabis use is connected to the
-fire. [@1,4,5,6,7,8] Police said they are also investigating how he obtained the cannabis and his motive. [@5]
+fire. [@1,4,5,6,7,8,9] Police said they are also investigating how he obtained the cannabis and his motive. [@5]
