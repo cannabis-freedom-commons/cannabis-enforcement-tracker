@@ -70,6 +70,11 @@ sources:
     publisher: Midiamax
     date: 2026-11-11
     language: pt
+  - title: Fuga pela contramão da BR-463 termina com 2 toneladas de maconha apreendidas
+    url: https://acritica.net/policia/maconha-br-463/
+    publisher: A Crítica de Campo Grande
+    date: 2026-11-11
+    language: pt
 open_questions:
   - The driver was not named, and no charge or court outcome beyond the referral to Defron was reported.
   - Whether the marijuana came from Paraguay was not established; the driver said he received the loaded vehicle near Antônio João.
@@ -80,29 +85,29 @@ open_questions:
 
 Military police of the DOF (Departamento de Operações de Fronteira), Mato Grosso
 do Sul's border operations department, seized about 2,021 kg of marijuana on the
-BR-463 between Dourados and Ponta Porã on Tuesday 10 November 2026. [@1,4] The
-driver, a 34-year-old man, was arrested after trying to flee the stop. [@3,4] The
+BR-463 between Dourados and Ponta Porã on Tuesday 10 November 2026. [@1,4,5] The
+driver, a 34-year-old man, was arrested after trying to flee the stop. [@3,4,5] The
 drugs were carried in a Toyota Hilux pickup that police recovered as a vehicle
-stolen in the state of Mato Grosso. [@1,4]
+stolen in the state of Mato Grosso. [@1,4,5]
 
 The team was patrolling the highway near the access to the Campo Limpo
 indigenous village when it saw the pickup enter the BR-463 at high speed, nearly
-hitting other vehicles. [@1,4] The driver ignored the order to stop and fled
+hitting other vehicles. [@1,4,5] The driver ignored the order to stop and fled
 against the flow of traffic, forcing other drivers to swerve to avoid
-collisions. [@1] Near the junction with the MS-378, known as Estrada do Guaíba,
+collisions. [@1,5] Near the junction with the MS-378, known as Estrada do Guaíba,
 he lost control of the Hilux, left the road and crashed into the fence of a
-rural property. [@1,4] He tried to escape on foot but was caught and arrested by
-the officers. [@1] During the inspection the team found 2,031 tablets of
-marijuana in the cab and the cargo bed of the pickup. [@1,4]
+rural property. [@1,4,5] He tried to escape on foot but was caught and arrested by
+the officers. [@1,5] During the inspection the team found 2,031 tablets of
+marijuana in the cab and the cargo bed of the pickup. [@1,4,5]
 
 The man said he had received the vehicle already loaded near the town of Antônio
-João and was to receive R$ 5,000 to drive it to Dourados. [@1,4] Checks showed
+João and was to receive R$ 5,000 to drive it to Dourados. [@1,4,5] Checks showed
 that the plate on the pickup belonged to another vehicle and that the Hilux had
-been stolen in Rondonópolis, Mato Grosso, in January 2025. [@3,4] The man, the
+been stolen in Rondonópolis, Mato Grosso, in January 2025. [@3,4,5] The man, the
 drugs and the pickup were taken to Defron (Delegacia Especializada de Repressão
 aos Crimes de Fronteira), the specialized border-crimes police station, in
-Dourados. [@1,4] Police estimated the loss to the criminal organization at R$ 4.2
-million. [@1,4] The action was part of Operação Protetor das Fronteiras, a
+Dourados. [@1,4,5] Police estimated the loss to the criminal organization at R$ 4.2
+million. [@1,4,5] The action was part of Operação Protetor das Fronteiras, a
 partnership between the Mato Grosso do Sul state Secretariat of Justice and
 Public Security (Sejusp) and the federal Ministry of Justice and Public
 Security. [@2,4]
