@@ -59,38 +59,42 @@ sources:
     publisher: Secretaría de Seguridad Pública de Guerrero
     date: 2026-11-10
     language: es
+  - title: Detienen fuerzas del orden a dos personas y aseguran probable droga en Acapulco
+    url: https://acustiknoticias.com/2026/11/detienen-fuerzas-del-orden-a-dos-personas-y-aseguran-probable-droga-en-acapulco/
+    publisher: Acustik Noticias
+    date: 2026-11-11
+    language: es
 open_questions:
-  - No weight or street value was published for the suspected marijuana; the accounts count only 41 small bags.
-  - No laboratory confirmation was reported for the seized plant material, which authorities described as suspected marijuana.
-  - The 20 doses of suspected crystal are not cannabis and are excluded from the cannabis figures.
-  - Neither account specifies a separate date or time for the patrols; 10 November 2026 is the dateline and publication date of both the official bulletin and the news report and stands in for the incident date.
-  - The two detainees were not named, and no specific charges, prosecuting office or court outcome were reported.
-  - Authorities did not disclose what suspected offence the seized motorcycle was linked to.
-  - Quadratín Guerrero cited a press bulletin and referred to the 30 bags in Paso Limonero as doses, so the two published accounts are not independent confirmation beyond the SSP Guerrero statement.
+    - No weight or street value was published for the suspected marijuana; the accounts count only 41 small bags.
+    - No laboratory confirmation was reported for the seized plant material, which authorities described as suspected marijuana.
+    - The 20 doses of suspected crystal are not cannabis and are excluded from the cannabis figures.
+    - No separate date or time was given for the patrols; 10 November 2026 is the date of the SSP Guerrero bulletin and stands in for the incident date.
+    - The two detainees were not named, and no specific charges, prosecuting office or court outcome were reported.
+    - Authorities did not disclose what suspected offence the seized motorcycle was linked to.
+    - Quadratín Guerrero and Acustik Noticias both reproduce the SSP Guerrero statement, and Quadratín described the 30 bags in Paso Limonero as doses, so the accounts are not independent confirmation.
 ---
 
 Joint security patrols detained two people in the Paso Limonero and Cervantes
 colonias, or neighbourhoods, of Acapulco, seizing 41 small bags of suspected
-marijuana, 20 doses of suspected crystal and a motorcycle. [@2] Quadratín
+marijuana, 20 doses of suspected crystal and a motorcycle. [@2,3] Quadratín
 Guerrero described the two detainees as young people. [@1] Both detainees were
 handed over to the authorities. [@1]
 
 In Paso Limonero, personnel from the State Police, the Mexican Army, the Navy,
 the National Guard, the state Attorney General's Office and the Secretariat of
-Security and Citizen Protection detained one person. [@2] Officers there seized
+Security and Citizen Protection detained one person. [@2,3] Officers there seized
 30 small bags of suspected marijuana, 13 doses of suspected crystal and a
-motorcycle over its possible link to a crime. [@2] Quadratín Guerrero, citing a
+motorcycle over its possible link to a crime. [@2,3] Quadratín Guerrero, citing a
 press bulletin, referred to the marijuana seized in Paso Limonero as 30 doses.
 [@1]
 
 Personnel from the State Police, the Army, the Navy, the National Guard and the
 state Attorney General's Office later detained another person in the Cervantes
-neighbourhood. [@2] In that intervention, officers seized 11 small bags of
-suspected marijuana and seven doses of suspected crystal. [@2]
+neighbourhood. [@2,3] In that intervention, officers seized 11 small bags of
+suspected marijuana and seven doses of suspected crystal. [@2,3]
 
 Authorities said the detainees are presumed innocent until a competent court
-issues a judgment establishing their responsibility. [@2] Guerrero's Public
+issues a judgment establishing their responsibility. [@2,3] Guerrero's Public
 Security Secretariat, SSP Guerrero, said coordinated patrols in Acapulco were
 continuing and urged residents to report emergencies on 911 and anonymous tips
-on 089. [@2]
-
+on 089. [@2,3]
