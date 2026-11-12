@@ -48,6 +48,11 @@ sources:
     url: https://frontnews.ge/en/news/12-kilogramamde-narkotikuli-sashualebis-sakartveloshi-ukanonod-shemotanis-phaktze-utskho-kveqnis-mokalake-daakaves
     publisher: Frontnews Georgia
     date: 2026-09-19
+  - title: На границе Грузии с Азербайджаном задержали иностранца с 12 кг марихуаны
+    url: https://news.am/ru/news/1062748
+    publisher: NEWS.am
+    date: 2026-09-19
+    language: ru
 open_questions:
   - The articles give no separate date for the interception, so 19 September 2026, the publication date, is used as the incident date.
   - The quantity is described as up to 12 kilograms in one account and nearly 12 kilograms in another, not an exact laboratory weight.
@@ -59,22 +64,21 @@ open_questions:
 Officers of the Central Department of Criminal Police of the Ministry of
 Internal Affairs and the Customs Department of the Revenue Service of the
 Ministry of Finance detained a foreign citizen. [@1] The detained man had been
-driving a truck that officers subjected to a detailed inspection. [@1] He was
+driving a truck that officers subjected to a detailed inspection. [@1,3] He was
 accused of illegally acquiring and possessing a particularly large quantity of
-narcotic drugs and illegally importing them into Georgia. [@1] He faces charges
+narcotic drugs and illegally importing them into Georgia. [@1,3] He faces charges
 of illegal acquisition, possession and importation of a particularly large
 quantity of narcotic drugs. [@2]
 
-The detailed inspection took place at the Lagodekhi border crossing point. [@2]
+The detailed inspection took place at the Lagodekhi border crossing point. [@2,3] The Lagodekhi crossing point lies on Georgia's border with Azerbaijan. [@3]
 Officers found a specially constructed hidden compartment inside the vehicle's
-cabin. [@2] Inside the hiding place were two bundles containing up to 12
-kilograms of marijuana, seized as material evidence. [@1] Another account
+cabin. [@2,3] Inside the hiding place were two bundles containing up to 12
+kilograms of marijuana, seized as material evidence. [@1,3] Another account
 describes the seizure as nearly 12 kilograms of marijuana allegedly imported by
 a foreign national. [@2]
 
 The arrest was a joint operation by the Interior Ministry's Central Criminal
 Police Department and the Finance Ministry's Revenue Service Customs Department.
-[@2] The investigation is proceeding under Articles 260 and 262 of Georgia's
-Criminal Code. [@1] If convicted, the suspect could face up to 20 years in
-prison or life imprisonment. [@2]
-
+[@2,3] The investigation is proceeding under Articles 260 and 262 of Georgia's
+Criminal Code. [@1,3] If convicted, the suspect could face up to 20 years in
+prison or life imprisonment. [@2,3]
