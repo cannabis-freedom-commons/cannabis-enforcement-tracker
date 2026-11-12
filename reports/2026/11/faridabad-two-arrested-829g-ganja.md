@@ -48,27 +48,30 @@ sources:
     publisher: Alive News
     date: 2026-11-11
     language: hi
+  - title: 'Faridabad News: गांजा बेचने के आरोप में दो पकड़े'
+    url: https://www.amarujala.com/delhi-ncr/faridabad/two-arrested-on-marijuana-sales-charges-faridabad-news-c-1-1-noi1505-4926704-2026-11-11
+    publisher: Amar Ujala
+    date: 2026-11-11
+    language: hi
 open_questions:
-  - No ages for Mohit or Shivam were published.
-  - The concerned police stations where the NDPS cases were registered were not named.
-  - No remand, charge sheet or court outcome was reported.
-  - The whole account rests on a single report with no second independent account found.
+    - No ages for Mohit or Shivam were published.
+    - The concerned police stations where the NDPS cases were registered were not named.
+    - No remand, charge sheet or court outcome was reported.
 ---
 
 Faridabad police arrested two young men in two separate ganja-smuggling cases.
 [@1] The Crime Branch Central team acted on secret information when it made its
 arrest on 10 November. [@1] The team arrested Mohit, a resident of Bhatia
-Colony, at IMT Chowk in Sector-2. [@1] The Crime Branch Sector-16 team arrested
-Shivam, a resident of Sector-56, near Pratapgarh Road at Gochhi. [@1]
+Colony, at IMT Chowk in Sector-2. [@1,2] The Crime Branch Sector-16 team arrested
+Shivam, a resident of Sector-56, near Pratapgarh Road at Gochhi. [@1,2]
 
 Crime Branch Central and Crime Branch Sector-16 teams recovered a total of 829
-grams of ganja from the two accused. [@1] A search of Mohit found 300 grams of
-ganja in his possession. [@1] Officers recovered 529 grams of ganja from
-Shivam's possession. [@1] Ganja is the local term for cannabis. [@1]
+grams of ganja from the two accused. [@1,2] A search of Mohit found 300 grams of
+ganja in his possession. [@1,2] Officers recovered 529 grams of ganja from
+Shivam's possession. [@1,2] Ganja is the local term for cannabis. [@1]
 
 Police registered cases against both accused under the Narcotic Drugs and
 Psychotropic Substances Act, India's main anti-drug law, at the concerned police
-stations. [@1] Police said their campaign against people involved in the illegal
+stations. [@1,2] Police said their campaign against people involved in the illegal
 drug trade would continue. [@1] Both arrests were reported together as part of
 the same police action against ganja smuggling in Faridabad. [@1]
-
