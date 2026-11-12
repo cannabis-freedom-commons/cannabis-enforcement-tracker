@@ -59,28 +59,32 @@ sources:
     publisher: Rosgvardia
     date: 2026-11-11
     language: ru
+  - title: 'В Калининграде нашли домашнюю плантацию конопли: задержан её предполагаемый хозяин'
+    url: https://klops.ru/proisshestviya/2026-11-11/394717-v-kaliningrade-nashli-domashnyuyu-plantatsiyu-konopli-zaderzhan-eyo-predpolagaemyy-hozyain
+    publisher: Klops.ru
+    date: 2026-11-11
+    language: ru
 open_questions:
-  - The exact date of the raid and search was not reported; 11 November 2026 is the publication date of both sources and stands in for the event date.
-  - No later court outcome, detention measure or sentence was reported.
-  - The reports do not state whether the 153.6 grams was dried marijuana ready for sale in addition to the eight bushes.
+    - The exact date of the raid and search was not reported; 11 November 2026 is the publication date of the sources and stands in for the event date.
+    - No later court outcome, detention measure or sentence was reported.
+    - The reports do not state whether the 153.6 grams was dried marijuana ready for sale in addition to the eight bushes.
 ---
 
 Police in Kaliningrad detained a 32-year-old local man who allegedly grew
-marijuana on a plot in Kutaisky Lane and was preparing it for sale. [@1] He was
-detained with power support from Rosgvardia. [@1] Rosgvardia said its SOBR
+marijuana on a plot in Kutaisky Lane and was preparing it for sale. [@1,3] He was
+detained with power support from Rosgvardia. [@1,3] Rosgvardia said its SOBR
 Viking unit acted jointly with the regional UMVD to stop the 32-year-old man's
 activity. [@2] Investigators opened a criminal case against the suspect for
 attempted illegal sale of narcotic drugs on a large scale under Article 228.1 of
-the Russian Criminal Code. [@1] The charge carries a possible prison term of 10
-to 20 years. [@1]
+the Russian Criminal Code. [@1,3] The case was opened under part 3 of article 30 and paragraph 'g' of part 4 of article 228.1 of the Criminal Code. [@3] The charge carries a possible prison term of 10
+to 20 years. [@1,3]
 
-During the search, police found and seized 153.6 grams of the drug. [@1] They
-also seized eight cannabis bushes growing at the property. [@1] Officers
+During the search, police found and seized 153.6 grams of the drug. [@1,3] They
+also seized eight cannabis bushes growing at the property. [@1,3] Officers
 additionally took mobile telephones, a tablet, electronic scales and two
-grinders. [@1]
+grinders. [@1,3]
 
-The regional UMVD reported the operation through its press service. [@1]
+The regional UMVD reported the operation through its press service. [@1,3]
 According to preliminary data, the man had illegally cultivated a plant-based
-narcotic and prepared it for further sale. [@2] Rosgvardia said the bushes and
+narcotic and prepared it for further sale. [@2,3] Rosgvardia said the bushes and
 equipment were recovered during a search of the suspect's residence. [@2]
-
