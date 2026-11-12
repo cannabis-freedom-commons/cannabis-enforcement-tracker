@@ -38,22 +38,24 @@ sources:
     publisher: Hindustan
     date: 2026-10-31
     language: hi
+  - title: 'Noida News: दिल्ली से नोएडा तक गांजे की सप्लाई, चार तस्कर गिरफ्तार'
+    url: https://www.amarujala.com/delhi-ncr/noida/dsfg-grnoida-news-c-1-noi1095-4923925-2026-11-11
+    publisher: Amar Ujala
+    date: 2026-11-11
+    language: hi
 open_questions:
-  - The brief gives no separate date for the arrest; 31 October 2026, its publication date, is used as the event date.
-  - No case number, charge section or court appearance has been reported.
-  - Only one account of this arrest was found; no police statement or second outlet report was available.
-  - No estimated value was published for the 760 grams of ganja.
-  - 'Left out, as its quotation was not found in Hindustan: He was living on rent in Hoshiarpur village at the time.'
+    - No case number, charge section or court appearance has been reported, though police later said an FIR was registered.
+    - No estimated value was published for the 760 grams of ganja.
+    - One account dates the arrest to the night of 30 October; another, published on 31 October, gave no separate arrest date.
 ---
 
 Sector-49 police station in Noida arrested a young man accused of bringing ganja
-from Delhi and preparing it in small packets for sale. [@1] Police recovered 760
-grams of ganja from him. [@1]
+from Delhi and preparing it in small packets for sale. [@1] The Sector-49 action was on the night of 30 October. [@2] Police recovered 760
+grams of ganja from him. [@1,2] Additional Deputy Commissioner of Police Abhay Kumar Mishra said an FIR was registered and the accused was arrested. [@2]
 
 According to police, a patrol team saw a suspicious young man near the green
-belt of the sewage plant in Sector 50. [@1] A search found the ganja on him.
+belt of the sewage plant in Sector 50. [@1,2] He tried to run when he saw the police, and officers caught him. [@2] A search found the ganja on him.
 [@1]
 
 Questioning identified him as Kamal Kishore Kannaujia, a resident of Hardoi.
-[@1]
-
+[@1,2] He is 29 and was living on rent in Hoshiarpur. [@2]
