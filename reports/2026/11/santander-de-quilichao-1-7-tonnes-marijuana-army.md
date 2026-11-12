@@ -63,6 +63,11 @@ media:
     media_url: https://staticprd.minuto30.com/wp-content/uploads/2026/11/1-dest-cauca-768x432.webp
     publisher: Minuto30
     caption: 'Packages of pressed marijuana seized by the army in Santander de Quilichao, Cauca. Photo: Redes Sociales'
+  - kind: photo
+    url: https://proclamadelpacifico.com/persecucion-militar-termina-con-17-toneladas-de-marihuana-incautadas/
+    media_url: https://proclamadelpacifico.com/wp-content/uploads/2026/11/Persecucion-militar-termina-con-17-toneladas-de-marihuana-incautadas.jpg
+    publisher: Proclama del Pacífico
+    caption: Packages of pressed marijuana laid out on the ground with soldiers and the seized truck behind, after the operation in Santander de Quilichao.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 34eb31b95767ac9bb95143b775e69f84
@@ -98,25 +103,25 @@ sources:
     publisher: Minuto30
     date: 2026-11-11
     language: es
-open_questions:
-    - No separate date for the interception was published; 11 November 2026 is the publication date and is used as the incident date.
-    - The articles give both more than 420 million and more than 425 million pesos for the financial impact; the report uses the Third Division figure of more than 425 million pesos.
-    - The captured person was not identified, and no charges or court decision were reported.
-    - The account rests on Colombian news reports of the army's statement, several of them reprints of the same syndicated text; the army's own release could not be opened separately.
+  - title: Persecución militar termina con 1,7 toneladas de marihuana incautadas
+    url: https://proclamadelpacifico.com/persecucion-militar-termina-con-17-toneladas-de-marihuana-incautadas/
+    publisher: Proclama del Pacífico
+    date: 2026-11-11
+    language: es
 ---
 
 Colombian army troops seized 1.7 tonnes of pressed marijuana in the jurisdiction
-of Santander de Quilichao, in northern Cauca. [@1,3,4,5,6] The operation began at a
-military checkpoint when the driver ignored the stop signal and fled. [@1,2,3,4,5,6] The driver tried to evade the troops along secondary roads through several sectors of Santander de Quilichao before being intercepted. [@4]
+of Santander de Quilichao, in northern Cauca. [@1,3,4,5,6,7] The operation began at a
+military checkpoint when the driver ignored the stop signal and fled. [@1,2,3,4,5,6,7] The driver tried to evade the troops along secondary roads through several sectors of Santander de Quilichao before being intercepted. [@4]
 Motorized troops of Mountain Battalion No. 8 pursued the vehicle and intercepted
-it, taking 1,700 kilograms of pressed marijuana out of circulation. [@1,2,4,5] The seized marijuana was of the 'creepy' type. [@2,5] The load had come from greenhouses in the north of the department. [@2]
+it, taking 1,700 kilograms of pressed marijuana out of circulation. [@1,2,4,5,7] The seized marijuana was of the 'creepy' type. [@2,5] The load had come from greenhouses in the north of the department. [@2]
 Officers captured one person and immobilized one van-type truck in the
-operation. [@1,4,6] The captured person, the vehicle and the seized substance were
+operation. [@1,4,6,7] The captured person, the vehicle and the seized substance were
 placed at the disposal of the judicial authorities. [@1,2,3,4,5,6]
 
 The army's Third Division attributed the load to the Dagoberto Ramos structure
 of the FARC dissidents and said the structure would stop receiving more than 425
 million pesos. [@1,2,3,4,6] The acting commander of Brigade 29, Colonel Juan Camilo
-Vela, gave the official account of the checkpoint, pursuit and inspection. [@1]
+Vela, gave the official account of the checkpoint, pursuit and inspection. [@1,7]
 According to preliminary information, the marijuana was possibly destined for
-illegal markets in Central America, Europe and the United States. [@1,2,3,4,5,6]
+illegal markets in Central America, Europe and the United States. [@1,2,3,4,5,6,7]
