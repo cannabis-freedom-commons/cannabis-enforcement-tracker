@@ -73,20 +73,22 @@ sources:
     publisher: தினமணி
     date: 2026-11-07
     language: ta
+  - title: 'புதுக்கோட்டையில் கஞ்சா கடத்தியவர்கள் கைது: மதுவிலக்கு போலீசாருக்கு ஐ.ஜி பாராட்டு'
+    url: https://www.dinakaran.com/district/pudukkottai_121126_3/
+    publisher: Dinakaran
+    date: 2026-11-12
+    language: ta
+  - title: கஞ்சா கடத்திய 2 பெண்கள் கைது
+    url: https://dinamalar.com/news/tamil-nadu-news/2-women-who-smuggled-cannabis-arrested/4369524
+    publisher: Dinamalar
+    date: 2026-11-06
+    language: ta
 open_questions:
-  - The reports give no separate time or exact spot for the car check; 6 November 2026 is both the date they state (Friday) and the publication date of the Thanthi TV and Daily Thanthi articles.
-  - The check is placed only in Pudukkottai and its surroundings, so coordinates are those of Pudukkottai town with district precision.
-  - The two women are named, but one is described only as the other's sister's daughter; no ages or occupations were reported.
-  - No charges or court stage were reported beyond a registered case and an ongoing investigation.
-  - The Thanthi TV page carries only a one-sentence written account and an embedded video, so no separate details or verified video content came from it.
-  - 'Left out, as its quotation was not found in Daily Thanthi: Police registered a case and said they were working to find who drove the car and which key figures sit behind the inter-state ganja network.'
-  - 'Left out, as its quotation was not found in Thinathulir: A second Tamil outlet, Thinathulir, reported the same 26 kg seizure and put its value at about ₹13 lakh.'
-  - Left out case stage, as its quotation was not found in Daily Thanthi.
-  - The two women are identified only by given names, with no ages or occupations reported.
-  - No charges under a specific law section or court stage were reported beyond a registered case and an ongoing investigation.
-  - Dinamani dates the arrest to Thursday night (5 November 2026), while the Thanthi TV and Daily Thanthi accounts date the car check to Friday 6 November; the reports may reflect a check after midnight or different reckoning, and no source reconciles them.
-  - Dinamani places the check at Kattiyavayal in Pudukkottai district and describes the arresting officers as a special team of the district superintendent of police, with the case then handed to the prohibition enforcement wing; the earlier reports describe district police stopping the car.
-  - Dinamani gives the two women's ages as 55 and 35 and no occupations.
+    - 'The accounts differ on the date: Dinamani and Dinakaran put the arrest on the night of 5 November 2026, while Thanthi TV and Daily Thanthi describe the car check on Friday 6 November.'
+    - The accounts place the women's home in Kovilpatti but differ on whether it is the Kovilpatti near Pudukkottai or the one in Thiruvarur.
+    - 'The police unit that made the arrest is described differently: Dinamalar has a special team of the district superintendent of police stop the two and hand them to the prohibition enforcement wing, while Dinakaran says a prohibition police team led by Inspector Vennila arrested them.'
+    - No charges under a specific law section were reported, and no later report says whether the two women remain in custody or were released on bail.
+    - The reports do not say who drove the car or whether anyone else in the network was arrested.
 ---
 
 Two women were arrested in Pudukkottai district, Tamil Nadu, for smuggling 26 kg
@@ -106,4 +108,4 @@ Pudukkottai and the surrounding areas. [@2]
 
 Police registered a case and said they were working to find who drove the car and which key figures sit behind the inter-state ganja network. [@2]
 
-Vasanthi was 55 and Shanmugapriya 35 when they were arrested, according to Dinamani; the other accounts gave no ages. [@3] The check took place at Kattiyavayal in Pudukkottai, carried out by a special team of the district superintendent of police after information that the two were bringing ganja from outside the state. [@3] The two were then handed over to the prohibition enforcement police of Pudukkottai, who registered the case, arrested them and jailed them. [@3]
+Vasanthi was 55 and Shanmugapriya 35 when they were arrested, according to Dinamani; the other accounts gave no ages. [@3] The check took place at Kattiyavayal in Pudukkottai, carried out by a special team of the district superintendent of police after information that the two were bringing ganja from outside the state. [@3,5] The two were then handed over to the prohibition enforcement police of Pudukkottai, who registered the case, arrested them and jailed them. [@3] The Inspector General of Police for the Central Zone in Tiruchirappalli, Balakrishnan, later gave certificates of appreciation to the Pudukkottai prohibition police team led by Inspector Vennila for the arrests. [@4]
