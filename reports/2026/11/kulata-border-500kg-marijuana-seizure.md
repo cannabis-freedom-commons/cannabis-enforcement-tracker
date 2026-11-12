@@ -70,20 +70,27 @@ sources:
     publisher: Новини 24/7
     date: 2026-11-11
     language: bg
+  - title: Голямо количество марихуана задържаха на граничен преход "Кулата“
+    url: https://pik.bg/%D0%B3%D0%BE%D0%BB%D1%8F%D0%BC%D0%BE-%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D0%BC%D0%B0%D1%80%D0%B8%D1%85%D1%83%D0%B0%D0%BD%D0%B0-%D0%B7%D0%B0%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D1%85%D0%B0-%D0%BD%D0%B0-%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD-%D0%BF%D1%80%D0%B5%D1%85%D0%BE%D0%B4-%D0%BA%D1%83%D0%BB%D0%B0%D1%82%D0%B0%E2%80%9C-news1362797.html
+    publisher: Информационна агенция ПИК
+    date: 2026-11-11
+    language: bg
+open_questions:
+  - Reports differ on whether the truck was stopped on 9 or 10 November 2026; the report uses 10 November.
 ---
 
 A joint operation by Bulgaria's Customs Agency, the Ministry of the Interior and
 the prosecution service was carried out at the Kulata border checkpoint, where
 officers stopped a freight truck travelling on the designated entry lane into
-the country. [@1,6] The truck was entering Bulgaria from Greece. [@3,4,5,7] During the subsequent inspection of the heavy-goods truck
+the country. [@1,6] The truck was entering Bulgaria from Greece. [@3,4,5,7,8] During the subsequent inspection of the heavy-goods truck
 combination, the checking officers found nearly 500 kilograms of marijuana in
-the transported load. [@1,6,7] The Bulgarian driver was detained. [@2,3,5,7] NewsPoint named Vangel Mitsev of Plovdiv as the driver, and said investigators had not officially confirmed his identity. [@5] The driver has been charged and detained for 72 hours. [@4] After the stop the driver was taken to the emergency department of MBAL Blagoevgrad on 10 November, shortly after 22:00, and remained in custody after a medical examination. [@5] The marijuana was found in a specially built hide in a freight vehicle driven by a Bulgarian driver. [@2,3,5,7] Customs officers found an extra rear board on the trailer, with a hidden compartment behind it holding boxes of cannabis packages. [@5] Infomrezha expressly presented the nearly
+the transported load. [@1,6,7] The Bulgarian driver was detained. [@2,3,5,7] NewsPoint named Vangel Mitsev of Plovdiv as the driver, and said investigators had not officially confirmed his identity. [@5] The driver has been charged and detained for 72 hours. [@4,8] After the stop the driver was taken to the emergency department of MBAL Blagoevgrad on 10 November, shortly after 22:00, and remained in custody after a medical examination. [@5] The marijuana was found in a specially built hide in a freight vehicle driven by a Bulgarian driver. [@2,3,5,7] Customs officers found an extra rear board on the trailer, with a hidden compartment behind it holding boxes of cannabis packages. [@5] Infomrezha expressly presented the nearly
 500-kilogram quantity as unofficial information provided to its own newsroom
 rather than as a confirmed official measurement. [@1]
 
 Official information from the competent institutions on the circumstances of the
 case and on the value of the seized narcotic quantity was still awaited when the
-report was published. [@1,6] One line of inquiry was an international channel moving large quantities of cannabis from Spain through Greece and Bulgaria toward Turkey. [@5] NewsPoint said there was no official confirmation that the seized shipment was part of that scheme. [@5] Customs and the Blagoevgrad prosecutor's office scheduled a briefing on the case for 12 November 2026. [@4] Struma said a similar quantity had not been seized at the Kulata crossing in recent years and put the value at several million euros. [@2] The report described the Kulata interception as
+report was published. [@1,6] One line of inquiry was an international channel moving large quantities of cannabis from Spain through Greece and Bulgaria toward Turkey. [@5] NewsPoint said there was no official confirmation that the seized shipment was part of that scheme. [@5] Customs and the Blagoevgrad prosecutor's office scheduled a briefing on the case for 12 November 2026. [@4,8] The briefing was to be given by Customs Agency deputy director Stefan Bakalov and Blagoevgrad district prosecutor's office spokesperson Irina Asparuhova. [@8] Struma said a similar quantity had not been seized at the Kulata crossing in recent years and put the value at several million euros. [@2] The report described the Kulata interception as
 another serious blow against organised trafficking through this border
 checkpoint. [@1] It added that in recent weeks the Kulata crossing had been at
 the centre of several large-scale investigations linked to the smuggling of
