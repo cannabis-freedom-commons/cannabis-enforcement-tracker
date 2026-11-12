@@ -36,6 +36,11 @@ media:
     media_url: https://cdn.ghanaweb.com/imagelib/pics/469/46980745.295.jpg
     publisher: GhanaWeb
     caption: Compressed and cello-taped slabs of dried leaves suspected to be Indian hemp, photographed after the count of the 53 sacks at the Regional Criminal Investigations Department in Tema.
+  - kind: photo
+    url: https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Police-recover-3-752-suspected-Indian-Hemp-slabs-in-Ada-canoe-interception-2060882
+    media_url: https://cdn.ghanaweb.com/imagelib/pics/381/38169294.jpg
+    publisher: GhanaWeb
+    caption: Scan of the Tema Regional Police Command statement on the 4 November 2026 interception at Agorta Island, signed by ASP Dede Dzakpasu and published with the article.
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6e7b03891822a048b4da70b08ab94163
@@ -53,6 +58,11 @@ sources:
     url: https://3news.com/news/crime/ada-police-seize-3752-slabs-indian-hemp-canoe-volta-lake
     publisher: 3News
     date: 2026-11-12
+  - title: Police recover 3,752 suspected Indian Hemp slabs in Ada canoe interception
+    url: https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Police-recover-3-752-suspected-Indian-Hemp-slabs-in-Ada-canoe-interception-2060882
+    publisher: GhanaWeb
+    date: 2026-11-11
+    language: en
 open_questions:
   - No weight was published for the 3,752 slabs, so the seizure could not be recorded in kilograms.
   - The slabs were described as suspected Indian hemp and had not been confirmed as cannabis when the seizure was announced.
@@ -64,10 +74,10 @@ open_questions:
 ---
 
 The Tema Regional Police Command intercepted and recovered a canoe carrying
-3,752 slabs of suspected Indian hemp on the Volta Lake at Ada. [@1,3] The
+3,752 slabs of suspected Indian hemp on the Volta Lake at Ada. [@1,3,4] The
 operation took place on 4 November 2026 after intelligence that a consignment of
 suspected narcotic substances was being transported from Jemeniweres through the
-Volta Lake towards Ada. [@1,3] Marine Police officers went to Mepe in the Volta
+Volta Lake towards Ada. [@1,3,4] Marine Police officers went to Mepe in the Volta
 Region, but found that the suspects had fled in their canoes. [@2,3] The team
 moved to Big Ada to pursue them. [@2,3] At about 11:10 p.m. the police intercepted
 the suspects at Agorta Island in Ada, but they escaped into the river,
@@ -75,7 +85,7 @@ abandoning the canoe and its contents. [@1,3]
 
 The canoe was taken to the Marine Police Base at Ada, where a search found 53
 sacks containing suspected narcotic substances, outboard motors, 30 yellow
-gallons containing petrol and premix fuel, a cutlass and other items. [@1,3] The
+gallons containing petrol and premix fuel, a cutlass and other items. [@1,3,4] The
 following day, 5 November 2026, the 53 sacks were opened and counted at the
 Regional Criminal Investigations Department in Tema. [@1,3] The count revealed
 3,752 compressed and cello-taped slabs of dried leaves suspected to be Indian
@@ -83,8 +93,8 @@ hemp. [@1,3] The suspected narcotic substances were secured as exhibits pending
 further examination. [@1,3]
 
 No arrests had been made in connection with the seizure, and investigations were
-continuing to identify and apprehend those involved. [@2,3] The command issued a
+continuing to identify and apprehend those involved. [@2,3,4] The command issued a
 statement on Wednesday 11 November 2026. [@2,3] The statement was signed by ASP
-Dede Dzakpasu, head of public affairs for the Tema Regional Police Command. [@1]
+Dede Dzakpasu, head of public affairs for the Tema Regional Police Command. [@1,4]
 The Tema Regional Police Command reiterated its commitment to combating drug
 trafficking and urged the public to volunteer information. [@1,3] The same police unit had intercepted a canoe loaded with suspected cannabis at Ada in September. [@3]
