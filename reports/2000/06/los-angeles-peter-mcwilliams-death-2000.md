@@ -29,6 +29,7 @@ details:
   force: [lethal]
   products: [{product: flower}, {product: plants, plants: 6000}]
   setting: [home]
+  related: [mccormick-bel-air-five-year-sentence-2000, boje-vancouver-extradition-order-2000]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
@@ -45,7 +46,6 @@ status: verified
 tags: [medical-marijuana, federal-prosecution]
 open_questions:
   - The reports state the number of plants grown but give no seized weight or street value.
-  - The reports do not record the outcome of Todd McCormick's case after McWilliams died.
 sources:
   - title: Fatal Condition
     url: https://reason.com/2000/06/21/fatal-condition/
