@@ -85,6 +85,11 @@ sources:
     publisher: Quadratín Jalisco
     date: 2026-08-16
     language: es
+  - title: Otra vez destruyen plantío de mariguana en Tequila; suman al menos cinco intervenciones
+    url: https://www.informador.mx/jalisco/tequila-destruyen-plantio-de-mariguana-en-tequila-suman-al-menos-cinco-intervenciones-20261002-0199.html
+    publisher: El Informador
+    date: 2026-10-02
+    language: es
 open_questions:
   - No arrests or suspects are named in any of the three accounts, so no person is identified as responsible for the plantations.
   - The plant total (about 33,000) is an approximation summing three sites; the source gives about 3,000, about 6,000 and about 24,000 plants respectively.
@@ -99,7 +104,7 @@ open_questions:
 
 Jalisco state police destroyed about 33,000 plants of apparent marijuana found
 at two plantations and a drying site in the municipality of Tequila, in the
-Valles region. [@1] Officers of the regional police unit found the first plot
+Valles region. [@1,4] Officers of the regional police unit found the first plot
 near the property known as Los Alotes, close to the village of El Olvido: about
 3,000 plants up to 1.2 metres tall on roughly 1,500 square metres. [@1]
 
@@ -115,4 +120,3 @@ destroyed and burned on the spot under the federal prosecutor's instructions.
 Quadratín Jalisco put the black-market value of the 33,000 plants destroyed at
 the three sites at about 37.1 million pesos. [@3] The reports name no arrests
 and no suspects. [@3]
-
