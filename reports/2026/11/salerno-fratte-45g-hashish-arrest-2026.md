@@ -57,25 +57,29 @@ sources:
     publisher: SalernoToday
     date: 2026-11-11
     language: it
+  - title: 'Hashish e otto proiettili sequestrati a Fratte: arrestato un 24enne'
+    url: https://www.lostrillone.tv/news/cronaca/528098/hashish-e-otto-proiettili-sequestrati-a-fratte-arrestato-un-24enne.html
+    publisher: Lo Strillone TV
+    date: 2026-11-11
+    language: it
 open_questions:
-  - The hashish weight is reported as approximate (about 45 grams), not an exact measured figure.
-  - The reports do not say where the search took place, only that the material was in the man's possession after a search.
-  - No custodial measure, charge development or court outcome beyond the arrest was reported.
+    - The hashish weight is reported as approximate (about 45 grams), not an exact measured figure.
+    - The reports do not say whose home in Fratte was searched.
+    - No custodial measure, charge development or court outcome beyond the arrest was reported.
 ---
 
 On 10 November 2026 in Salerno, Carabinieri arrested a 24-year-old local man.
 [@2] The arrest was made by officers of the Salerno Fratte station with the
 Operational Section of the Salerno company operational and radiomobile unit.
-[@3] The young man is under investigation for possession of drugs with intent to
-sell and illegal possession of weapons. [@1]
+[@3,4] The young man is under investigation for possession of drugs with intent to
+sell and illegal possession of weapons. [@1,4]
 
-A search of property at his disposal found about 45 grams of hashish. [@2]
-Officers also found eight .380 calibre bullets in his possession. [@1] Officers
-seized 1,135 euros in cash believed to be proceeds of unlawful activity. [@2]
+A search of property at his disposal found about 45 grams of hashish. [@2,4] The search was carried out in a house in Fratte, in Salerno. [@4]
+Officers also found eight .380 calibre bullets in his possession. [@1,4] Officers
+seized 1,135 euros in cash believed to be proceeds of unlawful activity. [@2,4]
 All the seized material and money were placed under criminal seizure at the
-disposal of the judicial authority. [@3]
+disposal of the judicial authority. [@3,4]
 
 The search followed observation work that led officers to carry out a targeted
 search. [@3] The operation formed part of intensified territorial control in the
-city's outlying areas against petty crime and drug dealing. [@3]
-
+city's outlying areas against petty crime and drug dealing. [@3,4]
