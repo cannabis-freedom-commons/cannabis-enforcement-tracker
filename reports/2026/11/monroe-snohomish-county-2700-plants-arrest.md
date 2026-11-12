@@ -95,6 +95,10 @@ sources:
     url: https://local21news.com/news/nation-world/task-force-raids-elderly-man-property-after-complaint-finds-2700-cannabis-plants-monroe-washington-liquor-weed-board-snohomish-sheriffs-office-narcotics-felony-marijuana-production-charges
     publisher: local21news.com (WHP)
     date: 2026-11-11
+  - title: Task force raids elderly man's property after complaint, finds 2,700 cannabis plants
+    url: https://katv.com/news/nation-world/task-force-raids-elderly-man-property-after-complaint-finds-2700-cannabis-plants-monroe-washington-liquor-weed-board-snohomish-sheriffs-office-narcotics-felony-marijuana-production-charges
+    publisher: KATV
+    date: 2026-11-11
 media:
   - kind: photo
     url: https://komonews.com/news/local/snohomish-county-sheriff-task-force-raids-monroe-property-after-complaint-seizing-2700-cannabis-plants-70-year-old-man-weed-grow-marijuana-plant-farming-liquor-cannabis-board-washington-state
@@ -120,18 +124,18 @@ media:
 
 A 70-year-old man was arrested after law enforcement authorities discovered
 approximately 2,700 marijuana plants during a search of a suspected illegal
-cannabis production operation near Monroe, Washington. [@1,2,7,8,9,10,12,13] The 70-year-old
+cannabis production operation near Monroe, Washington. [@1,2,7,8,9,10,12,13,14] The 70-year-old
 suspect was booked into the Snohomish County Jail on felony charges of drug
 manufacturing, delivery, or possession with intent to deliver narcotics, as well
-as illegal marijuana production. [@1,2,3,7,8,9,12,13] Jail records identify the arrested man as Vernon Michael Lovelace, 70, of Monroe. [@11]
+as illegal marijuana production. [@1,2,3,7,8,9,12,13,14] Jail records identify the arrested man as Vernon Michael Lovelace, 70, of Monroe. [@11]
 
 The arrest followed an inquiry that began earlier this year after the state
 cannabis regulator received an initial complaint reporting a strong odor of
-marijuana originating from a property in unincorporated Monroe. [@1,4,5,7,8,9,10,12,13] That
+marijuana originating from a property in unincorporated Monroe. [@1,4,5,7,8,9,10,12,13,14] That
 complaint prompted an investigation by the Washington State Liquor and Cannabis
 Board's investigations unit, which identified evidence of suspected unlicensed
 cannabis production on the premises. [@1,6,7,9,13] The agency's unit then partnered with
-a regional law enforcement task force to advance the case. [@1,4,6,7,9,10,12,13] The task force is supported by the Northwest High Intensity Drug Trafficking Area, a federal program. [@2,4,9,12,13] The task force that executed the warrant was the Snohomish Regional Drug Task Force, assisted by Washington State Liquor and Cannabis Board enforcement officers. [@2,4,7,8,9,13] On 6 November
+a regional law enforcement task force to advance the case. [@1,4,6,7,9,10,12,13] The task force is supported by the Northwest High Intensity Drug Trafficking Area, a federal program. [@2,4,9,12,13,14] The task force that executed the warrant was the Snohomish Regional Drug Task Force, assisted by Washington State Liquor and Cannabis Board enforcement officers. [@2,4,7,8,9,13,14] On 6 November
 2026, investigators executed a search warrant at the property and seized
 approximately 2,700 live and dried marijuana plants. [@1,3,6,7,8,9,11,12] Lovelace posted a $40,000 bond after appearing in Everett District Court on 8 November 2026. [@11] Details regarding the
 joint investigation, search warrant and subsequent arrest were released by the
