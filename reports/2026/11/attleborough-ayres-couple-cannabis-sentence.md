@@ -386,67 +386,41 @@ sources:
     url: https://www.barryanddistrictnews.co.uk/news/national/26704139.married-couple-70s-grew-gbp46-000-cannabis-sentenced/
     publisher: Barry and District News (PA News Agency)
     date: 2026-11-05
+  - title: 70代夫婦が自宅で大麻25株栽培、有罪判決　英国
+    url: https://www.smartnews.com/news/article/5011275951904920723-70%E4%BB%A3%E5%A4%AB%E5%A9%A6%E3%81%8C%E8%87%AA%E5%AE%85%E3%81%A7%E5%A4%A7%E9%BA%BB25%E6%A0%AA%E6%A0%BD%E5%9F%B9%E3%80%81%E6%9C%89%E7%BD%AA%E5%88%A4%E6%B1%BA%E3%80%80%E8%8B%B1%E5%9B%BD
+    publisher: SmartNews
+    date: 2026-11-11
+    language: ja
 open_questions:
-  - Mark Ayres's earlier guilty plea was entered for 28 cannabis plants, while the sentencing coverage reports 25 plants found, and no explanation for the difference was published.
-  - The £46,000 street value covers the plants and the dried cannabis together, so no separate cannabis-only valuation was published.
-  - The weight of 5.7 kg of dried cannabis is described as approximate.
-  - The exact dates of the magistrates' court plea hearing and the trial preparation hearing were not published, and Marion Ayres's guilty plea is not tied to a specific court date.
-  - No confiscation order or other ancillary penalty for either defendant was reported.
-  - The Eastern Daily Press dates the warrant only to May last year, so the exact 20 May 2025 raid date continues to rest on the earlier reporting.
-  - This account places the sentencing at Norfolk Crown Court, while the report records Norwich Crown Court; the difference is retained as a source wording discrepancy.
-  - The Sun gives no separate value for the dried cannabis; the £46,000 figure is given for the cannabis found at the property as a whole.
-  - This account gives the sentencing court as Norfolk Crown Court, while the report records Norwich Crown Court; whether the two names refer to the same court is unconfirmed.
-  - This PA News Agency syndication places the sentencing at Norfolk Crown Court on "Thursday", that is 5 November 2026; whether Norfolk Crown Court and Norwich Crown Court are the same court under different names remains unconfirmed.
-  - This PA syndication again places the sentencing at Norfolk Crown Court while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
-  - This PA syndication places the sentencing at Norfolk Crown Court while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
-  - This PA syndication places the sentencing at Norfolk Crown Court on 5 November 2026, while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
-  - The account places the sentencing at Norfolk Crown Court, while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
-  - This Birmingham Now syndication gives the sentencing court as Norfolk Crown Court, while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
-  - This account places the sentencing at Norfolk Crown Court on Thursday 5 November, while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
-  - This PA syndication places the sentencing at Norfolk Crown Court on Thursday 5 November 2026, while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
-  - This account places the sentencing at Norfolk Crown Court, while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
-  - This PA syndication again gives the sentencing court as Norfolk Crown Court while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
-  - The BBC places the sentencing at Norwich Crown Court, which matches the report but conflicts with PA syndications naming Norfolk Crown Court.
-  - ITV names the sentencing court as Norfolk Crown Court, the same wording as several PA syndications of this case; the report's main text records Norwich Crown Court, so the two names remain unresolved.
-  - The Sun describes the home only as being in Attleborough, Norfolk, without naming Burgh Common, where the report places it.
-  - The BBC account gives the raid only as in May 2025, without the 20 May date recorded in the report.
-  - The article reports 25 plants at sentencing, while the earlier guilty plea recorded in the report was entered for 28 plants.
-  - This account gives the sentencing court as Norfolk Crown Court, while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
-  - The Daily Mail describes Mark Ayres as a director of multiple companies, a personal detail not carried in the other accounts of the sentencing.
-  - The BBC account gives the search only as in May 2025, without the 20 May date the report records.
-  - This Press Association syndication places the sentencing at Norfolk Crown Court while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
-  - This Redditch Advertiser syndication places the sentencing at Norfolk Crown Court while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
-  - ITV places the sentencing at Norfolk Crown Court while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
-  - This PA syndication places the sentencing at Norfolk Crown Court on Thursday 5 November, while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
-  - This PA syndication gives the sentencing court as Norfolk Crown Court while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
-  - The page restates the 5.7 kg weight as dry cannabis without a measured weight and gives no separate value for the dried cannabis alone.
-  - The Daily Mail names Norwich Crown Court, matching the report, while several PA syndications of the same hearing name Norfolk Crown Court; the two names remain unresolved in the report's open questions.
-  - The Daily Mail does not give the individual sentences, which the report records as three and a half years for Mark Ayres and nine months suspended for Marion Ayres.
-  - The Daily Mail's own account says the sentencing was at Norwich Crown Court, matching the report, while several Press Association syndications of the same hearing name Norfolk Crown Court.
-  - The opened capture ends before the article's sections on the plants, the property's value and the diagnosis, so those parts of this account could not be checked; the article's own publication page could not be opened.
-  - The Daily Mail does not give the date of the eight-plant phase, saying only that the operation expanded to 25 plants by the time of the May 2025 arrest.
-  - The account gives the dried cannabis weight as 5.7kg without stating that it is approximate and publishes no separate value for the dried cannabis alone.
+    - Mark Ayres's earlier guilty plea was entered for 28 cannabis plants, while the sentencing accounts report 25 plants found, and no explanation for the difference was published.
+    - The £46,000 street value covers the plants and the dried cannabis together, so no separate cannabis-only valuation was published.
+    - The weight of 5.7 kg of dried cannabis is described as approximate.
+    - The exact dates of the magistrates' court plea hearing and the trial preparation hearing were not published, and Marion Ayres's guilty plea is not tied to a specific court date.
+    - No confiscation order or other ancillary penalty for either defendant was reported.
+    - The exact 20 May 2025 raid date rests on the earlier reporting, while the Eastern Daily Press dates the warrant only to May 2025.
+    - The sentencing court is named both Norfolk Crown Court and Norwich Crown Court, and whether the two names refer to the same court is unconfirmed.
+    - The sentencing accounts are largely reprints of one Press Association report, so details not in that report remain uncorroborated.
 ---
 
 Mark Ayres, 71, and his wife Marion Ayres, 70, were sentenced at Norwich Crown Court for producing
 cannabis at their home in Burgh Common, near Attleborough in Norfolk.
 [@1,4,5,7,11,18,19,21,22,24,25,27,30,31,33,38,39,40,41,43,44,45,46,48,50,51,52,53,54,57,58,61,63,69,71,72,73]
 Norfolk Constabulary and Press Association copies name the court as Norfolk Crown Court and date the
-sentencing to Thursday 5 November 2026. [@18,28,29,53,58,59,60,64,66] Marion Ayres was given nine
+sentencing to Thursday 5 November 2026. [@18,28,29,53,58,59,60,64,66,74] Marion Ayres was given nine
 months in prison, suspended for 12 months; Mark Ayres was jailed for three and a half years.
-[@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,35,36,37,38,39,40,42,43,44,45,46,47,48,49,50,52,53,54,55,56,57,58,60,61,62,63,64,65,68,69,71,72,73]
+[@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,35,36,37,38,39,40,42,43,44,45,46,47,48,49,50,52,53,54,55,56,57,58,60,61,62,63,64,65,68,69,71,72,73,74]
 Mark Ayres had pleaded guilty to producing cannabis and to possessing cannabis with intent to supply,
 and Marion Ayres admitted producing cannabis.
-[@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,23,25,26,27,28,29,30,33,34,35,36,37,38,39,40,42,43,46,47,48,50,51,53,54,55,56,58,61,62,63,64,69,70,73]
+[@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,23,25,26,27,28,29,30,33,34,35,36,37,38,39,40,42,43,46,47,48,50,51,53,54,55,56,58,61,62,63,64,69,70,73,74]
 
 ## The search
 
 Both were arrested after Norfolk Constabulary officers executed a warrant at the couple's home on 20
 May 2025, as part of an investigation into cannabis supply in the area.
-[@2,6,7,8,9,10,11,12,14,15,16,17,18,20,21,22,23,24,25,26,27,28,29,30,32,33,35,36,38,39,40,41,42,43,44,45,46,47,48,49,50,52,53,55,56,57,58,59,60,61,62,63,64,65,66,67,69,70,72,73]
+[@2,6,7,8,9,10,11,12,14,15,16,17,18,20,21,22,23,24,25,26,27,28,29,30,32,33,35,36,38,39,40,41,42,43,44,45,46,47,48,49,50,52,53,55,56,57,58,59,60,61,62,63,64,65,66,67,69,70,72,73,74]
 Officers found 25 cannabis plants and approximately 5.7 kg of dried cannabis, which police estimated
 had a street value of more than £46,000.
-[@1,4,5,6,7,8,9,10,12,13,14,15,18,20,21,22,24,25,26,27,28,29,30,31,32,33,35,36,38,39,40,41,42,43,44,45,46,47,48,49,50,52,53,54,55,56,57,58,60,61,62,63,64,66,69,71,72,73]
+[@1,4,5,6,7,8,9,10,12,13,14,15,18,20,21,22,24,25,26,27,28,29,30,31,32,33,35,36,38,39,40,41,42,43,44,45,46,47,48,49,50,52,53,54,55,56,57,58,60,61,62,63,64,66,69,71,72,73,74]
 Police photographs show more than a dozen plants crammed into a tiled room and cannabis drying in
 layered racks under a white light. [@50] The house was described as worth about £1m. [@48]
 
@@ -469,4 +443,4 @@ their retirement, but that the operation "hid behind a veneer of respectability"
 
 Sergeant Dan Shelley of Norfolk Constabulary said drug production and supply could have a "hugely
 damaging impact" on communities and urged residents to report concerns about drugs to police.
-[@1,17,18,20,21,23,24,25,27,30,32,37,38,39,41,47,48,51,53,57,58,60,61,63,64,73]
+[@1,17,18,20,21,23,24,25,27,30,32,37,38,39,41,47,48,51,53,57,58,60,61,63,64,73,74]
