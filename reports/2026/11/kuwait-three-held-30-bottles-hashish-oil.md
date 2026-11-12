@@ -87,6 +87,11 @@ sources:
     url: https://www.urdupoint.com/en/world/three-foreigners-arrested-in-kuwait-over-alleged-drug-sales-2287816.html
     publisher: UrduPoint
     date: 2026-11-11
+  - title: «المكافحة» ضبط (3) متهمين بحوزتهم شبو وزيت حشيش وخمور واوراق مشبعة بالمخدرات
+    url: https://www.alanba.com.kw/1384496
+    publisher: جريدة الأنباء الكويتية
+    date: 2026-11-10
+    language: ar
 open_questions:
   - UrduPoint describes the cannabis oil as 30 vials and does not mention the piece of hashish recorded from the Arabic coverage, which says 30 bottles of hashish oil.
   - UrduPoint says cannabis, alcohol and prohibited medicines were recovered from the suspects before their arrest, which differs from the residence search described after one suspect was detained.
@@ -94,19 +99,19 @@ open_questions:
 
 Kuwait's General Department for Drug Control in the Criminal Security Sector
 arrested three suspects across three separate cases on suspicion of possessing
-narcotics and psychotropic substances with intent to traffic. [@1,3,4,5,6,7,8,9] The three suspects were foreigners. [@9] The Interior
+narcotics and psychotropic substances with intent to traffic. [@1,3,4,5,6,7,8,9,10] The three suspects were foreigners. [@9] The Interior
 Ministry announced the arrests in a statement on Tuesday evening as part of its
 ongoing drug enforcement operations. [@2,9] In one of the cases, the General
 Department of Rescue Police detained a suspect and transferred him to
-drug-control officers. [@1,3,5,6,7,8] Follow-up investigations led officers to search that
+drug-control officers. [@1,3,5,6,7,8,10] Follow-up investigations led officers to search that
 suspect's residence, where they discovered an additional quantity of narcotics
-and a sensitive scale. [@1,3,5,6,7] Authorities referred the three suspects and the
+and a sensitive scale. [@1,3,5,6,7,10] Authorities referred the three suspects and the
 seized items to the competent authority to take legal measures against them.
-[@1,3,5,6,7,8]
+[@1,3,5,6,7,8,10]
 
 The cannabis items seized during the operations consisted of 30 bottles
-containing hashish oil and one piece of hashish. [@1,3,4,5,7,8] Alongside the cannabis,
+containing hashish oil and one piece of hashish. [@1,3,4,5,7,8,10] Alongside the cannabis,
 the operations yielded 3,001 grams of shabu, a synthetic stimulant that is not
-cannabis. [@1,3,5,9] The seizures also included bottles of alcohol. [@9] Officers also confiscated 24 sheets of paper soaked in
+cannabis. [@1,3,5,9,10] The seizures also included bottles of alcohol. [@9] Officers also confiscated 24 sheets of paper soaked in
 'chemical', three electronic cigarettes containing 'chemical' and four sensitive
-scales. [@1,3,5]
+scales. [@1,3,5,10]
