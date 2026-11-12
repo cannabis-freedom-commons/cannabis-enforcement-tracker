@@ -51,20 +51,35 @@ sources:
     publisher: Torrongo News
     date: 2026-11-11
     language: bn
+  - title: ব্রাক্ষণবাড়িয়া বিজয়নগরে৷ এসআরবি-৯ বিশেষ অভিযানে  রাতের আঁধারে মাদকবিরোধী অভিযান, ৩০০ কেজি গাঁজা উদ্ধার
+    url: https://sorejominbarta.com/country/article/66638
+    publisher: দৈনিক সরেজমিনবার্তা
+    date: 2026-11-11
+    language: bn
 open_questions:
     - No one was arrested; whether Nurul Islam or the other fugitives were later detained is not known.
     - No value was given for the 300 kg of ganja.
     - 'Accounts differ on how many people fled: one version says 15 or 17, and the case was filed against 15 or 16 unnamed people plus the identified man.'
+    - 'Left out, as its quotation was not found in ডেইলি বাংলাদেশ: Between 15 and 16 suspected drug traders fled after sensing the SRB team.'
+    - 'Left out, as its quotation was not found in ডেইলি বাংলাদেশ: Officers then searched a crop field beside the road and recovered 300 kg of ganja.'
+    - 'Left out, as its quotation was not found in ডেইলি বাংলাদেশ: The seizure was announced in a midday press release by SRB-9, Sylhet camp.'
+    - 'Left out, as its quotation was not found in ডেইলি বাংলাদেশ: The battalion said necessary legal measures had been taken.'
+media:
+  - kind: photo
+    url: https://sorejominbarta.com/country/article/66638
+    media_url: https://sorejominbarta.com/public/uploads/2026-11/IMG-20261111-WA0046_original_1794396194.webp
+    publisher: দৈনিক সরেজমিনবার্তা
+    caption: 'The bundles of ganja, tied with jute twine and wrapped in blue plastic, that officers say they found in the Rasulpur field. Photo: Sorejomin Barta'
 ---
 
 SRB officers raided the Rasulpur area in Bijoynagar in the early hours of
-Wednesday. [@1] The raid was at about 3:10 a.m. beside the paved Rampur-to-Manipur road, in a crop field at Rasulpur in Chandura Union. [@3] The team acted on a tip that several people were in the area to
-buy and sell drugs. [@1,3] Between 15 and 16 suspected drug traders fled after
-sensing the SRB team. [@1] In the chase, officers identified Nurul Islam, 38, of Paikpara, son of Abed Ali, but he escaped with the others. [@3]
+Wednesday. [@1] The raid was at about 3:10 a.m. beside the paved Rampur-to-Manipur road, in a crop field at Rasulpur in Chandura Union. [@3,4] The team acted on a tip that several people were in the area to
+buy and sell drugs. [@1,3,4] The raiding party was an operational team of SRB-9's CPC-1 in Brahmanbaria. [@4] Between 15 and 16 suspected drug traders fled after
+sensing the SRB team. [@1] In the chase, officers identified Nurul Islam, 38, of Paikpara, son of Abed Ali, but he escaped with the others. [@3,4] No one was arrested at the scene. [@4]
 
 Officers then searched a crop field beside the road and recovered 300 kg of
-ganja. [@1,2,3] The ganja was in 25 bundles tied with jute twine and wrapped in Scotch tape. [@3] The seizure was announced in a midday press release by SRB-9, Sylhet
+ganja. [@1,2,3] The ganja was in 25 bundles tied with jute twine and wrapped in Scotch tape. [@3,4] The seizure was announced in a midday press release by SRB-9, Sylhet
 camp. [@1] The release was signed by media officer, Additional Police
 Superintendent K. M. Shahidul Islam Sohag. [@1]
 
-The battalion said necessary legal measures had been taken. [@1] A case under the Narcotics Control Act 2018 was filed against fugitive Nurul Islam and 15 or 16 unnamed people, and the seized ganja was handed to Bijaynagar police station. [@3]
+The battalion said necessary legal measures had been taken. [@1] A case under the Narcotics Control Act 2018 was filed against fugitive Nurul Islam and 15 or 16 unnamed people, and the seized ganja was handed to Bijaynagar police station. [@3,4] SRB-9 said its operations against drugs would continue under a zero-tolerance policy. [@4]
