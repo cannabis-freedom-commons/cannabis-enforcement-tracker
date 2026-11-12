@@ -91,14 +91,11 @@ sources:
     publisher: Radio Moldova (Teleradio-Moldova)
     date: 2026-11-11
     language: ro
-open_questions:
-    - The exact time of the crash on the evening of 10 November 2026 is not given, and the accounts do not say when the 72-hour detention began or when it was to end.
-    - No charge was reported; the accounts say the investigation was still under way, so no court outcome is known.
-    - The accounts do not say how much cannabis or of what kind was detected, only that the test was positive for cannabis alongside amphetamine, methamphetamine and PVP.
-    - The 21-year-old man's condition was reported as serious and in intensive care, but no later update on him was available in the opened sources.
-    - The accounts reproduce the same Chișinău police statement, so the drug-test results rest on that single police account rather than on an independent forensic report.
-    - Reports say the woman was about 30 years old; no exact age was published.
-    - The man who had rented the Ford was also identified and detained and questioned, but no charges or measures against him were reported.
+  - title: '/VIDEO/ Accidentul grav din centrul Chișinăului: Suspectul, prins fără permis și sub influența a 4 tipuri de droguri'
+    url: https://tv8.md/2026/11/11/video-accidentul-grav-din-centrul-chisinaului-suspectul-prins-fara-permis-si-sub-influenta-a-4-tipuri-de-droguri/312377
+    publisher: TV8.md
+    date: 2026-11-11
+    language: ro
 ---
 
 A 25-year-old man driving a Ford hit two pedestrians on a crossing on Grigore
@@ -108,12 +105,12 @@ serious condition in intensive care. [@1,5,6,7] The woman died a few hours after
 
 The driver left the car and fled the scene, and was later located and detained
 by the Operational Patrol and Response Battalion. [@2,6,7] Police held him for 72
-hours while the Chișinău police continued their investigation. [@3,6,7,8]
+hours while the Chișinău police continued their investigation. [@3,6,7,8,10]
 
 Officers noticed suspicious behaviour during the detention and took him to a
-medical institution to test his condition. [@4,6,7,8] The tests came back positive for
-amphetamine, methamphetamine, PVP, known as "salt", and cannabis. [@4,5,6,7,8] Police
-also established that the man does not hold a driving licence. [@2,5,6,7,8]
+medical institution to test his condition. [@4,6,7,8,10] The tests came back positive for
+amphetamine, methamphetamine, PVP, known as "salt", and cannabis. [@4,5,6,7,8,10] Police
+also established that the man does not hold a driving licence. [@2,5,6,7,8,10]
 
 The Ford had been rented by another person, who told police he had handed the
 car to the 25-year-old suspect. [@1,7,8] Officers also identified and detained the man who had rented the car. [@8]
