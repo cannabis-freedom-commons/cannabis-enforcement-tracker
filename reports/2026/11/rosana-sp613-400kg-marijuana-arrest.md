@@ -72,10 +72,15 @@ sources:
     publisher: Diário de Prudente
     date: 2026-11-11
     language: pt
+  - title: Homem é preso com mais de 400 kg de maconha dentro de carro em rodovia do interior de SP
+    url: https://g1.globo.com/google/amp/mundo/videos/video/homem-e-preso-com-mais-de-400-kg-de-maconha-dentro-de-carro-em-rodovia-do-interior-de-sp-15179570.ghtml
+    publisher: g1
+    date: 2026-11-11
+    language: pt
 ---
 
 A 20-year-old driver was arrested on Wednesday 11 November 2026 with 400.8
-kilograms of marijuana on the Arlindo Béttio highway in Rosana, São Paulo. [@2,3]
+kilograms of marijuana on the Arlindo Béttio highway in Rosana, São Paulo. [@2,3,5]
 The police approach was at 6:30 a.m. at kilometre 75.5 during Operação
 Impacto/Divisa. [@2,4] The seizure was a joint action by the highway police with the São Paulo Integrated Force to Combat Organized Crime (FICCO/SP). [@3] He was caught transporting 400.8 kilograms of marijuana,
 and the stop was recorded at about 6:30 a.m. at kilometre 75.5 during Operação
