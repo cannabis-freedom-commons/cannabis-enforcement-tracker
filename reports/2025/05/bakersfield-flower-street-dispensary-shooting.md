@@ -67,6 +67,14 @@ sources:
     url: https://www.crimevoice.com/2025/06/12/five-arrested-in-connection-with-double-homicide/
     publisher: Crime Voice (United Reporting Publishing)
     date: 2025-06-12
+  - title: 'Defendant admits to all charges in deadly shooting at east Bakersfield marijuana dispensary: D.A.’s Office'
+    url: https://www.yahoo.com/news/us/articles/defendant-admits-charges-deadly-shooting-161942484.html
+    publisher: Yahoo News
+    date: 2026-11-11
+  - title: Bakersfield Teen Admits to All Charges in Dispensary Shooting That Killed Two Men
+    url: https://hoodline.com/2026/11/bakersfield-teen-admits-to-all-charges-in-dispensary-shooting-that-killed-two-men/
+    publisher: Hoodline
+    date: 2026-11-11
 open_questions:
   - The exact date of the hearing at which Turner admitted the counts is not stated; it is described only as the week before November 11, 2026.
   - No weight or count was published for the large bag of marijuana seized from the dispensary.
@@ -96,15 +104,14 @@ was seized. [@1] A ski mask and a backpack believed to have been worn by Young
 during the robbery were also seized. [@1]
 
 Ramahs Turner admitted to all counts and enhancements against him in juvenile
-court during a hearing in the week before November 11, 2026. [@1] The longest he
+court during a hearing in the week before November 11, 2026. [@1,8] The longest he
 can be held in custody is until his 25th birthday, because the court found he
 did not meet the requirements for transfer to adult court. [@1] His disposition
 hearing, in effect a sentencing hearing in juvenile court, is scheduled for
-November 19. [@1]
+November 19. [@1,8] Co-defendant Traedyn Brookins, also 17 at the time of the killings, has a juvenile court hearing on December 17. [@8]
 
 Prosecutors waived the death penalty against Thompson and Young, who now face a
-maximum of life in prison without the possibility of parole if convicted. [@6]
+maximum of life in prison without the possibility of parole if convicted. [@6] Terrance Thompson and Darwin Young Jr. are due back in court in January. [@8]
 Prosecutors are seeking to move Brookins to adult court, where he would face
 life in prison. [@2] The cases against the other four defendants remain pending.
-[@1]
-
+[@1,9]
