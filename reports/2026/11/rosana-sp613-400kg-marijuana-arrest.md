@@ -77,23 +77,28 @@ sources:
     publisher: g1
     date: 2026-11-11
     language: pt
+  - title: Jovem de 20 anos é preso transportando carga milionária de maconha em Rosana
+    url: https://www.portalbueno.com.br/post.php?id=55655&t=jovem-de-20-anos-e-preso-transportando-carga-milionaria-de-maconha-em-rosana
+    publisher: Portal Bueno
+    date: 2026-11-11
+    language: pt
 ---
 
 A 20-year-old driver was arrested on Wednesday 11 November 2026 with 400.8
-kilograms of marijuana on the Arlindo Béttio highway in Rosana, São Paulo. [@2,3,5]
+kilograms of marijuana on the Arlindo Béttio highway in Rosana, São Paulo. [@2,3,5,6]
 The police approach was at 6:30 a.m. at kilometre 75.5 during Operação
-Impacto/Divisa. [@2,4] The seizure was a joint action by the highway police with the São Paulo Integrated Force to Combat Organized Crime (FICCO/SP). [@3] He was caught transporting 400.8 kilograms of marijuana,
+Impacto/Divisa. [@2,4,6] The seizure was a joint action by the highway police with the São Paulo Integrated Force to Combat Organized Crime (FICCO/SP). [@3] He was caught transporting 400.8 kilograms of marijuana,
 and the stop was recorded at about 6:30 a.m. at kilometre 75.5 during Operação
 Impacto/Divisa checks by highway police against crime in the border region. [@1]
 
 Officers stopped an Argo occupied only by the driver and found 141 tablets and
-11 packages of marijuana inside the car. [@1] Officers found 141 tablets and
+11 packages of marijuana inside the car. [@1,6] The car was a white Fiat Argo. [@6] Officers found 141 tablets and
 another 11 volumes of marijuana inside the car, which was occupied only by the
 driver. [@2,3] The Polícia Militar Rodoviária estimated the seizure at 1.2 million
-reais in financial impact on organised crime. [@1,4]
+reais in financial impact on organised crime. [@1,4,6]
 
 The driver was arrested at the scene and taken to the Federal Police station in
-Presidente Prudente for judicial-police procedures. [@1,3] The marijuana and the
+Presidente Prudente for judicial-police procedures. [@1,3,6] The marijuana and the
 car were seized, and he remained in the lockup at the disposal of the courts.
-[@1] The suspect and the drugs, valued at 1.2 million reais, were taken to the
+[@1,6] The suspect and the drugs, valued at 1.2 million reais, were taken to the
 Federal Police station in Presidente Prudente. [@2]
