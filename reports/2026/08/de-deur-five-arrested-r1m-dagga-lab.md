@@ -45,6 +45,11 @@ media:
     media_url: https://www.sabcnews.com/sabcnews/wp-content/uploads/2026/08/Dagga-866x577.jpg
     publisher: SABC News
     caption: 'The five suspects arrested following the discovery of the hydroponic dagga laboratory in De Deur. Photo: X@SAPoliceService via SABC News'
+  - kind: photo
+    url: https://www.africaninsider.com/news/pics-dagga-guns-and-a-r1m-lab-five-arrested-as-gauteng-police-raid-de-deur-property/
+    media_url: https://www.africaninsider.com/wp-content/uploads/2026/08/Dagga-lab.png
+    publisher: African Insider
+    caption: 'Photo published with the report of the De Deur raid and credited to the SAPS Facebook page, showing the hydroponic dagga laboratory. Photo: SAPS / Facebook via African Insider'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 93554fc09d10685510ddc08a8ff19ceb
@@ -75,31 +80,36 @@ sources:
     url: https://www.thesouthafrican.com/news/five-foreign-nationals-arrested-after-r1m-dagga-lab-uncovered/
     publisher: The South African
     date: 2026-08-28
+  - title: 'PICS | Dagga, guns and a R1m lab: Five arrested as Gauteng police raid De Deur property'
+    url: https://www.africaninsider.com/news/pics-dagga-guns-and-a-r1m-lab-five-arrested-as-gauteng-police-raid-de-deur-property/
+    publisher: African Insider
+    date: 2026-08-28
 open_questions:
     - No weight, plant count or area figure for the hydroponic dagga was published; only the R1-million value was given.
     - No names or pleas for the five arrested people were published, and no court outcome beyond the expected Meyerton appearance was reported.
     - The two firearms were reported alongside the dagga but are not a cannabis figure and do not affect the cannabis valuation.
-    - The same article also describes a separate Limpopo seizure of 130 bags of dagga worth about R11 million, a different event left out here.
+    - The same report also describes a separate Limpopo seizure of 130 bags of dagga worth about R11 million, a different event left out here.
     - This account also describes a separate KwaZulu-Natal operation in Effingham, Greenwood Park involving firearms, Mandrax, cocaine and cash, a different event left out here.
+    - The valuation is stated only as more than R1-million, with no exact figure and no basis given for how it was calculated.
 ---
 
 Gauteng police raided a property in De Deur in the Sedibeng District that had
 been converted into a hydroponic dagga laboratory. [@1,4,6] Five foreign nationals
-were arrested at the property during the police operation. [@1,2,3,4] Two of the five
+were arrested at the property during the police operation. [@1,2,3,4,7] Two of the five
 people arrested were Jamaican nationals. [@1,4] The other people arrested were
 from Malawi and Lesotho. [@1,4]
 
 Police found and seized hydroponic dagga valued at approximately R1-million at
-the property. [@1,2,3,4,5] Officers also seized two firearms at the property alongside
-the dagga. [@1,4]
+the property. [@1,2,3,4,5,7] Officers also seized two firearms at the property alongside
+the dagga. [@1,4,7]
 
 The five arrested people were expected to appear before the Meyerton Magistrates
-Court shortly after the raid. [@1,2,3,4,5,6]
+Court shortly after the raid. [@1,2,3,4,5,6,7] Police said their investigation was ongoing. [@7]
 
-The five comprised two Jamaican nationals, two Malawian nationals and one Lesotho national. [@2,3,5,6] Police recovered a 303 rifle and a 9mm Glock pistol during the operation. [@2,3,5,6] The suspects face charges relating to contravention of Sections 3 and 5(b) of the Drug Trafficking Act 140 of 1992. [@2,3,5,6] Two of the five suspects face additional charges of possession of unlicensed firearms and ammunition. [@2,3,5]
+The five comprised two Jamaican nationals, two Malawian nationals and one Lesotho national. [@2,3,5,6,7] Police recovered a 303 rifle and a 9mm Glock pistol during the operation. [@2,3,5,6] The suspects face charges relating to contravention of Sections 3 and 5(b) of the Drug Trafficking Act 140 of 1992. [@2,3,5,6,7] Two of the five suspects face additional charges of possession of unlicensed firearms and ammunition. [@2,3,5]
 
-The five were arrested on Thursday, August 27, following an intelligence-driven operation in De Deur, Sedibeng District. [@3,5] The operation was conducted by Gauteng Counter-Intelligence Narcotics, Gauteng Organised Crime, West Rand K9, the Forensic Science Laboratory, National Cybercrime and private security companies. [@3,5]
+The five were arrested on Thursday, August 27, following an intelligence-driven operation in De Deur, Sedibeng District. [@3,5,7] The operation was conducted by Gauteng Counter-Intelligence Narcotics, Gauteng Organised Crime, West Rand K9, the Forensic Science Laboratory, National Cybercrime and private security companies. [@3,5]
 
 Prosecutors were expected to pursue charges of dealing in dagga, while no court appearance date had been confirmed. [@4] Briefly names the unit Gauteng Counterfeit Intelligence Narcotics among those that took part in the search. [@4]
 
-The five suspects were aged between 29 and 68, police spokesperson Captain Tintswalo Sibeko said. [@5]
+The five suspects were aged between 29 and 68, police spokesperson Captain Tintswalo Sibeko said. [@5] SAPS said the arrests formed part of intelligence-driven operations targeting suspected drug trafficking and organised criminal activities in Gauteng. [@7]
