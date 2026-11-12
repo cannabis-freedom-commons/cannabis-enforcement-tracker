@@ -55,7 +55,7 @@ sources:
   - title: Ill Inmate Denied Herbs
     url: https://www.420magazine.com/community/threads/ill-inmate-denied-herbs.52241/
     publisher: The Fresno Bee (via 420 Magazine)
-    date: 2006
+    year: 2006
 ---
 
 DEA agents and Kern County sheriff's deputies arrested Joseph W. Fortt, 42,

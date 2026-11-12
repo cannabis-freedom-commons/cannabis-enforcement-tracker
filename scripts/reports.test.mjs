@@ -28,7 +28,10 @@ for (const { file, data, body } of reports) {
     assert.equal(`${year}-${month}`, String(data.date).slice(0, 7), "the file sits in reports/<year>/<month>/ of its date");
     assert.ok(countries.has(data.country), `"${data.country}" is not a country id of the Cannabis Freedom Index (src/data/countries.json)`);
     assert.ok(Array.isArray(data.sources) && data.sources.length > 0, "a report needs sources");
-    for (const s of data.sources) assert.ok(/^https?:\/\//.test(s.url ?? "") || s.type, `source "${s.title}" needs a URL, or a type (book, journal, report, law) with its details`);
+    for (const s of data.sources) {
+      assert.ok(/^https?:\/\//.test(s.url ?? "") || s.type, `source "${s.title}" needs a URL, or a type (book, journal, report, law) with its details`);
+      assert.ok(typeof s.date !== "number" && !/^\d{4}$/.test(s.date ?? ""), `source "${s.title}" must use year for a publication year without a month or day`);
+    }
     assert.equal(typeof data.code, "string", "code is required: run npm run codes -- <report paths> before building");
     assert.match(data.code, /^[0-9A-HJKMNP-TV-Z]{6}$/, "the code is six characters of Crockford base32 (npm run codes writes it)");
     const cited = new Set([...body.matchAll(/\[@([^\]]+)\]/g)].flatMap((m) => m[1].split(",").map((x) => Number(x.trim()))));

@@ -194,6 +194,8 @@ The Edo State command of Nigeria's National Drug Law Enforcement Agency (NDLEA) 
 cannabis farms … [@1] A day later, … [@2]
 ```
 
+For a source known only by its publication year, use `year: 2014` in place of `date`.
+
 Run `npm run codes -- <new/updated report paths>` before building or committing skill-written
 reports. Codes are six-character strings (quote all-digit values), assigned once and preserved
 on updates, slug changes and date-folder moves. The backend assigns them automatically.

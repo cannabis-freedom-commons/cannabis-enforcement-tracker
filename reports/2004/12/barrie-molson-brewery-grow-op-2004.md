@@ -81,7 +81,7 @@ sources:
   - title: "Hidden Harvest: The Rise and Fall of North America's Biggest Cannabis Grow-Op"
     publisher: ECW Press
     url: https://cannalib.eu/wp-content/uploads/2023/07/Hidden-Harvest-The-rise-and-fall-of-North-Americas-biggest-cannabis-grow-op-2014.pdf
-    date: 2014
+    year: 2014
   - title: Massive Pot Crop Valued At $30M
     publisher: Canadian Press (via Drugs-Forum)
     url: https://drugs-forum.com/ams/massive-pot-crop-valued-at-30m.2253/
