@@ -71,6 +71,11 @@ sources:
     url: https://www.thehansindia.com/news/cities/tirupathi/man-held-for-illegal-ganja-possession-1141163
     publisher: The Hans India
     date: 2026-11-12
+  - title: Man arrested with 1.1 kg of ganja in Srikalahasti
+    url: https://timesofindia.indiatimes.com/city/vijayawada/man-arrested-with-1-1-kg-of-ganja-in-srikalahasti/articleshow/135745205.cms
+    publisher: The Times of India
+    date: 2026-11-11
+    language: en
 media:
   - kind: photo
     url: https://www.suryaa.com/telugu-news/andhrapradesh/shreekaalahasti-pramtmlo-gmjaayi-svaadheenm-vyakti-arest
@@ -88,8 +93,8 @@ ordered by Tirupati district SP L. Subbarayudu. [@1,7] A second account confirms
 police detained the suspect, Barri Mohan Reddy, after checks near the Akkurthi
 railway gate on received information. [@2]
 
-Officers seized about 1,100 grams of ganja from him. [@1,4,5,6,7] Officers also seized a
-motorcycle from him. [@1,6,7] Officers also seized a mobile phone from him. [@4,6,7] The second account likewise says police seized 1,100
+Officers seized about 1,100 grams of ganja from him. [@1,4,5,6,7,8] Officers also seized a
+motorcycle from him. [@1,6,7,8] Officers also seized a mobile phone from him. [@4,6,7,8] The second account likewise says police seized 1,100
 grams of ganja brought for illegal sale, along with a bike. [@2] Police said
 preliminary questioning indicated he had bought the ganja from a man named Seenu
 of Chatrapur town in Odisha and was selling it locally. [@1,4,5,6,7] Police registered a
