@@ -69,6 +69,11 @@ sources:
     publisher: Metrópoles
     date: 2026-11-11
     language: pt
+  - title: Mais de meia tonelada de skunk é apreendida em fundo falso de caminhão na BR-070, em Jussara (GO)
+    url: https://zapcatalao.com.br/mais-de-meia-tonelada-de-skunk-e-apreendida-em-fundo-falso-de-caminhao-na-br-070-em-jussara-go/
+    publisher: Portal Zap Catalão
+    date: 2026-11-11
+    language: pt
 open_questions:
   - No exact measured weight was published; the seizure is described as more than half a tonne of skunk, about 591 packages.
   - Metrópoles reported 519 packages while the PRF statement and the other accounts say about 591; the PRF figure is used.
@@ -81,26 +86,25 @@ open_questions:
 
 Federal Highway Police (Polícia Rodoviária Federal, PRF) officers seized more
 than half a tonne of skunk during an inspection on the BR-070 at Jussara, in
-Goiás, in the early hours of Wednesday 11 November 2026. [@1] The truck's
+Goiás, in the early hours of Wednesday 11 November 2026. [@1,5] The truck's
 driver, aged 44, was arrested in the act (em flagrante) for drug trafficking.
-[@3]
+[@3,5]
 
 The stop took place at kilometre 319 of the highway after a risk analysis
-flagged the vehicle as suspicious. [@2] According to the PRF, the driver gave
+flagged the vehicle as suspicious. [@2,5] According to the PRF, the driver gave
 contradictory accounts of his route and could not produce documents to support
-what he told officers. [@1] Inspecting the apparently empty cargo compartment,
+what he told officers. [@1,5] Inspecting the apparently empty cargo compartment,
 officers noticed unusual lining on the sides and floor of the box and found a
-false bottom hiding about 591 packages of skunk. [@1]
+false bottom hiding about 591 packages of skunk. [@1,5]
 
 The load had been picked up in Cacoal, in Rondônia, and was to be delivered in
-Goiânia, the capital of Goiás. [@2] Metrópoles reported that the truck had
+Goiânia, the capital of Goiás. [@2,5] Metrópoles reported that the truck had
 travelled 1,600 kilometres between Rondônia and Goiás before it was stopped.
 [@4] The PRF said the driver was to receive R$10,000 for transporting the
-illicit load. [@1] The driver, the truck and the seized drugs were taken to the
-Civil Police station in Itapirapuã for the legal procedures. [@2] Metrópoles
+illicit load. [@1,5] The driver, the truck and the seized drugs were taken to the
+Civil Police station in Itapirapuã for the legal procedures. [@2,5] Metrópoles
 reported that the driver remained at the disposal of the justice system. [@4]
 
 Skunk is a cannabis variety known for its high concentration of THC, the main
 psychoactive substance in marijuana, which is why it is popularly called
 supermaconha, or super marijuana, in Brazil. [@2]
-
