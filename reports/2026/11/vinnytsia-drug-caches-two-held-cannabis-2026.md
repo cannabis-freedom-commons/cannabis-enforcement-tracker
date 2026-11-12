@@ -44,6 +44,11 @@ media:
     media_url: https://vitatv.com.ua/sites/default/files/styles/compressor/1280x720/inline-images/narkozakladky-u-vinnytsi-politseyski-ohlyadayut-zip-pakety-ta-elektronni-vahy-vylucheni-pid-chas-obshuku-2.jpg?itok=GbA3r5xF
     publisher: ВІТА ТБ
     caption: Police officers examine zip bags and electronic scales seized during the search, in another photo published with the VITA TV report.
+  - kind: photo
+    url: https://news.vn.ua/dvoie-vinnychan-vstanovliuvaly-zakladky-z-narkotykamy-po-vsomu-mistu/
+    media_url: https://news.vn.ua/wp-content/uploads/2026/11/MODLODYKY-1160x773.jpg
+    publisher: Новини Вінниці
+    caption: 'Photo published with the detention of the 16- and 19-year-old Vinnytsia residents. Photo: Новини Вінниці'
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: db669bc388d308a9faafae4eaf4670cc
@@ -59,6 +64,11 @@ sources:
     publisher: Головне управління Національної поліції у Вінницькій області
     date: 2026-11-11
     language: uk
+  - title: Двоє вінничан встановлювали «закладки» з наркотиками по всьому місту
+    url: https://news.vn.ua/dvoie-vinnychan-vstanovliuvaly-zakladky-z-narkotykamy-po-vsomu-mistu/
+    publisher: Новини Вінниці
+    date: 2026-11-11
+    language: uk
 open_questions:
   - The police did not identify the substance in the zip bags found on the two suspects, so it is not established that the caches they are suspected of placing contained cannabis.
   - No weight or amount was given for the cannabis seized at the younger suspect's home.
@@ -70,17 +80,16 @@ open_questions:
 Police in Vinnytsia detained two local residents, aged 16 and 19, on 10 November
 2026. [@1] The two are suspected of placing so-called narkozakladky, hidden drug
 packets, in different districts of the city over about a month. [@1] During the
-detention, both were found with zip bags containing a narcotic substance. [@1]
+detention, both were found with zip bags containing a narcotic substance. [@1,3]
 At the home of the younger suspect, officers seized cannabis, electronic scales,
-packaging materials and other evidence. [@2] All the seized items were sent for
-expert examination. [@2]
+packaging materials and other evidence. [@2,3] All the seized items were sent for
+expert examination. [@2,3]
 
 Police said they were working to establish how the drugs reached the two and who
-else was involved in supplying them. [@2] Investigators are handling the case
+else was involved in supplying them. [@2,3] Investigators are handling the case
 under part 2 of article 307 of Ukraine's Criminal Code, which covers the illegal
 production, manufacture, acquisition, storage, transportation, sending or sale
-of narcotic drugs, psychotropic substances and their analogues. [@1] The
+of narcotic drugs, psychotropic substances and their analogues. [@1,3] The
 sanction of the article is up to 10 years in prison with confiscation of
-property. [@1] The police statement notes that under article 62 of the
+property. [@1,3] The police statement notes that under article 62 of the
 Constitution a person is presumed innocent until a court proves guilt. [@2]
-
