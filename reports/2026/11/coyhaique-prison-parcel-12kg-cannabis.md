@@ -69,38 +69,40 @@ sources:
     publisher: Ciudadano Radio
     date: 2026-11-11
     language: es
-open_questions:
-    - The reports were published on 11 November 2026 and give no separate date for the arrest or the formalisation hearing, so 11 November is the publication date.
-    - The arrested man's name and age were not published.
-    - The inmate is identified only as a Chilean man serving a drug-trafficking sentence in Coyhaique prison; the reports do not say whether he was charged over these shipments.
-    - The accounts rest on the PDI's statement; no court record or independent verification of its account was found.
-    - The 198 million peso value and the 120,000 doses are police estimates, not independently confirmed.
-    - The reports do not say how many parcels were intercepted or their individual weights.
-    - The exact place in Coyhaique where the man was detained is not given.
-    - The reports do not say how the inmate communicated from prison or what means he used to organise the shipments.
+  - title: 'Desde la cárcel de Coyhaique coordinaban el envío de droga: PDI decomisa cannabis avaluada en 198 millones de pesos'
+    url: https://www.eldivisadero.cl/_noticia/Desde-la-c%C3%A1rcel-de-Coyhaique-coordinaban-el-env%C3%ADo-de-droga-PDI-decomisa-cannabis-avaluada-en-198-millones-de-pesos/ODQ5NDc=
+    publisher: Diario El Divisadero
+    date: 2026-11-11
+    language: es
+media:
+  - kind: photo
+    url: https://www.eldivisadero.cl/_noticia/Desde-la-c%C3%A1rcel-de-Coyhaique-coordinaban-el-env%C3%ADo-de-droga-PDI-decomisa-cannabis-avaluada-en-198-millones-de-pesos/ODQ5NDc=
+    media_url: https://www.eldivisadero.cl/media/Noticias/for_fot26333.JPG
+    publisher: Diario El Divisadero
+    caption: 'Evidence photograph of the packages of cannabis seized in the operation, on display with a PDI ''Evidencias'' sign. Photo: PDI, published by Diario El Divisadero.'
 ---
 
 Detectives of the Policía de Investigaciones (PDI) arrested a Chilean man in
-Coyhaique as he was about to collect parcels carrying cannabis. [@1,4]
+Coyhaique as he was about to collect parcels carrying cannabis. [@1,4,6]
 Investigators identified him as the final recipient of the drug in the region.
-[@1,4] The PDI described the arrested man as a Chilean adult with no police record. [@4] At a formalisation hearing, a court placed him in preventive detention.
-[@3,5] According to the investigation, a Chilean inmate already serving a sentence
+[@1,4] The PDI described the arrested man as a Chilean adult with no police record. [@4,6] At a formalisation hearing, a court placed him in preventive detention.
+[@3,5,6] According to the investigation, a Chilean inmate already serving a sentence
 for drug trafficking coordinated the shipments from inside Coyhaique prison.
-[@1,4] Radio Santa María described the prisoner as the leader of the criminal
+[@1,4,6] Radio Santa María described the prisoner as the leader of the criminal
 structure, operating from inside the jail. [@3]
 
 The PDI and the Aysén public prosecutor's office said the organisation used
 legitimate freight companies and parcel services, hiding the cannabis among
-ordinary consignments sent from the Metropolitan Region to Patagonia. [@1,4]
+ordinary consignments sent from the Metropolitan Region to Patagonia. [@1,4,6]
 Investigators used special techniques under Law 20,000, Chile's drug-trafficking
 law, to identify the final recipient and the person coordinating the transfer
-from the capital. [@1,4] Prefect Eduardo Gatica, head of the PDI's Coyhaique
+from the capital. [@1,4,6] Prefect Eduardo Gatica, head of the PDI's Coyhaique
 provincial prefecture, said the cannabis was intended for distribution to young
-people in the city. [@1] According to the investigation, the arrested man
+people in the city. [@1] Prefect Gatica said the procedure resulted from criminal-analysis and police-intelligence work carried out with the Public Prosecutor's Office. [@6] According to the investigation, the arrested man
 intended to store the cannabis and sell it in small quantities, known in Chile
 as microtráfico. [@1,4]
 
 The load weighed 12 kilograms of cannabis sativa, which the PDI said was
-equivalent to more than 120,000 doses. [@1,4] The PDI valued the cannabis at more
-than 198 million pesos. [@2,4] Gatica said the operation had kept the drug out of
+equivalent to more than 120,000 doses. [@1,4,6] The PDI valued the cannabis at more
+than 198 million pesos. [@2,4,6] Gatica said the operation had kept the drug out of
 the region's distribution circuit. [@1,4]
