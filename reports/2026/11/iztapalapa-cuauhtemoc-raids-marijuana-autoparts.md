@@ -59,25 +59,21 @@ sources:
     publisher: El Heraldo de México
     date: 2026-11-11
     language: es
-open_questions:
-  - No separate date is given for the two searches; 11 November 2026 is the publication date and is used as the incident date.
-  - No weight was published for the marijuana, only 15 and 24 bags, so no kilogram figure is recorded.
-  - Cronica and El Universal call the material marijuana, while El Heraldo describes it as similar to or possibly marijuana; no laboratory confirmation was reported.
-  - The white solid substance found in 49 and 56 bags was not identified in the accounts.
-  - It is not stated whether the marijuana found belongs to the auto-parts investigation or to a separate drug inquiry.
-  - No charges, court appearance or outcome were reported; the detainees were handed to the Public Prosecutor's Office.
-  - The accounts appear to reprint the same SSC statement, so the details are not independently corroborated.
-  - No source gives a combined total for the marijuana found at the two properties.
+  - title: Aseguran tres toneladas de autopartes y detienen a 3 personas en dos cateos
+    url: https://www.jornada.com.mx/noticia/2026/11/11/capital/aseguran-tres-toneladas-de-autopartes-y-detienen-a-3-personas-en-dos-cateos
+    publisher: La Jornada
+    date: 2026-11-11
+    language: es
 ---
 
 Mexico City's Secretariat of Citizen Security (SSC) arrested three people in two
-court-ordered searches in the Iztapalapa and Cuauhtémoc boroughs. [@1] The two
+court-ordered searches in the Iztapalapa and Cuauhtémoc boroughs. [@1,4] The two
 properties were described as storage and distribution points for stolen auto
 parts. [@3] The first search was at a property on Calle Leonardo Da Vinci in
-colonia Citlalli, Iztapalapa. [@1] A 29-year-old woman and a 20-year-old man
+colonia Citlalli, Iztapalapa. [@1,4] A 29-year-old woman and a 20-year-old man
 were detained there. [@3]
 
-Officers seized 15 bags of marijuana at the property. [@1] They also seized 49
+Officers seized 15 bags of marijuana at the property. [@1,4] They also seized 49
 bags of a white solid substance, two firearms, five magazines, five licence
 plates, seven credentials and two mobile phones. [@1]
 
@@ -89,11 +85,10 @@ three licence plates, a pair of wing mirrors, a magazine and 25 rounds of
 ammunition. [@1]
 
 Police said the searches followed a violent car robbery in Ecatepec on 24
-October and the theft of a car's wing mirrors in Peralvillo. [@2] The
+October and the theft of a car's wing mirrors in Peralvillo. [@2,4] The
 34-year-old has five investigation files opened between 2008 and 2026 for
 vehicle-accessory theft, violent street robbery and narcomenudeo, Mexico's
 small-scale drug retail offence. [@1] The three detainees were handed to the
 Public Prosecutor's Office, which will decide their legal situation. [@2] Both
 properties were sealed and remained under police guard while investigations
 continued. [@1]
-
