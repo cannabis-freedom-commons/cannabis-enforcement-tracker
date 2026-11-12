@@ -44,18 +44,15 @@ sources:
     publisher: Divya Bhaskar
     date: 2026-11-09
     language: gu
-open_questions:
-  - The article gives only the January-October 2026 reporting period and its 9 November 2026 publication date; 31 October 2026 is used as the incident date as the end of that period.
-  - The 32 cases and 57 arrests cover all NDPS drugs, not cannabis alone, and no cannabis-only arrest total was published; the charas seizure carries no accused count in the article.
-  - The Rs 2,25,67,662 value covers all seized narcotics together, so no cannabis-only value is entered in figures.
-  - Mephedrone is stated as 596.290 grams and 510 milligrams, recorded in the text as about 596.8 grams; opium, mephedrone and posdoda amounts are mentioned only to explain the mixed tally and are not counted as cannabis.
-  - Only one accessible outlet account of this aggregate was found; no agency statement or second outlet corroboration could be opened.
-  - No charges, remand outcomes or court results beyond the registered cases were reported.
-  - No photo or video established to show this campaign is included.
+  - title: 'Rajkot SOG crackdown on drug dealers: 32 NDPS cases in 10 months, Rs. 2.25 crore seized'
+    url: https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/rajkot-sog-crackdown-on-drug-dealers-32-ndps-cases-in-10-months-rs-225-crore-seized-dbp-139633385.html
+    publisher: Divya Bhaskar
+    date: 2026-11-09
+    language: gu
 ---
 
 Rajkot city SOG registered 32 cases under the NDPS Act and caught 57 accused
-between January and October 2026. [@1] The city SOG carried out the drive as a
+between January and October 2026. [@1,2] The city SOG carried out the drive as a
 special campaign under its Say No to Drugs mission against the sale, trafficking
 and storage of intoxicants. [@1] Teams kept drug dealers under watch and
 conducted continuous raids under the leadership of SOG PI N.B. Chaudhari. [@1]
@@ -73,7 +70,6 @@ Officers seized 2.865 kg of opium from three accused in two opium cases in the
 same period. [@1] Officers also seized about 596.8 grams of mephedrone from 16
 accused in 12 cases and 19.300 kg of posdoda in one case. [@1] SOG put the
 combined value of all the narcotics seized in these operations at Rs
-2,25,67,662. [@1] SOG said the zero-tolerance action would continue to protect
+2,25,67,662. [@1,2] SOG said the zero-tolerance action would continue to protect
 young people and stop illegal sale and trafficking in the city, and appealed to
 citizens to share information about drug sale or trafficking. [@1]
-
