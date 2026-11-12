@@ -42,31 +42,35 @@ sources:
     publisher: АСТВ
     date: 2026-11-11
     language: ru
+  - title: Больше килограмма конопли нашли у сахалинца
+    url: https://citysakh.ru/news/131468
+    publisher: CitySakh.ru
+    date: 2026-11-12
+    language: ru
 open_questions:
-  - No separate date for the searches was published; 11 November 2026 is the publication date and is used as the incident date.
-  - The 1.68-gram and 2.72-gram tobacco-and-cannabis-oil mixtures were left out of the cannabis weight because the cannabis-oil share cannot be separated from the tobacco.
-  - No court outcome beyond the opening of the case and the undertaking not to leave was reported.
-  - The account rests on a single outlet report citing the Sakhalin Oblast police statement, with no independent second account found.
-  - The exact address in Petropavlovskoye where the flat and outbuildings were searched was not published.
+    - No separate date for the searches was published; 11 November 2026, the first publication date, is used as the incident date.
+    - The 1.68-gram and 2.72-gram tobacco-and-cannabis-oil mixtures were left out of the cannabis weight because the cannabis-oil share cannot be separated from the tobacco.
+    - No court outcome beyond the opening of the case and the undertaking not to leave was reported.
+    - Both outlets report the same police account, so the case rests on one official version of events.
+    - The exact address in Petropavlovskoye where the flat and outbuildings were searched was not published.
 ---
 
 A 39-year-old resident of Petropavlovskoye hid a large batch of drugs, which
 law-enforcement officers learned about. [@1] Sakhalin Oblast police personally
 searched the man, born in 1987, during investigative measures. [@1] A criminal
 case was opened against him under part 2 of article 228 of the Russian Criminal
-Code. [@1] He was placed under an undertaking not to leave and to behave
-properly. [@1]
+Code. [@1,2] He was placed under an undertaking not to leave and to behave
+properly. [@1,2]
 
 The personal search found cannabis (marijuana) weighing 0.62 grams, as confirmed
 by an expert. [@1] That search also found a mixture of ground tobacco parts and
-cannabis (hashish) oil with a total weight of 1.68 grams. [@1] On the same day,
+cannabis (hashish) oil with a total weight of 1.68 grams. [@1,2] He was carrying the marijuana and the 1.68-gram tobacco-and-hashish-oil mixture in his pockets. [@2] On the same day,
 officers searched his flat, the land beside the house and the outbuildings on
-it. [@1] There they found plant parts containing tetrahydrocannabinol and parts
+it. [@1,2] There they found plant parts containing tetrahydrocannabinol and parts
 of Cannabis plants with a combined weight of 1,043.5 grams, as confirmed by an
-expert. [@1] They also found a mixture of ground tobacco parts and hashish oil
-there with a total weight of 2.72 grams. [@1]
+expert. [@1,2] They also found a mixture of ground tobacco parts and hashish oil
+there with a total weight of 2.72 grams. [@1,2]
 
 He had hidden the banned substances in outbuildings. [@1] Part 2 of article 228
 covers unlawful acquisition, storage, transport, manufacture and processing of
-drugs and drug-containing plants or their parts on a large scale. [@1]
-
+drugs and drug-containing plants or their parts on a large scale. [@1,2]
