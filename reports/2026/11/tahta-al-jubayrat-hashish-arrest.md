@@ -95,35 +95,36 @@ sources:
     publisher: إخباري 24 نيوز
     date: 2026-11-07
     language: ar
+  - title: ضبط تاجر حشيش ومبلغ مالي في حملة أمنية بطهطا
+    url: https://ekhbary24.com/article/50539
+    publisher: إخباري 24 نيوز
+    date: 2026-11-12
+    language: ar
 open_questions:
-  - None of the four accounts gives the weight of the hashish or the amount of cash seized.
-  - No separate date is given for the arrest; 1 November 2026 is the publication date of all four accounts.
-  - No charge, court date or outcome has been reported after the man was referred to the Public Prosecution.
-  - The accounts repeat the police statement's wording and add little independent detail; one outlet gave the suspect's first name as Nour while the others used the initials N. A. S.
-  - No photo of the arrest was published; the pictures on the pages are generic archive or Ministry of Interior images, so none is linked.
-  - The article gives no weight for the hashish or amount for the cash seized.
-  - The article gives no separate date for the arrest; 1 November 2026 is its publication date.
-  - The page gives no weight for the hashish and no amount for the cash seized.
-  - The page gives no weight for the hashish, no amount for the cash and no separate date for the arrest; 7 November 2026 is its publication date.
-  - The page names the suspect as Nour A. S. and repeats the police statement, adding no independent detail.
+    - No source gives the weight of the hashish or the amount of the cash seized.
+    - No source gives a separate date for the arrest; 1 November 2026, the publication date of the first accounts, stands in for it.
+    - No charge, court date or outcome has been reported after the man was referred to the investigators.
+    - The accounts repeat the police statement's wording and add little independent detail, and most identify the suspect only by initials.
+    - One outlet gave the suspect's first name as Nour, while the others used initials.
+    - The pictures published with the accounts are either labelled illustrative or show the Sohag security director, so none is confirmed to show the arrest or the seizure.
 ---
 
 Police in Tahta, a district in northern Sohag governorate, arrested a
 34-year-old man with a quantity of hashish, saying he was caught before he could
-sell the drug to customers. [@1,7,10,12] The man, identified in police accounts as N. A.
-S., lives in Al-Jubayrat village in the district. [@2,6,8,9,10,11] Detectives had received a
+sell the drug to customers. [@1,7,10,12,13] The man, identified in police accounts as N. A.
+S., lives in Al-Jubayrat village in the district. [@2,6,8,9,10,11,13] Detectives had received a
 tip that he was dealing in drugs and using one of the district's villages as his
 base. [@1,7,11]
 
 The operation followed authorisation from the Public Prosecution and was led by
 Ahmed al-Bariri, head of the Tahta police investigations unit, with Captain Alaa
-Omran assisting. [@3,7,9,10,11,12] Police said he was caught in the act with the seized
+Omran assisting. [@3,4,7,9,10,11,12] Police said he was caught in the act with the seized
 items. [@1] Besides the hashish, officers found cash that police suspect came
-from drug sales. [@2,5,8,10,11] Questioned by police, he admitted holding the drugs for
+from drug sales. [@2,5,8,10,11,13] Questioned by police, he admitted holding the drugs for
 sale and said he wanted quick financial profit. [@1,7] He was referred to the
-Public Prosecution for investigation. [@4,6,8,9,10,11]
+Public Prosecution for investigation. [@4,6,8,9,10,11,13]
 
 Dealing in hashish carries death or life imprisonment and a fine of between
 100,000 and 500,000 Egyptian pounds under article 34 of Egypt's 1960 narcotics
 law, the reports noted. [@1] The arrest came amid a series of security campaigns
-in Sohag's districts against drug dealing. [@4]
+in Sohag's districts against drug dealing. [@4,13]
