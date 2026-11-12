@@ -100,6 +100,11 @@ sources:
     publisher: OraWebTv
     date: 2026-11-11
     language: it
+  - title: 'Messina, quattro arresti per droga: sequestrati oltre 10 chili di stupefacenti'
+    url: https://www.freepressonline.it/2026/11/11/messina-quattro-arresti-per-droga-sequestrati-oltre-10-chili-di-stupefacenti/
+    publisher: Free Press Online
+    date: 2026-11-11
+    language: it
 open_questions:
     - 'No exact hashish weight was published: the finds are described as more than one kilogram, 26 grams and more than six kilograms, and L''Eco del Sud''s total is more than seven kilograms.'
     - L'Eco del Sud's overall cocaine figure of about 1.3 kilograms does not match the separate finds of more than 50 grams, 1.1 kilograms and 1.3 kilograms.
@@ -109,30 +114,30 @@ open_questions:
 ---
 
 Four people aged between 22 and 47 were arrested in Messina by the Carabinieri,
-accused of holding narcotics for dealing. [@1,4,10,11] Two separate checks, in the city
+accused of holding narcotics for dealing. [@1,4,10,11,12] Two separate checks, in the city
 centre and in the south of the city, led to seizures of drugs, cash and
-ammunition. [@1,5] The four were transferred to Gazzi prison and placed at the
-disposal of the judicial authority. [@1,5,10,11] The seized drugs will be analysed by
-the Carabinieri RIS laboratory in Messina. [@1,6,11] Their responsibility is still to
+ammunition. [@1,5,12] The four were transferred to Gazzi prison and placed at the
+disposal of the judicial authority. [@1,5,10,11,12] The seized drugs will be analysed by
+the Carabinieri RIS laboratory in Messina. [@1,6,11,12] Their responsibility is still to
 be established in the judicial proceedings. [@1]
 
 The first arrest came on Tuesday afternoon, when a Radiomobile patrol stopped a
 car in the centre driven by a 44-year-old Messina man already known to the
 police. [@1,6,11] Hidden in his clothing, officers found more than 50 grams of
-cocaine, and they seized 765 euros in cash. [@1,6,10,11]
+cocaine, and they seized 765 euros in cash. [@1,6,10,11,12]
 
 The second stop, the following evening in the south of the city, involved a
 47-year-old man, his 45-year-old wife and a 22-year-old. [@1,6] A backpack in the
 car held ten blocks of hashish weighing more than one kilogram, a 1.1 kilogram
-block of cocaine, a switchblade and 1,780 euros. [@1,5,11] At the couple's home and
+block of cocaine, a switchblade and 1,780 euros. [@1,5,11,12] At the couple's home and
 its outbuildings, officers found another 26 grams of hashish and 6,700 euros in
-notes. [@1,5,10,11] Near the 47-year-old's sister's home, a car registered to the
+notes. [@1,5,10,11,12] Near the 47-year-old's sister's home, a car registered to the
 45-year-old woman held more than six kilograms of hashish, about 700 grams of
-marijuana, 1.3 kilograms of cocaine and 204 cartridges of various calibres. [@1,7,9,11]
-A Guardia di Finanza dog unit helped the Carabinieri search that car. [@1,5,10,11]
+marijuana, 1.3 kilograms of cocaine and 204 cartridges of various calibres. [@1,7,9,11,12]
+A Guardia di Finanza dog unit helped the Carabinieri search that car. [@1,5,10,11,12]
 
 L'Eco del Sud put the overall balance at more than seven kilograms of hashish,
 about 1.3 kilograms of cocaine and 700 grams of marijuana. [@1] The Carabinieri
 note carried by LaPresse placed the second check on the previous evening in the
 south of the city. [@2] The four were arrested in flagrante by the Radiomobile
-unit of the Messina Carabinieri. [@3,8]
+unit of the Messina Carabinieri. [@3,8,12]
