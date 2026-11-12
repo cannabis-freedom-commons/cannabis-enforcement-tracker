@@ -75,23 +75,32 @@ sources:
     publisher: El Faro Motril
     date: 2026-11-11
     language: es
+  - title: 'Granada: La Policía desmantela dos plantaciones de marihuana con cerca de 1.000 en dos pisos y plantas detiene a un hombre'
+    url: https://www.motrildigital.news/granada-la-policia-desmantela-dos-plantaciones-de-marihuana-con-cerca-de-1-000-en-dos-pisos-y-plantas-detiene-a-un-hombre
+    publisher: Motril Digital
+    date: 2026-11-11
+    language: es
+open_questions:
+    - No separate date was published for the two searches; 11 November 2026 is the publication date of the first reports.
+    - No court outcome has been reported since the arrested man was placed at the judicial authority's disposal.
+    - No arrest was reported in connection with the first flat and its 380 plants.
 ---
 
 National Police in Granada detained a 35-year-old man as the alleged perpetrator
 of a public-health offence and electricity fraud linked to an indoor grow with
-nearly 600 plants in the Norte district. [@2,3,5] The man had police antecedents and
+nearly 600 plants in the Norte district. [@2,3,5,6] The man had police antecedents and
 was placed at the disposal of the judicial authority in connection with the
-second plantation. [@1,5]
+second plantation. [@1,5,6]
 
 Officers searched two flats in the same district, finding three grow rooms in
-one flat and four equipped rooms in the other. [@1] In the first flat, three
+one flat and four equipped rooms in the other. [@1,6] In the first flat, three
 rooms were fitted with lighting, filtration and air conditioning plus
 phytosanitary products, holding 164, 140 and 76 cannabis sativa plants
-respectively, all advanced in growth and over one metre tall. [@1,5] Endesa staff
-found an illegal electricity connection feeding the systems in those rooms. [@1]
+respectively, all advanced in growth and over one metre tall. [@1,5,6] Endesa staff
+found an illegal electricity connection feeding the systems in those rooms. [@1,6]
 In the second flat, four rooms were fully equipped to promote vegetative growth
 of marijuana plants, all fed by an illegal connection to the power grid, and
-officers seized nearly 600 plants about one metre tall there. [@1,5]
+officers seized nearly 600 plants about one metre tall there. [@1,5,6]
 
 Together, the two searches yielded nearly 1,000 marijuana plants, comprising the
-380 plants in one dwelling and nearly 600 in the other. [@2,4]
+380 plants in one dwelling and nearly 600 in the other. [@2,4,6]
