@@ -70,23 +70,34 @@ sources:
     publisher: Journal Online
     date: 2026-11-11
     language: en
+  - title: BoC intercepts shabu, kush, ketamine
+    url: https://tribune.net.ph/2026/11/11/boc-intercepts-shabu-kush-ketamine
+    publisher: Daily Tribune
+    date: 2026-11-12
+    language: en
 open_questions:
     - No one was reported arrested or charged over the 12 parcels; the addressees and senders were not named.
-    - The parcels were reported to originate from Thailand, India, the United States and the Netherlands, but their destination addresses and mode of shipment were not reported.
+    - The parcels were reported to originate from Thailand, India, the United States and the Netherlands, but their destination addresses were not reported.
     - The PHP1,563,000 valuation is an official estimate, not an independently confirmed market price.
     - The operation is given as 6 November, while the BOC account was reported on 11 November and the earlier PNP account on 8 November.
     - The same PNP roundup reports shabu buy-busts in Iloilo and South Cotabato, separate events left out of this report.
+media:
+  - kind: photo
+    url: https://tribune.net.ph/2026/11/11/boc-intercepts-shabu-kush-ketamine
+    media_url: https://images.assettype.com/tribune/2026-11-11/2ya54foi/story-3.jpg?w=720&auto=format&q=55&rect=0%2C0%2C2048%2C1152&h=405&fit=crop
+    publisher: Daily Tribune
+    caption: Customs officials inspect 12 abandoned parcels containing shabu, marijuana kush and ketamine seized in Pasay City. Photograph courtesy of BOC
 ---
 
 Police and inter-agency personnel intercepted 12 abandoned inbound parcels at
 the Central Mail Exchange Center along Domestic Road in Pasay City on 6 November
-2026. [@1,3] The parcels were declared to contain clothing, toys, household items, vehicle parts and gifts. [@4,6] The parcels originated from Thailand, India, the United States and the Netherlands. [@4,6] The parcels held about 1,563 grams of suspected marijuana kush, which
+2026. [@1,3] Personnel recovered the packages on 6 November during inspections of 12 abandoned air cargo parcels at a local warehouse in Pasay City. [@7] The parcels were declared to contain clothing, toys, household items, vehicle parts and gifts. [@4,6,7] The parcels originated from Thailand, India, the United States and the Netherlands. [@4,6,7] The parcels held about 1,563 grams of suspected marijuana kush, which
 the police valued at ₱1,563,000. [@1,4,6] Kush here means high-grade marijuana; no
 one was arrested over the parcels. [@1]
 
 The same parcels carried about 11,241 grams of shabu, the local name for
 methamphetamine hydrochloride, and 2,232 grams of ketamine; those are separate
-drugs and are not counted in the cannabis figure. [@1,5,6] The drugs were concealed in clothing, food and tea packaging, wooden containers, a metal pulley, a handbag and a deep fryer. [@4,6]
+drugs and are not counted in the cannabis figure. [@1,5,6] The drugs were concealed in clothing, food and tea packaging, wooden containers, a metal pulley, a handbag and a deep fryer. [@4,6,7]
 
 Police valued the whole two-day nationwide haul, including the parcels, at
 ₱91,887,240 and gave it as 15,436.80 grams of suspected illegal drugs. [@1] In
@@ -94,7 +105,7 @@ the same two days police arrested four people in Iloilo and South Cotabato
 buy-bust operations, none of them in connection with the Pasay parcels. [@2]
 
 The parcels' contents were to be turned over to the National Office of PDEA, the
-Philippine Drug Enforcement Agency, for disposition. [@1] The seized substances were submitted to the PDEA Laboratory Service for testing, with an investigation ongoing into whether to file charges. [@3,6] BOC-NAIA led the operation in coordination with the Customs Anti-Illegal Drugs Task Force, the NAIA Inter-Agency Drug Interdiction Task Group, PDEA and other agencies. [@3,6] PNP chief Police
+Philippine Drug Enforcement Agency, for disposition. [@1] The seized substances were submitted to the PDEA Laboratory Service for testing, with an investigation ongoing into whether to file charges. [@3,6,7] BOC-NAIA led the operation in coordination with the Customs Anti-Illegal Drugs Task Force, the NAIA Inter-Agency Drug Interdiction Task Group, PDEA and other agencies. [@3,6,7] PNP chief Police
 General Jose Melencio Nartatez Jr. said networks using transport and delivery
 facilities would be pursued and those behind the shipments held accountable.
 [@2]
