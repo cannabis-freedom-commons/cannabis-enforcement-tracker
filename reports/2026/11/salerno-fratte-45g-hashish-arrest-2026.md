@@ -62,6 +62,11 @@ sources:
     publisher: Lo Strillone TV
     date: 2026-11-11
     language: it
+  - title: 'Salerno, hashish e munizioni trovati durante una perquisizione: arrestato 24enne'
+    url: https://www.salernonotizie.it/2026/11/11/salerno-hashish-e-munizioni-trovati-durante-una-perquisizione-arrestato-24enne/
+    publisher: Salernonotizie.it
+    date: 2026-11-11
+    language: it
 open_questions:
     - The hashish weight is reported as approximate (about 45 grams), not an exact measured figure.
     - The reports do not say whose home in Fratte was searched.
@@ -69,14 +74,14 @@ open_questions:
 ---
 
 On 10 November 2026 in Salerno, Carabinieri arrested a 24-year-old local man.
-[@2] The arrest was made by officers of the Salerno Fratte station with the
+[@2,5] The arrest was made by officers of the Salerno Fratte station with the
 Operational Section of the Salerno company operational and radiomobile unit.
-[@3,4] The young man is under investigation for possession of drugs with intent to
-sell and illegal possession of weapons. [@1,4]
+[@3,4,5] The young man is under investigation for possession of drugs with intent to
+sell and illegal possession of weapons. [@1,4,5]
 
-A search of property at his disposal found about 45 grams of hashish. [@2,4] The search was carried out in a house in Fratte, in Salerno. [@4]
-Officers also found eight .380 calibre bullets in his possession. [@1,4] Officers
-seized 1,135 euros in cash believed to be proceeds of unlawful activity. [@2,4]
+A search of property at his disposal found about 45 grams of hashish. [@2,4,5] The search was carried out in a house in Fratte, in Salerno. [@4]
+Officers also found eight .380 calibre bullets in his possession. [@1,4,5] Officers
+seized 1,135 euros in cash believed to be proceeds of unlawful activity. [@2,4,5]
 All the seized material and money were placed under criminal seizure at the
 disposal of the judicial authority. [@3,4]
 
