@@ -62,6 +62,11 @@ sources:
     publisher: Radar BO
     date: 2026-11-11
     language: pt
+  - title: Maconha é apreendida dentro de barcos transportados em caminhão na BR-277
+    url: https://paiquerefm.com.br/maconha-e-apreendida-dentro-de-barcos-transportados-em-caminhao-na-br-277/
+    publisher: Paiquerê FM News
+    date: 2026-11-11
+    language: pt
 open_questions:
     - Radar BO reported 142.8 kilograms after a small perforation, while earlier reports said the marijuana would be weighed only after specialised tools opened the boats.
     - The organizers of the shipment from Missal and the intended recipients in Rio de Janeiro were not identified.
@@ -70,15 +75,15 @@ open_questions:
 
 Brazil's Federal Highway Police (Polícia Rodoviária Federal, PRF) seized a cargo
 of marijuana hidden inside two fiberglass boats during a vehicle inspection at a
-highway police post on the BR-277 in Cascavel, western Paraná. [@1,4,5] The stop was on the night of Tuesday 10 November at kilometre 582 of the BR-277. [@5] Radar BO reported that officers found 142.8 kilograms of marijuana inside the boats. [@5] The two
+highway police post on the BR-277 in Cascavel, western Paraná. [@1,4,5] The stop was on the night of Tuesday 10 November at kilometre 582 of the BR-277. [@5,6] Officers suspected closed spaces under the seats, made a perforation and confirmed the drug was there. [@6] Radar BO reported that officers found 142.8 kilograms of marijuana inside the boats. [@5] The two
 boats were being transported in the enclosed cargo compartment of a box truck,
 known in Brazil as a caminhão-baú. [@1,4] The driver of the transport vehicle was
-not arrested following the inspection. [@1,5] The truck, the seized drug and the driver were taken to the Cascavel Civil Police station so the driver could give explanations. [@5] According to the findings of the
+not arrested following the inspection. [@1,5,6] The truck, the seized drug and the driver were taken to the Cascavel Civil Police station so the driver could give explanations. [@5,6] According to the findings of the
 PRF, the driver was able to demonstrate to the inspecting officers that he had
 no knowledge of the existence of the drug hidden inside the cargo. [@1,3,4]
 
 The vessels had been dispatched from the municipality of Missal, in western
-Paraná, and were destined for the city of Rio de Janeiro. [@2,3,4,5] Inspectors also found an electronic tracker installed on one of the vessels, suspected of being used by traffickers to monitor the cargo's route in real time. [@3] To extract the
+Paraná, and were destined for the city of Rio de Janeiro. [@2,3,4,5,6] The boats were transported as part of a fractional cargo by a logistics company. [@6] Inspectors also found an electronic tracker installed on one of the vessels, suspected of being used by traffickers to monitor the cargo's route in real time. [@3] To extract the
 hidden narcotics from inside the hollow structures, police teams had to await
 the arrival of specialised cutting tools needed to open the fiberglass vessels.
 [@2,3] Federal Highway Police officers stated that the entire load of marijuana
