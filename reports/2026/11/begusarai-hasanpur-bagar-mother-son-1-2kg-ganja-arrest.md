@@ -60,11 +60,18 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-11-11
     language: hi
+  - title: हसनपुर में गांजा बेचने के आरोप में मां-बेटा गिरफ्तार :1.2 किलो मादक पदार्थ जब्त
+    url: https://newstobihar.in/2026/11/on-charges-of-selling-marijuana-in-hasanpur/
+    publisher: News To Bihar
+    date: 2026-11-11
+    language: hi
+open_questions:
+    - News To Bihar says the ganja was hidden under a chadar on the roof of the house, while another account cited in the report says it was under a tin sheet.
 ---
 
 Police raided Ward No. 2 of Hasanpur Bagar panchayat in Navkothi police-station
-area of Begusarai on Tuesday. [@1,2,3] Sub-Inspector Bipin Kumar Ojha led the raid team alongside Magistrate Lovely Kumari and a police dog squad. [@2] The action targeted a mother and her son
-accused of selling ganja. [@1,2]
+area of Begusarai on Tuesday. [@1,2,3,4] Station in-charge Md. Firdaus said police had received information of ganja sales in Ward No. 2 and, after confirming it, sent Sub-Inspector Bipin Kumar Ojha with a police team. [@4] Sub-Inspector Bipin Kumar Ojha led the raid team alongside Magistrate Lovely Kumari and a police dog squad. [@2,4] The action targeted a mother and her son
+accused of selling ganja. [@1,2,4]
 
-Officers seized 1 kg 200 g of ganja, or 1.2 kg, in the raid. [@1,2,3] Officers also seized an electronic machine and about 200 grams of rubber used for packing small packets. [@3] The contraband was discovered in a black polythene bag hidden under a tin sheet on the roof of the house. [@2] Police took
-the woman and her son into custody and began questioning them. [@1,2] Officers registered a case under the Narcotic Drugs and Psychotropic Substances Act for further legal proceedings. [@2] Police identified the mother and son as Archana Devi and Gaurav Kumar. [@2,3]
+Officers seized 1 kg 200 g of ganja, or 1.2 kg, in the raid. [@1,2,3,4] Officers also seized an electronic machine and about 200 grams of rubber used for packing small packets. [@3] The contraband was discovered in a black polythene bag hidden under a tin sheet on the roof of the house. [@2] Police took
+the woman and her son into custody and began questioning them. [@1,2,4] Officers registered a case under the Narcotic Drugs and Psychotropic Substances Act for further legal proceedings. [@2,4] Police identified the mother and son as Archana Devi and Gaurav Kumar. [@2,3,4]
