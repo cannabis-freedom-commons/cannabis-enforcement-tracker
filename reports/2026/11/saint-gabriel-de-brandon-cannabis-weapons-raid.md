@@ -38,28 +38,27 @@ sources:
     publisher: L'Action d'Autray
     date: 2026-11-11
     language: fr
-open_questions:
-  - No arrests, charges or court outcome were reported after the search.
-  - The only weight given is more than two kilos; no exact figure was published.
-  - What form the cannabis was in, and whether it was tested, was not reported.
-  - No estimate of the value of the cannabis or the weapons was published.
+  - title: Opération policière à Saint-Gabriel-de-Brandon
+    url: https://cfnj.net/operation-policiere-a-saint-gabriel-de-brandon/
+    publisher: CFNJ
+    date: 2026-11-11
+    language: fr
 ---
 
 Sûreté du Québec officers from the force's auxiliary post for the MRC de
 D'Autray searched a residence in Saint-Gabriel-de-Brandon on 5 November 2026.
-[@1] The home is on rue Guindon. [@1] The post is the Sûreté du Québec unit for
+[@1] The home is on rue Guindon. [@1,2] The post is the Sûreté du Québec unit for
 the MRC de D'Autray, a regional county municipality. [@1] The D'Autray post
 worked with the force's organized-crime investigation division, DECCO Rive-Nord,
 on the illicit cannabis search. [@1]
 
-Police seized more than two kilos of cannabis. [@1] They also seized four long
-guns and an electroshock weapon. [@1] The weapons were found at the same
+Police seized more than two kilos of cannabis. [@1,2] They also seized four long
+guns and an electroshock weapon. [@1,2] The weapons were found at the same
 residence as the cannabis. [@1] The Sûreté du Québec said the seizure followed
 an investigation opened after information received from the public. [@1] That
-investigation is still under way, the force said. [@1]
+investigation is still under way, the force said. [@1] The Sûreté du Québec said arrests were planned. [@2]
 
 The Sûreté du Québec, the province's police force, asked anyone with information
 on cannabis smuggling or drug trafficking to come forward at any time. [@1] Its
 criminal information line is confidential and can be reached at 1 800 659-4264.
 [@1]
-
