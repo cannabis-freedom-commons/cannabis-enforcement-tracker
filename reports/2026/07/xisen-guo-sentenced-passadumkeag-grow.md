@@ -52,22 +52,31 @@ sources:
     url: https://wgme.com/news/local/new-york-man-sentenced-for-operating-marijuana-grow-in-passadumkeag-weed-pot-us-drug-enforcement-administration-china-xisen-guo-maine
     publisher: WGME
     date: 2026-07-21
+  - title: NY man sentenced for running massive illegal marijuana grow in Penobscot County
+    url: https://web.archive.org/web/20260807052354/https://www.pressherald.com/2026/07/21/ny-man-sentenced-for-running-massive-illegal-marijuana-grow-in-penobscot-county/
+    publisher: Portland Press Herald
+    date: 2026-07-21
+    language: en
+  - title: Man gets time served after Passadumkeag grow bust
+    url: https://www.wabi.tv/2026/07/21/man-gets-time-served-after-passadumkeag-grow-bust
+    publisher: WABI
+    date: 2026-07-20
+    language: en
 open_questions:
-  - No separate sentencing date is given; 21 July 2026 is the article's publication date and is used as the incident date.
-  - No plant count or grow area was published, so only the processed-marijuana weight and cash are recorded.
-  - Only one opened account of the sentencing was found; no court judgment or second outlet report was available.
-  - The exact cash total above $4,700 was not stated.
+    - No plant count or grow area was published, so only the processed-marijuana weight and cash are recorded.
+    - The exact cash total above $4,700 was not stated.
+    - The reports do not say how long Guo was held in custody before sentencing, so the length of the time-served term is unknown.
+    - The reports do not say whether the court ordered a fine or forfeiture.
 ---
 
 A federal judge sentenced 68-year-old Xisen Guo to time served and one year of
-supervised release. [@1] Guo, a Brooklyn, New York man, was sentenced for
-operating an illegal marijuana grow in Penobscot County. [@1]
+supervised release. [@1,2] U.S. District Judge John Woodcock Jr. imposed the term. [@2] He was sentenced for maintaining a drug-involved premises in federal court in Bangor on 20 July 2026. [@3] Guo, a Brooklyn, New York man, was sentenced for
+operating an illegal marijuana grow in Penobscot County. [@1] He had pleaded guilty in January 2025. [@3]
 
 Investigators said Guo operated the grow at a home in Passadumkeag for several
-years. [@1] When authorities searched the property in 2024, they found about 40
+years. [@1] The house on Main Road in Passadumkeag was searched in February 2024 by Penobscot County sheriffs, the FBI and Homeland Security Investigations. [@2] When authorities searched the property in 2024, they found about 40
 pounds of processed marijuana, more than $4,700 in cash and evidence of a
 large-scale growing operation. [@1]
 
 According to court records, Guo admitted he eventually took over the operation
-himself after initially renting the property to another grower. [@1]
-
+himself after initially renting the property to another grower. [@1] Guo's lawyer said in a court filing that he did not come to Maine intending to grow marijuana, but to renovate the house and resell it. [@2] Guo was the first person to face federal charges over the hundreds of suspected illicit cannabis grow houses in Maine allegedly run by Chinese organized crime groups. [@2]
