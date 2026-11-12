@@ -69,22 +69,27 @@ sources:
     publisher: Μαλεβιζιώτης
     date: 2026-11-11
     language: el
+  - title: 'Συνελήφθη Έλληνας στην Αλβανία: Βρέθηκε βαλίτσα με κάνναβη στο αεροδρόμιο'
+    url: https://cretaone.gr/synelifthi-ellinas-stin-alvania-vrethike-valitsa-me-kannavi-sto-aerodromio/
+    publisher: CretaOne.gr
+    date: 2026-11-11
+    language: el
 open_questions:
-  - The reports give no separate day for the luggage search or the arrest; 9 November 2026 is the publication date of all three accounts and is used as the incident date.
-  - Balkanweb gives no weight for the cannabis; the 24.5 kilograms is reported by TPZ and Shqiptarja.com.
-  - The material was described as suspected Cannabis sativa; no laboratory confirmation was reported.
-  - TPZ states that cannabis was found in his suitcases in the plural, while the police statement quoted by all three outlets says one suitcase contained two packages.
-  - No charge sheet, custody ruling or court outcome was reported; police said investigative actions were continuing.
-  - All three accounts reproduce the same State Police statement, so they are not independent reporting; the police's own page for this operation could not be opened.
-  - No value was published for the seized cannabis.
-  - Balkanweb's English wording places the arrest "on the street in Durrës", while the Albanian police statement and Shqiptarja name it as Rruga e Durrësit, a street in Tirana, and the report follows the Albanian wording.
-  - The TPZ page image is a generic drug-enforcement photograph, not confirmed to show this seizure, so no photo is listed; the video embedded there comes from the State Police's Facebook page.
-  - The Greek-language account says the man abandoned the suitcase at the airport before the police check was completed and then disappeared, while the police statement quoted by the Albanian outlets says officers searched the flight's baggage and identified the suitcase's absent owner.
+    - The reports give no separate day for the luggage search or the arrest; 9 November 2026 is the publication date of the accounts and is used as the incident date.
+    - Balkanweb gives no weight for the cannabis; the 24.5 kilograms is reported by TPZ, Shqiptarja.com and CretaOne.
+    - The material was described as suspected Cannabis sativa; no laboratory confirmation was reported.
+    - TPZ states that cannabis was found in his suitcases in the plural, while the police statement quoted by the outlets says one suitcase contained two packages.
+    - No charge sheet, custody ruling or court outcome was reported; police said investigative actions were continuing.
+    - The accounts reproduce the same State Police statement and are not independent reporting.
+    - No value was published for the seized cannabis.
+    - Balkanweb's English wording places the arrest "on the street in Durrës", while the Albanian police statement and Shqiptarja name it as Rruga e Durrësit, a street in Tirana, and the report follows the Albanian wording.
+    - The Greek-language accounts say the man abandoned the suitcase at the airport before the police check was completed and then disappeared, while the police statement quoted by the Albanian outlets says officers searched the flight's baggage and identified the suitcase's absent owner.
+    - CretaOne describes the contents as two packages of hashish, while the police statement describes plant material suspected to be Cannabis sativa and the other Greek-language account calls it cannabis.
 ---
 
 Police in Tirana arrested a 51-year-old Greek man, a passenger on an
 Athens–Rinas flight, on suspicion of smuggling narcotics into Albania through
-Rinas airport. [@1,4] The arrest came in a police operation codenamed Fly, run by
+Rinas airport. [@1,4,5] The arrest came in a police operation codenamed Fly, run by
 narcotics investigators with the Rinas police commissariat and customs
 authorities, who searched the luggage of passengers on the Athens–Rinas route.
 [@1,4] In one suitcase officers found two packages of plant material suspected to
@@ -95,10 +100,10 @@ The suitcase's suspected owner, identified by police as a 51-year-old Greek
 citizen with the initials M. P., had left the airport immediately after landing.
 [@1] Officers located and arrested him on the street in Durrës — Rruga e
 Durrësit, a main street in Tirana — where they took him in flagrante delicto for
-drug trafficking. [@1,4] Shqiptarja.com names the man as Michail Prokovas, the
+drug trafficking. [@1,4,5] Shqiptarja.com names the man as Michail Prokovas, the
 passenger on the Athens–Rinas flight, and says he was arrested on Rruga e
 Durrësit. [@3] TPZ and Shqiptarja.com attribute the police statement to the
 director of Tirana police, Oliger Torba. [@2]
 
 The suspected cannabis was seized as material evidence, and police said
-investigative actions were continuing to document the case. [@1]
+investigative actions were continuing to document the case. [@1,5]
