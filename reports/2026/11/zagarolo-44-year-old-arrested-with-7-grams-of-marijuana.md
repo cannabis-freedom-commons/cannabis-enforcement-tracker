@@ -59,6 +59,11 @@ sources:
     publisher: GrNet
     date: 2026-11-11
     language: it
+  - title: 'Roma: sorpreso in possesso di cocaina e marijuana, arrestato 44enne'
+    url: https://www.ore12.net/roma-sorpreso-in-possesso-di-cocaina-e-marijuana-arrestato-44enne/
+    publisher: Ore12
+    date: 2026-11-11
+    language: it
 open_questions:
   - The articles give no separate date for the stop and searches; 11 November 2026 is the publication date used for the incident.
   - No outcome of the fast-track validation hearing was reported.
@@ -66,16 +71,15 @@ open_questions:
 
 Carabinieri from the Zagarolo station arrested a 44-year-old local man already
 known to law enforcement, who is seriously suspected of possessing drugs for
-dealing. [@1] Officers stopped him in Piazza Guglielmo Marconi in the town
+dealing. [@1,4] Officers stopped him in Piazza Guglielmo Marconi in the town
 centre during an initiative-led check after noticing his suspicious behaviour.
-[@1] He was then held in the security cells at the disposal of the judicial
-authority pending a validation hearing under the fast-track procedure. [@1]
+[@1,4] He was then held in the security cells at the disposal of the judicial
+authority pending a validation hearing under the fast-track procedure. [@1,4]
 
 Personal and home searches found 50 grams of cocaine already divided into 82
-doses, together with 7 grams of marijuana. [@2] Officers also seized 95 euros in
+doses, together with 7 grams of marijuana. [@2,4] Officers also seized 95 euros in
 cash, considered proceeds of dealing, and a mobile phone allegedly used to
-arrange sales. [@3] All the drugs, the money and the phone were seized. [@3]
+arrange sales. [@3,4] All the drugs, the money and the phone were seized. [@3,4]
 
 The operation began as a routine town-centre check that led to the wider
-searches. [@3] Zagarolo lies in the province of Rome. [@2]
-
+searches. [@3] Zagarolo lies in the province of Rome. [@2,4]
