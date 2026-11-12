@@ -151,40 +151,23 @@ sources:
     url: https://www.ghanabusinessnews.com/2026/11/06/ghana-navy-intercepts-4-8-tonnes-of-suspected-marijuana-destined-for-nigeria/
     publisher: Ghana Business News
     date: 2026-11-06
+  - title: 'Ada: Police seize 3,752 slabs of suspected Indian hemp from abandoned canoe on Volta Lake'
+    url: https://3news.com/news/crime/ada-police-seize-3752-slabs-indian-hemp-canoe-volta-lake
+    publisher: 3News
+    date: 2026-11-12
 open_questions:
-  - The 4.7 tonnes and the US$1 million value are the Ghana Navy's estimates; the substance is described as suspected Indian hemp pending laboratory testing.
-  - No confirmed weight from laboratory testing and no figure for the number of parcels or the identity of the boat operators was published.
-  - No one had been arrested when the seizure was announced, and the source and intended foreign destination of the consignment were not established.
-  - The news reports do not say whether the two boats and any outboard motors or fuel were retained as exhibits.
-  - The earlier 2026 Ada estuary seizures mentioned in the same reports — 37 sacks at Goi on 27 March and 59 sacks on 19 July — are separate events and are not recorded here.
-  - The Adomonline account does not say what happened to the 117 sacks after the seizure, while the report says they were handed to NACOC for forensic examination.
-  - 3News gives the cargo as an estimated 4.8 tonnes, while the Ghana Navy statement and other outlets give 4.7 tonnes; the report keeps 4.7 tonnes.
-  - The boats are placed at the Volta Lake estuary near the Talibet Bridge, while the report's place is the Ada Estuary; the sources do not establish whether these are the same spot.
-  - MyJoyOnline says the boats were being prepared for transport to Nigeria; the bags were found at Ada Foah, in Ghana, before any crossing took place.
-  - Graphic Online gives 4.8 tonnes while the Navy statement and other outlets give 4.7 tonnes; the report keeps 4.7 tonnes.
-  - The drive to Nigeria was still being prepared at the time of the interception, so no border crossing took place.
-  - The source gives no weight confirmed by laboratory testing and no identity of the boat operators.
-  - The July interception of about 60 sacks that the Navy recalled is an earlier, separate event and is not recorded as part of this one.
-  - The 4.7 tonnes and the US$1 million value remain the Navy's estimates, and the sacks had not been confirmed as cannabis by laboratory testing when the account was published.
-  - 3News gives no figure for the number of parcels in total and does not say whether the two boats, outboard motors or fuel were retained as exhibits for this interception.
-  - This page describes the cargo as suspected Indian hemp prepared for export out of Ghana without naming a destination country.
-  - Modern Ghana describes the consignment only as being transported out of Ghana and names no destination country, while 3News and MyJoyOnline report the boats were bound for Nigeria.
-  - Modern Ghana reproduces the Navy's Facebook statement without additional independent reporting and gives no weight confirmed by laboratory testing.
-  - The page is a programme preview with a single sentence on this seizure and gives no sack count, arrests, laboratory confirmation or seizure date beyond the fresh interception framing.
-  - Peace FM Online gives the consignment as approximately 4.8 tonnes, while the Navy statement and several other outlets give 4.7 tonnes; the report keeps 4.7 tonnes.
-  - The submitted gallery page carries only the headline and a photo caption; its article text was not available, so the GhanaWeb wording could not be checked against the story body.
-  - The 4.7 tonnes and the US$1 million value are the Ghana Navy's estimates, and the sacks had not been confirmed as cannabis by laboratory testing when this account was published.
-  - The article was published on 6 November 2026 but describes the interception as taking place on 5 November 2026.
-  - GhanaWeb gives no identity of the boat operators and does not say whether the boats, outboard motors or fuel were retained.
-  - This is a programme preview published the day the Newsfile edition aired, not reporting of the seizure itself, and it gives no sack count, arrest figure or laboratory confirmation.
-  - GBC gives the seizure time as about 1 a.m. on 5 November, while other accounts describe the boats being searched around 5 a.m.; the report keeps 5 November as the date.
-  - GBC does not say the sacks were handed to NACOC for laboratory testing, although it describes the substance as suspected narcotics with an estimated value.
-  - GhanaWeb does not say how many people were on the boats or who they were.
-  - GhanaWeb gives the 4.7 tonnes and value as the Navy's estimates and does not report laboratory confirmation that the leaves were cannabis.
-  - GhanaWeb does not name the items or money seized, or the custody of any property.
-  - The Seneweb page reproduces an AFrikmag article and adds no independent reporting, and it again names no destination country.
-  - Seneweb describes the sacks as dried leaves suspected to be cannabis rather than Indian hemp, and gives no independent weight or value beyond the armed forces' estimates.
-  - The report places the boats about 200 metres from Dalave village on the Volta Lake bank, while other accounts place the interception at the estuary near the Talibet Bridge; the sources do not establish whether these are the same spot.
+    - The 4.7 tonnes and the US$1 million value are the Ghana Navy's estimates, and the sacks had not been confirmed as cannabis by laboratory testing.
+    - No laboratory-confirmed weight and no count of the parcels was published.
+    - No one had been arrested when the seizure was announced, and the number and identity of the boat operators were not reported.
+    - The origin of the consignment was not established, and the destination of Nigeria comes from preliminary intelligence; the boats were still being prepared at Ada Foah when they were found.
+    - The sources do not say whether the two boats, any outboard motors or the fuel were retained as exhibits.
+    - The earlier 2026 Ada estuary seizures, 37 sacks at Goi on 27 March and 59 sacks on 19 July, are separate events and are not recorded here.
+    - 3News, Graphic Online and Peace FM Online give about 4.8 tonnes while the Navy statement and other outlets give 4.7 tonnes; the report keeps 4.7 tonnes.
+    - The interception is placed near the Talibet Bridge, about 200 metres from Dalave village, and at the Ada Estuary by different accounts; the sources do not establish whether these are the same spot.
+    - GBC gives the time as about 1 a.m. on 5 November, while other accounts describe the boats being searched around 5 a.m.
+    - It is not established whether every sack held more than 80 parcels, since that count comes from a single account.
+    - The sacks were reportedly handed to NACOC for forensic examination, but no laboratory result or later court step was reported.
+    - The Adomonline account does not say what became of the sacks, while the other accounts say they went to NACOC.
 ---
 
 Ghana Navy personnel from the Riverine Command, working with the Narcotics Control Commission (NACOC)
@@ -200,7 +183,7 @@ the sacks. [@4,5,11,17]
 
 The boats carried 117 sacks of compressed dried leaves suspected to be Indian hemp, each holding more
 than 80 parcels. [@2,3,4,7,8,11,12,14,15] The Navy estimated the cargo at about 4.7 tonnes and put its
-street value at more than US$1 million [@1,3,4,9,10,12,16]; one outlet gives about 4.8 tonnes. [@13]
+street value at more than US$1 million [@1,3,4,9,10,12,16,18]; one outlet gives about 4.8 tonnes. [@13]
 No one was arrested, and the sacks remain classified as suspected narcotics pending laboratory
 testing. [@2,7] They were handed to NACOC for forensic examination. [@1,6] Preliminary intelligence
 indicated the consignment was being prepared for export out of Ghana [@2,3,7,8,14], to Nigeria.

@@ -42,17 +42,22 @@ sources:
     url: https://ltvgh.com/law-enforcement-officials-apprehend-29-sacks-of-alleged-cannabis-along-the-river-volta/
     publisher: Louis TV Ghana
     date: 2026-09-18
+  - title: 'Ada: Police seize 3,752 slabs of suspected Indian hemp from abandoned canoe on Volta Lake'
+    url: https://3news.com/news/crime/ada-police-seize-3752-slabs-indian-hemp-canoe-volta-lake
+    publisher: 3News
+    date: 2026-11-12
 open_questions:
-  - No weight for the 2,213 slabs was published.
-  - No arrests were reported, and the owners and occupants of the canoe remain unidentified.
-  - The origin and intended destination of the consignment were not reported.
+    - No weight for the 2,213 slabs was published.
+    - No arrests were reported, and the owners and occupants of the canoe remain unidentified.
+    - The origin and intended destination of the consignment were not reported.
+    - The second account dates the interception only to September 2026, so 17 September rests on the police statement alone.
 ---
 
 ## The interception
 
 The Tema Regional Police Command, through its Marine Police Detachment at Ada,
 intercepted an outboard-powered wooden canoe on the River Volta at Tuanikopey Island at
-about 00:45 on Thursday 17 September 2026 during a routine patrol. [@1,2] The canoe's
+about 00:45 on Thursday 17 September 2026 during a routine patrol. [@1,2,3] The canoe's
 occupants fled when they saw the patrol, abandoning the vessel and its cargo. [@1,2]
 
 ## The cargo

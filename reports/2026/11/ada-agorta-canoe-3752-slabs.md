@@ -49,6 +49,10 @@ sources:
     url: https://www.myjoyonline.com/police-seize-3752-slabs-of-suspected-indian-hemp-at-ada/
     publisher: MyJoyOnline
     date: 2026-11-12
+  - title: 'Ada: Police seize 3,752 slabs of suspected Indian hemp from abandoned canoe on Volta Lake'
+    url: https://3news.com/news/crime/ada-police-seize-3752-slabs-indian-hemp-canoe-volta-lake
+    publisher: 3News
+    date: 2026-11-12
 open_questions:
   - No weight was published for the 3,752 slabs, so the seizure could not be recorded in kilograms.
   - The slabs were described as suspected Indian hemp and had not been confirmed as cannabis when the seizure was announced.
@@ -56,31 +60,31 @@ open_questions:
   - The ownership of the consignment, its intended destination beyond Ada and the location of Jemeniweres were not established.
   - The police did not say whether the canoe, outboard motors, fuel and other items were retained as exhibits.
   - No charges or court proceedings were reported.
+  - The 3News account gives two outboard motors, while the earlier accounts gave no number.
 ---
 
 The Tema Regional Police Command intercepted and recovered a canoe carrying
-3,752 slabs of suspected Indian hemp on the Volta Lake at Ada. [@1] The
+3,752 slabs of suspected Indian hemp on the Volta Lake at Ada. [@1,3] The
 operation took place on 4 November 2026 after intelligence that a consignment of
 suspected narcotic substances was being transported from Jemeniweres through the
-Volta Lake towards Ada. [@1] Marine Police officers went to Mepe in the Volta
-Region, but found that the suspects had fled in their canoes. [@2] The team
-moved to Big Ada to pursue them. [@2] At about 11:10 p.m. the police intercepted
+Volta Lake towards Ada. [@1,3] Marine Police officers went to Mepe in the Volta
+Region, but found that the suspects had fled in their canoes. [@2,3] The team
+moved to Big Ada to pursue them. [@2,3] At about 11:10 p.m. the police intercepted
 the suspects at Agorta Island in Ada, but they escaped into the river,
-abandoning the canoe and its contents. [@1]
+abandoning the canoe and its contents. [@1,3]
 
 The canoe was taken to the Marine Police Base at Ada, where a search found 53
 sacks containing suspected narcotic substances, outboard motors, 30 yellow
-gallons containing petrol and premix fuel, a cutlass and other items. [@1] The
+gallons containing petrol and premix fuel, a cutlass and other items. [@1,3] The
 following day, 5 November 2026, the 53 sacks were opened and counted at the
-Regional Criminal Investigations Department in Tema. [@1] The count revealed
+Regional Criminal Investigations Department in Tema. [@1,3] The count revealed
 3,752 compressed and cello-taped slabs of dried leaves suspected to be Indian
-hemp. [@1] The suspected narcotic substances were secured as exhibits pending
-further examination. [@1]
+hemp. [@1,3] The suspected narcotic substances were secured as exhibits pending
+further examination. [@1,3]
 
 No arrests had been made in connection with the seizure, and investigations were
-continuing to identify and apprehend those involved. [@2] The command issued a
-statement on Wednesday 11 November 2026. [@2] The statement was signed by ASP
+continuing to identify and apprehend those involved. [@2,3] The command issued a
+statement on Wednesday 11 November 2026. [@2,3] The statement was signed by ASP
 Dede Dzakpasu, head of public affairs for the Tema Regional Police Command. [@1]
 The Tema Regional Police Command reiterated its commitment to combating drug
-trafficking and urged the public to volunteer information. [@1]
-
+trafficking and urged the public to volunteer information. [@1,3] The same police unit had intercepted a canoe loaded with suspected cannabis at Ada in September. [@3]
