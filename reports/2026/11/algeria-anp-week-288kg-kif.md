@@ -50,25 +50,22 @@ sources:
     publisher: Horizons
     date: 2026-11-11
     language: fr
-open_questions:
-  - The 288 kg total is calculated from the army's 2 quintals and 88 kilograms, taking one quintal as 100 kg.
-  - The figures are the army's weekly totals for 4 to 10 November 2026 across the military regions, with no breakdown by seizure place, trafficker identity or charging details.
-  - The source says the 38 were intercepted (intercepté) rather than formally arrested; the arrest count follows that wording.
-  - The 5 kilograms of cocaine and the 391,821 psychotropic tablets are not cannabis and are excluded from the cannabis figures.
-  - The same bilan also reports non-cannabis results on terrorism, illegal gold mining, smuggling and migration, which are left out of this cannabis account.
-  - No court outcome, charges or identities beyond the trafficker count were reported.
-  - The incident date uses the operation period's end, 10 November 2026, while the bilan was published on 11 November 2026.
+  - title: 'Trafic de drogue : près de trois quintaux de kif traité en provenance du Maroc interceptés par l''ANP'
+    url: https://www.dzair-tube.dz/fr/trafic-de-drogue-pres-de-trois-quintaux-de-kif-traite-en-provenance-du-maroc-interceptes-par-lanp/
+    publisher: Dzair Tube
+    date: 2026-11-11
+    language: fr
 ---
 
 Algeria's National People's Army (ANP) reported that its combined detachments,
 working with the different security services, intercepted 38 narcotrafiquants,
-or drug traffickers, during operations across the military regions. [@1] The
+or drug traffickers, during operations across the military regions. [@1,3] The
 operations ran from 4 to 10 November 2026. [@1] The army said the detachments
 foiled attempts to introduce 2 quintals and 88 kilograms (288 kg) of kif traité,
-treated cannabis, coming from the borders with Morocco. [@2]
+treated cannabis, coming from the borders with Morocco. [@2,3]
 
 The same operations also yielded 5 kilograms of cocaine and 391,821 psychotropic
-tablets, which are not counted as cannabis here. [@1] Separate operations
+tablets, which are not counted as cannabis here. [@1,3] Separate operations
 against illegal gold panning in Tamanrasset, Bordj Badji Mokhtar, In Salah, In
 Guezzam and Illizi led to the arrest of 284 people and the seizure of 22
 vehicles, 83 generators and 45 jackhammers. [@1]
@@ -76,4 +73,3 @@ vehicles, 83 generators and 45 jackhammers. [@1]
 The figures are the army's weekly operational bilan totals for a week of
 operations by army units and detachments across the military regions rather than
 a single raid. [@1]
-
