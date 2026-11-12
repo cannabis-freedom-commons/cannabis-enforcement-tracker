@@ -44,19 +44,25 @@ sources:
     url: https://english.varthabharati.in/karnataka/bengaluru-police-arrest-34-drug-peddlers-seize-narcotics-worth-rs-1261-crore-2290065
     publisher: Vartha Bharati
     date: 2026-11-11
+  - title: 'Bengaluru Drug Seizure: Police Arrest 34, Recover ₹12.61 Crore'
+    url: https://urbanacres.in/bengaluru-drug-seizure-police-arrest-34-recover-%E2%82%B912-61-crore/
+    publisher: Urban Acres
+    date: 2026-11-11
 open_questions:
-  - The article gives no separate date for the raids; 11 November 2026 is its publication date, and police said the information came on different dates.
-  - The reports do not say how many of the 34 people were arrested in the ganja or hashish-oil cases rather than the MDMA or cocaine cases.
-  - Hashish oil is given only by volume, 1 litre and 542 millilitres, so no oil weight is included in the kilogram total.
-  - The Rs 12.61 crore figure covers all seized narcotics, including MDMA and cocaine, and is not a cannabis-only value. The Hebbal and Mahalakshmipuram valuations also mix cannabis with MDMA.
-  - No court outcome is reported.
-  - The account rests on one news report.
+    - The article gives no separate date for the raids; 11 November 2026 is its publication date, and police said the information came on different dates.
+    - The reports do not say how many of the 34 people were arrested in the ganja or hashish-oil cases rather than the MDMA or cocaine cases.
+    - Hashish oil is given only by volume, 1 litre and 542 millilitres, so no oil weight is included in the kilogram total.
+    - The Rs 12.61 crore figure covers all seized narcotics, including MDMA and cocaine, and is not a cannabis-only value. The Hebbal and Mahalakshmipuram valuations also mix cannabis with MDMA.
+    - Urban Acres attributes the Rs 6.32 crore figure only to 3.114 kg of MDMA seized by Hebbal police, while Vartha Bharati attributes that value to the Hebbal ganja and MDMA together.
+    - Urban Acres says the operation covered 11 police-station jurisdictions but names 10 stations and omits Govindapura, which Vartha Bharati includes.
+    - No court outcome is reported.
+    - The published accounts repeat a Bengaluru police briefing and are not independent reporting.
 ---
 
 Bengaluru city police arrested 34 people, including two foreign nationals, and
 seized narcotic substances they valued at Rs 12.61 crore during a special
 operation against the sale and transportation of banned drugs. [@1] Of those
-held, nine were from other states and 23 were local residents. [@1] The police
+held, nine were from other states and 23 were local residents. [@1,2] Nine of those held were from other states including Andhra Pradesh, Kerala, Maharashtra and Odisha. [@2] The police
 registered cases under the Narcotic Drugs and Psychotropic Substances (NDPS) Act
 and conducted raids at the identified locations. [@1] The operation followed
 information received on different dates about drug sales within the limits of
@@ -68,10 +74,10 @@ hashish oil, along with 5 kg and 519 grams of MDMA and 72.82 grams of cocaine.
 [@1] Police also seized eight mobile phones and two two-wheelers. [@1]
 
 Hebbal police recovered 9 kg and 321 grams of ganja and 3 kg and 114 grams of
-MDMA in three cases, together valued at Rs 6.32 crore. [@1] In four cases,
+MDMA in three cases, together valued at Rs 6.32 crore. [@1] Hebbal police arrested Kalasipalya resident Imran Pasha, 36, and Sahrool Islam Didar, 28, from Thane in Maharashtra, allegedly for selling ganja, and seized 9.321 kg of ganja. [@2] In four cases,
 Mahalakshmipuram police seized 1 litre and 40 ml of hashish oil, 415 grams of
 ganja and 490 grams of MDMA, plus three mobile phones and a two-wheeler, and
-valued the items at Rs 1.24 crore. [@1] Govindapura police recovered 17 kg of
+valued the items at Rs 1.24 crore. [@1] In the Mahalakshmipuram cases police arrested M.P. Raman, 33, Raghavendra, 37, K. Amanjeya, 21, Sangeeth, 20, Ishith Emmanuel, 19, and P. Abhishek, 34. [@2] Govindapura police recovered 17 kg of
 ganja valued at Rs 17 lakh. [@1] In three cases, Begur police seized 13 kg and
 750 grams of ganja worth Rs 13.74 lakh. [@1] Hebbagodi police recovered 502 ml
 of hashish oil valued at Rs 12.56 lakh. [@1] Bandepalya police seized 6 kg of
@@ -87,4 +93,3 @@ Rs 21.40 lakh. [@1] Bengaluru City Police Commissioner Seemant Kumar Singh said
 during interrogation that the accused had been buying drugs at low prices from
 unidentified suppliers abroad, in other states and within Karnataka, intending
 to sell them at higher prices to the public and to college students. [@1]
-
