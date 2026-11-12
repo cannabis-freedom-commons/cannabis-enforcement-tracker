@@ -59,6 +59,11 @@ media:
     media_url: https://www.pontodanoticia.com/arquivos/noticias/2026/11/editor_20261111100829_a063a0ee17708684.webp
     publisher: Ponto da Notícia
     caption: 'Photo published with the Ponto da Notícia report on the BR-163 seizure of 7,781 kg of marijuana and skunk. Photo: BPFRON'
+  - kind: photo
+    url: https://jornaldanova.com.br/noticia/476706/carga-de-maconha-avaliada-em-r-78-milhoes-e-apreendida-apos-sair-de-mato-grosso-do-sul
+    media_url: https://jornaldanova.com.br/userfiles/uploads/imagens/materias/2026/11/original/57710ea9ca9039e17be83b574dc2a6c1_1.PNG?v=261
+    publisher: Jornal da Nova
+    caption: 'Seized marijuana and skunk from the truck, in a handout photo credited to the Receita Federal. Photo: Receita Federal/Divulgação'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: de55cf151640e4248f69b3f27e910c8f
@@ -134,6 +139,13 @@ sources:
     publisher: Rádio União de Toledo
     date: 2026-11-11
     language: pt
+  - title: Carga de maconha avaliada em R$ 78 milhões é apreendida após sair de Mato Grosso do Sul
+    url: https://jornaldanova.com.br/noticia/476706/carga-de-maconha-avaliada-em-r-78-milhoes-e-apreendida-apos-sair-de-mato-grosso-do-sul
+    publisher: Jornal da Nova
+    date: 2026-11-11
+    language: pt
+open_questions:
+  - Jornal da Nova reported that no information on possible arrests had been released, while other outlets reported that a couple was arrested in the act.
 ---
 
 A 30-year-old man and a 20-year-old woman were arrested after officers found
@@ -147,22 +159,22 @@ Marechal Cândido Rondon. [@1,9,11,13] The action was integrated between BPFRON,
 Federal Police's Special Maritime Police Nucleus (NEPOM-PF), the Receita Federal
 customs office in Mundo Novo and the Military Police of Mato Grosso do Sul. [@1,8,9,11,12,13]
 Teams had received information from the Mato Grosso do Sul military police that
-a bitrem truck was heading towards Paraná with a possible drug load. [@1,9,12,13] The truck was being used to transship a load bound for Santa Catarina, the Receita Federal said. [@8] The
+a bitrem truck was heading towards Paraná with a possible drug load. [@1,9,12,13] The truck was being used to transship a load bound for Santa Catarina, the Receita Federal said. [@8,15] The
 truck was a Volvo FH 400 bitrem carrying maize. [@2,10,13] The man was driving the truck and the woman was travelling as his passenger. [@9,10,11,12,13,14] Officers found bales of
-narcotics hidden among the maize during the inspection. [@1,9,10,11,12,13,14]
+narcotics hidden among the maize during the inspection. [@1,9,10,11,12,13,14] Officers found hundreds of bales of drugs in the truck. [@15]
 
 After weighing, the load came to 7,603 kilograms of pressed marijuana and 178
-kilograms of skunk, 7,781 kilograms of drugs in total. [@1,8,9,10,11,12,13,14] Skunk is a variety
+kilograms of skunk, 7,781 kilograms of drugs in total. [@1,8,9,10,11,12,13,14,15] Skunk is a variety
 of cannabis with a higher concentration of THC, the substance responsible for
 the plant's psychoactive effects. [@1,13] The narcotics and the truck used in the
-transport were sent to the Federal Police station in Guaíra. [@1,8,9,10,11,12,13,14] According to
+transport were sent to the Federal Police station in Guaíra. [@1,8,9,10,11,12,13,14,15] According to
 the Border Police Battalion, the seizure represents an estimated loss of R$
-16,318,000 to organised crime. [@1,9,12,13] The Receita Federal estimated the value of the seized cannabis at about R$ 78 million. [@8] The action took place within Operação
+16,318,000 to organised crime. [@1,9,12,13] The Receita Federal estimated the value of the seized cannabis at about R$ 78 million. [@8,15] The action took place within Operação
 Protetor, a joint security-force campaign against drug trafficking in the border
 region. [@1,9,11,12,13]
 
 The incident began on Tuesday 10 November and was concluded on the morning of
-Wednesday 11 November. [@1,10,11,12,13,14]
+Wednesday 11 November. [@1,10,11,12,13,14,15]
 
 OETV reported the same total of 7,781 kilograms and named the Federal Police and
 the Receita Federal alongside BPFRON. [@3] Correio do Ar reported the same
