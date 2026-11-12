@@ -48,21 +48,37 @@ sources:
     publisher: مراكش الاخبارية
     date: 2026-11-10
     language: ar
+  - title: بوليس فمراكش شدو بزناس عندو الحشيش والغبرا .
+    url: https://a5r5br.net/morocco/local-news/8466066-%D8%A8%D9%88%D9%84%D9%8A%D8%B3-%D9%81%D9%85%D8%B1%D8%A7%D9%83%D8%B4-%D8%B4%D8%AF%D9%88-%D8%A8%D8%B2%D9%86%D8%A7%D8%B3-%D8%B9%D9%86%D8%AF%D9%88-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D9%88%D8%A7%D9%84%D8%BA%D8%A8%D8%B1%D8%A7
+    publisher: آخر خبر
+    date: 2026-11-10
+    language: ar
+  - title: القبض في مراكش على شخص وبحوزته 54،5 كيلو من الشيرا و776 غراماً من الكوكايين
+    url: https://www.almarrakchia.net/%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D9%81%D9%8A-%D9%85%D8%B1%D8%A7%D9%83%D8%B4-%D8%B9%D9%84%D9%89-%D8%B4%D8%AE%D8%B5-%D9%88%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87-54%D8%8C5-%D9%83%D9%8A%D9%84%D9%88-%D9%85/
+    publisher: المراكشية
+    date: 2026-11-10
+    language: ar
+  - title: أمن مراكش يحجز 776 غراما من الكوكايين و54.5 كيلوغراما من الشيرا ويوقف مشتبها فيه
+    url: https://www.aswatnews.ma/%D8%A3%D9%85%D9%86-%D9%85%D8%B1%D8%A7%D9%83%D8%B4-%D9%8A%D8%AD%D8%AC%D8%B2-776-%D8%BA%D8%B1%D8%A7%D9%85%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D9%83%D9%88%D9%83%D8%A7%D9%8A%D9%8A%D9%86-%D9%8854-5-%D9%83/
+    publisher: أصوات نيوز
+    date: 2026-11-10
+    language: ar
 open_questions:
+    - No separate date for the arrest is given; 10 November 2026 is the publication date and stands in for the incident date.
     - No count beyond the cocaine and chira is given, and the cocaine is not included in the cannabis figures.
     - The suspect is not named and no age, charges, court outcome or estimated value were reported.
     - The location in Marrakech is not narrowed beyond the city, and the chira's origin is not stated.
-    - Both accounts report the same police announcement rather than independent reporting, so their agreement may not be independent confirmation.
+    - The accounts reproduce the same police announcement rather than independent reporting, so their agreement may not be independent confirmation.
 ---
 
-Police in Marrakech arrested a man suspected of selling drugs from a car. [@1,2]
+Police in Marrakech arrested a man suspected of selling drugs from a car. [@1,2,3]
 The arrest was made with the Directorate General for Territorial Surveillance.
-[@1] A forensic unit took part and searched the vehicle. [@1,2]
+[@1,3] A forensic unit took part and searched the vehicle. [@1,2,4]
 
 The search found 54.5 kg of chira, Morocco's pressed cannabis resin also known
-as hashish. [@1,2] Officers also seized 776 grams of cocaine, which is not counted
-in the cannabis figures here. [@1]
+as hashish. [@1,2,5] Officers also seized 776 grams of cocaine, which is not counted
+in the cannabis figures here. [@1,3]
 
 The public prosecutor ordered the man held in police custody for the judicial
-investigation. [@1,2] Investigators said they were trying to establish how the
-activity was run and to catch other suspected accomplices. [@1,2]
+investigation. [@1,2,4] Investigators said they were trying to establish how the
+activity was run and to catch other suspected accomplices. [@1,2,3]
