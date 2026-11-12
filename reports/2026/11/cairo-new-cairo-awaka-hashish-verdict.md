@@ -80,26 +80,22 @@ sources:
     publisher: بوابة أخبار اليوم (Akhbar El-Yom)
     date: 2026-11-09
     language: ar
-open_questions:
-  - No verdict has been given; the report covers the 9 November hearing and the scheduling of a 16 December verdict.
-  - 'The hearing sequence is not fully clear: Youm7 still mentions 14 September as the date set for the arrest and search officers to attend, while Dostor reports that on 14 September the court adjourned the case to the third session of the October term.'
-  - The weights (about 400 grams of hashish and about 12 grams of cocaine) come from case-file accounts in Youm7 and Al-Masry Al-Youm, not from a court statement, and are described as approximate.
-  - Only the hashish weight is recorded as kg_seized; the cocaine is a different substance and is not added to the cannabis figure.
-  - No value, street price or exact measured weight of the hashish was published.
-  - The defence arguments are those of the lawyer as reported; the prosecution's response at the hearing is not reported.
-  - No photograph of the hearing was published, and the Sada Elbalad image is captioned only with the defendant's nickname and has no credit.
-  - Masrawy gives no quantities for the hashish or cocaine, so it adds nothing to the weights already recorded.
+  - title: 16 ديسمبر.. الحكم على التيك توكر أوتاكا بتهمة الاتجار فى المخدرات
+    url: https://www.dostor.org/5770314
+    publisher: جريدة الدستور
+    date: 2026-11-09
+    language: ar
 ---
 
 A Cairo criminal court sitting in the Fifth Settlement heard the
 drug-trafficking trial of Mohamed Alaa, known as Ottaka, on 9 November and set
-16 December for its verdict. [@2,7] Ottaka is a TikToker and the ex-husband of
+16 December for its verdict. [@2,7,8] Ottaka is a TikToker and the ex-husband of
 blogger Hadeer Abdelrazek, and he is the only defendant in the case. [@1] Sada
 Elbalad carried the same decision, saying the court reserved the case for a
 verdict on 16 December. [@4,6] The court had adjourned the case to the third
 session of the October term, which fell on 9 November, after an earlier hearing.
 [@5] Prosecutors charge him with trafficking in narcotics rather than use, which
-carries a heavier penalty if he is convicted. [@2]
+carries a heavier penalty if he is convicted. [@2,8]
 
 According to the case file, the drugs were about 400 grams of hashish and
 roughly 12 grams of cocaine; he denies the charges. [@2,7] Al-Masry Al-Youm
@@ -110,7 +106,7 @@ indecent, and found hashish and cocaine with him. [@3,6]
 
 The court ordered the officers who carried out the arrest and search to give
 evidence, and added the day's registers of the Shorouk police station and the
-General Directorate of Information Technology to the file. [@2] Lawyer Hani
+General Directorate of Information Technology to the file. [@2,8] Lawyer Hani
 Sameh, appearing for the defence, argued that the search procedures were invalid
 and that the charge was fabricated and the exhibits planted and unconnected to
 his client. [@1,7] The defence said the chain of possession of the exhibits was
