@@ -54,6 +54,11 @@ sources:
     publisher: Sicilianews24.it
     date: 2026-11-11
     language: it
+  - title: 'Ficarazzi, sorpreso in piazza con dieci dosi di hashish: altra droga nascosta in casa, arrestato 29enne'
+    url: https://newsicilia.it/ficarazzi/cronaca/ficarazzi-sorpreso-in-piazza-con-dieci-dosi-di-hashish-altra-droga-nascosta-in-casa-arrestato-29enne/1123912/
+    publisher: NewSicilia
+    date: 2026-11-11
+    language: it
 open_questions:
   - The accounts give no separate date for the stop; 11 November 2026 is the publication date and is used as the incident date.
   - The ten hashish wraps found in the square were not weighed, so the 49.40 grams cover only the two blocks found at home.
@@ -63,23 +68,22 @@ open_questions:
 
 Officers of the Bagheria police station of the Polizia di Stato arrested a
 29-year-old man from Palermo, caught in the act of possessing a drug for
-dealing. [@1] The stop took place near Piazza San Pio, in the municipality of
+dealing. [@1,3] The stop took place near Piazza San Pio, in the municipality of
 Ficarazzi, during territorial checks against street dealing in Palermo and the
-province. [@1] Officers noticed two young men talking in a way they found
+province. [@1,3] Officers noticed two young men talking in a way they found
 suspicious, and one, seeing the police, quickly hid a container in the pocket of
 his hoodie and walked off to avoid a check. [@1]
 
 He was stopped at once and searched, and police said he already had specific
 records for drug offences. [@1] Inside a pill box, officers found 10 wraps of
 hashish packaged in baking paper, together with 145 euros in cash, which they
-treated as proceeds of the illicit activity. [@1]
+treated as proceeds of the illicit activity. [@1,3]
 
 A search of his home found two further blocks of the same substance, weighing
 36.36 grams and 13.04 grams, with material suitable for weighing and packaging
-doses. [@1] Those two blocks together weighed 49.40 grams, besides the ten doses
-already recovered in the square, whose weight was not given. [@2] The drugs, the
+doses. [@1,3] Those two blocks together weighed 49.40 grams, besides the ten doses
+already recovered in the square, whose weight was not given. [@2,3] The drugs, the
 money and the cutting material were seized, and the arrested man was placed at
 the disposal of the judicial authority for a hearing to validate the arrest.
-[@1] The police statement says criminal responsibility will be settled only by a
-final judgment, under the constitutional presumption of innocence. [@1]
-
+[@1,3] The police statement says criminal responsibility will be settled only by a
+final judgment, under the constitutional presumption of innocence. [@1,3]
