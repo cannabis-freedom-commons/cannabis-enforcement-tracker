@@ -36,6 +36,11 @@ media:
     media_url: https://hanoionline.mediacdn.vn/247013415983136768/2026/11/6/t3mc-1793976517044934719195.mp4
     publisher: Báo và Phát thanh Truyền hình Hà Nội
     caption: Video published with the Hà Nội Online item on the Nội Bài seizures, from the Customs Department footage used in the 6 November announcement.
+  - kind: photo
+    url: https://www.vietnam.vn/en/bat-giu-hon-25-kg-can-sa-hang-tram-cay-thuoc-la-nung-nong-o-noi-bai
+    media_url: https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/06/1793950415013_1793942944372-6890330704386921065-6890330704386921065-d14e45e9a1e1d82b6fe2b44c0b86ecd9-jpg.avif
+    publisher: Vietnam.vn (Báo Tiền Phong)
+    caption: 'Customs handout photo of the more than 400 packs of heated tobacco seized at Noi Bai International Airport in the same operation. Photo: Customs Department.'
 details:
   activity: [smuggling]
   agency_types: [customs, border-guard, police]
@@ -213,6 +218,10 @@ sources:
     publisher: MSN (Báo Tiền Phong)
     date: 2026-11-06
     language: vi
+  - title: Authorities seized over 25 kg of marijuana and hundreds of heated tobacco sticks at Noi Bai Airport.
+    url: https://www.vietnam.vn/en/bat-giu-hon-25-kg-can-sa-hang-tram-cay-thuoc-la-nung-nong-o-noi-bai
+    publisher: Vietnam.vn (Báo Tiền Phong)
+    date: 2026-11-06
 open_questions:
   - Only the first account names the passenger and says he was paid €4,000 to carry the bags from Cambodia; later accounts call him only a Spanish passenger, and none confirms or contradicts this.
   - The herb is described as suspected cannabis in the Customs Department's words; no laboratory result was published.
@@ -232,25 +241,25 @@ task force identified the passenger, Jesus Sanchez Gomez, as the owner of the
 checked bag. [@1]
 
 Inside the suitcase were two packages measuring about 40 by 70 cm, holding dried
-herb believed to be cannabis and weighing about 25.4 kg in total. [@1,2,3,5,6,7,9,10,15,18,24,26,29,30]
+herb believed to be cannabis and weighing about 25.4 kg in total. [@1,2,3,5,6,7,9,10,15,18,24,26,29,30,32]
 Questioned by the task force, Gomez admitted that he had been paid €4,000 to
 carry the goods from Cambodia, through Vietnam, to France. [@1]
 
 Customs handed the entire case file, the man and the cannabis to PC04, the drug
 crime investigation office of the Hanoi City police, to continue the
-investigation. [@1,2,3,5,6,7,10,14,15,16,17,18,19,21,24,25,26,27,29]
+investigation. [@1,2,3,5,6,7,10,14,15,16,17,18,19,21,24,25,26,27,29,32]
 
-The herb in the two packages was of flowers, leaves, stems and buds, and the Customs Department said all of it was part of the cannabis plant. [@2,4,5,6,11,14,16,17,27,28,29,30,31]
+The herb in the two packages was of flowers, leaves, stems and buds, and the Customs Department said all of it was part of the cannabis plant. [@2,4,5,6,11,14,16,17,27,28,29,30,31,32]
 
-The packages were rectangular, wrapped in nylon and vacuum-sealed. [@3,6,11,13,14,16,17,19,25,27,28,30] The Customs Department said the load weighed about 25.4 kg, while its headline and opening line described more than 25 kg. [@3]
+The packages were rectangular, wrapped in nylon and vacuum-sealed. [@3,6,11,13,14,16,17,19,25,27,28,30,32] The Customs Department said the load weighed about 25.4 kg, while its headline and opening line described more than 25 kg. [@3]
 
 The Spanish passenger's checked bag was flagged during screening, and the inspection was carried out jointly by airport customs, customs supervision and anti-smuggling units, airport police and the Hanoi PC04 drug unit. [@6,11,12,22,25,26]
 
 The Spanish passenger's suitcase was checked through from flight VN922 onto VN19, which was due to leave Noi Bai for Paris Charles de Gaulle at 23:50 that night. [@2,8,17,18,28,30]
 
-The evening transit inspection on 25 October was carried out by customs officers together with border police and other professional units. [@2,10,12,13,14,15,24] The Customs Department announced the two airport cases on the morning of 6 November 2026. [@11,13,14,26]
+The evening transit inspection on 25 October was carried out by customs officers together with border police and other professional units. [@2,10,12,13,14,15,24,32] The Customs Department announced the two airport cases on the morning of 6 November 2026. [@11,13,14,26,32]
 
-The Customs Department announced the Noi Bai seizures on the morning of 6 November, and the same announcement reported more than 400 TEREA heated-tobacco sticks carried without declaration by passengers flagged in October. [@16,18,21,26] In October, customs officers flagged suspicious activity involving four passengers through operational measures, risk control and baggage X-ray image analysis at gates 6 and 7 of Terminal 2, the international passenger terminal. [@16]
+The Customs Department announced the Noi Bai seizures on the morning of 6 November, and the same announcement reported more than 400 TEREA heated-tobacco sticks carried without declaration by passengers flagged in October. [@16,18,21,26] In October, customs officers flagged suspicious activity involving four passengers through operational measures, risk control and baggage X-ray image analysis at gates 6 and 7 of Terminal 2, the international passenger terminal. [@16,32]
 
 The page also says the cannabis was in the checked suitcase of a Spanish passenger and was transferred to the Hanoi City police drug crime investigation office. [@18,23,30]
 
