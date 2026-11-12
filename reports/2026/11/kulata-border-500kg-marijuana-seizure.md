@@ -75,16 +75,19 @@ sources:
     publisher: Информационна агенция ПИК
     date: 2026-11-11
     language: bg
-open_questions:
-  - Reports differ on whether the truck was stopped on 9 or 10 November 2026; the report uses 10 November.
+  - title: Марихуана за милиони евро откриха в тайник на камион на "Кулата"
+    url: https://taralej.bg/obshtestvo/marihuana-za-milioni-evro-otkriha-v-taynik-na-kamion-na-kulata
+    publisher: Таралеж
+    date: 2026-11-11
+    language: bg
 ---
 
 A joint operation by Bulgaria's Customs Agency, the Ministry of the Interior and
 the prosecution service was carried out at the Kulata border checkpoint, where
 officers stopped a freight truck travelling on the designated entry lane into
-the country. [@1,6] The truck was entering Bulgaria from Greece. [@3,4,5,7,8] During the subsequent inspection of the heavy-goods truck
+the country. [@1,6] The truck was entering Bulgaria from Greece. [@3,4,5,7,8,9] During the subsequent inspection of the heavy-goods truck
 combination, the checking officers found nearly 500 kilograms of marijuana in
-the transported load. [@1,6,7] The Bulgarian driver was detained. [@2,3,5,7] NewsPoint named Vangel Mitsev of Plovdiv as the driver, and said investigators had not officially confirmed his identity. [@5] The driver has been charged and detained for 72 hours. [@4,8] After the stop the driver was taken to the emergency department of MBAL Blagoevgrad on 10 November, shortly after 22:00, and remained in custody after a medical examination. [@5] The marijuana was found in a specially built hide in a freight vehicle driven by a Bulgarian driver. [@2,3,5,7] Customs officers found an extra rear board on the trailer, with a hidden compartment behind it holding boxes of cannabis packages. [@5] Infomrezha expressly presented the nearly
+the transported load. [@1,6,7] The Bulgarian driver was detained. [@2,3,5,7] NewsPoint named Vangel Mitsev of Plovdiv as the driver, and said investigators had not officially confirmed his identity. [@5] The driver has been charged and detained for 72 hours. [@4,8,9] After the stop the driver was taken to the emergency department of MBAL Blagoevgrad on 10 November, shortly after 22:00, and remained in custody after a medical examination. [@5] The marijuana was found in a specially built hide in a freight vehicle driven by a Bulgarian driver. [@2,3,5,7] Customs officers found an extra rear board on the trailer, with a hidden compartment behind it holding boxes of cannabis packages. [@5] Infomrezha expressly presented the nearly
 500-kilogram quantity as unofficial information provided to its own newsroom
 rather than as a confirmed official measurement. [@1]
 
