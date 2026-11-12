@@ -49,32 +49,38 @@ sources:
     publisher: SP Noticias
     date: 2026-11-11
     language: es
+  - title: 'Castelli: encontraron más de cinco kilos de marihuana ocultos en el monte y buscan a un sospechoso que escapó'
+    url: https://www.tn24.com.ar/2026/11/castelli-encontraron-mas-de-cinco-kilos-de-marihuana-ocultos-en-el-monte-y-buscan-a-un-sospechoso-que-escapo/
+    publisher: TN24
+    date: 2026-11-11
+    language: es
 open_questions:
-  - Portico Noticias dated the seizure to Thursday afternoon, while SP Noticias said the operation began on Wednesday morning. 11 November 2026, a Wednesday and the shared publication date, is used as the incident date.
-  - Portico said a further search found five more packages and also said five packages were seized in all. SP Noticias said the dropped package plus four more made five packages of 5.348 kg. The report uses the shared total of five packages and 5.348 kg.
-  - Portico named assistant prosecutor Diego Enrique, while SP Noticias named Carlos Amad of the fiscal office in Presidencia Roque Sáenz Peña.
-  - The man who fled was not identified, and neither account says he was later arrested or charged.
-  - No street value was published, and the pin is the town centre of Juan José Castelli because the exact point on Antonio Nieves street is not given.
+    - Portico Noticias dated the seizure to Thursday afternoon, while SP Noticias said the operation began on Wednesday morning. 11 November 2026, a Wednesday and the shared publication date, is used as the incident date.
+    - Portico said a further search found five more packages and also said five packages were seized in all. SP Noticias said the dropped package plus four more made five packages of 5.348 kg. The report uses the shared total of five packages and 5.348 kg.
+    - Portico named assistant prosecutor Diego Enrique, while SP Noticias named Carlos Amad of the fiscal office in Presidencia Roque Sáenz Peña.
+    - The man who fled was not identified, and neither account says he was later arrested or charged.
+    - No street value was published, and the pin is the town centre of Juan José Castelli because the exact point on Antonio Nieves street is not given.
+    - One account spells the nearby street Antonio Nievas and another Antonio Nieves.
 ---
 
 Police in Juan José Castelli, in Argentina's Chaco province, seized more than
 five kilograms of marijuana hidden in weeds beside a rural road after a tip
-about drugs concealed in the vegetation. [@1] Officers went to Antonio Nieves
+about drugs concealed in the vegetation. [@1,3] Officers went to Antonio Nieves
 street, near its junction with the track, and about 20 metres from the crossing
 found flattened grass and several black packages wrapped in tape. [@1]
 
 The duty assistant prosecutor ordered a discreet watch to see whether anyone
 came to collect the packages. [@1] Around midday a stocky man arrived on a Honda
 Tornado 250 cc motorcycle, got off and picked up one of the packages hidden in
-the grass. [@1] When officers ordered him to stop he dropped the package and
-rode away, and a chase did not catch him. [@1]
+the grass. [@1,3] When officers ordered him to stop he dropped the package and
+rode away, and a chase did not catch him. [@1,3]
 
 Assistant prosecutor Diego Enrique then ordered the abandoned package seized and
 the area searched in front of two witnesses. [@1] Weighing and a field test
 confirmed the load was marijuana, 5.348 kilograms in five black polyethylene
 packages, and the case was opened as a suspected breach of National Law 23.737,
-Argentina's narcotics statute. [@1] Officers continued trying to identify the
-man who fled. [@1]
+Argentina's narcotics statute. [@1,3] Officers continued trying to identify the
+man who fled. [@1,3]
 
 SP Noticias reported that Chaco police, including Castelli drugs officers, began
 the operation on Wednesday morning, and that the decentralised fiscal office in
@@ -82,4 +88,3 @@ Presidencia Roque Sáenz Peña, under Carlos Amad, ordered the watch. [@2] That
 account said the rider arrived about 12:30, dropped the package and escaped, and
 that a further search found four more identical packages, making five in all.
 [@2]
-
