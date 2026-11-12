@@ -68,24 +68,29 @@ sources:
     publisher: بوابة أخبار اليوم الإلكترونية
     date: 2026-11-11
     language: ar
+  - title: المشدد 10 سنوات لعامل في الإسكندرية سقط بـ 18 كيلو حشيش
+    url: https://www.masrawy.com/news/news_regions/details/2026/11/11/3077213/-%D8%A7%D9%84%D9%85%D8%B4%D8%AF%D8%AF-10-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%84%D8%B9%D8%A7%D9%85%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9-%D8%B3%D9%82%D8%B7-%D8%A8%D9%80-18-%D9%83%D9%8A%D9%84%D9%88-%D8%AD%D8%B4%D9%8A%D8%B4
+    publisher: مصراوي
+    date: 2026-11-11
+    language: ar
 ---
 
 The Alexandria Criminal Court sentenced a worker to 10 years of rigorous
-imprisonment for drug trafficking. [@1,2,3,4] The court fined him 50,000 Egyptian
-pounds. [@1,2,3,4] It also ordered him to pay the criminal costs. [@1,3] The defendant,
+imprisonment for drug trafficking. [@1,2,3,4,5] The court fined him 50,000 Egyptian
+pounds. [@1,2,3,4,5] It also ordered him to pay the criminal costs. [@1,3,5] The defendant,
 identified only as M.M.M. and described as a worker, was accused of regularly
-trafficking narcotic drugs, particularly hashish. [@2,3]
+trafficking narcotic drugs, particularly hashish. [@2,3,5]
 
 Alexandria security officers received a tip from anti-narcotics officers who had
 been monitoring his activity. [@1] After legal procedures were completed and
-prosecutors issued a warrant, officers arrested him where he was found. [@1,4] He
+prosecutors issued a warrant, officers arrested him where he was found. [@1,4,5] He
 was carrying a bag holding 400 slabs of hashish weighing about 18 kilograms in
-the First Ameriya police district. [@1,3,4] Officers also found cash and a mobile
-phone on him. [@1,2,3,4] He admitted that the hashish was for sale, that the money
+the First Ameriya police district. [@1,3,4,5] Officers also found cash and a mobile
+phone on him. [@1,2,3,4,5] He admitted that the hashish was for sale, that the money
 came from sales, and that the phone was used to contact customers. [@1,3]
 
-The case was registered as No. 16115 of 2026, First Ameriya felonies. [@1,2,3,4] The
+The case was registered as No. 16115 of 2026, First Ameriya felonies. [@1,2,3,4,5] The
 verdict was issued by a panel headed by Counsellor Mohamed Abdel Mohsen Hasouma,
 with members Emam Mohamed El-Seirafi, Mohamed Salah El-Din Mahmoud and Ahmed
-Hussein El-Haddad. [@2,4] Prosecutors had referred him to the Alexandria Criminal
+Hussein El-Haddad. [@2,4,5] Prosecutors had referred him to the Alexandria Criminal
 Court, which issued the sentence. [@1,3]
