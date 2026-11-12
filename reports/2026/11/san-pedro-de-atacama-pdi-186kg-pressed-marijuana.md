@@ -58,6 +58,11 @@ sources:
     publisher: SoyChile
     date: 2026-11-11
     language: es
+  - title: En San Pedro de Atacama PDI decomisó 183 kilos de marihuana
+    url: https://elamerica.cl/2026/11/11/en-san-pedro-de-atacama-pdi-decomiso-183-kilos-de-marihuana/
+    publisher: Diario El America
+    date: 2026-11-11
+    language: es
 open_questions:
     - The accounts give no separate date for the seizure; 11 November 2026 is their publication date.
     - 'The accounts differ on the weight: the prosecutor''s quote published by Calama en Línea says 186 kg, while El América and SoyChile say 183 kg.'
@@ -71,7 +76,7 @@ The PDI in Calama seized a load of pressed marijuana in San Pedro de Atacama.
 [@1,3] The seizure took place in the border sector of El Loa province, near San
 Pedro de Atacama. [@2] Calama's chief prosecutor, Eduardo Peña, put the load at
 186 kg of marijuana. [@2] The local outlet El América reported 183 kg for the
-same seizure. [@1,3] The PDI valued the marijuana at 900 million pesos on the
+same seizure. [@1,3,4] The PDI valued the marijuana at 900 million pesos on the
 illegal market. [@1,3]
 
 Peña said the Fuerza de Tarea Frontera Interna, the internal border task force,
