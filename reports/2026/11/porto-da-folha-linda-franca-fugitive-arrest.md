@@ -56,6 +56,11 @@ sources:
     publisher: Portal Infonet
     date: 2026-11-11
     language: pt
+  - title: Foragido por tráfico de drogas é preso em Porto da Folha
+    url: https://a8se.com/noticias/policia/2026/11/11/246485-foragido-por-trafico-de-drogas-e-preso-em-porto-da-folha
+    publisher: A8 Sergipe
+    date: 2026-11-11
+    language: pt
 open_questions:
   - The accounts give the 2013 plantation as approximately 800 plants but do not state its area or whether the plants were seized or destroyed.
   - The length of the prison sentence the man is serving was not published.
@@ -67,21 +72,20 @@ open_questions:
 
 Civil Police in Sergipe arrested a man convicted of drug trafficking on Monday,
 9 November 2026, in the village of Linda França, in Porto da Folha, in the
-state's sertão backlands. [@1] Teams from the municipal police stations of Monte
+state's sertão backlands. [@1,3] Teams from the municipal police stations of Monte
 Alegre de Sergipe and Poço Redondo carried out the arrest after identifying the
-convicted man's whereabouts. [@2] He had been a fugitive from justice after
+convicted man's whereabouts. [@2,3] He had been a fugitive from justice after
 failing to appear at the hearings in his case and could not be found to serve
-his sentence. [@1]
+his sentence. [@1,3]
 
 His case began in 2013, when he was caught cultivating a plantation of about 800
-cannabis plants (Cannabis sativa), known as maconha. [@1] He was prosecuted for
-drug trafficking, association for trafficking and counterfeit currency. [@1]
+cannabis plants (Cannabis sativa), known as maconha. [@1,3] He was prosecuted for
+drug trafficking, association for trafficking and counterfeit currency. [@1,3]
 Delegate Artur Herbas, who coordinated the operation, said the man had first
 been held in pre-trial detention but obtained provisional release. [@1] He then
 stopped appearing at the procedural hearings, became a fugitive and was not
-found after his conviction. [@2]
+found after his conviction. [@2,3]
 
 He went through a custody hearing on Tuesday, 10 November, and was sent to the
-prison system, where he remains at the disposal of justice. [@1] The Civil
-Police announced the arrest on Wednesday, 11 November. [@1]
-
+prison system, where he remains at the disposal of justice. [@1,3] The Civil
+Police announced the arrest on Wednesday, 11 November. [@1,3]
