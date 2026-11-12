@@ -60,12 +60,19 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-11
     language: hi
+  - title: मुजफ्फरनगर में नशे के सौदागरों पर पुलिस का प्रहार, मुठभेड़ में गांजा तस्कर के पैर में लगी गोली
+    url: https://hindi.dynamitenews.com/uttar-pradesh/muzaffarnagar-operation-savera-police-encounter-new-mandi-police-ganja-smuggler-drug-trafficking-drug-crackdown-up-police
+    publisher: Dynamite News Hindi
+    date: 2026-11-12
+    language: hi
 open_questions:
-  - No charges, case number or court outcome are reported for the arrested man.
-  - Police gave the ganja's value as a range of 15 to 20 lakh rupees rather than a single figure.
-  - The amount of cash recovered is not stated.
-  - Only one outlet's account of the encounter could be opened; no police statement or second report was found.
-  - The report does not say whether the accused was remanded to custody or kept under guard in hospital.
+    - No charges, case number or court outcome are reported for the arrested man.
+    - Police gave the ganja's value as a range of 15 to 20 lakh rupees rather than a single figure.
+    - The amount of cash reported as recovered is not stated, and Dynamite News does not mention any cash.
+    - No police statement was published; both reports appear to rest on the same police briefing.
+    - The report does not say whether the accused was remanded to custody or kept under guard in hospital.
+    - Dynamite News gives the seized ganja as 21.5 kg, while Dainik Bhaskar gives about 22 kg.
+    - The accused's criminal record is given as five cases at New Mandi station by Dynamite News and as about half a dozen cases by Dainik Bhaskar.
 ---
 
 During a police check in Muzaffarnagar on Wednesday late evening at about 8, a
@@ -74,7 +81,7 @@ surrounded him he opened fire. [@1] In the retaliatory action he was shot in the
 leg, and police arrested the wounded accused and admitted him to the district
 hospital in the New Mandi Kotwali area on Kukda Road. [@2] The injured man was
 identified as Ashish, and police sent him to the district hospital for
-treatment. [@2]
+treatment. [@2] The injured man was identified as Ashish, son of Ramvir, resident of Amit Vihar in Kukda. [@3]
 
 Police seized about 22 kg of ganja, a country-made pistol, cartridges, a
 motorcycle and cash from him. [@2] Police valued the seized ganja at about 15 to
@@ -82,11 +89,10 @@ motorcycle and cash from him. [@2] Police valued the seized ganja at about 15 to
 
 The Kukda Road check was run under Operation Savera on the deputy inspector
 general's instructions, and the team signalled a speeding motorcycle coming from
-the Bhopa Road side to stop. [@2] The rider suddenly turned and fled, and his
+the Bhopa Road side to stop. [@2] The Kukda Road check was run on the instructions of the deputy inspector general of Saharanpur. [@3] The rider suddenly turned and fled, and his
 motorcycle slipped and fell as he tried to reach the highway by a rough track.
 [@2] Circle officer Raju Rao said the man admitted in questioning that he had
 bought the ganja from a person to sell at the local level. [@2] Police are
 gathering information about his supply network and the others involved in buying
-and selling the ganja. [@2] About half a dozen theft cases and cases of assault
-and molestation are registered against him, and he has been in jail before. [@2]
-
+and selling the ganja. [@2,3] About half a dozen theft cases and cases of assault
+and molestation are registered against him, and he has been in jail before. [@2] Five cases are registered against him at the New Mandi police station, among them one under the Arms Act. [@3]
