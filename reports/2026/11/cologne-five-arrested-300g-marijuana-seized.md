@@ -43,6 +43,11 @@ media:
     media_url: https://lokalklick.eu/wp-content/uploads/2026/11/K_EG-City-Asserv._101126.jpg
     publisher: LokalKlick.eu
     caption: 'Police photo of the narcotics and cash seized in the Cologne raids on 10 November 2026. Photo: Polizei Köln'
+  - kind: photo
+    url: https://www.tag24.de/koeln/crime/wilde-flucht-ueber-balkone-polizei-nimmt-fuenf-maenner-bei-razzia-fest-3548885
+    media_url: https://media.tag24.de/951x634/s/z/szazwreaplamwo9k9fkujl2zqkwrhdo8.jpg
+    publisher: TAG24
+    caption: 'Police handout photo of the cocaine and cash seized in the Cologne raids, published with the TAG24 report. Photo: Polizei Köln'
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 3a8073f12c5602477cf60936b33ad16d
@@ -63,6 +68,11 @@ sources:
     publisher: Polizei.news
     date: 2026-11-11
     language: de
+  - title: 'Wilde Flucht über Balkone: Polizei nimmt fünf Männer bei Razzia in Köln fest'
+    url: https://www.tag24.de/koeln/crime/wilde-flucht-ueber-balkone-polizei-nimmt-fuenf-maenner-bei-razzia-fest-3548885
+    publisher: TAG24
+    date: 2026-11-11
+    language: de
 open_questions:
   - No charges have been announced against the five men and no court date has been set.
   - The reports do not say whether the 300 grams of marijuana were intended for sale or for personal use, or whether any suspect faces a cannabis-related charge.
@@ -72,19 +82,19 @@ open_questions:
 ---
 
 Plain-clothes officers of the Cologne police arrested five suspected cocaine
-dealers on the morning of 10 November 2026. [@1,3] The five men, aged 21, 21, 22,
+dealers on the morning of 10 November 2026. [@1,3,4] The five men, aged 21, 21, 22,
 24 and 39, were arrested when officers searched their apartments with court
-warrants around 6 am. [@1,3] One of them, the 24-year-old, tried to escape over
-several balconies but was caught. [@1,3]
+warrants around 6 am. [@1,2,3] One of them, the 24-year-old, tried to escape over
+several balconies but was caught. [@1,3,4]
 
 The searches turned up about 300 grams of marijuana, around 600 grams of cocaine
-and about €20,000 in cash, police said. [@1,3] Officers also confiscated a car and
+and about €20,000 in cash, police said. [@1,3,4] Officers also confiscated a car and
 several mobile phones, which were to be evaluated in the continuing
-investigation. [@1]
+investigation. [@1,4]
 
 The operation was carried out by officers from the police's Projekt Fokus
 Sicherheit. [@2] A special prosecutor at the Cologne public prosecutor's office
 obtained the search warrants after intensive investigations. [@2,3] Police suspect
-the group ran a brisk cocaine trade in the area of Cologne's Südstadt. [@1,3] The
+the group ran a brisk cocaine trade in the area of Cologne's Südstadt. [@1,3,4] The
 authorities described the arrests and seizures as a blow against the suspected
 cocaine trade there, and said the investigation continues. [@1]
