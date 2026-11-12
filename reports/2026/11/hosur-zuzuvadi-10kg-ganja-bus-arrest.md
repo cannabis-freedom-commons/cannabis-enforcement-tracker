@@ -47,14 +47,21 @@ sources:
     publisher: Dinamalar
     date: 2026-11-10
     language: ta
+  - title: 'ஆம்னி பேருந்தில் 10 கிலோ கஞ்சா கடத்தல்: மதுரையைச் சோ்ந்த முதியவா் கைது'
+    url: https://www.dinamani.com/all-editions/edition-dharmapuri/krishnagiri/2026/Nov/11/%E0%AE%86%E0%AE%AE%E0%AF%8D%E0%AE%A9%E0%AE%BF-%E0%AE%AA%E0%AF%87%E0%AE%B0%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B2%E0%AF%8D-10-%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AF%8B-%E0%AE%95%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%B2%E0%AF%8D-%E0%AE%AE%E0%AE%A4%E0%AF%81%E0%AE%B0%E0%AF%88%E0%AE%AF%E0%AF%88%E0%AE%9A%E0%AF%8D-%E0%AE%9A%E0%AF%87%E0%AE%BE%E0%AF%8D%E0%AE%A8%E0%AF%8D%E0%AE%A4-%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%B5%E0%AE%BE%E0%AF%8D-%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%81
+    publisher: தினமணி
+    date: 2026-11-12
+    language: ta
 open_questions:
-  - The source does not specify the exact statutory charges or whether the suspect was remanded to judicial custody.
-  - The report is based on a single Dinamalar account; no police press release or second outlet account was available.
+    - The accounts do not specify the exact statutory charges or whether the suspect was remanded to judicial custody.
+    - Dinamalar dates the check to 10 November 2026, while Dinamani says it took place on Wednesday, 11 November 2026.
+    - Dinamalar reported that Janakiraman bought the cannabis in Bengaluru to sell it in Madurai, while Dinamani reports his statement that an unidentified man gave him the bag to deliver to someone at Samayanallur.
+    - Neither account names the people police are seeking in Bengaluru and Madurai.
 ---
 
 Special Sub-Inspector Nagarajan and a team of police officers conducted
 vehicular checks at the Zuzuvadi checkpost near Hosur in Tamil Nadu's
-Krishnagiri district on the afternoon of 10 November 2026. [@1] During the
+Krishnagiri district on the afternoon of 10 November 2026. [@1] The checkpost lies on the border between Tamil Nadu and Karnataka, where vehicles from Karnataka and northern states are checked for banned tobacco products and narcotics. [@2] During the
 vehicle inspection drive, officers intercepted and searched a private Sri
 Kumaran omni bus that was traveling from Bengaluru in Karnataka to Madurai. [@1]
 Officers searched a bag belonging to a passenger identified as Janakiraman, a
@@ -62,12 +69,11 @@ Officers searched a bag belonging to a passenger identified as Janakiraman, a
 Madurai, and discovered five parcels inside it. [@1]
 
 When police opened and inspected the five packages, they found 10 kilograms of
-ganja, the local term for cannabis. [@1] Initial investigations revealed that
+ganja, the local term for cannabis. [@1,2] Each of the five packets weighed 2 kg. [@2] Initial investigations revealed that
 the merchant had purchased the cannabis supply in Bengaluru and was smuggling
-the contraband aboard the bus to sell it across the Madurai area. [@1]
+the contraband aboard the bus to sell it across the Madurai area. [@1] He said the man asked him to take the bag on the Bengaluru-Madurai omni bus, get down at Samayanallur and hand it to someone there. [@2] Janakiraman told police that his paddy trade did not earn him enough, so he travelled from Madurai to Bengaluru's Electronic City, where an unidentified man bought him food and handed him the travel bag with the ganja. [@2]
 
 The checkpost police team detained Janakiraman and handed him over to officers
 of the local Prohibition Enforcement Wing. [@1] Prohibition Enforcement Wing
 police arrested Janakiraman and seized the 10 kilograms of ganja, estimating its
-market value at 5 lakh rupees. [@1]
-
+market value at 5 lakh rupees. [@1] Police said they were continuing to question Janakiraman and were working to catch the people involved in Bengaluru and Madurai. [@2] Janakiraman already faced a pending ganja case from 2023 at the Karimedu police station in Madurai. [@2]
