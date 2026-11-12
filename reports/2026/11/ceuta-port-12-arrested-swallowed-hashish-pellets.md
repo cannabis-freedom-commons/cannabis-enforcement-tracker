@@ -45,20 +45,25 @@ sources:
     publisher: El Faro de Ceuta
     date: 2026-11-11
     language: es
+  - title: La Guardia Civil detiene a varios implicados en Ceuta tras interceptar alijos de bellotas de hachís ingeridas y trasladadas por vía estomacal
+    url: https://www.elperiodicodeceuta.es/la-guardia-civil-detiene-a-varios-implicados-en-ceuta-tras-interceptar-alijos-de-bellotas-de-hachis-ingeridas-y-trasladadas-por-via-estomacal/
+    publisher: El Periódico de Ceuta
+    date: 2026-11-11
+    language: es
 open_questions:
-  - The total weight of the seized hashish was not published, as the drug was detected in abdominal X-rays while still inside the suspects' bodies.
-  - The identities, nationalities, and ages of the 12 detainees were not reported.
-  - No court appearance, formal charges, or pre-trial detention decisions have yet been reported.
-  - The number of hashish pellets ingested by each person was not specified.
+    - The total weight of the seized hashish was not published, as the drug was detected in abdominal X-rays while still inside the suspects' bodies.
+    - The identities, nationalities, and ages of the 12 detainees were not reported.
+    - No pre-trial detention decision or court outcome has been reported.
+    - The number of hashish pellets ingested by each person was not specified.
 ---
 
 Guardia Civil officers arrested 12 people at the Port of Ceuta on Tuesday, 10
 November 2026, after discovering they were attempting to board a ferry to
 Algeciras with swallowed hashish pellets. [@1,2] Health sources reported that all
 12 detainees had ingested the drugs internally and had to be taken directly to
-the Hospital Universitario de Ceuta for medical attention. [@1,2] At the
+the Hospital Universitario de Ceuta for medical attention. [@1,2] Some of those detained needed urgent medical help because the hashish in their digestive tracts posed a serious risk to their health. [@3] At the
 hospital's emergency ward on Tuesday night, X-ray examinations confirmed that
-the pellets of hashish were clearly visible inside their bodies. [@1,2]
+the pellets of hashish were clearly visible inside their bodies. [@1,2] Doctors at the hospital in Ceuta oversaw the controlled expulsion of the swallowed drug while the suspects remained under police guard. [@3]
 
 The intervention took place as the group tried to board one of the passenger
 vessels connecting Ceuta across the Strait of Gibraltar to mainland Spain. [@1,2]
@@ -67,4 +72,4 @@ as they approached the boarding gates. [@1,2] Detection dogs assigned to port
 duties reacted to the individuals and detected the presence of narcotics,
 prompting officers to stop and detain the travellers. [@1] Authorities did not
 immediately release the total weight of the seized hashish, as the suspects
-remained under medical supervision. [@1]
+remained under medical supervision. [@1] After they were discharged, the arrested people were handed over to the judicial authorities, accused of a suspected drug-trafficking offence, and the police investigation continued into possible distribution networks. [@3]
