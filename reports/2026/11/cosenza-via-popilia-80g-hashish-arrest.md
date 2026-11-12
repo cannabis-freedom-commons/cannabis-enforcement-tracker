@@ -72,30 +72,36 @@ sources:
     publisher: QuiCosenza
     date: 2026-11-11
     language: it
+  - title: 'Cosenza, fugge all’alt e sperona l’auto della Polizia: arrestato con oltre 600 grammi di cocaina e hashish'
+    url: https://www.esperia.tv/notizie/cronaca/1533/cosenza-fugge-allalt-e-sperona-lauto-della-polizia-arrestato-con-oltre-600-grammi-di-cocaina-e-hashish
+    publisher: Esperia Tv
+    date: 2026-11-11
+    language: it
 open_questions:
   - The arrested driver was not named and his age was not given.
   - The quantity of drugs already divided into doses was not stated.
   - The case is at the preliminary investigation stage; no trial date or further court outcome has been reported.
   - The reporting rests on a single statement by the Cosenza police headquarters.
+  - Esperia TV described the cocaine in the thrown bag as about 600 grams, while the report records 600 grams.
 ---
 
 On the morning of 7 November 2026, officers of the Squadra Mobile of Cosenza,
 the police mobile squad, carried out targeted patrols to prevent drug dealing.
-[@1,4,5] During the operation a man was arrested in flagrante for possession of
-drugs with intent to sell and resistance to a public official. [@1,4,5,6] In via
+[@1,4,5,7] During the operation a man was arrested in flagrante for possession of
+drugs with intent to sell and resistance to a public official. [@1,4,5,6,7] In via
 Popilia the officers moved to check a car whose driver fled at the sight of the
 patrol, ramming the police car after throwing a large transparent bag from the
-window, which the officers recovered. [@1,4,5,6] After a short pursuit through the
+window, which the officers recovered. [@1,4,5,6,7] After a short pursuit through the
 city streets the car was stopped, and the driver was detained and subjected to a
-personal search. [@1,5]
+personal search. [@1,5,7]
 
-The recovered bag contained 600 grams of cocaine. [@1,4,5,6] A search of the driver's
+The recovered bag contained 600 grams of cocaine. [@1,4,5,6,7] A search of the driver's
 home found another 100 grams of cocaine and 80 grams of hashish, along with
 drugs already divided into doses and material for packaging and weighing them.
-[@1,4,5,6]
+[@1,4,5,6,7]
 
 The Cosenza prosecutor's office asked for the arrest to be validated and for the
-man to be held in prison pending trial. [@3,4,5,6] On 10 November 2026 the GIP, the
+man to be held in prison pending trial. [@3,4,5,6,7] On 10 November 2026 the GIP, the
 judge for preliminary investigations at the Cosenza court, granted the requested
 measure. [@2,4,5,6] The proceedings remain in the preliminary investigation phase.
 [@1] The Cosenza police headquarters, the Questura, said the evidence gathered
