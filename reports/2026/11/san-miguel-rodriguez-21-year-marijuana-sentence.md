@@ -63,25 +63,34 @@ sources:
     publisher: Diario Digital Cronio de El Salvador
     date: 2026-11-11
     language: es
+  - title: Condenan a hombre a 21 años por narcotráfico y portación ilegal de arma en San Miguel
+    url: https://diario.elmundo.sv/nacionales/condenan-a-hombre-a-21-anos-por-narcotrafico-y-portacion-ilegal-de-arma-en-san-miguel
+    publisher: Diario El Mundo
+    date: 2026-11-11
+    language: es
 open_questions:
-  - The arrest is dated only as February 2026, with no day.
-  - The reports do not separate the hearing date from the 11 November 2026 prosecution announcement, which is used as the incident date.
-  - No street or neighbourhood in San Miguel was named for the arrest.
-  - No amount of the cash seized was published, and no appeal was reported.
-  - The news accounts follow the prosecution's statement.
+    - No separate date for the sentencing hearing was given apart from the prosecution announcement.
+    - No amount of the cash seized was published, and no appeal was reported.
+    - The news accounts follow the prosecution's statement.
+media:
+  - kind: photo
+    url: https://diario.elmundo.sv/nacionales/condenan-a-hombre-a-21-anos-por-narcotrafico-y-portacion-ilegal-de-arma-en-san-miguel
+    media_url: https://cdn.elmundo.sv/wp-content/uploads/2026/11/David-Ananias-Rodriguez-Andrade.jpg?x-image-process=image/resize,w_890/quality,q_85/format,webp
+    publisher: Diario El Mundo
+    caption: 'FGR photo of David Ananías Rodríguez Andrade after his 21-year sentence. Photo: FGR.'
 ---
 
 David Anamías Rodríguez Andrade was sentenced to 21 years in prison for illicit
-drug trafficking and for illegally carrying a firearm. [@1] The Second
-Sentencing Court of San Miguel issued the resolution. [@1] El Salvador's
+drug trafficking and for illegally carrying a firearm. [@1,4] The Second
+Sentencing Court of San Miguel issued the resolution. [@1,4] El Salvador's
 Attorney General's Office, the Fiscalía General de la República, posted the
 announcement on 11 November 2026. [@1] Rodríguez Andrade had been arrested in
-February 2026. [@3]
+February 2026. [@3] Police stopped the pair at about 11 p.m. on 11 February 2026 on the main street of the Valle Ralo hamlet, San Juan canton, Ciudad Barrios district, while they were riding a motorcycle. [@4] In the same case, Sandy Beatriz Cruz Guevara received a four-year prison sentence for illicit drug trafficking. [@4]
 
-At the arrest, the authorities seized 881.1 grams of marijuana. [@1] They
-estimated its economic value at about 3,110.28 US dollars. [@1] Officers also
+At the arrest, the authorities seized 881.1 grams of marijuana. [@1,4] They
+estimated its economic value at about 3,110.28 US dollars. [@1,4] Officers seized 110.6 grams of marijuana from Cruz Guevara, which the prosecution valued at about 331 US dollars. [@4] Officers also
 took a scale, plastic bags, ammunition and cash, and entered those items as
-evidence in the case. [@1] He was carrying a 9 millimetre firearm without the
+evidence in the case. [@1,4] He was carrying a 9 millimetre firearm without the
 documents required for lawful possession and use. [@1]
 
 After reviewing the evidence presented during the judicial proceedings, the
@@ -89,4 +98,3 @@ court imposed the 21-year prison term for the offences attributed to him. [@1]
 The Attorney General's Office said that same court imposed the sentence. [@2] A
 further account citing the prosecution said the 21-year term corresponds to the
 conviction for both offences. [@3]
-
