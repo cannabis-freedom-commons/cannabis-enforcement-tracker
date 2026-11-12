@@ -54,29 +54,24 @@ sources:
     publisher: صحيفة سبق
     date: 2026-11-10
     language: ar
-open_questions:
-  - The article gives no separate date for the arrest; 10 November 2026 is its publication date and is used as the incident date.
-  - No number of tablets subject to medical-trade controls was published, so no pill figure is recorded.
-  - No town or district within Jazan region was named; coordinates are for Jazan city, the regional capital.
-  - Neither suspect was named and no ages were given.
-  - No charge before a court or court outcome was reported; both were referred to the Public Prosecution.
-  - Both outlets reproduce the same directorate statement rather than independent reporting, and the directorate's own page was not opened.
-  - The headline and lead say the pair were promoting the hashish; it is not stated where the material was found or in whose possession.
-  - No street value was estimated for the 32 kilograms of hashish.
+  - title: بينهم مقيم يمني.. الأمن السعودي يوجه ضربة محكمة لترويج المخدرات بجازان
+    url: https://www.almashhad.news/news/506273
+    publisher: المشهد اليمني
+    date: 2026-11-12
+    language: ar
 ---
 
 Saudi Arabia's General Directorate of Narcotics Control arrested a citizen and a
 Yemeni resident in Jazan region, accusing them of promoting 32 kilograms of
-hashish. [@1] The directorate said the two were also promoting tablets subject
-to medical-trade controls. [@1] Sabq, a Saudi newspaper, reported the same
+hashish. [@1,3] The directorate said the two were also promoting tablets subject
+to medical-trade controls. [@1,3] Sabq, a Saudi newspaper, reported the same
 statement and the same 32-kilogram figure. [@2]
 
 The directorate said both suspects were stopped, legal procedures were taken
-against them and they were referred to the Public Prosecution. [@1] Sabq also
+against them and they were referred to the Public Prosecution. [@1,3] Sabq also
 reported that they were referred to the Public Prosecution. [@2]
 
 The directorate asked the public to report smugglers and promoters of drugs on
 995, on 911 in Mecca, Medina, Riyadh and the Eastern Province, and on 999 in the
 rest of the kingdom. [@1] Reports can also be sent by email to 995@gdnc.gov.sa
 and are treated in strict confidence. [@1]
-
