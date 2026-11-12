@@ -64,6 +64,11 @@ sources:
     url: https://www.millenniumpost.in/amp/delhi/passenger-nabbed-with-12-kg-ganja-worth-rs-44-cr-at-igia-682935
     publisher: Millennium Post
     date: 2026-11-11
+  - title: 'தில்லி விமான நிலையத்தில் ரூ.4.4 கோடி மதிப்புள்ள 12 கிலோவுக்கும் அதிகமான கஞ்சா பறிமுதல்: பயணி கைது'
+    url: https://www.dinamani.com/amp/story/newdelhi/2026/Nov/11/over-12-kg-of-ganja-worth-rs-44-crore-seized-at-delhi-airport
+    publisher: தினமணி
+    date: 2026-11-11
+    language: ta
 open_questions:
   - The passenger was not named and no flight number was published.
   - The identification of the substance rests on a prima facie diagnostic test; no confirmatory laboratory result was reported.
@@ -73,17 +78,16 @@ open_questions:
 
 Customs officers at Terminal 3 of Delhi's Indira Gandhi International Airport
 intercepted an Indian passenger arriving from Bangkok via Hanoi on 3 November
-2026, acting on profiling. [@2] The passenger was diverted at the Green Channel
-for X-ray screening, followed by a personal and baggage search. [@3]
+2026, acting on profiling. [@2,4] The passenger was diverted at the Green Channel
+for X-ray screening, followed by a personal and baggage search. [@3,4]
 
 Officers recovered 20 polythene pouches containing a green substance suspected
-to be ganja (marijuana), concealed inside a grey trolley bag. [@2] Delhi Customs
+to be ganja (marijuana), concealed inside a grey trolley bag. [@2,4] Delhi Customs
 put the net weight of the recovered substance at 12.285 kg and its estimated
-value at about Rs 4.49 crore. [@1]
+value at about Rs 4.49 crore. [@1,4]
 
-A diagnostic test prima facie indicated that the substance was ganja. [@1] The
+A diagnostic test prima facie indicated that the substance was ganja. [@1,4] The
 contraband and its packaging were seized under Section 43(a) of the Narcotic
 Drugs and Psychotropic Substances (NDPS) Act, 1985, and the passenger was
 arrested under Section 43(b). [@2] A case was booked under Sections 8, 20, 23
 and 29 of the Act, and further investigation is under way. [@2]
-
