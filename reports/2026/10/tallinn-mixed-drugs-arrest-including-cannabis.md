@@ -54,22 +54,27 @@ sources:
     publisher: Delfi
     date: 2026-11-11
     language: ru
+  - title: Politsei pidas kinni mehe, kelle valdusest leiti ligi 13 kilogrammi narkootilisi aineid
+    url: https://lounaeestlane.ee/politsei-pidas-kinni-mehe-kelle-valdusest-leiti-ligi-13-kilogrammi-narkootilisi-aineid/
+    publisher: Lõunaeestlane
+    date: 2026-11-11
+    language: et
 ---
 
 Police detained a 27-year-old Uzbek citizen with a Latvian residence permit in
 Tallinn on 19 October on suspicion of large-scale illegal handling of narcotics.
-[@1,3] A court granted the prosecution request to keep the man in custody during
-the pre-trial investigation. [@1,3] The prosecutor argued for custody on the grounds that the man had no permanent income or ties to Estonia and would have evaded prosecution and continued distributing drugs across Estonia if released. [@3]
+[@1,3,4] A court granted the prosecution request to keep the man in custody during
+the pre-trial investigation. [@1,3,4] The prosecutor argued for custody on the grounds that the man had no permanent income or ties to Estonia and would have evaded prosecution and continued distributing drugs across Estonia if released. [@3,4]
 
 According to information collected so far, the man brokered narcotics through
-the Telegram messaging app mainly in the capital. [@1,3] He allegedly stored the
+the Telegram messaging app mainly in the capital. [@1,3,4] He allegedly stored the
 drugs in his rented flat, repackaged them into smaller quantities and carried
-the packets to stash locations across the city. [@2,3] A search of the flat found
+the packets to stash locations across the city. [@2,3,4] A search of the flat found
 at least 5.4 kilograms of amphetamine-containing substance and over 8.1
-kilograms of substances containing MDMA, cocaine, cannabis and hashish. [@2,3]
+kilograms of substances containing MDMA, cocaine, cannabis and hashish. [@2,3,4]
 
 Police said the total amount could have caused narcotic intoxication in about
-70,000 people on the initial estimate. [@1,3] The supervising prosecutor said the
+70,000 people on the initial estimate. [@1,3,4] The supervising prosecutor said the
 evidence so far indicates the man was part of a larger grouping operating across
-Estonia. [@2,3] The pre-trial proceedings are conducted by the Eastern Prefecture
-and led by the Viru District Prosecutor’s Office. [@2,3]
+Estonia. [@2,3,4] The pre-trial proceedings are conducted by the Eastern Prefecture
+and led by the Viru District Prosecutor’s Office. [@2,3,4]
