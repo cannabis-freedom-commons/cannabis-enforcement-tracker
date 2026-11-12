@@ -102,6 +102,11 @@ sources:
     publisher: BC Noticias
     date: 2026-11-10
     language: es
+  - title: الشرطة الكولومبية تضبط 358 كيلوغراماً من الكوكايين كانت متجهة إلى ليبيا
+    url: https://a5r5br.net/libya/local-news/8462820-%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%84%D9%88%D9%85%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-358-%D9%83%D9%8A%D9%84%D9%88%D8%BA%D8%B1%D8%A7%D9%85%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D9%83%D9%88%D9%83%D8%A7%D9%8A%D9%8A%D9%86-%D9%83%D8%A7%D9%86%D8%AA-%D9%85%D8%AA%D8%AC%D9%87%D8%A9-%D8%A5%D9%84%D9%89-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7
+    publisher: آخر خبر
+    date: 2026-11-09
+    language: ar
 media:
   - kind: video
     url: https://x.com/Policia_Caldas/status/2119873943276339418
@@ -121,8 +126,8 @@ Cauca bound for Medellín. [@3,4,5] President Abelardo de la Espriella announced
 Chinchiná seizure and a second operation at the port of Cartagena. [@1] The load was valued by police at more than 300 million pesos on the illegal market. [@6]
 
 The government presented the two hauls as 878 kilograms in total, of which 520
-were marijuana and 358 cocaine. [@1,9,10,11]
+were marijuana and 358 cocaine. [@1,9,10,11,13]
 
-For the whole pair of operations the authorities reported one person arrested, in the Caldas procedure. [@2] The Cartagena operation, named Estrategia Esmeralda, found the cocaine inside two electricity generators carried in a shipping container. [@2,11]
+For the whole pair of operations the authorities reported one person arrested, in the Caldas procedure. [@2] The Cartagena operation, named Estrategia Esmeralda, found the cocaine inside two electricity generators carried in a shipping container. [@2,11,13] Police said the cocaine container had come from Panama and was bound for Tripoli. [@13]
 
 After a cordon-and-search plan, known in Colombia as a plan candado, patrols intercepted the vehicle in the La Paz neighbourhood. [@6,12] A search of the vehicle found 111 plastic-wrapped parcels containing the marijuana. [@6,12]
