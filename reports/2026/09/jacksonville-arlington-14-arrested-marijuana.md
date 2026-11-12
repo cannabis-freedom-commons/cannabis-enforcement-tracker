@@ -56,13 +56,21 @@ sources:
     url: https://www.tampafp.com/14-arrested-fentanyl-and-cocaine-seized-in-florida-drug-ring-bust/
     publisher: Tampa Free Press
     date: 2026-11-11
+  - title: ‘Primary supplier’ of Arlington drug ring previously served time for drug charges and escape, court records show
+    url: https://www.news4jax.com/news/local/2026/11/11/primary-supplier-of-arlington-drug-ring-previously-served-time-for-drug-charges-and-escape-court-records-show/
+    publisher: WJXT News4JAX
+    date: 2026-11-11
 open_questions:
     - The 183.4 grams of marijuana was seized during the 2 September 2026 deployment, whereas the exact dates of the 11 subsequent arrests before the 10 November announcement were not released.
     - The Jacksonville Sheriff's Office statement referred to arresting nine others after the deployment while listing 11 additional names alongside the first three; this report uses the 14-person total stated by the agency and named across all accounts.
     - Quantities of fentanyl, crack cocaine, MDMA, powder cocaine and methamphetamine are included only to describe the mixed-drug operation and are excluded from the cannabis weight figure.
-    - The accounts do not specify which of the 14 arrested people were tied directly to the 183.4 grams of marijuana versus the other seized drugs, nor the specific charges filed, bond conditions or court outcomes.
-    - No street value, number of raided premises or exact street address near the Arlington Expressway was published.
-    - All published accounts reproduce the same Jacksonville Sheriff's Office announcement.
+    - The accounts do not specify which of the 14 arrested people were tied directly to the 183.4 grams of marijuana versus the other seized drugs.
+    - No street value was published, and the reports name the Catalina Apartments on Bert Road but give no street number.
+    - The amount of marijuana sold in the controlled buys and seized when Atkins was arrested was not given, only the dollar amounts of the sales.
+    - The other 13 arrested people's charges, bond conditions and court outcomes were not reported.
+    - It is unclear whether the marijuana seized when Atkins was arrested is included in the 183.4 grams counted for the 2 September deployment.
+    - The article says the drugs from each transaction tested positive for MDMA, although it describes the first purchase as marijuana; the account does not reconcile this.
+    - Atkins' charging date and any court date or outcome were not reported.
 ---
 
 Jacksonville Sheriff's Office narcotics detectives and District 2 patrol
@@ -71,12 +79,12 @@ Arlington area of Jacksonville. [@1,5] All 14 people face charges, authorities a
 investigating drug activity near the Arlington Expressway in March 2026. [@1,5]
 Detectives identified 40-year-old Somario Atkins as a primary supplier operating
 out of an apartment complex in the area and tied 13 other drug dealers'
-operations back to him. [@2,5]
+operations back to him. [@2,5,6] Atkins had six prior periods of incarceration in Duval County dating back to 2005, including a 2006 sentence for escape, cocaine possession and MDMA possession. [@6] On 16 June 2026, Atkins sold the detective $20 of marijuana in the same transaction in which he sold $40 of MDMA, according to the arrest report. [@6] Atkins sold an undercover detective marijuana for $20 on 29 May 2026, the arrest report says. [@6] Undercover detectives made four separate controlled drug purchases from Atkins between May and August 2026 at or near the same Arlington apartment complex, the arrest report says. [@6]
 
 During a raid on Wednesday, 2 September 2026, detectives arrested Atkins,
-50-year-old Maurice Nobles and 24-year-old Christopher Harden. [@4,5] Detectives
+50-year-old Maurice Nobles and 24-year-old Christopher Harden. [@4,5] Officers found Atkins at the Catalina Apartments on Bert Road and took him into custody at about 9 p.m.; after being read his Miranda rights, he told investigators he does not sell drugs and asked to speak with an attorney, according to the arrest report. [@6] Under Florida law, the sales within 1,000 feet of a convenience store made Atkins' two marijuana counts second-degree felonies. [@6] Detectives
 seized 183.4 grams (about 0.18 kg) of marijuana during the deployment, the
-sheriff's office said. [@3,5] Officers also reported seizing 42 grams of fentanyl,
+sheriff's office said. [@3,5] Police seized two cell phones when they arrested Atkins. [@6] Officers also reported seizing 42 grams of fentanyl,
 which the agency said could represent more than 21,000 potentially lethal doses,
 along with 50.3 grams of crack cocaine, 11 grams of MDMA, 4.3 grams of powder
 cocaine and 1.2 grams of methamphetamine. [@3,5]
