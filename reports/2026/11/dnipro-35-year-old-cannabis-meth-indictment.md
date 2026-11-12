@@ -66,18 +66,22 @@ sources:
     publisher: Репортер
     date: 2026-11-11
     language: uk
+  - title: Понад 200 згортків із наркотиками та зброю вилучили під час обшуків у 35-річного чоловіка на Дніпропетровщині, - ФОТО
+    url: https://www.0564.ua/amp/news/4178304/ponad-200-zgortkiv-iz-narkotikami-ta-zbrou-vilucili-pid-cas-obsukiv-u-35-ricnogo-colovika-na-dnipropetrovsini-foto
+    publisher: 0564.ua
+    date: 2026-11-11
+    language: uk
 open_questions:
-  - No separate date was published for when the indictment was filed; 11 November 2026 is the date of the police statement.
-  - No cannabis-only weight or packet count was published; the figure of more than one kilogram covers powder and crystalline substances and is not recorded as cannabis.
-  - The amount of cash seized was not stated.
-  - The man was not named, and no measure of restraint or court outcome was reported.
-  - The text gives a weight ("1 kg") but the figures have no kg_seized; check whether it belongs there.
+    - No separate date was published for when the indictment was filed; 11 November 2026 is the date of the police statement.
+    - No cannabis-only weight or packet count was published; the figure of more than one kilogram covers powder and crystalline substances and is not recorded as cannabis.
+    - The amount of cash seized was not stated.
+    - The man was not named, and no measure of restraint or court outcome was reported.
 ---
 
 A 35-year-old man in Dnipro is to be tried on accusations of selling
-methamphetamine and cannabis. [@2] The pre-trial investigation has been
+methamphetamine and cannabis. [@2,3] The pre-trial investigation has been
 completed, and the indictment has been sent to court to be heard on the merits.
-[@1]
+[@1,3]
 
 On 18 August 2026, investigators of the investigative department of the Main
 Directorate of the National Police in Dnipropetrovsk Oblast, criminal-search
@@ -85,16 +89,15 @@ operatives and a special-purpose police battalion, under the procedural
 direction of the Western District Prosecutor's Office of Dnipro, searched the
 man's home and his car. [@1] During the searches police seized numerous packets
 of methamphetamine and cannabis, electronic scales, mobile phones, a laptop,
-bank cards, cash and other physical evidence. [@1] Officers seized more than 200
+bank cards, cash and other physical evidence. [@1,3] Officers seized more than 200
 packets of psychotropic and narcotic substances, as well as firearms and
-ammunition. [@1] Also taken were a pistol with cartridges, an assault rifle with
+ammunition. [@1,3] Also taken were a pistol with cartridges, an assault rifle with
 five magazines and 7.62 mm ammunition, state number plates and a smoke grenade.
-[@1] Police said the total weight of the powder and crystalline substances
-seized exceeded one kilogram. [@1]
+[@1,3] Police said the total weight of the powder and crystalline substances
+seized exceeded one kilogram. [@1,3]
 
 The man was detained under article 208 of the Criminal Procedure Code of
-Ukraine. [@1] On 19 August investigators notified him of suspicion under part 3
-of article 307 of the Criminal Code of Ukraine. [@1] Under article 62 of the
+Ukraine. [@1,3] On 19 August investigators notified him of suspicion under part 3
+of article 307 of the Criminal Code of Ukraine. [@1,3] Under article 62 of the
 Constitution of Ukraine, he is presumed innocent until his guilt is proved in
 the lawful procedure and established by a court conviction. [@1]
-
