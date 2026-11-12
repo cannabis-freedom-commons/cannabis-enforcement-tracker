@@ -44,13 +44,19 @@ sources:
     publisher: El Financiero
     date: 2026-11-11
     language: es
+  - title: ¡Golpe Al Narco! Marina Asegura 48.5 Toneladas De Droga En Michoacán
+    url: https://changoonga.com/2026/11/11/golpe-al-narco-marina-asegura-48-5-toneladas-de-droga-en-michoacan/
+    publisher: Changoonga.com
+    date: 2026-11-11
+    language: es
 open_questions:
-  - The Navy presented the figures as a balance on 11 November 2026; the accounts opened do not say when the marijuana seizures began or whether 31 tonnes is one load or a running total.
-  - The 119 detentions and the loss of more than 5,355 million pesos cover cocaine, methamphetamine, extortion and other cases as well as marijuana, so they are not recorded as cannabis arrests or a cannabis value.
-  - Gamavisión's headline says 40 tonnes of drugs, while its body and the other outlets give the Navy's breakdown, and El Financiero sums cocaine, methamphetamine and marijuana as 48.5 tonnes.
-  - No place was given for the marijuana itself beyond the Michoacán operations; the named deployment was in Lázaro Cárdenas, Coahuayana and Aquila.
-  - No cannabis-only arrest count, charges or court outcome was reported.
-  - El Financiero states 10 tonnes of cocaine where Gamavisión and La Crónica say more than 10 tonnes; the marijuana figure of 31 tonnes matches in the accounts opened.
+    - The Navy presented the figures as a balance on 11 November 2026; the accounts opened do not say when the marijuana seizures began or whether 31 tonnes is one load or a running total.
+    - The 119 detentions and the loss of more than 5,355 million pesos cover cocaine, methamphetamine, extortion and other cases as well as marijuana, so they are not recorded as cannabis arrests or a cannabis value.
+    - Gamavisión's headline says 40 tonnes of drugs, while its body and the other outlets give the Navy's breakdown, and El Financiero sums cocaine, methamphetamine and marijuana as 48.5 tonnes.
+    - No place was given for the marijuana itself beyond the Michoacán operations; the named deployment was in Lázaro Cárdenas, Coahuayana and Aquila.
+    - No cannabis-only arrest count, charges or court outcome was reported.
+    - El Financiero states 10 tonnes of cocaine where Gamavisión and La Crónica say more than 10 tonnes; the marijuana figure of 31 tonnes matches in the accounts opened.
+    - Changoonga reports more than a million counterfeit cigarettes, while the existing account says more than 1.5 million packs, so the unit and count differ.
 ---
 
 The Mexican Navy said its operations in Michoacán had seized 31 tonnes of
@@ -64,13 +70,12 @@ Coahuayana and Aquila, with ships, helicopters and drones, for surveillance and
 special operations from the sea toward land corridors. [@1] The Navy presented
 the balance on 11 November 2026. [@2] The drug figures were reported as results
 of Plan Michoacán, and the combined weight of cocaine, methamphetamine and
-marijuana was given as 48.5 tonnes. [@3]
+marijuana was given as 48.5 tonnes. [@3,4]
 
 Among the results, the Navy highlighted the dismantling of a criminal cell
 dedicated to cocaine trafficking and the detention of alleged members of groups
-linked to extortion of agricultural producers. [@1] It also highlighted the
+linked to extortion of agricultural producers. [@1] The Navy identified the dismantled cell as Los Pichillinguillos, which it alleged was involved in international cocaine trafficking. [@4] It also highlighted the
 capture of Rafael “N”, alias “R2”, described as a leader of Los R and an alleged
-intellectual co-author of the killing of Carlos Manzo. [@1] Six clandestine
+intellectual co-author of the killing of Carlos Manzo. [@1,4] Six clandestine
 laboratories were disabled, and vehicles, boats, weapons, cartridges and more
-than 1.5 million packs of counterfeit cigarettes were seized. [@1]
-
+than 1.5 million packs of counterfeit cigarettes were seized. [@1] The Navy reported the seizure of 206 vehicles, six boats, 77 weapons and more than 4,000 cartridges. [@4]
