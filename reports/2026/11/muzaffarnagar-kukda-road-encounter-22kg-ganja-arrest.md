@@ -70,6 +70,11 @@ sources:
     publisher: Royal Bulletin
     date: 2026-11-11
     language: hi
+  - title: मुठभेड़ के बाद कथित गांजा तस्कर गिरफ्तार, 22 किलो गांजा बरामद
+    url: https://jantaserishta.com/national/alleged-marijuana-smuggler-arrested-after-encounter-22-kg-marijuana-recovered-4923655
+    publisher: Janta Se Rishta
+    date: 2026-11-11
+    language: hi
 open_questions:
     - No charges, case number or court outcome are reported for the arrested man.
     - Police gave the ganja's value as a range of 15 to 20 lakh rupees rather than a single figure.
@@ -90,10 +95,10 @@ surrounded him he opened fire. [@1] In the retaliatory action he was shot in the
 leg, and police arrested the wounded accused and admitted him to the district
 hospital in the New Mandi Kotwali area on Kukda Road. [@2] The injured man was
 identified as Ashish, and police sent him to the district hospital for
-treatment. [@2] The injured man was identified as Ashish, son of Ramvir, resident of Amit Vihar in Kukda. [@3]
+treatment. [@2,5] The injured man was identified as Ashish, son of Ramvir, resident of Amit Vihar in Kukda. [@3]
 
 Police seized about 22 kg of ganja, a country-made pistol, cartridges, a
-motorcycle and cash from him. [@2] Police valued the seized ganja at about 15 to
+motorcycle and cash from him. [@2,5] Police valued the seized ganja at about 15 to
 20 lakh rupees in the international market. [@2]
 
 The Kukda Road check was run under Operation Savera on the deputy inspector
