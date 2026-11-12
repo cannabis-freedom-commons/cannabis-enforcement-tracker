@@ -98,15 +98,20 @@ sources:
     publisher: Haber TR
     date: 2026-11-11
     language: tr
+  - title: Ayakkabı tabanında 49 gram esrar ele geçirildi
+    url: https://www.medyagazete.com/haber/ayakkabi-tabaninda-49-gram-esrar-ele-gecirildi
+    publisher: Medya Gazete
+    date: 2026-11-11
+    language: tr
 ---
 
 Customs officers stopped Turkish citizen A.K. as he entered the passenger hall
-at Esendere customs gate from Iran at about 15:30. [@1,2,3,6,8,9,10,11] Officers found material
+at Esendere customs gate from Iran at about 15:30. [@1,2,3,6,8,9,10,11,13] Officers found material
 hidden in the soles of his shoes with a total gross weight of 49.56 grams,
-assessed as cannabis (esrar). [@1,2,4,6,7,8,9,10,12]
+assessed as cannabis (esrar). [@1,2,4,6,7,8,9,10,12,13]
 
 The interception was carried out by personnel of the Customs Enforcement
-Smuggling and Intelligence Section at Esendere. [@1,2,6,8,9,10,12] The seizure took place at
+Smuggling and Intelligence Section at Esendere. [@1,2,6,8,9,10,12,13] The seizure took place at
 the Esendere customs gate in Hakkari province, on the Turkish-Iranian border.
 [@1,8,10] Hakkari's governor's office announced the seizure in a statement published on its social media accounts. [@5,7] The Yüksekova Chief Public Prosecutor's Office opened an investigation into
-the incident. [@1,2,6,7,8,9,10,12]
+the incident. [@1,2,6,7,8,9,10,12,13]
