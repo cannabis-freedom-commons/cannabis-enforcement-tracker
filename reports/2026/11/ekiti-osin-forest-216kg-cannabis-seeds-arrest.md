@@ -59,20 +59,22 @@ sources:
     url: https://www.wionews.com/world/ugandan-woman-arrested-cocaine-lagos-airport-ndlea-1794209697270/amp
     publisher: Wion
     date: 2026-11-09
+  - title: Ugandan woman in Nigeria for crusade arrested with concealed 87 cocaine wraps
+    url: https://thenationonlineng.net/ugandan-woman-in-nigeria-for-crusade-arrested-with-concealed-87-cocaine-wraps/amp/
+    publisher: The Nation Newspaper
+    date: 2026-11-09
 open_questions:
-  - No count is given for the cannabis seeds seized with the 216 kilograms, and the seeds are not included in the weight.
-  - Neither account says where in Osin Forest the arrest was made, whether a farm was found, or what charges followed.
-  - No plant count, acreage or street value was reported for the Ekiti seizure.
-  - The 216 kilograms is described only as cannabis, with no product detail or laboratory confirmation.
-  - The agency statement, The Eagle Online and Peoples Gazette carry the same NDLEA account, so they are not independent reporting.
-  - Osin Ekiti, which local government records place in the Ifeloju area of Ekiti State, was not identified to a point, so the coordinates mark Ekiti State's centre and the precision is given as region.
-  - The same statement reports other separate cannabis seizures in Lagos, Ondo, Edo, Taraba, Enugu and Delta states, which belong to their own reports.
-  - The roundup's Enugu seizure of 44 blocks weighing 22.5 kg at the Eke Obinagu checkpoint on 3 November and Delta seizure of 10.54 kg of skunk with 9.4 kg of cannabis seeds at Ozoro on 31 October have no tracker report yet.
-  - The Sun, The Eagle Online and Peoples Gazette copies of the same NDLEA statement are not independent reporting of the Ekiti arrest.
+    - No count is given for the cannabis seeds seized with the 216 kilograms, and the seeds are not included in the weight.
+    - Neither account says where in Osin Forest the arrest was made, whether a farm was found, or what charges followed.
+    - No plant count, acreage or street value was reported for the Ekiti seizure.
+    - The 216 kilograms is described only as cannabis, with no product detail or laboratory confirmation.
+    - The accounts, including The Nation's reprint of the NDLEA statement, are not independent reporting.
+    - Osin Ekiti, which local government records place in the Ifeloju area of Ekiti State, was not identified to a point, so the coordinates mark Ekiti State's centre and the precision is given as region.
+    - The same statement reports other separate cannabis seizures in Lagos, Ondo, Edo, Taraba, Enugu and Delta states, which belong to their own reports.
 ---
 
 Operatives of the National Drug Law Enforcement Agency arrested a 53-year-old
-man at Osin Forest in Osin Ekiti, Ekiti State, on Thursday 5 November 2026. [@2,4]
+man at Osin Forest in Osin Ekiti, Ekiti State, on Thursday 5 November 2026. [@2,4] The man arrested at Osin Forest was named as Agbo Paul Peter. [@6]
 Officers found 216 kilograms of cannabis and cannabis seeds with him. [@1,4,5]
 
 The arrest came as the agency's commands pressed a week of raids and seizures

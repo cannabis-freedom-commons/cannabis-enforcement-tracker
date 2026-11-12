@@ -58,11 +58,15 @@ sources:
     url: https://businessday.ng/news/article/ndlea-nabs-ugandan-woman-uk-australia-bound-passengers-with-drugs-in-private-parts/
     publisher: Businessday NG
     date: 2026-11-08
+  - title: Ugandan woman in Nigeria for crusade arrested with concealed 87 cocaine wraps
+    url: https://thenationonlineng.net/ugandan-woman-in-nigeria-for-crusade-arrested-with-concealed-87-cocaine-wraps/amp/
+    publisher: The Nation Newspaper
+    date: 2026-11-09
 open_questions:
-  - No newspaper report was found for the snack-cargo interception; the account rests on the NDLEA statement and Nigerian Voice's copy of it.
-  - The statement does not say whether the 1.20 kg of cannabis was weighed separately from the seven parcels of synthetic-cannabis chemicals, and those chemical weights, including 28.65 kg in total, are left out of cannabis figures.
-  - The statement does not say who the consignment's recipient was, whether that person was identified, or the sender's name.
-  - No charges or court outcome were reported for either of the two men arrested.
+    - The statement does not say whether the 1.20 kg of cannabis was weighed separately from the seven parcels of synthetic-cannabis chemicals, and those chemical weights, including 28.65 kg in total, are left out of cannabis figures.
+    - The statement does not say who the consignment's recipient was, whether that person was identified, or the sender's name.
+    - No charges or court outcome were reported for either of the two men arrested.
+    - The accounts, including The Nation's reprint of the NDLEA statement, are not independent reporting.
 ---
 
 Officers of Nigeria's National Drug Law Enforcement Agency (NDLEA) intercepted a
@@ -74,12 +78,12 @@ airport aboard an Air Peace flight from the United Kingdom on 23 October 2026.
 Two of the parcels held 1.20 kilogrammes of cannabis, while forensic analysis
 confirmed that the remaining seven contained chemicals used to make synthetic
 cannabis. [@2,4] A 51-year-old freight agent who attempted to clear the
-consignment was arrested over the cannabis parcels. [@1]
+consignment was arrested over the cannabis parcels. [@1] The freight agent arrested over the consignment was named as 51-year-old Afolabi Abiodun Wale. [@5]
 
 Two more cartons addressed to the same recipient later arrived from the UK
 aboard an Allied Air flight. [@1] A sting operation between 26 and 28 October
 2026 led to the arrest of another 51-year-old suspect when he attempted to take
-delivery of the cartons. [@1] A search of the additional shipment found three
+delivery of the cartons. [@1] The second man arrested in the sting was named as 51-year-old Okwuite Benjamin Ojone. [@5] A search of the additional shipment found three
 parcels weighing 3.30 kilogrammes hidden in two packs of detergent, alongside 11
 plastic bottles of mostly liquid substances weighing 16.25 kilogrammes. [@1]
 

@@ -42,18 +42,22 @@ sources:
     url: https://www.wionews.com/world/ugandan-woman-arrested-cocaine-lagos-airport-ndlea-1794209697270/amp
     publisher: Wion
     date: 2026-11-09
+  - title: Ugandan woman in Nigeria for crusade arrested with concealed 87 cocaine wraps
+    url: https://thenationonlineng.net/ugandan-woman-in-nigeria-for-crusade-arrested-with-concealed-87-cocaine-wraps/amp/
+    publisher: The Nation Newspaper
+    date: 2026-11-09
 open_questions:
-  - Only one account of the Ozoro arrest was opened, the NDLEA statement as reported by Wion; no independent outlet or the agency's own page was opened for it.
-  - The statement gives no charges, court date or outcome for the man arrested at Ozoro.
-  - The 10.54 kg of skunk and the 9.4 kg of seeds are reported as cannabis without a stated laboratory confirmation, and no count is given for the seeds beyond their weight.
-  - The statement does not say where in Ozoro the arrest was made, whether the drugs were stored for sale, or how they were packaged.
-  - The article also lists a separate Delta arrest at Upper Agbarho on 4 November with unspecified quantities of skunk and other drugs; because no skunk weight is given, that event is not part of this report's figures and is left for its own report.
+    - The accounts, including The Nation's reprint of the NDLEA statement, are not independent reporting.
+    - The statement gives no charges, court date or outcome for the man arrested at Ozoro.
+    - The 10.54 kg of skunk and the 9.4 kg of seeds are reported as cannabis without a stated laboratory confirmation, and no count is given for the seeds beyond their weight.
+    - The statement does not say where in Ozoro the arrest was made, whether the drugs were stored for sale, or how they were packaged.
+    - The article also lists a separate Delta arrest at Upper Agbarho on 4 November with unspecified quantities of skunk and other drugs; because no skunk weight is given, that event is not part of this report's figures and is left for its own report.
 ---
 
 NDLEA operatives arrested a 30-year-old suspect at Ozoro in Isoko North Local
 Government Area of Delta State on Saturday, October 31, 2026. [@1] Officers
 recovered 10.54 kilograms of skunk, a potent cannabis product, and 9.4 kilograms
-of cannabis seeds at the arrest. [@1] The same arrest also produced 4.3 grams of
+of cannabis seeds at the arrest. [@1] The man arrested at Ozoro was named as Edugua Othuke. [@2] The same arrest also produced 4.3 grams of
 methamphetamine, which is not cannabis and is left out of the cannabis figures.
 [@1]
 
@@ -71,4 +75,3 @@ the Ughelli area on November 4 with quantities of skunk and other drugs but no
 stated weight for the skunk. [@1] The roundup's headline case, a Ugandan woman
 caught at Lagos airport with 87 wraps of cocaine weighing 1.15 kilograms, is not
 cannabis and is left out of this report. [@1]
-

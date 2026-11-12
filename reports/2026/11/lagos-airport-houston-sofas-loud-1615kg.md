@@ -92,40 +92,33 @@ sources:
     url: https://businessday.ng/news/article/ndlea-nabs-ugandan-woman-uk-australia-bound-passengers-with-drugs-in-private-parts/
     publisher: Businessday NG
     date: 2026-11-08
+  - title: Ugandan woman in Nigeria for crusade arrested with concealed 87 cocaine wraps
+    url: https://thenationonlineng.net/ugandan-woman-in-nigeria-for-crusade-arrested-with-concealed-87-cocaine-wraps/amp/
+    publisher: The Nation Newspaper
+    date: 2026-11-09
 open_questions:
-  - Whether the freight agent and the caterer were charged or remained in custody was not reported.
-  - The sources do not say whether the named friend Taiwo Anuoluwapo Olusegun was arrested or questioned.
-  - The article's headline case of 87 wraps of cocaine is not cannabis and is left out of the cannabis figures.
-  - The article also reports separate cannabis seizures in Taraba (283 blocks, 226.255 kg), Enugu (22.5 kg) and a UK-linked case with 1.20 kg of cannabis plus synthetic-cannabis chemicals; those are different events left for their own reports.
-  - The headline cocaine seizure of 87 wraps weighing 1.15 kg is not cannabis and is left out of scope.
-  - The page also reports tapentadol, tramadol, pregabalin, diazepam, codeine and synthetic-cannabis chemicals; those quantities are not cannabis figures and are left out.
-  - The headline arrest involving 87 wraps of cocaine weighing 1.15kg is not cannabis and is left out of cannabis figures.
-  - The page also reports opioids, tramadol, pregabalin, diazepam, codeine and synthetic-cannabis chemicals; those quantities are not cannabis figures and are left out.
-  - The NDLEA statement confirms the 4 November interception and the 6 November follow-up arrest, corroborating the dates and figures already in the report.
-  - The headline case of 87 wraps of cocaine weighing 1.150 kg is not cannabis and is left out of cannabis figures.
-  - The page also reports Tapentadol, tramadol, pregabalin, diazepam, codeine, ketamine, methamphetamine and chemicals used in making synthetic cannabis; those quantities are not cannabis and are left out.
-  - The same roundup reports other separate cannabis seizures (UK-snacks 1.20 kg, Lagos couriers 22.2 kg, Marine Beach 6.07 kg, Ondo 1,818 kg plus Board Forest, Ekiti Osin 216 kg, Edo Auchi-Ibillo 201 kg, Taraba Lankaviri 226.255 kg, Enugu 22.5 kg, Delta Ozoro skunk and others); those are different events left for their own reports.
-  - The Nation's report says the woman at the centre of the statement was first named Farida Nansu and later Nansubuga; her name is not part of this cannabis report.
-  - The Nation's copy gives no further detail on whether the two arrested men were charged or remained in custody.
-  - The Nation does not say whether the caterer's friend Taiwo Anuoluwapo Olusegun was arrested or questioned.
-  - The Nation's account, like the existing sources, gives no laboratory confirmation of the Loud parcels.
-  - The page also reports other separate cannabis seizures (22.2 kg for the UK via couriers, Ondo, Ekiti, Edo, Taraba, Enugu and Delta); those are different events left for their own reports.
-  - The page's cocaine, Tapentadol/opioid, tramadol and synthetic-cannabis (Colorado) quantities are not cannabis figures and are left out.
+    - Whether the freight agent and the caterer were charged or remained in custody was not reported.
+    - Whether Taiwo Anuoluwapo Olusegun, the friend the caterer said had sent him, was arrested or questioned was not reported.
+    - The accounts give no laboratory confirmation that the 16.15 kilograms of Loud were cannabis.
+    - No street value was published for the 16.15 kilograms of Loud.
+    - The statement named no sender or recipient of the Houston consignment.
+    - All the opened accounts reproduce the same NDLEA statement and are not independent reporting.
+    - The same statement reported separate cannabis seizures in Lagos, Ondo, Ekiti, Edo, Taraba, Enugu and Delta states; those are different events recorded in their own reports.
 ---
 
 On Wednesday 4 November 2026, NDLEA operatives at the import shed of the airport
 in Lagos intercepted 32 parcels of Loud, a strain of cannabis, weighing 16.15
-kilograms. [@1,4,5,6,8,10,11,12] The parcels were concealed inside two wooden sofas in a
+kilograms. [@1,4,5,6,8,10,11,12,14] The parcels were concealed inside two wooden sofas in a
 consolidated cargo that arrived from Houston, Texas, United States aboard a
-Turkish Airlines flight. [@2,5,10,11,12,13] Punch, citing the agency, also reported the
+Turkish Airlines flight. [@2,5,10,11,12,13,14] Punch, citing the agency, also reported the
 interception of 32 parcels of Loud weighing 16.15 kilogrammes concealed in two
 wooden sofas in a cargo shipment from Houston, United States. [@3,7]
 
 Freight agent Ibrahim Abdulwaheed Adewale, who came forward to clear the
-consignment, was taken into custody. [@1,2,4,5,6,7,10,12,13] In a follow-up operation on Friday 6
+consignment, was taken into custody. [@1,2,4,5,6,7,10,12,13,14] In a follow-up operation on Friday 6
 November 2026, 34-year-old caterer Adeoye Sarafa Ojo from Ibadan, Oyo state, was
-arrested when he walked in to collect the package. [@1,4,5,8,9,10,11,12] Adeoye claimed he was
-sent by a friend, Taiwo Anuoluwapo Olusegun. [@1,4,5,7,13] The NDLEA statement also
+arrested when he walked in to collect the package. [@1,4,5,8,9,10,11,12,14] Adeoye claimed he was
+sent by a friend, Taiwo Anuoluwapo Olusegun. [@1,4,5,7,13,14] The NDLEA statement also
 records the 6 November follow-up arrest of the 34-year-old caterer from Ibadan
 who came to collect the package. [@2]
 
