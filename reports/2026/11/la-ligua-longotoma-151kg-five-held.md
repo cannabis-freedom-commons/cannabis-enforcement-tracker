@@ -88,6 +88,11 @@ sources:
     publisher: En Cancha
     date: 2026-11-11
     language: es
+  - title: 'Pareja de Skarleth Labra fue detenida en operativo antidrogas: incautaron 151 kilos de marihuana'
+    url: https://chile.as.com/actualidad/pareja-de-skarleth-labra-fue-detenida-en-operativo-antidrogas-incautaron-151-kilos-de-marihuana-f202611-n/
+    publisher: Diario AS
+    date: 2026-11-11
+    language: es
 open_questions:
     - Later accounts date the stop to 31 October, while the first published accounts gave only dates of 3 to 5 November.
     - No formal charges or final judgment were reported; prosecutors described precautionary measures, including house arrest for one detainee and preventive detention for others, and a four-month investigation period.
@@ -97,6 +102,7 @@ open_questions:
     - The Clinic's deck says four vehicles were seized, while its text says three.
     - The reports identify one detainee only by the public name Merello and do not give a full legal name.
     - En Cancha reported no official public confirmation that Merello was among the five detainees, while The Clinic said police sources confirmed his arrest.
+    - No public account states what specific part Merello is alleged to have played in the transfer.
 media:
   - kind: photo
     url: https://www.panoramanoticioso.cl/incautan-151-kilos-de-marihuana-en-longotoma-de-la-ligua/
@@ -126,8 +132,8 @@ seizures on the province's routes had increased during 2026 thanks to
 intelligence work and police work, and said the government backed the work to
 break up gangs affecting residents' quality of life. [@1,3]
 
-The police procedure took place at about 10 in the morning on Saturday 31 October. [@4] The five detainees were placed at the disposition of the justice system for their detention control and formalization. [@4,7] Merello was placed under house arrest while the investigation continues. [@9] Reinoso said the five were brought before the Los Andes Guarantee Court, some under precautionary measures and others under more intensive measures such as preventive detention, and that the investigation has a four-month period. [@9]
+The police procedure took place at about 10 in the morning on Saturday 31 October. [@4] The five detainees were placed at the disposition of the justice system for their detention control and formalization. [@4,7] Merello was placed under house arrest while the investigation continues. [@9,12] Reinoso said the five were brought before the Los Andes Guarantee Court, some under precautionary measures and others under more intensive measures such as preventive detention, and that the investigation has a four-month period. [@9,12]
 
-Police seized $987,000 in cash during the procedure. [@6,8,9,11] Police also seized nine cell phones, two portable communication devices and three vehicles, none of which had a theft report. [@6,7,8] The five detainees were Chilean men aged 21 to 43. [@6,7,8,10,11] Police sources confirmed Merello's arrest to The Clinic. [@10] One of the five men detained was Merello, then the partner of former reality-show contestant Skarleth Labra. [@9]
+Police seized $987,000 in cash during the procedure. [@6,8,9,11,12] Police also seized nine cell phones, two portable communication devices and three vehicles, none of which had a theft report. [@6,7,8] The five detainees were Chilean men aged 21 to 43. [@6,7,8,10,11,12] Police sources confirmed Merello's arrest to The Clinic. [@10,12] One of the five men detained was Merello, then the partner of former reality-show contestant Skarleth Labra. [@9]
 
 Three of the detainees had criminal records with no cases currently open, while the other two had no records. [@8]
