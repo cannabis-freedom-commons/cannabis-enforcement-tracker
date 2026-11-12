@@ -60,14 +60,15 @@ open_questions:
     - The first hearing is set for 8 December 2026; no verdict or sentence has been reported.
     - The dealer's cultivation and jelly-manufacturing case, for which he was indicted in July, is a separate event left out here.
     - No quantities for the cannabis Bill Stax bought or smoked were published.
+    - His agency said some recent reports contained inaccuracies and claims unrelated to the artist, without specifying which.
 ---
 
 ## Indicted without detention
 
 The Suwon District Public Prosecutors Office indicted a rapper in his forties, later named as Bill Stax, without detention on 16 October 2026 for violating the Narcotics Control Act. [@1,2,3,4,5] Suwon District Court Criminal Division 12 is scheduled to hold Bill Stax's first hearing on 8 December 2026. [@3] Bill Stax is 46-year-old Shin Dong-yeol, formerly known as Vasco, who appeared on Mnet's Show Me The Money. [@2] He is accused of buying cannabis and cannabis jelly from a drug dealer, Mr. B, in November 2025 and smoking marijuana. [@1,2,3] SBS added that prosecutors believe he bought from a second dealer and smoked again in August 2026. [@1]
 
-The case grew out of the investigation into Mr. B, a man in his thirties accused of growing cannabis at home and manufacturing cannabis jelly from August 2024 to June 2026. [@1,2,3] Mr. B made about 8 million won selling some 105 grams of marijuana and 50 cannabis gummies, including sales to Bill Stax at a Hongdae club in November 2025. [@1] Police searched Bill Stax's home in August 2026, reported finding marijuana and suspected liquid marijuana, and said a preliminary drug test came back positive. [@1] Mr. B was indicted under detention in July. [@1]
+The case grew out of the investigation into Mr. B, a man in his thirties accused of growing cannabis at home and manufacturing cannabis jelly from August 2024 to June 2026. [@1,2,3] Mr. B made about 8 million won selling some 105 grams of marijuana and 50 cannabis gummies, including sales to Bill Stax at a Hongdae club in November 2025. [@1] Police searched Bill Stax's home in August 2026, reported finding marijuana and suspected liquid marijuana, and said a preliminary drug test came back positive. [@1] Mr. B was indicted under detention in July. [@1] The joint drug crime investigation headquarters found that two people, Bill Stax and one other, bought and used the dealer's cannabis. [@3]
 
 ## The accused's voice
 
-StarNews noted this is not his first drug case: he was indicted without detention in 2018 over 2015 marijuana, ecstasy and cocaine use. [@2] Bill Stax has long argued marijuana should not be treated as a drug and has called for legalization, including recreational use. [@2]
+StarNews noted this is not his first drug case: he was indicted without detention in 2018 over 2015 marijuana, ecstasy and cocaine use. [@2] Bill Stax has long argued marijuana should not be treated as a drug and has called for legalization, including recreational use. [@2] His agency said he had cooperated with police and prosecutors, accepted that he had repeated the same mistake and would attend the trial. [@3]
