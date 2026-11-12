@@ -108,15 +108,30 @@ sources:
     publisher: Son Dakika
     date: 2026-11-11
     language: tr
+  - title: 'Ayakkabı tabanındaki paket sınır kapısında yakalandı: Esendere''de 49,56 gram esrar bulundu'
+    url: https://www.aksiyon.com.tr/ayakkabi-tabanindaki-paket-sinir-kapisinda-yakalandi-esendere-de-49-56-gram-esrar-bulundu-393096
+    publisher: Aksiyon
+    date: 2026-11-11
+    language: tr
+  - title: Hakkari'de ayakkabı tabanında 49,56 gram esrar, araçlarda 770 kaçak sigara bulundu
+    url: https://www.haberler.com/guncel/hakkari-de-ayakkabi-tabaninda-49-56-gram-esrar-20418745-haberi/
+    publisher: Haberler.com
+    date: 2026-11-11
+    language: tr
+open_questions:
+    - No report says whether A.K. was detained or released after the interception.
+    - No charge, court date or outcome has been reported; the case was at the investigation stage.
+    - The 49.56 grams is given as a gross weight, so the net weight of the cannabis is not reported.
+    - The material was described as assessed to be cannabis, with no laboratory confirmation reported.
 ---
 
 Customs officers stopped Turkish citizen A.K. as he entered the passenger hall
 at Esendere customs gate from Iran at about 15:30. [@1,2,3,6,8,9,10,11,13] Officers found material
 hidden in the soles of his shoes with a total gross weight of 49.56 grams,
-assessed as cannabis (esrar). [@1,2,4,6,7,8,9,10,12,13,14]
+assessed as cannabis (esrar). [@1,2,4,6,7,8,9,10,12,13,14,15]
 
 The interception was carried out by personnel of the Customs Enforcement
-Smuggling and Intelligence Section at Esendere. [@1,2,6,8,9,10,12,13] The seizure took place at
+Smuggling and Intelligence Section at Esendere. [@1,2,6,8,9,10,12,13,15] The seizure took place at
 the Esendere customs gate in Hakkari province, on the Turkish-Iranian border.
-[@1,8,10] Hakkari's governor's office announced the seizure in a statement published on its social media accounts. [@5,7,14] The Yüksekova Chief Public Prosecutor's Office opened an investigation into
-the incident. [@1,2,6,7,8,9,10,12,13,14]
+[@1,8,10,15] Hakkari's governor's office announced the seizure in a statement published on its social media accounts. [@5,7,14,16] The Yüksekova Chief Public Prosecutor's Office opened an investigation into
+the incident. [@1,2,6,7,8,9,10,12,13,14,15]
