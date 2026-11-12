@@ -52,9 +52,11 @@ sources:
     publisher: KPP Grajewo
     date: 2026-11-10
     language: pl
-open_questions:
-    - The reports give no separate date for the patrol and flat search; 10 November 2026 is their publication date and stands in for the event date.
-    - Whether laboratory tests confirmed the suspected amphetamine and mephedrone, and whether the possession charge was extended, is not yet known.
+  - title: Kryminalni przejęli marihuanę i podejrzane substancje w Grajewie
+    url: https://e-grajewo.pl/wiadomosc,kryminalni-przejeli-marihuane-i-podejrzane-substancje-w-grajewie,61870.html
+    publisher: e-Grajewo.pl
+    date: 2026-11-10
+    language: pl
 media:
   - kind: photo
     url: https://grajewo.policja.gov.pl/po7/aktualnosci/114487,Mial-przy-sobie-narkotyki-a-kolejne-w-mieszkaniu.html
@@ -69,16 +71,16 @@ media:
 ---
 
 Criminal officers in Grajewo detained a 47-year-old man after finding marijuana
-on him. [@1,2] The officers had noticed the man while patrolling a street in
+on him. [@1,2,3] The officers had noticed the man while patrolling a street in
 Grajewo because they believed he might possess drugs. [@1]
 
 During the check they found 2.4 grams of marijuana on him, along with two other
-substances in the form of white powder and crystals. [@1,2] In the 47-year-old's
-home, officers found another 12.3 grams of marijuana in a jar on a cabinet. [@1,2]
+substances in the form of white powder and crystals. [@1,2,3] In the 47-year-old's
+home, officers found another 12.3 grams of marijuana in a jar on a cabinet. [@1,2,3]
 The man was detained and the substances found were seized. [@1]
 
 The man was charged with possession of narcotic drugs. [@1,2] Under the
 drug-prevention law, drug possession carries up to three years' imprisonment.
-[@1] The remaining substances were sent for laboratory testing, and the charge
+[@1,3] The remaining substances were sent for laboratory testing, and the charge
 will be extended to those substances if they prove to be amphetamine and
 mephedrone. [@1]
