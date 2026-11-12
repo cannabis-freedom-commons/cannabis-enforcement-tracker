@@ -92,19 +92,24 @@ sources:
     url: https://www.majorcadailybulletin.com/videos/2026/11/11/198075.html
     publisher: Majorca Daily Bulletin
     date: 2026-11-11
+  - title: 'Vídeo: Desmantelan una enorme plantación de marihuana en Muro'
+    url: https://www.ultimahora.es/videos/2026/11/11/4844051.html
+    publisher: Última Hora
+    date: 2026-11-11
+    language: es
 ---
 
 The Guardia Civil searched a house and its adjoining plot in Muro, Mallorca, on
 9 November 2026, dismantling a cannabis plantation. [@1,5] Officers from the Santa
 Margalida investigation unit conducted the raid with support from the USECIC and
 Citizen Security patrols from Inca and Santa Margalida. [@1,5,6] The Guardia Civil released video material of the operation. [@4] A 28-year-old
-Spanish man was arrested at the scene on suspicion of drug trafficking. [@2,3,5,6,7]
+Spanish man was arrested at the scene on suspicion of drug trafficking. [@2,3,5,6,7,8]
 
 Officers seized 727 cannabis plants of various sizes, ranging from small
 seedlings to mature specimens. [@1,3,5,6,7] Investigators also found 117 kilograms of
-dried cannabis buds prepared and vacuum-packed for distribution. [@1,3,5,6,7] The search
+dried cannabis buds prepared and vacuum-packed for distribution. [@1,3,5,6,7,8] The search
 also uncovered 24 peyote cacti alongside cultivation products and equipment.
-[@1,3,5,6]
+[@1,3,5,6,8]
 
 Following his arrest, the man was placed at the disposal of the judicial
 authority in Inca. [@1,3,5,6] Before the judge, the man acknowledged the cannabis was
