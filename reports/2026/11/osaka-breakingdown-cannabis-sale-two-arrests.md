@@ -181,6 +181,11 @@ sources:
     publisher: zakⅡ (Gunosy)
     date: 2026-11-11
     language: ja
+  - title: ブレイキングダウン　ダイスケ逮捕!!　大麻購入　自宅から注射器や吸引具
+    url: https://www.youtube.com/watch?v=OzTq8L-_UMM
+    publisher: 5,000円貸します
+    date: 2026-11-11
+    language: ja
 media:
   - kind: video
     url: https://www.youtube.com/watch?v=iPnZ6VWrb6Y
@@ -202,7 +207,7 @@ known occupation from Ikuno Ward in Osaka, and Masaru Sakaguchi, a 60-year-old
 beautician from the same ward, on suspicion of violating the Narcotics Special
 Provisions Law and related offences. [@1,2,3,4,5,7,8,10,11,12,13,14,16,17,20,22,23,26,29] Yamamoto is from the Katsuyamakita district of Ikuno Ward, and Sakaguchi from Ikuno-nishi in the same ward. [@4,29] Both men were referred to prosecutors on suspicion of violating the Special Narcotics Law and other charges. [@21] The arrests, over the alleged purchase
 and sale of goods presented as cannabis, were announced by 11 November 2026.
-[@1,2,3,11,12,13,28,29] The two men were arrested on 10 November 2026. [@22,23] Police did not disclose whether the two men admitted the allegations. [@5,17,23,24,26] According to the police, Yamamoto had previously competed in BreakingDown,
+[@1,2,3,11,12,13,28,29,30] The two men were arrested on 10 November 2026. [@22,23] Police did not disclose whether the two men admitted the allegations. [@5,17,23,24,26] According to the police, Yamamoto had previously competed in BreakingDown,
 a mixed-rules combat sports event popular primarily among young people. [@1,2,3,4,6,11,12,13,15,19,23,24,28,29] Yamamoto is known as "Daisuke". [@25,29] Yamamoto was also known by the nickname "Ikuno no Kaiten", after his home ward of Ikuno. [@29]
 
 Investigators alleged that in December 2025, Yamamoto received an item as
@@ -215,4 +220,4 @@ routine patrol and discovered plant material inside the car he was occupying.
 [@1,2,3,4,5,9,12,13,15,22,23,29] The cannabis found in Sakaguchi's car in February weighed a little over 5 grams. [@5,17] Forensic testing later confirmed that the plant fragments were cannabis.
 [@1,2,3,9,11,12,13,18,22,29] Analysis of Sakaguchi's confiscated smartphone and related records led
 officers to suspect that he had traded cannabis with Yamamoto and several other
-individuals. [@1,2,3,5,11,12,13,15,18,22,29] Sakaguchi was reported to use code words including “leaf” and “buds” and to have dealt with multiple customers. [@5] Messages from Yamamoto on the phone included requests reading “roll it for me” and “5 sticks.” [@5,11,17,22,24,28,29] Police also searched premises linked to Yamamoto and seized smoking implements, glass pipes and syringes. [@3,4,11,16,17,18,20,22,23,24,29]
+individuals. [@1,2,3,5,11,12,13,15,18,22,29] Sakaguchi was reported to use code words including “leaf” and “buds” and to have dealt with multiple customers. [@5] Messages from Yamamoto on the phone included requests reading “roll it for me” and “5 sticks.” [@5,11,17,22,24,28,29] Police also searched premises linked to Yamamoto and seized smoking implements, glass pipes and syringes. [@3,4,11,16,17,18,20,22,23,24,29,30]
