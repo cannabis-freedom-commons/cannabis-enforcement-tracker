@@ -73,15 +73,20 @@ sources:
     publisher: Bursa Hakimiyet
     date: 2026-11-11
     language: tr
+  - title: Hakkari’de sınır kapısında ayakkabı tabanında uyuşturucu ele geçirildi
+    url: https://sirnakhaber73.com/hakkaride-sinir-kapisinda-ayakkabi-tabaninda-uyusturucu-ele-gecirildi-61901h.htm
+    publisher: Şırnak Haber 73
+    date: 2026-11-11
+    language: tr
 ---
 
 Customs officers stopped Turkish citizen A.K. as he entered the passenger hall
-at Esendere customs gate from Iran at about 15:30. [@1,2,3,6] Officers found material
+at Esendere customs gate from Iran at about 15:30. [@1,2,3,6,8] Officers found material
 hidden in the soles of his shoes with a total gross weight of 49.56 grams,
-assessed as cannabis (esrar). [@1,2,4,6,7]
+assessed as cannabis (esrar). [@1,2,4,6,7,8]
 
 The interception was carried out by personnel of the Customs Enforcement
-Smuggling and Intelligence Section at Esendere. [@1,2,6] The seizure took place at
+Smuggling and Intelligence Section at Esendere. [@1,2,6,8] The seizure took place at
 the Esendere customs gate in Hakkari province, on the Turkish-Iranian border.
-[@1] Hakkari's governor's office announced the seizure in a statement published on its social media accounts. [@5,7] The Yüksekova Chief Public Prosecutor's Office opened an investigation into
-the incident. [@1,2,6,7]
+[@1,8] Hakkari's governor's office announced the seizure in a statement published on its social media accounts. [@5,7] The Yüksekova Chief Public Prosecutor's Office opened an investigation into
+the incident. [@1,2,6,7,8]
