@@ -15,13 +15,15 @@ summary: >-
   sealed warrant. Founder Richard Lee was briefly detained but not arrested, while
   protesters gathered outside the school.
 created_by_model: meta/muse-spark
+figures:
+  plants_destroyed: 80
 details:
   activity: [sale]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   case_stage: investigation
   date_precision: exact
-  products: [{product: flower}]
+  products: [{product: flower}, {product: plants, plants: 80}]
   setting: [home]
 data_sources:
   details.activity: [1, 2, 3]
@@ -29,8 +31,9 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]
-  details.products: [1, 2, 3]
+  details.products: [1, 2, 3, 4]
   details.setting: [1, 2]
+  figures.plants_destroyed: [4]
 status: verified
 tags: [oaksterdam, dispensary-crackdown]
 sources:
@@ -46,6 +49,11 @@ sources:
     publisher: Americans for Safe Access
     url: https://www.safeaccessnow.org/asa_activist_newsletter_april_2012
     archived: https://web.archive.org/web/20250806150452/https://www.safeaccessnow.org/asa_activist_newsletter_april_2012
+  - title: A day after the raid, Oaksterdam leaders start to rebuild while bracing for what comes next
+    publisher: Oakland North
+    url: https://oaklandnorth.net/2012/04/03/a-day-after-the-raid-oaksterdam-leaders-start-to-rebuild-while-bracing-for-what-comes-next/
+    archived: https://web.archive.org/web/20260710164230/https://oaklandnorth.net/2012/04/03/a-day-after-the-raid-oaksterdam-leaders-start-to-rebuild-while-bracing-for-what-comes-next/
+    date: 2012-04-03
 media:
   - kind: photo
     url: https://www.safeaccessnow.org/asa_activist_newsletter_april_2012
@@ -60,14 +68,13 @@ media:
     publisher: Americans for Safe Access
     caption: Steph Sherer speaking at the Oakland City Hall rally against the raids
 open_questions:
-  - No figure for the cannabis plants or other material taken from the school, dispensary and nursery was published in the opened sources.
   - The warrant stayed sealed and no charges were reported in the opened sources.
   - ASA reported at least three protesters arrested at the scene; with a single source for those arrests they are noted here rather than counted in figures.
 ---
 
 Federal agents raided Oaksterdam University in downtown Oakland on the morning of 2 April 2012, sealing the cannabis trade school along with its museum, a dispensary run by its founder, and the founder's apartment. [@1,2] Agents from the Internal Revenue Service and the Drug Enforcement Administration, backed by US Marshals, served a sealed federal search warrant, and an IRS spokeswoman would not state the purpose of the raid. [@1,2]
 
-Founder Richard Lee was briefly detained at his apartment during the search but was not arrested, and no other arrests of the raid's targets were reported. [@1] About a dozen protesters gathered outside the school, whose large mural makes it a neighbourhood landmark, holding signs against federal crackdowns on medical marijuana. [@2] Protesters included Americans for Safe Access executive director Steph Sherer, and a rally against the raids followed at Oakland City Hall. [@3]
+Founder Richard Lee was briefly detained at his apartment during the search but was not arrested, and no other arrests of the raid's targets were reported. [@1] Agents cut down about 80 marijuana plants with the school's own clippers and seized computers, files and boxes of marijuana-related material. [@4] About a dozen protesters gathered outside the school, whose large mural makes it a neighbourhood landmark, holding signs against federal crackdowns on medical marijuana. [@2] Protesters included Americans for Safe Access executive director Steph Sherer, and a rally against the raids followed at Oakland City Hall. [@3]
 
 ## Why Oaksterdam mattered
 
