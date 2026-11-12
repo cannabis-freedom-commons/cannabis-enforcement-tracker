@@ -53,6 +53,11 @@ media:
     media_url: https://cdn.jwplayer.com/manifests/LslumDGY.m3u8
     publisher: Diario de Mallorca
     caption: 'Guardia Civil video of the cannabis plantation dismantled in Muro, published by Diario de Mallorca. Video: Guardia Civil'
+  - kind: photo
+    url: https://canal4diario.com/sucesos-y-tribunales/2026/11/11/un-hombre-detenido-y-una-plantacion-de-marihuana-desmantelada-en-muro/
+    media_url: https://canal4diario.com/media/2026/11/20261111-plantacion-marihuana-muro-1-1536x1151.jpeg
+    publisher: Canal 4 Diario
+    caption: 'Cannabis plantation dismantled in Muro. Photo: Canal 4 Diario'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a27e10fa4479991c974639aedc6c48a5
@@ -97,21 +102,26 @@ sources:
     publisher: Última Hora
     date: 2026-11-11
     language: es
+  - title: Un hombre detenido y una plantación de marihuana desmantelada en Muro
+    url: https://canal4diario.com/sucesos-y-tribunales/2026/11/11/un-hombre-detenido-y-una-plantacion-de-marihuana-desmantelada-en-muro/
+    publisher: Canal 4 Diario
+    date: 2026-11-11
+    language: es
 ---
 
 The Guardia Civil searched a house and its adjoining plot in Muro, Mallorca, on
-9 November 2026, dismantling a cannabis plantation. [@1,5] Officers from the Santa
+9 November 2026, dismantling a cannabis plantation. [@1,5,9] Officers from the Santa
 Margalida investigation unit conducted the raid with support from the USECIC and
-Citizen Security patrols from Inca and Santa Margalida. [@1,5,6] The Guardia Civil released video material of the operation. [@4] A 28-year-old
-Spanish man was arrested at the scene on suspicion of drug trafficking. [@2,3,5,6,7,8]
+Citizen Security patrols from Inca and Santa Margalida. [@1,5,6,9] The Guardia Civil released video material of the operation. [@4] A 28-year-old
+Spanish man was arrested at the scene on suspicion of drug trafficking. [@2,3,5,6,7,8,9]
 
 Officers seized 727 cannabis plants of various sizes, ranging from small
-seedlings to mature specimens. [@1,3,5,6,7] Investigators also found 117 kilograms of
-dried cannabis buds prepared and vacuum-packed for distribution. [@1,3,5,6,7,8] The search
+seedlings to mature specimens. [@1,3,5,6,7,9] Investigators also found 117 kilograms of
+dried cannabis buds prepared and vacuum-packed for distribution. [@1,3,5,6,7,8,9] The search
 also uncovered 24 peyote cacti alongside cultivation products and equipment.
-[@1,3,5,6,8]
+[@1,3,5,6,8,9]
 
 Following his arrest, the man was placed at the disposal of the judicial
-authority in Inca. [@1,3,5,6] Before the judge, the man acknowledged the cannabis was
+authority in Inca. [@1,3,5,6,9] Before the judge, the man acknowledged the cannabis was
 his but stated he had not distributed any of it and that it was his first
 harvest, after which he was released. [@2,6] He was represented by lawyer Diego Marín. [@6]
