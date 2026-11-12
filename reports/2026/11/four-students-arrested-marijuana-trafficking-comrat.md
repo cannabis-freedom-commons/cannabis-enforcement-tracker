@@ -66,13 +66,21 @@ sources:
     publisher: Point.md
     date: 2026-11-11
     language: ro
+  - title: VIDEO // Ar fi vândut marijuana colegilor de facultate. Patru tineri, reținuți de Poliție
+    url: https://www.deschide.md/video-ar-fi-vandut-marijuana-colegilor-de-facultate-patru-tineri-retinuti-de-politie
+    publisher: Deschide.md
+    date: 2026-11-11
+    language: ro
+open_questions:
+  - Deschide.md does not say the 19-year-old man and the 21-year-old woman were detained in Comrat, while the other accounts used in the report place that arrest there.
+  - Deschide.md gives the possible prison term as up to 17 years, while the other accounts give 15 to 17 years.
 ---
 
 Four young people, students in Chisinau and originally from southern Moldova,
 were detained in a drug-trafficking case after allegedly selling marijuana to
 fellow students and close acquaintances. [@1,4,5,6] The suspects were three young men
 and one young woman aged 19 to 22. [@2,5,6] The four suspects were placed in
-preventive arrest for 30 days. [@1,5,7]
+preventive arrest for 30 days. [@1,5,7,8]
 
 Police say officers of the Anti-Drug Directorate and criminal investigators of
 the National Investigation Inspectorate documented the group's activity over two
@@ -81,8 +89,8 @@ bought the drugs wholesale in their home locality and then distributed them
 individually to a restricted circle of users. [@1,4,5] Two suspects, a 19-year-old
 man and a 21-year-old woman, were detained in Comrat while allegedly trying to
 sell drugs. [@1,4,5,6] Body searches of the two found packets containing marijuana.
-[@1,5] At a third suspect's home in Comrat officers seized mobile phones allegedly
-used in the criminal activity, a high-precision scale and marijuana. [@1,5] A
+[@1,5,8] At a third suspect's home in Comrat officers seized mobile phones allegedly
+used in the criminal activity, a high-precision scale and marijuana. [@1,5,8] A
 fourth suspect, described as the group's alleged supplier, was detained in a
 garage, where officers seized marijuana, small scales, adhesive tape and
 zip-lock packets. [@1,5] The operation was carried out with the support of masked
