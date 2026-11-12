@@ -49,23 +49,26 @@ sources:
     archived: https://web.archive.org/web/20170829191810id_/http://mvdpmr.org:80/kriminalnie-novosti/24256-u-semejnogo-deboshira-iz-yaty-narkotiki.html
     date: 2017-07-27
     language: ru
+  - title: Сотрудники милиции изъяли у мужчины два свёртка с коноплёй
+    url: https://novostipmr.com/ru/content/sotrudniki-milicii-izyali-u-muzhchiny-dva-svyortka-s-konoplyoy
+    publisher: Новости Приднестровья
+    date: 2017-07-27
+    language: ru
 open_questions:
-  - No weight or other quantity for the cannabis wraps was published, so no cannabis weight can be recorded.
-  - Neither account gives a separate date beyond the fight happening the evening before the 27 July 2017 reports, so 26 July 2017 is used.
-  - The man was detained over the fight; whether he faced charges or an administrative penalty over the cannabis, and how the inquiry ended, was not reported.
-  - The material is described as resembling marijuana in appearance and smell; no expert examination result was published.
-  - The Interior Ministry page could only be read through a Wayback capture from 29 August 2017, and the Novosti Pridnestrovya article gives no street name, which comes from the ministry's version.
-  - 'Left out, as its quotation was not found in Новости Приднестровья: After sobering up, the man admitted the wraps contained cannabis for his own use.'
+    - No weight or other quantity for the cannabis wraps was published, so no cannabis weight can be recorded.
+    - Neither account gives a separate date beyond the fight happening the evening before the 27 July 2017 reports, so 26 July 2017 is used.
+    - The man was detained over the fight; whether he faced charges or an administrative penalty over the cannabis, and how the inquiry ended, was not reported.
+    - The material is described as resembling marijuana in appearance and smell; no expert examination result was published.
+    - The Interior Ministry page could only be read through a Wayback capture from 29 August 2017, and the Novosti Pridnestrovya article gives no street name, which comes from the ministry's version.
 ---
 
 At 7 pm on 26 July 2017 a fight broke out between two people living together in
-a flat in Bender, Transnistria. [@2] The 54-year-old woman who owned the home
+a flat in Bender, Transnistria. [@2,3] The 54-year-old woman who owned the home
 was frightened by the fight and called the district police inspectors, who came
-and detained her drunk 33-year-old partner. [@1] While inspecting the flat,
+and detained her drunk 33-year-old partner. [@1,3] While inspecting the flat,
 officers found a plastic bottle adapted for smoking drugs and a tin can holding
-two wraps on the balcony. [@1] The wraps held dried, crushed plant material that
-resembled marijuana in appearance and smell. [@1]
+two wraps on the balcony. [@1,3] The wraps held dried, crushed plant material that
+resembled marijuana in appearance and smell. [@1,3] After sobering up, he admitted the wraps contained cannabis for his own use. [@3]
 
 The Transnistrian Interior Ministry press service said an inquiry into the case
-was under way. [@1]
-
+was under way. [@1,3]
