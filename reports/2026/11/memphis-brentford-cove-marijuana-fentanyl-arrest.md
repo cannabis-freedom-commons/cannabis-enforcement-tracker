@@ -33,30 +33,31 @@ sources:
     url: https://www.yahoo.com/news/articles/fentanyl-marijuana-seized-arrest-cordova-195103277.html
     publisher: Yahoo News (WREG Memphis)
     date: 2026-11-08
+  - title: Fentanyl, marijuana seized after arrest in Cordova
+    url: https://www.msn.com/en-us/news/other/fentanyl-marijuana-seized-after-arrest-in-cordova/ar-AA2h1qlt
+    publisher: WREG-TV Memphis (via MSN)
+    date: 2026-11-08
 open_questions:
-  - The article gives no weight for the marijuana seized in bags at the Cordova home, so no cannabis quantity in kilograms is recorded.
-  - The text does not say which seized substances the two controlled-substance counts refer to, nor whether any of the firearms counts relate to the cannabis.
-  - The 3.95 pounds of fentanyl, the xylazine and the amphetamine are non-cannabis substances and are excluded from cannabis figures.
-  - No plea or court outcome was reported; the case was at the charged stage when the article was published.
-  - Only the WREG account, which relies on the Shelby County Sheriff's Office, could be opened; no independent second outlet or the sheriff's own release was found.
-  - The 3700 block of Jerusalem and the area around Fairway are named as another search and sales location but not identified more precisely.
-  - The text gives a weight ("1.79 kg") but the figures have no kg_seized; check whether it belongs there.
-  - The Yahoo News page carries the same WREG text and no independent reporting, so it adds no new facts about the marijuana seized.
+    - The page reports 'over three pounds of fentanyl and marijuana' without separating the two, so no cannabis weight in kilograms is recorded.
+    - The text does not say which seized substances the two controlled-substance counts refer to, nor whether the firearms counts relate to the cannabis.
+    - No plea or court outcome was reported; the case was at the charged stage when the article was published.
+    - The account rests on one statement from the sheriff's office, republished by WREG and its syndicators, with no independent reporting.
+    - The 3700 block of Jerusalem and the area around Fairway are named as another search and sales location but not identified more precisely.
 ---
 
 Shelby County sheriff's deputies arrested a 24-year-old Memphis man on 5
 November 2026 at a home in the 1700 block of Brentford Cove in Cordova, a
-Memphis suburb, where they had gone to serve a warrant on him. [@1,2] Deputies saw
+Memphis suburb, where they had gone to serve a warrant on him. [@1,2,3] Deputies saw
 him leave the residence and get into an Uber vehicle before taking him into
-custody. [@1] He was charged with two counts of possession of a controlled
+custody. [@1,3] He was charged with two counts of possession of a controlled
 substance with intent to manufacture, deliver or sell, four counts of drug
 paraphernalia and three counts of possessing a firearm during the commission of
-a dangerous felony. [@1]
+a dangerous felony. [@1,3]
 
 Detectives took $1,364 from his pocket and seized three firearms, boxes of bags
 holding marijuana, a rifle magazine, an extended magazine, a vacuum sealer and a
-digital scale from the Cordova home. [@1,2] They took two more firearms from a
-Dodge Charger parked in the home's garage. [@1,2] At another residence in the 3700
+digital scale from the Cordova home. [@1,2,3] They took two more firearms from a
+Dodge Charger parked in the home's garage. [@1,2,3] At another residence in the 3700
 block of Jerusalem, police seized a hydraulic press with white residue, a bullet
 blender, two digital scales and 3.95 pounds (about 1.79 kg) of fentanyl, which
 the sheriff's office called equivalent to 884,505 lethal doses. [@1] No weight
