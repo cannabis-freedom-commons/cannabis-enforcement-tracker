@@ -70,40 +70,49 @@ sources:
     publisher: sb.by
     date: 2025-12-12
     language: ru
+  - title: Более тонны запрещённых веществ! Фура с гашишем и мефедроном из Польши задержана в Беларуси
+    url: https://belarus-news.by/news/bolee-tonny-zapreschyonnykh-veschestv-fura-s-gashishem-i-mefedronom-iz-polshi-zaderzhana-v
+    publisher: Belarus-News.by
+    date: 2025-12-12
+    language: ru
+  - title: Таможенники пресекли крупнейшую в истории Беларуси поставку наркотиков и психотропов из ЕС
+    url: https://belta.by/society/view/tamozhenniki-presekli-krupnejshuju-v-istorii-belarusi-postavku-narkotikov-i-psihotropov-iz-es-753849-2025
+    publisher: БЕЛТА
+    date: 2025-12-12
+    language: ru
 open_questions:
-  - The articles give no separate date for the truck inspection or arrests; 12 December 2025 is the publication date and is used as the incident date.
-  - The number of detained group members was not published, so no arrested figure is recorded.
-  - The detainees were identified only by citizenship categories, with no names or case outcomes reported.
-  - The exact border crossing or inspection site was not named, so the report uses a country-level location for Belarus.
-  - The additional seizure of about 5 kg is reported only as combined hashish and mephedrone and cannot be separated, so it is excluded from cannabis weight.
-  - The 367 kg of mephedrone is a non-cannabis psychotropic substance and is excluded from cannabis figures under the substance scope.
-  - The reported value of about 62 million dollars and the estimate of 2,933,000 single doses cover the combined hashish and mephedrone haul, so no cannabis-only value is recorded.
-  - Both accounts relay the customs authorities' version, with the Smartpress item closely following the State Customs Committee statement, and no independent account was opened.
-  - 'Left out, as its quotation was not found in Интерфакс: Searches of the detained suspects seized about 5 kg more of hashish and mephedrone combined, which cannot be separated by substance.'
+    - The accounts give no separate date for the truck inspection or the arrests; 12 December 2025 is the date of publication and is used as the incident date.
+    - The number of detained group members was not published, so no arrested figure is recorded.
+    - The detainees were identified only by citizenship categories, with no names or court outcomes reported.
+    - The exact border crossing or inspection site was not named, so the report uses a country-level location for Belarus.
+    - The additional seizure of about 5 kg is reported only as combined hashish and mephedrone and cannot be separated, so it is excluded from cannabis weight.
+    - The 367 kg of mephedrone is a non-cannabis psychotropic substance and is excluded from cannabis figures under the substance scope.
+    - The reported value of about 62 million dollars and the estimate of 2,933,000 single doses cover the combined hashish and mephedrone haul, so no cannabis-only value is recorded.
+    - The accounts relay the customs authorities' version; the Belarus.News television item, BelTA and the outlets already cited reproduce the State Customs Committee statement, so there is no independent reporting.
 ---
 
 Belarusian customs officers intercepted an international shipment of drugs and
 psychotropic substances from the European Union into the Eurasian Economic Union
-with a total weight of about 1.3 tonnes. [@1,3] Operational Customs officers
+with a total weight of about 1.3 tonnes. [@1,3,5] Operational Customs officers
 decided to inspect the Polish carrier's truck thoroughly after scanning its
-contents with an inspection-and-screening complex. [@2] Belarusian and Russian
+contents with an inspection-and-screening complex. [@2,6] Belarusian and Russian
 customs officers then carried out joint follow-up operational-search measures
-because the load was to proceed to Russia after clearance. [@1,3] Officers
+because the load was to proceed to Russia after clearance. [@1,3,5] Officers
 identified and detained members of an international criminal group who are
-citizens of the European Union, Belarus, Russia and Moldova. [@1,3,4] Belarusian
+citizens of the European Union, Belarus, Russia and Moldova. [@1,3,4,5] Belarusian
 Operational Customs and Russia's Federal Customs Service opened criminal
-smuggling cases carrying up to 20 years' imprisonment. [@2,3,4]
+smuggling cases carrying up to 20 years' imprisonment. [@2,3,4,6]
 
 The smugglers declared the load as mineral water and placed several dozen real
-water bottles in the truck as cover. [@1,3] The truck held 8,000 briquettes
+water bottles in the truck as cover. [@1,3,6] The truck held 8,000 briquettes
 containing 915 kg of hashish, the separately supported cannabis component
-recorded here. [@1,3,4] The same truck held 50 boxes containing 367 kg of
-mephedrone, which is left out of cannabis figures. [@2,3,4] Searches of the detained
+recorded here. [@1,3,4,6] The same truck held 50 boxes containing 367 kg of
+mephedrone, which is left out of cannabis figures. [@2,3,4,6] Searches of the detained
 suspects seized about 5 kg more of hashish and mephedrone combined, which cannot
-be separated by substance. [@1]
+be separated by substance. [@1,5]
 
 Customs described the seizure as the largest international drug and psychotropic
-supply in the history of sovereign Belarus. [@2,4] Specialists valued the combined
+supply in the history of sovereign Belarus. [@2,4,6] Specialists valued the combined
 seized shipment at about 62 million United States dollars on the black market.
-[@1,3,4] Authorities said the combined quantity would have yielded almost 2,933,000
-single doses. [@1,3]
+[@1,3,4,5] Authorities said the combined quantity would have yielded almost 2,933,000
+single doses. [@1,3,6]
