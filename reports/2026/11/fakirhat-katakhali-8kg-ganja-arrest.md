@@ -59,20 +59,28 @@ sources:
     publisher: Bangladesh Bulletine
     date: 2026-11-11
     language: bn
+  - title: ফকিরহাটে আট কেজি গাঁজাসহ মাদককারবারি গ্রেপ্তার
+    url: https://manobkantha.com.bd/post/country/674346
+    publisher: Manobkantha
+    date: 2026-11-11
+    language: bn
+open_questions:
+    - No court date or outcome in the Narcotics Control Act case has been reported.
+    - The reports do not say where the eight kilograms of ganja came from or where it was being taken.
 ---
 
 Khulna's Special Response Battalion arrested 26-year-old Tarek Hossain at
-Katakhali Mor in Fakirhat upazila of Bagerhat. [@1,2,3] The operation took place at
+Katakhali Mor in Fakirhat upazila of Bagerhat. [@1,2,3,4] The operation took place at
 around 2:30 at night on Wednesday 11 November after the battalion received
-secret information about drug activity in the Katakhali area. [@1]
+secret information about drug activity in the Katakhali area. [@1,4]
 
 During the raid officers detained Hossain and recovered eight kilograms of ganja
-from his possession. [@1,2,3] The detained man is the son of Md Shah Alam from the
+from his possession. [@1,2,3,4] The detained man is the son of Md Shah Alam from the
 Fazilpur area of Feni Sadar upazila, far from the place of arrest in Bagerhat.
-[@1,3]
+[@1,3,4]
 
 Following the seizure, SRB Deputy Assistant Director and Nayeb Subedar Munsur
 Rahman filed a case against the accused under the Narcotics Control Act at
-Fakirhat Model Police Station, recorded as case number 05. [@1,3] Fakirhat Model
+Fakirhat Model Police Station, recorded as case number 05. [@1,3,4] Fakirhat Model
 Police Station confirmed the case and said the accused was sent to jail custody
-through the Bagerhat court. [@1,3]
+through the Bagerhat court. [@1,3,4] Fakirhat Model Police Station's officer in charge, Md Raziullah Khan, confirmed the arrest and the case. [@4]
