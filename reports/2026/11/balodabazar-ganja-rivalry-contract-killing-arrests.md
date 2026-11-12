@@ -84,11 +84,16 @@ sources:
     publisher: Lalluram
     date: 2026-11-10
     language: hi
+  - title: 'Baloda Bazar Murder Case: गांजा तस्करी में वर्चस्व की जंग! बेटे की हत्या, बदला के लिए दी गई सुपारी?'
+    url: https://mpcg.ndtv.in/videos/baloda-bazar-murder-case-clash-over-marijuana-smuggling-dominance-leads-to-son-s-killing-and-alleged-1189656
+    publisher: NDTV MP Chhattisgarh
+    date: 2026-11-11
+    language: hi
 ---
 
 Police in Chhattisgarh's Balodabazar district arrested five people and detained
 two minors over the killing of a young man whose body was found on a lonely
-forest track in the Baya police station area. [@1,4,5,6] One adult accused was identified as 47-year-old Amarjeet Singh Soni of Durg. [@6] One adult accused was identified as 19-year-old Rahul Das Manikpuri of Durg. [@6] One adult accused was identified as 18-year-old Raj Yadav alias Sai of Durg. [@6] One adult accused was identified as 24-year-old Syed Altaf Ali alias Farzan of Mova, Pandri, Raipur. [@6] One adult accused was identified as 22-year-old Mohammad Anas Asrafi of Mova, Pandri, Raipur. [@6]
+forest track in the Baya police station area. [@1,4,5,6,7] One adult accused was identified as 47-year-old Amarjeet Singh Soni of Durg. [@6] One adult accused was identified as 19-year-old Rahul Das Manikpuri of Durg. [@6] One adult accused was identified as 18-year-old Raj Yadav alias Sai of Durg. [@6] One adult accused was identified as 24-year-old Syed Altaf Ali alias Farzan of Mova, Pandri, Raipur. [@6] One adult accused was identified as 22-year-old Mohammad Anas Asrafi of Mova, Pandri, Raipur. [@6]
 
 A young man's body was found on 31 October 2026 on the lonely forest stretch
 between Murumdih and Raytum villages in the Baya police station area, with knife
@@ -97,16 +102,16 @@ wounds and, at first, no identification. [@3,5,6]
 Forensic examination and digital leads identified the dead man as Karan Dongre.
 [@2] The Haribhoomi account says the dead man and the arrested men were all
 involved in the illegal ganja trade, and that Soni's son Shiva was killed in
-October 2026. [@2,6] The man who allegedly ordered the killing was named as Amarjeet Singh Soni, who police say conspired to kill Karan Dongre to avenge the October killing of his son Shiva. [@5,6] Police said the accused lured the man from the Sambalpur area
+October 2026. [@2,6,7] The man who allegedly ordered the killing was named as Amarjeet Singh Soni, who police say conspired to kill Karan Dongre to avenge the October killing of his son Shiva. [@5,6] Police said the accused lured the man from the Sambalpur area
 with a promise of work, drove him to the forest in two cars and stabbed him,
 then stripped the body to hide his identity. [@2,5] Both vehicles reached the Patewa area together before the accused took the youth into the deserted forest of the Baya outpost area and stabbed him to death. [@5]
 
 Haribhoomi reports that police checked footage from more than 1,000 CCTV cameras
-and used AI technology in the investigation. [@2,6] The police network behind the
+and used AI technology in the investigation. [@2,6,7] The police network behind the
 killing stretched from Raipur to Durg, and Haribhoomi says accused men from
 those districts were arrested with Durg police's help. [@2] Police seized the
 knife used in the killing, a Kia car, a WagonR car and a scooter. [@2,6] The seized WagonR bore registration CG 07 CE 3638 and the seized KIA bore registration CG 04 QB 5060. [@6] The five
 adults were being produced in court and the two minors before the Juvenile
 Justice Board on 9 November 2026. [@2]
 
-The case was registered at Baya police outpost as crime number 101/2026. [@4] The FIR was filed under sections 103(1), 238(a), 61(2) and 249 of the Bharatiya Nyaya Sanhita, India's criminal code, and sections 25 and 27 of the Arms Act. [@4] Superintendent of police Gaurav Rai directed the investigation, additional superintendent Khoman Sinha supervised it and a special team was formed under deputy superintendent Kaushal Kishore Vasanik of the Kasdol camp. [@4] Police identified the dead man as Karan Dongre, known as KP, aged 20, from digital traces and coordination between district police forces. [@4] Police said the first accused was traced through the cars' movements and, after questioning him, found the others hiding in an area of Durg city, where a Balodabazar-Bhatapara police team camped and, with Durg district police, surrounded and arrested them. [@4] A police release said those arrested already faced serious cases including murder and narcotics trafficking. [@4]
+The case was registered at Baya police outpost as crime number 101/2026. [@4] The FIR was filed under sections 103(1), 238(a), 61(2) and 249 of the Bharatiya Nyaya Sanhita, India's criminal code, and sections 25 and 27 of the Arms Act. [@4] Superintendent of police Gaurav Rai directed the investigation, additional superintendent Khoman Sinha supervised it and a special team was formed under deputy superintendent Kaushal Kishore Vasanik of the Kasdol camp. [@4] Police identified the dead man as Karan Dongre, known as KP, aged 20, from digital traces and coordination between district police forces. [@4,7] Police said the first accused was traced through the cars' movements and, after questioning him, found the others hiding in an area of Durg city, where a Balodabazar-Bhatapara police team camped and, with Durg district police, surrounded and arrested them. [@4] A police release said those arrested already faced serious cases including murder and narcotics trafficking. [@4]
