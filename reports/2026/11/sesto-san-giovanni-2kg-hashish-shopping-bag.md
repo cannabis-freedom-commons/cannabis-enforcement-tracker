@@ -102,6 +102,11 @@ sources:
     publisher: Milano Notizie
     date: 2026-11-11
     language: it
+  - title: 'Sesto San Giovanni, due chili di hashish nel sacchetto della spesa: arrestato 48enne'
+    url: https://www.ilgazzettinometropolitano.it/2026/11/11/sesto-san-giovanni-65/
+    publisher: Il Gazzettino Metropolitano
+    date: 2026-11-11
+    language: it
 open_questions:
     - Milano Notizie dates the arrest to 11 November 2026, while the other accounts give no separate day and describe the stop as happening in recent days; the report keeps 11 November as the publication date.
     - The hashish weight is given as about two kilograms and the marijuana as about 50 grams, so the 2.05 kg total is approximate.
@@ -113,19 +118,19 @@ open_questions:
 
 State Police arrested a 48-year-old Italian man with previous convictions in
 Sesto San Giovanni, in the Milan area, on a charge of holding drugs for dealing.
-[@1,3,4,5,6,7,8] Officers of the investigative squad at the Sesto San Giovanni police
+[@1,3,4,5,6,7,8,10] Officers of the investigative squad at the Sesto San Giovanni police
 station had been watching closely packed public-housing blocks that police said
 held a high concentration of people with criminal records. [@1,4,5,6,7,9] Police said the
 area was marked by a high concentration of people with criminal records. [@1]
-During those checks they found the man near his home. [@1,3,4,5,6,7,8,9]
+During those checks they found the man near his home. [@1,3,4,5,6,7,8,9,10]
 
 He was carrying about two kilograms of hashish, split into several packages
-inside an ordinary shopping bag, and a sum of cash. [@1,3,4,5,6,7,8,9] A later search of
-premises under his control found another 50 grams of marijuana. [@1,3,4,5,6,7,8,9] Police
+inside an ordinary shopping bag, and a sum of cash. [@1,3,4,5,6,7,8,9,10] A later search of
+premises under his control found another 50 grams of marijuana. [@1,3,4,5,6,7,8,9,10] Police
 seized the hashish, the marijuana and the cash. [@1]
 
 The file was sent to the public prosecutor's office at the Monza court for
 validation of the arrest. [@1,3,5,6,7,9] The judicial authority validated the arrest and,
 at the end of a fast-track hearing, ordered the suspect to report to the
-judicial police. [@1,3,4,5,6,7,8,9] The case remains in the preliminary investigation, and
+judicial police. [@1,3,4,5,6,7,8,9,10] The case remains in the preliminary investigation, and
 guilt can be established only by a final conviction. [@2]
