@@ -58,6 +58,11 @@ sources:
     publisher: Polizei Köln
     date: 2026-11-11
     language: de
+  - title: 'Razzia gegen mutmaßliche Kokain-Dealer: 24-Jähriger versucht Flucht über mehrere Balkone'
+    url: https://polizei.news/2026/11/11/razzia-gegen-mutmassliche-kokain-dealer-24-jaehriger-versucht-flucht-ueber-mehrere-balkone/
+    publisher: Polizei.news
+    date: 2026-11-11
+    language: de
 open_questions:
   - No charges have been announced against the five men and no court date has been set.
   - The reports do not say whether the 300 grams of marijuana were intended for sale or for personal use, or whether any suspect faces a cannabis-related charge.
@@ -67,20 +72,19 @@ open_questions:
 ---
 
 Plain-clothes officers of the Cologne police arrested five suspected cocaine
-dealers on the morning of 10 November 2026. [@1] The five men, aged 21, 21, 22,
+dealers on the morning of 10 November 2026. [@1,3] The five men, aged 21, 21, 22,
 24 and 39, were arrested when officers searched their apartments with court
-warrants around 6 am. [@1] One of them, the 24-year-old, tried to escape over
-several balconies but was caught. [@1]
+warrants around 6 am. [@1,3] One of them, the 24-year-old, tried to escape over
+several balconies but was caught. [@1,3]
 
 The searches turned up about 300 grams of marijuana, around 600 grams of cocaine
-and about €20,000 in cash, police said. [@1] Officers also confiscated a car and
+and about €20,000 in cash, police said. [@1,3] Officers also confiscated a car and
 several mobile phones, which were to be evaluated in the continuing
 investigation. [@1]
 
 The operation was carried out by officers from the police's Projekt Fokus
 Sicherheit. [@2] A special prosecutor at the Cologne public prosecutor's office
-obtained the search warrants after intensive investigations. [@2] Police suspect
-the group ran a brisk cocaine trade in the area of Cologne's Südstadt. [@1] The
+obtained the search warrants after intensive investigations. [@2,3] Police suspect
+the group ran a brisk cocaine trade in the area of Cologne's Südstadt. [@1,3] The
 authorities described the arrests and seizures as a blow against the suspected
 cocaine trade there, and said the investigation continues. [@1]
-
