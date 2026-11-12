@@ -107,8 +107,11 @@ sources:
     publisher: CBCテレビ
     date: 2026-11-12
     language: ja
-open_questions:
-  - 'Accounts differ on the age of the youngest person taken to hospital: this CBC article says one and a half, while earlier reports used for the existing text say one.'
+  - title: 大麻使用の疑いで火元の住民逮捕 岐阜市12人搬送のアパート火災 火事との関連を捜査
+    url: https://locipo.jp/article/feeacdf3-3cd0-439e-a730-0bdcec86173b
+    publisher: Locipo（ロキポ）
+    date: 2026-11-11
+    language: ja
 ---
 
 A fire broke out in a three-storey apartment building in Kita-Isshiki, Gifu, in
@@ -123,9 +126,9 @@ ground-floor room where the fire started was not injured. [@1] The fire was brou
 Gifu Chuo Police Station arrested that resident, a 43-year-old unemployed
 Turkish man, on 11 November on suspicion of violating the Narcotics Control Law
 by using cannabis. [@1,4,7,8,11,12,15] Police named the arrested man as Komur Gokhan (コムル・ギョクハン), a 43-year-old unemployed Turkish national. [@6,7,9,13,14] Police said he was suspected of using cannabis between
-early August and 11 November. [@1,4,5,7,8,13,14] The suspicion arose during the fire
+early August and 11 November. [@1,4,5,7,8,13,14,17] The suspicion arose during the fire
 investigation: officers found his behaviour suspicious, tested his urine and
-detected cannabis components. [@1,6,7,9,13,14] Questioned by investigators, he admitted the suspicion. [@5,6,7,8,9,13,14,16]
+detected cannabis components. [@1,6,7,9,13,14] Questioned by investigators, he admitted the suspicion. [@5,6,7,8,9,13,14,16,17]
 
 Police said they are investigating whether the cannabis use is connected to the
-fire. [@1,4,5,6,7,8,9,10,11,13,14,16] Police said they are also investigating how he obtained the cannabis and his motive. [@5,13]
+fire. [@1,4,5,6,7,8,9,10,11,13,14,16,17] Police said they are also investigating how he obtained the cannabis and his motive. [@5,13]
