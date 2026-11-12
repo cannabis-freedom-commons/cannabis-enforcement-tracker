@@ -61,31 +61,35 @@ sources:
     publisher: Agora MT
     date: 2026-11-11
     language: pt
+  - title: Motorista é preso no Mato Grosso com 170 kg de skunk escondidos em máquina de sorvete com origem em Rondônia
+    url: https://diariodaamazonia.com.br/noticia/5/454658/motorista-e-preso-no-mato-grosso-com-170-kg-de-skunk-escondidos-em-maquina-de-sorvete-com-origem-em-rondonia
+    publisher: Diário da Amazônia
+    date: 2026-11-11
+    language: pt
 open_questions:
-  - The weight is given as about 170 kg, not as an exact scale reading, and G1's headline says more than 170 kg.
-  - Neither account says whether the driver was arrested or charged at this stop.
-  - The tablets are described as a substance similar to skunk, and no laboratory result is given.
-  - The same day's coverage also describes a separate seizure of about 31 kg hidden in a pickup at km 370 of BR-070 in Campo Verde, where the driver was arrested; that stop is not included here.
+    - The weight is given as about 170 kg, not as an exact scale reading, and G1's headline says more than 170 kg.
+    - Diário da Amazônia says the driver was arrested, but no account says whether he was charged.
+    - Earlier sources describe the tablets as a substance similar to skunk, while Diário da Amazônia calls them skunk, and no laboratory result is given.
+    - The same day's coverage also describes a separate seizure of about 31 kg hidden in a pickup at km 370 of BR-070 in Campo Verde, where the driver was arrested; that stop is not included here.
 ---
 
 On the night of Tuesday 10 November 2026, a Federal Highway Police team seized a
 load of about 170 kg of skunk at kilometre 211 of the BR-364 in Rondonópolis,
-Mato Grosso. [@2] The drug was hidden inside an ice cream machine being carried
-in a box truck. [@2] The stop came at about 21:30 during a routine check, when
+Mato Grosso. [@2,3] The drug was hidden inside an ice cream machine being carried
+in a box truck. [@2,3] The stop came at about 21:30 during a routine check, when
 officers halted a yellow Mercedes-Benz truck with only the driver in the cab.
 [@2] The driver said he was hauling household moves and parcels from Rio Branco,
 in Acre, and from Porto Velho, in Rondônia, for delivery to several
-destinations. [@2] Rondonópolis, where the truck was stopped, is about 218 km
+destinations. [@2,3] Rondonópolis, where the truck was stopped, is about 218 km
 from Cuiabá. [@1]
 
 During the inspection a sniffer dog indicated that drugs might be in the cargo
-compartment, and specifically in the ice cream machine. [@2] After the officers
+compartment, and specifically in the ice cream machine. [@2,3] After the officers
 removed the machine and took it apart, they found 162 tablets of a substance
-similar to skunk, weighing about 170 kg. [@1] Police said the papers the driver
+similar to skunk, weighing about 170 kg. [@1,3] Police said the papers the driver
 showed indicated that the machine had been sent from Porto Velho to Aparecida de
-Goiânia, in Goiás. [@1]
+Goiânia, in Goiás. [@1,3]
 
 The driver presented the transport documents to the officers. [@2] The case,
 together with the seized drug, was sent to the Federal Police in Rondonópolis,
-which was left to carry out the legal steps. [@2]
-
+which was left to carry out the legal steps. [@2] The driver was arrested and sent on with the seized drug for the legal steps. [@3]
