@@ -59,6 +59,11 @@ sources:
     publisher: La Voz de la Región
     date: 2026-11-11
     language: es
+  - title: INCAUTAN 87 KILOS DE MARIHUANA EN OPERATIVO MILITAR ENTRE HUILA Y CAQUETÁ
+    url: https://jeanoticias.com/incautan-87-kilos-de-marihuana-en-operativo-militar-entre-huila-y-caqueta/
+    publisher: Jeanoticias
+    date: 2026-11-11
+    language: es
 open_questions:
     - No separate date for the checkpoint was published; 11 November 2026 is the publication date of the accounts and is used as the incident date.
     - The judicial outcome for the two men was not reported.
@@ -74,11 +79,11 @@ media:
 
 Soldiers of Mountain Infantry Battalion No. 9, attached to the Ninth Brigade of
 the Colombian National Army, captured two men and seized 87 kilograms of
-marijuana in the rural area of San Vicente del Caguán, Caquetá. [@1,3] The men
-were carrying the drug on two motorcycles. [@1,3] The procedure took place at a
-checkpoint the battalion had set up in the sector of Balsillas. [@1,3] The two men
+marijuana in the rural area of San Vicente del Caguán, Caquetá. [@1,3,4] The men
+were carrying the drug on two motorcycles. [@1,3,4] The procedure took place at a
+checkpoint the battalion had set up in the sector of Balsillas. [@1,3,4] The two men
 were caught in the act and, together with the motorcycles and the seized
-substance, were left at the disposal of the competent authorities. [@1] The men were handed to the judicial authorities for hearings to legalise their arrests and to bring charges of trafficking, manufacturing or possession of narcotics. [@3]
+substance, were left at the disposal of the competent authorities. [@1,4] The men were handed to the judicial authorities for hearings to legalise their arrests and to bring charges of trafficking, manufacturing or possession of narcotics. [@3,4]
 
 According to the military account, the soldiers signalled the riders to stop
 and, on inspecting the motorcycles, found the marijuana being moved along that
@@ -86,7 +91,7 @@ road corridor. [@1] A further account of the same checkpoint said the soldiers
 ordered the two motorcycles to stop and found several packages of a plant
 substance corresponding to marijuana. [@2] The Army estimated that the 87
 kilograms had a commercial value of about 160 million pesos and represented
-about 174,000 doses that would not reach the illegal market. [@1,3] It said the
+about 174,000 doses that would not reach the illegal market. [@1,3,4] It said the
 seizure hit the finances of networks dedicated to drug trafficking by stopping a
 load that was allegedly destined for sale. [@1]
 
