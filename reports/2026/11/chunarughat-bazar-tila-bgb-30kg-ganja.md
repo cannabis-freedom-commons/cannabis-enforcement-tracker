@@ -41,6 +41,11 @@ media:
     media_url: https://www.jaijaidin.news/2026/11/11/jjd_124.1794408989.JPG
     publisher: Daily Jaijaidin
     caption: 'Members of the Habiganj Battalion (55 BGB) with the seized contraband, including beer cartons and blankets, displayed behind the battalion''s sign. Photo: Jaijaidin'
+  - kind: photo
+    url: https://www.bd-bulletin.com/country/12527
+    media_url: https://www.bd-bulletin.com/assets/news_photos/2026/11/12/image-12527-1794461502.webp
+    publisher: Bangladesh Bulletine
+    caption: 'The seized Indian ganja, beer bottles and other smuggled goods after the BGB operations in Habiganj. Photo: Bangladesh Bulletine'
 status: verified
 created_by_model: alibaba-token-plan/qwen4-max-preview
 submission: c3d1136794ab6f598548cb58784a3734
@@ -61,6 +66,11 @@ sources:
     publisher: Dhaka Today
     date: 2026-11-11
     language: bn
+  - title: হবিগঞ্জে ৩০ কেজি গাঁজা ও বিয়ারসহ ৪৫ লাখ টাকার ভারতীয় পণ্য জব্দ
+    url: https://www.bd-bulletin.com/country/12527
+    publisher: Bangladesh Bulletine
+    date: 2026-11-12
+    language: bn
 open_questions:
   - No arrests or charges were reported, and the owners of the ganja were not identified.
   - No separate value was published for the 30 kg of ganja; the 4,540,250 taka total is BGB's estimate for all four operations, including beer, blankets and henna.
@@ -70,23 +80,22 @@ open_questions:
 
 Acting on a tip-off, a special patrol team of the Satchari border outpost (BOP),
 under the Habiganj Battalion (55 BGB), raided the Bazar Tila area of Chunarughat
-upazila in Habiganj district on the night of Tuesday 10 November 2026. [@1] The
+upazila in Habiganj district on the night of Tuesday 10 November 2026. [@1,4] The
 patrol seized 30 kg of Indian ganja and one bottle of Indian beer, found without
-an owner. [@1]
+an owner. [@1,4]
 
 The ganja seizure was one of four separate operations Border Guard Bangladesh
-(BGB) carried out in the district's border areas that day. [@2] The same day,
+(BGB) carried out in the district's border areas that day. [@2,4] The same day,
 another patrol from the Teliapara BOP seized 28 bottles of Indian beer in the
-Banduria area of Madhabpur upazila. [@1] Two further operations at the
+Banduria area of Madhabpur upazila. [@1,4] Two further operations at the
 Muktijoddha Chattar square and the Chandichhara Mazar shrine in Madhabpur
-upazila seized large quantities of illegal Indian blankets and henna. [@1]
+upazila seized large quantities of illegal Indian blankets and henna. [@1,4]
 
 BGB put the seizure value of the blankets and henna from those two operations at
-4,428,000 taka. [@2] BGB estimated the market value of all the contraband seized
-across the four operations at 4,540,250 taka. [@2] The seized narcotics and
+4,428,000 taka. [@2,4] BGB estimated the market value of all the contraband seized
+across the four operations at 4,540,250 taka. [@2,4] The seized narcotics and
 other illegal goods were being handed over to the Department of Narcotics
-Control and the customs authorities through the legal process. [@1] The
+Control and the customs authorities through the legal process. [@1,4] The
 battalion's commanding officer, Lieutenant Colonel Md. Tanzilur Rahman, said
 regular patrols and special operations would continue to secure the border,
-control drugs and prevent smuggling. [@3]
-
+control drugs and prevent smuggling. [@3,4]
