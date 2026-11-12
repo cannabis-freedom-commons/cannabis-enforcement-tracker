@@ -88,23 +88,32 @@ sources:
     publisher: Espacemanager
     date: 2026-11-11
     language: fr
+  - title: 'سوسة: القبض على جزائري ينشط في تجارة المخدرات'
+    url: https://a5r5br.net/tunis/local-news/8473588-%D8%B3%D9%88%D8%B3%D8%A9-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%8A%D9%86%D8%B4%D8%B7-%D9%81%D9%8A-%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA
+    publisher: آخر خبر
+    date: 2026-11-11
+    language: ar
+open_questions:
+    - No weight was published for the cannabis, the cocaine or the tablets, so the cannabis quantity is unknown and the mixed seizure cannot be split.
+    - No charge or court outcome has been reported beyond the Ben Arous prosecutor's authorisation of legal procedures.
+    - The reports name none of the three suspects and give no ages.
 ---
 
 National Guard officers in Mohamedia arrested two men and a woman after
-uncovering what a security source called a criminal agreement. [@1,4,5,8,9,10] The Research
+uncovering what a security source called a criminal agreement. [@1,4,5,8,9,10,11] The Research
 and Inspection Brigade of the National Guard region in Mohamedia, in the Ben
-Arous district of the National Guard, carried out the operation. [@1,10] A security
+Arous district of the National Guard, carried out the operation. [@1,10,11] A security
 source gave the account to the Tunis Afrique Presse agency, and outlets
-published it on Wednesday 11 November 2026. [@1,9]
+published it on Wednesday 11 November 2026. [@1,9,11]
 
 Officers seized about 7,000 drug tablets of various kinds, a quantity of cocaine
 and a quantity of Indian hemp, the term used for cannabis, during the same
-operation. [@1,4,6,8,9,10] They also seized Tunisian currency approaching 25,000 dinars,
-the security source said. [@1,4,7,8,9,10] Nessma, also citing the Tunis Afrique Presse
+operation. [@1,4,6,8,9,10,11] They also seized Tunisian currency approaching 25,000 dinars,
+the security source said. [@1,4,7,8,9,10,11] Nessma, also citing the Tunis Afrique Presse
 agency, reported the same Mohamedia seizure of about 7,000 tablets, cocaine and
 Indian hemp, plus cash approaching 25,000 dinars. [@3]
 
 The public prosecutor's representative in Ben Arous reviewed the file and
-ordered that legal procedures be taken against the three. [@1,4,7,8,9,10] Al Chourouk,
+ordered that legal procedures be taken against the three. [@1,4,7,8,9,10,11] Al Chourouk,
 citing the Tunis Afrique Presse agency, published the same account that day,
 including the arrest of two men and a woman and the seizure of Indian hemp. [@2]
