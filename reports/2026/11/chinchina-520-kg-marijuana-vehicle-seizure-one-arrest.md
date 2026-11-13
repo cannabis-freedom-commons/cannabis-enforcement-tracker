@@ -112,15 +112,17 @@ sources:
     publisher: Caracol Radio
     date: 2026-11-12
     language: es
+  - title: كولومبيا تعلن ضبط 358 كيلوغراما من الكوكايين في حاوية كانت متجهة إلى طرابلس - صحيفة اخبارنا
+    url: https://www.akhbrna.ae/news/kwlwmbya-taln-dbt-358-kylwghrama/
+    publisher: صحيفة اخبارنا
+    date: 2026-11-09
+    language: ar
 media:
   - kind: video
     url: https://x.com/Policia_Caldas/status/2119873943276339418
     media_url: https://pbs.twimg.com/amplify_video_thumb/2119872848760029184/img/kBYVvvtzhyGIjxYp?format=webp&name=medium
     publisher: Departamento de Policía Caldas
     caption: 'Police video published with the announcement of the 520-kilogram marijuana seizure and the arrest of the 32-year-old driver in Chinchiná. Video: Departamento de Policía Caldas'
-open_questions:
-    - 'The department the load came from is reported inconsistently: Cauca in some accounts and Valle del Cauca in others.'
-    - No separate date for the procedure was published, so the incident date rests on the publication dates.
 ---
 
 Colombian police intercepted a vehicle in the urban area of Chinchiná, Caldas,
@@ -134,8 +136,8 @@ Cauca bound for Medellín. [@3,4,5] President Abelardo de la Espriella announced
 Chinchiná seizure and a second operation at the port of Cartagena. [@1] The load was valued by police at more than 300 million pesos on the illegal market. [@6]
 
 The government presented the two hauls as 878 kilograms in total, of which 520
-were marijuana and 358 cocaine. [@1,9,10,11,13]
+were marijuana and 358 cocaine. [@1,9,10,11,13,15]
 
-For the whole pair of operations the authorities reported one person arrested, in the Caldas procedure. [@2] The Cartagena operation, named Estrategia Esmeralda, found the cocaine inside two electricity generators carried in a shipping container. [@2,11,13] Police said the cocaine container had come from Panama and was bound for Tripoli. [@13]
+For the whole pair of operations the authorities reported one person arrested, in the Caldas procedure. [@2] The Cartagena operation, named Estrategia Esmeralda, found the cocaine inside two electricity generators carried in a shipping container. [@2,11,13,15] Police said the cocaine container had come from Panama and was bound for Tripoli. [@13,15]
 
 After a cordon-and-search plan, known in Colombia as a plan candado, patrols intercepted the vehicle in the La Paz neighbourhood. [@6,12] A search of the vehicle found 111 plastic-wrapped parcels containing the marijuana. [@6,12]
