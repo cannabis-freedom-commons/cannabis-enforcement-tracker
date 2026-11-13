@@ -93,6 +93,11 @@ sources:
     publisher: CO Notizie
     date: 2026-11-13
     language: it
+  - title: Si fa consegnare 13 chili di marijuana con il corriere, arrestato nel Milanese
+    url: https://www.ilgiornaledivicenza.it/news/italia/si-fa-consegnare-13-chili-di-marijuana-con-il-corriere-arrestato-nel-milanese-7.9337351
+    publisher: Il Giornale di Vicenza
+    date: 2026-11-13
+    language: it
 open_questions:
     - The accounts give no separate date for the controlled delivery and arrest; 13 November 2026 is their publication date.
     - No court outcome for the arrested man had been reported.
@@ -100,9 +105,9 @@ open_questions:
 
 Milan State Police arrested a 23-year-old Italian man for alleged possession of
 drugs for dealing and seized 13 kg of marijuana shipped inside two large packing
-boxes. [@2,4,6,9] An officer disguised himself as a courier to make the delivery, and
+boxes. [@2,4,6,9,10] An officer disguised himself as a courier to make the delivery, and
 the young man was arrested after signing the handheld device to take the
-parcels. [@1,7,8]
+parcels. [@1,7,8,10]
 
 Rho-Pero police acted after a shipping-company worker in the Rho area reported a
 strong marijuana smell coming from two large parcels. [@2,5,6,7,9] Inside the parcels
