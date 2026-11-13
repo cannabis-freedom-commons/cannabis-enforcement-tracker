@@ -48,26 +48,24 @@ sources:
     publisher: Sabah
     date: 2026-11-12
     language: tr
-open_questions:
-  - The reports give no separate date for the bus stop and search; 12 November 2026 is the publication date and is used as the incident date.
-  - The accounts do not say whether the esrar was dried herbal cannabis or pressed resin.
-  - No value estimate for the seized cannabis was published.
-  - No charges, court date or outcome were reported for the detained suspect.
-  - The suspect is identified only by the initials İ.K., and no full name was released.
+  - title: Şanlıurfa'da otobüste uyuşturucu madde ele geçirildi
+    url: https://www.haber365.com/haber/sanliurfada-otobuste-uyusturucu-madde-ele-gecirildi-483508
+    publisher: Haber365
+    date: 2026-11-12
+    language: tr
 ---
 
 Şanlıurfa provincial gendarmerie teams stopped a passenger bus on the
 Diyarbakır-Şanlıurfa highway in Karaköprü district during an operation against
-narcotics. [@1] A detector dog supported the search of the bus's luggage
-compartment. [@2]
+narcotics. [@1,3] A detector dog supported the search of the bus's luggage
+compartment. [@2,3]
 
 A search of a suitcase belonging to a passenger identified by his initials İ.K.
-found 1 kilogram 467 grams of esrar, the Turkish term for cannabis. [@1] Sabah
+found 1 kilogram 467 grams of esrar, the Turkish term for cannabis. [@1,3] Sabah
 reported the same seizure of 1 kilogram 467 grams of esrar from the passenger's
 suitcase. [@2]
 
 The suspect was taken into custody and held by gendarmerie teams pending
-referral to judicial authorities. [@1] The Şanlıurfa provincial gendarmerie
+referral to judicial authorities. [@1,3] The Şanlıurfa provincial gendarmerie
 command said its work against narcotics would continue without interruption.
 [@1]
-
