@@ -107,19 +107,27 @@ sources:
     publisher: آخر خبر
     date: 2026-11-09
     language: ar
+  - title: Las autoridades en Caldas incautan más de media tonelada de marihuana avaluada en $ 300 millones
+    url: https://caracol.com.co/2026/11/12/las-autoridades-en-caldas-incautan-mas-de-media-tonelada-de-marihuana-avaluada-en-300-millones/
+    publisher: Caracol Radio
+    date: 2026-11-12
+    language: es
 media:
   - kind: video
     url: https://x.com/Policia_Caldas/status/2119873943276339418
     media_url: https://pbs.twimg.com/amplify_video_thumb/2119872848760029184/img/kBYVvvtzhyGIjxYp?format=webp&name=medium
     publisher: Departamento de Policía Caldas
     caption: 'Police video published with the announcement of the 520-kilogram marijuana seizure and the arrest of the 32-year-old driver in Chinchiná. Video: Departamento de Policía Caldas'
+open_questions:
+    - 'The department the load came from is reported inconsistently: Cauca in some accounts and Valle del Cauca in others.'
+    - No separate date for the procedure was published, so the incident date rests on the publication dates.
 ---
 
 Colombian police intercepted a vehicle in the urban area of Chinchiná, Caldas,
 carrying 520 kilograms of marijuana and arrested one person caught in the act.
 [@2,5,6,12] During the procedure one person was captured in flagrante delicto. [@2,5]
 Officers also immobilised the vehicle, whose identification systems had been
-altered. [@2,5,6,8] The man was handed to the judicial authorities and is to answer for the alleged crime of trafficking, manufacturing or carrying narcotics. [@6] A check of judicial information systems found the detainee had an investigative annotation as an alleged firearms manufacturing, trafficking or possession offender. [@12] The Caldas police department announced the arrest of the 32-year-old man and the seizure of the vehicle. [@7] Officers first tried to stop the vehicle near Chinchiná's main park during prevention and control work, but the driver ignored the order and fled. [@6]
+altered. [@2,5,6,8] The altered identification systems led police to presume the vehicle might have been stolen. [@14] A mobile phone was also seized during the search. [@14] The man was handed to the judicial authorities and is to answer for the alleged crime of trafficking, manufacturing or carrying narcotics. [@6] A check of judicial information systems found the detainee had an investigative annotation as an alleged firearms manufacturing, trafficking or possession offender. [@12] The Caldas police department announced the arrest of the 32-year-old man and the seizure of the vehicle. [@7] Officers first tried to stop the vehicle near Chinchiná's main park during prevention and control work, but the driver ignored the order and fled. [@6,14]
 
 In his own statement the president said the marijuana had left the department of
 Cauca bound for Medellín. [@3,4,5] President Abelardo de la Espriella announced the
