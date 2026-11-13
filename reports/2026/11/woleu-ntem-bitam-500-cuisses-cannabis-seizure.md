@@ -39,6 +39,11 @@ media:
     media_url: https://www.gabonreview.com/wp-content/uploads/2026/11/Woleu.jpg
     publisher: Gabonreview.com
     caption: 'A view of the seized cannabis cargo. Credit: © GabonReview (screenshot)'
+  - kind: photo
+    url: https://www.union.sonapresse.com/fr/woleu-ntem-un-reseau-transfrontalier-demantele-avec-pres-de-500-cuisses-de-cannabis
+    media_url: https://www.union.sonapresse.com/sites/default/files/articles/500_cuisses_de_cannabis_Saisis_LUnionga_Gabon.webp
+    publisher: L'Union
+    caption: 'Part of the cannabis stock seized in the joint security forces operation, in the photo published with the L''Union account. Photo: L''Union'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 757a2bca6d9768d31ff4c1f600bec511
@@ -49,39 +54,44 @@ sources:
     publisher: Gabonreview.com
     date: 2026-11-10
     language: fr
+  - title: 'Woleu-Ntem : un réseau transfrontalier démantelé avec près de 500 cuisses de cannabis'
+    url: https://www.union.sonapresse.com/fr/woleu-ntem-un-reseau-transfrontalier-demantele-avec-pres-de-500-cuisses-de-cannabis
+    publisher: L'Union
+    date: 2026-11-12
+    language: fr
 open_questions:
-  - The article gives no separate date for the operation; 10 November 2026 is its publication date and is used as the incident date.
-  - No total number of detained suspects was published, so no arrest figure is recorded.
-  - No weight in kilograms was published for the nearly 500 cannabis bundles, so no kilogram figure is recorded.
-  - The 16 million CFA franc figure is the authorities' estimate reported for the Oyem side, with no per-bundle breakdown.
-  - No charges, court proceedings or outcomes following the detentions were reported.
-  - The suspected plantation owner who fled was not reported arrested or identified.
+    - The accounts give no separate date for the operation; 10 November 2026, the first publication date, is used as the incident date.
+    - No total number of detained suspects was published, so no arrest figure is recorded.
+    - No weight in kilograms was published for the nearly 500 cannabis bundles, so no kilogram figure is recorded.
+    - The 16 million CFA franc figure is the authorities' estimate reported for the Oyem side, with no per-bundle breakdown.
+    - No charges, court proceedings or outcomes following the detentions were reported.
+    - The suspected plantation owner who fled was still being sought when the accounts were published and was not identified.
+    - Whether the announced extension of the operation to other provinces led to further arrests or seizures was not reported.
 ---
 
 Multiple Gabonese security and intelligence services carried out a special
 operation in Woleu-Ntem province against drug-trafficking and
-clandestine-immigration networks. [@1] The operation involved agents of the
+clandestine-immigration networks. [@1,2] The operation involved agents of the
 Directorate General of Research, the B2, the immigration directorate, the
-Central Anti-Drug Office and the Directorate General of Special Services. [@1]
+Central Anti-Drug Office and the Directorate General of Special Services. [@1,2]
 In the Far-west quarter of Bitam, investigators detained several suspected
 participants including a woman close to 70 who acknowledged selling cannabis for
-17 years and a 22-year-old secondary-school student. [@1]
+17 years and a 22-year-old secondary-school student. [@1,2]
 
 In Bitam, notably in the Méyo-Kyé district, investigators found cannabis
 cultivated, packaged and stored near dwellings inside plantations before sale.
 [@1] Officers discovered two large bales holding more than 453 cannabis bundles,
 while the suspected female owner fled after indirectly acknowledging the facts
-through her son. [@1] Overall, the services seized nearly 500 cannabis bundles
+through her son. [@1,2] Searches continued for the suspected plantation owner. [@2] Overall, the services seized nearly 500 cannabis bundles
 and detained several people suspected of supplying the cross-border distribution
 network. [@1]
 
 Prosecutor Léance Mba Mihindou of the specialized national prosecution office
 said the seizure was valued at about 16 million CFA francs on the Oyem side and
-declared a zero-tolerance policy on narcotics. [@1] Investigators also suspected
+declared a zero-tolerance policy on narcotics. [@1,2] The prosecutor said the operation would continue in other provinces to track the networks where they hide. [@2] Investigators also suspected
 a couple of a Gabonese woman and a Cameroonian man of drug dealing and illicit
 ammunition sales through a circuit linking Méyo-Kyé, Kiossi in Cameroon and
-Equatorial Guinea. [@1] The services said networks had shifted part of their
+Equatorial Guinea. [@1,2] The services said networks had shifted part of their
 activity inland as the Greater Libreville market dried up, and praised
 cooperation from local residents as essential to dismantling the clandestine
 circuits. [@1]
-
