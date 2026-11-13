@@ -42,12 +42,27 @@ sources:
     publisher: Webdo
     date: 2025-10-21
     language: fr
+  - title: Saisie de 400 kg de cannabis dans un port de Sousse
+    url: https://kapitalis.com/tunisie/2025/09/28/saisie-de-400-kg-de-cannabis-dans-un-port-de-sousse/
+    publisher: Kapitalis
+    date: 2025-09-28
+    language: fr
+  - title: 'Tunisie : environ 400 kg de cannabis saisis dans le centre-est du pays (média)'
+    url: https://french.xinhuanet.com/20250928/b24bd8f506f741c795df61d1f3015232/c.html
+    publisher: Xinhua
+    date: 2025-09-28
+    language: fr
+  - title: 'Saisie de 400 kg de cannabis à Sousse : huit personnes placées en détention provisoire'
+    url: https://www.lapresse.tn/2025/10/21/saisie-de-400-kg-de-cannabis-a-sousse-huit-personnes-placees-en-detention-provisoire/
+    publisher: La Presse de Tunisie
+    date: 2025-10-21
+    language: fr
 open_questions:
-  - The detention orders are dated only to late in the week before 21 October 2025; 21 October, the earliest opened account’s publication date for this step, is used as the incident date.
-  - The exact port in Sousse was not identified.
-  - The cannabis weight is approximate, about 400 kg, rather than an exact measured total.
-  - No later court outcome for the eight people is reported; the investigation was ongoing.
-  - 'Left out, as its quotation was not found in Réalités: Several suspects were arrested and questioned as the investigation continued.'
+    - The detention orders are dated only to late in the week before 21 October 2025; 21 October, the earliest opened account's publication date for this step, is used as the incident date.
+    - The exact port in Sousse was not identified.
+    - The cannabis weight is approximate, about 400 kg, rather than an exact measured total.
+    - No later court outcome for the eight people is reported; the investigation was ongoing.
+    - The number of suspects questioned at the time of the September 2025 seizure was not given.
 ---
 
 An investigating judge at the Sousse 1 court of first instance ordered eight
@@ -55,17 +70,16 @@ people into provisional detention in a major drug-trafficking case. [@1] The
 eight were pursued for forming a criminal organization active in Tunisia and
 abroad, importing narcotics for commercial sale, and money laundering. [@1]
 Investigators said they were continuing their inquiries to identify possible
-accomplices in Tunisia and overseas. [@1]
+accomplices in Tunisia and overseas. [@1] About 25 people were heard by investigators in the case. [@5]
 
 The case followed the interception of about 400 kilograms of cannabis resin at
-one of the ports in Sousse. [@2] The National Guard’s central anti-narcotics
+one of the ports in Sousse. [@2,3] The National Guard’s central anti-narcotics
 brigade at El Aouina found the concealed consignment on 27 September 2025 after
-receiving intelligence. [@1] Webdo identified the cannabis resin as zatla, the
+receiving intelligence. [@1] A group of suspects was being questioned about the seizure by the brigade handling the investigation. [@3] Webdo identified the cannabis resin as zatla, the
 local term used for the drug. [@2] The authorities said the operation kept a
-large quantity intended for resale from reaching the local market. [@2]
+large quantity intended for resale from reaching the local market. [@2,4]
 
 Tunisian authorities suspected an organized network with international reach
 that used Tunisian territory as a strategic transit point. [@1] Investigators
 aimed to trace the supply and distribution routes and determine the origin of
 the seized cannabis. [@2]
-
