@@ -94,15 +94,20 @@ sources:
     publisher: Portal Palhoça
     date: 2026-11-11
     language: pt
+  - title: Polícia Militar encontra 420 quilos de maconha dentro de residência em Santa Catarina
+    url: https://clicrdc.com.br/seguranca-publica/policia-militar-encontra-420-quilos-de-maconha-dentro-de-residencia-em-santa-catarina/
+    publisher: ClicRDC
+    date: 2026-11-11
+    language: pt
 ---
 
 Officers of Santa Catarina's Military Police seized about 420 kilograms of a
 substance resembling marijuana from a house used as a drug depot in the Guarda
 do Cubatão area of Palhoça, in Greater Florianópolis, in the early hours of
-Wednesday 11 November 2026. [@2,4,5,6,9] Officers located the drugs inside a residence at about 0:40. [@9] Neighbours had told police the house was
+Wednesday 11 November 2026. [@2,4,5,6,9,10] Officers located the drugs inside a residence at about 0:40. [@9,10] Neighbours had told police the house was
 uninhabited and used only to store drugs, with a large quantity inside. [@3] A
 team from CATE, the special tactical actions company of the BOPE special
-operations battalion, went to the address. [@1,4,6,7] The BOPE intelligence agency carried out the operation jointly with CATE. [@5,8,9]
+operations battalion, went to the address. [@1,4,6,7] The BOPE intelligence agency carried out the operation jointly with CATE. [@5,8,9,10]
 
 From outside, officers smelled a strong odour of marijuana and saw the drugs
 piled up inside through a glass window. [@1] They knocked, but no one answered;
@@ -112,5 +117,5 @@ in red, blue and pink layers. [@1]
 The Military Police described the seizure as an integrated BOPE operation, with
 officers working without interruption to locate the drugs. [@2] All the material
 was loaded into the bed of a police vehicle and taken to the Civil Police
-station in Palhoça, where it was presented to the police authority. [@3,9] The
-Military Police did not say whether anyone had been identified or arrested. [@1,4,5,6,8] The occurrence was registered as a finding of objects related to drugs, the classification the battalion gave the case. [@4]
+station in Palhoça, where it was presented to the police authority. [@3,9,10] The
+Military Police did not say whether anyone had been identified or arrested. [@1,4,5,6,8,10] The occurrence was registered as a finding of objects related to drugs, the classification the battalion gave the case. [@4]
