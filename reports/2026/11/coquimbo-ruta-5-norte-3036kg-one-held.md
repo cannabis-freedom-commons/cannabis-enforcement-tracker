@@ -47,25 +47,29 @@ sources:
     publisher: Radio Riquelme
     date: 2026-11-11
     language: es
-open_questions:
-    - The accounts give no separate date for the procedure; 11 November 2026 is the publication date of the reports.
-    - One account places the check point at the northern access of Coquimbo commune while the others describe the northern access of the Coquimbo Region, and no kilometre is named.
-    - No charge, formalisation or court outcome was reported for the detained driver.
-    - The accounts give no street value for the marijuana and no number of doses.
-    - The accounts appear to reproduce the same Carabineros statement.
-    - The accounts also mention an earlier weekend seizure of almost half a tonne of drugs on Route 5, a separate operation not counted in this report's figures.
+  - title: 'El tigre de los cereales conoció el énfasis: la chistosa presentación de paquetes de marihuana en Coquimbo'
+    url: https://www.lacuarta.com/chile/noticia/el-tigre-de-los-cereales-conocio-el-enfasis-la-chistosa-presentacion-de-paquetes-de-marihuana-en-coquimbo/
+    publisher: La Cuarta
+    date: 2026-11-12
+    language: es
+media:
+  - kind: photo
+    url: https://www.lacuarta.com/chile/noticia/el-tigre-de-los-cereales-conocio-el-enfasis-la-chistosa-presentacion-de-paquetes-de-marihuana-en-coquimbo/
+    media_url: https://www.lacuarta.com/resizer/v2/32QNB6GQ6NG3LKS6TYKUIBSHHA.png?auth=b2c724128de02e4aff2a7f02ebc6d454124bf2c138559ebf9e3570b49b523470&smart=true&width=800&height=450&quality=70
+    publisher: La Cuarta
+    caption: 'Customised video-game-style marijuana package showing a tiger with chains and expensive clothing, the packaging officers described; handout image originally shared by the local outlet El Día. Photo: La Cuarta'
 ---
 
 Carabineros detained a 50-year-old man at a vehicle check on the northern access
-to the Coquimbo Region. [@1,3,4,5] Officers of the Tenencia Carreteras Elqui checked
+to the Coquimbo Region. [@1,3,4,5,6] Officers of the Tenencia Carreteras Elqui checked
 the vehicle and found just over two kilograms of processed marijuana in two oval
-packages known locally as bolones. [@1,3,4,5] Police said the driver had two previous
+packages known locally as bolones. [@1,3,4,5,6] The packages were customised like a video game, bearing an image of a tiger with chains and expensive clothing. [@6] Police said the driver had two previous
 police records, one for maltreatment of Carabineros and one for minor injuries.
 [@2,3,4,5]
 
 Officers of OS7, Carabineros' specialist anti-drug section, were called to the
 sector and found another 28 packages of processed marijuana a short distance
-from the vehicle check. [@1,3,4,5] The operation ended with 30 kilograms 360 grams of
+from the vehicle check. [@1,3,4,5,6] The operation ended with 30 kilograms 360 grams of
 marijuana in 30 packages taken out of circulation. [@2,3,4,5]
 
 Police said the load was travelling towards the centre and south of the country.
