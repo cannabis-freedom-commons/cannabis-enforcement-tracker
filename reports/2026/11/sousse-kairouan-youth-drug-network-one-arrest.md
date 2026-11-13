@@ -36,28 +36,42 @@ sources:
     publisher: Directinfo
     date: 2026-11-12
     language: fr
+  - title: Démantèlement d’un réseau de trafic de drogue opérant entre Sousse et Kairouan
+    url: https://www.lapresse.tn/2026/11/12/demantelement-dun-reseau-de-trafic-de-drogue-operant-entre-sousse-et-kairouan
+    publisher: La Presse de Tunisie
+    date: 2026-11-12
+    language: fr
+  - title: Fin d’un réseau de trafic de drogue entre Sousse et Kairouan
+    url: https://africanmanager.com/demantelement-dun-reseau-specialise-dans-le-trafic-de-drogue-dans-les-milieux-jeunes-entre-sousse-et-kairouan/
+    publisher: African Manager
+    date: 2026-11-12
+    language: fr
+  - title: 'Sousse-Kairouan : Un réseau de trafic de drogue ciblant les milieux jeunes démantelé'
+    url: https://www.webdo.tn/fr/actualite/divers/sousse-kairouan-un-reseau-de-trafic-de-drogue-ciblant-les-milieux-jeunes-demantele/407082/
+    publisher: webdo
+    date: 2026-11-12
+    language: fr
 open_questions:
-  - No weight or unit count was given for the cocaine or for the cannabis, so no cannabis quantity can be recorded for this seizure.
-  - The article dates the operation only as "jeudi à l’aube" (at dawn on Thursday); 12 November 2026, the publication date, is taken as the incident date.
-  - No charge, court date or court outcome was reported for the arrested man.
-  - The account rests on a single communique from the Direction générale de la sûreté nationale relayed by one outlet; no independent second report of the operation was found.
-  - The number of people involved in the network, and how many remain at large, was not stated.
+    - No weight or unit count was given for the cocaine or for the cannabis, so no cannabis quantity can be recorded for this seizure.
+    - No charge, court date or court outcome was reported for the arrested man.
+    - The number of people involved in the network, and how many remain at large, was not stated.
+    - 'The accounts differ on which security force carried out the operation: Directinfo and La Presse de Tunisie credit the Direction générale de la sûreté nationale, while webdo and African Manager credit the Direction générale de la Garde nationale.'
+    - All the published accounts relay the same official security statement, so they are not independent reporting of the raid.
 ---
 
 National security units in Sousse city dismantled at dawn on Thursday a network
-specialising in trafficking narcotics among young people. [@1] The network
+specialising in trafficking narcotics among young people. [@1,2] The operation began at dawn on 12 November 2026. [@2] The network
 operated between the governorates of Sousse and Kairouan, according to a
-communique from the Direction générale de la sûreté nationale. [@1] The
+communique from the Direction générale de la sûreté nationale. [@1,2] The
 operation followed extensive intelligence and field investigation work on the
 ground. [@1] Officers arrested the principal member of the network, described by
-the authorities as dangerous. [@1]
+the authorities as dangerous. [@1,3]
 
 The arrested man was the subject of several wanted notices issued by different
-security units for cases linked to drug trafficking. [@1] Security forces also
-seized a significant quantity of cocaine and of cannabis. [@1] The suspect had
-intended to sell the drugs in discotheques in the region. [@1]
+security units for cases linked to drug trafficking. [@1,4] Security forces also
+seized a significant quantity of cocaine and of cannabis. [@1,3] The suspect had
+intended to sell the drugs in discotheques in the region. [@1,4]
 
 The Direction générale de la sûreté nationale said investigations are continuing
 to identify and arrest the other members of the network and bring them before
-the courts. [@1]
-
+the courts. [@1,2]
