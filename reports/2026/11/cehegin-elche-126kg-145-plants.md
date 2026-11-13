@@ -108,6 +108,11 @@ sources:
     publisher: Andalucía Información
     date: 2026-11-12
     language: es
+  - title: Desarticulada una red de tráfico de marihuana entre Murcia y Alicante con 126 kilos de droga intervenidos
+    url: https://cadenaser.com/murcia/2026/11/12/desarticulada-una-red-de-trafico-de-marihuana-entre-murcia-y-alicante-con-126-kilos-de-droga-intervenidos-radio-murcia/
+    publisher: Cadena SER (Radio Murcia)
+    date: 2026-11-12
+    language: es
 ---
 
 Three people were arrested after a marijuana-trafficking organisation operating
@@ -119,7 +124,7 @@ operation in the municipality of Elche in March. [@1,4,5,6,7]
 
 During surveillance near a rural property, officers stopped a van as it was
 leaving. [@1,4,5,6] In the van they found 126 kilograms of marijuana in rubbish bags
-and raffia sacks, and they arrested the driver, an Albanian man. [@1,4,5,6,7] The
+and raffia sacks, and they arrested the driver, an Albanian man. [@1,4,5,6,7,8] The
 network had assumed the identity of a Ukrainian citizen to sign the leases on
 the property and avoid police action. [@3,4,5,6] The network used several third parties' identities without their knowledge to sign the rental contracts. [@5] The Tax Agency said the suspects were
 also accused of document fraud and usurpation of civil status. [@1,4,5,6]
@@ -129,9 +134,9 @@ Cehegín, in Murcia. [@1,6] A warrant from the civil and investigating section o
 Court of Instance No. 1 in Caravaca de la Cruz authorised a search of a building
 in Cehegín. [@1,4,5,6,7] Officers found 145 flowering marijuana plants and
 indoor-growing equipment, including air-conditioning, humidifiers, carbon-filter
-extractors, fans, LED panels, automatic irrigation and centrifuges. [@1,4,6] The
-installation was connected fraudulently to the electricity grid. [@1,4,5,6] A
+extractors, fans, LED panels, automatic irrigation and centrifuges. [@1,4,6,8] The
+installation was connected fraudulently to the electricity grid. [@1,4,5,6,8] A
 Lithuanian man who was allegedly guarding and maintaining the crop was arrested
 in the search. [@1,4,5,6] Days later, officers arrested another Lithuanian man,
 described as one of the alleged leaders, in Guardamar del Segura and brought him
-before the investigating court in Torrevieja. [@1,4,5,6,7]
+before the investigating court in Torrevieja. [@1,4,5,6,7,8]
