@@ -59,23 +59,36 @@ sources:
     publisher: El Diario Montañés
     date: 2026-11-12
     language: es
+  - title: Dos detenidos en Castro Urdiales con speed suficiente para poner en circulación más de 800 dosis
+    url: https://www.europapress.es/cantabria/noticia-dos-detenidos-castro-urdiales-speed-suficiente-poner-circulacion-mas-800-dosis-20261112102049.html
+    publisher: Europa Press
+    date: 2026-11-12
+    language: es
+  - title: Dos detenidos en Castro Urdiales con ‘speed’ suficiente para más de 800 dosis
+    url: https://cantabriaradio.com/2026/11/12/dos-detenidos-en-castro-urdiales-con-speed-suficiente-para-mas-de-800-dosis/
+    publisher: CANTABRIA RADIO
+    date: 2026-11-12
+    language: es
+open_questions:
+    - Europa Press puts the hashish at more than 90 grams, while the Guardia Civil wording carried by other accounts puts it at around 90 grams; the report keeps about 90 grams.
+    - The same note describes a separate late-October stop in Santillana del Mar, where a 25-year-old man was arrested with 5 grams of hashish in small pieces, a 50-gram tablet and a precision scale; that is a different event and is not included here.
+    - No names were published, and no court outcome was reported after the arrests.
 ---
 
 The Guardia Civil arrested two men, aged 61 and 47, in Castro Urdiales,
-Cantabria. [@1] The arrest took place in the early hours of 8 November 2026,
+Cantabria. [@1,4] The arrest took place in the early hours of 8 November 2026,
 when a patrol carrying out citizen-security duties at an exit of the A-8
-motorway stopped the occupants of a suspicious vehicle. [@1] During the
+motorway stopped the occupants of a suspicious vehicle. [@1,5] During the
 inspection officers found a one-kilo yoghurt pot in the boot hiding a bag with
 more than 400 grams of speed, an amount police estimated could have supplied
-more than 800 doses. [@1]
+more than 800 doses. [@1,4]
 
 In the vehicle and in a waist bag officers also seized about 90 grams of
 hashish, 34 grams of marijuana, amphetamines, ready-made joints and cash in
-notes of different denominations. [@1] Officers seized a kitchen cleaver with
-drug residues and tools alleged to have been used to cut and dose drugs. [@1]
+notes of different denominations. [@1,5] The hashish was part of a tablet and several pieces. [@4] Officers seized a kitchen cleaver with
+drug residues and tools alleged to have been used to cut and dose drugs. [@1,4]
 Both men were arrested as alleged perpetrators of a public-health offence for
-drug trafficking, and the drugs and other items were seized. [@2]
+drug trafficking, and the drugs and other items were seized. [@2,4]
 
 Police said the quantity of speed seized was enough to put 800 doses of the drug
 on the market. [@3]
-
