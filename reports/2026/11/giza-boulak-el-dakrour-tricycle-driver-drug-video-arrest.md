@@ -63,6 +63,11 @@ sources:
     publisher: اليوم السابع
     date: 2026-11-12
     language: ar
+  - title: ضبط سائق تروسيكل ظهر في فيديو أثناء تعاطيه المواد المخدرة بالجيزة
+    url: https://www.youlyou.com/92133
+    publisher: يوليو
+    date: 2026-11-11
+    language: ar
 open_questions:
     - The accounts name no substance, so it is not established that the drug was cannabis.
     - The reports give 5 November as the day of the filmed drug use but no date for the arrest.
@@ -76,16 +81,16 @@ open_questions:
 
 Egypt's Interior Ministry said a video circulating on social media showed a man
 using drugs as he sat on a tricycle, a three-wheeled vehicle, in a street in
-Giza. [@1,3] The ministry said investigators identified the man in the video and
-arrested him. [@1,3] It said he was a driver who lived in the Kerdasa
-police-station district. [@2,3] Questioned, he admitted the offence as shown in
+Giza. [@1,3,5] The ministry said investigators identified the man in the video and
+arrested him. [@1,3,5] It said he was a driver who lived in the Kerdasa
+police-station district. [@2,3,5] Questioned, he admitted the offence as shown in
 the video and said he had used drugs on 5 November while stopped in a street in
-the Boulak El-Dakrour police district. [@1,3]
+the Boulak El-Dakrour police district. [@1,3,5]
 
 Al Masry Al Youm attributed the account to an Interior Ministry statement issued
 that day. [@2] Cairo 24 reported that police identified and arrested the man
 after the video spread. [@3] The ministry said the legal measures had been taken
-against the accused. [@2,3] The accounts describe the drug only as narcotics,
+against the accused. [@2,3,5] The accounts describe the drug only as narcotics,
 without naming a substance. [@1] The reports give no quantity of the drug and do
 not say whether any was seized with him. [@3] No charge or court appearance has
 been reported. [@1] Giza's public prosecution ordered him held for four days pending investigation on a charge of drug use. [@4]
