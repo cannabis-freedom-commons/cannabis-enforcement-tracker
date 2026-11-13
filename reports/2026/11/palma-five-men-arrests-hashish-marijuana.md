@@ -50,6 +50,11 @@ sources:
     publisher: Ultima Hora
     date: 2026-11-13
     language: es
+  - title: Cinco detenidos en un día por vender cocaína, marihuana o éxtasis en Palma
+    url: https://www.msn.com/es-es/noticias/other/cinco-detenidos-en-un-d%C3%ADa-por-vender-coca%C3%ADna-marihuana-o-%C3%A9xtasis-en-palma/ar-AA2hmX58
+    publisher: Europa Press
+    date: 2026-11-13
+    language: es
 open_questions:
   - No weight is given for the marijuana joint found on the fourth arrestee; it was not measured.
   - The article gives the interventions only as Friday night to Saturday and the following early morning; 13 November 2026 is the publication date and is used as the incident date.
@@ -58,11 +63,10 @@ open_questions:
 
 The Spanish National Police arrested five men on drug-trafficking charges in
 Palma in less than 24 hours, across four separate interventions in which
-officers seized tusi, cocaine, marijuana, ecstasy and hashish. [@1] In a search
+officers seized tusi, cocaine, marijuana, ecstasy and hashish. [@1,2] In a search
 at Son Gotleu, officers found about 50 grams of hashish and 250 euros in cash on
 a man of Algerian nationality, who was arrested on suspicion of a crime against
 public health. [@1] In the fourth intervention, officers found popper
 containers, doses of tusi and cocaine, a marijuana joint, drug-consumption tools
 and cash on a driver of Colombian origin, who was brought to police premises as
 a suspected public-health offender. [@1]
-
