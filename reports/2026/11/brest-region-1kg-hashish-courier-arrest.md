@@ -54,30 +54,27 @@ sources:
     publisher: Беларусь сегодня
     date: 2026-11-12
     language: ru
-open_questions:
-  - The articles give no separate date for the detention; 12 November 2026 is the publication date and is used as the incident date.
-  - The Central Asian country of the two men was not named.
-  - No town or district inside Brest region was named as the place of the detention.
-  - The weight is given as about one kilogram, not as an exact figure.
-  - No court outcome was reported beyond the opened criminal case and the possible penalty of up to 15 years.
-  - Both accounts relay the Interior Ministry; no independent account was opened.
+  - title: Двух закладчиков интернет-наркошопа с 1 кг гашиша задержали правоохранители Брестской области
+    url: https://virtualbrest.ru/news197231.php
+    publisher: Виртуальный Брест
+    date: 2026-11-12
+    language: ru
 ---
 
 Brest region drug-control officers caught two men in the act, an 18-year-old and
-a 24-year-old citizen of one of the countries of Central Asia. [@1] The Interior
+a 24-year-old citizen of one of the countries of Central Asia. [@1,3] The Interior
 Ministry press service gave the account to the Belta news agency. [@1] Officers
 established that the young men were wholesale and retail couriers for an online
-drug shop and had come to Belarus on a curator's instructions. [@1] Their task
+drug shop and had come to Belarus on a curator's instructions. [@1,3] Their task
 was to collect large batches of the goods, package them and spread them through
-caches, known as zakladki, across the country. [@1]
+caches, known as zakladki, across the country. [@1,3]
 
-The criminal activity lasted about three weeks. [@1] Officers found and seized
+The criminal activity lasted about three weeks. [@1,3] Officers found and seized
 about one kilogram of hashish, described as a dangerous narcotic, on the men and
-in caches. [@1] Vladimir Zhigar, head of the Brest regional police drug-control
+in caches. [@1,3] Vladimir Zhigar, head of the Brest regional police drug-control
 and counter-trafficking unit (UNiPTL), said about a kilogram of hashish had been
 seized from the men and from caches, and that their activity had lasted about
 three weeks. [@2]
 
 Investigators opened a criminal case for illegal trafficking in narcotics for
-the purpose of sale. [@1] The two detainees face up to 15 years in prison. [@2]
-
+the purpose of sale. [@1,3] The two detainees face up to 15 years in prison. [@2,3]
