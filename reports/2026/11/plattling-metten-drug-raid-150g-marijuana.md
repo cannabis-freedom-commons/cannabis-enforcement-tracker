@@ -63,6 +63,11 @@ sources:
     publisher: Passauer Neue Presse (PNP.de)
     date: 2026-11-12
     language: de
+  - title: 'Plattling und Metten: Kriminalpolizei stellt mehrere Kilo Rauschgift sicher'
+    url: https://bsaktuell.de/deutschland-und-welt/plattling-und-metten-kriminalpolizei-stellt-mehrere-kilo-rauschgift-sicher/369901/
+    publisher: BSAktuell
+    date: 2026-11-12
+    language: de
 open_questions:
   - The amount of marijuana found in the Metten flat is described only as a small quantity, so the 150 grams is attributed to the Plattling flat alone.
   - The 150 grams of marijuana is a police figure given as approximate, and no laboratory confirmation or valuation was reported.
@@ -88,7 +93,7 @@ Plattling man and it was executed. [@1] The Plattling suspect is now held in a
 Bavarian prison. [@1]
 
 Officers of the Kriminalpolizeistation Deggendorf carried out the searches in
-the two towns. [@3] The two suspects were suspected of possessing narcotics and
+the two towns. [@3,4] The two suspects were suspected of possessing narcotics and
 trading in them. [@2] Police found about three kilograms of amphetamine, about
 80 grams of cocaine and about 150 grams of marijuana in the Plattling flat. [@2]
 The Metten suspect was released once the police measures were concluded. [@2]
@@ -102,4 +107,3 @@ the judicial presentation on Wednesday the court issued the warrant requested by
 the Deggendorf prosecutor's office and the man was taken to a Bavarian prison.
 [@3] The Passauer Neue Presse published a police photograph of the drugs and
 packaging material seized in the Plattling flat. [@3]
-
