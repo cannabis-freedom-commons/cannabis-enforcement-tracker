@@ -93,11 +93,16 @@ sources:
     publisher: BioBioChile
     date: 2026-11-12
     language: es
+  - title: PDI incauta más de 183 kilos de cannabis en sector altiplánico de San Pedro de Atacama
+    url: https://www.desiertofm.cl/pdi-incauta-mas-de-183-kilos-de-cannabis-en-sector-altiplanico-de-san-pedro-de-atacama/
+    publisher: Desierto FM
+    date: 2026-11-12
+    language: es
 ---
 
 The PDI in Calama seized a load of pressed marijuana in San Pedro de Atacama.
 [@1,3,5,7] The seizure took place in the border sector of El Loa province, near San
-Pedro de Atacama. [@2] Officers found the load as abandoned sacks in the middle of the pampa in the Río Grande sector, holding 95 packages of cannabis of different shapes and sizes. [@5,6,7,8] Calama's chief prosecutor, Eduardo Peña, put the load at
+Pedro de Atacama. [@2] Officers found the load as abandoned sacks in the middle of the pampa in the Río Grande sector, holding 95 packages of cannabis of different shapes and sizes. [@5,6,7,8,10] Calama's chief prosecutor, Eduardo Peña, put the load at
 186 kg of marijuana. [@2] The local outlet El América reported 183 kg for the
 same seizure. [@1,3,4,5] The PDI valued the marijuana at 900 million pesos on the
 illegal market. [@1,3]
@@ -108,10 +113,10 @@ places in the area to bring it into Chilean territory for distribution to local
 populations. [@2] Subprefect Patricio Méndez, head of the PDI's anti-narcotics
 brigade in Calama, said detectives established a stash point through
 intelligence work and information cross-checking. [@2] Méndez said the drug was
-being displayed and would later be destroyed. [@2] The case file was placed at the disposal of the Public Prosecutor's Office, further inquiries went to the Calama anti-narcotics brigade, and the seized drug was to be sent to the Antofagasta Health Service. [@5,6,7,9]
+being displayed and would later be destroyed. [@2] The case file was placed at the disposal of the Public Prosecutor's Office, further inquiries went to the Calama anti-narcotics brigade, and the seized drug was to be sent to the Antofagasta Health Service. [@5,6,7,9,10]
 
 Méndez said marijuana smuggling has recently increased relative to cocaine and
 cocaine base. [@1] Méndez said the border sector of Antofagasta region is one of
 the longest in northern Chile, and that the PDI and the prosecutor's office have
 agreed to create task forces to curb drug smuggling, vehicle theft and
-contraband. [@2]
+contraband. [@2] The Antofagasta regional prosecutors said their strategy has resulted in more than 67 tonnes of drugs seized this year and 133 tonnes since October 2023. [@10]
