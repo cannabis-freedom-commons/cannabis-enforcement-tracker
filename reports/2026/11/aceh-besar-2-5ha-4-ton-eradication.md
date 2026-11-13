@@ -165,22 +165,22 @@ sources:
     publisher: Kilasriau.com
     date: 2026-11-11
     language: id
-open_questions:
-    - The destroyed area is given as 2.5 hectares by iNews and as three hectares in BNN's statement and most other accounts.
-    - The spacing between plants is given as about 50 centimetres by iNews and 75–80 centimetres in BNN's statement.
-    - The walk to the site is given as three hours by iNews and two hours in the Kompas TV video.
-    - The mountain area is named as the Seulimum range in the Kompas TV video and as the foot of Mount Seulawah in other accounts.
+  - title: Bea Cukai Jalin Sinergi dalam Operasi Gabungan Pemusnahan Dua Titik Lahan Ganja di Aceh Besar
+    url: https://mediaindonesia.com/nusantara/955423/bea-cukai-jalin-sinergi-dalam-operasi-gabungan-pemusnahan-dua-titik-lahan-ganja-di-aceh-besar
+    publisher: Media Indonesia
+    date: 2026-11-12
+    language: id
 ---
 
 BNN officers with TNI and police destroyed more than four tons of
 ready-to-harvest cannabis plants on a 2.5-hectare field in Aceh Besar. [@1] The
-field lay in the mountains of Desa Pulo Lamteba, Aceh Besar regency, Aceh. [@2,3,4,5,6,8,9,12,13,15] The joint destruction took place on Tuesday, 10 November 2026. [@11,12,15,16,18,19]
+field lay in the mountains of Desa Pulo Lamteba, Aceh Besar regency, Aceh. [@2,3,4,5,6,8,9,12,13,15] The joint destruction took place on Tuesday, 10 November 2026. [@11,12,15,16,18,19,20]
 The destruction operation involved hundreds of personnel from BNN, the
-Indonesian military and the police. [@2,3] The operation was led by BNN narcotics director Brigjen Pol Robby Karya Adi. [@15,16,18,19] Personnel from central and Aceh provincial BNN, Aceh police, the military, the National Research and Innovation Agency (BRIN), public order police (Satpol PP), the High Prosecutor's Office, Customs, and the agriculture and forestry offices took part in the eradication. [@6,9,10,11,12,14,15,18,19] The operation involved 135 joint personnel. [@12,13,15,16,17,18] Widodo, head of enforcement and investigation at the Aceh regional customs office, attended with staff from Banda Aceh Customs. [@11,18,19] At the site, officers swept two field
-locations found at the foot of Mount Seulawah. [@2,3,13] The two sites in Gampong Pulo were located at elevations of 684 and 800 metres above sea level. [@9,10,11,12,14,16,18,19] The first site was at coordinates 5.46848, 95.63881 and the second at 5.4592, 95.63714. [@12]
+Indonesian military and the police. [@2,3] The operation was led by BNN narcotics director Brigjen Pol Robby Karya Adi. [@15,16,18,19,20] Personnel from central and Aceh provincial BNN, Aceh police, the military, the National Research and Innovation Agency (BRIN), public order police (Satpol PP), the High Prosecutor's Office, Customs, and the agriculture and forestry offices took part in the eradication. [@6,9,10,11,12,14,15,18,19,20] The operation involved 135 joint personnel. [@12,13,15,16,17,18,20] Widodo, head of enforcement and investigation at the Aceh regional customs office, attended with staff from Banda Aceh Customs. [@11,18,19,20] Widodo said Customs' involvement was part of the synergy between government agencies and law enforcers in supporting P4GN, Indonesia's national programme to prevent and eradicate narcotics abuse and trafficking. [@20] At the site, officers swept two field
+locations found at the foot of Mount Seulawah. [@2,3,13] The two sites in Gampong Pulo were located at elevations of 684 and 800 metres above sea level. [@9,10,11,12,14,16,18,19,20] The first site was at coordinates 5.46848, 95.63881 and the second at 5.4592, 95.63714. [@12]
 
 The joint team walked for three hours over rough terrain to reach the
-2.5-hectare field. [@2] Widodo said the joint team faced geographical challenges because the plots lay in a mountainous area reached by steep footpaths through dense vegetation. [@18] The plants were about one to two metres tall and planted
+2.5-hectare field. [@2] Widodo said the joint team faced geographical challenges because the plots lay in a mountainous area reached by steep footpaths through dense vegetation. [@18,20] The plants were about one to two metres tall and planted
 about 50 centimetres apart. [@2,8] The organized Cannabis sativa L. plantings were 15 to 250 centimetres tall with no permanent building nearby. [@7,12] The plants depended only on rainfall for water. [@12] Officers pulled up all the plants, gathered
 them into two large piles and burned them on the spot. [@2,8] BNN reported that officers destroyed approximately 8,000 cannabis plants across three hectares with an estimated weight of around four tons. [@4,5,6,7,9,10,11,12,13,14,15,16,17,19] The destruction coincided with Indonesia's Heroes' Day commemoration. [@11,15,16,18,19]
 
