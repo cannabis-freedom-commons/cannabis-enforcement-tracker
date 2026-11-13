@@ -71,6 +71,11 @@ sources:
     publisher: 凤凰网
     date: 2026-11-13
     language: zh
+  - title: 一旅客携带40斤大麻被广州白云机场海关查获
+    url: https://feng.ifeng.com/c/8y137k2SIFO
+    publisher: 凤凰网 (城市速递 / 海关发布)
+    date: 2026-11-13
+    language: zh
 open_questions:
   - Customs dated the interception only as "recently" (近日); 13 November 2026 is the publication date of the customs notice carried by Tencent News and Guancha.
   - Neither report names the traveller, their nationality, or the origin and destination of the flight.
@@ -81,16 +86,16 @@ open_questions:
 
 Guangzhou customs seized 20.051 kg of cannabis in the passenger-inspection
 channel at Guangzhou Baiyun International Airport, according to a Guangzhou
-Customs notice. [@1,4] Baiyun airport customs officers were screening
+Customs notice. [@1,4,5] Baiyun airport customs officers were screening
 international transit passengers when one traveller's luggage X-ray image looked
-abnormal, and they stopped and searched that passenger. [@1,3] The suitcase held
+abnormal, and they stopped and searched that passenger. [@1,3,5] The suitcase held
 nothing but plastic-bag, vacuum-packed brown-green plant material that gave off
-a strong irritant smell when opened. [@1,3] A technical institution tested the
+a strong irritant smell when opened. [@1,3,5] A technical institution tested the
 material and confirmed it was cannabis weighing 20.051 kg. [@1,3]
 
 The Chinese reports put the seizure at more than 40 jin, a traditional unit of
 about 500 grams. [@2] Customs reminded the public that smuggling, selling,
 transporting or manufacturing drugs carries criminal liability in China
-regardless of quantity, citing the Criminal Law and the Anti-Drug Law. [@1,3] The
+regardless of quantity, citing the Criminal Law and the Anti-Drug Law. [@1,3,5] The
 accounts describe the traveller only as a passenger and name no arrest, charge
 or court outcome. [@1]
