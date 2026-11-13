@@ -46,6 +46,10 @@ sources:
     url: https://www.yahoo.com/news/us/articles/investigation-leads-police-900-pounds-040312543.html
     publisher: KFOR via Yahoo News
     date: 2026-11-13
+  - title: Investigation leads police to 900+ pounds of illegal marijuana in Edmond
+    url: https://kfor.com/video/investigation-leads-police-to-900-pounds-of-illegal-marijuana-in-edmond/12366887/
+    publisher: KFOR.com Oklahoma City
+    date: 2026-11-12
 open_questions:
   - The article gives no exact date for the car stop or the house search; it says the car was pulled over in late October, and 13 November 2026 is the publication date, used as the incident date.
   - No specific charges were named; the article only says Edmond Police submitted charges to the Oklahoma County District Attorney's Office and that the suspect bonded out.
@@ -63,7 +67,7 @@ allegedly illegally crossing multiple marked lanes. [@1] Police arrested
 38-year-old Qiu Li, who was behind the wheel, after a K-9 alerted on his car and
 an officer smelled marijuana. [@1] Police found rolls of packing tape and used
 dryer sheets inside the car. [@1] Acting on a search warrant, detectives
-recovered over 900 pounds of marijuana inside the house. [@1] Detectives found a
+recovered over 900 pounds of marijuana inside the house. [@1,2] Detectives found a
 significant amount of black trash bags filled with marijuana, mostly in
 heat-sealed plastic containers. [@1] The house had no food and the only
 furniture was an inflatable mattress in a bedroom. [@1] In total, the
@@ -75,4 +79,3 @@ is an illegal front to launder drug money through the bank account to other
 financial institutions. [@1] Li was booked into the Oklahoma County Jail but has
 since bonded out. [@1] Edmond Police have submitted charges to the Oklahoma
 County District Attorney's Office. [@1]
-
