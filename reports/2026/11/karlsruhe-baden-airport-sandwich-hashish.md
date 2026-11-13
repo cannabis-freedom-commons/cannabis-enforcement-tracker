@@ -61,6 +61,11 @@ sources:
     publisher: Hauptzollamt Karlsruhe
     date: 2026-11-05
     language: de
+  - title: Cannabis foto’s • 6 beelden uit de oorlog tegen wiet (#116) - CNNBS.nl
+    url: https://www.cnnbs.nl/cannabis-fotos-6-beelden-uit-de-oorlog-tegen-wiet-116/
+    publisher: CNNBS.nl
+    date: 2026-11-12
+    language: nl
 open_questions:
   - The sources do not report the exact quantity or weight of marijuana found in the luggage of the two other passengers.
   - No arrests or detentions were reported; the cases were at the preliminary investigation stage when the statements were published.
@@ -69,10 +74,10 @@ open_questions:
 
 Customs officers from the Karlsruhe Main Customs Office inspected passengers
 arriving on a flight from Porto at Karlsruhe/Baden-Baden Airport on 3 November
-2026. [@3] A trained drug detection dog named Eric alerted officers to luggage
+2026. [@3,4] A trained drug detection dog named Eric alerted officers to luggage
 carried by three travelers. [@3] Officers searched the backpack of a 58-year-old
 Portuguese traveler and discovered 194 grams of hashish concealed inside two
-sandwiches alongside his travel food. [@3] Customs officials noted that the
+sandwiches alongside his travel food. [@3,4] Customs officials noted that the
 hashish had been hidden between the sandwich toppings in his baggage. [@1] The
 drugs had been placed inside the filling of the two rolls in an attempt to keep
 them concealed during the journey. [@2]
@@ -87,5 +92,4 @@ entry ban for Germany. [@3] Her case was transferred to the Federal Police to
 handle the immigration violation. [@3] Customs authorities reiterated that while
 adults in Germany may carry up to 25 grams of cannabis for personal use,
 importing cannabis across national borders remains prohibited regardless of
-quantity. [@3]
-
+quantity. [@3,4]

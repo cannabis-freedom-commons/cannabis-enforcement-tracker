@@ -137,6 +137,11 @@ sources:
     url: https://www.yorkregion.com/news/crime/lab-find-in-markham-leads-to-seizure-of-drugs-worth-639k/article_1a3b340c-6c07-5b2e-a980-bcd184f4220c.html
     publisher: YorkRegion.com
     date: 2026-11-10
+  - title: Cannabis foto’s • 6 beelden uit de oorlog tegen wiet (#116) - CNNBS.nl
+    url: https://www.cnnbs.nl/cannabis-fotos-6-beelden-uit-de-oorlog-tegen-wiet-116/
+    publisher: CNNBS.nl
+    date: 2026-11-12
+    language: nl
 ---
 
 Two men and one woman from Markham were arrested after York Regional Police dismantled a clandestine
@@ -147,12 +152,12 @@ Warden and 16th avenues. [@4] The lab was dismantled with help from the Office o
 Markham Fire and Emergency Services and York Region Paramedic Services. [@2,7,12]
 
 Investigators seized 12,962 packages of cannabis edibles, 209 grams of THC vaping cartridges, 26
-kilograms of loose cannabis edibles and eight kilograms of dried cannabis. [@2,5,6,7,8,10,11,12] They also
+kilograms of loose cannabis edibles and eight kilograms of dried cannabis. [@2,5,6,7,8,10,11,12,13] They also
 found 18 kilograms of psilocybin powder, a psychedelic mushroom product not counted in the cannabis
 total. [@2] Ammunition, a conducted energy weapon and about C$100,000 in cash were seized. [@2,5,11]
 Police put the street value of the drugs at approximately C$639,000 [@2,6,10,12]; CityNews gave around
 $640,000. [@3]
 
 Investigators learned the drugs were sold mainly online under the name Buddha Boys, through
-illegitimate websites that mailed or delivered the orders. [@1,5,6,7,9,11,12] Joseph Li, 41, Yuan Lin, 39,
+illegitimate websites that mailed or delivered the orders. [@1,5,6,7,9,11,12,13] Joseph Li, 41, Yuan Lin, 39,
 and Michelle Li, 39, all of Markham, were charged; the charges have not been proven in court. [@9]

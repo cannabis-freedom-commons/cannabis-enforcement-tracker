@@ -391,6 +391,11 @@ sources:
     publisher: SmartNews
     date: 2026-11-11
     language: ja
+  - title: Cannabis foto’s • 6 beelden uit de oorlog tegen wiet (#116) - CNNBS.nl
+    url: https://www.cnnbs.nl/cannabis-fotos-6-beelden-uit-de-oorlog-tegen-wiet-116/
+    publisher: CNNBS.nl
+    date: 2026-11-12
+    language: nl
 open_questions:
     - Mark Ayres's earlier guilty plea was entered for 28 cannabis plants, while the sentencing accounts report 25 plants found, and no explanation for the difference was published.
     - The £46,000 street value covers the plants and the dried cannabis together, so no separate cannabis-only valuation was published.
@@ -400,15 +405,16 @@ open_questions:
     - The exact 20 May 2025 raid date rests on the earlier reporting, while the Eastern Daily Press dates the warrant only to May 2025.
     - The sentencing court is named both Norfolk Crown Court and Norwich Crown Court, and whether the two names refer to the same court is unconfirmed.
     - The sentencing accounts are largely reprints of one Press Association report, so details not in that report remain uncorroborated.
+    - CNNBS puts the value of the dried cannabis at nearly fifty thousand euros, while police accounts used a £46,000 estimate; the report keeps the pound figure.
 ---
 
 Mark Ayres, 71, and his wife Marion Ayres, 70, were sentenced at Norwich Crown Court for producing
 cannabis at their home in Burgh Common, near Attleborough in Norfolk.
-[@1,4,5,7,11,18,19,21,22,24,25,27,30,31,33,38,39,40,41,43,44,45,46,48,50,51,52,53,54,57,58,61,63,69,71,72,73]
+[@1,4,5,7,11,18,19,21,22,24,25,27,30,31,33,38,39,40,41,43,44,45,46,48,50,51,52,53,54,57,58,61,63,69,71,72,73] The couple had been married for more than 50 years. [@75]
 Norfolk Constabulary and Press Association copies name the court as Norfolk Crown Court and date the
 sentencing to Thursday 5 November 2026. [@18,28,29,53,58,59,60,64,66,74] Marion Ayres was given nine
 months in prison, suspended for 12 months; Mark Ayres was jailed for three and a half years.
-[@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,35,36,37,38,39,40,42,43,44,45,46,47,48,49,50,52,53,54,55,56,57,58,60,61,62,63,64,65,68,69,71,72,73,74]
+[@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,35,36,37,38,39,40,42,43,44,45,46,47,48,49,50,52,53,54,55,56,57,58,60,61,62,63,64,65,68,69,71,72,73,74,75]
 Mark Ayres had pleaded guilty to producing cannabis and to possessing cannabis with intent to supply,
 and Marion Ayres admitted producing cannabis.
 [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,23,25,26,27,28,29,30,33,34,35,36,37,38,39,40,42,43,46,47,48,50,51,53,54,55,56,58,61,62,63,64,69,70,73,74]
@@ -420,7 +426,7 @@ May 2025, as part of an investigation into cannabis supply in the area.
 [@2,6,7,8,9,10,11,12,14,15,16,17,18,20,21,22,23,24,25,26,27,28,29,30,32,33,35,36,38,39,40,41,42,43,44,45,46,47,48,49,50,52,53,55,56,57,58,59,60,61,62,63,64,65,66,67,69,70,72,73,74]
 Officers found 25 cannabis plants and approximately 5.7 kg of dried cannabis, which police estimated
 had a street value of more than £46,000.
-[@1,4,5,6,7,8,9,10,12,13,14,15,18,20,21,22,24,25,26,27,28,29,30,31,32,33,35,36,38,39,40,41,42,43,44,45,46,47,48,49,50,52,53,54,55,56,57,58,60,61,62,63,64,66,69,71,72,73,74]
+[@1,4,5,6,7,8,9,10,12,13,14,15,18,20,21,22,24,25,26,27,28,29,30,31,32,33,35,36,38,39,40,41,42,43,44,45,46,47,48,49,50,52,53,54,55,56,57,58,60,61,62,63,64,66,69,71,72,73,74,75]
 Police photographs show more than a dozen plants crammed into a tiled room and cannabis drying in
 layered racks under a white light. [@50] The house was described as worth about £1m. [@48]
 
@@ -432,7 +438,7 @@ hearing. [@3]
 ## In court
 
 Mark Ayres was diagnosed with cancer in 2018 and researched the medicinal benefits of cannabis, his
-barrister Andrew Oliver said. [@4,19,53] He first used CBD oil, legal in the UK, and turned to
+barrister Andrew Oliver said. [@4,19,53,75] He first used CBD oil, legal in the UK, and turned to
 cannabis when the cancer returned five years later, growing it in a former gym at his home.
 [@4,51,53,66] He started with eight plants in 2023 and had 25 when he was arrested [@4,19,53], and
 then began selling to others. [@53,66] Marion Ayres once bought bags for the drugs online.

@@ -97,6 +97,11 @@ sources:
     url: https://www.msn.com/en-us/news/other/more-than-15-000-plants-seized-in-clinton-marijuana-bust/ar-AA2gU3P0
     publisher: MSN (KFOR Oklahoma City)
     date: 2026-11-06
+  - title: Cannabis foto’s • 6 beelden uit de oorlog tegen wiet (#116) - CNNBS.nl
+    url: https://www.cnnbs.nl/cannabis-fotos-6-beelden-uit-de-oorlog-tegen-wiet-116/
+    publisher: CNNBS.nl
+    date: 2026-11-12
+    language: nl
 open_questions:
   - The name, age, nationality and charges of the person arrested were not published, and no court outcome was reported.
   - The three people handed to ICE were not identified, and it is not stated whether any of them was the arrested person.
@@ -116,11 +121,11 @@ cultivation. [@1,4,6] The raid took place at 10,834 North 2248 Road, about 5.5 m
 (8.9 km) south of Clinton. [@2]
 
 Agents seized 15,703 marijuana plants and 114 pounds (about 51.7 kg) of
-processed marijuana. [@1,4,6]
+processed marijuana. [@1,4,6,8]
 
 Investigators said they were looking at companies running on an OBN registration
 obtained by fraud through a straw ownership scheme, in which one person is used
-to conceal who really controls a business. [@1,4,6] The Penny News, citing OBN,
+to conceal who really controls a business. [@1,4,6,8] The Penny News, citing OBN,
 described the scheme as using an individual to conceal the true ownership of a
 business. [@2]
 
