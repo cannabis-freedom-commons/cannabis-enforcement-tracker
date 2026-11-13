@@ -201,6 +201,11 @@ sources:
     publisher: 스포탈코리아
     date: 2026-11-12
     language: ko
+  - title: 【住所あり】ブレイキングダウン ダイスケ 大麻取締法逮捕
+    url: https://www.youtube.com/watch?v=IEXENUykV7A
+    publisher: 新・玩具物語
+    date: 2026-11-12
+    language: ja
 media:
   - kind: video
     url: https://www.youtube.com/watch?v=iPnZ6VWrb6Y
@@ -225,7 +230,7 @@ beautician from the same ward, on suspicion of violating the Narcotics Special
 Provisions Law and related offences. [@1,2,3,4,5,7,8,10,11,12,13,14,16,17,20,22,23,26,29,32,33] Yamamoto is from the Katsuyamakita district of Ikuno Ward, and Sakaguchi from Ikuno-nishi in the same ward. [@4,29] Both men were referred to prosecutors on suspicion of violating the Special Narcotics Law and other charges. [@21] The arrests, over the alleged purchase
 and sale of goods presented as cannabis, were announced by 11 November 2026.
 [@1,2,3,11,12,13,28,29,30] The two men were arrested on 10 November 2026. [@22,23,31] Police did not disclose whether the two men admitted the allegations. [@5,17,23,24,26,31,32] According to the police, Yamamoto had previously competed in BreakingDown,
-a mixed-rules combat sports event popular primarily among young people. [@1,2,3,4,6,11,12,13,15,19,23,24,28,29,32] Yamamoto is known as "Daisuke". [@25,29] Yamamoto was also known by the nickname "Ikuno no Kaiten", after his home ward of Ikuno. [@29]
+a mixed-rules combat sports event popular primarily among young people. [@1,2,3,4,6,11,12,13,15,19,23,24,28,29,32,34] Yamamoto is known as "Daisuke". [@25,29,34] Yamamoto was also known by the nickname "Ikuno no Kaiten", after his home ward of Ikuno. [@29]
 
 Investigators alleged that in December 2025, Yamamoto received an item as
 cannabis from Sakaguchi for 10,000 yen in the city of Osaka. [@1,2,3,4,5,9,12,13,15,16,17,18,19,20,22,23,24,27,29,31,32,33] Police said the alleged deal was made through social media. [@26] The alleged handover occurred on 25 December 2025 at just after noon in Ikuno Ward. [@5,29,31] The alleged purchase took place near Yamamoto's home. [@24] Sakaguchi is
