@@ -49,35 +49,44 @@ sources:
     publisher: تفصيلة
     date: 2026-11-12
     language: ar
+  - title: نيابة مدينة نصر تحيل ربة منزل للمحاكمة الجنائية بتهمة الاتجار في الحشيش والأيس
+    url: https://www.dostor.org/5774461
+    publisher: جريدة الدستور
+    date: 2026-11-12
+    language: ar
 open_questions:
-  - No weight or quantity was published for the hashish or the ice, so no cannabis quantity is recorded.
-  - The referral order carries no separate date; 12 November 2026 is the publication date of the reports and is used as the incident date.
-  - The ice (methamphetamine) component is excluded from cannabis figures, and no combined drug total is recorded.
-  - No plea, trial date or verdict was reported; the case stood at referral to criminal trial.
-  - The accused is identified only by the initials Maha A., with no full name or age reported.
-  - 'Left out, as its quotation was not found in فيتو: The second account confirms that the force moved in after the permission, arrested the accused and recorded the incident, and that the prosecution investigated before ordering the referral to criminal trial.'
+    - No weight or quantity was published for the hashish or the ice, so no cannabis quantity is recorded.
+    - The referral order carries no separate date; 12 November 2026 is the publication date of the reports and is used as the incident date.
+    - The ice (methamphetamine) component is excluded from cannabis figures, and no combined drug total is recorded.
+    - No plea, trial date or verdict was reported; the case stood at referral to criminal trial.
+    - The accused is identified only by the initials Maha A., with no full name or age reported.
+media:
+  - kind: photo
+    url: https://www.dostor.org/5774461
+    media_url: https://cdn.dostor.org/media/img/large/2026/11/12/2026_11_12_14_45_8_712_2911.png
+    publisher: جريدة الدستور
+    caption: 'The entrance of the Nasr City prosecution office, where the referral order was issued. Photo: جريدة الدستور'
 ---
 
 The Nasr City prosecution ordered a housewife referred to criminal trial for
 trafficking in the narcotics hashish and ice within the Second Nasr City police
-district. [@1] The referral order said the accused, identified as Maha A.,
+district. [@1,3] The referral order said the accused, identified as Maha A.,
 possessed hashish and ice, both listed in the schedules attached to the
 drug-control law, with intent to traffic outside legally authorized
-circumstances. [@1]
+circumstances. [@1,3]
 
 Prosecutors said she held 5,000 Egyptian pounds said to be proceeds of the
 activity, alongside a mobile phone she used to contact customers and facilitate
-sales and promotion. [@1] The referral added that she made the criminal activity
+sales and promotion. [@1,3] The referral added that she made the criminal activity
 a means of unlawful profit by holding the drugs to promote and distribute them
 to users, using her residential area and the police-district area as the scene
-of the activity. [@1] The case began when Second Nasr City detectives received
+of the activity. [@1,3] The case began when Second Nasr City detectives received
 information, confirmed by investigations, that a housewife was trafficking
 narcotics from a room in the district, and the required inquiries confirmed it.
-[@1] A second account also places the 5,000 Egyptian pounds and the mobile phone
+[@1,3] A second account also places the 5,000 Egyptian pounds and the mobile phone
 she used to contact customers among the charges the prosecution attached to her
 referral. [@2]
 
 After procedures were regularized and prosecution permission was obtained, a
 security force from the district detectives arrested the accused, recorded the
-incident, and the prosecution took over the investigation. [@1]
-
+incident, and the prosecution took over the investigation. [@1,3]
