@@ -51,6 +51,16 @@ sources:
     publisher: Omroep Brabant
     date: 2026-11-12
     language: nl
+  - title: '3D-geprinte wapens en drugs gevonden in woning in Eindhoven: twee verdachten opgepakt'
+    url: https://www.bd.nl/eindhoven/3d-geprinte-wapens-en-drugs-gevonden-in-woning-in-eindhoven-twee-verdachten-opgepakt~ada73947/
+    publisher: Brabants Dagblad
+    date: 2026-11-12
+    language: nl
+  - title: Werkplaats 3D geprinte wapens aangetroffen in woning Eindhoven
+    url: https://www.politie.nl/nieuws/2026/november/13/09-eindhoven-van-thienenlaan-3d-geprinte-wapens.html
+    publisher: Politie
+    date: 2026-11-13
+    language: nl
 open_questions:
   - The sources do not name the drugs found, so it is not established that they were cannabis.
   - No weight, plant count or other quantity of the drugs was published.
@@ -63,14 +73,14 @@ open_questions:
 ---
 
 Police raided a home in Eindhoven-Noord on Monday 9 November after an extensive
-investigation by the criminal investigation department. [@1] Two suspects were
-arrested. [@1] The announcement came three days after the raid, on Thursday 12
+investigation by the criminal investigation department. [@1,3] The home was on Van Thienenlaan in Eindhoven. [@4] Two suspects were
+arrested. [@1,3] The announcement came three days after the raid, on Thursday 12
 November. [@1] The force did not release the suspects' identities or the precise
 location of the home. [@1]
 
 During the search officers found several 3D-printed firearms and objects that
-resemble firearms, along with two 3D printers. [@1] Drugs were also found, but
-police did not say which kind or how much. [@1] The weapons, objects and
+resemble firearms, along with two 3D printers. [@1] Officers found five firearms, six boksbeugels and two 3D printers in the home. [@3] Drugs were also found, but
+police did not say which kind or how much. [@1,3] The weapons, objects and
 printers were seized for further investigation. [@1]
 
 3D printers can make parts that strongly resemble real firearms, and police said
@@ -79,4 +89,3 @@ said some of the weapons found only looked like real firearms, while others
 could actually fire. [@2] Police are still investigating exactly what was found
 and whether the weapons can fire. [@2] Police gave no further information about
 the two suspects. [@2]
-
