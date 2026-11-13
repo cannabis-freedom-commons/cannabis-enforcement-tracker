@@ -44,11 +44,10 @@ sources:
     url: https://maldivesindependent.com/news-in-brief/man-sentenced-to-life-in-prison-over-1kg-cannabis-98368
     publisher: Maldives Independent
     date: 2015-05-19
-open_questions:
-  - The article gives no separate sentencing date; 19 May 2015 is its publication date and is used as the incident date.
-  - The November 2012 apprehension date is the arrest step; the report is dated at the later sentencing step.
-  - Cash, bank balance, diamond stones and precious stones are mentioned only to explain the confiscation order and are excluded from cannabis figures.
-  - Only one distinct account of this event could be opened; a search found the same text as an archive reprint with no additional facts.
+  - title: Police charge six Maldivians, six Indians with smuggling drugs
+    url: https://maldivesindependent.com/news-in-brief/police-charge-six-maldivians-six-indians-with-smuggling-drugs-62984
+    publisher: Maldives Independent
+    date: 2013-08-21
 ---
 
 The Criminal Court sentenced 46-year-old Ali Imran to life in jail over one
@@ -69,3 +68,4 @@ account. [@1] The Criminal Court ordered the state to confiscate the cash, the
 bank balance and the precious stones, stating that Imran had not explained how
 he had obtained the money. [@1]
 
+The 2013 police statement named Ali Imran among twelve men forwarded to the Prosecutor General's Office over the November 2012 cargo-boat smuggling case. [@2]
