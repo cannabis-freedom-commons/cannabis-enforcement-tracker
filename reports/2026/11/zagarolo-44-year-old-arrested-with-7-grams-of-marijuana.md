@@ -79,19 +79,24 @@ sources:
     publisher: La Tiburtina
     date: 2026-11-11
     language: it
+  - title: 'Zagarolo, arrestato un 44enne: sequestrate 82 dosi di cocaina e marijuana'
+    url: https://www.telegolfo.com/zagarolo-arrestato-44enne-cocaina-marijuana/
+    publisher: Telegolfo
+    date: 2026-11-12
+    language: it
 ---
 
 Carabinieri from the Zagarolo station arrested a 44-year-old local man already
 known to law enforcement, who is seriously suspected of possessing drugs for
-dealing. [@1,4,5,6,7] Officers stopped him in Piazza Guglielmo Marconi in the town
+dealing. [@1,4,5,6,7,8] Officers stopped him in Piazza Guglielmo Marconi in the town
 centre during an initiative-led check after noticing his suspicious behaviour.
-[@1,4,5,6,7] He was then held in the security cells at the disposal of the judicial
-authority pending a validation hearing under the fast-track procedure. [@1,4,5,6,7]
+[@1,4,5,6,7,8] He was then held in the security cells at the disposal of the judicial
+authority pending a validation hearing under the fast-track procedure. [@1,4,5,6,7,8]
 
 Personal and home searches found 50 grams of cocaine already divided into 82
-doses, together with 7 grams of marijuana. [@2,4,5,6,7] Officers also seized 95 euros in
+doses, together with 7 grams of marijuana. [@2,4,5,6,7,8] Officers also seized 95 euros in
 cash, considered proceeds of dealing, and a mobile phone allegedly used to
-arrange sales. [@3,4,5,6,7] All the drugs, the money and the phone were seized. [@3,4,5,6,7]
+arrange sales. [@3,4,5,6,7,8] All the drugs, the money and the phone were seized. [@3,4,5,6,7,8]
 
 The operation began as a routine town-centre check that led to the wider
-searches. [@3,6] Zagarolo lies in the province of Rome. [@2,4]
+searches. [@3,6] Zagarolo lies in the province of Rome. [@2,4,8]
