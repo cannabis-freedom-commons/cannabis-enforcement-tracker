@@ -109,66 +109,41 @@ sources:
     publisher: صحيفة العروبة
     date: 2026-11-10
     language: ar
+  - title: سوريا تواجه "حزب الله" وميليشيات العراق... ماذا عن الحوثيين؟
+    url: https://www.majalla.com/node/334125/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D9%88%D8%A7%D8%AC%D9%87-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%88%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D8%A7%D8%B0%D8%A7-%D8%B9%D9%86-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86%D8%9F
+    publisher: المجلة
+    date: 2026-11-12
+    language: ar
 open_questions:
-  - >-
-    The tally covers the whole of October 2026 and was announced on 1 November 2026; 31 October is used as the
-    incident date for the monthly period.
-  - No number of people arrested or detained was published for the October tally as a whole.
-  - >-
-    The tally's non-cannabis amounts are excluded from cannabis figures and cannot be separated beyond the
-    published list.
-  - >-
-    The same article also describes separate Aleppo operations, a Jordan border seizure of two million pills,
-    and September and August tallies, which are different events left out here.
-  - >-
-    سورية تضبط نصف طن من الحشيش.. والأردن يحبط تهريب مليوني حبة مخدرة (العربي الجديد) could not be opened
-    again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (Wayback
-    availability answered HTTP 429). No AI research was started); what it says is as the AI read it.
-  - >-
-    The article's cannabis detail is summary-level — hundreds of kilograms of hashish — and does not give the
-    tally's 582 kg total, so the existing total is unchanged.
-  - >-
-    The article mentions a 260 kg hashish seizure in an Aleppo smuggling cell and other pill seizures that may
-    be components of the October tally but are not separately dated or detailed enough for a new report.
-  - >-
-    This account gives only hundreds of kilograms of hashish and does not state the 582 kg total, so the total
-    continues to rely on the earlier sources.
-  - No arrest total or names for the October operations were published.
-  - >-
-    The article gives no separate dates within October for the 157 operations; 31 October 2026 is used as the
-    month-end date for the monthly tally announced on 1 November 2026.
-  - >-
-    No locality-by-locality breakdown for the 582 kg of hashish was published, so the place recorded is Syria
-    at country precision.
-  - >-
-    The same article also reports a separate Aleppo branch operation seizing about 9.571 kg of hashish and 21
-    grams of marijuana plus other drugs, left out here as a different event.
-  - >-
-    The same article also reports September and August 2026 tallies and a Jordanian seizure of two million
-    pills at the Jaber crossing, left out here as different events.
-  - Only one accessible source for this October tally was found after searching in Arabic and English.
-  - This source gives only the Captagon part of the national October tally and no hashish weight, so the 582 kg total is unchanged.
-  - The article cites the Anti-Narcotics Department's October tally but gives no breakdown of the 582 kg total by seizure, so the 260 kg Aleppo figure cannot be reconciled exactly with it.
-  - The 260 kg Aleppo hashish seizure and the 9.571 kg Aleppo seizure recorded in a separate report are not dated individually, so it is not established whether they are the same or different operations.
-  - The date "during October" is given without separate incident dates for any of the listed operations.
+    - The tally covers the whole of October 2026 and was announced on 1 November 2026; 31 October is used as the incident date for the monthly period.
+    - No number of people arrested or detained, and no names, were published for the October tally as a whole.
+    - No locality-by-locality breakdown of the 582 kilograms of hashish was published, so the place recorded is Syria at country precision.
+    - The 582-kilogram total is not broken down by seizure, so a 260-kilogram Aleppo hashish seizure reported in the same coverage cannot be reconciled with it.
+    - The 260-kilogram Aleppo hashish seizure and a separate 9.571-kilogram Aleppo seizure recorded in another report are undated, so it is not established whether they are parts of the October tally or different operations.
+    - No individual date is given for any of the 157 operations.
+    - The number of cross-border international networks dismantled is given only as a running total, with eight said to have been broken up in September and October 2026.
+    - Accounts differ slightly on the October narcotic-pill count, given as 28,000 and as more than 28,000.
+    - The tally's non-cannabis amounts are excluded from the cannabis figures and cannot be separated beyond the published list.
+    - Whether the October operations produced charges, prosecutions or court cases, and their outcome, was not reported.
+    - The same coverage also describes separate Aleppo operations, a Jordanian border seizure of two million pills and September and August tallies, which are different events.
 also:
   - raid
 ---
 
-Syria's anti-narcotics authorities reported seizing 582 kilograms of hashish during October 2026 operations. [@1,2,3,4,5,6,7,8,9,10]
+Syria's anti-narcotics authorities reported seizing 582 kilograms of hashish during October 2026 operations. [@1,2,3,4,5,6,7,8,9,10,15]
 
 Syria's Interior Ministry anti-narcotics directorate announced that it carried
 out security operations and dismantled smuggling networks during October 2026 as
 part of efforts to limit drug trafficking and promotion. [@9,13] It said officers
 conducted 157 security operations and dismantled 30 domestic drug-trafficking
-networks in that month. [@9,10,11,12]
+networks in that month. [@9,10,11,12,15]
 
 It said those October operations seized 582 kilograms of hashish, the cannabis
-resin tracked here. [@9,10,12,14] It summarized that cannabis result as more than half a
+resin tracked here. [@9,10,12,14,15] It summarized that cannabis result as more than half a
 tonne of hashish. [@9] The same monthly tally also listed 4.3 million captagon
 pills, more than 28,000 narcotic medical pills and 7 kilograms of crystal meth,
 which are recorded only to explain the mixed seizure and are excluded from the
-cannabis quantity. [@9]
+cannabis quantity. [@9,15]
 
 The directorate framed the October effort as targeting trafficking and promotion
 and bringing down cross-border smuggling networks. [@9] The directorate linked
