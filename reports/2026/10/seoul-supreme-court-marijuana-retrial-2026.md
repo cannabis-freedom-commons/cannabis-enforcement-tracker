@@ -66,6 +66,11 @@ sources:
     publisher: 한국일보
     date: 2026-11-13
     language: ko
+  - title: 대법 “대마 흡연 자백했어도 보강증거 부족하면 유죄 인정 못 해”
+    url: https://www.sedaily.com/article/20113981
+    publisher: 서울경제
+    date: 2026-11-13
+    language: ko
 media:
   - kind: photo
     url: https://news.sbs.co.kr/english/article.do?news_id=N1008844852
@@ -84,12 +89,12 @@ open_questions:
 South Korea's Supreme Court, presided over by Justice Shin Suk-hee, on 27
 October 2026 reversed the lower court's ruling against a defendant identified as
 A, who was indicted on charges including violating the Act on the Control of
-Narcotics, and sent the case back to the Seoul High Court. [@1,2,3,4,6,7,8] A, who ran a
+Narcotics, and sent the case back to the Seoul High Court. [@1,2,3,4,6,7,8,9] A, who ran a
 record production and distribution company, a content firm, and nightlife
 establishments, was brought to trial on charges that included buying large
 quantities of ecstasy and marijuana in 2023 and selling or smoking some of them.
 [@1] Prosecutors also charged that around 9 p.m. in late April 2024, A smoked 1
-gram of marijuana together with four accomplices at an office in Seoul. [@1,8] The group allegedly placed 1 gram of cannabis in an empty can punctured with an awl, lit it with a lighter and inhaled the smoke. [@7] The charged smoking incident took place in an office in Gangnam, Seoul. [@6,7] The
+gram of marijuana together with four accomplices at an office in Seoul. [@1,8] The group allegedly placed 1 gram of cannabis in an empty can punctured with an awl, lit it with a lighter and inhaled the smoke. [@7,9] The charged smoking incident took place in an office in Gangnam, Seoul. [@6,7] The
 trial court found A guilty of the marijuana smoking charge, citing, among other
 things, that the accomplices indicted with A admitted the offense in court, and
 including other drug-related charges, the court sentenced A to three years and
