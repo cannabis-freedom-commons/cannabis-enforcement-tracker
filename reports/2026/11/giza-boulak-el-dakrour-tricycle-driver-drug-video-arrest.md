@@ -73,6 +73,21 @@ sources:
     publisher: المواطن
     date: 2026-11-11
     language: ar
+  - title: ظهر يتعاطى المخدرات على تروسيكل.. ضبط المتهم في بولاق الدكرور
+    url: https://newsroom.info/483763
+    publisher: نيوز رووم
+    date: 2026-11-11
+    language: ar
+  - title: سقوط صاحب فيديو تعاطي المخدرات فوق تروسيكل في بولاق الدكرور
+    url: https://www.algomhor.com/510566
+    publisher: الجمهور
+    date: 2026-11-11
+    language: ar
+  - title: اعترافات سائق تروسيكل متهم بتعاطى المخدرات فى بولاق الدكرور
+    url: https://www.youm7.com/story/2026/11/13/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D9%81%D8%A7%D8%AA-%D8%B3%D8%A7%D8%A6%D9%82-%D8%AA%D8%B1%D9%88%D8%B3%D9%8A%D9%83%D9%84-%D9%85%D8%AA%D9%87%D9%85-%D8%A8%D8%AA%D8%B9%D8%A7%D8%B7%D9%89-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%81%D9%89-%D8%A8%D9%88%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%AF%D9%83%D8%B1%D9%88%D8%B1/7615542
+    publisher: اليوم السابع
+    date: 2026-11-13
+    language: ar
 open_questions:
     - The accounts name no substance, so it is not established that the drug was cannabis.
     - The reports give 5 November as the day of the filmed drug use but no date for the arrest.
@@ -86,16 +101,16 @@ open_questions:
 
 Egypt's Interior Ministry said a video circulating on social media showed a man
 using drugs as he sat on a tricycle, a three-wheeled vehicle, in a street in
-Giza. [@1,3,5,6] The ministry said investigators identified the man in the video and
-arrested him. [@1,3,5,6] It said he was a driver who lived in the Kerdasa
-police-station district. [@2,3,5,6] Questioned, he admitted the offence as shown in
+Giza. [@1,3,5,6,7] The ministry said investigators identified the man in the video and
+arrested him. [@1,3,5,6,8] It said he was a driver who lived in the Kerdasa
+police-station district. [@2,3,5,6,7] Questioned, he admitted the offence as shown in
 the video and said he had used drugs on 5 November while stopped in a street in
-the Boulak El-Dakrour police district. [@1,3,5,6]
+the Boulak El-Dakrour police district. [@1,3,5,6,7]
 
 Al Masry Al Youm attributed the account to an Interior Ministry statement issued
 that day. [@2] Cairo 24 reported that police identified and arrested the man
 after the video spread. [@3] The ministry said the legal measures had been taken
-against the accused. [@2,3,5,6] The accounts describe the drug only as narcotics,
+against the accused. [@2,3,5,6,7] The accounts describe the drug only as narcotics,
 without naming a substance. [@1] The reports give no quantity of the drug and do
 not say whether any was seized with him. [@3] No charge or court appearance has
-been reported. [@1] Giza's public prosecution ordered him held for four days pending investigation on a charge of drug use. [@4]
+been reported. [@1] Giza's public prosecution ordered him held for four days pending investigation on a charge of drug use. [@4] The accused gave his confession to the investigating authorities in Giza, confirming that he was the man in the video. [@9]
