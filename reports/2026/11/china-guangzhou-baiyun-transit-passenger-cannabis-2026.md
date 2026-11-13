@@ -66,6 +66,11 @@ sources:
     publisher: 搜狐网（新黄河）
     date: 2026-11-13
     language: zh
+  - title: 一国际中转旅客行李箱内装大麻40多斤，被广州海关查获_凤凰网
+    url: https://news.ifeng.com/c/8y137k2SIKt
+    publisher: 凤凰网
+    date: 2026-11-13
+    language: zh
 open_questions:
   - Customs dated the interception only as "recently" (近日); 13 November 2026 is the publication date of the customs notice carried by Tencent News and Guancha.
   - Neither report names the traveller, their nationality, or the origin and destination of the flight.
@@ -76,7 +81,7 @@ open_questions:
 
 Guangzhou customs seized 20.051 kg of cannabis in the passenger-inspection
 channel at Guangzhou Baiyun International Airport, according to a Guangzhou
-Customs notice. [@1] Baiyun airport customs officers were screening
+Customs notice. [@1,4] Baiyun airport customs officers were screening
 international transit passengers when one traveller's luggage X-ray image looked
 abnormal, and they stopped and searched that passenger. [@1,3] The suitcase held
 nothing but plastic-bag, vacuum-packed brown-green plant material that gave off
