@@ -54,17 +54,16 @@ sources:
     url: https://www.justice.gov/opa/pr/international-law-enforcement-operation-targeting-opioid-and-fentanyl-traffickers-dark-web
     publisher: U.S. Department of Justice
     date: 2026-11-12
-open_questions:
-  - The sources do not say whether the 50 kilograms of cannabis was dried flower, resin or another product form.
-  - No charges, pleas or court outcomes were reported for the 23 people arrested in France.
-  - No source gives the location within France where the cannabis was seized or the arrests took place.
-  - The 950 kilograms of drugs reported for European countries covers all substances together, so the cannabis share of any European total beyond the 50 kilograms in France cannot be separated.
-  - The operation ran from May 2025 to October 2026, so the report uses the 12 November 2026 results announcement date rather than a single day of enforcement.
+  - title: 全球跨國掃蕩暗網逮354人 查獲近6噸毒品與52億元資產
+    url: https://today.line.me/tw/v3/article/pepxDWN
+    publisher: 民視新聞網（FTV News），經 LINE TODAY 轉載
+    date: 2026-11-12
+    language: zh
 ---
 
 Europol coordinated Operation TorNado with law enforcement agencies from 14
 countries from May 2025 to October 2026, resulting in 354 arrests and hundreds
-of house searches worldwide. [@1] The operation targeted vendors and buyers on
+of house searches worldwide. [@1,5] The operation targeted vendors and buyers on
 the dark web marketplaces Archetyp, Bohemia, Nemesis, Kingdom and Tor2Door, and
 also people active on forums, single-vendor shops and encrypted messaging
 services. [@1]
@@ -77,7 +76,7 @@ and cocaine, with cannabis making up 50 of those kilograms. [@1]
 
 The United States seized over 4.8 metric tonnes of illicit drugs, 152 firearms
 and over EUR 150 million in cash and cryptocurrencies during the same operation.
-[@1] A second account of the operation's results reported the same 23 arrests in
+[@1,5] A second account of the operation's results reported the same 23 arrests in
 France and the same 50 kilograms of cannabis seized there. [@2]
 
 The FBI reported 354 arrests across 14 countries and the seizure of more than
@@ -92,4 +91,3 @@ the follow-up action as Archetyp, Bohemia, Nemesis, Kingdom and Tor2Door. [@4]
 
 The U.S. Department of Justice reported 23 arrests in France among the 354 made
 worldwide. [@4]
-
