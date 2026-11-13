@@ -55,10 +55,21 @@ sources:
     publisher: Ráfaga Noticias
     date: 2026-11-11
     language: es
+  - title: Aseguran mariguana y equipo táctico en cateo en Cuauhtémoc
+    url: https://radionet.com.mx/aseguran-mariguana-y-equipo-tactico-en-cateo-en-cuauhtemoc
+    publisher: Radio NET 1490 AM
+    date: 2026-11-11
+    language: es
 open_questions:
   - The reports give no separate date for the search; 11 November 2026 is the publication date and is used as the incident date.
   - No one was named, and the Fiscalía had not reported any arrests or a court outcome.
   - The reports do not say who lived at the house or whether the clothing marked GAFE 16 was official issue.
+media:
+  - kind: photo
+    url: https://radionet.com.mx/aseguran-mariguana-y-equipo-tactico-en-cateo-en-cuauhtemoc
+    media_url: https://cdn-a.ntmx.me/a/i0B3U4B1RfBdOZrjS0qjE73g7JowzmkwsIFe3fSdyEo/nowm/1200x675/2026/11/57176bcc-5fca-45ae-b05b-40f1ab779890.jpeg
+    publisher: Radio NET 1490 AM
+    caption: 'AEI and Mexican Army officers in tactical gear outside the house searched under court order in colonia Reforma, Cuauhtémoc. Photo: Radio NET 1490 AM'
 ---
 
 Agents of Chihuahua's Fiscalía General del Estado seized a package containing 49
@@ -68,19 +79,18 @@ office had not reported any arrests from the operation. [@1]
 
 The search was carried out at a house on Calle 12, between Quintana Roo and
 Chiapas, under a judicial warrant from an investigation into crimes against
-health. [@1] Officers of the Agencia Estatal de Investigación, the state
+health. [@1,4] Officers of the Agencia Estatal de Investigación, the state
 investigative agency attached to the Fiscalía de Distrito Zona Occidente, took
-part, together with personnel of the Mexican Army. [@3] The inspection was led
+part, together with personnel of the Mexican Army. [@3,4] The inspection was led
 by the public prosecutor in charge of the investigation file. [@3]
 
 During the inspection, officers found dried cannabis inside a black plastic bag.
-[@1] The bag held 49 grams of a green, dry, odorous herb with the
+[@1,4] The bag held 49 grams of a green, dry, odorous herb with the
 characteristics of marijuana. [@2] Officers also seized a green pixelated
-military-style shirt and a harness with shoulder straps marked GAFE 16. [@1]
+military-style shirt and a harness with shoulder straps marked GAFE 16. [@1,4]
 
 The seized items were turned over to the Unidad de Investigación contra el
 Narcomenudeo, the unit that investigates small-scale drug dealing, so the
-inquiry could continue. [@1] The case file concerns crimes against health in the
+inquiry could continue. [@1,4] The case file concerns crimes against health in the
 modality of narcomenudeo, and investigators were seeking to identify those
-responsible. [@2]
-
+responsible. [@2,4]
