@@ -71,6 +71,11 @@ sources:
     publisher: 서울경제
     date: 2026-11-13
     language: ko
+  - title: 대법 "다른 시기 범행일 수 있는 공범들 자백, 유죄 근거 안 돼"
+    url: https://www.news1.kr/society/court-prosecution/6352000
+    publisher: 뉴스1
+    date: 2026-11-13
+    language: ko
 media:
   - kind: photo
     url: https://news.sbs.co.kr/english/article.do?news_id=N1008844852
@@ -102,7 +107,7 @@ six months in prison and ordered 22.8 million won in forfeiture. [@1,3,4,6,8] On
 A argued that the smoking actually occurred in late April 2023 and that the
 indictment mistakenly listed April 2024, and said the confession at the first
 trial referred to the 2023 incident and that there was no marijuana smoking in
-April 2024. [@1,6] The appellate court upheld the guilty verdict, saying there was
+April 2024. [@1,6,10] The appellate court upheld the guilty verdict, saying there was
 no reason to suspect the confession was coerced and noting the accomplices'
 statements, and reduced the forfeiture to 12.68 million won to avoid
 double-counting the value of 144 ecstasy pills already forfeited in another
@@ -111,7 +116,7 @@ records of A and the accomplices that the first-instance court relied on as
 evidence all concerned marijuana smoking in late April 2023, and that the
 interviews also took place before late April 2024, and that the toxicology
 reports on urine and hair were likewise all prepared before the alleged date of
-the offense in the indictment. [@1,6,8] The Supreme Court also found it hard to rule
+the offense in the indictment. [@1,6,8,10] The Supreme Court also found it hard to rule
 out the possibility that the accomplices' in-court confessions referred to the
 April 2023 smoking incident, and therefore held that their testimony could not
 be deemed sufficient to corroborate A's confession, and that the remaining
