@@ -57,20 +57,25 @@ sources:
     publisher: Báo An Giang (Vietnam.vn)
     date: 2026-11-13
     language: vi
+  - title: Peste 350 de arestări şi confiscări de droguri, arme de foc, numerar şi criptomonede într-o operaţiune vastă, TorNado, împotriva utilizatorilor dark webului în întreaga lume, anunţă Europol | News.ro
+    url: https://www.news.ro/externe/peste-350-de-arestari-si-confiscari-de-droguri-arme-de-foc-numerar-si-criptomonede-intr-o-operatiune-vasta-tornado-impotriva-utilizatorilor-dark-webului-in-intreaga-lume-anunta-europol-1922402813002026111222985011
+    publisher: News.ro
+    date: 2026-11-13
+    language: ro
 ---
 
 United States and European officials said police arrested 354 people in a global
-crackdown on dark-web users. [@1,2,3,4] Europol coordinated the worldwide sting,
+crackdown on dark-web users. [@1,2,3,4,5] Europol coordinated the worldwide sting,
 codenamed Operation TorNado, with other authorities between May 2025 and October
-2026, leading to hundreds of raids worldwide. [@1,4] Most arrests were in the
+2026, leading to hundreds of raids worldwide. [@1,4,5] Most arrests were in the
 United States (132), followed by Britain (59), Hungary (45), Germany (41) and
 France (23). [@1] The operation was aimed at cybercrime, drug trafficking and the illegal firearms trade, and Belgium was not involved. [@3]
 
 In Europe, authorities seized almost one tonne of drugs including amphetamines,
-ketamine, MDMA, cocaine and cannabis. [@1,2,3,4] In the United States, more than 4.8
+ketamine, MDMA, cocaine and cannabis. [@1,2,3,4,5] In the United States, more than 4.8
 tonnes of drugs were found, along with 152 firearms and US$166 million in cash
-and cryptocurrency. [@1] The value of the cash and cryptocurrency seized by US authorities, 1.5 billion euros, is about 5.2 billion New-Taiwan dollars and 1.66 billion US dollars. [@2] Police forces in 14 countries took part in the
-operation. [@1]
+and cryptocurrency. [@1,5] The value of the cash and cryptocurrency seized by US authorities, 1.5 billion euros, is about 5.2 billion New-Taiwan dollars and 1.66 billion US dollars. [@2] Police forces in 14 countries took part in the
+operation. [@1,5]
 
 FBI Deputy Director Christopher Raia said Operation TorNado addressed
 trafficking in fentanyl and other deadly drugs via the dark web. [@1] Europol
