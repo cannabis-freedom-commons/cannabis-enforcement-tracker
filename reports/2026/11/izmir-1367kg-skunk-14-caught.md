@@ -52,39 +52,35 @@ sources:
     publisher: Habertürk
     date: 2026-11-12
     language: tr
-open_questions:
-  - The articles give no separate date for the seizures or the raids; 12 November 2026 is the publication date used here.
-  - It is unclear whether the 14 suspects İhlas Haber Ajansı said were caught include both the three remanded after the interim seizures and the 11 detained in the address raids, or whether those groups overlap.
-  - İhlas Haber Ajansı wrote the pharmaceutical powder as a net 1.728 grams, while Demirören Haber Ajansı reported 1,728 grams of pregabalin; the reports do not say whether these are the same amount.
-  - No district, address or suspect's name was published.
-  - No street value was given for the skunk.
-  - No later charge or court outcome was reported beyond three remands and continuing proceedings for those still in custody.
-  - The 24 drug pills found at the addresses were not identified, so they are not counted as cannabis.
+  - title: İzmir'deki uyuşturucu operasyonlarında 1 ton 367 kilo skunk ve 57 bin ecstasy ele geçirildi
+    url: https://www.ahaber.com.tr/gundem/2026/11/12/izmirde-1-ton-367-kilo-skunk-ve-57-bin-ecstasy-ele-gecirildi
+    publisher: A Haber
+    date: 2026-11-12
+    language: tr
 ---
 
 Police in İzmir seized more than a tonne of skunk esrar, a herbal cannabis
-preparation, in operations against drug trafficking. [@1] The İzmir chief public
-prosecutor's office, the Cumhuriyet Başsavcılığı, coordinated the work. [@1] The
+preparation, in operations against drug trafficking. [@1,3] The İzmir chief public
+prosecutor's office, the Cumhuriyet Başsavcılığı, coordinated the work. [@1,3] The
 narcotics crimes branch of the provincial police directorate, the Narkotik
 Suçlarla Mücadele Şube Müdürlüğü, carried out the surveillance and the seizures.
 [@1]
 
 After technical and physical surveillance, officers made four separate interim
 seizures. [@1] Those seizures yielded 1 tonne 367 kilograms 500 grams of skunk,
-about 1,367.5 kilograms, and 57,000 ecstasy pills. [@1] Demirören Haber Ajansı
-reported that the operations also yielded 1,728 grams of pregabalin. [@2] İhlas
+about 1,367.5 kilograms, and 57,000 ecstasy pills. [@1,3] Demirören Haber Ajansı
+reported that the operations also yielded 1,728 grams of pregabalin. [@2,3] İhlas
 Haber Ajansı called the powder seized in the same work pharmaceutical powder.
-[@1] Three suspects linked to the operation were remanded in custody. [@1]
-Judicial proceedings were started against one other suspect. [@1]
+[@1] Three suspects linked to the operation were remanded in custody. [@1,3]
+Judicial proceedings were started against one other suspect. [@1,3]
 
 Officers then raided 15 addresses at the same time, 13 homes and two workplaces,
-to catch people linked to the drug trade. [@1] Eleven suspects were taken into
-gözaltı, police custody for questioning. [@1] A search continued for one suspect
-still at large. [@1] İhlas Haber Ajansı said 14 suspects were caught in all.
+to catch people linked to the drug trade. [@1,3] Eleven suspects were taken into
+gözaltı, police custody for questioning. [@1,3] A search continued for one suspect
+still at large. [@1,3] İhlas Haber Ajansı said 14 suspects were caught in all.
 [@1] Searches at the addresses also found one pistol, one magazine, 17
 cartridges and 24 drug pills. [@1]
 
 Demirören Haber Ajansı said the operations targeted the manufacture and trade of
 narcotic or stimulant substances. [@2] It said proceedings for the suspects
 still in police custody were continuing. [@2]
-
