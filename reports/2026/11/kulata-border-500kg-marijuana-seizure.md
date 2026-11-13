@@ -125,6 +125,10 @@ sources:
     publisher: Banker
     date: 2026-11-12
     language: bg
+  - title: Around 500 kg of marijuana seized during inspection of a truck at the Kulata border crossing
+    url: https://fakti.bg/en/amp/krimi/1100090-around-500-kg-of-marijuana-seized-during-inspection-of-a-truck-at-the-kulata-border-crossing
+    publisher: Fakti.bg
+    date: 2026-11-12
 media:
   - kind: photo
     url: https://nova.bg/news/view/2026/11/12/558968/%D0%B1%D0%BB%D0%B8%D0%B7%D0%BE-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD-%D1%82%D0%BE%D0%BD-%D0%BC%D0%B0%D1%80%D0%B8%D1%85%D1%83%D0%B0%D0%BD%D0%B0-%D0%BE%D1%82%D0%BA%D1%80%D0%B8%D1%85%D0%B0-%D0%B2-%D0%BA%D0%B0%D0%BC%D0%B8%D0%BE%D0%BD-%D1%81-%D0%BA%D0%BE%D0%BB%D0%B1%D0%B0%D1%81%D0%B8-%D0%B8-%D1%87%D1%83%D1%88%D0%BA%D0%B8-%D0%BD%D0%B0-%D0%BA%D1%83%D0%BB%D0%B0%D1%82%D0%B0-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8/
@@ -156,17 +160,14 @@ media:
     media_url: https://banker.bg/wp-content/uploads/photo-collage.png-82.png
     publisher: Banker
     caption: 'Photo collage of the customs inspection and the marijuana packages found in the refrigerated trailer at Kulata, published with the Banker report on the 497.9 kg find. Photo: Banker collage of Customs Agency handout images.'
-open_questions:
-    - No court ruling on the prosecution's request to keep the driver in custody had been reported.
-    - The declared recipients of the sausage and pepper load in Bulgaria are not named.
 ---
 
 A joint operation by Bulgaria's Customs Agency, the Ministry of the Interior and
 the prosecution service was carried out at the Kulata border checkpoint, where
 officers stopped a freight truck travelling on the designated entry lane into
-the country. [@1,6,18] The truck was entering Bulgaria from Greece. [@3,4,5,7,8,9,10,12,13,18] The driver declared his load was sausages and peppers, loaded in Spain and intended for Bulgarian consumers. [@18] During the subsequent inspection of the heavy-goods truck
+the country. [@1,6,18] The truck was entering Bulgaria from Greece. [@3,4,5,7,8,9,10,12,13,18,19] The driver declared his load was sausages and peppers, loaded in Spain and intended for Bulgarian consumers. [@18] During the subsequent inspection of the heavy-goods truck
 combination, the checking officers found nearly 500 kilograms of marijuana in
-the transported load. [@1,6,7,10,18] The truck was first selected for X-ray screening, which showed a suspicious zone in the front of the refrigerated semi-trailer. [@17,18] Customs put the total gross weight at 497.90 kilograms, in 445 vacuum-packed packages. [@14,17,18] The marijuana was packed in 22 boxes behind a partition wall in the refrigerated trailer. [@18] The Bulgarian driver was detained. [@2,3,5,7,11,18] NewsPoint named Vangel Mitsev of Plovdiv as the driver, and said investigators had not officially confirmed his identity. [@5] The driver has been charged and detained for 72 hours. [@4,8,9,12,13,17,18] A pre-trial proceeding was opened under the supervision of the Blagoevgrad district prosecutor's office. [@18] The driver, a 51-year-old from Plovdiv, is charged over the shipment; the offence carries 10 to 15 years in prison and a fine of 100,000 to 200,000 euro. [@15,18] After the stop the driver was taken to the emergency department of MBAL Blagoevgrad on 10 November, shortly after 22:00, and remained in custody after a medical examination. [@5] The marijuana was found in a specially built hide in a freight vehicle driven by a Bulgarian driver. [@2,3,5,7,10,12,18] Inside the hide, inspectors found bags of dry plant material that a field test indicated was marijuana. [@12,13] Customs officers found an extra rear board on the trailer, with a hidden compartment behind it holding boxes of cannabis packages. [@5] Infomrezha expressly presented the nearly
+the transported load. [@1,6,7,10,18] The truck was first selected for X-ray screening, which showed a suspicious zone in the front of the refrigerated semi-trailer. [@17,18,19] Customs put the total gross weight at 497.90 kilograms, in 445 vacuum-packed packages. [@14,17,18,19] The marijuana was packed in 22 boxes behind a partition wall in the refrigerated trailer. [@18] The Bulgarian driver was detained. [@2,3,5,7,11,18] NewsPoint named Vangel Mitsev of Plovdiv as the driver, and said investigators had not officially confirmed his identity. [@5] The driver has been charged and detained for 72 hours. [@4,8,9,12,13,17,18,19] A pre-trial proceeding was opened under the supervision of the Blagoevgrad district prosecutor's office. [@18,19] The driver, a 51-year-old from Plovdiv, is charged over the shipment; the offence carries 10 to 15 years in prison and a fine of 100,000 to 200,000 euro. [@15,18] After the stop the driver was taken to the emergency department of MBAL Blagoevgrad on 10 November, shortly after 22:00, and remained in custody after a medical examination. [@5] The marijuana was found in a specially built hide in a freight vehicle driven by a Bulgarian driver. [@2,3,5,7,10,12,18] Inside the hide, inspectors found bags of dry plant material that a field test indicated was marijuana. [@12,13] Customs officers found an extra rear board on the trailer, with a hidden compartment behind it holding boxes of cannabis packages. [@5] Infomrezha expressly presented the nearly
 500-kilogram quantity as unofficial information provided to its own newsroom
 rather than as a confirmed official measurement. [@1]
 
