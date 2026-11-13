@@ -208,6 +208,11 @@ sources:
     publisher: قضية رأي عام
     date: 2026-11-07
     language: ar
+  - title: ضبط عاطلين بترويج الحشيش شرق الإسكندرية بعد تداول فيديو
+    url: https://ekhbary24.com/article/51367
+    publisher: إخباري 24 نيوز
+    date: 2026-11-12
+    language: ar
 open_questions:
   - The reports give no date for the arrests; 30 October 2026, when both were published, is used as the incident date.
   - Neither report gives the weight of the hashish found with the employee or with the supplier.
@@ -281,11 +286,11 @@ that the arrested men had two mobile phones with them. [@22,23,24,26,27,29]
 
 Later accounts, published up to 7 November, describe both arrested men as unemployed and say they
 admitted committing the offence on 30 October and holding the drugs for both use and trafficking.
-[@21,23,27,29]
+[@21,23,27,29,31]
 
 ## Prosecution
 
-The public prosecution took over the investigation. [@2,3,4,7,8,9,10,13,16,17,18,20,24,27,28]
+The public prosecution took over the investigation. [@2,3,4,7,8,9,10,13,16,17,18,20,24,27,28,31]
 Alexandria prosecutors ordered the employee and the delivery worker held for four days pending
 investigation and sent the seized drugs to the chemical laboratory. [@14] Another account says the
 Montazah prosecution ordered all three held for four days on charges of drug use and possession of

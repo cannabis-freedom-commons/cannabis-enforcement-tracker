@@ -63,21 +63,18 @@ sources:
     publisher: اخبار مصر لحظة بلحظة
     date: 2026-11-07
     language: ar
-open_questions:
-  - The sources give no separate date for the arrests; 7 November 2026, when the ministry statement was republished, is used and the men said the filmed offence took place on 30 October.
-  - No weight or street value was published for the hashish found with the two men, so no cannabis quantity or value is recorded.
-  - The sources do not name the two men, give their ages, or say whether charges were filed; the public prosecution took over the investigation.
-  - All accounts read reproduce the same Interior Ministry statement, and no independent reporting on the arrests was found.
-  - This account describes both arrested men as unemployed residents of the First Montazah district and both as trafficking, unlike the recorded 30 October Alexandria street-video case, in which the filmed pair were a company employee and a delivery worker and a third man was the supplier.
-  - The Sada El Arab page, like the Masrawy account, gives no weight for the hashish found with the two men and no value estimate.
-  - The page gives 30 October only as the date the two men said they committed the offence, and no separate date for their arrest.
+  - title: ضبط عاطلين بترويج الحشيش شرق الإسكندرية بعد تداول فيديو
+    url: https://ekhbary24.com/article/51367
+    publisher: إخباري 24 نيوز
+    date: 2026-11-12
+    language: ar
 ---
 
 Security services identified two men from a video on social media in which its
 publisher complained that they were selling and using drugs on a street in
 Alexandria Governorate, and arrested them. [@1,4,5] Both arrested men are unemployed
-and live in the First Montazah police district in eastern Alexandria. [@1,5] A
-quantity of hashish and two mobile phones were found with the two men. [@1,5] A
+and live in the First Montazah police district in eastern Alexandria. [@1,5,6] A
+quantity of hashish and two mobile phones were found with the two men. [@1,5,6] A
 Masrawy account of the Interior Ministry statement gives the same two arrests in
 the First Montazah district and the same hashish and two phones found with them.
 [@2]
@@ -85,11 +82,11 @@ the First Montazah district and the same hashish and two phones found with them.
 The Interior Ministry said no formal complaints had been filed about the
 incident before its security services acted on the video. [@1] Questioned, the
 two admitted the offence as shown in the video and said it happened on 30
-October. [@1,5] Both admitted holding drugs both for their own use and for sale,
-and the public prosecution opened an investigation. [@1] The Masrawy account
+October. [@1,5,6] Both admitted holding drugs both for their own use and for sale,
+and the public prosecution opened an investigation. [@1,6] The Masrawy account
 also reports that both admitted holding the drugs for use and for trafficking
 and that the public prosecution took over the investigation. [@2]
 
 Police took the two men to complete the legal procedures after their arrest.
-[@1,4] A Veto account says the two men were referred to the investigating
+[@1,4,6] A Veto account says the two men were referred to the investigating
 authorities after the legal procedures were taken against them. [@3]
