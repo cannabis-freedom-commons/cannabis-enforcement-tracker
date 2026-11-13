@@ -62,6 +62,11 @@ sources:
     publisher: وكالة الأنباء الأردنية (بترا)
     date: 2026-10-08
     language: ar
+  - title: مكافحة المخدرات تتعامل مع 13 قضية تلقي القبض خلالها على 31 تاجراً ومروجاً
+    url: https://petra.gov.jo/awiki/index.php/ar/news/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D9%85%D8%B9-13-%D9%82%D8%B6%D9%8A%D8%A9-%D8%AA%D9%84%D9%82%D9%8A-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%AE%D9%84%D8%A7%D9%84%D9%87%D8%A7-%D8%B9%D9%84%D9%89-31-%D8%AA%D8%A7%D8%AC%D8%B1%D8%A7-%D9%88%D9%85%D8%B1%D9%88%D8%AC%D8%A7
+    publisher: وكالة الأنباء الأردنية (بترا)
+    date: 2026-10-08
+    language: ar
 media:
   - kind: photo
     url: https://petra.gov.jo/en/news/anti-narcotics-department-arrests-31-in-13-drug-cases-across-kingdom
@@ -73,20 +78,20 @@ media:
 The Anti-Narcotics Department continued its campaigns and raids targeting
 drug dealers and traffickers, dealing with 13 cases across the Kingdom over
 several days and arresting 31 suspects and dealers, the Public Security
-Directorate spokesperson said Thursday, October 8, 2026. [@1,4][@2]
+Directorate spokesperson said Thursday, October 8, 2026. [@1,4,5][@2]
 
 In the most prominent case, a specialized team working with security agencies
 and Jordan Customs followed up on information about a person in Aqaba
 allegedly smuggling drugs into the Kingdom by boat; officers raided the
 suspect, arrested him and seized 132 slabs of hashish inside the boat, while
-an alleged accomplice was referred for arrest. [@1,4][@2][@3]
+an alleged accomplice was referred for arrest. [@1,4,5][@2][@3]
 
 In another Aqaba case, officers raided two dealers transporting narcotics in
 a vehicle and arrested them with 44 slabs of hashish and a quantity of
-marijuana. [@1,4] In Madaba Governorate, a team monitoring suspects using tents
+marijuana. [@1,4,5] In Madaba Governorate, a team monitoring suspects using tents
 to store and trade narcotics raided them and arrested five, seizing 43 slabs
 of hashish; questioning led to another 24 slabs and two firearms at a rugged
-mountainous location. [@1,4][@2]
+mountainous location. [@1,4,5][@2]
 
 Further raids netted an armed high-risk suspect in western Balqa with crystal
 methamphetamine, a hashish slab and two firearms; three suspects in
