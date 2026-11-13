@@ -74,6 +74,11 @@ sources:
     publisher: 아주경제
     date: 2026-11-12
     language: ko
+  - title: '[独占]「大麻ゼリー」摘発で起訴..ビルスタックス、12月8日に法廷で対決'
+    url: https://www.starnewskorea.com/ja/music/2026/11/12/2026111120314146511
+    publisher: STARNEWS
+    date: 2026-11-12
+    language: ja
 media:
   - kind: photo
     url: https://www.ajunews.com/view/20261112133521981
@@ -88,7 +93,7 @@ open_questions:
 
 ## Indicted without detention
 
-The Suwon District Public Prosecutors Office indicted a rapper in his forties, later named as Bill Stax, without detention on 16 October 2026 for violating the Narcotics Control Act. [@1,2,3,4,5,7,8] Suwon District Court Criminal Division 12 is scheduled to hold Bill Stax's first hearing on 8 December 2026. [@3,6,7,8,9] Bill Stax is 46-year-old Shin Dong-yeol, formerly known as Vasco, who appeared on Mnet's Show Me The Money. [@2,7] He debuted in 2004 under the name Vasco and changed his stage name to Bill Stax in 2016. [@9] He is accused of buying cannabis and cannabis jelly from a drug dealer, Mr. B, in November 2025 and smoking marijuana. [@1,2,3,6,7,8,9] SBS added that prosecutors believe he bought from a second dealer and smoked again in August 2026. [@1]
+The Suwon District Public Prosecutors Office indicted a rapper in his forties, later named as Bill Stax, without detention on 16 October 2026 for violating the Narcotics Control Act. [@1,2,3,4,5,7,8] Suwon District Court Criminal Division 12 is scheduled to hold Bill Stax's first hearing on 8 December 2026. [@3,6,7,8,9,10] Bill Stax is 46-year-old Shin Dong-yeol, formerly known as Vasco, who appeared on Mnet's Show Me The Money. [@2,7] He debuted in 2004 under the name Vasco and changed his stage name to Bill Stax in 2016. [@9] He is accused of buying cannabis and cannabis jelly from a drug dealer, Mr. B, in November 2025 and smoking marijuana. [@1,2,3,6,7,8,9,10] SBS added that prosecutors believe he bought from a second dealer and smoked again in August 2026. [@1]
 
 The case grew out of the investigation into Mr. B, a man in his thirties accused of growing cannabis at home and manufacturing cannabis jelly from August 2024 to June 2026. [@1,2,3,7,8] Mr. B made about 8 million won selling some 105 grams of marijuana and 50 cannabis gummies, including sales to Bill Stax at a Hongdae club in November 2025. [@1] Police searched Bill Stax's home in August 2026, reported finding marijuana and suspected liquid marijuana, and said a preliminary drug test came back positive. [@1] Mr. B was indicted under detention in July. [@1,3,7,8] The joint drug crime investigation headquarters found that two people, Bill Stax and one other, bought and used the dealer's cannabis. [@3,7]
 
