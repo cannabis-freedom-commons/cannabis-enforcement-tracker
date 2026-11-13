@@ -59,6 +59,24 @@ type eventWriter struct {
 	events           int
 	steps            int // model steps finished, for the step dividers in the public chat
 	failed           int // chat messages that could not be stored
+	// the last provider error OpenCode reported (its type and HTTP status), to retry a passing one
+	providerType   string
+	providerStatus int
+	providerError  bool
+}
+
+// passingProviderError: the provider's last error is one that can clear up by itself (a model it
+// briefly did not know, a rate limit, an outage), not refused credentials.
+func (w *eventWriter) passingProviderError() bool {
+	if !w.providerError || w.providerType == "provider.auth" || w.providerStatus == 401 || w.providerStatus == 403 {
+		return false
+	}
+	switch w.providerType {
+	case "provider.internal", "provider.unknown", "provider.rate-limit":
+		return true
+	}
+	s := w.providerStatus
+	return s == 404 || s == 408 || s == 409 || s == 425 || s == 429 || s >= 500
 }
 
 func (w *eventWriter) Write(p []byte) (int, error) {
@@ -399,6 +417,7 @@ func (w *eventWriter) handle(line []byte) error {
 			role, kind, text = "assistant", "reasoning", w.safeN(value, 4000)
 		}
 	case "error":
+		w.providerError, w.providerType, w.providerStatus = true, e.Error.Type, e.Error.Status
 		text = "OpenCode reported an error" + w.errorDetail(e)
 		role, kind, text = "system", "error", text+"."
 	}

@@ -1042,6 +1042,12 @@ func resumableRunError(err error) bool {
 	return err != nil && !errors.Is(err, store.ErrResearchAgent)
 }
 
+// how often, and after how long a wait (growing with each retry), a run continues its session after
+// a provider error that can pass
+const providerRetries = 3
+
+var providerRetryWait = 10 * time.Second
+
 const resumeMessage = "Your previous run in this session was interrupted before you gave your final answer. " +
 	"Continue from where you stopped, using the sources and reports you already read; do not start over. " +
 	"Check your result with the check_result tool if it is available, then return exactly one complete JSON result matching the contract in the agent instructions."
@@ -1427,6 +1433,36 @@ func (r Runner) execute(ctx context.Context, cid, dir, run string, cmd *exec.Cmd
 	cmd.Stdout = io.MultiWriter(out, raw, events)
 	cmd.Stderr = io.MultiWriter(stderr, diagnostics)
 	err = cmd.Run()
+	// a provider error that can pass (an HTTP 404 "unknown model", a rate limit, an outage) does not
+	// end the run: after a short wait the same session continues where it stopped, a few times, in
+	// the run's own time. Only the local runner keeps the session between invocations.
+	for retry := 1; retry <= providerRetries && events.passingProviderError() && ctx.Err() == nil && r.Config.ResearchRunner == "local"; retry++ {
+		wait := time.Duration(retry) * providerRetryWait
+		status := ""
+		if events.providerStatus > 0 {
+			status = fmt.Sprintf(" (HTTP %d)", events.providerStatus)
+		}
+		_ = r.Store.AddAIEvent(ctx, cid, run, "user", "request", fmt.Sprintf("The model provider failed%s. Continuing the same session in %s, where it stopped (retry %d of %d).", status, wait, retry, providerRetries))
+		select {
+		case <-ctx.Done():
+		case <-time.After(wait):
+		}
+		if ctx.Err() != nil {
+			break
+		}
+		args := cmd.Args[1:]
+		if events.steps > 0 { // a session exists: continue it; before the first step, start again
+			args = correctionArgs(args, resumeMessage)
+		}
+		next := exec.CommandContext(ctx, cmd.Path, args...)
+		next.Env, next.Dir = cmd.Env, cmd.Dir
+		out, stderr = &capped{Max: 4 * 1024 * 1024}, &capped{Max: 256 * 1024}
+		events.providerError, events.providerType, events.providerStatus = false, "", 0
+		next.Stdout = io.MultiWriter(out, raw, events)
+		next.Stderr = io.MultiWriter(stderr, diagnostics)
+		cmd = next
+		err = cmd.Run()
+	}
 	if err != nil {
 		failure := runnerFailure(ctx, err, r.Config.ResearchTimeout, events.steps, stderr.String())
 		var exit *exec.ExitError
