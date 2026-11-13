@@ -68,14 +68,11 @@ sources:
     publisher: المصري اليوم
     date: 2026-11-12
     language: ar
-open_questions:
-    - No weight for the hashish was published, so no cannabis quantity is recorded.
-    - No date was published for the arrests or the first-instance verdict, and the 12 November adjournment report gives no separate hearing date; its publication date is used as the incident date.
-    - The final outcome of the appeals remains unknown; the next hearing is scheduled for 13 December 2026.
-    - No cash total was quantified, so no value or cash figure is recorded.
-    - The structured prison figure records the 15-year drug-trafficking term; the additional three-year firearms terms for two defendants are given in the text.
-    - The accounts repeat the same referral order and police testimony, and no independent reporting of the appeal hearings was found.
-    - The court did not specify which evidence the requested chemical-laboratory report would examine.
+  - title: اليوم.. استئناف محاسب وصاحبي مكتب ملابس على حكم سجنهم بتهمة الاتجار في المخدرات وحيازة أسلحة نارية
+    url: https://www.almasryalyoum.com/news/details/4408309
+    publisher: المصري اليوم
+    date: 2026-11-12
+    language: ar
 ---
 
 Cairo's appellate criminal court was due to resume on Sunday hearing the appeals
@@ -85,22 +82,22 @@ three defendants are a 31-year-old accountant and two clothing-store owners aged
 36 and 32 who were accused of possessing hashish, cannabis resin, for
 trafficking outside legally permitted cases. [@1,2,3,4,5] The trial court sentenced all
 three to 15 years of rigorous imprisonment and fined each of them 100,000
-Egyptian pounds for drug trafficking. [@1,2,3,4,5] It also sentenced the first and
+Egyptian pounds for drug trafficking. [@1,2,3,4,5,6] It also sentenced the first and
 second defendants to three years of rigorous imprisonment for possessing
 firearms and ammunition, while acquitting the third defendant of the weapons
-charge. [@1,3,5]
+charge. [@1,3,5,6]
 
 An anti-narcotics officer acting on prosecution permission searched the first
 defendant, catching him with hashish and cash, and found a firearm and
-ammunition in his car. [@1,3] Another anti-narcotics inspector acting on
+ammunition in his car. [@1,3,6] Another anti-narcotics inspector acting on
 prosecution orders detained the second defendant with the third defendant
 present, finding hashish, cash and mobile phones on them and later recovering a
-shotgun and ammunition on the second defendant's guidance. [@1,3] The referral
+shotgun and ammunition on the second defendant's guidance. [@1,3,6] The referral
 states that the first defendant held an unlicensed blank-firing pistol with four
 rounds and that the second and third held a shotgun with five rounds without
-licences. [@1,3]
+licences. [@1,3,6]
 
 The Ain Shams case was before Cairo's appellate criminal court, with the appeals
-still to be heard at publication. [@1]
+still to be heard at publication. [@1,6]
 
 Cairo's appellate criminal court postponed the hearing on the three defendants' appeals to the 12 November session. [@2,3] Cairo's appellate criminal court adjourned the three defendants' appeals to 13 December 2026 for a chemical-laboratory report. [@5]
