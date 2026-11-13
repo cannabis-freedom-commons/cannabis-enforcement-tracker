@@ -11,18 +11,32 @@ title: Convicted ganja peddler escapes from Madurai court premises
 summary: >-
   A special NDPS court in Madurai convicted a ganja peddler, Raja of Sirumalai in Dindigul district, over illegal ganja trafficking reported in May 2024, and he escaped from the court premises minutes after the judgment. Police launched a manhunt in the city to apprehend the fleeing convict.
 details:
-  agencies: [First Additional Special Court for NDPS Act Cases]
-  agency_types: [court, police]
-  activity: [trafficking]
-  charges: [illegal trafficking of ganja]
-  case_stage: convicted
-  date_precision: exact
+    agencies: [Dindigul prohibition enforcement wing, First Additional Special Court for NDPS Act Cases]
+    agency_types: [anti-narcotics, court, police]
+    activity: [trafficking]
+    charges: [illegal trafficking of ganja]
+    case_stage: sentenced
+    date_precision: exact
+    products:
+        - {product: flower, kg: 30}
+    setting: [vehicle]
+    sentence_types: [fine, prison]
+    region: Tamil Nadu
 data_sources:
-  details.activity: [1]
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.charges: [1]
+    details.activity: [6]
+    details.agencies: [6]
+    details.agency_types: [6]
+    details.case_stage: [6]
+    details.charges: [6]
+    details.products: [7]
+    details.sentence_types: [6]
+    details.setting: [6]
+    figures.arrested: [7]
+    figures.charged: [7]
+    figures.fine: [6]
+    figures.kg_seized: [7]
+    figures.prison: [6]
+    figures.sentenced: [7]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: dad6e08ac49a774aa3d126c79ba5daf1
@@ -50,23 +64,37 @@ sources:
     publisher: Hindu Tamil Thisai
     date: 2026-11-12
     language: ta
+  - title: Convict escapes from Madurai court minutes after sentencing, caught after several hours
+    url: https://timesofindia.indiatimes.com/city/madurai/convict-escapes-from-madurai-court-minutes-after-10-year-jail-sentence/articleshow/135777063.cms
+    publisher: The Times of India
+    date: 2026-11-12
+  - title: 'மதுரை நீதிமன்றத்தில் தப்பிய கஞ்சா குற்றவாளி ராஜா: திண்டுக்கல்லில் அதிரடி கைது!'
+    url: https://tamil.abplive.com/news/madurai/madurai-court-ganja-smuggling-accused-raja-escape-dindigul-tnn-279538
+    publisher: ABP Nadu
+    date: 2026-11-12
+    language: ta
 open_questions:
-    - The reports do not say whether Raja was in custody or on bail when he appeared in court.
-    - The Rediff account is credited to the PTI news agency, so it may be a republication of the same agency copy rather than independent confirmation of the escape.
-    - The accounts spell the judge's name differently, as Sudhakar in Rediff, The Times of India and Hindu Tamil Thisai and G. Sudhagar in The Hindu.
-    - The Tamil ABP Nadu account gives Raja's age as 25 but does not say when he was arrested or whether he had been in custody.
-    - The Tamil ABP Nadu account credits WhatsApp as its source.
-    - The reports give no exact place or time for Raja's arrest near Dindigul.
-    - No separate charge or court outcome was reported for the escape itself.
+    - The report does not say whether Raja was in custody or on bail when he appeared in court.
+    - No report says whether Raja faces a further charge for escaping from the court premises.
+also: [arrest, sentence]
+figures:
+    arrested: 1
+    charged: 6
+    kg_seized: 30
+    prison: 10 years
+    fine:
+        amount: 100000
+        currency: INR
+    sentenced: 6
 ---
 
 A special court in Madurai convicted a ganja peddler, Raja of Sirumalai in
-Dindigul district, in a 2024 case under the NDPS Act. [@1,2,3] Raja was 25 years old. [@3] Raja was arrested by the anti-narcotics police for selling ganja. [@2] Raja escaped from the
+Dindigul district, in a 2024 case under the NDPS Act. [@1,2,3,6] Raja was 25 years old. [@3] Raja was arrested by the anti-narcotics police for selling ganja. [@2] Raja escaped from the
 court premises on Thursday 12 November 2026, minutes after the judgment
-convicting him was pronounced. [@1,2,3,4,5] Raja, who was 25, allegedly sought permission to answer nature's call before quietly slipping away as police personnel prepared to escort him to prison. [@4]
+convicting him was pronounced. [@1,2,3,4,5,7] Raja, who was 25, allegedly sought permission to answer nature's call before quietly slipping away as police personnel prepared to escort him to prison. [@4]
 
-Police launched a manhunt in the city to apprehend the fleeing convict. [@1,2,4,5] Searches were intensified at the Mattuthavani, Anna and Arappalayam bus terminuses in Madurai. [@2,3] After searches at the Mattuthavani, Anna and Arappalayam bus stands, a special team formed by the Dindigul district superintendent of police traced and arrested Raja near Dindigul. [@4]
+Police launched a manhunt in the city to apprehend the fleeing convict. [@1,2,4,5,6] Police arrested Raja near Dindigul. [@7] Searches were intensified at the Mattuthavani, Anna and Arappalayam bus terminuses in Madurai. [@2,3] After searches at the Mattuthavani, Anna and Arappalayam bus stands, a special team formed by the Dindigul district superintendent of police traced and arrested Raja near Dindigul. [@4]
 Judge G. Sudhagar of the First Additional Special Court for NDPS Act Cases
 convicted Raja, along with a few other accused, over illegal trafficking of
-ganja reported in Dindigul in May 2024. [@1] Special public prosecutor Savuriraman appeared for the prosecution. [@5] Police found 30 kg of ganja being transported in the autorickshaw they stopped on 20 May 2024. [@5] Special public prosecutor S Raman appeared for the prosecution. [@4] The court held that the charges against all six accused had been proved beyond reasonable doubt. [@4] Police registered a case against six men, Subramani, Madhankumar, Madhubalan, Thamaraikannan, Madhavan and Raja. [@4,5] The Dindigul prohibition enforcement wing seized 30 kg of ganja from an autorickshaw travelling from Tiruchirappalli towards Dindigul during a vehicle check near the Vandi Karuppannasamy temple at Ayyalur on the Trichy-Dindigul national highway on 20 May 2024. [@4] The Tamil account spells the judge's name as Sudhakar. [@3] Raja was sentenced to a 10-year jail term and fined Rs 1 lakh. [@2,3,4] The court sentenced each of the six convicts to 10 years of imprisonment and imposed a fine of Rs 1 lakh each. [@5] The court sentenced each of the six convicts to 10 years of rigorous imprisonment and imposed a fine of Rs 1 lakh each. [@4] Raja, who was seated on the court
+ganja reported in Dindigul in May 2024. [@1] Each of the six convicted men was sentenced to 10 years of rigorous imprisonment and fined one lakh rupees. [@7] Officers seized 30 kg of ganja from an autorickshaw on the Trichy-Dindigul national highway on 20 May 2024. [@7] Special public prosecutor Savuriraman appeared for the prosecution. [@5] Police found 30 kg of ganja being transported in the autorickshaw they stopped on 20 May 2024. [@5] Special public prosecutor S Raman appeared for the prosecution. [@4] The court held that the charges against all six accused had been proved beyond reasonable doubt. [@4] Police registered a case against six men, Subramani, Madhankumar, Madhubalan, Thamaraikannan, Madhavan and Raja. [@4,5] The Dindigul prohibition enforcement wing seized 30 kg of ganja from an autorickshaw travelling from Tiruchirappalli towards Dindigul during a vehicle check near the Vandi Karuppannasamy temple at Ayyalur on the Trichy-Dindigul national highway on 20 May 2024. [@4] The Tamil account spells the judge's name as Sudhakar. [@3] Raja was sentenced to a 10-year jail term and fined Rs 1 lakh. [@2,3,4] The court sentenced each of the six convicts to 10 years of imprisonment and imposed a fine of Rs 1 lakh each. [@5] The court sentenced each of the six convicts to 10 years of rigorous imprisonment and imposed a fine of Rs 1 lakh each. [@4] Raja, who was seated on the court
 premises, gave police the slip at around 4.30 p.m. [@1]
