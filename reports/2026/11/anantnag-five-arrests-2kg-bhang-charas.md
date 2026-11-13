@@ -55,41 +55,37 @@ sources:
     url: https://kimskashmir.com/five-arrested-with-2-2-kg-of-narcotics-in-separate-anti-drug-operations-in-anantnag/
     publisher: Kashmir Independent Media Service
     date: 2026-11-12
-open_questions:
-  - The articles give no separate date for the five operations; 12 November 2026 is their publication date and the day officials said they spoke.
-  - The man stopped at Shankarpora Crossing was not named.
-  - Greater Kashmir says cases were registered at Police Station Srigufwara after the Hitigam arrest, while KIMS specifies one case under Sections 8/20 of the NDPS Act at Srigufwara and FIR No. 419/2026 at Anantnag for the Dialgam arrest.
-  - No ages, custody decisions, court appearances or convictions were reported.
-  - The 2.2 kg figure is the police approximate total; the itemised recoveries are 1.446 kg of bhang bhoosa, 100 grams of charas, 200 grams of charas, 100 grams of charas powder and 329.6 grams of charas powder.
-  - No laboratory confirmation or street value was published.
-  - Both accounts appear to rest on the same police statement.
+  - title: 'Srinagar News: अनंतनाग में नशा तस्करी के पांच आरोपी पकड़े'
+    url: https://www.amarujala.com/jammu-and-kashmir/srinagar/srinagar-drug-smuggling-five-accused-arrested-anantnag-srinagar-news-c-10-1-agr1010-1061417-2026-11-13
+    publisher: Amar Ujala
+    date: 2026-11-13
+    language: hi
 ---
 
 J&K Police in Anantnag arrested five people in five separate operations across
 the district and recovered approximately 2.2 kilograms of narcotic substances.
-[@1] Officials said the arrests and recoveries on Thursday. [@2] The operations
+[@1,3] Officials said the arrests and recoveries on Thursday. [@2] The operations
 were conducted by police teams from Aishmuqam, Dooru, Anantnag, Dialgam and
 Srigufwara police stations as part of a crackdown on drug trafficking. [@2]
 
 Police Station Aishmuqam searched a cowshed belonging to Mohammad Ashraf Shah,
 son of Rahmat Shah and a resident of Amadzoo, who police said had concealed
-narcotics there in order to sell them. [@1] The search recovered approximately
+narcotics there in order to sell them. [@1,3] The search recovered approximately
 1.446 kg of bhang bhoosa, a cannabis preparation, and police registered FIR No.
-107/2026. [@1] A case under the Narcotic Drugs and Psychotropic Substances Act
+107/2026. [@1,3] A case under the Narcotic Drugs and Psychotropic Substances Act
 was registered at Police Station Aishmuqam. [@2] A Dooru police party, during
 naka checking at Shankarpora Crossing, apprehended a man and recovered
-approximately 100 grams of charas, a cannabis resin, from his possession. [@1]
+approximately 100 grams of charas, a cannabis resin, from his possession. [@1,3]
 
 Police Station Anantnag apprehended Faisal Shabir Shugan, son of Shabir Ahmad
 Shugan and a resident of Natipora Khanabal, at Natipora and recovered
-approximately 200 grams of charas. [@1] Police Post Dialgam apprehended Ubaid
+approximately 200 grams of charas. [@1,3] Police Post Dialgam apprehended Ubaid
 Khurshaid Naikoo, son of Khurshaid Ahmad Naikoo and a resident of Wavthroo
-Nadoora, and recovered approximately 100 grams of charas powder. [@1] FIR No.
+Nadoora, and recovered approximately 100 grams of charas powder. [@1,3] FIR No.
 419/2026 under Sections 8/20 of the NDPS Act was registered at Police Station
 Anantnag after that Dialgam recovery. [@2] During night patrolling, Police
 Station Srigufwara apprehended Abid Hussain Bhat, son of Farooq Ahmad Bhat and a
 resident of Hitigam, at Hitigam Crossing and recovered 329.6 grams of charas
-powder. [@1] A case under Sections 8/20 of the NDPS Act was registered at Police
+powder. [@1,3] A case under Sections 8/20 of the NDPS Act was registered at Police
 Station Srigufwara. [@2] Police said further investigations had been taken up.
-[@1]
-
+[@1,3]
