@@ -82,19 +82,24 @@ sources:
     publisher: Вечерний Бишкек
     date: 2026-11-12
     language: ru
+  - title: Силовики задержали подозреваемого в продаже наркотиков
+    url: https://open.kg/news/incidents/137487-siloviki-zaderzhali-podozrevaemogo-v-prodazhe-narkotikov.html
+    publisher: open.kg
+    date: 2026-11-12
+    language: ru
 ---
 
 Officers of Kyrgyzstan's State Committee for National Security (GKNB) detained a
 man identified as B.B.R. in Talas Region as he tried to sell a large batch of
 drugs. [@1,3,4,5] The GKNB said he was part of a group that made and sold drugs in the
-region. [@1,4] At the arrest the man said the seized drug was 'ordinary anasha', a
+region. [@1,4,6] At the arrest the man said the seized drug was 'ordinary anasha', a
 Central Asian name for cannabis. [@2]
 
 Searches at the homes and workplaces of the group's members found additional
-stocks of raw material and a place and equipment for making drugs. [@1,3,4,5] The GKNB described the operation as a special operation and said the searches found equipment and tools used for crude drug production. [@3] The GKNB
+stocks of raw material and a place and equipment for making drugs. [@1,3,4,5,6] The GKNB described the operation as a special operation and said the searches found equipment and tools used for crude drug production. [@3] The GKNB
 gave no weight for the seized drug or the raw material. [@1] The detainee was
 placed in the temporary detention facility, or IVS, of the Talas city police
-department. [@1,4,5]
+department. [@1,4,5,6]
 
 AKIpress reported that the searches also covered the homes and workplaces of
 other people in the case. [@2] The GKNB said investigators were working to
