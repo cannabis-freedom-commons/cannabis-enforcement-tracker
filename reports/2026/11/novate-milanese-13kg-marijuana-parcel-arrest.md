@@ -68,10 +68,11 @@ sources:
     publisher: EspansioneTV
     date: 2026-11-13
     language: it
-open_questions:
-  - The accounts say officers intervened in the preceding days, so no exact arrest date was published and 13 November 2026 is the publication date used as the incident date.
-  - No Sender, origin or route of the two parcels was reported.
-  - No court validation, charge filing beyond the reported accusation, or later outcome was reported.
+  - title: 'Novate Milanese, si fa spedire 13 chili di marijuana, ma alla consegna si presenta un poliziotto camuffato da corriere: arrestato'
+    url: https://milano.corriere.it/notizie/cronaca/26_novembre_13/novate-milanese-si-fa-spedire-13-chili-di-marijuana-ma-alla-consegna-si-presenta-un-poliziotto-camuffato-da-corriere-arrestato-c0084df0-203e-42fc-900a-f568cf3d4xlk_amp.shtml
+    publisher: Corriere della Sera
+    date: 2026-11-13
+    language: it
 ---
 
 Milan State Police arrested a 23-year-old Italian man for alleged possession of
@@ -81,9 +82,9 @@ the young man was arrested after signing the handheld device to take the
 parcels. [@1]
 
 Rho-Pero police acted after a shipping-company worker in the Rho area reported a
-strong marijuana smell coming from two large parcels. [@2] Inside the parcels
+strong marijuana smell coming from two large parcels. [@2,5] Inside the parcels
 officers found four bags holding 13 kg of marijuana and a satellite GPS tracker.
-[@2,4] Prosecutors authorised a delayed seizure so officers could identify the
+[@2,4,5] Prosecutors authorised a delayed seizure so officers could identify the
 recipient, and with the help of Milan's Flying Squad they traced him to Novate
 Milanese. [@2]
 
