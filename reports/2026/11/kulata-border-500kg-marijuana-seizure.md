@@ -1,35 +1,36 @@
 ---
 code: 0BJTF2
 added_at: "2026-11-11T04:24:28.96152Z"
-date: 2026-11-10
+date: 2026-11-13
 country: bg
 place: Kulata border checkpoint, Petrich, Blagoevgrad
 coordinates: [41.391, 23.36]
 precision: locality
 type: seizure
-title: Nearly 500 kg of marijuana seized from truck at Kulata checkpoint
-summary: >-
-  Bulgarian customs, Interior Ministry officers and prosecutors stopped a freight truck on the entry lane at the Kulata border checkpoint and found nearly 500 kg of marijuana. The weight was reported only from unofficial information, with official details on the case still awaited.
+title: Driver of 497 kg marijuana truck remanded in custody at Kulata
+summary: The Blagoevgrad district court remanded in custody the 51-year-old Plovdiv driver of the refrigerated truck in which Bulgarian customs found 497.9 kg of marijuana hidden behind a partition at the Kulata checkpoint on 10 November. The driver was charged in a pre-trial proceeding opened by the Blagoevgrad district prosecutor's office.
 figures:
-  kg_seized: 500
+    kg_seized: 497.9
+    arrested: 1
 details:
-  agencies: [Customs Agency, Ministry of the Interior]
-  agency_types: [customs, police, prosecutor]
-  products:
-    - {product: flower, kg: 500}
-  activity: [smuggling]
-  setting: [border, vehicle]
-  case_stage: investigation
-  date_precision: exact
-  region: Blagoevgrad Province
+    agencies: [Customs Agency, Ministry of the Interior]
+    agency_types: [customs, police, prosecutor]
+    products:
+        - {product: flower, kg: 497.9}
+    activity: [smuggling]
+    setting: [border, vehicle]
+    case_stage: charged
+    date_precision: exact
+    region: Blagoevgrad Province
 data_sources:
-  details.activity: [1]
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.products: [1]
-  details.setting: [1]
-  figures.kg_seized: [1]
+    details.activity: [1]
+    details.agencies: [1]
+    details.agency_types: [1]
+    details.case_stage: [26]
+    details.products: [25]
+    details.setting: [1]
+    figures.kg_seized: [25]
+    figures.arrested: [25]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6580540da9895924eb7ca22a9eeb6cdb
@@ -153,6 +154,16 @@ sources:
     publisher: BurgasMedia
     date: 2026-11-12
     language: uk
+  - title: На КПП «Кулата» митники виявили майже 498 кг марихуани в рефрижераторі
+    url: https://burgasmedia.com/news/mitnichari-hvanaha-497-9-kg-marihuana-v-hladilen-kamion-na-kulata?lang=ua
+    publisher: BurgasMedia
+    date: 2026-11-12
+    language: uk
+  - title: Водієві вантажівки з 497 кг марихуани на «Кулаті» висунули обвинувачення
+    url: https://burgasmedia.com/news/obviniha-shofora-na-kamiona-s-497-kg-marihuana-na-kulata?lang=ua
+    publisher: BurgasMedia
+    date: 2026-11-12
+    language: uk
 media:
   - kind: photo
     url: https://nova.bg/news/view/2026/11/12/558968/%D0%B1%D0%BB%D0%B8%D0%B7%D0%BE-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD-%D1%82%D0%BE%D0%BD-%D0%BC%D0%B0%D1%80%D0%B8%D1%85%D1%83%D0%B0%D0%BD%D0%B0-%D0%BE%D1%82%D0%BA%D1%80%D0%B8%D1%85%D0%B0-%D0%B2-%D0%BA%D0%B0%D0%BC%D0%B8%D0%BE%D0%BD-%D1%81-%D0%BA%D0%BE%D0%BB%D0%B1%D0%B0%D1%81%D0%B8-%D0%B8-%D1%87%D1%83%D1%88%D0%BA%D0%B8-%D0%BD%D0%B0-%D0%BA%D1%83%D0%BB%D0%B0%D1%82%D0%B0-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8/
@@ -191,9 +202,7 @@ media:
     caption: 'Customs Agency deputy director Stefan Bakalov and Blagoevgrad district prosecutor''s office spokesperson Irina Asparuhova at the joint briefing on the Kulata seizure in Blagoevgrad, 12 November 2026. Photo: Кети Тренчева / БНР.'
 open_questions:
     - No court outcome or plea has been reported; the driver was held for 72 hours.
-    - No official estimate of the shipment's value has been published.
-    - The 4.5 tonnes seized since the start of the year covers all drugs, not cannabis alone.
-    - The driver has not commented publicly, and it is not known whether he has a lawyer.
+also: [arrest]
 ---
 
 A joint operation by Bulgaria's Customs Agency, the Ministry of the Interior and
@@ -201,7 +210,7 @@ the prosecution service was carried out at the Kulata border checkpoint, where
 officers stopped a freight truck travelling on the designated entry lane into
 the country. [@1,6,18] The truck was entering Bulgaria from Greece. [@3,4,5,7,8,9,10,12,13,18,19,21,23] The driver declared his load was sausages and peppers, loaded in Spain and intended for Bulgarian consumers. [@18,22,23] During the subsequent inspection of the heavy-goods truck
 combination, the checking officers found nearly 500 kilograms of marijuana in
-the transported load. [@1,6,7,10,18] The truck was first selected for X-ray screening, which showed a suspicious zone in the front of the refrigerated semi-trailer. [@17,18,19,22] Officers of the Drug Trafficking Counteraction Department at the Sofia Customs Territorial Directorate selected the truck for inspection in the morning of 10 November 2026. [@20,22] Customs put the total gross weight at 497.90 kilograms, in 445 vacuum-packed packages. [@14,17,18,19,20,22] The marijuana was packed in 22 boxes behind a partition wall in the refrigerated trailer. [@18,20,21,23] The partition divided the refrigerated trailer into zones with two different temperature regimes, and the 22 boxes in the second zone were sealed with transparent tape. [@22] The Bulgarian driver was detained. [@2,3,5,7,11,18,23] The 51-year-old driver is from Plovdiv, works for a Plovdiv transport company, has a clean record and is rehabilitated by law for previous judicial offences. [@21] NewsPoint named Vangel Mitsev of Plovdiv as the driver, and said investigators had not officially confirmed his identity. [@5] The driver has been charged and detained for 72 hours. [@4,8,9,12,13,17,18,19,20,21,22,24] A pre-trial proceeding was opened under the supervision of the Blagoevgrad district prosecutor's office. [@18,19,20] He was charged under Article 242, paragraph 2 of the Criminal Code. [@21] The driver, a 51-year-old from Plovdiv, is charged over the shipment; the offence carries 10 to 15 years in prison and a fine of 100,000 to 200,000 euro. [@15,18] After the stop the driver was taken to the emergency department of MBAL Blagoevgrad on 10 November, shortly after 22:00, and remained in custody after a medical examination. [@5] The marijuana was found in a specially built hide in a freight vehicle driven by a Bulgarian driver. [@2,3,5,7,10,12,18] Inside the hide, inspectors found bags of dry plant material that a field test indicated was marijuana. [@12,13,22] Customs officers found an extra rear board on the trailer, with a hidden compartment behind it holding boxes of cannabis packages. [@5] Infomrezha expressly presented the nearly
+the transported load. [@1,6,7,10,18,25] The truck was first selected for X-ray screening, which showed a suspicious zone in the front of the refrigerated semi-trailer. [@17,18,19,22] Officers of the Drug Trafficking Counteraction Department at the Sofia Customs Territorial Directorate selected the truck for inspection in the morning of 10 November 2026. [@20,22] Customs put the total gross weight at 497.90 kilograms, in 445 vacuum-packed packages. [@14,17,18,19,20,22] The marijuana was packed in 22 boxes behind a partition wall in the refrigerated trailer. [@18,20,21,23] The partition divided the refrigerated trailer into zones with two different temperature regimes, and the 22 boxes in the second zone were sealed with transparent tape. [@22] The Bulgarian driver was detained. [@2,3,5,7,11,18,23,25] The 51-year-old driver is from Plovdiv, works for a Plovdiv transport company, has a clean record and is rehabilitated by law for previous judicial offences. [@21] NewsPoint named Vangel Mitsev of Plovdiv as the driver, and said investigators had not officially confirmed his identity. [@5] The driver has been charged and detained for 72 hours. [@4,8,9,12,13,17,18,19,20,21,22,24] A pre-trial proceeding was opened under the supervision of the Blagoevgrad district prosecutor's office. [@18,19,20,25] He was charged under Article 242, paragraph 2 of the Criminal Code. [@21] The driver, a 51-year-old from Plovdiv, is charged over the shipment; the offence carries 10 to 15 years in prison and a fine of 100,000 to 200,000 euro. [@15,18] After the stop the driver was taken to the emergency department of MBAL Blagoevgrad on 10 November, shortly after 22:00, and remained in custody after a medical examination. [@5] The marijuana was found in a specially built hide in a freight vehicle driven by a Bulgarian driver. [@2,3,5,7,10,12,18] Inside the hide, inspectors found bags of dry plant material that a field test indicated was marijuana. [@12,13,22] Customs officers found an extra rear board on the trailer, with a hidden compartment behind it holding boxes of cannabis packages. [@5] Infomrezha expressly presented the nearly
 500-kilogram quantity as unofficial information provided to its own newsroom
 rather than as a confirmed official measurement. [@1]
 
@@ -212,3 +221,5 @@ another serious blow against organised trafficking through this border
 checkpoint. [@1] It added that in recent weeks the Kulata crossing had been at
 the centre of several large-scale investigations linked to the smuggling of
 excise goods. [@1]
+
+The Blagoevgrad district prosecutor's office formally charged the 51-year-old Plovdiv driver. [@26]
