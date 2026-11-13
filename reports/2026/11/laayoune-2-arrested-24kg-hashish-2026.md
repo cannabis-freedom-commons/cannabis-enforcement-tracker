@@ -61,6 +61,11 @@ sources:
     publisher: آش واقع
     date: 2026-11-13
     language: ar
+  - title: بتنسيق مع الديستي...توقيف شخصين وحجز أكثر من 24 كيلوغراما من المخدرات
+    url: https://sabahagadir.ma/495844.html
+    publisher: صباح أكادير
+    date: 2026-11-13
+    language: ar
 media:
   - kind: photo
     url: https://hounasahara.net/%D8%A7%D9%84%D8%B9%D9%8A%D9%88%D9%86-%D8%AD%D8%AC%D8%B2-%D8%A3%D8%B2%D9%8A%D8%AF-%D9%85%D9%86-24-%D9%83%D9%8A%D9%84%D9%88%D8%BA%D8%B1%D8%A7%D9%85%D8%A7%D9%8B-%D9%85%D9%86-%D8%A7%D9%84%D8%B4%D9%8A/
@@ -78,10 +83,10 @@ car, and the investigation then led to his partner. [@1,3]
 
 Searches inside the car and inside one suspect's house seized 279 plates of
 hashish weighing more than 24 kilograms. [@1,3,5] The same searches also seized 5
-kilograms described jointly as cannabis plant and tobacco powder. [@2,3] Officers
+kilograms described jointly as cannabis plant and tobacco powder. [@2,3,6] Officers
 also seized cash suspected to be proceeds of the trafficking, without giving its
-amount. [@1,3,4]
+amount. [@1,3,4,6]
 
 Both suspects were placed in custody for questioning under the supervision of
-the competent prosecution. [@1,3,4,5] Police said the inquiry aims to establish each
+the competent prosecution. [@1,3,4,5,6] Police said the inquiry aims to establish each
 suspect's alleged acts and to identify any wider links to the activity. [@2,3,4]
