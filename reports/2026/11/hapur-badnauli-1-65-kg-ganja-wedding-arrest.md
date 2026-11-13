@@ -49,19 +49,24 @@ sources:
     publisher: Royal Bulletin
     date: 2026-11-13
     language: hi
+  - title: Hapur News बहन की शादी के खर्च के लिए करने लगा गांजा तस्करी, संभल से हापुड़ बेचने पहुंचा युवक गिरफ्तार
+    url: https://www.khabarwala24.com/uttar-pradesh/hapur/hapur-news-ganja-smuggler-arrested-sambhal-1650-kg-ganja/189765/
+    publisher: Khabarwala24
+    date: 2026-11-13
+    language: hi
 open_questions:
   - No court outcome has been reported in the article yet.
 ---
 
 On 12 November, Hapur police detained a man on a bike coming from Delhi Road
-near the Badnauli railway crossing, after he tried to evade a police check. [@1]
+near the Badnauli railway crossing, after he tried to evade a police check. [@1,3] The check was led by Sub-Inspector Chetan Chouhan and Ravindra Kumar, and Kotwali Prabhari NIP Suresh Kumar Singh gave the statement. [@3]
 The man identified himself as Shayan Alam, a resident of Bilalpat Village in
 Sambhal district. [@1]
 
 Cannabis was found in a polythene pack inside the black bag slung over his
 shoulder. Police confirmed the substance as cannabis and weighed it at 1.650
-kilograms on an electronic scale. [@1,2] Police also seized a mobile phone and
-1,880 rupees in cash from the accused. [@1]
+kilograms on an electronic scale. [@1,2] The search and recovery were carried out in the presence of the District Magistrate (City), and a field unit tested the material and confirmed it was ganja. [@3] Police also seized a mobile phone and
+1,880 rupees in cash from the accused. [@1] Police also recovered the bicycle the man was using for the smuggling from his custody. [@3]
 
 Shayan Alam told police that he had taken to selling cannabis to raise money for
 his sister's wedding. [@1] He learned there was high demand for cannabis in Hapur, so he planned to bring it from Sambhal in small quantities to sell. [@2] Police registered a report against the accused and
