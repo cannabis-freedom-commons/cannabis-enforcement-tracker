@@ -132,28 +132,34 @@ sources:
     publisher: CBCテレビ
     date: 2026-11-12
     language: ja
+  - title: Morador é preso por uso de maconha; polícia investiga ligação com incêndio que deixou 12 feridos em Gifu
+    url: https://alternativa.co.jp/noticias/japao/201749/morador-preso-por-uso-maconha-gifu/
+    publisher: Alternativa Online
+    date: 2026-11-12
+    language: pt
 open_questions:
     - Police had not established what caused the fire or whether it was linked to the man's cannabis use.
     - The account gives no quantity of cannabis; the arrest concerned use, not a seizure.
     - How the man obtained the cannabis was not reported.
     - No charge or court outcome was reported; the case was at the investigation stage.
+    - A Portuguese account spells the arrested man's name Komul Gökhan, while Japanese police reporting gives コムル・ギョクハン, rendered in the report as Komur Gokhan.
 ---
 
 A fire broke out in a three-storey apartment building in Kita-Isshiki, Gifu, in
 the early hours of 11 November 2026, after a neighbour reported seeing flames
-from the first floor. [@1,7] Twelve of the building's residents, aged from one to
+from the first floor. [@1,7,20] Twelve of the building's residents, aged from one to
 their forties, were taken to hospital and were thought to have minor injuries.
-[@1,4,5,7,11,13,14,18,19] The youngest of the 12 residents taken to hospital was a year and a half old. [@19] The injured were taken to hospitals in Gifu City and in the neighbouring
+[@1,4,5,7,11,13,14,18,19,20] The youngest of the 12 residents taken to hospital was a year and a half old. [@19,20] The injured were taken to hospitals in Gifu City and in the neighbouring
 town of Kasamatsu. [@2] The apartment housed 11 households and 15 residents in
 total. [@1] No one was left behind in the fire. [@3] A neighbour said the man in the next room kept calling for help, and that the neighbour and a woman he lived with jumped from the balcony after saying they would escape that way. [@16,18,19] The man who lived in the
 ground-floor room where the fire started was not injured. [@1] The fire was brought under control about two hours later. [@5,13]
 
 Gifu Chuo Police Station arrested that resident, a 43-year-old unemployed
 Turkish man, on 11 November on suspicion of violating the Narcotics Control Law
-by using cannabis. [@1,4,7,8,11,12,15,18,19] Police named the arrested man as Komur Gokhan (コムル・ギョクハン), a 43-year-old unemployed Turkish national. [@6,7,9,13,14,18,19] Police said he was suspected of using cannabis between
+by using cannabis. [@1,4,7,8,11,12,15,18,19,20] Police named the arrested man as Komur Gokhan (コムル・ギョクハン), a 43-year-old unemployed Turkish national. [@6,7,9,13,14,18,19] Police said he was suspected of using cannabis between
 early August and 11 November. [@1,4,5,7,8,13,14,17,18,19] The suspicion arose during the fire
 investigation: officers found his behaviour suspicious, tested his urine and
-detected cannabis components. [@1,6,7,9,13,14,18,19] Questioned by investigators, he admitted the suspicion. [@5,6,7,8,9,13,14,16,17,18,19]
+detected cannabis components. [@1,6,7,9,13,14,18,19,20] Questioned by investigators, he admitted the suspicion. [@5,6,7,8,9,13,14,16,17,18,19,20]
 
 Police said they are investigating whether the cannabis use is connected to the
-fire. [@1,4,5,6,7,8,9,10,11,13,14,16,17,18,19] Police said they are also investigating how he obtained the cannabis and his motive. [@5,13]
+fire. [@1,4,5,6,7,8,9,10,11,13,14,16,17,18,19,20] Police said they are also investigating how he obtained the cannabis and his motive. [@5,13]
