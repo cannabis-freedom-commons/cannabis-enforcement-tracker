@@ -53,37 +53,47 @@ sources:
     publisher: DePeso
     date: 2026-11-11
     language: es
+  - title: Detienen a dos hombres en Valle Verde; les aseguran droga y una motocicleta robada
+    url: https://galucomunicacion.com/detienen-a-dos-hombres-en-valle-verde-les-aseguran-droga-y-una-motocicleta-robada/
+    publisher: Galu Noticias
+    date: 2026-11-12
+    language: es
 open_questions:
-  - No weight was published for the 69 bags of suspected marijuana, only a bag count, so no kilograms or value are recorded.
-  - No separate date or time was reported for the detention; 11 November 2026 is the date of the police press card and of the reports and is used as the incident date.
-  - The plant material and the crystalline substance were described only as resembling marijuana and crystal; no laboratory confirmation was reported.
-  - No charges, custody ruling or court outcome were reported; the case was left with the narcomenudeo prosecutor.
-  - The reported total of 76 bags includes seven bags of a crystal-like substance, which are not counted as cannabis.
-  - The three accounts reproduce the same secretariat press card, so they are not independent reporting.
-  - It was not reported whether the stolen motorcycle is linked to a separate investigation or charge.
+    - No weight was published for the 69 bags of suspected marijuana, only a bag count, so no kilograms or value are recorded.
+    - No separate date or time was reported for the detention; 11 November 2026 is the date of the police press card and of the earliest reports and is used as the incident date.
+    - The plant material and the crystalline substance were described only as resembling marijuana and crystal; no laboratory confirmation was reported.
+    - No charges, custody ruling or court outcome were reported; the case was left with the narcomenudeo prosecutor.
+    - The reported total of 76 bags includes seven bags of a crystal-like substance, which are not counted as cannabis.
+    - The accounts reproduce the same secretariat press card, so they are not independent reporting.
+    - It was not reported whether the stolen motorcycle is linked to a separate investigation or charge.
+media:
+  - kind: photo
+    url: https://galucomunicacion.com/detienen-a-dos-hombres-en-valle-verde-les-aseguran-droga-y-una-motocicleta-robada/
+    media_url: https://galucomunicacion.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-11-at-8.54.44-AM.jpg
+    publisher: Galu Noticias
+    caption: Police handout photo of the two detainees in yellow and blue shirts behind a table of seized bags, flanked by state police officers, under the Secretaría de Seguridad Ciudadana press-card banner.
 ---
 
 Two men identified as Alfredo “N” and Irving Ismael “N” were detained in the
 irregular Valle Verde neighbourhood of Benito Juárez, Cancún, after state police
-found them apparently exchanging small bags of illicit substances. [@1] The
+found them apparently exchanging small bags of illicit substances. [@1,4] The
 intervention was carried out by officers of the Secretaría de Seguridad
-Ciudadana, the state citizen security secretariat. [@1] The secretariat said in
+Ciudadana, the state citizen security secretariat. [@1,4] The secretariat said in
 its press card that the officers were on a surveillance patrol when they saw the
 two men exchanging bags of green plant material with characteristics similar to
-marijuana. [@2] The agents identified themselves, explained the reason for the
+marijuana. [@2,4] The agents identified themselves, explained the reason for the
 intervention and carried out a preventive inspection of both men and the
-motorcycle they were riding. [@1]
+motorcycle they were riding. [@1,4]
 
 The inspection found 69 transparent bags of green plant material, presumed to be
-marijuana. [@1] Seven other bags contained solid crystalline fragments with
+marijuana. [@1,4] Seven other bags contained solid crystalline fragments with
 characteristics similar to the drug known as crystal, which is not cannabis and
-is excluded from the cannabis count. [@1] Officers also seized an Italika 200Z
+is excluded from the cannabis count. [@1,4] Officers also seized an Italika 200Z
 motorcycle after a check of C5 databases showed it had been reported stolen.
-[@1] A purple backpack, a fanny pack and a mobile phone were seized as well.
-[@3]
+[@1,4] A purple backpack, a fanny pack and a mobile phone were seized as well.
+[@3,4]
 
 The two men and the seized items were placed at the disposal of the Fiscalía
 Especializada en Combate al Delito de Narcomenudeo, the state prosecutor's
 specialised unit for street-level drug offences, which will determine their
-legal situation. [@1]
-
+legal situation. [@1,4]
