@@ -67,10 +67,16 @@ sources:
     publisher: ABC Color
     date: 2026-11-10
     language: es
+  - title: Brasileiro é preso após capotar carro com 165 kg de maconha
+    url: https://www.campograndenews.com.br/cidades/interior/brasileiro-capota-carro-com-165-kg-de-maconha-durante-fuga-na-fronteira
+    publisher: Campo Grande News
+    date: 2026-11-12
+    language: pt
 open_questions:
     - No charge, custody decision or court outcome beyond apprehension and referral to anti-narcotics and the prosecution was reported.
     - The precise stopping point is described as a Yvype rural road toward Vista Alegre and as Colonia Vista Alegre, with Colonia Yvype also named as the seizure location.
     - The driver's prior criminal history, now specified by years and offences, has no reported judicial follow-up in Paraguay.
+    - The Campo Grande News account says the driver fractured his right arm, whereas the report records a left-arm fracture.
 ---
 
 Agents of Subcomisaría N° 9 in Colonia Yvype intervened in an operation at 14:00
@@ -80,7 +86,7 @@ driver for documents during a routine patrol, and the driver accelerated to
 evade the check, brushed one of the officers and overturned about 200 metres
 away. [@2,3] The driver was identified as 27-year-old Brazilian Antonio Víctor Da
 Silva, driving a Kia Picanto that tried to flee when approached by a patrol car.
-[@1,3] Police reported that Da Silva had prior records for drug trafficking in 2020 and 2022, aggravated robbery in 2023 and criminal association in 2025. [@3] He suffered an exposed fracture in his left arm and was apprehended while
+[@1,3,4] Police reported that Da Silva had prior records for drug trafficking in 2020 and 2022, aggravated robbery in 2023 and criminal association in 2025. [@3,4] He suffered an exposed fracture in his left arm and was apprehended while
 trying to escape under a wire fence, then moved under custody by volunteer
 firefighters to the Regional Hospital. [@2,3]
 
@@ -88,10 +94,10 @@ Officers found about seven bags of pressed and loose suspected marijuana, plus
 gas cylinders and implements said to be for making processed marijuana, inside
 the car. [@2] Police later weighed the load at 165.5 kg of marijuana: 66.1 kg of pressed marijuana, 96.4 kg of chopped marijuana, 2.3 kg of Dry type and 1.1 kg of Moroccan type. [@3] Police described the load as pressed marijuana processed as ICE,
 considered a premium variety of the drug. [@1] Investigators said several gas
-cylinders found in the car are used to process ICE-type marijuana. [@1]
+cylinders found in the car are used to process ICE-type marijuana. [@1] Police seized 18 gas cylinders, four of 6 kg and fourteen of 400 g, which they said were used to process concentrated varieties of the drug. [@4]
 
 The black 2020 Kia Picanto had a plate reported for alleged loss or theft. [@2]
 Police said a Quantum-system check showed the plate had a complaint for alleged
-loss or theft and that the car is registered to another person. [@1] The case
+loss or theft and that the car is registered to another person. [@1,4] The case
 was reported to the National Police Anti-Narcotics Department and the
-specialized prosecution for the corresponding expert examinations. [@2]
+specialized prosecution for the corresponding expert examinations. [@2] Prosecutor Sarita Bonzi ordered the car, the drug and the gas cylinders to be kept in custody for the continuing investigation. [@4]
