@@ -59,16 +59,11 @@ sources:
     publisher: MSN
     date: 2026-11-12
     language: de
-open_questions:
-    - 'No separate weight was published for the cannabis: the police gave only one combined kilogram range for the cannabis and the cocaine together, so no cannabis quantity is recorded in the figures.'
-    - The drugs were described only as being in the kilogram range, with no exact measured weight and no value estimate.
-    - The searches and vehicle checks ran from 6 to 10 November 2026; 10 November, the day of the shop search in the Feldschmiede, is used as the incident date for the operation as a whole.
-    - The police described several searches but gave no count of the premises searched, so no figure for sites is recorded.
-    - No charges, indictment or court outcome beyond the 7 November 2026 arrest warrant were reported, and the investigations were continuing.
-    - The report names five suspects in total but does not say what restrictions, if any, apply to the four who were not remanded.
-    - The starter pistol found near the shop in the Feldschmiede could not be attributed to any person.
-    - Parts of the operation took place outside Itzehoe, on the A7 at the Bad Bramstedt exit and in Norderstedt, so the coordinates given are for the town at the centre of the case.
-    - The account rests on the Itzehoe police statement and its republications rather than independent reporting.
+  - title: Mann flüchtet bei A7-Kontrolle - dann macht die Polizei brisante Funde
+    url: https://www.mopo.de/im-norden/schleswig-holstein/mann-fluechtet-bei-a7-kontrolle-dann-macht-die-polizei-brisante-funde/5084812
+    publisher: Hamburger Morgenpost
+    date: 2026-11-12
+    language: de
 ---
 
 Police and customs carried out several searches and vehicle checks in Itzehoe,
@@ -77,20 +72,20 @@ and other narcotics. [@1,3] On Friday 6 November 2026 officers stopped two cars
 travelling north on the A7 motorway, and the driver of the first fled on foot
 before customs could check him. [@1,3] Police arrested a 37-year-old Yemeni man
 from Itzehoe about an hour later in Norderstedt and found cannabis in a quantity
-German law treats as not insignificant in his car. [@1,3] The second car was
+German law treats as not insignificant in his car. [@1,3,4] The second car was
 checked at the Bad Bramstedt exit and held a 23-year-old Iraqi and a 29-year-old
-German woman, both from the Steinburg district. [@1,3]
+German woman, both from the Steinburg district. [@1,3,4]
 
 A search at the 23-year-old's home address covered another vehicle, in which
 officers found cannabis and cocaine, again in a not insignificant quantity,
-together with high-quality watches and gold. [@1,3] On Saturday 7 November 2026
+together with high-quality watches and gold. [@1,3,4] On Saturday 7 November 2026
 the man was brought before a judge at the Itzehoe local court, who issued an
 arrest warrant for risk of flight on the application of the Itzehoe prosecutor's
-office, and he was taken to a prison. [@1] On Tuesday 10 November 2026 officers
+office, and he was taken to a prison. [@1,4] On Tuesday 10 November 2026 officers
 executed further search warrants, and at about 15:30 searched a shop in the
 Feldschmiede in Itzehoe with the participation of the Itzehoe principal customs
 office. [@1] Officers seized small quantities of cannabis at the shop, and a
-starter pistol found nearby could not be attributed to any person. [@1]
+starter pistol found nearby could not be attributed to any person. [@1,4]
 
 Further searches covered a 36-year-old German woman from Itzehoe who owns one of
 the vehicles involved and is herself among the suspects, and officers seized
@@ -99,7 +94,7 @@ district who had been temporarily arrested was released once the police measures
 ended, for lack of grounds for detention. [@1] In total the investigation is
 directed against five suspects, and the inquiries by the Itzehoe criminal
 investigation department and the Itzehoe prosecutor's office were continuing.
-[@1] Local reporting described the operation as a strike against the Itzehoe
+[@1,4] Local reporting described the operation as a strike against the Itzehoe
 drug scene in which kilos of cannabis and cocaine were secured. [@2] The search
 of a shisha shop in the upper Feldschmiede in Itzehoe was part of the operation.
 [@2]
