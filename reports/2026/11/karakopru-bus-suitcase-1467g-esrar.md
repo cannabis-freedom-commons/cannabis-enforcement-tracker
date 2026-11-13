@@ -83,6 +83,11 @@ sources:
     publisher: Medya Urfa
     date: 2026-11-12
     language: tr
+  - title: 'Şanlıurfa''da Yolcu Otobüsündeki Esrarı Jandarma Köpeği Buldu: 1 Gözaltı'
+    url: https://www.urfadasin.com/sanliurfada-yolcu-otobusundeki-esrari-jandarma-kopegi-buldu-1-gozalti
+    publisher: Urfadasın
+    date: 2026-11-12
+    language: tr
 media:
   - kind: video
     url: https://www.urfanatik.com/video/sanliurfada-otobusteki-valizden-1-kilo-467-gram-esrar-cikti
@@ -94,19 +99,24 @@ media:
     media_url: https://image.gazetevatan.com/i/gazetevatan/75/1200x675/6af57e06bc5b28be5b318728.jpg
     publisher: Gazete Vatan
     caption: 'Anadolu Agency photo published with the governorate account of the Karaköprü bus search. The dispatch says the shared images show a narcotics dog searching the luggage compartment and the cannabis taken from the suitcase. Photo: AA / Müslüm Etgü'
+  - kind: photo
+    url: https://www.urfadasin.com/sanliurfada-yolcu-otobusundeki-esrari-jandarma-kopegi-buldu-1-gozalti
+    media_url: https://urfadasincom.teimg.com/crop/1280x720/urfadasin-com/uploads/2026/11/jandarma-uyusturucu-arama-kopek.png
+    publisher: Urfadasın
+    caption: 'A gendarmerie narcotics dog searching the luggage compartment of the passenger bus, from Urfadasın''s report of the Karaköprü suitcase seizure. Photo: Urfadasın'
 ---
 
 Şanlıurfa provincial gendarmerie teams stopped a passenger bus on the
 Diyarbakır-Şanlıurfa highway in Karaköprü district during an operation against
-narcotics. [@1,3,4,8,9] The bus was stopped at the city entrance and searched. [@6] The Karaköprü District Gendarmerie Command and the narcotics branch carried out the operation on 9 November 2026. [@5] A detector dog supported the search of the bus's luggage
-compartment. [@2,3,4,6]
+narcotics. [@1,3,4,8,9,10] The bus was stopped at the city entrance and searched. [@6] The Karaköprü District Gendarmerie Command and the narcotics branch carried out the operation on 9 November 2026. [@5] A detector dog supported the search of the bus's luggage
+compartment. [@2,3,4,6,10]
 
 A search of a suitcase belonging to a passenger identified by his initials İ.K.
-found 1 kilogram 467 grams of esrar, the Turkish term for cannabis. [@1,3,4,5,6,7,9] Sabah
+found 1 kilogram 467 grams of esrar, the Turkish term for cannabis. [@1,3,4,5,6,7,9,10] Sabah
 reported the same seizure of 1 kilogram 467 grams of esrar from the passenger's
 suitcase. [@2]
 
 The suspect was taken into custody and held by gendarmerie teams pending
-referral to judicial authorities. [@1,3,4,8,9] The suspect was taken to the Karaköprü District Gendarmerie Command for processing. [@6] The Şanlıurfa provincial gendarmerie
+referral to judicial authorities. [@1,3,4,8,9] The suspect was taken to the Karaköprü District Gendarmerie Command for processing. [@6,10] The Şanlıurfa provincial gendarmerie
 command said its work against narcotics would continue without interruption.
 [@1,4,9]
