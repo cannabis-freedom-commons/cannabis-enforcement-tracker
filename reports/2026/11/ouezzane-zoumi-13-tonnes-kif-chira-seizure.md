@@ -55,6 +55,11 @@ sources:
     publisher: العلم الإلكترونية
     date: 2026-11-12
     language: ar
+  - title: وزان.. حجز أكثر من 13 طناً من سنابل الكيف ومسحوقه و70 كيلوغراماً من الشيرا
+    url: https://inews.ma/news/8789374
+    publisher: inews.ma
+    date: 2026-11-12
+    language: ar
 media:
   - kind: photo
     url: https://www.alalam.ma/حجز-13-طنا-من-القنب-الهندي-ومسحوقه-في-أكبر-عملية-أمنية-لرجال-حموشي_a36124.html
@@ -70,9 +75,9 @@ open_questions:
 
 Moroccan security services seized more than 13 tonnes of cannabis and cannabis
 powder, together with more than 70 kilograms of hashish, in a joint police
-operation in Ouezzane province. [@1,3,4] Detectives from Ouezzane carried out the
+operation in Ouezzane province. [@1,3,4,5] Detectives from Ouezzane carried out the
 operation with the Royal Gendarmerie of Ouezzane and Zoumi and the anti-gang
-unit from Tetouan. [@1,3,4]
+unit from Tetouan. [@1,2,3,4]
 
 The operation began with the arrest of a man in his fifties who had seven police
 signals in Morocco for suspected involvement in drug trafficking. [@1,3,4] A search
