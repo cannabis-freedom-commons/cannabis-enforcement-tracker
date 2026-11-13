@@ -48,20 +48,26 @@ sources:
     url: https://www.thehindu.com/news/cities/Madurai/two-women-held-with-4-kg-of-ganja-in-madurai/article71693683.ece
     publisher: The Hindu
     date: 2026-11-12
-open_questions:
-  - The report gives two different cash figures, ₹81,900 and ₹81,960, so no cash amount is recorded in figures.
-  - No court outcome beyond judicial custody was reported.
-  - The account rests on a single news report; no second source confirming the arrests was found.
+  - title: '#BREAKING | மதுரையில் 4 கிலோ கஞ்சா பறிமுதல்'
+    url: https://m.dailyhunt.in/buzz/video/tamil/misc/breaking+4+-b64230590
+    publisher: Kalaignar TV News
+    date: 2026-11-12
+    language: ta
+  - title: 'போலீஸ் செய்திகள்: மதுரை'
+    url: https://www.dinamalar.com/news/tamil-nadu-district-news-madurai/police-news-madurai/4374328
+    publisher: Dinamalar
+    date: 2026-11-12
+    language: ta
 ---
 
 A special team of Madurai District Police arrested two women near Madurai on
 Thursday 12 November 2026. [@1] The team found the women at a cremation yard in
-Karuppayoorani. [@1] The women tried to flee from the scene and the police
-rounded them up. [@1] Police identified them as Tamil Selvi, 30, of Virudhunagar
-and Joshnapani, 26, from Odisha. [@1]
+Karuppayoorani. [@1,3] The women tried to flee from the scene and the police
+rounded them up. [@1,3] Police identified them as Tamil Selvi, 30, of Virudhunagar
+and Joshnapani, 26, from Odisha. [@1,3]
 
 Searching their belongings, police found two packets of ganja weighing four
-kilograms. [@1] The detailed search account says police also seized ₹81,960 in
+kilograms. [@1,2] The detailed search account says police also seized ₹81,960 in
 cash from their belongings. [@1] The report's opening passage gives the cash
 seized as ₹81,900, differing from the detailed search figure. [@1]
 
@@ -73,4 +79,3 @@ said Tamil Selvi and her husband Geethan had already been arrested by the
 NIB-CID and the Arumuganeri police in Thoothukudi district. [@1] Police said
 Joshnapani and her brother Santoshpani had been accused in NDPS Act cases in
 Theni district. [@1]
-
