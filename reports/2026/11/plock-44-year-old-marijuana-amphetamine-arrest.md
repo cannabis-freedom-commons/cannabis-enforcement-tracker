@@ -56,29 +56,28 @@ sources:
     publisher: Wiadomości Płock
     date: 2026-11-13
     language: pl
-open_questions:
-  - No source separates the marijuana share from the combined nearly 200 grams of amphetamine and marijuana, so no cannabis weight is recorded.
-  - No source separates the marijuana share from the combined estimated value of about 7,500 zloty, so no value is recorded.
-  - No separate date for the search and detention is given; 13 November 2026 is the publication date of all sources and stands in for the event.
-  - No court outcome beyond the reported maximum penalty of 15 years was published.
+  - title: 'Płock: Budowlaniec trzymał narkotyki w szafce pracowniczej. W mieszkaniu policjanci znaleźli kolejne'
+    url: https://informacje.wp.pl/wiadomosci/budowlaniec-trzymal-narkotyki-w-szafce-pracowniczej-w-mieszkaniu-policjanci-znalezli-kolejne-7350549159024672a
+    publisher: WP Info
+    date: 2026-11-13
+    language: pl
 ---
 
 Officers of the life-and-health crime unit of the Płock municipal police handled
 the case. [@1] Working with security staff, officers established that a worker
 present at a construction site might possess drugs. [@1] Officers found drugs in
 the employee's work locker, according to police spokeswoman Monika Jakubowska.
-[@1] Officers detained the 44-year-old man. [@3]
+[@1] Officers detained the 44-year-old man. [@3,5]
 
-Police then searched the man's flat and found more drugs there. [@1] Officers
+Police then searched the man's flat and found more drugs there. [@1,5] Officers
 seized a combined total of nearly 200 grams of amphetamine and marijuana, with
-no separate weight given for the marijuana. [@1] Police put the combined
+no separate weight given for the marijuana. [@1,5] Police put the combined
 black-market value at about 7,500 zloty, without separating the marijuana share.
-[@2]
+[@2,5]
 
 The evidence allowed officers to charge the man with possession and supply of
-intoxicants, the Polish legal term for drugs. [@1] Corroborating outlets confirm
+intoxicants, the Polish legal term for drugs. [@1,5] Corroborating outlets confirm
 the same work-locker and flat seizure of amphetamine and marijuana involving the
 same 44-year-old. [@4] The detained man had previous convictions for drug
-offences, so police said he would answer under recidivism rules. [@1] Płock
-police said the charges carry up to 15 years in prison. [@1]
-
+offences, so police said he would answer under recidivism rules. [@1,5] Płock
+police said the charges carry up to 15 years in prison. [@1,5]
