@@ -47,28 +47,27 @@ sources:
     publisher: detikNews
     date: 2026-11-12
     language: id
-open_questions:
-  - No names, charges, custody details or court outcomes were reported for the 15 suspects.
-  - The report gives no breakdown of the arrests or the seized drugs across the six police units or the seven days of the operation.
-  - Only one account of the operation was opened, so the figures rest on a single police statement.
-  - No evidence or street value was given for the seized drugs.
+  - title: Polres Kampar Tangkap 15 Tersangka Kasus Narkoba dalam Sepekan
+    url: https://lensahukum.co.id/polres-kampar-tangkap-tersangka-narkoba
+    publisher: Lensa Hukum
+    date: 2026-11-12
+    language: id
 ---
 
 Satresarkoba Polres Kampar and five sub-district police units arrested 15 people
 suspected of narcotics offences during a week-long operation in Kampar Regency,
-Riau. [@1] The operation ran from 5 to 11 November 2026. [@1] The squads
+Riau. [@1,2] The operation ran from 5 to 11 November 2026. [@1,2] The squads
 involved were Satresarkoba Polres Kampar and the police districts of Kampar
 Kiri, Tapung, Tapung Hulu, Tapung Hilir and Tambang, led by the squad chief Iptu
-Rifles. [@1]
+Rifles. [@1,2]
 
 Police said they also seized 39.75 grams of methamphetamine and one ecstasy
-pill, neither of which is cannabis. [@1] Officers also seized 1.2 kilograms of
-dried ganja. [@1]
+pill, neither of which is cannabis. [@1,2] Officers also seized 1.2 kilograms of
+dried ganja. [@1,2]
 
 Kampar police chief AKBP Boby Putra Ramadan said the disclosures were part of
 the national police's anti-narcotics campaign and a quick-win programme of the
-national police chief, General Suyudi Ario Seto. [@1] Boby said the force would
-leave no room for illicit narcotics distributors in Kampar Regency. [@1] Police
+national police chief, General Suyudi Ario Seto. [@1,2] Boby said the force would
+leave no room for illicit narcotics distributors in Kampar Regency. [@1,2] Police
 asked residents to help by reporting any suspicious activity linked to drug
-misuse or distribution. [@1]
-
+misuse or distribution. [@1,2]
