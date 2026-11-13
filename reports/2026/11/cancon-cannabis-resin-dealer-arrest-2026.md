@@ -42,26 +42,25 @@ sources:
     publisher: Sud Ouest
     date: 2026-11-12
     language: fr
+  - title: 'Les enquêteurs soupçonnent un jeune homme de vendre des stupéfiants dans cette commune du Lot-et-Garonne : cent grammes de résine de cannabis retrouvés à son domicile'
+    url: https://www.ladepeche.fr/2026/11/12/les-enqueteurs-soupconnent-un-jeune-homme-de-vendre-des-stupefiants-dans-cette-commune-du-lot-et-garonne-cent-grammes-de-resine-de-cannabis-retrouves-13647807.php
+    publisher: La Dépêche
+    date: 2026-11-12
+    language: fr
 open_questions:
-  - 'The two accounts disagree on the weight of cannabis resin seized: Petit Bleu reports 100 grams, Sud Ouest about fifty grams packed in small sachets; the report uses the 100-gram figure.'
-  - 'The two accounts describe the man''s age differently: 25 in Petit Bleu, in his thirties in Sud Ouest.'
-  - No charges, court date or outcome were reported; the case was with the Agen prosecutor when the articles were published.
-  - The investigation lasted several weeks, but no date is given for when it began.
-  - 'Left out, as its quotation was not found in Sud Ouest: The investigation followed a report of deals around the lake at Cancon.'
-  - 'Left out, as its quotation was not found in Sud Ouest: The man had been supplying about fifteen customers in the area.'
-  - 'Left out, as its quotation was not found in Sud Ouest: After 48 hours in custody, the man was presented to the prosecutor in Agen on Thursday 12 November.'
-  - Left out case stage, as its quotation was not found in Sud Ouest.
-  - Left out setting, as its quotation was not found in Sud Ouest.
+    - 'The two accounts disagree on the weight of cannabis resin seized: Petit Bleu reports 100 grams, Sud Ouest about fifty grams packed in small sachets; the report uses the 100-gram figure.'
+    - 'The two accounts describe the man''s age differently: 25 in Petit Bleu, in his thirties in Sud Ouest.'
+    - No charges, court date or outcome were reported; the case was with the Agen prosecutor when the articles were published.
+    - The investigation lasted several weeks, but no date is given for when it began.
 ---
 
 Gendarmes of the brigade de recherches de Villeneuve-sur-Lot arrested a
 25-year-old man at his home in Cancon, Lot-et-Garonne, on Tuesday 10 November
 2026. [@1] The brigade had been investigating a drug-trafficking case in the
-commune for several weeks and stopped it in early November. [@1]
+commune for several weeks and stopped it in early November. [@1,3]
 
-Officers found 100 grams of cannabis resin at his home. [@1] The man admitted
-that he had sold drugs regularly to meet his financial needs. [@1] Sud Ouest,
+Officers found 100 grams of cannabis resin at his home. [@1,3] The man admitted
+that he had sold drugs regularly to meet his financial needs. [@1,3] Sud Ouest,
 reporting the same arrest, put the seizure at about fifty grams of resin packed
 in small sachets, alongside the man's dealer equipment and a list of debts and
 exchanges with his customers. [@2]
-
