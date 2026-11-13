@@ -67,30 +67,34 @@ sources:
     publisher: তালাশ বিডি
     date: 2026-11-12
     language: bn
+  - title: নারায়ণগঞ্জের বিহারী ক্যাম্প হতে প্রায় ছয় ফুট উচ্চতার গাঁজা গাছসহ গ্রেফতার ১
+    url: https://pkagoj.com/articles/638215
+    publisher: Protidiner Kagoj
+    date: 2026-11-12
+    language: bn
 open_questions:
-  - 'The accounts disagree on timing: Ekhon TV and Bangladesh Pratidin put the raid late on 12 November, around midnight, while Talash BD dates it to around midnight on 11 November; 12 November is used.'
-  - The 3 kg 200 g is the weight of the whole live plant with branches and leaves, not dried cannabis.
-  - It is not reported whether the plant was growing in the ground or in a pot in the yard.
-  - No street value estimate and no count of any other plants were published.
-  - No court outcome beyond his being sent to court was reported, and the exact charge and any plea are unknown.
-  - All the opened accounts reproduce the same SRB-11 press release, so they are not independent reporting.
-  - নারায়ণগঞ্জে নিজবাড়িতে গাঁজা চাষ, প্রায় ৬ ফুট গাছসহ যুবক গ্রেপ্তার (তালাশ বিডি) could not be opened again to check its quotations (The rendered source is larger than 2 MB.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.
+    - 'The accounts disagree on timing: Ekhon TV, Bangladesh Pratidin and Protidiner Kagoj put the raid late on 12 November, around midnight, while Talash BD dates it to around midnight on 11 November; 12 November is used.'
+    - The 3 kg 200 g is the weight of the whole live plant with branches and leaves, not dried cannabis.
+    - It is not reported whether the plant was growing in the ground or in a pot in the yard.
+    - No street value estimate and no count of any other plants were published.
+    - No court outcome beyond his being sent to court was reported, and the exact charge and any plea are unknown.
+    - All the opened accounts reproduce the same SRB-11 press release, so they are not independent reporting.
 ---
 
 SRB-11 officers arrested a 28-year-old man in Shimulpara Bihari Camp in
 Siddhirganj, Narayanganj, on suspicion of secretly growing cannabis in the yard
-of his home. [@1] Officers of the battalion's headquarters company carried out
+of his home. [@1,4] Officers of the battalion's headquarters company carried out
 the raid in the Shimulpara Bihari Camp area on a tip on the night of Thursday,
-12 November. [@1] The arrested man, Mubarak Hossain, known as Kale Khan, was the
-son of the late Anwar Hossain of Shimulpara Bihari Camp. [@2]
+12 November. [@1,4] The arrested man, Mubarak Hossain, known as Kale Khan, was the
+son of the late Anwar Hossain of Shimulpara Bihari Camp. [@2,4] His mother was Razia Khatun. [@4]
 
 He tried to flee when he noticed the officers and was caught, the battalion said
-in a press release. [@1] Officers then recovered the plant, which had been
-planted in front of the door inside the boundary wall of his house. [@1] The
+in a press release. [@1,4] Officers then recovered the plant, which had been
+planted in front of the door inside the boundary wall of his house. [@1,4] The
 plant was 5 ft 7 in tall and weighed 3 kg 200 g with its branches and leaves,
 Bangladesh Pratidin reported. [@2] In initial questioning he admitted growing
 cannabis secretly at his home for a long time, according to the press release.
-[@1]
+[@1,4]
 
 Acting SRB-11 deputy commander Captain Md Rawshan Erfan Khan confirmed the raid.
 [@1] A regular case was filed against him under the Narcotics Control Act at
@@ -99,4 +103,3 @@ SRB-11 operation officer announced the raid in a press release at noon on 12
 November, Talash BD reported. [@3] Bangladesh Pratidin dated the raid to around
 midnight on 12 November. [@2] Talash BD dated the operation to around midnight
 on 11 November and also described a raid on Thursday night. [@3]
-
