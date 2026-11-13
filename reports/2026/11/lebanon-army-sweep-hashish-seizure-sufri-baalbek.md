@@ -69,32 +69,38 @@ sources:
     publisher: Lebanese Army (lebarmy.gov.lb)
     date: 2026-11-08
     language: ar
+  - title: الجيش ينفّذ تدابير أمنية في عدد من المناطق في البقاع والشمال وجبل لبنان
+    url: https://safiralchamal.com/2026/11/08/739160/
+    publisher: Safir al-Shamal
+    date: 2026-11-08
+    language: ar
 open_questions:
-  - No weight or measured quantity was given for the hashish seized at the al-Sufri checkpoint.
-  - No separate date was given for the raids and checkpoints; 8 November 2026 is the publication date of the reports and of the army statement and is used as the incident date.
-  - The French account identifies the hashish detainee as (M.K.) while the Arabic account renders the initials as (م.ق.); only initials were published.
-  - No charge, plea or court outcome was reported beyond questioning under the supervision of the competent judicial authority.
-  - No weight or measured quantity was given for the hashish seized at the al-Safri checkpoint.
-  - No weight or measured quantity was given for the hashish seized at the al-Sufri checkpoint in this account.
-  - No separate date was given for the raids and checkpoints; 8 November 2026 is the publication date and is used as the incident date.
-  - No weight or measured quantity for the seized hashish was published in this account.
-  - No separate date is given for the checkpoints; 8 November 2026 is the date of the army statement and of publication.
-  - Only the detainee's initials (م.ق.) were published, and this account gives no charge, plea or court outcome beyond questioning under the competent judicial authority.
+    - No weight or measured quantity was given for the hashish seized at the al-Sufri checkpoint.
+    - No separate date was given for the raids and checkpoints; 8 November 2026 is the publication date of the reports and of the army statement and is used as the incident date.
+    - The French account identifies the hashish detainee as (M.K.) while the Arabic account renders the initials as (م.ق.); only initials were published.
+    - No charge, plea or court outcome was reported beyond questioning under the supervision of the competent judicial authority.
+    - A separate later army statement (13 November 2026) on the destruction of about 215 tonnes of hashish and marijuana is a different event not covered here.
+media:
+  - kind: photo
+    url: https://safiralchamal.com/2026/11/08/739160/
+    media_url: https://safiralchamal.com/wp-content/uploads/2026/11/IMG_9839.jpeg
+    publisher: Safir al-Shamal
+    caption: 'Photo on the Safir al-Shamal page of the Lebanese army''s 8 November 2026 security sweep statement. Photo: Safir al-Shamal'
 ---
 
 Lebanese army units detained 28 people in raids and temporary checkpoints
-carried out across several Lebanese regions. [@1,3,4,5,6] The army said the sweep was
+carried out across several Lebanese regions. [@1,3,4,5,6,8] The army said the sweep was
 aimed at pursuing troublemakers and combating human smuggling. [@1,3,4,7]
 
 The measures included raids after armed incidents in Laylaki–Baabda, Fnaydeq and
 Akkar al-Atiqa and checks at checkpoints including Ras Baalbek and Deir Ammar.
-[@1] At the al-Sufri checkpoint in Baalbek, soldiers arrested a citizen
+[@1,8] At the al-Sufri checkpoint in Baalbek, soldiers arrested a citizen
 identified only as M.K. for shooting and seized a quantity of hashish found in
-his possession. [@1,3,4,5,7] The Arabic army statement calls the seized drug hashish du
+his possession. [@1,3,4,5,7,8] The Arabic army statement calls the seized drug hashish du
 kif, meaning cannabis resin. [@2]
 
 The same sweep also produced the arrest of a Syrian wanted over an earlier car
-bombing in Ain al-Hilweh camp. [@1,5] The army said the seized items were handed
+bombing in Ain al-Hilweh camp. [@1,5,8] The army said the seized items were handed
 over and questioning of the detainees began under the supervision of the
-competent judicial authority. [@1,3,5,7] The army said efforts were continuing to
+competent judicial authority. [@1,3,5,7,8] The army said efforts were continuing to
 arrest others involved in the shooting incidents. [@1]
