@@ -43,25 +43,15 @@ sources:
     url: https://www.themoscowtimes.com/2025/09/05/film-and-tv-star-aglaya-tarasova-detained-at-moscow-airport-charged-with-drug-smuggling-a90442
     publisher: The Moscow Times
     date: 2025-09-05
-open_questions:
-  - 'Accounts differ slightly on the amount: URA.RU and Mash report 0.4 grams of cannabis oil, while Meduza, citing TASS, and most outlets report 0.38 grams of hashish oil after laboratory testing; the report uses 0.38 g and keeps 0.4 g in the text'
-  - The Moscow Times reported that the arrest date was disputed, with law-enforcement-linked Telegram channels saying she was detained "two days ago"; the majority of opened accounts, including Meduza and URA.RU, give 28 August 2025 and the report uses that date
-  - Meduza's account of the stop is drawn from TASS and Russian media reports rather than a published customs or Investigative Committee statement
-  - The amount is below the 1 gram figure that Russian law generally treats as a significant quantity of hashish oil; media accounts attribute the "significant quantity" characterisation to Mash, and no sentencing document confirming that classification was opened
-  - The later stages of the case, including the sentence reported by other outlets, were not read in an opened source for this report
-  - 'Left out, as its quotation was not found in Meduza: Russia''s customs service stopped her vape during the inspection and sent the device for laboratory testing, which found hashish oil, a substance permitted in Israel but banned from import into Russia, weighing 0.38 grams.'
-  - 'Left out, as its quotation was not found in Meduza: Investigators called her in for questioning after the test result and detained her that day.'
-  - Left out activity, as its quotation was not found in Meduza.
-  - Left out agencies, as its quotation was not found in Meduza.
-  - Left out agency types, as its quotation was not found in Meduza.
-  - Left out case stage, as its quotation was not found in Meduza.
-  - Left out charges, as its quotation was not found in Meduza.
-  - Left out products, as its quotation was not found in Meduza.
-  - Left out kg seized, as its quotation was not found in Meduza.
+  - title: Актриса Аглая Тарасова признала вину в контрабанде наркотиков — RTVI
+    url: https://rtvi.com/news/aktrisa-aglaya-tarasova-priznala-vinu-v-kontrabande-narkotikov/
+    publisher: RTVI
+    date: 2025-11-05
+    language: ru
 ---
 
 Russian actress Aglaya Tarasova was detained at Domodedovo airport outside
-Moscow on 28 August 2025 after arriving from Israel. [@1] Officers found 0.4
+Moscow on 28 August 2025 after arriving from Israel. [@1,4] Officers found 0.4
 grams of cannabis oil in an electronic smoking device, a vape, and the amount
 was treated as a significant quantity under Russian law. [@1]
 
@@ -69,13 +59,12 @@ A criminal case over drug smuggling was opened on the fact of the incident,
 under part 1 of article 229.1 of the Criminal Code, which covers smuggling of
 narcotic drugs. [@1] She was charged with that offence, which carries three to
 seven years in prison and a fine of up to one million rubles, or a fine equal to
-her salary or other income for up to five years. [@1]
+her salary or other income for up to five years. [@1] On 6 September the Domodedovo City Court placed Tarasova under a ban on certain actions, barring her until 3 November from using communications and from leaving home between midnight and 6 a.m. [@4]
 
 On 5 November 2025 Tarasova pleaded guilty in full at the Domodedovo City Court
 under part 1 of article 229.1, and the hearing was adjourned to 26 November
-because prosecution witnesses did not appear. [@2]
+because prosecution witnesses did not appear. [@2,4]
 
 The account of the arrest came from the Mash Telegram channel, and The Moscow
 Times reported that the arrest date was disputed, with some
 law-enforcement-linked channels saying she was detained "two days ago". [@3]
-
