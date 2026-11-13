@@ -53,6 +53,11 @@ media:
     media_url: https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2026/11/12/214710413-1-plantacao-maconha-992127.jpeg
     publisher: Terra
     caption: 'Cannabis planting of more than 26,000 plants in the sertão of Pernambuco. Photo: Divulgação / Portal de Prefeitura'
+  - kind: photo
+    url: https://www.diariodepernambuco.com.br/vida-urbana/2026/11/11728979-mais-de-26-mil-pes-de-maconha-sao-erradicados-no-sertao.html
+    media_url: https://www.diariodepernambuco.com.br/_midias/jpg/2026/11/12/1200x800/1_plantacao_maconha-992127.jpeg?20261112152510?20261112152510
+    publisher: Diario de Pernambuco
+    caption: 'Parte do material foi incinerado no próprio terreno da plantação. Photo: Divulgação/PMPE.'
 status: verified
 created_by_model: xai/grok-4.7#medium
 submission: 7184ae22cae39a76fb91cc613277d503
@@ -83,6 +88,11 @@ sources:
     publisher: Blog do Carlos Britto
     date: 2026-11-12
     language: pt
+  - title: Mais de 26 mil pés de maconha são erradicados no Sertão
+    url: https://www.diariodepernambuco.com.br/vida-urbana/2026/11/11728979-mais-de-26-mil-pes-de-maconha-sao-erradicados-no-sertao.html
+    publisher: Diario de Pernambuco
+    date: 2026-11-12
+    language: pt
 open_questions:
     - The area of the planting and the weight of the cannabis material seized were not published.
     - The report names no charge or court outcome for the arrested suspect.
@@ -90,18 +100,18 @@ open_questions:
 
 Military police of the 7ª CIPM eradicated a planting of 26,200 cannabis plants
 in the rural zone of Santa Maria da Boa Vista, in the sertão of Pernambuco, on
-the night of Wednesday 11 November 2026. [@1,5] Three people were in the area when
+the night of Wednesday 11 November 2026. [@1,5,6] Three people were in the area when
 the teams arrived, but only one was arrested in the act. [@1,4,5] The other two
-suspects fled and were not found. [@1,4,5] The arrested suspect and the seized
+suspects fled and were not found. [@1,4,5,6] The arrested suspect and the seized
 material were taken to the Civil Police station in Cabrobó, where the applicable
-measures were taken. [@1,4,5]
+measures were taken. [@1,4,5,6]
 
 The action was the 20th phase of Operation Carcará, after an intelligence survey
 by the unit, with support from the Malhas da Lei team and the Federal Police.
-[@2,5] Officers found 9,400 cannabis plants at harvest stage and 16,800 seedlings.
-[@1,4,5] Part of the material was collected and presented to the police authority.
+[@2,5,6] Officers found 9,400 cannabis plants at harvest stage and 16,800 seedlings.
+[@1,4,5,6] Part of the material was collected and presented to the police authority.
 [@1,5] The rest of the planting was burned by the officers on the land itself.
-[@1,5]
+[@1,5,6]
 
 The action took place on Wednesday 11 November 2026, during the 20th phase of
 Operation Carcará. [@3] Officers of the 7th Independent Military Police Company
