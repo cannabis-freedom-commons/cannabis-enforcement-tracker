@@ -54,31 +54,36 @@ sources:
     publisher: shz.de
     date: 2026-11-12
     language: de
+  - title: 'Polizei-News Itzehoe, 12.11.26: Ermittlungen wegen Drogenhandels - Cannabis und Kokain sichergestellt'
+    url: https://www.msn.com/de-de/nachrichten/other/polizei-news-itzehoe-121126-ermittlungen-wegen-drogenhandels-cannabis-und-kokain-sichergestellt/ar-AA2hi5Yx
+    publisher: MSN
+    date: 2026-11-12
+    language: de
 open_questions:
-  - 'No separate weight was published for the cannabis: the police gave only one combined kilogram range for the cannabis and the cocaine together, so no cannabis quantity is recorded in the figures.'
-  - The drugs were described only as being in the kilogram range, with no exact measured weight and no value estimate.
-  - The searches and vehicle checks ran from 6 to 10 November 2026; 10 November, the day of the shop search in the Feldschmiede, is used as the incident date for the operation as a whole.
-  - The police described several searches but gave no count of the premises searched, so no figure for sites is recorded.
-  - No charges, indictment or court outcome beyond the 7 November 2026 arrest warrant were reported, and the investigations were continuing.
-  - The report names five suspects in total but does not say what restrictions, if any, apply to the four who were not remanded.
-  - The starter pistol found near the shop in the Feldschmiede could not be attributed to any person.
-  - Parts of the operation took place outside Itzehoe, on the A7 at the Bad Bramstedt exit and in Norderstedt, so the coordinates given are for the town at the centre of the case.
-  - The account of the searches rests on the police statement, as the local newspaper's detailed report is not freely readable.
+    - 'No separate weight was published for the cannabis: the police gave only one combined kilogram range for the cannabis and the cocaine together, so no cannabis quantity is recorded in the figures.'
+    - The drugs were described only as being in the kilogram range, with no exact measured weight and no value estimate.
+    - The searches and vehicle checks ran from 6 to 10 November 2026; 10 November, the day of the shop search in the Feldschmiede, is used as the incident date for the operation as a whole.
+    - The police described several searches but gave no count of the premises searched, so no figure for sites is recorded.
+    - No charges, indictment or court outcome beyond the 7 November 2026 arrest warrant were reported, and the investigations were continuing.
+    - The report names five suspects in total but does not say what restrictions, if any, apply to the four who were not remanded.
+    - The starter pistol found near the shop in the Feldschmiede could not be attributed to any person.
+    - Parts of the operation took place outside Itzehoe, on the A7 at the Bad Bramstedt exit and in Norderstedt, so the coordinates given are for the town at the centre of the case.
+    - The account rests on the Itzehoe police statement and its republications rather than independent reporting.
 ---
 
 Police and customs carried out several searches and vehicle checks in Itzehoe,
 Schleswig-Holstein, in an investigation into suspected illegal trade in cannabis
-and other narcotics. [@1] On Friday 6 November 2026 officers stopped two cars
+and other narcotics. [@1,3] On Friday 6 November 2026 officers stopped two cars
 travelling north on the A7 motorway, and the driver of the first fled on foot
-before customs could check him. [@1] Police arrested a 37-year-old Yemeni man
+before customs could check him. [@1,3] Police arrested a 37-year-old Yemeni man
 from Itzehoe about an hour later in Norderstedt and found cannabis in a quantity
-German law treats as not insignificant in his car. [@1] The second car was
+German law treats as not insignificant in his car. [@1,3] The second car was
 checked at the Bad Bramstedt exit and held a 23-year-old Iraqi and a 29-year-old
-German woman, both from the Steinburg district. [@1]
+German woman, both from the Steinburg district. [@1,3]
 
 A search at the 23-year-old's home address covered another vehicle, in which
 officers found cannabis and cocaine, again in a not insignificant quantity,
-together with high-quality watches and gold. [@1] On Saturday 7 November 2026
+together with high-quality watches and gold. [@1,3] On Saturday 7 November 2026
 the man was brought before a judge at the Itzehoe local court, who issued an
 arrest warrant for risk of flight on the application of the Itzehoe prosecutor's
 office, and he was taken to a prison. [@1] On Tuesday 10 November 2026 officers
@@ -98,4 +103,3 @@ investigation department and the Itzehoe prosecutor's office were continuing.
 drug scene in which kilos of cannabis and cocaine were secured. [@2] The search
 of a shisha shop in the upper Feldschmiede in Itzehoe was part of the operation.
 [@2]
-
