@@ -38,23 +38,33 @@ sources:
     publisher: DBC News
     date: 2026-11-12
     language: bn
+  - title: নওগাঁয় সবজি ক্ষেতে গাঁজা চাষ, গ্রেপ্তার ১
+    url: https://www.kalbela.com/country-news/349170
+    publisher: কালবেলা
+    date: 2026-11-12
+    language: bn
 open_questions:
-  - No weight, height, laboratory test or value was published for the seized plant.
-  - No court date, custody decision or other outcome was reported after the case was filed.
-  - The union within Naogaon Sadar upazila containing Kadimpur village was not named, so the location is given at upazila level.
-  - The report gives no time for the raid beyond the evening of 11 November 2026, and no separate date for the case filing.
-  - Only one accessible account of the arrest was found; no police statement or second outlet confirmed it.
-  - Left out charged, as no supporting quotation was given.
+    - No weight, height, laboratory test or value was published for the seized plant.
+    - No court date, custody decision or other outcome was reported after the case was filed.
+    - The union within Naogaon Sadar upazila containing Kadimpur village was not named, so the location is given at upazila level.
+    - The accounts place the arrest in the afternoon of 11 November here and in the evening in the earlier report, and no date is given for the case filing.
+    - The arrested man's name is given both as Enajul Haque and as Enamul Haque.
+    - The accounts do not say whether the plant was grown for sale or for the household.
+media:
+  - kind: photo
+    url: https://www.kalbela.com/country-news/349170
+    media_url: https://www.kalbela.com/assets/news_photos/2026/11/12/image_349170_1794493065.webp
+    publisher: কালবেলা
+    caption: 'The cannabis plant seized from the vegetable field in Kadimpur. Photo: Kalbela'
 ---
 
 Police in Naogaon arrested a 58-year-old man, Enamul Haque, over a cannabis
-plant found in his vegetable field. [@1] Haque is the son of the late Muncha Ali
-of Kadimpur village in Naogaon Sadar upazila. [@1] The arrest was made on the
-evening of Wednesday, 11 November 2026. [@1] He was suspected of illegally
-cultivating a cannabis plant among the vegetables in his own field. [@1]
+plant found in his vegetable field. [@1,2] Haque is the son of the late Muncha Ali
+of Kadimpur village in Naogaon Sadar upazila. [@1,2] The arrest was made on the
+evening of Wednesday, 11 November 2026. [@1] The district police announced the arrest in a press release sent to the media on the evening of Thursday 12 November. [@2] He was suspected of illegally
+cultivating a cannabis plant among the vegetables in his own field. [@1,2]
 
 A detective team had learned on secret information that Haque had planted one
 cannabis plant in his vegetable field and was tending it, and raided the field
-at once to check the report. [@1] Officers seized the plant from the field in
-front of the local residents gathered there. [@1]
-
+at once to check the report. [@1] Superintendent of Police Tariqul Islam gave the police account, saying a tip-off had reported that Haque planted cannabis among his vegetables. [@2] Officers seized the plant from the field in
+front of the local residents gathered there. [@1,2] Naogaon Sadar police station filed a case over the cultivation under the Narcotics Control Act, the superintendent said. [@2]
