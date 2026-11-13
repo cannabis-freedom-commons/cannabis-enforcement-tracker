@@ -82,12 +82,12 @@ open_questions:
 Police in Brovarskyi district, Kyiv Oblast, exposed a 44-year-old local man
 suspected of selling cannabis through postal offices. [@1] According to the
 investigation, the man had established the distribution of prohibited substances
-in the region. [@1]
+in the region. [@1] He sent the 'orders' to clients by post through one of the postal offices in the capital region. [@1]
 
 During authorized searches at the man's residence, police found 113 zip packets
-of narcotic substance and a cardboard box of 'goods'. [@1] The total weight of
+of narcotic substance and a cardboard box of 'goods'. [@1] Experts were to confirm the composition of the seized material. [@1] The total weight of
 the seized cannabis, which the man stored for further sale, was about 600 grams.
-[@2] Police also took the man's mobile phone and electronic scales, which he
+[@1,2] Police also took the man's mobile phone and electronic scales, which he
 used for packaging the goods. [@4]
 
 The man was detained in procedural order. [@1] Investigators, under the process
@@ -101,4 +101,3 @@ The sanction of the article provides for a severe punishment of up to 10 years
 in prison with confiscation of property. [@2] The pretrial investigation is
 ongoing, and law-enforcement officers are identifying possible accomplices of
 the detained man. [@2]
-
