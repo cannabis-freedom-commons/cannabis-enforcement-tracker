@@ -22,6 +22,16 @@ media:
     media_url: https://www.zf-web.com/news/.assets/Still1111_00007---%E3%82%B3%E3%83%94%E3%83%BC.jpg
     publisher: ぎふチャン (Gifu Broadcasting System)
     caption: 'The apartment building in Kita-Isshiki, Gifu, after the fire of 11 November 2026. Photo: Gifu Broadcasting System'
+  - kind: photo
+    url: https://topics.smt.docomo.ne.jp/article/hicbc/nation/hicbc-3080186
+    media_url: https://newsdig.ismcdn.jp/mwimgs/c/6/1200xm/img_c6478fd5f2c7e1a8ee730445fd0ade2a216297.jpg
+    publisher: CBCテレビ
+    caption: 'The apartment building in Gifu with fire engines at the scene on the night of the fire. Photo: CBCテレビ'
+  - kind: photo
+    url: https://topics.smt.docomo.ne.jp/article/hicbc/nation/hicbc-3080186
+    media_url: https://newsdig.ismcdn.jp/mwimgs/b/c/1200xm/img_bcee1b5651875d460450efbfe67a36af206887.jpg
+    publisher: CBCテレビ
+    caption: 'Charred wood and debris at the burned apartment after the fire. Photo: CBCテレビ'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4641452ba460887a0204f7bb9b467a88
@@ -117,23 +127,33 @@ sources:
     publisher: Locipo（ロキポ）
     date: 2026-11-12
     language: ja
+  - title: ｢“ベランダから逃げるぞ”と飛んで逃げた｣ 1歳含む12人搬送のアパート火災 火元の部屋に住むトルコ国籍の男を大麻使用の疑いで逮捕 岐阜市（CBCテレビ）
+    url: https://topics.smt.docomo.ne.jp/article/hicbc/nation/hicbc-3080186
+    publisher: CBCテレビ
+    date: 2026-11-12
+    language: ja
+open_questions:
+    - Police had not established what caused the fire or whether it was linked to the man's cannabis use.
+    - The account gives no quantity of cannabis; the arrest concerned use, not a seizure.
+    - How the man obtained the cannabis was not reported.
+    - No charge or court outcome was reported; the case was at the investigation stage.
 ---
 
 A fire broke out in a three-storey apartment building in Kita-Isshiki, Gifu, in
 the early hours of 11 November 2026, after a neighbour reported seeing flames
 from the first floor. [@1,7] Twelve of the building's residents, aged from one to
 their forties, were taken to hospital and were thought to have minor injuries.
-[@1,4,5,7,11,13,14,18] The injured were taken to hospitals in Gifu City and in the neighbouring
+[@1,4,5,7,11,13,14,18,19] The youngest of the 12 residents taken to hospital was a year and a half old. [@19] The injured were taken to hospitals in Gifu City and in the neighbouring
 town of Kasamatsu. [@2] The apartment housed 11 households and 15 residents in
-total. [@1] No one was left behind in the fire. [@3] A neighbour said the man in the next room kept calling for help, and that the neighbour and a woman he lived with jumped from the balcony after saying they would escape that way. [@16,18] The man who lived in the
+total. [@1] No one was left behind in the fire. [@3] A neighbour said the man in the next room kept calling for help, and that the neighbour and a woman he lived with jumped from the balcony after saying they would escape that way. [@16,18,19] The man who lived in the
 ground-floor room where the fire started was not injured. [@1] The fire was brought under control about two hours later. [@5,13]
 
 Gifu Chuo Police Station arrested that resident, a 43-year-old unemployed
 Turkish man, on 11 November on suspicion of violating the Narcotics Control Law
-by using cannabis. [@1,4,7,8,11,12,15,18] Police named the arrested man as Komur Gokhan (コムル・ギョクハン), a 43-year-old unemployed Turkish national. [@6,7,9,13,14,18] Police said he was suspected of using cannabis between
-early August and 11 November. [@1,4,5,7,8,13,14,17,18] The suspicion arose during the fire
+by using cannabis. [@1,4,7,8,11,12,15,18,19] Police named the arrested man as Komur Gokhan (コムル・ギョクハン), a 43-year-old unemployed Turkish national. [@6,7,9,13,14,18,19] Police said he was suspected of using cannabis between
+early August and 11 November. [@1,4,5,7,8,13,14,17,18,19] The suspicion arose during the fire
 investigation: officers found his behaviour suspicious, tested his urine and
-detected cannabis components. [@1,6,7,9,13,14,18] Questioned by investigators, he admitted the suspicion. [@5,6,7,8,9,13,14,16,17,18]
+detected cannabis components. [@1,6,7,9,13,14,18,19] Questioned by investigators, he admitted the suspicion. [@5,6,7,8,9,13,14,16,17,18,19]
 
 Police said they are investigating whether the cannabis use is connected to the
-fire. [@1,4,5,6,7,8,9,10,11,13,14,16,17,18] Police said they are also investigating how he obtained the cannabis and his motive. [@5,13]
+fire. [@1,4,5,6,7,8,9,10,11,13,14,16,17,18,19] Police said they are also investigating how he obtained the cannabis and his motive. [@5,13]
