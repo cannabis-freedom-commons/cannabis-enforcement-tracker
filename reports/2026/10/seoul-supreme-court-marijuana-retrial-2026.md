@@ -42,17 +42,23 @@ sources:
     publisher: 연합뉴스
     date: 2026-11-13
     language: ko
-open_questions:
-  - The article gives no exact date for the alleged smoking incident; it is described as late April 2024 in the indictment, but the evidence points to late April 2023, so no precise incident date can be recorded.
-  - The defendant is identified only as A, with no full name or other identifying details published.
-  - The article does not state whether the retrial has been scheduled or when it will take place.
-  - The 1 gram of marijuana and 144 ecstasy pills are mixed with other drug-related charges, and no separate cannabis quantity beyond the 1 gram is reported.
+  - title: 'Supreme Court: Confession Alone Not Enough for Conviction Without Corroborating Evidence... Marijuana Smoking Case Remanded'
+    url: https://news.sbs.co.kr/english/article.do?news_id=N1008844852
+    publisher: SBS World News
+    date: 2026-11-13
+    language: en
+media:
+  - kind: photo
+    url: https://news.sbs.co.kr/english/article.do?news_id=N1008844852
+    media_url: https://img.sbsnews.co.kr/newimg/news/20260909/202220516_1280.jpg
+    publisher: SBS World News
+    caption: View of the Supreme Court of Korea, the Yonhap News photo published with the report on the remand ruling
 ---
 
 South Korea's Supreme Court, presided over by Justice Shin Suk-hee, on 27
 October 2026 reversed the lower court's ruling against a defendant identified as
 A, who was indicted on charges including violating the Act on the Control of
-Narcotics, and sent the case back to the Seoul High Court. [@1,2,3] A, who ran a
+Narcotics, and sent the case back to the Seoul High Court. [@1,2,3,4] A, who ran a
 record production and distribution company, a content firm, and nightlife
 establishments, was brought to trial on charges that included buying large
 quantities of ecstasy and marijuana in 2023 and selling or smoking some of them.
@@ -61,7 +67,7 @@ gram of marijuana together with four accomplices at an office in Seoul. [@1] The
 trial court found A guilty of the marijuana smoking charge, citing, among other
 things, that the accomplices indicted with A admitted the offense in court, and
 including other drug-related charges, the court sentenced A to three years and
-six months in prison and ordered 22.8 million won in forfeiture. [@1,3] On appeal,
+six months in prison and ordered 22.8 million won in forfeiture. [@1,3,4] On appeal,
 A argued that the smoking actually occurred in late April 2023 and that the
 indictment mistakenly listed April 2024, and said the confession at the first
 trial referred to the 2023 incident and that there was no marijuana smoking in
@@ -78,7 +84,7 @@ the offense in the indictment. [@1] The Supreme Court also found it hard to rule
 out the possibility that the accomplices' in-court confessions referred to the
 April 2023 smoking incident, and therefore held that their testimony could not
 be deemed sufficient to corroborate A's confession, and that the remaining
-evidence alone did not adequately prove the alleged smoking in April 2024. [@1]
+evidence alone did not adequately prove the alleged smoking in April 2024. [@1,4]
 The Criminal Procedure Act bars a conviction if the defendant's confession is
 the only incriminating evidence, and the Supreme Court said the lower court
 misunderstood the legal principles on corroborating a confession and on the
