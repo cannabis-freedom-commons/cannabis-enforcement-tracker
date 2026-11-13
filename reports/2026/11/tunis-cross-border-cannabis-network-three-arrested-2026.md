@@ -57,22 +57,38 @@ sources:
     publisher: Almasdar Tunisie
     date: 2026-11-12
     language: ar
+  - title: تونسيان مفتّش عنهما وأجنبي.. الإطاحة بـ3 عناصر من شبكة تهريب مخدرات!
+    url: https://www.tuniscope.com/ar/article/444601/arabe/actu-arabe/drougue-tunisie-073614
+    publisher: Tuniscope
+    date: 2026-11-12
+    language: ar
+  - title: 'Nouveau coup de filet: un réseau international de trafic de drogue démantelé, trois suspects arrêtés'
+    url: https://www.lapresse.tn/2026/11/12/nouveau-coup-de-filet-un-reseau-international-de-trafic-de-drogue-demantele-trois-suspects-arretes
+    publisher: La Presse de Tunisie
+    date: 2026-11-12
+    language: fr
+open_questions:
+    - No date is given for the operation; 12 November 2026 is the publication date and stands in for the incident date.
+    - No weight was published for the cannabis and no amount for the cash; the accounts describe the quantity only as significant.
+    - The accounts do not name the foreign country the courier arrived from or the crossing he used.
+    - The cannabis is described only as cannabis, without saying whether it was resin or herb.
+    - No charges or court outcome beyond the prosecutor's detention order were reported.
 ---
 
 Tunis's Research and Inspection Brigade, working with the National Guard's
 intelligence and research directorate, dismantled a cross-border international
 network active in drug trafficking and detained three of its key members,
-according to a security source speaking to the Tunis Afrique Presse agency. [@1,4,5]
+according to a security source speaking to the Tunis Afrique Presse agency. [@1,4,5,6]
 The operation followed precise intelligence work and field surveillance, and it
 led to the arrest of three people. [@1,4] Two of those arrested are Tunisians with
 criminal records who were wanted, while the third is a foreigner who brought
-cannabis in by swallowing it. [@1,4,5] The foreign suspect allegedly introduced the cannabis by ingesting capsules. [@4] A second account likewise describes two
+cannabis in by swallowing it. [@1,4,5,6] The foreigner carried the cannabis inside his intestines. [@6] The foreign suspect allegedly introduced the cannabis by ingesting capsules. [@4,7] A second account likewise describes two
 wanted Tunisians with criminal records and a foreigner who concealed the drug
 inside his body. [@2]
 
 Officers seized a significant quantity of cannabis alongside a sum of cash
-described as proceeds of dealing. [@1,4,5] TunisNow, citing Mosaique's security
+described as proceeds of dealing. [@1,4,5,6] TunisNow, citing Mosaique's security
 source, likewise reports a significant cannabis seizure alongside money
 suspected to be dealing proceeds. [@3] The public prosecution ordered all those
 involved held in custody, while the brigade kept the file to complete inquiries
-and legal procedures. [@1,4,5]
+and legal procedures. [@1,4,5,6]
