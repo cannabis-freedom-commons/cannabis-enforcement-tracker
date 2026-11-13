@@ -147,6 +147,11 @@ sources:
     publisher: CBCテレビ
     date: 2026-11-12
     language: ja
+  - title: アパート火災…火元住人が大麻か 12人搬送 火事との関連を捜査 岐阜市
+    url: https://article.auone.jp/d9bb409f-d162-40d9-942b-d6b0dcc6054c
+    publisher: au Webポータル（出典：日テレNEWS NNN）
+    date: 2026-11-12
+    language: ja
 ---
 
 A fire broke out in a three-storey apartment building in Kita-Isshiki, Gifu, in
@@ -156,11 +161,11 @@ their forties, were taken to hospital and were thought to have minor injuries.
 [@1,4,5,7,11,13,14,18,19,20,21] The youngest of the 12 residents taken to hospital was a year and a half old. [@19,20,22] The injured were taken to hospitals in Gifu City and in the neighbouring
 town of Kasamatsu. [@2] The apartment housed 11 households and 15 residents in
 total. [@1] No one was left behind in the fire. [@3] A neighbour said the man in the next room kept calling for help, and that the neighbour and a woman he lived with jumped from the balcony after saying they would escape that way. [@16,18,19] The man who lived in the
-ground-floor room where the fire started was not injured. [@1] The fire was brought under control about two hours later. [@5,13]
+ground-floor room where the fire started was not injured. [@1,23] The fire was brought under control about two hours later. [@5,13]
 
 Gifu Chuo Police Station arrested that resident, a 43-year-old unemployed
 Turkish man, on 11 November on suspicion of violating the Narcotics Control Law
-by using cannabis. [@1,4,7,8,11,12,15,18,19,20] Police named the arrested man as Komur Gokhan (コムル・ギョクハン), a 43-year-old unemployed Turkish national. [@6,7,9,13,14,18,19] Police said he was suspected of using cannabis between
+by using cannabis. [@1,4,7,8,11,12,15,18,19,20,23] Police named the arrested man as Komur Gokhan (コムル・ギョクハン), a 43-year-old unemployed Turkish national. [@6,7,9,13,14,18,19] Police said he was suspected of using cannabis between
 early August and 11 November. [@1,4,5,7,8,13,14,17,18,19,21] The suspicion arose during the fire
 investigation: officers found his behaviour suspicious, tested his urine and
 detected cannabis components. [@1,6,7,9,13,14,18,19,20,21] Questioned by investigators, he admitted the suspicion. [@5,6,7,8,9,13,14,16,17,18,19,20,21,22]
