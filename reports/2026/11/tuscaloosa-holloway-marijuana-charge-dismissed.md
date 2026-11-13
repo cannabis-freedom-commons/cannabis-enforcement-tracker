@@ -39,31 +39,41 @@ sources:
     url: https://www.zagsblog.com/2026/11/09/alabama-guard-aden-holloway-to-make-his-debut-since-marijuna-arrest/
     publisher: Zagsblog
     date: 2026-11-09
+  - title: Aden Holloway to play for Alabama basketball for first time since marijuana arrest
+    url: https://www.msn.com/en-us/news/other/aden-holloway-to-play-for-alabama-basketball-for-first-time-since-marijuana-arrest/ar-AA2h4zGP
+    publisher: MSN
+    date: 2026-11-09
 open_questions:
-  - The dismissal is reported through court documents obtained by The Tuscaloosa News; the court order itself was not opened.
-  - The page gives no day for the March arrest beyond the month, so the incident date is the 9 November publication date of the return.
-  - The exact Alabama court that dismissed the charge is not named on the opened page.
-  - The page does not say what quantity of marijuana was involved or what the second-chance program required.
-  - Jon Rothstein's report of coach Nate Oats's comments was not opened as a separate source.
-  - The article gives no day in March for the arrest and does not name the court that dismissed the charges.
-  - The article states charges were dismissed while describing the arrest only as possession of marijuana and failure to affix a tax stamp; it does not state the possession degree recorded in the earlier report.
+    - The dismissal is reported through court documents obtained by The Tuscaloosa News; the court order itself was not opened.
+    - The article gives no day for the March arrest beyond the month, so the incident date is the 9 November publication date of the return.
+    - The exact Alabama court that dismissed the charge is not named.
+    - No quantity of marijuana and no details of what the second-chance program required were published.
+    - Jon Rothstein's report of coach Nate Oats's comments, cited by the article, was not opened as a separate source.
+    - The article states the charge was dismissed while describing the arrest only as possession of marijuana and failure to affix a tax stamp; it does not state the possession degree.
+    - The article was published before the Oakland game, so Holloway's playing time in his return is not reported.
+media:
+  - kind: photo
+    url: https://www.msn.com/en-us/news/other/aden-holloway-to-play-for-alabama-basketball-for-first-time-since-marijuana-arrest/ar-AA2h4zGP
+    media_url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2h4D68.img?w=768&h=577&m=4&q=75
+    publisher: MSN
+    caption: 'Alabama guard Aden Holloway shoots in a game, in the lead photo published with the article. Photo: USA TODAY Sports'
 ---
 
 Alabama basketball guard Aden Holloway was arrested in March 2026 for possession
 of marijuana and failure to affix a tax stamp, before the men's NCAA tournament.
-[@1] His first-degree marijuana charge was dismissed, according to court
+[@1,3] His first-degree marijuana charge was dismissed, according to court
 documents obtained by The Tuscaloosa News and reported on 28 September 2026.
 [@1]
 
 The dismissal came after he completed a court second-chance program following
-his arrest. [@1] Alabama reinstated Holloway to the team on 6 October 2026. [@1]
+his arrest. [@1] Alabama reinstated Holloway to the team on 6 October 2026. [@1,3] Oats has since described Holloway as "changed" and an unexpected leader on the team. [@3]
 Alabama imposed a five-game suspension, and Holloway missed the team's first two
-games of the 2026-27 season against Sam Houston and Arkansas State. [@1,2] The
+games of the 2026-27 season against Sam Houston and Arkansas State. [@1,2,3] The
 five-game suspension, handed down by Alabama, also covered three exhibition
 games against Furman, Ole Miss and Auburn. [@1]
 
 Coach Nate Oats said Holloway would make his season debut against Oakland and
-get starter minutes. [@1,2] Alabama was scheduled to play Oakland at Coleman
+get starter minutes. [@1,2,3] Alabama was scheduled to play Oakland at Coleman
 Coliseum in Tuscaloosa. [@1]
 
 Holloway is expected to play without a minutes restriction. [@2] No. 20 Alabama will play against the Oakland Golden Grizzlies on Monday night at 7:30 p.m. EST. [@2]
