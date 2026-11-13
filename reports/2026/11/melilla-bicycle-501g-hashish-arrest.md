@@ -58,30 +58,35 @@ sources:
     publisher: COPE Melilla
     date: 2026-11-11
     language: es
+  - title: 'مليلية: توقيف شخصين وحجز نصف كيلوغرام من الحشيش خلال نقطة مراقبة أمنية'
+    url: https://www.ariffino.net/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D9%88-%D9%85%D8%AC%D8%AA%D9%85%D8%B9/%D9%85%D9%84%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D9%88%D8%AD%D8%AC%D8%B2-%D9%86%D8%B5%D9%81-%D9%83%D9%8A%D9%84%D9%88%D8%BA%D8%B1%D8%A7%D9%85-%D9%85
+    publisher: أريفينو.نت
+    date: 2026-11-12
+    language: ar
 open_questions:
-  - The reports give no date for the interception, only the time (16:45); 11 November 2026 is the publication date of the first reports.
-  - Police described the 501 grams as having characteristics compatible with hashish; no laboratory confirmation was reported.
-  - No charge, court appearance or sentence has been reported; the man was held in police cells awaiting a court appearance.
-  - The man's identity, age and criminal record were not reported.
-  - The published accounts appear to derive from the same Consejería de Seguridad Ciudadana statement; no independent witness account was found.
-  - The same article reports an unrelated May arrest near the Beni-Enzar border crossing, involving suspected cocaine and cash; that event is left out of this report.
+    - The reports give no date for the interception, only the time (16:45); 11 November 2026 is the publication date of the first reports.
+    - Police described the 501 grams as having characteristics compatible with hashish; no laboratory confirmation was reported.
+    - No charge, court appearance or sentence has been reported; the man was held in police cells awaiting a court appearance.
+    - The man's identity, age and criminal record were not reported.
+    - The published accounts appear to derive from the same Consejería de Seguridad Ciudadana statement; no independent witness account was found.
+    - The same article reports an unrelated May arrest near the Beni-Enzar border crossing, involving suspected cocaine and cash; that event is left out of this report.
+    - An Arabic-language report of the arrest headlines two people arrested while its text describes only one man, as the Spanish reports do.
 ---
 
 Local police in Melilla arrested a man after finding 501 grams of what they
 described as hashish in the panniers of the electric bicycle he was riding on
-the pavement in Calle Santander. [@1] The city's security department said the
+the pavement in Calle Santander. [@1,3] The city's security department said the
 interception happened at 16:45 while a local police patrol was working in the
 street. [@1] Officers from the Grupo Operativo de Tráfico, the local police
 traffic unit, stopped him for an administrative check and then searched the
 bicycle's panniers. [@1] Inside they found a red bag with five tablets of a
-compact brown substance, weighing 501 grams in total. [@1] Police said the
+compact brown substance, weighing 501 grams in total. [@1,3] Police said the
 substance had characteristics compatible with hashish. [@1] COPE Melilla
 reported the same arrest, saying officers saw him riding the electric bicycle on
 the pavement on Calle Santander. [@2]
 
 He was arrested as the suspected author of a crime against public health and
 informed of the reasons for his arrest and his rights. [@1] He was then taken to
-police premises and held in the cells to await a court appearance. [@1] The
+police premises and held in the cells to await a court appearance. [@1,3] The
 electric bicycle was also seized and left at police premises at the disposal of
-the courts. [@1]
-
+the courts. [@1,3]
