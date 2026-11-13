@@ -43,30 +43,30 @@ sources:
     publisher: Kata Sumbar
     date: 2026-11-13
     language: id
-open_questions:
-  - No net weight was published for the 27 cannabis packets, so no kilogram figure is recorded.
-  - No formal charge, detention status or court outcome was reported beyond transfer to Bukittinggi police for legal process.
-  - Only one outlet account of this arrest was opened, so no independent second source confirmed the details.
+  - title: Polisi Tangkap Pemuda Asal Padang di Agam, 27 Paket Ganja Disita dari Mobil Xenia
+    url: https://www.hariansinggalang.co.id/berita/252894/polisi-tangkap-pemuda-asal-padang-di-agam-27-paket-ganja-disita-dari-mobil-xenia
+    publisher: Harian Singgalang
+    date: 2026-11-13
+    language: id
 ---
 
 Bukittinggi narcotics police arrested 24-year-old RJP alias Rio, a man described
 as being from Padang, in Agam regency on the morning of Friday 13 November 2026
 for allegedly carrying 27 packages of cannabis. [@1] Officers detained him at
 about 06.00 on the roadside at Jalan Baringin, Jorong PGRM, Nagari Gaduik in
-Tilatang Kamang district. [@1] The arrest followed police information about a
+Tilatang Kamang district. [@1,2] The arrest followed police information about a
 man carrying cannabis from the Palupuah direction toward Bukittinggi city. [@1]
 Operational narcotics officers investigated and then tailed the suspect with
 help from Bukittinggi criminal-investigation officers. [@1]
 
 Police seized 27 cannabis packages wrapped in adhesive tape and placed inside a
-green sack. [@1] The packages were found in the rear trunk of the white Daihatsu
+green sack. [@1,2] The packages were found in the rear trunk of the white Daihatsu
 Xenia with plate BA 1065 QG that the suspect was driving. [@1] Police also
 seized a blue Realme mobile phone, the green sack, and the Xenia car with its
-key and vehicle registration document. [@1]
+key and vehicle registration document. [@1,2]
 
 On initial questioning, the suspect admitted carrying the cannabis from the
 Penyabungan area of North Sumatra on someone else's orders. [@1] He said the
-load was to be dropped off at Taluak in Banuhampu district, Agam regency. [@1]
+load was to be dropped off at Taluak in Banuhampu district, Agam regency. [@1,2]
 The suspect and all the evidence were taken to Bukittinggi police headquarters
 for further legal process. [@1]
-
