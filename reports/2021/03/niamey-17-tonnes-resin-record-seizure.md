@@ -86,6 +86,11 @@ sources:
     url: https://www.voaafrique.com/a/saisie-de-17-tonnes-de-cannabis-%C3%A0-niamey/5804129.html
     publisher: VOA Afrique
     date: 2021-03-06
+  - title: '17 tons of cannabis resin seized in Niger : Arrests in Togo'
+    url: https://afreepress.tg/17-tons-of-cannabis-resin-seized-in-niger-arrests-in-togo/
+    archived: https://web.archive.org/web/20250719085329/https://afreepress.tg/17-tons-of-cannabis-resin-seized-in-niger-arrests-in-togo/
+    publisher: Afreepress
+    date: 2021-03-23
     language: fr
 open_questions:
   - The identities of the thirteen people arrested and any court outcomes were not reported in the opened sources.
@@ -100,6 +105,7 @@ open_questions:
   - This account attributes the first-from-Lebanon statement to Interior Minister Alkache Alhada at a press presentation, while existing sentences attribute it to agency spokesman Adili Toro.
   - This account says the thirteen suspects were arrested and committed to custody (écrouées) but does not say where each was held and gives no identities or court outcomes.
   - This account names an Indian company as the shipping intermediary for the Lebanon-to-Lomé leg, a detail not in the existing sentences.
+  - Seven arrests in Togo were reported without names, charges or court outcomes.
 media:
   - kind: photo
     url: https://www.lsi-africa.com/fr/actualite-africaine/niger-saisie-cannabis-.html
@@ -123,3 +129,5 @@ The resin was brought to Niamey concealed in a Beninese-registered tanker presen
 Interior Minister Alkache Alhada told a press presentation that nearly 20 billion CFA francs of resin had been seized in a Niamey warehouse. [@8] The drugs are valued at 20 billion CFA francs, which the article put at more than 34 million euros. [@8,9] The material was seized on 2 March in a district on the outskirts of Niamey. [@8,9]
 
 The shipment travelled from Lebanon to the Togolese port of Lomé through an Indian company. [@9]
+
+Togo's OCTRIBD anti-drug unit worked with its Nigerien counterpart after the seizure to trace the container's route from Beirut. [@10] The container had been embarked at Beirut on 6 October 2020, transshipped at Algeciras in Spain, discharged at Lomé in November 2020, and trucked out of Togo through the Cinkassé customs post on 25 November. [@10] Seven people were arrested in Togo in connection with the case, including the file manager, the forwarder, and the truck's owner and driver. [@10]
