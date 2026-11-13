@@ -45,29 +45,29 @@ sources:
     publisher: 24chasa.bg
     date: 2026-11-13
     language: bg
-open_questions:
-  - No names, ages or charges for the two detained men were published, and no court outcome has been reported.
-  - The marijuana was described as foil rolls without a separate product specification; it is recorded as flower (marijuana).
-  - The amphetamine quantities (8.69 g on the men and 10.28 g at the home, 18.97 g in total) are not included in the cannabis figures; the combined over-23-grams headline figure mixes marijuana and amphetamine.
+  - title: Задържаха двама мъже с марихуана и амфетамин в Добрич
+    url: https://tvdobrich.com/2026/11/13/zadarzhaha-dvavma-fa/
+    publisher: Регионална телевизия Добрич
+    date: 2026-11-13
+    language: bg
 ---
 
 Two men known to the interior authorities were detained in Dobrich during a
 specialized police operation against the distribution of narcotic substances.
-[@1] The operation was carried out on 12 November at about 23:30 by officers of
-the First District Administration in Dobrich. [@1]
+[@1,3] The operation was carried out on 12 November at about 23:30 by officers of
+the First District Administration in Dobrich. [@1,3]
 
 During the check, officers found on the two men 12 foil rolls containing 4.98
 grams of marijuana and 48 foil rolls containing a total of 8.69 grams of
-amphetamine. [@1] In follow-up procedural and investigative actions, officers
-also searched a home inhabited by the two men. [@1] There officers found and
+amphetamine. [@1,3] In follow-up procedural and investigative actions, officers
+also searched a home inhabited by the two men. [@1,3] There officers found and
 seized a further 14 packets of amphetamine with a total weight of 10.28 grams.
-[@1]
+[@1,3]
 
 The two men were detained for up to 24 hours; a pretrial proceeding was opened
-and the material was reported to the prosecution. [@1] Police work to establish
+and the material was reported to the prosecution. [@1,3] Police work to establish
 and document the possible criminal activity of the detained men continues. [@1]
 
 A 24chasa-network account states that a total of 4.98 grams of marijuana and
 18.97 grams of amphetamine were found on the two men and in their home,
 confirming the combined amphetamine figure. [@2]
-
