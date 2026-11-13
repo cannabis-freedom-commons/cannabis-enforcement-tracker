@@ -84,6 +84,11 @@ media:
     media_url: https://images.tv9hindi.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-31-at-2.19.09-pm-1.jpeg?w=1280&q=51
     publisher: TV9 Bharatvarsh
     caption: Police officers with the seized ganja consignment and the accused.
+  - kind: photo
+    url: https://www.starsamachar.com/871-kg-ganja-seizure-exposes-drug-smuggling-network-satna-maihar
+    media_url: https://www.starsamachar.com/_next/image?url=https%3A%2F%2Fadmin.starsamachar.com%2Fuploads%2Fimages%2F202611%2Fimage_870x_6af58de6e1cb4.jpg&w=1024&q=75
+    publisher: Star Samachar
+    caption: Police officers beside the container seized at the Mohtra toll plaza, with sacks of ganja stacked outside; the page's caption only repeats the article headline and gives no photo credit.
 details:
   activity: [smuggling]
   agencies: [in-anf]
@@ -356,6 +361,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-10-31
     language: hi
+  - title: 871 किलो गांजा बरामदगी ने खोली विंध्य में तस्करी की जड़ें, स्थानीय बिक्री नेटवर्क पर उठे सवाल
+    url: https://www.starsamachar.com/871-kg-ganja-seizure-exposes-drug-smuggling-network-satna-maihar
+    publisher: Star Samachar
+    date: 2026-11-12
+    language: hi
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -449,3 +459,5 @@ police said. [@14,43,44] Sahu fled and is being sought. [@14,44,49]
 Both men were taken on five-day police remand and questioned about the source, the supply network and
 the buyers. [@10,34] Investigators are working to identify others involved in arranging, transporting
 and delivering the consignment. [@1,3,8,9,12,19,34]
+
+On the same day, police also reported anti-cannabis action in four police-station areas of Satna and Maihar. [@52]
