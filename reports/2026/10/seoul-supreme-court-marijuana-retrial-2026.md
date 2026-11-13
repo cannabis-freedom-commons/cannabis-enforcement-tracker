@@ -52,48 +52,55 @@ sources:
     publisher: Newsis
     date: 2026-11-13
     language: ko
+  - title: 대마 흡연 자백했어도…대법 "시점 엇갈린 진술은 증거 안돼"
+    url: https://amp.seoul.co.kr/seoul/20261113500112
+    publisher: 서울신문
+    date: 2026-11-13
+    language: ko
 media:
   - kind: photo
     url: https://news.sbs.co.kr/english/article.do?news_id=N1008844852
     media_url: https://img.sbsnews.co.kr/newimg/news/20260909/202220516_1280.jpg
     publisher: SBS World News
     caption: View of the Supreme Court of Korea, the Yonhap News photo published with the report on the remand ruling
+open_questions:
+    - The submitted article does not state the exact calendar date of the Supreme Court ruling; it refers only to '13일' (the 13th) without naming the month explicitly.
 ---
 
 South Korea's Supreme Court, presided over by Justice Shin Suk-hee, on 27
 October 2026 reversed the lower court's ruling against a defendant identified as
 A, who was indicted on charges including violating the Act on the Control of
-Narcotics, and sent the case back to the Seoul High Court. [@1,2,3,4] A, who ran a
+Narcotics, and sent the case back to the Seoul High Court. [@1,2,3,4,6] A, who ran a
 record production and distribution company, a content firm, and nightlife
 establishments, was brought to trial on charges that included buying large
 quantities of ecstasy and marijuana in 2023 and selling or smoking some of them.
 [@1] Prosecutors also charged that around 9 p.m. in late April 2024, A smoked 1
-gram of marijuana together with four accomplices at an office in Seoul. [@1] The
+gram of marijuana together with four accomplices at an office in Seoul. [@1] The charged smoking incident took place in an office in Gangnam, Seoul. [@6] The
 trial court found A guilty of the marijuana smoking charge, citing, among other
 things, that the accomplices indicted with A admitted the offense in court, and
 including other drug-related charges, the court sentenced A to three years and
-six months in prison and ordered 22.8 million won in forfeiture. [@1,3,4] On appeal,
+six months in prison and ordered 22.8 million won in forfeiture. [@1,3,4,6] On appeal,
 A argued that the smoking actually occurred in late April 2023 and that the
 indictment mistakenly listed April 2024, and said the confession at the first
 trial referred to the 2023 incident and that there was no marijuana smoking in
-April 2024. [@1] The appellate court upheld the guilty verdict, saying there was
+April 2024. [@1,6] The appellate court upheld the guilty verdict, saying there was
 no reason to suspect the confession was coerced and noting the accomplices'
 statements, and reduced the forfeiture to 12.68 million won to avoid
 double-counting the value of 144 ecstasy pills already forfeited in another
-case. [@1] The Supreme Court found that the police and prosecution interrogation
+case. [@1,6] The Supreme Court found that the police and prosecution interrogation
 records of A and the accomplices that the first-instance court relied on as
 evidence all concerned marijuana smoking in late April 2023, and that the
 interviews also took place before late April 2024, and that the toxicology
 reports on urine and hair were likewise all prepared before the alleged date of
-the offense in the indictment. [@1] The Supreme Court also found it hard to rule
+the offense in the indictment. [@1,6] The Supreme Court also found it hard to rule
 out the possibility that the accomplices' in-court confessions referred to the
 April 2023 smoking incident, and therefore held that their testimony could not
 be deemed sufficient to corroborate A's confession, and that the remaining
-evidence alone did not adequately prove the alleged smoking in April 2024. [@1,4,5]
+evidence alone did not adequately prove the alleged smoking in April 2024. [@1,4,5,6]
 The Criminal Procedure Act bars a conviction if the defendant's confession is
 the only incriminating evidence, and the Supreme Court said the lower court
 misunderstood the legal principles on corroborating a confession and on the
-standard of proof required in criminal trials. [@1] The Supreme Court found no
+standard of proof required in criminal trials. [@1,6] The Supreme Court found no
 error in the lower court's determination that A was guilty on other charges of
 selling marijuana with accomplices, but because a single sentence had been
 imposed for the disputed smoking charge and the remaining guilty counts, it
