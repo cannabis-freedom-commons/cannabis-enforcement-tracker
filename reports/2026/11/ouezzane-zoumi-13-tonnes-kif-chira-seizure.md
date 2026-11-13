@@ -60,22 +60,22 @@ sources:
     publisher: inews.ma
     date: 2026-11-12
     language: ar
+  - title: 'وزان: حجز أزيد من 13 طنا من الكيف و70 كيلوغراما من الشيرا في عملية مشتركة بين الدرك والشرطة'
+    url: https://alyaoum24.com/2057187.html
+    publisher: اليوم 24 (Alyaoum24)
+    date: 2026-11-13
+    language: ar
 media:
   - kind: photo
     url: https://www.alalam.ma/حجز-13-طنا-من-القنب-الهندي-ومسحوقه-في-أكبر-عملية-أمنية-لرجال-حموشي_a36124.html
     media_url: https://www.alalam.ma/photo/art/grande/98678083-68877961.jpg?v=1794484359
     publisher: العلم الإلكترونية
     caption: 'Al-Alam''s lead photograph for its report on the operation near Zoumi, showing the cannabis and hashish taken from the house. Photo: Al-Alam'
-open_questions:
-    - The reports give no separate date for the operation; 12 November 2026 is their publication date and stands in for the incident date.
-    - The split of the more than two kilograms of hashish and cannabis found at the first man's home is not given.
-    - The kind and quantity of the processing equipment found at the house near Zoumi are not described.
-    - No charge has been reported against either man; the suspected supplier is still wanted.
 ---
 
 Moroccan security services seized more than 13 tonnes of cannabis and cannabis
 powder, together with more than 70 kilograms of hashish, in a joint police
-operation in Ouezzane province. [@1,3,4,5] Detectives from Ouezzane carried out the
+operation in Ouezzane province. [@1,3,4,5,6] Detectives from Ouezzane carried out the
 operation with the Royal Gendarmerie of Ouezzane and Zoumi and the anti-gang
 unit from Tetouan. [@1,2,3,4]
 
