@@ -35,6 +35,11 @@ media:
     media_url: https://img.mdzol.com/4F-3vn_rExoHShhvT_lPYIgoLavl9tIBymjLLYmExw4/rs:fit:1024:0:0/q:50/f:avif/aHR0cHM6Ly9hc3NldHMubWR6b2wuY29tL2ltZy8xNzk0NDEzMDE4MzU3LTlzOXZoYi5qcGc
     publisher: MDZ Online
     caption: 'White cylinders, silver packets and plastic-wrapped doses laid out on a wooden table with a banknote, the picture published with the Calle Chamical seizure. Photo: MDZ Online'
+  - kind: photo
+    url: https://mendozatoday.com.ar/policiales/godoy-cruz-un-detenido-por-transportar-mas-de-70-envoltorios-de-cocaina-y-marihuana/
+    media_url: https://mendozatoday.com.ar/files/image/398/398508/6af58a7b29776_992_558!.webp?s=9359349c817b44cc7e5963c92de72101&d=1794452400&oe=jpg
+    publisher: Diario Mendoza Today
+    caption: 'Packets and doses laid out after the Calle Chamical seizure, in the lead picture of the Diario Mendoza Today account. Photo: Diario Mendoza Today'
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 33210544501a1e0b19ea19931f38baab
@@ -50,31 +55,35 @@ sources:
     publisher: Prensa Gobierno de Mendoza
     date: 2026-11-11
     language: es
+  - title: 'Godoy Cruz: un detenido por transportar más de 70 envoltorios de cocaína y marihuana'
+    url: https://mendozatoday.com.ar/policiales/godoy-cruz-un-detenido-por-transportar-mas-de-70-envoltorios-de-cocaina-y-marihuana/
+    publisher: Diario Mendoza Today
+    date: 2026-11-12
+    language: es
 open_questions:
-  - No weight was published for the marijuana wrappers or the handmade cigarettes.
-  - The cash was described only as money in hand, with no amount.
-  - The man was not named, and no charge or court outcome was reported.
-  - The stop is dated from the government's statement that it happened on Tuesday, in accounts published on 11 November 2026, so 10 November 2026 is that Tuesday.
-  - Both accounts follow the same police description of the stop.
+    - No weight was published for the marijuana wrappers or the handmade cigarettes.
+    - The cash was described only as money in hand, with no amount.
+    - The man was not named, and no charge or court outcome was reported.
+    - The stop is dated from the police statement that it happened on Tuesday, repeated in accounts published on 11 and 12 November 2026, so 10 November 2026 is that Tuesday.
+    - All three accounts follow the same police description of the stop.
 ---
 
 A 23-year-old man was apprehended near Calle Chamical in Godoy Cruz, Mendoza,
 after officers of the Unidad de Acción Preventiva Godoy Cruz (UAP) found
-fractionated drugs among his belongings. [@1] The UAP is the preventive-action
+fractionated drugs among his belongings. [@1,3] The UAP is the preventive-action
 unit of the Policía de Mendoza, and its officers were covering that part of the
-department on a preventive patrol when they noticed him. [@2] When he saw the
+department on a preventive patrol when they noticed him. [@2,3] When he saw the
 uniforms he stopped walking in front of a house, and the officers approached to
-identify him. [@1]
+identify him. [@1,3]
 
 During a security pat-down they found a package wrapped in tape that contained
-suspected drugs. [@1] They then searched what he was carrying and seized 26
+suspected drugs. [@1,3] They then searched what he was carrying and seized 26
 wrappers of cocaine, six small wrappers of marijuana and five large wrappers of
-marijuana. [@1] Officers also seized 42 handmade cigarettes of marijuana and
-cash. [@2] He was taken to Comisaría 40, the 40th police station, and the
-substances and the other items were seized. [@1]
+marijuana. [@1,3] Officers also seized 42 handmade cigarettes of marijuana and
+cash. [@2,3] He was taken to Comisaría 40, the 40th police station, and the
+substances and the other items were seized. [@1,3]
 
 The Mendoza government said the intervention took place on Tuesday on Calle
 Chamical, during preventive patrols the Policía de Mendoza carries out in Godoy
-Cruz. [@2] The marijuana was already divided into street wrappers and handmade
-cigarettes and was hidden in his clothing together with the cocaine. [@1]
-
+Cruz. [@2,3] The marijuana was already divided into street wrappers and handmade
+cigarettes and was hidden in his clothing together with the cocaine. [@1,3]
