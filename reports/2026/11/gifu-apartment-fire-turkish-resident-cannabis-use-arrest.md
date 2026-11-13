@@ -32,6 +32,11 @@ media:
     media_url: https://newsdig.ismcdn.jp/mwimgs/b/c/1200xm/img_bcee1b5651875d460450efbfe67a36af206887.jpg
     publisher: CBCテレビ
     caption: 'Charred wood and debris at the burned apartment after the fire. Photo: CBCテレビ'
+  - kind: photo
+    url: https://news.ntv.co.jp/category/society/be8374decc214731a9054cf863fe2d5f
+    media_url: https://news.ntv.co.jp/gimage/n24/articles/e462e83c71a5474aaf7762fedea26072/c71d85f555c2148933b1183accddb2427f851d225489cf17a43dbfeaafd85e39.jpg?w=1200
+    publisher: 日テレNEWS NNN
+    caption: 'The apartment building in Kita-Isshiki, Gifu, where the fire broke out on 11 November 2026. Photo: 日テレNEWS NNN'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4641452ba460887a0204f7bb9b467a88
@@ -152,6 +157,11 @@ sources:
     publisher: au Webポータル（出典：日テレNEWS NNN）
     date: 2026-11-12
     language: ja
+  - title: アパート火災…火元住人が大麻か 12人搬送 火事との関連を捜査 岐阜市
+    url: https://news.ntv.co.jp/category/society/be8374decc214731a9054cf863fe2d5f
+    publisher: 日テレNEWS NNN
+    date: 2026-11-12
+    language: ja
 ---
 
 A fire broke out in a three-storey apartment building in Kita-Isshiki, Gifu, in
@@ -165,10 +175,10 @@ ground-floor room where the fire started was not injured. [@1,23] The fire was b
 
 Gifu Chuo Police Station arrested that resident, a 43-year-old unemployed
 Turkish man, on 11 November on suspicion of violating the Narcotics Control Law
-by using cannabis. [@1,4,7,8,11,12,15,18,19,20,23] Police named the arrested man as Komur Gokhan (コムル・ギョクハン), a 43-year-old unemployed Turkish national. [@6,7,9,13,14,18,19] Police said he was suspected of using cannabis between
+by using cannabis. [@1,4,7,8,11,12,15,18,19,20,23,24] Police named the arrested man as Komur Gokhan (コムル・ギョクハン), a 43-year-old unemployed Turkish national. [@6,7,9,13,14,18,19] Police said he was suspected of using cannabis between
 early August and 11 November. [@1,4,5,7,8,13,14,17,18,19,21] The suspicion arose during the fire
 investigation: officers found his behaviour suspicious, tested his urine and
 detected cannabis components. [@1,6,7,9,13,14,18,19,20,21] Questioned by investigators, he admitted the suspicion. [@5,6,7,8,9,13,14,16,17,18,19,20,21,22]
 
 Police said they are investigating whether the cannabis use is connected to the
-fire. [@1,4,5,6,7,8,9,10,11,13,14,16,17,18,19,20,21,22] Police said they are also investigating how he obtained the cannabis and his motive. [@5,13,21]
+fire. [@1,4,5,6,7,8,9,10,11,13,14,16,17,18,19,20,21,22] Police said they are also investigating how he obtained the cannabis and his motive. [@5,13,21,24]
