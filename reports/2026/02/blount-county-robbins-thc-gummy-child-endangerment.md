@@ -42,14 +42,10 @@ sources:
     url: https://www.wbrc.com/2026/04/14/man-arrested-after-2-year-old-overdoses-thc-gummies/
     publisher: WBRC
     date: 2026-04-14
-open_questions:
-  - No weight or count was published for the THC gummies or the marijuana left in the home, so no cannabis quantity is recorded.
-  - The date of the arrest is not stated; 22 February 2026 is the date court records give for the exposure that led to the charges, and 14 April 2026 is the publication date.
-  - The boy's condition after he was taken to Children's of Alabama was not reported.
-  - The two distribution counts and the chemical endangerment charge arise from two separate dates, and the article does not say how they are joined in one case.
-  - The article does not name the agency that arrested him; the only named institution is the Blount County Jail that supplied the booking photo.
-  - All accessible accounts, including the syndicated versions, reproduce the same WBRC report; no independent outlet, court record or agency statement was found.
-  - 'Left out, as its quotation was not found in FOX10 News: Gray News syndicated the Blount County report to other television stations the following day, crediting WBRC.'
+  - title: Man arrested after 2-year-old overdoses on THC gummies, authorities say
+    url: https://www.wowt.com/2026/04/15/man-arrested-after-2-year-old-overdoses-thc-gummies-authorities-say/
+    publisher: WOWT
+    date: 2026-04-15
 ---
 
 A Blount County, Alabama, man was arrested and charged after he allegedly made
@@ -57,15 +53,14 @@ drugs accessible to several minors. [@1]
 
 Court records allege that on 22 February 2026 he had young children inside his
 residence and left THC gummies, marijuana and drug paraphernalia lying around.
-[@1] He was not supervising the children, and a 2-year-old boy ingested THC
-gummies and overdosed. [@1] The boy was taken to Children's of Alabama after he
+[@1,2] He was not supervising the children, and a 2-year-old boy ingested THC
+gummies and overdosed. [@1,2] The boy was taken to Children's of Alabama after he
 would not wake up and was lethargic, and was found to have a high THC level in
 his system. [@1]
 
 He is charged with chemical endangerment of a child causing serious physical
-injury over the exposure of the 2-year-old to the gummies. [@1] He is also
+injury over the exposure of the 2-year-old to the gummies. [@1,2] He is also
 charged with reckless endangerment over leaving drugs and drug paraphernalia
 accessible to unsupervised children. [@1] Court records say that in June 2025 he
 sold or gave a controlled substance to a 15-year-old, which led to two counts of
-distribution of a controlled substance to a minor. [@1]
-
+distribution of a controlled substance to a minor. [@1,2]
