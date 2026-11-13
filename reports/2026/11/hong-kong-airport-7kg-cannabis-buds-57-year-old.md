@@ -46,6 +46,11 @@ media:
     media_url: https://image.bastillepost.com/1200x/wp-content/uploads/global/2026/11/P2026111300536_photo_1343629_FB.jpg.webp
     publisher: Bastillepost
     caption: 'Photo shows the suspected cannabis buds seized in the case, as released with the Customs statement. Photo: HKSAR Government Press Releases'
+  - kind: photo
+    url: https://www.info.gov.hk/gia/general/202611/13/P2026111300531.htm
+    media_url: https://gia.info.gov.hk/general/202611/13/P2026111300531_photo_1343629.jpg
+    publisher: HKSAR Government Press Releases
+    caption: 'Photo of the suspected cannabis buds seized from the passenger''s carry-on luggage, as released with the Hong Kong Customs press release. Photo: HKSAR Government Press Releases'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 65a4ba2675f287802e5ed4c1a83684db
@@ -60,17 +65,22 @@ sources:
     publisher: on.cc東網
     date: 2026-11-13
     language: zh
+  - title: 香港海關於機場偵破一宗旅客販毒案件（附圖）
+    url: https://www.info.gov.hk/gia/general/202611/13/P2026111300531.htm
+    publisher: HKSAR Government Press Releases
+    date: 2026-11-13
+    language: zh
 ---
 
 Hong Kong Customs detected a drug trafficking case on 13 November 2026 at Hong
 Kong International Airport and seized about seven kilograms of suspected
-cannabis buds with an estimated market value of about $1.46 million. [@1,2]
+cannabis buds with an estimated market value of about $1.46 million. [@1,2,3]
 
 During an anti-narcotics operation, Customs officers intercepted a 57-year-old
 Mainland male passenger and found the suspected cannabis buds inside his
-carry-on baggage, then arrested him. [@1,2] The arrested man has been charged with
+carry-on baggage, then arrested him. [@1,2,3] The arrested man has been charged with
 one count of trafficking in a dangerous drug; his case will be brought up at the
-West Kowloon Magistrates' Courts on 14 November 2026. [@1,2]
+West Kowloon Magistrates' Courts on 14 November 2026. [@1,2,3]
 
 Customs said it will keep applying a risk assessment approach, focusing on
 passengers from high-risk regions, and reminded the public not to accept payment
