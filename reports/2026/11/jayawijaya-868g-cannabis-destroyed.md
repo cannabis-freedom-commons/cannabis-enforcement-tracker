@@ -61,38 +61,36 @@ sources:
     publisher: Potret Papua
     date: 2026-11-05
     language: id
-open_questions:
-  - No defendants are named, and neither account gives the individual verdicts, sentences or original seizure dates and places for the 28 narcotics cases.
-  - Both accounts say the 868.75 grams came from those 28 cases together; neither breaks that weight down by case.
-  - The 44.12 grams of sabu is crystal methamphetamine and is excluded from cannabis figures.
-  - Neither account says how the alcohol, sharp weapons, clothing and cosmetics were destroyed, or how many of the other cases each kind belonged to.
-  - Potret Papua writes the date in one sentence as Thursday 5 October 2026; the report uses 5 November 2026, the date both articles give in their datelines and that ANTARA gives as Thursday 5/11.
-  - Neither photograph shows the cannabis being weighed; one shows the burning and the other shows liquid evidence being poured out.
+  - title: Kejari Jayawijaya Musnahkan BB dari 59 Perkara, Sabu dan Ganja Ikut Dimusnakan
+    url: https://rri.co.id/wamena/hukum/hukum/2894131/kejari-jayawijaya-musnahkan-bb-dari-59-perkara-sabu-dan-ganja-ikut-dimusnakan
+    publisher: RRI.co.id
+    date: 2026-11-13
+    language: id
 ---
 
 The Jayawijaya district prosecutor's office in Papua Pegunungan destroyed case
 evidence that already had final legal force, including 868.75 grams of cannabis,
-in the courtyard of its office in Wamena on Thursday 5 November 2026. [@1,2]
+in the courtyard of its office in Wamena on Thursday 5 November 2026. [@1,2,3]
 Head prosecutor Ahmad Latupono said the destroyed cannabis weighed 868.75 grams.
-[@1,2] The same destruction also covered 44.12 grams of sabu, crystal
-methamphetamine, which is not counted in the cannabis figure. [@1,2] Officers
+[@1,2,3] The same destruction also covered 44.12 grams of sabu, crystal
+methamphetamine, which is not counted in the cannabis figure. [@1,2,3] Officers
 also destroyed alcohol, sharp weapons, clothing and cosmetics seized in other
-criminal cases. [@1,2]
+criminal cases. [@1,2,3]
 
 Latupono said the narcotics evidence came from 28 cases handled to date. [@1,2]
 Potret Papua, citing him, said the office destroyed evidence from 59 cases in
-all, 28 of them narcotics and 31 ordinary criminal cases. [@2] ANTARA reported
+all, 28 of them narcotics and 31 ordinary criminal cases. [@2,3] ANTARA reported
 the 28 narcotics cases and the other kinds of evidence without giving that
 31-case figure. [@1] He said the evidence came from cases handled by police in
 Jayawijaya, Nduga, Yalimo, Mamberamo Tengah and Tolikara, all in Papua
-Pegunungan. [@1,2] The destroyed evidence covered cases from 2025 to October
+Pegunungan. [@1,2,3] The destroyed evidence covered cases from 2025 to October
 2026 that had obtained final legal force, and the defendants had already been
 sentenced. [@1,2] Potret Papua quoted him as saying the suspects had also had
 their sentences carried out. [@2]
 
-This was the office's first evidence destruction in 2026. [@1,2] Cases were
+This was the office's first evidence destruction in 2026. [@1,2,3] Cases were
 collected and destroyed together rather than one by one because of the cost.
-[@1,2] Police, local government, Wamena Class IIB prison and other officials
+[@1,2,3] Police, local government, Wamena Class IIB prison and other officials
 attended as the evidence was burned in the office courtyard. [@1] Jayawijaya
 regional government expert staffer Natalis Mumpu thanked the prosecutors, police
 and courts, saying firm handling of narcotics and other crimes gives residents
