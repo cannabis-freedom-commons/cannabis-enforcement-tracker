@@ -91,25 +91,25 @@ sources:
     publisher: 기호일보
     date: 2026-11-11
     language: ko
-open_questions:
-    - The country from which the cannabis was mailed has not been named.
-    - The suspect's exact nationality and name were not published.
-    - The form of the 2.5 kg of cannabis, whether herbal cannabis or resin, was not specified.
-    - No plea, trial date or court outcome has been reported.
+  - title: 중수청 '1호 구속' 동남아 국적 대마 밀수범
+    url: https://www.sankyungilbo.com/news/articleView.html?idxno=539203
+    publisher: 산경일보
+    date: 2026-11-11
+    language: ko
 ---
 
 The Seoul Serious Crime Investigation Agency's narcotics bureau transferred a
 Southeast Asian national identified only as A in custody to the Incheon District
 Prosecution Office on 23 October 2026 on suspicion of violating the Narcotics
-Control Act. [@2,4] A was accused of attempting to smuggle 2.5 kilograms of cannabis into South Korea from abroad in international mail in early October. [@5,7,10,11] Investigators made the emergency arrest through controlled
+Control Act. [@2,4] A was accused of attempting to smuggle 2.5 kilograms of cannabis into South Korea from abroad in international mail in early October. [@5,7,10,11,12] Investigators made the emergency arrest through controlled
 delivery, delivering the customs-intercepted drugs normally to track the actual
 recipient. [@2,5,6,7,9,11]
 
 The agency applied for a detention warrant on 17 October because of the scale of
 the smuggling and risk of evidence destruction and flight, the prosecution
 office requested it the next day, and the court issued it the same day for those
-reasons. [@2,5,9] The transfer was the agency's first case of handing a detained
-suspect to a prosecution office since its launch. [@3,4,6,7,10,11] The Incheon District Prosecution Office indicted A under detention around the end of October 2026 on cannabis charges under the Narcotics Control Act, sending him to trial. [@5,6,7,8,9,10,11] The suspect is in his 30s, and the cannabis was sent in international mail on 13 October 2026, with the indictment following on 29 October 2026. [@10]
+reasons. [@2,5,9,12] The transfer was the agency's first case of handing a detained
+suspect to a prosecution office since its launch. [@3,4,6,7,10,11,12] The Serious Crime Investigation Agency launched on 2 October 2026. [@12] The Incheon District Prosecution Office indicted A under detention around the end of October 2026 on cannabis charges under the Narcotics Control Act, sending him to trial. [@5,6,7,8,9,10,11,12] The suspect is in his 30s, and the cannabis was sent in international mail on 13 October 2026, with the indictment following on 29 October 2026. [@10]
 
 In its first-month tally, the Seoul office counted three drug cases among four
 total transfers to the prosecution service, including this 23 October cannabis
