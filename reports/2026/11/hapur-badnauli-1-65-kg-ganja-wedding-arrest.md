@@ -34,6 +34,11 @@ media:
     media_url: https://www.jagranimages.com/images/2026/11/13/article/image/Hapur-police-1767177510226-1770223456851_v-1794202385445_v-1794541891576_v.webp
     publisher: Jagan
     caption: Hapur police detained the accused. Jagran photo.
+  - kind: photo
+    url: https://www.livehindustan.com/uttar-pradesh/hapur/story-hapur-police-arrest-cannabis-smuggler-recover-1-65-kg-ganja-201794554131176.html
+    media_url: https://www.livehindustan.com/lh-img/smart/img/2025/10/15/1200x900/Frame_226_1760556601080_1760556605494.png
+    publisher: Live Hindustan
+    caption: 'Live Hindustan''s photo published with its report of the Hapur arrest of the Sambhal man with 1.650 kg of ganja. Photo: Live Hindustan.'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7b375032e597f37bf1d7059ea50f49c0
@@ -54,20 +59,26 @@ sources:
     publisher: Khabarwala24
     date: 2026-11-13
     language: hi
+  - title: 'Hapur News: हापुड़ : बहन की शादी के लिए गांजा तस्कर बना युवक, पुलिस ने किया गिरफ्तार'
+    url: https://www.livehindustan.com/uttar-pradesh/hapur/story-hapur-police-arrest-cannabis-smuggler-recover-1-65-kg-ganja-201794554131176.html
+    publisher: Live Hindustan
+    date: 2026-11-13
+    language: hi
 open_questions:
-  - No court outcome has been reported in the article yet.
+    - No court outcome has been reported in the article yet.
+    - The Live Hindustan account says police are probing the wider ganja smuggling network; no network members or further arrests have been named.
 ---
 
 On 12 November, Hapur police detained a man on a bike coming from Delhi Road
-near the Badnauli railway crossing, after he tried to evade a police check. [@1,3] The check was led by Sub-Inspector Chetan Chouhan and Ravindra Kumar, and Kotwali Prabhari NIP Suresh Kumar Singh gave the statement. [@3]
+near the Badnauli railway crossing, after he tried to evade a police check. [@1,3,4] The check was led by Sub-Inspector Chetan Chouhan and Ravindra Kumar, and Kotwali Prabhari NIP Suresh Kumar Singh gave the statement. [@3,4]
 The man identified himself as Shayan Alam, a resident of Bilalpat Village in
-Sambhal district. [@1]
+Sambhal district. [@1,4]
 
 Cannabis was found in a polythene pack inside the black bag slung over his
 shoulder. Police confirmed the substance as cannabis and weighed it at 1.650
 kilograms on an electronic scale. [@1,2] The search and recovery were carried out in the presence of the District Magistrate (City), and a field unit tested the material and confirmed it was ganja. [@3] Police also seized a mobile phone and
-1,880 rupees in cash from the accused. [@1] Police also recovered the bicycle the man was using for the smuggling from his custody. [@3]
+1,880 rupees in cash from the accused. [@1,4] Police also recovered the bicycle the man was using for the smuggling from his custody. [@3,4]
 
 Shayan Alam told police that he had taken to selling cannabis to raise money for
-his sister's wedding. [@1] He learned there was high demand for cannabis in Hapur, so he planned to bring it from Sambhal in small quantities to sell. [@2] Police registered a report against the accused and
-started further proceedings. [@1]
+his sister's wedding. [@1,4] He learned there was high demand for cannabis in Hapur, so he planned to bring it from Sambhal in small quantities to sell. [@2,4] Police registered a report against the accused and
+started further proceedings. [@1,4] Police say they are tracing where the accused sourced the ganja and who he sold it to in Hapur, and are probing the wider ganja smuggling network. [@4]
