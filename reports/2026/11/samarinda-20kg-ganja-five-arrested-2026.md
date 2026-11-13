@@ -33,6 +33,11 @@ sources:
     publisher: Tribun Kaltim
     date: 2026-11-13
     language: id
+  - title: 4 Fakta Pengungkapan Kasus Narkoba di Samarinda, Polisi Sita 20 Kilogram Ganja
+    url: https://kaltim.tribunnews.com/tribun-etam/1174014/4-fakta-pengungkapan-kasus-narkoba-di-samarinda-polisi-sita-20-kilogram-ganja
+    publisher: Tribun Kaltim
+    date: 2026-11-13
+    language: id
 open_questions:
   - The five suspects have not been formally charged; their roles in the network and the charges are to be announced at the 13 November press conference.
   - The report mentions only the cannabis weight (20 kg); the weights of the other seized substances (19.99 g ecstasy, 15 packets synthetic tobacco, 20 etomidate pills) are not converted to kilograms and are not included in the cannabis figure.
@@ -41,10 +46,10 @@ open_questions:
 ---
 
 Samarinda police narcotics unit arrested five suspects in a series of raids on 5
-and 6 November 2026 at multiple locations in Samarinda, East Kalimantan. [@1]
+and 6 November 2026 at multiple locations in Samarinda, East Kalimantan. [@1,2]
 Police seized 20 kilograms of cannabis (ganja), 19.99 grams of ecstasy, 15
 packets of synthetic tobacco and 20 pills of etomidate from the five suspects.
-[@1]
+[@1,2]
 
 The operations began on Thursday 5 November 2026 at around 20:00 WITA with the
 seizure of ecstasy, followed by the cannabis seizure the next day. [@1]
@@ -54,4 +59,3 @@ interrogation and further network development. [@1] Samarinda police
 spokesperson Ipda Arie Soeharyadi confirmed that the case would be formally
 presented at a press conference led by the chief of police on 13 November 2026.
 [@1]
-
