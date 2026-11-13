@@ -19,29 +19,39 @@ figures:
     amount: 8928.13
     currency: USD
 details:
-  agencies: [Fiscalía General de la República, Policía Nacional Civil]
-  agency_types: [prosecutor, police]
-  activity: [sale, trafficking]
-  charges: ['illicit trafficking, proposal and conspiracy, and illicit association']
-  case_stage: investigation
-  date_precision: exact
-  region: eastern El Salvador
+    agencies: [Fiscalía General de la República (FGR), Policía Nacional Civil (PNC)]
+    agency_types: [prosecutor, police]
+    activity: [sale, trafficking]
+    charges: ['tráfico ilícito, proposición y conspiración en el delito de tráfico ilícito y agrupaciones ilícitas']
+    case_stage: investigation
+    date_precision: exact
+    region: San Miguel
+    products:
+        - {product: flower}
+    setting: [shop]
 data_sources:
-  details.activity: [3]
-  details.agencies: [1]
-  details.agency_types: [2]
-  details.case_stage: [2]
-  details.charges: [2]
-  figures.arrested: [2, 3]
-  figures.cash: [2]
-  figures.sites: [2]
-  figures.vehicles: [2]
+    details.activity: [4]
+    details.agencies: [4]
+    details.agency_types: [4]
+    details.case_stage: [4]
+    details.charges: [4]
+    figures.arrested: [2, 3]
+    figures.cash: [2]
+    figures.sites: [2]
+    figures.vehicles: [2]
+    details.products: [4]
+    details.setting: [4]
 media:
   - kind: photo
     url: https://www.infobae.com/el-salvador/2026/11/12/fiscalia-desarticula-una-red-de-narcomenudeo-en-el-oriente-de-el-salvador/
     media_url: https://www.infobae.com/resizer/v2/6PCU5LQ3L5B3VG23HAN3J67JCI.jpeg?auth=d1acd4c746c56687a3a3ef0e4fbf57b6841b75f348ddfe870fbfbd27cfefc5dc&smart=true&width=992&height=662&quality=85
     publisher: Infobae
     caption: 'Cash, mobile phones and other items seized in the searches in San Miguel, Morazán and La Unión, in the photo released by the Fiscalía General de la República. Photo: Fiscalía General de la República'
+  - kind: photo
+    url: https://www.laprensagrafica.com/elsalvador/desarticulan-estructura-senalada-de-distribuir-droga-en-la-zona-oriental-20261112-0009.html
+    media_url: https://assets.laprensagrafica.com/__export/1794492547689/sites/prensagrafica/img/2026/11/12/whatsapp_image_2026-11-12_at_8-08-54_am_-1-.jpeg_158021514.jpeg
+    publisher: La Prensa Gráfica
+    caption: 'FGR handout photo of five of the people arrested by the FGR and the PNC in eastern El Salvador on suspicion of distributing drugs. Photo: FGR'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 80b73b2b0cf1d422a1a06b88990e671f
@@ -62,10 +72,11 @@ sources:
     publisher: El Diario de Hoy
     date: 2026-11-12
     language: es
-open_questions:
-  - No weight or portion count of marijuana seized in the operation was published in any of the accounts; only cocaine portions were described.
-  - The $8,928.13 in cash, 18 mobile phones and seven vehicles are the totals for the whole operation across three departments and cannot be split by department or by cannabis and cocaine.
-  - The accounts do not say whether the ten detainees were formally charged, and no court date, custody ruling or plea was reported.
+  - title: Desarticulan estructura señalada de distribuir droga en la zona oriental
+    url: https://www.laprensagrafica.com/elsalvador/desarticulan-estructura-senalada-de-distribuir-droga-en-la-zona-oriental-20261112-0009.html
+    publisher: La Prensa Gráfica
+    date: 2026-11-12
+    language: es
 ---
 
 El Salvador's Attorney General's Office and the National Civil Police dismantled
@@ -79,10 +90,10 @@ storing, moving and selling the drugs. [@2]
 
 The FGR named Diógenes de Jesús Benítez Escobar as the alleged leader and main
 supplier, working with his son Anthony de Jesús Benítez Benítez, who handled
-logistics, weighing and deliveries in San Miguel and La Unión. [@2] The other
+logistics, weighing and deliveries in San Miguel and La Unión. [@2,4] The other
 eight detainees were alleged wholesale suppliers, route intermediaries and local
 distributors in San Miguel, Corinto, Lislique, Sociedad and Cacaopera, with
-Reina Ester Medina described as storing and selling in Lislique. [@2] Officers
+Reina Ester Medina described as storing and selling in Lislique. [@2,4] Officers
 carried out 15 searches, concentrated in the Miralvalle subdivision, colonia
 Milagro de la Paz and Ciudad Jardín in the city of San Miguel and in the
 districts of Corinto in Morazán and Lislique in La Unión. [@2] The searches
@@ -97,3 +108,4 @@ November 2026, with surveillance, monitoring and police-controlled purchases
 used to identify its members. [@3] No weight of marijuana or cannabis seized in
 the operation was published in any of the accounts. [@1]
 
+La Prensa Gráfica names the eight remaining detainees in full: wholesale suppliers Pedro José Guevara Cuadra and Denia Yaneth Turcios in San Miguel, intermediaries Carlos José Melgares Villatoro (between San Miguel and Morazán) and Kevin Ulises Benítez Cruz (San Miguel–Corinto), distributors Óscar Armando Blanco Villatoro (Corinto), Carlos Roberto Reyes Villatoro (Corinto, Sociedad and Cacaopera) and José René Morales Pérez (Lislique and Corinto), and Reina Ester Medina, who stored and sold in Lislique. [@4]
