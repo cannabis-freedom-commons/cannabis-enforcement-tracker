@@ -59,27 +59,35 @@ sources:
     publisher: Chatganrchokh.com
     date: 2026-11-12
     language: bn
+  - title: ফটিকছড়িতে সিএনজিতে মিলল ৪ কেজি গাঁজা; গ্রেপ্তার ২, অটোরিকশা জব্দ
+    url: https://newsnow24.com/prio-chattogram/uUic41gdvI
+    publisher: NewsNow24
+    date: 2026-11-12
+    language: bn
 open_questions:
-  - The submitted account and Chatganrchokh.com give Wednesday 12 November for the arrest, while Fatikchhari Protidin gives Wednesday 11 November and the case filing date there is 11 November; the report uses 11 November 2026.
-  - No court date, plea or outcome was reported beyond the two men being produced in court.
-  - No street value, packaging detail, laboratory confirmation or case number was published for the 4 kilograms of ganja.
-  - The accounts name no charges beyond a regular narcotics case under the relevant law.
+    - The submitted NewsNow24 account and Chatganrchokh.com give Wednesday 12 November for the arrest, while Fatikchhari Protidin gives Wednesday 11 November and the case filing date there is 11 November; the report uses 11 November 2026.
+    - No street value, packaging detail, laboratory confirmation or case number was published for the 4 kilograms of ganja.
+media:
+  - kind: photo
+    url: https://newsnow24.com/prio-chattogram/uUic41gdvI
+    media_url: https://backend.newsnow24.com/storage/photos/shares/news/2026/11/12/file_1794480654.png
+    publisher: NewsNow24
+    caption: 'Police operation photo of the two arrested men and the seized CNG auto-rickshaw with 4 kg of ganja. Photo: NewsNow24'
 ---
 
 Bhujpur thana police in Fatikchhari, Chattogram, arrested two men after finding
-4 kilograms of ganja with them. [@1] Police said the CNG auto-rickshaw used to
+4 kilograms of ganja with them. [@1,4] Police said the CNG auto-rickshaw used to
 carry the drug was seized. [@1] Acting on a tip-off, officers set up a
 checkpoint on the Ramgarh–Mirsarai road and searched the auto-rickshaw. [@1] The
 search recovered 4 kilograms of ganja from the two accused. [@1]
 
 The two arrested were Md. Yachin, 19, of Andarmanik village in Bagan Bazar
-union, and Md. Ala Uddin, 35, of the same area. [@1]
+union, and Md. Ala Uddin, 35, of the same area. [@1,4]
 
 A regular narcotics case was referred against the two and they were produced in
-court. [@1] Fatikchhari Protidin dates the operation to the night of Wednesday
+court. [@1] The two men were produced in court and sent to jail on Thursday 12 November 2026, confirmed by the Bhujpur thana officer-in-charge. [@4] Fatikchhari Protidin dates the operation to the night of Wednesday
 11 November 2026. [@2] The newspaper reports the same two arrests, the same 4
 kilograms of ganja and the same seized vehicle. [@2]
 
 Chatganrchokh.com likewise reports 4 kilograms of ganja recovered from the two
 accused. [@3]
-
