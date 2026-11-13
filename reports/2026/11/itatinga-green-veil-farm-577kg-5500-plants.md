@@ -62,6 +62,11 @@ sources:
     publisher: JCNET / Sampi
     date: 2026-11-12
     language: pt
+  - title: Polícia apreende mais de meia tonelada de maconha e encontra 5,5 mil pés e mudas da droga
+    url: https://jr.jor.br/2026/11/12/policia-apreende-mais-de-meia-tonelada-de-maconha-e-encontra-55-mil-pes-e-mudas-da-droga/
+    publisher: JORNAL DA REGIÃO
+    date: 2026-11-12
+    language: pt
 open_questions:
   - 'The total weight of cannabis is reported differently: the police statement gives more than 577 kilograms net plus about 10 kilograms gross, while JCNET''s headline gives 587 kilograms, which is the figure recorded here.'
   - No arrests, charges or names were published for the farm search, and the accounts do not say what happened to the caretaker who received the officers.
@@ -74,21 +79,20 @@ open_questions:
 
 São Paulo Civil Police found a cannabis growing structure holding more than half
 a tonne of marijuana on a farm in Itatinga on the morning of Wednesday 11
-November 2026. [@1] The action was the third phase of Operação Green Veil and
-was carried out under a judicial search and seizure warrant. [@1]
+November 2026. [@1,3] The action was the third phase of Operação Green Veil and
+was carried out under a judicial search and seizure warrant. [@1,3]
 
 The team was met by the farm's caretaker, who stayed with the officers during
-the search. [@1] Officers found six greenhouses for growing the drug and a
+the search. [@1,3] Officers found six greenhouses for growing the drug and a
 nursery with seedlings of the same plant, as well as areas for drying,
-processing and storing it. [@1]
+processing and storing it. [@1,3]
 
-Police identified about 5,500 plants and seedlings. [@1] They seized 89 packages
+Police identified about 5,500 plants and seedlings. [@1,3] They seized 89 packages
 holding more than 577 kilograms of plant material by net weight, plus two
-further packages weighing about 10 kilograms gross. [@1] JCNET reported the
+further packages weighing about 10 kilograms gross. [@1,3] JCNET reported the
 total as 587 kilograms of marijuana. [@2] Forensic officers took seven samples
-of the plantations for examination at the Instituto de Criminalística. [@1]
+of the plantations for examination at the Instituto de Criminalística. [@1,3]
 
 The plants in the greenhouses and the nursery were destroyed by incineration
-after the work on the property. [@1] JCNET reported that the case remained under
+after the work on the property. [@1,3] JCNET reported that the case remained under
 investigation. [@2]
-
