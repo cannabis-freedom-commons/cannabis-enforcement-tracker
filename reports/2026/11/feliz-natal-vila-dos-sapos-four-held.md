@@ -69,33 +69,37 @@ sources:
     publisher: CenárioMT
     date: 2026-11-11
     language: pt
+  - title: Operação da Polícia Militar resulta em quatro prisões e apreensão de grande quantidade de drogas em Feliz Natal
+    url: https://radio93fm.com.br/amp/operacao-da-policia-militar-resulta-em-quatro-prisoes-e-apreensao-de-grande-quantidade-de-drogas-em-feliz-natal/
+    publisher: Portal 93
+    date: 2026-11-11
+    language: pt
 open_questions:
-  - No weight for the marijuana was published.
-  - Police described the drug as a substance analogous or similar to marijuana, and no laboratory result was reported.
-  - One account said the fourth suspect was inside a Fiat Uno when further portions were seized; the other said two tablets were in a pickup and that a black bag at his home held two tablets, 23 wraps and two large portions, with the Fiat Uno described as the transport vehicle.
-  - One outlet said the suspects had been identified as members of a criminal organisation; the other said the police record mentioned a possible faction link but did not detail the evidence.
-  - No court outcome was reported.
-  - A separate seizure of about 16 kg of drugs in Feliz Natal on 2 November 2026 is a different operation and is not included here.
-  - The account describes the two tablets found at the second address only as being inside a vehicle and does not say what kind of vehicle it was.
-  - CenárioMT states that its report is based on information released by the Military Police of Mato Grosso, so it is not an independent account of the operation.
+    - No weight for the marijuana was published.
+    - Police described the drug as a substance analogous or similar to marijuana, and no laboratory result was reported.
+    - One account said the fourth suspect was inside a Fiat Uno when further portions were seized; the other two said two tablets were in a pickup and that a black bag at his home held two tablets, 23 wraps and two large portions, with the Fiat Uno described as the transport vehicle.
+    - One outlet said the suspects had been identified as members of a criminal organisation; the others said the police record listed suspected criminal organisation involvement (CVMT) but did not detail the evidence for a faction link.
+    - No court outcome was reported.
+    - A separate seizure of about 16 kg of drugs in Feliz Natal on 2 November 2026 is a different operation and is not included here.
+    - CenárioMT states that its report is based on information released by the Military Police of Mato Grosso, so it is not an independent account of the operation.
 ---
 
 Military police detained three men and apprehended a teenager in Feliz Natal,
 Mato Grosso, on the night of Tuesday 10 November 2026, for drug trafficking and
-illicit drug use. [@1,3] The stops began during a patrol in an area known as Vila
+illicit drug use. [@1,3,4] The stops began during a patrol in an area known as Vila
 dos Sapos, where the first person approached was a 17-year-old caught with a
-portion of marijuana. [@1,3] Questioned by officers, he said he had bought the
+portion of marijuana. [@1,3,4] Questioned by officers, he said he had bought the
 drug and pointed to the address where he said he obtained it. [@1]
 
 At that address officers found a second suspect, who tried to flee when he saw
 the military police vehicle and was detained. [@1,3] Inside the property the team
-seized one marijuana tablet and a precision scale. [@1,3] He told police that two
+seized one marijuana tablet and a precision scale. [@1,3,4] He told police that two
 other suspects had more drugs taken from that place. [@1,3] At a second address
 officers stopped a third man and seized two more marijuana tablets from inside a
-vehicle. [@1,3] The fourth suspect was found at a third address, inside a Fiat
+vehicle. [@1,3,4] The fourth suspect was found at a third address, inside a Fiat
 Uno, where further portions of the same drug were seized. [@1,3] The four were
 taken to the Civil Police station with the seized material so the occurrence
-could be registered. [@1,3]
+could be registered. [@1,3,4]
 
 A local account of the military police 3rd Platoon placed the occurrence on Rua
 Industrial, in the Vila Esperança neighbourhood, after the approach in the area
@@ -104,7 +108,7 @@ Industrial in Vila Esperança. [@2] That account said officers found five tablet
 of a substance similar to marijuana, plus portions and a precision scale. [@2]
 It said the second person stopped was 18, threw a wrap to the ground and fled on
 foot before officers caught him. [@2] Police said he had an electronic ankle
-monitor fitted that same afternoon at the Feliz Natal court. [@2] By the end of
+monitor fitted that same afternoon at the Feliz Natal court. [@2] The main suspect had previous police records for drug trafficking, robbery and theft. [@4] By the end of
 the day he had broken the monitor off and removed it, and he did not say where
 he had discarded it. [@2]
 
