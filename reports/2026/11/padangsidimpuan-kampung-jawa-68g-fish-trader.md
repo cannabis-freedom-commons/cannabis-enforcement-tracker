@@ -44,6 +44,11 @@ media:
     media_url: https://static.promediateknologi.id/crop/0x0:0x0/1200x0/webp/photo/p1/1024/2026/11/12/Pelaku-berikut-barang-bukti-yang-diamankan-Satresnarkoba-Polres-Padangsidimpuan-Kamis-12_11_2026-dini-hariFoto_-Realitasonline_Riswandy-338570100.jpg
     publisher: Realitas Online
     caption: 'The suspect with the cannabis evidence after the early-morning arrest in Padangsidimpuan. Photo: Realitasonline/Riswandy'
+  - kind: photo
+    url: https://voiceindonesia.co/daerah/pria-lansia-diamankan-polres-padangsidimpuan-68-gram-ganja-disita
+    media_url: https://voiceindonesia.co/api/proxy-image?url=https%3A%2F%2Fcdn.voiceindonesia.co%2Fuploads%2F2026%2F11%2F00e4e26fc9-1000011728-featured.jpg&w=900&q=75
+    publisher: VOICE Indonesia
+    caption: 'PD alias L (62), the suspect detained by Padangsidimpuan’s narcotics unit with dried cannabis ready for distribution. Photo: Voiceindonesia.co'
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 60f1671f14018f4e0d854dbc3109aec3
@@ -74,6 +79,11 @@ sources:
     publisher: Sumut24.co
     date: 2026-11-12
     language: id
+  - title: Pria Lansia Diamankan Polres Padangsidimpuan, 68 Gram Ganja Disita
+    url: https://voiceindonesia.co/daerah/pria-lansia-diamankan-polres-padangsidimpuan-68-gram-ganja-disita
+    publisher: VOICE Indonesia
+    date: 2026-11-12
+    language: id
 ---
 
 Padangsidimpuan police arrested fish trader PD alias L, a recidivist from
@@ -81,7 +91,7 @@ Kampung Jawa in Padangsidimpuan Selatan, early on Thursday over suspected
 cannabis abuse. [@1,4,5] Police had not detailed the type of the suspect's earlier case. [@4] Narcotics chief AKP Juli Purwono said officers arrested him
 at about 00:40 WIB at warung Abdi in Kampung Jawa. [@1,5] SIGNAL24 reported that
 the man was 62 and that the stall is on Jalan Yos Sudarso in Wek IV,
-Padangsidimpuan Selatan. [@2] They found him sitting inside the stall. [@2] The
+Padangsidimpuan Selatan. [@2] They found him sitting inside the stall. [@2,6] The
 neighbourhood head, Abdi Lubis, who also owns the stall, witnessed the search.
 [@2]
 
@@ -92,12 +102,12 @@ black plastic bag of cannabis with a gross weight of 58.23 grams and five
 packets with a gross weight of 9.97 grams, plus one white plastic bag. [@1]
 Officers found the cannabis hidden in his trousers. [@1,4] He told officers he had
 obtained the cannabis from a man identified only as A, who remained under
-investigation. [@1,4,5] Police said they were investigating whether other people were involved in ganja distribution in Kampung Jawa and the surrounding area. [@4]
+investigation. [@1,4,5,6] Police said they were investigating whether other people were involved in ganja distribution in Kampung Jawa and the surrounding area. [@4]
 
 The arrest followed a public tip, and an operational team led by Aipda Sugianto
-went to the stall to check it. [@2,4] The team moved toward the location at about
+went to the stall to check it. [@2,4] The narcotics operational team investigated and surveilled the target location after receiving the information. [@6] The team moved toward the location at about
 00:15 WIB. [@2] Other accounts of the police operation described the same arrest
 as suspected cannabis distribution. [@2] Police chief AKBP Noval N.G. Desky
 confirmed the disclosure through Purwono. [@3,4] Officers examined witnesses and
 prepared an interrogation report. [@3] The suspect and the evidence were taken
-to the Padangsidimpuan narcotics unit for further legal process. [@1,4]
+to the Padangsidimpuan narcotics unit for further legal process. [@1,4,6]
