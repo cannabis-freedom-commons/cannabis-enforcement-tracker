@@ -33,32 +33,36 @@ sources:
     publisher: Noticias del Paraná
     date: 2026-11-12
     language: es
+  - title: LA RUBITA| Secuestraron cocaína y marihuana, hay una mujer detenida
+    url: https://www.diariolavozdelchaco.com/2026/11/12/la-rubita-secuestraron-cocaina-y-marihuana-hay-una-mujer-detenida/
+    publisher: Diario La Voz del Chaco
+    date: 2026-11-12
+    language: es
 open_questions:
-  - The article gives no separate date for the intervention; it says it happened 'esta madrugada' and was published on 12 November 2026, which is used as the incident date.
-  - The 22 grams of marijuana is a police weighing with field tests, and no laboratory confirmation was reported.
-  - The cocaine is not counted in the cannabis figures; the source gives 33 wrappers and 8 grams for that substance only.
-  - No charge, court appearance or outcome has been reported for the woman beyond her apprehension under drug law 23.737.
-  - Only one accessible account of this operation was found, and no street value for the drugs was published.
-  - The source does not say whether the marijuana was held for sale or for personal use, only that the passer-by reported suspected drug selling.
+    - The article gives no separate date for the intervention; it says it happened 'esta madrugada' and was published on 12 November 2026, which is used as the incident date.
+    - The 22 grams of marijuana is a police weighing with field tests, and no laboratory confirmation was reported.
+    - The cocaine is not counted in the cannabis figures; the source gives 33 wrappers and 8 grams for that substance only.
+    - No charge, court appearance or outcome has been reported for the woman beyond her apprehension under drug law 23.737.
+    - No street value for the drugs was published.
+    - The source does not say whether the marijuana was held for sale or for personal use, only that the passer-by reported suspected drug selling.
 ---
 
 Officers of the Departamento de Operaciones Estratégicas Lince intervened in a
 procedure for a suspected infringement of Argentina's national drug law 23.737
-near calle 26 and Pasaje Mármol in the La Rubita barrio of Resistencia. [@1] The
+near calle 26 and Pasaje Mármol in the La Rubita barrio of Resistencia. [@1,2] The
 operation began when a passer-by alerted officers to a 34-year-old woman on a
-110 cc motorcycle who was allegedly selling drugs in the area. [@1] Officers
+110 cc motorcycle who was allegedly selling drugs in the area. [@1,2] Officers
 located a person matching the description, who tried to move away on seeing the
-police but was intercepted a few metres later. [@1]
+police but was intercepted a few metres later. [@1,2]
 
 A preventive search carried out in the presence of a witness found several
-wrappers hidden among the woman's clothing. [@1] Personnel of the Dirección
+wrappers hidden among the woman's clothing. [@1,2] Personnel of the Dirección
 General de Consumos Problemáticos weighed the material and carried out field
-tests. [@1]
+tests. [@1,2]
 
 The tests confirmed 33 wrappers of cocaine with a total weight of 8 grams, and
-marijuana weighing 22 grams. [@1] Officers also seized a mobile phone and the
-motorcycle the woman was riding, whose ignition drum had been forced. [@1]
+marijuana weighing 22 grams. [@1,2] Officers also seized a mobile phone and the
+motorcycle the woman was riding, whose ignition drum had been forced. [@1,2]
 
 On the order of the Fiscalía Antidroga, headed by Dr Guillermo Mendoza, the
-items were seized and the 34-year-old woman was apprehended. [@1]
-
+items were seized and the 34-year-old woman was apprehended. [@1,2]
