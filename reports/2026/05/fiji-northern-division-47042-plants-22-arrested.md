@@ -48,6 +48,11 @@ sources:
     url: https://islandsbusiness.com/pacnews/pacnews-three-28-may-2026/
     publisher: Islands Business
     date: 2026-05-28
+  - title: 47,000 marijuana plants seized
+    url: https://www.fijitimes.com.fj/47000-marijuana-plants-seized/
+    publisher: The Fiji Times
+    date: 2026-05-28
+    language: en
 open_questions:
   - The article gives no separate dates for the farm seizures; 26 May 2026, the date of the ministerial statement and publication, is used as the incident date.
   - No locations for the 93 farms, and no plant weight, area, value or laboratory confirmation were published.
@@ -63,15 +68,15 @@ operation by the Fiji Police Force and the Republic of Fiji Military Forces
 seized the plants from 93 farms in the Northern Division. [@1] A joint Fiji
 Police Force and Republic of Fiji Military Forces operation seized a total of
 47,042 marijuana plants from 93 farms in the Northern Division, with 22 people
-arrested. [@1]
+arrested. [@1,3]
 
 Minister for Policing and Communications Ioane Naivalurua revealed the figures
-while delivering a ministerial statement in Parliament. [@1,2] The statement was
+while delivering a ministerial statement in Parliament. [@1,2] Naivalurua stressed that the discoveries should not tarnish the reputation of people living in the North. [@3] The statement was
 reported on 26 May 2026. [@1] Naivalurua presented the seizure as part of
 developments under the National Joint Enforcement Centre. [@1]
 
 Separately, Naivalurua said 68 people had been arrested in the Central and
 Eastern divisions for possession of methamphetamine, other illicit drugs and
-proceeds of crime during roadblocks and other searches. [@1,2] Naivalurua assured
+proceeds of crime during roadblocks and other searches. [@1,2,3] Naivalurua assured
 that the Fiji Police Force remained fully in control of ongoing intelligence-led
 operations against illicit drug networks and transnational organised crime. [@1]
