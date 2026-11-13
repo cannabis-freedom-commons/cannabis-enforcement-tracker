@@ -68,6 +68,16 @@ media:
     media_url: https://proclamadelpacifico.com/wp-content/uploads/2026/11/Persecucion-militar-termina-con-17-toneladas-de-marihuana-incautadas.jpg
     publisher: Proclama del Pacífico
     caption: Packages of pressed marijuana laid out on the ground with soldiers and the seized truck behind, after the operation in Santander de Quilichao.
+  - kind: video
+    url: https://periodicovirtual.com/incautan-1-7-toneladas-de-marihuana-en-santander-de-quilichao-un-capturado-tras-persecucion-militar/
+    media_url: https://periodicovirtual.com/content/media/2026/11/WhatsApp-Video-2026-11-11-at-6.49.04-AM.mp4
+    publisher: PeriodicoVirtual.com
+    caption: Video published with the report on the army pursuit and the 1.7-tonne marijuana seizure in Santander de Quilichao, Cauca.
+  - kind: photo
+    url: https://periodicovirtual.com/incautan-1-7-toneladas-de-marihuana-en-santander-de-quilichao-un-capturado-tras-persecucion-militar/
+    media_url: https://periodicovirtual.com/content/images/size/w2000/2026/11/WhatsApp-Image-2026-11-11-at-6.48.11-AM.jpeg
+    publisher: PeriodicoVirtual.com
+    caption: Photo published as the lead image of the marijuana load seized in the army operation in Santander de Quilichao, Cauca.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 34eb31b95767ac9bb95143b775e69f84
@@ -128,20 +138,25 @@ sources:
     publisher: El Tiempo
     date: 2026-11-12
     language: es
+  - title: 'Incautan 1,7 toneladas de marihuana en Santander de Quilichao: un capturado tras persecución militar'
+    url: https://periodicovirtual.com/incautan-1-7-toneladas-de-marihuana-en-santander-de-quilichao-un-capturado-tras-persecucion-militar/
+    publisher: PeriodicoVirtual.com
+    date: 2026-11-11
+    language: es
 ---
 
 Colombian army troops seized 1.7 tonnes of pressed marijuana in the jurisdiction
-of Santander de Quilichao, in northern Cauca. [@1,3,4,5,6,7,8,9,10] The operation began at a
-military checkpoint when the driver ignored the stop signal and fled. [@1,2,3,4,5,6,7,8,9,10] The driver tried to evade the troops along secondary roads through several sectors of Santander de Quilichao before being intercepted. [@4,8]
+of Santander de Quilichao, in northern Cauca. [@1,3,4,5,6,7,8,9,10,12] The operation began at a
+military checkpoint when the driver ignored the stop signal and fled. [@1,2,3,4,5,6,7,8,9,10,12] The driver tried to evade the troops along secondary roads through several sectors of Santander de Quilichao before being intercepted. [@4,8]
 Motorized troops of Mountain Battalion No. 8 pursued the vehicle and intercepted
-it, taking 1,700 kilograms of pressed marijuana out of circulation. [@1,2,4,5,7,8,9,10] The seized marijuana was of the 'creepy' type. [@2,5] The load had come from greenhouses in the north of the department. [@2]
+it, taking 1,700 kilograms of pressed marijuana out of circulation. [@1,2,4,5,7,8,9,10,12] The seized marijuana was of the 'creepy' type. [@2,5] The load had come from greenhouses in the north of the department. [@2]
 Officers captured one person and immobilized one van-type truck in the
-operation. [@1,4,6,7,8,9] The army said the man driving the van was captured in flagrante delicto. [@11] The captured person, the vehicle and the seized substance were
-placed at the disposal of the judicial authorities. [@1,2,3,4,5,6,8]
+operation. [@1,4,6,7,8,9,12] The army said the man driving the van was captured in flagrante delicto. [@11] The captured person, the vehicle and the seized substance were
+placed at the disposal of the judicial authorities. [@1,2,3,4,5,6,8,12]
 
 The army's Third Division attributed the load to the Dagoberto Ramos structure
 of the FARC dissidents and said the structure would stop receiving more than 425
-million pesos. [@1,2,3,4,6,8,10] The acting commander of Brigade 29, Colonel Juan Camilo
+million pesos. [@1,2,3,4,6,8,10,12] The acting commander of Brigade 29, Colonel Juan Camilo
 Vela, gave the official account of the checkpoint, pursuit and inspection. [@1,7]
 According to preliminary information, the marijuana was possibly destined for
-illegal markets in Central America, Europe and the United States. [@1,2,3,4,5,6,7,8,9,11]
+illegal markets in Central America, Europe and the United States. [@1,2,3,4,5,6,7,8,9,11,12]
