@@ -54,13 +54,18 @@ sources:
     publisher: Portal de Prefeitura
     date: 2026-11-11
     language: pt
+  - title: PC prende homem apontado como um dos maiores fornecedores de crack e maconha em Caruaru
+    url: https://www.br104.com.br/caruaru/pernambuco/policia-prende-fornecedor-drogas-caruaru/
+    publisher: BR104
+    date: 2026-11-11
+    language: pt
 open_questions:
-  - The cannabis weight is reported as approximately 165 grams, with no laboratory confirmation published.
-  - The PCC membership rests on what the suspect told police, with no independent confirmation reported.
-  - No formal charge or court outcome beyond the custody hearing was reported; the man remains at the disposal of the courts.
-  - The conviction or sentence from which he had fled the prison system was not described.
-  - The exact place of the arrest within Caruaru was not published.
-  - Both accounts are the same report by Romildo Lacerda, first published by Portal de Prefeitura and licensed to Terra, so the event rests on one account.
+    - The cannabis weight is reported as approximately 165 grams, with no laboratory confirmation published.
+    - The PCC membership rests on what the suspect told police, with no independent confirmation reported.
+    - No formal charge or court outcome beyond the custody hearing was reported; the man remains at the disposal of the courts.
+    - The conviction or sentence from which he had fled the prison system was not described.
+    - The exact place of the arrest within Caruaru was not published.
+    - BR104's separately bylined account of the arrest does not name the arrested man, so his identity rests on the report by Romildo Lacerda.
 ---
 
 A 26-year-old man was arrested in flagrante for drug trafficking and illegal
@@ -73,9 +78,9 @@ was carried out by teams of the 7ª Delegacia de Repressão ao Narcotráfico
 drug dealing in the city. [@2]
 
 During the operation officers found about 165 grams of flower-type cannabis and
-a .380 calibre pistol with its serial number scraped off. [@1] They also seized
+a .380 calibre pistol with its serial number scraped off. [@1,3] The pistol was an IMBEL .380 and was loaded and ready for use. [@3] They also seized
 two magazines, ten rounds of ammunition, two notebooks with drug-trafficking
-accounting notes and a mobile phone. [@2] According to the police, the suspect
+accounting notes and a mobile phone. [@2,3] According to the police, the suspect
 told officers he belongs to the Primeiro Comando da Capital (PCC), a criminal
 faction, and said he received its baptism in Rio de Janeiro. [@1]
 
@@ -86,4 +91,3 @@ included analysis of posts the suspect made on social networks, which were also
 used in the investigation. [@1] After a custody hearing he was sent to the
 Penitenciária Juiz Plácido de Souza in Caruaru, where he remains at the disposal
 of the courts. [@1]
-
