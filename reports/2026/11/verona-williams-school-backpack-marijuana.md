@@ -56,11 +56,15 @@ sources:
     url: https://cedarnews.net/newstasks/1138934/pittsburgh-area-mom-charged-suspected-marijuana-found/
     publisher: Cedar News
     date: 2026-11-12
+  - title: Mom charged after suspected marijuana found inside her child's school backpack
+    url: https://www.cbsnews.com/pittsburgh/video/mom-charged-after-suspected-marijuana-found-inside-her-childs-school-backpack/
+    publisher: CBS Pittsburgh
+    date: 2026-11-12
 ---
 
 A mother from Verona Borough is facing charges after police said suspected
 marijuana was found inside her child's backpack at school earlier this week.
-[@1,3] Kylie Williams, 30, faces child endangerment charges over the incident on
+[@1,3,4] Kylie Williams, 30, faces child endangerment charges over the incident on
 Wednesday morning at Verner Elementary School. [@1] According to a criminal
 complaint, an officer was already at the school for an unrelated matter when the
 principal asked to speak to him. [@1] The principal told the officer that a
