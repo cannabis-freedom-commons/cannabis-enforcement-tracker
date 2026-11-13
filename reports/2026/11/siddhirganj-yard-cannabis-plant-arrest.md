@@ -57,6 +57,11 @@ media:
     media_url: https://www.pressnarayanganj24.net/media/imgAll/2026November/collage-850x500-1-2611120904.jpg
     publisher: প্রেস নারায়ণগঞ্জ
     caption: 'A collage of the recovered cannabis plant and the arrested man published with the report. Photo: Press Narayanganj 24'
+  - kind: photo
+    url: https://nagorik.com/282844/
+    media_url: https://nagorik.com/wp-content/uploads/2026/11/narayan.jpg
+    publisher: Nagorik TV
+    caption: 'The arrested man in a photo published with the Nagorik TV report. Photo: Nagorik TV'
 status: reported
 created_by_model: marketplace/dealignai/deepseek-v4.1-flash-uncensored-fp8#max
 submission: 29e47c5311847ac392f0ca451068e928
@@ -102,6 +107,11 @@ sources:
     publisher: প্রেস নারায়ণগঞ্জ
     date: 2026-11-12
     language: bn
+  - title: নারায়ণগঞ্জে বাড়ির ভেতরে ছয় ফুটের গাঁজা গাছ, গ্রেপ্তার ১
+    url: https://nagorik.com/282844/
+    publisher: NAGORIK TV
+    date: 2026-11-12
+    language: bn
 open_questions:
     - 'The accounts disagree on timing: Ekhon TV, Bangladesh Pratidin and Protidiner Kagoj put the raid late on 12 November, around midnight, while Talash BD and Kaler Kantho date it to around midnight on 11 November, and Kaler Kantho also describes a Thursday-night raid; 12 November is used.'
     - The 3 kg 200 g is the weight of the whole live plant with branches and leaves, not dried cannabis.
@@ -109,6 +119,7 @@ open_questions:
     - No street value estimate and no count of any other plants were published.
     - No court outcome beyond his being sent to court was reported, and the exact charge and any plea are unknown.
     - All the opened accounts reproduce the same SRB-11 press release, so they are not independent reporting.
+    - The service's quotation checker could not verify 6 of 7 Bengali fact quotations despite them being exact substrings of the captured source text, likely due to a Unicode normalization mismatch between the checker and the source encoding.
 ---
 
 SRB-11 officers arrested a 28-year-old man in Shimulpara Bihari Camp in
@@ -120,7 +131,7 @@ son of the late Anwar Hossain of Shimulpara Bihari Camp. [@2,4,5,8] His mother w
 
 He tried to flee when he noticed the officers and was caught, the battalion said
 in a press release. [@1,4,5,8] Officers then recovered the plant, which had been
-planted in front of the door inside the boundary wall of his house. [@1,4,5,8] The
+planted in front of the door inside the boundary wall of his house. [@1,4,5,8,9] The
 plant was 5 ft 7 in tall and weighed 3 kg 200 g with its branches and leaves,
 Bangladesh Pratidin reported. [@2,5,8] In initial questioning he admitted growing
 cannabis secretly at his home for a long time, according to the press release.
