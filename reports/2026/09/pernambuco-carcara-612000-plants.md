@@ -49,6 +49,11 @@ sources:
     publisher: Análise News
     date: 2026-10-09
     language: pt
+  - title: PF erradica 612 mil pés de maconha no sertão pernambucano
+    url: https://www.gov.br/pf/pt-br/assuntos/noticias/2026/10/pf-erradica-612-mil-pes-de-maconha-no-sertao-pernambucano
+    publisher: Polícia Federal
+    date: 2026-10-09
+    language: pt
 media:
   - kind: photo
     url: https://g1.globo.com/pe/petrolina-regiao/noticia/2026/10/09/policia-federal-erradica-612-mil-pes-de-maconha-no-sertao-de-pernambuco.ghtml
@@ -60,15 +65,10 @@ media:
     media_url: https://analisenews.com.br/wp-content/uploads/2026/10/8855c38abd46e669ac61608d62d8b458.jpeg
     publisher: Análise News
     caption: A uniformed officer with a machete stands in a field of tall cannabis plants, in the photograph Análise News published with the operation.
-open_questions:
-  - No one was reported arrested.
-  - The 183 tonnes is the Federal Police estimate of production the plants would have yielded, not a weight that was seized.
-  - The map marks Salgueiro, one of the municipalities named. The plots also lay on islands of the São Francisco and in Orocó, Cabrobó, Belém do São Francisco, Betânia, Floresta and Santa Maria da Boa Vista.
-  - The two photographs are the Federal Police images the outlets published. They are not labelled with a municipality.
 ---
 
-Between 21 and 30 September 2026 the Federal Police ran phase 19 of Operation Carcará in the sertão of Pernambuco and eradicated about 612,000 cannabis plants. [@1,2] They also destroyed 8,000 seedlings and seized 128 kilograms of cannabis ready for use. [@1,2] The force said the plants were on 48 plots, on islands of the São Francisco river and in Orocó, Salgueiro, Cabrobó, Belém do São Francisco, Betânia, Floresta and Santa Maria da Boa Vista, and that the crop could have yielded about 183 tonnes. [@1]
+Between 21 and 30 September 2026 the Federal Police ran phase 19 of Operation Carcará in the sertão of Pernambuco and eradicated about 612,000 cannabis plants. [@1,2,3] They also destroyed 8,000 seedlings and seized 128 kilograms of cannabis ready for use. [@1,2,3] The force said the plants were on 48 plots, on islands of the São Francisco river and in Orocó, Salgueiro, Cabrobó, Belém do São Francisco, Betânia, Floresta and Santa Maria da Boa Vista, and that the crop could have yielded about 183 tonnes. [@1]
 
-Federal, civil and penal police took part, with military firefighters and the specialised interior battalion. [@1,2] Teams went in by land and river, using inflatable boats and an aircraft of the state public-security air group. [@1] Análise News, datelined Salgueiro, also names penal police from Alagoas. [@2]
+Federal, civil and penal police took part, with military firefighters and the specialised interior battalion. [@1,2,3] Teams went in by land and river, using inflatable boats and an aircraft of the state public-security air group. [@1] Análise News, datelined Salgueiro, also names penal police from Alagoas. [@2]
 
 The Federal Police said the raids are timed to the growing cycle so the crop is not harvested. [@1] Neither account names an arrest. [@1,2]
