@@ -56,6 +56,15 @@ sources:
     publisher: صحيفة صراحة الالكترونية
     date: 2026-11-12
     language: ar
+  - title: إحباط محاولة تهريب 109 آلاف قرص طبي و19 كيلوجرامًا من الحشيش في عسير الخميس 12 نوفمبر 2026
+    url: https://www.alestad.com/154448/%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-109-%D8%A2%D9%84%D8%A7%D9%81-%D9%82%D8%B1%D8%B5-%D8%B7%D8%A8%D9%8A-%D9%8819-%D9%83%D9%8A%D9%84%D9%88/
+    publisher: الاستاد الاخباري
+    date: 2026-11-12
+    language: ar
+  - title: Border guards foil attempt to smuggle 109,000 regulated pills in Asir
+    url: https://english.ajel.sa/saudi-arabia/x9cfn49yx
+    publisher: Ajel English
+    date: 2026-11-12
 open_questions:
   - Both reports are dated 12 November 2026, the day the Border Guard published its announcement, and neither gives a separate date for the interception itself.
   - No suspect was named or described, and the reports give no arrest figure, nationality, charge or court outcome.
@@ -66,14 +75,14 @@ open_questions:
 
 Saudi Border Guard land patrols in the Al-Raboah sector of Asir region foiled an
 attempt to smuggle 109,000 tablets under medical-trade controls and 19 kilograms
-of hashish. [@1,3] The Border Guard announced the case in a statement on its
+of hashish. [@1,3,4] The Border Guard announced the case in a statement on its
 official account on the X platform. [@2]
 
 The operation was part of the Border Guard's efforts against the smuggling of
 drugs and contraband. [@1,3] The 109,000 tablets are medicines under medical-trade
 regulation, not cannabis. [@1] The Border Guard said it had completed the
 initial legal procedures and handed the seizures to the competent authority.
-[@1]
+[@1,5]
 
 Security agencies asked citizens and residents to report information about drug
 smuggling or promotion through the 911 number in Mecca, Medina, Riyadh and the
