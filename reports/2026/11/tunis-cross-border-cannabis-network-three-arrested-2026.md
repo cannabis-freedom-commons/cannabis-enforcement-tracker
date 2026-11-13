@@ -52,22 +52,27 @@ sources:
     publisher: Directinfo
     date: 2026-11-12
     language: fr
+  - title: تفكيك شبكة دولية لتهريب المخدرات والإطاحة بثلاثة من عناصرها الرئيسية بينهم أجنبي وتونسيان مفتش عنهما
+    url: https://ar.webmanagercenter.com/2026/11/12/430389/%d8%aa%d9%81%d9%83%d9%8a%d9%83-%d8%b4%d8%a8%d9%83%d8%a9-%d8%af%d9%88%d9%84%d9%8a%d8%a9-%d9%84%d8%aa%d9%87%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d8%a5/
+    publisher: Almasdar Tunisie
+    date: 2026-11-12
+    language: ar
 ---
 
 Tunis's Research and Inspection Brigade, working with the National Guard's
 intelligence and research directorate, dismantled a cross-border international
 network active in drug trafficking and detained three of its key members,
-according to a security source speaking to the Tunis Afrique Presse agency. [@1,4]
+according to a security source speaking to the Tunis Afrique Presse agency. [@1,4,5]
 The operation followed precise intelligence work and field surveillance, and it
 led to the arrest of three people. [@1,4] Two of those arrested are Tunisians with
 criminal records who were wanted, while the third is a foreigner who brought
-cannabis in by swallowing it. [@1,4] The foreign suspect allegedly introduced the cannabis by ingesting capsules. [@4] A second account likewise describes two
+cannabis in by swallowing it. [@1,4,5] The foreign suspect allegedly introduced the cannabis by ingesting capsules. [@4] A second account likewise describes two
 wanted Tunisians with criminal records and a foreigner who concealed the drug
 inside his body. [@2]
 
 Officers seized a significant quantity of cannabis alongside a sum of cash
-described as proceeds of dealing. [@1,4] TunisNow, citing Mosaique's security
+described as proceeds of dealing. [@1,4,5] TunisNow, citing Mosaique's security
 source, likewise reports a significant cannabis seizure alongside money
 suspected to be dealing proceeds. [@3] The public prosecution ordered all those
 involved held in custody, while the brigade kept the file to complete inquiries
-and legal procedures. [@1,4]
+and legal procedures. [@1,4,5]
