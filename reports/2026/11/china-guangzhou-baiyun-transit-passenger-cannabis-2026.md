@@ -86,11 +86,11 @@ open_questions:
 
 Guangzhou customs seized 20.051 kg of cannabis in the passenger-inspection
 channel at Guangzhou Baiyun International Airport, according to a Guangzhou
-Customs notice. [@1,4,5] Baiyun airport customs officers were screening
+Customs notice. [@1,2,4,5] Baiyun airport customs officers were screening
 international transit passengers when one traveller's luggage X-ray image looked
 abnormal, and they stopped and searched that passenger. [@1,3,5] The suitcase held
 nothing but plastic-bag, vacuum-packed brown-green plant material that gave off
-a strong irritant smell when opened. [@1,3,5] A technical institution tested the
+a strong irritant smell when opened. [@1,2,3,5] A technical institution tested the
 material and confirmed it was cannabis weighing 20.051 kg. [@1,3]
 
 The Chinese reports put the seizure at more than 40 jin, a traditional unit of
