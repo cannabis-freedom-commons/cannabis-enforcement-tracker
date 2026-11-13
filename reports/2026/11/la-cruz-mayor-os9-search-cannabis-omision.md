@@ -31,6 +31,11 @@ sources:
     publisher: Letra C
     date: 2026-08-03
     language: es
+  - title: 'La Cruz: alcaldesa no denunció cultivo de marihuana para no ser acusada de sapa'
+    url: https://www.msn.com/es-cl/noticias/otras/la-cruz-alcaldesa-no-denunci%C3%B3-cultivo-de-marihuana-para-no-ser-acusada-de-sapa/ar-AA2hfbvi
+    publisher: MSN
+    date: 2026-11-11
+    language: es
 open_questions:
   - The sources give no exact calendar date for the OS-9 searches beyond the morning of 11 November 2026, so the publication date stands in for the incident date.
   - The drone flight is dated 21 January 2026 by El Mostrador and PuraNoticia but to late February 2026 by Letra C.
@@ -45,15 +50,15 @@ open_questions:
 ---
 
 Carabineros officers searched the La Cruz municipal offices on the morning of 11
-November 2026 on the instructions of the La Calera prosecutor's office. [@1]
+November 2026 on the instructions of the La Calera prosecutor's office. [@1,4]
 Officers of Carabineros' OS-9 unit seized electronic equipment and documents
 from the municipality, which were handed over voluntarily. [@1] The recording
 captured mayor Filomena Navia Hevia of the Socialist Party reacting angrily
-after a municipal employee casually discovered a marijuana plantation. [@1] The
+after a municipal employee casually discovered a marijuana plantation. [@1,4] The
 employee, named by local media as Jorge Torres Cid, had found the plants on 21
 January while flying a drone over the 28 de Mayo neighbourhood to locate water
-wells as a fire-season reserve. [@1] He photographed several large plants
-growing in a house yard and sent the pictures to his superior. [@1]
+wells as a fire-season reserve. [@1,4] He photographed several large plants
+growing in a house yard and sent the pictures to his superior. [@1,4]
 
 In the recording the mayor tells him to do nothing about the find, saying she
 must protect herself because the PDI investigative police would seize the plants
@@ -78,4 +83,3 @@ October 2026 finding no record of municipal steps to notify the authorities
 until the case became public in August. [@2] It also notes that the prosecutor's
 office opened its own investigation while a related complaint was declared
 admissible on 12 August 2026. [@2]
-
