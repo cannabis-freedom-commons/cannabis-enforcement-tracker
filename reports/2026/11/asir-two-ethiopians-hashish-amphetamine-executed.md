@@ -67,13 +67,18 @@ sources:
     publisher: صحيفة صدى الالكترونية
     date: 2026-11-11
     language: ar
+  - title: السعودية تعلن إعدام مواطنين إثيوبيين وتكشف السبب ...الإمارات
+    url: https://arabic.pressbee.net/show11112706.html?title=%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%A5%D8%B9%D8%AF%D8%A7%D9%85-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D9%8A%D9%86-%D9%88%D8%AA%D9%83%D8%B4%D9%81-%D8%A7%D9%84%D8%B3%D8%A8%D8%A8
+    publisher: برس بي
+    date: 2026-11-11
+    language: ar
 ---
 
 Saudi Arabia's Interior Ministry announced the execution of two Ethiopian
 nationals in the Asir region after convicting them of smuggling amphetamine
-pills and hashish into the kingdom. [@1,4,5,6] The ministry named the two men as
+pills and hashish into the kingdom. [@1,4,5,6,7] The ministry named the two men as
 Mebrahtu Segay Sadiq Erha and Zenebu Segay Asbha Qasasaw, both Ethiopian
-nationals. [@2,3,4,5,6] Both men were arrested after being suspected of involvement in
+nationals. [@2,3,4,5,6,7] Both men were arrested after being suspected of involvement in
 drug smuggling. [@1,4,5,6]
 
 The ministry said investigations proved the two men's involvement and that the
