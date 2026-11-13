@@ -66,6 +66,11 @@ sources:
     url: https://www.caymancompass.com/2016/09/14/man-admits-possessing-220-pounds-of-ganja/
     publisher: Cayman Compass
     date: 2016-09-14
+  - title: Bail denied for pair charged with possessing 200 pounds of ganja
+    url: https://www.caymancompass.com/2016/09/07/bail-denied-for-pair-charged-with-possessing-200-pounds-of-ganja/
+    publisher: Cayman Compass
+    date: 2016-09-07
+    language: en
 ---
 
 Eduardo Swaby Gutierrez, 32, and Leonela Pedroza, 29, were arrested on 5
@@ -74,7 +79,7 @@ Officers went to the West Bay address on 5 September 2016 and both Swaby
 Gutierrez and Pedroza were there; Swaby Gutierrez admitted there was ganja in
 the premises. [@1] In the kitchen, officers found a glass jar with ganja in it
 and digital scales, and 20 cases of quart-size glass jars, 12 jars to a case.
-[@1] Police searched another address connected to Swaby Gutierrez and found more
+[@1] In a locked room, officers also found five suitcases and two smaller canvas bags, all packed with ganja. [@5] Police searched another address connected to Swaby Gutierrez and found more
 than 7,000 dollars in cash, which is the subject of a charge of possession of
 criminal property. [@1] Both were charged with possession and possession with
 intent to supply over 200 pounds of ganja; Swaby Gutierrez also faced the
@@ -93,4 +98,3 @@ certified weight of the ganja was 269.9 pounds, initially estimated at around
 On 15 September 2016, Swaby Gutierrez was sentenced to two years' imprisonment
 for possession of ganja with intent to supply. [@3] Charges against Pedroza were
 withdrawn the same day after Swaby Gutierrez's plea; she was discharged. [@2]
-
