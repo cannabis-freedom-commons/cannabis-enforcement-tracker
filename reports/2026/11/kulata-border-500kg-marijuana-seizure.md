@@ -95,23 +95,75 @@ sources:
     publisher: NewsPoint.bg
     date: 2026-11-11
     language: bg
+  - title: Голямо количество марихуана задържаха на граничен преход "Кулата"
+    url: https://delnik.bg/bulgaria/%D0%B3%D0%BE%D0%BB%D1%8F%D0%BC%D0%BE-%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D0%BC%D0%B0%D1%80%D0%B8%D1%85%D1%83%D0%B0%D0%BD%D0%B0-%D0%B7%D0%B0%D0%B4%D1%8A%D1%80%D0%B6%D0%B0/1226037/
+    publisher: Делник
+    date: 2026-11-11
+    language: bg
+  - title: Близо половин тон марихуана откриха в камион с колбаси и чушки на „Кулата“ (ВИДЕО+СНИМКИ)
+    url: https://nova.bg/news/view/2026/11/12/558968/%D0%B1%D0%BB%D0%B8%D0%B7%D0%BE-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD-%D1%82%D0%BE%D0%BD-%D0%BC%D0%B0%D1%80%D0%B8%D1%85%D1%83%D0%B0%D0%BD%D0%B0-%D0%BE%D1%82%D0%BA%D1%80%D0%B8%D1%85%D0%B0-%D0%B2-%D0%BA%D0%B0%D0%BC%D0%B8%D0%BE%D0%BD-%D1%81-%D0%BA%D0%BE%D0%BB%D0%B1%D0%B0%D1%81%D0%B8-%D0%B8-%D1%87%D1%83%D1%88%D0%BA%D0%B8-%D0%BD%D0%B0-%D0%BA%D1%83%D0%BB%D0%B0%D1%82%D0%B0-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8/
+    publisher: Nova.bg
+    date: 2026-11-12
+    language: bg
+  - title: 'Рекорден удар на „Кулата“: Близо половин тон марихуана за милиони евро откриха в камион (ВИДЕО)'
+    url: https://btvnovinite.bg/bulgaria/rekorden-udar-na-kulata-blizo-polovin-ton-marihuana-za-milioni-evro-otkriha-v-kamion-video.html
+    publisher: bTV Новините
+    date: 2026-11-12
+    language: bg
+  - title: 500 кг марихуана са скрити в камион с чушки и колбаси от Испания
+    url: https://www.24chasa.bg/bulgaria/article/23918844
+    publisher: 24 часа
+    date: 2026-11-12
+    language: bg
 open_questions:
-    - No official weight or value for the shipment has been published; the nearly 500 kilograms and the several-million-euro estimate are unofficial.
-    - A field test indicated marijuana; no laboratory confirmation of the substance has been reported.
+    - No official value for the shipment has been published; the several-million-euro figure remains unofficial.
+    - The field test indicated marijuana; no laboratory confirmation of the substance has been reported.
+    - The quantity is given as 497.90 kg gross; no net weight has been published.
+    - The driver's age is given as 51 by BTV and BNR Blagoevgrad and as 52 by 24 Chasa.
+    - Officials released only the initials V.M.; the full name Vangel Mitsev, reported by NewsPoint, has not been officially confirmed.
+    - No court decision on the prosecution's request to hold the driver in custody has been reported.
+    - The first BNR account placed the case two days before its 11 November publication, while the briefing and customs gave the morning of 10 November; the later date is used.
+    - Investigators were working on the theory that the cannabis came from Spain and was in transit toward Turkey; the intended recipient has not been established.
+media:
+  - kind: photo
+    url: https://nova.bg/news/view/2026/11/12/558968/%D0%B1%D0%BB%D0%B8%D0%B7%D0%BE-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD-%D1%82%D0%BE%D0%BD-%D0%BC%D0%B0%D1%80%D0%B8%D1%85%D1%83%D0%B0%D0%BD%D0%B0-%D0%BE%D1%82%D0%BA%D1%80%D0%B8%D1%85%D0%B0-%D0%B2-%D0%BA%D0%B0%D0%BC%D0%B8%D0%BE%D0%BD-%D1%81-%D0%BA%D0%BE%D0%BB%D0%B1%D0%B0%D1%81%D0%B8-%D0%B8-%D1%87%D1%83%D1%88%D0%BA%D0%B8-%D0%BD%D0%B0-%D0%BA%D1%83%D0%BB%D0%B0%D1%82%D0%B0-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8/
+    media_url: https://nstatic.nova.bg/public/pics/nova/article/980x551_1794477881.jpg
+    publisher: Nova.bg
+    caption: 'Customs Agency handout photo published with the Nova report on the 497.90 kg seizure at the Kulata checkpoint. Photo: Агенция „Митници“.'
+  - kind: photo
+    url: https://nova.bg/news/view/2026/11/12/558968/%D0%B1%D0%BB%D0%B8%D0%B7%D0%BE-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD-%D1%82%D0%BE%D0%BD-%D0%BC%D0%B0%D1%80%D0%B8%D1%85%D1%83%D0%B0%D0%BD%D0%B0-%D0%BE%D1%82%D0%BA%D1%80%D0%B8%D1%85%D0%B0-%D0%B2-%D0%BA%D0%B0%D0%BC%D0%B8%D0%BE%D0%BD-%D1%81-%D0%BA%D0%BE%D0%BB%D0%B1%D0%B0%D1%81%D0%B8-%D0%B8-%D1%87%D1%83%D1%88%D0%BA%D0%B8-%D0%BD%D0%B0-%D0%BA%D1%83%D0%BB%D0%B0%D1%82%D0%B0-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8/
+    media_url: https://nstatic.nova.bg/public/pics/anysize/1794477908.jpg
+    publisher: Nova.bg
+    caption: 'One of the Customs Agency handout photos of the packages found in the Kulata trailer, published with the Nova report. Photo: Агенция „Митници“.'
+  - kind: photo
+    url: https://nova.bg/news/view/2026/11/12/558968/%D0%B1%D0%BB%D0%B8%D0%B7%D0%BE-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD-%D1%82%D0%BE%D0%BD-%D0%BC%D0%B0%D1%80%D0%B8%D1%85%D1%83%D0%B0%D0%BD%D0%B0-%D0%BE%D1%82%D0%BA%D1%80%D0%B8%D1%85%D0%B0-%D0%B2-%D0%BA%D0%B0%D0%BC%D0%B8%D0%BE%D0%BD-%D1%81-%D0%BA%D0%BE%D0%BB%D0%B1%D0%B0%D1%81%D0%B8-%D0%B8-%D1%87%D1%83%D1%88%D0%BA%D0%B8-%D0%BD%D0%B0-%D0%BA%D1%83%D0%BB%D0%B0%D1%82%D0%B0-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8/
+    media_url: https://nstatic.nova.bg/public/pics/anysize/1794477921.jpg
+    publisher: Nova.bg
+    caption: 'Customs Agency handout photo of the vacuum-packed marijuana packages from the Kulata trailer, published with the Nova report. Photo: Агенция „Митници“.'
+  - kind: photo
+    url: https://nova.bg/news/view/2026/11/12/558968/%D0%B1%D0%BB%D0%B8%D0%B7%D0%BE-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD-%D1%82%D0%BE%D0%BD-%D0%BC%D0%B0%D1%80%D0%B8%D1%85%D1%83%D0%B0%D0%BD%D0%B0-%D0%BE%D1%82%D0%BA%D1%80%D0%B8%D1%85%D0%B0-%D0%B2-%D0%BA%D0%B0%D0%BC%D0%B8%D0%BE%D0%BD-%D1%81-%D0%BA%D0%BE%D0%BB%D0%B1%D0%B0%D1%81%D0%B8-%D0%B8-%D1%87%D1%83%D1%88%D0%BA%D0%B8-%D0%BD%D0%B0-%D0%BA%D1%83%D0%BB%D0%B0%D1%82%D0%B0-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8/
+    media_url: https://nstatic.nova.bg/public/pics/anysize/1794477938.jpg
+    publisher: Nova.bg
+    caption: 'Another Customs Agency handout photo of the seized marijuana packages, published with the Nova report. Photo: Агенция „Митници“.'
+  - kind: video
+    url: https://nova.bg/news/view/2026/11/12/558968/%D0%B1%D0%BB%D0%B8%D0%B7%D0%BE-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD-%D1%82%D0%BE%D0%BD-%D0%BC%D0%B0%D1%80%D0%B8%D1%85%D1%83%D0%B0%D0%BD%D0%B0-%D0%BE%D1%82%D0%BA%D1%80%D0%B8%D1%85%D0%B0-%D0%B2-%D0%BA%D0%B0%D0%BC%D0%B8%D0%BE%D0%BD-%D1%81-%D0%BA%D0%BE%D0%BB%D0%B1%D0%B0%D1%81%D0%B8-%D0%B8-%D1%87%D1%83%D1%88%D0%BA%D0%B8-%D0%BD%D0%B0-%D0%BA%D1%83%D0%BB%D0%B0%D1%82%D0%B0-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8/
+    media_url: https://www.youtube.com/shorts/jqs3Euc_35I
+    publisher: Nova.bg
+    caption: 'Customs Agency video of the inspection and the search that found the hidden load at Kulata, embedded in the Nova report. Video: Агенция „Митници“.'
 ---
 
 A joint operation by Bulgaria's Customs Agency, the Ministry of the Interior and
 the prosecution service was carried out at the Kulata border checkpoint, where
 officers stopped a freight truck travelling on the designated entry lane into
-the country. [@1,6] The truck was entering Bulgaria from Greece. [@3,4,5,7,8,9,10,12] During the subsequent inspection of the heavy-goods truck
+the country. [@1,6] The truck was entering Bulgaria from Greece. [@3,4,5,7,8,9,10,12,13] During the subsequent inspection of the heavy-goods truck
 combination, the checking officers found nearly 500 kilograms of marijuana in
-the transported load. [@1,6,7,10] The Bulgarian driver was detained. [@2,3,5,7,11] NewsPoint named Vangel Mitsev of Plovdiv as the driver, and said investigators had not officially confirmed his identity. [@5] The driver has been charged and detained for 72 hours. [@4,8,9,12] After the stop the driver was taken to the emergency department of MBAL Blagoevgrad on 10 November, shortly after 22:00, and remained in custody after a medical examination. [@5] The marijuana was found in a specially built hide in a freight vehicle driven by a Bulgarian driver. [@2,3,5,7,10,12] Inside the hide, inspectors found bags of dry plant material that a field test indicated was marijuana. [@12] Customs officers found an extra rear board on the trailer, with a hidden compartment behind it holding boxes of cannabis packages. [@5] Infomrezha expressly presented the nearly
+the transported load. [@1,6,7,10] Customs put the total gross weight at 497.90 kilograms, in 445 vacuum-packed packages. [@14] The Bulgarian driver was detained. [@2,3,5,7,11] NewsPoint named Vangel Mitsev of Plovdiv as the driver, and said investigators had not officially confirmed his identity. [@5] The driver has been charged and detained for 72 hours. [@4,8,9,12,13] The driver, a 51-year-old from Plovdiv, is charged over the shipment; the offence carries 10 to 15 years in prison and a fine of 100,000 to 200,000 euro. [@15] After the stop the driver was taken to the emergency department of MBAL Blagoevgrad on 10 November, shortly after 22:00, and remained in custody after a medical examination. [@5] The marijuana was found in a specially built hide in a freight vehicle driven by a Bulgarian driver. [@2,3,5,7,10,12] Inside the hide, inspectors found bags of dry plant material that a field test indicated was marijuana. [@12,13] Customs officers found an extra rear board on the trailer, with a hidden compartment behind it holding boxes of cannabis packages. [@5] Infomrezha expressly presented the nearly
 500-kilogram quantity as unofficial information provided to its own newsroom
 rather than as a confirmed official measurement. [@1]
 
 Official information from the competent institutions on the circumstances of the
 case and on the value of the seized narcotic quantity was still awaited when the
-report was published. [@1,6,10] One line of inquiry was an international channel moving large quantities of cannabis from Spain through Greece and Bulgaria toward Turkey. [@5] NewsPoint said there was no official confirmation that the seized shipment was part of that scheme. [@5] Customs and the Blagoevgrad prosecutor's office scheduled a briefing on the case for 12 November 2026. [@4,8] The briefing was to be given by Customs Agency deputy director Stefan Bakalov and Blagoevgrad district prosecutor's office spokesperson Irina Asparuhova. [@8] Struma said a similar quantity had not been seized at the Kulata crossing in recent years and put the value at several million euros. [@2] The report described the Kulata interception as
+report was published. [@1,6,10] One line of inquiry was an international channel moving large quantities of cannabis from Spain through Greece and Bulgaria toward Turkey. [@5] NewsPoint said there was no official confirmation that the seized shipment was part of that scheme. [@5] Customs and the Blagoevgrad prosecutor's office scheduled a briefing on the case for 12 November 2026. [@4,8] The prosecution said it would ask the court to hold him in custody. [@14] The briefing was to be given by Customs Agency deputy director Stefan Bakalov and Blagoevgrad district prosecutor's office spokesperson Irina Asparuhova. [@8] Customs deputy director Stefan Bakalov said it was the largest amount of marijuana seized at the Kulata crossing since the start of the year. [@16] Struma said a similar quantity had not been seized at the Kulata crossing in recent years and put the value at several million euros. [@2] The report described the Kulata interception as
 another serious blow against organised trafficking through this border
 checkpoint. [@1] It added that in recent weeks the Kulata crossing had been at
 the centre of several large-scale investigations linked to the smuggling of
