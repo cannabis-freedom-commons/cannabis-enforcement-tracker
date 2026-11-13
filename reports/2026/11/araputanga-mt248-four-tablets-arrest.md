@@ -54,16 +54,25 @@ sources:
     publisher: Cáceres Urgente
     date: 2026-11-11
     language: pt
+  - title: Homem é preso pela PM com quatro quilos de maconha em Araputanga
+    url: https://momentomt.com.br/homem-e-preso-pela-pm-com-quatro-quilos-de-maconha-em-araputanga/
+    publisher: Momento MT
+    date: 2026-11-12
+    language: pt
+  - title: Homem é preso pela PM com quatro quilos de maconha em Araputanga
+    url: https://www.pm.mt.gov.br/w/homem-%C3%A9-preso-pela-pm-com-quatro-quilos-de-maconha-em-araputanga
+    publisher: Polícia Militar de Mato Grosso (PMMT)
+    date: 2026-11-12
+    language: pt
 open_questions:
-  - No weight was published for the four tablets, so no cannabis weight is recorded.
-  - Police described the seized substance as analogous to marijuana; no laboratory result was published.
-  - The man's name and any charge or court outcome were not published.
-  - Both accounts reproduce the Military Police version of the stop.
+    - Police described the seized substance as analogous to marijuana; no laboratory result was published.
+    - The man's name and any charge or court outcome were not published.
+    - All published accounts reproduce the Military Police version of the stop.
 ---
 
 A 27-year-old man was arrested on the afternoon of Wednesday 11 November 2026
 during a Military Police stop on the MT-248 state highway in Araputanga, about
-338 km from Cuiabá. [@1] The stop took place at about 16:30. [@2] He was the
+338 km from Cuiabá. [@1,3] The stop took place at about 16:30. [@2] He was the
 rider of a motorcycle that police had been told was travelling from Indiavaí
 toward Araputanga. [@1]
 
@@ -71,12 +80,11 @@ The team acted on an anonymous complaint and on information from the Local
 Intelligence Agency, known as A.L.I., and from the RAIO unit. [@1]
 
 During the stop and search, officers found four tablets of a substance analogous
-to marijuana inside a backpack the rider was carrying. [@1] According to the
+to marijuana inside a backpack the rider was carrying. [@1,3] Military Police put the weight of the four tablets of a substance analogous to marijuana at four kilograms. [@3] According to the
 Military Police, he said he would receive R$ 1,000 to take the drug from Pontes
-e Lacerda to Araputanga. [@1]
+e Lacerda to Araputanga. [@1,3]
 
 Officers also found that he had neither a national driving licence, the CNH, nor
-the motorcycle's registration and licensing certificate, the CRLV. [@1] He was
-arrested and taken to the competent authorities for the legal procedures. [@1]
+the motorcycle's registration and licensing certificate, the CRLV. [@1,3] He was
+arrested and taken to the competent authorities for the legal procedures. [@1,3] Police booked him for illicit drug trafficking. [@4]
 The case is to be investigated by the Civil Police. [@1]
-
