@@ -69,6 +69,11 @@ sources:
     publisher: EHAPUR NEWS
     date: 2026-11-13
     language: hi
+  - title: 'Hapur News: बहन की शादी के लिए गांजा तस्कर बना युवक, Hapur Hindi News - Hindustan'
+    url: https://www.livehindustan.com/uttar-pradesh/hapur/story-hapur-police-arrest-cannabis-smuggler-seize-1-650-kg-ganja-201794576681530.html
+    publisher: Live Hindustan
+    date: 2026-11-13
+    language: hi
 ---
 
 On 12 November, Hapur police detained a man on a bike coming from Delhi Road
@@ -79,8 +84,8 @@ Sambhal district. [@1,4,5]
 Cannabis was found in a polythene pack inside the black bag slung over his
 shoulder. Police confirmed the substance as cannabis and weighed it at 1.650
 kilograms on an electronic scale. [@1,2,5] The search and recovery were carried out in the presence of the District Magistrate (City), and a field unit tested the material and confirmed it was ganja. [@3] Police also seized a mobile phone and
-1,880 rupees in cash from the accused. [@1,4] Police also recovered the bicycle the man was using for the smuggling from his custody. [@3,4]
+1,880 rupees in cash from the accused. [@1,4,6] Police also recovered the bicycle the man was using for the smuggling from his custody. [@3,4]
 
 Shayan Alam told police that he had taken to selling cannabis to raise money for
-his sister's wedding. [@1,4] He learned there was high demand for cannabis in Hapur, so he planned to bring it from Sambhal in small quantities to sell. [@2,4] Police registered a report against the accused and
+his sister's wedding. [@1,4,6] He learned there was high demand for cannabis in Hapur, so he planned to bring it from Sambhal in small quantities to sell. [@2,4,6] Police registered a report against the accused and
 started further proceedings. [@1,4] The accused was sent to jail. [@5] He is the son of Akhtar and his village Bilalpat falls under Asmoli police station in Sambhal district. [@5] Police say they are tracing where the accused sourced the ganja and who he sold it to in Hapur, and are probing the wider ganja smuggling network. [@4]
