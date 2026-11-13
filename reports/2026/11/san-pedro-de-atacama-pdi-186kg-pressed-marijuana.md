@@ -63,29 +63,32 @@ sources:
     publisher: Diario El America
     date: 2026-11-11
     language: es
+  - title: Incautan 183 kilos de cannabis en San Pedro de Atacama
+    url: https://veredictum.cl/incautan-183-kilos-de-cannabis-en-san-pedro-de-atacama/
+    publisher: Veredictum
+    date: 2026-11-12
+    language: es
 open_questions:
-    - The accounts give no separate date for the seizure; 11 November 2026 is their publication date.
-    - 'The accounts differ on the weight: the prosecutor''s quote published by Calama en Línea says 186 kg, while El América and SoyChile say 183 kg.'
+    - The accounts give no separate date for the seizure; 11 November 2026 and 12 November 2026 are the publication dates of the earlier accounts and this account.
+    - 'The accounts differ on the weight: the prosecutor''s quote published by Calama en Línea says 186 kg, while El América, SoyChile and this account say 183 kg, this account giving 183 kilos 420 grams.'
     - No arrests or charges were reported.
-    - The border sector is not named more precisely than the area near San Pedro de Atacama.
-    - No count of packages or doses was published.
     - The 900 million peso value is the PDI's estimate; no independent valuation was reported.
 ---
 
 The PDI in Calama seized a load of pressed marijuana in San Pedro de Atacama.
-[@1,3] The seizure took place in the border sector of El Loa province, near San
-Pedro de Atacama. [@2] Calama's chief prosecutor, Eduardo Peña, put the load at
+[@1,3,5] The seizure took place in the border sector of El Loa province, near San
+Pedro de Atacama. [@2] Officers found the load as abandoned sacks in the middle of the pampa in the Río Grande sector, holding 95 packages of cannabis of different shapes and sizes. [@5] Calama's chief prosecutor, Eduardo Peña, put the load at
 186 kg of marijuana. [@2] The local outlet El América reported 183 kg for the
-same seizure. [@1,3,4] The PDI valued the marijuana at 900 million pesos on the
+same seizure. [@1,3,4,5] The PDI valued the marijuana at 900 million pesos on the
 illegal market. [@1,3]
 
 Peña said the Fuerza de Tarea Frontera Interna, the internal border task force,
-made the find. [@2] Peña said criminal groups move marijuana through certain
+made the find. [@2,5] Peña said criminal groups move marijuana through certain
 places in the area to bring it into Chilean territory for distribution to local
 populations. [@2] Subprefect Patricio Méndez, head of the PDI's anti-narcotics
 brigade in Calama, said detectives established a stash point through
 intelligence work and information cross-checking. [@2] Méndez said the drug was
-being displayed and would later be destroyed. [@2]
+being displayed and would later be destroyed. [@2] The case file was placed at the disposal of the Public Prosecutor's Office, further inquiries went to the Calama anti-narcotics brigade, and the seized drug was to be sent to the Antofagasta Health Service. [@5]
 
 Méndez said marijuana smuggling has recently increased relative to cocaine and
 cocaine base. [@1] Méndez said the border sector of Antofagasta region is one of
