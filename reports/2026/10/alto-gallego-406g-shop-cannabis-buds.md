@@ -70,6 +70,11 @@ sources:
     publisher: Pirinews
     date: 2026-11-12
     language: es
+  - title: Investigan a la dueña de una tienda de CBD en Huesca tras hallar más de 400 gramos de cogollos de marihuana
+    url: https://www.aragondigital.es/articulo/sucesos/investigan-duena-tienda-cbd-huesca-hallar-mas-400-gramos-marihuana/202611121034561021382.html
+    publisher: Aragón Digital
+    date: 2026-11-12
+    language: es
 ---
 
 The Guardia Civil is investigating a 44-year-old woman as the suspected author
@@ -80,16 +85,16 @@ Alto Gállego comarca. [@1,3,4]
 
 On 26 October 2026 officers from the Sabiñánigo post of the Guardia Civil,
 working with the Fiscal and Borders Detachment of the Huesca command, inspected
-the shop because that trade is subject to state control. [@1,3,4,5] On the shelves, in
+the shop because that trade is subject to state control. [@1,3,4,5,6] On the shelves, in
 view of the public, they found numerous bags of flowering tops, commonly called
 cogollos, supposedly from the cannabis sativa plant. [@1,3,4] During the operation
 the bags were on display for sale to the public. [@2,3,4] Preliminary reagent tests
 for the possible presence of narcotic substances were positive. [@1,3,4,5] Officers
 seized 74 bags, corresponding to about 30 different sale formats of flavours and
-models, with a combined weight of about 406 grams. [@1,3,4,5]
+models, with a combined weight of about 406 grams. [@1,3,4,5,6]
 
 The Sabiñánigo post opened a file and sent it to plaza number 2 of the Tribunal
-de Instancia in Jaca. [@1,3,4,5] The investigated woman must appear before the
+de Instancia in Jaca. [@1,3,4,5,6] The investigated woman must appear before the
 judicial authority when she is required to do so. [@1,3,5] The seized substances
 were sent to the health area of the Government Delegation in Zaragoza for
 analysis to determine their composition. [@1,3,4,5] Those results are intended to
