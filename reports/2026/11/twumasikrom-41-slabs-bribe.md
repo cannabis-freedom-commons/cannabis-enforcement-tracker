@@ -73,6 +73,11 @@ sources:
     url: https://www.myjoyonline.com/two-arrested-with-41-slabs-of-suspected-cannabis-at-checkpoint-on-sunyani-berekum-highway/
     publisher: MyJoyOnline
     date: 2026-11-11
+  - title: 'From Coconuts to Containers: Is Ghana Becoming a Major Hub for International Drug Trafficking?'
+    url: https://www.modernghana.com/news/1543848/from-coconuts-to-containers-is-ghana-becoming-a.html
+    publisher: Modern Ghana
+    date: 2026-11-12
+    language: en
 open_questions:
     - No weight or value was given for the 41 compressed slabs.
     - No charge, court date or outcome had been reported by 11 November 2026.
@@ -80,19 +85,19 @@ open_questions:
 
 The Bono Regional Police Command arrested two men after finding 41 compressed
 slabs of material suspected to be cannabis in a commercial bus at the
-Twumasikrom checkpoint on the Sunyani-Berekum highway. [@1,4,5] Police identified
+Twumasikrom checkpoint on the Sunyani-Berekum highway. [@1,4,5,6] Police identified
 them as the driver, Duah Akwasi Moses, 33, and his mate, Kofi Antwi Bosiako, 42,
 arrested at about 7:00 a.m. on 8 November 2026. [@1,4,5] The two were travelling
 towards Sampa in the Jaman North District in a white and red Kia Grand Bus with
 registration number AS-2415-26. [@1,4,5] The bus was carrying passengers when
 officers stopped and searched it. [@3,4,5] A search of one of the vehicle's
 compartments found two brown boxes containing the 41 yellow sellotaped
-compressed slabs. [@1,4,5]
+compressed slabs. [@1,4,5,6]
 
 The driver told interrogators he had received the parcel from an unidentified
 person in Accra for delivery to someone in Sampa. [@1,4,5] The driver then offered
 officers GH¢9,000 to secure their release, but the officers rejected the offer
-and retained the money as an exhibit. [@1,4,5] The Drugs Law Enforcement Unit was
+and retained the money as an exhibit. [@1,4,5,6] The Drugs Law Enforcement Unit was
 called in to assist the investigation. [@1,4,5] The two remained in police custody
 while officers worked to put them before court. [@1,4,5] The command's public
 relations officer, Chief Inspector Thomas Akeelah, signed a statement on the
