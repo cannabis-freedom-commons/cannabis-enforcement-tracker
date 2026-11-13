@@ -46,6 +46,11 @@ sources:
     publisher: eOstroleka.pl
     date: 2026-11-12
     language: pl
+  - title: Maków Mazowiecki. 53-latek zatrzymany z narkotykami
+    url: https://makowonline.pl/53-latek-z-narkotykami-makow-mazowiecki/
+    publisher: Maków Online
+    date: 2026-11-13
+    language: pl
 open_questions:
   - No weight or split between the marijuana and amphetamine portions was published, so no cannabis quantity is recorded.
   - The eight portions were described only as plant material and white powder confirmed as marijuana and amphetamine, with no laboratory detail reported.
@@ -54,18 +59,17 @@ open_questions:
 ---
 
 On 11 November at about 5 p.m., police were patrolling the streets of Makow
-Mazowiecki. [@1] On Franciszkanska Street, officers noticed three men. [@1] One
-of them threw away a small package on seeing the approaching patrol car. [@1]
+Mazowiecki. [@1,5] On Franciszkanska Street, officers noticed three men. [@1,5] One
+of them threw away a small package on seeing the approaching patrol car. [@1,5]
 The man's behaviour aroused the officers' suspicion. [@3] The man was a
-53-year-old resident of Makow Mazowiecki who possessed narcotics. [@1]
+53-year-old resident of Makow Mazowiecki who possessed narcotics. [@1,5]
 
 Inside the aluminium-foil package, officers found eight portions of different
-substances. [@1] The material was plant material and white powder. [@1] Testing
-confirmed the substances were marijuana and amphetamine. [@2] Police spokeswoman
+substances. [@1,5] The material was plant material and white powder. [@1] Testing
+confirmed the substances were marijuana and amphetamine. [@2,5] Police spokeswoman
 Monika Winnik gave this account of the seizure. [@3]
 
-The 53-year-old was detained and placed in the police detention room. [@1] The
+The 53-year-old was detained and placed in the police detention room. [@1,5] The
 secured drugs constitute evidence in the case. [@4] Police said possession of
-narcotics carries up to three years of imprisonment. [@4] The authorities
+narcotics carries up to three years of imprisonment. [@4,5] The authorities
 handling the proceedings will decide what happens next to the detained man. [@4]
-
