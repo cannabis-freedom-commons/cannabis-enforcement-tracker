@@ -67,26 +67,21 @@ sources:
     publisher: Сводка АКИpress
     date: 2026-11-12
     language: ru
-open_questions:
-  - The reports give no separate date for the arrest or the searches; 12 November 2026 is the date of the GKNB statement and of publication.
-  - No weight or value was given for the seized drug or the stocks of raw material.
-  - The GKNB statement calls the substance only a drug; the identification as anasha comes from the suspect's remark at the arrest, and no laboratory confirmation was reported.
-  - The reports do not say whether the drug was marijuana leaf or hashish.
-  - The size of the group and the number of people searched are not stated.
-  - The suspect is identified only by the initials B.B.R.
-  - No charges were reported and no court outcome is known; the case was at the investigation stage.
-  - The number of search sites is not given, so the searches are recorded only as at homes and workplaces.
-  - The exact place of the arrest in Talas Region is not given, so region-level coordinates are used.
+  - title: В Таласской области сотрудники ГКНБ пресекли производство наркотиков
+    url: https://open.kg/news/incidents/137473-v-talasskoj-oblasti-sotrudniki-gknb-presekli-proizvodstvo-narkotikov.html
+    publisher: open.kg
+    date: 2026-11-12
+    language: ru
 ---
 
 Officers of Kyrgyzstan's State Committee for National Security (GKNB) detained a
 man identified as B.B.R. in Talas Region as he tried to sell a large batch of
-drugs. [@1] The GKNB said he was part of a group that made and sold drugs in the
+drugs. [@1,3] The GKNB said he was part of a group that made and sold drugs in the
 region. [@1] At the arrest the man said the seized drug was 'ordinary anasha', a
 Central Asian name for cannabis. [@2]
 
 Searches at the homes and workplaces of the group's members found additional
-stocks of raw material and a place and equipment for making drugs. [@1] The GKNB
+stocks of raw material and a place and equipment for making drugs. [@1,3] The GKNB described the operation as a special operation and said the searches found equipment and tools used for crude drug production. [@3] The GKNB
 gave no weight for the seized drug or the raw material. [@1] The detainee was
 placed in the temporary detention facility, or IVS, of the Talas city police
 department. [@1]
@@ -95,4 +90,3 @@ AKIpress reported that the searches also covered the homes and workplaces of
 other people in the case. [@2] The GKNB said investigators were working to
 establish all circumstances, possible accomplices and distribution channels.
 [@1] No charges had been announced when the reports were published. [@1]
-
