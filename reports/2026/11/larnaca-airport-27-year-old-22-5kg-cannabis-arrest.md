@@ -74,28 +74,26 @@ sources:
     url: https://www.kibrispostasi.com/c140-DAILY_NEWS/n619607-british-man-arrested-at-larnaca-airport-with-225kg-of-cannabis
     publisher: Kıbrıs Postası
     date: 2026-11-12
-open_questions:
-    - Philenews and Kıbrıs Postası describe the arrested man as a British national while the Cyprus Mail reports he was a Thai national; no account is treated as settled.
-    - No remand hearing, formal charge or court date for the arrested man has been reported.
-    - The 22.5 kilograms is given as an approximate gross weight, and no laboratory confirmation of the cannabis was reported.
-    - No value estimate for the seized cannabis was published.
-    - The outcome of the continuing DAOE-YKAN investigation has not been published.
+  - title: 22.5 KG of Cannabis Found in 27-Year-Old’s Luggage in Larnaca
+    url: https://en.politis.com.cy/news/cy-news/1067858/225-kg-of-cannabis-found-in-27-year-olds-luggage-in-larnaca
+    publisher: Politis
+    date: 2026-11-12
 ---
 
 A 27-year-old man was arrested at Larnaca airport on Thursday morning after
-about 22.5 kilograms of cannabis was found in his luggage. [@1,4] He had arrived
+about 22.5 kilograms of cannabis was found in his luggage. [@1,4,5] He had arrived
 on a flight from Bangkok via Doha and was stopped for a check after drug squad
 officers assessed information they had received. [@1,4] Philenews described the
 arrested man as a British national. [@1] Kıbrıs Postası also described the arrested man as a British national. [@4] The Cyprus Mail reported instead that
 he was a Thai national. [@3]
 
 The operation was carried out by the Anti-Drugs Unit (YKAN) of the Directorate
-for Combating Organised Crime (DAOE), together with customs officials. [@1,4] A
-search of his travel bag found 42 plastic packages of cannabis. [@1,4] SigmaLive
+for Combating Organised Crime (DAOE), together with customs officials. [@1,4,5] A
+search of his travel bag found 42 plastic packages of cannabis. [@1,4,5] SigmaLive
 English described the packages as 42 nylon packages holding about 22.5 kilograms
 in total. [@2] The Cyprus Mail reported that customs seized the drugs and handed
 them over to YKAN. [@3]
 
 He was arrested for illegal importation, illegal possession and possession of
-drugs with intent to supply. [@1,4] DAOE-YKAN is continuing its investigation.
-[@1,4]
+drugs with intent to supply. [@1,4,5] DAOE-YKAN is continuing its investigation.
+[@1,4,5]
