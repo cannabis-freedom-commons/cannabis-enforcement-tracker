@@ -56,6 +56,11 @@ sources:
     publisher: Время Биробиджана
     date: 2026-11-13
     language: ru
+  - title: Более 53 килограмм марихуаны и конопли изъяли у троих мужчин в ЕАО (ФОТО)
+    url: https://www.dvnovosti.ru/eao/2026/11/13/199339/
+    publisher: DVNovosti
+    date: 2026-11-13
+    language: ru
 open_questions:
     - No separate date for the detention was published; 13 November 2026 is the publication date of all accounts and is used as the incident date.
     - The EAOMedia headline says 'дурман-травы' (datura) but the body text confirms the substance is marijuana and cannabis plant parts; the headline appears to be a mislabel.
@@ -67,17 +72,17 @@ open_questions:
 Criminal-investigation officers of the Leningradsky police division, with the
 support of Rosgvardia troops, detained three men in the vicinity of Stepnoye
 village in the Jewish Autonomous Oblast and seized more than 53 kilograms of
-marijuana and parts of cannabis plants from them. [@1,3] An expert examination
+marijuana and parts of cannabis plants from them. [@1,3,4] An expert examination
 found that the seized material contained 25.235 kilograms of marijuana and 27.87
-kilograms of parts of cannabis plants, totalling 53.105 kilograms. [@1,3]
+kilograms of parts of cannabis plants, totalling 53.105 kilograms. [@1,3,4]
 
 Police found and seized six bundles with parts of plants, five bags, and a tarp
-with plant material at the scene. [@1,3] Preliminary data indicated that the three
+with plant material at the scene. [@1,3,4] Preliminary data indicated that the three
 men did not know each other and had arrived in the vicinity of the village
-independently, to collect the banned plants. [@2,3]
+independently, to collect the banned plants. [@2,3,4]
 
 An investigator at the Leningradsky police division opened a criminal case under
 part 2 of article 228 of the Russian Criminal Code, which covers the illegal
 acquisition and storage of narcotic drugs in a large amount; the maximum penalty
-is up to ten years in prison. [@1,3] The investigation was still under way at the
+is up to ten years in prison. [@1,3,4] The investigation was still under way at the
 time of the reports. [@1]
