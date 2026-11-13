@@ -87,33 +87,37 @@ sources:
     publisher: Modern Ghana
     date: 2026-11-13
     language: en
+  - title: Police seize 3,752 slabs of suspected Indian hemp at Ada
+    url: https://www.citinewsroom.com/2026/11/police-seize-3752-slabs-of-suspected-indian-hemp-at-ada/
+    publisher: Citi Newsroom
+    date: 2026-11-12
 open_questions:
   - No weight for the 3,752 slabs and no value estimate were published.
   - The number of people on the canoe were not reported; they escaped and had not been identified.
 ---
 
 The Tema Regional Police Command intercepted and recovered a canoe carrying
-3,752 slabs of suspected Indian hemp on the Volta Lake at Ada. [@1,3,4,5,6,7] The
+3,752 slabs of suspected Indian hemp on the Volta Lake at Ada. [@1,3,4,5,6,7,8] The
 operation took place on 4 November 2026 after intelligence that a consignment of
 suspected narcotic substances was being transported from Jemeniweres through the
-Volta Lake towards Ada. [@1,3,4,6,7] Marine Police officers went to Mepe in the Volta
-Region, but found that the suspects had fled in their canoes. [@2,3,6,7] The team
-moved to Big Ada to pursue them. [@2,3,6,7] At about 11:10 p.m. the police intercepted
+Volta Lake towards Ada. [@1,3,4,6,7,8] Marine Police officers went to Mepe in the Volta
+Region, but found that the suspects had fled in their canoes. [@2,3,6,7,8] The team
+moved to Big Ada to pursue them. [@2,3,6,7,8] At about 11:10 p.m. the police intercepted
 the suspects at Agorta Island in Ada, but they escaped into the river,
-abandoning the canoe and its contents. [@1,3,5,6,7]
+abandoning the canoe and its contents. [@1,3,5,6,7,8]
 
 The canoe was taken to the Marine Police Base at Ada, where a search found 53
 sacks containing suspected narcotic substances, outboard motors, 30 yellow
-gallons containing petrol and premix fuel, a cutlass and other items. [@1,3,4,6,7] The
+gallons containing petrol and premix fuel, a cutlass and other items. [@1,3,4,6,7,8] The
 following day, 5 November 2026, the 53 sacks were opened and counted at the
-Regional Criminal Investigations Department in Tema. [@1,3,6,7] The count revealed
+Regional Criminal Investigations Department in Tema. [@1,3,6,7,8] The count revealed
 3,752 compressed and cello-taped slabs of dried leaves suspected to be Indian
-hemp. [@1,3,6,7] The suspected narcotic substances were secured as exhibits pending
-further examination. [@1,3,7]
+hemp. [@1,3,6,7,8] The suspected narcotic substances were secured as exhibits pending
+further examination. [@1,3,7,8]
 
 No arrests had been made in connection with the seizure, and investigations were
-continuing to identify and apprehend those involved. [@2,3,4,6,7] The command issued a
-statement on Wednesday 11 November 2026. [@2,3] The statement was signed by ASP
-Dede Dzakpasu, head of public affairs for the Tema Regional Police Command. [@1,4,7]
+continuing to identify and apprehend those involved. [@2,3,4,6,7,8] The command issued a
+statement on Wednesday 11 November 2026. [@2,3,8] The statement was signed by ASP
+Dede Dzakpasu, head of public affairs for the Tema Regional Police Command. [@1,4,7,8]
 The Tema Regional Police Command reiterated its commitment to combating drug
-trafficking and urged the public to volunteer information. [@1,3,7] The same police unit had intercepted a canoe loaded with suspected cannabis at Ada in September. [@3] IMANI Africa president Franklin Cudjoe cited the seizure in a Facebook post on 12 November 2026, calling for Indian hemp to be demystified, its health benefits promoted and more of the good parts grown for export. [@5]
+trafficking and urged the public to volunteer information. [@1,3,7,8] The same police unit had intercepted a canoe loaded with suspected cannabis at Ada in September. [@3] IMANI Africa president Franklin Cudjoe cited the seizure in a Facebook post on 12 November 2026, calling for Indian hemp to be demystified, its health benefits promoted and more of the good parts grown for export. [@5]
