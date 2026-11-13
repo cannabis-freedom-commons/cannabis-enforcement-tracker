@@ -41,6 +41,11 @@ media:
     media_url: https://cdn.ghanaweb.com/imagelib/pics/381/38169294.jpg
     publisher: GhanaWeb
     caption: Scan of the Tema Regional Police Command statement on the 4 November 2026 interception at Agorta Island, signed by ASP Dede Dzakpasu and published with the article.
+  - kind: photo
+    url: https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Demystify-Indian-hemp-grow-more-and-export-for-cash-Franklin-Cudjoe-2061014
+    media_url: https://cdn.ghanaweb.com/imagelib/pics/543/54383264.295.jpg
+    publisher: GhanaWeb
+    caption: Franklin Cudjoe, president of IMANI Africa, whose Facebook post on 12 November 2026 cited the Ada seizure and called for Indian hemp to be demystified and exported.
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6e7b03891822a048b4da70b08ab94163
@@ -63,6 +68,10 @@ sources:
     publisher: GhanaWeb
     date: 2026-11-11
     language: en
+  - title: ‘Demystify Indian hemp, grow more and export for cash’ – Franklin Cudjoe
+    url: https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Demystify-Indian-hemp-grow-more-and-export-for-cash-Franklin-Cudjoe-2061014
+    publisher: GhanaWeb
+    date: 2026-11-12
 open_questions:
   - No weight was published for the 3,752 slabs, so the seizure could not be recorded in kilograms.
   - The slabs were described as suspected Indian hemp and had not been confirmed as cannabis when the seizure was announced.
@@ -74,14 +83,14 @@ open_questions:
 ---
 
 The Tema Regional Police Command intercepted and recovered a canoe carrying
-3,752 slabs of suspected Indian hemp on the Volta Lake at Ada. [@1,3,4] The
+3,752 slabs of suspected Indian hemp on the Volta Lake at Ada. [@1,3,4,5] The
 operation took place on 4 November 2026 after intelligence that a consignment of
 suspected narcotic substances was being transported from Jemeniweres through the
 Volta Lake towards Ada. [@1,3,4] Marine Police officers went to Mepe in the Volta
 Region, but found that the suspects had fled in their canoes. [@2,3] The team
 moved to Big Ada to pursue them. [@2,3] At about 11:10 p.m. the police intercepted
 the suspects at Agorta Island in Ada, but they escaped into the river,
-abandoning the canoe and its contents. [@1,3]
+abandoning the canoe and its contents. [@1,3,5]
 
 The canoe was taken to the Marine Police Base at Ada, where a search found 53
 sacks containing suspected narcotic substances, outboard motors, 30 yellow
@@ -97,4 +106,4 @@ continuing to identify and apprehend those involved. [@2,3,4] The command issued
 statement on Wednesday 11 November 2026. [@2,3] The statement was signed by ASP
 Dede Dzakpasu, head of public affairs for the Tema Regional Police Command. [@1,4]
 The Tema Regional Police Command reiterated its commitment to combating drug
-trafficking and urged the public to volunteer information. [@1,3] The same police unit had intercepted a canoe loaded with suspected cannabis at Ada in September. [@3]
+trafficking and urged the public to volunteer information. [@1,3] The same police unit had intercepted a canoe loaded with suspected cannabis at Ada in September. [@3] IMANI Africa president Franklin Cudjoe cited the seizure in a Facebook post on 12 November 2026, calling for Indian hemp to be demystified, its health benefits promoted and more of the good parts grown for export. [@5]
