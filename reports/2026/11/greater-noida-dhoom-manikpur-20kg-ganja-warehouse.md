@@ -50,29 +50,38 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-13
     language: hi
+  - title: Noida Ganja Seized | Police Raid Delivery Warehouse In Badalpur
+    url: https://www.bhaskar.com/local/uttar-pradesh/gautambudh-nagar/news/noida-ganja-seized-delivery-warehouse-badalpur-police-raid-139675408.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-13
+    language: hi
+  - title: 'Books on top, 20kg ganja below: Rs 10L drugs seized in Greater Noida warehouse'
+    url: https://timesofindia.indiatimes.com/city/noida/books-on-top-20kg-ganja-below-rs-10l-drugs-seized-in-greater-noida-warehouse/amp_articleshow/135815272.cms
+    publisher: The Times of India
+    date: 2026-11-14
 open_questions:
   - No arrests, charges or court outcome were reported; the warehouse manager was only being questioned.
   - The report gives no separate date for the seizure, so 13 November 2026 is the publication date standing in for the event.
   - No case number or NDPS sections were reported.
   - The sender, booker and intended Delhi recipient were still unidentified.
+  - The Times of India dates the interception to Thursday and the uncovering to Friday, while 13 November 2026 remains the publication date standing in for the event.
 ---
 
 Badalpur police seized about 20 kg of ganja from two suspect packets at the
 Swastik Logistics warehouse near Dhoom Manikpur village in the Badalpur area of
-Greater Noida. [@1] The warehouse, identified as that of Swastik Logistics
+Greater Noida. [@1,2] The warehouse, identified as that of Swastik Logistics
 Company near Dhoom Manikpur village, stores parcels sent through a local
 delivery company. [@1] The two packets had been booked in Odisha for delivery in
-Delhi and bore a Delhi address. [@1] Police reached the warehouse after the
+Delhi and bore a Delhi address. [@1,2] Police reached the warehouse after the
 packets aroused suspicion, had both packets examined, and confirmed they
-contained ganja. [@1]
+contained ganja. [@1] The ganja was concealed between layers of books inside the two packages and was detected during an X-ray scan. [@3]
 
 Together the two packets yielded about 20 kg of ganja. [@1] Police put the
-estimated market value of the seized ganja at about 10 lakh rupees. [@1] Police
-took the ganja into custody and began investigating the case. [@1]
+estimated market value of the seized ganja at about 10 lakh rupees. [@1,2] Police
+took the ganja into custody and began investigating the case. [@1] Police said a case is being registered against both the sender and the recipient of the consignment. [@3]
 
 Investigators are trying to identify who booked the consignment, who sent it,
 and who was to receive it in Delhi. [@1] Wasim was posted as manager at the
 warehouse, and police are gathering information from him about the case. [@1]
 Police are examining the logistics company's records and consignment details to
 trace the smuggling network, and further action was under way. [@1]
-
