@@ -69,6 +69,11 @@ sources:
     publisher: RTCG
     date: 2026-11-12
     language: sr
+  - title: Полиција масовно претреса објекте шкаљараца и кавчана
+    url: https://atvbl.rs/vijesti/region/policija-masovno-pretresa-objekte-skaljaraca-i-kavcana/2371575
+    publisher: atvbl.rs
+    date: 2026-11-12
+    language: sr
 open_questions:
   - No weight was published for the marijuana or the cannabis oil.
   - No quantity was given for the xalol tablets, which are not a cannabis product.
@@ -77,10 +82,11 @@ open_questions:
   - The suspects are identified only by initials and ages; the 17-year-old is not named.
   - Whether MB (19) is the same MB charged in the earlier Nikšić case of 3 November is not stated.
   - The accessible accounts reproduce the police statement rather than independent reporting.
+  - 'Accounts differ on how many locations were searched: the police statement puts them at ten, while another same-day account describes the action as covering dozens of locations.'
 ---
 
 Nikšić police searched ten locations, including buildings and flats, on 12
-November 2026. [@1] They arrested a 17-year-old boy, described as close to an
+November 2026. [@1,3] They arrested a 17-year-old boy, described as close to an
 organised crime group, after a search of premises he uses found a small amount
 of marijuana. [@1] Police also arrested MB (19), also described as close to an
 organised crime group, and his relative MB (53). [@1] A search of premises used
@@ -95,11 +101,10 @@ The searches were ordered by the Basic Court in Nikšić and the High Court in
 Podgorica and coordinated with the state prosecutor's offices in Nikšić and
 Podgorica. [@1] Police said the operation targeted members of organised criminal
 groups, persons of operational interest and people close to and associated with
-them. [@1] In the same searches officers seized two firearms and 64 rounds of
-ammunition held illegally. [@1] Police also temporarily seized €37,000, whose
+them. [@1,3] In the same searches officers seized two firearms and 64 rounds of
+ammunition held illegally. [@1,3] Police also temporarily seized €37,000, whose
 origin and basis of acquisition and possession will be established. [@1] Vijesti
 reported that the searches covered premises used by members of the Škaljari and
-Kavača cells of the Balkan drug cartel. [@1] Border Police Sector officers and
+Kavača cells of the Balkan drug cartel. [@1,3] Border Police Sector officers and
 sniffer dogs supported the searches. [@2] Police said they would keep targeting
 organised crime members and their associates. [@1]
-
