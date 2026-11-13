@@ -64,6 +64,11 @@ sources:
     publisher: Рамблер/новости (ТАСС)
     date: 2026-11-13
     language: ru
+  - title: 'Задержан наркокурьер в ХМАО: изъято 14,5 кг гашиша'
+    url: https://news.ru/regions/rossiyanina-zaderzhali-na-trasse-s-14-5-kg-narkotikov
+    publisher: NEWS.ru
+    date: 2026-11-13
+    language: ru
 open_questions:
   - No separate date for the roadside stop was published; 13 November 2026 is the publication date of all three reports and is used as the incident date.
   - The hashish weight is reported as approximate (about 14.5 kg), with no exact laboratory figure published.
@@ -80,11 +85,10 @@ department and Nefteyugansk traffic police. [@1] Police detained the suspect,
 who gave confessional testimony. [@2]
 
 The man said he had collected the load in St Petersburg and was taking it to
-Nizhnevartovsk to hand over to unidentified people. [@1] A criminal case was
+Nizhnevartovsk to hand over to unidentified people. [@1,4] A criminal case was
 opened against him for attempted drug sale and illegal trafficking of prohibited
-substances on an especially large scale. [@1] The Nefteyugansk investigative
+substances on an especially large scale. [@1,4] The Nefteyugansk investigative
 department qualified the case under part 3 of article 30 and items 4(g) and 5 of
-article 228.1 of the Criminal Code. [@3] He faces 15 to 20 years of imprisonment
+article 228.1 of the Criminal Code. [@3,4] He faces 15 to 20 years of imprisonment
 and was placed in custody. [@1] Police are working to identify possible
-accomplices and the organisers of the supply channel. [@1]
-
+accomplices and the organisers of the supply channel. [@1,4]
