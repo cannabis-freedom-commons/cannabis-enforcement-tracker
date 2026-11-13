@@ -112,14 +112,18 @@ sources:
     publisher: NAGORIK TV
     date: 2026-11-12
     language: bn
+  - title: নারায়ণগঞ্জে নিজ বাড়িতে গাঁজা চাষ, যুবক গ্রেপ্তার
+    url: https://bangla.tob.news/%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A6%A3%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%9C-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%97/
+    publisher: টাইমস ন্যাশনাল
+    date: 2026-11-12
+    language: bn
 open_questions:
-    - 'The accounts disagree on timing: Ekhon TV, Bangladesh Pratidin and Protidiner Kagoj put the raid late on 12 November, around midnight, while Talash BD and Kaler Kantho date it to around midnight on 11 November, and Kaler Kantho also describes a Thursday-night raid; 12 November is used.'
+    - 'The accounts disagree on timing: Ekhon TV, Bangladesh Pratidin and Protidiner Kagoj put the raid late on 12 November, around midnight, while Times National, Asia Post, Talash BD and Kaler Kantho date it to around midnight on 11 November, and Kaler Kantho also describes a Thursday-night raid; 12 November is used.'
     - The 3 kg 200 g is the weight of the whole live plant with branches and leaves, not dried cannabis.
     - It is not reported whether the plant was growing in the ground or in a pot in the yard.
     - No street value estimate and no count of any other plants were published.
     - No court outcome beyond his being sent to court was reported, and the exact charge and any plea are unknown.
     - All the opened accounts reproduce the same SRB-11 press release, so they are not independent reporting.
-    - The service's quotation checker could not verify 6 of 7 Bengali fact quotations despite them being exact substrings of the captured source text, likely due to a Unicode normalization mismatch between the checker and the source encoding.
 ---
 
 SRB-11 officers arrested a 28-year-old man in Shimulpara Bihari Camp in
@@ -131,9 +135,9 @@ son of the late Anwar Hossain of Shimulpara Bihari Camp. [@2,4,5,8] His mother w
 
 He tried to flee when he noticed the officers and was caught, the battalion said
 in a press release. [@1,4,5,8] Officers then recovered the plant, which had been
-planted in front of the door inside the boundary wall of his house. [@1,4,5,8,9] The
+planted in front of the door inside the boundary wall of his house. [@1,4,5,8,9,10] The
 plant was 5 ft 7 in tall and weighed 3 kg 200 g with its branches and leaves,
-Bangladesh Pratidin reported. [@2,5,8] In initial questioning he admitted growing
+Bangladesh Pratidin reported. [@2,5,8,10] In initial questioning he admitted growing
 cannabis secretly at his home for a long time, according to the press release.
 [@1,4,5,8]
 
