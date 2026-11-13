@@ -52,38 +52,32 @@ sources:
     publisher: TopSumbar.co.id
     date: 2026-11-13
     language: id
-open_questions:
-  - No weight, value, plant count or charge sheet for the nine packets of ganja was published, so no kilogram figure is recorded.
-  - 'The two outlets identify the second suspect inconsistently: Kongkrit.com gives his initials as PD and Ilcan Prayono alias Teil, while TopSumbar.co.id uses the initials PD and IP; the report follows Kongkrit.com and notes the discrepancy.'
-  - No court date, trial or sentence outcome has been reported for the two suspects.
-  - The accounts rest on one police statement published by two outlets of the same media network, so no independent second agency source was found.
-  - 'Left out, as its quotation was not found in TopSumbar.co.id: IP admitted still keeping cannabis packets at home, and officers found six large packets wrapped in brown tape marked with numbers 1 to 6, plus two medium packets in black and red plastic, at his residence.'
-  - 'Left out, as its quotation was not found in TopSumbar.co.id: Both suspects were taken to Pasaman police headquarters for examination and legal process.'
-  - 'Left out, as its quotation was not found in TopSumbar.co.id: Police processed both men under Article 114 paragraph (1) with subsidiary Article 111 paragraph (1) of Law Number 35 of 2009 on Narcotics, in conjunction with Law Number 1 of 2023 and Law Number 1 of 2026.'
-  - Left out case stage, as its quotation was not found in TopSumbar.co.id.
-  - Left out charges, as its quotation was not found in TopSumbar.co.id.
+  - title: Transaksi Ganja di Pasaman Terbongkar, Dua Pria Ditangkap - ValoraNews.com
+    url: https://www.valoranews.com/berita/49472/transaksi-ganja-di-pasaman-terbongkar-dua-pria-ditangkap
+    publisher: ValoraNews.com
+    date: 2026-11-13
+    language: id
 ---
 
 Satresnarkoba Polres Pasaman detained two suspected cannabis dealers at about
 20.30 WIB on Thursday 12 November 2026 at Jorong Katimahar, Nagari Panti Timur,
-Kecamatan Panti, in Pasaman regency, West Sumatra. [@1] The two men, PD alias
+Kecamatan Panti, in Pasaman regency, West Sumatra. [@1,3] The two men, PD alias
 Sipon and Ilcan Prayono alias Teil aged 38, were local residents suspected of
-being involved in the cannabis trade. [@1]
+being involved in the cannabis trade. [@1,3]
 
 Officers seized nine packets believed to contain cannabis, seven large and two
 medium, plus a mobile phone and a motorcycle. [@1] Kasat Resnarkoba Polres
 Pasaman AKP Fahrul Roji led the arrest with personnel of Tim Opsnal Elang Timur.
-[@1]
+[@1,3]
 
 The operation followed a community report of suspected drug transactions in
 Nagari Panti Timur, after which officers investigated and monitored the area.
-[@1] Officers then carried out an undercover buy, in which a police officer
-posed as a prospective buyer of cannabis. [@1] PD alias Sipon agreed to meet the
+[@1,3] Officers then carried out an undercover buy, in which a police officer
+posed as a prospective buyer of cannabis. [@1,3] PD alias Sipon agreed to meet the
 undercover officer at a coffee shop in Jorong Kuamang, but redirected the
-meeting to another location in Jorong Katimahar. [@1]
+meeting to another location in Jorong Katimahar. [@1,3]
 
 At the planned transaction, the second suspect, IP, brought a large cannabis
 packet wrapped in brown tape from the motorcycle trunk and handed it to PD. [@2]
 Officers seized a blue Realme mobile phone and an unnumbered black Suzuki
 Skywave motorcycle. [@2]
-
