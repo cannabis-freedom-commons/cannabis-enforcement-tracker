@@ -497,11 +497,16 @@ sources:
     publisher: TVBS新聞網
     date: 2026-11-12
     language: zh
+  - title: Toyz出獄跟篠崎泫高調放閃！前女友榕榕子不忍開砲：兩個爛人鎖死 | 綜藝 | 娛樂 | NOWnews今日新聞
+    url: https://www.nownews.com/amp/news/6891786
+    publisher: NOWnews今日新聞
+    date: 2026-11-12
+    language: zh
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
 and deported from Taiwan on 3 November 2026 after serving part of a
-cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,65,66,68,70,81,83,84,85] Officers from the immigration agency's
+cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,65,66,68,70,81,83,84,85,88] Officers from the immigration agency's
 Changhua County task force picked him up from Changhua Prison and carried out
 the forced expulsion, barring him from returning to Taiwan for a set period.
 [@3,4,5,6,7,9,10,11,12,13,16,17,19,22,23,25,26,27,28,30,31,32,33,34,35,36,37,38,46,47,48,49,52,54,62,81] Prosecutors ordered deportation in place of protective supervision after
@@ -548,6 +553,6 @@ The livestream drew about 13,000 viewers, up from the few hundred people who nor
 
 The livestream audience rose to about 13,000 people. [@72]
 
-篠崎泫 showed the hand-written letters she had sent Toyz while he was in prison. [@76] 篠崎泫 said that Liu's personal social media accounts had been run by her, not by him. [@76,80]
+篠崎泫 showed the hand-written letters she had sent Toyz while he was in prison. [@76,88] 篠崎泫 said she mailed two letters to Toyz every week while he was in prison and once wrote 60 pages in a single letter. [@88] 篠崎泫 said that Liu's personal social media accounts had been run by her, not by him. [@76,80]
 
 篠崎泫 said she had regularly visited Liu in prison. [@76]
