@@ -55,6 +55,11 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/11/13/whatsappvideo2026-11-13at12_50_35-ezgif_com-resize_1794554696065.gif
     publisher: Dainik Bhaskar
     caption: 'Police taking the accused away with the seized ganja. Photo: Dainik Bhaskar'
+  - kind: photo
+    url: https://garimatimes.in/who-is-supplying-consignments-of-drugs-in-rohtak-questions-about-network-resurface-following-a-seizure-of-cannabis/
+    media_url: https://garimatimes.in/wp-content/uploads/2026/11/nasha-taskaR.jpg
+    publisher: Garima Times
+    caption: 'Police with the arrested car driver and the seized ganja. Photo: Garima Times'
 status: verified
 created_by_model: marketplace/dealignai/deepseek-v4.1-flash-uncensored-fp8#max
 submission: c9c4beb68786796534eb6a3b62d8cba4
@@ -80,6 +85,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-13
     language: hi
+  - title: रोहतक में नशे की खेप कौन पहुंचा रहा, गांजा पकड़ने के बाद फिर उठे नेटवर्क पर सवाल
+    url: https://garimatimes.in/who-is-supplying-consignments-of-drugs-in-rohtak-questions-about-network-resurface-following-a-seizure-of-cannabis/
+    publisher: Garima Times
+    date: 2026-11-13
+    language: hi
 open_questions:
   - 'Accounts differ on how the car was found: three outlets describe a tip-off and a check at Gohana Adda, while Amar Ujala describes a patrol that chased two fleeing youths.'
   - The material was described as ganja with no laboratory confirmation reported.
@@ -88,27 +98,27 @@ open_questions:
   - No charge sheet or court outcome has been reported.
   - The time is given only as late at night on Thursday, 12 November 2026.
   - Amar Ujala calls the spot the Gohana bus stand, while the other accounts say Gohana Adda.
+  - The Garima Times photo caption says 28 kg 925 g while its article text reports 28 kg 995 g and 28.995 kg; this result follows the article text and the existing 28.995 kg figure.
 ---
 
 Police in Rohtak arrested a car driver at Gohana Adda late on Thursday night
 after stopping a white car and finding a plastic sack holding 14 packets of
-ganja. [@1] The arrested man was identified as Vishal, a resident of Nand
+ganja. [@1,5] The arrested man was identified as Vishal, a resident of Nand
 Colony, Gopalpura, Hisar Road. [@1] Amar Ujala reported that a second man
 travelling with him ran from the spot when he saw the police and that officers
 were still looking for him. [@4]
 
 The haul was weighed in the presence of Meham DSP Tanuj Sharma and came to 28 kg
-995 g, police said. [@1] The packets had been hidden in the sack inside the car.
-[@3] Police seized the car and the ganja. [@1] Vishal produced no licence or
+995 g, police said. [@1,5] The packets had been hidden in the sack inside the car.
+[@3,5] Police seized the car and the ganja. [@1] Vishal produced no licence or
 permit for the drug, police said. [@3] A case was registered against him under
 the NDPS Act, the Narcotic Drugs and Psychotropic Substances Act. [@1]
 
 Old Sabzi Mandi police station SHO Paramjeet said officers had acted on
-information that a car was being used to smuggle drugs. [@1] Police said they
+information that a car was being used to smuggle drugs. [@1,5] Police said they
 were questioning Vishal about where he had brought the consignment from and
 where it was to be sold. [@1] Jagmarg reported that he was being questioned on
 remand. [@2] Amar Ujala, however, reported that a patrol led by Salara Mohalla
 police post in-charge Shyam Sunder spotted the two youths near Gohana Adda,
 chased them and caught Vishal. [@4] It reported that the two had brought the
 ganja from Delhi and that it was to be supplied in Rohtak. [@4]
-
