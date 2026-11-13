@@ -70,31 +70,41 @@ sources:
     publisher: CNews Bharat
     date: 2026-11-12
     language: hi
+  - title: 'लखनऊ : एटीएम तोड़कर चोरी का प्रयास करने वाला शातिर युवक गिरफ्तार।।||Lucknow: A cunning young man who attempted to steal by breaking an ATM has been arrested.||'
+    url: https://www.dotookmedia.com/2026/11/lucknow-cunning-young-man-who-attempted.html
+    publisher: Do Took Media
+    date: 2026-11-12
+    language: hi
 media:
   - kind: photo
     url: https://rexpressbharat.com/news/lucknow-a-criminal-from-jharkhand-had-come-to-rob-an-atm-arrested-with-tools-and-ganja-20261112-39493
     media_url: https://img.rexpressbharat.com/image/news/2026-11-12/d22fbc41-ae4e-4d8e-9c32-32f067f10dd5.webp
     publisher: R Express Bharat
     caption: 'The arrested man with ATM-breaking tools and an intoxicant. Photo: R Express Bharat'
+  - kind: photo
+    url: https://www.dotookmedia.com/2026/11/lucknow-cunning-young-man-who-attempted.html
+    media_url: https://blogger.googleusercontent.com/img/a/AVvXsEjqVBWSqmbyYGOA1HxCcbRmTkWOkB-wXE3EK57ocupbQ_6G92oa2jwRY66garHUTDcLWQ_IC20daXzTTHqBlOGyIppflDn-pn0PTMoGMwFPiIt4Ji5bfMe0y0rxpxYDeEYWFvs_lDKrpvvk1l8ZswL05NCmmEBa1xMuXy7eVLcdGU_ARm7AHMfVa-wxHg=rw
+    publisher: Do Took Media
+    caption: 'Roshan Singh standing between two police officers after the Ashiana arrest. Photo: Do Took Media'
 ---
 
 Ashiana police in Lucknow arrested Roshan Singh on suspicion of attempting to
 break into the Sector-N State Bank of India ATM to steal cash. [@1,3,4,5,6] The arrest
 was made at about 12:50 a.m. on the night of 11-12 November 2026 during a night
-patrol. [@2] Police identified the suspect as Roshan Singh, son of the late
-Pramod Kumar alias Abhay Singh. [@2,6] Police said he was from Chapla, Hussainabad, in Palamu, Jharkhand, and was living in a rented house of Manoj Thakur in Kailash Vihar, Amausi, under Sarojini Nagar police station. [@1,6]
+patrol. [@2,7] Police identified the suspect as Roshan Singh, son of the late
+Pramod Kumar alias Abhay Singh. [@2,6,7] Police said he was from Chapla, Hussainabad, in Palamu, Jharkhand, and was living in a rented house of Manoj Thakur in Kailash Vihar, Amausi, under Sarojini Nagar police station. [@1,6]
 
 Police said the suspect first tried to break into the ATM on the night of 10-11
-November 2026 and fled when he heard a police vehicle's hooter. [@2,3,5] A theft
+November 2026 and fled when he heard a police vehicle's hooter. [@2,3,5,7] A theft
 case, FIR No. 300/2026 under Bharatiya Nyaya Sanhita sections 303(2) and 324(4),
 was first registered against an unknown person on the complaint of Arvind Kumar
 Shukla. [@2] The complaint was made by Arvind Kumar Shukla, a lawyer for the ATM maintenance company. [@5] A search recovered an iron rod and pipe used to break ATMs, along
-with a keyboard, camera and wires removed from the ATM. [@2,4,6] Officers also
-recovered 1 kg 100 g (1.1 kg) of ganja from his possession. [@1,4,6]
+with a keyboard, camera and wires removed from the ATM. [@2,4,6,7] Officers also
+recovered 1 kg 100 g (1.1 kg) of ganja from his possession. [@1,4,6,7]
 
 Police added Bharatiya Nyaya Sanhita section 317(2) to the theft case and
 registered a separate case under Sections 8/20 of the Narcotic Drugs and
 Psychotropic Substances Act. [@2,6] The accused was being produced before the
 court for further legal proceedings. [@2] Police then sent him to jail. [@1,6] Police said several cases were already
 registered against him at Sarojininagar and Para police stations in Lucknow and
-at Soharamau police station in Unnao district. [@2] Cases were also registered against him at Ashiana police station, and he had already been to jail in those cases. [@1,6]
+at Soharamau police station in Unnao district. [@2,7] The earlier cases comprised two theft cases at Sarojininagar, one theft case at Soharamau and a case involving assault and threats at Para, police said. [@7] Cases were also registered against him at Ashiana police station, and he had already been to jail in those cases. [@1,6]
