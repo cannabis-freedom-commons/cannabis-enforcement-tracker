@@ -1,50 +1,99 @@
 ---
-added_at: "2026-11-04T17:46:09.915Z"
-code: "BAZJSW"
-date: 2021-11-25
+added_at: '2026-11-04T17:46:09.915Z'
+code: BAZJSW
+date: '2021-11-25'
 country: my
 place: Putrajaya
-coordinates: [2.926, 101.696]
+coordinates:
+  - 2.926
+  - 101.696
 precision: locality
-type: sentence
+type: prosecution
 title: Bangladeshi student spared gallows in cannabis appeal
 summary: >-
-  Malaysia's Court of Appeal in Putrajaya set aside the conviction and death
-  sentence of Bangladeshi student Mohammad Habibul Hassan Khan for trafficking
-  3.88 kg of cannabis, ruling the prosecution failed to prove he knew the drugs
-  in a bag in his hostel room were his.
+  Malaysia’s Court of Appeal set aside the death sentence and conviction of Bangladeshi student
+  Mohammad Habibul Hassan Khan over 3.88 kg of cannabis. The court found that prosecutors had failed
+  to prove he knew what was in the bag found in his hostel room.
 figures:
   charged: 1
   kg_seized: 3.87566
+  acquitted: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
-  activity: [trafficking]
-  agency_types: [court]
-  case_stage: appeal
+  activity:
+    - trafficking
+  agency_types:
+    - court
+  case_stage: acquitted
   date_precision: exact
-  products: [{product: flower, kg: 3.87566}]
-  sentence_types: [death]
+  products:
+    - product: flower
+      kg: 3.87566
+  sentence_types:
+    - death
+  charges:
+    - trafficking cannabis
+  setting:
+    - school
 data_sources:
-  details.activity: [1, 2]
-  details.agency_types: [1, 2]
-  details.case_stage: [1, 2]
-  details.date_precision: [1, 2]
-  details.products: [1, 2]
-  details.sentence_types: [1, 2]
+  details.activity:
+    - 1
+    - 2
+  details.agency_types:
+    - 1
+    - 2
+  details.case_stage:
+    - 1
+    - 2
+  details.date_precision:
+    - 1
+    - 2
+  details.products:
+    - 1
+    - 2
+  details.sentence_types:
+    - 1
+    - 2
+  figures.charged:
+    - 1
+    - 2
+  figures.kg_seized:
+    - 1
+    - 2
+  figures.acquitted:
+    - 1
+    - 2
+  details.charges:
+    - 1
+    - 2
+  details.setting:
+    - 1
+    - 2
 status: verified
-tags: [death-sentence, appeal, bangladeshi-student]
+tags:
+  - death-sentence
+  - appeal
+  - bangladeshi-student
 sources:
   - title: In Putrajaya, Bangladeshi student escapes gallows for trafficking 3.8kg cannabis
     url: https://www.malaymail.com/news/malaysia/2021/11/25/in-putrajaya-bangladeshi-student-escapes-gallows-for-trafficking-3.8kg-cann/2023655
-    publisher: Malay Mail
-    date: 2021-11-25
+    publisher: Bernama via Malay Mail
+    date: '2021-11-25'
+    archived: https://web.archive.org/web/20250722020053/https://www.malaymail.com/news/malaysia/2021/11/25/in-putrajaya-bangladeshi-student-escapes-gallows-for-trafficking-3.8kg-cann/2023655
   - title: Malaysia sets aside death sentence of Bangladeshi student in cannabis trafficking case
     url: https://www.tbsnews.net/world/south-asia/malaysia-sets-aside-death-sentence-bangladeshi-student-cannabis-trafficking-case
+    archived: https://web.archive.org/web/20240223200707/https://www.tbsnews.net/world/south-asia/malaysia-sets-aside-death-sentence-bangladeshi-student-cannabis-trafficking-case
     publisher: The Business Standard
-    date: 2021-11-26
+    date: '2021-11-26'
 open_questions:
-  - The two outlets date the decision differently, with the Malay Mail reporting it on 25 November and The Business Standard on 26 November; this report uses the Malay Mail's dateline.
-  - The reports do not say whether the prosecution appealed further to the Federal Court.
+  - >-
+    Bernama reported that the court ruled on 25 November. The Business Standard, citing the Bernama
+    report in Malay Mail, dated the ruling to 26 November.
+  - The university and the value of the seized cannabis were not reported.
+  - Neither outlet reported whether prosecutors appealed to the Federal Court.
+also:
+  - sentence
+  - seizure
 ---
 
 On 25 November 2021 a three-member Court of Appeal panel in Putrajaya set aside the conviction and death sentence of Mohammad Habibul Hassan Khan, a 26-year-old Bangladeshi engineering student, for trafficking 3,875.66 grams of cannabis. [@1,2] The panel, led by Justice Hanipah Farikullah with Justices Che Mohd Ruzima Ghazali and Mariana Yahya, held that the appeal had merit because the prosecution had failed to prove the element of knowledge. [@1,2]

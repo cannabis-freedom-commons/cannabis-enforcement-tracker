@@ -1,114 +1,183 @@
 ---
 code: 394S77
-added_at: "2026-11-05T16:15:28.479738Z"
-date: 2026-11-03
+added_at: '2026-11-05T16:15:28.479738Z'
+date: '2026-11-03'
 country: br
 place: Estrada Paulista, Terra Roxa, western Paraná
-coordinates: [-24.1670468, -54.097432]
+coordinates:
+  - -24.1670468
+  - -54.097432
 precision: locality
 type: seizure
 title: 534 kg of marijuana found in two abandoned cars in Terra Roxa
 summary: >-
-  Three men fled into the woods when police approached two cars being loaded on Estrada Paulista in Terra Roxa, western Paraná, on 3 November 2026, and were not found. Officers took 534 kg of marijuana from the abandoned vehicles, a seizure the security forces put at R$ 1.254 million in losses to crime.
+  Three men fled into the woods when police approached two cars being loaded on Estrada Paulista in
+  Terra Roxa, western Paraná, on 3 November 2026, and were not found. Officers took 534 kg of
+  marijuana from the abandoned vehicles, a seizure the security forces put at R$ 1.254 million in
+  losses to crime.
 figures:
   kg_seized: 534
   value:
     amount: 1254000
     currency: BRL
+  arrested: 0
+  vehicles: 2
 media:
   - kind: photo
     url: https://ilustrado.com.br/mais-de-meia-tonelada-de-maconha-e-apreendida-em-veiculos-abandonados-em-terra-roxa/
     media_url: https://ilustrado.com.br/wp-content/webp-express/webp-images/uploads/2026/11/imagem-whatsapp-image-2026-11-04-at-15-39-03.jpg.webp
     publisher: Jornal Ilustrado
-    caption: 'Two vehicles left beside the vegetation on Estrada Paulista in Terra Roxa after three men fled into the woods, with 534 kg of marijuana found inside. Photo: Jornal Ilustrado'
+    caption: >-
+      Two vehicles left beside the vegetation on Estrada Paulista in Terra Roxa after three men fled
+      into the woods, with 534 kg of marijuana found inside. Photo: Jornal Ilustrado
 details:
-  activity: [trafficking]
-  agencies: [br-pf, br-pm]
-  agency_types: [police, gendarmerie]
+  activity:
+    - trafficking
+  agencies:
+    - br-pf
+    - br-pm
+  agency_types:
+    - police
+    - gendarmerie
   case_stage: investigation
   date_precision: exact
-  products: [{product: flower, kg: 534}]
-  setting: [vehicle]
+  products:
+    - product: flower
+      kg: 534
+  setting:
+    - vehicle
+    - border
 data_sources:
-  details.activity: [2, 5]
-  details.agencies: [1, 2]
-  details.agency_types: [1, 2]
-  details.case_stage: [1, 3, 4, 5, 2]
-  details.date_precision: [1, 3, 4, 5, 2]
-  details.products: [1, 3, 4, 5, 2]
-  details.setting: [1, 3, 4, 5]
-  figures.kg_seized: [1, 3, 4, 5, 2]
-status: verified
+  details.activity:
+    - 2
+    - 5
+  details.agencies:
+    - 1
+    - 2
+  details.agency_types:
+    - 1
+    - 2
+  details.case_stage:
+    - 1
+    - 3
+    - 4
+    - 5
+    - 2
+  details.date_precision:
+    - 1
+    - 3
+    - 4
+    - 5
+    - 2
+  details.products:
+    - 1
+    - 3
+    - 4
+    - 5
+    - 2
+  details.setting:
+    - 1
+    - 3
+    - 4
+    - 5
+  figures.kg_seized:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+  figures.arrested:
+    - 1
+    - 3
+    - 6
+    - 10
+  figures.vehicles:
+    - 1
+    - 3
+    - 6
+  figures.value:
+    - 1
+status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3e4f2bb3a8d190feabf4bff091904e57
-tags: [parana, terra-roxa, bpfron, operacao-protetor]
+tags:
+  - parana
+  - terra-roxa
+  - bpfron
+  - operacao-protetor
 sources:
   - title: Mais de meia tonelada de maconha é apreendida em veículos abandonados em Terra Roxa
     url: https://ilustrado.com.br/mais-de-meia-tonelada-de-maconha-e-apreendida-em-veiculos-abandonados-em-terra-roxa/
     publisher: Jornal Ilustrado
-    date: 2026-11-04
+    date: '2026-11-04'
     language: pt
   - title: PF, em ação integrada, apreende 534 quilos de maconha em Terra Roxa/PR
     url: https://www.gov.br/pf/pt-br/assuntos/noticias/2026/11/pf-em-acao-integrada-apreende-534-quilos-de-maconha-em-terra-roxa-pr
     publisher: Polícia Federal
-    date: 2026-11-04
+    date: '2026-11-04'
     language: pt
   - title: Segurança - Ação integrada apreende 534 quilos de maconha em Terra Roxa
     url: https://portalguaira.com/seguranca-acao-integrada-apreende-534-quilos-de-maconha-em-terra-roxa
     publisher: Portal Guaíra
-    date: 2026-11-05
+    date: '2026-11-05'
     language: pt
   - title: Veículos com maconha são apreendidos em Terra Roxa
     url: https://radiodifusora.net/veiculos-com-maconha-sao-apreendidos-em-terra-roxa
     publisher: Rádio Difusora do Paraná
-    date: 2026-11-05
+    date: '2026-11-05'
     language: pt
   - title: Traficantes fogem a pé e abandonam mais de meia tonelada de maconha em Terra Roxa
     url: https://portalnovasantarosa.com.br/noticia/traficantes-fogem-a-pe-e-abandonam-mais-de-meia-tonelada-de-maconha-em-terra-roxa
     publisher: Portal Nova Santa Rosa
-    date: 2026-11-05
+    date: '2026-11-05'
+    language: pt
+  - title: Receita Federal de Mundo Novo e polícia do Paraná apreendem meia tonelada de maconha
+    url: https://douradosinforma.com.br/noticias/policial/receita-federal-de-mundo-novo-e-policia-do-parana-apreendem-meia-tonelada-de-maconha
+    publisher: Dourados Informa
+    date: '2026-11-04'
+    language: pt
+  - title: Ação conjunta apreende meia tonelada de maconha às margens do Rio Paraná
+    url: https://www.campograndenews.com.br/cidades/interior/acao-conjunta-apreende-meia-tonelada-de-maconha-as-margens-do-rio-parana
+    archived: https://web.archive.org/web/20261108111840/https://www.campograndenews.com.br/cidades/interior/acao-conjunta-apreende-meia-tonelada-de-maconha-as-margens-do-rio-parana
+    publisher: Campo Grande News
+    date: '2026-11-04'
+    language: pt
+  - title: Receita Federal de Mundo Novo e polícia do Paraná apreendem meia tonelada de maconha
+    url: https://www.acriticadoms.com.br/noticia/455997/receita-federal-de-mundo-novo-e-policia-do-parana-apreendem-meia-tonelada-de-maconha
+    publisher: A Crítica do MS
+    date: '2026-11-04'
+    language: pt
+  - title: >-
+      Fiscais abrem um livro enviado pelo correio e encontram haxixe escondido entre as páginas;
+      caso fez parte de operação com R$ 29,5 milhões apreendidos
+    url: https://www.diariodolitoral.com.br/variedades/fiscais-abrem-um-livro-enviado-pelo-correio-e-encontram-haxixe-escondido-entre-as-paginas-caso-fez-parte-de-operacao-com-r-295-milhoes-apreendidos/
+    publisher: Diário do Litoral
+    date: '2026-11-07'
+    language: pt
+  - title: Operação Fronteira Receita Federal já soma cerca de R$ 30 milhões em apreensões
+    url: https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/operacao-fronteira-receita-federal-ja-soma-cerca-de-r-30-milhoes-em-apreensoes
+    publisher: Receita Federal
+    date: '2026-11-05'
     language: pt
 open_questions:
-  - The three suspects were not located; no arrests, charges or court outcome were reported for this seizure.
-  - The newspaper describes the bundles as a substance similar to marijuana, while the Federal Police statement calls it marijuana and a substance similar to marijuana; both give the 534 kg weight.
-  - The R$ 1.254 million figure appears only in the newspaper account, attributed to the security forces; the Federal Police statement gives no value.
-  - The detail that the men were unloading bundles from the woodland and fled into the mata ciliar appears only in the newspaper account; the Federal Police describes the vehicles merely as suspicious.
-  - No photograph of the seized marijuana itself was published with the opened pages; the available image shows the two abandoned vehicles.
-  - The coordinates use the centre of Terra Roxa, because the specific stretch of Estrada Paulista is not mapped.
-  - The new reports do not name Operação Protetor or the Nepom and Mundo Novo units that the earlier accounts attributed to the operation.
-  - Mídia Sudoeste credits the R$ 1,254,000 loss estimate to the BPFRON, which answers the earlier question of who attributed the value but gives no independent corroboration of the amount.
-  - The new reports give no arrest, charge or court development; the three suspects remained unlocated.
-  - 'Left out, as its quotation was not found in Mídia Sudoeste: A statement from the Border Police Battalion said the seizure represented an estimated loss of R$ 1,254,000 to crime.'
-  - 'Left out, as its quotation was not found in Mídia Sudoeste: The incident in Terra Roxa began on 3 November 2026, with 534 kg seized on Estrada Paulista.'
-  - The article gives no separate date for the patrol; 5 November 2026 is its publication date, while 3 November 2026 as the incident date comes from the earlier Federal Police and newspaper accounts.
-  - The three suspects were not located; no arrests, charges or court outcome were reported.
+  - >-
+    Federal Police and Portal Guaíra date the seizure to 3 November on Estrada Paulista in Terra
+    Roxa. Receita Federal’s roundup places it on the morning of 4 November near Guaíra, and Dourados
+    Informa attributes it to Mundo Novo.
+  - >-
+    The estimated R$1.254 million loss appeared in local coverage. Federal Police published no
+    value.
+  - No arrests, charges or court outcome were reported.
+  - The map marks Terra Roxa because the exact stretch of road was not identified.
 ---
 
-Three men loading bundles into two cars on a rural road in Terra Roxa ran into
-the riverside woodland when officers approached, abandoning a Hyundai Santa Fe
-and a GM S10 pickup. [@1,3,4,5] The teams searched the area but did not find the three
-suspects. [@1,3,5]
+Federal Police reported seizing 534 kilograms of marijuana on 3 November 2026 on a rural road in Terra Roxa, western Paraná. [@1,2,3,4,5] The Border Police Battalion, the Federal Police maritime unit and Receita Federal’s Mundo Novo office took part. [@1,2,6,8,10] Receita Federal described a seizure of the same weight near Guaíra on 4 November, and Dourados Informa placed it at Mundo Novo. [@6,7,8,9,10] The two local accounts published the same photo of the vehicles and seized bundles. [@1,6]
 
-The seizure was made on Tuesday 3 November 2026 in Terra Roxa, in western
-Paraná, in a joint action by the Military Police, the Federal Police and the
-Receita Federal. [@1,3,5] Officers patrolling rural roads saw two cars parked next
-to the vegetation with their headlights off. [@1,3,5] The incident was recorded on
-Estrada Paulista, during an operation carried out under Operação Protetor. [@1]
-The teams came from the Border Police Battalion (BPFron), the Federal Police's
-Special Maritime Police Nucleus (Nepom/PF) and the Receita Federal office in
-Mundo Novo, Mato Grosso do Sul. [@1]
+Officers saw people loading bundles into two vehicles beside vegetation on Estrada Paulista. [@1,3,5] Three people fled into riverside woodland, leaving a Hyundai Santa Fe and a GM S10 pickup behind. [@1,3,4,5] Officers searched the area and found no suspects. [@1,3,5,6,10]
 
-The bundles found in the vehicles weighed 534 kg after weighing. [@1,3,4,5] An Apple
-iPhone 17 Pro Max and a wallet with documents were also seized in the pickup.
-[@1] The vehicles, the drug and the other materials were sent to the Federal
-Police station in Guaíra for judicial police procedures. [@1,3,4,5] The security
-forces put the loss to crime at R$ 1.254 million. [@1]
-
-The Federal Police said an integrated action with the Paraná Military Police
-Border Battalion and the Receita Federal seized 534 kg of marijuana in Terra
-Roxa on Tuesday 3 November. [@2] The Federal Police said patrols monitoring
-rural roads saw two suspicious vehicles and found bundles of a substance similar
-to marijuana during the vehicle inspection. [@2] After weighing, the Federal
-Police put the total at 534 kg. [@2]
-
-The patrols monitored roads used by criminals to carry illegal goods in the border region, and the seizure formed part of operations against drug trafficking and cross-border crime in the Guaíra and Terra Roxa area. [@5]
+The teams sent the bundles, vehicles and other seized items to the Federal Police station in Guaíra. [@1,3,4,5,6,7,8,9,10] Jornal Ilustrado reported that the items included a phone and a wallet with documents and attributed an estimated R$1.254 million loss to the security forces. [@1]

@@ -1,54 +1,109 @@
 ---
 added_at_source: git
-added_at: "2026-11-02T13:41:39.000Z"
+added_at: '2026-11-02T13:41:39.000Z'
 code: 73CKDC
-date: 2005-04-29
+date: '2005-04-29'
 country: gb
 place: Hove Crown Court, East Sussex
-coordinates: [50.8333, -0.1714]
+coordinates:
+  - 50.8333
+  - -0.1714
 precision: locality
 type: sentence
-also: [arrest, prosecution]
+also:
+  - arrest
+  - prosecution
 title: Online cannabis dealers jailed over £500,000 internet drug shop
 summary: >-
-  Three men were jailed at Hove Crown Court on 29 April 2005 for running password-protected
-  websites that sold cannabis by post between late 2002 and December 2003. Ringleader Sean
-  Jackson received five years, and the court ordered him to repay £112,000 of criminal proceeds.
+  Three men were jailed at Hove Crown Court on 29 April 2005 for running password-protected websites
+  that sold cannabis by post between late 2002 and December 2003. Ringleader Sean Jackson received
+  five years, and the court ordered him to repay £112,000 of criminal proceeds.
 figures:
-  arrested: 3
-  charged: 5
+  arrested: 5
+  convicted: 5
+  sentenced: 5
 details:
-  activity: [sale]
-  agency_types: [police, court]
+  activity:
+    - sale
+  agency_types:
+    - police
+    - court
   case_stage: sentenced
-  products: [{product: flower}]
-  sentence_types: [community-service]
+  products:
+    - product: flower
+  sentence_types:
+    - prison
+    - community-service
+  agencies:
+    - Hertfordshire Constabulary
+    - Sussex Police
+    - National Hi-Tech Crime Unit
+    - Hove Crown Court
+  setting:
+    - online
+    - mail
+  charges:
+    - supplying cannabis
+    - concealing criminal proceeds
+  date_precision: approximate
 data_sources:
-  details.activity: [1]
-  details.agency_types: [1, 2]
-  details.case_stage: [1, 2]
-  details.products: [1, 2]
-  details.sentence_types: [2]
-  figures.arrested: [1]
-  figures.charged: [1, 2]
-status: verified
+  details.activity:
+    - 1
+  details.agency_types:
+    - 1
+    - 2
+  details.case_stage:
+    - 1
+    - 2
+  details.products:
+    - 1
+    - 2
+  details.sentence_types:
+    - 2
+  figures.arrested:
+    - 2
+  figures.convicted:
+    - 2
+  figures.sentenced:
+    - 2
+  details.agencies:
+    - 1
+    - 2
+  details.setting:
+    - 1
+    - 2
+  details.charges:
+    - 2
+status: reported
 created_by_model: meta/muse-spark
-tags: [internet, hove-crown-court, proceeds-of-crime, first-of-kind]
+tags:
+  - internet
+  - hove-crown-court
+  - proceeds-of-crime
+  - first-of-kind
 open_questions:
-  - The sentencing report was published on 4 May 2005 and says the men were sentenced on Friday; 29 April 2005 is inferred as that Friday.
-  - The reports do not say whether Jackson's five-year and two-year terms, or Harris's paired terms, run concurrently or consecutively.
-  - A proceeds hearing for Mark Harris had yet to take place at the time of the sentencing report, and its outcome is not in the opened sources.
+  - >-
+    The sentencing report was published on 4 May 2005 and says the men were sentenced on Friday; 29
+    April 2005 is inferred as that Friday.
+  - >-
+    The reports do not say whether Jackson's five-year and two-year terms, or Harris's paired terms,
+    run concurrently or consecutively.
+  - >-
+    A proceeds hearing for Mark Harris had yet to take place at the time of the sentencing report,
+    and its outcome is not in the opened sources.
+  - The reports give no weight for the cannabis sold or seized.
+  - The outcome of Jackson’s confiscation order was not reported.
 sources:
   - title: Police arrest 'online cannabis dealers'
     publisher: The Register
     url: https://www.theregister.com/offbeat/2003/12/22/police-arrest-online-cannabis-dealers/881087
     archived: https://web.archive.org/web/20260506142721/https://www.theregister.com/offbeat/2003/12/22/police-arrest-online-cannabis-dealers/881087
-    date: 2003-12-22
+    date: '2003-12-22'
   - title: On-line cannabis dealers sent to prison
     publisher: Pinsent Masons
     url: https://www.pinsentmasons.com/out-law/news/on-line-cannabis-dealers-sent-to-prison
     archived: https://web.archive.org/web/20250820153255/https://www.pinsentmasons.com/out-law/news/on-line-cannabis-dealers-sent-to-prison
-    date: 2005-05-04
+    date: '2005-05-04'
 ---
 
 Police arrested three people on 22 December 2003 on suspicion of selling almost half a million pounds worth of cannabis through password-protected websites. [@1] Officers from Hertfordshire Constabulary and Sussex Police, coordinated by the National Hi-Tech Crime Unit, raided three addresses that morning and seized drug-dealing evidence and four computers. [@1] The suspects were a 37-year-old man and a 33-year-old woman from Wheathampstead, Hertfordshire, and a 35-year-old man from Brighton, and their bank accounts were frozen. [@1] Customers with logins placed orders on the sites and received the drugs by post. [@1]

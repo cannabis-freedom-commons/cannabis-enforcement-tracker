@@ -1,51 +1,79 @@
 ---
 code: 3KCFW1
-added_at: "2026-11-07T01:23:21.82972Z"
-date: 2026-11-06
+added_at: '2026-11-07T01:23:21.82972Z'
+date: '2026-11-06'
 country: cy
 place: Nicosia
-coordinates: [35.1676, 33.3634]
+coordinates:
+  - 35.1676
+  - 33.3634
 precision: locality
 type: prosecution
 title: Five deny 30 charges over 230kg February drug haul in Nicosia
 summary: >-
-  Five defendants pleaded not guilty to all 30 charges over a February 2026 drug seizure in Nicosia that included 167kg of cannabis and 4.5kg of cannabis resin, and the Nicosia criminal court put the case back to 17 December. They remain in custody, and a defence lawyer argued four suspects held under the November Operation Plegma may be added to the indictment.
+  Five defendants pleaded not guilty to all 30 charges over a February 2026 drug seizure in Nicosia
+  that included 167kg of cannabis and 4.5kg of cannabis resin, and the Nicosia criminal court put
+  the case back to 17 December. They remain in custody, and a defence lawyer argued four suspects
+  held under the November Operation Plegma may be added to the indictment.
 figures:
   charged: 5
   kg_seized: 171.5
 data_sources:
-  figures.charged: [1]
-  figures.kg_seized: [1]
+  figures.charged:
+    - 1
+  figures.kg_seized:
+    - 1
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4de7b3254993fd1a406e71f2b0745fa6
-tags: [nicosia, plegma, cannabis-resin, organised-crime]
+tags:
+  - nicosia
+  - plegma
+  - cannabis-resin
+  - organised-crime
 sources:
   - title: Five plead not guilty over 230kg drugs haul
     url: https://cyprus-mail.com/2026/11/06/five-plead-not-guilty-over-230kg-drugs-haul
     publisher: Cyprus Mail
-    date: 2026-11-06
+    date: '2026-11-06'
   - title: Five Plead Not Guilty in Nicosia 230kg Drugs Case as More Arrests Not Ruled Out
     url: http://en.politis.com.cy/news/1064572/five-plead-not-guilty-in-nicosia-230kg-drugs-case-as-more-arrests-not-ruled-out
     publisher: Politis
-    date: 2026-11-06
-  - title: Five defendants deny 30 charges over 230kg drug seizure in Nicosia; trial adjourned to December 17
+    date: '2026-11-06'
+  - title: >-
+      Five defendants deny 30 charges over 230kg drug seizure in Nicosia; trial adjourned to
+      December 17
     url: https://www.kiprinform.com/en/news/five-defendants-deny-30-charges-over-230kg-drug-seizure-in-nicosia-trial-adjourned-to-december-17/
     publisher: Cyprus Inform
-    date: 2026-11-06
-  - title: Cyprus police freeze €750,000 in assets linked to suspected drug network | Pi News Cyprus and Cypriot News
+    date: '2026-11-06'
+  - title: >-
+      Cyprus police freeze €750,000 in assets linked to suspected drug network | Pi News Cyprus and
+      Cypriot News
     url: https://www.pinewsuk.com/cyprus-police-freeze-e750000-in-assets-linked-to-suspected-drug-network/
     publisher: Pi News
-    date: 2026-11-06
+    date: '2026-11-06'
 open_questions:
-  - The 171.5kg cannabis total is the sum of the 167kg of cannabis and 4.5kg of cannabis resin reported from the February phase; the cocaine is excluded.
+  - >-
+    The 171.5kg cannabis total is the sum of the 167kg of cannabis and 4.5kg of cannabis resin
+    reported from the February phase; the cocaine is excluded.
   - Only the case numbers are stated, not what the 30 charges allege or what penalties they carry.
   - The sources do not name the five defendants or say when they were arrested.
-  - It is not established whether the four remanded under Operation Plegma will be added to the indictment; the defence lawyer put it as a possibility.
-  - The sources disagree on the court's name, describing it as the Nicosia criminal court and the Nicosia Assize Court.
+  - >-
+    It is not established whether the four remanded under Operation Plegma will be added to the
+    indictment; the defence lawyer put it as a possibility.
+  - >-
+    The sources disagree on the court's name, describing it as the Nicosia criminal court and the
+    Nicosia Assize Court.
   - The page image is a file photo of the Nicosia district court and does not show the hearing.
-  - Pi News attributes to Christos Andreou the remark that the February drugs were intended for the Cypriot market; the Cyprus Mail account of the same hearing does not repeat it.
-  - The 26 arrests and 27 searches of Operation Plegma are recorded in a separate report on that operation.
+  - >-
+    Pi News attributes to Christos Andreou the remark that the February drugs were intended for the
+    Cypriot market; the Cyprus Mail account of the same hearing does not repeat it.
+  - >-
+    The 26 arrests and 27 searches of Operation Plegma are recorded in a separate report on that
+    operation.
+details:
+  related:
+    - cyprus-plegma-26-arrests
 ---
 
 Five defendants charged over the seizure of more than 230kg of drugs in Nicosia

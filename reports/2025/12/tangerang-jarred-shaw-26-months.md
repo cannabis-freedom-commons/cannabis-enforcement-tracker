@@ -1,61 +1,141 @@
 ---
 added_at_source: git
-added_at: "2026-11-02T11:14:26.000Z"
+added_at: '2026-11-02T11:14:26.000Z'
 code: XAZN7G
-date: 2025-12-10
+date: '2025-12-09'
 country: id
 place: Tangerang, Indonesia
-coordinates: [-6.178, 106.63]
+coordinates:
+  - -6.178
+  - 106.63
 precision: locality
 type: sentence
 title: American basketball player jailed 26 months in Indonesia over cannabis gummies
 summary: >-
-  An Indonesian court in Tangerang sentenced American basketball player Jarred Shaw to 26 months
-  in prison for possessing 132 cannabis gummies imported from Thailand. The trafficking charge,
-  which can carry the death penalty in Indonesia, was dropped in favour of the lesser
-  possession charge.
+  A court in Tangerang sentenced American basketball player Jarred Shaw to 26 months in prison for
+  possessing 132 cannabis gummies shipped from Thailand. Shaw said he used the gummies for Crohn’s
+  disease and later sought early release.
 figures:
+  arrested: 1
+  convicted: 1
+  sentenced: 1
   prison: 26 months
+  kg_seized: 0.869
 created_by_model: unknown
 details:
-  activity: [possession]
-  agency_types: [court]
+  agencies:
+    - id-polri
+  agency_types:
+    - police
+    - court
+  activity:
+    - possession
+  setting:
+    - home
+    - mail
+  products:
+    - product: edibles
+      kg: 0.869
+  charges:
+    - drug possession
   case_stage: sentenced
-  products: [{product: flower}]
-  sentence_types: [prison]
-  route: {from: [th], to: [id]}
-  setting: [home, prison]
+  sentence_types:
+    - prison
+  route:
+    from:
+      - th
+    to:
+      - id
+  date_precision: exact
 data_sources:
-  details.activity: [1, 2]
-  details.agency_types: [1, 2]
-  details.case_stage: [1, 2]
-  details.products: [1, 2]
-  details.route: [1, 2]
-  details.sentence_types: [1, 2]
-  details.setting: [1, 2]
-  figures.prison: [1, 2]
+  figures.arrested:
+    - 3
+  figures.convicted:
+    - 1
+    - 2
+  figures.sentenced:
+    - 1
+    - 2
+  figures.prison:
+    - 1
+    - 2
+  figures.kg_seized:
+    - 3
+  details.agencies:
+    - 3
+  details.agency_types:
+    - 1
+    - 2
+    - 3
+  details.activity:
+    - 1
+    - 2
+  details.setting:
+    - 1
+    - 3
+  details.products:
+    - 1
+    - 3
+  details.charges:
+    - 1
+    - 2
+  details.case_stage:
+    - 1
+    - 2
+  details.sentence_types:
+    - 1
+    - 2
+  details.route:
+    - 2
+    - 3
 status: verified
-tags: [possession, gummies, basketball, medical-claim]
+tags:
+  - possession
+  - gummies
+  - basketball
+  - medical-claim
 sources:
-  - title: Sick American basketball player jailed in Indonesia over cannabis gummies pleads for early release
+  - title: >-
+      Sick American basketball player jailed in Indonesia over cannabis gummies pleads for early
+      release
     url: https://srnnews.com/sick-american-basketball-player-jailed-in-indonesia-over-cannabis-gummies-pleads-for-early-release/
     publisher: SRN News
-    date: 2026-04-21
-  - title: Former Utah State Aggie Jarred Shaw avoids death penalty in Indonesia
-    url: https://clutchpoints.com/celebrity/former-utah-state-aggie-jarred-shaw-avoids-death-penalty-in-indonesia
-    publisher: ClutchPoints
-    date: 2025-12-12
+    date: '2026-04-21'
+  - title: Pro basketball player Jarred Shaw sentenced in Indonesia
+    url: https://andscape.com/features/pro-basketball-player-jarred-shaw-sentenced-in-indonesia/
+    archived: https://web.archive.org/web/20260305133222/https://andscape.com/features/pro-basketball-player-jarred-shaw-sentenced-in-indonesia/
+    publisher: Andscape
+    date: '2025-12-10'
+  - title: An American basketball player arrested in Indonesia for alleged drug smuggling
+    url: https://apnews.com/article/indonesia-american-basketball-player-drug-arrest-0926789be4bdce21e3e0fb58b889bb9d
+    archived: https://web.archive.org/web/20250521114202/https://apnews.com/article/indonesia-american-basketball-player-drug-arrest-0926789be4bdce21e3e0fb58b889bb9d
+    publisher: Associated Press
+    date: '2025-05-15'
+  - title: Ex-basketball player now in Indonesia hospital as he seeks prison release
+    url: https://www.aol.com/articles/ex-basketball-player-now-indonesia-204331000.html
+    publisher: USA TODAY via AOL
+    date: '2026-10-09'
 open_questions:
-  - The Reuters account dates the verdict only to last December; 10 December is the Wednesday named by the contemporary report published on 12 December.
-  - No weight for the 132 gummies was published.
-  - The outcome of Shaw's April 2026 plea for early release is not yet known.
-  - No photo of the arrest or the seized gummies could be confirmed in the opened sources.
+  - Andscape dates the sentence to Tuesday, 9 December 2025. ClutchPoints placed it a day later.
+  - >-
+    The police gave a gross weight for the gummies and did not report a separate weight for the
+    cannabinoid.
+  - No decision on early release was reported.
+  - The reports do not say whether anyone else was charged over the shipment.
+also:
+  - arrest
+  - seizure
+media:
+  - kind: photo
+    url: https://andscape.com/features/pro-basketball-player-jarred-shaw-sentenced-in-indonesia/
+    archived: https://web.archive.org/web/20260305133222/https://andscape.com/features/pro-basketball-player-jarred-shaw-sentenced-in-indonesia/
+    media_url: https://andscape.com/wp-content/uploads/2025/12/PHOTO-2025-12-08-23-34-48.jpg?w=636
+    publisher: Andscape
+    caption: Shaw (back) leaving court with advocate Donte West after the sentence
 ---
 
-An Indonesian court in Tangerang sentenced American basketball player Jarred Shaw, 35, to 26 months in prison after finding him guilty of drug possession. [@1,2]
+Police arrested Jarred Dwayne Shaw, an American player with the Tangerang Hawks, at his apartment complex on 7 May 2025 after customs flagged a parcel from Thailand. [@3,4] It held 132 cannabis gummies with a gross weight of 869 grams, police said. [@3] Police said Shaw told investigators he intended to share the gummies with fellow players. [@3] The Hawks terminated his contract and the Indonesian basketball league banned him for life. [@3,4]
 
-Shaw, a Texan who most recently played for the Tangerang Hawks in the Indonesian Basketball League, had faced the possibility of the death penalty under the country's strict drug laws. [@1,2] He admitted importing 132 cannabis gummies, saying they were to relieve the symptoms of Crohn's disease, a chronic inflammation of the digestive tract. [@1]
+On 9 December 2025 the court found Shaw guilty of possession and sentenced him to 26 months in prison. [@1,2] Police had said he could face life imprisonment or death, but the judge did not apply the trafficking enhancements. [@2,3] Shaw said he used the gummies to relieve symptoms of Crohn’s disease and had been unaware of Indonesian law. [@1,2] His advocate Donte West said the sentence gave Shaw a chance to return home to his family. [@2]
 
-Shaw was arrested in May 2025 in the lobby of his Tangerang apartment complex when he went to retrieve a package shipped from Thailand containing THC-infused gummies. [@1,2] The court convicted him of the lesser possession charge rather than trafficking, sparing him a far heavier penalty. [@1,2] He also received a lifetime ban from the Indonesian league. [@2]
-
-Speaking from a prison cell he shares with seven other people in April 2026, Shaw said incarceration had been disastrous for his health and pleaded for international pressure for an early release before he suffers permanent damage. [@1]
+In April 2026 Shaw told Reuters that his health was deteriorating in prison and asked for help securing an early release. [@1] USA TODAY reported in October that Shaw was receiving treatment for Crohn’s disease at the National Defense Center Hospital in Jakarta, where he had been since 10 July. [@4]
