@@ -47,29 +47,26 @@ sources:
     publisher: Outre-mer La 1ère
     date: 2026-09-15
     language: fr
-open_questions:
-  - The sources give no separate date for the operations, describing them only as recent and over recent days, so 15 September 2026, the publication date, is used as the incident date.
-  - No number of people arrested or placed in custody was published, only numerous or several, so no arrested figure is recorded.
-  - The cocaine and crack quantity was given only as several hundred grams without a split, and is excluded from cannabis figures.
-  - The 94 cartons of contraband cigarettes and five handguns are non-cannabis components and are excluded from cannabis figures.
-  - No commune or precise site in Guadeloupe was named, so the place is recorded at region precision.
-  - No names, charges, court outcomes or cannabis valuation were reported.
+  - title: 'Guadeloupe : la police porte un coup dur aux trafics de cigarettes, drogues et armes'
+    url: https://www.guadeloupe.franceantilles.fr/actualite/faits-divers/guadeloupe-la-police-porte-un-coup-dur-aux-trafics-de-cigarettes-drogues-et-armes-1093064.php
+    publisher: France-Antilles Guadeloupe
+    date: 2026-09-15
+    language: fr
 ---
 
 Officers of the Direction Territoriale de la Police Nationale in Guadeloupe,
 DTPN 971, carried out targeted checks and investigative work across the
 territory in recent days. [@1] The operations led to numerous arrests followed
-by placements in police custody. [@1] A second account confirms that several
+by placements in police custody. [@1,3] A second account confirms that several
 people were arrested during these interventions and placed in custody. [@2]
 
 Police reported seizing more than 11 kilograms of cannabis in the operations.
-[@1] The same police balance sheet cites 94 cartons of contraband cigarettes and
-more than 11 kilos of cannabis. [@2] Officers also seized five handguns, several
-of them with ammunition. [@2] Alongside the cannabis, police found several
-hundred grams of cocaine and crack. [@1]
+[@1,3] The same police balance sheet cites 94 cartons of contraband cigarettes and
+more than 11 kilos of cannabis. [@2,3] Officers also seized five handguns, several
+of them with ammunition. [@2,3] Alongside the cannabis, police found several
+hundred grams of cocaine and crack. [@1,3]
 
 Police present the results as the product of daily presence on the ground,
 targeted checks and investigation by different units. [@2] Police say the stated
 aim is to fight trafficking and remove illicit products and weapons likely to
 feed delinquency and violence from public streets. [@2]
-
