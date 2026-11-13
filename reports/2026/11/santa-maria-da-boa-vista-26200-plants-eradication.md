@@ -73,27 +73,25 @@ sources:
     publisher: Terra
     date: 2026-11-12
     language: pt
-open_questions:
-  - The person arrested was not named, and the two who fled were not identified; no charge or court outcome was reported.
-  - No weight, cultivated area or estimated value was published for the planting.
-  - The reports say part of the material was taken to the station and the rest burned on the land, without saying how many plants were in each part.
-  - Portal Agreste Violento names the Civil Police station in Cabrobó; Terra names the duty station in Cabrobó.
-  - Terra's summary calls the arrested person a man; the body of that article and the other reports say only that one person was arrested.
-  - The planting is placed only in the rural zone of Santa Maria da Boa Vista; the map uses the town centre.
+  - title: Operação Carcará erradica 26,2 mil pés de maconha e prende suspeito em Santa Maria da Boa Vista
+    url: https://infonewss.com/operacao-carcara-erradica-262-mil-pes-de-maconha-e-prende-suspeito-em-santa-maria-da-boa-vista/
+    publisher: Info Newss
+    date: 2026-11-12
+    language: pt
 ---
 
 Military police of the 7ª CIPM eradicated a planting of 26,200 cannabis plants
 in the rural zone of Santa Maria da Boa Vista, in the sertão of Pernambuco, on
 the night of Wednesday 11 November 2026. [@1] Three people were in the area when
-the teams arrived, but only one was arrested in the act. [@1] The other two
-suspects fled and were not found. [@1] The arrested suspect and the seized
+the teams arrived, but only one was arrested in the act. [@1,4] The other two
+suspects fled and were not found. [@1,4] The arrested suspect and the seized
 material were taken to the Civil Police station in Cabrobó, where the applicable
-measures were taken. [@1]
+measures were taken. [@1,4]
 
 The action was the 20th phase of Operation Carcará, after an intelligence survey
 by the unit, with support from the Malhas da Lei team and the Federal Police.
 [@2] Officers found 9,400 cannabis plants at harvest stage and 16,800 seedlings.
-[@1] Part of the material was collected and presented to the police authority.
+[@1,4] Part of the material was collected and presented to the police authority.
 [@1] The rest of the planting was burned by the officers on the land itself.
 [@1]
 
@@ -101,4 +99,3 @@ The action took place on Wednesday 11 November 2026, during the 20th phase of
 Operation Carcará. [@3] Officers of the 7th Independent Military Police Company
 carried out the operation, with support from the Malhas da Lei team and the
 Federal Police. [@3]
-
