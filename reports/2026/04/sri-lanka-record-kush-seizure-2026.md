@@ -126,6 +126,14 @@ sources:
     url: https://globalnation.inquirer.net/320114/sri-lanka-detains-22-buddhist-monks-for-drug-smuggling
     publisher: INQUIRER.net
     date: 2026-04-27
+  - title: 19 monks arrested at BIA test positive for narcotics
+    url: https://adaderana.lk/news/121859
+    publisher: Ada Derana
+    date: 2026-04-28
+  - title: 22 monks arrested with narcotics at BIA further remanded
+    url: https://adaderana.lk/news/122403
+    publisher: Ada Derana
+    date: 2026-05-12
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cn4v4nzwj94o
@@ -148,19 +156,18 @@ media:
     publisher: CNN
     caption: 'Sri Lankan monks arriving to appear before a court after their arrest in Negombo on 26 April 2026. Photo: Ishara S. Kodikara/AFP/Getty Images via CNN'
 open_questions:
-    - No charges, trial date or further court outcome beyond the seven-day remand was reported for the 22 monks or for the monk later arrested as the alleged organiser.
+    - No charges or court outcome after the 26 May remand have been reported for any of the 23 monks.
     - 'The substance description differs: CBS and the BBC report kush cannabis only, while Ada Derana reports more than 110 kg of Kush and Hashish with no split between the two, so a cannabis-only share cannot be separated from that account.'
     - CNN dates the arrests to 26 April 2026, while BBC Sinhala dates the airport arrival to Saturday 25 April.
     - 'Estimates of the haul''s value differ: CNN gives over US$3.45 million (1.1 billion rupees), while other accounts give about US$3.5 million.'
-    - 'Who organised the trip remains unclear: one account says a 23rd monk did, while investigators also described three monks from a Jamburaliya temple recruiting others, and the sponsor''s identity is not disclosed.'
+    - 'Who organised and financed the trip remains unclear: police described a monk as the organiser and two men posing as businessmen, one known only as “Haji”, while the sponsor is not identified and three Jamburaliya monks were also described as recruiters.'
     - Each monk's share is given as about 11 pounds (approximately 5 kg), which works out slightly above the 110 kg total.
-    - Reports that judicial medical tests found the suspects had used drugs do not say how many tested positive.
     - A May 2025 arrest of a 21-year-old British woman with 46 kg of cannabis at the same airport is a separate event not covered here.
 ---
 
 On the night of 25–26 April 2026 police arrested 22 Sri Lankan monks returning from Thailand at
 Bandaranaike International Airport with 110 kg of kush hidden in their luggage, valued at about US$3.5
-million; it was reported as the country's largest single cannabis seizure. [@1,23] The Police Narcotics
+million; it was reported as the country's largest single cannabis seizure. [@1,23,24] The Police Narcotics
 Bureau's airport unit acted on intelligence [@4,5,10,12], and the monks were arrested at about 10.10 pm.
 [@20] Customs called it the largest single detection of kush at the airport.
 [@3,6,7,9,11,12,13,14,16,17,19,20,23]
@@ -184,14 +191,14 @@ had told the others the parcels were "a donation" and that a van would collect t
 potentially did not know what they were carrying. [@2,18] Other investigators said three monks from a
 temple in Jamburaliya may have recruited 19 others through Facebook, that an alleged mastermind had been
 arrested at Meegahamulla in Gampaha, and that the group might have run a similar trip with 12 monks
-before. [@12] Police later named the organiser as a monk, Amithananda Thera, arrested after hiding in a
-temple, and said medical tests showed the suspects had used drugs. [@21] The Narcotics Bureau was
-examining links to local trafficking networks. [@22]
+before. [@12] Investigators said an earlier group of monks had brought narcotics to Sri Lanka on a previous trip and hidden them at a house in Athurugiriya, where the owner was arrested. [@24] Police later named the organiser as a monk, Amithananda Thera, arrested after hiding in a
+temple, and said medical tests showed the suspects had used drugs. [@21] Nineteen of the 22 monks tested positive for drug use, according to the Judicial Medical Officer. [@24] The Narcotics Bureau was
+examining links to local trafficking networks. [@22] Police said the operation was organised by two men posing as businessmen, one known by the alias “Haji”. [@24]
 
 ## Court and clergy
 
 The 22 appeared before the Negombo Magistrate's Court on Sunday and were remanded in custody for seven
-days. [@2,5,6,7,12,15,18] Senior clergy called them "imposter monks" [@6], and the chief prelates of the
+days. [@2,5,6,7,12,15,18] On 12 May 2026 the Negombo Magistrate's Court further remanded all 23 monks until 26 May. [@25] Senior clergy called them "imposter monks" [@6], and the chief prelates of the
 three main chapters said those found guilty would be expelled from the order. [@8,20] On 28 April
 President Anura Kumara Dissanayake held a meeting with senior monks and officials including the Inspector
 General of Police. [@12] Deputy Minister Gamagedara Dissanayake said monks travelling abroad must again
