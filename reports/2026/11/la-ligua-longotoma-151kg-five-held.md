@@ -98,6 +98,11 @@ sources:
     publisher: TVN
     date: 2026-11-12
     language: es
+  - title: Streamer Merello detenido con 151 kilos de marihuana en La Ligua
+    url: https://www.diarioeldia.cl/noticias/2026/11/12/156638-streamer-merello-detenido-con-151-kilos-de-marihuana-en-la-ligua
+    publisher: Diario el Día
+    date: 2026-11-12
+    language: es
 media:
   - kind: photo
     url: https://www.panoramanoticioso.cl/incautan-151-kilos-de-marihuana-en-longotoma-de-la-ligua/
@@ -114,8 +119,8 @@ media:
 Carabineros detained five adults, all with police records, in an anti-drug
 operation at kilometre 163 of Route 5 Norte at Longotoma in the commune of La
 Ligua. [@1,2,3,4,5,7,8] Officers seized 151 kilos of processed marijuana in the operation.
-[@1,3,4,5,6,7,8,11,13] Officers acting on intelligence work intercepted a pickup truck carrying
-the drugs and driven by one of the detainees. [@1,2,3,5,6,7,8] Chief prosecutor of Los Andes Ricardo Reinoso said the people were travelling from the north of the country to the central zone. [@10] The marijuana was in the rear of a red pickup. [@10] In follow-up steps, officers
+[@1,3,4,5,6,7,8,11,13,14] Officers acting on intelligence work intercepted a pickup truck carrying
+the drugs and driven by one of the detainees. [@1,2,3,5,6,7,8] Chief prosecutor of Los Andes Ricardo Reinoso said the people were travelling from the north of the country to the central zone. [@10] The marijuana was in the rear of a red pickup. [@10,14] In follow-up steps, officers
 detained four other people travelling in two vehicles who allegedly provided
 surveillance to facilitate the drug transfer, and seized nearly 1 million pesos
 in cash. [@1,2,3,4,5,6,7,8]
@@ -127,8 +132,8 @@ seizures on the province's routes had increased during 2026 thanks to
 intelligence work and police work, and said the government backed the work to
 break up gangs affecting residents' quality of life. [@1,3]
 
-The police procedure took place at about 10 in the morning on Saturday 31 October. [@4] The five detainees were placed at the disposition of the justice system for their detention control and formalization. [@4,7] Merello was placed under house arrest while the investigation continues. [@9,12] Reinoso said the five were brought before the Los Andes Guarantee Court, some under precautionary measures and others under more intensive measures such as preventive detention, and that the investigation has a four-month period. [@9,12]
+The police procedure took place at about 10 in the morning on Saturday 31 October. [@4] The five detainees were placed at the disposition of the justice system for their detention control and formalization. [@4,7] Merello was placed under house arrest while the investigation continues. [@9,12,14] Reinoso said the five were brought before the Los Andes Guarantee Court, some under precautionary measures and others under more intensive measures such as preventive detention, and that the investigation has a four-month period. [@9,12,14]
 
-Police seized $987,000 in cash during the procedure. [@6,8,9,11,12] Police also seized nine cell phones, two portable communication devices and three vehicles, none of which had a theft report. [@6,7,8] The five detainees were Chilean men aged 21 to 43. [@6,7,8,10,11,12] Police sources confirmed Merello's arrest to The Clinic. [@10,12] One of the five men detained was Merello, then the partner of former reality-show contestant Skarleth Labra. [@9,13]
+Police seized $987,000 in cash during the procedure. [@6,8,9,11,12,14] Police also seized nine cell phones, two portable communication devices and three vehicles, none of which had a theft report. [@6,7,8] The five detainees were Chilean men aged 21 to 43. [@6,7,8,10,11,12,14] Police sources confirmed Merello's arrest to The Clinic. [@10,12] One of the five men detained was Merello, then the partner of former reality-show contestant Skarleth Labra. [@9,13]
 
 Three of the detainees had criminal records with no cases currently open, while the other two had no records. [@8]
