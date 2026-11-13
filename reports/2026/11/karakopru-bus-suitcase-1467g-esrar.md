@@ -88,6 +88,16 @@ sources:
     publisher: Urfadasın
     date: 2026-11-12
     language: tr
+  - title: Şanlıurfa Karaköprü'de yolcu otobüsünde 1 kilo 467 gram esrar ele geçirildi
+    url: https://www.haberler.com/guncel/sanliurfa-karakopru-de-yolcu-otobusunde-1-kilo-467-20419850-haberi/
+    publisher: Haberler
+    date: 2026-11-12
+    language: tr
+  - title: Yolcunun valizinden uyuşturucu çıktı
+    url: https://www.iha.com.tr/sanliurfa-haberleri/yolcunun-valizinden-uyusturucu-cikti-514945259
+    publisher: İhlas Haber Ajansı
+    date: 2026-11-12
+    language: tr
 media:
   - kind: video
     url: https://www.urfanatik.com/video/sanliurfada-otobusteki-valizden-1-kilo-467-gram-esrar-cikti
@@ -108,15 +118,15 @@ media:
 
 Şanlıurfa provincial gendarmerie teams stopped a passenger bus on the
 Diyarbakır-Şanlıurfa highway in Karaköprü district during an operation against
-narcotics. [@1,3,4,8,9,10] The bus was stopped at the city entrance and searched. [@6] The Karaköprü District Gendarmerie Command and the narcotics branch carried out the operation on 9 November 2026. [@5] A detector dog supported the search of the bus's luggage
-compartment. [@2,3,4,6,10]
+narcotics. [@1,3,4,8,9,10] The bus was stopped at the city entrance and searched. [@6,11] The Karaköprü District Gendarmerie Command and the narcotics branch carried out the operation on 9 November 2026. [@5] A detector dog supported the search of the bus's luggage
+compartment. [@2,3,4,6,10,11]
 
 A search of a suitcase belonging to a passenger identified by his initials İ.K.
-found 1 kilogram 467 grams of esrar, the Turkish term for cannabis. [@1,3,4,5,6,7,9,10] Sabah
+found 1 kilogram 467 grams of esrar, the Turkish term for cannabis. [@1,3,4,5,6,7,9,10,11] Sabah
 reported the same seizure of 1 kilogram 467 grams of esrar from the passenger's
 suitcase. [@2]
 
 The suspect was taken into custody and held by gendarmerie teams pending
-referral to judicial authorities. [@1,3,4,8,9] The suspect was taken to the Karaköprü District Gendarmerie Command for processing. [@6,10] The Şanlıurfa provincial gendarmerie
+referral to judicial authorities. [@1,3,4,8,9] The suspect was taken to the Karaköprü District Gendarmerie Command for processing. [@6,10,11] The investigation into the seizure was continuing when the report was published. [@12] The Şanlıurfa provincial gendarmerie
 command said its work against narcotics would continue without interruption.
 [@1,4,9]
