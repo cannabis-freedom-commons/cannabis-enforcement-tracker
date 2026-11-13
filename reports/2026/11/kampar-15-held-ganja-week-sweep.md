@@ -57,18 +57,23 @@ sources:
     publisher: Berita Riau
     date: 2026-11-13
     language: id
+  - title: Perang terhadap Narkoba, Polres Kampar Tangkap 15 Tersangka dan Sita 1,2 Kg Ganja - Riau Pos
+    url: https://riaupos.jawapos.com/amp/kampar/2611130051/perang-terhadap-narkoba-polres-kampar-tangkap-15-tersangka-dan-sita-12-kg-ganja
+    publisher: Riau Pos
+    date: 2026-11-13
+    language: id
 ---
 
 Satresarkoba Polres Kampar and five sub-district police units arrested 15 people
 suspected of narcotics offences during a week-long operation in Kampar Regency,
-Riau. [@1,2,3] The operation ran from 5 to 11 November 2026. [@1,2,3] The squads
+Riau. [@1,2,3,4] The operation ran from 5 to 11 November 2026. [@1,2,3,4] The squads
 involved were Satresarkoba Polres Kampar and the police districts of Kampar
 Kiri, Tapung, Tapung Hulu, Tapung Hilir and Tambang, led by the squad chief Iptu
 Rifles. [@1,2]
 
 Police said they also seized 39.75 grams of methamphetamine and one ecstasy
-pill, neither of which is cannabis. [@1,2] Officers also seized 1.2 kilograms of
-dried ganja. [@1,2,3]
+pill, neither of which is cannabis. [@1,2,4] Officers also seized 1.2 kilograms of
+dried ganja. [@1,2,3,4]
 
 Kampar police chief AKBP Boby Putra Ramadan said the disclosures were part of
 the national police's anti-narcotics campaign and a quick-win programme of the
