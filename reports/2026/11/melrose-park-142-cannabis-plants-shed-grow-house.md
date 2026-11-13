@@ -40,17 +40,16 @@ sources:
   - title: Monster cannabis crop uncovered at inner southern property
     url: https://www.adelaidenow.com.au/truecrimeaustralia/police-courts-sa/police-seize-142-cannabis-plants-after-raiding-hidden-hydroponic-operation-in-melrose-park-shed/news-story/c65a981dbcf3cfe1414c0dfd8f805ce1
     publisher: The Advertiser
-open_questions:
-  - No arrests or charges were reported in the police statement.
-  - The opened page is paywalled, so only the headline and standfirst are accessible; the full article body could not be read.
-  - The accessible teaser does not name Melrose Park, give a plant count, or report arrests; those details rest on the existing police statement.
+  - title: Monster cannabis crop uncovered at inner southern property
+    url: https://www.weeklytimesnow.com.au/news/south-australia/police-seize-142-cannabis-plants-after-raiding-hidden-hydroponic-operation-in-melrose-park-shed/news-story/c65a981dbcf3cfe1414c0dfd8f805ce1
+    publisher: The Weekly Times
 ---
 
 South Australian Police are investigating after a cannabis grow house was
 uncovered at a Melrose Park home. [@1] About 9.45 am on Thursday 12 November
 2026, police attended the home to conduct a search. [@1] Police identified the
 house was vacant, but found that a very large shed on the property contained
-eight individual cannabis grow rooms. [@1,2]
+eight individual cannabis grow rooms. [@1,2,3]
 
 Officers located a large commercial cultivation consisting of 142 cannabis
 plants, significant quantities of prescribed hydroponic equipment and half a
