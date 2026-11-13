@@ -63,6 +63,11 @@ sources:
     publisher: Triangle News Lucknow
     date: 2026-11-13
     language: hi
+  - title: पीजीआई पुलिस ने एक किलो गांजे के साथ युवक को दबोचा, बिना नंबर प्लेट की ई-स्कूटी भी बरामद
+    url: https://cnewsbharat.com/hindi/news/lucknow-187442
+    publisher: CNEWS BHARAT
+    date: 2026-11-13
+    language: hi
 open_questions:
   - No time of day was given for the arrest, which the reports place on Thursday 12 November 2026.
   - The home village of the arrested man is given as Dadha in one report and as Dada Sikandarpur in another, both under Mohanlalganj police station.
@@ -74,9 +79,9 @@ open_questions:
 
 Police in Lucknow arrested a 20-year-old man from Mohanlalganj during a check of
 suspicious people and vehicles under the Barauli bridge in the PGI police
-station area. [@1] The man was identified as Amit Yadav, 20, a resident of Dadha
-village in Mohanlalganj. [@1] Police said they seized 1.2 kg of ganja, the Hindi
-term for cannabis, from his pocket and the e-scooter's footwell. [@1]
+station area. [@1,4] The man was identified as Amit Yadav, 20, a resident of Dadha
+village in Mohanlalganj. [@1,4] Police said they seized 1.2 kg of ganja, the Hindi
+term for cannabis, from his pocket and the e-scooter's footwell. [@1,4]
 
 Vrindavan Chowki officer-in-charge Sumit Bansal was leading the police team that
 made the arrest on an informer's tip-off. [@1] The ganja was packed in black
@@ -98,4 +103,3 @@ Lucknow said the arrest was part of a campaign against the illegal drug trade in
 the capital. [@3] The same press note referred to an earlier case, number
 618/2025 under sections 20, 29 and 8 of the NDPS Act, registered against him at
 the PGI station. [@3]
-
