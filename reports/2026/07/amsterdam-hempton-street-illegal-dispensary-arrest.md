@@ -60,25 +60,24 @@ sources:
     url: https://cbs6albany.com/news/local/schenectady-man-charged-with-possession-accused-of-running-amsterdam-illegal-dispensary-untaxed-marijuana-gummies-concentrate-jonathan-dixon
     publisher: CBS6 Albany (WRGB)
     date: 2026-07-09
-open_questions:
-  - The weights of marijuana and concentrate are police approximations in pounds and ounces, converted here to kilograms (about 6.35 kg flower, 11.34 kg concentrate and 0.057 kg gummies); no laboratory-confirmed weights were published.
-  - The article does not state what the marijuana concentrate comprised, so it is recorded as an unspecified cannabis product rather than hashish or oil.
-  - The exact statutory charge was not specified beyond felony criminal possession of marijuana, and no indictment, plea or trial date was reported.
-  - Only the WRGB account based on Amsterdam Police Department information could be opened; no police statement or second outlet report corroborated the details.
-  - The $2,500 is cash seized from the residence, not an estimated street value of the drugs, so it is recorded as confiscated money.
-  - The second image on the page is a screenshot with no caption tying it to this event, so it is not listed as media.
+  - title: Schenectady man charged with marijuana possession
+    url: https://www.dailygazette.com/news/crime/schenectady-man-amsterdam-marijuana-arrest/article_0a75953a-340a-4c44-b1e1-bfdcdcfc71e1.html
+    publisher: Daily Gazette
+    date: 2026-07-09
+    language: en
+    archived: https://web.archive.org/web/20260716160240id_/https://www.dailygazette.com/news/crime/schenectady-man-amsterdam-marijuana-arrest/article_0a75953a-340a-4c44-b1e1-bfdcdcfc71e1.html
 ---
 
 A 56-year-old Schenectady man was taken into custody during a search of a
 residence at 6 Hempton Street in the City of Amsterdam, in New York's Montgomery
 County. [@1] The Montgomery County Regional SWAT Team carried out the search
 warrant, which a city court judge signed after an investigation into illegal
-sales of untaxed marijuana products. [@1] Police concluded the Hempton Street
+sales of untaxed marijuana products. [@1,2] Police concluded the Hempton Street
 address was operating as an illegal dispensary. [@1] The man was found inside
 the residence and taken into custody without incident. [@1]
 
 Officers seized about 14 pounds (6.35 kg) of loose marijuana, 25 pounds (11.34
-kg) of marijuana concentrate and 2 ounces (57 g) of marijuana gummies. [@1] They
+kg) of marijuana concentrate and 2 ounces (57 g) of marijuana gummies. [@1] The Daily Gazette gives the total marijuana seizure at the Hempton Street residence as more than 40 pounds of marijuana products. [@2] They
 also took $2,500 in US currency and packaging and distribution materials,
 according to Amsterdam police. [@1]
 
@@ -88,4 +87,3 @@ remanded to the Montgomery County Correctional Facility. [@1] The Montgomery
 County Sheriff's Office and the Montgomery County district attorney, Christina
 Pearson, assisted the Amsterdam Police Department, and police said more charges
 were possible. [@1]
-
