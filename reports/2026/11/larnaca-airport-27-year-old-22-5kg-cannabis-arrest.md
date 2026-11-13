@@ -78,22 +78,27 @@ sources:
     url: https://en.politis.com.cy/news/cy-news/1067858/225-kg-of-cannabis-found-in-27-year-olds-luggage-in-larnaca
     publisher: Politis
     date: 2026-11-12
+  - title: 'Δ.Α.Ο.Ε. – ΥΚΑΝ: Εντοπισμός και κατάσχεση 22,5 κιλών κάνναβης στο Αεροδρόμιο Λάρνακας – Συνελήφθη 27χρονος'
+    url: https://www.cypruspolicenews.com/archives/62406
+    publisher: Cyprus Police News
+    date: 2026-11-12
+    language: el
 ---
 
 A 27-year-old man was arrested at Larnaca airport on Thursday morning after
-about 22.5 kilograms of cannabis was found in his luggage. [@1,4,5] He had arrived
+about 22.5 kilograms of cannabis was found in his luggage. [@1,4,5,6] He had arrived
 on a flight from Bangkok via Doha and was stopped for a check after drug squad
 officers assessed information they had received. [@1,4] Philenews described the
 arrested man as a British national. [@1] Kıbrıs Postası also described the arrested man as a British national. [@4] The Cyprus Mail reported instead that
 he was a Thai national. [@3]
 
 The operation was carried out by the Anti-Drugs Unit (YKAN) of the Directorate
-for Combating Organised Crime (DAOE), together with customs officials. [@1,4,5] A
-search of his travel bag found 42 plastic packages of cannabis. [@1,4,5] SigmaLive
+for Combating Organised Crime (DAOE), together with customs officials. [@1,4,5,6] A
+search of his travel bag found 42 plastic packages of cannabis. [@1,4,5,6] SigmaLive
 English described the packages as 42 nylon packages holding about 22.5 kilograms
 in total. [@2] The Cyprus Mail reported that customs seized the drugs and handed
 them over to YKAN. [@3]
 
 He was arrested for illegal importation, illegal possession and possession of
-drugs with intent to supply. [@1,4,5] DAOE-YKAN is continuing its investigation.
-[@1,4,5]
+drugs with intent to supply. [@1,4,5,6] DAOE-YKAN is continuing its investigation.
+[@1,4,5,6]
