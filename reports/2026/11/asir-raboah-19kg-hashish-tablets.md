@@ -51,6 +51,11 @@ sources:
     publisher: صحيفة عاجل
     date: 2026-11-12
     language: ar
+  - title: البحرين تدين الاعتداءات الحوثية على السعودية وتدعو مجلس الأمن لاتخاذ إجراءات رادعة
+    url: https://www.sra7h.com/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7-2/
+    publisher: صحيفة صراحة الالكترونية
+    date: 2026-11-12
+    language: ar
 open_questions:
   - Both reports are dated 12 November 2026, the day the Border Guard published its announcement, and neither gives a separate date for the interception itself.
   - No suspect was named or described, and the reports give no arrest figure, nationality, charge or court outcome.
@@ -61,11 +66,11 @@ open_questions:
 
 Saudi Border Guard land patrols in the Al-Raboah sector of Asir region foiled an
 attempt to smuggle 109,000 tablets under medical-trade controls and 19 kilograms
-of hashish. [@1] The Border Guard announced the case in a statement on its
+of hashish. [@1,3] The Border Guard announced the case in a statement on its
 official account on the X platform. [@2]
 
 The operation was part of the Border Guard's efforts against the smuggling of
-drugs and contraband. [@1] The 109,000 tablets are medicines under medical-trade
+drugs and contraband. [@1,3] The 109,000 tablets are medicines under medical-trade
 regulation, not cannabis. [@1] The Border Guard said it had completed the
 initial legal procedures and handed the seizures to the competent authority.
 [@1]
@@ -75,4 +80,3 @@ smuggling or promotion through the 911 number in Mecca, Medina, Riyadh and the
 Eastern Province, 999 elsewhere in the kingdom, the Border Guard's 994 line, and
 the anti-narcotics directorate's 995 line and email address, saying all reports
 are handled in strict confidence and the informant bears no liability. [@1]
-
