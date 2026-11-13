@@ -72,6 +72,11 @@ sources:
     publisher: Blok-a.com
     date: 2026-11-12
     language: id
+  - title: Jaringan Narkotika Digulung, Polres Malang Sita 16 Paket Sabu, Ganja, dan Ribuan Obat
+    url: https://memorandum.disway.id/polres-malang/read/174599/jaringan-narkotika-digulung-polres-malang-sita-16-paket-sabu-ganja-dan-ribuan-obat
+    publisher: Memorandum.co.id
+    date: 2026-11-13
+    language: id
 open_questions:
     - No weight was given for the three packets of ganja, so no cannabis kilogram figure can be recorded.
     - No charge, court date or sentence has been reported for the five suspects.
@@ -79,16 +84,17 @@ open_questions:
     - Whether the ganja was destined for local sale in Malang or for onward distribution was not stated.
     - Disway Malang's per-location breakdown and Tugu Malang's total both give 1,083 tramadol tablets, while MalangTIMES and RRI reported 883; the report keeps 883.
     - Police described the 400 tramadol tablets found on YDP as belonging to RH only on preliminary examination, without saying whether ownership was confirmed.
+    - The 883-tramadol figure in this article conflicts with the 1,083 figure reported by other outlets; the report keeps 883.
 ---
 
 Satresnarkoba Polres Malang, the regency drug squad, arrested five people
 suspected of distributing narcotics and unlicensed medicines during operations
-at four locations in Malang Raya on 9 November 2026. [@1,2,5,6] Police said the
+at four locations in Malang Raya on 9 November 2026. [@1,2,5,6,7] Police said the
 seizures from one suspect included 16 packets of methamphetamine and three
 packets of ganja, along with 759 LL pills, 474 alprazolam tablets and 480
-tramadol tablets. [@1,3,5,6] Kasatresnarkoba Polres Malang AKP Agus Yulianto listed
+tramadol tablets. [@1,3,5,6,7] Kasatresnarkoba Polres Malang AKP Agus Yulianto listed
 totals of 759 LL pills, 587 alprazolam tablets, 883 tramadol tablets and 4,000
-pills whose contents are still being identified. [@1,4,6]
+pills whose contents are still being identified. [@1,4,6,7]
 
 The first suspect, known only as HR, 24, was arrested at his house in Desa
 Parangargo, Wagir district, Malang regency, after a tip-off about suspected
