@@ -55,30 +55,35 @@ sources:
     publisher: NEWS.am
     date: 2026-10-12
     language: ru
+  - title: Полиция изъяла более 1 кг марихуаны и арестовала четверых, в том числе иностранцев
+    url: https://verelq.am/ru/node/178501
+    publisher: Verelq News
+    date: 2026-10-12
+    language: ru
 open_questions:
-  - The two marijuana amounts were reported as approximations — more than 300 grams and about 760 grams — so the recorded 1.06 kg total is the sum of those stated approximations.
-  - The report uses 5 October 2026, the date of the court-authorised searches, as the incident date; the roadside detention occurred on 3 October 2026.
-  - No names, citizenships beyond two Armenians and two foreigners, charges or custody details beyond the arrests were published.
-  - No court outcome was reported; the preliminary investigation was still under way.
-  - The glass tube with soot traces was not identified as cannabis and is not counted in cannabis figures.
-  - Only one accessible source for this event was found after searching in Russian, English and Armenian.
+    - The two marijuana amounts were reported as approximations — more than 300 grams and about 760 grams — so the recorded 1.06 kg total is the sum of those stated approximations.
+    - The report uses 5 October 2026, the date of the court-authorised searches, as the incident date; the detention took place on 3 October 2026 and the accounts give only its time, 16:30.
+    - No names, citizenships beyond two Armenians and two foreigners, charges or custody details beyond the arrests were published.
+    - No court outcome was reported; the preliminary investigation was still under way.
+    - The glass tube with soot traces was not identified as cannabis and is not counted in cannabis figures.
+    - All three accounts reproduce the same Interior Ministry announcement, so the case rests on one official statement and no independent reporting.
 ---
 
 Yerevan criminal police detained two Armenian citizens and two foreigners on the
 capital's Tsitsernakaberd highway at 16:30 on 3 October and took them to the
-department. [@1] All four were later arrested, while the preliminary
-investigation continued. [@1,2] They had been driving a Toyota and a Hyundai, and
-officers said one car held a mass resembling a narcotic drug. [@1]
+department. [@1,3] All four were later arrested, while the preliminary
+investigation continued. [@1,2,3] The Interior Ministry's press service announced the arrests. [@3] They had been driving a Toyota and a Hyundai, and
+officers said one car held a mass resembling a narcotic drug. [@1,3]
 
 In the Toyota driven by a 31-year-old man, officers found more than 300 grams of
-a mass resembling marijuana. [@1,2] In a hostel on Khanjyan Street in Yerevan,
+a mass resembling marijuana. [@1,2,3] In a hostel on Khanjyan Street in Yerevan,
 where a 37-year-old foreigner actually lived, officers found six packets
-containing about 760 grams of marijuana and electronic scales. [@1,2] A personal
+containing about 760 grams of marijuana and electronic scales. [@1,2,3] A personal
 search of a 31-year-old resident of Abovyan had found a glass tube bearing
-traces of soot. [@1,2]
+traces of soot. [@1,2,3]
 
 The operation was carried out by officers of the Yerevan Criminal Police
 Department's anti-drug-trafficking unit acting on operative information about
 drug sales. [@1] Both cars were sealed and placed in a specially guarded area.
-[@1] A criminal case was opened, and court-authorised searches were carried out
-on 5 October. [@1]
+[@1,3] A criminal case was opened, and court-authorised searches were carried out
+on 5 October. [@1,3]
