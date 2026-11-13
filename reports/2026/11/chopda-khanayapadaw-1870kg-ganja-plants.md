@@ -85,7 +85,7 @@ roots. [@1,2] Suspect Jumma R C Pavra fled when the police party reached the
 field, so no arrest had been made in the case. [@1,3] Police filed a case at
 Chopda Rural police station, where Inspector Sanjay Sonawane is continuing the
 investigation, including whether a wider network was behind the cultivation.
-[@1,3] Sub-divisional Police Officer Sunil Patil visited the site between 3 pm and 5:30 pm and gave directions for the investigation. [@2] Police registered the case as Crime Register No. 216/2026 under sections 20(a), 22 and 28 of the NDPS Act. [@4]
+[@1,3] Sub-divisional Police Officer Sunil Patil visited the site between 3 pm and 5:30 pm and gave directions for the investigation. [@2] Police registered the case as Crime Register No. 216/2026 under sections 20(a), 22 and 28 of the NDPS Act. [@4] The case was registered on the complaint of constable Shubham Gyaneshwar Patil of Chopda Rural police station. [@2]
 
 Officers placed the whole stock in a Swaraj tractor-trolley and weighed it on
 the Agricultural Produce Market Committee scale at 6,260 kg gross and 4,390 kg
@@ -96,4 +96,4 @@ rupees per kg. [@1,2] Police also seized the tractor and trolley used to carry t
 The cultivation was on Forest Department land rather than a private farm. [@1,2]
 Samples of the plants with green leaves, branches and seeds, along with soil
 from the field, were kept for chemical testing. [@1,3] The exact nature of the
-seized plants will be clear only after the laboratory report. [@1,3]
+seized plants will be clear only after the laboratory report. [@1,3] The size of the cultivation raised questions about how the Forest Department and local agencies work. [@2]
