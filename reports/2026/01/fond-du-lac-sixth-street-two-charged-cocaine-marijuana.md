@@ -53,31 +53,29 @@ sources:
     url: https://mix93.fm/news/2026/01/24/two-fond-du-lac-men-face-drug-charges
     publisher: Civic Media
     date: 2026-01-24
-open_questions:
-  - No weight was published for the seized marijuana or cocaine, so no cannabis kilogram figure is recorded; the 200-1,000 grams in the THC charge is a statutory range, not a seized amount.
-  - No cash amount or value estimate was published for the seized currency.
-  - WBAY gives Seltrecht's age as 47 while the other two outlets say 37; this report uses 37.
-  - The March 3 preliminary hearing year was not stated and no verdict or later court outcome has been reported.
+  - title: 2 charged, cocaine and marijuana seized in Fond du Lac drug trafficking bust
+    url: https://fox11online.com/news/crime/2-charged-cocaine-and-marijuana-seized-in-fond-du-lac-drug-trafficking-bust-police-department-willie-davis-jesse-seltrecht-investigation-jail-currency-lake-winnebago-area-metropolitan-enforcement-group
+    publisher: WLUK
+    date: 2026-01-23
 ---
 
 The Fond du Lac Police Department and the Lake Winnebago Area Metropolitan
 Enforcement Group Drug Unit executed a search warrant at 255 1/2 6th Street as
-part of an investigation into illegal drug sales. [@1] Officers seized U.S.
-currency, cocaine, marijuana and drug paraphernalia from the residence. [@1] Two
+part of an investigation into illegal drug sales. [@1,4] Officers seized U.S.
+currency, cocaine, marijuana and drug paraphernalia from the residence. [@1,4] Two
 people -- 50-year-old Willie Davis and 37-year-old Jesse Seltrecht -- were
-arrested and taken to the Fond du Lac County Jail. [@1] Both men were taken into
+arrested and taken to the Fond du Lac County Jail. [@1,4] Both men were taken into
 custody on probation or parole holds and transported to the Fond du Lac County
 Jail. [@3]
 
-Two people are facing charges after the drug bust in Fond du Lac. [@1] On
+Two people are facing charges after the drug bust in Fond du Lac. [@1,4] On
 Thursday, Davis was charged. [@1] His listed charges included possession with
-intent to deliver THC (200-1,000 grams). [@1] Seltrecht was charged with
+intent to deliver THC (200-1,000 grams). [@1,4] Seltrecht was charged with
 possession with intent to deliver cocaine (1-5 grams) as a second and subsequent
-offense. [@1] All of the charges carried party-to-a-crime modifiers. [@2]
+offense. [@1,4] All of the charges carried party-to-a-crime modifiers. [@2]
 
 Both men made initial appearances in Fond du Lac County Court on Friday, where
 cash bond was set at $15,000 each and preliminary hearings were scheduled for
 March 3. [@3] Fond du Lac police Lieutenant Nicholas Hahn said illegal drug
 activity poses a serious threat to community safety and that the operation
 showed the department would take decisive action against traffickers. [@1]
-
