@@ -63,36 +63,31 @@ sources:
     publisher: واد زم
     date: 2026-11-12
     language: ar
-open_questions:
-  - The accounts give no date for the drone flight; 12 November 2026, the publication date, is used as the incident date.
-  - The prison concerned is not named and is identified only as one of Morocco's prisons.
-  - No weight is given for the hashish the drone carried.
-  - No number is given for the accomplices arrested, and the prisoner is not identified.
-  - No charges, court stage or sentence are reported.
-  - All the accounts reproduce Tamek's statement to the committee, with no independent witness account.
-  - Whether the drone was still in flight when it was seized, or had reached the window and stayed there, is not stated.
-  - The photo published with the report has no caption or credit and is not confirmed to show the seized drone.
+  - title: التامك يكشف تفاصيل إحباط تهريب المخدرات إلى السجون باستعمال طائرة «درون»
+    url: https://expresstv.ma/en-vedette/155426/
+    publisher: اكسبريس TV
+    date: 2026-11-13
+    language: ar
 ---
 
 Mohamed Saleh Tamek, the general delegate for prison administration and
 reintegration, disclosed a foiled attempt to bring drugs into one of Morocco's
-prisons. [@1] He spoke during a debate on his department's budget before the
+prisons. [@1,6] He spoke during a debate on his department's budget before the
 House of Representatives' justice committee on Wednesday. [@1] The prisoner the
 delivery was meant for, the drone and all the people behind the attempt were
-caught, Tamek said. [@2] He credited the vigilance of prison staff. [@2]
+caught, Tamek said. [@2] He credited the vigilance of prison staff. [@2,6]
 
 The drone was small and shaped like a small bird, he said. [@3] It reached the
 bars of a cell window carrying hashish. [@4] The competent services then
-intercepted the attempt and seized the drone. [@1] The intervention prevented
+intercepted the attempt and seized the drone. [@1,6] The operation also resulted in the seizure of the drugs, Tamek said. [@6] The intervention prevented
 the attempt from succeeding, Tamek said. [@1] The security intervention also
 caught the targeted prisoner and the people who planned and carried out the
 operation. [@3]
 
 Tamek called drug smuggling into prisons a "very terrible" thing. [@1] He said
 one such case had been recorded. [@2] He put the number of drug "barons" in
-Moroccan prisons at between 800 and 1,000. [@2] They are not allowed to keep
+Moroccan prisons at between 800 and 1,000. [@2,6] They are not allowed to keep
 telephones in their cells, unlike other prisoners, he said. [@2]
 
 The account, carried by several Moroccan outlets, presents the drone as a new
 technique used by trafficking networks to get past prison security. [@5]
-
