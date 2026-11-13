@@ -66,21 +66,16 @@ sources:
     publisher: thestival.gr
     date: 2026-11-12
     language: el
-open_questions:
-  - The exact courier branch in Attica where the parcel was collected was not named.
-  - The date on which customs intercepted the parcel was not stated.
-  - The English account gives no separate date for the arrest; the Greek accounts date it to midday on 11 November 2026.
-  - The accounts give a total gross weight of 2,260 grams, so the net weight of the cannabis alone is not stated.
-  - No street value was given for the cannabis seized.
-  - No court date or outcome has been reported since the man was taken to the prosecutor.
-  - The sender of the parcel and how it was addressed were not reported.
-  - 'Left out, as its quotation was not found in in.gr: The cannabis in the parcel was raw, with a total gross weight of 2 kilograms and 260 grams.'
-  - Left out products, as its quotation was not found in in.gr.
+  - title: 'Συνελήφθη 21χρονος στην Αττική: Εισήγαγε 2,2 κιλά κάνναβης από τις ΗΠΑ μέσω ταχυδρομικού δέματος'
+    url: https://www.skai.gr/news/greece/attiki-syllipsi-21xronou-gia-22-kila-kannavis-apo-tis-ipa-meso-taxydromikou-dematos
+    publisher: Skai.gr
+    date: 2026-11-12
+    language: el
 ---
 
 Narcotics officers of the Hellenic Police's Organised Crime Directorate arrested
 a 21-year-old Greek man at midday on Wednesday 11 November 2026 in an area of
-Attica, on suspicion of importing drugs into Greece from the United States. [@2]
+Attica, on suspicion of importing drugs into Greece from the United States. [@2,5]
 The case came to light after a check carried out by officials of the customs
 office of Athens International Airport on a parcel that had been sent from the
 United States to Greece. [@3] The parcel contained 2.26 kilograms of cannabis.
@@ -88,10 +83,9 @@ United States to Greece. [@3] The parcel contained 2.26 kilograms of cannabis.
 Organised Crime then carried out a police operation to trace the recipient. [@4]
 
 The officers arrested the 21-year-old at the moment he collected the parcel from
-a courier company's branch in Attica. [@3] Police said the quantity of cannabis
-was intended for further distribution. [@3] From his possession officers seized
+a courier company's branch in Attica. [@3,5] Police said the quantity of cannabis
+was intended for further distribution. [@3,5] From his possession officers seized
 2,260 grams of raw cannabis and a mobile phone. [@2] A criminal case was filed
 against him on charges of drug importation, possession and trafficking. [@1] He
 was taken to the competent prosecuting authority for further criminal
 proceedings. [@3]
-
