@@ -58,6 +58,11 @@ sources:
     publisher: DUNAVMOST.com
     date: 2026-11-12
     language: bg
+  - title: Organised crime police find two cannabis greenhouses in Sevlievo municipality, detain man
+    url: https://burgasmedia.com/news/gdbop-razkri-dve-oranzherii-s-konop-v-obshtina-sevlievo-zadarzhan-e-mazh?lang=en
+    publisher: BurgasMedia
+    date: 2026-11-12
+    language: en
 open_questions:
   - The seized amount is stated as nearly 50 kilograms ("близо 50 килограма"), an approximate figure rather than a measured weight.
   - No laboratory confirmation of the plant material was reported, and no street value estimate was published.
@@ -67,21 +72,22 @@ open_questions:
   - Left out environment, as its quotation was not found in Инфомрежа.
   - Left out products, as its quotation was not found in Инфомрежа.
   - Left out plants destroyed, as its quotation was not found in Инфомрежа.
+  - The second Penal Code provision is given as Article 354c in the BurgasMedia account and in the Interior Ministry statement, while the report sentence says Article 354b.
 ---
 
 Officers of GDBOP, the Interior Ministry's directorate for combating organised
 crime, found two equipped greenhouses for growing plants of the cannabis genus
 during a specialised operation in Sevlievo municipality on 10 November 2026.
-[@1,3] Acting under urgent conditions, officers searched two private properties
+[@1,3,4] Acting under urgent conditions, officers searched two private properties
 and found two working greenhouses holding 33 plants at different stages of
-growth. [@1] Police also seized nearly 50 kilograms of raw cannabis material
-that was in the process of drying. [@1,3]
+growth. [@1,4] Police also seized nearly 50 kilograms of raw cannabis material
+that was in the process of drying. [@1,3,4]
 
 Investigators gathered data on the involvement of a 48-year-old local man, and
-he was detained for up to 24 hours under the Interior Ministry Act. [@1,3] A
+he was detained for up to 24 hours under the Interior Ministry Act. [@1,3,4] A
 pre-trial proceeding was opened under Article 354a, paragraph 1 and Article 354b
 of the Penal Code, and the materials were reported to the Gabrovo District
-Prosecutor's Office. [@1,3]
+Prosecutor's Office. [@1,3,4]
 
 The Interior Ministry's own statement dates the operation to 10 November 2026
 and gives the same figures: two greenhouses in two private properties, 33 plants
