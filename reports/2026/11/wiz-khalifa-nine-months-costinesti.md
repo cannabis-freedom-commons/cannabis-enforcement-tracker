@@ -139,6 +139,11 @@ sources:
     publisher: Radio Impuls
     date: 2026-11-11
     language: ro
+  - title: Wiz Khalifa, din nou în fața judecătorilor după condamnarea pentru incidentul de la „Beach, Please!”
+    url: https://cugetliber.ro/stiri-eveniment-wiz-khalifa-din-nou-in-fata-judecatorilor-dupa-condamnarea-pentru-incidentul-de-la-beach-please-569616
+    publisher: CugetLiber.ro
+    date: 2026-11-12
+    language: ro
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/c93wxp2p05xo
@@ -155,10 +160,10 @@ media:
 On Thursday 18 December 2025 the Constanța Court of Appeal upheld prosecutors' appeal and sentenced
 Thomaz Cameron Jibril, the American rapper Wiz Khalifa, to nine months in prison for possessing
 risk drugs for personal use. [@1,2,3,14,21] The court's final decision replaced an earlier tribunal fine of
-3,600 lei and ordered the term served in detention. [@1,2,7,14,16]
+3,600 lei and ordered the term served in detention. [@1,2,7,14,16,23]
 
 Prosecutors said that on 13 July 2024, around 23:55, Jibril possessed 18.53 grams of cannabis and
-smoked a cannabis cigarette on stage during the Beach Please festival in Costinești. [@1,6,8,12,13,14,15,16] Police had
+smoked a cannabis cigarette on stage during the Beach Please festival in Costinești. [@1,6,8,12,13,14,15,16,23] Police had
 briefly detained him after the concert in 2024 before releasing him pending trial. [@2,16] After his release, Khalifa said he had not meant to show disrespect to Romania by smoking on stage, that the officers had been decent and let him go, and that he would return soon, next time without a giant joint. [@22]
 
 Romanian police told News.ro he was placed under national search and that an international warrant
@@ -168,9 +173,9 @@ Judges said the public consumption at a youth festival normalised illegal drug u
 
 The charge was personal possession, not trafficking, under Law 143/2000. [@1,2]
 
-On 3 November the Constanta Court of Appeal set aside the decision that had convicted American rapper Wiz Khalifa in Romania for smoking cannabis on the stage of the Beach, Please! festival at Costinesti. [@3] The judges admitted the artist's contestation in annulment against penal decision No. 1222/P of 18 December 2025 in case No. 7777/118/2024. [@3,4,6,7,9] With that ruling the prison-execution warrant issued by the Constanta Tribunal also falls. [@3,5,6,7,9,10,11,12,14,15,16,17,18,19,20,21,22] The cancelled prison-execution warrant was No. 269 of 18 December 2025. [@22] The DIICOT prosecutors' appeal will be heard again on 12 November 2026 at 16:00, and the court ordered steps for Wiz Khalifa to take part by videoconference. [@3,4,7,10,11,12,13,14,16,17,18,19,20,21,22] State-advanced court costs remain on him. [@3,21]
+On 3 November the Constanta Court of Appeal set aside the decision that had convicted American rapper Wiz Khalifa in Romania for smoking cannabis on the stage of the Beach, Please! festival at Costinesti. [@3] The judges admitted the artist's contestation in annulment against penal decision No. 1222/P of 18 December 2025 in case No. 7777/118/2024. [@3,4,6,7,9] With that ruling the prison-execution warrant issued by the Constanta Tribunal also falls. [@3,5,6,7,9,10,11,12,14,15,16,17,18,19,20,21,22,23] The cancelled prison-execution warrant was No. 269 of 18 December 2025. [@22] The DIICOT prosecutors' appeal will be heard again on 12 November 2026 at 16:00, and the court ordered steps for Wiz Khalifa to take part by videoconference. [@3,4,7,10,11,12,13,14,16,17,18,19,20,21,22,23] State-advanced court costs remain on him. [@3,21]
 
-On 3 November the Bucharest Court of Appeal admitted Khalifa's contestation in annulment and set aside the Constanța Court of Appeal's penal decision of 18 December 2025. [@6,8,9,10,12,13,14,15,16,17,18,19,20] At Khalifa's request, the High Court of Cassation and Justice transferred the annulment file from the Constanța Court of Appeal to the Bucharest Court of Appeal for judgment. [@6,8,12,13,14,15]
+On 3 November the Bucharest Court of Appeal admitted Khalifa's contestation in annulment and set aside the Constanța Court of Appeal's penal decision of 18 December 2025. [@6,8,9,10,12,13,14,15,16,17,18,19,20] At Khalifa's request, the High Court of Cassation and Justice transferred the annulment file from the Constanța Court of Appeal to the Bucharest Court of Appeal for judgment. [@6,8,12,13,14,15,23]
 
 The appeal retrial will take place at the Bucharest Court of Appeal. [@7,9,10,11]
 
