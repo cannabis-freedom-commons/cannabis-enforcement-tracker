@@ -71,6 +71,11 @@ sources:
     publisher: खबर कर्मयोगी न्यूज
     date: 2026-11-12
     language: hi
+  - title: CG-नशे के खिलाफ पुलिस की बड़ी कार्रवाई, गांजा-चिट्टा और नकली पिस्टल के साथ आरोपी गिरफ्तार... – Naya Bharat Live
+    url: https://nayabharat.live/cg-%E0%A4%A8%E0%A4%B6%E0%A5%87-%E0%A4%95%E0%A5%87-%E0%A4%96%E0%A4%BF%E0%A4%B2%E0%A4%BE%E0%A4%AB-%E0%A4%AA%E0%A5%81%E0%A4%B2%E0%A4%BF%E0%A4%B8-%E0%A4%95%E0%A5%80-%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A5%80/
+    publisher: Naya Bharat Live
+    date: 2026-11-13
+    language: hi
 open_questions:
   - The ganja weight is the police-recorded weight of material described as ganja, with no laboratory confirmation reported.
   - The tip, cordon and recovery are dated 11 November, while both accounts say the arrest was recorded and the suspect produced in court on 12 November; 11 November is used as the incident date.
@@ -84,11 +89,11 @@ open_questions:
 
 Padmanabhpur police arrested a 26-year-old man after a tip that a youth was
 moving about near the railway crossing under the Urla dam bridge to sell ganja.
-[@1] Police named him Suryadev Kothari, alias Gopa, 26, a resident of
-Kundrapapara, Potiyakala, Durg. [@1] On searching him, officers found 3 kg 630 g
-of ganja in a white sack. [@1] Police estimated the ganja at about ₹1,80,000.
+[@1,3] Police named him Suryadev Kothari, alias Gopa, 26, a resident of
+Kundrapapara, Potiyakala, Durg. [@1,3] On searching him, officers found 3 kg 630 g
+of ganja in a white sack. [@1,3] Police estimated the ganja at about ₹1,80,000.
 [@1] The search also turned up a pistol with a magazine and ₹17,500 in cash.
-[@1] Police seized a scooter, registration CG07BY5096, that they said was being
+[@1,3] Police seized a scooter, registration CG07BY5096, that they said was being
 used for ganja sales, and valued it at about ₹30,000. [@1] Police put the total
 value of the ganja, pistol, cash and scooter at about ₹2,27,500. [@1]
 
@@ -98,8 +103,7 @@ of the Arms Act. [@2] He was arrested on 12 November and produced in court. [@1]
 The court sent him to judicial remand. [@1] Police said the investigation was
 continuing. [@2]
 
-The account said he kept the pistol and magazine to frighten people. [@1] Local
+The account said he kept the pistol and magazine to frighten people. [@1,3] Local
 Hindi news site Khabar Karmyogi carried the same police account and the same 3
 kg 630 g recovery. [@2] Police said action against illegal ganja sellers and
 people keeping weapons in the district was continuing. [@1]
-
