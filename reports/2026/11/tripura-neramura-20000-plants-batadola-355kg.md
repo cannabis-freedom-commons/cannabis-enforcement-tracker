@@ -108,21 +108,15 @@ sources:
     publisher: Jagarantripura.com
     date: 2026-11-12
     language: bn
-open_questions:
-    - The sources place the plantation only in a forest between the Jatrapur and Melaghar police station jurisdictions; the map point is approximate.
-    - Plant numbers are given as more than 20,000 and the plots as six to seven, so both are approximate.
-    - No area in acres or hectares and no value for the destroyed crop were published.
-    - No cultivator, owner or suspect was named in either operation, and no arrest was reported.
-    - The Neramura drive has no separate date beyond 'today' in reports published on 12 November; the Batadola search is dated Thursday 12 November.
-    - The Batadola haul was treated as unclaimed; who stored it and whether it was bound for Bangladesh or other markets is unknown.
-    - Syandan Patrika noted that police had made no arrests in recent ganja seizures and said the reason was being discussed across Sonamura.
-    - Whether the Neramura drive is counted in the 1.5 crore plants announced for the past year in Sonamura subdivision is not stated.
-    - The seized material is described as dried ganja; no laboratory confirmation was reported.
+  - title: Tripura Police Destroy Over 20,000 Cannabis Plants, Seize 355.5 Kg of Dry Ganja in Sepahijala
+    url: https://www.nationpathindia.com/national/tripura-police-destroy-20000-cannabis-plants-seize-355-5-kg-ganja-sepahijala
+    publisher: Nation Path India
+    date: 2026-11-12
 ---
 
 Tripura Police destroyed more than 20,000 illegally cultivated cannabis plants
 in the protected Neramura forest in Sepahijala district on 12 November 2026.
-[@1,9] The operation was led by Jatrapur police station officer-in-charge Parthanath Bhowmik. [@9] A team from Jatrapur police station, supported by Tripura State Rifles
+[@1,9,10] The operation was led by Jatrapur police station officer-in-charge Parthanath Bhowmik. [@9,10] A team from Jatrapur police station, supported by Tripura State Rifles
 personnel, cut the plants on forest department land across six to seven plots
 between the Jatrapur and Melaghar police station areas. [@3,5] The team trekked
 eight to nine kilometres through hilly terrain, and the growers stayed away.
@@ -132,8 +126,8 @@ gone on for a long time while the growers managed the police. [@7]
 In a separate operation the same day, Sonamura police and the 81st Battalion of
 the Border Security Force searched Batadola forest land and found 355.5 kg of
 dried ganja in abandoned packets. [@6] Police treated the haul as unclaimed and
-confiscated it after legal formalities. [@1] Police estimated its market value
-at Rs 1,77,75,000, about Rs 1.77 crore. [@2] Sonamura police station officer in
+confiscated it after legal formalities. [@1,10] Police estimated its market value
+at Rs 1,77,75,000, about Rs 1.77 crore. [@2,10] Sonamura police station officer in
 charge Inspector Tapas Das said police had begun an investigation to establish
 who owned the ganja. [@6] The recovery was made under the Narcotic Drugs and
 Psychotropic Substances (NDPS) Act. [@8]
