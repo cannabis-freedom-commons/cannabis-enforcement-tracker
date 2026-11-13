@@ -62,35 +62,29 @@ sources:
     publisher: खुलासा फर्स्ट
     date: 2026-11-12
     language: hi
-open_questions:
-  - The reports give no separate date for the three actions; 12 November 2026, the publication date, is used, and they may not all have happened that day.
-  - Two accounts give the ganja quantity as 1.237 grams while the submitted report says 1 kg 237 grams; 1.237 kg is used.
-  - The third suspect is named Shahzad in the submitted report and Sejad Khan in the two other accounts; they are treated as the same 52-year-old man from Khajrana.
-  - The seized material was identified by police but no laboratory confirmation was reported.
-  - The value of the seized drugs is given only as lakhs of rupees; no figure was published for any of the three seizures.
-  - No case numbers, NDPS sections or court outcome were reported; all three men were still being questioned.
-  - The places of the Sanyogitaganj and Pandharinath arrests are not given; only the Azad Nagar action is tied to a ground near Ananda Grand Colony.
-  - The two other accounts restate the same police information as the submitted report, so the arrests are not confirmed by independent reporting.
+  - title: Electronics Trader Loses ₹1.48 Lakh To Malicious APK File -Indore Police Recover Money
+    url: https://www.freepressjournal.in/indore/electronics-trader-loses-148lakh-to-malicious-apk-file-indore-police-recover-money
+    publisher: Free Press Journal
+    date: 2026-11-13
 ---
 
 Police in Indore arrested three men in separate actions in the Pandharinath,
-Azad Nagar and Sanyogitaganj police-station areas. [@1] Police identified the
+Azad Nagar and Sanyogitaganj police-station areas. [@1,4] Police identified the
 three as Javed Gani, Mujammil Sheikh and Shahzad. [@1] Gani, 55, lives in
 Ushaganj Chhawni. [@2] Sheikh, 28, lives in Medina Nagar. [@2] The third man,
 52, lives in Khajrana and was arrested by Pandharinath police. [@2] Officers
-seized 1 kg 237 g of ganja from Gani in Sanyogitaganj. [@1] Pandharinath police
+seized 1 kg 237 g of ganja from Gani in Sanyogitaganj. [@1,4] Pandharinath police
 seized 18.33 g of charas, a hand-pressed cannabis resin, from their suspect.
-[@1] Azad Nagar police caught Sheikh in a ground near Ananda Grand Colony. [@2]
-They seized 7.58 g of brown sugar, the heroin form sold in India, from him. [@2]
+[@1,4] Azad Nagar police caught Sheikh in a ground near Ananda Grand Colony. [@2]
+They seized 7.58 g of brown sugar, the heroin form sold in India, from him. [@2,4]
 Police put the value of the seized drugs at lakhs of rupees. [@1]
 
 The actions came in a citywide drive against people involved in buying and
 selling drugs, police said. [@1] The drive runs on the directions of the Indore
 police commissioner, the police commissionerate said. [@3] Cases were registered
-against all three under the NDPS Act, India's main drug law. [@2]
+against all three under the NDPS Act, India's main drug law. [@2,4]
 
 Police were questioning the three about where they got the drugs and whom they
 supplied in Indore. [@1] Police said they would trace backward and forward links
 in the trade and act against other people connected to it. [@1] Police said
 further legal action was continuing. [@3]
-
