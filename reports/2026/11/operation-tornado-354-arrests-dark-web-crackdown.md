@@ -42,6 +42,11 @@ sources:
     publisher: Kosmo Online
     date: 2026-11-13
     language: ms
+  - title: 全球跨國掃蕩暗網逮354人 查獲近6噸毒品與52億元資產
+    url: https://www.ftvnews.com.tw/news/detail/2026B12W0874
+    publisher: 民視新聞網 (FTV News, AFP)
+    date: 2026-11-12
+    language: zh
 open_questions:
   - No separate weight for the cannabis within the almost one tonne of drugs seized in Europe was published in this source.
   - The 5.8-tonne headline total combines European and United States seizures that mix cannabis with fentanyl, amphetamines, ketamine, MDMA, cocaine and other drugs, so no combined total is recorded as cannabis.
@@ -51,16 +56,16 @@ open_questions:
 ---
 
 United States and European officials said police arrested 354 people in a global
-crackdown on dark-web users. [@1] Europol coordinated the worldwide sting,
+crackdown on dark-web users. [@1,2] Europol coordinated the worldwide sting,
 codenamed Operation TorNado, with other authorities between May 2025 and October
 2026, leading to hundreds of raids worldwide. [@1] Most arrests were in the
 United States (132), followed by Britain (59), Hungary (45), Germany (41) and
 France (23). [@1]
 
 In Europe, authorities seized almost one tonne of drugs including amphetamines,
-ketamine, MDMA, cocaine and cannabis. [@1] In the United States, more than 4.8
+ketamine, MDMA, cocaine and cannabis. [@1,2] In the United States, more than 4.8
 tonnes of drugs were found, along with 152 firearms and US$166 million in cash
-and cryptocurrency. [@1] Police forces in 14 countries took part in the
+and cryptocurrency. [@1] The value of the cash and cryptocurrency seized by US authorities, 1.5 billion euros, is about 5.2 billion New-Taiwan dollars and 1.66 billion US dollars. [@2] Police forces in 14 countries took part in the
 operation. [@1]
 
 FBI Deputy Director Christopher Raia said Operation TorNado addressed
@@ -69,4 +74,3 @@ said the operation highlighted the resilience of fast-evolving dark-web markets
 that keep adapting despite takedowns. [@1] Raia said Operation TorNado should
 stand as a warning to anyone using the dark web to sell fentanyl, synthetic
 opioids and other dangerous drugs. [@1]
-
