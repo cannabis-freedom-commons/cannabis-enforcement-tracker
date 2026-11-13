@@ -78,6 +78,11 @@ sources:
     publisher: İlke Haber Ajansı (İLKHA)
     date: 2026-11-12
     language: tr
+  - title: Şanlıurfa’da Yolcu Otobüsünde 1 Kilo 467 Gram Esrar Ele Geçirildi
+    url: https://www.medyaurfa.com/sanliurfada-yolcu-otobusunde-1-kilo-467-gram-esrar-ele-gecirildi
+    publisher: Medya Urfa
+    date: 2026-11-12
+    language: tr
 media:
   - kind: video
     url: https://www.urfanatik.com/video/sanliurfada-otobusteki-valizden-1-kilo-467-gram-esrar-cikti
@@ -93,15 +98,15 @@ media:
 
 Şanlıurfa provincial gendarmerie teams stopped a passenger bus on the
 Diyarbakır-Şanlıurfa highway in Karaköprü district during an operation against
-narcotics. [@1,3,4,8] The bus was stopped at the city entrance and searched. [@6] The Karaköprü District Gendarmerie Command and the narcotics branch carried out the operation on 9 November 2026. [@5] A detector dog supported the search of the bus's luggage
+narcotics. [@1,3,4,8,9] The bus was stopped at the city entrance and searched. [@6] The Karaköprü District Gendarmerie Command and the narcotics branch carried out the operation on 9 November 2026. [@5] A detector dog supported the search of the bus's luggage
 compartment. [@2,3,4,6]
 
 A search of a suitcase belonging to a passenger identified by his initials İ.K.
-found 1 kilogram 467 grams of esrar, the Turkish term for cannabis. [@1,3,4,5,6,7] Sabah
+found 1 kilogram 467 grams of esrar, the Turkish term for cannabis. [@1,3,4,5,6,7,9] Sabah
 reported the same seizure of 1 kilogram 467 grams of esrar from the passenger's
 suitcase. [@2]
 
 The suspect was taken into custody and held by gendarmerie teams pending
-referral to judicial authorities. [@1,3,4,8] The suspect was taken to the Karaköprü District Gendarmerie Command for processing. [@6] The Şanlıurfa provincial gendarmerie
+referral to judicial authorities. [@1,3,4,8,9] The suspect was taken to the Karaköprü District Gendarmerie Command for processing. [@6] The Şanlıurfa provincial gendarmerie
 command said its work against narcotics would continue without interruption.
-[@1,4]
+[@1,4,9]
