@@ -43,28 +43,31 @@ sources:
     publisher: radarkepahiang.id (Disway)
     date: 2026-11-12
     language: id
+  - title: Ganja 509 Gram dan Sabu Dimusnahkan Kejari Kepahiang, Jangan Rusak Masa Depan Generasi Muda!
+    url: https://harianbengkuluekspress.bacakoran.co/kepahiang/read/59538/ganja-509-gram-dan-sabu-dimusnahkan-kejari-kepahiang-jangan-rusak-masa-depan-generasi-muda
+    publisher: harianbengkuluekspress.id
+    date: 2026-11-12
+    language: id
 open_questions:
-  - No figure was published for the number of suspects, defendants or convictions behind the 15 narcotics cases.
-  - The 509.3 grams is the combined weight of ganja from all 15 narcotics cases, so no weight is given for any single case.
-  - No value estimate was published for the destroyed ganja or the other evidence.
-  - The report does not describe the method used to destroy the ganja and the other narcotics.
-  - Only one account of this destruction could be opened; a Tribun Bengkulu report of the same event was not accessible.
+    - No figure was published for the number of suspects, defendants or convictions behind the 15 narcotics cases.
+    - The 509.3 grams is the combined weight of ganja from all 15 narcotics cases, so no weight is given for any single case.
+    - No value estimate was published for the destroyed ganja or the other evidence.
+    - The report does not describe the method used to destroy the ganja and the other narcotics.
 ---
 
 The Kepahiang District Attorney's Office destroyed evidence from 31 general
 criminal cases decided by the Kepahiang District Court whose verdicts had become
 final, known in Indonesia as inkrah, on Thursday 12 November 2026. [@1] The
 exercise was held in the yard of the prosecutor's office and was the second
-destruction of evidence carried out there in 2026. [@1]
+destruction of evidence carried out there in 2026. [@1,2]
 
 Ari Pratama, who heads the office's asset recovery and evidence management
 section, said the evidence came from cases handled between July and November
 2026. [@1] Narcotics cases made up the largest group, 15 cases, and the cannabis
 among them weighed 509.3 grams, alongside 24.6 grams of crystal methamphetamine.
-[@1]
+[@1,2]
 
 According to the prosecutor's office, the evidence came from four different
 classes of offence, dominated by narcotics cases. [@1] Bladed weapons and
 clothing that the court had ordered confiscated for destruction were destroyed
-along with the drugs. [@1]
-
+along with the drugs. [@1,2]
