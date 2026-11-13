@@ -93,18 +93,12 @@ sources:
     date: 2021-03-23
     language: fr
 open_questions:
-  - The identities of the thirteen people arrested and any court outcomes were not reported in the opened sources.
-  - A later analysis reported contacts saying part of the haul leaked back to traffickers, which the anti-drug office denied, saying the resin was incinerated on 24 April 2021; the opened sources do not resolve this dispute.
-  - This source gives no separate incident date beyond its 17 May 2021 publication date and a March-April operation window, so the 2 March 2021 date stays from earlier sources.
-  - The same article also reports a separate South African cocaine seizure of 973 bricks with 10 arrests and a combined 287 arrests across March-April operations, which are not cannabis figures for this report and are left out here.
-  - This account states the arrests without naming an Agadez arrest location and gives no identities or court outcomes beyond committal to custody.
-  - This account specifies concealment in a Beninese-registered tanker supposedly carrying hydrocarbons and watertight packages bearing recipient names, details not in the existing sentences.
-  - A report added on 8 November 2026 is the same AFP dispatch already carried by lematin.ch; it is not independent reporting.
-  - The only image on this page is captioned as an illustration, so it is not evidence of this seizure.
-  - The VOA Afrique page is the AFP dispatch also carried by lematin.ch and 20 minutes, so it is not independent reporting of the seizure.
-  - This account attributes the first-from-Lebanon statement to Interior Minister Alkache Alhada at a press presentation, while existing sentences attribute it to agency spokesman Adili Toro.
-  - This account says the thirteen suspects were arrested and committed to custody (écrouées) but does not say where each was held and gives no identities or court outcomes.
-  - This account names an Indian company as the shipping intermediary for the Lebanon-to-Lomé leg, a detail not in the existing sentences.
+  - The thirteen suspects arrested in Niger were not named, accounts differ on how precisely they locate the arrests, and no court outcomes were reported.
+  - A later analysis reported claims that some resin returned to traffickers, while the anti-drug office said the haul was incinerated on 24 April 2021.
+  - The May coverage gives a March–April operation window, while earlier accounts date the Niamey seizure to 2 March.
+  - The May coverage reports 287 arrests across multiple operations and separately reports a South African cocaine seizure of 973 bricks with 10 arrests.
+  - The accounts from lematin.ch, 20 minutes and VOA Afrique on 6 March carry the same AFP dispatch.
+  - Accounts attribute the statement that this was the first known drug shipment from Lebanon to either Interior Minister Alkache Alhada or anti-drug agency spokesman Adili Toro.
   - Seven arrests in Togo were reported without names, charges or court outcomes.
 media:
   - kind: photo
