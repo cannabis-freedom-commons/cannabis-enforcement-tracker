@@ -69,8 +69,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-12
     language: hi
-open_questions:
-    - It is unclear whether the 2026 Crime Branch case in her prior-record list is this arrest or an earlier case the same year.
+  - title: 'MP News: भोपाल के होटल में एमडी ड्रग्स के साथ पकड़ा गया युवक, 10 किलो गांजे के साथ 60 वर्षीय महिला गिरफ्तार'
+    url: https://www.bhaskarhindi.com/city/bhopal/man-caught-with-md-drugs-at-a-bhopal-hotel-60-year-old-woman-arrested-with-10-kg-of-cannabis-1390989
+    publisher: Dainik Bhaskar Hindi
+    date: 2026-11-12
+    language: hi
 ---
 
 Bhopal Crime Branch arrested 60-year-old Kiran Ahirwar in the Govindpura area on
@@ -83,10 +86,10 @@ caught her. [@1,3,5]
 
 Searching the bag, officers found ganja wrapped in transparent plastic, weighing
 10 kg 100 grams in total. [@1,3,4,5] Police put the value of the seized ganja at about
-Rs 3 lakh. [@1,2,3,4,5] Police identified the woman as Kiran Ahirwar (60), a resident of
+Rs 3 lakh. [@1,2,3,4,5,6] Police identified the woman as Kiran Ahirwar (60), a resident of
 Kainchi Chhola in the Chhola Mandir police-station area. [@1,2,3,5] Police said she
-works as a labourer and is illiterate. [@1,3] During questioning she admitted the ganja belonged to her. [@5]
+works as a labourer and is illiterate. [@1,3,6] During questioning she admitted the ganja belonged to her. [@5]
 
 Police registered a case against her under sections 8 and 20 of the NDPS Act.
-[@1,2,3,4,5] Police said earlier drug-trafficking cases had already been registered against her, including at Bajaria police station and the Crime Branch. [@4,5] Police said four NDPS Act cases had been registered against her between 2019 and 2026: at Chhola Mandir in 2019, at Bajaria in 2021, and by the Crime Branch in 2024 and 2026. [@5] Police said they were now tracing the ganja supply chain and other people
-linked to the network. [@1,5]
+[@1,2,3,4,5,6] Police said earlier drug-trafficking cases had already been registered against her, including at Bajaria police station and the Crime Branch. [@4,5] Police said four NDPS Act cases had been registered against her between 2019 and 2026: at Chhola Mandir in 2019, at Bajaria in 2021, and by the Crime Branch in 2024 and 2026. [@5] Police said they were now tracing the ganja supply chain and other people
+linked to the network. [@1,5,6]
