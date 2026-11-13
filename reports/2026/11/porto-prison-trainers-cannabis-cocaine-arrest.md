@@ -53,18 +53,22 @@ sources:
     publisher: Jornal de Notícias
     date: 2026-11-12
     language: pt
-open_questions:
-  - The reported total of more than 100 grams covers cannabis resin and cocaine together, with no separate cannabis weight published, so no cannabis kilograms are recorded.
-  - One outlet gives the man's age as 26 while the other accounts give 28; this report uses 28.
-  - The exact split between cannabis resin and cocaine within the seizure was not reported.
-  - Whether the inmate who was to receive the trainers faced any action was not reported.
-  - No court outcome or coercion measure was reported yet.
+  - title: Polícia Judiciária detém homem por tentar introduzir droga no Estabelecimento Prisional do Porto
+    url: https://averdade.com/6695268797/policia-judiciaria-detem-homem-por-tentar-introduzir-droga-no-estabelecimento-prisional-do-porto/
+    publisher: A Verdade
+    date: 2026-11-12
+    language: pt
+  - title: Visita recluso na prisão no Porto e tenta passar-lhe droga. Acabou detido
+    url: https://www.noticiasaominuto.com/pais/3082971/visita-recluso-na-prisao-no-porto-e-tenta-passar-lhe-droga-acabou-detido
+    publisher: Notícias ao Minuto
+    date: 2026-11-12
+    language: pt
 ---
 
 A 28-year-old man was detained by the Judicial Police on Wednesday 11 November
-while allegedly trying to introduce drugs into Porto Prison. [@1] The arrest was
+while allegedly trying to introduce drugs into Porto Prison. [@1,4] The arrest was
 carried out by the Judicial Police's Northern Directorate with the Prison Guard
-Corps over suspected aggravated drug trafficking. [@1] He had gone to the prison
+Corps over suspected aggravated drug trafficking. [@1,5] He had gone to the prison
 in the early afternoon to visit an inmate. [@1] During the visit he took off the
 trainers he was wearing and handed them to the inmate, who exchanged his own
 footwear in the same way. [@1] The exchange was detected and the footwear was
@@ -72,11 +76,10 @@ seized. [@2]
 
 Inside the trainers officers found several wraps containing suspected narcotics.
 [@1] Police examinations confirmed more than 100 grams of drugs, namely cannabis
-resin and cocaine. [@1] The episode occurred at the Custoias prison complex,
+resin and cocaine. [@1,5] The episode occurred at the Custoias prison complex,
 where prison guards detected the handover and the Porto Judicial Police detained
 the visitor. [@3]
 
 The suspect, aged 28 and with no criminal record, was detained for a first
 judicial examination to decide coercion measures. [@1] He was to be brought
 before the Matosinhos investigating judge for that first examination. [@3]
-
