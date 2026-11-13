@@ -64,29 +64,33 @@ sources:
     publisher: Estación FM
     date: 2026-11-13
     language: es
+  - title: Lucha contra el narcotráfico. Dos hermanos fueron detenidos por comercializar cocaína y marihuana bajo la modalidad delivery
+    url: https://www.miraelnorte.com.ar/policiales/dos-hermanos-fueron-detenidos-por-comercializar-cocaina-y-marihuana-bajo-la-modalidad-delivery.html
+    publisher: Mira el Norte
+    date: 2026-11-13
+    language: es
 open_questions:
-  - No weight was published for the seized marijuana doses, so no kilogram figure is recorded.
-  - The cocaine doses seized in the same raid are excluded from cannabis figures, and no combined drug total is used.
-  - No source gives a raid date separate from publication; 13 November 2026 is the publication date of all three reports.
-  - The two detainees were not named and no ages beyond adulthood were given.
-  - No charge wording beyond the alleged infringement of Law 23.737, custody decision or court outcome was reported.
+    - No weight was published for the seized marijuana doses, so no kilogram figure is recorded.
+    - The cocaine doses seized in the same raid are excluded from cannabis figures, and no combined drug total is used.
+    - No source gives a raid date separate from publication; 13 November 2026 is the publication date of all four reports.
+    - The two detainees were not named and no ages beyond adulthood were given.
+    - No charge wording beyond the alleged infringement of Law 23.737, custody decision or court outcome was reported.
 ---
 
 Two adult brothers were detained in Cruz del Eje, in northern Córdoba province,
-accused of selling cocaine and marijuana by delivery. [@1] Officers of the
+accused of selling cocaine and marijuana by delivery. [@1,4] Officers of the
 Fuerza Policial Antinarcotráfico carried out the operation after an
-investigation directed by the Ministerio Público Fiscal. [@1] The raid took
-place at a house at Avellaneda 600 in barrio Villa Elaine. [@2]
+investigation directed by the Ministerio Público Fiscal. [@1,4] The raid took
+place at a house at Avellaneda 600 in barrio Villa Elaine. [@2,4]
 
 Officers seized several doses of cocaine and marijuana, two cannabis sativa
-plants and other items of interest to the case. [@1] According to the
+plants and other items of interest to the case. [@1,4] According to the
 investigation, the two detainees, both adults and brothers, sold drugs in the
-area through home deliveries. [@1] The FPA operation in Cruz del Eje followed
+area through home deliveries. [@1,4] The FPA operation in Cruz del Eje followed
 investigations directed by the Ministerio Público Fiscal and ended with the
-detention of two adult men and the seizure of drugs. [@3]
+detention of two adult men and the seizure of drugs. [@3,4]
 
 The Fiscalía de Lucha contra el Narcotráfico of Cruz del Eje ordered the accused
-and everything seized to be transferred to judicial headquarters. [@1] The case
+and everything seized to be transferred to judicial headquarters. [@1,4] The case
 is being investigated as an alleged infringement of National Narcotics Law No.
-23.737. [@1]
-
+23.737. [@1,4]
