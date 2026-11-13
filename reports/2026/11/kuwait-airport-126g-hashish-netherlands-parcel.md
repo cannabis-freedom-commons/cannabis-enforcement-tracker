@@ -55,6 +55,24 @@ sources:
     publisher: السياسة
     date: 2026-11-12
     language: ar
+  - title: الجمارك تضبط مواد يُشتبه بأنها حشيش وكوكايين داخل طرد قادم من هولندا
+    url: http://alwatan.kuwait.tt/articledetails.aspx?id=836949&yearquarter=20264
+    publisher: الوطـــن الإلكترونية
+    date: 2026-11-12
+    language: ar
+  - title: '«الجمارك»: ضبط حشيش وكوكايين داخل طرد حلويات قادم من هولندا'
+    url: https://sarmad.com/352899/
+    publisher: سرمد
+    date: 2026-11-12
+    language: ar
+  - title: Sweets Package From Netherlands Exposes Drug Smuggling Attempt at Kuwait Airport
+    url: https://www.arabtimesonline.com/news/sweets-package-from-netherlands-exposes-drug-smuggling-attempt-at-kuwait-airport/
+    publisher: Arab Times
+    date: 2026-11-13
+  - title: Drugs concealed inside chocolate and biscuit containers seized at Kuwait International Airport
+    url: https://timeskuwait.com/drugs-concealed-inside-chocolate-and-biscuit-containers-seized-at-kuwait-international-airport/
+    publisher: Times Kuwait
+    date: 2026-11-12
 open_questions:
   - The accounts give no separate date for the inspection; 12 November 2026 is the date the seizure was first reported and is used as the incident date.
   - Customs described the cannabis as about 126 grams of suspected hashish, not as a confirmed laboratory result.
@@ -67,18 +85,17 @@ In coordination between the customs search and investigation office and the
 Interior Ministry's General Directorate for Combating Drugs and Alcohol,
 officers arrested a suspect, wrote a report of the incident, and referred him
 and the seized material to the competent authority to complete the legal
-procedures. [@2] Inspectors of the Air Cargo Customs Department at the General
+procedures. [@2,3,5] Inspectors of the Air Cargo Customs Department at the General
 Administration of Customs seized material suspected to be hashish and cocaine
 hidden in a parcel coming from the Netherlands to Kuwait International Airport
-and described as sweets and chocolate. [@2] The General Administration of
+and described as sweets and chocolate. [@2,3] The General Administration of
 Customs foiled an attempt to smuggle drugs into the country in a postal parcel
-from the Netherlands registered as containing sweets and chocolate. [@1] Customs
+from the Netherlands registered as containing sweets and chocolate. [@1,3] Customs
 said the inspectors suspected the parcel during checks on incoming mail at
-Kuwait Airport and subjected it to a close inspection. [@1]
+Kuwait Airport and subjected it to a close inspection. [@1,3,6]
 
 The search found four pieces suspected to be hashish, cannabis resin, weighing
 about 126 grams in total, and a white powder suspected to be cocaine weighing
-about 11 grams. [@1] Customs said the seized material had been hidden tightly
+about 11 grams. [@1,3,4] Customs said the seized material had been hidden tightly
 inside chocolate and biscuit packages in an attempt to conceal it and bring it
-into the country. [@1]
-
+into the country. [@1,3,4]
