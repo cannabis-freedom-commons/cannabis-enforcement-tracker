@@ -48,6 +48,11 @@ media:
     media_url: https://image.koreajoongangdaily.com/12108921.webp?imageId=12108921&width=1412&height=910&format=webp
     publisher: Korea JoongAng Daily
     caption: 'Actor Yoo Ah-in arriving at the Seoul Central District Court in Seocho District for a sentencing hearing, a picture printed with the report on the Supreme Court ruling. Photo: Joint Press Corps'
+  - kind: photo
+    url: https://news.jtbc.co.kr/article/NB12306409?influxDiv=NAVER
+    media_url: https://thumb.jtbc.co.kr/photo/r832x0/news/jam_photo/202607/03/e7322229-703d-49ee-97d4-0f67367ebd05.jpg
+    publisher: JTBC 뉴스
+    caption: 'Actor Yoo Ah-in in a suit and tie, in the lead photo of the report on his return to acting. Photo: JTBC 뉴스'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 06e09532b3d8cec5ff4e0b318b343213
@@ -70,33 +75,40 @@ sources:
     url: https://www.koreatimes.co.kr/entertainment/films/20250703/burning-actor-yoo-ah-in-avoids-prison-will-he-return-to-the-screen-after-drug-scandal
     publisher: The Korea Times
     date: 2025-07-03
+  - title: '[이슈] 유아인 복귀는 기정사실, 작품 먼저 ''선착순 대기'''
+    url: https://news.jtbc.co.kr/article/NB12306409?influxDiv=NAVER
+    publisher: JTBC 뉴스
+    date: 2026-07-03
+    language: ko
 open_questions:
-  - The Korean JoongAng Daily gives Yoo's age as 39 while Yonhap gives 38, so no age is recorded in the report.
-  - 'The sources disagree on whether encouraging others to smoke marijuana was part of the final conviction: the Korea JoongAng Daily lists it among the charges and The Korea Times says he denied it, while a Vietnamese-language account said he was acquitted of incitement and evidence destruction.'
-  - The accounts give no weight for the marijuana he was said to have smoked in the United States, so no cannabis quantity is recorded.
-  - The accounts date the United States trip differently; the report uses the Korea JoongAng Daily's January 2024.
-  - A Vietnamese-language account also mentions 80 hours of drug rehabilitation education and an additional 1.54 million won payment at first instance, which the sources opened here do not all confirm.
-  - The photo on the cited page is an archive picture of the actor arriving at the Seoul Central District Court on 3 September 2024, not of the Supreme Court ruling.
+    - The Korean JoongAng Daily gives Yoo's age as 39 while Yonhap gives 38, so no age is recorded in the report.
+    - 'The sources disagree on whether encouraging others to smoke marijuana was part of the final conviction: the Korea JoongAng Daily lists it among the charges and The Korea Times says he denied it, while a Vietnamese-language account said he was acquitted of incitement and evidence destruction.'
+    - The accounts give no weight for the marijuana he was said to have smoked in the United States, so no cannabis quantity is recorded.
+    - The accounts date the United States trip differently; the report uses the Korea JoongAng Daily's January 2024.
+    - A Vietnamese-language account also mentions 80 hours of drug rehabilitation education and an additional 1.54 million won payment at first instance, which the sources opened here do not all confirm.
+    - The photo on the cited page is an archive picture of the actor arriving at the Seoul Central District Court on 3 September 2024, not of the Supreme Court ruling.
+    - The final sentence covered the propofol and sleeping-pill charges as well as marijuana, and no separate penalty for the marijuana charge is reported.
+    - The actor's side and the film's producers had not formally confirmed his casting in Vampir when the July 2026 report was published.
 ---
 
 South Korea's Supreme Court on 3 July 2025 upheld a suspended prison sentence
 for actor Yoo Ah-in, confirming his conviction on charges of habitual drug abuse
-including the illegal use of marijuana. [@1] The Supreme Court's first division
+including the illegal use of marijuana. [@1,5] The Supreme Court's first division
 finalized the ruling of the Seoul High Court, which in February had sentenced
 the actor to one year in prison suspended for two years and a fine of 2 million
-won, about $1,470. [@1] The Supreme Court dismissed the prosecution's appeal and
+won, about $1,470. [@1,5] The two-year suspended sentence runs until July 2027. [@5] The Supreme Court dismissed the prosecution's appeal and
 upheld the appellate ruling, so the actor's drug case became final. [@3] The
 prosecution had appealed for a heavier sentence after originally seeking four
 years in prison. [@4]
 
 Prosecutors had charged Yoo with violating the Narcotics Control Act, illegal
-use of marijuana and encouraging others to use the drug. [@1] Investigators said
+use of marijuana and encouraging others to use the drug. [@1,5] Yoo had been indicted in 2023 and stopped all activity for three years. [@5] Investigators said
 the actor flew to the United States in January 2024 with an acquaintance
 identified by the surname Choi and smoked marijuana there. [@1] The Seoul
 Central District Court sentenced him to one year in prison and a 2 million won
 fine in September 2024 and took him into custody in court. [@4] The appeals
 court in February replaced that term with a suspended sentence and released him
-after more than five months in detention. [@1]
+after more than five months in detention. [@1] In July 2026, Yoo was reported to be preparing the film 'Vampir', directed by Jang Jae-hyun, as his comeback project, with shooting due to begin in the second half of the year. [@5]
 
 The same case also concerned propofol, midazolam, ketamine and remimazolam that
 he received at clinics in Seoul under the pretext of cosmetic procedures on 181
@@ -104,4 +116,3 @@ occasions between September 2020 and March 2022. [@1] The conviction also rested
 on those sedatives, not on cannabis alone. [@3] The Yonhap news agency reported
 that the top court upheld a one-year prison term suspended for two years and a 2
 million won fine. [@2]
-
