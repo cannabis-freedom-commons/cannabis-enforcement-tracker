@@ -34,6 +34,11 @@ media:
     media_url: https://bekabar.id/wp-content/uploads/2026/11/IMG-20261113-WA0084.jpg
     publisher: Bekabar.id
     caption: 'Photo published with the report of the six suspected ganja plants seized in Renah Kayu Embun. Photo: Bekabar.id'
+  - kind: photo
+    url: https://jambiindependent.disway.id/hukum/read/720535/satresnarkoba-polres-kerinci-temukan-tanaman-ganja-di-renah-kayu-embun-kecamatan-kumun-debai
+    media_url: https://jambiindependent.disway.id/upload/757ed9653aba8154298bd05013760aa2.jpg
+    publisher: Jambi Independent
+    caption: 'Satresnarkoba Polres Kerinci members with the suspected ganja plants found in a field. Photo: Jambi Independent'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f7508ec8167b51797cd81bbf44d2c392
@@ -58,20 +63,21 @@ sources:
     url: https://jambiekspres.disway.id/amp/726211/polres-kerinci-bongkar-ladang-ganja-tersembunyi-di-renah-kayu-embun-tembus-medan-terjal-45-menit
     publisher: Jambiekspres.co.id
     language: id
-open_questions:
-  - No one was arrested and the owner of the plants was still being sought; no charge or court outcome was reported.
-  - The six plants were described only as suspected ganja; no laboratory confirmation had been reported yet.
-  - The seized plants were described only by count; no weight, value or age was published.
+  - title: Satresnarkoba Polres Kerinci Temukan Tanaman Ganja di Renah Kayu Embun Kecamatan Kumun Debai
+    url: https://jambiindependent.disway.id/hukum/read/720535/satresnarkoba-polres-kerinci-temukan-tanaman-ganja-di-renah-kayu-embun-kecamatan-kumun-debai
+    publisher: Jambi Independent
+    date: 2026-11-13
+    language: id
 ---
 
 In RT 11 of Renah Kayu Embun village, officers found two black flower pots
-partly buried in the soil. [@1,3,4] Officers walked about 45 minutes through steep, slippery terrain to reach the site. [@3,4] The operation was triggered by public information about suspected illegal cultivation in the area. [@3] Each pot held three plants suspected to be
+partly buried in the soil. [@1,3,4,5] Officers walked about 45 minutes through steep, slippery terrain to reach the site. [@3,4,5] The operation was triggered by public information about suspected illegal cultivation in the area. [@3,5] Each pot held three plants suspected to be
 ganja, six in total, which were uprooted together with their pots and secured as
-evidence. [@1,3] Police had not identified the owner of the plants; the owner's
+evidence. [@1,3,5] Police had not identified the owner of the plants; the owner's
 identity and those suspected to be involved remained under investigation by
-Satresnarkoba Polres Kerinci. [@1,3]
+Satresnarkoba Polres Kerinci. [@1,3,5]
 
 The six plants and their pots were uprooted and taken to Mapolres Kerinci for
-further examination. [@2,3,4] A further sweep around the site found no additional plants. [@4] The follow-up steps included witness examinations, an
+further examination. [@2,3,4,5] A further sweep around the site found no additional plants. [@4,5] The follow-up steps included witness examinations, an
 initial case conference, completing the investigation file and laboratory
 testing of the evidence through BPOM. [@2,3]
