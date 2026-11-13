@@ -72,6 +72,11 @@ sources:
     publisher: القاهرة 24
     date: 2026-11-11
     language: ar
+  - title: ضبط 11 متهما بحوزتهم مخدرات في حملة أمنية بالخصوص
+    url: https://www.mobtada.com/crime/1668343/%D8%B6%D8%A8%D8%B7-11-%D9%85%D8%AA%D9%87%D9%85%D8%A7-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87%D9%85-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AD%D9%85%D9%84%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%B5
+    publisher: مبتدا
+    date: 2026-11-11
+    language: ar
 open_questions:
     - No weight, piece count or value was published for the hashish or for the other drugs.
     - The accounts give no separate date for the campaign; 11 November 2026 is the publication date and is used as the incident date.
@@ -81,20 +86,20 @@ open_questions:
 ---
 
 Security agencies in Qalyubia Governorate examined social-media posts that said
-drug dealers were active in the El-Khusus police district. [@1,4,6,8] Users had
+drug dealers were active in the El-Khusus police district. [@1,4,6,8,9] The Interior Ministry's security agencies announced the sweep on Wednesday. [@9] Users had
 circulated claims that dealers were operating inside the El-Khusus police
 station's area in Qalyubia. [@2] In response, security agencies in Qalyubia
 launched a large campaign against people possessing drugs and people dealing
-them in that district. [@1,3,5,6,7] The campaign was mounted immediately after those
+them in that district. [@1,3,5,6,7,9] The campaign was mounted immediately after those
 claims were examined. [@1] The sweep was confined to the area of the El-Khusus
-police station. [@1,5] The campaign detained 11 suspects. [@1,3,4,6,7,8]
+police station. [@1,5,9] The campaign detained 11 suspects. [@1,3,4,6,7,8,9]
 
 Officers said the 11 were carrying mixed quantities of narcotics, and they named
-hashish, heroin, ice and powdered drugs among what was found. [@1,3,4,6,7,8] Hashish,
+hashish, heroin, ice and powdered drugs among what was found. [@1,3,4,6,7,8,9] Hashish,
 pressed cannabis resin, was one of the drugs the accounts listed with the
-suspects. [@2] Heroin, ice and powdered drugs were named beside the hashish in
-the same seizure. [@1]
+suspects. [@2,9] Heroin, ice and powdered drugs were named beside the hashish in
+the same seizure. [@1,9]
 
 After the arrests, the authorities took the legal steps required against the
-suspects. [@1,4,6,7,8] The Public Prosecution took over the investigation into the 11 suspects. [@3,5] Security agencies said further campaigns would continue against
-people breaking the law and against drug-dealing offences. [@1,4,6,7,8]
+suspects. [@1,4,6,7,8,9] The Public Prosecution took over the investigation into the 11 suspects. [@3,5] Security agencies said further campaigns would continue against
+people breaking the law and against drug-dealing offences. [@1,4,6,7,8,9]
