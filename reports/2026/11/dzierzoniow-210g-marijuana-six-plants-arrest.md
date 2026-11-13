@@ -66,27 +66,26 @@ sources:
     publisher: WP Info (Wirtualna Polska)
     date: 2026-11-07
     language: pl
-open_questions:
-  - The sources say nearly (blisko) 210 grams, so 0.21 kg is an approximate reported weight rather than a precise laboratory figure.
-  - The sources mention drying cannabis on the attic without a count or weight, so only the six greenhouse bushes are recorded as plants.
-  - No town or village of the residence is named beyond the county; Dzierżoniów town is used only as the district centre for coordinates.
-  - No separate date for the search and detention is given; 6 November 2026 is the police publication date and is used as the incident date.
-  - The WP Info page states it carries content from a partner, published under the WP Kreator programme, so it is a partner account rather than an independent outlet.
+  - title: W szklarni rosły pomidory. Policjanci zajrzeli między rośliny i znaleźli coś jeszcze | Warzywa.pl
+    url: https://www.warzywa.pl/rynek/w-szklarni-rosly-pomidory-policjanci-zajrzeli-miedzy-rosliny-i-znalezli-cos-jeszcze-2694854
+    publisher: Warzywa.pl
+    date: 2026-11-12
+    language: pl
 ---
 
 Dzierżoniów criminal-division police detained a 37-year-old resident of the
 county following operational work. [@1] At his residence they found nearly 210
-grams of dried plant material that a preliminary test showed was marijuana. [@1,4]
+grams of dried plant material that a preliminary test showed was marijuana. [@1,4,5]
 The secured substance was given a preliminary test that showed it was marijuana.
 [@1]
 
 Further steps led officers to the attic, where they secured non-fibre cannabis
 in the drying phase. [@1,4] They also checked a greenhouse that was additionally
 secured with a padlock. [@1] Among tomatoes grown there, officers found six
-bushes of non-fibre cannabis. [@1,4]
+bushes of non-fibre cannabis. [@1,4,5]
 
 The 37-year-old man was detained, and the secured substances and plants will
-form evidence in the ongoing proceedings. [@1] The county police published the
+form evidence in the ongoing proceedings. [@1,5] The county police published the
 account on 6 November 2026. [@2] The plants and substances were secured for the
 purposes of the proceedings, with a court to decide the final legal
 qualification and penalty after they end. [@3]
