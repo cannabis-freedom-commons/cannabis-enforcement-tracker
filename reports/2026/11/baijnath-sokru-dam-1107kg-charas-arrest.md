@@ -66,26 +66,33 @@ sources:
     publisher: Himachal Dastak
     date: 2026-11-12
     language: hi
+  - title: बैजनाथ में दो लोगों से 1 किलो 107 ग्राम चरस की खेप बरामद, चंबा से दो आरोपी गिरफ्तार
+    url: https://www.hindusthansamachar.in/Encyc/2026/11/12/Kangra-police-recovered-cannab.php
+    publisher: Hindusthan Samachar
+    date: 2026-11-12
+    language: hi
 open_questions:
   - No value was published for the 1.107 kg of charas.
   - The reports do not say whether the two men were produced in court or remanded to custody.
   - No laboratory confirmation that the seized material was charas was reported.
   - Police had not established where the charas came from or where it was to be supplied.
   - Both accounts draw on Kangra police information, and no independent account of the arrests was found.
+  - Left out arrested, as no supporting quotation was given.
+  - Left out kg seized, as no supporting quotation was given.
 ---
 
 Officers of the CIA team of Kangra district police arrested two men with 1.107
-kg of charas, a cannabis resin, in the Sokru Dam area of Baijnath. [@1,3] Both are
+kg of charas, a cannabis resin, in the Sokru Dam area of Baijnath. [@1,3,5] Both are
 from Kaila village in the Bharmaur area of Chamba district and are aged 45 and
-46. [@2,4] Police named the two as Kewal Kumar and Nek Chand, both of Kaila village in Bharmour tehsil, Chamba district. [@3] The operation took place on Wednesday, 11 November 2026. [@2,3]
+46. [@2,4] Police named the two as Kewal Kumar and Nek Chand, both of Kaila village in Bharmour tehsil, Chamba district. [@3,5] The operation took place on Wednesday, 11 November 2026. [@2,3]
 
 Police said the CIA team had received a tip-off about charas trafficking and
 stopped the two men for questioning during a patrol and checking in the area
-under Baijnath police station. [@2,3] The superintendent said the two had been seen walking about suspiciously near the dam. [@3] A search found 1 kg 107 g of charas on them.
+under Baijnath police station. [@2,3] The superintendent said the two had been seen walking about suspiciously near the dam. [@3,5] A search found 1 kg 107 g of charas on them.
 [@2,3]
 
 Kangra Superintendent of Police Kulbhushan Verma said a case was registered
 against both at Baijnath police station under the Narcotic Drugs and
 Psychotropic Substances (NDPS) Act, India's narcotics law. [@2,4] Police took the
 charas into custody. [@1,3] Police were still questioning the two about where they
-had obtained the charas and where it was to be supplied. [@2,3]
+had obtained the charas and where it was to be supplied. [@2,3,5]
