@@ -77,24 +77,28 @@ sources:
     publisher: KCLR 96FM
     date: 2026-11-10
     language: en
-open_questions:
-    - The reported 16.5 kg herbal cannabis is a total for several operations across Clare and Kildare; the weight seized in each county, including the Clare operation of 6 November, was not stated.
-    - The weight and value of the cannabis vapes and gummies were not given separately, so only the €359,000 overall estimate is recorded and the €124,000 Clare estimate is not counted as a separate value.
-    - The Kildare operation took place on 9 November 2026, but the exact location within the county and the weight of herbal cannabis seized there were not published.
-    - The number of operations in Clare and Kildare, the exact locations, and whether the vapes and gummies contained cannabis or synthetic cannabinoids remain unreported.
-    - The specific charges and the outcome of the Athy District Court appearance on 10 November 2026 were not reported.
+  - title: Man (30s) arrested following seizure of €235,000 worth of herbal cannabis in Kildare
+    url: https://www.independent.ie/county/kildare/man-30s-arrested-following-seizure-of-235000-worth-of-herbal-cannabis-in-kildare/a/164380149.html
+    publisher: Irish Independent
+    date: 2026-11-12
+media:
+  - kind: photo
+    url: https://www.independent.ie/county/kildare/man-30s-arrested-following-seizure-of-235000-worth-of-herbal-cannabis-in-kildare/a/164380149.html
+    media_url: https://prod-img.independent.ie/public/incoming/wir3nf-approximately-235000-worth-of-herbal-cannabis-was-seized-during-an-intelligence-led-operation-in-co-kildare./alternates/THREE_TWO_1620/Approximately%20%E2%82%AC235000%20worth%20of%20herbal%20cannabis%20was%20seized%20during%20an%20intelligence-led%20operation%20in%20Co%20Kildare.
+    publisher: Irish Independent
+    caption: 'Herbal cannabis seized in the intelligence-led operation in Co Kildare on 9 November 2026, shown in the handout photo published with the Irish Independent report. Photo: An Garda Síochána Kildare'
 ---
 
 Gardaí and Revenue Customs officers seized approximately 16.5 kg of herbal
 cannabis, along with a quantity of cannabis vapes and cannabis gummies, with an
 estimated value of €359,000. [@1,2,3,8] The seizures were made by the Garda National
 Drugs and Organised Crime Bureau, Divisional Drugs Units in Clare and Kildare
-and Revenue's Customs Service. [@1,2,3,4,6]
+and Revenue's Customs Service. [@1,2,3,4,6] The Kildare seizure involved the Kildare North Drugs Unit (KNDU). [@9]
 
 During one intelligence-led operation in County Clare on Friday 6 November 2026,
 cannabis vapes and cannabis gummies with an estimated street value of €124,000,
-subject to final analysis, were seized. [@1,2,3,5,7,8] One person was arrested after a
-significant seizure in County Kildare that afternoon. [@1] One male, aged in his 30s, was arrested and is currently being detained at a garda station in County Kildare under the provisions of Section 2 of the Criminal Justice (Drug Trafficking) Act 1996. [@4,8] He was due to appear before Athy District Court on the morning of 10 November 2026. [@7] The man in his 30s arrested as part of this investigation has since been charged. [@7] The operation was one
+subject to final analysis, were seized. [@1,2,3,5,7,8,9] One person was arrested after a
+significant seizure in County Kildare that afternoon. [@1] One male, aged in his 30s, was arrested and is currently being detained at a garda station in County Kildare under the provisions of Section 2 of the Criminal Justice (Drug Trafficking) Act 1996. [@4,8,9] He was due to appear before Athy District Court on the morning of 10 November 2026. [@7] The man has since appeared before the district court, charged with a number of offences. [@9] The man in his 30s arrested as part of this investigation has since been charged. [@7,9] The operation was one
 of a number carried out in Clare and Kildare in recent days. [@1,6] The County Clare seizure was one of a series of intelligence-led Garda and Revenue operations over the past week. [@3]
 
 Investigations were ongoing. [@1]
@@ -103,4 +107,4 @@ A Garda spokesperson confirmed that investigations are ongoing. [@2]
 
 No arrest was reported after the County Clare seizure; a Garda spokesperson said there was no further information at that time. [@3]
 
-During the course of an operation in Kildare yesterday (November 9 last), herbal cannabis with an estimated street value of approximately €235,000 was seized. [@4,6,7,8]
+During the course of an operation in Kildare yesterday (November 9 last), herbal cannabis with an estimated street value of approximately €235,000 was seized. [@4,6,7,8,9]
