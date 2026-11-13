@@ -72,6 +72,11 @@ sources:
     publisher: Suspilne Ivano-Frankivsk
     date: 2026-11-13
     language: uk
+  - title: На Прикарпатті викрили двох чоловіків, які виростили коноплі та виготовили понад 13 кілограмів канабісу (ФОТО)
+    url: https://firtka.if.ua/blog/view/na-prikarpatti-vikrili-dvokh-cholovikiv-iaki-virostili-konopli-ta-vigotovili-ponad-13-kilogramiv-kanabisu-foto
+    publisher: Firtka
+    date: 2026-11-13
+    language: uk
 open_questions:
   - The submitted outlet and police report over 13 kg of cannabis while the prosecutor-derived account specifies more than 13.5 kg of dried cannabis; the report uses 13.5 kg.
   - The submitted outlet and police report more than 60 cannabis plants while the prosecutor-derived account specifies 60 plants; the report uses 60.
@@ -82,20 +87,20 @@ open_questions:
 
 Police in Ivano-Frankivsk region exposed a 48-year-old Kolomyia resident and his
 29-year-old accomplice from Kolomyia district over a full cycle of cannabis
-production. [@1] The older man sowed cannabis on open ground in the Horodenka
+production. [@1,4] The older man sowed cannabis on open ground in the Horodenka
 community at the end of spring 2026 and tended the crop to maturity. [@1] He
 illegally grew more than 60 cannabis plants. [@1] Both men work in the railway
 industry, and the organizer later brought in the younger man to harvest, process
-and move the crop. [@1]
+and move the crop. [@1,4]
 
 In September 2026 they jointly collected the cannabis harvest into prepared
 bags. [@1] They drove the raw material in the older man's Mercedes-Benz to
-Kolomyia and to Sheparivtsi, where they dried it and stored it for sale. [@1] In
+Kolomyia and to Sheparivtsi, where they dried it and stored it for sale. [@1,4] In
 Kolomyia police seized 7 buckets of plant material, and in Sheparivtsi, at the
 younger man's home, plastic wraps, packets and a container of crushed plant
 mass. [@1] Those searches recovered more than 13.5 kg of dried cannabis and 60
 cannabis plants. [@3] Police put the black-market value at no less than 8
-million hryvnias and said the amount is an especially large amount. [@1]
+million hryvnias and said the amount is an especially large amount. [@1,4]
 
 Police said the men planned to sell the bulk wholesale to other regions of
 Ukraine. [@1] They also sold hand-to-hand in Kolomyia district. [@1] Both men
@@ -105,5 +110,4 @@ On 10 November prosecutors notified both men of suspicion of group manufacture,
 storage and transportation for sale under Part 3 of Article 307. [@3] The
 48-year-old organizer was additionally notified of illegal sowing and
 cultivation under Part 2 of Article 310. [@1] A court ordered both held in
-custody without bail. [@2]
-
+custody without bail. [@2,4]
