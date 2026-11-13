@@ -80,16 +80,11 @@ sources:
     publisher: RiminiToday
     date: 2026-11-12
     language: it
-open_questions:
-  - The police statement and Il Resto del Carlino give the man's age as 62 and his birth year as 1963; Newsrimini gives 63.
-  - The police statement puts the drug total at about 44.85 g, but its own itemised figures of 43.10 g of marijuana and 4.75 g of hashish add up to 47.85 g; the report uses the itemised weights.
-  - Newsrimini names the defence lawyer as Luca Campana and RiminiToday names him as Nicola Campana.
-  - The exact street or neighbourhood in central Rimini is not named.
-  - The sources do not say whether the acquittal was appealed.
-  - The court's full reasoning is not reported; the outcome is given only as an acquittal for insufficient evidence.
-  - No value estimate for the drugs or the plant was published.
-  - The reports do not say what condition or prescription, if any, supports the therapeutic-use claim.
-  - The plant's 3,650 g is a fresh net weight including the inflorescences; no dried equivalent is given.
+  - title: 'Rimini, i vicini di casa segnalano la grande pianta di marijuana sul balcone e viene arrestato. Il giudice lo assolve: «Uso personale, anche senza parere medico»'
+    url: https://corrieredibologna.corriere.it/notizie/cronaca/26_novembre_13/rimini-pianta-marijuana-assolto-bddade30-7502-44b0-8d7d-4be4779ccxlk.shtml
+    publisher: Corriere di Bologna
+    date: 2026-11-13
+    language: it
 ---
 
 Rimini Local Police officers launched the operation on 1 October 2026 after
@@ -97,13 +92,13 @@ residents reported the smell and a marijuana plant visible on a balcony in a
 central area of the city. [@1] Plainclothes officers of the force's judicial
 squad arrested a man born in 1963 at his flat. [@2] To get inside, the officers
 posed as parcel couriers, then identified themselves and began searching the
-flat. [@2] The man was held under house arrest, and the next morning a judge
+flat. [@2,5] The man was held under house arrest, and the next morning a judge
 validated the arrest and ordered him to report to police four days a week while
 awaiting trial. [@2] After the validation the judge released him, RiminiToday
 reported. [@4]
 
 The search found 43.10 g of marijuana already divided into doses, 4.75 g of
-hashish and cellophane used to wrap the doses. [@2] Officers also seized the
+hashish and cellophane used to wrap the doses. [@2,5] Officers also seized the
 flowering plant on the balcony; police said it was 140 cm tall and weighed about
 3.5 kg. [@1] The force put the drugs at about 44.85 g, although its own itemised
 weights add up to 47.85 g. [@2] He had been arrested years earlier for the same
@@ -112,7 +107,6 @@ offence. [@3]
 The trial was held on 12 November 2026 at the Rimini court. [@4] He was tried
 for cannabis cultivation and possession for dealing. [@4] The case was decided
 under the abbreviated procedure, a fast-track trial on the case file. [@4] The
-court acquitted him for insufficient evidence. [@1] He had always said the
+court acquitted him for insufficient evidence. [@1,5] The judge ordered the seized plant destroyed rather than returned to the man. [@5] He had always said the
 marijuana was for therapeutic use, and his lawyer argued there was no evidence
-he meant to deal. [@1]
-
+he meant to deal. [@1] The defence said there were no scales or other objects proving dealing and no neighbours reported visits by potential customers. [@5]
