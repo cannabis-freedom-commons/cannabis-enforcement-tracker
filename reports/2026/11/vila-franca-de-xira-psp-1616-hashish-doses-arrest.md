@@ -55,6 +55,11 @@ sources:
     publisher: Correio da Manhã
     date: 2026-11-11
     language: pt
+  - title: PSP detém jovem de 19 anos com mais de 1.600 doses de haxixe em Vila Franca de Xira
+    url: https://noticiasdosorraia.sapo.pt/psp-detem-jovem-de-19-anos-com-mais-de-1-600-doses-de-haxixe-em-vila-franca-de-xira/
+    publisher: Notícias do Sorraia
+    date: 2026-11-12
+    language: pt
 media:
   - kind: photo
     url: https://www.cmjornal.pt/cm-ao-minuto/amp/detido-pela-psp-com-droga-em-arrecadacao
@@ -64,19 +69,19 @@ media:
 ---
 
 A 19-year-old man had more than 1,600 individual doses of hashish hidden in a
-storage room in Vila Franca de Xira. [@1,2] The seizure took place on Tuesday 10
+storage room in Vila Franca de Xira. [@1,2,4] The seizure took place on Tuesday 10
 November 2026 during a patrol by the PSP, Portugal's Public Security Police, in
 Bom Retiro, an area police describe as known for drug consumption and
-trafficking. [@1,3] Officers noticed the young man's nervous behaviour in the
-presence of police and decided to stop and search him. [@1,2] The search found
+trafficking. [@1,3,4] The patrol was carried out by officers of the Vila Franca de Xira Police Division. [@4] Officers noticed the young man's nervous behaviour in the
+presence of police and decided to stop and search him. [@1,2,4] The search found
 34.88 individual doses of hashish, already divided into small packages, and a
-mobile phone. [@1,3]
+mobile phone. [@1,3,4]
 
 After the intervention, PSP discovered an arrecadação, a storage room, used by
-the young man. [@1] A search of that space found eight more slabs of hashish,
+the young man. [@1,4] A search of that space found eight more slabs of hashish,
 equivalent to 1,571.72 doses, along with two bags and various material used to
-hide and package the product. [@1,2,3] In total, about 1,616 individual doses of
-hashish were seized. [@1,2]
+hide and package the product. [@1,2,3,4] In total, about 1,616 individual doses of
+hashish were seized. [@1,2] The PSP said the seized quantity was manifestly incompatible with personal use. [@4]
 
 The young man was detained on suspicion of drug trafficking and held in police
-premises until he was presented to the judicial authority. [@1,2,3]
+premises until he was presented to the judicial authority. [@1,2,3,4] He was held in the detention rooms of the PSP's Lisbon Metropolitan Command. [@4]
