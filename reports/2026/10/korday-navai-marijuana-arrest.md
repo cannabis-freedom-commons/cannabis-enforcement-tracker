@@ -125,19 +125,11 @@ sources:
     publisher: NEWS.ru
     date: 2026-10-15
     language: ru
-open_questions:
-    - The 2.5 g marijuana weight comes from secondary reporting, while the published police statement spoke only of an unspecified narcotic substance.
-    - About 10 g of an unidentified substance found with the manager is not counted as cannabis.
-    - The English Izvestia lede dates the detention to 14 October while the police account dates the interception to 13 October; the report uses 13 October.
-    - No court outcome beyond the two-month custody order was reported at the time of the detention coverage.
-    - The opened accounts give no separate date for the custody ruling; 15 October is the police announcement and publication date.
-    - The companion charge is described variously as unlawful transportation and unlawful storage of narcotics, so the exact second article remains unclear.
-    - Whether the defence appealed the custody order or sought bail, and the date of any further hearing, were not reported.
-    - The exact end date of the two-month custody was not stated.
-    - The outcome of the Kyrgyz border service's internal inquiry was not reported.
-    - Whether the cannabis he admitted buying in Bishkek was the same substance found in the car was not specified.
-    - His mother's account that security staff promised release with a fine is a family claim with no official confirmation.
-    - The precise date and place of the case termination and expulsion were not stated; 20 October is when police reported the outcome.
+  - title: Рэпера Navai арестовали в Казахстане на два месяца по делу о контрабанде наркотиков
+    url: https://tvrain.tv/news/repera-navai-arestovali-v-kazahstane-na-dva-mesjatsa-po-delu-o-kontrabande-narkotikov-577223/
+    publisher: Телеканал Дождь
+    date: 2026-10-15
+    language: ru
 media:
   - kind: photo
     url: https://news.ru/culture/navai-arestovali-po-delu-o-kontrabande-narkotikov-v-kazahstane
@@ -151,7 +143,7 @@ checkpoint as he entered Kazakhstan by car from Kyrgyzstan on 13 October 2026.
 [@1,3,4,5,7,9,10,11,12,15,17] His manager and driver were with him. [@2,3,4,8,16] A service dog named
 Atlas reacted to the car, and officers found a narcotic substance in the pocket of the driver's seat
 [@1,3,4,6,7,9,11,13,18], along with a bag with rolling papers and a grinder. [@2,4,18] Journalist Mikhail
-Kozachkov wrote that it was 2.5 g of marijuana [@7,10,11,15,18]; Baza, citing checkpoint staff, claimed 10
+Kozachkov wrote that it was 2.5 g of marijuana [@7,10,11,15,18,19]; Baza, citing checkpoint staff, claimed 10
 grams. [@3,8,16] All three were detained and placed in temporary detention [@2,10,11]; the two others were
 later released [@11], while investigators established who owned the substance. [@7,10]
 
@@ -160,7 +152,7 @@ later released [@11], while investigators established who owned the substance. [
 Police opened a criminal case for attempted smuggling of narcotics [@1,7,10,11,17] under Article 286 of
 the Criminal Code, which allows up to five years in prison [@4]; the charges were reported as smuggling
 and unlawful transportation of narcotics without intent to sell. [@5,11] The Korday district court ordered
-him held in custody for two months. [@5,6,8,15,16,17,18] Questioned, he admitted buying the drugs in Bishkek
+him held in custody for two months. [@5,6,8,15,16,17,18,19] Questioned, he admitted buying the drugs in Bishkek
 [@8,9,15,16,17], and Kyrgyzstan's border service opened an internal inquiry into how he crossed with
 them. [@8,17] On 20 October police said the case had been closed on non-rehabilitating grounds, citing a
 first offence and active remorse, and that he had been expelled from Kazakhstan. [@14,16]
