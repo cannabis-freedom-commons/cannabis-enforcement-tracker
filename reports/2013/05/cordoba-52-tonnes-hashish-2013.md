@@ -71,6 +71,11 @@ sources:
     publisher: 20 Minutes
     date: 2013-05-06
     language: fr
+  - title: 'Mauritanie : Saisie de 52 tonnes de haschisch en Espagne, un record en Europe'
+    url: https://cridem.org/imprimable.php?article=642702
+    publisher: Cridem (reprint of LCI-TF1)
+    date: 2013-05-05
+    language: fr
 media:
   - kind: photo
     url: https://www.20minutes.fr/monde/1151001-20130506-20130506-espagne-police-donne-details-prise-52-tonnes-haschisch
@@ -79,7 +84,7 @@ media:
     caption: 'Police photo of the more than 52 tonnes of hashish found in a warehouse near Córdoba on 5 May 2013. Photo: Spanish police, via AFP'
 ---
 
-Spanish police found 52 tonnes of hashish in an industrial workshop on a trading estate in Córdoba and arrested three Spanish men. [@1,3,4,5,6] The drug was packed in 1,700 parcels weighing 30 kilos each, with an estimated street value of 80 million euros. [@1] Police called it the biggest hashish seizure ever made in Spain and a European record. [@1,2,3]
+Spanish police found 52 tonnes of hashish in an industrial workshop on a trading estate in Córdoba and arrested three Spanish men. [@1,3,4,5,6,7] The drug was packed in 1,700 parcels weighing 30 kilos each, with an estimated street value of 80 million euros. [@1] Police called it the biggest hashish seizure ever made in Spain and a European record. [@1,2,3,7]
 
 ## How the raid happened
 
