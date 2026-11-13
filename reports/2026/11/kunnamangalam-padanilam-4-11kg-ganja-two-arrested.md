@@ -40,24 +40,31 @@ sources:
     url: https://www.thehindu.com/news/national/kerala/two-arrested-with-suspected-ganja-in-kozhikode/article71698135.ece
     publisher: The Hindu
     date: 2026-11-13
+  - title: പൊലീസ് പരിശോധനയിൽ കുടുങ്ങി; കാറിൽ കടത്തുകയായിരുന്ന 4 കിലോ കഞ്ചാവുമായി കൊടുവള്ളി സ്വദേശികളായ രണ്ടുപേർ പിടിയിൽ – Newsthen
+    url: https://newsthen.com/2026/11/13/306390.html
+    publisher: Newsthen
+    date: 2026-11-13
+    language: ml
 open_questions:
   - No charges, court production or remand outcome were reported for the two arrested men.
   - The source does not state the origin of the seized ganja or whether the car used for transport was seized.
   - No street value for the 4.11 kg of suspected ganja was published.
+  - The seized amount is given as about 4 kg in one account and 4.11 kg in another; the report uses 4.11 kg.
+  - The custody spot is given as near Arambram market in one account and near Padanilam bridge in another; the report uses Padanilam bridge.
 ---
 
 The District Anti-Narcotic Special Action Force, DANSAF, and the Kunnamangalam
 police arrested two men for allegedly transporting suspected ganja for sale near
-Padanilam bridge in Kunnamangalam. [@1] Police identified the two as 32-year-old
+Padanilam bridge in Kunnamangalam. [@1,2] Police identified the two as 32-year-old
 Safdar Hashmi of Pannikkottoor and 35-year-old Anwar alias Ambu of Avilora in
-Kizhakkoth. [@1] The joint operation was led by Narcotic Cell Assistant
+Kizhakkoth. [@1,2] The joint operation was led by Narcotic Cell Assistant
 Commissioner of Police Jeevan George and Kunnamangalam Sub-Inspector V.K. Elias.
 [@1]
 
 The DANSAF team intercepted the suspects' vehicle near Padanilam bridge in the
-early hours of Friday, November 13, and alerted the Kunnamangalam police. [@1]
+early hours of Friday, November 13, and alerted the Kunnamangalam police. [@1,2]
 During the inspection, officers recovered 4.11 kg of suspected ganja packed in
-five bundles from the boot of the car. [@1] Police said the seized contraband
+five bundles from the boot of the car. [@1,2] Police said the seized contraband
 was meant for retail distribution in areas including Elettil Vattoli, Estate
 Mukku and Poonoor. [@1]
 
@@ -69,4 +76,3 @@ Excise team for allegedly possessing 58 kg of suspected ganja and were out on
 bail in that case. [@1] Safdar Hashmi was also accused in a Chevayur police case
 over 105 grams of suspected MDMA, while Anwar had earlier been booked by the
 Palakkad Excise wing in connection with a 116 kg suspected ganja seizure. [@1]
-
