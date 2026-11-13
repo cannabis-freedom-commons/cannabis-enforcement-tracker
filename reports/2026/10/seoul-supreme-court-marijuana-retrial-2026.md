@@ -37,6 +37,11 @@ sources:
     publisher: 머니투데이
     date: 2026-11-13
     language: ko
+  - title: 대법 "보강증거 없이 자백만으로 유죄 안돼"…마약사건 파기환송
+    url: https://www.yna.co.kr/amp/view/AKR20261113083100004
+    publisher: 연합뉴스
+    date: 2026-11-13
+    language: ko
 open_questions:
   - The article gives no exact date for the alleged smoking incident; it is described as late April 2024 in the indictment, but the evidence points to late April 2023, so no precise incident date can be recorded.
   - The defendant is identified only as A, with no full name or other identifying details published.
@@ -47,7 +52,7 @@ open_questions:
 South Korea's Supreme Court, presided over by Justice Shin Suk-hee, on 27
 October 2026 reversed the lower court's ruling against a defendant identified as
 A, who was indicted on charges including violating the Act on the Control of
-Narcotics, and sent the case back to the Seoul High Court. [@1,2] A, who ran a
+Narcotics, and sent the case back to the Seoul High Court. [@1,2,3] A, who ran a
 record production and distribution company, a content firm, and nightlife
 establishments, was brought to trial on charges that included buying large
 quantities of ecstasy and marijuana in 2023 and selling or smoking some of them.
@@ -56,7 +61,7 @@ gram of marijuana together with four accomplices at an office in Seoul. [@1] The
 trial court found A guilty of the marijuana smoking charge, citing, among other
 things, that the accomplices indicted with A admitted the offense in court, and
 including other drug-related charges, the court sentenced A to three years and
-six months in prison and ordered 22.8 million won in forfeiture. [@1] On appeal,
+six months in prison and ordered 22.8 million won in forfeiture. [@1,3] On appeal,
 A argued that the smoking actually occurred in late April 2023 and that the
 indictment mistakenly listed April 2024, and said the confession at the first
 trial referred to the 2023 incident and that there was no marijuana smoking in
