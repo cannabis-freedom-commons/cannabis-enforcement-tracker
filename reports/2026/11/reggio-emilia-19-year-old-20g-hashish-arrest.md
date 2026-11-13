@@ -32,25 +32,29 @@ sources:
     publisher: Modena 2000
     date: 2026-11-12
     language: it
+  - title: 'In stazione “Storica” con addosso hashish e cocaina: arrestato pusher 19enne'
+    url: https://www.stampareggiana.it/2026/11/12/in-stazione-storica-con-addosso-hashish-e-cocaina-arrestato-pusher-19enne/
+    publisher: Stampa Reggiana
+    date: 2026-11-12
+    language: it
 open_questions:
   - What happened after the validation hearing, including any charge, pre-trial measure or trial outcome, was not reported.
 ---
 
 On the morning of Wednesday 11 November 2026, at about 9:30 a.m., State Police
 Flying Squad officers on an extraordinary patrol of Reggio Emilia’s historic
-station area stopped a young man in Piazzale Marconi. [@1] The person stopped
+station area stopped a young man in Piazzale Marconi. [@1,3] The person stopped
 was a 19-year-old of Tunisian origin who was lingering with a suspicious manner
-near a bar in the square in front of the railway station entrance. [@2]
+near a bar in the square in front of the railway station entrance. [@2,3]
 
 A personal search found about 20 grams of hashish and about 5 grams of cocaine
-hidden in his clothing. [@1] Police said the drugs were already divided and
-ready to be passed to third parties. [@2] Officers arrested the 19-year-old on
-suspicion of possessing narcotics for the purpose of dealing. [@2] Officers
+hidden in his clothing. [@1,3] Police said the drugs were already divided and
+ready to be passed to third parties. [@2,3] Officers arrested the 19-year-old on
+suspicion of possessing narcotics for the purpose of dealing. [@2,3] Officers
 seized all the drugs found, together with a mobile phone and 65 euros in cash in
-small-denomination notes believed to be possible proceeds of dealing. [@1]
+small-denomination notes believed to be possible proceeds of dealing. [@1,3]
 
 The teenager was already known to police for numerous previous offences
-concerning property and drugs. [@2] He was placed at the disposal of the
+concerning property and drugs. [@2,3] He was placed at the disposal of the
 judicial authority pending a validation hearing, whose outcome was not reported.
 [@1]
-
