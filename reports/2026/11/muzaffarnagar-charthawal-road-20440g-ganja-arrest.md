@@ -56,36 +56,32 @@ sources:
     publisher: Muzaffarnagar Police
     date: 2026-11-12
     language: hi
+  - title: मुज़फ़्फ़रनगर में 10.50 लाख रुपये के गांजे के साथ तस्कर राजकुमार उर्फ़ फौजी गिरफ़्तार, 20.440 किलो नशीला पदार्थ बरामद
+    url: https://royalbulletin.in/muzaffarnagar/muzaffarnagar-police-arrests-drug-smuggler-with-cannabis-worth-rs-1050-lakh-under-operation-savera/article-254560
+    publisher: Royal Bulletin
+    date: 2026-11-12
+    language: hi
 open_questions:
-  - Amar Ujala puts the ganja's estimated value at about 10.50 lakh rupees; the police statement and Dainik Bhaskar give no value.
-  - Amar Ujala says police registered a first information report under the relevant NDPS Act sections, while Dainik Bhaskar reports a case under sections 8 and 20 with crime number 500/2026.
-  - The accused's record is given as seven cases at Kotwali Nagar by Amar Ujala and as cases dating from 2018, 2019, 2022 and 2026 by Dainik Bhaskar.
-  - The arrest is described as taking place on the night of 11 November 2026 and was announced by police the following morning, so the exact hour is not established.
-  - No remand order, charge sheet or court outcome has been reported, and police said they were still tracing other people linked to the network.
-  - Amar Ujala gives the accused's address as Ramleela Teela without naming his father, while the police statement names his father as Suresh and his age as about 32.
-  - 'Left out, as its quotation was not found in Dainik Bhaskar: An informer told police on the night of 11 November that a man was selling ganja on Charthawal Road, and a team led by inspector-in-charge Brajesh Kumar Sharma carried out the check.'
-  - 'Left out, as its quotation was not found in Dainik Bhaskar: Police registered a case against the accused under sections 8 and 20 of the NDPS Act, numbered crime 500/2026.'
-  - Left out case stage, as its quotation was not found in Dainik Bhaskar.
-  - Left out charges, as its quotation was not found in Dainik Bhaskar.
-  - Left out force, as its quotation was not found in Dainik Bhaskar.
+    - The accused's record is given as seven cases at Kotwali Nagar by Amar Ujala and as cases dating from 2018, 2019, 2022 and 2026 by Dainik Bhaskar.
+    - The arrest is described as taking place on the night of 11 November 2026 and was announced by police the following morning, so the exact hour is not established.
+    - No remand order, charge sheet or court outcome has been reported, and police said they were still tracing other people linked to the network.
 ---
 
 Kotwali Nagar police in Muzaffarnagar arrested a suspected ganja smuggler,
 identified as Rajkumar alias Fauji, during a drive against illegal narcotics.
-[@1] Police seized 20.440 kg of ganja from him, which they estimated to be worth
-about 10.50 lakh rupees. [@1]
+[@1,3] Police seized 20.440 kg of ganja from him, which they estimated to be worth
+about 10.50 lakh rupees. [@1,3]
 
 The accused was identified as Rajkumar alias Fauji, son of Suresh, of Ramleela
 Teela in the Kotwali Nagar station area, about 32 years old. [@2] Circle officer
 city Siddharth K. Mishra said police stopped and searched a suspicious man ahead
-of the madrasa on Charthawal Road and found the ganja on him. [@1] Muzaffarnagar
+of the madrasa on Charthawal Road and found the ganja on him. [@1,3] An informer told police on the night of 11 November that a man was standing ahead of the madrasa on Charthawal Road to smuggle illegal drugs. [@3] Muzaffarnagar
 Police said the arrest and the seizure of 20 kg 440 g of illegal ganja were made
-under the Operation Savera campaign. [@2]
+under the Operation Savera campaign. [@2,3]
 
 Seven cases are registered against the accused at Kotwali Nagar station, two of
-them under the NDPS Act. [@1] Police said the man admitted in initial
+them under the NDPS Act. [@1,3] Police registered the case at Kotwali Nagar station under crime number 500/2026, framed under sections 8 and 20 of the NDPS Act. [@3] Police said the man admitted in initial
 questioning that he bought ganja cheaply and sold it at higher prices across
-different parts of the district for illegal profit. [@1] Police are
+different parts of the district for illegal profit. [@1,3] Police are
 investigating the accused's forward and backward linkages to trace where the
-ganja came from and to whom it was supplied. [@1]
-
+ganja came from and to whom it was supplied. [@1,3]
