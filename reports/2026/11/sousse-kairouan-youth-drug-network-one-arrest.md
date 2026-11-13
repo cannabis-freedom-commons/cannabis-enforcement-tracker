@@ -66,19 +66,24 @@ sources:
     publisher: Tuniscope
     date: 2026-11-12
     language: fr
+  - title: الأمن يطيح بشبكة لترويج المخدات في الملاهي..وهذه التفاصيل..
+    url: https://ar.webmanagercenter.com/2026/11/12/430378/%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%8A%D8%B7%D9%8A%D8%AD-%D8%A8%D8%B4%D8%A8%D9%83%D8%A9-%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%85/
+    publisher: المصدر تونس (Almasdar)
+    date: 2026-11-12
+    language: ar
 ---
 
 National security units in Sousse city dismantled at dawn on Thursday a network
-specialising in trafficking narcotics among young people. [@1,2,5,6] The operation began at dawn on 12 November 2026. [@2,5] The network
+specialising in trafficking narcotics among young people. [@1,2,5,6,8] The operation began at dawn on 12 November 2026. [@2,5] The network
 operated between the governorates of Sousse and Kairouan, according to a
 communique from the Direction générale de la sûreté nationale. [@1,2,5,6,7] The
 operation followed extensive intelligence and field investigation work on the
 ground. [@1,5,6] Officers arrested the principal member of the network, described by
-the authorities as dangerous. [@1,3,5,6,7]
+the authorities as dangerous. [@1,3,5,6,7,8]
 
 The arrested man was the subject of several wanted notices issued by different
 security units for cases linked to drug trafficking. [@1,4,5,6] Security forces also
-seized a significant quantity of cocaine and of cannabis. [@1,3,5,6,7] The suspect had
+seized a significant quantity of cocaine and of cannabis. [@1,3,5,6,7,8] The suspect had
 intended to sell the drugs in discotheques in the region. [@1,4,5,6,7]
 
 The Direction générale de la sûreté nationale said investigations are continuing
