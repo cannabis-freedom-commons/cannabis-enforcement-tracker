@@ -74,35 +74,43 @@ sources:
     publisher: Diario El Divisadero
     date: 2026-11-11
     language: es
+  - title: 'PDI incauta 12 kilos de cannabis avaluados en más de $198 millones en Coyhaique: traslado era coordinado desde la cárcel'
+    url: https://radio45sur.cl/2026/11/12/pdi-incauta-12-kilos-de-cannabis-avaluados-en-mas-de-198-millones-en-coyhaique-traslado-era-coordinado-desde-la-carcel/
+    publisher: Radio45Sur.cl
+    date: 2026-11-12
+    language: es
 media:
   - kind: photo
     url: https://www.eldivisadero.cl/_noticia/Desde-la-c%C3%A1rcel-de-Coyhaique-coordinaban-el-env%C3%ADo-de-droga-PDI-decomisa-cannabis-avaluada-en-198-millones-de-pesos/ODQ5NDc=
     media_url: https://www.eldivisadero.cl/media/Noticias/for_fot26333.JPG
     publisher: Diario El Divisadero
     caption: 'Evidence photograph of the packages of cannabis seized in the operation, on display with a PDI ''Evidencias'' sign. Photo: PDI, published by Diario El Divisadero.'
+open_questions:
+    - No source gives a separate date for the interception or the arrest, so the recorded date comes from the news reports' publication dates.
+    - The arrested man is not named, and no charge or later court outcome is reported beyond the preventive detention.
 ---
 
 Detectives of the Policía de Investigaciones (PDI) arrested a Chilean man in
-Coyhaique as he was about to collect parcels carrying cannabis. [@1,4,6]
+Coyhaique as he was about to collect parcels carrying cannabis. [@1,4,6,7]
 Investigators identified him as the final recipient of the drug in the region.
-[@1,4] The PDI described the arrested man as a Chilean adult with no police record. [@4,6] At a formalisation hearing, a court placed him in preventive detention.
-[@3,5,6] According to the investigation, a Chilean inmate already serving a sentence
+[@1,4,7] The PDI described the arrested man as a Chilean adult with no police record. [@4,6,7] At a formalisation hearing, a court placed him in preventive detention.
+[@3,5,6,7] According to the investigation, a Chilean inmate already serving a sentence
 for drug trafficking coordinated the shipments from inside Coyhaique prison.
-[@1,4,6] Radio Santa María described the prisoner as the leader of the criminal
+[@1,4,6,7] Radio Santa María described the prisoner as the leader of the criminal
 structure, operating from inside the jail. [@3]
 
 The PDI and the Aysén public prosecutor's office said the organisation used
 legitimate freight companies and parcel services, hiding the cannabis among
-ordinary consignments sent from the Metropolitan Region to Patagonia. [@1,4,6]
+ordinary consignments sent from the Metropolitan Region to Patagonia. [@1,4,6,7]
 Investigators used special techniques under Law 20,000, Chile's drug-trafficking
 law, to identify the final recipient and the person coordinating the transfer
-from the capital. [@1,4,6] Prefect Eduardo Gatica, head of the PDI's Coyhaique
+from the capital. [@1,4,6,7] Prefect Eduardo Gatica, head of the PDI's Coyhaique
 provincial prefecture, said the cannabis was intended for distribution to young
 people in the city. [@1] Prefect Gatica said the procedure resulted from criminal-analysis and police-intelligence work carried out with the Public Prosecutor's Office. [@6] According to the investigation, the arrested man
 intended to store the cannabis and sell it in small quantities, known in Chile
-as microtráfico. [@1,4]
+as microtráfico. [@1,4,7]
 
 The load weighed 12 kilograms of cannabis sativa, which the PDI said was
-equivalent to more than 120,000 doses. [@1,4,6] The PDI valued the cannabis at more
-than 198 million pesos. [@2,4,6] Gatica said the operation had kept the drug out of
+equivalent to more than 120,000 doses. [@1,4,6,7] The PDI valued the cannabis at more
+than 198 million pesos. [@2,4,6,7] Gatica said the operation had kept the drug out of
 the region's distribution circuit. [@1,4]
