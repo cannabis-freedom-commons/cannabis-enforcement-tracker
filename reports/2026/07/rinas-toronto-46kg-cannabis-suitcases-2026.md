@@ -83,6 +83,10 @@ sources:
     publisher: 温哥华港湾（BCbay.com）
     date: 2026-11-11
     language: zh
+  - title: Canadian Faces 15 Years in Albanian Prison After Alleged Baggage Tag Swap at Pearson
+    url: https://www.travelmarketreport.com/canada/air/articles/canadian-faces-15-years-in-albanian-prison-after-alleged-baggage-tag-swap-at-pearson
+    publisher: Travel Market Report
+    date: 2026-11-11
 open_questions:
     - Police said the two suitcases held about 46 kilograms, valued at about 250,000 euros; CTV News later reported 23.15 kilograms in one bag and 23 kilograms in another, worth almost C$400,000.
     - The July police notice said two women were prosecuted while at large, while CTV News later said the other Canadian passenger was released without charges.
@@ -113,6 +117,6 @@ another Canadian passenger on the same flight was detained because her tag was
 on a second suitcase with 23 kilograms of cannabis, and that she was released
 without charges. [@1,6,7] Albanian police told CTV News the cannabis was worth
 almost C$400,000. [@1,6,7] His trial is expected to begin in early 2027, and he
-faces up to 15 years in prison. [@1,6,7] An Air Transat spokesperson said the airline took the allegations of interference with its baggage system seriously, had cooperated with the investigation and given authorities the operational information it had. [@7] In an October email, the RCMP wrote that it
+faces up to 15 years in prison. [@1,6,7] An Air Transat spokesperson said the airline took the allegations of interference with its baggage system seriously, had cooperated with the investigation and given authorities the operational information it had. [@7] Air Transat acknowledged the family's distress in a statement provided to W5. [@8] In an October email, the RCMP wrote that it
 believed he was the victim of a bag-tag switch and that the couple had checked
 in only the four bags they later collected. [@1,7]
