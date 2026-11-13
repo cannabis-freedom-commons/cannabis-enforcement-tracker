@@ -2,15 +2,15 @@
 added_at_source: git
 added_at: "2026-11-01T05:27:25.000Z"
 code: MC7Z44
-date: 2026-11-03
+date: 2026-11-12
 country: ro
 place: Costinești, Constanța County
 coordinates: [43.951, 28.635]
 precision: locality
 type: prosecution
 also: [sentence]
-title: Wiz Khalifa's nine-month cannabis sentence annulled for retrial
-summary: On 3 November 2026 the Constanta Court of Appeal annulled American rapper Wiz Khalifa's final nine-month prison sentence for smoking cannabis on stage at the Beach Please festival in Costinesti and cancelled the prison warrant. Prosecutors' DIICOT appeal will be retried on 12 November 2026, with steps for Khalifa to join by videoconference.
+title: Wiz Khalifa heard by videoconference in Bucharest retrial of cannabis case
+summary: On 12 November 2026 the Bucharest Court of Appeal retried the DIICOT appeal in Wiz Khalifa's cannabis case, hearing the rapper by videoconference for 10 to 15 minutes. He admitted guilt, said he regretted the act, offered community service in Romania, and the court is expected to rule by the end of November.
 figures:
     charged: 1
     prison: 9 months
@@ -25,14 +25,16 @@ details:
   sentence_types: [prison]
   setting: [prison]
 data_sources:
-  details.activity: [2, 1, 3, 7, 9, 10]
-  details.agency_types: [1, 2, 7, 14, 16, 6]
-  details.case_stage: [12, 14, 15, 16, 18]
-  details.date_precision: [2, 1, 3, 5, 6, 7]
-  details.products: [1, 2, 3, 14, 7, 16]
-  details.sentence_types: [1, 2, 3, 14, 7, 16]
-  details.setting: [1, 2, 3, 14, 7, 16]
-  figures.prison: [1, 2, 3, 14, 7, 16]
+    details.activity: [2, 1, 3, 7, 9, 10]
+    details.agency_types: [1, 2, 7, 14, 16, 6]
+    details.case_stage: [12, 14, 15, 16, 18]
+    details.date_precision: [2, 1, 3, 5, 6, 7]
+    details.products: [1, 2, 3, 14, 7, 16]
+    details.sentence_types: [1, 2, 3, 14, 7, 16]
+    details.setting: [1, 2, 3, 14, 7, 16]
+    figures.prison: [24]
+    figures.charged: [25]
+    figures.kg_seized: [24]
 status: verified
 tags: [costinesti, festival, appeal]
 sources:
@@ -144,6 +146,21 @@ sources:
     publisher: CugetLiber.ro
     date: 2026-11-12
     language: ro
+  - title: Wiz Khalifa, rejudecat după ce a fumat canabis pe scenă. Ce le-a spus rapperul magistraților români, prin videoconferință (surse)
+    url: https://www.digi24.ro/stiri/actualitate/justitie/wiz-khalifa-rejudecat-dupa-ce-a-fumat-canabis-pe-scena-ce-le-a-spus-rapperul-magistratilor-romani-prin-videoconferinta-surse-4033657
+    publisher: Digi24
+    date: 2026-11-12
+    language: ro
+  - title: Rapperul Wiz Khalifa, audiat prin videoconferință în dosarul consumului de canabis de la festival. Ce le-a spus magistraților de la Curtea de Apel București – Surse
+    url: https://www.gandul.ro/actualitate/wiz-khalifa-audiere-videoconferinta-apel-bucuresti-21062885
+    publisher: Gândul
+    date: 2026-11-12
+    language: ro
+  - title: Wiz Khalifa, audiat prin videoconferință la Curtea de Apel
+    url: https://primapagina.ro/2026-11-12/wiz-khalifa-audiat-prin-videoconferinta-la-curtea-de-apel.html
+    publisher: Prima Pagina
+    date: 2026-11-12
+    language: ro
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/c93wxp2p05xo
@@ -155,6 +172,10 @@ media:
     media_url: https://tb.ziareromania.ro/R--sturnare-de-situa--ie---n-dosarul-Wiz-Khalifa--Judec--torii-au-anulat-condamnarea-la---nchisoare--Procesul-se-rejudec--/0e2d856af9f582d92b/400/225/2/100/R--sturnare-de-situa--ie---n-dosarul-Wiz-Khalifa--Judec--torii-au-anulat-condamnarea-la---nchisoare--Procesul-se-rejudec--.jpg
     publisher: Ziare.Com
     caption: 'Wiz Khalifa smoking a cannabis cigarette on stage at the Beach Please festival. Photo: video capture via Facebook/Cătălin Țone'
+open_questions:
+  - No court decision has yet been reported; the Bucharest Court of Appeal is expected to rule by the end of November 2026.
+  - Whether community service or another alternative sentence will be imposed, and whether the nine-month prison term will be reinstated, is not yet known.
+  - The account of what Wiz Khalifa said in the hearing rests on Digi24's reporting, with other outlets repeating it; no court record of the hearing was published.
 ---
 
 On Thursday 18 December 2025 the Constanța Court of Appeal upheld prosecutors' appeal and sentenced
@@ -163,7 +184,7 @@ risk drugs for personal use. [@1,2,3,14,21] The court's final decision replaced 
 3,600 lei and ordered the term served in detention. [@1,2,7,14,16,23]
 
 Prosecutors said that on 13 July 2024, around 23:55, Jibril possessed 18.53 grams of cannabis and
-smoked a cannabis cigarette on stage during the Beach Please festival in Costinești. [@1,6,8,12,13,14,15,16,23] Police had
+smoked a cannabis cigarette on stage during the Beach Please festival in Costinești. [@1,6,8,12,13,14,15,16,23,24] Police had
 briefly detained him after the concert in 2024 before releasing him pending trial. [@2,16] After his release, Khalifa said he had not meant to show disrespect to Romania by smoking on stage, that the officers had been decent and let him go, and that he would return soon, next time without a giant joint. [@22]
 
 Romanian police told News.ro he was placed under national search and that an international warrant
@@ -173,11 +194,11 @@ Judges said the public consumption at a youth festival normalised illegal drug u
 
 The charge was personal possession, not trafficking, under Law 143/2000. [@1,2]
 
-On 3 November the Constanta Court of Appeal set aside the decision that had convicted American rapper Wiz Khalifa in Romania for smoking cannabis on the stage of the Beach, Please! festival at Costinesti. [@3] The judges admitted the artist's contestation in annulment against penal decision No. 1222/P of 18 December 2025 in case No. 7777/118/2024. [@3,4,6,7,9] With that ruling the prison-execution warrant issued by the Constanta Tribunal also falls. [@3,5,6,7,9,10,11,12,14,15,16,17,18,19,20,21,22,23] The cancelled prison-execution warrant was No. 269 of 18 December 2025. [@22] The DIICOT prosecutors' appeal will be heard again on 12 November 2026 at 16:00, and the court ordered steps for Wiz Khalifa to take part by videoconference. [@3,4,7,10,11,12,13,14,16,17,18,19,20,21,22,23] State-advanced court costs remain on him. [@3,21]
+On 3 November the Constanta Court of Appeal set aside the decision that had convicted American rapper Wiz Khalifa in Romania for smoking cannabis on the stage of the Beach, Please! festival at Costinesti. [@3] The judges admitted the artist's contestation in annulment against penal decision No. 1222/P of 18 December 2025 in case No. 7777/118/2024. [@3,4,6,7,9] With that ruling the prison-execution warrant issued by the Constanta Tribunal also falls. [@3,5,6,7,9,10,11,12,14,15,16,17,18,19,20,21,22,23] The cancelled prison-execution warrant was No. 269 of 18 December 2025. [@22] The DIICOT prosecutors' appeal will be heard again on 12 November 2026 at 16:00, and the court ordered steps for Wiz Khalifa to take part by videoconference. [@3,4,7,10,11,12,13,14,16,17,18,19,20,21,22,23] The retrial hearing went ahead on 12 November 2026, with Wiz Khalifa heard by videoconference from 16:00. [@24] State-advanced court costs remain on him. [@3,21]
 
 On 3 November the Bucharest Court of Appeal admitted Khalifa's contestation in annulment and set aside the Constanța Court of Appeal's penal decision of 18 December 2025. [@6,8,9,10,12,13,14,15,16,17,18,19,20] At Khalifa's request, the High Court of Cassation and Justice transferred the annulment file from the Constanța Court of Appeal to the Bucharest Court of Appeal for judgment. [@6,8,12,13,14,15,23]
 
-The appeal retrial will take place at the Bucharest Court of Appeal. [@7,9,10,11]
+The appeal retrial will take place at the Bucharest Court of Appeal. [@7,9,10,11] The Bucharest Court of Appeal judges are expected to issue a decision in the case by the end of November 2026. [@26] He also told the magistrates he was willing to perform community service in Romania, and that he had donated and would continue to donate to organisations fighting drug use. [@25] He was heard for 10 to 15 minutes, admitted his guilt, and said he regretted the act. [@24]
 
 In May, Romanian Police placed him on the general search list under the warrant issued in his name. [@12] The transfer request was filed in mid-September on defence arguments about ensuring an impartial judgment. [@12]
 
