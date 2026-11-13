@@ -50,32 +50,37 @@ sources:
     url: https://kfor.com/video/investigation-leads-police-to-900-pounds-of-illegal-marijuana-in-edmond/12366887/
     publisher: KFOR.com Oklahoma City
     date: 2026-11-12
+  - title: Investigation leads police to 900+ pounds of illegal marijuana in Edmond
+    url: https://kfor.com/news/investigation-leads-police-to-900-pounds-of-illegal-marijuana-in-edmond/amp/
+    publisher: KFOR.com Oklahoma City
+    date: 2026-11-13
 open_questions:
-  - The article gives no exact date for the car stop or the house search; it says the car was pulled over in late October, and 13 November 2026 is the publication date, used as the incident date.
-  - No specific charges were named; the article only says Edmond Police submitted charges to the Oklahoma County District Attorney's Office and that the suspect bonded out.
-  - The marijuana weight is stated as roughly 950 pounds, not an exact measured figure.
-  - Only one accessible source (KFOR via Yahoo) was found for this event.
+    - The article gives no exact date for the car stop or the house search; it says the car was pulled over in late October, and 13 November 2026 is the publication date, used as the incident date.
+    - No specific charges were named; the article only says Edmond Police submitted charges to the Oklahoma County District Attorney's Office and that the suspect bonded out.
+    - The marijuana weight is stated as roughly 950 pounds, not an exact measured figure.
+    - The account rests on a single KFOR article, also republished by Yahoo News, so there is no independent second account.
+    - What happens to the submitted charges and the financial-crime inquiry is not reported.
 ---
 
 Edmond police investigated suspicious drug activity in the area, which led them
-to a home that was acting as a stash house for a drug operation. [@1] The
+to a home that was acting as a stash house for a drug operation. [@1,3] The
 investigation led them to a home in a newly developed community near Danforth
-and Kelly. [@1]
+and Kelly. [@1,3] Documents say the car was known for alleged drug trafficking and made short-term visits to the residence. [@3]
 
 In late October, Edmond police pulled the suspect's car over on Danforth for
-allegedly illegally crossing multiple marked lanes. [@1] Police arrested
+allegedly illegally crossing multiple marked lanes. [@1,3] Police arrested
 38-year-old Qiu Li, who was behind the wheel, after a K-9 alerted on his car and
-an officer smelled marijuana. [@1] Police found rolls of packing tape and used
-dryer sheets inside the car. [@1] Acting on a search warrant, detectives
-recovered over 900 pounds of marijuana inside the house. [@1,2] Detectives found a
+an officer smelled marijuana. [@1,3] Police found rolls of packing tape and used
+dryer sheets inside the car. [@1,3] Acting on a search warrant, detectives
+recovered over 900 pounds of marijuana inside the house. [@1,2,3] Detectives found a
 significant amount of black trash bags filled with marijuana, mostly in
-heat-sealed plastic containers. [@1] The house had no food and the only
-furniture was an inflatable mattress in a bedroom. [@1] In total, the
-confiscated marijuana weighed roughly 950 pounds, about 431 kilograms. [@1]
+heat-sealed plastic containers. [@1,3] Detectives also found heat-sealing machines, tape and clear packing bags. [@3] The house had no food and the only
+furniture was an inflatable mattress in a bedroom. [@1,3] Neighbors told KFOR off camera they did not know whether anyone was living there. [@3] In total, the
+confiscated marijuana weighed roughly 950 pounds, about 431 kilograms. [@1,3]
 
 A new search warrant uncovered financial documents at the suspect's actual home
-showing large amounts in a bank account. [@1] Investigators believe the business
+showing large amounts in a bank account. [@1,3] The account is tied to a company Li allegedly works at, and court documents say he told police he works at Claw Machine. [@3] Investigators believe the business
 is an illegal front to launder drug money through the bank account to other
-financial institutions. [@1] Li was booked into the Oklahoma County Jail but has
-since bonded out. [@1] Edmond Police have submitted charges to the Oklahoma
-County District Attorney's Office. [@1]
+financial institutions. [@1,3] Court documents say investigators are now looking into whether possible financial crimes were committed too. [@3] Li was booked into the Oklahoma County Jail but has
+since bonded out. [@1,3] Edmond Police have submitted charges to the Oklahoma
+County District Attorney's Office. [@1,3]
