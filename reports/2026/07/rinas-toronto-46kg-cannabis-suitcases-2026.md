@@ -12,11 +12,11 @@ title: Toronto passenger held at Rinas over 46 kg of cannabis
 summary: >-
   Albanian police arrested a 34-year-old Toronto passenger at Rinas airport on 3 July 2026 after customs found about 46 kilograms of suspected cannabis in two suitcases on a Toronto flight. Police valued the haul at about 250,000 euros; he was later released on bail and faces a trial in early 2027.
 figures:
-  arrested: 1
-  kg_seized: 46
-  value:
-    amount: 250000
-    currency: EUR
+    arrested: 1
+    kg_seized: 46
+    value:
+        amount: 250000
+        currency: EUR
 details:
   agencies: [Albanian State Police (Policia e Shtetit), Rinas Customs]
   agency_types: [police, customs, anti-narcotics]
@@ -87,6 +87,11 @@ sources:
     url: https://www.travelmarketreport.com/canada/air/articles/canadian-faces-15-years-in-albanian-prison-after-alleged-baggage-tag-swap-at-pearson
     publisher: Travel Market Report
     date: 2026-11-11
+  - title: 行李牌疑遭調包 多倫多男捲入阿爾巴尼亞運毒案 罪成最高囚15年
+    url: https://www.singtao.ca/7681554/2026-11-11/news-%E8%A1%8C%E6%9D%8E%E7%89%8C%E7%96%91%E9%81%AD%E8%AA%BF%E5%8C%85%E3%80%80%E5%A4%9A%E5%80%AB%E5%A4%9A%E7%94%B7%E6%8D%B2%E5%85%A5%E9%98%BF%E7%88%BE%E5%B7%B4%E5%B0%BC%E4%BA%9E%E9%81%8B%E6%AF%92%E6%A1%88%E3%80%80%E7%BD%AA%E6%88%90%E6%9C%80%E9%AB%98%E5%9B%9A15%E5%B9%B4/
+    publisher: Sing Tao Canada 星島加拿大
+    date: 2026-11-11
+    language: zh
 open_questions:
     - Police said the two suitcases held about 46 kilograms, valued at about 250,000 euros; CTV News later reported 23.15 kilograms in one bag and 23 kilograms in another, worth almost C$400,000.
     - The July police notice said two women were prosecuted while at large, while CTV News later said the other Canadian passenger was released without charges.
@@ -95,6 +100,7 @@ open_questions:
     - The RCMP wrote that Gjoni was the victim of a bag-tag switch; Albanian police treated the luggage as part of an attempted trafficking case.
     - Albanian police publicly suggested the couple lied about the pregnancy before a second hospital confirmed it; it is not known whether police accepted that finding.
     - It is not known whether his wife was formally arrested or charged, or for how long she was held in custody.
+    - The text gives a weight ("46 kilograms") but the figures have no kg_seized; check whether it belongs there.
 ---
 
 On 3 July 2026, customs and state police at Rinas airport seized about 46
@@ -111,7 +117,7 @@ flight was scanned, then searched in the presence of the luggage owners. [@3]
 
 Gjoni, a Toronto businessman on an Air Transat flight with his wife, told CTV
 News that the bag officers ordered him to collect was not his and held 23.15
-kilograms of cannabis. [@1,7] CTV's W5 reported that hospital records in Canada and Albania confirmed she was pregnant and had miscarried. [@6,7] His pregnant wife was also taken into police custody. [@6,7] He said Albanian police held him for four days in
+kilograms of cannabis. [@1,7,9] CTV's W5 reported that hospital records in Canada and Albania confirmed she was pregnant and had miscarried. [@6,7] His pregnant wife was also taken into police custody. [@6,7] He said Albanian police held him for four days in
 solitary confinement, then released him on bail. [@1,7] His Albanian anti-corruption lawyer, Ndue Pjetra, submitted W5's earlier reports on baggage-tag switches to a court and argued that criminals had used an airport loophole to plant the bag. [@7] He had to report to police in Tirana, first monthly and later every four months. [@6,7] CTV News reported that
 another Canadian passenger on the same flight was detained because her tag was
 on a second suitcase with 23 kilograms of cannabis, and that she was released
@@ -119,4 +125,4 @@ without charges. [@1,6,7] Albanian police told CTV News the cannabis was worth
 almost C$400,000. [@1,6,7] His trial is expected to begin in early 2027, and he
 faces up to 15 years in prison. [@1,6,7] An Air Transat spokesperson said the airline took the allegations of interference with its baggage system seriously, had cooperated with the investigation and given authorities the operational information it had. [@7] Air Transat acknowledged the family's distress in a statement provided to W5. [@8] In an October email, the RCMP wrote that it
 believed he was the victim of a bag-tag switch and that the couple had checked
-in only the four bags they later collected. [@1,7]
+in only the four bags they later collected. [@1,7,9]
