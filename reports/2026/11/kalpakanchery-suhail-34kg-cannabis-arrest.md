@@ -49,11 +49,11 @@ sources:
     publisher: Marunadan Malayalee
     date: 2026-11-13
     language: ml
-open_questions:
-    - The exact date and time of day of Suhail's arrest beyond noon are not given in these reports.
-    - The 34 kg total is the case total for the 23 and 30 August seizures; the split between the two consignments (18.240 kg and 16 kg) leaves a discrepancy of about 240 g.
-    - No charge or formal case number is reported for Suhail; the reports name no charges and no court outcome beyond remand.
-    - The submitted source says three West Bengal natives were arrested in August, while the report names two (S.K. Suman and Lal Chand Sheikh); the count of West Bengal arrestees is uncertain.
+  - title: ട്രെയിൻ മാർഗം 34 കിലോയലധികം കഞ്ചാവ് കടത്തയ കേസിൽ മലപ്പുറം സ്വദേശി പിടിക്ക
+    url: https://pathanamthittamedia.com/a-native-of-malappuram-has-been-arrested-in-a-case-involving-the-smuggling-of-over-34-kilograms-of-ganja-by-train/
+    publisher: Pathanamthitta Media
+    date: 2026-11-12
+    language: ml
 media:
   - kind: photo
     url: https://marunadanmalayalee.com/amp/news/keralam/news-869971
@@ -64,7 +64,7 @@ media:
 
 Kozhikode railway police arrested Suhail K.P. of Manjachola in Kalpakanchery,
 Malappuram, at his home in Kalpakanchery on Wednesday noon, 11 November 2026.
-[@1] The arrest came in a case registered at Kozhikode railway police station in
+[@1,4] The arrest came in a case registered at Kozhikode railway police station in
 August over more than 34 kg of cannabis smuggled by train on 23 and 30 August.
 [@1]
 
@@ -72,8 +72,8 @@ On 23 August, Kozhikode railway police, with a DANSAF team, arrested two West
 Bengal natives, S.K. Suman, 19, and Lal Chand Sheikh, 29, with 18.240 kg of
 cannabis on the Mangalore Central Mail Express. [@1,3] On 30 August, the same
 police arrested a woman named Minotti Sardar with 16 kg of cannabis in a similar
-case. [@1] Police traced Suhail after examining the earlier arrests, call detail
-records and bank account details of those held. [@1] Police found that Suhail had carried out UPI transactions worth lakhs of rupees with Abdul Baralai, the West Bengal native who had brought the cannabis from Odisha to the suspects arrested in Kozhikode; his modus operandi was buying the ganja from him and distributing it in the Tirur area. [@3]
+case. [@1,4] Police traced Suhail after examining the earlier arrests, call detail
+records and bank account details of those held. [@1] Police found that Suhail had carried out UPI transactions worth lakhs of rupees with Abdul Baralai, the West Bengal native who had brought the cannabis from Odisha to the suspects arrested in Kozhikode; his modus operandi was buying the ganja from him and distributing it in the Tirur area. [@3,4]
 
 Mathrubhumi reports that Suhail had drug cases registered against him in the
 Kuzhalmandam and Kuttippuram excise ranges and at the Kalpakanchery police
