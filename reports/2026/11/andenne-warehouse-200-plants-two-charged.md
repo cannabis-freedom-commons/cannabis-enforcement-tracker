@@ -56,28 +56,26 @@ sources:
     publisher: Parquet de Namur
     date: 2026-11-13
     language: fr
-open_questions:
-  - The Belga/La Libre account says 200 cannabis plants while the prosecutor says more than 200; the report uses the concrete figure of 200.
-  - No weight was given for the other drugs seized, and no amount was given for the cash, so neither is counted in figures.
-  - The two suspects are identified only by birth year; no plea or later court outcome was reported.
-  - Both outlets rest on the same Namur prosecutor/Arches police account, so they are not fully independent.
-  - Communiqué de presse - Parquet de Namur & ZP des Arches - Plantation de cannabis découverte à Andenne (Parquet de Namur) could not be opened again to check its quotations (the browser-rendered page has almost no readable article text (it may require a login, show an access challenge, or contain only media); archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.
+  - title: 'Andenne : 200 plants de cannabis dans un hangar, deux individus interpellés'
+    url: https://www.lavenir.net/regions/namur/andenne/2026/11/13/andenne-200-plants-de-cannabis-dans-un-hangar-deux-individus-interpelles-ILGXHINX5ZFZJLXP5YS7LIEY3A/
+    publisher: L'Avenir
+    date: 2026-11-13
+    language: fr
 ---
 
 Two people were charged after police found a cannabis plantation in a warehouse
 in Andenne, according to the Namur prosecutor. [@1] One suspect, born in 1966,
 was found at the warehouse and deprived of liberty. [@2] An investigating judge
 issued an arrest warrant for the suspect born in 1966 and charged him with sale,
-possession and cultivation of narcotics. [@2] A second suspect, born in 1972,
-was also deprived of liberty. [@2] The second suspect was charged with sale and
+possession and cultivation of narcotics. [@2,3] A second suspect, born in 1972,
+was also deprived of liberty. [@2,3] The second suspect was charged with sale and
 possession of narcotics and released under conditions. [@2]
 
 During the search, the Arches police zone seized 200 cannabis plants along with
 other drugs, a phone, cash and a vehicle. [@1] The prosecutor's statement lists
-more than 200 cannabis plants among the items seized. [@2] The case was placed
+more than 200 cannabis plants among the items seized. [@2,3] The case was placed
 under judicial investigation for drug-law offences. [@2]
 
 The prosecutor says the plantation was discovered in the Andenne warehouse on 9
-November 2026. [@2] The prosecutor and the Arches police zone describe fighting
+November 2026. [@2,3] The prosecutor and the Arches police zone describe fighting
 drugs as a priority under their 2026-2031 zonal security plan. [@2]
-
