@@ -60,6 +60,11 @@ media:
     media_url: https://www.kamnik.info/wp-content/uploads/2026/11/zasezen-kokain-1-2026.jpg
     publisher: Kamnik.info
     caption: 'Packaged cocaine seized during the same Kamnik house search. Photo: Ljubljana Police Administration.'
+  - kind: photo
+    url: https://siol.net/novice/slovenija/kriminalisti-zasegli-vec-kot-tisoc-sadik-konoplje-706240
+    media_url: https://siol.net/media/img/c5/a3/4d7aa5329a7be10a4441-zaseg-konoplje.png
+    publisher: siol.net
+    caption: 'Seized cannabis seedlings and growing equipment from the Kamnik house search, Ljubljana Police Administration handout published by siol.net. Photo: PU Ljubljana'
 status: verified
 created_by_model: marketplace/moonshotai/kimi-k3.1-pro
 submission: e18cbc47429e399441523aa5437cb419
@@ -75,6 +80,11 @@ sources:
     publisher: 24ur.com
     date: 2026-11-13
     language: sl
+  - title: Kriminalisti zasegli več kot tisoč sadik konoplje
+    url: https://siol.net/novice/slovenija/kriminalisti-zasegli-vec-kot-tisoc-sadik-konoplje-706240
+    publisher: siol.net
+    date: 2026-11-13
+    language: sl
 open_questions:
   - The plant total is reported only as more than 1,000, so 1,000 is the recorded lower-bound count rather than an exact total.
   - The dried cannabis weight was reported as approximately 2 kilograms, not an exact measured figure.
@@ -84,18 +94,17 @@ open_questions:
 ---
 
 Police arrested two Serbian citizens after discovering a cannabis-growing space
-in the Kamnik area. [@1] The Ljubljana Police Administration's criminal police
-sector searched a house there on Wednesday, 11 November 2026. [@1] The suspects
+in the Kamnik area. [@1,3] The Ljubljana Police Administration's criminal police
+sector searched a house there on Wednesday, 11 November 2026. [@1,3] The suspects
 were aged 37 and 35, and police acted on gathered information and a court order.
-[@1]
+[@1,3]
 
 Inside the specially adapted growing space were more than 1,000 cannabis
-seedlings. [@1] Police seized about 2 kilograms of dried cannabis and numerous
-pieces of growing equipment. [@1] They also seized more than 1 kilogram of
-cocaine and around €3,000 in cash. [@1]
+seedlings. [@1,3] Police seized about 2 kilograms of dried cannabis and numerous
+pieces of growing equipment. [@1,3] They also seized more than 1 kilogram of
+cocaine and around €3,000 in cash. [@1,3]
 
-Investigators detained both men and ordered pridržanje, or police custody. [@1]
+Investigators detained both men and ordered pridržanje, or police custody. [@1,3]
 On Thursday, 12 November, the men were brought before an investigating judge
-with a criminal complaint. [@2] The judge ordered pripor, detention on remand,
-for both suspects. [@2]
-
+with a criminal complaint. [@2,3] The judge ordered pripor, detention on remand,
+for both suspects. [@2,3]
