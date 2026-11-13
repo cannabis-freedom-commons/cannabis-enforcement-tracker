@@ -75,6 +75,10 @@ sources:
     publisher: Daily Tribune
     date: 2026-11-12
     language: en
+  - title: Customs found P89.16 million in drugs inside 12 abandoned air cargo parcels
+    url: https://astig.ph/boc-naia-12-abandoned-parcels-p89-16-million-drugs-2026/
+    publisher: 'ASTIG: Philippine News & Reviews'
+    date: 2026-11-11
 open_questions:
     - No one was reported arrested or charged over the 12 parcels; the addressees and senders were not named.
     - The parcels were reported to originate from Thailand, India, the United States and the Netherlands, but their destination addresses were not reported.
@@ -91,8 +95,8 @@ media:
 
 Police and inter-agency personnel intercepted 12 abandoned inbound parcels at
 the Central Mail Exchange Center along Domestic Road in Pasay City on 6 November
-2026. [@1,3] Personnel recovered the packages on 6 November during inspections of 12 abandoned air cargo parcels at a local warehouse in Pasay City. [@7] The parcels were declared to contain clothing, toys, household items, vehicle parts and gifts. [@4,6,7] The parcels originated from Thailand, India, the United States and the Netherlands. [@4,6,7] The parcels held about 1,563 grams of suspected marijuana kush, which
-the police valued at ₱1,563,000. [@1,4,6] Kush here means high-grade marijuana; no
+2026. [@1,3] Personnel recovered the packages on 6 November during inspections of 12 abandoned air cargo parcels at a local warehouse in Pasay City. [@7,8] The parcels were declared to contain clothing, toys, household items, vehicle parts and gifts. [@4,6,7] The parcels originated from Thailand, India, the United States and the Netherlands. [@4,6,7] The parcels held about 1,563 grams of suspected marijuana kush, which
+the police valued at ₱1,563,000. [@1,4,6,8] Kush here means high-grade marijuana; no
 one was arrested over the parcels. [@1]
 
 The same parcels carried about 11,241 grams of shabu, the local name for
@@ -105,7 +109,7 @@ the same two days police arrested four people in Iloilo and South Cotabato
 buy-bust operations, none of them in connection with the Pasay parcels. [@2]
 
 The parcels' contents were to be turned over to the National Office of PDEA, the
-Philippine Drug Enforcement Agency, for disposition. [@1] The seized substances were submitted to the PDEA Laboratory Service for testing, with an investigation ongoing into whether to file charges. [@3,6,7] BOC-NAIA led the operation in coordination with the Customs Anti-Illegal Drugs Task Force, the NAIA Inter-Agency Drug Interdiction Task Group, PDEA and other agencies. [@3,6,7] PNP chief Police
+Philippine Drug Enforcement Agency, for disposition. [@1] The seized substances were submitted to the PDEA Laboratory Service for testing, with an investigation ongoing into whether to file charges. [@3,6,7,8] BOC-NAIA led the operation in coordination with the Customs Anti-Illegal Drugs Task Force, the NAIA Inter-Agency Drug Interdiction Task Group, PDEA and other agencies. [@3,6,7,8] PNP chief Police
 General Jose Melencio Nartatez Jr. said networks using transport and delivery
 facilities would be pursued and those behind the shipments held accountable.
 [@2]
