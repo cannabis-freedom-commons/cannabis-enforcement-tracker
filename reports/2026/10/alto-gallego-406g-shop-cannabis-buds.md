@@ -65,10 +65,11 @@ sources:
     publisher: Jacetania Express
     date: 2026-11-12
     language: es
-open_questions:
-  - The municipality of the shop within the Alto Gállego was not named.
-  - Laboratory results were still pending, so it was not confirmed whether the buds contained a narcotic or were CBD.
-  - No arrest was reported, and no hearing date or court outcome was given.
+  - title: La Guardia Civil investiga a una comerciante del Alto Gállego por vender derivados de cannabis
+    url: https://www.pirinews.es/la-guardia-civil-investiga-a-una-comerciante-del-alto-gallego-por-vender-derivados-de-cannabis/
+    publisher: Pirinews
+    date: 2026-11-12
+    language: es
 ---
 
 The Guardia Civil is investigating a 44-year-old woman as the suspected author
@@ -79,18 +80,18 @@ Alto Gállego comarca. [@1,3,4]
 
 On 26 October 2026 officers from the Sabiñánigo post of the Guardia Civil,
 working with the Fiscal and Borders Detachment of the Huesca command, inspected
-the shop because that trade is subject to state control. [@1,3,4] On the shelves, in
+the shop because that trade is subject to state control. [@1,3,4,5] On the shelves, in
 view of the public, they found numerous bags of flowering tops, commonly called
 cogollos, supposedly from the cannabis sativa plant. [@1,3,4] During the operation
 the bags were on display for sale to the public. [@2,3,4] Preliminary reagent tests
-for the possible presence of narcotic substances were positive. [@1,3,4] Officers
+for the possible presence of narcotic substances were positive. [@1,3,4,5] Officers
 seized 74 bags, corresponding to about 30 different sale formats of flavours and
-models, with a combined weight of about 406 grams. [@1,3,4]
+models, with a combined weight of about 406 grams. [@1,3,4,5]
 
 The Sabiñánigo post opened a file and sent it to plaza number 2 of the Tribunal
-de Instancia in Jaca. [@1,3,4] The investigated woman must appear before the
-judicial authority when she is required to do so. [@1,3] The seized substances
+de Instancia in Jaca. [@1,3,4,5] The investigated woman must appear before the
+judicial authority when she is required to do so. [@1,3,5] The seized substances
 were sent to the health area of the Government Delegation in Zaragoza for
-analysis to determine their composition. [@1,3,4] Those results are intended to
+analysis to determine their composition. [@1,3,4,5] Those results are intended to
 establish the nature of the seized products after the preliminary tests during
 the inspection were positive. [@1]
