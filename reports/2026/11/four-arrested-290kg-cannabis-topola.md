@@ -62,6 +62,11 @@ sources:
     publisher: Euronews Serbia
     date: 2026-11-13
     language: sr
+  - title: 'Велика запљена дроге код Тополе: Полиција одузела 90 килограма марихуане'
+    url: https://www.glassrpske.com/cir/hronika/hronika_vijesti/velika-zapljena-droge-kod-topole-policija-oduzela-90-kilograma-marihuane/662033
+    publisher: Glas Srpske
+    date: 2026-11-13
+    language: sr
 open_questions:
   - The articles give no separate date for the search; 13 November 2026 is their publication date and is used for the incident date.
   - Neither source confirms by laboratory analysis that the seized material was cannabis; the 90 kilograms are described as resembling marijuana and the 200 kilograms as suspected psychoactive cannabis.
@@ -79,12 +84,11 @@ to the competent prosecutor's office in Kragujevac with a criminal complaint.
 [@2]
 
 Police found the four men during a search of a flat and other rooms in Topola
-municipality used by the suspect being sought. [@1] In that search police seized
+municipality used by the suspect being sought. [@1,3] In that search police seized
 about 90 kilograms of a drug resembling marijuana, along with equipment for
-growing and processing the drug and precision scales. [@1] A short distance from
+growing and processing the drug and precision scales. [@1,3] A short distance from
 the building, in a forested part of the plot, police found and seized about 200
-kilograms of cut plants suspected to be psychoactive cannabis. [@1]
+kilograms of cut plants suspected to be psychoactive cannabis. [@1,3]
 
 Together, the two seizures amounted to about 290 kilograms of suspected cannabis
 material. [@1]
-
