@@ -49,6 +49,11 @@ sources:
     publisher: Tribrata News Polda Jambi
     date: 2026-11-13
     language: id
+  - title: Polres Kerinci Temukan Tanaman Ganja di Perladangan Renah Kayu Embun
+    url: https://jambi.tribunnews.com/jambi/1210591/polres-kerinci-temukan-tanaman-ganja-di-perladangan-renah-kayu-embun
+    publisher: Tribunjambi.com
+    date: 2026-11-13
+    language: id
 open_questions:
   - No one was arrested and the owner of the plants was still being sought; no charge or court outcome was reported.
   - The six plants were described only as suspected ganja; no laboratory confirmation had been reported yet.
@@ -56,14 +61,13 @@ open_questions:
 ---
 
 In RT 11 of Renah Kayu Embun village, officers found two black flower pots
-partly buried in the soil. [@1] Each pot held three plants suspected to be
+partly buried in the soil. [@1,3] Officers walked about 45 minutes through steep, slippery terrain to reach the site. [@3] The operation was triggered by public information about suspected illegal cultivation in the area. [@3] Each pot held three plants suspected to be
 ganja, six in total, which were uprooted together with their pots and secured as
-evidence. [@1] Police had not identified the owner of the plants; the owner's
+evidence. [@1,3] Police had not identified the owner of the plants; the owner's
 identity and those suspected to be involved remained under investigation by
-Satresnarkoba Polres Kerinci. [@1]
+Satresnarkoba Polres Kerinci. [@1,3]
 
 The six plants and their pots were uprooted and taken to Mapolres Kerinci for
-further examination. [@2] The follow-up steps included witness examinations, an
+further examination. [@2,3] The follow-up steps included witness examinations, an
 initial case conference, completing the investigation file and laboratory
-testing of the evidence through BPOM. [@2]
-
+testing of the evidence through BPOM. [@2,3]
