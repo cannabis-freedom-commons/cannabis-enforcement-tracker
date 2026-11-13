@@ -54,6 +54,10 @@ sources:
     url: https://www.thehindu.com/news/national/telangana/cab-driver-arrested-for-peddling-ganja-in-bahadurpally-24-consumers-identified/article71698045.ece
     publisher: The Hindu
     date: 2026-11-13
+  - title: Bahadurpally Indiramma house turns into ganja distribution hub
+    url: https://www.msn.com/en-in/news/other/bahadurpally-indiramma-house-turns-into-ganja-distribution-hub/ar-AA2hnfhd
+    publisher: Newspoint
+    date: 2026-11-13
 open_questions:
   - The raid is described only as late Thursday night, so 12 November 2026 is used as the incident date.
   - The sources give no NDPS sections, seizure packaging details, or court outcome after the case was registered.
@@ -62,20 +66,20 @@ open_questions:
 ---
 
 An Indiramma house at Bahadurpally, Dundigal, had reportedly become a ganja
-distribution network and a place for ganja addicts. [@1] The Telangana EAGLE
-Force carried out a surprise raid on the house. [@1] The search operation was
+distribution network and a place for ganja addicts. [@1,3] The Telangana EAGLE
+Force carried out a surprise raid on the house. [@1,3] The search operation was
 conducted at Block No. 27 in Indiramma Colony late Thursday night. [@1] Five
-people were arrested in the operation. [@1] The arrested were Thakur Kishan
+people were arrested in the operation. [@1,3] The arrested were Thakur Kishan
 Singh (25), a cab driver, Mani Raj (32), Pradeep (21), Karthik (25) and Rajput
-Pavan Kumar, who were taken into custody. [@1] Urine screening tests found four
+Pavan Kumar, who were taken into custody. [@1,3] Urine screening tests found four
 of the five positive for THC, while Pavan Kumar tested negative. [@2] Police
 registered a case under the Narcotic Drugs and Psychotropic Substances (NDPS)
-Act against the five apprehended. [@1]
+Act against the five apprehended. [@1,3]
 
 Officers seized around four grams of marijuana in the raid. [@2] Kishan Singh,
 whose family owns the vacant Indiramma housing unit, confessed that he procured
 ganja from Aravind and sold it in packets of four grams at Rs 400 to friends and
-Rs 500 to customers. [@1] He has been a ganja addict for three years. [@1] He
+Rs 500 to customers. [@1,3] He has been a ganja addict for three years. [@1] He
 named Ajay and Mahesh as his suppliers. [@1] The accused said he procured
 marijuana from 22-year-old Aravind, a native of Maharashtra reportedly staying
 in Bahadurpally, buying packets of around four grams for Rs 400 and selling them
@@ -84,4 +88,3 @@ customers from him. [@1] Investigators are working to trace the suspected
 suppliers, verify the list of 24 consumers and establish the wider supply
 network. [@2] Kishan Singh was previously booked for the same crime at the same
 police station. [@1]
-
