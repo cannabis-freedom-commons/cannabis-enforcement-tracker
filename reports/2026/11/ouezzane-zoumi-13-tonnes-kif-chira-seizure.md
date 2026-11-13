@@ -45,33 +45,32 @@ sources:
     publisher: هسبريس
     date: 2026-11-12
     language: ar
-open_questions:
-  - The sources give no separate date for the searches or the arrest; 12 November 2026 is the publication date of both accounts and is used as the incident date.
-  - The reports do not name the arrested man or the fugitive supplier, and no charge or court outcome is reported.
-  - The published split is more than 13 tonnes of cannabis and cannabis powder plus more than 70 kilograms of hashish, with an additional more than two kilograms found at the first house; exact measured weights were not published.
-  - The reports do not say whether the seized cannabis was destroyed, stored or handed to a commission.
+  - title: 'عملية أمنية نوعية: حجز 13 طنا من سنابل الكيف بوزان وتفكيك شبكة دولية - الجريدة نت، الموقع الإخباري الأول في المغرب'
+    url: https://aljareeda.net/96516-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%86%D9%88%D8%B9%D9%8A%D8%A9-%D8%AD%D8%AC%D8%B2-13-%D8%B7%D9%86%D8%A7-%D9%85%D9%86-%D8%B3%D9%86%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D9%83.html
+    publisher: الجريدة نت
+    date: 2026-11-12
+    language: ar
 ---
 
 Moroccan security services seized more than 13 tonnes of cannabis and cannabis
 powder, together with more than 70 kilograms of hashish, in a joint police
-operation in Ouezzane province. [@1] Detectives from Ouezzane carried out the
+operation in Ouezzane province. [@1,3] Detectives from Ouezzane carried out the
 operation with the Royal Gendarmerie of Ouezzane and Zoumi and the anti-gang
-unit from Tetouan. [@1]
+unit from Tetouan. [@1,3]
 
 The operation began with the arrest of a man in his fifties who had seven police
-signals in Morocco for suspected involvement in drug trafficking. [@1] A search
+signals in Morocco for suspected involvement in drug trafficking. [@1,3] A search
 of his home found more than two kilograms of hashish and cannabis. [@1]
 
 The main find was made in a house on the edge of Zoumi during an investigation
 into a suspected drug-trafficking network. [@1] The suspected main supplier was
 not home when officers searched his house near Zoumi, where they found equipment
 and tools for processing cannabis and preparing it for trade alongside the large
-drug stock. [@1]
+drug stock. [@1,3] Security sources said the seized cannabis was intended for processing and smuggling to European markets via known routes in northern Morocco. [@3]
 
-A national search warrant was issued for the fugitive suspect. [@1] Under the
+A national search warrant was issued for the fugitive suspect. [@1,3] Under the
 direction of the public prosecutor in Ouezzane, investigators are examining who
 else was involved in the network. [@1] According to Hespress, the investigation
 continues under the Ouezzane prosecutor, which ordered the national warrant for
 the fleeing suspect in order to arrest him and uncover other possible
 ramifications of the criminal activity. [@2]
-
