@@ -55,26 +55,25 @@ sources:
     url: https://www.bastillepost.com/global/article/6357217-hong-kong-customs-seizes-about-7kg-of-suspected-cannabis-buds-at-the-airport-arresting-a-passenger
     publisher: Bastillepost
     date: 2026-11-13
-open_questions:
-  - No figure for the exact weight was published; the amount is given as about seven kilograms.
-  - The man's country of arrival or departure route is not stated in the opened accounts.
-  - The drug is described as suspected cannabis buds, with no laboratory confirmation reported.
-  - No outcome of the 14 November West Kowloon court appearance was reported in the opened accounts.
+  - title: 機場反毒品行動 拘內地男檢146萬元大麻花
+    url: https://hk.on.cc/hk/bkn/cnt/news/20261113/bkn-20261113180306874-1113_00822_001.html
+    publisher: on.cc東網
+    date: 2026-11-13
+    language: zh
 ---
 
 Hong Kong Customs detected a drug trafficking case on 13 November 2026 at Hong
 Kong International Airport and seized about seven kilograms of suspected
-cannabis buds with an estimated market value of about $1.46 million. [@1]
+cannabis buds with an estimated market value of about $1.46 million. [@1,2]
 
 During an anti-narcotics operation, Customs officers intercepted a 57-year-old
 Mainland male passenger and found the suspected cannabis buds inside his
-carry-on baggage, then arrested him. [@1] The arrested man has been charged with
+carry-on baggage, then arrested him. [@1,2] The arrested man has been charged with
 one count of trafficking in a dangerous drug; his case will be brought up at the
-West Kowloon Magistrates' Courts on 14 November 2026. [@1]
+West Kowloon Magistrates' Courts on 14 November 2026. [@1,2]
 
 Customs said it will keep applying a risk assessment approach, focusing on
 passengers from high-risk regions, and reminded the public not to accept payment
 for carrying controlled items into or out of Hong Kong. [@1] Under the Dangerous
 Drugs Ordinance, trafficking in a dangerous drug carries a maximum penalty of a
 $5 million fine and life imprisonment. [@1]
-
