@@ -115,20 +115,25 @@ sources:
     url: https://www.cna.al/english/kronika/transportonte-18-kg-kanabis-ne-automjet-arrestohet-38-vjecari-shqiptar-n-i479760
     publisher: CNA
     date: 2026-11-11
+  - title: 'Καστοριά: Συνελήφθησαν δύο άτομα για διακίνηση ναρκωτικών – Κατασχέθηκαν σχεδόν 19 κιλά κάνναβης (βίντεο)'
+    url: https://lawandorder.gr/kastoria-kataschethikan-19-kila-kannavis-11-11/
+    publisher: Lawandorder.gr
+    date: 2026-11-11
+    language: el
 open_questions:
   - CNA rounds the seized cannabis to 18 kg and places the arrest on the afternoon of its 11 November publication, while the Greek accounts used in the report put the stop on the evening of 10 November and the gross weight at 18 kg 800 g.
 ---
 
 Narcotics officers arrested a 34-year-old Greek woman and a 38-year-old foreign
 man in the Kastoria area on the evening of 10 November 2026 on suspicion of drug
-trafficking. [@1,5,6,7,8,9,10,11,12] The 38-year-old man is an Albanian citizen. [@11,12] The two were in a car that police stopped because it was
+trafficking. [@1,5,6,7,8,9,10,11,12,13] The 38-year-old man is an Albanian citizen. [@11,12] The two were in a car that police stopped because it was
 moving suspiciously, with the woman driving and the man in the passenger seat.
-[@3,4,5,6,7,9,10] In the back of the car, officers found two travel bags holding 18 packages
-of raw cannabis with a total gross weight of 18 kg 800 g. [@3,4,5,6,7,8,9,10,11] Police seized the
-car used to carry the drugs, two mobile phones and two SIM cards. [@1,4,5,6,7,8,9,10,11,12]
+[@3,4,5,6,7,9,10,13] In the back of the car, officers found two travel bags holding 18 packages
+of raw cannabis with a total gross weight of 18 kg 800 g. [@3,4,5,6,7,8,9,10,11,13] Police seized the
+car used to carry the drugs, two mobile phones and two SIM cards. [@1,4,5,6,7,8,9,10,11,12,13]
 
 A felony case file was opened against both suspects, who were expected to be
-taken before the prosecutor at the Kastoria Court of First Instance. [@1,4,5,6,7,9,10,12] The
+taken before the prosecutor at the Kastoria Court of First Instance. [@1,4,5,6,7,9,10,12,13] The
 investigation was handled by the Kastoria Narcotics Enforcement Department
 within the Kastoria Subdirectorate for the Detection and Investigation of Crime,
 whose officers had gathered information in operations against drug import and
