@@ -1,34 +1,33 @@
 ---
 code: TVRGZH
 added_at: "2026-11-11T23:41:16.079162Z"
-date: 2026-11-11
+date: 2026-11-12
 country: eg
 place: Al-Maragha district, Sohag Governorate
 coordinates: [26.697, 31.591]
 precision: district
 type: arrest
 also: [seizure, raid]
-title: Three arrested with hashish and six firearms in Sohag's Al-Maragha
-summary: >-
-  Security forces arrested three suspects in Al-Maragha district of Sohag Governorate, Egypt, during a campaign against weapons and drug possession. The three were found with six firearms and two pieces of hashish, and the Public Prosecution took over the investigation.
+title: Three remanded for four days over hashish and six firearms in Sohag's Al-Maragha
+summary: The Public Prosecution ordered three suspects held for four days pending investigation after security forces arrested them in Al-Maragha, Sohag, with six firearms and two pieces of hashish. The three were seized in a campaign against weapons and drug possession.
 figures:
-  arrested: 3
+    arrested: 3
 details:
-  agencies: [Sohag Security Directorate]
-  agency_types: [police]
-  products:
-    - {product: hashish}
-  activity: [possession]
-  case_stage: investigation
-  date_precision: publication
-  region: Sohag
+    agencies: [Sohag Security Directorate, Public Prosecution]
+    agency_types: [police, prosecutor]
+    products:
+        - {product: hashish}
+    activity: [possession]
+    case_stage: investigation
+    date_precision: publication
+    region: Sohag
 data_sources:
-  details.activity: [1]
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [2]
-  details.products: [1]
-  figures.arrested: [1]
+    details.activity: [7]
+    details.agencies: [7]
+    details.agency_types: [7]
+    details.case_stage: [7]
+    details.products: [7]
+    figures.arrested: [7]
 status: verified
 created_by_model: alibaba-token-plan/qwen4-max-preview
 submission: 163e91ac7a8b0ffd87f561ec4e5667ba
@@ -64,27 +63,40 @@ sources:
     publisher: إقرأ نيوز
     date: 2026-11-11
     language: ar
+  - title: بعد ضبط ترسانة أسلحة وحشيش.. حبس 3 متهمين بالمراغة في سوهاج
+    url: https://www.elbalad.news/7177660
+    publisher: صدى البلد
+    date: 2026-11-12
+    language: ar
+  - title: ضربة أمنية بالمراغة سوهاج.. سقوط 3 متهمين بحوزتهم 6 قطع سلاح وطربتي حشيش
+    url: https://darelhilal.com/News/3342147.aspx
+    publisher: دار الهلال
+    date: 2026-11-11
+    language: ar
 open_questions:
-    - The accounts give no separate date for the arrests; 11 November 2026 is the publication date and is used as the incident date.
+    - Neither the arrests nor the four-day detention order has a separate date in the reports; 12 November 2026, the publication date of the remand report, stands in for the incident date.
     - No weight or value was published for the two pieces of hashish, so no cannabis weight is recorded.
-    - The three suspects were not named and no charges or court outcome were reported; the case was with the Public Prosecution.
-    - The accounts rest on the same Sohag security directorate statement, with no independent detail.
+    - The three suspects were not named and no charges were reported; the case remained at the investigation stage.
+    - It is not known when the four-day detention period began or whether it was renewed.
+    - No description or value was given for the six firearms.
+    - The reports do not say where in Al-Maragha district the three were arrested or held.
+    - The arrest accounts rest on the same Sohag security directorate statement, and only one outlet reported the detention order.
 ---
 
 Security forces arrested three suspects in Al-Maragha district of Egypt's Sohag
 Governorate during a large security campaign targeting lawbreakers and people
-possessing weapons and narcotics. [@1,3,5,6] The three were found in possession of six
-firearms and two pieces of hashish, a cannabis resin. [@1,4,5,6] A red car was also seized during the campaign. [@4]
+possessing weapons and narcotics. [@1,3,5,6,7] The three were found in possession of six
+firearms and two pieces of hashish, a cannabis resin. [@1,4,5,6,7] A red car was also seized during the campaign. [@4]
 
 The campaign was carried out under directives from Major General Ashraf
 Abdel-Malek, assistant interior minister and Sohag security director, Major
 General Mohamed El-Khouly, director of criminal investigation, and Brigadier
 General Tarek Abu Sedeira, head of investigations at the Sohag Security
-Directorate. [@1,5,6] The directives called for intensifying security efforts and
+Directorate. [@1,5,6,8] The directives called for intensifying security efforts and
 pursuing people involved in firearms possession and drug trafficking. [@1,6]
 Lieutenant Colonel Ahmed Ismail, head of investigations at Al-Maragha police
 station, led the campaign with Captain Mustafa Abu Douma, and their inquiries
-led to the three arrests and the seizure of the items. [@1,5,6]
+led to the three arrests and the seizure of the items. [@1,5,6,7]
 
 The suspects and the seized items were taken into custody and a police report
-was drawn up, and the Public Prosecution took over the investigation. [@2,3]
+was drawn up, and the Public Prosecution took over the investigation. [@2,3,7] The Public Prosecution ordered the three held for four days pending investigation. [@7]
