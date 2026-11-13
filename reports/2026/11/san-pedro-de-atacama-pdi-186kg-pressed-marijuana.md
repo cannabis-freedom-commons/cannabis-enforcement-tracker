@@ -38,6 +38,11 @@ media:
     media_url: https://elamerica.cl/wp-content/uploads/2026/11/20261111_110618-780x470.jpg
     publisher: Diario El America
     caption: 'Wrapped packages of pressed marijuana laid out for display after the PDI seizure in San Pedro de Atacama, with a PDI banner and officials behind them. Photo: Diario El America'
+  - kind: photo
+    url: https://antofagastaaldia.cl/pdi-incauto-mas-de-183-kilos-de-cannabis-en-el-altiplano-de-san-pedro-de-atacama/
+    media_url: https://antofagastaaldia.cl/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-12-at-12.15.42-e1794509109961.jpeg
+    publisher: AntofagastaAlDia.cl
+    caption: 'Photo of the 95 packages of cannabis seized by PDI in San Pedro de Atacama. Photo: PDI Calama'
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 78ec5eea915e50bbd3c1ff19d8ed75a0
@@ -68,6 +73,11 @@ sources:
     publisher: Veredictum
     date: 2026-11-12
     language: es
+  - title: PDI incautó más de 183 kilos de cannabis acopiados en el altiplano de San Pedro de Atacama
+    url: https://antofagastaaldia.cl/pdi-incauto-mas-de-183-kilos-de-cannabis-en-el-altiplano-de-san-pedro-de-atacama/
+    publisher: AntofagastaAlDia.cl
+    date: 2026-11-12
+    language: es
 open_questions:
     - The accounts give no separate date for the seizure; 11 November 2026 and 12 November 2026 are the publication dates of the earlier accounts and this account.
     - 'The accounts differ on the weight: the prosecutor''s quote published by Calama en Línea says 186 kg, while El América, SoyChile and this account say 183 kg, this account giving 183 kilos 420 grams.'
@@ -77,7 +87,7 @@ open_questions:
 
 The PDI in Calama seized a load of pressed marijuana in San Pedro de Atacama.
 [@1,3,5] The seizure took place in the border sector of El Loa province, near San
-Pedro de Atacama. [@2] Officers found the load as abandoned sacks in the middle of the pampa in the Río Grande sector, holding 95 packages of cannabis of different shapes and sizes. [@5] Calama's chief prosecutor, Eduardo Peña, put the load at
+Pedro de Atacama. [@2] Officers found the load as abandoned sacks in the middle of the pampa in the Río Grande sector, holding 95 packages of cannabis of different shapes and sizes. [@5,6] Calama's chief prosecutor, Eduardo Peña, put the load at
 186 kg of marijuana. [@2] The local outlet El América reported 183 kg for the
 same seizure. [@1,3,4,5] The PDI valued the marijuana at 900 million pesos on the
 illegal market. [@1,3]
@@ -88,7 +98,7 @@ places in the area to bring it into Chilean territory for distribution to local
 populations. [@2] Subprefect Patricio Méndez, head of the PDI's anti-narcotics
 brigade in Calama, said detectives established a stash point through
 intelligence work and information cross-checking. [@2] Méndez said the drug was
-being displayed and would later be destroyed. [@2] The case file was placed at the disposal of the Public Prosecutor's Office, further inquiries went to the Calama anti-narcotics brigade, and the seized drug was to be sent to the Antofagasta Health Service. [@5]
+being displayed and would later be destroyed. [@2] The case file was placed at the disposal of the Public Prosecutor's Office, further inquiries went to the Calama anti-narcotics brigade, and the seized drug was to be sent to the Antofagasta Health Service. [@5,6]
 
 Méndez said marijuana smuggling has recently increased relative to cocaine and
 cocaine base. [@1] Méndez said the border sector of Antofagasta region is one of
