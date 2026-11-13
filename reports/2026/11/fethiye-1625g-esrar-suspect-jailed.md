@@ -52,22 +52,26 @@ sources:
     publisher: Habertürk
     date: 2026-11-13
     language: tr
+  - title: Fethiye'de uyuşturucu operasyonu! 1 kilo 625 gram esrar ele geçirildi
+    url: https://www.habercitv.com.tr/fethiyede-uyusturucu-operasyonu-1-kilo-625-gram-esrar-ele-gecirildi
+    publisher: Haberci TV
+    date: 2026-11-13
+    language: tr
 open_questions:
   - The articles give only the 13 November 2026 publication date and no separate day or time for the searches, so the incident date uses the publication date.
   - The reports name the suspect only by the initials H.A.U. and give no age, charge wording beyond alleged drug trafficking, or later court outcome.
 ---
 
 Police in Fethiye, Muğla detained suspect H.A.U. in an operation targeting drug
-trafficking. [@1] The operation was coordinated by the Fethiye Chief Public
+trafficking. [@1,3] The operation was coordinated by the Fethiye Chief Public
 Prosecutor's Office and carried out by provincial police intelligence and
 anti-narcotics teams against H.A.U., assessed as trading in drugs. [@1]
 
 Searches of the suspect's home and vehicles found 1 kilo 625 grams of cannabis
-and one precision scale. [@1] A second account confirms searches of the
+and one precision scale. [@1,3] A second account confirms searches of the
 identified home and vehicles found 1 kilo 625 grams of cannabis and a precision
 scale. [@2]
 
 After police procedures H.A.U. was referred to the judiciary and remanded by the
-court and sent to prison. [@1] The second account says the on-duty criminal
+court and sent to prison. [@1,3] The second account says the on-duty criminal
 court ordered H.A.U.'s remand after he was brought to the courthouse. [@2]
-
