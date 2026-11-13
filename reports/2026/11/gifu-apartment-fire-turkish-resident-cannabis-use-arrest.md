@@ -162,11 +162,16 @@ sources:
     publisher: 日テレNEWS NNN
     date: 2026-11-12
     language: ja
+  - title: 12人搬送のアパート火事 火元住人を大麻使用疑いで逮捕 岐阜
+    url: https://news.web.nhk/newsweb/na/nd-20261112de74670
+    publisher: NHKニュース
+    date: 2026-11-12
+    language: ja
 ---
 
 A fire broke out in a three-storey apartment building in Kita-Isshiki, Gifu, in
 the early hours of 11 November 2026, after a neighbour reported seeing flames
-from the first floor. [@1,7,20] Twelve of the building's residents, aged from one to
+from the first floor. [@1,7,20,25] Twelve of the building's residents, aged from one to
 their forties, were taken to hospital and were thought to have minor injuries.
 [@1,4,5,7,11,13,14,18,19,20,21] The youngest of the 12 residents taken to hospital was a year and a half old. [@19,20,22] The injured were taken to hospitals in Gifu City and in the neighbouring
 town of Kasamatsu. [@2] The apartment housed 11 households and 15 residents in
@@ -175,7 +180,7 @@ ground-floor room where the fire started was not injured. [@1,23] The fire was b
 
 Gifu Chuo Police Station arrested that resident, a 43-year-old unemployed
 Turkish man, on 11 November on suspicion of violating the Narcotics Control Law
-by using cannabis. [@1,4,7,8,11,12,15,18,19,20,23,24] Police named the arrested man as Komur Gokhan (コムル・ギョクハン), a 43-year-old unemployed Turkish national. [@6,7,9,13,14,18,19] Police said he was suspected of using cannabis between
+by using cannabis. [@1,4,7,8,11,12,15,18,19,20,23,24,25] Police named the arrested man as Komur Gokhan (コムル・ギョクハン), a 43-year-old unemployed Turkish national. [@6,7,9,13,14,18,19] Police said he was suspected of using cannabis between
 early August and 11 November. [@1,4,5,7,8,13,14,17,18,19,21] The suspicion arose during the fire
 investigation: officers found his behaviour suspicious, tested his urine and
 detected cannabis components. [@1,6,7,9,13,14,18,19,20,21] Questioned by investigators, he admitted the suspicion. [@5,6,7,8,9,13,14,16,17,18,19,20,21,22]
