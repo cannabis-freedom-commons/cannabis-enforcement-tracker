@@ -58,18 +58,28 @@ sources:
     url: https://english.enabbaladi.net/archives/2026/06/syria-dismantles-drug-smuggling-network-with-iraq/
     publisher: Enab Baladi
     date: 2026-06-14
+  - title: Iraq, Syria ‘high-level coordination’ dismantles international drug network
+    url: https://www.rudaw.net/english/categories/iraq/1077938
+    publisher: Rudaw
+    date: 2026-06-14
+  - title: Syria dismantles international drug-trafficking network, seizes captagon shipment
+    url: https://sana.sy/en/syria/2323251/
+    publisher: Syrian Arab News Agency (SANA)
+    date: 2026-06-14
 open_questions:
   - The operations ran over several days but no separate dates are given; 14 June 2026 is the announcement date.
   - No precise sites within Deir ez-Zor and Homs governorates are specified.
   - The nine detainees are not named and no charges or outcomes after arrest are reported.
   - Both accounts trace to official statements from Iraq's anti-narcotics directorate and Syria's Interior Ministry with no independent account available.
   - The 800,000 Captagon pills are left out of the cannabis figures because they are a separate substance in a mixed seizure.
+  - Rudaw describes the Iraqi operations as simultaneous and captions the seized drugs as taken on 14 June 2026, while the report records a multi-day operation announced on that date; SANA’s English dispatch says the ministry spoke on Saturday.
+  - Rudaw says Damascus’s anti-drug authority allegedly confiscated 60 kilograms of hashish, while SANA’s English dispatch says the Interior Ministry reported 60 kilograms of cannabis; the report keeps the hashish wording already attributed to the Syrian Interior Ministry.
 ---
 
-Iraqi and Syrian anti-narcotics forces said they dismantled an international drug trafficking network in joint operations conducted inside Syria, arresting nine suspected traffickers. [@1,2,3] The operations ran over several days across the eastern Deir ez-Zor and central Homs provinces in coordination between the two countries' agencies. [@1,2,3]
+Iraqi and Syrian anti-narcotics forces said they dismantled an international drug trafficking network in joint operations conducted inside Syria, arresting nine suspected traffickers. [@1,2,3,4] Syria’s Drug Enforcement Administration carried out the operations with Iraq’s General Directorate for Narcotics Affairs and Psychotropic Substances. [@5] The operations ran over several days across the eastern Deir ez-Zor and central Homs provinces in coordination between the two countries' agencies. [@1,2,3]
 
-The Iraqi anti-narcotics directorate said the network comprised nine major traffickers and that the operations seized 200 kilograms of various narcotics intended for smuggling into Iraq for distribution. [@1] The seizure included 800,000 Captagon pills and 60 kilograms of hashish, a breakdown the reports attribute to the Syrian Interior Ministry. [@1,2,3] The Syrian Future Movement account confirms the same seizure totals of about 800,000 Captagon pills and 60 kilograms of hashish in Homs and Deir ez-Zor. [@2]
+The Iraqi anti-narcotics directorate said the network comprised nine major traffickers and that the operations seized 200 kilograms of various narcotics intended for smuggling into Iraq for distribution. [@1,4] The seizure included 800,000 Captagon pills and 60 kilograms of hashish, a breakdown the reports attribute to the Syrian Interior Ministry. [@1,2,3,4,5] The Syrian Future Movement account confirms the same seizure totals of about 800,000 Captagon pills and 60 kilograms of hashish in Homs and Deir ez-Zor. [@2]
 
-The reports describe the seizures as intended for smuggling and distribution rather than personal use. [@1] The New Region published a Syrian Interior Ministry photograph of the confiscated narcotics with its report on the operation. [@1]
+The reports describe the seizures as intended for smuggling and distribution rather than personal use. [@1,5] The New Region published a Syrian Interior Ministry photograph of the confiscated narcotics with its report on the operation. [@1]
 
 The ministry said in a statement on Facebook that the operation was carried out “as part of its continued efforts to combat organized crime and cross-border smuggling operations,” [@3]
