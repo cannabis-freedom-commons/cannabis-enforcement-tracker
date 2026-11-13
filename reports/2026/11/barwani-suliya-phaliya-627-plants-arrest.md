@@ -49,6 +49,11 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/11/12/9a1bb188-30db-499e-8e77-183a10782717_1794483784942.jpg
     publisher: Dainik Bhaskar
     caption: 'Cannabis plants standing in the field at Suliya Phaliya in Palaspani, in the photograph Dainik Bhaskar published with its report of the seizure. Photo: Dainik Bhaskar'
+  - kind: photo
+    url: https://vocaltv.in/madhya-pradesh/mp-major-action-police-627-cannabis-plants-weighinphp/cid19521507.htm
+    media_url: https://vocaltv.in/static/c1e/client/111914/migrated/6c6c8397c1de1f00e2acaea4dffe3cf0.jpg
+    publisher: Vocal TV
+    caption: 'Photo from the seizure of 627 cannabis plants in a field at Suliya Phaliya, Palaspani, published by Vocal TV. Photo: Vocal TV'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d07ca7df479e90734c5f42eaca8bf3c1
@@ -64,31 +69,26 @@ sources:
     publisher: Zee News
     date: 2026-11-13
     language: hi
-open_questions:
-  - The exact site of the field at Suliya Phaliya in Palaspani was not published.
-  - The field's area was given only as about half a bigha, a local measure, with no equivalent in hectares.
-  - Whether the seized plants were destroyed or kept as evidence was not reported.
-  - No court outcome was reported; police said only that the accused would be presented in court.
-  - Zee News describes the Rs 58.60 lakh as a price on the international market, while Amar Ujala and Dainik Bhaskar call it the estimated value of the seized cannabis.
-  - The five cases registered during the 15-day campaign were not itemised, so the other four seizures and whether they include the actions of 31 October 2026 are unclear.
-  - 'Left out, as its quotation was not found in Dainik Bhaskar: The officers arrested the field''s owner, Apsinh, son of Kamriya Dawar Bhilala, aged 35 and of Suliya Phaliya in Palaspani.'
-  - 'Left out, as its quotation was not found in Dainik Bhaskar: Five cases were registered at the Silawad, Varla, Pansemal, Palsud and Sendhwa rural police stations.'
-  - 'Left out, as its quotation was not found in Dainik Bhaskar: Action was also taken under the PIT NDPS Act, the preventive detention law.'
+  - title: मप्र पुलिस की बड़ी कार्रवाई, बड़वानी में 586 किलो वजन के 627 गांजे के पौधे जब्त
+    url: https://vocaltv.in/madhya-pradesh/mp-major-action-police-627-cannabis-plants-weighinphp/cid19521507.htm
+    publisher: Vocal TV
+    date: 2026-11-12
+    language: hi
 ---
 
 Sendhwa rural police in Barwani district, Madhya Pradesh, raided a field beside
 the forest at Suliya Phaliya in Palaspani on the morning of 11 November 2026.
-[@1]
+[@1,3]
 
 The field covered about half a bigha, a local land measure, and had been planted
 with cannabis for commercial cultivation. [@1] Police counted and seized 627
-plants, each about six feet tall, which together weighed 586 kg. [@1] Police
+plants, each about six feet tall, which together weighed 586 kg. [@1,3] Police
 estimated the seized cannabis at 58 lakh 60 thousand rupees, which Zee News
 quoted the station house officer as its price on the international market. [@2]
 
 A case was registered against the accused at Sendhwa rural police station under
 Sections 8/20 of the Narcotic Drugs and Psychotropic Substances Act, India's
-drug law. [@1] Police said they would present him in court for further legal
+drug law. [@1,3] Police said they would present him in court for further legal
 action. [@1]
 
 The raid fell within a 15-day special campaign run from 27 October to 11
@@ -97,4 +97,3 @@ narcotics cultivation. [@1] Across those actions police seized 2,593 green
 cannabis plants weighing 1,186.15 kg, valued at a total of 1 crore 18 lakh 63
 thousand 500 rupees. [@1] Superintendent of police Vinod Kumar Singh said the
 campaign would continue. [@1]
-
