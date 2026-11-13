@@ -64,19 +64,16 @@ sources:
     publisher: Realitas Online
     date: 2026-11-12
     language: id
-open_questions:
-  - The supplier identified only as A had not been identified or arrested.
-  - No formal charge or court date was reported.
-  - ANTARA described suspected cannabis abuse, while SIGNAL24 and Realitas Online described suspected distribution.
-  - SIGNAL24 also gives the alias Landong; ANTARA gives only the alias L.
-  - The ANTARA web address says 682 grams, while the headline and the itemised police weights are 68.20 grams gross; the report uses 68.20 grams.
-  - The opened accounts place the stall in Padangsidimpuan Selatan and name Kelurahan Wek IV, which is administratively in Padangsidimpuan Utara.
-  - 'Satresnarkoba Polres Padangsidimpuan Tangkap Residivis 62 Tahun, 68 Gram Ganja Disita di Warung Kampung Jawa (SIGNAL24.ID) could not be opened again to check its quotations (access challenge: Cloudflare blocked access to the article; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.'
+  - title: Geger! Residivis 62 Tahun Ditangkap di Padangsidimpuan, 68,20 Gram Ganja Disembunyikan dalam Celana
+    url: https://sidaknews.com/2026/11/12/upaya-pemberantasan-peredaran-narkotika-terus-dilakukan-jajaran-kepolisian-kali-ini-tim-patroli-multi-sasaran-pms-polres-padangsidimpuan-mengungkap-dugaan-peredaran-narkotika-jenis-sabu-di-desa-h/
+    publisher: SidakNews.com
+    date: 2026-11-12
+    language: id
 ---
 
 Padangsidimpuan police arrested fish trader PD alias L, a recidivist from
 Kampung Jawa in Padangsidimpuan Selatan, early on Thursday over suspected
-cannabis abuse. [@1] Narcotics chief AKP Juli Purwono said officers arrested him
+cannabis abuse. [@1,4] Police had not detailed the type of the suspect's earlier case. [@4] Narcotics chief AKP Juli Purwono said officers arrested him
 at about 00:40 WIB at warung Abdi in Kampung Jawa. [@1] SIGNAL24 reported that
 the man was 62 and that the stall is on Jalan Yos Sudarso in Wek IV,
 Padangsidimpuan Selatan. [@2] They found him sitting inside the stall. [@2] The
@@ -85,18 +82,17 @@ neighbourhood head, Abdi Lubis, who also owns the stall, witnessed the search.
 
 Police seized cannabis with a gross weight of 68.20 grams, made up of one black
 plastic bag holding 58.23 grams and five packets weighing 9.97 grams, together
-with one white plastic bag. [@2] Purwono said officers took from the suspect one
+with one white plastic bag. [@2,4] Purwono said officers took from the suspect one
 black plastic bag of cannabis with a gross weight of 58.23 grams and five
 packets with a gross weight of 9.97 grams, plus one white plastic bag. [@1]
-Officers found the cannabis hidden in his trousers. [@1] He told officers he had
+Officers found the cannabis hidden in his trousers. [@1,4] He told officers he had
 obtained the cannabis from a man identified only as A, who remained under
-investigation. [@1]
+investigation. [@1,4] Police said they were investigating whether other people were involved in ganja distribution in Kampung Jawa and the surrounding area. [@4]
 
 The arrest followed a public tip, and an operational team led by Aipda Sugianto
-went to the stall to check it. [@2] The team moved toward the location at about
+went to the stall to check it. [@2,4] The team moved toward the location at about
 00:15 WIB. [@2] Other accounts of the police operation described the same arrest
 as suspected cannabis distribution. [@2] Police chief AKBP Noval N.G. Desky
-confirmed the disclosure through Purwono. [@3] Officers examined witnesses and
+confirmed the disclosure through Purwono. [@3,4] Officers examined witnesses and
 prepared an interrogation report. [@3] The suspect and the evidence were taken
-to the Padangsidimpuan narcotics unit for further legal process. [@1]
-
+to the Padangsidimpuan narcotics unit for further legal process. [@1,4]
