@@ -82,17 +82,16 @@ sources:
     publisher: Pratahkal
     date: 2026-11-12
     language: hi
-open_questions:
-    - The exact point of the stop inside the Balara police-station area was not reported.
-    - Vikas Kumar Dhinwa had not been arrested when these accounts were published, and no court outcome for Rakesh Kumar was reported.
-    - The figure of about 21 lakh rupees is a police estimate of the international-market value, and no laboratory confirmation of the seized substance was reported.
-    - It was not stated whether the Swift car itself was confiscated.
-    - The published accounts appear to republish the same police briefing.
+  - title: सीआईडी क्राइम ब्रांच ने किया 41.510 किलो गांजा सहित तस्कर गिरफ्तार
+    url: https://www.hindusthansamachar.in/Encyc/2026/11/12/RAJASTHAN-GANJA-SEIZED-.php
+    publisher: Hindusthan Samachar
+    date: 2026-11-12
+    language: hi
 ---
 
 Officers of the Rajasthan Police CID Crime Branch special team arrested Rakesh
 Kumar of Khirod in Jhunjhunu after stopping a Swift car in the Balara
-police-station area of Sikar district. [@2,3] The action took place late on
+police-station area of Sikar district. [@2,3,4] Additional Director General of Police (Crime) Bipin Kumar Pandey said the CID Crime Branch team was collecting intelligence in the Sikar and Fatehpur areas. [@4] The action took place late on
 Wednesday 11 November 2026. [@2,3] A tip said the Swift car, registration RJ 18 CF
 2905, was carrying suspicious goods from Sikar through Laxmangarh toward
 Jhunjhunu. [@2,3] When officers tried to stop the car coming from the Laxmangarh
@@ -101,16 +100,16 @@ drive off again before the team brought him under control. [@2,3]
 
 A search of the back seat and boot found 20 packets of ganja, the Hindi name for
 cannabis, in two sacks. [@1,3] A yellow sack near the back seat held 16 kg 370 g
-and a white sack in the boot held 25 kg 140 g, a total of 41 kg 510 g. [@2,3]
+and a white sack in the boot held 25 kg 140 g, a total of 41 kg 510 g. [@2,3,4]
 Police estimated the consignment's value on the international market at about 21
-lakh rupees. [@1,3]
+lakh rupees. [@1,3,4]
 
 Police registered a case under the NDPS Act at Balara police station in Sikar
-district and arrested Rakesh Kumar. [@2,3] Further investigation was assigned to
-Dadia station house officer Sanjay Punia. [@2,3] Kumar told officers the ganja and
+district and arrested Rakesh Kumar. [@2,3,4] Further investigation was assigned to
+Dadia station house officer Sanjay Punia. [@2,3,4] Kumar told officers the ganja and
 the car belonged to his companion Vikas Kumar Dhinwa of Sevapura in Khirod, who
 he said had left the car a short distance earlier and told him to phone once he
-had gone ahead. [@2,3] Police said Dhinwa was involved in the narcotics trade on a
+had gone ahead. [@2,3,4] Police said Dhinwa was involved in the narcotics trade on a
 large scale, and they were searching for him and investigating the trafficking
 network. [@2,3] Police were also trying to establish where the ganja had come from
 and who it was to be supplied to. [@1]
