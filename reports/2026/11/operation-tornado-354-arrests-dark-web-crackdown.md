@@ -52,26 +52,22 @@ sources:
     publisher: HLN
     date: 2026-11-12
     language: nl
-open_questions:
-  - No separate weight for the cannabis within the almost one tonne of drugs seized in Europe was published in this source.
-  - The 5.8-tonne headline total combines European and United States seizures that mix cannabis with fentanyl, amphetamines, ketamine, MDMA, cocaine and other drugs, so no combined total is recorded as cannabis.
-  - The headline gives 350 arrests while the article text gives 354; this report uses the text figure of 354.
-  - No charges, court outcomes or further details on those arrested were reported.
-  - The operation ran from May 2025 to October 2026 and officials spoke the day before the 13 November 2026 publication, so 12 November 2026 is used as the announcement date.
-  - The operation ran from May 2025 to October 2026; 12 November 2026 is the announcement date used as the incident date.
-  - Worldwide drug totals (~6 tonnes) and criminal asset totals (>EUR 210m) mix cannabis with fentanyl, amphetamines, ketamine, MDMA, cocaine and other drugs, so no combined total is recorded as cannabis; the European cannabis figure of 50 kg belongs to the France component report.
-  - No charges or court outcomes for the 354 arrested were reported; investigations were still underway in several countries.
+  - title: Chiến dịch toàn cầu bắt 354 đối tượng, thu giữ gần 6 tấn ma túy
+    url: https://www.vietnam.vn/chien-dich-toan-cau-bat-354-doi-tuong-thu-giu-gan-6-tan-ma-tuy
+    publisher: Báo An Giang (Vietnam.vn)
+    date: 2026-11-13
+    language: vi
 ---
 
 United States and European officials said police arrested 354 people in a global
-crackdown on dark-web users. [@1,2,3] Europol coordinated the worldwide sting,
+crackdown on dark-web users. [@1,2,3,4] Europol coordinated the worldwide sting,
 codenamed Operation TorNado, with other authorities between May 2025 and October
-2026, leading to hundreds of raids worldwide. [@1] Most arrests were in the
+2026, leading to hundreds of raids worldwide. [@1,4] Most arrests were in the
 United States (132), followed by Britain (59), Hungary (45), Germany (41) and
 France (23). [@1] The operation was aimed at cybercrime, drug trafficking and the illegal firearms trade, and Belgium was not involved. [@3]
 
 In Europe, authorities seized almost one tonne of drugs including amphetamines,
-ketamine, MDMA, cocaine and cannabis. [@1,2,3] In the United States, more than 4.8
+ketamine, MDMA, cocaine and cannabis. [@1,2,3,4] In the United States, more than 4.8
 tonnes of drugs were found, along with 152 firearms and US$166 million in cash
 and cryptocurrency. [@1] The value of the cash and cryptocurrency seized by US authorities, 1.5 billion euros, is about 5.2 billion New-Taiwan dollars and 1.66 billion US dollars. [@2] Police forces in 14 countries took part in the
 operation. [@1]
