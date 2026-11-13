@@ -32,6 +32,11 @@ sources:
     url: https://biz.chosun.com/en/en-society/2026/11/13/BUGKSEPMRRGYPHZW3AG6MIJ7CU/
     publisher: CHOSUNBIZ
     date: 2026-11-13
+  - title: '"대마 흡연" 자백도 했는데..."유죄 증거 부족" 판단한 대법, 무슨 일?'
+    url: https://www.mt.co.kr/amp/society/2026/11/13/2026111214573374419
+    publisher: 머니투데이
+    date: 2026-11-13
+    language: ko
 open_questions:
   - The article gives no exact date for the alleged smoking incident; it is described as late April 2024 in the indictment, but the evidence points to late April 2023, so no precise incident date can be recorded.
   - The defendant is identified only as A, with no full name or other identifying details published.
@@ -42,7 +47,7 @@ open_questions:
 South Korea's Supreme Court, presided over by Justice Shin Suk-hee, on 27
 October 2026 reversed the lower court's ruling against a defendant identified as
 A, who was indicted on charges including violating the Act on the Control of
-Narcotics, and sent the case back to the Seoul High Court. [@1] A, who ran a
+Narcotics, and sent the case back to the Seoul High Court. [@1,2] A, who ran a
 record production and distribution company, a content firm, and nightlife
 establishments, was brought to trial on charges that included buying large
 quantities of ecstasy and marijuana in 2023 and selling or smoking some of them.
@@ -79,4 +84,3 @@ imposed for the disputed smoking charge and the remaining guilty counts, it
 overturned the entire judgment against A, and as a result the forfeiture
 adjusted on appeal will also be reconsidered, and this ruling does not acquit A
 of all charges. [@1]
-
