@@ -34,29 +34,32 @@ sources:
     publisher: ProtoThema
     date: 2026-11-13
     language: el
+  - title: 'Κινέτα: Συνελήφθη 47χρονος που έκρυβε ακατέργαστη κάνναβη σε σπηλιά, δείτε φωτογραφίες'
+    url: https://www.iefimerida.gr/ellada/kineta-synelifthi-47hronos-poy-ekrybe-kannabi-se-spilia
+    publisher: iefimerida.gr
+    date: 2026-11-13
+    language: el
 open_questions:
-  - No street value for the seized cannabis was published.
-  - The reports do not state what happened after the man was referred to the prosecutor.
-  - The cannabis-oil extraction packaging and blender were listed among the seized items without any stated finding of oil production.
-  - 'Left out, as its quotation was not found in ProtoThema: Police also seized a mobile phone, two signal-jamming devices and one surveillance device.'
+    - No street value for the seized cannabis was published.
+    - The reports do not state what happened after the man was referred to the prosecutor.
+    - The cannabis-oil extraction packaging and blender were listed among the seized items without any stated finding of oil production.
 ---
 
 Narcotics officers arrested a 47-year-old foreign man for cannabis possession
 and trafficking. [@1] Officers found the man inside a cave in Kineta, where he
-had hidden drug quantities for further distribution. [@1] Police said he stored
+had hidden drug quantities for further distribution. [@1,3] Police said he stored
 and distributed raw cannabis to various people, mainly around Agioi Theodoroi in
-Corinthia and in Attica. [@1] The arrest took place on the afternoon of
+Corinthia and in Attica. [@1,3] The arrest took place on the afternoon of
 Wednesday 11 November 2026 during an organized operation by the Narcotics
-Prosecution Subdirectorate in the Attica area. [@1]
+Prosecution Subdirectorate in the Attica area. [@1,3]
 
 At the site officers found a total of 12.6 kilograms of raw cannabis and
 cannabis clones, along with signal-jamming and surveillance devices. [@1] The
 total comprised 6.6 kilograms of raw cannabis and six kilograms of cannabis
-clones. [@2] Police seized a car. [@1] They also found two electric air
+clones. [@2] Police seized a car. [@1] Police also seized a mobile phone. [@3] They also found two electric air
 extractors, packaging for extracting cannabis oil, a metal tray and an electric
 blender. [@2]
 
 According to police, the man had previously been accused of similar offences.
 [@2] A case file for possession and trafficking of narcotics was opened against
 him and he was referred to the competent prosecutor. [@2]
-
