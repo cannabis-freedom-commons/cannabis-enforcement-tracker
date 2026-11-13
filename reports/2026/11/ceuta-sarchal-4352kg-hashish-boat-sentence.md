@@ -78,6 +78,11 @@ sources:
     publisher: El Pueblo de Ceuta
     date: 2026-09-29
     language: es
+  - title: سبتة المحتلة.. السجن لمغربيين جراء محاولة تهريب 43 كيلوغراما من الحشيش
+    url: https://24saa.com/%D8%B3%D8%A8%D8%AA%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D8%AC%D9%86-%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D9%8A%D9%86-%D8%AC%D8%B1%D8%A7%D8%A1-%D9%85%D8%AD%D8%A7%D9%88/
+    publisher: 24 ساعة
+    date: 2026-11-12
+    language: ar
 open_questions:
   - Headlines round the seizure as 40 kg, 43 kg and 43.5 kg; the report uses the laboratory net weight of 43,520 grams.
   - The 500,000-euro fine is reported as payable by each man; one account phrases it without making the per-person basis explicit.
@@ -88,13 +93,13 @@ open_questions:
 
 Section VI of the Cadiz Provincial Court in Ceuta sentenced two men to three
 years and six months in prison for carrying more than 43 kilos of hashish in a
-semi-rigid boat that sank off the pools area at El Sarchal. [@1] Both men were
+semi-rigid boat that sank off the pools area at El Sarchal. [@1,5] Both men were Moroccan. [@5] Both men were
 brought from prison to the hearing, admitted the facts and accepted the
-requested penalties in a conformity agreement. [@1] The court convicted them of
+requested penalties in a conformity agreement. [@1,5] The court convicted them of
 a public-health drug offence in its aggravated form of notorious importance and
 extreme gravity because a boat was used. [@1] Each man must also pay a
 500,000-euro fine, with ten more days in prison in subsidiary personal liability
-if it goes unpaid. [@2] They had been in pre-trial detention since 27 February,
+if it goes unpaid. [@2,5] They had been in pre-trial detention since 27 February,
 when the Guardia Civil operation detained them. [@1] Because the term exceeds
 two years it cannot be suspended, so they returned to the prison where they were
 already held. [@2] Before the November sentence, the prosecution had sought four
@@ -103,20 +108,19 @@ the September preliminary hearing the two men did not admit involvement, so no
 agreement was reached and trial was set for the following months. [@4]
 
 At about 15:45 on 27 February they approached the pools area at El Sarchal in
-the semi-rigid boat carrying several sports bags of drugs. [@1] Beside the rocks
+the semi-rigid boat carrying several sports bags of drugs. [@1,5] Beside the rocks
 they handed several bundles to other people who had hurried down the steps to
-collect them and leave. [@1] A Guardia Civil officer on maritime-coastal
-surveillance watched the handover and raised the alarm. [@1] Land patrols,
-maritime units and the GEAS underwater unit then joined the interception. [@1]
+collect them and leave. [@1,5] A Guardia Civil officer on maritime-coastal
+surveillance watched the handover and raised the alarm. [@1,5] Land patrols,
+maritime units and the GEAS underwater unit then joined the interception. [@1,5]
 The boat began taking on water, forcing both occupants to jump onto the rocks,
-where officers located and detained them. [@1]
+where officers located and detained them. [@1,5]
 
 Officers later recovered two black bags holding 44 blocks and four tablets of
-hashish resin. [@1] Laboratory analysis set the net weight at 43,520 grams of
+hashish resin. [@1,5] Laboratory analysis set the net weight at 43,520 grams of
 hashish with 44.3% THC, and prosecutors put its illicit-market value at 295,500
-euros for clandestine distribution. [@1] Prosecutors said the hashish was
+euros for clandestine distribution. [@1,5] Prosecutors said the hashish was
 intended for clandestine distribution through delivery or sale to third parties.
 [@1] The semi-rigid boat used for the run could not be seized because it sank
-during the operation. [@1] The judgment became final after the agreement, which
+during the operation. [@1,5] The judgment became final after the agreement, which
 substantially reduced the prosecution's initial request. [@2]
-
