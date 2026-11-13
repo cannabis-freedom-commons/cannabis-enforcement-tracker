@@ -102,34 +102,23 @@ sources:
     publisher: Radio Algérienne
     date: 2026-11-07
     language: fr
-open_questions:
-  - None of the accounts gives the day or days of the operations; 7 November 2026 is the publication date and is used as the incident date.
-  - No breakdown of the 205 kg, the 28 arrests or the ten networks by wilaya or operation was published, and the statement does not say where each network was dismantled.
-  - The statement gives no charges and no court dates for the 28 suspects, who were only brought before prosecutors in Oran, Naâma, Tlemcen and Béchar.
-  - The centime sum is recorded as the authorities' description of criminal proceeds, not as a street value of the kif.
-  - The three accounts reproduce the same DGSN communiqué and are not independent reporting; no statement page on the DGSN's own site could be opened.
-  - The lead photograph is published with the Horizons article but carries no caption or credit, so it is not established which seizure it shows.
-  - The Echorouk Online image is a stock illustration marked as such, and Ennahar's lead image did not load, so no other photo of this event was added.
-  - 'Left out, as its quotation was not found in الشروق أونلاين: Echorouk Online reported the same police statement in Arabic, with 205 kg of treated kif from Morocco, 28 people held, ten networks dismantled and 13 tourist vehicles and two motorcycles seized in Tlemcen, Naâma, Oran and Béchar.'
-  - No operation dates are given; 7 November 2026 is the publication and statement date used as the incident date.
-  - The page reproduces the same DGSN statement as the sources already cited in the report, so it is not independent reporting of the seizure.
-  - The Béchar incidents the page recalls for context are separate events, recorded elsewhere, and are not part of this report.
-  - The page uses the Dutch term hasj for the seized resin and gives only the rounded 205 kilo figure, with no wilaya breakdown, vehicles or cash totals.
-  - The page gives only the rounded 205 kg figure and the totals of 28 arrests and ten networks, with no wilaya breakdown, vehicles, cash or court details.
-  - The Radio Algérienne page reproduces the same DGSN statement as the sources already cited and is not independent reporting of the seizure.
-  - The page gives no weight figure other than 205 kg and no breakdown by wilaya or operation, and gives no charges or court dates.
+  - title: ضبط أزيد من قنطارين من الكيف المعالج مصدره المغرب
+    url: https://www.aps.dz/algerie/actualite-nationale/mw6jmnia-%D8%B6%D8%A8%D8%B7-%D8%A7%D9%94%D8%B2%D9%8A%D8%AF-%D9%85%D9%86-%D9%82%D9%86%D8%B7%D8%A7%D8%B1%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D9%83%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC-%D9%85%D8%B5%D8%AF%D8%B1%D9%87-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8
+    publisher: وكالة الأنباء الجزائرية
+    date: 2026-11-07
+    language: ar
 ---
 
 Algeria's national police dismantled ten criminal networks specialising in drug
 trafficking in the west of the country and arrested 28 people, the Directorate
-General of National Security (DGSN) said. [@1,3,4,5,6,7,8,9,10] The operations, run in succession
+General of National Security (DGSN) said. [@1,3,4,5,6,7,8,9,10,11] The operations, run in succession
 by the national police's operational teams, seized 205 kg of treated kif —
-processed cannabis resin — that came from Morocco. [@1,3,4,5,6,7,8,9,10]
+processed cannabis resin — that came from Morocco. [@1,3,4,5,6,7,8,9,10,11]
 
 The teams carried out the operations in the wilayas of Tlemcen, Naâma, Oran and
 Béchar, under the supervision of the territorial public prosecutors, according
-to the DGSN statement. [@1,3,4,6,10] Investigators seized 13 tourist vehicles and two
-motorcycles used for these activities. [@1,3,4,6,10] They also recovered more than 1
+to the DGSN statement. [@1,3,4,6,10,11] Investigators seized 13 tourist vehicles and two
+motorcycles used for these activities. [@1,3,4,6,10,11] They also recovered more than 1
 billion and 300 million centimes — more than 13 million dinars — which the
 statement described as the proceeds of these illicit activities. [@1,4,6,10]
 
