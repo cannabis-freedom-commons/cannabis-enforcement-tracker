@@ -77,9 +77,11 @@ sources:
     publisher: Habertürk
     date: 2026-11-12
     language: tr
-open_questions:
-    - The report gives no separate date for the four operations or the 15-address raids; 12 November 2026 is the date of publication.
-    - 'The photographs in one account of the operation are credited to İhlas Haber Ajansı and the Son Dakika version is bylined ''Kaynak: İHA'', so those accounts may repeat the agency''s report rather than add independent reporting.'
+  - title: İzmir'de 1 ton 367 kilo skunk ele geçirildi - İzmir Haberleri - Habertürk Yerel Haberler
+    url: https://yerel-haberler.haberturk.com/izmir-haberleri/izmirde-1-ton-367-kilo-skunk-ele-gecirildi-119519784
+    publisher: Habertürk
+    date: 2026-11-12
+    language: tr
 ---
 
 Police in İzmir seized more than a tonne of skunk esrar, a herbal cannabis
@@ -90,17 +92,17 @@ Suçlarla Mücadele Şube Müdürlüğü, carried out the surveillance and the s
 [@1,4,5]
 
 After technical and physical surveillance, officers made four separate interim
-seizures. [@1,4,5,6] Those seizures yielded 1 tonne 367 kilograms 500 grams of skunk,
-about 1,367.5 kilograms, and 57,000 ecstasy pills. [@1,3,4,5,6,7] Demirören Haber Ajansı
-reported that the operations also yielded 1,728 grams of pregabalin. [@2,3,7] İhlas
+seizures. [@1,4,5,6,8] Those seizures yielded 1 tonne 367 kilograms 500 grams of skunk,
+about 1,367.5 kilograms, and 57,000 ecstasy pills. [@1,3,4,5,6,7,8] Demirören Haber Ajansı
+reported that the operations also yielded 1,728 grams of pregabalin. [@2,3,7,8] İhlas
 Haber Ajansı called the powder seized in the same work pharmaceutical powder.
-[@1,6] Three suspects linked to the operation were remanded in custody. [@1,3,4,5,6]
+[@1,6] Three suspects linked to the operation were remanded in custody. [@1,3,4,5,6,8]
 Judicial proceedings were started against one other suspect. [@1,3,5,6]
 
 Officers then raided 15 addresses at the same time, 13 homes and two workplaces,
-to catch people linked to the drug trade. [@1,3,4,5,6] Eleven suspects were taken into
-gözaltı, police custody for questioning. [@1,3,4,5,6] A search continued for one suspect
-still at large. [@1,3,4,5,6] İhlas Haber Ajansı said 14 suspects were caught in all.
+to catch people linked to the drug trade. [@1,3,4,5,6,8] Eleven suspects were taken into
+gözaltı, police custody for questioning. [@1,3,4,5,6,8] A search continued for one suspect
+still at large. [@1,3,4,5,6,8] İhlas Haber Ajansı said 14 suspects were caught in all.
 [@1,6] Searches at the addresses also found one pistol, one magazine, 17
 cartridges and 24 drug pills. [@1,5,6]
 
