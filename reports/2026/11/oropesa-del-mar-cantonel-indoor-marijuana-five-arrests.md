@@ -76,34 +76,39 @@ sources:
     publisher: Cadena SER
     date: 2026-11-10
     language: es
-open_questions:
-    - No weight for the seized hashish or marijuana and no count of cannabis plants was published.
-    - The exact addresses of the searched homes were not disclosed.
-    - No custody decision, charge sheet or court outcome after referral to the judicial authority was reported.
-    - Cocaine, firearms and cash are mentioned to explain the operation; only the cannabis products support this report and no combined drug total is used as a cannabis figure.
+  - title: Un enganche ilegal para cultivar marihuana pone en riesgo la seguridad vial en la AP-7
+    url: https://www.msn.com/es-es/noticias/otras/un-enganche-ilegal-para-cultivar-marihuana-pone-en-riesgo-la-seguridad-vial-en-la-ap-7-la-ins%C3%B3lita-aver%C3%ADa-de-un-panel-de-la-dgt/ar-AA2hgLHq
+    publisher: MundoDeportivo.com (via MSN)
+    date: 2026-11-12
+    language: es
+  - title: Un enganche ilegal para cultivar marihuana pone en riesgo la seguridad vial en la AP-7
+    url: https://www.mundodeportivo.com/solomoto/20261112/1004250134/enganche-ilegal-cultivar-marihuana-pone-riesgo-seguridad-vial-ap-7-insolita-averia-panel-dgt.html
+    publisher: Mundo Deportivo
+    date: 2026-11-12
+    language: es
 ---
 
 The Guardia Civil arrested five people and placed another under investigation in
 Oropesa del Mar in connection with a drug cultivation and distribution network.
-[@1,2,3,4] The operation, called Operación Cantonel, culminated in searches on 5
-November 2026 after an investigation begun in 2024. [@1,2,3] The six suspects face
+[@1,2,3,4,5] The operation, called Operación Cantonel, culminated in searches on 5
+November 2026 after an investigation begun in 2024. [@1,2,3,6] The six suspects face
 allegations of drug trafficking, membership of a criminal organisation,
-electricity fraud and offences against road safety. [@1,2,3,4] Proceedings prepared by
+electricity fraud and offences against road safety. [@1,2,3,4,6] Proceedings prepared by
 the Guardia Civil in Oropesa del Mar were sent to the competent judicial
 authority. [@1,2,3]
 
 During house searches, officers seized marijuana, hashish and cocaine, indoor
 cannabis-plantation material, firearms and other weapons, and nearly 5,000 euros
-in cash. [@1,2,3,4] Agents found narcotics prepared for distribution and equipment
+in cash. [@1,2,3,4,6] Agents found narcotics prepared for distribution and equipment
 allegedly used to grow marijuana indoors. [@1,2,3,4] Officers also seized firearms and
 other weapons, material connected with making hashish, and cash. [@1,2,3,4] The homes
 had an advanced alarm system and many surveillance cameras intended to hinder
-police action and monitor movement around the premises. [@1,2,3,4]
+police action and monitor movement around the premises. [@1,2,3,4,6]
 
 Investigators found an illegal electricity hookup wired directly into an
 illuminated Directorate-General of Traffic signalling panel and carefully
-concealed. [@1,2,3,4] The tapped power supply caused failures in AP-7 motorway
-signalling, creating a serious danger to drivers. [@1,2,3,4] Operación Cantonel began
+concealed. [@1,2,3,4,6] The tapped power supply caused failures in AP-7 motorway
+signalling, creating a serious danger to drivers. [@1,2,3,4,6] Operación Cantonel began
 in 2024 with collaboration from the Oropesa del Mar Local Police from its
 earliest stages. [@1,2,3] Units of the Castellón Command took part in the 5 November
 deployment, supported by the USECIC, the Reserve and Security Group and the Air
