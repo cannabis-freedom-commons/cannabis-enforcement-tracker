@@ -66,6 +66,11 @@ media:
     media_url: https://korkusuz01.sozcucdn.com/korkusuz/production/uploads/images/2026/11/katman-1png-qRd-Hp0JzEebQSfG6aCIgQ.png
     publisher: Korkusuz
     caption: 'DHA photo placed beside the passage on the drugs hidden in one car''s rear left wing and inside the other car''s spare tyre. Photo: DHA'
+  - kind: photo
+    url: https://www.iha.com.tr/sanliurfa-haberleri/yolcu-otobusu-ile-2-otomobilden-17-kilo-uyusturucu-cikti-514554256
+    media_url: https://cdn.iha.com.tr/Contents/images/2026/11/12/20261111aw830507-0.jpg
+    publisher: İhlas Haber Ajansı (İHA)
+    caption: 'Handout photo published with İHA''s report on the searches of a passenger bus and two cars in Şanlıurfa that found 17 kg 200 g of skunk. Photo: İHA'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0d4b389748bf3bd37e21a4a600882d43
@@ -191,23 +196,33 @@ sources:
     publisher: Korkusuz
     date: 2026-11-12
     language: tr
+  - title: 'Şanlıurfa’da 17 kilo 200 gram skunk ele geçirildi: 3 tutuklama'
+    url: https://www.ilkhaber-gazetesi.com/polis-asayis/sanliurfa-da-17-kilo-200-gram-skunk-ele-gecirildi-3-tutuklama-469895
+    publisher: İlkhaber Gazetesi
+    date: 2026-11-11
+    language: tr
+  - title: Yolcu otobüsü ile 2 otomobilden 17 kilo uyuşturucu çıktı
+    url: https://www.iha.com.tr/sanliurfa-haberleri/yolcu-otobusu-ile-2-otomobilden-17-kilo-uyusturucu-cikti-514554256
+    publisher: İhlas Haber Ajansı (İHA)
+    date: 2026-11-11
+    language: tr
 open_questions:
     - The article gives no separate date for the operation; 11 November 2026 is its publication date and is used as the incident date.
     - No trial date or court outcome was reported for the three suspects remanded in custody.
 ---
 
 Şanlıurfa provincial narcotics police stopped a passenger bus and two cars on
-suspicion during operations against drug trafficking. [@1,6,8,10,11,13,14,17,18,19,20,21,22,23,24] The searches of the passenger bus and two vehicles were carried out in the provincial centre of Şanlıurfa. [@5,9,12,16,24] Searches of the
+suspicion during operations against drug trafficking. [@1,6,8,10,11,13,14,17,18,19,20,21,22,23,24,25] The searches of the passenger bus and two vehicles were carried out in the provincial centre of Şanlıurfa. [@5,9,12,16,24] Searches of the
 vehicles by officers with a trained dog found narcotics in cardboard boxes in
 the bus's boot. [@1,10,11,21,22,24] Detailed searches of the two cars established that the
 drugs were hidden in one car's rear left wing and inside the other's spare tyre.
 [@1,10,11,13,21,22,24]
 
 The operation seized 21 pieces totalling 17 kilograms 200 grams of skunk, a
-potent form of cannabis sold under that name in Türkiye. [@1,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,23,24] The provincial police directorate said the seized quantity prevented about 70,000 people from being poisoned. [@5,12,16] The three suspects
+potent form of cannabis sold under that name in Türkiye. [@1,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,23,24,25] The provincial police directorate said the seized quantity prevented about 70,000 people from being poisoned. [@5,12,16] The three suspects
 detained over the case were taken to court after their processing at the police
-station and were remanded in custody. [@1,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24] The three suspects were detained for manufacturing, trading and transporting narcotics. [@5,9,12,16] The investigation into the case was
-continuing. [@1,7,8,10,11,13,14,15,17,18,20,21,22,23,24] Sözcü corroborated the seizure as 21 pieces totalling 17
+station and were remanded in custody. [@1,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26] The three suspects were detained for manufacturing, trading and transporting narcotics. [@5,9,12,16] The investigation into the case was
+continuing. [@1,7,8,10,11,13,14,15,17,18,20,21,22,23,24,25] Sözcü corroborated the seizure as 21 pieces totalling 17
 kilograms 200 grams of skunk. [@2]
 
 Aksiyon described the operation as a road check in which officers stopped the
