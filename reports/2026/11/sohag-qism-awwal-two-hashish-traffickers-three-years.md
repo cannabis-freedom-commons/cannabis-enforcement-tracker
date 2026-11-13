@@ -70,6 +70,11 @@ sources:
     publisher: صدى البلد
     date: 2026-11-12
     language: ar
+  - title: المشدد 3 سنوات وغرامة 50 ألف جنيه لمتهمين بالاتجار في الحشيش بسوهاج
+    url: https://www.iqraa.news/221158/%D8%A7%D9%84%D9%85%D8%B4%D8%AF%D8%AF-3-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%88%D8%BA%D8%B1%D8%A7%D9%85%D8%A9-50-%D8%A3%D9%84%D9%81-%D8%AC%D9%86%D9%8A%D9%87-%D9%84%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86/
+    publisher: إقرأ نيوز
+    date: 2026-11-12
+    language: ar
 open_questions:
     - No weight, estimated value or number of hashish pieces was reported; the seizure is described only as a quantity of hashish.
     - No date was published for the sentencing hearing itself; 12 November 2026 is the publication date of the accounts.
@@ -82,19 +87,19 @@ open_questions:
 The Sohag Appeals Criminal Court sentenced two men, identified only by the
 initials A. S. and M. G., to three years of aggravated imprisonment and fined
 each 50,000 Egyptian pounds for trafficking hashish in the First Police District
-of Sohag. [@1,2,3,4] The two defendants were identified in both accounts only by their
-initials, one of them described as a worker. [@2]
+of Sohag. [@1,2,3,4,5] The two defendants were identified in both accounts only by their
+initials, one of them described as a worker. [@2,5]
 
 The judgment was issued by a panel headed by Counsellor Khaled Abdel Ghaffar,
 with Counsellors Khaled Abdel Shakour and Osama Ali Farag as members and clerks
-Mohamed Abdel Hamid and Badr El-Din Kamal. [@1,2] The case dates to 2026, when
+Mohamed Abdel Hamid and Badr El-Din Kamal. [@1,2,5] The case dates to 2026, when
 detectives received information that the two men were trafficking hashish in the
-First Police District of Sohag. [@1] Security investigations found that the two men used the First Police District as the scene of their activity by promoting hashish to users. [@4] After the legal procedures and
+First Police District of Sohag. [@1,5] Security investigations found that the two men used the First Police District as the scene of their activity by promoting hashish to users. [@4] After the legal procedures and
 investigations were completed, police confirmed the information, which had come
 from a secret source, and arrested both men with a quantity of hashish that was
-prepared for sale. [@1,3]
+prepared for sale. [@1,3,5]
 
 Confronted with the results of the arrest and the investigations, both men
 admitted possessing the drugs with intent to traffic, and the case file was
-referred to the criminal court. [@1,4] Cairo24 reported the same sentence, the
+referred to the criminal court. [@1,4,5] Cairo24 reported the same sentence, the
 same 50,000-pound fine for each defendant and the same judicial panel. [@2]
