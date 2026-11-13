@@ -84,20 +84,23 @@ sources:
     publisher: Nau.ch
     date: 2026-11-11
     language: de
-open_questions:
-    - It is unclear whether the 22-year-old was arrested or only stopped at the border; no charge or court outcome after the handover to Aargau cantonal police has been reported.
+  - title: Suisse. Un homme de 22 ans interpellé à la frontière allemande avec 11 kilos de cannabis dans le coffre
+    url: https://www.dna.fr/faits-divers-justice/2026/11/12/un-homme-de-22-ans-interpelle-a-la-frontiere-allemande-avec-11-kilos-de-cannabis-dans-son-coffre
+    publisher: Les Dernières Nouvelles d'Alsace
+    date: 2026-11-12
+    language: fr
 ---
 
 Shortly after 2:30 a.m. on Sunday, 8 November 2026, officers of the Federal
 Office for Customs and Border Security stopped a car with Swiss registration
-plates in the area of the Rheinfelden motorway border crossing in Aargau. [@1,6,7]
+plates in the area of the Rheinfelden motorway border crossing in Aargau. [@1,6,7,11]
 The car was driven by a 22-year-old Moroccan national. [@1,3,5,6,7,8] He could not produce
 a driving licence during the check, and further inquiries showed that he was
 prohibited from driving motor vehicles. [@1,5,6,7,9]
 
 During the subsequent search of the vehicle, officers found ten vacuum-sealed
 packages containing cannabis in the boot. [@1,3,5,6,7,9] The drugs had been hidden in shopping bags. [@3] The seized cannabis weighed about
-eleven kilograms in total. [@1,3,5,6,7,10] The agency put the street-sale value of the drugs at about 110,000 francs. [@4,6] The customs agency handed the case to the Aargau
+eleven kilograms in total. [@1,3,5,6,7,10,11] The agency put the street-sale value of the drugs at about 110,000 francs. [@4,6] The customs agency handed the case to the Aargau
 cantonal police for further handling. [@2,3,5,6,7,8]
 
 The Federal Office for Customs and Border Security is the Swiss agency
