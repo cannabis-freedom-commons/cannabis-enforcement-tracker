@@ -44,6 +44,11 @@ sources:
     publisher: Jagan
     date: 2026-11-13
     language: hi
+  - title: हापुड़ में बहन की शादी के खर्च के लिए गांजा तस्करी करने पहुंचा युवक गिरफ्तार, 1.650 किलो गांजा बरामद
+    url: https://royalbulletin.in/uttar-pradesh/%E0%A4%B9%E0%A4%BE%E0%A4%AA%E0%A5%81%E0%A5%9C/-draft--add-your-title/article-254924
+    publisher: Royal Bulletin
+    date: 2026-11-13
+    language: hi
 open_questions:
   - No court outcome has been reported in the article yet.
 ---
@@ -55,10 +60,9 @@ Sambhal district. [@1]
 
 Cannabis was found in a polythene pack inside the black bag slung over his
 shoulder. Police confirmed the substance as cannabis and weighed it at 1.650
-kilograms on an electronic scale. [@1] Police also seized a mobile phone and
+kilograms on an electronic scale. [@1,2] Police also seized a mobile phone and
 1,880 rupees in cash from the accused. [@1]
 
 Shayan Alam told police that he had taken to selling cannabis to raise money for
-his sister's wedding. [@1] Police registered a report against the accused and
+his sister's wedding. [@1] He learned there was high demand for cannabis in Hapur, so he planned to bring it from Sambhal in small quantities to sell. [@2] Police registered a report against the accused and
 started further proceedings. [@1]
-
