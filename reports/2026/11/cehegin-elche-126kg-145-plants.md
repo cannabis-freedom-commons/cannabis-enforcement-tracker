@@ -58,6 +58,16 @@ media:
     media_url: https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/12/plantacion-marihuana-suplantadores-Rcr3FgUE5xk0S1qDXSS3U9L-1200x840@diario_abc.jpg
     publisher: ABC
     caption: 'A Customs officer and a National Police officer inspect marijuana found in the operation. Photo: ABC'
+  - kind: photo
+    url: https://diariodealicante.net/en/marijuana-network-Alicante-Elche-Guardamar-126-kilos/
+    media_url: https://diariodealicante.net/wp-content/uploads/2026/11/FOTO-PLANTACION_1-1024x576.webp
+    publisher: Diario de Alicante
+    caption: 'Marijuana plants and growing equipment in the plantation dismantled in the operation, in the first of three photos published by Diario de Alicante. Photo: Diario de Alicante'
+  - kind: photo
+    url: https://diariodealicante.net/en/marijuana-network-Alicante-Elche-Guardamar-126-kilos/
+    media_url: https://diariodealicante.net/wp-content/uploads/2026/11/FOTO-PLANTACION_3-1024x576.webp
+    publisher: Diario de Alicante
+    caption: 'Third photo of the dismantled indoor plantation with marijuana plants in the operation, published by Diario de Alicante. Photo: Diario de Alicante'
 status: verified
 created_by_model: xai/grok-4.7#medium
 submission: eeb988d6550fd2e386f17ba77808f0b1
@@ -88,37 +98,35 @@ sources:
     publisher: ABC
     date: 2026-11-12
     language: es
-open_questions:
-    - No date is given for the Cehegín search or the Guardamar del Segura arrest; 12 November 2026 is the article's publication date and it says only that they came days after the March operation.
-    - The article refers to plantations and rented premises in the plural, but describes only the Elche property and the single search in Cehegín; the total number of growing sites is not stated.
-    - No value is given for the 126 kilograms of marijuana or the 145 plants.
-    - No drug-trafficking charge is specified; the article names only document fraud and usurpation of civil status, and no court outcome is reported.
-    - The 126 kilograms are described as marijuana without a laboratory confirmation.
-    - The suspects are identified only by nationality, with no names or ages published.
+  - title: A marijuana ring is busted in Alicante with 126 kilos of drugs
+    url: https://diariodealicante.net/en/marijuana-network-Alicante-Elche-Guardamar-126-kilos/
+    publisher: Diario de Alicante
+    date: 2026-11-12
+    language: en
 ---
 
 Three people were arrested after a marijuana-trafficking organisation operating
-in the provinces of Alicante and Murcia was dismantled. [@2,4] The Tax Agency's
+in the provinces of Alicante and Murcia was dismantled. [@2,4,6] The Tax Agency's
 Customs Surveillance smuggling group in Alicante and the National Police drugs
 and organised crime unit (UDYCO) in Alicante dismantled a network that grew,
-processed and distributed marijuana. [@1,4] The investigation began with an
-operation in the municipality of Elche in March. [@1,4,5]
+processed and distributed marijuana. [@1,4,6] The investigation began with an
+operation in the municipality of Elche in March. [@1,4,5,6]
 
 During surveillance near a rural property, officers stopped a van as it was
-leaving. [@1,4,5] In the van they found 126 kilograms of marijuana in rubbish bags
-and raffia sacks, and they arrested the driver, an Albanian man. [@1,4,5] The
+leaving. [@1,4,5,6] In the van they found 126 kilograms of marijuana in rubbish bags
+and raffia sacks, and they arrested the driver, an Albanian man. [@1,4,5,6] The
 network had assumed the identity of a Ukrainian citizen to sign the leases on
-the property and avoid police action. [@3,4,5] The network used several third parties' identities without their knowledge to sign the rental contracts. [@5] The Tax Agency said the suspects were
-also accused of document fraud and usurpation of civil status. [@1,4,5]
+the property and avoid police action. [@3,4,5,6] The network used several third parties' identities without their knowledge to sign the rental contracts. [@5] The Tax Agency said the suspects were
+also accused of document fraud and usurpation of civil status. [@1,4,5,6]
 
 Investigators traced the network to a second indoor plantation, on a property in
-Cehegín, in Murcia. [@1] A warrant from the civil and investigating section of
+Cehegín, in Murcia. [@1,6] A warrant from the civil and investigating section of
 Court of Instance No. 1 in Caravaca de la Cruz authorised a search of a building
-in Cehegín. [@1,4,5] Officers found 145 flowering marijuana plants and
+in Cehegín. [@1,4,5,6] Officers found 145 flowering marijuana plants and
 indoor-growing equipment, including air-conditioning, humidifiers, carbon-filter
-extractors, fans, LED panels, automatic irrigation and centrifuges. [@1,4] The
-installation was connected fraudulently to the electricity grid. [@1,4,5] A
+extractors, fans, LED panels, automatic irrigation and centrifuges. [@1,4,6] The
+installation was connected fraudulently to the electricity grid. [@1,4,5,6] A
 Lithuanian man who was allegedly guarding and maintaining the crop was arrested
-in the search. [@1,4,5] Days later, officers arrested another Lithuanian man,
+in the search. [@1,4,5,6] Days later, officers arrested another Lithuanian man,
 described as one of the alleged leaders, in Guardamar del Segura and brought him
-before the investigating court in Torrevieja. [@1,4,5]
+before the investigating court in Torrevieja. [@1,4,5,6]
