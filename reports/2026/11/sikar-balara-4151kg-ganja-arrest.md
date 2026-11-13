@@ -87,29 +87,34 @@ sources:
     publisher: Hindusthan Samachar
     date: 2026-11-12
     language: hi
+  - title: 'सीआईडी क्राइम ब्रांच की बड़ी कार्रवाई: 41.510 किलोग्राम गांजा जब्त, झुंझुनूं निवासी तस्कर गिरफ्तार'
+    url: https://www.m.khaskhabar.com/news/news-major-operation-by-cid-crime-branch-41510-kg-of-ganja-seized-smuggler-from-jhunjhunu-arrested-news-hindi-1-860301-KKN.html
+    publisher: Khaskhabar
+    date: 2026-11-12
+    language: hi
 ---
 
 Officers of the Rajasthan Police CID Crime Branch special team arrested Rakesh
 Kumar of Khirod in Jhunjhunu after stopping a Swift car in the Balara
-police-station area of Sikar district. [@2,3,4] Additional Director General of Police (Crime) Bipin Kumar Pandey said the CID Crime Branch team was collecting intelligence in the Sikar and Fatehpur areas. [@4] The action took place late on
-Wednesday 11 November 2026. [@2,3] A tip said the Swift car, registration RJ 18 CF
+police-station area of Sikar district. [@2,3,4,5] The operation was carried out on the instructions of Rajasthan Police Director General of Police Rajiv Kumar Sharma. [@5] Additional Director General of Police (Crime) Bipin Kumar Pandey said the CID Crime Branch team was collecting intelligence in the Sikar and Fatehpur areas. [@4] The action took place late on
+Wednesday 11 November 2026. [@2,3,5] A tip said the Swift car, registration RJ 18 CF
 2905, was carrying suspicious goods from Sikar through Laxmangarh toward
-Jhunjhunu. [@2,3] When officers tried to stop the car coming from the Laxmangarh
+Jhunjhunu. [@2,3,5] When officers tried to stop the car coming from the Laxmangarh
 side, the driver swerved and tried to flee, then locked the doors and tried to
-drive off again before the team brought him under control. [@2,3]
+drive off again before the team brought him under control. [@2,3,5]
 
 A search of the back seat and boot found 20 packets of ganja, the Hindi name for
 cannabis, in two sacks. [@1,3] A yellow sack near the back seat held 16 kg 370 g
-and a white sack in the boot held 25 kg 140 g, a total of 41 kg 510 g. [@2,3,4]
+and a white sack in the boot held 25 kg 140 g, a total of 41 kg 510 g. [@2,3,4,5]
 Police estimated the consignment's value on the international market at about 21
-lakh rupees. [@1,3,4]
+lakh rupees. [@1,3,4,5]
 
 Police registered a case under the NDPS Act at Balara police station in Sikar
-district and arrested Rakesh Kumar. [@2,3,4] Further investigation was assigned to
-Dadia station house officer Sanjay Punia. [@2,3,4] Kumar told officers the ganja and
+district and arrested Rakesh Kumar. [@2,3,4,5] Further investigation was assigned to
+Dadia station house officer Sanjay Punia. [@2,3,4,5] Kumar told officers the ganja and
 the car belonged to his companion Vikas Kumar Dhinwa of Sevapura in Khirod, who
 he said had left the car a short distance earlier and told him to phone once he
-had gone ahead. [@2,3,4] Police said Dhinwa was involved in the narcotics trade on a
+had gone ahead. [@2,3,4,5] Police said Dhinwa was involved in the narcotics trade on a
 large scale, and they were searching for him and investigating the trafficking
 network. [@2,3] Police were also trying to establish where the ganja had come from
 and who it was to be supplied to. [@1]
