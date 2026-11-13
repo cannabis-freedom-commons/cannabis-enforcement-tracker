@@ -86,6 +86,11 @@ sources:
     publisher: actu.fr (Actu Saint-Étienne)
     date: 2026-11-10
     language: fr
+  - title: Avec 425 kg de cannabis à bord, ce convoi avait peu de chances de passer sous les radars
+    url: https://www.autonews.fr/buzz/avec-425-kg-de-cannabis-a-bord-ce-convoi-avait-peu-de-chances-de-passer-sous-les-radars-150499
+    publisher: Autonews
+    date: 2026-11-12
+    language: fr
 ---
 
 Three men aged between 28 and 45 were arrested in Saint-Chamond, in the Loire
@@ -95,15 +100,15 @@ Gendarmes of the Lyon research section had opened a preliminary investigation at
 the end of August 2026 into an organisation suspected of importing cannabis
 resin. [@2,4,5] The convoy's two cars had loaded 425 kg of cannabis resin in
 Perpignan, after the drug had come from Spain, and were heading for the
-Saint-Étienne and Lyon markets. [@3,4,8]
+Saint-Étienne and Lyon markets. [@3,4,8,9]
 
 Searches found 425 kg of cannabis resin and cash, whose amount was not stated.
 [@2,4,6] The three suspects, from Saint-Chamond, Annonay in Ardèche and Vénissieux
 in the Rhône, were brought before the Saint-Étienne court on 6 November and
 placed in pre-trial detention. [@2,4,5,6] They were charged and placed in pre-trial
 detention in a judicial investigation opened for acquiring, transporting,
-importing, possessing, offering and supplying narcotics. [@3,4]
+importing, possessing, offering and supplying narcotics. [@3,4,9]
 
-The intervention was backed by the GIGN's Orange branch (AGIGN), the gendarmerie's intervention unit, which officers often call on for large-scale drug operations because of the risks involved. [@5]
+The intervention was backed by the GIGN's Orange branch (AGIGN), the gendarmerie's intervention unit, which officers often call on for large-scale drug operations because of the risks involved. [@5,9]
 
 The surveillance had begun the day before, when gendarmes spotted two vehicles travelling together towards southern France and followed them to the Perpignan area, where the cargo was confirmed. [@6]
