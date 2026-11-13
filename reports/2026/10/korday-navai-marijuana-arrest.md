@@ -135,6 +135,11 @@ sources:
     publisher: Большой город
     date: 2026-10-15
     language: ru
+  - title: Рэпер Navai задержан на границе с Казахстаном по подозрению в контрабанде наркотиков
+    url: https://7info.ru/russia/reper-navai-zaderzhan-na-granicze-s-kazahstanom-po-podozreniyu-v-kontrabande-narkotikov/
+    publisher: 7 инфо
+    date: 2026-10-14
+    language: ru
 media:
   - kind: photo
     url: https://news.ru/culture/navai-arestovali-po-delu-o-kontrabande-narkotikov-v-kazahstane
@@ -145,16 +150,16 @@ media:
 
 Police and border guards detained the Russian rapper Navai, real name Navai Bakirov, at the Korday
 checkpoint as he entered Kazakhstan by car from Kyrgyzstan on 13 October 2026.
-[@1,3,4,5,7,9,10,11,12,15,17] His manager and driver were with him. [@2,3,4,8,16,20] The two men with him were his director Rauf Gusanov and the car's renter, Khalmurad Manapov. [@20] A service dog named
+[@1,3,4,5,7,9,10,11,12,15,17,21] His manager and driver were with him. [@2,3,4,8,16,20] The two men with him were his director Rauf Gusanov and the car's renter, Khalmurad Manapov. [@20] A service dog named
 Atlas reacted to the car, and officers found a narcotic substance in the pocket of the driver's seat
-[@1,3,4,6,7,9,11,13,18], along with a bag with rolling papers and a grinder. [@2,4,18] Journalist Mikhail
+[@1,3,4,6,7,9,11,13,18,21], along with a bag with rolling papers and a grinder. [@2,4,18] Journalist Mikhail
 Kozachkov wrote that it was 2.5 g of marijuana [@7,10,11,15,18,19]; Baza, citing checkpoint staff, claimed 10
 grams. [@3,8,16] All three were detained and placed in temporary detention [@2,10,11,20] A Telegram channel citing Kazakhstan's interior ministry said Navai was in a state of narcotic intoxication when he was detained. [@20]; the two others were
 later released [@11,20], while investigators established who owned the substance. [@7,10]
 
 ## The case
 
-Police opened a criminal case for attempted smuggling of narcotics [@1,7,10,11,17] under Article 286 of
+Police opened a criminal case for attempted smuggling of narcotics [@1,7,10,11,17,21] under Article 286 of
 the Criminal Code, which allows up to five years in prison [@4]; the charges were reported as smuggling
 and unlawful transportation of narcotics without intent to sell. [@5,11,20] The Korday district court ordered
 him held in custody for two months. [@5,6,8,15,16,17,18,19,20] Questioned, he admitted buying the drugs in Bishkek
