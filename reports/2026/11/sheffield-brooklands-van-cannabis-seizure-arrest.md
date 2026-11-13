@@ -41,19 +41,20 @@ sources:
     url: https://www.thestar.co.uk/news/crime/cannabis-in-van-nov-12-2026-9346925
     publisher: Sheffield Star
     date: 2026-11-12
-open_questions:
-  - The exact day of the van stop and farm discovery is not recorded in the source; only that it occurred shortly before 12 November 2026.
+  - title: Watch as police open van to find it crammed with bags of cannabis plants - Yorkshire Live
+    url: https://www.examinerlive.co.uk/news/local-news/watch-police-open-van-find-34902592
+    publisher: Yorkshire Live
+    date: 2026-11-12
 ---
 
 South Yorkshire Police officers on patrol in Sheffield spotted two vehicles
 travelling in convoy in the Fulwood area and, a short time later, located one of
-them, a white van, on Brooklands Crescent. [@1] When they opened the sliding
+them, a white van, on Brooklands Crescent. [@1,2] When they opened the sliding
 door of the white van on Brooklands Crescent, they found it stuffed to the roof
-with black bin bags filled with a total of 75 cannabis plants. [@1]
+with black bin bags filled with a total of 75 cannabis plants. [@1,2]
 
 Follow-up enquiries at an address in Gleadless linked to the vehicle led
-officers to a cannabis farm containing around 40 plants. [@1]
+officers to a cannabis farm containing around 40 plants. [@1,2]
 
 A 27-year-old man was arrested on suspicion of production of cannabis and has
-been bailed pending further enquiries. [@1]
-
+been bailed pending further enquiries. [@1,2]
