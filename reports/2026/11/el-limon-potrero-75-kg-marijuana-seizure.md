@@ -49,6 +49,11 @@ sources:
     publisher: Prensa Libre México
     date: 2026-11-11
     language: es
+  - title: Aseguran Policía Estatal y Ejército Mexicano 75 kilogramos de probable marihuana en Coyuca de Catalán
+    url: https://acustiknoticias.com/2026/11/aseguran-policia-estatal-y-ejercito-mexicano-75-kilogramos-de-probable-marihuana-en-coyuca-de-catalan/
+    publisher: Acustik Noticias
+    date: 2026-11-12
+    language: es
 open_questions:
   - The reports give no separate date for the seizure; 11 November 2026 is the date of the bulletin and of publication.
   - No laboratory confirmation was reported for the dried material, which authorities described as resembling marijuana.
@@ -61,17 +66,16 @@ open_questions:
 El Limón Potrero is a locality in the municipality of Coyuca de Catalán, in the
 state of Guerrero. [@2] State police and Mexican Army personnel seized 75
 kilograms of dried grass with characteristics similar to marijuana in El Limón
-Potrero. [@2] Authorities reported the seizure on 11 November 2026. [@1] The
+Potrero. [@2,3] Authorities reported the seizure on 11 November 2026. [@1] The
 seizure was part of the security deployment in the Tierra Caliente region, where
-state and federal forces operate through an inter-institutional base. [@2]
+state and federal forces operate through an inter-institutional base. [@2,3]
 
 A press bulletin said the operation was coordinated through the Base of
-Inter-Institutional Operations (BOI) in Pungarabato. [@1] The BOI brings
+Inter-Institutional Operations (BOI) in Pungarabato. [@1,3] The BOI brings
 together the state and federal personnel taking part in the regional security
 deployment. [@2] Pungarabato is in the Tierra Caliente region. [@1]
 
 Quadratín Guerrero described the load as 75 kilograms of presumed marijuana.
 [@1] The material was handed over to the competent authority, which will carry
-out the corresponding investigation into the seizure. [@2] No one was detained
+out the corresponding investigation into the seizure. [@2,3] No one was detained
 in connection with the drug, the Interacción Noticias account reported. [@2]
-
