@@ -47,6 +47,11 @@ media:
     media_url: https://noticiasbotucatu.com.br/wp-content/uploads/2026/11/whatsapp-image-2026-11-12-at-15-25-24-1.webp
     publisher: Notícias Botucatu
     caption: 'Second photo published with the Notícias Botucatu report of the cannabis farm search in Itatinga, from the police material supplied with the Agência SP account. Photo: Agência SP'
+  - kind: photo
+    url: https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/12/policia-investiga-associacao-medicinal-usada-como-fachada-para-trafico-de-maconha-em-itatinga.ghtml
+    media_url: https://s02.video.glbimg.com/x240/15183753.jpg
+    publisher: G1
+    caption: 'Photo from G1''s account of the civil police search of the Itatinga farm in phase 3 of Operação Green Veil, showing the marijuana greenhouses. Photo: Polícia Civil de São Paulo via G1.'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e03b7e155fc530c7b89d696df0051d83
@@ -67,6 +72,11 @@ sources:
     publisher: JORNAL DA REGIÃO
     date: 2026-11-12
     language: pt
+  - title: Polícia investiga fazenda de associação medicinal usada como fachada para tráfico de maconha em Itatinga
+    url: https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/12/policia-investiga-associacao-medicinal-usada-como-fachada-para-trafico-de-maconha-em-itatinga.ghtml
+    publisher: G1
+    date: 2026-11-12
+    language: pt
 open_questions:
   - 'The total weight of cannabis is reported differently: the police statement gives more than 577 kilograms net plus about 10 kilograms gross, while JCNET''s headline gives 587 kilograms, which is the figure recorded here.'
   - No arrests, charges or names were published for the farm search, and the accounts do not say what happened to the caretaker who received the officers.
@@ -75,17 +85,18 @@ open_questions:
   - The two accounts follow the same Civil Police statement, so they are not independent of each other.
   - Itatinga coordinates are the locality centre, since the farm's exact location was not published.
   - The earlier phases of Operação Green Veil are separate events and are not covered in this report.
+  - The association-front account remains a police suspicion, not a court finding, with no detail on the association's actual activity.
 ---
 
 São Paulo Civil Police found a cannabis growing structure holding more than half
 a tonne of marijuana on a farm in Itatinga on the morning of Wednesday 11
 November 2026. [@1,3] The action was the third phase of Operação Green Veil and
-was carried out under a judicial search and seizure warrant. [@1,3]
+was carried out under a judicial search and seizure warrant. [@1,3] The association's headquarters is in the São Paulo capital, and its president had already been arrested during the second phase of the operation. [@4] Civil police suspected the farm was part of a scheme in which the people involved used the front of an association serving patients who rely on cannabis-based medicines to divert production into drug trafficking. [@4]
 
 The team was met by the farm's caretaker, who stayed with the officers during
 the search. [@1,3] Officers found six greenhouses for growing the drug and a
 nursery with seedlings of the same plant, as well as areas for drying,
-processing and storing it. [@1,3]
+processing and storing it. [@1,3,4]
 
 Police identified about 5,500 plants and seedlings. [@1,3] They seized 89 packages
 holding more than 577 kilograms of plant material by net weight, plus two
@@ -94,5 +105,5 @@ total as 587 kilograms of marijuana. [@2] Forensic officers took seven samples
 of the plantations for examination at the Instituto de Criminalística. [@1,3]
 
 The plants in the greenhouses and the nursery were destroyed by incineration
-after the work on the property. [@1,3] JCNET reported that the case remained under
-investigation. [@2]
+after the work on the property. [@1,3,4] JCNET reported that the case remained under
+investigation. [@2] The case was registered at the 6th Police District of Cambuci in São Paulo, where the investigation continues to identify other people involved. [@4]
