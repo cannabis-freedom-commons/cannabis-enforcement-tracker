@@ -50,27 +50,43 @@ sources:
     publisher: الجريدة نت
     date: 2026-11-12
     language: ar
+  - title: حجز 13 طنا من القنب الهندي ومسحوقه في أكبر عملية أمنية لرجال حموشي ضواحي وزان
+    url: https://www.alalam.ma/حجز-13-طنا-من-القنب-الهندي-ومسحوقه-في-أكبر-عملية-أمنية-لرجال-حموشي_a36124.html
+    publisher: العلم الإلكترونية
+    date: 2026-11-12
+    language: ar
+media:
+  - kind: photo
+    url: https://www.alalam.ma/حجز-13-طنا-من-القنب-الهندي-ومسحوقه-في-أكبر-عملية-أمنية-لرجال-حموشي_a36124.html
+    media_url: https://www.alalam.ma/photo/art/grande/98678083-68877961.jpg?v=1794484359
+    publisher: العلم الإلكترونية
+    caption: 'Al-Alam''s lead photograph for its report on the operation near Zoumi, showing the cannabis and hashish taken from the house. Photo: Al-Alam'
+open_questions:
+    - The reports give no separate date for the operation; 12 November 2026 is their publication date and stands in for the incident date.
+    - The split of the more than two kilograms of hashish and cannabis found at the first man's home is not given.
+    - The kind and quantity of the processing equipment found at the house near Zoumi are not described.
+    - No charge has been reported against either man; the suspected supplier is still wanted.
 ---
 
 Moroccan security services seized more than 13 tonnes of cannabis and cannabis
 powder, together with more than 70 kilograms of hashish, in a joint police
-operation in Ouezzane province. [@1,3] Detectives from Ouezzane carried out the
+operation in Ouezzane province. [@1,3,4] Detectives from Ouezzane carried out the
 operation with the Royal Gendarmerie of Ouezzane and Zoumi and the anti-gang
-unit from Tetouan. [@1,3]
+unit from Tetouan. [@1,3,4]
 
 The operation began with the arrest of a man in his fifties who had seven police
-signals in Morocco for suspected involvement in drug trafficking. [@1,3] A search
-of his home found more than two kilograms of hashish and cannabis. [@1]
+signals in Morocco for suspected involvement in drug trafficking. [@1,3,4] A search
+of his home found more than two kilograms of hashish and cannabis. [@1,4]
 
 The main find was made in a house on the edge of Zoumi during an investigation
-into a suspected drug-trafficking network. [@1] The suspected main supplier was
+into a suspected drug-trafficking network. [@1,4] The suspected main supplier was
 not home when officers searched his house near Zoumi, where they found equipment
 and tools for processing cannabis and preparing it for trade alongside the large
-drug stock. [@1,3] Security sources said the seized cannabis was intended for processing and smuggling to European markets via known routes in northern Morocco. [@3]
+drug stock. [@1,3,4] Security sources said the seized cannabis was intended for processing and smuggling to European markets via known routes in northern Morocco. [@3]
 
-A national search warrant was issued for the fugitive suspect. [@1,3] Under the
+A national search warrant was issued for the fugitive suspect. [@1,3,4] Under the
 direction of the public prosecutor in Ouezzane, investigators are examining who
-else was involved in the network. [@1] According to Hespress, the investigation
+else was involved in the network. [@1,4] According to Hespress, the investigation
 continues under the Ouezzane prosecutor, which ordered the national warrant for
 the fleeing suspect in order to arrest him and uncover other possible
 ramifications of the criminal activity. [@2]
