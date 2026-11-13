@@ -113,6 +113,11 @@ sources:
     publisher: Reporter
     date: 2026-11-11
     language: el
+  - title: Man, 32, faces Larnaca criminal court after police seize over a kilogramme of cocaine and €21,100 in cash
+    url: https://www.kiprinform.com/en/news/man-32-faces-larnaca-criminal-court-after-police-seize-over-a-kilogramme-of-cocaine-and-e21100-in-cash/
+    publisher: Cyprus Inform
+    date: 2026-11-11
+    language: en
 open_questions:
     - No weight was published for the cannabis resin, so the six grams of cannabis is the only cannabis weight recorded.
     - The 1.03 kg total covers cocaine only and is not counted as cannabis.
@@ -146,7 +151,7 @@ cocaine, six grammes of cannabis in four packages, a small quantity of cannabis
 resin, a precision scale, a grinder with traces of cannabis and cash believed to
 be proceeds of illegal activities. [@2]
 
-The 32-year-old man was remanded for eight days on Tuesday by Larnaca district court. [@4,7,8,9,11,12,15] The court ordered him to remain in custody until the trial begins. [@16] After his eight-day remand order expired, Larnaca District Court committed him for trial before the Permanent Criminal Court of Larnaca on 30 November 2026. [@16] Police said the 32-year-old had been brought before the Larnaca criminal court on drug trafficking charges. [@15]
+The 32-year-old man was remanded for eight days on Tuesday by Larnaca district court. [@4,7,8,9,11,12,15,17] The court ordered him to remain in custody until the trial begins. [@16] After his eight-day remand order expired, Larnaca District Court committed him for trial before the Permanent Criminal Court of Larnaca on 30 November 2026. [@16] Police said the 32-year-old had been brought before the Larnaca criminal court on drug trafficking charges. [@15]
 
 Police also seized four mobile phones. [@9,11,12,13,15]
 
