@@ -66,22 +66,24 @@ sources:
     publisher: Waspada.id
     date: 2026-11-11
     language: id
-open_questions:
-  - The seller who allegedly supplied the cannabis for Rp50,000 has not been identified or arrested.
-  - No formal charges or court dates had been reported at the time of publication.
+  - title: Bawa Ganja 31,56 Gram, Kakek 64 Tahun di Padangsidimpuan Ditangkap - Metro Daily
+    url: https://metrodaily.jawapos.com/amp/hukum-dan-kriminal/2611120013/bawa-ganja-3156-gram-kakek-64-tahun-di-padangsidimpuan-ditangkap
+    publisher: Metro Daily
+    date: 2026-11-12
+    language: id
 ---
 
 Padangsidimpuan police arrested a 64-year-old pensioner and recidivist with the
-initials AHL on Monday night, 9 November 2026. [@1,3] The arrest occurred around
+initials AHL on Monday night, 9 November 2026. [@1,3,4] The arrest occurred around
 23:00 on Jalan Alboin Hutabarat in Sidakkal, South Padangsidimpuan, as the
-suspect rode a black Honda Beat motorcycle. [@1,3] Officers from the district
+suspect rode a black Honda Beat motorcycle. [@1,3,4] Officers from the district
 narcotics investigation unit stopped and searched him following public reports
-of drug transactions in the neighbourhood. [@1,3] The report of suspected drug dealing had come in about half an hour earlier, at around 22:30. [@3]
+of drug transactions in the neighbourhood. [@1,3,4] The report of suspected drug dealing had come in about half an hour earlier, at around 22:30. [@3]
 
 During the search, officers recovered a brown paper wrapper holding suspected
-cannabis with a gross weight of 31.56 grams. [@1,3] During initial questioning,
+cannabis with a gross weight of 31.56 grams. [@1,3,4] During initial questioning,
 the suspect admitted purchasing the cannabis for Rp50,000 from an unidentified
-individual on Jalan Alboin Hutabarat. [@1,3] Police confiscated the cannabis and
+individual on Jalan Alboin Hutabarat. [@1,3,4] Police confiscated the cannabis and
 the motorcycle and took AHL to the Padangsidimpuan police station for
 investigation. [@1,3]
 
