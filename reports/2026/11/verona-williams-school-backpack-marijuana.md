@@ -60,16 +60,20 @@ sources:
     url: https://www.cbsnews.com/pittsburgh/video/mom-charged-after-suspected-marijuana-found-inside-her-childs-school-backpack/
     publisher: CBS Pittsburgh
     date: 2026-11-12
+  - title: Pennsylvania Mother Charged for Cannabis in Child's Backpack
+    url: https://www.legalreader.com/pennsylvania-mother-charged-for-cannabis-in-childs-backpack/
+    publisher: Legal Reader
+    date: 2026-11-11
 ---
 
 A mother from Verona Borough is facing charges after police said suspected
 marijuana was found inside her child's backpack at school earlier this week.
-[@1,3,4] Kylie Williams, 30, faces child endangerment charges over the incident on
+[@1,3,4,5] Kylie Williams, 30, faces child endangerment charges over the incident on
 Wednesday morning at Verner Elementary School. [@1] According to a criminal
 complaint, an officer was already at the school for an unrelated matter when the
-principal asked to speak to him. [@1] The principal told the officer that a
+principal asked to speak to him. [@1,5] The principal told the officer that a
 student had arrived with what was believed to be a strong odor of marijuana.
-[@1] A staff member collecting backpacks and folders saw a package of suspected
+[@1,5] A staff member collecting backpacks and folders saw a package of suspected
 marijuana inside the student's bag. [@1] Staff then took the bag with the
 suspected marijuana to the principal's office. [@2]
 
@@ -80,10 +84,10 @@ package to be returned and said no one needed to know about the incident. [@1,3]
 She later told police she had accidentally placed the package in the child's
 bookbag before school. [@2]
 
-Williams was taken to the Allegheny County Jail. [@1] CBS Pittsburgh, citing
+Williams was taken to the Allegheny County Jail. [@1,5] CBS Pittsburgh, citing
 court records, said she posted bail. [@1,3] A later WPXI account said she remained
 in the Allegheny County Jail, unable to post bond. [@2] A preliminary hearing is
-scheduled for later this month. [@1,3] Court records show a separate ongoing case
+scheduled for later this month. [@1,3,5] Court records show a separate ongoing case
 alleging a physical assault against her 13-year-old child. [@1,3] WPXI said that
 August case included child endangerment and assault charges after police said
 she put one of her children in a chokehold and body-slammed them, injuring an
