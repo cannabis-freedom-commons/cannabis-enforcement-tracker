@@ -108,10 +108,21 @@ sources:
     publisher: La Presse de Tunisie
     date: 2026-11-11
     language: fr
+  - title: 'Tunisie: Trafic de drogue à Ben Arous - Saisie de cocaïne et de 7 000 comprimés psychotropes'
+    url: https://fr.allafrica.com/stories/202611120446.html
+    publisher: allAfrica (reprinting La Presse de Tunisie)
+    date: 2026-11-11
+    language: fr
+open_questions:
+    - No weight was published for the cannabis or for the cocaine, so no separate cannabis quantity can be recorded.
+    - The operation has no separate date from the article's 11 November 2026 publication date.
+    - No charge, trial or court outcome was reported for the three suspects in Mohamedia.
+    - The article does not say whether the Algerian national arrested in Sahloul is linked to the Mohamedia network or what drugs were found on him.
+    - The suspects are described only by gender, and the Algerian by nationality; no names, ages or other identities were published.
 ---
 
 National Guard officers in Mohamedia arrested two men and a woman after
-uncovering what a security source called a criminal agreement. [@1,4,5,8,9,10,11,12,13] The Research
+uncovering what a security source called a criminal agreement. [@1,4,5,8,9,10,11,12,13,15] The Research
 and Inspection Brigade of the National Guard region in Mohamedia, in the Ben
 Arous district of the National Guard, carried out the operation. [@1,10,11,12,14] A security
 source gave the account to the Tunis Afrique Presse agency, and outlets
@@ -119,12 +130,12 @@ published it on Wednesday 11 November 2026. [@1,9,11,12]
 
 Officers seized about 7,000 drug tablets of various kinds, a quantity of cocaine
 and a quantity of Indian hemp, the term used for cannabis, during the same
-operation. [@1,4,6,8,9,10,11,12,13] They also seized Tunisian currency approaching 25,000 dinars,
-the security source said. [@1,4,7,8,9,10,11,12,14] Nessma, also citing the Tunis Afrique Presse
+operation. [@1,4,6,8,9,10,11,12,13,15] They also seized Tunisian currency approaching 25,000 dinars,
+the security source said. [@1,4,7,8,9,10,11,12,14,15] Nessma, also citing the Tunis Afrique Presse
 agency, reported the same Mohamedia seizure of about 7,000 tablets, cocaine and
 Indian hemp, plus cash approaching 25,000 dinars. [@3]
 
 The public prosecutor's representative in Ben Arous reviewed the file and
-ordered that legal procedures be taken against the three. [@1,4,7,8,9,10,11,12,13] Al Chourouk,
+ordered that legal procedures be taken against the three. [@1,4,7,8,9,10,11,12,13,15] In a separate operation, an Algerian national described as particularly dangerous and involved in drug trafficking was also arrested. [@15] The National Guard's central anti-drug brigade at El Aouina carried out the arrest after intelligence and field investigation work. [@15] The Algerian security services had issued several wanted notices for him. [@15] The targeted operation took place in Sahloul, in Sousse governorate. [@15] Al Chourouk,
 citing the Tunis Afrique Presse agency, published the same account that day,
 including the arrest of two men and a woman and the seizure of Indian hemp. [@2]
