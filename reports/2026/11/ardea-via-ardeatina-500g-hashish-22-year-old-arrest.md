@@ -47,6 +47,11 @@ sources:
     publisher: Quotidiano La Voce
     date: 2026-11-12
     language: it
+  - title: Tor San Lorenzo, 22enne arrestato con mezzo chilo di hashish
+    url: https://www.grnet.it/tor-san-lorenzo-22enne-arrestato-con-mezzo-chilo-di-hashish/
+    publisher: GrNet News Sicurezza e Difesa
+    date: 2026-11-12
+    language: it
 open_questions:
   - The account gives no separate date for the night check; 12 November 2026 is its publication date and is used as the incident date.
   - The total is given as approximately 500 grams, rather than an exact measured weight.
@@ -54,23 +59,28 @@ open_questions:
   - No specific charge wording, validation hearing or court outcome was reported; proceedings were at the preliminary-investigation stage.
   - The man's name, nationality and any previous police record were not published.
   - The account rests on a single local-news report, and no separate official statement was located for this arrest.
+media:
+  - kind: photo
+    url: https://www.grnet.it/tor-san-lorenzo-22enne-arrestato-con-mezzo-chilo-di-hashish/
+    media_url: https://www.grnet.it/wp-content/uploads/2026/11/ANZIO_-_La_droga_sequestrata_dai_carabinieri_a_Ardea-780x470.jpg
+    publisher: GrNet
+    caption: 'Police photo of the hashish seized by the Carabinieri at Ardea. Photo: Carabinieri press office via GrNet'
 ---
 
 Carabinieri arrested a 22-year-old man after finding him with a large quantity
-of hashish during a night check on Via Ardeatina. [@1] Patrol officers pulled
+of hashish during a night check on Via Ardeatina. [@1] He was accused of detenzione ai fini di spaccio di sostanze stupefacenti, possession of drugs with intent to deal. [@2] Patrol officers pulled
 over his small car because they considered the way he was driving suspicious.
-[@1]
+[@1] The arrest was made by the Radiomobile unit of the Anzio Carabinieri company, part of the Lazio Carabinieri Legion, during a territorial-control operation at Tor San Lorenzo. [@2]
 
 A search of the vehicle uncovered 30 grams of hashish, an electronic precision
-scale, dose-packaging material and 145 euros in cash. [@1] Investigators treated
+scale, dose-packaging material and 145 euros in cash. [@1,2] Investigators treated
 the cash as possible proceeds of drug dealing. [@1] Officers then searched his
 home, having hypothesised that the car was a base for a wider dealing operation.
 [@1] In his bedroom they found and seized another 470 grams of hashish, divided
-into 10 blocks. [@1] The two seizures totalled about 500 grams of hashish. [@1]
+into 10 blocks. [@1,2] The two seizures totalled about 500 grams of hashish. [@1]
 
 After the operation, officers transferred the young man to the Casa
 Circondariale di Velletri, the Velletri prison, at the disposal of the competent
 judicial authority. [@1] The proceedings were at the preliminary-investigation
 stage, and the suspect was to be presumed innocent unless finally convicted.
 [@1]
-
