@@ -1,0 +1,90 @@
+---
+code: TX3FKD
+added_at: "2026-11-13T19:43:02.933644Z"
+date: 2026-11-13
+country: it
+place: Novate Milanese, Metropolitan City of Milan, Lombardy
+coordinates: [45.5305, 9.1339]
+precision: locality
+type: arrest
+also: [seizure]
+title: 23-year-old arrested in Novate Milanese with 13 kg of mailed marijuana
+summary: >-
+  Milan police arrested a 23-year-old Italian man in Novate Milanese after an officer posed as a courier to deliver two parcels holding 13 kg of marijuana. The parcels had been flagged by a shipping-company worker because of their strong smell, and a home search also seized phones, parcel paperwork, 500 euros and packaging stickers.
+figures:
+  arrested: 1
+  kg_seized: 13
+  cash:
+    amount: 500
+    currency: EUR
+details:
+  agencies: [Commissariato Rho-Pero, Squadra Mobile della Questura di Milano]
+  agency_types: [police]
+  products:
+    - {product: flower, kg: 13}
+  setting: [mail, home]
+  charges: [detenzione di sostanze stupefacenti ai fini di spaccio]
+  case_stage: investigation
+  date_precision: publication
+  region: Lombardy
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
+  details.case_stage: [2]
+  details.charges: [2]
+  details.products: [2]
+  details.setting: [2]
+  figures.arrested: [2]
+  figures.cash: [2]
+  figures.kg_seized: [2]
+media:
+  - kind: photo
+    url: https://questure.poliziadistato.it/Milano/articolo/11946af6c4b85e6ae253939997
+    media_url: https://questure.poliziadistato.it/statics/22/20261113-foto-rho-arresto-13-kg-marijuana.jpg?art=1&lang=it
+    publisher: Polizia di Stato
+    caption: Police photo accompanying the account of the Rho seizure of 13 kg of marijuana sent by courier.
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: 9d4221bfbb8bf130ee2d96cdd2533ff7
+tags: [novate-milanese, lombardy, marijuana, polizia-di-stato, postal-seizure]
+sources:
+  - title: 'Si fa spedire la marijuana in due pacchi: poliziotto si traveste da corriere, effettua la consegna, poi lo arresta'
+    url: https://www.prealpina.it/news/legnano-alto-milanese/576499/si-fa-spedire-la-marijuana-in-due-pacchi-poliziotto-si-traveste-da-corriere-glieli-consegna-e-lo-arresta.html
+    publisher: Prealpina
+    date: 2026-11-13
+    language: it
+  - title: 'Rho (MI), 13 kg di droga spedita con corriere: la Polizia di Stato arresta 23enne'
+    url: https://questure.poliziadistato.it/Milano/articolo/11946af6c4b85e6ae253939997
+    publisher: Polizia di Stato
+    date: 2026-11-13
+    language: it
+  - title: Si fa spedire 13 chili di marijuana per posta, ma il corriere che suona alla porta è un poliziotto
+    url: https://www.milanotoday.it/cronaca/arrestato-marijuana-pacchi-novate-milanese.html
+    publisher: MilanoToday
+    date: 2026-11-13
+    language: it
+open_questions:
+  - The accounts say officers intervened in the preceding days, so no exact arrest date was published and 13 November 2026 is the publication date used as the incident date.
+  - No Sender, origin or route of the two parcels was reported.
+  - No court validation, charge filing beyond the reported accusation, or later outcome was reported.
+---
+
+Milan State Police arrested a 23-year-old Italian man for alleged possession of
+drugs for dealing and seized 13 kg of marijuana shipped inside two large packing
+boxes. [@2] An officer disguised himself as a courier to make the delivery, and
+the young man was arrested after signing the handheld device to take the
+parcels. [@1]
+
+Rho-Pero police acted after a shipping-company worker in the Rho area reported a
+strong marijuana smell coming from two large parcels. [@2] Inside the parcels
+officers found four bags holding 13 kg of marijuana and a satellite GPS tracker.
+[@2] Prosecutors authorised a delayed seizure so officers could identify the
+recipient, and with the help of Milan's Flying Squad they traced him to Novate
+Milanese. [@2]
+
+A police officer wearing the courier company's uniform came to the 23-year-old's
+door to deliver the parcels while colleagues waited near the home. [@3] In a
+later home search with drug dogs, officers seized 3 mobile phones, labels and
+invoices for the parcels, 500 euros in cash and assorted stickers apparently
+meant for packaging the drug. [@1]
+
