@@ -61,6 +61,14 @@ sources:
     publisher: Repost.uz
     date: 2026-11-11
     language: ru
+  - title: Uzbekistan seizes over 3.6kg of drugs in four regions
+    url: https://www.uzdaily.uz/en/uzbekistan-seizes-over-36kg-of-drugs-in-four-regions/
+    publisher: UzDaily.uz
+    date: 2026-11-11
+  - title: 'Drug trafficking uncovered in four regions of Uzbekistan: over 3 kilograms of substances seized'
+    url: https://tafs.uz/en/2026/11/11/drug-trafficking-uncovered-in-four-regions-of-uzbekistan-over-3-kilograms-of-substances-seized
+    publisher: tafs uz
+    date: 2026-11-11
 media:
   - kind: photo
     url: https://repost.uz/poymali-rasprostraniteley-duri
@@ -71,24 +79,24 @@ media:
 
 Uzbekistan's State Security Service reported that operational measures in four
 regions seized more than 3.6 kg of drugs, including hashish, synthetic spice,
-opium and marijuana. [@1,2] In Gulistan, Syrdarya-region State Security Service
+opium and marijuana. [@1,2,6] In Gulistan, Syrdarya-region State Security Service
 officers with internal-affairs and customs officers searched the rented
-accommodation of a man and woman born in 1996 and 1998. [@1,3] The agency said the
-pair worked as couriers and packagers for an online drug-selling store. [@1,5] In
+accommodation of a man and woman born in 1996 and 1998. [@1,3,6] The agency said the
+pair worked as couriers and packagers for an online drug-selling store. [@1,5,6] In
 Turtkul district, Karakalpakstan, officers detained a local resident born in
 1972 after a bag in his possession was found to contain 471 grams of marijuana.
-[@1,4,5]
+[@1,4,5,6]
 
 Officers searching the Gulistan flat found 337 grams of hashish concealed inside
 a heating appliance. [@1,2,3,5] They found another 208 grams of hashish divided into
 65 small wraps at a second rented address the suspects used as a warehouse,
-bringing the total hashish seized in Gulistan to 545 grams. [@1,2,3,5] Officers
+bringing the total hashish seized in Gulistan to 545 grams. [@1,2,3,5,6] Officers
 checked the car of the detained man's alleged accomplice, born in 1964 and
-previously convicted, finding another 425 grams of marijuana. [@1,4,5] A search of
+previously convicted, finding another 425 grams of marijuana. [@1,4,5,7] A search of
 that accomplice's house turned up 97 matchboxes containing marijuana weighing a
-total of 1 kg 175 grams. [@1,2,3,5]
+total of 1 kg 175 grams. [@1,2,3,5,7]
 
 Criminal cases were opened over all four episodes and investigative actions are
-continuing. [@1,2,3,5] The same announcement reported 562 grams of synthetic spice
+continuing. [@1,2,3,5,7] The same announcement reported 562 grams of synthetic spice
 seized in Karmana district, Navoi region, which is excluded from the cannabis
 figures here. [@1]
