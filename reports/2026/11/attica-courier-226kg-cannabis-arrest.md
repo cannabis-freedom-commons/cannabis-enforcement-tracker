@@ -76,6 +76,22 @@ sources:
     publisher: Η ΝΑΥΤΕΜΠΟΡΙΚΗ
     date: 2026-11-12
     language: el
+  - title: Συνελήφθη 21χρονος που παρέλαβε δέμα με δύο κιλά κάνναβη από τις ΗΠΑ
+    url: https://www.kathimerini.gr/society/564584611/synelifthi-21chronos-poy-parelave-dema-me-dyo-kila-kannavi-apo-tis-ipa/
+    publisher: Η ΚΑΘΗΜΕΡΙΝΗ
+    date: 2026-11-12
+    language: el
+  - title: '«Ελεγχόμενη παράδοση» στο Χαλάνδρι: Συνελήφθη άνδρας που παρέλαβε δέμα από τις ΗΠΑ με 2,2 κιλά ακατέργαστης κάνναβης'
+    url: https://www.iefimerida.gr/ellada/synelifthi-parelabe-dema-ipa-2-kila-kannabi
+    publisher: iefimerida.gr
+    date: 2026-11-13
+    language: el
+open_questions:
+    - The accounts give a total gross weight of 2,260 grams, so the net weight of the cannabis alone is not stated.
+    - No street value was given for the cannabis seized.
+    - No court date or outcome has been reported since the man was taken to the prosecutor.
+    - The US sender company was not named, and the exact addressee details were not reported.
+    - Whether a wider trafficking network was behind the shipment remained under investigation.
 ---
 
 Narcotics officers of the Hellenic Police's Organised Crime Directorate arrested
@@ -83,14 +99,14 @@ a 21-year-old Greek man at midday on Wednesday 11 November 2026 in an area of
 Attica, on suspicion of importing drugs into Greece from the United States. [@2,5,6]
 The case came to light after a check carried out by officials of the customs
 office of Athens International Airport on a parcel that had been sent from the
-United States to Greece. [@3,6] The parcel contained 2.26 kilograms of cannabis.
-[@1,6] Officers of the Narcotics Subdirectorate of the Directorate for Combating
-Organised Crime then carried out a police operation to trace the recipient. [@4,6]
+United States to Greece. [@3,6,7] Athens airport customs identified the suspicious parcel on 9 November 2026. [@8] The parcel contained 2.26 kilograms of cannabis.
+[@1,6,7] Officers of the Narcotics Subdirectorate of the Directorate for Combating
+Organised Crime then carried out a police operation to trace the recipient. [@4,6] Police organised a controlled delivery to identify the final recipient and establish who was behind collection of the illegal shipment. [@8] The parcel, sent by a company in the United States, was kept under discreet surveillance until the recipient appeared. [@8] The controlled delivery followed a request to the prosecutor supervising the Organised Crime Directorate and was approved by an Athens appeals-court council ruling. [@8]
 
 The officers arrested the 21-year-old at the moment he collected the parcel from
-a courier company's branch in Attica. [@3,5,6] Police said the quantity of cannabis
-was intended for further distribution. [@3,5,6] From his possession officers seized
-2,260 grams of raw cannabis and a mobile phone. [@2,6] A criminal case was filed
-against him on charges of drug importation, possession and trafficking. [@1] He
+a courier company's branch in Attica. [@3,5,6,8] The collection took place at 13:30 at an ELTA courier branch in Chalandri. [@8] Police said the quantity of cannabis
+was intended for further distribution. [@3,5,6,7] From his possession officers seized
+2,260 grams of raw cannabis and a mobile phone. [@2,6,8] A criminal case was filed
+against him on charges of drug importation, possession and trafficking. [@1,7] According to the investigation, no previous criminal record was found for the arrested man. [@8] He
 was taken to the competent prosecuting authority for further criminal
-proceedings. [@3,6]
+proceedings. [@3,6] Investigators were continuing to examine whether a wider trafficking network was behind the shipment. [@8]
