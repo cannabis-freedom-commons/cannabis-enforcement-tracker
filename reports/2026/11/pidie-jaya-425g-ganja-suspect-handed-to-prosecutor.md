@@ -51,6 +51,11 @@ sources:
     publisher: BataNews
     date: 2026-11-13
     language: id
+  - title: P-21! Kasus Ganja 425 Gram di Pidie Jaya Masuk Tahap Penuntutan
+    url: https://liputangampongnews.id/berita/detail/p21-kasus-ganja-425-gram-di-pidie-jaya-masuk-tahap-penuntutan
+    publisher: Liputan Gampong News
+    date: 2026-11-13
+    language: id
 open_questions:
   - No specific charge, statute or sentence was reported; the case is at the handover (Tahap II) stage.
   - No court date or outcome has been reported for this case.
@@ -60,15 +65,14 @@ open_questions:
 After the case file was declared complete (P.21), Satresnarkoba of the Pidie
 Jaya police (Polres Pidie Jaya) handed a suspect over to the public prosecutor
 (JPU) at the Pidie Jaya district prosecutor's office (Kejaksaaan Negeri Pidie
-Jaya). [@1] The handover, Indonesia's second stage (Tahap II) of prosecution,
+Jaya). [@1,3] The handover, Indonesia's second stage (Tahap II) of prosecution,
 took place on Friday, 13 November 2026, at 09.00 WIB at the district
 prosecutor's office, led by the narcotics head of the police station, AKP
-Marjuli. [@1]
+Marjuli. [@1,3]
 
 The suspect, MR bin Umar, 40, a trader from Gampong Jurong Binje in Jangka Buya
 district, was handed over with two packets of ganja weighing 425 grams net, two
-mobile phones (Realme and Nokia) and a white box. [@2] The handover was carried
+mobile phones (Realme and Nokia) and a white box. [@2,3] The handover was carried
 out under the P.21 letter of the Pidie Jaya prosecutor's office dated 9 November
 2026, after which handling of the case passes to the public prosecutor for
-prosecution. [@1]
-
+prosecution. [@1,3] The suspect was accompanied by counsel from the AIYUB, S.H. advocate's office during the handover. [@3]
