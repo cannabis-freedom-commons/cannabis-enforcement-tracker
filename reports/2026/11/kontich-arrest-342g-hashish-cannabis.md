@@ -64,6 +64,11 @@ sources:
     publisher: Het Nieuwsblad
     date: 2026-11-12
     language: nl
+  - title: 'Verdachte (20) opgepakt na vlucht in Kontich: 352 gram drugs gevonden'
+    url: https://www.hln.be/kontich/verdachte-20-opgepakt-na-vlucht-in-kontich-352-gram-drugs-gevonden~a87f02b2/
+    publisher: HLN
+    date: 2026-11-12
+    language: nl
 open_questions:
   - No amount was given for the drugs found in the home or vehicle, so the cannabis total covers only the parking space.
   - The substances were identified by police, with no laboratory confirmation reported.
@@ -78,15 +83,14 @@ An anonymous police patrol in Kontich saw a driver behaving suspiciously on 8
 November. [@2] The circumstances suggested that a drug deal was about to take
 place, according to the local police zone Hekla. [@1] When officers wanted to
 check the driver, he left his vehicle and ran, and police caught him shortly
-afterwards. [@2] The suspect, a 20-year-old man, was arrested. [@2]
+afterwards. [@2] The suspect, a 20-year-old man, was arrested. [@2,4]
 
 The investigation led police to check his vehicle, search his home and examine a
-parking space he rented. [@1] In the parking space, police found 154 grams of
-hashish and 188 grams of cannabis. [@1] The hashish and cannabis together came
+parking space he rented. [@1,4] In the parking space, police found 154 grams of
+hashish and 188 grams of cannabis. [@1,4] The hashish and cannabis together came
 to 342 grams. [@3] The same search found 10 grams of cocaine, which is not
 counted in the cannabis weight. [@1] Drugs were also found in the man's home and
 in his vehicle, without amounts given. [@1]
 
 The man is suspected of drug trafficking. [@1] Police said the investigation was
-continuing. [@2]
-
+continuing. [@2,4]
