@@ -64,6 +64,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-13
     language: hi
+  - title: 'ग्रेटर नोएडा: डिलीवरी कंपनी के वेयरहाउस से 20 किलो गांजा बरामद, ओडिशा से दिल्ली भेजी जा रही थी खेप'
+    url: https://deshbandhump.com/post/gretara-noeda-dilivari-kampani-ke-veyarahausa-se-20-kilo-ganja-baramada-odisa-se-dilli-bheji-ja-rahi-thi-khepa
+    publisher: Deshbandhu
+    date: 2026-11-13
+    language: hi
 ---
 
 Badalpur police seized about 20 kg of ganja from two suspect packets at the
@@ -71,16 +76,16 @@ Swastik Logistics warehouse near Dhoom Manikpur village in the Badalpur area of
 Greater Noida. [@1,2,4] The warehouse, identified as that of Swastik Logistics
 Company near Dhoom Manikpur village, stores parcels sent through a local
 delivery company. [@1] The two packets had been booked in Odisha for delivery in
-Delhi and bore a Delhi address. [@1,2] Police reached the warehouse after the
+Delhi and bore a Delhi address. [@1,2,5] Police reached the warehouse after the
 packets aroused suspicion, had both packets examined, and confirmed they
 contained ganja. [@1] The ganja was concealed between layers of books inside the two packages and was detected during an X-ray scan. [@3]
 
-Together the two packets yielded about 20 kg of ganja. [@1] Police put the
-estimated market value of the seized ganja at about 10 lakh rupees. [@1,2,4] Police
-took the ganja into custody and began investigating the case. [@1] Police said a case is being registered against both the sender and the recipient of the consignment. [@3]
+Together the two packets yielded about 20 kg of ganja. [@1,5] Police put the
+estimated market value of the seized ganja at about 10 lakh rupees. [@1,2,4,5] Police
+took the ganja into custody and began investigating the case. [@1,5] Police said a case is being registered against both the sender and the recipient of the consignment. [@3]
 
 Investigators are trying to identify who booked the consignment, who sent it,
-and who was to receive it in Delhi. [@1] Wasim was posted as manager at the
+and who was to receive it in Delhi. [@1,5] Wasim was posted as manager at the
 warehouse, and police are gathering information from him about the case. [@1] Police were also reviewing CCTV footage from the warehouse. [@4]
 Police are examining the logistics company's records and consignment details to
 trace the smuggling network, and further action was under way. [@1]
