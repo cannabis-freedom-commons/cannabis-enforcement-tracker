@@ -52,6 +52,11 @@ sources:
     publisher: Meduza
     date: 2026-06-19
     language: ru
+  - title: В Азербайджане вынесли приговор задержанным летом 2025 года россиянам
+    url: https://expert.ru/news/v-azerbaydzhane-vynesli-prigovor-zaderzhannym-letom-2025-goda-rossiyanam
+    publisher: Эксперт
+    date: 2026-06-19
+    language: ru
 open_questions:
   - The reports do not give the quantity or type of the drugs, so the share of cannabis and any weight are unrecorded and no kilograms are counted.
   - The charges mix drug transit and cyber fraud; the sentences do not state how much of each term relates to the drug count.
@@ -63,7 +68,7 @@ open_questions:
 ---
 
 A court in Baku sentenced eight Russian citizens to prison on charges of
-trafficking drugs transited from Iran and of cyber fraud. [@1] Sergei Sofronov,
+trafficking drugs transited from Iran and of cyber fraud. [@1,4] Sergei Sofronov,
 Anton Drachev, Dmitry Bezugly and Valery Dulov each received four years. [@1]
 Dmitry Fedorov, Boris Timoshov, Alexei Vasilchenko and Ilya Bezugly were each
 sentenced to three years. [@1] Meduza, citing Minval, reported that all eight
@@ -79,8 +84,7 @@ summer of 2025; eight were charged with drug smuggling and three others with
 cyber fraud. [@2]
 
 The suspects included recently relocated IT specialists, entrepreneurs and
-tourists who were picked up at random. [@3] The June sentences finished the
+tourists who were picked up at random. [@3] The investigation considered that the eight Russians laundered 98,000 manats (about 4.2 mln rubles). [@4] The June sentences finished the
 court's handling of the cases of those held in Baku in 2025. [@2] The detentions
 followed a sharp conflict between Moscow and Baku over the removal of
 Azerbaijanis from Russia in 2025. [@2]
-
