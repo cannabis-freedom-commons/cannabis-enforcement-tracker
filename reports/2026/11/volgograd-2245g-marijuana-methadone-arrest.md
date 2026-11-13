@@ -56,23 +56,27 @@ sources:
     publisher: Волгоградская правда
     date: 2026-11-12
     language: ru
+  - title: Более 22 граммов марихуаны изъяли у жительницы Волгограда
+    url: https://gorvesti.ru/crime/bolee-22-grammov-marikhuany-izyali-u-zhitelnitsy-volgograda-239653.html
+    publisher: «Городские вести» - Волгоград
+    date: 2026-11-12
+    language: ru
 ---
 
 Police in Volgograd detained a 40-year-old local woman on suspicion of preparing
 drugs for sale, the regional Interior Ministry said. [@1] During a check of the
 woman's flat, officers found 22.45 grams of marijuana and a syringe with a
-liquid containing methadone. [@1] Volgogradskaya Pravda, citing the same
+liquid containing methadone. [@1,3] Volgogradskaya Pravda, citing the same
 regional Interior Ministry statement, reported that officers of the
 drug-trafficking control unit searched the detainee and her home and seized the
 marijuana and the syringe. [@2]
 
-The woman had already been convicted before. [@1] Volganet.net reported that she
+The woman had already been convicted before. [@1,3] Volganet.net reported that she
 planned to prepare the drugs for sale. [@1] Investigators opened a criminal case
-against her under part 1 of article 228.1 of the Russian Criminal Code. [@1]
+against her under part 1 of article 228.1 of the Russian Criminal Code. [@1,3]
 
 According to the preliminary account, the woman intended to pack the seized
-substances and sell them on the territory of Volgograd. [@2] Volgogradskaya
+substances and sell them on the territory of Volgograd. [@2,3] Volgogradskaya
 Pravda reports the same seizure of 22.45 grams of marijuana and the same syringe
 with the methadone liquid. [@2] The circumstances of the incident are still
 being established. [@2]
-
