@@ -50,30 +50,53 @@ sources:
     publisher: Triangle News
     date: 2026-11-13
     language: hi
+  - title: 'ATM से चोरी की कोशिश करने वाला आरोपी गिरफ्तार: लखनऊ में हूटर की आवाज सुनकर हुआ था फरार; 1kg गांजा बरामद'
+    url: https://www.bhaskar.com/local/uttar-pradesh/lucknow/news/lucknow-atm-theft-attempt-accused-arrested-ganja-seized-139666151.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-12
+    language: hi
+  - title: 'लखनऊ: एटीएम लूटने पहुंचा था झारखंड का बदमाश, औजार और गांजे के साथ गिरफ्तार'
+    url: https://rexpressbharat.com/news/lucknow-a-criminal-from-jharkhand-had-come-to-rob-an-atm-arrested-with-tools-and-ganja-20261112-39493
+    publisher: R Express Bharat
+    date: 2026-11-12
+    language: hi
+  - title: 'Lucknow News: वर्कशॉप मालिक पर हमला, कार से कुचलने का प्रयास'
+    url: https://www.livehindustan.com/uttar-pradesh/lucknow/story-lucknow-workshop-owner-attacked-in-payment-dispute-atm-break-in-accused-arrested-201794499147741.html
+    publisher: Hindustan
+    date: 2026-11-12
+    language: hi
 open_questions:
-  - No street value for the seized 1.1 kg of ganja was published.
-  - Whether the suspect acted alone or with accomplices was still under investigation.
-  - The arrest at about 12:50 a.m. on the night of 11-12 November is recorded as 12 November 2026.
+    - No street value for the seized 1.1 kg of ganja was published.
+    - Whether the suspect acted alone or with accomplices was still under investigation.
+    - The arrest at about 12:50 a.m. on the night of 11-12 November is recorded as 12 November 2026.
+    - A shorter Dainik Bhaskar account headlined 1 kg of ganja, and Hindustan reported about 1 kg, while the figure used here is 1 kg 100 g.
+    - One account said he was sent to jail after the charges were added. No remand order or sentence was stated.
+    - A Hindustan report of this arrest also describes a separate assault on a workshop owner in Vrindavan Colony, which is not part of this case.
+media:
+  - kind: photo
+    url: https://rexpressbharat.com/news/lucknow-a-criminal-from-jharkhand-had-come-to-rob-an-atm-arrested-with-tools-and-ganja-20261112-39493
+    media_url: https://img.rexpressbharat.com/image/news/2026-11-12/d22fbc41-ae4e-4d8e-9c32-32f067f10dd5.webp
+    publisher: R Express Bharat
+    caption: 'The arrested man with ATM-breaking tools and an intoxicant. Photo: R Express Bharat'
 ---
 
 Ashiana police in Lucknow arrested Roshan Singh on suspicion of attempting to
-break into the Sector-N State Bank of India ATM to steal cash. [@1] The arrest
+break into the Sector-N State Bank of India ATM to steal cash. [@1,3,4,5] The arrest
 was made at about 12:50 a.m. on the night of 11-12 November 2026 during a night
 patrol. [@2] Police identified the suspect as Roshan Singh, son of the late
-Pramod Kumar alias Abhay Singh. [@2]
+Pramod Kumar alias Abhay Singh. [@2] Police said he was from Chapla, Hussainabad, in Palamu, Jharkhand, and was living in a rented house of Manoj Thakur in Kailash Vihar, Amausi, under Sarojini Nagar police station. [@1]
 
 Police said the suspect first tried to break into the ATM on the night of 10-11
-November 2026 and fled when he heard a police vehicle's hooter. [@2] A theft
+November 2026 and fled when he heard a police vehicle's hooter. [@2,3,5] A theft
 case, FIR No. 300/2026 under Bharatiya Nyaya Sanhita sections 303(2) and 324(4),
 was first registered against an unknown person on the complaint of Arvind Kumar
-Shukla. [@2] A search recovered an iron rod and pipe used to break ATMs, along
-with a keyboard, camera and wires removed from the ATM. [@2] Officers also
-recovered 1 kg 100 g (1.1 kg) of ganja from his possession. [@1]
+Shukla. [@2] The complaint was made by Arvind Kumar Shukla, a lawyer for the ATM maintenance company. [@5] A search recovered an iron rod and pipe used to break ATMs, along
+with a keyboard, camera and wires removed from the ATM. [@2,4] Officers also
+recovered 1 kg 100 g (1.1 kg) of ganja from his possession. [@1,4]
 
 Police added Bharatiya Nyaya Sanhita section 317(2) to the theft case and
 registered a separate case under Sections 8/20 of the Narcotic Drugs and
 Psychotropic Substances Act. [@2] The accused was being produced before the
-court for further legal proceedings. [@2] Police said several cases were already
+court for further legal proceedings. [@2] Police then sent him to jail. [@1] Police said several cases were already
 registered against him at Sarojininagar and Para police stations in Lucknow and
-at Soharamau police station in Unnao district. [@2]
-
+at Soharamau police station in Unnao district. [@2] Cases were also registered against him at Ashiana police station, and he had already been to jail in those cases. [@1]
