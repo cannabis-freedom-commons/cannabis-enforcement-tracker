@@ -58,22 +58,20 @@ sources:
     publisher: Порт Амур
     date: 2026-11-11
     language: ru
-open_questions:
-  - The article gives no date for the court hearing; 11 November 2026 is its publication date and stands in for the event date.
-  - The marijuana weight is stated as exceeding 23 kilograms, so 23 kg is used as a floor figure.
-  - No age, name or criminal record for the convicted man was published.
-  - The report gives no date for the seizure of the marijuana beyond September 2025.
-  - Whether the sentence has been appealed or has taken legal effect is not reported.
-  - Only one accessible account of the hearing was found.
+  - title: За 23 килограмма марихуаны и 162 куста конопли амурчанин проведет 4,5 года в колонии
+    url: https://worldinform.ru/articles/id-za-23-kilogramma-marihuany-i-162-kusta-konopli-amurchanin-provedet-4-5-goda-v-kolonii.html
+    publisher: The World Inform
+    date: 2026-11-12
+    language: ru
 ---
 
 A Blagoveshchensk city court found a local man guilty of illegally acquiring and
 storing drugs on a large scale and of cultivating narcotic-containing plants.
-[@1] The court sentenced him to four and a half years in a strict-regime penal
-colony and took him into custody in the courtroom. [@1]
+[@1,2] The court sentenced him to four and a half years in a strict-regime penal
+colony and took him into custody in the courtroom. [@1,2]
 
 In August 2025 the man gathered cannabis into two plastic bags near the village
-of Markovo, and the total weight of the marijuana exceeded 23 kilograms. [@1] He
+of Markovo, and the total weight of the marijuana exceeded 23 kilograms. [@1,2] He
 took the cannabis to an abandoned house in the village of Belogorye, where he
 dried it and kept it hidden until the owner reported the find to police in
 September 2025 and the drugs were seized. [@1]
@@ -82,5 +80,4 @@ From May to July 2026 the man noticed cannabis sprouts in his own garden in
 Belogorye and decided to grow them, weeding the plants and creating conditions
 for their growth. [@1] In July 2026 law enforcement officers found and seized
 162 cannabis bushes containing a narcotic substance on the household plot, and
-experts concluded that the quantity was a large one. [@1]
-
+experts concluded that the quantity was a large one. [@1,2]
