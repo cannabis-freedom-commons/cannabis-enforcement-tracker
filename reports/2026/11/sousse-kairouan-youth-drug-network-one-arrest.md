@@ -51,6 +51,11 @@ sources:
     publisher: webdo
     date: 2026-11-12
     language: fr
+  - title: تفكيك شبكة مختصة في ترويج المخدرات بالأوساط الشبابية بين سوسة والقيروان
+    url: https://www.nessma.tv/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/%D8%AC%D9%87%D8%A7%D8%AA/%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%B4%D8%A8%D9%83%D8%A9-%D9%85%D8%AE%D8%AA%D8%B5%D8%A9-%D9%81%D9%8A-%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%A7%D8%B7-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B3%D9%88%D8%B3%D8%A9-%D9%88%D8%A7%D9%84%D9%82%D9%8A%D8%B1%D9%88%D8%A7%D9%86/599798
+    publisher: Nessma
+    date: 2026-11-12
+    language: ar
 open_questions:
     - No weight or unit count was given for the cocaine or for the cannabis, so no cannabis quantity can be recorded for this seizure.
     - No charge, court date or court outcome was reported for the arrested man.
@@ -60,18 +65,18 @@ open_questions:
 ---
 
 National security units in Sousse city dismantled at dawn on Thursday a network
-specialising in trafficking narcotics among young people. [@1,2] The operation began at dawn on 12 November 2026. [@2] The network
+specialising in trafficking narcotics among young people. [@1,2,5] The operation began at dawn on 12 November 2026. [@2,5] The network
 operated between the governorates of Sousse and Kairouan, according to a
-communique from the Direction générale de la sûreté nationale. [@1,2] The
+communique from the Direction générale de la sûreté nationale. [@1,2,5] The
 operation followed extensive intelligence and field investigation work on the
-ground. [@1] Officers arrested the principal member of the network, described by
-the authorities as dangerous. [@1,3]
+ground. [@1,5] Officers arrested the principal member of the network, described by
+the authorities as dangerous. [@1,3,5]
 
 The arrested man was the subject of several wanted notices issued by different
-security units for cases linked to drug trafficking. [@1,4] Security forces also
-seized a significant quantity of cocaine and of cannabis. [@1,3] The suspect had
-intended to sell the drugs in discotheques in the region. [@1,4]
+security units for cases linked to drug trafficking. [@1,4,5] Security forces also
+seized a significant quantity of cocaine and of cannabis. [@1,3,5] The suspect had
+intended to sell the drugs in discotheques in the region. [@1,4,5]
 
 The Direction générale de la sûreté nationale said investigations are continuing
 to identify and arrest the other members of the network and bring them before
-the courts. [@1,2]
+the courts. [@1,2,5]
