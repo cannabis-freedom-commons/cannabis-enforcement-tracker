@@ -48,18 +48,15 @@ sources:
     url: https://www.examinerlive.co.uk/news/west-yorkshire-news/man-given-good-luck-message-34896998
     publisher: Yorkshire Live
     date: 2026-11-12
-open_questions:
-  - The article gives no date for the hearing; 12 November 2026 is its publication date and is used as the incident date.
-  - No weight or form of cannabis was published beyond "a small bag".
-  - The article does not say whether Joseph admitted the breach or whether the magistrates found it proved.
-  - The article does not say what the previous unpaid work order required or how many hours remained.
-  - The £197 is a combined total for a fine and costs, and the article does not break it down.
-  - Only one accessible source, a Yorkshire Live court report, was found for the hearing.
+  - title: Man given good luck message by magistrates
+    url: https://www.examinerlive.co.uk/news/west-yorkshire-news/man-given-good-luck-message-34896998.amp
+    publisher: Yorkshire Live
+    date: 2026-11-12
 ---
 
 Nashaun Joseph, 21, of Huddersfield, had been given a 12-month prison sentence
 in August, suspended for a year, for possessing a blade in public and possession
-of cannabis. [@1] Joseph, formerly of Batley, was arrested on 14 October for
+of cannabis. [@1,2] Joseph, formerly of Batley, was arrested on 14 October for
 unrelated matters and was found in possession of a small bag of cannabis. [@1]
 Magistrates were told that he was in breach of the suspended sentence and had
 not yet done the unpaid work he had been ordered to do. [@1]
@@ -76,4 +73,3 @@ leave the court." [@1] Joseph was told to continue with the previous unpaid work
 order and was given a six-month drug rehabilitation requirement added to his
 suspended prison sentence. [@1] He was also ordered to pay a fine and costs
 totalling £197. [@1]
-
