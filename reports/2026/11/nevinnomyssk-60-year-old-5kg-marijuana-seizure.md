@@ -62,13 +62,11 @@ sources:
     publisher: 1777.ru
     date: 2026-11-12
     language: ru
-open_questions:
-  - The reports give no separate date for the search or detention; 12 November 2026 is the publication date and is used as the incident date.
-  - The weight is reported only as about five kilograms, not an exact measured figure.
-  - One headline describes the premises as a flat while the reports' bodies describe a house or homestead; this report follows the bodies and records the setting as a home.
-  - The man's name was not published and the source of the drug had not been established when the reports appeared.
-  - No measure of restraint, charge sheet beyond the opened case, or court outcome was reported; the case stood at the investigation stage.
-  - All three accounts trace back to the same regional police statement, with no independent account beyond the police reports.
+  - title: В Невинномысске у 60-летнего мужчины изъяли около 5 килограммов марихуаны, которая лежала везде
+    url: https://sk-news.ru/news/accident/93548/
+    publisher: SK-NEWS.RU
+    date: 2026-11-12
+    language: ru
 ---
 
 Officers of the Nevinnomyssk drug-control police identified a local man
@@ -76,9 +74,9 @@ suspected of unlawfully storing drugs. [@1] The stock of the banned substance
 was found during a search of the 60-year-old man's house. [@1] Police detained
 the 60-year-old man on suspicion of unlawful drug storage. [@2] During the
 search, officers found dried plant material laid out on the floor and
-windowsills. [@3] An expert examination confirmed that the seized material was
-marijuana with a total weight of about 5 kilograms. [@3] He admitted holding the
-drug only for himself and said he had not intended to sell it. [@2]
+windowsills. [@3,4] An expert examination confirmed that the seized material was
+marijuana with a total weight of about 5 kilograms. [@3,4] He admitted holding the
+drug only for himself and said he had not intended to sell it. [@2,4]
 
 The investigative department of the Nevinnomyssk interior ministry department
 opened a criminal case under part 2 of article 228 of the Criminal Code. [@1]
@@ -86,4 +84,3 @@ Police described the case as one of unlawful acquisition, storage and processing
 of narcotics. [@2] Police said they were working to establish where the man had
 obtained the banned substance. [@1] The account was attributed to the press
 service of the Stavropol regional interior ministry. [@2]
-
