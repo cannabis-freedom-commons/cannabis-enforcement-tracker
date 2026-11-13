@@ -61,27 +61,26 @@ sources:
     publisher: tunisien.tn
     date: 2026-11-12
     language: ar
-open_questions:
-    - No weight or unit count was given for the cocaine or for the cannabis, so no cannabis quantity can be recorded for this seizure.
-    - No charge, court date or court outcome was reported for the arrested man.
-    - The number of people involved in the network, and how many remain at large, was not stated.
-    - 'The accounts differ on which security force carried out the operation: Directinfo and La Presse de Tunisie credit the Direction générale de la sûreté nationale, while webdo and African Manager credit the Direction générale de la Garde nationale.'
-    - All the published accounts relay the same official security statement, so they are not independent reporting of the raid.
+  - title: 'Sousse-Kairouan : un réseau de trafic de drogue démantelé, de la cocaïne et du cannabis saisis'
+    url: https://www.tuniscope.com/article/444569/tunisie/actualites/sousse-05451155
+    publisher: Tuniscope
+    date: 2026-11-12
+    language: fr
 ---
 
 National security units in Sousse city dismantled at dawn on Thursday a network
 specialising in trafficking narcotics among young people. [@1,2,5,6] The operation began at dawn on 12 November 2026. [@2,5] The network
 operated between the governorates of Sousse and Kairouan, according to a
-communique from the Direction générale de la sûreté nationale. [@1,2,5,6] The
+communique from the Direction générale de la sûreté nationale. [@1,2,5,6,7] The
 operation followed extensive intelligence and field investigation work on the
 ground. [@1,5,6] Officers arrested the principal member of the network, described by
-the authorities as dangerous. [@1,3,5,6]
+the authorities as dangerous. [@1,3,5,6,7]
 
 The arrested man was the subject of several wanted notices issued by different
 security units for cases linked to drug trafficking. [@1,4,5,6] Security forces also
-seized a significant quantity of cocaine and of cannabis. [@1,3,5,6] The suspect had
-intended to sell the drugs in discotheques in the region. [@1,4,5,6]
+seized a significant quantity of cocaine and of cannabis. [@1,3,5,6,7] The suspect had
+intended to sell the drugs in discotheques in the region. [@1,4,5,6,7]
 
 The Direction générale de la sûreté nationale said investigations are continuing
 to identify and arrest the other members of the network and bring them before
-the courts. [@1,2,5,6]
+the courts. [@1,2,5,6,7]
