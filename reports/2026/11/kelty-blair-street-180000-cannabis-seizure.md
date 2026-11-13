@@ -41,26 +41,22 @@ sources:
     url: https://www.centralfifetimes.com/news/26725031.two-arrested-180-000-cannabis-seizure-kelty/
     publisher: Central Fife Times
     date: 2026-11-12
-open_questions:
-  - No weight, plant count or form of the cannabis was published, so no quantity is recorded beyond the £180,000 value given for the seizure.
-  - The £180,000 figure is the value stated for the cannabis; no breakdown of the drugs or the basis for the valuation was published.
-  - The specific drugs offences the two were charged with were not named.
-  - No court date, plea or outcome was reported, and it is not known whether the Procurator Fiscal will prosecute.
-  - The article does not say whether the two were released or remanded in custody after being charged.
-  - The Central Fife Times page sets its canonical address to the Dunfermline Press, which carries the same text, so the account rests on one Newsquest story and no separate Police Scotland statement could be opened.
+  - title: Two people charged after cannabis worth £180,000 seized in Fife drugs raid | STV News
+    url: https://news.stv.tv/north/two-people-charged-after-cannabis-worth-180000-seized-in-fife-drugs-raid
+    publisher: STV News
+    date: 2026-11-12
 ---
 
 Police carried out a drugs search warrant in Blair Street, Kelty, at about
-8.35am on Thursday 12 November 2026. [@1] Officers seized £180,000 worth of
-cannabis in Kelty. [@1] A 27-year-old man and a 27-year-old woman were arrested
-and charged in connection with drugs offences following the operation. [@1]
+8.35am on Thursday 12 November 2026. [@1,2] Officers seized £180,000 worth of
+cannabis in Kelty. [@1,2] A 27-year-old man and a 27-year-old woman were arrested
+and charged in connection with drugs offences following the operation. [@1,2]
 
 A report will be submitted to the Procurator Fiscal, the public prosecutor's
-office in Scotland that decides whether a case goes to court. [@1] The £180,000
+office in Scotland that decides whether a case goes to court. [@1,2] The £180,000
 figure is the value given for the cannabis seized in Kelty; police gave no
 weight, plant count or form for the drug. [@1]
 
 Sergeant Paul Knight said the recovery highlighted officers' commitment to
 removing drugs from the streets. [@1] He asked anyone with concerns to contact
 Police Scotland on 101 or Crimestoppers anonymously on 0800 555 111. [@1]
-
