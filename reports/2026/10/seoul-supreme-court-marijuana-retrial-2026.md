@@ -47,6 +47,11 @@ sources:
     publisher: SBS World News
     date: 2026-11-13
     language: en
+  - title: 대마 흡연 자백 후 "범행 시점 잘못돼" 번복…대법서 파기
+    url: https://mobile.newsis.com/view_amp.html?ar_id=NISX20261113_0003867023
+    publisher: Newsis
+    date: 2026-11-13
+    language: ko
 media:
   - kind: photo
     url: https://news.sbs.co.kr/english/article.do?news_id=N1008844852
@@ -84,7 +89,7 @@ the offense in the indictment. [@1] The Supreme Court also found it hard to rule
 out the possibility that the accomplices' in-court confessions referred to the
 April 2023 smoking incident, and therefore held that their testimony could not
 be deemed sufficient to corroborate A's confession, and that the remaining
-evidence alone did not adequately prove the alleged smoking in April 2024. [@1,4]
+evidence alone did not adequately prove the alleged smoking in April 2024. [@1,4,5]
 The Criminal Procedure Act bars a conviction if the defendant's confession is
 the only incriminating evidence, and the Supreme Court said the lower court
 misunderstood the legal principles on corroborating a confession and on the
