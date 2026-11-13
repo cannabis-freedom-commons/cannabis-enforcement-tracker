@@ -46,26 +46,36 @@ sources:
     publisher: Dakhla7
     date: 2026-11-13
     language: ar
+  - title: العيون.. حجز أزيد من 24 كيلوغراماً من الشيرا وتوقيف شخصين للاشتباه في ترويجهما المخدرات
+    url: https://hounasahara.net/%D8%A7%D9%84%D8%B9%D9%8A%D9%88%D9%86-%D8%AD%D8%AC%D8%B2-%D8%A3%D8%B2%D9%8A%D8%AF-%D9%85%D9%86-24-%D9%83%D9%8A%D9%84%D9%88%D8%BA%D8%B1%D8%A7%D9%85%D8%A7%D9%8B-%D9%85%D9%86-%D8%A7%D9%84%D8%B4%D9%8A/
+    publisher: هنا الصحراء
+    date: 2026-11-12
+    language: ar
 open_questions:
   - The 5 kilograms reported jointly as cannabis plant and tobacco powder cannot be separated into cannabis and tobacco, so it is not counted in the cannabis weight.
   - The amount of cash suspected to be trafficking proceeds was not given.
   - No charges or court outcome were reported yet; the case was under prosecution-supervised investigation.
+media:
+  - kind: photo
+    url: https://hounasahara.net/%D8%A7%D9%84%D8%B9%D9%8A%D9%88%D9%86-%D8%AD%D8%AC%D8%B2-%D8%A3%D8%B2%D9%8A%D8%AF-%D9%85%D9%86-24-%D9%83%D9%8A%D9%84%D9%88%D8%BA%D8%B1%D8%A7%D9%85%D8%A7%D9%8B-%D9%85%D9%86-%D8%A7%D9%84%D8%B4%D9%8A/
+    media_url: https://hounasahara.net/wp-content/uploads/2026/11/IMG-20261112-WA0099.jpg
+    publisher: هنا الصحراء
+    caption: Slabs of hashish and a bag of powder laid out on a table, in the photo published with the article.
 ---
 
 Laayoune judicial-police anti-gang officers arrested two men aged 31 and 38 on
-12 November 2026. [@1] The arrests were based on information from the General
-Directorate of Territorial Surveillance. [@2] Police suspect the two men of
+12 November 2026. [@1,3] The arrests were based on information from the General
+Directorate of Territorial Surveillance. [@2,3] Police suspect the two men of
 possessing and promoting shira, the local term for hashish, alongside cannabis
-plant and tobacco powder. [@1] Officers stopped the first suspect in a light
-car, and the investigation then led to his partner. [@1]
+plant and tobacco powder. [@1,3] Officers stopped the first suspect in a light
+car, and the investigation then led to his partner. [@1,3]
 
 Searches inside the car and inside one suspect's house seized 279 plates of
-hashish weighing more than 24 kilograms. [@1] The same searches also seized 5
-kilograms described jointly as cannabis plant and tobacco powder. [@2] Officers
+hashish weighing more than 24 kilograms. [@1,3] The same searches also seized 5
+kilograms described jointly as cannabis plant and tobacco powder. [@2,3] Officers
 also seized cash suspected to be proceeds of the trafficking, without giving its
-amount. [@1]
+amount. [@1,3]
 
 Both suspects were placed in custody for questioning under the supervision of
-the competent prosecution. [@1] Police said the inquiry aims to establish each
-suspect's alleged acts and to identify any wider links to the activity. [@2]
-
+the competent prosecution. [@1,3] Police said the inquiry aims to establish each
+suspect's alleged acts and to identify any wider links to the activity. [@2,3]
