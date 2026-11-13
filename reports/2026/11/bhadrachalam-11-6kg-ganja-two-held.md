@@ -50,27 +50,30 @@ sources:
     url: https://www.thehansindia.com/telangana/116-kg-ganja-seized-two-held-1141277
     publisher: The Hans India
     date: 2026-11-12
+  - title: 11.6 Kg Ganja Seized In Bhadrachalam, Two Held
+    url: https://indtoday.com/11-6-kg-ganja-seized-in-bhadrachalam-two-held
+    publisher: IND Today
+    date: 2026-11-12
 open_questions:
-  - The report dates the seizure only to Wednesday; 11 November 2026 is used as the incident date, the day before its 12 November publication.
-  - No charge, court appearance, remand or outcome was reported; the two men and the seized items were handed to the Bhadrachalam Excise Station.
-  - No value estimate for the 11.6 kg consignment was published.
-  - The report does not say where the ganja was grown, who supplied it in Malkangiri, or where in Siddipet it was to be delivered.
-  - The account rests on a single Hans India report; no second outlet's account of the seizure was found.
+    - The report dates the seizure only to Wednesday; 11 November 2026 is used as the incident date, the day before its 12 November publication.
+    - No charge, court appearance, remand or outcome was reported; the two men and the seized items were handed to the Bhadrachalam Excise Station.
+    - No value estimate for the 11.6 kg consignment was published.
+    - The account does not say where the ganja was grown, who supplied it in Malkangiri, or where in Siddipet it was to be delivered.
+    - Both accounts follow the same excise statement closely, so their details cannot be checked against an independent account.
 ---
 
 Excise Enforcement officials in Bhadrachalam seized 11.6 kg of dry ganja during
 vehicle checks near a sand reach on the Kunavaram–Bhadrachalam road on
-Wednesday, 11 November 2026. [@1] Two people were apprehended in connection with
-the seizure. [@1]
+Wednesday, 11 November 2026. [@1,2] Two people were apprehended in connection with
+the seizure. [@1,2]
 
 A team led by Excise Enforcement Sub-Inspector CH Srihari Rao intercepted a
 suspicious Pulsar NS 200 motorcycle and recovered 11.6 kg of dry ganja from it.
 [@1] The two detained men were identified as Kalva Venkatesh and Koduru Suresh,
-both residents of Bharat Nagar in Siddipet district. [@1] They were allegedly
+both residents of Bharat Nagar in Siddipet district. [@1,2] They were allegedly
 transporting the ganja from Malkangiri to Siddipet when they were intercepted.
-[@1]
+[@1,2]
 
 The seized ganja and the motorcycle were handed over to the Bhadrachalam Excise
-Station for further investigation. [@1] The mobile phone was handed over with
-the ganja and motorcycle for further investigation. [@1]
-
+Station for further investigation. [@1,2] The mobile phone was handed over with
+the ganja and motorcycle for further investigation. [@1,2]
