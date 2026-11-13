@@ -44,13 +44,22 @@ sources:
     publisher: Mathrubhumi
     date: 2026-11-13
     language: ml
+  - title: ട്രെയിന്‍ വഴി കഞ്ചാവ് കടത്ത്; മുഖ്യ ആസൂത്രകനായ മലപ്പുറം സ്വദേശി പിടിയില്‍
+    url: https://marunadanmalayalee.com/amp/news/keralam/news-869971
+    publisher: Marunadan Malayalee
+    date: 2026-11-13
+    language: ml
 open_questions:
-  - The exact date of Suhail's arrest is reported as Wednesday, 11 November 2026, in Malayalam sources; no time of day beyond "noon" is given.
-  - The 34 kg total is the case total for the 23 and 30 August seizures; the split between the two consignments (18.240 kg and 16 kg) leaves a discrepancy of about 240 g.
-  - No charge or formal case number is reported for Suhail; the reports name no charges and no court outcome beyond remand.
-  - Only two accessible Malayalam sources for this event were found; both appear to draw on the same police briefing.
-  - The text gives a weight ("34 kg") but the figures have no kg_seized; check whether it belongs there.
-  - 'Left out, as its quotation was not found in Kairali News Online: Police say Suhail paid for ganja brought from Odisha and distributed it in Kerala.'
+    - The exact date and time of day of Suhail's arrest beyond noon are not given in these reports.
+    - The 34 kg total is the case total for the 23 and 30 August seizures; the split between the two consignments (18.240 kg and 16 kg) leaves a discrepancy of about 240 g.
+    - No charge or formal case number is reported for Suhail; the reports name no charges and no court outcome beyond remand.
+    - The submitted source says three West Bengal natives were arrested in August, while the report names two (S.K. Suman and Lal Chand Sheikh); the count of West Bengal arrestees is uncertain.
+media:
+  - kind: photo
+    url: https://marunadanmalayalee.com/amp/news/keralam/news-869971
+    media_url: https://marunadanmalayalee.com/h-upload/2026/11/13/1500x900_1096221-ganja.webp
+    publisher: Marunadan Malayalee
+    caption: 'Photo accompanying the article on the arrest of the Malappuram-based man named as the main planner of the train-based cannabis smuggling case (caption in Malayalam). Photo: Marunadan Malayalee'
 ---
 
 Kozhikode railway police arrested Suhail K.P. of Manjachola in Kalpakanchery,
@@ -61,14 +70,13 @@ August over more than 34 kg of cannabis smuggled by train on 23 and 30 August.
 
 On 23 August, Kozhikode railway police, with a DANSAF team, arrested two West
 Bengal natives, S.K. Suman, 19, and Lal Chand Sheikh, 29, with 18.240 kg of
-cannabis on the Mangalore Central Mail Express. [@1] On 30 August, the same
+cannabis on the Mangalore Central Mail Express. [@1,3] On 30 August, the same
 police arrested a woman named Minotti Sardar with 16 kg of cannabis in a similar
 case. [@1] Police traced Suhail after examining the earlier arrests, call detail
-records and bank account details of those held. [@1]
+records and bank account details of those held. [@1] Police found that Suhail had carried out UPI transactions worth lakhs of rupees with Abdul Baralai, the West Bengal native who had brought the cannabis from Odisha to the suspects arrested in Kozhikode; his modus operandi was buying the ganja from him and distributing it in the Tirur area. [@3]
 
 Mathrubhumi reports that Suhail had drug cases registered against him in the
 Kuzhalmandam and Kuttippuram excise ranges and at the Kalpakanchery police
 station. [@2] Mathrubhumi reports that Suhail was arrested on Wednesday noon, 11
 November 2026, and identified him as K.P. Suhail, 32, of Manjachola in
 Kalpakanchery. [@2]
-
