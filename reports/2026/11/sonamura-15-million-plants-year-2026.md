@@ -64,6 +64,10 @@ sources:
     url: https://www.sentinelassam.com/north-east-india-news/tripura-news/tripura-bsf-attack-in-ashabari-linked-to-crackdown-on-cross-border-smuggling-says-sp
     publisher: The Sentinel
     date: 2026-11-09
+  - title: Tripura police destroy cannabis plantation in major anti-narcotics operation, seize ganja worth Rs 1.77 crore
+    url: https://www.indiatodayne.in/tripura/story/tripura-police-destroy-cannabis-plantation-in-major-anti-narcotics-operation-seize-ganja-worth-rs-177-crore-1474492-2026-11-12
+    publisher: India Today NE
+    date: 2026-11-12
 open_questions:
   - The 1.5 crore plant count covers a period of about a year and no separate date is given for any individual operation.
   - No area, weight or independent audit of the destroyed plants was reported; the count and the Rs 1,000 crore loss estimate are the police officer's figures.
@@ -83,7 +87,7 @@ open_questions:
 Joint teams of Tripura police, Tripura State Rifles and the Border Security
 Force destroyed at least 1.5 crore ganja plants in Sonamura subdivision over the
 past year, Sepahijala superintendent of police Bijoy Debbarma said on 8 November
-2026. [@1,2,3,4,5,6] Debbarma estimated that the destruction cost those running the
+2026. [@1,2,3,4,5,6] In a later drive on 12 November, Jatrapur police and Tripura State Rifles personnel destroyed more than 20,000 cannabis plants in the protected Neramura forest in the same district. [@7] Debbarma estimated that the destruction cost those running the
 illegal trade 1 billion rupees (Rs 1,000 crore). [@1,2,3] Security agencies also
 seized smuggled goods worth several crores of rupees during the period. [@1,2,3,5]
 
