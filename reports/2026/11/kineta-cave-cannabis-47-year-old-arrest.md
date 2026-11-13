@@ -49,6 +49,11 @@ sources:
     publisher: Neakriti
     date: 2026-11-13
     language: el
+  - title: 'Συνελήφθη 47χρονος στην Κινέτα: Κατηγορείται για κατοχή και διακίνηση ναρκωτικών – Έκρυβε 12,6 κιλά ακατέργαστης κάνναβης σε παράπηγμα - Newsbeast'
+    url: https://www.newsbeast.gr/society/arthro/13495190/synelifthi-47chronos-stin-kineta-katigoreitai-gia-katochi-kai-diakinisi-narkotikon-ekryve-126-kila-akatergastis-kannavis-se-parapigma
+    publisher: Newsbeast
+    date: 2026-11-13
+    language: el
 media:
   - kind: photo
     url: https://www.neakriti.gr/koinonia/2211153_kineta-ekrybe-126-kila-kannabis-se-spilaio-synelifthi-47hronos
@@ -58,20 +63,20 @@ media:
 ---
 
 Narcotics officers arrested a 47-year-old foreign man for cannabis possession
-and trafficking. [@1] Officers found the man inside a cave in Kineta, where he
+and trafficking. [@1,6] Officers found the man inside a cave in Kineta, where he
 had hidden drug quantities for further distribution. [@1,3,4,5] Police said he stored
 and distributed raw cannabis to various people, mainly around Agioi Theodoroi in
-Corinthia and in Attica. [@1,3,5] The arrest took place on the afternoon of
+Corinthia and in Attica. [@1,3,5,6] The arrest took place on the afternoon of
 Wednesday 11 November 2026 during an organized operation by the Narcotics
 Prosecution Subdirectorate in the Attica area. [@1,3]
 
 At the site officers found a total of 12.6 kilograms of raw cannabis and
 cannabis clones, along with signal-jamming and surveillance devices. [@1] The
 total comprised 6.6 kilograms of raw cannabis and six kilograms of cannabis
-clones. [@2,4,5] Police seized a car. [@1,4,5] Police also seized a mobile phone. [@3] They also found two electric air
+clones. [@2,4,5,6] Police seized a car. [@1,4,5] Police also seized a mobile phone. [@3] They also found two electric air
 extractors, packaging for extracting cannabis oil, a metal tray and an electric
 blender. [@2]
 
 According to police, the man had previously been accused of similar offences.
-[@2] A case file for possession and trafficking of narcotics was opened against
+[@2,6] A case file for possession and trafficking of narcotics was opened against
 him and he was referred to the competent prosecutor. [@2,5]
