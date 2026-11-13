@@ -63,6 +63,11 @@ sources:
     publisher: MilanoToday
     date: 2026-11-13
     language: it
+  - title: Si fa consegnare 13 chili di marijuana con il corriere, arrestato nel Milanese
+    url: https://www.espansionetv.it/2026/11/13/si-fa-consegnare-13-chili-di-marijuana-con-il-corriere-arrestato-nel-milanese/
+    publisher: EspansioneTV
+    date: 2026-11-13
+    language: it
 open_questions:
   - The accounts say officers intervened in the preceding days, so no exact arrest date was published and 13 November 2026 is the publication date used as the incident date.
   - No Sender, origin or route of the two parcels was reported.
@@ -71,14 +76,14 @@ open_questions:
 
 Milan State Police arrested a 23-year-old Italian man for alleged possession of
 drugs for dealing and seized 13 kg of marijuana shipped inside two large packing
-boxes. [@2] An officer disguised himself as a courier to make the delivery, and
+boxes. [@2,4] An officer disguised himself as a courier to make the delivery, and
 the young man was arrested after signing the handheld device to take the
 parcels. [@1]
 
 Rho-Pero police acted after a shipping-company worker in the Rho area reported a
 strong marijuana smell coming from two large parcels. [@2] Inside the parcels
 officers found four bags holding 13 kg of marijuana and a satellite GPS tracker.
-[@2] Prosecutors authorised a delayed seizure so officers could identify the
+[@2,4] Prosecutors authorised a delayed seizure so officers could identify the
 recipient, and with the help of Milan's Flying Squad they traced him to Novate
 Milanese. [@2]
 
@@ -86,5 +91,4 @@ A police officer wearing the courier company's uniform came to the 23-year-old's
 door to deliver the parcels while colleagues waited near the home. [@3] In a
 later home search with drug dogs, officers seized 3 mobile phones, labels and
 invoices for the parcels, 500 euros in cash and assorted stickers apparently
-meant for packaging the drug. [@1]
-
+meant for packaging the drug. [@1,4]
