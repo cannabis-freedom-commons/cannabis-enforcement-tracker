@@ -111,6 +111,10 @@ sources:
     archived: https://web.archive.org/web/20260719081102/https://www.manxradio.com/news/isle-of-man-news/four-jailed-for-importing-cannabis-on-fishing-boat/
     publisher: Manx Radio
     date: 2025-01-24
+  - title: Island 'safer place' after drug 'kingpin' jailed
+    url: https://www.bbc.com/news/articles/cre225rq9v3o
+    publisher: BBC News
+    date: 2026-01-23
 open_questions:
   - The five island men were sentenced on 22 January 2025. Dunne's hearing is dated from the BBC's 13 January 2026 report; Isle of Man Today says he appeared on Tuesday, and Manx Radio's report is dated 14 January 2026.
   - Police valued the 15.5 kg holdall at £310,000. Later accounts of Dunne's sentence say £300,000 or up to £309,000, and the report keeps the £310,000 police figure rather than adding the later estimates.
@@ -121,7 +125,7 @@ open_questions:
   - Isle of Man Today reported that the gang's main figure had still not been located.
 ---
 
-Liam Dunne, 39, of Liverpool, was jailed for 12 years at Douglas Courthouse for his part in landing cannabis on the Isle of Man. [@1,2,3] He pleaded guilty to being concerned in importing heroin, cannabis and tetrahydrocannabinol (THC) and to participating in a criminal organisation. [@1] Deemster Graeme Cook said Dunne made the arrangements and got others to do his dirty work. [@1] Isle of Man Today reported the term as six years for the heroin offence, four years for the cannabis offence and two years for the criminal organisation, consecutively, with a further year for the THC offence concurrently. [@2]
+Liam Dunne, 39, of Liverpool, was jailed for 12 years at Douglas Courthouse for his part in landing cannabis on the Isle of Man. [@1,2,3,10] He pleaded guilty to being concerned in importing heroin, cannabis and tetrahydrocannabinol (THC) and to participating in a criminal organisation. [@1] Deemster Graeme Cook said Dunne made the arrangements and got others to do his dirty work. [@1] Isle of Man Today reported the term as six years for the heroin offence, four years for the cannabis offence and two years for the criminal organisation, consecutively, with a further year for the THC offence concurrently. [@2]
 
 The cannabis was the same 15.5 kg shipment for which five Isle of Man men were sentenced on Wednesday 22 January 2025. [@6] Jamie Smith, 37, described in court as the senior player on the island, was jailed for five years. [@6] Ashley Harrison, 36, was jailed for three years and 11 months, John Skillen, 44, for three years and nine months, and Jordan Corkill, 27, for three years and six months. [@6] Jordan Halligan-Bunce, 21, was given 21 months suspended for two years after he was found guilty at trial of producing cannabis. [@6,5,8,9]
 

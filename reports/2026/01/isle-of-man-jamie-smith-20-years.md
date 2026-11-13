@@ -55,6 +55,7 @@ open_questions:
   - The £310,000 cannabis value, 98 THC vapes and 15.5 kilos from Whitehaven describe Smith's separate earlier Boy Shane boat case and are excluded from this report's figures.
   - The BBC describes the cocaine counts as importation and supply while Isle of Man Today describes supply and production of a class A drug; the report records the 20-year total from both accounts.
   - The hearing date is given only as Thursday with publication on 22 January 2026, which is used as the incident date.
+  - No further arrests or charges over Smith's cannabis supply were reported, and the other Merseyside contacts described by police are not named.
 ---
 
 Jamie Smith, 38, was sentenced to 20 years in prison for playing a leading role
@@ -68,8 +69,8 @@ The offences were all committed between August 2, 2022 and November 22, 2023.
 
 He was arrested in December 2024 and charged with being concerned in cocaine
 supply and importation and cannabis supply between August 2022 and November
-2023. [@1] Police installed a recording device in his room at the Comis Hotel
-over six weeks in late 2023, revealing his involvement in drug trafficking. [@1]
+2023. [@1,3] Police installed a recording device in his room at the Comis Hotel
+over six weeks in late 2023, revealing his involvement in drug trafficking. [@1,3]
 Investigators linked him to up to £249,000 of cocaine imported to the Isle of
 Man in October 2023 concealed in a tyre. [@1] Prosecutors said it was impossible
 to know his total profit, but in phone calls he said he made between £1,000 and
@@ -81,5 +82,4 @@ import £310,000 worth of cannabis, along with 98 vapes laced with THC, to the
 island on the fishing vessel Boy Shane in November 2023. [@1] That sentence runs
 concurrently to the 20 years he is now serving. [@2] Detective Inspector Jamie
 Tomlinson said Smith was the most prolific drug dealer the island has seen and
-his conviction represents a major success for the island. [@3]
-
+his conviction represents a major success for the island. [@3] Tomlinson also said Smith had been "orchestrating criminal activity from a distance and using others to carry out his instructions" and had been a "career drug dealer who believed he would not be caught". [@3] He said Smith had started dealing in his teenage years and had built working relationships with members of Merseyside criminal gangs. [@3] Tomlinson said Smith's operations were "exploiting the vulnerable and profiting from their harm". [@3]
