@@ -71,21 +71,26 @@ sources:
     publisher: Skai.gr
     date: 2026-11-12
     language: el
+  - title: Το δέμα από τις ΗΠΑ είχε πάνω από 2 κιλά κάνναβη
+    url: https://www.naftemporiki.gr/society/2188285/to-dema-apo-tis-ipa-eiche-pano-apo-2-kila-kannavi/
+    publisher: Η ΝΑΥΤΕΜΠΟΡΙΚΗ
+    date: 2026-11-12
+    language: el
 ---
 
 Narcotics officers of the Hellenic Police's Organised Crime Directorate arrested
 a 21-year-old Greek man at midday on Wednesday 11 November 2026 in an area of
-Attica, on suspicion of importing drugs into Greece from the United States. [@2,5]
+Attica, on suspicion of importing drugs into Greece from the United States. [@2,5,6]
 The case came to light after a check carried out by officials of the customs
 office of Athens International Airport on a parcel that had been sent from the
-United States to Greece. [@3] The parcel contained 2.26 kilograms of cannabis.
-[@1] Officers of the Narcotics Subdirectorate of the Directorate for Combating
-Organised Crime then carried out a police operation to trace the recipient. [@4]
+United States to Greece. [@3,6] The parcel contained 2.26 kilograms of cannabis.
+[@1,6] Officers of the Narcotics Subdirectorate of the Directorate for Combating
+Organised Crime then carried out a police operation to trace the recipient. [@4,6]
 
 The officers arrested the 21-year-old at the moment he collected the parcel from
-a courier company's branch in Attica. [@3,5] Police said the quantity of cannabis
-was intended for further distribution. [@3,5] From his possession officers seized
-2,260 grams of raw cannabis and a mobile phone. [@2] A criminal case was filed
+a courier company's branch in Attica. [@3,5,6] Police said the quantity of cannabis
+was intended for further distribution. [@3,5,6] From his possession officers seized
+2,260 grams of raw cannabis and a mobile phone. [@2,6] A criminal case was filed
 against him on charges of drug importation, possession and trafficking. [@1] He
 was taken to the competent prosecuting authority for further criminal
-proceedings. [@3]
+proceedings. [@3,6]
