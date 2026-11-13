@@ -59,13 +59,11 @@ sources:
     publisher: TuStolica.pl
     date: 2026-11-09
     language: pl
-open_questions:
-  - The accounts give no date for the arrest or the court's remand decision; 8 November 2026 is an estimate drawn from the 9 November publication date.
-  - 'The exact place is not named: police describe a flat rented outside Warsaw, and Wołomin is named only as the seat of the supervising prosecutor''s office.'
-  - The marijuana weight is reported as close to 300 grams, and the THC oil in the vaporiser has no stated quantity, so it is not added to the figures.
-  - No charge relating to the THC oil is separately stated.
-  - 'Only one account could be used: the TuStolica.pl version is the same partner text and could not be checked against a capture here.'
-  - The court's three-month custody order is not a sentence, and no court conviction has been reported.
+  - title: Warszawa. W wynajmowanym mieszkaniu trzymali narkotyki. Usłyszeli zarzuty | TVN Warszawa
+    url: https://tvn24.pl/tvnwarszawa/okolice/warszawa-w-wynajmowanym-mieszkaniu-trzymali-narkotyki-uslyszeli-zarzuty-st9336505
+    publisher: TVN Warszawa
+    date: 2026-11-12
+    language: pl
 ---
 
 Criminal police officers from Bielany, a district of Warsaw, detained two men
@@ -79,11 +77,11 @@ vaporiser with THC oil, while the older man had a plastic bag of dried plant
 material. [@1] A search of the flat found aluminium foil with another portion of
 a light, clumped substance on a table. [@1] Tests showed the seized material was
 just over a kilogram of amphetamine, almost 30 grams of mephedrone and close to
-300 grams of marijuana; only the marijuana is counted here. [@1,2]
+300 grams of marijuana; only the marijuana is counted here. [@1,2,3]
 
 Both men were charged with possessing a significant quantity of narcotics, and
 the 41-year-old faced an additional charge for possessing mephedrone in the
-flat. [@1,2] A court remanded both suspects in custody for three months. [@1,2] The
+flat. [@1,2,3] A court remanded both suspects in custody for three months. [@1,2,3] The
 charges carry up to 10 years in prison, and the Wołomin district prosecutor's
-office is supervising the case. [@1,2] The account rests on a police statement
+office is supervising the case. [@1,2,3] The account rests on a police statement
 given by subst-insp. Elwira Kozłowska and published by local outlets. [@1]
