@@ -27,16 +27,22 @@ sources:
     publisher: Cadena 3 Argentina
     date: 2026-11-12
     language: es
+  - title: 'El gendarme que jugaba para los narcos: filtraba información y la Corte confirmó su condena'
+    url: https://www.newsdigitales.com/nota/349913/el-gendarme-que-jugaba-para-los-narcos-filtraba-informacion-y-la-corte-confirmo-su-condena/
+    publisher: NewsDigitales
+    date: 2026-11-12
+    language: es
 open_questions:
   - No separate date for the Supreme Court ruling was published; 12 November 2026 is the publication date and stands in for the event date.
   - The account rests on a single accessible report crediting Noticias Argentinas, with no court document published.
+  - No court document was published for this ruling.
 ---
 
 The Supreme Court of Justice confirmed a six-year prison sentence for gendarme
 Lucas Alejandro Llopiz, who was found guilty of colluding with a marijuana
-trafficking network and alerting its members about route controls. [@1] The
+trafficking network and alerting its members about route controls. [@1,2] The
 ruling was signed by Justices Horacio Rosatti, Carlos Rosenkrantz and Ricardo
-Lorenzetti, who dismissed the gendarme's formal-irregularities appeal. [@1]
+Lorenzetti, who dismissed the gendarme's formal-irregularities appeal. [@1,2]
 While serving in the Gendarmería Nacional Anti-Drugs Section in Ituzaingó,
 Llopiz contacted José Alberto Laurencio, identified as one of the organization's
 leaders, and passed information about vehicles under investigation. [@1]
@@ -44,7 +50,7 @@ leaders, and passed information about vehicles under investigation. [@1]
 The investigation began in March 2017 after an informant tip about a Gendarmería
 control on Route 14 by Squad 57 Santo Tomé. [@1] Squad 57 Santo Tomé stopped a
 Scania truck on Route 14 carrying 4,631 packages of marijuana weighing 3,985.355
-kilograms. [@1] Investigators said the marijuana entered Argentina from Paraguay
+kilograms. [@1,2] Investigators said the marijuana entered Argentina from Paraguay
 through riverside areas of the Paraná River at Cerro Corá and was moved to
 warehouses in Posadas. [@1]
 
@@ -54,4 +60,3 @@ where it was sold, using scout cars, ambulances and legitimate cargo to hide it.
 [@1] The Federal Court of Corrientes sentenced Llopiz in August 2023, and the
 Federal Chamber of Criminal Cassation rejected his defence appeal in May 2024,
 leaving the sentence in place. [@1]
-
