@@ -63,16 +63,18 @@ sources:
     url: https://www.fijivillage.com/indepth/over-8-000-suspected-marijuana-plants-uprooted-in-the-north-and-meth-seized-in-laucala-beach-342775/
     publisher: Fijivillage
     date: 2026-11-06
-open_questions:
-  - The operation is dated only as this week with publication on 6 November 2026; 6 November is used as the incident date.
-  - The plants were described as believed to be marijuana with no laboratory confirmation, weight, area or value reported.
-  - No arrests, owners, charges or court outcomes were reported for the two Lea farms.
-  - The quantities of suspected methamphetamine and cash seized in Laucala Beach were not stated and are excluded from cannabis figures.
-  - Fiji One News reports the two farms were discovered earlier this week, while Fijivillage says the operation was conducted this week; neither gives the day of the uprooting.
+  - title: Police target money behind drug trade
+    url: https://fijionenews.com.fj/police-target-money-behind-drug-trade/
+    publisher: Fiji One News
+    date: 2026-11-12
+  - title: Drug kingpins still out there, says Tudravu
+    url: https://www.fijitimes.com.fj/drug-kingpins-still-out-there-says-tudravu/
+    publisher: The Fiji Times
+    date: 2026-11-13
 ---
 
 More than 8,000 plants believed to be marijuana were uprooted from two farms in
-the Lea farming area in Cakaudrove Province. [@1,3,4,5] The operation was carried out
+the Lea farming area in Cakaudrove Province. [@1,3,4,5,6] The operation was carried out
 by the joint Northern Division Taskforce in the Northern Division. [@1]
 
 Officers from the Republic of Fiji Military Forces supported the taskforce as
@@ -85,9 +87,9 @@ In a separate operation in Laucala Beach, officers from the Police Dog Unit
 raided the home of a 39-year-old man. [@1,4] Officers seized several zip-lock bags
 containing white substances believed to be methamphetamine during that raid.
 [@1] Police also seized cash during the raid which they suspect came from
-criminal activities. [@1]
+criminal activities. [@1,6]
 
 Police said drug operations are continuing across the five policing divisions
 with arrests being made for unlawful possession of illicit drugs and related
 offences including proceeds of crime. [@1,4] Cash suspected to be proceeds of
-crime was also confiscated during the raid. [@2]
+crime was also confiscated during the raid. [@2] Assistant Commissioner for Crimes Loraini Seru said police were also following the money through investigations conducted by the Anti-Money Laundering and Proceeds of Crime Unit. [@7] Police Commissioner Rusiate Tudravu later said investigations must go beyond small-scale cultivators to expose the financiers, importers and connections behind the drug trade. [@7]
