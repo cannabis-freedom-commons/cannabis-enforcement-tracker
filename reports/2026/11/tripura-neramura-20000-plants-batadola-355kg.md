@@ -60,6 +60,11 @@ media:
     media_url: https://www.tripurainfo.com/TripuraNews/NewsPhotos/TRIPURAINFO-Pix-English-News-9317-12-11-2026.jpg
     publisher: TRIPURAINFO
     caption: Police personnel in the Neramura forest during the destruction drive, in a photo published with the report; the page gives no caption or credit.
+  - kind: photo
+    url: https://jagarantripura.com/2026/11/12/jatrapur-police-achieve-major-success-in-anti-marijuana-drive-destroy-over-20000-marijuana-plants/
+    media_url: https://media.jagarantripura.com/2026/11/Screenshot_20261112_152707_WhatsApp-1024x562.jpg
+    publisher: Jagarantripura.com
+    caption: A police officer cuts a cannabis plant during the eradication drive in the Neramura forest, in the photo published with the report; the page gives no credit.
 status: reported
 created_by_model: marketplace/dealignai/deepseek-v4.1-flash-uncensored-fp8#max
 submission: 475e517a699ef96f9794fae79fd4aaf7
@@ -98,26 +103,30 @@ sources:
     url: https://neherald.com/tripura/huge-quantities-of-ganja-worth-rs-1-77-cr-from-batadola-forest-of-sepahijala-seized-probe-launched-to-trace-smugglers
     publisher: Northeast Herald
     date: 2026-11-12
+  - title: গাঁজা বিরোধী অভিযানে যাত্রাপুর পুলিশের বড়সড় সাফল্য, ধ্বংস ২০ হাজারেরও বেশি গাঁজা গাছ
+    url: https://jagarantripura.com/2026/11/12/jatrapur-police-achieve-major-success-in-anti-marijuana-drive-destroy-over-20000-marijuana-plants/
+    publisher: Jagarantripura.com
+    date: 2026-11-12
+    language: bn
 open_questions:
-  - The sources place the plantation only in a forest between the Jatrapur and Melaghar police station jurisdictions; the map point is approximate.
-  - Plant numbers are given as more than 20,000 and the plots as six to seven, so both are approximate.
-  - No area in acres or hectares and no value for the destroyed crop were published.
-  - No cultivator, owner or suspect was named in either operation, and no arrest was reported.
-  - The Neramura drive has no separate date beyond 'today' in reports published on 12 November; the Batadola search is dated Thursday 12 November.
-  - The Batadola haul was treated as unclaimed; who stored it and whether it was bound for Bangladesh or other markets is unknown.
-  - Syandan Patrika noted that police had made no arrests in recent ganja seizures and said the reason was being discussed across Sonamura.
-  - Whether the Neramura drive is counted in the 1.5 crore plants announced for the past year in Sonamura subdivision is not stated.
-  - The seized material is described as dried ganja; no laboratory confirmation was reported.
-  - Huge quantities of Ganja, worth Rs 1.77 Cr from Batadola forest of Sepahijala seized; probe launched to trace smugglers (Northeast Herald) could not be opened again to check its quotations (browser source capture timed out; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.
+    - The sources place the plantation only in a forest between the Jatrapur and Melaghar police station jurisdictions; the map point is approximate.
+    - Plant numbers are given as more than 20,000 and the plots as six to seven, so both are approximate.
+    - No area in acres or hectares and no value for the destroyed crop were published.
+    - No cultivator, owner or suspect was named in either operation, and no arrest was reported.
+    - The Neramura drive has no separate date beyond 'today' in reports published on 12 November; the Batadola search is dated Thursday 12 November.
+    - The Batadola haul was treated as unclaimed; who stored it and whether it was bound for Bangladesh or other markets is unknown.
+    - Syandan Patrika noted that police had made no arrests in recent ganja seizures and said the reason was being discussed across Sonamura.
+    - Whether the Neramura drive is counted in the 1.5 crore plants announced for the past year in Sonamura subdivision is not stated.
+    - The seized material is described as dried ganja; no laboratory confirmation was reported.
 ---
 
 Tripura Police destroyed more than 20,000 illegally cultivated cannabis plants
 in the protected Neramura forest in Sepahijala district on 12 November 2026.
-[@1] A team from Jatrapur police station, supported by Tripura State Rifles
+[@1,9] The operation was led by Jatrapur police station officer-in-charge Parthanath Bhowmik. [@9] A team from Jatrapur police station, supported by Tripura State Rifles
 personnel, cut the plants on forest department land across six to seven plots
-between the Jatrapur and Melaghar police station areas. [@5] The team trekked
+between the Jatrapur and Melaghar police station areas. [@3,5] The team trekked
 eight to nine kilometres through hilly terrain, and the growers stayed away.
-[@5] No one was arrested. [@8] Syandan Patrika reported that the cultivation had
+[@5,9] Bhowmik said the anti-cannabis and other anti-drug drives in the police station area would continue. [@9] No one was arrested. [@8] Syandan Patrika reported that the cultivation had
 gone on for a long time while the growers managed the police. [@7]
 
 In a separate operation the same day, Sonamura police and the 81st Battalion of
@@ -135,4 +144,3 @@ of the state's continuing efforts against illegal cultivation and trafficking.
 [@4] Syandan Patrika reported that police have arrested no one while seizing
 ganja and other drugs in recent months, and said the question was being
 discussed across Sonamura. [@7]
-
