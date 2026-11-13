@@ -48,6 +48,10 @@ sources:
     url: https://www.rediff.com/news/report/drugs-and-precursor-chemicals-seized-in-chennai-four-arrested/20261113.htm
     publisher: Rediff
     date: 2026-11-13
+  - title: Drugs, precursor chemicals worth Rs 2.4 crore seized in Chennai; four arrested
+    url: https://www.msn.com/en-in/news/other/drugs-precursor-chemicals-worth-rs-2-4-crore-seized-in-chennai-four-arrested/ar-AA2hnkhM
+    publisher: MSN
+    date: 2026-11-13
 open_questions:
   - The passenger was not named and no court outcome beyond remand in judicial custody was reported.
   - The weight and value are the authorities' figures as republished; no second independent account of this 4 kg seizure was opened.
@@ -55,21 +59,20 @@ open_questions:
 ---
 
 Chennai Customs' Air Intelligence Unit intercepted a male passenger who arrived
-in Chennai from Bangkok on 12 November 2026. [@1] Officers had flagged him
+in Chennai from Bangkok on 12 November 2026. [@1,2] Officers had flagged him
 through profiling and stopped him as he tried to exit through the Green Channel
 with the contraband hidden in a false-bottom compartment of his checked-in
-trolley suitcase. [@1] The passenger was arrested under the Narcotic Drugs and
-Psychotropic Substances Act and remanded in judicial custody. [@1]
+trolley suitcase. [@1,2] The passenger was arrested under the Narcotic Drugs and
+Psychotropic Substances Act and remanded in judicial custody. [@1,2]
 
-Officers seized 4 kg of hydroponically cultivated ganja from his baggage. [@1]
+Officers seized 4 kg of hydroponically cultivated ganja from his baggage. [@1,2]
 Customs valued the seized cannabis at about Rs 1.4 crore in the illicit market.
-[@1]
+[@1,2]
 
 After the seizure, Chennai Customs cautioned young people against smuggling
 syndicates that fund foreign travel in exchange for carrying unknown baggage
 into India. [@1] Officials described the cannabis interception as one of two
 separate operations in Chennai that together were put at Rs 2.4 crore with four
-arrests. [@1] The same account reports a separate Narcotics Control Bureau
+arrests. [@1,2] The same account reports a separate Narcotics Control Bureau
 seizure of 50 kg of pseudoephedrine from a plastic manufacturing unit in MKB
 Nagar on the same day, which is left out of the cannabis figures here. [@1]
-
