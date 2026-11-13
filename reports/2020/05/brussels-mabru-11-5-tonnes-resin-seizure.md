@@ -29,6 +29,11 @@ media:
     media_url: https://www.lesoir.be/sites/default/files/dpistyles_v2/ls_16_9_864w/2020/05/19/node_301764/27551680/public/2020/05/19/B9723502703Z.1_20200519125149_000+GC8G1JSM6.1-0.jpg?itok=_nVTwo_w1589887864
     publisher: Le Soir
     caption: 'Press photo published with the report on the Mabru seizure, credited to Photo News; its caption names no subject and does not establish that it shows the seized container. Photo: Photo News'
+  - kind: photo
+    url: https://www.rtbf.be/article/saisie-de-drogue-au-marche-matinal-de-bruxelles-11-5-tonnes-de-cannabis-pour-une-valeur-de-114-millions-d-euros-10504971
+    media_url: https://static-content.rtbf.be/article/image/1920x1080/9/6/8/a7ade1c0cbcbb49aca5c70c06a528429-1589886497.jpg
+    publisher: RTBF
+    caption: 'The cannabis resin seized from the container at the Marché matinal de Bruxelles (Mabru), shown in sacks marked 15 kg net, next to the MABRU logo. Photo: RTBF (Tous droits réservés)'
 details:
   activity: [trafficking]
   agencies: [be-police]
@@ -76,6 +81,11 @@ sources:
     publisher: Sudinfo
     date: 2020-05-20
     language: fr
+  - title: 'Saisie de drogue au Marché Matinal de Bruxelles : 11,5 tonnes de cannabis pour une valeur de 114 millions d''euros'
+    url: https://www.rtbf.be/article/saisie-de-drogue-au-marche-matinal-de-bruxelles-11-5-tonnes-de-cannabis-pour-une-valeur-de-114-millions-d-euros-10504971
+    publisher: RTBF
+    date: 2020-05-19
+    language: fr
 open_questions:
   - The first report said more than 11 tonnes while the prosecutor later gave 11.5 tonnes; the report uses 11.5 tonnes as the final official figure.
   - The outcome for the four other arrested suspects beyond the 48-hour judicial hearing was not reported in the cited sources.
@@ -90,7 +100,7 @@ open_questions:
 
 Belgian federal police seized cannabis resin at Brussels' main wholesale food
 market on Monday 18 May 2020. [@1,4] Six people were arrested in the operation, as
-announced by the Brussels prosecutor. [@1,4] After questioning on Monday by the
+announced by the Brussels prosecutor. [@1,4,6] After questioning on Monday by the
 federal judicial police, the six suspects were to be heard within 48 hours by an
 investigating judge ruling on detention. [@1]
 
@@ -104,4 +114,4 @@ infrastructure and that the case was unrelated to market activity. [@3,4] The
 Mabru wholesale market in Laeken operates at night into the early morning and
 mainly serves professional food retailers. [@2]
 
-Two of the six suspects were charged with importing narcotics as part of an association and placed under arrest warrants on 20 May 2020. [@5] The suspects were not traders at the Marché matinal but street market-gardeners who rented a refrigerated storage space there. [@5]
+Two of the six suspects were charged with importing narcotics as part of an association and placed under arrest warrants on 20 May 2020. [@5] The suspects were not traders at the Marché matinal but street market-gardeners who rented a refrigerated storage space there. [@5,6]
