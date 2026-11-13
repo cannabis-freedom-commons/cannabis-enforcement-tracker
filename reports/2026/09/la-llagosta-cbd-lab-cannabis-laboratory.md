@@ -66,13 +66,18 @@ sources:
     publisher: 20minutos
     date: 2026-11-12
     language: es
+  - title: La Guardia Civil interviene sustancias valoradas en más de 600.000 euros en una operación en Barcelona
+    url: https://www.elcatalan.es/la-guardia-civil-interviene-sustancias-valoradas-en-mas-de-600-000-euros-en-una-operacion-en-barcelona
+    publisher: El Catalán
+    date: 2026-11-13
+    language: es
 ---
 
 The Guardia Civil dismantled a laboratory in La Llagosta, Barcelona, dedicated
-to making cannabis-derived products and selling them online. [@1] Orders were placed through the company's website and, when stocks were insufficient, the products were manufactured on the premises. [@3] The operation,
+to making cannabis-derived products and selling them online. [@1,4] Orders were placed through the company's website and, when stocks were insufficient, the products were manufactured on the premises. [@3] The operation,
 called CBD-LAB, was carried out in September. [@2,3] Two people were investigated
 for an alleged drug trafficking offence: the owner of the company and the
-chemical engineer responsible for the laboratory. [@1,3] The owner ran the
+chemical engineer responsible for the laboratory. [@1,3,4] The owner ran the
 business from Thailand, while the chemical engineer headed the laboratory and
 handled the formulation and composition of the products as well as quality and
 safety testing. [@2] Investigators estimate the company had been selling these
@@ -82,11 +87,11 @@ Officers inspected two industrial warehouses, one used for storing goods and
 preparing orders and the other holding production areas and laboratories where
 oils were extracted, cannabis resin was made and weighing, labelling and packing
 were carried out. [@2] Officers seized 11.5 kilos of hashish, about 7 kilos of
-marijuana buds and more than 133 litres of cannabis oil. [@2] The oil was held
+marijuana buds and more than 133 litres of cannabis oil. [@2,4] The oil was held
 in 17,657 jars, and thousands of vaping products and refills were also seized.
 [@2] The Guardia Civil put the estimated retail value of the substances
 identified as narcotics at more than 600,000 euros, a valuation that does not
-include the other products and materials immobilised. [@2] Officers also immobilised about 2,000 litres of oils intended for making products, more than 700 litres of cannabis cosmetics and 400 kilos of plant material, as well as seeds, CBD infusions, dog biscuits and processing machinery. [@3]
+include the other products and materials immobilised. [@2,4] Officers also immobilised about 2,000 litres of oils intended for making products, more than 700 litres of cannabis cosmetics and 400 kilos of plant material, as well as seeds, CBD infusions, dog biscuits and processing machinery. [@3]
 
 The investigation began in July 2025 after inspections at grow shops, stores
 specialising in cannabis cultivation, in Barcelona province. [@2] Cookies and
