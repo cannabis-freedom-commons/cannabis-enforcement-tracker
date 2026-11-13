@@ -74,13 +74,18 @@ sources:
     publisher: Tribun Medan
     date: 2026-11-11
     language: id
+  - title: Bawa 25 Kilogram Ganja, Kurir Antarprovinsi Dibekuk
+    url: https://tv.sinpo.id/detail/bawa-25-kilogram-ganja-kurir-antarprovinsi-dibekuk
+    publisher: SinPo.tv
+    date: 2026-11-13
+    language: id
 open_questions:
     - The police chief's account, as published here, places the stop in the afternoon at about 04:00 WIB, which does not show whether that clock time is 4 a.m. or 4 p.m.
 ---
 
 Officers of the criminal investigation unit at Polsek Panyabungan, under Polres
 Mandailing Natal, stopped a suspected cannabis courier on Tuesday 10 November
-2026 in Dalan Lidang village, Panyabungan district, Mandailing Natal. [@1,4,5,6] AKP Daster Sinulingga said the unit made the stop on the afternoon of 10 November, around 04:00 WIB, at Simpang PM. [@6] They
+2026 in Dalan Lidang village, Panyabungan district, Mandailing Natal. [@1,4,5,6,7] AKP Daster Sinulingga said the unit made the stop on the afternoon of 10 November, around 04:00 WIB, at Simpang PM. [@6] They
 detained a 25-year-old man identified only as TD. [@1,4,5,6] He is a resident of
 Kularian village, Duo Koto, Tanjung Raya, Agam regency, West Sumatra. [@2]
 Polres chief AKBP Bagus Priandy said the Panyabungan unit had uncovered a
@@ -102,3 +107,5 @@ The suspect and the exhibits were handed to Satresnarkoba Polres Mandailing
 Natal, the regency drug squad, for investigation, including the search for the
 man who fled. [@2] Priandy said investigators were completing the case file and
 coordinating that handover under the rules in force. [@1,5,6]
+
+Police said the cannabis was being carried across the provinces and would be smuggled into West Sumatra province. [@7]
