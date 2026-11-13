@@ -78,22 +78,30 @@ sources:
     publisher: Info Newss
     date: 2026-11-12
     language: pt
+  - title: Polícia erradica 26,2 mil pés de maconha em Santa Maria e prende suspeito
+    url: https://www.carlosbritto.com/policia-erradica-262-mil-pes-de-maconha-em-santa-maria-e-prende-suspeito/
+    publisher: Blog do Carlos Britto
+    date: 2026-11-12
+    language: pt
+open_questions:
+    - The area of the planting and the weight of the cannabis material seized were not published.
+    - The report names no charge or court outcome for the arrested suspect.
 ---
 
 Military police of the 7ª CIPM eradicated a planting of 26,200 cannabis plants
 in the rural zone of Santa Maria da Boa Vista, in the sertão of Pernambuco, on
-the night of Wednesday 11 November 2026. [@1] Three people were in the area when
-the teams arrived, but only one was arrested in the act. [@1,4] The other two
-suspects fled and were not found. [@1,4] The arrested suspect and the seized
+the night of Wednesday 11 November 2026. [@1,5] Three people were in the area when
+the teams arrived, but only one was arrested in the act. [@1,4,5] The other two
+suspects fled and were not found. [@1,4,5] The arrested suspect and the seized
 material were taken to the Civil Police station in Cabrobó, where the applicable
-measures were taken. [@1,4]
+measures were taken. [@1,4,5]
 
 The action was the 20th phase of Operation Carcará, after an intelligence survey
 by the unit, with support from the Malhas da Lei team and the Federal Police.
-[@2] Officers found 9,400 cannabis plants at harvest stage and 16,800 seedlings.
-[@1,4] Part of the material was collected and presented to the police authority.
-[@1] The rest of the planting was burned by the officers on the land itself.
-[@1]
+[@2,5] Officers found 9,400 cannabis plants at harvest stage and 16,800 seedlings.
+[@1,4,5] Part of the material was collected and presented to the police authority.
+[@1,5] The rest of the planting was burned by the officers on the land itself.
+[@1,5]
 
 The action took place on Wednesday 11 November 2026, during the 20th phase of
 Operation Carcará. [@3] Officers of the 7th Independent Military Police Company
