@@ -59,10 +59,15 @@ sources:
     publisher: Виртуальный Брест
     date: 2026-11-12
     language: ru
+  - title: На Брестчине задержали двух иностранцев с килограммом гашиша
+    url: https://varjag.net/na-brestchine-zaderzhali-dvuh-inostrancev-s-kilogrammom-gashisha/
+    publisher: Варяг Пинск
+    date: 2026-11-12
+    language: ru
 ---
 
 Brest region drug-control officers caught two men in the act, an 18-year-old and
-a 24-year-old citizen of one of the countries of Central Asia. [@1,3] The Interior
+a 24-year-old citizen of one of the countries of Central Asia. [@1,3,4] The Interior
 Ministry press service gave the account to the Belta news agency. [@1] Officers
 established that the young men were wholesale and retail couriers for an online
 drug shop and had come to Belarus on a curator's instructions. [@1,3] Their task
