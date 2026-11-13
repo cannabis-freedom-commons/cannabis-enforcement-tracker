@@ -82,31 +82,31 @@ sources:
     publisher: FORÇA DO VALE
     date: 2026-11-11
     language: pt
-open_questions:
-  - Terra and g1 reported 117 kilograms valued at about R$ 1 million, while Alegrete Tudo, citing the civil police, reported 117.8 kilograms valued at more than R$ 1 million.
-  - Alegrete Tudo said the man was taken to the ready-response police station in Uruguaiana and would later go to the state modular prison, while Terra and g1 said he had already been transferred there.
-  - No name was published, and no court outcome beyond the flagrante booking was reported.
-  - g1 referred to criminals in the plural, but the accounts name only one person arrested.
+  - title: Dono de pet shop é preso em Alegrete com mais de 100 kg de maconha avaliados em R$ 1 milhão
+    url: https://poa24horas.com.br/policia/2026/11/dono-de-pet-shop-e-preso-em-alegrete-com-mais-de-100-kg-de-maconha-avaliados-em-r-1-milhao/
+    publisher: Porto Alegre 24 Horas
+    date: 2026-11-11
+    language: pt
 ---
 
 A 34-year-old businessman was arrested in flagrante on the night of Tuesday 10
 November 2026 in Alegrete, in the Fronteira Oeste of Rio Grande do Sul, after
-police found marijuana stored in a pet shop he owned. [@1,4,5,6] The raid followed
+police found marijuana stored in a pet shop he owned. [@1,4,5,6,7] The raid followed
 investigations coordinated by the Delegacia de Repressão às Ações Criminosas
 Organizadas (Draco) of Uruguaiana, the civil police unit that targets organised
-crime. [@1,4,6] The property was identified during an investigation involving an organised criminal group. [@6] Alegrete Tudo named delegate Nilson de Carvalho as the officer
+crime. [@1,4,6,7] The property was identified during an investigation involving an organised criminal group. [@6] Alegrete Tudo named delegate Nilson de Carvalho as the officer
 coordinating the inquiry. [@3]
 
 The marijuana was in a room attached to the shop in the Macedo neighbourhood,
 which investigators described as a storage point for distribution in the region.
-[@1] Alegrete Tudo placed the shop in the Macedo neighbourhood of Alegrete. [@3]
-The load was split into 187 pressed bricks. [@1,4,5,6] Terra reported 117 kilograms,
+[@1,7] Alegrete Tudo placed the shop in the Macedo neighbourhood of Alegrete. [@3]
+The load was split into 187 pressed bricks. [@1,4,5,6,7] Terra reported 117 kilograms,
 which the security forces valued at about R$ 1 million in losses to organised
-crime. [@1] g1 also reported that officers seized 117 kilograms, with an
+crime. [@1,7] g1 also reported that officers seized 117 kilograms, with an
 estimated value of R$ 1 million. [@2] Alegrete Tudo, citing the civil police,
 reported 117.8 kilograms valued at more than R$ 1 million. [@3]
 
-The owner had no previous police record. [@1,4,5,6] He was booked in flagrante for
-drug trafficking. [@1,4,6] After the formalities he was transferred to the
+The owner had no previous police record. [@1,4,5,6,7] He was booked in flagrante for
+drug trafficking. [@1,4,6,7] After the formalities he was transferred to the
 Penitenciária Modulada Estadual de Uruguaiana, where he remained at the disposal
-of the courts. [@1,4,5] Police said the investigation was seeking to establish the involvement of other people and where the seized drugs were destined. [@6]
+of the courts. [@1,4,5,7] Police said the investigation was seeking to establish the involvement of other people and where the seized drugs were destined. [@6]
