@@ -17,8 +17,8 @@ summary: >-
   tried to dispatch the load to Tete. Terminal staff raised the alarm after the suspect
   left before completing shipment.
 figures:
-  arrested: 1
-  kg_seized: 100
+    arrested: 1
+    kg_seized: 100
 details:
   activity: [possession]
   agency_types: [police]
@@ -27,32 +27,44 @@ details:
   route: {from: [za], to: [mz]}
   setting: [vehicle]
 data_sources:
-  details.activity: [1]
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.products: [1]
-  details.route: [1]
-  details.setting: [1]
-  figures.arrested: [1]
-  figures.kg_seized: [1]
+    details.activity: [1]
+    details.agency_types: [1]
+    details.case_stage: [1]
+    details.products: [1]
+    details.route: [1]
+    details.setting: [1]
+    figures.arrested: [2]
+    figures.kg_seized: [2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [maputo, south-africa-route, suruma]
 open_questions:
-  - The suspect was not named and no court outcome was reported; only the Africa-Press account, citing Rádio Moçambique and ECO TV, was found.
+    - The suspect was not named and no court outcome was reported; only the Africa-Press account, citing Rádio Moçambique and ECO TV, and the Jornal Notícias account, could be found.
+    - The Jornal Notícias account places the incident on the afternoon of 23 February 2026 (its 'yesterday' from the 24 February publication date), while the earlier Africa-Press account was dated 25 February; the report keeps 25 February as the incident date.
 sources:
   - title: Suspect Arrested After 120 Bundles of Suruma Seized
     url: https://www.africa-press.net/mozambique/all-news/suspect-arrested-after-120-bundles-of-suruma-seized
     publisher: Africa-Press
     date: 2026-02-25
+  - title: Detido traficante de "soruma"
+    url: https://www.jornalnoticias.co.mz/destaque/detido-traficante-de-soruma/
+    publisher: Jornal Notícias
+    date: 2026-02-24
+    language: pt
+media:
+  - kind: photo
+    url: https://www.jornalnoticias.co.mz/destaque/detido-traficante-de-soruma/
+    media_url: https://www.jornalnoticias.co.mz/wp-content/webp-express/webp-images/uploads/2024/04/detido-1-1170x948.jpg.webp
+    publisher: Jornal Notícias
+    caption: 'Photo published by Jornal Notícias alongside the article on the Maputo soruma trafficker arrest. Photo: Jornal Notícias'
 ---
 
 Police in Maputo city detained an individual in possession of 120 bundles of cannabis
-sativa, commonly known as suruma, originating from South Africa. [@1]
+sativa, commonly known as suruma, originating from South Africa. [@1,2]
 
 The suruma, totalling around 100 kilograms, was transported from South Africa to
 Mozambique in a semi-public passenger vehicle; on arriving at the Junta Bus Terminal, the
-suspect attempted to dispatch the consignment to Tete Province. [@1] His suspicious
+suspect attempted to dispatch the consignment to Tete Province. [@1,2] His suspicious
 behaviour in leaving the terminal before completing the shipping process alerted the
 transport company staff, who opened the package, discovered the drugs and notified the
-authorities; tracking of the cross-border vehicle made the apprehension possible. [@1]
+authorities; tracking of the cross-border vehicle made the apprehension possible. [@1,2] The suspect denies the charges, saying he was hired to transport the goods and was told they were food products, which is why he crossed the border without incident. [@2] Maputo PRM spokesperson Marta Pereira said that after the soruma was discovered the police were called and, through the images of the surveillance cameras, carried out the investigations that led to the suspect's detention in the city's Baixa (city centre). [@2]
