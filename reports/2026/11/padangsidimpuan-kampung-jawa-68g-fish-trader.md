@@ -69,12 +69,17 @@ sources:
     publisher: SidakNews.com
     date: 2026-11-12
     language: id
+  - title: Digerebek Tengah Malam! Residivis 62 Tahun di Padangsidimpuan Kedapatan Simpan Puluhan Gram Ganja
+    url: https://www.sumut24.co/news/288441/digerebek-tengah-malam-residivis-62-tahun-di-padangsidimpuan-kedapatan-simpan-puluhan-gram-ganja/
+    publisher: Sumut24.co
+    date: 2026-11-12
+    language: id
 ---
 
 Padangsidimpuan police arrested fish trader PD alias L, a recidivist from
 Kampung Jawa in Padangsidimpuan Selatan, early on Thursday over suspected
-cannabis abuse. [@1,4] Police had not detailed the type of the suspect's earlier case. [@4] Narcotics chief AKP Juli Purwono said officers arrested him
-at about 00:40 WIB at warung Abdi in Kampung Jawa. [@1] SIGNAL24 reported that
+cannabis abuse. [@1,4,5] Police had not detailed the type of the suspect's earlier case. [@4] Narcotics chief AKP Juli Purwono said officers arrested him
+at about 00:40 WIB at warung Abdi in Kampung Jawa. [@1,5] SIGNAL24 reported that
 the man was 62 and that the stall is on Jalan Yos Sudarso in Wek IV,
 Padangsidimpuan Selatan. [@2] They found him sitting inside the stall. [@2] The
 neighbourhood head, Abdi Lubis, who also owns the stall, witnessed the search.
@@ -82,12 +87,12 @@ neighbourhood head, Abdi Lubis, who also owns the stall, witnessed the search.
 
 Police seized cannabis with a gross weight of 68.20 grams, made up of one black
 plastic bag holding 58.23 grams and five packets weighing 9.97 grams, together
-with one white plastic bag. [@2,4] Purwono said officers took from the suspect one
+with one white plastic bag. [@2,4,5] Purwono said officers took from the suspect one
 black plastic bag of cannabis with a gross weight of 58.23 grams and five
 packets with a gross weight of 9.97 grams, plus one white plastic bag. [@1]
 Officers found the cannabis hidden in his trousers. [@1,4] He told officers he had
 obtained the cannabis from a man identified only as A, who remained under
-investigation. [@1,4] Police said they were investigating whether other people were involved in ganja distribution in Kampung Jawa and the surrounding area. [@4]
+investigation. [@1,4,5] Police said they were investigating whether other people were involved in ganja distribution in Kampung Jawa and the surrounding area. [@4]
 
 The arrest followed a public tip, and an operational team led by Aipda Sugianto
 went to the stall to check it. [@2,4] The team moved toward the location at about
