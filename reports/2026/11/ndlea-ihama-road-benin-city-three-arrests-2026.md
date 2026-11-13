@@ -57,22 +57,26 @@ sources:
     url: https://dailytrust.com/ndlea-arrests-2-suspected-drug-traffickers-in-edo
     publisher: Daily Trust
     date: 2026-11-13
+  - title: NDLEA raids Edo drug hotspot, arrests three suspects
+    url: https://dailypost.ng/2026/11/12/ndlea-raids-edo-drug-hotspot-arrests-three-suspects/
+    publisher: Daily Post Nigeria
+    date: 2026-11-12
 open_questions:
-  - The reports give no separate date for the raid; the area was reported empty on Wednesday and Thursday, 11 and 12 November 2026, and the raid is dated to Wednesday 11 November.
-  - Daily Trust's headline and lead say two suspects were arrested while its text names three; the report uses three.
-  - Punch's lead describes the recovered substances as synthetic cannabis, while both accounts name Cannabis Loud, a cannabis strain; only the 3.17 grams of Cannabis Loud is counted as cannabis.
-  - No weight was published for any cannabis held by the other two suspects.
-  - No charges, court dates or convictions were reported for the three suspects.
-  - Neither account says whether this raid is connected to the separate Ihama Road drug-joint arrests of three other suspects in the NDLEA roundup of 8 November 2026.
-  - The reports do not say whether the six cylinders of nitrous oxide were the only other substances recovered in the raid.
+    - The reports give no separate date for the raid; the area was reported empty on Wednesday and Thursday, 11 and 12 November 2026, and the raid is dated to Wednesday 11 November.
+    - Daily Trust's headline and lead say two suspects were arrested while its text names three; the report uses three.
+    - Punch's and Daily Post's leads describe the recovered substances as synthetic cannabis, while the accounts name Cannabis Loud, a cannabis strain; only the 3.17 grams of Cannabis Loud is counted as cannabis.
+    - No weight was published for any cannabis held by the other two suspects.
+    - No charges, court dates or convictions were reported for the three suspects.
+    - The reports do not say whether this raid is connected to the separate Ihama Road drug-joint arrests of three other suspects in the NDLEA roundup of 8 November 2026.
+    - The reports do not say whether the six cylinders of nitrous oxide were the only other substances recovered in the raid.
 ---
 
 Officers of the Edo State Command of the National Drug Law Enforcement Agency
-raided the notorious drug spot at Ihama Road, GRA, Benin City. [@1] Three
-suspects were arrested in the raid. [@1] Omoreghan Paul, 26 years old, was
-caught with Cannabis Loud weighing 3.17 grams. [@1] Omoruyi Osarobo of
+raided the notorious drug spot at Ihama Road, GRA, Benin City. [@1] The hotspot lies in Oredo Local Government Area. [@3] Three
+suspects were arrested in the raid. [@1,3] Omoreghan Paul, 26 years old, was
+caught with Cannabis Loud weighing 3.17 grams. [@1,3] Omoruyi Osarobo of
 Orhionmwon and Obed Osagie of Uhunmwonde were found in possession of six
-cylinders of Nitrous Oxide. [@1]
+cylinders of Nitrous Oxide. [@1,3]
 
 Ihama Road is a well-known red light district where young boys sell drugs openly
 to motorists. [@1] The busy area was empty on Wednesday and Thursday after a
@@ -81,9 +85,8 @@ stationed patrol team mounted 24-hour stop and search operations. [@1]
 Edo State Commander Mitchell Ofoyeju said the raid followed a directive by the
 agency's Chairman and Chief Executive Officer, Brig Gen Mohamed Buba Marwa
 (retd), to flush out drug peddlers and commercial sex workers providing cover
-for illicit drug activities. [@1] Ofoyeju said the operation would be
+for illicit drug activities. [@1,3] Ofoyeju said the operation would be
 intensified and sustained and warned that drug traffickers and dealers had no
 hiding place in the state. [@1] Daily Trust reported the same raid and
 identified the same three suspects. [@2] Daily Trust also reported the recovery
 of 3.17 grammes of Cannabis Loud and six cylinders of nitrous oxide. [@2]
-
