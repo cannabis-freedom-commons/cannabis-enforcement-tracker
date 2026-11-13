@@ -161,6 +161,11 @@ sources:
     publisher: Prima Pagina
     date: 2026-11-12
     language: ro
+  - title: Wiz Khalifa, rejudecat după ce a fumat canabis la Costinești. Rapperul american ar putea face muncă în folosul comunității în România
+    url: https://www.romaniatv.net/wiz-khalifa-rejudecat-dupa-ce-a-fumat-canabis-la-costinesti-rapperul-american-ar-putea-face-munca-in-folosul-comunitatii-in-romania_9915442.html
+    publisher: Romania TV
+    date: 2026-11-12
+    language: ro
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/c93wxp2p05xo
@@ -194,11 +199,11 @@ Judges said the public consumption at a youth festival normalised illegal drug u
 
 The charge was personal possession, not trafficking, under Law 143/2000. [@1,2]
 
-On 3 November the Constanta Court of Appeal set aside the decision that had convicted American rapper Wiz Khalifa in Romania for smoking cannabis on the stage of the Beach, Please! festival at Costinesti. [@3] The judges admitted the artist's contestation in annulment against penal decision No. 1222/P of 18 December 2025 in case No. 7777/118/2024. [@3,4,6,7,9] With that ruling the prison-execution warrant issued by the Constanta Tribunal also falls. [@3,5,6,7,9,10,11,12,14,15,16,17,18,19,20,21,22,23] The cancelled prison-execution warrant was No. 269 of 18 December 2025. [@22] The DIICOT prosecutors' appeal will be heard again on 12 November 2026 at 16:00, and the court ordered steps for Wiz Khalifa to take part by videoconference. [@3,4,7,10,11,12,13,14,16,17,18,19,20,21,22,23] The retrial hearing went ahead on 12 November 2026, with Wiz Khalifa heard by videoconference from 16:00. [@24] State-advanced court costs remain on him. [@3,21]
+On 3 November the Constanta Court of Appeal set aside the decision that had convicted American rapper Wiz Khalifa in Romania for smoking cannabis on the stage of the Beach, Please! festival at Costinesti. [@3] The judges admitted the artist's contestation in annulment against penal decision No. 1222/P of 18 December 2025 in case No. 7777/118/2024. [@3,4,6,7,9] With that ruling the prison-execution warrant issued by the Constanta Tribunal also falls. [@3,5,6,7,9,10,11,12,14,15,16,17,18,19,20,21,22,23] The cancelled prison-execution warrant was No. 269 of 18 December 2025. [@22] The DIICOT prosecutors' appeal will be heard again on 12 November 2026 at 16:00, and the court ordered steps for Wiz Khalifa to take part by videoconference. [@3,4,7,10,11,12,13,14,16,17,18,19,20,21,22,23] The retrial hearing went ahead on 12 November 2026, with Wiz Khalifa heard by videoconference from 16:00. [@24,27] State-advanced court costs remain on him. [@3,21]
 
 On 3 November the Bucharest Court of Appeal admitted Khalifa's contestation in annulment and set aside the Constanța Court of Appeal's penal decision of 18 December 2025. [@6,8,9,10,12,13,14,15,16,17,18,19,20] At Khalifa's request, the High Court of Cassation and Justice transferred the annulment file from the Constanța Court of Appeal to the Bucharest Court of Appeal for judgment. [@6,8,12,13,14,15,23]
 
-The appeal retrial will take place at the Bucharest Court of Appeal. [@7,9,10,11] The Bucharest Court of Appeal judges are expected to issue a decision in the case by the end of November 2026. [@26] He also told the magistrates he was willing to perform community service in Romania, and that he had donated and would continue to donate to organisations fighting drug use. [@25] He was heard for 10 to 15 minutes, admitted his guilt, and said he regretted the act. [@24]
+The appeal retrial will take place at the Bucharest Court of Appeal. [@7,9,10,11] The Bucharest Court of Appeal judges are expected to issue a decision in the case by the end of November 2026. [@26,27] He also told the magistrates he was willing to perform community service in Romania, and that he had donated and would continue to donate to organisations fighting drug use. [@25,27] He was heard for 10 to 15 minutes, admitted his guilt, and said he regretted the act. [@24,27]
 
 In May, Romanian Police placed him on the general search list under the warrant issued in his name. [@12] The transfer request was filed in mid-September on defence arguments about ensuring an impartial judgment. [@12]
 
