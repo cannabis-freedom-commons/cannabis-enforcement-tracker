@@ -93,6 +93,11 @@ sources:
     publisher: Diario de Pernambuco
     date: 2026-11-12
     language: pt
+  - title: Polícia Militar erradica plantio com mais de 26 mil pés de maconha no Sertão de Pernambuco
+    url: https://liberdade.com.br/policia-militar-erradica-plantio-com-mais-de-26-mil-pes-de-maconha-no-sertao-de-pernambuco/
+    publisher: Liberdade FM - 94.7
+    date: 2026-11-13
+    language: pt
 open_questions:
     - The area of the planting and the weight of the cannabis material seized were not published.
     - The report names no charge or court outcome for the arrested suspect.
@@ -101,7 +106,7 @@ open_questions:
 Military police of the 7ª CIPM eradicated a planting of 26,200 cannabis plants
 in the rural zone of Santa Maria da Boa Vista, in the sertão of Pernambuco, on
 the night of Wednesday 11 November 2026. [@1,5,6] Three people were in the area when
-the teams arrived, but only one was arrested in the act. [@1,4,5] The other two
+the teams arrived, but only one was arrested in the act. [@1,4,5,7] The other two
 suspects fled and were not found. [@1,4,5,6] The arrested suspect and the seized
 material were taken to the Civil Police station in Cabrobó, where the applicable
 measures were taken. [@1,4,5,6]
@@ -109,7 +114,7 @@ measures were taken. [@1,4,5,6]
 The action was the 20th phase of Operation Carcará, after an intelligence survey
 by the unit, with support from the Malhas da Lei team and the Federal Police.
 [@2,5,6] Officers found 9,400 cannabis plants at harvest stage and 16,800 seedlings.
-[@1,4,5,6] Part of the material was collected and presented to the police authority.
+[@1,4,5,6,7] Part of the material was collected and presented to the police authority.
 [@1,5] The rest of the planting was burned by the officers on the land itself.
 [@1,5,6]
 
