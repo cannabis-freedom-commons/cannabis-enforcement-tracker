@@ -56,6 +56,16 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-11
     language: hi
+  - title: बैजनाथ में दो लोगों से 1 किलो 107 ग्राम चरस की खेप बरामद, चंबा से दो आरोपी गिरफ्तार
+    url: https://vocaltv.in/crime/kangra-police-recovered-cannabphp/cid19518388.htm
+    publisher: Vocal TV
+    date: 2026-11-12
+    language: hi
+  - title: 'कांगड़ा : बैजनाथ में दो लोगों से 1 किलो 107 ग्राम चरस की खेप बरामद, चंबा से दो आरोपी गिरफ्तार'
+    url: https://himachaldastak.com/baijnath-police-seize-charas-two-arrested-from-chamba/
+    publisher: Himachal Dastak
+    date: 2026-11-12
+    language: hi
 open_questions:
   - No value was published for the 1.107 kg of charas.
   - The reports do not say whether the two men were produced in court or remanded to custody.
@@ -65,18 +75,17 @@ open_questions:
 ---
 
 Officers of the CIA team of Kangra district police arrested two men with 1.107
-kg of charas, a cannabis resin, in the Sokru Dam area of Baijnath. [@1] Both are
+kg of charas, a cannabis resin, in the Sokru Dam area of Baijnath. [@1,3] Both are
 from Kaila village in the Bharmaur area of Chamba district and are aged 45 and
-46. [@2] The operation took place on Wednesday, 11 November 2026. [@2]
+46. [@2,4] Police named the two as Kewal Kumar and Nek Chand, both of Kaila village in Bharmour tehsil, Chamba district. [@3] The operation took place on Wednesday, 11 November 2026. [@2,3]
 
 Police said the CIA team had received a tip-off about charas trafficking and
 stopped the two men for questioning during a patrol and checking in the area
-under Baijnath police station. [@2] A search found 1 kg 107 g of charas on them.
-[@2]
+under Baijnath police station. [@2,3] The superintendent said the two had been seen walking about suspiciously near the dam. [@3] A search found 1 kg 107 g of charas on them.
+[@2,3]
 
 Kangra Superintendent of Police Kulbhushan Verma said a case was registered
 against both at Baijnath police station under the Narcotic Drugs and
-Psychotropic Substances (NDPS) Act, India's narcotics law. [@2] Police took the
-charas into custody. [@1] Police were still questioning the two about where they
-had obtained the charas and where it was to be supplied. [@2]
-
+Psychotropic Substances (NDPS) Act, India's narcotics law. [@2,4] Police took the
+charas into custody. [@1,3] Police were still questioning the two about where they
+had obtained the charas and where it was to be supplied. [@2,3]
