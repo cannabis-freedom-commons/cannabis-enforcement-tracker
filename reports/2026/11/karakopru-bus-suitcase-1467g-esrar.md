@@ -53,19 +53,49 @@ sources:
     publisher: Haber365
     date: 2026-11-12
     language: tr
+  - title: Şanlıurfa’da otobüsteki valizden 1 Kilo 467 gram esrar çıktı
+    url: https://www.urfanatik.com/video/sanliurfada-otobusteki-valizden-1-kilo-467-gram-esrar-cikti
+    publisher: Urfanatik
+    date: 2026-11-12
+    language: tr
+  - title: Şanlıurfa’da yolcu valizinden uyuşturucu çıktı
+    url: https://www.urfadegisim.com.tr/sanliurfada-yolcu-valizinden-uyusturucu-cikti/169640
+    publisher: Urfa Değişim
+    date: 2026-11-12
+    language: tr
+  - title: Şanlıurfa'da yolcu otobüsünde 1,5 kilogram uyuşturucu madde bulundu
+    url: https://www.gazetevatan.com/yerel-haberler/sanliurfa/sanliurfada-yolcu-otobusunde-1-5-kilogram-uyus-2464016
+    publisher: Gazete Vatan
+    date: 2026-11-12
+    language: tr
+media:
+  - kind: video
+    url: https://www.urfanatik.com/video/sanliurfada-otobusteki-valizden-1-kilo-467-gram-esrar-cikti
+    media_url: https://urfanatikcom.tevideo.org/urfanatik-com/uploads/2026/11/otobuste-arama.mp4
+    publisher: Urfanatik
+    caption: 'Video of the search of the intercity passenger bus, published with Urfanatik''s report of the suitcase seizure in Karaköprü. Video: Urfanatik'
+  - kind: photo
+    url: https://www.gazetevatan.com/yerel-haberler/sanliurfa/sanliurfada-yolcu-otobusunde-1-5-kilogram-uyus-2464016
+    media_url: https://image.gazetevatan.com/i/gazetevatan/75/1200x675/6af57e06bc5b28be5b318728.jpg
+    publisher: Gazete Vatan
+    caption: 'Anadolu Agency photo published with the governorate account of the Karaköprü bus search. The dispatch says the shared images show a narcotics dog searching the luggage compartment and the cannabis taken from the suitcase. Photo: AA / Müslüm Etgü'
+open_questions:
+  - Anadolu Agency's lead sentence describes the find as 1.5 kilograms of narcotics, while the body of that dispatch and the gendarmerie accounts state 1 kilogram 467 grams of esrar.
+  - No named charge, court date or outcome was reported for the detained passenger, who was identified only by initials.
+  - The exact spot where the bus was stopped was not named beyond the city entrance on the Diyarbakır-Şanlıurfa highway in Karaköprü.
 ---
 
 Şanlıurfa provincial gendarmerie teams stopped a passenger bus on the
 Diyarbakır-Şanlıurfa highway in Karaköprü district during an operation against
-narcotics. [@1,3] A detector dog supported the search of the bus's luggage
-compartment. [@2,3]
+narcotics. [@1,3,4] The bus was stopped at the city entrance and searched. [@6] The Karaköprü District Gendarmerie Command and the narcotics branch carried out the operation on 9 November 2026. [@5] A detector dog supported the search of the bus's luggage
+compartment. [@2,3,4,6]
 
 A search of a suitcase belonging to a passenger identified by his initials İ.K.
-found 1 kilogram 467 grams of esrar, the Turkish term for cannabis. [@1,3] Sabah
+found 1 kilogram 467 grams of esrar, the Turkish term for cannabis. [@1,3,4,5,6] Sabah
 reported the same seizure of 1 kilogram 467 grams of esrar from the passenger's
 suitcase. [@2]
 
 The suspect was taken into custody and held by gendarmerie teams pending
-referral to judicial authorities. [@1,3] The Şanlıurfa provincial gendarmerie
+referral to judicial authorities. [@1,3,4] The suspect was taken to the Karaköprü District Gendarmerie Command for processing. [@6] The Şanlıurfa provincial gendarmerie
 command said its work against narcotics would continue without interruption.
-[@1]
+[@1,4]
