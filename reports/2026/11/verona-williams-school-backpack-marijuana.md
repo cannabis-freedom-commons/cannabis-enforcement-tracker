@@ -52,19 +52,15 @@ sources:
     url: https://www.yahoo.com/news/us/articles/woman-arrested-sending-package-marijuana-225418242.html
     publisher: Yahoo
     date: 2026-11-12
-open_questions:
-  - The accounts say the incident was Wednesday morning and were published on Thursday 12 November 2026; 11 November 2026 is that Wednesday and is used as the incident date.
-  - CBS Pittsburgh, citing court records, said Williams posted bail, while a later WPXI account said she remained in the Allegheny County Jail unable to post bond.
-  - No bail amount or preliminary hearing date beyond later this month was given in the opened accounts.
-  - The police department that filed the complaint was not named.
-  - No weighed amount of the suspected marijuana was published; the package label read Lemon Cherry Sherbert 14G Littles Hybrid.
-  - The age of the child whose backpack held the package was not stated; the 13-year-old is named only in a separate assault case.
-  - The August assault case is a separate prosecution, and these accounts do not say it involved cannabis.
+  - title: Pittsburgh-area mom charged after suspected marijuana found inside her child
+    url: https://cedarnews.net/newstasks/1138934/pittsburgh-area-mom-charged-suspected-marijuana-found/
+    publisher: Cedar News
+    date: 2026-11-12
 ---
 
 A mother from Verona Borough is facing charges after police said suspected
 marijuana was found inside her child's backpack at school earlier this week.
-[@1] Kylie Williams, 30, faces child endangerment charges over the incident on
+[@1,3] Kylie Williams, 30, faces child endangerment charges over the incident on
 Wednesday morning at Verner Elementary School. [@1] According to a criminal
 complaint, an officer was already at the school for an unrelated matter when the
 principal asked to speak to him. [@1] The principal told the officer that a
@@ -74,19 +70,18 @@ marijuana inside the student's bag. [@1] Staff then took the bag with the
 suspected marijuana to the principal's office. [@2]
 
 Police said the package was labeled "Lemon Cherry Sherbert 14G Littles Hybrid"
-and had Williams' name on it. [@1] A label also showed the date and place of
+and had Williams' name on it. [@1,3] A label also showed the date and place of
 purchase and identified Williams as the customer. [@2] Williams asked for the
-package to be returned and said no one needed to know about the incident. [@1]
+package to be returned and said no one needed to know about the incident. [@1,3]
 She later told police she had accidentally placed the package in the child's
 bookbag before school. [@2]
 
 Williams was taken to the Allegheny County Jail. [@1] CBS Pittsburgh, citing
-court records, said she posted bail. [@1] A later WPXI account said she remained
+court records, said she posted bail. [@1,3] A later WPXI account said she remained
 in the Allegheny County Jail, unable to post bond. [@2] A preliminary hearing is
-scheduled for later this month. [@1] Court records show a separate ongoing case
-alleging a physical assault against her 13-year-old child. [@1] WPXI said that
+scheduled for later this month. [@1,3] Court records show a separate ongoing case
+alleging a physical assault against her 13-year-old child. [@1,3] WPXI said that
 August case included child endangerment and assault charges after police said
 she put one of her children in a chokehold and body-slammed them, injuring an
 arm, and that the injured child was placed in foster care while the other
 children remained with her. [@2]
-
