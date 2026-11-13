@@ -71,6 +71,10 @@ sources:
     url: https://fox59.com/video/smoke-shop-raid-leads-to-felony-charges-against-a-local-hemp-dealer/12342240/
     publisher: Fox 59
     date: 2026-11-05
+  - title: Indiana hemp grower arrested, charged with felonies. But did he actually break any laws?
+    url: https://www.msn.com/en-us/money/other/indiana-hemp-grower-arrested-charged-with-felonies-but-did-he-actually-break-any-laws/ar-AA2hjXmB
+    publisher: WTHR
+    date: 2026-11-13
 open_questions:
   - No precise plant number was published beyond hundreds of marijuana plants, so no plants_destroyed figure is recorded.
   - No cannabis weight, area, value or THC-test result was published for the farm plants or the shop products, so no kilogram or value figure is recorded.
@@ -89,7 +93,7 @@ open_questions:
 
 Felony drug charges have been filed in Hancock County against a local hemp
 dealer who runs a dispensary in Fountain Square. [@1,2,3,5] The dealer was identified
-as Adam King, who faces two felony counts of dealing marijuana. [@1,3,4] King spoke
+as Adam King, who faces two felony counts of dealing marijuana. [@1,3,4,6] King spoke
 out against the charges a day after he was released from jail. [@1,3] He spent
 nearly a week behind bars before being released on bond pending trial after an
 initial hearing on Wednesday. [@1,3,4]
@@ -100,7 +104,7 @@ Virginia Avenue last year. [@1,3,4] Surveillance footage, recorded in late Octob
 shows numerous Hancock County SWAT officers, State Excise Police and the Metro
 Drug Task Force raiding a farm in Hancock County. [@1,3,4] Court records claim
 hundreds of marijuana plants were seized in the raid. [@1,3,4] King claims police
-also raided his shop and cleared out his shelves. [@1,3] Investigators claim
+also raided his shop and cleared out his shelves. [@1,3,6] Investigators claim
 samples taken from some of the undercover buys at the store included products
 with more THC than is legal, but King has not been charged with any crimes in
 Marion County. [@1,3,4]
