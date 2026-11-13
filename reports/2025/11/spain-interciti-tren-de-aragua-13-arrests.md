@@ -52,29 +52,32 @@ sources:
     publisher: Infobae
     date: 2025-11-07
     language: es
-open_questions:
-  - No number of plants, weight or area for the indoor marijuana plantation was published, so no cannabis quantity can be recorded.
-  - Quantities of synthetic drugs and cocaine were reported only as various quantities and are excluded from cannabis figures.
-  - No separate cannabis-only valuation was published, so no value is recorded.
-  - The sources give 7 November 2025 as the announcement date with no separate raid date, so that date is used as the incident date.
-  - Público and RTVE place a non-Catalan arrest in Valencia while Deutsche Welle writes 'Valencia (levante)'; the city is recorded without a separate arrest in Girona's case.
-  - Infobae says a firearm was seized where Deutsche Welle says a prohibited weapon, and the other accounts describe 'an arma' generally.
-  - No charges or trial outcome were reported beyond four suspects remanded in pre-trial custody, and the investigation was described as continuing.
+  - title: La célula desarticulada del Tren de Aragua 'cocinaba' la droga en un piso de El Cañaveral
+    url: https://www.telemadrid.es/programas/telenoticias-fin-de-semana/La-celula-desarticulada-del-Tren-de-Aragua-cocinaba-la-droga-en-un-piso-de-El-Canaveral-2-2832636713--20251108023705.html
+    publisher: Telemadrid
+    date: 2025-11-08
+    language: es
+media:
+  - kind: photo
+    url: https://www.telemadrid.es/programas/telenoticias-fin-de-semana/La-celula-desarticulada-del-Tren-de-Aragua-cocinaba-la-droga-en-un-piso-de-El-Canaveral-2-2832636713--20251108023705.html
+    media_url: https://static.telemadrid.es/clip/be2c809c-e230-4cc4-adfc-8660de5b3ffb_16-9-aspect-ratio_1600w_0.webp
+    publisher: Telemadrid
+    caption: 'The dismantled drug laboratory in the El Cañaveral flat. Photo: Policía Nacional'
 ---
 
 Spanish police detained thirteen suspected members of the first Tren de Aragua
 cell established in Spain. [@1] Eight were arrested in Barcelona, two in Madrid
-and one each in Girona, A Coruña and Valencia. [@1] Four of those arrested were
+and one each in Girona, A Coruña and Valencia. [@1,5] Four of those arrested were
 remanded in pre-trial prison by order of judge Antonio Piña of the Audiencia
-Nacional. [@3] The Interciti investigation began the previous year with the
+Nacional. [@3,5] The Interciti investigation began the previous year with the
 arrest in Barcelona of the brother of the organisation's global leader. [@1]
 
 An earlier phase in Barcelona in March 2024 took in the brother of Niño
-Guerrero, the organisation's international leader. [@4] Officers carried out
+Guerrero, the organisation's international leader. [@4,5] Officers carried out
 five searches in Barcelona, Madrid, A Coruña and Girona. [@3] Those searches
 seized various quantities of synthetic drugs and cocaine together with an indoor
 marijuana plantation, the cannabis component recorded here. [@1] Officers also
-dismantled two laboratories used to make pink cocaine known as tusi. [@2]
+dismantled two laboratories used to make pink cocaine known as tusi. [@2,5] One dismantled tusi laboratory was in a flat in El Cañaveral, identified as a command centre, and the other was in the Raval and Arc de Triomf area of Barcelona. [@5]
 Officers also seized telephones, documents and a prohibited weapon in the
 searches. [@1]
 
@@ -88,4 +91,3 @@ homes and storing cocaine for trafficking. [@3]
 
 Police said inquiries continue to detect other members of the network and to
 analyse the seized effects and international ramifications. [@2]
-
