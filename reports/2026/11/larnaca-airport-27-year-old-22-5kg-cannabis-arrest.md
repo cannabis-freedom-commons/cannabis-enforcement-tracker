@@ -88,24 +88,27 @@ sources:
     publisher: ΡΙΚ (Cyprus Broadcasting Corporation)
     date: 2026-11-12
     language: el
-open_questions:
-  - The RIK account gives 22 kg of cannabis, while Philenews and the other reporting give about 22.5 kg; the report uses the majority 22.5 kg figure.
+  - title: Ήρθε με φορτωμένες βαλίτσες κι έφυγε με χειροπέδες - Συνελήφθη 27χρονος με 22,5 κιλά κάνναβη στο Αεροδρόμιο (φώτο)
+    url: https://www.politis.com.cy/astynomiko/1067643/irthe-me-fortomenes-valitses-ki-efighe-me-kheiropedes-sinelifthi-27khronos-me-225-kila-kannavi-sto-aerodromio-fwto
+    publisher: ΠΟΛΙΤΗΣ - Τα λέει όλα
+    date: 2026-11-12
+    language: el
 ---
 
 A 27-year-old man was arrested at Larnaca airport on Thursday morning after
-about 22.5 kilograms of cannabis was found in his luggage. [@1,4,5,6,7] He had arrived
+about 22.5 kilograms of cannabis was found in his luggage. [@1,4,5,6,7,8] He had arrived
 on a flight from Bangkok via Doha and was stopped for a check after drug squad
 officers assessed information they had received. [@1,4] Philenews described the
 arrested man as a British national. [@1] Kıbrıs Postası also described the arrested man as a British national. [@4] The Cyprus Mail reported instead that
 he was a Thai national. [@3]
 
 The operation was carried out by the Anti-Drugs Unit (YKAN) of the Directorate
-for Combating Organised Crime (DAOE), together with customs officials. [@1,4,5,6,7] A
+for Combating Organised Crime (DAOE), together with customs officials. [@1,4,5,6,7,8] A
 search of his travel bag found 42 plastic packages of cannabis. [@1,4,5,6,7] SigmaLive
 English described the packages as 42 nylon packages holding about 22.5 kilograms
 in total. [@2] The Cyprus Mail reported that customs seized the drugs and handed
 them over to YKAN. [@3]
 
 He was arrested for illegal importation, illegal possession and possession of
-drugs with intent to supply. [@1,4,5,6,7] DAOE-YKAN is continuing its investigation.
+drugs with intent to supply. [@1,4,5,6,7,8] DAOE-YKAN is continuing its investigation.
 [@1,4,5,6]
