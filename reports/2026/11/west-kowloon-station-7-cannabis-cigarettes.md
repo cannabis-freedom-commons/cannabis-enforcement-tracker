@@ -51,12 +51,11 @@ sources:
     publisher: 海关发布
     date: 2026-11-12
     language: zh
-open_questions:
-  - The article says only 近日 and gives no separate seizure date, so 12 November 2026, the publication date, is used as the incident date.
-  - The 4.2 grams is expressly a gross weight for the seven cigarettes, and no net cannabis weight or THC content was published, so the kilograms figure records that gross weight.
-  - The traveller's sex, age, nationality and travel origin were not published.
-  - No detention, arrest, charge or court outcome was reported beyond the interception and the transfer to the anti-smuggling department.
-  - Only one accessible source for this event was found; it is China Customs' own release, so the seizure is not independently corroborated.
+  - title: 西九龍站海關在旅客煙盒檢獲7支大麻煙 羅湖與白雲機場同期揭發藏毒
+    url: https://www.gotrip.hk/%e4%ba%ba%e6%b0%a3%e8%a9%b1%e9%a1%8c/%e8%a5%bf%e4%b9%9d%e9%be%8d%e7%ab%99%e6%b5%b7%e9%97%9c%e5%9c%a8%e6%97%85%e5%ae%a2%e7%85%99%e7%9b%92%e6%aa%a2%e7%8d%b27%e6%94%af%e5%a4%a7%e9%ba%bb%e7%85%99-%e7%be%85%e6%b9%96%e8%88%87%e7%99%bd%e9%9b%b2-1917197/
+    publisher: GOtrip.hk
+    date: 2026-11-13
+    language: zh
 ---
 
 West Kowloon Station is the Hong Kong terminus of the high-speed rail line to
@@ -66,10 +65,10 @@ customs control area without declaring anything. [@1] Officers intercepted the
 traveller because they looked around and behaved unusually at the checkpoint.
 [@1] A search of the cigarette box in the traveller's left trouser pocket found
 seven suspected hand-made cannabis cigarettes that gave off a distinctive smell.
-[@1] Customs recorded the cigarettes as weighing 4.2 grams gross. [@1]
+[@1,2] Customs recorded the cigarettes as weighing 4.2 grams gross. [@1,2]
 
 A specialist institution tested the seven cigarettes and detected
-tetrahydrocannabinol (THC) in all of them. [@1] The case has been handed to the
+tetrahydrocannabinol (THC) in all of them. [@1,2] The case has been handed to the
 customs anti-smuggling department. [@1]
 
 Customs reminded travellers that Chinese law lists cannabis with opium, heroin,
@@ -77,4 +76,3 @@ methamphetamine, morphine and cocaine among narcotics and other controlled
 substances that can cause addiction. [@1] It said smuggling, selling,
 transporting or manufacturing drugs carries criminal liability and punishment
 whatever the quantity. [@1]
-

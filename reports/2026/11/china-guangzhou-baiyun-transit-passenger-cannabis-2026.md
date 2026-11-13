@@ -81,15 +81,20 @@ sources:
     publisher: 凤凰网
     date: 2026-11-13
     language: zh
+  - title: 西九龍站海關在旅客煙盒檢獲7支大麻煙 羅湖與白雲機場同期揭發藏毒
+    url: https://www.gotrip.hk/%e4%ba%ba%e6%b0%a3%e8%a9%b1%e9%a1%8c/%e8%a5%bf%e4%b9%9d%e9%be%8d%e7%ab%99%e6%b5%b7%e9%97%9c%e5%9c%a8%e6%97%85%e5%ae%a2%e7%85%99%e7%9b%92%e6%aa%a2%e7%8d%b27%e6%94%af%e5%a4%a7%e9%ba%bb%e7%85%99-%e7%be%85%e6%b9%96%e8%88%87%e7%99%bd%e9%9b%b2-1917197/
+    publisher: GOtrip.hk
+    date: 2026-11-13
+    language: zh
 ---
 
 Guangzhou customs seized 20.051 kg of cannabis in the passenger-inspection
 channel at Guangzhou Baiyun International Airport, according to a Guangzhou
 Customs notice. [@1,2,4,5,6] Baiyun airport customs officers were screening
 international transit passengers when one traveller's luggage X-ray image looked
-abnormal, and they stopped and searched that passenger. [@1,3,5,6] The suitcase held
+abnormal, and they stopped and searched that passenger. [@1,3,5,6,7] The suitcase held
 nothing but plastic-bag, vacuum-packed brown-green plant material that gave off
-a strong irritant smell when opened. [@1,2,3,5,6] A technical institution tested the
+a strong irritant smell when opened. [@1,2,3,5,6,7] A technical institution tested the
 material and confirmed it was cannabis weighing 20.051 kg. [@1,3,6]
 
 The Chinese reports put the seizure at more than 40 jin, a traditional unit of
