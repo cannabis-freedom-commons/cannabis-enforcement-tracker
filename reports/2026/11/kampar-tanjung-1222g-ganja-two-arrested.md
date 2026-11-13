@@ -41,6 +41,11 @@ media:
     media_url: https://delapanmedia.sgp1.digitaloceanspaces.com/riauaktual/9901791416-whatsapp-image-2026-11-06-at-13-26-26.jpeg
     publisher: RiauAktual
     caption: Seized 1.2 kg of dried ganja and 11.86 grams of meth held by Kampar narcotics officers.
+  - kind: photo
+    url: https://riauaktual.com/amp/detail/124216/bandar-narkoba-di-kampar-ditangkap-ganja-12-kg-disembunyikan-di-toko-dan-kandang-ayam
+    media_url: https://delapanmedia.sgp1.digitaloceanspaces.com/riauaktual/5033628129-whatsapp-image-2026-11-12-at-13-45-17.jpeg
+    publisher: RiauAktual
+    caption: 'The two suspects and the evidence they were held with by Kampar narcotics police, including ganja hidden in the shop floor, behind goods on the display counter and in the chicken coop at the back of the building. Photo: RiauAktual'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5523477ae1e0015a1bb8cd2f03ad5731
@@ -66,33 +71,38 @@ sources:
     publisher: KabarDuri
     date: 2026-11-06
     language: id
+  - title: Bandar Narkoba di Kampar Ditangkap, Ganja 1,2 Kg Disembunyikan di Toko dan Kandang Ayam
+    url: https://riauaktual.com/amp/detail/124216/bandar-narkoba-di-kampar-ditangkap-ganja-12-kg-disembunyikan-di-toko-dan-kandang-ayam
+    publisher: RiauAktual
+    date: 2026-11-12
+    language: id
 open_questions:
-  - Halo Terkini describes both men as suspected dealers while RiauAktual and Haluan Riau distinguish MK as the courier and HH as the dealer; this report follows the distinction.
-  - Haluan Riau gives MK's residence as Dusun III Tanjung while Halo Terkini gives Desa Tanjung generally; the arrest roadside in Dusun I Tanjung is consistent.
-  - No trial outcome was reported; both suspects were held at Polres Kampar for investigation.
-  - Suppliers AD and WY from Rokan Hulu were named but no arrest was reported.
+    - Suppliers AD and WY from Rokan Hulu were named but no arrest was reported.
+    - No trial outcome was reported; both suspects were held at Polres Kampar for investigation.
+    - Halo Terkini describes both men as suspected dealers while RiauAktual and Haluan Riau distinguish MK as the courier and HH as the dealer; this report follows the distinction.
+    - Haluan Riau gives MK's residence as Dusun III Tanjung while Halo Terkini gives Desa Tanjung generally; the arrest roadside in Dusun I Tanjung is consistent.
 ---
 
 Kampar narcotics officers broke up an alleged trafficking case involving
-methamphetamine and dried cannabis leaf. [@1] Officers detained two Tanjung
-village residents, MK aged 24 and HH aged 34, in Koto Kampar Hulu. [@1,4] Police
-described MK as the suspected courier and HH as the suspected dealer. [@2] The
+methamphetamine and dried cannabis leaf. [@1,5] Officers detained two Tanjung
+village residents, MK aged 24 and HH aged 34, in Koto Kampar Hulu. [@1,4,5] Police
+described MK as the suspected courier and HH as the suspected dealer. [@2,5] The
 operation took place on Wednesday 4 November 2026 at about 22.45 on a roadside
-in Dusun I Tanjung, Tanjung village. [@1,4]
+in Dusun I Tanjung, Tanjung village. [@1,4,5]
 
 Officers first stopped MK on the roadside in Dusun I Tanjung. [@3] A search
 witnessed by village officials found one packet of dried ganja weighing 22.36
-grams in MK's back trouser pocket along with two mobile phones. [@1] Officers
-then moved to HH's house and shop in Dusun I Tanjung at about 23.00. [@1] There
+grams in MK's back trouser pocket along with two mobile phones. [@1,5] Officers
+then moved to HH's house and shop in Dusun I Tanjung at about 23.00. [@1,5] There
 they seized three packets of dried ganja totalling 1,200 grams and one meth
 packet weighing 11.86 grams, along with a digital scale, wrapping equipment and
-a phone. [@1]
+a phone. [@1,5]
 
 In total, police logged 1,222.36 grams of dried ganja and 11.86 grams of meth in
-the operation. [@1,4] MK told officers he had obtained the cannabis from HH, and
+the operation. [@1,4,5] MK told officers he had obtained the cannabis from HH, and
 his urine test was positive for THC. [@1,4] HH admitted acting as a dealer and
 said his supply came from AD and WY in Rokan Hulu, while his urine was positive
-for methamphetamine and THC. [@1,4] Both suspects were taken to Kampar police
+for methamphetamine and THC. [@1,4] Polres Kampar chief AKBP Boby Putra Ramadhan Sebayang, speaking through Kasat Resnarkoba Iptu Rifles Bagariang, said the disclosure came from developing the arrest of a narcotics user. [@5] Both suspects were taken to Kampar police
 headquarters for further investigation. [@2] Police said both men were charged
 under Articles 111 and 114 of the 2009 Narcotics Law in conjunction with the
 amended Criminal Code provisions. [@1,4]
