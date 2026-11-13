@@ -39,6 +39,11 @@ media:
     media_url: https://cadenaser.com/resizer/v2/KC666IHTEJDJNIXHJPVFLOGVZU.jpg?auth=9981c2d28a316a4474b522aacbdc53c58bb302a28e6a3ac5cbb77d7be7379a61&quality=70&width=768&height=576&smart=true
     publisher: Cadena SER
     caption: Seized items laid out after the Castro Urdiales vehicle inspection, in the published photo captioned 'Efectos intervenidos.'
+  - kind: photo
+    url: https://eldiariocantabria.publico.es/municipios/oriental/dos-detenidos-castro-urdiales-speed-suficiente-distribuir-800-dosis-ademas-hachis-marihuana-anfetaminas-porros/20261112105215201345.html
+    media_url: https://eldiariocantabria.publico.es/asset/thumbnail,1920,1080,center,center/media/eldiariocantabria/images/2026/11/12/2026111210495593413.jpg
+    publisher: El Diario Cantabria
+    caption: 'Seized drugs and cash from the Castro Urdiales vehicle inspection, published by the Guardia Civil. Photo: Guardia Civil'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: dfe1010058882693c96fe5fcd10aab99
@@ -69,14 +74,15 @@ sources:
     publisher: CANTABRIA RADIO
     date: 2026-11-12
     language: es
-open_questions:
-    - Europa Press puts the hashish at more than 90 grams, while the Guardia Civil wording carried by other accounts puts it at around 90 grams; the report keeps about 90 grams.
-    - The same note describes a separate late-October stop in Santillana del Mar, where a 25-year-old man was arrested with 5 grams of hashish in small pieces, a 50-gram tablet and a precision scale; that is a different event and is not included here.
-    - No names were published, and no court outcome was reported after the arrests.
+  - title: Dos detenidos en Castro Urdiales con speed suficiente para distribuir 800 dosis, además de hachís, marihuana, anfetaminas y porros
+    url: https://eldiariocantabria.publico.es/municipios/oriental/dos-detenidos-castro-urdiales-speed-suficiente-distribuir-800-dosis-ademas-hachis-marihuana-anfetaminas-porros/20261112105215201345.html
+    publisher: El Diario Cantabria
+    date: 2026-11-12
+    language: es
 ---
 
 The Guardia Civil arrested two men, aged 61 and 47, in Castro Urdiales,
-Cantabria. [@1,4] The arrest took place in the early hours of 8 November 2026,
+Cantabria. [@1,4,6] The arrest took place in the early hours of 8 November 2026,
 when a patrol carrying out citizen-security duties at an exit of the A-8
 motorway stopped the occupants of a suspicious vehicle. [@1,5] During the
 inspection officers found a one-kilo yoghurt pot in the boot hiding a bag with
@@ -85,7 +91,7 @@ more than 800 doses. [@1,4]
 
 In the vehicle and in a waist bag officers also seized about 90 grams of
 hashish, 34 grams of marijuana, amphetamines, ready-made joints and cash in
-notes of different denominations. [@1,5] The hashish was part of a tablet and several pieces. [@4] Officers seized a kitchen cleaver with
+notes of different denominations. [@1,5,6] The hashish was part of a tablet and several pieces. [@4] Officers seized a kitchen cleaver with
 drug residues and tools alleged to have been used to cut and dose drugs. [@1,4]
 Both men were arrested as alleged perpetrators of a public-health offence for
 drug trafficking, and the drugs and other items were seized. [@2,4]
