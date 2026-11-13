@@ -115,15 +115,11 @@ sources:
     publisher: 24 часа
     date: 2026-11-12
     language: bg
-open_questions:
-    - No official value for the shipment has been published; the several-million-euro figure remains unofficial.
-    - The field test indicated marijuana; no laboratory confirmation of the substance has been reported.
-    - The quantity is given as 497.90 kg gross; no net weight has been published.
-    - The driver's age is given as 51 by BTV and BNR Blagoevgrad and as 52 by 24 Chasa.
-    - Officials released only the initials V.M.; the full name Vangel Mitsev, reported by NewsPoint, has not been officially confirmed.
-    - No court decision on the prosecution's request to hold the driver in custody has been reported.
-    - The first BNR account placed the case two days before its 11 November publication, while the briefing and customs gave the morning of 10 November; the later date is used.
-    - Investigators were working on the theory that the cannabis came from Spain and was in transit toward Turkey; the intended recipient has not been established.
+  - title: Спипаха половин тон марихуана в български тир на Кулата
+    url: https://ilindenpres.bg/51243-spipaha-polovin-ton-marihuana-v-balgarski-tir-na-kulata/
+    publisher: Илинден Прес
+    date: 2026-11-12
+    language: bg
 media:
   - kind: photo
     url: https://nova.bg/news/view/2026/11/12/558968/%D0%B1%D0%BB%D0%B8%D0%B7%D0%BE-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD-%D1%82%D0%BE%D0%BD-%D0%BC%D0%B0%D1%80%D0%B8%D1%85%D1%83%D0%B0%D0%BD%D0%B0-%D0%BE%D1%82%D0%BA%D1%80%D0%B8%D1%85%D0%B0-%D0%B2-%D0%BA%D0%B0%D0%BC%D0%B8%D0%BE%D0%BD-%D1%81-%D0%BA%D0%BE%D0%BB%D0%B1%D0%B0%D1%81%D0%B8-%D0%B8-%D1%87%D1%83%D1%88%D0%BA%D0%B8-%D0%BD%D0%B0-%D0%BA%D1%83%D0%BB%D0%B0%D1%82%D0%B0-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8/
@@ -157,7 +153,7 @@ the prosecution service was carried out at the Kulata border checkpoint, where
 officers stopped a freight truck travelling on the designated entry lane into
 the country. [@1,6] The truck was entering Bulgaria from Greece. [@3,4,5,7,8,9,10,12,13] During the subsequent inspection of the heavy-goods truck
 combination, the checking officers found nearly 500 kilograms of marijuana in
-the transported load. [@1,6,7,10] Customs put the total gross weight at 497.90 kilograms, in 445 vacuum-packed packages. [@14] The Bulgarian driver was detained. [@2,3,5,7,11] NewsPoint named Vangel Mitsev of Plovdiv as the driver, and said investigators had not officially confirmed his identity. [@5] The driver has been charged and detained for 72 hours. [@4,8,9,12,13] The driver, a 51-year-old from Plovdiv, is charged over the shipment; the offence carries 10 to 15 years in prison and a fine of 100,000 to 200,000 euro. [@15] After the stop the driver was taken to the emergency department of MBAL Blagoevgrad on 10 November, shortly after 22:00, and remained in custody after a medical examination. [@5] The marijuana was found in a specially built hide in a freight vehicle driven by a Bulgarian driver. [@2,3,5,7,10,12] Inside the hide, inspectors found bags of dry plant material that a field test indicated was marijuana. [@12,13] Customs officers found an extra rear board on the trailer, with a hidden compartment behind it holding boxes of cannabis packages. [@5] Infomrezha expressly presented the nearly
+the transported load. [@1,6,7,10] The truck was first selected for X-ray screening, which showed a suspicious zone in the front of the refrigerated semi-trailer. [@17] Customs put the total gross weight at 497.90 kilograms, in 445 vacuum-packed packages. [@14,17] The Bulgarian driver was detained. [@2,3,5,7,11] NewsPoint named Vangel Mitsev of Plovdiv as the driver, and said investigators had not officially confirmed his identity. [@5] The driver has been charged and detained for 72 hours. [@4,8,9,12,13,17] The driver, a 51-year-old from Plovdiv, is charged over the shipment; the offence carries 10 to 15 years in prison and a fine of 100,000 to 200,000 euro. [@15] After the stop the driver was taken to the emergency department of MBAL Blagoevgrad on 10 November, shortly after 22:00, and remained in custody after a medical examination. [@5] The marijuana was found in a specially built hide in a freight vehicle driven by a Bulgarian driver. [@2,3,5,7,10,12] Inside the hide, inspectors found bags of dry plant material that a field test indicated was marijuana. [@12,13] Customs officers found an extra rear board on the trailer, with a hidden compartment behind it holding boxes of cannabis packages. [@5] Infomrezha expressly presented the nearly
 500-kilogram quantity as unofficial information provided to its own newsroom
 rather than as a confirmed official measurement. [@1]
 
