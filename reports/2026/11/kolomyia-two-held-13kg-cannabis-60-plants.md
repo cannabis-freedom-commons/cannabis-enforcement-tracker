@@ -77,6 +77,11 @@ sources:
     publisher: Firtka
     date: 2026-11-13
     language: uk
+  - title: 'На Коломийщині викрили наркоплантацію: вилучили канабісу на 8 мільйонів гривень (ФОТО)'
+    url: https://galka.if.ua/na-kolomyyshchyni-vykryly-narkoplantatsiiu-vyluchyly-kanabisu-na-8-milyoniv-hryven-foto/
+    publisher: Galka.if.ua
+    date: 2026-11-13
+    language: uk
 open_questions:
   - The submitted outlet and police report over 13 kg of cannabis while the prosecutor-derived account specifies more than 13.5 kg of dried cannabis; the report uses 13.5 kg.
   - The submitted outlet and police report more than 60 cannabis plants while the prosecutor-derived account specifies 60 plants; the report uses 60.
@@ -99,15 +104,15 @@ Kolomyia and to Sheparivtsi, where they dried it and stored it for sale. [@1,4] 
 Kolomyia police seized 7 buckets of plant material, and in Sheparivtsi, at the
 younger man's home, plastic wraps, packets and a container of crushed plant
 mass. [@1] Those searches recovered more than 13.5 kg of dried cannabis and 60
-cannabis plants. [@3] Police put the black-market value at no less than 8
+cannabis plants. [@3,5] Officers carried out 13 authorised searches at the suspects' and their relatives' homes in Kolomyia and Kolomyia district. [@5] Police put the black-market value at no less than 8
 million hryvnias and said the amount is an especially large amount. [@1,4]
 
 Police said the men planned to sell the bulk wholesale to other regions of
 Ukraine. [@1] They also sold hand-to-hand in Kolomyia district. [@1] Both men
-were detained on 9 November 2026. [@3]
+were detained on 9 November 2026. [@3,5]
 
 On 10 November prosecutors notified both men of suspicion of group manufacture,
-storage and transportation for sale under Part 3 of Article 307. [@3] The
+storage and transportation for sale under Part 3 of Article 307. [@3,5] The
 48-year-old organizer was additionally notified of illegal sowing and
 cultivation under Part 2 of Article 310. [@1] A court ordered both held in
-custody without bail. [@2,4]
+custody without bail. [@2,4,5] The men face up to twelve years in prison with confiscation of property. [@5]
