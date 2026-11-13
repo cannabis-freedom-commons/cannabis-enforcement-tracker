@@ -41,6 +41,11 @@ media:
     media_url: https://h13n.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-10-at-9.56.15-AM.jpeg
     publisher: Hora 13 Noticias
     caption: 'Police handout photograph of the man captured in Frontino. Photo: Policía de Antioquia via Hora 13 Noticias'
+  - kind: photo
+    url: https://analisisurbano.org/noticia/capturado-en-frontino-antioquia-con-marihuana-base-de-coca-y-bazuco-durante-control-policial
+    media_url: https://analisisurbano.org/api/public/s3/wp-content/uploads/2026/11/au-17a8a489-cbe1-481a-920c-eda70e071daf.jpg
+    publisher: Análisis Urbano
+    caption: 'Police image of the man captured in flagrancia during the control in the La Máquina sector of Frontino, Antioquia. Image: Policía de Colombia via Análisis Urbano'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7cdffd9a2c70b8c5de8e25b587f5e5f3
@@ -56,15 +61,22 @@ sources:
     publisher: Hora 13 Noticias
     date: 2026-11-10
     language: es
+  - title: Capturado en Frontino, Antioquia, con marihuana, base de coca y bazuco durante control policial
+    url: https://analisisurbano.org/noticia/capturado-en-frontino-antioquia-con-marihuana-base-de-coca-y-bazuco-durante-control-policial
+    publisher: Análisis Urbano
+    date: 2026-11-12
+    language: es
 open_questions:
   - The suspect was not publicly identified by name or age, and no measure of pre-trial detention or court ruling was reported.
   - The sources report the drug quantities based on preliminary police figures without citing laboratory confirmation.
+  - Left out arrested, as no supporting quotation was given.
+  - Left out kg seized, as no supporting quotation was given.
 ---
 
 A man was arrested in flagrante in the municipality of Frontino, in western
 Antioquia, after officers found several narcotic substances in his possession.
-[@1] The arrest took place on Monday, 9 November 2026, in the municipality's La
-Máquina sector. [@1] During the procedure, authorities seized 219 grams of
+[@1,3] The arrest took place on Monday, 9 November 2026, in the municipality's La
+Máquina sector. [@1] The intervention took place on Monday, 9 November, at 4:13 in the afternoon, in the La Máquina sector, while officers of the police station were carrying out registration and control of people. [@3] During the procedure, authorities seized 219 grams of
 marijuana along with 60 grams of coca base and 21 grams of bazuco, an unrefined
 paste derived from coca. [@1]
 
@@ -82,4 +94,3 @@ Colombian Penal Code, which penalises unauthorised possession and distribution
 of illegal drugs. [@1] The confiscated drugs were likewise placed at the orders
 of judicial authorities as physical evidence. [@1] Under Colombian law, the
 suspect is presumed innocent until a court establishes otherwise. [@1]
-
