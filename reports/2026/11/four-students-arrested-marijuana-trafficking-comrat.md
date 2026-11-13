@@ -76,6 +76,11 @@ sources:
     publisher: TV8.md
     date: 2026-11-11
     language: ru
+  - title: '(video) Colegii de facultate le-au fost clienți: Patru tineri din sudul țării, reținuți după ce ar fi vândut droguri studenților. Riscă până la 17 ani de pușcărie'
+    url: https://unimedia.info/ro/news/fe817f97d37c49a4/video-colegii-de-facultate-le-au-fost-clienti-patru-tineri-din-sudul-tarii-retinuti-dupa-ce-ar-fi-vandut-droguri-studentilor-risca-pana-la-17-ani-de-puscarie.html
+    publisher: UNIMEDIA
+    date: 2026-11-11
+    language: ro
 open_questions:
     - 'Accounts differ on where the four students were detained: TV8 reports a detention in Chișinău, while other accounts say two suspects were detained in Comrat.'
     - Deschide.md gives the possible prison term as up to 17 years, while the other accounts give 15 to 17 years.
@@ -89,9 +94,9 @@ media:
 
 Four young people, students in Chisinau and originally from southern Moldova,
 were detained in a drug-trafficking case after allegedly selling marijuana to
-fellow students and close acquaintances. [@1,4,5,6,9] The suspects were three young men
+fellow students and close acquaintances. [@1,4,5,6,9,10] The suspects were three young men
 and one young woman aged 19 to 22. [@2,5,6] The four suspects were placed in
-preventive arrest for 30 days. [@1,5,7,8,9]
+preventive arrest for 30 days. [@1,5,7,8,9,10]
 
 Police say officers of the Anti-Drug Directorate and criminal investigators of
 the National Investigation Inspectorate documented the group's activity over two
@@ -109,5 +114,5 @@ officers of the Fulger special-purpose police brigade. [@1,5]
 
 At the prosecutor's request, a court issued 30-day preventive-arrest warrants
 for all four suspects. [@2,4] If found guilty, they face prison sentences of 15 to
-17 years. [@1,4,5,6] Noi.md confirms officers documented the criminal activity of the
+17 years. [@1,4,5,6,10] Noi.md confirms officers documented the criminal activity of the
 three young men and one young woman over two months. [@3]
