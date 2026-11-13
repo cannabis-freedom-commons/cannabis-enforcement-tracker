@@ -50,6 +50,11 @@ sources:
     publisher: El Observatodo
     date: 2026-11-13
     language: es
+  - title: Carabineros decomisa más de 200 kilos de marihuana en Guanaqueros y supera los 700 kilos de droga incautada en una semana en la región | La Serena Online
+    url: https://laserenaonline.cl/2026/11/13/carabineros-decomisa-mas-de-200-kilos-de-marihuana-en-guanaqueros-y-supera-los-700-kilos-de-droga-incautada-en-una-semana-en-la-region/
+    publisher: La Serena Online
+    date: 2026-11-13
+    language: es
 open_questions:
   - Neither source reports an arrest, detention, or named suspect in the Guanaqueros check.
   - The check occurred on the Thursday before the 13 November 2026 publications, taken as 12 November 2026; no clock time was given.
@@ -57,15 +62,15 @@ open_questions:
 ---
 
 Specialist Carabineros officers of OS7 Coquimbo seized processed marijuana
-during a road check on Thursday in the Guanaqueros sector. [@1,3] Officers carried
+during a road check on Thursday in the Guanaqueros sector. [@1,3,4] Officers carried
 out the check at the toll entrance to the coastal town, where they inspected a
 white Chevrolet Prisma and found containers holding a large drug load inside.
-[@1,3] A second outlet confirms the Thursday operation took place at the toll
+[@1,3,4] A second outlet confirms the Thursday operation took place at the toll
 entrance to the coastal town, where officers inspected a white Chevrolet Prisma.
 [@2]
 
 Officers recovered 206 kilos and 546 grams of processed marijuana packed in 198
-packages and one bag. [@1,3] Carabineros valued the load at more than 1,650
+packages and one bag. [@1,3,4] Carabineros valued the load at more than 1,650
 million pesos. [@1,3] Police said the seizure kept more than 413,000 doses from
 reaching Coquimbo and cities in central and southern Chile. [@1,3]
 
