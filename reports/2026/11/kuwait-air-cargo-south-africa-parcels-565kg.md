@@ -94,6 +94,11 @@ sources:
     publisher: Madhyamam
     date: 2026-11-11
     language: ml
+  - title: '"الجمارك" تضبط 5.650 كيلوغرامات من مادة يُشتبه بأنها ماريغوانا في طردين قادمين من جنوب أفريقيا'
+    url: https://www.alanba.com.kw/1384320
+    publisher: جريدة الأنباء الكويتية
+    date: 2026-11-09
+    language: ar
 media:
   - kind: photo
     url: https://www.alanba.com.kw/1384402
@@ -108,15 +113,15 @@ media:
 ---
 
 Kuwait's Air Cargo Customs Department said its inspection and deposit control
-inspectors seized two parcels that arrived from South Africa. [@1,2,3,4,5,7,8,9,10] The parcels
+inspectors seized two parcels that arrived from South Africa. [@1,2,3,4,5,7,8,9,10,12] The parcels
 carried a substance suspected to be marijuana, described as herbal hashish,
-weighing 5.650 kilograms in total. [@1,2,3,4,5,6,8,10,11]
+weighing 5.650 kilograms in total. [@1,2,3,4,5,6,8,10,11,12]
 
 The parcels had been declared as ceiling lamps, and the inspectors found the
-suspected substance inside them after searching. [@1,2,3,4,5,8,10,11] After the seizure, the
+suspected substance inside them after searching. [@1,2,3,4,5,8,10,11,12] After the seizure, the
 customs search and investigation department coordinated with the Interior
 Ministry's General Department for Drug Control to complete the legal procedures
-for the seized parcels. [@1,2,3,4,5,8,10,11]
+for the seized parcels. [@1,2,3,4,5,8,10,11,12]
 
 The General Directorate of Customs said it would keep blocking drug-smuggling
 attempts through customs posts and working with security agencies. [@1]
