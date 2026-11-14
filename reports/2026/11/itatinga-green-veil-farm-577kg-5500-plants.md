@@ -82,24 +82,29 @@ sources:
     publisher: Alpha Notícias
     date: 2026-11-13
     language: pt
+  - title: Polícia apreende mais de 577 quilos de maconha e encontra 5,5 mil plantas em fazenda de Itatinga
+    url: https://acontecebotucatu.com.br/policia/policia-apreende-mais-de-577-quilos-de-maconha-e-encontra-55-mil-plantas-em-fazenda-de-itatinga/
+    publisher: Acontece Botucatu
+    date: 2026-11-13
+    language: pt
 ---
 
 São Paulo Civil Police found a cannabis growing structure holding more than half
 a tonne of marijuana on a farm in Itatinga on the morning of Wednesday 11
-November 2026. [@1,3] The action was the third phase of Operação Green Veil and
-was carried out under a judicial search and seizure warrant. [@1,3] The association's headquarters is in the São Paulo capital, and its president had already been arrested during the second phase of the operation. [@4,5] Civil police suspected the farm was part of a scheme in which the people involved used the front of an association serving patients who rely on cannabis-based medicines to divert production into drug trafficking. [@4,5]
+November 2026. [@1,3,6] The action was the third phase of Operação Green Veil and
+was carried out under a judicial search and seizure warrant. [@1,3,6] The association's headquarters is in the São Paulo capital, and its president had already been arrested during the second phase of the operation. [@4,5,6] Civil police suspected the farm was part of a scheme in which the people involved used the front of an association serving patients who rely on cannabis-based medicines to divert production into drug trafficking. [@4,5]
 
 The team was met by the farm's caretaker, who stayed with the officers during
 the search. [@1,3] Officers found six greenhouses for growing the drug and a
 nursery with seedlings of the same plant, as well as areas for drying,
-processing and storing it. [@1,3,4,5]
+processing and storing it. [@1,3,4,5,6]
 
-Police identified about 5,500 plants and seedlings. [@1,3,5] They seized 89 packages
+Police identified about 5,500 plants and seedlings. [@1,3,5,6] They seized 89 packages
 holding more than 577 kilograms of plant material by net weight, plus two
-further packages weighing about 10 kilograms gross. [@1,3,5] JCNET reported the
+further packages weighing about 10 kilograms gross. [@1,3,5,6] JCNET reported the
 total as 587 kilograms of marijuana. [@2] Forensic officers took seven samples
-of the plantations for examination at the Instituto de Criminalística. [@1,3,5]
+of the plantations for examination at the Instituto de Criminalística. [@1,3,5,6]
 
 The plants in the greenhouses and the nursery were destroyed by incineration
-after the work on the property. [@1,3,4,5] JCNET reported that the case remained under
-investigation. [@2] The case was registered at the 6th Police District of Cambuci in São Paulo, where the investigation continues to identify other people involved. [@4]
+after the work on the property. [@1,3,4,5,6] JCNET reported that the case remained under
+investigation. [@2] The case was registered at the 6th Police District of Cambuci in São Paulo, where the investigation continues to identify other people involved. [@4,6]
