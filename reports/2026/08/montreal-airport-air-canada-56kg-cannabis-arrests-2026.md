@@ -1,7 +1,7 @@
 ---
 code: X2YS38
 added_at: "2026-11-11T21:02:12.00175Z"
-date: 2026-08-26
+date: 2026-08-27
 country: ca
 place: Montréal-Trudeau International Airport, Dorval, Quebec
 coordinates: [45.4706, -73.7408]
@@ -9,8 +9,7 @@ precision: locality
 type: arrest
 also: [seizure, raid]
 title: Two Air Canada workers arrested; 56 kg of cannabis seized in airport probe
-summary: >-
-  The RCMP arrested two Air Canada ground-operations employees on 26 August 2026 over an alleged conspiracy to move luggage through secure areas of Montréal-Trudeau Airport, facilitating cocaine imports and cannabis exports. Officers seized 56 kg of cannabis during the investigation and released the two pending further proceedings.
+summary: RCMP arrested two Air Canada ground-operations employees on 26 August 2026 over an alleged conspiracy to move luggage through secure areas of Montreal-Trudeau airport to import cocaine and export cannabis, seizing 56 kg of cannabis. The new Radio-Canada account adds that the probe began in May after 62.5 kg of cocaine in backpacks was intercepted from a Punta Cana flight.
 figures:
   arrested: 2
   released: 2
@@ -64,10 +63,16 @@ sources:
     url: https://globalnews.ca/news/12035641/montreal-trudeau-airport-rcmp-drug-probe/
     publisher: Global News
     date: 2026-08-26
+  - title: 2 Air Canada employees arrested by RCMP in connection with alleged drug trafficking
+    url: https://ici.radio-canada.ca/rci/en/news/2278051/2-air-canada-employees-arrested-by-rcmp-in-connection-with-alleged-drug-trafficking
+    publisher: Radio-Canada / CBC News
+    date: 2026-08-27
+    language: en
 open_questions:
   - The RCMP did not name the two employees or say whether they will face charges.
   - No value or intended destination was published for the 56 kg of cannabis.
   - It is not known whether the two remain suspended or what the next step in the investigation is.
+  - The text gives a weight ("56 kg") but the figures have no kg_seized; check whether it belongs there.
 ---
 
 The RCMP arrested two Air Canada employees in connection with alleged cocaine
@@ -80,7 +85,7 @@ cocaine and the exportation of cannabis. [@2]
 
 Police executed search warrants at two residences and a vehicle in the Greater
 Montreal area, and searched the employees' work base in Dorval with Air Canada's
-cooperation. [@2] The RCMP said the investigation began in May 2026 after a
+cooperation. [@2,4] The RCMP said the investigation began in May 2026 after a
 Canada Border Services Agency operation. [@2] That operation intercepted cocaine
 concealed in backpacks on a flight from Punta Cana. [@2] Over the course of the
 investigation, officers seized 56 kg of cannabis. [@2] Two suitcases containing
@@ -92,3 +97,4 @@ Aéroports de Montréal are assisting the investigation. [@3] The RCMP said the
 investigation was ongoing and that analysis of the evidence could lead to
 additional arrests and charges. [@2]
 
+The investigation was triggered in May after 62.5 kilograms of cocaine concealed in backpacks were intercepted from a flight from Punta Cana. [@4]
