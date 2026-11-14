@@ -68,14 +68,24 @@ sources:
     publisher: اكسبريس TV
     date: 2026-11-13
     language: ar
+  - title: إحباط محاولة تهريب الحشيش إلى السجن باستعمال «درون»
+    url: https://sabahagadir.ma/495687.html
+    publisher: صباح أكادير
+    date: 2026-11-12
+    language: ar
+open_questions:
+    - No figure for the hashish the drone carried was published.
+    - The identity of the prison was not disclosed.
+    - How many people were arrested and whether they faced charges was not stated.
+    - No separate date for the drone operation itself was given; 12 November is the date of Tamek's parliamentary disclosure. The FY 2027 budget frame comes from a later account and does not contradict the report.
 ---
 
 Mohamed Saleh Tamek, the general delegate for prison administration and
 reintegration, disclosed a foiled attempt to bring drugs into one of Morocco's
-prisons. [@1,6] He spoke during a debate on his department's budget before the
+prisons. [@1,6,7] He spoke during a debate on his department's budget before the
 House of Representatives' justice committee on Wednesday. [@1] The prisoner the
 delivery was meant for, the drone and all the people behind the attempt were
-caught, Tamek said. [@2] He credited the vigilance of prison staff. [@2,6]
+caught, Tamek said. [@2,7] He credited the vigilance of prison staff. [@2,6]
 
 The drone was small and shaped like a small bird, he said. [@3] It reached the
 bars of a cell window carrying hashish. [@4] The competent services then
@@ -84,7 +94,7 @@ the attempt from succeeding, Tamek said. [@1] The security intervention also
 caught the targeted prisoner and the people who planned and carried out the
 operation. [@3]
 
-Tamek called drug smuggling into prisons a "very terrible" thing. [@1] He said
+Tamek called drug smuggling into prisons a "very terrible" thing. [@1,7] He said
 one such case had been recorded. [@2] He put the number of drug "barons" in
 Moroccan prisons at between 800 and 1,000. [@2,6] They are not allowed to keep
 telephones in their cells, unlike other prisoners, he said. [@2]
