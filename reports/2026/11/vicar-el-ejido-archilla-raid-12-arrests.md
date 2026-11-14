@@ -64,6 +64,11 @@ media:
     media_url: https://static.grupojoly.com/clip/5fb492f2-eb75-49c6-adaa-8d7353dac384_16-9-aspect-ratio_1600w_0.jpg
     publisher: Diario de Almería
     caption: 'Firearms, ammunition, cash and other items seized from the criminal organisation. Photo: Diario de Almería.'
+  - kind: photo
+    url: https://www.andaluciainformacion.es/articulo/almeria/andalucia-almeria-sucesos-libertad-11-detenidos-vicar-cultivo-4200-plantas-marihuana-cuatro-armas/202611121750403534405.html
+    media_url: https://www.andaluciainformacion.es/asset/thumbnail,1920,1080,center,center/media/andaluciainformacion/images/2026/11/12/2026111209032398858.jpg
+    publisher: Andalucía Información
+    caption: 'Marijuana seized from the grow operations in Barrio Archilla, Vícar, during Operation Corbite. Photo: Guardia Civil, published by Andalucía Información.'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d9a6ad539c4096c15d08cd9c3ba584f1
@@ -87,6 +92,11 @@ sources:
   - title: En libertad los 11 detenidos en Vícar (Almería) por un cultivo de más de 4.200 plantas de marihuana y cuatro armas
     url: https://www.europapress.es/andalucia/almeria-00350/noticia-libertad-11-detenidos-vicar-almeria-cultivo-mas-4200-plantas-marihuana-cuatro-armas-20261112100243.html
     publisher: Europa Press Andalucía
+    date: 2026-11-12
+    language: es
+  - title: Liberan a los 11 arrestados en Vícar por cultivo de 4.200 plantas de marihuana y armas
+    url: https://www.andaluciainformacion.es/articulo/almeria/andalucia-almeria-sucesos-libertad-11-detenidos-vicar-cultivo-4200-plantas-marihuana-cuatro-armas/202611121750403534405.html
+    publisher: Andalucía Información
     date: 2026-11-12
     language: es
 open_questions:
@@ -120,3 +130,5 @@ permanent contact with the Guardia Civil. [@1] The case file drawn up during the
 searches, carried out with judicial staff present, went to the competent court,
 which must decide on the detainees' situation while the investigation
 establishes the structure's reach. [@1] A judge released all eleven detainees on 12 November 2026, while the investigation into the alleged network continues. [@4]
+
+The detainees are also charged with illegal possession of firearms where applicable, and the investigation continues for offences against public health related to cultivation and processing of drugs, and electricity fraud. [@5]
