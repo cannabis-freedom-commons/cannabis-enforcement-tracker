@@ -55,25 +55,27 @@ sources:
     publisher: Fama Rádio e Televisão
     date: 2026-11-13
     language: pt
-open_questions:
-  - The exact date of the arrest is given only as Thursday afternoon; 12 November 2026 is taken from the publication date of 13 November.
-  - The hashish weight is given as more than 10 kilograms, so 10 kg is recorded as a lower bound rather than an exact measured figure.
-  - No value estimate was published for the hashish.
-  - No charges were formally reported, and the case had reached only the first judicial interrogation with coercive measures applied.
-  - No cannabis plants, cultivation site or further seizures were reported.
-  - All three accessible accounts rest on the same Polícia Judiciária statement, so they are not independent reporting.
+  - title: Homem de 31 anos detido no Porto com 10 kg de haxixe e arma proibida
+    url: https://www.noticiasaominuto.com/pais/3083822/homem-de-31-anos-detido-no-porto-com-10-kg-de-haxixe-e-arma-proibida
+    publisher: Notícias ao Minuto
+    date: 2026-11-13
+    language: pt
+  - title: Homem detido no Porto com mais de 10 quilos de haxixe e arma proibida
+    url: https://novumcanal.pt/2026/11/homem-detido-no-porto-com-mais-de-10-quilos-de-haxixe-e-posse-de-arma-proibida/
+    publisher: Novum Canal
+    date: 2026-11-13
+    language: pt
 ---
 
 The Polícia Judiciária (PJ), Portugal's judiciary police, arrested a 31-year-old
 man in Porto on suspicion of drug trafficking and possession of a prohibited
-weapon. [@3] Police said the man was found in possession of more than 10
+weapon. [@3,4] Police said the man was found in possession of more than 10
 kilograms of hashish, a small quantity of cocaine and a loaded 7.65 mm pistol,
-and offered no resistance. [@1]
+and offered no resistance. [@1,4]
 
 The arrest followed an investigation opened in March into indications of a
-drug-selling point in the Campanhã area of Porto. [@2] The operation was led by
+drug-selling point in the Campanhã area of Porto. [@2,5] The operation was led by
 the PJ's Northern Directorate, and the arrest took place on Thursday afternoon.
-[@3] The man was brought before a judge for a first interrogation and the
+[@3,5] The man was brought before a judge for a first interrogation and the
 harshest coercive measure available, preventive detention, was imposed on him.
-[@3]
-
+[@3,5]
