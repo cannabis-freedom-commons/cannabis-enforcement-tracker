@@ -52,22 +52,27 @@ sources:
     url: https://www.msn.com/en-in/news/other/drugs-precursor-chemicals-worth-rs-2-4-crore-seized-in-chennai-four-arrested/ar-AA2hnkhM
     publisher: MSN
     date: 2026-11-13
+  - title: 'சென்னை விமான நிலையத்தில் ரூ.1.4 கோடி கஞ்சா பறிமுதல்: ஒருவா் கைது'
+    url: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/13/rs-14-crore-worth-of-ganja-seized-at-chennai-airport-one-person-arrested
+    publisher: தினமணி
+    date: 2026-11-13
+    language: ta
 open_questions:
-  - The passenger was not named and no court outcome beyond remand in judicial custody was reported.
-  - The weight and value are the authorities' figures as republished; no second independent account of this 4 kg seizure was opened.
-  - The combined Rs 2.4 crore total and three of the four arrests belong to the separate precursor-chemical seizure and are excluded from the cannabis figures.
+    - The passenger was not named and no court outcome beyond remand in judicial custody was reported.
+    - The weight and value are the authorities' figures as republished; the Tamil-language Dinamani account is credited to syndication and appears to reproduce the same agency release, so it is not an independent account.
+    - The combined Rs 2.4 crore total and three of the four arrests belong to the separate precursor-chemical seizure and are excluded from the cannabis figures.
 ---
 
 Chennai Customs' Air Intelligence Unit intercepted a male passenger who arrived
-in Chennai from Bangkok on 12 November 2026. [@1,2] Officers had flagged him
+in Chennai from Bangkok on 12 November 2026. [@1,2,3] Officers had flagged him
 through profiling and stopped him as he tried to exit through the Green Channel
 with the contraband hidden in a false-bottom compartment of his checked-in
 trolley suitcase. [@1,2] The passenger was arrested under the Narcotic Drugs and
 Psychotropic Substances Act and remanded in judicial custody. [@1,2]
 
-Officers seized 4 kg of hydroponically cultivated ganja from his baggage. [@1,2]
+Officers seized 4 kg of hydroponically cultivated ganja from his baggage. [@1,2,3] Officers were continuing to question the passenger after the seizure. [@3]
 Customs valued the seized cannabis at about Rs 1.4 crore in the illicit market.
-[@1,2]
+[@1,2,3]
 
 After the seizure, Chennai Customs cautioned young people against smuggling
 syndicates that fund foreign travel in exchange for carrying unknown baggage
