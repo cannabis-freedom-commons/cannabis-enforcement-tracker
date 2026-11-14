@@ -101,6 +101,11 @@ sources:
     publisher: 이데일리
     date: 2026-11-13
     language: ko
+  - title: 대법원 "보강증거 없이 자백만으로 유죄 안돼"...대마 흡연 사건 파기환송
+    url: https://news.sbs.co.kr/news/endPage.do?news_id=N1008844846
+    publisher: SBS 뉴스
+    date: 2026-11-13
+    language: ko
 media:
   - kind: photo
     url: https://news.sbs.co.kr/english/article.do?news_id=N1008844852
@@ -117,11 +122,11 @@ media:
 South Korea's Supreme Court, presided over by Justice Shin Suk-hee, on 27
 October 2026 reversed the lower court's ruling against a defendant identified as
 A, who was indicted on charges including violating the Act on the Control of
-Narcotics, and sent the case back to the Seoul High Court. [@1,2,3,4,6,7,8,9,11,12,13,15] A, who ran a
+Narcotics, and sent the case back to the Seoul High Court. [@1,2,3,4,6,7,8,9,11,12,13,15,16] A, who ran a
 record production and distribution company, a content firm, and nightlife
 establishments, was brought to trial on charges that included buying large
 quantities of ecstasy and marijuana in 2023 and selling or smoking some of them.
-[@1] Prosecutors also charged that around 9 p.m. in late April 2024, A smoked 1
+[@1,16] Prosecutors also charged that around 9 p.m. in late April 2024, A smoked 1
 gram of marijuana together with four accomplices at an office in Seoul. [@1,8] The group allegedly placed 1 gram of cannabis in an empty can punctured with an awl, lit it with a lighter and inhaled the smoke. [@7,9] The charged smoking incident took place in an office in Gangnam, Seoul. [@6,7,13,15] The
 trial court found A guilty of the marijuana smoking charge, citing, among other
 things, that the accomplices indicted with A admitted the offense in court, and
@@ -130,7 +135,7 @@ six months in prison and ordered 22.8 million won in forfeiture. [@1,3,4,6,8,11]
 A argued that the smoking actually occurred in late April 2023 and that the
 indictment mistakenly listed April 2024, and said the confession at the first
 trial referred to the 2023 incident and that there was no marijuana smoking in
-April 2024. [@1,6,10,12,13] The appellate court upheld the guilty verdict, saying there was
+April 2024. [@1,6,10,12,13,16] The appellate court upheld the guilty verdict, saying there was
 no reason to suspect the confession was coerced and noting the accomplices'
 statements, and reduced the forfeiture to 12.68 million won to avoid
 double-counting the value of 144 ecstasy pills already forfeited in another
@@ -139,7 +144,7 @@ records of A and the accomplices that the first-instance court relied on as
 evidence all concerned marijuana smoking in late April 2023, and that the
 interviews also took place before late April 2024, and that the toxicology
 reports on urine and hair were likewise all prepared before the alleged date of
-the offense in the indictment. [@1,6,8,10,12,13] The Supreme Court also found it hard to rule
+the offense in the indictment. [@1,6,8,10,12,13,16] The Supreme Court also found it hard to rule
 out the possibility that the accomplices' in-court confessions referred to the
 April 2023 smoking incident, and therefore held that their testimony could not
 be deemed sufficient to corroborate A's confession, and that the remaining
