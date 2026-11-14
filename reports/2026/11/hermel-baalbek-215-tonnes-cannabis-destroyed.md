@@ -90,6 +90,11 @@ sources:
     publisher: Elnashra News
     date: 2026-11-13
     language: ar
+  - title: 'بالصور: الجيش يُتلف 215 طناً من الحشيشة والماريجوانا في الهرمل وبعلبك'
+    url: https://cedarnews.net/folder/1142265/بالصور-الجيش-يتلف-215-طنا-من-الحشيشة-وا/
+    publisher: Cedar News
+    date: 2026-11-13
+    language: ar
 open_questions:
   - No separate dates for the three-day operation were given; 13 November 2026 is the publication date.
   - No plant count, field area or value for the destroyed cannabis and greenhouses was published.
@@ -104,13 +109,13 @@ follow-up to combat narcotics and pursue people undermining security. [@1,3]
 
 One army unit destroyed 200 tonnes of cannabis resin and marijuana, along with
 agricultural greenhouses and planted land, in the Marjehin plain area of Hermel
-over three days. [@1,3,5,6] Another unit raided several farms in the Boudai area of
+over three days. [@1,3,5,6,7] Another unit raided several farms in the Boudai area of
 Baalbek, destroying 15 tonnes of cannabis and a greenhouse planted with
-marijuana. [@1,3,5,6] In Boudai the unit seized machines used to manufacture the
-drugs. [@1,3]
+marijuana. [@1,3,5,6,7] In Boudai the unit seized machines used to manufacture the
+drugs. [@1,3,7]
 
 Annahar corroborated the same account, reporting 200 tonnes destroyed with
 greenhouses and planted land in the Marjehin plain of Hermel and 15 tonnes with
 a marijuana tent and manufacturing machines seized in Boudai, Baalbek. [@2] The
 seized items were handed over to the authorities, and searches were continuing
-to arrest the people involved, with no arrests reported. [@1,3,5]
+to arrest the people involved, with no arrests reported. [@1,3,5,7]
