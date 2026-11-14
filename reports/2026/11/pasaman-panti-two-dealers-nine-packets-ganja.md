@@ -77,13 +77,18 @@ sources:
     publisher: Posmetro Padang
     date: 2026-11-14
     language: id
+  - title: Dua Pria Diduga Edarkan Ganja di Pasaman, Polisi Sita Tujuh Paket Besar
+    url: https://salingkamedia.com/dua-pria-diduga-edarkan-ganja-di-pasaman-polisi-sita-tujuh-paket-besar/
+    publisher: Salingka Media
+    date: 2026-11-14
+    language: id
 ---
 
 Satresnarkoba Polres Pasaman detained two suspected cannabis dealers at about
 20.30 WIB on Thursday 12 November 2026 at Jorong Katimahar, Nagari Panti Timur,
 Kecamatan Panti, in Pasaman regency, West Sumatra. [@1,3,4,5] The two men, PD alias
 Sipon and Ilcan Prayono alias Teil aged 38, were local residents suspected of
-being involved in the cannabis trade. [@1,3,4,5] Both suspects are farmers by profession, and both live in Jorong Katimahar. [@5]
+being involved in the cannabis trade. [@1,3,4,5] Both suspects are farmers by profession, and both live in Jorong Katimahar. [@5,7]
 
 Officers seized nine packets believed to contain cannabis, seven large and two
 medium, plus a mobile phone and a motorcycle. [@1,4,5,6] Kasat Resnarkoba Polres
@@ -93,11 +98,11 @@ Pasaman AKP Fahrul Roji led the arrest with personnel of Tim Opsnal Elang Timur.
 The operation followed a community report of suspected drug transactions in
 Nagari Panti Timur, after which officers investigated and monitored the area.
 [@1,3,5,6] Officers then carried out an undercover buy, in which a police officer
-posed as a prospective buyer of cannabis. [@1,3,5,6] PD alias Sipon agreed to meet the
+posed as a prospective buyer of cannabis. [@1,3,5,6,7] PD alias Sipon agreed to meet the
 undercover officer at a coffee shop in Jorong Kuamang, but redirected the
 meeting to another location in Jorong Katimahar. [@1,3,5]
 
 At the planned transaction, the second suspect, IP, brought a large cannabis
 packet wrapped in brown tape from the motorcycle trunk and handed it to PD. [@2] The undercover officer, acting alone, had PD put the packet down under a seat to avoid suspicion, then left and called the standby team in for the ambush. [@5] Police then searched the home of IP alias Teil and found six large ganja packets wrapped in brown tape and two medium packets wrapped in black and red plastic. [@4,5]
 Officers seized a blue Realme mobile phone and an unnumbered black Suzuki
-Skywave motorcycle. [@2,5] Both suspects, with all the seized evidence, were held at Mapolres Pasaman for further legal process and were charged under Article 114 paragraph (1), subsidiarily Article 111 paragraph (1), of Law 35 of 2009 on Narcotics, in conjunction with Law 1 of 2023 and Law 1 of 2026. [@4,5]
+Skywave motorcycle. [@2,5,7] Both suspects, with all the seized evidence, were held at Mapolres Pasaman for further legal process and were charged under Article 114 paragraph (1), subsidiarily Article 111 paragraph (1), of Law 35 of 2009 on Narcotics, in conjunction with Law 1 of 2023 and Law 1 of 2026. [@4,5]
