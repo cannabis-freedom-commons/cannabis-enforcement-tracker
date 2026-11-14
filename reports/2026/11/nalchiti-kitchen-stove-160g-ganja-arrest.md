@@ -58,21 +58,26 @@ sources:
     publisher: Dhaka Today
     date: 2026-11-13
     language: bn
+  - title: নলছিটিতে রান্নাঘরের চুলায় মিলল ১৬০ গ্রাম গাঁজা, এক নারী গ্রেপ্তার
+    url: https://www.newsg24.com/bangladesh-news/245326/
+    publisher: NewsG24
+    date: 2026-11-14
+    language: bn
 ---
 
 Police in Nalchiti, Jhalakati District, arrested a 33-year-old woman named Iti
 Akter Roni after a raid on her home. [@1,2] Officers found 160 grams of ganja
 wrapped in a white polythene bag inside the earthen stove of the kitchen of the
-house. [@1,2] Officers also seized 1,500 taka that police said was money from drug
-sales. [@1,2] The raid was carried out on Friday evening in the Nanguli area of
+house. [@1,2,3] Officers also seized 1,500 taka that police said was money from drug
+sales. [@1,2,3] The raid was carried out on Friday evening in the Nanguli area of
 Ward 2 of Nalchiti Municipality on the basis of secret information. [@1,2]
 
-The operation ran from 3:10 pm to 4:30 pm. [@1,2] The ganja was found in the stove
+The operation ran from 3:10 pm to 4:30 pm. [@1,2,3] The ganja was found in the stove
 on the northern side of the kitchen. [@1] Police identified the arrested woman
 as the daughter of Nur-e Alam Hawlader of the area and the wife of Miraj Majhi.
-[@1]
+[@1,3]
 
 The acting officer-in-charge of Nalchiti police station, Touhizzaman Sohag, said
 the drive against drugs was continuing and that no one involved in the drug
-trade would be spared. [@1] He said the process of taking legal action in the
+trade would be spared. [@1,3] He said the process of taking legal action in the
 case was under way. [@1]
