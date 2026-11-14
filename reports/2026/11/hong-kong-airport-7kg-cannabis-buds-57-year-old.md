@@ -84,20 +84,25 @@ sources:
     url: https://www.info.gov.hk/gia/general/202611/13/P2026111300536.htm
     publisher: HKSAR Government Press Releases
     date: 2026-11-13
+  - title: 海關機場截內地男旅客 行李藏7公斤大麻花值146萬元
+    url: https://www.52hrtt.com/xg/n/w/info/A1794454032709
+    publisher: 华人头条-香港
+    date: 2026-11-13
+    language: zh
 ---
 
 Hong Kong Customs detected a drug trafficking case on 13 November 2026 at Hong
 Kong International Airport and seized about seven kilograms of suspected
-cannabis buds with an estimated market value of about $1.46 million. [@1,2,3,4,5]
+cannabis buds with an estimated market value of about $1.46 million. [@1,2,3,4,5,7]
 
 During an anti-narcotics operation, Customs officers intercepted a 57-year-old
 Mainland male passenger and found the suspected cannabis buds inside his
-carry-on baggage, then arrested him. [@1,2,3,4,6] The arrested man has been charged with
+carry-on baggage, then arrested him. [@1,2,3,4,6,7] The arrested man has been charged with
 one count of trafficking in a dangerous drug; his case will be brought up at the
 West Kowloon Magistrates' Courts on 14 November 2026. [@1,2,3,4,5]
 
 Customs said it will keep applying a risk assessment approach, focusing on
 passengers from high-risk regions, and reminded the public not to accept payment
-for carrying controlled items into or out of Hong Kong. [@1] Under the Dangerous
+for carrying controlled items into or out of Hong Kong. [@1,7] Under the Dangerous
 Drugs Ordinance, trafficking in a dangerous drug carries a maximum penalty of a
 $5 million fine and life imprisonment. [@1]
