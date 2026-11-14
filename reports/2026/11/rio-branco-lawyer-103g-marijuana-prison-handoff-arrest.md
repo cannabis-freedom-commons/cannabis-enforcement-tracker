@@ -58,13 +58,16 @@ sources:
     publisher: Ecos da Notícia
     date: 2026-11-13
     language: pt
-open_questions:
-  - No formal charge, plea, or court outcome was reported; the lawyer was taken to the Defla station for legal steps.
+  - title: Advogado é flagrado por câmeras entregando maconha a preso e acaba detido no complexo penal de Rio Branco
+    url: https://diariodoacre.com.br/advogado-e-flagrado-por-cameras-entregando-maconha-a-preso-e-acaba-detido-no-complexo-penal-de-rio-branco/
+    publisher: Diário do Acre
+    date: 2026-11-13
+    language: pt
 ---
 
 A 41-year-old lawyer was arrested on 13 November 2026 after video cameras at the
 Complexo Penitenciário de Rio Branco caught him handing drugs to a detainee in
-Pavilion B. [@1] The prison authority said the lawyer was caught at the moment
+Pavilion B. [@1,3] The prison authority said the lawyer was caught at the moment
 of handing the drug to the inmate serving a sentence in Pavilion B. [@1] The
 account names the facility as the Dr. Francisco de Oliveira Conde prison complex
 (FOC) and identifies the lawyer only by the initials A.P.L. [@2]
@@ -74,14 +77,13 @@ carrying, suspecting it was being used to hide the drug handover. [@1] Iapen
 said the lawyer had already been monitored by the Penal Police, after which
 officers stopped him and carried out a personal search. [@1] During the search
 they found 103 grams of a substance resembling marijuana wrapped in plastic.
-[@1] The second account confirms the weight of the seized drug as 103 grams.
+[@1,3] The second account confirms the weight of the seized drug as 103 grams.
 [@2]
 
 The lawyer was taken to a reserved room where other lawyers were present, given
 a formal arrest and taken to the Central Delegacia de Flagrantes (Defla) in Rio
-Branco. [@1] The Acre section of the Brazilian Bar Association said it was
+Branco. [@1,3] The Acre section of the Brazilian Bar Association said it was
 called in from the start to oversee the lawyer's rights and would pursue
 possible ethical-disciplinary measures against him. [@1] The Penal Police said
 the action reinforced its commitment to fighting drug trafficking inside the
 state's prison units. [@2]
-
