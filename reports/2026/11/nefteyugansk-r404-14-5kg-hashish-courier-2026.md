@@ -74,26 +74,32 @@ sources:
     publisher: Stribuna
     date: 2026-11-13
     language: ru
+  - title: В ХМАО задержали наркокурьера с 14,5 кг гашиша из Санкт-Петербурга
+    url: https://nv86.ru/news/nizhnevartovsk/1691758/
+    publisher: NV86.ru
+    date: 2026-11-13
+    language: ru
 open_questions:
   - No separate date for the roadside stop was published; 13 November 2026 is the publication date of all three reports and is used as the incident date.
   - The hashish weight is reported as approximate (about 14.5 kg), with no exact laboratory figure published.
   - No court outcome beyond custody and the opened criminal case was reported; the possible 15-to-20-year sentence is the penalty the charge carries, not a sentence imposed.
+  - NV86.ru describes the hiding place as special lining, the weight as 14.5 kg and the possible sentence as up to 20 years, without the metal lining, the word about, or the 15-year minimum in the accounts the report already uses.
 ---
 
 Police stopped a UAZ Pickup on the R-404 road near Nefteyugansk at the 13th
 kilometre of the approach to Surgut. [@1,5] The driver was a 42-year-old resident
-of Rostov Oblast. [@1,5] Officers found eight briquettes hidden behind the metal
+of Rostov Oblast. [@1,5,6] Officers found eight briquettes hidden behind the metal
 lining of the SUV's body, with a total weight of about 14.5 kg. [@1,5] Expert
 analysis confirmed that the seized substance was hashish weighing about 14.5 kg.
 [@2] The operation involved officers of the district UMVD drug-control
 department and Nefteyugansk traffic police. [@1] Police detained the suspect,
-who gave confessional testimony. [@2,5]
+who gave confessional testimony. [@2,5,6]
 
 The man said he had collected the load in St Petersburg and was taking it to
-Nizhnevartovsk to hand over to unidentified people. [@1,4,5] A criminal case was
+Nizhnevartovsk to hand over to unidentified people. [@1,4,5,6] A criminal case was
 opened against him for attempted drug sale and illegal trafficking of prohibited
 substances on an especially large scale. [@1,4] The Nefteyugansk investigative
 department qualified the case under part 3 of article 30 and items 4(g) and 5 of
 article 228.1 of the Criminal Code. [@3,4,5] He faces 15 to 20 years of imprisonment
 and was placed in custody. [@1,5] Police are working to identify possible
-accomplices and the organisers of the supply channel. [@1,4]
+accomplices and the organisers of the supply channel. [@1,4] Police are also checking whether the detained man was involved in other similar crimes. [@6]
