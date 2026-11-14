@@ -30,6 +30,11 @@ sources:
     url: https://www.news.cumbria.police.uk/news/kendal-man-charged-with-offences-including-possession-with-intent-to-supply-class-a-drugs
     publisher: Cumbria Constabulary
     date: 2026-11-12
+  - title: Kendal man charged with intent to supply cocaine MDMA and cannabis
+    url: https://www.nwemail.co.uk/news/26722974.kendal-man-charged-intent-supply-cocaine-mdma-cannabis/
+    publisher: The Mail
+    date: 2026-11-12
+    language: en
 open_questions:
   - No quantity or weight of cannabis, cocaine or MDMA was published, so no kilograms can be recorded.
   - No value was published for the drugs or for the cash said to be criminal property.
@@ -40,7 +45,7 @@ open_questions:
 
 Adam Butterfield, 34, of Kilner Close in Kendal, was arrested on 10 November
 2026 by Cumbria Police’s Westmorland and Furness Community and Serious Organised
-Crime team. [@1] He was charged with two counts of possession with intent to
+Crime team. [@1,3] He was charged with two counts of possession with intent to
 supply a Class A drug (MDMA), one count of possession with intent to supply a
 Class A drug (cocaine), and two counts of possession with intent to supply a
 Class B drug (cannabis). [@1] He was also charged with possession of a Class B
@@ -53,4 +58,3 @@ supply counts alongside the ketamine and criminal property charges. [@2]
 
 The investigation forms part of Operation Alliance, Cumbria Constabulary’s
 dedicated response to serious and organised crime in the county. [@1]
-
