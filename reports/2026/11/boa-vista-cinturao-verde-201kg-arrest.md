@@ -68,6 +68,11 @@ sources:
     publisher: Folha BV
     date: 2026-11-11
     language: pt
+  - title: PCRR apreende 201,5 quilos de derivados concentrados de cannabis avaliados em até R$ 16 milhões
+    url: https://portal.rr.gov.br/pcrr-apreende-2015-quilos-de-derivados-concentrados-de-cannabis-avaliados-em-ate-r-16-milhoes/
+    publisher: Governo de Roraima (SECOM)
+    date: 2026-11-12
+    language: pt
 open_questions:
     - The body spells the son's name Ruan Junio Duarte Ribeiro, while the photo caption spells it Juan Junio Duarte Ribeiro.
     - No weight was published for hashish, ICE or cannabis oil separately, so the 201.5 kg total is recorded as cannabis derivatives without a product split.
@@ -108,3 +113,5 @@ men were booked for drug trafficking and for association for trafficking. [@1]
 The DRE is leading the case, with support from the Departamento de Narcóticos
 (Denarc). [@1] The case was presented to the press on Wednesday 11 November at the Delegacia-Geral, with delegates Júlio César da Rocha and Simone Arruda. [@2] Domingos is also under investigation in a separate case about
 illegal mining. [@1]
+
+The Civil Police of Roraima seized about 201.5 kilograms of concentrated cannabis derivatives and arrested three men in flagrante on Tuesday 10 November 2026 at a residence in the Cinturão Verde neighbourhood, Boa Vista; the material, including hashish, dry, ICE and other THC presentations, was valued at up to R$16 million. [@3] The seizure is considered unprecedented in the state for the diversity and volume of concentrated cannabis derivatives seized. [@3] Tests by the Forensic Chemistry Laboratory of ICPDA confirmed a positive result for THC in the five samples analysed. [@3] In addition to the drugs, officers seized a precision scale, a vehicle, two Starlink antennas and mobile phones, which will be analysed during the investigation. [@3] The action was part of Operação Narke, coordinated by Diopi of Senasp (linked to the Ministry of Justice and Public Safety), which brings together the Civil Police of the whole country through Renarc (the National Network of Specialised Units for Combating Narcotrafficking), with integrated intelligence and investigation actions aimed at combating drug trafficking and dismantling criminal organisations. [@3]
