@@ -77,6 +77,11 @@ sources:
     publisher: Midiamax
     date: 2026-11-12
     language: pt
+  - title: Brasileiro tenta fugir da polícia, capota carro com mais de 165 kg de maconha e acaba preso
+    url: https://acritica.net/policia/brasileiro-maconha-capotamento/
+    publisher: A Crítica de Campo Grande
+    date: 2026-11-13
+    language: pt
 ---
 
 Agents of Subcomisaría N° 9 in Colonia Yvype intervened in an operation at 14:00
@@ -84,15 +89,15 @@ on Monday 9 November on a rural road leading to Colonia Vista Alegre in Pedro
 Juan Caballero. [@2] The officers got out of the patrol vehicle to ask the
 driver for documents during a routine patrol, and the driver accelerated to
 evade the check, brushed one of the officers and overturned about 200 metres
-away. [@2,3,5] The driver was identified as 27-year-old Brazilian Antonio Víctor Da
+away. [@2,3,5,6] The driver was identified as 27-year-old Brazilian Antonio Víctor Da
 Silva, driving a Kia Picanto that tried to flee when approached by a patrol car.
 [@1,3,4] Police reported that Da Silva had prior records for drug trafficking in 2020 and 2022, aggravated robbery in 2023 and criminal association in 2025. [@3,4] He suffered an exposed fracture in his left arm and was apprehended while
 trying to escape under a wire fence, then moved under custody by volunteer
-firefighters to the Regional Hospital. [@2,3,5]
+firefighters to the Regional Hospital. [@2,3,5,6]
 
 Officers found about seven bags of pressed and loose suspected marijuana, plus
 gas cylinders and implements said to be for making processed marijuana, inside
-the car. [@2,5] Police later weighed the load at 165.5 kg of marijuana: 66.1 kg of pressed marijuana, 96.4 kg of chopped marijuana, 2.3 kg of Dry type and 1.1 kg of Moroccan type. [@3,5] Police described the load as pressed marijuana processed as ICE,
+the car. [@2,5] Police later weighed the load at 165.5 kg of marijuana: 66.1 kg of pressed marijuana, 96.4 kg of chopped marijuana, 2.3 kg of Dry type and 1.1 kg of Moroccan type. [@3,5,6] Police described the load as pressed marijuana processed as ICE,
 considered a premium variety of the drug. [@1] Investigators said several gas
 cylinders found in the car are used to process ICE-type marijuana. [@1] Police seized 18 gas cylinders, four of 6 kg and fourteen of 400 g, which they said were used to process concentrated varieties of the drug. [@4]
 
