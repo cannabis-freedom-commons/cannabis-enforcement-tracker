@@ -26,16 +26,15 @@ sources:
     publisher: Комсомольская правда – Воронеж
     date: 2026-11-13
     language: ru
-open_questions:
-  - The exact date of the search was not published; 13 November 2026 is the date of the regional police statement and of publication, and is used as the incident date.
-  - No court outcome has been reported; the case was at the investigation stage and the man was reported to be held in a temporary detention facility.
-  - Left out arrested, as no supporting quotation was given.
-  - Left out kg seized, as no supporting quotation was given.
-  - No photo of this seizure was published; Komsomolskaya Pravda labelled its lead image as from the KP archive.
+  - title: Воронежскими оперативниками в Боброве задержан оператор промышленного предприятия, незаконно хранивший более двух килограммов марихуаны
+    url: https://news.bvf.ru/voronezh/accident/341774/
+    publisher: Словости
+    date: 2026-11-13
+    language: ru
 ---
 
 The suspect is a 39-year-old resident of the khutor of Khrenishche in Bobrovsky
-District, Voronezh Oblast. [@2] Police searched the shed and grounds of the
+District, Voronezh Oblast. [@2,3] The suspect works as an operator at an industrial enterprise. [@3] Police searched the shed and grounds of the
 property and found and seized parts of wild cannabis. [@2]
 
 Testing confirmed the material was marijuana, with the measured weight given as
@@ -46,4 +45,3 @@ personal consumption. [@1]
 Police opened a criminal case under part 2 of article 228 of the Russian
 Criminal Code, and the man was detained and is held in a temporary detention
 facility. [@2]
-
