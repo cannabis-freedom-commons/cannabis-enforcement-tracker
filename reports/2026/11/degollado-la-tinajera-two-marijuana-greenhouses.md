@@ -56,30 +56,29 @@ sources:
     publisher: NTR Guadalajara
     date: 2026-11-13
     language: es
-open_questions:
-  - The greenhouses and the CBD/THC processing equipment were seized, but no count of plants or weight of marijuana or its extracts was published.
-  - No arrests or charges were reported; the authorities said the legal situation of the people involved is still to be determined.
-  - The number of firearms and cartridges seized was not published.
-  - The reports describe the two synthetic-drug centers as methamphetamine production equipment; their output is outside the tracker's cannabis scope, so only the marijuana component is recorded.
+  - title: Desmantelan laboratorios de droga sintética en Jalisco
+    url: https://www.elhorizonte.mx/nacional/desmantelan-laboratorios-de-droga-sintetica-en-jalisco/2775993325
+    publisher: El Horizonte
+    date: 2026-11-13
+    language: es
 ---
 
 Under Mexico's National Public Security Strategy, the National Guard and the
 Mexican Army, together with FEMDO of the Attorney General's Office and the
 Criminal Investigation Agency of the FGR, executed a technical investigation
 order at a property in the La Tinajera locality of the municipality of
-Degollado, Jalisco. [@1] The property was operated by a criminal group led by
+Degollado, Jalisco. [@1,4] The property was operated by a criminal group led by
 Heraclio 'N', alias Tío Laco, identified as the regional boss of the Jalisco New
-Generation Cartel in the area. [@1]
+Generation Cartel in the area. [@1,4]
 
 At the site the authorities seized firearms, cartridges, two synthetic-drug
-production centers and two marijuana greenhouses. [@1] Machinery, tools and
+production centers and two marijuana greenhouses. [@1,4] Machinery, tools and
 various items recovered on the property were used to make methamphetamine and to
 process and extract high-purity cannabidiol (CBD) and tetrahydrocannabinol (THC)
-from marijuana. [@2]
+from marijuana. [@2,4]
 
 Everything seized was handed over to the Federal Attorney General's Office,
 which is continuing its investigations and forensic work to determine the legal
-situation arising from the operation. [@1] No arrests or charges were reported
+situation arising from the operation. [@1,4] No arrests or charges were reported
 in this operation; the authorities said the legal situation of the people
 involved is still to be determined. [@3]
-
