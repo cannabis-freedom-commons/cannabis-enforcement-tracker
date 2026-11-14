@@ -59,29 +59,29 @@ sources:
     publisher: La Nuova
     date: 2026-11-13
     language: it
-open_questions:
-  - The exact number of plants seized was not published, only that there were several between 80 and 120 centimetres tall.
-  - The raid is dated to Tuesday 10 November 2026 from the detailed account's reference to the previous Tuesday afternoon; the other reports give only the 13 November publication date.
-  - The small amount of marijuana found at the man's home was not quantified.
-  - No value for the seized cannabis and no count of any additional suspects were published.
+  - title: 'Rionero in Vulture, serra di marijuana in casolare: arrestato 56enne - Antenna Sud'
+    url: https://www.antennasud.com/rionero-in-vulture-serra-di-marijuana-in-un-casolare-arrestato-un-56enne/
+    publisher: Antenna Sud
+    date: 2026-11-13
+    language: it
 ---
 
 Carabinieri arrested a 56-year-old local man in flagrante delicto in Rionero in
-Vulture on suspicion of unlawful production and possession of drugs. [@1,4] The
+Vulture on suspicion of unlawful production and possession of drugs. [@1,4,5] The
 Rionero in Vulture Carabinieri station made the arrest in the early afternoon on
 the previous Tuesday as part of provincial anti-drug operations. [@2,4] The
 investigating judge in Potenza validated the arrest and ordered house arrest
-with an electronic bracelet. [@2,4]
+with an electronic bracelet. [@2,4,5]
 
 In a countryside farmhouse on farmland owned by the arrested man, officers found
-a clandestine greenhouse used to grow and dry marijuana. [@1,4] Inside they found
+a clandestine greenhouse used to grow and dry marijuana. [@1,4,5] Inside they found
 and seized several hemp plants between 80 and 120 centimetres tall, weighing
-about 3 kilograms in total, along with indoor-growing equipment. [@1,4] Officers
-also searched the man's home and found a small amount of marijuana there. [@2,4]
+about 3 kilograms in total, along with indoor-growing equipment. [@1,4,5] Officers
+also searched the man's home and found a small amount of marijuana there. [@2,4,5]
 The greenhouse building, the growing equipment and all the drugs were seized and
 placed at the disposal of the Potenza public prosecutor. [@2,4]
 
 The seized plants amounted to about three kilograms of cannabis, plus equipment
 for indoor cultivation and drying. [@3] The criminal case remains at the
 preliminary-investigation stage and the suspect is presumed innocent until a
-final conviction. [@2,4]
+final conviction. [@2,4,5]
