@@ -61,24 +61,43 @@ sources:
     publisher: El Horizonte
     date: 2026-11-13
     language: es
+  - title: Caen dos mega invernaderos de marihuana y laboratorios del CJNG en Jalisco; pierden 22 millones de pesos
+    url: https://heraldodemexico.com.mx/nacional/2026/11/14/caen-dos-mega-invernaderos-de-marihuana-y-laboratorios-del-cjng-en-jalisco-pierden-22-millones-de-pesos-2918994.html
+    publisher: El Heraldo de México
+    date: 2026-11-14
+    language: es
+  - title: Inhabilitan dos narcolaboratorios y dos invernaderos de marihuana de “El Tío Lako” en Degollado, Jalisco
+    url: https://www.reporteindigo.com/nacional/inhabilitan-dos-narcolaboratorios-y-dos-invernaderos-de-marihuana-de-el-tio-lako-en-degollado-jalisco-20261113-0101.html
+    publisher: Reporte Indigo
+    date: 2026-11-13
+    language: es
+  - title: 'Confiscan sofisticado laboratorio de metanfetamina y procesados de marihuana en Jalisco: eran del Tío Lako del CJNG'
+    url: https://infobae.com/mexico/2026/11/14/confiscan-sofisticado-laboratorio-de-metanfetamina-y-procesados-de-marihuana-en-jalisco-eran-del-tio-lako-del-cjng
+    publisher: Infobae
+    date: 2026-11-14
+    language: es
+open_questions:
+    - No cannabis weight or plant count was published, so no cannabis quantity can be recorded.
+    - The reported 17 million pesos monthly and 5 million pesos infrastructure estimates concern synthetic-drug production and installed infrastructure, not a cannabis value.
+    - The surname appears as Guerrero Martínez in Reporte Índigo and as Heraclio “N” elsewhere, and the alias as Lako and Laco; the identity match rests on place, date and seizure.
 ---
 
 Under Mexico's National Public Security Strategy, the National Guard and the
 Mexican Army, together with FEMDO of the Attorney General's Office and the
 Criminal Investigation Agency of the FGR, executed a technical investigation
 order at a property in the La Tinajera locality of the municipality of
-Degollado, Jalisco. [@1,4] The property was operated by a criminal group led by
+Degollado, Jalisco. [@1,4] On 13 November 2026 the Mexican Army, the National Guard and the FGR disabled two laboratories for producing synthetic drugs and two marijuana greenhouses in Degollado, Jalisco. [@7] The property was operated by a criminal group led by
 Heraclio 'N', alias Tío Laco, identified as the regional boss of the Jalisco New
-Generation Cartel in the area. [@1,4]
+Generation Cartel in the area. [@1,4] The installations were operated by a group led by Heraclio Guerrero Martínez, alias Tío Lako, described as a regional CJNG chief with operations in Jalisco and Michoacán. [@6]
 
 At the site the authorities seized firearms, cartridges, two synthetic-drug
-production centers and two marijuana greenhouses. [@1,4] Machinery, tools and
+production centers and two marijuana greenhouses. [@1,4,5] One marijuana greenhouse measured about 3,250 square metres and the other about 8,400 square metres. [@6] Machinery, tools and
 various items recovered on the property were used to make methamphetamine and to
 process and extract high-purity cannabidiol (CBD) and tetrahydrocannabinol (THC)
-from marijuana. [@2,4]
+from marijuana. [@2,4,6]
 
 Everything seized was handed over to the Federal Attorney General's Office,
 which is continuing its investigations and forensic work to determine the legal
-situation arising from the operation. [@1,4] No arrests or charges were reported
+situation arising from the operation. [@1,4] Everything seized was placed at the disposal of the FGR at its headquarters in Mexico City to continue investigations and expert work. [@6] No arrests or charges were reported
 in this operation; the authorities said the legal situation of the people
 involved is still to be determined. [@3]
