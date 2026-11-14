@@ -37,6 +37,11 @@ media:
     media_url: https://files.thedailycampus.com/assets/img/202611/1794584696_71fe4dba4916c6a0d4dc.webp
     publisher: The Daily Campus
     caption: 'The detained man, captioned by the outlet as the ganja trader Ledu Mia (centre), photographed at the university. Photo: টিডিসি ফটো (TDC Photo)'
+  - kind: photo
+    url: https://dailybanglapost.com/campus/71117
+    media_url: https://dailybanglapost.com/media/imgAll/BG/2026November/bangla-post-news-1-20261114084011.jpg
+    publisher: Daily Bangla Post
+    caption: 'The detained man photographed at the university, captioned by the outlet as local ganja trader Ledu Mia. Photo: সংগৃহীত (collected)'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 010d94cac9e1616eb7018785972a4e76
@@ -52,6 +57,11 @@ sources:
     publisher: The Daily Campus
     date: 2026-11-13
     language: bn
+  - title: গোপন সংবাদের ভিত্তিতে অভিযান, চবিতে গাঁজাসহ আটক লেদু মিয়া
+    url: https://dailybanglapost.com/campus/71117
+    publisher: Daily Bangla Post
+    date: 2026-11-14
+    language: bn
 open_questions:
   - No weight or value for the seized ganja was published; the university described only a significant quantity.
   - No police statement, case number, charge or court outcome was reported; the man had just been handed over for legal action.
@@ -60,18 +70,17 @@ open_questions:
 
 The University of Chattogram administration detained a man named Ledu Mia with
 ganja in the Kolar Jhupri area of its campus on the evening of 13 November 2026.
-[@1] The university's proctorial body and its security department carried out
+[@1,3] The university's proctorial body and its security department carried out
 the raid together, and a significant quantity of ganja was recovered from the
-man. [@1]
+man. [@1,3]
 
 The administration said it acted on information that narcotics were being bought
 and sold in the campus area, with two assistant proctors and the head of the
 security department leading the operation. [@1] An assistant proctor of the
 university confirmed the detention to The Daily Campus, describing Ledu Mia as a
-local drug dealer caught red-handed with the drug. [@2]
+local drug dealer caught red-handed with the drug. [@2,3]
 
 Ledu Mia is a resident of the area around the university, and the administration
 said the raid was meant to check the spread of narcotics on campus and the free
 movement of outsiders. [@1] He was handed over to the police with the ganja
-recovered from him for further legal action. [@1]
-
+recovered from him for further legal action. [@1,3]
