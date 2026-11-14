@@ -1,14 +1,14 @@
 ---
 added_at: "2026-11-04T00:51:15.480Z"
 code: "C3BSQ5"
-date: 2010-07-08
+date: 2014-04-28
 country: us/hi
 place: Hilo, Hawaii
 coordinates: [19.7241, -155.0868]
 precision: locality
-type: arrest
-also: [raid]
-title: 14 arrested as federal agents shut Hilo's THC cannabis ministry
+type: sentence
+also: [arrest, raid]
+title: THC cannabis ministry founder Roger Christie sentenced to five years in prison
 summary: >-
   Federal agents arrested 14 people tied to the THC Cannabis Ministry in Hilo
   on 8 July 2010, ending a decade of open marijuana sales as a religious
@@ -29,14 +29,15 @@ details:
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [3]
-  details.case_stage: [1, 4]
+  details.case_stage: [1, 4, 5]
   details.date_precision: [3, 2]
   details.products: [3, 2, 1]
-  details.sentence_types: [1, 4]
+  details.sentence_types: [1, 4, 5]
   details.setting: [3, 1, 4]
 status: verified
 tags: [thc-ministry, dea, religious-freedom]
 open_questions:
+  - The March and July 2010 raids and arrests predate the report's 2014 sentencing date, which follows the latest step of the case.
   - No weight for the cannabis taken in the March or July 2010 searches was published; the plant counts in this report are indictment allegations.
   - No verifiable photograph of the 2010 raids or arrests could be recovered, so this report has no pictures.
 sources:
@@ -56,12 +57,18 @@ sources:
     date: 2010-07-23
   - title: Hawaii Island Marijuana Minister Sentenced to 5 Years in Prison
     url: https://mauinow.com/2014/04/29/hawaii-island-marijuana-minister-sentenced-to-5-years-in-prison/
+    archived: https://web.archive.org/web/20260512222425/https://mauinow.com/2014/04/29/hawaii-island-marijuana-minister-sentenced-to-5-years-in-prison/
     publisher: Maui Now
     date: 2014-04-29
+  - title: Roger and Sherryanne Christie Sentenced to Prison
+    url: https://www.fbi.gov/contact-us/field-offices/honolulu/news/press-releases/roger-and-sherryanne-christie-sentenced-to-prison
+    archived: https://web.archive.org/web/20260130103332/https://www.fbi.gov/contact-us/field-offices/honolulu/news/press-releases/roger-and-sherryanne-christie-sentenced-to-prison
+    publisher: Federal Bureau of Investigation
+    date: 2014-04-28
 ---
 
 Federal agents arrested 61-year-old Roger Cusick Christie at his Wainaku Terrace apartment in Hilo at 6:25 a.m. on 8 July 2010, with local police assisting federal agencies, alongside 13 other people tied to the Hawaii Cannabis (THC) Ministry in a series of Big Island raids. [@3] A federal grand jury had returned a sealed indictment against the fourteen the month before, and a judge unsealed it on 8 July. [@3] All thirteen co-defendants were released while Christie was denied bail and held in federal detention. [@2,3]
 
 Christie had run the ministry openly from a Hilo storefront for ten years as a state-licensed cannabis minister, giving marijuana as a religious sacrament and claiming protection under the Religious Freedom Restoration Act. [@1,2] In 2008 an undercover officer bought marijuana from Christie at the ministry on three occasions, the largest a half-pound. [@1] A court-authorized wiretap on three of Christie's telephone lines from April to July 2009 recorded the trade in detail: in 2009 the ministry opened three days a week from 2 to 5 p.m., serving up to 70 customers per session and selling more than half a pound of marijuana sacrament for over $1,000 in profit, with suggested donations of $50 for an eighth of an ounce, $100 for a quarter-ounce and $400 for an ounce. [@1] Agents had already raided Christie's home and the ministry on 10 March 2010 and made no arrests then. [@2,3]
 
-The indictment charged conspiracy to manufacture, distribute and possess with intent to distribute 100 or more marijuana plants, manufacturing marijuana, and possession with intent to distribute 240 marijuana plants. [@2] Christie argued the federal marijuana laws violated his religious freedom, but the district court denied the motion. [@1] In September 2013 Roger Christie pleaded guilty to the marijuana conspiracy and to two tax counts for failing to file federal returns for 2008 and 2009, and Sherryanne Christie pleaded guilty to a conspiracy involving 50 or more plants; they forfeited $21,494 in proceeds and a Hilo condominium. [@1] He was later sentenced to five years in federal prison and she to 27 months. [@4]
+The indictment charged conspiracy to manufacture, distribute and possess with intent to distribute 100 or more marijuana plants, manufacturing marijuana, and possession with intent to distribute 240 marijuana plants. [@2] Christie argued the federal marijuana laws violated his religious freedom, but the district court denied the motion. [@1] In September 2013 Roger Christie pleaded guilty to the marijuana conspiracy and to two tax counts for failing to file federal returns for 2008 and 2009, and Sherryanne Christie pleaded guilty to a conspiracy involving 50 or more plants; they forfeited $21,494 in proceeds and a Hilo condominium. [@1] On 28 April 2014 Judge Leslie Kobayashi sentenced him to 60 months in federal prison with four years of supervised release and her to 27 months with three years, after refusing his request to use marijuana for religious purposes while on release. [@4,5]
