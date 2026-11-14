@@ -241,9 +241,10 @@ sources:
     publisher: Harian Metro
     date: 2026-11-11
     language: ms
-open_questions:
-    - No court appearance, trial date or sentence has been reported; the three remained in police custody on provisional importation charges.
-    - The recruiter and the intended recipients of the cannabis in Mauritius have not been identified in the reporting.
+  - title: 'NST CRIME WATCH: Policeman loses hand in parang attack, underage clubbers and RM28.4mil heist [WATCH]'
+    url: https://www.nst.com.my/amp/news/nation/2026/11/1577159/nst-crime-watch-policeman-loses-hand-parang-attack-underage-clubbers
+    publisher: New Straits Times
+    date: 2026-11-14
 ---
 
 Three Malaysian nationals who arrived on Emirates flight EK709 from Dubai were searched at Plaisance,
@@ -278,7 +279,7 @@ The three Malaysians were detained at Sir Seewoosagur Ramgoolam International Ai
 
 The 22-year-old man and the 18-year-old woman, reported to live together in Penang, carried about 32.5 kg and 32.6 kg of cannabis respectively. [@2,10,14,30,31]
 
-Kwong Wah said the three landed at Sir Seewoosagur Ramgoolam International Airport on Emirates flight EK709 from Dubai and drew the attention of officers for their movements and passenger records. [@11] The Mauritius Revenue Authority said its Customs Anti-Narcotics Section decided to inspect the three passengers' checked baggage after assessing their records and questioning them. [@11,13] Officers found 70 vacuum-packed black rectangular plastic parcels of green plant matter, suspected to be cannabis, and the Anti-Drug and Smuggling Unit took over the investigation. [@11,14,15] Kwong Wah said the three were arrested on 2 November 2026, the day of the seizure. [@11] Kwong Wah said the Mauritius Revenue Authority issued its statement on a Wednesday and that the three arrived at the airport 'recently' on flight EK709 from Dubai. [@11]
+Kwong Wah said the three landed at Sir Seewoosagur Ramgoolam International Airport on Emirates flight EK709 from Dubai and drew the attention of officers for their movements and passenger records. [@11] The arrests were carried out by Mauritius' Anti-Drug and Smuggling Unit, in collaboration with Customs, after the three arrived from Dubai aboard Emirates Flight EK709. [@39] The Mauritius Revenue Authority said its Customs Anti-Narcotics Section decided to inspect the three passengers' checked baggage after assessing their records and questioning them. [@11,13] Officers found 70 vacuum-packed black rectangular plastic parcels of green plant matter, suspected to be cannabis, and the Anti-Drug and Smuggling Unit took over the investigation. [@11,14,15] Kwong Wah said the three were arrested on 2 November 2026, the day of the seizure. [@11] Kwong Wah said the Mauritius Revenue Authority issued its statement on a Wednesday and that the three arrived at the airport 'recently' on flight EK709 from Dubai. [@11]
 
 The three suspects—two men aged 30 and 22 and an 18-year-old woman—remain in police custody facing provisional charges related to the importation of dangerous drugs for the purpose of distribution. [@12]
 
