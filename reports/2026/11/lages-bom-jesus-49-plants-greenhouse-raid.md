@@ -79,6 +79,11 @@ sources:
     publisher: Lê Notícias
     date: 2026-11-13
     language: pt
+  - title: PM apreende 49 pés de maconha e estrutura de cultivo em Lages
+    url: https://www.oestemais.com/policia/2026/11/13/pm-apreende-49-pes-de-maconha-e-estrutura-de-cultivo-em-lages/
+    publisher: Oeste Mais
+    date: 2026-11-13
+    language: pt
 media:
   - kind: photo
     url: https://scc10.com.br/radioclube/pm-apreende-49-pes-de-maconha-em-residencia-em-lages/
@@ -102,14 +107,14 @@ open_questions:
 
 On the night of Thursday 12 November 2026, Santa Catarina military police
 arrested one man and seized 49 cannabis plants at a house in the Bom Jesus
-district of Lages. [@1,2,4,5,6] The man identified as responsible for the structure and the illicit material was 45 years old. [@7] Officers recorded the incident at about 19h45 during
+district of Lages. [@1,2,4,5,6,8] The man identified as responsible for the structure and the illicit material was 45 years old. [@7] Officers recorded the incident at about 19h45 during
 patrol, after noticing a strong smell of marijuana near a residence and finding
 a cultivation structure. [@1,2,3,4,5] Inside the property they found three greenhouses
 with ventilation, lighting and heating equipment, along with other cultivation
-materials. [@1,2,5,6,7] Police also seized a press and various inputs used to handle the drug. [@7]
+materials. [@1,2,5,6,7,8] Police also seized a press and various inputs used to handle the drug. [@7]
 
 Officers also seized 1.325 kg of marijuana, which the police said was packaged
-and ready for sale. [@1,2,3,4,5,6,7] The man was taken to the Civil Police station, where
+and ready for sale. [@1,2,3,4,5,6,7,8] The man was taken to the Civil Police station, where
 the incident was registered as drug trafficking. [@1,2,4,5,6] The plants, the packaged
 drug and the equipment were collected and placed at the disposal of the
 authorities responsible for the investigation. [@1] The outlet attributes its
