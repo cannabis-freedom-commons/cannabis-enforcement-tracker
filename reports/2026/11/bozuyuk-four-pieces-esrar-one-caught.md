@@ -82,6 +82,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-12
     language: tr
+  - title: Bilecik'te zehir tacirinlerine geçit yok! Narkotik köpeği izini buldu, kokain ve skunk ele geçirildi
+    url: https://www.yarin11.com/bilecikte-zehir-tacirinlerine-gecit-yok-narkotik-kopegi-izini-buldu-kokain-ve-skunk-ele-gecirildi
+    publisher: Yarın Gazetesi
+    date: 2026-11-12
+    language: tr
 open_questions:
     - No weight in grams or kilograms was published, only four pieces of an unspecified amount.
     - No separate date for the operation was published; 11 November 2026 is the publication date and is used as the incident date.
@@ -114,4 +119,4 @@ personal-use possession allegation in the course of the Bozüyük branch
 operations that also produced the cannabis seizure. [@1] The seized cannabis was
 reported as four pieces, 4 parça, of esrar maddesi. [@1]
 
-In the search, with a narcotics dog assisting, officers seized 2 kg 200 g of cocaine and 5 kg 400 g of skunk. [@5] The suspect was detained on the charges of buying, accepting or possessing a narcotic substance for use and of manufacturing and trading in narcotics, and was remanded by the court and sent to a prison facility. [@6]
+In the search, with a narcotics dog assisting, officers seized 2 kg 200 g of cocaine and 5 kg 400 g of skunk. [@5,7] The suspect was detained on the charges of buying, accepting or possessing a narcotic substance for use and of manufacturing and trading in narcotics, and was remanded by the court and sent to a prison facility. [@6,7]
