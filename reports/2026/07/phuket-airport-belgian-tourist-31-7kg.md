@@ -57,6 +57,11 @@ sources:
     publisher: DHnet
     date: 2026-07-10
     language: fr
+  - title: Une touriste belge prise en flagrant délit avec des valises remplies de cannabis en Thaïlande
+    url: https://www.7sur7.be/monde/une-touriste-belge-priseen-flagrant-delit-avec-des-valises-remplies-de-cannabis-en-thailande~a96fb056/
+    publisher: 7sur7.be
+    date: 2026-07-08
+    language: fr
 open_questions:
   - No court outcome beyond the reported charges and handover to Sakhu investigators was published in the opened sources.
   - No separate cannabis-only value was published in the opened sources; only a possible fine of up to four times the seized goods' value was mentioned.
@@ -66,15 +71,15 @@ open_questions:
 On 7 July, 21-year-old Belgian tourist Salma E.K. went to Phuket airport to
 board a flight to Paris. [@1,4] She was arrested at Phuket airport during a check
 as she returned from holiday. [@1] Customs officers checked her two suitcases
-after flagging them as suspicious. [@1,4] She admitted that both suitcases and
-everything inside them belonged to her. [@1,4] Officers handcuffed her and handed
+after flagging them as suspicious. [@1,4,5] She admitted that both suitcases and
+everything inside them belonged to her. [@1,4,5] Officers handcuffed her and handed
 her to Sakhu police with the seizure. [@1,4]
 
 Officers at the international departures terminal identified one green-and-white
 suitcase and one black suitcase during baggage screening. [@2] A search found 12
 vacuum-sealed packages with 28.3 kilograms of cannabis flower and eight packages
 of processed cannabis weighing 3.4 kilograms, about 31.7 kilograms in total.
-[@2] The Phuket News identifies the woman as 21-year-old Belgian national Salma
+[@2,5] The Phuket News identifies the woman as 21-year-old Belgian national Salma
 El Khnati. [@3]
 
 She was charged with attempting to export goods without customs clearance under
