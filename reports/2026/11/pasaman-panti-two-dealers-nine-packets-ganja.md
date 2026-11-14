@@ -57,16 +57,25 @@ sources:
     publisher: ValoraNews.com
     date: 2026-11-13
     language: id
+  - title: Polisi Bekuk Dua Pria Diduga Pengedar Ganja di Pasaman, Tujuh Paket Besar Disita
+    url: https://katasumbar.com/polisi-bekuk-dua-pria-diduga-pengedar-ganja-di-pasaman-tujuh-paket-besar-disita/
+    publisher: Kata Sumbar
+    date: 2026-11-13
+    language: id
+open_questions:
+    - No weight, value, plant count or charge sheet for the nine packets of ganja was published, so no kilogram figure is recorded.
+    - No court date, trial or sentence outcome has been reported for the two suspects.
+    - The accounts rest on one police statement published by outlets of the same media network, so no independent second agency source was found.
 ---
 
 Satresnarkoba Polres Pasaman detained two suspected cannabis dealers at about
 20.30 WIB on Thursday 12 November 2026 at Jorong Katimahar, Nagari Panti Timur,
-Kecamatan Panti, in Pasaman regency, West Sumatra. [@1,3] The two men, PD alias
+Kecamatan Panti, in Pasaman regency, West Sumatra. [@1,3,4] The two men, PD alias
 Sipon and Ilcan Prayono alias Teil aged 38, were local residents suspected of
-being involved in the cannabis trade. [@1,3]
+being involved in the cannabis trade. [@1,3,4]
 
 Officers seized nine packets believed to contain cannabis, seven large and two
-medium, plus a mobile phone and a motorcycle. [@1] Kasat Resnarkoba Polres
+medium, plus a mobile phone and a motorcycle. [@1,4] Kasat Resnarkoba Polres
 Pasaman AKP Fahrul Roji led the arrest with personnel of Tim Opsnal Elang Timur.
 [@1,3]
 
@@ -78,6 +87,6 @@ undercover officer at a coffee shop in Jorong Kuamang, but redirected the
 meeting to another location in Jorong Katimahar. [@1,3]
 
 At the planned transaction, the second suspect, IP, brought a large cannabis
-packet wrapped in brown tape from the motorcycle trunk and handed it to PD. [@2]
+packet wrapped in brown tape from the motorcycle trunk and handed it to PD. [@2] Police then searched the home of IP alias Teil and found six large ganja packets wrapped in brown tape and two medium packets wrapped in black and red plastic. [@4]
 Officers seized a blue Realme mobile phone and an unnumbered black Suzuki
-Skywave motorcycle. [@2]
+Skywave motorcycle. [@2] Both suspects, with all the seized evidence, were held at Mapolres Pasaman for further legal process and were charged under Article 114 paragraph (1), subsidiarily Article 111 paragraph (1), of Law 35 of 2009 on Narcotics, in conjunction with Law 1 of 2023 and Law 1 of 2026. [@4]
