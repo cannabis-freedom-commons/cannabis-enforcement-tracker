@@ -45,31 +45,32 @@ sources:
     publisher: Jagonews24.com
     date: 2026-11-13
     language: bn
-open_questions:
-  - The 1,210 total covers all offences in the wider sweep; the report counts only the 130 drug users plus 34 alleged drug traders as arrested.
-  - It is not reported which of the 164 drug-linked detainees were tied specifically to the 15.135 kg of ganja rather than yaba, tapentadol, syrup or liquor.
-  - No weight was stated for the additional 12 puria of ganja reported alongside the weighed amount, so it is not included in the cannabis figure.
-  - No prison terms were stated for the 43 people jailed by mobile courts, so no prison figure is recorded.
-  - No names, ages or arrest sites were published for the drug-linked detainees.
-  - The whole account rests on a single opened report of the range police statement, without independent corroboration.
+  - title: 1,210 arrested in special operation by Chattogram Range Police
+    url: https://dailyasianage.com/news/360116/1210-arrested-in-special-operation-by-chattogram-range-police
+    publisher: The Asian Age
+    date: 2026-11-13
+  - title: চট্টগ্রাম রেঞ্জে একদিনে ১২১০ জন গ্রেপ্তার, আওয়ামী লীগের ১৩১ - NewsNow24
+    url: https://newsnow24.com/prio-chattogram/vypriDUQFA
+    publisher: NewsNow24
+    date: 2026-11-13
+    language: bn
 ---
 
 Law-enforcement agencies detained 1,210 people in a 24-hour special operation
 across Chattogram and 10 other districts targeting teen gangs, mugging,
-extortion, terrorist activity and drugs. [@1] In the anti-drug part of the
-drive, officers arrested 130 drug users and 34 alleged drug traders. [@1]
+extortion, terrorist activity and drugs. [@1,2] In the anti-drug part of the
+drive, officers arrested 130 drug users and 34 alleged drug traders. [@1,3]
 Officers also detained 537 people in the anti-teen-gang part of the operation.
-[@1] The operation ran from Thursday morning to Friday morning on 13 November
+[@1] Of the 537 teenagers detained, 339 were handed to guardians on bond while legal action was taken against the remaining 198. [@2] The operation ran from Thursday morning to Friday morning on 13 November
 2026. [@1]
 
 Officers seized 15 kg 135 grams of ganja, the local name for cannabis flower,
-alongside yaba pills and other drugs. [@1] Mobile courts jailed 43 people for
-various terms during the anti-drug drive. [@1] The authorities collected Tk
-26,700 in fines. [@1] Police filed 28 cases under the narcotics law. [@1]
+alongside yaba pills and other drugs. [@1,3] Mobile courts jailed 43 people for
+various terms during the anti-drug drive. [@1,2] The authorities collected Tk
+26,700 in fines. [@1,3] Police filed 28 cases under the narcotics law. [@1]
 
 Chattogram Range Deputy Inspector General Abdul Quddus Chowdhury announced the
 results of the operation. [@1] Officers arrested 131 members of an organisation
 whose activities were declared banned. [@1] Of the teenagers detained, 339 were
 released to guardians on bond. [@1] The law-enforcement agencies said such
 special operations would continue in the public interest. [@1]
-
