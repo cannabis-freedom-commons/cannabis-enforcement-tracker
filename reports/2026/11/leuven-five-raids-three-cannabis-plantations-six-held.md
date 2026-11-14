@@ -104,21 +104,26 @@ sources:
     publisher: Crimesite
     date: 2026-11-13
     language: nl
+  - title: La police de Louvain démantèle trois grandes plantations de cannabis et arrête six suspects
+    url: https://www.vrt.be/vrtnws/fr/2026/11/13/la-police-de-louvain-demantele-trois-grandes-plantations-de-cann/
+    publisher: VRT NWS
+    date: 2026-11-13
+    language: fr
 ---
 
-Six Albanian men aged between 29 and 57 were arrested during the searches. [@1,8]
+Six Albanian men aged between 29 and 57 were arrested during the searches. [@1,8,9]
 Five simultaneous house searches took place under an investigating judge on
-Monday 9 November 2026 in Etterbeek, Evere, Leuven, Overijse and Tervuren. [@2,7,8]
+Monday 9 November 2026 in Etterbeek, Evere, Leuven, Overijse and Tervuren. [@2,7,8,9]
 Police found three professional cannabis plantations during the searches, two of
-them fully operational and active. [@3,7,8] Leuven prosecutor's office spokesperson
+them fully operational and active. [@3,7,8,9] Leuven prosecutor's office spokesperson
 Ellen Durie said two of the locations held fully operational and active
 plantations. [@6] The searches took place in the districts of Leuven,
 Halle-Vilvoorde and Brussels. [@3,8]
 
-Officers found more than 2,000 cannabis plants in total. [@2,7,8] At the other
+Officers found more than 2,000 cannabis plants in total. [@2,7,8,9] At the other
 locations investigators found large quantities of harvested marijuana. [@2,7] The
 plantations were dismantled. [@2,7,8] Almost 55 kg of harvested marijuana was seized
-in the case. [@5,7,8] Investigators also seized more than 17,000 euros in cash. [@2,7,8]
+in the case. [@5,7,8,9] Investigators also seized more than 17,000 euros in cash. [@2,7,8,9]
 All the cannabis found will be destroyed by the police. [@1,7]
 
 The six suspects were brought before the investigating judge on Tuesday 10
