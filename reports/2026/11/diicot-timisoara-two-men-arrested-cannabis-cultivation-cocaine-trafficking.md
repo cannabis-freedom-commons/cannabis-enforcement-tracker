@@ -46,6 +46,11 @@ media:
     media_url: https://www.ziuaconstanta.ro/images/stories/2026/11/13/Claudia%20M/8b2267f8-7eb4-417c-a08c-4624009d6a65.jpg
     publisher: ZIUA de Constanta
     caption: 'DIICOT handout photo published with the report on the two men detained and arrested over cannabis cultivation and cocaine trafficking in Timișoara. Photo: DIICOT'
+  - kind: photo
+    url: https://tribunasnm.ro/2026/11/13/perchezitii-la-traficanti-de-droguri-din-timis-si-arad-zeci-de-plante-de-canabis-si-sute-de-grame-de-cocaina-descoperite-de-politisti/
+    media_url: https://tribunasnm.ro/wp-content/uploads/2026/11/Perchezitii-la-traficanti-de-droguri-din-Timis-si-Arad-zeci-de-plante-de-canabis-si-sute-de-grame-de-cocaina-descoperite-de-politisti-2-768x1024.jpeg
+    publisher: Tribuna
+    caption: 'Poliția Română photo of bagged material from the Timiș and Arad searches. Photo: Poliția Română'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f2bcf0311ec6c9853d072df85993f571
@@ -61,10 +66,16 @@ sources:
     publisher: Radio România Reșița
     date: 2026-11-13
     language: ro
+  - title: 'Percheziții la traficanți de droguri din Timiș și Arad: zeci de plante de canabis și sute de grame de cocaină, descoperite de polițiști'
+    url: https://tribunasnm.ro/2026/11/13/perchezitii-la-traficanti-de-droguri-din-timis-si-arad-zeci-de-plante-de-canabis-si-sute-de-grame-de-cocaina-descoperite-de-politisti/
+    publisher: Tribuna
+    date: 2026-11-13
+    language: ro
 open_questions:
     - The cocaine weight (200 grams) is from the second case; no cannabis weight was reported for that case.
     - The indoor and outdoor cannabis cultivation is described as taking place over 2026; no exact date for the searches is given beyond 12 November 2026.
     - No plea, trial or sentence beyond the 30-day preventive arrest was reported.
+    - One account lists four kilograms of buds and also cannabis inflorescences, while the figure used here follows accounts that describe about 4 kilograms of buds and inflorescences together.
 ---
 
 On 12 November 2026, prosecutors at DIICOT's Timișoara Territorial Service
@@ -73,20 +84,20 @@ charged with trafficking in risk drugs and a 58-year-old charged with
 trafficking in high-risk drugs. [@1,2]
 
 During 2026, the 42-year-old defendant initiated and developed cannabis
-cultivation, both indoor and outdoor, intended for sale. [@1] A search in comuna
+cultivation, both indoor and outdoor, intended for sale. [@1,3] A search in comuna
 Bata, Arad County, found and seized 54 cannabis plants in the drying process,
 various bags, sacks and containers holding about 4 kilograms of cannabis buds
 and inflorescences, handmade cigarettes, objects bearing traces of the
-substance, a scale, a grinder, and other means of proof. [@1,2]
+substance, a scale, a grinder, and other means of proof. [@1,2,3]
 
 In the second case, investigators established that during 2026 a 58-year-old
 defendant purchased, possessed and sold cocaine in the area of Timiș County.
-[@1] Two home-search warrants were executed in the city of Timișoara, where
+[@1] The 58-year-old man is from Timiș. [@3] Two home-search warrants were executed in the city of Timișoara, where
 several bags containing a total of 200 grams of cocaine, a precision electronic
 scale, objects bearing traces of the substance, and other means of proof were
-identified. [@1,2]
+identified. [@1,2,3]
 
 The judges of rights and freedoms at the Timiș Court ordered the preventive
-arrest of the defendants for a period of 30 days. [@1,2] The judicial activities
+arrest of the defendants for a period of 30 days. [@1,2,3] The judicial activities
 were carried out together with officers of the Organised Crime Combat Brigade
-Timișoara. [@1] The operation was supported by gendarmes of the Glad Voievod Mobile Gendarmerie Grouping in Timișoara. [@2]
+Timișoara. [@1,3] The operation was supported by gendarmes of the Glad Voievod Mobile Gendarmerie Grouping in Timișoara. [@2]
