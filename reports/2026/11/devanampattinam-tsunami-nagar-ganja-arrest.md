@@ -38,10 +38,14 @@ sources:
     publisher: Dinamalar
     date: 2026-11-12
     language: ta
+  - title: கஞ்சா விற்ற 3 வாலிபர்கள் கைது
+    url: https://www.dinamalar.com/news/puducherry/3-teenagers-selling-cannabis-arrested/4375466
+    publisher: Dinamalar
+    date: 2026-11-13
+    language: ta
 open_questions:
-  - No quantity or weight for the seized ganja was published.
-  - No charge, court hearing or further court outcome was reported.
-  - The account rests on a single accessible Dinamalar report; no second account of this arrest was found.
+    - No charge, court hearing or further court outcome was reported.
+    - Both accounts of the arrest are Dinamalar reports of the same police information, so the 45-gram weight is not independently corroborated.
 ---
 
 In Cuddalore, police arrested a young man after officers found that he had been
@@ -50,11 +54,10 @@ during a patrol by Devanampattinam Sub-Inspector Murugan and other police
 officers on 12 November 2026 in the Cuddalore area. [@1] During that patrol, the
 officers stopped a young man who was standing near the burial ground at Tsunami
 Nagar and took him for a search. [@1] The search showed that he was carrying
-ganja, which the officers found in his possession and seized on the spot. [@1]
+ganja, which the officers found in his possession and seized on the spot. [@1] Officers seized 45 grams of ganja, about 0.045 kilograms, from Akash. [@2]
 
 Questioning after the seizure identified the young man as Akash, aged 24, the
 son of Anandan, who is from Devanampattinam. [@1] That questioning also
 established that Akash had been trying to sell the ganja that officers had just
 seized from him. [@1] Following the questioning, police registered a criminal
 case against Akash and arrested him in connection with the attempted sale. [@1]
-
