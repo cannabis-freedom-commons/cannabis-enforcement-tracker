@@ -72,28 +72,28 @@ sources:
     publisher: Telegraf.rs
     date: 2026-11-13
     language: sr
-open_questions:
-  - The articles give no separate date for the search; 13 November 2026 is their publication date and is used for the incident date.
-  - Neither source confirms by laboratory analysis that the seized material was cannabis; the 90 kilograms are described as resembling marijuana and the 200 kilograms as suspected psychoactive cannabis.
-  - No plant count was published for the cut plants, only their approximate weight.
-  - The identity of the fifth wanted suspect and any later court outcome were not reported.
+  - title: 'POLICIJA OTKRILA ZASADE MARIHUANE U TOPOLI: Zaplenjeno oko 100 kilograma narkotika, oprema, vagice... (FOTO)'
+    url: https://www.novosti.rs/hronika/hapsenja-i-istraga/1670807/policija-otkrila-zasade-marihuane-topoli-zaplenjeno-oko-100-kilograma-narkotika-oprema-vagice-foto
+    publisher: Novosti
+    date: 2026-11-13
+    language: sr
 ---
 
 Belgrade police officers from the Mladenovac station arrested M.M. (48), N.R.
 (37) and V.Dj. (40) from Belgrade and S.M. (57) from Jagodina, while an
-intensive search continued for one more person. [@2] The arrests were made on
+intensive search continued for one more person. [@2,5] The arrests were made on
 the order of the Higher Public Prosecutor's Office in Kragujevac on suspicion of
-unauthorised production and placing narcotic drugs into circulation. [@2,4] The
+unauthorised production and placing narcotic drugs into circulation. [@2,4,5] The
 suspects were ordered into detention for up to 48 hours and were to be brought
 to the competent prosecutor's office in Kragujevac with a criminal complaint.
-[@2,4]
+[@2,4,5]
 
 Police found the four men during a search of a flat and other rooms in Topola
 municipality used by the suspect being sought. [@1,3,4] In that search police seized
 about 90 kilograms of a drug resembling marijuana, along with equipment for
-growing and processing the drug and precision scales. [@1,3,4] A short distance from
+growing and processing the drug and precision scales. [@1,3,4,5] A short distance from
 the building, in a forested part of the plot, police found and seized about 200
-kilograms of cut plants suspected to be psychoactive cannabis. [@1,3,4]
+kilograms of cut plants suspected to be psychoactive cannabis. [@1,3,4,5]
 
 Together, the two seizures amounted to about 290 kilograms of suspected cannabis
 material. [@1]
