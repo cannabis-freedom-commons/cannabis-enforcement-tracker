@@ -58,35 +58,28 @@ sources:
     publisher: El Universal
     date: 2026-11-12
     language: es
-open_questions:
-  - 'The accounts disagree on the number of firearms found: the Fiscalía''s own statement reported eight, while Carlos Jiménez of C4 en Alerta reported 14, and the report uses the Fiscalía figure for the operation.'
-  - No weight, dose count or value was published for the marijuana, so no cannabis quantity is recorded.
-  - The Fiscalía's own statement did not mention marijuana, so the drug finding rests on the reporting of Carlos Jiménez of C4 en Alerta.
-  - The reports do not say whether the seized drug material was laboratory-confirmed as cannabis.
-  - The searched property is described as a house in some accounts and as a department in others.
-  - No date is given for the original threat against the delivery rider; 10 November 2026 is the date of the riders' protest that followed it.
-  - No charges, court date or court outcome have been reported for the suspect or for any other person.
-  - The reports give no official inventory of the items secured, and the number of mobile phones and other objects varies between accounts.
-  - Some accounts say the case could move to federal jurisdiction, but no decision on that has been reported.
-  - The operation's start time is given only as the early hours of 12 November 2026, with no exact hour published.
+  - title: 'Cateo a “Lord Pistolas” en CDMX: Fiscalía asegura arsenal y marihuana tras amenaza a repartidor'
+    url: https://www.diariodemorelos.com/noticias/cateo-lord-pistolas-en-cdmx-fiscalia-asegura-arsenal-marihuana-insignias-militares-amenaza-repartidor/amp
+    publisher: Diario de Morelos
+    date: 2026-11-12
+    language: es
 ---
 
 Mexico City prosecutors searched the home of the man filmed threatening a
 delivery rider and found 14 firearms and marijuana, while the suspect, captured
 on video, remained unidentified and undetained. [@1] The Fiscalía General de
 Justicia de la Ciudad de México carried out the search in the early hours of 12
-November 2026. [@3] The searched property is on Rinconada del Valle street in
-colonia Xoco, Benito Juárez. [@3]
+November 2026. [@3,4] The search was carried out by the investigative police with forensic experts and National Guard agents under a search warrant authorised by a control judge. [@4] The searched property is on Rinconada del Valle street in
+colonia Xoco, Benito Juárez. [@3,4]
 
 Milenio reported that Carlos Jiménez of the programme C4 en Alerta said the
 house held 14 firearms, most of them collectible pieces, along with at least
 three mobile phones and doses of marijuana. [@2] The Fiscalía's own statement
-reported eight firearms seized in the search. [@3]
+reported eight firearms seized in the search. [@3,4] A more detailed MVS Noticias account cited here said investigators found 12 firearms, ten short and two long, as well as shoulder boards with Mexican Army division-general and colonel insignia, live cartridges and a high-capacity drum magazine known as “huevo de toro”. [@4]
 
-The operation produced no arrests. [@3] The Fiscalía said it was continuing its
-investigation to locate the man and clarify the facts. [@3] The search followed
+The operation produced no arrests. [@3,4] The Fiscalía said it was continuing its
+investigation to locate the man and clarify the facts. [@3,4] The search followed
 a video in which the resident aimed a pistol at the rider and demanded an
 apology. [@2] On 10 November 2026 app-based delivery riders blocked Eje 8 Sur in
 Del Valle after one of them reported being threatened with a pistol. [@2] The
-suspect and his partner were not in the property when officers searched it. [@2]
-
+suspect and his partner were not in the property when officers searched it. [@2,4] This account identifies the suspect as Kevin Martínez Velazco, also called Kevin “N” and in some ministerial documents Humberto “N”. [@4]
