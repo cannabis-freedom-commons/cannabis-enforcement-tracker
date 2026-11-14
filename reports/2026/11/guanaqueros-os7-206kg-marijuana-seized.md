@@ -82,6 +82,13 @@ sources:
     publisher: Mi Radio
     date: 2026-11-13
     language: es
+  - title: 'Decomisan más de 200 kilos de marihuana en Guanaqueros: droga fue avaluada en $1.650 millones'
+    url: https://www.atacamanoticias.cl/2026/11/13/decomisan-mas-de-200-kilos-de-marihuana-en-guanaqueros-droga-fue-avaluada-en-1-650-millones/
+    publisher: Atacama Noticias
+    date: 2026-11-13
+    language: es
+open_questions:
+    - No suspect was named or charged in these accounts; the drug load was found in a white Chevrolet Prisma with no driver identified.
 ---
 
 Specialist Carabineros officers of OS7 Coquimbo seized processed marijuana
@@ -93,15 +100,15 @@ entrance to the coastal town, where officers inspected a white Chevrolet Prisma.
 [@2]
 
 Officers recovered 206 kilos and 546 grams of processed marijuana packed in 198
-packages and one bag. [@1,3,4,5,6,7] Carabineros valued the load at more than 1,650
-million pesos. [@1,3,5,6,7] Police said the seizure kept more than 413,000 doses from
-reaching Coquimbo and cities in central and southern Chile. [@1,3,5,6]
+packages and one bag. [@1,3,4,5,6,7,8] Carabineros valued the load at more than 1,650
+million pesos. [@1,3,5,6,7,8] Police said the seizure kept more than 413,000 doses from
+reaching Coquimbo and cities in central and southern Chile. [@1,3,5,6,8]
 
 Carabineros said the Guanaqueros seizure brought its road-control seizures in
 the Coquimbo Region to more than 700 kilos of drugs over seven days. [@1,3,5,6,7] The
 same week included a seizure of more than 30 kilos of marijuana at the region's
 northern access by OS7 and the Elqui highway unit, plus operations in Choapa
-province that removed almost half a tonne of illicit substances. [@1,5] Lieutenant
+province that removed almost half a tonne of illicit substances. [@1,5,8] Lieutenant
 Colonel Eugenio Olea of the Coquimbo Prefecture said road checks are a
 fundamental part of fighting drug trafficking and that police presence on the
 routes would be strengthened. [@1,6]
