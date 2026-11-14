@@ -87,18 +87,24 @@ sources:
     publisher: Yarın Gazetesi
     date: 2026-11-12
     language: tr
+  - title: Bilecik'te uyuşturucu operasyonunda 4 parça esrar ele geçirildi, 1 şüpheli yakalandı - Son Dakika
+    url: https://www.sondakika.com/3-sayfa/haber-bilecik-te-uyusturucu-operasyonunda-4-parca-esrar--20419342/
+    publisher: Son Dakika
+    date: 2026-11-12
+    language: tr
+  - title: Bilecik'te uyuşturucu operasyonunda 4 parça esrarla 1 şüpheli yakalandı
+    url: https://www.haberler.com/amp/bilecik-te-uyusturucu-operasyonunda-4-parca-20419318-haberi/
+    publisher: Haberler
+    date: 2026-11-12
+    language: tr
 open_questions:
-    - No weight in grams or kilograms was published, only four pieces of an unspecified amount.
-    - No separate date for the operation was published; 11 November 2026 is the publication date and is used as the incident date.
+    - No weight in grams or kilograms was published for the four pieces, only an unspecified amount.
+    - No separate date for the operation was published; local accounts appeared on 11 November and the new accounts on 12 November 2026.
     - No name, age or other identifying detail for the suspect was published.
-    - No custody decision, formal charge filing or court outcome beyond the stated personal-use allegation was reported.
-    - No street, address or vehicle was named for where the cannabis was found.
-    - 'The accounts differ on the unit and area involved: two name a Bozüyük anti-narcotics unit, as a branch directorate in one and a bureau in another, while a third attributes the work to the provincial Bilecik police narcotics branch and says it covered the whole city.'
-    - All the accounts are brief local news items that may repeat the same police statement rather than independently verify it.
-    - No separate date for the search was published; 12 November 2026 is the publication date and is used as the incident date.
-    - No street, address, vehicle make or plate for where the search took place was published.
-    - No value estimate for the cocaine or the skunk was published.
-    - The 2.2 kg of cocaine is not a cannabis figure, so kg_seized records the 5.4 kg of skunk only.
+    - No custody decision, formal charge filing or court outcome beyond the stated personal-use allegation was reported for the four-piece seizure.
+    - No street, address, vehicle make or plate for where the cannabis was found was published.
+    - The accounts differ on the unit and area involved, naming a Bozuyuk anti-narcotics unit or the provincial Bilecik police narcotics branch.
+    - No value estimate for the seized substances was published.
 ---
 
 Anti-drug work in Bilecik was continuing. [@1,3] Police teams of the Emniyet
@@ -106,13 +112,13 @@ seized cannabis in the course of work carried out in the province. [@1,3] The
 operations were carried out by the Bozüyük Narcotic Crimes Combat Branch
 Directorate, known in Turkish as the Bozüyük Narkotik Suçlarla Mücadele Şube
 Müdürlüğü. [@1] Bozüyük's narcotics crime bureau searched one vehicle and one person in the course of its anti-drug work. [@4] In those operations the branch seized cannabis substance, esrar
-maddesi, in four pieces. [@1,2,3] The pieces were of various amounts, stated only as
-muhtelif miktarda. [@1,2,3] Esrar maddesi is the cannabis substance the Bozüyük
+maddesi, in four pieces. [@1,2,3,8] The pieces were of various amounts, stated only as
+muhtelif miktarda. [@1,2,3,9] Esrar maddesi is the cannabis substance the Bozüyük
 branch said it had recovered in the four pieces. [@1]
 
-Officers also caught one suspect during the same operations. [@1,2,3] The person was
+Officers also caught one suspect during the same operations. [@1,2,3,8] The person was
 caught for the offence of buying, accepting or possessing a narcotic substance
-for use. [@1,2,3] The offence is stated as kullanmak için uyuşturucu madde satın
+for use. [@1,2,3,9] The offence is stated as kullanmak için uyuşturucu madde satın
 almak, kabul etmek veya bulundurmak. [@1] In all, one suspect was caught,
 reported as toplam 1 şüpheli şahıs. [@1] The detention was made under that
 personal-use possession allegation in the course of the Bozüyük branch
