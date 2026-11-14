@@ -59,6 +59,11 @@ sources:
     publisher: সিলেট ভয়েস
     date: 2026-11-13
     language: bn
+  - title: মাধবপুরে কভার ভ্যান থেকে ৭২ কেজি গাঁজা উদ্ধার
+    url: https://manobkantha.com.bd/news/country/674515
+    publisher: Manobkantha
+    date: 2026-11-13
+    language: bn
 open_questions:
     - The operation is described as Thursday night and the article was published Friday 13 November, so 12 November is used as the incident date.
     - No street value for the 72 kg of ganja was published.
@@ -67,15 +72,15 @@ open_questions:
 ---
 
 SRB-9 detained three men with 72 kg of ganja after searching a covered van in
-Madhabpur, Habiganj. [@1,3] They were detained on Thursday night in the Stadium
+Madhabpur, Habiganj. [@1,3,4] They were detained on Thursday night in the Stadium
 Para area of Madhabpur municipality on the Dhaka-Sylhet highway. [@1] An SRB-9
 team signalled the covered van to stop at a checkpoint on the west side of
-Stadium Para, and the three men tried to flee. [@1,3] The three detained men were Md. Hask Mia, 29, from Nasirnagar in Brahmanbaria, Rakib Sardar, 23, from Kashiani in Gopalganj, and Hasanur Zaman, 30, from Madhabpur in Habiganj. [@3]
+Stadium Para, and the three men tried to flee. [@1,3] The van was reportedly carrying the ganja from the Jagdishpur area of Madhabpur toward Savar in Dhaka. [@4] The three detained men were Md. Hask Mia, 29, from Nasirnagar in Brahmanbaria, Rakib Sardar, 23, from Kashiani in Gopalganj, and Hasanur Zaman, 30, from Madhabpur in Habiganj. [@3,4]
 
 Officers searched the covered van and recovered 72 kg of ganja packed in three
-paper cartons. [@1,3] Inside the cartons the ganja was packed in 36 blue polythene packets wrapped in khaki tape. [@3] Officers also seized the covered van used to carry the
+paper cartons. [@1,3,4] Inside the cartons the ganja was packed in 36 blue polythene packets wrapped in khaki tape. [@3] Officers also seized the covered van used to carry the
 cannabis. [@1,3] In initial questioning the men said they had collected the ganja
-from a border area and kept it to sell. [@1,3]
+from a border area and kept it to sell. [@1,3,4]
 
 A case was filed under the Narcotics Control Act and the men were handed over to
-Madhabpur police station. [@1,3] Madhabpur police station officer-in-charge Sohel Rana confirmed that SRB-9 had handed over the three men along with the cannabis and said legal action would be taken against them. [@2]
+Madhabpur police station. [@1,3,4] Madhabpur police station officer-in-charge Sohel Rana confirmed that SRB-9 had handed over the three men along with the cannabis and said legal action would be taken against them. [@2]
