@@ -70,13 +70,11 @@ sources:
     publisher: RCI Martinique
     date: 2025-12-02
     language: fr
-open_questions:
-  - France-Antilles reported 50 g of cannabis in the car carrying the pistol on 18 October, while the later trial report gives 110 g of cannabis resin in the defendant's vehicle; the report uses the later figure.
-  - France-Antilles reported about 75 g of herbal cannabis in a second vehicle, but the later trial report gives no weight for that seizure and no total for the operation.
-  - The other person arrested was remanded in custody pending investigation; no charge, trial or outcome for that person was reported.
-  - No street value for the cannabis was published.
-  - The defendant had ten days to appeal; no appeal outcome was reported.
-  - The reports describe four weapons but do not say what became of the pellet pistol, the dummy pistol or the other seized weapons.
+  - title: Des armes et du cannabis saisis lors d'une opération devant une discothèque lamentinoise
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/des-armes-et-du-cannabis-saisis-lors-dune-operation-devant-une-discotheque-lamentinoise-1054780.php
+    publisher: France-Antilles Martinique
+    date: 2025-10-21
+    language: fr
 ---
 
 Fort-de-France's criminal court sentenced a 25-year-old man to 15 months in
@@ -84,7 +82,7 @@ prison on 1 December 2025 for illegally possessing a firearm and drugs. [@3] The
 court also fined him 1,500 euros and banned him from possessing a firearm for
 ten years. [@3] He returned to detention after the hearing and had ten days to
 appeal. [@3] He was presented in immediate appearance on 20 October and remanded
-in pre-trial detention until a trial set for 1 December. [@1]
+in pre-trial detention until a trial set for 1 December. [@1,4]
 
 Police and mobile gendarmes, acting on the public prosecutor's requisition, ran
 the operation from 5am to 7:30am on Saturday 18 October 2025 outside the AS
@@ -105,4 +103,3 @@ weapon. [@1] He was sentenced to one year in prison for that offence. [@3] His
 lawyer argued that CCTV footage and fingerprint analysis did not directly link
 him to the items. [@3] The court accepted the prosecution's position that
 nothing showed the items were not his. [@3]
-
