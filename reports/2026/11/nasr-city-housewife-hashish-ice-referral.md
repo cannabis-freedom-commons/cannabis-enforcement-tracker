@@ -54,6 +54,11 @@ sources:
     publisher: جريدة الدستور
     date: 2026-11-12
     language: ar
+  - title: إحالة سيدة مدينة نصر للمحاكمة بتهمة الاتجار في الحشيش والآيس
+    url: https://pls48.net/%d8%a5%d8%ad%d8%a7%d9%84%d8%a9-%d8%b3%d9%8a%d8%af%d8%a9-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%86%d8%b5%d8%b1-%d9%84%d9%84%d9%85%d8%ad%d8%a7%d9%83%d9%85%d8%a9-%d8%a8%d8%aa%d9%87%d9%85%d8%a9-%d8%a7%d9%84/
+    publisher: فلسطينيو48
+    date: 2026-11-12
+    language: ar
 open_questions:
     - No weight or quantity was published for the hashish or the ice, so no cannabis quantity is recorded.
     - The referral order carries no separate date; 12 November 2026 is the publication date of the reports and is used as the incident date.
@@ -70,14 +75,14 @@ media:
 
 The Nasr City prosecution ordered a housewife referred to criminal trial for
 trafficking in the narcotics hashish and ice within the Second Nasr City police
-district. [@1,3] The referral order said the accused, identified as Maha A.,
+district. [@1,3,4] The referral order said the accused, identified as Maha A.,
 possessed hashish and ice, both listed in the schedules attached to the
 drug-control law, with intent to traffic outside legally authorized
-circumstances. [@1,3]
+circumstances. [@1,3,4]
 
 Prosecutors said she held 5,000 Egyptian pounds said to be proceeds of the
 activity, alongside a mobile phone she used to contact customers and facilitate
-sales and promotion. [@1,3] The referral added that she made the criminal activity
+sales and promotion. [@1,3,4] The referral added that she made the criminal activity
 a means of unlawful profit by holding the drugs to promote and distribute them
 to users, using her residential area and the police-district area as the scene
 of the activity. [@1,3] The case began when Second Nasr City detectives received
@@ -89,4 +94,4 @@ referral. [@2]
 
 After procedures were regularized and prosecution permission was obtained, a
 security force from the district detectives arrested the accused, recorded the
-incident, and the prosecution took over the investigation. [@1,3]
+incident, and the prosecution took over the investigation. [@1,3,4]
