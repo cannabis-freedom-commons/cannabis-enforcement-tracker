@@ -118,16 +118,21 @@ sources:
     publisher: Mi-Tomorrow
     date: 2026-11-13
     language: it
+  - title: 'Si fa spedire marijuana per posta: alla porta si presenta un poliziotto che lo arresta'
+    url: https://www.alessandriaoggi.info/sito/2026/11/13/si-fa-spedire-marijuana-per-posta-alla-porta-si-presenta-un-poliziotto-che-lo-arresta/
+    publisher: Alessandria Oggi
+    date: 2026-11-13
+    language: it
 ---
 
 Milan State Police arrested a 23-year-old Italian man for alleged possession of
 drugs for dealing and seized 13 kg of marijuana shipped inside two large packing
-boxes. [@2,4,6,9,10,11,12,13,14] An officer disguised himself as a courier to make the delivery, and
+boxes. [@2,4,6,9,10,11,12,13,14,15] An officer disguised himself as a courier to make the delivery, and
 the young man was arrested after signing the handheld device to take the
 parcels. [@1,7,8,10,12,13,14]
 
 Rho-Pero police acted after a shipping-company worker in the Rho area reported a
-strong marijuana smell coming from two large parcels. [@2,5,6,7,9,11,12,13,14] Inside the parcels
+strong marijuana smell coming from two large parcels. [@2,5,6,7,9,11,12,13,14,15] Inside the parcels
 officers found four bags holding 13 kg of marijuana and a satellite GPS tracker.
 [@2,4,5,6,7,8,9,11,12,13,14] Prosecutors authorised a delayed seizure so officers could identify the
 recipient, and with the help of Milan's Flying Squad they traced him to Novate
@@ -137,4 +142,4 @@ A police officer wearing the courier company's uniform came to the 23-year-old's
 door to deliver the parcels while colleagues waited near the home. [@3,6,11,14] In a
 later home search with drug dogs, officers seized 3 mobile phones, labels and
 invoices for the parcels, 500 euros in cash and assorted stickers apparently
-meant for packaging the drug. [@1,4,6,7,8,9,12,13,14] Police were examining the seized material as they investigated the marijuana's origin and how the shipments were managed. [@8]
+meant for packaging the drug. [@1,4,6,7,8,9,12,13,14,15] Police were examining the seized material as they investigated the marijuana's origin and how the shipments were managed. [@8]
