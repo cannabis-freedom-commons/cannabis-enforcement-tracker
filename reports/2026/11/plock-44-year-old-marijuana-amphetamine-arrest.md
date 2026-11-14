@@ -61,23 +61,28 @@ sources:
     publisher: WP Info
     date: 2026-11-13
     language: pl
+  - title: Narkotyki w pracowniczej szafce. 44-latkowi grozi 15 lat więzienia - wiadomości Płock
+    url: https://tp.com.pl/artykul/narkotyki-w-pracowniczej-n1879130
+    publisher: Tygodnik Płocki
+    date: 2026-11-13
+    language: pl
 ---
 
 Officers of the life-and-health crime unit of the Płock municipal police handled
 the case. [@1] Working with security staff, officers established that a worker
 present at a construction site might possess drugs. [@1] Officers found drugs in
 the employee's work locker, according to police spokeswoman Monika Jakubowska.
-[@1] Officers detained the 44-year-old man. [@3,5]
+[@1,6] Officers detained the 44-year-old man. [@3,5]
 
-Police then searched the man's flat and found more drugs there. [@1,5] Officers
+Police then searched the man's flat and found more drugs there. [@1,5,6] Officers
 seized a combined total of nearly 200 grams of amphetamine and marijuana, with
-no separate weight given for the marijuana. [@1,5] Police put the combined
+no separate weight given for the marijuana. [@1,5,6] Police put the combined
 black-market value at about 7,500 zloty, without separating the marijuana share.
-[@2,5]
+[@2,5,6]
 
 The evidence allowed officers to charge the man with possession and supply of
 intoxicants, the Polish legal term for drugs. [@1,5] Corroborating outlets confirm
 the same work-locker and flat seizure of amphetamine and marijuana involving the
 same 44-year-old. [@4] The detained man had previous convictions for drug
-offences, so police said he would answer under recidivism rules. [@1,5] Płock
-police said the charges carry up to 15 years in prison. [@1,5]
+offences, so police said he would answer under recidivism rules. [@1,5,6] Płock
+police said the charges carry up to 15 years in prison. [@1,5,6]
