@@ -86,11 +86,16 @@ sources:
     publisher: GOtrip.hk
     date: 2026-11-13
     language: zh
+  - title: 旅客冰毒藏肛門步姿異常 羅湖過關斷正
+    url: https://hk.on.cc/hk/bkn/cnt/news/20261113/bkn-20261113170116421-1113_00822_001.html
+    publisher: on.cc
+    date: 2026-11-13
+    language: zh
 ---
 
 Guangzhou customs seized 20.051 kg of cannabis in the passenger-inspection
 channel at Guangzhou Baiyun International Airport, according to a Guangzhou
-Customs notice. [@1,2,4,5,6] Baiyun airport customs officers were screening
+Customs notice. [@1,2,4,5,6,8] Baiyun airport customs officers were screening
 international transit passengers when one traveller's luggage X-ray image looked
 abnormal, and they stopped and searched that passenger. [@1,3,5,6,7] The suitcase held
 nothing but plastic-bag, vacuum-packed brown-green plant material that gave off
