@@ -45,19 +45,17 @@ sources:
     publisher: Minuto30
     date: 2026-11-11
     language: es
-open_questions:
-  - No street value was published for the 10 kilograms.
-  - The marijuana is described as such in the preliminary report, with no laboratory confirmation reported.
-  - No time of day was given for the arrest.
-  - No charge, custody decision or court outcome was reported after the referral to the Fiscalía 50 Local URI Centro.
-  - The account rests on a single Minuto30 report based on a preliminary police report; no second outlet was found.
-  - The report does not describe how the marijuana was packed or in what vehicle it was carried.
+  - title: 'Captura por estupefacientes en San Jerónimo: hallan 10 kilogramos de marihuana'
+    url: https://analisisurbano.org/noticia/captura-por-estupefacientes-en-san-jeronimo-hallan-10-kilogramos-de-marihuana
+    publisher: Análisis Urbano
+    date: 2026-11-13
+    language: es
 ---
 
 Police arrested a man who, according to the preliminary report, was transporting
 10,000 grams of marijuana in the La Aldea sector of San Jerónimo, Antioquia, on
 the road between Medellín and Santa Fe de Antioquia, on Tuesday 10 November
-2026. [@1] The detention took place during registration and control checks
+2026. [@1,2] The detention took place during registration and control checks
 carried out by uniformed officers of the Seccional de Tránsito y Transporte, the
 traffic and transport section, on that road in western Antioquia. [@1] During
 the check the officers found the substance, which the report describes as
@@ -67,8 +65,7 @@ transporting. [@1]
 The man and the seized marijuana were left at the disposal of the Fiscalía 50
 Local URI Centro de Medellín, a local prosecutor's office that will handle the
 judicial process for the offence of trafficking, manufacturing or carrying
-narcotics. [@1] The arrest does not amount to a conviction; the man must be
+narcotics. [@1,2] The arrest does not amount to a conviction; the man must be
 presented before a judge, who will define his legal situation, and until then he
 retains the presumption of innocence. [@1] The report does not give the name,
-age or criminal record of the arrested man. [@1]
-
+age or criminal record of the arrested man. [@1] The police statement did not specify the detainee's identity, the means of transport used to move the substance, or the origin or destination of the marijuana. [@2]
