@@ -54,29 +54,32 @@ sources:
     publisher: il Dolomiti
     date: 2026-11-13
     language: it
-open_questions:
-  - No separate date is given for the searches; 13 November 2026 is the publication date and is used as the incident date.
-  - The roughly 100-gram second block makes the combined total approximate rather than an exact laboratory weight.
-  - The owner and origin of the hidden hashish block were still under investigation.
-  - No named offence, court outcome or laboratory result was reported for the 29-year-old.
-  - All opened accounts repeat the same Carabinieri account rather than independent verification.
+  - title: Über 200 Gramm Drogen sichergestellt
+    url: https://www.unsertirol24.com/2026/11/13/ueber-200-gramm-drogen-sichergestellt/
+    publisher: unsertirol24
+    date: 2026-11-13
+    language: de
+  - title: Drogenfund in Sand in Taufers – Südtirol News
+    url: https://www.suedtirolnews.it/chronik/drogenfund-in-sand-in-taufers
+    publisher: Südtirol News
+    date: 2026-11-13
+    language: de
 ---
 
 A 29-year-old Italian man was reported at liberty in Sand in Taufers (Campo
 Tures), South Tyrol, after Carabinieri targeted him during intensified anti-drug
-checks. [@2] The man was already known to police for relevant previous offences,
-and the personal check was immediately extended to his habitual home. [@2] The
+checks. [@2,4] The man was already known to police for relevant previous offences,
+and the personal check was immediately extended to his habitual home. [@2,5] The
 searches uncovered 127 grams of marijuana, 10 grams of hashish and a precision
-scale, which officers seized. [@1]
+scale, which officers seized. [@1,5]
 
 Hours later, officers found and seized a carefully hidden block of approximately
 100 grams of hashish at the edge of a residential area in Campo Tures, bringing
-the cannabis total to about 237 grams. [@2] The block was initially attributed
+the cannabis total to about 237 grams. [@2,5] The block was initially attributed
 to unknown persons, and officers were investigating its exact origin and who had
-held it. [@2]
+held it. [@2,5]
 
 All seized substances were to be sent to the Carabinieri drug laboratory in
-Leifers for qualitative and quantitative analysis. [@1] The home search and the
+Leifers for qualitative and quantitative analysis. [@1,5] The home search and the
 later discovery were two interventions in a series of anti-drug checks between
 Pusteria and Valle Aurina focused on Campo Tures. [@3]
-
