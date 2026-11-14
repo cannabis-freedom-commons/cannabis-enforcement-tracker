@@ -59,18 +59,22 @@ sources:
     publisher: 民視新聞網（FTV News），經 LINE TODAY 轉載
     date: 2026-11-12
     language: zh
+  - title: Les polices de plusieurs pays, dont la France, ont arrêté 354 personnes et saisi d'importantes quantités de drogues, d'armes à feu et d'argent liquide dans le cadre d'une vaste opération internationale
+    url: https://www.jeanmarcmorandini.com/article-657245-les-polices-de-plusieurs-pays-dont-la-france-ont-arrete-354-personnes-et-saisi-d-importantes-quantites-de-drogues-d-armes-a-feu-et-d-argent-liquide-dans-le-cadre-d-une-vaste-operation-internationale.html
+    publisher: Jean-Marc Morandini
+    language: fr
 ---
 
 Europol coordinated Operation TorNado with law enforcement agencies from 14
 countries from May 2025 to October 2026, resulting in 354 arrests and hundreds
-of house searches worldwide. [@1,5] The operation targeted vendors and buyers on
+of house searches worldwide. [@1,5,6] The operation targeted vendors and buyers on
 the dark web marketplaces Archetyp, Bohemia, Nemesis, Kingdom and Tor2Door, and
 also people active on forums, single-vendor shops and encrypted messaging
 services. [@1]
 
 French authorities arrested 23 people as part of the operation. [@4] French
 authorities seized 50 kilograms of cannabis, the largest cannabis quantity
-reported for any single country in the operation. [@1] European countries seized
+reported for any single country in the operation. [@1,6] European countries seized
 950 kilograms of illicit drugs in total, including amphetamines, ketamine, MDMA
 and cocaine, with cannabis making up 50 of those kilograms. [@1]
 
