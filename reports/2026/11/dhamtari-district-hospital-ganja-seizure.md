@@ -44,24 +44,19 @@ sources:
     publisher: Hindusthan Samachar
     date: 2026-11-13
     language: hi
-open_questions:
-  - No weight or value was published for the ganja seized from the patient's relative.
-  - The accounts date the check to a Friday without giving a calendar date; 13 November 2026, the date of publication, is used as the incident date.
-  - No name, age or other detail was published for the relative found with the ganja, and no arrest, fine or charge was reported.
-  - The accounts do not say whether the relative was fined or handed over to the hospital police post.
-  - The accounts do not say when the security guards were deployed or how many were posted.
-  - The number of people found with intoxicants during the checks, and the quantities taken from them, were not published.
-  - The earlier gutkha and tobacco checking drive is not dated.
-  - The accounts appear to reproduce a single original report, so the event rests on one news source.
-  - Whether any case was registered under the NDPS Act is not reported.
+  - title: कई मरीज व स्वजन गांजा लेकर पहुंच रहे जिला अस्पताल
+    url: https://vocaltv.in/chhattisgarh/many-patients-relative-arriving-dist-hospital-carrphp/cid19526941.htm
+    publisher: Vocal TV
+    date: 2026-11-13
+    language: hi
 ---
 
 Security guards were deployed at the district hospital in Dhamtari,
 Chhattisgarh, after a gap of months, and checks of patients and the relatives
-accompanying them now take place before they enter the building. [@1] During one
+accompanying them now take place before they enter the building. [@1,3] During one
 check on Friday, the security in-charge found ganja in the pocket of a patient's
 relative and reported it to the hospital management so that action could be
-taken. [@1]
+taken. [@1,3]
 
 Ganja, tobacco, gutkha, bidis and cigarettes have been recovered from the
 pockets of several people during the entry checks. [@1] Photographs published
@@ -76,6 +71,5 @@ the district hospital, said some people had damaged the toilets of the new
 hospital building while intoxicated. [@1]
 
 People caught with intoxicants at the hospital are handed over to the hospital
-police post or fined. [@1] The hospital asked patients and relatives not to
+police post or fined. [@1,3] The hospital asked patients and relatives not to
 bring any intoxicant into the building. [@1]
-
