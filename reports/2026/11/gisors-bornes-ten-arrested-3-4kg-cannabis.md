@@ -52,6 +52,16 @@ media:
     media_url: https://france3-regions.franceinfo.fr/image/bO3ZN_KBIky2C7X6tDfeULms3yE/930x620/filters:format(webp)/regions/2026/11/13/6af72c7ec154f973635879.jpg
     publisher: France 3 Normandie
     caption: 'Cash, cannabis, cocaine and weapons seized in the Gisors raids on 2 November, in the gendarmerie handout. Photo: Gendarmerie de l''Eure'
+  - kind: photo
+    url: https://www.paris-normandie.fr/id759169/article/2026-11-13/trafic-de-stupefiants-la-gendarmerie-demantele-un-reseau-gisors
+    media_url: https://prmeng.rosselcdn.net/sites/default/files/dpistyles_v2/prm_16_9_856w/2026-11-13/node_759169/63151238/public/2026-11-13/113424561.jpeg?itok=6I2lml191794579186
+    publisher: Paris Normandie
+    caption: 'Findings from the Gisors house searches, in the handout photo published by Paris Normandie. Photo: Gendarmerie de l''Eure'
+  - kind: photo
+    url: https://www.paris-normandie.fr/id759169/article/2026-11-13/trafic-de-stupefiants-la-gendarmerie-demantele-un-reseau-gisors
+    media_url: https://prmeng.rosselcdn.net/sites/default/files/dpistyles_v2/prm_scale_736w/2026-11-13/node_759169/63151240/public/2026-11-13/113424604.jpeg?itok=t3LyFjiV1794579186
+    publisher: Paris Normandie
+    caption: 'The 13,370 euros in cash recovered in the Gisors searches, in the handout photo published by Paris Normandie. Photo: Gendarmerie de l''Eure'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e718a02bf2280c1afb0af59960b2217e
@@ -82,11 +92,16 @@ sources:
     publisher: Tendance Ouest
     date: 2026-11-13
     language: fr
+  - title: 'Trafic de stupéfiants : la gendarmerie démantèle un réseau à Gisors'
+    url: https://www.paris-normandie.fr/id759169/article/2026-11-13/trafic-de-stupefiants-la-gendarmerie-demantele-un-reseau-gisors
+    publisher: Paris Normandie
+    date: 2026-11-13
+    language: fr
 ---
 
 Gendarmes from the Les Andelys company arrested ten people at their homes in the
 Les Bornes neighbourhood of Gisors on 2 November 2026 and placed them in
-custody. [@1,3] The operation was backed by the Caen GIGN with specialised
+custody. [@1,3,6] The operation was backed by the Caen GIGN with specialised
 gendarmerie protection platoons and Eure surveillance-and-intervention platoons.
 [@1,4,5] The raid followed several months of investigation by the Les Andelys
 research brigade, which identified a cocaine and cannabis supply-and-sale
@@ -94,15 +109,15 @@ network. [@1,5] Discreet surveillance by the Evreux departmental observation and
 surveillance cell documented transactions between sellers and regular customers,
 the Eure gendarmerie grouping said. [@1] Six of those arrested were brought
 before the Evreux judicial court on 6 November for an immediate-trial hearing.
-[@1,3,5] After the defendants sought time to prepare their defence, the hearing was
+[@1,3,5,6] After the defendants sought time to prepare their defence, the hearing was
 put off to 4 December, with four held in pre-trial detention and two placed
 under judicial supervision. [@1,3,5]
 
 House searches found 13,370 euros in cash, 3.4 kilograms of cannabis, 133 grams
 of cocaine, 11 grams of ecstasy and category B and C weapons, according to the
-gendarmes. [@1,5] During questioning, one of the main suspects admitted moving
+gendarmes. [@1,5,6] During questioning, one of the main suspects admitted moving
 almost 2.4 kilograms of cocaine over one year, turnover estimated at more than
-100,000 euros. [@1,3,5] A second account confirms the same seizure of 13,370 euros,
+100,000 euros. [@1,3,5,6] A second account confirms the same seizure of 13,370 euros,
 3.4 kilograms of cannabis, 133 grams of cocaine and 11 grams of ecstasy. [@2]
 
 The judicial fate of the four other people initially arrested was not specified.
