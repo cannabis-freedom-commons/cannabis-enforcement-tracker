@@ -56,34 +56,37 @@ sources:
     publisher: ZIUA de Constanta
     date: 2026-11-13
     language: ro
+  - title: Doi bărbați, arestați preventiv pentru trafic de droguri în Timiș și Arad. Anchetatorii au descoperit cannabis și 200 de grame de cocaină
+    url: https://www.radioresita.ro/actualitate/doi-barbati-arestati-preventiv-pentru-trafic-de-droguri-in-timis-si-arad-anchetatorii-au-descoperit-cannabis-si-200-de-grame-de-cocaina
+    publisher: Radio România Reșița
+    date: 2026-11-13
+    language: ro
 open_questions:
-  - Only one accessible source for this event was found; the DIICOT press release itself could not be opened.
-  - The cocaine weight (200 grams) is from the second case; no cannabis weight was reported for that case.
-  - The indoor and outdoor cannabis cultivation is described as taking place over 2026; no exact date for the searches is given beyond 12 November 2026.
-  - No plea, trial or sentence beyond the 30-day preventive arrest was reported.
+    - The cocaine weight (200 grams) is from the second case; no cannabis weight was reported for that case.
+    - The indoor and outdoor cannabis cultivation is described as taking place over 2026; no exact date for the searches is given beyond 12 November 2026.
+    - No plea, trial or sentence beyond the 30-day preventive arrest was reported.
 ---
 
 On 12 November 2026, prosecutors at DIICOT's Timișoara Territorial Service
 ordered the detention of two defendants in two criminal cases: a 42-year-old
 charged with trafficking in risk drugs and a 58-year-old charged with
-trafficking in high-risk drugs. [@1]
+trafficking in high-risk drugs. [@1,2]
 
 During 2026, the 42-year-old defendant initiated and developed cannabis
 cultivation, both indoor and outdoor, intended for sale. [@1] A search in comuna
 Bata, Arad County, found and seized 54 cannabis plants in the drying process,
 various bags, sacks and containers holding about 4 kilograms of cannabis buds
 and inflorescences, handmade cigarettes, objects bearing traces of the
-substance, a scale, a grinder, and other means of proof. [@1]
+substance, a scale, a grinder, and other means of proof. [@1,2]
 
 In the second case, investigators established that during 2026 a 58-year-old
 defendant purchased, possessed and sold cocaine in the area of Timiș County.
 [@1] Two home-search warrants were executed in the city of Timișoara, where
 several bags containing a total of 200 grams of cocaine, a precision electronic
 scale, objects bearing traces of the substance, and other means of proof were
-identified. [@1]
+identified. [@1,2]
 
 The judges of rights and freedoms at the Timiș Court ordered the preventive
-arrest of the defendants for a period of 30 days. [@1] The judicial activities
+arrest of the defendants for a period of 30 days. [@1,2] The judicial activities
 were carried out together with officers of the Organised Crime Combat Brigade
-Timișoara. [@1]
-
+Timișoara. [@1] The operation was supported by gendarmes of the Glad Voievod Mobile Gendarmerie Grouping in Timișoara. [@2]
