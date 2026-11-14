@@ -46,6 +46,11 @@ sources:
     publisher: Agenzia giornalistica Opinione
     date: 2026-11-13
     language: it
+  - title: 'Hashish, bilancino e materiale per confezionare sequestrati nel Comasco: denunciato un minorenne a Menaggio'
+    url: https://www.laprovinciadivarese.it/hashish-bilancino-e-materiale-per-confezionare-sequestrati-nel-comasco-denunciato-un-minorenne-a-menaggio-413939/
+    publisher: La Provincia Di Varese
+    date: 2026-11-14
+    language: it
 open_questions:
   - No separate date for the control is given, so 13 November 2026, the publication date, is used as the incident date.
   - The minor was not named and no age beyond minority or residence was published.
@@ -55,7 +60,7 @@ open_questions:
 
 Guardia di Finanza officers from the Menaggio company checked a minor together
 with a group of friends near a public establishment in Menaggio, on Lake Como.
-[@1] The operation was part of intensified territorial control focused on places
+[@1,3] The operation was part of intensified territorial control focused on places
 where young people gather. [@1] Officers found a group of youths gathered in the
 area behind the establishment and decided to check them. [@1] The officers
 noticed the minor repeatedly putting his hands in his trouser pockets and saw a
@@ -63,11 +68,11 @@ slight bulge in the side of his clothing. [@1]
 
 When asked whether he held drugs, the boy spontaneously handed over a packet
 containing 35.1 grams of hashish and a precision scale, both hidden on his
-person. [@1,2] Believing more drugs could be at his home, officers carried out a
+person. [@1,2,3] Believing more drugs could be at his home, officers carried out a
 search of the boy's home. [@1] In a desk drawer in his bedroom they found
 another 5.9 grams of hashish already divided into seven doses, together with
-transparent film used to wrap the drug. [@1,2] A further personal search recovered
-another 12.9 grams of hashish, bringing the total seized to 53.9 grams. [@1]
+transparent film used to wrap the drug. [@1,2,3] A further personal search recovered
+another 12.9 grams of hashish, bringing the total seized to 53.9 grams. [@1,3]
 
-After the checks the minor was reported to the judicial authority. [@1,2] The report was made under article 73, paragraph 5, of Presidential Decree 309/1990. [@2] The
+After the checks the minor was reported to the judicial authority. [@1,2,3] The report was made under article 73, paragraph 5, of Presidential Decree 309/1990. [@2] The
 Finance Guard suspects that he was selling drugs to minors in the area. [@1]
