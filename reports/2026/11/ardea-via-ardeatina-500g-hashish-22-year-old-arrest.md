@@ -57,6 +57,11 @@ sources:
     publisher: Telegolfo
     date: 2026-11-12
     language: it
+  - title: 'Tor San Lorenzo: 22enne arrestato per detenzione ai fini di spaccio; quasi mezzo chilo di hashish sequestrato'
+    url: https://www.lacronacadiroma.it/2026/11/tor-san-lorenzo-22enne-arrestato-per-detenzione-ai-fini-di-spaccio-quasi-mezzo-chilo-di-hashish-sequestrato
+    publisher: La Cronaca di Roma
+    date: 2026-11-12
+    language: it
 open_questions:
     - The account gives no separate date for the night check; 12 November 2026 is its publication date and is used as the incident date.
     - The total is given as approximately 500 grams, rather than an exact measured weight.
@@ -73,19 +78,19 @@ media:
 ---
 
 Carabinieri arrested a 22-year-old man after finding him with a large quantity
-of hashish during a night check on Via Ardeatina. [@1,3] He was accused of detenzione ai fini di spaccio di sostanze stupefacenti, possession of drugs with intent to deal. [@2] Patrol officers pulled
+of hashish during a night check on Via Ardeatina. [@1,3,4] He was accused of detenzione ai fini di spaccio di sostanze stupefacenti, possession of drugs with intent to deal. [@2] Patrol officers pulled
 over his small car because they considered the way he was driving suspicious.
-[@1] The arrest was made by the Radiomobile unit of the Anzio Carabinieri company, part of the Lazio Carabinieri Legion, during a territorial-control operation at Tor San Lorenzo. [@2]
+[@1,4] The arrest was made by the Radiomobile unit of the Anzio Carabinieri company, part of the Lazio Carabinieri Legion, during a territorial-control operation at Tor San Lorenzo. [@2]
 
 A search of the vehicle uncovered 30 grams of hashish, an electronic precision
 scale, dose-packaging material and 145 euros in cash. [@1,2,3] Investigators treated
 the cash as possible proceeds of drug dealing. [@1] Officers then searched his
 home, having hypothesised that the car was a base for a wider dealing operation.
 [@1,3] In his bedroom they found and seized another 470 grams of hashish, divided
-into 10 blocks. [@1,2,3] The two seizures totalled about 500 grams of hashish. [@1]
+into 10 blocks. [@1,2,3,4] The two seizures totalled about 500 grams of hashish. [@1,4]
 
 After the operation, officers transferred the young man to the Casa
 Circondariale di Velletri, the Velletri prison, at the disposal of the competent
-judicial authority. [@1,3] The proceedings were at the preliminary-investigation
+judicial authority. [@1,3,4] The proceedings were at the preliminary-investigation
 stage, and the suspect was to be presumed innocent unless finally convicted.
 [@1]
