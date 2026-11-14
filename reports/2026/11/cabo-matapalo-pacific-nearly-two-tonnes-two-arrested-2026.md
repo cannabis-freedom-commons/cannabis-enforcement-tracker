@@ -75,26 +75,31 @@ sources:
     publisher: CRprensa.com
     date: 2026-11-13
     language: es
+  - title: Guardacostas y DEA interceptan lancha con casi dos toneladas de marihuana en el Pacífico Sur
+    url: https://www.amprensa.com/2026/11/guardacostas-dea-interceptan-lancha-casi-dos-toneladas
+    publisher: AM Prensa
+    date: 2026-11-13
+    language: es
 ---
 
 Costa Rican authorities intercepted a fast boat carrying nearly two tonnes of
 marijuana 118 nautical miles south of Cabo Matapalo, in the southern Pacific.
-[@1,2,3,4] The operation was run by the Public Security Ministry together with the US
+[@1,2,3,4,5] The operation was run by the Public Security Ministry together with the US
 Drug Enforcement Administration, with support from United States and Colombian
 authorities. [@1] In Costa Rica the operation involved the Drug Control Police, the criminal intelligence directorate and the special support unit. [@2]
 
 The boat's drug packages carried unusual stickers with images of Caro Quintero
 and the character Gasparín (Casper). [@1] Two tonnes of marijuana were seized.
-[@1] After the boat was moved to Golfito, police established that it carried 1,923 kilograms of marijuana, about 1.9 tonnes. [@2,3,4]
+[@1] After the boat was moved to Golfito, police established that it carried 1,923 kilograms of marijuana, about 1.9 tonnes. [@2,3,4,5]
 
 The vessel was located in a coordinated effort with the US Joint Interagency
-Task Force South and the Colombian Navy, with a US aircraft in support. [@1,2,3] The
+Task Force South and the Colombian Navy, with a US aircraft in support. [@1,2,3,5] The
 security ministry said this was the second drug boat intercepted in Pacific
 waters that week. [@1] The boat was a registration-free, flagless fast vessel
 fitted with eight fuel drums. [@1,3] The vessel was powered by two 200-horsepower outboard motors. [@2,4]
 
 Aboard were two men: an Ecuadorian with the surname Castillo Zambrano, who was
-the captain, and a Nicaraguan with the surname Pictan Siu. [@1,2,3,4] Both were
-detained by officers of the Coast Guard's Special Operations Group (GOPES). [@1,3]
+the captain, and a Nicaraguan with the surname Pictan Siu. [@1,2,3,4,5] Both were
+detained by officers of the Coast Guard's Special Operations Group (GOPES). [@1,3,5]
 The suspects, the vessel and the seized cargo were taken to the port of Golfito.
-[@1,2,3]
+[@1,2,3,5]
