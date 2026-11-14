@@ -52,6 +52,11 @@ media:
     media_url: https://report.if.ua/wp-content/uploads/2026/11/konoplja-3-1536x1223.jpg
     publisher: Reporter (report.if.ua)
     caption: 'Seized cannabis plants and dried material from the Kolomyia case in the police handout photo. Photo: Ivano-Frankivsk regional police via Reporter'
+  - kind: photo
+    url: https://regionews.ua/ukr/amp/1794577942-na-prikarpatti-dvoe-zaliznichnikiv-zagotovili-kanabisu-na-8-mln-grn
+    media_url: https://regionews.ua/static/img/9/0/906850971_1147593731248188_5165512917519923017_n_605x320.jpg
+    publisher: RegioNews
+    caption: 'Seized cannabis material from the Kolomyia case in the police handout photo. Photo: Ivano-Frankivsk regional police via RegioNews'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 70c1d5073e2853232c1317a5779f0885
@@ -87,11 +92,16 @@ sources:
     publisher: Місто
     date: 2026-11-13
     language: uk
+  - title: На Прикарпатті двоє залізничників заготовили канабісу на 8 млн грн
+    url: https://regionews.ua/ukr/amp/1794577942-na-prikarpatti-dvoe-zaliznichnikiv-zagotovili-kanabisu-na-8-mln-grn
+    publisher: RegioNews
+    date: 2026-11-13
+    language: uk
 ---
 
 Police in Ivano-Frankivsk region exposed a 48-year-old Kolomyia resident and his
 29-year-old accomplice from Kolomyia district over a full cycle of cannabis
-production. [@1,4] The older man sowed cannabis on open ground in the Horodenka
+production. [@1,4,7] The older man sowed cannabis on open ground in the Horodenka
 community at the end of spring 2026 and tended the crop to maturity. [@1] He
 illegally grew more than 60 cannabis plants. [@1,6] Both men work in the railway
 industry, and the organizer later brought in the younger man to harvest, process
