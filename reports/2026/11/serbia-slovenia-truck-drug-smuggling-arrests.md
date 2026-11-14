@@ -32,6 +32,11 @@ sources:
     publisher: Euronews Srbija
     date: 2026-11-13
     language: sr
+  - title: Хапшења у Србији и Словенији, разбијена криминална група, ухапшен и држављанин БиХ
+    url: https://www.rtrs.tv/vijesti/vijest.php?id=667602
+    publisher: RTRS
+    date: 2026-11-14
+    language: sr
 open_questions:
   - No date is given for the arrests beyond the 13 November 2026 publication date of the MUP statement.
   - 'Left out, as its quotation was not found in 021.rs: The suspects are suspected of the criminal offences of association for the purpose of committing criminal offences and unauthorized production and placing on the market of narcotic drugs.'
@@ -41,21 +46,21 @@ open_questions:
 
 Serbian Interior Ministry officers, working with the Public Prosecutor's Office
 for Organized Crime, arrested three members of an organized criminal group in
-Serbia. [@1] Simultaneously, Slovenian Interior Ministry officers arrested three
+Serbia. [@1,3] Simultaneously, Slovenian Interior Ministry officers arrested three
 other members of the group: a Serbian national, a Slovenian national, and a
-Bosnian national. [@1]
+Bosnian national. [@1,3] Those arrested in Slovenia were identified as Serbian national A. J. (34), Slovenian national S. Z. (39) and Bosnian-Herzegovinian national M. J. (44). [@3] Those arrested in Serbia were identified by initials and ages as S. Dj. (54), S. K. (53) and A. K. (23). [@3]
 
 The group members are suspected of opening international road-transport
 companies in Croatia, Hungary, Slovakia and Serbia, onto which they registered
-trucks used for drug smuggling. [@1] In each truck, bunkers were built inside
+trucks used for drug smuggling. [@1,3] In each truck, bunkers were built inside
 the cabins to conceal drugs, while the cargo compartment carried legitimate
-loads. [@1]
+loads. [@1,3]
 
 In the second half of 2025 in France, in cooperation with the French customs,
 two drivers, Serbian nationals, were arrested who were smuggling drugs by truck
 from the territory of the Kingdom of Spain for the group, and in two separate
 operations 471 kilograms of hashish and 15 kilograms of marijuana were seized.
-[@1] In May 2026 in Slovenia, the partner unit of the Slovenian Interior
+[@1,3] In May 2026 in Slovenia, the partner unit of the Slovenian Interior
 Ministry arrested a Serbian national and a Slovenian national at the handover of
 60 kilograms of cocaine and 46,000 euros. [@1]
 
@@ -69,4 +74,3 @@ Organized Drug Smuggling participated in the arrests. [@1]
 
 In two separate actions in France, 471 kilograms of hashish and 15 kilograms of
 marijuana were seized in the second half of 2025. [@2]
-
