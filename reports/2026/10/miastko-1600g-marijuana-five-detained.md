@@ -60,6 +60,11 @@ sources:
     publisher: Głos Pomorza
     date: 2026-11-13
     language: pl
+  - title: Ponad 1,5 kg marihuany i 234 tys. zł. Pięć osób zatrzymanych w Miastku
+    url: https://ibytow.pl/pl/11_wiadomosci/27199_ponad-15-kg-marihuany-i-234-tys-zl-piec-osob-zatrzymanych-w-miastku.html
+    publisher: ibytow.pl
+    date: 2026-11-13
+    language: pl
 open_questions:
   - The reports give the combined seized marijuana as 1,567.51 g from 569.95 g in the flat and 997.56 g in a courier parcel in the car.
   - The 1,820 euros secured with the 234,300 złoty is reported but not converted or included in the single-currency cash figure.
@@ -67,11 +72,11 @@ open_questions:
 ---
 
 Officers from the Miastko police station acted on 7 October 2026 after a tip
-that drugs might be in a flat in Miastko and searched the premises. [@1] The
+that drugs might be in a flat in Miastko and searched the premises. [@1,3] The
 people inside obstructed the search and tried to hide the intoxicants, so
 officers used direct coercion, according to the Słupsk district prosecutor's
 office. [@1] Five people were detained in the case: two men and three women.
-[@1] The second outlet names the five detained as people aged 35, 34, 59, 36 and
+[@1,3] The second outlet names the five detained as people aged 35, 34, 59, 36 and
 23. [@2] Prosecutors charged the 35-year-old man and the 34-year-old woman with
 possessing a significant quantity of narcotics. [@1] The 23-year-old woman is
 suspected of drug possession, violating an officer's inviolability, influencing
@@ -84,10 +89,9 @@ the other two charged people did not admit them. [@1] The Miastko district
 prosecutor's office is conducting the investigation, which remains open. [@1]
 
 Police found 569.95 g of marijuana, eight electronic scales and foil bags in the
-flat and also secured 234,300 zł and 1,820 euros. [@1] Officers also searched a
+flat and also secured 234,300 zł and 1,820 euros. [@1,3] Officers also searched a
 car used by three of the detained people, where a courier parcel held two
 packages containing a total of 997.56 g of marijuana. [@1] In total, police
-seized 1,567.51 g of marijuana from the flat and the car. [@1] The second outlet
+seized 1,567.51 g of marijuana from the flat and the car. [@1,3] The second outlet
 confirms the Miastko district prosecutor supervises the investigation into
 possession of a significant quantity of narcotics. [@2]
-
