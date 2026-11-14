@@ -1,16 +1,15 @@
 ---
 code: XC4YFH
 added_at: "2026-11-08T05:24:19.701291Z"
-date: 2026-11-05
+date: 2026-11-13
 country: it
 place: Porto Santo Stefano, Monte Argentario, Grosseto
 coordinates: [42.4389, 11.1189]
 precision: locality
-type: arrest
-also: [seizure, prosecution]
+type: sentence
+also: [seizure, prosecution, arrest]
 title: 59-year-old held in Porto Santo Stefano with over 2 kg of hashish
-summary: >-
-  Carabinieri arrested a 59-year-old nautical worker in Porto Santo Stefano after finding 200 hashish ovals weighing over two kilograms in his car boot, plus cocaine in the car, garage and flat. A judge validated the arrest and ordered pretrial detention as investigators examine an alleged 18,000-euro drug resale operation.
+summary: On 13 November Judge Marco Mezzaluna released the 59-year-old nautical worker from pretrial detention and replaced it with an obligation to remain in Monte Argentario, citing his collaborative behaviour during interrogations.
 figures:
   arrested: 1
   kg_seized: 2.01
@@ -41,11 +40,13 @@ sources:
     publisher: MaremmaOggi
     date: 2026-11-07
     language: it
+  - title: 'Arrestato con due chili di hashish, il comandante lascia il carcere: «Ha collaborato»'
+    url: https://www.maremmaoggi.net/marinaio-scarcerato-argentario-hashish-obbligo-dimora/
+    publisher: MaremmaOggi
+    date: 2026-11-13
+    language: it
 open_questions:
-  - Only one accessible source for this event was found after searching in Italian; the account is the outlet's own reporting with no named agency statement quoted.
-  - The car hashish weight was given only as more than two kilograms, so the 2.01 kg total (over 2 kg plus 10 grams found at home) is approximate.
-  - The cocaine (about 2 grams on the man and in the car, plus 90 grams in the garage) is mentioned for context and kept out of the cannabis figures.
-  - The alleged 18,000-euro investment covered hashish and cocaine together and cannot be assigned to cannabis alone, so it is kept out of figures.
+    - The report notes the man was in pretrial detention 'where the man remains'; this source reports his release on 13 November, so the detention status has changed.
 ---
 
 The incident dates to Thursday 5 November 2026. [@1] A 59-year-old Italian man
@@ -68,7 +69,6 @@ between the purchase price and the price charged to consumers. [@1]
 The next day he appeared before judge Marco Mezzaluna for the validation
 hearing, assisted by lawyer Giulio Parenti. [@1] On Friday 6 November the judge
 validated the arrest and ordered pretrial detention in prison, where the man
-remains. [@1] His lawyer will seek a review of the detention order. [@1]
+remains. [@1] His lawyer will seek a review of the detention order. [@1] On 13 November, Judge Marco Mezzaluna ordered the immediate release from pretrial detention, replacing the detention with an obligation to remain in Monte Argentario. [@2] The judge chose the less restrictive obligation to remain, accompanied by a curfew requiring him to stay at home at night, as an adequate response to the residual precautionary needs. [@2] The judge valued the man's «widely collaborative behaviour» during the validation hearing interrogation and later before the prosecutor, as well as the resipiscenza (reform) shown by the accused. [@2] The order requires the man not to leave the municipality of Monte Argentario without judicial authorisation and to remain at home between 21:00 and 06:00. [@2] The new order follows a request from the Prosecutor's Office, which had asked to replace the prison detention with house arrest. [@2] The pretrial detention had been applied on 7 November. [@2] The drug dealing case continues and the man's criminal responsibility is still to be established. [@2]
 Investigators have not yet established who supplied him or how wide his alleged
 customer network was. [@1]
-
