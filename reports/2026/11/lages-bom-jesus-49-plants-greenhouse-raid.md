@@ -74,6 +74,11 @@ sources:
     publisher: Cidade 92.3FM
     date: 2026-11-13
     language: pt
+  - title: Polícia Militar apreende 49 pés de maconha e estrutura de cultivo de drogas em Lages
+    url: https://www.lenoticias.com.br/noticia/39930/policia-militar-apreende-49-pes-de-maconha-e-estrutura-de-cultivo-de-drogas-em-lages
+    publisher: Lê Notícias
+    date: 2026-11-13
+    language: pt
 media:
   - kind: photo
     url: https://scc10.com.br/radioclube/pm-apreende-49-pes-de-maconha-em-residencia-em-lages/
@@ -90,18 +95,21 @@ media:
     media_url: https://noticianoato.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-08.01.00.jpeg
     publisher: Notícia no Ato
     caption: Photo published with the Notícia no Ato report of the 49 cannabis plants and three greenhouses seized in Bom Jesus, Lages.
+open_questions:
+  - No separate date for the raid was published; 13 November 2026 is the publication date of this account.
+  - The 1.325 kg marijuana figure is described as approximate.
 ---
 
 On the night of Thursday 12 November 2026, Santa Catarina military police
 arrested one man and seized 49 cannabis plants at a house in the Bom Jesus
-district of Lages. [@1,2,4,5,6] Officers recorded the incident at about 19h45 during
+district of Lages. [@1,2,4,5,6] The man identified as responsible for the structure and the illicit material was 45 years old. [@7] Officers recorded the incident at about 19h45 during
 patrol, after noticing a strong smell of marijuana near a residence and finding
 a cultivation structure. [@1,2,3,4,5] Inside the property they found three greenhouses
 with ventilation, lighting and heating equipment, along with other cultivation
-materials. [@1,2,5,6]
+materials. [@1,2,5,6,7] Police also seized a press and various inputs used to handle the drug. [@7]
 
 Officers also seized 1.325 kg of marijuana, which the police said was packaged
-and ready for sale. [@1,2,3,4,5,6] The man was taken to the Civil Police station, where
+and ready for sale. [@1,2,3,4,5,6,7] The man was taken to the Civil Police station, where
 the incident was registered as drug trafficking. [@1,2,4,5,6] The plants, the packaged
 drug and the equipment were collected and placed at the disposal of the
 authorities responsible for the investigation. [@1] The outlet attributes its
