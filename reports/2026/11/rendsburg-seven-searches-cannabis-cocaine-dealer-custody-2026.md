@@ -42,10 +42,16 @@ sources:
     publisher: Polizei.news
     date: 2026-11-13
     language: de
+  - title: 'Drogenrazzia in Rendsburg: Polizei nimmt 34-jährigen Hauptverdächtigen fest'
+    url: https://www.msn.com/de-de/nachrichten/other/drogenrazzia-in-rendsburg-polizei-nimmt-34-j%C3%A4hrigen-hauptverd%C3%A4chtigen-fest/ar-AA2hnfPG
+    publisher: Kieler Nachrichten
+    date: 2026-11-13
+    language: de
 open_questions:
-  - No exact weight for the cannabis was published; it is described only as several kilograms, so no kilogram figure is recorded.
-  - The exact addresses searched and where each drug quantity was found were not published.
-  - Whether charges beyond the investigation and detention have been filed against the seven suspects is not yet known.
+    - No exact weight for the cannabis was published; it is described only as several kilograms, so no kilogram figure is recorded.
+    - The exact addresses searched and where each drug quantity was found were not published.
+    - Whether charges beyond the investigation and detention have been filed against the seven suspects is not yet known.
+    - 'Accounts disagree on the raid date: the searches are reported on 10 November by one account and on 11 November by Kieler Nachrichten.'
 ---
 
 Since February 2026, the Rendsburg criminal police had investigated a
@@ -55,15 +61,14 @@ aged between 21 and 45. [@1] The six were suspected of having sold or stored
 drugs or otherwise having been involved in the trade. [@1]
 
 On the morning of 10 November 2026, police officers executed seven search
-warrants. [@1] The criminal police forces from Rendsburg, Schleswig and
+warrants. [@1,2] The criminal police forces from Rendsburg, Schleswig and
 Eckernförde took part, along with several police dog handlers and riot police
 from Eutin. [@1] Officers seized several kilograms of cannabis, several hundred
-grams of cocaine and several grams of amphetamine. [@1] They also confiscated
-two high-value vehicles as means used in the offences. [@1]
+grams of cocaine and several grams of amphetamine. [@1,2] They also confiscated
+two high-value vehicles as means used in the offences. [@1,2]
 
 Six suspects were released after the police measures because there were no
 grounds for detention. [@1] Police initially took the suspected principal
-offender into custody. [@1] On 11 November 2026, at the request of the Kiel
+offender into custody. [@1] Michael Bimler, spokesperson for the Kiel public prosecutor's office, said the 34-year-old suspected ringleader had dealt in narcotics and that two high-value vehicles were secured as means used in the offences. [@2] On 11 November 2026, at the request of the Kiel
 public prosecutor's office, the 34-year-old was brought before a judge who
-issued an arrest warrant, and the man was then taken to Neumünster prison. [@1]
-
+issued an arrest warrant, and the man was then taken to Neumünster prison. [@1,2]
