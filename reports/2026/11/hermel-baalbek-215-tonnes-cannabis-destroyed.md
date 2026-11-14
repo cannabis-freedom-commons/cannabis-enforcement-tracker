@@ -129,18 +129,23 @@ sources:
     publisher: LBCI
     date: 2026-11-13
     language: ar
+  - title: Армия Ливана уничтожила 215 тонн гашиша в Баальбеке · Daily Beirut
+    url: https://dailybeirut.com/ru/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8-%D0%BB%D0%B8%D0%B2%D0%B0%D0%BD%D0%B0/armiya-unichtozhila-215-tonn-gashisha-v-hermele-i-baalbeke/
+    publisher: Daily Beirut
+    date: 2026-11-13
+    language: ru
 ---
 
 The Lebanese Army announced the destruction of 215 tonnes of cannabis and
 marijuana in the Hermel and Baalbek regions during a three-day operation against
-drug trafficking. [@1,4,12,14] The army said the operation was part of security
+drug trafficking. [@1,4,12,14,15] The army said the operation was part of security
 follow-up to combat narcotics and pursue people undermining security. [@1,3,11,12,13,14] The statement announcing the destructions was issued by Army Command – Guidance Directorate. [@12]
 
 One army unit destroyed 200 tonnes of cannabis resin and marijuana, along with
 agricultural greenhouses and planted land, in the Marjehin plain area of Hermel
-over three days. [@1,3,5,6,7,8,9,10,11,12,13,14] Another unit raided several farms in the Boudai area of
+over three days. [@1,3,5,6,7,8,9,10,11,12,13,14,15] Another unit raided several farms in the Boudai area of
 Baalbek, destroying 15 tonnes of cannabis and a greenhouse planted with
-marijuana. [@1,3,5,6,7,8,9,10,11,12,13,14] In Boudai the unit seized machines used to manufacture the
+marijuana. [@1,3,5,6,7,8,9,10,11,12,13,14,15] In Boudai the unit seized machines used to manufacture the
 drugs. [@1,3,7,8,9,10,11,12,13,14]
 
 Annahar corroborated the same account, reporting 200 tonnes destroyed with
