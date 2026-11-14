@@ -48,6 +48,11 @@ media:
     media_url: https://habercitvcomtr.teimg.com/crop/1280x720/habercitv-com-tr/uploads/2026/11/uyusturucu-1-1024x607.jpg
     publisher: Haberci TV
     caption: 'Fethiye narcotics bureau display of the seized esrar bag, loose cannabis and red precision scale, with NARKO signs labelled ESRAR and an inset of the handcuffed suspect. Photo: Muğla Emniyet / Narkotik'
+  - kind: photo
+    url: https://www.sondakika.com/amp/haber-fethiye-de-aramalarda-1-kilo-625-gram-esrar-ele-ge-20425116/
+    media_url: https://foto.sondakika.com/crop/1210x0/haber/2026/11/13/mugla-fethiye-de-uyusturucu-ticareti-iddiasiy-20425103_sd.jpg
+    publisher: Son Dakika
+    caption: 'Photo published with the Fethiye cannabis seizure and suspect''s remand, captioned ''Fethiye''de aramalarda 1 kilo 625 gram esrar ele geçirildi, şüpheli tutuklandı''. Photo: AA / Son Dakika'
 sources:
   - title: 'Muğla’da Uyuşturucu Operasyonu: 1 Kilo 625 Gram Esrar Ele Geçirildi'
     url: https://www.muglagazetesi.com.tr/fethiye-haberleri/muglada-uyusturucu-operasyonu-1-kilo-625-gram-esrar-ele-gecirildi-223435h
@@ -66,22 +71,23 @@ sources:
     publisher: Haberci TV
     date: 2026-11-13
     language: tr
-open_questions:
-  - The articles give only the 13 November 2026 publication date and no separate day or time for the searches, so the incident date uses the publication date.
-  - The reports name the suspect only by the initials H.A.U. and give no age, charge wording beyond alleged drug trafficking, or later court outcome.
-  - The Wayback Machine redirected the Muğla Gazetesi URL to an unrelated Milas theft story, so that source has no usable archived copy.
+  - title: Fethiye'de aramalarda 1 kilo 625 gram esrar ele geçirildi, şüpheli tutuklandı
+    url: https://www.sondakika.com/amp/haber-fethiye-de-aramalarda-1-kilo-625-gram-esrar-ele-ge-20425116/
+    publisher: Son Dakika
+    date: 2026-11-13
+    language: tr
 ---
 
 Police in Fethiye, Muğla detained suspect H.A.U. in an operation targeting drug
-trafficking. [@1,3] The operation was coordinated by the Fethiye Chief Public
+trafficking. [@1,3,4] The operation was coordinated by the Fethiye Chief Public
 Prosecutor's Office and carried out by provincial police intelligence and
 anti-narcotics teams against H.A.U., assessed as trading in drugs. [@1]
 
 Searches of the suspect's home and vehicles found 1 kilo 625 grams of cannabis
-and one precision scale. [@1,3] A second account confirms searches of the
+and one precision scale. [@1,3,4] A second account confirms searches of the
 identified home and vehicles found 1 kilo 625 grams of cannabis and a precision
 scale. [@2]
 
 After police procedures H.A.U. was referred to the judiciary and remanded by the
-court and sent to prison. [@1,3] The second account says the on-duty criminal
+court and sent to prison. [@1,3,4] The second account says the on-duty criminal
 court ordered H.A.U.'s remand after he was brought to the courthouse. [@2]
