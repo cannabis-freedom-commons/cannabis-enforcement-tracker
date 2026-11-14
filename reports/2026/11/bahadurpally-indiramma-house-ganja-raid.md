@@ -58,6 +58,11 @@ sources:
     url: https://www.msn.com/en-in/news/other/bahadurpally-indiramma-house-turns-into-ganja-distribution-hub/ar-AA2hnfhd
     publisher: Newspoint
     date: 2026-11-13
+  - title: Vacant Indiramma house in Bahadurpally turns into ganja hangout; 5 held
+    url: https://newsmeter.in/crime/vacant-indiramma-house-in-bahadurpally-turns-into-ganja-hangout-5-held-779266
+    publisher: NewsMeter
+    date: 2026-11-14
+    language: en
 open_questions:
   - The raid is described only as late Thursday night, so 12 November 2026 is used as the incident date.
   - The sources give no NDPS sections, seizure packaging details, or court outcome after the case was registered.
@@ -67,14 +72,14 @@ open_questions:
 
 An Indiramma house at Bahadurpally, Dundigal, had reportedly become a ganja
 distribution network and a place for ganja addicts. [@1,3] The Telangana EAGLE
-Force carried out a surprise raid on the house. [@1,3] The search operation was
+Force carried out a surprise raid on the house. [@1,3] The Telangana EAGLE Force conducted a surprise raid at Block No. 27 in Indiramma Colony, Bahadurpally, under Dundigal police station limits, acting on information received through its toll-free helpline. [@4] The search operation was
 conducted at Block No. 27 in Indiramma Colony late Thursday night. [@1] Five
 people were arrested in the operation. [@1,3] The arrested were Thakur Kishan
 Singh (25), a cab driver, Mani Raj (32), Pradeep (21), Karthik (25) and Rajput
 Pavan Kumar, who were taken into custody. [@1,3] Urine screening tests found four
 of the five positive for THC, while Pavan Kumar tested negative. [@2] Police
 registered a case under the Narcotic Drugs and Psychotropic Substances (NDPS)
-Act against the five apprehended. [@1,3]
+Act against the five apprehended. [@1,3] Dundigal Police registered a case (Cr.No. 1089/2026) under Sections 8(c) read with 20(b)(ii)(A) and 27(b) of the NDPS Act. [@4]
 
 Officers seized around four grams of marijuana in the raid. [@2] Kishan Singh,
 whose family owns the vacant Indiramma housing unit, confessed that he procured
@@ -87,4 +92,4 @@ for Rs 500. [@2] Police recovered a list of 24 people believed to be his
 customers from him. [@1] Investigators are working to trace the suspected
 suppliers, verify the list of 24 consumers and establish the wider supply
 network. [@2] Kishan Singh was previously booked for the same crime at the same
-police station. [@1]
+police station. [@1] Kishan Singh had previously been booked in an NDPS case (Cr.No. 754/2020) under Section 20(B)(II) at Dundigal Police Station, and his alleged involvement in the present case is being examined in light of that record. [@4]
