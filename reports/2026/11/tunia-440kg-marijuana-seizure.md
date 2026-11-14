@@ -36,21 +36,27 @@ sources:
     publisher: Diario del Cauca
     date: 2026-11-09
     language: es
+  - title: Incautan 440 kilos de marihuana y 7.025 galones de insumo químico en Cauca
+    url: https://www.diariodelsur.com.co/noticias/incautan-440-kilos-de-marihuana-y-7-025-galones-de-insumo-quimico-en-cauca
+    publisher: Diario del Sur
+    date: 2026-11-12
+    language: es
 open_questions:
   - No one was captured in the seizure, as the driver abandoned the truck and fled; no charge, custody decision or court outcome was reported.
   - The account rests on a single opened report (Diario del Cauca, drawing on a regional post by Ovidio Hoyos and the Fuerza Pública); no second, independent source could be opened.
   - No street value, package count or destination for the 440 kilograms was published.
   - The attribution of the load to the Dagoberto Ramos structure is the authorities' own; no court finding on it was reported.
+  - Accounts differ on whether the vehicle carrying the marijuana was a pickup truck or a larger truck.
+  - The technical nature of the 7,025 gallons of seized chemical has not been confirmed; it was only preliminarily identified as hexane.
 ---
 
 On 11 November, Brigade 29 of the Colombian army seized 440 kilograms of
 marijuana at the old Tunía toll on the Panamericana road, in Piendamó, Cauca.
-[@1] The seizure came during a military checkpoint check on a truck whose driver
-had tried to evade the post and then abandoned the vehicle. [@1]
+[@1,2] The seizure came during a military checkpoint check on a truck whose driver
+had tried to evade the post and then abandoned the vehicle. [@1,2]
 
 The authorities attributed the load, presumably, to the Dagoberto Ramos
 structure of the FARC dissidents. [@1]
 
 The regional report also records a separate late-October interception of a
-tanker carrying 7,025 gallons of a substance identified as hexane. [@1]
-
+tanker carrying 7,025 gallons of a substance identified as hexane. [@1] The late-October tanker-truck interception involved the Traffic Police, the Prosecutor's CTI and the Army, and the tanker was carrying the chemical product with presumably false documentation. [@2]
