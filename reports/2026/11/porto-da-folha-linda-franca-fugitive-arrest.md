@@ -71,24 +71,29 @@ sources:
     publisher: Imprensa 24h
     date: 2026-11-11
     language: pt
+  - title: Homem condenado por tráfico é localizado e preso no sertão sergipano
+    url: https://cinformonline.com.br/homem-condenado-por-trafico-e-localizado-e-preso-no-sertao-sergipano/
+    publisher: Cinform Online
+    date: 2026-11-12
+    language: pt
 ---
 
 Civil Police in Sergipe arrested a man convicted of drug trafficking on Monday,
 9 November 2026, in the village of Linda França, in Porto da Folha, in the
-state's sertão backlands. [@1,3] Teams from the municipal police stations of Monte
+state's sertão backlands. [@1,3,6] Teams from the municipal police stations of Monte
 Alegre de Sergipe and Poço Redondo carried out the arrest after identifying the
-convicted man's whereabouts. [@2,3,4,5] He had been a fugitive from justice after
+convicted man's whereabouts. [@2,3,4,5,6] He had been a fugitive from justice after
 failing to appear at the hearings in his case and could not be found to serve
 his sentence. [@1,3,5] By the time of his arrest, his conviction had become final. [@4]
 
 His case began in 2013, when he was caught cultivating a plantation of about 800
-cannabis plants (Cannabis sativa), known as maconha. [@1,3,4,5] He was prosecuted for
-drug trafficking, association for trafficking and counterfeit currency. [@1,3,4,5]
+cannabis plants (Cannabis sativa), known as maconha. [@1,3,4,5,6] He was prosecuted for
+drug trafficking, association for trafficking and counterfeit currency. [@1,3,4,5,6]
 Delegate Artur Herbas, who coordinated the operation, said the man had first
 been held in pre-trial detention but obtained provisional release. [@1] He then
 stopped appearing at the procedural hearings, became a fugitive and was not
 found after his conviction. [@2,3]
 
 He went through a custody hearing on Tuesday, 10 November, and was sent to the
-prison system, where he remains at the disposal of justice. [@1,3,4,5] The Civil
-Police announced the arrest on Wednesday, 11 November. [@1,3] The police registered the operation in the official channels of the Agência Sergipe de Notícias, the state news agency. [@5]
+prison system, where he remains at the disposal of justice. [@1,3,4,5,6] The Civil
+Police announced the arrest on Wednesday, 11 November. [@1,3,6] The police registered the operation in the official channels of the Agência Sergipe de Notícias, the state news agency. [@5]
