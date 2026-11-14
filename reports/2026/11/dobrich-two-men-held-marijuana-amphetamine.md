@@ -55,6 +55,11 @@ sources:
     publisher: 24chasa.bg
     date: 2026-11-13
     language: bg
+  - title: 'Спецакция в Добрич: Двама в ареста след открити десетки дози марихуана и амфетамин'
+    url: https://eurocom.bg/2026/11/13/spetsaktsiya-v-dobrich-dvama-v-aresta-sled-otkriti-desetki-dozi-marihuana-i-amfetamin/
+    publisher: Евроком
+    date: 2026-11-13
+    language: bg
 media:
   - kind: photo
     url: https://pronewsdobrich.bg/spetsaktsiya-v-dobrich-zadarzhaha-dvama-mazhe-s-nad-23-grama-marihuana-i-amfetamin-p732914
@@ -71,23 +76,25 @@ media:
     media_url: https://pronewsdobrich.bg/i/2026/11/13/720096.jpg
     publisher: Про Нюз Добрич
     caption: Small bags of white powder seized with the marijuana in the Dobrich operation, laid out on a vehicle seat.
+open_questions:
+    - The article also reports a separate police operation in the Dobrich region in late October 2026 in which 13 people were detained; that is a different event and is not covered here.
 ---
 
 Two men known to the interior authorities were detained in Dobrich during a
 specialized police operation against the distribution of narcotic substances.
-[@1,3,4] The operation was carried out on 12 November at about 23:30 by officers of
-the First District Administration in Dobrich. [@1,3]
+[@1,3,4,5] The operation was carried out on 12 November at about 23:30 by officers of
+the First District Administration in Dobrich. [@1,3,5]
 
 During the check, officers found on the two men 12 foil rolls containing 4.98
 grams of marijuana and 48 foil rolls containing a total of 8.69 grams of
-amphetamine. [@1,3] In follow-up procedural and investigative actions, officers
-also searched a home inhabited by the two men. [@1,3] There officers found and
+amphetamine. [@1,3,5] In follow-up procedural and investigative actions, officers
+also searched a home inhabited by the two men. [@1,3,5] There officers found and
 seized a further 14 packets of amphetamine with a total weight of 10.28 grams.
-[@1,3]
+[@1,3,5]
 
 The two men were detained for up to 24 hours; a pretrial proceeding was opened
-and the material was reported to the prosecution. [@1,3] Police work to establish
-and document the possible criminal activity of the detained men continues. [@1]
+and the material was reported to the prosecution. [@1,3,5] Police work to establish
+and document the possible criminal activity of the detained men continues. [@1,5]
 
 A 24chasa-network account states that a total of 4.98 grams of marijuana and
 18.97 grams of amphetamine were found on the two men and in their home,
