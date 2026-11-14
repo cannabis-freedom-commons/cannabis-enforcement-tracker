@@ -35,6 +35,11 @@ media:
     media_url: https://www.lavocedelterritorio.it/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-18.23.16-696x480.jpeg
     publisher: La Voce del Territorio Umbro
     caption: 'Photo published with the La Voce del Territorio report on the Amelia arrest, showing the seized hashish and scales. Photo: La Voce del Territorio Umbro'
+  - kind: photo
+    url: https://www.umbriajournal.com/cronaca/hashish-in-camera-ad-amelia-arrestato-un-ragazzo-di-16-anni-656725/
+    media_url: https://www.umbriajournal.com/wp-content/uploads/2026/11/CC-Amelia-678x381.jpg
+    publisher: Umbria Journal
+    caption: 'Photo captioned ''CC Amelia'' published with the account of the Amelia arrest of a 16-year-old. Photo: Umbria Journal'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0399b2a507d8c3fd5817ca40e0c4a9ca
@@ -53,6 +58,11 @@ sources:
   - title: 'Chiama il 112 dopo una lite con il figlio. Lui consegna ai carabinieri 4 involucri di hashish: arrestato 16enne'
     url: https://www.corrieredellumbria.it/news/cronaca/469389/chiama-il-112-dopo-una-lite-con-il-figlio-lui-consegna-ai-carabinieri-4-involucri-di-hashish-arrestato-16enne.html
     publisher: Corriere dell'Umbria
+    date: 2026-11-13
+    language: it
+  - title: Hashish in camera ad Amelia, arrestato un ragazzo di 16 anni
+    url: https://www.umbriajournal.com/cronaca/hashish-in-camera-ad-amelia-arrestato-un-ragazzo-di-16-anni-656725/
+    publisher: Umbria Journal
     date: 2026-11-13
     language: it
 ---
@@ -75,3 +85,5 @@ outcome: at the end of the directissima validation hearing the judge confirmed
 the arrest and applied the precautionary measure of house arrest on the
 sixteen-year-old, letting him keep attending school as long as he was
 accompanied by his parents. [@2]
+
+The carabinieri intervention took place on the afternoon of Friday 6 November, after the boy's mother called the 112 emergency number over a fierce quarrel. [@4] The 18 grams of hashish, split into four packages already ready for sale, and two working electronic precision scales were all kept in the boy's bedroom. [@4] The validation hearing before the Juvenile Court in Perugia was held on the morning of Monday 9 November. [@4]
