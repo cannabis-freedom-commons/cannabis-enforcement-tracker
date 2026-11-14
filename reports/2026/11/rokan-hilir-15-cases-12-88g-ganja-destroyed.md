@@ -35,11 +35,21 @@ media:
     media_url: https://www.datariau.com/photo/berita/dir112026/_5587_Polres-Rohil-Musnahkan-Sabu-Ekstasi-dan-Ganja-dari-15-Perkara.jpg
     publisher: datariau.com
     caption: 'Rokan Hilir police press conference destroying narcotics evidence from 15 cases, with sachets being put into blenders before a BARANG BUKTI NARKOTIKA sign. Photo: Polres Rokan Hilir / datariau.com'
+  - kind: photo
+    url: https://www.spiritriau.com/Hukrim/Sabu--Ektasi--Ganja-Dimusnahkan--Polres-Rohil-Komitmen-Berantas-Narkoba
+    media_url: https://www.spiritriau.com/photo/berita/dir112026/_3658_Sabu--Ektasi--Ganja-dimusnahkan--Polres-Rohil-Komitmen-Berantas-Narkoba.webp
+    publisher: spiritriau.com
+    caption: 'Officers destroying narcotics evidence at Polres Rokan Hilir headquarters. Photo: Jonathan Surbakti'
 sources:
   - title: Polres Rohil Musnahkan Sabu Ekstasi dan Ganja dari 15 Perkara
     url: https://www.datariau.com/detail/beritaTNI-polri/polres-rohil-musnahkan-sabu-ekstasi-dan-ganja-dari-15-perkara
     archived: https://web.archive.org/web/20261114040657/https://www.datariau.com/detail/beritaTNI-polri/polres-rohil-musnahkan-sabu-ekstasi-dan-ganja-dari-15-perkara
     publisher: datariau.com
+    date: 2026-11-13
+    language: id
+  - title: Sabu, Ektasi, Ganja Dimusnahkan, Polres Rohil Komitmen Berantas Narkoba
+    url: https://www.spiritriau.com/Hukrim/Sabu--Ektasi--Ganja-Dimusnahkan--Polres-Rohil-Komitmen-Berantas-Narkoba
+    publisher: spiritriau.com
     date: 2026-11-13
     language: id
 open_questions:
@@ -52,18 +62,17 @@ open_questions:
 
 Rokan Hilir regency police destroyed 428.39 grams of sabu, 226 ecstasy pills, 29
 pieces of etomidate and 12.88 grams of ganja, the Indonesian term for cannabis,
-in a press conference at their aula on 13 November 2026. [@1] The evidence had
-been seized from 15 cases involving 25 suspects. [@1] The destruction took place
+in a press conference at their aula on 13 November 2026. [@1,2] The evidence had
+been seized from 15 cases involving 25 suspects. [@1,2] The destruction took place
 in the Aula Tunggal Panaluan of the regency police headquarters around 10.20
-WIB. [@1]
+WIB. [@1,2]
 
 The event was led by the regency police chief, AKBP Aldi Alfa Faroqi. [@1] The
 regency's narcotics squad chief, AKP Ronni TM Sitinjak, presented the force's
 results for January to 31 October 2026: 112 suspects detained in 74 narcotics
-cases. [@1]
+cases. [@1,2] Of the 112 suspects, 105 were men and seven were women, with no suspects who were children. [@2] Bagan Sinembah had the most cases with 14, followed by Bangko with 11, while Tanah Putih and Palika had 10 cases each. [@2]
 
 The destroyed evidence had been tested by a forensic laboratory before the
 destruction. [@1] Prosecutors, representatives of the customary Melayu Riau
 council and community figures witnessed the open destruction as a demonstration
 of case-handling transparency. [@1]
-
