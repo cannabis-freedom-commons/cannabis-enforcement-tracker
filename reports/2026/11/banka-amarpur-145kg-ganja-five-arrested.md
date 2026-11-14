@@ -53,6 +53,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-13
     language: hi
+  - title: पुलिस ने 1.45 क्विंटल से ज्यादा गांजा जब्त किया:खेमीचक धरानी में छापेमारी के दौरान 3.60 लाख रुपए नकद भी बरामद, दो महिलाओं समेत पांच गिरफ्तार
+    url: https://www.bhaskar.com/amp/local/bihar/banka/amarpur/news/amarpur-khemichak-dharani-police-raid-ganja-seizure-arrest-139677021.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-13
+    language: hi
 open_questions:
     - The exact calendar date of the Thursday-night raid is not stated; 12 November 2026 is inferred from the Friday-evening press conference and 13 November 2026 publication.
     - No court appearance, remand or sentence outcome beyond registration of the NDPS case was reported.
@@ -61,20 +66,20 @@ open_questions:
 
 Police in the Amarpur police-station area of Banka district, Bihar, seized 145
 kg 700 g of ganja, the Hindi name for cannabis, in a raid against drug
-smuggling. [@1,3] The raid took place on Thursday night in Khemichak Dharaan
+smuggling. [@1,3] Sub-divisional police officer Amar Vishwas told a press conference at Amarpur police station on Friday evening that station house officer Rakesh Kumar had been tipped off that ganja was being sold illegally around the bus stand, and that a police team led by him then carried out the raid. [@4] The raid took place on Thursday night in Khemichak Dharaan
 village under Salempur panchayat near Amarpur town, across several premises
-holding an illicit drug network. [@2]
+holding an illicit drug network. [@2,4]
 
 At the home of Khemichak Dharaan resident Mahesh Bhagat, police recovered 1 kg
 100 g of ganja, a mobile phone and 1,20,000 rupees in cash and arrested Mahesh
-Bhagat and Monu Bhagat on the spot. [@2,3] Acting on their information, police
+Bhagat and Monu Bhagat on the spot. [@2,3,4] Acting on their information, police
 raided the home of Ajit Bhagat, where 88 kg 500 g of ganja, a mobile phone and
 an electronic weighing scale were recovered. [@2] A further search at Ajit
 Bhagat's second premises yielded more than 50 kg of ganja and 2,40,000 rupees in
 cash. [@2] A further search at Ajit Bhagat's second premises yielded 56 kg 100 g of ganja and 2,40,000 rupees in cash. [@3]
 
 In the case police arrested Mahesh Bhagat, Monu Bhagat and Ajit Bhagat along
-with two women, Buchchi Devi and Archana Devi, five people in total. [@2] Police
+with two women, Buchchi Devi and Archana Devi, five people in total. [@2,4] Amar Vishwas said Ajit Bhagat had been arrested in 2014 on charges of selling ganja and spent a long time in jail, and that Mahesh Bhagat had also served time on ganja-selling charges and had been released about a month before the raid. [@4] Police
 recovered a total of more than 1 quintal 45 kg of ganja and 3,60,000 rupees in
 cash from the various premises and registered a first information report under
-the NDPS Act. [@2]
+the NDPS Act. [@2] Police said they were gathering information on other people linked to the trade and on the network of ganja buyers and sellers. [@4]
