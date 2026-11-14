@@ -51,28 +51,29 @@ sources:
     url: https://english.nepalviews.com/2026/11/12/police-seize-231-8-kg-of-marijuana-from-balan-river
     publisher: Nepal Views
     date: 2026-11-12
+  - title: Five arrested with drugs in separate police operations
+    url: https://english.khabarhub.com/2026/12/575369/
+    publisher: Khabarhub
+    date: 2026-11-12
 open_questions:
-  - The seized weight is reported as 231 kg and as 231 kg 800 g; the report uses the 231.8 kg figure given by Nepal Views.
-  - The marijuana is described only as suspected marijuana, with no laboratory confirmation reported.
-  - No one was found at the site, and no arrests, charges or court outcome have been reported.
-  - The same police briefing reported five separate drug arrests in Morang, Sunsari and Banke, a different roundup left out of this report.
-  - Online Khabar names a police post at Thadi in Siraha alongside the Belhi post in Saptari for the joint search team.
-  - 'Left out, as its quotation was not found in Nepal Views: Acting on a tip-off that marijuana had been concealed in the river, police searched the area around 1 am.'
-  - 'Left out, as its quotation was not found in Online Khabar: Online Khabar dates the search to around 1 am on Wednesday night.'
-  - 'Left out, as its quotation was not found in Online Khabar: A joint police team from the Area Police Office in Lahan, Siraha, and the Belhi police post in Saptari, coordinating with an Armed Police Force Nepal border outpost at Belhi, made the recovery.'
+    - The seized weight is reported as approximately 231 kg and as 231 kg 800 g; the report uses the 231.8 kg figure given by Nepal Views.
+    - The marijuana is described only as suspected marijuana, with no laboratory confirmation reported.
+    - No one was found at the site, and no arrests, charges or court outcome have been reported.
+    - The same police briefing reported five separate drug arrests in Morang, Sunsari and Banke, a different roundup left out of this report.
+    - It is not clear whether a police post at Thadi in Siraha also joined the search alongside the teams from Lahan and Belhi.
+    - No street value estimate for the 231.8 kg was published.
 ---
 
 Police in Saptari recovered 231.8 kg of marijuana from the Balan River at Balan
-Bihul Rural Municipality-4. [@2] The marijuana was hidden in a pit dug in the
+Bihul Rural Municipality-4. [@2,3] The marijuana was hidden in a pit dug in the
 middle of the river. [@2] The Balan River lies on the border between Siraha and
-Saptari districts. [@2]
+Saptari districts. [@2,3]
 
-The load was packed in seven sacks. [@1] No one was found at the site where the
+The load was packed in seven sacks. [@1,3] Police teams from the Area Police Office in Lahan, Siraha, and the Belhi police post in Saptari recovered the marijuana. [@3] No one was found at the site where the
 marijuana had been hidden. [@2]
 
 The District Police Office, Siraha, described the material as suspected
 marijuana. [@2] Siraha police chief Superintendent of Police Basudev Pathak said
 smugglers had been using river routes to transport marijuana to India. [@2]
-Police said further investigation into the seizure was underway. [@1] The
+Police said further investigation into the seizure was underway. [@1,3] The
 Central Police News Room put the seizure at approximately 231 kg. [@1]
-
