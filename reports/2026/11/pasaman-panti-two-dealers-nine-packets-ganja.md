@@ -37,6 +37,11 @@ media:
     media_url: https://www.rumpuntekno.com/assets/mitra/2/2026/11/foto-berita-satresnarkoba-polres-pasaman-tangkap-dua-terduga-pengedar-ganja-di-panti-7-paket-besar-dan-2-paket-sedang--131126121010.webp
     publisher: Kongkrit.com
     caption: Kongkrit.com photo published with the account of the Panti arrests and the nine cannabis packets seized by Satresnarkoba Polres Pasaman.
+  - kind: photo
+    url: https://posmetropadang.co.id/jual-ganja-ke-polisi-menyamar-dua-pengedar-ditangkap-7-paket-besar-disita-441968
+    media_url: https://posmetropadang.co.id/wp-content/uploads/2026/11/1-14.jpg
+    publisher: Posmetro Padang
+    caption: PD and IP detained by Satresnarkoba Polres Pasaman with seven large packets of dried ganja.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f95b428850ef48c1b0304bed8889982f
@@ -67,6 +72,11 @@ sources:
     publisher: Sakato.co.id
     date: 2026-11-13
     language: id
+  - title: Jual Ganja ke Polisi Menyamar, Dua Pengedar Ditangkap, 7 Paket Besar Disita - Posmetro Padang
+    url: https://posmetropadang.co.id/jual-ganja-ke-polisi-menyamar-dua-pengedar-ditangkap-7-paket-besar-disita-441968
+    publisher: Posmetro Padang
+    date: 2026-11-14
+    language: id
 ---
 
 Satresnarkoba Polres Pasaman detained two suspected cannabis dealers at about
@@ -76,14 +86,14 @@ Sipon and Ilcan Prayono alias Teil aged 38, were local residents suspected of
 being involved in the cannabis trade. [@1,3,4,5] Both suspects are farmers by profession, and both live in Jorong Katimahar. [@5]
 
 Officers seized nine packets believed to contain cannabis, seven large and two
-medium, plus a mobile phone and a motorcycle. [@1,4,5] Kasat Resnarkoba Polres
+medium, plus a mobile phone and a motorcycle. [@1,4,5,6] Kasat Resnarkoba Polres
 Pasaman AKP Fahrul Roji led the arrest with personnel of Tim Opsnal Elang Timur.
 [@1,3,5]
 
 The operation followed a community report of suspected drug transactions in
 Nagari Panti Timur, after which officers investigated and monitored the area.
-[@1,3,5] Officers then carried out an undercover buy, in which a police officer
-posed as a prospective buyer of cannabis. [@1,3,5] PD alias Sipon agreed to meet the
+[@1,3,5,6] Officers then carried out an undercover buy, in which a police officer
+posed as a prospective buyer of cannabis. [@1,3,5,6] PD alias Sipon agreed to meet the
 undercover officer at a coffee shop in Jorong Kuamang, but redirected the
 meeting to another location in Jorong Katimahar. [@1,3,5]
 
