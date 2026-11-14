@@ -43,6 +43,11 @@ media:
     media_url: https://peperi.com.br/storage/fotos_noticia/thumbs/Eo90GvT185X8LiOmdD7jf9ExSntlqPzgQrUbJrAu.jpg
     publisher: Peperi.com.br
     caption: 'Police handout photo published with the report on the arrest and the drug seizure at Linha Vista Alta, São Miguel do Oeste. Photo: PMSC'
+  - kind: photo
+    url: https://diregional.com.br/extremo-oeste/policia/2026-11-13-homem-e-preso-com-cocaina-e-maconha-escondidas-em-area-de-mata-em-sao-miguel-do-oeste
+    media_url: https://diregional.com.br/files/2904922/60ed5e5a8565ce57a66817fc19e55054
+    publisher: DI Regional
+    caption: 'Police handout photo published with the report: the 10 packages of cocaine and the two bricks of marijuana weighing 1.48 kg found at Linha Vista Alta, São Miguel do Oeste. Photo: Polícia Militar'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 103d5f0a14c382aabeb109c9850abb10
@@ -63,38 +68,31 @@ sources:
     publisher: WH3 - Sistema 103
     date: 2026-11-13
     language: pt
-open_questions:
-  - 'The accounts give different weights for the marijuana: Peperi says 1,480 quilo, WH3 says 1,485 quilo and ClicRDC says approximately 1,48 kg; the report uses about 1.48 kilograms.'
-  - Peperi and ClicRDC report that only the 31-year-old man was arrested, while WH3 reports that both men received voz de prisão; the report records one arrest.
-  - Peperi and ClicRDC describe the arrest as for drug trafficking, while WH3 adds association for trafficking.
-  - The 26-year-old man found in the car was not reported as arrested or charged, and no court outcome for the 31-year-old was published.
-  - The 217 grams of cocaine seized in the same occurrence is not counted in the cannabis figures.
-  - No name was published for either man.
-  - The seized material was described as maconha with no laboratory confirmation reported.
-  - No value estimate for the seized drugs was published.
-  - WH3 places the wooded area on land belonging to the Brazilian Army, a detail the other accounts do not give.
-  - The exact position of Linha Vista Alta within the municipality is not given, so the coordinates are those of the São Miguel do Oeste town centre.
-  - The May 2025 seizure in which one of the arrested men had earlier been acquitted by the Santa Catarina Court of Justice is a separate event and is not covered here.
+  - title: Homem é preso com cocaína e maconha escondidas em área de mata em São Miguel do Oeste
+    url: https://diregional.com.br/extremo-oeste/policia/2026-11-13-homem-e-preso-com-cocaina-e-maconha-escondidas-em-area-de-mata-em-sao-miguel-do-oeste
+    publisher: DI Regional
+    date: 2026-11-13
+    language: pt
 ---
 
 Military Police arrested a 31-year-old man for drug trafficking on the morning
 of Friday 13 November 2026, at about 9am, at Linha Vista Alta, in the interior
-of São Miguel do Oeste, in western Santa Catarina. [@1] The occurrence began
+of São Miguel do Oeste, in western Santa Catarina. [@1,4] The occurrence began
 when a patrol stopped a GM Vectra parked in front of a wooded area, where a
-26-year-old man was waiting in the car. [@1] Nothing illicit was found on the
+26-year-old man was waiting in the car. [@1,4] Nothing illicit was found on the
 26-year-old during the personal search. [@2] During the approach, officers found
 the 31-year-old coming out of the woods carrying a glass jar, and inside the
 container were 10 packages of cocaine that weighed 217 grams after weighing.
 [@1]
 
 Officers then used the sniffer dog Ayla, which found two bricks of marijuana
-buried in the wooded area, weighing about 1.48 kilograms. [@1] WH3 reported that
+buried in the wooded area, weighing about 1.48 kilograms. [@1,4] WH3 reported that
 the bricks were hidden at the base of a tree, covered with leaves and branches,
 and put the marijuana at 1,485 quilo. [@3] Together with the cocaine, the
 seizure came to 1.697 kilograms. [@2] The 31-year-old received voz de prisão,
 Brazil's in-flagrante arrest, and he and the 26-year-old were taken with the
 seized material to the Civil Police station of São Miguel do Oeste for the legal
-procedures. [@1]
+procedures. [@1,4]
 
 WH3 reported that the operation was checking complaints that a wooded area
 belonging to the Brazilian Army was being used to hide and store drugs, with
@@ -103,4 +101,3 @@ men received voz de prisão for drug trafficking and association for trafficking
 [@3] WH3 also reported that one of the two men had been acquitted by the Santa
 Catarina Court of Justice in March 2026, after a May 2025 seizure of more than
 70 kilograms of drugs, and was arrested again in this occurrence. [@3]
-
