@@ -72,20 +72,18 @@ sources:
     publisher: France 3 Normandie
     date: 2026-11-13
     language: fr
-open_questions:
-  - One photo caption says 100 grams of cocaine while both article bodies say 133 grams; the report uses 133 grams.
-  - The judicial fate of the four other people arrested alongside the six sent to court was not reported.
-  - The outcome of the postponed 4 December hearing was not reported.
-  - The form of the seized cannabis, such as herb or resin, was not specified.
-  - No names, ages or pleas of the suspects were reported.
-  - France 3 gives the seized cash as 'around 15,000 euros' and the cocaine as 'just over 100 grams', differing from the 13,370 euros and 133 grams recorded from the gendarmerie statement and the photo caption; the cocaine figure remains disputed.
+  - title: Dix personnes interpellées, dans le cadre du démantèlement d’un trafic de stupéfiants dans l’Eure
+    url: https://www.ouest-france.fr/societe/faits-divers/dix-personnes-interpellees-dans-le-cadre-du-demantelement-dun-trafic-de-stupefiants-dans-leure-992b9ee6-df56-11f1-9a29-f4bab172af08
+    publisher: Ouest-France
+    date: 2026-11-13
+    language: fr
 ---
 
 Gendarmes from the Les Andelys company arrested ten people at their homes in the
 Les Bornes neighbourhood of Gisors on 2 November 2026 and placed them in
 custody. [@1,3] The operation was backed by the Caen GIGN with specialised
 gendarmerie protection platoons and Eure surveillance-and-intervention platoons.
-[@1] The raid followed several months of investigation by the Les Andelys
+[@1,4] The raid followed several months of investigation by the Les Andelys
 research brigade, which identified a cocaine and cannabis supply-and-sale
 network. [@1] Discreet surveillance by the Evreux departmental observation and
 surveillance cell documented transactions between sellers and regular customers,
