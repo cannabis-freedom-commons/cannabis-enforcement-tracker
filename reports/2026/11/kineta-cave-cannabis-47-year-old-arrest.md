@@ -79,31 +79,59 @@ sources:
     publisher: Lawandorder.gr
     date: 2026-11-13
     language: el
+  - title: 'Κινέτα: 47χρονος συνελήφθη μέσα σε… σπηλιά – Την είχε μετατρέψει σε χώρο αποθήκευσης ναρκωτικών'
+    url: https://www.alphafreepress.gr/2026/11/14/ellada/kineta-47xronos-synelifthi-mesa-se-spilia-tin-eixe-metatrepsei-se-xoro-apothikeysis-narkotikon/
+    publisher: Alphafreepress.gr
+    date: 2026-11-14
+    language: el
 media:
   - kind: photo
     url: https://www.neakriti.gr/koinonia/2211153_kineta-ekrybe-126-kila-kannabis-se-spilaio-synelifthi-47hronos
     media_url: https://www.neakriti.gr/sites/default/files/styles/full/public/2026-11/kineta-narkotika-spilia__5_.jpg.webp?itok=_8-yHmjL
     publisher: Neakriti
     caption: 'Photo of the cave in Kineta where police found the 12.6 kg of cannabis. Photo: Neakriti'
-open_questions:
-    - 'Accounts disagree on the arrest date: the submitted account says Thursday 12 November 2026, while the other sources say Wednesday 11 November 2026.'
+  - kind: photo
+    url: https://www.alphafreepress.gr/2026/11/14/ellada/kineta-47xronos-synelifthi-mesa-se-spilia-tin-eixe-metatrepsei-se-xoro-apothikeysis-narkotikon/
+    media_url: https://www.alphafreepress.gr/wp-content/uploads/2026/11/13112026-dt-aea-3-scaled.webp
+    publisher: Alphafreepress.gr
+    caption: 'Photo from the police statement published with the report: the 47-year-old arrested inside the Kineta cave he had turned into a cannabis storage site. Photo: Hellenic Police'
+  - kind: photo
+    url: https://www.alphafreepress.gr/2026/11/14/ellada/kineta-47xronos-synelifthi-mesa-se-spilia-tin-eixe-metatrepsei-se-xoro-apothikeysis-narkotikon/
+    media_url: https://www.astynomia.gr/file/2026/11/13112026-dt-aea-4.jpg
+    publisher: Alphafreepress.gr
+    caption: 'Hellenic Police handout image published in the article on the cannabis seized in the Kineta cave. Photo: Hellenic Police'
+  - kind: photo
+    url: https://www.alphafreepress.gr/2026/11/14/ellada/kineta-47xronos-synelifthi-mesa-se-spilia-tin-eixe-metatrepsei-se-xoro-apothikeysis-narkotikon/
+    media_url: https://www.astynomia.gr/file/2026/11/13112026-dt-aea-5.jpg
+    publisher: Alphafreepress.gr
+    caption: 'Hellenic Police handout image published in the article on the cannabis seized in the Kineta cave. Photo: Hellenic Police'
+  - kind: photo
+    url: https://www.alphafreepress.gr/2026/11/14/ellada/kineta-47xronos-synelifthi-mesa-se-spilia-tin-eixe-metatrepsei-se-xoro-apothikeysis-narkotikon/
+    media_url: https://www.astynomia.gr/file/2026/11/13112026-dt-aea-1.jpg
+    publisher: Alphafreepress.gr
+    caption: 'Hellenic Police handout image published in the article on the cannabis seized in the Kineta cave. Photo: Hellenic Police'
+  - kind: video
+    url: https://www.alphafreepress.gr/2026/11/14/ellada/kineta-47xronos-synelifthi-mesa-se-spilia-tin-eixe-metatrepsei-se-xoro-apothikeysis-narkotikon/
+    media_url: https://www.youtube.com/embed/BMcyxnm7_Yo
+    publisher: Alphafreepress.gr
+    caption: Video titled 'Arrest of a 47-year-old for possession and trafficking of raw cannabis which he hid in a cave' embedded in the article
 ---
 
 Narcotics officers arrested a 47-year-old foreign man for cannabis possession
-and trafficking. [@1,6,8,10,11] Officers found the man inside a cave in Kineta, where he
-had hidden drug quantities for further distribution. [@1,3,4,5,7,8,11] Police said the stash was kept in a disused sheepfold inside the cave above Kineta. [@8] Police said he stored
+and trafficking. [@1,6,8,10,11,12] Officers found the man inside a cave in Kineta, where he
+had hidden drug quantities for further distribution. [@1,3,4,5,7,8,11,12] Police said the stash was kept in a disused sheepfold inside the cave above Kineta. [@8] Police said he stored
 and distributed raw cannabis to various people, mainly around Agioi Theodoroi in
-Corinthia and in Attica. [@1,3,5,6,7,9] The arrest took place on the afternoon of
+Corinthia and in Attica. [@1,3,5,6,7,9,12] The arrest took place on the afternoon of
 Wednesday 11 November 2026 during an organized operation by the Narcotics
 Prosecution Subdirectorate in the Attica area. [@1,3] Police said the arrest followed a tip-off about drug-trafficking in the area. [@8]
 
 At the site officers found a total of 12.6 kilograms of raw cannabis and
-cannabis clones, along with signal-jamming and surveillance devices. [@1,9,10] The
+cannabis clones, along with signal-jamming and surveillance devices. [@1,9,10,12] The
 total comprised 6.6 kilograms of raw cannabis and six kilograms of cannabis
 clones. [@2,4,5,6,7,11] Police seized a car. [@1,4,5] Police also seized a mobile phone. [@3] They also found two electric air
 extractors, packaging for extracting cannabis oil, a metal tray and an electric
 blender. [@2,11]
 
 According to police, the man had previously been accused of similar offences.
-[@2,6] A case file for possession and trafficking of narcotics was opened against
+[@2,6,12] A case file for possession and trafficking of narcotics was opened against
 him and he was referred to the competent prosecutor. [@2,5]
