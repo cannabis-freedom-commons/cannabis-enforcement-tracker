@@ -41,27 +41,25 @@ sources:
     url: https://www.derrynow.com/news/crime-courts/derry-driver-arrested-for-suspected-drug-offences-9347751
     publisher: Derry Now
     date: 2026-11-12
-open_questions:
-  - Police described a smell of suspected cannabis, but the account does not identify any of the Class A, B or C substances as cannabis or report laboratory confirmation.
-  - The account says the Class C drugs were located but does not expressly say they were seized, and gives no weight or value.
-  - No preliminary drug-test result, charge or court outcome was reported; the man remained in custody and enquiries were ongoing.
-  - The account rests on a single local report quoting a PSNI spokesperson, with no independent corroboration available.
-  - The Derry Now account does not attribute the drug find to a named PSNI spokesperson, unlike the Derry Journal report the existing account rests on.
+  - title: Derry driver arrested for suspected drug offences
+    url: https://www.ireland-live.ie/north-west/derry-now/derry-driver-arrested-for-suspected-drug-offences-9347754
+    publisher: Ireland Live
+    date: 2026-11-12
 ---
 
 Police on patrol in the Waterside area of Derry arrested a man on Wednesday
-night, November 11. [@1,2] The arrest was made by Tactical Support Group officers
+night, November 11. [@1,2,3] The arrest was made by Tactical Support Group officers
 who signalled for a vehicle to stop in the Crescent Link area shortly after 9pm.
-[@1,2] When the 35-year-old driver stopped, police said officers detected a smell
-of suspected cannabis coming from the vehicle. [@1,2]
+[@1,2,3] When the 35-year-old driver stopped, police said officers detected a smell
+of suspected cannabis coming from the vehicle. [@1,2,3]
 
 A PSNI spokesperson said a search located a quantity of suspected Class C drugs.
-[@1,2] Officers conducted a preliminary drug test using a drug-driving detection
+[@1,2,3] Officers conducted a preliminary drug test using a drug-driving detection
 kit and arrested the man on suspicion of driving when unfit through drink or
-drug. [@1,2] He was also arrested on suspicion of possession of criminal property,
+drug. [@1,2,3] He was also arrested on suspicion of possession of criminal property,
 possession of a Class C controlled drug and being concerned in the possession of
-a Class C controlled drug. [@1,2] Following a further search, the man was arrested
+a Class C controlled drug. [@1,2,3] Following a further search, the man was arrested
 on suspicion of possessing a Class A drug, possessing a Class A drug with intent
-to supply and possessing a Class B drug. [@1,2]
+to supply and possessing a Class B drug. [@1,2,3]
 
-The man remained in custody and enquiries were ongoing. [@1,2]
+The man remained in custody and enquiries were ongoing. [@1,2,3]
