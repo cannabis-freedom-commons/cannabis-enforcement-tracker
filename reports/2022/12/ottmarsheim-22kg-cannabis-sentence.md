@@ -49,19 +49,24 @@ sources:
     publisher: L'Alsace
     date: 2026-11-13
     language: fr
+  - title: 'Ottmarsheim. Elle transportait 22 kilos de cannabis dans sa voiture : deux ans de prison'
+    url: https://www.dna.fr/faits-divers-justice/2026/11/13/elle-transportait-22-kilos-de-cannabis-dans-sa-voiture-deux-ans-de-prison
+    publisher: Les Dernières Nouvelles d'Alsace
+    date: 2026-11-13
+    language: fr
 open_questions:
   - The article is paywalled, so the full account of how the trap under the car was fitted and exactly where the cannabis was hidden could not be read.
   - The source gives the amount as 'nearly 22 kilograms', not an exact measured weight.
   - No street value for the cannabis was published.
   - The woman did not appear at the hearing; no appeal or later outcome was reported.
+  - The DNA.fr account is paywalled, so the full description of the hidden trap under the car could not be read; only its first lines are visible.
 ---
 
 A 47-year-old woman of Russian origin, resident of Almeria in Spain and mother
 of two children, was sentenced by the Mulhouse criminal court on Thursday 12
 November 2026. [@1] The court sentenced her to two years in prison and a customs
-fine of 87,832 euros. [@1] She was stopped by French customs on Christmas Day,
+fine of 87,832 euros. [@1,2] She was stopped by French customs on Christmas Day,
 25 December 2022, at the Franco-German border at Ottmarsheim, where she had just
 arrived from Spain driving a Chrysler Grand Voyager on her own. [@1] Customs
 officers found nearly 22 kilograms of cannabis hidden in the vehicle, concealed
 in a hydraulic-jack trap fitted under the car. [@1]
-
