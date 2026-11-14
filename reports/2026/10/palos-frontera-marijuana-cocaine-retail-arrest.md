@@ -42,6 +42,11 @@ sources:
     publisher: Huelva Información
     date: 2026-11-13
     language: es
+  - title: Detenido tras huir de la Guardia Civil con cocaína y marihuana en Palos
+    url: https://www.diariodehuelva.es/sucesos/detenido-huir-guardia-civil-cocaina-marihuana-palos/20261113115803342456.html
+    publisher: Diario de Huelva
+    date: 2026-11-13
+    language: es
 open_questions:
   - No separate weight or count is published for the marijuana; the marijuana and cocaine were reported together in small bags, so no cannabis weight is recorded.
   - No exact day is given; the account says the events took place at the end of October, so 31 October 2026 is used as an approximate incident date while 13 November 2026 is the publication date.
@@ -52,20 +57,19 @@ open_questions:
 
 The Guardia Civil detained one person in Palos de la Frontera for possessing
 drugs apportioned for retail sale and for serious disobedience after trying to
-flee the police. [@1] One occupant of a stopped car fled on foot, throwing away
+flee the police. [@1,2] One occupant of a stopped car fled on foot, throwing away
 a backpack and a bag, and was located and detained after trying to hide from the
-police. [@1]
+police. [@1,2]
 
 Inside the discarded backpack and bag officers found many small plastic bags
 holding substances later analysed as marijuana and cocaine, prepared for retail
-distribution and sale. [@1] Officers also found cash split into banknotes and
+distribution and sale. [@1,2] Officers also found cash split into banknotes and
 coins of different values inside the bags, described as presumed proceeds of
-retail drug trafficking. [@1] The detained person, the seized substances and the
+retail drug trafficking. [@1,2] The detained person, the seized substances and the
 seized money were placed at the disposal of the judicial authority handling the
 case. [@1]
 
 The incident happened at the end of October in Palos de la Frontera, when a
 citizen-security patrol on crime-prevention duties ordered a car to stop and the
 car ignored the order, prompting officers to follow it until they stopped it.
-[@1]
-
+[@1,2]
