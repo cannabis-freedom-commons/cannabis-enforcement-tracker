@@ -64,22 +64,27 @@ sources:
     publisher: Antenna Sud
     date: 2026-11-13
     language: it
+  - title: Serra di marijuana scoperta a Rionero, arrestato un 56enne
+    url: https://www.basilicata24.it/2026/11/serra-di-marijuana-scoperta-a-rionero-arrestato-un-56enne-164584/
+    publisher: Basilicata24
+    date: 2026-11-13
+    language: it
 ---
 
 Carabinieri arrested a 56-year-old local man in flagrante delicto in Rionero in
-Vulture on suspicion of unlawful production and possession of drugs. [@1,4,5] The
+Vulture on suspicion of unlawful production and possession of drugs. [@1,4,5,6] The
 Rionero in Vulture Carabinieri station made the arrest in the early afternoon on
 the previous Tuesday as part of provincial anti-drug operations. [@2,4] The
 investigating judge in Potenza validated the arrest and ordered house arrest
-with an electronic bracelet. [@2,4,5]
+with an electronic bracelet. [@2,4,5,6]
 
 In a countryside farmhouse on farmland owned by the arrested man, officers found
-a clandestine greenhouse used to grow and dry marijuana. [@1,4,5] Inside they found
+a clandestine greenhouse used to grow and dry marijuana. [@1,4,5,6] Inside they found
 and seized several hemp plants between 80 and 120 centimetres tall, weighing
-about 3 kilograms in total, along with indoor-growing equipment. [@1,4,5] Officers
+about 3 kilograms in total, along with indoor-growing equipment. [@1,4,5,6] Officers
 also searched the man's home and found a small amount of marijuana there. [@2,4,5]
 The greenhouse building, the growing equipment and all the drugs were seized and
-placed at the disposal of the Potenza public prosecutor. [@2,4]
+placed at the disposal of the Potenza public prosecutor. [@2,4,6]
 
 The seized plants amounted to about three kilograms of cannabis, plus equipment
 for indoor cultivation and drying. [@3] The criminal case remains at the
