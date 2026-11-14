@@ -28,6 +28,9 @@ details:
   date_precision: exact
   products: [{product: flower, kg: 200}]
   setting: [shop]
+  related:
+    - terneuzen-checkpoint-coffeeshop-raid-2007
+    - terneuzen-checkpoint-coffeeshop-closure-2008
 data_sources:
   details.activity: [2, 3, 1]
   details.agency_types: [1, 2, 3]
