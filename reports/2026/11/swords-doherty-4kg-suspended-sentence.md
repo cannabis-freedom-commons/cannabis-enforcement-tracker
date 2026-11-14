@@ -56,13 +56,14 @@ sources:
     url: https://dublinpeople.com/news/court/articles/2026/11/13/suspend-sentence-84k/
     publisher: Dublin People
     date: 2026-11-13
-open_questions:
-  - No weight figure beyond "just over 4 kg" was stated; 4 kg is used as a rounded approximation of the seized amount.
-  - The court's presumptive mandatory minimum of ten years was noted as the benchmark the judge departed from, not a sentence imposed.
+  - title: Dublin woman (46) described as ‘ideal candidate’ for storing drugs gets suspended sentence
+    url: https://www.crimeworld.com/courts/dublin-woman-46-described-as-ideal-candidate-for-storing-drugs-gets-suspended-sentence/a/164478670.html
+    publisher: Crime World
+    date: 2026-11-12
 ---
 
 Caroline Doherty, 46, of Cian Lea, Swords, pleaded guilty to possession of
-cannabis for sale or supply at Dublin Circuit Criminal Court. [@1] Gardaí
+cannabis for sale or supply at Dublin Circuit Criminal Court. [@1,3] Gardaí
 searched Doherty's house on 2 October 2024 and found open boxes on the kitchen
 floor holding just over 4 kg of cannabis, which they valued at approximately
 €84,264. [@1]
@@ -75,12 +76,11 @@ Court, primarily for road traffic offences, and no previous convictions for drug
 offences. [@1] An investigating garda agreed there was no evidence Doherty was
 selling the drugs, that she was not their owner, that she was not paid for
 storing them, and that she was vulnerable, an "ideal candidate for storing large
-amounts of drugs". [@2]
+amounts of drugs". [@2,3]
 
 Judge Elma Sheahan said the early guilty plea and the garda's acceptance that
 Doherty's role was on the lower end of the scale allowed the court to depart
 from the presumptive mandatory minimum sentence of ten years. [@2] She imposed a
 three-year sentence which she suspended in full on strict conditions, including
 that Doherty refrain from illegal substances and submit to random urine
-analysis, and placed her under probation supervision for 18 months. [@2]
-
+analysis, and placed her under probation supervision for 18 months. [@2,3]
