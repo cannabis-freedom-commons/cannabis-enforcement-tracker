@@ -52,13 +52,20 @@ sources:
     publisher: Huelva Hoy
     date: 2026-11-13
     language: es
+  - title: Detenido en Palos de la Frontera tras arrojar una mochila y un bolso con marihuana y cocaína durante una huida
+    url: https://canalcostatv.es/detenido-en-palos-de-la-frontera-tras-arrojar-una-mochila-y-un-bolso-con-marihuana-y-cocaina-durante-una-huida/
+    publisher: Canalcosta Televisión
+    date: 2026-11-13
+    language: es
+open_questions:
+  - No weight or cash figure for the marijuana and cocaine was published.
 ---
 
 The Guardia Civil detained one person in Palos de la Frontera for possessing
 drugs apportioned for retail sale and for serious disobedience after trying to
-flee the police. [@1,2,3] One occupant of a stopped car fled on foot, throwing away
+flee the police. [@1,2,3,4] One occupant of a stopped car fled on foot, throwing away
 a backpack and a bag, and was located and detained after trying to hide from the
-police. [@1,2,3]
+police. [@1,2,3,4]
 
 Inside the discarded backpack and bag officers found many small plastic bags
 holding substances later analysed as marijuana and cocaine, prepared for retail
@@ -66,7 +73,7 @@ distribution and sale. [@1,2,3] Officers also found cash split into banknotes an
 coins of different values inside the bags, described as presumed proceeds of
 retail drug trafficking. [@1,2,3] The detained person, the seized substances and the
 seized money were placed at the disposal of the judicial authority handling the
-case. [@1]
+case. [@1,4]
 
 The incident happened at the end of October in Palos de la Frontera, when a
 citizen-security patrol on crime-prevention duties ordered a car to stop and the
