@@ -81,6 +81,10 @@ sources:
   - title: Ganja Peddler Escapes Shortly After Court Sentenced Him to 10 Years
     url: https://www.deccanchronicle.com/southern-states/tamil-nadu/ganja-peddler-escapes-shortly-after-court-sentenced-him-to-10-years-2004107
     publisher: Deccan Chronicle
+  - title: 'Another Prisoner Escapes In Tamil Nadu: Ganja Peddler Flees Madurai Court After 10-Year Sentence, Following Theni And Coimbatore Jailbreaks'
+    url: https://thecommunemag.com/another-prisoner-escapes-in-tamil-nadu-ganja-peddler-flees-madurai-court-after-10-year-sentence-following-theni-and-coimbatore-jailbreaks/
+    publisher: The Commune
+    date: 2026-11-13
 also: [arrest, sentence]
 figures:
     arrested: 1
@@ -94,9 +98,9 @@ figures:
 ---
 
 A special court in Madurai convicted a ganja peddler, Raja of Sirumalai in
-Dindigul district, in a 2024 case under the NDPS Act. [@1,2,3,6] Raja was 25 years old. [@3] Raja was arrested by the anti-narcotics police for selling ganja. [@2,9] Raja escaped from the
+Dindigul district, in a 2024 case under the NDPS Act. [@1,2,3,6,10] Raja was 25 years old. [@3] Raja was arrested by the anti-narcotics police for selling ganja. [@2,9] Raja escaped from the
 court premises on Thursday 12 November 2026, minutes after the judgment
-convicting him was pronounced. [@1,2,3,4,5,7,9] Raja, who was 25, allegedly sought permission to answer nature's call before quietly slipping away as police personnel prepared to escort him to prison. [@4]
+convicting him was pronounced. [@1,2,3,4,5,7,9,10] Raja, who was 25, allegedly sought permission to answer nature's call before quietly slipping away as police personnel prepared to escort him to prison. [@4]
 
 Police launched a manhunt in the city to apprehend the fleeing convict. [@1,2,4,5,6,8,9] A dedicated task force was formed under the orders of Dindigul district police superintendent Jayakumar to trace and arrest the convict. [@8] Police arrested Raja near Dindigul. [@7] Police surrounded and captured the convict while he was hiding in his home area of Sirumalai, and subsequently handed him over to Madurai police. [@8] Searches were intensified at the Mattuthavani, Anna and Arappalayam bus terminuses in Madurai. [@2,3,9] After searches at the Mattuthavani, Anna and Arappalayam bus stands, a special team formed by the Dindigul district superintendent of police traced and arrested Raja near Dindigul. [@4]
 Judge G. Sudhagar of the First Additional Special Court for NDPS Act Cases
