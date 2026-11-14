@@ -20,22 +20,26 @@ sources:
     publisher: Politie
     date: 2026-11-13
     language: nl
+  - title: Ruim duizend kilo wiet gevonden in loods Heikant, één verdachte aangehouden
+    url: https://www.hvzeeland.nl/nieuws/70893-ruim-duizend-kilo-wiet-gevonden-in-loods-heikant-een-verdachte-aangehouden/
+    publisher: HVZeeland
+    date: 2026-11-13
+    language: nl
 open_questions:
-  - The police say just over a thousand kg of cannabis was seized but did not publish an exact figure.
-  - No amount of cash, number or kind of data media, or any count of plants was published.
-  - No further arrests, charges or court outcome have been reported yet.
-  - Politie.nl used a Limburg stockfotos-eenheden handout of an officer with a cannabis bag, so no photo of this Heikant warehouse seizure is listed.
+    - The police say just over a thousand kg of cannabis was seized but did not publish an exact figure.
+    - No amount of cash, number or kind of data media, or any count of plants was published.
+    - No further arrests, charges or court outcome have been reported yet.
+    - The police statement does not name the province or municipality of the Heikant warehouse.
 ---
 
 In a warehouse in Heikant officers found just over a thousand kilograms of
-cannabis. [@1] In the same investigation the police also searched a home in
-Philippine, where officers found thousands of euros in cash. [@1] During the
-police action officers held one suspect. [@1]
+cannabis. [@1,2] In the same investigation the police also searched a home in
+Philippine, where officers found thousands of euros in cash. [@1,2] During the
+police action officers held one suspect. [@1,2]
 
 Officers also took various data carriers for further investigation. The resident
 was held, and the police seized the drugs found and the cash. [@1]
 
 The police are continuing the investigation, into among other things the origin
-of the drugs and the possible involvement of other people. [@1] Further arrests
-are not ruled out. [@1]
-
+of the drugs and the possible involvement of other people. [@1,2] Further arrests
+are not ruled out. [@1,2] Police have released no further details on the identity of the person held or the precise locations of the searches. [@2]
