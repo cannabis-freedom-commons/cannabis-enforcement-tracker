@@ -46,21 +46,21 @@ sources:
     publisher: Haskovo.info
     date: 2026-11-13
     language: bg
-open_questions:
-  - No separate date is given for the checks; 13 November 2026 is the publication date of both accounts and is used as the incident date.
-  - The material is described only as green inflorescences resembling cannabis; no laboratory confirmation was reported.
-  - No charge, restraint beyond the 24-hour detention or court outcome was reported.
-  - The haskovo.info article also reports a separate drink-driving detention in Bryastovo village, a different event left out of this report.
+  - title: Откриха 4,5 кг канабис в автомобил и два имота, 45-годишен е задържан
+    url: https://www.xnews.bg/otkriha-4-5-kg-kanabis-v-avtomobil-i-dva-imota-45-godishen-e-zadarzhan/
+    publisher: XNEWS
+    date: 2026-11-13
+    language: bg
 ---
 
 The Haskovo regional police directorate said criminal investigators from its
 Harmanli department checked a Volkswagen driven by a 45-year-old man near the
-village of Kolarovo. [@1] A search of the car found a packet wrapped in clear
+village of Kolarovo. [@1,3] A search of the car found a packet wrapped in clear
 tape weighing 1.1 kg. [@1] The packet contained green inflorescences resembling
 cannabis. [@1]
 
 Officers then searched a property inhabited by the man in the village of
-Svirkovo. [@2] There they found two more packets of inflorescences with a
+Svirkovo. [@2,3] There they found two more packets of inflorescences with a
 combined weight of 400 grams. [@2] Immediately next to the property, in an
 uninhabited half-ruined house, investigators found two barrels. [@1] The barrels
 held 17 sealed vacuum-packed packets with the same contents weighing 3 kg in
@@ -71,4 +71,3 @@ was his. [@1] He was detained for up to 24 hours under the pre-trial proceedings
 opened in the case. [@1] Together, the car packet, the two packets in the
 inhabited property and the 17 vacuum-packed packets in the barrels amounted to
 4.5 kg of seized drug. [@2]
-
