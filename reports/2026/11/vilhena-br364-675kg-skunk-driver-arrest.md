@@ -49,26 +49,24 @@ sources:
     publisher: Extra de Rondônia
     date: 2026-11-13
     language: pt
-open_questions:
-  - Two outlets report about 70 kg while Rondoniaovivo gives the more precise 67.5 kg; the 67.5 kg figure is used for the seizure amount.
-  - Extra de Rondônia headlines the origin as Rolim de Moura but its own text says Ji-Paraná, as do the other two outlets; Ji-Paraná is used.
-  - Rondoniaovivo says the case went to the Federal Police in Vilhena while Extra de Rondônia says it went first to the PRF and then to UNISP; the referral destination therefore remains unclear.
-  - No name, custody decision, charge filing or court outcome beyond the flagrante arrest was reported.
-  - No value estimate for the seized skunk was published.
+  - title: 'VEJA VÍDEO: Motorista é preso com quase 70 quilos de skunk na BR-364'
+    url: https://rondoniaovivo.com/noticia/policia/2026/11/13/veja-video-motorista-e-preso-com-quase-70-quilos-de-skunk-na-br-364.html
+    publisher: Rondoniaovivo.com
+    date: 2026-11-13
+    language: pt
 ---
 
 Federal Highway Police officers seized about 67.5 kg of skunk on the afternoon
-of Friday 13 November 2026 at km 16 of the BR-364 in Vilhena, Rondônia. [@2]
-During a traffic inspection, the team ordered a passenger car to stop. [@2] The
+of Friday 13 November 2026 at km 16 of the BR-364 in Vilhena, Rondônia. [@2,4]
+During a traffic inspection, the team ordered a passenger car to stop. [@2,4] The
 driver initially refused to obey the order before officers carried out the stop.
 [@2]
 
 Officers searched the car and found the drug packed in its luggage compartment.
-[@2] Skunk was described as a more potent variety of marijuana. [@3] The car was
+[@2,4] Skunk was described as a more potent variety of marijuana. [@3] The car was
 driven by a 46-year-old man. [@3]
 
 He had reportedly left Ji-Paraná in Rondônia and was travelling toward the state
 of Minas Gerais. [@1] The 46-year-old driver was arrested in the act for drug
-trafficking. [@2] The case was referred to the Federal Police station in
-Vilhena. [@2]
-
+trafficking. [@2,4] The case was referred to the Federal Police station in
+Vilhena. [@2,4]
