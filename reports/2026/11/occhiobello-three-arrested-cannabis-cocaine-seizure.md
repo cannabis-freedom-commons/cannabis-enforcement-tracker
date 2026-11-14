@@ -31,33 +31,37 @@ sources:
     publisher: Rovigo.News
     date: 2026-11-12
     language: it
+  - title: 'Occhiobello, blitz antidroga: tre arresti e sequestrati quasi 5 chili di stupefacenti'
+    url: https://www.rainews.it/amp/tgr/veneto/articoli/2026/11/rovigo-occhiobello-carabinieri-blitz-antidroga-tre-arresti-sequestro-droga-2197c138-044d-41f3-b29a-dbf51a61c707.html
+    publisher: RaiNews
+    date: 2026-11-13
+    language: it
 open_questions:
-  - The article gives no separate date for the operation, saying only it took place in recent days; 12 November 2026 is its publication date and is used as the incident date.
-  - The 4.541 kg cannabis total is the sum of the per-suspect breakdowns (2.425 kg marijuana and 2.116 kg hashish); the article states the totals only as over 2.4 kg and more than 2.1 kg.
-  - The 320 grams of cocaine are excluded from the cannabis weight; the nearly-five-kilogram total in the headline covers all substances.
-  - Laboratory confirmation of the substances and any outcome beyond the reported precautionary measures were not given.
-  - Only one accessible source for this event was found after searching in Italian and English.
+    - The article gives no separate date for the operation, saying only it took place in recent days; 12 November 2026 is its publication date and is used as the incident date.
+    - The 4.541 kg cannabis total is the sum of the per-suspect breakdowns (2.425 kg marijuana and 2.116 kg hashish); the article states the totals only as over 2.4 kg and more than 2.1 kg.
+    - The 320 grams of cocaine are excluded from the cannabis weight; the nearly-five-kilogram total in the headline covers all substances.
+    - Laboratory confirmation of the substances and any outcome beyond the reported precautionary measures were not given.
+    - The whole account rests on one accessible online source; the Corriere del Veneto's print edition of 13 November 2026 and the RaiNews Tgr Veneto item of 13 November 2026 cover the same event.
 ---
 
 In Alto Polesine, Carabinieri officers identified and detained three suspected
 dealers, two Albanian citizens and one Moroccan citizen, active between
-Occhiobello and Fiesso Umbertiano. [@1] The three are described as having acted
+Occhiobello and Fiesso Umbertiano. [@1,2] The three are described as having acted
 independently, with no joint dealing currently alleged. [@1] All three arrests
-were validated by the judicial authority. [@1]
+were validated by the judicial authority. [@1] The raid took place at dawn on the preceding Saturday, around 6 a.m., and the three arrests were subsequently validated by the judicial authority at the preliminary-investigating judge's hearing. [@2]
 
 House searches recovered over 2.4 kilograms of marijuana, more than 2.1
-kilograms of hashish and 320 grams of cocaine. [@1] The largest store was in the
+kilograms of hashish and 320 grams of cocaine. [@1,2] The largest store was in the
 Occhiobello home of one of the Albanian citizens: 320 grams of cocaine, 1.963
 kilograms of hashish and 1.604 kilograms of marijuana. [@1] Officers also
 recovered 380 euros, treated by investigators as possible proceeds of dealing,
 with equipment for weighing and packaging drugs. [@1] The Rovigo prosecution
-requested and obtained precautionary custody in prison for that suspect. [@1]
+requested and obtained precautionary custody in prison for that suspect. [@1,2]
 
 A Moroccan citizen also living in Occhiobello was found at home with 750 grams
 of marijuana and 153 grams of hashish. [@1] He was placed under house arrest.
-[@1] A second Albanian citizen was found at his home in Fiesso Umbertiano with
+[@1,2] A second Albanian citizen was found at his home in Fiesso Umbertiano with
 71 grams of marijuana and weighing equipment. [@1] He was ordered to report
 daily to the judicial police. [@1] The last suspect’s sister was investigated
 without arrest on suspicion of aiding him. [@1] She allegedly tried during the
 search to hide part of her brother’s drugs. [@1]
-
