@@ -103,6 +103,11 @@ sources:
     publisher: Agenzia ANSA
     date: 2026-11-13
     language: it
+  - title: Spediva 13kg di marijuana con il corriere, a Rho arrestato un 23enne
+    url: https://www.paviaunotv.it/spediva-13kg-di-marijuana-con-il-corriere-a-rho-arrestato-un-23enne/
+    publisher: Pavia Uno TV
+    date: 2026-11-13
+    language: it
 open_questions:
     - The accounts give no separate date for the controlled delivery and arrest; 13 November 2026 is their publication date.
     - No court outcome for the arrested man had been reported.
@@ -110,19 +115,19 @@ open_questions:
 
 Milan State Police arrested a 23-year-old Italian man for alleged possession of
 drugs for dealing and seized 13 kg of marijuana shipped inside two large packing
-boxes. [@2,4,6,9,10,11] An officer disguised himself as a courier to make the delivery, and
+boxes. [@2,4,6,9,10,11,12] An officer disguised himself as a courier to make the delivery, and
 the young man was arrested after signing the handheld device to take the
-parcels. [@1,7,8,10]
+parcels. [@1,7,8,10,12]
 
 Rho-Pero police acted after a shipping-company worker in the Rho area reported a
-strong marijuana smell coming from two large parcels. [@2,5,6,7,9,11] Inside the parcels
+strong marijuana smell coming from two large parcels. [@2,5,6,7,9,11,12] Inside the parcels
 officers found four bags holding 13 kg of marijuana and a satellite GPS tracker.
-[@2,4,5,6,7,8,9,11] Prosecutors authorised a delayed seizure so officers could identify the
+[@2,4,5,6,7,8,9,11,12] Prosecutors authorised a delayed seizure so officers could identify the
 recipient, and with the help of Milan's Flying Squad they traced him to Novate
-Milanese. [@2,6,7]
+Milanese. [@2,6,7,12]
 
 A police officer wearing the courier company's uniform came to the 23-year-old's
 door to deliver the parcels while colleagues waited near the home. [@3,6,11] In a
 later home search with drug dogs, officers seized 3 mobile phones, labels and
 invoices for the parcels, 500 euros in cash and assorted stickers apparently
-meant for packaging the drug. [@1,4,6,7,8,9] Police were examining the seized material as they investigated the marijuana's origin and how the shipments were managed. [@8]
+meant for packaging the drug. [@1,4,6,7,8,9,12] Police were examining the seized material as they investigated the marijuana's origin and how the shipments were managed. [@8]
