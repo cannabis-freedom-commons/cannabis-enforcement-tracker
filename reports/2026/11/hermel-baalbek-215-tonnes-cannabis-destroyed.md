@@ -99,6 +99,11 @@ sources:
     url: https://www.mtv.com.lb/en/news/1758058
     publisher: MTV Lebanon
     date: 2026-11-13
+  - title: 'بالصّور: الجيش يتلف 200 طن من الحشيشة'
+    url: https://www.tayyar.org/news/Lebanon/748506/%D8%A8%D8%A7%D9%84%D8%B5%D9%91%D9%88%D8%B1-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AA%D9%84%D9%81-200-%D8%B7%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9
+    publisher: tayyar.org
+    date: 2026-11-13
+    language: ar
 ---
 
 The Lebanese Army announced the destruction of 215 tonnes of cannabis and
@@ -108,13 +113,13 @@ follow-up to combat narcotics and pursue people undermining security. [@1,3]
 
 One army unit destroyed 200 tonnes of cannabis resin and marijuana, along with
 agricultural greenhouses and planted land, in the Marjehin plain area of Hermel
-over three days. [@1,3,5,6,7,8] Another unit raided several farms in the Boudai area of
+over three days. [@1,3,5,6,7,8,9] Another unit raided several farms in the Boudai area of
 Baalbek, destroying 15 tonnes of cannabis and a greenhouse planted with
-marijuana. [@1,3,5,6,7,8] In Boudai the unit seized machines used to manufacture the
-drugs. [@1,3,7,8]
+marijuana. [@1,3,5,6,7,8,9] In Boudai the unit seized machines used to manufacture the
+drugs. [@1,3,7,8,9]
 
 Annahar corroborated the same account, reporting 200 tonnes destroyed with
 greenhouses and planted land in the Marjehin plain of Hermel and 15 tonnes with
 a marijuana tent and manufacturing machines seized in Boudai, Baalbek. [@2] The
 seized items were handed over to the authorities, and searches were continuing
-to arrest the people involved, with no arrests reported. [@1,3,5,7,8]
+to arrest the people involved, with no arrests reported. [@1,3,5,7,8,9]
