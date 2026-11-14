@@ -45,6 +45,11 @@ sources:
     publisher: Veto
     date: 2026-11-02
     language: ar
+  - title: تخفيف حكم استئناف متهمين بحيازة مخدرات في عين شمس
+    url: https://ekhbary24.com/article/52105
+    publisher: إخباري 24 نيوز
+    date: 2026-11-13
+    language: ar
 open_questions:
   - No weight or separate quantity was published for the hashish portion; the 70-bag count refers to Strox and is excluded from cannabis figures as a synthetic cannabinoid.
   - The defendants are identified only as an unemployed man and a housewife, with no names or ages published.
@@ -53,22 +58,21 @@ open_questions:
 ---
 
 The Cairo Criminal Court of Appeal accepted the appeal of an unemployed man and
-a housewife against their seven-year aggravated-imprisonment sentences. [@1] It
+a housewife against their seven-year aggravated-imprisonment sentences. [@1,3] It
 reduced their penalty to three years of aggravated imprisonment for possessing
-the drug Strox, hashish and a folding knife in Ain Shams. [@2]
+the drug Strox, hashish and a folding knife in Ain Shams. [@2,3]
 
 The prosecution said the two possessed 70 bags of Strox, a quantity of hashish
-and a folding knife for the purpose of drug trafficking. [@2] The chemical
+and a folding knife for the purpose of drug trafficking. [@2,3] The chemical
 laboratory reported that a black plastic bag containing brown pieces tested as
 hashish listed in Schedule 1 of the drug-control law. [@2] Cairo Security
 Directorate officers arrested the unemployed man, described as having a criminal
 record, after receiving information about drug possession and trafficking,
 conducting investigations and setting ambushes, and found Strox and cash on him.
-[@1] When confronted he admitted holding the drugs for sale and said the
+[@1,3] When confronted he admitted holding the drugs for sale and said the
 housewife shared in his criminal activity, after which officers arrested her and
 found hashish in her possession. [@2]
 
 Officers found a quantity of hashish in the woman's possession after targeting
 her. [@2] Both were then referred to the Public Prosecution, which sent them for
 criminal trial. [@2]
-
