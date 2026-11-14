@@ -1,0 +1,89 @@
+---
+code: MTS235
+added_at: "2026-11-14T07:09:43.359021Z"
+date: 2026-11-06
+country: us/or
+place: 1635 Brownsboro Highway, Eagle Point, Jackson County
+coordinates: [42.4826, -122.7799]
+precision: locality
+type: arrest
+also: [seizure, raid, prosecution]
+title: Eagle Point man arrested after 910 pounds found in a van
+summary: >-
+  Oregon State Police stopped a cargo van on Brownsboro Highway on 6 November 2026 and found about 910 pounds of marijuana that a manifest had labeled hemp. Saibya Walter Mims, 38, of Eagle Point, was arraigned on felony marijuana charges and released pending a 10 December court date.
+figures:
+  arrested: 1
+  charged: 1
+  kg_seized: 412.8
+details:
+  agencies: [Oregon State Police, Jackson County Sheriff's Office]
+  agency_types: [police]
+  products:
+    - {product: flower, kg: 412.8}
+  activity: [possession, sale, trafficking, processing]
+  setting: [vehicle, street]
+  charges: [unlawful possession of marijuana, unlawful delivery of marijuana, unlawful import or export of marijuana, unlawful manufacture of marijuana]
+  case_stage: charged
+  date_precision: exact
+  region: Jackson County
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.charges: [1]
+  details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.charged: [1]
+  figures.kg_seized: [1]
+status: verified
+created_by_model: xai/grok-4.7#medium
+submission: da40eb621aced7a0d814fdf48c11cc2d
+tags: [eagle-point, jackson-county, oregon-state-police, brownsboro-highway, ganesh]
+sources:
+  - title: 'Van full of pot: Troopers arrest Oregon man after finding nearly 1000 pounds of weed'
+    url: https://midmichigannow.com/news/nation-world/van-full-of-pot-troopers-arrest-oregon-man-after-finding-nearly-1000-pounds-of-weed
+    publisher: Mid-Michigan NOW
+    date: 2026-11-13
+  - title: 'Van full of pot: Troopers arrest Oregon man after finding nearly 1000 pounds of weed'
+    url: https://katu.com/news/local/van-full-of-pot-troopers-arrest-oregon-man-after-finding-nearly-1000-pounds-of-weed
+    publisher: KATU
+    date: 2026-11-13
+open_questions:
+  - No date was given for the search warrant at Ganesh Management Group.
+  - The property search was described only as thousands of pounds in various forms of processing, so that marijuana is not included in the 910-pound van figure.
+  - The van driver was not reported arrested or charged, and was not named.
+  - No plea or outcome of the 10 December 2026 court date was reported.
+  - The van weight is given as around 910 pounds, not an exact scale weight, while the driver described the pickup as about 700 pounds of hemp.
+  - The published accounts are the same KATU report drawn from court documents; a separate police statement was not published with the story.
+  - The arraignment is dated only as Thursday in a report published on Friday 13 November 2026, so 12 November is inferred and is not used as the incident date.
+---
+
+Oregon State Police stopped a cargo van on Brownsboro Highway on Friday 6
+November 2026. [@1] The driver was cooperative and provided a manifest saying
+the cargo he picked up was from 1635 Brownsboro Highway and was being delivered
+to a Brooklyn, New York address. [@1] He confirmed he had picked up about 700
+pounds of hemp products from a man named Sunny, later identified as 38-year-old
+Saibya Walter Mims. [@1] An Eagle Point man was arrested on several charges
+after troopers found the marijuana in the van. [@1]
+
+The driver consented to a search of the van, and troopers reported an
+overwhelming smell of marijuana when they opened it. [@1] In total they found
+about 25 triple-sealed bags of marijuana and around 910 pounds of pot, about
+412.8 kilograms. [@2] Police said the manifest claimed the product was hemp with
+no THC, packed in Home Depot cardboard boxes and marked Gas Head. [@1] The
+Jackson County Sheriff's Office assisted in the investigation and reported THC
+levels of nearly 19 percent, which made the load illegal to ship out of state.
+[@1]
+
+Police served a search warrant at Mims's property and business, Ganesh
+Management Group, and found thousands of pounds of marijuana in various forms of
+processing. [@1] Mims was arraigned on Thursday on two counts of unlawful
+possession of marijuana, two counts of unlawful delivery of marijuana, two
+counts of unlawful import or export of marijuana and one count of unlawful
+manufacture of marijuana, all felonies. [@1] Court records showed he was
+released from custody with a future court date of 10 December. [@1] The judge
+ordered him to undergo pretrial monitoring and to stay away from alcohol,
+non-prescribed controlled substances or cannabis. [@1]
+
