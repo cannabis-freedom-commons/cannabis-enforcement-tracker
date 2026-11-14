@@ -58,32 +58,31 @@ sources:
     publisher: Il Sole 24 Ore
     date: 2026-11-14
     language: it
-open_questions:
-  - The 15 kg figure is approximate and covers hashish and marijuana together, with no split between the two given, so no separate product weights are recorded.
-  - The cash figure is reported only as more than 10,000 euros, not an exact amount.
-  - No separate street value for the drugs was published.
-  - The exact address of the home and the outcome of the precautionary measure beyond its imposition were not reported.
+  - title: Nel frigorifero di casa trasformato in un supermarket della droga. Arrestato un 23enne a Bergamo
+    url: https://www.ilgiorno.it/bergamo/cronaca/upermercato-droga-arresto-sequestro-ttsa16xc
+    publisher: Il Giorno
+    date: 2026-11-14
+    language: it
 ---
 
 Bergamo State Police investigators from the Squadra Mobile arrested a
-23-year-old on 10 November in Bergamo. [@1] A second account describes the
-23-year-old as an Italian of Albanian origin. [@2] He was arrested for
+23-year-old on 10 November in Bergamo. [@1,4] A second account describes the
+23-year-old as an Italian of Albanian origin. [@2,4] He was arrested for
 possession of narcotics with intent to deal. [@1] The arrest was later validated
 by the judicial authority, which ordered a restrictive precautionary measure
 against him. [@1]
 
 Officers found about 15 kilograms of hashish and marijuana in a home used as a
-drug storage place. [@1] A fridge and thermal bags had been turned into
+drug storage place. [@1,4] A fridge and thermal bags had been turned into
 containers for keeping the drugs, evidently to limit the smell and make
 detection harder. [@1] Different hashish varieties were divided by type into
 individually sealed, labelled jars arranged in order inside the fridge like a
-supermarket display. [@1] Officers also found numerous vaporizers used for
-taking drug extracts through e-cigarettes. [@1]
+supermarket display. [@1,4] Officers also found numerous vaporizers used for
+taking drug extracts through e-cigarettes. [@1,4]
 
 They seized more than 10,000 euros in cash believed to be proceeds of dealing,
-and all the material found was placed under seizure. [@1] Police said the
+and all the material found was placed under seizure. [@1,4] Police said the
 operation removed a large quantity of drugs from the market and stopped an
 organised possession and distribution activity run in a particularly structured
 way. [@1] The LaPresse account carried by Il Sole 24 Ore gives the same core
 facts of the Bergamo fridge seizure and 10 November arrest. [@3]
-
