@@ -143,6 +143,11 @@ sources:
     publisher: HSB Noticias
     date: 2026-11-13
     language: es
+  - title: 'Incautan casi cuatro toneladas de marihuana en Cauca: dos capturados'
+    url: https://www.diariodelsur.com.co/noticias/incautan-casi-cuatro-toneladas-de-marihuana-en-cauca-dos-capturados-2
+    publisher: Diario del Sur
+    date: 2026-11-13
+    language: es
 media:
   - kind: photo
     url: https://cwmas.com.co/nacion/2026/11/09/marihuana-cauca-tres-operativos-policia/
@@ -153,7 +158,7 @@ media:
 
 Colombian authorities seized 3,997 kilograms of marijuana in the department of Cauca in southwestern
 Colombia. [@1,3,4,5,6,7,8,9,10,11,12,13,14,16,17,18,19,20] The marijuana was reportedly to be sent to Peru and Chile.
-[@1,3,4,5,6,7,10,11,12,14,18,19,20] President Abelardo de la Espriella announced the seizure, the capture of two
+[@1,3,4,5,6,7,10,11,12,14,18,19,20,22] President Abelardo de la Espriella announced the seizure, the capture of two
 people and the immobilisation of three vehicles. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,20] De la Espriella announced the result through his X account, saying the intervention weakens the finances of the criminal organisations. [@21]
 
 ## Three procedures
