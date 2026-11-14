@@ -45,6 +45,11 @@ media:
     media_url: https://www.annahar.com/Assets/ContentPhotos/Photos/PNL13112026152853_11_160713_large.webp
     publisher: Annahar
     caption: 'Seized hashish and marijuana manufacturing equipment from the Hermel-Baalbek operation. Photo: Annahar.'
+  - kind: photo
+    url: https://kataeb.org/articles/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%80-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AA%D9%84%D9%81-%D8%AD%D9%88%D8%A7%D9%84%D9%89-215-%D8%B7%D9%86-%D9%85%D9%86-%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%81-%D9%88%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D9%8A%D8%AC%D9%88%D8%A7%D9%86%D8%A7
+    media_url: https://api.kataeb.org/storage/new-website/leb-army/Bouday%20Marijwana/PNL13112026152853_04.jpg
+    publisher: Kataeb.org
+    caption: 'Lebanese army photo from the Boudai marijuana seizure published with the Kataeb article. Photo: Kataeb.org.'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 08d73bb130b4c56e86d3600fb107ae88
@@ -65,6 +70,11 @@ sources:
     publisher: Akhbar Al-Yawm
     date: 2026-11-13
     language: ar
+  - title: بالصور - الجيش يتلف حوالى 215 طن من حشيشة الكيف والماريجوانا
+    url: https://kataeb.org/articles/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%80-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AA%D9%84%D9%81-%D8%AD%D9%88%D8%A7%D9%84%D9%89-215-%D8%B7%D9%86-%D9%85%D9%86-%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%81-%D9%88%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D9%8A%D8%AC%D9%88%D8%A7%D9%86%D8%A7
+    publisher: Kataeb.org
+    date: 2026-11-13
+    language: ar
 open_questions:
   - No separate dates for the three-day operation were given; 13 November 2026 is the publication date.
   - No plant count, field area or value for the destroyed cannabis and greenhouses was published.
@@ -74,7 +84,7 @@ open_questions:
 
 The Lebanese Army announced the destruction of 215 tonnes of cannabis and
 marijuana in the Hermel and Baalbek regions during a three-day operation against
-drug trafficking. [@1] The army said the operation was part of security
+drug trafficking. [@1,4] The army said the operation was part of security
 follow-up to combat narcotics and pursue people undermining security. [@1,3]
 
 One army unit destroyed 200 tonnes of cannabis resin and marijuana, along with
