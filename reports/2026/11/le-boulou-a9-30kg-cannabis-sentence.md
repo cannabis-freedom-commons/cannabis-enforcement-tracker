@@ -88,33 +88,38 @@ sources:
     publisher: Actu.fr (Actu Perpignan)
     date: 2026-11-12
     language: fr
+  - title: 'Face aux douaniers, son GPS semble avoir perdu le nord : le conducteur traînait 30 kilos de cannabis dans le coffre'
+    url: https://www.autonews.fr/buzz/face-aux-douaniers-son-gps-semble-avoir-perdu-le-nord-le-conducteur-trainait-30-kilos-de-cannabis-dans-le-coffre-150555
+    publisher: Autonews
+    date: 2026-11-13
+    language: fr
 open_questions:
-  - The driver's name, age and nationality were not published in either account.
-  - Neither report states whether the one-year sentence included remand credit or was to be served immediately.
-  - No appeal against the 10 November 2026 sentence was reported.
-  - Both accounts draw on the Perpignan customs directorate's statement, so the details of the check come from a single official source.
-  - Neither account says what the driver was transporting the cannabis for or whether other people were involved in the load.
-  - L'Indépendant gives the weight as 'nearly 30 kilograms', while the customs statement and other accounts put it at 30 kilograms.
-  - L'Indépendant gives the weight as 'nearly 30 kilograms', while the customs statement, France 3, ICI and Actu.fr put it at 30 kilograms.
+    - The driver's name, age and nationality were not published in any of the accounts.
+    - Neither report states whether the one-year sentence included remand credit or was to be served immediately.
+    - No appeal against the 10 November 2026 sentence was reported.
+    - The accounts draw on the Perpignan customs directorate's statement, so the details of the check come from a single official source.
+    - No account says what the driver was transporting the cannabis for or whether other people were involved in the load.
+    - L'Indépendant gives the weight as 'nearly 30 kilograms', while the customs statement and other accounts put it at 30 kilograms.
+    - Autonews credits its account to reporting by Actu.fr, so it is not an independent account of the check.
 ---
 
 Customs officers at the Le Boulou toll on the A9 seized 30 kilograms of cannabis
-from a Spanish-registered car in the night of 8 November 2026. [@1,3,4] The car was
+from a Spanish-registered car in the night of 8 November 2026. [@1,3,4,5] The car was
 travelling from Spain towards France when customs officers of the Perthus
-brigade stopped it. [@1,3] The driver said he had come from Barcelona and was
+brigade stopped it. [@1,3,5] Actu Perpignan describes the Le Boulou toll as the first control point after the Spanish border. [@4] The driver said he had come from Barcelona and was
 going to Figueres, an itinerary that did not match the direction of the road at
 the check point. [@1,4] A drugs dog marked the rear of the vehicle, and officers
-found cartons containing packets of cannabis herb in the boot. [@1,3,4] The seized
-goods weighed 30 kilograms in total. [@1,3,4]
+found cartons containing packets of cannabis herb in the boot. [@1,3,4,5] The seized
+goods weighed 30 kilograms in total. [@1,3,4,5]
 
 The Perpignan customs directorate estimated the load's resale value on the
-illicit drugs market at 300,000 euros. [@1,3,4] The driver was held in customs
+illicit drugs market at 300,000 euros. [@1,3,4,5] The driver was held in customs
 detention and then handed over to the Pollestres gendarmerie on the prosecutor's
-instructions. [@1,4]
+instructions. [@1,4,5]
 
 On 10 November 2026 the Perpignan judicial court tried him in a plea-bargaining
-hearing, a comparution sur reconnaissance préalable de culpabilité (CRPC). [@1,3,4]
+hearing, a comparution sur reconnaissance préalable de culpabilité (CRPC). [@1,3,4,5]
 The court sentenced him to one year of detention, a five-year ban from French
-territory and a 52,000 euro customs fine. [@1,3,4] ICI reports the same sentence,
+territory and a 52,000 euro customs fine. [@1,3,4,5] ICI reports the same sentence,
 given on Tuesday 10 November, of one year in prison for transporting 30
 kilograms of cannabis in the car. [@2]
