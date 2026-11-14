@@ -74,18 +74,23 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-13
     language: hi
+  - title: 'Hapur News: बहन की शादी के लिए चुना नशे का कारोबार! संभल से गांजा लेकर हापुड़ पहुंचा युवक गिरफ्तार'
+    url: https://newstrack.com/uttar-pradesh/hapur/hapur-police-arrest-youth-1650-kg-ganja-smuggling-sambhal-647700
+    publisher: Newstrack
+    date: 2026-11-13
+    language: hi
 ---
 
 On 12 November, Hapur police detained a man on a bike coming from Delhi Road
-near the Badnauli railway crossing, after he tried to evade a police check. [@1,3,4,5] The check was led by Sub-Inspector Chetan Chouhan and Ravindra Kumar, and Kotwali Prabhari NIP Suresh Kumar Singh gave the statement. [@3,4]
+near the Badnauli railway crossing, after he tried to evade a police check. [@1,3,4,5] The check was led by Sub-Inspector Chetan Chouhan and Ravindra Kumar, and Kotwali Prabhari NIP Suresh Kumar Singh gave the statement. [@3,4,7]
 The man identified himself as Shayan Alam, a resident of Bilalpat Village in
-Sambhal district. [@1,4,5]
+Sambhal district. [@1,4,5,7]
 
 Cannabis was found in a polythene pack inside the black bag slung over his
 shoulder. Police confirmed the substance as cannabis and weighed it at 1.650
-kilograms on an electronic scale. [@1,2,5] The search and recovery were carried out in the presence of the District Magistrate (City), and a field unit tested the material and confirmed it was ganja. [@3] Police also seized a mobile phone and
-1,880 rupees in cash from the accused. [@1,4,6] Police also recovered the bicycle the man was using for the smuggling from his custody. [@3,4]
+kilograms on an electronic scale. [@1,2,5,7] The search and recovery were carried out in the presence of the District Magistrate (City), and a field unit tested the material and confirmed it was ganja. [@3] Police also seized a mobile phone and
+1,880 rupees in cash from the accused. [@1,4,6,7] Police also recovered the bicycle the man was using for the smuggling from his custody. [@3,4]
 
 Shayan Alam told police that he had taken to selling cannabis to raise money for
 his sister's wedding. [@1,4,6] He learned there was high demand for cannabis in Hapur, so he planned to bring it from Sambhal in small quantities to sell. [@2,4,6] Police registered a report against the accused and
-started further proceedings. [@1,4] The accused was sent to jail. [@5] He is the son of Akhtar and his village Bilalpat falls under Asmoli police station in Sambhal district. [@5] Police say they are tracing where the accused sourced the ganja and who he sold it to in Hapur, and are probing the wider ganja smuggling network. [@4]
+started further proceedings. [@1,4,7] The accused was sent to jail. [@5] He is the son of Akhtar and his village Bilalpat falls under Asmoli police station in Sambhal district. [@5] Police say they are tracing where the accused sourced the ganja and who he sold it to in Hapur, and are probing the wider ganja smuggling network. [@4]
