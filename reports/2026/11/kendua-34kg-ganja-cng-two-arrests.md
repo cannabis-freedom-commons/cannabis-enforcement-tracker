@@ -85,6 +85,11 @@ sources:
     publisher: DBC News
     date: 2026-11-12
     language: bn
+  - title: নেত্রকোনায় অটোরিকশায় মিলল ১০ লাখ টাকার গাঁজা, আটক ২
+    url: https://www.ajkerpatrika.com/amp/bangladesh/netrakona/ajprfagdxpq91
+    publisher: Ajker Patrika
+    date: 2026-11-12
+    language: bn
 open_questions:
   - Accounts differ on whether a regular case had already been filed at Kendua police station or was still being prepared under the Narcotics Control Act.
   - No case number, charge section or court date was published, and it is not known whether the two men were produced in court.
@@ -92,7 +97,7 @@ open_questions:
 
 The Department of Narcotics Control, Bangladesh's drug agency, arrested two men
 on the morning of Thursday 12 November 2026 at a temporary checkpoint on the
-Kendua-Atharbari road. [@1,6] The stop was in Haringar Fenargati, in Sandikona
+Kendua-Atharbari road. [@1,6,7] The stop was in Haringar Fenargati, in Sandikona
 union of Kendua upazila, Netrokona district. [@1,4,5,6] The men were Monir Uddin, 35,
 son of the late Suruj Ali, from Bhalukber in Ishwarganj upazila, Mymensingh, and
 Shah Alam, 32, son of Md. Akher Uddin, from Mirarchar in Bhairab upazila,
@@ -102,7 +107,7 @@ vehicles. [@1,4,5]
 
 Officers said they found 34 kg of cannabis, ganja, in a CNG-powered
 auto-rickshaw, a three-wheeled taxi that runs on compressed natural gas, and
-seized the vehicle and two mobile phones. [@1,5,6] The district office said the
+seized the vehicle and two mobile phones. [@1,5,6,7] The district office said the
 cannabis was packed in 17 bundles. [@2,4,5,6] A department press release said the
 bundles were wrapped in sky-blue polythene and khaki tape and were taken from a
 green auto-rickshaw. [@3] The press release said the search ran from 7:15 am to
@@ -113,8 +118,8 @@ the two phones at 24,000 taka, and put the total for everything seized at
 
 Nazmul Haque said a regular case had been filed against both men at Kendua
 police station. [@1] Dhaka Mail reported that Inspector Khandaker Nazim Uddin
-filed a regular case at Kendua police station as the complainant. [@2,4,5] Nazmul
-Haque said the two would be sent to court after the case. [@2,4,5] An afternoon
+filed a regular case at Kendua police station as the complainant. [@2,4,5,7] Nazmul
+Haque said the two would be sent to court after the case. [@2,4,5,7] An afternoon
 statement from the department said a case under the Narcotics Control Act was
 still being prepared. [@3] The department said it had preliminary information
 that the two were involved in trafficking drugs between districts. [@3,5]
