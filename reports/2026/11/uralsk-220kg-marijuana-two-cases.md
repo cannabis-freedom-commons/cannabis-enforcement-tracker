@@ -64,26 +64,24 @@ sources:
     publisher: Caliber.Az
     date: 2026-11-13
     language: ru
-open_questions:
-  - No separate date was given for the searches; the 13 November 2026 publication date is used as the incident date.
-  - Police gave the combined amount only as more than 220 kg, while publishing the component weights as 198 kg 16 g and 23 kg.
-  - The 45-year-old resident was not described as detained, and no charges, custody decisions, pleas or court outcomes were reported in either case.
-  - Whether the two cases were connected, and where the marijuana came from or was intended to go, remained under investigation.
-  - All three accounts are based on the same police information; no response from either resident was reported.
+  - title: У наркодилеров изъяли больше 200 кг марихуаны
+    url: https://www.ktk.kz/ru/news/video/2026/11/13/305885/
+    publisher: КТК (KTK)
+    date: 2026-11-13
+    language: ru
 ---
 
-Police in Uralsk detained a 34-year-old local resident. [@3] Officers found two
+Police in Uralsk detained a 34-year-old local resident. [@3,4] Officers found two
 large boxes in the courtyard of the man's house, containing 12 plastic bags of
 plant material. [@3] Testing identified the contents as dried marijuana weighing
-198 kg 16 g. [@1] A search of the flat of another Uralsk resident, aged 45,
-uncovered another 23 kg of dried marijuana. [@2] Across the two cases, police
-said more than 220 kg of marijuana was taken out of illegal circulation. [@3]
+198 kg 16 g. [@1,4] A search of the flat of another Uralsk resident, aged 45,
+uncovered another 23 kg of dried marijuana. [@2,4] Across the two cases, police
+said more than 220 kg of marijuana was taken out of illegal circulation. [@3,4]
 
 Officers from the organised-crime unit of the West Kazakhstan regional police
 department discovered the batches during operational-search work under Qarasora,
 an operational and preventive campaign. [@2] Pre-trial investigations were
-opened into both cases. [@1] Investigators were working to establish every
+opened into both cases. [@1,4] Investigators were working to establish every
 circumstance of the cases and any channels through which the marijuana could
 have been supplied and distributed. [@1] Police said their work to detect and
 suppress the illegal circulation of narcotics in the region was continuing. [@1]
-
