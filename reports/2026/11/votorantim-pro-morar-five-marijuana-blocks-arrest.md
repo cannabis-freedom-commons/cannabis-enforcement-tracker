@@ -45,6 +45,11 @@ sources:
     publisher: TVS+
     date: 2026-11-13
     language: pt
+  - title: Homem é preso com cinco tijolos de maconha no bairro Promorar, em Votorantim
+    url: https://www.gazetadevotorantim.com.br/noticia/60787/votorantim/noticias/homem-e-preso-com-cinco-tijolos-de-maconha-no-bairro-promorar-em-votorantim.html
+    publisher: Gazeta de Votorantim
+    date: 2026-11-13
+    language: pt
 open_questions:
   - No weight for the five marijuana blocks was published, so no cannabis weight is recorded.
   - The man was not named and his age was not given.
@@ -55,16 +60,15 @@ open_questions:
 
 Military police officers arrested a man in Votorantim on the night of Wednesday
 11 November 2026 after finding drugs in the garage of his residence in the
-Pró-Morar neighbourhood. [@1] According to the Military Police, the incident
+Pró-Morar neighbourhood. [@1,2] According to the Military Police, the incident
 began during a patrol of the neighbourhood, when officers identified a vehicle
 matching the description of a car reported as possibly transporting drugs for
-storage and distribution in the region. [@1] The officers stopped the vehicle
+storage and distribution in the region. [@1,2] The patrol was conducted by a Comando de Força Patrulha team of the 40th BPM/I with support from Comando de Grupo Patrulha (CGP-1). [@2] The officers stopped the vehicle
 and carried out checks, then entered the residence with authorisation and found
-five blocks of marijuana and a precision scale in its garage. [@1] During the
-stop the man admitted that the drugs were his. [@1] The officers took him to the
+five blocks of marijuana and a precision scale in its garage. [@1,2] During the
+stop the man admitted that the drugs were his. [@1,2] The officers took him to the
 Votorantim duty police station, where he remained at the disposal of the courts.
-[@1]
+[@1,2] At the Votorantim duty station, the flagrante arrest was ratified by the police authority. [@2]
 
 The seizure comprised five blocks of marijuana, found together with a single
 precision scale in the garage of the house. [@1]
-
