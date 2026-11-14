@@ -57,8 +57,11 @@ sources:
     publisher: Canalcosta Televisión
     date: 2026-11-13
     language: es
-open_questions:
-  - No weight or cash figure for the marijuana and cocaine was published.
+  - title: Detenido en Palos tras arrojar una mochila y un bolso con marihuana y cocaína en una huida
+    url: https://huelvared.com/2026-11-13/detenido-en-palos-tras-arrojar-una-mochila-y-un-bolso-con-marihuana-y-cocaina-en-una-huida/
+    publisher: Huelva Red
+    date: 2026-11-13
+    language: es
 ---
 
 The Guardia Civil detained one person in Palos de la Frontera for possessing
@@ -73,7 +76,7 @@ distribution and sale. [@1,2,3] Officers also found cash split into banknotes an
 coins of different values inside the bags, described as presumed proceeds of
 retail drug trafficking. [@1,2,3] The detained person, the seized substances and the
 seized money were placed at the disposal of the judicial authority handling the
-case. [@1,4]
+case. [@1,4,5]
 
 The incident happened at the end of October in Palos de la Frontera, when a
 citizen-security patrol on crime-prevention duties ordered a car to stop and the
