@@ -48,6 +48,11 @@ media:
     media_url: https://crprensa.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-8.19.32-AM-1024x576.jpeg?v=1794598920
     publisher: CRprensa.com
     caption: 'Photos of the marijuana laboratory discovered in the Lagunilla de Ulloa home, published with the CRprensa report. Photo: CRprensa.com.'
+  - kind: photo
+    url: https://www.amprensa.com/2026/11/policia-llego-atender-caso-violencia-intrafamiliar-hacen
+    media_url: https://www.amprensa.com/assets/img/subidas/v/mwfdf9i9-79cbd155-f887-4bee-9e9d-34aa62a0286f-1200.avif
+    publisher: AM Prensa
+    caption: 'Photo of the three detainees and the seized marijuana-lab equipment from the Lagunilla de Ulloa home. Photo: AM Prensa.'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e453e63de83682baa59c10a0a5dd920a
@@ -62,26 +67,31 @@ sources:
     publisher: CRprensa.com
     date: 2026-11-13
     language: es
+  - title: Policía llegó a atender caso de violencia intrafamiliar y hacen un impresionante descubrimiento que dejó tres detenidos
+    url: https://www.amprensa.com/2026/11/policia-llego-atender-caso-violencia-intrafamiliar-hacen
+    publisher: AM Prensa
+    date: 2026-11-13
+    language: es
 open_questions:
-  - The article gives no separate date for the discovery or detention; 13 November 2026 is its publication date and is used as the incident date.
-  - All material is described as apparent marijuana and seeds (aparente marihuana), with no laboratory confirmation reported.
-  - The suspects are identified only by surname (Reyes, Noguera, Dimas) and no court outcome has been reported.
-  - The 66 arrests of Noguera and Dimas are prior police records, not convictions, as the article notes.
-  - The ₡142,000 in cash is recorded only as seized cash, with no drug value estimate published.
-  - No independent second source was found; the account rests solely on AM Prensa.
+    - The article gives no separate date for the discovery or detention; 13 November 2026 is its publication date and is used as the incident date.
+    - All material is described as apparent marijuana and seeds (aparente marihuana), with no laboratory confirmation reported.
+    - The suspects are identified only by surname (Reyes, Noguera, Dimas) and no court outcome has been reported.
+    - The 66 arrests of Noguera and Dimas are prior police records, not convictions, as the article notes.
+    - The ₡142,000 in cash is recorded only as seized cash, with no drug value estimate published.
+    - The independent second outlet remains CRprensa.com; the submitted AM Prensa account rests on the same police statement as the first AM Prensa page already cited.
 ---
 
 Fuerza Publica officers at a home in Lagunilla de Ulloa, Heredia, who had been
 called to a suspected domestic-violence case, found a suspected marijuana
-laboratory and detained three men with surnames Reyes, Noguera and Dimas. [@1,2]
+laboratory and detained three men with surnames Reyes, Noguera and Dimas. [@1,2,3]
 
 The anti-drug agents inspected the home and seized 87 plants of apparent
 marijuana, 21 to 74 centimetres tall, five containers with apparent seeds, and
-58.18 grams of the same drug. [@1,2] Officers also seized ₡142,000 in cash, eight
-fans, two air conditioners and other equipment inside the home. [@1]
+58.18 grams of the same drug. [@1,2,3] Officers also seized ₡142,000 in cash, eight
+fans, two air conditioners and other equipment inside the home. [@1,3]
 
 According to the PCD, Noguera has 37 police arrests since 2015 and Dimas 29
 since 2014, 66 arrests in total, while Reyes has drug-related records since
-2020. [@1,2] The three men, with the plants, cash and equipment, were handed to
+2020. [@1,2,3] The three men, with the plants, cash and equipment, were handed to
 the judicial authorities, who must determine their legal situation; no charges
-or court outcome were reported. [@1]
+or court outcome were reported. [@1,3]
