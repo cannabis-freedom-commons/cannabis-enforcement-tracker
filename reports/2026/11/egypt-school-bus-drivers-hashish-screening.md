@@ -167,26 +167,16 @@ sources:
     publisher: اليوم السابع
     date: 2026-11-08
     language: ar
-open_questions:
-  - >-
-    The checks ran across the opening of the school year and no single test date was published. 8 November 2026 is the
-    date of the later results, and 26 October 2026 is the date of the interim results.
-  - >-
-    No governorate breakdown, driver names or school names were published, and the accounts do not say whether any
-    driver was tried or dismissed.
-  - >-
-    Youm7's 26 October sentence compresses the split as 21 hashish cases and one tramadol case among 22 positive
-    samples. The 8 November fund statement says 28 of 31 positives were hashish and three were tramadol.
-  - >-
-    The 26 October count of 21 hashish referrals is an earlier total for the same screening, not a separate group to add
-    to the 28.
-  - The three tramadol cases in the later total are not cannabis and are not included in the charged figure.
-  - The fund's warning signs describe suspected drug use in general, not hashish specifically.
+  - title: ضبط 31 سائق حافلات مدرسية يتعاطون المخدرات وإحالتهم للنيابة
+    url: https://ekhbary24.com/article/52447
+    publisher: إخباري 24 نيوز
+    date: 2026-11-13
+    language: ar
 ---
 
-Egypt's Fund for Combating and Treatment of Addiction said on 8 November 2026 that early checks during the first two months of the 2026/2027 school year had tested 4,510 school-bus drivers in several governorates. [@6,19] Samples from 31 drivers were positive, 28 of them for hashish and three for tramadol. [@6,19] All 31 were referred to the public prosecution for driving under the influence, and the fund coordinated with the education ministry to dismiss any of them found to be working in schools. [@6,19] The three tramadol results are not counted as cannabis cases. [@6]
+Egypt's Fund for Combating and Treatment of Addiction said on 8 November 2026 that early checks during the first two months of the 2026/2027 school year had tested 4,510 school-bus drivers in several governorates. [@6,19] Samples from 31 drivers were positive, 28 of them for hashish and three for tramadol. [@6,19,20] All 31 were referred to the public prosecution for driving under the influence, and the fund coordinated with the education ministry to dismiss any of them found to be working in schools. [@6,19,20] The three tramadol results are not counted as cannabis cases. [@6]
 
-The same statement named the General Directorate of Drug Control, the General Traffic Directorate, the General Secretariat for Mental Health and the education ministry's Central Security Department as taking part. [@6] The fund's director, Amr Osman, received the report of the results. [@6] Parents can report a suspected driver on the hotline 16023, and the fund said that would bring an immediate confidential check. [@6,19] The fund said the checks would continue through the school year and expand to other governorates. [@6]
+The same statement named the General Directorate of Drug Control, the General Traffic Directorate, the General Secretariat for Mental Health and the education ministry's Central Security Department as taking part. [@6,20] The fund's director, Amr Osman, received the report of the results. [@6] Parents can report a suspected driver on the hotline 16023, and the fund said that would bring an immediate confidential check. [@6,19,20] The fund said the checks would continue through the school year and expand to other governorates. [@6,20]
 
 On 26 October 2026 the fund had published an earlier total for the first month and a half of the same school year: 3,660 drivers tested and 22 positive samples. [@2] Youm7 described 21 of those as hashish and one as tramadol, and said all 22 had been referred for driving under the influence. [@2] Dar Al-Maaref and Masrawy carried that October statement. [@1,3] The 8 November figures are the later total for the same screening, not a second group of drivers added to the October count. [@2,6]
 
