@@ -53,10 +53,11 @@ sources:
     publisher: Politika
     date: 2026-11-13
     language: sr
-open_questions:
-  - The articles give no separate date for the search and arrests; 13 November 2026 is their publication date and is used as the incident date.
-  - The 74 grams is described only as plant material suspected to be marijuana, with no laboratory confirmation reported.
-  - The suspects are identified only by initials with birth year or age, and no court outcome has been reported.
+  - title: 'U STANU I DRUGIM PROSTORIJAMA MARIHUANA I AMFETAMIN: Policija u Bečeju uhapsila dvojicu osumnjičenih za trgovinu drogom'
+    url: https://www.novosti.rs/hronika/hapsenja-i-istraga/1670810/stanu-drugim-prostorijama-marihuana-amfetamin-policija-beceju-uhapsila-dvojicu-osumnjicenih-trgovinu-drogom
+    publisher: Novosti
+    date: 2026-11-13
+    language: sr
 ---
 
 Police officers of the Interior Ministry in Becej, working with the Higher
@@ -64,14 +65,13 @@ Public Prosecutor's Office in Zrenjanin, arrested S.S. (born 1993) from the
 Becej area and V.H. (born 1977) from Becej on suspicion of unauthorised
 production and placing narcotic drugs in circulation. [@1] A second outlet
 confirms the same two arrests by Becej police with the Zrenjanin prosecutor's
-office, giving the suspects' ages as 33 and 49. [@2]
+office, giving the suspects' ages as 33 and 49. [@2,4]
 
 Searching the apartment and other premises used by the suspects in Becej and its
 surroundings, police found about 74 grams of plant material suspected to be
-marijuana. [@1] The same search also yielded about 99 grams of powder suspected
-to be amphetamine, alongside the suspected marijuana. [@2] Police also seized a
-digital scale found with the suspected drugs. [@3]
+marijuana. [@1,4] The same search also yielded about 99 grams of powder suspected
+to be amphetamine, alongside the suspected marijuana. [@2,4] Police also seized a
+digital scale found with the suspected drugs. [@3,4]
 
 The two suspects were ordered held for up to 48 hours and will be brought before
-the competent prosecutor with a criminal complaint. [@1]
-
+the competent prosecutor with a criminal complaint. [@1,4]
