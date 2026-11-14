@@ -95,11 +95,10 @@ sources:
     publisher: Cedar News
     date: 2026-11-13
     language: ar
-open_questions:
-  - No separate dates for the three-day operation were given; 13 November 2026 is the publication date.
-  - No plant count, field area or value for the destroyed cannabis and greenhouses was published.
-  - No arrests, names or court outcome were reported; the army said searches to arrest those involved were continuing.
-  - Whether the Boudai part of this operation overlaps with the separate 12 November 2026 Boudai farms raid is not stated.
+  - title: 'Photos: Lebanese Army Destroys 200 Tons of Hashish'
+    url: https://www.mtv.com.lb/en/news/1758058
+    publisher: MTV Lebanon
+    date: 2026-11-13
 ---
 
 The Lebanese Army announced the destruction of 215 tonnes of cannabis and
@@ -109,13 +108,13 @@ follow-up to combat narcotics and pursue people undermining security. [@1,3]
 
 One army unit destroyed 200 tonnes of cannabis resin and marijuana, along with
 agricultural greenhouses and planted land, in the Marjehin plain area of Hermel
-over three days. [@1,3,5,6,7] Another unit raided several farms in the Boudai area of
+over three days. [@1,3,5,6,7,8] Another unit raided several farms in the Boudai area of
 Baalbek, destroying 15 tonnes of cannabis and a greenhouse planted with
-marijuana. [@1,3,5,6,7] In Boudai the unit seized machines used to manufacture the
-drugs. [@1,3,7]
+marijuana. [@1,3,5,6,7,8] In Boudai the unit seized machines used to manufacture the
+drugs. [@1,3,7,8]
 
 Annahar corroborated the same account, reporting 200 tonnes destroyed with
 greenhouses and planted land in the Marjehin plain of Hermel and 15 tonnes with
 a marijuana tent and manufacturing machines seized in Boudai, Baalbek. [@2] The
 seized items were handed over to the authorities, and searches were continuing
-to arrest the people involved, with no arrests reported. [@1,3,5,7]
+to arrest the people involved, with no arrests reported. [@1,3,5,7,8]
