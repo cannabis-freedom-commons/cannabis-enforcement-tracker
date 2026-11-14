@@ -7,16 +7,23 @@ place: Igoumenitsa, Thesprotia, Epirus
 coordinates: [39.5869, 20.2841]
 precision: locality
 type: seizure
-also: [prosecution]
+also: [prosecution, arrest]
 title: 86 kg of cannabis seized from car in Igoumenitsa
 summary: >-
   On 13 November 2026, police in Igoumenitsa, Epirus, seized 86.438 kg of raw cannabis (80 bundles) from a car driven by a 31-year-old foreign woman, and also seized the car. She was arrested and a felony complaint was opened; she is expected to be brought before the Thesprotia prosecutor.
 figures:
-  arrested: 1
-  kg_seized: 86.438
+    arrested: 1
+    kg_seized: 86.438
 data_sources:
-  figures.arrested: [1]
-  figures.kg_seized: [1]
+    figures.arrested: [5]
+    figures.kg_seized: [5]
+    details.activity: [5]
+    details.agencies: [5]
+    details.agency_types: [5]
+    details.case_stage: [5]
+    details.charges: [5]
+    details.force: [5]
+    details.products: [5]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fb37dff3afb5dec5714d6fb8f7966629
@@ -28,6 +35,11 @@ media:
     media_url: https://www.ertnews.gr/wp-content/uploads/2026/11/katasxemena-narkotika-1-1.jpg
     publisher: ΕΡΤ News
     caption: 'Vacuum-sealed packages of raw cannabis from the Igoumenitsa car seizure, stacked on a wood floor. Photo: ΕΡΤ'
+  - kind: photo
+    url: https://epirusonline.gr/eidiseis/ipeiros/me-86-kila-kannavis-sto-aytokinito-synelifthi-gynaika-stin-igoymenitsa/
+    media_url: https://epirusonline.gr/wp-content/uploads/2026/11/%CE%9A%CE%91%CE%A4%CE%91%CE%A3%CE%97%CE%95%CE%9C%CE%95%CE%9D%CE%91-%CE%9D%CE%91%CE%A1%CE%9A%CE%A9%CE%A4%CE%99%CE%9A%CE%91-1-696x626.jpg
+    publisher: EPIRUS Online
+    caption: 'Seized raw-cannabis packages from the Igoumenitsa car seizure, published with the EPIRUS Online account. Photo: EPIRUS Online'
 sources:
   - title: 'Ηγουμενίτσα: Συνελήφθη αλλοδαπή με περισσότερα από 86 κιλά κάνναβης σε αυτοκίνητο'
     url: https://www.maxitisartas.gr/single_page.php?catid=&id=41383
@@ -51,6 +63,22 @@ sources:
     publisher: ioannina24.gr
     date: 2026-11-13
     language: el
+  - title: Με 86 κιλά κάνναβης στο αυτοκίνητο συνελήφθη γυναίκα στην Ηγουμενίτσα
+    url: https://epirusonline.gr/eidiseis/ipeiros/me-86-kila-kannavis-sto-aytokinito-synelifthi-gynaika-stin-igoymenitsa/
+    publisher: EPIRUS Online
+    date: 2026-11-13
+    language: el
+details:
+    agencies: [Hellenic Police]
+    agency_types: [police, anti-narcotics]
+    products:
+        - {product: flower, kg: 86.438, plants: 0}
+    activity: [trafficking, smuggling, possession]
+    charges: [felony drug charge (felony indictment)]
+    case_stage: charged
+    force: [none-reported]
+    date_precision: exact
+    region: Thesprotia, Epirus
 ---
 
 Police of the Drug Pursuit Division of the Igoumenitsa Sub-directorate of
@@ -59,9 +87,9 @@ morning in Igoumenitsa, blocking its further transport. [@1,3] A foreign nationa
 was arrested in connection with the case, against whom a felony indictment was
 opened. [@1,3] As part of targeted checks, the officers stopped a small car that
 the foreign woman was driving and that she owned, inside which they found 80
-bundles of raw cannabis, totalling 86 kg 438 g. [@1,3,4] The drugs and the car were
+bundles of raw cannabis, totalling 86 kg 438 g. [@1,3,4,5] The drugs and the car were
 confiscated, and the detainee is expected to be brought to the Thesprotia First
-Instance Magistrate's Office. [@1,3,4]
+Instance Magistrate's Office. [@1,3,4,5]
 
 The arrested driver of the car was a 31-year-old foreign national. [@2] The
 cannabis was packaged into 80 bundles that were found inside the woman's car
