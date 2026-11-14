@@ -111,20 +111,25 @@ sources:
     publisher: 光明网
     date: 2026-11-14
     language: zh
+  - title: 旅客带满满一箱味道刺鼻的褐绿色植物，被海关拦截：一查竟是40多斤大麻
+    url: https://www.sohu.com/a/1101367975_162758
+    publisher: 搜狐网（光明网）
+    date: 2026-11-14
+    language: zh
 ---
 
 Guangzhou customs seized 20.051 kg of cannabis in the passenger-inspection
 channel at Guangzhou Baiyun International Airport, according to a Guangzhou
-Customs notice. [@1,2,4,5,6,8,9,10,11,12] Baiyun airport customs officers were screening
+Customs notice. [@1,2,4,5,6,8,9,10,11,12,13] Baiyun airport customs officers were screening
 international transit passengers when one traveller's luggage X-ray image looked
-abnormal, and they stopped and searched that passenger. [@1,3,5,6,7,9,10,12] The suitcase held
+abnormal, and they stopped and searched that passenger. [@1,3,5,6,7,9,10,12,13] The suitcase held
 nothing but plastic-bag, vacuum-packed brown-green plant material that gave off
-a strong irritant smell when opened. [@1,2,3,5,6,7,9,10,12] A technical institution tested the
-material and confirmed it was cannabis weighing 20.051 kg. [@1,3,6,9,10,12]
+a strong irritant smell when opened. [@1,2,3,5,6,7,9,10,12,13] A technical institution tested the
+material and confirmed it was cannabis weighing 20.051 kg. [@1,3,6,9,10,12,13]
 
 The Chinese reports put the seizure at more than 40 jin, a traditional unit of
 about 500 grams. [@2] Customs reminded the public that smuggling, selling,
 transporting or manufacturing drugs carries criminal liability in China
-regardless of quantity, citing the Criminal Law and the Anti-Drug Law. [@1,3,5,6,9,11] The
+regardless of quantity, citing the Criminal Law and the Anti-Drug Law. [@1,3,5,6,9,11,13] The
 accounts describe the traveller only as a passenger and name no arrest, charge
 or court outcome. [@1]
