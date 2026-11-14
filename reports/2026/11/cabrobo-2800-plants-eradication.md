@@ -23,6 +23,11 @@ media:
     media_url: https://www.carlosbritto.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-09.42.11-1-1-1-1.jpeg
     publisher: Blog do Carlos Britto
     caption: 'Cannabis planting in caatinga scrubland in rural Cabrobó, published with the report on the 2ª CIPM and Federal Police eradication. Photo: WhatsApp / divulgação'
+  - kind: photo
+    url: https://faroldenoticias.com.br/policia-erradica-duas-rocas-com-2-800-pes-de-maconha/
+    media_url: https://faroldenoticias.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-08.19.03-1-e1794569867963.jpeg
+    publisher: Farol de Notícias
+    caption: 'Cannabis planting in caatinga scrubland in rural Cabrobó, published with the report on the 2ª CIPM and Federal Police eradication of two marijuana farms. Photo: Divulgação/PMPE'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 92e75d9426d94d6df905c19522d3036b
@@ -33,24 +38,27 @@ sources:
     publisher: Blog do Carlos Britto
     date: 2026-11-13
     language: pt
+  - title: Polícia erradica duas roças com 2.800 pés de maconha
+    url: https://faroldenoticias.com.br/policia-erradica-duas-rocas-com-2-800-pes-de-maconha/
+    publisher: Farol de Notícias
+    date: 2026-11-13
+    language: pt
 open_questions:
-  - No arrests, suspects, charges or court outcome were reported for this eradication.
-  - The plant figure is an approximation of about 2,800 plants (about 2,000 plus about 800), not an exact measured count.
-  - No cultivated area, seized weight or estimated drug value was published.
-  - Only one accessible account of this event was found after searching in Portuguese, and it attributes its information to the 2ª CIPM.
+    - No arrests, suspects, charges or court outcome were reported for this eradication.
+    - The plant figure is an approximation of about 2,800 plants (about 2,000 plus about 800), not an exact measured count.
+    - No cultivated area, seized weight or estimated drug value was published.
 ---
 
 Two cannabis plantations totalling approximately 2,800 plants were found and
 destroyed in the rural zone of Cabrobó, Pernambuco, on Thursday 12 November
-2026. [@1] The operation was carried out by officers of the 2nd Independent
+2026. [@1,2] The operation was carried out by officers of the 2nd Independent
 Military Police Company (2ª CIPM) together with the Federal Police. [@1]
 
 The 2ª CIPM said the plantations were located after information gathered by its
-intelligence teams. [@1] Officers found the two plantings in an area of
+intelligence teams. [@1,2] Officers found the two plantings in an area of
 caatinga, the dry scrubland typical of the sertão. [@1]
 
 The first planting had about 2,000 cannabis plants and the second about 800,
-spread over 700 planting holes. [@1] The plants were pulled up and incinerated
-on the spot. [@1] A sample of the material was sent to the Civil Police station
-(PCPE) in Cabrobó for the applicable legal procedures. [@1]
-
+spread over 700 planting holes. [@1,2] The plants were pulled up and incinerated
+on the spot. [@1,2] A sample of the material was sent to the Civil Police station
+(PCPE) in Cabrobó for the applicable legal procedures. [@1,2]
