@@ -64,11 +64,11 @@ sources:
     publisher: ClicRDC
     date: 2026-11-13
     language: pt
-open_questions:
-    - The suspect was not named and no age or other identifying detail was published.
-    - No custody decision, charge sheet or court outcome beyond the trafficking registration was reported.
-    - No street-value estimate for the plants or the packaged marijuana was published.
-    - Two outlets (Rádio Clube de Canoinhas and SCC10/Rádio Clube de Lages) reproduce the same Santa Catarina military police statement, so they are not independent accounts of the event.
+  - title: Cheiro forte levanta suspeita e PM descobre plantação de maconha dentro de residência em Lages
+    url: https://noticianoato.com.br/seguranca/128877-cheiro-forte-levanta-suspeita-e-pm-descobre-plantacao-de-maconha-dentro-de-residencia-em-lages
+    publisher: Notícia no Ato
+    date: 2026-11-13
+    language: pt
 media:
   - kind: photo
     url: https://scc10.com.br/radioclube/pm-apreende-49-pes-de-maconha-em-residencia-em-lages/
@@ -80,19 +80,24 @@ media:
     media_url: https://files.clicrdc.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-09.39.04-1024x474.jpeg
     publisher: ClicRDC
     caption: 'Military Police photo published with the ClicRDC report of the 49 cannabis plants and three greenhouses seized in Bom Jesus, Lages. Photo: PMSC'
+  - kind: photo
+    url: https://noticianoato.com.br/seguranca/128877-cheiro-forte-levanta-suspeita-e-pm-descobre-plantacao-de-maconha-dentro-de-residencia-em-lages
+    media_url: https://noticianoato.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-08.01.00.jpeg
+    publisher: Notícia no Ato
+    caption: Photo published with the Notícia no Ato report of the 49 cannabis plants and three greenhouses seized in Bom Jesus, Lages.
 ---
 
 On the night of Thursday 12 November 2026, Santa Catarina military police
 arrested one man and seized 49 cannabis plants at a house in the Bom Jesus
-district of Lages. [@1,2,4] Officers recorded the incident at about 19h45 during
+district of Lages. [@1,2,4,5] Officers recorded the incident at about 19h45 during
 patrol, after noticing a strong smell of marijuana near a residence and finding
-a cultivation structure. [@1,2,3,4] Inside the property they found three greenhouses
+a cultivation structure. [@1,2,3,4,5] Inside the property they found three greenhouses
 with ventilation, lighting and heating equipment, along with other cultivation
-materials. [@1,2]
+materials. [@1,2,5]
 
 Officers also seized 1.325 kg of marijuana, which the police said was packaged
-and ready for sale. [@1,2,3,4] The man was taken to the Civil Police station, where
-the incident was registered as drug trafficking. [@1,2,4] The plants, the packaged
+and ready for sale. [@1,2,3,4,5] The man was taken to the Civil Police station, where
+the incident was registered as drug trafficking. [@1,2,4,5] The plants, the packaged
 drug and the equipment were collected and placed at the disposal of the
 authorities responsible for the investigation. [@1] The outlet attributes its
 account to the Santa Catarina Military Police. [@1]
