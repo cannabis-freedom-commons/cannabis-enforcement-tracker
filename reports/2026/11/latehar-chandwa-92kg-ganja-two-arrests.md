@@ -58,6 +58,16 @@ sources:
     publisher: Jharkhand Latest News
     date: 2026-11-12
     language: hi
+  - title: Two ganja smugglers arrested from New Sidhauli
+    url: https://www.bhaskar.com/local/bihar/rohtas/news/two-ganja-smugglers-arrested-from-new-sidhauli-dbp-139678842.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-14
+    language: hi
+  - title: न्यू सिधौली से दो गांजा तस्कर गिरफ्तार
+    url: https://www.bhaskar.com/amp/local/bihar/rohtas/news/two-ganja-smugglers-arrested-from-new-sidhauli-dbp-139678842.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-14
+    language: hi
 open_questions:
     - The 92 kg seizure on 11 March 2026 is background to this arrest report, not a separate seizure on the arrest date.
     - No value estimate for the ganja was published.
@@ -66,9 +76,9 @@ also: [raid]
 ---
 
 Chandwa police station police in Latehar arrested two absconding accused in a
-narcotics-smuggling case. [@1,2] Both men were sent to jail in judicial custody.
-[@1] Chandwa police arrested the two men on 12 November 2026 and sent them to judicial custody. [@3] Police identified them as Sumant Kumar Chandravanshi and Sawan Kumar,
-residents of New Sidhauli in Dalmianagar, Rohtas district, Bihar. [@1,2]
+narcotics-smuggling case. [@1,2,4] Both men were sent to jail in judicial custody.
+[@1] Chandwa police arrested the two men on 12 November 2026 and sent them to judicial custody. [@3] After questioning, Chandwa police station officers took both accused with them to Jharkhand. [@5] Police identified them as Sumant Kumar Chandravanshi and Sawan Kumar,
+residents of New Sidhauli in Dalmianagar, Rohtas district, Bihar. [@1,2,5] The two are Sawan Kumar, son of Prem Kumar of ward 3, and Sumant Kumar Chandravanshi, son of Kashi Prasad of ward 2, both living in New Sidhauli. [@5]
 
 Police registered the case as Chandwa police station case number 47/26 on 11
 March 2026. [@1] The two accused were proceeded against under NDPS Act sections 20(b)(ii)(c), 25 and 29 in Chandwa case number 47/26. [@3] The case began after two vehicles collided near Sikni. [@1]
