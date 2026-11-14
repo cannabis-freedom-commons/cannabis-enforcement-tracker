@@ -59,23 +59,22 @@ sources:
     publisher: وكالة الانباء الاردنية
     date: 2026-11-13
     language: ar
-open_questions:
-    - The army statement speaks only of drugs and names no substance, so it is not established that any of the cargo was cannabis.
-    - No weight, number of balloons or value was published.
-    - No arrests were reported.
-    - Neither the place on the border nor the country the balloons came from was named.
-    - Every account repeats the same army statement.
+  - title: الأردن ينجح في إحباط عملية تهريب كبيرة للمواد المخدرة باستخدام بالونات موجهة
+    url: https://www.alestad.com/154967/%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%8A%D9%86%D8%AC%D8%AD-%D9%81%D9%8A-%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9/
+    publisher: الاستاد الاخباري (Alestad)
+    date: 2026-11-13
+    language: ar
 ---
 
 Jordan's Eastern Military Region said on Friday 13 November 2026 that it had
 foiled an attempt to smuggle a large quantity of narcotics into the country by
-guided balloons, after spotting them heading toward Jordanian territory. [@1,2,3,4,5,8,9]
+guided balloons, after spotting them heading toward Jordanian territory. [@1,2,3,4,5,8,9,10]
 Border Guard units within their area of responsibility brought the balloons down
 inside Jordanian territory and seized the drugs they carried, in coordination
-with security and military agencies and the Anti-Narcotics Department. [@1,2,3,4,5,8,9]
+with security and military agencies and the Anti-Narcotics Department. [@1,2,3,4,5,8,9,10]
 
 The seized material was handed to the competent authorities for legal action.
-[@1,2,3,4,6,8,9] The Jordan Armed Forces reaffirmed that they will keep performing their
+[@1,2,3,4,6,8,9,10] The Jordan Armed Forces reaffirmed that they will keep performing their
 national duty with efficiency and confront infiltration and smuggling attempts
 firmly, whatever their methods evolve into, in safeguarding the kingdom's
-security, stability and citizens' safety. [@1,3,7] Over the past two years the Eastern Military Region has intercepted dozens of drug-smuggling attempts, some balloons carrying large quantities of Captagon pills, methamphetamine and hashish, reportedly launched from areas in southern Syria. [@2]
+security, stability and citizens' safety. [@1,3,7,10] Over the past two years the Eastern Military Region has intercepted dozens of drug-smuggling attempts, some balloons carrying large quantities of Captagon pills, methamphetamine and hashish, reportedly launched from areas in southern Syria. [@2]
