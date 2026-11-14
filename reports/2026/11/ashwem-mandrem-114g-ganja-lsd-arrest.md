@@ -53,26 +53,30 @@ sources:
     publisher: Tarun Bharat
     date: 2026-11-13
     language: mr
+  - title: ਗੋਆ ਵਿੱਚ 2 ਲੱਖ ਰੁਪਏ ਤੋਂ ਵੱਧ ਮੁੱਲ ਦੇ ਨਸ਼ੀਲੇ ਪਦਾਰਥ ਜ਼ਬਤ; ਇੱਕ ਵਿਅਕਤੀ ਗ੍ਰਿਫ਼ਤਾਰ
+    url: https://www.deshsewak.org/%E0%A8%96%E0%A9%87%E0%A8%A4%E0%A8%B0%E0%A9%80/in-goa-a-person-arrested-for-seizing-drugs-worth-more/article-22891
+    publisher: Desh Sewak
+    date: 2026-11-13
+    language: pa
 ---
 
 Anti-Narcotic Police raided Ashwem-Mandrem in the early hours of 13 November
-2026 and arrested 28-year-old Rohan Panchal. [@1] Panchal was living in the
+2026 and arrested 28-year-old Rohan Panchal. [@1,2] Panchal was living in the
 Junaswada area of Mandrem and is originally from Lower Parel in Mumbai. [@1]
 Police registered Crime No. 22/2026 at the Anti-Narcotic police station over the
 seizure. [@1] Police filed the case under Sections 22(C) and 20(b)(ii)(A) of the
 NDPS Act, 1985 and arrested him after completing legal procedure. [@1]
 
 The raid also recovered 24 LSD blotters of different colours weighing 0.78
-grams, which police valued at about Rs 240,000. [@1] The raid also recovered
+grams, which police valued at about Rs 240,000. [@1,2] The raid also recovered
 114.16 grams of dried ganja described as containing flowering and fruit-bearing
-parts of the cannabis plant, which police valued at about Rs 11,400. [@1] Police
+parts of the cannabis plant, which police valued at about Rs 11,400. [@1,2] Police
 said the drugs were hidden in a dark-coloured sling bag and in the storage
-compartment of an Activa scooter. [@1] Police put the combined value of the
-suspected drugs at about Rs 251,400. [@1]
+compartment of an Activa scooter. [@1,2] Police put the combined value of the
+suspected drugs at about Rs 251,400. [@1,2]
 
 The operation was conducted under the guidance of Anti-Narcotic Cell
 superintendent Harishchandra Madkaikar, in-charge Hiru Kavlekar and inspector
 Sagun Sawant. [@1] PSI Gaurav G. Naik of the ANC police station is investigating
 the source of the drugs and whether others are involved in the trafficking
 network. [@1]
-
