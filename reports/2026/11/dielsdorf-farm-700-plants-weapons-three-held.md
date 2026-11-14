@@ -25,6 +25,11 @@ media:
     media_url: https://c.nau.ch/i/qeqW09/1800/bezirk-dielsdorf-zh.avif
     publisher: Nau.ch
     caption: 'Police handout photo of the seized weapons arsenal and the indoor cannabis grow in Dielsdorf district. Photo: Kantonspolizei Zürich'
+  - kind: photo
+    url: https://www.zh.ch/de/news-uebersicht/medienmitteilungen/2026/11/261113r_bezdielsdorf_waffenbm.html
+    media_url: https://www.zh.ch/content/dam/zhweb/bilder-dokumente/footer/news/2026/11/261113_bezdielsdorf.jpg.zhweb-transform/content-picture-small-large/261113_bezdielsdorf.1794571723178.jpeg
+    publisher: Kantonspolizei Zürich
+    caption: 'Police handout photo of the seized machine pistol held in gloved hands, from the cantonal police''s own statement on the Dielsdorf grow-op raid. Photo: Kantonspolizei Zürich'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6b718a2da6401ac885b877b46f63f8bb
@@ -45,6 +50,11 @@ sources:
     publisher: Neue Zürcher Zeitung
     date: 2026-11-13
     language: de
+  - title: 'Bezirk Dielsdorf: Sicherstellung von Waffenarsenal im Zusammenhang mit Indoor-Anlage'
+    url: https://www.zh.ch/de/news-uebersicht/medienmitteilungen/2026/11/261113r_bezdielsdorf_waffenbm.html
+    publisher: Kantonspolizei Zürich / Kanton Zürich
+    date: 2026-11-13
+    language: de
 open_questions:
   - The report states only minimums, more than 700 plants and over seven kilograms, so exact quantities are not known.
   - The seized cash is described only as several thousand francs, so no exact amount can be recorded.
@@ -55,7 +65,7 @@ open_questions:
 
 On Thursday morning the Zurich cantonal police carried out house searches in the
 Dielsdorf district, finding an arsenal of prohibited weapons and an indoor
-cannabis facility and arresting three people. [@1,3] The three provisionally
+cannabis facility and arresting three people. [@1,3,4] The three provisionally
 arrested people are two Swiss men and one Swiss woman aged 41 to 43. [@1,2] They
 must answer before the prosecution for, among other things, violations of the
 weapons law and the narcotics law, with the presumption of innocence applying
@@ -66,7 +76,7 @@ district on behalf of the Winterthur/Unterland public prosecutor's office. [@1,2
 In a barn there, officers found a hidden indoor grow with more than 700
 marijuana plants, over seven kilograms of ready-to-use packaged marijuana,
 technical equipment such as lamps and filters, and several thousand francs in
-cash. [@1,2,3] In a second search at the grow operator's home, officers found an
+cash. [@1,2,3,4] In a second search at the grow operator's home, officers found an
 arsenal of prohibited weapons, including a machine pistol with magazines and
 ammunition, a silencer, an air pistol, a shotgun, a slingshot with arm support,
 a brass knuckle, a flick knife and various throwing stars and throwing knives.
@@ -74,4 +84,4 @@ a brass knuckle, a flick knife and various throwing stars and throwing knives.
 
 The cash and weapons were seized for the investigating authority, while the
 drugs and growing equipment were dismantled by a private disposal firm and sent
-for destruction. [@1]
+for destruction. [@1,4]
