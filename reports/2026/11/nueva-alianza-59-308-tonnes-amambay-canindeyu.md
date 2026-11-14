@@ -58,6 +58,15 @@ sources:
     publisher: Ñanduti
     date: 2026-11-13
     language: es
+media:
+  - kind: photo
+    url: https://www.adndigital.com.py/en-operativo-conjunto-destruyen-mas-de-300-toneladas-de-marihuana-en-casi-85-ha-de-cultivo/
+    media_url: https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/quema-droga.png
+    publisher: ADN Digital
+    caption: >-
+      Brazilian Federal Police officer beside a smoking pile of seized cannabis
+      under a tarp during the joint Nueva Alianza 59 destruction, as published
+      with the operation balance.
 open_questions:
     - No arrests or court outcome are reported for phase 59; only the agencies' eradication and destruction balance is published.
     - The 'about 308 tonnes' figure is the SENAD's official balance combining the 54,825 kg of processed cannabis destroyed with the estimated potential yield of the eradicated crops, not a measured weight.

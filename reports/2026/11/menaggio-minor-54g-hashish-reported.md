@@ -45,6 +45,7 @@ open_questions:
   - No separate date for the control is given, so 13 November 2026, the publication date, is used as the incident date.
   - The minor was not named and no age beyond minority or residence was published.
   - No arrest or detention was reported, only a report to the judicial authority, and no court outcome was reported.
+  - CiaoComo used a file named generico-novembre-2026 for a Guardia di Finanza Como display, so that picture is not listed as of this Menaggio stop.
 ---
 
 Guardia di Finanza officers from the Menaggio company checked a minor together

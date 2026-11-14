@@ -39,6 +39,12 @@ sources:
     url: https://coosavalleynews.com/2026/11/rockmart-man-arrested-after-foot-chase-on-new-prospect-road/
     publisher: Coosa Valley News
     date: 2026-11-13
+media:
+  - kind: photo
+    url: https://coosavalleynews.com/2026/11/rockmart-man-arrested-after-foot-chase-on-new-prospect-road/
+    media_url: https://coosavalleynews.com/wp-content/uploads/2026/11/chad-chandler.jpg
+    publisher: Coosa Valley News
+    caption: Booking photograph of Chad Andrew Chandler published with the report on his Rockmart marijuana arrest.
 open_questions:
   - No quantity or weight for the marijuana was published.
   - The article says arrested recently and gives only its 13 November 2026 publication date; no separate incident date was given.

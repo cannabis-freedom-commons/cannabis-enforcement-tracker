@@ -45,6 +45,12 @@ sources:
     url: https://www.examinerlive.co.uk/news/local-news/watch-police-open-van-find-34902592
     publisher: Yorkshire Live
     date: 2026-11-12
+media:
+  - kind: photo
+    url: https://www.examinerlive.co.uk/news/local-news/watch-police-open-van-find-34902592
+    media_url: https://i2-prod.examinerlive.co.uk/article34902557.ece/ALTERNATES/s1200e/0_Screenshot-2026-11-12-141528.png
+    publisher: Yorkshire Live
+    caption: Black bin bags of cannabis plants filling the Sheffield van when police opened the door.
 ---
 
 South Yorkshire Police officers on patrol in Sheffield spotted two vehicles

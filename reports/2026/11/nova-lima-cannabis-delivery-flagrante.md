@@ -37,6 +37,12 @@ sources:
     publisher: Boca do Povo News
     date: 2026-11-13
     language: pt
+media:
+  - kind: photo
+    url: https://bocadopovonews.com.br/delivery-de-maconha-termina-em-flagrante-no-nova-lima/
+    media_url: https://bocadopovonews.com.br/wp-content/uploads/2026/11/image-127.webp
+    publisher: Boca do Povo News
+    caption: Cannabis bricks, packaged portions and cash displayed on a Força Tática 11ª CIPM patrol car outside DENARC after the Nova Lima delivery stop.
 open_questions:
   - No weight in kilograms was given for the six cannabis blocks or the 208 portions; only counts were reported.
   - No amount was published for the cash seized alongside the 10 cocaine vials.

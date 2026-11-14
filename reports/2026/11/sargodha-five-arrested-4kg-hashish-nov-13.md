@@ -43,6 +43,7 @@ open_questions:
   - The article names no specific localities for the raids, so the arrests cannot be placed beyond Sargodha.
   - No charges, ages, court dates or outcomes were reported beyond further investigation being underway.
   - The whole account rests on one APP copy carried by UrduPoint; no separate agency statement or second outlet report was opened.
+  - UrduPoint used a generic Punjab Police street photograph with no seizure visible, so no photo of these raids is listed.
 ---
 
 Sargodha police arrested five alleged drug dealers during a crackdown against

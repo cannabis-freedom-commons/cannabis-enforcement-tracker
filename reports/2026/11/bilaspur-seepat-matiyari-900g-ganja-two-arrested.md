@@ -36,6 +36,12 @@ sources:
     publisher: News36Live
     date: 2026-11-13
     language: hi
+media:
+  - kind: photo
+    url: https://news36live.com/?p=77741
+    media_url: https://news36live.com/wp-content/uploads/2026/11/IMG-20261113-WA00372.jpg?v=1794573423
+    publisher: News36Live
+    caption: Two arrested men and Seepat police officers with the seized ganja bags outside Sipat police station.
 open_questions:
   - The exact day of the raid is not separated from the 12 November informer tip; 13 November 2026 is the articles' publication date.
   - The 45,000 rupee figure is the police's own estimate of the ganja's value, not an independent market value.

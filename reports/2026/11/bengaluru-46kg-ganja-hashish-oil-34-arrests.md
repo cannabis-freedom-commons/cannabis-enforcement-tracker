@@ -57,6 +57,7 @@ open_questions:
     - Urban Acres says the operation covered 11 police-station jurisdictions but names 10 stations and omits Govindapura, which Vartha Bharati includes.
     - No court outcome is reported.
     - The published accounts repeat a Bengaluru police briefing and are not independent reporting.
+    - Vartha Bharati illustrates the story with a logo and a stock or AI-style close-up of handcuffs (filename arrest-ai.webp), not a photo of this operation, so they are not listed as media.
 ---
 
 Bengaluru city police arrested 34 people, including two foreign nationals, and

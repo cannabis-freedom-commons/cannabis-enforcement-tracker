@@ -53,6 +53,7 @@ open_questions:
   - No estimated value for the seized ganja was published.
   - The accounts rest on Bokaro GRP statements via Prabhat Khabar reports by the same reporter; no separate agency statement was opened.
   - Theft cases and festival-safety appeals in the same articles are not cannabis enforcement and their counts are excluded from the cannabis figures.
+  - Prabhat Khabar used an AI-generated train-search illustration labelled as such, so no photo of these seizures is listed.
 ---
 
 For the Chhath festival rush, Bokaro Government Railway Police, India's state

@@ -79,6 +79,7 @@ open_questions:
     - The three suspects were not named and no charges were reported; the case remained at the investigation stage.
     - It is not known when the four-day detention period began or whether it was renewed.
     - No description or value was given for the six firearms.
+    - Cairo24 used a tactical-unit vehicles photo with no hashish visible, so no photo of this Maragha seizure is listed.
     - The reports do not say where in Al-Maragha district the three were arrested or held.
     - The arrest accounts rest on the same Sohag security directorate statement, and only one outlet reported the detention order.
 ---

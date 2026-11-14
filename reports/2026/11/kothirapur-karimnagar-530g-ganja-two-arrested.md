@@ -51,6 +51,12 @@ sources:
     publisher: Telangana Adda
     date: 2026-11-12
     language: te
+media:
+  - kind: photo
+    url: https://www.dishadaily.com/telugunews/ganja-related-stir-in-kothirampur-two-arrested-600523
+    media_url: https://www.dishadaily.com/h-upload/2026/11/12/614379-untitled-1.webp
+    publisher: Disha Daily
+    caption: Seized ganja on a white sheet with the two suspects and others at the Kothirapur raid.
 open_questions:
   - No separate date for the raid is given; 12 November 2026, the publication date of the reports and the Thursday named in one of them, is used as the incident date.
   - No charge, remand order, value estimate or court outcome for the two suspects was reported.

@@ -52,6 +52,7 @@ open_questions:
   - The report names no NDPS sections, charge, court production, custody or bail outcome for the arrested man.
   - Only one source for this event could be opened; no second outlet or police statement was found to confirm or add details.
   - The Rs 2,12,700 is the police valuation of the ganja alone, not a court-assessed or independently verified market value.
+  - Krushival reused a January 2025 crime stock image, so no photo of this bathroom ganja seizure is listed.
 ---
 
 Panvel city police arrested Siddharth Ramdas More, 41, after raiding a flat in

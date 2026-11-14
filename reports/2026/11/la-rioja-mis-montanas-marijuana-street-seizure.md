@@ -40,6 +40,14 @@ sources:
     publisher: Fenix 951
     date: 2026-11-12
     language: es
+media:
+  - kind: photo
+    url: https://www.tiempopopular.com.ar/2026/11/12/la-policia-federal-secuestro-marihuana-durante-un-operativo-preventivo-en-nuestra-provincia/
+    media_url: https://www.tiempopopular.com.ar/wp-content/uploads/2026/11/F49.jpg
+    publisher: Tiempo Popular (Medios Provincia)
+    caption: Federal Police officers at the Mis Montañas street stop where marijuana was seized from a man near schools.
+open_questions:
+  - No weight or packaging count for the seized marijuana was published.
 ---
 
 Street officers of the La Rioja federal operational division were conducting a

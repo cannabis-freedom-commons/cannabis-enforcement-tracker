@@ -46,6 +46,12 @@ sources:
     publisher: Sorejominbarta
     date: 2026-11-12
     language: bn
+media:
+  - kind: photo
+    url: https://www.sorejominbarta.com/country/article/66676
+    media_url: https://www.sorejominbarta.com/public/uploads/2026-11/IMG-20261112-WA0031_original_1794480310.webp
+    publisher: Sorejominbarta
+    caption: Detective Branch officers with two arrested men and five taped bundles labelled as 12 kg of ganja seized with a motorcycle in Brahmanbaria.
 open_questions:
     - No estimated value, packaging description or laboratory confirmation for the 12 kg of ganja was published.
     - No case number, charge sections or court outcome were reported; the account says only that further legal action was pending.

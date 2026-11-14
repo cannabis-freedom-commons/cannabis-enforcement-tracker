@@ -25,6 +25,12 @@ sources:
     publisher: El Heraldo de Aguascalientes
     date: 2026-11-12
     language: es
+media:
+  - kind: photo
+    url: https://www.heraldo.mx/apestaban-a-marihuana-terminaron-detenidos/
+    media_url: https://www.heraldo.mx/wp-content/uploads/2026/11/Apestaban-a-marihuana-terminaron-detenidos-2.jpg
+    publisher: El Heraldo de Aguascalientes
+    caption: Identification photographs of the two men detained in Lomas de Vistabella, published with the arrest report.
 open_questions:
   - No separate date is given for the arrest; 12 November 2026 is the article's publication date and is used as the incident date.
   - The article gives no weight for the 14 bags of suspected marijuana or the 12 packets of granular substance.

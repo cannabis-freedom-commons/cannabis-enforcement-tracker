@@ -27,6 +27,12 @@ sources:
     publisher: Dame Noticias
     date: 2026-11-12
     language: es
+media:
+  - kind: photo
+    url: https://www.damenoticias.com/nota/659536-pocito-bajo-investigacion-desarticularon-un-kiosco-narco-y-secuestraron-distintas-drogas
+    media_url: https://media.sanjuan8.com/p/8d05fecdbfd0d89593c8b823fd48dcff/adjuntos/303/imagenes/009/847/0009847957/1200x0/smart/desbarataron-un-kiosco-narco-pocito-cocaina-y-drogas-psicoactivas.png
+    publisher: Dame Noticias
+    caption: Items seized at the Pocito kiosco narco, including cannabis leaves in a jar, phones and other drugs on a table.
 open_questions:
   - No weight or value was given for the cocaine, marijuana or the one Cannabis sativa plant; only the dose count and the single plant are recorded.
   - The cocaine doses are a non-cannabis substance and are excluded from the cannabis figures.

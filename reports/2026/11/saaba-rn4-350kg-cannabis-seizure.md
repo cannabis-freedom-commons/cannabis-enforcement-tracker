@@ -57,6 +57,7 @@ open_questions:
   - It is not reported whether anyone besides the main suspect was arrested, or whether the tricycle was confiscated.
   - The published accounts reproduce one National Police statement, so they are not independent measurements of the weight.
   - No value was given for the cannabis.
+  - leFaso.net only served a 90-pixel thumbnail of the police photo, with no usable full-size image recovered, so no photo is listed.
 ---
 
 Officers of Burkina Faso's National Police seized about 350 kilograms of

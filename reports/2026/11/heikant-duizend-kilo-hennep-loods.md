@@ -24,6 +24,7 @@ open_questions:
   - The police say just over a thousand kg of cannabis was seized but did not publish an exact figure.
   - No amount of cash, number or kind of data media, or any count of plants was published.
   - No further arrests, charges or court outcome have been reported yet.
+  - Politie.nl used a Limburg stockfotos-eenheden handout of an officer with a cannabis bag, so no photo of this Heikant warehouse seizure is listed.
 ---
 
 In a warehouse in Heikant officers found just over a thousand kilograms of

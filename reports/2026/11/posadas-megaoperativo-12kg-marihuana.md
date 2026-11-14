@@ -47,6 +47,12 @@ sources:
     publisher: Primero Misiones
     date: 2026-11-13
     language: es
+media:
+  - kind: photo
+    url: https://www.noticiasdelacalle.com.ar/noticias/2026/11/13/207248-una-alerta-anonima-permitio-secuestrar-mas-de-12-kilos-de-marihuana-en-posadas
+    media_url: https://noticiasdelacalle-s3.cdn.net.ar/s3i233/2026/11/noticiasdelacalle/images/02/85/84/2858439_8a252fb495968f7d2499c29120b1bef24dccec4fe2a73522c08b24866a540fcf/lg.webp
+    publisher: Diario Noticias De La Calle de Misiones
+    caption: Numbered marijuana packages laid out before a Policía de Misiones Dangerous Drugs Division sign after the Posadas seizure.
 open_questions:
   - No arrests were reported in connection with the 12.535 kg marijuana seizure; the investigation into its origin and the responsible parties was still ongoing.
   - 'Posadas: una alerta anónima permitió secuestrar más de 12 kilos de marihuana (Primero Misiones) could not be opened again to check its quotations (access challenge: Cloudflare blocked access to the article; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.'

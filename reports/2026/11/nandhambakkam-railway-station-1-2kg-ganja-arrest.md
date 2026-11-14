@@ -44,6 +44,7 @@ sources:
     date: 2026-11-12
     language: ta
 open_questions:
+  - Dinamani used an ANI January 2025 arrest file photo, so no photo of this Nandhambakkam seizure is listed.
   - The incident date is not explicitly stated in the article; 12 November 2026 is its publication date and is used as the incident date.
   - No charges, custody remand or court outcome beyond the arrest were reported.
   - The account rests on a single syndicated Dinamani report (ANI), which does not name the specific police unit.

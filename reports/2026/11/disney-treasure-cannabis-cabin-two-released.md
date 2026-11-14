@@ -32,6 +32,7 @@ sources:
     publisher: BVI News
     date: 2026-11-12
 open_questions:
+  - BVI News reused a November 2024 screenshot as its page image, so no photo of this cruise cannabis case is listed.
   - The article gives no date for the incident; 12 November 2026 is its publication date and is used as the incident date.
   - No figure for the quantity of cannabis seized was published.
   - The passengers are not named; the woman is described only as a practising physician whose home state is Florida.

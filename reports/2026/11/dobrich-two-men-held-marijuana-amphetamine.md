@@ -55,6 +55,22 @@ sources:
     publisher: 24chasa.bg
     date: 2026-11-13
     language: bg
+media:
+  - kind: photo
+    url: https://pronewsdobrich.bg/spetsaktsiya-v-dobrich-zadarzhaha-dvama-mazhe-s-nad-23-grama-marihuana-i-amfetamin-p732914
+    media_url: https://pronewsdobrich.bg/i/2026/11/13/720094.jpg
+    publisher: Про Нюз Добрич
+    caption: Foil wraps seized in the Dobrich operation, including one opened to show green plant material.
+  - kind: photo
+    url: https://pronewsdobrich.bg/spetsaktsiya-v-dobrich-zadarzhaha-dvama-mazhe-s-nad-23-grama-marihuana-i-amfetamin-p732914
+    media_url: https://pronewsdobrich.bg/i/2026/11/13/720095.jpg
+    publisher: Про Нюз Добрич
+    caption: Further foil wraps from the Dobrich search laid out on a dark fabric surface.
+  - kind: photo
+    url: https://pronewsdobrich.bg/spetsaktsiya-v-dobrich-zadarzhaha-dvama-mazhe-s-nad-23-grama-marihuana-i-amfetamin-p732914
+    media_url: https://pronewsdobrich.bg/i/2026/11/13/720096.jpg
+    publisher: Про Нюз Добрич
+    caption: Small bags of white powder seized with the marijuana in the Dobrich operation, laid out on a vehicle seat.
 ---
 
 Two men known to the interior authorities were detained in Dobrich during a

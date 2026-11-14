@@ -56,6 +56,7 @@ sources:
 open_questions:
     - The exact calendar date of the Thursday-night raid is not stated; 12 November 2026 is inferred from the Friday-evening press conference and 13 November 2026 publication.
     - No court appearance, remand or sentence outcome beyond registration of the NDPS case was reported.
+    - Dainik Bhaskar published only a press-conference photo of officers at a Bihar Police Janata Darbar, with no picture of the seized ganja, so no photo is listed.
 ---
 
 Police in the Amarpur police-station area of Banka district, Bihar, seized 145

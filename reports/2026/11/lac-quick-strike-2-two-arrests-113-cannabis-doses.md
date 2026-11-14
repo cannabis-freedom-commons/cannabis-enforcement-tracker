@@ -24,6 +24,12 @@ sources:
     url: http://pamfleti.net/english/kronike/shisnin--prane-shkollave-arrestohen-dy-persona-ne-lac-i-sekuestrohe-i361782
     publisher: Pamfleti
     date: 2026-11-12
+media:
+  - kind: photo
+    url: https://www.balkanweb.com/en/video-selling-drugs-near-schools-in-lac--two-people-arrested--126-doses-of-cocaine-and-cannabis-seized--drone-footage-from-the-operation/
+    media_url: https://www.balkanweb.com/wp-content/uploads/2026/11/Capture-137.jpg
+    publisher: BalkanWeb
+    caption: Lezhë police display of packaged cannabis doses and white wraps seized in the Laç Quick Strike 2 operation.
 open_questions:
   - No weight was published for the suspected cannabis or cocaine, only dose counts, so no kilograms can be recorded.
   - The articles give no separate date for the arrests or searches; 12 November 2026 is the publication date and is used as the incident date.

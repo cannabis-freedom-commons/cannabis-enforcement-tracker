@@ -59,6 +59,7 @@ open_questions:
   - No charges, plea or court outcome was reported; the fast-track procedure was still under way when the accounts were published.
   - The minor is described as already having a criminal record; no details are given.
   - The Anons.bg account states the 8 g cannabis figure and a white crystalline substance that tested positive for methamphetamine but gives no methamphetamine weight, while the report's existing sources state 3 grams of methamphetamine; the figures are kept as published. The only image on the page is a 2024 stock police photo (Булфото, архив), not a photo of this event.
+  - Faragency and Flagman illustrate the story with stock images (generic cannabis plants with a news watermark; cropped handcuffed figure in pink trousers), not photos of this detention, so they are not listed as media.
 ---
 
 A 15-year-old girl from Dabnik village near Pomorie was detained on 12 November

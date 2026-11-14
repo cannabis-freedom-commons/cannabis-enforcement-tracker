@@ -66,6 +66,12 @@ sources:
     publisher: La Provincia di Fermo
     date: 2026-11-12
     language: it
+media:
+  - kind: photo
+    url: https://www.laprovinciadifermo.com/falerone-arrestata-una-41enne-in-casa-oltre-160-grammi-di-droga-e-93-banconote-false/
+    media_url: https://www.laprovinciadifermo.com/wp-content/uploads/2026/11/droga-carabinieri-falerone.jpeg
+    publisher: La Provincia di Fermo
+    caption: Carabinieri Fermo display of the marijuana, hashish packages, scales, phones and cash seized in the Falerone flat.
 open_questions:
   - The accounts give no separate date for the operation; 12 November 2026 is the publication date of the reports and is used as the incident date.
   - Cronache Fermane describes the woman as about 40 years old while ANSA, Vivere Fermo and La Provincia di Fermo give her age as 41.

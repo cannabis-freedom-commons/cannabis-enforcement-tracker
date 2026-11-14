@@ -41,6 +41,12 @@ sources:
     publisher: AIMA MEDIA
     date: 2026-11-01
     language: hi
+media:
+  - kind: photo
+    url: https://aimamedia.org/newsdetails.aspx?nid=838205
+    media_url: https://aimamedia.org/fotos/aimanewsphoto1/64d61c0e-2068-469c-af94-c5bf824c5748.webp
+    publisher: AIMA MEDIA
+    caption: Wrapped ganja package with seals photographed with the report on the Gohalpur seizure.
 open_questions:
   - Only one source with usable article text could be opened; a second search result for the same Gohalpur action yielded no readable article text.
   - The report uses 1 November 2026 both as the event date stated in the article and as the article's publication date.

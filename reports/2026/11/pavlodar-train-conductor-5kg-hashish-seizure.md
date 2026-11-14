@@ -52,6 +52,7 @@ open_questions:
   - The 18 million tenge figure is a preliminary black-market estimate from the department.
   - No court outcome or further arrests were reported.
   - The whole account rests on one Transport Police Department statement.
+  - Lifepvl used a Gemini AI illustration of a train compartment, so no photo of this seizure is listed.
 ---
 
 Officers of Kazakhstan Interior Ministry's Transport Police Department detained

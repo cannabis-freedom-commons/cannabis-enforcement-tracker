@@ -48,6 +48,12 @@ sources:
     publisher: Coatza Noticias
     date: 2026-11-12
     language: es
+media:
+  - kind: photo
+    url: https://heraldodecoatzacoalcos.com.mx/policiaca/116939-detenidos-con-presunta-droga.html
+    media_url: https://heraldodecoatzacoalcos.com.mx/images/2026/011Noviembre/013/15b.jpg
+    publisher: El Heraldo de Coatzacoalcos
+    caption: One of the men detained in Coatzacoalcos, photographed against the Veracruz multi-agency prosecutor backdrop.
 open_questions:
   - No weight or count was published for the suspected marijuana baggies or wrappers.
   - The reports do not name the two detained men or state any formal charges.

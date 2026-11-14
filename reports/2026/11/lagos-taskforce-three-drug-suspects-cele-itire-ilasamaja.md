@@ -43,6 +43,7 @@ open_questions:
   - No separate quantity or type was given for 'Colorado' or 'Indian hemp', so no weight or value figure is recorded.
   - 'Left out, as its quotation was not found in Punch Newspapers: The operation was carried out in the early hours of Thursday and was led by the agency''s chairman Adetayo Akerele.'
   - 'Left out, as its quotation was not found in Punch Newspapers: The taskforce chairman commended residents and a whistleblower in Itire for providing information that supported the operation.'
+  - Punch used a June 2026 file photo, so no photo of this Lagos task-force raid is listed.
 ---
 
 The Lagos State Taskforce arrested three suspected drug peddlers during an

@@ -41,6 +41,12 @@ sources:
     publisher: El Rancagüino
     date: 2026-11-12
     language: es
+media:
+  - kind: photo
+    url: https://www.elrancaguino.cl/2026/11/12/coltauco-detenido-por-mantener-en-su-poder-pistola-con-municiones-y-marihuana/
+    media_url: https://www.elrancaguino.cl/wp-content/uploads/2026/11/detenidos-coltauco-1.jpg
+    publisher: El Rancagüino
+    caption: 'Pistol and loaded magazine displayed as evidence by Carabineros Tenencia Coltauco from the Los Almendros vehicle check that also found marijuana.'
 open_questions:
   - The article gives no separate date for the car check; 12 November 2026 is its publication date and is used as the incident date.
   - The marijuana amount found in the car was not published.

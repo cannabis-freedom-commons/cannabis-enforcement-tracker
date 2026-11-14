@@ -63,6 +63,7 @@ open_questions:
   - The revolver's origin and any prior use were still under investigation when the reports were published.
   - The reports name the accusations but no formal indictment is stated, so no charged figure is recorded.
   - All three accounts reproduce the same police statement, so they are not independent reporting of the arrests.
+  - PalermoToday used a Falchi/Squadra Mobile motorcycle file photo, so no photo of this Cala seizure is listed.
 ---
 
 Palermo mobile-squad officers arrested two cousins from Palermo, Salvatore

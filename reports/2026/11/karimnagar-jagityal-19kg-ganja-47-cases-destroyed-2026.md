@@ -39,6 +39,12 @@ sources:
     publisher: Disha Daily
     date: 2026-11-13
     language: te
+media:
+  - kind: photo
+    url: https://www.dishadaily.com/telangana/karimnagar/cannabis-worth-rs-950-lakh-destroyed-by-burning-600778
+    media_url: https://www.dishadaily.com/h-upload/2026/11/13/614640-saaaa.webp
+    publisher: Disha Daily
+    caption: Karimnagar district officers with a red-wrapped package on a digital scale during the Jagityal ganja disposal.
 open_questions:
   - The article gives no separate date for the burn; 13 November 2026 is its publication date and is used as the incident date.
 ---

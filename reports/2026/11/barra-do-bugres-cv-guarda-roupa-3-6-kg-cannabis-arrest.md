@@ -50,11 +50,19 @@ sources:
     publisher: Click Nova Olímpia
     date: 2026-11-13
     language: pt
+media:
+  - kind: photo
+    url: https://clicknovaolimpia.com.br/acontecimentos/guarda-roupa-do-cv-e-preso-com-36-kg-de-maconha-em-barra-do-bugres/
+    media_url: https://clicknovaolimpia.com.br/wp-content/uploads/2026/11/foto-135.jpg
+    publisher: Click Nova Olímpia
+    caption: >-
+      Four taped cannabis bricks, two scales, three phones and a Polícia Militar
+      de Mato Grosso Cavalaria display from the Barra do Bugres arrest, as
+      published with the report.
 open_questions:
   - The suspect was not named and no criminal record or custody decision was reported; the case was at the investigation stage.
   - The 'guarda-roupa' role and Comando Vermelho membership are the suspect's own spontaneous statement as reported by the Military Police, not independently established.
   - Only two outlet accounts, both drawing on the same Gazette Digital wire report, could be opened; no separate agency statement was found.
-  - The page photo is credited only as 'Reprodução' with no caption or agency credit, so it is not confirmed to show this seizure and is not listed as media.
 ---
 
 A 19-year-old 'guarda-roupa' for the Comando Vermelho criminal faction was

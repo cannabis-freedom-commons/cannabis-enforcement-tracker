@@ -44,6 +44,7 @@ open_questions:
   - No one was arrested; the source names no charges, court or ownership beyond the ongoing investigation.
   - The Rs 9.29 lakh figure is a police estimate that combines the ganja and the 249 Eskuf cough syrup bottles; no separate value was published for either item.
   - No figure was published for the weight or volume of the 249 Eskuf bottles.
+  - Tripura Chronicle used only its outlet logo as the page image, so no photo of this seizure is listed.
 ---
 
 Sonamura police seized 14 kg of dry ganja, the local name for cannabis, and 249

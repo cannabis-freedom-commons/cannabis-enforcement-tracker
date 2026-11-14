@@ -74,6 +74,12 @@ sources:
     publisher: TrentoToday
     date: 2026-11-13
     language: it
+media:
+  - kind: photo
+    url: https://www.suedtirolnews.it/chronik/drogenfund-in-sand-in-taufers
+    media_url: https://media.stncdn.it/960x720/2026/11/screenshot-2026-11-13-095244.png
+    publisher: Südtirol News
+    caption: Carabinieri display of the marijuana and hashish bags and calculator seized in Sand in Taufers, with a Carabinieri hat and stop paddle.
 ---
 
 A 29-year-old Italian man was reported at liberty in Sand in Taufers (Campo

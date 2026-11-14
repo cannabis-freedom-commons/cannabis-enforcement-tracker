@@ -35,6 +35,7 @@ open_questions:
   - The article gives no separate date for the crash; 12 November 2026 is its publication date.
   - No custody, court date or court outcome beyond the charges was reported.
   - Only one short account of this event could be opened, so several details remain unknown.
+  - The Sudbury Star used a generic OPP cruiser-lights file photo from 2022, so no photo of this crash is listed.
 ---
 
 A Sudbury man is facing charges after a single-vehicle crash on Highway 69 in

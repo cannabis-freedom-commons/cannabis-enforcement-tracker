@@ -51,6 +51,8 @@ sources:
     publisher: XNEWS
     date: 2026-11-13
     language: bg
+open_questions:
+  - Haskovo.Net labelled its barrel photo illustrative (снимката е илюстративна), and XNEWS used a traffic-police file picture, so no photo of this seizure is listed.
 ---
 
 The Haskovo regional police directorate said criminal investigators from its

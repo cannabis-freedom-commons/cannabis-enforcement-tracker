@@ -42,6 +42,15 @@ sources:
     publisher: Imprensa 24h
     date: 2026-11-12
     language: pt
+media:
+  - kind: photo
+    url: https://a8se.com/noticias/policia/2026/11/12/246514-mais-de-10-quilos-de-maconha-sao-apreeendidos-no-bairro-santos-dumont-em-aracaju
+    media_url: https://cdn.a8se.com/images/6ecaa/94099dcde1cbf69dcaf31c7dada9798e84b.png
+    publisher: A8 Sergipe
+    caption: >-
+      Seized red-wrapped bricks and loose plant material on a scale reading
+      10.86 kg, with a Getam patch and Polícia Militar insignia, as published
+      with the Santos Dumont seizure report.
 open_questions:
   - No charge, custody decision or court outcome beyond the flagrante arrest was reported; the case was at the investigation stage.
   - The substance was described as suspected marijuana ("substância análoga à maconha"); no laboratory confirmation was reported.

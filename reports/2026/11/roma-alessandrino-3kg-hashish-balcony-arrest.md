@@ -66,6 +66,7 @@ open_questions:
   - No street value for the hashish and no sum of money were reported.
   - No court date or further prosecution step was reported; the case was still at the preliminary investigation stage.
   - All three accounts reproduce the same Rome police headquarters press release.
+  - Outlets published only a Polizia K9 file photo, with no picture of the hashish or balcony throw, so no photo of this seizure is listed.
 ---
 
 A 30-year-old man from Rome was arrested in the Alessandrino district after he

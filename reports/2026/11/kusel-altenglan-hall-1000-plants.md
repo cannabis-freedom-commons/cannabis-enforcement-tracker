@@ -53,6 +53,7 @@ sources:
     language: de
 open_questions:
   - Only a lower bound of more than 1,000 plants was published; no exact plant count, weight, area or value was given.
+  - lokalo.de reused an October 2026 grow-room file photo (cannabisplantage-kusel.jpg), so no photo of this 12 November raid is listed.
   - The exact location of the hall within Verbandsgemeinde Kusel-Altenglan was not disclosed.
   - The suspect's alleged role in operating the plantation and whether other people were involved are not known.
   - No charges, court outcome or further investigation results beyond the pre-trial detention order were reported.

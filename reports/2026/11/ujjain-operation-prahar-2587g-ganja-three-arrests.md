@@ -45,6 +45,14 @@ sources:
     publisher: AV News
     date: 2026-11-12
     language: hi
+media:
+  - kind: photo
+    url: https://avnews.in/operation-prahar-3-accused-caught-with-cannabis/
+    media_url: https://avnews.in/wp-content/uploads/2026/11/PRAHAR.jpg
+    publisher: AV News
+    caption: >-
+      Ujjain police present a seated detainee holding a seized sack during
+      Operation Prahar, as published with the three-arrest report.
 open_questions:
   - The article gives no separate date for the three stops; 12 November 2026, its publication date, is used as the incident date.
   - No second account or police statement for the three arrests was found, so the account rests on the single AV News report.

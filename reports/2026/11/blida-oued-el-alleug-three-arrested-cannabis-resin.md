@@ -43,6 +43,12 @@ sources:
     publisher: La patrie news
     date: 2026-11-12
     language: fr
+media:
+  - kind: photo
+    url: https://lapatrienews.dz/blida-trois-dealers-arretes-a-oued-el-alleug/
+    media_url: https://cdn.lapatrienews.dz/wp-content/uploads/2026/11/902391578_1660291715839288_8399471611497240939_n.jpg
+    publisher: La patrie news
+    caption: 'Police display in Blida of the three handcuffed suspects with the knives, cash and seized drugs, including a block of cannabis resin, labelled for the Oued El Alleug mobile judicial-police brigade.'
 open_questions:
   - No separate date is given for the raid, which happened during the week; 12 November 2026 is the publication date and stands in for the incident date.
   - No weight or count was given for the psychotropic substances, so no figure is recorded for them.

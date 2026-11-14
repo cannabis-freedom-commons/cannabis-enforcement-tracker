@@ -47,10 +47,15 @@ sources:
     publisher: Paislobo Prensa
     date: 2026-11-13
     language: es
+media:
+  - kind: photo
+    url: https://www.paislobo.cl/2026/11/detienen-joven-con-54-dosis-de-resina.html
+    media_url: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsr9AWOAroIkJZvuJ3l2OEYBle-KLF6J0SD7Qtrjwc2BbOdODEuIoU5DzyBU1B6QoP3OotEiZvhOsEtLQYAZ-cU3f0PeGVmHqJs7vqg4x-solqpRNJ9moscNEuFqJyvjNmSUr4mgWGKJuJw6yrSjgA9xvyMgyHrWsbv7InKClXdInQ_xN8jnFsOxiSA2o/s1600/PL_Prensa_01.jpg
+    publisher: Paislobo Prensa
+    caption: PDI Puerto Montt evidence display of cannabis resin cartridge boxes and vials labelled under Modelo Territorial Cero.
 open_questions:
   - The detained man's name was not published in the source opened.
   - No result of the Friday 13 November control de detención hearing was reported.
-  - The article carries no caption or credit for its one photo, so it could not be confirmed to show the seizure and was left out of the media list.
 ---
 
 On 12 November 2026 detectives of the Modelo Territorial Cero team of PDI's

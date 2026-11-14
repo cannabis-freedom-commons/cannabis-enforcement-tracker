@@ -56,6 +56,12 @@ sources:
     url: https://www.deccanchronicle.com/southern-states/telangana/2-arrested-in-suryapet-ganja-smuggling-case-2004186
     publisher: Deccan Chronicle
     date: 2026-11-13
+media:
+  - kind: photo
+    url: https://www.dishadaily.com/telugunews/an-iron-fisted-crackdown-on-the-illegal-trafficking-of-ganja-600669
+    media_url: https://www.dishadaily.com/h-upload/2026/11/13/614527-untitled-1.webp
+    publisher: Disha Daily
+    caption: Suryapet district police with two hooded suspects and the four bags of seized ganja at a press conference.
 open_questions:
     - The names and ages of the three absconding members and the court charges were not reported.
     - No laboratory confirmation of the seized material was reported.
