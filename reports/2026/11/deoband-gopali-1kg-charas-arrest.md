@@ -50,6 +50,11 @@ sources:
     publisher: Shehri Chaupal News
     date: 2026-11-12
     language: hi
+  - title: Deoband Crime News | Man Arrested With Charas In Saharanpur
+    url: https://www.bhaskar.com/local/uttar-pradesh/saharanpur/deoband/news/deoband-police-arrest-man-with-charas-ndps-act-case-saharanpur-139676821.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-13
+    language: hi
 open_questions:
   - One account dates the check to 11 November and does not restate the year; 2026 is the year both reports were published. The other account gives no separate day.
   - No estimated value of the seized charas was published.
@@ -59,7 +64,7 @@ open_questions:
 
 Deoband police arrested Kafeel, a resident of Phulas Akbarpur village in the
 Deoband police-station area of Saharanpur district, during a check of suspicious
-people and vehicles at the Gopali outpost. [@1] Police identified him as the son
+people and vehicles at the Gopali outpost. [@1,3] Police identified him as the son
 of Ziaul Haq, also known as Khankah. [@1] The patrol and check took place on 11
 November 2026. [@2] Deoband police made the arrest during a check under
 Operation Savera, a campaign against the illegal drug trade. [@2] Police said
@@ -71,14 +76,13 @@ Superintendent of Police (Rural) and the Circle Officer, Deoband, supervised it.
 on patrol and checking. [@1]
 
 A body search found 1 kilogram of illegal charas, cannabis resin, which officers
-seized, and they arrested him at once. [@1] Police registered crime number
+seized, and they arrested him at once. [@1,3] Police registered crime number
 767/2026 at Deoband police station under sections 8/20 of the NDPS Act, the
 Narcotic Drugs and Psychotropic Substances Act. [@1] They said further legal
-action was under way and that they were producing him before the court. [@1]
+action was under way and that they were producing him before the court. [@1,3]
 
 The team also included sub-inspectors Anand Kumar and Bunty Kumar, head
 constable Sachin Kumar, and constables Gaurav Tyagi and Amit Kumar. [@2] Police
 said Kafeel already had a 2025 case at the same station under the cow-slaughter
 law, the animal-cruelty law, the Arms Act and related provisions of the
 Bharatiya Nyaya Sanhita. [@2]
-
