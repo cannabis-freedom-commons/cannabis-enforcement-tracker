@@ -53,29 +53,31 @@ sources:
     publisher: InfoNortePY
     date: 2026-11-13
     language: es
+  - title: Operación Nueva Alianza 59 culmina con más de 300 toneladas de marihuana destruidas en Amambay y Canindeyú
+    url: https://nanduti.com.py/operacion-nueva-alianza-59-culmina-con-mas-de-300-toneladas-de-marihuana-destruidas-en-amambay-y-canindeyu
+    publisher: Ñanduti
+    date: 2026-11-13
+    language: es
 open_questions:
-  - No arrests or court outcome are reported for phase 59; only the agencies' eradication and destruction balance is published.
-  - The 'about 308 tonnes' figure is the SENAD's official balance combining the 54,825 kg of processed cannabis destroyed with the estimated potential yield of the eradicated crops, not a measured weight.
-  - Hectares are reported as 'almost 85 hectares' by ADN Digital (84.5 hectares in the second account); 85 is used here and both figures are noted.
-  - The 965 kg of cannabis seeds and the 68 camps destroyed are reported as destruction counts but are not carried as structured figures.
-  - Both opened accounts rest on the agencies' official SENAD balance for phase 59; no independent weighing or field confirmation is reported.
-  - Left out activity, as its quotation was not found in InfoNortePY.
-  - Left out agencies, as its quotation was not found in InfoNortePY.
-  - Left out agency types, as its quotation was not found in InfoNortePY.
+    - No arrests or court outcome are reported for phase 59; only the agencies' eradication and destruction balance is published.
+    - The 'about 308 tonnes' figure is the SENAD's official balance combining the 54,825 kg of processed cannabis destroyed with the estimated potential yield of the eradicated crops, not a measured weight.
+    - Hectares are reported as 'almost 85 hectares' by ADN Digital (84.5 hectares in the second account); 85 is used here and both figures are noted.
+    - The 965 kg of cannabis seeds and the 68 camps destroyed are reported as destruction counts but are not carried as structured figures.
+    - Both opened accounts rest on the agencies' official SENAD balance for phase 59; no independent weighing or field confirmation is reported.
 ---
 
 Paraguay's Senad, with Brazil's Federal Police, finished phase 59 of Operation
 Nueva Alianza (Operación Nueva Alianza 59) on 12 November 2026, after ten days
-of joint action in the Amambay and Canindeyú departments. [@1] The ten-day
+of joint action in the Amambay and Canindeyú departments. [@1,3] The ten-day
 operation ran from 3 to 12 November, with Paraguay's National Anti-Drug
 Secretariat (Senad), the Internal Defence Operations Command (CODI), the
 Paraguayan Air Force and the Public Ministry, supported by Brazil's Federal
-Police. [@1]
+Police. [@1,3]
 
 Senad's report said the action caused an estimated USD 46.2 million in economic
 damage to the criminal organisations, and that, beyond the eradicated
 plantations, 68 camps, 965 kg of cannabis seeds and 54,825 kg of cannabis ready
-for sale were destroyed. [@1] The interventions eradicated 84.5 hectares of
+for sale were destroyed. [@1,3] The interventions eradicated 84.5 hectares of
 marijuana plantations and dismantled 68 clandestine camps used by the criminal
 structures. [@2] According to SENAD's official balance, counting the processed
 drug found during the operations and the production potential of the eradicated
@@ -83,7 +85,6 @@ plantations, an estimated 308.3 tonnes of marijuana were removed from the
 regional market. [@2]
 
 The final day of the operation was carried out in the settlement of Pacola, in
-the Karapái district, where the close of the interventions was confirmed. [@1]
+the Karapái district, where the close of the interventions was confirmed. [@1,3]
 The operation is part of the series of joint actions called Nueva Alianza, aimed
-at hitting marijuana production centres in the border area. [@1]
-
+at hitting marijuana production centres in the border area. [@1,3]
