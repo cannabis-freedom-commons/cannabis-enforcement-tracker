@@ -77,33 +77,29 @@ sources:
     publisher: G1
     date: 2026-11-12
     language: pt
-open_questions:
-  - 'The total weight of cannabis is reported differently: the police statement gives more than 577 kilograms net plus about 10 kilograms gross, while JCNET''s headline gives 587 kilograms, which is the figure recorded here.'
-  - No arrests, charges or names were published for the farm search, and the accounts do not say what happened to the caretaker who received the officers.
-  - No laboratory confirmation of the seized plant material, no value estimate and no breakdown between mature plants and seedlings among the about 5,500 was published.
-  - The sources describe the seized material only as plant material, without saying how much of it was dried and ready for sale.
-  - The two accounts follow the same Civil Police statement, so they are not independent of each other.
-  - Itatinga coordinates are the locality centre, since the farm's exact location was not published.
-  - The earlier phases of Operação Green Veil are separate events and are not covered in this report.
-  - The association-front account remains a police suspicion, not a court finding, with no detail on the association's actual activity.
+  - title: Operação policial localiza plantação com 5,5 mil pés de maconha em fazenda de Itatinga
+    url: https://www.alphanoticias.com.br/operacao-policial-localiza-plantacao-com-55-mil-pes-de-maconha-em-fazenda-de-itatinga/
+    publisher: Alpha Notícias
+    date: 2026-11-13
+    language: pt
 ---
 
 São Paulo Civil Police found a cannabis growing structure holding more than half
 a tonne of marijuana on a farm in Itatinga on the morning of Wednesday 11
 November 2026. [@1,3] The action was the third phase of Operação Green Veil and
-was carried out under a judicial search and seizure warrant. [@1,3] The association's headquarters is in the São Paulo capital, and its president had already been arrested during the second phase of the operation. [@4] Civil police suspected the farm was part of a scheme in which the people involved used the front of an association serving patients who rely on cannabis-based medicines to divert production into drug trafficking. [@4]
+was carried out under a judicial search and seizure warrant. [@1,3] The association's headquarters is in the São Paulo capital, and its president had already been arrested during the second phase of the operation. [@4,5] Civil police suspected the farm was part of a scheme in which the people involved used the front of an association serving patients who rely on cannabis-based medicines to divert production into drug trafficking. [@4,5]
 
 The team was met by the farm's caretaker, who stayed with the officers during
 the search. [@1,3] Officers found six greenhouses for growing the drug and a
 nursery with seedlings of the same plant, as well as areas for drying,
-processing and storing it. [@1,3,4]
+processing and storing it. [@1,3,4,5]
 
-Police identified about 5,500 plants and seedlings. [@1,3] They seized 89 packages
+Police identified about 5,500 plants and seedlings. [@1,3,5] They seized 89 packages
 holding more than 577 kilograms of plant material by net weight, plus two
-further packages weighing about 10 kilograms gross. [@1,3] JCNET reported the
+further packages weighing about 10 kilograms gross. [@1,3,5] JCNET reported the
 total as 587 kilograms of marijuana. [@2] Forensic officers took seven samples
-of the plantations for examination at the Instituto de Criminalística. [@1,3]
+of the plantations for examination at the Instituto de Criminalística. [@1,3,5]
 
 The plants in the greenhouses and the nursery were destroyed by incineration
-after the work on the property. [@1,3,4] JCNET reported that the case remained under
+after the work on the property. [@1,3,4,5] JCNET reported that the case remained under
 investigation. [@2] The case was registered at the 6th Police District of Cambuci in São Paulo, where the investigation continues to identify other people involved. [@4]
