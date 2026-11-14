@@ -45,6 +45,11 @@ sources:
     publisher: Politica7.it
     date: 2026-11-13
     language: it
+  - title: 'Droga in casa: sequestrati 30 grammi di marijuana e materiale per il confezionamento'
+    url: https://www.ciociariaoggi.it/gallery/cronaca/319859/droga-in-casa-sequestrati-30-grammi-di-marijuana-e-materiale-per-il-confezionamento.html
+    publisher: Ciociaria Oggi
+    date: 2026-11-13
+    language: it
 open_questions:
   - The article gives no separate calendar date for the operation; 12 November 2026 is inferred from its statement that it took place in the afternoon of the day before its 13 November 2026 publication.
   - The marijuana amount is reported as approximately thirty grams, not an exact measured weight.
@@ -54,7 +59,7 @@ open_questions:
 ---
 
 Carabinieri of the Fiuggi station reported a local man at liberty after a road
-check in Fiuggi developed into a home search. [@1] The man was already known to
+check in Fiuggi developed into a home search. [@1,2] The man was already known to
 law enforcement because of previous judicial and police matters. [@1]
 Investigators said field checks clarified his alleged unlawful possession of
 drugs intended for sale. [@1]
@@ -70,3 +75,4 @@ roadside check produced the suspicion that led to the search. [@1] The account
 presents the episode as part of constant local attention against widespread
 illegality and drug dealing in the area. [@1]
 
+The home search found 30 grams of marijuana inflorescences, two precision electronic scales, a pack of sodium bicarbonate considered usable as a cutting agent, and material for packaging doses. [@2] The road check took place on via Vecchia, around midday, during a territorial-control service. [@2]
