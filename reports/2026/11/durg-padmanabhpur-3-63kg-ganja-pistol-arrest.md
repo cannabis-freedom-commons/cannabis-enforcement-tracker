@@ -56,6 +56,11 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/11/12/whatsapp_image_2026-11-12_at_6_17_22_pm_1794487673775.jpeg
     publisher: Dainik Bhaskar
     caption: Photo captioned by Dainik Bhaskar as police producing the arrested accused in court.
+  - kind: photo
+    url: https://rajexpress.com/chhattisgarh-news/durg-heroin-ganja-smuggling-four-arrested-illegal-drug-trade-police-action-cg-hindi-news
+    media_url: https://rajexpress.com/cdn-cgi/image/width=1080,quality=75,format=auto,onerror=redirect/https://storage.googleapis.com/raj-express-raw-media/raj-express-production/images/a0bc67c3-2bf4-4bdc-b7af-6c79d83385dd.webp
+    publisher: Raj Express
+    caption: Lead photo published by Raj Express with its report on the two Durg drug actions, captioned as police arresting four accused with heroin and ganja in separate operations.
 status: verified
 created_by_model: marketplace/dealignai/deepseek-v4.1-flash-uncensored-fp8#max
 submission: 05beb49c87897d64b5659fe0aba7725e
@@ -76,30 +81,26 @@ sources:
     publisher: Naya Bharat Live
     date: 2026-11-13
     language: hi
-open_questions:
-  - The ganja weight is the police-recorded weight of material described as ganja, with no laboratory confirmation reported.
-  - The tip, cordon and recovery are dated 11 November, while both accounts say the arrest was recorded and the suspect produced in court on 12 November; 11 November is used as the incident date.
-  - The 1,80,000-rupee figure is the police estimate for the ganja alone; the 2,27,500-rupee total also includes the pistol, cash and scooter.
-  - The pistol's make and whether it was licensed were not reported.
-  - No court outcome beyond the judicial remand, and no charge sheet or trial date, was reported.
-  - Where the ganja came from and whether anyone else was involved were not reported.
-  - Both accounts closely follow the same Padmanabhpur police statement, and neither page photograph carries a credit.
-  - The exact spot under the Urla dam bridge is named but no address is given, so the coordinates are for Padmanabhpur locality.
+  - title: दुर्ग में हेरोइन-गांजा तस्करी का खुलासा, 4 आरोपी गिरफ्तार; पिस्टल भी बरामद
+    url: https://rajexpress.com/chhattisgarh-news/durg-heroin-ganja-smuggling-four-arrested-illegal-drug-trade-police-action-cg-hindi-news
+    publisher: Raj Express
+    date: 2026-11-13
+    language: hi
 ---
 
 Padmanabhpur police arrested a 26-year-old man after a tip that a youth was
 moving about near the railway crossing under the Urla dam bridge to sell ganja.
-[@1,3] Police named him Suryadev Kothari, alias Gopa, 26, a resident of
-Kundrapapara, Potiyakala, Durg. [@1,3] On searching him, officers found 3 kg 630 g
-of ganja in a white sack. [@1,3] Police estimated the ganja at about ₹1,80,000.
-[@1] The search also turned up a pistol with a magazine and ₹17,500 in cash.
-[@1,3] Police seized a scooter, registration CG07BY5096, that they said was being
+[@1,3,4] Police named him Suryadev Kothari, alias Gopa, 26, a resident of
+Kundrapapara, Potiyakala, Durg. [@1,3,4] On searching him, officers found 3 kg 630 g
+of ganja in a white sack. [@1,3,4] Police estimated the ganja at about ₹1,80,000.
+[@1,4] The search also turned up a pistol with a magazine and ₹17,500 in cash.
+[@1,3,4] Police seized a scooter, registration CG07BY5096, that they said was being
 used for ganja sales, and valued it at about ₹30,000. [@1] Police put the total
-value of the ganja, pistol, cash and scooter at about ₹2,27,500. [@1]
+value of the ganja, pistol, cash and scooter at about ₹2,27,500. [@1,4]
 
 He was booked at Padmanabhpur police station in crime number 751/2026 under
 sections 20(b) and 27(a) of the NDPS Act, India's narcotics law, and section 25
-of the Arms Act. [@2] He was arrested on 12 November and produced in court. [@1]
+of the Arms Act. [@2,4] He was arrested on 12 November and produced in court. [@1]
 The court sent him to judicial remand. [@1] Police said the investigation was
 continuing. [@2]
 
