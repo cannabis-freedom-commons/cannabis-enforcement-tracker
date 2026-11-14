@@ -84,25 +84,30 @@ sources:
     publisher: VOICE Indonesia
     date: 2026-11-12
     language: id
+  - title: Kakek Residivis Dicokok Polisi Terkait Ganja 68,2 Gram di Padangsidimpuan
+    url: https://startnews.co.id/kakek-residivis-dicokok-polisi-terkait-ganja-682-gram-di-padangsidimpuan/
+    publisher: StartNews
+    date: 2026-11-14
+    language: id
 ---
 
 Padangsidimpuan police arrested fish trader PD alias L, a recidivist from
 Kampung Jawa in Padangsidimpuan Selatan, early on Thursday over suspected
-cannabis abuse. [@1,4,5] Police had not detailed the type of the suspect's earlier case. [@4] Narcotics chief AKP Juli Purwono said officers arrested him
+cannabis abuse. [@1,4,5,7] Police had not detailed the type of the suspect's earlier case. [@4] Narcotics chief AKP Juli Purwono said officers arrested him
 at about 00:40 WIB at warung Abdi in Kampung Jawa. [@1,5] SIGNAL24 reported that
 the man was 62 and that the stall is on Jalan Yos Sudarso in Wek IV,
-Padangsidimpuan Selatan. [@2] They found him sitting inside the stall. [@2,6] The
+Padangsidimpuan Selatan. [@2,7] They found him sitting inside the stall. [@2,6,7] The
 neighbourhood head, Abdi Lubis, who also owns the stall, witnessed the search.
 [@2]
 
 Police seized cannabis with a gross weight of 68.20 grams, made up of one black
 plastic bag holding 58.23 grams and five packets weighing 9.97 grams, together
-with one white plastic bag. [@2,4,5] Purwono said officers took from the suspect one
+with one white plastic bag. [@2,4,5,7] Purwono said officers took from the suspect one
 black plastic bag of cannabis with a gross weight of 58.23 grams and five
 packets with a gross weight of 9.97 grams, plus one white plastic bag. [@1]
 Officers found the cannabis hidden in his trousers. [@1,4] He told officers he had
 obtained the cannabis from a man identified only as A, who remained under
-investigation. [@1,4,5,6] Police said they were investigating whether other people were involved in ganja distribution in Kampung Jawa and the surrounding area. [@4]
+investigation. [@1,4,5,6,7] Police said they were investigating whether other people were involved in ganja distribution in Kampung Jawa and the surrounding area. [@4]
 
 The arrest followed a public tip, and an operational team led by Aipda Sugianto
 went to the stall to check it. [@2,4] The narcotics operational team investigated and surveilled the target location after receiving the information. [@6] The team moved toward the location at about
@@ -110,4 +115,4 @@ went to the stall to check it. [@2,4] The narcotics operational team investigate
 as suspected cannabis distribution. [@2] Police chief AKBP Noval N.G. Desky
 confirmed the disclosure through Purwono. [@3,4] Officers examined witnesses and
 prepared an interrogation report. [@3] The suspect and the evidence were taken
-to the Padangsidimpuan narcotics unit for further legal process. [@1,4,6]
+to the Padangsidimpuan narcotics unit for further legal process. [@1,4,6,7]
