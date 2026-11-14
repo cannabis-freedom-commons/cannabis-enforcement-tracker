@@ -33,6 +33,11 @@ media:
     media_url: https://akdenizgazetesicom.teimg.com/akdenizgazetesi-com/uploads/2026/11/camasir-askisinda-esrar-uretimine-2-gozalti-2-1.jpg
     publisher: Akdeniz Gazetesi
     caption: Second photo of the Bartın marijuana seizure published with the Akdeniz Gazetesi report.
+  - kind: photo
+    url: https://www.sondakika.com/amp/haber-bartin-da-2-kilo-110-gram-kenevir-ele-gecirildi-ya-20425159/
+    media_url: https://foto.sondakika.com/crop/1210x0/haber/2026/11/13/bartin-da-uyusturucu-operasyonunda-2-kilo-110-20425145_sd.jpg
+    publisher: Son Dakika
+    caption: 'The cannabis seized during the Bartın operation, published with the AA report of the raid. Photo: Son Dakika / AA'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 51a1a2a5897f7c65454cbc1f8f350c4d
@@ -52,15 +57,24 @@ sources:
     publisher: Akdeniz Gazetesi (İHA)
     date: 2026-11-13
     language: tr
+  - title: Bartın'da 2 kilo 110 gram kenevir ele geçirildi, yatak odasında kurutulduğu görüldü
+    url: https://www.sondakika.com/amp/haber-bartin-da-2-kilo-110-gram-kenevir-ele-gecirildi-ya-20425159/
+    publisher: Son Dakika
+    date: 2026-11-13
+    language: tr
+open_questions:
+    - No charge, custody decision or court outcome was reported beyond the two detentions.
+    - The two dispatches on the same raid give different cannabis weights (2 kilo 110 gram and 2 kilo 100 gram), so the report keeps the 2.1 kg figure and records the discrepancy.
+    - The exact date of the raid was not published; 13 November 2026 is the publication date of the report and is used as the incident date.
 ---
 
 Police teams of the Bartın Police Department Anti-Narcotic Crimes Branch
 Directorate, working under the coordination of the Bartın Chief Public
 Prosecutor's Office, ran a simultaneous operation at two addresses in the city.
-[@1,3] In the searches, officers found that harvested hemp plants had been dried
-on a clothesline and turned into marijuana. [@1] The seizures came to 2
+[@1,3,4] In the searches, officers found that harvested hemp plants had been dried
+on a clothesline and turned into marijuana. [@1,4] The seizures came to 2
 kilograms 100 grams of marijuana and one blank-firing gun, and two people were
-detained in connection with the incident. [@1,3] Police said efforts to catch one
+detained in connection with the incident. [@1,3,4] Police said efforts to catch one
 further suspect linked to the incident were ongoing and that the
 drug-trafficking investigation continued. [@1] İHA reported that the same
 two-address simultaneous operation was carried out by the Bartın Police
