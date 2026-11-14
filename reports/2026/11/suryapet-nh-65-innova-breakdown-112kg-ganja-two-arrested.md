@@ -52,27 +52,29 @@ sources:
     publisher: Aadab Hyderabad
     date: 2026-11-13
     language: te
+  - title: 2 Arrested in Suryapet Ganja Smuggling Case
+    url: https://www.deccanchronicle.com/southern-states/telangana/2-arrested-in-suryapet-ganja-smuggling-case-2004186
+    publisher: Deccan Chronicle
+    date: 2026-11-13
 open_questions:
-  - 'The two accounts place the breakdown on different dates: Aadab says 7 November while Disha gives no separate date; 12 November, the date of the arrests, is used as the incident date.'
-  - The names and ages of the three absconding members and the court charges were not reported.
-  - No laboratory confirmation of the seized material was reported.
-  - Ganja Trafficking Exposed | బ్రేక్డౌన్తో బయటపడిన గంజాయి అక్రమ రవాణా (Aadab Hyderabad) could not be opened again to check its quotations (The browser page answered HTTP 521.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.
+    - The names and ages of the three absconding members and the court charges were not reported.
+    - No laboratory confirmation of the seized material was reported.
+    - Deccan Chronicle spells the suspects' names as 'Akash' and 'Morye' while the Telugu accounts used 'Aakash' and 'More' for the same two men.
 ---
 
 Two suspects were arrested after they came to Suryapet on 12 November to take
-back the vehicle. [@1] Police identified the two arrested as Aakash Vijay
-Dabekar, 23, and Aakash Dilip More, 32, of Maharashtra. [@2]
+back the vehicle. [@1,3] Police identified the two arrested as Aakash Vijay
+Dabekar, 23, and Aakash Dilip More, 32, of Maharashtra. [@2,3] The two men come from Beed district and Buldhana district in Maharashtra. [@3]
 
 The Innova broke down near Padmavati Function Hall on NH-65 on the outskirts of
-Suryapet town, and its occupants abandoned it and fled. [@2] Second town police
+Suryapet town, and its occupants abandoned it and fled. [@2,3] Superintendent of police K. Narsimha said the vehicle broke down and was abandoned on 7 November. [@3] Second town police
 checked the suspiciously parked car and found 112 kg of ganja, which they
-seized. [@1] The gang had bought the 112 kg for Rs 2.24 lakh at Rs 2,000 per kg
-from unidentified people near Jagannathpuri in Odisha. [@1] They had packed it
+seized. [@1,3] The gang had bought the 112 kg for Rs 2.24 lakh at Rs 2,000 per kg
+from unidentified people near Jagannathpuri in Odisha. [@1,3] They had packed it
 into 41 packets and were moving it in an Innova car toward Maharashtra. [@1]
 
-Police said the seized ganja was worth about Rs 25 lakh. [@1] Police seized
+Police said the seized ganja was worth about Rs 25 lakh. [@1,3] Police seized
 three mobile phones from the arrested men and produced them in court for remand.
 [@2] The district SP said three more members were absconding and special teams
-were searching for them. [@1] Police seized the ganja along with the vehicle and
+were searching for them. [@1,3] Police seized the ganja along with the vehicle and
 registered a case. [@2]
-
