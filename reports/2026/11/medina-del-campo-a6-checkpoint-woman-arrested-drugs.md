@@ -42,23 +42,22 @@ sources:
     publisher: Diario de Valladolid
     date: 2026-11-13
     language: es
-open_questions:
-  - The exact incident date is given only as 'the early hours of the previous Monday' relative to the 13 November 2026 publication, i.e. 9 November 2026.
-  - The 1.8 g hashish figure is approximate ('unos 1,8 gramos'); the weights of the other substances (ketamine, cocaine, MDMA, amphetamines) are not stated as separate kilogram totals, so no combined figure is recorded.
-  - The two male occupants of the vehicle were identified but the report does not say whether they were arrested, charged or otherwise involved.
-  - No court outcome beyond the initial imprisonment order has been reported.
+  - title: A prisión tras ser detenida un control en Medina del Campo con cocaína, hachís y ketamina
+    url: https://www.abc.es/espana/castilla-leon/prision-tras-detenida-control-medina-campo-cocaina-20261113105611-nt.html
+    publisher: Diario ABC
+    date: 2026-11-13
+    language: es
 ---
 
 On the early hours of Monday 9 November 2026, the Guardia Civil stopped a
 vehicle on the A-6 motorway at the height of Medina del Campo and arrested the
-female passenger, who was carrying a bag fastened to her body. [@1] The
+female passenger, who was carrying a bag fastened to her body. [@1,2] The
 checkpoint, run under the Comandancia de Valladolid, identified the vehicle's
-occupants: two men and a woman. [@1]
+occupants: two men and a woman. [@1,2]
 
 Among the seized material were approximately 200 grams of ketamine, 110 units of
 a pink substance that could be amphetamines, 16 grams of cocaine, 0.8 grams of a
 pink substance presumed to be tusi, another bag with possible MDMA, and one
-piece of about 1.8 grams of hashish. [@1] The Guardia Civil handed both the
+piece of about 1.8 grams of hashish. [@1,2] The Guardia Civil handed both the
 seized substances and the arrested woman to the competent judicial authority,
-which ordered her imprisonment. [@1]
-
+which ordered her imprisonment. [@1,2]
