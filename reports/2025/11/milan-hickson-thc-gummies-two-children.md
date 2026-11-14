@@ -62,6 +62,10 @@ sources:
     url: https://people.com/mother-charged-after-her-kids-ages-2-and-4-consume-her-thc-gummies-authorities-11863537
     publisher: People
     date: 2025-12-06
+  - title: Mom arrested after young children eat THC gummies, leading to hospitalization, police say
+    url: https://www.wtap.com/2025/12/05/mom-arrested-after-young-children-eat-thc-gummies-leading-hospitalization-police-say/
+    publisher: WTAP
+    date: 2025-12-05
 open_questions:
   - No weight, count or THC content of the gummies eaten was published, so no cannabis quantity is recorded.
   - ABC News says the children were under 8; Action News 5 and People give their ages as 2 and 4.
@@ -72,11 +76,11 @@ open_questions:
 
 A 43-year-old mother in Milan, Tennessee, was arrested and charged with child
 abuse, neglect and endangerment after her two children, aged 2 and 4, ate her
-THC gummies and were hospitalised. [@2] Candice Hickson, 43, was booked into the
+THC gummies and were hospitalised. [@2,4] Candice Hickson, 43, was booked into the
 Gibson County jail on 30 November, two days after the overdose. [@3]
 
 Deputies were called to a home in the 300 block of Trenton Milan Highway on 28
-November and found both children unresponsive. [@2] Hickson told deputies the
+November and found both children unresponsive. [@2,4] Hickson told deputies the
 children reached her THC gummies, which she kept in the bathroom, while she was
 in the bathroom, and she could not say how many they ate, according to an arrest
 warrant. [@2] The children were treated at Le Bonheur Children's Hospital in
@@ -84,7 +88,7 @@ Memphis and released within 48 hours. [@1] The children were placed in the
 custody of the Tennessee Department of Children's Services after their mother
 failed a drug test for methamphetamine, the district attorney general said. [@1]
 Hickson's bail was set at $25,000, and she was due back in Gibson County General
-Sessions court on 16 December with no attorney listed. [@1]
+Sessions court on 16 December with no attorney listed. [@1,4] Sheriff Paul Thomas said the THC gummies need to be treated as any other medication, locked up and out of reach of children. [@4]
 
 THC hemp gummies are legal for adults 21 and older in Tennessee. [@1] District
 Attorney General Frederick Agee said his office would prosecute the case within
@@ -92,4 +96,3 @@ the letter of the law while helping Hickson get treatment for her addiction so
 she could reunite with her children. [@1] Agee said he was unaware of any case
 in Tennessee or the US in which a child, teenager or adult died solely from
 eating legal hemp THC gummies. [@1]
-
