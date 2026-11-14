@@ -97,27 +97,35 @@ sources:
     publisher: Paris Normandie
     date: 2026-11-13
     language: fr
+  - title: 'Trafic de stupéfiants : un réseau démantelé dans l''Eure'
+    url: https://www.linfo.re/france/faits-divers/trafic-de-stupefiants-un-reseau-demantele-dans-l-eure
+    publisher: LINFO.re
+    date: 2026-11-14
+    language: fr
+open_questions:
+  - The cash seized is reported as nearly 14,000 euros in one account and as 13,370 euros in other accounts.
+  - The cocaine seized is reported as more than 100 grams in one account and as 133 grams in other accounts.
 ---
 
 Gendarmes from the Les Andelys company arrested ten people at their homes in the
 Les Bornes neighbourhood of Gisors on 2 November 2026 and placed them in
-custody. [@1,3,6] The operation was backed by the Caen GIGN with specialised
+custody. [@1,3,6,7] The operation was backed by the Caen GIGN with specialised
 gendarmerie protection platoons and Eure surveillance-and-intervention platoons.
-[@1,4,5] The raid followed several months of investigation by the Les Andelys
+[@1,4,5,7] The raid followed several months of investigation by the Les Andelys
 research brigade, which identified a cocaine and cannabis supply-and-sale
-network. [@1,5] Discreet surveillance by the Evreux departmental observation and
+network. [@1,5,7] Discreet surveillance by the Evreux departmental observation and
 surveillance cell documented transactions between sellers and regular customers,
 the Eure gendarmerie grouping said. [@1] Six of those arrested were brought
 before the Evreux judicial court on 6 November for an immediate-trial hearing.
-[@1,3,5,6] After the defendants sought time to prepare their defence, the hearing was
+[@1,3,5,6] The six suspects brought to justice were aged 30 to 37. [@7] After the defendants sought time to prepare their defence, the hearing was
 put off to 4 December, with four held in pre-trial detention and two placed
-under judicial supervision. [@1,3,5]
+under judicial supervision. [@1,3,5,7]
 
 House searches found 13,370 euros in cash, 3.4 kilograms of cannabis, 133 grams
 of cocaine, 11 grams of ecstasy and category B and C weapons, according to the
-gendarmes. [@1,5,6] During questioning, one of the main suspects admitted moving
+gendarmes. [@1,5,6,7] During questioning, one of the main suspects admitted moving
 almost 2.4 kilograms of cocaine over one year, turnover estimated at more than
-100,000 euros. [@1,3,5,6] A second account confirms the same seizure of 13,370 euros,
+100,000 euros. [@1,3,5,6,7] A second account confirms the same seizure of 13,370 euros,
 3.4 kilograms of cannabis, 133 grams of cocaine and 11 grams of ecstasy. [@2]
 
 The judicial fate of the four other people initially arrested was not specified.
