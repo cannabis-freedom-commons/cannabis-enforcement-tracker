@@ -41,6 +41,11 @@ sources:
     publisher: ΕΡΤ News
     date: 2026-11-13
     language: el
+  - title: 'Ηγουμενίτσα: Συνελήφθη αλλοδαπή που μετέφερε με αυτοκίνητο πάνω από -86- κιλά ακατέργαστης κάνναβης'
+    url: https://www.tomistinenimerosi.gr/2026/11/%CE%B7%CE%B3%CE%BF%CF%85%CE%BC%CE%B5%CE%BD%CE%AF%CF%84%CF%83%CE%B1-%CF%83%CF%85%CE%BD%CE%B5%CE%BB%CE%AE%CF%86%CE%B8%CE%B7-%CE%B1%CE%BB%CE%BB%CE%BF%CE%B4%CE%B1%CF%80%CE%AE-%CF%80%CE%BF%CF%85-%CE%BC.html
+    publisher: ΤΟΜΗ στην ενημέρωση
+    date: 2026-11-13
+    language: el
 open_questions:
   - The woman's nationality is not given; she is described only as a foreign national.
   - No figure for the street value of the cannabis was published.
@@ -49,15 +54,14 @@ open_questions:
 
 Police of the Drug Pursuit Division of the Igoumenitsa Sub-directorate of
 Pursuit and Investigation of Crimes found a large quantity of drugs early in the
-morning in Igoumenitsa, blocking its further transport. [@1] A foreign national
+morning in Igoumenitsa, blocking its further transport. [@1,3] A foreign national
 was arrested in connection with the case, against whom a felony indictment was
-opened. [@1] As part of targeted checks, the officers stopped a small car that
+opened. [@1,3] As part of targeted checks, the officers stopped a small car that
 the foreign woman was driving and that she owned, inside which they found 80
-bundles of raw cannabis, totalling 86 kg 438 g. [@1] The drugs and the car were
+bundles of raw cannabis, totalling 86 kg 438 g. [@1,3] The drugs and the car were
 confiscated, and the detainee is expected to be brought to the Thesprotia First
-Instance Magistrate's Office. [@1]
+Instance Magistrate's Office. [@1,3]
 
 The arrested driver of the car was a 31-year-old foreign national. [@2] The
 cannabis was packaged into 80 bundles that were found inside the woman's car
 during a targeted check. [@2]
-
