@@ -47,14 +47,18 @@ sources:
     publisher: Rupali Bangladesh
     date: 2026-11-14
     language: bn
+  - title: দুমকিতে গাঁজা ও মোটরসাইকেলসহ গ্রেপ্তার ১ | দৈনিক এদিন
+    url: https://dailyadin.com/country/30455
+    publisher: The Daily Adin
+    date: 2026-11-14
+    language: bn
 open_questions:
-  - No laboratory confirmation for the 100 grams described as ganja was reported.
-  - No plea, bail or further court outcome after the planned court production was reported.
-  - Only one accessible source for this event was found after searching in Bengali and English.
+    - No laboratory confirmation for the 100 grams described as ganja was reported.
+    - No plea, bail or further court outcome after the planned court production was reported.
 ---
 
 Police in Dumki, Patuakhali arrested 30-year-old Md Al Amin Chakladar with 100
-grams of ganja, Tk 1,700 in alleged drug-sale proceeds and a motorcycle. [@1]
+grams of ganja, Tk 1,700 in alleged drug-sale proceeds and a motorcycle. [@1,2]
 The arrest took place at about 8:10 pm on Friday 13 November 2026 on the brick
 road in front of the Mujibur Rahman Fakir Community Clinic at North Chargarbadi
 in Ward 9 of Muradia Union. [@1] Police said the raid followed a tip during a
@@ -62,15 +66,14 @@ special anti-drug operation, and Chakladar was detained after trying to flee
 when he saw the police. [@1]
 
 A body search recovered 100 grams of ganja from his right trouser pocket and Tk
-1,700 described as drug-sale money from his left pocket. [@1] Police also seized
+1,700 described as drug-sale money from his left pocket. [@1,2] Police also seized
 a black-and-blue 100cc Bajaj Discover motorcycle said to have been used to
-transport drugs, with registration number Patuakhali-Ha-11-2715. [@1]
+transport drugs, with registration number Patuakhali-Ha-11-2715. [@1,2]
 
 The arrested man is the son of the late Yunus Chakladar of Santoshdi village in
 Muradia Union. [@1] A case was filed at Dumki Police Station under sections
 36(1) table 19(ka) and 38 of the Narcotics Control Act, 2018, recorded as case
-number 13 dated 13 November 2026 and GR number 116 the same day. [@1] Dumki
+number 13 dated 13 November 2026 and GR number 116 the same day. [@1,2] Dumki
 Police Station officer-in-charge Md Selim Uddin confirmed the incident and said
 the accused would be shown arrested in that case and sent to court on Saturday.
 [@1]
-
