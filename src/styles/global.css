@@ -61,6 +61,12 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 /* Iconoir icons (src/components/Icon.astro): text-sized unless a rule says otherwise */
 svg.icon { width: 1.15em; height: 1.15em; flex: none; vertical-align: -0.2em; }
 .lead { color: var(--text-2); font-size: 17px; max-width: 70ch; }
+/* a report's first photo beside its summary, the way the lists show it; it leads down to the photos */
+.lead-thumb { float: right; display: block; width: 168px; height: 118px; margin: 6px 0 8px 22px; overflow: hidden; border-radius: var(--r); background: var(--surface-2) center / cover no-repeat; }
+.lead-thumb img { display: block; width: 100%; height: 100%; object-fit: cover; transition: opacity .15s; }
+.lead-thumb:hover img { opacity: .85; }
+.report-head:has(.lead-thumb) { display: flow-root; } /* the photo stays inside the header */
+@media (max-width: 560px) { .lead-thumb { width: 104px; height: 76px; margin-left: 14px; } }
 
 /* ── Top bar and footer ─────────────────────────────── */
 .topbar {
@@ -277,6 +283,8 @@ sup.cite a { color: var(--cite); text-decoration: none; }
 .media li { margin-bottom: 6px; }
 /* a report's photo: after its type line and title, floated right, the summary wrapping around it */
 .report-item.has-thumb::after { content: ""; display: block; clear: both; }
+/* the photo is a link to the report too; the wrapper adds no box of its own, so the photo still floats */
+.report-item .thumb-link { display: contents; cursor: pointer; }
 .report-item .thumb { float: right; width: 132px; height: 92px; margin: 4px 0 6px 18px; object-fit: cover; border-radius: var(--r); background: var(--surface-2) center / cover no-repeat; }
 @media (max-width: 560px) { .report-item .thumb { width: 96px; height: 70px; margin-left: 12px; } }
 /* the home page's map pane: smaller thumbnails */

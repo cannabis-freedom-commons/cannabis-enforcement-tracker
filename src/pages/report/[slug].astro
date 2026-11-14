@@ -50,6 +50,7 @@ const fmtChangeDate = (d) => d.length === 10 ? new Date(`${d}T00:00:00Z`).toLoca
 // docs/WRITING.md §7); videos and photos without one stay links
 const shown = (r.media ?? []).map((m) => ({ ...m, view: mediaView(m), photo: m.kind === "photo" ? photoOf(m.media_url) : null })).filter((m) => m.view);
 const linked = (r.media ?? []).filter((m) => !mediaView(m));
+const leadPhoto = shown.find((m) => m.view.type === "photo");
 const SOURCES_SHOWN = 8; // the sources listed before "Show all"
 const languageName = (code) => new Intl.DisplayNames(["en"], { type: "language" }).of(code);
 // the Landrace.wiki growing areas and regions the place lies in, when it is known closely enough
@@ -122,6 +123,8 @@ const jsonLd = [{
         <a class="code" href={`${base}r/${r.code}/`} title="The report's permanent short id and link">CET-{r.code}</a>
       </div>
       <h1 class="p-name" itemprop="headline">{r.title}</h1>
+      {/* without a cover, the first photo floats beside the summary like in the lists; it leads to the photos */}
+      {!r.cover && leadPhoto && <a class="lead-thumb" href="#media" aria-label="Photos and video" style={leadPhoto.photo.placeholder ? `background-image:url(${leadPhoto.photo.placeholder})` : undefined}><img src={leadPhoto.photo.src} alt="" decoding="async" referrerpolicy="no-referrer" onerror="this.parentElement.remove()" /></a>}
       <p class="lead p-summary" itemprop="description">{r.summary}</p>
       <p class="muted">{flagOf(r.country)} {where}</p>
       <AddedAt value={r.added_at} updated={r.updated_at} />

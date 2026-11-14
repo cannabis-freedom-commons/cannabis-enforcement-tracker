@@ -20,10 +20,11 @@ const haystack = [r.title, r.summary, r.place, r.countryName, r.typeLabel, ...(r
     {zoom && r.coordinates && <button type="button" class="zoom-to" data-zoom={r.id} aria-label="Show on the map" title="Show on the map"><Fragment set:html={ZOOM_ICON} /></button>}
   </div>
   <h3><a href={`${base}${r.url}`}>{r.title}</a></h3>
-  {/* the photo floats right after the title; the summary wraps around it */}
-  {r.cover
+  {/* the photo floats right after the title; the summary wraps around it. It opens the report too
+     (left out of the tab order and screen readers: the title is the same link) */}
+  {(r.cover || r.photo) && <a class="thumb-link" href={`${base}${r.url}`} tabindex="-1" aria-hidden="true">{r.cover
     ? <Image class="thumb" src={r.cover.image} alt="" width={264} height={184} fit="cover" loading="lazy" style={coverPlaceholderOf(r.cover.image.src) ? `background-image:url(${coverPlaceholderOf(r.cover.image.src)})` : undefined} />
-    : r.photo && <img class="thumb" src={photoOf(r.photo).src} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" style={photoOf(r.photo).placeholder ? `background-image:url(${photoOf(r.photo).placeholder})` : undefined} onerror="this.parentElement.classList.remove('has-thumb');this.remove()" onload="if(this.naturalWidth===260&&this.naturalHeight===180&&this.src.includes('duckduckgo')){this.parentElement.classList.remove('has-thumb');this.remove()}" />}
+    : r.photo && <img class="thumb" src={photoOf(r.photo).src} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" style={photoOf(r.photo).placeholder ? `background-image:url(${photoOf(r.photo).placeholder})` : undefined} onerror="this.closest('.report-item')?.classList.remove('has-thumb');this.parentElement.remove()" onload="if(this.naturalWidth===260&&this.naturalHeight===180&&this.src.includes('duckduckgo')){this.closest('.report-item')?.classList.remove('has-thumb');this.parentElement.remove()}" />}</a>}
   <p>{r.summary}</p>
   {r.figureRows.length > 0 && (
     <div class="figs-inline">
