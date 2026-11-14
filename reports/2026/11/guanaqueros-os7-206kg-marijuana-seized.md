@@ -77,25 +77,28 @@ sources:
     publisher: Radio Riquelme
     date: 2026-11-13
     language: es
-open_questions:
-  - The Wayback Machine redirected the Radio Riquelme URL to an unrelated flood story, so that source has no usable archived copy.
+  - title: 'Golpe millonario al narcotráfico: decomisan más de 200 kilos de marihuana en Guanaqueros avualados en casi $1.700 millones'
+    url: https://www.miradiols.cl/2026/11/13/golpe-millonario-al-narcotrafico-decomisan-mas-de-200-kilos-de-marihuana-en-guanaqueros-avualados-en-casi-1-700-millones/
+    publisher: Mi Radio
+    date: 2026-11-13
+    language: es
 ---
 
 Specialist Carabineros officers of OS7 Coquimbo seized processed marijuana
-during a road check on Thursday in the Guanaqueros sector. [@1,3,4,6] Officers carried
+during a road check on Thursday in the Guanaqueros sector. [@1,3,4,6,7] Officers carried
 out the check at the toll entrance to the coastal town, where they inspected a
 white Chevrolet Prisma and found containers holding a large drug load inside.
-[@1,3,4,5,6] A second outlet confirms the Thursday operation took place at the toll
+[@1,3,4,5,6,7] A second outlet confirms the Thursday operation took place at the toll
 entrance to the coastal town, where officers inspected a white Chevrolet Prisma.
 [@2]
 
 Officers recovered 206 kilos and 546 grams of processed marijuana packed in 198
-packages and one bag. [@1,3,4,5,6] Carabineros valued the load at more than 1,650
-million pesos. [@1,3,5,6] Police said the seizure kept more than 413,000 doses from
+packages and one bag. [@1,3,4,5,6,7] Carabineros valued the load at more than 1,650
+million pesos. [@1,3,5,6,7] Police said the seizure kept more than 413,000 doses from
 reaching Coquimbo and cities in central and southern Chile. [@1,3,5,6]
 
 Carabineros said the Guanaqueros seizure brought its road-control seizures in
-the Coquimbo Region to more than 700 kilos of drugs over seven days. [@1,3,5,6] The
+the Coquimbo Region to more than 700 kilos of drugs over seven days. [@1,3,5,6,7] The
 same week included a seizure of more than 30 kilos of marijuana at the region's
 northern access by OS7 and the Elqui highway unit, plus operations in Choapa
 province that removed almost half a tonne of illicit substances. [@1,5] Lieutenant
