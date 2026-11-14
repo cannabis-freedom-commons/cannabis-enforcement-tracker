@@ -1313,7 +1313,7 @@ func (r Runner) Start(ctx context.Context, cid, dir, run string, e safeurl.Evide
 	editorial[agentPath] = append(append([]byte(nil), editorial[agentPath]...), []byte(structured)...)
 	files[agentPath] = editorial[agentPath]
 	if inline {
-		agent, err := inlineInstructions(editorial[".opencode/agents/enforcement-researcher.md"], editorial["docs/CFI.md"], editorial["docs/WRITING.md"])
+		agent, err := inlineInstructions(editorial[".opencode/agents/enforcement-researcher.md"], editorial["docs/CFI.md"], editorial["docs/WRITING.md"], examples)
 		if err != nil {
 			return Result{}, nil, err
 		}

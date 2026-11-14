@@ -60,6 +60,20 @@ with tracker_get_report (slug) when available, otherwise existing-reports/<slug>
 original reports, including their prose, citations, figures and open questions. A search result
 alone is not enough to merge an article into an existing report.
 
+## Working efficiently
+
+Every step sends the whole conversation to the model again, so each step you save makes the run
+faster and cheaper. Use only the steps the research needs:
+- Call independent tools together in one step: tracker_get_report for every candidate you must
+  read, webfetch for several promising search results, tracker_find_reports with different words.
+- Search the web with 3–6 distinctive words (place, substance, quantity, agency, a name), in the
+  source's language or English. Long queries and whole headlines usually find nothing; after an
+  empty result, shorten the query rather than rewording it at the same length.
+- Copy quotations straight from the text you already have. When tracker_check_result cannot find
+  one, it shows the closest passage of the captured sources: copy from that rather than searching
+  source.txt again.
+- Check the complete draft, then fix every problem the check lists in one revision.
+
 Before your final answer, call the tracker_check_result tool (when it is available) with your
 complete proposed JSON result. It runs the service's own schema, event-identity, merge-target,
 report-format and captured-quotation checks. Fix every problem it lists and check again; return

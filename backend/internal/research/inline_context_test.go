@@ -37,7 +37,7 @@ func TestInlineInstructionsUseRealAgentPrompt(t *testing.T) {
 	if !strings.Contains(string(agent), readEditorialLine) {
 		t.Fatal("the agent prompt's reading line changed; update readEditorialLine")
 	}
-	out, err := inlineInstructions(agent, []byte("CFI RULES"), []byte("WRITING RULES"))
+	out, err := inlineInstructions(agent, []byte("CFI RULES"), []byte("WRITING RULES"), nil)
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -47,6 +47,30 @@ func TestInlineInstructionsUseRealAgentPrompt(t *testing.T) {
 	}
 	if strings.Contains(parts[2], "explicitly load the add-report") || !strings.Contains(parts[2], "CFI RULES") || !strings.Contains(parts[2], "WRITING RULES") || !strings.Contains(parts[2], "do not read them again") {
 		t.Fatal(parts[2][:400])
+	}
+}
+
+// The example reports and the page's text come with the prompt: the agent is not sent to open them.
+func TestInlineInstructionsCarryExamples(t *testing.T) {
+	agent, err := os.ReadFile("../../../.opencode/agents/enforcement-researcher.md")
+	if err != nil {
+		t.Fatal(err)
+	}
+	for _, line := range []string{readExamplesLine, readSourceLine} {
+		if !strings.Contains(string(agent), line) {
+			t.Fatalf("the agent prompt changed; update %q", line)
+		}
+	}
+	out, err := inlineInstructions(agent, []byte("CFI"), []byte("WRITING"), map[string][]byte{"b.md": []byte("SECOND EXAMPLE"), "a.md": []byte("FIRST EXAMPLE")})
+	if err != nil {
+		t.Fatal(err)
+	}
+	body := string(out)
+	if strings.Contains(body, readExamplesLine) || strings.Contains(body, readSourceLine) || !strings.Contains(body, inlineExamplesLine) || !strings.Contains(body, inlineSourceLine) {
+		t.Fatal("the reading sentences were not replaced")
+	}
+	if a, b := strings.Index(body, "# Example report: examples/a.md\n\nFIRST EXAMPLE"), strings.Index(body, "examples/b.md\n\nSECOND EXAMPLE"); a < 0 || b < a {
+		t.Fatal("the examples must follow the rules in a stable order")
 	}
 }
 

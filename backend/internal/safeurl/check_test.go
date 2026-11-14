@@ -78,3 +78,29 @@ func TestCFIRecognitionCoversInflectionsAccentsAndUnicodeBoundaries(t *testing.T
 		t.Fatal("decomposed diacritics were missed")
 	}
 }
+
+// A quotation typed with other quotation marks, dashes or an ellipsis than the page still counts;
+// other words never do.
+func TestContainsIgnoresTypography(t *testing.T) {
+	page := "<p>Police said the man’s car held “2 kg of gan­ja” – enough to sell…</p>"
+	for _, quote := range []string{
+		`Police said the man's car held "2 kg of ganja" - enough to sell...`,
+		"Police said the man’s car held “2 kg of ganja” — enough",
+	} {
+		if !Contains(page, quote) {
+			t.Fatalf("not found: %s", quote)
+		}
+	}
+	if Contains(page, `Police said the man's car held "3 kg of ganja"`) || Contains(page, "police said the man's") {
+		t.Fatal("other words or case must not match")
+	}
+}
+
+// A quotation the page does not contain is answered with the page's closest sentence.
+func TestClosestPassage(t *testing.T) {
+	page := "<p>The raid took place on Monday.</p><p>Officers seized 1 quintal 45 kg of ganja and Rs 3.6 lakh in cash from the house.</p>"
+	got, score := Closest(page, "Officers seized 145 kg of ganja and Rs 3.6 lakh cash")
+	if got != "Officers seized 1 quintal 45 kg of ganja and Rs 3.6 lakh in cash from the house." || score < 0.7 {
+		t.Fatalf("%q %.2f", got, score)
+	}
+}

@@ -5,6 +5,7 @@ import (
 	"errors"
 	"fmt"
 	"hash/fnv"
+	"sort"
 	"strings"
 
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/frontmatter"
@@ -39,7 +40,7 @@ const readEditorialLine = "Read docs/CFI.md, docs/WRITING.md and explicitly load
 
 // inlineInstructions makes one stable system prompt: the research instructions followed by the
 // editorial rules, instead of the agent reading the docs and the overlapping skills each run.
-func inlineInstructions(agent, cfi, writing []byte) ([]byte, error) {
+func inlineInstructions(agent, cfi, writing []byte, examples map[string][]byte) ([]byte, error) {
 	parts := frontmatter.Split(string(agent))
 	if len(parts) != 3 {
 		return nil, errors.New("research agent instructions are invalid")
@@ -53,10 +54,33 @@ func inlineInstructions(agent, cfi, writing []byte) ([]byte, error) {
 	} else { // edited instructions: say it up front all the same
 		body = "\n" + note + "\n" + body
 	}
+	// the example reports come at the end too: opening them cost every run a step or two
+	if len(examples) > 0 {
+		body = strings.Replace(body, readExamplesLine, inlineExamplesLine, 1)
+	}
+	// the first message carries the page's text, so it is not to be read again in full
+	body = strings.Replace(body, readSourceLine, inlineSourceLine, 1)
 	body = strings.TrimRight(body, "\n") + "\n\n# Editorial rules: docs/CFI.md\n\n" + strings.TrimSpace(string(cfi)) +
 		"\n\n# Editorial rules: docs/WRITING.md\n\n" + strings.TrimSpace(string(writing)) + "\n"
+	names := make([]string, 0, len(examples))
+	for name := range examples {
+		names = append(names, name)
+	}
+	sort.Strings(names)
+	for _, name := range names {
+		body += "\n# Example report: examples/" + name + "\n\n" + strings.TrimSpace(string(examples[name])) + "\n"
+	}
 	return []byte("---" + parts[1] + "---" + body), nil
 }
+
+// The agent instruction's sentences that send it to the example reports and to read source.txt in
+// full, and what inline mode says instead.
+const (
+	readExamplesLine   = "examples/: read them first, and write"
+	inlineExamplesLine = "examples/ (they are included at the end of these instructions: do not open them), and write"
+	readSourceLine     = "Read all of it; it is not truncated."
+	inlineSourceLine   = "Your first message already carries it (up to a note when a long page continues): open it only for that rest, not to read it again."
+)
 
 // The longest source text the first message carries; a longer page is cut with a note.
 const inlineSourceLimit = 40000

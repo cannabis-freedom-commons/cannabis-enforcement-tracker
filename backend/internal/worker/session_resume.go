@@ -99,11 +99,14 @@ func (w *Worker) resultCheck(dir string, initial safeurl.Evidence, base []safeur
 		for _, field := range r.MissingQuotes() {
 			problems = append(problems, field+" has no data_quotes entry: add a verbatim quotation from a cited source that shows this value, or leave the value out")
 		}
+		// a quotation the sources do not contain comes back with their closest passage, to copy
+		// instead of searching source.txt for it
+		sources := append([]safeurl.Evidence{initial}, evidence...)
 		for _, field := range check.DataLeftOut {
-			problems = append(problems, field+" would be left out: its quotation is not in the captured text of its source, or that source is not cited by any fact")
+			problems = append(problems, field+" would be left out: its quotation is not in the captured text of its source, or that source is not cited by any fact"+closestHint(sources, dataQuote(r, field)))
 		}
 		for _, text := range check.LeftOut {
-			problems = append(problems, "this fact's quotation is not in the captured text of its source, so it would be left out (quote the source exactly): "+text)
+			problems = append(problems, "this fact's quotation is not in the captured text of its source, so it would be left out (quote the source exactly): "+text+closestHint(sources, factQuote(r, text)))
 		}
 		if err != nil && check.Checked > 0 {
 			problems = append(problems, "quotation check: "+err.Error())
@@ -141,4 +144,50 @@ func (w *Worker) resultCheck(dir string, initial safeurl.Evidence, base []safeur
 		}
 		return problems
 	}
+}
+
+// closestHint: the captured sources' closest passage to a quotation they do not contain, when one
+// shares most of its words, for the check's problem line.
+func closestHint(sources []safeurl.Evidence, quote string) string {
+	if quote == "" {
+		return ""
+	}
+	best, score := "", 0.0
+	for _, e := range sources {
+		if p, s := e.Closest(quote); s > score {
+			best, score = p, s
+		}
+	}
+	if score < 0.5 || best == "" {
+		return ""
+	}
+	if r := []rune(best); len(r) > 400 {
+		best = string(r[:400]) + "…"
+	}
+	return ". The closest passage in the captured sources is: \u201c" + best + "\u201d (copy the words you need from it exactly)"
+}
+
+func factQuote(r research.Result, text string) string {
+	for _, f := range r.Facts {
+		if f.Text == text {
+			return f.Quote
+		}
+	}
+	for _, u := range r.Updates {
+		for _, f := range u.Facts {
+			if f.Text == text {
+				return f.Quote
+			}
+		}
+	}
+	return ""
+}
+
+func dataQuote(r research.Result, field string) string {
+	for _, q := range r.DataQuotes {
+		if q.Field == field {
+			return q.Quote
+		}
+	}
+	return ""
 }

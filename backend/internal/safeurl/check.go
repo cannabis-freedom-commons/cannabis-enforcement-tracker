@@ -7,7 +7,10 @@ import (
 	"net/url"
 	"regexp"
 	"strings"
+	"unicode"
 	"unicode/utf8"
+
+	"golang.org/x/text/unicode/norm"
 )
 
 // SourceCheck is what the service found on the submitted page before any AI research: its title,
@@ -122,7 +125,31 @@ func Contains(content, quote string) bool {
 		return true
 	}
 	q := strings.Join(strings.Fields(html.UnescapeString(quote)), " ")
-	return q != "" && strings.Contains(strings.Join(strings.Fields(Text(content)), " "), q)
+	if q == "" {
+		return false
+	}
+	text := strings.Join(strings.Fields(Text(content)), " ")
+	if strings.Contains(text, q) {
+		return true
+	}
+	// the same words typed differently: a quotation copied with straight quotes from a page with
+	// curly ones (or the reverse), another dash, "..." for "…", or without a soft hyphen still counts
+	fq := FoldQuote(q)
+	return fq != "" && strings.Contains(FoldQuote(text), fq)
+}
+
+var quoteMarks = strings.NewReplacer(
+	"\u2018", "'", "\u2019", "'", "\u201a", "'", "\u201b", "'", "\u2032", "'", "\u00b4", "'", "`", "'",
+	"\u201c", "\"", "\u201d", "\"", "\u201e", "\"", "\u201f", "\"", "\u2033", "\"", "\u00ab", "\"", "\u00bb", "\"", "\u2039", "'", "\u203a", "'",
+	"\u2010", "-", "\u2011", "-", "\u2012", "-", "\u2013", "-", "\u2014", "-", "\u2015", "-", "\u2212", "-",
+	"\u2026", "...", "\u00ad", "", "\u200b", "", "\u200c", "", "\u200d", "", "\u200e", "", "\u200f", "", "\u2060", "", "\ufeff", "",
+)
+
+// FoldQuote is a quotation as its words and punctuation, whatever characters typed them: Unicode
+// compatibility forms (NFKC), typographic quotation marks, apostrophes and dashes as plain ones, an
+// ellipsis as three dots, invisible characters left out and whitespace collapsed.
+func FoldQuote(s string) string {
+	return strings.Join(strings.Fields(quoteMarks.Replace(norm.NFKC.String(s))), " ")
 }
 
 // Describe says in one line what the check found, for the request's history.
@@ -143,4 +170,54 @@ func thousands(n int) string {
 		s = s[:i] + "," + s[i:]
 	}
 	return s
+}
+
+// Closest finds the passage of the content (one line of its text, or a sentence of a long line)
+// that shares the most words with a quotation the content does not contain, so a check can show
+// the model what the source actually says instead of letting it search. score is the share of the
+// quotation's words found in the passage (0 to 1).
+func Closest(content, quote string) (passage string, score float64) {
+	words := func(s string) []string {
+		return strings.FieldsFunc(strings.ToLower(FoldQuote(s)), func(r rune) bool {
+			return !unicode.IsLetter(r) && !unicode.IsDigit(r) && !unicode.Is(unicode.Mn, r) && !unicode.Is(unicode.Mc, r)
+		})
+	}
+	want := words(quote)
+	if len(want) == 0 {
+		return "", 0
+	}
+	for _, line := range strings.Split(Text(content), "\n") {
+		parts := []string{line}
+		if utf8.RuneCountInString(line) > 400 {
+			parts = sentenceEnd.Split(line, -1)
+		}
+		for _, part := range parts {
+			part = strings.Join(strings.Fields(part), " ")
+			have := map[string]int{}
+			for _, w := range words(part) {
+				have[w]++
+			}
+			found := 0
+			for _, w := range want {
+				if have[w] > 0 {
+					have[w]--
+					found++
+				}
+			}
+			if s := float64(found) / float64(len(want)); s > score {
+				passage, score = part, s
+			}
+		}
+	}
+	return passage, score
+}
+
+var sentenceEnd = regexp.MustCompile(`(?:[.!?।]["'”’»]?)\s+`)
+
+// Closest is the source's closest passage to a quotation it does not contain (see Closest).
+func (e Evidence) Closest(quote string) (string, float64) {
+	if e.Rendered {
+		return Closest(e.Text, quote)
+	}
+	return Closest(e.Content, quote)
 }
