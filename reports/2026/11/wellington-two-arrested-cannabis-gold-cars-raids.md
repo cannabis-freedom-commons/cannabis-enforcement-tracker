@@ -80,19 +80,24 @@ sources:
     url: https://www.nzherald.co.nz/nz/wellington/wellington-drug-bust-police-seize-millions-in-assets-guns-and-classic-cars/7BKWD6F2LBHHPKEKIOX64YZN4Q/
     publisher: NZ Herald
     date: 2026-11-13
+  - title: 惠灵顿警方查获冰毒、金条和9辆老爷车 两名男子被捕
+    url: https://news.skykiwi.com/na/zh/2026-11-14/554899.shtml
+    publisher: 新西兰天维网
+    date: 2026-11-14
+    language: zh
 ---
 
 Wellington Police arrested two men who face more than 20 drug- and
-firearm-related charges after seizing guns, drugs, cash, gold and cars. [@4] A
+firearm-related charges after seizing guns, drugs, cash, gold and cars. [@4,6] A
 53-year-old Wellington man was remanded in custody and will reappear in the
 Wellington District Court on 3 December facing 18 drug-related charges including
 possession for supply of fantasy, methamphetamine and cannabis, cultivating
-cannabis and money laundering. [@1] A 32-year-old Johnsonville man was remanded
+cannabis and money laundering. [@1,6] A 32-year-old Johnsonville man was remanded
 on bail and will reappear in the Wellington District Court on 3 December facing
 charges of unlawful possession of a restricted weapon and possession of
-methamphetamine. [@1]
+methamphetamine. [@1,6]
 
-Officers found the haul during a two-day search of two properties. [@1,5] The haul
+Officers found the haul during a two-day search of two properties. [@1,5,6] The haul
 included cannabis alongside GHL (gamma-hydroxybutyrate), a kilo of
 methamphetamine in distinctive wrapping worth approximately $105,000, and space
 vape liquid and packaging. [@1] Police also recovered cases of cash estimated to
