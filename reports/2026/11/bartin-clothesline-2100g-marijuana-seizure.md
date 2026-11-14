@@ -62,6 +62,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-13
     language: tr
+  - title: Bartın'da çamaşır askısında uyuşturucu kurutmuşlar! 2 gözaltı
+    url: https://www.safakgazete.com/bartinda-camasir-askisinda-uyusturucu-kurutmuslar-2-gozalti
+    publisher: Şafak Gazetesi
+    date: 2026-11-13
+    language: tr
 open_questions:
     - No charge, custody decision or court outcome was reported beyond the two detentions.
     - The two dispatches on the same raid give different cannabis weights (2 kilo 110 gram and 2 kilo 100 gram), so the report keeps the 2.1 kg figure and records the discrepancy.
@@ -71,12 +76,12 @@ open_questions:
 Police teams of the Bartın Police Department Anti-Narcotic Crimes Branch
 Directorate, working under the coordination of the Bartın Chief Public
 Prosecutor's Office, ran a simultaneous operation at two addresses in the city.
-[@1,3,4] In the searches, officers found that harvested hemp plants had been dried
-on a clothesline and turned into marijuana. [@1,4] The seizures came to 2
+[@1,3,4,5] In the searches, officers found that harvested hemp plants had been dried
+on a clothesline and turned into marijuana. [@1,4,5] The seizures came to 2
 kilograms 100 grams of marijuana and one blank-firing gun, and two people were
-detained in connection with the incident. [@1,3,4] Police said efforts to catch one
+detained in connection with the incident. [@1,3,4,5] Police said efforts to catch one
 further suspect linked to the incident were ongoing and that the
-drug-trafficking investigation continued. [@1] İHA reported that the same
+drug-trafficking investigation continued. [@1,5] İHA reported that the same
 two-address simultaneous operation was carried out by the Bartın Police
 Department's Anti-Narcotics Crimes Branch Directorate under the coordination of
 the Bartın Chief Public Prosecutor's Office, where searches found harvested hemp
