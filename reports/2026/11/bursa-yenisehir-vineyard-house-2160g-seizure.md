@@ -94,15 +94,20 @@ sources:
     publisher: Herkes Duysun
     date: 2026-11-13
     language: tr
+  - title: 'Bağ evinde suç unsurları: Yenişehir''de 2 kilo 160 gram kubar esrar bulundu'
+    url: https://www.aksiyon.com.tr/bag-evinde-suc-unsurlari-yenisehir-de-2-kilo-160-gram-kubar-esrar-bulundu-394563
+    publisher: Aksiyon
+    date: 2026-11-13
+    language: tr
 ---
 
 Yenişehir district gendarmerie teams and narcotics dog units raided a vineyard
-house in Mahmudiye Mahallesi in Yenişehir, Bursa. [@1,4,5,7,8,9] Officers detained a
-65-year-old man identified as K.S. during the operation. [@1,4,5,7,8,9]
+house in Mahmudiye Mahallesi in Yenişehir, Bursa. [@1,4,5,7,8,9,10] Officers detained a
+65-year-old man identified as K.S. during the operation. [@1,4,5,7,8,9,10]
 
 The search found 2 kilograms 160 grams of material assessed to be kubar esrar,
 the Turkish term for compressed cannabis. [@1,4,6,7,8,9] Officers also seized 50 grams of
-cannabis seeds at the address. [@2,4,6,8,9] Officers also seized a precision scale and a
+cannabis seeds at the address. [@2,4,6,8,9,10] Officers also seized a precision scale and a
 drug-use implement at the address. [@1,4,5,8,9] Officers also seized an unlicensed
 shotgun and four cartridges. [@1,4,5,8,9]
 
