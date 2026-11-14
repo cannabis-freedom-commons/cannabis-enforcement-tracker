@@ -57,11 +57,11 @@ sources:
     publisher: TBS NEWS DIG
     date: 2026-11-14
     language: ja
-open_questions:
-  - The 12 million yen retail value is a combined figure across all substances (amphetamine, marijuana, LSD) and cannot be split into a cannabis-only value.
-  - The woman has not confirmed or denied the charges; her statement of position is not reported.
-  - No court outcome, trial date, or charges has been reported as of the latest coverage; the case is at the investigation stage.
-  - The full scope of the trafficking network — beyond the five or more named men recruited — has not yet been established by police.
+  - title: '"有名キャラクターの袋"に違法薬物を入れて販売か 密売Gリーダーとみられる25歳女を逮捕=静岡・浜松市'
+    url: https://newsdig.tbs.co.jp/articles/-/3085660?page=2
+    publisher: TBS NEWS DIG
+    date: 2026-11-14
+    language: ja
 ---
 
 Shizuoka Prefectural Police Drug and Firearms Countermeasures Section and
@@ -69,13 +69,13 @@ Hamamatsu East Police Station announced the arrest of a 25-year-old woman born
 in Hamamatsu on 13 November 2026 for possession of amphetamine, marijuana, and
 LSD for profit in June 2026. [@2] The arrest is dated 27 October 2026, her fifth
 arrest this year since February 2026, and police believe she trafficked drugs in
-western Shizuoka from around 2024. [@2]
+western Shizuoka from around 2024. [@2] Police then found the woman at a love hotel in Hamamatsu on 10 February 2026 and arrested her. [@5] The investigation began after stimulants and cannabis were found in November 2024 inside a rental car left at a convenience store in Hamamatsu, which led police to implicate the woman. [@5]
 
 Police say she was in possession of about 0.4 grams of amphetamine, about 0.6
 grams of marijuana, and LSD inside a parked car in Hamamatsu City in June 2026
-for profit, though she has not been asked to confirm or deny the charges. [@2]
+for profit, though she has not been asked to confirm or deny the charges. [@2] Police have not disclosed whether the woman admits the allegations, citing interference with the investigation. [@5] A subsequent urine test was positive for stimulants, after which police repeatedly arrested the woman. [@5] At that arrest, cocaine, MDMA and magic mushrooms were also found in her belongings and in the car she used, in addition to stimulants and cannabis. [@5]
 The seized drugs are valued at over 12 million yen at retail prices, with the
-same figure confirmed across multiple reporting outlets. [@1]
+same figure confirmed across multiple reporting outlets. [@1,5]
 
 The woman is considered the leader of the trafficking ring, having recruited
 more than five men — including middle-school juniors and customers — to sell
@@ -87,4 +87,3 @@ Police believe the woman sold drugs via other dealers, and that the seizure of
 over 12 million yen in retail value came from residential searches at related
 locations. [@3] The police announced the seized items on 13 November 2026, and
 this is her fifth arrest in the incident so far. [@4]
-
