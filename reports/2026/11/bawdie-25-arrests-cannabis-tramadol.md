@@ -49,17 +49,14 @@ sources:
     url: https://3news.com/news/crime/police-arrest-25-suspects-in-bawdie-drug-operation
     publisher: 3News
     date: 2026-11-13
-open_questions:
-  - The cannabis and the tramadol retrieved were not weighed, so no weight is recorded for either substance.
-  - The article gives no figure for the amount of money retrieved.
-  - The report does not say where in Bawdie the operation took place.
-  - No charges have been filed and no court date was reported; the suspects were still under investigation.
-  - The article gives no separate date for the operation itself; 11 November 2026 is the date the intelligence was received.
-  - The whole account rests on a single report of the police statement.
+  - title: 'WR: Police arrest 25 suspects in Bawdie drug operation | CediRates'
+    url: https://cedirates.com/news/wr-police-arrest-25-suspects-in-bawdie-drug-operation?ref=cedirates
+    publisher: CediRates
+    date: 2026-11-14
 ---
 
 Police arrested 25 people in an intelligence-led operation against narcotic
-drugs in Bawdie, in Ghana's Western Region. [@1] The operation followed
+drugs in Bawdie, in Ghana's Western Region. [@1,2] The operation followed
 intelligence received on Wednesday, 11 November 2026, at 2215 hours. [@1]
 Twenty-three of those arrested are Ghanaians, one is a Togolese and one is a
 Nigerian. [@1] The suspects are in police custody assisting with investigations
@@ -74,4 +71,3 @@ Police said the operation was aimed at ensuring an incident-free Christmas
 celebration, before, during and after the festive season. [@1] The statement was
 signed by Assistant Superintendent of Police Beatrice Turkson, Head of the
 Public Affairs Unit of the Western Central Regional Police Command. [@1]
-
