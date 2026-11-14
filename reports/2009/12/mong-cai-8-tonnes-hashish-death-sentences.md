@@ -47,6 +47,7 @@ open_questions:
 sources:
   - title: Foreigners arrested in Vietnam's largest drug bust
     url: https://ccguide.org/news/shownewsarticle.php?articleid=14566
+    archived: https://web.archive.org/web/20241208215244/https://ccguide.org/news/shownewsarticle.php?articleid=14566
     publisher: Top News (dpa)
     date: 2008-05-15
   - title: Vietnam's biggest ever seizure of marijuana
@@ -55,12 +56,17 @@ sources:
     date: 2008-05-16
   - title: Vietnam record drug seizure suspects convicted
     url: https://en.wikinews.org/wiki/Vietnam_record_drug_seizure_suspects_convicted
+    archived: https://web.archive.org/web/20260508205923/https://en.wikinews.org/wiki/Vietnam_record_drug_seizure_suspects_convicted
     publisher: Wikinews
     date: 2009-12-27
   - title: Five Condemned To Death For Hashish In Vietnam
     url: https://www.cannabisculture.com/content/2009/12/28/five-condemned-death-hashish-vietnam/
     publisher: Cannabis Culture (Toke of the Town)
     date: 2009-12-28
+  - title: Seized Hash Likely Canada Bound
+    url: https://web.archive.org/web/20080705121510/http://www.mapinc.org/drugnews/v08/n503/a06.html
+    publisher: The Globe and Mail
+    date: 2008-05-16
 ---
 
 Five suspects were arrested on 12 May 2008 after police found hashish packed
@@ -83,3 +89,11 @@ trafficking nearly eight tons of marijuana by sea. [@3] The court confiscated
 19,600 jeans used as cover and HK$1.5 million in assets. [@3] The men
 had also been charged with smuggling almost $180,000 in cash. [@4] Vietnam
 punishes trafficking 5 kg or more of marijuana resin with death. [@1]
+
+The two containers, numbered GLDU 7367200 and WHLU 5086522, had landed at the
+Chua Ve terminal in Haiphong on 22 April, after the suspects applied at the end
+of April for permits to import two containers of Pakistani blue jeans. [@5]
+The men then left Vietnam, flew back about a week later, rented trailer rigs
+and were arrested in Quang Ninh before they could cross into Dongxing in China. [@5]
+The 400 cardboard boxes each hid 2.2 kg bundles of dark resin under layers of
+jeans and orange-drink packets. [@5]
