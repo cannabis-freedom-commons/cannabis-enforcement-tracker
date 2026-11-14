@@ -123,18 +123,23 @@ sources:
     publisher: Alessandria Oggi
     date: 2026-11-13
     language: it
+  - title: 'Si fa spedire a casa 13 chili di marijuana, ma alla consegna c''è un poliziotto camuffato da corriere: arrestato'
+    url: https://www.fanpage.it/milano/si-fa-spedire-a-casa-13-chili-di-marijuana-ma-alla-consegna-ce-un-poliziotto-camuffato-da-corriere-arrestato/
+    publisher: Milano Fanpage
+    date: 2026-11-13
+    language: it
 ---
 
 Milan State Police arrested a 23-year-old Italian man for alleged possession of
 drugs for dealing and seized 13 kg of marijuana shipped inside two large packing
-boxes. [@2,4,6,9,10,11,12,13,14,15] An officer disguised himself as a courier to make the delivery, and
+boxes. [@2,4,6,9,10,11,12,13,14,15,16] An officer disguised himself as a courier to make the delivery, and
 the young man was arrested after signing the handheld device to take the
-parcels. [@1,7,8,10,12,13,14]
+parcels. [@1,7,8,10,12,13,14,16]
 
 Rho-Pero police acted after a shipping-company worker in the Rho area reported a
-strong marijuana smell coming from two large parcels. [@2,5,6,7,9,11,12,13,14,15] Inside the parcels
+strong marijuana smell coming from two large parcels. [@2,5,6,7,9,11,12,13,14,15,16] Inside the parcels
 officers found four bags holding 13 kg of marijuana and a satellite GPS tracker.
-[@2,4,5,6,7,8,9,11,12,13,14] Prosecutors authorised a delayed seizure so officers could identify the
+[@2,4,5,6,7,8,9,11,12,13,14,16] Prosecutors authorised a delayed seizure so officers could identify the
 recipient, and with the help of Milan's Flying Squad they traced him to Novate
 Milanese. [@2,6,7,12]
 
