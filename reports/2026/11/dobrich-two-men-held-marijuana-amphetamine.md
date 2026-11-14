@@ -50,11 +50,16 @@ sources:
     publisher: Регионална телевизия Добрич
     date: 2026-11-13
     language: bg
+  - title: Задържаха двама с марихуана амфетамин при спецакция в Добрич (Снимки)
+    url: https://www.24chasa.bg/bulgaria/article/23926957
+    publisher: 24chasa.bg
+    date: 2026-11-13
+    language: bg
 ---
 
 Two men known to the interior authorities were detained in Dobrich during a
 specialized police operation against the distribution of narcotic substances.
-[@1,3] The operation was carried out on 12 November at about 23:30 by officers of
+[@1,3,4] The operation was carried out on 12 November at about 23:30 by officers of
 the First District Administration in Dobrich. [@1,3]
 
 During the check, officers found on the two men 12 foil rolls containing 4.98
