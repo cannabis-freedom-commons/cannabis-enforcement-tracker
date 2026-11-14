@@ -66,22 +66,27 @@ sources:
     url: https://www.instagram.com/p/DfnSYPZmpT3/
     publisher: Crime World
     date: 2026-11-11
+  - title: Van driver jailed after being caught with €840,000 of cannabis
+    url: https://dublinpeople.com/news/court/articles/2026/11/13/cannabis-van/
+    publisher: Dublin People
+    date: 2026-11-13
+    language: en
 open_questions:
-  - No date or place was given for the customs interception of the 42 kg package.
-  - The headline gives the sentence as five years; the report uses the more precise figure of five years and one month from the article text.
-  - It is not reported whether any part of the prison term was suspended.
-  - The hearing is dated from the 11 November 2026 report, which says the court heard the case that day.
+    - No date or place was given for the customs interception of the 42 kg package.
+    - The headline gives the sentence as five years; the report uses the more precise figure of five years and one month from the article text.
+    - It is not reported whether any part of the prison term was suspended.
+    - The hearing is dated from the 11 November 2026 report, which says the court heard the case that day.
+    - The cocaine-related 2023 checkpoint incident is a separate matter from the cannabis case and is not recorded as a distinct report here.
 ---
 
 A man was jailed for five years and one month after €840,000 of cannabis was
-found in the van he was driving. [@1] He is Andrew Byrne, 45, with addresses in
+found in the van he was driving. [@1] Judge Martin Nolan imposed a one-year sentence for the cocaine and a consecutive sentence of four years and one month on the charge of possessing the cannabis. [@3] He is Andrew Byrne, 45, with addresses in
 Blackrock and Bray. [@1] Those addresses are Fleurville Road, Blackrock, Co.
 Dublin and Putland Road, Bray, Co. Wicklow. [@2] Gardaí caught him transporting
-the drugs on the N7. [@1]
+the drugs on the N7. [@1] Gardaí stopped Byrne on the N7 near Clondalkin on May 7, 2024. [@3]
 
 Dublin Circuit Criminal Court heard that customs intercepted a package
 containing 42 kg of cannabis, valued at €840,000, concealed in Tupperware. [@2]
 
 He pleaded guilty to two counts of possession of drugs for sale or supply. [@2]
-He said he did not know exactly what was in the package. [@1]
-
+He said he did not know exactly what was in the package. [@1] Byrne has 17 previous convictions, all at the District Court, including for assault and public order offences. [@3]
