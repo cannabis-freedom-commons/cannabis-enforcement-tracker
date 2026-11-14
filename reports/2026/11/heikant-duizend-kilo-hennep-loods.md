@@ -30,17 +30,17 @@ sources:
     publisher: Omroep ZVL
     date: 2026-11-13
     language: nl
-open_questions:
-    - No figure for the exact weight of the cannabis seized was published; the accounts give just over a thousand kg.
-    - The Heikant warehouse's municipality is not named; Heikant is a village in Zeeland (municipality of Hulst), so the warehouse is in Zeeland.
-    - No amount of cash, number or kind of data media, or any count of plants was published.
-    - No further arrests, charges or court outcome have been reported yet.
+  - title: Ruim 1.000 kilo wiet gevonden bij inval Zeeuwse loods in lopend onderzoek drugshandel | Crime
+    url: https://drimble.nl/dossiers/crime/108595460/ruim-1000-kilo-wiet-gevonden-bij-inval-zeeuwse-loods-in-lopend-onderzoek-drugshandel.html
+    publisher: Drimble
+    date: 2026-11-13
+    language: nl
 ---
 
 In a warehouse in Heikant officers found just over a thousand kilograms of
-cannabis. [@1,2] The police action took place on Thursday 12 November. [@3] In the same investigation the police also searched a home in
-Philippine, where officers found thousands of euros in cash. [@1,2,3] During the
-police action officers held one suspect. [@1,2,3]
+cannabis. [@1,2,4] The police action took place on Thursday 12 November. [@3] In the same investigation the police also searched a home in
+Philippine, where officers found thousands of euros in cash. [@1,2,3,4] During the
+police action officers held one suspect. [@1,2,3,4]
 
 Officers also took various data carriers for further investigation. The resident
 was held, and the police seized the drugs found and the cash. [@1]
