@@ -65,32 +65,31 @@ sources:
     publisher: Infobae
     date: 2026-11-13
     language: es
-open_questions:
-    - No charges, detention ruling or court outcome had been reported; the men had just been moved to Golfito to continue the judicial process.
-    - The boat's origin and intended destination had not been established.
-    - No authority had said the shipment belonged to any group linked to Mexican trafficker Rafael Caro Quintero; the name appeared only on the packaging stickers, which the authorities are investigating.
-    - An earlier interception of a boat named Pez Gallo off Sierpe de Osa on 8 November 2026 (two Colombians and one Ecuadorian) is not yet in the tracker; it is a separate event left out of this report.
-    - 'Sources round the cargo differently: La Teja reports nearly two tonnes, while Infobae gives the final weighed count as 1,923 kilograms.'
+  - title: '"Lo mejor de Caro Quintero": Decomisan casi dos toneladas de marihuana en el Pacífico'
+    url: https://www.teletica.com/amp/sucesos/lo-mejor-de-caro-quintero-decomisan-casi-dos-toneladas-de-marihuana-en-el-pacifico_421108
+    publisher: Teletica
+    date: 2026-11-13
+    language: es
 ---
 
 Costa Rican authorities intercepted a fast boat carrying nearly two tonnes of
 marijuana 118 nautical miles south of Cabo Matapalo, in the southern Pacific.
-[@1,2] The operation was run by the Public Security Ministry together with the US
+[@1,2,3] The operation was run by the Public Security Ministry together with the US
 Drug Enforcement Administration, with support from United States and Colombian
 authorities. [@1] In Costa Rica the operation involved the Drug Control Police, the criminal intelligence directorate and the special support unit. [@2]
 
 The boat's drug packages carried unusual stickers with images of Caro Quintero
 and the character Gasparín (Casper). [@1] Two tonnes of marijuana were seized.
-[@1] After the boat was moved to Golfito, police established that it carried 1,923 kilograms of marijuana, about 1.9 tonnes. [@2]
+[@1] After the boat was moved to Golfito, police established that it carried 1,923 kilograms of marijuana, about 1.9 tonnes. [@2,3]
 
 The vessel was located in a coordinated effort with the US Joint Interagency
-Task Force South and the Colombian Navy, with a US aircraft in support. [@1,2] The
+Task Force South and the Colombian Navy, with a US aircraft in support. [@1,2,3] The
 security ministry said this was the second drug boat intercepted in Pacific
 waters that week. [@1] The boat was a registration-free, flagless fast vessel
-fitted with eight fuel drums. [@1] The vessel was powered by two 200-horsepower outboard motors. [@2]
+fitted with eight fuel drums. [@1,3] The vessel was powered by two 200-horsepower outboard motors. [@2]
 
 Aboard were two men: an Ecuadorian with the surname Castillo Zambrano, who was
-the captain, and a Nicaraguan with the surname Pictan Siu. [@1,2] Both were
-detained by officers of the Coast Guard's Special Operations Group (GOPES). [@1]
+the captain, and a Nicaraguan with the surname Pictan Siu. [@1,2,3] Both were
+detained by officers of the Coast Guard's Special Operations Group (GOPES). [@1,3]
 The suspects, the vessel and the seized cargo were taken to the port of Golfito.
-[@1,2]
+[@1,2,3]
