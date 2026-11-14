@@ -41,6 +41,11 @@ sources:
     publisher: جريدة الشروق التونسية
     date: 2026-11-12
     language: ar
+  - title: 'عاجل: سلاح كلاشنكوف و247 خرطوشة... تفاصيل عملية عسكرية ناجحة على الحدود الصحراوية'
+    url: https://www.tuniscope.com/article/444604/arabe/actu-arabe/tunisie-562215
+    publisher: Tuniscope
+    date: 2026-11-12
+    language: ar
 open_questions:
     - 30 September 2026 is used as the end of the reported September 2025 to September 2026 period; no date, location, unit or operation was published for any individual cannabis seizure.
     - No cannabis-specific arrests, charges or court outcomes were published in this account.
@@ -48,6 +53,8 @@ open_questions:
     - The 1.4 million narcotic tablets are listed separately from the cannabis and are not counted in the cannabis figure.
     - The same statement also reported 316 seized vehicles and seized weapons, left out here as separate non-cannabis enforcement with no cannabis link published.
     - Al Chourouk gives 519 kg of cannabis and 1,564 border-crossing arrests, while Mosaique FM gives 516 kg and about 1,465; the report retains 516 kg and no cannabis link was published for either arrest count.
+    - Tuniscope gives 519 kg of cannabis for the same September 2025 to September 2026 tally, while the report retains 516 kg from Mosaique FM.
+    - Tuniscope also describes an October desert-border seizure of a Kalashnikov rifle and 247 cartridges and 1,564 clandestine border-crossing interceptions, with no published cannabis link.
 ---
 
 Tunisia's Defence Minister Khaled Sehili said the armed forces recorded
@@ -60,9 +67,9 @@ border-surveillance system had proved effective at detecting and handling
 suspicious movements. [@1]
 
 The results he presented covered the period from September 2025 to September
-2026. [@1,2] For that year, he put the seizures at 516 kilograms of cannabis,
+2026. [@1,2,3] For that year, he put the seizures at 516 kilograms of cannabis,
 reported as qinnab hindi. [@1] The same annual tally listed 1.4 million narcotic
-tablets separately from the cannabis. [@1,2]
+tablets separately from the cannabis. [@1,2,3]
 
 Sehili said the navy was continuing its missions against threats and securing
 the maritime approaches as part of an integrated system protecting land and sea.
