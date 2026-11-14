@@ -62,6 +62,10 @@ sources:
     url: https://wtop.com/virginia/2022/10/va-mother-charged-after-4-year-old-son-dies-from-eating-large-amount-of-thc-gummies/
     publisher: WTOP
     date: 2022-10-21
+  - title: Are THC Gummies Toxic to Kids? Mother Charged After Child Dies - Newsweek
+    url: https://www.newsweek.com/are-thc-gummies-toxic-kids-mother-charged-after-child-dies-1754301
+    publisher: Newsweek
+    date: 2022-10-24
 open_questions:
     - The felony murder charge was later amended to involuntary manslaughter under a plea deal accepted in June 2023, so the murder charge in the report title describes the original indictment.
     - The gummies are described as Delta-8 THC edibles; no weight, count of gummies eaten or street value of the product was published, so no cannabis quantity is recorded.
@@ -74,7 +78,7 @@ open_questions:
 
 Dorothy Annette Clements, 30, of Spotsylvania, Virginia, was charged with murder
 and felony child neglect after her 4-year-old son died from eating THC gummies,
-police said. [@1,6] She was arrested on 19 October, two days after a grand jury
+police said. [@1,6,8] She was arrested on 19 October, two days after a grand jury
 indicted her over the May death of her son. [@1,6] She was held without bond at the Rappahannock Regional Jail. [@7] Spotsylvania County Sheriff's
 Office Major Troy Skebo said child-victim detectives learned from doctors that
 the boy's toxicity level showed a high level of THC. [@2] The boy was 4-year-old
@@ -84,7 +88,7 @@ he ate them in May 2022, prosecutors said. [@5]
 Police said Clements failed to get her son help quickly enough after he was
 found unresponsive on 6 May at a Fredericksburg home they were visiting, and
 that he died two days later. [@1] A doctor told detectives the boy could have
-been saved if he had received medical attention sooner. [@1,6] An autopsy found
+been saved if he had received medical attention sooner. [@1,6,8] An autopsy found
 THC, the ingredient in marijuana that gets people high, was the cause of death,
 NBC Washington reported. [@1] NBC4 Washington reported that the boy had a
 medical emergency at a home he and his mother were visiting and died two days
@@ -92,7 +96,7 @@ later, and that the station had also reported an empty THC gummy jar found in
 the house. [@3] Clements told police she called poison control after the boy ate
 half of a CBD gummy and was told he would be fine, but police said her claims
 did not match evidence found at the home, where a detective reported finding an
-empty THC gummy jar. [@1] Spotsylvania County sheriff's investigators, quoted
+empty THC gummy jar. [@1,8] Spotsylvania County sheriff's investigators, quoted
 through a WWBT report, said the boy died on 8 May after a medical emergency two
 days earlier. [@4,6]
 
