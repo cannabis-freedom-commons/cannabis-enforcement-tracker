@@ -47,28 +47,24 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-11-13
     language: hi
-open_questions:
-  - The 41 kg figure is an approximate eight-month tally; the dates and individual weights of the four seizures were not published.
-  - 12 November 2026 is the publication date of the submitted account and is used as the incident date; the eight-month period has no stated start date.
-  - No estimated value for the seized ganja was published.
-  - The accounts rest on Bokaro GRP statements via Prabhat Khabar reports by the same reporter; no separate agency statement was opened.
-  - Theft cases and festival-safety appeals in the same articles are not cannabis enforcement and their counts are excluded from the cannabis figures.
-  - Prabhat Khabar used an AI-generated train-search illustration labelled as such, so no photo of these seizures is listed.
+  - title: Amid Chhath rush, Bokaro GRP lens on smuggling, thefts on trains
+    url: https://timesofindia.indiatimes.com/city/ranchi/amid-chhath-rush-bokaro-grp-lens-on-smuggling-thefts-on-trains/articleshow/135800546.cms
+    publisher: The Times of India
+    date: 2026-11-13
 ---
 
 For the Chhath festival rush, Bokaro Government Railway Police, India's state
 railway police, increased surveillance at Bokaro railway station and on trains.
-[@1] The drive targets theft and ganja smuggling through intensive searches
+[@1,3] The drive targets theft and ganja smuggling through intensive searches
 across the station premises and trains. [@1] In the past eight months, Bokaro
-GRP recovered about 41 kg of ganja in four separate actions. [@1] No smuggler
-had been arrested in those four ganja cases. [@1]
+GRP recovered about 41 kg of ganja in four separate actions. [@1,3] No smuggler
+had been arrested in those four ganja cases. [@1,3]
 
 Station in-charge P. K. Tiwari said ganja was found three times on the
-Dhanbad-Alleppy Express and once on the Dhanbad-Bhubaneswar Express. [@1] Police
+Dhanbad-Alleppy Express and once on the Dhanbad-Bhubaneswar Express. [@1,3] Police
 suspect smugglers are moving consignments from Odisha by train to different
-destinations. [@1] Police said efforts are continuing to identify and arrest the
+destinations. [@1,3] Police said efforts are continuing to identify and arrest the
 smugglers. [@2]
 
-Bokaro GRP registered 28 cases for various offences this year. [@2] Police asked
+Bokaro GRP registered 28 cases for various offences this year. [@2,3] Police asked
 passengers not to leave their luggage unattended. [@2]
-
