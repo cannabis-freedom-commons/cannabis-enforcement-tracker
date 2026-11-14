@@ -55,6 +55,11 @@ sources:
     publisher: nu.cw
     date: 2020-10-09
     language: nl
+  - title: Marijuana plantation with almost 4.5 thousand confiscated
+    url: https://www.curacaochronicle.com/post/local/marijuana-plantation-with-almost-45-thousand-confiscated
+    publisher: Curaçao Chronicle
+    date: 2020-10-09
+    language: en
 open_questions:
   - The plant count differs between sources as nearly 4,500 and exactly 4,437; the report uses the more precise police update of 4,437.
   - The second arrest is dated only as Monday in the 14 October 2020 article and is taken as 12 October 2020; no calendar date was published.
@@ -66,11 +71,11 @@ open_questions:
 
 Police uncovered a drug lab and marijuana plantation on Scherpenheuvel near
 Willemstad and then arrested a second suspect in the case. [@1] The first raid
-took place on the morning of 9 October 2020. [@2] A 39-year-old man was arrested
-on the spot during that raid. [@1] On the following Monday, officers arrested a
+took place on the morning of 9 October 2020. [@2,3] A 39-year-old man was arrested
+on the spot during that raid. [@1,3] On the following Monday, officers arrested a
 43-year-old man as the second suspect. [@1]
 
-Officers seized 4,437 marijuana plants in the operation. [@2] The
+Officers seized 4,437 marijuana plants in the operation. [@2,3] The
 English-language report described the find as nearly 4,500 plants. [@1] Officers
 also seized a laboratory for producing marijuana, along with other tools for
 preparing drugs. [@2] Part of the plantation was inside an uninhabited house
@@ -82,4 +87,3 @@ investigation into prohibited weapons possession and violation of the Opium Act,
 the drug law. [@2] Police found illegal tapping of electricity and water, and
 staff from utilities company Aqualectra attended to disconnect the illegal
 connections. [@2]
-
