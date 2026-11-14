@@ -66,24 +66,24 @@ sources:
     publisher: Комсомольская правда — Саратов
     date: 2026-11-13
     language: ru
-open_questions:
-  - The 200 grams of hashish is reported as an approximate figure, not an exact measured weight.
-  - No names, custody measure or court outcome were reported; the case was at the investigation stage.
-  - The photographs published with the accounts are police handout images.
+  - title: Два жителя Саратовской области задержаны за сбыт наркотиков
+    url: https://zur-saratov.ru/news/article/dva-jitelya-saratovskoy-oblasti-zaderjany-za-sbyt-narkotikov-205770/
+    publisher: Журнал Саратов
+    date: 2026-11-13
+    language: ru
 ---
 
 On 11 November, officers of the Saratov city police drug-control unit detained
 two 27-year-old men near a house on Volsky Trakt in Saratov on suspicion of drug
-trafficking. [@3] One detainee was a previously unconvicted resident of Volsk
-and the other a previously convicted resident of Saratov. [@1]
+trafficking. [@3,5] One detainee was a previously unconvicted resident of Volsk
+and the other a previously convicted resident of Saratov. [@1,5]
 
 During a personal search, officers found and seized about 200 grams of hashish
-from the Saratov resident. [@2] Officers later seized 4.10 grams of marijuana
-from a dead-drop stash near a house on Prokatchnaya Street. [@2] Officers found
+from the Saratov resident. [@2,5] Officers later seized 4.10 grams of marijuana
+from a dead-drop stash near a house on Prokatchnaya Street. [@2,5] Officers found
 another 14.34 grams of marijuana under the bathtub in the suspects' rented flat.
-[@2] Police said the drugs were presumably intended for onward sale. [@1]
+[@2,5] Police said the drugs were presumably intended for onward sale. [@1]
 
 A criminal case was opened under part 3 of article 30 and point g of part 4 of
 article 228.1 of the Criminal Code, attempted illegal sale of narcotics on a
-large scale. [@4] The two men face up to 20 years' imprisonment. [@1]
-
+large scale. [@4,5] The two men face up to 20 years' imprisonment. [@1,5]
