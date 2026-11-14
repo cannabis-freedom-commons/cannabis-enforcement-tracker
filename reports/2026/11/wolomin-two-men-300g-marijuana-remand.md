@@ -64,24 +64,34 @@ sources:
     publisher: TVN Warszawa
     date: 2026-11-12
     language: pl
+  - title: 'Wołomin: Mieszkanie poza stolicą służyło za narkotykowy magazyn'
+    url: https://informacje.wp.pl/wiadomosci/mieszkanie-poza-stolica-sluzylo-za-narkotykowy-magazyn-kryminalni-zatrzymali-dwoch-kolegow-7350143643781568a
+    publisher: WP Info
+    date: 2026-11-12
+    language: pl
+  - title: Mieszkanie poza stolicą służyło za narkotykowy magazyn. Kryminalni zatrzymali dwóch kolegów
+    url: https://www.kryminalki.pl/artykul/36843,mieszkanie-poza-stolica-sluzylo-za-narkotykowy-magazyn-kryminalni-zatrzymali-dwoch-kolegow
+    publisher: Kryminalki.pl
+    date: 2026-11-12
+    language: pl
 ---
 
 Criminal police officers from Bielany, a district of Warsaw, detained two men
-suspected of possessing large quantities of narcotics. [@1,2] Officers first
+suspected of possessing large quantities of narcotics. [@1,2,4] Officers first
 traced a flat rented outside Warsaw that they believed was used to store drugs,
 then stopped two men entering it just after 8 pm; no date for the operation is
-given. [@1,2] The detained men were a 41-year-old and a 45-year-old. [@1,2]
+given. [@1,2,4] The detained men were a 41-year-old and a 45-year-old. [@1,2,4]
 
 The younger man carried plastic bags of a light, clumped substance and a
 vaporiser with THC oil, while the older man had a plastic bag of dried plant
-material. [@1] A search of the flat found aluminium foil with another portion of
-a light, clumped substance on a table. [@1] Tests showed the seized material was
+material. [@1,4] A search of the flat found aluminium foil with another portion of
+a light, clumped substance on a table. [@1,4] Tests showed the seized material was
 just over a kilogram of amphetamine, almost 30 grams of mephedrone and close to
-300 grams of marijuana; only the marijuana is counted here. [@1,2,3]
+300 grams of marijuana; only the marijuana is counted here. [@1,2,3,4]
 
 Both men were charged with possessing a significant quantity of narcotics, and
 the 41-year-old faced an additional charge for possessing mephedrone in the
-flat. [@1,2,3] A court remanded both suspects in custody for three months. [@1,2,3] The
+flat. [@1,2,3,5] A court remanded both suspects in custody for three months. [@1,2,3,5] The
 charges carry up to 10 years in prison, and the Wołomin district prosecutor's
-office is supervising the case. [@1,2,3] The account rests on a police statement
+office is supervising the case. [@1,2,3,5] The account rests on a police statement
 given by subst-insp. Elwira Kozłowska and published by local outlets. [@1]
