@@ -2,6 +2,7 @@
 package research
 
 import (
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/proc"
 	"unicode"
 
 	"bufio"
@@ -901,7 +902,7 @@ func (r Runner) Snapshot(ctx context.Context, cid string) (string, error) {
 	// History only, for the addition times of reports (added_at.go): the objects stay in the
 	// repository (--shared) and the files come from snapshotSite, so a job costs megabytes, not a
 	// full copy of the repository. Nothing commits in a workspace.
-	cmd := exec.CommandContext(ctx, "git", "clone", "--shared", "--no-checkout", "--quiet", "--", repo, dir)
+	cmd := proc.Own(exec.CommandContext(ctx, "git", "clone", "--shared", "--no-checkout", "--quiet", "--", repo, dir))
 	if err = cmd.Run(); err != nil {
 		return "", errors.New("isolated checkout failed")
 	}
@@ -1088,7 +1089,7 @@ func (s *Session) Correct(ctx context.Context, run, problem string) (result Resu
 		return Result{}, err
 	}
 	feedback := "The service rejected your JSON result: " + problem + "\nCorrect the result using the sources and reports you already read; open more only if needed. Do not invent missing evidence. Return exactly one complete JSON result matching the contract in the agent instructions."
-	cmd := exec.CommandContext(ctx, s.cmd.Path, correctionArgs(s.cmd.Args[1:], feedback)...)
+	cmd := proc.Own(exec.CommandContext(ctx, s.cmd.Path, correctionArgs(s.cmd.Args[1:], feedback)...))
 	cmd.Env, cmd.Dir = s.cmd.Env, s.cmd.Dir
 	result, runErr = r.execute(ctx, s.cid, s.dir, run, cmd, true)
 	s.keep = resumableRunError(runErr) && r.Config.ResearchRunner == "local"
@@ -1119,7 +1120,7 @@ func (r Runner) Resume(ctx context.Context, cid, dir, run string) (result Result
 	}
 	r.resumeHome = m.Home
 	return r.invoke(ctx, cid, dir, run, func(cmd *exec.Cmd) *exec.Cmd {
-		next := exec.CommandContext(ctx, cmd.Path, correctionArgs(cmd.Args[1:], resumeMessage)...)
+		next := proc.Own(exec.CommandContext(ctx, cmd.Path, correctionArgs(cmd.Args[1:], resumeMessage)...))
 		next.Env, next.Dir = cmd.Env, cmd.Dir
 		return next
 	}, true)
@@ -1459,7 +1460,7 @@ func (r Runner) execute(ctx context.Context, cid, dir, run string, cmd *exec.Cmd
 		if events.steps > 0 { // a session exists: continue it; before the first step, start again
 			args = correctionArgs(args, resumeMessage)
 		}
-		next := exec.CommandContext(ctx, cmd.Path, args...)
+		next := proc.Own(exec.CommandContext(ctx, cmd.Path, args...))
 		next.Env, next.Dir = cmd.Env, cmd.Dir
 		out, stderr = &capped{Max: 4 * 1024 * 1024}, &capped{Max: 256 * 1024}
 		events.providerError, events.providerType, events.providerStatus = false, "", 0

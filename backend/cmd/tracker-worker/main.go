@@ -48,8 +48,27 @@ func run() error {
 	if !c.ResearchEnabled() {
 		return errors.New("configure RESEARCH_AGENTS or RESEARCH_MODEL (and the OpenCode runner) for this worker")
 	}
-	ctx, cancel := signal.NotifyContext(context.Background(), os.Interrupt, syscall.SIGTERM)
+	// The first Ctrl-C drains: no new job, the running ones finish. A second Ctrl-C, or SIGTERM,
+	// stops at once and returns the running jobs to the queue.
+	ctx, cancel := context.WithCancel(context.Background())
 	defer cancel()
+	draining, drain := context.WithCancel(ctx)
+	defer drain()
+	signals := make(chan os.Signal, 2)
+	signal.Notify(signals, os.Interrupt, syscall.SIGTERM)
+	defer signal.Stop(signals)
+	go func() {
+		for sig := range signals {
+			if sig == os.Interrupt && draining.Err() == nil && !*checkAI {
+				slog.Info("finishing the running jobs, then stopping; no new job is taken. Press Ctrl-C again to stop now")
+				drain()
+				continue
+			}
+			slog.Info("stopping now; the running jobs return to the queue")
+			cancel()
+			return
+		}
+	}()
 	health := research.NewAgentHealth(c.Agents())
 	check := func(ctx context.Context) {
 		done := make(chan struct{})
@@ -85,7 +104,11 @@ func run() error {
 	go check(ctx)
 	client := &worker.Client{URL: c.TrackerURL, Token: c.WorkerToken, HTTP: &http.Client{Timeout: 15 * time.Minute}}
 	slog.Info("worker started", "backend", c.TrackerURL, "agents", len(c.Agents()), "slots", c.MaxWorkers(), "repo", c.RepoPath)
-	(&worker.Worker{Config: c, Health: health}).RunRemote(ctx, client)
-	slog.Info("worker stopped; its leased jobs return to the queue")
+	(&worker.Worker{Config: c, Health: health}).RunRemote(ctx, draining, client)
+	if ctx.Err() != nil {
+		slog.Info("worker stopped; its leased jobs return to the queue")
+	} else {
+		slog.Info("worker stopped after finishing its jobs")
+	}
 	return nil
 }

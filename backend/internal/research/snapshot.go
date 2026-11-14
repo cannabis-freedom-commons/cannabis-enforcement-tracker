@@ -4,6 +4,7 @@ import (
 	"bytes"
 	"context"
 	"errors"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/proc"
 	"os"
 	"os/exec"
 	"path/filepath"
@@ -14,7 +15,7 @@ import (
 // validated too. Overlay only site inputs, never service state or credentials.
 func snapshotSite(ctx context.Context, repo, dir string) error {
 	allowed := []string{"src", "public", "scripts", "docs", "reports", ".claude/skills", ".opencode/agents", "package.json", "package-lock.json", "astro.config.mjs", "tsconfig.json"}
-	cmd := exec.CommandContext(ctx, "git", append([]string{"ls-files", "-z", "--cached", "--others", "--exclude-standard", "--"}, allowed...)...)
+	cmd := proc.Own(exec.CommandContext(ctx, "git", append([]string{"ls-files", "-z", "--cached", "--others", "--exclude-standard", "--"}, allowed...)...))
 	cmd.Dir = repo
 	files, err := cmd.Output()
 	if err != nil {

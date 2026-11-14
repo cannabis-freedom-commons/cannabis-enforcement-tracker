@@ -15,8 +15,9 @@ import (
 
 // RunRemote works for a backend through its worker API (docs/WORKERS.md) until ctx ends: it takes
 // research jobs, researches them here and reports every step back. Publishing stays with the
-// backend. w has no store; its configuration is this worker's own.
-func (w *Worker) RunRemote(parent context.Context, c *Client) {
+// backend. w has no store; its configuration is this worker's own. Once draining ends, the worker
+// takes no new job and returns when its running jobs have finished (or when ctx ends first).
+func (w *Worker) RunRemote(parent, draining context.Context, c *Client) {
 	ctx, cancel := context.WithCancel(parent)
 	defer cancel()
 	pool := newAgentPool(w.Config, w.Health)
@@ -54,18 +55,23 @@ func (w *Worker) RunRemote(parent context.Context, c *Client) {
 			}
 		}
 	})
+	var jobs sync.WaitGroup
 	for range max(1, w.Config.MaxWorkers()) {
-		wg.Go(func() { w.remoteJobs(ctx, c, pool) })
+		jobs.Go(func() { w.remoteJobs(ctx, draining, c, pool) })
 	}
+	jobs.Wait()
+	cancel()
 	wg.Wait()
 }
 
-func (w *Worker) remoteJobs(ctx context.Context, c *Client, pool *agentPool) {
+func (w *Worker) remoteJobs(ctx, draining context.Context, c *Client, pool *agentPool) {
 	ticker := time.NewTicker(3 * time.Second)
 	defer ticker.Stop()
 	for {
 		select {
 		case <-ctx.Done():
+			return
+		case <-draining.Done():
 			return
 		case <-ticker.C:
 		}
@@ -80,6 +86,10 @@ func (w *Worker) remoteJobs(ctx context.Context, c *Client, pool *agentPool) {
 			selected.Config.ResearchModel = model
 			selected.Health = w.Health.ForModel(model)
 			selected.observeResearch = func(err error) { pool.observe(model, err, time.Now()) }
+		}
+		if draining.Err() != nil {
+			release()
+			return
 		}
 		j, ok, err := c.Claim(ctx)
 		if err != nil || !ok {

@@ -6,6 +6,7 @@ import (
 	"encoding/json"
 	"errors"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/frontmatter"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/proc"
 	"gopkg.in/yaml.v3"
 	"os"
 	"os/exec"
@@ -54,12 +55,12 @@ func (r Runner) commandArgs(ctx context.Context, input, run string, args []strin
 		}
 		name := "tracker-research-" + run
 		docker := []string{"run", "--rm", "--name", name, "--init", "--read-only", "--cap-drop=ALL", "--security-opt=no-new-privileges", "--pids-limit=128", "--memory=1g", "--cpus=1", "--user", "65534:65534", "--network", r.Config.ResearchNetwork, "--tmpfs", "/tmp:rw,noexec,nosuid,size=128m,mode=1777", "--mount", "type=bind,src=" + input + ",dst=/work,readonly", "--workdir", "/work", "--env", "HOME=/tmp", "--env", "XDG_CONFIG_HOME=/tmp/config", "--env", "XDG_DATA_HOME=/tmp/data", "--env", "XDG_CACHE_HOME=/tmp/cache", "--env", "RESEARCH_API_KEY", "--env", "OPENAI_API_KEY", "--entrypoint", "/usr/local/bin/tracker-research", r.Config.ResearchImage}
-		cmd := exec.CommandContext(ctx, "docker", append(docker, args...)...)
+		cmd := proc.Own(exec.CommandContext(ctx, "docker", append(docker, args...)...))
 		cmd.Env = []string{"PATH=" + os.Getenv("PATH"), "RESEARCH_API_KEY=" + r.Config.ResearchKey, "OPENAI_API_KEY=" + r.Config.ResearchKey}
 		return cmd, func() {
 			cleanup, cancel := context.WithTimeout(context.Background(), 10e9)
 			defer cancel()
-			_ = exec.CommandContext(cleanup, "docker", "rm", "-f", name).Run()
+			_ = proc.Own(exec.CommandContext(cleanup, "docker", "rm", "-f", name)).Run()
 		}, nil
 	}
 	if runtime.GOOS != "darwin" {
@@ -143,7 +144,7 @@ func (r Runner) commandArgs(ctx context.Context, input, run string, args []strin
 	if err = os.WriteFile(profilePath, []byte(profile), 0600); err != nil {
 		return nil, nil, err
 	}
-	cmd := exec.CommandContext(ctx, "/usr/bin/sandbox-exec", append([]string{"-f", profilePath, binary}, args...)...)
+	cmd := proc.Own(exec.CommandContext(ctx, "/usr/bin/sandbox-exec", append([]string{"-f", profilePath, binary}, args...)...))
 	cmd.Dir = input
 	cmd.Env = []string{"PATH=" + filepath.Dir(binary) + ":/usr/bin:/bin:/usr/sbin:/sbin", "HOME=" + home, "TMPDIR=" + filepath.Join(home, "tmp"), "XDG_CONFIG_HOME=" + filepath.Join(home, "config"), "XDG_DATA_HOME=" + filepath.Join(home, "data"), "XDG_CACHE_HOME=" + filepath.Join(home, "cache"), "XDG_STATE_HOME=" + filepath.Join(home, "state"), "CI=true", "NO_COLOR=1"}
 	if providerKey != "" {
@@ -156,7 +157,7 @@ func (r Runner) commandArgs(ctx context.Context, input, run string, args []strin
 		db := filepath.Join(home, "data", "opencode", "opencode.db")
 		if _, statErr := os.Stat(db); statErr != nil {
 			// a harmless command in the same sandbox makes OpenCode create its database
-			init := exec.CommandContext(ctx, cmd.Path, append(append([]string(nil), cmd.Args[1:4]...), "session", "list", "--standalone")...)
+			init := proc.Own(exec.CommandContext(ctx, cmd.Path, append(append([]string(nil), cmd.Args[1:4]...), "session", "list", "--standalone")...))
 			init.Env, init.Dir = cmd.Env, cmd.Dir
 			_ = init.Run()
 		}

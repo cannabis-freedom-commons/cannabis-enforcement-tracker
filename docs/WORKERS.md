@@ -80,5 +80,6 @@ coverage, exactly as when two local jobs race. A new report goes through the usu
    research settings, check them with `go run ./cmd/tracker-worker -check-ai`, then start
    `go run ./cmd/tracker-worker` (in `backend/`) with that environment.
 
-Stopping a worker (Ctrl-C) returns its jobs to the queue without counting the attempt. An
-interrupted OpenCode session is kept on the worker, and the next attempt there continues it.
+The first Ctrl-C stops a worker gracefully: it takes no new job, finishes the jobs it is
+running and then exits. A second Ctrl-C (or SIGTERM) stops it at once and returns its running jobs
+to the queue without counting the attempt. An interrupted OpenCode session is kept on the worker, and the next attempt there continues it.

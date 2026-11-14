@@ -2,6 +2,7 @@ package research
 
 import (
 	"context"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/proc"
 	"os/exec"
 	"strings"
 	"time"
@@ -13,7 +14,7 @@ func firstReportAddition(dir, rel string) string {
 	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
 	defer cancel()
 	git := func(args ...string) ([]byte, error) {
-		cmd := exec.CommandContext(ctx, "git", args...)
+		cmd := proc.Own(exec.CommandContext(ctx, "git", args...))
 		cmd.Dir = dir
 		return cmd.Output()
 	}

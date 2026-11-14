@@ -5,6 +5,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/proc"
 	"io"
 	"log/slog"
 	"net/http"
@@ -307,7 +308,7 @@ func (r *remoteJob) QueuePublish(ctx context.Context, _ store.Job, d draftJob) e
 	}
 	d.BaseBlobs = map[string]string{}
 	for _, path := range bases {
-		cmd := exec.CommandContext(ctx, "git", "rev-parse", "HEAD:"+path)
+		cmd := proc.Own(exec.CommandContext(ctx, "git", "rev-parse", "HEAD:"+path))
 		cmd.Dir = d.Dir
 		out, err := cmd.Output()
 		if err != nil {

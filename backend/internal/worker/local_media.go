@@ -6,6 +6,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/proc"
 	"net/url"
 	"os"
 	"os/exec"
@@ -25,7 +26,7 @@ const mediaManifest = "src/data/media.json"
 // publishLock serialises commits to the report repository (the reports, and their photo
 // thumbnails) across jobs. It waits up to two minutes for another commit and its push.
 func publishLock(ctx context.Context, repo string) (func(), error) {
-	cmd := exec.CommandContext(ctx, "git", "rev-parse", "--absolute-git-dir")
+	cmd := proc.Own(exec.CommandContext(ctx, "git", "rev-parse", "--absolute-git-dir"))
 	cmd.Dir = repo
 	gitDir, err := cmd.Output()
 	if err != nil {
@@ -129,7 +130,7 @@ func reportMedia(repo string, rels []string) (photos, videos []string) {
 func frameOf(ctx context.Context, video, out string) error {
 	for _, at := range []string{"1", "0"} {
 		runCtx, cancel := context.WithTimeout(ctx, 30*time.Second)
-		cmd := exec.CommandContext(runCtx, "ffmpeg", "-nostdin", "-loglevel", "error", "-y", "-protocol_whitelist", "file", "-ss", at, "-i", video, "-frames:v", "1", "-f", "image2", "-vcodec", "mjpeg", out)
+		cmd := proc.Own(exec.CommandContext(runCtx, "ffmpeg", "-nostdin", "-loglevel", "error", "-y", "-protocol_whitelist", "file", "-ss", at, "-i", video, "-frames:v", "1", "-f", "image2", "-vcodec", "mjpeg", out))
 		err := cmd.Run()
 		cancel()
 		if info, e := os.Stat(out); err == nil && e == nil && info.Size() > 1000 {
@@ -224,7 +225,7 @@ func prepareMedia(ctx context.Context, repo, dir string, rels []string) (*mediaB
 // staged or written, and the report is committed without its thumbnails.
 func (b *mediaBatch) apply(ctx context.Context, repo string) ([]string, error) {
 	git := func(args ...string) ([]byte, error) {
-		cmd := exec.CommandContext(ctx, "git", args...)
+		cmd := proc.Own(exec.CommandContext(ctx, "git", args...))
 		cmd.Dir = repo
 		return cmd.Output()
 	}
@@ -235,7 +236,7 @@ func (b *mediaBatch) apply(ctx context.Context, repo string) ([]string, error) {
 	}
 	runCtx, cancel := context.WithTimeout(ctx, 2*time.Minute)
 	defer cancel()
-	script := exec.CommandContext(runCtx, "node", "scripts/media-manifest.mjs", "--input", b.input)
+	script := proc.Own(exec.CommandContext(runCtx, "node", "scripts/media-manifest.mjs", "--input", b.input))
 	script.Dir = repo
 	if out, err := script.CombinedOutput(); err != nil {
 		restoreMedia(repo)
@@ -310,7 +311,7 @@ func restoreMedia(repo string) {
 	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
 	defer cancel()
 	for _, args := range [][]string{{"reset", "--quiet", "HEAD", "--", mediaManifest, "public/media"}, {"checkout", "--", mediaManifest}, {"clean", "-fdq", "--", "public/media"}} {
-		cmd := exec.CommandContext(ctx, "git", args...)
+		cmd := proc.Own(exec.CommandContext(ctx, "git", args...))
 		cmd.Dir = repo
 		_ = cmd.Run()
 	}

@@ -16,6 +16,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/proc"
 	"io"
 	"log/slog"
 	"net/http"
@@ -32,7 +33,7 @@ import (
 const mainBranch = "main"
 
 func gitOutput(ctx context.Context, repo string, args ...string) (string, error) {
-	cmd := exec.CommandContext(ctx, "git", args...)
+	cmd := proc.Own(exec.CommandContext(ctx, "git", args...))
 	cmd.Dir = repo
 	out, err := cmd.Output()
 	return strings.TrimSpace(string(out)), err

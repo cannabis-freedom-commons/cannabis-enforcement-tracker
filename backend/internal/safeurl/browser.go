@@ -5,6 +5,7 @@ import (
 	"context"
 	"encoding/json"
 	"errors"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/proc"
 	"os"
 	"os/exec"
 	"path/filepath"
@@ -74,7 +75,7 @@ func FetchRendered(parent context.Context, raw, dir, script string) (Evidence, e
 			}
 		}
 	}
-	command := exec.CommandContext(ctx, "node", script, normalized, dir)
+	command := proc.Own(exec.CommandContext(ctx, "node", script, normalized, dir))
 	command.Env = []string{"PATH=" + os.Getenv("PATH"), "HOME=" + home, "TMPDIR=" + home, "PLAYWRIGHT_BROWSERS_PATH=" + cache, "SOURCE_PROXY=" + proxy, "SOURCE_PROXY_TOKEN=" + token}
 	// the ad and cookie-notice blocker's switch and engine cache (scripts/source-browser.mjs)
 	for _, key := range []string{"SOURCE_ADBLOCK", "SOURCE_BLOCKER_CACHE", "SOURCE_BLOCKER_DEBUG"} {

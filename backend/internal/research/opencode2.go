@@ -6,6 +6,7 @@ import (
 	"encoding/json"
 	"errors"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/frontmatter"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/proc"
 	"os"
 	"os/exec"
 	"path/filepath"
@@ -13,7 +14,7 @@ import (
 )
 
 func localVersion(ctx context.Context, binary string) (string, error) {
-	cmd := exec.CommandContext(ctx, binary, "--version")
+	cmd := proc.Own(exec.CommandContext(ctx, binary, "--version"))
 	out, err := cmd.Output()
 	if err != nil {
 		return "", errors.New("OpenCode binary is not executable")
@@ -68,7 +69,7 @@ func (r Runner) importOpenCode2Auth(ctx context.Context, binary string, command 
 // Native scoped exports keep credentials out of environment variables, evidence,
 // and logs. An unconnected search integration exports an empty list.
 func importOpenCode2Credential(ctx context.Context, binary string, command *exec.Cmd, target string) error {
-	export := exec.CommandContext(ctx, binary, "auth", "export", target)
+	export := proc.Own(exec.CommandContext(ctx, binary, "auth", "export", target))
 	// This short native credential read uses the user's normal OpenCode auth. None
 	// of the exported bytes or command diagnostics are public or written to logs.
 	export.Env = []string{"PATH=" + os.Getenv("PATH"), "HOME=" + userHome()}
@@ -88,7 +89,7 @@ func importOpenCode2Credential(ctx context.Context, binary string, command *exec
 	if bytes.Equal(bytes.TrimSpace(secret), []byte("[]")) {
 		return nil
 	}
-	importer := exec.CommandContext(ctx, command.Path, append(append([]string(nil), command.Args[1:4]...), "auth", "import", "--standalone")...)
+	importer := proc.Own(exec.CommandContext(ctx, command.Path, append(append([]string(nil), command.Args[1:4]...), "auth", "import", "--standalone")...))
 	importer.Env = command.Env
 	importer.Dir = command.Dir
 	importer.Stdin = bytes.NewReader(secret)

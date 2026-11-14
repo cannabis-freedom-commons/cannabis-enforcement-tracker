@@ -7,6 +7,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/config"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/proc"
 	"os"
 	"os/exec"
 	"path/filepath"
@@ -192,7 +193,7 @@ func (r Runner) probeAttempt(ctx context.Context) (diagnostics ProbeDiagnostics,
 	version := "container"
 	diagnostics.Version = version
 	if r.Config.ResearchRunner == "local" {
-		probe := exec.CommandContext(ctx, command.Path, append(append([]string(nil), command.Args[1:4]...), "--version")...)
+		probe := proc.Own(exec.CommandContext(ctx, command.Path, append(append([]string(nil), command.Args[1:4]...), "--version")...))
 		probe.Env = command.Env
 		probe.Dir = command.Dir
 		b, err := probe.Output()

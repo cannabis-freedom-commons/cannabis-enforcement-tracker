@@ -15,6 +15,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/config"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/proc"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/safeurl"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/store"
 	"io"
@@ -179,7 +180,7 @@ func (c *Client) Propose(ctx context.Context, cid, dir, rel, previousRel, slug, 
 		return "", err
 	}
 	if created.SHA == "" {
-		cmd := exec.CommandContext(ctx, "git", "rev-parse", "HEAD")
+		cmd := proc.Own(exec.CommandContext(ctx, "git", "rev-parse", "HEAD"))
 		cmd.Dir = dir
 		head, err := cmd.Output()
 		if err != nil {

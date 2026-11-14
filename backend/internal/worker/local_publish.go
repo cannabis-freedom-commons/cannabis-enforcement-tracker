@@ -5,6 +5,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/proc"
 	"log/slog"
 	"os"
 	"os/exec"
@@ -52,7 +53,7 @@ func pullRepo(ctx context.Context, repo, publishBranch string) error {
 func gitQuiet(ctx context.Context, repo string, limit time.Duration, args ...string) error {
 	runCtx, cancel := context.WithTimeout(ctx, limit)
 	defer cancel()
-	cmd := exec.CommandContext(runCtx, "git", args...)
+	cmd := proc.Own(exec.CommandContext(runCtx, "git", args...))
 	cmd.Dir = repo
 	// backendPush lets the clone's pre-push hook tell the backend's pushes from a person's (batch.go)
 	cmd.Env = append(os.Environ(), "GIT_TERMINAL_PROMPT=0", backendPush+"=1")
@@ -110,7 +111,7 @@ func commitReportWithMedia(ctx context.Context, repo, cid string, d draftJob, me
 		updates[u.Rel] = data
 	}
 	gitWithContext := func(callCtx context.Context, args ...string) ([]byte, error) {
-		cmd := exec.CommandContext(callCtx, "git", args...)
+		cmd := proc.Own(exec.CommandContext(callCtx, "git", args...))
 		cmd.Dir = repo
 		return cmd.Output()
 	}
@@ -189,7 +190,7 @@ func commitReportWithMedia(ctx context.Context, repo, cid string, d draftJob, me
 			}
 			continue
 		}
-		baseCmd := exec.CommandContext(ctx, "git", "show", "HEAD:"+basePath)
+		baseCmd := proc.Own(exec.CommandContext(ctx, "git", "show", "HEAD:"+basePath))
 		baseCmd.Dir = d.Dir
 		base, e := baseCmd.Output()
 		current, e2 := git("show", "HEAD:"+basePath)
@@ -309,7 +310,7 @@ func commitTitle(d draftJob) string {
 
 // caseCommit is the commit of the case's report (its Submission-Case trailer) on HEAD; "" if none.
 func caseCommit(ctx context.Context, repo, cid, rel string) string {
-	cmd := exec.CommandContext(ctx, "git", "log", "-1", "--format=%H", "--fixed-strings", "--grep=Submission-Case: "+cid, "--", rel)
+	cmd := proc.Own(exec.CommandContext(ctx, "git", "log", "-1", "--format=%H", "--fixed-strings", "--grep=Submission-Case: "+cid, "--", rel))
 	cmd.Dir = repo
 	out, err := cmd.Output()
 	if err != nil {

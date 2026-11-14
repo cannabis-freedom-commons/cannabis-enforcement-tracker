@@ -6,6 +6,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/proc"
 	"log/slog"
 	"os"
 	"os/exec"
@@ -228,7 +229,7 @@ func (w *Worker) archiveScreenshots(ctx context.Context, cid string) error {
 	defer cancel()
 	var failures []error
 	for _, dir := range dirs {
-		command := exec.CommandContext(run, "node", script, dir)
+		command := proc.Own(exec.CommandContext(run, "node", script, dir))
 		command.Cancel = func() error { return command.Process.Signal(syscall.SIGTERM) }
 		command.WaitDelay = 5 * time.Second
 		if err := command.Run(); err != nil {
