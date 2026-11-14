@@ -37,22 +37,29 @@ sources:
     publisher: Newszonebd
     date: 2026-11-12
     language: bn
+  - title: শ্রীনগরে দেড় কেজি গাঁজাসহ কারবারি গ্রেফতার
+    url: https://www.bd-pratidin.com/country/2026/11/12/1325300
+    publisher: Bangladesh Pratidin
+    date: 2026-11-12
+    language: bn
 open_questions:
-  - Only one accessible account of this arrest was found, so no second source confirms the 1.5 kg weight, the suspect's identity or the officer names.
-  - No charge, court appearance or sentence was reported; police described legal proceedings only as under way.
-  - No street value, laboratory weight or number of packets was published for the ganja.
-  - The source does not say how police learned of the man's activities or how long he had been living in Sreenagar.
-  - Left out activity, as its quotation was not found in Newszonebd.
-  - Left out case stage, as its quotation was not found in Newszonebd.
-  - Left out setting, as its quotation was not found in Newszonebd.
-  - Newszonebd illustrates the arrest with a stock cropped handcuffs photo, not a picture of this Sreenagar seizure, so it is not listed as media.
+    - 'The two accounts give different times for the arrest: one reads 3:45 pm, the other 4:30 pm.'
+    - No charge, court appearance or sentence was reported; police described legal proceedings only as under way.
+    - No street value, laboratory weight or number of packets was published for the ganja.
+    - The sources do not say how police learned of the man's activities or how long he had been living in Sreenagar.
+media:
+  - kind: photo
+    url: https://www.bd-pratidin.com/country/2026/11/12/1325300
+    media_url: https://cdn.bd-pratidin.com/public/news_images/2026/11/12/1794501613-f4008b28ea00fca6d767c251654f03cc.jpg
+    publisher: Bangladesh Pratidin
+    caption: 'Photo of the seized ganja and the arrest published with the Bangladesh Pratidin report on the Sreenagar detention. Photo: Bangladesh Pratidin'
 ---
 
 Munshiganj district Detective Branch (DB) police arrested 40-year-old Sohel
 Sardar in an operation at Srinagar and seized 1 kg 500 grams (1.5 kg) of ganja
-from him. [@1] Officers detained Sohel Sardar at about 3:45 pm on Thursday, 12
+from him. [@1,2] Officers detained Sohel Sardar at about 3:45 pm on Thursday, 12
 November, at Chonbari mor on the Chonbari-Ichapura road, in front of Monir
-Store. [@1]
+Store. [@1,2]
 
 Sohel Sardar is the son of Faruk Sardar of Andarkota village under Boalmari
 police station in Faridpur district, and was living temporarily in the Balashur
@@ -60,6 +67,5 @@ area of Srinagar. [@1]
 
 The operation was run as part of an anti-drug drive under the direction of
 Munshiganj police superintendent Md Badruddoza, by Additional Sub-Inspector
-Mohammad Kamrul Hasan PPM and his DB team. [@1] Police said legal proceedings
-against Sohel Sardar over the seizure were under way. [@1]
-
+Mohammad Kamrul Hasan PPM and his DB team. [@1,2] Police said legal proceedings
+against Sohel Sardar over the seizure were under way. [@1,2]
