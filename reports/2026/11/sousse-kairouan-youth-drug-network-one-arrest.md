@@ -71,19 +71,29 @@ sources:
     publisher: المصدر تونس (Almasdar)
     date: 2026-11-12
     language: ar
+  - title: تفكيك شبكة لترويج المخدرات بالأوساط الشبابية بين سوسة والقيروان
+    url: https://t.co/SGqvO0B4Nj
+    publisher: Ultra Tunisia
+    date: 2026-11-12
+    language: ar
+open_questions:
+    - The cocaine and cannabis seized are described only as a significant quantity; no weight, count or value was published.
+    - The 21 October 2026 statement on a separate Pregabalin (Lyrica) seizure of 26,831 tablets and about 32,000 dinars in the region is a different event and is left out of this report.
+    - The 9 July 2026 customs half-year tally (over 214 kg of cocaine, cannabis and marijuana and about 180,000 tablets) is a national statistic, not part of this event.
+    - No figure for the number of people arrested beyond the one principal member, and no court outcome, was reported.
 ---
 
 National security units in Sousse city dismantled at dawn on Thursday a network
-specialising in trafficking narcotics among young people. [@1,2,5,6,8] The operation began at dawn on 12 November 2026. [@2,5] The network
+specialising in trafficking narcotics among young people. [@1,2,5,6,8,9] The operation began at dawn on 12 November 2026. [@2,5] The network
 operated between the governorates of Sousse and Kairouan, according to a
 communique from the Direction générale de la sûreté nationale. [@1,2,5,6,7] The
 operation followed extensive intelligence and field investigation work on the
 ground. [@1,5,6] Officers arrested the principal member of the network, described by
-the authorities as dangerous. [@1,3,5,6,7,8]
+the authorities as dangerous. [@1,3,5,6,7,8,9]
 
 The arrested man was the subject of several wanted notices issued by different
 security units for cases linked to drug trafficking. [@1,4,5,6] Security forces also
-seized a significant quantity of cocaine and of cannabis. [@1,3,5,6,7,8] The suspect had
+seized a significant quantity of cocaine and of cannabis. [@1,3,5,6,7,8,9] The suspect had
 intended to sell the drugs in discotheques in the region. [@1,4,5,6,7]
 
 The Direction générale de la sûreté nationale said investigations are continuing
