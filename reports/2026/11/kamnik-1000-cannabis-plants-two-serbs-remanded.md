@@ -100,20 +100,25 @@ sources:
     publisher: Lokalec.si
     date: 2026-11-13
     language: sl
+  - title: V Kamniku odkrili več kot tisoč sadik konoplje in več kot kilogram kokaina
+    url: https://www.nadlani.si/novice/v-kamniku-odkrili-vec-kot-tisoc-sadik-konoplje-in-vec-kot-kilogram-kokaina/
+    publisher: NaDlani.si
+    date: 2026-11-13
+    language: sl
 ---
 
 Police arrested two Serbian citizens after discovering a cannabis-growing space
-in the Kamnik area. [@1,3,4,6] The Ljubljana Police Administration's criminal police
-sector searched a house there on Wednesday, 11 November 2026. [@1,3,4,5,6] The suspects
+in the Kamnik area. [@1,3,4,6,7] The Ljubljana Police Administration's criminal police
+sector searched a house there on Wednesday, 11 November 2026. [@1,3,4,5,6,7] The suspects
 were aged 37 and 35, and police acted on gathered information and a court order.
-[@1,3,4]
+[@1,3,4,7]
 
 Inside the specially adapted growing space were more than 1,000 cannabis
-seedlings. [@1,3,4,6] Police seized about 2 kilograms of dried cannabis and numerous
-pieces of growing equipment. [@1,3,4,6] They also seized more than 1 kilogram of
-cocaine and around €3,000 in cash. [@1,3,4,6]
+seedlings. [@1,3,4,6,7] Police seized about 2 kilograms of dried cannabis and numerous
+pieces of growing equipment. [@1,3,4,6,7] They also seized more than 1 kilogram of
+cocaine and around €3,000 in cash. [@1,3,4,6,7]
 
-Investigators detained both men and ordered pridržanje, or police custody. [@1,3,4,6]
+Investigators detained both men and ordered pridržanje, or police custody. [@1,3,4,6,7]
 On Thursday, 12 November, the men were brought before an investigating judge
-with a criminal complaint. [@2,3,4,6] The judge ordered pripor, detention on remand,
-for both suspects. [@2,3,4,6]
+with a criminal complaint. [@2,3,4,6,7] The judge ordered pripor, detention on remand,
+for both suspects. [@2,3,4,6,7]
