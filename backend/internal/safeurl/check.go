@@ -6,6 +6,7 @@ import (
 	"html"
 	"net/url"
 	"regexp"
+	"sort"
 	"strings"
 	"unicode"
 	"unicode/utf8"
@@ -172,20 +173,27 @@ func thousands(n int) string {
 	return s
 }
 
-// Closest finds the passage of the content (one line of its text, or a sentence of a long line)
-// that shares the most words with a quotation the content does not contain, so a check can show
-// the model what the source actually says instead of letting it search. score is the share of the
-// quotation's words found in the passage (0 to 1).
-func Closest(content, quote string) (passage string, score float64) {
+// Passage is a line or sentence of a source's text and the share (0 to 1) of a quotation's words
+// it contains.
+type Passage struct {
+	Text  string  `json:"text"`
+	Score float64 `json:"score"`
+}
+
+// Passages ranks the passages of the content (each line of its text, or the sentences of a long
+// line) by how many of the quotation's words they share, best first, at most n of them, so a check
+// or a tool can show the model what the source actually says instead of letting it search.
+func Passages(content, quote string, n int) []Passage {
 	words := func(s string) []string {
 		return strings.FieldsFunc(strings.ToLower(FoldQuote(s)), func(r rune) bool {
 			return !unicode.IsLetter(r) && !unicode.IsDigit(r) && !unicode.Is(unicode.Mn, r) && !unicode.Is(unicode.Mc, r)
 		})
 	}
 	want := words(quote)
-	if len(want) == 0 {
-		return "", 0
+	if len(want) == 0 || n < 1 {
+		return nil
 	}
+	var out []Passage
 	for _, line := range strings.Split(Text(content), "\n") {
 		parts := []string{line}
 		if utf8.RuneCountInString(line) > 400 {
@@ -204,12 +212,24 @@ func Closest(content, quote string) (passage string, score float64) {
 					found++
 				}
 			}
-			if s := float64(found) / float64(len(want)); s > score {
-				passage, score = part, s
+			if found > 0 {
+				out = append(out, Passage{Text: part, Score: float64(found) / float64(len(want))})
 			}
 		}
 	}
-	return passage, score
+	sort.SliceStable(out, func(i, j int) bool { return out[i].Score > out[j].Score })
+	if len(out) > n {
+		out = out[:n]
+	}
+	return out
+}
+
+// Closest is the content's best passage for a quotation (see Passages) and its score.
+func Closest(content, quote string) (string, float64) {
+	if p := Passages(content, quote, 1); len(p) > 0 {
+		return p[0].Text, p[0].Score
+	}
+	return "", 0
 }
 
 var sentenceEnd = regexp.MustCompile(`(?:[.!?।]["'”’»]?)\s+`)

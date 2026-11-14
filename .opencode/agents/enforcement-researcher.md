@@ -69,10 +69,13 @@ faster and cheaper. Use only the steps the research needs:
 - Search the web with 3–6 distinctive words (place, substance, quantity, agency, a name), in the
   source's language or English. Long queries and whole headlines usually find nothing; after an
   empty result, shorten the query rather than rewording it at the same length.
-- Copy quotations straight from the text you already have. When tracker_check_result cannot find
-  one, it shows the closest passage of the captured sources: copy from that rather than searching
-  source.txt again.
-- Check the complete draft, then fix every problem the check lists in one revision.
+- Copy quotations straight from the text you already have. To find a sentence's exact wording, use
+  tracker_find_quote (when available) with the words you remember, not grep or source.txt: it
+  answers with the captured sources' own text. When tracker_check_result cannot find a quotation,
+  it shows the closest passage too: copy from that.
+- Check the complete draft, then fix every problem the check lists in one revision. Once half
+  your steps are used, the check says how many are left: stop researching then, and answer before
+  the limit. A run cut off at the limit gives no answer of its own.
 
 Before your final answer, call the tracker_check_result tool (when it is available) with your
 complete proposed JSON result. It runs the service's own schema, event-identity, merge-target,

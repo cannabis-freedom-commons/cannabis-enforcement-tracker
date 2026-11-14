@@ -118,7 +118,10 @@ func configureOpenCode2(input string, steps int, toolOutput ...string) error {
 	}
 	agents := map[string]any{"enforcement-probe": map[string]any{
 		"description": "Short connectivity check", "mode": "primary", "steps": 2,
-		"permissions": deny, "system": probeInstruction}}
+		"permissions": deny, "system": probeInstruction},
+		"enforcement-screen": map[string]any{
+			"description": "Tells pages outside the tracker's scope from the rest", "mode": "primary", "steps": 2,
+			"permissions": deny, "system": screenInstruction}}
 	path := filepath.Join(input, ".opencode", "agents", "enforcement-researcher.md")
 	if data, err := os.ReadFile(path); err == nil {
 		parts := frontmatter.Split(string(data))

@@ -52,6 +52,7 @@ type Config struct {
 	ResearchMaxSteps                                                            int     // model steps a research run may take before it must answer
 	ResearchWebSearch                                                           string  // the search service OpenCode 2 uses: exa, parallel, firecrawl, tavily, tinyfish or random
 	ResearchContext                                                             string  // how the agent gets its starting context: files, inline, or ab (half each, by case)
+	ResearchScreen                                                              bool    // one tool-free model step first: a page clearly outside the scope skips the full research
 	PlanUSD, PlanAllowanceUSD                                                   float64 // a subscription: its monthly price and the model usage it includes, at API prices
 	RunCents, DailyCents                                                        int
 	GitHubAppID, GitHubInstallationID, GitHubKeyFile, GitHubRepo, WebhookSecret string
@@ -66,7 +67,7 @@ type Config struct {
 	// OperatorToken lets its bearer restart failed submissions on a deployed backend, where the
 	// localhost-only DEV_CONTROLS cannot apply; the site's dev proxy sends it (SUBMISSIONS_DEV_TOKEN).
 	OperatorToken string
-	GitHubToken             string // optional: reading the Pages workflow's runs above GitHub's anonymous limit
+	GitHubToken   string // optional: reading the Pages workflow's runs above GitHub's anonymous limit
 	// PublishBranch, when set, is where reports are committed; every PublishInterval the branch
 	// goes to main in one push (worker/batch.go). Blank: each report is pushed to main at once.
 	PublishBranch   string
@@ -260,6 +261,9 @@ func Load() (Config, error) {
 	}
 	// inline (the default): the instructions, rules, examples and the captured page come with the
 	// prompt; files: the agent opens them itself; ab: half the cases each, to compare
+	// the pre-screen (on by default): one model step without tools decides whether a page can
+	// belong in the tracker at all; only a clear "no" skips the full research
+	c.ResearchScreen = env("RESEARCH_SCREEN", "true") != "false"
 	c.ResearchContext = env("RESEARCH_CONTEXT", "inline")
 	if c.ResearchContext != "files" && c.ResearchContext != "inline" && c.ResearchContext != "ab" {
 		return c, errors.New("RESEARCH_CONTEXT must be files, inline or ab")

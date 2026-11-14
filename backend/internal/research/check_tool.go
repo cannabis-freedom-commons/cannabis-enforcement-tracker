@@ -7,12 +7,15 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"errors"
+	"fmt"
 	"io"
 	"net"
 	"net/http"
 	"os"
 	"path/filepath"
 	"strings"
+	"sync"
+	"sync/atomic"
 	"time"
 
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/frontmatter"
@@ -38,6 +41,24 @@ const checkToolDescription = "Check your proposed final JSON result with the tra
 type checkServer struct {
 	URL, Token string
 	srv        *http.Server
+	// the invocation's step count (kept by its event stream) and limit: the check's answer says
+	// how many steps are left, so the agent finishes before the limit cuts the run off
+	steps    atomic.Int64
+	maxSteps int
+	// the last draft the agent checked, kept for a run the step limit ends before it answers
+	mu        sync.Mutex
+	lastDraft []byte
+	lastClean bool
+}
+
+// LastDraft is the last proposed result the agent checked, and whether the check found no problems.
+func (s *checkServer) LastDraft() ([]byte, bool) {
+	if s == nil {
+		return nil, false
+	}
+	s.mu.Lock()
+	defer s.mu.Unlock()
+	return s.lastDraft, s.lastClean
 }
 
 func startCheckServer(check CheckFunc, lookup *reportLookup) (*checkServer, error) {
@@ -121,12 +142,13 @@ func (s *checkServer) serve(w http.ResponseWriter, req *http.Request, check Chec
 	case "tools/list":
 		tools := []any{map[string]any{
 			"name": "check_result", "description": checkToolDescription,
-			"inputSchema": map[string]any{"type": "object", "properties": map[string]any{"result": map[string]any{"type": "object", "description": "The complete proposed final JSON result."}}, "required": []string{"result"}},
+			"inputSchema": map[string]any{"type": "object", "properties": map[string]any{"result": map[string]any{"type": []string{"object", "string"}, "description": "The complete proposed final JSON result (an object; a JSON string is accepted too)."}}, "required": []string{"result"}},
 		}}
 		if lookup != nil {
 			tools = append(tools,
 				map[string]any{"name": "find_reports", "description": findReportsDescription, "inputSchema": findReportsSchema},
-				map[string]any{"name": "get_report", "description": getReportDescription, "inputSchema": getReportSchema})
+				map[string]any{"name": "get_report", "description": getReportDescription, "inputSchema": getReportSchema},
+				map[string]any{"name": "find_quote", "description": findQuoteDescription, "inputSchema": findQuoteSchema})
 		}
 		writeRPC(w, message.ID, map[string]any{"tools": tools}, nil)
 	case "tools/call":
@@ -150,11 +172,21 @@ func (s *checkServer) serve(w http.ResponseWriter, req *http.Request, check Chec
 			}
 			ctx, cancel := context.WithTimeout(req.Context(), time.Minute)
 			defer cancel()
-			text = runCheck(ctx, args.Result, check)
+			var draft []byte
+			var clean bool
+			text, draft, clean = runCheck(ctx, args.Result, check)
+			if draft != nil {
+				s.mu.Lock()
+				s.lastDraft, s.lastClean = draft, clean
+				s.mu.Unlock()
+			}
+			text += s.stepNote(clean)
 		case params.Name == "find_reports" && lookup != nil:
 			text = lookup.find(params.Arguments)
 		case params.Name == "get_report" && lookup != nil:
 			text = lookup.get(params.Arguments)
+		case params.Name == "find_quote" && lookup != nil:
+			text = lookup.findQuote(params.Arguments)
 		default:
 			writeRPC(w, message.ID, nil, &rpcError{Code: -32602, Message: "unknown tool or invalid arguments"})
 			return
@@ -165,25 +197,44 @@ func (s *checkServer) serve(w http.ResponseWriter, req *http.Request, check Chec
 	}
 }
 
-// runCheck parses the proposal with the same strict parser as the final answer.
-func runCheck(ctx context.Context, raw json.RawMessage, check CheckFunc) string {
+// runCheck parses the proposal with the same strict parser as the final answer. It returns the
+// answer for the agent and, when the proposal parsed, the proposal and whether it passed.
+func runCheck(ctx context.Context, raw json.RawMessage, check CheckFunc) (string, []byte, bool) {
 	data := []byte(raw)
 	var quoted string
 	if json.Unmarshal(raw, &quoted) == nil { // a model may pass the JSON as a string
 		data = []byte(quoted)
 	}
 	if len(strings.TrimSpace(string(data))) == 0 {
-		return "No result was given. Pass the complete proposed JSON result as the result argument."
+		return "No result was given. Pass the complete proposed JSON result as the result argument.", nil, false
 	}
 	result, err := Strict(data)
 	if err != nil {
-		return "The result would be rejected by the result parser: " + err.Error() + ". Fix it and check again."
+		return "The result would be rejected by the result parser: " + err.Error() + ". Fix it and check again.", nil, false
 	}
 	problems := check(ctx, result)
 	if len(problems) == 0 {
-		return "No problems found. Return this same JSON result as your final answer."
+		return "No problems found. Return this same JSON result as your final answer.", data, true
 	}
-	return "The service would reject this result. Fix every problem below, then check again:\n- " + strings.Join(problems, "\n- ")
+	return "The service would reject this result. Fix every problem below, then check again:\n- " + strings.Join(problems, "\n- "), data, false
+}
+
+// stepNote: how many of the invocation's steps are left, once half are used, so the agent stops
+// researching in time; a run the limit cuts off before its answer is lost.
+func (s *checkServer) stepNote(clean bool) string {
+	used, limit := int(s.steps.Load()), s.maxSteps
+	if limit <= 0 || used*2 < limit {
+		return ""
+	}
+	left := limit - used
+	switch {
+	case clean:
+		return fmt.Sprintf("\n\n(Step %d of at most %d.)", used, limit)
+	case left <= 3:
+		return fmt.Sprintf("\n\n(Step %d of at most %d: only %d left. Fix what you can from the text you already have and give your final JSON answer now; do not research further.)", used, limit, max(left, 0))
+	default:
+		return fmt.Sprintf("\n\n(Step %d of at most %d: %d left. Fix these problems in one revision from the text you already have, then answer; do not start new research.)", used, limit, left)
+	}
 }
 
 type rpcError struct {
@@ -283,7 +334,7 @@ func allowLegacyCheckTool(input string) error {
 	if !ok {
 		return errors.New("research agent permissions are missing")
 	}
-	for _, tool := range []string{"check_result", "find_reports", "get_report"} {
+	for _, tool := range []string{"check_result", "find_reports", "get_report", "find_quote"} {
 		permissions[CheckToolName+"_"+tool] = "allow"
 	}
 	encoded, err := yaml.Marshal(header)

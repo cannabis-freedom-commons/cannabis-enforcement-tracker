@@ -446,9 +446,25 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 		}
 		runner.ResultCheck = w.resultCheck(dir, initial, checkpoint.Evidence, checkpoint.AddedAt, checkpoint.Code)
 		invoked = true
-		if resumed != "" {
+		// a fresh page first goes through the one-step screen: one clearly outside the scope is
+		// answered not_relevant without the full research (a failed screen just researches)
+		screened := false
+		if resumed == "" && !checkpoint.ReviewCoverage && w.Config.ResearchScreen && initial.Content != "" {
+			verdict, screenErr := runner.Screen(ctx, j.Ref, dir, run, initial)
+			if screenErr != nil {
+				slog.Warn("the pre-screen gave no verdict; researching in full", "case", j.Ref, "error", screenErr)
+			} else if verdict.OutOfScope() {
+				result, session, err, screened = research.ScreenedOut(initial, verdict), nil, nil, true
+				end, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+				_ = db.EndRun(end, run, "completed", result.Outcome)
+				cancel()
+			}
+		}
+		switch {
+		case screened:
+		case resumed != "":
 			result, session, err = runner.Resume(ctx, j.Ref, dir, run)
-		} else {
+		default:
 			result, session, err = runner.Start(ctx, j.Ref, dir, run, initial, []byte(store.JSON(reports)))
 		}
 		if w.observeResearch != nil && ctx.Err() == nil {

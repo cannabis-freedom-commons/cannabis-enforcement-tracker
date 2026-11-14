@@ -1348,6 +1348,7 @@ func (r Runner) invoke(ctx context.Context, cid, dir, run string, adapt func(*ex
 			r.abandon(cid, run)
 			return Result{}, nil, err
 		}
+		tool.maxSteps = r.Config.ResearchMaxSteps
 		r.tool = tool
 	}
 	cmd, cleanup, err := r.command(ctx, filepath.Join(dir, ".research-input"), run)
@@ -1415,6 +1416,10 @@ func (r Runner) execute(ctx context.Context, cid, dir, run string, cmd *exec.Cmd
 	}
 	out := &capped{Max: 4 * 1024 * 1024}
 	events = &eventWriter{ctx: ctx, store: r.Store, cid: cid, run: run, secret: key, dir: dir}
+	if r.tool != nil {
+		r.tool.steps.Store(0)
+		events.stepGauge = &r.tool.steps
+	}
 	flags := os.O_CREATE | os.O_WRONLY | os.O_TRUNC
 	if appendLog {
 		flags = os.O_CREATE | os.O_WRONLY | os.O_APPEND
@@ -1471,15 +1476,36 @@ func (r Runner) execute(ctx context.Context, cid, dir, run string, cmd *exec.Cmd
 		}
 		return Result{}, failure
 	}
+	// a run the step limit ends before it answers keeps the last draft it checked: the service's
+	// checks run on it as on any answer, instead of the whole run being lost and started again
+	salvage := func(why error) (Result, error) {
+		draft, clean := r.tool.LastDraft()
+		if draft == nil {
+			return Result{}, why
+		}
+		res, err := Strict(draft)
+		if err != nil {
+			return Result{}, why
+		}
+		state := "with problems the check had listed"
+		if clean {
+			state = "which had passed the check"
+		}
+		_ = r.Store.AddAIEvent(ctx, cid, run, "system", "message", fmt.Sprintf("OpenCode stopped after %d model steps without giving its final answer; the service takes the last draft it checked, %s.", events.steps, state))
+		if res.Explanation != "" {
+			_ = r.Store.AddAIEvent(ctx, cid, run, "assistant", "result", events.safe(res.Explanation))
+		}
+		return res, nil
+	}
 	data, err := FinalText(out.Bytes())
 	if err != nil {
 		if err.Error() == "missing final result" {
-			return Result{}, fmt.Errorf("OpenCode stopped after %d model steps without a final answer (the limit is %d steps)", events.steps, r.Config.ResearchMaxSteps)
+			return salvage(fmt.Errorf("OpenCode stopped after %d model steps without a final answer (the limit is %d steps)", events.steps, r.Config.ResearchMaxSteps))
 		}
 		return Result{}, err
 	}
 	if !bytes.HasPrefix(bytes.TrimSpace(data), []byte("{")) {
-		return Result{}, fmt.Errorf("OpenCode ended after %d model steps with notes instead of the JSON answer the tracker needs (the limit is %d steps; it probably ran out of them)", events.steps, r.Config.ResearchMaxSteps)
+		return salvage(fmt.Errorf("OpenCode ended after %d model steps with notes instead of the JSON answer the tracker needs (the limit is %d steps; it probably ran out of them)", events.steps, r.Config.ResearchMaxSteps))
 	}
 	result, err = Strict(data)
 	if err != nil {

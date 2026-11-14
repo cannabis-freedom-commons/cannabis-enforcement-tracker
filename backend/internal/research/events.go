@@ -10,6 +10,7 @@ import (
 	"path/filepath"
 	"regexp"
 	"strings"
+	"sync/atomic"
 )
 
 type executionEvent struct {
@@ -57,8 +58,9 @@ type eventWriter struct {
 	dir              string // the job's workspace: its host path never reaches the public chat
 	buffer           []byte
 	events           int
-	steps            int // model steps finished, for the step dividers in the public chat
-	failed           int // chat messages that could not be stored
+	steps            int           // model steps finished, for the step dividers in the public chat
+	failed           int           // chat messages that could not be stored
+	stepGauge        *atomic.Int64 // the check tool's view of the step count, when it runs
 	// the last provider error OpenCode reported (its type and HTTP status), to retry a passing one
 	providerType   string
 	providerStatus int
@@ -361,6 +363,9 @@ func (w *eventWriter) handle(line []byte) error {
 				return err
 			}
 			w.steps++
+			if w.stepGauge != nil {
+				w.stepGauge.Store(int64(w.steps))
+			}
 			stepDone = fmt.Sprintf("Step %d done · %s tokens read, %s written", w.steps, thousands(e.Part.Tokens.Input+e.Part.Tokens.Cache.Read), thousands(e.Part.Tokens.Output+e.Part.Tokens.Reasoning))
 			if e.Part.Tokens.Reasoning > 0 {
 				stepDone += fmt.Sprintf(" (%s of them reasoning)", thousands(e.Part.Tokens.Reasoning))
