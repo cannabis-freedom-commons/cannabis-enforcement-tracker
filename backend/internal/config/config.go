@@ -258,7 +258,9 @@ func Load() (Config, error) {
 	if !strings.Contains("|exa|parallel|firecrawl|tavily|tinyfish|random|", "|"+c.ResearchWebSearch+"|") {
 		return c, errors.New("invalid web search provider (exa, parallel, firecrawl, tavily, tinyfish or random)")
 	}
-	c.ResearchContext = env("RESEARCH_CONTEXT", "ab")
+	// inline (the default): the instructions, rules, examples and the captured page come with the
+	// prompt; files: the agent opens them itself; ab: half the cases each, to compare
+	c.ResearchContext = env("RESEARCH_CONTEXT", "inline")
 	if c.ResearchContext != "files" && c.ResearchContext != "inline" && c.ResearchContext != "ab" {
 		return c, errors.New("RESEARCH_CONTEXT must be files, inline or ab")
 	}
