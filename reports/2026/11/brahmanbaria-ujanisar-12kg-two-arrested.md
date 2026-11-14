@@ -41,26 +41,29 @@ sources:
     publisher: Voice Of Brahmanbaria 24
     date: 2026-11-12
     language: bn
+  - title: ব্রাহ্মণবাড়িয়ায় মোটরসাইকেলে গাঁজা পাচার, ১২ কেজি গাঁজাসহ দুই কারবারি গ্রেপ্তার
+    url: https://www.sorejominbarta.com/country/article/66676
+    publisher: Sorejominbarta
+    date: 2026-11-12
+    language: bn
 open_questions:
-  - Only one accessible account of this operation was found, so no second outlet or Detective Branch statement confirms the details.
-  - No estimated value, packaging description or laboratory confirmation for the 12 kg of ganja was published.
-  - No case number, charge sections or court outcome were reported; the account says only that further legal action was pending.
+    - No estimated value, packaging description or laboratory confirmation for the 12 kg of ganja was published.
+    - No case number, charge sections or court outcome were reported; the account says only that further legal action was pending.
 ---
 
 The district Detective Branch (DB) police in Brahmanbaria arrested two alleged
 drug dealers who were carrying cannabis by motorcycle and reported seizing 12 kg
-of ganja from them. [@1] The arrests were made at about 8:30 on the morning of
+of ganja from them. [@1,2] The arrests were made at about 8:30 on the morning of
 Thursday 12 November in the Ujanisar Dakshinpara area under Brahmanbaria Sadar
 Model Police Station, after officers acted on secret information. [@1] The
 arrested men were identified as Arif Mia, son of the late Mujibur Rahman of
 Madhyapara in Brahmanbaria Sadar upazila, and Mehedi Hasan Shuvo, son of Mobarak
-Sarkar of Naroi (Noagaon) in Nabinagar upazila. [@1]
+Sarkar of Naroi (Noagaon) in Nabinagar upazila. [@1,2]
 
 During the operation a DB team stopped and seized the motorcycle the suspects
 had been using. [@1] Officers then searched the motorcycle's two riders and
-recovered 12 kg of ganja from them. [@1] The motorcycle and the recovered goods
+recovered 12 kg of ganja from them. [@1,2] The motorcycle and the recovered goods
 were seized under a formal seizure list in line with the rules. [@1]
 
 Further legal action against the two arrested men was pending when the report
-was published. [@1]
-
+was published. [@1,2]
