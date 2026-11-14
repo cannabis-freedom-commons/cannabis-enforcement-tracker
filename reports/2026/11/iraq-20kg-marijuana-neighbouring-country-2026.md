@@ -107,23 +107,11 @@ sources:
     publisher: Al Kalima Online
     date: 2026-11-02
     language: ar
-open_questions:
-  - The country where the 20 kg of marijuana was seized was not named, and no separate date for that seizure was given; 2 November 2026 is the publication date of both reports.
-  - The period over which the seven-country operations and the about-nine-ton total were accumulated was not given.
-  - The share of hashish within the about-nine-ton mixed total was not separated, so it is not counted as cannabis and no hashish weight is recorded.
-  - The 1,200,000 pills seized in Libya were not identified as cannabis and are not counted as cannabis.
-  - The reports name no suspects, arrests, charges or court outcomes for the marijuana seizure.
-  - Both reports recycle the same directorate statement to the Iraqi News Agency; no independent weighing or seizure record was published.
-  - Coordinates are given at country level for Iraq as the coordinating country because the seizure country was not named and no spot can be guessed.
-  - 'Left out, as its quotation was not found in شبكة دال: Separately, he said recent operations included 20 kilograms of marijuana seized in one neighbouring country after the directorate sent specialist teams to coordinate with the local authorities and carry out the necessary security measures.'
-  - The Sky News Arabia article and the submitted reprint give no separate date for the 20 kg marijuana seizure or the name of the country where it happened; 2 November 2026 is their publication date.
-  - The header image on both pages shows Iraqi drug pills in a police display and has no caption establishing that it depicts this marijuana seizure, so it is not recorded as media.
-  - The belbalady.net capture holds only the headline and a teaser; the article body was not in the opened page, so quotations come from the Sky News Arabia and Iraqi News Agency accounts of the same statement.
-  - The neighbouring country where the 20 kg of marijuana was seized and the dates of the operations remain unnamed and unspecified.
-  - The reprint gives no separate date for the 20 kg marijuana seizure or for the seven-country operations; its own timestamp is 2 November 2026, the same day as the Iraqi News Agency original.
-  - The reprint reproduces the Iraqi News Agency text, so it is not independent reporting of the seizures.
-  - The Al Kalima page reproduces the Sky News Arabia report of the directorate statement, and carries a Sky News Arabia byline, so it is not independent reporting.
-  - The reprint names neither the neighbouring country where the 20 kg of marijuana was seized nor the period of the seven-country operations, and gives no separate date; 2 November 2026 is its own publication date.
+  - title: العراق يضبط 9 أطنان مخدرات بعمليات مشتركة مع 7 دول
+    url: https://ekhbary24.com/article/52169
+    publisher: إخباري 24 نيوز
+    date: 2026-11-13
+    language: ar
 ---
 
 Iraq's General Directorate for Narcotics and Psychotropic Substances director
@@ -143,7 +131,7 @@ in Libya on entirely Iraqi intelligence surveillance and seized 1,200,000 pills
 belonging to a criminal network operating from Chad. [@1,3,5,7,8,9,10,13,15] Separately, he said
 recent operations included 20 kilograms of marijuana seized in one neighbouring
 country after the directorate sent specialist teams to coordinate with the local
-authorities and carry out the necessary security measures. [@1,3,4,6,7,8,9,10,11,12,13,14,15] The English
+authorities and carry out the necessary security measures. [@1,3,4,6,7,8,9,10,11,12,13,14,15,16] The English
 account confirms the 20 kilograms of marijuana seized in a neighboring country
 after specialized teams were sent, noting that Zarkani did not name the country.
 [@2]
