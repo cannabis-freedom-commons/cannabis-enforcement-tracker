@@ -45,6 +45,11 @@ sources:
     publisher: CFIN Noticias
     date: 2026-11-13
     language: es
+  - title: Secuestraron 1,7 kilos de cocaína y un ladrillo con una sugestiva marca narco - RosarioPlus
+    url: https://www.rosarioplus.com/actualidad/seguridad/secuestraron-1-7-kilos-de-cocaina-y-un-ladrillo-con-una-sugestiva-marca-narco_a6af63e377139d0df6ff3eb83
+    publisher: RosarioPlus
+    date: 2026-11-13
+    language: es
 open_questions:
   - 'The cocaine figure differs between the two accounts: El Litoral gives 1,321.6 grams across three houses, while CFIN gives 1,706.7 grams across five, the two larger ones including two further homes; cocaine is not recorded in the cannabis figures either way.'
   - 'The cannabis plants differ: El Litoral reports three marijuana plants at one house, while CFIN reports five cannabis plants plus 176 grams of marijuana in total; the report records the three plants El Litoral supports and the 176 grams CFIN supports, and notes the five-plant total in open questions.'
@@ -55,7 +60,7 @@ open_questions:
 
 Six people, five men and a woman, were detained on Thursday 12 November 2026 in
 simultaneous raids across the Guadalupe Oeste, Scarafía and La Guardia
-neighbourhoods of Santa Fe city. [@1]
+neighbourhoods of Santa Fe city. [@1,3]
 
 The judicial measures were requested by prosecutor Arturo Haidar, of the
 specialized microtrafficking unit of the MPA general prosecution office, on
@@ -70,5 +75,4 @@ pieces and wraps. [@1]
 
 The detained will be brought to a charge-imposition hearing the following week.
 [@1] Across the whole operation, officers also seized 176 grams of marijuana and
-five cannabis plants. [@2]
-
+five cannabis plants. [@2,3]
