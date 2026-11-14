@@ -119,22 +119,27 @@ sources:
     publisher: Daily Beirut
     date: 2026-11-13
     language: ar
+  - title: الجيش يتلف أطنان من حشيشة الكيف والماريجوانا في الهرمل وبعلبك
+    url: https://addiyar.com/article/2415441-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AA%D9%84%D9%81-%D8%A3%D8%B7%D9%86%D8%A7%D9%86-%D9%85%D9%86-%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%81-%D9%88%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D9%8A%D8%AC%D9%88%D8%A7%D9%86%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D9%87%D8%B1%D9%85%D9%84-%D9%88%D8%A8%D8%B9%D9%84%D8%A8%D9%83
+    publisher: الديار – Addiyar
+    date: 2026-11-13
+    language: ar
 ---
 
 The Lebanese Army announced the destruction of 215 tonnes of cannabis and
 marijuana in the Hermel and Baalbek regions during a three-day operation against
 drug trafficking. [@1,4,12] The army said the operation was part of security
-follow-up to combat narcotics and pursue people undermining security. [@1,3,11,12] The statement announcing the destructions was issued by Army Command – Guidance Directorate. [@12]
+follow-up to combat narcotics and pursue people undermining security. [@1,3,11,12,13] The statement announcing the destructions was issued by Army Command – Guidance Directorate. [@12]
 
 One army unit destroyed 200 tonnes of cannabis resin and marijuana, along with
 agricultural greenhouses and planted land, in the Marjehin plain area of Hermel
-over three days. [@1,3,5,6,7,8,9,10,11,12] Another unit raided several farms in the Boudai area of
+over three days. [@1,3,5,6,7,8,9,10,11,12,13] Another unit raided several farms in the Boudai area of
 Baalbek, destroying 15 tonnes of cannabis and a greenhouse planted with
-marijuana. [@1,3,5,6,7,8,9,10,11,12] In Boudai the unit seized machines used to manufacture the
-drugs. [@1,3,7,8,9,10,11,12]
+marijuana. [@1,3,5,6,7,8,9,10,11,12,13] In Boudai the unit seized machines used to manufacture the
+drugs. [@1,3,7,8,9,10,11,12,13]
 
 Annahar corroborated the same account, reporting 200 tonnes destroyed with
 greenhouses and planted land in the Marjehin plain of Hermel and 15 tonnes with
 a marijuana tent and manufacturing machines seized in Boudai, Baalbek. [@2] The
 seized items were handed over to the authorities, and searches were continuing
-to arrest the people involved, with no arrests reported. [@1,3,5,7,8,9,10,11,12]
+to arrest the people involved, with no arrests reported. [@1,3,5,7,8,9,10,11,12,13]
