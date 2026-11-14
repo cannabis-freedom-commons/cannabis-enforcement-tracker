@@ -12,17 +12,17 @@ title: Supreme Court orders retrial after evidence points to 2023 marijuana use
 summary: >-
   South Korea's Supreme Court on 27 October 2026 reversed a lower court's ruling against a record producer identified as A, who had been sentenced to three years and six months in prison for smoking 1 gram of marijuana in April 2024, because the evidence could only corroborate a smoking incident in April 2023.
 figures:
-  arrested: 1
-  charged: 1
-  prison: 3 years and 6 months in prison
-  fine:
-    amount: 22800000
-    currency: KRW
+    arrested: 1
+    charged: 1
+    prison: 3 years and 6 months in prison
+    fine:
+        amount: 22800000
+        currency: KRW
 data_sources:
-  figures.arrested: [1]
-  figures.charged: [1]
-  figures.fine: [1]
-  figures.prison: [1]
+    figures.arrested: [11]
+    figures.charged: [11]
+    figures.fine: [11]
+    figures.prison: [11]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: dd810f5c5f45904a7c7097e7acbb055b
@@ -76,6 +76,11 @@ sources:
     publisher: 뉴스1
     date: 2026-11-13
     language: ko
+  - title: 대법 "대마 흡연 자백했어도 보강증거 없으면 무죄"
+    url: https://www.etoday.co.kr/news/view/2647786?trc=right_categori_news
+    publisher: 이투데이
+    date: 2026-11-13
+    language: ko
 media:
   - kind: photo
     url: https://news.sbs.co.kr/english/article.do?news_id=N1008844852
@@ -87,14 +92,12 @@ media:
     media_url: https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/13/081964f6-44c9-41e5-99b8-f022c30ee57a.jpg
     publisher: 한국일보
     caption: Photo of the Supreme Court of Korea building in Seocho, Seoul, by journalist Choe Ju-yeon (최주연 기자), published by Hankook Ilbo with the ruling report
-open_questions:
-    - The submitted article does not state the exact calendar date of the Supreme Court ruling; it refers only to '13일' (the 13th) without naming the month explicitly.
 ---
 
 South Korea's Supreme Court, presided over by Justice Shin Suk-hee, on 27
 October 2026 reversed the lower court's ruling against a defendant identified as
 A, who was indicted on charges including violating the Act on the Control of
-Narcotics, and sent the case back to the Seoul High Court. [@1,2,3,4,6,7,8,9] A, who ran a
+Narcotics, and sent the case back to the Seoul High Court. [@1,2,3,4,6,7,8,9,11] A, who ran a
 record production and distribution company, a content firm, and nightlife
 establishments, was brought to trial on charges that included buying large
 quantities of ecstasy and marijuana in 2023 and selling or smoking some of them.
@@ -103,7 +106,7 @@ gram of marijuana together with four accomplices at an office in Seoul. [@1,8] T
 trial court found A guilty of the marijuana smoking charge, citing, among other
 things, that the accomplices indicted with A admitted the offense in court, and
 including other drug-related charges, the court sentenced A to three years and
-six months in prison and ordered 22.8 million won in forfeiture. [@1,3,4,6,8] On appeal,
+six months in prison and ordered 22.8 million won in forfeiture. [@1,3,4,6,8,11] On appeal,
 A argued that the smoking actually occurred in late April 2023 and that the
 indictment mistakenly listed April 2024, and said the confession at the first
 trial referred to the 2023 incident and that there was no marijuana smoking in
