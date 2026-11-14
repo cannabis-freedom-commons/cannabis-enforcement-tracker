@@ -148,20 +148,19 @@ def tool_details(payload, name):
 def quiet_build(cmd, log_path, output_log=None):
     """Cooperative cross-process build lock + complete on-disk log.
 
-    Also exposed as `bash scripts/research.sh --build` for Muse and other agents.
-    Plain `npm run build` does NOT participate in this advisory lock.
+    Also exposed as `bash scripts/research.sh --build` (runs the tests) for Muse and other agents.
     """
-    lock_path = repo / ".cache" / "astro-build.lock"
+    lock_path = repo / ".cache" / "research-validate.lock"
     lock_path.parent.mkdir(parents=True, exist_ok=True)
     with lock_path.open("a+") as lock_file:
         try:
             fcntl.flock(lock_file, fcntl.LOCK_EX | fcntl.LOCK_NB)
         except BlockingIOError:
-            say("⏳ Waiting for another research build to finish…", output_log)
+            say("⏳ Waiting for another research validation to finish…", output_log)
             fcntl.flock(lock_file, fcntl.LOCK_EX)
 
         started = time.monotonic()
-        say(f"→ Building (details: {log_path})", output_log)
+        say(f"→ Running {' '.join(cmd)} (details: {log_path})", output_log)
         # The controller spends minutes inside Muse before validating; a log
         # cleanup may have removed run_dir meanwhile. Recreate it so one
         # missing directory cannot abort the whole run with ENOENT.
@@ -177,9 +176,9 @@ def quiet_build(cmd, log_path, output_log=None):
                 code = 127
         elapsed = time.monotonic() - started
         if code == 0:
-            say(f"✓ Build passed ({elapsed:.0f}s)", output_log)
+            say(f"✓ Validation passed ({elapsed:.0f}s)", output_log)
         else:
-            say(f"✗ Build failed (exit {code}, {elapsed:.0f}s). Log: {log_path}", output_log)
+            say(f"✗ Validation failed (exit {code}, {elapsed:.0f}s). Log: {log_path}", output_log)
             # Errors can appear thousands of lines before the final progress line.
             # Pick actionable errors, then a small tail if no matching lines exist.
             diagnostic = deque(maxlen=14)
@@ -188,7 +187,7 @@ def quiet_build(cmd, log_path, output_log=None):
                 for ln in src:
                     line = ln.rstrip("\n")
                     tail.append(line)
-                    if re.search(r"\[ERROR\]|(?:\bError:|\bERROR:|ERR_MODULE_NOT_FOUND|Cannot find|failed|EPERM|EACCES)", line, re.I):
+                    if re.search(r"✖|\bnot ok\b|\[ERROR\]|(?:\bError:|\bERROR:|ERR_MODULE_NOT_FOUND|Cannot find|failed|EPERM|EACCES)", line, re.I):
                         diagnostic.append(line[:350])
             for line in (diagnostic if diagnostic else tail):
                 say("    " + line, output_log)
@@ -199,7 +198,7 @@ def quiet_build(cmd, log_path, output_log=None):
 def isolated_build(owned, out, run_dir, name):
     """Validate HEAD + owned files in a throwaway worktree, ignoring live dirt.
 
-    A full-tree `astro build` loads every reports/*.md in the working tree, so a
+    The tests read every reports/*.md in the working tree, so a
     concurrent worker's half-written report (e.g. `code` not yet assigned) fails
     validation for this run's finished files. This instead builds an isolated
     snapshot — HEAD plus exactly this run's owned paths overlaid — without
@@ -212,13 +211,13 @@ def isolated_build(owned, out, run_dir, name):
     say(f"→ Isolated validation of {len(owned)} owned file(s) (details: {log_path})", out)
     started = time.monotonic()
     code = 127
-    lock_path = repo / ".cache" / "astro-build.lock"
+    lock_path = repo / ".cache" / "research-validate.lock"
     lock_path.parent.mkdir(parents=True, exist_ok=True)
     with lock_path.open("a+") as lock_file:
         try:
             fcntl.flock(lock_file, fcntl.LOCK_EX | fcntl.LOCK_NB)
         except BlockingIOError:
-            say("⏳ Waiting for another research build to finish…", out)
+            say("⏳ Waiting for another research validation to finish…", out)
             fcntl.flock(lock_file, fcntl.LOCK_EX)
         try:
             git("worktree", "prune", check=False)
@@ -258,16 +257,16 @@ def isolated_build(owned, out, run_dir, name):
         fcntl.flock(lock_file, fcntl.LOCK_UN)
     elapsed = time.monotonic() - started
     if code == 0:
-        say(f"✓ Isolated build passed ({elapsed:.0f}s)", out)
+        say(f"✓ Isolated validation passed ({elapsed:.0f}s)", out)
     else:
-        say(f"✗ Isolated build failed (exit {code}, {elapsed:.0f}s). Log: {log_path}", out)
+        say(f"✗ Isolated validation failed (exit {code}, {elapsed:.0f}s). Log: {log_path}", out)
         diagnostic = deque(maxlen=14)
         tail = deque(maxlen=12)
         with log_path.open(encoding="utf-8", errors="replace") as src:
             for ln in src:
                 line = ln.rstrip("\n")
                 tail.append(line)
-                if re.search(r"\[ERROR\]|(?:\bError:|\bERROR:|ERR_MODULE_NOT_FOUND|Cannot find|failed|EPERM|EACCES)", line, re.I):
+                if re.search(r"✖|\bnot ok\b|\[ERROR\]|(?:\bError:|\bERROR:|ERR_MODULE_NOT_FOUND|Cannot find|failed|EPERM|EACCES)", line, re.I):
                     diagnostic.append(line[:350])
         for line in (diagnostic if diagnostic else tail):
             say("    " + line, out)
@@ -275,7 +274,7 @@ def isolated_build(owned, out, run_dir, name):
 
 
 if build_only:
-    code = quiet_build(shlex.split(os.environ.get("RESEARCH_VALIDATE_CMD", "npx astro build")),
+    code = quiet_build(shlex.split(os.environ.get("RESEARCH_VALIDATE_CMD", "npm test")),
                        log_dir / "build.log")
     sys.exit(code)
 
@@ -338,7 +337,7 @@ def run_command(cmd, log, raw_file=None, muse_json=False):
     return returncode
 
 
-validate_cmd = os.environ.get("RESEARCH_VALIDATE_CMD", "npx astro build").strip()
+validate_cmd = os.environ.get("RESEARCH_VALIDATE_CMD", "npm test").strip()
 max_steps = os.environ.get("RESEARCH_MAX_STEPS", "120")
 if not max_steps.isdecimal() or int(max_steps) < 1:
     sys.exit("RESEARCH_MAX_STEPS must be a positive integer")
@@ -470,9 +469,23 @@ def fix_unquoted_question_colons(paths, out):
 
 
 def failing_report_paths(build_log):
+    """Report files named in the failures of a validation log.
+
+    `npm test` lists every report it checked (✔ lines), so only the failures count:
+    the summary after "✖ failing tests:", or the ✖ / "not ok" blocks. A failure may
+    name a report by its slug instead of its path.
+    """
     content = build_log.read_text(encoding="utf-8", errors="replace")
-    matches = re.findall(r"(?:(?:[A-Za-z]:)?[^\n ]*?/)?(reports/\d{4}/\d{2}/[A-Za-z0-9._-]+\.md)", content)
-    return sorted(set(matches))
+    if "✖ failing tests:" in content:
+        content = content.split("✖ failing tests:", 1)[1]
+    content = "\n".join(ln for ln in content.splitlines()
+                        if not re.match(r"\s*(?:✔|ok \d)", ln))
+    matches = set(re.findall(r"(?:(?:[A-Za-z]:)?[^\n ]*?/)?(reports/\d{4}/\d{2}/[A-Za-z0-9._-]+\.md)", content))
+    words = set(re.findall(r"[a-z0-9]+(?:-[a-z0-9]+)+", content))
+    for path in (repo / "reports").glob("*/*/*.md"):
+        if path.stem in words:
+            matches.add(path.relative_to(repo).as_posix())
+    return sorted(matches)
 
 
 def recover_failed_build(owned, tracked_before, out, run_dir, first_code, first_log, isolated=False):
@@ -497,11 +510,22 @@ def recover_failed_build(owned, tracked_before, out, run_dir, first_code, first_
                 if code == 0:
                     return 0
                 continue
-            say("ERROR: Build errors refer to files not owned by this run; refusing to modify them: " +
+            say("ERROR: Validation errors refer to files not owned by this run; refusing to modify them: " +
                 ", ".join(other_errors), out)
             return code
+        if not to_fix and not isolated:
+            # The failure may come from the live tree rather than this run's files.
+            say("→ Validation failed without naming a report of this run; "
+                "retrying HEAD + owned files in isolation", out)
+            isolated = True
+            name = f"build-isolated-fallback-{attempt}"
+            log_path = run_dir / f"{name}.log"
+            code = isolated_build(owned, out, run_dir, name)
+            if code == 0:
+                return 0
+            continue
         if not to_fix:
-            say("ERROR: Build failed without an identifiable invalid report owned by this run. "
+            say("ERROR: Validation failed without an identifiable invalid report owned by this run. "
                 "Not asking Muse to modify unrelated code or files.", out)
             return code
         say("→ Muse repair pass for: " + ", ".join(to_fix), out)
@@ -509,11 +533,11 @@ def recover_failed_build(owned, tracked_before, out, run_dir, first_code, first_
         repair_prompt = f"""Repair report validation errors. DO NOT research new events.
 Only edit these existing report files: {', '.join(to_fix)}.
 Do not modify any other file, and do not git commit or run a build.
-Correct the exact content-schema/YAML problem in the build error below.
+Correct the exact problem the failing tests below report for these files.
 `open_questions` must be an array of strings; quote colon-containing items.
 Preserve all factual content, source citations, and created_by_model fields.
 The controller will run validation and commit when you finish.
-BUILD FAILURE LOG (tail):
+TEST FAILURE LOG (tail):
 {diagnostic}
 """
         fix_code = run_command([
@@ -578,14 +602,13 @@ verified or its direct URL could not be recovered; do not make a missing photo
 a blocker or turn every unsuccessful image search into an open question.
 
 COMPLETE THE RESEARCH AND ARCHIVING, AND RUN LIGHTWEIGHT CHECKS AS NEEDED.
-Do not run `npm run build` or `npx astro build` directly: those can race with
-another Astro build and corrupt the shared dist/. If a full build is necessary,
-ONLY run `bash scripts/research.sh --build` (quiet, holds the build lock).
-The outer research.sh controller always performs final build validation once
-your Muse run completes, so usually skip full builds yourself.
+Do not run `npm run build` or `npx astro build`: a build is not needed and can race
+with another one. To check the reports, run `npm test` (about half a minute).
+The outer research.sh controller always runs `npm test` once your Muse run
+completes, so usually skip it yourself.
 YAML SAFETY: open_questions must be a list of STRINGS. Quote any item containing
 colon + space, such as `- "Disputed count: two publications disagree"`, or YAML
-will parse the item as an object and Astro will reject the report.
+will parse the item as an object and the tests will reject the report.
 Commit handling is done by the OUTER research.sh controller, which has permission
 to write Git metadata. Do NOT attempt git add/commit or request approval; leave
 report files ready for the controller to commit. Do not edit unrelated files.
@@ -670,7 +693,7 @@ This file is ignored by Git. Do not commit it yourself.
                     first_log = run_dir / "build-isolated.log"
                     validation_code = isolated_build(owned, out, run_dir, "build-isolated")
                 else:
-                    say("\nValidating (quiet, build locked): " + validate_cmd, out)
+                    say("\nValidating: " + validate_cmd, out)
                     first_log = run_dir / "build.log"
                     validation_code = quiet_build(shlex.split(validate_cmd), first_log, out)
                 if validation_code:
