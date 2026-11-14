@@ -99,41 +99,36 @@ sources:
     publisher: DHnet
     date: 2026-11-12
     language: fr
-open_questions:
-  - The amounts are given as more than 2,000 plants, almost 55 kg and more than 17,000 euros, not as exact totals.
-  - No breakdown of plants, marijuana or cash by address was published.
-  - The sources do not say at which of the five addresses each of the three plantations was found.
-  - The sources do not say whether the plantations were indoors or outdoors.
-  - No street-value estimate for the cannabis was published.
-  - The outcome of the raadkamer hearing on 13 November 2026 was not yet known.
-  - The suspects' roles in the organisation, and any prior convictions, were not reported.
-  - The aviation police's precise role in the investigation has not been disclosed.
-  - The six suspects were identified only by nationality, sex and age range.
+  - title: Lokale politie Leuven rolt Albanese wietbende op
+    url: https://www.crimesite.nl/lokale-politie-leuven-rolt-albanese-wietbende-op/
+    publisher: Crimesite
+    date: 2026-11-13
+    language: nl
 ---
 
-Six Albanian men aged between 29 and 57 were arrested during the searches. [@1]
+Six Albanian men aged between 29 and 57 were arrested during the searches. [@1,8]
 Five simultaneous house searches took place under an investigating judge on
-Monday 9 November 2026 in Etterbeek, Evere, Leuven, Overijse and Tervuren. [@2,7]
+Monday 9 November 2026 in Etterbeek, Evere, Leuven, Overijse and Tervuren. [@2,7,8]
 Police found three professional cannabis plantations during the searches, two of
-them fully operational and active. [@3,7] Leuven prosecutor's office spokesperson
+them fully operational and active. [@3,7,8] Leuven prosecutor's office spokesperson
 Ellen Durie said two of the locations held fully operational and active
 plantations. [@6] The searches took place in the districts of Leuven,
-Halle-Vilvoorde and Brussels. [@3]
+Halle-Vilvoorde and Brussels. [@3,8]
 
-Officers found more than 2,000 cannabis plants in total. [@2,7] At the other
+Officers found more than 2,000 cannabis plants in total. [@2,7,8] At the other
 locations investigators found large quantities of harvested marijuana. [@2,7] The
-plantations were dismantled. [@2,7] Almost 55 kg of harvested marijuana was seized
-in the case. [@5,7] Investigators also seized more than 17,000 euros in cash. [@2,7]
+plantations were dismantled. [@2,7,8] Almost 55 kg of harvested marijuana was seized
+in the case. [@5,7,8] Investigators also seized more than 17,000 euros in cash. [@2,7,8]
 All the cannabis found will be destroyed by the police. [@1,7]
 
 The six suspects were brought before the investigating judge on Tuesday 10
-November and detained. [@2] They were charged with drug-law offences,
+November and detained. [@2,8] They were charged with drug-law offences,
 specifically cannabis cultivation and membership of a criminal organisation.
-[@2] They were taken to prison and were due before the raadkamer, the chamber
-that rules on pre-trial detention, on Friday 13 November. [@2]
+[@2,8] They were taken to prison and were due before the raadkamer, the chamber
+that rules on pre-trial detention, on Friday 13 November. [@2,8]
 
 The investigation began in 2026 and targeted a professionally organised criminal
-organisation active in cannabis cultivation. [@2,7] The Leuven local detective
+organisation active in cannabis cultivation. [@2,7,8] The Leuven local detective
 unit led the operation with support from other police services and specialist
 partners, and the aviation police from Charleroi contributed for several months.
 [@2,7] Durie said investigators were still establishing each suspect's role. [@4]
