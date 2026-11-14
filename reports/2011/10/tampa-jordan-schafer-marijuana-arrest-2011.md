@@ -50,25 +50,31 @@ sources:
     url: https://www.cbsnews.com/news/mlb-player-jordan-schafer-arrested-for-possession-of-marijuana-in-fla/
     publisher: CBS News
     date: 2011-10-05
+  - title: Astros' Schafer arrested on drug charges
+    url: https://abc7chicago.com/archive/8378252/
+    publisher: ABC7 Chicago
+    date: 2011-10-04
+    language: en
 open_questions:
-  - The source gives only "early Tuesday morning" for the arrest; the date is taken as 4 October 2011, confirmed by the article's statement that it was Tuesday.
-  - The article says "less than an ounce" without a precise weight; the 0.0283 kg figure is a conversion of one ounce as an upper bound.
-  - The five-year prison term and $5,000 fine are the penalties the charge could carry, not a sentence.
-  - No court outcome or later disposition of the case is reported.
-  - The only photo offered is a 2011 file photo of Schafer at Wrigley Field, not an image of the arrest, so it is omitted.
-  - Only one source could be opened for this event.
+    - The source gives only "early Tuesday morning" for the arrest; the date is taken as 4 October 2011, confirmed by the article's statement that it was Tuesday.
+    - The article says "less than an ounce" without a precise weight; the 0.0283 kg figure is a conversion of one ounce as an upper bound.
+    - The five-year prison term and $5,000 fine are the penalties the charge could carry, not a sentence.
+    - No court outcome or later disposition of the case is reported.
+    - The only photo offered is a 2011 file photo of Schafer at Wrigley Field, not an image of the arrest, so it is omitted.
+    - Only one source could be opened for this event.
+    - The accounts name different arresting agencies, Tampa police in the ABC7 account and the Hillsborough County Sheriff's Office in the arrest report, so the exact arresting agency is unclear.
 ---
 
 Houston Astros outfielder Jordan Schafer was arrested in Tampa, Florida, early
-on Tuesday 4 October 2011 and charged with felony possession of marijuana. [@1]
+on Tuesday 4 October 2011 and charged with felony possession of marijuana. [@1,2]
 Police said Schafer pulled up to a traffic light in a black Land Rover with the
 windows down next to a police car, and officers saw him smoking a marijuana
-cigarette. [@1] After he was stopped, Schafer admitted smoking marijuana and
+cigarette. [@1,2] After he was stopped, Schafer admitted smoking marijuana and
 said he had more in the vehicle, and a search turned up less than an ounce in a
 plastic container and a small amount inside three small marijuana peanut butter
-cups, according to the police report. [@1] According to a Hillsborough County
+cups, according to the police report. [@1,2] According to a Hillsborough County
 Sheriff's Office arrest report, Schafer was arrested early Tuesday morning in
-Tampa and released on a $2,000 cash bond. [@1]
+Tampa and released on a $2,000 cash bond. [@1,2] Schafer was taken into custody without incident and the Land Rover was seized and held for forfeiture. [@2]
 
 Felony marijuana possession in Florida carried a potential maximum five-year
 prison term and a $5,000 fine. [@1] The Braves had made Schafer, then 22, their
@@ -78,4 +84,3 @@ used human growth hormone in violation of the minor league drug program. [@1] He
 was suspended after Major League Baseball's new investigative unit found
 evidence that Schafer used human growth hormone in violation of the minor league
 drug program. [@1]
-
