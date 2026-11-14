@@ -164,9 +164,11 @@ sources:
     publisher: Fátima News
     date: 2026-11-12
     language: pt
-open_questions:
-    - Some accounts, including Jornal da Nova and Fátima News, said no information on possible arrests had been released, while other outlets reported that a couple was arrested in the act.
-    - No formal charges, custody hearing or court step had been reported; an inquiry was opened in Guaíra to identify who sent and received the load.
+  - title: Carga de maconha avaliada em R$ 78 milhões é apreendida após sair de Mato Grosso do Sul
+    url: https://www.ivinoticias.com.br/noticia/169661/carga-de-maconha-avaliada-em-r-78-milhoes-e-apreendida-apos-sair-de-mato-grosso-do-sul
+    publisher: Jornal da Nova
+    date: 2026-11-12
+    language: pt
 ---
 
 A 30-year-old man and a 20-year-old woman were arrested after officers found
@@ -178,19 +180,19 @@ that the identities of the driver and the passenger were not published. [@6]
 The Border Police Battalion, known as BPFRON, carried out the seizure in
 Marechal Cândido Rondon. [@1,9,11,13,17,18] The action was integrated between BPFRON, the
 Federal Police's Special Maritime Police Nucleus (NEPOM-PF), the Receita Federal
-customs office in Mundo Novo and the Military Police of Mato Grosso do Sul. [@1,8,9,11,12,13,16,17,18]
+customs office in Mundo Novo and the Military Police of Mato Grosso do Sul. [@1,8,9,11,12,13,16,17,18,19]
 Teams had received information from the Mato Grosso do Sul military police that
-a bitrem truck was heading towards Paraná with a possible drug load. [@1,9,12,13,16,17] The truck was being used to transship a load bound for Santa Catarina, the Receita Federal said. [@8,15,18] The
+a bitrem truck was heading towards Paraná with a possible drug load. [@1,9,12,13,16,17] The truck was being used to transship a load bound for Santa Catarina, the Receita Federal said. [@8,15,18,19] The
 truck was a Volvo FH 400 bitrem carrying maize. [@2,10,13,17] The man was driving the truck and the woman was travelling as his passenger. [@9,10,11,12,13,14,16,17] Officers found bales of
-narcotics hidden among the maize during the inspection. [@1,9,10,11,12,13,14,16,17] Officers found hundreds of bales of drugs in the truck. [@15,18]
+narcotics hidden among the maize during the inspection. [@1,9,10,11,12,13,14,16,17] Officers found hundreds of bales of drugs in the truck. [@15,18,19]
 
 After weighing, the load came to 7,603 kilograms of pressed marijuana and 178
-kilograms of skunk, 7,781 kilograms of drugs in total. [@1,8,9,10,11,12,13,14,15,16,17,18] Skunk is a variety
+kilograms of skunk, 7,781 kilograms of drugs in total. [@1,8,9,10,11,12,13,14,15,16,17,18,19] Skunk is a variety
 of cannabis with a higher concentration of THC, the substance responsible for
 the plant's psychoactive effects. [@1,13] The narcotics and the truck used in the
-transport were sent to the Federal Police station in Guaíra. [@1,8,9,10,11,12,13,14,15,16,17,18] An inquiry was opened there to identify those responsible for sending and receiving the load. [@18] According to
+transport were sent to the Federal Police station in Guaíra. [@1,8,9,10,11,12,13,14,15,16,17,18,19] An inquiry was opened there to identify those responsible for sending and receiving the load. [@18] According to
 the Border Police Battalion, the seizure represents an estimated loss of R$
-16,318,000 to organised crime. [@1,9,12,13,17] The Receita Federal estimated the value of the seized cannabis at about R$ 78 million. [@8,15,18] The action took place within Operação
+16,318,000 to organised crime. [@1,9,12,13,17] No information on possible arrests had been released. [@19] The Receita Federal estimated the value of the seized cannabis at about R$ 78 million. [@8,15,18] The action took place within Operação
 Protetor, a joint security-force campaign against drug trafficking in the border
 region. [@1,9,11,12,13,16]
 
