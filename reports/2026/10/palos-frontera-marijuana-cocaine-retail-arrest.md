@@ -67,21 +67,26 @@ sources:
     publisher: Huelva24
     date: 2026-11-13
     language: es
+  - title: Detenido en Palos de la Frontera tras intentar huir de la Guardia Civil con marihuana y cocaína
+    url: https://teleonuba.es/detenido-en-palos-de-la-frontera-tras-intentar-huir-de-la-guardia-civil-con-marihuana-y-cocaina/
+    publisher: Teleonuba
+    date: 2026-11-13
+    language: es
 ---
 
 The Guardia Civil detained one person in Palos de la Frontera for possessing
 drugs apportioned for retail sale and for serious disobedience after trying to
-flee the police. [@1,2,3,4] One occupant of a stopped car fled on foot, throwing away
+flee the police. [@1,2,3,4,7] One occupant of a stopped car fled on foot, throwing away
 a backpack and a bag, and was located and detained after trying to hide from the
-police. [@1,2,3,4,6]
+police. [@1,2,3,4,6,7]
 
 Inside the discarded backpack and bag officers found many small plastic bags
 holding substances later analysed as marijuana and cocaine, prepared for retail
-distribution and sale. [@1,2,3,6] Officers also found cash split into banknotes and
+distribution and sale. [@1,2,3,6,7] Officers also found cash split into banknotes and
 coins of different values inside the bags, described as presumed proceeds of
-retail drug trafficking. [@1,2,3,6] The detained person, the seized substances and the
+retail drug trafficking. [@1,2,3,6,7] The detained person, the seized substances and the
 seized money were placed at the disposal of the judicial authority handling the
-case. [@1,4,5,6]
+case. [@1,4,5,6,7]
 
 The incident happened at the end of October in Palos de la Frontera, when a
 citizen-security patrol on crime-prevention duties ordered a car to stop and the
