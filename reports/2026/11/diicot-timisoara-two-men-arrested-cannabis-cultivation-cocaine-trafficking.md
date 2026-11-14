@@ -71,33 +71,33 @@ sources:
     publisher: Tribuna
     date: 2026-11-13
     language: ro
-open_questions:
-    - The cocaine weight (200 grams) is from the second case; no cannabis weight was reported for that case.
-    - The indoor and outdoor cannabis cultivation is described as taking place over 2026; no exact date for the searches is given beyond 12 November 2026.
-    - No plea, trial or sentence beyond the 30-day preventive arrest was reported.
-    - One account lists four kilograms of buds and also cannabis inflorescences, while the figure used here follows accounts that describe about 4 kilograms of buds and inflorescences together.
+  - title: Canabis cultivat la Bata și cocaină vândută în Timiș. Doi bărbați au fost arestați
+    url: https://stiridetimisoara.ro/trafic-droguri-timisoara-arad-canabis-cocaina-arestati_85145.html
+    publisher: Stiri de Timisoara
+    date: 2026-11-13
+    language: ro
 ---
 
 On 12 November 2026, prosecutors at DIICOT's Timișoara Territorial Service
 ordered the detention of two defendants in two criminal cases: a 42-year-old
 charged with trafficking in risk drugs and a 58-year-old charged with
-trafficking in high-risk drugs. [@1,2]
+trafficking in high-risk drugs. [@1,2,4]
 
 During 2026, the 42-year-old defendant initiated and developed cannabis
-cultivation, both indoor and outdoor, intended for sale. [@1,3] A search in comuna
+cultivation, both indoor and outdoor, intended for sale. [@1,3,4] A search in comuna
 Bata, Arad County, found and seized 54 cannabis plants in the drying process,
 various bags, sacks and containers holding about 4 kilograms of cannabis buds
 and inflorescences, handmade cigarettes, objects bearing traces of the
-substance, a scale, a grinder, and other means of proof. [@1,2,3]
+substance, a scale, a grinder, and other means of proof. [@1,2,3,4]
 
 In the second case, investigators established that during 2026 a 58-year-old
 defendant purchased, possessed and sold cocaine in the area of Timiș County.
 [@1] The 58-year-old man is from Timiș. [@3] Two home-search warrants were executed in the city of Timișoara, where
 several bags containing a total of 200 grams of cocaine, a precision electronic
 scale, objects bearing traces of the substance, and other means of proof were
-identified. [@1,2,3]
+identified. [@1,2,3,4]
 
 The judges of rights and freedoms at the Timiș Court ordered the preventive
-arrest of the defendants for a period of 30 days. [@1,2,3] The judicial activities
+arrest of the defendants for a period of 30 days. [@1,2,3,4] The judicial activities
 were carried out together with officers of the Organised Crime Combat Brigade
 Timișoara. [@1,3] The operation was supported by gendarmes of the Glad Voievod Mobile Gendarmerie Grouping in Timișoara. [@2]
