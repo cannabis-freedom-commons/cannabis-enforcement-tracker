@@ -57,6 +57,11 @@ sources:
     publisher: اليوم السابع
     date: 2026-11-12
     language: ar
+  - title: بعد مقتل سيدة أثناء رعي الأغنام، مصرع المتهمين في تبادل إطلاق النار مع الشرطة بسوهاج وضبط بندقيتين آليتين و2 كيلو حشيش
+    url: https://www.vetogate.com/5769429
+    publisher: فيتو
+    date: 2026-11-13
+    language: ar
 open_questions:
   - The reports give no separate date for the Sohag shootout; 12 November 2026, the publication date, stands in for the incident date.
   - Mobtada dates the initial sheep-grazing shooting to the 9th of the month.
@@ -69,7 +74,7 @@ her brother's son, a worker from the same district, were grazing their sheep in
 a desert area of Farshout when two men on a motorcycle, one carrying an
 automatic rifle, tried to steal one of the sheep. [@1] When the two tried to
 stop them, one suspect fired at them, killing the housewife, and both suspects
-fled without completing the theft. [@1] Investigators identified the two as
+fled without completing the theft. [@1,4] Investigators identified the two as
 dangerous criminal elements previously accused in cases including premeditated
 murder, drug trafficking, unlicensed firearms, armed robbery and resisting the
 authorities. [@1] Police said the two were wanted for arrest in drugs, firearms,
@@ -77,13 +82,12 @@ armed robbery and murder cases and were hiding in Sohag Governorate. [@1]
 
 A force including the Central Security Forces moved against the suspects in
 Sohag, and after the suspects opened fire on the officers, both were killed in
-the resulting exchange. [@1] Police killed the two suspects in Sohag after they
+the resulting exchange. [@1,4] Police killed the two suspects in Sohag after they
 opened fire on the force, and officers seized two automatic rifles and about 2
-kg of hashish from them. [@1] Police said the necessary legal measures were
+kg of hashish from them. [@1,4] Police said the necessary legal measures were
 taken in the case. [@1]
 
 Mobtada dates the sheep-grazing shooting to the 9th of the month and gives the
 same account of the attempted theft, the fatal shooting and the suspects'
 flight. [@2] Youm7 independently corroborates the seizure of two automatic
 rifles and 2 kg of hashish from the two suspects. [@3]
-
