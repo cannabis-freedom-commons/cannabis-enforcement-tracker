@@ -36,6 +36,16 @@ media:
     media_url: https://www.ntrguadalajara.com/evidimg/2026-11-13_10-11-06___1476.jpg
     publisher: NTR Guadalajara
     caption: 'Photo published with the NTR Guadalajara account of the Degollado raid on the property linked to Tío Laco. Photo: NTR Guadalajara'
+  - kind: photo
+    url: https://www.milenio.com/policia/narcotrafico/aseguran-invernaderos-de-marihuana-en-jalisco-fotos
+    media_url: https://images.milenio.com/UucgjD5R39CYlttYx3WYZoNJRyE=/942x532/uploads/media/2026/11/13/invernaderos-asegurados-jalisco-serian-operados.jpg
+    publisher: Grupo Milenio
+    caption: 'Greenhouses secured in Jalisco allegedly operated by the group led by El Tío Lako. Photo: Defensa'
+  - kind: photo
+    url: https://www.milenio.com/policia/narcotrafico/aseguran-invernaderos-de-marihuana-en-jalisco-fotos
+    media_url: https://images.milenio.com/wnV0F3jvJbC36v0OkVqFLJXn78s=/375x0/uploads/media/2026/11/13/instalaciones-degollado-jalisco-usadas-procesar.jpg
+    publisher: Grupo Milenio
+    caption: 'Processing facility in Degollado, Jalisco used to process marijuana. Photo: Defensa'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 86d89748de7436187ee03091dce1a95a
@@ -76,6 +86,11 @@ sources:
     publisher: Infobae
     date: 2026-11-14
     language: es
+  - title: Inhabilitan invernaderos y centros de extracción de mariguana en Degollado, Jalisco
+    url: https://www.milenio.com/policia/narcotrafico/aseguran-invernaderos-de-marihuana-en-jalisco-fotos
+    publisher: Grupo Milenio
+    date: 2026-11-13
+    language: es
 open_questions:
     - No cannabis weight or plant count was published, so no cannabis quantity can be recorded.
     - The reported 17 million pesos monthly and 5 million pesos infrastructure estimates concern synthetic-drug production and installed infrastructure, not a cannabis value.
@@ -88,10 +103,10 @@ Criminal Investigation Agency of the FGR, executed a technical investigation
 order at a property in the La Tinajera locality of the municipality of
 Degollado, Jalisco. [@1,4] On 13 November 2026 the Mexican Army, the National Guard and the FGR disabled two laboratories for producing synthetic drugs and two marijuana greenhouses in Degollado, Jalisco. [@7] The property was operated by a criminal group led by
 Heraclio 'N', alias Tío Laco, identified as the regional boss of the Jalisco New
-Generation Cartel in the area. [@1,4] The installations were operated by a group led by Heraclio Guerrero Martínez, alias Tío Lako, described as a regional CJNG chief with operations in Jalisco and Michoacán. [@6]
+Generation Cartel in the area. [@1,4,8] The installations were operated by a group led by Heraclio Guerrero Martínez, alias Tío Lako, described as a regional CJNG chief with operations in Jalisco and Michoacán. [@6]
 
 At the site the authorities seized firearms, cartridges, two synthetic-drug
-production centers and two marijuana greenhouses. [@1,4,5] One marijuana greenhouse measured about 3,250 square metres and the other about 8,400 square metres. [@6] Machinery, tools and
+production centers and two marijuana greenhouses. [@1,4,5,8] One marijuana greenhouse measured about 3,250 square metres and the other about 8,400 square metres. [@6] Machinery, tools and
 various items recovered on the property were used to make methamphetamine and to
 process and extract high-purity cannabidiol (CBD) and tetrahydrocannabinol (THC)
 from marijuana. [@2,4,6]
