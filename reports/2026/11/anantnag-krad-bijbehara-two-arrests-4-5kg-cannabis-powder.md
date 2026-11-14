@@ -60,23 +60,27 @@ sources:
     url: https://www.dailyexcelsior.com/2-held-with-cannabis-powder-heroin-in-anantnag/
     publisher: Daily Excelsior
     date: 2026-11-14
+  - title: 'Two Drug Peddlers Arrested in Anantnag; Cannabis Powder, Heroin Seized: Police'
+    url: https://thekashmirhorizon.com/2026/11/14/two-drug-peddlers-arrested-in-anantnag-cannabis-powder-heroin-seized-police/
+    publisher: The Kashmir Horizon
+    date: 2026-11-14
 ---
 
 Police in Anantnag district arrested two alleged drug peddlers in separate
 operations and recovered over 4.5 kg of cannabis powder and 4 grams of heroin,
-officials said on Friday. [@1,3,4] A Police Station Uttrasoo team, during routine
+officials said on Friday. [@1,3,4,5] A Police Station Uttrasoo team, during routine
 patrolling at Krad, intercepted a suspicious person carrying a polythene sack
-and recovered 4 kg and 542 grams of cannabis powder from him. [@1,3,4] The accused
+and recovered 4 kg and 542 grams of cannabis powder from him. [@1,3,4,5] The accused
 in the Krad case was identified as Ghulam Hassan Khan, son of Fareed Ahmad Khan,
-a resident of Rakh Brah. [@1,3,4] Anantnag Police confirmed the two arrests at Krad
+a resident of Rakh Brah. [@1,3,4,5] Anantnag Police confirmed the two arrests at Krad
 and Bijbehara, saying 4.5 kg of Bang Bosa and 4 grams of heroin had been
 recovered and cases registered under the NDPS Act. [@2]
 
 FIR No. 112/2026 under Sections 8/20 of the NDPS Act was registered at Police
-Station Uttrasoo and an investigation was taken up. [@1,3,4] In a separate
+Station Uttrasoo and an investigation was taken up. [@1,3,4,5] In a separate
 operation, a Police Station Bijbehara team intercepted a person during random
-naka checking on Bijbehara-Arwani Road near Fruit Mandi. [@1,3,4] During the search,
+naka checking on Bijbehara-Arwani Road near Fruit Mandi. [@1,3,4,5] During the search,
 4 grams of heroin were recovered from the Bijbehara accused, identified as
-Mohsin Zahoor Mir, son of late Zahoor Ahmad Mir, a resident of Batengoo. [@1,3,4]
+Mohsin Zahoor Mir, son of late Zahoor Ahmad Mir, a resident of Batengoo. [@1,3,4,5]
 Police said legal proceedings had been initiated against the accused under
 relevant provisions of the NDPS Act. [@1,4]
