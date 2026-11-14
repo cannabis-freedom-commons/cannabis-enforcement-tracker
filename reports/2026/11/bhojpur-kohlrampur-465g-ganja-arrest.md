@@ -62,25 +62,24 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-12
     language: hi
-open_questions:
-  - The reports give no separate date for the raid, so 12 November 2026, the publication date of all three outlets, is used as the incident date.
-  - Prabhat Khabar names the acting unit as Barhara police while Dainik Bhaskar and Live Hindustan name Babura police; the report follows the latter two.
-  - No charge or NDPS Act section and no court outcome beyond judicial custody were reported.
-  - The seized substance is described only as ganja, with no laboratory confirmation reported.
-  - No valuation of the ganja and no other accused or wider network were reported.
+  - title: 465 ग्राम गांजा के साथ धंधेबाज गिरफ्तार
+    url: https://www.bhaskar.com/local/bihar/bhojpur/badhara/news/trafficker-arrested-with-465-grams-of-cannabis-dbp-139668364.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-13
+    language: hi
 ---
 
 Acting on a secret tip that a man in Kohlrampur village was keeping ganja and
 selling it, police formed a team and raided the identified spot. [@1] During the
 raid officers searched the suspect, seized the ganja, and arrested the accused
-Kuber Rai on the spot. [@1] Police identified the arrested man as Kuber Rai, son
+Kuber Rai on the spot. [@1,4] Police identified the arrested man as Kuber Rai, son
 of Rajbalam Rai, a resident of Kohlrampur village. [@1] After completing the
 required legal formalities, police sent him to jail in judicial custody, and
 further action in the case is under way. [@1]
 
-The search recovered 465 grams of ganja from his possession. [@1] Dainik Bhaskar
+The search recovered 465 grams of ganja from his possession. [@1,4] Dainik Bhaskar
 identifies the acting unit as Babura police, which arrested the ganja trafficker
-in its Kohlrampur station area on the same tip-off. [@2] Live Hindustan likewise
+in its Kohlrampur station area on the same tip-off. [@2,4] Live Hindustan likewise
 reports that police raided Kohlrampur village in the Babura station area,
 seizing 465 grams of ganja and arresting Kuber Rai, son of Rajbalam Rai. [@3] It
 confirms that police sent the accused to jail in judicial custody after
@@ -90,4 +89,3 @@ Babura station head Sanjay Kumar said police are keeping continuous watch to
 curb illegal narcotics purchase, sale and smuggling in the area. [@2] The action
 was described as part of an ongoing police drive against narcotics trading in
 Bhojpur district. [@2]
-
