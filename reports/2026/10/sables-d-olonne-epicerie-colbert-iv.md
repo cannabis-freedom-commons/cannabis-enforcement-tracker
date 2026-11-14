@@ -31,6 +31,11 @@ sources:
     publisher: Le Courrier Vendéen (actu.fr)
     date: 2026-11-13
     language: fr
+  - title: Près de 135 kg de tabac et du cannabis découverts dans une épicerie en Vendée
+    url: https://my-angers.info/11/14/pres-de-135-kg-de-tabac-et-du-cannabis-decouverts-dans-une-epicerie-en-vendee/201465
+    publisher: Angers Info
+    date: 2026-11-14
+    language: fr
 open_questions:
   - No figure for a street-value or court value of the 1.975 kg of cannabis resin was published.
   - No arrests or suspects are named for the Les Sables-d'Olonne epicerie seizure; the 14 arrests are the regional total, not attributable to this shop.
@@ -40,15 +45,15 @@ open_questions:
 On 9 October 2026 a joint check of an epicerie in Les Sables-d'Olonne (Vendée)
 was carried out by the customs external surveillance brigade, the gendarmerie,
 CELTIF 85 and the DGCCRF, as part of a departmental anti-fraud committee (CODAF)
-operation. [@1]
+operation. [@1,2]
 
 Officers found nearly 135 kg of illicit tobacco on the premises: 73.68 kg of
 hookah tobacco, 39.68 kg of cigarettes (198 cartons), 21.43 kg of rolling
-tobacco and 12 grams of cigars. [@1] In addition to the tobacco, officers seized
-nearly 2 kg (1.975 kg) of cannabis resin already packaged for resale. [@1]
+tobacco and 12 grams of cigars. [@1,2] In addition to the tobacco, officers seized
+nearly 2 kg (1.975 kg) of cannabis resin already packaged for resale. [@1,2]
 
 The intervention was part of Operation Colbert IV, a nationwide drive on tobacco
-supply networks run 7 to 15 October 2026. [@1] In the Pays de la Loire region
+supply networks run 7 to 15 October 2026. [@1,2] In the Pays de la Loire region
 the customs services launched 31 day and night operations during Colbert IV.
 [@1]
 
@@ -57,4 +62,3 @@ with the Les Sables-d'Olonne seizure alone accounting for more than half the
 regional volume. [@1] Region-wide officers also intercepted 2.419 kg of drugs
 (cannabis, cocaine, ketamine), 670 counterfeit items and 11,930 euros in cash,
 and a request was made to administratively close one shop. [@1]
-
