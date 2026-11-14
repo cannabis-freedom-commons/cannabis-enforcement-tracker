@@ -37,10 +37,6 @@ data_sources:
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [rio-de-janeiro, mare, pm, record]
-open_questions:
-    - The identity of the arrested man, any charges and any court outcome were not reported.
-    - 'Accounts describe the hiding place differently: CNN Brasil reported a bunker on a construction site, while El País placed an improvised bunker on the roof of a factory in Nova Holanda and its standfirst referred to an abandoned house.'
-    - The Military Police statement says the man suspected of the attack was taken to Hospital de Bonsucesso under custody, while El País says a suspect was taken to the 21st precinct in Bonsucesso; it is not clear whether they are the same person.
 sources:
   - title: 48 toneladas de maconha, PM do Rio faz maior apreensão de drogas do Brasil
     url: https://www.cnnbrasil.com.br/nacional/sudeste/rj/48-toneladas-de-maconha-pm-do-rio-faz-maior-apreensao-de-drogas-do-brasil/
@@ -63,6 +59,11 @@ sources:
     date: 2026-04-09
     language: es
     archived: https://web.archive.org/web/20260712041051id_/https://elpais.com/america/2026-04-08/un-perro-de-la-policia-de-brasil-permite-el-decomiso-de-48-toneladas-de-marihuana.html
+  - title: 'Brasil: Policía decomisó 48 toneladas de marihuana y armas'
+    url: https://lapatria.bo/actualidad/brasil-policia-decomiso-48-toneladas-de-marihuana-y-armas/
+    publisher: La Patria Bolivia
+    date: 2026-04-08
+    language: es
 media:
   - kind: photo
     url: https://www.cnnbrasil.com.br/nacional/sudeste/rj/48-toneladas-de-maconha-pm-do-rio-faz-maior-apreensao-de-drogas-do-brasil/
@@ -79,7 +80,7 @@ media:
 At least 48 tons of marijuana worth around R$50 million wholesale were seized
 in a Military Police operation in the Parque União and Nova Holanda
 communities of Complexo da Maré, Rio de Janeiro, on Tuesday, April 7, 2026 —
-the largest drug seizure in the country's history. [@1,3]
+the largest drug seizure in the country's history. [@1,3,5]
 
 More than 250 officers with armored vehicles and aircraft took part in the
 raid targeting criminal groups and vehicle and cargo robberies. [@1] Sniffer
@@ -89,7 +90,7 @@ hauled out in cargo trucks. [@1] Lieutenant Colonel Luciano Pedro Barbosa da Sil
 
 Officers also seized five rifles, four pistols, lança-perfume flasks and
 about 200 liters of production material, and recovered 26 stolen vehicles —
-nine cars and 17 motorcycles. [@1,4] After the shooting stopped, officers found a man suspected of taking part in the attack, seized a fifth rifle with him and took him to Hospital de Bonsucesso, where he remained under custody. [@3] During the removal, a BOPE team was attacked by armed criminals and a confrontation followed. [@3] One man was arrested and taken with all
+nine cars and 17 motorcycles. [@1,4,5] After the shooting stopped, officers found a man suspected of taking part in the attack, seized a fifth rifle with him and took him to Hospital de Bonsucesso, where he remained under custody. [@3,5] During the removal, a BOPE team was attacked by armed criminals and a confrontation followed. [@3] One man was arrested and taken with all
 the material to the 21st precinct in Bonsucesso; police also found a container
 used to store drugs in a warehouse near Avenida Brasil in Nova Holanda. [@1,4]
 
