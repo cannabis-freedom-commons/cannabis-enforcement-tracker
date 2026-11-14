@@ -53,6 +53,11 @@ sources:
     publisher: Aragón Play
     date: 2026-11-13
     language: es
+  - title: Saquean una nave de Zaragoza precintada por la Guardia Civil tras hallar un cultivo de marihuana
+    url: https://www.heraldo.es/noticias/sociedad/2026/11/13/saquean-una-nave-zaragoza-precintada-por-guardia-civil-tras-hallar-un-cultivo-marihuana-2068280.html
+    publisher: heraldo.es
+    date: 2026-11-13
+    language: es
 open_questions:
     - The article gives no date for the seven detentions; the reported thefts ran from 16 to 20 September 2026 and 13 November 2026 is the publication date.
     - The Guardia Civil valued the stolen equipment only at thousands of euros, with no exact amount published.
@@ -64,9 +69,9 @@ open_questions:
 
 The Guardia Civil in Zaragoza detained seven people and is investigating five
 more over the looting of an industrial warehouse where a marijuana plantation
-had been dismantled and the premises sealed by court order. [@1,2] The twelve
+had been dismantled and the premises sealed by court order. [@1,2,3] The twelve
 people identified are ten men and two women aged between 24 and 48, eleven of
-them Spanish and one Romanian. [@1] All twelve are accused of robbery with force
+them Spanish and one Romanian. [@1,3] All twelve are accused of robbery with force
 against property and of breaking a court-ordered closure or seal for entering
 premises that had passed under judicial control after the police operation. [@1,2]
 
@@ -76,10 +81,10 @@ inside in early September 2026, with part of its technical equipment still in
 place. [@1] Officers on surveillance duties found the judicial seals and the
 access doors forced in mid-September, and their investigation established that
 between 16 and 20 September different groups entered the property repeatedly to
-carry the material away. [@1]
+carry the material away. [@1,3]
 
 The suspects used about ten vehicles, among them cars, utility vehicles and
-rented vans, to remove the equipment gradually. [@1,2] The stolen material
+rented vans, to remove the equipment gradually. [@1,2,3] The stolen material
 included high-power LED lamps, air extractors, turbines, main electrical panels,
 transformers and suspension cabling. [@1] The Guardia Civil valued the stolen
 items at thousands of euros but published no exact figure. [@1]
