@@ -45,6 +45,11 @@ media:
     media_url: https://www.livehindustan.com/lh-img/smart/img/2025/08/27/1200x900/noida_1756329061545_1756329067036.png
     publisher: Hindustan Live
     caption: 'Image on the Live Hindustan page of the 20 kg ganja seizure at the Dhoom Manikpur warehouse. Photo: Live Hindustan'
+  - kind: video
+    url: https://www.amarujala.com/video/delhi-ncr/noida/video-20-kg-of-cannabis-seized-from-a-logistics-warehouse-in-greater-noida-2026-11-13
+    media_url: https://www.youtube.com/embed/1XrPQxH
+    publisher: Amar Ujala
+    caption: 'Amar Ujala''s video report on the 20 kg ganja seizure at the logistics warehouse in Dhoom Manikpur, Greater Noida. Video: Amar Ujala'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 203529df80cde1e799afd594a30071c2
@@ -83,6 +88,11 @@ sources:
     url: https://timesofindia.indiatimes.com/city/noida/books-on-top-20kg-ganja-below-rs-10l-drugs-seized-in-greater-noida-warehouse/articleshow/135815272.cms
     publisher: The Times of India
     date: 2026-11-14
+  - title: कोरियर से दिल्ली भेजा 20 किलो गांजा
+    url: https://www.amarujala.com/video/delhi-ncr/noida/video-20-kg-of-cannabis-seized-from-a-logistics-warehouse-in-greater-noida-2026-11-13
+    publisher: Amar Ujala
+    date: 2026-11-13
+    language: hi
 open_questions:
     - No arrests, charges or court outcome are yet reported for this seizure.
     - The Times of India account dates the arrival and interception of the packages to Thursday and the police discovery to Friday, so the seizure may have begun on 12 November 2026.
@@ -93,16 +103,16 @@ Swastik Logistics warehouse near Dhoom Manikpur village in the Badalpur area of
 Greater Noida. [@1,2,4,6] The warehouse, identified as that of Swastik Logistics
 Company near Dhoom Manikpur village, stores parcels sent through a local
 delivery company. [@1,6] The two packets had been booked in Odisha for delivery in
-Delhi and bore a Delhi address. [@1,2,5,6] The packages had arrived at the warehouse on Thursday and were to be sent to Delhi the next day. [@7] Police reached the warehouse after the
+Delhi and bore a Delhi address. [@1,2,5,6,8] The packages had arrived at the warehouse on Thursday and were to be sent to Delhi the next day. [@7] Police reached the warehouse after the
 packets aroused suspicion, had both packets examined, and confirmed they
 contained ganja. [@1,6] The ganja was concealed between layers of books inside the two packages and was detected during an X-ray scan. [@3,7]
 
-Together the two packets yielded about 20 kg of ganja. [@1,5,6] Police put the
-estimated market value of the seized ganja at about 10 lakh rupees. [@1,2,4,5,6,7] Police
-took the ganja into custody and began investigating the case. [@1,5] Police said a case is being registered against both the sender and the recipient of the consignment. [@3,7]
+Together the two packets yielded about 20 kg of ganja. [@1,5,6,8] Police put the
+estimated market value of the seized ganja at about 10 lakh rupees. [@1,2,4,5,6,7,8] Police
+took the ganja into custody and began investigating the case. [@1,5,8] Police said a case is being registered against both the sender and the recipient of the consignment. [@3,7]
 
 Investigators are trying to identify who booked the consignment, who sent it,
-and who was to receive it in Delhi. [@1,5,6] Wasim was posted as manager at the
+and who was to receive it in Delhi. [@1,5,6,8] Wasim was posted as manager at the
 warehouse, and police are gathering information from him about the case. [@1,6] Police were also reviewing CCTV footage from the warehouse. [@4]
 Police are examining the logistics company's records and consignment details to
 trace the smuggling network, and further action was under way. [@1,6] Police are also investigating whether the shipment was an isolated attempt to transport narcotics or part of a wider drug distribution network operating between Odisha and Delhi-NCR. [@7]
