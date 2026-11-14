@@ -48,28 +48,27 @@ sources:
     publisher: krosno112.pl
     date: 2026-11-13
     language: pl
-open_questions:
-  - Confirmatory blood-analysis results were not reported; the marijuana finding rests on a roadside tester.
-  - No cannabis was reported seized and no weight was published, so no kilograms are recorded.
-  - The 500 zł fine and the seized registration document concerned the faulty lighting, not cannabis.
-  - No court outcome has been reported yet; the District Court in Jasło still has to decide the case.
+  - title: Zaczęło się od niesprawnego światła. 19-latek był pod wpływem narkotyków
+    url: https://esanok.pl/2026/11/zaczelo-sie-od-niesprawnego-swiatla-19-latek-byl-pod-wplywem-narkotykow-00e8mn.html
+    publisher: eSanok.pl
+    date: 2026-11-13
+    language: pl
 ---
 
 Jasło traffic police stopped a Toyota for a roadside check in Czeluśnica after
-11 p.m. because one of its dipped headlights was faulty. [@1] The nervous
+11 p.m. because one of its dipped headlights was faulty. [@1,4] The nervous
 behaviour of the 19-year-old behind the wheel prompted officers to check whether
 he was under the influence of drugs. [@2] A drug tester showed the 19-year-old
 resident of Tarnowiec commune was under the influence of marijuana, so blood was
 taken for analysis, his driving licence was seized and the Toyota was taken to a
-police parking lot. [@1]
+police parking lot. [@1,4]
 
 The stop took place on Saturday 7 November 2026, while the Jasło traffic unit
 was running its “Your lights – our safety” campaign on correct vehicle lighting.
 [@2] Officers also found a broken rear lamp, seized the car's registration
-document and fined the young driver 500 zł for the lighting faults. [@1]
+document and fined the young driver 500 zł for the lighting faults. [@1,4]
 
 Driving under the influence of an intoxicant is a crime punishable by up to
 three years in prison, with a driving ban imposed as well. [@3] The District
 Court in Jasło is to decide on the 19-year-old's responsibility and punishment.
 [@3]
-
