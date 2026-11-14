@@ -67,29 +67,30 @@ sources:
     publisher: El Litoral
     date: 2026-11-06
     language: es
-open_questions:
-  - The 143 million peso value is the force's own commercial estimate, not a market price confirmed independently.
-  - No weight beyond the total of more than 37 kilograms, and no count of packages inside the four bundles, was published.
-  - The two boat occupants were not identified and no arrest, charge or court step was reported.
+  - title: 'CORRIENTES: Prefectura Secuestró Más De 37 Kilos De Marihuana Valuados En $143 Millones – Noticias del paraná'
+    url: https://www.noticiasdelparana.com.ar/NuevaEdicion/2026/11/07/corrientes-prefectura-secuestro-mas-de-37-kilos-de-marihuana-valuados-en-143-millones/
+    publisher: Noticias del parana
+    date: 2026-11-07
+    language: es
 ---
 
 Prefectura Naval Argentina officers seized more than 37 kilograms of marijuana
-buds on the river bank at Itá Ibaté, in Corrientes province, Argentina. [@1,3] The
+buds on the river bank at Itá Ibaté, in Corrientes province, Argentina. [@1,3,4] The
 force valued the load at more than 143 million pesos, and said it had been
-brought in from Paraguay across the Paraná river. [@1,3]
+brought in from Paraguay across the Paraná river. [@1,3,4]
 
 The operation followed an inquiry by the force's Delegación de Inteligencia
 Criminal e Investigaciones, which established that drugs would be brought in on
 the stretch of the Paraná between kilometres 1370 and 1380. [@1] Patrols spotted
 a motor boat with two people aboard that crossed from the Paraguayan bank and
 reached Puerto Chinita at kilometre 1370. [@1] The two left four bundles among
-the vegetation and escaped back towards Paraguay; nobody was detained. [@1]
+the vegetation and escaped back towards Paraguay; nobody was detained. [@1,4]
 
 A search of the riverside turned up the four packages wrapped in black nylon
 hidden in the undergrowth, and field tests confirmed they held marijuana buds
 ready for distribution. [@1] The case file, the official weighing of the drug
 and the preservation of evidence were left with the Unidad Fiscal Federal de
-Corrientes, the federal prosecution unit in the province. [@1]
+Corrientes, the federal prosecution unit in the province. [@1,4]
 
 The security ministry's own account says the boat's occupants threw the bundles
 overboard and returned quickly to Paraguay, and that the case is handled by the
