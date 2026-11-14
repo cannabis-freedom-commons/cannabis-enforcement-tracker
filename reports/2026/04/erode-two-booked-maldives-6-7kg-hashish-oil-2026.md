@@ -58,13 +58,10 @@ sources:
     url: https://raajje.mv/178422
     publisher: Raajje.mv
     date: 2026-03-06
-open_questions:
-  - No separate date is given for the Erode case registration beyond Saturday 25 April 2026, the publication date, which is used as the incident date; the arrest in the Maldives happened on 3 March 2026.
-  - The Hindu says the youths were remanded to prison in the Maldives, while Raajje.mv says a court remanded them for six days, a remand period rather than a sentence.
-  - Raajje.mv gives the initial airport measurement as about 6.7 kilograms of a substance suspected to be hashish oil before forensic confirmation.
-  - The Hindu does not name the two youths or the two accused, and the accused have not been reported as arrested or produced in court.
-  - No outcome of the Maldives case, and no charges filed there, were reported in these accounts.
-  - The case appears to rest on the complainant's account as recorded by police, with no response from the two accused reported.
+  - title: Advisory on increase of Indians smuggling drugs into Maldives
+    url: https://edition.mv/news/50353
+    publisher: The Edition
+    date: 2026-04-24
 ---
 
 The Erode North police on 25 April 2026 registered a case against two persons
@@ -73,7 +70,7 @@ carrying 6.7 kg of hashish oil. [@1] The arrested youths, aged 19 and 21, were
 identified as Dhanushkandan Gopal and Kathirvil Manimaran, both Indian
 nationals. [@2] Maldives Customs officers found the hashish oil in bottles in
 their luggage at Velana International Airport, and forensic tests confirmed it.
-[@2] A Maldives court remanded the two youths in custody for six days after they
+[@2,3] A Maldives court remanded the two youths in custody for six days after they
 appeared in court. [@2]
 
 According to the police, a 38-year-old woman from Manickampalayam complained
@@ -91,4 +88,3 @@ check at the airport on 3 March and arrested and remanded them to prison there.
 Police registered the case against the two accused under several sections of the
 Narcotic Drugs and Psychotropic Substances Act, 1985, including section
 20(b)(ii)(C) on cannabis, and said further investigation was under way. [@1]
-
