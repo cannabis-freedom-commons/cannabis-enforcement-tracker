@@ -50,6 +50,11 @@ media:
     media_url: https://api.kataeb.org/storage/new-website/leb-army/Bouday%20Marijwana/PNL13112026152853_04.jpg
     publisher: Kataeb.org
     caption: 'Lebanese army photo from the Boudai marijuana seizure published with the Kataeb article. Photo: Kataeb.org.'
+  - kind: photo
+    url: https://www.elnashra.com/news/show/1809075/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%AA%D9%84%D9%81-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-215-%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%81-%D9%88%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D9%8A%D8%AC%D9%88%D8%A7%D9%86%D8%A7-%D8%A5%D8%B6%D8%A7%D9%81%D8%A9
+    media_url: https://elnashrastorageaccount.blob.core.windows.net/elnashra/elnashra/images/large/8950963_1794578905.jpg
+    publisher: Elnashra News
+    caption: 'The military destroyed approximately 215 tons of hashish and marijuana in addition to agricultural tents and planted land in Hermel and Baalbek. Photo: Elnashra News.'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 08d73bb130b4c56e86d3600fb107ae88
@@ -80,6 +85,11 @@ sources:
     publisher: Lebanon ON
     date: 2026-11-13
     language: ar
+  - title: الجيش أتلف حوالي 215 طن من حشيشة الكيف والماريجوانا إضافة إلى خيم زراعية وأراضٍ مزروعة منها في الهرمل وبعلبك
+    url: https://www.elnashra.com/news/show/1809075/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%AA%D9%84%D9%81-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-215-%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%81-%D9%88%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D9%8A%D8%AC%D9%88%D8%A7%D9%86%D8%A7-%D8%A5%D8%B6%D8%A7%D9%81%D8%A9
+    publisher: Elnashra News
+    date: 2026-11-13
+    language: ar
 open_questions:
   - No separate dates for the three-day operation were given; 13 November 2026 is the publication date.
   - No plant count, field area or value for the destroyed cannabis and greenhouses was published.
@@ -94,9 +104,9 @@ follow-up to combat narcotics and pursue people undermining security. [@1,3]
 
 One army unit destroyed 200 tonnes of cannabis resin and marijuana, along with
 agricultural greenhouses and planted land, in the Marjehin plain area of Hermel
-over three days. [@1,3,5] Another unit raided several farms in the Boudai area of
+over three days. [@1,3,5,6] Another unit raided several farms in the Boudai area of
 Baalbek, destroying 15 tonnes of cannabis and a greenhouse planted with
-marijuana. [@1,3,5] In Boudai the unit seized machines used to manufacture the
+marijuana. [@1,3,5,6] In Boudai the unit seized machines used to manufacture the
 drugs. [@1,3]
 
 Annahar corroborated the same account, reporting 200 tonnes destroyed with
