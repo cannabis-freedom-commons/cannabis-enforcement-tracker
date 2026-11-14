@@ -146,19 +146,13 @@ sources:
     publisher: Aaj Tak
     date: 2026-11-09
     language: hi
-open_questions:
-  - >-
-    Police reported about one kilogram per packet. The 426-kilogram figure is their total for the 426
-    packets.
-  - >-
-    The value estimates differ. ETV Bharat reported about one crore rupees, and PTI put the figure at
-    2.13 crore rupees.
-  - >-
-    Police were investigating the ownership of the truck and the origin and destination of the cannabis.
-    No arrests or court outcome were reported.
+  - title: 'Major Drug Bust In Jharkhand: 441 Kg Ganja Seized, Four Arrested'
+    url: https://m.rediff.com/amp/news/report/441-kg-ganja-seized-in-jharkhand-four-arrested/20261109.htm
+    publisher: Rediff.com
+    date: 2026-11-09
 ---
 
-Garhwa police recovered 426 kilograms of ganja on 8 November 2026 from a container truck parked near the Kalyanpur overbridge in Jharkhand. [@1,2,3,4,5,7,8,9,10,11] Superintendent of Police Ashutosh Shekhar received a tip and sent a team led by sub-divisional police officer Dillu Lohra and station house officer Sunil Kumar Tiwari. [@1,3,8] Officers found the truck empty and did not locate the driver. [@1,2,6,10]
+Garhwa police recovered 426 kilograms of ganja on 8 November 2026 from a container truck parked near the Kalyanpur overbridge in Jharkhand. [@1,2,3,4,5,7,8,9,10,11,12] Superintendent of Police Ashutosh Shekhar received a tip and sent a team led by sub-divisional police officer Dillu Lohra and station house officer Sunil Kumar Tiwari. [@1,3,8] Officers found the truck empty and did not locate the driver. [@1,2,6,10,12]
 
 Police said the truck, registered in Uttar Pradesh under number UP21BN7171, had a concealed compartment behind the cab. [@1,3,6,7] Officers took it to the police station and cut the compartment open. [@1,3,5] Inside were 426 packets wrapped in plastic and weighing about one kilogram each. [@1,3,5,7,9,11] ETV Bharat put the value at about one crore rupees, while the police estimate carried by PTI was about 2.13 crore rupees. [@4,6,7,10]
 

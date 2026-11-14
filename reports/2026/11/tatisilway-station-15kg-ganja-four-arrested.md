@@ -116,19 +116,14 @@ sources:
     publisher: Aaj Tak
     date: 2026-11-09
     language: hi
-open_questions:
-  - Three of those arrested were named only as Jitendra, Sunny and Verma. Their ages were not reported.
-  - >-
-    Reports place the train search on the night of 7–8 November. The railway police registered the case
-    on 8 November.
-  - >-
-    The accounts do not specify how the weight was divided among the three bags or name the agency
-    responsible for further laboratory testing.
-  - No court outcome beyond registration of the case and the ongoing investigation was reported.
+  - title: 'Major Drug Bust In Jharkhand: 441 Kg Ganja Seized, Four Arrested'
+    url: https://m.rediff.com/amp/news/report/441-kg-ganja-seized-in-jharkhand-four-arrested/20261109.htm
+    publisher: Rediff.com
+    date: 2026-11-09
 ---
 
-The Railway Protection Force arrested four men and seized 15 kilograms of ganja from the Hatia–Islampur Express at Tatisilway station in Jharkhand on the night of 7–8 November 2026. [@1,2,3,5,6,7,8,9] The Ranchi division’s flying team and RPF post were checking trains under Operation NARCOS when they searched three bags in the rear general coach. [@1,3,5] A field kit indicated the bags contained ganja, and officers also seized four mobile phones. [@1,3] Police valued the cannabis at about 7.5 lakh rupees. [@1,3,5,7]
+The Railway Protection Force arrested four men and seized 15 kilograms of ganja from the Hatia–Islampur Express at Tatisilway station in Jharkhand on the night of 7–8 November 2026. [@1,2,3,5,6,7,8,9,10] The Ranchi division’s flying team and RPF post were checking trains under Operation NARCOS when they searched three bags in the rear general coach. [@1,3,5] A field kit indicated the bags contained ganja, and officers also seized four mobile phones. [@1,3] Police valued the cannabis at about 7.5 lakh rupees. [@1,3,5,7]
 
-Three men identified as Jitendra, Sunny and Verma came from Kushinagar in Uttar Pradesh. [@1,2,3,5] The fourth, Vishal Yadav, came from West Champaran in Bihar. [@1,2,3,5] The men told investigators that Yadav had ordered the ganja from Balangir in Odisha and planned to have it carried via Patna to Champaran. [@1,3,5,6] Vocal TV reported that the carriers were to be paid. [@4]
+Three men identified as Jitendra, Sunny and Verma came from Kushinagar in Uttar Pradesh. [@1,2,3,5] The fourth, Vishal Yadav, came from West Champaran in Bihar. [@1,2,3,5] The men told investigators that Yadav had ordered the ganja from Balangir in Odisha and planned to have it carried via Patna to Champaran. [@1,3,5,6,10] Vocal TV reported that the carriers were to be paid. [@4]
 
-The RPF handed the men, the seized items and the paperwork to the Government Railway Police in Ranchi. [@1,3,5,7] Ranchi railway police registered case 48/26 on 8 November under the Narcotic Drugs and Psychotropic Substances Act. [@1] PTI’s report also covered a [separate 426 kg seizure in Garhwa](/report/garhwa-kalyanpur-container-426kg-ganja/). [@2,7,8]
+The RPF handed the men, the seized items and the paperwork to the Government Railway Police in Ranchi. [@1,3,5,7,10] Ranchi railway police registered case 48/26 on 8 November under the Narcotic Drugs and Psychotropic Substances Act. [@1] PTI’s report also covered a [separate 426 kg seizure in Garhwa](/report/garhwa-kalyanpur-container-426kg-ganja/). [@2,7,8]
