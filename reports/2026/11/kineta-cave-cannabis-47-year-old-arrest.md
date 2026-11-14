@@ -84,6 +84,11 @@ sources:
     publisher: Alphafreepress.gr
     date: 2026-11-14
     language: el
+  - title: Συνελήφθη 47χρονος αλλοδαπός που έκρυβε 12,6 κιλά κάνναβης σε σπήλαιο στην Κινέτα (Βίντεο)
+    url: https://www.makeleio.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CF%84%CE%B7%CF%84%CE%B1/synelifthi-47chronos-allodapos-pou-ekryve-126-kila-kannavis-se-spilaio-stin-kineta-vinteo/
+    publisher: Makeleio.gr
+    date: 2026-11-13
+    language: el
 media:
   - kind: photo
     url: https://www.neakriti.gr/koinonia/2211153_kineta-ekrybe-126-kila-kannabis-se-spilaio-synelifthi-47hronos
@@ -119,14 +124,14 @@ media:
 
 Narcotics officers arrested a 47-year-old foreign man for cannabis possession
 and trafficking. [@1,6,8,10,11,12] Officers found the man inside a cave in Kineta, where he
-had hidden drug quantities for further distribution. [@1,3,4,5,7,8,11,12] Police said the stash was kept in a disused sheepfold inside the cave above Kineta. [@8] Police said he stored
+had hidden drug quantities for further distribution. [@1,3,4,5,7,8,11,12,13] Police said the stash was kept in a disused sheepfold inside the cave above Kineta. [@8] Police said he stored
 and distributed raw cannabis to various people, mainly around Agioi Theodoroi in
 Corinthia and in Attica. [@1,3,5,6,7,9,12] The arrest took place on the afternoon of
 Wednesday 11 November 2026 during an organized operation by the Narcotics
 Prosecution Subdirectorate in the Attica area. [@1,3] Police said the arrest followed a tip-off about drug-trafficking in the area. [@8]
 
 At the site officers found a total of 12.6 kilograms of raw cannabis and
-cannabis clones, along with signal-jamming and surveillance devices. [@1,9,10,12] The
+cannabis clones, along with signal-jamming and surveillance devices. [@1,9,10,12,13] The
 total comprised 6.6 kilograms of raw cannabis and six kilograms of cannabis
 clones. [@2,4,5,6,7,11] Police seized a car. [@1,4,5] Police also seized a mobile phone. [@3] They also found two electric air
 extractors, packaging for extracting cannabis oil, a metal tray and an electric
@@ -134,4 +139,4 @@ blender. [@2,11]
 
 According to police, the man had previously been accused of similar offences.
 [@2,6,12] A case file for possession and trafficking of narcotics was opened against
-him and he was referred to the competent prosecutor. [@2,5]
+him and he was referred to the competent prosecutor. [@2,5] Police inquiries were continuing to investigate the case and to locate possible accomplices or others who may have been involved in trafficking the drugs. [@13]
