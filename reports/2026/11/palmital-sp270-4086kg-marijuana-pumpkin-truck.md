@@ -97,24 +97,29 @@ sources:
     publisher: g1 Bauru e Marília
     date: 2026-11-12
     language: pt
+  - title: Polícia apreende mais de 4 toneladas de maconha escondidas em carga de abóboras em Palmital
+    url: https://www.tvparaguacu.com.br/noticia/22956/policia-apreende-mais-de-4-toneladas-de-maconha-escondidas-em-carga-de-aboboras-em-palmital
+    publisher: TV Paraguaçu
+    date: 2026-11-12
+    language: pt
 ---
 
 Military highway police arrested the driver of a truck at Palmital, in the São
 Paulo interior, in the early hours of Wednesday 11 November 2026. [@1] Officers
 of the Tático Ostensivo Rodoviário (TOR), the patrol unit of the 2nd Highway
 Police Battalion, stopped a VW/19.320 truck at about 1 a.m. on the Raposo
-Tavares highway (SP-270) during Operação Impacto. [@2] Hidden among a load of
-pumpkins they found 172 bales of marijuana. [@1,7] After weighing, the drug
-totalled 4,086.680 kilograms, more than four tonnes. [@1,7] The driver, a
+Tavares highway (SP-270) during Operação Impacto. [@2,8] Hidden among a load of
+pumpkins they found 172 bales of marijuana. [@1,7,8] After weighing, the drug
+totalled 4,086.680 kilograms, more than four tonnes. [@1,7,8] The driver, a
 31-year-old man, was arrested in flagrante. [@2]
 
 The driver was taken with the truck and the drug to the Central de Polícia
 Judiciária (CPJ) in Assis, where he remained in custody at the disposal of the
-courts. [@1,7] At the CPJ the driver was booked and remained in custody at the
+courts. [@1,7,8] At the CPJ the driver was booked and remained in custody at the
 disposal of the courts. [@4] Police said the truck had left Cascavel, in Paraná,
 and was bound for Rio de Janeiro, the pumpkins serving to hide the drug during
 the journey. [@1,7] The highway police estimated the seizure cost drug trafficking
-R$ 8,173,360. [@1]
+R$ 8,173,360. [@1,8]
 
 The stop was part of Operação Impacto, the highway police's checks on São Paulo
 state roads against drug trafficking and other crimes. [@3] The driver was
