@@ -173,6 +173,11 @@ sources:
     publisher: BurgasMedia
     date: 2026-11-12
     language: ru
+  - title: Водителю грузовика с 497 кг марихуаны на «Кулате» предъявили обвинение
+    url: https://burgasmedia.com/news/obviniha-shofora-na-kamiona-s-497-kg-marihuana-na-kulata?lang=ru
+    publisher: BurgasMedia
+    date: 2026-11-12
+    language: ru
 media:
   - kind: photo
     url: https://nova.bg/news/view/2026/11/12/558968/%D0%B1%D0%BB%D0%B8%D0%B7%D0%BE-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD-%D1%82%D0%BE%D0%BD-%D0%BC%D0%B0%D1%80%D0%B8%D1%85%D1%83%D0%B0%D0%BD%D0%B0-%D0%BE%D1%82%D0%BA%D1%80%D0%B8%D1%85%D0%B0-%D0%B2-%D0%BA%D0%B0%D0%BC%D0%B8%D0%BE%D0%BD-%D1%81-%D0%BA%D0%BE%D0%BB%D0%B1%D0%B0%D1%81%D0%B8-%D0%B8-%D1%87%D1%83%D1%88%D0%BA%D0%B8-%D0%BD%D0%B0-%D0%BA%D1%83%D0%BB%D0%B0%D1%82%D0%B0-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8/
@@ -223,10 +228,10 @@ rather than as a confirmed official measurement. [@1]
 
 Official information from the competent institutions on the circumstances of the
 case and on the value of the seized narcotic quantity was still awaited when the
-report was published. [@1,6,10] One line of inquiry was an international channel moving large quantities of cannabis from Spain through Greece and Bulgaria toward Turkey. [@5] NewsPoint said there was no official confirmation that the seized shipment was part of that scheme. [@5] Customs and the Blagoevgrad prosecutor's office scheduled a briefing on the case for 12 November 2026. [@4,8] The prosecution said it would ask the court to hold him in custody. [@14,20,22,24,27] The briefing was to be given by Customs Agency deputy director Stefan Bakalov and Blagoevgrad district prosecutor's office spokesperson Irina Asparuhova. [@8,23] Customs Agency deputy director Stefan Bakalov and Blagoevgrad district prosecutor Irina Asparuhova announced the find at a briefing on 12 November. [@27] Bakalov said more mobile teams were needed, noting that the department had 220 staff 26 years ago and still had 220. [@23] Customs deputy director Stefan Bakalov said it was the largest amount of marijuana seized at the Kulata crossing since the start of the year. [@16,18,23] Customs said its Drug Trafficking Counteraction Department had seized a total of 4.5 tonnes of drugs and half a tonne of precursors since the start of the year. [@23] Struma said a similar quantity had not been seized at the Kulata crossing in recent years and put the value at several million euros. [@2] The report described the Kulata interception as
+report was published. [@1,6,10] One line of inquiry was an international channel moving large quantities of cannabis from Spain through Greece and Bulgaria toward Turkey. [@5] NewsPoint said there was no official confirmation that the seized shipment was part of that scheme. [@5] Customs and the Blagoevgrad prosecutor's office scheduled a briefing on the case for 12 November 2026. [@4,8] The prosecution said it would ask the court to hold him in custody. [@14,20,22,24,27] The briefing was to be given by Customs Agency deputy director Stefan Bakalov and Blagoevgrad district prosecutor's office spokesperson Irina Asparuhova. [@8,23] Customs Agency deputy director Stefan Bakalov and Blagoevgrad district prosecutor Irina Asparuhova announced the find at a briefing on 12 November. [@27] Bakalov said more mobile teams were needed, noting that the department had 220 staff 26 years ago and still had 220. [@23] Customs deputy director Stefan Bakalov said it was the largest amount of marijuana seized at the Kulata crossing since the start of the year. [@16,18,23] Customs deputy director Stefan Bakalov said such drugs are often smuggled through the Kulata, Vidin and Ruse crossings. [@29] Customs said its Drug Trafficking Counteraction Department had seized a total of 4.5 tonnes of drugs and half a tonne of precursors since the start of the year. [@23] Struma said a similar quantity had not been seized at the Kulata crossing in recent years and put the value at several million euros. [@2] The report described the Kulata interception as
 another serious blow against organised trafficking through this border
 checkpoint. [@1] It added that in recent weeks the Kulata crossing had been at
 the centre of several large-scale investigations linked to the smuggling of
 excise goods. [@1]
 
-The Blagoevgrad district prosecutor's office formally charged the 51-year-old Plovdiv driver. [@26]
+The Blagoevgrad district prosecutor's office formally charged the 51-year-old Plovdiv driver. [@26,29]
