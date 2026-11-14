@@ -57,6 +57,11 @@ sources:
     publisher: Rádio Sintonia FM
     date: 2026-11-13
     language: pt
+  - title: Ação da Polícia Militar resulta na apreensão de mais de 70 quilos de maconha no Alto Vale
+    url: https://radiomirador.com.br/acao-da-policia-militar-resulta-na-apreensao-de-mais-de-70-quilos-de-maconha-no-alto-vale/
+    publisher: Rádio Mirador
+    date: 2026-11-13
+    language: pt
 open_questions:
     - No names or other identifying details of the two arrested men were published.
     - No custody decision, charge filed by a prosecutor or court outcome was reported beyond the pair being presented to the Civil Police station in Rio do Sul.
@@ -68,21 +73,21 @@ open_questions:
 
 Two men were arrested in flagrante for drug trafficking on the morning of
 Thursday 12 November in Rio do Oeste, in the Alto Vale do Itajaí region of Santa
-Catarina. [@1,2] The two men arrested were 24 and 28 years old. [@2] The operation by the Military Police, carried out with the
+Catarina. [@1,2,3] The two men arrested were 24 and 28 years old. [@2] The operation by the Military Police, carried out with the
 collaboration of the Federal Highway Police (PRF), led to the seizure of 71.740
 kilograms of marijuana. [@1]
 
 According to the Military Police, the teams had information that a vehicle was
 making quick round trips toward the border with Paraguay and using interior
-roads to try to evade police checks. [@1] Police said the car was returning from a trip to the state of Paraná. [@2] The Military Police's Intelligence Agency had flagged a blue Chevrolet Celta for frequent trips linked to drug trafficking in the region. [@2] Around 8 am, the suspected vehicle was
+roads to try to evade police checks. [@1,3] Police said the car was returning from a trip to the state of Paraná. [@2] The Military Police's Intelligence Agency had flagged a blue Chevrolet Celta for frequent trips linked to drug trafficking in the region. [@2] Around 8 am, the suspected vehicle was
 spotted entering a dirt road between the municipalities of Taió and Rio do
-Oeste. [@1,2] After the driver tried to flee, the car was intercepted after about
+Oeste. [@1,2,3] After the driver tried to flee, the car was intercepted after about
 one kilometer with the help of a second unit that blocked the way. [@1,2]
 
 Officers found four bundles of marijuana hidden in the trunk, under a car
-speaker; the seized drug totaled 71.740 kilograms. [@1,2] Besides the drug,
+speaker; the seized drug totaled 71.740 kilograms. [@1,2,3] Besides the drug,
 officers seized three cellphones, R$ 193 in cash and the vehicle used to
-transport the drug. [@1,2]
+transport the drug. [@1,2,3]
 
 The two men were arrested in flagrante for drug trafficking and, with the seized
 material, were taken to the Civil Police station in Rio do Sul for legal
