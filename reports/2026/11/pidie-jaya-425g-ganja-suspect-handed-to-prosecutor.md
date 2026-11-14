@@ -37,6 +37,11 @@ media:
     media_url: https://atjehwatch.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-11.20.57-750x375.jpeg
     publisher: Atjeh Watch
     caption: 'Suspect MR bin Umar and the confiscated cannabis, two phones and a box at the Tahap II handover to the prosecutor in Pidie Jaya. Photo: Atjeh Watch'
+  - kind: photo
+    url: https://acehindependent.com/berkas-p-21-tersangka-kasus-ganja-425-gram-diserahkan-ke-jaksa/
+    media_url: https://acehindependent.com/wp-content/uploads/2026/11/IMG-20261113-WA0049-1536x1152.jpg
+    publisher: ACEH INDEPENDENT
+    caption: 'Handover of 425 g of ganja and the suspect to the prosecutor in Pidie Jaya after the case file was declared P.21. Photo: Istimewa / Aceh Independent'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7107b7333f93fd5f09bd157695e79b78
@@ -61,6 +66,11 @@ sources:
     publisher: Qoo Gadget
     date: 2026-11-13
     language: id
+  - title: Berkas P.21, Tersangka Kasus Ganja 425 Gram Diserahkan ke Jaksa
+    url: https://acehindependent.com/berkas-p-21-tersangka-kasus-ganja-425-gram-diserahkan-ke-jaksa/
+    publisher: ACEH INDEPENDENT
+    date: 2026-11-13
+    language: id
 open_questions:
   - No specific charge, statute or sentence was reported; the case is at the handover (Tahap II) stage.
   - No court date or outcome has been reported for this case.
@@ -77,7 +87,7 @@ Marjuli. [@1,3,4]
 
 The suspect, MR bin Umar, 40, a trader from Gampong Jurong Binje in Jangka Buya
 district, was handed over with two packets of ganja weighing 425 grams net, two
-mobile phones (Realme and Nokia) and a white box. [@2,3,4] The handover was carried
+mobile phones (Realme and Nokia) and a white box. [@2,3,4,5] The two mobile phones handed over as evidence were a blue Realme and a black Nokia. [@5] The handover was carried
 out under the P.21 letter of the Pidie Jaya prosecutor's office dated 9 November
 2026, after which handling of the case passes to the public prosecutor for
 prosecution. [@1,3,4] The suspect was accompanied by counsel from the AIYUB, S.H. advocate's office during the handover. [@3]
