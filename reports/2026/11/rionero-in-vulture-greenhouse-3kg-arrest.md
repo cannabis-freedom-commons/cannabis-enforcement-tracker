@@ -74,14 +74,22 @@ sources:
     publisher: Radio Senise Centrale
     date: 2026-11-13
     language: it
+  - title: Serra-laboratorio di marijuana nel suo casolare di campagna, arrestato un uomo di 56 anni a Rionero in Vulture dai Carabinieri
+    url: https://www.sassilive.it/cronaca/giudiziaria/serra-laboratorio-di-marijuana-nel-suo-casolare-di-campagna-arrestato-un-uomo-di-56-anni-a-rionero-in-vulture-dai-carabinieri/
+    publisher: SassiLive
+    date: 2026-11-13
+    language: it
+open_questions:
+  - The 3-kilogram figure is given as approximate (circa 3 chilogrammi), not an exact measured weight.
+  - The small amount of marijuana found in the man's home is not quantified in the SassiLive account.
 ---
 
 Carabinieri arrested a 56-year-old local man in flagrante delicto in Rionero in
 Vulture on suspicion of unlawful production and possession of drugs. [@1,4,5,6,7] The
 Rionero in Vulture Carabinieri station made the arrest in the early afternoon on
-the previous Tuesday as part of provincial anti-drug operations. [@2,4] The
+the previous Tuesday as part of provincial anti-drug operations. [@2,4,8] The
 investigating judge in Potenza validated the arrest and ordered house arrest
-with an electronic bracelet. [@2,4,5,6]
+with an electronic bracelet. [@2,4,5,6,8]
 
 In a countryside farmhouse on farmland owned by the arrested man, officers found
 a clandestine greenhouse used to grow and dry marijuana. [@1,4,5,6,7] Inside they found
