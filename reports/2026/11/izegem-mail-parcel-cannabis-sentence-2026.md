@@ -59,12 +59,25 @@ sources:
     publisher: HLN
     date: 2026-11-10
     language: nl
+  - title: Izegemnaar krijgt 18 maanden voorwaardelijk voor cannabishandeltje via postpakketten
+    url: https://www.nieuwsblad.be/regio/west-vlaanderen/izegemnaar-krijgt-18-maanden-voorwaardelijk-voor-cannabishandeltje-via-postpakketten/164494205.html
+    publisher: Nieuwsblad
+    date: 2026-11-13
+    language: nl
 open_questions:
-  - The report gives no separate date for the sentence; 10 November 2026 is its publication date and is used as the incident date.
-  - Police first expected 3 kilograms but the intercepted parcel held 2.6 kilograms; the report uses the measured 2.6 kilograms.
-  - The report says this was not the first parcel to arrive in Izegem but gives no number or weight for earlier parcels.
-  - The length of the pretrial detention counted as the effective sentence was not reported.
-  - The whole account rests on one HLN report; no second account of the sentence was opened.
+    - The report gives no separate date for the sentence; 10 November 2026 is its publication date and is used as the incident date.
+    - Police first expected 3 kilograms but the intercepted parcel held 2.6 kilograms; the report uses the measured 2.6 kilograms.
+    - The report says this was not the first parcel to arrive in Izegem; Nieuwsblad's 13 November account says the man had taken in at least seven such packages since September 2025.
+    - The length of the pretrial detention counted as the effective sentence was not reported.
+    - Nieuwsblad calls the man 24, while the HLN source already cited says 25; the report keeps the 25-year-old figure.
+    - Nieuwsblad describes the intercepted parcel as three kilograms and the house search as 65 grams of cannabis plus 49 grams of hash, while the HLN source already cited gives a measured 2.6 kilograms and 'more than 100 grams' of cannabis; the report keeps the HLN figures.
+    - The whole account rests on two Belgian reports, HLN and Nieuwsblad; no court document or second independent account of the sentence was opened.
+media:
+  - kind: photo
+    url: https://www.nieuwsblad.be/regio/west-vlaanderen/izegemnaar-krijgt-18-maanden-voorwaardelijk-voor-cannabishandeltje-via-postpakketten/164494205.html
+    media_url: https://prod-img.nieuwsblad.be/public/nieuws/ki45ia-13-rechtbank-cannabis-raynd-lemmens.jpeg/alternates/THREE_TWO_1620/13%20Rechtbank%20cannabis%20%20Raynd%20Lemmens.jpeg
+    publisher: Nieuwsblad
+    caption: 'Nieuwsblad page photo of the Izegem court (Rechtbank) hearing, captioned ''Izegemnaar ontving pakketten met cannabis''. Photo: Raymond Lemmens / Nieuwsblad'
 ---
 
 A 25-year-old man from Izegem was arrested immediately after accepting a postal
@@ -73,18 +86,17 @@ of the report. [@1]
 
 In April, police learned that a postal parcel with 3 kilograms of cannabis from
 Spain was due to arrive in Izegem. [@1] Officers traced and intercepted the
-parcel, which held 2.6 kilograms of cannabis addressed to B.D. [@1] The parcel
+parcel, which held 2.6 kilograms of cannabis addressed to B.D. [@1] Customs intercepted the parcel on 13 April 2026. [@2] The parcel
 had come from Malaga in Spain, and it was not the first such parcel to arrive in
-Izegem. [@1] Police resealed the parcel and had an undercover agent deliver it
+Izegem. [@1] The man had taken in at least seven such packages since September 2025. [@2] Police resealed the parcel and had an undercover agent deliver it
 in Izegem, then arrested the man. [@1] A house search found more than 100 grams
 of cannabis and 9,045 euros in cash, vacuum-packed behind the bedside table.
-[@1] The cash find also brought a money-laundering charge. [@1]
+[@1] The house search found 65 grams of cannabis and 49 grams of cannabis hash. [@2] The cash find also brought a money-laundering charge. [@1] Police also found a suspect phone. [@2]
 
 D. spent a period in detention and is now free under conditions. [@1] He
 admitted that he had let himself be tempted after seeing people his age further
 ahead in life. [@1] The court counted only the pretrial detention period as the
 effective punishment. [@1] The rest of an 18-month prison term was suspended on
 condition that he meets conditions and accepts guidance over the next four
-years. [@1] He must also pay a 2,500-euro fine and forfeit the 9,045 euros in
-cash. [@1]
-
+years. [@1] He is now being guided again for his drug problem. [@2] He must also pay a 2,500-euro fine and forfeit the 9,045 euros in
+cash. [@1] The fine was 12,500 euros, of which only 2,500 euros is effective. [@2]
