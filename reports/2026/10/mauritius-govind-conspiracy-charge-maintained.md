@@ -53,6 +53,11 @@ sources:
     publisher: L'Express (Maurice)
     date: 2026-10-06
     language: fr
+  - title: 'AXE LA-RÉUNION/MAURICE — Saisie de 155,7 kg de cannabis : L’ADSU accentue la pression sur Gulshan Govind en détention'
+    url: https://www.lemauricien.com/le-mauricien/axe-la-reunion-maurice-saisie-de-1557-kg-de-cannabis-ladsu-accentue-la-pression-sur-gulshan-govind-en-detention/715927/
+    publisher: Le Mauricien
+    date: 2026-08-25
+    language: fr
 open_questions:
   - The court's reasoning on the CCTV evidence is reported by the press and attributed to the police; the full ruling was not opened.
   - The exact weight of the shipment is given as 155.7 kg, about 156 kg and 155 kilos across Mauritian reports.
@@ -61,24 +66,25 @@ open_questions:
   - The outcome of the 21 October hearing was not reported in the sources opened.
   - The Converting Rs 234 million value is the prosecution's estimate for the shipment, not a court finding.
   - The quoted reports differ on spelling of the magistrate's first name, given as Irfaan and Irfan Mittoo.
+  - The article gives 24 August as the bail hearing date only by reporting that Govind appeared 'hier' relative to its 25 August publication date.
 ---
 
 A Mauritian district magistrate refused on 6 October 2026 to strike out the
 provisional conspiracy charge against Gulshan Govind. [@1] Ruling in the case
 brought the suspected import by sea of about 156 kg of cannabis from Réunion to
-Mauritius, valued by the prosecution at Rs 234 million. [@1] Magistrate Irfaan
+Mauritius, valued by the prosecution at Rs 234 million. [@1,4] Magistrate Irfaan
 Mittoo sat in the district court of Rivière-Noire on the motion filed by defence
-lawyer Rouben Mooroongapillay. [@2] Govind, arrested on 31 July, faces a
+lawyer Rouben Mooroongapillay. [@2] The Rivière-Noire court was to hear Mooroongapillay’s motion to strike out the conspiracy charge the next day. [@4] Govind, arrested on 31 July, faces a
 provisional charge of conspiracy to import cannabis into Mauritius with an
-averment of trafficking. [@1]
+averment of trafficking. [@1,4] His 21 days in police detention having expired, he was to pass from police detention to prison remand. [@4] Govind was remanded until 31 August, when his lawyer Rouben Mooroongapillay was to argue for his release. [@4]
 
 Le Mauricien reported that Mittoo accepted the prosecution’s argument that the
 evidence gathered so far establishes a reasonable suspicion of Govind’s
-involvement. [@2] The court based its finding on CCTV images that police say
+involvement. [@2] The prosecution cited a flight risk because he lived near the coast and a prior drug conviction from 2008. [@4] The court based its finding on CCTV images that police say
 show Govind driving a man near the Paradis Hotel on 25 July. [@1] Police also
 said the car used, which belongs to his wife, held traces of plant material and
 a seed suspected to be cannabis. [@3] Cannabis plants and a liquid suspected to
-be methadone were seized at Govind’s home. [@3]
+be methadone were seized at Govind’s home. [@3] On 24 August the court held a bail hearing on the provisional cannabis-cultivation and methadone-possession charges, which Principal State Counsel Dzedhaan Bhatoo opposed. [@4]
 
 Missed by the defence: it argued over the chronology, the scope of the police
 evidence and inconsistencies, saying the car had been returned and Govind handed
@@ -91,4 +97,3 @@ made a Mutual Legal Assistance request to Réunion. [@3] Govind, released on bai
 in the separate case over the plants and methadone found at his home, stays in
 custody on the conspiracy charge. [@1] His next court appearance was set for 21
 October. [@1]
-
