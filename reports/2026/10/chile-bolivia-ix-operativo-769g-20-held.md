@@ -56,6 +56,11 @@ sources:
     publisher: ADN Radio
     date: 2026-10-10
     language: es
+  - title: Operativo binacional Chile-Bolivia deja 20 detenidos, 23 vehículos robados recuperados y decomiso de marihuana
+    url: https://icndiario.com/2026/10/operativo-binacional-chile-bolivia-deja-20-detenidos-23-vehiculos-robados-recuperados-y-decomiso-de-marihuana/
+    publisher: ICNDiario
+    date: 2026-10-11
+    language: es
 open_questions:
   - The accounts do not say where along the northern macrozone the 769 grams of marijuana were found, nor at which checkpoints.
   - No breakdown is given of what the five drugs-law detainees carried, nor their offences, ages or nationalities.
@@ -67,7 +72,7 @@ open_questions:
 
 Carabineros' Servicio de Encargo y Búsqueda de Personas y Vehículos (SEBV), the
 unit that traces stolen vehicles and wanted people, detained 20 people during
-the ninth Chile–Bolivia binational operation in Chile's northern macrozone. [@1]
+the ninth Chile–Bolivia binational operation in Chile's northern macrozone. [@1,4]
 The deployment ran from 5 to 9 October 2026, when the regional sections
 announced its results. [@2] Of the 20 detained, 15 were adults and five were
 minors, and nine were foreigners of different nationalities. [@1] Eleven of the
@@ -76,13 +81,12 @@ Chile's drugs law (Ley de Drogas), and four on outstanding arrest warrants. [@1]
 ADN Radio reported that the 15 adults among the detainees were men. [@3]
 
 Officers recovered 23 stolen vehicles: nine station wagons, six pickup trucks,
-five cars, two motorcycles and one of another category. [@1] They seized 769
+five cars, two motorcycles and one of another category. [@1,4] They seized 769
 grams of marijuana, found during the five days of checks in the northern
-macrozone. [@3] The deployment included 909 preventive checks, 479 identity
+macrozone. [@3,4] The deployment included 909 preventive checks, 479 identity
 checks and 430 vehicle checks. [@1]
 
 Public Security Minister Martín Arrau congratulated Carabineros de Chile and
 Bolivia's Policía Nacional Boliviana on the operation. [@1] Arrau called it
 state action to protect Chile's borders and make the country's neighbourhoods
 safer. [@1]
-
