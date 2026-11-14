@@ -70,29 +70,28 @@ sources:
     publisher: Latina Oggi
     date: 2026-11-13
     language: it
-open_questions:
-  - No separate calendar date for the roadside check and home searches was published, so 13 November 2026, the publication date, is used as the incident date.
-  - The two suspects were described only as two young Italians with prior drug records; no names or ages were published.
-  - The 92 grams of cocaine seized in the same operation are outside the cannabis scope and are not counted in the cannabis seizure figure.
-  - No court outcome beyond validation of the arrest and house arrest was reported.
-  - The Wayback Machine refused a save of one LatinaToday cronaca page (HTTP 520), so that source has no archived copy yet.
+  - title: 'Droga tra Minturno e Formia, un arresto e una denuncia: sequestrati cocaina, hashish e 3.500 euro'
+    url: https://laprovincialatina.it/2026/11/13/droga-tra-minturno-e-formia-un-arresto-e-una-denuncia-sequestrati-cocaina-hashish-e-3-500-euro/
+    publisher: La Provincia Latina
+    date: 2026-11-13
+    language: it
 ---
 
 The Guardia di Finanza ran an anti-drug operation in the southern Pontino area,
 between the territories of Formia and Minturno. [@1] Officers of the Formia
 group stopped a car on the Via Appia in Scauri carrying two young Italians
-already known to police for specific prior offences. [@2] On the order of the
+already known to police for specific prior offences. [@2,4] On the order of the
 Cassino prosecutor, the youth found with the larger quantity of drugs and the
 money was arrested in flagrante for possession for dealing and taken to Cassino
-prison. [@2] The preliminary investigations judge in Cassino later validated the
-arrest and ordered house arrest for the arrested youth. [@2] The second young
+prison. [@2,4] The preliminary investigations judge in Cassino later validated the
+arrest and ordered house arrest for the arrested youth. [@2,4] The second young
 Italian was reported at liberty for the lesser dealing allegation under article
 73, paragraph 5. [@2]
 
 In the roadside check officers found 5.25 grams of hashish, 1.04 grams of
-cocaine and 2,015 euros in cash in the two youths’ possession. [@2] After
+cocaine and 2,015 euros in cash in the two youths’ possession. [@2,4] After
 extending the searches to their homes, officers seized a total of 92 grams of
-cocaine and 146 grams of hashish. [@2] The combined 238 grams were described as
+cocaine and 146 grams of hashish. [@2,4] The combined 238 grams were described as
 split between cocaine and hashish, with about 3,500 euros, three smartphones and
 a precision scale also seized. [@1] Officers put the seized cash at 3,445 euros,
 described as alleged proceeds of the illegal activity. [@2] Part of the drugs
@@ -103,4 +102,3 @@ The arrested youth was accused of possession for dealing under article 73,
 paragraph 1, of Presidential Decree 309/90. [@3] The operation was presented as
 part of Guardia di Finanza territorial control against dealing in Minturno and
 Formia. [@3]
-
