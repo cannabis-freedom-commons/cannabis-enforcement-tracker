@@ -135,7 +135,8 @@ export default {
     "cahul-district-2kg-marijuana-jars-three-suspects": "cahul-three-held-2kg-marijuana-2023",
     "cairo-airport-hash-oil-parcel-foreigner-detained": "cairo-airport-cannabis-oil-parcel",
     "saransk-43-garage-marijuana-200g-court": "saransk-lodygina-garage-200g-cannabis-court",
-    "castellar-valles-mataro-7-arrests-3000-plants": "mataro-3000-plants-seven-arrested"
+    "castellar-valles-mataro-7-arrests-3000-plants": "mataro-3000-plants-seven-arrested",
+    "baja-rosario-120-hectare-plantation-2011": "el-rosario-120-ton-plantation"
   },
   "codes": {
     "KQR40M": "carrickfergus-cannabis-farm-trio-sentenced-2023",
@@ -272,6 +273,7 @@ export default {
     "F8YESE": "cahul-three-held-2kg-marijuana-2023",
     "VHVVSM": "cairo-airport-cannabis-oil-parcel",
     "2XWGGB": "saransk-lodygina-garage-200g-cannabis-court",
-    "FGN43P": "mataro-3000-plants-seven-arrested"
+    "FGN43P": "mataro-3000-plants-seven-arrested",
+    "97JBW1": "el-rosario-120-ton-plantation"
   }
 };
