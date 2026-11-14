@@ -92,14 +92,21 @@ sources:
     publisher: Khaskhabar
     date: 2026-11-12
     language: hi
+  - title: कार से 41.500 किलो गांजा बरामद, 1 गिरफ्तार
+    url: https://www.bhaskar.com/local/rajasthan/sikar/news/41500-kg-of-marijuana-recovered-from-car-1-arrested-dbp-139679902.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-14
+    language: hi
+open_questions:
+  - The exact ganja weight is not stated precisely in the Dainik Bhaskar lede, which rounds it to 41.500 kg; the full story is behind the Dainik Bhaskar app.
 ---
 
 Officers of the Rajasthan Police CID Crime Branch special team arrested Rakesh
 Kumar of Khirod in Jhunjhunu after stopping a Swift car in the Balara
-police-station area of Sikar district. [@2,3,4,5] The operation was carried out on the instructions of Rajasthan Police Director General of Police Rajiv Kumar Sharma. [@5] Additional Director General of Police (Crime) Bipin Kumar Pandey said the CID Crime Branch team was collecting intelligence in the Sikar and Fatehpur areas. [@4] The action took place late on
+police-station area of Sikar district. [@2,3,4,5,6] The operation was carried out on the instructions of Rajasthan Police Director General of Police Rajiv Kumar Sharma. [@5] Additional Director General of Police (Crime) Bipin Kumar Pandey said the CID Crime Branch team was collecting intelligence in the Sikar and Fatehpur areas. [@4] The action took place late on
 Wednesday 11 November 2026. [@2,3,5] A tip said the Swift car, registration RJ 18 CF
 2905, was carrying suspicious goods from Sikar through Laxmangarh toward
-Jhunjhunu. [@2,3,5] When officers tried to stop the car coming from the Laxmangarh
+Jhunjhunu. [@2,3,5,6] When officers tried to stop the car coming from the Laxmangarh
 side, the driver swerved and tried to flee, then locked the doors and tried to
 drive off again before the team brought him under control. [@2,3,5]
 
