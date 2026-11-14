@@ -40,6 +40,11 @@ media:
     media_url: https://staticimg.amarujala.com/assets/images/2026/11/13/pakatasa-ka-jaca-karata-palsa_be458bb2103833db9a5e131cf45d66df.jpeg?w=674&dpr=2.0&q=80
     publisher: Amar Ujala
     caption: 'Police checking the suspect packets at the warehouse. Photo: Amar Ujala'
+  - kind: photo
+    url: https://www.livehindustan.com/ncr/noida/story-greater-noida-20-kg-cannabis-worth-over-rs-10-lakh-seized-at-delivery-warehouse-201794586105668.html
+    media_url: https://www.livehindustan.com/lh-img/smart/img/2025/08/27/1200x900/noida_1756329061545_1756329067036.png
+    publisher: Hindustan Live
+    caption: 'Image on the Live Hindustan page of the 20 kg ganja seizure at the Dhoom Manikpur warehouse. Photo: Live Hindustan'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 203529df80cde1e799afd594a30071c2
@@ -69,23 +74,30 @@ sources:
     publisher: Deshbandhu
     date: 2026-11-13
     language: hi
+  - title: 'Noida News: वेयरहाउस से दस लाख रुपये कीमत का गांजा बरामद'
+    url: https://www.livehindustan.com/ncr/noida/story-greater-noida-20-kg-cannabis-worth-over-rs-10-lakh-seized-at-delivery-warehouse-201794586105668.html
+    publisher: Hindustan Live
+    date: 2026-11-13
+    language: hi
+open_questions:
+  - No arrests, charges or court outcome are yet reported for this seizure.
 ---
 
 Badalpur police seized about 20 kg of ganja from two suspect packets at the
 Swastik Logistics warehouse near Dhoom Manikpur village in the Badalpur area of
-Greater Noida. [@1,2,4] The warehouse, identified as that of Swastik Logistics
+Greater Noida. [@1,2,4,6] The warehouse, identified as that of Swastik Logistics
 Company near Dhoom Manikpur village, stores parcels sent through a local
-delivery company. [@1] The two packets had been booked in Odisha for delivery in
-Delhi and bore a Delhi address. [@1,2,5] Police reached the warehouse after the
+delivery company. [@1,6] The two packets had been booked in Odisha for delivery in
+Delhi and bore a Delhi address. [@1,2,5,6] Police reached the warehouse after the
 packets aroused suspicion, had both packets examined, and confirmed they
-contained ganja. [@1] The ganja was concealed between layers of books inside the two packages and was detected during an X-ray scan. [@3]
+contained ganja. [@1,6] The ganja was concealed between layers of books inside the two packages and was detected during an X-ray scan. [@3]
 
-Together the two packets yielded about 20 kg of ganja. [@1,5] Police put the
-estimated market value of the seized ganja at about 10 lakh rupees. [@1,2,4,5] Police
+Together the two packets yielded about 20 kg of ganja. [@1,5,6] Police put the
+estimated market value of the seized ganja at about 10 lakh rupees. [@1,2,4,5,6] Police
 took the ganja into custody and began investigating the case. [@1,5] Police said a case is being registered against both the sender and the recipient of the consignment. [@3]
 
 Investigators are trying to identify who booked the consignment, who sent it,
-and who was to receive it in Delhi. [@1,5] Wasim was posted as manager at the
-warehouse, and police are gathering information from him about the case. [@1] Police were also reviewing CCTV footage from the warehouse. [@4]
+and who was to receive it in Delhi. [@1,5,6] Wasim was posted as manager at the
+warehouse, and police are gathering information from him about the case. [@1,6] Police were also reviewing CCTV footage from the warehouse. [@4]
 Police are examining the logistics company's records and consignment details to
-trace the smuggling network, and further action was under way. [@1]
+trace the smuggling network, and further action was under way. [@1,6]
