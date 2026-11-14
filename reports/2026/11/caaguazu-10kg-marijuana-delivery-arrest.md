@@ -43,17 +43,21 @@ sources:
     publisher: El Nacional
     date: 2026-11-13
     language: es
+  - title: Incautan 10 kilos de marihuana "a delivery" y aprehenden a un hombre en Caaguazú - El Nacional
+    url: https://elnacional.com.py/nacionales/incautan-10-kilos-marihuana-a-delivery-aprehenden-hombre-caaguazu-n115226/amp
+    publisher: El Nacional
+    date: 2026-11-13
+    language: es
 open_questions:
-  - The readable capture gives no separate date for the interception; 13 November 2026 is the publication date and is used as the incident date.
-  - The 10 kilos is reported as a round figure with no precise measured weight or laboratory confirmation reported.
-  - No age, full identity details beyond the surname Molinas Villalba, charge or court outcome were available in the captured text.
-  - Only one accessible source for this event was found after searching in Spanish.
+    - The readable capture gives no separate date for the interception; 13 November 2026 is the publication date and is used as the incident date.
+    - The 10 kilos is reported as a round figure with no precise measured weight or laboratory confirmation reported.
+    - No charge or court outcome was reported; the case was under investigation with the apprehended man at the disposal of the intervening prosecutor's office.
+    - The account rests on a single outlet's reporting of a SENAD operation, with no independent second source available.
 ---
 
 Authorities seized 10 kilos of marijuana from a delivery operation and
-apprehended a man in Caaguazú. [@1] During the operation, agents detained
-Molinas Villalba as he was about to deliver the shipment. [@1]
+apprehended a man in Caaguazú. [@1,2] Special agents of the National Anti-Drug Secretariat intercepted the man in Caaguazú as he distributed marijuana by delivery. [@2] During the operation, agents detained
+Molinas Villalba as he was about to deliver the shipment. [@1,2] The apprehended man was identified as César Darío Molinas Villalba, aged 30. [@2]
 
-Both the substance and the motorcycle used for the deliveries were seized. [@1]
-The operation was accompanied by prosecutor Noelia Montanía. [@1]
-
+Both the substance and the motorcycle used for the deliveries were seized. [@1,2] The package contained chopped marijuana intended to supply different distribution points in the city of Caaguazú. [@2]
+The operation was accompanied by prosecutor Noelia Montanía. [@1,2]
