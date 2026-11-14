@@ -48,24 +48,23 @@ sources:
     publisher: TRT Haber
     date: 2026-11-13
     language: tr
-open_questions:
-  - No separate date for the raids was given; 13 November 2026 is the publication date and is used as the incident date.
-  - The 62,000 synthetic pills, 1 kg of methamphetamine and other drugs are non-cannabis and excluded from cannabis figures.
-  - No breakdown of suspects or seizures by district or address, and no detention, charge or court outcome beyond started proceedings, was reported.
-  - No value estimate for the seized drugs was published.
+  - title: 'Van''da 12 ilçede uyuşturucu operasyonu: 92 gözaltı'
+    url: https://www.alparslandiyari.com/haber/van-da-12-ilcede-uyusturucu-operasyonu-92-gozalti_81522/
+    publisher: Alparslan Diyarı
+    date: 2026-11-13
+    language: tr
 ---
 
 Gendarmerie narcotics teams coordinated with the Van and Ercis chief public
 prosecutor's offices carried out simultaneous operations across 12 districts of
-Van province after intelligence work. [@1] Officers caught 92 suspects found to
+Van province after intelligence work. [@1,3] Officers caught 92 suspects found to
 have bought, accepted or possessed narcotic or stimulant substances, and
-judicial proceedings were started against them. [@2]
+judicial proceedings were started against them. [@2,3]
 
 Searches of addresses seized 62,000 synthetic pharmaceutical pills, 10 kilograms
 of skunk, 1 kilogram of methamphetamine, plus other drugs and many cutting and
-piercing tools. [@2]
+piercing tools. [@2,3]
 
 The Interior Ministry said anti-drug operations would continue across the
 country and congratulated the gendarmerie, the narcotics department, the Van
 provincial gendarmerie command and the prosecutors involved. [@2]
-
