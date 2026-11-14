@@ -67,12 +67,12 @@ sources:
 
 Europol coordinated Operation TorNado with law enforcement agencies from 14
 countries from May 2025 to October 2026, resulting in 354 arrests and hundreds
-of house searches worldwide. [@1,5,6] The operation targeted vendors and buyers on
+of house searches worldwide. [@1,5,6] The operation mobilised hundreds of investigators specialised in cybercrime and drug trafficking. [@6] The operation targeted vendors and buyers on
 the dark web marketplaces Archetyp, Bohemia, Nemesis, Kingdom and Tor2Door, and
 also people active on forums, single-vendor shops and encrypted messaging
 services. [@1]
 
-French authorities arrested 23 people as part of the operation. [@4] French
+French authorities arrested 23 people as part of the operation. [@4,6] French
 authorities seized 50 kilograms of cannabis, the largest cannabis quantity
 reported for any single country in the operation. [@1,6] European countries seized
 950 kilograms of illicit drugs in total, including amphetamines, ketamine, MDMA
@@ -94,4 +94,6 @@ The U.S. Department of Justice listed the five marketplaces taken down before
 the follow-up action as Archetyp, Bohemia, Nemesis, Kingdom and Tor2Door. [@4]
 
 The U.S. Department of Justice reported 23 arrests in France among the 354 made
-worldwide. [@4]
+worldwide. [@4] TorNado extends several earlier international dark-web operations, including RapTor in 2025 and SpecTor in 2023, which had already led to hundreds of arrests. [@6]
+
+The United States recorded the most arrests in the operation with 132, followed by the United Kingdom (59), Hungary (45), Germany (41) and France (23). [@6]
