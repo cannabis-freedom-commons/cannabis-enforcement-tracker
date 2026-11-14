@@ -98,6 +98,11 @@ sources:
     publisher: StartNews
     date: 2026-11-14
     language: id
+  - title: Bawa 27 Paket Ganja dalam Mobil, Pemuda Asal Agam Ditangkap Polresta Bukittinggi
+    url: https://www.halonusa.com/berita/252889/bawa-27-paket-ganja-dalam-mobil-pemuda-asal-agam-ditangkap-polresta-bukittinggi
+    publisher: Halonusa
+    date: 2026-11-13
+    language: id
 media:
   - kind: photo
     url: https://padang.viva.co.id/ragam-perkara/10425-satresnarkoba-polresta-bukittinggi-gagalkan-peredaran-27-paket-ganja-lintas-provinsi
@@ -119,31 +124,25 @@ media:
     media_url: https://cdn.antaranews.com/cache/1200x800/2026/11/13/1000546896.jpg.webp
     publisher: ANTARA Sumbar
     caption: 'ANTARA photo of the Bukittinggi police handout: RJP (24) arrested at the Bukittinggi–Medan road in Tilatang Kamang, Agam, on 13 November 2026, with 27 packets of ganja seized from his car. Photo: ANTARA/HO-Polresta Bukittinggi'
-open_questions:
-    - The accounts differ on the colour of the adhesive tape around the 27 packets, described as brown in one account and yellow in another.
-    - No weight for the 27 packets was published.
-    - The forensic laboratory result, the completed case file and any court outcome have not been reported.
-    - The first paragraph of the ANTARA article reads '37 paket besar ganja siap edar' while the body and all other accounts confirm 27; the figure 37 is a typo in the ANTARA article.
-    - 'Accounts differ on the intended destination of the cannabis: Agam regency and Bukittinggi city in this account, and Taluak in Banuhampu district in another account.'
 ---
 
 Bukittinggi narcotics police arrested 24-year-old RJP alias Rio, a man described
 as being from Padang, in Agam regency on the morning of Friday 13 November 2026
 for allegedly carrying 27 packages of cannabis. [@1,4,7,8,11,12] Officers detained him at
 about 06.00 on the roadside at Jalan Baringin, Jorong PGRM, Nagari Gaduik in
-Tilatang Kamang district. [@1,2,4,5,6,7,8,10,11] The arrest followed police information about a
+Tilatang Kamang district. [@1,2,4,5,6,7,8,10,11,13] The arrest followed police information about a
 man carrying cannabis from the Palupuah direction toward Bukittinggi city. [@1,4,5,7,8]
 Operational narcotics officers investigated and then tailed the suspect with
 help from Bukittinggi criminal-investigation officers. [@1,5,6,7,10,12] The head of the Bukittinggi police narcotics unit, AKP Muhammad Arvi, said the case was uncovered by following up community information and the alertness of personnel in the field. [@7]
 
 Police seized 27 cannabis packages wrapped in adhesive tape and placed inside a
 green sack. [@1,2,4,6,7,8,9,10,11,12] The search that found the 27 packets was witnessed by local residents, and the packets were wrapped in yellow adhesive tape. [@5,7,8] The packages were found in the rear trunk of the white Daihatsu
-Xenia with plate BA 1065 QG that the suspect was driving. [@1,4,7,8,11,12] Police also
+Xenia with plate BA 1065 QG that the suspect was driving. [@1,4,7,8,11,12,13] Police also
 seized a blue Realme mobile phone, the green sack, and the Xenia car with its
 key and vehicle registration document. [@1,2,4,7,8] Police also seized the suspect's mobile phone, the white Daihatsu Xenia (plate BA 1065 QG) with its ignition key and vehicle registration document (STNK). [@3,10]
 
 On initial questioning, the suspect admitted carrying the cannabis from the
-Penyabungan area of North Sumatra on someone else's orders. [@1,4,5,7,8,10,12] He said the
-load was to be dropped off at Taluak in Banuhampu district, Agam regency. [@1,2,4,5,7,8,10]
+Penyabungan area of North Sumatra on someone else's orders. [@1,4,5,7,8,10,12,13] He said the
+load was to be dropped off at Taluak in Banuhampu district, Agam regency. [@1,2,4,5,7,8,10,13]
 The suspect and all the evidence were taken to Bukittinggi police headquarters
 for further legal process. [@1,7,8,10,11,12] Police said the seized evidence would be sent for testing at a forensic laboratory. [@6,7] Investigators were continuing to work to identify the person who allegedly ordered the suspect and to trace a possible wider distribution network. [@5,7,12] The suspect faces Article 114 paragraph (2) of Law Number 35 of 2009 on Narcotics. [@5] Investigators said they would complete the case file before handing it to the public prosecutor. [@6,7] Investigators applied Article 114 paragraph (2) of Law Number 35 of 2009 on Narcotics in conjunction with Article 609 of Law Number 1 of 2023 on the Criminal Code. [@6,7,8,9,10,11,12] The case was recorded as Police Report Number LP/A/77/XI/2026/Res-Narkoba/Polresta Bukittinggi. [@5]
