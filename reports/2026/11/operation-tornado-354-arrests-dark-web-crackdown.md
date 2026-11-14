@@ -97,32 +97,34 @@ sources:
     publisher: 民視新聞網 (FTV News, AFP)
     date: 2026-11-13
     language: zh
+  - title: 歐美跨國掃蕩暗網毒品走私 警方逮捕354人查獲大批槍毒 | 民視新聞網 | LINE TODAY
+    url: https://today.line.me/tw/v3/article/vXLE7ll
+    publisher: 民視新聞網
+    date: 2026-11-12
+    language: zh
 media:
   - kind: photo
     url: https://tvi.iol.pt/noticias/dark-web/operacao-tornado/operacao-contra-trafico-na-dark-web-termina-com-354-detencoes-e-apreensao-de-toneladas-de-droga-armas-e-milhoes-em-dinheiro/20261113/6af6b33cd34e5a653d7340e7
     media_url: https://img.iol.pt/image/id/68f76b4ad34e58bc6797231f/1024.jpg
     publisher: TVI
     caption: 'Photo published with the Operation TorNado report, credited to Europol (AP). Photo: Europol (AP)'
-open_questions:
-  - No separate figure was published for the cannabis seized, which is listed only among the drugs found in Europe.
-  - The reports give no dates for the individual arrests; the operation ran from May 2025 to October 2026 and was announced on 12 November 2026.
 ---
 
 United States and European officials said police arrested 354 people in a global
-crackdown on dark-web users. [@1,2,3,4,5,6,7,8,9] Europol coordinated the worldwide sting,
+crackdown on dark-web users. [@1,2,3,4,5,6,7,8,9,13] Europol coordinated the worldwide sting,
 codenamed Operation TorNado, with other authorities between May 2025 and October
 2026, leading to hundreds of raids worldwide. [@1,4,5,6,7,8] Most arrests were in the
 United States (132), followed by Britain (59), Hungary (45), Germany (41) and
-France (23). [@1,6,7,8,9,12] The operation was aimed at cybercrime, drug trafficking and the illegal firearms trade, and Belgium was not involved. [@3]
+France (23). [@1,6,7,8,9,12,13] The operation was aimed at cybercrime, drug trafficking and the illegal firearms trade, and Belgium was not involved. [@3]
 
 In Europe, authorities seized almost one tonne of drugs including amphetamines,
-ketamine, MDMA, cocaine and cannabis. [@1,2,3,4,5,6,7,8,10,12] In the United States, more than 4.8
+ketamine, MDMA, cocaine and cannabis. [@1,2,3,4,5,6,7,8,10,12,13] In the United States, more than 4.8
 tonnes of drugs were found, along with 152 firearms and US$166 million in cash
-and cryptocurrency. [@1,5,6,7,11,12] The value of the cash and cryptocurrency seized by US authorities, 1.5 billion euros, is about 5.2 billion New-Taiwan dollars and 1.66 billion US dollars. [@2] Police forces in 14 countries took part in the
+and cryptocurrency. [@1,5,6,7,11,12,13] The value of the cash and cryptocurrency seized by US authorities, 1.5 billion euros, is about 5.2 billion New-Taiwan dollars and 1.66 billion US dollars. [@2] Police forces in 14 countries took part in the
 operation. [@1,5,7] Police forces from 14 countries took part in the operation, including Australia, France, Germany, the United Kingdom and the United States. [@2,6,8]
 
 FBI Deputy Director Christopher Raia said Operation TorNado addressed
-trafficking in fentanyl and other deadly drugs via the dark web. [@1,7] FBI Deputy Director Christopher Raia said at a Washington press conference that officers had unmasked several dark-web sellers' real identities, traced illegal money flows and destroyed the core infrastructure that kept the networks running. [@12] Europol
+trafficking in fentanyl and other deadly drugs via the dark web. [@1,7] FBI Deputy Director Christopher Raia said at a Washington press conference that officers had unmasked several dark-web sellers' real identities, traced illegal money flows and destroyed the core infrastructure that kept the networks running. [@12,13] Europol
 said the operation highlighted the resilience of fast-evolving dark-web markets
 that keep adapting despite takedowns. [@1] Raia said Operation TorNado should
 stand as a warning to anyone using the dark web to sell fentanyl, synthetic
