@@ -139,6 +139,11 @@ sources:
     publisher: Aljadeed TV
     date: 2026-11-13
     language: ar
+  - title: من سهل مرجحين إلى بوداي... الجيش يُتلف 215 طنًا من الحشيشة والماريجوانا
+    url: https://elsiyasa.com/article/436458/%D9%85%D9%86-%D8%B3%D9%87%D9%84-%D9%85%D8%B1%D8%AC%D8%AD%D9%8A%D9%86-%D8%A5%D9%84%D9%89-%D8%A8%D9%88%D8%AF%D8%A7%D9%8A...-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D9%8F%D8%AA%D9%84%D9%81-215-%D8%B7%D9%86%D9%8B%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D9%8A%D8%AC%D9%88%D8%A7%D9%86%D8%A7
+    publisher: Elsiyasa News
+    date: 2026-11-13
+    language: ar
 ---
 
 The Lebanese Army announced the destruction of 215 tonnes of cannabis and
@@ -148,9 +153,9 @@ follow-up to combat narcotics and pursue people undermining security. [@1,3,11,1
 
 One army unit destroyed 200 tonnes of cannabis resin and marijuana, along with
 agricultural greenhouses and planted land, in the Marjehin plain area of Hermel
-over three days. [@1,3,5,6,7,8,9,10,11,12,13,14,15,16] Another unit raided several farms in the Boudai area of
+over three days. [@1,3,5,6,7,8,9,10,11,12,13,14,15,16,17] Another unit raided several farms in the Boudai area of
 Baalbek, destroying 15 tonnes of cannabis and a greenhouse planted with
-marijuana. [@1,3,5,6,7,8,9,10,11,12,13,14,15,16] In Boudai the unit seized machines used to manufacture the
+marijuana. [@1,3,5,6,7,8,9,10,11,12,13,14,15,16,17] In Boudai the unit seized machines used to manufacture the
 drugs. [@1,3,7,8,9,10,11,12,13,14,16]
 
 Annahar corroborated the same account, reporting 200 tonnes destroyed with
