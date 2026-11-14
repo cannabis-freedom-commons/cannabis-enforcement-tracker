@@ -49,6 +49,10 @@ sources:
     url: https://www.defenceweb.co.za/international-news/interpol-op-nets-100-plus-tons-of-drugs-across-three-continents/
     publisher: DefenceWeb
     date: 2024-08-05
+  - title: Record seizures in INTERPOL operation against drug trafficking
+    url: https://www.interpol.int/News-and-Events/News/2024/Record-seizures-in-INTERPOL-operation-against-drug-trafficking
+    publisher: INTERPOL
+    date: 2024-07-30
 open_questions:
   - INTERPOL gives no date for the Ghana seizure; the operation ran in April and May 2024, and the incident date used here is an estimate within that period.
   - No place, Ghanaian agency, number of people arrested or court outcome was reported for the Ghana component.
@@ -60,15 +64,14 @@ open_questions:
 ---
 
 In Ghana, a trafficking ring exploiting postal shipments was dismantled after
-authorities seized 18.8 kg of marijuana in parcels bound for the UK. [@1] The
+authorities seized 18.8 kg of marijuana in parcels bound for the UK. [@1,3] The
 Ghanaian parcels were destined for the United Kingdom, the same INTERPOL account
 adds. [@2]
 
 The Ghana case was one of the seizures INTERPOL published for Operation Lionfish
 Hurricane, which ran in April and May 2024 in 31 countries targeting networks
-spanning South America, Africa and Europe. [@1] INTERPOL said the operation
+spanning South America, Africa and Europe. [@1,3] INTERPOL said the operation
 produced 206 arrests across all the drugs and countries involved, without
 breaking the figure down by country or substance. [@1] The operation was funded
 by the UK Home Office and involved the Maritime Analysis and Operations Centre
 (Narcotics), the WCO, UNODC and Expertise France. [@1]
-
