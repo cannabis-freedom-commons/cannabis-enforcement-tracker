@@ -13,9 +13,8 @@ summary: >-
   Pakistan Customs and the Maritime Security Agency seized 2,400 kilograms of
   high-quality hashish from a boat in international waters off Pakistan's western
   boundary and arrested nine suspected smugglers, including three foreigners. The
-  agencies, announcing the operation at a press conference reported on 28 October
-  2016, valued the haul at more than Rs 1.5 billion and confiscated the smugglers'
-  boat.
+  agencies valued the haul at more than Rs 1.5 billion and confiscated the
+  smugglers' boat.
 figures:
   arrested: 9
   kg_seized: 2400
