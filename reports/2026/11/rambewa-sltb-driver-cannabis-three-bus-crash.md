@@ -43,27 +43,26 @@ sources:
     publisher: Hiru News (Sooriyan FM News)
     date: 2026-11-13
     language: ta
-open_questions:
-    - The report does not make clear which of the two SLTB buses the deceased driver was driving.
-    - No quantity, concentration or test details for the cannabis or alcohol finding were published.
-    - The 10 November 2026 incident date is inferred from 'the morning of the 10th' with publication on 13 November 2026.
-    - No arrest, charge or court outcome was reported, and the driver died in the crash.
-    - The outcome of the further police investigations was not reported.
+  - title: அநுராதபுரம் பேருந்து விபத்து – உயிரிழந்த சாரதி கஞ்சா மற்றும் மதுபானம் பயன்படுத்தியிருந்தமை விசாரணையில் அம்பலம்!
+    url: https://hirunews.lk/tm/500247/error-error-code400messagerequired-texterrors-messagerequired-textdomainglobalreasonrequired-details-typetype-googleapis-com-google-rpc-badrequestfieldviolations-fieldqdescriptionno-text-queries-provided
+    publisher: Hiru News (Sooriyan FM News)
+    date: 2026-11-13
+    language: ta
 ---
 
 Four people, including an SLTB bus driver and two women, died in the three-bus
-collision in the Rambewa area of Anuradhapura. [@1,2] Seventy-six other passengers
-were injured and hospitalised. [@1] Two of the dead, aged 47 and 56, were
+collision in the Rambewa area of Anuradhapura. [@1,2,3] Seventy-six other passengers
+were injured and hospitalised. [@1,3] Two of the dead, aged 47 and 56, were
 residents of the Attawiragollawa and Rideegama areas. [@1]
 
 The crash happened on the morning of 10 November 2026 near the Rambewa Weli Oya
 junction on the Kandy-Jaffna A9 road, which falls under the Mihintale police
-division. [@1] The tragedy was caused by three buses colliding with each other.
+division. [@1,3] The tragedy was caused by three buses colliding with each other.
 [@1] Police said it began when an SLTB bus travelling from Janakapura to Colombo
 collided head-on with another SLTB bus travelling from Akkarapattu to Jaffna,
 while a private bus travelling from Vavuniya to Colombo collided with the rear
 of the Colombo-bound SLTB bus. [@1]
 
 Examination of the deceased SLTB driver's urine samples confirmed he had
-consumed cannabis and alcohol. [@1] Police are conducting further investigations
+consumed cannabis and alcohol. [@1,3] Police are conducting further investigations
 into the accident following the medical revelation. [@1]
