@@ -72,17 +72,24 @@ sources:
     publisher: Taşköprü Postası
     date: 2026-11-13
     language: tr
+  - title: 'İki adrese eş zamanlı baskın: 2 kilo esrar ele geçirildi - Son Dakika Bartın Haberleri'
+    url: https://www.bartin.info/foto-galeri/iki-adrese-es-zamanli-baskin-2-kilo-esrar-ele-gecirildi
+    publisher: Bartın İnfo
+    date: 2026-11-13
+    language: tr
+open_questions:
+  - Accounts of the raid give the seized cannabis weight as 2 kg 100 g or 2 kg 110 g.
 ---
 
 Police teams of the Bartın Police Department Anti-Narcotic Crimes Branch
 Directorate, working under the coordination of the Bartın Chief Public
 Prosecutor's Office, ran a simultaneous operation at two addresses in the city.
-[@1,3,4,5,6] In the searches, officers found that harvested hemp plants had been dried
+[@1,3,4,5,6,7] The two-address operation was carried out at around 03:50 on 13 November 2026. [@7] In the searches, officers found that harvested hemp plants had been dried
 on a clothesline and turned into marijuana. [@1,4,5,6] The seizures came to 2
 kilograms 100 grams of marijuana and one blank-firing gun, and two people were
-detained in connection with the incident. [@1,3,4,5,6] Police said efforts to catch one
+detained in connection with the incident. [@1,3,4,5,6,7] Police said efforts to catch one
 further suspect linked to the incident were ongoing and that the
-drug-trafficking investigation continued. [@1,5,6] İHA reported that the same
+drug-trafficking investigation continued. [@1,5,6,7] İHA reported that the same
 two-address simultaneous operation was carried out by the Bartın Police
 Department's Anti-Narcotics Crimes Branch Directorate under the coordination of
 the Bartın Chief Public Prosecutor's Office, where searches found harvested hemp
