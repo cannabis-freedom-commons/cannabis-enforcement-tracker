@@ -86,14 +86,24 @@ sources:
     publisher: Mundo Deportivo
     date: 2026-11-12
     language: es
+  - title: Un panel de la DGT no paraba de dar fallos. La policía ha descubierto que unos narcos tenían enganchada ilegalmente la luz para plantar marihuana
+    url: https://www.msn.com/es-es/noticias/other/un-panel-de-la-dgt-no-paraba-de-dar-fallos-la-polic%C3%ADa-ha-descubierto-que-unos-narcos-ten%C3%ADan-enganchada-ilegalmente-la-luz-para-plantar-marihuana/ar-AA2hoMAT
+    publisher: Motorpasión Moto (via MSN)
+    date: 2026-11-13
+    language: es
+  - title: Un panel de la DGT no paraba de dar fallos. La policía ha descubierto que unos narcos tenían enganchada ilegalmente la luz para plantar marihuana
+    url: https://www.motorpasionmoto.com/seguridad/unos-narcos-se-han-cargado-panel-dgt-enganchar-ilegalmente-luz-para-plantar-marihuana
+    publisher: Motorpasión Moto
+    date: 2026-11-13
+    language: es
 ---
 
 The Guardia Civil arrested five people and placed another under investigation in
 Oropesa del Mar in connection with a drug cultivation and distribution network.
-[@1,2,3,4,5] The operation, called Operación Cantonel, culminated in searches on 5
+[@1,2,3,4,5,7] The operation, called Operación Cantonel, culminated in searches on 5
 November 2026 after an investigation begun in 2024. [@1,2,3,6] The six suspects face
 allegations of drug trafficking, membership of a criminal organisation,
-electricity fraud and offences against road safety. [@1,2,3,4,6] Proceedings prepared by
+electricity fraud and offences against road safety. [@1,2,3,4,6,7] Proceedings prepared by
 the Guardia Civil in Oropesa del Mar were sent to the competent judicial
 authority. [@1,2,3]
 
@@ -107,8 +117,8 @@ police action and monitor movement around the premises. [@1,2,3,4,6]
 
 Investigators found an illegal electricity hookup wired directly into an
 illuminated Directorate-General of Traffic signalling panel and carefully
-concealed. [@1,2,3,4,6] The tapped power supply caused failures in AP-7 motorway
-signalling, creating a serious danger to drivers. [@1,2,3,4,6] Operación Cantonel began
+concealed. [@1,2,3,4,6,7] The connection ran to a cannabis plantation and those responsible had carefully hidden the hookup elements to hinder detection. [@8] The tapped power supply caused failures in AP-7 motorway
+signalling, creating a serious danger to drivers. [@1,2,3,4,6,7] Operación Cantonel began
 in 2024 with collaboration from the Oropesa del Mar Local Police from its
 earliest stages. [@1,2,3] Units of the Castellón Command took part in the 5 November
 deployment, supported by the USECIC, the Reserve and Security Group and the Air
