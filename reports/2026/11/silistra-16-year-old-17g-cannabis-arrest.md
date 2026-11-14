@@ -27,6 +27,11 @@ sources:
     publisher: Кворум Силистра
     date: 2026-11-13
     language: bg
+  - title: 16-годишен е задържан с канабис при полицейска проверка в Силистра
+    url: https://silistranews.net/2026/11/13/16-godishen-e-zadarzhan-s-kanabis-pri-politsejska-proverka-v-silistra
+    publisher: Silistra News
+    date: 2026-11-13
+    language: bg
 open_questions:
   - No charges beyond the pre-trial procedure for unlawful possession were reported, and no court outcome or further action is stated.
 ---
@@ -40,9 +45,8 @@ During it, police officers found that the minor was holding a high-risk narcotic
 substance – cannabis – weighing 1.7 grams. [@1]
 
 The narcotic was seized, and the 16-year-old was detained for a period of up to
-24 hours. [@1]
+24 hours. [@1,2]
 
 A pre-trial procedure was opened for the unlawful keeping of a high-risk
 narcotic at the regional directorate of the Ministry of the Interior for
-Silistra. [@1]
-
+Silistra. [@1] An investigating officer is working the case. [@2]
