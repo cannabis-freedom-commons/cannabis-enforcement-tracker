@@ -77,18 +77,18 @@ sources:
     publisher: Ponto da Notícia
     date: 2026-11-13
     language: pt
-open_questions:
-  - The Gazeta de Toledo report lists 9.9 kg of murruga alongside 3,162.9 kg of marijuana; the enforcement accounts do not define murruga, so only the marijuana weight is recorded as cannabis.
-  - The published accounts give no names, ages, charges or later court outcome for the four detained men.
-  - No street value, plant count or cultivation area was published for this seizure.
-  - The Ponto da Notícia account and the PRF statement list the marijuana seizure as 3,162 kg, which differs slightly from the 3,162.9 kg recorded in the report.
+  - title: PRF e PM apreendem mais de 3 toneladas de maconha e prendem quatro homens
+    url: https://midiasudoeste.com.br/n/noticia/prf-e-pm-apreendem-mais-de-3-toneladas-de-maconha-e-prendem-quatro-homens
+    publisher: Mídia Sudoeste
+    date: 2026-11-13
+    language: pt
 ---
 
 A joint operation by the Paraná Military Police 19th Battalion and the Federal
 Highway Police seized more than three tonnes of drugs and arrested four people
 on Friday 13 November 2026 in Toledo in western Paraná. [@1,4,5] SOT placed the
 operation in the early hours of Friday in the Concórdia district of Toledo,
-where four men were arrested with a stolen pickup. [@2] The action began at
+where four men were arrested with a stolen pickup. [@2,6] The action began at
 about 3 a.m. during inspections of accesses to the BR-163 highway and rural
 roads, when officers spotted a pickup travelling without plates and followed it
 with military police support. [@2] The driver disobeyed the stop order, fled to
