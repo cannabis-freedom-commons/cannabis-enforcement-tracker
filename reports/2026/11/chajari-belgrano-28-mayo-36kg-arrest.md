@@ -59,26 +59,31 @@ sources:
     publisher: LaGacetaOnline
     date: 2026-11-13
     language: es
+  - title: Detuvieron a un hombre con más de 3,6 kilos de marihuana en Chajarí | Análisis
+    url: https://www.analisisdigital.com.ar/policiales/2026/11/13/detuvieron-un-hombre-con-mas-de-36-kilos-de-marihuana-en-chajari
+    publisher: Análisis Digital
+    date: 2026-11-13
+    language: es
 open_questions:
   - The official report gave no age and no circumstances of the detention; the account that the man was 28 and travelled from Mocoretá by hire car is attributed to local press, not the police report.
   - No charge, hearing or court outcome was reported beyond the detention and referral to the courts.
   - No laboratory confirmation beyond the police seizure report was published.
+  - 'Accounts disagree on the day of the week of the overnight operation: 12 November 2026 is a Thursday and 13 November a Friday, but one account dates them as Wednesday and Thursday; the overnight 12-13 November period is consistent across accounts.'
 ---
 
 Officers detained a man at the intersection of Avenida Belgrano and Avenida 28
-de Mayo in Chajarí during an overnight anti-drug operation. [@1] The operation
+de Mayo in Chajarí during an overnight anti-drug operation. [@1,4] The operation
 ran from 20:30 on Thursday 12 November until 00:28 on Friday 13 November 2026.
 [@2] Officers from the Chajarí Dangerous Drugs delegation of the Federación
 departmental headquarters acted together with staff of Subcomisaría Tague, under
-Chajarí's First Station. [@1] The operation was carried out under article 230
+Chajarí's First Station. [@1,4] The operation was carried out under article 230
 bis of the National Code of Criminal Procedure and National Law 23.737 on drug
 trafficking. [@1]
 
 Officers seized six compact bricks of marijuana and one hand-rolled cigarette,
-with a reported total weight of 3.656 kilograms. [@1] Officers also seized a
-backpack, while no money was seized. [@1] The official report gave no age for
+with a reported total weight of 3.656 kilograms. [@1,4] Officers also seized a
+backpack, while no money was seized. [@1,4] The official report gave no age for
 the detained man and no details of the circumstances of the detention. [@1]
 Local accounts described the detained man as 28 years old and said he had
 travelled from Mocoretá to Chajarí in a hire car from Corrientes. [@3] The case
-was placed in the hands of the courts. [@2]
-
+was placed in the hands of the courts. [@2] The detained man was placed at the disposal of the Federal Justice system, which intervened through the Federal Court of Concordia, with the proceedings carried out under the corresponding judicial directives. [@4]
