@@ -69,11 +69,16 @@ sources:
     publisher: MT de Fato
     date: 2026-11-12
     language: pt
+  - title: Motociclista é flagrado com quatro quilos de maconha em MT - AtualMT
+    url: https://atualmt.com.br/2026/11/13/motociclista-e-flagrado-com-quatro-quilos-de-maconha-em-mt/
+    publisher: AtualMT
+    date: 2026-11-13
+    language: pt
 ---
 
 A 27-year-old man was arrested on the afternoon of Wednesday 11 November 2026
 during a Military Police stop on the MT-248 state highway in Araputanga, about
-338 km from Cuiabá. [@1,3,5] The stop took place at about 16:30. [@2] He was the
+338 km from Cuiabá. [@1,3,5,6] The stop took place at about 16:30. [@2] He was the
 rider of a motorcycle that police had been told was travelling from Indiavaí
 toward Araputanga. [@1]
 
@@ -81,11 +86,11 @@ The team acted on an anonymous complaint and on information from the Local
 Intelligence Agency, known as A.L.I., and from the RAIO unit. [@1]
 
 During the stop and search, officers found four tablets of a substance analogous
-to marijuana inside a backpack the rider was carrying. [@1,3,5] Military Police put the weight of the four tablets of a substance analogous to marijuana at four kilograms. [@3] According to the
+to marijuana inside a backpack the rider was carrying. [@1,3,5,6] Military Police put the weight of the four tablets of a substance analogous to marijuana at four kilograms. [@3] According to the
 Military Police, he said he would receive R$ 1,000 to take the drug from Pontes
 e Lacerda to Araputanga. [@1,3]
 
 Officers also found that he had neither a national driving licence, the CNH, nor
-the motorcycle's registration and licensing certificate, the CRLV. [@1,3] He was
-arrested and taken to the competent authorities for the legal procedures. [@1,3] Police booked him for illicit drug trafficking. [@4]
-The case is to be investigated by the Civil Police. [@1]
+the motorcycle's registration and licensing certificate, the CRLV. [@1,3,6] He was
+arrested and taken to the competent authorities for the legal procedures. [@1,3] Police booked him for illicit drug trafficking. [@4,6]
+The case is to be investigated by the Civil Police. [@1,6]
