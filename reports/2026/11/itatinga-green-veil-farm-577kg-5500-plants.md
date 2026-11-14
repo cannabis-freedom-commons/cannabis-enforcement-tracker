@@ -97,24 +97,29 @@ sources:
     publisher: Jornal Atitude
     date: 2026-11-12
     language: pt
+  - title: Polícia Civil descobre fazenda da maconha e apreende meia tonelada da droga no interior de SP
+    url: https://portalhortolandia.com.br/webstories/policia-descobre-fazenda-da-maconha/
+    publisher: Portal Hortolândia
+    date: 2026-11-12
+    language: pt
 ---
 
 São Paulo Civil Police found a cannabis growing structure holding more than half
 a tonne of marijuana on a farm in Itatinga on the morning of Wednesday 11
-November 2026. [@1,3,6] The action was the third phase of Operação Green Veil and
+November 2026. [@1,3,6,9] The action was the third phase of Operação Green Veil and
 was carried out under a judicial search and seizure warrant. [@1,3,6] The association's headquarters is in the São Paulo capital, and its president had already been arrested during the second phase of the operation. [@4,5,6] Civil police suspected the farm was part of a scheme in which the people involved used the front of an association serving patients who rely on cannabis-based medicines to divert production into drug trafficking. [@4,5] The association's president had already been arrested during the second phase of the operation. [@7]
 
 The team was met by the farm's caretaker, who stayed with the officers during
 the search. [@1,3] Officers found six greenhouses for growing the drug and a
 nursery with seedlings of the same plant, as well as areas for drying,
-processing and storing it. [@1,3,4,5,6]
+processing and storing it. [@1,3,4,5,6,9]
 
-Police identified about 5,500 plants and seedlings. [@1,3,5,6,8] They seized 89 packages
+Police identified about 5,500 plants and seedlings. [@1,3,5,6,8,9] They seized 89 packages
 holding more than 577 kilograms of plant material by net weight, plus two
-further packages weighing about 10 kilograms gross. [@1,3,5,6,8] JCNET reported the
+further packages weighing about 10 kilograms gross. [@1,3,5,6,8,9] JCNET reported the
 total as 587 kilograms of marijuana. [@2] Forensic officers took seven samples
-of the plantations for examination at the Instituto de Criminalística. [@1,3,5,6,8]
+of the plantations for examination at the Instituto de Criminalística. [@1,3,5,6,8,9]
 
 The plants in the greenhouses and the nursery were destroyed by incineration
-after the work on the property. [@1,3,4,5,6,8] JCNET reported that the case remained under
-investigation. [@2] The case was registered at the 6th Police District of Cambuci in São Paulo, where the investigation continues to identify other people involved. [@4,6] The incident was registered at the 6th Police District of Cambuci in the capital, where the investigations continue. [@7,8]
+after the work on the property. [@1,3,4,5,6,8,9] JCNET reported that the case remained under
+investigation. [@2] The case was registered at the 6th Police District of Cambuci in São Paulo, where the investigation continues to identify other people involved. [@4,6,9] The incident was registered at the 6th Police District of Cambuci in the capital, where the investigations continue. [@7,8]
