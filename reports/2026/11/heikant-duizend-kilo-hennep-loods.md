@@ -35,12 +35,22 @@ sources:
     publisher: Drimble
     date: 2026-11-13
     language: nl
+  - title: Ruim duizend kilo hennep ontdekt in loods Heikant, verdachte opgepakt
+    url: https://actueel365.nl/ruim-duizend-kilo-hennep-loods-heikant-verdachte-aangehouden
+    publisher: Actueel365
+    date: 2026-11-13
+    language: nl
+  - title: Duizend kilo hennep gevonden in loods in Heikant, een persoon aangehouden
+    url: https://www.omroepzeeland.nl/nieuws/18946263/duizend-kilo-hennep-gevonden-in-loods-in-heikant-een-persoon-aangehouden
+    publisher: Omroep Zeeland
+    date: 2026-11-13
+    language: nl
 ---
 
 In a warehouse in Heikant officers found just over a thousand kilograms of
-cannabis. [@1,2,4] The police action took place on Thursday 12 November. [@3] In the same investigation the police also searched a home in
-Philippine, where officers found thousands of euros in cash. [@1,2,3,4] During the
-police action officers held one suspect. [@1,2,3,4]
+cannabis. [@1,2,4,5] The police action took place on Thursday 12 November. [@3] In the same investigation the police also searched a home in
+Philippine, where officers found thousands of euros in cash. [@1,2,3,4,5] During the
+police action officers held one suspect. [@1,2,3,4,6]
 
 Officers also took various data carriers for further investigation. The resident
 was held, and the police seized the drugs found and the cash. [@1]
