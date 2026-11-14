@@ -54,15 +54,11 @@ sources:
     publisher: جريدة الكنانة نيوز
     date: 2026-11-13
     language: ar
-media:
-  - kind: photo
-    url: https://petra.gov.jo/en/news/army-foils-major-drug-smuggling-attempt-using-guided-balloons
-    media_url: https://petra.gov.jo/storage/media/2026/11/13/0c41d774-fd2b-4d7f-bcbc-3aa0114ebc53.jpg
-    publisher: The Jordan News Agency (Petra)
-    caption: >-
-      Sealed bags of tablets and guidance electronics laid out after Jordan's
-      Eastern Military Region brought down drug-carrying balloons on 13 November
-      2026, as published with the army account.
+  - title: المنطقة العسكرية الشرقية تحبط محاولة تهريب مواد مخدرة بواسطة بالونات موجّهة - وكالة الانباء الاردنية
+    url: https://petra.gov.jo/bin/index.php/ar/news/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9-%D8%AA%D8%AD%D8%A8%D8%B7-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D9%85%D9%88%D8%A7%D8%AF-%D9%85%D8%AE%D8%AF%D8%B1%D8%A9-%D8%A8%D9%88%D8%A7%D8%B3%D8%B7%D8%A9-%D8%A8%D8%A7%D9%84%D9%88%D9%86%D8%A7%D8%AA-%D9%85%D9%88%D8%AC%D9%87%D8%A9-1
+    publisher: وكالة الانباء الاردنية
+    date: 2026-11-13
+    language: ar
 open_questions:
     - The army statement speaks only of drugs and names no substance, so it is not established that any of the cargo was cannabis.
     - No weight, number of balloons or value was published.
@@ -73,13 +69,13 @@ open_questions:
 
 Jordan's Eastern Military Region said on Friday 13 November 2026 that it had
 foiled an attempt to smuggle a large quantity of narcotics into the country by
-guided balloons, after spotting them heading toward Jordanian territory. [@1,2,3,4,5,8]
+guided balloons, after spotting them heading toward Jordanian territory. [@1,2,3,4,5,8,9]
 Border Guard units within their area of responsibility brought the balloons down
 inside Jordanian territory and seized the drugs they carried, in coordination
-with security and military agencies and the Anti-Narcotics Department. [@1,2,3,4,5,8]
+with security and military agencies and the Anti-Narcotics Department. [@1,2,3,4,5,8,9]
 
 The seized material was handed to the competent authorities for legal action.
-[@1,2,3,4,6,8] The Jordan Armed Forces reaffirmed that they will keep performing their
+[@1,2,3,4,6,8,9] The Jordan Armed Forces reaffirmed that they will keep performing their
 national duty with efficiency and confront infiltration and smuggling attempts
 firmly, whatever their methods evolve into, in safeguarding the kingdom's
 security, stability and citizens' safety. [@1,3,7] Over the past two years the Eastern Military Region has intercepted dozens of drug-smuggling attempts, some balloons carrying large quantities of Captagon pills, methamphetamine and hashish, reportedly launched from areas in southern Syria. [@2]
