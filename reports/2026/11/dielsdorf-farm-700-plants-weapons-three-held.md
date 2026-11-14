@@ -60,12 +60,17 @@ sources:
     publisher: SWI swissinfo.ch
     date: 2026-11-13
     language: de
+  - title: 'Einsatz im Kanton Zürich: Polizei stellt Waffen und Hanfanlage sicher'
+    url: https://www.tagesanzeiger.ch/einsatz-im-kanton-zuerich-polizei-stellt-waffen-und-hanfanlage-sicher-558893179806
+    publisher: Tages-Anzeiger
+    date: 2026-11-13
+    language: de
 ---
 
 On Thursday morning the Zurich cantonal police carried out house searches in the
 Dielsdorf district, finding an arsenal of prohibited weapons and an indoor
-cannabis facility and arresting three people. [@1,3,4,5] The three provisionally
-arrested people are two Swiss men and one Swiss woman aged 41 to 43. [@1,2,5] They
+cannabis facility and arresting three people. [@1,3,4,5,6] The three provisionally
+arrested people are two Swiss men and one Swiss woman aged 41 to 43. [@1,2,5,6] They
 must answer before the prosecution for, among other things, violations of the
 weapons law and the narcotics law, with the presumption of innocence applying
 until a final conviction. [@1,5]
@@ -75,7 +80,7 @@ district on behalf of the Winterthur/Unterland public prosecutor's office. [@1,2
 In a barn there, officers found a hidden indoor grow with more than 700
 marijuana plants, over seven kilograms of ready-to-use packaged marijuana,
 technical equipment such as lamps and filters, and several thousand francs in
-cash. [@1,2,3,4,5] In a second search at the grow operator's home, officers found an
+cash. [@1,2,3,4,5,6] In a second search at the grow operator's home, officers found an
 arsenal of prohibited weapons, including a machine pistol with magazines and
 ammunition, a silencer, an air pistol, a shotgun, a slingshot with arm support,
 a brass knuckle, a flick knife and various throwing stars and throwing knives.
