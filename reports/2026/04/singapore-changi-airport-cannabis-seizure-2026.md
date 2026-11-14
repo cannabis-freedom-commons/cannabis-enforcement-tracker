@@ -37,6 +37,10 @@ sources:
     publisher: Singapore
     url: https://sso.agc.gov.sg/Act/MDA1973?ProvIds=Sc2-&ValidDate=20260601
     locator: "Trafficking and import or export of more than 500 g of cannabis: death."
+  - title: Portuguese man arrested at Singapore airport with 36kg of cannabis
+    url: https://www.plataformamedia.com/en/2026/04/23/portuguese-man-arrested-singapore-cannabis-smuggling/
+    publisher: Plataforma Media
+    date: 2026-04-23
 ---
 
-A 25-year-old Portuguese man who arrived at Changi Airport Terminal 2 on 14 April 2026 was stopped for checks, and 68 packets holding about 36.3 kg of cannabis were found in his luggage.[@1] He had been due to leave Singapore the next day.[@1] The amount was more than 70 times the 500 g threshold for the death penalty; the Immigration & Checkpoints Authority said investigations continued, and no charge or sentence was reported.[@1,2] [@1,2]
+A 25-year-old Portuguese man who arrived at Changi Airport Terminal 2 on 14 April 2026 was stopped for checks, and 68 packets holding about 36.3 kg of cannabis were found in his luggage.[@1,3] Police dogs flagged the man for additional checks at the baggage arrival area, leading to the discovery of the cannabis in his luggage. [@3] He had been due to leave Singapore the next day.[@1] The amount was more than 70 times the 500 g threshold for the death penalty; the Immigration & Checkpoints Authority said investigations continued, and no charge or sentence was reported.[@1,2] Portugal's Ministry of Foreign Affairs was contacted for comment and had made no immediate official statement. [@3] [@1,2]
