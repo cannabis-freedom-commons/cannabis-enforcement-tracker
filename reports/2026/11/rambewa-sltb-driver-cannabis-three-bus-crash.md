@@ -38,17 +38,21 @@ sources:
     url: https://english.gossiplankanews.com/2026/11/urine-test-reveals-that-ctb-driver-who.html
     publisher: Gossip Lanka News [English]
     date: 2026-11-13
+  - title: அனுராதபுரம் பேருந்து விபத்து – உயிரிழந்த சாரதி கஞ்சா மற்றும் மதுபானம் பயன்படுத்தியிருந்தமை விசாரணையில் அம்பலம்!
+    url: https://hirunews.lk/sooriyanfmnews/500247/%E0%AE%85%E0%AE%A8%E0%AF%81%E0%AE%B0%E0%AE%BE%E0%AE%A4%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AE%AE%E0%AF%8D-%E0%AE%AA%E0%AF%87%E0%AE%B0%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%B5%E0%AE%BF%E0%AE%AA%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%89%E0%AE%AF%E0%BF%80%E0%AE%B0%E0%BF%80%E0%AE%94%E0%AE%A8%E0%AF%8D%E0%AE%A4-%E0%AE%9A%E0%AE%BE%E0%AE%B0%E0%AE%A4%E0%BF%80-%E0%AE%95%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE-%E0%AE%AE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%AE%E0%AF%8D-%E0%AE%AE%E0%AE%A4%E0%AF%81%E0%AE%AA%E0%AE%BE%E0%AE%A9%E0%AE%AE%E0%AF%8D-%E0%AE%AA%E0%AE%AF%E0%AE%A9%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%BF%80%E0%AE%B0%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%88-%E0%AE%B5%E0%AE%BF%E0%AE%9A%E0%AE%BE%E0%AE%B0%E0%AE%A3%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%85%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AE%B2%E0%AE%AE%E0%AF%8D
+    publisher: Hiru News (Sooriyan FM News)
+    date: 2026-11-13
+    language: ta
 open_questions:
-  - The report does not make clear which of the two SLTB buses the deceased driver was driving.
-  - No quantity, concentration or test details for the cannabis or alcohol finding were published.
-  - The 10 November 2026 incident date is inferred from 'the morning of the 10th' with publication on 13 November 2026.
-  - No arrest, charge or court outcome was reported, and the driver died in the crash.
-  - The outcome of the further police investigations was not reported.
-  - Only one accessible account of this event was found after searching in English.
+    - The report does not make clear which of the two SLTB buses the deceased driver was driving.
+    - No quantity, concentration or test details for the cannabis or alcohol finding were published.
+    - The 10 November 2026 incident date is inferred from 'the morning of the 10th' with publication on 13 November 2026.
+    - No arrest, charge or court outcome was reported, and the driver died in the crash.
+    - The outcome of the further police investigations was not reported.
 ---
 
 Four people, including an SLTB bus driver and two women, died in the three-bus
-collision in the Rambewa area of Anuradhapura. [@1] Seventy-six other passengers
+collision in the Rambewa area of Anuradhapura. [@1,2] Seventy-six other passengers
 were injured and hospitalised. [@1] Two of the dead, aged 47 and 56, were
 residents of the Attawiragollawa and Rideegama areas. [@1]
 
@@ -63,4 +67,3 @@ of the Colombo-bound SLTB bus. [@1]
 Examination of the deceased SLTB driver's urine samples confirmed he had
 consumed cannabis and alcohol. [@1] Police are conducting further investigations
 into the accident following the medical revelation. [@1]
-
