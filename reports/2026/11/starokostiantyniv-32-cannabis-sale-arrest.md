@@ -65,9 +65,20 @@ sources:
     publisher: vsim.ua
     date: 2026-11-12
     language: uk
+  - title: На Старокостянтинівщині виявили плантацію з понад двома тисячами кущів конопель
+    url: https://ye.ua/cruminal/81056_Na_Starokostyantinivschini_viyavili_plantaciyi_z_ponad_dvoma_tisyachami_kuschiv_konopel.html
+    publisher: ye.ua
+    date: 2026-11-12
+    language: uk
+  - title: На Старокостянтинівщині біля річки виявили понад 2 тисячі рослин конопель
+    url: https://podillyanews.com/2026/11/12/na-starokostyantynivshhyni-bilya-richky-vyyavyly-ponad-2-tysyachi-roslyn-konopel/
+    publisher: Поділля News
+    date: 2026-11-12
+    language: uk
 open_questions:
     - No cannabis weight or value for the 2,182 seized plants was published; only the plant count is recorded.
     - The vsim.ua account is dated 12 November 2026, seven days after the earlier accounts; whether the arrest and the plantation discovery occurred on 5 November or later was not established.
+    - Whether the detained 32-year-old has already been notified of suspicion for cultivating the plantation or his link to it remains only preliminary is unresolved, because accounts differ.
 ---
 
 Police in Starokostiantyniv in Khmelnytskyi Oblast detained a 32-year-old local
@@ -77,7 +88,7 @@ Ukraine's Criminal Procedure Code immediately after he sold another dose. [@1]
 
 The man had repeatedly faced criminal liability before for drug offences and
 thefts. [@1] Officers documented several instances of his unlawful activity
-before the arrest. [@1] The charge carries a sentence of 3 to 7 years of imprisonment. [@4] Police found a plantation of cannabis plants along a riverbank near Starokostiantyniv, seizing 2,182 cannabis plants. [@4] Investigators from police department No. 1 in
+before the arrest. [@1] The charge carries a sentence of 3 to 7 years of imprisonment. [@4,6] Police found a plantation of cannabis plants along a riverbank near Starokostiantyniv, seizing 2,182 cannabis plants. [@4,5,6] Investigators from police department No. 1 in Starokostiantyniv opened a criminal case over the plantings under Part 2 of Article 310 of Ukraine's Criminal Code. [@6] Officers seized 2,182 plants in total and sent them for expert examination. [@5] Investigators from police department No. 1 in
 Starokostiantyniv, under the procedural guidance of the prosecutor's office,
 notified him of suspicion under Parts 1 and 2 of Article 307 of Ukraine's
 Criminal Code, which covers unlawful acquisition, storage or sale of narcotic
