@@ -75,25 +75,30 @@ sources:
     publisher: La Provincia Latina
     date: 2026-11-13
     language: it
+  - title: 'Droga nel sud pontino: sequestrati coca, hashish e denaro contante'
+    url: https://www.latinacorriere.it/droga-nel-sud-pontino-sequestrati-coca-hashish-e-denaro-contante/
+    publisher: LatinaCorriere.it
+    date: 2026-11-13
+    language: it
 ---
 
 The Guardia di Finanza ran an anti-drug operation in the southern Pontino area,
 between the territories of Formia and Minturno. [@1] Officers of the Formia
 group stopped a car on the Via Appia in Scauri carrying two young Italians
-already known to police for specific prior offences. [@2,4] On the order of the
+already known to police for specific prior offences. [@2,4,5] On the order of the
 Cassino prosecutor, the youth found with the larger quantity of drugs and the
 money was arrested in flagrante for possession for dealing and taken to Cassino
 prison. [@2,4] The preliminary investigations judge in Cassino later validated the
-arrest and ordered house arrest for the arrested youth. [@2,4] The second young
+arrest and ordered house arrest for the arrested youth. [@2,4,5] The second young
 Italian was reported at liberty for the lesser dealing allegation under article
 73, paragraph 5. [@2]
 
 In the roadside check officers found 5.25 grams of hashish, 1.04 grams of
-cocaine and 2,015 euros in cash in the two youths’ possession. [@2,4] After
+cocaine and 2,015 euros in cash in the two youths’ possession. [@2,4,5] After
 extending the searches to their homes, officers seized a total of 92 grams of
-cocaine and 146 grams of hashish. [@2,4] The combined 238 grams were described as
+cocaine and 146 grams of hashish. [@2,4,5] The combined 238 grams were described as
 split between cocaine and hashish, with about 3,500 euros, three smartphones and
-a precision scale also seized. [@1] Officers put the seized cash at 3,445 euros,
+a precision scale also seized. [@1,5] Officers put the seized cash at 3,445 euros,
 described as alleged proceeds of the illegal activity. [@2] Part of the drugs
 was found during the Appia car check and most of it during the home searches.
 [@1]
