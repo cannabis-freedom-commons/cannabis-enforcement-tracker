@@ -58,23 +58,30 @@ sources:
     publisher: Novosti
     date: 2026-11-13
     language: sr
-open_questions:
-  - No separate date for the arrests was published; 13 November 2026 is the outlets' publication date and is used as the incident date.
-  - No photo of this Becej search or the seized marijuana was published; outlets used stock police-car, Shutterstock or Profimedia illustration pictures.
+  - title: 'Dvojica uhapšena u Bečeju: Policija pronašla materije za koje sumnja da su marihuana i amfetamin'
+    url: https://www.mojnovisad.com/dvojica-uhapsena-u-beceju-policija-pronasla-materije-za-koje-sumnja-da-su-marihuana-i-amfetamin/
+    publisher: Moj Novi Sad
+    date: 2026-11-13
+    language: sr
+  - title: 'Dvojica uhapšena u Bečeju: Policija pronašla materije za koje sumnja da su marihuana i amfetamin'
+    url: https://naslovi.net/2026-11-13/moj-novi-sad/dvojica-uhapsena-u-beceju-policija-pronasla-materije-za-koje-sumnja-da-su-marihuana-i-amfetamin/42603533
+    publisher: Naslovi.net
+    date: 2026-11-13
+    language: sr
 ---
 
 Police officers of the Interior Ministry in Becej, working with the Higher
 Public Prosecutor's Office in Zrenjanin, arrested S.S. (born 1993) from the
 Becej area and V.H. (born 1977) from Becej on suspicion of unauthorised
-production and placing narcotic drugs in circulation. [@1] A second outlet
+production and placing narcotic drugs in circulation. [@1,5] A second outlet
 confirms the same two arrests by Becej police with the Zrenjanin prosecutor's
 office, giving the suspects' ages as 33 and 49. [@2,4]
 
 Searching the apartment and other premises used by the suspects in Becej and its
 surroundings, police found about 74 grams of plant material suspected to be
-marijuana. [@1,4] The same search also yielded about 99 grams of powder suspected
+marijuana. [@1,4,6] The same search also yielded about 99 grams of powder suspected
 to be amphetamine, alongside the suspected marijuana. [@2,4] Police also seized a
-digital scale found with the suspected drugs. [@3,4]
+digital scale found with the suspected drugs. [@3,4,5]
 
 The two suspects were ordered held for up to 48 hours and will be brought before
-the competent prosecutor with a criminal complaint. [@1,4]
+the competent prosecutor with a criminal complaint. [@1,4,5]
