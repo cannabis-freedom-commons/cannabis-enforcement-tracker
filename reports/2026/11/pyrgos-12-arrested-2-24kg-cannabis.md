@@ -86,32 +86,27 @@ sources:
     publisher: AlphaTV
     date: 2026-11-06
     language: el
-open_questions:
-  - The operation is described only as taking place on Thursday morning; 5 November 2026 is used as the incident date from the same-day publications.
-  - No names, ages or nationalities of the 12 detained people were published.
-  - No charge sheet, custody decision or court outcome beyond referral to the Ilia prosecutor was reported.
-  - The cannabis form and whether the 2.24 kg is a field or laboratory weight were not specified.
-  - The Newsbomb page also links a separate Ilia greenhouse case with 102 plants and 50 kg, a different event left out here.
-  - This account says slightly more than 2.2 kg of cannabis, while the report and its other sources give 2.24 kg; the report keeps 2.24 kg.
-  - It describes the two cannabis plants as dried (αποξηραμένα), where the report calls them harvested seedlings; the plant count of two is unchanged.
-  - This AlphaTV account gives the drug seizure as 240 grams, the same 2 kilos and 240 grams figure the report records from its other accounts.
-  - AlphaTV describes the two cannabis plants as harvested (συγκομισμένα), consistent with the report's 'harvested seedlings' wording.
+  - title: 'Ηλεία: Συνελήφθησαν 12 άτομα και κατασχέθηκαν περισσότερα από 2 κιλά κάνναβης'
+    url: https://www.kalavrytanews.com/2026/11/12-2.html
+    publisher: Kalavryta News
+    date: 2026-11-06
+    language: el
 ---
 
 Police arrested 12 people in Pyrgos, Elis on the morning of 5 November 2026
 during a targeted crime-prevention operation. [@1,4,5,6,7,8,9] Of the 12 detained, one man
-faces violations of drug legislation. [@1,5,6,7] Five other detainees were held for
+faces violations of drug legislation. [@1,5,6,7,10] Five other detainees were held for
 electricity theft and six for health-regulation violations. [@1,5,6,7,8] All those
 arrested were expected to be led before the Ilia Court of First Instance
-prosecutor for the prescribed procedure. [@1,4,5,6,7]
+prosecutor for the prescribed procedure. [@1,4,5,6,7,10]
 
 Officers found 2 kilos and 240 grams of cannabis and two harvested cannabis
-seedlings in the drug suspect's possession. [@1,4,5,6,7,8,9] A second account describes the
+seedlings in the drug suspect's possession. [@1,4,5,6,7,8,9,10] A second account describes the
 same drug case as a man arrested for possession after officers seized 2 kilos
 and 240 grams of cannabis and two harvested seedlings. [@3] Officers checked 85
-people and 37 vehicles and searched seven houses. [@1,5,6,7,8] Officers also brought 15
-people to the competent police services for further checks. [@1,4,6,7,8] Officers also
-recorded 12 violations of the Highway Code during the same operation. [@1,4,6,7]
+people and 37 vehicles and searched seven houses. [@1,5,6,7,8,10] Officers also brought 15
+people to the competent police services for further checks. [@1,4,6,7,8,10] Officers also
+recorded 12 violations of the Highway Code during the same operation. [@1,4,6,7,10]
 
 The operation was planned by the Elis Police Directorate and carried out with a
 prosecutor present and a DEDDIE crew participating. [@1,6,7,9] DEDDIE, the electricity
