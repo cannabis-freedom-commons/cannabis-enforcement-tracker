@@ -51,12 +51,16 @@ sources:
     url: https://hightimes.com/news/100000-cannabis-plants-seized-in-historic-san-francisco-bay-area-bust/
     archived: https://web.archive.org/web/20250712232328/https://hightimes.com/news/100000-cannabis-plants-seized-in-historic-san-francisco-bay-area-bust/
     date: 2021-10-05
+  - title: Major Illegal Marijuana Grow Bust In Alameda County; 100,000 Plants, $10 Million In Cash Seized
+    url: https://www.cbsnews.com/sanfrancisco/news/major-alameda-county-illegal-marijuana-grow-bust-100000-plants-10-million-in-cash-seized/
+    publisher: CBS San Francisco
+    date: 2021-09-30
 ---
 
-Alameda County sheriff's detectives served search warrants at 18 sites in East Oakland, Hayward, Castro Valley and San Leandro on 29 September 2021, closing what the sheriff's office called one of the largest illegal grow operations in the state. [@1,2] More than 100 sheriff's personnel and Alameda County Narcotics Task Force agents took part after an 18-month investigation that began with a tip about illegal cultivation. [@2] Trade press described two days of raids producing the largest illegal marijuana grow operation in San Francisco Bay Area history. [@1]
+Alameda County sheriff's detectives served search warrants at 18 sites in East Oakland, Hayward, Castro Valley and San Leandro on 29 September 2021, closing what the sheriff's office called one of the largest illegal grow operations in the state. [@1,2,3] Deputies were to spend several days clearing a facility on the 800 block of 77th Avenue in Oakland's Fitchburg neighborhood. [@3] More than 100 sheriff's personnel and Alameda County Narcotics Task Force agents took part after an 18-month investigation that began with a tip about illegal cultivation. [@2] Trade press described two days of raids producing the largest illegal marijuana grow operation in San Francisco Bay Area history. [@1,3]
 
 Deputies estimated they had seized roughly 100,000 marijuana plants, 12,000 pounds (about 5,443 kg) of cannabis flower and about $10 million in cash, plus 37.6 tons of plants and materials taken from at least a dozen searched sites. [@1] At an Oakland warehouse deputies displayed seized cash and described evidence of money laundering, Rolex watches and other jewelry, and about 500,000 square feet of grow space across the network. [@2] Twelve tractor-trailer loads of cannabis were hauled to California's Central Valley for incineration. [@2]
 
 ## Bootlegging claims
 
-Sheriff's spokesperson Sgt. Ray Kelly called the network a sophisticated modern-day bootlegging operation motivated by profit, saying its organizers had invested millions in infrastructure while evading California's licensing, tax and regulatory rules. [@1,2] At least seven people were arrested, with more arrests possible, and forensic accountants joined the money-laundering and environmental investigation. [@2] Kelly predicted the bust would barely dent California's illicit market, calling the trade lucrative and repeatable. [@1]
+Sheriff's spokesperson Sgt. Ray Kelly called the network a sophisticated modern-day bootlegging operation motivated by profit, saying its organizers had invested millions in infrastructure while evading California's licensing, tax and regulatory rules. [@1,2,3] At least seven people were arrested, with more arrests possible, and forensic accountants joined the money-laundering and environmental investigation. [@2,3] Those taken into custody faced possible charges of money laundering, tax evasion and operating an illegal marijuana grow, with more arrests expected. [@3] Kelly predicted the bust would barely dent California's illicit market, calling the trade lucrative and repeatable. [@1]
