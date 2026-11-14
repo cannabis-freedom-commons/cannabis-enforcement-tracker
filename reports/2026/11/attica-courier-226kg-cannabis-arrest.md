@@ -101,6 +101,11 @@ sources:
     publisher: Patras Events
     date: 2026-11-13
     language: el
+  - title: Συνελήφθη 21χρονος για εισαγωγή και διακίνηση ακατέργαστης κάνναβης μέσω ταχυδρομικού δέματος από τις Η.Π.Α.
+    url: https://www.focusfm.gr/synelifthi-21chronos-gia-eisagogi-kai-diakinisi-akatergastis-kannavis-meso-tachydromikoy-dematos-apo-tis-i-p-a/
+    publisher: Focus FM 103.6
+    date: 2026-11-13
+    language: el
 open_questions:
   - The Greek accounts give the 2,260 grams as the parcel's total gross weight rather than a net weight of cannabis.
 ---
@@ -110,14 +115,14 @@ a 21-year-old Greek man at midday on Wednesday 11 November 2026 in an area of
 Attica, on suspicion of importing drugs into Greece from the United States. [@2,5,6,9,11]
 The case came to light after a check carried out by officials of the customs
 office of Athens International Airport on a parcel that had been sent from the
-United States to Greece. [@3,6,7,9,10,11] Athens airport customs identified the suspicious parcel on 9 November 2026. [@8] The parcel contained 2.26 kilograms of cannabis.
+United States to Greece. [@3,6,7,9,10,11,12] Athens airport customs identified the suspicious parcel on 9 November 2026. [@8] The parcel contained 2.26 kilograms of cannabis.
 [@1,6,7,11] Officers of the Narcotics Subdirectorate of the Directorate for Combating
 Organised Crime then carried out a police operation to trace the recipient. [@4,6,9,11] Police organised a controlled delivery to identify the final recipient and establish who was behind collection of the illegal shipment. [@8] The parcel, sent by a company in the United States, was kept under discreet surveillance until the recipient appeared. [@8] The controlled delivery followed a request to the prosecutor supervising the Organised Crime Directorate and was approved by an Athens appeals-court council ruling. [@8]
 
 The officers arrested the 21-year-old at the moment he collected the parcel from
-a courier company's branch in Attica. [@3,5,6,8,9,10,11] The collection took place at 13:30 at an ELTA courier branch in Chalandri. [@8] Police said the quantity of cannabis
+a courier company's branch in Attica. [@3,5,6,8,9,10,11,12] The collection took place at 13:30 at an ELTA courier branch in Chalandri. [@8] Police said the quantity of cannabis
 was intended for further distribution. [@3,5,6,7,11] From his possession officers seized
-2,260 grams of raw cannabis and a mobile phone. [@2,6,8,9,10,11] A criminal case was filed
+2,260 grams of raw cannabis and a mobile phone. [@2,6,8,9,10,11,12] A criminal case was filed
 against him on charges of drug importation, possession and trafficking. [@1,7,9,10,11] According to the investigation, no previous criminal record was found for the arrested man. [@8] He
 was taken to the competent prosecuting authority for further criminal
-proceedings. [@3,6,11] Investigators were continuing to examine whether a wider trafficking network was behind the shipment. [@8]
+proceedings. [@3,6,11,12] Investigators were continuing to examine whether a wider trafficking network was behind the shipment. [@8]
