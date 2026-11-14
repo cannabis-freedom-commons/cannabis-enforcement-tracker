@@ -29,12 +29,6 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]
-media:
-  - kind: photo
-    url: https://uralpress.ru/news/v-chelyabinskoy-oblasti-izyali-kannabis-i-marikhuanu-u-dvukh-mestnykh-zhiteley-2026-11-13
-    media_url: https://uralpress.ru/sites/default/files/styles/article/public/2026-11/photo_2025-09-07_15-32-06-7_3.jpg.webp?itok=qzXmuAnm
-    publisher: Урал-пресс-информ
-    caption: 'Police photo published with the report on the cannabis and marijuana seized from two residents of Chelyabinsk Oblast. Photo: press service of the Main Directorate of the Ministry of Internal Affairs for Chelyabinsk Oblast.'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f8e74dde5a3f39b7626d76b32aec54d3
@@ -50,6 +44,7 @@ open_questions:
   - No street value for the seized cannabis was published.
   - The reports name no detention measure and do not state the specific criminal charges beyond the opened criminal cases.
   - The account rests on a single opened outlet report citing the regional police press service.
+  - The lead image reused a September 2025 police file photo, so no photo of this seizure is listed.
 ---
 
 Troitsk drug-control officers found two cases of unlawful storage of banned

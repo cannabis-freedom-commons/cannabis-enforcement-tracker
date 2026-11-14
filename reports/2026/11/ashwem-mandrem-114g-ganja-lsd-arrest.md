@@ -37,12 +37,6 @@ data_sources:
   figures.arrested: [1]
   figures.kg_seized: [1]
   figures.value: [1]
-media:
-  - kind: photo
-    url: https://www.tarunbharat.com/ashwem-mandrem-drugs-seizure-2-51-lakh-rohan-panchal-arrested/
-    media_url: https://www-tarunbharat-com.imagibyte.sortdcdn.net/wp-content/uploads/2026/11/GOA-POLICE-2026-11-01T121033.836-4.jpg?type=webp&quality=80&size=800
-    publisher: Tarun Bharat
-    caption: Police photo published with the Ashwem-Mandrem seizure report showing the drugs haul.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 360a0c747af806139879540226774423
@@ -58,6 +52,8 @@ sources:
     publisher: Desh Sewak
     date: 2026-11-13
     language: pa
+open_questions:
+  - Tarun Bharat reused a Goa Police file photo dated 1 November 2026, so no photo of this seizure is listed.
 ---
 
 Anti-Narcotic Police raided Ashwem-Mandrem in the early hours of 13 November

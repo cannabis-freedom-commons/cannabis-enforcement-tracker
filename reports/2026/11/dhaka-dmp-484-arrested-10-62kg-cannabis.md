@@ -29,12 +29,6 @@ data_sources:
   details.products: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
-media:
-  - kind: photo
-    url: https://viewsbangladesh.com/dmp-arrests-484-in-24hour-crackdown-in-dhaka-files-52-cases/
-    media_url: https://viewsbangladesh.com/_next/image/?url=https%3A%2F%2Fimagedelivery.net%2FHRs_9pnDDn9uipVGixpHsg%2F86ca4253-e8be-4cb1-4a65-c311b4871200%2Fpublic&w=828&q=75
-    publisher: Views Bangladesh
-    caption: Page image published with the report on the 484 arrests in the 24-hour Dhaka sweep; it is captioned only with the headline and carries no credit.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 31bcaf1c7c489d0d956fd0be0b92dfab
@@ -57,7 +51,7 @@ open_questions:
   - Yaba pills, cocktail bombs, weapons and mobile phones were seized in the same sweep and are excluded from the cannabis figures; no combined weight is counted as cannabis.
   - No arrested person was named and no charges or court outcomes were reported beyond legal proceedings said to be under way.
   - The opened accounts all follow the same DMP press release and repeat its wording, so they are not fully independent reporting.
-  - The page image carries no credit or caption confirming what it depicts.
+  - Views Bangladesh used an uncredited page image with no confirmation of what it depicts, so no photo of this sweep is listed.
   - 'Left out, as its quotation was not found in Dhaka Post: The sweep also yielded 4,282 yaba pills, a Chinese axe, four cocktail bombs, 11 exploded cocktail remnants, two defused cocktail components and 43 mobile phones.'
 ---
 

@@ -41,12 +41,6 @@ data_sources:
   figures.charged: [1]
   figures.kg_seized: [1]
   figures.value: [1]
-media:
-  - kind: photo
-    url: https://www.aaplamahanagar.com/mahamumbai/palghar/2-kg-40-grams-of-ganja-like-narcotic-substance-seized-in-mokhada/1026374/
-    media_url: https://img.aaplamahanagar.com/2026/09/arrest.jpg?w=1024
-    publisher: Aapla Mahanagar
-    caption: Aapla Mahanagar photo published with the report on the 2 kg 40 grams of ganja-like substance seized in Mokhada, Palghar.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0ba7c1675898d8c6fab488c088430f1e
@@ -62,6 +56,7 @@ open_questions:
   - Only one accessible source reports this event; no second outlet or police statement was found to confirm the details.
   - The report does not say whether the accused was produced before a court or remanded, or which sections of the NDPS Act were applied.
   - Names are transliterated from Marathi and may be spelled differently in other accounts.
+  - Aapla Mahanagar used a generic September 2026 arrest.jpg file photo, so no photo of this seizure is listed.
 ---
 
 Mokhada police arrested a 78-year-old man in a drive against the illegal sale of

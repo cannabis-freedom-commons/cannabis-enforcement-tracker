@@ -35,12 +35,6 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
-media:
-  - kind: photo
-    url: https://volganet.net/2026/79255/
-    media_url: https://volganet.net/wp-content/uploads/2026/04/c2953a8d-8ba5-419f-bffe-429aedc2b67c-728x409.jpg
-    publisher: Volganet.net
-    caption: 'Police handout photo published with the report on the detention and search in Volgograd. Photo: Main Directorate of the Ministry of Internal Affairs for Volgograd Oblast'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 18e4dbdbed29384698b2848bb793b8fc
@@ -61,6 +55,8 @@ sources:
     publisher: «Городские вести» - Волгоград
     date: 2026-11-12
     language: ru
+open_questions:
+  - Volganet reused an April 2026 police handout, so no photo of this detention is listed.
 ---
 
 Police in Volgograd detained a 40-year-old local woman on suspicion of preparing

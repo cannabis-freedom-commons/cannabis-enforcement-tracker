@@ -33,12 +33,6 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
-media:
-  - kind: photo
-    url: https://www.dinamani.com/amp/story/all-editions/edition-coimbatore/erode/2026/Nov/13/%E0%AE%9A%E0%AF%86%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AE%BF%E0%AE%AE%E0%AE%B2%E0%AF%88-%E0%AE%85%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AF%87-10-%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AF%8B-%E0%AE%95%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE-%E0%AE%AA%E0%AE%B1%E0%AE%BF%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%B2%E0%AF%8D-2-%E0%AE%AA%E0%AF%87%E0%AE%BE%E0%AF%8D-%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%81
-    media_url: https://media.dinamani.com/dinamani/2026-09-16/pyzfvvab/%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%81?w=750&q=55&auto=format%2Ccompress&fit=max
-    publisher: தினமணி
-    caption: கைது - பிரதிப் படம்
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5532481c8036f72d577956224d59e7e2
@@ -55,7 +49,7 @@ open_questions:
   - No charge under the NDPS Act, case number or court outcome was reported for the two men.
   - No value estimate for the 10 kg of ganja was published, and no other items, vehicles or cash were reported seized.
   - The report says the ganja was held for sale but does not describe where the men obtained it or where they intended to sell it.
-  - The photograph published with the report is captioned only as a representative image, so it is not confirmed to show this seizure.
+  - Dinamani published only a representative arrest file photo (captioned பிரதிப் படம்), so no photo of this seizure is listed.
   - 'Left out, as its quotation was not found in தினமணி: The two men were identified as Nilambar Kamba, 25, and Sushil Haripal, 30, both from Odisha.'
 ---
 

@@ -33,12 +33,6 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.vehicles: [1]
-media:
-  - kind: photo
-    url: https://kfsnewsgate.com/kafr-el-sheikh-incidents-desouk-400-hashish-bust/
-    media_url: https://kfsnewsgate.com/wp-content/uploads/2026/11/desouk-police-seize-400-hashish-bricks.jpg
-    publisher: بوابة كفر الشيخ الإخبارية
-    caption: 'The anti-narcotics forces with the two arrested suspects and the 400 hashish bars seized in the Desouk ambush, in the photo published with the arrest report. Photo: بوابة كفر الشيخ الإخبارية'
 status: verified
 created_by_model: alibaba-token-plan/qwen4-max-preview
 submission: d6bf0ded4b7ee32641264c0c5a49f6d0
@@ -62,6 +56,7 @@ open_questions:
   - The suspects were identified only by initials and ages; their full names were not published.
   - No court outcome or formal charges beyond referral to the Public Prosecution were reported.
   - Both opened accounts share the same byline and reproduce the same police information, so they are not independent reporting.
+  - The Kafr El-Sheikh News Gate lead image was a generic file photo, so no photo of this ambush is listed.
 ---
 
 Two men were arrested in Kafr El-Sheikh governorate, Egypt, carrying 400 bars of

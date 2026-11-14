@@ -61,13 +61,8 @@ sources:
 open_questions:
     - No weight, plant count or other quantity for the cannabis cultivation was published.
     - No plea or court outcome for the two men was reported; they were due to appear at Dundee Sheriff Court on 13 November 2026.
-    - 'The Fife Today page uses a Pixaby image credited ''Pic: Pixaby'' with a generic caption, so it is listed as media but is not confirmed to show this specific event.'
+    - Fife Today used a Pixabay stock image, so that picture is not listed; Central Fife Times published a separate Newsquest photo of the discovery.
 media:
-  - kind: photo
-    url: https://www.fifetoday.co.uk/news/crime/two-arrests-after-police-uncover-near-ps700000-cannabis-haul-in-north-fife-town-9350452
-    media_url: https://www.fifetoday.co.uk/webimg/b25lY21zOmViN2I4NmE3LTZhZmEtNGEzNy1iZjA1LTc5NzU4ZmI3YTNkMjphOTZmNGQzZS0wMWU3LTQxZjYtYTJjMC0yZGJkOWFmODNiZDg=.jpg?crop=3:2,smart&trim=&width=640&quality=65
-    publisher: Fife Today
-    caption: 'Police made the discovery in Tayport. Pic: Pixaby'
   - kind: photo
     url: https://www.centralfifetimes.com/news/26727968.two-arrested-700-000-cannabis-farm-found-fife/
     media_url: https://www.centralfifetimes.com/resources/images/13408383.jpg?type=mds-article-962

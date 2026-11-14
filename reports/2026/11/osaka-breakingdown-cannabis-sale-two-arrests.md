@@ -242,11 +242,8 @@ media:
     media_url: https://players.streaks.jp/ktv-news/0ff2ccfb6381401582d6ee60e3cb66a1/index.html?m=5753257870ff4f19b7c9e8369e519ccb
     publisher: 関西テレビ放送 カンテレ
     caption: Kansai TV news report of 11 November 2026 on the arrest of a BreakingDown fighter over an alleged 10,000-yen cannabis purchase in Ikuno Ward, Osaka.
-  - kind: photo
-    url: https://tokyonewsmedia.com/archives/30320
-    media_url: https://tokyonewsmedia.com/wp-content/uploads/2026/11/%E4%B9%BE%E7%87%A5%E3%81%97%E3%81%9F%E5%A4%A7%E9%BA%BB%E3%81%A8%E6%89%8B%E9%8C%A0-1024x683.jpg
-    publisher: 東京報道新聞
-    caption: Dried cannabis and handcuffs, the picture published with the report.
+open_questions:
+  - Tokyo News Media published a stock photo of dried cannabis and handcuffs, so that picture is not listed.
 ---
 
 Osaka prefectural police arrested Daisuke Yamamoto, a 37-year-old man of no
