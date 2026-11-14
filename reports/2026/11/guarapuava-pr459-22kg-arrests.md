@@ -86,6 +86,11 @@ sources:
     publisher: G+ Notícias
     date: 2026-11-13
     language: pt
+  - title: Homem é preso com mais de 21 kg de maconha após acidente na PR-459
+    url: https://www.extraguarapuava.com.br/policial/homem-e-preso-com-mais-de-21-kg-de-maconha-apos-acidente-na-pr-459/
+    publisher: Extra Guarapuava
+    date: 2026-11-13
+    language: pt
 ---
 
 Police operations in Guarapuava and Pinhão resulted in the seizure of 22.39 kg
@@ -133,7 +138,7 @@ delivery and said he would receive R$4,000 for the transport. [@2] Under the
 driver's seat, one brick of a substance analogous to cannabis was found, with a
 weight later measured at 0.514 grams. About three metres from the car, the
 officers located a package with 40 more bricks of the same substance, which
-totalled 21.086 kilos. In total, 21.600 kilos of narcotic was seized. [@3]
+totalled 21.086 kilos. In total, 21.600 kilos of narcotic was seized. [@3,8]
 
 According to the Military Police, the operation was triggered after intelligence
 investigations pointed to a 21-year-old man, a recent releasee from the prison
