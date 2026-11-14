@@ -104,17 +104,22 @@ sources:
     publisher: Ege Alternatif Gazetesi
     date: 2026-11-14
     language: tr
+  - title: 'Bursa’da jandarmadan uyuşturucu operasyonu: 2 kilo 160 gram esrar ele geçirildi'
+    url: https://www.marmarisyenisayfa.com/haber/bursa-da-jandarmadan-uyusturucu-operasyonu-2-kilo-160-gram-esrar-ele-gecirildi-787041.html
+    publisher: Marmaris Yeni Sayfa
+    date: 2026-11-13
+    language: tr
 ---
 
 Yenişehir district gendarmerie teams and narcotics dog units raided a vineyard
-house in Mahmudiye Mahallesi in Yenişehir, Bursa. [@1,4,5,7,8,9,10,11] Officers detained a
-65-year-old man identified as K.S. during the operation. [@1,4,5,7,8,9,10,11]
+house in Mahmudiye Mahallesi in Yenişehir, Bursa. [@1,4,5,7,8,9,10,11,12] Officers detained a
+65-year-old man identified as K.S. during the operation. [@1,4,5,7,8,9,10,11,12]
 
 The search found 2 kilograms 160 grams of material assessed to be kubar esrar,
-the Turkish term for compressed cannabis. [@1,4,6,7,8,9,11] Officers also seized 50 grams of
-cannabis seeds at the address. [@2,4,6,8,9,10] Officers also seized a precision scale and a
-drug-use implement at the address. [@1,4,5,8,9] Officers also seized an unlicensed
-shotgun and four cartridges. [@1,4,5,8,9]
+the Turkish term for compressed cannabis. [@1,4,6,7,8,9,11,12] Officers also seized 50 grams of
+cannabis seeds at the address. [@2,4,6,8,9,10,12] Officers also seized a precision scale and a
+drug-use implement at the address. [@1,4,5,8,9,12] Officers also seized an unlicensed
+shotgun and four cartridges. [@1,4,5,8,9,12]
 
 Blood and urine samples were taken from K.S. and handed to the authorities for
-examination. [@3,4,6,9] An investigation was opened into the incident. [@1,4,5,7,8,9,11]
+examination. [@3,4,6,9,12] An investigation was opened into the incident. [@1,4,5,7,8,9,11,12]
