@@ -36,9 +36,17 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9233324f29eac0cd9b3f2111ed735ade
 tags: [floridablanca, santander, goes, microtrafico]
+media:
+  - kind: photo
+    url: https://elfrente.com.co/intento-huir-de-las-autoridades-y-cayo-con-tres-kilos-de-marihuana-y-una-pistola-9-milimetros-en-floridablanca/
+    archived: https://web.archive.org/web/20261114033353/https://elfrente.com.co/intento-huir-de-las-autoridades-y-cayo-con-tres-kilos-de-marihuana-y-una-pistola-9-milimetros-en-floridablanca/
+    media_url: https://elfrente.com.co/content/images/2026/11/OPERATIVO-GOES.jpeg
+    publisher: El Frente
+    caption: 'GOES officers with the captured man and a table display labelled for the illegal firearm and the three-block marijuana seizure in Floridablanca. Photo: Policía Metropolitana de Bucaramanga'
 sources:
   - title: Intentó huir de las autoridades y cayó con tres kilos de marihuana y una pistola 9 milímetros en Floridablanca
     url: https://elfrente.com.co/intento-huir-de-las-autoridades-y-cayo-con-tres-kilos-de-marihuana-y-una-pistola-9-milimetros-en-floridablanca/
+    archived: https://web.archive.org/web/20261114033353/https://elfrente.com.co/intento-huir-de-las-autoridades-y-cayo-con-tres-kilos-de-marihuana-y-una-pistola-9-milimetros-en-floridablanca/
     publisher: El Frente
     date: 2026-11-13
     language: es
@@ -48,7 +56,7 @@ open_questions:
   - The suspect is identified only by age, and no charges, custody ruling or court outcome has been reported.
   - No value for the marijuana, pistol or ammunition was published.
   - The firearms and cartridges are included only to explain the capture and are not counted as cannabis figures.
-  - Only one accessible account of this event was found; the page photo is captioned only with the story headline, so it is not listed as media.
+  - Only one accessible account of this event was found.
 ---
 
 A 33-year-old man was captured in the Juan Pablo Segundo neighbourhood of

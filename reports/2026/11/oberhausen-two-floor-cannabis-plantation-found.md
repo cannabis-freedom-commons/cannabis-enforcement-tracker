@@ -38,6 +38,7 @@ open_questions:
   - No arrests, charges or court outcome were reported; the operators were still being sought when the article was published.
   - The kind of premises holding the two-floor plantation was not stated.
   - Only one accessible source was found for this event; the rest of the article sits behind a paywall and no second account could be opened.
+  - No photo of this plantation was published; WAZ used a labelled Symbolbild stock grow picture.
 ---
 
 Investigators in Oberhausen discovered a large cannabis plantation. [@1] A

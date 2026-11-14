@@ -34,14 +34,23 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b4d85e5d5b7681d1fb4da9e11d1e4ea8
 tags: [araria, bihar, nepal-border, ssb, ganja]
+media:
+  - kind: photo
+    url: https://www.prabhatkhabar.com/state/bihar/araria/watch-video-kuari-police-ssb-seize-three-kg-ganja
+    archived: https://web.archive.org/web/20261114034307/https://www.prabhatkhabar.com/state/bihar/araria/watch-video-kuari-police-ssb-seize-three-kg-ganja
+    media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/11/13/1794567808936/sizes/13ara_m_35_13112026_69-06e98d-hero.webp
+    publisher: Prabhat Khabar
+    caption: 'Kuari police and SSB personnel with the abandoned sacks of ganja seized near border pillar 165/6 at Asraha, Araria. Photo: Prabhat Khabar'
 sources:
   - title: 'Watch Video: अररिया में भारत-नेपाल सीमा के पास 3.06 किलो गांजा बरामद, युवक फरार'
     url: https://www.prabhatkhabar.com/state/bihar/araria/watch-video-kuari-police-ssb-seize-three-kg-ganja
+    archived: https://web.archive.org/web/20261114034307/https://www.prabhatkhabar.com/state/bihar/araria/watch-video-kuari-police-ssb-seize-three-kg-ganja
     publisher: Prabhat Khabar
     date: 2026-11-13
     language: hi
   - title: 'सीमा पर तस्कर गांजे की बोरी छोड़कर नेपाल भागा: एसएसबी और पुलिस ने 3 किलो 50 ग्राम गांजा पकड़ा'
     url: https://bhaskar.com/local/bihar/araria/sikti/news/araria-ssb-police-seize-ganja-india-nepal-border-smuggling-139677016.html
+    archived: https://web.archive.org/web/20261114034338/https://www.bhaskar.com/local/bihar/araria/sikti/news/araria-ssb-police-seize-ganja-india-nepal-border-smuggling-139677016.html
     publisher: Dainik Bhaskar
     date: 2026-11-13
     language: hi

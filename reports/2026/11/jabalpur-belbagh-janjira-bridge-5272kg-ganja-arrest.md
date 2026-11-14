@@ -50,6 +50,7 @@ sources:
 open_questions:
   - The article dates the operation to Thursday night; 12 November 2026 is used as the incident date because the report was published on Friday 13 November 2026.
   - No charges, court production or further arrests were reported.
+  - No photo of this Belbagh arrest was published; Palpal India used an AI-generated seizure illustration labelled AI GENERATED.
 ---
 
 A joint Crime Branch and Belbagh police team cordoned off the area near Janjira

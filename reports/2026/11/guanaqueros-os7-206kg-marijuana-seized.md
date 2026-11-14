@@ -34,29 +34,41 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ad7fbf0bfd19a61124ff5363fc1e4b2c
 tags: [coquimbo, guanaqueros, os7, carabineros]
+media:
+  - kind: photo
+    url: https://www.diarioeldia.cl/noticias/2026/11/13/156719-os7-decomisa-mas-de-206-kilos-de-marihuana-en-guanaqueros-droga-fue-avaluada-en-1650-millones
+    archived: https://web.archive.org/web/20261114035422/https://www.diarioeldia.cl/noticias/2026/11/13/156719-os7-decomisa-mas-de-206-kilos-de-marihuana-en-guanaqueros-droga-fue-avaluada-en-1650-millones
+    media_url: https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/85/83/2858348_2a399642cd7e23d35abd0e1342a7b00d4b3728f01089432d6fa4f47d47836f77/lg.webp?_v=v3-38
+    publisher: Diario el Día
+    caption: 'Tape-wrapped marijuana packages laid out before a white car with an EVIDENCIA sign after the OS7 Guanaqueros road stop. Photo: Carabineros / Diario el Día'
 sources:
   - title: 'OS7 decomisa más de 206 kilos de marihuana en Guanaqueros: droga fue avaluada en $1.650 millones'
     url: https://www.diarioeldia.cl/noticias/2026/11/13/156719-os7-decomisa-mas-de-206-kilos-de-marihuana-en-guanaqueros-droga-fue-avaluada-en-1650-millones
+    archived: https://web.archive.org/web/20261114035422/https://www.diarioeldia.cl/noticias/2026/11/13/156719-os7-decomisa-mas-de-206-kilos-de-marihuana-en-guanaqueros-droga-fue-avaluada-en-1650-millones
     publisher: Diario el Día
     date: 2026-11-13
     language: es
   - title: 'Decomisan más de 200 kilos de marihuana en Guanaqueros: droga fue avaluada en $1.650 millones'
     url: https://www.biobiochile.cl/noticias/nacional/region-de-coquimbo/2026/11/13/decomisan-mas-de-200-kilos-de-marihuana-en-guanaqueros-droga-fue-avaluada-en-1-650-millones.shtml
+    archived: https://web.archive.org/web/20261114035453/https://www.biobiochile.cl/noticias/nacional/region-de-coquimbo/2026/11/13/decomisan-mas-de-200-kilos-de-marihuana-en-guanaqueros-droga-fue-avaluada-en-1-650-millones.shtml
     publisher: BioBioChile
     date: 2026-11-13
     language: es
   - title: Decomisan 206 kilos de marihuana en Guanaqueros y superan los 700 kilos de droga incautada en una semana
     url: https://www.elobservatodo.cl/noticia/sociedad/decomisan-206-kilos-de-marihuana-en-guanaqueros-y-superan-los-700-kilos-de-droga-in
+    archived: https://web.archive.org/web/20261114035532/https://www.elobservatodo.cl/noticia/sociedad/decomisan-206-kilos-de-marihuana-en-guanaqueros-y-superan-los-700-kilos-de-droga-in
     publisher: El Observatodo
     date: 2026-11-13
     language: es
   - title: Carabineros decomisa más de 200 kilos de marihuana en Guanaqueros y supera los 700 kilos de droga incautada en una semana en la región | La Serena Online
     url: https://laserenaonline.cl/2026/11/13/carabineros-decomisa-mas-de-200-kilos-de-marihuana-en-guanaqueros-y-supera-los-700-kilos-de-droga-incautada-en-una-semana-en-la-region/
+    archived: https://web.archive.org/web/20261114035556/https://laserenaonline.cl/2026/11/13/carabineros-decomisa-mas-de-200-kilos-de-marihuana-en-guanaqueros-y-supera-los-700-kilos-de-droga-incautada-en-una-semana-en-la-region/
     publisher: La Serena Online
     date: 2026-11-13
     language: es
   - title: Incautan más de 200 kilos de marihuana en Guanaqueros, con un valor estimado de $1.650 millones
     url: https://www.canal9.cl/episodios/2026/11/13/decomisan-mas-de-200-kilos-de-marihuana-en-guanaqueros-droga-fue-avaluada-en-1-650-millones
+    archived: https://web.archive.org/web/20261114035625/https://www.canal9.cl/episodios/2026/11/13/decomisan-mas-de-200-kilos-de-marihuana-en-guanaqueros-droga-fue-avaluada-en-1-650-millones
     publisher: Canal 9 Bío Bío Televisión
     date: 2026-11-13
     language: es
@@ -65,6 +77,8 @@ sources:
     publisher: Radio Riquelme
     date: 2026-11-13
     language: es
+open_questions:
+  - The Wayback Machine redirected the Radio Riquelme URL to an unrelated flood story, so that source has no usable archived copy.
 ---
 
 Specialist Carabineros officers of OS7 Coquimbo seized processed marijuana

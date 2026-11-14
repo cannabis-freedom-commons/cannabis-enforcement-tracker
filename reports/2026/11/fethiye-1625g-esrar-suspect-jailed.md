@@ -41,6 +41,13 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 05ced65ed6ffbab7d0dc714a17670adc
 tags: [esrar, fethiye, mugla]
+media:
+  - kind: photo
+    url: https://www.habercitv.com.tr/fethiyede-uyusturucu-operasyonu-1-kilo-625-gram-esrar-ele-gecirildi
+    archived: https://web.archive.org/web/20261114034514/https://www.habercitv.com.tr/fethiyede-uyusturucu-operasyonu-1-kilo-625-gram-esrar-ele-gecirildi
+    media_url: https://habercitvcomtr.teimg.com/crop/1280x720/habercitv-com-tr/uploads/2026/11/uyusturucu-1-1024x607.jpg
+    publisher: Haberci TV
+    caption: 'Fethiye narcotics bureau display of the seized esrar bag, loose cannabis and red precision scale, with NARKO signs labelled ESRAR and an inset of the handcuffed suspect. Photo: Muğla Emniyet / Narkotik'
 sources:
   - title: 'Muğla’da Uyuşturucu Operasyonu: 1 Kilo 625 Gram Esrar Ele Geçirildi'
     url: https://www.muglagazetesi.com.tr/fethiye-haberleri/muglada-uyusturucu-operasyonu-1-kilo-625-gram-esrar-ele-gecirildi-223435h
@@ -49,17 +56,20 @@ sources:
     language: tr
   - title: Muğla'da uyuşturucu ticareti iddiasıyla gözaltına alınan zanlı tutuklandı
     url: https://yerel-haberler.haberturk.com/mugla-haberleri/muglada-uyusturucu-ticareti-iddiasiyla-gozaltina-alinan-zanli-tutuklandi-119521468
+    archived: https://web.archive.org/web/20261114034440/https://yerel-haberler.haberturk.com/mugla-haberleri/muglada-uyusturucu-ticareti-iddiasiyla-gozaltina-alinan-zanli-tutuklandi-119521468
     publisher: Habertürk
     date: 2026-11-13
     language: tr
   - title: Fethiye'de uyuşturucu operasyonu! 1 kilo 625 gram esrar ele geçirildi
     url: https://www.habercitv.com.tr/fethiyede-uyusturucu-operasyonu-1-kilo-625-gram-esrar-ele-gecirildi
+    archived: https://web.archive.org/web/20261114034514/https://www.habercitv.com.tr/fethiyede-uyusturucu-operasyonu-1-kilo-625-gram-esrar-ele-gecirildi
     publisher: Haberci TV
     date: 2026-11-13
     language: tr
 open_questions:
   - The articles give only the 13 November 2026 publication date and no separate day or time for the searches, so the incident date uses the publication date.
   - The reports name the suspect only by the initials H.A.U. and give no age, charge wording beyond alleged drug trafficking, or later court outcome.
+  - The Wayback Machine redirected the Muğla Gazetesi URL to an unrelated Milas theft story, so that source has no usable archived copy.
 ---
 
 Police in Fethiye, Muğla detained suspect H.A.U. in an operation targeting drug

@@ -33,24 +33,35 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 37b7929f9eb3c23a61adcc3d6d780a51
 tags: [iguala, guerrero, marihuana]
+media:
+  - kind: photo
+    url: https://acustiknoticias.com/2026/11/aseguran-fuerzas-del-orden-mas-de-tres-kilogramos-de-probable-marihuana-y-detienen-a-dos-personas-en-iguala/
+    archived: https://web.archive.org/web/20261114035729/https://acustiknoticias.com/2026/11/aseguran-fuerzas-del-orden-mas-de-tres-kilogramos-de-probable-marihuana-y-detienen-a-dos-personas-en-iguala/
+    media_url: https://acustiknoticias.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-12-at-1.06.40-PM.jpeg
+    publisher: Acustik Noticias
+    caption: 'The two detainees and interagency officers with bags of suspected marijuana displayed on a table before a Guerrero coordination banner. Photo: SSP Guerrero'
 sources:
   - title: Aseguran fuerzas del orden más de tres kilogramos de probable marihuana y detienen a dos personas en Iguala
     url: https://acustiknoticias.com/2026/11/aseguran-fuerzas-del-orden-mas-de-tres-kilogramos-de-probable-marihuana-y-detienen-a-dos-personas-en-iguala/
+    archived: https://web.archive.org/web/20261114035729/https://acustiknoticias.com/2026/11/aseguran-fuerzas-del-orden-mas-de-tres-kilogramos-de-probable-marihuana-y-detienen-a-dos-personas-en-iguala/
     publisher: Acustik Noticias
     date: 2026-11-12
     language: es
   - title: Detienen a 2 hombres con 3 kilos de marihuana en Iguala
     url: https://guerrero.quadratin.com.mx/detienen-a-2-hombres-con-3-kilos-de-marihuana-en-iguala/
+    archived: https://web.archive.org/web/20261114035755/https://guerrero.quadratin.com.mx/detienen-a-2-hombres-con-3-kilos-de-marihuana-en-iguala/
     publisher: Quadratín Guerrero
     date: 2026-11-12
     language: es
   - title: Detienen a dos personas con más de 3 kilos de marihuana en colonia de Iguala
     url: https://www.bajopalabra.mx/detienen-a-dos-personas-con-mas-de-3-kilos-de-marihuana-en-colonia-de-iguala/
+    archived: https://web.archive.org/web/20261114035824/https://www.bajopalabra.mx/detienen-a-dos-personas-con-mas-de-3-kilos-de-marihuana-en-colonia-de-iguala/
     publisher: Bajo Palabra
     date: 2026-11-12
     language: es
   - title: Detienen a dos personas y aseguran más de tres kilos de presunta marihuana en Iguala
     url: https://www.laplazadiario.com.mx/detienen-a-dos-personas-y-aseguran-mas-de-tres-kilos-de-presunta-marihuana-en-iguala/
+    archived: https://web.archive.org/web/20261114035850/https://www.laplazadiario.com.mx/detienen-a-dos-personas-y-aseguran-mas-de-tres-kilos-de-presunta-marihuana-en-iguala/
     publisher: La Plaza Diario
     date: 2026-11-12
     language: es

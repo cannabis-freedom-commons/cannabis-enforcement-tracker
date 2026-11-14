@@ -28,9 +28,17 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e5414809bcde9c122af9e412a2e5b3c6
 tags: [rokan-hilir, riau, ganja, evidence-destruction, polres-rohil]
+media:
+  - kind: photo
+    url: https://www.datariau.com/detail/beritaTNI-polri/polres-rohil-musnahkan-sabu-ekstasi-dan-ganja-dari-15-perkara
+    archived: https://web.archive.org/web/20261114040657/https://www.datariau.com/detail/beritaTNI-polri/polres-rohil-musnahkan-sabu-ekstasi-dan-ganja-dari-15-perkara
+    media_url: https://www.datariau.com/photo/berita/dir112026/_5587_Polres-Rohil-Musnahkan-Sabu-Ekstasi-dan-Ganja-dari-15-Perkara.jpg
+    publisher: datariau.com
+    caption: 'Rokan Hilir police press conference destroying narcotics evidence from 15 cases, with sachets being put into blenders before a BARANG BUKTI NARKOTIKA sign. Photo: Polres Rokan Hilir / datariau.com'
 sources:
   - title: Polres Rohil Musnahkan Sabu Ekstasi dan Ganja dari 15 Perkara
     url: https://www.datariau.com/detail/beritaTNI-polri/polres-rohil-musnahkan-sabu-ekstasi-dan-ganja-dari-15-perkara
+    archived: https://web.archive.org/web/20261114040657/https://www.datariau.com/detail/beritaTNI-polri/polres-rohil-musnahkan-sabu-ekstasi-dan-ganja-dari-15-perkara
     publisher: datariau.com
     date: 2026-11-13
     language: id
@@ -39,7 +47,7 @@ open_questions:
   - No breakdown is given of how many of the 15 cases involved cannabis, so the 12.88 grams of ganja cannot be assigned to particular cases.
   - No defendants are named and no original seizure dates or places for the cannabis evidence are given.
   - No court outcomes for the 25 underlying suspects are reported.
-  - The page's single photo has no caption or credit identifying which evidence it shows, so it is not listed as media.
+  - The destruction photo shows powder sachets being destroyed and does not separately identify the 12.88 grams of ganja.
 ---
 
 Rokan Hilir regency police destroyed 428.39 grams of sabu, 226 ecstasy pills, 29

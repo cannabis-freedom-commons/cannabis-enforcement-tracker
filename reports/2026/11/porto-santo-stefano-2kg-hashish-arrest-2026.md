@@ -47,6 +47,7 @@ sources:
     language: it
 open_questions:
     - The report notes the man was in pretrial detention 'where the man remains'; this source reports his release on 13 November, so the detention status has changed.
+    - No photo of this arrest or the hashish was published; MaremmaOggi used an archive Carabinieri Orbetello picture.
 ---
 
 The incident dates to Thursday 5 November 2026. [@1] A 59-year-old Italian man

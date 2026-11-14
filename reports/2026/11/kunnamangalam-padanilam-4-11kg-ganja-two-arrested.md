@@ -35,13 +35,22 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 37179c3ca59beb3f5866eef44f1cae57
 tags: [kozhikode, kerala, ganja, dansaf]
+media:
+  - kind: photo
+    url: https://newsthen.com/2026/11/13/306390.html
+    archived: https://web.archive.org/web/20261114034627/https://newsthen.com/2026/11/13/306390.html
+    media_url: https://newsthen.com/wp-content/uploads/2026/11/KUNNAMANGALAM-CANABIS.gif
+    publisher: Newsthen
+    caption: 'Composite published with the Kunnamangalam arrest: officers with a seized evidence bag by a car at night, and portrait photos of the two men held. Photo: Newsthen'
 sources:
   - title: Two arrested with suspected ganja in Kozhikode
     url: https://www.thehindu.com/news/national/kerala/two-arrested-with-suspected-ganja-in-kozhikode/article71698135.ece
+    archived: https://web.archive.org/web/20261114034539/https://www.thehindu.com/news/national/kerala/two-arrested-with-suspected-ganja-in-kozhikode/article71698135.ece
     publisher: The Hindu
     date: 2026-11-13
   - title: പൊലീസ് പരിശോധനയിൽ കുടുങ്ങി; കാറിൽ കടത്തുകയായിരുന്ന 4 കിലോ കഞ്ചാവുമായി കൊടുവള്ളി സ്വദേശികളായ രണ്ടുപേർ പിടിയിൽ – Newsthen
     url: https://newsthen.com/2026/11/13/306390.html
+    archived: https://web.archive.org/web/20261114034627/https://newsthen.com/2026/11/13/306390.html
     publisher: Newsthen
     date: 2026-11-13
     language: ml

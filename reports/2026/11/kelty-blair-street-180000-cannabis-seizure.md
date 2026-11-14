@@ -45,6 +45,8 @@ sources:
     url: https://news.stv.tv/north/two-people-charged-after-cannabis-worth-180000-seized-in-fife-drugs-raid
     publisher: STV News
     date: 2026-11-12
+open_questions:
+  - No photo of this Blair Street seizure was published; Central Fife Times used a generic Police Scotland file picture of officers' backs.
 ---
 
 Police carried out a drugs search warrant in Blair Street, Kelty, at about

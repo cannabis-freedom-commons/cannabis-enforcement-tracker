@@ -41,39 +41,53 @@ status: verified
 created_by_model: xai/grok-4.7#medium
 submission: 5648ddd43fcd74a06777a9e724d27ae6
 tags: [izmir, skunk, esrar, narkotik, police-raid]
+media:
+  - kind: photo
+    url: https://www.haberturk.com/gundem/izmir-de-1-ton-367-kilo-skunk-ele-gecirildi-3926767
+    archived: https://web.archive.org/web/20261114035946/https://www.haberturk.com/gundem/izmir-de-1-ton-367-kilo-skunk-ele-gecirildi-3926767
+    media_url: https://im.haberturk.com/l/2026/11/12/ver1794471570/3926767/jpg/1200x628
+    publisher: Habertürk
+    caption: 'Bundled skunk packages stacked outside İzmir provincial police headquarters after the multi-address narcotics operations. Photo: DHA / Habertürk'
 sources:
   - title: 'İzmir’de dev uyuşturucu operasyonu: 1 tonun üzerinde zehir ele geçirildi'
     url: https://www.iha.com.tr/izmir-haberleri/izmirde-dev-uyusturucu-operasyonu-1-tonun-uzerinde-zehir-ele-gecirildi-514907656
+    archived: https://web.archive.org/web/20261114035920/https://www.iha.com.tr/izmir-haberleri/izmirde-dev-uyusturucu-operasyonu-1-tonun-uzerinde-zehir-ele-gecirildi-514907656
     publisher: İhlas Haber Ajansı
     date: 2026-11-12
     language: tr
   - title: İzmir'de 4 ayrı operasyonda 1 ton 367 kilo skunk ele geçirildi
     url: https://www.haberturk.com/gundem/izmir-de-1-ton-367-kilo-skunk-ele-gecirildi-3926767
+    archived: https://web.archive.org/web/20261114035946/https://www.haberturk.com/gundem/izmir-de-1-ton-367-kilo-skunk-ele-gecirildi-3926767
     publisher: Habertürk
     date: 2026-11-12
     language: tr
   - title: İzmir'deki uyuşturucu operasyonlarında 1 ton 367 kilo skunk ve 57 bin ecstasy ele geçirildi
     url: https://www.ahaber.com.tr/gundem/2026/11/12/izmirde-1-ton-367-kilo-skunk-ve-57-bin-ecstasy-ele-gecirildi
+    archived: https://web.archive.org/web/20261114040034/https://www.ahaber.com.tr/gundem/2026/11/12/izmirde-1-ton-367-kilo-skunk-ve-57-bin-ecstasy-ele-gecirildi
     publisher: A Haber
     date: 2026-11-12
     language: tr
   - title: 'İzmir''de uyuşturucu operasyonu: 1 ton 367 kilo skunk ele geçirildi!'
     url: https://www.egepostasi.com/haber/Izmir-de-uyusturucu-operasyonu-1-ton-367-kilo-skunk-ele-gecirildi/404277
+    archived: https://web.archive.org/web/20261114040120/https://www.egepostasi.com/haber/Izmir-de-uyusturucu-operasyonu-1-ton-367-kilo-skunk-ele-gecirildi/404277
     publisher: Ege Postası
     date: 2026-11-12
     language: tr
   - title: 'İzmir''de uyuşturucu operasyonu: 1 ton 367 kilo 500 gram skunk ve 57 bin ecstasy hap ele geçirildi'
     url: https://www.takvim.com.tr/guncel/2026/11/12/izmire1-tonun-uzerinde-uyusturucu-ele-gecirildi
+    archived: https://web.archive.org/web/20261114040146/https://www.takvim.com.tr/guncel/2026/11/12/izmire1-tonun-uzerinde-uyusturucu-ele-gecirildi#3
     publisher: Takvim.com.tr
     date: 2026-11-12
     language: tr
   - title: İzmir'de dört ayrı yakalamada 1 ton 367 kilogram 500 gram skunk ele geçirildi
     url: https://www.sondakika.com/3-sayfa/haber-izmir-de-dort-ayri-yakalamada-1-ton-367-kilogram-5-20419313/
+    archived: https://web.archive.org/web/20261114040222/https://www.sondakika.com/3-sayfa/haber-izmir-de-dort-ayri-yakalamada-1-ton-367-kilogram-5-20419313/
     publisher: Son Dakika
     date: 2026-11-12
     language: tr
   - title: İzmir'de 1 ton 367 kilo skunk ele geçirildi | Video
     url: https://www.haberturk.com/video/haber/izle/izmirde-1-ton-367-kilo-skunk-ele-gecirildi/922851
+    archived: https://web.archive.org/web/20261114040253/https://www.haberturk.com/video/haber/izle/izmirde-1-ton-367-kilo-skunk-ele-gecirildi/922851
     publisher: Habertürk
     date: 2026-11-12
     language: tr
@@ -84,6 +98,7 @@ sources:
     language: tr
   - title: 'İzmir''de dev uyuşturucu operasyonu: 1 ton 367 kilogram skunk ele geçirildi'
     url: https://www.ensonhaber.com/izmirde-dev-uyusturucu-operasyonu-1-ton-367-kilogram-skunk-ele-gecirildi-h1581791
+    archived: https://web.archive.org/web/20261114040412/https://www.ensonhaber.com/ne-tahin-ne-ceviz-kabak-tatlisi-onunla-bambaska-h1582199
     publisher: Ensonhaber
     date: 2026-11-12
     language: tr
@@ -99,16 +114,19 @@ sources:
     language: tr
   - title: İzmir'de 1 ton 346 kilogram uyuşturucu ele geçirildi
     url: https://www.trthaber.com/haber/turkiye/izmirde-1-ton-346-kilogram-uyusturucu-ele-gecirildi-937409.html
+    archived: https://web.archive.org/web/20260416143000/https://www.trthaber.com/haber/turkiye/izmirde-1-ton-346-kilogram-uyusturucu-ele-gecirildi-937409.html
     publisher: TRT Haber
     date: 2026-03-11
     language: tr
   - title: 'İzmir''de uyuşturucu operasyonu: 1 ton 367 kilo skunk ve 57 bin ecstasy hap ele geçirildi!'
     url: https://www.izmirdesondakika.com.tr/izmirde-uyusturucu-operasyonu-1-ton-367-kilo-skunk-ve-57-bin-ecstasy-hap-ele-gecirildi
+    archived: https://web.archive.org/web/20261114040536/https://www.izmirdesondakika.com.tr/izmirde-uyusturucu-operasyonu-1-ton-367-kilo-skunk-ve-57-bin-ecstasy-hap-ele-gecirildi
     publisher: İzmir'de Son Dakika
     date: 2026-11-12
     language: tr
   - title: İzmir'de 1 ton 367 kilo skunk ele geçirildi - İzmir'in En İyi Haber Sitesi
     url: https://www.izmirtime35.com/izmirde-1-ton-367-kilo-skunk-ele-gecirildi
+    archived: https://web.archive.org/web/20261114040607/https://www.izmirtime35.com/izmirde-1-ton-367-kilo-skunk-ele-gecirildi
     publisher: İzmir Time 35
     date: 2026-11-12
     language: tr
@@ -117,6 +135,8 @@ sources:
     publisher: Ege Alternatif Gazetesi
     date: 2026-11-12
     language: tr
+open_questions:
+  - Wayback redirected several secondary outlets (Haber Ege, Demokrat Gündem, Ege Alternatif) to unrelated pages, so those sources have no usable archived copy.
 ---
 
 Police in İzmir seized more than a tonne of skunk esrar, a herbal cannabis

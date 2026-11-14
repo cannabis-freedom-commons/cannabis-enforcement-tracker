@@ -58,6 +58,9 @@ sources:
     publisher: Novosti
     date: 2026-11-13
     language: sr
+open_questions:
+  - No separate date for the arrests was published; 13 November 2026 is the outlets' publication date and is used as the incident date.
+  - No photo of this Becej search or the seized marijuana was published; outlets used stock police-car, Shutterstock or Profimedia illustration pictures.
 ---
 
 Police officers of the Interior Ministry in Becej, working with the Higher

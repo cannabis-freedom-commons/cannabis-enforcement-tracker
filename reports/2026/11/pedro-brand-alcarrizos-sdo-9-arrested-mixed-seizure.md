@@ -28,9 +28,17 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a42a3b20e5fd471cde1f24a950a9c160
 tags: [dncd, santo-domingo-oeste, marihuana, microtrafico]
+media:
+  - kind: photo
+    url: https://diarioeco.com.do/ocupan-presunta-cocaina-crack-y-marihuana-en-operativos-en-santo-domingo/
+    archived: https://web.archive.org/web/20261114034756/https://diarioeco.com.do/ocupan-presunta-cocaina-crack-y-marihuana-en-operativos-en-santo-domingo/
+    media_url: https://diarioeco.com.do/wp-content/uploads/2026/11/H-9.-13112026-Ocupan-presunta-cocaina-crack-y-marihuana-en-operativos-en-Santo-Domingo-580x410.jpg
+    publisher: Diario Eco
+    caption: 'DNCD agents during a search in a Santo Domingo residence as part of the 13 November 2026 raids. Photo: DNCD / Diario Eco'
 sources:
   - title: Ocupan presunta cocaína, crack y marihuana en operativos en Santo Domingo
     url: https://diarioeco.com.do/ocupan-presunta-cocaina-crack-y-marihuana-en-operativos-en-santo-domingo/
+    archived: https://web.archive.org/web/20261114034756/https://diarioeco.com.do/ocupan-presunta-cocaina-crack-y-marihuana-en-operativos-en-santo-domingo/
     publisher: Diario Eco
     date: 2026-11-13
     language: es

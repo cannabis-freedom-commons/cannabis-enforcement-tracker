@@ -53,6 +53,7 @@ open_questions:
   - Police claimed 150 grams of charas while the forensic laboratory weighed it at 136 grams; this report records the claimed 150 grams as kg_seized.
   - The reports do not detail the accused's custody history between the December 2009 arrest and the 2026 acquittal.
   - The reports do not state whether the prosecution will appeal the acquittal.
+  - No photo of this acquittal or the 2009 recovery was published; Dainik Bhaskar and Amar Ujala used generic courtroom or gavel file pictures.
 ---
 
 An Agra court acquitted the accused in the 17-year-old case after police failed

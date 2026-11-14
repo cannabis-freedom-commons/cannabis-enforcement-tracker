@@ -38,19 +38,29 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3e4333efa70b4d470669919dd03fcac9
 tags: [bursa, yenisehir, jandarma, kubar-esrar]
+media:
+  - kind: photo
+    url: https://www.sondakika.com/3-sayfa/haber-bursa-yenisehir-de-2-kilo-160-gram-kubar-esrar-old-20425705/
+    archived: https://web.archive.org/web/20261114033024/https://www.sondakika.com/3-sayfa/haber-bursa-yenisehir-de-2-kilo-160-gram-kubar-esrar-old-20425705/
+    media_url: https://foto.sondakika.com/crop/1210x0/haber/2026/11/13/bursa-yenisehir-de-jandarma-operasyonunda-2-k-20425702_sd.jpg
+    publisher: Son Dakika
+    caption: 'Gendarmerie display of the kubar esrar, cannabis seeds, precision scale, glass pipe, unlicensed shotgun and cartridges seized in the Yenişehir vineyard-house raid, in front of a Bursa Provincial Gendarmerie Command board. Photo: İHA / Jandarma'
 sources:
   - title: Bursa Yenişehir'de 2 kilo 160 gram kubar esrar olduğu değerlendirilen madde ele geçirildi - Son Dakika
     url: https://www.sondakika.com/3-sayfa/haber-bursa-yenisehir-de-2-kilo-160-gram-kubar-esrar-old-20425705/
+    archived: https://web.archive.org/web/20261114033024/https://www.sondakika.com/3-sayfa/haber-bursa-yenisehir-de-2-kilo-160-gram-kubar-esrar-old-20425705/
     publisher: Son Dakika
     date: 2026-11-13
     language: tr
   - title: Bursa Yenişehir'de jandarma operasyonunda 2 kilo 160 gram kubar esrar ele geçirildi
     url: https://www.haberler.com/3-sayfa/bursa-yenisehir-de-jandarma-operasyonunda-2-kilo-20425702-haberi/
+    archived: https://web.archive.org/web/20261114033051/https://www.haberler.com/3-sayfa/bursa-yenisehir-de-jandarma-operasyonunda-2-kilo-20425702-haberi/
     publisher: Haberler.com
     date: 2026-11-13
     language: tr
   - title: 'Yenişehir''de bağ evinde uyuşturucu baskını: 2 kilo 160 gram esrar ve suç aletleri ele geçirildi'
     url: https://www.haberport.com/haber/yenisehirde-bag-evinde-uyusturucu-baskini-2-kilo-160-gram-esrar-ve-suc-aletleri-ele-gecirildi/68861
+    archived: https://web.archive.org/web/20261114033121/https://www.haberport.com/haber/yenisehirde-bag-evinde-uyusturucu-baskini-2-kilo-160-gram-esrar-ve-suc-aletleri-ele-gecirildi/68861
     publisher: Haberport
     date: 2026-11-13
     language: tr

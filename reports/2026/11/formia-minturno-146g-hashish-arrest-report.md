@@ -45,9 +45,17 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: eb9c570ae1c22235d6a79b87bf915ff9
 tags: [formia, minturno, hashish, guardia-di-finanza, lazio]
+media:
+  - kind: photo
+    url: https://www.latinaoggi.eu/news/cronaca/324129/operazione-antidroga-della-guardia-di-finanza-tra-scauri-e-formia-un-arresto-e-una-denuncia.html
+    archived: https://web.archive.org/web/20261114035229/https://www.latinaoggi.eu/news/cronaca/324129/operazione-antidroga-della-guardia-di-finanza-tra-scauri-e-formia-un-arresto-e-una-denuncia.html
+    media_url: https://latinaoggi.cdn.m33cloud.com/resizer/600/315/true/2026_11_13/finanza-1794556488714.jpeg--operazione_antidroga_della_guardia_di_finanza_tra_scauri_e_formia__un_arresto__una_denuncia.jpeg?1794556488877
+    publisher: Latina Oggi
+    caption: 'Guardia di Finanza Gruppo Formia officers with cash, phones and seized drugs from the Scauri–Formia operation. Photo: Guardia di Finanza / Latina Oggi'
 sources:
   - title: 'IL VIDEO | Formia e Minturno: oltre due etti di draga e soldi sequestrati: l’operazione della guardia di finanza'
     url: https://www.latinatoday.it/video/droga-due-etti-arresto-denuncia-formia-minturno.html
+    archived: https://web.archive.org/web/20261114035148/https://www.latinatoday.it/video/droga-due-etti-arresto-denuncia-formia-minturno.html
     publisher: LatinaToday
     date: 2026-11-13
     language: it
@@ -58,6 +66,7 @@ sources:
     language: it
   - title: 'Operazione antidroga della Guardia di Finanza tra Scauri e Formia: un arresto e una denuncia'
     url: https://www.latinaoggi.eu/news/cronaca/324129/operazione-antidroga-della-guardia-di-finanza-tra-scauri-e-formia-un-arresto-e-una-denuncia.html
+    archived: https://web.archive.org/web/20261114035229/https://www.latinaoggi.eu/news/cronaca/324129/operazione-antidroga-della-guardia-di-finanza-tra-scauri-e-formia-un-arresto-e-una-denuncia.html
     publisher: Latina Oggi
     date: 2026-11-13
     language: it
@@ -66,6 +75,7 @@ open_questions:
   - The two suspects were described only as two young Italians with prior drug records; no names or ages were published.
   - The 92 grams of cocaine seized in the same operation are outside the cannabis scope and are not counted in the cannabis seizure figure.
   - No court outcome beyond validation of the arrest and house arrest was reported.
+  - The Wayback Machine refused a save of one LatinaToday cronaca page (HTTP 520), so that source has no archived copy yet.
 ---
 
 The Guardia di Finanza ran an anti-drug operation in the southern Pontino area,

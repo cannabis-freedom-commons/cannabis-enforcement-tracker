@@ -53,6 +53,7 @@ open_questions:
   - No weight or number of cannabis items was published, so no quantity is recorded, and the report does not say whether the possession was herbal cannabis or another product.
   - The £85 order and the further £26 surcharge are not broken down between the cannabis matter and any other offence, so £85 is recorded as the fine and the £26 surcharge is noted separately.
   - The other cases in the same round-up (shoplifting, drug-driving above the controlled drug limit, waste deposit, criminal damage and speeding) do not establish a cannabis component and are left out here.
+  - No photo of this hearing was published; Bucks Free Press used its generic 'In the Dock' court-round-up graphic.
 ---
 
 Rorie Jeffs, 25, of 67A Stoke Road, Aylesbury, was found guilty of possession of

@@ -26,6 +26,8 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-13
     language: hi
+open_questions:
+  - No photo of these arrests or the seized ganja was published; Amar Ujala used a 2021 Faridabad city-section file picture.
 ---
 
 Faridabad Crime Branch teams arrested two accused at two different places over

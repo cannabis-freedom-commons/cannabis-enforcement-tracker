@@ -46,6 +46,7 @@ sources:
     date: 2026-11-13
     language: hi
 open_questions:
+  - No photo of this charas case was published; Amar Ujala used a 2021 Gorakhpur city-section file picture.
   - No separate date is given for the Gangster Act FIR; 13 November 2026 is the article's publication date and is used as the incident date for this latest step.
   - The arrest is dated only as 7 September and the chargesheet as 22 September without years; both are taken to be in 2026 from the November 2026 publication context.
   - No value estimate for the seized charas was published.

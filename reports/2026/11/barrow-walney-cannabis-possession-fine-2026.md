@@ -30,6 +30,7 @@ open_questions:
   - The article does not state a separate hearing date; 13 November 2026 is its publication date and is used as the incident date.
   - No weight or quantity of cannabis is given; only that a sealed bag was recovered.
   - The article says the defendant already had a caution for possessing cannabis from December 2025, but the exact charge and court outcome for that earlier incident are not stated.
+  - No photo of this seizure or hearing was published; The Mail used a stock picture of cannabis in cupped hands.
 ---
 
 Joel Niven, of Gatacre Street on Walney, came to the attention of officers on 7

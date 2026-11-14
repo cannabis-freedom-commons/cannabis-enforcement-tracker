@@ -43,6 +43,12 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1b428668b30665112daf6ac864903b2f
 tags: [puerto-natales, magallanes, carabineros, encomienda]
+media:
+  - kind: photo
+    url: https://www.itvpatagonia.com/noticias/policial-tribunales/13-11-2026/dos-jovenes-fueron-detenidos-por-trafico-de-drogas-tras-detectar-marihuana-oculta-en-un-parlante-en-natales/
+    media_url: https://rhk91h.infiniteuploads.cloud/2026/11/WhatsApp-Image-2026-11-13-at-11.46.29-AM.jpeg
+    publisher: ITV Patagonia
+    caption: 'Carabineros OS-7 display of the portable speaker and wrapped marijuana packages seized in the Puerto Natales parcel case, on an OS-7 table with the anti-drug department plaque. Photo: Carabineros de Chile'
 sources:
   - title: Dos jóvenes fueron detenidos por tráfico de drogas tras detectar marihuana oculta en un parlante en Natales
     url: https://www.itvpatagonia.com/noticias/policial-tribunales/13-11-2026/dos-jovenes-fueron-detenidos-por-trafico-de-drogas-tras-detectar-marihuana-oculta-en-un-parlante-en-natales/
@@ -54,6 +60,7 @@ open_questions:
   - The two detainees were not named, and no detention-control hearing, formalisation or court outcome was reported.
   - No field-test, laboratory confirmation or valuation of the seized marijuana was reported.
   - The whole account rests on a single report relaying the Carabineros version, with no independent witness or court record published.
+  - The Wayback Machine refused a save of the ITV Patagonia page (HTTP 520), so the source has no archived copy yet.
 ---
 
 Carabineros detained two 20-year-old Chilean men in Puerto Natales for alleged

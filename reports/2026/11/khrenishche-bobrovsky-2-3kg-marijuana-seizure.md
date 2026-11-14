@@ -31,6 +31,7 @@ open_questions:
   - No court outcome has been reported; the case was at the investigation stage and the man was reported to be held in a temporary detention facility.
   - Left out arrested, as no supporting quotation was given.
   - Left out kg seized, as no supporting quotation was given.
+  - No photo of this seizure was published; Komsomolskaya Pravda labelled its lead image as from the KP archive.
 ---
 
 The suspect is a 39-year-old resident of the khutor of Khrenishche in Bobrovsky

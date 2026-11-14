@@ -51,6 +51,7 @@ open_questions:
   - No cannabis weight, plant count or marijuana value was published, so no cannabis kilograms or plants are recorded.
   - The source is a single local staff report; no separate ATF or court document was opened.
   - Co-defendant Diamond Taylor is scheduled to be sentenced on 3 December 2026, so that outcome remains unknown.
+  - No photo of this sentencing or the firearms was published; Mahoning Matters used a stock judge's-gavel picture.
 ---
 
 Gary Robinson, 27, of Akron, was sentenced to 96 months (eight years) in prison

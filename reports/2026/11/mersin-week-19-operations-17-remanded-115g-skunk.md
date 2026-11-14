@@ -44,14 +44,23 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5f182a2318364528c1c180d5fd406507
 tags: [turkey, mersin, esrar, skunk, narkotik]
+media:
+  - kind: photo
+    url: https://www.dha.com.tr/yerel-haberler/mersin/mersinde-19-operasyon-17-tutuklama-2981385
+    archived: https://web.archive.org/web/20261114034727/https://www.dha.com.tr/yerel-haberler/mersin/mersinde-19-operasyon-17-tutuklama-2981385
+    media_url: https://image.dha.com.tr/i/dha/75/1200x675/6af72a6fd13871ed749ef1f1.jpg
+    publisher: DHA (Demirören Haber Ajansı)
+    caption: 'Mersin narcotics police collage of the week’s seizures, including displays labelled ESRAR with cannabis plant material, cash, phones and other drugs before the Mersin narcotics branch board. Photo: Mersin Emniyet / DHA'
 sources:
   - title: Mersin’de 19 operasyon, 17 tutuklama
     url: https://mersinhaberci.com/haber/70601/mersinde-19-operasyon-17-tutuklama.html
+    archived: https://web.archive.org/web/20261114034658/https://mersinhaberci.com/haber/70601/mersinde-19-operasyon-17-tutuklama.html
     publisher: Mersin Haberci Gazetesi
     date: 2026-11-13
     language: tr
   - title: Mersin'de 19 operasyon, 17 tutuklama
     url: https://www.dha.com.tr/yerel-haberler/mersin/mersinde-19-operasyon-17-tutuklama-2981385
+    archived: https://web.archive.org/web/20261114034727/https://www.dha.com.tr/yerel-haberler/mersin/mersinde-19-operasyon-17-tutuklama-2981385
     publisher: DHA (Demirören Haber Ajansı)
     date: 2026-11-13
     language: tr

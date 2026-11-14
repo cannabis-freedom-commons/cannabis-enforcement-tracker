@@ -21,14 +21,23 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fb37dff3afb5dec5714d6fb8f7966629
 tags: [igoumenitsa, thesprotia, epirus, cannabis, car-seizure, drug-pursuit]
+media:
+  - kind: photo
+    url: https://www.ertnews.gr/perifereiakoi-stathmoi/ioanina/igoumenitsa-katasxethikan-pano-apo-86-kila-kannavis-se-aytokinito/
+    archived: https://web.archive.org/web/20261114033448/https://www.ertnews.gr/perifereiakoi-stathmoi/ioanina/igoumenitsa-katasxethikan-pano-apo-86-kila-kannavis-se-aytokinito/
+    media_url: https://www.ertnews.gr/wp-content/uploads/2026/11/katasxemena-narkotika-1-1.jpg
+    publisher: ΕΡΤ News
+    caption: 'Vacuum-sealed packages of raw cannabis from the Igoumenitsa car seizure, stacked on a wood floor. Photo: ΕΡΤ'
 sources:
   - title: 'Ηγουμενίτσα: Συνελήφθη αλλοδαπή με περισσότερα από 86 κιλά κάνναβης σε αυτοκίνητο'
     url: https://www.maxitisartas.gr/single_page.php?catid=&id=41383
+    archived: https://web.archive.org/web/20261114033419/https://www.maxitisartas.gr/single_page.php?catid=&id=41383
     publisher: Μαχητής Άρτας
     date: 2026-11-13
     language: el
   - title: 'Ηγουμενίτσα: Κατασχέθηκαν πάνω από 86 κιλά κάνναβης σε αυτοκίνητο'
     url: https://www.ertnews.gr/perifereiakoi-stathmoi/ioanina/igoumenitsa-katasxethikan-pano-apo-86-kila-kannavis-se-aytokinito/
+    archived: https://web.archive.org/web/20261114033448/https://www.ertnews.gr/perifereiakoi-stathmoi/ioanina/igoumenitsa-katasxethikan-pano-apo-86-kila-kannavis-se-aytokinito/
     publisher: ΕΡΤ News
     date: 2026-11-13
     language: el
