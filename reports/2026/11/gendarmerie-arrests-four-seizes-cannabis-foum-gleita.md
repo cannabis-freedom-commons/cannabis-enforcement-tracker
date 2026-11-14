@@ -49,6 +49,11 @@ sources:
     publisher: edostour.info
     date: 2026-11-13
     language: ar
+  - title: La Gendarmerie saisit des boissons alcoolisées et des drogues à M'Bout et arrestation de quatre suspects
+    url: https://cridem.org/C_Info.php?article=798420
+    publisher: Cridem / Rimnow
+    date: 2026-11-13
+    language: fr
 open_questions:
   - The reports give no separate date for the raid itself, so 13 November 2026, the publication date of both reports, stands in for the event date.
   - No weight or estimated value was published for the 22 cannabis packs or the 48 hashish rolls.
@@ -57,19 +62,18 @@ open_questions:
 
 The M'Bout detachment of Mauritania's National Gendarmerie, attached to the
 Kaedi gendarmerie battalion, detained four people in the commune of Foum Gleita
-on suspicion of consuming alcohol and drugs inside a house in the village. [@1]
+on suspicion of consuming alcohol and drugs inside a house in the village. [@1,3]
 Foum Gleita is a commune in M'Bout district in the southern Gorgol region, and
 the house where the four were held was inside that village. [@2]
 
 In a statement issued on Thursday evening, the gendarmerie said officers seized
 24 bottles of whisky, 22 small packs of Indian hemp, a term used in Mauritania
-for cannabis, and 48 rolls of hashish in the operation. [@1] A second
+for cannabis, and 48 rolls of hashish in the operation. [@1,3] A second
 Mauritanian outlet reported the same operation with the same figures, confirming
 24 whisky bottles, 22 small cannabis packs and 48 hashish rolls seized by the
 National Gendarmerie in Foum Gleita. [@2] The gendarmerie described the
 operation as part of its continuing national effort to combat drugs and
 psychoactive substances, limit their spread and strengthen security across the
-country. [@1] Officers counted the cannabis separately from the alcohol as 22
+country. [@1,3] Officers counted the cannabis separately from the alcohol as 22
 small packs of Indian hemp and 48 rolls of hashish, rather than giving a
 combined weight for the seizure. [@1]
-
