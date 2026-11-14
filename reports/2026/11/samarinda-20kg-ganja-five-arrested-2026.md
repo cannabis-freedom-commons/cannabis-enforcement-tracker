@@ -23,6 +23,16 @@ media:
     media_url: https://asset.tribunnews.com/lmhNSG-qKnUabbUV0syqQ6IykuE=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/kaltim/foto/bank/originals/20261113_Polresta-Samarinda-menyita-barang-bukti-berupa-20-kilogram-ganja-dan-ekstasi.jpg
     publisher: Tribun Kaltim
     caption: 'Photo of the seized evidence from the Samarinda narcotics bust, showing 20 kg of cannabis and ecstasy. Photo: Tribun Kaltim / Gregorius Agung Salmon'
+  - kind: photo
+    url: https://www.prokal.co/amp/kriminal/2611140001/jaringan-narkoba-berkedok-pengiriman-pakan-kucing-dibongkar-polresta-samarinda-sita-ganja-194-kg
+    media_url: https://cdn-jjmn.jawapos.com/images/8/2026/11/14/barang-bukti-yang-diamankan-5AKgV.webp
+    publisher: Prokal
+    caption: Seized evidence from the Samarinda narcotics bust.
+  - kind: photo
+    url: https://www.prokal.co/amp/kriminal/2611140001/jaringan-narkoba-berkedok-pengiriman-pakan-kucing-dibongkar-polresta-samarinda-sita-ganja-194-kg
+    media_url: https://cdn-jjmn.jawapos.com/images/8/2026/11/14/lima-tersangka-diamankan-G3Sd0.webp
+    publisher: Prokal
+    caption: The five detained suspects in the Samarinda narcotics bust.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e4e0c7a05ea4c1ced9c0e8862a0c6bbc
@@ -38,24 +48,29 @@ sources:
     publisher: Tribun Kaltim
     date: 2026-11-13
     language: id
+  - title: Jaringan Narkoba Berkedok Pengiriman Pakan Kucing Dibongkar, Polresta Samarinda Sita Ganja 19,4 Kg
+    url: https://www.prokal.co/amp/kriminal/2611140001/jaringan-narkoba-berkedok-pengiriman-pakan-kucing-dibongkar-polresta-samarinda-sita-ganja-194-kg
+    publisher: Prokal
+    date: 2026-11-14
+    language: id
 open_questions:
-  - The five suspects have not been formally charged; their roles in the network and the charges are to be announced at the 13 November press conference.
-  - The report mentions only the cannabis weight (20 kg); the weights of the other seized substances (19.99 g ecstasy, 15 packets synthetic tobacco, 20 etomidate pills) are not converted to kilograms and are not included in the cannabis figure.
-  - No figure for the value of the seized drugs was published.
-  - The specific locations within Samarinda where the raids took place were not named in this report.
+    - No formal charges against the five suspects had been reported.
+    - The alleged controller AR alias RR remained at large and no asset or money-flow results had been reported.
+    - No trial, sentence or other court outcome had been reported.
+    - The Rp1,858,430,000 value and 6,000-people estimates cover all seized narcotics together, with no separate cannabis value given.
 ---
 
 Samarinda police narcotics unit arrested five suspects in a series of raids on 5
-and 6 November 2026 at multiple locations in Samarinda, East Kalimantan. [@1,2]
+and 6 November 2026 at multiple locations in Samarinda, East Kalimantan. [@1,2,3]
 Police seized 20 kilograms of cannabis (ganja), 19.99 grams of ecstasy, 15
 packets of synthetic tobacco and 20 pills of etomidate from the five suspects.
-[@1,2]
+[@1,2,3] The chili powder was added to fool officers and sniffer dogs. [@3] The network used a goods-delivery service, hiding narcotics in cat-food packaging dusted with chili powder. [@3] From FB officers seized 22.1 grams of cannabis and 15.37 grams of synthetic tobacco. [@3] At the second location officers seized 40 packs of cannabis totalling 19.192 kilograms disguised in cat-food packaging. [@3]
 
 The operations began on Thursday 5 November 2026 at around 20:00 WITA with the
-seizure of ecstasy, followed by the cannabis seizure the next day. [@1]
+seizure of ecstasy, followed by the cannabis seizure the next day. [@1] The third raid detained FB alias E on Jalan MT Haryono in Samarinda the same evening at about 23.00 WITA. [@3] The second raid detained RP, MA and JF on Jalan Pangeran Suryanata in Samarinda on 6 November 2026 at about 21.00 WITA. [@3] From MH officers seized a car, cat-food packaging, 1,999 ecstasy pills, 20 etomidate cartridges and 253.75 grams net of cannabis. [@3] The first raid detained MH on Jalan Sungai Kapih in Samarinda on 6 November 2026 at about 20.00 WITA. [@3]
 
 All five suspects were brought to the Samapolresta audit hall for ongoing
-interrogation and further network development. [@1] Samarinda police
+interrogation and further network development. [@1] Investigators were still tracing assets and money flows and hunting fugitive controller AR alias RR. [@3] Police put the total sale value at Rp1,858,430,000 and said the seizure could save about 6,000 people in Samarinda from drug abuse. [@3] Police traced the narcotics to northern Sumatra, sent under an anonymous sender name to a fictitious address pointing to a Samarinda pet shop. [@3] Samarinda police
 spokesperson Ipda Arie Soeharyadi confirmed that the case would be formally
 presented at a press conference led by the chief of police on 13 November 2026.
-[@1]
+[@1] Police said the network was controlled by fugitive AR alias RR and had three operational legs in Samarinda. [@3]
