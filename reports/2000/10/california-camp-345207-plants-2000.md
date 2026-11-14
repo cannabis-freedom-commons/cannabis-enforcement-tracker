@@ -51,6 +51,7 @@ sources:
   - title: CA Law Enforcement Claims Record Marijuana Haul During 2000 Harvest
     publisher: NORML
     url: https://norml.org/news/2000/10/26/ca-law-enforcement-claims-record-marijuana-haul-during-2000-harvest/
+    archived: https://web.archive.org/web/20260601192002/https://norml.org/news/2000/10/26/ca-law-enforcement-claims-record-marijuana-haul-during-2000-harvest/
     date: 2000-10-26
 ---
 

@@ -45,6 +45,7 @@ sources:
   - title: IRIN Update 775 of events in West Africa
     publisher: IRIN
     url: https://reliefweb.int/report/cameroon/irin-update-775-events-west-africa
+    archived: https://web.archive.org/web/20260310194810/https://reliefweb.int/report/cameroon/irin-update-775-events-west-africa
     date: 2000-08-04
 ---
 

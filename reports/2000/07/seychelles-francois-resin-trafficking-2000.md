@@ -31,6 +31,7 @@ sources:
   - title: R v Francois, 26 July 2000, (2000) SLR 103
     publisher: Seychelles Supreme Court
     url: https://sheriahub.com/cases/sc/caselaw/r-v-francois-co-34-of-1998-2000-scsc-11-26-july-2000
+    archived: https://web.archive.org/web/20261026165428/https://sheriahub.com/cases/sc/caselaw/r-v-francois-co-34-of-1998-2000-scsc-11-26-july-2000
     type: law
     year: 2000
     locator: >-
@@ -40,6 +41,7 @@ sources:
   - title: New law to boost fight against drugs, 7 April 2016
     publisher: Seychelles Nation
     url: https://www.nation.sc/archive/248994/new-law-to-boost-fight-against-drugs
+    archived: https://web.archive.org/web/20250222214635/https://www.nation.sc/archive/248994/new-law-to-boost-fight-against-drugs
 ---
 
 Robin Francois was convicted of cannabis trafficking after police found individually wrapped portions of resin during a raid on his home. In July 2000, Seychelles' Supreme Court explained why the packaging mattered: knowing possession of more than 25 grams triggered a presumption of trafficking, and the wrapped portions also supported an inference that the resin was being prepared for supply.[@1]

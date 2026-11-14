@@ -38,6 +38,7 @@ tags: [malawi, blantyre, chamba, rastafarian, possession]
 sources:
   - title: Malawi Rastas' marijuana struggle
     url: http://news.bbc.co.uk/2/hi/africa/920052.stm
+    archived: https://web.archive.org/web/20251214082641/http://news.bbc.co.uk/2/hi/africa/920052.stm
     publisher: BBC News
     date: 2000-09-11
 open_questions:

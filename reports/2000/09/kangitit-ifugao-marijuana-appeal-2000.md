@@ -51,6 +51,7 @@ open_questions:
 sources:
   - title: People of the Philippines v. David Banawor, et al. (G.R. No. 131927)
     url: https://chanrobles.com/cralaw/2000septemberdecisions.php?id=1065
+    archived: https://web.archive.org/web/20200202193836/http://www.chanrobles.com:80/cralaw/2000septemberdecisions.php?id=1065
     publisher: Supreme Court of the Philippines (via ChanRobles)
     date: 2000-09-20
   - title: G.R. No. 131927 - People of the Philippines vs. David Banawor

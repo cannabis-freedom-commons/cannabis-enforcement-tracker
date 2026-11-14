@@ -44,6 +44,7 @@ sources:
   - title: Marijuana Crops Raided
     publisher: CannabisNews (Rapid City Journal)
     url: https://www.cannabisnews.com/news/6/thread6855.shtml
+    archived: https://web.archive.org/web/20260314030421/https://www.cannabisnews.com/news/6/thread6855.shtml
     date: 2000-08-28
   - title: US criticized for hemp raid
     publisher: Indianz.com
