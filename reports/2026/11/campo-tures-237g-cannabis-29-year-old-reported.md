@@ -69,6 +69,11 @@ sources:
     publisher: stol.it
     date: 2026-11-13
     language: de
+  - title: 'Stretta contro lo spaccio, sequestro di hashish e marijuana: due casi in poche ore'
+    url: https://www.trentotoday.it/cucina/stretta-contro-spaccio-due-interventi-poche-ore-campo-tures.html
+    publisher: TrentoToday
+    date: 2026-11-13
+    language: it
 ---
 
 A 29-year-old Italian man was reported at liberty in Sand in Taufers (Campo
@@ -76,11 +81,11 @@ Tures), South Tyrol, after Carabinieri targeted him during intensified anti-drug
 checks. [@2,4] The man was already known to police for relevant previous offences,
 and the personal check was immediately extended to his habitual home. [@2,5] The
 searches uncovered 127 grams of marijuana, 10 grams of hashish and a precision
-scale, which officers seized. [@1,5,6]
+scale, which officers seized. [@1,5,6,7]
 
 Hours later, officers found and seized a carefully hidden block of approximately
 100 grams of hashish at the edge of a residential area in Campo Tures, bringing
-the cannabis total to about 237 grams. [@2,5,6] The block was initially attributed
+the cannabis total to about 237 grams. [@2,5,6,7] The block was initially attributed
 to unknown persons, and officers were investigating its exact origin and who had
 held it. [@2,5,6]
 
