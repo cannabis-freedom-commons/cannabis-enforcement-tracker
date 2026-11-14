@@ -61,6 +61,15 @@ sources:
     publisher: ARASIYAL TODAY
     date: 2026-11-13
     language: ta
+  - title: 'கஞ்சா விற்பனை: 4 பேருக்கு 12 ஆண்டுகள் சிறை'
+    url: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/13/cannabis-sale12-year-prison-sentences-for-4-individuals
+    publisher: Dinamani
+    date: 2026-11-13
+    language: ta
+  - title: '2024 Ganja Smuggling Case: Coimbatore Court Sentences Four, Including Woman, to 12 Years in Prison'
+    url: https://simplicity.in/v1/coimbatore/english/news/134963/2024-ganja-smuggling-case-coimbatore-court-sentences-four-including-woman-to-12-years-in-prison
+    publisher: SimpliCity
+    date: 2026-11-13
 media:
   - kind: photo
     url: https://www.newscloudscoimbatore.com/avinashi-37-kg-ganja-smuggling-coimbatore-court-verdict/
@@ -79,21 +88,24 @@ open_questions:
     - The sources say the ganja was brought by train from the northern states but name no origin state, boarding point or carrier.
     - 'Left out, as its quotation was not found in தினமலர் (Dinamalar): When officers reached the area near the lorry stand, four people standing there dropped the sacks they were holding and fled.'
     - A third account says the four were found hiding near a fruit shop, while the report says near a tea shop.
+    - Dinamani reports 50 kg of ganja and a fine of Rs 2 lakh per person, differing from 37 kg and Rs 1 lakh in the other accounts, including SimpliCity; the report retains 37 kg and Rs 1 lakh.
+    - Dinamani lists the four at ages 22, 35, 26 and 35, differing from the ages 37, 28, 24 and 37 given in the earlier account.
+    - Dinamani published on 13 November 2026 says the case came up on Friday, while 11 November 2026 is retained as the verdict date from the earlier dating.
 ---
 
 The special court for narcotic drugs cases in Coimbatore delivered its verdict
 on 11 November 2026. [@1] Judge Rajalingam sentenced each of the four convicted
-people to 12 years in prison and fined each of them Rs 1 lakh. [@1,3] One of the
+people to 12 years in prison and fined each of them Rs 1 lakh. [@1,3,4] One of the
 four people sentenced was a woman. [@2,3] Special public prosecutor Vishnuchithar
 appeared for the government side. [@1]
 
 Avinashi police in Tiruppur district were on patrol on 19 February 2024. [@1]
-The four bags held 37 kg of ganja. [@1,3] Avinashi police arrested the four after
-finding them hiding near a tea shop. [@2]
+The four bags held 37 kg of ganja. [@1,3,5] Avinashi police arrested the four after
+finding them hiding near a tea shop. [@2,4]
 
 The four were aged 37, 28, 24 and 37 and came from the Murshidabad area of West
 Bengal. [@1] They had brought the ganja to supply it in the Avinashi area. [@1]
 Police said they had smuggled the ganja by train from the northern states and
 planned to distribute it in the Coimbatore and Tiruppur areas. [@2,3] Police
 submitted the seized ganja and CCTV footage as evidence to the court. [@2,3] The
-four sentenced people are lodged in Coimbatore Central Prison. [@2,3]
+four sentenced people are lodged in Coimbatore Central Prison. [@2,3,5]
