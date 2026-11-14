@@ -68,25 +68,30 @@ sources:
     url: https://www.thesouthafrican.com/news/zimbabwe/zimbabwean-duo-arrested-for-dealing-in-dagga/
     publisher: The South African
     date: 2025-12-06
+  - title: Over 16 000 suspects arrested for various crimes
+    url: https://www.sanews.gov.za/south-africa/over-16-000-suspects-arrested-various-crimes
+    publisher: SAnews
+    date: 2025-12-10
 open_questions:
   - The R1.2 million figure is the police-estimated street value, not a confirmed market price.
   - No outcome beyond the remand to 28 January 2026 has been reported.
   - The IOL account truncates the loading-point name given in full as Tshelejuba in the Truck and Freight account.
+  - The roundup gives no weight for the six bags, so the existing 200kg figure still rests on the earlier sources.
 ---
 
 Mahamba police on routine crime-prevention patrols stopped a truck carrying two
 Zimbabwean nationals on the N2 near Mahamba at about 20:35 on 4 December 2025.
 [@1] The two men were identified as Tinashe Chitsamba, aged 40, and Oscar
 Mutsetemari, aged 45. [@1] Both men were arrested for dealing in dagga and for
-being illegal immigrants. [@1]
+being illegal immigrants. [@1,4]
 
-Officers found six big bags of compressed dagga at the back of the truck. [@1,3]
+Officers found six big bags of compressed dagga at the back of the truck. [@1,3,4]
 Police said the dagga weighed about 200 kilogrammes and had an estimated street
-value of R1.2 million. [@2,3] Police seized the dagga and also confiscated the
+value of R1.2 million. [@2,3,4] Police seized the dagga and also confiscated the
 truck for further investigation. [@1]
 
 The men told police they were travelling from Empangeni and were en route to
 Zimbabwe with dagga loaded at Tshelejuba, east of Mahamba, in KwaZulu-Natal.
-[@1] Chitsamba and Mutsetemari appeared in the Mkhondo Magistrate's Court on
+[@1,4] Chitsamba and Mutsetemari appeared in the Mkhondo Magistrate's Court on
 dealing in dagga charges and were remanded in custody. [@1] The duo will
 reappear in court on 28 January 2026 pending further investigation. [@1,3]
