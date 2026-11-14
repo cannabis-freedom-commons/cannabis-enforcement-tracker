@@ -46,10 +46,11 @@ sources:
     publisher: ΤΟΜΗ στην ενημέρωση
     date: 2026-11-13
     language: el
-open_questions:
-  - The woman's nationality is not given; she is described only as a foreign national.
-  - No figure for the street value of the cannabis was published.
-  - No court outcome is reported yet; the detainee was expected to be brought to the prosecutor's office.
+  - title: 'ΗΓΟΥΜΕΝΙΤΣΑ: ΣΥΝΕΛΗΦΘΗ ΓΥΝΑΙΚΑ ΜΕ ΠΕΡΙΣΣΟΤΕΡΑ ΑΠΟ 86 ΚΙΛΑ ΚΑΝΝΑΒΗΣ ΣΤΟ ΑΥΤΟΚΙΝΗΤΟ ΤΗΣ'
+    url: https://www.ioannina24.gr/%CE%B5%CE%B9%CE%B4%CE%B7%CF%83%CE%B5%CE%B9%CF%82/%CE%B7%CF%80%CE%B5%CE%B9%CF%81%CF%89%CF%84%CE%B9%CE%BA%CE%B7-%CE%B5%CF%80%CE%B9%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CF%84%CE%B7%CF%84%CE%B1/ipirotika_nea/1652687-%CE%B7%CE%B3%CE%BF%CF%85%CE%BC%CE%B5%CE%BD%CE%AF%CF%84%CF%83%CE%B1-%CF%83%CF%85%CE%BD%CE%B5%CE%BB%CE%AE%CF%86%CE%B8%CE%B7-%CE%B3%CF%85%CE%BD%CE%B1%CE%AF%CE%BA%CE%B1-%CE%BC%CE%B5-%CF%80%CE%B5%CF%81%CE%B9%CF%83%CF%83%CF%8C%CF%84%CE%B5%CF%81%CE%B1-%CE%B1%CF%80%CE%8C-86-%CE%BA%CE%B9%CE%BB%CE%AC-%CE%BA%CE%AC%CE%BD%CE%BD%CE%B1%CE%B2%CE%B7%CF%82-%CF%83%CF%84%CE%BF-%CE%B1%CF%85%CF%84%CE%BF%CE%BA%CE%AF%CE%BD%CE%B7%CF%84%CF%8C-%CF%84%CE%B7%CF%82
+    publisher: ioannina24.gr
+    date: 2026-11-13
+    language: el
 ---
 
 Police of the Drug Pursuit Division of the Igoumenitsa Sub-directorate of
@@ -58,9 +59,9 @@ morning in Igoumenitsa, blocking its further transport. [@1,3] A foreign nationa
 was arrested in connection with the case, against whom a felony indictment was
 opened. [@1,3] As part of targeted checks, the officers stopped a small car that
 the foreign woman was driving and that she owned, inside which they found 80
-bundles of raw cannabis, totalling 86 kg 438 g. [@1,3] The drugs and the car were
+bundles of raw cannabis, totalling 86 kg 438 g. [@1,3,4] The drugs and the car were
 confiscated, and the detainee is expected to be brought to the Thesprotia First
-Instance Magistrate's Office. [@1,3]
+Instance Magistrate's Office. [@1,3,4]
 
 The arrested driver of the car was a 31-year-old foreign national. [@2] The
 cannabis was packaged into 80 bundles that were found inside the woman's car
