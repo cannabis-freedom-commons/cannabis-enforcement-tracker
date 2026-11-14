@@ -81,6 +81,11 @@ sources:
     publisher: Rádio Pioneira FM
     date: 2026-11-13
     language: pt
+  - title: Operação policial prende dois homens e apreende mais de R$ 10 mil em drogas em Guarapuava
+    url: https://gmaisnoticias.com/operacao-policial-prende-dois-homens-e-apreende-mais-de-r-10-mil-em-drogas-em-guarapuava
+    publisher: G+ Notícias
+    date: 2026-11-13
+    language: pt
 ---
 
 Police operations in Guarapuava and Pinhão resulted in the seizure of 22.39 kg
@@ -91,12 +96,12 @@ cannabis and cocaine in the Boqueirão district of Guarapuava. [@1]
 
 The joint operation of the military and civil police took place at 12h26, after
 an intelligence review indicated that a 21-year-old man monitored by electronic
-ankle brace was selling drugs from home. [@1] During the approach near the
+ankle brace was selling drugs from home. [@1,7] During the approach near the
 property, the officers found two portions of ice-type cannabis in the suspect's
-clothes. [@1] Searches of the two properties, authorized by residents, located
+clothes. [@1,7] Searches of the two properties, authorized by residents, located
 521.06 grams of pressed cannabis, 194.49 grams of ice-type cannabis and 78.59
 grams of cocaine. [@1] The report estimates the value of the drugs seized in
-Boqueirão at more than R$10,700. [@1]
+Boqueirão at more than R$10,700. [@1,7]
 
 At around 22h20, rural patrol teams found a crashed VW Gol on the shoulder of
 kilometre 6 of the PR-459 in Pinhão. [@1] During the search, the officers found
@@ -146,4 +151,3 @@ in a package located a few metres from the car. Questioned, the man reported
 that he had picked up the load in Chapecó (SC) and would receive R$4,000 for the
 transport. He was arrested in flagrante and taken, together with the drugs and
 the vehicle, to the Pinhão Civil Police station. [@6]
-
