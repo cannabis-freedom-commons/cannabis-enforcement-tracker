@@ -78,38 +78,36 @@ sources:
     publisher: صدى البلد
     date: 2026-11-03
     language: ar
-open_questions:
-  - No weight was published for the hashish; only a quantity, two large slabs and 17 large pieces were described, so no cannabis weight is recorded.
-  - The article gives no separate date for the roadside arrest; 3 November 2026 is the publication date and, with the verdict described as issued on Tuesday, is used as the sentence date.
-  - The three defendants are identified only by initials, with an age given only for the first man, so full names are not recorded.
-  - The 1,400 pounds and mobile phones are reported without saying the cash was drug proceeds, and no cannabis-only valuation was published.
-  - The 50,000-pound fine was imposed on each man; figures records the per-person amount rather than a combined total.
-  - Firearms and ammunition were part of the same conviction and are mentioned only to explain the mixed case; no separate firearms penalty is recorded.
+  - title: السجن 15 عامًا لـ 3 تجار مخدرات صدموا شرطيًا بأسيوط
+    url: https://ekhbary24.com/article/52374
+    publisher: إخباري 24 نيوز
+    date: 2026-11-13
+    language: ar
 ---
 
 The Tenth Circuit of the Asyut Criminal Court sentenced three men to 15 years of
 aggravated imprisonment each and fined each of them 50,000 Egyptian pounds for
 possessing drugs, firearms and ammunition after a security checkpoint in Nazlet
-Abdallah in the Second Asyut district. [@1,2,3,4,5,6,7] The report was published on 3
+Abdallah in the Second Asyut district. [@1,2,3,4,5,6,7,8] The report was published on 3
 November 2026. [@1] The panel was headed by Judge Ahmed Abdel-Tawab Saleh with
 Judge Romil Shehata Amin as member, with prosecutor Ahmed Fathi present and Adel
-Abu El-Reesh and Zakaria Hafez as court secretaries. [@1,6,7] The case was filed as
+Abu El-Reesh and Zakaria Hafez as court secretaries. [@1,6,7,8] The case was filed as
 No. 2332 of 2026, Second Asyut felonies, after a patrol in Nazlet Abdallah
 stopped a private car driven by 20-year-old Khaled M. with Mohamed A. and Ayman
-S. aboard for a criminal check. [@1,2,3,4,6,7]
+S. aboard for a criminal check. [@1,2,3,4,6,7,8]
 
 When officers tried to stop the car, the driver reversed at high speed, one of
 the men threw a shotgun from the car, the driver rammed a plainclothes policeman
-and injured him, then drove the wrong way to flee. [@1,6,7] Police chased the car
+and injured him, then drove the wrong way to flee. [@1,6,7,8] Police chased the car
 until it hit a concrete block beside the road, then overpowered and arrested the
 three men. [@1,5,6,7] Searching the first man found a pistol, a quantity of hashish
 essence hidden in his clothes and 1,400 pounds, while the second man carried a
 large slab of hashish and a mobile phone and the third carried a large slab of
-the same drug. [@1,3,4,7] Searching the car found 17 large pieces of hashish, a
-cannabis resin. [@1,2,3,4,5,6,7]
+the same drug. [@1,3,4,7,8] Searching the car found 17 large pieces of hashish, a
+cannabis resin. [@1,2,3,4,5,6,7,8]
 
 Confronted with the seizures, the men admitted possessing the drugs for
-trafficking and the firearms and ammunition for self-defence. [@1,6,7] The court
+trafficking and the firearms and ammunition for self-defence. [@1,6,7,8] The court
 treated the hashish, the cannabis product in this case, together with the
 weapons as the basis for the trafficking convictions. [@1]
 
