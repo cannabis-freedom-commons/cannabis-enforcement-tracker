@@ -75,12 +75,20 @@ sources:
     publisher: Aragón Digital
     date: 2026-11-12
     language: es
+  - title: Investigada una comerciante del Alto Gállego por vender cogollos de cannabis como derivados de CBD
+    url: https://www.diariodelaltoaragon.es/noticias/comarcas/2026/11/12/investigada-una-comerciante-alto-gallego-por-vender-cogollos-cannabis-como-derivados-cbd-2067893.html
+    publisher: Diario del Alto Aragón
+    date: 2026-11-12
+    language: es
+open_questions:
+    - The laboratory analysis of the substances sent to the health area of the Government Delegation in Zaragoza had not been reported.
+    - No date was given for the investigated woman's appearance before the Tribunal de Instancia in Jaca.
 ---
 
 The Guardia Civil is investigating a 44-year-old woman as the suspected author
 of a crime against public health for selling cannabis buds in a shop in the Alto
 Gállego comarca. [@1,3] The shop sold cannabis-derived products marketed as CBD.
-[@1,3,4] She was the person responsible for the shop, a 44-year-old neighbour of the
+[@1,3,4] The trade in cannabis derivatives is subject to state oversight. [@7] She was the person responsible for the shop, a 44-year-old neighbour of the
 Alto Gállego comarca. [@1,3,4]
 
 On 26 October 2026 officers from the Sabiñánigo post of the Guardia Civil,
@@ -89,14 +97,14 @@ the shop because that trade is subject to state control. [@1,3,4,5,6] On the she
 view of the public, they found numerous bags of flowering tops, commonly called
 cogollos, supposedly from the cannabis sativa plant. [@1,3,4] During the operation
 the bags were on display for sale to the public. [@2,3,4] Preliminary reagent tests
-for the possible presence of narcotic substances were positive. [@1,3,4,5] Officers
+for the possible presence of narcotic substances were positive. [@1,3,4,5,7] Officers
 seized 74 bags, corresponding to about 30 different sale formats of flavours and
-models, with a combined weight of about 406 grams. [@1,3,4,5,6]
+models, with a combined weight of about 406 grams. [@1,3,4,5,6,7]
 
 The Sabiñánigo post opened a file and sent it to plaza number 2 of the Tribunal
-de Instancia in Jaca. [@1,3,4,5,6] The investigated woman must appear before the
+de Instancia in Jaca. [@1,3,4,5,6,7] The investigated woman must appear before the
 judicial authority when she is required to do so. [@1,3,5] The seized substances
 were sent to the health area of the Government Delegation in Zaragoza for
-analysis to determine their composition. [@1,3,4,5] Those results are intended to
+analysis to determine their composition. [@1,3,4,5,7] Those results are intended to
 establish the nature of the seized products after the preliminary tests during
 the inspection were positive. [@1]
