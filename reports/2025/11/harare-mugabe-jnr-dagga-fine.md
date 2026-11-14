@@ -96,6 +96,10 @@ sources:
     url: https://www.arise.tv/robert-mugabe-jr-arrested-in-harare-for-drug-possession/
     publisher: Arise News
     date: 2025-10-02
+  - title: From cannabis possession to attempted murder, another Mugabe finds himself in legal trouble
+    url: https://africa.businessinsider.com/local/lifestyle/from-cannabis-possession-to-attempted-murder-another-mugabe-finds-himself-in-legal/3c29cpc
+    publisher: Business Insider Africa
+    date: 2026-02-24
 open_questions:
   - 'Accounts differ on the weight of cannabis: the police charge sheet cited 2 g and the lawyer said 0.02 g; the figures use the police weight of 2 g.'
   - The Club of Mozambique and BBC accounts give no separate date for the October arrest beyond 'Wednesday'; it is given as 1 October 2025 in the text only as the Wednesday before the 2 October appearance.
@@ -117,7 +121,7 @@ father of two. [@2]
 
 Court papers said police stopped him in a silver Honda Fit travelling the wrong
 way along Second Street Extension in Harare and found two sachets of dagga, a
-pack of Rizla papers and a white dagga crusher in his sling bag. [@2,6] Dagga is
+pack of Rizla papers and a white dagga crusher in his sling bag. [@2,6,11] Dagga is
 the southern African name for cannabis. [@1]
 
 Mugabe was arrested in October and later released on $300 bail, and a warrant
@@ -128,14 +132,14 @@ pending a bail ruling. [@5,6,8,10] He was released on Friday after paying bail o
 him" had also been arrested and that they found 25 sachets of marijuana and six
 ecstasy pills. [@4,6]
 
-Police charged Mugabe over 2 g of cannabis with a street value of $30. [@4] His
+Police charged Mugabe over 2 g of cannabis with a street value of $30. [@4,11] His
 lawyer, Ashiel Mugiya, denied the charge and said the drugs came from a car
 carrying three other people, with only 0.02 g of cannabis found. [@4,6] The 13
 November ruling followed a warrant and missed hearing in a case that had drawn
 attention because Mugabe is the son of Zimbabwe's late president Robert Mugabe.
 [@4]
 
-Robert Mugabe Junior, 33, was arrested on Wednesday, 1 October 2025, after he was stopped and searched by officers who spotted him driving into oncoming traffic. [@7,10]
+Robert Mugabe Junior, 33, was arrested on Wednesday, 1 October 2025, after he was stopped and searched by officers who spotted him driving into oncoming traffic. [@7,10,11]
 
 One of former Zimbabwean President Robert Mugabe's sons has been detained on drug possession charges, with the police saying he is part of a syndicate of illegal substance peddlers. [@8]
 
