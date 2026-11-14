@@ -75,6 +75,11 @@ sources:
     publisher: 180graus
     date: 2026-11-12
     language: pt
+  - title: Apreendidos 73 tabletes de droga durante perseguição no bairro Buenos Aires
+    url: https://piauihoje.com/noticias/policia/apreendidos-73-tabletes-de-droga-durante-perseguicao-no-bairro-buenos-aires-471037.html
+    publisher: Portal Piauí Hoje
+    date: 2026-11-12
+    language: pt
 open_questions:
   - The 80-kilogram total given by the Secretaria de Segurança Pública covers the 73 marijuana tablets together with other drugs, so the weight of the cannabis alone cannot be separated from the accounts.
   - The tablets were described by police as a substance analogous to marijuana rather than confirmed cannabis, and no laboratory result was reported.
@@ -116,3 +121,4 @@ Despite searches of the area, the man managed to escape. [@3]
 Police valued the drugs at about R$39,000, and the 73 tablets together with
 other drugs weighed about 80 kilograms. [@6]
 
+The seizure was made by teams from the 9th, 22nd and 1st Military Police Battalions during Operation Metraton. [@7]
