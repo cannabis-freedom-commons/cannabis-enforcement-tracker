@@ -61,6 +61,11 @@ sources:
     publisher: Urfanews
     date: 2026-11-14
     language: tr
+  - title: 'Şanlıurfa’da uyuşturucu operasyonu: 5 gözaltı!'
+    url: https://www.urfahaber.com/guncel-yasam/sanliurfada-uyusturucu-operasyonu-5-gozalti-50029
+    publisher: Urfa Haber
+    date: 2026-11-14
+    language: tr
 open_questions:
   - No separate date for the operations was given; 14 November 2026 is the publication date and is used as the incident date.
   - No district, address or other precise seizure location in Şanlıurfa was published.
@@ -72,16 +77,15 @@ open_questions:
 Şanlıurfa Governor Hasan Şıldak announced that gendarmerie and police anti-drug
 operations in Şanlıurfa seized a total of 193 kilograms 500 grams of drugs and
 that five suspects were detained. [@1] The five suspects were detained in
-connection with the seizures. [@2]
+connection with the seizures. [@2,4]
 
 The gendarmerie’s planned operation seized 173 kilograms of powdered toz esrar
 and 3 kilograms 500 grams of chunk kubar esrar, together 176 kilograms 500
-grams. [@1] The same gendarmerie total was described as 173 kilos of powdered
+grams. [@1,4] The same gendarmerie total was described as 173 kilos of powdered
 esrar and 3 kilos 500 grams of kubar esrar, making 176 kilos 500 grams in total.
 [@2] Police work in the same round of operations seized 17 kilograms of skunk.
-[@1]
+[@1,4]
 
 Governor Şıldak said the fight against drugs threatening young people’s futures
 and public health would continue with determination through the security forces’
 work. [@3]
-
