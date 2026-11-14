@@ -43,6 +43,11 @@ media:
     media_url: https://antofagastaaldia.cl/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-12-at-12.15.42-e1794509109961.jpeg
     publisher: AntofagastaAlDia.cl
     caption: 'Photo of the 95 packages of cannabis seized by PDI in San Pedro de Atacama. Photo: PDI Calama'
+  - kind: photo
+    url: https://puranoticia.pnt.cl/regiones/incautan-mas-de-183-kilos-de-cannabis-en-sector-fronterizo-de-san-pedro-de
+    media_url: https://puranoticia.pnt.cl/cms/site/artic/20261112/imag/foto_0000001220261112210051/Aton_1208351.jpg
+    publisher: Puranoticia
+    caption: 'PDI photo of the abandoned sacks holding the 95 packages of cannabis seized in the San Pedro de Atacama border sector. Photo: PDI'
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 78ec5eea915e50bbd3c1ff19d8ed75a0
@@ -98,11 +103,16 @@ sources:
     publisher: Desierto FM
     date: 2026-11-12
     language: es
+  - title: Incautan más de 183 kilos de cannabis en sector fronterizo de San Pedro de Atacama
+    url: https://puranoticia.pnt.cl/regiones/incautan-mas-de-183-kilos-de-cannabis-en-sector-fronterizo-de-san-pedro-de
+    publisher: Puranoticia
+    date: 2026-11-12
+    language: es
 ---
 
 The PDI in Calama seized a load of pressed marijuana in San Pedro de Atacama.
 [@1,3,5,7] The seizure took place in the border sector of El Loa province, near San
-Pedro de Atacama. [@2] Officers found the load as abandoned sacks in the middle of the pampa in the Río Grande sector, holding 95 packages of cannabis of different shapes and sizes. [@5,6,7,8,10] Calama's chief prosecutor, Eduardo Peña, put the load at
+Pedro de Atacama. [@2] Officers found the load as abandoned sacks in the middle of the pampa in the Río Grande sector, holding 95 packages of cannabis of different shapes and sizes. [@5,6,7,8,10,11] Calama's chief prosecutor, Eduardo Peña, put the load at
 186 kg of marijuana. [@2] The local outlet El América reported 183 kg for the
 same seizure. [@1,3,4,5] The PDI valued the marijuana at 900 million pesos on the
 illegal market. [@1,3]
@@ -119,4 +129,4 @@ Méndez said marijuana smuggling has recently increased relative to cocaine and
 cocaine base. [@1] Méndez said the border sector of Antofagasta region is one of
 the longest in northern Chile, and that the PDI and the prosecutor's office have
 agreed to create task forces to curb drug smuggling, vehicle theft and
-contraband. [@2] The Antofagasta regional prosecutors said their strategy has resulted in more than 67 tonnes of drugs seized this year and 133 tonnes since October 2023. [@10]
+contraband. [@2] The Antofagasta regional prosecutors said their strategy has resulted in more than 67 tonnes of drugs seized this year and 133 tonnes since October 2023. [@10,11]
