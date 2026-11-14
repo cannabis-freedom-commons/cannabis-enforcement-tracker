@@ -52,15 +52,27 @@ sources:
     publisher: Diario Jornada
     date: 2026-11-12
     language: es
-open_questions:
-  - No figure for the weight of the seized cannabis buds was published.
-  - The reports do not say whether the suspect was detained or released; only the charging of the man is recorded.
-  - No court outcome beyond the charging has been reported.
+  - title: 'Golpe al narcomenudeo en Madryn: Secuestraron cocaína, cannabis y dinero'
+    url: https://www.diariocronica.com.ar/amp/noticias/2026/11/13/177617-golpe-al-narcomenudeo-en-madryn-secuestraron-cocaina-cannabis-y-dinero
+    publisher: Diario Crónica
+    date: 2026-11-13
+    language: es
+media:
+  - kind: photo
+    url: https://www.diariocronica.com.ar/amp/noticias/2026/11/13/177617-golpe-al-narcomenudeo-en-madryn-secuestraron-cocaina-cannabis-y-dinero
+    media_url: https://diariocronica-s3.cdn.net.ar/s3i233/2026/11/diariocronica/images/02/85/88/2858863_d834d218303dc56d88f7a56521cf437e3db11d259a9db7fb8965bdf25ec850b9/lg.webp
+    publisher: Diario Crónica
+    caption: 'Photo captioned ''Golpe al narcomenudeo en Madryn: Secuestraron cocaína, cannabis y dinero'' published with the report of the raid on the Lombardo Street house. Photo: Diario Crónica'
+  - kind: photo
+    url: https://www.diariocronica.com.ar/amp/noticias/2026/11/13/177617-golpe-al-narcomenudeo-en-madryn-secuestraron-cocaina-cannabis-y-dinero
+    media_url: https://diariocronica-s3.cdn.net.ar/s3i233/2026/11/diariocronica/images/02/85/95/2859509_d7de8f7f58c721ee00a8f0ae55e89ad57c1192a2afb55fdee2a326ef8de8a3a0/lg.webp
+    publisher: Diario Crónica
+    caption: 'Second photo captioned ''Golpe al narcomenudeo en Madryn: Secuestraron cocaína, cannabis y dinero'' published with the report of the raid on the Lombardo Street house. Photo: Diario Crónica'
 ---
 
 Officers of the Chubut police Dangerous Drugs Division (División Drogas
 Peligrosas) executed a court-ordered raid on a house on Calle Lombardo in Puerto
-Madryn's San Miguel district on 11 November 2026. [@1]
+Madryn's San Miguel district on 11 November 2026. [@1,3]
 
 The raid was directed by Rawson's federal prosecutor's office (Fiscalía Federal
 de Rawson), on instructions of the decentralized Rawson prosecutor's desk (Sede
@@ -71,12 +83,11 @@ operations unit (GEOP) and the infantry guard (Guardia de Infantería) helped
 carry it out. [@1]
 
 Officers seized 136.2 grams of cocaine hydrochloride, a bag of cannabis buds,
-and 6,281,000 Argentine pesos in cash. [@1] They also seized 100 US dollars
+and 6,281,000 Argentine pesos in cash. [@1,3] They also seized 100 US dollars
 allegedly counterfeit, a digital scale, .32 calibre cartridges, a mobile phone,
 and substances used to cut cocaine. [@2]
 
 Officers also took away a Fiat Palio Adventure car used for the delivery sales
-model. [@1] As a result of the raid, the man under investigation was charged
+model. [@1,3] As a result of the raid, the man under investigation was charged
 with infringement of the national drugs law, National Law 23.737 (Ley Nacional
 23.737 de Estupefacientes). [@1]
-
