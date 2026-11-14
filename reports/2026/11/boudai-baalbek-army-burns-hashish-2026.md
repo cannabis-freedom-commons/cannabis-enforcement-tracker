@@ -44,6 +44,11 @@ sources:
     publisher: Annahar
     date: 2026-11-12
     language: ar
+  - title: الجيش اللبناني يداهم مزرعتين في بوداي ويحرق كميات من الحشيشة غرب بعلبك - جريدة الكنانة نيوز
+    url: https://elkanananews.com/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D9%8A%D8%AF%D8%A7%D9%87%D9%85-%D9%85%D8%B2%D8%B1%D8%B9%D8%AA%D9%8A%D9%86-%D9%81%D9%8A-%D8%A8%D9%88%D8%AF%D8%A7%D9%8A/
+    publisher: جريدة الكنانة نيوز
+    date: 2026-11-12
+    language: ar
 media:
   - kind: photo
     url: https://www.annahar.com/lebanon/365885/%D8%BA%D8%B1%D8%A8-%D8%A8%D8%B9%D9%84%D8%A8%D9%83-%D9%81%D9%8A-%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D9%8A%D8%AF%D9%87%D9%85-%D9%85%D8%B2%D8%B1%D8%B9%D8%AA%D9%8A%D9%86-%D9%81%D9%8A-%D8%A8%D9%88%D8%AF%D8%A7%D9%8A-%D9%88%D9%8A%D8%AD%D8%B1%D9%82-%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9-%D9%83%D9%8A%D9%81-%D9%85%D9%88%D8%B6%D8%A8%D8%A9
@@ -52,8 +57,8 @@ media:
     caption: 'From the eradication operation in Budai, west of Baalbek. Photo: Annahar.'
 ---
 
-A Lebanese Army force raided farms at Boudai west of Baalbek. [@1,2] Annahar reported that two farms in Boudai were raided on the morning of 12 November 2026. [@3] The force was
+A Lebanese Army force raided farms at Boudai west of Baalbek. [@1,2,4] Annahar reported that two farms in Boudai were raided on the morning of 12 November 2026. [@3] The force was
 supported by a patrol from Baalbek intelligence. [@1,2] During the raid the force
-burned quantities of hashish that had been packed for manufacture. [@1,2] The raiding force seized the quantities and destroyed them immediately by burning. [@3] The cannabis found inside had been packed after being cut from the plain. [@3]
+burned quantities of hashish that had been packed for manufacture. [@1,2,4] The raiding force seized the quantities and destroyed them immediately by burning. [@3,4] The cannabis found inside had been packed after being cut from the plain. [@3]
 
 The item was published on Thursday 12 November 2026. [@1,2]
