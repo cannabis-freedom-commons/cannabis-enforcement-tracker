@@ -95,26 +95,25 @@ sources:
     publisher: Slo24.si
     date: 2026-11-13
     language: sl
-open_questions:
-  - The plant total is reported only as more than 1,000, so 1,000 is the recorded lower-bound count rather than an exact total.
-  - The dried cannabis weight was reported as approximately 2 kilograms, not an exact measured figure.
-  - The exact address and settlement of the searched premises were not published beyond the Kamnik area.
-  - The offence stated in the criminal complaint and any subsequent indictment, pleas or trial outcome were not reported.
-  - The opened accounts derive from the same Ljubljana Police Administration statement rather than independent corroboration.
+  - title: 'FOTO: Kriminalisti odkrili več kot 1000 sadik konoplje in zasegli več kot kilogram kokaina'
+    url: https://www.lokalec.si/foto-kriminalisti-odkrili-vec-kot-1000-sadik-konoplje-in-zasegli-vec-kot-kilogram-kokaina/
+    publisher: Lokalec.si
+    date: 2026-11-13
+    language: sl
 ---
 
 Police arrested two Serbian citizens after discovering a cannabis-growing space
-in the Kamnik area. [@1,3,4] The Ljubljana Police Administration's criminal police
-sector searched a house there on Wednesday, 11 November 2026. [@1,3,4,5] The suspects
+in the Kamnik area. [@1,3,4,6] The Ljubljana Police Administration's criminal police
+sector searched a house there on Wednesday, 11 November 2026. [@1,3,4,5,6] The suspects
 were aged 37 and 35, and police acted on gathered information and a court order.
 [@1,3,4]
 
 Inside the specially adapted growing space were more than 1,000 cannabis
-seedlings. [@1,3,4] Police seized about 2 kilograms of dried cannabis and numerous
-pieces of growing equipment. [@1,3,4] They also seized more than 1 kilogram of
-cocaine and around €3,000 in cash. [@1,3,4]
+seedlings. [@1,3,4,6] Police seized about 2 kilograms of dried cannabis and numerous
+pieces of growing equipment. [@1,3,4,6] They also seized more than 1 kilogram of
+cocaine and around €3,000 in cash. [@1,3,4,6]
 
-Investigators detained both men and ordered pridržanje, or police custody. [@1,3,4]
+Investigators detained both men and ordered pridržanje, or police custody. [@1,3,4,6]
 On Thursday, 12 November, the men were brought before an investigating judge
-with a criminal complaint. [@2,3,4] The judge ordered pripor, detention on remand,
-for both suspects. [@2,3,4]
+with a criminal complaint. [@2,3,4,6] The judge ordered pripor, detention on remand,
+for both suspects. [@2,3,4,6]
