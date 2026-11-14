@@ -31,6 +31,11 @@ media:
     media_url: https://cdn6.campograndenews.com.br/uploads/noticias/2026/11/12/1vg59gggr3lpb.jpeg
     publisher: Campo Grande News
     caption: 'Seized car from the Operação Rota Verde, in the handout photo published with the Campo Grande News account. Photo: Divulgação | PCGO'
+  - kind: photo
+    url: https://www.campograndenews.com.br/cidades/capital/esteticista-e-marido-sao-procurados-por-esquema-de-r-7-2-milhoes-em-drogas
+    media_url: https://cdn6.campograndenews.com.br/uploads/noticias/2026/11/12/3gcidhaibv0g4.png
+    publisher: Campo Grande News
+    caption: 'Photo of the wanted Campo Grande couple Débora and Rodrigo, published by Campo Grande News with the police wanted notice. Photo: Divulgação'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1054b75532601a7b62c6521c9a55c4a8
@@ -46,6 +51,11 @@ sources:
     publisher: Jornal Opção
     date: 2026-11-11
     language: pt
+  - title: Esteticista e marido são procurados por esquema de R$ 7,2 milhões em drogas
+    url: https://www.campograndenews.com.br/cidades/capital/esteticista-e-marido-sao-procurados-por-esquema-de-r-7-2-milhoes-em-drogas
+    publisher: Campo Grande News
+    date: 2026-11-12
+    language: pt
 open_questions:
   - The number of arrested people counts the seven people in Campo Grande and Dourados whose names are given, but warrants were carried out in five states; the total number of people arrested across the whole phase is not stated.
   - 'Left out, as its quotation was not found in Jornal Opção: Jornal Opção, citing the lead prosecutor, reports that 17 of the 22 arrest warrants had been carried out in five states and that the network supplied at least ten municipalities in Goiás.'
@@ -54,10 +64,10 @@ open_questions:
 Six people were arrested in Campo Grande — including Cícero Nazário da Silva,
 whom the police had earlier identified as the leader of a drug trafficking group
 — and one more, Estella Taynara Tomasi, a 32-year-old, was arrested in Dourados.
-[@1] Cícero had been among those targeted in an earlier phase of Operação
+[@1,3] Cícero had been among those targeted in an earlier phase of Operação
 Destroyer, the 21st phase of which, named Rota Verde, was launched on 11
 November. [@1] The suspects were held under 30-day temporary arrest warrants.
-[@2]
+[@2,3]
 
 Police said the group moved about 7.2 million reais in interstate cannabis
 trafficking, using rented vehicles on at least 20 trips, of which nine loads
@@ -71,5 +81,4 @@ were found on a couple in Trindade. [@1]
 
 One of the people under investigation died in a confrontation with the Civil
 Police of the Federal District during a drug delivery, and four others remain at
-large. [@2]
-
+large. [@2,3]
