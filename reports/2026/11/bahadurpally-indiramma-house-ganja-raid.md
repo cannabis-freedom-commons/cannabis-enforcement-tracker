@@ -63,25 +63,24 @@ sources:
     publisher: NewsMeter
     date: 2026-11-14
     language: en
-open_questions:
-  - The raid is described only as late Thursday night, so 12 November 2026 is used as the incident date.
-  - The sources give no NDPS sections, seizure packaging details, or court outcome after the case was registered.
-  - It is not reported whether the four who tested positive for THC or the one who tested negative face additional use charges.
-  - The roles of suppliers Aravind, Ajay and Mahesh and the status of the 24 listed customers remain under investigation.
+  - title: EAGLE Force Arrests Five in Ganja Raid at Indiramma Colony in Bahadurpally
+    url: https://hyderabadmail.com/eagle-force-bahadurpally-ganja-raid-indiramma-colony/
+    publisher: Hyderabad Mail
+    date: 2026-11-14
 ---
 
 An Indiramma house at Bahadurpally, Dundigal, had reportedly become a ganja
 distribution network and a place for ganja addicts. [@1,3] The Telangana EAGLE
-Force carried out a surprise raid on the house. [@1,3] The Telangana EAGLE Force conducted a surprise raid at Block No. 27 in Indiramma Colony, Bahadurpally, under Dundigal police station limits, acting on information received through its toll-free helpline. [@4] The search operation was
+Force carried out a surprise raid on the house. [@1,3] The Telangana EAGLE Force conducted a surprise raid at Block No. 27 in Indiramma Colony, Bahadurpally, under Dundigal police station limits, acting on information received through its toll-free helpline. [@4,5] The search operation was
 conducted at Block No. 27 in Indiramma Colony late Thursday night. [@1] Five
-people were arrested in the operation. [@1,3] The arrested were Thakur Kishan
+people were arrested in the operation. [@1,3,5] The arrested were Thakur Kishan
 Singh (25), a cab driver, Mani Raj (32), Pradeep (21), Karthik (25) and Rajput
-Pavan Kumar, who were taken into custody. [@1,3] Urine screening tests found four
-of the five positive for THC, while Pavan Kumar tested negative. [@2] Police
+Pavan Kumar, who were taken into custody. [@1,3,5] Urine screening tests found four
+of the five positive for THC, while Pavan Kumar tested negative. [@2,5] Police
 registered a case under the Narcotic Drugs and Psychotropic Substances (NDPS)
-Act against the five apprehended. [@1,3] Dundigal Police registered a case (Cr.No. 1089/2026) under Sections 8(c) read with 20(b)(ii)(A) and 27(b) of the NDPS Act. [@4]
+Act against the five apprehended. [@1,3,5] Dundigal Police registered a case (Cr.No. 1089/2026) under Sections 8(c) read with 20(b)(ii)(A) and 27(b) of the NDPS Act. [@4]
 
-Officers seized around four grams of marijuana in the raid. [@2] Kishan Singh,
+Officers seized around four grams of marijuana in the raid. [@2,5] Kishan Singh,
 whose family owns the vacant Indiramma housing unit, confessed that he procured
 ganja from Aravind and sold it in packets of four grams at Rs 400 to friends and
 Rs 500 to customers. [@1,3] He has been a ganja addict for three years. [@1] He
