@@ -69,19 +69,30 @@ sources:
     publisher: КТК (KTK)
     date: 2026-11-13
     language: ru
+  - title: Более 220 кг марихуаны изъяли у жителей Уральска
+    url: https://kazlenta.kz/123299-bolee-220-kg-marihuany-izyali-u-zhiteley-uralska.html
+    publisher: Kazlenta.kz
+    date: 2026-11-13
+    language: ru
+open_questions:
+    - Neither the police statement nor the reports give a date for the searches or the detention; 13 November 2026 is their publication date and is used as the incident date.
+    - Police did not say whether the two seizures are connected or whether the 45-year-old resident was detained, charged or questioned as a suspect.
+    - No charges, court dates or outcomes were reported; both cases were at the pre-trial investigation stage.
+    - The combined weight of 221 kg 16 g is calculated from the two batches, while the police statement described the haul only as more than 220 kg.
+    - Investigators had not established where the marijuana came from or where it was intended to be distributed.
 ---
 
-Police in Uralsk detained a 34-year-old local resident. [@3,4] Officers found two
+Police in Uralsk detained a 34-year-old local resident. [@3,4,5] Officers found two
 large boxes in the courtyard of the man's house, containing 12 plastic bags of
-plant material. [@3] Testing identified the contents as dried marijuana weighing
-198 kg 16 g. [@1,4] A search of the flat of another Uralsk resident, aged 45,
-uncovered another 23 kg of dried marijuana. [@2,4] Across the two cases, police
-said more than 220 kg of marijuana was taken out of illegal circulation. [@3,4]
+plant material. [@3,5] Testing identified the contents as dried marijuana weighing
+198 kg 16 g. [@1,4,5] A search of the flat of another Uralsk resident, aged 45,
+uncovered another 23 kg of dried marijuana. [@2,4,5] Across the two cases, police
+said more than 220 kg of marijuana was taken out of illegal circulation. [@3,4,5]
 
 Officers from the organised-crime unit of the West Kazakhstan regional police
 department discovered the batches during operational-search work under Qarasora,
-an operational and preventive campaign. [@2] Pre-trial investigations were
-opened into both cases. [@1,4] Investigators were working to establish every
+an operational and preventive campaign. [@2,5] Pre-trial investigations were
+opened into both cases. [@1,4,5] Investigators were working to establish every
 circumstance of the cases and any channels through which the marijuana could
-have been supplied and distributed. [@1] Police said their work to detect and
-suppress the illegal circulation of narcotics in the region was continuing. [@1]
+have been supplied and distributed. [@1,5] Police said their work to detect and
+suppress the illegal circulation of narcotics in the region was continuing. [@1,5]
