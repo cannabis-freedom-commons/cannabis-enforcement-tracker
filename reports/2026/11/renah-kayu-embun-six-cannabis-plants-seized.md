@@ -68,16 +68,21 @@ sources:
     publisher: Jambi Independent
     date: 2026-11-13
     language: id
+  - title: Polres Kerinci Temukan Enam Batang Ganja di Sungai Penuh
+    url: https://rri.co.id/sungaipenuh/hukum/kriminalitas/2893614/polres-kerinci-temukan-enam-batang-ganja-di-sungai-penuh
+    publisher: RRI.co.id
+    date: 2026-11-14
+    language: id
 ---
 
 In RT 11 of Renah Kayu Embun village, officers found two black flower pots
-partly buried in the soil. [@1,3,4,5] Officers walked about 45 minutes through steep, slippery terrain to reach the site. [@3,4,5] The operation was triggered by public information about suspected illegal cultivation in the area. [@3,5] Each pot held three plants suspected to be
+partly buried in the soil. [@1,3,4,5,6] The suspected cultivation was in farmland on the edge of the village water channel. [@6] Officers walked about 45 minutes through steep, slippery terrain to reach the site. [@3,4,5,6] The operation was triggered by public information about suspected illegal cultivation in the area. [@3,5] The operational team was led by Kerinci Police narcotics chief IPTU Fikrur Rizal and accompanied by the local village secretary. [@6] Each pot held three plants suspected to be
 ganja, six in total, which were uprooted together with their pots and secured as
 evidence. [@1,3,5] Police had not identified the owner of the plants; the owner's
 identity and those suspected to be involved remained under investigation by
-Satresnarkoba Polres Kerinci. [@1,3,5]
+Satresnarkoba Polres Kerinci. [@1,3,5,6]
 
 The six plants and their pots were uprooted and taken to Mapolres Kerinci for
-further examination. [@2,3,4,5] A further sweep around the site found no additional plants. [@4,5] The follow-up steps included witness examinations, an
+further examination. [@2,3,4,5,6] A further sweep around the site found no additional plants. [@4,5] The follow-up steps included witness examinations, an
 initial case conference, completing the investigation file and laboratory
 testing of the evidence through BPOM. [@2,3]
