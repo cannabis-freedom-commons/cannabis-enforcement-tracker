@@ -55,6 +55,11 @@ sources:
     publisher: ITV Patagonia
     date: 2026-11-13
     language: es
+  - title: Dos jóvenes fueron detenidos por tráfico de drogas tras detectar marihuana oculta en un parlante en Puerto Natales
+    url: https://radiomagallanes.cl/dos-jovenes-fueron-detenidos-por-trafico-de-drogas-tras-detectar-marihuana-oculta-en-un-parlante-en-puerto-natales/
+    publisher: Radio Magallanes
+    date: 2026-11-13
+    language: es
 open_questions:
   - The article gives no separate date for the controlled delivery or the two detentions, so 13 November 2026, the publication date, is used as the incident date.
   - The two detainees were not named, and no detention-control hearing, formalisation or court outcome was reported.
@@ -65,22 +70,21 @@ open_questions:
 
 Carabineros detained two 20-year-old Chilean men in Puerto Natales for alleged
 illicit drug trafficking after finding marijuana hidden inside a speaker sent by
-parcel. [@1] Both detainees are Chilean citizens aged 20 with no criminal
-record, according to police information. [@1] Officers made the first detention
+parcel. [@1,2] Both detainees are Chilean citizens aged 20 with no criminal
+record, according to police information. [@1,2] Officers made the first detention
 through a controlled delivery after holding a person the parcel recipient had
-sent to collect the package. [@1] Officers then searched two properties linked
+sent to collect the package. [@1,2] Officers then searched two properties linked
 to the first detainee and the parcel recipient's home, an operation that
-produced a second detention and new material for the investigation. [@1]
+produced a second detention and new material for the investigation. [@1,2]
 
 Carabineros seized one kilogram and four grams of marijuana in the procedure.
-[@1] Officers also seized two mobile phones, 50,000 pesos in cash and a digital
+[@1,2] Officers also seized two mobile phones, 50,000 pesos in cash and a digital
 scale. [@1]
 
 The checks began on 2 November during preventive services and inspections
-coordinated with parcel transport companies in the region. [@1] During one of
+coordinated with parcel transport companies in the region. [@1,2] During one of
 these checks, the drug-detection dog Hulk alerted on a parcel containing a
-speaker. [@1] When officers inspected the speaker, they found marijuana hidden
+speaker. [@1,2] When officers inspected the speaker, they found marijuana hidden
 inside. [@1] The investigation highlighted parcel services as a drug-transport
 method, and Carabineros said it was reinforcing the preventive checks it carries
 out with transport firms in the region. [@1]
-
