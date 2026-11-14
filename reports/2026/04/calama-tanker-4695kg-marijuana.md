@@ -51,10 +51,15 @@ sources:
     publisher: La Tercera
     date: 2026-04-30
     language: es
+  - title: 'La policía chilena logró su mayor decomiso de drogas en 25 años: marihuana y ketamina ocultas en un camión cisterna'
+    url: https://www.infobae.com/america/america-latina/2026/04/30/la-policia-chilena-logro-su-mayor-decomiso-de-drogas-en-25-anos-marihuana-y-ketamina-ocultas-en-un-camion-cisterna/
+    publisher: Infobae
+    date: 2026-04-30
+    language: es
 open_questions:
-  - Headlines cite 4,831 kg including ketamine while marijuana alone is given as 4,695.2 kg;
-    this report keeps only the cannabis figure stated for the plant material.
-  - La Tercera gives ketamine as 136.5 kg liquid; the Fiscalía page says 138 kg in the tank.
+    - Headlines cite 4,831 kg including ketamine while marijuana alone is given as 4,695.2 kg; this report keeps only the cannabis figure stated for the plant material.
+    - La Tercera gives ketamine as 136.5 kg liquid; the Fiscalía page says 138 kg in the tank.
+    - Infobae's metadata description describes the cargo as 55,000 million pesos, while its own body text states the value as about USD 61 million; the body text figure is used.
 ---
 
 Antofagasta prosecutors and Carabineros’ OS7 El Loa unit raided an eastern Calama property
@@ -69,3 +74,5 @@ Prosecutors formalised all four for drug trafficking and secured preventive dete
 Regional prosecutor Juan Castro Bekios said the case reflected transnational organised crime
 using elaborate concealment, and zone commander General Cristian Montre Soto said the load
 had been destined mainly for central and southern regions. [@1,2]
+
+The seizure, 4,695 kg of marijuana and 138 kg of ketamine hidden in a sealed tanker truck, was valued at about USD 61 million. [@3]
