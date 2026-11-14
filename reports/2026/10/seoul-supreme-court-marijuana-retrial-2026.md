@@ -81,6 +81,11 @@ sources:
     publisher: 이투데이
     date: 2026-11-13
     language: ko
+  - title: '[판결] 작년에 대마 피웠는데 올해로 착각해 한 자백은 무효'
+    url: https://www.lawtimes.co.kr/news/articleView.html?idxno=229351
+    publisher: 법률신문
+    date: 2026-11-13
+    language: ko
 media:
   - kind: photo
     url: https://news.sbs.co.kr/english/article.do?news_id=N1008844852
@@ -97,7 +102,7 @@ media:
 South Korea's Supreme Court, presided over by Justice Shin Suk-hee, on 27
 October 2026 reversed the lower court's ruling against a defendant identified as
 A, who was indicted on charges including violating the Act on the Control of
-Narcotics, and sent the case back to the Seoul High Court. [@1,2,3,4,6,7,8,9,11] A, who ran a
+Narcotics, and sent the case back to the Seoul High Court. [@1,2,3,4,6,7,8,9,11,12] A, who ran a
 record production and distribution company, a content firm, and nightlife
 establishments, was brought to trial on charges that included buying large
 quantities of ecstasy and marijuana in 2023 and selling or smoking some of them.
@@ -110,7 +115,7 @@ six months in prison and ordered 22.8 million won in forfeiture. [@1,3,4,6,8,11]
 A argued that the smoking actually occurred in late April 2023 and that the
 indictment mistakenly listed April 2024, and said the confession at the first
 trial referred to the 2023 incident and that there was no marijuana smoking in
-April 2024. [@1,6,10] The appellate court upheld the guilty verdict, saying there was
+April 2024. [@1,6,10,12] The appellate court upheld the guilty verdict, saying there was
 no reason to suspect the confession was coerced and noting the accomplices'
 statements, and reduced the forfeiture to 12.68 million won to avoid
 double-counting the value of 144 ecstasy pills already forfeited in another
@@ -119,7 +124,7 @@ records of A and the accomplices that the first-instance court relied on as
 evidence all concerned marijuana smoking in late April 2023, and that the
 interviews also took place before late April 2024, and that the toxicology
 reports on urine and hair were likewise all prepared before the alleged date of
-the offense in the indictment. [@1,6,8,10] The Supreme Court also found it hard to rule
+the offense in the indictment. [@1,6,8,10,12] The Supreme Court also found it hard to rule
 out the possibility that the accomplices' in-court confessions referred to the
 April 2023 smoking incident, and therefore held that their testimony could not
 be deemed sufficient to corroborate A's confession, and that the remaining
