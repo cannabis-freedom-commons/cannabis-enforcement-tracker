@@ -54,23 +54,29 @@ sources:
     publisher: فيتو
     date: 2026-11-09
     language: ar
+  - title: حبس عاطلين عامًا لتعاطي الحشيش بمصر الجديدة
+    url: https://ekhbary24.com/article/52623
+    publisher: إخباري 24 نيوز
+    date: 2026-11-13
+    language: ar
 open_questions:
-  - No weight or amount was published for the hashish, so no kilograms can be recorded.
-  - No separate date was given for the arrest or the verdict; 8 November 2026 is the first article's publication date and is used as the incident date.
-  - The defendants are identified only as two unemployed men with criminal records, with no names or ages published.
-  - No case number, fine or appeal is reported; whether an appeal was lodged is unknown.
-  - Veto's follow-up piece calls the pair a drug-use gang in its headline while its text describes only two defendants.
+    - No weight or amount was published for the hashish, so no kilograms can be recorded.
+    - No separate date was given for the arrest or the verdict; 8 November 2026 is the first article's publication date and is used as the incident date.
+    - The defendants are identified only as two unemployed men with criminal records, with no names or ages published.
+    - No case number, fine or appeal is reported; whether an appeal was lodged is unknown.
+    - Veto's follow-up piece calls the pair a drug-use gang in its headline while its text describes only two defendants.
+    - The Ikhbari 24 article was published 13 November 2026 but its text says the court ruled 'today Sunday', suggesting the original report was written on 8 November; the discrepancy is a publication-date artifact.
 ---
 
 The Cairo Criminal Court sentenced two unemployed men to one year in prison for
-using hashish in the Heliopolis district of Cairo. [@1] The chemical laboratory
+using hashish in the Heliopolis district of Cairo. [@1,3] The chemical laboratory
 reported that the seized material was a transparent plastic bag holding brown
 pieces that tested as hashish, listed in Schedule 1 of the drug-control law.
 [@1]
 
 Cairo Security Directorate officers arrested the two men, both with criminal
 records, while a security patrol was passing through the Heliopolis
-police-station district. [@1] The men looked flustered when they saw the force
+police-station district. [@1] The arrest was triggered after a video showing two people on a motorcycle using drugs circulated, leading investigations to identify the two men, who both had criminal records. [@3] The men looked flustered when they saw the force
 and tried to run, but officers chased and detained them. [@1] A search found
 hashish on them, and when confronted they admitted holding the drug for use
 rather than sale. [@1]
@@ -80,4 +86,3 @@ nature of the material and proved it was a prohibited drug. [@2] The court found
 that holding the drug was established because the two men had control of it
 knowingly and willingly, and that their admission of possession for use was
 supported by the seizure and the laboratory findings. [@2]
-
