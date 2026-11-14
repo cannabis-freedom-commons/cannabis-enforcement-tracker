@@ -58,6 +58,10 @@ sources:
     url: https://www.newsandstar.co.uk/news/26726235.albanian-cannabis-gang-boss-loses-deportation-appeal/
     publisher: News and Star
     date: 2026-11-14
+  - title: Cannabis gang boss loses deportation appeal after trafficking claim rejected - Yahoo News UK
+    url: https://uk.news.yahoo.com/cannabis-gang-boss-loses-deportation-050000162.html
+    publisher: Yahoo News UK
+    date: 2026-11-14
 ---
 
 Igli Hazizaj, a 28-year-old Albanian, has lost an immigration appeal against his
@@ -65,7 +69,7 @@ deportation after a judge found he invented a claim to have been trafficked and
 locked in a cannabis farm. [@1,5] First-tier Tribunal Judge C R Cole dismissed the
 appeal on all grounds in a decision dated 2 November 2026 after a hearing at
 Manchester on 28 October 2026 that Hazizaj did not attend and at which he was
-unrepresented. [@2,4]
+unrepresented. [@2,4] His solicitors had confirmed they would attend the October hearing before withdrawing from representation late the previous afternoon. [@6]
 
 The tribunal held that a three-year sentence for conspiracy to produce cannabis
 was a particularly serious crime and that Hazizaj had not rebutted the
@@ -80,13 +84,13 @@ Hazizaj was trafficked into Britain in late 2023. [@2,5]
 His former partner gave the tribunal social media photographs of the couple in
 April, July and August 2024, including a stag party in Wales, her Swansea
 graduation and their engagement in Manchester, which the judge said did not
-support a claim to have been imprisoned in a cannabis farm. [@2,4]
+support a claim to have been imprisoned in a cannabis farm. [@2,4] When tribunal staff contacted his former partner, she said their relationship had ended and she did not know his whereabouts. [@6]
 
 Hazizaj was convicted at Carlisle Crown Court on 16 January 2025 of conspiracy
 to produce cannabis and sentenced on 27 February 2025. [@2] Police found 83
 plants at Newtown Road and 145 at Warwick Road, while a third property in Howe
 Street held an abandoned factory; two co-defendants were jailed for 16 months
-and a year. [@3,5] Prosecutors described Hazizaj as the branch manager of the operation, while his relative Eugert Hazizaj and Jurgen Balla were also jailed. [@5] The sentencing judge said the three Carlisle properties had unusually been purchased rather than rented, demonstrating a significant investment by the organised crime group. [@5] A deportation order was made against Hazizaj on 5 December 2025
+and a year. [@3,5] Prosecutors described Hazizaj as the branch manager of the operation, while his relative Eugert Hazizaj and Jurgen Balla were also jailed. [@5,6] The sentencing judge said the three Carlisle properties had unusually been purchased rather than rented, demonstrating a significant investment by the organised crime group. [@5,6] A deportation order was made against Hazizaj on 5 December 2025
 and the Home Office refused his protection and human rights claims four days
 later. [@2] Hazizaj also faces extradition to Albania, where he has been
 sentenced to nine months for using a forged Greek passport at Tirana airport,
