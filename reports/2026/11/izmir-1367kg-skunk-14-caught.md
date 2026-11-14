@@ -1,20 +1,19 @@
 ---
 code: CKWCPB
 added_at: "2026-11-13T03:29:12.968941Z"
-date: 2026-11-12
+date: 2026-11-13
 country: tr
 place: İzmir
 coordinates: [38.42444, 27.13222]
 precision: region
 type: seizure
 also: [raid, arrest]
-title: 14 caught as İzmir police seize 1,367.5 kg of skunk
-summary: >-
-  İzmir narcotics police seized 1 tonne 367.5 kilograms of skunk cannabis in four interim captures, along with ecstasy and pregabalin that are not counted as cannabis. Fourteen suspects were caught, three of them remanded, after raids on 15 addresses; one person was still being sought.
+title: 17 detained as İzmir police seize 1,367.5 kg of skunk
+summary: İzmir's narcotics operation seized 1,367.5 kg of skunk alongside ecstasy and pregabalin, with detentions rising from 11 in the first stage to 17. The alleged organisation leader, wanted for seven years, was caught hiding in Menderes.
 figures:
-  arrested: 14
-  sites: 15
-  kg_seized: 1367.5
+    arrested: 17
+    sites: 15
+    kg_seized: 1367.5
 details:
   agencies: [tr-egm, İzmir Chief Public Prosecutor's Office]
   agency_types: [police, anti-narcotics, prosecutor]
@@ -27,16 +26,16 @@ details:
   date_precision: publication
   region: İzmir
 data_sources:
-  details.activity: [1]
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [2]
-  details.charges: [2]
-  details.products: [1]
-  details.setting: [1]
-  figures.arrested: [1]
-  figures.kg_seized: [1]
-  figures.sites: [1]
+    details.activity: [1]
+    details.agencies: [1]
+    details.agency_types: [1]
+    details.case_stage: [2]
+    details.charges: [2]
+    details.products: [1]
+    details.setting: [1]
+    figures.arrested: [16]
+    figures.kg_seized: [16]
+    figures.sites: [1]
 status: verified
 created_by_model: xai/grok-4.7#medium
 submission: 5648ddd43fcd74a06777a9e724d27ae6
@@ -135,20 +134,28 @@ sources:
     publisher: Ege Alternatif Gazetesi
     date: 2026-11-12
     language: tr
+  - title: 'İzmir''de 1 Ton 367 Kilogram Skunk Ele Geçirildi: 17 Gözaltı Var'
+    url: https://www.bolgegundemi.com/izmir/izmirde-1-ton-367-kilogram-skunk-ele-gecirildi-17-gozalti-var-234647.html
+    publisher: Bölge Gündemi
+    date: 2026-11-13
+    language: tr
 open_questions:
   - Wayback redirected several secondary outlets (Haber Ege, Demokrat Gündem, Ege Alternatif) to unrelated pages, so those sources have no usable archived copy.
+  - The reports give no separate date for the follow-up detentions; 13 November 2026 is the publication date and is used as the incident date.
+  - How the updated total of 17 detentions relates to the 14 previously reported as caught was not clarified.
+  - No remand, charge or release outcome for the 17 detainees beyond the three earlier remands was reported.
 ---
 
 Police in İzmir seized more than a tonne of skunk esrar, a herbal cannabis
 preparation, in operations against drug trafficking. [@1,3,6,9,10] The İzmir chief public
-prosecutor's office, the Cumhuriyet Başsavcılığı, coordinated the work. [@1,3,4,5,6,9,14] The
+prosecutor's office, the Cumhuriyet Başsavcılığı, coordinated the work. [@1,3,4,5,6,9,14,16] The
 narcotics crimes branch of the provincial police directorate, the Narkotik
 Suçlarla Mücadele Şube Müdürlüğü, carried out the surveillance and the seizures.
 [@1,4,5,9,14]
 
 After technical and physical surveillance, officers made four separate interim
 seizures. [@1,4,5,6,8,14] Those seizures yielded 1 tonne 367 kilograms 500 grams of skunk,
-about 1,367.5 kilograms, and 57,000 ecstasy pills. [@1,3,4,5,6,7,8,10,14,15] The total is 21 kilograms above the 1,346.5 kilograms reported from a vehicle stopped in Torbalı on 11 March, which was reported with the same 57,000-pill count; the reports do not say whether that stop is one of the four operations. [@12] Demirören Haber Ajansı
+about 1,367.5 kilograms, and 57,000 ecstasy pills. [@1,3,4,5,6,7,8,10,14,15,16] The total is 21 kilograms above the 1,346.5 kilograms reported from a vehicle stopped in Torbalı on 11 March, which was reported with the same 57,000-pill count; the reports do not say whether that stop is one of the four operations. [@12] Demirören Haber Ajansı
 reported that the operations also yielded 1,728 grams of pregabalin. [@2,3,7,8] İhlas
 Haber Ajansı called the powder seized in the same work pharmaceutical powder.
 [@1,6] Three suspects linked to the operation were remanded in custody. [@1,3,4,5,6,8,9,11,14]
@@ -158,7 +165,7 @@ Officers then raided 15 addresses at the same time, 13 homes and two workplaces,
 to catch people linked to the drug trade. [@1,3,4,5,6,8,14,15] Eleven suspects were taken into
 gözaltı, police custody for questioning. [@1,3,4,5,6,8,9,14] A search continued for one suspect
 still at large. [@1,3,4,5,6,8,14] İhlas Haber Ajansı said 14 suspects were caught in all.
-[@1,6,10] Searches at the addresses also found one pistol, one magazine, 17
+[@1,6,10] The suspected leader of the criminal organisation, said to have been wanted for 7 years on 13 separate offences with 272 crime records in total, was caught at the residence in Menderes where he was hiding. [@16] After 11 suspects were caught in the first stage, continued field work raised the number in custody to 17, while three suspects had been remanded in earlier proceedings. [@16] Searches at the addresses also found one pistol, one magazine, 17
 cartridges and 24 drug pills. [@1,5,6,13]
 
 Demirören Haber Ajansı said the operations targeted the manufacture and trade of
