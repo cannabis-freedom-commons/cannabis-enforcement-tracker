@@ -78,27 +78,34 @@ sources:
     publisher: Modern Ghana
     date: 2026-11-12
     language: en
-open_questions:
-    - No weight or value was given for the 41 compressed slabs.
-    - No charge, court date or outcome had been reported by 11 November 2026.
+  - title: Bono police reject GH¢9,000 bribe, detain suspected drug dealers
+    url: https://www.modernghana.com/news/1544092/bono-police-reject-gh9000-bribe-detain-suspecte.html
+    publisher: Modern Ghana
+    date: 2026-11-12
+    language: en
+  - title: Bono police reject GH¢9,000 bribe, detains suspected drug dealers
+    url: https://gna.org.gh/2026/11/bono-police-reject-gh%C2%A29000-bribe-detains-suspected-drug-dealers/
+    publisher: Ghana News Agency
+    date: 2026-11-12
+    language: en
 ---
 
 The Bono Regional Police Command arrested two men after finding 41 compressed
 slabs of material suspected to be cannabis in a commercial bus at the
-Twumasikrom checkpoint on the Sunyani-Berekum highway. [@1,4,5,6] Police identified
+Twumasikrom checkpoint on the Sunyani-Berekum highway. [@1,4,5,6,7] Police identified
 them as the driver, Duah Akwasi Moses, 33, and his mate, Kofi Antwi Bosiako, 42,
-arrested at about 7:00 a.m. on 8 November 2026. [@1,4,5] The two were travelling
+arrested at about 7:00 a.m. on 8 November 2026. [@1,4,5,7] The two were travelling
 towards Sampa in the Jaman North District in a white and red Kia Grand Bus with
-registration number AS-2415-26. [@1,4,5] The bus was carrying passengers when
+registration number AS-2415-26. [@1,4,5,8] The bus was carrying passengers when
 officers stopped and searched it. [@3,4,5] A search of one of the vehicle's
 compartments found two brown boxes containing the 41 yellow sellotaped
-compressed slabs. [@1,4,5,6]
+compressed slabs. [@1,4,5,6,8]
 
 The driver told interrogators he had received the parcel from an unidentified
-person in Accra for delivery to someone in Sampa. [@1,4,5] The driver then offered
+person in Accra for delivery to someone in Sampa. [@1,4,5,8] The driver then offered
 officers GH¢9,000 to secure their release, but the officers rejected the offer
-and retained the money as an exhibit. [@1,4,5,6] The Drugs Law Enforcement Unit was
-called in to assist the investigation. [@1,4,5] The two remained in police custody
+and retained the money as an exhibit. [@1,4,5,6,8] The Drugs Law Enforcement Unit was
+called in to assist the investigation. [@1,4,5,7] The two remained in police custody
 while officers worked to put them before court. [@1,4,5] The command's public
 relations officer, Chief Inspector Thomas Akeelah, signed a statement on the
 case, and the command praised the officers' professionalism and vigilance. [@2]
