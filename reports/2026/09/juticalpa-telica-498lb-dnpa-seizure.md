@@ -87,6 +87,11 @@ sources:
     publisher: Policía Nacional de Honduras
     date: 2026-09-11
     language: es
+  - title: Fiscales contra el microtráfico de drogas coordinan captura de hombre a quien se le incautaron 500 libras de supuesta marihuana
+    url: https://www.mp.hn/publicaciones/fiscales-contra-el-microtrafico-de-drogas-coordinan-captura-de-hombre-a-quien-se-le-incautaron-500-libras-de-supuesta-marihuana/
+    publisher: Ministerio Público de Honduras
+    date: 2026-09-11
+    language: es
 open_questions:
   - The outlets give no separate date for the operation beyond 'in the last hours' and their 11 September 2026 publication; 11 September is used, while the National Police posted the account on 12 September.
   - The 498 pounds (about 226 kg) is a preliminary police weight for a load still described as suspected marijuana, not a laboratory measurement.
@@ -95,13 +100,15 @@ open_questions:
   - No charge sheet, formal charge, measure of restraint or court outcome for the two detainees was reported.
   - The minor's legal status under Honduras's juvenile justice procedure was not reported.
   - The National Police's four Facebook photos carry no captions and their automatic alt text does not establish what each shows, so they are linked as the police's own images of the operation rather than described.
+  - The prosecutor's account says five sacks while the police accounts say 10 bales, though both agree on 249 double packages.
+  - The charging request was still being prepared when published, with no filing, detention order or court outcome confirmed.
 ---
 
 Agents of Honduras's National Anti-Drug Police Directorate (DNPA) seized 498
 pounds of suspected marijuana at the Desvío de Telica in Juticalpa, Olancho,
-during an operation in the early hours before 11 September 2026. [@2] The load
+during an operation in the early hours before 11 September 2026. [@2,7] The load
 was hidden in a car and packed in 10 bales holding 249 double packages, which
-police weighed at a total of 498 pounds (about 226 kg). [@2] Officers detained
+police weighed at a total of 498 pounds (about 226 kg). [@2,7] Officers detained
 two people who were travelling in the car carrying the load: a 27-year-old man
 and a 17-year-old minor. [@2,6] The car used to move the substance was also
 confiscated and stayed under the authorities' custody as part of the
@@ -116,6 +123,6 @@ it is marijuana. [@2]
 
 Both detainees were to be handed to the competent authorities to continue the
 procedure established by law and to determine their possible responsibility for
-moving the load. [@3] Investigations continued to establish where the load came
+moving the load. [@3] The planned charge was aggravated drug trafficking to the detriment of public health of the State of Honduras. [@7] The Public Prosecutor's Office identified the detained driver as Edgardo Josué Zavala Velásquez and said its anti-microtrafficking team was preparing a charging request against him. [@7] Investigations continued to establish where the load came
 from and where it was going. [@4] The National Police announced the case under
 its #LoMásRelevante round-up as an impact operation in Olancho. [@1]
