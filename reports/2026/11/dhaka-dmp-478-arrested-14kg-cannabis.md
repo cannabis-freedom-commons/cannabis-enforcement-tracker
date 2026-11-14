@@ -43,27 +43,26 @@ sources:
     url: https://unb.com.bd/category/Bangladesh/478-arrested-in-dmp-drives-in-24-hours/200304
     publisher: United News of Bangladesh
     date: 2026-11-14
-open_questions:
-  - The 478 arrests and 62 cases cover the whole 24-hour sweep across all alleged offences; how many were linked specifically to cannabis was not stated.
-  - Yaba pills, heroin, mobile phones, bicycles, cash and explosive remnants seized in the same sweep are excluded from the cannabis figures; no combined weight is counted as cannabis.
-  - No arrested person was named and no charges or court outcomes were reported beyond legal proceedings said to be under way.
-  - Both opened accounts follow the same DMP press release, so they are not fully independent reporting.
+  - title: রাজধানীতে ২৪ ঘণ্টায় ৪৭৮ জন গ্রেপ্তার, মামলা ৬২টি
+    url: https://www.duaa-news.com/article/43896
+    publisher: duaa-news.com
+    date: 2026-11-14
+    language: bn
 ---
 
 Dhaka Metropolitan Police arrested 478 people and filed 62 cases during 24 hours
-of regular drives across the capital on Friday 13 November 2026. [@1] The
+of regular drives across the capital on Friday 13 November 2026. [@1,3] The
 figures were announced on 14 November by DMP Deputy Commissioner for Media and
 Public Relations Md Akter Hossain. [@1] Mirpur division accounted for the most
 arrests with 127, followed by Wari with 74, Tejgaon with 71, Lalbagh with 58,
 Uttara with 51, Motijheel with 39, Ramna with 29 and Gulshan with 23, with five
-more held by SRU-1 and the Detective Branch. [@2]
+more held by SRU-1 and the Detective Branch. [@2,3]
 
 During the same drives police seized 14 kg 45 grams (14.045 kg) of cannabis.
-[@1] Police also filed 62 cases and seized 14.045 kg of cannabis, 1,633 Yaba
+[@1,3] Police also filed 62 cases and seized 14.045 kg of cannabis, 1,633 Yaba
 pills and 2.5 grams of heroin during the drives. [@2] Police also recovered five
 mobile phones, 17 bicycles, Tk 47,090 in suspected drug-sale proceeds, two
-exploded smoke-bomb casings and fragments of eight exploded cocktails. [@2]
+exploded smoke-bomb casings and fragments of eight exploded cocktails. [@2,3]
 
 Police said further legal proceedings against those arrested were under way.
 [@1]
-
