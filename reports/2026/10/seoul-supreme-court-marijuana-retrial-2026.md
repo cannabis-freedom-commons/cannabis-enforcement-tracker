@@ -96,6 +96,11 @@ sources:
     publisher: 시사주간
     date: 2026-11-13
     language: ko
+  - title: 마약 자백하곤 "시점 착각" 번복…대법 "보강증거 없인 유죄 못줘"
+    url: https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03552246645645392
+    publisher: 이데일리
+    date: 2026-11-13
+    language: ko
 media:
   - kind: photo
     url: https://news.sbs.co.kr/english/article.do?news_id=N1008844852
@@ -112,12 +117,12 @@ media:
 South Korea's Supreme Court, presided over by Justice Shin Suk-hee, on 27
 October 2026 reversed the lower court's ruling against a defendant identified as
 A, who was indicted on charges including violating the Act on the Control of
-Narcotics, and sent the case back to the Seoul High Court. [@1,2,3,4,6,7,8,9,11,12,13] A, who ran a
+Narcotics, and sent the case back to the Seoul High Court. [@1,2,3,4,6,7,8,9,11,12,13,15] A, who ran a
 record production and distribution company, a content firm, and nightlife
 establishments, was brought to trial on charges that included buying large
 quantities of ecstasy and marijuana in 2023 and selling or smoking some of them.
 [@1] Prosecutors also charged that around 9 p.m. in late April 2024, A smoked 1
-gram of marijuana together with four accomplices at an office in Seoul. [@1,8] The group allegedly placed 1 gram of cannabis in an empty can punctured with an awl, lit it with a lighter and inhaled the smoke. [@7,9] The charged smoking incident took place in an office in Gangnam, Seoul. [@6,7,13] The
+gram of marijuana together with four accomplices at an office in Seoul. [@1,8] The group allegedly placed 1 gram of cannabis in an empty can punctured with an awl, lit it with a lighter and inhaled the smoke. [@7,9] The charged smoking incident took place in an office in Gangnam, Seoul. [@6,7,13,15] The
 trial court found A guilty of the marijuana smoking charge, citing, among other
 things, that the accomplices indicted with A admitted the offense in court, and
 including other drug-related charges, the court sentenced A to three years and
@@ -138,11 +143,11 @@ the offense in the indictment. [@1,6,8,10,12,13] The Supreme Court also found it
 out the possibility that the accomplices' in-court confessions referred to the
 April 2023 smoking incident, and therefore held that their testimony could not
 be deemed sufficient to corroborate A's confession, and that the remaining
-evidence alone did not adequately prove the alleged smoking in April 2024. [@1,4,5,6,7,14]
+evidence alone did not adequately prove the alleged smoking in April 2024. [@1,4,5,6,7,14,15]
 The Criminal Procedure Act bars a conviction if the defendant's confession is
 the only incriminating evidence, and the Supreme Court said the lower court
 misunderstood the legal principles on corroborating a confession and on the
-standard of proof required in criminal trials. [@1,6,13] The Supreme Court found no
+standard of proof required in criminal trials. [@1,6,13,15] The Supreme Court found no
 error in the lower court's determination that A was guilty on other charges of
 selling marijuana with accomplices, but because a single sentence had been
 imposed for the disputed smoking charge and the remaining guilty counts, it
