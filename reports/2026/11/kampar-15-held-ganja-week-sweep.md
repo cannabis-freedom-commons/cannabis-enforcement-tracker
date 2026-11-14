@@ -67,22 +67,27 @@ sources:
     publisher: Kabar Melayu
     date: 2026-11-12
     language: id
+  - title: Sepekan, Polres Kampar Gulung 15 Tersangka Narkoba, Sabu, Ganja dan Ekstasi Disita
+    url: https://www.poskotasumatera.com/2026/11/sepekan-polres-kampar-gulung-15.html
+    publisher: POSKOTASUMATERA.COM
+    date: 2026-11-12
+    language: id
 ---
 
 Satresarkoba Polres Kampar and five sub-district police units arrested 15 people
 suspected of narcotics offences during a week-long operation in Kampar Regency,
-Riau. [@1,2,3,4,5] The 15 suspects came from 13 police reports. [@5] The operation ran from 5 to 11 November 2026. [@1,2,3,4,5] The squads
+Riau. [@1,2,3,4,5,6] The 15 suspects came from 13 police reports. [@5,6] The operation ran from 5 to 11 November 2026. [@1,2,3,4,5,6] The squads
 involved were Satresarkoba Polres Kampar and the police districts of Kampar
 Kiri, Tapung, Tapung Hulu, Tapung Hilir and Tambang, led by the squad chief Iptu
-Rifles. [@1,2]
+Rifles. [@1,2,6]
 
 Police said they also seized 39.75 grams of methamphetamine and one ecstasy
-pill, neither of which is cannabis. [@1,2,4,5] Officers also seized 1.2 kilograms of
-dried ganja. [@1,2,3,4,5]
+pill, neither of which is cannabis. [@1,2,4,5,6] Officers also seized 1.2 kilograms of
+dried ganja. [@1,2,3,4,5,6]
 
 Kampar police chief AKBP Boby Putra Ramadan said the disclosures were part of
 the national police's anti-narcotics campaign and a quick-win programme of the
 national police chief, General Suyudi Ario Seto. [@1,2] Boby said the force would
-leave no room for illicit narcotics distributors in Kampar Regency. [@1,2] Police
+leave no room for illicit narcotics distributors in Kampar Regency. [@1,2,6] Police
 asked residents to help by reporting any suspicious activity linked to drug
-misuse or distribution. [@1,2]
+misuse or distribution. [@1,2,6]
