@@ -55,6 +55,11 @@ sources:
     url: https://digitalgoa.com/north-goa-records-74-drug-cases-seizures-worth-%E2%82%B91-92-crore-this-year/
     publisher: Digital Goa
     date: 2026-11-12
+  - title: Drug network under scanner as North Goa Police intensifies crackdown; 94 arrested this year
+    url: https://m.dailyhunt.in/news/india/english/goemkarponn+news-epaper-gmkpnnws/drug+network+under+scanner+as+north+goa+police+intensifies+crackdown+94+arrested+this+year-newsid-n733650061
+    publisher: Goemkarponn News
+    date: 2026-11-13
+    language: en
 open_questions:
   - The 49.226 kg total mixes cannabis (ganja, charas) with LSD, MDMA, ecstasy and ketamine; no source splits a cannabis-only weight, so no separate cannabis figure is recorded.
   - The drive's start date and the exact period covered by the 74 cases are not specified; 13 November 2026 is used as the incident date from the publication.
@@ -63,13 +68,13 @@ open_questions:
 ---
 
 In an intensified anti-drug-trafficking drive, North Goa Police registered a
-total of 74 cases under the NDPS Act by November 2026. [@1]
+total of 74 cases under the NDPS Act by November 2026. [@1,3]
 
 94 persons had been arrested in those operations: 26 Goans, 54 residents of
-other states and 14 foreign nationals. [@1]
+other states and 14 foreign nationals. [@1,3]
 
 Police said they had seized a total of 49 kg 226 g 280 mg of drugs in the drive,
-which they valued at about ₹1,92,73,420. [@1]
+which they valued at about ₹1,92,73,420. [@1,3]
 
 In November, three new cases were registered under the NDPS Act, with four
 persons arrested in operations by Hanjwal and Pernem police stations, including
@@ -79,18 +84,17 @@ On 11 November 2026, police arrested a 26-year-old from Karaswada in connection
 with 14 LSD blot papers seized earlier in the month. [@1]
 
 On 10 November, Hanjwal police raided near Siolim's football ground and seized
-67 grams of charas worth about ₹67,000 from a Himachal Pradesh native. [@1]
+67 grams of charas worth about ₹67,000 from a Himachal Pradesh native. [@1,3]
 
 Pernem police laid a roadblock and detained a local man, seizing 105.23 grams of
-ganja and 3.24 grams of MDMA from him. [@1]
+ganja and 3.24 grams of MDMA from him. [@1,3]
 
 Police also apprehended a 36-year-old absconder from Jammu and Kashmir, a
 fugitive in an older case registered at Pernem police station. [@1]
 
 A special team arrested the absconder at a hotel in Pushkar, Rajasthan on 11
-November 2026. [@1]
+November 2026. [@1,3]
 
 Digital Goa separately reported that North Goa police had registered 74 NDPS
 cases and arrested 94 persons this year, with 26 Goans, 54 persons from other
 states and 14 foreign nationals among those arrested. [@2]
-
