@@ -76,12 +76,16 @@ sources:
     url: https://foxsanantonio.com/news/nation-world/van-full-of-pot-troopers-arrest-oregon-man-after-finding-nearly-1000-pounds-of-weed
     publisher: Fox San Antonio
     date: 2026-11-13
+  - title: 'Van full of pot: Troopers arrest Oregon man after finding nearly 1000 pounds of weed'
+    url: https://cbs12.com/news/nation-world/van-full-of-pot-troopers-arrest-oregon-man-after-finding-nearly-1000-pounds-of-weed
+    publisher: WPEC
+    date: 2026-11-13
 ---
 
 Oregon State Police stopped a cargo van on Brownsboro Highway on Friday 6
-November 2026. [@1,4,5,7,8] The driver was cooperative and provided a manifest saying
+November 2026. [@1,4,5,7,8,9] The driver was cooperative and provided a manifest saying
 the cargo he picked up was from 1635 Brownsboro Highway and was being delivered
-to a Brooklyn, New York address. [@1,3,4] He confirmed he had picked up about 700
+to a Brooklyn, New York address. [@1,3,4,9] He confirmed he had picked up about 700
 pounds of hemp products from a man named Sunny, later identified as 38-year-old
 Saibya Walter Mims. [@1,4] The driver provided a manifest saying the cargo he picked up was from 1635 Brownsboro Highway and was being delivered to a Brooklyn, New York address. [@6] An Eagle Point man was arrested on several charges
 after troopers found the marijuana in the van. [@1,4]
@@ -89,7 +93,7 @@ after troopers found the marijuana in the van. [@1,4]
 The driver consented to a search of the van, and troopers reported an
 overwhelming smell of marijuana when they opened it. [@1,3,4] In total they found
 about 25 triple-sealed bags of marijuana and around 910 pounds of pot, about
-412.8 kilograms. [@2,4,5,7,8] Officers found about 25 triple-sealed bags of marijuana totaling around 910 pounds (about 412.8 kilograms) in the van. [@6] Police said the manifest claimed the product was hemp with
+412.8 kilograms. [@2,4,5,7,8,9] Officers found about 25 triple-sealed bags of marijuana totaling around 910 pounds (about 412.8 kilograms) in the van. [@6] Police said the manifest claimed the product was hemp with
 no THC, packed in Home Depot cardboard boxes and marked Gas Head. [@1,4] The
 Jackson County Sheriff's Office assisted in the investigation and reported THC
 levels of nearly 19 percent, which made the load illegal to ship out of state.
@@ -100,7 +104,7 @@ Management Group, and found thousands of pounds of marijuana in various forms of
 processing. [@1,4,5,8] Mims was arraigned on Thursday on two counts of unlawful
 possession of marijuana, two counts of unlawful delivery of marijuana, two
 counts of unlawful import or export of marijuana and one count of unlawful
-manufacture of marijuana, all felonies. [@1,4,5,7,8] Court records showed he was
+manufacture of marijuana, all felonies. [@1,4,5,7,8,9] Court records showed he was
 released from custody with a future court date of 10 December. [@1,4,5] The judge
 ordered him to undergo pretrial monitoring and to stay away from alcohol,
 non-prescribed controlled substances or cannabis. [@1,4]
