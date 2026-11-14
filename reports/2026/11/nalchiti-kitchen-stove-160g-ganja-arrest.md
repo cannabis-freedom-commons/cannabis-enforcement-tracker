@@ -53,16 +53,21 @@ sources:
     publisher: Ajker Patrika
     date: 2026-11-13
     language: bn
+  - title: নলছিটিতে রান্নাঘরের মাটির চুলা থেকে ১৬০ গ্রাম গাঁজা উদ্ধার, নারী গ্রেপ্তার
+    url: https://www.dhakatoday.com/news/93972/%E0%A6%A8%E0%A6%B2%E0%A6%9B%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%BE%E0%A6%98%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%9A%E0%A7%81%E0%A6%B2%E0%A6%BE-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A7%A7%E0%A7%AC%E0%A7%A6-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%B0,-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0
+    publisher: Dhaka Today
+    date: 2026-11-13
+    language: bn
 ---
 
 Police in Nalchiti, Jhalakati District, arrested a 33-year-old woman named Iti
-Akter Roni after a raid on her home. [@1] Officers found 160 grams of ganja
+Akter Roni after a raid on her home. [@1,2] Officers found 160 grams of ganja
 wrapped in a white polythene bag inside the earthen stove of the kitchen of the
-house. [@1] Officers also seized 1,500 taka that police said was money from drug
-sales. [@1] The raid was carried out on Friday evening in the Nanguli area of
-Ward 2 of Nalchiti Municipality on the basis of secret information. [@1]
+house. [@1,2] Officers also seized 1,500 taka that police said was money from drug
+sales. [@1,2] The raid was carried out on Friday evening in the Nanguli area of
+Ward 2 of Nalchiti Municipality on the basis of secret information. [@1,2]
 
-The operation ran from 3:10 pm to 4:30 pm. [@1] The ganja was found in the stove
+The operation ran from 3:10 pm to 4:30 pm. [@1,2] The ganja was found in the stove
 on the northern side of the kitchen. [@1] Police identified the arrested woman
 as the daughter of Nur-e Alam Hawlader of the area and the wife of Miraj Majhi.
 [@1]
@@ -71,4 +76,3 @@ The acting officer-in-charge of Nalchiti police station, Touhizzaman Sohag, said
 the drive against drugs was continuing and that no one involved in the drug
 trade would be spared. [@1] He said the process of taking legal action in the
 case was under way. [@1]
-
