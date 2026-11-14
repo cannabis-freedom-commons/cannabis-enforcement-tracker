@@ -61,31 +61,32 @@ sources:
     publisher: HMTV
     date: 2026-11-13
     language: te
+  - title: ఒడిశా టు మహారాష్ట్ర, గంజాయి అక్రమ రవాణా.. సూర్యాపేటలో పట్టివేత..!
+    url: https://manasakshi.in/illegal-cannabis-trafficking-from-odisha-to-maharashtra-intercepted-in-suryapet/
+    publisher: ManaSakshi
+    date: 2026-11-13
+    language: te
 media:
   - kind: photo
     url: https://www.dishadaily.com/telugunews/an-iron-fisted-crackdown-on-the-illegal-trafficking-of-ganja-600669
     media_url: https://www.dishadaily.com/h-upload/2026/11/13/614527-untitled-1.webp
     publisher: Disha Daily
     caption: Suryapet district police with two hooded suspects and the four bags of seized ganja at a press conference.
-open_questions:
-    - The names and ages of the three absconding members and the court charges were not reported.
-    - No laboratory confirmation of the seized material was reported.
-    - Deccan Chronicle spells the suspects' names as 'Akash' and 'Morye' while the Telugu accounts used 'Aakash' and 'More' for the same two men.
 ---
 
 Two suspects were arrested after they came to Suryapet on 12 November to take
-back the vehicle. [@1,3,4] Police identified the two arrested as Aakash Vijay
+back the vehicle. [@1,3,4,5] Police identified the two arrested as Aakash Vijay
 Dabekar, 23, and Aakash Dilip More, 32, of Maharashtra. [@2,3,4] The two men come from Beed district and Buldhana district in Maharashtra. [@3,4]
 
 The Innova broke down near Padmavati Function Hall on NH-65 on the outskirts of
-Suryapet town, and its occupants abandoned it and fled. [@2,3,4] Superintendent of police K. Narsimha said the vehicle broke down and was abandoned on 7 November. [@3,4] Second town police
+Suryapet town, and its occupants abandoned it and fled. [@2,3,4,5] Superintendent of police K. Narsimha said the vehicle broke down and was abandoned on 7 November. [@3,4] Second town police
 checked the suspiciously parked car and found 112 kg of ganja, which they
-seized. [@1,3,4] The gang had bought the 112 kg for Rs 2.24 lakh at Rs 2,000 per kg
+seized. [@1,3,4,5] The gang had bought the 112 kg for Rs 2.24 lakh at Rs 2,000 per kg
 from unidentified people near Jagannathpuri in Odisha. [@1,3,4] Each of the five men from Maharashtra put in Rs 50,000 to buy the ganja. [@4] They had packed it
 into 41 packets and were moving it in an Innova car toward Maharashtra. [@1,4] Another Ertiga ran ahead as an escort, watching police movements and passing information to the Innova behind. [@4]
 
-Police said the seized ganja was worth about Rs 25 lakh. [@1,3,4] Police seized
+Police said the seized ganja was worth about Rs 25 lakh. [@1,3,4,5] Police seized
 three mobile phones from the arrested men and produced them in court for remand.
-[@2,4] The district SP said three more members were absconding and special teams
-were searching for them. [@1,3,4] Police seized the ganja along with the vehicle and
+[@2,4,5] The district SP said three more members were absconding and special teams
+were searching for them. [@1,3,4,5] Police seized the ganja along with the vehicle and
 registered a case. [@2,4]
