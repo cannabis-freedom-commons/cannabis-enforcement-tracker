@@ -56,17 +56,24 @@ sources:
     publisher: ABC Color
     date: 2026-11-12
     language: es
+  - title: 'Amambay: desmantelan laboratorio de cocaína y detienen a 8 sospechosos de distintas nacionalidades'
+    url: https://www.lanacion.com.py/pais/2026/11/13/amambay-desmantelan-laboratorio-de-cocaina-y-detienen-a-8-sospechosos-de-distintas-nacionalidades/?outputType=amp
+    publisher: La Nación (Paraguay)
+    date: 2026-11-13
+    language: es
 open_questions:
   - RDN's headline and an embedded post speak of a cocaine laboratory and base-paste washing, while ABC describes a general clandestine drug lab where only small cannabis and cocaine portions were found; the report uses the shared account of a multi-drug processing site.
   - ABC says two pistols were seized, but RDN and Diário Pantanal describe one Canik 9mm pistol plus one Rossi revolver and one air gun; the combined weapons total differs across outlets.
   - The cocaine and cocaine-like substances are not cannabis, so their 52.81 grams are kept out of the cannabis figure; no cannabis value estimate was published.
   - No charges, trial date or outcome for the seven detainees was reported as of publication.
   - The number of caged animals was not published, and the Brazilian-market destination is the authorities' assessment, not a court finding.
+  - The La Nación report names eight detainees and counts eight held, while the ABC Color report named seven men; the extra La Nación detainee is not in the ABC list and his nationality was not recorded. The figure of seven arrested is kept from the ABC report.
+  - The cocaine weight is given as 52.20 grams in the La Nación report but 52.81 grams in other outlets' statements; the cocaine portion is not cannabis and is kept out of the cannabis figure either way.
 ---
 
 Agents of Paraguay's National Anti-Drug Secretariat (SENAD), from its Pedro Juan
 Caballero regional office, raided a rural property in the Cerro Corá district of
-Amambay department on Thursday 12 November 2026. [@1] Seven men of different
+Amambay department on Thursday 12 November 2026. [@1,2] Seven men of different
 nationalities were detained, investigators said, who are believed to have served
 a criminal structure dedicated to the processing and trafficking of narcotics.
 [@1] The detainees are two Paraguayans, three Brazilians, a Peruvian and a
@@ -80,4 +87,3 @@ a howler (karaja), several macaws and a tirica, the native spotted cat - which
 were rescued and handed to the environmental-crimes prosecutor. [@1] The
 operation was run by Amambay anti-drug prosecutor Rossana Coronel with SENAD
 special forces in support. [@1]
-
