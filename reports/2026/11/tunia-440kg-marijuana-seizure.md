@@ -46,17 +46,20 @@ sources:
     publisher: Diario del Cauca
     date: 2026-11-12
     language: es
-open_questions:
-  - Diario del Cauca and Diario del Sur illustrate the Tunía seizure with unrelated sidebar images (a Medellín crash rescue, mounted police, fashion ads), not a photo of the 440 kg marijuana find, so no event photo is listed.
+  - title: Ejército incautó 440 kilos de marihuana en el sector de Tunía, Cauca
+    url: https://www.diariodelsur.com.co/noticias/ejercito-incauto-440-kilos-de-marihuana-en-el-sector-de-tunia-cauca
+    publisher: Diario del Sur
+    date: 2026-11-09
+    language: es
 ---
 
 On 11 November, Brigade 29 of the Colombian army seized 440 kilograms of
 marijuana at the old Tunía toll on the Panamericana road, in Piendamó, Cauca.
-[@1,2,3] The seizure came during a military checkpoint check on a truck whose driver
-had tried to evade the post and then abandoned the vehicle. [@1,2,3]
+[@1,2,3,4] The seizure came during a military checkpoint check on a truck whose driver
+had tried to evade the post and then abandoned the vehicle. [@1,2,3,4]
 
 The authorities attributed the load, presumably, to the Dagoberto Ramos
-structure of the FARC dissidents. [@1]
+structure of the FARC dissidents. [@1,4]
 
 The regional report also records a separate late-October interception of a
-tanker carrying 7,025 gallons of a substance identified as hexane. [@1] The late-October tanker-truck interception involved the Traffic Police, the Prosecutor's CTI and the Army, and the tanker was carrying the chemical product with presumably false documentation. [@2,3]
+tanker carrying 7,025 gallons of a substance identified as hexane. [@1,4] The late-October tanker-truck interception involved the Traffic Police, the Prosecutor's CTI and the Army, and the tanker was carrying the chemical product with presumably false documentation. [@2,3]
