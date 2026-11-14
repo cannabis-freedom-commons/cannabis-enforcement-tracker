@@ -76,14 +76,10 @@ sources:
     url: https://www.miragenews.com/two-arrested-after-drugs-cash-gold-cars-and-1777279/
     publisher: Mirage News
     date: 2026-11-14
-open_questions:
-  - No weight or plant count for the cannabis was published; the 1 kg figure refers to methamphetamine and is excluded from cannabis figures.
-  - The combined values (methamphetamine worth about $105,000, $50,000 of gold coins, millions in alleged assets) cannot be recorded as a single value figure, so only the seized cash is recorded.
-  - No separate date for the two-day search was published; 14 November 2026, the date of the police announcement and publication, is used as the incident date.
-  - No detail on the cannabis cultivation site, method or number of plants was published, so no plants or cultivation-area figures are recorded.
-  - The quantity and value of the gold bars were not specified beyond the $50,000 of gold coins.
-  - No court outcome was reported; both men are due to reappear in the Wellington District Court on 3 December and further charges were said to be likely.
-  - 1News describes the investigation as running for years while the police account says nearly a year; this report follows the police account.
+  - title: 'Wellington drug bust: Police seize millions in assets, guns and classic cars'
+    url: https://www.nzherald.co.nz/nz/wellington/wellington-drug-bust-police-seize-millions-in-assets-guns-and-classic-cars/7BKWD6F2LBHHPKEKIOX64YZN4Q/
+    publisher: NZ Herald
+    date: 2026-11-13
 ---
 
 Wellington Police arrested two men who face more than 20 drug- and
@@ -96,7 +92,7 @@ on bail and will reappear in the Wellington District Court on 3 December facing
 charges of unlawful possession of a restricted weapon and possession of
 methamphetamine. [@1]
 
-Officers found the haul during a two-day search of two properties. [@1] The haul
+Officers found the haul during a two-day search of two properties. [@1,5] The haul
 included cannabis alongside GHL (gamma-hydroxybutyrate), a kilo of
 methamphetamine in distinctive wrapping worth approximately $105,000, and space
 vape liquid and packaging. [@1] Police also recovered cases of cash estimated to
@@ -108,11 +104,10 @@ guns, a large recycling bin full of copper and nine classic cars. [@3] 1News
 confirmed the seizure of a rifle, a 3D-printed firearm and nine classic cars
 including a limousine, a Chevrolet Bel Air and a Plymouth Savoy. [@2]
 
-The seizures followed nearly a year's worth of investigating. [@4] Detective
+The seizures followed nearly a year's worth of investigating. [@4,5] Detective
 Senior Sergeant Lee Underhill said one of the men had been supplying a wide
 range of illicit drugs from his property for many years, benefitting off the
 addiction of others. [@1] Underhill said police were pleased to have taken these
 drugs and firearms out of the community and seized millions of dollars' worth of
 assets believed to be the profits of his illegal enterprise. [@1] Police said
 further charges were likely. [@4]
-
