@@ -43,6 +43,11 @@ media:
     media_url: https://www.amprensa.com/assets/img/subidas/v/mwf3rjuz-59d340a9-7c7e-4920-95d6-a4c08c628ca2-1200.avif
     publisher: AM Prensa
     caption: 'Photo of the suspected marijuana laboratory in the Heredia home where three people were detained. Photo: AM Prensa.'
+  - kind: photo
+    url: https://crprensa.com/2026/11/13/fuerza-publica-atendio-caso-de-violencia-intrafamiliar-y-ubico-laboratorio-de-marihuana/
+    media_url: https://crprensa.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-8.19.32-AM-1024x576.jpeg?v=1794598920
+    publisher: CRprensa.com
+    caption: 'Photos of the marijuana laboratory discovered in the Lagunilla de Ulloa home, published with the CRprensa report. Photo: CRprensa.com.'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e453e63de83682baa59c10a0a5dd920a
@@ -50,6 +55,11 @@ sources:
   - title: Policía llegó a atender denuncia de violencia familiar y terminó descubriendo laboratorio de marihuana
     url: https://www.amprensa.com/2026/11/policia-llego-atender-denuncia-violencia-familiar-termino
     publisher: AM Prensa
+    date: 2026-11-13
+    language: es
+  - title: Fuerza Pública atendió caso de violencia intrafamiliar y ubicó laboratorio de marihuana
+    url: https://crprensa.com/2026/11/13/fuerza-publica-atendio-caso-de-violencia-intrafamiliar-y-ubico-laboratorio-de-marihuana/
+    publisher: CRprensa.com
     date: 2026-11-13
     language: es
 open_questions:
@@ -63,16 +73,15 @@ open_questions:
 
 Fuerza Publica officers at a home in Lagunilla de Ulloa, Heredia, who had been
 called to a suspected domestic-violence case, found a suspected marijuana
-laboratory and detained three men with surnames Reyes, Noguera and Dimas. [@1]
+laboratory and detained three men with surnames Reyes, Noguera and Dimas. [@1,2]
 
 The anti-drug agents inspected the home and seized 87 plants of apparent
 marijuana, 21 to 74 centimetres tall, five containers with apparent seeds, and
-58.18 grams of the same drug. [@1] Officers also seized ₡142,000 in cash, eight
+58.18 grams of the same drug. [@1,2] Officers also seized ₡142,000 in cash, eight
 fans, two air conditioners and other equipment inside the home. [@1]
 
 According to the PCD, Noguera has 37 police arrests since 2015 and Dimas 29
 since 2014, 66 arrests in total, while Reyes has drug-related records since
-2020. [@1] The three men, with the plants, cash and equipment, were handed to
+2020. [@1,2] The three men, with the plants, cash and equipment, were handed to
 the judicial authorities, who must determine their legal situation; no charges
 or court outcome were reported. [@1]
-
