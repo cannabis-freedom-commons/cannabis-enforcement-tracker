@@ -87,12 +87,17 @@ sources:
     publisher: Acontece Botucatu
     date: 2026-11-13
     language: pt
+  - title: POLÍCIA INVESTIGA ASSOCIAÇÃO DE CANNABIS MEDICINAL SUSPEITA DE SERVIR COMO FACHADA PARA TRÁFICO EM ITATINGA
+    url: https://avozdovale.com.br/policia-investiga-associacao-de-cannabis-medicinal-suspeita-de-servir-como-fachada-para-trafico-em-itatinga/
+    publisher: A Voz do Vale
+    date: 2026-11-13
+    language: pt
 ---
 
 São Paulo Civil Police found a cannabis growing structure holding more than half
 a tonne of marijuana on a farm in Itatinga on the morning of Wednesday 11
 November 2026. [@1,3,6] The action was the third phase of Operação Green Veil and
-was carried out under a judicial search and seizure warrant. [@1,3,6] The association's headquarters is in the São Paulo capital, and its president had already been arrested during the second phase of the operation. [@4,5,6] Civil police suspected the farm was part of a scheme in which the people involved used the front of an association serving patients who rely on cannabis-based medicines to divert production into drug trafficking. [@4,5]
+was carried out under a judicial search and seizure warrant. [@1,3,6] The association's headquarters is in the São Paulo capital, and its president had already been arrested during the second phase of the operation. [@4,5,6] Civil police suspected the farm was part of a scheme in which the people involved used the front of an association serving patients who rely on cannabis-based medicines to divert production into drug trafficking. [@4,5] The association's president had already been arrested during the second phase of the operation. [@7]
 
 The team was met by the farm's caretaker, who stayed with the officers during
 the search. [@1,3] Officers found six greenhouses for growing the drug and a
@@ -107,4 +112,4 @@ of the plantations for examination at the Instituto de Criminalística. [@1,3,5,
 
 The plants in the greenhouses and the nursery were destroyed by incineration
 after the work on the property. [@1,3,4,5,6] JCNET reported that the case remained under
-investigation. [@2] The case was registered at the 6th Police District of Cambuci in São Paulo, where the investigation continues to identify other people involved. [@4,6]
+investigation. [@2] The case was registered at the 6th Police District of Cambuci in São Paulo, where the investigation continues to identify other people involved. [@4,6] The incident was registered at the 6th Police District of Cambuci in the capital, where the investigations continue. [@7]
