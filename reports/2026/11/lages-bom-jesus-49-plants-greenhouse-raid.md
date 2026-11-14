@@ -54,6 +54,11 @@ sources:
     publisher: Rádio Clube de Lages (SCC10)
     date: 2026-11-13
     language: pt
+  - title: Polícia Militar apreende 49 pés de maconha, estufas e mais de 1,3 kg da droga em Lages
+    url: https://notiserrasc.com.br/policia-militar-apreende-49-pes-de-maconha-estufas-e-mais-de-13-kg-da-droga-em-lages/
+    publisher: Notiserra SC
+    date: 2026-11-13
+    language: pt
 open_questions:
     - The suspect was not named and no age or other identifying detail was published.
     - No custody decision, charge sheet or court outcome beyond the trafficking registration was reported.
@@ -71,12 +76,12 @@ On the night of Thursday 12 November 2026, Santa Catarina military police
 arrested one man and seized 49 cannabis plants at a house in the Bom Jesus
 district of Lages. [@1,2] Officers recorded the incident at about 19h45 during
 patrol, after noticing a strong smell of marijuana near a residence and finding
-a cultivation structure. [@1,2] Inside the property they found three greenhouses
+a cultivation structure. [@1,2,3] Inside the property they found three greenhouses
 with ventilation, lighting and heating equipment, along with other cultivation
 materials. [@1,2]
 
 Officers also seized 1.325 kg of marijuana, which the police said was packaged
-and ready for sale. [@1,2] The man was taken to the Civil Police station, where
+and ready for sale. [@1,2,3] The man was taken to the Civil Police station, where
 the incident was registered as drug trafficking. [@1,2] The plants, the packaged
 drug and the equipment were collected and placed at the disposal of the
 authorities responsible for the investigation. [@1] The outlet attributes its
