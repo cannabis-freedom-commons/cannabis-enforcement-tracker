@@ -64,6 +64,11 @@ sources:
     publisher: La Voz
     date: 2026-11-13
     language: es
+  - title: 'Cayeron 13 integrantes de una banda narco en Córdoba: drogas, dinero y autos de lujo'
+    url: https://eldoce.tv/actualidad/2026/11/13/cayeron-11-integrantes-de-una-banda-narco-en-cordoba-drogas-dinero-y-autos-de-lujo/
+    publisher: ElDoce.tv
+    date: 2026-11-13
+    language: es
 open_questions:
   - 'The 11 vs 13 detainee discrepancy is resolved: the initial reports said 11, later reports confirmed 13. The report uses 13.'
   - No court outcome is reported for the 13 detainees; the charges are not yet formally filed as of the publication date.
@@ -79,5 +84,4 @@ $211,514,690. [@2]
 
 The investigation is led by prosecutor Milagros Rivas of the First Turn Drug
 Trafficking Prosecutor's Office. [@2] The detentions and evidence were handed
-over to the judicial authorities. [@2]
-
+over to the judicial authorities. [@2] Prosecutor Milagros Rivas is scheduled to give more details of the case at a press conference at the FPA base in Parque Sarmiento in Córdoba capital. [@3]
