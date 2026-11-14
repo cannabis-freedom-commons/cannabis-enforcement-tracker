@@ -50,28 +50,28 @@ sources:
     publisher: ANSA
     date: 2026-11-13
     language: it
-open_questions:
-  - The article says 'venerdì scorso' (last Friday) without giving an exact date; 13 November 2026 is the publication date and is used as the incident date.
-  - The 16-year-old is not named; his identity is protected as a minor.
-  - The exact quantity of hashish is given as 'poco meno di 18 grammi' (just under 18 grams), not an exact measurement.
+  - title: 'Chiama il 112 dopo una lite con il figlio. Lui consegna ai carabinieri 4 involucri di hashish: arrestato 16enne'
+    url: https://www.corrieredellumbria.it/news/cronaca/469389/chiama-il-112-dopo-una-lite-con-il-figlio-lui-consegna-ai-carabinieri-4-involucri-di-hashish-arrestato-16enne.html
+    publisher: Corriere dell'Umbria
+    date: 2026-11-13
+    language: it
 ---
 
 On Friday a patrol from the Aliquota Radiomobile of the Amelia company, together
 with 118 paramedics, was sent to a home in the Amerino area after a woman called
 NUE 112 over a fierce quarrel with her son, who was in a state of strong
-agitation. [@1] During the intervention the minor spontaneously handed over to
+agitation. [@1,3] During the intervention the minor spontaneously handed over to
 officers just under 18 grams of hashish, already split into four wrappers ready
 for sale, and two fully working electronic precision scales, all kept in his
-bedroom. [@1]
+bedroom. [@1,3]
 
 The follow-up personal and home searches found nothing more. [@1] On the order
 of the duty prosecutor at the Juvenile Prosecutor's Office in Perugia, the minor
 was brought to a directissima validation hearing at the Juvenile Court in the
 provincial capital; the judge confirmed the arrest and applied the precautionary
 measure of house arrest, allowing him to continue attending school provided he
-was accompanied by his parents. [@1] The ANSA wire report confirms the court
+was accompanied by his parents. [@1,3] The ANSA wire report confirms the court
 outcome: at the end of the directissima validation hearing the judge confirmed
 the arrest and applied the precautionary measure of house arrest on the
 sixteen-year-old, letting him keep attending school as long as he was
 accompanied by his parents. [@2]
-
