@@ -50,22 +50,27 @@ sources:
     publisher: Sputnik Азербайджан
     date: 2026-06-27
     language: ru
+  - title: В Азербайджане за сутки из незаконного оборота изъято более 34 кг наркотиков
+    url: https://media.az/society/v-azerbajdzhane-za-sutki-iz-nezakonnogo-oborota-izyato-bolee-34-kg-narkotikov
+    publisher: Media.az
+    date: 2026-06-27
+    language: ru
 open_questions:
-  - The ministry named no districts, villages or sites where the plants were found, so the operations can only be placed at the level of Azerbaijan.
-  - The 12.1 tonnes is the stated combined weight of the uprooted wild plants, not dried cannabis or resin, and is therefore not recorded as kilograms seized.
-  - The 34.2 kg haul was described only as narcotic substances with no breakdown by substance, so no cannabis portion can be established and none is recorded as kilograms seized.
-  - The accounts report no number of operations, no area cleared, no arrests, suspects, charges, values or court outcomes.
-  - The accounts give the day as 26 June and were published on 27 June 2026, so 2026 is used as the year.
-  - All three outlets reproduce the same Interior Ministry statement, so there is a single primary account of the event.
-  - Sputnik also recalls a separate January-May 2026 national tally of 4.263 tonnes of narcotics and psychotropic substances, which is statistics left out of this single-day report.
-  - The text gives a weight ("34.2 kg") but the figures have no kg_seized; check whether it belongs there.
+    - The ministry named no districts, villages or sites where the plants were found, so the operations can only be placed at the level of Azerbaijan.
+    - The 12.1 tonnes is the stated combined weight of the uprooted wild plants, not dried cannabis or resin, and is therefore not recorded as kilograms seized.
+    - The 34.2 kg haul was described only as narcotic substances with no breakdown by substance, so no cannabis portion can be established and none is recorded as kilograms seized.
+    - The accounts report no number of operations, no area cleared, no arrests, suspects, charges, values or court outcomes.
+    - The accounts give the day as 26 June and were published on 27 June 2026, so 2026 is used as the year.
+    - All four outlets reproduce the same Interior Ministry statement, so there is a single primary account of the event.
+    - Sputnik also recalls a separate January-May 2026 national tally of 4.263 tonnes of narcotics and psychotropic substances, which is statistics left out of this single-day report.
+    - The text gives a weight ("34.2 kg") but the figures have no kg_seized; check whether it belongs there.
 ---
 
 In Azerbaijan on 26 June, more than 34 kg of narcotic substances were taken.
-[@1] The Interior Ministry reported the seizure to the outlet. [@1] During
+[@1,4] The Interior Ministry reported the seizure to the outlet. [@1,4] During
 operational measures, police discovered and seized about 34.2 kg of narcotic
-substances. [@1] Officers also found and destroyed 41,622 wild-growing cannabis
-bushes with a combined weight of 12.1 tonnes. [@1]
+substances. [@1,4] Officers also found and destroyed 41,622 wild-growing cannabis
+bushes with a combined weight of 12.1 tonnes. [@1,4]
 
 Report.az reported the same seizure of about 34.2 kg of narcotic substances.
 [@2] Report.az reported the same destruction of 41,622 wild cannabis bushes
@@ -78,4 +83,3 @@ bushes with a combined weight of 12.1 tonnes. [@3]
 The destruction of the bushes was reported in addition to the drug seizure. [@2]
 The ministry account called the plants dikorastushchikh kusta konopli,
 wild-growing cannabis bushes. [@1]
-
