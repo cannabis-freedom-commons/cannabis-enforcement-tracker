@@ -49,16 +49,17 @@ sources:
     publisher: Stagonnews
     date: 2026-11-13
     language: el
-open_questions:
-  - No charges, custody status or court outcome were reported for the arrest; the case was at the investigation stage.
-  - The exact place in Trikala where the check took place was not named.
-  - All three accounts reproduce the same Trikala DIAS unit statement, with no independent reporting.
+  - title: 'Τρίκαλα: Συνελήφθη 46χρονος με 5,6 γραμμάρια κάνναβης'
+    url: https://trikalaenimerosi.gr/topika/%CF%84%CF%81%CE%AF%CE%BA%CE%B1%CE%BB%CE%B1-%CF%83%CF%85%CE%BD%CE%B5%CE%BB%CE%AE%CF%86%CE%B8%CE%B7-46%CF%87%CF%81%CE%BF%CE%BD%CE%BF%CF%82-%CE%BC%CE%B5-56-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AC%CF%81/
+    publisher: trikalaenimerosi.gr
+    date: 2026-11-13
+    language: el
 ---
 
 Officers of the Trikala DIAS motorcycle-police unit arrested a 46-year-old Greek
 national in the small hours of Friday 13 November 2026 in an area of Trikala.
-[@1] During a check the man was found holding 5.6 grams of raw dried cannabis,
-which was confiscated. [@1] He was arrested for violation of the narcotics
+[@1,4] During a check the man was found holding 5.6 grams of raw dried cannabis,
+which was confiscated. [@1,4] A case file was opened against the arrested man. [@4] He was arrested for violation of the narcotics
 legislation. [@1]
 
 TrikalaNews reported the 46-year-old man was arrested by the DIAS unit in the
@@ -66,4 +67,3 @@ small hours of Friday 13 November 2026. [@2]
 
 Stagonnews reproduced the Trikala DIAS unit statement that the 5.6-gram amount
 of dried raw cannabis was confiscated. [@3]
-
