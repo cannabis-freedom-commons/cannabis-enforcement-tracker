@@ -113,20 +113,30 @@ sources:
     publisher: Cadena SER (Radio Murcia)
     date: 2026-11-12
     language: es
+  - title: Una furgoneta con 126 kilos de marihuana en Elche destapa una red de narcotráfico con detenidos en Guardamar y Murcia
+    url: https://dsalicante.com/sucesos-en-alicante/elche-126-kilos-marihuana-furgoneta-detenidos/
+    publisher: DSAlicante.com
+    date: 2026-11-13
+    language: es
+open_questions:
+    - No economic valuation of the 126 kilograms of marijuana and the 145 plants was published.
+    - The Tax Agency did not disclose the detainees' ages or whether any of them was remanded in custody.
+    - The 126 kilograms in the van and the 145 plants were not given a combined weight, and the weight of the plants was not reported.
+    - The search warrant is described here as coming from the duty court in Caravaca de la Cruz, while other coverage names the civil and investigating section of Court of Instance No. 1.
 ---
 
 Three people were arrested after a marijuana-trafficking organisation operating
-in the provinces of Alicante and Murcia was dismantled. [@2,4,6] The Tax Agency's
+in the provinces of Alicante and Murcia was dismantled. [@2,4,6,9] The Tax Agency's
 Customs Surveillance smuggling group in Alicante and the National Police drugs
 and organised crime unit (UDYCO) in Alicante dismantled a network that grew,
 processed and distributed marijuana. [@1,4,6,7] The investigation began with an
-operation in the municipality of Elche in March. [@1,4,5,6,7]
+operation in the municipality of Elche in March. [@1,4,5,6,7,9]
 
 During surveillance near a rural property, officers stopped a van as it was
-leaving. [@1,4,5,6] In the van they found 126 kilograms of marijuana in rubbish bags
-and raffia sacks, and they arrested the driver, an Albanian man. [@1,4,5,6,7,8] The
+leaving. [@1,4,5,6,9] In the van they found 126 kilograms of marijuana in rubbish bags
+and raffia sacks, and they arrested the driver, an Albanian man. [@1,4,5,6,7,8,9] The
 network had assumed the identity of a Ukrainian citizen to sign the leases on
-the property and avoid police action. [@3,4,5,6] The network used several third parties' identities without their knowledge to sign the rental contracts. [@5] The Tax Agency said the suspects were
+the property and avoid police action. [@3,4,5,6,9] The network used several third parties' identities without their knowledge to sign the rental contracts. [@5] The Tax Agency said the suspects were
 also accused of document fraud and usurpation of civil status. [@1,4,5,6]
 
 Investigators traced the network to a second indoor plantation, on a property in
@@ -134,9 +144,9 @@ Cehegín, in Murcia. [@1,6] A warrant from the civil and investigating section o
 Court of Instance No. 1 in Caravaca de la Cruz authorised a search of a building
 in Cehegín. [@1,4,5,6,7] Officers found 145 flowering marijuana plants and
 indoor-growing equipment, including air-conditioning, humidifiers, carbon-filter
-extractors, fans, LED panels, automatic irrigation and centrifuges. [@1,4,6,8] The
-installation was connected fraudulently to the electricity grid. [@1,4,5,6,8] A
+extractors, fans, LED panels, automatic irrigation and centrifuges. [@1,4,6,8,9] The
+installation was connected fraudulently to the electricity grid. [@1,4,5,6,8,9] A
 Lithuanian man who was allegedly guarding and maintaining the crop was arrested
 in the search. [@1,4,5,6] Days later, officers arrested another Lithuanian man,
 described as one of the alleged leaders, in Guardamar del Segura and brought him
-before the investigating court in Torrevieja. [@1,4,5,6,7,8]
+before the investigating court in Torrevieja. [@1,4,5,6,7,8,9]
