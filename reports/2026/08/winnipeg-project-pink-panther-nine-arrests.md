@@ -40,6 +40,11 @@ media:
     media_url: https://i.cbc.ca/ais/ee0d3341-9686-4e49-bfb4-ad04494687e3,1794327760810/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D860
     publisher: CBC News
     caption: 'Bags of seized drugs displayed beside guns and cash at the Winnipeg police news conference. Photo: Rudi Pawlychyn/CBC'
+  - kind: photo
+    url: https://punjabnewsexpress.com/world/news/nine-punjab-origin-persons-arrested-in-canada-drug-trafficking-probe-police-seize-c970000-in-drugs-333659
+    media_url: https://punjabnewsexpress.com/uploads/images/202611/image_870x_6af66cea91bd8.jpg
+    publisher: Punjab News Express
+    caption: Winnipeg Police Service Insp. Josh Ewatski speaks at the November 10 press conference beside evidence seized in the interprovincial drug trafficking investigation.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f9cfc08925a47813ed0625bc852c406b
@@ -53,6 +58,11 @@ sources:
     url: https://globalnews.ca/news/12144447/project-pink-panther-winnipeg-ontario/
     publisher: Global News
     date: 2026-11-10
+  - title: Nine Punjab origin persons arrested in Canada drug trafficking probe, police seize C$970,000 in drugs
+    url: https://punjabnewsexpress.com/world/news/nine-punjab-origin-persons-arrested-in-canada-drug-trafficking-probe-police-seize-c970000-in-drugs-333659
+    publisher: Punjab News Express
+    date: 2026-11-13
+    language: en
 open_questions:
   - No weight was published for the cannabis edibles, so no cannabis quantity in kilograms is recorded.
   - The $19,000 and $970,000 figures are combined values for multiple drugs and are not recorded as a cannabis value.
@@ -63,7 +73,7 @@ open_questions:
 ---
 
 Winnipeg police say a months-long investigation dubbed Project Pink Panther
-netted nine arrests in Manitoba and Ontario. [@1] The investigation, dubbed
+netted nine arrests in Manitoba and Ontario. [@1,3] The investigation, dubbed
 Project Pink Panther, began in December 2025. [@1] Officers executed several
 search warrants in Winnipeg and the Greater Toronto Area on Aug. 26. [@1] Six
 people, including a father and son, were arrested in Winnipeg and charged with
@@ -75,7 +85,7 @@ and heroin. [@2] Police put the street value of those MDMA, LSD, heroin and
 cannabis-edible goods combined at an estimated $19,000. [@2] Police also
 recovered 12 kilograms of cocaine plus prescription opioids and other pills as
 part of the same bust. [@1] Police also seized $126,000 in Canadian cash, rifles
-and shotguns with 800 rounds of ammunition, and four vehicles. [@1]
+and shotguns with 800 rounds of ammunition, and four vehicles. [@1,3]
 
 Investigators said cocaine, methamphetamine, ketamine and prescription opioids
 were sourced in Ontario, British Columbia and Alberta and moved to Winnipeg by
@@ -84,3 +94,4 @@ one each in Toronto, Brampton and Alliston, were searched in Ontario. [@1] The
 Winnipeg police, Ontario Provincial Police, Peel Regional Police, the RCMP and
 the Canada Border Services Agency were all involved in the investigation. [@1]
 
+Winnipeg Police Service named the nine accused — Tarundev Singh (32), Devinder Singh (57), Amandeep Singh (47), Mandeep Singh Dutta (37), Karanvir Singh (24) and Maganpreet Boparai (25) in Winnipeg, and Tarnvir Sandhu (37), Karan Joshi (34) and Manjinder Singh Sagoo (43) in Ontario — and reported three detained in each city while six were released on release orders. [@3]
