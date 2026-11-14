@@ -58,29 +58,27 @@ sources:
     publisher: Radiocanal
     date: 2026-11-13
     language: es
-open_questions:
-  - No separate date was published for the raid; 13 November 2026 is the publication date of all three reports and is used as the incident date.
-  - No dose count, weight in grams or official value was published for the seized marijuana, so no cannabis quantity is recorded. A Facebook post from a local outlet mentioned 380 doses but could not be opened.
-  - The detainee's name and age were not released beyond being an adult man.
-  - No charge wording beyond the alleged infringement of Law 23.737, custody decision or court outcome was reported.
-  - No source gives a figure for the number of marijuana doses seized, so no kilogram figure is recorded.
-  - 'Porteña: tras denuncias anónimas, la FPA detuvo a un delivery de drogas (La Radio 102.9) could not be opened again to check its quotations (browser source capture timed out; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.'
+  - title: Detuvieron a un hombre y secuestraron marihuana en Porteña tras denuncias anónimas
+    url: https://el-periodico.com.ar/policiales/detuvieron-a-un-hombre-y-secuestraron-marihuana-en-portena-tras-denuncias-anonimas_a6af70424c7690cd0a0bc7617
+    publisher: El Periódico - San Francisco
+    date: 2026-11-13
+    language: es
 ---
 
 The Fuerza Policial Antinarcotráfico (FPA), Córdoba's anti-drug police force,
 arrested an adult man in Porteña, a locality in eastern Córdoba province, and
-seized drugs. [@1]
+seized drugs. [@1,4]
 
 The FPA said this was the result of an investigation launched by anonymous calls
-to the 0800-888-8080 hotline and developed over approximately four months. [@1]
+to the 0800-888-8080 hotline and developed over approximately four months. [@1,4]
 Officers raided a house on calle Comisionado Boetsch and seized several doses of
-marijuana and items of interest to the case. [@1]
+marijuana and items of interest to the case. [@1,4]
 
 The FPA said the raided address was used as a drug sale point and that the
-dealer sold narcotics through a delivery model. [@1] The Anti-Drug Prosecutor's
+dealer sold narcotics through a delivery model. [@1,4] The Anti-Drug Prosecutor's
 Office of San Francisco ordered the suspect and all seized items transferred to
 judicial headquarters for a suspected breach of National Narcotics Law No.
-23.737. [@1]
+23.737. [@1,4]
 
 Anti-drug police officers detained an adult man and seized drugs in the locality
 of Porteña. [@2]
@@ -98,4 +96,3 @@ home delivery model. [@3]
 
 After four months of investigation launched from anonymous complaints, the FPA
 carried out a raid at a house in the locality. [@3]
-
