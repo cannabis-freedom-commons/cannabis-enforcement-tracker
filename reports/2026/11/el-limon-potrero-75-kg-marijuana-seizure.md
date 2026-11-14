@@ -54,28 +54,31 @@ sources:
     publisher: Acustik Noticias
     date: 2026-11-12
     language: es
-open_questions:
-  - The reports give no separate date for the seizure; 11 November 2026 is the date of the bulletin and of publication.
-  - No laboratory confirmation was reported for the dried material, which authorities described as resembling marijuana.
-  - No street value or package count was published for the 75-kilogram load.
-  - The accounts do not say where in El Limón Potrero the material was found or how it was discovered.
-  - No arrests, charges or court outcome were reported; no suspects were named.
-  - Both accounts reproduce the same Guerrero security bulletin, so they are not independent confirmation.
+  - title: Incautan 75 kilogramos de marihuana en Coyuca de Catalán
+    url: https://elcongresista.mx/politica/guerrero/incautan-75-kilogramos-marihuana-coyuca-catalan
+    publisher: El Congresista
+    date: 2026-11-12
+    language: es
+  - title: Aseguran Policía Estatal y Ejército Mexicano 75 kilogramos de probable marihuana en Coyuca de Catalán
+    url: https://lanetanoticias.com/estados/aseguran-policia-estatal-y-ejercito-mexicano-75-kilogramos-de-probable-marihuana-en-coyuca-de-catalan/
+    publisher: La Neta Noticias
+    date: 2026-11-12
+    language: es
 ---
 
 El Limón Potrero is a locality in the municipality of Coyuca de Catalán, in the
 state of Guerrero. [@2] State police and Mexican Army personnel seized 75
 kilograms of dried grass with characteristics similar to marijuana in El Limón
-Potrero. [@2,3] Authorities reported the seizure on 11 November 2026. [@1] The
+Potrero. [@2,3,4] Authorities reported the seizure on 11 November 2026. [@1] The
 seizure was part of the security deployment in the Tierra Caliente region, where
-state and federal forces operate through an inter-institutional base. [@2,3]
+state and federal forces operate through an inter-institutional base. [@2,3,4]
 
 A press bulletin said the operation was coordinated through the Base of
-Inter-Institutional Operations (BOI) in Pungarabato. [@1,3] The BOI brings
+Inter-Institutional Operations (BOI) in Pungarabato. [@1,3,4] The BOI brings
 together the state and federal personnel taking part in the regional security
 deployment. [@2] Pungarabato is in the Tierra Caliente region. [@1]
 
 Quadratín Guerrero described the load as 75 kilograms of presumed marijuana.
 [@1] The material was handed over to the competent authority, which will carry
-out the corresponding investigation into the seizure. [@2,3] No one was detained
-in connection with the drug, the Interacción Noticias account reported. [@2]
+out the corresponding investigation into the seizure. [@2,3,5] No one was detained
+in connection with the drug, the Interacción Noticias account reported. [@2,4]
