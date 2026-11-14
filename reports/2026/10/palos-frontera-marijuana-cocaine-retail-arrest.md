@@ -47,29 +47,28 @@ sources:
     publisher: Diario de Huelva
     date: 2026-11-13
     language: es
-open_questions:
-  - No separate weight or count is published for the marijuana; the marijuana and cocaine were reported together in small bags, so no cannabis weight is recorded.
-  - No exact day is given; the account says the events took place at the end of October, so 31 October 2026 is used as an approximate incident date while 13 November 2026 is the publication date.
-  - The detained person's identity, age and the exact street where the stop and chase happened were not published.
-  - No charges beyond referral to the judicial authority, and no court outcome, are reported.
-  - The whole account rests on a single outlet's report of the Guardia Civil's account; no second source or agency statement was found.
+  - title: Detenido tras saltarse un control en Palos y tirar una mochila y un bolso llenos de droga
+    url: https://www.huelvahoy.com/sucesos/detenido-saltarse-control-palos-tirar-mochila-bolso-llenos-droga/20261113120141406833.html
+    publisher: Huelva Hoy
+    date: 2026-11-13
+    language: es
 ---
 
 The Guardia Civil detained one person in Palos de la Frontera for possessing
 drugs apportioned for retail sale and for serious disobedience after trying to
-flee the police. [@1,2] One occupant of a stopped car fled on foot, throwing away
+flee the police. [@1,2,3] One occupant of a stopped car fled on foot, throwing away
 a backpack and a bag, and was located and detained after trying to hide from the
-police. [@1,2]
+police. [@1,2,3]
 
 Inside the discarded backpack and bag officers found many small plastic bags
 holding substances later analysed as marijuana and cocaine, prepared for retail
-distribution and sale. [@1,2] Officers also found cash split into banknotes and
+distribution and sale. [@1,2,3] Officers also found cash split into banknotes and
 coins of different values inside the bags, described as presumed proceeds of
-retail drug trafficking. [@1,2] The detained person, the seized substances and the
+retail drug trafficking. [@1,2,3] The detained person, the seized substances and the
 seized money were placed at the disposal of the judicial authority handling the
 case. [@1]
 
 The incident happened at the end of October in Palos de la Frontera, when a
 citizen-security patrol on crime-prevention duties ordered a car to stop and the
 car ignored the order, prompting officers to follow it until they stopped it.
-[@1,2]
+[@1,2,3]
