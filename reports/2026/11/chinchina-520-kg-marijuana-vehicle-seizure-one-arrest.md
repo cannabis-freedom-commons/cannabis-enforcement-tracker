@@ -117,6 +117,12 @@ sources:
     publisher: صحيفة اخبارنا
     date: 2026-11-09
     language: ar
+  - title: شحنة «كوكايين» جديدة في طريقها إلى ليبيا.. أين كانت مخبأة؟ - اخبار ليبيا
+    url: https://www.libyaakhbar.com/news/2914965.html
+    publisher: اخبار ليبيا
+    date: 2026-11-10
+    language: ar
+    archived: https://web.archive.org/web/20261110123953id_/https://www.libyaakhbar.com/news/2914965.html
 media:
   - kind: video
     url: https://x.com/Policia_Caldas/status/2119873943276339418
@@ -136,8 +142,8 @@ Cauca bound for Medellín. [@3,4,5] President Abelardo de la Espriella announced
 Chinchiná seizure and a second operation at the port of Cartagena. [@1] The load was valued by police at more than 300 million pesos on the illegal market. [@6]
 
 The government presented the two hauls as 878 kilograms in total, of which 520
-were marijuana and 358 cocaine. [@1,9,10,11,13,15]
+were marijuana and 358 cocaine. [@1,9,10,11,13,15,16]
 
-For the whole pair of operations the authorities reported one person arrested, in the Caldas procedure. [@2] The Cartagena operation, named Estrategia Esmeralda, found the cocaine inside two electricity generators carried in a shipping container. [@2,11,13,15] Police said the cocaine container had come from Panama and was bound for Tripoli. [@13,15]
+For the whole pair of operations the authorities reported one person arrested, in the Caldas procedure. [@2] The Cartagena operation, named Estrategia Esmeralda, found the cocaine inside two electricity generators carried in a shipping container. [@2,11,13,15,16] Police said the cocaine container had come from Panama and was bound for Tripoli. [@13,15,16]
 
 After a cordon-and-search plan, known in Colombia as a plan candado, patrols intercepted the vehicle in the La Paz neighbourhood. [@6,12] A search of the vehicle found 111 plastic-wrapped parcels containing the marijuana. [@6,12]
