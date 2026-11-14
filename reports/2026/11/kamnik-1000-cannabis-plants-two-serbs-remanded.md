@@ -85,6 +85,11 @@ sources:
     publisher: siol.net
     date: 2026-11-13
     language: sl
+  - title: Na območju Kamnika srbska državljana na veliko gojila konopljo (foto)
+    url: https://svet24.si/novice/kronika/zaseg-konoplja-srba-kamnik-1940367
+    publisher: Svet24.si
+    date: 2026-11-13
+    language: sl
 open_questions:
   - The plant total is reported only as more than 1,000, so 1,000 is the recorded lower-bound count rather than an exact total.
   - The dried cannabis weight was reported as approximately 2 kilograms, not an exact measured figure.
@@ -94,17 +99,17 @@ open_questions:
 ---
 
 Police arrested two Serbian citizens after discovering a cannabis-growing space
-in the Kamnik area. [@1,3] The Ljubljana Police Administration's criminal police
-sector searched a house there on Wednesday, 11 November 2026. [@1,3] The suspects
+in the Kamnik area. [@1,3,4] The Ljubljana Police Administration's criminal police
+sector searched a house there on Wednesday, 11 November 2026. [@1,3,4] The suspects
 were aged 37 and 35, and police acted on gathered information and a court order.
-[@1,3]
+[@1,3,4]
 
 Inside the specially adapted growing space were more than 1,000 cannabis
-seedlings. [@1,3] Police seized about 2 kilograms of dried cannabis and numerous
-pieces of growing equipment. [@1,3] They also seized more than 1 kilogram of
-cocaine and around €3,000 in cash. [@1,3]
+seedlings. [@1,3,4] Police seized about 2 kilograms of dried cannabis and numerous
+pieces of growing equipment. [@1,3,4] They also seized more than 1 kilogram of
+cocaine and around €3,000 in cash. [@1,3,4]
 
-Investigators detained both men and ordered pridržanje, or police custody. [@1,3]
+Investigators detained both men and ordered pridržanje, or police custody. [@1,3,4]
 On Thursday, 12 November, the men were brought before an investigating judge
-with a criminal complaint. [@2,3] The judge ordered pripor, detention on remand,
-for both suspects. [@2,3]
+with a criminal complaint. [@2,3,4] The judge ordered pripor, detention on remand,
+for both suspects. [@2,3,4]
