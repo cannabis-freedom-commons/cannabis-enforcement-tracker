@@ -68,6 +68,11 @@ sources:
     publisher: المصري اليوم
     date: 2026-11-11
     language: ar
+  - title: «رشوة مصر للطيران وشبكة ابنة حسام حسن وتهريب الآثار».. أبرز قضايا محاكم القاهرة هذا الأسبوع
+    url: https://www.almasryalyoum.com/news/details/4409553
+    publisher: المصري اليوم
+    date: 2026-11-13
+    language: ar
 open_questions:
     - No separate date is given for the airport seizure or for the in-absentia sentence.
     - The article gives no separate date for the acquittal; 11 November 2026 is its publication date and the day the retrial had been adjourned to.
@@ -93,4 +98,4 @@ search found eight pieces of hashish hidden inside a bag of frozen meat,
 weighing 164 grams. [@1] The chemical laboratory confirmed the seized items were
 eight pieces of hashish listed in the first schedule of the drug-control law.
 [@1,3] The court had previously sentenced him in absentia to 15 years of
-aggravated imprisonment and a fine of 50,000 Egyptian pounds. [@2,3] Cairo Criminal Court acquitted the defendant at the retrial of proceedings brought against the in-absentia verdict of 15 years' aggravated imprisonment and a 50,000-pound fine. [@4]
+aggravated imprisonment and a fine of 50,000 Egyptian pounds. [@2,3] Cairo Criminal Court acquitted the defendant at the retrial of proceedings brought against the in-absentia verdict of 15 years' aggravated imprisonment and a 50,000-pound fine. [@4,5]
