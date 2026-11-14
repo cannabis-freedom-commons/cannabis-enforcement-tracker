@@ -59,6 +59,11 @@ sources:
     publisher: Notiserra SC
     date: 2026-11-13
     language: pt
+  - title: Cheiro forte de maconha leva polícia a descobrir plantação com 49 pés da droga em SC
+    url: https://clicrdc.com.br/seguranca-publica/cheiro-forte-de-maconha-leva-policia-a-descobrir-plantacao-com-49-pes-da-droga-em-sc/
+    publisher: ClicRDC
+    date: 2026-11-13
+    language: pt
 open_questions:
     - The suspect was not named and no age or other identifying detail was published.
     - No custody decision, charge sheet or court outcome beyond the trafficking registration was reported.
@@ -70,19 +75,24 @@ media:
     media_url: https://scc10.com.br/wp-content/uploads/2026/11/pm-apreende-49-pes-de-maconha-em-residencia-no-bairro-bom-jesus-em-lages.webp
     publisher: Rádio Clube de Lages (SCC10)
     caption: 'Military Police photo of the seized cannabis plants and cultivation structure in the Bom Jesus house, published with the SCC10/Rádio Clube de Lages report. Photo: 6° BPM'
+  - kind: photo
+    url: https://clicrdc.com.br/seguranca-publica/cheiro-forte-de-maconha-leva-policia-a-descobrir-plantacao-com-49-pes-da-droga-em-sc/
+    media_url: https://files.clicrdc.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-09.39.04-1024x474.jpeg
+    publisher: ClicRDC
+    caption: 'Military Police photo published with the ClicRDC report of the 49 cannabis plants and three greenhouses seized in Bom Jesus, Lages. Photo: PMSC'
 ---
 
 On the night of Thursday 12 November 2026, Santa Catarina military police
 arrested one man and seized 49 cannabis plants at a house in the Bom Jesus
-district of Lages. [@1,2] Officers recorded the incident at about 19h45 during
+district of Lages. [@1,2,4] Officers recorded the incident at about 19h45 during
 patrol, after noticing a strong smell of marijuana near a residence and finding
-a cultivation structure. [@1,2,3] Inside the property they found three greenhouses
+a cultivation structure. [@1,2,3,4] Inside the property they found three greenhouses
 with ventilation, lighting and heating equipment, along with other cultivation
 materials. [@1,2]
 
 Officers also seized 1.325 kg of marijuana, which the police said was packaged
-and ready for sale. [@1,2,3] The man was taken to the Civil Police station, where
-the incident was registered as drug trafficking. [@1,2] The plants, the packaged
+and ready for sale. [@1,2,3,4] The man was taken to the Civil Police station, where
+the incident was registered as drug trafficking. [@1,2,4] The plants, the packaged
 drug and the equipment were collected and placed at the disposal of the
 authorities responsible for the investigation. [@1] The outlet attributes its
 account to the Santa Catarina Military Police. [@1]
