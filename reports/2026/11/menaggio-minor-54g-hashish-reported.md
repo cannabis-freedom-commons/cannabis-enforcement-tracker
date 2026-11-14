@@ -41,6 +41,11 @@ sources:
     publisher: CiaoComo
     date: 2026-11-13
     language: it
+  - title: 'GDF – GUARDIA DI FINANZA * «COMO: DROGA NEL CENTRO LAGO. DENUNCIATO UN MINORENNE. SEQUESTRATI 54 GRAMMI DI HASHISH»'
+    url: https://www.agenziagiornalisticaopinione.it/opinionmix/gdf-guardia-di-finanza-como-droga-nel-centro-lago-denunciato-un-minorenne-sequestrati-54-grammi-di-hashish/
+    publisher: Agenzia giornalistica Opinione
+    date: 2026-11-13
+    language: it
 open_questions:
   - No separate date for the control is given, so 13 November 2026, the publication date, is used as the incident date.
   - The minor was not named and no age beyond minority or residence was published.
@@ -58,12 +63,11 @@ slight bulge in the side of his clothing. [@1]
 
 When asked whether he held drugs, the boy spontaneously handed over a packet
 containing 35.1 grams of hashish and a precision scale, both hidden on his
-person. [@1] Believing more drugs could be at his home, officers carried out a
+person. [@1,2] Believing more drugs could be at his home, officers carried out a
 search of the boy's home. [@1] In a desk drawer in his bedroom they found
 another 5.9 grams of hashish already divided into seven doses, together with
-transparent film used to wrap the drug. [@1] A further personal search recovered
+transparent film used to wrap the drug. [@1,2] A further personal search recovered
 another 12.9 grams of hashish, bringing the total seized to 53.9 grams. [@1]
 
-After the checks the minor was reported to the judicial authority. [@1] The
+After the checks the minor was reported to the judicial authority. [@1,2] The report was made under article 73, paragraph 5, of Presidential Decree 309/1990. [@2] The
 Finance Guard suspects that he was selling drugs to minors in the area. [@1]
-
