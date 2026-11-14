@@ -216,6 +216,11 @@ sources:
     publisher: 東京報道新聞
     date: 2026-11-12
     language: ja
+  - title: 《警察車両で“ものすごい形相”》「彼はビジネスでなく、ほんまもんの不良」ブレイキングダウンの“タトゥーびっしり”人気選手が麻薬特例法違反容疑で逮捕
+    url: https://www.news-postseven.com/archives/20261113_2141833.html?DETAIL=
+    publisher: NEWSポストセブン
+    date: 2026-11-13
+    language: ja
 media:
   - kind: video
     url: https://www.youtube.com/watch?v=iPnZ6VWrb6Y
@@ -242,13 +247,13 @@ media:
 Osaka prefectural police arrested Daisuke Yamamoto, a 37-year-old man of no
 known occupation from Ikuno Ward in Osaka, and Masaru Sakaguchi, a 60-year-old
 beautician from the same ward, on suspicion of violating the Narcotics Special
-Provisions Law and related offences. [@1,2,3,4,5,7,8,10,11,12,13,14,16,17,20,22,23,26,29,32,33,35,36] Yamamoto is from the Katsuyamakita district of Ikuno Ward, and Sakaguchi from Ikuno-nishi in the same ward. [@4,29] Both men were referred to prosecutors on suspicion of violating the Special Narcotics Law and other charges. [@21] The arrests, over the alleged purchase
+Provisions Law and related offences. [@1,2,3,4,5,7,8,10,11,12,13,14,16,17,20,22,23,26,29,32,33,35,36,37] Yamamoto is from the Katsuyamakita district of Ikuno Ward, and Sakaguchi from Ikuno-nishi in the same ward. [@4,29] Both men were referred to prosecutors on suspicion of violating the Special Narcotics Law and other charges. [@21] The arrests, over the alleged purchase
 and sale of goods presented as cannabis, were announced by 11 November 2026.
-[@1,2,3,11,12,13,28,29,30,36] The two men were arrested on 10 November 2026. [@22,23,31] Police did not disclose whether the two men admitted the allegations. [@5,17,23,24,26,31,32,36] According to the police, Yamamoto had previously competed in BreakingDown,
+[@1,2,3,11,12,13,28,29,30,36] The two men were arrested on 10 November 2026. [@22,23,31,37] Police did not disclose whether the two men admitted the allegations. [@5,17,23,24,26,31,32,36] According to the police, Yamamoto had previously competed in BreakingDown,
 a mixed-rules combat sports event popular primarily among young people. [@1,2,3,4,6,11,12,13,15,19,23,24,28,29,32,34,36] Yamamoto told investigators he had also appeared at the event. [@36] Yamamoto is known as "Daisuke". [@25,29,34,35,36] Ryota Iihara, the first bantamweight champion of BreakingDown, said he thinks this time the incident cannot be excused because letting it go could cost him his own livelihood. [@35] Yamamoto was also known by the nickname "Ikuno no Kaiten", after his home ward of Ikuno. [@29]
 
 Investigators alleged that in December 2025, Yamamoto received an item as
-cannabis from Sakaguchi for 10,000 yen in the city of Osaka. [@1,2,3,4,5,9,12,13,15,16,17,18,19,20,22,23,24,27,29,31,32,33,36] Police said the alleged deal was made through social media. [@26] The alleged handover occurred on 25 December 2025 at just after noon in Ikuno Ward. [@5,29,31] The alleged purchase took place near Yamamoto's home. [@24] Sakaguchi is
+cannabis from Sakaguchi for 10,000 yen in the city of Osaka. [@1,2,3,4,5,9,12,13,15,16,17,18,19,20,22,23,24,27,29,31,32,33,36,37] Police said the alleged deal was made through social media. [@26] The alleged handover occurred on 25 December 2025 at just after noon in Ikuno Ward. [@5,29,31] The alleged purchase took place near Yamamoto's home. [@24] Sakaguchi is
 suspected of transferring the item in that transaction and engaging in related
 illicit dealings. [@1,2,3,11,12,13,18,22,24,29] Sakaguchi was also arrested on suspicion of possessing cannabis. [@22,33]
 
@@ -257,4 +262,4 @@ routine patrol and discovered plant material inside the car he was occupying.
 [@1,2,3,4,5,9,12,13,15,22,23,29,31,32,36] The cannabis found in Sakaguchi's car in February weighed a little over 5 grams. [@5,17,33,36] Forensic testing later confirmed that the plant fragments were cannabis.
 [@1,2,3,9,11,12,13,18,22,29,31,36] Analysis of Sakaguchi's confiscated smartphone and related records led
 officers to suspect that he had traded cannabis with Yamamoto and several other
-individuals. [@1,2,3,5,11,12,13,15,18,22,29,32,36] Sakaguchi was reported to use code words including “leaf” and “buds” and to have dealt with multiple customers. [@5,33,36] Messages from Yamamoto on the phone included requests reading “roll it for me” and “5 sticks.” [@5,11,17,22,24,28,29,31] Police also searched premises linked to Yamamoto and seized smoking implements, glass pipes and syringes. [@3,4,11,16,17,18,20,22,23,24,29,30,31,33,36] The items taken from premises linked to Yamamoto also included plastic ziplock bags. [@36] BreakingDown's organisers had published no statement on Yamamoto's arrest on their official website or official X account as of the afternoon of 12 November 2026. [@31]
+individuals. [@1,2,3,5,11,12,13,15,18,22,29,32,36] Sakaguchi was reported to use code words including “leaf” and “buds” and to have dealt with multiple customers. [@5,33,36] Messages from Yamamoto on the phone included requests reading “roll it for me” and “5 sticks.” [@5,11,17,22,24,28,29,31,37] Police also searched premises linked to Yamamoto and seized smoking implements, glass pipes and syringes. [@3,4,11,16,17,18,20,22,23,24,29,30,31,33,36,37] The items taken from premises linked to Yamamoto also included plastic ziplock bags. [@36] BreakingDown's organisers had published no statement on Yamamoto's arrest on their official website or official X account as of the afternoon of 12 November 2026. [@31]
