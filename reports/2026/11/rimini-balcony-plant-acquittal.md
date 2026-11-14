@@ -85,6 +85,11 @@ sources:
     publisher: Corriere di Bologna
     date: 2026-11-13
     language: it
+  - title: Rimini i vicini di casa segnalano la grande pianta di marijuana sul balcone e viene arrestato Il giudice lo assolve | Uso personale anche senza parere medico
+    url: https://www.zazoom.it/2026-11-13/rimini-i-vicini-di-casa-segnalano-la-grande-pianta-di-marijuana-sul-balcone-e-viene-arrestato-il-giudice-lo-assolve-uso-personale-anche-senza-parere-medico/19923875/
+    publisher: Zazoom Social News
+    date: 2026-11-13
+    language: it
 ---
 
 Rimini Local Police officers launched the operation on 1 October 2026 after
@@ -100,13 +105,13 @@ reported. [@4]
 The search found 43.10 g of marijuana already divided into doses, 4.75 g of
 hashish and cellophane used to wrap the doses. [@2,5] Officers also seized the
 flowering plant on the balcony; police said it was 140 cm tall and weighed about
-3.5 kg. [@1] The force put the drugs at about 44.85 g, although its own itemised
+3.5 kg. [@1,6] The force put the drugs at about 44.85 g, although its own itemised
 weights add up to 47.85 g. [@2] He had been arrested years earlier for the same
 offence. [@3]
 
 The trial was held on 12 November 2026 at the Rimini court. [@4] He was tried
 for cannabis cultivation and possession for dealing. [@4] The case was decided
 under the abbreviated procedure, a fast-track trial on the case file. [@4] The
-court acquitted him for insufficient evidence. [@1,5] The judge ordered the seized plant destroyed rather than returned to the man. [@5] He had always said the
+court acquitted him for insufficient evidence. [@1,5,6] The judge ordered the seized plant destroyed rather than returned to the man. [@5] He had always said the
 marijuana was for therapeutic use, and his lawyer argued there was no evidence
-he meant to deal. [@1] The defence said there were no scales or other objects proving dealing and no neighbours reported visits by potential customers. [@5]
+he meant to deal. [@1,6] The defence said there were no scales or other objects proving dealing and no neighbours reported visits by potential customers. [@5]
