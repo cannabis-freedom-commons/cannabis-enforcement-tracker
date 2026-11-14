@@ -30,6 +30,11 @@ sources:
     publisher: Crimesite
     date: 2026-11-13
     language: nl
+  - title: Arrestatieteam valt woningen en bedrijven binnen, verdachte opgepakt
+    url: https://www.omroepwest.nl/misdaad/5172874/arrestatieteam-valt-woningen-en-bedrijven-binnen-verdachte-opgepakt
+    publisher: Omroep West
+    date: 2026-11-13
+    language: nl
 open_questions:
   - The type of drugs seized and the amount of cash are not disclosed; according to RTV Rijnmond, no one knew which drugs were involved.
   - The exact number of cars seized is not stated.
@@ -44,7 +49,7 @@ amounts of cash were also found. [@1] Police arrest teams entered eleven
 addresses in Rotterdam on Monday 9 November 2026, searching homes and business
 buildings in Crooswijk, Ommoord and Delfshaven, as part of a large-scale
 investigation into narcotics. Drugs, large sums of cash and several cars were
-seized. [@1]
+seized. [@1,3]
 
 Nine men, aged 27 to 40, were arrested: eight from Rotterdam and one from The
 Hague. All are suspected of participating in a criminal organization dedicated
@@ -55,4 +60,3 @@ Ministerie), and police do not rule out further arrests. [@1]
 
 On Thursday 12 November 2026 the investigating judge of the Rotterdam district
 court extended the nine suspects' pre-trial detention by fourteen days. [@2]
-
