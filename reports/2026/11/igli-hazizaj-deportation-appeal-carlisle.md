@@ -54,18 +54,15 @@ sources:
     url: https://sot.com.al/english/gjykata-britanike-i-rrezon-pretendimet-shqiptarit-fotot-nga-fejesa-dhe-udhetimet-zbulojne-mashtrimin-i5192662
     publisher: Sot
     date: 2026-11-07
-open_questions:
-  - The Manchester Evening News gives no date for the tribunal decision; 2 November 2026 is the date on the tribunal's written decision, and the hearing was on 28 October 2026.
-  - The Manchester Evening News says Hazizaj was jailed for two years in February 2025; the tribunal decision and the contemporaneous News & Star report both give three years, which this report uses.
-  - No plant count or weight was published for the whole Carlisle operation; the 83 and 145 plants relate only to the Newtown Road and Warwick Road houses, so no total is recorded.
-  - The sentencing judge's reported estimate of a crop worth more than £2 million a year is a valuation of the potential crop, not a seizure value, so it is not recorded as a valuation figure.
-  - The outcome of the Albanian extradition proceedings and the further UK charges is not known.
-  - The text gives a number of plants ("83 plants") but the figures have no plants_destroyed; check whether it belongs there.
+  - title: Albanian cannabis gang boss loses deportation appeal
+    url: https://www.newsandstar.co.uk/news/26726235.albanian-cannabis-gang-boss-loses-deportation-appeal/
+    publisher: News and Star
+    date: 2026-11-14
 ---
 
 Igli Hazizaj, a 28-year-old Albanian, has lost an immigration appeal against his
 deportation after a judge found he invented a claim to have been trafficked and
-locked in a cannabis farm. [@1] First-tier Tribunal Judge C R Cole dismissed the
+locked in a cannabis farm. [@1,5] First-tier Tribunal Judge C R Cole dismissed the
 appeal on all grounds in a decision dated 2 November 2026 after a hearing at
 Manchester on 28 October 2026 that Hazizaj did not attend and at which he was
 unrepresented. [@2,4]
@@ -75,10 +72,10 @@ was a particularly serious crime and that Hazizaj had not rebutted the
 presumption that he is a danger to the UK community, so he was excluded from
 refugee protection. [@2] Hazizaj had said his father borrowed money from a
 criminal gang that then trafficked him to Britain and forced him to work in
-cannabis houses he could not leave. [@2,4] The judge found the account
+cannabis houses he could not leave. [@2,4,5] The judge found the account
 inconsistent with Albanian border records showing he flew from Luton to Albania
 in October 2022 and left for Hamburg in February 2023, so he did not accept that
-Hazizaj was trafficked into Britain in late 2023. [@2]
+Hazizaj was trafficked into Britain in late 2023. [@2,5]
 
 His former partner gave the tribunal social media photographs of the couple in
 April, July and August 2024, including a stag party in Wales, her Swansea
@@ -89,10 +86,10 @@ Hazizaj was convicted at Carlisle Crown Court on 16 January 2025 of conspiracy
 to produce cannabis and sentenced on 27 February 2025. [@2] Police found 83
 plants at Newtown Road and 145 at Warwick Road, while a third property in Howe
 Street held an abandoned factory; two co-defendants were jailed for 16 months
-and a year. [@3] A deportation order was made against Hazizaj on 5 December 2025
+and a year. [@3,5] Prosecutors described Hazizaj as the branch manager of the operation, while his relative Eugert Hazizaj and Jurgen Balla were also jailed. [@5] The sentencing judge said the three Carlisle properties had unusually been purchased rather than rented, demonstrating a significant investment by the organised crime group. [@5] A deportation order was made against Hazizaj on 5 December 2025
 and the Home Office refused his protection and human rights claims four days
 later. [@2] Hazizaj also faces extradition to Albania, where he has been
 sentenced to nine months for using a forged Greek passport at Tirana airport,
-and he is on bail in Britain for further undisclosed charges. [@1]
+and he is on bail in Britain for further undisclosed charges. [@1,5]
 
 The forged Greek passport was used when he tried to board a plane from Tirana to Barcelona. [@4] He was due to appear at Central London Magistrates' Court on 14 November. [@4]
