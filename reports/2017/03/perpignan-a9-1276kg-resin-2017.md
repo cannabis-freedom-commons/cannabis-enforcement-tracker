@@ -23,6 +23,7 @@ details:
     - {product: hashish}
   route: {from: [es], to: [fr]}
   setting: [port, vehicle]
+  related: [girona-hashish-network-dismantled-2017]
 data_sources:
   details.agency_types: [2, 1]
   details.case_stage: [2, 1]
