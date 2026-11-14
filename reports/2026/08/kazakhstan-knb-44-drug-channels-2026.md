@@ -41,6 +41,11 @@ sources:
     publisher: Казинформ
     date: 2026-08-04
     language: ru
+  - title: Сотни кг наркотиков изъяли в Казахстане с начала 2026 года
+    url: https://qumash.kz/news/sotni-kg-narkotikov-izyali-v-kazahstane-s-nachala-2026-goda/
+    publisher: Qumash.kz
+    date: 2026-08-04
+    language: ru
 open_questions:
   - No separate dates were given for the individual operations; 4 August 2026 is the article's publication date and stands in for the incident date.
   - The 121 detained is the sum of the separately stated 114 Kazakh citizens and 7 foreign citizens; the 14 group members stopped in neighbouring states are not counted.
@@ -55,24 +60,23 @@ open_questions:
 
 Kazakhstan's National Security Committee, the KNB, reported on its work against
 illegal drug trafficking. [@1] From the start of 2026, its officers eliminated
-33 international and 11 regional drug supply channels. [@1] They also stopped
-the activity of three underground laboratories. [@1] On suspicion of these
-offences, 114 Kazakh citizens and seven foreign citizens were detained. [@1] In
+33 international and 11 regional drug supply channels. [@1,2] They also stopped
+the activity of three underground laboratories. [@1,2] On suspicion of these
+offences, 114 Kazakh citizens and seven foreign citizens were detained. [@1,2] In
 addition, the activity of 14 members of international criminal groups was
-stopped on the territory of neighbouring states. [@1]
+stopped on the territory of neighbouring states. [@1,2]
 
 Twenty-one international anti-drug operations were carried out jointly with the
-competent bodies of foreign states. [@1] Its press service said officers took
+competent bodies of foreign states. [@1,2] Its press service said officers took
 3.2 kg of heroin, 8 kg of methamphetamine, 70.6 kg of opium, 129.7 kg of
 hashish, 16 kg of hashish oil, 282 kg of marijuana, 156.5 kg of cannabis plant,
 56.4 kg of psychotropic substances, 20 tonnes of poppy-straw raw material and
 more than 3.8 tonnes of precursors out of illegal circulation. [@1] The four
 cannabis items, 129.7 kg of hashish, 16 kg of hashish oil, 282 kg of marijuana
 and 156.5 kg of cannabis plant, add up to 584.2 kg of cannabis covered by this
-report. [@1]
+report. [@1,2]
 
 The KNB said no further information could be disclosed under article 201 of
-Kazakhstan's Code of Criminal Procedure. [@1] All the figures are the
+Kazakhstan's Code of Criminal Procedure. [@1,2] All the figures are the
 committee's own year-to-date totals for the period from the start of 2026, with
 no separate dates given for the operations behind them. [@1]
-
