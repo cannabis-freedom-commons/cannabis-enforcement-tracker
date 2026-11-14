@@ -48,6 +48,19 @@ sources:
     publisher: Harian Singgalang
     date: 2026-11-13
     language: id
+  - title: Satresnarkoba Polresta Bukittinggi Gagalkan Peredaran 27 Paket Ganja Lintas Provinsi
+    url: https://padang.viva.co.id/ragam-perkara/10425-satresnarkoba-polresta-bukittinggi-gagalkan-peredaran-27-paket-ganja-lintas-provinsi
+    publisher: VIVA
+    date: 2026-11-13
+    language: id
+media:
+  - kind: photo
+    url: https://padang.viva.co.id/ragam-perkara/10425-satresnarkoba-polresta-bukittinggi-gagalkan-peredaran-27-paket-ganja-lintas-provinsi
+    media_url: https://thumb.viva.id/vivapadang/1265x711/2026/11/13/6af7217aca1f8-barang-bukti-besar-narkotika-jenis-ganja-yang-terbalut-rapi-dengan-lakban-cokelat_padang.jpg
+    publisher: VIVA
+    caption: 'Police evidence photo of the large quantity of ganja evidence, neatly wrapped in brown adhesive tape. Photo: Polresta Bukittinggi, via VIVA'
+open_questions:
+    - The VIVA account gives the destination as 'Taluak, Kabupaten Agam', while other sources identify it as Taluak in Banuhampu sub-district; the same place is meant.
 ---
 
 Bukittinggi narcotics police arrested 24-year-old RJP alias Rio, a man described
@@ -63,7 +76,7 @@ Police seized 27 cannabis packages wrapped in adhesive tape and placed inside a
 green sack. [@1,2] The packages were found in the rear trunk of the white Daihatsu
 Xenia with plate BA 1065 QG that the suspect was driving. [@1] Police also
 seized a blue Realme mobile phone, the green sack, and the Xenia car with its
-key and vehicle registration document. [@1,2]
+key and vehicle registration document. [@1,2] Police also seized the suspect's mobile phone, the white Daihatsu Xenia (plate BA 1065 QG) with its ignition key and vehicle registration document (STNK). [@3]
 
 On initial questioning, the suspect admitted carrying the cannabis from the
 Penyabungan area of North Sumatra on someone else's orders. [@1] He said the
