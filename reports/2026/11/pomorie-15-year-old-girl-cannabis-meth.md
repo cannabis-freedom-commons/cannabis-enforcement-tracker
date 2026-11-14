@@ -53,30 +53,36 @@ sources:
     publisher: Anons.bg
     date: 2026-11-13
     language: bg
+  - title: Двама пияни шофьори са задържани в Бургаско, 15-годишно момиче е хванато с наркотици
+    url: https://vburgas.bg/dvama-piyani-shofuori-sa-zadyrzhani-v-burgasko-15-godishno-momiche-e-hvanato-s-narkotitsi/
+    publisher: vBurgas.bg
+    date: 2026-11-13
+    language: bg
 open_questions:
-  - The sources do not state where on 12 November the check was carried out; the detention took place under the Pomorie Regional Administration, and Dabnik is the girl's home village.
-  - The 8 grams of cannabis and 3 grams of methamphetamine are police figures from the fast-track procedure; no laboratory confirmation is reported.
-  - No charges, plea or court outcome was reported; the fast-track procedure was still under way when the accounts were published.
-  - The minor is described as already having a criminal record; no details are given.
-  - The Anons.bg account states the 8 g cannabis figure and a white crystalline substance that tested positive for methamphetamine but gives no methamphetamine weight, while the report's existing sources state 3 grams of methamphetamine; the figures are kept as published. The only image on the page is a 2024 stock police photo (Булфото, архив), not a photo of this event.
-  - Faragency and Flagman illustrate the story with stock images (generic cannabis plants with a news watermark; cropped handcuffed figure in pink trousers), not photos of this detention, so they are not listed as media.
+    - The sources do not state where on 12 November the check was carried out; the detention took place under the Pomorie Regional Administration, and Dabnik is the girl's home village.
+    - The 8 grams of cannabis and 3 grams of methamphetamine are police figures from the fast-track procedure; no laboratory confirmation is reported.
+    - No charges, plea or court outcome was reported; the fast-track procedure was still under way when the accounts were published.
+    - The minor is described as already having a criminal record; no details are given.
+    - The Anons.bg account states the 8 g cannabis figure and a white crystalline substance that tested positive for methamphetamine but gives no methamphetamine weight, while the report's existing sources state 3 grams of methamphetamine; the figures are kept as published. The only image on the page is a 2024 stock police photo (Булфото, архив), not a photo of this event.
+    - Faragency and Flagman illustrate the story with stock images (generic cannabis plants with a news watermark; cropped handcuffed figure in pink trousers), not photos of this detention, so they are not listed as media.
+    - The vBurgas.bg account is a police roundup that also reports two drunk drivers, two thefts in Pomorie and an injured bus passenger; those are separate events and are not covered here.
 ---
 
 A 15-year-old girl from Dabnik village near Pomorie was detained on 12 November
-after police officers found narcotic substances on her. [@1,4]
+after police officers found narcotic substances on her. [@1,4,5]
 
 Officers of the Regional Administration in Pomorie found that the previously
 convicted minor held dried plant material in the form of inflorescences
 identified as cannabis, weighing a total of 8 grams, and also a white
-crystalline substance – methamphetamine. [@1] A glass pipe with residues of the
+crystalline substance – methamphetamine. [@1,5] A glass pipe with residues of the
 crystalline substance that tested positive for methamphetamine in a field drug
 test was also seized; police state the total weight of the methamphetamine as 3
-grams. [@1]
+grams. [@1,5]
 
 The girl was detained by police order, and a fast-track procedure was opened on
-the case. [@1]
+the case. [@1,5]
 
-According to police data, the minor already has a criminal record. [@2] The
+According to police data, the minor already has a criminal record. [@2,5] The
 circumstances of the possession of the narcotic substances will be clarified
 within the fast-track procedure, according to the regional directorate's
 statement. [@3]
