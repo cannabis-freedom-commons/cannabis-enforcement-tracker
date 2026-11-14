@@ -42,6 +42,11 @@ media:
     media_url: https://radiodifusora.net/publico/uploads/2026/11/6af6f6db39fc7-z-medium.webp
     publisher: Rádio Difusora do Paraná
     caption: 'PRF handout photo of the seized marijuana bales and the recovery of the stolen pickup published with the report on the 3,162 kg Concórdia do Oeste seizure. Photo: Divulgação - PRF'
+  - kind: photo
+    url: https://www.pontodanoticia.com/noticia/quatro-homens-sao-presos-com-mais-de-3-toneladas-de-maconha-em-propriedade-rural-de-toledo
+    media_url: https://www.pontodanoticia.com/arquivos/noticias/2026/11/20261113083542_31cf8db573104165.webp
+    publisher: Ponto da Notícia
+    caption: 'PRF handout photo published with the account of the 3.162-kg marijuana seizure and four arrests in Concórdia do Oeste, Toledo. Photo: PRF'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1df1c106ad00f60884ccc845aa39c72c
@@ -67,15 +72,21 @@ sources:
     publisher: Rádio Difusora do Paraná
     date: 2026-11-13
     language: pt
+  - title: Quatro homens são presos com mais de 3 toneladas de maconha em propriedade rural de Toledo
+    url: https://www.pontodanoticia.com/noticia/quatro-homens-sao-presos-com-mais-de-3-toneladas-de-maconha-em-propriedade-rural-de-toledo
+    publisher: Ponto da Notícia
+    date: 2026-11-13
+    language: pt
 open_questions:
   - The Gazeta de Toledo report lists 9.9 kg of murruga alongside 3,162.9 kg of marijuana; the enforcement accounts do not define murruga, so only the marijuana weight is recorded as cannabis.
   - The published accounts give no names, ages, charges or later court outcome for the four detained men.
   - No street value, plant count or cultivation area was published for this seizure.
+  - The Ponto da Notícia account and the PRF statement list the marijuana seizure as 3,162 kg, which differs slightly from the 3,162.9 kg recorded in the report.
 ---
 
 A joint operation by the Paraná Military Police 19th Battalion and the Federal
 Highway Police seized more than three tonnes of drugs and arrested four people
-on Friday 13 November 2026 in Toledo in western Paraná. [@1,4] SOT placed the
+on Friday 13 November 2026 in Toledo in western Paraná. [@1,4,5] SOT placed the
 operation in the early hours of Friday in the Concórdia district of Toledo,
 where four men were arrested with a stolen pickup. [@2] The action began at
 about 3 a.m. during inspections of accesses to the BR-163 highway and rural
@@ -84,15 +95,15 @@ with military police support. [@2] The driver disobeyed the stop order, fled to
 a rural property and abandoned the Hilux inside a shed, where officers detained
 the driver and three other men at the site. [@1] Officers following the pickup
 reached the rural property, where two men were caught unloading bales of
-marijuana near the shed. [@2] Following the vehicle with military police support, the officers reached a rural property, where two men were caught unloading bales of marijuana near a shed. [@4]
+marijuana near the shed. [@2,5] Following the vehicle with military police support, the officers reached a rural property, where two men were caught unloading bales of marijuana near a shed. [@4]
 
 Searches of the pickup and the shed found bales totalling 3,162.9 kg of
 marijuana and 9.9 kg of murruga, or 3,172.8 kg of drugs removed from
-circulation. [@1] Checks showed the plate on the Toyota Hilux did not match the
+circulation. [@1,5] Checks showed the plate on the Toyota Hilux did not match the
 vehicle's identification data and that the pickup had a theft record. [@1]
 Police found the pickup used to carry the drug had been reported stolen since 28
-August 2026 in Medianeira, also in western Paraná. [@2,4] The four detained men,
+August 2026 in Medianeira, also in western Paraná. [@2,4,5] The four detained men,
 the recovered pickup and all the seized drugs were taken to Toledo's 20th Police
-Subdivision, where the case was handed to the Civil Police. [@1,4] Police said an
+Subdivision, where the case was handed to the Civil Police. [@1,4,5] Police said an
 inquiry would be opened to investigate the load's origin, its destination and
 possible links to other criminal groups. [@3]
