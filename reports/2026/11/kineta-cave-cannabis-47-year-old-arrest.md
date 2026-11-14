@@ -59,21 +59,29 @@ sources:
     publisher: CNN.gr
     date: 2026-11-13
     language: el
+  - title: Drugs stash found in cave west of Athens
+    url: https://www.ekathimerini.com/news/1321218/drugs-stash-found-in-cave-west-of-athens/
+    publisher: eKathimerini.com
+    date: 2026-11-13
+    language: en
 media:
   - kind: photo
     url: https://www.neakriti.gr/koinonia/2211153_kineta-ekrybe-126-kila-kannabis-se-spilaio-synelifthi-47hronos
     media_url: https://www.neakriti.gr/sites/default/files/styles/full/public/2026-11/kineta-narkotika-spilia__5_.jpg.webp?itok=_8-yHmjL
     publisher: Neakriti
     caption: 'Photo of the cave in Kineta where police found the 12.6 kg of cannabis. Photo: Neakriti'
+open_questions:
+  - The English account places the stash in a disused sheepfold inside the cave, while the Greek reports describe only a shelter in the cave.
+  - The English account gives the amount only as more than 12 kilograms, without the split between raw cannabis and cannabis clones in the police statement.
 ---
 
 Narcotics officers arrested a 47-year-old foreign man for cannabis possession
-and trafficking. [@1,6] Officers found the man inside a cave in Kineta, where he
-had hidden drug quantities for further distribution. [@1,3,4,5,7] Police said he stored
+and trafficking. [@1,6,8] Officers found the man inside a cave in Kineta, where he
+had hidden drug quantities for further distribution. [@1,3,4,5,7,8] Police said the stash was kept in a disused sheepfold inside the cave above Kineta. [@8] Police said he stored
 and distributed raw cannabis to various people, mainly around Agioi Theodoroi in
 Corinthia and in Attica. [@1,3,5,6,7] The arrest took place on the afternoon of
 Wednesday 11 November 2026 during an organized operation by the Narcotics
-Prosecution Subdirectorate in the Attica area. [@1,3]
+Prosecution Subdirectorate in the Attica area. [@1,3] Police said the arrest followed a tip-off about drug-trafficking in the area. [@8]
 
 At the site officers found a total of 12.6 kilograms of raw cannabis and
 cannabis clones, along with signal-jamming and surveillance devices. [@1] The
