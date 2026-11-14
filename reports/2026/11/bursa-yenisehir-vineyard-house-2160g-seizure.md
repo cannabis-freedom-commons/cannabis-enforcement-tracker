@@ -69,21 +69,27 @@ sources:
     publisher: Olay Gazetesi Bursa
     date: 2026-11-13
     language: tr
-open_questions:
-  - The reports give no separate date for the raid; 13 November 2026 is the publication date and is used as the incident date.
-  - The 2.16 kg is described only as material assessed to be kubar esrar, with no laboratory result reported.
-  - No charges, detention outcome or court step beyond detention and an opened investigation were reported.
+  - title: 'Bursa’da jandarmadan uyuşturucu operasyonu: 2 kilo 160 gram esrar ele geçirildi'
+    url: https://www.medyagazete.com/haber/bursada-jandarmadan-uyusturucu-operasyonu-2-kilo-160-gram-esrar-ele-gecirildi
+    publisher: Medya Gazete
+    date: 2026-11-13
+    language: tr
+  - title: 'Bursa''da jandarmadan uyuşturucu operasyonu: 2 kilo 160 gram esrar ele geçirildi'
+    url: https://yerel-haberler.haberturk.com/bursa-haberleri/bursada-jandarmadan-uyusturucu-operasyonu-2-kilo-160-gram-esrar-ele-gecirildi-119521636
+    publisher: Habertürk Yerel Haberler
+    date: 2026-11-13
+    language: tr
 ---
 
 Yenişehir district gendarmerie teams and narcotics dog units raided a vineyard
-house in Mahmudiye Mahallesi in Yenişehir, Bursa. [@1,4] Officers detained a
-65-year-old man identified as K.S. during the operation. [@1,4]
+house in Mahmudiye Mahallesi in Yenişehir, Bursa. [@1,4,5] Officers detained a
+65-year-old man identified as K.S. during the operation. [@1,4,5]
 
 The search found 2 kilograms 160 grams of material assessed to be kubar esrar,
-the Turkish term for compressed cannabis. [@1,4] Officers also seized 50 grams of
-cannabis seeds at the address. [@2,4] Officers also seized a precision scale and a
-drug-use implement at the address. [@1,4] Officers also seized an unlicensed
-shotgun and four cartridges. [@1,4]
+the Turkish term for compressed cannabis. [@1,4,6] Officers also seized 50 grams of
+cannabis seeds at the address. [@2,4,6] Officers also seized a precision scale and a
+drug-use implement at the address. [@1,4,5] Officers also seized an unlicensed
+shotgun and four cartridges. [@1,4,5]
 
 Blood and urine samples were taken from K.S. and handed to the authorities for
-examination. [@3,4] An investigation was opened into the incident. [@1,4]
+examination. [@3,4,6] An investigation was opened into the incident. [@1,4,5]
