@@ -47,6 +47,7 @@ sources:
     language: ta
 open_questions:
   - The account rests on a single Dinamalar report, with no police statement or second outlet found.
+  - Dinamalar uses only its masthead logo on the page, so no photo of the Ainamplayam ganja seizure is listed.
   - No value estimate for the 1.300 kg of ganja was published.
   - The report names no legal provision and does not say whether he was produced before a court or remanded.
   - The ganja is described only as ganja; no laboratory confirmation was reported.

@@ -51,6 +51,7 @@ open_questions:
   - The up to three years is the penalty the law allows for the drug charge, not a sentence given.
   - No laboratory confirmation of the seized substances was reported.
   - Only one accessible source for this event was found after searching in Polish.
+  - Lublin112 illustrates the arrest with a generic Policja roof light-bar close-up showing no marijuana seizure, so it is not listed as media.
 ---
 
 District officers of the Tomaszow Lubelski County Police traced a 39-year-old

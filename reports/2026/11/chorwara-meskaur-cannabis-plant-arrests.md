@@ -39,6 +39,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5a801c3267171cc8f8c81abaac1ef865
 tags: [bihar, nawada, meskaur, cultivation, ndps]
+media:
+  - kind: photo
+    url: https://www.bhaskar.com/local/bihar/nawada/meskaur/news/nawada-ganja-plant-seized-meskaur-chorwara-arrest-ndps-act-139645838.html
+    media_url: https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/11/10/9bbd057c-0fc5-417f-a768-4cf7f613c8cb_1794305967473.jpg
+    publisher: Dainik Bhaskar
+    caption: >-
+      Uprooted cannabis plants laid on concrete after the Meskaur police seizure
+      outside a house in Chorwara village.
 sources:
   - title: घर के पास गांजे का पौधा मिलने पर दो गिरफ्तार:चोरवारा गांव में पुलिस ने पौधा जब्त किया, एनडीपीएस एक्ट के तहत केस दर्ज
     url: https://www.bhaskar.com/local/bihar/nawada/meskaur/news/nawada-ganja-plant-seized-meskaur-chorwara-arrest-ndps-act-139645838.html

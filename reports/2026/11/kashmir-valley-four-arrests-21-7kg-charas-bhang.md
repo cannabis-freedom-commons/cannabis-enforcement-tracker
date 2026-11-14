@@ -61,6 +61,7 @@ open_questions:
     - The suspect stopped at the Haptmar-Nagbal crossing in Aishmuqam was not named.
     - All four outlets' accounts rest on the same police statement rather than independent reporting.
     - The recovered substances are described as charas-like powder and bhang husk, with no laboratory confirmation reported.
+    - KIMS Kashmir illustrates the Baramulla stop with a stock close-up of handcuffed wrists and no charas visible, so no event photo is listed.
 ---
 
 More than 20 kg of narcotics was seized in separate incidents in the Kashmir

@@ -46,6 +46,7 @@ sources:
 open_questions:
     - No charge, court hearing or further court outcome was reported.
     - Both accounts of the arrest are Dinamalar reports of the same police information, so the 45-gram weight is not independently corroborated.
+    - Dinamalar published only its masthead logo with the report, so no photo of this Tsunami Nagar arrest is listed.
 ---
 
 In Cuddalore, police arrested a young man after officers found that he had been

@@ -41,6 +41,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 544239fcaefb8c9961e2b950eb622288
 tags: [jalalpur, jaunpur, uttar-pradesh, ganja, ndps-act]
+media:
+  - kind: photo
+    url: https://www.bhaskar.com/local/uttar-pradesh/jaunpur/jalalpur/news/jaunpur-jalalpur-police-arrest-ranjeet-singh-ganja-drug-smuggling-139656992.html
+    media_url: https://images.bhaskarassets.com/web2images/521/2026/11/11/423a0d00-98d7-445d-86aa-67e75278380d_1794399790118.jpg
+    publisher: Dainik Bhaskar
+    caption: >-
+      Face-blurred suspect standing between two Jalalpur police officers after
+      the ganja arrest, as published with the Bhaskar report.
 sources:
   - title: 'Jaunpur News: जलालपुर पुलिस ने एक अभियुक्त को किया गिरफ्तार, 63 पुड़िया गांजा बरामद'
     url: https://tejastoday.com/jaunpur-news-jalalpur-police-arrested-an-accused-63-small-packets-of-cannabis-ganja-recovered/

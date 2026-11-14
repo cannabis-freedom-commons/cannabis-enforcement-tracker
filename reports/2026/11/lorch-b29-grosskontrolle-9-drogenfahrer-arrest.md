@@ -41,6 +41,7 @@ open_questions:
   - No figure for the weight of any cannabis or other substance seized or held is given; the nine narcotics-impaired drivers are reported without the specific substances being named or weighed.
   - The two weapons-law violations are recorded without a description of what was found.
   - No court outcome or charges beyond the on-the-spot arrest and security deposit have been reported.
+  - Stuttgarter Zeitung captions its lead image as a dpa Symbolbild of a road check, and Filstalexpress used only a police-star logo, so no photo of this Lorch B 29 control is listed.
 ---
 
 On Thursday 12 November 2026, Aalen police district officers ran a multi-hour

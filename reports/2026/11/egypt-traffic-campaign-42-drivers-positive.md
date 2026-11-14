@@ -41,6 +41,7 @@ open_questions:
   - No driver names, governorate breakdown, charges or prosecution decisions were reported for the drivers who tested positive.
   - The account is one outlet's report of the Interior Ministry figures; the ministry's own statement could not be opened, and no second outlet for this round was found.
   - The headline counts 48 drug-use cases, the sum of the 42 nationwide and the six Regional Ring Road positives, while the body reports the two figures separately.
+  - Akhbar el-Yom illustrates the round with a generic highway checkpoint photograph showing no drug tests or seizures, so it is not listed as media.
 ---
 
 Egypt's General Traffic Directorate continued intensive traffic campaigns on all

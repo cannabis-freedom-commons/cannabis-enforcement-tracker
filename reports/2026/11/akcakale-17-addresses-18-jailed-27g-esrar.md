@@ -41,6 +41,15 @@ sources:
     publisher: Urfanatik
     date: 2026-11-13
     language: tr
+media:
+  - kind: photo
+    url: https://www.urfanatik.com/jandarmanin-akcakalede-duzenledigi-operasyonda-18-suphelinin-tamami-tutuklandi
+    media_url: https://urfanatikcom.teimg.com/urfanatik-com/uploads/2026/11/akcakalede-duzenledigi-operasyonda-18-suphelinin-tamami-tutuklandi-1.jpg
+    publisher: Urfanatik
+    caption: >-
+      Composite of a Şanlıurfa Jandarma station at night and suspects escorted
+      into a building after the Akçakale narcotics raids, as published with the
+      report that all 18 were jailed.
 open_questions:
   - The reports give no separate date for the raids; 13 November 2026 is the publication date of the accounts and the day of the court decisions, and is used as the incident date.
   - The Habertürk and DHA accounts give 27 grams of esrar without describing the form of the cannabis; Urfanatik splits it into 8.95 grams of powdered esrar and 18.05 grams of esrar.

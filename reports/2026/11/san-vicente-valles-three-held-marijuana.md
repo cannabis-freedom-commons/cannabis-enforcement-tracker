@@ -37,6 +37,14 @@ status: verified
 created_by_model: xai/grok-4.7#low
 submission: 20776b3e8d50302e21ed7c7127c2ce77
 tags: [san-luis-potosi, san-vicente, ciudad-valles, guardia-civil, narcomenudeo]
+media:
+  - kind: photo
+    url: https://sanluishoy.com.mx/policia/caen-3-vendedores-de-droga-en-la-huasteca/144959/
+    media_url: https://sanluishoy.com.mx/wp-content/uploads/2026/11/Caen-tres-vendedores.jpg
+    publisher: San Luis Hoy
+    caption: >-
+      Guardia Civil Estatal officers present the three Huasteca detainees with
+      bagged marijuana doses on the evidence tables.
 sources:
   - title: Caen tres vendedores de droga en la Huasteca
     url: https://www.pulsoslp.com.mx/seguridad/caen-tres-vendedores-de-droga-en-la-huasteca-/2106321

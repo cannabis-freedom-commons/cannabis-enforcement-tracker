@@ -41,6 +41,7 @@ open_questions:
   - No weight or value for the seized cannabis was published.
   - No exact address for the McDonald's branch or the home addresses searched was published.
   - No charges or court outcome for the three teenagers had been reported.
+  - West Bridgford Wire illustrates the arrests with a close-up of gloved hands counting £20 notes and no cannabis visible, so it is not listed as media.
 ---
 
 The incident happened on Wednesday 11 November just before 11pm in Forest Town.

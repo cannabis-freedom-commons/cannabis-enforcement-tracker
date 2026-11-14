@@ -30,6 +30,7 @@ open_questions:
   - No drug quantity or value was seized or published in this report.
   - The suspect's name and the charges to follow were not published.
   - The nightclub location is named as a street in Marrakech but the precise venue is not identified.
+  - Mamlaka Press illustrates the arrest with a rural outdoor Gendarmerie Royale vehicle stop, not a photo of this Marrakech nightclub detention, so it is not listed as media.
 ---
 
 On Thursday early morning, the judicial centre of the Royal Gendarmerie in

@@ -34,6 +34,15 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5c27387b8ef5d78978b73c7c7d115c66
 tags: [saudi-arabia, asir, hashish, gdnc, yemeni-nationals]
+media:
+  - kind: photo
+    url: https://ajel.sa/local/7wablrbq7
+    media_url: https://cdn.ajel.sa/articles/2026-11/Screenshot2026-11-11094438-crop-wB9ePJN8.png
+    publisher: عاجل
+    caption: >-
+      General Directorate of Narcotics Control handout of two handcuffed men
+      facing a GDNC backdrop after the Asir arrest; the hashish and other drugs
+      are not shown in the frame. Photo: GDNC / عاجل.
 sources:
   - title: إلقاء القبض على مواطن ويمني في عسير بتهمة ترويج المخدرات » السعودية الإخبارية
     url: https://alsaudi.news/local/1111/120911/

@@ -50,6 +50,7 @@ open_questions:
   - No NDPS sections, case numbers, remand order or court outcome were reported.
   - No ages or occupations were given for the adult ganja suspects, and the juvenile was not named.
   - Only one accessible account of this drive was found after searching in Hindi and English.
+  - Royal Bulletin illustrates the drive with a sketch of officers escorting handcuffed men, so no photo of the ganja seizures is listed.
 ---
 
 Gautam Buddh Nagar police ran a special drive against the sale of intoxicants

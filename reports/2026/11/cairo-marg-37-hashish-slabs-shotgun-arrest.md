@@ -50,6 +50,7 @@ open_questions:
   - The two suspects were not named and no ages were published.
   - No charges, detention order or court outcome beyond the admission during questioning was reported.
   - The only other accessible account found is a Nabd mirror of the same Newsroom report, so the account rests on one original report.
+  - Newsroom illustrates the arrests with a stock close-up of hands being handcuffed, so no photo of this Marg hashish seizure is listed.
 ---
 
 Cairo detectives arrested two suspects in the Marg district of Cairo. [@1]

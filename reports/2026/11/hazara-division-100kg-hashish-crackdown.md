@@ -48,6 +48,7 @@ open_questions:
   - The seizure is given as more than 100 kg without an exact weight, so 100 kg is used as the minimum confirmed figure.
   - The number of people arrested for drug offences was not specified; the hundreds figure covers proclaimed offenders and court absconders in the wider campaign.
   - No charges, court proceedings or outcomes for the drug cases were reported.
+  - UrduPoint illustrates the crackdown with a generic street photograph of armed officers and a pickup showing no hashish seizure, so it is not listed as media.
 ---
 
 Hazara Police recovered more than 100 kilograms of hashish during a special

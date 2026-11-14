@@ -51,6 +51,7 @@ open_questions:
   - No figure for the value of the 21 kg of ganja was published.
   - The article does not say where the ganja came from or who supplied it.
   - The account rests on a single Tamil-language report.
+  - Dinakaran illustrates the arrest with a composite of a generic ganja pile and handcuffs graphic, so no photo of this Selaiyur seizure is listed.
 ---
 
 Selaiyur police went to the Puthuvancheri cremation ground in Tambaram, Tamil

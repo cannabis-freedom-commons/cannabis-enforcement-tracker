@@ -43,6 +43,15 @@ status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: a5ae703179761f18f11d316c1cb421f7
 tags: [misiones, posadas, gendarmeria, juicio-abreviado, marihuana-prensada]
+media:
+  - kind: photo
+    url: https://diario33.com.ar/mas-de-siete-toneladas-de-marihuana-juzgan-a-un-brasileno-por-narcotrafico-en-posadas
+    media_url: https://diario33.com.ar/wp-content/uploads/2026/11/md-1-4.webp
+    publisher: Diario 33
+    caption: >-
+      A Gendarmería officer stands on stacked pressed-marijuana packages from
+      the November 2024 truck seizure that is the subject of the Posadas trial;
+      Diario 33 labels the image Archivo.
 sources:
   - title: “Menos de ocho años de pena, acepto sin problemas”
     url: https://www.primeraedicion.com.ar/nota/101159544/menos-de-ocho-anos-de-pena-acepto-sin-problemas/

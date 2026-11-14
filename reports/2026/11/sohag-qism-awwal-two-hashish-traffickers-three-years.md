@@ -82,6 +82,7 @@ open_questions:
     - The first published accounts follow the same court-brief wording.
     - No case number, appeal or further court outcome was reported.
     - One outlet's headline states a fine of 100,000 Egyptian pounds, while its text and the other reports say each man was fined 50,000 pounds, which together come to 100,000 pounds.
+    - Cairo24 captions its lead image as an archival governorates courtroom photograph, so no photo of this Sohag hashish case is listed.
 ---
 
 The Sohag Appeals Criminal Court sentenced two men, identified only by the

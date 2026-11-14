@@ -46,6 +46,15 @@ sources:
     publisher: Dhaka TV
     date: 2026-11-12
     language: bn
+media:
+  - kind: photo
+    url: https://www.rupalibangladesh.com/all-bd-news/patuakhali/179731
+    media_url: https://www.rupalibangladesh.com/media/imgAll/2025July/potuakhali-20261112164943.webp
+    publisher: Rupali Bangladesh
+    caption: >-
+      Two suspects and Dumki Police Station officers with two yellow-taped
+      packages of seized ganja on a table, as published with the Lebukhali
+      microbus arrest report.
 open_questions:
   - No court outcome, plea or bail information was reported for the two men.
   - 'The accounts differ on the officers named: Rupali Bangladesh and Dhaka TV name ASI Shahbaz and ASI Shahriar Alam Rakib, while South BD News 24 says SI Abdur Rahim Molla prepared the seizure list.'

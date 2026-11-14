@@ -39,6 +39,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 745f36a49742ad79e73eca95628c8ceb
 tags: [nawada, bihar, ganja, ndps]
+media:
+  - kind: photo
+    url: https://swatvasamachar.com/news/nawada-khabar-499/
+    media_url: https://swatvasamachar.com/wp-content/uploads/2026/11/IMG-20261111-WA0015.jpg
+    publisher: Swatva Samachar
+    caption: >-
+      Warisaliganj police present the two hooded women with a jar of seized ganja
+      on the station desk.
 sources:
   - title: गांजा तस्करी का भंडाफोड़, दो महिला तस्कर गिरफ्तार; 1.750 किलोग्राम गांजा बरामद
     url: https://swatvasamachar.com/news/nawada-khabar-499/

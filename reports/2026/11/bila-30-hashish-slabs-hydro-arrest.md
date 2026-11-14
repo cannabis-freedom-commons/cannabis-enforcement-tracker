@@ -50,6 +50,7 @@ open_questions:
   - The suspects were identified only by initials and ages, and their full names were not published.
   - No amount was published for the seized cash, so it is not recorded in figures.
   - No court outcome or formal charges beyond referral to the Public Prosecution were reported.
+  - Masrawy uses a July 2024 stock close-up of handcuffed wrists, so no photo of the Bila hashish and hydro seizure is listed.
 ---
 
 Detectives from the Bila police station investigations unit in Kafr El Sheikh

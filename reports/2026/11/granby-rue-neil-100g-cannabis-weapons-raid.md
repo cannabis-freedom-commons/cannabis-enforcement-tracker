@@ -53,6 +53,7 @@ sources:
     date: 2026-11-10
     language: fr
 open_questions:
+  - Le Granby Express and M105 illustrate the raid with a Granby police jacket close-up and a generic police graphic, with no cannabis visible, so no event photo is listed.
   - The dried cannabis total is stated only as more than 100 grams, so 0.1 kilograms is a floor rather than an exact measured weight, and no street value was published.
   - No separate weights or counts were published for the seized THC concentrate or cannabis edibles, and one radio account grouped the figure as more than 100 grams of cannabis and derivative products.
   - The seized tablets were described only as probable methamphetamine and about ten grams of psilocybin was also taken; non-cannabis substances are excluded from the cannabis figures.

@@ -43,7 +43,17 @@ sources:
     publisher: Sohu (海关发布)
     date: 2026-11-12
     language: zh
+media:
+  - kind: photo
+    url: https://www.sohu.com/a/1100515411_121107000
+    media_url: https://q0.itc.cn/q_70/images03/20261112/0fa1e049ec994a2a8b6ab8a2d4d9324e.jpeg
+    publisher: Sohu (海关发布)
+    caption: >-
+      Open cigarette pack containing hand-rolled cannabis cigarettes on a
+      customs inspection counter, as published with the West Kowloon seizure
+      announcement.
 open_questions:
+  - The on.cc URL in the sources list is a separate Lo Wu methamphetamine body-concealment story and is not an account of this West Kowloon cannabis-cigarette seizure; its photo is not listed as media.
   - The customs notice gives no separate date for the interception; 12 November 2026 is the announcement and publication date and is used as the incident date.
   - Neither account names the traveller or gives their nationality or age.
   - The 4.2 g figure is a gross weight of the seven cigarettes, not a net cannabis weight.

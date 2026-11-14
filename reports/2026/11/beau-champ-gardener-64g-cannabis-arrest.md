@@ -45,6 +45,7 @@ sources:
 open_questions:
   - No charge, custody status or court outcome was reported beyond the continuing investigation.
   - The report gives no street value or other quantity beyond the 64.23 grams seized.
+  - IONNEWS illustrates the arrest with a 2025 Bel-Air file photograph, not a picture of this Beau-Champ cannabis find, so it is not listed as media.
 ---
 
 On Wednesday 11 November, ADSU officers arrested a 45-year-old gardener living

@@ -58,6 +58,7 @@ open_questions:
     - No seizure location within Coimbatore district was given beyond the district itself.
     - The Hindu does not describe the three arrests as ganja sales; that allegation appears only in the earlier account.
     - The Dinamani headline gives the ganja seized as 1.66 kg, while its text says 1.600 kg; the weight used is 1.6 kg.
+    - Afternoonnews illustrates the drive with a collage of mugshots from the wider rowdy round-up showing no ganja seizure, so it is not listed as media.
 ---
 
 Coimbatore district police ran a special operation on the orders of District

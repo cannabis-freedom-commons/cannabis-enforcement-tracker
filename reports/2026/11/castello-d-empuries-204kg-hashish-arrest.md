@@ -75,6 +75,7 @@ open_questions:
   - No laboratory confirmation of the seized material as hashish was reported.
   - The reports do not say where the hashish came from or who was to receive it.
   - The same reports describe a separate 10 November seizure of 66 kilograms of marijuana buds and 17 grams of cocaine at Vilablareix, a different event that is not covered here.
+  - El País and Europa Press illustrate the case with generic Mossos d'Esquadra patrol-car file photos, not a picture of this hashish seizure, so they are not listed as media.
 ---
 
 Mossos d'Esquadra traffic officers running a check at kilometre point 28 of the

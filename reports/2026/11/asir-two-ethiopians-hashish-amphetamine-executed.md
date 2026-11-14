@@ -72,6 +72,8 @@ sources:
     publisher: برس بي
     date: 2026-11-11
     language: ar
+open_questions:
+  - Ajel illustrates the execution announcement with a July 2026 Interior Ministry logo graphic, so no photo of this Asir case is listed.
 ---
 
 Saudi Arabia's Interior Ministry announced the execution of two Ethiopian

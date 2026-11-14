@@ -65,6 +65,8 @@ sources:
     publisher: Novum Canal
     date: 2026-11-13
     language: pt
+open_questions:
+  - CNN Portugal illustrates the arrest with a stock close-up of hands rolling a joint, not a photo of this Porto hashish seizure, so it is not listed as media.
 ---
 
 The Polícia Judiciária (PJ), Portugal's judiciary police, arrested a 31-year-old

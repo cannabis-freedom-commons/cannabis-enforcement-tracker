@@ -57,6 +57,7 @@ open_questions:
   - The 60 doses of cristal are not cannabis and are excluded from the cannabis figures; no combined drug total is counted as cannabis.
   - The accounts do not say whether the statewide total includes the four people detained in two Matehuala operations reported the same day.
   - Pulso Diario San Luis, El Exprés and Plano Informativo carry the same Guardia Civil Estatal statement, so they are not independent reporting; no separate official communiqué was opened.
+  - Pulso Diario San Luis illustrates the balance with a file photo of the Potosí C4 monitoring centre and no marijuana visible, so it is not listed as media.
 ---
 
 San Luis Potosí's Guardia Civil Estatal detained 31 people in operations and

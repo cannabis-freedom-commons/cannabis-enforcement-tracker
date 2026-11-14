@@ -54,6 +54,15 @@ sources:
     publisher: Betul Update
     date: 2026-11-11
     language: hi
+media:
+  - kind: photo
+    url: https://www.betulupdate.com/betul-crime-news-amla-cannabis-plants-seized/
+    media_url: https://www.betulupdate.com/wp-content/uploads/2026/11/004-7.jpg
+    publisher: Betul Update
+    caption: >-
+      Collage of Bordehi/Amla officers with suspects outside a police station,
+      published with the report that covers the Chikhlar cannabis-plant seizures
+      and arrests.
 open_questions:
     - No figure for the area under cultivation was published.
     - No court appearance or bail status was reported for the two Chikhlar accused.

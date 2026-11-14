@@ -39,6 +39,15 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7bd51c3bed2f2039232c39f691bd7777
 tags: [cuiaba, mato-grosso, maconha, rotam]
+media:
+  - kind: photo
+    url: https://www.midiajur.com.br/geral/integrante-de-faccao-e-preso-com-25-porcoes-de-maconha-em-cuiaba/89154
+    media_url: https://cdn.midiajur.com.br/storage/webdisco/2026/11/12/1200x900/097142061c8ca8d3dbd07d67b6e025ce-midiajur-com-br.jpg
+    publisher: Midia Jur Notícias de Cuiabá e Mato Grosso
+    caption: >-
+      ROTAM / Polícia Militar de Mato Grosso display of bagged maconha portions,
+      cash, a scale, scissors, a phone, a watch and a PlayStation seized in the
+      Dom Aquino arrest.
 sources:
   - title: Integrante de facção é preso com 25 porções de maconha em Cuiabá
     url: https://www.midiajur.com.br/geral/integrante-de-faccao-e-preso-com-25-porcoes-de-maconha-em-cuiaba/89154

@@ -39,6 +39,14 @@ sources:
     publisher: Reporteros en Movimiento
     date: 2026-11-13
     language: es
+media:
+  - kind: photo
+    url: https://reporterosenmovimiento.com/2026/11/13/dos-detenidos-y-ocho-bolsas-de-marihuana-aseguradas-en-chimalhuacan/
+    media_url: https://reporterosenmovimiento.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-9.58.53-AM-1-edited.jpeg
+    publisher: Reporteros en Movimiento
+    caption: >-
+      Identification photographs of the two men detained in Chimalhuacán, with
+      eyes barred, as published with the eight-bag marijuana arrest report.
 open_questions:
   - The article gives no weight for the eight bags of apparent marijuana, so no cannabis weight is recorded.
   - No date for the arrest is given separately from the report's publication on 13 November 2026, which is used as the incident date.

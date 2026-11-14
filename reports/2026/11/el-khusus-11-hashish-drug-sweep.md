@@ -83,6 +83,7 @@ open_questions:
     - The reports do not say how many of the 11 held hashish rather than heroin, ice or powdered drugs.
     - No names, ages, individual charges or court outcome were reported.
     - All the accounts appear to repeat the same security statement.
+    - Al-Masry Al-Youm illustrates the sweep with a file photo of the Interior Ministry headquarters, so no photo of the El-Khusus seizures is listed.
 ---
 
 Security agencies in Qalyubia Governorate examined social-media posts that said

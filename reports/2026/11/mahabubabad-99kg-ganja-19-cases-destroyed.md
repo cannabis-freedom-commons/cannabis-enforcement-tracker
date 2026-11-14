@@ -32,6 +32,21 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: dd58fefed2b97d6130b9889d8c51e193
 tags: [mahabubabad, telangana, ganja, disposal, ndps-act]
+media:
+  - kind: photo
+    url: https://www.thehansindia.com/news/cities/warangal/mahabubabad-police-destroy-ganja-worth-4984-lakh-1141091
+    media_url: https://assets.thehansindia.com/h-upload/2026/11/11/1723373-ppp.jpg
+    publisher: The Hans India
+    caption: >-
+      Telangana police officers weigh a sack marked for a Mahabubabad NDPS case
+      and hold wrapped ganja bricks during the supervised disposal.
+  - kind: photo
+    url: https://indtoday.com/mahabubabad-police-destroy-ganja-worth-rs-49-84-lakh/
+    media_url: https://indtoday.com/wp-content/uploads/2026/11/YT-Thumbnails-2026-11-11T194123.191.jpg
+    publisher: INDToday News
+    caption: >-
+      Another angle of officers around the scale and seized ganja sacks at the
+      Mahabubabad destruction, as published by INDToday.
 sources:
   - title: Mahabubabad Police Destroy Ganja Worth ₹49.84 Lakh
     url: https://www.thehansindia.com/news/cities/warangal/mahabubabad-police-destroy-ganja-worth-4984-lakh-1141091

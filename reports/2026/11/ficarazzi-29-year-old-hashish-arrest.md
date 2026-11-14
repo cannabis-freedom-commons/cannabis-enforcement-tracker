@@ -64,6 +64,7 @@ open_questions:
   - The ten hashish wraps found in the square were not weighed, so the 49.40 grams cover only the two blocks found at home.
   - No name was published, and no validation of the arrest or later court outcome was reported.
   - A second young man was seen talking with him; the reports do not say he was stopped or arrested.
+  - NewSicilia illustrates the arrest with a 2023 file photo of Polizia officers at Villa Palagonia in Bagheria, not this Ficarazzi hashish stop, so it is not listed as media.
 ---
 
 Officers of the Bagheria police station of the Polizia di Stato arrested a

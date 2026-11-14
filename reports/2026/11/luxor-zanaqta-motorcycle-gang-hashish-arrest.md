@@ -56,6 +56,7 @@ open_questions:
   - The sources give no separate raid date; 11 November 2026 is the publication date used for the incident date.
   - It is not yet known whether formal drug or theft charges followed the four-day detention.
   - The half-kilogram of shabu is a non-cannabis drug and is excluded from cannabis figures.
+  - El Watan illustrates the raid with a file photo of the Luxor Security Directorate building and police vehicles, so no photo of the hashish seizure is listed.
 ---
 
 Luxor criminal investigators arrested four men accused of forming a gang that

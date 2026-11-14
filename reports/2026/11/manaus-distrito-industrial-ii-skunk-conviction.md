@@ -65,6 +65,7 @@ open_questions:
   - No street value for the seized skunk was published.
   - The operation account names Jose Ricardo alongside Kristhian at the bank withdrawal, while the sentence names Ricardo Rincon Barbosa, so whether these refer to the same person on different name forms is unclear.
   - No appeal outcome is yet known, although the decision is appealable.
+  - G1 illustrates the conviction with a Bill Oxford/Unsplash stock photo of handcuffs, so no photo of this Distrito Industrial II skunk seizure is listed.
 ---
 
 The 1st Criminal Court of Manaus convicted three men of association for drug

@@ -60,6 +60,7 @@ open_questions:
   - The room searched is described only as the accommodation of a man from Limanowa County, so no more precise location is recorded.
   - No preventive measure such as remand, and no court date or outcome, was reported.
   - Both accounts reproduce the same Wieliczka police statement, so the case rests on a single police source.
+  - The Małopolska police photo published with the case shows only vacuum-sealed bags of crystalline mefedron, not the marijuana from the room search, so it is not listed as cannabis media.
 ---
 
 Officers from the criminal department of the Wieliczka county police stopped a

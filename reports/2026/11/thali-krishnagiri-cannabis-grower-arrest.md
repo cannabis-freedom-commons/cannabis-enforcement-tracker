@@ -41,6 +41,7 @@ open_questions:
   - No figure for the number of cannabis plants found or their weight was published.
   - The account gives no separate date for the raid and arrest; 11 November 2026 is used from the 'two days ago' reference against the 13 November publication date.
   - No charges, seizure quantity, value or court outcome were reported; the case was at the arrest stage.
+  - Dinamalar uses only its masthead logo on the page, so no photo of the Thali garden plants is listed.
 ---
 
 Police in Thali, Krishnagiri district, arrested 35-year-old farmer Naranayana,

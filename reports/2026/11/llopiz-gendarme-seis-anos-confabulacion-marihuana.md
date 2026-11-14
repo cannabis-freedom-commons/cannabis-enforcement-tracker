@@ -41,6 +41,7 @@ open_questions:
   - No separate date for the Supreme Court ruling was published; 12 November 2026 is the publication date and stands in for the event date.
   - The account rests on a single accessible report crediting Noticias Argentinas, with no court document published.
   - No court document was published for this ruling.
+  - Outlets illustrate the ruling with generic Gendarmería Nacional road-patrol file photos, not pictures of Llopiz or this case, so they are not listed as media.
 ---
 
 The Supreme Court of Justice confirmed a six-year prison sentence for gendarme

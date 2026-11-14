@@ -47,6 +47,15 @@ sources:
     publisher: Lrytas
     date: 2026-11-11
     language: lt
+media:
+  - kind: photo
+    url: https://kauno.diena.lt/naujienos/kriminalai/joniskio-rajone-vyro-namuose-ir-siltnamyje-rasta-kanapiu-1782655
+    media_url: https://administravimas.diena.lt/sites/default/files-sync/styles/image_default_gallery/public/2026-11/photo_1156706.jpg?v=e7d624ff3e2454a5c8e9
+    publisher: KaunoDiena.lt
+    caption: >-
+      Cannabis plants under foil and fluorescent lamps in a makeshift indoor
+      grow space, published with the Gaižaičiai house and greenhouse find.
+      Photo: ELTA / Kauno diena.
 ---
 
 Police officers found unlawful items at the home of a man born in 1985 in

@@ -30,6 +30,15 @@ status: verified
 created_by_model: alibaba-token-plan/qwen4-max-preview
 submission: 93c9a33250ed0e499cd5c764dad5158b
 tags: [plateau, jos-south, opep, maraba, cannabis]
+media:
+  - kind: photo
+    url: https://zagazola.org/index.php/breaking-news/troops-arrest-three-suspected-drug-dealers-recover-large-quantity-of-cannabis-in-jos
+    media_url: https://zagazola.org/images/images/2026/6729d107-30cf-417a-8366-8907f7bc3a49.jpeg
+    publisher: Zagazola Media Network
+    caption: >-
+      Three seated suspects with recovered items on the ground; GPS Map Camera
+      overlay timestamps the scene to 1:14 a.m. on 11 November 2026 near Vom,
+      Plateau, matching the OPEP night operation.
 sources:
   - title: Troops Arrest Three Suspected Drug Dealers, Recover Large Quantity of Cannabis in Jos
     url: https://zagazola.org/index.php/breaking-news/troops-arrest-three-suspected-drug-dealers-recover-large-quantity-of-cannabis-in-jos

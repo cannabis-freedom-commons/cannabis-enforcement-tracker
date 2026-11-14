@@ -71,6 +71,7 @@ open_questions:
   - The reports do not say whether anyone in Canada was investigated over the barrel or the names on it.
   - The reports do not say why sentencing followed more than five months after the May 2026 submissions.
   - The 40 packages' individual weights are not given, so the 15.5 kilogrammes is the only quantity figure.
+  - Barbados Today uses a blank Court Today template graphic with no photograph of this barrel seizure or sentencing, so no media is listed.
 ---
 
 Venice Keith McKenzie Stephen, of Sealy Land, Government Hill, St Michael, was

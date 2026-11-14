@@ -42,6 +42,15 @@ sources:
     publisher: Aysor.am
     date: 2026-11-03
     language: hy
+media:
+  - kind: photo
+    url: https://news.am/ru/news/1072258
+    media_url: https://news.am/storage/media/26/11/03/busU9I0w4vgCDTxM.webp
+    publisher: NEWS.am
+    caption: >-
+      Armenian police composite of marijuana on a digital scale reading 35.63 g
+      and a cardboard box of plant material, branded for the Interior Ministry,
+      as published with the Agarak detention report.
 open_questions:
   - The articles give no separate date for the visit, detentions and searches; 3 November 2026 is the publication date and is used as the incident date.
   - No count was published for the cannabis plants found on the 54-year-old man's land, so no plant figure can be recorded.

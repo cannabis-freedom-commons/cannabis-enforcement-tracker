@@ -37,6 +37,15 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 67d42ecb070c126cf6f8571456c681a9
 tags: [cairo, marg, hashish]
+media:
+  - kind: photo
+    url: https://www.newsroom.info/481901
+    media_url: https://cdn.newsroom.info/UploadCache/libfiles/67/2/1200x675o/790.webp
+    publisher: نيوز رووم
+    caption: >-
+      Face-blurred suspect behind a table of wrapped hashish bricks, a shotgun
+      and shotgun shells after the Marg arrest. Photo: Cairo criminal
+      investigations / نيوز رووم.
 sources:
   - title: سقوط عنصر إجرامي بحوزته ١٣ كيلو حشيش وبندقية فى المرج
     url: https://www.newsroom.info/481901

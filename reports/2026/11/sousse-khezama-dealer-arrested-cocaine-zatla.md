@@ -47,6 +47,7 @@ open_questions:
   - No charge or court date was reported for the arrested man.
   - The account rests on a single source; no second report of the same operation was found.
   - The operation's exact date is not stated; 12 November 2026 is the article's publication date.
+  - Hakaek Online illustrates the arrest with a stock cropped photo of a handcuffed man being escorted, so no photo of this Khezama seizure is listed.
 ---
 
 The judicial police brigade of Sousse city arrested one man suspected of

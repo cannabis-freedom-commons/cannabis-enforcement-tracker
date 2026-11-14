@@ -57,6 +57,7 @@ open_questions:
     - No cannabis-only arrest count, charges or court outcome was reported.
     - El Financiero states 10 tonnes of cocaine where Gamavisión and La Crónica say more than 10 tonnes; the marijuana figure of 31 tonnes matches in the accounts opened.
     - Changoonga reports more than a million counterfeit cigarettes, while the existing account says more than 1.5 million packs, so the unit and count differ.
+    - Gamavisión and Changoonga illustrate the Navy balance with a warehouse handout of white-wrapped bales and a dog team that shows no identifiable marijuana, so no cannabis event photo is listed.
 ---
 
 The Mexican Navy said its operations in Michoacán had seized 31 tonnes of

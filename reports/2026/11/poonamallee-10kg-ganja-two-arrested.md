@@ -47,6 +47,15 @@ sources:
     publisher: Avadi Police Commissionerate
     date: 2026-11-12
     language: ta
+media:
+  - kind: photo
+    url: https://x.com/avadipolice/status/2120911011406565788
+    media_url: https://pbs.twimg.com/media/HW79UmobIAAYooj.jpg?name=orig
+    publisher: Avadi Police Commissionerate
+    caption: >-
+      Avadi Police Commissionerate handout naming Mohammed Shameer and Ashin
+      with a photo of the wrapped ganja package seized near Poonamallee; green
+      cannabis-leaf graphics are decorative overlays on the package frame.
 open_questions:
   - The article dates the interception only to Thursday; 12 November 2026 is inferred from the 14 November publication date.
   - The statutory charges under the NDPS Act, the case number and the outcome of the remand hearing were not reported.

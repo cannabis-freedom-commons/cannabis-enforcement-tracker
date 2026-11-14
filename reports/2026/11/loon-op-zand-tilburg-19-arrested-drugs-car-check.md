@@ -35,6 +35,14 @@ sources:
     publisher: Waalwijk.nieuws.nl
     date: 2026-11-13
     language: nl
+media:
+  - kind: photo
+    url: https://waalwijk.nieuws.nl/112/tilburger-19-aangehouden-na-vondst-van-verschillende-soorten-drugs
+    media_url: https://s3-newsifier.ams3.digitaloceanspaces.com/waalwijk.nieuws.store/images/2026-11/906075495-1606837188144161-7159740890304392887-n.jpg
+    publisher: Waalwijk.nieuws.nl
+    caption: >-
+      Bagged powders and dark plant matter laid out beside a keyboard after the
+      Loon op Zand vehicle check, as published with the 19-year-old's arrest.
 open_questions:
   - No figure for the amount of cash seized or the types or quantities of drugs found was published.
   - No charge was filed, no plea and no court outcome was reported; the case was at the investigation stage.

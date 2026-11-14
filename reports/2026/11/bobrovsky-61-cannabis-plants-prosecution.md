@@ -53,6 +53,7 @@ open_questions:
   - The account rests on a single outlet report; no separate agency statement or second outlet account was found.
   - 'Left out, as its quotation was not found in Новости Воронежа: He watered the seedlings regularly, weeded the beds and tended the plants until they ripened.'
   - Left out environment, as its quotation was not found in Новости Воронежа.
+  - Novosti Voronezha illustrates the prosecution with a 2024 courthouse file photograph, so no photo of this Bobrovsky cannabis plantation is listed.
 ---
 
 A 58-year-old local man in Bobrovsky District, Voronezh Oblast, came under

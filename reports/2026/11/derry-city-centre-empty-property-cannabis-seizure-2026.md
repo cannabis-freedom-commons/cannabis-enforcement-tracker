@@ -48,6 +48,7 @@ open_questions:
   - Derry Now and Derry Journal are both Iconic Media titles carrying the same PSNI account, so they are not independent reporting of the seizure.
   - Highland Radio covered the seizure in a roundup that also reported a separate drug-driving arrest in the Crescent Link area of Derry on the evening of 11 November 2026, which is a different event and is left out here.
   - The Derry Journal describes the discovery as made during a call to an address, while the other accounts say officers were checking the address in connection with an unrelated matter.
+  - Derry Now illustrates the seizure with a July 2026 file photo of a PSNI car, with no plants visible, so it is not listed as media.
 ---
 
 Police in Derry seized suspected Class B controlled drugs from an empty property

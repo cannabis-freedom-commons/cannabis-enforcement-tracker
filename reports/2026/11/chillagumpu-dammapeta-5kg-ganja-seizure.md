@@ -42,6 +42,7 @@ open_questions:
   - No suspect, arrest, charge, origin or destination was reported for the Chillagumpu seizure.
   - Eenadu and ETV Bharat published substantially the same account, so the opened reporting provides no independent operational detail.
   - The other seizures listed in the same articles are separate events and are not included in this report or its figures.
+  - ETV Bharat illustrates the Chillagumpu account with a stock photo of a cannabis-branded delivery box, not a photo of this seizure, so it is not listed as media.
 ---
 
 Police seized five kilograms of ganja at Chillagumpu in Dammapeta mandal. [@2]

@@ -43,6 +43,7 @@ open_questions:
   - The two individuals were not named, and no charges or court outcome were reported; they were handed over for investigation.
   - The same article also reports recovered motorcycles and a scooter, accident assistance and an impounded school van; those separate events are left out of this report.
   - The account rests on a single Times of India report attributed to the police spokesperson.
+  - The Times of India illustrates the roundup with a crowd-control photo of officers' backs and no cannabis seizure visible, so it is not listed as media.
 ---
 
 Gurgaon Traffic Police personnel intercepted suspected individuals carrying

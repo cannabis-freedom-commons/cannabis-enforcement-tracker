@@ -38,6 +38,7 @@ open_questions:
   - No number of arrests, seizures, plants or officers was reported for the meeting.
   - Neither report ties the ganja instructions to a specific case, police station or part of the district.
   - The reports do not say whether the supply-chain inquiry has targets or deadlines.
+  - HMTV published only a collage of Commissioner Sunil Dutt and officers at the crime-review meeting, with no cannabis seizure photo, so it is not listed as media.
 ---
 
 Khammam police commissioner Sunil Dutt held a crime review meeting at the police

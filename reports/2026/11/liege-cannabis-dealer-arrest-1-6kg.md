@@ -55,6 +55,7 @@ open_questions:
   - Both accounts come from outlets in the same media group (IPM), so they are not independent reporting, and no police or prosecutor statement was available.
   - The suspect is identified only by his first name, and no street address or district in Liège was published for either home.
   - No figure for cannabis plants, cash, vehicles or other seized items was published.
+  - Sudinfo captions its lead image Photo News and the CDN path dates it to September 2025, so no photo of this Liège cannabis arrest is listed.
 ---
 
 Police in Liège arrested a 27-year-old man on the afternoon of Wednesday 11

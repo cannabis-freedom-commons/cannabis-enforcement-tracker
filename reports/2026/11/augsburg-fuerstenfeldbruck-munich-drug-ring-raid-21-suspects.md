@@ -66,7 +66,7 @@ open_questions:
     - No dates were given for the earlier cannabis and cocaine finds attributed to the group.
     - The MSN page carries the same Augsburger Allgemeine report as the original article, so it is not an independent account.
     - Presse Augsburg and Radio Augsburg report the same police information as the Augsburger Allgemeine, so they are not independent accounts.
-    - The submitted photo is a labelled symbol image, so no event photo is listed.
+    - BR24 captions its lead image as an Archivfoto of gloved hands counting euro notes, Presse Augsburg used an unrelated call-centre fraud file picture, and no photo of this Augsburg raid is listed.
 ---
 
 Police arrested several suspects in a coordinated drugs raid on the morning of

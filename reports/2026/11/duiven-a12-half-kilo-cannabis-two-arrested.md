@@ -53,6 +53,7 @@ open_questions:
   - The cannabis amount is approximate (about 500 grams / about half a kilo); no exact measured weight or laboratory confirmation was reported.
   - No court outcome was reported; the men were released with a summons to appear later before the police judge.
   - The reports rest on the same Marechaussee account via crime press and are not independent of each other.
+  - Crime Nieuws illustrates the stop with a laboratory photo of a large vacuum-sealed narcotics parcel in a branded duffel, far larger than the reported half kilo of dumped cannabis, so it is not listed as media.
 ---
 
 Two Spanish men aged 28 and 38 were arrested after trying to drive away from a

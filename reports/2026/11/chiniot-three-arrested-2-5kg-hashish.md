@@ -46,6 +46,7 @@ open_questions:
   - The operations are described only as taking place in different areas of Chiniot district, with no village or police-station breakdown.
   - The arrests are dated only as Wednesday; 11 November 2026 is that Wednesday and the publication date.
   - Only the Associated Press of Pakistan account, carried by UrduPoint, was available for this operation.
+  - UrduPoint illustrates the arrests with a generic street photograph of uniformed officers and motorcycles showing no hashish seizure, so it is not listed as media.
 ---
 
 On Wednesday 11 November 2026, Chiniot police arrested three alleged drug

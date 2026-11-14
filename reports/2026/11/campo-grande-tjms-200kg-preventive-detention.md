@@ -55,6 +55,7 @@ open_questions:
   - Neither source specifies the date of the initial flagrant arrest or the custody hearing.
   - The third individual who loaded the cannabis into the vehicle in Campo Grande was not identified.
   - While the state prosecutor stated the defendants resided in another state, the news report referred to their residence in the court district.
+  - JD1 Notícias labels its lead image illustrative handcuffs (Foto Ilustrativa | Algemas), so no photo of the 200 kg cannabis load is listed.
 ---
 
 The 3rd Criminal Chamber of the Court of Justice of Mato Grosso do Sul

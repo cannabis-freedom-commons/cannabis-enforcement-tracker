@@ -55,6 +55,7 @@ open_questions:
   - No charge beyond possession and no court outcome were reported.
   - All opened accounts reproduce the same Haskovo regional police statement, so the account rests on a single official source.
   - Left out activity, as its quotation was not found in Вестник „Старият мост“.
+  - Вестник „Старият мост“ illustrates the roundup with a stock close-up of handcuffed wrists and no drugs visible, so no event photo is listed.
 ---
 
 Police in the Haskovo region detained three people within a day for drug

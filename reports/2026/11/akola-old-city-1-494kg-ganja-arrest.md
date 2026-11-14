@@ -43,6 +43,7 @@ open_questions:
   - The article gives no separate date for the raid; 11 November 2026 is its publication date and stands in for the incident date.
   - The suspect was not publicly identified by name or age in the initial news report.
   - The specific street location and origin of the seized ganja were not published.
+  - Divya Marathi illustrates the raid with a stock close-up of handcuffed hands against cell bars, so no photo of this Old City seizure is listed.
 ---
 
 Police in Akola arrested one suspect and obtained two days of police custody

@@ -24,6 +24,8 @@ sources:
     publisher: МЕДИА ТОК
     date: 2026-11-13
     language: ru
+open_questions:
+  - Media Tok illustrates the Tyva eradication totals with a generic close-up of cannabis leaves, not a photo of the 2026 destruction work, so it is not listed as media.
 ---
 
 Tyvan regional authorities reported that 2,290.9 hectares of wild cannabis was

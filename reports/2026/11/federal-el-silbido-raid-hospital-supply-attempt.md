@@ -21,6 +21,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 946ff792337f6863d97a2038e4235a23
 tags: [federal, entre-rios, microtrafico, marihuana, barrio-el-silbido]
+media:
+  - kind: photo
+    url: https://www.r2820.com/noticias/2026/11/12/121109-federal-secuestraron-marihuana-que-intentaron-proveer-a-una-mujer-internada-en-un-hospital
+    media_url: https://cdn3.r2820.com/s3i233/2026/11/r2820/images/02/85/66/2856689_3c26fa67d091cd9c903c63de267414343c0f248dae18a04aa9b045ab8000dcf8/xl.webp
+    publisher: R2820
+    caption: >-
+      An officer in a Dirección de Drogas Peligrosas shirt laying out cannabis
+      seedlings on cardboard during the El Silbido raid.
 sources:
   - title: 'Federal: secuestraron marihuana que intentaron proveer a una mujer internada en un hospital'
     url: https://flipr.com.ar/entre-rios/r2820/federal-secuestraron-marihuana-que-intentaron-proveer-a-una-mujer-internada-en-un-hospital/

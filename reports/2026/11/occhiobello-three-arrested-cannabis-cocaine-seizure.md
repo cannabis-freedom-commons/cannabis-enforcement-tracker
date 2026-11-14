@@ -42,6 +42,7 @@ open_questions:
     - The 320 grams of cocaine are excluded from the cannabis weight; the nearly-five-kilogram total in the headline covers all substances.
     - Laboratory confirmation of the substances and any outcome beyond the reported precautionary measures were not given.
     - The whole account rests on one accessible online source; the Corriere del Veneto's print edition of 13 November 2026 and the RaiNews Tgr Veneto item of 13 November 2026 cover the same event.
+    - Rovigo.News published Carabinieri seizure pictures (hashish bricks with a large fan of €50 notes; a bag of white powder) that do not match the reported €380 cash figure for this case, so they are treated as file photos and not listed as media.
 ---
 
 In Alto Polesine, Carabinieri officers identified and detained three suspected

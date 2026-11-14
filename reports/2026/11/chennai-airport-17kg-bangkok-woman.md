@@ -54,6 +54,14 @@ sources:
     publisher: ABP Nadu
     date: 2026-11-13
     language: ta
+media:
+  - kind: photo
+    url: https://tamil.abplive.com/crime/thailand-to-chennai-cannabis-smuggling-woman-arrested-with-1-70-crore-drugs-tnn-279554
+    media_url: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/13/19e9a0bede6aeb6504bc9ec47e88e8f717945374851241319_original.jpg
+    publisher: ABP Nadu
+    caption: >-
+      Officers cuff the woman at Chennai airport baggage reclaim under an
+      Arrivals from Bangkok sign, as published with the Customs ganja seizure.
 open_questions:
   - The woman is not named, and neither account reports a charge, a remand or a court appearance.
   - ABP Nadu gives the value as about Rs 1.70 crore; Dinamalar states an international value of Rs 1.70 crore, which this report uses.

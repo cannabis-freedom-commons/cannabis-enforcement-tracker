@@ -78,6 +78,8 @@ sources:
     publisher: إقرأ نيوز
     date: 2026-11-11
     language: ar
+open_questions:
+  - Youm7 captions its lead image as an archival detention photograph (أرشيفية), so no photo of this Amiriya hashish seizure is listed.
 ---
 
 The Alexandria Criminal Court sentenced a worker to 10 years of rigorous

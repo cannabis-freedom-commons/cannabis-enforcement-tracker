@@ -46,6 +46,7 @@ open_questions:
   - Whether the hotel-room suspect is included among the 12 people taken to police cells was not stated, so only the one cannabis-linked arrest is counted.
   - No charge, identity or court outcome for the hotel-room suspect was reported.
   - The whole account rests on one report of the Hessian Interior Ministry statement.
+  - t-online captions its lead image an Archivbild of an arrest in Frankfurt, so no photo of this hotel hashish find is listed.
 ---
 
 The hotel-room search took place during a large police control in Frankfurt's

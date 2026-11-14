@@ -54,6 +54,7 @@ open_questions:
   - The names of the four accused, the exact checkpoint location in Bermejo and any court outcome of the appeal were not reported.
   - The whole account rests on a single outlet report attributed to the departmental prosecutor.
   - A boxed note in the same article about five people held in a separate alleged rape and trafficking case in San Lorenzo is a different event left out here.
+  - El Periódico Tarija illustrates the case with a press interview portrait of an official and no marijuana visible, so no event photo is listed.
 ---
 
 The Tarija departmental prosecutor's office together with the Bolivian police

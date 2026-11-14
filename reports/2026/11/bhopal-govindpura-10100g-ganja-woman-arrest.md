@@ -74,6 +74,9 @@ sources:
     publisher: Dainik Bhaskar Hindi
     date: 2026-11-12
     language: hi
+open_questions:
+  - Dainik Bhaskar illustrates the arrest with a station portrait of the accused and no ganja visible, so it is not listed as media.
+  - Nai Dunia labels its lead image AI-generated and shows syringes and white powder with no cannabis, so it is not listed as media.
 ---
 
 Bhopal Crime Branch arrested 60-year-old Kiran Ahirwar in the Govindpura area on

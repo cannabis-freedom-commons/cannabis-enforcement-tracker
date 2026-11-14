@@ -32,6 +32,21 @@ status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: f773569e159e0e8f60d40c7d7e9c2a0c
 tags: [campeche, colonia-mexico, narcomenudeo, spsc]
+media:
+  - kind: photo
+    url: https://www.novedadescampeche.com.mx/campeche-hombre-ocho-paquetes-marihuana/
+    media_url: https://www.novedadescampeche.com.mx/wp-content/uploads/2026/11/campeche-hombre-ocho-paquetes-marihuana.webp
+    publisher: Novedades de Campeche
+    caption: >-
+      Eight clear bags of green plant material laid out on a metal table with an
+      evidence tag and glove, as published with the Colonia México detention.
+  - kind: photo
+    url: https://www.poresto.com/campeche/sucesos/2026/11/11/detienen-hombre-paquetes-cigarros-presunto-cannabis-campeche.html
+    media_url: https://www.poresto.com/crop/0-2-1200-678O1F0x0D1200x675Cae2c7d931b613c5e2a3628fe15fa5253/media/2026/11/11/detienen-hombre-paquetes-presunto-cannabis-capital-campechana_MASTER.jpg@.webp
+    publisher: Por Esto!
+    caption: >-
+      Eyes-barred photo of the detained man after the Colonia México street
+      check, as published by Por Esto!
 sources:
   - title: 'Policía de Campeche: detiene a hombre con ocho paquetes de presunta marihuana'
     url: https://www.novedadescampeche.com.mx/campeche-hombre-ocho-paquetes-marihuana/

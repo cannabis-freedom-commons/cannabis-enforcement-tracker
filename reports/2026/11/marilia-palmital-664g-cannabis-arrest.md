@@ -69,6 +69,7 @@ open_questions:
     - The accounts rest on local news reports of the same police occurrence, and no separate police statement was found.
     - No police estimate of the value of the drugs was published.
     - Coordinates are for the Palmital quarter of Marília, not the exact point on Rua Salvador Salgueiro.
+    - Giro Marília and Marília Notícia illustrate the arrest with archived night patrol photos of PM cars, so no photo of this Palmital seizure is listed.
 ---
 
 Military police in Marília arrested a 40-year-old man in flagrante, accused of

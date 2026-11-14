@@ -64,6 +64,7 @@ open_questions:
   - Both accounts are based on the Bentley Police Department's statement rather than independent reporting.
   - Whether Whorton remains in custody, has posted bail or has a lawyer was not reported.
   - Kansas man arrested for child endangerment, drug charges (KAKE News) could not be opened again to check its quotations (The browser page answered HTTP 451.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.
+  - KWCH illustrates the arrest with a booking portrait of Whorton and no grow or marijuana visible, so it is not listed as media.
 ---
 
 Bentley police arrested a 52-year-old man on 10 November 2026 on suspicion of

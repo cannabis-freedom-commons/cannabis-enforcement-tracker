@@ -46,6 +46,8 @@ sources:
     publisher: Diario del Cauca
     date: 2026-11-12
     language: es
+open_questions:
+  - Diario del Cauca and Diario del Sur illustrate the Tunía seizure with unrelated sidebar images (a Medellín crash rescue, mounted police, fashion ads), not a photo of the 440 kg marijuana find, so no event photo is listed.
 ---
 
 On 11 November, Brigade 29 of the Colombian army seized 440 kilograms of

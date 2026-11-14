@@ -39,6 +39,18 @@ sources:
     publisher: Plano Informativo
     date: 2026-11-12
     language: es
+media:
+  - kind: photo
+    url: https://planoinformativo.com/1181610/un-adolescente-y-cinco-hombres-detenidos-por-posesion-de-drogas
+    media_url: https://planoinformativo.com/stock12/image/2026/NOVIEMBRE/12/adolescente.jpg
+    publisher: Plano Informativo
+    caption: >-
+      Open black bag of dried plant material published with the Soledad
+      municipal Guardia Civil report on six detentions including marijuana
+      possession.
+open_questions:
+  - No weights were published for the marijuana bags or methamphetamine doses, so no cannabis kilogram figure is recorded.
+  - No charges, custody decisions or court outcomes were reported beyond the detentions.
 ---
 
 During the previous 24 hours, officers of the Guardia Civil Municipal of Soledad

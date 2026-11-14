@@ -73,6 +73,7 @@ open_questions:
     - No separate weight for the cannabis resin is reported; the more than 100 grams is a combined figure for cannabis resin and cocaine.
     - No outcome of the first judicial examination, and no coercion measures, are reported.
     - The reports do not say whether the inmate who received the trainers was searched, disciplined or charged.
+    - 24 Notícias illustrates the arrest with a stock photograph of a prison corridor and no seized trainers or drugs visible, so no event photo is listed.
 ---
 
 A 28-year-old man was detained by the Judicial Police on Wednesday 11 November

@@ -46,6 +46,7 @@ open_questions:
   - No value was published for the 1.200 kg of cannabis seized.
   - No charges, custody remand or court outcome beyond the arrest were reported.
   - The account rests on a single Dinamalar report, which does not name the police unit involved.
+  - Dinamalar uses only its masthead logo on the page, so no photo of the Minjur ganja packets is listed.
 ---
 
 Police in Minjur, Thiruvallur district, arrested Vinoth, 25, on 11 November 2026

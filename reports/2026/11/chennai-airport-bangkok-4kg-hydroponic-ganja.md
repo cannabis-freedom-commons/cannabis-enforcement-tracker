@@ -61,6 +61,7 @@ open_questions:
     - The passenger was not named and no court outcome beyond remand in judicial custody was reported.
     - The weight and value are the authorities' figures as republished; the Tamil-language Dinamani account is credited to syndication and appears to reproduce the same agency release, so it is not an independent account.
     - The combined Rs 2.4 crore total and three of the four arrests belong to the separate precursor-chemical seizure and are excluded from the cannabis figures.
+    - Rediff labels its lead image AI-generated for representational purposes, so no photo of this Customs ganja seizure is listed.
 ---
 
 Chennai Customs' Air Intelligence Unit intercepted a male passenger who arrived

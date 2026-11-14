@@ -51,6 +51,7 @@ open_questions:
   - The arrest date is not stated directly; the article's phrase 'the day before the day before' puts it at 11 November 2026, one day before its 12 November 2026 publication date.
   - No charge, court outcome or custody detail was reported for the accused.
   - It is not reported whether the man was suspected of selling the ganja or holding it for personal use.
+  - Dinamalar uses only its masthead logo on the page, so no photo of the Erode ganja seizure is listed.
 ---
 
 Soolampatti police arrested Tamil Selvan, 33, of Pudur Kutirai Palai, Erode

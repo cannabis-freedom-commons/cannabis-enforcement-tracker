@@ -39,6 +39,15 @@ sources:
     publisher: Portal Água Clara MS
     date: 2026-11-05
     language: pt
+media:
+  - kind: photo
+    url: https://www.aguaclarams.com.br/artigo/denuncia-anonima-tentativa-de-fuga-e-operacao-policial-terminam-com-apreensao-de-cocaina-e-maconha-em-agua-clara
+    media_url: https://cdn.aguaclarams.com.br/4ea80331-d593-455a-a2f2-2b12638719f0/content/07e870f81b10431c99aa475fa85d9990-1002107596.webp
+    publisher: Portal Água Clara MS
+    caption: >-
+      Three detained men facing a wall behind a table of taped cannabis bricks,
+      scales and phones with Polícia Civil and Polícia Militar patches, as
+      published with the Água Clara seizure report.
 open_questions:
   - The incident date of 4 November 2026 comes from quarta-feira (4) in the article published on 5 November 2026.
   - The report counts three detained people from the driver plus two others found at the snack bar who were all taken to the Civil Police; no names, charges or court outcome were published.

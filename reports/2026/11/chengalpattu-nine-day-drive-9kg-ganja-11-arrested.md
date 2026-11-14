@@ -48,6 +48,7 @@ open_questions:
   - The report names no arrested individuals and gives no breakdown of the five cannabis seizures beyond the district aggregate.
   - No charges, court appearances or case outcomes for the 11 arrested people were reported.
   - The nine-day period is dated 2 to 10 November 2026 by counting back from the 11 November publication; no separate end date was stated.
+  - Dinamalar uses only its masthead logo on the page, so no photo of the Chengalpattu ganja seizures is listed.
 ---
 
 Chengalpattu district police reported seizing 9 kilograms of cannabis and 90

@@ -37,6 +37,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8879442a63874274379c0f8a8b5bae1f
 tags: [ara, bihar, ganja, railway-police, train-smuggling]
+media:
+  - kind: photo
+    url: https://www.bhaskar.com/local/bihar/bhojpur/arrah/news/ara-train-ganja-seizure-ncb-grp-rpf-minor-detained-bihar-news-139648226.html
+    media_url: https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/11/10/8beb4e35-6e91-4513-95d7-0380ded987d2_1794318922888.jpg
+    publisher: Dainik Bhaskar
+    caption: >-
+      GRP, RPF and NCB officers present seven black-wrapped ganja packets seized
+      from the bags on train No. 19484 at Ara Junction, with the minor's face covered.
 sources:
   - title: 'आरा: ट्रेन से 31 किलो गांजा बरामद, एक नाबालिग पकड़ा गया'
     url: https://www.prabhatkhabar.com/state/bihar/arrah/ara-railway-station-31-15-kg-ganja-seized
@@ -52,6 +60,7 @@ open_questions:
   - No origin or intended destination of the consignment was reported.
   - No value was placed on the ganja, so none is recorded.
   - The report gives no age, name or other identity of the detained child.
+  - Prabhat Khabar illustrates the story with a file photograph of the Ara Junction station sign only, so that image is not listed as media.
 ---
 
 A joint team of GRP Ara, RPF Post Ara and NCB Patna searched train number 19484

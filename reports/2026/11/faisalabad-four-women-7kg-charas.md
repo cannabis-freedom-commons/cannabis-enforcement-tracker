@@ -59,6 +59,8 @@ open_questions:
   - No detention order, plea or court outcome was reported; police said they were still looking for accomplices.
   - The English and Urdu UrduPoint accounts are versions of one APP wire report, and the Punjab Post account repeats the same police statement, so the case rests on a single police account.
   - The reports do not say whether the charas was tested or what happened to it after seizure.
+  - Punjab Post shows a station handout with one blurred woman and a closed white sack and no charas visible, so it is not listed as media.
+  - UrduPoint illustrates the APP wire with a 2021 file photograph of Faisalabad Clock Tower, so that image is not listed as media.
 ---
 
 Police in Faisalabad arrested four women accused of trafficking drugs, breaking

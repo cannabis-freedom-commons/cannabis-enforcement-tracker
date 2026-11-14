@@ -53,6 +53,7 @@ open_questions:
     - No court outcome beyond the opening of the case and the undertaking not to leave was reported.
     - Both outlets report the same police account, so the case rests on one official version of events.
     - The exact address in Petropavlovskoye where the flat and outbuildings were searched was not published.
+    - CitySakh.ru credits a stock cannabis-leaf photograph from magnific.com, so no photo of this Sakhalin seizure is listed.
 ---
 
 A 39-year-old resident of Petropavlovskoye hid a large batch of drugs, which

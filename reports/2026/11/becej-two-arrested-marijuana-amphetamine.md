@@ -68,6 +68,8 @@ sources:
     publisher: Naslovi.net
     date: 2026-11-13
     language: sr
+open_questions:
+  - Telegraf and related outlets illustrate the Becej arrests with a Shutterstock handcuffs stock photo, and Novosadska TV reused a 2023 police file picture, so no photo of this seizure is listed.
 ---
 
 Police officers of the Interior Ministry in Becej, working with the Higher

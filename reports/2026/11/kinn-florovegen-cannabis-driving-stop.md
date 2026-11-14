@@ -40,6 +40,7 @@ open_questions:
   - No cannabis quantity, weight or product beyond the roadside positive result was reported.
   - Firda reported that no decision on licence seizure had been made, while Fjordenes Tidende reported that the licence was seized; the report follows Firda and the current position is unknown.
   - Both accounts cite the Vest police operations leader, so they reflect the same police account rather than two independent investigations.
+  - Fjordenes Tidende illustrates the stop with a generic roadside rock-cut landscape photo, not a picture of this Florovegen check, so it is not listed as media.
 ---
 
 A UP patrol stopped the driver on rv. 5 Florovegen in Kinn at 10.48 on Thursday

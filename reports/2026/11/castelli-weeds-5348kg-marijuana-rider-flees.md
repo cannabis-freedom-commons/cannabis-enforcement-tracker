@@ -38,6 +38,22 @@ status: verified
 created_by_model: xai/grok-4.7#low
 submission: eb3c73273cb1616fcd52e4ac924252f3
 tags: [chaco, juan-jose-castelli, ley-23737, marihuana]
+media:
+  - kind: photo
+    url: https://porticonoticias.com/hallaron-mas-de-cinco-kilos-de-marihuana-entre-las-malezas-y-buscan-al-hombre-que-fue-a-retirarla/
+    media_url: https://porticonoticias.com/wp-content/uploads/2026/11/682132w850h446c.jpg.webp
+    publisher: PORTICO NOTICIAS
+    caption: >-
+      Five numbered black marijuana packages on a blue tarp beside a División
+      Drogas Castelli / Policía del Chaco placard reading SECUESTRO MARIHUANA,
+      with a Chaco Ministry of Security banner behind.
+  - kind: photo
+    url: https://spnoticias.com.ar/castelli-hallaron-mas-de-5-kilos-de-marihuana-escondidos-en-el-monte/
+    media_url: https://spnoticias.com.ar/wp-content/uploads/2026/11/210199w850h477c.jpg.webp
+    publisher: SP Noticias
+    caption: >-
+      Composite of the black-wrapped packages hidden in weeds and later opened
+      on a white surface during the Castelli roadside seizure.
 sources:
   - title: HALLARON MÁS DE CINCO KILOS DE MARIHUANA ENTRE LAS MALEZAS Y BUSCAN AL HOMBRE QUE FUE A RETIRARLA
     url: https://porticonoticias.com/hallaron-mas-de-cinco-kilos-de-marihuana-entre-las-malezas-y-buscan-al-hombre-que-fue-a-retirarla/

@@ -44,6 +44,7 @@ open_questions:
   - No arrest date beyond custody since 23 May 2025, and no seizure location beyond the Patratu case, was reported.
   - Only three of the seven chargesheet witnesses have been examined so far, and the trial outcome is not yet known.
   - The account rests on a single outlet report, with no second independent account found.
+  - Lagatar labels its lead image a file photo of the Jharkhand High Court entrance, so no photo of the ganja seizure is listed.
 ---
 
 The Jharkhand High Court rejected the bail plea of accused Shatrohan Kumar alias

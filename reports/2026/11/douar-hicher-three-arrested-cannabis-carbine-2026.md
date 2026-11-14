@@ -39,6 +39,7 @@ open_questions:
   - The article gives no separate date for the raid; 13 November 2026 is its publication date and is used as the incident date.
   - The names, ages and formal charges of the three suspects and any court outcome were not published.
   - The account rests on a single outlet report with no independently opened second source for this raid.
+  - Hakaek Online illustrates the story with a generic cropped handcuffs photo, not a picture of this Douar Hicher raid, so it is not listed as media.
 ---
 
 Officers and staff of the National Guard post in Douar Hicher arrested three

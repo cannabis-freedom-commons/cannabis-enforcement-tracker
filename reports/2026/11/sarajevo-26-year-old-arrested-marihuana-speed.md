@@ -50,6 +50,7 @@ open_questions:
   - The pistol, magazine and ammunition are reported only as seized items; no weapons charge was mentioned.
   - No charge sheet, custody decision or court outcome was reported; the man was still in criminal processing when the accounts were published.
   - Both outlets reproduce the Sarajevo Canton interior ministry's statement, so the account rests on one official source.
+  - Dnevni avaz and ALFA TV illustrate the arrest with a stock photograph of a Sarajevo Canton police car and no seizure visible, so no event photo is listed.
 ---
 
 Officers of the narcotics department of the Sarajevo Canton interior ministry

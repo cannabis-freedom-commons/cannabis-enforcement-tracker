@@ -36,6 +36,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f930ae693784d3c505ca6bf7d6b4d6f3
 tags: [feni, daganbhuiyan, ganja]
+media:
+  - kind: photo
+    url: https://www.jaijaidin.news/news/366246
+    media_url: https://www.jaijaidin.news/2026/11/10/jjd_124.1794326002.JPG
+    publisher: Daily Jaijaidin
+    caption: >-
+      A Daganbhuiyan police officer documents white sacks and uprooted cannabis
+      plants at the Ramanandapur house search, with locals looking on.
 sources:
   - title: দাগনভূঞায় দুই কেজি গাঁজা ও গাঁজার গাছ উদ্ধার, বিক্রেতা বাবুল পলাতক
     url: https://www.jaijaidin.news/news/366246

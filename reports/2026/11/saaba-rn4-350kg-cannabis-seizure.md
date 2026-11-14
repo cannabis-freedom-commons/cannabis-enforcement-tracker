@@ -48,6 +48,15 @@ sources:
     publisher: Sidwaya
     date: 2026-11-12
     language: fr
+media:
+  - kind: photo
+    url: https://www.sidwaya.info/2026/11/12/lutte-contre-le-trafic-de-stupefiants-la-police-nationale-saisit-plus-de-300-kg-de-cannabis-a-ouagadougou/
+    media_url: https://www.sidwaya.info/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-12-at-11.25.33-1.jpeg
+    publisher: Sidwaya
+    caption: >-
+      Suspect standing behind yellow Fragile-wrapped packages of seized cannabis
+      with a National Police seal, as published with the Saaba RN4 seizure
+      account.
 open_questions:
   - No separate date is given for the stop or the arrest; 12 November 2026 is the date the police account was published.
   - The foreign country the cannabis came from was not named.
@@ -57,7 +66,6 @@ open_questions:
   - It is not reported whether anyone besides the main suspect was arrested, or whether the tricycle was confiscated.
   - The published accounts reproduce one National Police statement, so they are not independent measurements of the weight.
   - No value was given for the cannabis.
-  - leFaso.net only served a 90-pixel thumbnail of the police photo, with no usable full-size image recovered, so no photo is listed.
 ---
 
 Officers of Burkina Faso's National Police seized about 350 kilograms of

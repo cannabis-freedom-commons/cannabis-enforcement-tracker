@@ -38,6 +38,15 @@ sources:
     publisher: Cassilândia Notícias
     date: 2026-11-13
     language: pt
+media:
+  - kind: photo
+    url: https://www.cassilandianoticias.com.br/cassilandia/homem-de-tornozeleira-e-preso-pela-pm-ao-tentar-dispensar-maconha
+    media_url: https://cdn.cassilandianoticias.com.br/uploads/noticias/2026/11/12/3pipa9q9bfs48.jpg
+    publisher: Cassilândia Notícias
+    caption: >-
+      Military Police handcuff a man wearing an ankle monitor beside a bag of
+      green-wrapped packages on the ground in Laranjeiras, as published with the
+      Cassilândia arrest report.
 open_questions:
   - No weight was published for the portion of maconha the man threw over the wall, so no cannabis quantity is recorded.
   - The man was not named or identified beyond his monitored status, and no charge or court outcome was reported.

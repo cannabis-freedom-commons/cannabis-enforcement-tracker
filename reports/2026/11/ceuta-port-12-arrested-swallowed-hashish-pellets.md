@@ -55,6 +55,7 @@ open_questions:
     - The identities, nationalities, and ages of the 12 detainees were not reported.
     - No pre-trial detention decision or court outcome has been reported.
     - The number of hashish pellets ingested by each person was not specified.
+    - Ceuta TV shows the port departure-lounge police control, El Faro a Guardia Civil vehicle at the hospital, and El Periódico de Ceuta a February 2026 file Guardia Civil image, none with hashish visible, so no event photo is listed.
 ---
 
 Guardia Civil officers arrested 12 people at the Port of Ceuta on Tuesday, 10

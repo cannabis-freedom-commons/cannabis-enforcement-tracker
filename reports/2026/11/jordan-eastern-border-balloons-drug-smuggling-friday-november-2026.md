@@ -54,6 +54,15 @@ sources:
     publisher: جريدة الكنانة نيوز
     date: 2026-11-13
     language: ar
+media:
+  - kind: photo
+    url: https://petra.gov.jo/en/news/army-foils-major-drug-smuggling-attempt-using-guided-balloons
+    media_url: https://petra.gov.jo/storage/media/2026/11/13/0c41d774-fd2b-4d7f-bcbc-3aa0114ebc53.jpg
+    publisher: The Jordan News Agency (Petra)
+    caption: >-
+      Sealed bags of tablets and guidance electronics laid out after Jordan's
+      Eastern Military Region brought down drug-carrying balloons on 13 November
+      2026, as published with the army account.
 open_questions:
     - The army statement speaks only of drugs and names no substance, so it is not established that any of the cargo was cannabis.
     - No weight, number of balloons or value was published.

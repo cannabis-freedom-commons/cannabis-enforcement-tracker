@@ -58,6 +58,7 @@ open_questions:
   - The sum of money seized was not quantified in any of the reports.
   - Shabu is Egypt's name for crystal methamphetamine and is not a cannabis product, so it is excluded from the cannabis figures.
   - The accounts come from the same security directorate statement circulated with the governor's comments; the Interior Ministry's own statement for this operation was not found.
+  - Al-Masry Al-Youm and Sada El-Balad illustrate the operation with generic Aswan police tactical and convoy file pictures showing no hashish seizure, so no event photo is listed.
 ---
 
 Egyptian police killed two men known as Abu Yasin and Mahdi, both wanted for

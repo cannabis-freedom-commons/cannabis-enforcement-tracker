@@ -41,6 +41,7 @@ open_questions:
   - The small amount of cannabis found in the home search was not weighed, so it is not included in the seized total.
   - No charges, court outcome or further personal details beyond a 27-year-old Greek man were reported.
   - The account rests on a single outlet report.
+  - Imerisia Korinthou credits its lead image to the internet and uses a 2021 cannabis file photograph, so no photo of this Kiato arrest is listed.
 ---
 
 On the afternoon of 11 November 2026, officers of the Z5 Prevention and

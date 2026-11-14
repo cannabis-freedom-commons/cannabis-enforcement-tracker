@@ -54,6 +54,7 @@ open_questions:
   - The report does not say which of the two suspects was remanded and which was released under judicial control.
   - No charges, trial date or further court outcome beyond the initial remand and release decision were reported.
   - Only one accessible source for this event was found, so the account rests on a single outlet report.
+  - Alanya Türk illustrates the dawn raids with a stock handcuffs-and-siren graphic, not a photo of this operation, so it is not listed as media.
 ---
 
 Alanya anti-narcotics police carried out simultaneous early-morning operations

@@ -56,6 +56,7 @@ open_questions:
   - No court outcome beyond the registration of a first information report was reported.
   - The account rests on a single Dainik Bhaskar report that quotes the Sirari station chief.
   - Police did not say where the ganja came from or whether they were seeking anyone else in the case.
+  - Dainik Bhaskar illustrates the raid with a police-station portrait of the accused and no ganja visible, so it is not listed as media.
 ---
 
 Police in Sirari bazaar, in Sheikhpura district of Bihar, seized 150 grams of

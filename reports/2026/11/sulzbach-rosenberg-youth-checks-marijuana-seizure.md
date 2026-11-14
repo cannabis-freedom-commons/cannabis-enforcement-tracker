@@ -43,6 +43,7 @@ open_questions:
   - No weight, quantity or number of people was stated for the marijuana find or the consumption cases.
   - No arrests, identities, charges beyond the Consumer Cannabis Act reports, or court outcome were stated.
   - The account rests on a single regional report of a police statement; no second account was found.
+  - Onetz labels its lead image a Symbolbild of a police stop paddle, so no photo of these Sulzbach-Rosenberg checks is listed.
 ---
 
 Police held youth-protection checks on Thursday in the city area of

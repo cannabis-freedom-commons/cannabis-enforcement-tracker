@@ -45,6 +45,7 @@ open_questions:
   - Left out activity, as its quotation was not found in Newszonebd.
   - Left out case stage, as its quotation was not found in Newszonebd.
   - Left out setting, as its quotation was not found in Newszonebd.
+  - Newszonebd illustrates the arrest with a stock cropped handcuffs photo, not a picture of this Sreenagar seizure, so it is not listed as media.
 ---
 
 Munshiganj district Detective Branch (DB) police arrested 40-year-old Sohel

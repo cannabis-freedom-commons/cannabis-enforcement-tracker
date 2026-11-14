@@ -65,6 +65,7 @@ open_questions:
   - The man is not named, and his age and nationality were not reported.
   - The court that issued sentence 321 is not named, and no appeal or finality was reported.
   - The sources give no street address or property type for the search in the barriada Arboleda.
+  - The Public Ministry published a display of branded cocaine bricks from the Arboleda search with no marijuana visible, so it is not listed as media for this cannabis sentence.
 ---
 
 A man was sentenced to 96 months, or eight years, in prison in Panama on 11

@@ -45,6 +45,7 @@ open_questions:
   - No arrest was reported; the two commuters who fled had not been identified, and no court outcome is known.
   - No value for the ganja was published.
   - Only one source for this event could be opened.
+  - The Hindu published only its site logo with the Katpadi GRP report, so no photo of this ganja seizure is listed.
 ---
 
 The Government Railway Police seized a consignment of 16 kg of ganja on an

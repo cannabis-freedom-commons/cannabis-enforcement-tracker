@@ -43,6 +43,7 @@ open_questions:
   - The 3 kg figure adds two separate 1.5 kg ganja seizures; police did not publish a combined total.
   - The nine cordon and search operations are not broken down by drug, so it is not known how many involved cannabis.
   - The account rests on one news report of the superintendent's remarks at the meeting.
+  - The Hindu page carries only its site Open Graph logo, so no photo of either Kurnool ganja seizure is listed.
 ---
 
 The Kurnool district administration has intensified its fight against drug

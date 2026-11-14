@@ -54,6 +54,7 @@ open_questions:
   - No court, trial date or possible penalty is stated.
   - It is not reported whether the man admits the offences or how he will plead.
   - The two articles are the same Bonnier News story rather than independent accounts.
+  - NWT and NKP illustrate the charge with a commercial indoor hydroponic stock photo, not a picture of this Kristinehamn case, so it is not listed as media.
 ---
 
 A man in his 60s from Kristinehamn, a town in Värmland in western Sweden, has

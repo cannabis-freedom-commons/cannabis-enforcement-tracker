@@ -49,6 +49,7 @@ open_questions:
   - The court that imposed the sentences and any appeal status were not established in the available account.
   - The hashish quantity is stated as nearly 24 kilograms rather than an exact measured weight.
   - The account rests on one publisher's accessible lead and caption, without an independent full corroborating report.
+  - Halden Arbeiderblad illustrates the sentences with a scenic empty-road photo of the Old Svinesund Bridge border markings, with no hashish or arrest visible, so it is not listed as media.
 ---
 
 Five foreign nationals were convicted of smuggling hashish across the Old

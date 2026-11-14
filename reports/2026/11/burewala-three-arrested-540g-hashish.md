@@ -47,6 +47,7 @@ open_questions:
   - The 22 litres of liquor and the 30-bore pistol are non-cannabis recoveries in a mixed event and are excluded from the cannabis weight.
   - Only one account of this event could be opened, so no corroborating second source is cited.
   - No court outcome beyond registration of separate cases and further legal proceedings was reported.
+  - UrduPoint illustrates the APP wire with a file photograph of a police convoy and no hashish visible, so no event photo is listed.
 ---
 
 Model Town police in Burewala arrested three suspects, identified as Arshad,

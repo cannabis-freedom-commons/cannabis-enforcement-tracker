@@ -45,6 +45,15 @@ sources:
     publisher: MeuligoeAceh
     date: 2026-11-02
     language: id
+media:
+  - kind: photo
+    url: https://habanusantara.net/2026/11/polres-aceh-besar-musnahkan-satu-hektare-ladang-ganja-di-perbukitan-seulimeum-200-kg-tanaman-dicabut.html
+    media_url: https://habanusantara.net/wp-content/uploads/2026/11/IMG-20261102-WA0143.jpg
+    publisher: habanusantara
+    caption: >-
+      Aceh Besar and Polda Aceh officers behind uprooted cannabis plants under a
+      Pemusnahan Ladang Ganja banner in the Seulimeum hills, as published with
+      the eradication report.
 open_questions:
   - No plant count was published, only an estimated weight of about 200 kilograms.
   - No suspects, arrests, charges or court outcome were reported.

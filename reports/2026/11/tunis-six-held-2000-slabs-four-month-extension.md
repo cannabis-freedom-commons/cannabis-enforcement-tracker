@@ -31,9 +31,8 @@ open_questions:
   - The four-month extension is a pre-trial detention measure, so the case has not reached trial or verdict.
   - Only one accessible source was found for this case.
   - The case's link, if any, to the separate El Gorjani cocaine network reported on 4 and 6 November 2026 is not stated by the source.
-  - Left out arrested, as no supporting quotation was given.
-  - Left out charged, as no supporting quotation was given.
-  - Left out kg seized, as no supporting quotation was given.
+  - Left out arrested, charged and kg seized, as no supporting quotations were given.
+  - Babnet labels its lead image an AI creation / illustrative picture of an El Gorjani display, so no photo of this Tunis detention is listed.
 ---
 
 The head of the investigating judges at the Tunis Court of First Instance

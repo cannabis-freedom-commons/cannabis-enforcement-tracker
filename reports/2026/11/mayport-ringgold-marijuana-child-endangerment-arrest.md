@@ -56,6 +56,7 @@ open_questions:
     - The article does not say whether the marijuana was seized or weighed as evidence.
     - No outcome of the 23 November preliminary hearing had been reported.
     - Both outlets published the same account of the arrest, drawn from the affidavit of probable cause.
+    - exploreJefferson and exploreClarion illustrate the arrest with a stock close-up of a fingerprint card and handcuffs, so no photo of this Mayport case is listed.
 ---
 
 Pennsylvania State Police charged a 42-year-old Mayport woman with child

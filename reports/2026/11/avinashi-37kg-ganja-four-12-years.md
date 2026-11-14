@@ -61,6 +61,15 @@ sources:
     publisher: ARASIYAL TODAY
     date: 2026-11-13
     language: ta
+media:
+  - kind: photo
+    url: https://www.newscloudscoimbatore.com/avinashi-37-kg-ganja-smuggling-coimbatore-court-verdict/
+    media_url: https://www.newscloudscoimbatore.com/wp-content/uploads/2026/11/zxz.webp
+    publisher: News Clouds Coimbatore
+    caption: >-
+      Police mugshot strip of the four people sentenced in the Avinashi 37 kg
+      ganja case, including the woman among them, as published with the Coimbatore
+      court verdict.
 open_questions:
     - Dinamalar published its report on 12 November 2026 and described the verdict as delivered yesterday, so 11 November 2026 is used as the verdict date.
     - The two accounts spell the four names differently, with Dinamalar's Tamil spellings differing from the second account's Piaraul Sheikh, Shakil Mustaq, Humayoun Sheikh and Nargis Bibi.

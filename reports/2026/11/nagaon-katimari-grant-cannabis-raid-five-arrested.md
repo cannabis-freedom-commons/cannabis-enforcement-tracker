@@ -32,6 +32,11 @@ sources:
     url: https://www.sentinelassam.com/north-east-india-news/assam-news/assam-nagaon-police-seize-huge-quantity-of-cannabis-2
     publisher: The Sentinel
     date: 2026-11-12
+open_questions:
+  - No weight or estimated value was published for the cannabis seized at Katimari Grant.
+  - The Sentinel credits no second outlet and attributes tip-off details to sources rather than a named police statement.
+  - No charges or court outcome beyond the five arrests were reported.
+  - The Sentinel lead image is a June 2026 stock close-up of cannabis buds with no raid scene, so no photo of this Nagaon seizure is listed.
 ---
 
 Police from the Haibargaon police outpost conducted a raid at Katimari Grant, on

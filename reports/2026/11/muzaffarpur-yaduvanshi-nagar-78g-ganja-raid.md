@@ -37,6 +37,15 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 71ba7b64994c2fa88e4977502b9ec7d0
 tags: [muzaffarpur, bihar, ganja, ndps-act, sadar-thana]
+media:
+  - kind: photo
+    url: https://www.prabhatkhabar.com/state/bihar/muzaffarpur/ganja-seized-yaduvanshi-nagar
+    media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/11/13/1794548305840/sizes/muzaffarpur-drug-bust-image-mwejq6q4-0e1238-hero.webp
+    publisher: Prabhat Khabar
+    caption: >-
+      An officer in khaki stands with a lathi while a man in civilian clothes
+      handles bagged cannabis and brown-paper packages laid on a white sheet in a
+      Muzaffarpur alley, as published with the Yaduvanshi Nagar raid report.
 sources:
   - title: नशे के खिलाफ मुजफ्फरपुर सदर पुलिस की कार्रवाई
     url: https://www.prabhatkhabar.com/state/bihar/muzaffarpur/ganja-seized-yaduvanshi-nagar

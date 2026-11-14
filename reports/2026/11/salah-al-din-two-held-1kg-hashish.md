@@ -66,6 +66,7 @@ open_questions:
     - No charges, court date or other case outcome have been reported.
     - The reports give no town or district within Salah al-Din governorate where the arrest took place.
     - All published accounts rest on the same statement from the Salah al-Din Drug Affairs Directorate.
+    - 964media and Baghdad Today show the two kneeling suspects with officers and no hashish visible, so the arrest photo is not listed as media.
 ---
 
 Two suspects were arrested in Salah al-Din governorate on 11 November 2026 with

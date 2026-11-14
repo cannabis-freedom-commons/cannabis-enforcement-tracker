@@ -23,6 +23,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a2ba2ff53fb85c8bcf293d60d9cea629
 tags: [novoukrainskyi-raion, kirovohrad-oblast, cannabis-sale, article-307]
+media:
+  - kind: photo
+    url: https://zlatopil.com/all-news/na-kirovogradshhyni-politsiya-vyluchyla-piv-kilograma-kannabisu
+    media_url: https://zlatopil.com/wp-content/uploads/2026/11/img_e4d667f10b069a13e0600fbce4e52706.jpeg
+    publisher: Златопіль
+    caption: >-
+      Two boxes of shredded cannabis from the Novoukrainskyi Raion home search,
+      as published with the Zlatopil report of the police seizure.
 sources:
   - title: Поліцейські викрили підозрюваного у збуті пів кіло канабісу жителя Новоукраїнського району
     url: https://cbn.com.ua/news/politseiski-vykryly-pidozriuvanoho-u-zbuti-piv-kilo-kanabisu-zhytelia-novoukrainskoho-raionu
@@ -42,6 +50,7 @@ sources:
 open_questions:
   - No laboratory confirmation of the substance was reported in either account.
   - The accounts do not say how many people took part in the search or whether anyone else was detained or named as a suspect.
+  - CBN labels its lead image illustrative and shows only a Ukrainian police sleeve patch during paperwork, so that photograph is not listed as media.
 ---
 
 Police in Kirovohrad Oblast detained a 31-year-old local resident of

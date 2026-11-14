@@ -68,6 +68,8 @@ sources:
     publisher: RTSH
     date: 2026-11-11
     language: de
+open_questions:
+  - Shqiptarja.com illustrates the 2026 campaign briefing with a portrait of Director General Skënder Hita at the press table and no destroyed plants visible, so no eradication photo is listed.
 ---
 
 Albanian authorities arrested, detained or prosecuted 165 people in connection
