@@ -39,6 +39,11 @@ media:
     media_url: https://dailyjalalabad.com/files/uploads/2026/11/Sylhet-SRB-Gaja-Arest-3-Pic-13-11-26.jpg
     publisher: Daily Jalalabad
     caption: Photo published with the Daily Jalalabad report on the Madhabpur arrest of three men with 72 kg of ganja.
+  - kind: photo
+    url: https://dhakamail.com/country/342851
+    media_url: https://cdx.dhakamail.com/media/images/2026November/05143e5e-7c6a-45bf-a1c1-b9ce993b3e0c_20261113_222322024.jpg
+    publisher: Dhaka Mail
+    caption: 'Seized 72 kg of ganja and the covered van from the Stadium Para checkpoint, as published with the Dhaka Mail report on the SRB-9 arrest. Photo: Dhaka Mail'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 623d808d1005ec9f0c6a9e17c8693fd9
@@ -74,17 +79,27 @@ sources:
     publisher: Protidiner Sangbad
     date: 2026-11-13
     language: bn
+  - title: মাধবপুরে কাভার্ডভ্যান থেকে ৭২ কেজি গাঁজা জব্দ, গ্রেফতার ৩
+    url: https://dhakamail.com/country/342851
+    publisher: Dhaka Mail
+    date: 2026-11-13
+    language: bn
+  - title: মাধবপুরে ৭২ কেজি গাঁজাসহ তিন মাদক ব্যবসায়ী গ্রেপ্তার
+    url: https://dhakatoday.com/news/93970/মাধবপুরে-৭২-কেজি-গাঁজাসহ-তিন-মাদক-ব্যবসায়ী-গ্রেপ্তার
+    publisher: Dhaka Today
+    date: 2026-11-13
+    language: bn
 ---
 
 SRB-9 detained three men with 72 kg of ganja after searching a covered van in
 Madhabpur, Habiganj. [@1,3,4,5] They were detained on Thursday night in the Stadium
 Para area of Madhabpur municipality on the Dhaka-Sylhet highway. [@1] An SRB-9
 team signalled the covered van to stop at a checkpoint on the west side of
-Stadium Para, and the three men tried to flee. [@1,3,6] The van was reportedly carrying the ganja from the Jagdishpur area of Madhabpur toward Savar in Dhaka. [@4,6] The three detained men were Md. Hask Mia, 29, from Nasirnagar in Brahmanbaria, Rakib Sardar, 23, from Kashiani in Gopalganj, and Hasanur Zaman, 30, from Madhabpur in Habiganj. [@3,4]
+Stadium Para, and the three men tried to flee. [@1,3,6,7] The van was reportedly carrying the ganja from the Jagdishpur area of Madhabpur toward Savar in Dhaka. [@4,6,7] The three detained men were Md. Hask Mia, 29, from Nasirnagar in Brahmanbaria, Rakib Sardar, 23, from Kashiani in Gopalganj, and Hasanur Zaman, 30, from Madhabpur in Habiganj. [@3,4]
 
 Officers searched the covered van and recovered 72 kg of ganja packed in three
-paper cartons. [@1,3,4] Inside the cartons the ganja was packed in 36 blue polythene packets wrapped in khaki tape. [@3] Officers also seized the covered van used to carry the
-cannabis. [@1,3] In initial questioning the men said they had collected the ganja
+paper cartons. [@1,3,4,7] Inside the cartons the ganja was packed in 36 blue polythene packets wrapped in khaki tape. [@3,7] Officers also seized the covered van used to carry the
+cannabis. [@1,3,8] In initial questioning the men said they had collected the ganja
 from a border area and kept it to sell. [@1,3,4,6]
 
 A case was filed under the Narcotics Control Act and the men were handed over to
