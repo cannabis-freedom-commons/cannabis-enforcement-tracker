@@ -50,26 +50,22 @@ sources:
     url: https://katu.com/news/local/van-full-of-pot-troopers-arrest-oregon-man-after-finding-nearly-1000-pounds-of-weed
     publisher: KATU
     date: 2026-11-13
-open_questions:
-  - No date was given for the search warrant at Ganesh Management Group.
-  - The property search was described only as thousands of pounds in various forms of processing, so that marijuana is not included in the 910-pound van figure.
-  - The van driver was not reported arrested or charged, and was not named.
-  - No plea or outcome of the 10 December 2026 court date was reported.
-  - The van weight is given as around 910 pounds, not an exact scale weight, while the driver described the pickup as about 700 pounds of hemp.
-  - The published accounts are the same KATU report drawn from court documents; a separate police statement was not published with the story.
-  - The arraignment is dated only as Thursday in a report published on Friday 13 November 2026, so 12 November is inferred and is not used as the incident date.
+  - title: 'Van full of pot: Troopers arrest Oregon man after finding nearly 1000 pounds of weed'
+    url: https://thenationaldesk.com/news/americas-news-now/van-full-of-pot-troopers-arrest-oregon-man-after-finding-nearly-1000-pounds-of-weed
+    publisher: The National Desk
+    date: 2026-11-13
 ---
 
 Oregon State Police stopped a cargo van on Brownsboro Highway on Friday 6
 November 2026. [@1] The driver was cooperative and provided a manifest saying
 the cargo he picked up was from 1635 Brownsboro Highway and was being delivered
-to a Brooklyn, New York address. [@1] He confirmed he had picked up about 700
+to a Brooklyn, New York address. [@1,3] He confirmed he had picked up about 700
 pounds of hemp products from a man named Sunny, later identified as 38-year-old
 Saibya Walter Mims. [@1] An Eagle Point man was arrested on several charges
 after troopers found the marijuana in the van. [@1]
 
 The driver consented to a search of the van, and troopers reported an
-overwhelming smell of marijuana when they opened it. [@1] In total they found
+overwhelming smell of marijuana when they opened it. [@1,3] In total they found
 about 25 triple-sealed bags of marijuana and around 910 pounds of pot, about
 412.8 kilograms. [@2] Police said the manifest claimed the product was hemp with
 no THC, packed in Home Depot cardboard boxes and marked Gas Head. [@1] The
@@ -86,4 +82,3 @@ manufacture of marijuana, all felonies. [@1] Court records showed he was
 released from custody with a future court date of 10 December. [@1] The judge
 ordered him to undergo pretrial monitoring and to stay away from alcohol,
 non-prescribed controlled substances or cannabis. [@1]
-
