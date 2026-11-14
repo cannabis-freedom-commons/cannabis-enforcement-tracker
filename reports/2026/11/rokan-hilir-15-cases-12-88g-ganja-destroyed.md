@@ -52,27 +52,38 @@ sources:
     publisher: spiritriau.com
     date: 2026-11-13
     language: id
+  - title: Polres Rohil Musnahkan Barang Bukti Narkotika Sabu-Etomidate
+    url: https://rri.co.id/pekanbaru/hukum/kriminalitas/2894689/polres-rohil-musnahkan-barang-bukti-narkotika-sabu-etomidate
+    publisher: RRI Pekanbaru
+    date: 2026-11-13
+    language: id
+  - title: Polres Rohil Musnahkan Barang Bukti Narkotika, 428 Gram Sabu, 226 Butir Ekstasi 29 Pcs Etomidate Dan Ganja Seberat 12,88 gram Dengan jumlah Tersangka 25 orang.
+    url: https://jppos.id/hukum-dan-kriminal/polres-rohil-musnahkan-barang-bukti-narkotika-428-gram-sabu-226-butir-ekstasi-29-pcs-etomidate-dan-ganja-seberat-1288-gram-dengan-jumlah-tersangka-25-orang
+    publisher: JPPOS
+    date: 2026-11-13
+    language: id
 open_questions:
-  - The 428.39 grams of sabu, 226 ecstasy pills and 29 pieces of etomidate are non-cannabis evidence and are not counted in the cannabis figure.
-  - No breakdown is given of how many of the 15 cases involved cannabis, so the 12.88 grams of ganja cannot be assigned to particular cases.
-  - No defendants are named and no original seizure dates or places for the cannabis evidence are given.
-  - No court outcomes for the 25 underlying suspects are reported.
-  - The destruction photo shows powder sachets being destroyed and does not separately identify the 12.88 grams of ganja.
+    - The 428.39 grams of sabu, 226 ecstasy pills and 29 pieces of etomidate are non-cannabis evidence and are not counted in the cannabis figure.
+    - No breakdown is given of how many of the 15 cases involved cannabis, so the 12.88 grams of ganja cannot be assigned to particular cases.
+    - No defendants are named and no original seizure dates or places for the cannabis evidence are given.
+    - No court outcomes for the 25 underlying suspects are reported.
+    - The destruction photo shows powder sachets being destroyed and does not separately identify the 12.88 grams of ganja.
+    - The submitted source names Tanah Putih & Pangkalan Kerinci as the two 10-case districts, while the report's existing sentence reads Palika; the district name for the second 10-case district is not reconciled here.
 ---
 
 Rokan Hilir regency police destroyed 428.39 grams of sabu, 226 ecstasy pills, 29
 pieces of etomidate and 12.88 grams of ganja, the Indonesian term for cannabis,
-in a press conference at their aula on 13 November 2026. [@1,2] The evidence had
-been seized from 15 cases involving 25 suspects. [@1,2] The destruction took place
+in a press conference at their aula on 13 November 2026. [@1,2,3] The evidence had
+been seized from 15 cases involving 25 suspects. [@1,2,4] The destruction took place
 in the Aula Tunggal Panaluan of the regency police headquarters around 10.20
-WIB. [@1,2]
+WIB. [@1,2,4]
 
-The event was led by the regency police chief, AKBP Aldi Alfa Faroqi. [@1] The
+The event was led by the regency police chief, AKBP Aldi Alfa Faroqi. [@1,4] The
 regency's narcotics squad chief, AKP Ronni TM Sitinjak, presented the force's
 results for January to 31 October 2026: 112 suspects detained in 74 narcotics
-cases. [@1,2] Of the 112 suspects, 105 were men and seven were women, with no suspects who were children. [@2] Bagan Sinembah had the most cases with 14, followed by Bangko with 11, while Tanah Putih and Palika had 10 cases each. [@2]
+cases. [@1,2,4] Of the 112 suspects, 105 were men and seven were women, with no suspects who were children. [@2,4] Bagan Sinembah had the most cases with 14, followed by Bangko with 11, while Tanah Putih and Palika had 10 cases each. [@2]
 
 The destroyed evidence had been tested by a forensic laboratory before the
 destruction. [@1] Prosecutors, representatives of the customary Melayu Riau
 council and community figures witnessed the open destruction as a demonstration
-of case-handling transparency. [@1]
+of case-handling transparency. [@1] The head of the Kelas IIA Bagansiapiapi prison, Agus Imam Taufik, welcomed the destruction and urged continued coordination among law-enforcement agencies, and the activity was closed by the signing of the destruction report (berita acara) by all leaders and guests present. [@3]
