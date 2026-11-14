@@ -82,18 +82,18 @@ sources:
     url: https://bakersfieldnow.com/news/local/man-arrested-after-deputies-allegedly-find-660-marijuana-plants-dangerous-pesticides-kern-coutny-taft-california
     publisher: BakersfieldNow
     date: 2026-10-14
-open_questions:
-  - No bail amount, prosecutor's charging decision or court outcome was reported.
-  - The sources do not identify the pesticides or give their quantities, the cultivation area or a cannabis weight.
-  - The written announcement does not explain the revolver pictured in Crime Voice's investigation gallery or report a firearms charge.
-  - All three outlets rely on the sheriff's account, and the linked original Facebook announcement could not be opened.
+  - title: Deputies finds marijuana, dangerous pesticides in Valley Acres
+    url: https://www.taftmidwaydriller.com/news/deputies-finds-marijuana-dangerous-pesticides-in-valley-acres/article_cfb2e188-2dc0-4e93-b920-b728b73a4e60.html
+    publisher: Taft Midway Driller
+    date: 2026-10-14
+    archived: https://web.archive.org/web/20261031061820id_/https://www.taftmidwaydriller.com/news/deputies-finds-marijuana-dangerous-pesticides-in-valley-acres/article_cfb2e188-2dc0-4e93-b920-b728b73a4e60.html
 ---
 
 Rogelio Lorenzo Francisca, 32, was arrested after officers searched a
 marijuana growing site near Taft in Kern County, California, on 8 October
 2026. [@1,2,3,4,5] The Kern County Sheriff's Office said 660 plants were
-eradicated during the search. [@1,2,3,4,5] Deputies also found what the
-department described as dangerous pesticides within the grow site. [@1,2,3,4,5]
+eradicated during the search. [@1,2,3,4,5,6] Deputies also found what the
+department described as dangerous pesticides within the grow site. [@1,2,3,4,5,6]
 
 The search warrant covered a property in the 27000 block of Highway 119.
 [@1,2,3,4] Deputies from the sheriff's Taft substation carried it out with
