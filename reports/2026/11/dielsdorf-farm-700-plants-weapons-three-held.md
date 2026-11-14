@@ -55,33 +55,32 @@ sources:
     publisher: Kantonspolizei Zürich / Kanton Zürich
     date: 2026-11-13
     language: de
-open_questions:
-  - The report states only minimums, more than 700 plants and over seven kilograms, so exact quantities are not known.
-  - The seized cash is described only as several thousand francs, so no exact amount can be recorded.
-  - The farm and the operator's home are not named more precisely than the Dielsdorf district.
-  - The searches took place on a Thursday morning; 12 November 2026 is the Thursday before the 13 November publication date.
-  - The account rests on a single Zurich cantonal police statement reproduced by Nau.ch, with no court outcome beyond the pending prosecution.
+  - title: Kantonspolizei Zürich hebt Hanfanlage und Waffenarsenal aus
+    url: https://www.swissinfo.ch/ger/kantonspolizei-z%C3%BCrich-hebt-hanfanlage-und-waffenarsenal-aus/92376932
+    publisher: SWI swissinfo.ch
+    date: 2026-11-13
+    language: de
 ---
 
 On Thursday morning the Zurich cantonal police carried out house searches in the
 Dielsdorf district, finding an arsenal of prohibited weapons and an indoor
-cannabis facility and arresting three people. [@1,3,4] The three provisionally
-arrested people are two Swiss men and one Swiss woman aged 41 to 43. [@1,2] They
+cannabis facility and arresting three people. [@1,3,4,5] The three provisionally
+arrested people are two Swiss men and one Swiss woman aged 41 to 43. [@1,2,5] They
 must answer before the prosecution for, among other things, violations of the
 weapons law and the narcotics law, with the presumption of innocence applying
-until a final conviction. [@1]
+until a final conviction. [@1,5]
 
 Following prior investigations, the police searched a farm in the Dielsdorf
 district on behalf of the Winterthur/Unterland public prosecutor's office. [@1,2]
 In a barn there, officers found a hidden indoor grow with more than 700
 marijuana plants, over seven kilograms of ready-to-use packaged marijuana,
 technical equipment such as lamps and filters, and several thousand francs in
-cash. [@1,2,3,4] In a second search at the grow operator's home, officers found an
+cash. [@1,2,3,4,5] In a second search at the grow operator's home, officers found an
 arsenal of prohibited weapons, including a machine pistol with magazines and
 ammunition, a silencer, an air pistol, a shotgun, a slingshot with arm support,
 a brass knuckle, a flick knife and various throwing stars and throwing knives.
-[@1,3]
+[@1,3,5]
 
 The cash and weapons were seized for the investigating authority, while the
 drugs and growing equipment were dismantled by a private disposal firm and sent
-for destruction. [@1,4]
+for destruction. [@1,4,5]
