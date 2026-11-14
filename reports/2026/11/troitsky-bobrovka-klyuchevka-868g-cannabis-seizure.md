@@ -39,29 +39,32 @@ sources:
     publisher: Урал-пресс-информ
     date: 2026-11-13
     language: ru
+  - title: В Троицком районе изъяли каннабис и марихуану у двух жителей
+    url: https://mgorsk.ru/text/gorod/2026/11/13/76763423/
+    publisher: МГОРСК.ру
+    date: 2026-11-13
+    language: ru
 open_questions:
-  - The article gives no separate date for the two searches; 13 November 2026 is the publication and police-announcement date used as the incident date.
-  - No street value for the seized cannabis was published.
-  - The reports name no detention measure and do not state the specific criminal charges beyond the opened criminal cases.
-  - The account rests on a single opened outlet report citing the regional police press service.
-  - The lead image reused a September 2025 police file photo, so no photo of this seizure is listed.
+    - The accounts give no separate date for the two searches; 13 November 2026 is the publication and police-announcement date used as the incident date.
+    - No street value for the seized cannabis was published.
+    - The reports name no detention measure for the two suspects.
+    - Two outlets now report the event, but both trace to the Chelyabinsk regional police service, so the account does not rest on independent reporting.
 ---
 
 Troitsk drug-control officers found two cases of unlawful storage of banned
-substances in the villages of Bobrovka and Klyuchevka. [@1] The Chelyabinsk
+substances in the villages of Bobrovka and Klyuchevka. [@1,2] The Chelyabinsk
 regional police press service reported the finds on 13 November. [@1]
 
 In Bobrovka, officers searching an outbuilding found and seized a box holding
-plant-origin substance with a distinctive smell. [@1] The 40-year-old homeowner
-said he had grown, dried and kept the drug for personal consumption. [@1]
-Expertise confirmed the Bobrovka seizure was cannabis weighing 25 grams. [@1]
+plant-origin substance with a distinctive smell. [@1,2] The 40-year-old homeowner
+said he had grown, dried and kept the drug for personal consumption. [@1,2]
+Expertise confirmed the Bobrovka seizure was cannabis weighing 25 grams. [@1,2]
 The Bobrovka man had previously faced criminal liability for drug-trafficking
 crimes and intentional infliction of harm to health. [@1]
 
 In Klyuchevka, police searching a private property belonging to a 46-year-old
-local resident found a cardboard box with dark-green plant matter. [@1] Expert
+local resident found a cardboard box with dark-green plant matter. [@1,2] Expert
 conclusions identified the Klyuchevka substance as marijuana weighing 843 grams.
-[@1] The Klyuchevka man had prior convictions for unlawful storage of narcotics
+[@1,2] The Klyuchevka man had prior convictions for unlawful storage of narcotics
 and weapons trafficking. [@1] Criminal cases were opened against both suspects.
-[@1]
-
+[@1] Criminal cases were opened against both suspects under part 1 of article 228 of the Criminal Code. [@2]
