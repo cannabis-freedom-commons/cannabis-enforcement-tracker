@@ -91,6 +91,11 @@ sources:
     publisher: 머니투데이
     date: 2026-11-13
     language: ko
+  - title: 대마 흡연 자백 후 "범행 시점 잘못돼" 번복 - 시사주간
+    url: http://www.sisaweekly.com/news/articleView.html?idxno=48973
+    publisher: 시사주간
+    date: 2026-11-13
+    language: ko
 media:
   - kind: photo
     url: https://news.sbs.co.kr/english/article.do?news_id=N1008844852
@@ -124,7 +129,7 @@ April 2024. [@1,6,10,12,13] The appellate court upheld the guilty verdict, sayin
 no reason to suspect the confession was coerced and noting the accomplices'
 statements, and reduced the forfeiture to 12.68 million won to avoid
 double-counting the value of 144 ecstasy pills already forfeited in another
-case. [@1,6] On 8 July, the Seoul High Court acting as the appeals court upheld the convictions, finding no reason to doubt that the confessions were voluntary. [@7] The Supreme Court found that the police and prosecution interrogation
+case. [@1,6,14] On 8 July, the Seoul High Court acting as the appeals court upheld the convictions, finding no reason to doubt that the confessions were voluntary. [@7] The Supreme Court found that the police and prosecution interrogation
 records of A and the accomplices that the first-instance court relied on as
 evidence all concerned marijuana smoking in late April 2023, and that the
 interviews also took place before late April 2024, and that the toxicology
@@ -133,7 +138,7 @@ the offense in the indictment. [@1,6,8,10,12,13] The Supreme Court also found it
 out the possibility that the accomplices' in-court confessions referred to the
 April 2023 smoking incident, and therefore held that their testimony could not
 be deemed sufficient to corroborate A's confession, and that the remaining
-evidence alone did not adequately prove the alleged smoking in April 2024. [@1,4,5,6,7]
+evidence alone did not adequately prove the alleged smoking in April 2024. [@1,4,5,6,7,14]
 The Criminal Procedure Act bars a conviction if the defendant's confession is
 the only incriminating evidence, and the Supreme Court said the lower court
 misunderstood the legal principles on corroborating a confession and on the
