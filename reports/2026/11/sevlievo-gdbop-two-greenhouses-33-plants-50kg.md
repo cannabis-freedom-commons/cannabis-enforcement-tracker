@@ -63,6 +63,11 @@ sources:
     publisher: BurgasMedia
     date: 2026-11-12
     language: en
+  - title: Две оранжерии за отглеждане на канабис са разкрити при специализирана
+    url: https://novini247.com/novini/dve-oranjerii-za-otglejdane-na-kanabis-sa-razkriti-pri-spetsializirana_11391523.html
+    publisher: Новини 24/7
+    date: 2026-11-12
+    language: bg
 open_questions:
   - The seized amount is stated as nearly 50 kilograms ("близо 50 килограма"), an approximate figure rather than a measured weight.
   - No laboratory confirmation of the plant material was reported, and no street value estimate was published.
@@ -78,13 +83,13 @@ open_questions:
 Officers of GDBOP, the Interior Ministry's directorate for combating organised
 crime, found two equipped greenhouses for growing plants of the cannabis genus
 during a specialised operation in Sevlievo municipality on 10 November 2026.
-[@1,3,4] Acting under urgent conditions, officers searched two private properties
+[@1,3,4,5] Acting under urgent conditions, officers searched two private properties
 and found two working greenhouses holding 33 plants at different stages of
-growth. [@1,4] Police also seized nearly 50 kilograms of raw cannabis material
-that was in the process of drying. [@1,3,4]
+growth. [@1,4,5] Police also seized nearly 50 kilograms of raw cannabis material
+that was in the process of drying. [@1,3,4,5]
 
 Investigators gathered data on the involvement of a 48-year-old local man, and
-he was detained for up to 24 hours under the Interior Ministry Act. [@1,3,4] A
+he was detained for up to 24 hours under the Interior Ministry Act. [@1,3,4,5] A
 pre-trial proceeding was opened under Article 354a, paragraph 1 and Article 354b
 of the Penal Code, and the materials were reported to the Gabrovo District
 Prosecutor's Office. [@1,3,4]
@@ -94,4 +99,4 @@ and gives the same figures: two greenhouses in two private properties, 33 plants
 and nearly 50 kilograms of drying cannabis. [@2] The Ministry said the
 48-year-old man from Sevlievo was detained under the Interior Ministry Act for
 up to 24 hours and that the case materials were reported to the Gabrovo District
-Prosecutor's Office. [@2]
+Prosecutor's Office. [@2,5]
