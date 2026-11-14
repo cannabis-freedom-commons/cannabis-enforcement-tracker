@@ -52,32 +52,37 @@ sources:
     publisher: G1
     date: 2026-11-13
     language: pt
+  - title: Operação Fecha Região termina com prisão e apreensão de drogas e R$ 8,8 mil em Montes Claros
+    url: https://www.itatiaia.com.br/montesclaros/operacao-fecha-regiao-termina-com-prisao-e-apreensao-de-drogas-e-r-88-mil-em-montes-claros/
+    publisher: Rádio Itatiaia
+    date: 2026-11-13
+    language: pt
 open_questions:
   - No weight was published for the marijuana flower, bars, tablet or hashish bar, so no cannabis kilogram figure can be recorded.
   - Crack, ecstasy, ammunition and combined drug totals are mentioned only to explain the same mixed event and are excluded from cannabis figures.
   - The incident date of 12 November 2026 is the Thursday night named in the article published on 13 November 2026.
   - No charge or court outcome beyond transfer to the Civil Police station was reported.
   - The account rests on a single opened G1 report of the Military Police version; no second outlet account or agency statement could be opened.
+  - No weight was published for the marijuana flower, bars, tablet or hashish portions, so no cannabis kilogram figure can be recorded.
 ---
 
 A 25-year-old man was arrested on suspicion of drug trafficking in Jardim
-Primavera, Montes Claros, on the night of 12 November 2026. [@1] Officers
+Primavera, Montes Claros, on the night of 12 November 2026. [@1,2] Officers
 approached the suspect while he was accompanied by a woman. [@1] Officers
 initially found nothing illicit on him. [@1] The young man's mother authorised
-the officers to enter the home to carry out searches. [@1] The young man was
+the officers to enter the home to carry out searches. [@1,2] The young man was
 taken to the Civil Police on-duty station together with the seized material.
-[@1]
+[@1,2]
 
-In the suspect's bedroom officers noticed a strong marijuana odour. [@1] The
+In the suspect's bedroom officers noticed a strong marijuana odour. [@1,2] The
 young man himself indicated some of the places where drugs were stored. [@1]
 Officers seized a large portion of marijuana flower, four large bars and one
 medium tablet of marijuana, a large bar of hashish, a large crack bar, ecstasy
-pills, three intact .38 rounds and R$8,800 in cash hidden under the bed. [@1]
+pills, three intact .38 rounds and R$8,800 in cash hidden under the bed. [@1] Officers also seized two medium portions of concentrated hashish (dry) alongside the large hashish bar. [@2]
 
 The occurrence on Rua Amor Perfeito during Operation Fecha Regiao followed
-information that a resident was storing a large quantity of drugs at home. [@1]
+information that a resident was storing a large quantity of drugs at home. [@1,2]
 The tip also pointed to intense movement of people, motorcycles and vehicles at
 the address. [@1] A team monitored the property for about 50 minutes and
 identified movement matching the tip. [@1] A ROCCA dog-patrol team also took
-part in the searches but found no other illicit material. [@1]
-
+part in the searches but found no other illicit material. [@1,2]
