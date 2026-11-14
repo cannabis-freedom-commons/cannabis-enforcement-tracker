@@ -98,6 +98,11 @@ sources:
     publisher: İhlas Haber Ajansı
     date: 2026-11-12
     language: tr
+  - title: 'Şanlıurfa: Valizden uyuşturucu çıktı'
+    url: https://amidahaber.com/sanliurfa/sanliurfa-valizden-uyusturucu-cikti-240285h
+    publisher: Amida Haber
+    date: 2026-11-12
+    language: tr
 media:
   - kind: video
     url: https://www.urfanatik.com/video/sanliurfada-otobusteki-valizden-1-kilo-467-gram-esrar-cikti
@@ -114,15 +119,17 @@ media:
     media_url: https://urfadasincom.teimg.com/crop/1280x720/urfadasin-com/uploads/2026/11/jandarma-uyusturucu-arama-kopek.png
     publisher: Urfadasın
     caption: 'A gendarmerie narcotics dog searching the luggage compartment of the passenger bus, from Urfadasın''s report of the Karaköprü suitcase seizure. Photo: Urfadasın'
+open_questions:
+    - The 49 grams of esrar found in a shoe sole was published only by Amida Haber in this account and is not confirmed by the other outlets already cited in the report.
 ---
 
 Şanlıurfa provincial gendarmerie teams stopped a passenger bus on the
 Diyarbakır-Şanlıurfa highway in Karaköprü district during an operation against
-narcotics. [@1,3,4,8,9,10] The bus was stopped at the city entrance and searched. [@6,11] The Karaköprü District Gendarmerie Command and the narcotics branch carried out the operation on 9 November 2026. [@5] A detector dog supported the search of the bus's luggage
+narcotics. [@1,3,4,8,9,10,13] The bus was stopped at the city entrance and searched. [@6,11] The Karaköprü District Gendarmerie Command and the narcotics branch carried out the operation on 9 November 2026. [@5] A detector dog supported the search of the bus's luggage
 compartment. [@2,3,4,6,10,11]
 
 A search of a suitcase belonging to a passenger identified by his initials İ.K.
-found 1 kilogram 467 grams of esrar, the Turkish term for cannabis. [@1,3,4,5,6,7,9,10,11] Sabah
+found 1 kilogram 467 grams of esrar, the Turkish term for cannabis. [@1,3,4,5,6,7,9,10,11] 49 grams of esrar was found in the sole of a shoe. [@13] Sabah
 reported the same seizure of 1 kilogram 467 grams of esrar from the passenger's
 suitcase. [@2]
 
