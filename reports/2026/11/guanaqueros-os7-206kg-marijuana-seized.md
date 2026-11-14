@@ -55,6 +55,11 @@ sources:
     publisher: La Serena Online
     date: 2026-11-13
     language: es
+  - title: Incautan más de 200 kilos de marihuana en Guanaqueros, con un valor estimado de $1.650 millones
+    url: https://www.canal9.cl/episodios/2026/11/13/decomisan-mas-de-200-kilos-de-marihuana-en-guanaqueros-droga-fue-avaluada-en-1-650-millones
+    publisher: Canal 9 Bío Bío Televisión
+    date: 2026-11-13
+    language: es
 open_questions:
   - Neither source reports an arrest, detention, or named suspect in the Guanaqueros check.
   - The check occurred on the Thursday before the 13 November 2026 publications, taken as 12 November 2026; no clock time was given.
@@ -65,20 +70,20 @@ Specialist Carabineros officers of OS7 Coquimbo seized processed marijuana
 during a road check on Thursday in the Guanaqueros sector. [@1,3,4] Officers carried
 out the check at the toll entrance to the coastal town, where they inspected a
 white Chevrolet Prisma and found containers holding a large drug load inside.
-[@1,3,4] A second outlet confirms the Thursday operation took place at the toll
+[@1,3,4,5] A second outlet confirms the Thursday operation took place at the toll
 entrance to the coastal town, where officers inspected a white Chevrolet Prisma.
 [@2]
 
 Officers recovered 206 kilos and 546 grams of processed marijuana packed in 198
-packages and one bag. [@1,3,4] Carabineros valued the load at more than 1,650
-million pesos. [@1,3] Police said the seizure kept more than 413,000 doses from
-reaching Coquimbo and cities in central and southern Chile. [@1,3]
+packages and one bag. [@1,3,4,5] Carabineros valued the load at more than 1,650
+million pesos. [@1,3,5] Police said the seizure kept more than 413,000 doses from
+reaching Coquimbo and cities in central and southern Chile. [@1,3,5]
 
 Carabineros said the Guanaqueros seizure brought its road-control seizures in
-the Coquimbo Region to more than 700 kilos of drugs over seven days. [@1,3] The
+the Coquimbo Region to more than 700 kilos of drugs over seven days. [@1,3,5] The
 same week included a seizure of more than 30 kilos of marijuana at the region's
 northern access by OS7 and the Elqui highway unit, plus operations in Choapa
-province that removed almost half a tonne of illicit substances. [@1] Lieutenant
+province that removed almost half a tonne of illicit substances. [@1,5] Lieutenant
 Colonel Eugenio Olea of the Coquimbo Prefecture said road checks are a
 fundamental part of fighting drug trafficking and that police presence on the
 routes would be strengthened. [@1]
