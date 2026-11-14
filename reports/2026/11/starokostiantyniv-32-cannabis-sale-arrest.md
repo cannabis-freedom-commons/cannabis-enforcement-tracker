@@ -75,24 +75,25 @@ sources:
     publisher: Поділля News
     date: 2026-11-12
     language: uk
-open_questions:
-    - No cannabis weight or value for the 2,182 seized plants was published; only the plant count is recorded.
-    - The vsim.ua account is dated 12 November 2026, seven days after the earlier accounts; whether the arrest and the plantation discovery occurred on 5 November or later was not established.
-    - Whether the detained 32-year-old has already been notified of suspicion for cultivating the plantation or his link to it remains only preliminary is unresolved, because accounts differ.
+  - title: 'Прихована плантація біля річки: на Хмельниччині вилучили понад 2,1 тисячі кущів конопель'
+    url: https://kriminal.net.ua/news/18377prihovana-plantac-ja-b-lja-r-chki-na-hmelnichchin-viluchili-ponad-2-1-tisjach-kusch-v-konopel.html
+    publisher: Криминал
+    date: 2026-11-12
+    language: uk
 ---
 
 Police in Starokostiantyniv in Khmelnytskyi Oblast detained a 32-year-old local
-resident suspected of selling cannabis. [@1] Police said he sold cannabis during
+resident suspected of selling cannabis. [@1,7] Police said he sold cannabis during
 face-to-face meetings with clients. [@1] They arrested him under Article 208 of
 Ukraine's Criminal Procedure Code immediately after he sold another dose. [@1]
 
 The man had repeatedly faced criminal liability before for drug offences and
 thefts. [@1] Officers documented several instances of his unlawful activity
-before the arrest. [@1] The charge carries a sentence of 3 to 7 years of imprisonment. [@4,6] Police found a plantation of cannabis plants along a riverbank near Starokostiantyniv, seizing 2,182 cannabis plants. [@4,5,6] Investigators from police department No. 1 in Starokostiantyniv opened a criminal case over the plantings under Part 2 of Article 310 of Ukraine's Criminal Code. [@6] Officers seized 2,182 plants in total and sent them for expert examination. [@5] Investigators from police department No. 1 in
+before the arrest. [@1] The charge carries a sentence of 3 to 7 years of imprisonment. [@4,6,7] Police found a plantation of cannabis plants along a riverbank near Starokostiantyniv, seizing 2,182 cannabis plants. [@4,5,6,7] Investigators from police department No. 1 in Starokostiantyniv opened a criminal case over the plantings under Part 2 of Article 310 of Ukraine's Criminal Code. [@6,7] Officers seized 2,182 plants in total and sent them for expert examination. [@5,7] Investigators from police department No. 1 in
 Starokostiantyniv, under the procedural guidance of the prosecutor's office,
 notified him of suspicion under Parts 1 and 2 of Article 307 of Ukraine's
 Criminal Code, which covers unlawful acquisition, storage or sale of narcotic
-drugs or psychotropic substances. [@1] Investigators also notified him of suspicion under Part 2 of Article 310 of Ukraine's Criminal Code, which covers the illegal sowing or cultivation of cannabis plants. [@4] A court was still deciding what
+drugs or psychotropic substances. [@1] Investigators also notified him of suspicion under Part 2 of Article 310 of Ukraine's Criminal Code, which covers the illegal sowing or cultivation of cannabis plants. [@4] Investigators still had to establish whether the plantation was connected to the cannabis sale documented before his arrest, and the possible scale of the illegal activity. [@7] A court was still deciding what
 preventive measure to impose on the suspect. [@1]
 
 The Khmelnytskyi Oblast police communications unit issued the account on 5
