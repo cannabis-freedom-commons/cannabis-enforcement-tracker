@@ -48,21 +48,27 @@ sources:
     publisher: duaa-news.com
     date: 2026-11-14
     language: bn
+  - title: 478 arrested, 62 cases filed in DMP's 24-hour drive
+    url: https://viewsbangladesh.com/478-arrested-62-cases-filed-in-dmps-24hour-drive/
+    publisher: Views Bangladesh
+    date: 2026-11-14
+open_questions:
+  - Sources give different figures for the cannabis seized in this sweep, including 14.45 kg and 14.045 kg.
 ---
 
 Dhaka Metropolitan Police arrested 478 people and filed 62 cases during 24 hours
-of regular drives across the capital on Friday 13 November 2026. [@1,3] The
+of regular drives across the capital on Friday 13 November 2026. [@1,3,4] The
 figures were announced on 14 November by DMP Deputy Commissioner for Media and
 Public Relations Md Akter Hossain. [@1] Mirpur division accounted for the most
 arrests with 127, followed by Wari with 74, Tejgaon with 71, Lalbagh with 58,
 Uttara with 51, Motijheel with 39, Ramna with 29 and Gulshan with 23, with five
-more held by SRU-1 and the Detective Branch. [@2,3]
+more held by SRU-1 and the Detective Branch. [@2,3,4]
 
 During the same drives police seized 14 kg 45 grams (14.045 kg) of cannabis.
 [@1,3] Police also filed 62 cases and seized 14.045 kg of cannabis, 1,633 Yaba
 pills and 2.5 grams of heroin during the drives. [@2] Police also recovered five
 mobile phones, 17 bicycles, Tk 47,090 in suspected drug-sale proceeds, two
-exploded smoke-bomb casings and fragments of eight exploded cocktails. [@2,3]
+exploded smoke-bomb casings and fragments of eight exploded cocktails. [@2,3,4]
 
 Police said further legal proceedings against those arrested were under way.
-[@1]
+[@1,4]
