@@ -41,7 +41,7 @@ status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [coffeeshop, checkpoint, criminal-organisation]
 open_questions:
-  - The opened sources give no per-raid breakdown of the 200 kg found across the 2007 and 2008 raids.
+  - An AFP account puts the per-raid hauls at 120 kg in 2007 and 110 kg in 2008, totalling 230 kg against the roughly 200 kg given in the other accounts.
   - One source spells the owner's first name Meddie rather than Meddy; the report uses Meddy.
   - No later appeals or outcomes for the sixteen convicted people are recorded in the opened sources.
 sources:
@@ -57,14 +57,20 @@ sources:
     publisher: Stop the Drug War
     url: https://stopthedrugwar.org/chronicle/2010/mar/26/europe_dutch_coffee_shop_owner_f
     date: 2010-03-26
+  - title: Dutch cannabis shop owner to go on trial
+    publisher: AFP (via Expatica)
+    url: http://www.expatica.com/nl/news/dutch-news/Dutch-cannabis-shop-owner-to-go-on-trial_57744.html
+    archived: https://web.archive.org/web/20091103120210/http://www.expatica.com:80/nl/news/dutch-news/Dutch-cannabis-shop-owner-to-go-on-trial_57744.html
+    date: 2009-11-02
 ---
 
 Checkpoint in Terneuzen, near the Belgian border, was the biggest cannabis coffeeshop in
 the Netherlands, selling about 10 kg a day to some 3,000 customers before police forcibly
 closed it in May 2008. [@1] Dutch tolerance rules let coffeeshops keep no more than 500 g
 on hand, but police found about 200 kg of cannabis in raids on the shop in 2007 and 2008.
-[@2,3] At five grams per customer, a full day's trade meant shifting up to 15,000 grams
-through a back door the law pretends does not exist. [@3]
+[@2,3] An AFP account broke that total down as 120 kg found in a 2007 raid and 110 kg
+in the 2008 raids. [@4] At five grams per customer, a full day's trade meant shifting
+up to 15,000 grams through a back door the law pretends does not exist. [@3]
 
 ## Conviction
 
