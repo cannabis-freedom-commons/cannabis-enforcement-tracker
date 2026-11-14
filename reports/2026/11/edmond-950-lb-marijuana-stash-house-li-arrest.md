@@ -54,16 +54,14 @@ sources:
     url: https://kfor.com/news/investigation-leads-police-to-900-pounds-of-illegal-marijuana-in-edmond/amp/
     publisher: KFOR.com Oklahoma City
     date: 2026-11-13
-open_questions:
-    - The article gives no exact date for the car stop or the house search; it says the car was pulled over in late October, and 13 November 2026 is the publication date, used as the incident date.
-    - No specific charges were named; the article only says Edmond Police submitted charges to the Oklahoma County District Attorney's Office and that the suspect bonded out.
-    - The marijuana weight is stated as roughly 950 pounds, not an exact measured figure.
-    - The account rests on a single KFOR article, also republished by Yahoo News, so there is no independent second account.
-    - What happens to the submitted charges and the financial-crime inquiry is not reported.
+  - title: 'Around the Block: Richard Glossip, 900lbs of Marijuana, and Christmas festivities starting around the metro.'
+    url: https://kfor.com/news/around-the-block-richard-glossip-900lbs-of-marijuana-and-christmas-festivities-starting-around-the-metro/amp/
+    publisher: KFOR.com Oklahoma City
+    date: 2026-11-13
 ---
 
 Edmond police investigated suspicious drug activity in the area, which led them
-to a home that was acting as a stash house for a drug operation. [@1,3] The
+to a home that was acting as a stash house for a drug operation. [@1,3,4] The Edmond house where the marijuana was found was a rental property. [@4] The
 investigation led them to a home in a newly developed community near Danforth
 and Kelly. [@1,3] Documents say the car was known for alleged drug trafficking and made short-term visits to the residence. [@3]
 
@@ -74,7 +72,7 @@ an officer smelled marijuana. [@1,3] Police found rolls of packing tape and used
 dryer sheets inside the car. [@1,3] Acting on a search warrant, detectives
 recovered over 900 pounds of marijuana inside the house. [@1,2,3] Detectives found a
 significant amount of black trash bags filled with marijuana, mostly in
-heat-sealed plastic containers. [@1,3] Detectives also found heat-sealing machines, tape and clear packing bags. [@3] The house had no food and the only
+heat-sealed plastic containers. [@1,3,4] Detectives also found heat-sealing machines, tape and clear packing bags. [@3] The house had no food and the only
 furniture was an inflatable mattress in a bedroom. [@1,3] Neighbors told KFOR off camera they did not know whether anyone was living there. [@3] In total, the
 confiscated marijuana weighed roughly 950 pounds, about 431 kilograms. [@1,3]
 
