@@ -92,6 +92,11 @@ sources:
     publisher: A Voz do Vale
     date: 2026-11-13
     language: pt
+  - title: Polícia investiga suspeita de tráfico de maconha em associação medicinal de Itatinga
+    url: https://www.jornalatitude.com.br/noticia/policia-investiga-suspeita-de-trafico-de-maconha-em-associacao-medicinal-de-itatinga
+    publisher: Jornal Atitude
+    date: 2026-11-12
+    language: pt
 ---
 
 São Paulo Civil Police found a cannabis growing structure holding more than half
@@ -104,12 +109,12 @@ the search. [@1,3] Officers found six greenhouses for growing the drug and a
 nursery with seedlings of the same plant, as well as areas for drying,
 processing and storing it. [@1,3,4,5,6]
 
-Police identified about 5,500 plants and seedlings. [@1,3,5,6] They seized 89 packages
+Police identified about 5,500 plants and seedlings. [@1,3,5,6,8] They seized 89 packages
 holding more than 577 kilograms of plant material by net weight, plus two
-further packages weighing about 10 kilograms gross. [@1,3,5,6] JCNET reported the
+further packages weighing about 10 kilograms gross. [@1,3,5,6,8] JCNET reported the
 total as 587 kilograms of marijuana. [@2] Forensic officers took seven samples
-of the plantations for examination at the Instituto de Criminalística. [@1,3,5,6]
+of the plantations for examination at the Instituto de Criminalística. [@1,3,5,6,8]
 
 The plants in the greenhouses and the nursery were destroyed by incineration
-after the work on the property. [@1,3,4,5,6] JCNET reported that the case remained under
-investigation. [@2] The case was registered at the 6th Police District of Cambuci in São Paulo, where the investigation continues to identify other people involved. [@4,6] The incident was registered at the 6th Police District of Cambuci in the capital, where the investigations continue. [@7]
+after the work on the property. [@1,3,4,5,6,8] JCNET reported that the case remained under
+investigation. [@2] The case was registered at the 6th Police District of Cambuci in São Paulo, where the investigation continues to identify other people involved. [@4,6] The incident was registered at the 6th Police District of Cambuci in the capital, where the investigations continue. [@7,8]
