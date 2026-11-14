@@ -75,17 +75,26 @@ sources:
     publisher: Bastillepost
     date: 2026-11-13
     language: zh
+  - title: 手提行李藏大麻花 57歲旅客被捕
+    url: https://www.passiontimes.hk/article/11-13-2026/146027
+    publisher: PassionTimes
+    date: 2026-11-13
+    language: zh
+  - title: Hong Kong Customs detects drug trafficking case involving passenger at airport (with photo)
+    url: https://www.info.gov.hk/gia/general/202611/13/P2026111300536.htm
+    publisher: HKSAR Government Press Releases
+    date: 2026-11-13
 ---
 
 Hong Kong Customs detected a drug trafficking case on 13 November 2026 at Hong
 Kong International Airport and seized about seven kilograms of suspected
-cannabis buds with an estimated market value of about $1.46 million. [@1,2,3,4]
+cannabis buds with an estimated market value of about $1.46 million. [@1,2,3,4,5]
 
 During an anti-narcotics operation, Customs officers intercepted a 57-year-old
 Mainland male passenger and found the suspected cannabis buds inside his
-carry-on baggage, then arrested him. [@1,2,3,4] The arrested man has been charged with
+carry-on baggage, then arrested him. [@1,2,3,4,6] The arrested man has been charged with
 one count of trafficking in a dangerous drug; his case will be brought up at the
-West Kowloon Magistrates' Courts on 14 November 2026. [@1,2,3,4]
+West Kowloon Magistrates' Courts on 14 November 2026. [@1,2,3,4,5]
 
 Customs said it will keep applying a risk assessment approach, focusing on
 passengers from high-risk regions, and reminded the public not to accept payment
