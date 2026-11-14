@@ -152,6 +152,11 @@ sources:
     publisher: Omega.lviv.ua
     date: 2026-11-13
     language: uk
+  - title: На Івано-Франківщині викрили плантацію конопель на 8 млн грн (фото)
+    url: https://www.ukr.net/news/details/criminal/120490774.html
+    publisher: 'Версії: Новини Івано-Франківськ'
+    date: 2026-11-13
+    language: uk
 ---
 
 Police in Ivano-Frankivsk region exposed a 48-year-old Kolomyia resident and his
@@ -168,8 +173,8 @@ Kolomyia and to Sheparivtsi, where they dried it and stored it for sale. [@1,4,9
 Kolomyia police seized 7 buckets of plant material, and in Sheparivtsi, at the
 younger man's home, plastic wraps, packets and a container of crushed plant
 mass. [@1,9,11,13,14] Those searches recovered more than 13.5 kg of dried cannabis and 60
-cannabis plants. [@3,5,8] Police also seized the car used to transport the cannabis. [@9,11] The searches also recovered seeds, cash and mobile phones. [@10] The searches also recovered two cars in addition to the seeds, cash and mobile phones already recorded. [@15] Officers carried out 13 authorised searches at the suspects' and their relatives' homes in Kolomyia and Kolomyia district. [@5,10,15] The searches also covered a garage, a dacha building and the suspects' car, where police found equipment for growing cannabis. [@9] Police put the black-market value at no less than 8
-million hryvnias and said the amount is an especially large amount. [@1,4,8,9,12,13]
+cannabis plants. [@3,5,8,16] Police also seized the car used to transport the cannabis. [@9,11] The searches also recovered seeds, cash and mobile phones. [@10] The searches also recovered two cars in addition to the seeds, cash and mobile phones already recorded. [@15] Officers carried out 13 authorised searches at the suspects' and their relatives' homes in Kolomyia and Kolomyia district. [@5,10,15] The searches also covered a garage, a dacha building and the suspects' car, where police found equipment for growing cannabis. [@9] Police put the black-market value at no less than 8
+million hryvnias and said the amount is an especially large amount. [@1,4,8,9,12,13,16]
 
 Police said the men planned to sell the bulk wholesale to other regions of
 Ukraine. [@1,9,11,13,14] They also sold hand-to-hand in Kolomyia district. [@1,13] Both men
