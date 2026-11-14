@@ -50,20 +50,17 @@ sources:
     publisher: Mersin Haberci Gazetesi
     date: 2026-11-13
     language: tr
-open_questions:
-  - The total number of people detained was not given, only that 17 of those caught were remanded, so no total arrested figure is recorded.
-  - No district, neighbourhood or street is named for any of the 19 incidents beyond the provincial centre.
-  - The lead describes a five-day crackdown while the body dates the work to 7-13 November 2026; the report uses the dated range.
-  - The 115 grams is reported as esrar-skunk without a separate breakdown.
-  - No suspect names, pleas, trial dates or further court outcomes were reported.
-  - No street value was published for the cannabis; the 60,695 Turkish lira is cash police assessed as trafficking proceeds.
-  - The account rests on a single accessible outlet report; no agency statement or second outlet account was found.
+  - title: Mersin'de 19 operasyon, 17 tutuklama
+    url: https://www.dha.com.tr/yerel-haberler/mersin/mersinde-19-operasyon-17-tutuklama-2981385
+    publisher: DHA (Demirören Haber Ajansı)
+    date: 2026-11-13
+    language: tr
 ---
 
 Teams from the narcotics branch of the police directorate, acting under the
 coordination of the Mersin Chief Public Prosecutor's Office, carried out
 operations in the city centre of Mersin province between 7 and 13 November 2026.
-[@1] Police said the anti-trafficking work resulted in procedures in 19 separate
+[@1,2] Police said the anti-trafficking work resulted in procedures in 19 separate
 incidents across the provincial centre. [@1] Seventeen of the suspects caught
 during those operations were remanded in custody on charges of manufacturing and
 trading narcotic or stimulant substances. [@1]
@@ -80,4 +77,3 @@ police assessed as proceeds from drug trafficking. [@1]
 
 The sweep was presented as a crackdown on drug trafficking in Mersin in which
 cannabis formed only a small part of a larger multi-drug seizure. [@1]
-
