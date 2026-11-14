@@ -53,6 +53,11 @@ sources:
     publisher: eSanok.pl
     date: 2026-11-13
     language: pl
+  - title: Od mandatu za światła do sprawy w sądzie. 19-latek pod wpływem marihuany
+    url: https://www.terazkrosno.pl/artykul/53037-od-mandatu-za-swiatla-do-sprawy-w-sadzie-19-latek-pod-wplywem-marihuany
+    publisher: terazKrosno.pl
+    date: 2026-11-13
+    language: pl
 ---
 
 Jasło traffic police stopped a Toyota for a roadside check in Czeluśnica after
@@ -61,14 +66,14 @@ behaviour of the 19-year-old behind the wheel prompted officers to check whether
 he was under the influence of drugs. [@2] A drug tester showed the 19-year-old
 resident of Tarnowiec commune was under the influence of marijuana, so blood was
 taken for analysis, his driving licence was seized and the Toyota was taken to a
-police parking lot. [@1,4]
+police parking lot. [@1,4,5]
 
 The stop took place on Saturday 7 November 2026, while the Jasło traffic unit
 was running its “Your lights – our safety” campaign on correct vehicle lighting.
-[@2] Officers also found a broken rear lamp, seized the car's registration
-document and fined the young driver 500 zł for the lighting faults. [@1,4]
+[@2,5] Officers also found a broken rear lamp, seized the car's registration
+document and fined the young driver 500 zł for the lighting faults. [@1,4,5]
 
 Driving under the influence of an intoxicant is a crime punishable by up to
 three years in prison, with a driving ban imposed as well. [@3] The District
 Court in Jasło is to decide on the 19-year-old's responsibility and punishment.
-[@3]
+[@3,5]
