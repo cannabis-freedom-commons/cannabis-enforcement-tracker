@@ -63,6 +63,11 @@ sources:
     url: https://www.jeanmarcmorandini.com/article-657245-les-polices-de-plusieurs-pays-dont-la-france-ont-arrete-354-personnes-et-saisi-d-importantes-quantites-de-drogues-d-armes-a-feu-et-d-argent-liquide-dans-le-cadre-d-une-vaste-operation-internationale.html
     publisher: Jean-Marc Morandini
     language: fr
+  - title: Une opération policière internationale contre le dark web entraîne 350 arrestations
+    url: https://www.ouest-france.fr/societe/police/une-operation-policiere-internationale-contre-le-dark-web-entraine-350-arrestations-08ed9420-dee7-11f1-86b6-0a2fbb1d8ed9
+    publisher: Ouest-France
+    date: 2026-11-13
+    language: fr
 ---
 
 Europol coordinated Operation TorNado with law enforcement agencies from 14
@@ -80,7 +85,7 @@ and cocaine, with cannabis making up 50 of those kilograms. [@1]
 
 The United States seized over 4.8 metric tonnes of illicit drugs, 152 firearms
 and over EUR 150 million in cash and cryptocurrencies during the same operation.
-[@1,5] A second account of the operation's results reported the same 23 arrests in
+[@1,5,7] A second account of the operation's results reported the same 23 arrests in
 France and the same 50 kilograms of cannabis seized there. [@2]
 
 The FBI reported 354 arrests across 14 countries and the seizure of more than

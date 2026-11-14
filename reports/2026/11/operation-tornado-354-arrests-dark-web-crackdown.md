@@ -107,26 +107,33 @@ sources:
     publisher: Báo Thanh Niên
     date: 2026-11-14
     language: vi
+  - title: Une opération policière internationale contre le dark web entraîne 350 arrestations
+    url: https://www.ouest-france.fr/societe/police/une-operation-policiere-internationale-contre-le-dark-web-entraine-350-arrestations-08ed9420-dee7-11f1-86b6-0a2fbb1d8ed9
+    publisher: Ouest-France
+    date: 2026-11-13
+    language: fr
 media:
   - kind: photo
     url: https://tvi.iol.pt/noticias/dark-web/operacao-tornado/operacao-contra-trafico-na-dark-web-termina-com-354-detencoes-e-apreensao-de-toneladas-de-droga-armas-e-milhoes-em-dinheiro/20261113/6af6b33cd34e5a653d7340e7
     media_url: https://img.iol.pt/image/id/68f76b4ad34e58bc6797231f/1024.jpg
     publisher: TVI
     caption: 'Photo published with the Operation TorNado report, credited to Europol (AP). Photo: Europol (AP)'
+open_questions:
+    - The US cash and cryptocurrency seizure is recorded as US$166 million (about 1.5 billion euros) in the main report, while the Ouest-France account states 150 million euros; the figures differ and are not reconciled.
 ---
 
 United States and European officials said police arrested 354 people in a global
-crackdown on dark-web users. [@1,2,3,4,5,6,7,8,9,13,14] Europol coordinated the worldwide sting,
+crackdown on dark-web users. [@1,2,3,4,5,6,7,8,9,13,14,15] Europol coordinated the worldwide sting,
 codenamed Operation TorNado, with other authorities between May 2025 and October
-2026, leading to hundreds of raids worldwide. [@1,4,5,6,7,8,14] Most arrests were in the
+2026, leading to hundreds of raids worldwide. [@1,4,5,6,7,8,14,15] Most arrests were in the
 United States (132), followed by Britain (59), Hungary (45), Germany (41) and
-France (23). [@1,6,7,8,9,12,13,14] The operation was aimed at cybercrime, drug trafficking and the illegal firearms trade, and Belgium was not involved. [@3]
+France (23). [@1,6,7,8,9,12,13,14,15] The operation was aimed at cybercrime, drug trafficking and the illegal firearms trade, and Belgium was not involved. [@3]
 
 In Europe, authorities seized almost one tonne of drugs including amphetamines,
-ketamine, MDMA, cocaine and cannabis. [@1,2,3,4,5,6,7,8,10,12,13,14] In Europe, officers also seized 57 firearms and more than 60 million euros in cash and cryptocurrency. [@14] In the United States, more than 4.8
+ketamine, MDMA, cocaine and cannabis. [@1,2,3,4,5,6,7,8,10,12,13,14,15] In Europe, officers also seized 57 firearms and more than 60 million euros in cash and cryptocurrency. [@14] In the United States, more than 4.8
 tonnes of drugs were found, along with 152 firearms and US$166 million in cash
-and cryptocurrency. [@1,5,6,7,11,12,13,14] The value of the cash and cryptocurrency seized by US authorities, 1.5 billion euros, is about 5.2 billion New-Taiwan dollars and 1.66 billion US dollars. [@2] Police forces in 14 countries took part in the
-operation. [@1,5,7,14] Police forces from 14 countries took part in the operation, including Australia, France, Germany, the United Kingdom and the United States. [@2,6,8]
+and cryptocurrency. [@1,5,6,7,11,12,13,14,15] The value of the cash and cryptocurrency seized by US authorities, 1.5 billion euros, is about 5.2 billion New-Taiwan dollars and 1.66 billion US dollars. [@2] Police forces in 14 countries took part in the
+operation. [@1,5,7,14] Police forces from 14 countries took part in the operation, including Australia, France, Germany, the United Kingdom and the United States. [@2,6,8,15]
 
 FBI Deputy Director Christopher Raia said Operation TorNado addressed
 trafficking in fentanyl and other deadly drugs via the dark web. [@1,7] FBI Director Kash Patel said TorNado was the largest coordinated inter-agency operation to date targeting dark-web drug sellers. [@14] FBI Deputy Director Christopher Raia said at a Washington press conference that officers had unmasked several dark-web sellers' real identities, traced illegal money flows and destroyed the core infrastructure that kept the networks running. [@12,13] Europol
