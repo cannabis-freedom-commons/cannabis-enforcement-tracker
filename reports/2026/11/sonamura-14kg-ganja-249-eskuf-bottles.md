@@ -40,11 +40,11 @@ sources:
     url: https://tripurachronicle.in/local-news/14-kg-of-ganja-249-bottles-of-eskuf-cough-syrup-seized-in-sonamura/
     publisher: Tripura Chronicle
     date: 2026-11-13
-open_questions:
-  - No one was arrested; the source names no charges, court or ownership beyond the ongoing investigation.
-  - The Rs 9.29 lakh figure is a police estimate that combines the ganja and the 249 Eskuf cough syrup bottles; no separate value was published for either item.
-  - No figure was published for the weight or volume of the 249 Eskuf bottles.
-  - Tripura Chronicle used only its outlet logo as the page image, so no photo of this seizure is listed.
+  - title: শ্রীমন্তপুর সীমান্ত সড়কে পুলিশের অভিযান, উদ্ধার ১৪ কেজি গাঁজা ও ২৪৯ বোতল এসকফ
+    url: https://jagarantripura.com/2026-11-13/police-raid-on-srimantapur-border-road-recover-14-kg-of-marijuana-and-249-bottles-of-escoff/
+    publisher: Jagarantripura
+    date: 2026-11-13
+    language: bn
 ---
 
 Sonamura police seized 14 kg of dry ganja, the local name for cannabis, and 249
@@ -53,9 +53,8 @@ Srimantapur border road. [@1] According to police sources, the suspected
 contraband items were found abandoned along the roadside and were seized as
 unclaimed property after completing all necessary legal formalities. [@1] Police
 estimated the combined market value of the ganja and the cough syrup at about Rs
-9.29 lakh. [@1]
+9.29 lakh. [@1,2]
 
 Sonamura Police Station opened an investigation to identify the people who
 stored or abandoned the contraband and to establish its ownership; no arrests
-were reported. [@1]
-
+were reported. [@1,2]
