@@ -51,11 +51,11 @@ sources:
     publisher: Punto! - Il web magazine
     date: 2026-11-13
     language: it
-open_questions:
-    - No separate date for the checkpoint stop is given; 13 November 2026 is the publication date and is used as the incident date.
-    - The 25-year-old passenger was reported rather than arrested, so only one arrest and one charge are recorded.
-    - No court outcome beyond the house-arrest measure was reported; the case was at the investigation stage.
-    - The drugs were described as hashish and marijuana with no laboratory confirmation.
+  - title: Napoli fermato in auto con hashish e marijuana | arrestato 38enne
+    url: https://www.zazoom.it/2026-11-13/napoli-fermato-in-auto-con-hashish-e-marijuana-arrestato-38enne/19923164/
+    publisher: Zazoom Social News
+    date: 2026-11-13
+    language: it
 media:
   - kind: photo
     url: https://puntomagazine.it/2026/11/13/napoli-spaccio-auto-san-giovanni-a-teduccio-arrestato-38enne/
@@ -66,7 +66,7 @@ media:
 
 Carabinieri from the San Giovanni a Teduccio station in Naples arrested a
 38-year-old Neapolitan man with no prior record on suspicion of holding drugs
-for dealing. [@1,2] He was stopped during a traffic check in via Vigliena. [@1,2]
+for dealing. [@1,2,3] He was stopped during a traffic check in via Vigliena. [@1,2,3]
 Officers found 53 grams of hashish and 16.3 grams of marijuana in his jacket.
 [@1,2] The seized drugs were described as ready to be released on the local illicit market. [@2] A 25-year-old passenger in the car driven by the 38-year-old was reported
 for the same offence; officers found 8 grams of marijuana in the younger man's
