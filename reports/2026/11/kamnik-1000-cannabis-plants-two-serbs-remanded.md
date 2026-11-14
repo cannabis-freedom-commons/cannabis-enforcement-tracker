@@ -90,6 +90,11 @@ sources:
     publisher: Svet24.si
     date: 2026-11-13
     language: sl
+  - title: V Kamniku odkrili več kot 1000 sadik konoplje
+    url: https://slo24.si/v-kamniku-odkrili-vec-kot-1000-sadik-konoplje/
+    publisher: Slo24.si
+    date: 2026-11-13
+    language: sl
 open_questions:
   - The plant total is reported only as more than 1,000, so 1,000 is the recorded lower-bound count rather than an exact total.
   - The dried cannabis weight was reported as approximately 2 kilograms, not an exact measured figure.
@@ -100,7 +105,7 @@ open_questions:
 
 Police arrested two Serbian citizens after discovering a cannabis-growing space
 in the Kamnik area. [@1,3,4] The Ljubljana Police Administration's criminal police
-sector searched a house there on Wednesday, 11 November 2026. [@1,3,4] The suspects
+sector searched a house there on Wednesday, 11 November 2026. [@1,3,4,5] The suspects
 were aged 37 and 35, and police acted on gathered information and a court order.
 [@1,3,4]
 
