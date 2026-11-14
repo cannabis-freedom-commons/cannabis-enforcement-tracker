@@ -74,26 +74,24 @@ sources:
     publisher: Réunion la 1ère
     date: 2025-12-29
     language: fr
-open_questions:
-  - The about 80 kg is the gendarmerie's estimated weight for the whole 2,337 plants, not a separately weighed dried-cannabis seizure.
-  - No public figure was given for the money, vehicle count or number of plots involved.
-  - No charge, charge date or court outcome was reported; only pre-trial detention is known.
-  - The outlets state the operation took place on 29 November 2025 but were published on 29 December 2025, a month later.
-  - 'Left out, as its quotation was not found in Réunion la 1ère: In quotes relayed from a gendarmerie Facebook post, officers said a fast and precise inquiry by the Saint-Joseph brigade had ended what they called a real illegal operation.'
+  - title: '[Photos] Saint-Joseph : 2.337 plants de zamal saisis par les gendarmes, deux personnes en détention provisoire'
+    url: https://imazpress.com/faits-divers/traffic-de-stupefiants-2337-plants-de-zamal-saisit-par-les-gendarmes-a-saint-joseph-2-personnes-placees-en-detention-provisoire
+    publisher: Imaz Press Réunion
+    date: 2025-12-29
+    language: fr
 ---
 
 Gendarmes from the Saint-Joseph community of brigades found a large cannabis
 crop in old, isolated farm buildings on Réunion on Saturday 29 November 2025.
-[@1] At the site they seized 1,734 growing plants and 130 plants that were
+[@1,4] At the site they seized 1,734 growing plants and 130 plants that were
 drying, along with two growing rooms and all the associated production
-equipment. [@1] Further checks on other plots put the total at 2,337 cannabis
-plants, which the gendarmerie said weighed about 80 kg. [@1] The gendarmerie
+equipment. [@1,4] Further checks on other plots put the total at 2,337 cannabis
+plants, which the gendarmerie said weighed about 80 kg. [@1,4] The gendarmerie
 said the searches showed an organised operation spread over several plots around
 the farm buildings. [@2]
 
 One man was arrested and taken into police custody, and a second was arrested
 later during the investigation. [@1] Both suspects were placed in pre-trial
-detention. [@1] Several vehicles, equipment and sums of money were also seized
+detention. [@1,4] Several vehicles, equipment and sums of money were also seized
 in an investigation opened for drug trafficking. [@1] The gendarmerie again put
 the total at 2,337 plants weighing about 80 kilos. [@3]
-
