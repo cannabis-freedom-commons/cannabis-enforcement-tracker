@@ -54,6 +54,11 @@ sources:
     publisher: Newsbeast
     date: 2026-11-13
     language: el
+  - title: Συνελήφθη 47χρονος που έκρυβε 12,6 κιλά κάνναβης σε σπηλιά στην Κινέτα
+    url: https://www.cnn.gr/ellada/story/561910/synelifthi-47xronos-pou-ekryve-12-6-kila-kannavis-se-spilia-stin-kineta
+    publisher: CNN.gr
+    date: 2026-11-13
+    language: el
 media:
   - kind: photo
     url: https://www.neakriti.gr/koinonia/2211153_kineta-ekrybe-126-kila-kannabis-se-spilaio-synelifthi-47hronos
@@ -64,16 +69,16 @@ media:
 
 Narcotics officers arrested a 47-year-old foreign man for cannabis possession
 and trafficking. [@1,6] Officers found the man inside a cave in Kineta, where he
-had hidden drug quantities for further distribution. [@1,3,4,5] Police said he stored
+had hidden drug quantities for further distribution. [@1,3,4,5,7] Police said he stored
 and distributed raw cannabis to various people, mainly around Agioi Theodoroi in
-Corinthia and in Attica. [@1,3,5,6] The arrest took place on the afternoon of
+Corinthia and in Attica. [@1,3,5,6,7] The arrest took place on the afternoon of
 Wednesday 11 November 2026 during an organized operation by the Narcotics
 Prosecution Subdirectorate in the Attica area. [@1,3]
 
 At the site officers found a total of 12.6 kilograms of raw cannabis and
 cannabis clones, along with signal-jamming and surveillance devices. [@1] The
 total comprised 6.6 kilograms of raw cannabis and six kilograms of cannabis
-clones. [@2,4,5,6] Police seized a car. [@1,4,5] Police also seized a mobile phone. [@3] They also found two electric air
+clones. [@2,4,5,6,7] Police seized a car. [@1,4,5] Police also seized a mobile phone. [@3] They also found two electric air
 extractors, packaging for extracting cannabis oil, a metal tray and an electric
 blender. [@2]
 
