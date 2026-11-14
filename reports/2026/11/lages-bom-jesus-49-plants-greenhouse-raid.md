@@ -69,6 +69,11 @@ sources:
     publisher: Notícia no Ato
     date: 2026-11-13
     language: pt
+  - title: (VÍDEO) Polícia encontra 49 pés de maconha e estrutura de cultivo em residência
+    url: https://rc.fm.br/noticia/video-policia-encontra-49-pes-de-maconha-e-estrutura-de-cultivo-em-residencia
+    publisher: Cidade 92.3FM
+    date: 2026-11-13
+    language: pt
 media:
   - kind: photo
     url: https://scc10.com.br/radioclube/pm-apreende-49-pes-de-maconha-em-residencia-em-lages/
@@ -89,15 +94,15 @@ media:
 
 On the night of Thursday 12 November 2026, Santa Catarina military police
 arrested one man and seized 49 cannabis plants at a house in the Bom Jesus
-district of Lages. [@1,2,4,5] Officers recorded the incident at about 19h45 during
+district of Lages. [@1,2,4,5,6] Officers recorded the incident at about 19h45 during
 patrol, after noticing a strong smell of marijuana near a residence and finding
 a cultivation structure. [@1,2,3,4,5] Inside the property they found three greenhouses
 with ventilation, lighting and heating equipment, along with other cultivation
-materials. [@1,2,5]
+materials. [@1,2,5,6]
 
 Officers also seized 1.325 kg of marijuana, which the police said was packaged
-and ready for sale. [@1,2,3,4,5] The man was taken to the Civil Police station, where
-the incident was registered as drug trafficking. [@1,2,4,5] The plants, the packaged
+and ready for sale. [@1,2,3,4,5,6] The man was taken to the Civil Police station, where
+the incident was registered as drug trafficking. [@1,2,4,5,6] The plants, the packaged
 drug and the equipment were collected and placed at the disposal of the
 authorities responsible for the investigation. [@1] The outlet attributes its
 account to the Santa Catarina Military Police. [@1]
