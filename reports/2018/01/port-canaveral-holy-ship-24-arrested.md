@@ -52,38 +52,43 @@ sources:
     url: https://www.clickorlando.com/news/2018/01/10/party-ship-hits-the-high-seas-as-prosecutors-warn-about-pot-laws/
     publisher: ClickOrlando
     date: 2018-01-10
+  - title: Nearly two dozen arrested ahead of Holy Ship! party cruise at Port Canaveral
+    url: https://www.floridatoday.com/story/news/crime/2018/01/08/brevard-investigators-sorting-through-party-ship-arrests/1013372001/
+    publisher: Florida Today
+    date: 2018-01-08
 open_questions:
-  - The incident date 6 January 2018 is inferred because reports say the arrests took place on Saturday and were published on 8 January 2018.
-  - The reported total of 24 arrests covers all drugs including cocaine and MDMA; no source gives a separate count of people held only for cannabis.
-  - The 100-gram figure is the weight of weed gummies as seized and includes the edible medium, not a net THC weight.
-  - No separate weights were published for THC pills, weed oil, espresso beans or the under-20-gram marijuana possession cases.
-  - The gallery labels 23 photos while outlets report 24 arrests, a discrepancy the sources do not explain.
-  - The second-leg sweep on 10 January 2018 with additional arrests is a separate event left out here.
-  - No court outcomes were reported in the opened accounts.
-  - The gallery contains booking mugshots only, so no seizure photo is linked as media.
+    - The incident date 6 January 2018 is inferred because reports say the arrests took place on Saturday and were published on 8 January 2018.
+    - The reported total of 24 arrests covers all drugs including cocaine and MDMA; no source gives a separate count of people held only for cannabis.
+    - The 100-gram figure is the weight of weed gummies as seized and includes the edible medium, not a net THC weight.
+    - No separate weights were published for THC pills, weed oil, espresso beans or the under-20-gram marijuana possession cases.
+    - The gallery labels 23 photos while outlets report 24 arrests, a discrepancy the sources do not explain.
+    - The second-leg sweep on 10 January 2018 with additional arrests is a separate event left out here.
+    - No court outcomes were reported in the opened accounts.
+    - The gallery contains booking mugshots only, so no seizure photo is linked as media.
+    - A Florida Today account names 22 people taken into custody, Gina Marie Van Scheppingen and 21 others, and says about two dozen arrests, while other accounts reported 24.
+    - Florida Today gives Gina Marie Van Scheppingen as 33 and from Orangeburg, New York, while another account reported her as 34.
 ---
 
 Federal, state and local officers arrested 24 people on drug-possession charges
 during security checks before boarding the Holy Ship! 2018 cruise at Port
-Canaveral. [@2] The arrests took place on Saturday 6 January during embarkation
+Canaveral. [@2,4] The arrests took place on Saturday 6 January during embarkation
 for the Norwegian Epic, a cruise ship hosting the Holy Ship! festival and
-designed for 4,000 people. [@3] Brevard County Sheriff's Office and Customs and
+designed for 4,000 people. [@3,4] The ship was headed to Great Stirrup Cay, a private island. [@4] Brevard County Sheriff's Office and Customs and
 Border Patrol agents with drug-sniffing dogs stopped would-be passengers from
-leaving the port. [@3]
+leaving the port. [@3,4]
 
 Deputies said the drugs ranged from marijuana to cocaine and MDMA or ecstasy,
-with much of it linked to the rave scene. [@2] One arrest involved 34-year-old
+with much of it linked to the rave scene. [@2,4] One arrest involved 34-year-old
 Gina Marie Van Scheppingen, who performs as DJ Gina Turner. [@3] Deputies
 searching her bag found THC-laced edibles and THC oil pipes along with 1.5 grams
-of powdered cocaine. [@3] Officers also reported THC pills, weed oil for vaping,
+of powdered cocaine. [@3,4] Officers also reported THC pills, weed oil for vaping,
 marijuana-infused gummies and pot-laced espresso beans among other would-be
 passengers. [@3] Ryan Canty of Westminster, California, was found with
 approximately 100 grams of weed gummies and told officers he did not know
-Florida's marijuana law. [@3]
+Florida's marijuana law. [@3] Police records showed most of the charges were for small amounts of drugs, and a 53-year-old Winter Park man was charged with drug trafficking after police said he had 80 grams of MDMA gummy candies. [@4]
 
 Several of those arrested carried California medical-marijuana cards, which
-prosecutors said Florida does not recognize. [@3] Holy Ship! warned that anyone
+prosecutors said Florida does not recognize. [@3,4] Holy Ship! warned that anyone
 found with illegal substances would be arrested and banned from future events.
-[@2] A photo gallery of the arrests was titled two dozen arrested for drugs
+[@2] Holy Ship! organizers had no comment about the arrests. [@4] A photo gallery of the arrests was titled two dozen arrested for drugs
 before the party cruise. [@1]
-
