@@ -46,23 +46,29 @@ sources:
     publisher: Nachrichten Kaiserslautern
     date: 2026-11-13
     language: de
+  - title: Polizei hebt Cannabisplantage aus - eine Festnahme
+    url: https://aktuell.meinestadt.de/kaiserslautern/polizeimeldungen/841371477
+    publisher: meinestadt.de
+    date: 2026-11-13
+    language: de
 open_questions:
   - Only a lower bound of more than 1,000 plants was published; no exact plant count, weight, area or value was given.
   - The exact location of the hall within Verbandsgemeinde Kusel-Altenglan was not disclosed.
   - The suspect's alleged role in operating the plantation and whether other people were involved are not known.
   - No charges, court outcome or further investigation results beyond the pre-trial detention order were reported.
+  - Left out arrested, as its quotation was not found in meinestadt.de.
 ---
 
 On the evening of 12 November 2026, special police units searched a hall in
 Verbandsgemeinde Kusel-Altenglan after a tip-off about a suspected illegal grow.
-[@1] A tip had led investigators to the suspected illegal cultivation site,
+[@1,3] A tip had led investigators to the suspected illegal cultivation site,
 according to police. [@1] Inside the hall, officers found an extensive cannabis
-plantation with more than 1,000 cannabis plants. [@1]
+plantation with more than 1,000 cannabis plants. [@1,3]
 
-During the search, a 40-year-old man tried to flee the hall. [@1] Officers
+During the search, a 40-year-old man tried to flee the hall. [@1,3] Officers
 stopped the escape and arrested the 40-year-old suspect. [@2] On Friday 13
-November, the suspect was brought before an investigating judge. [@1] The court
-ordered pre-trial detention for the suspect. [@2] He made no statement on the
+November, the suspect was brought before an investigating judge. [@1,3] The court
+ordered pre-trial detention for the suspect. [@2,3] He made no statement on the
 allegations and exercised his right to remain silent, according to police. [@1]
 
 Police note that cultivation on this scale remains prohibited in Germany despite
@@ -71,4 +77,3 @@ what role the 40-year-old played in operating the plantation or whether others
 were involved. [@1] The exact location of the hall within the Verbandsgemeinde
 was not disclosed. [@1] The presumption of innocence applies to the suspect.
 [@1]
-
