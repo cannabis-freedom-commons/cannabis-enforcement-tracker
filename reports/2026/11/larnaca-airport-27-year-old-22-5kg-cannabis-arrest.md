@@ -1,19 +1,18 @@
 ---
 code: EEK500
 added_at: "2026-11-13T06:02:40.347247Z"
-date: 2026-11-12
+date: 2026-11-13
 country: cy
 place: Larnaca Airport
 coordinates: [34.8714, 33.6068]
 precision: locality
 type: arrest
 also: [seizure]
-title: 27-year-old held at Larnaca airport with 22.5 kg of cannabis
-summary: >-
-  A 27-year-old man was arrested at Larnaca airport on Thursday morning after customs and the anti-drugs unit found 42 packages of cannabis weighing about 22.5 kg in his travel bag. He had arrived on a flight from Bangkok via Doha and was held on suspicion of illegal importation, illegal possession and possession with intent to supply.
+title: 27-year-old remanded over 22.5 kg cannabis seized at Larnaca airport
+summary: A 27-year-old man was arrested at Larnaca airport on 12 November 2026 after customs officers and the drug squad found 22.5 kg of cannabis in 42 packages in his luggage. A Larnaca court remanded him for eight days on 13 November 2026 while the investigation continues.
 figures:
-  arrested: 1
-  kg_seized: 22.5
+    arrested: 1
+    kg_seized: 22.5
 details:
   agencies: [Anti-Drugs Unit (YKAN) of the Directorate for Combating Organised Crime (DAOE), Cyprus customs department]
   agency_types: [police, anti-narcotics, customs]
@@ -27,16 +26,16 @@ details:
   region: Larnaca
   route: {from: [th], to: [cy]}
 data_sources:
-  details.activity: [1]
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.charges: [1]
-  details.products: [1]
-  details.route: [1]
-  details.setting: [1]
-  figures.arrested: [1]
-  figures.kg_seized: [1]
+    details.activity: [1]
+    details.agencies: [1]
+    details.agency_types: [1]
+    details.case_stage: [1]
+    details.charges: [1]
+    details.products: [1]
+    details.route: [1]
+    details.setting: [1]
+    figures.arrested: [10]
+    figures.kg_seized: [10]
 media:
   - kind: photo
     url: https://en.philenews.com/local/larnaca-airport-man-arrested-22-5kg-cannabis-bangkok-doha/
@@ -98,10 +97,14 @@ sources:
     publisher: Airnews
     date: 2026-11-13
     language: el
+  - title: Man remanded over 22.5kg cannabis seizure
+    url: https://cyprus-mail.com/2026/11/13/man-remanded-over-22-5kg-cannabis-seizure
+    publisher: Cyprus Mail
+    date: 2026-11-13
 ---
 
 A 27-year-old man was arrested at Larnaca airport on Thursday morning after
-about 22.5 kilograms of cannabis was found in his luggage. [@1,4,5,6,7,8,9] He had arrived
+about 22.5 kilograms of cannabis was found in his luggage. [@1,4,5,6,7,8,9] A 27-year-old Thai national was remanded for eight days on 13 November 2026 by a Larnaca court following his arrest at Larnaca airport over the seizure of 22.5 kg of cannabis. [@10] He had arrived
 on a flight from Bangkok via Doha and was stopped for a check after drug squad
 officers assessed information they had received. [@1,4] Philenews described the
 arrested man as a British national. [@1] Kıbrıs Postası also described the arrested man as a British national. [@4] The Cyprus Mail reported instead that
