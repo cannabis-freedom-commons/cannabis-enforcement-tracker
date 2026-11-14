@@ -79,17 +79,22 @@ sources:
     publisher: Habertürk Yerel Haberler
     date: 2026-11-13
     language: tr
+  - title: 'Bursa''da bağ evine operasyon: 2 kilo esrar ele geçirildi'
+    url: https://www.saraymedya.com/haber/bursa-da-bag-evine-operasyon-2-kilo-esrar-ele-gecirildi_323878/
+    publisher: Saray Medya
+    date: 2026-11-13
+    language: tr
 ---
 
 Yenişehir district gendarmerie teams and narcotics dog units raided a vineyard
-house in Mahmudiye Mahallesi in Yenişehir, Bursa. [@1,4,5] Officers detained a
-65-year-old man identified as K.S. during the operation. [@1,4,5]
+house in Mahmudiye Mahallesi in Yenişehir, Bursa. [@1,4,5,7] Officers detained a
+65-year-old man identified as K.S. during the operation. [@1,4,5,7]
 
 The search found 2 kilograms 160 grams of material assessed to be kubar esrar,
-the Turkish term for compressed cannabis. [@1,4,6] Officers also seized 50 grams of
+the Turkish term for compressed cannabis. [@1,4,6,7] Officers also seized 50 grams of
 cannabis seeds at the address. [@2,4,6] Officers also seized a precision scale and a
 drug-use implement at the address. [@1,4,5] Officers also seized an unlicensed
 shotgun and four cartridges. [@1,4,5]
 
 Blood and urine samples were taken from K.S. and handed to the authorities for
-examination. [@3,4,6] An investigation was opened into the incident. [@1,4,5]
+examination. [@3,4,6] An investigation was opened into the incident. [@1,4,5,7]
