@@ -52,15 +52,21 @@ sources:
     publisher: BLICK aktuell
     date: 2026-11-13
     language: de
+  - title: 'Polizei-News Bonn, 13.11.26: Polizei stellt Cannabis bei Schwerpunktkontrollen sicher'
+    url: https://www.news.de/lokales/860185684/blaulicht-news-polizei-einsatz-bonn-13-11-26-verstoss-gegen-das-betaeubungsmittelgesetz-heute/1/
+    publisher: news.de
+    date: 2026-11-13
+    language: de
 open_questions:
   - Both stated seizure amounts are approximate, and the small quantities found on the two people at the car park were not weighed or included in the 1.1-kilogram total.
   - No arrest or detention, formal charge or court outcome was reported.
   - The exact number of people covered by the investigations following the car-park encounter was not stated.
   - The local account repeats the Bonn police statement, so the event is documented by a single originating account.
+  - The news.de page repeats the Bonn police statement and adds no new information, so the event remains documented by a single originating account.
 ---
 
 During a flat search in Tannenbusch, officers found about 500 grams of cannabis
-in a backpack and opened an investigation against its 18-year-old owner. [@1]
+in a backpack and opened an investigation against its 18-year-old owner. [@1,3]
 About 600 grams of cannabis were also seized from the room of a 21-year-old man
 suspected of selling the drug. [@1] The two stated seizures amount to about 1.1
 kilograms of cannabis. [@2] The checks took place on 6 November 2026 in
@@ -76,5 +82,4 @@ Cannabis Consumption Act. [@1]
 The operation involved City-Wache officers, dog handlers and investigators from
 Criminal Investigation Department 25, the Bonn police unit responsible for drug
 crime. [@1] Police checked 37 people and 17 vehicle drivers during the
-operation. [@1]
-
+operation. [@1,3]
